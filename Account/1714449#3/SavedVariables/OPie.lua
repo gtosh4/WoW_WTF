@@ -117,8 +117,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuehM6q7Se",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 		},
 	},

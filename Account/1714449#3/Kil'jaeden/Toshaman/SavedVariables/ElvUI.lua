@@ -1,558 +1,255 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Blueflame-Kil'jaeden mmk, thanks", -- [1]
-		"/cw Morepheous-Kil'jaeden sure", -- [2]
-		"/cw Morepheous-Kil'jaeden just finished that run", -- [3]
-		"/cw Morepheous-Kil'jaeden np", -- [4]
-		"/cw Morepheous-Kil'jaeden did you have quest", -- [5]
-		"/p how many mask", -- [6]
-		"/p hah", -- [7]
-		"/p I just solo'd 1 pretty easily", -- [8]
-		"/p so yeha", -- [9]
-		"/p that should be fine", -- [10]
-		"/p which ones that again", -- [11]
-		"/p double sanity taken", -- [12]
-		"/p uhm, this is fine I think", -- [13]
-		"/p yeah", -- [14]
-		"/p r", -- [15]
-		"/p I'll refresh mine", -- [16]
-		"/p black is bad", -- [17]
-		"/p was that one 3 or 4", -- [18]
-		"/p oh, that sucks, didn't know", -- [19]
-		"/p sure, we can go", -- [20]
+		"/o which we do without", -- [1]
+		"/o so it is literally wasted dmg", -- [2]
+		"/o yes", -- [3]
+		"/o that's why", -- [4]
+		"/o I said to hold", -- [5]
+		"/o but then", -- [6]
+		"/o jamie spoiled it", -- [7]
+		"/o well, you don't get full lust", -- [8]
+		"/o but you lust like, 20s before", -- [9]
+		"/o CDs come up", -- [10]
+		"/o and you get 10s of lusted CDs", -- [11]
+		" yeah", -- [12]
+		" lol", -- [13]
+		" yea", -- [14]
+		" yeah, just wall it", -- [15]
+		" it's just jamie and turkey", -- [16]
+		" evan's on our side, he wanted 1 less decaying strike", -- [17]
+		" yeah, we downgraded our ringer", -- [18]
+		" not that turkey's bad", -- [19]
+		" I just don't think he's that strong strategically", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"mk doing world boss then im ready", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:13572:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[The Heart Forge]|h|r!", -- [1]
+			"Rathux-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"Rathux-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			242, -- [11]
-			"Player-9-0AF4267B", -- [12]
+			241, -- [11]
+			"Player-9-0B3DA965", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492146,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc31d39Rathux|r",
+			[51] = 1584586069,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [1]
 		{
-			"np", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"3 now", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			243, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
+			248, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492150,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586189,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
 		}, -- [2]
 		{
-			"<DBM> Morepheous has defeated World Boss - Grand Empress Shek'zara!", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"I think you're letting things get to you too much", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			244, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492227,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [3]
-		{
-			"r", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			245, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492237,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [4]
-		{
-			"did you have quest", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			249, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492260,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [5]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586209,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [3]
 		{
-			"y", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"just relax, you'll be fine", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			250, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492264,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [6]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586215,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [4]
 		{
-			"how many masks you want to do?", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"I know it's easier said than done", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			258, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
+			251, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492305,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586220,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [5]
 		{
-			"how many mask", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"chance at redemption", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492306,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"hah", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			260, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492309,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586418,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [6]
 		{
-			"3?", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"welcome", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492313,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"I just solo'd 1 pretty easily", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			262, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492315,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584586479,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [7]
 		{
-			"so yeha", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"sent", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			263, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492316,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
-		{
-			"that should be fine", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			264, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492318,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
-		{
-			"you like these 3?", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492328,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
-		{
-			"or would you rather have daredevil over pained?", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			266, -- [11]
-			"Player-9-0AF4267B", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492341,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584586498,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [8]
 		{
-			"which ones that again", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"ooo ty", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			267, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492353,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584586504,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [9]
 		{
-			"extra  madness or increased sanity dmg?", -- [1]
+			"|cffa335ee|Hitem:157916::::::::120:102::28:7:4803:6578:6579:6554:6513:1637:4786:::|h[Gonk Outrunner Belt]|h|ryikes", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			268, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492368,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
-		{
-			"double sanity taken", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			269, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492370,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
-		{
-			"uhm, this is fine I think", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492378,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
-		{
-			"okay, increased sanity it is", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			271, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492388,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
-		{
-			"its 400%", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			272, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492394,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
-		{
-			"but thats fine", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			273, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492397,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"yeah", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			274, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492400,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			275, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-0AF4267B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492402,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1584586914,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [10]
 		{
-			"eating some goulash", -- [1]
+			"%s has earned the achievement |cffffff00|Hachievement:13623:Player-9-0AF4267B:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Fighting on Two Fronts]|h|r!", -- [1]
 			"Morepheous-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -562,7 +259,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			276, -- [11]
+			278, -- [11]
 			"Player-9-0AF4267B", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -570,320 +267,305 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584492414,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+			[51] = 1584587330,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [11]
 		{
-			"I'll refresh mine", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14026:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Temper Tantrum]|h|r!", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Choplo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			277, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			280, -- [11]
+			"Player-9-0B94CF42", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492423,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584587379,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [12]
 		{
-			"r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14049:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Drest'agath]|h|r!", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Choplo-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			278, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			281, -- [11]
+			"Player-9-0B94CF42", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492430,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584587379,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [13]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308172:0|h[Mind Flay]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			284, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492455,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"black is bad", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"probably 2nd", -- [1]
+			"|Kq8|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			288, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			320, -- [11]
+			false, -- [12]
+			50, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492530,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587959,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [14]
 		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<Deadly Boss Mods> Yellowy is busy fighting against Mythic - Ra-den the Despoiled (99% (Stage 1), 20/20 people alive)", -- [1]
+			"|Kq8|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			290, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			321, -- [11]
+			false, -- [12]
+			50, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492540,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587960,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [15]
 		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"<DBM> Yellowy has wiped on Mythic - Ra-den the Despoiled at 99% (Stage 1)", -- [1]
+			"|Kq8|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			291, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			322, -- [11]
+			false, -- [12]
+			50, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492553,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587962,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [16]
 		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"'cuz he'll prolly link the first", -- [1]
+			"|Kq8|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			298, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492599,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			300, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492666,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			311, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492765,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:298033:0|h[Touch of the Abyss]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			323, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			50, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492876,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587979,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [17]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:298025:0|h[Void Bolt]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			326, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584492904,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:298033:0|h[Touch of the Abyss]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			343, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493119,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14066:Player-9-0AFB89C2:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Stormwind]|h|r!", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
+			"was i in wrong spot or somethiing?", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			344, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
+			327, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1584493165,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [38]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588398,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [18]
 		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"idk what my /say ever is", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			345, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			328, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493183,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588403,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [19]
 		{
-			"huge", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"no, that was fine", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			329, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588410,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [20]
+		{
+			"the WA was weird", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			330, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588415,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [21]
+		{
+			"shadow is toxic af", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			331, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588422,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [22]
+		{
+			"it said thunderz was filling", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			332, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588428,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [23]
+		{
+			"this lust thing", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			348, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589226,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [24]
+		{
+			"is so dumb", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -893,877 +575,1500 @@ ElvCharacterDB = {
 			"", -- [9]
 			0, -- [10]
 			349, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1584493211,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589228,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [25]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308366:0|h[Agonizing Torment]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"just because turkey says it", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			355, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			350, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493241,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589233,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [26]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308366:0|h[Agonizing Torment]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"we do it", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			351, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589236,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [27]
+		{
+			"this boss", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			356, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589536,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [28]
+		{
+			"is so easy", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			357, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493257,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589537,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [29]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"we bleed in p2", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			370, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			359, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493417,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589543,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [30]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"JUST LUST THERE IDK", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			379, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			360, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493503,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589546,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [31]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308459:0|h[Shadow Bolt]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"im so mad", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			382, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			361, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493539,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589550,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [32]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308172:0|h[Mind Flay]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:699:Player-9-0841BC1C:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[World Wide Winner]|h|r!", -- [1]
+			"Kiliden-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Kiliden-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			387, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			363, -- [11]
+			"Player-9-0841BC1C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493588,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+			[52] = "|cfffe7b09Kiliden|r",
+			[51] = 1584589638,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [33]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:14051:Player-9-0BB60E7C:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Ra-den the Despoiled]|h|r!", -- [1]
+			"Proudrunner-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			388, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493606,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			394, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493666,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308375:0|h[Psychic Scream]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			400, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493748,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Proudrunner-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			401, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-0BB60E7C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493775,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+			[52] = "|cffc59a6cProudrunner|r",
+			[51] = 1584591130,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [34]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"like", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			414, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			420, -- [11]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584493978,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591249,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [35]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"we need to global mute", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			418, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494007,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			421, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494025,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591253,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [36]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14166:Player-9-0B9F1ECA:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Masked Duet]|h|r!", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"everyone", -- [1]
+			"|Kq29|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			423, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591254,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [37]
+		{
+			"in that phase", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			424, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591258,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [38]
+		{
+			"except u", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			425, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494038,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [54]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591262,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [39]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14167:Player-9-0B9F1ECA:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Masked Trio]|h|r!", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"its just very toxic", -- [1]
+			"|Kq29|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			426, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			427, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591272,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [40]
+		{
+			"like 90% of people", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			440, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591313,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [41]
+		{
+			"talking", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			441, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591315,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [42]
+		{
+			"is unneeded", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			443, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591318,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [43]
+		{
+			"we see everything", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			444, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591320,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [44]
+		{
+			"\"heal me\" yea we see ur in trouble", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			448, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591334,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [45]
+		{
+			"we see your stupid caut procc'd and debuffs on u", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			450, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591343,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [46]
+		{
+			"420 vape", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			451, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494038,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584591343,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [47]
+		{
+			"life", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			452, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584591344,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [48]
+		{
+			"xd", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			453, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591346,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [49]
+		{
+			"i only want to hear evan barbados and u", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			460, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591381,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [50]
+		{
+			"THANKS FOR HEALING ME SCI", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			461, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1584591383,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [51]
+		{
+			"same", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			462, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584591388,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [52]
+		{
+			"pretty much", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			463, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591388,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [53]
+		{
+			"yeah", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			464, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591393,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [54]
+		{
+			"lol", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			465, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591394,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
 		}, -- [55]
 		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"assassinated", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			467, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1584591412,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [56]
+		{
+			"KEKW", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			468, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1584591422,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [57]
+		{
+			"and also that last phase is actually toxic", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			470, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591450,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [58]
+		{
+			"too much passive healing", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			471, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591455,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [59]
+		{
+			"i actually have to stop healing", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			472, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591459,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [60]
+		{
+			"or i'll die", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			473, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591461,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [61]
+		{
+			"yea", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			474, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591470,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [62]
+		{
+			"cuz some random passive chain heal or something tops me", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			475, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591472,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [63]
+		{
+			"guess i can fix that by not bubbling that soak mechanic anymore", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			482, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591503,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [64]
+		{
+			"bubble is not really needed for that anymore", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			483, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591510,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [65]
+		{
+			"i just bubble the decay", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			484, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591514,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [66]
+		{
+			"yeah, just wall it", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			485, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591518,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [67]
+		{
+			"cuz its was like 3 pulls where i got the debuff and somehow im 85%", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			487, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494256,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591535,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [68]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14060:Player-9-0AC536B3:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Unwavering Resolve]|h|r!", -- [1]
-			"Utsugi-Kil'jaeden", -- [2]
+			"i guess turkey is raid lead now so", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Utsugi-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			488, -- [11]
-			"Player-9-0AC536B3", -- [12]
-			0, -- [13]
+			489, -- [11]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Utsugi|r",
-			[51] = 1584494264,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [57]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584591638,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [69]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308375:0|h[Psychic Scream]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"?", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			490, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			492, -- [11]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494283,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591699,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [70]
 		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"mt", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			493, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591700,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [71]
+		{
+			"yeah", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			494, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494313,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591710,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [72]
 		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			495, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494326,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308998:0|h[Improve Morale]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			503, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494400,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			517, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494581,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:298033:0|h[Touch of the Abyss]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			527, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494648,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:298033:0|h[Touch of the Abyss]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			531, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494706,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:298033:0|h[Touch of the Abyss]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			536, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494755,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:298033:0|h[Touch of the Abyss]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			552, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584494963,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308366:0|h[Agonizing Torment]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			561, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495077,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308366:0|h[Agonizing Torment]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			562, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495091,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			565, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495114,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14061:Player-9-0B32A56C:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[We Have the Technology]|h|r!", -- [1]
-			"Heaty-Kil'jaeden", -- [2]
+			"thats what u get", -- [1]
+			"Sci-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Heaty-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			568, -- [11]
-			"Player-9-0B32A56C", -- [12]
+			496, -- [11]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Heaty|r",
-			[51] = 1584495131,
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591715,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [73]
+		{
+			"oh rofl", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			513, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591806,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [74]
+		{
+			"u got hit by a 270k shock", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			514, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591809,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [75]
+		{
+			"XD feelsbadman", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			515, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591814,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [76]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14149:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: War for the Shore]|h|r!", -- [1]
+			"Rathux-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rathux-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			564, -- [11]
+			"Player-9-0B3DA965", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Rathux|r",
+			[51] = 1584592186,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [70]
+		}, -- [77]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"%s has earned the achievement |cffffff00|Hachievement:13296:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[War for the Shore]|h|r!", -- [1]
+			"Rathux-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Rathux-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			577, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			566, -- [11]
+			"Player-9-0B3DA965", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495233,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+			[52] = "|cffc31d39Rathux|r",
+			[51] = 1584592192,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [78]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"also low key", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			579, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592246,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [79]
+		{
+			"why is turkey having such an influence on our strats", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			582, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592255,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [80]
+		{
+			"its putting us behind", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			583, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495293,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592257,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [81]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"my 2 cents", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			584, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592260,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [82]
+		{
+			"idk", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			585, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592262,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [83]
+		{
+			"@_@", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			586, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592263,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [84]
+		{
+			"I'm gonna talk to jamie about it", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			587, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592267,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [85]
+		{
+			"latre", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			588, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592269,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [86]
+		{
+			"please", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			589, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495370,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592270,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [87]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"ty .-.", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			590, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592274,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [88]
+		{
+			"would you feel comfortable putting that in feedback or no, I can bring it up either way", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			591, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495430,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592299,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [89]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"yeah i can do that", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			592, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495446,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592305,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [90]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308459:0|h[Shadow Bolt]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			597, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495515,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			603, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495539,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14066:Player-9-0B4BF011:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Stormwind]|h|r!", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			613, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1584495704,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14140:Player-9-0B4BF011:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Mad World]|h|r!", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			614, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1584495704,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
-		{
-			"grats", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
+			"ty", -- [1]
+			"|Kq29|k", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1772,1050 +2077,832 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			616, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
+			593, -- [11]
+			false, -- [12]
+			47, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1584495718,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592312,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [91]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"you're not the only one", -- [1]
+			"|Kq29|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			594, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592316,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [92]
+		{
+			"they're doing a good job actually", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			618, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592484,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [93]
+		{
+			"making me happy to leave", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			619, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592489,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [94]
+		{
+			"like holy shit", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			620, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592495,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [95]
+		{
+			"idiots", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			621, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592498,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [96]
+		{
+			"it's just jamie and turkey", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			623, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495769,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592511,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [97]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"i know", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			624, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592519,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [98]
+		{
+			"and evan", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			625, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592522,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [99]
+		{
+			"evan's on our side, he wanted 1 less decaying strike", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			626, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592535,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [100]
+		{
+			"she doesnt listen to the person who actually knows what hes talking about", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			627, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495795,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592546,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [101]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"who organized all the strat", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			628, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592550,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [102]
+		{
+			"looked at logs", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			630, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592555,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [103]
+		{
+			"is an officer", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			631, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
+			false, -- [12]
+			44, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495814,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592557,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [104]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14168:Player-9-0B9F1ECA:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Masked Quartet]|h|r!", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"just listen to turky 4head", -- [1]
+			"|Kq38|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			632, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592563,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [105]
+		{
+			"its different when its hax", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			633, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592568,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [106]
+		{
+			"because hax is in a real guild", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			634, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592573,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [107]
+		{
+			"270k btw", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			635, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495822,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [84]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592575,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14172:Player-9-0AF4267B:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[A Monumental Amount of Mementos]|h|r!", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"thast uhm", -- [1]
+			"Sci-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			636, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592577,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"not my fault", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			637, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592581,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"turkeys guild isnt even that much better than rivalry", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			638, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592582,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [111]
+		{
+			"(:", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			639, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592582,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"yeah, we downgraded our ringer", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			640, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592582,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [113]
+		{
+			"lol", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			641, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592583,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [114]
+		{
+			"LOOK", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592588,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"A VISIONS MIGHT HAVE PROCCED", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			643, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592595,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"THE SECOND I PRESSED IT", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			644, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592599,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"not that turkey's bad", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			645, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592600,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [118]
+		{
+			"theres no way a normal shock dose 270k", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			646, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592604,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"I just don't think he's that strong strategically", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			647, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592607,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [120]
+		{
+			"hes not a strategist", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			649, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592608,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [121]
+		{
+			"yea", -- [1]
+			"|Kq38|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			651, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592611,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [122]
+		{
+			"xd", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			654, -- [11]
-			"Player-9-0AF4267B", -- [12]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584495837,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [85]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592617,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:978:Player-9-0AF4267B:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[3000 Quests Completed]|h|r!", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"i have a feedback suggestion for andrwe", -- [1]
+			"Sci-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			676, -- [11]
-			"Player-9-0AF4267B", -- [12]
+			689, -- [11]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584495890,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [86]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592918,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
 		{
-			"how many you want to do again?", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"can u click off your leech", -- [1]
+			"Sci-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			683, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584495924,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
-		{
-			"was that one 3 or 4", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			684, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584495960,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14194:Player-9-0B9000D4:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Halls of Devotion]|h|r!", -- [1]
-			"Discreet-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Discreet-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			691, -- [11]
-			"Player-9-0B9000D4", -- [12]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Discreet|r",
-			[51] = 1584496281,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [89]
-		{
-			"r", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			694, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584496601,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
-		{
-			"sorry mom called long talk about her cancer, im muted still on the phone but we can go", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			695, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584496617,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
-		{
-			"oh, that sucks, didn't know", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			696, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496631,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
-		{
-			"sure, we can go", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			697, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496636,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
-		{
-			"oh its been a while, nothing new. But thanks", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			698, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584496644,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
-		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			706, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496682,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308575:0|h[Shadow Shift]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			707, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496712,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
-		{
-			"in here", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			709, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584496734,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308375:0|h[Psychic Scream]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			711, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496737,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
-		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			712, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496738,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
-		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			713, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496750,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
-		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			715, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496763,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
-		{
-			"here", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			716, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584496764,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [102]
-		{
-			"i got it", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			723, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584496805,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
-		{
-			"Piercing Shot on Toshaman", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			732, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
-		{
-			"|cffa335ee|Hitem:169769::::::::120:72::35:4:6536:6513:1532:4786:::|h[Remote Guidance Device]|h|r Nice. I am ready for the arena.", -- [1]
-			"Proudrunner-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			734, -- [11]
-			"Player-9-0BB60E7C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cProudrunner|r",
-			[51] = 1584496899,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
-		{
-			"xD", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			735, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584496906,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308998:0|h[Improve Morale]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			736, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584496911,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
-		{
-			"Pog", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			737, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584496914,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
-		{
-			"Do you PvP much?", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			738, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584496922,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
-		{
-			"hell yeah", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			739, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1584496922,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
-		{
-			"Here and there. Would do it more if people were interested.", -- [1]
-			"Proudrunner-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			745, -- [11]
-			"Player-9-0BB60E7C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cProudrunner|r",
-			[51] = 1584496976,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			751, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497000,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308366:0|h[Agonizing Torment]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			794, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497417,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13512:Player-9-0A07B176:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Master Calligrapher]|h|r!", -- [1]
-			"Voidrage-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Voidrage-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			799, -- [11]
-			"Player-9-0A07B176", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cVoidrage|r",
-			[51] = 1584497481,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [114]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			810, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497554,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			817, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497626,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308945:0|h[Searing Gaze]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			823, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497691,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:308459:0|h[Shadow Bolt]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			826, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497720,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			835, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497832,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			836, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			841, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584497972,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14066:Player-9-0B0D1C71:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Stormwind]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			843, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1584497973,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [122]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14140:Player-9-0B0D1C71:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Mad World]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			844, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1584497973,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [123]
-		{
-			"Grats!", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			845, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584497978,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
-		{
-			"god fuck shaw", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			847, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1584497988,
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592922,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [125]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			":D", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			857, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			692, -- [11]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584498080,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592924,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [126]
 		{
-			"Toshaman interrupted |cff71d5ff|Hspell:309648:0|h[Tainted Polymorph]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"oh he's not logged in sec messaging him", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			861, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			700, -- [11]
+			"Player-9-0B673F4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1584498107,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592944,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

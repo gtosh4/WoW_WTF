@@ -1,5414 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Pluie-Kil'jaeden and that ML 18 on sham", -- [1]
-		"/simc", -- [2]
-		"/cw Pluie-Kil'jaeden ok", -- [3]
-		"give jess a little bit of time to cool off", -- [4]
-		"/cw Pluie-Kil'jaeden who you trying to do it for", -- [5]
-		"/o in uldum?", -- [6]
-		"/cw Pluie-Kil'jaeden lol", -- [7]
-		"/cw Delpi you helped with right side right", -- [8]
-		"I didn't have a chance", -- [9]
-		"can you officer", -- [10]
-		"/cw Pluie-Kil'jaeden monday trap keys", -- [11]
-		"/cw Pluie-Kil'jaeden |cffa335ee|Hkeystone:158923:353:18:9:11:2:120|h[Keystone: Siege of Boralus (18)]|h|r on dk", -- [12]
-		"/g [WeakAuras: Toshpal-Kil'jaeden - 11 Adaptive Membrane on Me]", -- [13]
-		"where you were earlier pulls was fine, I moved sci and nam down to make room for you", -- [14]
-		"but she's pissed atm", -- [15]
-		"/inv Toshaman", -- [16]
-		"at herself", -- [17]
-		"/cw Gochie-Kil'jaeden was tide up there, did it work well", -- [18]
-		"/wa", -- [19]
-		"/tmw", -- [20]
+		" I think you're letting things get to you too much", -- [1]
+		" just relax, you'll be fine", -- [2]
+		" I know it's easier said than done", -- [3]
+		"/o the diff on jess's screen between 5% and 15%", -- [4]
+		"/o is like 3 pixels", -- [5]
+		"/o that's why I called it wrong", -- [6]
+		"/o good thing", -- [7]
+		"/o you're watching evan", -- [8]
+		"/aa window", -- [9]
+		" probably 2nd", -- [10]
+		" 'cuz he'll prolly link the first", -- [11]
+		" no, that was fine", -- [12]
+		" the WA was weird", -- [13]
+		" it said thunderz was filling", -- [14]
+		" idk", -- [15]
+		" I'm gonna talk to jamie about it", -- [16]
+		" latre", -- [17]
+		" would you feel comfortable putting that in feedback or no, I can bring it up either way", -- [18]
+		" ty", -- [19]
+		" you're not the only one", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"inv me", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			895, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1584163936,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"WTS M+ 10-15 KEYS PST GOLD ONLY %15 DISCOUNT FOR KJ, AREA-52, TICH, THRALL & ILLIDAN", -- [1]
-			"Inertia-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Inertia-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			896, -- [11]
-			"Player-9-0A74961B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Inertia|r",
-			[51] = 1584163936,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"like warzone", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			897, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584163937,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"CJ", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			899, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584163938,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
-			"come", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			901, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584163938,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
-		{
-			"nope, just keep doing what you're doing", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Oxclamatiøn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			902, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584163942,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [6]
-		{
-			"WHO ELSE WANTS IN", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			904, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1584163945,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
-		{
-			"inv", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			905, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1584163948,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
-		{
-			"I'll get better at calling it sooner too", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Oxclamatiøn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			906, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584163953,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [9]
-		{
-			"AIGHT WE FULL SUCKS TO SUCK", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			908, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1584163964,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
-			"ROFL", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			910, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584163985,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
-		{
-			"|cffa335ee|Hitem:167743::::::::120:65::13::::|h[Silas' Potion of Prosperity]|h|r", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1584234761,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
-		{
-			"whisper inv for raid", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			133, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584235018,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
-		{
-			"real talk", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			135, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235160,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [14]
-		{
-			"inv", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			136, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584235169,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [15]
-		{
-			"if i leave this guild its because jamie just doesnt listen or doesnt care about feedback", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			143, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235174,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [16]
-		{
-			"i tried to get her to optimize for an hour last night, and i got norhing", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			147, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235189,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [17]
-		{
-			"after raid?", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			149, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235199,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [18]
-		{
-			"so fuck it, im going iris because its the  best opption for what im working with", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			151, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235207,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [19]
-		{
-			"Chinese strats", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			152, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235217,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [20]
-		{
-			"optimise for p3 dmg, that's what we need most", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			153, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235221,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [21]
-		{
-			"Im running stars", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			154, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235228,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [22]
-		{
-			"i'", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			155, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235233,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [23]
-		{
-			"just for that", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			157, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235236,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [24]
-		{
-			"like sometimes i feel liek the only dps who is trying", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			159, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235254,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [25]
-		{
-			"to look at logs and shit and optimize", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			160, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235260,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [26]
-		{
-			"its so frustrating", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			161, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235264,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [27]
-		{
-			"yeah", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			162, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235268,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [28]
-		{
-			"and i bring it up to jamie and i get 0 feedback", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			163, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235272,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [29]
-		{
-			"\"do what you want to do\"", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			164, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235279,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [30]
-		{
-			"thats what i got", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			165, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235281,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [31]
-		{
-			"but how do we track that", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			166, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235293,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [32]
-		{
-			"it was my idea to swap her and hyper too", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			168, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235303,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [33]
-		{
-			"like", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			169, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235304,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [34]
-		{
-			"can't just be like \"raise your hand if you went over logs\"", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			170, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235306,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [35]
-		{
-			"its not that hard to optimize but no one wants to try", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235312,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [36]
-		{
-			"i mean no offense but", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			172, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235321,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [37]
-		{
-			"that's what I'm trying to do as coach", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			173, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235324,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [38]
-		{
-			"its obvious looking at results right", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			174, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235328,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [39]
-		{
-			"just hard because jamie's used to doing everything her way", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			175, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235337,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [40]
-		{
-			"which is BDG's way", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235341,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [41]
-		{
-			"there is a reason my %s are highest in guild right now, because no one else prepares and just wings it", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			178, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235347,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [42]
-		{
-			"which doesn't always work for us", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			180, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235349,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [43]
-		{
-			"yeah", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			181, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235355,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [44]
-		{
-			"sorry i dont mean to get mad but", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			182, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235357,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [45]
-		{
-			"its frustrating feeling like", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			183, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235369,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [46]
-		{
-			"nothing ever gets done", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			185, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235373,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [47]
-		{
-			"and maybe im just not privy to it", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			186, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235380,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [48]
-		{
-			"I know ox does, I think the mages do (at least turkey obv, and yuki and delpi)", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			188, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235401,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [49]
-		{
-			"idk dude its just", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			189, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235413,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [50]
-		{
-			"but half the raid just raid logs, and it's annoying", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			190, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235426,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [51]
-		{
-			"not a good look when im being approached elsewhere and they come across as super professional", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			191, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235429,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [52]
-		{
-			"just being honest because i trust you and value your opinion", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			192, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235440,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [53]
-		{
-			"like yeah this essence choice isnt optimal but, its the best we can do since evan wont listen about moving the boss", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			198, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235478,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [54]
-		{
-			"rdy for trash clear", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			199, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1584235480,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"so what else am i gonna do", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			201, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235483,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [56]
-		{
-			"is there a reason he didn't want to?", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			208, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235516,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [57]
-		{
-			"idk he just says", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			214, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235537,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [58]
-		{
-			"oh we cant do that", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			216, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235541,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [59]
-		{
-			"its not possible", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			217, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235543,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [60]
-		{
-			"but it totally is, BDG does it", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			218, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235549,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [61]
-		{
-			"well, they probably kill the hemos faster", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			219, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235579,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [62]
-		{
-			"we push boss at the same time basically", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			220, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235588,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [63]
-		{
-			"then we need to kill hemos, which is what we were saying all night last night", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			222, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235607,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [64]
-		{
-			"as far as I saw, there wasn't much time to move the boss", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			223, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235610,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [65]
-		{
-			"its all a big feedback loop", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			224, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235614,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [66]
-		{
-			"were people focusing boss?", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			225, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235666,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [67]
-		{
-			"I didn't have a chance", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			226, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235670,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [68]
-		{
-			"to look over logs", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			227, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584235673,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [69]
-		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			233, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1584235739,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [70]
-		{
-			"Interrupted Occult Shadowmender's |cff71d5ff|Hspell:310842:0|h[Shadow Heal]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			235, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1584235748,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
-		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			238, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1584235787,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
-		{
-			"1", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1584235793,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
-		{
-			"Pluie interrupted |cff71d5ff|Hspell:311045:0|h[Void Bolt]|h|r", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			245, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584235821,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			246, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1584235822,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
-		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			247, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1584235824,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [76]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			250, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1584235846,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1584235871,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			256, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1584235926,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			257, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1584235931,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"there he is", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			279, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1584236115,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
-		{
-			"1", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			286, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1584236161,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
-		{
-			"1", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			287, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584236186,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
-		{
-			"stream pls", -- [1]
-			"|Kq27|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			292, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584236358,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [84]
-		{
-			"|cffffff00Port of Zandalar is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			293, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584236378,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			299, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584236582,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
-		{
-			"who is whispering me...it's not showing the nameplate", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			300, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584236585,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
-		{
-			"thats cada", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			301, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1584236606,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
-		{
-			"[WeakAuras: Toshpal-Kil'jaeden - 11 Adaptive Membrane on Me]", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			302, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1584236618,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			303, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584236680,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
-		{
-			"|cffffff00Port of Zandalar is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			304, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584236686,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
-		{
-			"WTS CARRY +10+13, ONLY GOLD.", -- [1]
-			"Kellyx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kellyx-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			306, -- [11]
-			"Player-9-0B946970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Kellyx|r",
-			[51] = 1584236758,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			307, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584236824,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			315, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584237127,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			316, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584237182,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			317, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584237209,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			318, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584237250,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			320, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584237314,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			326, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584237512,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
-		{
-			"<B A M F>", -- [1]
-			"Tasalhof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tasalhof-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			327, -- [11]
-			"Player-9-0BAF7D8F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Tasalhof|r",
-			[51] = 1584237575,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
-		{
-			"Is recruting all exeptional Players we are a cutting edge guild. We push keys and are a family/friend oriented guild. We are willing to take anyone in with raid Experienceand willing to learn saturday/sunday 5-8 Server. Raid leader is 7/12 myth", -- [1]
-			"Tasalhof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tasalhof-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			328, -- [11]
-			"Player-9-0BAF7D8F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Tasalhof|r",
-			[51] = 1584237575,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			329, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584237593,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
-		{
-			"<B A M F>", -- [1]
-			"Tasalhof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tasalhof-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			330, -- [11]
-			"Player-9-0BAF7D8F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Tasalhof|r",
-			[51] = 1584237621,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
-		{
-			"Is recruting all exeptional Players we are a cutting edge guild. We push keys and are a family/friend oriented guild. We are willing to take anyone in with raid Experienceand willing to learn saturday/sunday 5-8 Server. Raid leader is 7/12 myth", -- [1]
-			"Tasalhof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tasalhof-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			331, -- [11]
-			"Player-9-0BAF7D8F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Tasalhof|r",
-			[51] = 1584237621,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
-		{
-			"WTS CARRY +10+13, ONLY GOLD.", -- [1]
-			"Kellyx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kellyx-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			335, -- [11]
-			"Player-9-0B946970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Kellyx|r",
-			[51] = 1584237724,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			338, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584237845,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			339, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584237896,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			341, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584237975,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			342, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584237977,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			343, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584238005,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			348, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584238132,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			351, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584238183,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			354, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584238268,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			356, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584238277,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			357, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584238280,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			360, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584238361,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			362, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584238415,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
-		{
-			"Details!: Mycelial Cyst - Damage Taken [ EF]", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			363, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238416,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
-		{
-			"1. Delpi .................... 2.37M (15.1%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			364, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238416,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
-		{
-			"2. Turkeyone .......... 2.36M (15.0%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			365, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238417,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
-		{
-			"3. Yukio ................... 1.62M (10.3%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			366, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238417,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
-		{
-			"4. Andruww ............ 1.22M (7.8%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			367, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238417,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
-		{
-			"5. Sploshey ............. 1.14M (7.3%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			368, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238417,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
-		{
-			"6. Lyuneria .............. 1.06M (6.8%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			369, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238418,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
-		{
-			"7. Dumbers ............. 1.04M (6.6%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			370, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238418,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
-		{
-			"8. Thunderrz ........... 979.2K (6.2%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			371, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238418,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
-		{
-			"9. Metsy .................. 818.2K (5.2%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			372, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238418,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [127]
-		{
-			"10. Peace .................. 623.2K (4.0%)", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			373, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1584238419,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [128]
-		{
-			"<B A M F>", -- [1]
-			"Tasalhof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tasalhof-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			374, -- [11]
-			"Player-9-0BAF7D8F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Tasalhof|r",
-			[51] = 1584238419,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [129]
-		{
-			"Is recruting all exeptional Players we are a cutting edge guild. We push keys and are a family/friend oriented guild. We are willing to take anyone in with raid Experienceand willing to learn saturday/sunday 5-8 Server. Raid leader is 7/12 myth", -- [1]
-			"Tasalhof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tasalhof-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			375, -- [11]
-			"Player-9-0BAF7D8F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Tasalhof|r",
-			[51] = 1584238419,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [130]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			376, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584238422,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [131]
-		{
-			"WHOA THERE", -- [1]
-			"Voidrage-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			377, -- [11]
-			"Player-9-0A07B176", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cVoidrage|r",
-			[51] = 1584238423,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [132]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			378, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584238432,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [133]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			380, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584238508,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [134]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			509, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584238723,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [135]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			512, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584238735,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [136]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			515, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584238816,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [137]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			516, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584238820,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [138]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			528, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584238973,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [139]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			584, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584239051,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [140]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			632, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584239118,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [141]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			650, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584239181,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [142]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			652, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584239199,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [143]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			663, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584239245,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [144]
-		{
-			"wts  Full 12/12H Ny'alotha Clear]  11pm est  BIG RAID DISCOUNT     GOLD ONLY", -- [1]
-			"Kortitah-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kortitah-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			688, -- [11]
-			"Player-9-0BB5C7DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Kortitah|r",
-			[51] = 1584239316,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [145]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			754, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584239462,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [146]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			780, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584239502,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [147]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			790, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584239583,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [148]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1069, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584240270,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [149]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1114, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584240351,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [150]
-		{
-			"|cffffff00Warbeast Kraal is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			1410, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1584240795,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [151]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1419, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584241037,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [152]
-		{
-			"i think its more imortant to have visionm on both sides", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1420, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584241043,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [153]
-		{
-			"from officers", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1421, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584241044,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [154]
-		{
-			"yeah, I'm swapping to tehkz", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1422, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584241057,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [155]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1423, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584241119,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [156]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1437, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584241421,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [157]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1441, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584241502,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [158]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1444, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584241804,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [159]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1445, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584241885,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [160]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1446, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584242188,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [161]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1448, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584242270,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [162]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1455, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584242572,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [163]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1458, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584242653,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [164]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1463, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584242956,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [165]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1465, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584243037,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [166]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1467, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584243340,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [167]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1470, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584243421,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [168]
-		{
-			" WTS >>Heroic 12/12 Full Clear Ny'alotha<< tomorrow evening  @ 9PM or 11PM PST. AOTC (last boss) only option available as well. Guaranteed Uncorrupted Voidwing mount included! GOLD ONLY.", -- [1]
-			"Emmvee-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Emmvee-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1492, -- [11]
-			"Player-9-06A1A0D8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Emmvee|r",
-			[51] = 1584243688,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [169]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1495, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584243724,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [170]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1496, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584243805,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [171]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1499, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584244106,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [172]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1500, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584244187,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [173]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1508, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584244490,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [174]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1528, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584244572,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [175]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1535, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584244874,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [176]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1539, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584244955,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [177]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1592, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584245258,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [178]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1643, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584245339,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [179]
-		{
-			" /2 WTS >>Heroic 12/12 Full Clear Ny'alotha<< tomorrow evening  @ 9PM or 11PM PST. AOTC (last boss) only option available as well. Guaranteed Uncorrupted Voidwing mount included! GOLD ONLY.", -- [1]
-			"Emmvee-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Emmvee-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1644, -- [11]
-			"Player-9-06A1A0D8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Emmvee|r",
-			[51] = 1584245381,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [180]
-		{
-			"you helped with right side right", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delpi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1660, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1584245421,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [181]
-		{
-			"yeah", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delpi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1661, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1584245428,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [182]
-		{
-			"went smoothly, that was good", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delpi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1662, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1584245431,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [183]
-		{
-			"tanks!", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delpi-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1666, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1584245439,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [184]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1674, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584245642,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [185]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1682, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584245724,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [186]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1694, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584246026,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [187]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1695, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584246107,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [188]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1700, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584246409,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [189]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1701, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584246490,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [190]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1702, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584246792,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [191]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1704, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584246873,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [192]
-		{
-			"[WeakAuras: Toshpal-Kil'jaeden - Carapace Membrane]", -- [1]
-			"|Kq19|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1709, -- [11]
-			false, -- [12]
-			33, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Evangelos|r",
-			[51] = 1584246976,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Evangelos",
-		}, -- [193]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1711, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584247176,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [194]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1720, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584247257,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [195]
-		{
-			"WTS |cffa335ee|Hitem:175009::::::::120:73::6:7:4824:6578:6579:6537:6513:1517:4786:::|h[Zealous Ritualist's Reverie]|h|r ", -- [1]
-			"Tittanis-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tittanis-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1736, -- [11]
-			"Player-9-0152084A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cTittanis|r",
-			[51] = 1584247617,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [196]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1794, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584247942,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [197]
-		{
-			"WTS |cffa335ee|Hitem:175009::::::::120:73::6:7:4824:6578:6579:6537:6513:1517:4786:::|h[Zealous Ritualist's Reverie]|h|r ", -- [1]
-			"Tittanis-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tittanis-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1795, -- [11]
-			"Player-9-0152084A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cTittanis|r",
-			[51] = 1584247969,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [198]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1796, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584248023,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [199]
-		{
-			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
-			"Stormydk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stormydk-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1806, -- [11]
-			"Player-9-0B8B0B56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Stormydk|r",
-			[51] = 1584248183,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [200]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1810, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584248326,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [201]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1811, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584248407,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [202]
-		{
-			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
-			"Stormydk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stormydk-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1812, -- [11]
-			"Player-9-0B8B0B56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Stormydk|r",
-			[51] = 1584248485,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [203]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1825, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584248710,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [204]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1836, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584248791,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [205]
-		{
-			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
-			"Stormydk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stormydk-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1837, -- [11]
-			"Player-9-0B8B0B56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Stormydk|r",
-			[51] = 1584248796,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [206]
-		{
-			"should we move cds around so i aura sac + bubble third inf", -- [1]
-			"|Kq9|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1842, -- [11]
-			false, -- [12]
-			46, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584248950,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [207]
-		{
-			"my tide is 2m:3\\", -- [1]
-			"Gochie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1843, -- [11]
-			"Player-9-0BB3FE43", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcGochie|r",
-			[51] = 1584248959,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [208]
-		{
-			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
-			"Stormydk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stormydk-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1844, -- [11]
-			"Player-9-0B8B0B56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Stormydk|r",
-			[51] = 1584248991,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [209]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1846, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584249093,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [210]
-		{
-			"i didnt mean to second guess your cds, it just seemed like the throughput cds werent doign it", -- [1]
-			"|Kq32|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1847, -- [11]
-			false, -- [12]
-			43, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584249161,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [211]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1849, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584249175,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [212]
-		{
-			"[WTS] **NEW LOW AOTC PRICES** Running Right Now!! Get in on a quick and easy kill for your AOTC and Voidwing Mount! Gold Only. PST <3", -- [1]
-			"Nudles-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nudles-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1851, -- [11]
-			"Player-9-0BB5AC7D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Nudles|r",
-			[51] = 1584249299,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [213]
-		{
-			"the center?", -- [1]
-			"|Kq9|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1852, -- [11]
-			false, -- [12]
-			46, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584249337,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [214]
-		{
-			"kk", -- [1]
-			"|Kq9|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1854, -- [11]
-			false, -- [12]
-			46, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584249349,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [215]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1855, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584249478,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [216]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1856, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584249559,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [217]
-		{
-			"i still can't find a spot to stand", -- [1]
-			"|Kq27|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1864, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584249801,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [218]
-		{
-			"=-=-=-=-=-=-=", -- [1]
-			"|Kq27|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1866, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584249802,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [219]
-		{
-			"was tide up there, did it work well", -- [1]
-			"Gochie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1867, -- [11]
-			"Player-9-0BB3FE43", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcGochie|r",
-			[51] = 1584249803,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [220]
-		{
-			"yeah", -- [1]
-			"Gochie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1870, -- [11]
-			"Player-9-0BB3FE43", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcGochie|r",
-			[51] = 1584249807,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [221]
-		{
-			"where you were earlier pulls was fine, I moved sci and nam down to make room for you", -- [1]
-			"|Kq27|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1875, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584249827,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [222]
-		{
-			"<Deadly Boss Mods> Yellowy is busy fighting against Mythic - Carapace of N'Zoth (94% (Stage 1), 20/20 people alive)", -- [1]
-			"|Kq27|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1876, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584249827,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [223]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1883, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584249861,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [224]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1887, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584249942,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [225]
-		{
-			"[WTS] **NEW LOW AOTC PRICES** Running Right Now!! Get in on a quick and easy kill for your AOTC and Voidwing Mount! Gold Only. PST <3", -- [1]
-			"Nudles-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nudles-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1888, -- [11]
-			"Player-9-0BB5AC7D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Nudles|r",
-			[51] = 1584249967,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [226]
-		{
-			"<DBM> Yellowy has wiped on Mythic - Carapace of N'Zoth at 61% (Stage 2)", -- [1]
-			"|Kq27|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1895, -- [11]
-			false, -- [12]
-			49, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584250045,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [227]
-		{
-			"lines up perfect and that devo does wonders there lol", -- [1]
-			"Gochie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1898, -- [11]
-			"Player-9-0BB3FE43", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcGochie|r",
-			[51] = 1584250047,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [228]
-		{
-			"yeah, based on the timings from other logs, it was ~5-10s short", -- [1]
-			"Gochie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1911, -- [11]
-			"Player-9-0BB3FE43", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcGochie|r",
-			[51] = 1584250065,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [229]
-		{
-			"but if it's up for us", -- [1]
-			"Gochie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1912, -- [11]
-			"Player-9-0BB3FE43", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcGochie|r",
-			[51] = 1584250071,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [230]
-		{
-			"then perfect", -- [1]
-			"Gochie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1913, -- [11]
-			"Player-9-0BB3FE43", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcGochie|r",
-			[51] = 1584250072,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [231]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1915, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584250245,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [232]
-		{
-			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
-			"Stormydk-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stormydk-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1916, -- [11]
-			"Player-9-0B8B0B56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Stormydk|r",
-			[51] = 1584250257,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [233]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1917, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584250326,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [234]
-		{
-			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1927, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584250627,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [235]
-		{
-			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
-			"Jurnlek-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jurnlek-Kil'jaeden", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1934, -- [11]
-			"Player-9-0BB5C70B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcJurnlek|r",
-			[51] = 1584250709,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [236]
-		{
-			"i should sleep earlier", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1936, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1584250738,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [237]
-		{
-			"i completly wake up after we have break", -- [1]
-			"Delpi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1937, -- [11]
-			"Player-9-0B8BAB74", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1584250750,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [238]
-		{
-			"whew only took 500k in grand delus dmg", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1938, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1584250789,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [239]
-		{
-			"XD", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1939, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1584250790,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [240]
-		{
-			"only~", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1940, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1584250812,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [241]
-		{
-			"\"im not a fucking weeb, dansgame\" Delpi 2k20", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1942, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1584250850,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [242]
 		{
 			"25% best wipe", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -5430,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584250985,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [243]
+		}, -- [1]
 		{
 			"not bad", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -5452,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584250986,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [244]
+		}, -- [2]
 		{
 			"its bad.", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -5474,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584250989,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [245]
+		}, -- [3]
 		{
 			"woah", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -5496,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584250993,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [246]
+		}, -- [4]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -5518,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251011,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [247]
+		}, -- [5]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -5540,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251092,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [248]
+		}, -- [6]
 		{
 			"goodlyly", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -5562,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584251118,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [249]
+		}, -- [7]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -5584,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584251156,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [250]
+		}, -- [8]
 		{
 			"Search ResultsFeatured snippet from the webZoomer is a nickname referring to members of Generation Z, those born in the late 90s and early 2000s", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -5606,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1584251729,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [251]
+		}, -- [9]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -5628,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251778,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [252]
+		}, -- [10]
 		{
 			"Half-Zoomer", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5650,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584251779,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [253]
+		}, -- [11]
 		{
 			"Semi-Zoomer", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5672,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584251786,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [254]
+		}, -- [12]
 		{
 			"imagine being born in late 90's", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5694,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1584251809,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [255]
+		}, -- [13]
 		{
 			"what are you my little brother?", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5716,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1584251816,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [256]
+		}, -- [14]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -5738,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584251860,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [257]
+		}, -- [15]
 		{
 			"BZoomer", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5760,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1584252037,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [258]
+		}, -- [16]
 		{
 			"oh fuck", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -5782,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584252042,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [259]
+		}, -- [17]
 		{
 			"im cooming\\", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -5804,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584252044,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [260]
+		}, -- [18]
 		{
 			"jesus christ", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -5826,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1584252053,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [261]
+		}, -- [19]
 		{
 			"LOL", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -5848,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584252059,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [262]
+		}, -- [20]
 		{
 			"can you officer", -- [1]
 			"|Kq6|k", -- [2]
@@ -5870,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252262,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [263]
+		}, -- [21]
 		{
 			"give jess a little bit of time to cool off", -- [1]
 			"|Kq6|k", -- [2]
@@ -5892,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252537,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [264]
+		}, -- [22]
 		{
 			"but she's pissed atm", -- [1]
 			"|Kq6|k", -- [2]
@@ -5914,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252540,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [265]
+		}, -- [23]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -5936,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584252546,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [266]
+		}, -- [24]
 		{
 			"at herself", -- [1]
 			"|Kq6|k", -- [2]
@@ -5958,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584252548,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [267]
+		}, -- [25]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -5980,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584252627,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [268]
+		}, -- [26]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -6002,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584252819,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [269]
+		}, -- [27]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6024,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584252930,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [270]
+		}, -- [28]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6046,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253012,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [271]
+		}, -- [29]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6068,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253314,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [272]
+		}, -- [30]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6090,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253395,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [273]
+		}, -- [31]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6112,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253698,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [274]
+		}, -- [32]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6134,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584253779,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [275]
+		}, -- [33]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:252::6:7:4824:6578:6579:6562:6513:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Stormydk-Kil'jaeden", -- [2]
@@ -6156,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Stormydk|r",
 			[51] = 1584253939,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [276]
+		}, -- [34]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6178,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254082,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [277]
+		}, -- [35]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6200,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254163,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [278]
+		}, -- [36]
 		{
 			"|cffa335ee|Hkeystone:158923:370:13:9:11:2:120|h[Keystone: Operation: Mechagon - Workshop (13)]|h|r anyone need bracers?", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -6222,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1584254207,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [279]
+		}, -- [37]
 		{
 			"THATS A 13", -- [1]
 			"Soda-Kil'jaeden", -- [2]
@@ -6244,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSoda|r",
 			[51] = 1584254214,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [280]
+		}, -- [38]
 		{
 			"T.T", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -6266,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1584254222,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [281]
+		}, -- [39]
 		{
 			"!bees", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -6288,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1584254238,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [282]
+		}, -- [40]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6310,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254466,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [283]
+		}, -- [41]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6332,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584254547,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [284]
+		}, -- [42]
 		{
 			"RIP RAPUNZELE", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -6354,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584330428,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [285]
+		}, -- [43]
 		{
 			"|cffa335ee|Hitem:167743::::::::120:102::13::::|h[Silas' Potion of Prosperity]|h|r up if anybody needs it", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -6376,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584330449,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [286]
+		}, -- [44]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6398,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584330680,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [287]
+		}, -- [45]
 		{
 			"doing CTA nazj & uldum", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -6420,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584330684,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [288]
+		}, -- [46]
 		{
 			"2 spots", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -6442,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584330685,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [289]
+		}, -- [47]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6464,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584330761,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [290]
+		}, -- [48]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6486,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584331063,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [291]
+		}, -- [49]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6508,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584331144,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [292]
+		}, -- [50]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6530,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584331447,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [293]
+		}, -- [51]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6552,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584331528,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [294]
+		}, -- [52]
 		{
 			"<Bare Minimum> 8/12H is currently in need of RDPS and 1-2 healers (Monk/Priest/Pally). Raids are Wed/Thurs from 6pm to 8pm Server. Willing to look for other options.  Everyone is welcome! PST for more info.", -- [1]
 			"Agromental-Kil'jaeden", -- [2]
@@ -6574,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcAgromental|r",
 			[51] = 1584331712,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [295]
+		}, -- [53]
 		{
 			"WTS Mythic+(11-15)  for 455-465ilvl tradable loots and 465-475 weekly chest+100% Corruption gear, also do Ny'alotha 12/12 Normal/heroic for 460ilvl gear, and do Mechagon HM for mount ,starting now PST", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6596,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584331831,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [296]
+		}, -- [54]
 		{
 			"WTS: Normal/heroicNy'alotha1-12 for 460ilvl ;Mythic(11-15) for 455-465ilvl tradable loots and 465-475 weekly chest and Corruption gear;  Vision update rank.Mechagon |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rOr ;Pst !", -- [1]
 			"Jurnlek-Kil'jaeden", -- [2]
@@ -6618,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJurnlek|r",
 			[51] = 1584331912,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [297]
+		}, -- [55]
 		{
 			"LF someone to run me through a few bosses in Ulduar, and Trial of Crusader to help gear this twink for Herald of the Titans...PST", -- [1]
 			"Schmendricc-Kil'jaeden", -- [2]
@@ -6640,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSchmendricc|r",
 			[51] = 1584399402,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [298]
+		}, -- [56]
 		{
 			"I need Leviathan, Algalon, Mim, and twins outta ToC, that's it", -- [1]
 			"Schmendricc-Kil'jaeden", -- [2]
@@ -6662,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSchmendricc|r",
 			[51] = 1584399403,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [299]
+		}, -- [57]
 		{
 			"|cffa335ee|Hitem:167743::::::::120:267::13::::|h[Silas' Potion of Prosperity]|h|r if anyone needs anything", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -6684,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1584399479,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [300]
+		}, -- [58]
 		{
 			"will probably use this entire 10 min duration, but will have more after", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -6706,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1584399496,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [301]
+		}, -- [59]
 		{
 			"|cffffff00Uldum is under attack!|r", -- [1]
 			"", -- [2]
@@ -6728,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1584399916,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [302]
+		}, -- [60]
 		{
 			"did anyone need |cffa335ee|Hitem:167743::::::::120:267::13::::|h[Silas' Potion of Prosperity]|h|r?", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -6750,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1584400095,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [303]
+		}, -- [61]
 		{
 			"do you have any high keys", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6772,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402832,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [304]
+		}, -- [62]
 		{
 			"like 18", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6794,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402833,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [305]
+		}, -- [63]
 		{
 			"!keys", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6816,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [306]
+		}, -- [64]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:369:16:9:11:2:120|h[Keystone: Operation: Mechagon - Junkyard (16)]|h|r", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -6838,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584402842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [307]
+		}, -- [65]
 		{
 			"|cffa335ee|Hkeystone:158923:353:16:9:11:2:120|h[Keystone: Siege of Boralus (16)]|h|r", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -6860,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1584402842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [308]
+		}, -- [66]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:247:18:9:11:2:120|h[Keystone: The MOTHERLODE!! (18)]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -6882,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1584402842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [309]
+		}, -- [67]
 		{
 			"|cffa335ee|Hkeystone:158923:250:14:9:11:2:120|h[Keystone: Temple of Sethraliss (14)]|h|r", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -6904,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1584402842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [310]
+		}, -- [68]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:250:14:9:11:2:120|h[Keystone: Temple of Sethraliss (14)]|h|r", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -6926,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1584402842,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [311]
+		}, -- [69]
 		{
 			"|cffa335ee|Hkeystone:158923:353:18:9:11:2:120|h[Keystone: Siege of Boralus (18)]|h|r on dk", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6948,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402843,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [312]
+		}, -- [70]
 		{
 			"EHHHHHHHHHHHHHHHHH", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6970,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402851,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [313]
+		}, -- [71]
 		{
 			"and that ML 18 on sham", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6992,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402857,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [314]
+		}, -- [72]
 		{
 			"okay sure thats fine", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7014,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402857,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [315]
+		}, -- [73]
 		{
 			"the siege", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7036,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402864,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [316]
+		}, -- [74]
 		{
 			"heck ML", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7058,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402865,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [317]
+		}, -- [75]
 		{
 			"nvmnvm", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7080,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402918,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [318]
+		}, -- [76]
 		{
 			"ok", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7102,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402924,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [319]
+		}, -- [77]
 		{
 			"lol", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7124,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402926,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [320]
+		}, -- [78]
 		{
 			"who you trying to do it for", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7146,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402938,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [321]
+		}, -- [79]
 		{
 			"monday trap keys", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7168,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402941,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [322]
+		}, -- [80]
 		{
 			"well wont be a trap", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7190,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402945,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [323]
+		}, -- [81]
 		{
 			"LOOK AT AUDIT SHEET ", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7212,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402950,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [324]
+		}, -- [82]
 		{
 			"greetings friends", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -7234,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1584402950,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [325]
+		}, -- [83]
 		{
 			"i hate ppl", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7256,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402951,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [326]
+		}, -- [84]
 		{
 			"welcome", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7278,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584402970,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [327]
+		}, -- [85]
 		{
 			"I think the sheet's broken", -- [1]
 			"|Kq2|k", -- [2]
@@ -7300,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Envious|r",
 			[51] = 1584402995,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [328]
+		}, -- [86]
 		{
 			"shows 0 for everyone", -- [1]
 			"|Kq2|k", -- [2]
@@ -7322,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Envious|r",
 			[51] = 1584402999,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [329]
+		}, -- [87]
 		{
 			"does anyone need a key on their alt?", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -7344,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1584403025,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [330]
+		}, -- [88]
 		{
 			"oh, wrong column", -- [1]
 			"|Kq2|k", -- [2]
@@ -7366,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "Envious",
 			[51] = 1584403075,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [331]
+		}, -- [89]
 		{
 			"gochie? or maybe not 'cuz transfer", -- [1]
 			"|Kq2|k", -- [2]
@@ -7388,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403097,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [332]
+		}, -- [90]
 		{
 			"thunderz?", -- [1]
 			"|Kq2|k", -- [2]
@@ -7410,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403100,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [333]
+		}, -- [91]
 		{
 			"oh...", -- [1]
 			"|Kq2|k", -- [2]
@@ -7432,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403107,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [334]
+		}, -- [92]
 		{
 			"turkey", -- [1]
 			"|Kq2|k", -- [2]
@@ -7454,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403109,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [335]
+		}, -- [93]
 		{
 			"what the", -- [1]
 			"|Kq2|k", -- [2]
@@ -7476,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403111,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [336]
+		}, -- [94]
 		{
 			"YA", -- [1]
 			"|Kq2|k", -- [2]
@@ -7498,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403111,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [337]
+		}, -- [95]
 		{
 			"OH", -- [1]
 			"|Kq2|k", -- [2]
@@ -7520,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403112,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [338]
+		}, -- [96]
 		{
 			"LOL", -- [1]
 			"|Kq2|k", -- [2]
@@ -7542,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403114,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [339]
+		}, -- [97]
 		{
 			"he had sales then 2 sets of raids ", -- [1]
 			"|Kq2|k", -- [2]
@@ -7564,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403138,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [340]
+		}, -- [98]
 		{
 			"he was raiding in a different game", -- [1]
 			"|Kq2|k", -- [2]
@@ -7586,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403143,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [341]
+		}, -- [99]
 		{
 			"just alot to do xd", -- [1]
 			"|Kq2|k", -- [2]
@@ -7608,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403148,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [342]
+		}, -- [100]
 		{
 			"I bet he did more than 2 this week", -- [1]
 			"|Kq2|k", -- [2]
@@ -7630,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403160,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [343]
+		}, -- [101]
 		{
 			"on other mage", -- [1]
 			"|Kq2|k", -- [2]
@@ -7652,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403162,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [344]
+		}, -- [102]
 		{
 			"nop", -- [1]
 			"|Kq2|k", -- [2]
@@ -7674,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403168,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [345]
+		}, -- [103]
 		{
 			" he did 1 with us", -- [1]
 			"|Kq2|k", -- [2]
@@ -7696,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403172,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [346]
+		}, -- [104]
 		{
 			"idk if he did 1 with his guild", -- [1]
 			"|Kq2|k", -- [2]
@@ -7718,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403177,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [347]
+		}, -- [105]
 		{
 			"he didnt", -- [1]
 			"|Kq2|k", -- [2]
@@ -7740,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1584403196,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [348]
+		}, -- [106]
 		{
 			"2/3 caches, welp", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -7762,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1584403629,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [349]
+		}, -- [107]
 		{
 			"lol", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -7784,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1584403635,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [350]
+		}, -- [108]
 		{
 			"*clicks abandon*", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -7806,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1584403636,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [351]
+		}, -- [109]
 		{
 			"Good evening lads ^_^", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7828,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584403639,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [352]
+		}, -- [110]
 		{
 			"ITS NOT THAT BAD", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -7850,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1584403643,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [353]
+		}, -- [111]
 		{
 			"hi dumbers", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -7872,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1584403648,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [354]
+		}, -- [112]
 		{
 			"yes, yes it is", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -7894,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1584403651,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [355]
+		}, -- [113]
 		{
 			"some hunter left because of you", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -7916,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1584403656,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [356]
+		}, -- [114]
 		{
 			"tbh im kinda lazy just doing lesser vision and the main invasion quests", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7938,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584403672,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [357]
+		}, -- [115]
 		{
 			"i kinda forgot stormwind isn't complete aids if theres no slow", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7960,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584459315,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [358]
+		}, -- [116]
 		{
 			"holy moly", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -7982,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1584459679,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [359]
+		}, -- [117]
 		{
 			"|cffa335ee|Hitem:158314::::::::120:63::35:7:6536:6578:6579:6561:6515:1647:4786:::|h[Seal of Questionable Loyalties]|h|r ._.", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -8004,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1584459687,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [360]
+		}, -- [118]
 		{
 			"That's pretty good for you, right?", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8026,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584459736,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [361]
+		}, -- [119]
 		{
 			"I think so lol", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -8048,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1584459781,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [362]
+		}, -- [120]
 		{
 			"|cffa335ee|Hitem:172524::::::::120:63::56:8:6377:6388:6578:6579:6560:6515:1577:4786:::|h[Corrupted Gladiator's Silk Treads]|h|r", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -8070,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1584459783,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [363]
+		}, -- [121]
 		{
 			"Grats!", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8092,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584459797,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [364]
+		}, -- [122]
 		{
 			"|cffa335ee|Hitem:159322::::::::120:102::35:7:6532:6578:6579:6544:6515:1642:4786:::|h[Seawalker's Pantaloons]|h|r", -- [1]
 			"Kiliden-Kil'jaeden", -- [2]
@@ -8114,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Kiliden|r",
 			[51] = 1584459798,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [365]
+		}, -- [123]
 		{
 			"Not bad - grats!", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8136,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584459808,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [366]
+		}, -- [124]
 		{
 			"|cffa335ee|Hitem:169069::::::::120:102::35:9:6536:40:6578:6579:6484:6457:6515:1532:4786:::|h[Wraps of Electrostatic Potential]|h|r rofl", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8158,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584459854,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [367]
+		}, -- [125]
 		{
 			"im psure whoever designed alleria hates melee", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8180,7 +2794,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584460091,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [368]
+		}, -- [126]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14066:Player-9-0BB5330A:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Stormwind]|h|r!", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8202,7 +2816,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584460096,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [369]
+		}, -- [127]
 		{
 			"ooh the illusion dope", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8224,7 +2838,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584460108,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [370]
+		}, -- [128]
 		{
 			"Grats!", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8246,7 +2860,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584460121,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [371]
+		}, -- [129]
 		{
 			"|cffa335ee|Hitem:174287::::::::120:70::::::|h[Sparks of Unwavering Strength]|h|r kinda meh corruption tho", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8268,7 +2882,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584460122,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [372]
+		}, -- [130]
 		{
 			"holy fuck this character bro", -- [1]
 			"Yunzol-Kil'jaeden", -- [2]
@@ -8290,7 +2904,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Yunzol|r",
 			[51] = 1584460211,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [373]
+		}, -- [131]
 		{
 			"|cffa335ee|Hitem:160269::::::::120:581::35:9:6536:4802:43:6578:6579:6544:6515:1647:4786:::|h[Soulrending Claw]|h|r", -- [1]
 			"Yunzol-Kil'jaeden", -- [2]
@@ -8312,7 +2926,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Yunzol|r",
 			[51] = 1584460214,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [374]
+		}, -- [132]
 		{
 			"|cffa335ee|Hitem:159610::::::::120:258::35:4:6536:6515:1647:4786:::|h[Vessel of Skittering Shadows]|h|r|cffa335ee|Hitem:172663::::::::120:258::56:8:6371:6388:6578:6579:6537:6515:1572:4786:::|h[Corrupted Gladiator's Ring]|h|r END ME USELESS WEEK", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -8334,7 +2948,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1584460217,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [375]
+		}, -- [133]
 		{
 			"that was me but like 5 weeks in a row frida", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8356,7 +2970,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584460239,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [376]
+		}, -- [134]
 		{
 			"anyone got crit gems?", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8378,7 +2992,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461554,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [377]
+		}, -- [135]
 		{
 			"|cffa335ee|Hitem:168639::::::::120:257::::::|h[Deadly Lava Lazuli]|h|r", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8400,7 +3014,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461566,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [378]
+		}, -- [136]
 		{
 			"i do", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -8422,7 +3036,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1584461567,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [379]
+		}, -- [137]
 		{
 			"on main sec", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -8444,7 +3058,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1584461571,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [380]
+		}, -- [138]
 		{
 			"well, 20 seconds", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -8466,7 +3080,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1584461580,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [381]
+		}, -- [139]
 		{
 			"i have roughly 163 of them", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8488,7 +3102,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584461588,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [382]
+		}, -- [140]
 		{
 			"can i get some?", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8510,7 +3124,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461598,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [383]
+		}, -- [141]
 		{
 			"ya how many", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8532,7 +3146,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584461602,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [384]
+		}, -- [142]
 		{
 			"a few :D", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8554,7 +3168,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461614,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [385]
+		}, -- [143]
 		{
 			"mailed", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8576,7 +3190,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584461632,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [386]
+		}, -- [144]
 		{
 			"sent", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -8598,7 +3212,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1584461632,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [387]
+		}, -- [145]
 		{
 			"o", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8620,7 +3234,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461635,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [388]
+		}, -- [146]
 		{
 			"ty friends <3", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8642,7 +3256,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461639,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [389]
+		}, -- [147]
 		{
 			"i got a good piece btw", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8664,7 +3278,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461696,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [390]
+		}, -- [148]
 		{
 			"|cffa335ee|Hitem:159262::168639::::::120:257::35:9:6536:4802:41:6578:6579:6560:6513:1647:4786:::|h[Belt of Undying Devotion]|h|r", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8686,7 +3300,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584461708,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [391]
+		}, -- [149]
 		{
 			"pog", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -8708,7 +3322,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1584461715,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [392]
+		}, -- [150]
 		{
 			"same actually. I got |cffa335ee|Hitem:159457::::::::120:70::35:7:6536:6578:6579:6539:6515:1647:4786:::|h[Risen Lord's Oversized Gauntlets]|h|r", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8730,7 +3344,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584461718,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [393]
+		}, -- [151]
 		{
 			"nam poping off on aoe", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -8752,7 +3366,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1584461729,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [394]
+		}, -- [152]
 		{
 			"wait already does", -- [1]
 			"Metsy-Kil'jaeden", -- [2]
@@ -8774,7 +3388,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeMetsy|r",
 			[51] = 1584461732,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [395]
+		}, -- [153]
 		{
 			"ya just pop wings and press divine storm", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8796,7 +3410,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584461740,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [396]
+		}, -- [154]
 		{
 			"dude i might actually hit revered today", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -8818,7 +3432,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1584461809,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [397]
+		}, -- [155]
 		{
 			":O", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -8840,7 +3454,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1584461812,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [398]
+		}, -- [156]
 		{
 			"probably too late for some, but open your caches on main first. Apparently it's bugging and not giving the new currency to some alts if boxes are opened on them first. ", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -8862,7 +3476,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1584462854,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [399]
+		}, -- [157]
 		{
 			"|cffa335ee|Hitem:159419::::::::120:250::35:8:6536:6578:6579:6471:6455:6515:1647:4786:::|h[Ironhull's Reinforced Legplates]|h|r nice dude", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -8884,7 +3498,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584463007,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [400]
+		}, -- [158]
 		{
 			":d", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -8906,7 +3520,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1584463018,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [401]
+		}, -- [159]
 		{
 			"i got void ritual legs", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -8928,7 +3542,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1584463022,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [402]
+		}, -- [160]
 		{
 			"|cffa335ee|Hitem:172898::::::::120:250::56::::|h[Warlord's Trophy]|h|r reeeeeeee", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -8950,7 +3564,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584463087,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [403]
+		}, -- [161]
 		{
 			"Better luck with your Visions loot!", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8972,7 +3586,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584463119,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [404]
+		}, -- [162]
 		{
 			"why do i not have hellreaver", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8994,7 +3608,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584463326,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [405]
+		}, -- [163]
 		{
 			"the wep?", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -9016,7 +3630,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1584463331,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [406]
+		}, -- [164]
 		{
 			"yeah", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -9038,7 +3652,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584463335,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [407]
+		}, -- [165]
 		{
 			"I have red scythe from argus yet somehow I don't have Hellreaver thonking", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -9060,7 +3674,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1584463376,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [408]
+		}, -- [166]
 		{
 			"yea yikes i didn't get any of those echo's on this DH", -- [1]
 			"Yunzol-Kil'jaeden", -- [2]
@@ -9082,7 +3696,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Yunzol|r",
 			[51] = 1584463553,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [409]
+		}, -- [167]
 		{
 			"im guessin you can't like.. buy the token on the main and send it over??", -- [1]
 			"Yunzol-Kil'jaeden", -- [2]
@@ -9104,7 +3718,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Yunzol|r",
 			[51] = 1584463566,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [410]
+		}, -- [168]
 		{
 			"idk im gonna check", -- [1]
 			"Thiccgril-Kil'jaeden", -- [2]
@@ -9126,7 +3740,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThiccgril|r",
 			[51] = 1584463579,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [411]
+		}, -- [169]
 		{
 			"yeah hax made a comment about it in discord. Someone pinged bdg discord letting people know", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -9148,7 +3762,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1584463580,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [412]
+		}, -- [170]
 		{
 			"cuz my dk already has like 600", -- [1]
 			"Thiccgril-Kil'jaeden", -- [2]
@@ -9170,7 +3784,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThiccgril|r",
 			[51] = 1584463587,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [413]
+		}, -- [171]
 		{
 			"yeah my warrior has a bunch already", -- [1]
 			"Yunzol-Kil'jaeden", -- [2]
@@ -9192,7 +3806,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Yunzol|r",
 			[51] = 1584463599,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [414]
+		}, -- [172]
 		{
 			"no they arent boa", -- [1]
 			"Thiccgril-Kil'jaeden", -- [2]
@@ -9214,7 +3828,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThiccgril|r",
 			[51] = 1584463626,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [415]
+		}, -- [173]
 		{
 			"oh, old emissaries aren't rewarding them either", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -9236,7 +3850,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1584463726,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [416]
+		}, -- [174]
 		{
 			"|cffa335ee|Hitem:159325::::::::120:259::35:7:6536:6578:6579:6573:6515:1647:4786:::|h[Bloodfeaster Belt]|h|r x", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9258,7 +3872,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463741,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [417]
+		}, -- [175]
 		{
 			"d", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9280,7 +3894,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463742,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [418]
+		}, -- [176]
 		{
 			"i hadn't done them for a few days and only todays says it", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -9302,7 +3916,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1584463746,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [419]
+		}, -- [177]
 		{
 			"oooooh", -- [1]
 			"Thiccgril-Kil'jaeden", -- [2]
@@ -9324,7 +3938,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThiccgril|r",
 			[51] = 1584463749,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [420]
+		}, -- [178]
 		{
 			"games toxic", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9346,7 +3960,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463751,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [421]
+		}, -- [179]
 		{
 			"afk", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9368,7 +3982,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463752,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [422]
+		}, -- [180]
 		{
 			"no you can't send these over..", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -9390,7 +4004,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1584463752,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [423]
+		}, -- [181]
 		{
 			"dude", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9412,7 +4026,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463753,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [424]
+		}, -- [182]
 		{
 			"wtf", -- [1]
 			"Goredamm-Kil'jaeden", -- [2]
@@ -9434,7 +4048,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoredamm|r",
 			[51] = 1584463753,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [425]
+		}, -- [183]
 		{
 			"but apparently if you kept old assault boxes they give them today", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -9456,7 +4070,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1584463758,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [426]
+		}, -- [184]
 		{
 			"i wish this character had corruption that did dmg", -- [1]
 			"Thiccgril-Kil'jaeden", -- [2]
@@ -9478,7 +4092,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThiccgril|r",
 			[51] = 1584463760,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [427]
+		}, -- [185]
 		{
 			":)", -- [1]
 			"Thiccgril-Kil'jaeden", -- [2]
@@ -9500,7 +4114,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThiccgril|r",
 			[51] = 1584463762,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [428]
+		}, -- [186]
 		{
 			"damn", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -9522,7 +4136,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584463762,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [429]
+		}, -- [187]
 		{
 			"that belt is pog", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -9544,7 +4158,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584463766,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [430]
+		}, -- [188]
 		{
 			"it is and its on the wrong toon", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -9566,7 +4180,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1584463791,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [431]
+		}, -- [189]
 		{
 			"xddd", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -9588,7 +4202,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1584463793,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [432]
+		}, -- [190]
 		{
 			"backstab in for nzoth now", -- [1]
 			"Thiccgril-Kil'jaeden", -- [2]
@@ -9610,7 +4224,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThiccgril|r",
 			[51] = 1584463814,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [433]
+		}, -- [191]
 		{
 			"probably more fun than boomy", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9632,7 +4246,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463834,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [434]
+		}, -- [192]
 		{
 			"Can rogues soak with cloak?", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -9654,7 +4268,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584463856,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [435]
+		}, -- [193]
 		{
 			"s", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9676,7 +4290,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463862,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [436]
+		}, -- [194]
 		{
 			"si", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -9698,7 +4312,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1584463862,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [437]
+		}, -- [195]
 		{
 			"Pog", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -9720,7 +4334,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584463870,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [438]
+		}, -- [196]
 		{
 			"ok so m+ cache, lesser and major assault give 500 echoes total", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -9742,7 +4356,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1584464549,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [439]
+		}, -- [197]
 		{
 			"easy", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -9764,7 +4378,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1584464550,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [440]
+		}, -- [198]
 		{
 			"OX", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9786,7 +4400,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584472134,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [441]
+		}, -- [199]
 		{
 			"OXCLAMATIøN", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9808,7 +4422,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584472191,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [442]
+		}, -- [200]
 		{
 			"Hello to you too! :D", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -9830,7 +4444,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584472191,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [443]
+		}, -- [201]
 		{
 			"WHY DO YOU SEND ME THIS", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9852,7 +4466,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584472200,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [444]
+		}, -- [202]
 		{
 			"|cff0070dd|Hbattlepet:2087:1:3:152:12:12:0000000000000000:45289|h[Cinderweb Recluse]|h|r", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9874,7 +4488,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584472205,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [445]
+		}, -- [203]
 		{
 			"I HAVE 3", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9896,7 +4510,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584472216,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [446]
+		}, -- [204]
 		{
 			"i'm sending it to barbados", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9918,7 +4532,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584472232,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [447]
+		}, -- [205]
 		{
 			"hehe", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9940,7 +4554,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1584472233,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [448]
+		}, -- [206]
 		{
 			"Ahh perfect, nothing like a fourth for your vast collection! ", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -9962,7 +4576,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584472235,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [449]
+		}, -- [207]
 		{
 			"Sounds good to me!", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -9984,7 +4598,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1584472240,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [450]
+		}, -- [208]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13769:Player-9-0BB61A17:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Power Up]|h|r!", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -10006,7 +4620,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1584473574,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [451]
+		}, -- [209]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13770:Player-9-0BB61A17:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Power Creep]|h|r!", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -10028,7 +4642,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1584473574,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [452]
+		}, -- [210]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14062:Player-9-0AC80C34:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Vision of Stormwind]|h|r!", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -10050,7 +4664,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1584473676,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [453]
+		}, -- [211]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14064:Player-9-0AC80C34:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[The Even More Horrific Vision of Stormwind]|h|r!", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -10072,7 +4686,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1584473676,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [454]
+		}, -- [212]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14165:Player-9-0AC80C34:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Masked Soliloquy]|h|r!", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -10094,7 +4708,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1584473676,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [455]
+		}, -- [213]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14166:Player-9-0AC80C34:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Masked Duet]|h|r!", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -10116,7 +4730,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1584473676,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [456]
+		}, -- [214]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14167:Player-9-0AC80C34:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Masked Trio]|h|r!", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -10138,7 +4752,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1584473676,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [457]
+		}, -- [215]
 		{
 			"gratz", -- [1]
 			"Bluedagger-Kil'jaeden", -- [2]
@@ -10160,7 +4774,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Bluedagger|r",
 			[51] = 1584473688,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [458]
+		}, -- [216]
 		{
 			"oh not bad bracers too", -- [1]
 			"Bluedagger-Kil'jaeden", -- [2]
@@ -10182,7 +4796,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Bluedagger|r",
 			[51] = 1584473715,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [459]
+		}, -- [217]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14170:Player-9-0AC80C34:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Thanks For The Mementos]|h|r!", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -10204,7 +4818,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1584473716,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [460]
+		}, -- [218]
 		{
 			"thanks", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -10226,7 +4840,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1584473725,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [461]
+		}, -- [219]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14062:Player-9-0B196809:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Vision of Stormwind]|h|r!", -- [1]
 			"Yunzol-Kil'jaeden", -- [2]
@@ -10248,7 +4862,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Yunzol|r",
 			[51] = 1584473761,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [462]
+		}, -- [220]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10270,7 +4884,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584473769,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [463]
+		}, -- [221]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10292,7 +4906,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584473782,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [464]
+		}, -- [222]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10314,7 +4928,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584473862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [465]
+		}, -- [223]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10336,7 +4950,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584473936,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [466]
+		}, -- [224]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10358,7 +4972,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584473948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [467]
+		}, -- [225]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10380,7 +4994,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474034,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [468]
+		}, -- [226]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10402,7 +5016,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474034,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [469]
+		}, -- [227]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10424,7 +5038,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [470]
+		}, -- [228]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10446,7 +5060,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474060,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [471]
+		}, -- [229]
 		{
 			"dang all these people on you'd think we're day raiding lol", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -10468,7 +5082,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1584474125,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [472]
+		}, -- [230]
 		{
 			"tuesdays man", -- [1]
 			"Sonaris-Kil'jaeden", -- [2]
@@ -10490,7 +5104,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSonaris|r",
 			[51] = 1584474138,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [473]
+		}, -- [231]
 		{
 			"or is everyone quarantined", -- [1]
 			"Snareiat-Kil'jaeden", -- [2]
@@ -10512,7 +5126,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Snareiat|r",
 			[51] = 1584474140,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [474]
+		}, -- [232]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10534,7 +5148,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474571,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [475]
+		}, -- [233]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10556,7 +5170,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474578,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [476]
+		}, -- [234]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10578,7 +5192,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474591,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [477]
+		}, -- [235]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10600,7 +5214,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [478]
+		}, -- [236]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14066:Player-9-0AFE3075:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Stormwind]|h|r!", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -10622,7 +5236,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1584474639,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [479]
+		}, -- [237]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14140:Player-9-0AFE3075:1:3:17:20:4294967295:4294967295:4294967295:4294967295|h[Mad World]|h|r!", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -10644,7 +5258,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1584474639,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [480]
+		}, -- [238]
 		{
 			"gratz", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -10666,7 +5280,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1584474656,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [481]
+		}, -- [239]
 		{
 			"ty", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -10688,7 +5302,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1584474685,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [482]
+		}, -- [240]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10710,7 +5324,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474711,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [483]
+		}, -- [241]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10732,7 +5346,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474725,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [484]
+		}, -- [242]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10754,7 +5368,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474859,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [485]
+		}, -- [243]
 		{
 			"Piercing Shot on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10776,7 +5390,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584474859,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [486]
+		}, -- [244]
 		{
 			"ANDRUW", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -10798,7 +5412,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584475151,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [487]
+		}, -- [245]
 		{
 			"I HAVE YOUR CURSE", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -10820,7 +5434,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584475156,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [488]
+		}, -- [246]
 		{
 			"FUCK", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -10842,7 +5456,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584475157,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [489]
+		}, -- [247]
 		{
 			"|cffa335ee|Hitem:158364::::::::120:577::35:4:5448:1647:4786:6511:::|h[High Altitude Turban]|h|r", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -10864,7 +5478,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584475159,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [490]
+		}, -- [248]
 		{
 			"I also got shit azerite |cffa335ee|Hitem:159331::::::::120:269::35:4:5448:1647:4786:6512:::|h[Pistoleer's Spaulders]|h|r", -- [1]
 			"Choplo-Kil'jaeden", -- [2]
@@ -10886,7 +5500,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Choplo|r",
 			[51] = 1584475175,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [491]
+		}, -- [249]
 		{
 			"THE HAT IS THE WORST", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -10908,7 +5522,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1584475187,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [492]
+		}, -- [250]
 		{
 			"Those are okay for me tho", -- [1]
 			"Choplo-Kil'jaeden", -- [2]
@@ -10930,7 +5544,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Choplo|r",
 			[51] = 1584475193,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [493]
+		}, -- [251]
 		{
 			"i sorry", -- [1]
 			"Choplo-Kil'jaeden", -- [2]
@@ -10952,7 +5566,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Choplo|r",
 			[51] = 1584475194,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [494]
+		}, -- [252]
 		{
 			"HAHAHAH", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -10974,7 +5588,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584475197,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [495]
+		}, -- [253]
 		{
 			"GIT FUKT", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -10996,7 +5610,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584475202,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [496]
+		}, -- [254]
 		{
 			"Blight Eruption on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -11018,7 +5632,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584475234,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [497]
+		}, -- [255]
 		{
 			"Blight Eruption on Toshpal", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -11040,7 +5654,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1584475259,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [498]
+		}, -- [256]
 		{
 			"[WTS] GET YOUR WEEKLY EARLY AND CHEAP! GEAR YOUR ALTS WITH 2.6k io! Timed/Specific Keys/Ny'alotha/PvP/FH Leveling/Islands/Jaina Mount/Gold Only/PST:)", -- [1]
 			"Nudles-Kil'jaeden", -- [2]
@@ -11062,6 +5676,5454 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Nudles|r",
 			[51] = 1584484945,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [257]
+		{
+			"I MADE IT", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584575511,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [258]
+		{
+			"BUT I'M INFECTED", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584575518,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [259]
+		{
+			"oh no", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1584575525,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [260]
+		{
+			"welcome frands", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sci-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575529,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [261]
+		{
+			"wait", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584575539,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [262]
+		{
+			"you tested positive for covid19?", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584575547,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [263]
+		{
+			"no he's infected with kkona virus", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575559,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [264]
+		{
+			"sci I got a gushing wound", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dumbers-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1584575564,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [265]
+		{
+			"jesus", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1584575564,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [266]
+		{
+			"r u proud", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dumbers-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1584575568,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [267]
+		{
+			"haHAA KKona", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575607,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [268]
+		{
+			"Wow", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575626,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [269]
+		{
+			"Grats", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			31, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575627,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [270]
+		{
+			"The bis trait ", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575631,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [271]
+		{
+			"For everyone ", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			33, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575634,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [272]
+		{
+			"(;", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			34, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575635,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [273]
+		{
+			"Err", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575637,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [274]
+		{
+			"oooo ya", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			36, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584575637,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [275]
+		{
+			"Corrupt", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			37, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584575640,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [276]
+		{
+			"just hold ur breath for 10+ seconds", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575786,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [277]
+		{
+			"just hold ur breath for 100+ seconds", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575802,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [278]
+		{
+			"just hold ur breath for 1000+ seconds", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			59, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575833,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [279]
+		{
+			"if u hold ur beath for 1000+ seconds without any discomfort", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575861,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [280]
+		{
+			"u dont have corona virus", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575863,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [281]
+		{
+			"but ur probably dead", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575866,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [282]
+		{
+			"where is it", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			65, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584575881,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [283]
+		{
+			"the entrance", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yellowy-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584575885,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [284]
+		{
+			"uldum", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dumbers-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1584575894,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [285]
+		{
+			"barbados", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sci-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575903,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [286]
+		{
+			"take the night off", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sci-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575907,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [287]
+		{
+			"i'll tank", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sci-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575909,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [288]
+		{
+			"take it easy", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sci-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575911,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [289]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-39938-9-49020835|h[Guild: Margaritaville]|h|r 12/12H is a laid back raid group that runs T/W 7-10pm server. We [Insert thing you really desire here - we're really lazy]. Also it smells like cookies.", -- [1]
+			"Stumpmaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stumpmaster-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			73, -- [11]
+			"Player-9-045129E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Stumpmaster|r",
+			[51] = 1584575911,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [290]
+		{
+			"my dude", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sci-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			74, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584575914,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [291]
+		{
+			"whats so good about dumb ol' texas", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dumbers-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1584575922,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [292]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-39938-9-49020835|h[Guild: Margaritaville]|h|r 12/12H is a laid back raid group that runs T/W 7-10pm server. We [Insert thing you really desire here - we're really lazy]. Also it smells like cookies.", -- [1]
+			"Stumpmaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stumpmaster-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			106, -- [11]
+			"Player-9-045129E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Stumpmaster|r",
+			[51] = 1584576173,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [293]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13764:Player-9-0AF4267B:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Puzzle Performer]|h|r!", -- [1]
+			"Morepheous-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-9-0AF4267B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1584576229,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [294]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-39938-9-49020835|h[Guild: Margaritaville]|h|r 12/12H is a laid back raid group that runs T/W 7-10pm server. We [Insert thing you really desire here - we're really lazy]. Also it smells like cookies.", -- [1]
+			"Stumpmaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stumpmaster-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			110, -- [11]
+			"Player-9-045129E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Stumpmaster|r",
+			[51] = 1584576621,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [295]
+		{
+			"did you say something about link?", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			141, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577475,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [296]
+		{
+			"don't think so", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			144, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577496,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [297]
+		{
+			"like for maut?", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			145, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577498,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [298]
+		{
+			"ah kk, yeah", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			146, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577501,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [299]
+		{
+			"I was just saying the DPS", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			148, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577512,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [300]
+		{
+			"are holding their CDs", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			149, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577516,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [301]
+		{
+			"for the boss, not the obsidian skin", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			150, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577522,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [302]
+		{
+			"so they don't kill themselves", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			151, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577529,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [303]
+		{
+			"ah kk gotcha", -- [1]
+			"Gochie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gochie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			152, -- [11]
+			"Player-9-0BB3FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcGochie|r",
+			[51] = 1584577530,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [304]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13545:Player-9-0AC80C34:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Go Ahead, Make My Daisy]|h|r!", -- [1]
+			"Oof-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Oof-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			172, -- [11]
+			"Player-9-0AC80C34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Oof|r",
+			[51] = 1584578343,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [305]
+		{
+			"that is huge", -- [1]
+			"Morepheous-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			182, -- [11]
+			"Player-9-0AF4267B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1584578756,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [306]
+		{
+			"just use it shortly after", -- [1]
+			"|Kq21|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			187, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584579033,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [307]
+		{
+			"just to get it on CD", -- [1]
+			"|Kq21|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			188, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584579036,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [308]
+		{
+			"and mana efficiency", -- [1]
+			"|Kq21|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			189, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584579040,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [309]
+		{
+			"<Deadly Boss Mods> Yellowy is busy fighting against Mythic - Dark Inquisitor Xanesh (99%, 20/20 people alive)", -- [1]
+			"|Kq21|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			190, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584579041,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [310]
+		{
+			"<DBM> Yellowy has wiped on Mythic - Dark Inquisitor Xanesh at 53%", -- [1]
+			"|Kq21|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			192, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584579180,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [311]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12844:Player-9-0B147C60:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[The MOTHERLODE!!]|h|r!", -- [1]
+			"Akwira-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Akwira-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			205, -- [11]
+			"Player-9-0B147C60", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Akwira|r",
+			[51] = 1584579896,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [312]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12845:Player-9-0B147C60:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: The MOTHERLODE!!]|h|r!", -- [1]
+			"Akwira-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Akwira-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			206, -- [11]
+			"Player-9-0B147C60", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Akwira|r",
+			[51] = 1584579896,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [313]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12846:Player-9-0B147C60:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: The MOTHERLODE!!]|h|r!", -- [1]
+			"Akwira-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Akwira-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			207, -- [11]
+			"Player-9-0B147C60", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Akwira|r",
+			[51] = 1584579896,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [314]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-6567-9-64343918|h[Guild: Cinder Works]|h|r 12/12H. Recruiting for active mythic+ members,RDPS/MDPS Raid times Thurs/Sat 3 - 5pm PST (heroic).", -- [1]
+			"Bullimic-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bullimic-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			220, -- [11]
+			"Player-9-0AA129F5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Bullimic|r",
+			[51] = 1584580588,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [315]
+		{
+			"i mean i actuaslly had one of my lag spikes there but", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			225, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580663,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [316]
+		{
+			"w/e", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			226, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580668,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [317]
+		{
+			"idc", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			227, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580676,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [318]
+		{
+			"it's not just you though, everyone else too", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			228, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580682,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [319]
+		{
+			"DHs", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			229, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580685,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [320]
+		{
+			"jamie almost did", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			230, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580694,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [321]
+		{
+			"im over it", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			231, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580696,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [322]
+		{
+			"for her font", -- [1]
+			"|Kq18|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			232, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584580696,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [323]
+		{
+			"discord fucked or is it me?", -- [1]
+			"Cadaceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			528, -- [11]
+			"Player-9-0AE5ED9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecCadaceus|r",
+			[51] = 1584581714,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [324]
+		{
+			"not just you", -- [1]
+			"Metsy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			529, -- [11]
+			"Player-9-0B59DAFF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeMetsy|r",
+			[51] = 1584581731,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [325]
+		{
+			"my discord call is going fine :o", -- [1]
+			"Røllinlolol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			530, -- [11]
+			"Player-9-0B4BA8E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Røllinlolol|r",
+			[51] = 1584581772,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [326]
+		{
+			"it was the server", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			531, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1584581784,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [327]
+		{
+			"lf 1 healer for fresh M Nyalotha tonight, 7-10pm serv", -- [1]
+			"Stumpmaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stumpmaster-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			533, -- [11]
+			"Player-9-045129E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Stumpmaster|r",
+			[51] = 1584581872,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [328]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14050:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Vexiona]|h|r!", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Choplo-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584582649,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [329]
+		{
+			"cheated on ma' baby, you can even ask her - Barbados 2019", -- [1]
+			"Voidrage-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-9-0A07B176", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cVoidrage|r",
+			[51] = 1584582935,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [330]
+		{
+			"hes afk", -- [1]
+			"Voidrage-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-9-0A07B176", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cVoidrage|r",
+			[51] = 1584583038,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [331]
+		{
+			"said he needed a min", -- [1]
+			"Voidrage-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-9-0A07B176", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cVoidrage|r",
+			[51] = 1584583045,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [332]
+		{
+			"130", -- [1]
+			"Voidrage-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-9-0A07B176", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cVoidrage|r",
+			[51] = 1584583099,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [333]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14046:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Hivemind]|h|r!", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Choplo-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584584087,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [334]
+		{
+			"[WeakAuras: Toshpal-Kil'jaeden - 06 Fixate Glow]", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dumbers-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1584584436,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [335]
+		{
+			"check vet channel. Am I looking at that right?", -- [1]
+			"Cadaceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cadaceus-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			150, -- [11]
+			"Player-9-0AE5ED9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecCadaceus|r",
+			[51] = 1584584837,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [336]
+		{
+			"Drone #1 is what it was called on the replay", -- [1]
+			"Cadaceus-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cadaceus-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			153, -- [11]
+			"Player-9-0AE5ED9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecCadaceus|r",
+			[51] = 1584584850,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [337]
+		{
+			"I moved your wings around a little", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			168, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585026,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [338]
+		{
+			"oki", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			170, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585033,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [339]
+		{
+			"for drest", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			171, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585033,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [340]
+		{
+			"use it a bit before the crashes, you lose a little uptime", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			173, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585062,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [341]
+		{
+			"but", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			174, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585063,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [342]
+		{
+			"that's when we lose people", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			175, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585071,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [343]
+		{
+			"so we need the help", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			176, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585076,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [344]
+		{
+			"2 4 6 8", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			184, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585146,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [345]
+		{
+			"who do we appreciate", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			185, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585151,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [346]
+		{
+			"yup", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			186, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585151,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [347]
+		{
+			"should be the same # as usual", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			188, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585164,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [348]
+		{
+			"just a bit better placed", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			189, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585168,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [349]
+		{
+			"kkk", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			190, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585172,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [350]
+		{
+			"'cuz you don't need wings to heal all 5 people in the mist", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			191, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585180,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [351]
+		{
+			":D", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			192, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585185,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [352]
+		{
+			"yeah", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			193, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584585191,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [353]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:7500:Player-9-0B081794:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Going to Need More Leashes]|h|r!", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			215, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1584585777,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [354]
+		{
+			"nice", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			216, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584585785,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [355]
+		{
+			"i asked to be benched", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			217, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585808,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [356]
+		{
+			"im playing so bad", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			219, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585811,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [357]
+		{
+			"because i cant concentrate", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			220, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585816,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [358]
+		{
+			"sirry", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			221, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585817,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [359]
+		{
+			"what's wrong", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			222, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585823,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [360]
+		{
+			"im like", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			223, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585832,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [361]
+		{
+			"worried about interview, what if this is last raid here, etc", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			224, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585848,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [362]
+		{
+			"like", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			225, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585853,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [363]
+		{
+			"not in the rihgt place ", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			226, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585858,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [364]
+		{
+			"because im fucking the raid and im jus", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			227, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585863,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [365]
+		{
+			"stealing loot", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			228, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585865,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [366]
+		{
+			"ive fucked two bosses so far", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			231, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585934,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [367]
+		{
+			"not even good enough for here, cant go somewhewre else and play this way", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			232, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584585948,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [368]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13572:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[The Heart Forge]|h|r!", -- [1]
+			"Rathux-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rathux-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
+			"Player-9-0B3DA965", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Rathux|r",
+			[51] = 1584586069,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [369]
+		{
+			"3 now", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			241, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586189,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [370]
+		{
+			"I think you're letting things get to you too much", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586209,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [371]
+		{
+			"just relax, you'll be fine", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586215,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [372]
+		{
+			"I know it's easier said than done", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			244, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586220,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [373]
+		{
+			"chance at redemption", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			251, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584586418,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [374]
+		{
+			"can you", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			252, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584586456,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [375]
+		{
+			"cod me 80 crit food", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			253, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584586459,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [376]
+		{
+			"welcome", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			255, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584586479,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [377]
+		{
+			"|cffa335ee|Hitem:157916::::::::120:102::28:7:4803:6578:6579:6554:6513:1637:4786:::|h[Gonk Outrunner Belt]|h|ryikes", -- [1]
+			"Morepheous-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			267, -- [11]
+			"Player-9-0AF4267B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1584586914,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [378]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13623:Player-9-0AF4267B:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Fighting on Two Fronts]|h|r!", -- [1]
+			"Morepheous-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Morepheous-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			270, -- [11]
+			"Player-9-0AF4267B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morepheous|r",
+			[51] = 1584587330,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [379]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14026:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Temper Tantrum]|h|r!", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Choplo-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			272, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584587379,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [380]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14049:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Drest'agath]|h|r!", -- [1]
+			"Choplo-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Choplo-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			273, -- [11]
+			"Player-9-0B94CF42", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1584587379,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [381]
+		{
+			"UR FAT", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			312, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1584587720,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [382]
+		{
+			" Taunted Abyssal Watcher! Taunted Abyssal Watcher! Taunted Abyssal Watcher!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			313, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584587726,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [383]
+		{
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			314, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584587752,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [384]
+		{
+			" Taunted Abyssal Watcher! Taunted Abyssal Watcher! Taunted Abyssal Watcher!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			315, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584587762,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [385]
+		{
+			"probably 2nd", -- [1]
+			"|Kq7|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587959,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [386]
+		{
+			"<Deadly Boss Mods> Yellowy is busy fighting against Mythic - Ra-den the Despoiled (99% (Stage 1), 20/20 people alive)", -- [1]
+			"|Kq7|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			323, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587960,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [387]
+		{
+			"<DBM> Yellowy has wiped on Mythic - Ra-den the Despoiled at 99% (Stage 1)", -- [1]
+			"|Kq7|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			324, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587962,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [388]
+		{
+			"'cuz he'll prolly link the first", -- [1]
+			"|Kq7|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			325, -- [11]
+			false, -- [12]
+			50, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1584587979,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [389]
+		{
+			"was i in wrong spot or somethiing?", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			327, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588398,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [390]
+		{
+			"idk what my /say ever is", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			328, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588403,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [391]
+		{
+			"no, that was fine", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			329, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588410,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [392]
+		{
+			"the WA was weird", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			330, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588415,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [393]
+		{
+			"shadow is toxic af", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			331, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588422,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [394]
+		{
+			"it said thunderz was filling", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			332, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584588428,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [395]
+		{
+			"this lust thing", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			348, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589226,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [396]
+		{
+			"is so dumb", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			349, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589228,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [397]
+		{
+			"just because turkey says it", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			350, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589233,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [398]
+		{
+			"we do it", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			351, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589236,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [399]
+		{
+			"this boss", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			355, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589536,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [400]
+		{
+			"is so easy", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			356, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589537,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [401]
+		{
+			"we bleed in p2", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			358, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589543,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [402]
+		{
+			"JUST LUST THERE IDK", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			359, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589546,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [403]
+		{
+			"im so mad", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			360, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584589550,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [404]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:699:Player-9-0841BC1C:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[World Wide Winner]|h|r!", -- [1]
+			"Kiliden-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kiliden-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			361, -- [11]
+			"Player-9-0841BC1C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Kiliden|r",
+			[51] = 1584589638,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [405]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14051:Player-9-0BB60E7C:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Ra-den the Despoiled]|h|r!", -- [1]
+			"Proudrunner-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Proudrunner-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			398, -- [11]
+			"Player-9-0BB60E7C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cProudrunner|r",
+			[51] = 1584591130,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [406]
+		{
+			"like", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			416, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591249,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [407]
+		{
+			"we need to global mute", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			417, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591253,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [408]
+		{
+			"everyone", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			419, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591254,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [409]
+		{
+			"in that phase", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			420, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591258,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [410]
+		{
+			"except u", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			421, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591262,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [411]
+		{
+			"its just very toxic", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			423, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591272,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [412]
+		{
+			"like 90% of people", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			436, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591313,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [413]
+		{
+			"talking", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			437, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591315,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [414]
+		{
+			"is unneeded", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			439, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591318,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [415]
+		{
+			"we see everything", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			440, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591320,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [416]
+		{
+			"\"heal me\" yea we see ur in trouble", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			444, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591335,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [417]
+		{
+			"we see your stupid caut procc'd and debuffs on u", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			446, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591343,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [418]
+		{
+			"420 vape", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			447, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584591343,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [419]
+		{
+			"life", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			448, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584591344,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [420]
+		{
+			"xd", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			449, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591346,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [421]
+		{
+			"i only want to hear evan barbados and u", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			456, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591381,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [422]
+		{
+			"THANKS FOR HEALING ME SCI", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			457, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1584591383,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [423]
+		{
+			"same", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			458, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1584591388,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [424]
+		{
+			"pretty much", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			459, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591388,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [425]
+		{
+			"yeah", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			460, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591392,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [426]
+		{
+			"lol", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			461, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591394,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [427]
+		{
+			"assassinated", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			463, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1584591412,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [428]
+		{
+			"KEKW", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			464, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1584591422,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [429]
+		{
+			"and also that last phase is actually toxic", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			466, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591450,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [430]
+		{
+			"too much passive healing", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			467, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591455,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [431]
+		{
+			"i actually have to stop healing", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			468, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591459,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [432]
+		{
+			"or i'll die", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			469, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591461,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [433]
+		{
+			"yea", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			470, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591470,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [434]
+		{
+			"cuz some random passive chain heal or something tops me", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			471, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591472,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [435]
+		{
+			"guess i can fix that by not bubbling that soak mechanic anymore", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			476, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591503,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [436]
+		{
+			"bubble is not really needed for that anymore", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			477, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591510,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [437]
+		{
+			"i just bubble the decay", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			478, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591514,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [438]
+		{
+			"yeah, just wall it", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			479, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591518,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [439]
+		{
+			"cuz its was like 3 pulls where i got the debuff and somehow im 85%", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			481, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591535,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [440]
+		{
+			"i guess turkey is raid lead now so", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			483, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584591638,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [441]
+		{
+			"?", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			486, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591699,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [442]
+		{
+			"mt", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			487, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591700,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [443]
+		{
+			"yeah", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			488, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591710,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [444]
+		{
+			"thats what u get", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			490, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591715,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [445]
+		{
+			"oh rofl", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			505, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591806,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [446]
+		{
+			"u got hit by a 270k shock", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			506, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591810,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [447]
+		{
+			"XD feelsbadman", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			507, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584591814,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [448]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14149:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: War for the Shore]|h|r!", -- [1]
+			"Rathux-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rathux-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			557, -- [11]
+			"Player-9-0B3DA965", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Rathux|r",
+			[51] = 1584592186,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [449]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13296:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[War for the Shore]|h|r!", -- [1]
+			"Rathux-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rathux-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			559, -- [11]
+			"Player-9-0B3DA965", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Rathux|r",
+			[51] = 1584592192,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [450]
+		{
+			"also low key", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			572, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592246,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [451]
+		{
+			"why is turkey having such an influence on our strats", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			575, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592255,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [452]
+		{
+			"its putting us behind", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			576, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592257,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [453]
+		{
+			"my 2 cents", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			577, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592259,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [454]
+		{
+			"idk", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			578, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592262,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [455]
+		{
+			"@_@", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			579, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592263,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [456]
+		{
+			"I'm gonna talk to jamie about it", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			580, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592267,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [457]
+		{
+			"latre", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			581, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592269,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [458]
+		{
+			"please", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			582, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592270,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [459]
+		{
+			"ty .-.", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			583, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592274,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [460]
+		{
+			"would you feel comfortable putting that in feedback or no, I can bring it up either way", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			584, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592299,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [461]
+		{
+			"yeah i can do that", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			585, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592305,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sci",
+		}, -- [462]
+		{
+			"ty", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			586, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592312,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [463]
+		{
+			"you're not the only one", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			587, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592316,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sci",
+		}, -- [464]
+		{
+			"they're doing a good job actually", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			611, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592484,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [465]
+		{
+			"making me happy to leave", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			612, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592489,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [466]
+		{
+			"like holy shit", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			613, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592494,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [467]
+		{
+			"idiots", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			614, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592498,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [468]
+		{
+			"it's just jamie and turkey", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			616, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592511,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [469]
+		{
+			"i know", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			617, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592519,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [470]
+		{
+			"and evan", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			618, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592522,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [471]
+		{
+			"evan's on our side, he wanted 1 less decaying strike", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			619, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592535,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [472]
+		{
+			"she doesnt listen to the person who actually knows what hes talking about", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			620, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592546,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [473]
+		{
+			"who organized all the strat", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			621, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592550,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [474]
+		{
+			"looked at logs", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			623, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592555,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [475]
+		{
+			"is an officer", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			624, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592558,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [476]
+		{
+			"just listen to turky 4head", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			625, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592563,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [477]
+		{
+			"its different when its hax", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			626, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592568,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [478]
+		{
+			"because hax is in a real guild", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			627, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592573,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [479]
+		{
+			"270k btw", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			628, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592575,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [480]
+		{
+			"thast uhm", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			629, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592577,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [481]
+		{
+			"not my fault", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			630, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592581,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [482]
+		{
+			"turkeys guild isnt even that much better than rivalry", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			631, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592582,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [483]
+		{
+			"(:", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			632, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592582,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [484]
+		{
+			"yeah, we downgraded our ringer", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			633, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592583,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [485]
+		{
+			"lol", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			634, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592583,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [486]
+		{
+			"LOOK", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			635, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592588,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [487]
+		{
+			"A VISIONS MIGHT HAVE PROCCED", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			636, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592595,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [488]
+		{
+			"THE SECOND I PRESSED IT", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			637, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592599,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [489]
+		{
+			"not that turkey's bad", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			638, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592600,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [490]
+		{
+			"theres no way a normal shock dose 270k", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			639, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592604,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [491]
+		{
+			"I just don't think he's that strong strategically", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			640, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592607,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Sonaris",
+		}, -- [492]
+		{
+			"hes not a strategist", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			641, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592608,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [493]
+		{
+			"yea", -- [1]
+			"|Kq11|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			644, -- [11]
+			false, -- [12]
+			44, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeSonaris|r",
+			[51] = 1584592611,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Sonaris",
+		}, -- [494]
+		{
+			"xd", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			647, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592617,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [495]
+		{
+			"i have a feedback suggestion for andrwe", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			683, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592918,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [496]
+		{
+			"can u click off your leech", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			685, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592922,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [497]
+		{
+			":D", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			686, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592924,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [498]
+		{
+			"oh he's not logged in sec messaging him", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			694, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1584592944,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [499]
 	},
 }

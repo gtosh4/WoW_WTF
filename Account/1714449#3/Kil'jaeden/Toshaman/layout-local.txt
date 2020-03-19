@@ -1,4 +1,11 @@
 Version: 1
+Frame: Grid2LayoutFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: -153
+Y: 220
+W: 204
+H: 112
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -6,13 +13,6 @@ X: 1
 Y: -235
 W: 235
 H: 480
-Frame: Grid2LayoutFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: -153
-Y: 274
-W: 204
-H: 58
 Frame: ColorPickerFrame
 FrameLevel: 21
 Anchor: TOP
@@ -116,8 +116,8 @@ FrameLevel: 1
 Anchor: TOP
 X: -499
 Y: -232
-W: 278
-H: 143
+W: 271
+H: 274
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: BOTTOM

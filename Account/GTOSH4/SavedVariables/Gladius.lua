@@ -19,9 +19,25 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
-			["powerBarTexture"] = "ElvUI Blank",
-			["trinketGloss"] = false,
+			["modules"] = {
+				["Dispel"] = false,
+			},
 			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["dispellGloss"] = false,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 442.0468255028536,
+			},
+			["x"] = {
+				["arena1"] = 1116.533833770722,
+			},
+			["trinketGloss"] = false,
+			["announcements"] = {
+				["health"] = false,
+				["spec"] = false,
+				["enemies"] = false,
+			},
 			["tagsTexts"] = {
 				["PowerBar Left Text"] = {
 					["text"] = "[spec]",
@@ -30,25 +46,9 @@ Gladius2DB = {
 					["text"] = "[health:short]",
 				},
 			},
-			["classIconShowSpec"] = true,
-			["modules"] = {
-				["Dispel"] = false,
-			},
-			["dispellGloss"] = false,
-			["x"] = {
-				["arena1"] = 1116.533833770722,
-			},
-			["announcements"] = {
-				["spec"] = false,
-				["health"] = false,
-				["enemies"] = false,
-			},
-			["locked"] = true,
-			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Blank",
-			["y"] = {
-				["arena1"] = 442.0468255028536,
-			},
+			["powerBarTexture"] = "ElvUI Blank",
+			["classIconShowSpec"] = true,
 		},
 		["Toshtrial - Blood Furnace"] = {
 			["auraVersion"] = 1,
@@ -61,31 +61,31 @@ Gladius2DB = {
 			},
 		},
 		["Toshdk - Kil'jaeden"] = {
-			["modules"] = {
-				["Announcements"] = false,
-			},
-			["timerOmniCC"] = true,
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["x"] = {
-				["arena1"] = 1105.33447890653,
-			},
-			["castBarAttachTo"] = "Frame",
 			["trinketGridStyleIcon"] = true,
+			["powerBarTexture"] = "Smooth v2",
+			["auraVersion"] = 1,
+			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
-			["castBarAnchor"] = "BOTTOMLEFT",
-			["castBarTexture"] = "Smooth v2",
-			["healthBarTexture"] = "Smooth v2",
-			["powerBarTexture"] = "Smooth v2",
+			["modules"] = {
+				["Announcements"] = false,
+			},
+			["x"] = {
+				["arena1"] = 1105.33447890653,
+			},
+			["y"] = {
+				["arena1"] = 229.7807371077943,
+			},
 			["classIconShowSpec"] = true,
+			["castBarAttachTo"] = "Frame",
+			["castBarAnchor"] = "BOTTOMLEFT",
+			["locked"] = true,
+			["tagsVersion"] = 4,
+			["healthBarTexture"] = "Smooth v2",
+			["castBarTexture"] = "Smooth v2",
 		},
 		["Sumex - Frostwolf"] = {
 			["auraVersion"] = 1,

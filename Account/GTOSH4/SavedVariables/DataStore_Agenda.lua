@@ -39,7 +39,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1582683124,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1584486454,
+				["lastUpdate"] = 1584593280,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,

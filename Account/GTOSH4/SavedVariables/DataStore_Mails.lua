@@ -20,8 +20,8 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1584486422,
-				["lastVisitDate"] = "2020/03/17 19:07",
+				["lastUpdate"] = 1584581466,
+				["lastVisitDate"] = "2020/03/18 21:31",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,
