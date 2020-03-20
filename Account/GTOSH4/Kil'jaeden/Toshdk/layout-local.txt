@@ -62,13 +62,6 @@ X: 0
 Y: 0
 W: 320
 H: 550
-Frame: scanner_button
-FrameLevel: 1
-Anchor: LEFT
-X: 136
-Y: 99
-W: 200
-H: 50
 Frame: REFlexFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -90,3 +83,10 @@ X: -219
 Y: 160
 W: 680
 H: 753
+Frame: scanner_button
+FrameLevel: 1
+Anchor: LEFT
+X: 136
+Y: 99
+W: 200
+H: 50

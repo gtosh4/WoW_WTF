@@ -1,476 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/o which we do without", -- [1]
-		"/o so it is literally wasted dmg", -- [2]
-		"/o yes", -- [3]
-		"/o that's why", -- [4]
-		"/o I said to hold", -- [5]
-		"/o but then", -- [6]
-		"/o jamie spoiled it", -- [7]
-		"/o well, you don't get full lust", -- [8]
-		"/o but you lust like, 20s before", -- [9]
-		"/o CDs come up", -- [10]
-		"/o and you get 10s of lusted CDs", -- [11]
-		" yeah", -- [12]
-		" lol", -- [13]
-		" yea", -- [14]
-		" yeah, just wall it", -- [15]
-		" it's just jamie and turkey", -- [16]
-		" evan's on our side, he wanted 1 less decaying strike", -- [17]
-		" yeah, we downgraded our ringer", -- [18]
-		" not that turkey's bad", -- [19]
-		" I just don't think he's that strong strategically", -- [20]
+		" evan's on our side, he wanted 1 less decaying strike", -- [1]
+		" yeah, we downgraded our ringer", -- [2]
+		" not that turkey's bad", -- [3]
+		" I just don't think he's that strong strategically", -- [4]
+		"yeah, just wall it", -- [5]
+		"/o yes", -- [6]
+		"/o CDs come up", -- [7]
+		"/o and you get 10s of lusted CDs", -- [8]
+		"lol", -- [9]
+		"evan's on our side, he wanted 1 less decaying strike", -- [10]
+		"not that turkey's bad", -- [11]
+		"/o which we do without", -- [12]
+		"yea", -- [13]
+		"/o but you lust like, 20s before", -- [14]
+		"yeah, we downgraded our ringer", -- [15]
+		"/o jamie spoiled it", -- [16]
+		"it's just jamie and turkey", -- [17]
+		"/o I said to hold", -- [18]
+		"I just don't think he's that strong strategically", -- [19]
+		"/g |cffa335ee|Hkeystone:158923:370:17:10:7:12:120|h[Keystone: Operation: Mechagon - Workshop (17)]|h|r", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13572:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[The Heart Forge]|h|r!", -- [1]
-			"Rathux-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rathux-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			241, -- [11]
-			"Player-9-0B3DA965", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Rathux|r",
-			[51] = 1584586069,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [1]
-		{
-			"3 now", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			248, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584586189,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [2]
-		{
-			"I think you're letting things get to you too much", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			249, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584586209,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [3]
-		{
-			"just relax, you'll be fine", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			250, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584586215,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [4]
-		{
-			"I know it's easier said than done", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			251, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584586220,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [5]
-		{
-			"chance at redemption", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			260, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584586418,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [6]
-		{
-			"welcome", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			262, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1584586479,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
-		{
-			"sent", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			266, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1584586498,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [8]
-		{
-			"ooo ty", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			267, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1584586504,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [9]
-		{
-			"|cffa335ee|Hitem:157916::::::::120:102::28:7:4803:6578:6579:6554:6513:1637:4786:::|h[Gonk Outrunner Belt]|h|ryikes", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584586914,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13623:Player-9-0AF4267B:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Fighting on Two Fronts]|h|r!", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			278, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1584587330,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [11]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14026:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Temper Tantrum]|h|r!", -- [1]
-			"Choplo-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Choplo-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			280, -- [11]
-			"Player-9-0B94CF42", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1584587379,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [12]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14049:Player-9-0B94CF42:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Drest'agath]|h|r!", -- [1]
-			"Choplo-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Choplo-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			281, -- [11]
-			"Player-9-0B94CF42", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1584587379,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [13]
-		{
-			"probably 2nd", -- [1]
-			"|Kq8|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			320, -- [11]
-			false, -- [12]
-			50, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584587959,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [14]
-		{
-			"<Deadly Boss Mods> Yellowy is busy fighting against Mythic - Ra-den the Despoiled (99% (Stage 1), 20/20 people alive)", -- [1]
-			"|Kq8|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			321, -- [11]
-			false, -- [12]
-			50, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584587960,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [15]
-		{
-			"<DBM> Yellowy has wiped on Mythic - Ra-den the Despoiled at 99% (Stage 1)", -- [1]
-			"|Kq8|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			322, -- [11]
-			false, -- [12]
-			50, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584587962,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [16]
-		{
-			"'cuz he'll prolly link the first", -- [1]
-			"|Kq8|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			323, -- [11]
-			false, -- [12]
-			50, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1584587979,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [17]
-		{
-			"was i in wrong spot or somethiing?", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			327, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584588398,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [18]
-		{
-			"idk what my /say ever is", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			328, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584588403,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sonaris",
-		}, -- [19]
-		{
-			"no, that was fine", -- [1]
-			"|Kq38|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			329, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSonaris|r",
-			[51] = 1584588410,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sonaris",
-		}, -- [20]
 		{
 			"the WA was weird", -- [1]
 			"|Kq38|k", -- [2]
@@ -493,7 +45,7 @@ ElvCharacterDB = {
 			[51] = 1584588415,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [21]
+		}, -- [1]
 		{
 			"shadow is toxic af", -- [1]
 			"|Kq38|k", -- [2]
@@ -516,7 +68,7 @@ ElvCharacterDB = {
 			[51] = 1584588422,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [22]
+		}, -- [2]
 		{
 			"it said thunderz was filling", -- [1]
 			"|Kq38|k", -- [2]
@@ -539,7 +91,7 @@ ElvCharacterDB = {
 			[51] = 1584588428,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [23]
+		}, -- [3]
 		{
 			"this lust thing", -- [1]
 			"|Kq38|k", -- [2]
@@ -562,7 +114,7 @@ ElvCharacterDB = {
 			[51] = 1584589226,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [24]
+		}, -- [4]
 		{
 			"is so dumb", -- [1]
 			"|Kq38|k", -- [2]
@@ -585,7 +137,7 @@ ElvCharacterDB = {
 			[51] = 1584589228,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [25]
+		}, -- [5]
 		{
 			"just because turkey says it", -- [1]
 			"|Kq38|k", -- [2]
@@ -608,7 +160,7 @@ ElvCharacterDB = {
 			[51] = 1584589233,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [26]
+		}, -- [6]
 		{
 			"we do it", -- [1]
 			"|Kq38|k", -- [2]
@@ -631,7 +183,7 @@ ElvCharacterDB = {
 			[51] = 1584589236,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [27]
+		}, -- [7]
 		{
 			"this boss", -- [1]
 			"|Kq38|k", -- [2]
@@ -654,7 +206,7 @@ ElvCharacterDB = {
 			[51] = 1584589536,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [28]
+		}, -- [8]
 		{
 			"is so easy", -- [1]
 			"|Kq38|k", -- [2]
@@ -677,7 +229,7 @@ ElvCharacterDB = {
 			[51] = 1584589537,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [29]
+		}, -- [9]
 		{
 			"we bleed in p2", -- [1]
 			"|Kq38|k", -- [2]
@@ -700,7 +252,7 @@ ElvCharacterDB = {
 			[51] = 1584589543,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [30]
+		}, -- [10]
 		{
 			"JUST LUST THERE IDK", -- [1]
 			"|Kq38|k", -- [2]
@@ -723,7 +275,7 @@ ElvCharacterDB = {
 			[51] = 1584589546,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [31]
+		}, -- [11]
 		{
 			"im so mad", -- [1]
 			"|Kq38|k", -- [2]
@@ -746,7 +298,7 @@ ElvCharacterDB = {
 			[51] = 1584589550,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [32]
+		}, -- [12]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:699:Player-9-0841BC1C:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[World Wide Winner]|h|r!", -- [1]
 			"Kiliden-Kil'jaeden", -- [2]
@@ -768,7 +320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Kiliden|r",
 			[51] = 1584589638,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [33]
+		}, -- [13]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14051:Player-9-0BB60E7C:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Ra-den the Despoiled]|h|r!", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -790,7 +342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1584591130,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [34]
+		}, -- [14]
 		{
 			"like", -- [1]
 			"|Kq29|k", -- [2]
@@ -813,7 +365,7 @@ ElvCharacterDB = {
 			[51] = 1584591249,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [35]
+		}, -- [15]
 		{
 			"we need to global mute", -- [1]
 			"|Kq29|k", -- [2]
@@ -836,7 +388,7 @@ ElvCharacterDB = {
 			[51] = 1584591253,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [36]
+		}, -- [16]
 		{
 			"everyone", -- [1]
 			"|Kq29|k", -- [2]
@@ -859,7 +411,7 @@ ElvCharacterDB = {
 			[51] = 1584591254,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [37]
+		}, -- [17]
 		{
 			"in that phase", -- [1]
 			"|Kq29|k", -- [2]
@@ -882,7 +434,7 @@ ElvCharacterDB = {
 			[51] = 1584591258,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [38]
+		}, -- [18]
 		{
 			"except u", -- [1]
 			"|Kq29|k", -- [2]
@@ -905,7 +457,7 @@ ElvCharacterDB = {
 			[51] = 1584591262,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [39]
+		}, -- [19]
 		{
 			"its just very toxic", -- [1]
 			"|Kq29|k", -- [2]
@@ -928,7 +480,7 @@ ElvCharacterDB = {
 			[51] = 1584591272,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [40]
+		}, -- [20]
 		{
 			"like 90% of people", -- [1]
 			"|Kq29|k", -- [2]
@@ -951,7 +503,7 @@ ElvCharacterDB = {
 			[51] = 1584591313,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [41]
+		}, -- [21]
 		{
 			"talking", -- [1]
 			"|Kq29|k", -- [2]
@@ -974,7 +526,7 @@ ElvCharacterDB = {
 			[51] = 1584591315,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [42]
+		}, -- [22]
 		{
 			"is unneeded", -- [1]
 			"|Kq29|k", -- [2]
@@ -997,7 +549,7 @@ ElvCharacterDB = {
 			[51] = 1584591318,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [43]
+		}, -- [23]
 		{
 			"we see everything", -- [1]
 			"|Kq29|k", -- [2]
@@ -1020,7 +572,7 @@ ElvCharacterDB = {
 			[51] = 1584591320,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [44]
+		}, -- [24]
 		{
 			"\"heal me\" yea we see ur in trouble", -- [1]
 			"|Kq29|k", -- [2]
@@ -1043,7 +595,7 @@ ElvCharacterDB = {
 			[51] = 1584591334,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [45]
+		}, -- [25]
 		{
 			"we see your stupid caut procc'd and debuffs on u", -- [1]
 			"|Kq29|k", -- [2]
@@ -1066,7 +618,7 @@ ElvCharacterDB = {
 			[51] = 1584591343,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [46]
+		}, -- [26]
 		{
 			"420 vape", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1088,7 +640,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1584591343,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [27]
 		{
 			"life", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1110,7 +662,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1584591344,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [28]
 		{
 			"xd", -- [1]
 			"|Kq29|k", -- [2]
@@ -1133,7 +685,7 @@ ElvCharacterDB = {
 			[51] = 1584591346,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [49]
+		}, -- [29]
 		{
 			"i only want to hear evan barbados and u", -- [1]
 			"|Kq29|k", -- [2]
@@ -1156,7 +708,7 @@ ElvCharacterDB = {
 			[51] = 1584591381,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [50]
+		}, -- [30]
 		{
 			"THANKS FOR HEALING ME SCI", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1178,7 +730,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1584591383,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [31]
 		{
 			"same", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1200,7 +752,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1584591388,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [32]
 		{
 			"pretty much", -- [1]
 			"|Kq29|k", -- [2]
@@ -1223,7 +775,7 @@ ElvCharacterDB = {
 			[51] = 1584591388,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [53]
+		}, -- [33]
 		{
 			"yeah", -- [1]
 			"|Kq29|k", -- [2]
@@ -1246,7 +798,7 @@ ElvCharacterDB = {
 			[51] = 1584591393,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [54]
+		}, -- [34]
 		{
 			"lol", -- [1]
 			"|Kq29|k", -- [2]
@@ -1269,7 +821,7 @@ ElvCharacterDB = {
 			[51] = 1584591394,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [55]
+		}, -- [35]
 		{
 			"assassinated", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1291,7 +843,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584591412,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [36]
 		{
 			"KEKW", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -1313,7 +865,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1584591422,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [37]
 		{
 			"and also that last phase is actually toxic", -- [1]
 			"|Kq29|k", -- [2]
@@ -1336,7 +888,7 @@ ElvCharacterDB = {
 			[51] = 1584591450,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [58]
+		}, -- [38]
 		{
 			"too much passive healing", -- [1]
 			"|Kq29|k", -- [2]
@@ -1359,7 +911,7 @@ ElvCharacterDB = {
 			[51] = 1584591455,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [59]
+		}, -- [39]
 		{
 			"i actually have to stop healing", -- [1]
 			"|Kq29|k", -- [2]
@@ -1382,7 +934,7 @@ ElvCharacterDB = {
 			[51] = 1584591459,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [60]
+		}, -- [40]
 		{
 			"or i'll die", -- [1]
 			"|Kq29|k", -- [2]
@@ -1405,7 +957,7 @@ ElvCharacterDB = {
 			[51] = 1584591461,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [61]
+		}, -- [41]
 		{
 			"yea", -- [1]
 			"|Kq29|k", -- [2]
@@ -1428,7 +980,7 @@ ElvCharacterDB = {
 			[51] = 1584591470,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [62]
+		}, -- [42]
 		{
 			"cuz some random passive chain heal or something tops me", -- [1]
 			"|Kq29|k", -- [2]
@@ -1451,7 +1003,7 @@ ElvCharacterDB = {
 			[51] = 1584591472,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [63]
+		}, -- [43]
 		{
 			"guess i can fix that by not bubbling that soak mechanic anymore", -- [1]
 			"|Kq29|k", -- [2]
@@ -1474,7 +1026,7 @@ ElvCharacterDB = {
 			[51] = 1584591503,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [64]
+		}, -- [44]
 		{
 			"bubble is not really needed for that anymore", -- [1]
 			"|Kq29|k", -- [2]
@@ -1497,7 +1049,7 @@ ElvCharacterDB = {
 			[51] = 1584591510,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [65]
+		}, -- [45]
 		{
 			"i just bubble the decay", -- [1]
 			"|Kq29|k", -- [2]
@@ -1520,7 +1072,7 @@ ElvCharacterDB = {
 			[51] = 1584591514,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [66]
+		}, -- [46]
 		{
 			"yeah, just wall it", -- [1]
 			"|Kq29|k", -- [2]
@@ -1543,7 +1095,7 @@ ElvCharacterDB = {
 			[51] = 1584591518,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [67]
+		}, -- [47]
 		{
 			"cuz its was like 3 pulls where i got the debuff and somehow im 85%", -- [1]
 			"|Kq29|k", -- [2]
@@ -1566,7 +1118,7 @@ ElvCharacterDB = {
 			[51] = 1584591535,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [68]
+		}, -- [48]
 		{
 			"i guess turkey is raid lead now so", -- [1]
 			"|Kq38|k", -- [2]
@@ -1589,7 +1141,7 @@ ElvCharacterDB = {
 			[51] = 1584591638,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [69]
+		}, -- [49]
 		{
 			"?", -- [1]
 			"|Kq29|k", -- [2]
@@ -1612,7 +1164,7 @@ ElvCharacterDB = {
 			[51] = 1584591699,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [70]
+		}, -- [50]
 		{
 			"mt", -- [1]
 			"|Kq29|k", -- [2]
@@ -1635,7 +1187,7 @@ ElvCharacterDB = {
 			[51] = 1584591700,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [71]
+		}, -- [51]
 		{
 			"yeah", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1657,7 +1209,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584591710,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [52]
 		{
 			"thats what u get", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1679,7 +1231,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584591715,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [53]
 		{
 			"oh rofl", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1701,7 +1253,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584591806,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [54]
 		{
 			"u got hit by a 270k shock", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1723,7 +1275,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584591809,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [55]
 		{
 			"XD feelsbadman", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1745,7 +1297,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584591814,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [56]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14149:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: War for the Shore]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -1767,7 +1319,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1584592186,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
+		}, -- [57]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13296:Player-9-0B3DA965:1:3:18:20:4294967295:4294967295:4294967295:4294967295|h[War for the Shore]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -1789,7 +1341,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1584592192,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
+		}, -- [58]
 		{
 			"also low key", -- [1]
 			"|Kq29|k", -- [2]
@@ -1812,7 +1364,7 @@ ElvCharacterDB = {
 			[51] = 1584592246,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [79]
+		}, -- [59]
 		{
 			"why is turkey having such an influence on our strats", -- [1]
 			"|Kq29|k", -- [2]
@@ -1835,7 +1387,7 @@ ElvCharacterDB = {
 			[51] = 1584592255,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [80]
+		}, -- [60]
 		{
 			"its putting us behind", -- [1]
 			"|Kq29|k", -- [2]
@@ -1858,7 +1410,7 @@ ElvCharacterDB = {
 			[51] = 1584592257,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [81]
+		}, -- [61]
 		{
 			"my 2 cents", -- [1]
 			"|Kq29|k", -- [2]
@@ -1881,7 +1433,7 @@ ElvCharacterDB = {
 			[51] = 1584592260,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [82]
+		}, -- [62]
 		{
 			"idk", -- [1]
 			"|Kq29|k", -- [2]
@@ -1904,7 +1456,7 @@ ElvCharacterDB = {
 			[51] = 1584592262,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [83]
+		}, -- [63]
 		{
 			"@_@", -- [1]
 			"|Kq29|k", -- [2]
@@ -1927,7 +1479,7 @@ ElvCharacterDB = {
 			[51] = 1584592263,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [84]
+		}, -- [64]
 		{
 			"I'm gonna talk to jamie about it", -- [1]
 			"|Kq29|k", -- [2]
@@ -1950,7 +1502,7 @@ ElvCharacterDB = {
 			[51] = 1584592267,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [85]
+		}, -- [65]
 		{
 			"latre", -- [1]
 			"|Kq29|k", -- [2]
@@ -1973,7 +1525,7 @@ ElvCharacterDB = {
 			[51] = 1584592269,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [86]
+		}, -- [66]
 		{
 			"please", -- [1]
 			"|Kq29|k", -- [2]
@@ -1996,7 +1548,7 @@ ElvCharacterDB = {
 			[51] = 1584592270,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [87]
+		}, -- [67]
 		{
 			"ty .-.", -- [1]
 			"|Kq29|k", -- [2]
@@ -2019,7 +1571,7 @@ ElvCharacterDB = {
 			[51] = 1584592274,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [88]
+		}, -- [68]
 		{
 			"would you feel comfortable putting that in feedback or no, I can bring it up either way", -- [1]
 			"|Kq29|k", -- [2]
@@ -2042,7 +1594,7 @@ ElvCharacterDB = {
 			[51] = 1584592299,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [89]
+		}, -- [69]
 		{
 			"yeah i can do that", -- [1]
 			"|Kq29|k", -- [2]
@@ -2065,7 +1617,7 @@ ElvCharacterDB = {
 			[51] = 1584592305,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sci",
-		}, -- [90]
+		}, -- [70]
 		{
 			"ty", -- [1]
 			"|Kq29|k", -- [2]
@@ -2088,7 +1640,7 @@ ElvCharacterDB = {
 			[51] = 1584592312,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [91]
+		}, -- [71]
 		{
 			"you're not the only one", -- [1]
 			"|Kq29|k", -- [2]
@@ -2111,7 +1663,7 @@ ElvCharacterDB = {
 			[51] = 1584592316,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sci",
-		}, -- [92]
+		}, -- [72]
 		{
 			"they're doing a good job actually", -- [1]
 			"|Kq38|k", -- [2]
@@ -2134,7 +1686,7 @@ ElvCharacterDB = {
 			[51] = 1584592484,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [93]
+		}, -- [73]
 		{
 			"making me happy to leave", -- [1]
 			"|Kq38|k", -- [2]
@@ -2157,7 +1709,7 @@ ElvCharacterDB = {
 			[51] = 1584592489,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [94]
+		}, -- [74]
 		{
 			"like holy shit", -- [1]
 			"|Kq38|k", -- [2]
@@ -2180,7 +1732,7 @@ ElvCharacterDB = {
 			[51] = 1584592495,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [95]
+		}, -- [75]
 		{
 			"idiots", -- [1]
 			"|Kq38|k", -- [2]
@@ -2203,7 +1755,7 @@ ElvCharacterDB = {
 			[51] = 1584592498,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [96]
+		}, -- [76]
 		{
 			"it's just jamie and turkey", -- [1]
 			"|Kq38|k", -- [2]
@@ -2226,7 +1778,7 @@ ElvCharacterDB = {
 			[51] = 1584592511,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [97]
+		}, -- [77]
 		{
 			"i know", -- [1]
 			"|Kq38|k", -- [2]
@@ -2249,7 +1801,7 @@ ElvCharacterDB = {
 			[51] = 1584592519,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [98]
+		}, -- [78]
 		{
 			"and evan", -- [1]
 			"|Kq38|k", -- [2]
@@ -2272,7 +1824,7 @@ ElvCharacterDB = {
 			[51] = 1584592522,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [99]
+		}, -- [79]
 		{
 			"evan's on our side, he wanted 1 less decaying strike", -- [1]
 			"|Kq38|k", -- [2]
@@ -2295,7 +1847,7 @@ ElvCharacterDB = {
 			[51] = 1584592535,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [100]
+		}, -- [80]
 		{
 			"she doesnt listen to the person who actually knows what hes talking about", -- [1]
 			"|Kq38|k", -- [2]
@@ -2318,7 +1870,7 @@ ElvCharacterDB = {
 			[51] = 1584592546,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [101]
+		}, -- [81]
 		{
 			"who organized all the strat", -- [1]
 			"|Kq38|k", -- [2]
@@ -2341,7 +1893,7 @@ ElvCharacterDB = {
 			[51] = 1584592550,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [102]
+		}, -- [82]
 		{
 			"looked at logs", -- [1]
 			"|Kq38|k", -- [2]
@@ -2364,7 +1916,7 @@ ElvCharacterDB = {
 			[51] = 1584592555,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [103]
+		}, -- [83]
 		{
 			"is an officer", -- [1]
 			"|Kq38|k", -- [2]
@@ -2387,7 +1939,7 @@ ElvCharacterDB = {
 			[51] = 1584592557,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [104]
+		}, -- [84]
 		{
 			"just listen to turky 4head", -- [1]
 			"|Kq38|k", -- [2]
@@ -2410,7 +1962,7 @@ ElvCharacterDB = {
 			[51] = 1584592563,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [105]
+		}, -- [85]
 		{
 			"its different when its hax", -- [1]
 			"|Kq38|k", -- [2]
@@ -2433,7 +1985,7 @@ ElvCharacterDB = {
 			[51] = 1584592568,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [106]
+		}, -- [86]
 		{
 			"because hax is in a real guild", -- [1]
 			"|Kq38|k", -- [2]
@@ -2456,7 +2008,7 @@ ElvCharacterDB = {
 			[51] = 1584592573,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [107]
+		}, -- [87]
 		{
 			"270k btw", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2478,7 +2030,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592575,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+		}, -- [88]
 		{
 			"thast uhm", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2500,7 +2052,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592577,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+		}, -- [89]
 		{
 			"not my fault", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2522,7 +2074,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592581,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
+		}, -- [90]
 		{
 			"turkeys guild isnt even that much better than rivalry", -- [1]
 			"|Kq38|k", -- [2]
@@ -2545,7 +2097,7 @@ ElvCharacterDB = {
 			[51] = 1584592582,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [111]
+		}, -- [91]
 		{
 			"(:", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2567,7 +2119,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592582,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [92]
 		{
 			"yeah, we downgraded our ringer", -- [1]
 			"|Kq38|k", -- [2]
@@ -2590,7 +2142,7 @@ ElvCharacterDB = {
 			[51] = 1584592582,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [113]
+		}, -- [93]
 		{
 			"lol", -- [1]
 			"|Kq38|k", -- [2]
@@ -2613,7 +2165,7 @@ ElvCharacterDB = {
 			[51] = 1584592583,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [114]
+		}, -- [94]
 		{
 			"LOOK", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2635,7 +2187,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592588,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [95]
 		{
 			"A VISIONS MIGHT HAVE PROCCED", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2657,7 +2209,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592595,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [96]
 		{
 			"THE SECOND I PRESSED IT", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2679,7 +2231,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592599,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [97]
 		{
 			"not that turkey's bad", -- [1]
 			"|Kq38|k", -- [2]
@@ -2702,7 +2254,7 @@ ElvCharacterDB = {
 			[51] = 1584592600,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [118]
+		}, -- [98]
 		{
 			"theres no way a normal shock dose 270k", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2724,7 +2276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592604,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [99]
 		{
 			"I just don't think he's that strong strategically", -- [1]
 			"|Kq38|k", -- [2]
@@ -2747,7 +2299,7 @@ ElvCharacterDB = {
 			[51] = 1584592607,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Sonaris",
-		}, -- [120]
+		}, -- [100]
 		{
 			"hes not a strategist", -- [1]
 			"|Kq38|k", -- [2]
@@ -2770,7 +2322,7 @@ ElvCharacterDB = {
 			[51] = 1584592608,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [121]
+		}, -- [101]
 		{
 			"yea", -- [1]
 			"|Kq38|k", -- [2]
@@ -2793,7 +2345,7 @@ ElvCharacterDB = {
 			[51] = 1584592611,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Sonaris",
-		}, -- [122]
+		}, -- [102]
 		{
 			"xd", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2815,7 +2367,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592617,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [103]
 		{
 			"i have a feedback suggestion for andrwe", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2837,7 +2389,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592918,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [104]
 		{
 			"can u click off your leech", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2859,7 +2411,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592922,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [105]
 		{
 			":D", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2881,7 +2433,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592924,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [106]
 		{
 			"oh he's not logged in sec messaging him", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2903,6 +2455,446 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1584592944,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13924:Player-9-0B196809:1:3:19:20:4294967295:4294967295:4294967295:4294967295|h[The Fourth War]|h|r!", -- [1]
+			"Yunzol-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yunzol-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			94, -- [11]
+			"Player-9-0B196809", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yunzol|r",
+			[51] = 1584657948,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [108]
+		{
+			"is it actually", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1584658142,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"rares 3 days in a row", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1584658145,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"in both zones", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1584658148,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			":)", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1584658156,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:515:Player-9-0B60C80F:1:3:19:20:4294967295:4294967295:4294967295:4294967295|h[500 Honorable Kills]|h|r!", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			222, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1584658736,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [113]
+		{
+			"my goal is to peel agro off tank", -- [1]
+			"Macsim-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Macsim-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			299, -- [11]
+			"Player-3684-0724F2BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Macsim-Mal'Ganis|r",
+			[51] = 1584659247,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [114]
+		{
+			"that was easy", -- [1]
+			"Macsim-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Macsim-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			302, -- [11]
+			"Player-3684-0724F2BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Macsim-Mal'Ganis|r",
+			[51] = 1584659262,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [115]
+		{
+			"you're also a tank?", -- [1]
+			"Elbowla-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Elbowla-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			307, -- [11]
+			"Player-57-0B3433CE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecElbowla-Illidan|r",
+			[51] = 1584659273,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [116]
+		{
+			"|cffffff00Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			445, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1584660824,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"|cffffff00Seat of Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			446, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1584660843,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"andruw why are you doing the dailies", -- [1]
+			"Lyuneria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			448, -- [11]
+			"Player-9-0B865736", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Lyuneria|r",
+			[51] = 1584661217,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"why wouldnt i", -- [1]
+			"Andruww-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			450, -- [11]
+			"Player-9-0B1541E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Andruww|r",
+			[51] = 1584661231,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14149:Player-9-0AF428EF:1:3:19:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: War for the Shore]|h|r!", -- [1]
+			"Bluelement-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bluelement-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-9-0AF428EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcBluelement|r",
+			[51] = 1584663181,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [121]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14172:Player-9-0B9F1ECA:1:3:19:20:4294967295:4294967295:4294967295:4294967295|h[A Monumental Amount of Mementos]|h|r!", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1584663915,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [122]
+		{
+			"|cffa335ee|Hkeystone:158923:370:17:10:7:12:120|h[Keystone: Operation: Mechagon - Workshop (17)]|h|r", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1584677536,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"|cffffff00Grand Bazaar is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
+			0, -- [10]
+			12, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1584678319,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"|cffffff00The Mugambala is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
+			0, -- [10]
+			67, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1584678799,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"|cffffff00Port of Zandalar is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
+			0, -- [10]
+			68, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1584678811,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"|cffffff00Grand Bazaar is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Dazar'alor", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Dazar'alor", -- [9]
+			0, -- [10]
+			69, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1584678939,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

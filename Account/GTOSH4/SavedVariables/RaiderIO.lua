@@ -1,22 +1,22 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpal-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Alphrick-gurubashi"] = true,
-	["us-Mawlli-silvermoon"] = true,
-	["us-Kbill-darkspear"] = true,
-	["us-Coastn-dragonmaw"] = true,
-	["us-Moofasah-tichondrius"] = true,
-	["us-Sihasapaa-darkspear"] = true,
-	["us-Myhammy-proudmoore"] = true,
-	["us-Sushirôll-tichondrius"] = true,
-	["us-Sonofwill-senjin"] = true,
-	["us-Snrona-shandris"] = true,
-	["us-Deathknut-darkspear"] = true,
-	["us-Absollute-tichondrius"] = true,
-	["us-Braekos-khaz-modan"] = true,
-	["us-Moonsover-proudmoore"] = true,
-	["us-Attma-jaedenar"] = true,
-	["us-Rafitt-frostwolf"] = true,
+	["us-Brishop-daggerspine"] = true,
+	["us-Dàwnslayer-tichondrius"] = true,
+	["us-Billgoldberg-cenarius"] = true,
+	["us-Relayne-daggerspine"] = true,
+	["us-Ghostbuster-boulderfist"] = true,
+	["us-Rektya-drenden"] = true,
+	["us-Ijimeru-runetotem"] = true,
+	["us-Thalos-spirestone"] = true,
+	["us-Razzlen-dragonmaw"] = true,
+	["us-Stoggiski-korgath"] = true,
+	["us-Brenly-kiljaeden"] = true,
+	["us-Rethter-kiljaeden"] = true,
+	["us-Nathanul-eldrethalas"] = true,
+	["us-Dogazi-nerzhul"] = true,
+	["us-Eurekah-proudmoore"] = true,
+	["us-Bindere-runetotem"] = true,
 }
