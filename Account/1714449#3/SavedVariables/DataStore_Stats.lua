@@ -23,7 +23,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1584677502,
+				["lastUpdate"] = 1584773310,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|21.847221374512",
 					["HealthMax"] = 503220,

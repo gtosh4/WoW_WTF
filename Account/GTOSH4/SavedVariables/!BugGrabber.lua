@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2160,
 	["lastSanitation"] = 3,
-	["session"] = 2157,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
@@ -52,15 +52,22 @@ BugGrabberDB = {
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'WeakAuras' tried to call the protected function 'WorldFrame:SetPoint()'.",
 			["time"] = "2020/03/12 15:29:43",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"--[==[ Error in 'Viewport' ]==] return function()\n    local offset = aura_env.config.offset\n    C_Timer.After(1, function()\n            WorldFrame:SetPoint(\"BOTTOMRIGHT\", 0, offset)\n    end)\nend\"]:4: in function <[string \"--[==[ Error in 'Viewport' ]==] return func...\"]:3>",
-			["session"] = 2157,
-			["counter"] = 4,
+			["session"] = 2160,
+			["counter"] = 5,
 		}, -- [7]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/03/21 02:36:03",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 2160,
+			["counter"] = 1,
+		}, -- [8]
 		{
 			["message"] = "Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua:454: doesnt exist!",
 			["time"] = "2020/03/19 21:00:45",
 			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua\"]:454: in function `HandleDropDownBox'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Communities-Communities.lua\"]:222: in function <...\\AddOns\\ElvUI\\Modules\\skins\\Blizzard\\Communities.lua:85>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua\"]:1320: in function `CallLoadedAddon'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\skins\\Skins.lua\"]:1261: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:707: in function <Interface\\FrameXML\\UIParent.lua:706>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `Communities_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:973: in function `ToggleCommunitiesFrame'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:828: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>",
-			["session"] = 2157,
-			["counter"] = 3,
-		}, -- [8]
+			["session"] = 2160,
+			["counter"] = 5,
+		}, -- [9]
 	},
 }
