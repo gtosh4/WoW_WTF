@@ -250,6 +250,7 @@ Gladius2DB = {
 				["arena1"] = 263.99849693316,
 			},
 			["classIconShowSpec"] = true,
+			["castBarTexture"] = "ElvUI Norm",
 			["aurasBuffsHeight"] = 22,
 			["clickAttributes"] = {
 				["shift-Right"] = {
@@ -263,7 +264,6 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["castBarTexture"] = "ElvUI Norm",
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsWidth"] = 22,

@@ -20,7 +20,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1584683270,
+				["lastUpdate"] = 1584852826,
 				["Specializations"] = {
 					14697, -- [1]
 					0, -- [2]
@@ -44,7 +44,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1584773338,
+				["lastUpdate"] = 1584859977,
 				["Specializations"] = {
 					6009, -- [1]
 					7065, -- [2]

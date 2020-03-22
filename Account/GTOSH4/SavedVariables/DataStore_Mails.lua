@@ -20,16 +20,16 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1584770898,
-				["lastVisitDate"] = "2020/03/21 02:08",
+				["lastUpdate"] = 1584845128,
+				["lastVisitDate"] = "2020/03/21 22:45",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1584683122,
-				["lastVisitDate"] = "2020/03/20 01:45",
+				["lastUpdate"] = 1584852898,
+				["lastVisitDate"] = "2020/03/22 00:54",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584068132,

@@ -3,12 +3,13 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshpal-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Phreeked-senjin"] = true,
-	["us-Evandar-khaz-modan"] = true,
-	["us-Karrablast-kiljaeden"] = true,
-	["us-Martiemcfly-proudmoore"] = true,
-	["us-Shalis-daggerspine"] = true,
-	["us-Burningthot-stormrage"] = true,
-	["us-Goah-eldrethalas"] = true,
-	["us-Taela-crushridge"] = true,
+	["us-Mosshide-kiljaeden"] = true,
+	["us-Achenarious-kiljaeden"] = true,
+	["us-Dollymangrip-kiljaeden"] = true,
+	["us-Wáárr-daggerspine"] = true,
+	["us-Modelovirus-proudmoore"] = true,
+	["us-Sprky-bloodscalp"] = true,
+	["us-Zooded-kiljaeden"] = true,
+	["us-Toilsthefax-kiljaeden"] = true,
+	["us-Juicypie-kiljaeden"] = true,
 }

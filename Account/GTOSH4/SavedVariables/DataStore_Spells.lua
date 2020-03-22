@@ -20,7 +20,7 @@ DataStore_SpellsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1584683270,
+				["lastUpdate"] = 1584852826,
 				["Spells"] = {
 					["Unholy"] = {
 						12468992, -- [1]
@@ -472,7 +472,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1584773338,
+				["lastUpdate"] = 1584859977,
 				["Spells"] = {
 					["Protection"] = {
 						8153600, -- [1]

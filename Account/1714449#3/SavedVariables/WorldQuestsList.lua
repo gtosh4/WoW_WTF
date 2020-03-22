@@ -13,10 +13,10 @@ VWQL = {
 			[54685] = true,
 			[52938] = true,
 			[54535] = true,
-			[50877] = true,
-			[50547] = true,
 			[54162] = true,
+			[50877] = true,
 			[54522] = true,
+			[50547] = true,
 			[54516] = true,
 			[51179] = true,
 		},
@@ -60,7 +60,7 @@ VWQL = {
 		},
 	},
 	["DisableArrow"] = false,
-	["OppositeContinent"] = false,
+	["AzeriteFormat"] = 20,
 	["Yorman-Kil'jaeden"] = {
 		["Filter"] = 63,
 		["FilterType"] = {
@@ -72,8 +72,8 @@ VWQL = {
 			[50875] = true,
 			[50846] = true,
 			[50547] = true,
-			[50571] = true,
 			[50871] = true,
+			[50571] = true,
 			[50850] = true,
 		},
 		["VERSION"] = 87,
@@ -89,7 +89,6 @@ VWQL = {
 		},
 		["Filter"] = 63,
 		["Quests"] = {
-			[52858] = true,
 			[52302] = true,
 		},
 		["VERSION"] = 92,
@@ -99,6 +98,6 @@ VWQL = {
 	},
 	["ShellGameSize"] = 326.685791015625,
 	["AnchorQCBLeft"] = 1838.12561035156,
-	["AzeriteFormat"] = 20,
+	["OppositeContinent"] = false,
 	["HideLegion"] = true,
 }
