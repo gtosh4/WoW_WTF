@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2166,
 	["lastSanitation"] = 3,
+	["session"] = 2169,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",

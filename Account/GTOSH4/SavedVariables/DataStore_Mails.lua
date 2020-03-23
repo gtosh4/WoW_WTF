@@ -5,16 +5,16 @@ DataStore_MailsDB = {
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -28,8 +28,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1584852898,
-				["lastVisitDate"] = "2020/03/22 00:54",
+				["lastUpdate"] = 1584920647,
+				["lastVisitDate"] = "2020/03/22 19:44",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584068132,
@@ -43,8 +43,8 @@ DataStore_MailsDB = {
 						["itemID"] = 173416,
 						["link"] = "|cff0070dd|Hitem:173416::::::::120:252::14::::|h[Black Empire Cloth Gloves]|h|r",
 						["count"] = 1,
-						["icon"] = 3048007,
 						["lastCheck"] = 1583212238,
+						["icon"] = 3048007,
 						["daysLeft"] = 30,
 					}, -- [1]
 					{
@@ -52,8 +52,8 @@ DataStore_MailsDB = {
 						["itemID"] = 173399,
 						["link"] = "|cff0070dd|Hitem:173399::::::::120:65::14::::|h[Black Empire Plate Belt]|h|r",
 						["count"] = 1,
-						["icon"] = 2917471,
 						["lastCheck"] = 1583549896,
+						["icon"] = 2917471,
 						["daysLeft"] = 30,
 					}, -- [2]
 				},
