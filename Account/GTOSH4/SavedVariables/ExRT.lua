@@ -9,8 +9,8 @@ VExRT = {
 	},
 	["ProfileKeys"] = {
 		["Toshtrial-BloodFurnace"] = "default",
+		["Toshmonk-Kil'jaeden"] = "default",
 		["Tosku-Kil'jaeden"] = "default",
-		["Sumex-Frostwolf"] = "default",
 		["Yorman-Kil'jaeden"] = "default",
 		["Zallie-Frostwolf"] = "default",
 		["Tosh-Kil'jaeden"] = "default",
@@ -22,7 +22,7 @@ VExRT = {
 		["Toshwar-Kil'jaeden"] = "default",
 		["Toshdk-Kil'jaeden"] = "default",
 		["Koutetsu-Frostwolf"] = "default",
-		["Toshmonk-Kil'jaeden"] = "default",
+		["Sumex-Frostwolf"] = "default",
 	},
 	["Encounter"] = {
 		["list"] = {
@@ -2102,6 +2102,10 @@ VExRT = {
 				"^2118^8^1584678853^130^1^5^472.20^", -- [2067]
 				"^2112^8^1584679222^112^1^5^473.34^", -- [2068]
 				"^2123^8^1584679632^155^1^5^473.34^", -- [2069]
+				"^2257^8^1585021734^89^1^5^473.38^", -- [2070]
+				"^2258^8^1585022004^122^1^5^473.38^", -- [2071]
+				"^2259^8^1585022620^92^1^5^473.38^", -- [2072]
+				"^2260^8^1585023100^173^1^5^473.50^", -- [2073]
 			},
 			["Toshaman"] = {
 				"^2265^15^1550106699^93^1^23^397.90^", -- [1]
@@ -5639,20 +5643,25 @@ VExRT = {
 			["Cysurges-Blackrock"] = 71,
 			["Fightmilk-Area52"] = 250,
 			["Snareiat"] = 260,
+			["Sneakyturkey-Madoran"] = 260,
 			["Totesloaded-Area52"] = 262,
+			["Turkeyone"] = 63,
 			["Finnie-Zul'jin"] = 102,
 			["Kusosando-Illidan"] = 262,
 			["Hokäge-Azralon"] = 104,
+			["Pluie"] = 102,
+			["Toshpal"] = 65,
+			["Bloodmoney-Illidan"] = 71,
 			["Lotsohdots"] = 267,
-			["Ðeimøn-Azralon"] = 267,
-			["Morepheous"] = 102,
 			["Spookyy-BleedingHollow"] = 259,
-			["Relapsê-BleedingHollow"] = 70,
+			["Morepheous"] = 102,
 			["Snowrail-Area52"] = 577,
-			["Youkai-Deathwing"] = 581,
+			["Relapsê-BleedingHollow"] = 70,
 			["Scitron-Area52"] = 264,
+			["Youkai-Deathwing"] = 581,
 			["Bensonw-Area52"] = 71,
 			["Ennjayy-Thrall"] = 63,
+			["Salisena-Tichondrius"] = 577,
 			["Bigßiceps-Dalaran"] = 71,
 			["Nerfertem-Ragnaros"] = 259,
 			["Vèrsacex-Drenden"] = 102,
@@ -5790,10 +5799,10 @@ VExRT = {
 			["Phreezin-Tichondrius"] = 255,
 			["Oof-Moonrunner"] = 72,
 			["Alcodh-Area52"] = 577,
-			["Groml-Kael'thas"] = 63,
+			["Horizons-MoonGuard"] = 63,
 			["Willidan-Magtheridon"] = 577,
 			["Darkdruid-Illidan"] = 102,
-			["Horizons-MoonGuard"] = 63,
+			["Groml-Kael'thas"] = 63,
 			["Thewildhunt-Mal'Ganis"] = 253,
 			["Killzualot-Antonidas"] = 70,
 			["Crippled"] = 250,
@@ -5891,7 +5900,6 @@ VExRT = {
 			["Cptbowels-Destromath"] = 252,
 			["Peeji-Tichondrius"] = 577,
 			["Lillmack-Stormrage"] = 267,
-			["Toshpal"] = 70,
 			["Veverie"] = 259,
 			["Tomfoolery-Stormrage"] = 103,
 			["Slowshot-Mal'Ganis"] = 253,
@@ -5985,11 +5993,11 @@ VExRT = {
 			["Mipis-Azralon"] = 72,
 			["Diridew-Tichondrius"] = 63,
 			["Ngow"] = 105,
-			["Bloodmoney-Illidan"] = 71,
 			["Chainintatum-Korgath"] = 252,
 			["Mordeqai-Blackhand"] = 251,
-			["Veioßarreiro-Azralon"] = 65,
 			["Swordlily-Illidan"] = 260,
+			["Veioßarreiro-Azralon"] = 65,
+			["Ðeimøn-Azralon"] = 267,
 			["Serine-Stormreaver"] = 577,
 		},
 		["default_userCD"] = {
@@ -7858,14 +7866,14 @@ VExRT = {
 				"GToshaman", -- [17]
 				"LKalindalivar-Stormreaver", -- [18]
 				"AMenegrot-Ragnaros", -- [19]
-				["c"] = "Toshaman-Kil'jaeden",
+				["k"] = true,
 				["eI"] = 2276,
-				[21] = "EZech-Thrall",
+				["c"] = "Toshaman-Kil'jaeden",
 				["t"] = 1551033864,
 				["eN"] = "Mekkatorque",
 				["d"] = 14,
 				["g"] = 20,
-				["k"] = true,
+				[21] = "EZech-Thrall",
 			}, -- [52]
 			{
 				"BBeefyypally-Illidan", -- [1]
@@ -13123,13 +13131,13 @@ VExRT = {
 		["timeToKillAnalyze"] = 15,
 	},
 	["Addon"] = {
-		["Timer"] = 0.1,
-		["Version"] = 4140,
-		["IconMiniMapHide"] = true,
 		["Scale"] = 1,
-		["IconMiniMapLeft"] = -78.3197369046974,
-		["IconMiniMapTop"] = -16.3100831137973,
+		["Version"] = 4140,
 		["PreVersion"] = 4140,
+		["IconMiniMapTop"] = -16.3100831137973,
+		["IconMiniMapLeft"] = -78.3197369046974,
+		["IconMiniMapHide"] = true,
+		["Timer"] = 0.1,
 	},
 	["InviteTool"] = {
 		["Words"] = "инв inv byd штм 123",

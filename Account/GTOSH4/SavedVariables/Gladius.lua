@@ -63,17 +63,17 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
-			["classIconShowSpec"] = true,
-			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
+			["timerOmniCC"] = true,
+			["castBarTexture"] = "Smooth v2",
 			["y"] = {
 				["arena1"] = 229.7807371077943,
 			},
-			["castBarTexture"] = "Smooth v2",
+			["classIconShowSpec"] = true,
 			["modules"] = {
 				["Announcements"] = false,
 			},

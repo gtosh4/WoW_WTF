@@ -4,7 +4,48 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
+		["mapID"] = 370,
+		["splits"] = {
+			159, -- [1]
+			462, -- [2]
+			1054, -- [3]
+			1614, -- [4]
+			1433, -- [5]
+			["party1Name"] = "Toshpal",
+			["party1Class"] = "Paladin",
+			["party4Class"] = "Death Knight",
+			["party2Name"] = "Rivalry",
+			["patch"] = "8.3.0",
+			["timeLimit"] = 1920,
+			["level"] = 20,
+			["timeElapsed"] = 1614.577,
+			["party3Role"] = "DAMAGER",
+			["affixes3"] = 12,
+			["party5Role"] = "DAMAGER",
+			["party3Name"] = "Yukio",
+			["affixes2"] = 7,
+			["party1Role"] = "HEALER",
+			["party4Name"] = "Evangelos",
+			["party4Role"] = "TANK",
+			["party3Class"] = "Mage",
+			["wasEnergized"] = true,
+			["affixes1"] = 10,
+			["party5Class"] = "Mage",
+			["mapID"] = 2097,
+			["party2Role"] = "DAMAGER",
+			["date"] = 1585023273,
+			["party2Class"] = "Demon Hunter",
+			["party5Name"] = "Turkeyone",
+		},
 		["playerDeaths"] = {
+			["Turkeyone"] = 1,
+		},
+		["splitNames"] = {
+			"Tussle Tonks defeated", -- [1]
+			"K.U.-J.0. defeated", -- [2]
+			"Machinist's Garden defeated", -- [3]
+			"King Mechagon defeated", -- [4]
+			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -98,15 +139,15 @@ AngryKeystones_Data = {
 			[9] = 140,
 		},
 		[148893] = {
+			[4] = 1,
 			[7] = 1,
 			[9] = 1,
-			[4] = 1,
 		},
 		[133436] = {
 			[5] = 5,
 		},
 		[144295] = {
-			[4] = 8,
+			[4] = 9,
 		},
 		[155090] = {
 			[4] = 6,
@@ -140,7 +181,7 @@ AngryKeystones_Data = {
 			[6] = 5,
 		},
 		[144298] = {
-			[6] = 9,
+			[6] = 10,
 		},
 		[127497] = {
 			[9] = 8,
@@ -150,7 +191,7 @@ AngryKeystones_Data = {
 			[4] = 136,
 		},
 		[144299] = {
-			[4] = 25,
+			[4] = 28,
 		},
 		[155094] = {
 			[4] = 10,
@@ -162,7 +203,7 @@ AngryKeystones_Data = {
 			[4] = 59,
 		},
 		[151773] = {
-			[4] = 17,
+			[4] = 19,
 		},
 		[128967] = {
 			[4] = 75,
@@ -172,7 +213,7 @@ AngryKeystones_Data = {
 			[18] = 4,
 		},
 		[144301] = {
-			66, -- [1]
+			75, -- [1]
 		},
 		[135167] = {
 			[4] = 47,
@@ -190,10 +231,10 @@ AngryKeystones_Data = {
 			[4] = 61,
 		},
 		[144303] = {
-			[4] = 16,
+			[4] = 18,
 		},
 		[151649] = {
-			[4] = 31,
+			[4] = 34,
 		},
 		[128969] = {
 			[8] = 62,
@@ -294,7 +335,7 @@ AngryKeystones_Data = {
 			[4] = 39,
 		},
 		[151657] = {
-			[4] = 13,
+			[4] = 14,
 		},
 		[133836] = {
 			[4] = 296,
@@ -327,7 +368,7 @@ AngryKeystones_Data = {
 			[4] = 58,
 		},
 		[151659] = {
-			[4] = 13,
+			[4] = 14,
 		},
 		[131858] = {
 			[4] = 17,
@@ -341,7 +382,7 @@ AngryKeystones_Data = {
 		[161241] = {
 			[6] = 2,
 			[9] = 2,
-			[4] = 27,
+			[4] = 28,
 		},
 		[122970] = {
 			[4] = 163,
@@ -376,7 +417,7 @@ AngryKeystones_Data = {
 		[161244] = {
 			[6] = 2,
 			[9] = 2,
-			[4] = 31,
+			[4] = 32,
 		},
 		[131670] = {
 			[6] = 5,
@@ -577,7 +618,7 @@ AngryKeystones_Data = {
 		[161243] = {
 			[6] = 3,
 			[9] = 2,
-			[4] = 28,
+			[4] = 29,
 		},
 		[137517] = {
 			[4] = 24,
@@ -636,7 +677,7 @@ AngryKeystones_Data = {
 			[7] = 77,
 		},
 		[151658] = {
-			[4] = 14,
+			[4] = 15,
 		},
 		[137029] = {
 			[5] = 8,
@@ -838,7 +879,7 @@ AngryKeystones_Data = {
 			194, -- [1]
 		},
 		[144293] = {
-			[6] = 25,
+			[6] = 28,
 		},
 		[150293] = {
 			[4] = 2,
@@ -850,11 +891,11 @@ AngryKeystones_Data = {
 			[6] = 3,
 		},
 		[144294] = {
-			[4] = 32,
+			[4] = 36,
 		},
 		[151479] = {
-			[5] = 11,
-			[8] = 5,
+			[5] = 13,
+			[8] = 6,
 		},
 		[136250] = {
 			[4] = 9,

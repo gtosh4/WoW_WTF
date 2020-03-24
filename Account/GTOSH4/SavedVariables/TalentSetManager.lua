@@ -17,6 +17,38 @@ TalentSetManager_Options = {
 	["ldb_last_selected"] = "talents",
 }
 TalentSetManager_CharacterSaves = {
+	["Tosku-Kil'jaeden"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+			{
+			}, -- [2]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Tosh-Frostwolf"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Toshmonk-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
@@ -66,36 +98,6 @@ TalentSetManager_CharacterSaves = {
 		["interface"] = {
 			["auto_equip2"] = 0,
 			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Tosh-Frostwolf"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			{
-			}, -- [1]
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Sumex-Frostwolf"] = {
-		["talents"] = {
-			{
-			}, -- [1]
-		},
-		["talents_pvp"] = {
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip4"] = 0,
-			["auto_equip2"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -235,10 +237,10 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshwar-Kil'jaeden"] = {
+	["Daggny-Frostwolf"] = {
 		["talents"] = {
-			{
-			}, -- [1]
+			[3] = {
+			},
 		},
 		["talents_pvp"] = {
 		},
@@ -454,10 +456,14 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Daggny-Frostwolf"] = {
+	["Toshtrial-Blood Furnace"] = {
 		["talents"] = {
-			[3] = {
-			},
+			{
+			}, -- [1]
+			{
+			}, -- [2]
+			{
+			}, -- [3]
 		},
 		["talents_pvp"] = {
 		},
@@ -484,14 +490,10 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshtrial-Blood Furnace"] = {
+	["Toshwar-Kil'jaeden"] = {
 		["talents"] = {
 			{
 			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
 		},
 		["talents_pvp"] = {
 		},
@@ -585,19 +587,17 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Tosku-Kil'jaeden"] = {
-		["talents_pvp"] = {
-		},
+	["Sumex-Frostwolf"] = {
 		["talents"] = {
 			{
 			}, -- [1]
-			{
-			}, -- [2]
+		},
+		["talents_pvp"] = {
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip2"] = 0,
 			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
