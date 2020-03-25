@@ -11,7 +11,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-03-24",
+			["NextWeeklyReset"] = "2020-03-31",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -23,13 +23,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1580712155,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|384780370"] = "44161|1585017834|0|1",
-				},
-				["lastUpdate"] = 1585018037,
+				["lastUpdate"] = 1585087847,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1585029600,
+				["lastUpdate"] = 1585070776,
 			},
 		},
 	},

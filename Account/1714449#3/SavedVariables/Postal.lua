@@ -59,21 +59,22 @@ Postal3DB = {
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Peace|Kil'jaeden|Horde", -- [1]
-					"Toshpal|Kil'jaeden|Horde", -- [2]
-					"Yorman|Kil'jaeden|Horde", -- [3]
-					"Metsy|Kil'jaeden|Horde", -- [4]
-					"Toshdk-Kil'jaeden|Kil'jaeden|Horde", -- [5]
-					"Voidthirst|Kil'jaeden|Horde", -- [6]
-					"Evangelos|Kil'jaeden|Horde", -- [7]
-					"Tosh|Kil'jaeden|Horde", -- [8]
-					"Yellowy|Kil'jaeden|Horde", -- [9]
-					"Peace-Kil'jaeden|Kil'jaeden|Horde", -- [10]
-					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [11]
-					"Yukio|Kil'jaeden|Horde", -- [12]
-					"Wraithbrand|Kil'jaeden|Horde", -- [13]
-					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [14]
-					"Toshmonk|Kil'jaeden|Horde", -- [15]
+					"Andruww|Kil'jaeden|Horde", -- [1]
+					"Peace|Kil'jaeden|Horde", -- [2]
+					"Toshpal|Kil'jaeden|Horde", -- [3]
+					"Yorman|Kil'jaeden|Horde", -- [4]
+					"Metsy|Kil'jaeden|Horde", -- [5]
+					"Toshdk-Kil'jaeden|Kil'jaeden|Horde", -- [6]
+					"Voidthirst|Kil'jaeden|Horde", -- [7]
+					"Evangelos|Kil'jaeden|Horde", -- [8]
+					"Tosh|Kil'jaeden|Horde", -- [9]
+					"Yellowy|Kil'jaeden|Horde", -- [10]
+					"Peace-Kil'jaeden|Kil'jaeden|Horde", -- [11]
+					"Backstab-Kil'jaeden|Kil'jaeden|Horde", -- [12]
+					"Yukio|Kil'jaeden|Horde", -- [13]
+					"Wraithbrand|Kil'jaeden|Horde", -- [14]
+					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [15]
+					"Toshmonk|Kil'jaeden|Horde", -- [16]
 				},
 			},
 		},

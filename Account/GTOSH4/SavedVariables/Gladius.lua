@@ -63,29 +63,29 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
+			["auraVersion"] = 1,
+			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
-			["timerOmniCC"] = true,
-			["castBarTexture"] = "Smooth v2",
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["classIconShowSpec"] = true,
 			["modules"] = {
 				["Announcements"] = false,
 			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
 			},
+			["y"] = {
+				["arena1"] = 229.7807371077943,
+			},
+			["classIconShowSpec"] = true,
 			["castBarAttachTo"] = "Frame",
 			["castBarAnchor"] = "BOTTOMLEFT",
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
+			["castBarTexture"] = "Smooth v2",
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["y"] = {

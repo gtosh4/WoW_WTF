@@ -269,6 +269,7 @@ BD_persistent = {
 				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  carapace"] = true,
 				["Mythic Azshara Wed + Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat"] = true,
