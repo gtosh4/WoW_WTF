@@ -23,13 +23,13 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1584665916,
 				["lastVisitDate"] = "2020/03/19 20:58",
 			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1554949726,
-				["lastVisitDate"] = "2019/04/10 22:28",
-			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["lastUpdate"] = 1583626217,
 				["lastVisitDate"] = "2020/03/07 19:10",
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1554949726,
+				["lastVisitDate"] = "2019/04/10 22:28",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1565388862,

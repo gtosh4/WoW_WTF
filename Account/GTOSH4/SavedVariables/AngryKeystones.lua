@@ -4,52 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 353,
-		["splits"] = {
-			508, -- [1]
-			1907, -- [2]
-			2851, -- [3]
-			3404, -- [4]
-			2909, -- [5]
-			["party1Name"] = "Toshpal",
-			["party1Class"] = "Paladin",
-			["party4Class"] = "Mage",
-			["party2Name"] = "Heaty",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 2160,
-			["level"] = 18,
-			["timeElapsed"] = 3404.392,
-			["party3Role"] = "TANK",
-			["affixes3"] = 13,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Peace",
-			["affixes2"] = 6,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Arnbjørn",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Monk",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Demon Hunter",
-			["mapID"] = 1822,
-			["party2Role"] = "DAMAGER",
-			["date"] = 1585105029,
-			["party2Class"] = "Monk",
-			["party5Name"] = "Voidthirst",
-		},
 		["playerDeaths"] = {
-			["Peace"] = 10,
-			["Heaty"] = 11,
-			["Voidthirst"] = 9,
-			["Toshpal"] = 10,
-			["Arnbjørn"] = 7,
-		},
-		["splitNames"] = {
-			"Sergeant Bainbridge defeated", -- [1]
-			"Dread Captain Lockwood defeated", -- [2]
-			"Hadal Darkfathom defeated", -- [3]
-			"Viq'Goth defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -709,11 +664,11 @@ AngryKeystones_Data = {
 		[137478] = {
 			[6] = 14,
 		},
-		[150154] = {
-			[4] = 1,
-		},
 		[135846] = {
 			[2] = 4,
+		},
+		[150154] = {
+			[4] = 1,
 		},
 		[138465] = {
 			[4] = 19,
@@ -759,8 +714,8 @@ AngryKeystones_Data = {
 		[130436] = {
 			166, -- [1]
 		},
-		[136295] = {
-			[13] = 8,
+		[134251] = {
+			[4] = 14,
 		},
 		[139425] = {
 			[4] = 16,
@@ -771,15 +726,15 @@ AngryKeystones_Data = {
 		[97754] = {
 			4, -- [1]
 		},
-		[130011] = {
-			[4] = 28,
-		},
 		[130522] = {
 			[2] = 177,
 			[6] = 1,
 		},
-		[152009] = {
-			[5] = 7,
+		[130011] = {
+			[4] = 28,
+		},
+		[127488] = {
+			[7] = 50,
 		},
 		[150249] = {
 			[4] = 17,
@@ -787,11 +742,11 @@ AngryKeystones_Data = {
 		[132126] = {
 			[4] = 91,
 		},
-		[127488] = {
-			[7] = 50,
+		[152009] = {
+			[5] = 7,
 		},
-		[134251] = {
-			[4] = 14,
+		[136295] = {
+			[13] = 8,
 		},
 		[138247] = {
 			137, -- [1]

@@ -39,7 +39,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1582683124,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1585107015,
+				["DungeonIDs"] = {
+					["Ny'alotha, the Waking City Heroic|385167300"] = "471701|1585195093|0|1",
+				},
+				["lastUpdate"] = 1585195557,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,

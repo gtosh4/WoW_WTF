@@ -63,13 +63,9 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
 			["timerOmniCC"] = true,
-			["tagsTexts"] = {
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-			},
+			["auraVersion"] = 1,
+			["castBarTexture"] = "Smooth v2",
 			["modules"] = {
 				["Announcements"] = false,
 			},
@@ -85,7 +81,11 @@ Gladius2DB = {
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "Smooth v2",
-			["castBarTexture"] = "Smooth v2",
+			["tagsTexts"] = {
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+			},
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["y"] = {
