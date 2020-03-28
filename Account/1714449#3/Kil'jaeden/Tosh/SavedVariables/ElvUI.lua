@@ -1,138 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/dn", -- [1]
-		"/wa", -- [2]
-		"/p what majors", -- [3]
-		"/p does everyone have", -- [4]
-		"/p H", -- [5]
-		"/p priest", -- [6]
-		"/g metsy", -- [7]
-		"/g useless |cffa335ee|Hitem:159133::::::::120:256::35:7:6536:6578:6579:6551:6515:1647:4786:::|h[Jagged Iris Sica]|h|r", -- [8]
-		"/cw Andruww |cffa335ee|Hitem:168969::168641::::::120:256::35:8:6536:4802:6578:6579:6554:6513:1532:4786:::|h[Operator's Mitts]|h|r making you jelly", -- [9]
-		"you do need to hold bubble", -- [10]
-		"/p oh wait", -- [11]
-		"/p |cffa335ee|Hitem:159240::::::::120:256::35:7:6536:6578:6579:6545:6513:1647:4786:::|h[Rixxa's Sweat-Wicking Cuffs]|h|r", -- [12]
-		"for the void collapse", -- [13]
-		"/p fml", -- [14]
-		"/cw Peace inv", -- [15]
-		"/grid2", -- [16]
-		"/g how useless", -- [17]
-		"/g |cffa335ee|Hitem:168977::::::::120:256::35:7:6536:6578:6579:6550:6515:1532:4786:::|h[Rebooting Bit Band]|h|r", -- [18]
-		"/ec", -- [19]
-		"/g inv", -- [20]
+		"/p does everyone have", -- [1]
+		"/p H", -- [2]
+		"/p priest", -- [3]
+		"/g metsy", -- [4]
+		"/g useless |cffa335ee|Hitem:159133::::::::120:256::35:7:6536:6578:6579:6551:6515:1647:4786:::|h[Jagged Iris Sica]|h|r", -- [5]
+		"/cw Andruww |cffa335ee|Hitem:168969::168641::::::120:256::35:8:6536:4802:6578:6579:6554:6513:1532:4786:::|h[Operator's Mitts]|h|r making you jelly", -- [6]
+		"you do need to hold bubble", -- [7]
+		"/p oh wait", -- [8]
+		"/p |cffa335ee|Hitem:159240::::::::120:256::35:7:6536:6578:6579:6545:6513:1647:4786:::|h[Rixxa's Sweat-Wicking Cuffs]|h|r", -- [9]
+		"for the void collapse", -- [10]
+		"/p fml", -- [11]
+		"/cw Peace inv", -- [12]
+		"/grid2", -- [13]
+		"/g how useless", -- [14]
+		"/g |cffa335ee|Hitem:168977::::::::120:256::35:7:6536:6578:6579:6550:6515:1532:4786:::|h[Rebooting Bit Band]|h|r", -- [15]
+		"/ec", -- [16]
+		"/g inv", -- [17]
+		"/raid yea", -- [18]
+		"/raid got it", -- [19]
+		"/raid |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:16:3071|h[Ny'alotha, the Waking City]|h|r", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585026534,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			177, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585026534,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"Ricocheting Throw on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			179, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1585026543,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			180, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585026544,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			181, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585026544,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -154,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026544,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
+		}, -- [1]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -176,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026544,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
+		}, -- [2]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Blacktooth Knuckleduster!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -198,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026550,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
+		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Blacktooth Knuckleduster has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -220,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026550,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
+		}, -- [4]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -242,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585026562,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [5]
 		{
 			" Taunted Captain Eudora! Taunted Captain Eudora! Taunted Captain Eudora!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -264,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026573,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
+		}, -- [6]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14066:Player-9-0AE5ED9C:1:3:23:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Stormwind]|h|r!", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -286,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1585026635,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [12]
+		}, -- [7]
 		{
 			"|cffa335ee|Hitem:173511::::::::120:265::55:7:6412:6513:6578:6579:6547:1527:4786:::|h[Vile Manipulator's Belt]|h|r eww", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -308,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1585026655,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [8]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -330,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026657,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [9]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -352,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026657,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
+		}, -- [10]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Blacktooth Scrapper!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -374,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026666,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+		}, -- [11]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Blacktooth Scrapper has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -396,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026666,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
+		}, -- [12]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -418,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026709,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [13]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -440,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026709,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [14]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -462,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026732,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
+		}, -- [15]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -484,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026732,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [16]
 		{
 			" Taunted Irontide Crusher! Taunted Irontide Crusher! Taunted Irontide Crusher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -506,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026735,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
+		}, -- [17]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -528,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026779,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+		}, -- [18]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -550,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [19]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -572,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026781,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
+		}, -- [20]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -594,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026781,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [21]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -616,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026784,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [22]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -638,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026784,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [23]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -660,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026784,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -682,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026796,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [30]
+		}, -- [25]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -704,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026796,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -726,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026801,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [27]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -748,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026801,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
+		}, -- [28]
 		{
 			"|cffa335ee|Hkeystone:158923:245:15:10:7:12:120|h[Keystone: Freehold (15)]|h|r", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -770,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1585026802,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -792,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026811,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -814,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026811,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -836,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026813,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [37]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -858,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026815,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
+		}, -- [33]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -880,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026837,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [34]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -902,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026837,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
+		}, -- [35]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -924,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026845,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [36]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -946,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026845,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [42]
+		}, -- [37]
 		{
 			" Taunted Freehold Shipmate! Taunted Freehold Shipmate! Taunted Freehold Shipmate!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -968,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026914,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [38]
 		{
 			" Taunted Irontide Crusher! Taunted Irontide Crusher! Taunted Irontide Crusher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -990,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026936,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
+		}, -- [39]
 		{
 			" Taunted Irontide Crusher! Taunted Irontide Crusher! Taunted Irontide Crusher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1012,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026985,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
+		}, -- [40]
 		{
 			" Taunted Irontide Crusher! Taunted Irontide Crusher! Taunted Irontide Crusher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1034,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585026985,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [41]
 		{
 			" Taunted Ludwig Von Tortollan! Taunted Ludwig Von Tortollan! Taunted Ludwig Von Tortollan!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1056,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027011,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
+		}, -- [42]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Bilge Rat Brinescale!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1078,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027082,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
+		}, -- [43]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Bilge Rat Brinescale has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1100,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027082,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
+		}, -- [44]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -1122,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027082,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [45]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1144,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027087,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
+		}, -- [46]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1166,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027087,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [47]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1188,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027100,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
+		}, -- [48]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1210,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027100,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [49]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1232,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027100,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
+		}, -- [50]
 		{
 			" Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1254,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027117,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
+		}, -- [51]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1276,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027122,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [52]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1298,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027122,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [53]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1320,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027122,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
+		}, -- [54]
 		{
 			" Taunted Trothak! Taunted Trothak! Taunted Trothak!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1342,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027138,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [55]
 		{
 			"Shark Toss on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1364,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585027175,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [56]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1386,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027248,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
+		}, -- [57]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1408,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027249,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [58]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1430,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027249,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+		}, -- [59]
 		{
 			"My |cff71d5ff|Hspell:116189:0|h[Provoke]|h|r was evaded by Urg'roth, Breaker of Heroes!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1452,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027256,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [60]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11162:Player-9-0B3DA965:1:3:23:20:4294967295:4294967295:4294967295:4294967295|h[Keystone Master]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -1474,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585027271,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [66]
+		}, -- [61]
 		{
 			" Taunted Harlan Sweete! Taunted Harlan Sweete! Taunted Harlan Sweete!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1496,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027331,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
+		}, -- [62]
 		{
 			" Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1518,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027344,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [68]
+		}, -- [63]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1540,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027350,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
+		}, -- [64]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1562,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027350,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [70]
+		}, -- [65]
 		{
 			" Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1584,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027352,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+		}, -- [66]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -1606,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027353,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [67]
 		{
 			" Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir! Taunted Voidweaver Mal'thir!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1628,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027360,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1650,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027369,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [69]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1672,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027369,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1694,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027379,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1716,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027379,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
+		}, -- [72]
 		{
 			"Cannon Barrage on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1738,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585027411,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [73]
 		{
 			"Cannon Barrage on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1760,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1585027411,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [74]
 		{
 			"Fixate on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1782,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585027416,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [75]
 		{
 			"Cannon Barrage on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1804,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585027430,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [76]
 		{
 			"Cannon Barrage on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1826,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1585027430,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [77]
 		{
 			"Fixate on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1848,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585027437,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [78]
 		{
 			"Cannon Barrage on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1870,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1585027448,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [79]
 		{
 			"Cannon Barrage on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1892,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585027448,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [80]
 		{
 			"Fixate on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1914,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1585027470,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [81]
 		{
 			"Cannon Barrage on Sciblaster", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -1936,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027480,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [82]
 		{
 			"Cannon Barrage on Warlockmania", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1958,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1585027480,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [83]
 		{
 			"Cannon Barrage on Paxington", -- [1]
 			"Paxington-Illidan", -- [2]
@@ -1980,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Paxington-Illidan|r",
 			[51] = 1585027480,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [84]
 		{
 			"Casting |cff71d5ff|Hspell:115178:0|h[Resuscitate]|h|r on You!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2002,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027485,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [90]
+		}, -- [85]
 		{
 			"Casting |cff71d5ff|Hspell:115178:0|h[Resuscitate]|h|r on Tosh!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2024,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027485,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
+		}, -- [86]
 		{
 			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2046,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027504,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [87]
 		{
 			"Interrupted Irontide Stormcaller's |cff71d5ff|Hspell:259092:0|h[Lightning Bolt]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2068,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027504,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
+		}, -- [88]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Irontide Stormcaller!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2090,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027509,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [89]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Irontide Stormcaller has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2112,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027509,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [90]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2134,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027515,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [91]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2156,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027515,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [92]
 		{
 			"Interrupted Irontide Oarsman's |cff71d5ff|Hspell:258777:0|h[Sea Spout]|h|r!", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2178,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027521,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [93]
 		{
 			"|cffa335ee|Hkeystone:158923:369:17:10:7:12:120|h[Keystone: Operation: Mechagon - Junkyard (17)]|h|r", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2200,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1585027530,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
+		}, -- [94]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2222,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027603,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [100]
+		}, -- [95]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2244,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027604,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [101]
+		}, -- [96]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2266,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585027619,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [102]
+		}, -- [97]
 		{
 			"omg", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2288,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027697,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [98]
 		{
 			"gordy", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2310,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027698,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [104]
+		}, -- [99]
 		{
 			"prot paladin with ineff", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2332,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027704,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [100]
 		{
 			"IM COMING", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2354,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027706,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [101]
 		{
 			":D", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2376,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027707,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [102]
 		{
 			"yes", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2398,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027725,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [103]
 		{
 			"sotr judge judge judgej udge judg juejgujge", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2420,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027732,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [104]
 		{
 			"sotr", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2442,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027735,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [105]
 		{
 			"ez dam", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2464,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027738,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [106]
 		{
 			"LOL", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2486,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1585027748,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [107]
 		{
 			" Taunted Darkglare Watcher! Taunted Darkglare Watcher! Taunted Darkglare Watcher!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2508,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1585028018,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [113]
+		}, -- [108]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14173:Player-9-0AB1C1A5:1:3:23:20:4294967295:4294967295:4294967295:4294967295|h[A Mountain of Mementos]|h|r!", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2530,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1585028072,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [114]
+		}, -- [109]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14060:Player-9-0AE5ED9C:1:3:23:20:4294967295:4294967295:4294967295:4294967295|h[Unwavering Resolve]|h|r!", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -2552,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1585028209,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [115]
+		}, -- [110]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13994:Player-9-0AE5ED9C:1:3:23:20:4294967295:4294967295:4294967295:4294967295|h[Through the Depths of Visions]|h|r!", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -2574,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1585028209,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [116]
+		}, -- [111]
 		{
 			"|cffa335ee|Hitem:173466::::::::120:70::54:8:6412:4802:6513:6578:6579:6563:1522:4786:::|h[Malignant Leviathan's Gauntlets]|h|r too bad its gloves again", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -2596,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1585070113,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [112]
 		{
 			"I got like 7k mementos tho from that full clear ez", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -2618,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1585070144,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [113]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14063:Player-9-0B3DA965:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Vision of Orgrimmar]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2640,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585070208,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [119]
+		}, -- [114]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14065:Player-9-0B3DA965:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[The Even More Horrific Vision of Orgrimmar]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2662,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585070208,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [120]
+		}, -- [115]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14165:Player-9-0B3DA965:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Masked Soliloquy]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2684,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585070208,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [121]
+		}, -- [116]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14166:Player-9-0B3DA965:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Masked Duet]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2706,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585070208,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [122]
+		}, -- [117]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14167:Player-9-0B3DA965:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Masked Trio]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2728,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585070208,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [123]
+		}, -- [118]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14143:Player-9-0B3DA965:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Reeking of Visions]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2750,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585070208,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [124]
+		}, -- [119]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14170:Player-9-0B3DA965:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Thanks For The Mementos]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2772,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1585070216,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [125]
+		}, -- [120]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13773:Player-9-0AB1C1A5:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Essence Gains]|h|r!", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2794,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1585070561,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [126]
+		}, -- [121]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13775:Player-9-0AB1C1A5:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Essence Overload]|h|r!", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -2815,6 +2705,116 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1585070561,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [122]
+		{
+			"did it work", -- [1]
+			"Pluie-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Pluie-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			31, -- [11]
+			"Player-9-0ABBBD86", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Pluie|r",
+			[51] = 1585346407,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [123]
+		{
+			"yea", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1585346691,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [124]
+		{
+			"got it", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			36, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1585346693,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [125]
+		{
+			"|cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:16:3071|h[Ny'alotha, the Waking City]|h|r", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			38, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1585346701,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13725:Player-9-0ACDA1AF:1:3:27:20:4294967295:4294967295:4294967295:4294967295|h[The Circle of Stars]|h|r!", -- [1]
+			"Subspacexd-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Subspacexd-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-9-0ACDA1AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Subspacexd|r",
+			[51] = 1585347177,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},

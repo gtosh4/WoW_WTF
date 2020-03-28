@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 1616,
+	["session"] = 1622,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -42,11 +42,25 @@ BugGrabberDB = {
 			["counter"] = 14,
 		}, -- [5]
 		{
+			["message"] = "Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua:52: attempt to call field '?' (a nil value)",
+			["time"] = "2020/03/27 19:54:38",
+			["stack"] = "[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua\"]:52: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 1618,
+			["counter"] = 1,
+		}, -- [6]
+		{
+			["message"] = "[string \"--[==[ Error in 'Sanity Bar' ]==] return fu...\"]:40: attempt to index field '?' (a nil value)",
+			["time"] = "2020/03/27 19:57:14",
+			["stack"] = "[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:519: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:512>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:665: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:626: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:759: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:750>",
+			["session"] = 1618,
+			["counter"] = 61,
+		}, -- [7]
+		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'bdCore' tried to call the protected function 'UNKNOWN()'.",
 			["time"] = "2020/03/21 02:19:18",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\bdCore\\modules\\interrupted-Interrupted.lua\"]:16: in function <Interface\\AddOns\\bdCore\\modules\\interrupted.lua:8>",
-			["session"] = 1615,
-			["counter"] = 5,
-		}, -- [6]
+			["session"] = 1621,
+			["counter"] = 7,
+		}, -- [8]
 	},
 }
