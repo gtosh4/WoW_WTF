@@ -914,6 +914,8 @@ REFlexDatabase = {
 		["Duration"] = 670,
 		["PlayerNum"] = 5,
 		["isArena"] = false,
+		["Version"] = 274,
+		["isBrawl"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -1066,12 +1068,10 @@ REFlexDatabase = {
 				}, -- [1]
 			}, -- [30]
 		},
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = false,
-		["Version"] = 274,
-		["Winner"] = 0,
 		["Time"] = 1564522942,
+		["Winner"] = 0,
+		["PlayerSide"] = 0,
 		["Players"] = {
 			{
 				"Zuluhand-Azralon", -- [1]
@@ -1648,18 +1648,18 @@ REFlexDatabase = {
 	{
 		["Map"] = 2118,
 		["StatsNum"] = 0,
-		["Hidden"] = false,
+		["Season"] = 28,
 		["PlayersNum"] = 79,
 		["Duration"] = 687,
-		["Season"] = 28,
+		["Hidden"] = false,
 		["PlayerNum"] = 76,
 		["PlayerSide"] = 0,
-		["isArena"] = false,
+		["isBrawl"] = false,
 		["Time"] = 1564523486,
 		["isRated"] = false,
 		["Version"] = 274,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = false,
 		["Players"] = {
 			{
 				"Falystix-Dalaran", -- [1]
@@ -16062,16 +16062,16 @@ REFlexDatabase = {
 		},
 		["PlayersNum"] = 6,
 		["Duration"] = 71,
-		["Season"] = 29,
-		["isArena"] = false,
-		["Time"] = 1580235671,
+		["Hidden"] = false,
 		["isBrawl"] = false,
+		["Time"] = 1580235671,
+		["isArena"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 275,
 		["Winner"] = 0,
 		["PlayerNum"] = 6,
-		["Hidden"] = false,
+		["Season"] = 29,
 	}, -- [99]
 	{
 		["Map"] = 572,
@@ -24372,10 +24372,10 @@ REFlexHonorDatabase = {
 	[1565510400] = 1990,
 	[1584345600] = 6,
 	[1564128000] = 684,
-	[1564387200] = 470,
+	[1569225600] = 6,
 	[1581760800] = 5,
 	[1580119200] = 2910,
-	[1569225600] = 6,
+	[1564387200] = 470,
 	[1563868800] = 980,
 	[1566115200] = 23,
 	[1579255200] = 30,

@@ -20,6 +20,9 @@ END
 VER 3 0000000000000007 "focus" "132885"
 /focus
 END
+VER 3 0000000000000031 "focus2" "INV_MISC_QUESTIONMARK"
+/focus [@mouseover]
+END
 VER 3 0000000000000021 "follow" "134140"
 /follow yellowy
 END

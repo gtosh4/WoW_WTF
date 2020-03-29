@@ -1,31 +1,22 @@
 
 BigWigs3DB = {
-	["discord"] = 15,
-	["global"] = {
-		["watchedMovies"] = {
-			[-1345] = true,
-			[927] = true,
-			[-1597] = true,
-			[886] = true,
-			[-557] = true,
-			[875] = true,
-			[-1358] = true,
-			[-367] = true,
-			[-1004] = true,
-			[-1352] = {
-				[2] = true,
-			},
-			[876] = true,
-		},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 	},
+	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[285003] = 1032439,
-					[287333] = 1032439,
 					["stages"] = 1032439,
 					[288449] = 2015479,
+					[285003] = 1032439,
+					[287333] = 1032439,
 				},
 			},
 		},
@@ -100,11 +91,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Grong Horde"] = {
+		["BigWigs_Bosses_Jadefire Masters Horde"] = {
 			["profiles"] = {
 				["Default"] = {
-					[282082] = 1032439,
-					[289401] = 1032439,
+					[286988] = 1032951,
 				},
 			},
 		},
@@ -162,6 +152,16 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Grong Horde"] = {
+			["profiles"] = {
+				["Default"] = {
+					[282082] = 1032439,
+					[289401] = 1032439,
+				},
+			},
+		},
+		["BigWigs_Plugins_Victory"] = {
+		},
 		["BigWigs_Bosses_Ra-den the Despoiled"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -169,19 +169,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
-		},
 		["BigWigs_Bosses_Harlan Sweete"] = {
 			["profiles"] = {
 				["Default"] = {
 					[257305] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Jadefire Masters Horde"] = {
-			["profiles"] = {
-				["Default"] = {
-					[286988] = 1032951,
 				},
 			},
 		},
@@ -485,8 +476,8 @@ BigWigs3DB = {
 						},
 						["BigWigs_Bosses_Queen Azshara"] = {
 							[301078] = "English: Overwatch: Zenyatta",
-							[299094] = "English: Overwatch: Zarya",
 							[300519] = "English: Overwatch: Roadhog",
+							[299094] = "English: Overwatch: Zarya",
 							[300478] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
@@ -608,8 +599,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Queen Azshara"] = {
 							[301078] = "English: Overwatch: Zenyatta",
 							[300478] = "English: Overwatch: Reaper",
-							[299094] = "English: Overwatch: Zarya",
 							[300519] = "English: Overwatch: Roadhog",
+							[299094] = "English: Overwatch: Zarya",
 						},
 						["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
 							[292963] = "English: Overwatch: Reaper",
@@ -709,13 +700,22 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
-	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+	["global"] = {
+		["watchedMovies"] = {
+			[-1345] = true,
+			[927] = true,
+			[-1597] = true,
+			[886] = true,
+			[-557] = true,
+			[875] = true,
+			[-1358] = true,
+			[-367] = true,
+			[-1004] = true,
+			[-1352] = {
+				[2] = true,
+			},
+			[876] = true,
+		},
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -1182,14 +1182,19 @@ BigWigsStatsDB = {
 			},
 		},
 		[2366] = {
+			["normal"] = {
+				["best"] = 421.6490000000049,
+				["kills"] = 1,
+			},
+			["mythic"] = {
+				["kills"] = 1,
+				["wipes"] = 3,
+				["best"] = 467.8610000000335,
+			},
 			["heroic"] = {
 				["kills"] = 9,
 				["wipes"] = 7,
 				["best"] = 393.5200000000186,
-			},
-			["normal"] = {
-				["best"] = 421.6490000000049,
-				["kills"] = 1,
 			},
 		},
 		[2374] = {
@@ -1199,7 +1204,9 @@ BigWigsStatsDB = {
 				["best"] = 283.438000000082,
 			},
 			["mythic"] = {
+				["kills"] = 1,
 				["wipes"] = 2,
+				["best"] = 529.5320000001229,
 			},
 		},
 		[2367] = {
@@ -1214,10 +1221,17 @@ BigWigsStatsDB = {
 			},
 		},
 		[2375] = {
+			["mythic"] = {
+				["wipes"] = 29,
+			},
 			["heroic"] = {
 				["kills"] = 9,
 				["wipes"] = 16,
 				["best"] = 496.7320000000764,
+			},
+			["normal"] = {
+				["best"] = 543.2919999998994,
+				["kills"] = 1,
 			},
 		},
 		[2368] = {

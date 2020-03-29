@@ -20,8 +20,40 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1585357796,
-				["lastVisitDate"] = "2020/03/27 21:09",
+				["lastUpdate"] = 1585467129,
+				["Mails"] = {
+					{
+						["link"] = "|cff9d9d9d|Hitem:157844::::::::120:65::::::|h[Iridescent Speck]|h|r",
+						["sender"] = "The Postmaster",
+						["itemID"] = 157844,
+						["returned"] = false,
+						["icon"] = 132872,
+						["count"] = 1,
+						["lastCheck"] = 1585467129,
+						["daysLeft"] = 29.68042755126953,
+					}, -- [1]
+					{
+						["link"] = "|cff0070dd|Hitem:173395::::::::120:65::14::::|h[Black Empire Plate Gloves]|h|r",
+						["sender"] = "The Postmaster",
+						["itemID"] = 173395,
+						["returned"] = false,
+						["icon"] = 2917476,
+						["count"] = 1,
+						["lastCheck"] = 1585467129,
+						["daysLeft"] = 29.68042755126953,
+					}, -- [2]
+					{
+						["icon"] = 134327,
+						["sender"] = "The Postmaster",
+						["subject"] = "Recovered Item",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "We recovered a lost item in the twisting nether and noted that it was yours.\n\nPlease find said object enclosed.",
+						["lastCheck"] = 1585467129,
+						["daysLeft"] = 29.68042755126953,
+					}, -- [3]
+				},
+				["lastVisitDate"] = "2020/03/29 03:32",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,

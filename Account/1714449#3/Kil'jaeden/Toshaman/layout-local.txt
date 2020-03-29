@@ -27,13 +27,6 @@ X: 0
 Y: 0
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -55,13 +48,20 @@ X: 0
 Y: 0
 W: 635
 H: 200
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: SavedInstancesDetachHeader
 FrameLevel: 100
 Anchor: TOP
 X: 527
 Y: -194
 W: 394
-H: 331
+H: 345
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
