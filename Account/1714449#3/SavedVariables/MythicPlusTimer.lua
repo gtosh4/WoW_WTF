@@ -7,6 +7,76 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["objectiveTimePerLevel"] = true,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
+		["deathCounter"] = false,
+		["hideDefaultObjectiveTracker"] = true,
+		["insertKeystone"] = true,
+		["show_affixes_as_icons"] = false,
+		["progressTooltip"] = true,
+		["objectiveTimeInChat"] = true,
+		["show_affixes_as_text"] = true,
+		["objectiveTime"] = true,
+		["hide_default_objectivetracker"] = true,
+		["objective_time_inchat"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l16",
+			["quantity_number"] = 261,
+			["cm_level"] = 16,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Freehold",
+			["time_left_2"] = 0,
+			["time_left"] = 223,
+			["deathcount_visible"] = true,
+			["steps"] = 5,
+			["death_names"] = {
+				["Peace"] = 4,
+				["Paxington-Illidan"] = 2,
+				["Yukio"] = 2,
+				["Cadaceus"] = 4,
+				["Toshaman"] = 3,
+			},
+			["final_quantity_number"] = 261,
+			["is_reaping"] = false,
+			["affixes_key"] = "affixes-6-9-13-120",
+			["max_time"] = 1980,
+			["affixes"] = {
+				9, -- [1]
+				6, -- [2]
+				13, -- [3]
+				120, -- [4]
+			},
+			["times"] = {
+				325, -- [1]
+				996, -- [2]
+				1467, -- [3]
+				1757, -- [4]
+				1562, -- [5]
+				["5last_best_time_zone_level"] = 1312,
+				["4last_best_time_zone_level"] = 1590,
+				["3last_best_time_zone_level"] = 1464,
+				["1last_best_time_zone"] = 188,
+				["1last_best_time_zone_level"] = 357,
+				["5last_best_time_zone"] = 611,
+				["4last_best_time_zone"] = 1150,
+				["3last_best_time_zone"] = 900,
+				["2last_best_time_zone"] = 773,
+				["2last_best_time_zone_level"] = 859,
+			},
+			["current_map_id"] = 245,
+			["current_zone_id"] = 1754,
+			["deathcount"] = 15,
+			["elapsed_time"] = 1757,
+		},
+		["show_absolute_numbers"] = false,
+		["show_reapingtimer"] = true,
+		["objective_time"] = true,
+		["showAffixesAsText"] = true,
 		["best_times"] = {
 			[1771] = {
 				161, -- [1]
@@ -330,12 +400,12 @@ MythicPlusTimerDB = {
 					1939, -- [4]
 					1993, -- [5]
 				},
-				["l15affixes-2-9-11-119"] = {
-					258, -- [1]
-					901, -- [2]
-					1078, -- [3]
-					1314, -- [4]
-					1331, -- [5]
+				["l19affixes-3-5-9-119"] = {
+					305, -- [1]
+					1806, -- [2]
+					2578, -- [3]
+					2338, -- [4]
+					1837, -- [5]
 				},
 				["l13"] = {
 					271, -- [1]
@@ -373,19 +443,19 @@ MythicPlusTimerDB = {
 					1257, -- [4]
 					1060, -- [5]
 				},
-				["l19affixes-3-5-9-119"] = {
-					305, -- [1]
-					1806, -- [2]
-					2578, -- [3]
-					2338, -- [4]
-					1837, -- [5]
-				},
 				["l12affixes-8-10-14-119"] = {
 					230, -- [1]
 					773, -- [2]
 					1193, -- [3]
 					1333, -- [4]
 					910, -- [5]
+				},
+				["l15affixes-2-9-11-119"] = {
+					258, -- [1]
+					901, -- [2]
+					1078, -- [3]
+					1314, -- [4]
+					1331, -- [5]
 				},
 				["l20affixes-3-5-9-119"] = {
 					631, -- [1]
@@ -540,12 +610,12 @@ MythicPlusTimerDB = {
 					2227, -- [4]
 					1865, -- [5]
 				},
-				["l11"] = {
-					340, -- [1]
-					908, -- [2]
+				["l14affixes-8-10-12-119"] = {
+					492, -- [1]
+					921, -- [2]
 					1709, -- [3]
-					[5] = 1332,
-					["_complete"] = 2014,
+					1889, -- [4]
+					1992, -- [5]
 				},
 				["l10affixes-5-10-14-119"] = {
 					415, -- [1]
@@ -570,19 +640,19 @@ MythicPlusTimerDB = {
 					1573, -- [5]
 					["_complete"] = 1996,
 				},
+				["l11"] = {
+					340, -- [1]
+					908, -- [2]
+					1709, -- [3]
+					[5] = 1332,
+					["_complete"] = 2014,
+				},
 				["l15affixes-7-9-13-120"] = {
 					430, -- [1]
 					1015, -- [2]
 					1970, -- [3]
 					2502, -- [4]
 					1809, -- [5]
-				},
-				["l14affixes-8-10-12-119"] = {
-					492, -- [1]
-					921, -- [2]
-					1709, -- [3]
-					1889, -- [4]
-					1992, -- [5]
 				},
 				["l13affixes-3-10-11-119"] = {
 					482, -- [1]
@@ -1173,76 +1243,6 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
-		["deathCounter"] = false,
-		["hideDefaultObjectiveTracker"] = true,
-		["insertKeystone"] = true,
-		["show_affixes_as_icons"] = false,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
-		["objectiveTimeInChat"] = true,
-		["show_affixes_as_text"] = true,
-		["objectiveTime"] = true,
-		["hide_default_objectivetracker"] = true,
-		["objective_time_inchat"] = true,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l16",
-			["quantity_number"] = 261,
-			["cm_level"] = 16,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Freehold",
-			["time_left_2"] = 0,
-			["time_left"] = 223,
-			["deathcount_visible"] = true,
-			["steps"] = 5,
-			["death_names"] = {
-				["Peace"] = 4,
-				["Paxington-Illidan"] = 2,
-				["Yukio"] = 2,
-				["Cadaceus"] = 4,
-				["Toshaman"] = 3,
-			},
-			["final_quantity_number"] = 261,
-			["is_reaping"] = false,
-			["affixes_key"] = "affixes-6-9-13-120",
-			["max_time"] = 1980,
-			["affixes"] = {
-				9, -- [1]
-				6, -- [2]
-				13, -- [3]
-				120, -- [4]
-			},
-			["times"] = {
-				325, -- [1]
-				996, -- [2]
-				1467, -- [3]
-				1757, -- [4]
-				1562, -- [5]
-				["5last_best_time_zone_level"] = 1312,
-				["4last_best_time_zone_level"] = 1590,
-				["3last_best_time_zone_level"] = 1464,
-				["1last_best_time_zone"] = 188,
-				["1last_best_time_zone_level"] = 357,
-				["5last_best_time_zone"] = 611,
-				["4last_best_time_zone"] = 1150,
-				["3last_best_time_zone"] = 900,
-				["2last_best_time_zone"] = 773,
-				["2last_best_time_zone_level"] = 859,
-			},
-			["current_map_id"] = 245,
-			["deathcount"] = 15,
-			["current_zone_id"] = 1754,
-			["elapsed_time"] = 1757,
-		},
-		["show_absolute_numbers"] = false,
-		["show_reapingtimer"] = true,
-		["objective_time"] = true,
-		["showAffixesAsText"] = true,
-		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -1708,8 +1708,8 @@ MythicPlusTimerDB = {
 			[129548] = {
 				[4] = 75,
 			},
-			[137989] = {
-				108, -- [1]
+			[137478] = {
+				[6] = 7,
 			},
 			[151658] = {
 				[4] = 13,
@@ -1717,8 +1717,8 @@ MythicPlusTimerDB = {
 			[99033] = {
 				[4] = 1,
 			},
-			[141566] = {
-				5, -- [1]
+			[137989] = {
+				108, -- [1]
 			},
 			[127106] = {
 				[6] = 3,
@@ -1987,8 +1987,8 @@ MythicPlusTimerDB = {
 			[102788] = {
 				[4] = 1,
 			},
-			[134232] = {
-				[4] = 28,
+			[98926] = {
+				[4] = 1,
 			},
 			[134423] = {
 				166, -- [1]
@@ -1996,8 +1996,8 @@ MythicPlusTimerDB = {
 			[102375] = {
 				[3] = 1,
 			},
-			[131677] = {
-				[6] = 13,
+			[135254] = {
+				[4] = 2,
 			},
 			[133593] = {
 				[5] = 3,
@@ -2005,8 +2005,8 @@ MythicPlusTimerDB = {
 			[115757] = {
 				[8] = 1,
 			},
-			[135254] = {
-				[4] = 2,
+			[131677] = {
+				[6] = 13,
 			},
 			[130404] = {
 				[4] = 40,
@@ -2037,15 +2037,14 @@ MythicPlusTimerDB = {
 			[114544] = {
 				[4] = 1,
 			},
-			[136214] = {
-				[18] = 3.584000000000001,
-				[36] = 3,
+			[132126] = {
+				[4] = 46,
 			},
 			[105921] = {
 				[4] = 1,
 			},
-			[132126] = {
-				[4] = 46,
+			[135192] = {
+				[4] = 25,
 			},
 			[100364] = {
 				[4] = 1,
@@ -2053,8 +2052,9 @@ MythicPlusTimerDB = {
 			[134617] = {
 				4, -- [1]
 			},
-			[135192] = {
-				[4] = 25,
+			[136214] = {
+				[18] = 3.584000000000001,
+				[36] = 3,
 			},
 			[95861] = {
 				[4] = 1,
@@ -2137,13 +2137,13 @@ MythicPlusTimerDB = {
 			[130436] = {
 				62, -- [1]
 			},
-			[92350] = {
+			[105636] = {
 				[4] = 1,
 			},
 			[134174] = {
 				[5] = 30,
 			},
-			[105636] = {
+			[100526] = {
 				[4] = 1,
 			},
 			[136665] = {
@@ -2158,7 +2158,7 @@ MythicPlusTimerDB = {
 			[114802] = {
 				[4] = 1,
 			},
-			[100526] = {
+			[92350] = {
 				[4] = 1,
 			},
 			[98706] = {
@@ -2451,8 +2451,8 @@ MythicPlusTimerDB = {
 			[133912] = {
 				[6] = 78,
 			},
-			[98926] = {
-				[4] = 1,
+			[134232] = {
+				[4] = 28,
 			},
 			[138019] = {
 				[4] = 11,
@@ -2561,8 +2561,8 @@ MythicPlusTimerDB = {
 			[131858] = {
 				[4] = 18,
 			},
-			[137478] = {
-				[6] = 7,
+			[141566] = {
+				5, -- [1]
 			},
 			[96574] = {
 				[5] = 1,
