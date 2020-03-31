@@ -61,7 +61,7 @@ AdiBagsDB = {
 		},
 		["DataSource"] = {
 		},
-		["WoD"] = {
+		["BfA"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,
@@ -85,14 +85,14 @@ AdiBagsDB = {
 						["Seal of Broken Fate"] = false,
 						["Nethershard"] = false,
 						["Timeworn Artifact"] = false,
-						["Apexis Crystal"] = false,
-						["Wakening Essence"] = false,
-						["Garrison Resources"] = false,
 						["Order Resources"] = false,
+						["Wakening Essence"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Apexis Crystal"] = false,
 						["Veiled Argunite"] = false,
 						["Seal of Tempered Fate"] = false,
 						["Curious Coin"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
+						["Garrison Resources"] = false,
 						["Champion's Seal"] = false,
 						["Legionfall War Supplies"] = false,
 					},
@@ -143,7 +143,7 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["BfA"] = {
+		["WoD"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,

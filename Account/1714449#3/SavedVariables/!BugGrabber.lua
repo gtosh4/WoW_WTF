@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1634,
 	["lastSanitation"] = 3,
-	["session"] = 1631,
 	["errors"] = {
 		{
 			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
@@ -12,26 +12,19 @@ BugGrabberDB = {
 			["counter"] = 11,
 		}, -- [1]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'WeakAuras' tried to call the protected function 'WorldFrame:SetPoint()'.",
-			["time"] = "2020/03/20 21:20:18",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"--[==[ Error in 'Viewport' ]==] return function()\nWorldFrame:SetPoint(\"BOTTOMRIGHT\", 0, aura_env.config.offset)\nend\"]:2: in function <[string \"--[==[ Error in 'Viewport' ]==] return func...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:512>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:665: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:626: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:759: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:750>",
-			["session"] = 1614,
-			["counter"] = 2,
-		}, -- [2]
-		{
 			["message"] = "Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua:52: attempt to call field '?' (a nil value)",
 			["time"] = "2020/03/27 19:54:38",
 			["stack"] = "[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua\"]:52: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1618,
 			["counter"] = 1,
-		}, -- [3]
+		}, -- [2]
 		{
 			["message"] = "[string \"--[==[ Error in 'Sanity Bar' ]==] return fu...\"]:40: attempt to index field '?' (a nil value)",
 			["time"] = "2020/03/27 19:57:14",
 			["stack"] = "[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:519: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:512>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:665: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:626: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:759: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:750>",
 			["session"] = 1618,
 			["counter"] = 61,
-		}, -- [4]
+		}, -- [3]
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
 			["time"] = "2020/03/22 01:25:55",
@@ -39,21 +32,14 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
 			["session"] = 1625,
 			["counter"] = 15,
-		}, -- [5]
+		}, -- [4]
 		{
 			["message"] = "...erface\\AddOns\\ElvUI_SLE\\modules\\minimap\\instance-Instance.lua:88: attempt to index field 'colors' (a nil value)",
 			["time"] = "2020/03/20 21:16:00",
 			["stack"] = "[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\minimap\\instance-Instance.lua\"]:88: in function `GetColor'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\minimap\\instance-Instance.lua\"]:103: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 1627,
 			["counter"] = 14,
-		}, -- [6]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'bdCore' tried to call the protected function 'UNKNOWN()'.",
-			["time"] = "2020/03/21 02:19:18",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\bdCore\\modules\\interrupted-Interrupted.lua\"]:16: in function <Interface\\AddOns\\bdCore\\modules\\interrupted.lua:8>",
-			["session"] = 1629,
-			["counter"] = 8,
-		}, -- [7]
+		}, -- [5]
 		{
 			["message"] = "Interface\\FrameXML\\ChatFrame.lua:1637: Usage: local setWasEquipped = C_EquipmentSet.UseEquipmentSet(equipmentSetID)",
 			["time"] = "2020/03/22 00:56:11",
@@ -61,13 +47,27 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `UseEquipmentSet'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:1637: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4839: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3004: in function <Interface\\FrameXML\\ChatFrame.lua:2997>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:441: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n...\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3004: in function <Interface\\FrameXML\\ChatFrame.lua:2997>\n[string \"=[C]\"]: in function `RunMacroText'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:441: in function `handler'\n[string \"@Interface\\FrameXML\\SecureTemplates.lua\"]:632: in function <Interface\\FrameXML\\SecureTemplates.lua:580>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[string \"=[C]\"]: ?\n[string \"@Interface\\FrameXML\\SecureHandlers.lua\"]:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n[string \"=(tail call)\"]: ?",
 			["session"] = 1630,
 			["counter"] = 3,
-		}, -- [8]
+		}, -- [6]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
 			["time"] = "2020/03/29 23:02:17",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:36: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\ZoneAbility.lua\"]:72: in function <Interface\\FrameXML\\ZoneAbility.lua:32>",
 			["session"] = 1631,
 			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'WeakAuras' tried to call the protected function 'WorldFrame:SetPoint()'.",
+			["time"] = "2020/03/20 21:20:18",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"--[==[ Error in 'Viewport' ]==] return function()\nWorldFrame:SetPoint(\"BOTTOMRIGHT\", 0, aura_env.config.offset)\nend\"]:2: in function <[string \"--[==[ Error in 'Viewport' ]==] return func...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:512>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:665: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:626: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:759: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:750>",
+			["session"] = 1633,
+			["counter"] = 3,
+		}, -- [8]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'bdCore' tried to call the protected function 'UNKNOWN()'.",
+			["time"] = "2020/03/21 02:19:18",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\bdCore\\modules\\interrupted-Interrupted.lua\"]:16: in function <Interface\\AddOns\\bdCore\\modules\\interrupted.lua:8>",
+			["session"] = 1633,
+			["counter"] = 9,
 		}, -- [9]
 	},
 }

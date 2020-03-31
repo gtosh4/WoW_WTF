@@ -7,7 +7,7 @@ AstralKeys = {
 		18, -- [4]
 		19, -- [5]
 		140, -- [6]
-		460427, -- [7]
+		575096, -- [7]
 	}, -- [1]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		17, -- [4]
 		16, -- [5]
 		140, -- [6]
-		477158, -- [7]
+		577158, -- [7]
 	}, -- [2]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -25,7 +25,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		140, -- [6]
-		284782, -- [7]
+		554479, -- [7]
 	}, -- [3]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -79,7 +79,7 @@ AstralKeys = {
 		17, -- [4]
 		18, -- [5]
 		140, -- [6]
-		475632, -- [7]
+		554479, -- [7]
 	}, -- [9]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
@@ -113,9 +113,9 @@ AstralKeys = {
 		"DRUID", -- [2]
 		249, -- [3]
 		15, -- [4]
-		0, -- [5]
+		15, -- [5]
 		140, -- [6]
-		461538, -- [7]
+		575846, -- [7]
 	}, -- [13]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -124,16 +124,16 @@ AstralKeys = {
 		10, -- [4]
 		0, -- [5]
 		140, -- [6]
-		462219, -- [7]
+		576928, -- [7]
 	}, -- [14]
 	{
 		"Oof-Kil'jaeden", -- [1]
 		"PALADIN", -- [2]
-		250, -- [3]
-		14, -- [4]
+		252, -- [3]
+		15, -- [4]
 		14, -- [5]
 		140, -- [6]
-		458626, -- [7]
+		575994, -- [7]
 	}, -- [15]
 	{
 		"Felfanatic-Kil'jaeden", -- [1]
@@ -151,7 +151,7 @@ AstralKeys = {
 		17, -- [4]
 		18, -- [5]
 		140, -- [6]
-		478674, -- [7]
+		575878, -- [7]
 	}, -- [17]
 	{
 		"Oxclamatiøn-Kil'jaeden", -- [1]
@@ -196,7 +196,7 @@ AstralKeys = {
 		16, -- [4]
 		18, -- [5]
 		140, -- [6]
-		478371, -- [7]
+		558913, -- [7]
 	}, -- [22]
 	{
 		"Voidrage-Kil'jaeden", -- [1]
@@ -207,19 +207,46 @@ AstralKeys = {
 		140, -- [6]
 		399594, -- [7]
 	}, -- [23]
+	{
+		"Meta-Kil'jaeden", -- [1]
+		"DEMONHUNTER", -- [2]
+		353, -- [3]
+		14, -- [4]
+		15, -- [5]
+		140, -- [6]
+		576554, -- [7]
+	}, -- [24]
+	{
+		"Mattea-Kil'jaeden", -- [1]
+		"HUNTER", -- [2]
+		251, -- [3]
+		14, -- [4]
+		16, -- [5]
+		140, -- [6]
+		559262, -- [7]
+	}, -- [25]
+	{
+		"Cadadk-Kil'jaeden", -- [1]
+		"DEATHKNIGHT", -- [2]
+		247, -- [3]
+		15, -- [4]
+		16, -- [5]
+		140, -- [6]
+		5, -- [7]
+	}, -- [26]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 16,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Tosh-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 }
 AstralFriends = {
@@ -230,7 +257,7 @@ AstralFriends = {
 		370, -- [4]
 		18, -- [5]
 		140, -- [6]
-		477301, -- [7]
+		568730, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [1]
@@ -252,9 +279,9 @@ AstralFriends = {
 		249, -- [4]
 		15, -- [5]
 		140, -- [6]
-		461538, -- [7]
+		556428, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		15, -- [9]
 	}, -- [3]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -263,7 +290,7 @@ AstralFriends = {
 		250, -- [4]
 		10, -- [5]
 		140, -- [6]
-		462219, -- [7]
+		487617, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [4]
@@ -274,7 +301,7 @@ AstralFriends = {
 		251, -- [4]
 		11, -- [5]
 		140, -- [6]
-		463289, -- [7]
+		487545, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [5]
@@ -285,7 +312,7 @@ AstralFriends = {
 		252, -- [4]
 		16, -- [5]
 		140, -- [6]
-		476526, -- [7]
+		555677, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [6]
@@ -311,6 +338,17 @@ AstralFriends = {
 		"1", -- [8]
 		16, -- [9]
 	}, -- [8]
+	{
+		"Mattea-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"HUNTER", -- [3]
+		251, -- [4]
+		14, -- [5]
+		140, -- [6]
+		558595, -- [7]
+		"1", -- [8]
+		16, -- [9]
+	}, -- [9]
 }
 AstralKeysSettings = {
 	["frame"] = {
@@ -326,7 +364,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -335,9 +375,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 	},
 	["new_settings_config"] = true,
 	["general"] = {
@@ -349,10 +387,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
 			["guild"] = true,
+			["raid"] = false,
 			["no_key"] = true,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,

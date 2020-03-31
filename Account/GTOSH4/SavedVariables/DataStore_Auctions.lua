@@ -20,8 +20,8 @@ DataStore_AuctionsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1585467099,
-				["lastVisitDate"] = "2020/03/29 03:31",
+				["lastUpdate"] = 1585637021,
+				["lastVisitDate"] = "2020/03/31 02:43",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1554949726,
