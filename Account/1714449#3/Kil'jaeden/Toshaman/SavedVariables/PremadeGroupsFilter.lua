@@ -169,7 +169,7 @@ PremadeGroupsFilterState = {
 		["tanks"] = {
 			["max"] = "",
 			["min"] = "2",
-			["act"] = false,
+			["act"] = true,
 		},
 		["ilvl"] = {
 			["max"] = "",

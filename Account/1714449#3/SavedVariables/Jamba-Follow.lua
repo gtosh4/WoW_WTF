@@ -8,9 +8,9 @@ JambaFollowProfileDB = {
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
 		},
-		["Default"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
+		},
+		["Default"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["autoFollowAfterCombat"] = true,
