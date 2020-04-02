@@ -30,13 +30,11 @@ AddOnSkinsDB = {
 			["Blizzard_PetStable"] = true,
 			["Blizzard_TrainerUI"] = true,
 			["Blizzard_AlliedRacesUI"] = true,
-			["Blizzard_Contribution"] = true,
 			["Blizzard_WarfrontsPartyPoseUI"] = true,
 			["Blizzard_Character"] = true,
 			["Dominos"] = false,
 			["Blizzard_GuildBankUI"] = true,
 			["Blizzard_GuildUI"] = true,
-			["Blizzard_GuildControlUI"] = true,
 			["Scrap"] = false,
 			["Blizzard_ChatBubbles"] = true,
 			["Azeroth Auto Pilot"] = false,
@@ -44,12 +42,14 @@ AddOnSkinsDB = {
 			["Blizzard_ObliterumUI"] = true,
 			["Blizzard_BattlefieldMap"] = true,
 			["Blizzard_LookingForGuildUI"] = true,
-			["Blizzard_AzeriteUI"] = true,
 			["Blizzard_AzeriteRespecUI"] = true,
+			["Blizzard_AzeriteUI"] = true,
+			["Blizzard_Contribution"] = true,
 			["Blizzard_GarrisonUI"] = true,
-			["Blizzard_TalentUI"] = true,
+			["Blizzard_GuildControlUI"] = true,
 			["Blizzard_AdventureMap"] = true,
 			["Clique"] = false,
+			["Blizzard_TalentUI"] = true,
 			["Blizzard_ItemUpgradeUI"] = true,
 			["Pawn"] = false,
 			["Blizzard_IslandsQueueUI"] = true,
@@ -58,6 +58,4 @@ AddOnSkinsDB = {
 	},
 }
 AddOnSkinsDS = {
-	[4.39] = {
-	},
 }

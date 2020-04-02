@@ -222,6 +222,26 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = false,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["doubleclickbo"] = true,
+			["skingmotd"] = true,
+			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
 			["gmotd"] = {
 				[""] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -282,14 +302,14 @@ BD_persistent = {
 				["HEROIC TODAY(WED) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
 				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
-				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
+				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
 				["heroic bod @ 7pm cst wed "] = true,
 				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
-				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
-				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
+				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
 				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["RIP Toshmonk"] = true,
 				["heroic bod 2nite @ 7pm cst :)(: Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -300,26 +320,6 @@ BD_persistent = {
 				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
-			["font"] = "Friz Quadrata TT",
-			["skingmotd"] = true,
-			["changefonts"] = false,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

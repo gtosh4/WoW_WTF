@@ -20,8 +20,20 @@ DataStore_MailsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1585717303,
-				["lastVisitDate"] = "2020/04/01 01:01",
+				["lastUpdate"] = 1585802155,
+				["Mails"] = {
+					{
+						["lastCheck"] = 1585802155,
+						["sender"] = "Thaumaturge Vashreen",
+						["subject"] = "Lost Currency",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "We discovered some lost currency from Ny'alotha, the Waking City in our ledgers, and it apparently belongs to you. 200 Corrupted Mementos have been added. If this caused you to go over your currency limit, we adjusted the amount to bring you to the limit and not go over!",
+						["icon"] = 134327,
+						["daysLeft"] = 29.89690971374512,
+					}, -- [1]
+				},
+				["lastVisitDate"] = "2020/04/02 00:35",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,

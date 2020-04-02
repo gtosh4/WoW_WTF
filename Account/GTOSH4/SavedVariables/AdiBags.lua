@@ -59,7 +59,7 @@ AdiBagsDB = {
 		},
 		["Mechagon Tinkering"] = {
 		},
-		["BfA"] = {
+		["WoD"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,
@@ -67,7 +67,7 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["WoD"] = {
+		["BfA"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,
@@ -91,14 +91,14 @@ AdiBagsDB = {
 						["Timeworn Artifact"] = false,
 						["Nethershard"] = false,
 						["Seal of Broken Fate"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Wakening Essence"] = false,
 						["Garrison Resources"] = false,
-						["Apexis Crystal"] = false,
+						["Wakening Essence"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Order Resources"] = false,
 						["Veiled Argunite"] = false,
 						["Curious Coin"] = false,
 						["Seal of Tempered Fate"] = false,
-						["Order Resources"] = false,
+						["Apexis Crystal"] = false,
 						["Champion's Seal"] = false,
 						["Timewarped Badge"] = false,
 					},
