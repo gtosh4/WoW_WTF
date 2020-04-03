@@ -1,20 +1,22 @@
 
 TomTomDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Toshtrial - Blood Furnace"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
-		["Sumex - Frostwolf"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Tosh - Frostwolf"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshpriest - Illidan"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosh - Frostwolf"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Sumex - Frostwolf"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
@@ -37,44 +39,34 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Toshpal - Kil'jaeden"] = {
-		},
-		["Toshtrial - Blood Furnace"] = {
-		},
 		["Toshdk - Kil'jaeden"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Sumex - Frostwolf"] = {
-		},
-		["Koutetsu - Frostwolf"] = {
-		},
 		["Tosku - Kil'jaeden"] = {
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Toshpriest - Area 52"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
-		},
-		["Tosh - Frostwolf"] = {
-		},
-		["Tosh - Kil'jaeden"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			[629] = {
@@ -86,9 +78,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -104,7 +96,23 @@ TomTomWaypointsM = {
 		},
 		["Zallie - Frostwolf"] = {
 		},
+		["Toshpal - Kil'jaeden"] = {
+		},
+		["Toshpriest - Illidan"] = {
+		},
+		["Toshtrial - Blood Furnace"] = {
+		},
 		["Toshaman - Kil'jaeden"] = {
+		},
+		["Tosh - Frostwolf"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
+		},
+		["Sumex - Frostwolf"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

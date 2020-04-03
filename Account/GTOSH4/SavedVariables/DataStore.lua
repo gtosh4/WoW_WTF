@@ -1,20 +1,22 @@
 
 DataStoreDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -28,36 +30,42 @@ DataStoreDB = {
 		},
 		["Version"] = 1,
 		["Characters"] = {
-			["Default.Kil'jaeden.Toshdk"] = {
+			["Default.Illidan.Toshpriest"] = {
 				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Toshdk"] = {
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Frostwolf.Sumex"] = {
+			["Default.Area 52.Toshpriest"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostwolf.Tosh"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Koopa Troopa",
+				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Daggny"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Frostwolf.Tosh"] = {
+			["Default.Frostwolf.Sumex"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Zallie"] = {
@@ -66,8 +74,10 @@ DataStoreDB = {
 		},
 		["ShortToLongRealmNames"] = {
 			["Frostwolf"] = "Frostwolf",
-			["Kil'jaeden"] = "Kil'jaeden",
+			["Illidan"] = "Illidan",
 			["BloodFurnace"] = "Blood Furnace",
+			["Kil'jaeden"] = "Kil'jaeden",
+			["Area52"] = "Area 52",
 			["TheForgottenCoast"] = "The Forgotten Coast",
 		},
 	},

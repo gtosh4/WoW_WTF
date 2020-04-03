@@ -3,8 +3,10 @@ JambaDisplayTeamProfileDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
@@ -20,10 +22,16 @@ JambaDisplayTeamProfileDB = {
 			["teamListTitleHeight"] = 0,
 			["showTeamList"] = false,
 		},
+		["Toshpriest - Illidan"] = {
+			["teamListTitleHeight"] = 0,
+		},
 		["Daggny - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Tosku - Kil'jaeden"] = {
+			["teamListTitleHeight"] = 0,
+		},
+		["Toshpriest - Area 52"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Yorman - Kil'jaeden"] = {

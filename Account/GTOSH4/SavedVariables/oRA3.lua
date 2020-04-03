@@ -38,7 +38,9 @@ oRA3DB = {
 	},
 	["profileKeys"] = {
 		["Toshtrial - Blood Furnace"] = "Default",
+		["Toshpriest - Illidan"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Tosh - Frostwolf"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
