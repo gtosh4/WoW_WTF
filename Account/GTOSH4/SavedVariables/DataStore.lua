@@ -11,12 +11,12 @@ DataStoreDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -34,38 +34,38 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Frostwolf.Tosh"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["guildName"] = "Koopa Troopa",
+			["Default.Frostwolf.Sumex"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Daggny"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Frostwolf.Sumex"] = {
+			["Default.Kil'jaeden.Tosku"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Koopa Troopa",
+			},
+			["Default.Frostwolf.Tosh"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Area 52.Toshpriest"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Zallie"] = {
