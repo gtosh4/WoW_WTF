@@ -1,138 +1,380 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/o yea", -- [1]
-		"/m", -- [2]
-		"/o nascent is on ED", -- [3]
-		"who tf breaks", -- [4]
-		"/g ox got a gushing wound", -- [5]
-		"kk", -- [6]
-		"/o well yeah, but we don't have any ranged to swap for", -- [7]
-		"T_T why's this group taking forever", -- [8]
-		"more like somebody else you mean", -- [9]
-		"yeah", -- [10]
-		"/raid yea", -- [11]
-		"/wa", -- [12]
-		"when we get to boss", -- [13]
-		"/cw Scitama-Kil'jaeden yae", -- [14]
-		"/cw Scitama inv", -- [15]
-		"in a pug", -- [16]
-		"/o at least", -- [17]
-		"/raid sure", -- [18]
-		"/s /c", -- [19]
-		"/ec", -- [20]
+		"/o nascent is on ED", -- [1]
+		"who tf breaks", -- [2]
+		"/g ox got a gushing wound", -- [3]
+		"kk", -- [4]
+		"/o well yeah, but we don't have any ranged to swap for", -- [5]
+		"T_T why's this group taking forever", -- [6]
+		"more like somebody else you mean", -- [7]
+		"yeah", -- [8]
+		"/raid yea", -- [9]
+		"/wa", -- [10]
+		"when we get to boss", -- [11]
+		"/cw Scitama-Kil'jaeden yae", -- [12]
+		"/cw Scitama inv", -- [13]
+		"in a pug", -- [14]
+		"/o at least", -- [15]
+		"/raid sure", -- [16]
+		"/s /c", -- [17]
+		"/ec", -- [18]
+		"/grid2", -- [19]
+		"/dn", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"ill try to imprison the right add", -- [1]
+			"Crowed-Mal'Ganis", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Crowed-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			285, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			250, -- [11]
+			"Player-3684-08D2EF0B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786210,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Crowed-Mal'Ganis|r",
+			[51] = 1586035243,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			" Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			288, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			253, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786212,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035252,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [2]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"point", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			255, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035261,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [3]
+		{
+			"to the exit", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			256, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035263,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [4]
+		{
+			"i am*", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			258, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035264,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [5]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Ashvane Deckhand!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			260, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035267,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [6]
+		{
+			"Artillery on Sploshey ", -- [1]
+			"Sploshey-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Sploshey-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			263, -- [11]
+			"Player-9-0B2A285D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSploshey|r",
+			[51] = 1586035281,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [7]
+		{
+			"Artillery on Sploshey ", -- [1]
+			"Sploshey-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sploshey-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-9-0B2A285D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSploshey|r",
+			[51] = 1586035293,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [8]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Ashvane Deckhand has ended!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			267, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035327,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [9]
+		{
+			" Taunted Ashvane Cannoneer! Taunted Ashvane Cannoneer! Taunted Ashvane Cannoneer!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			273, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035333,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [10]
+		{
+			"Artillery on Sploshey ", -- [1]
+			"Sploshey-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sploshey-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			274, -- [11]
+			"Player-9-0B2A285D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSploshey|r",
+			[51] = 1586035343,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [11]
+		{
+			" Taunted Irontide Marauder! Taunted Irontide Marauder! Taunted Irontide Marauder!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			282, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035398,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [12]
+		{
+			"prob should just wipe", -- [1]
+			"Crowed-Mal'Ganis", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Crowed-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			286, -- [11]
+			"Player-3684-08D2EF0B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Crowed-Mal'Ganis|r",
+			[51] = 1586035419,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [13]
+		{
+			"too big brain", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			291, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786213,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035473,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [14]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"its okay", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			299, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			292, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786216,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035474,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [15]
 		{
-			"I'm smol don't step on me =)", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			" Taunted Irontide Marauder! Taunted Irontide Marauder! Taunted Irontide Marauder!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			300, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			293, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786216,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035496,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [16]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -144,7 +386,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			301, -- [11]
+			296, -- [11]
 			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -152,297 +394,737 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786216,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
+			[51] = 1586035504,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [17]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			" Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			305, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			302, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786217,
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035531,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [18]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			" Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			303, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035531,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [19]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Ashvane Deckhand!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			307, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035547,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [20]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Ashvane Deckhand!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			308, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035547,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [21]
+		{
+			" Taunted Ashvane Cannoneer! Taunted Ashvane Cannoneer! Taunted Ashvane Cannoneer!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			309, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035549,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [22]
+		{
+			" Taunted Ashvane Cannoneer! Taunted Ashvane Cannoneer! Taunted Ashvane Cannoneer!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			310, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035549,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [23]
+		{
+			" Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			312, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786219,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035568,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [24]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			" Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood! Taunted Dread Captain Lockwood!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			318, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			313, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786220,
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035568,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [25]
 		{
-			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Evangelos for 529760!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
+			" Taunted Ashvane Deckhand! Taunted Ashvane Deckhand! Taunted Ashvane Deckhand!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			316, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035614,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [26]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Ashvane Deckhand has ended!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			320, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035634,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [27]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Ashvane Deckhand has ended!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			321, -- [11]
-			"Player-9-0BB1F26D", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585786221,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035634,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [28]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			" Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			325, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			330, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786222,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035651,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [29]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			331, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			333, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786223,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035665,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [30]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			338, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			334, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786225,
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035665,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [31]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			" Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			339, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035686,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [32]
+		{
+			" Taunted Bilge Rat Tempest! Taunted Bilge Rat Tempest! Taunted Bilge Rat Tempest!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			346, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035702,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [33]
+		{
+			" Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			349, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035711,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [34]
+		{
+			" Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer! Taunted Bilge Rat Buccaneer!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			350, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035711,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [35]
+		{
+			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			351, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035717,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [36]
+		{
+			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			352, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786226,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035717,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [37]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035719,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [38]
+		{
+			" Taunted Bilge Rat Pillager! Taunted Bilge Rat Pillager! Taunted Bilge Rat Pillager!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			354, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035722,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [39]
+		{
+			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			356, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786228,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035734,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [40]
 		{
-			"Miscalculated Teleport on Proudrunner", -- [1]
-			"Proudrunner-Kil'jaeden", -- [2]
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Proudrunner-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			358, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035740,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [41]
+		{
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			359, -- [11]
-			"Player-9-0BB60E7C", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cProudrunner|r",
-			[51] = 1585786229,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035740,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [42]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			362, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035750,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [43]
+		{
+			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			363, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035750,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [44]
+		{
+			" Taunted Bilge Rat Demolisher! Taunted Bilge Rat Demolisher! Taunted Bilge Rat Demolisher!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			365, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786229,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035768,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [45]
 		{
-			"Shrunk", -- [1]
-			"Evangelos-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			" Taunted Bilge Rat Tempest! Taunted Bilge Rat Tempest! Taunted Bilge Rat Tempest!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Evangelos-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			367, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035786,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [46]
+		{
+			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			371, -- [11]
-			"Player-9-0ACB4291", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Evangelos|r",
-			[51] = 1585786231,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035788,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [47]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			372, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035788,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [48]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Bilge Rat Tempest!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			374, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786231,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035794,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [49]
 		{
-			"Shrunk", -- [1]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Bilge Rat Tempest has ended!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			376, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035794,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [50]
+		{
+			"Toshaman interrupted |cff71d5ff|Hspell:272581:0|h[Water Spray]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -452,7 +1134,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			381, -- [11]
+			377, -- [11]
 			"Player-9-0B9F1ECA", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -460,33 +1142,187 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786232,
+			[51] = 1586035805,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [51]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			387, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			378, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786234,
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [52]
 		{
-			"Shrunk", -- [1]
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			379, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035808,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [53]
+		{
+			" Taunted Bilge Rat Demolisher! Taunted Bilge Rat Demolisher! Taunted Bilge Rat Demolisher!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			382, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035835,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [54]
+		{
+			" Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			384, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035849,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [55]
+		{
+			" Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			385, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035858,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [56]
+		{
+			" Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes! Taunted Urg'roth, Breaker of Heroes!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			386, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035872,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [57]
+		{
+			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			388, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035885,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [58]
+		{
+			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			390, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035886,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [59]
+		{
+			"Sighted Artillery on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -504,33 +1340,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786235,
+			[51] = 1586035916,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [60]
 		{
-			"Shrunk", -- [1]
+			"Sighted Artillery on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
 			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			394, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1586035929,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			395, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035936,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [62]
+		{
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			396, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035936,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [63]
+		{
+			" Taunted Ashvane Spotter! Taunted Ashvane Spotter! Taunted Ashvane Spotter!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			398, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035938,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			" Taunted Ashvane Spotter! Taunted Ashvane Spotter! Taunted Ashvane Spotter!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			399, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786237,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035938,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [65]
 		{
-			"Shrunk", -- [1]
+			"Sighted Artillery on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -540,7 +1464,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			405, -- [11]
+			402, -- [11]
 			"Player-9-0B9F1ECA", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -548,101 +1472,277 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786238,
+			[51] = 1586035941,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [66]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			410, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			407, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786240,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035963,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [67]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Ashvane Invader!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			416, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			411, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786241,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035970,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [68]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Ashvane Invader has ended!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			424, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			413, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786243,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035970,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [69]
 		{
-			"Shrunk", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			414, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035976,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [70]
+		{
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			417, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586035984,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [71]
+		{
+			" Taunted Ashvane Spotter! Taunted Ashvane Spotter! Taunted Ashvane Spotter!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			420, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036001,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [72]
+		{
+			" Taunted Ashvane Spotter! Taunted Ashvane Spotter! Taunted Ashvane Spotter!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			421, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036001,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [73]
+		{
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			422, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036006,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [74]
+		{
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			423, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036006,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [75]
+		{
+			"Sighted Artillery on Sploshey", -- [1]
+			"Sploshey-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sploshey-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			425, -- [11]
+			"Player-9-0B2A285D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSploshey|r",
+			[51] = 1586036010,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [76]
+		{
+			"Artillery on Sploshey ", -- [1]
+			"Sploshey-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sploshey-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			426, -- [11]
+			"Player-9-0B2A285D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSploshey|r",
+			[51] = 1586036010,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			" Taunted Hadal Darkfathom! Taunted Hadal Darkfathom! Taunted Hadal Darkfathom!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			431, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786244,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036032,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [78]
 		{
-			" Taunted High Tinker Mekkatorque! Taunted High Tinker Mekkatorque! Taunted High Tinker Mekkatorque!", -- [1]
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -658,9 +1758,97 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786246,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+			[51] = 1586036034,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [79]
+		{
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			433, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036034,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [80]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Ashvane Sniper!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			436, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036042,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [81]
+		{
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			439, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036044,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			440, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036044,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [83]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -672,7 +1860,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			435, -- [11]
+			441, -- [11]
 			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -680,9 +1868,53 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786251,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+			[51] = 1586036046,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [84]
+		{
+			"Removed Peace's |cff71d5ff|Hspell:275836:0|h[Stinging Venom]|h|r!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			442, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036052,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [85]
+		{
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Ashvane Sniper has ended!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			443, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036056,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [86]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -694,7 +1926,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			446, -- [11]
+			444, -- [11]
 			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -702,11 +1934,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786267,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
+			[51] = 1586036060,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [87]
 		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -724,13 +1956,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786276,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+			[51] = 1586036146,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [88]
 		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
+			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -746,33 +1978,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786276,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
+			[51] = 1586036146,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [89]
 		{
-			"Miscalculated Teleport on Andruww", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
+			" Taunted Hadal Darkfathom! Taunted Hadal Darkfathom! Taunted Hadal Darkfathom!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			455, -- [11]
-			"Player-9-0B1541E0", -- [12]
+			453, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1585786282,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036181,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [90]
 		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
+			" Taunted Hadal Darkfathom! Taunted Hadal Darkfathom! Taunted Hadal Darkfathom!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			457, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036205,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [91]
+		{
+			" Taunted Hadal Darkfathom! Taunted Hadal Darkfathom! Taunted Hadal Darkfathom!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -790,219 +2044,197 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786286,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+			[51] = 1586036205,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [92]
 		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
+			" Taunted Hadal Darkfathom! Taunted Hadal Darkfathom! Taunted Hadal Darkfathom!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			459, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786286,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13312:Player-9-0BB2D171:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mekkatorque]|h|r!", -- [1]
-			"Turkeyone-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Turkeyone-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			462, -- [11]
-			"Player-9-0BB2D171", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Turkeyone|r",
-			[51] = 1585786288,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [37]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036250,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [93]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13312:Player-9-0BB1F26D:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mekkatorque]|h|r!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Thing From Beyond!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			463, -- [11]
-			"Player-9-0BB1F26D", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585786288,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [38]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036251,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [94]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13312:Player-9-0AF4267B:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mekkatorque]|h|r!", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
+			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Thing From Beyond has ended!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			464, -- [11]
-			"Player-9-0AF4267B", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1585786288,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [39]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036255,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [95]
 		{
-			"no im lagging i arleady told u that", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
+			" Taunted Hadal Darkfathom! Taunted Hadal Darkfathom! Taunted Hadal Darkfathom!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			470, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			467, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786291,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036260,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [96]
 		{
-			"have like 500 ms", -- [1]
-			"Sci-Kil'jaeden", -- [2]
+			" Taunted Hadal Darkfathom! Taunted Hadal Darkfathom! Taunted Hadal Darkfathom!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			471, -- [11]
-			"Player-9-0B673F4F", -- [12]
+			468, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786297,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036260,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [97]
 		{
-			"Casting |cff71d5ff|Hspell:212056:0|h[Absolution]|h|r!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
+			"dont touch gripping", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			472, -- [11]
-			"Player-9-0BB1F26D", -- [12]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585786300,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036279,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [98]
 		{
-			"WOAH CADA ON TOP OF METER", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
+			"second platform", -- [1]
+			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			474, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036282,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [99]
+		{
+			" Taunted Demolishing Terror! Taunted Demolishing Terror! Taunted Demolishing Terror!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			476, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036295,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [100]
+		{
+			" Taunted Demolishing Terror! Taunted Demolishing Terror! Taunted Demolishing Terror!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			483, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1585786344,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
-		{
-			"NEVER SEEN THAT BEFORE", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			485, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1585786349,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
-		{
-			"woahhh", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			487, -- [11]
 			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1010,35 +2242,101 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786351,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+			[51] = 1586036317,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [101]
 		{
-			" Taunted Breakwater Elemental! Taunted Breakwater Elemental! Taunted Breakwater Elemental!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			496, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786384,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
+			"Putrid Waters on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			488, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1586036343,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [102]
+		{
+			" Taunted Demolishing Terror! Taunted Demolishing Terror! Taunted Demolishing Terror!", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			489, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036347,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [103]
+		{
+			"Putrid Waters on Sploshey", -- [1]
+			"Sploshey-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sploshey-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			492, -- [11]
+			"Player-9-0B2A285D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSploshey|r",
+			[51] = 1586036364,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [104]
+		{
+			"lust and all on gripping", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			497, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036389,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [105]
+		{
+			"next platform", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"", -- [3]
 			"", -- [4]
 			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -1054,11 +2352,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786387,
+			[51] = 1586036391,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [106]
+		{
+			"Putrid Waters on Toshaman", -- [1]
+			"Toshaman-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshaman-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			501, -- [11]
+			"Player-9-0B9F1ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcToshaman|r",
+			[51] = 1586036407,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [107]
 		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
+			" Taunted Viq'Goth! Taunted Viq'Goth! Taunted Viq'Goth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1068,7 +2388,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			499, -- [11]
+			502, -- [11]
 			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1076,35 +2396,35 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786387,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			505, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786395,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+			[51] = 1586036413,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [108]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
+			"", -- [4]
+			"Peace-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			503, -- [11]
+			"Player-9-09B16B50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036422,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [109]
+		{
+			"Putrid Waters on Peace", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -1120,187 +2440,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786436,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+			[51] = 1586036449,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [110]
 		{
-			" Taunted Kul Tiran Stormbringer! Taunted Kul Tiran Stormbringer! Taunted Kul Tiran Stormbringer!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Putrid Waters on Crowed", -- [1]
+			"Crowed-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
+			"Crowed-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			510, -- [11]
-			"Player-9-09B16B50", -- [12]
+			"Player-3684-08D2EF0B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786439,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
-		{
-			".", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1585786440,
+			[52] = "|cffa22fc8Crowed-Mal'Ganis|r",
+			[51] = 1586036450,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [111]
 		{
-			"13 left", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			514, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1585786476,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [53]
-		{
-			"24 right", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			515, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1585786477,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [54]
-		{
-			".", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			518, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1585786511,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"the hand that you use while you eat", -- [1]
-			"Delpix-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delpix-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			519, -- [11]
-			"Player-11-0BBB25A8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Delpix-Tichondrius|r",
-			[51] = 1585786546,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
-		{
-			"is right hand", -- [1]
-			"Delpix-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Delpix-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			520, -- [11]
-			"Player-11-0BBB25A8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Delpix-Tichondrius|r",
-			[51] = 1585786548,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
-		{
-			"im left handed", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			521, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1585786551,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
-		{
-			" Taunted Sister Katherine! Taunted Sister Katherine! Taunted Sister Katherine!", -- [1]
+			" Taunted Demolishing Terror! Taunted Demolishing Terror! Taunted Demolishing Terror!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1310,7 +2476,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			525, -- [11]
+			513, -- [11]
 			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1318,189 +2484,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786557,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+			[51] = 1586036459,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [112]
 		{
-			"3", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			552, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1585786625,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"1", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			553, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1585786627,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13313:Player-9-0BB2D171:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Stormwall Blockade]|h|r!", -- [1]
-			"Turkeyone-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Turkeyone-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			555, -- [11]
-			"Player-9-0BB2D171", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Turkeyone|r",
-			[51] = 1585786648,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [62]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13313:Player-9-0BB1F26D:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Stormwall Blockade]|h|r!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			556, -- [11]
-			"Player-9-0BB1F26D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585786648,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [63]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13313:Player-9-0AF4267B:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Stormwall Blockade]|h|r!", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			557, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1585786648,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [64]
-		{
-			"Casting |cff71d5ff|Hspell:212056:0|h[Absolution]|h|r!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			566, -- [11]
-			"Player-9-0BB1F26D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585786657,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
-		{
-			"ty", -- [1]
-			"Farmertran-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Farmertran-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			572, -- [11]
-			"Player-9-0AF14548", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Farmertran|r",
-			[51] = 1585786664,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
-		{
-			"infinite stars is definitely not the play", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			576, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786672,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
-		{
-			"lol", -- [1]
+			"Putrid Waters on Proudrunner", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Proudrunner-Kil'jaeden", -- [5]
 			"", -- [6]
@@ -1508,7 +2498,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			577, -- [11]
+			516, -- [11]
 			"Player-9-0BB60E7C", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1516,87 +2506,307 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc59a6cProudrunner|r",
-			[51] = 1585786680,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+			[51] = 1586036472,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [113]
 		{
-			"i'm still a little deaf from blockade ", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
+			"Putrid Waters on Peace", -- [1]
+			"Peace-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
+			"Peace-Kil'jaeden", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			585, -- [11]
-			"Player-9-0B0D1C71", -- [12]
+			517, -- [11]
+			"Player-9-09B16B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1585786730,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+			[52] = "|cff00fe95Peace|r",
+			[51] = 1586036472,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [114]
 		{
-			"12 left", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			590, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
+			541, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1585786763,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [70]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586037032,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
 		{
-			"34 right", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			591, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
+			543, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1585786764,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [71]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586037116,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
 		{
-			"thesmost pepega is definitely intermission", -- [1]
+			"Top 75US raiders selling Heroic Nyalotha. Only 1 Personal loot spot remaining. Run tonight at 8:15pm EST. GOLD ONLY! Pst for more details.", -- [1]
+			"Shamsquatch-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shamsquatch-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			545, -- [11]
+			"Player-9-07D04571", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcShamsquatch|r",
+			[51] = 1586037154,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			594, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586037513,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			634, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586037673,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"WTS |cff0070dd|Hitem:128319::::::::1:70::31::::|h[Void-Shrouded Satchel]|h|r contains |cff00ccff|Hitem:128318::::::::1:70::::::|h[Touch of the Void]|h|r to add to your heirloom collection! 5k PST", -- [1]
+			"Ukongold-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ukongold-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			635, -- [11]
+			"Player-9-0A8A4830", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Ukongold|r",
+			[51] = 1586037775,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			636, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586037815,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			639, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586038259,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586038406,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			647, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586038547,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			658, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586038705,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WEEKEND SALE WTS M+10-20 Nyalotha full clear with optional funnels aotc only runs available as well and many more services GOLD ONLY pm me !", -- [1]
+			"Linkslight-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Linkslight-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			661, -- [11]
+			"Player-9-0BBC3BF3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLinkslight|r",
+			[51] = 1586038872,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"i got 26 on that test btw ", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			593, -- [11]
+			48, -- [11]
 			"Player-9-0BB5330A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1604,1218 +2814,8 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1585786770,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
-		{
-			"ive never done the right side", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			594, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786771,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			600, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585786808,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
-		{
-			"i told u", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			610, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786823,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
-		{
-			"im literally lagging", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			611, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786825,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:6105:Player-9-0B4833C7:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Deck Defender]|h|r!", -- [1]
-			"Daiyzee-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daiyzee-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			616, -- [11]
-			"Player-9-0B4833C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Daiyzee|r",
-			[51] = 1585786858,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
-		{
-			"nammer why did u bubble so early", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			628, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786862,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
-		{
-			"now u cant soak them", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			630, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585786866,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
-		{
-			".", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			645, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1585786886,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			656, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585786918,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
-		{
-			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			658, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1585786919,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
-		{
-			"YIKES", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			664, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1585786937,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderrz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			672, -- [11]
-			"Player-9-0B081794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1585786953,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
-		{
-			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Lyuneria!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			673, -- [11]
-			"Player-9-0BB1F26D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585786956,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
-		{
-			".", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			674, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1585786959,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			678, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787018,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			679, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787018,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
-		{
-			"Avalanche (1{rt1}) on Peace", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			682, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787033,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			695, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585787083,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
-		{
-			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			699, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1585787090,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
-		{
-			"lol", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			700, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1585787094,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
-		{
-			">:(", -- [1]
-			"Farmertran-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Farmertran-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			702, -- [11]
-			"Player-9-0AF14548", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Farmertran|r",
-			[51] = 1585787099,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			707, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787105,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			708, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787105,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
-		{
-			"2", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			710, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1585787105,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
-		{
-			"1", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			712, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1585787106,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			718, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787122,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			719, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787122,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			721, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787131,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			722, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787131,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
-		{
-			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Peace for 529760!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			749, -- [11]
-			"Player-9-0BB1F26D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585787172,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
-		{
-			" Taunted Jaina's Tide Elemental! Taunted Jaina's Tide Elemental! Taunted Jaina's Tide Elemental!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			750, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787175,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
-		{
-			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			754, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1585787182,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [104]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			762, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787189,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
-		{
-			" Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore! Taunted Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			763, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787189,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			788, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787207,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0BB2D171:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
-			"Turkeyone-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Turkeyone-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			806, -- [11]
-			"Player-9-0BB2D171", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Turkeyone|r",
-			[51] = 1585787213,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [108]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-9-0BB2D171:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
-			"Turkeyone-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Turkeyone-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			807, -- [11]
-			"Player-9-0BB2D171", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Turkeyone|r",
-			[51] = 1585787213,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [109]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0BB1F26D:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			808, -- [11]
-			"Player-9-0BB1F26D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585787213,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [110]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-9-0BB1F26D:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			809, -- [11]
-			"Player-9-0BB1F26D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585787213,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [111]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-9-0AF4267B:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
-			"Morepheous-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Morepheous-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			810, -- [11]
-			"Player-9-0AF4267B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morepheous|r",
-			[51] = 1585787213,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [112]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			820, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787213,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1180:Player-9-0BB1F26D:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r!", -- [1]
-			"Gochip-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gochip-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			828, -- [11]
-			"Player-9-0BB1F26D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Gochip|r",
-			[51] = 1585787226,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [114]
-		{
-			"thanks :D", -- [1]
-			"Farmertran-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Farmertran-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			834, -- [11]
-			"Player-9-0AF14548", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Farmertran|r",
-			[51] = 1585787235,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
-		{
-			"c:", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			835, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1585787239,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [116]
-		{
-			"|cffa335ee|Hitem:158118::::::::120:577::28:5:4803:6516:6515:1622:4786:::|h[Razorbone Claws]|h|r|cff0070dd|Hitem:158132::::::::120:577::27:5:4803:6516:6513:1612:4785:::|h[Zem'lan Slicer]|h|r", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1585802449,
+			[51] = 1586058571,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
-		{
-			"/c", -- [1]
-			"Toshaman-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16, -- [11]
-			"Player-9-0B9F1ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1585802524,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:159:Player-9-0A6C325A:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Let's Get This Done]|h|r!", -- [1]
-			"Voidthirst-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Voidthirst-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			23, -- [11]
-			"Player-9-0A6C325A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Voidthirst|r",
-			[51] = 1585802607,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [119]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14066:Player-9-0B98C3F3:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Stormwind]|h|r!", -- [1]
-			"Lazy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lazy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			47, -- [11]
-			"Player-9-0B98C3F3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Lazy|r",
-			[51] = 1585803053,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [120]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14140:Player-9-0B98C3F3:1:4:1:20:4294967295:4294967295:4294967295:4294967295|h[Mad World]|h|r!", -- [1]
-			"Lazy-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lazy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-9-0B98C3F3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Lazy|r",
-			[51] = 1585803053,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [121]
-		{
-			"should I disc for SL?", -- [1]
-			"|Kq21|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			49, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Envious|r",
-			[51] = 1585803059,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [122]
-		{
-			"WTS |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6541:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6565:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cffffffff|Hitem:40110::::::::120:253::::::|h[Haunted Memento]|h|r150k Below AH Listings! Prices Negotiable! PST!", -- [1]
-			"Alüe-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Alüe-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			110, -- [11]
-			"Player-9-087FFE5C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Alüe|r",
-			[51] = 1585803984,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
-		{
-			"WTS |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6541:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6565:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cff0070dd|Hbattlepet:168:8:3:542:78:104:0000000000000000:22903|h[Rocket Chicken]|h|r180k PST! Prices are Negotiable! Below AH Listings!!!!!", -- [1]
-			"Alüe-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Alüe-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			153, -- [11]
-			"Player-9-087FFE5C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Alüe|r",
-			[51] = 1585804504,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
-		{
-			"WTS |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6541:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6565:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cff0070dd|Hbattlepet:168:8:3:542:78:104:0000000000000000:22903|h[Rocket Chicken]|h|r180k PST! Prices are Negotiable! Below AH Listings!!!!!", -- [1]
-			"Alüe-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Alüe-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			156, -- [11]
-			"Player-9-087FFE5C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Alüe|r",
-			[51] = 1585804644,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
-		{
-			"WTS |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6541:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6565:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cff0070dd|Hbattlepet:168:8:3:542:78:104:0000000000000000:22903|h[Rocket Chicken]|h|r180k PST! Prices are Negotiable! Below AH Listings!!!!!", -- [1]
-			"Alüe-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Alüe-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			161, -- [11]
-			"Player-9-087FFE5C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Alüe|r",
-			[51] = 1585804732,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
-		{
-			"WTS |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6541:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cffa335ee|Hitem:175007::::::::120:253::6:7:4824:6578:6579:6565:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r240k |cff0070dd|Hbattlepet:168:8:3:542:78:104:0000000000000000:22903|h[Rocket Chicken]|h|r180k PST! Prices are Negotiable! Below AH Listings!!!!!", -- [1]
-			"Alüe-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Alüe-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			169, -- [11]
-			"Player-9-087FFE5C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Alüe|r",
-			[51] = 1585804858,
-			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

@@ -1,4 +1,11 @@
 Version: 1
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 1
+Y: -235
+W: 235
+H: 480
 Frame: ColorPickerFrame
 FrameLevel: 22
 Anchor: CENTER
@@ -104,6 +111,13 @@ X: -223
 Y: 27
 W: 701
 H: 859
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: TOP
+X: 500
+Y: -100
+W: 382
+H: 388
 Frame: scanner_button
 FrameLevel: 1
 Anchor: LEFT
@@ -116,8 +130,8 @@ FrameLevel: 1
 Anchor: TOP
 X: -511
 Y: -99
-W: 373
-H: 345
+W: 267
+H: 234
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: CENTER
@@ -125,10 +139,3 @@ X: 5
 Y: -354
 W: 510
 H: 22
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: 1
-Y: -235
-W: 235
-H: 480

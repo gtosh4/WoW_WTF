@@ -29,7 +29,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 3265,
+						["count"] = 3313,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -104,7 +104,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1585804255,
+				["lastUpdate"] = 1586058602,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -112,9 +112,9 @@ DataStore_CurrenciesDB = {
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
 					[1580] = "4-0-0-5",
-					[823] = "0-0-0-0",
-					[1560] = "15683-0-0-0",
 					[1342] = "0-0-0-0",
+					[1560] = "15683-0-0-0",
+					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1710] = "355-0-0-0",
 					[994] = "0-0-0-0",
@@ -172,11 +172,11 @@ DataStore_CurrenciesDB = {
 				["Seal of Tempered Fate"] = 23,
 				["War Resources"] = 6,
 				["Garrison Resources"] = 22,
-				["Coalescing Visions"] = 28,
-				["Apexis Crystal"] = 21,
-				["Echoes of Ny'alotha"] = 30,
 				["Prismatic Manapearl"] = 27,
+				["Apexis Crystal"] = 21,
 				["Timeworn Artifact"] = 17,
+				["Coalescing Visions"] = 28,
+				["Echoes of Ny'alotha"] = 30,
 				["Wakening Essence"] = 19,
 				["Warlords of Draenor"] = 20,
 				["Battle for Azeroth"] = 1,

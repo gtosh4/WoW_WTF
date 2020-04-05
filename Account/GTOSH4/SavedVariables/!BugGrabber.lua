@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2242,
 	["lastSanitation"] = 3,
+	["session"] = 2245,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",

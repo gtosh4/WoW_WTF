@@ -5,9 +5,9 @@ AstralKeys = {
 		"SHAMAN", -- [2]
 		248, -- [3]
 		15, -- [4]
-		0, -- [5]
+		16, -- [5]
 		141, -- [6]
-		137439, -- [7]
+		391931, -- [7]
 	}, -- [1]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		18, -- [4]
 		0, -- [5]
 		141, -- [6]
-		137519, -- [7]
+		391909, -- [7]
 	}, -- [2]
 	{
 		"Oxclamatiøn-Kil'jaeden", -- [1]
@@ -79,7 +79,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		141, -- [6]
-		12125, -- [7]
+		391923, -- [7]
 	}, -- [9]
 	{
 		"Andruww-Kil'jaeden", -- [1]
@@ -104,9 +104,9 @@ AstralKeys = {
 		"MONK", -- [2]
 		370, -- [3]
 		17, -- [4]
-		0, -- [5]
+		16, -- [5]
 		141, -- [6]
-		137861, -- [7]
+		391903, -- [7]
 	}, -- [12]
 	{
 		"Kosaki-Kil'jaeden", -- [1]
@@ -133,7 +133,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		141, -- [6]
-		120448, -- [7]
+		372242, -- [7]
 	}, -- [15]
 	{
 		"Voidthirst-Kil'jaeden", -- [1]
@@ -187,16 +187,16 @@ AstralKeys = {
 		11, -- [4]
 		0, -- [5]
 		141, -- [6]
-		2, -- [7]
+		3, -- [7]
 	}, -- [21]
 	{
 		"Arnbjørn-Kil'jaeden", -- [1]
 		"MAGE", -- [2]
 		248, -- [3]
 		17, -- [4]
-		0, -- [5]
+		16, -- [5]
 		141, -- [6]
-		120425, -- [7]
+		391904, -- [7]
 	}, -- [22]
 	{
 		"Mattea-Kil'jaeden", -- [1]
@@ -210,7 +210,7 @@ AstralKeys = {
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 16,
 		["class"] = "SHAMAN",
 		["faction"] = 1,
 		["unit"] = "Toshaman-Kil'jaeden",
@@ -227,10 +227,10 @@ AstralFriends = {
 		"Orcbum-Kil'jaeden", -- [1]
 		"bum#1748", -- [2]
 		"WARRIOR", -- [3]
-		353, -- [4]
-		17, -- [5]
+		250, -- [4]
+		15, -- [5]
 		141, -- [6]
-		124612, -- [7]
+		390829, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [1]
@@ -252,7 +252,7 @@ AstralFriends = {
 		370, -- [4]
 		19, -- [5]
 		141, -- [6]
-		117699, -- [7]
+		383189, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [3]
@@ -260,12 +260,12 @@ AstralFriends = {
 		"Khelikloth-Kil'jaeden", -- [1]
 		"mindkore#1617", -- [2]
 		"ROGUE", -- [3]
-		250, -- [4]
-		15, -- [5]
+		252, -- [4]
+		16, -- [5]
 		141, -- [6]
-		129802, -- [7]
+		382690, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [4]
 	{
 		"Mattea-Kil'jaeden", -- [1]
@@ -357,6 +357,39 @@ AstralFriends = {
 	}, -- [12]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1586271600,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["party"] = true,
+			["raid"] = false,
+			["guild"] = true,
+			["no_key"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -380,39 +413,6 @@ AstralKeysSettings = {
 		},
 		["sorth_method"] = "character_name",
 		["show_offline"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1586271600,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = true,
-			["guild"] = true,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
 			["isEnabled"] = true,
 		},
 	},

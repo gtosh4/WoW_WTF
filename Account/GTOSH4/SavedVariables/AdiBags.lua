@@ -19,16 +19,16 @@ AdiBagsDB = {
 						[137059] = "Equipment#LegionLeg",
 						[132444] = "Equipment#LegionLeg",
 						[132452] = "Equipment#LegionLeg",
-						[168624] = "Miscellaneous#Miscellaneous",
+						[151644] = "Equipment#LegionLeg",
 						[137048] = "Equipment#LegionLeg",
 						[144275] = "Equipment#LegionLeg",
 						[151812] = "Equipment#LegionLeg",
 						[151813] = "Equipment#LegionLeg",
 						[152626] = "Equipment#LegionLeg",
-						[137017] = "Equipment#LegionLeg",
 						[140846] = "Equipment#LegionLeg",
+						[137017] = "Equipment#LegionLeg",
 						[137076] = "Equipment#LegionLeg",
-						[151644] = "Equipment#LegionLeg",
+						[168624] = "Miscellaneous#Miscellaneous",
 					},
 				},
 			},
@@ -59,13 +59,7 @@ AdiBagsDB = {
 		},
 		["Mechagon Tinkering"] = {
 		},
-		["WoD"] = {
-			["profiles"] = {
-				["Default"] = {
-					["RaidEquipment"] = false,
-					["DungeonEquipment"] = false,
-				},
-			},
+		["DataSource"] = {
 		},
 		["BfA"] = {
 			["profiles"] = {
@@ -87,20 +81,20 @@ AdiBagsDB = {
 					["shown"] = {
 						["Ancient Mana"] = false,
 						["Brawler's Gold"] = false,
-						["Legionfall War Supplies"] = false,
-						["Timeworn Artifact"] = false,
-						["Nethershard"] = false,
+						["Timewarped Badge"] = false,
 						["Seal of Broken Fate"] = false,
-						["Garrison Resources"] = false,
+						["Nethershard"] = false,
+						["Timeworn Artifact"] = false,
+						["Order Resources"] = false,
 						["Wakening Essence"] = false,
 						["Dalaran Jewelcrafter's Token"] = false,
-						["Order Resources"] = false,
-						["Veiled Argunite"] = false,
-						["Curious Coin"] = false,
-						["Seal of Tempered Fate"] = false,
 						["Apexis Crystal"] = false,
+						["Veiled Argunite"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Curious Coin"] = false,
+						["Garrison Resources"] = false,
 						["Champion's Seal"] = false,
-						["Timewarped Badge"] = false,
+						["Legionfall War Supplies"] = false,
 					},
 				},
 			},
@@ -143,13 +137,19 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["ItemLevel"] = {
-		},
 		["AdiBags_TooltipInfo"] = {
+		},
+		["ItemLevel"] = {
 		},
 		["Bound"] = {
 		},
-		["DataSource"] = {
+		["WoD"] = {
+			["profiles"] = {
+				["Default"] = {
+					["RaidEquipment"] = false,
+					["DungeonEquipment"] = false,
+				},
+			},
 		},
 		["Hearthstones"] = {
 		},
@@ -165,20 +165,17 @@ AdiBagsDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshtrial - Blood Furnace"] = "Default",
-		["Sumex - Frostwolf"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
+		["Sumex - Frostwolf"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["columnWidth"] = {
-				["Bank"] = 10,
-				["Backpack"] = 10,
-			},
+			["scale"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = -161.006103515625,
@@ -188,7 +185,10 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Backpack"] = 10,
+				["Bank"] = 10,
+			},
 			["rightClickConfig"] = false,
 			["autoDeposit"] = true,
 		},
