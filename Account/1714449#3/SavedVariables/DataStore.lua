@@ -6,6 +6,7 @@ DataStoreDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Guilds"] = {
@@ -22,6 +23,9 @@ DataStoreDB = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
 			},
+			["Default.Area 52.Toshpal"] = {
+				["faction"] = "Horde",
+			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
@@ -32,6 +36,7 @@ DataStoreDB = {
 			},
 		},
 		["ShortToLongRealmNames"] = {
+			["Area52"] = "Area 52",
 			["Kil'jaeden"] = "Kil'jaeden",
 		},
 	},

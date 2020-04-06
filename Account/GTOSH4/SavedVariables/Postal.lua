@@ -1,28 +1,5 @@
 
 Postal3DB = {
-	["global"] = {
-		["BlackBook"] = {
-			["alts"] = {
-				"Daggny|Frostwolf|Horde|100|MONK", -- [1]
-				"Koutetsu|Frostwolf|Horde|90|SHAMAN", -- [2]
-				"Sumex|Frostwolf|Horde|90|DEATHKNIGHT", -- [3]
-				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [4]
-				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [5]
-				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [6]
-				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [7]
-				"Toshpriest|Area 52|Horde|1|PRIEST", -- [8]
-				"Toshpriest|Illidan|Horde|1|PRIEST", -- [9]
-				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [10]
-				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [11]
-				"Toshwar|Kil'jaeden|Horde|20|WARRIOR", -- [12]
-				"Tosh|Frostwolf|Horde|100|ROGUE", -- [13]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [14]
-				"Tosku|Kil'jaeden|Horde|110|DEMONHUNTER", -- [15]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [16]
-				"Zallie|Frostwolf|Horde|90|PRIEST", -- [17]
-			},
-		},
-	},
 	["profileKeys"] = {
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
@@ -34,13 +11,36 @@ Postal3DB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
+	},
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Daggny|Frostwolf|Horde|100|MONK", -- [1]
+				"Koutetsu|Frostwolf|Horde|90|SHAMAN", -- [2]
+				"Sumex|Frostwolf|Horde|90|DEATHKNIGHT", -- [3]
+				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [4]
+				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [5]
+				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [6]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [7]
+				"Toshpriest|Area 52|Horde|20|PRIEST", -- [8]
+				"Toshpriest|Illidan|Horde|1|PRIEST", -- [9]
+				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [10]
+				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [11]
+				"Toshwar|Kil'jaeden|Horde|20|WARRIOR", -- [12]
+				"Tosh|Frostwolf|Horde|100|ROGUE", -- [13]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [14]
+				"Tosku|Kil'jaeden|Horde|110|DEMONHUNTER", -- [15]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [16]
+				"Zallie|Frostwolf|Horde|90|PRIEST", -- [17]
+			},
+		},
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -121,22 +121,7 @@ Postal3DB = {
 		},
 		["Toshtrial - Blood Furnace"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Backstab|Kil'jaeden|Horde", -- [2]
-					"Toshpal|Kil'jaeden|Horde", -- [3]
-					"Toshmonk|Kil'jaeden|Horde", -- [4]
-					"Cadaceus|Kil'jaeden|Horde", -- [5]
-					"Yellowy|Kil'jaeden|Horde", -- [6]
-					"Yorman|Kil'jaeden|Horde", -- [7]
-					"Yellowysham|Kil'jaeden|Horde", -- [8]
-					"Yukio|Kil'jaeden|Horde", -- [9]
-					"Wraithbrand|Kil'jaeden|Horde", -- [10]
-					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [11]
-				},
-			},
+		["Sumex - Frostwolf"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
@@ -154,7 +139,22 @@ Postal3DB = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Sumex - Frostwolf"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Backstab|Kil'jaeden|Horde", -- [2]
+					"Toshpal|Kil'jaeden|Horde", -- [3]
+					"Toshmonk|Kil'jaeden|Horde", -- [4]
+					"Cadaceus|Kil'jaeden|Horde", -- [5]
+					"Yellowy|Kil'jaeden|Horde", -- [6]
+					"Yorman|Kil'jaeden|Horde", -- [7]
+					"Yellowysham|Kil'jaeden|Horde", -- [8]
+					"Yukio|Kil'jaeden|Horde", -- [9]
+					"Wraithbrand|Kil'jaeden|Horde", -- [10]
+					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [11]
+				},
+			},
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

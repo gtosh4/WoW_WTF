@@ -11,12 +11,12 @@ DataStore_CurrenciesDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -166,22 +166,194 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586143867,
+				["lastUpdate"] = 1586184264,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
 					[824] = "1300-0-0-10000",
 					[1273] = "1-0-0-6",
 					[1191] = "0-0-0-0",
-					[1565] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1710] = "727-0-0-0",
+					[1580] = "0-0-0-5",
+					[823] = "0-0-0-0",
+					[1560] = "23380-0-0-0",
 					[1342] = "133-0-0-1000",
 					[1226] = "4841-0-0-0",
-					[1560] = "23380-0-0-0",
+					[1710] = "727-0-0-0",
+					[994] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+				},
+			},
+			["Default.Illidan.Toshpriest"] = {
+				["lastUpdate"] = 1585854256,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "0-0-0-0",
+					[824] = "0-0-0-0",
+					[1273] = "0-0-0-0",
+					[1191] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "0-0-0-0",
+					[1342] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1560] = "0-0-0-0",
 					[994] = "0-0-0-0",
 					[823] = "0-0-0-0",
-					[1580] = "0-0-0-5",
+					[1580] = "0-0-0-0",
+				},
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["Currencies"] = {
+					{
+						["isHeader"] = true,
+						["index"] = 1,
+						["count"] = 0,
+					}, -- [1]
+					{
+						["isHeader"] = false,
+						["index"] = 11,
+						["count"] = 1175,
+					}, -- [2]
+					{
+						["isHeader"] = true,
+						["index"] = 7,
+						["count"] = 0,
+					}, -- [3]
+					{
+						["isHeader"] = false,
+						["index"] = 8,
+						["count"] = 1440,
+					}, -- [4]
+					{
+						["isHeader"] = true,
+						["index"] = 27,
+						["count"] = 0,
+					}, -- [5]
+					{
+						["isHeader"] = false,
+						["index"] = 28,
+						["count"] = 30,
+					}, -- [6]
+					{
+						["isHeader"] = true,
+						["index"] = 9,
+						["count"] = 0,
+					}, -- [7]
+					{
+						["isHeader"] = false,
+						["index"] = 10,
+						["count"] = 1016,
+					}, -- [8]
+					{
+						["isHeader"] = false,
+						["index"] = 12,
+						["count"] = 141,
+					}, -- [9]
+					{
+						["isHeader"] = false,
+						["index"] = 13,
+						["count"] = 114,
+					}, -- [10]
+					{
+						["isHeader"] = false,
+						["index"] = 29,
+						["count"] = 0,
+					}, -- [11]
+					{
+						["isHeader"] = false,
+						["index"] = 14,
+						["count"] = 8423,
+					}, -- [12]
+					{
+						["isHeader"] = false,
+						["index"] = 15,
+						["count"] = 2396,
+					}, -- [13]
+					{
+						["isHeader"] = false,
+						["index"] = 16,
+						["count"] = 6,
+					}, -- [14]
+					{
+						["isHeader"] = false,
+						["index"] = 30,
+						["count"] = 662,
+					}, -- [15]
+					{
+						["isHeader"] = false,
+						["index"] = 17,
+						["count"] = 58,
+					}, -- [16]
+					{
+						["isHeader"] = false,
+						["index"] = 18,
+						["count"] = 440,
+					}, -- [17]
+					{
+						["isHeader"] = false,
+						["index"] = 19,
+						["count"] = 448,
+					}, -- [18]
+					{
+						["isHeader"] = true,
+						["index"] = 20,
+						["count"] = 0,
+					}, -- [19]
+					{
+						["isHeader"] = false,
+						["index"] = 21,
+						["count"] = 3,
+					}, -- [20]
+					{
+						["isHeader"] = false,
+						["index"] = 31,
+						["count"] = 12,
+					}, -- [21]
+					{
+						["isHeader"] = false,
+						["index"] = 22,
+						["count"] = 106,
+					}, -- [22]
+				},
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
+				["lastUpdate"] = 1586184087,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "2396-0-0-0",
+					[824] = "106-0-0-10000",
+					[1273] = "6-0-0-6",
+					[1191] = "300-0-0-5000",
+					[1580] = "0-0-0-0",
+					[823] = "3-0-0-0",
+					[1560] = "0-0-0-0",
+					[1342] = "114-0-0-1000",
+					[1226] = "8423-0-0-0",
+					[1710] = "0-0-0-0",
+					[994] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1565] = "0-0-0-0",
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
@@ -266,38 +438,41 @@ DataStore_CurrenciesDB = {
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1580] = "4-0-0-5",
-					[1342] = "0-0-0-0",
-					[1560] = "10200-0-0-0",
-					[823] = "0-0-0-0",
-					[1226] = "0-0-0-0",
-					[1710] = "71-0-0-0",
-					[994] = "0-0-0-0",
-					[1587] = "0-0-0-0",
 					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "71-0-0-0",
+					[1342] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1560] = "10200-0-0-0",
+					[994] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[1580] = "4-0-0-5",
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1585852958,
-				["CurrencyInfo"] = {
-					[395] = "0-0-0-0",
-					[1220] = "0-0-0-0",
-					[824] = "0-0-0-0",
-					[1273] = "0-0-0-0",
-					[1191] = "0-0-0-0",
-					[1565] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1710] = "0-0-0-0",
-					[823] = "0-0-0-0",
-					[1226] = "0-0-0-0",
-					[1560] = "0-0-0-0",
-					[994] = "0-0-0-0",
-					[1342] = "0-0-0-0",
-					[1580] = "0-0-0-0",
+				["lastUpdate"] = 1586184460,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
 				},
-			},
-			["Default.Illidan.Toshpriest"] = {
-				["lastUpdate"] = 1585854256,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -387,25 +562,25 @@ DataStore_CurrenciesDB = {
 				["Dalaran Jewelcrafter's Token"] = 26,
 				["Seal of Wartorn Fate"] = 4,
 				["Artifact Fragment"] = 31,
-				["Garrison Resources"] = 22,
+				["Illustrious Jewelcrafter's Token"] = 40,
 				["Wrath of the Lich King"] = 24,
-				["Seal of Tempered Fate"] = 23,
+				["Mark of the World Tree"] = 37,
 				["Player vs. Player"] = 34,
 				["Timewarped Badge"] = 8,
 				["Unused"] = 41,
-				["Curious Coin"] = 12,
-				["Seafarer's Dubloon"] = 3,
-				["Legion"] = 9,
-				["Echoes of Ny'alotha"] = 44,
-				["Timeworn Artifact"] = 17,
-				["Warlords of Draenor"] = 20,
-				["Miscellaneous"] = 27,
-				["Wakening Essence"] = 19,
-				["Apexis Crystal"] = 21,
-				["Darkmoon Prize Ticket"] = 28,
 				["Mists of Pandaria"] = 32,
-				["Mark of the World Tree"] = 37,
-				["Illustrious Jewelcrafter's Token"] = 40,
+				["Seafarer's Dubloon"] = 3,
+				["Apexis Crystal"] = 21,
+				["Wakening Essence"] = 19,
+				["Echoes of Ny'alotha"] = 44,
+				["Miscellaneous"] = 27,
+				["Warlords of Draenor"] = 20,
+				["Timeworn Artifact"] = 17,
+				["Legion"] = 9,
+				["Darkmoon Prize Ticket"] = 28,
+				["Curious Coin"] = 12,
+				["Seal of Tempered Fate"] = 23,
+				["Garrison Resources"] = 22,
 				["Champion's Seal"] = 25,
 				["Legionfall War Supplies"] = 13,
 			},

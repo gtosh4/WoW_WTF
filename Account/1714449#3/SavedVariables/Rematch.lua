@@ -26,9 +26,9 @@ RematchSettings = {
 	},
 	["QueueSortOrder"] = 1,
 	["XPos"] = 1445.817626953125,
-	["SpecialSlots"] = {
+	["QueueSanctuary"] = {
 	},
-	["PetCardYPos"] = 1241.056640625,
+	["JournalUsed"] = true,
 	["HidePetToast"] = true,
 	["LevelingQueue"] = {
 	},
@@ -58,13 +58,13 @@ RematchSettings = {
 		},
 		["Strong"] = {
 		},
-		["Similar"] = {
+		["Sources"] = {
 		},
 		["Breed"] = {
 		},
 		["Rarity"] = {
 		},
-		["Sources"] = {
+		["Similar"] = {
 		},
 		["Level"] = {
 		},
@@ -73,9 +73,9 @@ RematchSettings = {
 		["Moveset"] = {
 		},
 	},
-	["UseDefaultJournal"] = true,
-	["QueueSanctuary"] = {
+	["SpecialSlots"] = {
 	},
+	["UseDefaultJournal"] = true,
 	["PetCardXPos"] = 400.9999694824219,
 	["CollapsedOptHeaders"] = {
 	},
@@ -86,9 +86,9 @@ RematchSettings = {
 	},
 	["JournalPanel"] = 1,
 	["CornerPos"] = "BOTTOMLEFT",
-	["JournalUsed"] = true,
 	["FavoriteFilters"] = {
 	},
+	["PetCardYPos"] = 1241.056640625,
 	["YPos"] = 422.5283813476563,
 	["SelectedTab"] = 1,
 	["PetNotes"] = {

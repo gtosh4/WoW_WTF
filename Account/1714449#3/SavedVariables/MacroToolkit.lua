@@ -26,6 +26,7 @@ MacroToolkitDB = {
 		["Tosh - Kil'jaeden"] = "profile",
 		["Toshmonk - Kil'jaeden"] = "profile",
 		["Toshaman - Kil'jaeden"] = "profile",
+		["Toshpal - Area 52"] = "profile",
 	},
 	["profiles"] = {
 		["profile"] = {

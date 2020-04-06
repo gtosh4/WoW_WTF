@@ -1,160 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/m", -- [1]
-		"[WeakAuras: Tosku-Kil'jaeden - Ring of Power]", -- [2]
-		"/wa", -- [3]
-		"yao", -- [4]
-		"[WeakAuras: Tosku-Kil'jaeden - Rune of Power 2]", -- [5]
-		"[WeakAuras: Tosku-Kil'jaeden - Arcane Power / Branch]", -- [6]
-		"/hek", -- [7]
-		"/tmw", -- [8]
-		"idc which we do, no real rush to lvl if we dickin something else", -- [9]
-		"/quartz", -- [10]
-		"/dom", -- [11]
-		"/way 38, 55", -- [12]
-		"get that boost poppin?", -- [13]
-		"[WeakAuras: Tosku-Kil'jaeden - Nut]", -- [14]
-		"/gladius test", -- [15]
-		"oh, you wanna fuk w/ league?", -- [16]
-		"/ec", -- [17]
-		"/cw Saltthewound-Suramar Uhm, heroic Tomb of Sargeras I think", -- [18]
-		"/aap", -- [19]
-		"/plater", -- [20]
+		"[WeakAuras: Tosku-Kil'jaeden - Arcane Power / Branch]", -- [1]
+		"/hek", -- [2]
+		"/tmw", -- [3]
+		"idc which we do, no real rush to lvl if we dickin something else", -- [4]
+		"/quartz", -- [5]
+		"/dom", -- [6]
+		"/way 38, 55", -- [7]
+		"get that boost poppin?", -- [8]
+		"[WeakAuras: Tosku-Kil'jaeden - Nut]", -- [9]
+		"/gladius test", -- [10]
+		"oh, you wanna fuk w/ league?", -- [11]
+		"/ec", -- [12]
+		"/cw Saltthewound-Suramar Uhm, heroic Tomb of Sargeras I think", -- [13]
+		"/aap", -- [14]
+		"/plater", -- [15]
+		"/grid2", -- [16]
+		"/jamba", -- [17]
+		" idk", -- [18]
+		" thought we were supposed to level at 9 central", -- [19]
+		" slept only 5 hrs for this shit T_T", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"WTS +10 Keys done by 415+ Mythic raiders.  Pick your gear type(at least 2 in group) and key and lets go! You get any gear we can trade! (Available keys: TD.UR,ML)  Also selling 9/9H or AOTC (jaina) BoD pst", -- [1]
-			"Bootywerx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bootywerx-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			66, -- [11]
-			"Player-9-0B548C6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Bootywerx|r",
-			[51] = 1554948228,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"RoadRunners is selling all tradeable loot included or PL  9/9H BOD or Jaina only Monday night  at 8 server PST to book now! ", -- [1]
-			"Bootywerx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bootywerx-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			67, -- [11]
-			"Player-9-0B548C6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Bootywerx|r",
-			[51] = 1554948231,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"WTS +10 Keys done by 415+ Mythic raiders.  Pick your gear type(at least 2 in group) and key and lets go! You get any gear we can trade! (Available keys: TD.UR,ML)  Also selling 9/9H or AOTC (jaina) BoD pst", -- [1]
-			"Bootywerx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bootywerx-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			73, -- [11]
-			"Player-9-0B548C6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Bootywerx|r",
-			[51] = 1554948332,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"RoadRunners is selling all tradeable loot included or PL  9/9H BOD or Jaina only Monday night  at 8 server PST to book now! ", -- [1]
-			"Bootywerx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bootywerx-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			74, -- [11]
-			"Player-9-0B548C6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Bootywerx|r",
-			[51] = 1554948334,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
-			"Edoidr-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Edoidr-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			75, -- [11]
-			"Player-9-0B622FF8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcEdoidr|r",
-			[51] = 1554948365,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"RoadRunners is selling all tradeable loot included or PL  9/9H BOD or Jaina only Monday night  at 8 server PST to book now! ", -- [1]
-			"Bootywerx-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bootywerx-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			79, -- [11]
-			"Player-9-0B548C6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Bootywerx|r",
-			[51] = 1554948408,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
 		{
 			"WTS +10 Keys done by 415+ Mythic raiders.  Pick your gear type(at least 2 in group) and key and lets go! You get any gear we can trade! (Available keys: TD.UR,ML)  Also selling 9/9H or AOTC (jaina) BoD pst", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -176,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1554948409,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [1]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -198,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554948598,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [2]
 		{
 			"WTS +10 Keys done by 415+ Mythic raiders.  Pick your gear type(at least 2 in group) and key and lets go! You get any gear we can trade! (Available keys: TD.UR,ML)  Also selling 9/9H or AOTC (jaina) BoD pst", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -220,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1554948636,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [3]
 		{
 			"RoadRunners is selling all tradeable loot included or PL  9/9H BOD or Jaina only Monday night  at 8 server PST to book now! ", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -242,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1554948637,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [4]
 		{
 			"RoadRunners is selling all tradeable loot included or PL  9/9H BOD or Jaina only Monday night  at 8 server PST to book now! ", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -264,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1554948729,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [5]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -286,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554948831,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [6]
 		{
 			"RoadRunners is selling all tradeable loot included or PL  9/9H BOD or Jaina only Monday night  at 8 server PST to book now! ", -- [1]
 			"Bootywerx-Kil'jaeden", -- [2]
@@ -308,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bootywerx|r",
 			[51] = 1554948871,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [7]
 		{
 			" <PGL>(9/9H 1/9M) is recruiting DPS! (DK, Mage, Rogue prefered)) Our raid times are M/T/W 8-10pm PST. If you're interested or have any questions please feel free to whisper.", -- [1]
 			"Petalpaw-Kil'jaeden", -- [2]
@@ -330,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Petalpaw|r",
 			[51] = 1554949051,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [8]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -352,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554949064,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [9]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -374,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554949530,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [10]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -396,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554949763,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [11]
 		{
 			"[WeakAuras: Wraithbrand-Kil'jaeden - Ring of Power]", -- [1]
 			"|Kq23|k", -- [2]
@@ -418,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554949989,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [18]
+		}, -- [12]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Ring of Power]", -- [1]
 			"|Kq23|k", -- [2]
@@ -440,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554950226,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [19]
+		}, -- [13]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -462,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554950229,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [14]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Ring of Power]", -- [1]
 			"|Kq23|k", -- [2]
@@ -484,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554950383,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [21]
+		}, -- [15]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -506,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554950462,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [16]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Ring of Power]", -- [1]
 			"|Kq23|k", -- [2]
@@ -528,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554950552,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [23]
+		}, -- [17]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -550,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554950695,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [18]
 		{
 			"[WeakAuras: Wraithbrand-Kil'jaeden - Ring of Power]", -- [1]
 			"|Kq23|k", -- [2]
@@ -572,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554950742,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [25]
+		}, -- [19]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -594,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554950928,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [20]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Rune of Power]", -- [1]
 			"|Kq23|k", -- [2]
@@ -616,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554950971,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [27]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13322:Player-9-09CB293E:1:4:10:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Lady Jaina Proudmoore]|h|r!", -- [1]
 			"Elvidnir-Kil'jaeden", -- [2]
@@ -638,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Elvidnir|r",
 			[51] = 1554951058,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [28]
+		}, -- [22]
 		{
 			"JULIE IS HERE. SO I'M OUT", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -660,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554951085,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [23]
 		{
 			"peace", -- [1]
 			"Zombiemonk-Kil'jaeden", -- [2]
@@ -682,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Zombiemonk|r",
 			[51] = 1554951097,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [24]
 		{
 			"I'LL MISS YO", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -704,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1554951098,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [25]
 		{
 			"forever no m+", -- [1]
 			"Slurry-Kil'jaeden", -- [2]
@@ -726,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Slurry|r",
 			[51] = 1554951100,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [26]
 		{
 			"laters", -- [1]
 			"Ngow-Kil'jaeden", -- [2]
@@ -748,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ngow|r",
 			[51] = 1554951104,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [27]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Rune of Power 2]", -- [1]
 			"|Kq23|k", -- [2]
@@ -770,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554951150,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [34]
+		}, -- [28]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -792,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554951161,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [29]
 		{
 			"when are u gonna go out boo?", -- [1]
 			"Odynsglory-Kil'jaeden", -- [2]
@@ -814,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Odynsglory|r",
 			[51] = 1554951208,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [30]
 		{
 			"ive been changing diapers for days and hours on end now", -- [1]
 			"Odynsglory-Kil'jaeden", -- [2]
@@ -836,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Odynsglory|r",
 			[51] = 1554951227,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [31]
 		{
 			"[WeakAuras: Wraithbrand-Kil'jaeden - Arcane Power / Branch]", -- [1]
 			"|Kq23|k", -- [2]
@@ -858,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554951268,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [38]
+		}, -- [32]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -880,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554951443,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [33]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Arcane Power / Branch]", -- [1]
 			"|Kq23|k", -- [2]
@@ -902,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554951480,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [40]
+		}, -- [34]
 		{
 			"thac you want have this yet |cff0070dd|Hitem:165847::::::::120:263::5::::|h[Thundering Scale of Akunda]|h|r", -- [1]
 			"Electabuzzed-Kil'jaeden", -- [2]
@@ -924,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcElectabuzzed|r",
 			[51] = 1554951663,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [35]
 		{
 			"want/have", -- [1]
 			"Electabuzzed-Kil'jaeden", -- [2]
@@ -946,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcElectabuzzed|r",
 			[51] = 1554951673,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [36]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -968,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554951676,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [37]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -990,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554951909,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [38]
 		{
 			"|Hspell:286027:0|h[Equipoise]|h", -- [1]
 			"|Kq23|k", -- [2]
@@ -1012,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554952000,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [45]
+		}, -- [39]
 		{
 			"|Hspell:30451:0|h[Arcane Blast]|h", -- [1]
 			"|Kq23|k", -- [2]
@@ -1034,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554952021,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [46]
+		}, -- [40]
 		{
 			"LFM mythic champs link ilvl and spec", -- [1]
 			"Niteace-Kil'jaeden", -- [2]
@@ -1056,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Niteace|r",
 			[51] = 1554952024,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [41]
 		{
 			"I DON'T HAVBE IT", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1078,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554952148,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [42]
 		{
 			"MAIL IT TO ME THANKS", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1100,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1554952151,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [43]
 		{
 			"cant i hvae to meet up", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1122,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1554952160,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [44]
 		{
 			"got like 10 min", -- [1]
 			"Aznbabygirl-Kil'jaeden", -- [2]
@@ -1144,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Aznbabygirl|r",
 			[51] = 1554952164,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [45]
 		{
 			"LFM mythic champs link ilvl and spec", -- [1]
 			"Niteace-Kil'jaeden", -- [2]
@@ -1166,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Niteace|r",
 			[51] = 1554952211,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [46]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Nut]", -- [1]
 			"|Kq23|k", -- [2]
@@ -1188,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554952243,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [53]
+		}, -- [47]
 		{
 			"let me know ill just log off my sham so i can give it to you later", -- [1]
 			"Electabuzzed-Kil'jaeden", -- [2]
@@ -1210,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcElectabuzzed|r",
 			[51] = 1554952276,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [48]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Nut]", -- [1]
 			"|Kq23|k", -- [2]
@@ -1232,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554952282,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [55]
+		}, -- [49]
 		{
 			"anyone wanna do timewalking in a bit?", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -1254,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1554952497,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [50]
 		{
 			"|Htalent:22461|h[Rule of Threes]|h", -- [1]
 			"|Kq23|k", -- [2]
@@ -1276,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554952526,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [57]
+		}, -- [51]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -1298,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554952609,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [52]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -1320,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554952842,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [53]
 		{
 			"bahahahahahahaha", -- [1]
 			"Odynsglory-Kil'jaeden", -- [2]
@@ -1342,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Odynsglory|r",
 			[51] = 1554952854,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [54]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Nut]", -- [1]
 			"|Kq23|k", -- [2]
@@ -1364,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554952879,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [61]
+		}, -- [55]
 		{
 			"[WeakAuras: Tosku-Kil'jaeden - Barrage]", -- [1]
 			"|Kq23|k", -- [2]
@@ -1386,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1554952884,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [62]
+		}, -- [56]
 		{
 			"selling 110 to 120 power leveling for (GOLD) no account sharing 2.5 to 3hrs for 10 levels.  pst for price per level", -- [1]
 			"Speedruns-Kil'jaeden", -- [2]
@@ -1408,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Speedruns|r",
 			[51] = 1554953070,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [57]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -1430,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554953075,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [58]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -1452,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554953308,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [59]
 		{
 			"how do you get that mount", -- [1]
 			"Saltthewound-Suramar", -- [2]
@@ -1474,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSaltthewound-Suramar|r",
 			[51] = 1554953403,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [66]
+		}, -- [60]
 		{
 			"?", -- [1]
 			"Saltthewound-Suramar", -- [2]
@@ -1496,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSaltthewound-Suramar|r",
 			[51] = 1554953409,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [67]
+		}, -- [61]
 		{
 			"Uhm, heroic Tomb of Sargeras I think", -- [1]
 			"Saltthewound-Suramar", -- [2]
@@ -1518,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSaltthewound-Suramar|r",
 			[51] = 1554953437,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [68]
+		}, -- [62]
 		{
 			"<GOLD ONLY> Selling power leveling in (Freehold) level 110 -120 in about 2.5 to 3 hr. price is base off of how much boa gear you have/xp pots pst", -- [1]
 			"Speedruns-Kil'jaeden", -- [2]
@@ -1540,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Speedruns|r",
 			[51] = 1554953439,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [63]
 		{
 			"okay thank you", -- [1]
 			"Saltthewound-Suramar", -- [2]
@@ -1562,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSaltthewound-Suramar|r",
 			[51] = 1554953466,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [70]
+		}, -- [64]
 		{
 			"/WTS/ Battle of Dazar'Alor Heroic Full 9/9 ,Get your  Gears& AOTC /Full 400 gears; Mythic+10/+11/+12..+15 etc ; /Glory of the Dazar'alor Raider/; also do <The Hivemind>; self playing- PST!", -- [1]
 			"Edoidr-Kil'jaeden", -- [2]
@@ -1584,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcEdoidr|r",
 			[51] = 1554953541,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [65]
 		{
 			"yao", -- [1]
 			"|Kq23|k", -- [2]
@@ -1606,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1555996800,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [72]
+		}, -- [66]
 		{
 			"yao", -- [1]
 			"|Kq23|k", -- [2]
@@ -1628,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1555996950,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [73]
+		}, -- [67]
 		{
 			"get that boost poppin?", -- [1]
 			"|Kq23|k", -- [2]
@@ -1650,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1555996978,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [74]
+		}, -- [68]
 		{
 			"shortly aram with jay chris", -- [1]
 			"|Kq23|k", -- [2]
@@ -1672,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1555996992,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [75]
+		}, -- [69]
 		{
 			"oh, you wanna fuk w/ league?", -- [1]
 			"|Kq23|k", -- [2]
@@ -1694,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1555997005,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [76]
+		}, -- [70]
 		{
 			"idc which we do, no real rush to lvl if we dickin something else", -- [1]
 			"|Kq23|k", -- [2]
@@ -1716,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1555997018,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [77]
+		}, -- [71]
 		{
 			"ima enter that code in one way or another", -- [1]
 			"|Kq23|k", -- [2]
@@ -1738,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wraithband|r",
 			[51] = 1555997146,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [78]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12848:Player-9-0A6B573B:1:4:22:19:4294967295:4294967295:4294967295:4294967295|h[Kings' Rest]|h|r!", -- [1]
 			"Dragonite-Kil'jaeden", -- [2]
@@ -1760,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Dragonite|r",
 			[51] = 1555998279,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
+		}, -- [73]
 		{
 			"anyone|cffa335ee|Hkeystone:158923:247:10:10:11:14:117|h[Keystone: The MOTHERLODE!! (10)]|h|r", -- [1]
 			"Bluffer-Kil'jaeden", -- [2]
@@ -1782,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bluffer|r",
 			[51] = 1555998382,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [74]
 		{
 			"|cffa335ee|Hitem:158375::154127::::::120:70::16:4:5010:4802:1592:4784:::|h[Drape of the Loyal Vassal]|h|r|cffa335ee|Hitem:158712::153707::::::120:70::16:4:5010:4802:1572:4786:::|h[Rezan's Gleaming Eye]|h|r", -- [1]
 			"Dawnzo-Kil'jaeden", -- [2]
@@ -1804,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dawnzo|r",
 			[51] = 1555998386,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [75]
 		{
 			"LF1M M+!", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1826,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1555998409,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [76]
 		{
 			"me", -- [1]
 			"Bluffer-Kil'jaeden", -- [2]
@@ -1848,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bluffer|r",
 			[51] = 1555998426,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [77]
 		{
 			"sec just got into an arena", -- [1]
 			"Bluffer-Kil'jaeden", -- [2]
@@ -1870,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bluffer|r",
 			[51] = 1555998435,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
+		}, -- [78]
 		{
 			"WTB Freehold Boost 110-120", -- [1]
 			"Moonig-Kil'jaeden", -- [2]
@@ -1892,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Moonig|r",
 			[51] = 1555999004,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [79]
 		{
 			"Just saying if you use |cff0070dd|Hitem:166779::::::::120:70::::::|h[Transmorpher Beacon]|h|r while flying. you can watch that little bastard fall in the sky to the ground SO Fast", -- [1]
 			"Aspbringer-Kil'jaeden", -- [2]
@@ -1914,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aspbringer|r",
 			[51] = 1556081466,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [80]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -1936,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556081755,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [81]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12558:Player-9-0635011B:1:4:23:19:4294967295:4294967295:4294967295:4294967295|h[Explore Stormsong Valley]|h|r!", -- [1]
 			"Toxicsob-Kil'jaeden", -- [2]
@@ -1958,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeToxicsob|r",
 			[51] = 1556081790,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [88]
+		}, -- [82]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -1980,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556082241,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [83]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2002,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556082484,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [84]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2024,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556082727,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [85]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2046,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556082971,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [86]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2068,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556083213,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [87]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2090,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556083457,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [88]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::120:250::13::::|h[Meca-Mogul Mk2]|h|r", -- [1]
 			"Tyder-Kil'jaeden", -- [2]
@@ -2112,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tyder|r",
 			[51] = 1556083622,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [89]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2134,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556083700,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [90]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2156,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556083943,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [91]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2178,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556084185,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [92]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12738:Player-9-0736CF13:1:4:23:19:4294967295:4294967295:4294967295:4294967295|h[Holy Scrap!]|h|r!", -- [1]
 			"Milkduud-Kil'jaeden", -- [2]
@@ -2200,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Milkduud|r",
 			[51] = 1556084330,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [99]
+		}, -- [93]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2222,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556084428,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [94]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2244,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556084671,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [95]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2266,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556084915,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [96]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2288,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556085158,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [97]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2310,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556085401,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [98]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2332,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556085647,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [99]
 		{
 			"[40% OFF DEAL] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Mythic+ runs. /w for info", -- [1]
 			"Madyidem-Kil'jaeden", -- [2]
@@ -2354,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMadyidem|r",
 			[51] = 1556085907,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [100]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::120:253::13::::|h[Meca-Mogul Mk2]|h|r Cheaper than AH :P", -- [1]
 			"Ðænerýs-Kil'jaeden", -- [2]
@@ -2376,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ðænerýs|r",
 			[51] = 1556089126,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [101]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::120:253::13::::|h[Meca-Mogul Mk2]|h|r Cheaper than AH :P", -- [1]
 			"Ðænerýs-Kil'jaeden", -- [2]
@@ -2398,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ðænerýs|r",
 			[51] = 1556089275,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [102]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13414:Player-9-0A6D2CCB:1:4:24:19:4294967295:4294967295:4294967295:4294967295|h[Crucible of Storms]|h|r!", -- [1]
 			"Syrasona-Kil'jaeden", -- [2]
@@ -2420,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Syrasona|r",
 			[51] = 1556089440,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [109]
+		}, -- [103]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::120:253::13::::|h[Meca-Mogul Mk2]|h|r Cheaper than AH :P", -- [1]
 			"Ðænerýs-Kil'jaeden", -- [2]
@@ -2442,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ðænerýs|r",
 			[51] = 1556089516,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [104]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::120:253::13::::|h[Meca-Mogul Mk2]|h|r Cheaper than AH :P", -- [1]
 			"Ðænerýs-Kil'jaeden", -- [2]
@@ -2464,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ðænerýs|r",
 			[51] = 1556089681,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [105]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12948:Player-9-0A6D2CCB:1:4:24:19:4294967295:4294967295:4294967295:4294967295|h[Talanji's Expedition]|h|r!", -- [1]
 			"Syrasona-Kil'jaeden", -- [2]
@@ -2486,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Syrasona|r",
 			[51] = 1556089763,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [112]
+		}, -- [106]
 		{
 			"|cff1eff00|Hitem:166831::::::::120:73::11::::|h[Duskhaven Dress]|h|r", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2508,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1556089850,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [107]
 		{
 			"WTS |cffa335ee|Hitem:161134::::::::120:253::13::::|h[Meca-Mogul Mk2]|h|r Cheaper than AH :P", -- [1]
 			"Ðænerýs-Kil'jaeden", -- [2]
@@ -2530,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ðænerýs|r",
 			[51] = 1556089860,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [108]
 		{
 			"Selling Mythic +10 Dungeon carries (gold only). Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
 			"Cinnaminson-Kil'jaeden", -- [2]
@@ -2552,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCinnaminson|r",
 			[51] = 1556090964,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [109]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2574,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091028,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [110]
 		{
 			"Selling Mythic +10 Dungeon carries (gold only). Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
 			"Cinnaminson-Kil'jaeden", -- [2]
@@ -2596,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCinnaminson|r",
 			[51] = 1556091084,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [111]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2618,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091090,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [112]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2640,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091163,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [113]
 		{
 			"Selling Mythic +10 Dungeon carries (gold only). Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
 			"Cinnaminson-Kil'jaeden", -- [2]
@@ -2662,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCinnaminson|r",
 			[51] = 1556091204,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [114]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2684,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091225,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [115]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2706,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091297,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [116]
 		{
 			"Selling Mythic +10 Dungeon carries (gold only). Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
 			"Cinnaminson-Kil'jaeden", -- [2]
@@ -2728,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCinnaminson|r",
 			[51] = 1556091324,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [117]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2750,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091359,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [118]
 		{
 			"[WTS] Crucible of Storms and Battle of Dazar'alor guild loot runs. Full Gear, Azerite 3/3 and Item guarantees! Get your 400+ ILVL and \"Ahead of the Curve\" achievement tonight! Your daily Raids and Mythic+ help. PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2772,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091431,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [119]
 		{
 			"Selling Mythic +10 Dungeon carries (gold only). Guild group. Get 400 loot and 410 cache. PST for details", -- [1]
 			"Cinnaminson-Kil'jaeden", -- [2]
@@ -2794,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCinnaminson|r",
 			[51] = 1556091444,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [120]
 		{
 			"[WTS] Mythic+ 10-15+ keys CARRY. Get your 400-425+ gear and weekly chest done tonight! 400+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! PM for details!                        ", -- [1]
 			"Nakkark-Kil'jaeden", -- [2]
@@ -2816,6 +2684,144 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nakkark|r",
 			[51] = 1556091493,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"gordy u think jamie fell asleep?", -- [1]
+			"|Kq4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95YukioX|r",
+			[51] = 1586184164,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "YukioX",
+		}, -- [122]
+		{
+			"idk", -- [1]
+			"|Kq4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95YukioX|r",
+			[51] = 1586184170,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "YukioX",
+		}, -- [123]
+		{
+			"thought we were supposed to level at 9 central", -- [1]
+			"|Kq4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			250, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95YukioX|r",
+			[51] = 1586184183,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "YukioX",
+		}, -- [124]
+		{
+			"yah haha", -- [1]
+			"|Kq4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			251, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95YukioX|r",
+			[51] = 1586184188,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "YukioX",
+		}, -- [125]
+		{
+			"slept only 5 hrs for this shit T_T", -- [1]
+			"|Kq4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			252, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95YukioX|r",
+			[51] = 1586184195,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "YukioX",
+		}, -- [126]
+		{
+			"YIKES", -- [1]
+			"|Kq4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			253, -- [11]
+			false, -- [12]
+			47, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95YukioX|r",
+			[51] = 1586184203,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "YukioX",
 		}, -- [127]
 	},
 }

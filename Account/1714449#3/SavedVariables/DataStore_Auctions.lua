@@ -6,6 +6,7 @@ DataStore_AuctionsDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {

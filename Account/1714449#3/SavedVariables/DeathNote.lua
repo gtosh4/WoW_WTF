@@ -6,6 +6,7 @@ DeathNoteDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -23,10 +24,10 @@ DeathNoteDB = {
 		["Tosh - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
-				["w"] = 786.5405883789062,
 				["y"] = 199.0487365722656,
 				["namelist"] = 2,
 				["x"] = 1016.587921142578,
+				["w"] = 786.5405883789062,
 				["h"] = 788.8056030273438,
 			},
 		},
@@ -49,6 +50,8 @@ DeathNoteDB = {
 				["w"] = 699.9996337890625,
 				["x"] = 819.2883911132812,
 			},
+		},
+		["Toshpal - Area 52"] = {
 		},
 	},
 }

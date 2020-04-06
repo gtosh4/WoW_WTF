@@ -6,6 +6,7 @@ DataStore_StatsDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -20,6 +21,19 @@ DataStore_StatsDB = {
 					["PVP"] = "566|0",
 					["Base"] = "628|1468|18103|11284|0",
 					["Spell"] = "11284|11284|0|28.388891220093|795|4000",
+				},
+			},
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1586184655,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|12.244647979736",
+					["HealthMax"] = 1080,
+					["Melee"] = "76-81|3.4020001888275|100|0|12.244647979736|0",
+					["MaxPower"] = "0|199",
+					["Spell"] = "123|123|0|12.244647979736|19|31",
+					["PVP"] = "0|0",
+					["Base"] = "100|23|108|55|0",
+					["Defense"] = "0|0|3|8.4120664596558|10|0",
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {

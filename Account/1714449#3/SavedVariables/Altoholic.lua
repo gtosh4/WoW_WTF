@@ -6,6 +6,7 @@ AltoholicDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Sharing"] = {
@@ -25,7 +26,7 @@ AltoholicDB = {
 			["Tabs.Achievements.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshpal",
 			["Tabs.Grids.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshmonk",
 			["UI.Tabs.Summary.CurrentLevels"] = 10,
-			["UI.Mail.LastExpiryWarning"] = 1586156328,
+			["UI.Mail.LastExpiryWarning"] = 1586184655,
 			["UI.Minimap.ShowIcon"] = false,
 			["UI.AccountSharing.IsEnabled"] = true,
 			["Tabs.Grids.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshaman",

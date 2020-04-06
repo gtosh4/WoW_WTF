@@ -15,8 +15,9 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 	},
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -6,6 +6,7 @@ SimulationCraftDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -31,6 +32,8 @@ SimulationCraftDB = {
 			["minimap"] = {
 				["hide"] = true,
 			},
+		},
+		["Toshpal - Area 52"] = {
 		},
 	},
 }

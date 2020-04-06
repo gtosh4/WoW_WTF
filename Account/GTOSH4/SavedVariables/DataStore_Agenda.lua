@@ -11,12 +11,12 @@ DataStore_AgendaDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -45,29 +45,29 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|385645065"] = "127669|1586143929|0|1",
-					["Ny'alotha, the Waking City Mythic|385293468"] = "127669|1586143929|0|1",
-					["Battle of Dazar'alor Mythic|384941403"] = "127669|1586143929|0|1",
+					["Ny'alotha, the Waking City Heroic|385645065"] = "87332|1586184267|0|1",
+					["Ny'alotha, the Waking City Mythic|385293468"] = "87332|1586184267|0|1",
+					["Battle of Dazar'alor Mythic|384941403"] = "87332|1586184267|0|1",
 				},
-				["lastUpdate"] = 1586143976,
+				["lastUpdate"] = 1586184317,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1585854116,
-			},
-			["Default.Frostwolf.Tosh"] = {
-				["lastUpdate"] = 1581544041,
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1581543873,
+			["Default.Frostwolf.Sumex"] = {
+				["lastUpdate"] = 1581544171,
 			},
 			["Default.Frostwolf.Daggny"] = {
 				["lastUpdate"] = 1581544004,
 			},
-			["Default.Frostwolf.Sumex"] = {
-				["lastUpdate"] = 1581544171,
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1586184227,
+			},
+			["Default.Frostwolf.Tosh"] = {
+				["lastUpdate"] = 1581544041,
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1586184512,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,

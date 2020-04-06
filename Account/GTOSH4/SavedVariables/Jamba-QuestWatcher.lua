@@ -22,17 +22,18 @@ JambaQuestWatcherProfileDB = {
 			["watcherFrameRelativePoint"] = "TOPRIGHT",
 			["watcherFrameYOffset"] = -237.6288909912109,
 			["enableQuestWatcher"] = false,
-			["watcherFrameXOffset"] = -286.7917785644531,
-			["hideQuestIfAllComplete"] = true,
-			["unlockWatcherFrame"] = false,
-			["watcherFramePoint"] = "TOPRIGHT",
 			["enableQuestWatcherOnMasterOnly"] = true,
+			["watcherFramePoint"] = "TOPRIGHT",
+			["unlockWatcherFrame"] = false,
+			["hideQuestIfAllComplete"] = true,
+			["watcherFrameXOffset"] = -286.7917785644531,
 		},
 		["Toshpriest - Illidan"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
+			["enableQuestWatcher"] = false,
 		},
 		["Toshpriest - Area 52"] = {
 		},

@@ -7,7 +7,7 @@ _detalhes_database = {
 		["tabelas"] = {
 		},
 	},
-	["last_version"] = "v8.3.0.7259",
+	["last_version"] = "v8.3.0.7282",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -15,8 +15,8 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1582839856,
-		["last_version"] = 11,
+		["nextreset"] = 1587479911,
+		["last_version"] = 12,
 	},
 	["last_instance_id"] = 0,
 	["announce_interrupts"] = {
@@ -44,7 +44,7 @@ _detalhes_database = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
 			["enabled"] = true,
-			["animate"] = false,
+			["showamount"] = false,
 			["useplayercolor"] = false,
 			["author"] = "Details! Team",
 			["useclasscolors"] = false,
@@ -53,7 +53,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -108,8 +108,8 @@ _detalhes_database = {
 				0.5, -- [4]
 			},
 			["main_frame_size"] = {
-				412.000030517578, -- [1]
-				158, -- [2]
+				412.0000610351563, -- [1]
+				158.0000152587891, -- [2]
 			},
 			["minimap"] = {
 				["minimapPos"] = 160,
@@ -120,24 +120,14 @@ _detalhes_database = {
 			["row_texture"] = "ElvUI Norm",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = true,
-			["author"] = "Details! Team",
-			["enabled"] = true,
-			["arrow_size"] = 10,
-			["y"] = 200.0283660888672,
-			["row_spacement"] = 28,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.850000008940697, -- [4]
-			},
 			["row_color"] = {
 				0.305882352941177, -- [1]
 				0.305882352941177, -- [2]
 				0.305882352941177, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["enabled"] = false,
+			["arrow_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -149,17 +139,26 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["row_spacement"] = 28,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.850000008940697, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["font_size"] = 14,
+			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
-			["use_spark"] = true,
-			["main_frame_strata"] = "LOW",
+			["y"] = 200.0283660888672,
+			["author"] = "Details! Team",
 			["point"] = "BOTTOMLEFT",
 			["row_height"] = 28,
 			["scale"] = 1,
 		},
 	},
-	["last_day"] = "12",
 	["cached_talents"] = {
 	},
 	["announce_prepots"] = {
@@ -167,12 +166,13 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
+	["last_day"] = "06",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 14,
+		["logons"] = 16,
 	},
 	["combat_id"] = 0,
 	["savedStyles"] = {
@@ -181,7 +181,7 @@ _detalhes_database = {
 		{
 			["segment"] = 0,
 			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
+			["horizontalSnap"] = true,
 			["verticalSnap"] = false,
 			["is_open"] = true,
 			["isLocked"] = true,
@@ -193,13 +193,14 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
+				[3] = 2,
 			},
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -623.8049774169922,
-					["x"] = 1270.805908203125,
+					["y"] = -623.8048934936523,
+					["x"] = 1270.806396484375,
 					["w"] = 291.9106750488281,
 					["h"] = 155.1573181152344,
 				},
@@ -214,7 +215,7 @@ _detalhes_database = {
 		{
 			["segment"] = 0,
 			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
+			["horizontalSnap"] = true,
 			["verticalSnap"] = true,
 			["is_open"] = true,
 			["isLocked"] = true,
@@ -226,16 +227,17 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
+				1, -- [1]
 				[4] = 3,
 			},
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -624.5040664672852,
-					["x"] = 1574.296142578125,
+					["y"] = -623.8048934936523,
+					["x"] = 1573.282958984375,
 					["w"] = 313.0424194335938,
-					["h"] = 149.9682769775391,
+					["h"] = 155.1573181152344,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -265,8 +267,8 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -410.259033203125,
-					["x"] = 1574.296142578125,
+					["y"] = -406.9653625488281,
+					["x"] = 1573.282958984375,
 					["w"] = 313.0424194335938,
 					["h"] = 238.5217742919922,
 				},
@@ -405,7 +407,7 @@ _detalhes_database = {
 			}, -- [4]
 		},
 	},
-	["combat_counter"] = 32,
+	["combat_counter"] = 36,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",

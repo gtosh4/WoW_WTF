@@ -6,6 +6,7 @@ DataStore_ReputationsDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -56,6 +57,20 @@ DataStore_ReputationsDB = {
 					[158] = 37355,
 				},
 			},
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1586184652,
+				["Factions"] = {
+					[7] = 3100,
+					[78] = 3100,
+					[8] = 3100,
+					[9] = 500,
+					[113] = 3100,
+					[76] = 3500,
+					[6] = 4000,
+					[10] = 400,
+					[159] = 9000,
+				},
+			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1586058602,
 				["guildName"] = "Rivalry",
@@ -76,9 +91,9 @@ DataStore_ReputationsDB = {
 					[6] = 3600,
 					[157] = 30085,
 					[161] = 31761,
-					[106] = 2800,
-					[7] = 3600,
 					[14] = 350,
+					[7] = 3600,
+					[106] = 2800,
 					[158] = 22475,
 					[17] = 500,
 					[29] = 60,

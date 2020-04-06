@@ -6,6 +6,7 @@ DataStore_PetsDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Reference"] = {
@@ -106,6 +107,9 @@ DataStore_PetsDB = {
 					294206, -- [19]
 					301015, -- [20]
 				},
+			},
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1586184698,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1586058602,

@@ -33,3 +33,4 @@ ElvUI_EverySecondCounts: disabled
 ElvUI_AuraBarsMovers: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
+ElvUI_OptionsUI: enabled

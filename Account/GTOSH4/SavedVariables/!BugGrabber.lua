@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2260,
 	["lastSanitation"] = 3,
-	["session"] = 2255,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
@@ -26,5 +26,12 @@ BugGrabberDB = {
 			["session"] = 2250,
 			["counter"] = 6,
 		}, -- [3]
+		{
+			["message"] = "...rface\\AddOns\\ElvUI\\Modules\\actionbars\\ActionBars.lua:135: attempt to index local 'bar' (a nil value)",
+			["time"] = "2020/04/06 10:38:46",
+			["stack"] = "[string \"--[==[ Error in 'Elv AB toggle':'initialization' ]==] return function() local E = unpack(ElvUI)\nlocal AB = E:GetModule(\"ActionBars\")\nlocal r = aura_env.region\nlocal NUM_ACTIONBAR_BUTTONS = NUM_ACTIONBAR_BUTTONS\nr.toggleState = false\n\nlocal config = aura_env.config\n\nfunction r:toggle()\n    if InCombatLockdown() then return end\n    \n    for n, enable in pairs(config.hidebars) do\n        if enable then\n            E.db.actionbar[\"bar\"..n].enabled = self.toggleState\n            AB:PositionAndSizeBar(\"bar\"..n)\n        end\n    end\n    for n, enable in pairs(config.mousebars) do\n        if enable then\n            local r = AB[\"handledBars\"][\"bar\"..n]\n            r:EnableMouse(self.toggleState)\n            for i=1,NUM_ACTIONBAR_BUTTONS do\n                local t = r.buttons[i]\n                t:EnableMouse(self.toggleState)\n            end\n        end\n    end\n    self.toggleState = not self.toggleState\nend\n\nr:toggle()\n\n\n\n\n end\"]:15: in function `toggle'\n[string \"--[==[ Error in 'Elv AB toggle':'initialization' ]==] return function() local E = unpack(ElvUI)\nlocal AB = E:GetModule(\"ActionBars\")\nlocal r = aura_env.region\nlocal NUM_ACTIONBAR_BUTTONS = NUM_ACTIONBAR_BUTTONS\nr.toggleState = false\n\nlocal config = aura_env.config\n\nfunction r:toggle()\n    if InCombatLockdown() then return end\n    \n    for n, enable in pairs(config.hidebars) do\n        if enable then\n            E.db.actionbar[\"bar\"..n].enabled = self.toggleState\n            AB:PositionAndSizeBar(\"bar\"..n)\n        end\n    end\n    for n, enable in pairs(config.mousebars) do\n        if enable then\n            local r = AB[\"handledBars\"][\"bar\"..n]\n            r:EnableMouse(self.toggleState)\n            for i=1,NUM_ACTIONBAR_BUTTONS do\n                local t = r.buttons[i]\n                t:EnableMouse(self.toggleState)\n            end\n        end\n    end\n    self.toggleState = not self.toggleState\nend\n\nr:toggle()\n\n\n\n\n end\"]:31: in function <[string \"--[==[ Error in 'Elv AB toggle':'initializa...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\AuraEnvironment.lua\"]:238: in function `ActivateAuraEnvironment'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:717: in function `ScanWithFakeEvent'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:999: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.6.lua\"]:2278: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.6.lua\"]:2122: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2008>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.6.lua\"]:2219: in function `ReloadAll'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.6.lua\"]:1864: in function `ScanAll'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.6.lua\"]:1809: in function `Resume'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.16.6.lua\"]:1627: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1578>",
+			["session"] = 2257,
+			["counter"] = 1,
+		}, -- [4]
 	},
 }

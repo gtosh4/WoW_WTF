@@ -2,45 +2,11 @@
 JambaFTLProfileDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
-		["Toshmonk - Kil'jaeden"] = {
-			["CharListWithModifiers"] = {
-				["Toshmonk-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["rshift"] = false,
-					["lctrl"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
-		["Toshaman - Kil'jaeden"] = {
-			["CharListWithModifiers"] = {
-				["Toshpal-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-				["Toshaman-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
 		["Default"] = {
 			["CharListWithModifiers"] = {
 				["Toshpal-Kil'jaeden"] = {
@@ -117,6 +83,54 @@ JambaFTLProfileDB = {
 					["lshift"] = false,
 					["rshift"] = false,
 					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["CharListWithModifiers"] = {
+				["Toshmonk-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["CharListWithModifiers"] = {
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+				["Toshaman-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["CharListWithModifiers"] = {
+				["Toshpal-Area52"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 			},

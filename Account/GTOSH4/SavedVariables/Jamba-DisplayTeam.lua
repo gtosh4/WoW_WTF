@@ -44,8 +44,8 @@ JambaDisplayTeamProfileDB = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Default"] = {
-			["showTeamList"] = false,
 			["teamListTitleHeight"] = 0,
+			["showTeamList"] = false,
 		},
 		["Zallie - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,

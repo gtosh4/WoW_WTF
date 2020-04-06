@@ -5,9 +5,10 @@ Postal3DB = {
 			["alts"] = {
 				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [1]
 				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [2]
-				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [3]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [4]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [5]
+				"Toshpal|Area 52|Horde|20|PALADIN", -- [3]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [4]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [5]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [6]
 			},
 		},
 	},
@@ -17,6 +18,7 @@ Postal3DB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -77,6 +79,8 @@ Postal3DB = {
 					"Toshmonk|Kil'jaeden|Horde", -- [16]
 				},
 			},
+		},
+		["Toshpal - Area 52"] = {
 		},
 	},
 }

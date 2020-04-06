@@ -1,13 +1,16 @@
 
 CorruptionTooltipsDB = {
 	["profileKeys"] = {
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
+		["Tosh - Kil'jaeden"] = {
+		},
 		["Toshaman - Kil'jaeden"] = {
 		},
-		["Tosh - Kil'jaeden"] = {
+		["Toshpal - Area 52"] = {
 		},
 	},
 }

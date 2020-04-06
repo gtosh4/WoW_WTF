@@ -6,6 +6,7 @@ DataStore_AgendaDB = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Options"] = {
@@ -21,6 +22,9 @@ DataStore_AgendaDB = {
 					},
 				},
 				["lastUpdate"] = 1580712155,
+			},
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1586184698,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {

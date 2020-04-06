@@ -1,39 +1,6 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshpriest-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Iconic-lightbringer"] = true,
-	["us-Rócky-kiljaeden"] = true,
-	["us-Tirtbirtgdrt-darkspear"] = true,
-	["us-Ticktocktock-skullcrusher"] = true,
-	["us-Dæthrogue-kiljaeden"] = true,
-	["us-Seaka-runetotem"] = true,
-	["us-Fusion-azjolnerub"] = true,
-	["us-Anders-kiljaeden"] = true,
-	["us-Farshby-kiljaeden"] = true,
-	["us-Imtoky-kiljaeden"] = true,
-	["us-Arsanel-kiljaeden"] = true,
-	["us-Llyndon-korgath"] = true,
-	["us-Baconsneakz-tichondrius"] = true,
-	["us-Eswizz-laughing-skull"] = true,
-	["us-Eternalfróst-tichondrius"] = true,
-	["us-Retailsucks-lightbringer"] = true,
-	["us-Tuntunook-aegwynn"] = true,
-	["us-Dukayu-senjin"] = true,
-	["us-Kitsugua-tol-barad"] = true,
-	["us-Mattknight-quelthalas"] = true,
-	["us-Taô-balnazzar"] = true,
-	["us-Austinxo-rivendare"] = true,
-	["us-Rhanx-senjin"] = true,
-	["us-Trîstan-cenarius"] = true,
-	["us-Alderamos-spirestone"] = true,
-	["us-Jabberwock-silvermoon"] = true,
-	["us-Dryzzt-senjin"] = true,
-	["us-Saivia-tichondrius"] = true,
-	["us-Dramork-azralon"] = true,
-	["us-Vallarium-eitrigg"] = true,
-	["us-Barook-tol-barad"] = true,
-	["us-Kramhole-frostmane"] = true,
-	["us-Urth-kiljaeden"] = true,
 }

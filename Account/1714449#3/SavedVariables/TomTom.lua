@@ -6,6 +6,7 @@ TomTomDB = {
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -32,6 +33,7 @@ TomTomWaypointsM = {
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -43,6 +45,8 @@ TomTomWaypointsM = {
 		["Toshmonk - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
+		},
+		["Toshpal - Area 52"] = {
 		},
 	},
 }

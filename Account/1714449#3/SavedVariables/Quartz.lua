@@ -81,11 +81,12 @@ Quartz3DB = {
 		["Toshtrial - Blood Furnace"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
