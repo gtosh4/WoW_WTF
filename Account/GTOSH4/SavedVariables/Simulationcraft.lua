@@ -23,6 +23,7 @@ SimulationCraftDB = {
 		["Toshdk - Kil'jaeden"] = {
 			["minimap"] = {
 				["minimapPos"] = 218.4307229176124,
+				["hide"] = true,
 			},
 		},
 		["Daggny - Frostwolf"] = {

@@ -35,7 +35,6 @@ JambaFollowProfileDB = {
 		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
-			["autoFollowAfterCombat"] = true,
 		},
 		["Zallie - Frostwolf"] = {
 		},

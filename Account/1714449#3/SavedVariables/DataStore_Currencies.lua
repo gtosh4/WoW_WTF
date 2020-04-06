@@ -112,11 +112,124 @@ DataStore_CurrenciesDB = {
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
 					[1580] = "4-0-0-5",
-					[1342] = "0-0-0-0",
-					[1560] = "15683-0-0-0",
 					[823] = "0-0-0-0",
+					[1560] = "15683-0-0-0",
+					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1710] = "355-0-0-0",
+					[994] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+				},
+			},
+			["Default.Kil'jaeden.Tosh"] = {
+				["Currencies"] = {
+					{
+						["isHeader"] = true,
+						["index"] = 1,
+						["count"] = 0,
+					}, -- [1]
+					{
+						["isHeader"] = false,
+						["index"] = 28,
+						["count"] = 7721,
+					}, -- [2]
+					{
+						["isHeader"] = false,
+						["index"] = 29,
+						["count"] = 4907,
+					}, -- [3]
+					{
+						["isHeader"] = false,
+						["index"] = 30,
+						["count"] = 1319,
+					}, -- [4]
+					{
+						["isHeader"] = false,
+						["index"] = 2,
+						["count"] = 288,
+					}, -- [5]
+					{
+						["isHeader"] = false,
+						["index"] = 27,
+						["count"] = 113,
+					}, -- [6]
+					{
+						["isHeader"] = false,
+						["index"] = 3,
+						["count"] = 258,
+					}, -- [7]
+					{
+						["isHeader"] = false,
+						["index"] = 4,
+						["count"] = 5,
+					}, -- [8]
+					{
+						["isHeader"] = false,
+						["index"] = 5,
+						["count"] = 10060,
+					}, -- [9]
+					{
+						["isHeader"] = false,
+						["index"] = 6,
+						["count"] = 6691,
+					}, -- [10]
+					{
+						["isHeader"] = true,
+						["index"] = 7,
+						["count"] = 0,
+					}, -- [11]
+					{
+						["isHeader"] = false,
+						["index"] = 8,
+						["count"] = 400,
+					}, -- [12]
+					{
+						["isHeader"] = true,
+						["index"] = 9,
+						["count"] = 0,
+					}, -- [13]
+					{
+						["isHeader"] = false,
+						["index"] = 10,
+						["count"] = 250,
+					}, -- [14]
+				},
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
+				["lastUpdate"] = 1586157868,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "0-0-0-0",
+					[824] = "0-0-0-0",
+					[1273] = "0-0-0-0",
+					[1191] = "0-0-0-0",
+					[1580] = "5-0-0-5",
+					[1342] = "0-0-0-0",
+					[1560] = "6691-0-0-0",
+					[823] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1710] = "258-0-0-0",
 					[994] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1565] = "0-0-0-0",
@@ -172,11 +285,11 @@ DataStore_CurrenciesDB = {
 				["Seal of Tempered Fate"] = 23,
 				["War Resources"] = 6,
 				["Garrison Resources"] = 22,
-				["Prismatic Manapearl"] = 27,
-				["Apexis Crystal"] = 21,
-				["Timeworn Artifact"] = 17,
 				["Coalescing Visions"] = 28,
+				["Apexis Crystal"] = 21,
 				["Echoes of Ny'alotha"] = 30,
+				["Prismatic Manapearl"] = 27,
+				["Timeworn Artifact"] = 17,
 				["Wakening Essence"] = 19,
 				["Warlords of Draenor"] = 20,
 				["Battle for Azeroth"] = 1,

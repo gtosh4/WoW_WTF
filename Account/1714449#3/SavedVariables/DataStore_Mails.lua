@@ -31,8 +31,8 @@ DataStore_MailsDB = {
 						["sender"] = "Coronavirrus",
 						["itemID"] = 153494,
 						["link"] = "|cffffffff|Hitem:153494::::::::120:264::::::|h[Thermo-Accelerated Plague Spreader]|h|r",
-						["count"] = 1,
 						["lastCheck"] = 1586058733,
+						["count"] = 1,
 						["icon"] = 2115303,
 						["daysLeft"] = 4.752315044403076,
 					}, -- [2]
@@ -41,8 +41,8 @@ DataStore_MailsDB = {
 						["sender"] = "Coronavirrus",
 						["itemID"] = 12224,
 						["link"] = "|cffffffff|Hitem:12224::::::::120:264::::::|h[Crispy Bat Wing]|h|r",
-						["count"] = 1,
 						["lastCheck"] = 1586058733,
+						["count"] = 1,
 						["icon"] = 134002,
 						["daysLeft"] = 4.752315044403076,
 					}, -- [3]
@@ -61,8 +61,8 @@ DataStore_MailsDB = {
 						["sender"] = "The Postmaster",
 						["itemID"] = 165703,
 						["link"] = "|cffa335ee|Hitem:165703::::::::120:264::::::|h[Breath of Bwonsamdi]|h|r",
-						["count"] = 20,
 						["lastCheck"] = 1586058733,
+						["count"] = 20,
 						["icon"] = 2442247,
 						["daysLeft"] = 26.85789299011231,
 					}, -- [5]
