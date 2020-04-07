@@ -24,7 +24,14 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1580712155,
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1586184698,
+				["Contacts"] = {
+					["Toshpriest"] = {
+						["note"] = "",
+						["level"] = 38,
+						["class"] = "Priest",
+					},
+				},
+				["lastUpdate"] = 1586206766,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
@@ -34,7 +41,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1586058733,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586157893,
+				["lastUpdate"] = 1586226090,
 			},
 		},
 	},

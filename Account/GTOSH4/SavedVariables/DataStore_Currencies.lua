@@ -46,12 +46,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 4301,
+						["count"] = 4430,
 					}, -- [5]
 					{
 						["isHeader"] = false,
 						["index"] = 2,
-						["count"] = 425,
+						["count"] = 225,
 					}, -- [6]
 					{
 						["isHeader"] = false,
@@ -166,7 +166,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586184264,
+				["lastUpdate"] = 1586241377,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -450,7 +450,7 @@ DataStore_CurrenciesDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586184460,
+				["lastUpdate"] = 1586197908,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]

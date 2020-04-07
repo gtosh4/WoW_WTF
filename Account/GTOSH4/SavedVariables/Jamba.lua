@@ -179,16 +179,20 @@ JambaTeamProfileDB = {
 			},
 		},
 		["Toshpriest - Area 52"] = {
-			["characterOnline"] = {
-				["Toshpriest-Area52"] = true,
-			},
 			["characterClass"] = {
+				["Toshpal-Area52"] = "PALADIN",
 				["Toshpriest-Area52"] = "PRIEST",
 			},
+			["master"] = "Toshpal-Area52",
 			["teamList"] = {
+				["Toshpal-Area52"] = 2,
 				["Toshpriest-Area52"] = 1,
 			},
-			["master"] = "Toshpriest-Area52",
+			["inviteConvertToRaid"] = false,
+			["characterOnline"] = {
+				["Toshpal-Area52"] = true,
+				["Toshpriest-Area52"] = true,
+			},
 		},
 		["Yorman - Kil'jaeden"] = {
 			["master"] = "Yorman-Kil'jaeden",
@@ -224,6 +228,13 @@ JambaTeamProfileDB = {
 			},
 		},
 		["Default"] = {
+			["characterOnline"] = {
+				["Toshpal-Kil'jaeden"] = true,
+				["Toshaman-Kil'jaeden"] = false,
+				["Toshwar-Kil'jaeden"] = false,
+				["Toshdk-Kil'jaeden"] = false,
+				["Tosh-Kil'jaeden"] = false,
+			},
 			["characterClass"] = {
 				["Toshpal-Kil'jaeden"] = "PALADIN",
 				["Toshaman-Kil'jaeden"] = "SHAMAN",
@@ -231,7 +242,6 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
 				["Tosh-Kil'jaeden"] = "PRIEST",
 			},
-			["master"] = "Toshdk-Kil'jaeden",
 			["teamList"] = {
 				["Toshpal-Kil'jaeden"] = 1,
 				["Toshaman-Kil'jaeden"] = 4,
@@ -239,13 +249,7 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'jaeden"] = 2,
 				["Tosh-Kil'jaeden"] = 3,
 			},
-			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = true,
-				["Toshaman-Kil'jaeden"] = true,
-				["Toshwar-Kil'jaeden"] = true,
-				["Toshdk-Kil'jaeden"] = false,
-				["Tosh-Kil'jaeden"] = true,
-			},
+			["master"] = "Toshdk-Kil'jaeden",
 		},
 		["Zallie - Frostwolf"] = {
 			["master"] = "Zallie-Frostwolf",
@@ -371,10 +375,15 @@ JambaTagProfileDB = {
 		},
 		["Toshpriest - Area 52"] = {
 			["tagList"] = {
-				["Toshpriest-Area52"] = {
+				["Toshpal-Area52"] = {
 					"all", -- [1]
 					"justme", -- [2]
 					"master", -- [3]
+				},
+				["Toshpriest-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
 				},
 			},
 		},

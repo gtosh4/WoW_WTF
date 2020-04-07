@@ -20,8 +20,11 @@ END
 VER 3 0000000000000007 "focus" "132885"
 /focus
 END
+VER 3 0000000000000031 "focus2" "INV_MISC_QUESTIONMARK"
+/focus [@mouseover]
+END
 VER 3 0000000000000021 "follow" "134140"
-/follow yellowy
+/follow toshpal
 END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
 /script local n=GetItemInfo(39354); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end

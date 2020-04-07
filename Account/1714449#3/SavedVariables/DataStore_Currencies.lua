@@ -11,22 +11,44 @@ DataStore_CurrenciesDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1586184652,
+				["lastUpdate"] = 1586198114,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1342] = "0-0-0-0",
-					[1580] = "0-0-0-0",
-					[1560] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "0-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1710] = "0-0-0-0",
+					[1560] = "0-0-0-0",
 					[994] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1565] = "0-0-0-0",
+					[1342] = "0-0-0-0",
+					[1580] = "0-0-0-0",
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
@@ -131,15 +153,15 @@ DataStore_CurrenciesDB = {
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1580] = "4-0-0-5",
-					[1342] = "0-0-0-0",
-					[1560] = "15683-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "355-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1710] = "355-0-0-0",
+					[1560] = "15683-0-0-0",
 					[994] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1565] = "0-0-0-0",
+					[1342] = "0-0-0-0",
+					[1580] = "4-0-0-5",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
@@ -162,7 +184,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 1319,
+						["count"] = 1412,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -187,12 +209,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 10060,
+						["count"] = 2610,
 					}, -- [9]
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 6691,
+						["count"] = 6596,
 					}, -- [10]
 					{
 						["isHeader"] = true,
@@ -237,22 +259,22 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586157868,
+				["lastUpdate"] = 1586223603,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1580] = "5-0-0-5",
-					[823] = "0-0-0-0",
-					[1560] = "6691-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "258-0-0-0",
 					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1710] = "258-0-0-0",
+					[1560] = "6596-0-0-0",
 					[994] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1565] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[1580] = "5-0-0-5",
 				},
 			},
 		},
@@ -301,23 +323,23 @@ DataStore_CurrenciesDB = {
 				["Veiled Argunite"] = 18,
 				["Dalaran Jewelcrafter's Token"] = 26,
 				["Honorbound Service Medal"] = 2,
-				["Wrath of the Lich King"] = 24,
-				["Seal of Tempered Fate"] = 23,
+				["Titan Residuum"] = 5,
+				["Curious Coin"] = 12,
 				["War Resources"] = 6,
-				["Garrison Resources"] = 22,
-				["Prismatic Manapearl"] = 27,
-				["Apexis Crystal"] = 21,
-				["Timeworn Artifact"] = 17,
-				["Coalescing Visions"] = 28,
+				["Order Resources"] = 15,
+				["Timewarped Badge"] = 8,
+				["Legion"] = 9,
+				["Battle for Azeroth"] = 1,
+				["Warlords of Draenor"] = 20,
 				["Echoes of Ny'alotha"] = 30,
 				["Wakening Essence"] = 19,
-				["Warlords of Draenor"] = 20,
-				["Battle for Azeroth"] = 1,
-				["Legion"] = 9,
-				["Timewarped Badge"] = 8,
-				["Order Resources"] = 15,
-				["Curious Coin"] = 12,
-				["Titan Residuum"] = 5,
+				["Coalescing Visions"] = 28,
+				["Timeworn Artifact"] = 17,
+				["Apexis Crystal"] = 21,
+				["Prismatic Manapearl"] = 27,
+				["Garrison Resources"] = 22,
+				["Seal of Tempered Fate"] = 23,
+				["Wrath of the Lich King"] = 24,
 				["Champion's Seal"] = 25,
 				["Legionfall War Supplies"] = 13,
 			},

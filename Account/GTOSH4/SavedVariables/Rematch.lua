@@ -27,10 +27,11 @@ RematchSettings = {
 	["QueueSortOrder"] = 1,
 	["XPos"] = 1445.817626953125,
 	["DialogYPos"] = 723.5220947265625,
-	["DialogXPos"] = 1732.83056640625,
+	["LevelingQueue"] = {
+	},
 	["UseDefaultJournal"] = true,
 	["HidePetToast"] = true,
-	["LevelingQueue"] = {
+	["FavoriteFilters"] = {
 	},
 	["Sort"] = {
 		["Order"] = 2,
@@ -74,9 +75,9 @@ RematchSettings = {
 		},
 	},
 	["YPos"] = 422.5283813476563,
+	["JournalUsed"] = true,
 	["QueueSanctuary"] = {
 	},
-	["JournalUsed"] = true,
 	["CollapsedOptHeaders"] = {
 	},
 	["SpecialSlots"] = {
@@ -87,9 +88,8 @@ RematchSettings = {
 	},
 	["PreferredMode"] = 1,
 	["CornerPos"] = "BOTTOMLEFT",
+	["DialogXPos"] = 1732.83056640625,
 	["JournalPanel"] = 1,
-	["FavoriteFilters"] = {
-	},
 	["UseTypeBar"] = false,
 	["CustomScaleValue"] = 100,
 	["PetNotes"] = {

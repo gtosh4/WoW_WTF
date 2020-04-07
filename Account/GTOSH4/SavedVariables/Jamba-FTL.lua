@@ -136,6 +136,15 @@ JambaFTLProfileDB = {
 		},
 		["Toshpriest - Area 52"] = {
 			["CharListWithModifiers"] = {
+				["Toshpal-Area52"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
 				["Toshpriest-Area52"] = {
 					["ralt"] = false,
 					["useToon"] = false,

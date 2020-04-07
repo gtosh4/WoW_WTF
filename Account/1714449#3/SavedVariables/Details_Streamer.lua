@@ -4,16 +4,16 @@ Details_StreamerDB = {
 		["Toshpal - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshtrial - Blood Furnace"] = "Toshmonk - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Toshmonk - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshmonk - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Tosku - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Koutetsu - Frostwolf"] = "Toshmonk - Kil'jaeden",
+		["Yorman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Tosku - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
@@ -41,12 +41,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "ElvUI Norm",
-			["font_size"] = 14,
+			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = true,
-			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["arrow_anchor_y"] = 0,
+			["font_size"] = 14,
 			["row_spacement"] = 28,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -56,12 +56,7 @@ Details_StreamerDB = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_color"] = {
-				0.305882352941177, -- [1]
-				0.305882352941177, -- [2]
-				0.305882352941177, -- [3]
-				0.850000008940697, -- [4]
-			},
+			["use_spark"] = true,
 			["y"] = 200.0283660888672,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
@@ -76,8 +71,13 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["row_color"] = {
+				0.305882352941177, -- [1]
+				0.305882352941177, -- [2]
+				0.305882352941177, -- [3]
+				0.850000008940697, -- [4]
+			},
 			["point"] = "BOTTOMLEFT",
-			["main_frame_strata"] = "LOW",
 			["row_height"] = 28,
 			["scale"] = 1,
 		},

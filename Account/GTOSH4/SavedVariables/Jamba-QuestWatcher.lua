@@ -36,6 +36,7 @@ JambaQuestWatcherProfileDB = {
 			["enableQuestWatcher"] = false,
 		},
 		["Toshpriest - Area 52"] = {
+			["enableQuestWatcher"] = false,
 		},
 		["Yorman - Kil'jaeden"] = {
 		},

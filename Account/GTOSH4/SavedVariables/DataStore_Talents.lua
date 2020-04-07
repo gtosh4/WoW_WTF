@@ -46,20 +46,13 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1586184264,
+				["lastUpdate"] = 1586241377,
 				["Specializations"] = {
-					5989, -- [1]
+					5978, -- [1]
 					7065, -- [2]
 					5849, -- [3]
 				},
 				["Class"] = "PALADIN",
-			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586184459,
-				["Specializations"] = {
-					0, -- [1]
-				},
-				["Class"] = "PRIEST",
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544117,
@@ -67,6 +60,13 @@ DataStore_TalentsDB = {
 					[3] = 0,
 				},
 				["Class"] = "SHAMAN",
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1586206203,
+				["Specializations"] = {
+					15, -- [1]
+				},
+				["Class"] = "PRIEST",
 			},
 			["Default.Frostwolf.Sumex"] = {
 				["lastUpdate"] = 1581544170,
@@ -374,6 +374,9 @@ DataStore_TalentsRefDB = {
 						19752, -- [1]
 						22313, -- [2]
 						22329, -- [3]
+						22315, -- [4]
+						22316, -- [5]
+						19758, -- [6]
 					},
 				}, -- [1]
 				[3] = {

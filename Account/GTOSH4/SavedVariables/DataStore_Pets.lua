@@ -190,7 +190,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1586184265,
+				["lastUpdate"] = 1586241377,
 				["CRITTER"] = {
 					315302, -- [1]
 					315229, -- [2]
@@ -315,7 +315,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586184462,
+				["lastUpdate"] = 1586197908,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,

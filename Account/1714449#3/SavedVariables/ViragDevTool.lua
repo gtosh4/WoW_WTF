@@ -2,26 +2,8 @@
 ViragDevTool_Settings = {
 	["isSideBarOpen"] = true,
 	["fontSize"] = 11,
-	["events"] = {
-		{
-			["event"] = "ALL",
-			["active"] = false,
-		}, -- [1]
-		{
-			["event"] = "CURSOR_UPDATE",
-			["active"] = false,
-		}, -- [2]
-		{
-			["active"] = false,
-			["event"] = "UNIT_AURA",
-			["unit"] = "player",
-		}, -- [3]
-		{
-			["event"] = "CHAT_MSG_CHANNEL",
-			["active"] = false,
-		}, -- [4]
-	},
 	["isWndOpen"] = false,
+	["collResizerPosition"] = 450,
 	["history"] = {
 		"ViragDevTool.settings.history", -- [1]
 		"find LFR", -- [2]
@@ -37,7 +19,7 @@ ViragDevTool_Settings = {
 			0.45, -- [3]
 			1, -- [4]
 		},
-		["gray"] = "|cFFBEB9B5",
+		["white"] = "|cFFFFFFFF",
 		["parent"] = "|cFFBEB9B5",
 		["lightgreen"] = "|cFF98FB98",
 		["number"] = {
@@ -46,30 +28,30 @@ ViragDevTool_Settings = {
 			0.4117647058823529, -- [3]
 			1, -- [4]
 		},
-		["default"] = {
-			1, -- [1]
-			1, -- [2]
-			1, -- [3]
-			1, -- [4]
-		},
+		["red"] = "|cFFFF0000",
 		["function"] = {
 			1, -- [1]
 			0.49, -- [2]
 			0.04, -- [3]
 			1, -- [4]
 		},
+		["green"] = "|cFF00FF00",
+		["lightblue"] = "|cFF96C0CE",
 		["table"] = {
 			0.41, -- [1]
 			0.8, -- [2]
 			0.94, -- [3]
 			1, -- [4]
 		},
-		["lightblue"] = "|cFF96C0CE",
-		["green"] = "|cFF00FF00",
 		["darkred"] = "|cFFC25B56",
-		["red"] = "|cFFFF0000",
+		["default"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			1, -- [4]
+		},
 		["error"] = "|cFFFF0000",
-		["white"] = "|cFFFFFFFF",
+		["gray"] = "|cFFBEB9B5",
 	},
 	["tArgs"] = {
 	},
@@ -77,5 +59,23 @@ ViragDevTool_Settings = {
 	},
 	["MAX_HISTORY_SIZE"] = 50,
 	["sideBarTabSelected"] = "history",
-	["collResizerPosition"] = 450,
+	["events"] = {
+		{
+			["event"] = "ALL",
+			["active"] = false,
+		}, -- [1]
+		{
+			["event"] = "CURSOR_UPDATE",
+			["active"] = false,
+		}, -- [2]
+		{
+			["unit"] = "player",
+			["event"] = "UNIT_AURA",
+			["active"] = false,
+		}, -- [3]
+		{
+			["event"] = "CHAT_MSG_CHANNEL",
+			["active"] = false,
+		}, -- [4]
+	},
 }

@@ -27,6 +27,7 @@ JambaFollowProfileDB = {
 		["Tosku - Kil'jaeden"] = {
 		},
 		["Toshpriest - Area 52"] = {
+			["autoFollowAfterCombat"] = true,
 		},
 		["Yorman - Kil'jaeden"] = {
 		},

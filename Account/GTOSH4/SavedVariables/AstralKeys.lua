@@ -7,7 +7,7 @@ AstralKeys = {
 		18, -- [4]
 		19, -- [5]
 		141, -- [6]
-		517516, -- [7]
+		574697, -- [7]
 	}, -- [1]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		16, -- [4]
 		21, -- [5]
 		141, -- [6]
-		488634, -- [7]
+		570925, -- [7]
 	}, -- [5]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
@@ -95,9 +95,9 @@ AstralKeys = {
 		"DRUID", -- [2]
 		248, -- [3]
 		14, -- [4]
-		16, -- [5]
+		20, -- [5]
 		141, -- [6]
-		483485, -- [7]
+		572716, -- [7]
 	}, -- [11]
 	{
 		"Blueflame-Kil'jaeden", -- [1]
@@ -115,7 +115,7 @@ AstralKeys = {
 		11, -- [4]
 		0, -- [5]
 		141, -- [6]
-		2, -- [7]
+		574668, -- [7]
 	}, -- [13]
 	{
 		"Oof-Kil'jaeden", -- [1]
@@ -149,9 +149,9 @@ AstralKeys = {
 		"MAGE", -- [2]
 		248, -- [3]
 		17, -- [4]
-		16, -- [5]
+		17, -- [5]
 		141, -- [6]
-		483321, -- [7]
+		574319, -- [7]
 	}, -- [17]
 	{
 		"Voidrage-Kil'jaeden", -- [1]
@@ -187,7 +187,7 @@ AstralKeys = {
 		14, -- [4]
 		19, -- [5]
 		141, -- [6]
-		488685, -- [7]
+		574097, -- [7]
 	}, -- [21]
 	{
 		"Voidthirst-Kil'jaeden", -- [1]
@@ -274,9 +274,9 @@ AstralFriends = {
 		369, -- [4]
 		16, -- [5]
 		141, -- [6]
-		486083, -- [7]
+		570760, -- [7]
 		"1", -- [8]
-		19, -- [9]
+		20, -- [9]
 	}, -- [2]
 	{
 		"Ngow-Kil'jaeden", -- [1]
@@ -351,9 +351,9 @@ AstralFriends = {
 		244, -- [4]
 		13, -- [5]
 		141, -- [6]
-		413139, -- [7]
+		559742, -- [7]
 		"1", -- [8]
-		11, -- [9]
+		16, -- [9]
 	}, -- [9]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -362,7 +362,7 @@ AstralFriends = {
 		353, -- [4]
 		11, -- [5]
 		141, -- [6]
-		291348, -- [7]
+		572794, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [10]
@@ -373,7 +373,7 @@ AstralFriends = {
 		252, -- [4]
 		16, -- [5]
 		141, -- [6]
-		486082, -- [7]
+		557135, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [11]
@@ -384,43 +384,18 @@ AstralFriends = {
 		248, -- [4]
 		14, -- [5]
 		141, -- [6]
-		483485, -- [7]
+		572716, -- [7]
 		"1", -- [8]
-		16, -- [9]
+		20, -- [9]
 	}, -- [12]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
 		},
 		["show_other_faction"] = {
 			["isEnabled"] = true,
-		},
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1586271600,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["no_key"] = true,
-			["party"] = true,
-			["guild"] = true,
-			["raid"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
 		},
 	},
 	["frame"] = {
@@ -449,6 +424,31 @@ AstralKeysSettings = {
 		["sorth_method"] = "character_name",
 		["current_list"] = "FRIENDS",
 	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1586271600,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["no_key"] = true,
+			["party"] = true,
+			["guild"] = true,
+			["raid"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
