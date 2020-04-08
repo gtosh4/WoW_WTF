@@ -12,7 +12,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-04-07",
+			["NextWeeklyReset"] = "2020-04-14",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -27,21 +27,17 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpriest"] = {
 						["note"] = "",
-						["level"] = 38,
 						["class"] = "Priest",
+						["level"] = 60,
 					},
 				},
-				["lastUpdate"] = 1586206766,
+				["lastUpdate"] = 1586316271,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|339159393"] = "212995|1586058603|0|1",
-					["Battle of Dazar'alor Mythic|385378986"] = "212995|1586058603|0|1",
-				},
-				["lastUpdate"] = 1586058733,
+				["lastUpdate"] = 1586275534,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586226090,
+				["lastUpdate"] = 1586304778,
 			},
 		},
 	},

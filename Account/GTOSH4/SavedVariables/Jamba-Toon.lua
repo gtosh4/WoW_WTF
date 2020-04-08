@@ -34,8 +34,8 @@ JambaToonProfileDB = {
 		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
-			["acceptDeathRequests"] = false,
 			["autoAcceptResurrectRequest"] = false,
+			["acceptDeathRequests"] = false,
 		},
 		["Zallie - Frostwolf"] = {
 		},

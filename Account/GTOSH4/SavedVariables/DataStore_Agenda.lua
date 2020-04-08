@@ -23,14 +23,14 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-04-07",
+			["NextWeeklyReset"] = "2020-04-14",
 		},
 		["Characters"] = {
 			["Default.Illidan.Toshpriest"] = {
 				["lastUpdate"] = 1585854341,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1586156282,
+				["lastUpdate"] = 1586275539,
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584069147,
@@ -44,12 +44,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1585715246,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|385645065"] = "30219|1586241379|0|1",
-					["Ny'alotha, the Waking City Mythic|385293468"] = "30219|1586241379|0|1",
-					["Battle of Dazar'alor Mythic|384941403"] = "30219|1586241379|0|1",
-				},
-				["lastUpdate"] = 1586241560,
+				["lastUpdate"] = 1586311417,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
@@ -70,11 +65,11 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpal"] = {
 						["note"] = "",
-						["level"] = 38,
 						["class"] = "Paladin",
+						["level"] = 60,
 					},
 				},
-				["lastUpdate"] = 1586206762,
+				["lastUpdate"] = 1586314477,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,

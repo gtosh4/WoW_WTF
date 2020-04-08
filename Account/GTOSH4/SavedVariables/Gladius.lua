@@ -23,29 +23,29 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
+			["auraVersion"] = 1,
+			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
-			["timerOmniCC"] = true,
-			["castBarTexture"] = "Smooth v2",
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["classIconShowSpec"] = true,
 			["modules"] = {
 				["Announcements"] = false,
 			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
 			},
+			["y"] = {
+				["arena1"] = 229.7807371077943,
+			},
+			["classIconShowSpec"] = true,
 			["castBarAttachTo"] = "Frame",
 			["castBarAnchor"] = "BOTTOMLEFT",
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
+			["castBarTexture"] = "Smooth v2",
 		},
 		["Daggny - Frostwolf"] = {
 			["auraVersion"] = 1,
@@ -70,11 +70,11 @@ Gladius2DB = {
 		["Toshpriest - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1533.599558327172,
-			},
 			["y"] = {
 				["arena1"] = 441.5132671820466,
+			},
+			["x"] = {
+				["arena1"] = 1533.599558327172,
 			},
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -108,24 +108,10 @@ Gladius2DB = {
 			},
 		},
 		["Toshpal - Kil'jaeden"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["dispellGloss"] = false,
-			["locked"] = true,
-			["y"] = {
-				["arena1"] = 442.0468255028536,
-			},
-			["x"] = {
-				["arena1"] = 1116.533833770722,
-			},
-			["dispellFaction"] = false,
+			["powerBarTexture"] = "ElvUI Blank",
+			["dispellAttachTo"] = "Trinket",
 			["trinketGloss"] = false,
-			["dispellOffsetX"] = 2,
-			["announcements"] = {
-				["health"] = false,
-				["spec"] = false,
-				["enemies"] = false,
-			},
+			["auraVersion"] = 1,
 			["tagsTexts"] = {
 				["PowerBar Left Text"] = {
 					["text"] = "[spec]",
@@ -134,10 +120,24 @@ Gladius2DB = {
 					["text"] = "[health:short]",
 				},
 			},
-			["healthBarTexture"] = "ElvUI Blank",
-			["powerBarTexture"] = "ElvUI Blank",
-			["dispellAttachTo"] = "Trinket",
 			["classIconShowSpec"] = true,
+			["dispellFaction"] = false,
+			["y"] = {
+				["arena1"] = 442.0468255028536,
+			},
+			["dispellGloss"] = false,
+			["announcements"] = {
+				["spec"] = false,
+				["health"] = false,
+				["enemies"] = false,
+			},
+			["dispellOffsetX"] = 2,
+			["locked"] = true,
+			["tagsVersion"] = 4,
+			["healthBarTexture"] = "ElvUI Blank",
+			["x"] = {
+				["arena1"] = 1116.533833770722,
+			},
 		},
 		["Toshpriest - Illidan"] = {
 			["y"] = {

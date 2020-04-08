@@ -34,182 +34,6 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			539, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1586221254,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"Cannon Barrage on Dumbers", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			543, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1586221276,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Cannon Barrage on Cadaceus", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			544, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecCadaceus|r",
-			[51] = 1586221276,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Cannon Barrage on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			545, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1586221276,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Cannon Barrage on Cadaceus", -- [1]
-			"Cadaceus-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Cadaceus-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			548, -- [11]
-			"Player-9-0AE5ED9C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecCadaceus|r",
-			[51] = 1586221295,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Cannon Barrage on Dumbers", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			549, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1586221295,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Cannon Barrage on Tosh", -- [1]
-			"Tosh-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tosh-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			550, -- [11]
-			"Player-9-0B60C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTosh|r",
-			[51] = 1586221295,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Irontide Grenadier!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			552, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1586221298,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Irontide Grenadier has ended!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
 			554, -- [11]
 			"Player-9-09B16B50", -- [12]
 			0, -- [13]
@@ -220,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1586221299,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
+		}, -- [1]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:370:15:10:8:12:120|h[Keystone: Operation: Mechagon - Workshop (15)]|h|r", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -242,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1586221309,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [2]
 		{
 			"gonna go find some food later homies thx for the key", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -264,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1586221410,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
+		}, -- [3]
 		{
 			"brb pee", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -286,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586221797,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
+		}, -- [4]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Fetid Maggot!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -308,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586221946,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Fetid Maggot has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -330,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586221946,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
+		}, -- [6]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -352,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222100,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
+		}, -- [7]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -374,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222122,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+		}, -- [8]
 		{
 			"Interrupted Elder Leaxa's |cff71d5ff|Hspell:260879:0|h[Blood Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -396,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222145,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
+		}, -- [9]
 		{
 			"Interrupted Living Rot's |cff71d5ff|Hspell:265668:0|h[Wave of Decay]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -418,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222207,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [10]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -440,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222238,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
+		}, -- [11]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Fetid Maggot!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -462,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222239,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [12]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Fetid Maggot!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -484,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222239,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [13]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Fetid Maggot has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -506,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222240,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
+		}, -- [14]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Fetid Maggot has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -528,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [15]
 		{
 			"Interrupted Living Rot's |cff71d5ff|Hspell:265668:0|h[Wave of Decay]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -550,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222268,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [16]
 		{
 			"Interrupted Living Rot's |cff71d5ff|Hspell:265668:0|h[Wave of Decay]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -572,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222268,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Fetid Maggot!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -594,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222303,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Fetid Maggot!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -616,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222303,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
+		}, -- [19]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Fetid Maggot has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -638,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222303,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
+		}, -- [20]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Fetid Maggot has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -660,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222303,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [21]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -682,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222326,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [30]
+		}, -- [22]
 		{
 			"Interrupted Diseased Lasher's |cff71d5ff|Hspell:278961:0|h[Decaying Mind]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -704,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222349,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
+		}, -- [23]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Fetid Maggot!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -726,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222406,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [24]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Fetid Maggot!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -748,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222406,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
+		}, -- [25]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Fetid Maggot has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -770,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222406,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [26]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Fetid Maggot has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -792,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222406,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [27]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -814,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222470,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+		}, -- [28]
 		{
 			"Interrupted Feral Bloodswarmer's |cff71d5ff|Hspell:266106:0|h[Sonic Screech]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -836,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222470,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:202719:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -858,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222492,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [30]
 		{
 			"Interrupted Fallen Deathspeaker's |cff71d5ff|Hspell:272183:0|h[Raise Dead]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -880,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222501,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -902,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222502,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
+		}, -- [32]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -924,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222526,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
+		}, -- [33]
 		{
 			"|cff71d5ff|Hspell:196718:0|h[Darkness]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -946,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [34]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -968,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222797,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [35]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -990,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222839,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
+		}, -- [36]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1012,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222839,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [37]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1034,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [38]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1056,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222841,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
+		}, -- [39]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1078,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222857,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
+		}, -- [40]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1100,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222878,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
+		}, -- [41]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1122,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222901,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [42]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1144,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222901,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
+		}, -- [43]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1166,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222922,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
+		}, -- [44]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265487:0|h[Shadow Bolt Volley]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1188,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222943,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:196718:0|h[Darkness]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1210,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586222998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [46]
 		{
 			"Upheaval on Meta", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1232,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223033,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [47]
 		{
 			"Upheaval on Cadadk", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -1254,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223033,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [48]
 		{
 			"3", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1276,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223036,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [49]
 		{
 			"3", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -1298,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223036,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [50]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12757:Player-9-0AF42949:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Angling for Battle]|h|r!", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -1320,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1586223063,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [59]
+		}, -- [51]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12755:Player-9-0AF42949:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Scent of the Sea]|h|r!", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -1342,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1586223076,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [60]
+		}, -- [52]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1364,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223078,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
+		}, -- [53]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1386,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223078,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [54]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1408,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223100,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [55]
 		{
 			"Interrupted Bloodsworn Defiler's |cff71d5ff|Hspell:265433:0|h[Withering Curse]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1430,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223100,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [56]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1452,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223116,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [57]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1474,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223116,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [58]
 		{
 			":D", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -1496,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNavaria|r",
 			[51] = 1586223125,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [59]
 		{
 			"|cffa335ee|Hitem:169160:6109:168641::::::120:258::16:6:6536:4802:6516:6515:1522:4786:::|h[Shorting Bit Band]|h|r", -- [1]
 			"Navaria-Kil'jaeden", -- [2]
@@ -1518,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNavaria|r",
 			[51] = 1586223132,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [60]
 		{
 			"|cff71d5ff|Hspell:202719:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1540,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [61]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1562,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223154,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [62]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1584,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223154,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+		}, -- [63]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1606,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223165,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [64]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1628,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223165,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+		}, -- [65]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1650,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223173,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
+		}, -- [66]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1672,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223173,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1694,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223197,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1716,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223197,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
+		}, -- [69]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1738,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223201,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [70]
 		{
 			"Interrupted Reanimated Guardian's |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1760,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223201,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [79]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1782,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [72]
 		{
 			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Reanimated Guardian removed |cff71d5ff|Hspell:266201:0|h[Bone Shield]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1804,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223207,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [81]
+		}, -- [73]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1826,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223236,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
+		}, -- [74]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1848,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223263,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
+		}, -- [75]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1870,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223282,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [76]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1892,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223282,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [77]
 		{
 			"welcome", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -1914,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586223335,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [78]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1936,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223371,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
+		}, -- [79]
 		{
 			"Interrupted Grotesque Horror's |cff71d5ff|Hspell:272180:0|h[Death Bolt]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1958,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223371,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [80]
 		{
 			"Cleansing Light on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1980,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1586223445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [81]
 		{
 			"|cff71d5ff|Hspell:196718:0|h[Darkness]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2002,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [82]
 		{
 			"Cleansing Light on Yukios", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2024,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586223481,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [83]
 		{
 			"Cleansing Light on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2046,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1586223510,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [84]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12500:Player-9-0BB19910:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Underrot]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2068,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223541,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [93]
+		}, -- [85]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12501:Player-9-0BB19910:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underrot]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2090,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223541,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [86]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12502:Player-9-0BB19910:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Underrot]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2112,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223541,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11183:Player-9-0BB19910:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Keystone Initiate]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2134,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223541,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
+		}, -- [88]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11184:Player-9-0BB19910:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Keystone Challenger]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2156,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223541,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
+		}, -- [89]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11185:Player-9-0BB19910:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Keystone Conqueror]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2178,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223541,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
+		}, -- [90]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11162:Player-9-0BB19910:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Keystone Master]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2200,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223541,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [99]
+		}, -- [91]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:249:16:10:8:12:120|h[Keystone: Kings' Rest (16)]|h|r", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2222,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223544,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [92]
 		{
 			"|cffa335ee|Hkeystone:158923:249:16:10:8:12:120|h[Keystone: Kings' Rest (16)]|h|r", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2244,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1586223553,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [93]
 		{
 			"|cffa335ee|Hitem:172664:6109:::::::120:250::56:8:6377:6389:6578:6579:6539:6515:1577:4786:::|h[Corrupted Gladiator's Band]|h|r|cffa335ee|Hitem:172617::168642::::::120:250::56:9:6379:4802:6389:6578:6579:6539:6513:1582:4786:::|h[Corrupted Gladiator's Plate Clasp]|h|r", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -2266,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586223825,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [94]
 		{
 			"strong", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2288,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586223837,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
+		}, -- [95]
 		{
 			"just saying all my good corruption has come from the pvp cache", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -2310,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586223892,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+		}, -- [96]
 		{
 			"xd", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -2332,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586223895,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+		}, -- [97]
 		{
 			"ok", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2354,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223941,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [106]
+		}, -- [98]
 		{
 			"game plan", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2376,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223945,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [107]
+		}, -- [99]
 		{
 			"what key?", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2398,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586223949,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [100]
 		{
 			"I'm gonna hang out w/ jess for a bit", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2420,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1586223968,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [101]
 		{
 			"yeah np", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2442,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586223972,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [110]
+		}, -- [102]
 		{
 			"!keys", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -2464,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1586223989,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
+		}, -- [103]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:370:15:10:8:12:120|h[Keystone: Operation: Mechagon - Workshop (15)]|h|r", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2486,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1586223990,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
+		}, -- [104]
 		{
 			"|cffa335ee|Hkeystone:158923:370:17:10:8:12:120|h[Keystone: Operation: Mechagon - Workshop (17)]|h|r", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2508,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586223990,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
+		}, -- [105]
 		{
 			"|cffa335ee|Hkeystone:158923:252:18:10:8:12:120|h[Keystone: Shrine of the Storm (18)]|h|r", -- [1]
 			"Choplo-Kil'jaeden", -- [2]
@@ -2530,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Choplo|r",
 			[51] = 1586223990,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [106]
 		{
 			"|cffa335ee|Hkeystone:158923:252:16:10:8:12:120|h[Keystone: Shrine of the Storm (16)]|h|r", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -2552,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1586223990,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
+		}, -- [107]
 		{
 			"|cffa335ee|Hkeystone:158923:369:18:10:8:12:120|h[Keystone: Operation: Mechagon - Junkyard (18)]|h|r", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -2574,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586223990,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+		}, -- [108]
 		{
 			"|cffa335ee|Hkeystone:158923:246:14:10:8:12:120|h[Keystone: Tol Dagor (14)]|h|r", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -2596,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1586223990,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+		}, -- [109]
 		{
 			"oh i didnt do warlock 15", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2618,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1586224029,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+		}, -- [110]
 		{
 			"what key do you have on it", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -2640,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1586224055,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+		}, -- [111]
 		{
 			"sec", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2662,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586224405,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+		}, -- [112]
 		{
 			"lol what am i doing", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2684,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586224408,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+		}, -- [113]
 		{
 			"healing", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -2706,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1586224414,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [114]
 		{
 			"i left", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2728,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586224415,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [115]
 		{
 			"barbados had lead so we are reforming", -- [1]
 			"Whirlwind-Kil'jaeden", -- [2]
@@ -2750,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWhirlwind|r",
 			[51] = 1586224421,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
+		}, -- [116]
 		{
 			"i gota lower?", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2772,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586224523,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [117]
 		{
 			"inv", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2794,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1586224567,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [118]
 		{
 			"time to get a rank 12 cloak", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -2816,6 +2640,182 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586224948,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12558:Player-9-0BB19910:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Explore Stormsong Valley]|h|r!", -- [1]
+			"Cadadk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cadadk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"Player-9-0BB19910", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Cadadk|r",
+			[51] = 1586275171,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [120]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:231:Player-9-0AF42949:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Wrecking Ball]|h|r!", -- [1]
+			"Blueflame-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blueflame-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			215, -- [11]
+			"Player-9-0AF42949", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cBlueflame|r",
+			[51] = 1586303588,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [121]
+		{
+			"|cffffff00Seat of Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"2. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			2, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			221, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1586303651,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"|cffffff00Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"2. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			2, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			222, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1586303676,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1723:Player-9-0AF42949:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Vehicular Gnomeslaughter]|h|r!", -- [1]
+			"Blueflame-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blueflame-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			223, -- [11]
+			"Player-9-0AF42949", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cBlueflame|r",
+			[51] = 1586303680,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [124]
+		{
+			"|cffffff00Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"2. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			2, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			232, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1586303737,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12576:Player-9-0AF42949:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Tour of Duty: Vol'dun]|h|r!", -- [1]
+			"Blueflame-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blueflame-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"Player-9-0AF42949", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cBlueflame|r",
+			[51] = 1586304177,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14153:Player-9-0B4F7BDA:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Uldum Under Assault]|h|r!", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Navaria-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			268, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586304285,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

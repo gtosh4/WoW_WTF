@@ -1,3109 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/ert", -- [1]
-		"/o what shit?", -- [2]
-		"/o to do dmg", -- [3]
-		"/o that and hyper isn't touching synapses", -- [4]
-		"/o then it's up ~ 20s into psychus", -- [5]
-		"/cw Pluie-Kil'jaeden sure", -- [6]
-		"no, that's your riot ID I think", -- [7]
-		"/tmw", -- [8]
-		"/o and the boomy is too busy trying to get a good typhoon", -- [9]
-		"/grid2", -- [10]
-		"/cw Meta inv", -- [11]
-		"/dn", -- [12]
-		"/m", -- [13]
-		"/ec", -- [14]
-		"/p lol k", -- [15]
-		"/gladius", -- [16]
-		"/gladius test", -- [17]
-		"/p ty nate for helping cap", -- [18]
-		"/p gonna head to bed now", -- [19]
-		"/p ^_^", -- [20]
+		"/o that and hyper isn't touching synapses", -- [1]
+		"/o then it's up ~ 20s into psychus", -- [2]
+		"/cw Pluie-Kil'jaeden sure", -- [3]
+		"no, that's your riot ID I think", -- [4]
+		"/tmw", -- [5]
+		"/o and the boomy is too busy trying to get a good typhoon", -- [6]
+		"/grid2", -- [7]
+		"/cw Meta inv", -- [8]
+		"/dn", -- [9]
+		"/m", -- [10]
+		"/ec", -- [11]
+		"/p lol k", -- [12]
+		"/gladius", -- [13]
+		"/gladius test", -- [14]
+		"/p ty nate for helping cap", -- [15]
+		"/p gonna head to bed now", -- [16]
+		"/p ^_^", -- [17]
+		"/g |cffa335ee|Hitem:169157::::::::120:65::35:7:6536:6578:6579:6537:6515:1532:4786:::|h[Logic Loop of Division]|h|r :thinking:", -- [18]
+		"/simc", -- [19]
+		"/p sure", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"WHAT ARE YOU GU YS DOING", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			106, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1586186301,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"LOL", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			107, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1586186302,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"idk i have 20 guards on me", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			108, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586186313,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"this is aids", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			109, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586186317,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
-			"i'm swimming and they're still chasing", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			110, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586186323,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
-		{
-			"are they pugged holy shit", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			114, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586186351,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
-		{
-			"oh yeah, where do i install valorant at :V", -- [1]
-			"|Kq30|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2, -- [11]
-			false, -- [12]
-			48, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1586237711,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [7]
-		{
-			"ALRIGHT", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1586237864,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
-		{
-			"WHO DIDNT FINISH THEIR WEEKLIES", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1586237868,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
-		{
-			"ON RESET'S EVE", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			7, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1586237870,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
-			"?????", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586237876,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
-		{
-			"idk", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1586237880,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
-		{
-			"ok", -- [1]
-			"Sci-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11, -- [11]
-			"Player-9-0B673F4F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1586237893,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
-		{
-			"how many CP u needs", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			17, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586237968,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
-		{
-			"i'll play fire this time kekekeke", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			18, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586237986,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
-		{
-			"WTS |cffa335ee|Hitem:163576::::::::120:267::::::|h[Captured Dune Scavenger]|h|r", -- [1]
-			"Realfakedoor-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Realfakedoor-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			19, -- [11]
-			"Player-9-0BB094BE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecRealfakedoor|r",
-			[51] = 1586238004,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"yep", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			21, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238041,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
-		{
-			"vers proc vers % and vers gear", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			22, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238046,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
-		{
-			"uh", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			26, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238088,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
-		{
-			"whats severe", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			27, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238090,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
-		{
-			"hm probably severe", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			28, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238101,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
-		{
-			"conflict major", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238151,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
-		{
-			"visions/vita/formless(if u need resist)/crucible", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238180,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
-		{
-			"WTS |cffa335ee|Hitem:163576::::::::120:267::::::|h[Captured Dune Scavenger]|h|r", -- [1]
-			"Realfakedoor-Kil'jaeden", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Realfakedoor-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			40, -- [11]
-			"Player-9-0BB094BE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecRealfakedoor|r",
-			[51] = 1586238205,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"and u can run |cff71d5ff|Htalent:17567|h[Bestow Faith]|h|r and |cff71d5ff|Htalent:22179|h[Fist of Justice]|h|r", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			41, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238226,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
-		{
-			"and then u can replace |cff71d5ff|Hpvptal:689|h[Divine Favor]|h|r with... avenging light", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			43, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238239,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
-		{
-			"i like steed", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			44, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238245,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
-		{
-			"yehh", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			47, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238277,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
-		{
-			"yeah most games are based on me not being bad", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			57, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238312,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
-		{
-			"loool", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			62, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238333,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
-		{
-			"Idrina - Mage", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			70, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238355,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
-		{
-			"Oshape - Rogue", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			71, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238364,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
-		{
-			"Interrupted Idrina-Aggramar's |cff71d5ff|Hspell:203286:0|h[Greater Pyroblast]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			72, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238370,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
-		{
-			"says something unintelligible.", -- [1]
-			"Idrina-Aggramar", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Idrina-Aggramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			73, -- [11]
-			"Player-106-0A2671DC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Idrina-Aggramar|r",
-			[51] = 1586238393,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [34]
-		{
-			"LOW HEALTH: Oshape (Rogue)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			74, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238401,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
-		{
-			"Interrupted Idrina-Aggramar's |cff71d5ff|Hspell:203286:0|h[Greater Pyroblast]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			76, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238405,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
-		{
-			"LOW HEALTH: Idrina (Mage)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			77, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238419,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [37]
-		{
-			"Enemy Spec: Fury WARRIOR", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			101, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238450,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
-		{
-			"Enemy Spec: Fury WARRIOR", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			102, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238452,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
-		{
-			"Enemy Spec: Restoration DRUID", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			103, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238452,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
-		{
-			"reaping flames is broken i swear", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			104, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238465,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
-		{
-			"Purplerain - Warrior", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			109, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238510,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [42]
-		{
-			"Avassaladøra - Druid", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			110, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238510,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
-		{
-			"LOW HEALTH: Purplerain (Warrior)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			111, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238627,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
-		{
-			"anyways", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			124, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238656,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
-		{
-			":eyes:", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			125, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238660,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
-		{
-			"Enemy Spec: Discipline PRIEST", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			134, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238677,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
-		{
-			"Enemy Spec: Beast Mastery HUNTER", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			135, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238677,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
-		{
-			"Pepnasty - Priest", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			139, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238730,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
-		{
-			"Uruundjoyy - Hunter", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			140, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238730,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
-		{
-			"LOW HEALTH: Uruundjoyy (Hunter)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			141, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238848,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
-		{
-			"Interrupted Pepnasty-Tichondrius's |cff71d5ff|Hspell:214621:0|h[Schism]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			142, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238868,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
-		{
-			"LOW HEALTH: Pepnasty (Priest)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			143, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238899,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
-		{
-			"LOW HEALTH: Uruundjoyy (Hunter)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			144, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238915,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [54]
-		{
-			"LOW HEALTH: Uruundjoyy (Hunter)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			145, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238915,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
-		{
-			"anyways", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			157, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238928,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
-		{
-			":eyes:", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			160, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238949,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12833:Player-9-0BBA7095:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Freehold]|h|r!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586238978,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [58]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12832:Player-9-0BBA7095:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Freehold]|h|r!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			172, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586238978,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [59]
-		{
-			"Enemy Spec: Destruction WARLOCK", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			173, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238978,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
-		{
-			"Enemy Spec: Assassination ROGUE", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			174, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238978,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
-		{
-			"cuz", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238991,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
-		{
-			"its toxic", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			177, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238995,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
-		{
-			"yep", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			178, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238997,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
-		{
-			"none from raid", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			179, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586238999,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
-		{
-			"all from pvp/m+", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			180, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239001,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [66]
-		{
-			"i managed to finally complete my triple judge last week", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			182, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239012,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
-		{
-			"Xaoxongmao - Rogue", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			184, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239017,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [68]
-		{
-			"Bigpinapple - Warlock", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			185, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239017,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
-		{
-			"LOW HEALTH: Bigpinapple (Warlock)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			186, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239037,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [70]
-		{
-			"SAVE ME", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			187, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586239043,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
-		{
-			"Interrupted Bigpinapple-Sargeras's |cff71d5ff|Hspell:5782:0|h[Fear]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			188, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239047,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
-		{
-			"LOW HEALTH: Bigpinapple (Warlock)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			189, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239047,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
-		{
-			"LOW HEALTH: Bigpinapple (Warlock)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			190, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239048,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
-		{
-			"hmm", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			191, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239048,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
-		{
-			"TROLL KEY", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			192, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586239055,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
-		{
-			"heh", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			193, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239061,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
-		{
-			"LOW HEALTH: Bigpinapple (Warlock)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			195, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239064,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [78]
-		{
-			"drunk arn", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			196, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586239070,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
-		{
-			"LOL", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			197, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239079,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
-		{
-			"hell yeah", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			198, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239080,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
-		{
-			"my favorite arn", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			199, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239084,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
-		{
-			"yikes", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			200, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239088,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
-		{
-			"LOL", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			201, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586239089,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
-		{
-			"dh tank is sick", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			202, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239107,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
-		{
-			"woah", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			203, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1586239109,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
-		{
-			"you 100$ rely on the healer", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			204, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239110,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
-		{
-			"and it's never my fault", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			205, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239112,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
-		{
-			"because i have no personals", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			206, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239116,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
-		{
-			"c:", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			207, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586239118,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
-		{
-			"i wonder what he's waiting for", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			208, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239119,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
-		{
-			"r u", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			209, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586239130,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
-		{
-			"gluttony", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			210, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586239132,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
-		{
-			"reported for slander jamie", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			211, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1586239140,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
-		{
-			"LOW HEALTH: Xaoxongmao (Rogue)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			212, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239166,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
-		{
-			"LOW HEALTH: Xaoxongmao (Rogue)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			213, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239180,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
-		{
-			"LOW HEALTH: Xaoxongmao (Rogue)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			214, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239180,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
-		{
-			"anyways ", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			228, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239207,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
-		{
-			"Enemy Spec: Mistweaver MONK", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			238, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239212,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [99]
-		{
-			"Enemy Spec: Assassination ROGUE", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239213,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [100]
-		{
-			"LOL", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			242, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239242,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [101]
-		{
-			"Xaysuck - Monk", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239271,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [102]
-		{
-			"Rikimarú - Rogue", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			254, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239277,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [103]
-		{
-			"LOW HEALTH: Xaysuck (Monk)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			255, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239298,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [104]
-		{
-			"Interrupted Xaysuck-Tichondrius's |cff71d5ff|Hspell:115175:0|h[Soothing Mist]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			256, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239302,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [105]
-		{
-			"LOW HEALTH: Xaysuck (Monk)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			257, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239308,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [106]
-		{
-			"LOW HEALTH: Xaysuck (Monk)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			258, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239309,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [107]
-		{
-			"LOW HEALTH: Rikimarú (Rogue)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239317,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [108]
-		{
-			"alggg", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			260, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239342,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [109]
-		{
-			"lAG", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239384,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [110]
-		{
-			"LOW HEALTH: Rikimarú (Rogue)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			262, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239497,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [111]
-		{
-			"yea mb i was lagging hard", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239509,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [112]
-		{
-			"C:", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			276, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239509,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [113]
-		{
-			"Enemy Spec: Assassination ROGUE", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			289, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239538,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [114]
-		{
-			"Enemy Spec: Assassination ROGUE", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			290, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239539,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [115]
-		{
-			"Enemy Spec: Destruction WARLOCK", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			291, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239539,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [116]
-		{
-			"them again >:o", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			292, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239548,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [117]
-		{
-			"ima be more aggro on rogue", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			294, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239551,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [118]
-		{
-			"try to sheep better", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			296, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239558,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [119]
-		{
-			"xd", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			297, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239559,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [120]
-		{
-			"yea", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			300, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239570,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [121]
-		{
-			"they cant dispel", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			301, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239573,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [122]
-		{
-			"on lock", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			304, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239577,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [123]
-		{
-			"cuz rogue can cloak it", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			310, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239582,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [124]
-		{
-			"hoj the ", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			311, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239590,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [125]
-		{
-			"lock", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			314, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239591,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [126]
-		{
-			"Arlesxd - Warlock", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			315, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239592,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [127]
-		{
-			"Coppafeel - Rogue", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			316, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239605,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [128]
-		{
-			"Interrupted Arlesxd-Ragnaros's |cff71d5ff|Hspell:116858:0|h[Chaos Bolt]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			318, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239623,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [129]
-		{
-			"LOW HEALTH: Coppafeel (Rogue)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			320, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239645,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [130]
-		{
-			"Interrupted Arlesxd-Ragnaros's |cff71d5ff|Hspell:29722:0|h[Incinerate]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			322, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239652,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [131]
-		{
-			"LOW HEALTH: Arlesxd (Warlock)", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			323, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239659,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [132]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:408:Player-9-0B8F0D61:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Hot Streak]|h|r!", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sciblaster-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			326, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239667,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [133]
-		{
-			"haha get it", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			338, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239680,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [134]
-		{
-			"cuz im a fire mage", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			339, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239682,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [135]
-		{
-			"ha", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			340, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239686,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [136]
-		{
-			":thinking:", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			341, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1586239686,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [137]
-		{
-			".", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			342, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239687,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [138]
-		{
-			"what a talented mage", -- [1]
-			"Ronald-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			343, -- [11]
-			"Player-9-080D87DB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cRonald|r",
-			[51] = 1586239702,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [139]
-		{
-			"|cff71d5ff|Hspell:195283:0|h[Hot Streak]|h|r", -- [1]
-			"Sciblaster-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			344, -- [11]
-			"Player-9-0B8F0D61", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Sciblaster|r",
-			[51] = 1586239703,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [140]
 		{
 			"Monday Sale Day!  Selling 10-20 Keys done in TIME! Get your 475 guaranteed corrupted piece. RUN BY 2.6K+! IO Players. Gear stacking and specific keys available! PST! GOLD ONLY!", -- [1]
 			"Vashdakari-Kil'jaeden", -- [2]
@@ -3125,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Vashdakari|r",
 			[51] = 1586239722,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [141]
+		}, -- [1]
 		{
 			"are you tho?", -- [1]
 			"Ronald-Kil'jaeden", -- [2]
@@ -3147,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRonald|r",
 			[51] = 1586239730,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [142]
+		}, -- [2]
 		{
 			"do you have a font", -- [1]
 			"Ronald-Kil'jaeden", -- [2]
@@ -3169,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRonald|r",
 			[51] = 1586239732,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [143]
+		}, -- [3]
 		{
 			"no", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3191,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239732,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [144]
+		}, -- [4]
 		{
 			"wlell", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3213,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239735,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [145]
+		}, -- [5]
 		{
 			"i do", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3235,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239736,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [146]
+		}, -- [6]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3257,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239736,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [147]
+		}, -- [7]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3279,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239736,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [148]
+		}, -- [8]
 		{
 			"|cffa335ee|Hitem:169314::::::::120:63::5:3:4799:1502:4786:::|h[Azshara's Font of Power]|h|r xd", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3301,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239740,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [149]
+		}, -- [9]
 		{
 			"baby font", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3323,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239742,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [150]
+		}, -- [10]
 		{
 			"relent", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3345,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239770,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [151]
+		}, -- [11]
 		{
 			"si", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3367,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239771,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [152]
+		}, -- [12]
 		{
 			"we have", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -3389,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586239771,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [153]
+		}, -- [13]
 		{
 			"3 azshara lockouts", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -3411,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586239773,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [154]
+		}, -- [14]
 		{
 			"also im lagging", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3433,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239774,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [155]
+		}, -- [15]
 		{
 			"so gl", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3455,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239775,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [156]
+		}, -- [16]
 		{
 			" pick and choose", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -3477,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586239775,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [157]
+		}, -- [17]
 		{
 			"wtf", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -3499,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586239777,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [158]
+		}, -- [18]
 		{
 			"mythic*", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -3521,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586239782,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [159]
+		}, -- [19]
 		{
 			"Squirreltagg - Demon Hunter", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3543,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239788,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [160]
+		}, -- [20]
 		{
 			"Shiftit - Druid", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3565,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239788,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [161]
+		}, -- [21]
 		{
 			"i want the rank 4 vita conduit", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3587,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239791,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [162]
+		}, -- [22]
 		{
 			"fuck font", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3609,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239792,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [163]
+		}, -- [23]
 		{
 			"says something unintelligible.", -- [1]
 			"Squirreltagg-Kil'jaeden", -- [2]
@@ -3631,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Squirreltagg|r",
 			[51] = 1586239822,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [164]
+		}, -- [24]
 		{
 			"says something unintelligible.", -- [1]
 			"Squirreltagg-Kil'jaeden", -- [2]
@@ -3653,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Squirreltagg|r",
 			[51] = 1586239857,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [165]
+		}, -- [25]
 		{
 			"says something unintelligible.", -- [1]
 			"Squirreltagg-Kil'jaeden", -- [2]
@@ -3675,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Squirreltagg|r",
 			[51] = 1586239893,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [166]
+		}, -- [26]
 		{
 			"ugh", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3697,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239951,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [167]
+		}, -- [27]
 		{
 			"this lag is shitty", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3719,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586239953,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [168]
+		}, -- [28]
 		{
 			"says something unintelligible.", -- [1]
 			"Squirreltagg-Kil'jaeden", -- [2]
@@ -3741,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Squirreltagg|r",
 			[51] = 1586239965,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [169]
+		}, -- [29]
 		{
 			"Interrupted Shiftit-Stormreaver's |cff71d5ff|Hspell:33786:0|h[Cyclone]|h|r!", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3763,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240015,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [170]
+		}, -- [30]
 		{
 			"cuz im lagging", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3785,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240045,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [171]
+		}, -- [31]
 		{
 			"cant do dmg", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3807,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240046,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [172]
+		}, -- [32]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14168:Player-9-0B3DA965:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Masked Quartet]|h|r!", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -3829,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1586240057,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [173]
+		}, -- [33]
 		{
 			"says something unintelligible.", -- [1]
 			"Squirreltagg-Kil'jaeden", -- [2]
@@ -3851,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Squirreltagg|r",
 			[51] = 1586240062,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [174]
+		}, -- [34]
 		{
 			"fuck this lag", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3873,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240083,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [175]
+		}, -- [35]
 		{
 			"zz alg", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3895,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240145,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [176]
+		}, -- [36]
 		{
 			"literally couldnt do anything", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3917,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240170,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [177]
+		}, -- [37]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:253::6:9:4824:43:6578:6579:6485:6461:6515:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r 250k |cffa335ee|Hitem:52201::::::::120:253::11::::|h[Muradin's Favor]|h|r60k |cffa335ee|Hitem:52253::::::::120:253::11::::|h[Sylvanas' Music Box]|h|r60k |cffa335ee|Hitem:52200::::::::120:253::::::|h[Reins of the Crimson Deathcharger]|h|r225k PST! Below AH Listings!", -- [1]
 			"Alüe-Kil'jaeden", -- [2]
@@ -3939,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Alüe|r",
 			[51] = 1586240194,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [178]
+		}, -- [38]
 		{
 			"nate is coming on lock", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3961,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240211,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [179]
+		}, -- [39]
 		{
 			"to ease the pain", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -3983,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240213,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [180]
+		}, -- [40]
 		{
 			"of my lag", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4005,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240217,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [181]
+		}, -- [41]
 		{
 			"LOL", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4027,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240218,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [182]
+		}, -- [42]
 		{
 			"lol k", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4049,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1586240223,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [183]
+		}, -- [43]
 		{
 			"WTS |cffa335ee|Hitem:163576::::::::120:267::::::|h[Captured Dune Scavenger]|h|r cheaper than AH", -- [1]
 			"Realfakedoor-Kil'jaeden", -- [2]
@@ -4071,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecRealfakedoor|r",
 			[51] = 1586240228,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [184]
+		}, -- [44]
 		{
 			"like i literally couldnt do anything", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4093,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240231,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [185]
+		}, -- [45]
 		{
 			"that game ", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4115,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240234,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [186]
+		}, -- [46]
 		{
 			"whoa its sci blaster", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -4137,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240276,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [187]
+		}, -- [47]
 		{
 			"well my lock is on alliance", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4159,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240281,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [188]
+		}, -- [48]
 		{
 			"Enemy Spec: Discipline PRIEST", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4181,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240290,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [189]
+		}, -- [49]
 		{
 			"Enemy Spec: Marksmanship HUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4203,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240290,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [190]
+		}, -- [50]
 		{
 			"Enemy Spec: Marksmanship HUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4225,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240290,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [191]
+		}, -- [51]
 		{
 			"o ", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4247,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240295,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [192]
+		}, -- [52]
 		{
 			"be sure to use a defensive", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4269,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240299,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [193]
+		}, -- [53]
 		{
 			"on opener", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4291,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240301,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [194]
+		}, -- [54]
 		{
 			"bop", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4313,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240309,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [195]
+		}, -- [55]
 		{
 			"these guys are gonna", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4335,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240316,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [196]
+		}, -- [56]
 		{
 			"font", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4357,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240317,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [197]
+		}, -- [57]
 		{
 			"and", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4379,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240319,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [198]
+		}, -- [58]
 		{
 			"1 shot u", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4401,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240320,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [199]
+		}, -- [59]
 		{
 			"they will stun", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4423,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240324,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [200]
+		}, -- [60]
 		{
 			"the second ur stunned", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4445,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240326,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [201]
+		}, -- [61]
 		{
 			"bop", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4467,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240326,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [202]
+		}, -- [62]
 		{
 			"dont evne hesitate", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4489,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240328,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [203]
+		}, -- [63]
 		{
 			"yes", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4511,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240337,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [204]
+		}, -- [64]
 		{
 			"3 of us", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -4533,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240337,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [205]
+		}, -- [65]
 		{
 			"just got", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -4555,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240338,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [206]
+		}, -- [66]
 		{
 			" :)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4577,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240339,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [207]
+		}, -- [67]
 		{
 			"whelled", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -4599,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240341,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [208]
+		}, -- [68]
 		{
 			"to the face", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -4621,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240341,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [209]
+		}, -- [69]
 		{
 			"Insanìty - Priest", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4643,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240342,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [210]
+		}, -- [70]
 		{
 			"Insanìty - Priest", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -4665,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240343,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [211]
+		}, -- [71]
 		{
 			"whelled?", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -4687,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586240348,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [212]
+		}, -- [72]
 		{
 			"wheeled", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -4709,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240351,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [213]
+		}, -- [73]
 		{
 			"Cashmeowside - Hunter", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4731,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240358,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [214]
+		}, -- [74]
 		{
 			"Cashmeowside - Hunter", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -4753,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240358,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [215]
+		}, -- [75]
 		{
 			"Howbowdah - Hunter", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4775,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240358,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [216]
+		}, -- [76]
 		{
 			"Howbowdah - Hunter", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -4797,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240358,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [217]
+		}, -- [77]
 		{
 			"whose the trap?", -- [1]
 			"Ronald-Kil'jaeden", -- [2]
@@ -4819,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRonald|r",
 			[51] = 1586240359,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [218]
+		}, -- [78]
 		{
 			"LOW HEALTH: Insanìty (Priest)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4841,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240360,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [219]
+		}, -- [79]
 		{
 			"LOW HEALTH: Insanìty (Priest)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -4863,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240360,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [220]
+		}, -- [80]
 		{
 			"me", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -4885,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240362,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [221]
+		}, -- [81]
 		{
 			"these dhs are banned", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -4907,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586240363,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [222]
+		}, -- [82]
 		{
 			"im dead", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -4929,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240370,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [223]
+		}, -- [83]
 		{
 			"woahhhh", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -4951,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586240370,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [224]
+		}, -- [84]
 		{
 			"well", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4973,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240373,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [225]
+		}, -- [85]
 		{
 			"nate was a tard", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -4995,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240375,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [226]
+		}, -- [86]
 		{
 			"and lined u", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5017,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240378,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [227]
+		}, -- [87]
 		{
 			"i'll have u know", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -5039,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586240380,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [228]
+		}, -- [88]
 		{
 			"i tanked an 11 fh", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -5061,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586240382,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [229]
+		}, -- [89]
 		{
 			"ok", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -5083,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586240383,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [230]
+		}, -- [90]
 		{
 			"i told u what would happen", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5105,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240392,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [231]
+		}, -- [91]
 		{
 			"xd", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5127,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240395,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [232]
+		}, -- [92]
 		{
 			"yeah i know but", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5149,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240401,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [233]
+		}, -- [93]
 		{
 			"still be prepared", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5171,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240406,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [234]
+		}, -- [94]
 		{
 			">:(", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5193,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240406,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [235]
+		}, -- [95]
 		{
 			"Monday Sale Day!  Selling 10-20 Keys done in TIME! Get your 475 guaranteed corrupted piece. RUN BY 2.6K+! IO Players. Gear stacking and specific keys available! PST! GOLD ONLY!", -- [1]
 			"Vashdakari-Kil'jaeden", -- [2]
@@ -5215,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Vashdakari|r",
 			[51] = 1586240408,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [236]
+		}, -- [96]
 		{
 			"yea", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5237,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240434,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [237]
+		}, -- [97]
 		{
 			"well thats his fault", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5259,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240442,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [238]
+		}, -- [98]
 		{
 			"what is a ranged dps doing getting feared", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5281,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240447,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [239]
+		}, -- [99]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5303,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [240]
+		}, -- [100]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5325,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [241]
+		}, -- [101]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5347,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [242]
+		}, -- [102]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5369,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [243]
+		}, -- [103]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5391,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [244]
+		}, -- [104]
 		{
 			"Enemy Spec: Windwalker MONK", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5413,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [245]
+		}, -- [105]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5435,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [246]
+		}, -- [106]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5457,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [247]
+		}, -- [107]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5479,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [248]
+		}, -- [108]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5501,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [249]
+		}, -- [109]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5523,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [250]
+		}, -- [110]
 		{
 			"Enemy Spec: Windwalker MONK", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5545,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240455,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [251]
+		}, -- [111]
 		{
 			"ur a lock u dont chase", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5567,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240459,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [252]
+		}, -- [112]
 		{
 			"xd", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5589,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240461,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [253]
+		}, -- [113]
 		{
 			"like we knew their opener was gonna happen", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5611,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240484,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [254]
+		}, -- [114]
 		{
 			"thats the key", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5633,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240488,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [255]
+		}, -- [115]
 		{
 			"yes", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5655,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240494,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [256]
+		}, -- [116]
 		{
 			"and echoing void", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5677,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240498,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [257]
+		}, -- [117]
 		{
 			"kill ww", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5699,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240507,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [258]
+		}, -- [118]
 		{
 			"Bigdam - Druid", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5721,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [259]
+		}, -- [119]
 		{
 			"Siickness - Demon Hunter", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5743,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [260]
+		}, -- [120]
 		{
 			"Jabzolo - Monk", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5765,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240514,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [261]
+		}, -- [121]
 		{
 			"Bigdam - Druid", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5787,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240514,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [262]
+		}, -- [122]
 		{
 			"Siickness - Demon Hunter", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5809,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240514,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [263]
+		}, -- [123]
 		{
 			"Jabzolo - Monk", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5831,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240514,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [264]
+		}, -- [124]
 		{
 			"AHAHAHAHA", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -5853,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240561,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [265]
+		}, -- [125]
 		{
 			"i mean", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5875,7 +2794,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240619,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [266]
+		}, -- [126]
 		{
 			"give me ", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5897,7 +2816,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240627,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [267]
+		}, -- [127]
 		{
 			"like", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5919,7 +2838,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240628,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [268]
+		}, -- [128]
 		{
 			"2 seconds", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -5941,7 +2860,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240629,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [269]
+		}, -- [129]
 		{
 			"yea", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5963,7 +2882,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240638,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [270]
+		}, -- [130]
 		{
 			"stay there i have gate", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -5985,7 +2904,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240641,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [271]
+		}, -- [131]
 		{
 			"i use gate unlike some monkey", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6007,7 +2926,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240662,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [272]
+		}, -- [132]
 		{
 			"named mich", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6029,7 +2948,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240665,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [273]
+		}, -- [133]
 		{
 			"230k temp xd", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6051,7 +2970,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240686,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [274]
+		}, -- [134]
 		{
 			"WTS |cffa335ee|Hitem:163576::::::::120:267::::::|h[Captured Dune Scavenger]|h|r cheaper than AH", -- [1]
 			"Realfakedoor-Kil'jaeden", -- [2]
@@ -6073,7 +2992,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecRealfakedoor|r",
 			[51] = 1586240701,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [275]
+		}, -- [135]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6095,7 +3014,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240705,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [276]
+		}, -- [136]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6117,7 +3036,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240706,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [277]
+		}, -- [137]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6139,7 +3058,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240706,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [278]
+		}, -- [138]
 		{
 			"Enemy Spec: Unholy DEATHKNIGHT", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6161,7 +3080,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240706,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [279]
+		}, -- [139]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6183,7 +3102,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240706,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [280]
+		}, -- [140]
 		{
 			"Enemy Spec: Unholy DEATHKNIGHT", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6205,7 +3124,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240706,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [281]
+		}, -- [141]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6227,7 +3146,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240707,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [282]
+		}, -- [142]
 		{
 			"Enemy Spec: Unholy DEATHKNIGHT", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6249,7 +3168,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240707,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [283]
+		}, -- [143]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6271,7 +3190,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240707,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [284]
+		}, -- [144]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6293,7 +3212,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240708,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [285]
+		}, -- [145]
 		{
 			"Enemy Spec: Unholy DEATHKNIGHT", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6315,7 +3234,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240708,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [286]
+		}, -- [146]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6337,7 +3256,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240708,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [287]
+		}, -- [147]
 		{
 			"also", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6359,7 +3278,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240710,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [288]
+		}, -- [148]
 		{
 			"why are they going me", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6381,7 +3300,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240712,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [289]
+		}, -- [149]
 		{
 			"nate pump them", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6403,7 +3322,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240715,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [290]
+		}, -- [150]
 		{
 			"rofl", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6425,7 +3344,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240715,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [291]
+		}, -- [151]
 		{
 			">:o", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6447,7 +3366,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240716,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [292]
+		}, -- [152]
 		{
 			"moment I went to pump they ran ._.", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6469,7 +3388,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240725,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [293]
+		}, -- [153]
 		{
 			"dont press dark soul", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6491,7 +3410,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240731,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [294]
+		}, -- [154]
 		{
 			"just kil them without it", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6513,7 +3432,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240734,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [295]
+		}, -- [155]
 		{
 			"dark soul is the button u press when u want them to run", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6535,7 +3454,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240742,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [296]
+		}, -- [156]
 		{
 			"like openers", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6557,7 +3476,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240744,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [297]
+		}, -- [157]
 		{
 			"or ccs", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6579,7 +3498,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240746,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [298]
+		}, -- [158]
 		{
 			":)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6601,7 +3520,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240750,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [299]
+		}, -- [159]
 		{
 			"Wample - Demon Hunter", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6623,7 +3542,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240761,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [300]
+		}, -- [160]
 		{
 			"Setmek - Death Knight", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6645,7 +3564,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240761,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [301]
+		}, -- [161]
 		{
 			"Goldbear - Druid", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6667,7 +3586,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240762,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [302]
+		}, -- [162]
 		{
 			"Wample - Demon Hunter", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6689,7 +3608,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240762,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [303]
+		}, -- [163]
 		{
 			"Setmek - Death Knight", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6711,7 +3630,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240762,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [304]
+		}, -- [164]
 		{
 			"Goldbear - Druid", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6733,7 +3652,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240762,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [305]
+		}, -- [165]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14019:Player-9-0BBA7095:1:4:6:20:4294967295:4294967295:4294967295:4294967295|h[Smoke Test]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -6755,7 +3674,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586240817,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [306]
+		}, -- [166]
 		{
 			"LOW HEALTH: Setmek (Death Knight)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6777,7 +3696,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240821,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [307]
+		}, -- [167]
 		{
 			"LOW HEALTH: Setmek (Death Knight)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6799,7 +3718,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240821,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [308]
+		}, -- [168]
 		{
 			"LOW HEALTH: Wample (Demon Hunter)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6821,7 +3740,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240826,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [309]
+		}, -- [169]
 		{
 			"LOW HEALTH: Wample (Demon Hunter)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6843,7 +3762,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240826,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [310]
+		}, -- [170]
 		{
 			"LOW HEALTH: Goldbear (Druid)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6865,7 +3784,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240833,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [311]
+		}, -- [171]
 		{
 			"LOW HEALTH: Goldbear (Druid)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6887,7 +3806,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240833,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [312]
+		}, -- [172]
 		{
 			"LOW HEALTH: Wample (Demon Hunter)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6909,7 +3828,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240839,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [313]
+		}, -- [173]
 		{
 			"LOW HEALTH: Wample (Demon Hunter)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6931,7 +3850,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240839,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [314]
+		}, -- [174]
 		{
 			"LOW HEALTH: Wample (Demon Hunter)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -6953,7 +3872,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240839,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [315]
+		}, -- [175]
 		{
 			"LOW HEALTH: Wample (Demon Hunter)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6975,7 +3894,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240839,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [316]
+		}, -- [176]
 		{
 			"i just dropped 4 pies into him", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -6997,7 +3916,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240857,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [317]
+		}, -- [177]
 		{
 			"idk ", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7019,7 +3938,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240864,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [318]
+		}, -- [178]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7041,7 +3960,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240893,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [319]
+		}, -- [179]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7063,7 +3982,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240893,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [320]
+		}, -- [180]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7085,7 +4004,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240894,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [321]
+		}, -- [181]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7107,7 +4026,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240894,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [322]
+		}, -- [182]
 		{
 			"Enemy Spec: Unholy DEATHKNIGHT", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7129,7 +4048,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240894,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [323]
+		}, -- [183]
 		{
 			"Enemy Spec: Restoration DRUID", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7151,7 +4070,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240894,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [324]
+		}, -- [184]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7173,7 +4092,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240894,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [325]
+		}, -- [185]
 		{
 			"Enemy Spec: Unholy DEATHKNIGHT", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7195,7 +4114,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240894,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [326]
+		}, -- [186]
 		{
 			"same thing", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7217,7 +4136,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240903,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [327]
+		}, -- [187]
 		{
 			"triangle", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7239,7 +4158,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240905,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [328]
+		}, -- [188]
 		{
 			"and", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7261,7 +4180,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240907,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [329]
+		}, -- [189]
 		{
 			"pump dk", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7283,7 +4202,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240908,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [330]
+		}, -- [190]
 		{
 			"get his defensives early", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7305,7 +4224,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240914,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [331]
+		}, -- [191]
 		{
 			"and i kill him with gpy spam", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7327,7 +4246,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240919,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [332]
+		}, -- [192]
 		{
 			"i'll combust his abom", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7349,7 +4268,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240926,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [333]
+		}, -- [193]
 		{
 			"rofl", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7371,7 +4290,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240928,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [334]
+		}, -- [194]
 		{
 			"Ajora - Demon Hunter", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7393,7 +4312,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240951,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [335]
+		}, -- [195]
 		{
 			"Athena - Death Knight", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7415,7 +4334,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240951,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [336]
+		}, -- [196]
 		{
 			"Ajora - Demon Hunter", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7437,7 +4356,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240951,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [337]
+		}, -- [197]
 		{
 			"Athena - Death Knight", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7459,7 +4378,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240951,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [338]
+		}, -- [198]
 		{
 			"Xernxakzul - Druid", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7481,7 +4400,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240964,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [339]
+		}, -- [199]
 		{
 			"Xernxakzul - Druid", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7503,7 +4422,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240966,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [340]
+		}, -- [200]
 		{
 			"LOW HEALTH: Ajora (Demon Hunter)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7525,7 +4444,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240977,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [341]
+		}, -- [201]
 		{
 			"LOW HEALTH: Ajora (Demon Hunter)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7547,7 +4466,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240977,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [342]
+		}, -- [202]
 		{
 			"LOW HEALTH: Athena (Death Knight)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7569,7 +4488,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240985,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [343]
+		}, -- [203]
 		{
 			"LOW HEALTH: Athena (Death Knight)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7591,7 +4510,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240985,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [344]
+		}, -- [204]
 		{
 			"i believe in u guys", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -7613,7 +4532,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586240991,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [345]
+		}, -- [205]
 		{
 			"LOW HEALTH: Xernxakzul (Druid)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7635,7 +4554,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240994,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [346]
+		}, -- [206]
 		{
 			"LOW HEALTH: Xernxakzul (Druid)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -7657,7 +4576,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586240994,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [347]
+		}, -- [207]
 		{
 			"ROFL", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -7679,7 +4598,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586240994,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [348]
+		}, -- [208]
 		{
 			"ok remember when i said i was combusting the dk", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7701,7 +4620,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240996,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [349]
+		}, -- [209]
 		{
 			"i lied", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7723,7 +4642,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586240997,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [350]
+		}, -- [210]
 		{
 			"Yea =]", -- [1]
 			"Ronald-Kil'jaeden", -- [2]
@@ -7745,7 +4664,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRonald|r",
 			[51] = 1586241002,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [351]
+		}, -- [211]
 		{
 			"you can do it", -- [1]
 			"Ronald-Kil'jaeden", -- [2]
@@ -7767,7 +4686,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRonald|r",
 			[51] = 1586241006,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [352]
+		}, -- [212]
 		{
 			"b4 reset", -- [1]
 			"Ronald-Kil'jaeden", -- [2]
@@ -7789,7 +4708,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRonald|r",
 			[51] = 1586241009,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [353]
+		}, -- [213]
 		{
 			"cuz i got 2 gpies on the dh", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7811,7 +4730,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241015,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [354]
+		}, -- [214]
 		{
 			"o.o", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7833,7 +4752,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241019,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [355]
+		}, -- [215]
 		{
 			"Enemy Spec: Unholy DEATHKNIGHT", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7855,7 +4774,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241029,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [356]
+		}, -- [216]
 		{
 			"Enemy Spec: Mistweaver MONK", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7877,7 +4796,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241029,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [357]
+		}, -- [217]
 		{
 			"Enemy Spec: Arms WARRIOR", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7899,7 +4818,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241029,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [358]
+		}, -- [218]
 		{
 			"anyways", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7921,7 +4840,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241055,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [359]
+		}, -- [219]
 		{
 			"T R I A N GL E", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7943,7 +4862,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241058,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [360]
+		}, -- [220]
 		{
 			":)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -7965,7 +4884,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241059,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [361]
+		}, -- [221]
 		{
 			"these fucking dhs", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -7987,7 +4906,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586241076,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [362]
+		}, -- [222]
 		{
 			"are like", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -8009,7 +4928,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586241078,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [363]
+		}, -- [223]
 		{
 			"FUCK", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -8031,7 +4950,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586241082,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [364]
+		}, -- [224]
 		{
 			"YOU", -- [1]
 			"Rivalry-Kil'jaeden", -- [2]
@@ -8053,7 +4972,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1586241082,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [365]
+		}, -- [225]
 		{
 			"goblins", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -8075,7 +4994,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586241084,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [366]
+		}, -- [226]
 		{
 			"????", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8097,7 +5016,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241085,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [367]
+		}, -- [227]
 		{
 			"Kennyomega - Monk", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -8119,7 +5038,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241087,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [368]
+		}, -- [228]
 		{
 			"Phatstove - Warrior", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -8141,7 +5060,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241087,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [369]
+		}, -- [229]
 		{
 			"Malganus - Death Knight", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -8163,7 +5082,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241087,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [370]
+		}, -- [230]
 		{
 			"Phatstove - Warrior", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8185,7 +5104,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241090,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [371]
+		}, -- [231]
 		{
 			"Malganus - Death Knight", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8207,7 +5126,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241090,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [372]
+		}, -- [232]
 		{
 			"Kennyomega - Monk", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8229,7 +5148,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241090,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [373]
+		}, -- [233]
 		{
 			"drooling over shock bots", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -8251,7 +5170,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586241094,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [374]
+		}, -- [234]
 		{
 			"and pulling 40 mobs", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -8273,7 +5192,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586241097,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [375]
+		}, -- [235]
 		{
 			"xd", -- [1]
 			"Evangelos-Kil'jaeden", -- [2]
@@ -8295,7 +5214,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evangelos|r",
 			[51] = 1586241102,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [376]
+		}, -- [236]
 		{
 			"nice", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -8317,7 +5236,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586241102,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [377]
+		}, -- [237]
 		{
 			"LOW HEALTH: Kennyomega (Monk)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -8339,7 +5258,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241126,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [378]
+		}, -- [238]
 		{
 			"LOW HEALTH: Kennyomega (Monk)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8361,7 +5280,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241126,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [379]
+		}, -- [239]
 		{
 			"Interrupted Kennyomega-Sargeras's |cff71d5ff|Hspell:115175:0|h[Soothing Mist]|h|r!", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8383,7 +5302,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241131,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [380]
+		}, -- [240]
 		{
 			"LOW HEALTH: Phatstove (Warrior)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -8405,7 +5324,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241142,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [381]
+		}, -- [241]
 		{
 			"LOW HEALTH: Phatstove (Warrior)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8427,7 +5346,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241142,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [382]
+		}, -- [242]
 		{
 			"LOW HEALTH: Malganus (Death Knight)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -8449,7 +5368,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241146,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [383]
+		}, -- [243]
 		{
 			"LOW HEALTH: Malganus (Death Knight)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8471,7 +5390,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241146,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [384]
+		}, -- [244]
 		{
 			"anytways", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8493,7 +5412,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241155,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [385]
+		}, -- [245]
 		{
 			"well", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8515,7 +5434,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241165,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [386]
+		}, -- [246]
 		{
 			"when u press wings", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8537,7 +5456,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241168,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [387]
+		}, -- [247]
 		{
 			"we're immortal", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8559,7 +5478,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241169,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [388]
+		}, -- [248]
 		{
 			"so", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8581,7 +5500,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241170,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [389]
+		}, -- [249]
 		{
 			"save it for when u need to be godzilla", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8603,7 +5522,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241177,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [390]
+		}, -- [250]
 		{
 			"probably", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8625,7 +5544,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241180,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [391]
+		}, -- [251]
 		{
 			"yea", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8647,7 +5566,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241188,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [392]
+		}, -- [252]
 		{
 			"something like that", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8669,7 +5588,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241190,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [393]
+		}, -- [253]
 		{
 			"LOL", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8691,7 +5610,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241208,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [394]
+		}, -- [254]
 		{
 			"VULTURES", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8713,7 +5632,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241209,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [395]
+		}, -- [255]
 		{
 			"yayyy", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -8735,7 +5654,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586241213,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [396]
+		}, -- [256]
 		{
 			"gj", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -8757,7 +5676,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586241213,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [397]
+		}, -- [257]
 		{
 			"WTS |cffa335ee|Hitem:163576::::::::120:267::::::|h[Captured Dune Scavenger]|h|r cheaper than AH", -- [1]
 			"Realfakedoor-Kil'jaeden", -- [2]
@@ -8779,7 +5698,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecRealfakedoor|r",
 			[51] = 1586241226,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [398]
+		}, -- [258]
 		{
 			"how much til cap", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8801,7 +5720,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241228,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [399]
+		}, -- [259]
 		{
 			"c:", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8823,7 +5742,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241230,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [400]
+		}, -- [260]
 		{
 			"so 1 win", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8845,7 +5764,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241237,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [401]
+		}, -- [261]
 		{
 			"cool", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8867,7 +5786,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241247,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [402]
+		}, -- [262]
 		{
 			"Enemy Spec: Retribution PALADIN", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8889,7 +5808,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241248,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [403]
+		}, -- [263]
 		{
 			"Enemy Spec: Mistweaver MONK", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8911,7 +5830,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241248,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [404]
+		}, -- [264]
 		{
 			"Enemy Spec: Havoc DEMONHUNTER", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8933,7 +5852,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241248,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [405]
+		}, -- [265]
 		{
 			"well its 35 ", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8955,7 +5874,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241254,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [406]
+		}, -- [266]
 		{
 			"ye", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8977,7 +5896,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241260,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [407]
+		}, -- [267]
 		{
 			"RET", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -8999,7 +5918,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241265,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [408]
+		}, -- [268]
 		{
 			"RET???", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9021,7 +5940,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241267,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [409]
+		}, -- [269]
 		{
 			"RET??", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9043,7 +5962,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241269,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [410]
+		}, -- [270]
 		{
 			"ret?", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9065,7 +5984,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241271,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [411]
+		}, -- [271]
 		{
 			"dh", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9087,7 +6006,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241273,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [412]
+		}, -- [272]
 		{
 			"ok", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9109,7 +6028,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241290,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [413]
+		}, -- [273]
 		{
 			"im gonna afk and pump pies", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9131,7 +6050,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241294,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [414]
+		}, -- [274]
 		{
 			"u live", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9153,7 +6072,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241295,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [415]
+		}, -- [275]
 		{
 			"nou", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9175,7 +6094,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241297,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [416]
+		}, -- [276]
 		{
 			"fgt", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9197,7 +6116,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241298,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [417]
+		}, -- [277]
 		{
 			"wtf", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9219,7 +6138,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241299,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [418]
+		}, -- [278]
 		{
 			"fite me", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9241,7 +6160,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241300,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [419]
+		}, -- [279]
 		{
 			"?", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9263,7 +6182,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241301,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [420]
+		}, -- [280]
 		{
 			"Vyyrus - Paladin", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9285,7 +6204,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241302,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [421]
+		}, -- [281]
 		{
 			"Kazemort - Monk", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9307,7 +6226,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241302,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [422]
+		}, -- [282]
 		{
 			"Badassbum - Demon Hunter", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9329,7 +6248,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241302,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [423]
+		}, -- [283]
 		{
 			"Vyyrus - Paladin", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9351,7 +6270,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241302,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [424]
+		}, -- [284]
 		{
 			"Kazemort - Monk", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9373,7 +6292,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241302,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [425]
+		}, -- [285]
 		{
 			"Badassbum - Demon Hunter", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9395,7 +6314,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241302,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [426]
+		}, -- [286]
 		{
 			"<3", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9417,7 +6336,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241303,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [427]
+		}, -- [287]
 		{
 			"??????????????", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9439,7 +6358,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241315,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [428]
+		}, -- [288]
 		{
 			"LOW HEALTH: Kazemort (Monk)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9461,7 +6380,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241329,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [429]
+		}, -- [289]
 		{
 			"LOW HEALTH: Kazemort (Monk)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9483,7 +6402,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241329,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [430]
+		}, -- [290]
 		{
 			"LOW HEALTH: Vyyrus (Paladin)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9505,7 +6424,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241332,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [431]
+		}, -- [291]
 		{
 			"LOW HEALTH: Vyyrus (Paladin)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9527,7 +6446,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241332,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [432]
+		}, -- [292]
 		{
 			"Interrupted Kazemort-ShatteredHand's |cff71d5ff|Hspell:191837:0|h[Essence Font]|h|r!", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9549,7 +6468,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241339,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [433]
+		}, -- [293]
 		{
 			"LOW HEALTH: Badassbum (Demon Hunter)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9571,7 +6490,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241346,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [434]
+		}, -- [294]
 		{
 			"LOW HEALTH: Badassbum (Demon Hunter)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9593,7 +6512,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241346,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [435]
+		}, -- [295]
 		{
 			"my man", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9615,7 +6534,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241349,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [436]
+		}, -- [296]
 		{
 			"bubbled", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9637,7 +6556,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241350,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [437]
+		}, -- [297]
 		{
 			"looks like gordy", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9659,7 +6578,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241352,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [438]
+		}, -- [298]
 		{
 			"a fear", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9681,7 +6600,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241353,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [439]
+		}, -- [299]
 		{
 			"is a god now", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9703,7 +6622,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241354,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [440]
+		}, -- [300]
 		{
 			"holy", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9725,7 +6644,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241354,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [441]
+		}, -- [301]
 		{
 			"fuck", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9747,7 +6666,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241355,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [442]
+		}, -- [302]
 		{
 			"hes frida", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9769,7 +6688,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241359,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [443]
+		}, -- [303]
 		{
 			"he just predicted the weather", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9791,7 +6710,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241361,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [444]
+		}, -- [304]
 		{
 			"high off winds", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9813,7 +6732,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241361,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [445]
+		}, -- [305]
 		{
 			"wins*", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9835,7 +6754,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241364,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [446]
+		}, -- [306]
 		{
 			"LOW HEALTH: Kazemort (Monk)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9857,7 +6776,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241364,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [447]
+		}, -- [307]
 		{
 			"LOW HEALTH: Kazemort (Monk)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9879,7 +6798,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241364,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [448]
+		}, -- [308]
 		{
 			"LOW HEALTH: Kazemort (Monk)", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9901,7 +6820,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241364,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [449]
+		}, -- [309]
 		{
 			"LOW HEALTH: Kazemort (Monk)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9923,7 +6842,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241364,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [450]
+		}, -- [310]
 		{
 			"lol", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9945,7 +6864,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241364,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [451]
+		}, -- [311]
 		{
 			"yea", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -9967,7 +6886,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241378,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [452]
+		}, -- [312]
 		{
 			"The tail end of the hoj", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -9989,7 +6908,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241384,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [453]
+		}, -- [313]
 		{
 			"u predicted the weather", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10011,7 +6930,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241384,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [454]
+		}, -- [314]
 		{
 			"I also feared him", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10033,7 +6952,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241388,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [455]
+		}, -- [315]
 		{
 			"point being ", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10055,7 +6974,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241396,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [456]
+		}, -- [316]
 		{
 			"im laughing rly hard", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10077,7 +6996,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241398,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [457]
+		}, -- [317]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::120:253::6:9:4824:43:6578:6579:6485:6461:6515:1517:4786:::|h[Gauntlets of Nightmare Manifest]|h|r 250k |cffa335ee|Hitem:52201::::::::120:253::11::::|h[Muradin's Favor]|h|r60k |cffa335ee|Hitem:52253::::::::120:253::11::::|h[Sylvanas' Music Box]|h|r60k |cffa335ee|Hitem:52200::::::::120:253::::::|h[Reins of the Crimson Deathcharger]|h|r225k PST! Below AH Listings!", -- [1]
 			"Alüe-Kil'jaeden", -- [2]
@@ -10099,7 +7018,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Alüe|r",
 			[51] = 1586241401,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [458]
+		}, -- [318]
 		{
 			"anyays i just gpy and reaped the dh", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10121,7 +7040,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241406,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [459]
+		}, -- [319]
 		{
 			"then combust swap after caccoon on mw", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10143,7 +7062,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241412,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [460]
+		}, -- [320]
 		{
 			"and uh yeah he ran in circles", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10165,7 +7084,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241417,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [461]
+		}, -- [321]
 		{
 			"didnt even heal", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10187,7 +7106,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241418,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [462]
+		}, -- [322]
 		{
 			"o.o", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10209,7 +7128,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241420,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [463]
+		}, -- [323]
 		{
 			"lol", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10231,7 +7150,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241422,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [464]
+		}, -- [324]
 		{
 			"idk if u saw that benny hill ", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10253,7 +7172,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241426,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [465]
+		}, -- [325]
 		{
 			"stuff", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10275,7 +7194,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241427,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [466]
+		}, -- [326]
 		{
 			"i just scorch chased him", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10297,7 +7216,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241431,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [467]
+		}, -- [327]
 		{
 			"I have the song", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10319,7 +7238,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241431,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [468]
+		}, -- [328]
 		{
 			"sec", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10341,7 +7260,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241432,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [469]
+		}, -- [329]
 		{
 			"ILL FIND IT NOW", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10363,7 +7282,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241438,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [470]
+		}, -- [330]
 		{
 			"pretty much that", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10385,7 +7304,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241440,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [471]
+		}, -- [331]
 		{
 			"monkaW", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10407,7 +7326,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241443,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [472]
+		}, -- [332]
 		{
 			"its so quiet now", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10429,7 +7348,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241474,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [473]
+		}, -- [333]
 		{
 			"the children went to sleep", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10451,7 +7370,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241478,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [474]
+		}, -- [334]
 		{
 			"...", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -10473,7 +7392,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1586241483,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [475]
+		}, -- [335]
 		{
 			"o.o", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10495,7 +7414,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241485,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [476]
+		}, -- [336]
 		{
 			"ur  one of em", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -10517,7 +7436,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1586241486,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [477]
+		}, -- [337]
 		{
 			"oh noo", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10539,7 +7458,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241491,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [478]
+		}, -- [338]
 		{
 			"same dude", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10561,7 +7480,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241494,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [479]
+		}, -- [339]
 		{
 			"ayy", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10583,7 +7502,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241503,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [480]
+		}, -- [340]
 		{
 			"sci you think cin would wanna", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10605,7 +7524,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241526,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [481]
+		}, -- [341]
 		{
 			"do 3s", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10627,7 +7546,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241528,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [482]
+		}, -- [342]
 		{
 			":^)", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10649,7 +7568,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241529,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [483]
+		}, -- [343]
 		{
 			"uh", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10671,7 +7590,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241533,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [484]
+		}, -- [344]
 		{
 			"see how it feels to heal a turbo", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10693,7 +7612,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241535,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [485]
+		}, -- [345]
 		{
 			"idk ask him i dc", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10715,7 +7634,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241535,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [486]
+		}, -- [346]
 		{
 			"kekw", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10737,7 +7656,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241536,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [487]
+		}, -- [347]
 		{
 			"but warning u", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10759,7 +7678,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241537,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [488]
+		}, -- [348]
 		{
 			"im lagging super hard", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10781,7 +7700,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241541,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [489]
+		}, -- [349]
 		{
 			"oh", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10803,7 +7722,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241543,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [490]
+		}, -- [350]
 		{
 			"zz", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10825,7 +7744,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241544,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [491]
+		}, -- [351]
 		{
 			"ty nate for helping cap", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10847,7 +7766,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1586241545,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [492]
+		}, -- [352]
 		{
 			"so ur useless", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10869,7 +7788,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241549,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [493]
+		}, -- [353]
 		{
 			"np ", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10891,7 +7810,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241551,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [494]
+		}, -- [354]
 		{
 			"gonna head to bed now", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10913,7 +7832,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1586241556,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [495]
+		}, -- [355]
 		{
 			"^_^", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10935,7 +7854,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1586241559,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [496]
+		}, -- [356]
 		{
 			"gn bud", -- [1]
 			"Playtimes-Kil'jaeden", -- [2]
@@ -10957,7 +7876,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecPlaytimes|r",
 			[51] = 1586241560,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [497]
+		}, -- [357]
 		{
 			"yeah thats why i  went and did 3s instead so u could carry me", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -10979,7 +7898,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241561,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [498]
+		}, -- [358]
 		{
 			"gn gordy C:", -- [1]
 			"Sciblaster-Kil'jaeden", -- [2]
@@ -11000,6 +7919,3086 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cff3ec5e9Sciblaster|r",
 			[51] = 1586241563,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [359]
+		{
+			"|cffa335ee|Hitem:169157::::::::120:65::35:7:6536:6578:6579:6537:6515:1532:4786:::|h[Logic Loop of Division]|h|r :thinking:", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1586274220,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [360]
+		{
+			"[WTS] Classic WoW 1-60 leveling in 2 weeks! Professions boosts and many more to come. Face your legendary adventure with our help! Visit wow-classic.gteam.pro for more!                         ", -- [1]
+			"Skkanna-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skkanna-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2188, -- [11]
+			"Player-9-0BBD4CA8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Skkanna|r",
+			[51] = 1586297431,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [361]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:231:Player-9-0AF42949:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Wrecking Ball]|h|r!", -- [1]
+			"Blueflame-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blueflame-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
+			"Player-9-0AF42949", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cBlueflame|r",
+			[51] = 1586303588,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [362]
+		{
+			"|cffffff00Seat of Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			241, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1586303651,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [363]
+		{
+			"|cffffff00Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			242, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1586303676,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [364]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:1723:Player-9-0AF42949:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Vehicular Gnomeslaughter]|h|r!", -- [1]
+			"Blueflame-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blueflame-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			"Player-9-0AF42949", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cBlueflame|r",
+			[51] = 1586303680,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [365]
+		{
+			"|cffffff00Ramkahen is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			253, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1586303737,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [366]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12576:Player-9-0AF42949:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Tour of Duty: Vol'dun]|h|r!", -- [1]
+			"Blueflame-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blueflame-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			270, -- [11]
+			"Player-9-0AF42949", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cBlueflame|r",
+			[51] = 1586304177,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [367]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14153:Player-9-0B4F7BDA:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Uldum Under Assault]|h|r!", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Navaria-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			289, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586304285,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [368]
+		{
+			"does jess want to do a 4? or this is good", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307215,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [369]
+		{
+			"up 2 u guys", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586307231,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [370]
+		{
+			"@tosh", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307239,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [371]
+		{
+			"jk", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307240,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [372]
+		{
+			"awoo", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307288,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [373]
+		{
+			"r", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307586,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [374]
+		{
+			"Interrupted Voidbound Shaman's |cff71d5ff|Hspell:297220:0|h[Twisted Lightning]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307609,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [375]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Voidbound Shaman!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307638,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [376]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Voidbound Shaman has ended!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307638,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [377]
+		{
+			"Interrupted Voidbound Shaman's |cff71d5ff|Hspell:297220:0|h[Twisted Lightning]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307639,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [378]
+		{
+			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Crawling Corruption removed |cff71d5ff|Hspell:296510:0|h[Creepy Crawler]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307693,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [379]
+		{
+			"Interrupted K'thir Dominator's |cff71d5ff|Hspell:298025:0|h[Void Bolt]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307781,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [380]
+		{
+			"Interrupted K'thir Dominator's |cff71d5ff|Hspell:298025:0|h[Void Bolt]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			73, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586307831,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [381]
+		{
+			"this quest is aids", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			76, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586307837,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [382]
+		{
+			"|cffffff00|Hquest:55715:-1:120:120:0|h[Feed Them All]|h|r", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586307839,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [383]
+		{
+			"T_T", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			80, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586307846,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [384]
+		{
+			"ya it is", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			82, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586307876,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [385]
+		{
+			"shoudl just skip it", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			84, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586307882,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [386]
+		{
+			"need REP", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			89, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586307892,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [387]
+		{
+			"are you just casual or are you going to raid again", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			103, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586307983,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [388]
+		{
+			"atm casual work is a bit spotty", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586307992,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [389]
+		{
+			"one week its 40 hours", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			106, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586307999,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [390]
+		{
+			"aww", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308000,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [391]
+		{
+			"next 4 its 86", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			108, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586308003,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [392]
+		{
+			"we don't have a shadow priest right now lol", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			109, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308010,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [393]
+		{
+			"hard to turn down that kinda money", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			110, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586308013,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [394]
+		{
+			"yeah makes sense", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308022,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [395]
+		{
+			"If theres a spot tomorrow i might try and make it to the heroic", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			113, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586308027,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [396]
+		{
+			"I'd ask if you wanna discord but i got kicked :(", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			115, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586308095,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [397]
+		{
+			"yikes", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			116, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308104,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [398]
+		{
+			"|cffff8000|Hitem:169223::::::::120:577::11:2:6278:1472:::|h[Ashjra'kamas, Shroud of Resolve]|h|r", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			118, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586308108,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [399]
+		{
+			"no idea why", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			119, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586308112,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [400]
+		{
+			"you want me to add you back", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			120, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308114,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [401]
+		{
+			"sure", -- [1]
+			"Navaria-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			121, -- [11]
+			"Player-9-0B4F7BDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNavaria|r",
+			[51] = 1586308118,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [402]
+		{
+			"she just randomly cleans up", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308119,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [403]
+		{
+			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Crawling Corruption removed |cff71d5ff|Hspell:296510:0|h[Creepy Crawler]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			156, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586308517,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [404]
+		{
+			"who left", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			157, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308522,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [405]
+		{
+			"name yourselves", -- [1]
+			"Yellowy-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			158, -- [11]
+			"Player-9-0A76F241", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYellowy|r",
+			[51] = 1586308525,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [406]
+		{
+			"|cff71d5ff|Hspell:278326:0|h[Consume Magic]|h|r on Crawling Corruption removed |cff71d5ff|Hspell:296510:0|h[Creepy Crawler]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			170, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586308614,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [407]
+		{
+			"Interrupted Crazed Tormenter's |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			179, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586308742,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [408]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14065:Player-9-0BBA7095:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[The Even More Horrific Vision of Orgrimmar]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			202, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309027,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [409]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14067:Player-9-0BBA7095:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[The Most Horrific Vision of Orgrimmar]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			203, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309027,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [410]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14168:Player-9-0BBA7095:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Masked Quartet]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			204, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309027,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [411]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14169:Player-9-0BBA7095:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Symphony of Masks]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			205, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309027,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [412]
+		{
+			"OOOOOOO", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			245, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309048,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [413]
+		{
+			"woah he's huge", -- [1]
+			"Arnbjørn-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			250, -- [11]
+			"Player-9-0B0D1C71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjørn|r",
+			[51] = 1586309058,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [414]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14171:Player-9-0BBA7095:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Memento Mori]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			253, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309063,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [415]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13771:Player-9-0BBA7095:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Power Is Beautiful]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309110,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [416]
+		{
+			"did you guys", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			267, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309110,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [417]
+		{
+			"4 mask", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			268, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309114,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [418]
+		{
+			"C:", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			269, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309114,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [419]
+		{
+			"sure", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			271, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586309116,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [420]
+		{
+			"sure", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			272, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1586309120,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [421]
+		{
+			"what", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Evangelos-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			273, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1586309126,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [422]
+		{
+			"o", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Evangelos-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			275, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1586309128,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [423]
+		{
+			"brb bio", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			281, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309229,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [424]
+		{
+			"r?", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			286, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309400,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [425]
+		{
+			"r", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Evangelos-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			287, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1586309412,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [426]
+		{
+			"gordyyy", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			288, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309426,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [427]
+		{
+			"take it into da room", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			289, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586309444,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [428]
+		{
+			"vessels", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			290, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309461,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [429]
+		{
+			"someone' smising one", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			291, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309463,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [430]
+		{
+			"i have mine", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			292, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309464,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [431]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14162:Player-9-0BBA7095:1:4:7:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Masquerade]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			302, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309511,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [432]
+		{
+			"wait yuki you got a call?", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			304, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309531,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [433]
+		{
+			"or you're good", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			306, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309532,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [434]
+		{
+			"im r", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			307, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586309534,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [435]
+		{
+			"Interrupted Voidbound Shaman's |cff71d5ff|Hspell:297220:0|h[Twisted Lightning]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			310, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309563,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [436]
+		{
+			"Interrupted Voidbound Shaman's |cff71d5ff|Hspell:297220:0|h[Twisted Lightning]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			311, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309563,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [437]
+		{
+			"u made me proc", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			312, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586309572,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [438]
+		{
+			"Interrupted Voidbound Honor Guard's |cff71d5ff|Hspell:305378:0|h[Horrifying Shout]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			314, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309616,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [439]
+		{
+			"Interrupted Voidbound Shaman's |cff71d5ff|Hspell:297220:0|h[Twisted Lightning]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			315, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309636,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [440]
+		{
+			"Interrupted Voidbound Shaman's |cff71d5ff|Hspell:297220:0|h[Twisted Lightning]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			316, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309636,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [441]
+		{
+			"Interrupted Voidbound Shaman's |cff71d5ff|Hspell:297220:0|h[Twisted Lightning]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			317, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309662,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [442]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Voidbound Shaman!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			318, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309666,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [443]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Voidbound Shaman has ended!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			319, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309668,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [444]
+		{
+			"|cff71d5ff|Hspell:196718:0|h[Darkness]|h|r activated!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			328, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309736,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [445]
+		{
+			"Interrupted K'thir Dominator's |cff71d5ff|Hspell:298025:0|h[Void Bolt]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			331, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309740,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [446]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on K'thir Dominator!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			333, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309746,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [447]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on K'thir Dominator has ended!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309766,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [448]
+		{
+			"Interrupted K'thir Dominator's |cff71d5ff|Hspell:298025:0|h[Void Bolt]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			338, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586309777,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [449]
+		{
+			"i got 2/2", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			357, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586309873,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [450]
+		{
+			"go back aftr", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			362, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310029,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [451]
+		{
+			"1 crystal left", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			363, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310034,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [452]
+		{
+			"lemme check here", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			364, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310044,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [453]
+		{
+			"nvm", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			365, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310047,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [454]
+		{
+			"dont", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			366, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310048,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [455]
+		{
+			"2/2", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			367, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310052,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [456]
+		{
+			"orb\\", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			368, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310064,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [457]
+		{
+			"cd", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			408, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310411,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [458]
+		{
+			"i fonted", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			410, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310414,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [459]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on K'thir Dominator!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			411, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310427,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [460]
+		{
+			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on K'thir Dominator has ended!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			412, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310427,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [461]
+		{
+			"Interrupted Crazed Tormenter's |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			421, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310509,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [462]
+		{
+			"Taunted Voidbound Berserker!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			423, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310511,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [463]
+		{
+			"up stairs", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			427, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310540,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [464]
+		{
+			"Interrupted Greater Void Elemental's |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			428, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310552,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [465]
+		{
+			"Interrupted Greater Void Elemental's |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			429, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310571,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [466]
+		{
+			"yuki go back", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			432, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310621,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [467]
+		{
+			"they pulled", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			433, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310622,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [468]
+		{
+			"i'm dying forward", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			434, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310627,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [469]
+		{
+			"who pulled", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			436, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310643,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [470]
+		{
+			"somene", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			437, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310648,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [471]
+		{
+			"lol", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			438, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310649,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [472]
+		{
+			"1 more crystal", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			440, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310673,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [473]
+		{
+			"Interrupted Crazed Tormenter's |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			441, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310684,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [474]
+		{
+			"Interrupted Crazed Tormenter's |cff71d5ff|Hspell:296537:0|h[Mental Assault]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			442, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310684,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [475]
+		{
+			"are we 10/10", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			445, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310778,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [476]
+		{
+			"yes", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			446, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310781,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [477]
+		{
+			"wot u guys missing?", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			449, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310813,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [478]
+		{
+			"evan", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			450, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310817,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [479]
+		{
+			"chests", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			451, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310818,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [480]
+		{
+			"ohhh ok", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			454, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310821,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [481]
+		{
+			"or 1 ithink", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			455, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310821,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [482]
+		{
+			"omg dont kill", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			456, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310826,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [483]
+		{
+			"LOL", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			458, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310831,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [484]
+		{
+			"my proc", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			459, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310832,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [485]
+		{
+			"did you  proc", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			460, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310834,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [486]
+		{
+			"welp[", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			463, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310836,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [487]
+		{
+			"ima orb soon", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			464, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310849,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [488]
+		{
+			"yeah", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			465, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310851,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [489]
+		{
+			"wwe have a lot of time", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			466, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310854,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [490]
+		{
+			"Interrupted Void Boar's |cff71d5ff|Hspell:304251:0|h[Void Quills]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			470, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310885,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [491]
+		{
+			"MASTERFUL PLEASE", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			497, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310979,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [492]
+		{
+			"BITCH", -- [1]
+			"Yukio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			505, -- [11]
+			"Player-9-0AFB89C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukio|r",
+			[51] = 1586310982,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [493]
+		{
+			"i go tmasterful", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			508, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310983,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [494]
+		{
+			"c:", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			509, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586310984,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [495]
+		{
+			"i'm 4000 from gift", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			516, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586311006,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [496]
+		{
+			"of the tian", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			517, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586311008,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [497]
+		{
+			"400*", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			518, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586311009,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [498]
+		{
+			"thank god", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			519, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1586311010,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [499]
 	},

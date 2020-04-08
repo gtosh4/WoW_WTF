@@ -1,6 +1,6 @@
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Fireliminator X-21
+/use Seaforium Depth Charge Bundle
 END
 VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
 /script for i=1, 120 do PickupAction(i); ClearCursor(); end
@@ -13,11 +13,11 @@ END
 VER 3 000000000000001A "dance" "ClassIcon_Druid."
 /dance
 END
-VER 3 0000000000000007 "focus" "132885"
-/focus
-END
 VER 3 0000000000000033 "focus" "Sha_spell_warlock_demonsoul_nightmare."
 /focus [@mouseover]
+END
+VER 3 0000000000000007 "focus" "132885"
+/focus
 END
 VER 3 0000000000000031 "mail" "INV_Misc_QuestionMark"
 /run MailFrameTab_OnClick(MailFrame,2)

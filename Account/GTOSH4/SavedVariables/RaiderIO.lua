@@ -1,25 +1,21 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpal-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshpriest-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Purplerain-mannoroth"] = true,
-	["us-Manhasnoname-kiljaeden"] = true,
-	["us-Khuta-area-52"] = true,
-	["us-Petshark-tichondrius"] = true,
-	["us-Dendrodjinnx-kiljaeden"] = true,
-	["us-Harlome-runetotem"] = true,
-	["us-Drfudge-azjolnerub"] = true,
-	["us-Asphyxea-khaz-modan"] = true,
-	["us-Sosorrymate-frostwolf"] = true,
-	["us-Dbeeze-blackrock"] = true,
-	["us-Rikkarian-kiljaeden"] = true,
-	["us-Xaoxongmao-sargeras"] = true,
-	["us-Dinix-boulderfist"] = true,
-	["us-Insanìty-korgath"] = true,
-	["us-Pikaru-tichondrius"] = true,
-	["us-Howbowdah-magtheridon"] = true,
-	["us-Cashmeowside-magtheridon"] = true,
-	["us-Swing-hyjal"] = true,
-	["us-Raybeezbigdk-tichondrius"] = true,
+	["us-Twoinchpp-malganis"] = true,
+	["us-Ransin-area-52"] = true,
+	["us-Hattorihanzo-area-52"] = true,
+	["us-Meancrayons-area-52"] = true,
+	["us-Arcanowunter-area-52"] = true,
+	["us-Begton-area-52"] = true,
+	["us-Melanada-area-52"] = true,
+	["us-Arcadreana-area-52"] = true,
+	["us-Decadin-area-52"] = true,
+	["us-Persess-area-52"] = true,
+	["us-Toramess-area-52"] = true,
+	["us-Takkii-area-52"] = true,
+	["us-Mcmoofin-area-52"] = true,
+	["us-Sneakymanny-area-52"] = true,
+	["us-Arrowqc-area-52"] = true,
 }

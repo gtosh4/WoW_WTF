@@ -29,7 +29,7 @@ Postal3DB = {
 				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [5]
 				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [6]
 				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [7]
-				"Toshpriest|Area 52|Horde|29|PRIEST", -- [8]
+				"Toshpriest|Area 52|Horde|60|PRIEST", -- [8]
 				"Toshpriest|Illidan|Horde|1|PRIEST", -- [9]
 				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [10]
 				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [11]

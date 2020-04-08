@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 2268,
+	["session"] = 2284,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -73,5 +73,21 @@ BugGrabberDB = {
 			["session"] = 2268,
 			["counter"] = 2,
 		}, -- [9]
+		{
+			["message"] = "Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4781: attempt to perform arithmetic on local 'player' (a nil value)",
+			["time"] = "2020/04/07 13:08:05",
+			["locals"] = "CurStep = 1\nd_y = 1843\nd_x = -4390\nAAP_ArrowActive_TrigDistance = nil\nPI2 = 6.283185\natan2 = <function> defined =[C]:-1\ntwopi = 6.283185\ndeltaX = -2.600000\ndeltaY = -1.500000\ndistance = 3.001666\nangle = 2.094075\nplayer = nil\n(*temporary) = -1.500000\n(*temporary) = 2.094075\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'player' (a nil value)\"\nQNumberLocal = 1\nAAP_CheckDistance = <function> defined @Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4676\n",
+			["stack"] = "[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4781: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4741>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4964: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4826>",
+			["session"] = 2274,
+			["counter"] = 20,
+		}, -- [10]
+		{
+			["message"] = "Interface\\AddOns\\AAP-Core\\QuestHandler.lua:91: Usage: local continentID, worldPosition = C_Map.GetWorldPosFromMapPos(uiMapID, mapPosition)",
+			["time"] = "2020/04/07 22:33:12",
+			["locals"] = "(*temporary) = nil\n(*temporary) = <table> {\n DivideBy = <function> defined @Interface\\SharedXML\\Vector2D.lua:90\n GetLength = <function> defined @Interface\\SharedXML\\Vector2D.lua:114\n Normalize = <function> defined @Interface\\SharedXML\\Vector2D.lua:118\n Dot = <function> defined @Interface\\SharedXML\\Vector2D.lua:106\n GetLengthSquared = <function> defined @Interface\\SharedXML\\Vector2D.lua:110\n GetXY = <function> defined @Interface\\SharedXML\\Vector2D.lua:77\n OnLoad = <function> defined @Interface\\SharedXML\\Vector2D.lua:68\n Subtract = <function> defined @Interface\\SharedXML\\Vector2D.lua:98\n x = 0\n y = 0\n IsEqualTo = <function> defined @Interface\\SharedXML\\Vector2D.lua:72\n Clone = <function> defined @Interface\\SharedXML\\Vector2D.lua:126\n Cross = <function> defined @Interface\\SharedXML\\Vector2D.lua:102\n RotateDirection = <function> defined @Interface\\SharedXML\\Vector2D.lua:122\n SetXY = <function> defined @Interface\\SharedXML\\Vector2D.lua:81\n ScaleBy = <function> defined @Interface\\SharedXML\\Vector2D.lua:86\n Add = <function> defined @Interface\\SharedXML\\Vector2D.lua:94\n}\n",
+			["stack"] = "[string \"=[C]\"]: in function `GetWorldPosFromMapPos'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:91: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:136: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
+			["session"] = 2284,
+			["counter"] = 10,
+		}, -- [11]
 	},
 }

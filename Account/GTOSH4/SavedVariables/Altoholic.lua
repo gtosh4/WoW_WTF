@@ -33,6 +33,7 @@ AltoholicDB = {
 		},
 		["options"] = {
 			["UI.Mail.TimeToNextWarning"] = 12,
+			["UI.Tabs.Summary.CurrentRealms"] = 3,
 			["Tabs.Grids.Default.Kil'jaeden.Column4"] = "Default.Kil'jaeden.Yorman",
 			["UI.Tabs.Characters.ViewVoidStorage"] = false,
 			["UI.Tabs.Summary.CurrentColumn"] = "Played",

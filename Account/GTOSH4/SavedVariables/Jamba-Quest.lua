@@ -38,8 +38,8 @@ JambaQuestProfileDB = {
 		["Default"] = {
 			["onlyAcceptQuestsFrom"] = true,
 			["showJambaQuestLogWithWoWQuestLog"] = false,
-			["acceptFromTeam"] = true,
 			["doNotAutoAccept"] = false,
+			["acceptFromTeam"] = true,
 			["masterAutoShareQuestOnAccept"] = true,
 		},
 		["Zallie - Frostwolf"] = {

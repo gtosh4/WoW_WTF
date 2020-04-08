@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 1670,
+	["session"] = 1680,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -189,5 +189,43 @@ BugGrabberDB = {
 			["session"] = 1670,
 			["counter"] = 11,
 		}, -- [24]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'bdCore' tried to call the protected function 'UNKNOWN()'.",
+			["time"] = "2020/04/07 16:39:28",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\bdCore\\modules\\interrupted-Interrupted.lua\"]:16: in function <Interface\\AddOns\\bdCore\\modules\\interrupted.lua:8>",
+			["session"] = 1676,
+			["counter"] = 2,
+		}, -- [25]
+		{
+			["message"] = "Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4781: attempt to perform arithmetic on local 'player' (a nil value)",
+			["time"] = "2020/04/07 13:08:03",
+			["locals"] = "CurStep = 1\nd_y = 1842\nd_x = -4391\nAAP_ArrowActive_TrigDistance = nil\nPI2 = 6.283185\natan2 = <function> defined =[C]:-1\ntwopi = 6.283185\ndeltaX = -3.600000\ndeltaY = -0.500000\ndistance = 3.634556\nangle = 1.708802\nplayer = nil\n(*temporary) = -0.500000\n(*temporary) = 1.708802\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'player' (a nil value)\"\nQNumberLocal = 1\nAAP_CheckDistance = <function> defined @Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4676\n",
+			["stack"] = "[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4781: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4741>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4964: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4826>",
+			["session"] = 1676,
+			["counter"] = 7,
+		}, -- [26]
+		{
+			["message"] = "Interface\\FrameXML\\StaticPopup.lua:4549: bad argument #2 to 'SetFormattedText' (string expected, got nil)",
+			["time"] = "2020/04/07 18:40:24",
+			["locals"] = "(*temporary) = StaticPopup1Text {\n 0 = <userdata>\n text_arg1 = \"Mission Improbable\"\n}\n(*temporary) = \"Abandon \"%s\"?\"\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"string expected, got nil\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `SetFormattedText'\n[string \"@Interface\\FrameXML\\StaticPopup.lua\"]:4549: in function <Interface\\FrameXML\\StaticPopup.lua:4392>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `StaticPopup_Show'\n[string \"@Interface\\FrameXML\\QuestMapFrame.lua\"]:735: in function <Interface\\FrameXML\\QuestMapFrame.lua:725>\n[string \"=[C]\"]: in function `QuestMapQuestOptions_AbandonQuest'\n[string \"@Interface\\FrameXML\\QuestMapFrame.lua\"]:702: in function `func'\n[string \"@Interface\\FrameXML\\UIDropDownMenu.lua\"]:895: in function `UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 1678,
+			["counter"] = 1,
+		}, -- [27]
+		{
+			["message"] = "Interface\\AddOns\\AAP-Core\\QuestHandler.lua:91: Usage: local continentID, worldPosition = C_Map.GetWorldPosFromMapPos(uiMapID, mapPosition)",
+			["time"] = "2020/04/07 22:33:12",
+			["locals"] = "(*temporary) = nil\n(*temporary) = <table> {\n DivideBy = <function> defined @Interface\\SharedXML\\Vector2D.lua:90\n GetLength = <function> defined @Interface\\SharedXML\\Vector2D.lua:114\n Normalize = <function> defined @Interface\\SharedXML\\Vector2D.lua:118\n Dot = <function> defined @Interface\\SharedXML\\Vector2D.lua:106\n GetLengthSquared = <function> defined @Interface\\SharedXML\\Vector2D.lua:110\n GetXY = <function> defined @Interface\\SharedXML\\Vector2D.lua:77\n OnLoad = <function> defined @Interface\\SharedXML\\Vector2D.lua:68\n Subtract = <function> defined @Interface\\SharedXML\\Vector2D.lua:98\n x = 0\n y = 0\n IsEqualTo = <function> defined @Interface\\SharedXML\\Vector2D.lua:72\n Clone = <function> defined @Interface\\SharedXML\\Vector2D.lua:126\n Cross = <function> defined @Interface\\SharedXML\\Vector2D.lua:102\n RotateDirection = <function> defined @Interface\\SharedXML\\Vector2D.lua:122\n SetXY = <function> defined @Interface\\SharedXML\\Vector2D.lua:81\n ScaleBy = <function> defined @Interface\\SharedXML\\Vector2D.lua:86\n Add = <function> defined @Interface\\SharedXML\\Vector2D.lua:94\n}\n",
+			["stack"] = "[string \"=[C]\"]: in function `GetWorldPosFromMapPos'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:91: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:136: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
+			["session"] = 1680,
+			["counter"] = 10,
+		}, -- [28]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AdiBags' tried to call the protected function 'MultiBarBottomRightButton2:Hide()'.",
+			["time"] = "2020/04/07 22:39:11",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:501: in function `ActionButton_HideGrid'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:139: in function `MultiActionBar_UpdateGrid'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:121: in function `MultiActionBar_ShowAllGrids'\n[string \"@Interface\\FrameXML\\SpellBookFrame.lua\"]:196: in function <Interface\\FrameXML\\SpellBookFrame.lua:187>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2739: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2584: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2452: in function <Interface\\FrameXML\\UIParent.lua:2448>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3306: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\SpellBookFrame.lua\"]:72: in function `ToggleSpellBook'\n[string \"TOGGLESPELLBOOK\"]:1: in function <[string \"TOGGLESPELLBOOK\"]:1>",
+			["session"] = 1680,
+			["counter"] = 1,
+		}, -- [29]
 	},
 }

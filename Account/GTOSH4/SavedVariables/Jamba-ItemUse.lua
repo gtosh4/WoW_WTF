@@ -448,14 +448,13 @@ JambaItemUseProfileDB = {
 		["Toshpriest - Area 52"] = {
 			["itemsAdvanced"] = {
 				{
-					["action"] = "item:156683",
+					["action"] = "item:34710",
 					["kind"] = "item",
 				}, -- [1]
 				{
 					["kind"] = "empty",
 				}, -- [2]
 				{
-					["action"] = "empty",
 					["kind"] = "empty",
 				}, -- [3]
 				{
@@ -785,6 +784,7 @@ JambaItemUseProfileDB = {
 			["itemUseTitleHeight"] = 2,
 		},
 		["Default"] = {
+			["itemUseTitleHeight"] = 2,
 			["frameYOffset"] = 191.8657684326172,
 			["itemsAdvanced"] = {
 				{
@@ -868,7 +868,6 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["itemUseTitleHeight"] = 2,
 			["showItemUse"] = false,
 		},
 		["Zallie - Frostwolf"] = {

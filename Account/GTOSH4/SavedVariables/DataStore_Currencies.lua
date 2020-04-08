@@ -36,17 +36,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 42,
-						["count"] = 41801,
+						["count"] = 33913,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 43,
-						["count"] = 14648,
+						["count"] = 24242,
 					}, -- [4]
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 4430,
+						["count"] = 5410,
 					}, -- [5]
 					{
 						["isHeader"] = false,
@@ -71,12 +71,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 19041,
+						["count"] = 21551,
 					}, -- [10]
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 23380,
+						["count"] = 24433,
 					}, -- [11]
 					{
 						["isHeader"] = true,
@@ -166,7 +166,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586241377,
+				["lastUpdate"] = 1586311417,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -175,7 +175,7 @@ DataStore_CurrenciesDB = {
 					[1191] = "0-0-0-0",
 					[1580] = "0-0-0-5",
 					[823] = "0-0-0-0",
-					[1560] = "23380-0-0-0",
+					[1560] = "24433-0-0-0",
 					[1342] = "133-0-0-1000",
 					[1226] = "4841-0-0-0",
 					[1710] = "727-0-0-0",
@@ -376,7 +376,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 1934,
+						["count"] = 2294,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -401,7 +401,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 3420,
+						["count"] = 5840,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -431,7 +431,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586156165,
+				["lastUpdate"] = 1586274349,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -450,7 +450,7 @@ DataStore_CurrenciesDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586197908,
+				["lastUpdate"] = 1586313192,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
