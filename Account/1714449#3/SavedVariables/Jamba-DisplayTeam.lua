@@ -2,14 +2,14 @@
 JambaDisplayTeamProfileDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["teamListTitleHeight"] = 0,
 			["showTeamList"] = false,
+			["teamListTitleHeight"] = 0,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,
@@ -22,8 +22,8 @@ JambaDisplayTeamProfileDB = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Toshpal - Area 52"] = {
-			["showTeamList"] = false,
 			["teamListTitleHeight"] = 0,
+			["showTeamList"] = false,
 		},
 	},
 }

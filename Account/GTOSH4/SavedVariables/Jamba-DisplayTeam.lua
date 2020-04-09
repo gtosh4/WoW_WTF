@@ -32,8 +32,8 @@ JambaDisplayTeamProfileDB = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Toshpriest - Area 52"] = {
-			["showTeamList"] = false,
 			["teamListTitleHeight"] = 0,
+			["showTeamList"] = false,
 		},
 		["Yorman - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,
@@ -45,8 +45,8 @@ JambaDisplayTeamProfileDB = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Default"] = {
-			["teamListTitleHeight"] = 0,
 			["showTeamList"] = false,
+			["teamListTitleHeight"] = 0,
 		},
 		["Zallie - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,

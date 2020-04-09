@@ -28,10 +28,10 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1586275509,
+				["lastUpdate"] = 1586397144,
 				["Specializations"] = {
 					12126, -- [1]
-					[3] = 14270,
+					[3] = 8087,
 				},
 				["Class"] = "SHAMAN",
 			},
@@ -113,7 +113,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 33775,
+			["Version"] = 33941,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",

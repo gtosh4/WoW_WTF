@@ -16,6 +16,8 @@ JambaItemUseProfileDB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
+			["itemUseTitleHeight"] = 2,
+			["frameYOffset"] = 210.6496734619141,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -98,8 +100,6 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["frameYOffset"] = 210.6496734619141,
-			["itemUseTitleHeight"] = 2,
 			["frameXOffset"] = -9.390840530395508,
 		},
 		["Toshdk - Kil'jaeden"] = {
@@ -784,7 +784,6 @@ JambaItemUseProfileDB = {
 			["itemUseTitleHeight"] = 2,
 		},
 		["Default"] = {
-			["itemUseTitleHeight"] = 2,
 			["frameYOffset"] = 191.8657684326172,
 			["itemsAdvanced"] = {
 				{
@@ -868,6 +867,7 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
+			["itemUseTitleHeight"] = 2,
 			["showItemUse"] = false,
 		},
 		["Zallie - Frostwolf"] = {

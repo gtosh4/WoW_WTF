@@ -2,21 +2,21 @@
 JambaQuestProfileDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["acceptFromTeam"] = true,
 			["noChoiceAllDoNothing"] = true,
-			["hasChoiceSlaveDoNothing"] = true,
-			["masterAutoShareQuestOnAccept"] = true,
 			["hasChoiceAquireBestQuestRewardForCharacter"] = false,
-			["doNotAutoAccept"] = false,
+			["hasChoiceSlaveDoNothing"] = true,
+			["acceptFromTeam"] = true,
+			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
 			["noChoiceSlaveCompleteQuestWithMaster"] = false,
 			["onlyAcceptQuestsFrom"] = true,
-			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
+			["doNotAutoAccept"] = false,
+			["masterAutoShareQuestOnAccept"] = true,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["showJambaQuestLogWithWoWQuestLog"] = false,

@@ -1,11 +1,15 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpal-area-52"
+RaiderIO_LastCharacter = "us-Toshaman-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Persess-area-52"] = true,
-	["us-Riyaku-area-52"] = true,
-	["us-Toramess-area-52"] = true,
-	["us-Twoinchpp-malganis"] = true,
-	["us-Mcmoofin-area-52"] = true,
+	["us-Lyuneria-kiljaeden"] = true,
+	["us-Thiccgril-kiljaeden"] = true,
+	["us-Hurakk-bladefist"] = true,
+	["us-Dumbers-kiljaeden"] = true,
+	["us-Brewbending-proudmoore"] = true,
+	["us-Suthix-area-52"] = true,
+	["us-Dirtyslayer-kiljaeden"] = true,
+	["us-Turkeydh-area-52"] = true,
+	["us-Kamibell-illidan"] = true,
 }
