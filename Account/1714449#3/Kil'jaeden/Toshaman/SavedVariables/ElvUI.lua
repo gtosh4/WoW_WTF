@@ -1,72 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/ec", -- [1]
-		"/grid2", -- [2]
-		"/dn", -- [3]
-		"/cw Delpix-Tichondrius what's the korean word for yellowy - something that is yellow", -- [4]
-		"/cw Delpix-Tichondrius in western characters, that's 'nolang'?", -- [5]
-		"/cw Delpix-Tichondrius ty!", -- [6]
-		"/cw Delpix-Tichondrius lol", -- [7]
-		"/tmw", -- [8]
-		"/raid ?", -- [9]
-		" \"who even needs a font\" \"fiery has joined the raid group\" xd", -- [10]
-		" she asked earlier", -- [11]
-		" if anyone needed coral", -- [12]
-		" you weren't here", -- [13]
-		" there*", -- [14]
-		"/p haven't gotten a straight answer", -- [15]
-		"/p  /shrug", -- [16]
-		"/p splosh already has a 455, so not him", -- [17]
-		"/p he rolled a dh just for something to do", -- [18]
-		"/p I haven't heard anything about him going healing", -- [19]
-		"/wa", -- [20]
+		" if anyone needed coral", -- [1]
+		" you weren't here", -- [2]
+		" there*", -- [3]
+		"/p  /shrug", -- [4]
+		"/wa", -- [5]
+		"/raid ?", -- [6]
+		"/p haven't gotten a straight answer", -- [7]
+		"/dn", -- [8]
+		"/p he rolled a dh just for something to do", -- [9]
+		"/ec", -- [10]
+		"you weren't here", -- [11]
+		"\"who even needs a font\" \"fiery has joined the raid group\" xd", -- [12]
+		"/p I haven't heard anything about him going healing", -- [13]
+		"/cw Delpix-Tichondrius in western characters, that's 'nolang'?", -- [14]
+		"/p splosh already has a 455, so not him", -- [15]
+		"there*", -- [16]
+		"/cw Delpix-Tichondrius lol", -- [17]
+		"if anyone needed coral", -- [18]
+		"/cw Delpix-Tichondrius ty!", -- [19]
+		"she asked earlier", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Taunted Cyranus!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1742, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1586396200,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"Mastery Up", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1745, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1586396209,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
 		{
 			"die", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -88,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [1]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -110,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396245,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [2]
 		{
 			"die", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -132,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396279,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [3]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -154,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1586396284,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [4]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -176,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1586396304,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [5]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -198,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396330,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [6]
 		{
 			"Taunted Cyranus!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -220,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396333,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
+		}, -- [7]
 		{
 			"Taunted Cyranus!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -242,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396333,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [8]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -264,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396360,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [9]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -286,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396390,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [10]
 		{
 			"Stand Alone! on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -308,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396397,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [11]
 		{
 			"{rt8} MOVE AWAY {rt8}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -330,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396397,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [14]
+		}, -- [12]
 		{
 			"{rt8} MOVE AWAY {rt8}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -352,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396403,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [15]
+		}, -- [13]
 		{
 			"{rt8} MOVE AWAY {rt8}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -374,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396408,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [16]
+		}, -- [14]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -396,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396431,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [15]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -418,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396462,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [16]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -440,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396463,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
+		}, -- [17]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -462,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396477,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [18]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -484,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396501,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [19]
 		{
 			"Stand Alone! on Dumbers", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -506,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1586396507,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [20]
 		{
 			"Stand Together! on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -528,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396507,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [23]
+		}, -- [21]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -550,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396507,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [24]
+		}, -- [22]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -572,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396509,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [25]
+		}, -- [23]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -594,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396512,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [26]
+		}, -- [24]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -616,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396515,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [27]
+		}, -- [25]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -638,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396518,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [28]
+		}, -- [26]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -660,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396521,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [27]
 		{
 			"TAKING DAMAGE", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -682,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396522,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [30]
+		}, -- [28]
 		{
 			"Taunted Loyal Myrmidon!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -704,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396535,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Lyuneria!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -726,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396579,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
+		}, -- [30]
 		{
 			"die", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -748,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396607,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [31]
 		{
 			"Taunted Cyranus!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -770,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396648,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [32]
 		{
 			"Taunted Cyranus!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -792,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396648,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [33]
 		{
 			"Stand Alone! on Sci", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -814,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1586396718,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [34]
 		{
 			"Stand Alone! on Cadaceus", -- [1]
 			"Cadaceus-Kil'jaeden", -- [2]
@@ -836,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecCadaceus|r",
 			[51] = 1586396718,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [35]
 		{
 			"Stand Alone! on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -858,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396718,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [36]
 		{
 			"Stand Alone! on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -880,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396718,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [37]
 		{
 			"{rt8} MOVE AWAY {rt8}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -902,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396719,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [40]
+		}, -- [38]
 		{
 			"Stand Alone! on Delpi", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -924,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1586396719,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [39]
 		{
 			"Stand Alone! on Crippled", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -946,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1586396719,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [40]
 		{
 			"{rt8} MOVE AWAY {rt8}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -968,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396725,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [43]
+		}, -- [41]
 		{
 			"{rt8} MOVE AWAY {rt8}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -990,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396730,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [44]
+		}, -- [42]
 		{
 			"TAKING DAMAGE", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1012,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396730,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [45]
+		}, -- [43]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1034,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396745,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [44]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1056,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396777,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [45]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1078,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396785,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [46]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1100,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396785,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [47]
 		{
 			"Arcane Burst on Yukio", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1122,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396790,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [48]
 		{
 			"Arcane Burst on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1144,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396790,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [49]
 		{
 			"Arcane Burst 1 on {rt1}Yellowy{rt1}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1166,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396790,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [50]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1188,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396801,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [51]
 		{
 			"3", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1210,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396802,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [52]
 		{
 			"2", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1232,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396803,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [53]
 		{
 			"1", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1254,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396804,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [54]
 		{
 			"CAN CHARGE!", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1276,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396814,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [57]
+		}, -- [55]
 		{
 			"Stand Alone! on Sci", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1298,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [56]
 		{
 			"Stand Alone! on Lyuneria", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -1320,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [57]
 		{
 			"Stand Alone! on Dumbers", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -1342,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [58]
 		{
 			"Stand Alone! on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1364,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [59]
 		{
 			"Stand Alone! on Crippled", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -1386,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [60]
 		{
 			"Stand Together! on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1408,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [63]
+		}, -- [61]
 		{
 			"Stand Alone! on Delpi", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -1430,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [62]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1452,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396820,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [65]
+		}, -- [63]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1474,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396822,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [66]
+		}, -- [64]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1496,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396826,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [67]
+		}, -- [65]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1518,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396828,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [68]
+		}, -- [66]
 		{
 			"{rt1} STACK ON ME {rt1}", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1540,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396831,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [69]
+		}, -- [67]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1562,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396833,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [68]
 		{
 			"TAKING DAMAGE", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1584,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396834,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [71]
+		}, -- [69]
 		{
 			"TAKING DAMAGE", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1606,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586396844,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [72]
+		}, -- [70]
 		{
 			"Taunted Loyal Myrmidon!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1628,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396846,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [71]
 		{
 			"Interrupted Lady Venomtongue's |cff71d5ff|Hspell:297972:0|h[Chain Lightning]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1650,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1586396855,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [74]
+		}, -- [72]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1672,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396859,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [73]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1694,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396861,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [74]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1716,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396861,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [75]
 		{
 			"Beckon on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1738,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1586396866,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [76]
 		{
 			"Beckon on Thunderrz", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1760,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1586396866,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [77]
 		{
 			"3", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1782,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1586396877,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [78]
 		{
 			"2", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1804,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1586396878,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [79]
 		{
 			"1", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -1826,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1586396879,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [80]
 		{
 			"Taunted Loyal Myrmidon!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1848,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396886,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [81]
 		{
 			"Arcane Burst on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1870,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396887,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [82]
 		{
 			"Arcane Burst 1 on {rt1}Yellowy{rt1}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1892,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396887,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [83]
 		{
 			"Interrupted Venna Seastorm's |cff71d5ff|Hspell:297972:0|h[Chain Lightning]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1914,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1586396889,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [86]
+		}, -- [84]
 		{
 			"1", -- [1]
 			"Dirtyslayer-Kil'jaeden", -- [2]
@@ -1936,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDirtyslayer|r",
 			[51] = 1586396895,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [85]
 		{
 			"Yellowy gripped Tehkz", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -1958,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396907,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [86]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1980,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396907,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [87]
 		{
 			"Interrupted Delpi's |cff71d5ff|Hspell:2120:0|h[Flamestrike]|h|r!", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2002,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1586396919,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [88]
 		{
 			"3", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2024,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396923,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [89]
 		{
 			"2", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2046,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396924,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [90]
 		{
 			"1", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2068,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396925,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [91]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2090,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396926,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [92]
 		{
 			"i was snared", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2112,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396931,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [93]
 		{
 			"Beckon on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2134,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [94]
 		{
 			"Charged Spear on Sploshey", -- [1]
 			"Sploshey-Thrall", -- [2]
@@ -2156,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sploshey-Thrall|r",
 			[51] = 1586396939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [95]
 		{
 			"Beckon on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2178,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [96]
 		{
 			"3", -- [1]
 			"Sploshey-Thrall", -- [2]
@@ -2200,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sploshey-Thrall|r",
 			[51] = 1586396940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [97]
 		{
 			"2", -- [1]
 			"Sploshey-Thrall", -- [2]
@@ -2222,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sploshey-Thrall|r",
 			[51] = 1586396941,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [98]
 		{
 			"Taunted Loyal Myrmidon!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2244,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396941,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [99]
 		{
 			"Taunted Loyal Myrmidon!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2266,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396941,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [100]
 		{
 			"1", -- [1]
 			"Sploshey-Thrall", -- [2]
@@ -2288,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sploshey-Thrall|r",
 			[51] = 1586396942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [101]
 		{
 			"Interrupted Serena Scarscale's |cff71d5ff|Hspell:300491:0|h[Drain Ancient Ward]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2310,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1586396944,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [104]
+		}, -- [102]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2332,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396952,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [103]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2354,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396959,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [104]
 		{
 			"Beckon on Yellowy", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2376,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586396970,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [105]
 		{
 			"3", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2398,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1586396972,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [106]
 		{
 			"2", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2420,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1586396973,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [107]
 		{
 			"1", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2442,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1586396974,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [108]
 		{
 			"Taunted Loyal Myrmidon!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2464,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586396994,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [109]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2486,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586396997,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [110]
 		{
 			"die", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2508,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1586397005,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [111]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2530,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586397009,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [112]
 		{
 			"CAN CHARGE!", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2552,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586397017,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [115]
+		}, -- [113]
 		{
 			"Taunted Queen Azshara!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2574,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586397050,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [116]
+		}, -- [114]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2596,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586397067,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [115]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2618,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586397079,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [116]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13733:Player-9-0B106E8E:1:4:8:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Queen Azshara]|h|r!", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2640,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1586397091,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [119]
+		}, -- [117]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13733:Player-9-0B9F1ECA:1:4:8:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Queen Azshara]|h|r!", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2662,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586397091,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [120]
+		}, -- [118]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13733:Player-9-0BBA7095:1:4:8:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Queen Azshara]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2684,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1586397091,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [121]
+		}, -- [119]
 		{
 			"CAN CHARGE!", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2706,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1586397091,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [122]
+		}, -- [120]
 		{
 			"3x CLF?", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2728,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1586397127,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [121]
 		{
 			"USELESS", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2750,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1586397129,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [122]
 		{
 			"WIN BISH", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2772,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586397131,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [123]
 		{
 			"heyy'", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2794,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1586397145,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [124]
 		{
 			"Rp;;", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -2816,6 +2772,50 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1586397146,
 			[50] = "CHAT_MSG_RAID",
+		}, -- [125]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4922:Player-9-0841BC1C:1:4:9:20:4294967295:4294967295:4294967295:4294967295|h[Grand Master Archaeologist]|h|r!", -- [1]
+			"Kiliden-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kiliden-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			931, -- [11]
+			"Player-9-0841BC1C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Kiliden|r",
+			[51] = 1586483218,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [126]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-39938-9-49020835|h[Guild: Margaritaville]|h|r 3/12M is a laid back raid group that runs T/W 7-10pm server. We need a mage. I guess I should say something else here that would entice you to apply. Maybe something like", -- [1]
+			"Stumpmaster-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stumpmaster-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1004, -- [11]
+			"Player-9-045129E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Stumpmaster|r",
+			[51] = 1586483947,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

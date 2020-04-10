@@ -25,6 +25,7 @@ ToshAssignmentsDB = {
 									},
 									["type"] = "spell",
 								},
+								["id"] = 1,
 								["name"] = "Assignment 1",
 								["actions"] = {
 									{
@@ -36,7 +37,6 @@ ToshAssignmentsDB = {
 										},
 									}, -- [1]
 								},
-								["id"] = 1,
 							}, -- [1]
 						},
 					},

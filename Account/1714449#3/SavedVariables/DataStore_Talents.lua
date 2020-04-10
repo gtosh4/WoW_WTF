@@ -28,7 +28,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1586397144,
+				["lastUpdate"] = 1586482013,
 				["Specializations"] = {
 					12126, -- [1]
 					[3] = 8087,
