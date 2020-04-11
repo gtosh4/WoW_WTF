@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 2287,
+	["session"] = 2291,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8779: attempt to call method 'Hide' (a nil value)",

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1682,
 	["lastSanitation"] = 3,
+	["session"] = 1683,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:42: attempt to index local 's' (a nil value)",

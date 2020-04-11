@@ -16,7 +16,7 @@ AstralKeys = {
 		16, -- [4]
 		15, -- [5]
 		142, -- [6]
-		124279, -- [7]
+		304356, -- [7]
 	}, -- [2]
 	{
 		"Peace-Kil'jaeden", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		142, -- [6]
-		3930, -- [7]
+		304496, -- [7]
 	}, -- [8]
 	{
 		"Tehkz-Kil'jaeden", -- [1]
@@ -97,7 +97,7 @@ AstralKeys = {
 		18, -- [4]
 		0, -- [5]
 		142, -- [6]
-		33127, -- [7]
+		304492, -- [7]
 	}, -- [11]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -115,7 +115,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		142, -- [6]
-		212392, -- [7]
+		304460, -- [7]
 	}, -- [13]
 	{
 		"Morepheous-Kil'jaeden", -- [1]
@@ -248,14 +248,14 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["unit"] = "Tosh-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Tosh-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "SHAMAN",
-		["faction"] = 1,
 		["unit"] = "Toshaman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 }
 AstralFriends = {
@@ -338,6 +338,14 @@ AstralFriends = {
 	}, -- [7]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -351,9 +359,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -362,9 +368,10 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
-	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
@@ -374,10 +381,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = true,
-			["raid"] = false,
-			["no_key"] = true,
 			["party"] = true,
+			["raid"] = false,
+			["guild"] = true,
+			["no_key"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -389,14 +396,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {

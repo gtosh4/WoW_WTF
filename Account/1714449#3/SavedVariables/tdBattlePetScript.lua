@@ -1,23 +1,23 @@
 
 TD_DB_BATTLEPETSCRIPT_GLOBAL = {
-	["profileKeys"] = {
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-	},
 	["global"] = {
 		["version"] = 80100.01,
 		["scripts"] = {
-			["Rematch"] = {
-			},
-			["Base"] = {
+			["AllInOne"] = {
 			},
 			["FirstEnemy"] = {
 			},
-			["AllInOne"] = {
+			["Base"] = {
+			},
+			["Rematch"] = {
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

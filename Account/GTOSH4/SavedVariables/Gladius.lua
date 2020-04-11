@@ -70,11 +70,11 @@ Gladius2DB = {
 		["Toshpriest - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1533.599558327172,
-			},
 			["y"] = {
 				["arena1"] = 441.5132671820466,
+			},
+			["x"] = {
+				["arena1"] = 1533.599558327172,
 			},
 		},
 		["Yorman - Kil'jaeden"] = {

@@ -126,20 +126,6 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshmonk"] = {
-			["profile"] = "default",
-			["name"] = "Toshmonk",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Sumex"] = {
 			["profile"] = "default",
 			["name"] = "Sumex",
@@ -157,6 +143,20 @@ BD_persistent = {
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshmonk"] = {
+			["profile"] = "default",
+			["name"] = "Toshmonk",
 			["spec_profile"] = {
 				{
 				}, -- [1]

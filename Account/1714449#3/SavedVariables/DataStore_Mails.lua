@@ -19,7 +19,7 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/04/06 11:24",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1586482042,
+				["lastUpdate"] = 1586576059,
 				["Mails"] = {
 					{
 						["returned"] = false,
@@ -27,22 +27,22 @@ DataStore_MailsDB = {
 						["itemID"] = 165703,
 						["link"] = "|cffa335ee|Hitem:165703::::::::120:262::::::|h[Breath of Bwonsamdi]|h|r",
 						["count"] = 20,
-						["lastCheck"] = 1586482042,
+						["lastCheck"] = 1586576059,
 						["icon"] = 2442247,
-						["daysLeft"] = 21.95840263366699,
+						["daysLeft"] = 20.87025451660156,
 					}, -- [1]
 					{
-						["lastCheck"] = 1586482042,
+						["lastCheck"] = 1586576059,
 						["sender"] = "The Postmaster",
 						["subject"] = "Recovered Item",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "We recovered a lost item in the twisting nether and noted that it was yours.\n\nPlease find said object enclosed.",
 						["icon"] = 134327,
-						["daysLeft"] = 21.95840263366699,
+						["daysLeft"] = 20.87025451660156,
 					}, -- [2]
 				},
-				["lastVisitDate"] = "2020/04/09 21:27",
+				["lastVisitDate"] = "2020/04/10 23:34",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1586302801,

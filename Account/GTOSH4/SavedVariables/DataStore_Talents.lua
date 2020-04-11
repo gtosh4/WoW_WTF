@@ -46,9 +46,9 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1586405214,
+				["lastUpdate"] = 1586584505,
 				["Specializations"] = {
-					5997, -- [1]
+					5989, -- [1]
 					7065, -- [2]
 					5849, -- [3]
 				},
@@ -91,7 +91,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DEATHKNIGHT",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586313487,
+				["lastUpdate"] = 1586551114,
 				["Specializations"] = {
 					127, -- [1]
 				},
@@ -412,7 +412,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 33775,
+			["Version"] = 33941,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",

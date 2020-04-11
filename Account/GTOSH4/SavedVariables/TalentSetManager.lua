@@ -408,6 +408,21 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
+	["Toshwar-Kil'jaeden"] = {
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Toshtrial-The Forgotten Coast"] = {
 		["talents"] = {
 			{
@@ -431,21 +446,6 @@ TalentSetManager_CharacterSaves = {
 			}, -- [2]
 			{
 			}, -- [3]
-		},
-		["talents_pvp"] = {
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip4"] = 0,
-			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Toshwar-Kil'jaeden"] = {
-		["talents"] = {
-			{
-			}, -- [1]
 		},
 		["talents_pvp"] = {
 		},

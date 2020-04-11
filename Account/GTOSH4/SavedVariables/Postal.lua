@@ -64,6 +64,12 @@ Postal3DB = {
 			},
 		},
 		["Toshpriest - Area 52"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Yellowy|Area 52|Horde", -- [1]
+					"Tosh|Area 52|Horde", -- [2]
+				},
+			},
 		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
