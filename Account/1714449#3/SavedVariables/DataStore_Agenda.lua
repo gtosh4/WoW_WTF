@@ -27,21 +27,21 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpriest"] = {
 						["note"] = "",
-						["level"] = 60,
 						["class"] = "Priest",
+						["level"] = 60,
 					},
 				},
 				["lastUpdate"] = 1586316271,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["The Eternal Palace Mythic|385378425"] = "300544|1586575855|0|1",
 					["Battle of Dazar'alor Mythic|386165084"] = "300544|1586575855|0|1",
+					["The Eternal Palace Mythic|385378425"] = "300544|1586575855|0|1",
 				},
 				["lastUpdate"] = 1586576081,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586304778,
+				["lastUpdate"] = 1586653700,
 			},
 		},
 	},

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2294,
 	["lastSanitation"] = 3,
-	["session"] = 2291,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8779: attempt to call method 'Hide' (a nil value)",
@@ -97,5 +97,12 @@ BugGrabberDB = {
 			["session"] = 2286,
 			["counter"] = 2,
 		}, -- [12]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/04/11 20:20:01",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 2293,
+			["counter"] = 1,
+		}, -- [13]
 	},
 }

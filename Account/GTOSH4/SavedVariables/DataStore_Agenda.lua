@@ -11,12 +11,12 @@ DataStore_AgendaDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -45,36 +45,36 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|386172039"] = "291889|1586584510|0|1",
-					["Battle of Dazar'alor Mythic|183947310"] = "291889|1586584510|0|1",
-					["Ny'alotha, the Waking City Mythic|385293468"] = "291889|1586584510|0|1",
+					["Ny'alotha, the Waking City Heroic|386172039"] = "206780|1586669619|0|1",
+					["Ny'alotha, the Waking City Mythic|385293468"] = "206780|1586669619|0|1",
+					["Battle of Dazar'alor Mythic|183947310"] = "206780|1586669619|0|1",
 				},
-				["lastUpdate"] = 1586588969,
+				["lastUpdate"] = 1586671963,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
+			},
+			["Default.Frostwolf.Sumex"] = {
+				["lastUpdate"] = 1581544171,
+			},
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1581544004,
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1586184227,
+			},
+			["Default.Frostwolf.Tosh"] = {
+				["lastUpdate"] = 1581544041,
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["Contacts"] = {
 					["Toshpal"] = {
 						["note"] = "",
-						["class"] = "Paladin",
 						["level"] = 60,
+						["class"] = "Paladin",
 					},
 				},
 				["lastUpdate"] = 1586551361,
-			},
-			["Default.Frostwolf.Tosh"] = {
-				["lastUpdate"] = 1581544041,
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1586184227,
-			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1581544004,
-			},
-			["Default.Frostwolf.Sumex"] = {
-				["lastUpdate"] = 1581544171,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,

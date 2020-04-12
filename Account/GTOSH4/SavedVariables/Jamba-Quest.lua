@@ -36,11 +36,11 @@ JambaQuestProfileDB = {
 		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
+			["acceptFromTeam"] = true,
 			["onlyAcceptQuestsFrom"] = true,
 			["showJambaQuestLogWithWoWQuestLog"] = false,
-			["acceptFromTeam"] = true,
-			["doNotAutoAccept"] = false,
 			["masterAutoShareQuestOnAccept"] = true,
+			["doNotAutoAccept"] = false,
 		},
 		["Zallie - Frostwolf"] = {
 		},

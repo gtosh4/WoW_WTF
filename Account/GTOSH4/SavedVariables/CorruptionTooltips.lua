@@ -21,13 +21,13 @@ CorruptionTooltipsDB = {
 		},
 		["Toshpriest - Illidan"] = {
 		},
-		["Tosku - Kil'jaeden"] = {
-		},
-		["Toshpriest - Area 52"] = {
+		["Toshwar - Kil'jaeden"] = {
 		},
 		["Toshdk - Kil'jaeden"] = {
 		},
-		["Toshwar - Kil'jaeden"] = {
+		["Toshpriest - Area 52"] = {
+		},
+		["Tosku - Kil'jaeden"] = {
 		},
 	},
 }

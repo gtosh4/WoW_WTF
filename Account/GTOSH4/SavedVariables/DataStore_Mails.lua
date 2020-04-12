@@ -11,23 +11,23 @@ DataStore_MailsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1586586405,
-				["lastVisitDate"] = "2020/04/11 02:26",
+				["lastUpdate"] = 1586650765,
+				["lastVisitDate"] = "2020/04/11 20:19",
 			},
-			["Default.Kil'jaeden.Toshwar"] = {
-				["lastUpdate"] = 1584068132,
-				["lastVisitDate"] = "2020/03/12 22:55",
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1586551361,
+				["lastVisitDate"] = "2020/04/10 16:42",
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1556088028,
@@ -37,9 +37,9 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1586153876,
 				["lastVisitDate"] = "2020/04/06 02:17",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586551361,
-				["lastVisitDate"] = "2020/04/10 16:42",
+			["Default.Kil'jaeden.Toshwar"] = {
+				["lastUpdate"] = 1584068132,
+				["lastVisitDate"] = "2020/03/12 22:55",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1585715225,

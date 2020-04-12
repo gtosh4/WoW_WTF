@@ -2,17 +2,17 @@
 JambaQuestWatcherProfileDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["enableQuestWatcher"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
-			["watcherFrameYOffset"] = 149.9999847412109,
 			["enableQuestWatcher"] = false,
+			["watcherFrameYOffset"] = 149.9999847412109,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 		},

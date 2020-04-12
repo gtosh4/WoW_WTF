@@ -11,24 +11,24 @@ AltoholicDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Sharing"] = {
-			["Domains"] = {
-				["Tosh.Kil'jaeden"] = {
-					["lastUpdatedWith"] = "Tosh",
-					["lastSharingTimestamp"] = 1556407707,
-				},
-			},
 			["Clients"] = {
 				"Tosh|1", -- [1]
+			},
+			["Domains"] = {
+				["Tosh.Kil'jaeden"] = {
+					["lastSharingTimestamp"] = 1556407707,
+					["lastUpdatedWith"] = "Tosh",
+				},
 			},
 		},
 		["options"] = {
