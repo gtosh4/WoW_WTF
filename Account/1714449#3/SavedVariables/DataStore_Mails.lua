@@ -19,30 +19,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/04/06 11:24",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1586576059,
-				["Mails"] = {
-					{
-						["link"] = "|cffa335ee|Hitem:165703::::::::120:262::::::|h[Breath of Bwonsamdi]|h|r",
-						["sender"] = "The Postmaster",
-						["itemID"] = 165703,
-						["returned"] = false,
-						["icon"] = 2442247,
-						["count"] = 20,
-						["lastCheck"] = 1586576059,
-						["daysLeft"] = 20.87025451660156,
-					}, -- [1]
-					{
-						["icon"] = 134327,
-						["sender"] = "The Postmaster",
-						["subject"] = "Recovered Item",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "We recovered a lost item in the twisting nether and noted that it was yours.\n\nPlease find said object enclosed.",
-						["lastCheck"] = 1586576059,
-						["daysLeft"] = 20.87025451660156,
-					}, -- [2]
-				},
-				["lastVisitDate"] = "2020/04/10 23:34",
+				["lastUpdate"] = 1586728812,
+				["lastVisitDate"] = "2020/04/12 18:00",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1586653424,
@@ -52,8 +30,8 @@ DataStore_MailsDB = {
 						["sender"] = "The Postmaster",
 						["itemID"] = 155615,
 						["link"] = "|cff9d9d9d|Hitem:155615::::::::120:256::::::|h[Pestilent Muck]|h|r",
-						["count"] = 1,
 						["lastCheck"] = 1586653424,
+						["count"] = 1,
 						["icon"] = 1500940,
 						["daysLeft"] = 29.99957084655762,
 					}, -- [1]
@@ -62,8 +40,8 @@ DataStore_MailsDB = {
 						["sender"] = "The Postmaster",
 						["itemID"] = 173406,
 						["link"] = "|cff0070dd|Hitem:173406::::::::120:256::14::::|h[Black Empire Mail Belt]|h|r",
-						["count"] = 1,
 						["lastCheck"] = 1586653424,
+						["count"] = 1,
 						["icon"] = 3036530,
 						["daysLeft"] = 29.99957084655762,
 					}, -- [2]
@@ -72,8 +50,8 @@ DataStore_MailsDB = {
 						["sender"] = "The Postmaster",
 						["itemID"] = 173913,
 						["link"] = "|cff9d9d9d|Hitem:173913::::::::120:256::::::|h[Imbued Malformed Scale]|h|r",
-						["count"] = 1,
 						["lastCheck"] = 1586653424,
+						["count"] = 1,
 						["icon"] = 134309,
 						["daysLeft"] = 29.99957084655762,
 					}, -- [3]

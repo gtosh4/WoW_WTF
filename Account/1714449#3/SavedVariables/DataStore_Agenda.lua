@@ -35,13 +35,13 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|386165084"] = "300544|1586575855|0|1",
-					["The Eternal Palace Mythic|385378425"] = "300544|1586575855|0|1",
+					["Battle of Dazar'alor Mythic|386165084"] = "145326|1586731072|0|1",
+					["The Eternal Palace Mythic|385378425"] = "145326|1586731072|0|1",
 				},
-				["lastUpdate"] = 1586576081,
+				["lastUpdate"] = 1586731075,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586653700,
+				["lastUpdate"] = 1586742481,
 			},
 		},
 	},

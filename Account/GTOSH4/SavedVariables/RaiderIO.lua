@@ -1,17 +1,11 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpal-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Kimarosea-darkspear"] = true,
-	["us-Tsunamo-korgath"] = true,
-	["us-Ayren-tichondrius"] = true,
-	["us-Brovidbrady-darkspear"] = true,
-	["us-Eets-frostmourne"] = true,
-	["us-Mixerxmzzy-darkspear"] = true,
-	["us-Taemoua-darkspear"] = true,
-	["us-Trask-tichondrius"] = true,
-	["us-Shootycheeks-tichondrius"] = true,
-	["us-Unknown-kiljaeden"] = true,
-	["us-Cosmicfunk-moon-guard"] = true,
+	["us-Mixels-chromaggus"] = true,
+	["us-Orkrim-garrosh"] = true,
+	["us-Kalym-runetotem"] = true,
+	["us-Kalisper-tichondrius"] = true,
+	["us-Allisterr-tichondrius"] = true,
 }

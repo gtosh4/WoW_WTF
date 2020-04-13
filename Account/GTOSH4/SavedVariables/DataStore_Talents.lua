@@ -22,7 +22,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1586274312,
+				["lastUpdate"] = 1586728010,
 				["Specializations"] = {
 					14697, -- [1]
 					0, -- [2]
@@ -46,7 +46,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1586669616,
+				["lastUpdate"] = 1586723857,
 				["Specializations"] = {
 					5989, -- [1]
 					7065, -- [2]
@@ -210,7 +210,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 33775,
+			["Version"] = 33941,
 		},
 		["WARRIOR"] = {
 			["Locale"] = "enUS",

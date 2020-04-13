@@ -30,7 +30,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1585854341,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1586275539,
+				["lastUpdate"] = 1586728532,
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584069147,
@@ -45,11 +45,11 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|386172039"] = "206780|1586669619|0|1",
-					["Ny'alotha, the Waking City Mythic|385293468"] = "206780|1586669619|0|1",
-					["Battle of Dazar'alor Mythic|183947310"] = "206780|1586669619|0|1",
+					["Ny'alotha, the Waking City Heroic|386172039"] = "152513|1586723885|0|1",
+					["Ny'alotha, the Waking City Mythic|385293468"] = "152513|1586723885|0|1",
+					["Battle of Dazar'alor Mythic|183947310"] = "152513|1586723885|0|1",
 				},
-				["lastUpdate"] = 1586671963,
+				["lastUpdate"] = 1586723907,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
