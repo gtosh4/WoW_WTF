@@ -36,7 +36,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586740506,
+				["lastUpdate"] = 1586852092,
 				["Specializations"] = {
 					5503, -- [1]
 					10670, -- [2]

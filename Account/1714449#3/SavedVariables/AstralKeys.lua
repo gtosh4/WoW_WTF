@@ -25,25 +25,25 @@ AstralKeys = {
 		18, -- [4]
 		18, -- [5]
 		142, -- [6]
-		470081, -- [7]
+		579791, -- [7]
 	}, -- [3]
 	{
 		"Oof-Kil'jaeden", -- [1]
 		"PALADIN", -- [2]
 		246, -- [3]
 		14, -- [4]
-		0, -- [5]
+		16, -- [5]
 		142, -- [6]
-		4, -- [7]
+		5, -- [7]
 	}, -- [4]
 	{
 		"Kosaki-Kil'jaeden", -- [1]
 		"ROGUE", -- [2]
 		246, -- [3]
 		14, -- [4]
-		0, -- [5]
+		15, -- [5]
 		142, -- [6]
-		468378, -- [7]
+		580112, -- [7]
 	}, -- [5]
 	{
 		"Idc-Kil'jaeden", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		15, -- [4]
 		18, -- [5]
 		142, -- [6]
-		470571, -- [7]
+		579690, -- [7]
 	}, -- [7]
 	{
 		"Cadadk-Kil'jaeden", -- [1]
@@ -95,9 +95,9 @@ AstralKeys = {
 		"PALADIN", -- [2]
 		249, -- [3]
 		18, -- [4]
-		0, -- [5]
+		16, -- [5]
 		142, -- [6]
-		450278, -- [7]
+		580540, -- [7]
 	}, -- [11]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		16, -- [4]
 		16, -- [5]
 		142, -- [6]
-		468972, -- [7]
+		580573, -- [7]
 	}, -- [12]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
@@ -266,7 +266,7 @@ AstralFriends = {
 		370, -- [4]
 		19, -- [5]
 		142, -- [6]
-		446735, -- [7]
+		578884, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [1]
@@ -360,6 +360,39 @@ AstralFriends = {
 	}, -- [9]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1586876400,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["guild"] = true,
+			["raid"] = false,
+			["no_key"] = true,
+			["party"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -385,39 +418,6 @@ AstralKeysSettings = {
 		},
 		["sorth_method"] = "character_name",
 		["current_list"] = "FRIENDS",
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1586876400,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["no_key"] = true,
-			["party"] = true,
-			["guild"] = true,
-			["raid"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
 	},
 }
 AstralMinimap = {

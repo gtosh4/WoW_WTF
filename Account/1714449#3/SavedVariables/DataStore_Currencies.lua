@@ -43,11 +43,11 @@ DataStore_CurrenciesDB = {
 					[1565] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1710] = "0-0-0-0",
-					[1342] = "0-0-0-0",
+					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1560] = "0-0-0-0",
 					[994] = "0-0-0-0",
-					[823] = "0-0-0-0",
+					[1342] = "0-0-0-0",
 					[1580] = "0-0-0-0",
 				},
 			},
@@ -156,11 +156,11 @@ DataStore_CurrenciesDB = {
 					[1565] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1710] = "355-0-0-0",
-					[1342] = "0-0-0-0",
+					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1560] = "15463-0-0-0",
 					[994] = "0-0-0-0",
-					[823] = "0-0-0-0",
+					[1342] = "0-0-0-0",
 					[1580] = "4-0-0-5",
 				},
 			},
@@ -174,17 +174,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 28,
-						["count"] = 5284,
+						["count"] = 12551,
 					}, -- [2]
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 1278,
+						["count"] = 1328,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 825,
+						["count"] = 900,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -214,7 +214,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 7475,
+						["count"] = 7747,
 					}, -- [10]
 					{
 						["isHeader"] = true,
@@ -259,7 +259,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586740506,
+				["lastUpdate"] = 1586852092,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -269,11 +269,11 @@ DataStore_CurrenciesDB = {
 					[1565] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1710] = "258-0-0-0",
-					[823] = "0-0-0-0",
-					[1226] = "0-0-0-0",
-					[1560] = "7475-0-0-0",
-					[994] = "0-0-0-0",
 					[1342] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1560] = "7747-0-0-0",
+					[994] = "0-0-0-0",
+					[823] = "0-0-0-0",
 					[1580] = "5-0-0-5",
 				},
 			},
@@ -331,12 +331,12 @@ DataStore_CurrenciesDB = {
 				["Legion"] = 9,
 				["Battle for Azeroth"] = 1,
 				["Warlords of Draenor"] = 20,
-				["Timeworn Artifact"] = 17,
-				["Wakening Essence"] = 19,
-				["Prismatic Manapearl"] = 27,
 				["Echoes of Ny'alotha"] = 30,
-				["Apexis Crystal"] = 21,
+				["Wakening Essence"] = 19,
 				["Coalescing Visions"] = 28,
+				["Timeworn Artifact"] = 17,
+				["Apexis Crystal"] = 21,
+				["Prismatic Manapearl"] = 27,
 				["Garrison Resources"] = 22,
 				["Seal of Tempered Fate"] = 23,
 				["Wrath of the Lich King"] = 24,

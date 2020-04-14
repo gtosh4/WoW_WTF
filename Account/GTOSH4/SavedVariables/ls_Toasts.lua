@@ -80,11 +80,10 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["ilvl"] = true,
 					["threshold"] = 1,
 				},
-				["recipe"] = {
-					["anchor"] = 1,
+				["achievement"] = {
 					["enabled"] = true,
 					["dnd"] = false,
-					["sfx"] = true,
+					["anchor"] = 1,
 				},
 				["garrison_8_0"] = {
 					["anchor"] = 1,
@@ -114,10 +113,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["achievement"] = {
+				["recipe"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
-					["anchor"] = 1,
+					["sfx"] = true,
 				},
 				["loot_gold"] = {
 					["enabled"] = true,
