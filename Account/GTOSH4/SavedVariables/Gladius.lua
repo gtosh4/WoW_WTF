@@ -23,29 +23,29 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
+			["classIconShowSpec"] = true,
 			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
+			["y"] = {
+				["arena1"] = 229.7807371077943,
+			},
+			["castBarTexture"] = "Smooth v2",
 			["modules"] = {
 				["Announcements"] = false,
 			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
 			},
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["classIconShowSpec"] = true,
 			["castBarAttachTo"] = "Frame",
 			["castBarAnchor"] = "BOTTOMLEFT",
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "Smooth v2",
-			["castBarTexture"] = "Smooth v2",
+			["auraVersion"] = 1,
 		},
 		["Daggny - Frostwolf"] = {
 			["auraVersion"] = 1,

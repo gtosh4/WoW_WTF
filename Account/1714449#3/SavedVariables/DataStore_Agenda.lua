@@ -12,7 +12,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-04-14",
+			["NextWeeklyReset"] = "2020-04-21",
 		},
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -34,14 +34,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1586316271,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|386165084"] = "145326|1586731072|0|1",
-					["The Eternal Palace Mythic|385378425"] = "145326|1586731072|0|1",
-				},
-				["lastUpdate"] = 1586731075,
+				["lastUpdate"] = 1586924707,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586852176,
+				["lastUpdate"] = 1586924608,
 			},
 		},
 	},

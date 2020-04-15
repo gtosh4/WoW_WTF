@@ -516,12 +516,16 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshwar-Kil'jaeden"] = {
+	["Toshtrial-Blood Furnace"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
 			{
 			}, -- [1]
+			{
+			}, -- [2]
+			{
+			}, -- [3]
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -598,16 +602,12 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshtrial-Blood Furnace"] = {
+	["Toshtrial-The Forgotten Coast"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
 			{
 			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -617,7 +617,7 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshtrial-The Forgotten Coast"] = {
+	["Toshwar-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {

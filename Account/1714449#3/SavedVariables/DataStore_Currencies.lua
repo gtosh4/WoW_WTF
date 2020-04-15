@@ -71,7 +71,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 3681,
+						["count"] = 4058,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -96,12 +96,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 10050,
+						["count"] = 12290,
 					}, -- [9]
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 15463,
+						["count"] = 15423,
 					}, -- [10]
 					{
 						["isHeader"] = true,
@@ -146,7 +146,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586731036,
+				["lastUpdate"] = 1586924639,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -158,7 +158,7 @@ DataStore_CurrenciesDB = {
 					[1710] = "355-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1560] = "15463-0-0-0",
+					[1560] = "15423-0-0-0",
 					[994] = "0-0-0-0",
 					[1342] = "0-0-0-0",
 					[1580] = "4-0-0-5",
@@ -184,7 +184,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 900,
+						["count"] = 1271,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -209,7 +209,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 4940,
+						["count"] = 7180,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -259,7 +259,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586852092,
+				["lastUpdate"] = 1586924504,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",

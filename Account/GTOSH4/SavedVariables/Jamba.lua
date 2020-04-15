@@ -232,10 +232,10 @@ JambaTeamProfileDB = {
 		["Default"] = {
 			["characterOnline"] = {
 				["Toshpal-Kil'jaeden"] = true,
-				["Toshaman-Kil'jaeden"] = false,
+				["Toshaman-Kil'jaeden"] = true,
 				["Toshwar-Kil'jaeden"] = false,
 				["Toshdk-Kil'jaeden"] = false,
-				["Tosh-Kil'jaeden"] = true,
+				["Tosh-Kil'jaeden"] = false,
 			},
 			["characterClass"] = {
 				["Toshpal-Kil'jaeden"] = "PALADIN",
