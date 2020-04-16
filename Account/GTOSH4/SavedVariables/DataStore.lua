@@ -12,24 +12,31 @@ DataStoreDB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Guilds"] = {
+			["Default.Kil'jaeden.Rivalry"] = {
+				["faction"] = "Horde",
+			},
 			["Default.Kil'jaeden.Koopa Troopa"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Rivalry"] = {
+			["Default.Area 52.sheeple"] = {
 				["faction"] = "Horde",
 			},
 		},
 		["Version"] = 1,
 		["Characters"] = {
+			["Default.Area 52.Toshaman"] = {
+				["faction"] = "Horde",
+			},
 			["Default.Illidan.Toshpriest"] = {
 				["faction"] = "Horde",
 			},
@@ -67,6 +74,7 @@ DataStoreDB = {
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["faction"] = "Horde",
+				["guildName"] = "sheeple",
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["faction"] = "Horde",

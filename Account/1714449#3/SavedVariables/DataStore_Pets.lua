@@ -3,6 +3,7 @@ DataStore_PetsDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -53,10 +54,11 @@ DataStore_PetsDB = {
 				[301137] = 154894,
 				[315298] = 161962,
 				[288914] = 148991,
+				[315221] = 161919,
 				[230444] = 115919,
-				[253916] = 127947,
-				[288916] = 148995,
 				[221907] = 111423,
+				[288916] = 148995,
+				[253916] = 127947,
 				[288870] = 148981,
 				[315301] = 161963,
 				[177225] = 143809,
@@ -65,9 +67,9 @@ DataStore_PetsDB = {
 				[177217] = 143814,
 				[221683] = 111296,
 				[301015] = 154819,
+				[69452] = 36871,
 				[286474] = 147583,
 				[315303] = 161966,
-				[69452] = 36871,
 				[177221] = 143812,
 				[177222] = 143811,
 				[288868] = 148979,
@@ -83,6 +85,12 @@ DataStore_PetsDB = {
 			},
 		},
 		["Characters"] = {
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1587014813,
+			},
+			["Default.Dreadmaul.Toshaman"] = {
+				["lastUpdate"] = 1587015438,
+			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1580712035,
 				["CRITTER"] = {
@@ -108,11 +116,8 @@ DataStore_PetsDB = {
 					301015, -- [20]
 				},
 			},
-			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1586315618,
-			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1586924640,
+				["lastUpdate"] = 1587013587,
 				["CRITTER"] = {
 					301136, -- [1]
 					315290, -- [2]
@@ -134,7 +139,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586924504,
+				["lastUpdate"] = 1587011445,
 				["CRITTER"] = {
 					301137, -- [1]
 					286483, -- [2]
@@ -146,15 +151,16 @@ DataStore_PetsDB = {
 					288868, -- [8]
 					301029, -- [9]
 					301031, -- [10]
-					301033, -- [11]
-					177222, -- [12]
-					177229, -- [13]
-					177244, -- [14]
-					280331, -- [15]
-					286482, -- [16]
-					288910, -- [17]
-					315303, -- [18]
-					279643, -- [19]
+					315221, -- [11]
+					301033, -- [12]
+					177222, -- [13]
+					177229, -- [14]
+					177244, -- [15]
+					280331, -- [16]
+					286482, -- [17]
+					288910, -- [18]
+					315303, -- [19]
+					279643, -- [20]
 				},
 			},
 		},

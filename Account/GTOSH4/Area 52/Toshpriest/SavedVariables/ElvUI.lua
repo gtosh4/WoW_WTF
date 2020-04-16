@@ -3,843 +3,26 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" what're those", -- [1]
 		"/inv Toshpal ", -- [2]
-		"/ec", -- [3]
-		"/s", -- [4]
-		"/alto show", -- [5]
-		"/plater", -- [6]
-		"/aap skip", -- [7]
-		"/console synchronizeMacros 0", -- [8]
-		"/raid got it", -- [9]
-		"/p oh wait", -- [10]
+		"/alto show", -- [3]
+		"/console synchronizeMacros 0", -- [4]
+		"/aap skip", -- [5]
+		"for the void collapse", -- [6]
+		"/ec", -- [7]
+		"/m", -- [8]
+		"/plater", -- [9]
+		"/who ogv", -- [10]
 		"/inv Toshpal", -- [11]
-		"/raid |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:16:3071|h[Ny'alotha, the Waking City]|h|r", -- [12]
-		"/m", -- [13]
+		"/jamba", -- [12]
+		"/s", -- [13]
 		"/who divergence", -- [14]
-		"for the void collapse", -- [15]
-		"/shrug", -- [16]
-		"yeah, hope she is", -- [17]
+		"/raid got it", -- [15]
+		"/raid |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:16:3071|h[Ny'alotha, the Waking City]|h|r", -- [16]
+		"/p oh wait", -- [17]
 		"what're those", -- [18]
-		"/who ogv", -- [19]
-		"/jamba", -- [20]
+		"yeah, hope she is", -- [19]
+		"/shrug", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			">WTS< 4 Mask Horrific Vision carry loot run!(Gold Only) PST", -- [1]
-			"Fanz-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fanz-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			252, -- [11]
-			"Player-3676-0A286222", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecFanz|r",
-			[51] = 1586279278,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
-			"Fugarax-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fugarax-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-3676-0A4A06C6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecFugarax|r",
-			[51] = 1586279279,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"Wts|cffa335ee|Hitem:31336::::::::20:260:512:30:1:3976:101:::|h[Blade of Wizardry]|h|r|cff1eff00|Hitem:14915::::::::20:260:512:54:2:1692:4277:120:::|h[Jade Breastplate of the Fireflash]|h|r|cffa335ee|Hitem:147428::::::::20:260::6:3:3563:1498:3528:::|h[Spiked Terrorwake Greatboots]|h|r", -- [1]
-			"Fishbank-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fishbank-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			257, -- [11]
-			"Player-3676-08D9FF9F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Fishbank|r",
-			[51] = 1586279309,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"Wts|cffa335ee|Hitem:137686::::::::20:260::13::::|h[Steelbound Harness]|h|r|cff0070dd|Hitem:128312::::::::20:260::::::|h[Elixir of the Rapid Mind]|h|r", -- [1]
-			"Fishbank-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fishbank-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			258, -- [11]
-			"Player-3676-08D9FF9F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Fishbank|r",
-			[51] = 1586279311,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"Selling |cff66bbff|Hjournal:1:2366:15|h[Carapace of N'Zoth]|h|r |cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|r Heroic Done by Experienced players .come get your kills and Mount and  loots! W/for details!Cheap Price:)Gold Only", -- [1]
-			"Santisoe-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Santisoe-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-3676-0A7FA11E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSantisoe|r",
-			[51] = 1586279313,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"WTS M+ SPECIALS! M+10-19s, run by 2.9k+ io players - guaranteed on time! Cheap M10s & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Gold only. Dont miss your 475 corrupted from the weekly chest. Horrific Visions, Nyalotha HC/M", -- [1]
-			"Skallkybanky-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Skallkybanky-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-3676-0ABA3D0D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Skallkybanky|r",
-			[51] = 1586279330,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"selling |cff71d5ff|Hspell:179478:0|h[Voidtalon of the Dark Star]|h|r pst", -- [1]
-			"Zakore-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zakore-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			262, -- [11]
-			"Player-3676-0A1A8A48", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Zakore|r",
-			[51] = 1586279334,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"WTS Freehold 110-120  boosts. pst for more info and prices. 1 hours or so with looms/potion. Gold Only, over 3500 runs. Horde and Alliance <3", -- [1]
-			"Jrammdh-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jrammdh-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			264, -- [11]
-			"Player-3676-0A76B842", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Jrammdh|r",
-			[51] = 1586279353,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"The Gallywix Community ||WTS 12/12 HEROIC  Nya'lotha with the TOP US guilds! Personal loot or funnels available. Selling m+ 10-20s, 5 mask visions, Servant of Nzoth title, jaina mount and more. GOLD ONLY!", -- [1]
-			"Valerdrus-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Valerdrus-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			267, -- [11]
-			"Player-3676-0A430482", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Valerdrus|r",
-			[51] = 1586279384,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"Hello, Any chance you are looking for a guild. (Bound By Flame) is building up its ranks for Shadowlands. We have a Heroic & Normal Raid Team, We have active casual player base as well. We welcome all new, veterans, and returning players.", -- [1]
-			"Fréshcorpse-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fréshcorpse-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1130, -- [11]
-			"Player-3676-0ABDD131", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Fréshcorpse|r",
-			[51] = 1586290740,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [10]
-		{
-			"|cffffff00Tarren Mill is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Hillsbrad Foothills", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Hillsbrad Foothills", -- [9]
-			0, -- [10]
-			1253, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1586291768,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"|cffffff00Tarren Mill is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Hillsbrad Foothills", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Hillsbrad Foothills", -- [9]
-			0, -- [10]
-			1254, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1586291853,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"|cffffff00The Sludge Fields is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Hillsbrad Foothills", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Hillsbrad Foothills", -- [9]
-			0, -- [10]
-			1552, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1586294073,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"lol leveling toons on area 52 ahead of the transfer?", -- [1]
-			"|Kq45|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1565, -- [11]
-			false, -- [12]
-			30, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Blueflame213|r",
-			[51] = 1586294290,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Blueflame213",
-		}, -- [14]
-		{
-			"YEA", -- [1]
-			"|Kq45|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1567, -- [11]
-			false, -- [12]
-			30, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Blueflame213|r",
-			[51] = 1586294298,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Blueflame213",
-		}, -- [15]
-		{
-			"smarttttt ", -- [1]
-			"|Kq45|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1568, -- [11]
-			false, -- [12]
-			30, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Blueflame213|r",
-			[51] = 1586294304,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Blueflame213",
-		}, -- [16]
-		{
-			"hopping off discord ", -- [1]
-			"|Kq11|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1691, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cEnvious|r",
-			[51] = 1586294719,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [17]
-		{
-			"|cffffff00The Sludge Fields is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Hillsbrad Foothills", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Hillsbrad Foothills", -- [9]
-			0, -- [10]
-			1991, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1586296774,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"Wts|cffa335ee|Hitem:175006::::::::120:250::3:7:4822:6578:6579:6537:6513:1487:4786:::|h[Gauntlets of Nightmare Manifest]|h|r pst", -- [1]
-			"Lucïfèr-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lucïfèr-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2043, -- [11]
-			"Player-3676-091FF71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Lucïfèr|r",
-			[51] = 1586297017,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
-			"Glumi-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Glumi-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2047, -- [11]
-			"Player-3676-0A86A9BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecGlumi|r",
-			[51] = 1586297046,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
-			"Maryillo-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Maryillo-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2049, -- [11]
-			"Player-3676-0A5A708F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Maryillo|r",
-			[51] = 1586297049,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"[WTS] Mythic+ Season 4 10-15+ keys CARRY. Get your 455+ gear and WEEKLY CHEST done tonight! 455/465+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! Visit gteam.pro for more!                        ", -- [1]
-			"Lukarti-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lukarti-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2052, -- [11]
-			"Player-3676-0ABFCD3C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Lukarti|r",
-			[51] = 1586297059,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
-			"Glumi-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Glumi-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2059, -- [11]
-			"Player-3676-0A86A9BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecGlumi|r",
-			[51] = 1586297075,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"WTS 110-120 RUSH 9K PER LEVEL", -- [1]
-			"Elbrak-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Elbrak-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2065, -- [11]
-			"Player-3676-0A8BCEC3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Elbrak|r",
-			[51] = 1586297102,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
-			"Glumi-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Glumi-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2066, -- [11]
-			"Player-3676-0A86A9BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecGlumi|r",
-			[51] = 1586297104,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"[WTS] Classic WoW 1-60 leveling in 2 weeks! Professions boosts and many more to come. Face your legendary adventure with our help! Visit wow-classic.gteam.pro for more!                         ", -- [1]
-			"Lukarti-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lukarti-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2067, -- [11]
-			"Player-3676-0ABFCD3C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Lukarti|r",
-			[51] = 1586297108,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"Selling Full Heroic Nyalotha Run  pm for more info! ", -- [1]
-			"Ilugary-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ilugary-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2074, -- [11]
-			"Player-3676-0AAD3E15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cIlugary|r",
-			[51] = 1586297125,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
-			"Glumi-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Glumi-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2080, -- [11]
-			"Player-3676-0A86A9BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecGlumi|r",
-			[51] = 1586297133,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"WTS 110-120 RUSH 9K PER LEVEL", -- [1]
-			"Elbrak-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Elbrak-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2095, -- [11]
-			"Player-3676-0A8BCEC3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Elbrak|r",
-			[51] = 1586297148,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"WTS +15 carries for 200k Gold. Our key and you can sit at entrance. Come get your 465 end of dungeon and 475 corrupt from Weekly chest. Also selling a 5 mask carry for 250k gold. PST", -- [1]
-			"Ampage-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ampage-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2104, -- [11]
-			"Player-3676-0ABCE485", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Ampage|r",
-			[51] = 1586297155,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
-			"Maryillo-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Maryillo-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2141, -- [11]
-			"Player-3676-0A5A708F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Maryillo|r",
-			[51] = 1586297190,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"<Big Damage> 6/12M selling weekly 12/12 Heroic NYA full clear! Options for loot funnels and or specific bosses as well! Starting @ 8 EST TONIGHT! GOLD ONLY", -- [1]
-			"Vanapanda-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Vanapanda-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2161, -- [11]
-			"Player-3676-0A687677", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Vanapanda|r",
-			[51] = 1586297212,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
-			"Maryillo-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Maryillo-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2168, -- [11]
-			"Player-3676-0A5A708F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Maryillo|r",
-			[51] = 1586297221,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
-			"Glumi-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Glumi-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			194, -- [11]
-			"Player-3676-0A86A9BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecGlumi|r",
-			[51] = 1586297700,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
-			"Maryillo-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Maryillo-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			216, -- [11]
-			"Player-3676-0A5A708F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Maryillo|r",
-			[51] = 1586297712,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"WTS M+ 10~15|cffa335ee|Hkeystone:158923:246:15:9:5:3:120|h[Keystone: Tol Dagor (15)]|h|r|cffa335ee|Hkeystone:158923:353:15:9:5:3:120|h[Keystone: Siege of Boralus (15)]|h|r|cffa335ee|Hkeystone:158923:249:13:9:5:3:120|h[Keystone: Kings' Rest (13)]|h|rWeekly//Vision of N'Zoth Full Clear Only GOLD!", -- [1]
-			"Atrana-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Atrana-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			241, -- [11]
-			"Player-3676-0AA4F835", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Atrana|r",
-			[51] = 1586297726,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
-			"Fugarax-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fugarax-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-3676-0A4A06C6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecFugarax|r",
-			[51] = 1586297739,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
 		{
 			"burnofftherip 2/12M 12/12H is looking for dps for mythic nya progression. Raid days are tues/wed 7-11 est (server time). Anyone interested shoot me a pst. Joining the guild for prog  is not mandatory but encouraged.", -- [1]
 			"Styxian-Area52", -- [2]
@@ -861,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Styxian|r",
 			[51] = 1586297751,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [1]
 		{
 			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
 			"Glumi-Area52", -- [2]
@@ -883,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecGlumi|r",
 			[51] = 1586298029,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [2]
 		{
 			"WTS|cffa335ee|Hitem:175007::::::::120:269::6:7:4824:6578:6579:6548:6515:1517:4786:::|h[Footpads of Terrible Delusions]|h|r 475 R2 Ineffable 900k OBO pst", -- [1]
 			"Trùst-Area52", -- [2]
@@ -905,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Trùst|r",
 			[51] = 1586298053,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [3]
 		{
 			"WTS M+ 10~15|cffa335ee|Hkeystone:158923:246:15:9:5:3:120|h[Keystone: Tol Dagor (15)]|h|r|cffa335ee|Hkeystone:158923:353:15:9:5:3:120|h[Keystone: Siege of Boralus (15)]|h|r|cffa335ee|Hkeystone:158923:249:13:9:5:3:120|h[Keystone: Kings' Rest (13)]|h|rWeekly//Vision of N'Zoth Full Clear Only GOLD!", -- [1]
 			"Atrana-Area52", -- [2]
@@ -927,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Atrana|r",
 			[51] = 1586298070,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [4]
 		{
 			"[WTS] Ny'alotha Heroic guild runs with loot sharing. We help you to GEAR UP! Full Gear, Azerite guarantees! 460+ ILVL and \"AOTC\" achievement tonight! Your daily Raids and Mythic+ help. Visit gteam.pro for more!                         ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -949,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298102,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [5]
 		{
 			"WTS|cffa335ee|Hitem:175007::::::::120:269::6:7:4824:6578:6579:6548:6515:1517:4786:::|h[Footpads of Terrible Delusions]|h|r 475 R2 Ineffable 900k OBO pst", -- [1]
 			"Trùst-Area52", -- [2]
@@ -971,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Trùst|r",
 			[51] = 1586298105,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [6]
 		{
 			"[WTS] Mythic+ Season 4 10-15+ keys CARRY. Get your 455+ gear and WEEKLY CHEST done tonight! 455/465+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! Visit gteam.pro for more!                        ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -993,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298140,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [7]
 		{
 			"[WTS] Classic WoW 1-60 leveling in 2 weeks! Professions boosts and many more to come. Face your legendary adventure with our help! Visit wow-classic.gteam.pro for more!                         ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -1015,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298189,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [8]
 		{
 			"WTS |cffa335ee|Hitem:175008::::::::120:577::5:5:4823:6516:6515:1502:4786:::|h[Lurking Schemer's Band]|h|r and |cffa335ee|Hitem:175008::::::::120:577::5:8:4823:40:6578:6579:6562:6513:1502:4786:::|h[Lurking Schemer's Band]|h|r pst cheap", -- [1]
 			"Kurindryse-Area52", -- [2]
@@ -1037,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Kurindryse|r",
 			[51] = 1586298196,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [9]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -1059,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1586298196,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [10]
 		{
 			"WTS  |cffa335ee|Hitem:168830::::::::120:105::::::|h[Aerial Unit R-21/X]|h|r / |cffa335ee|Hitem:166705::::::::120:72::6:1:3524:::|h[Glacial Tidestorm]|h|r / Full Ny'alotha  heroic run.", -- [1]
 			"Rushgirl-Area52", -- [2]
@@ -1081,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Rushgirl|r",
 			[51] = 1586298205,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [11]
 		{
 			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
 			"Maryillo-Area52", -- [2]
@@ -1103,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maryillo|r",
 			[51] = 1586298218,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [12]
 		{
 			"WTS|cffa335ee|Hitem:175007::::::::120:269::6:7:4824:6578:6579:6548:6515:1517:4786:::|h[Footpads of Terrible Delusions]|h|r 475 R2 Ineffable 900k OBO pst", -- [1]
 			"Trùst-Area52", -- [2]
@@ -1125,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Trùst|r",
 			[51] = 1586298251,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [13]
 		{
 			"WTS M+ 10~15|cffa335ee|Hkeystone:158923:246:15:9:5:3:120|h[Keystone: Tol Dagor (15)]|h|r|cffa335ee|Hkeystone:158923:353:15:9:5:3:120|h[Keystone: Siege of Boralus (15)]|h|r|cffa335ee|Hkeystone:158923:249:13:9:5:3:120|h[Keystone: Kings' Rest (13)]|h|rWeekly//Vision of N'Zoth Full Clear Only GOLD!", -- [1]
 			"Atrana-Area52", -- [2]
@@ -1147,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Atrana|r",
 			[51] = 1586298254,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [14]
 		{
 			">SLB< Selling Heroic Full Clear TONIGHT @ 8PM EST - Personal and funnel spots available!!! M+ 10-15 TIMED! Get your 465-475 in your weekly chest! Also booking for Heroic/Mythic Nyalotha!  AOTC runs for Uncorrupted Voidwing mount!  ONLY]", -- [1]
 			"Jsqueeboost-Area52", -- [2]
@@ -1169,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecJsqueeboost|r",
 			[51] = 1586298275,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [15]
 		{
 			"[WТS] WTS Mythic+ runs Tonight! +10/+11/+12/+13/+14/+15 key CARRY. You will get ilvl 430-475+ Gear, RIO score & Essences. Fast Mechagon Mount runs. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1191,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586298298,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [16]
 		{
 			"burnofftherip 2/12M 12/12H is looking for dps for mythic nya progression. Raid days are tues/wed 7-11 est (server time). Anyone interested shoot me a pst. Joining the guild for prog  is not mandatory but encouraged.", -- [1]
 			"Styxian-Area52", -- [2]
@@ -1213,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Styxian|r",
 			[51] = 1586298321,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [17]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -1235,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1586298353,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [18]
 		{
 			"[WTS] Ny'alotha Heroic guild runs with loot sharing. We help you to GEAR UP! Full Gear, Azerite guarantees! 460+ ILVL and \"AOTC\" achievement tonight! Your daily Raids and Mythic+ help. Visit gteam.pro for more!                         ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -1257,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298372,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [19]
 		{
 			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
 			"Maryillo-Area52", -- [2]
@@ -1279,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maryillo|r",
 			[51] = 1586298393,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [20]
 		{
 			"[WТS] Horrific Visions Challenge Boost, Legendary cloak upgrade, Essences, Allied races, Reputations, Glories, Mounts & other 8.3 BOOSTS! We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1301,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586298393,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [21]
 		{
 			"[WTS] Mythic+ Season 4 10-15+ keys CARRY. Get your 455+ gear and WEEKLY CHEST done tonight! 455/465+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! Visit gteam.pro for more!                        ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -1323,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298410,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [22]
 		{
 			"WTS Heroic Ny'Alotha FULL CLEAR - GOLD ONLY - CHEAPEST PRICE - 7:30PM - eastern time - GEAR FEEDING AVAILABLE -Includes AOTC and Mount.  Pst", -- [1]
 			"Pinguin-Area52", -- [2]
@@ -1345,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPinguin|r",
 			[51] = 1586298429,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [23]
 		{
 			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
 			"Maryillo-Area52", -- [2]
@@ -1367,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maryillo|r",
 			[51] = 1586298449,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [24]
 		{
 			"[WTS] Classic WoW 1-60 leveling in 2 weeks! Professions boosts and many more to come. Face your legendary adventure with our help! Visit wow-classic.gteam.pro for more!                         ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -1389,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298460,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [25]
 		{
 			"WTS  |cffa335ee|Hitem:168830::::::::120:105::::::|h[Aerial Unit R-21/X]|h|r / |cffa335ee|Hitem:166705::::::::120:72::6:1:3524:::|h[Glacial Tidestorm]|h|r / Full Ny'alotha  heroic run.", -- [1]
 			"Rushgirl-Area52", -- [2]
@@ -1411,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Rushgirl|r",
 			[51] = 1586298473,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [26]
 		{
 			"WTS M+ 10~15|cffa335ee|Hkeystone:158923:246:15:9:5:3:120|h[Keystone: Tol Dagor (15)]|h|r|cffa335ee|Hkeystone:158923:353:15:9:5:3:120|h[Keystone: Siege of Boralus (15)]|h|r|cffa335ee|Hkeystone:158923:249:13:9:5:3:120|h[Keystone: Kings' Rest (13)]|h|rWeekly//Vision of N'Zoth Full Clear Only GOLD!", -- [1]
 			"Atrana-Area52", -- [2]
@@ -1433,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Atrana|r",
 			[51] = 1586298482,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [27]
 		{
 			"WTS |cffa335ee|Hitem:175005::::::::1:269::5:7:4823:6578:6579:6557:6513:1502:4786:::|h[Belt of Concealed Intent]|h|r75k", -- [1]
 			"Anotherbank-Area52", -- [2]
@@ -1455,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Anotherbank|r",
 			[51] = 1586298499,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [28]
 		{
 			"[WТS] Nyalotha Normal & Heroic Boosts: get ilvl 445-470+ corrupted gear, NEW MOUNT, Essences & Curve Achieve. Fast runs with TOP Guilds every day. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1477,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586298499,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [29]
 		{
 			"WTS Heroic Ny'Alotha FULL CLEAR - GOLD ONLY - CHEAPEST PRICE - 7:30PM - eastern time - GEAR FEEDING AVAILABLE -Includes AOTC and Mount.  Pst", -- [1]
 			"Pinguin-Area52", -- [2]
@@ -1499,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPinguin|r",
 			[51] = 1586298597,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [30]
 		{
 			"[WТS] WTS Mythic+ runs Tonight! +10/+11/+12/+13/+14/+15 key CARRY. You will get ilvl 430-475+ Gear, RIO score & Essences. Fast Mechagon Mount runs. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1521,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586298608,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [31]
 		{
 			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
 			"Maryillo-Area52", -- [2]
@@ -1543,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maryillo|r",
 			[51] = 1586298638,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [32]
 		{
 			"WTS 1-5 Mask Vision Runs!  PST if interested!", -- [1]
 			"Frostyu-Area52", -- [2]
@@ -1565,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Frostyu|r",
 			[51] = 1586298693,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [33]
 		{
 			"WTS Heroic/Mythic Nylotha full clear with armor stacking loot funnels available! Also selling  M+ 10-20 keys with get your weekly 475 piece! Buy 2 keys get free armor stacking for both runs! GOLD only, PST for prices ", -- [1]
 			"Clindasales-Area52", -- [2]
@@ -1587,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cClindasales|r",
 			[51] = 1586298700,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [34]
 		{
 			"[WТS] Horrific Visions Challenge Boost, Legendary cloak upgrade, Essences, Allied races, Reputations, Glories, Mounts & other 8.3 BOOSTS! We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1609,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586298723,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [35]
 		{
 			"[WTS] Classic WoW 1-60 leveling in 2 weeks! Professions boosts and many more to come. Face your legendary adventure with our help! Visit wow-classic.gteam.pro for more!                         ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -1631,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298730,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [36]
 		{
 			"[WTS] Ny'alotha Heroic guild runs with loot sharing. We help you to GEAR UP! Full Gear, Azerite guarantees! 460+ ILVL and \"AOTC\" achievement tonight! Your daily Raids and Mythic+ help. Visit gteam.pro for more!                         ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -1653,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298778,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [37]
 		{
 			"WTS Full 12/12H Ny'alotha Clear and AOTC only! FUNNELS AVAILABLE! WTS Mythic plus 10-20! Specific keys and armor stacking available! WTS Vision Clears (mask and no mask)! Pst for prices, GOLD ONLY.", -- [1]
 			"Breekey-Area52", -- [2]
@@ -1675,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Breekey|r",
 			[51] = 1586298811,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [38]
 		{
 			"[WТS] Nyalotha Normal & Heroic Boosts: get ilvl 445-470+ corrupted gear, NEW MOUNT, Essences & Curve Achieve. Fast runs with TOP Guilds every day. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1697,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586298812,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [39]
 		{
 			"[WTS] Mythic+ Season 4 10-15+ keys CARRY. Get your 455+ gear and WEEKLY CHEST done tonight! 455/465+ ILVL Gearing and Keystone Master achievement. Teams will share loot with you! Visit gteam.pro for more!                        ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -1719,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586298816,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [40]
 		{
 			"WTB |cff0070dd|Hbattlepet:2850:25:3:1034:326:326:0000000000000000:95146|h[Cursed Dune Watcher]|h|r", -- [1]
 			"Furzington-Area52", -- [2]
@@ -1741,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Furzington|r",
 			[51] = 1586298819,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [41]
 		{
 			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
 			"Glumi-Area52", -- [2]
@@ -1763,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecGlumi|r",
 			[51] = 1586298849,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [42]
 		{
 			">SLB< Selling Heroic Full Clear TONIGHT @ 8PM EST with 12/12M GUILD- Personal and funnel spots available!!! M+ 10-15 TIMED! Get your 465-475 in your weekly chest! Also booking for Heroic/Mythic Nyalotha!  AOTC runs+ Uncorrupted Voidwing mount!  ONLY]", -- [1]
 			"Jsqueeboost-Area52", -- [2]
@@ -1785,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecJsqueeboost|r",
 			[51] = 1586298855,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [43]
 		{
 			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
 			"Maryillo-Area52", -- [2]
@@ -1807,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maryillo|r",
 			[51] = 1586298864,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [44]
 		{
 			"WTB |cff0070dd|Hbattlepet:2850:25:3:1034:326:326:0000000000000000:95146|h[Cursed Dune Watcher]|h|r", -- [1]
 			"Furzington-Area52", -- [2]
@@ -1829,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Furzington|r",
 			[51] = 1586298880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [45]
 		{
 			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
 			"Glumi-Area52", -- [2]
@@ -1851,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecGlumi|r",
 			[51] = 1586298892,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [46]
 		{
 			"[WТS] WTS Mythic+ runs Tonight! +10/+11/+12/+13/+14/+15 key CARRY. You will get ilvl 430-475+ Gear, RIO score & Essences. Fast Mechagon Mount runs. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1873,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586298925,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [47]
 		{
 			"WTS Heroic/Mythic Nylotha full clear with armor stacking loot funnels available! Also selling  M+ 10-20 keys with armor funnels available get your weekly 475 piece!  GOLD only, PST for more info!", -- [1]
 			"Clindasales-Area52", -- [2]
@@ -1895,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cClindasales|r",
 			[51] = 1586298979,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [48]
 		{
 			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
 			"Glumi-Area52", -- [2]
@@ -1917,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecGlumi|r",
 			[51] = 1586299003,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [49]
 		{
 			"<Big Damage> 6/12M selling weekly 12/12 Heroic NYA full clear! Options for loot funnels and or specific bosses as well! Starting @ 8 EST TONIGHT! Gold Only!", -- [1]
 			"Pogmonk-Area52", -- [2]
@@ -1939,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Pogmonk|r",
 			[51] = 1586299005,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [50]
 		{
 			"[WТS] Horrific Visions Challenge Boost, Legendary cloak upgrade, Essences, Allied races, Reputations, Glories, Mounts & other 8.3 BOOSTS! We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -1961,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586299015,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [51]
 		{
 			"<Big Damage> 6/12M selling weekly 12/12 Heroic NYA full clear! Options for loot funnels and or specific bosses as well! Starting @ 8 EST TONIGHT! GOLD ONLY", -- [1]
 			"Vanapanda-Area52", -- [2]
@@ -1983,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Vanapanda|r",
 			[51] = 1586299033,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [52]
 		{
 			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
 			"Glumi-Area52", -- [2]
@@ -2005,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecGlumi|r",
 			[51] = 1586299100,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [53]
 		{
 			"[WТS] Nyalotha Normal & Heroic Boosts: get ilvl 445-470+ corrupted gear, NEW MOUNT, Essences & Curve Achieve. Fast runs with TOP Guilds every day. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -2027,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586299134,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [54]
 		{
 			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
 			"Maryillo-Area52", -- [2]
@@ -2049,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maryillo|r",
 			[51] = 1586299144,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [55]
 		{
 			"WTS 3-5 Mask Horrific Vision Full Clear Carry! Over 20 Sales Completed! (300K For 5 Mask) Even Rank 1 Cloak is Fine! Gold Only!", -- [1]
 			"Pogmonk-Area52", -- [2]
@@ -2071,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Pogmonk|r",
 			[51] = 1586299217,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [56]
 		{
 			">SLB< Selling Heroic Full Clear TONIGHT @ 8PM EST with 12/12M GUILD- Personal and funnel spots available!!! M+ 10-15 TIMED! Get your 465-475 in your weekly chest! Also booking for Heroic/Mythic Nyalotha!  AOTC runs+ Uncorrupted Voidwing mount!  ONLY]", -- [1]
 			"Jsqueeboost-Area52", -- [2]
@@ -2093,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecJsqueeboost|r",
 			[51] = 1586299228,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [57]
 		{
 			"wts |cffa335ee|Hitem:175004::::::::120:103::6:7:4824:6578:6579:6538:6515:1517:4786:::|h[Legwraps of Horrifying Figments]|h|r|cffa335ee|Hitem:175006::::::::120:103::5:7:4823:6578:6579:6551:6515:1502:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Mîtternaçht-Area52", -- [2]
@@ -2115,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mîtternaçht|r",
 			[51] = 1586299242,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [58]
 		{
 			"[WТS] WTS Mythic+ runs Tonight! +10/+11/+12/+13/+14/+15 key CARRY. You will get ilvl 430-475+ Gear, RIO score & Essences. Fast Mechagon Mount runs. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
 			"Powiwifip-Area52", -- [2]
@@ -2137,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPowiwifip|r",
 			[51] = 1586299249,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [59]
 		{
 			"<Big Damage> 6/12M selling weekly 12/12 Heroic NYA full clear! Options for loot funnels and or specific bosses as well! Starting @ 8 EST TONIGHT! GOLD ONLY", -- [1]
 			"Vanapanda-Area52", -- [2]
@@ -2159,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Vanapanda|r",
 			[51] = 1586299266,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [60]
 		{
 			"(HERIOC FULL CLEAR ) going tongiht guild run LOOT FUNNELS availble BEST PRICE pst GOLD ONLY !!!!!!!!!!! STARTING 8pm EASTERN", -- [1]
 			"Nibblemaster-Area52", -- [2]
@@ -2181,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nibblemaster|r",
 			[51] = 1586299282,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [61]
 		{
 			"WTB BULK! Zin'anthid 3.5k/stack, other BFA herbs 1k/stack COD or PST buying all!", -- [1]
 			"Glumi-Area52", -- [2]
@@ -2203,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecGlumi|r",
 			[51] = 1586299285,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [62]
 		{
 			"<Big Damage> 6/12M selling TONIGHT 12/12 Heroic NYA full clear! Options for loot funnels and or specific bosses as well! Starting @ 8 EST! Gold Only!", -- [1]
 			"Pogmonk-Area52", -- [2]
@@ -2225,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Pogmonk|r",
 			[51] = 1586299308,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [63]
 		{
 			"[WTS] Ny'alotha Heroic guild runs with loot sharing. We help you to GEAR UP! Full Gear, Azerite guarantees! 460+ ILVL and \"AOTC\" achievement tonight! Your daily Raids and Mythic+ help. Visit gteam.pro for more!                         ", -- [1]
 			"Lukarti-Area52", -- [2]
@@ -2247,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Lukarti|r",
 			[51] = 1586299318,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [64]
 		{
 			"<Big Damage> 6/12M selling weekly 12/12 Heroic NYA full clear! Options for loot funnels and or specific bosses as well! Starting @ 8 EST TONIGHT! GOLD ONLY", -- [1]
 			"Vanapanda-Area52", -- [2]
@@ -2269,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Vanapanda|r",
 			[51] = 1586299326,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [65]
 		{
 			"<As Intended 6/12M>  Selling 3/12 Mythic on Tuesday 8 pm  and Full Heroic Clear on Wednesday 8pm for  Ny'alotha, The Waking City . Come get your 460+ gear. oot Funnel Available. ", -- [1]
 			"Maryillo-Area52", -- [2]
@@ -2291,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Maryillo|r",
 			[51] = 1586299333,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [66]
 		{
 			"(HERIOC FULL CLEAR ) going tongiht guild run LOOT FUNNELS availble BEST PRICE pst GOLD ONLY !!!!!!!!!!! STARTING 8pm EASTERN", -- [1]
 			"Nibblemaster-Area52", -- [2]
@@ -2313,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Nibblemaster|r",
 			[51] = 1586299335,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [67]
 		{
 			"what're those", -- [1]
 			"|Kq15|k", -- [2]
@@ -2335,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeEnvious|r",
 			[51] = 1586312298,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [105]
+		}, -- [68]
 		{
 			"what", -- [1]
 			"|Kq15|k", -- [2]
@@ -2357,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Envious|r",
 			[51] = 1586312315,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [106]
+		}, -- [69]
 		{
 			"LF 5 MASK CARRY...PST PRICE", -- [1]
 			"Cönflagurït-Area52", -- [2]
@@ -2379,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cönflagurït|r",
 			[51] = 1586312344,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [70]
 		{
 			"WTS |cffa335ee|Hitem:175010::::::::120:266::5:7:4823:6578:6579:6537:6515:1502:4786:::|h[Maddened Adherent's Bulwark]|h|r 650kobo", -- [1]
 			"Mcwarlóck-Area52", -- [2]
@@ -2401,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecMcwarlóck|r",
 			[51] = 1586312392,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [71]
 		{
 			"Wts|cffa335ee|Hitem:175006::::::::120:250::3:7:4822:6578:6579:6537:6513:1487:4786:::|h[Gauntlets of Nightmare Manifest]|h|r 200k", -- [1]
 			"Lucïfèr-Area52", -- [2]
@@ -2423,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Lucïfèr|r",
 			[51] = 1586312477,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [72]
 		{
 			"WTS |cffa335ee|Hitem:175010::::::::120:266::5:7:4823:6578:6579:6537:6515:1502:4786:::|h[Maddened Adherent's Bulwark]|h|r 650kobo", -- [1]
 			"Mcwarlóck-Area52", -- [2]
@@ -2445,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecMcwarlóck|r",
 			[51] = 1586312495,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [73]
 		{
 			"Selling TIMED Mythic+ 10-15-20! Armor stacking and specific keys available! Bookings for Heroic Clears/AOTC kills open! Mythic Jaina/Azshara || Mechagon Hardmode and more! [GOLD ONLY]", -- [1]
 			"Jsqueeb-Area52", -- [2]
@@ -2467,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJsqueeb|r",
 			[51] = 1586312595,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [74]
 		{
 			"wts |cffa335ee|Hitem:175004::::::::120:103::6:7:4824:6578:6579:6538:6515:1517:4786:::|h[Legwraps of Horrifying Figments]|h|r|cffa335ee|Hitem:175006::::::::120:103::5:7:4823:6578:6579:6551:6515:1502:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Mîtternaçht-Area52", -- [2]
@@ -2489,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mîtternaçht|r",
 			[51] = 1586312649,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [75]
 		{
 			"WTS-Mythic Plus 10-15 in time, Key specific and Armor Stack is available! Mechagon Hardmode / Jaina Mount  or Transmog / Ny'alotha HC! / AOTC  / Full Clear Visions / FH BOOST LEVEL. Need info? Wisp me. PROMO TODAY", -- [1]
 			"Chrisadv-Area52", -- [2]
@@ -2511,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Chrisadv|r",
 			[51] = 1586312658,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [76]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -2533,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1586312684,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [77]
 		{
 			"wts |cffa335ee|Hitem:175004::::::::120:103::6:7:4824:6578:6579:6538:6515:1517:4786:::|h[Legwraps of Horrifying Figments]|h|r|cffa335ee|Hitem:175006::::::::120:103::5:7:4823:6578:6579:6551:6515:1502:4786:::|h[Gauntlets of Nightmare Manifest]|h|r", -- [1]
 			"Mîtternaçht-Area52", -- [2]
@@ -2555,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mîtternaçht|r",
 			[51] = 1586312698,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [78]
 		{
 			"Wts|cffa335ee|Hitem:175006::::::::120:250::3:7:4822:6578:6579:6537:6513:1487:4786:::|h[Gauntlets of Nightmare Manifest]|h|r 200k", -- [1]
 			"Lucïfèr-Area52", -- [2]
@@ -2577,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Lucïfèr|r",
 			[51] = 1586312714,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [79]
 		{
 			"WTS Heroic Ny'alotha 12/12  PL,Guarantee FULL 460 Gear,Unlock|cffffff00|Hachievement:14146:Player-3676-0ABFEFE4:0:0:0:-1:0:0:0:0|h[Glory of the Ny'alotha Raider]|h|r,Mythic+10-15 drop 460ilvl and 465-475weekly   chest,Mechagon 8/8 HM for mount,Also Visions Cloak Rank  can do now   PST", -- [1]
 			"Ohakbezzul-Area52", -- [2]
@@ -2599,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ohakbezzul|r",
 			[51] = 1586312795,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [80]
 		{
 			"WTS Freehold Powerleveling - Take Advantage of the Double XP Buff!", -- [1]
 			"Postbox-Area52", -- [2]
@@ -2621,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Postbox|r",
 			[51] = 1586312896,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [81]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -2643,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1586312942,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [82]
 		{
 			"wts|cffa335ee|Hitem:72146::::::::120:577::14::::|h[Swift Lovebird]|h|r30k", -- [1]
 			"Terpfrogttv-Area52", -- [2]
@@ -2665,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Terpfrogttv|r",
 			[51] = 1586312983,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [83]
 		{
 			"wts|cffa335ee|Hitem:72146::::::::120:577::14::::|h[Swift Lovebird]|h|r30k", -- [1]
 			"Terpfrogttv-Area52", -- [2]
@@ -2687,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Terpfrogttv|r",
 			[51] = 1586313020,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [84]
 		{
 			"Selling TIMED Mythic+ 10-15-20! :) Armor stacking and specific keys available! Bookings for Heroic Clears/AOTC kills open! Mythic Jaina/Azshara || Mechagon Hardmode and more! [GOLD ONLY]", -- [1]
 			"Jsqueeb-Area52", -- [2]
@@ -2709,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJsqueeb|r",
 			[51] = 1586313032,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [85]
 		{
 			"WTS 0-5 mask vision carry guaranteed corrupted item no pre-req needed gold only PST 100% current success rate |cffffff00|Hachievement:14140:Player-3676-09F3CA09:1:3:4:20:4294967295:4294967295:4294967295:4294967295|h[Mad World]|h|r vet", -- [1]
 			"Billo-Area52", -- [2]
@@ -2731,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Billo|r",
 			[51] = 1586313045,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [86]
 		{
 			"WTS 4 mask vision carry for 200k. PST", -- [1]
 			"Ampage-Area52", -- [2]
@@ -2753,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Ampage|r",
 			[51] = 1586313082,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [87]
 		{
 			"WTS Freehold 110-120  boosts. pst for more info and prices. 1 hours or so with looms/potion. Gold Only, over 3500 runs. Horde and Alliance <3", -- [1]
 			"Jrammdh-Area52", -- [2]
@@ -2775,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Jrammdh|r",
 			[51] = 1586313100,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [88]
 		{
 			"Wts|cffa335ee|Hitem:175006::::::::120:250::3:7:4822:6578:6579:6537:6513:1487:4786:::|h[Gauntlets of Nightmare Manifest]|h|r 200k", -- [1]
 			"Lucïfèr-Area52", -- [2]
@@ -2797,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Lucïfèr|r",
 			[51] = 1586313134,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [89]
 		{
 			"|cffffff00Transitus Shield is under attack!|r", -- [1]
 			"", -- [2]
@@ -2818,6 +2001,820 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "",
 			[51] = 1586313885,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"inv", -- [1]
+			"|Kq26|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4160, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeEnvious|r",
+			[51] = 1587014673,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [91]
+		{
+			"WTS FREEHOLD Powerleveling 110-120, PM!", -- [1]
+			"Pepegaclap-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pepegaclap-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4188, -- [11]
+			"Player-3676-0AC08A45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Pepegaclap|r",
+			[51] = 1587014818,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"WTS 15 UR Carry. PST for prices", -- [1]
+			"Agomem-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Agomem-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4195, -- [11]
+			"Player-3676-0AC11ECF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAgomem|r",
+			[51] = 1587014837,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"(WTS) 12/12M Nyalotha + Mythic Nzoth Mount || 12/12H Nyalotha (Personal Loot + 1-6x Loot Funnel) || Mythic Jaina Mount || Run Performed by top 10 US Guild! (Gold Only) Pst for more info.", -- [1]
+			"Chuubaim-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chuubaim-Area52", -- [5]
+			"AFK", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4196, -- [11]
+			"Player-3676-0AC0B80A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Chuubaim|r",
+			[51] = 1587014842,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"WTS M+ 10-18 keys. Armor stack and specific keys fare available! WTS Horrific Vision 0-5 masks guaranteed. WTS Mythic Nyalotha 12/12M. PST for info/reserve ", -- [1]
+			"Zarlek-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zarlek-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4200, -- [11]
+			"Player-3676-0AC3278C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcZarlek|r",
+			[51] = 1587014863,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS 15 UR Carry. PST for prices", -- [1]
+			"Agomem-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Agomem-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4201, -- [11]
+			"Player-3676-0AC11ECF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAgomem|r",
+			[51] = 1587014864,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTS Horric Vision 4-5 Mask Runs And Freehold LVL Boosts (3-4 Min Lvls) PST if Interested!", -- [1]
+			"Frostyu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Frostyu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4206, -- [11]
+			"Player-3676-0AB4135E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Frostyu|r",
+			[51] = 1587014880,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"so a52 not illidan then?", -- [1]
+			"|Kq26|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4220, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeEnvious|r",
+			[51] = 1587014922,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [98]
+		{
+			"for sure now", -- [1]
+			"|Kq26|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4224, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeEnvious|r",
+			[51] = 1587014926,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [99]
+		{
+			"hey guys", -- [1]
+			"Plasticforks-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4226, -- [11]
+			"Player-3676-0AC4DA6C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Plasticforks|r",
+			[51] = 1587014931,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [100]
+		{
+			"what's up", -- [1]
+			"Plasticforks-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4228, -- [11]
+			"Player-3676-0AC4DA6C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Plasticforks|r",
+			[51] = 1587014933,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [101]
+		{
+			"any sheep in the chat", -- [1]
+			"Uwuhehexd-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4231, -- [11]
+			"Player-3676-0AC4DA5A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Uwuhehexd|r",
+			[51] = 1587014941,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [102]
+		{
+			"baaaaa", -- [1]
+			"Toshpal-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4234, -- [11]
+			"Player-3676-0ABF3CDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587014949,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [103]
+		{
+			"aaaAAAAA", -- [1]
+			"Plasticforks-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4236, -- [11]
+			"Player-3676-0AC4DA6C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Plasticforks|r",
+			[51] = 1587014954,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [104]
+		{
+			"any vulpera wanna cyper", -- [1]
+			"Uwuhehexd-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4237, -- [11]
+			"Player-3676-0AC4DA5A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Uwuhehexd|r",
+			[51] = 1587014957,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [105]
+		{
+			"WTS M+ 10-18 keys. Armor stack and specific keys fare available! WTS Horrific Vision 0-5 masks guaranteed. WTS Mythic Nyalotha 12/12M. PST for info/reserve ", -- [1]
+			"Zarlek-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zarlek-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4239, -- [11]
+			"Player-3676-0AC3278C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcZarlek|r",
+			[51] = 1587014960,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"cyber", -- [1]
+			"Uwuhehexd-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4241, -- [11]
+			"Player-3676-0AC4DA5A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Uwuhehexd|r",
+			[51] = 1587014960,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"yiffers in chat", -- [1]
+			"Plasticforks-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4242, -- [11]
+			"Player-3676-0AC4DA6C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Plasticforks|r",
+			[51] = 1587014965,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"\"sheeple\" has earned the achievement |cffffff00|Hachievement:5362:0000000000000000:1:4:15:20:4294967295:4294967295:4294967295:4294967295|h[Everyone Needs a Logo]|h|r!", -- [1]
+			"sheeple", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4243, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "sheeple",
+			[51] = 1587014969,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [109]
+		{
+			"uwu", -- [1]
+			"Uwuhehexd-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4244, -- [11]
+			"Player-3676-0AC4DA5A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Uwuhehexd|r",
+			[51] = 1587014970,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"WTS 15 UR Carry. PST for prices", -- [1]
+			"Agomem-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Agomem-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4245, -- [11]
+			"Player-3676-0AC11ECF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAgomem|r",
+			[51] = 1587014970,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"ya", -- [1]
+			"|Kq26|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4249, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeEnvious|r",
+			[51] = 1587014977,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [112]
+		{
+			"jess won't be happy without her name", -- [1]
+			"|Kq26|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4252, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeEnvious|r",
+			[51] = 1587014989,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [113]
+		{
+			":||", -- [1]
+			"|Kq26|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4255, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeEnvious|r",
+			[51] = 1587014990,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [114]
+		{
+			"WTS M+ 10-18 keys. Armor stack and specific keys fare available! WTS Horrific Vision 0-5 masks guaranteed. WTS Mythic Nyalotha 12/12M. PST for info/reserve ", -- [1]
+			"Zarlek-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zarlek-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4256, -- [11]
+			"Player-3676-0AC3278C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcZarlek|r",
+			[51] = 1587014993,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"WTS key +15 ML-TOS, for gold, group 2.9k Rio, pst for infor", -- [1]
+			"Ioneii-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ioneii-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4258, -- [11]
+			"Player-3676-09A28B66", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Ioneii|r",
+			[51] = 1587015004,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"link it in guild", -- [1]
+			"Yukinó-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4264, -- [11]
+			"Player-3676-0AC4DACB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukinó|r",
+			[51] = 1587015047,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			">>>(BIG SALE ON KEYS )<<< group ready (GOLD ONLY ) (10-15) available  CHEAP!<3", -- [1]
+			"Nibblemaster-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nibblemaster-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4266, -- [11]
+			"Player-3676-0AB32365", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nibblemaster|r",
+			[51] = 1587015052,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"WANT SOME 475 LOOT??  >>> Buy +10-15 KEYS!!! <<< Mythic Group is Ready, you just AFK! Lowest Gold price on the server~!", -- [1]
+			"Bacôn-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bacôn-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4268, -- [11]
+			"Player-3676-09EF48DC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Bacôn|r",
+			[51] = 1587015054,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"wts |cffa335ee|Hitem:114821::::::::1:64::::::|h[Hexweave Bag]|h|r cheaoer than ah pst", -- [1]
+			"Dyamondz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dyamondz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4272, -- [11]
+			"Player-3676-06F45A08", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Dyamondz|r",
+			[51] = 1587015063,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"WTS Horric Vision 4-5 Mask Runs And Freehold LVL Boosts (3-4 Min Lvls) PST if Interested!", -- [1]
+			"Frostyu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Frostyu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4277, -- [11]
+			"Player-3676-0AB4135E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Frostyu|r",
+			[51] = 1587015077,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			">>>(BIG SALE ON KEYS )<<< group ready (GOLD ONLY ) (10-15) available  CHEAP!<3", -- [1]
+			"Nibblemaster-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nibblemaster-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4287, -- [11]
+			"Player-3676-0AB32365", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Nibblemaster|r",
+			[51] = 1587015118,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTS FREEHOLD Powerleveling 110-120, DM!", -- [1]
+			"Pepegaclap-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pepegaclap-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4303, -- [11]
+			"Player-3676-0AC08A45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Pepegaclap|r",
+			[51] = 1587015212,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"WTS FREEHOLD Powerleveling 110-120, DM!", -- [1]
+			"Pepegaclap-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pepegaclap-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4309, -- [11]
+			"Player-3676-0AC08A45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Pepegaclap|r",
+			[51] = 1587015271,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"(WTS) 12/12M Nyalotha + Mythic Nzoth Mount || 12/12H Nyalotha (Personal Loot + 1-6x Loot Funnel) || Mythic Jaina Mount || Run Performed by top 10 US Guild! (Gold Only) Pst for more info.", -- [1]
+			"Chuubaim-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chuubaim-Area52", -- [5]
+			"AFK", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4315, -- [11]
+			"Player-3676-0AC0B80A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Chuubaim|r",
+			[51] = 1587015291,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WEEKDAY SUPER KEY DEALS. Me and Some buds are selling keys 10-17. GOLD ONLY! Cheapest on server! GET YOUR KEY DONE BEFORE RESET and secure your 475 piece of corrupted gear! ", -- [1]
+			"Sphinctuswd-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sphinctuswd-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4327, -- [11]
+			"Player-3676-0AC3AE3C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Sphinctuswd|r",
+			[51] = 1587015364,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"WTS FREEHOLD Powerleveling 110-120, DM!", -- [1]
+			"Pepegaclap-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pepegaclap-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4328, -- [11]
+			"Player-3676-0AC08A45", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Pepegaclap|r",
+			[51] = 1587015366,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

@@ -12,10 +12,11 @@ Gladius2DB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
@@ -23,17 +24,17 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
-			["classIconShowSpec"] = true,
-			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
+			["timerOmniCC"] = true,
+			["castBarTexture"] = "Smooth v2",
 			["y"] = {
 				["arena1"] = 229.7807371077943,
 			},
-			["castBarTexture"] = "Smooth v2",
+			["classIconShowSpec"] = true,
 			["modules"] = {
 				["Announcements"] = false,
 			},
@@ -163,6 +164,30 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 		},
+		["Koutetsu - Frostwolf"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1464.799972197332,
+			},
+			["y"] = {
+				["arena1"] = 690.5799346452404,
+			},
+		},
+		["Toshaman - Area 52"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1615.733250182529,
+			},
+			["y"] = {
+				["arena1"] = 291.1133534258697,
+			},
+		},
+		["Tosh - Frostwolf"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
 			["aurasBuffs"] = true,
@@ -285,20 +310,6 @@ Gladius2DB = {
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",
-		},
-		["Tosh - Frostwolf"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-		},
-		["Koutetsu - Frostwolf"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1464.799972197332,
-			},
-			["y"] = {
-				["arena1"] = 690.5799346452404,
-			},
 		},
 		["Toshtrial - The Forgotten Coast"] = {
 			["y"] = {

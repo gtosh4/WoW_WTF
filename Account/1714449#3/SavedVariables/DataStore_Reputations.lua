@@ -3,6 +3,7 @@ DataStore_ReputationsDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -10,6 +11,40 @@ DataStore_ReputationsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1587014813,
+				["Factions"] = {
+					[7] = 13209,
+					[70] = 250,
+					[68] = 500,
+					[78] = 15574,
+					[8] = 8999,
+					[71] = 250,
+					[9] = 31492,
+					[159] = 9000,
+					[10] = 9349,
+					[72] = 770,
+					[76] = 13596,
+					[6] = 8999,
+					[69] = 250,
+					[113] = 8999,
+				},
+				["guildName"] = "sheeple",
+			},
+			["Default.Dreadmaul.Toshaman"] = {
+				["lastUpdate"] = 1587015426,
+				["Factions"] = {
+					[7] = 3100,
+					[78] = 3100,
+					[8] = 3100,
+					[9] = 500,
+					[113] = 3100,
+					[76] = 3500,
+					[6] = 3100,
+					[10] = 400,
+					[158] = 9000,
+				},
+			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1580712033,
 				["Factions"] = {
@@ -57,27 +92,8 @@ DataStore_ReputationsDB = {
 				["guildRep"] = 42000,
 				["guildName"] = "Rivalry",
 			},
-			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1586315618,
-				["Factions"] = {
-					[7] = 13209,
-					[70] = 250,
-					[113] = 8999,
-					[78] = 15574,
-					[8] = 8999,
-					[71] = 250,
-					[9] = 31492,
-					[159] = 9000,
-					[68] = 500,
-					[72] = 770,
-					[76] = 13596,
-					[6] = 8999,
-					[69] = 250,
-					[10] = 9349,
-				},
-			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1586924639,
+				["lastUpdate"] = 1587013587,
 				["Factions"] = {
 					[162] = 32823,
 					[8] = 3600,
@@ -106,7 +122,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586924504,
+				["lastUpdate"] = 1587011445,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {

@@ -3,6 +3,7 @@ DataStore_TalentsDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -10,6 +11,21 @@ DataStore_TalentsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1587014959,
+				["Specializations"] = {
+					[3] = 0,
+					[2] = 154,
+				},
+				["Class"] = "PALADIN",
+			},
+			["Default.Dreadmaul.Toshaman"] = {
+				["lastUpdate"] = 1587015426,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["Class"] = "SHAMAN",
+			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1580712033,
 				["Specializations"] = {
@@ -19,24 +35,16 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1586315618,
-				["Specializations"] = {
-					[3] = 0,
-					[2] = 154,
-				},
-				["Class"] = "PALADIN",
-			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1586924639,
+				["lastUpdate"] = 1587013587,
 				["Specializations"] = {
 					12126, -- [1]
-					[3] = 14270,
+					[3] = 8087,
 				},
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1586924504,
+				["lastUpdate"] = 1587011445,
 				["Specializations"] = {
 					5503, -- [1]
 					10670, -- [2]
@@ -51,6 +59,7 @@ DataStore_TalentsRefDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -66,24 +75,6 @@ DataStore_TalentsRefDB = {
 						22356, -- [1]
 						22357, -- [2]
 						22358, -- [3]
-						23108, -- [4]
-						22139, -- [5]
-						23190, -- [6]
-						23162, -- [7]
-						23163, -- [8]
-						23164, -- [9]
-						19271, -- [10]
-						19272, -- [11]
-						19273, -- [12]
-						22144, -- [13]
-						22172, -- [14]
-						21966, -- [15]
-						22145, -- [16]
-						19266, -- [17]
-						23111, -- [18]
-						21198, -- [19]
-						22153, -- [20]
-						21675, -- [21]
 					},
 				}, -- [1]
 				[3] = {
@@ -170,7 +161,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 33775,
+			["Version"] = 33941,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",

@@ -5,9 +5,9 @@ AstralKeys = {
 		"PRIEST", -- [2]
 		353, -- [3]
 		17, -- [4]
-		0, -- [5]
+		15, -- [5]
 		143, -- [6]
-		5, -- [7]
+		122373, -- [7]
 	}, -- [1]
 	{
 		"Cadaceus-Kil'jaeden", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		143, -- [6]
-		47144, -- [7]
+		122767, -- [7]
 	}, -- [2]
 	{
 		"Voidrage-Kil'jaeden", -- [1]
@@ -25,7 +25,7 @@ AstralKeys = {
 		19, -- [4]
 		19, -- [5]
 		143, -- [6]
-		46825, -- [7]
+		122815, -- [7]
 	}, -- [3]
 	{
 		"Whirlwind-Kil'jaeden", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		143, -- [6]
-		40940, -- [7]
+		136871, -- [7]
 	}, -- [5]
 	{
 		"Oxclamatiøn-Kil'jaeden", -- [1]
@@ -52,7 +52,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		143, -- [6]
-		47572, -- [7]
+		122057, -- [7]
 	}, -- [6]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		16, -- [4]
 		0, -- [5]
 		143, -- [6]
-		2322, -- [7]
+		137215, -- [7]
 	}, -- [7]
 	{
 		"Toshaman-Kil'jaeden", -- [1]
@@ -70,16 +70,16 @@ AstralKeys = {
 		15, -- [4]
 		19, -- [5]
 		143, -- [6]
-		48274, -- [7]
+		137205, -- [7]
 	}, -- [8]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
 		"PALADIN", -- [2]
 		248, -- [3]
 		16, -- [4]
-		0, -- [5]
+		17, -- [5]
 		143, -- [6]
-		39485, -- [7]
+		134965, -- [7]
 	}, -- [9]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		15, -- [4]
 		17, -- [5]
 		143, -- [6]
-		48118, -- [7]
+		135050, -- [7]
 	}, -- [10]
 	{
 		"Kosaki-Kil'jaeden", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		18, -- [4]
 		17, -- [5]
 		143, -- [6]
-		46912, -- [7]
+		137210, -- [7]
 	}, -- [12]
 	{
 		"Oof-Kil'jaeden", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		20, -- [4]
 		0, -- [5]
 		143, -- [6]
-		47251, -- [7]
+		136635, -- [7]
 	}, -- [16]
 	{
 		"Andruww-Kil'jaeden", -- [1]
@@ -178,7 +178,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		143, -- [6]
-		47757, -- [7]
+		137233, -- [7]
 	}, -- [20]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -196,7 +196,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		143, -- [6]
-		2, -- [7]
+		137195, -- [7]
 	}, -- [22]
 	{
 		"Mattea-Kil'jaeden", -- [1]
@@ -205,7 +205,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		143, -- [6]
-		3, -- [7]
+		136744, -- [7]
 	}, -- [23]
 	{
 		"Arnbjørn-Kil'jaeden", -- [1]
@@ -214,7 +214,7 @@ AstralKeys = {
 		16, -- [4]
 		0, -- [5]
 		143, -- [6]
-		3, -- [7]
+		122803, -- [7]
 	}, -- [24]
 }
 AstralCharacters = {
@@ -239,7 +239,7 @@ AstralFriends = {
 		245, -- [4]
 		14, -- [5]
 		143, -- [6]
-		48207, -- [7]
+		104298, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [1]
@@ -250,7 +250,7 @@ AstralFriends = {
 		252, -- [4]
 		18, -- [5]
 		143, -- [6]
-		46912, -- [7]
+		137494, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [2]
@@ -261,7 +261,7 @@ AstralFriends = {
 		247, -- [4]
 		17, -- [5]
 		143, -- [6]
-		46160, -- [7]
+		126184, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [3]
@@ -272,7 +272,7 @@ AstralFriends = {
 		249, -- [4]
 		19, -- [5]
 		143, -- [6]
-		47911, -- [7]
+		126711, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [4]
@@ -283,7 +283,7 @@ AstralFriends = {
 		252, -- [4]
 		18, -- [5]
 		143, -- [6]
-		48135, -- [7]
+		138995, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [5]
@@ -294,20 +294,78 @@ AstralFriends = {
 		249, -- [4]
 		15, -- [5]
 		143, -- [6]
-		30772, -- [7]
+		135847, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [6]
+	{
+		"Andruww-Kil'jaeden", -- [1]
+		"Drew#13709", -- [2]
+		"DEMONHUNTER", -- [3]
+		247, -- [4]
+		19, -- [5]
+		143, -- [6]
+		118679, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [7]
+	{
+		"Blueflame-Kil'jaeden", -- [1]
+		"Blueflame213#1513", -- [2]
+		"WARRIOR", -- [3]
+		353, -- [4]
+		15, -- [5]
+		143, -- [6]
+		22277, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [8]
+	{
+		"Morepheous-Kil'jaeden", -- [1]
+		"Blueflame213#1513", -- [2]
+		"DRUID", -- [3]
+		248, -- [4]
+		18, -- [5]
+		143, -- [6]
+		112812, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [9]
+	{
+		"Bluedagger-Kil'jaeden", -- [1]
+		"Blueflame213#1513", -- [2]
+		"ROGUE", -- [3]
+		245, -- [4]
+		14, -- [5]
+		143, -- [6]
+		22489, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [10]
+	{
+		"Felfanatic-Kil'jaeden", -- [1]
+		"Blueflame213#1513", -- [2]
+		"DEMONHUNTER", -- [3]
+		251, -- [4]
+		14, -- [5]
+		143, -- [6]
+		137195, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [11]
+	{
+		"Khelikloth-Kil'jaeden", -- [1]
+		"mindkore#1617", -- [2]
+		"ROGUE", -- [3]
+		251, -- [4]
+		16, -- [5]
+		143, -- [6]
+		137430, -- [7]
+		"1", -- [8]
+		17, -- [9]
+	}, -- [12]
 }
 AstralKeysSettings = {
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -334,6 +392,7 @@ AstralKeysSettings = {
 		["sorth_method"] = "character_name",
 		["current_list"] = "FRIENDS",
 	},
+	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
@@ -358,12 +417,20 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 }
 AstralMinimap = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -373,6 +440,8 @@ AstralMinimap = {
 		["Toshpal - Kil'jaeden"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
+		},
+		["Toshaman - Dreadmaul"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["minimap"] = {

@@ -14,13 +14,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-				},
-				["lastTime"] = 482159.83,
-				["chargeSpellsOnCooldown"] = {
-				},
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -46,6 +39,7 @@ oRA3DB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
+		["Toshaman - Dreadmaul"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {

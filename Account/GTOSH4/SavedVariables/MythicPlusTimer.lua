@@ -7,79 +7,6 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["scale"] = 1,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
-		["objectiveTimeInChat"] = true,
-		["hideDefaultObjectiveTracker"] = true,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l17",
-			["quantity_number"] = 303,
-			["cm_level"] = 17,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Waycrest Manor",
-			["deathcount"] = 33,
-			["time_left"] = 213,
-			["deathcount_visible"] = true,
-			["steps"] = 6,
-			["death_names"] = {
-				["Dirtyslayer"] = 7,
-				["Fiery"] = 5,
-				["Kosaki"] = 7,
-				["Toshpal"] = 6,
-				["Thiccgril"] = 8,
-			},
-			["final_quantity_number"] = 303,
-			["is_reaping"] = false,
-			["affixes_key"] = "affixes-2-7-10-120",
-			["current_zone_id"] = 1862,
-			["affixes"] = {
-				10, -- [1]
-				7, -- [2]
-				2, -- [3]
-				120, -- [4]
-			},
-			["current_map_id"] = 248,
-			["time_left_2"] = 0,
-			["max_time"] = 2340,
-			["times"] = {
-				251, -- [1]
-				897, -- [2]
-				1496, -- [3]
-				1909, -- [4]
-				2127, -- [5]
-				2057, -- [6]
-				["6last_best_time_zone_level"] = 2876,
-				["5last_best_time_zone_level"] = 3093,
-				["4last_best_time_zone_level"] = 2807,
-				["3last_best_time_zone_level"] = 1770,
-				["2last_best_time_zone_level"] = 1552,
-				["1last_best_time_zone_level"] = 421,
-				["5last_best_time_zone"] = 1071,
-				["4last_best_time_zone"] = 961,
-				["3last_best_time_zone"] = 477,
-				["2last_best_time_zone"] = 456,
-				["1last_best_time_zone"] = 208,
-				["6last_best_time_zone"] = 994,
-			},
-			["elapsed_time"] = 2127,
-		},
-		["show_affixes_as_icons"] = false,
-		["progressTooltip"] = true,
-		["deathCounter"] = false,
-		["show_affixes_as_text"] = true,
-		["show_reapingtimer"] = true,
-		["objective_time"] = true,
-		["objective_time_inchat"] = true,
-		["insertKeystone"] = true,
-		["show_absolute_numbers"] = false,
-		["objectiveTime"] = true,
-		["hide_default_objectivetracker"] = true,
-		["showAffixesAsText"] = true,
 		["best_times"] = {
 			[1771] = {
 				156, -- [1]
@@ -1122,12 +1049,12 @@ MythicPlusTimerDB = {
 					839, -- [4]
 					723, -- [5]
 				},
-				["l20affixes-2-9-11-120"] = {
-					401, -- [1]
-					1208, -- [2]
-					1593, -- [3]
-					2131, -- [4]
-					1857, -- [5]
+				["l19affixes-3-5-9-119"] = {
+					260, -- [1]
+					972, -- [2]
+					1160, -- [3]
+					1561, -- [4]
+					1354, -- [5]
 				},
 				["l13"] = {
 					230, -- [1]
@@ -1157,19 +1084,19 @@ MythicPlusTimerDB = {
 					1098, -- [4]
 					959, -- [5]
 				},
+				["l20affixes-2-9-11-120"] = {
+					401, -- [1]
+					1208, -- [2]
+					1593, -- [3]
+					2131, -- [4]
+					1857, -- [5]
+				},
 				["l15affixes-2-9-11-119"] = {
 					196, -- [1]
 					993, -- [2]
 					762, -- [3]
 					1359, -- [4]
 					1198, -- [5]
-				},
-				["l19affixes-3-5-9-119"] = {
-					260, -- [1]
-					972, -- [2]
-					1160, -- [3]
-					1561, -- [4]
-					1354, -- [5]
 				},
 				["l16"] = {
 					234, -- [1]
@@ -1734,6 +1661,79 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
+		["objectiveTimeInChat"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l17",
+			["quantity_number"] = 303,
+			["cm_level"] = 17,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Waycrest Manor",
+			["time_left_2"] = 0,
+			["time_left"] = 213,
+			["deathcount_visible"] = true,
+			["steps"] = 6,
+			["death_names"] = {
+				["Dirtyslayer"] = 7,
+				["Fiery"] = 5,
+				["Kosaki"] = 7,
+				["Toshpal"] = 6,
+				["Thiccgril"] = 8,
+			},
+			["final_quantity_number"] = 303,
+			["is_reaping"] = false,
+			["affixes_key"] = "affixes-2-7-10-120",
+			["current_zone_id"] = 1862,
+			["affixes"] = {
+				10, -- [1]
+				7, -- [2]
+				2, -- [3]
+				120, -- [4]
+			},
+			["current_map_id"] = 248,
+			["times"] = {
+				251, -- [1]
+				897, -- [2]
+				1496, -- [3]
+				1909, -- [4]
+				2127, -- [5]
+				2057, -- [6]
+				["6last_best_time_zone_level"] = 2876,
+				["5last_best_time_zone_level"] = 3093,
+				["4last_best_time_zone_level"] = 2807,
+				["3last_best_time_zone_level"] = 1770,
+				["2last_best_time_zone_level"] = 1552,
+				["1last_best_time_zone_level"] = 421,
+				["5last_best_time_zone"] = 1071,
+				["4last_best_time_zone"] = 961,
+				["3last_best_time_zone"] = 477,
+				["2last_best_time_zone"] = 456,
+				["1last_best_time_zone"] = 208,
+				["6last_best_time_zone"] = 994,
+			},
+			["max_time"] = 2340,
+			["deathcount"] = 33,
+			["elapsed_time"] = 2127,
+		},
+		["show_affixes_as_icons"] = false,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
+		["deathCounter"] = false,
+		["show_affixes_as_text"] = true,
+		["show_reapingtimer"] = true,
+		["objective_time"] = true,
+		["objective_time_inchat"] = true,
+		["insertKeystone"] = true,
+		["show_absolute_numbers"] = false,
+		["objectiveTime"] = true,
+		["hide_default_objectivetracker"] = true,
+		["showAffixesAsText"] = true,
+		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -2440,8 +2440,8 @@ MythicPlusTimerDB = {
 			[97678] = {
 				[8] = 1,
 			},
-			[134994] = {
-				7, -- [1]
+			[114637] = {
+				[4] = 1,
 			},
 			[102788] = {
 				[4] = 1,
@@ -2452,8 +2452,8 @@ MythicPlusTimerDB = {
 			[137485] = {
 				[4] = 53,
 			},
-			[114637] = {
-				[4] = 1,
+			[128434] = {
+				[4] = 225,
 			},
 			[135245] = {
 				[8] = 49.2,
@@ -2794,8 +2794,8 @@ MythicPlusTimerDB = {
 			[150146] = {
 				[4] = 5,
 			},
-			[139799] = {
-				[9] = 95,
+			[131112] = {
+				[6] = 61,
 			},
 			[141587] = {
 				1, -- [1]
@@ -2811,8 +2811,8 @@ MythicPlusTimerDB = {
 				[4] = 107.8,
 				[3] = 0.2097152000000001,
 			},
-			[131112] = {
-				[6] = 61,
+			[129559] = {
+				[4] = 33,
 			},
 			[137029] = {
 				[5] = 7,
@@ -2868,8 +2868,8 @@ MythicPlusTimerDB = {
 			[98963] = {
 				1, -- [1]
 			},
-			[129559] = {
-				[4] = 33,
+			[139799] = {
+				[9] = 95,
 			},
 			[100529] = {
 				1, -- [1]
@@ -3005,8 +3005,8 @@ MythicPlusTimerDB = {
 			[130521] = {
 				168, -- [1]
 			},
-			[128434] = {
-				[4] = 225,
+			[134994] = {
+				7, -- [1]
 			},
 			[126497] = {
 				[3] = 1,

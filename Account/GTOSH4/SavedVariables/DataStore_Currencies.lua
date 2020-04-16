@@ -12,10 +12,11 @@ DataStore_CurrenciesDB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -41,12 +42,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 43,
-						["count"] = 4068,
+						["count"] = 4668,
 					}, -- [4]
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 6692,
+						["count"] = 6899,
 					}, -- [5]
 					{
 						["isHeader"] = false,
@@ -66,7 +67,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 2,
+						["count"] = 1,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -166,14 +167,14 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586916855,
+				["lastUpdate"] = 1587015661,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
 					[824] = "1300-0-0-10000",
 					[1273] = "1-0-0-6",
 					[1191] = "0-0-0-0",
-					[1580] = "2-0-0-5",
+					[1580] = "1-0-0-5",
 					[1342] = "133-0-0-1000",
 					[1560] = "24671-0-0-0",
 					[823] = "0-0-0-0",
@@ -376,7 +377,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 2662,
+						["count"] = 2680,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -396,7 +397,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 4,
+						["count"] = 5,
 					}, -- [8]
 					{
 						["isHeader"] = false,
@@ -431,7 +432,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586913799,
+				["lastUpdate"] = 1587013667,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -446,11 +447,11 @@ DataStore_CurrenciesDB = {
 					[1560] = "10200-0-0-0",
 					[994] = "0-0-0-0",
 					[1342] = "0-0-0-0",
-					[1580] = "4-0-0-5",
+					[1580] = "5-0-0-5",
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586551114,
+				["lastUpdate"] = 1587014754,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -488,6 +489,25 @@ DataStore_CurrenciesDB = {
 					[994] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1565] = "0-0-0-0",
+				},
+			},
+			["Default.Area 52.Toshaman"] = {
+				["lastUpdate"] = 1587014536,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "0-0-0-0",
+					[824] = "0-0-0-0",
+					[1273] = "0-0-0-0",
+					[1191] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "0-0-0-0",
+					[1342] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1560] = "0-0-0-0",
+					[994] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[1580] = "0-0-0-0",
 				},
 			},
 		},

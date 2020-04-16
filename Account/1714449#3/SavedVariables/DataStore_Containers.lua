@@ -3,6 +3,7 @@ DataStore_ContainersDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -10,6 +11,120 @@ DataStore_ContainersDB = {
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1587014813,
+				["Containers"] = {
+					["Bag4"] = {
+						["rarity"] = 1,
+						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
+						["size"] = 10,
+						["icon"] = 133643,
+						["freeslots"] = 10,
+					},
+					["Bag-3"] = {
+						["size"] = 98,
+					},
+					["Bag1"] = {
+						["rarity"] = 1,
+						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
+						["freeslots"] = 10,
+						["icon"] = 133643,
+						["size"] = 10,
+					},
+					["Bag2"] = {
+						["rarity"] = 1,
+						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
+						["size"] = 10,
+						["icon"] = 133643,
+						["freeslots"] = 10,
+					},
+					["Bag3"] = {
+						["rarity"] = 1,
+						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
+						["size"] = 10,
+						["icon"] = 133643,
+						["freeslots"] = 10,
+					},
+					["Bag0"] = {
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["freeslots"] = 12,
+						["ids"] = {
+							6948, -- [1]
+							39740, -- [2]
+							33629, -- [3]
+							166751, -- [4]
+							36801, -- [5]
+							33630, -- [6]
+							37482, -- [7]
+							34710, -- [8]
+						},
+						["size"] = 20,
+						["counts"] = {
+							[3] = 6,
+							[6] = 2,
+							[4] = 8,
+							[5] = 2,
+						},
+						["links"] = {
+							"|cffffffff|Hitem:6948::::::::60:66::::::|h[Hearthstone]|h|r", -- [1]
+							"|cffffffff|Hitem:39740::::::::60:66::::::|h[Kirin Tor Signet]|h|r", -- [2]
+							"|cff9d9d9d|Hitem:33629::::::::60:66::::::|h[Frosty Spinneret]|h|r", -- [3]
+							"|cff1eff00|Hitem:166751::::::::60:66::::::|h[Draught of Ten Lands]|h|r", -- [4]
+							"|cff9d9d9d|Hitem:36801::::::::60:66::::::|h[Crooked Fang]|h|r", -- [5]
+							"|cff9d9d9d|Hitem:33630::::::::60:66::::::|h[Icy Fang]|h|r", -- [6]
+							"|cff1eff00|Hitem:37482::::::::60:66:512:11:1:3685:60:::|h[Mightstone Legplates]|h|r", -- [7]
+							"|cffffffff|Hitem:34710::::::::60:66::11::::|h[Seaforium Depth Charge Bundle]|h|r", -- [8]
+						},
+					},
+				},
+				["numFreeBagSlots"] = 52,
+				["numBagSlots"] = 60,
+			},
+			["Default.Dreadmaul.Toshaman"] = {
+				["lastUpdate"] = 1587015430,
+				["numFreeBagSlots"] = 67,
+				["Containers"] = {
+					["Bag4"] = {
+						["link"] = "|cffffffff|Hitem:157787::::::::20:262::::::|h[]|h|r",
+						["freeslots"] = 10,
+						["icon"] = 133643,
+						["size"] = 10,
+					},
+					["Bag0"] = {
+						["ids"] = {
+							6948, -- [1]
+						},
+						["links"] = {
+							"|cffffffff|Hitem:6948::::::::20:262::::::|h[Hearthstone]|h|r", -- [1]
+						},
+						["freeslots"] = 27,
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["size"] = 28,
+					},
+					["Bag1"] = {
+						["link"] = "|cffffffff|Hitem:157787::::::::20:262::::::|h[]|h|r",
+						["freeslots"] = 10,
+						["icon"] = 133643,
+						["size"] = 10,
+					},
+					["Bag2"] = {
+						["link"] = "|cffffffff|Hitem:157787::::::::20:262::::::|h[]|h|r",
+						["freeslots"] = 10,
+						["icon"] = 133643,
+						["size"] = 10,
+					},
+					["Bag3"] = {
+						["link"] = "|cffffffff|Hitem:157787::::::::20:262::::::|h[]|h|r",
+						["freeslots"] = 10,
+						["icon"] = 133643,
+						["size"] = 10,
+					},
+					["Bag-3"] = {
+						["size"] = 98,
+					},
+				},
+				["numBagSlots"] = 68,
+			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["numFreeBankSlots"] = 64,
 				["numBankSlots"] = 116,
@@ -796,80 +911,18 @@ DataStore_ContainersDB = {
 				["numBagSlots"] = 140,
 				["numFreeBagSlots"] = 43,
 			},
-			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1586314154,
-				["Containers"] = {
-					["Bag4"] = {
-						["rarity"] = 1,
-						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
-						["size"] = 10,
-						["icon"] = 133643,
-						["freeslots"] = 10,
-					},
-					["Bag-3"] = {
-						["size"] = 98,
-					},
-					["Bag1"] = {
-						["rarity"] = 1,
-						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
-						["freeslots"] = 10,
-						["icon"] = 133643,
-						["size"] = 10,
-					},
-					["Bag2"] = {
-						["rarity"] = 1,
-						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
-						["size"] = 10,
-						["icon"] = 133643,
-						["freeslots"] = 10,
-					},
-					["Bag3"] = {
-						["rarity"] = 1,
-						["link"] = "|cffffffff|Hitem:157787::::::::60:66::::::|h[Large Red Sack]|h|r",
-						["size"] = 10,
-						["icon"] = 133643,
-						["freeslots"] = 10,
-					},
-					["Bag0"] = {
-						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
-						["links"] = {
-							"|cffffffff|Hitem:6948::::::::60:66::::::|h[Hearthstone]|h|r", -- [1]
-							"|cffffffff|Hitem:39740::::::::60:66::::::|h[Kirin Tor Signet]|h|r", -- [2]
-							"|cff9d9d9d|Hitem:33629::::::::60:66::::::|h[Frosty Spinneret]|h|r", -- [3]
-							"|cff1eff00|Hitem:166751::::::::60:66::::::|h[Draught of Ten Lands]|h|r", -- [4]
-							"|cff9d9d9d|Hitem:36801::::::::60:66::::::|h[Crooked Fang]|h|r", -- [5]
-							"|cff9d9d9d|Hitem:33630::::::::60:66::::::|h[Icy Fang]|h|r", -- [6]
-							"|cff1eff00|Hitem:37482::::::::60:66:512:11:1:3685:60:::|h[Mightstone Legplates]|h|r", -- [7]
-							"|cffffffff|Hitem:34710::::::::60:66::11::::|h[Seaforium Depth Charge Bundle]|h|r", -- [8]
-						},
-						["ids"] = {
-							6948, -- [1]
-							39740, -- [2]
-							33629, -- [3]
-							166751, -- [4]
-							36801, -- [5]
-							33630, -- [6]
-							37482, -- [7]
-							34710, -- [8]
-						},
-						["freeslots"] = 12,
-						["counts"] = {
-							[3] = 6,
-							[6] = 2,
-							[4] = 8,
-							[5] = 2,
-						},
-						["size"] = 20,
-					},
-				},
-				["numFreeBagSlots"] = 52,
-				["numBagSlots"] = 60,
-			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["numFreeBankSlots"] = 178,
 				["numBankSlots"] = 214,
-				["lastUpdate"] = 1586924640,
+				["lastUpdate"] = 1587013588,
 				["Containers"] = {
+					["Bag10"] = {
+						["rarity"] = 2,
+						["link"] = "|cff1eff00|Hitem:54443::::::::120:262::::::|h[Embersilk Bag]|h|r",
+						["freeslots"] = 22,
+						["icon"] = 348522,
+						["size"] = 22,
+					},
 					["Bag-3"] = {
 						["ids"] = {
 							165703, -- [1]
@@ -972,104 +1025,104 @@ DataStore_ContainersDB = {
 							158187, -- [98]
 						},
 						["links"] = {
-							"|cffa335ee|Hitem:165703::::::::120:264::::::|h[Breath of Bwonsamdi]|h|r", -- [1]
-							"|cffffffff|Hitem:154899::::::::120:264::::::|h[Thick Paleo Steak]|h|r", -- [2]
-							"|cffffffff|Hitem:154898::::::::120:264::::::|h[Meaty Haunch]|h|r", -- [3]
-							"|cffffffff|Hitem:154897::::::::120:264::::::|h[Stringy Loins]|h|r", -- [4]
-							"|cffffffff|Hitem:152631::::::::120:264::::::|h[Briny Flesh]|h|r", -- [5]
-							"|cffffffff|Hitem:152576::::::::120:264::::::|h[Tidespray Linen]|h|r", -- [6]
-							"|cff1eff00|Hitem:153705::::::::120:264::::::|h[Kyanite]|h|r", -- [7]
-							"|cff1eff00|Hitem:153704::::::::120:264::::::|h[Viridium]|h|r", -- [8]
-							"|cff1eff00|Hitem:153701::::::::120:264::::::|h[Rubellite]|h|r", -- [9]
+							"|cffffffff|Hitem:165703::::::::120:264::::::|h[]|h|r", -- [1]
+							"|cffffffff|Hitem:154899::::::::120:264::::::|h[]|h|r", -- [2]
+							"|cffffffff|Hitem:154898::::::::120:264::::::|h[]|h|r", -- [3]
+							"|cffffffff|Hitem:154897::::::::120:264::::::|h[]|h|r", -- [4]
+							"|cffffffff|Hitem:152631::::::::120:264::::::|h[]|h|r", -- [5]
+							"|cffffffff|Hitem:152576::::::::120:264::::::|h[]|h|r", -- [6]
+							"|cffffffff|Hitem:153705::::::::120:264::::::|h[]|h|r", -- [7]
+							"|cffffffff|Hitem:153704::::::::120:264::::::|h[]|h|r", -- [8]
+							"|cffffffff|Hitem:153701::::::::120:264::::::|h[]|h|r", -- [9]
 							nil, -- [10]
-							"|cff0070dd|Hitem:165948::::::::120:264::::::|h[Tidalcore]|h|r", -- [11]
-							"|cffffffff|Hitem:152875::::::::120:264::::::|h[Gloom Dust]|h|r", -- [12]
-							"|cff0070dd|Hitem:152876::::::::120:264::::::|h[Umbra Shard]|h|r", -- [13]
-							"|cffffffff|Hitem:154164::::::::120:264::::::|h[Blood-Stained Bone]|h|r", -- [14]
-							"|cffffffff|Hitem:152511::::::::120:264::::::|h[Sea Stalk]|h|r", -- [15]
-							"|cffffffff|Hitem:152541::::::::120:264::::::|h[Coarse Leather]|h|r", -- [16]
-							"|cffffffff|Hitem:153635::::::::120:264::::::|h[Ultramarine Pigment]|h|r", -- [17]
-							"|cffa335ee|Hitem:152877::::::::120:264::::::|h[Veiled Crystal]|h|r", -- [18]
-							"|cff1eff00|Hitem:153051::::::::120:264::::::|h[Mistscale]|h|r", -- [19]
-							"|cff0070dd|Hitem:152542::::::::120:264::::::|h[Hardened Tempest Hide]|h|r", -- [20]
-							"|cff1eff00|Hitem:154165::::::::120:264::::::|h[Calcified Bone]|h|r", -- [21]
-							"|cff0070dd|Hitem:152668::::::::120:264::::::|h[Expulsom]|h|r", -- [22]
-							"|cffffffff|Hitem:153635::::::::120:264::::::|h[Ultramarine Pigment]|h|r", -- [23]
-							"|cffffffff|Hitem:3371::::::::120:264::::::|h[Crystal Vial]|h|r", -- [24]
-							"|cffffffff|Hitem:3371::::::::120:264::::::|h[Crystal Vial]|h|r", -- [25]
-							"|cffffffff|Hitem:3371::::::::120:264::::::|h[Crystal Vial]|h|r", -- [26]
-							"|cffffffff|Hitem:3371::::::::120:264::::::|h[Crystal Vial]|h|r", -- [27]
-							"|cffffffff|Hitem:3371::::::::120:264::::::|h[Crystal Vial]|h|r", -- [28]
-							"|cffffffff|Hitem:3371::::::::120:264::::::|h[Crystal Vial]|h|r", -- [29]
-							"|cffffffff|Hitem:3371::::::::120:264::::::|h[Crystal Vial]|h|r", -- [30]
-							"|cffffffff|Hitem:153635::::::::120:264::::::|h[Ultramarine Pigment]|h|r", -- [31]
-							"|cffffffff|Hitem:160298::::::::120:264::::::|h[Durable Flux]|h|r", -- [32]
-							"|cffffffff|Hitem:152579::::::::120:264::::::|h[Storm Silver Ore]|h|r", -- [33]
-							"|cff1eff00|Hitem:152513::::::::120:264::::::|h[Platinum Ore]|h|r", -- [34]
-							"|cffa335ee|Hitem:168193::::::::120:264::::::|h[Azsharine]|h|r", -- [35]
-							"|cffa335ee|Hitem:168188::::::::120:264::::::|h[Sage Agate]|h|r", -- [36]
-							"|cffffffff|Hitem:152512::::::::120:264::::::|h[Monelite Ore]|h|r", -- [37]
-							"|cffffffff|Hitem:39354::::::::120:264::::::|h[Light Parchment]|h|r", -- [38]
-							"|cff1eff00|Hitem:153700::::::::120:264::::::|h[Golden Beryl]|h|r", -- [39]
-							"|cffffffff|Hitem:153050::::::::120:264::::::|h[Shimmerscale]|h|r", -- [40]
-							"|cff0070dd|Hitem:154122::::::::120:264::::::|h[Tidal Amethyst]|h|r", -- [41]
-							"|cff0070dd|Hitem:154123::::::::120:264::::::|h[Amberblaze]|h|r", -- [42]
-							"|cff0070dd|Hitem:154124::::::::120:264::::::|h[Laribole]|h|r", -- [43]
-							"|cffffffff|Hitem:153635::::::::120:264::::::|h[Ultramarine Pigment]|h|r", -- [44]
-							"|cff0070dd|Hitem:154121::::::::120:264::::::|h[Scarlet Diamond]|h|r", -- [45]
-							"|cff0070dd|Hitem:154120::::::::120:264::::::|h[Owlseye]|h|r", -- [46]
-							"|cffffffff|Hitem:168302::::::::120:264::::::|h[Viper Fish]|h|r", -- [47]
-							"|cff1eff00|Hitem:153669::::::::120:264::::::|h[Viridescent Pigment]|h|r", -- [48]
+							"|cffffffff|Hitem:165948::::::::120:264::::::|h[]|h|r", -- [11]
+							"|cffffffff|Hitem:152875::::::::120:264::::::|h[]|h|r", -- [12]
+							"|cffffffff|Hitem:152876::::::::120:264::::::|h[]|h|r", -- [13]
+							"|cffffffff|Hitem:154164::::::::120:264::::::|h[]|h|r", -- [14]
+							"|cffffffff|Hitem:152511::::::::120:264::::::|h[]|h|r", -- [15]
+							"|cffffffff|Hitem:152541::::::::120:264::::::|h[]|h|r", -- [16]
+							"|cffffffff|Hitem:153635::::::::120:264::::::|h[]|h|r", -- [17]
+							"|cffffffff|Hitem:152877::::::::120:264::::::|h[]|h|r", -- [18]
+							"|cffffffff|Hitem:153051::::::::120:264::::::|h[]|h|r", -- [19]
+							"|cffffffff|Hitem:152542::::::::120:264::::::|h[]|h|r", -- [20]
+							"|cffffffff|Hitem:154165::::::::120:264::::::|h[]|h|r", -- [21]
+							"|cffffffff|Hitem:152668::::::::120:264::::::|h[]|h|r", -- [22]
+							"|cffffffff|Hitem:153635::::::::120:264::::::|h[]|h|r", -- [23]
+							"|cffffffff|Hitem:3371::::::::120:264::::::|h[]|h|r", -- [24]
+							"|cffffffff|Hitem:3371::::::::120:264::::::|h[]|h|r", -- [25]
+							"|cffffffff|Hitem:3371::::::::120:264::::::|h[]|h|r", -- [26]
+							"|cffffffff|Hitem:3371::::::::120:264::::::|h[]|h|r", -- [27]
+							"|cffffffff|Hitem:3371::::::::120:264::::::|h[]|h|r", -- [28]
+							"|cffffffff|Hitem:3371::::::::120:264::::::|h[]|h|r", -- [29]
+							"|cffffffff|Hitem:3371::::::::120:264::::::|h[]|h|r", -- [30]
+							"|cffffffff|Hitem:153635::::::::120:264::::::|h[]|h|r", -- [31]
+							"|cffffffff|Hitem:160298::::::::120:264::::::|h[]|h|r", -- [32]
+							"|cffffffff|Hitem:152579::::::::120:264::::::|h[]|h|r", -- [33]
+							"|cffffffff|Hitem:152513::::::::120:264::::::|h[]|h|r", -- [34]
+							"|cffffffff|Hitem:168193::::::::120:264::::::|h[]|h|r", -- [35]
+							"|cffffffff|Hitem:168188::::::::120:264::::::|h[]|h|r", -- [36]
+							"|cffffffff|Hitem:152512::::::::120:264::::::|h[]|h|r", -- [37]
+							"|cffffffff|Hitem:39354::::::::120:264::::::|h[]|h|r", -- [38]
+							"|cffffffff|Hitem:153700::::::::120:264::::::|h[]|h|r", -- [39]
+							"|cffffffff|Hitem:153050::::::::120:264::::::|h[]|h|r", -- [40]
+							"|cffffffff|Hitem:154122::::::::120:264::::::|h[]|h|r", -- [41]
+							"|cffffffff|Hitem:154123::::::::120:264::::::|h[]|h|r", -- [42]
+							"|cffffffff|Hitem:154124::::::::120:264::::::|h[]|h|r", -- [43]
+							"|cffffffff|Hitem:153635::::::::120:264::::::|h[]|h|r", -- [44]
+							"|cffffffff|Hitem:154121::::::::120:264::::::|h[]|h|r", -- [45]
+							"|cffffffff|Hitem:154120::::::::120:264::::::|h[]|h|r", -- [46]
+							"|cffffffff|Hitem:168302::::::::120:264::::::|h[]|h|r", -- [47]
+							"|cffffffff|Hitem:153669::::::::120:264::::::|h[]|h|r", -- [48]
 							nil, -- [49]
-							"|cffa335ee|Hitem:162461::::::::120:264::::::|h[Sanguicell]|h|r", -- [50]
-							"|cffffffff|Hitem:152546::::::::120:264::::::|h[Lane Snapper]|h|r", -- [51]
-							"|cffffffff|Hitem:152545::::::::120:264::::::|h[Frenzied Fangtooth]|h|r", -- [52]
+							"|cffffffff|Hitem:162461::::::::120:264::::::|h[]|h|r", -- [50]
+							"|cffffffff|Hitem:152546::::::::120:264::::::|h[]|h|r", -- [51]
+							"|cffffffff|Hitem:152545::::::::120:264::::::|h[]|h|r", -- [52]
 							nil, -- [53]
-							"|cffffffff|Hitem:168303::::::::120:264::::::|h[Rubbery Flank]|h|r", -- [54]
-							"|cffffffff|Hitem:168645::::::::120:264::::::|h[Moist Fillet]|h|r", -- [55]
-							"|cffffffff|Hitem:168487::::::::120:264::::::|h[Zin'anthid]|h|r", -- [56]
-							"|cffffffff|Hitem:168650::::::::120:264::::::|h[Cragscale]|h|r", -- [57]
-							"|cffffffff|Hitem:167562::::::::120:264::::::|h[Ionized Minnow]|h|r", -- [58]
-							"|cffffffff|Hitem:167562::::::::120:264::::::|h[Ionized Minnow]|h|r", -- [59]
-							"|cffa335ee|Hitem:168832::::::::120:264::::::|h[Galvanic Oscillator]|h|r", -- [60]
-							"|cff0070dd|Hitem:166970::::::::120:264::::::|h[Energy Cell]|h|r", -- [61]
-							"|cff1eff00|Hitem:152510::::::::120:264::::::|h[Anchor Weed]|h|r", -- [62]
-							"|cffffffff|Hitem:160711::::::::120:264::::::|h[Aromatic Fish Oil]|h|r", -- [63]
-							"|cffa335ee|Hitem:168327::::::::120:264::::::|h[Chain Ignitercoil]|h|r", -- [64]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [65]
-							"|cff1eff00|Hitem:166971::::::::120:264::::::|h[Empty Energy Cell]|h|r", -- [66]
-							"|cff1eff00|Hitem:158189::::::::120:264::::::|h[Viridescent Ink]|h|r", -- [67]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [68]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [69]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [70]
-							"|cffffffff|Hitem:39354::::::::120:264::::::|h[Light Parchment]|h|r", -- [71]
-							"|cffffffff|Hitem:168185::::::::120:264::::::|h[Osmenite Ore]|h|r", -- [72]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [73]
-							"|cffffffff|Hitem:174353::::::::120:264::::::|h[Questionable Meat]|h|r", -- [74]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [75]
+							"|cffffffff|Hitem:168303::::::::120:264::::::|h[]|h|r", -- [54]
+							"|cffffffff|Hitem:168645::::::::120:264::::::|h[]|h|r", -- [55]
+							"|cffffffff|Hitem:168487::::::::120:264::::::|h[]|h|r", -- [56]
+							"|cffffffff|Hitem:168650::::::::120:264::::::|h[]|h|r", -- [57]
+							"|cffffffff|Hitem:167562::::::::120:264::::::|h[]|h|r", -- [58]
+							"|cffffffff|Hitem:167562::::::::120:264::::::|h[]|h|r", -- [59]
+							"|cffffffff|Hitem:168832::::::::120:264::::::|h[]|h|r", -- [60]
+							"|cffffffff|Hitem:166970::::::::120:264::::::|h[]|h|r", -- [61]
+							"|cffffffff|Hitem:152510::::::::120:264::::::|h[]|h|r", -- [62]
+							"|cffffffff|Hitem:160711::::::::120:264::::::|h[]|h|r", -- [63]
+							"|cffffffff|Hitem:168327::::::::120:264::::::|h[]|h|r", -- [64]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [65]
+							"|cffffffff|Hitem:166971::::::::120:264::::::|h[]|h|r", -- [66]
+							"|cffffffff|Hitem:158189::::::::120:264::::::|h[]|h|r", -- [67]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [68]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [69]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [70]
+							"|cffffffff|Hitem:39354::::::::120:264::::::|h[]|h|r", -- [71]
+							"|cffffffff|Hitem:168185::::::::120:264::::::|h[]|h|r", -- [72]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [73]
+							"|cffffffff|Hitem:174353::::::::120:264::::::|h[]|h|r", -- [74]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [75]
 							nil, -- [76]
-							"|cff1eff00|Hitem:153669::::::::120:264::::::|h[Viridescent Pigment]|h|r", -- [77]
-							"|cffffffff|Hitem:168663::::::::120:264::::::|h[Maroon Ink]|h|r", -- [78]
-							"|cff1eff00|Hitem:167738::::::::120:264::::::|h[Gilded Seaweave]|h|r", -- [79]
-							"|cff1eff00|Hitem:153669::::::::120:264::::::|h[Viridescent Pigment]|h|r", -- [80]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [81]
-							"|cffffffff|Hitem:39354::::::::120:264::::::|h[Light Parchment]|h|r", -- [82]
-							"|cffffffff|Hitem:158188::::::::120:264::::::|h[Crimson Ink]|h|r", -- [83]
-							"|cff1eff00|Hitem:154722::::::::120:264::::::|h[Tempest Hide]|h|r", -- [84]
-							"|cff1eff00|Hitem:152577::::::::120:264::::::|h[Deep Sea Satin]|h|r", -- [85]
-							"|cffffffff|Hitem:159959::::::::120:264::::::|h[Nylon Thread]|h|r", -- [86]
-							"|cff0070dd|Hitem:158378::::::::120:264::::::|h[Embroidered Deep Sea Satin]|h|r", -- [87]
-							"|cffffffff|Hitem:168645::::::::120:264::::::|h[Moist Fillet]|h|r", -- [88]
-							"|cffa335ee|Hitem:168192::::::::120:264::::::|h[Sand Spinel]|h|r", -- [89]
-							"|cffa335ee|Hitem:168191::::::::120:264::::::|h[Sea Currant]|h|r", -- [90]
-							"|cff0070dd|Hitem:154125::::::::120:264::::::|h[Royal Quartz]|h|r", -- [91]
-							"|cffa335ee|Hitem:168189::::::::120:264::::::|h[Dark Opal]|h|r", -- [92]
-							"|cff0070dd|Hitem:169610::::::::120:264::::::|h[S.P.A.R.E. Crate]|h|r", -- [93]
-							"|cffffffff|Hitem:158186::::::::120:264::::::|h[Distilled Water]|h|r", -- [94]
-							"|cff1eff00|Hitem:153051::::::::120:264::::::|h[Mistscale]|h|r", -- [95]
-							"|cff0070dd|Hitem:152542::::::::120:264::::::|h[Hardened Tempest Hide]|h|r", -- [96]
-							"|cff1eff00|Hitem:166846::::::::120:264::::::|h[Spare Parts]|h|r", -- [97]
-							"|cffffffff|Hitem:158187::::::::120:264::::::|h[Ultramarine Ink]|h|r", -- [98]
+							"|cffffffff|Hitem:153669::::::::120:264::::::|h[]|h|r", -- [77]
+							"|cffffffff|Hitem:168663::::::::120:264::::::|h[]|h|r", -- [78]
+							"|cffffffff|Hitem:167738::::::::120:264::::::|h[]|h|r", -- [79]
+							"|cffffffff|Hitem:153669::::::::120:264::::::|h[]|h|r", -- [80]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [81]
+							"|cffffffff|Hitem:39354::::::::120:264::::::|h[]|h|r", -- [82]
+							"|cffffffff|Hitem:158188::::::::120:264::::::|h[]|h|r", -- [83]
+							"|cffffffff|Hitem:154722::::::::120:264::::::|h[]|h|r", -- [84]
+							"|cffffffff|Hitem:152577::::::::120:264::::::|h[]|h|r", -- [85]
+							"|cffffffff|Hitem:159959::::::::120:264::::::|h[]|h|r", -- [86]
+							"|cffffffff|Hitem:158378::::::::120:264::::::|h[]|h|r", -- [87]
+							"|cffffffff|Hitem:168645::::::::120:264::::::|h[]|h|r", -- [88]
+							"|cffffffff|Hitem:168192::::::::120:264::::::|h[]|h|r", -- [89]
+							"|cffffffff|Hitem:168191::::::::120:264::::::|h[]|h|r", -- [90]
+							"|cffffffff|Hitem:154125::::::::120:264::::::|h[]|h|r", -- [91]
+							"|cffffffff|Hitem:168189::::::::120:264::::::|h[]|h|r", -- [92]
+							"|cffffffff|Hitem:169610::::::::120:264::::::|h[]|h|r", -- [93]
+							"|cffffffff|Hitem:158186::::::::120:264::::::|h[]|h|r", -- [94]
+							"|cffffffff|Hitem:153051::::::::120:264::::::|h[]|h|r", -- [95]
+							"|cffffffff|Hitem:152542::::::::120:264::::::|h[]|h|r", -- [96]
+							"|cffffffff|Hitem:166846::::::::120:264::::::|h[]|h|r", -- [97]
+							"|cffffffff|Hitem:158187::::::::120:264::::::|h[]|h|r", -- [98]
 						},
 						["counts"] = {
 							114, -- [1]
@@ -1168,13 +1221,6 @@ DataStore_ContainersDB = {
 						},
 						["size"] = 98,
 					},
-					["Bag10"] = {
-						["rarity"] = 2,
-						["link"] = "|cff1eff00|Hitem:54443::::::::120:262::::::|h[Embersilk Bag]|h|r",
-						["freeslots"] = 22,
-						["icon"] = 348522,
-						["size"] = 22,
-					},
 					["Bag8"] = {
 						["rarity"] = 4,
 						["link"] = "|cffa335ee|Hitem:114821::::::::120:262::::::|h[Hexweave Bag]|h|r",
@@ -1183,6 +1229,7 @@ DataStore_ContainersDB = {
 						["size"] = 30,
 					},
 					["Bag0"] = {
+						["size"] = 20,
 						["ids"] = {
 							169159, -- [1]
 							174767, -- [2]
@@ -1190,7 +1237,7 @@ DataStore_ContainersDB = {
 							138019, -- [4]
 							168983, -- [5]
 							162542, -- [6]
-							174147, -- [7]
+							168981, -- [7]
 							159630, -- [8]
 							165535, -- [9]
 							173497, -- [10]
@@ -1205,6 +1252,11 @@ DataStore_ContainersDB = {
 							174764, -- [19]
 							159380, -- [20]
 						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["counts"] = {
+							[16] = 4,
+							[19] = 5,
+						},
 						["links"] = {
 							"|cffa335ee|Hitem:169159::::::::120:264::16:6:6536:42:6516:6513:1522:4786:::|h[Overclocking Bit Band]|h|r", -- [1]
 							"|cff0070dd|Hitem:174767::::::::120:264::11::::|h[Mogu Relic]|h|r", -- [2]
@@ -1212,7 +1264,7 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hkeystone:158923:249:15:10:7:2:120|h[Keystone: Kings' Rest (15)]|h|r", -- [4]
 							"|cffa335ee|Hitem:168983::168639::::::120:264::35:9:6536:4802:6578:6579:6477:6455:6513:1532:4786:::|h[Maniacal Monarch's Girdle]|h|r", -- [5]
 							"|cffa335ee|Hitem:162542::::::::120:264::16:5:6536:6516:6513:1637:4786:::|h[Seal of the City Watch]|h|r", -- [6]
-							"|cffa335ee|Hitem:174147::::::::120:264::5:5:4823:1502:4786:6507:4775:::|h[Last Vestige of Neltharion]|h|r", -- [7]
+							"|cffa335ee|Hitem:168981::::::::120:264::35:5:5448:1532:4786:6510:4775:::|h[Circuit-Linked Chainmail]|h|r", -- [7]
 							"|cffa335ee|Hitem:159630::::::::120:264::35:4:6536:6513:1647:4786:::|h[Balefire Branch]|h|r", -- [8]
 							"|cffa335ee|Hitem:165535::::::::120:264::6:4:4824:1537:4786:5420:::|h[Simian Berserker's Helm]|h|r", -- [9]
 							"|cffa335ee|Hitem:173497::::::::120:264::53:7:6412:6515:6578:6579:6537:1517:4786:::|h[Nefarious Tormentor's Treads]|h|r", -- [10]
@@ -1227,12 +1279,6 @@ DataStore_ContainersDB = {
 							"|cff1eff00|Hitem:174764::::::::120:264::::::|h[Tol'vir Relic Fragment]|h|r", -- [19]
 							"|cffa335ee|Hitem:159380::::::::120:264::35:7:6536:6578:6579:6544:6513:1647:4786:::|h[Arc-Glass Bindings]|h|r", -- [20]
 						},
-						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
-						["counts"] = {
-							[16] = 4,
-							[19] = 5,
-						},
-						["size"] = 20,
 					},
 					["Bag3"] = {
 						["rarity"] = 4,
@@ -1246,8 +1292,8 @@ DataStore_ContainersDB = {
 							174148, -- [7]
 							174151, -- [8]
 							nil, -- [9]
-							159376, -- [10]
-							159360, -- [11]
+							159368, -- [10]
+							159376, -- [11]
 							158309, -- [12]
 							174161, -- [13]
 							173453, -- [14]
@@ -1263,7 +1309,7 @@ DataStore_ContainersDB = {
 							169489, -- [24]
 							159462, -- [25]
 							174533, -- [26]
-							169160, -- [27]
+							nil, -- [27]
 							174103, -- [28]
 							174044, -- [29]
 							174528, -- [30]
@@ -1278,8 +1324,8 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:174148::::::::120:264::5:5:4823:1502:4786:6508:4775:::|h[Helm of Deep Despair]|h|r", -- [7]
 							"|cffa335ee|Hitem:174151::::::::120:264::5:5:4823:1502:4786:6508:4775:::|h[Helm of Actualized Visions]|h|r", -- [8]
 							nil, -- [9]
-							"|cffa335ee|Hitem:159376::::::::120:264::35:5:5445:1632:4786:6509:4775:::|h[Hook-Barbed Spaulders]|h|r", -- [10]
-							"|cffa335ee|Hitem:159360::::::::120:264::35:5:5448:1647:4786:6512:4775:::|h[Crashguard Spaulders]|h|r", -- [11]
+							"|cffa335ee|Hitem:159368::::::::120:264::35:5:5448:1647:4786:6512:4775:::|h[Spaulders of Prime Emperor]|h|r", -- [10]
+							"|cffa335ee|Hitem:159376::::::::120:264::35:5:5445:1632:4786:6509:4775:::|h[Hook-Barbed Spaulders]|h|r", -- [11]
 							"|cffa335ee|Hitem:158309::::::::120:264::35:7:6536:6578:6579:6562:6515:1647:4786:::|h[Wristlinks of Alchemical Transfusion]|h|r", -- [12]
 							"|cffa335ee|Hitem:174161::::::::120:264::5:6:4823:42:6516:6515:1502:4786:::|h[Bracers of Manifest Apathy]|h|r", -- [13]
 							"|cffa335ee|Hitem:173453::::::::120:264::42:8:6412:4803:6513:6578:6579:6551:1507:4786:::|h[Nefarious Tormentor's Vambraces]|h|r", -- [14]
@@ -1295,7 +1341,7 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:169489::::::::120:264:::2:6288:6300:::|h[Azsh'ari Stormsurger Cape]|h|r", -- [24]
 							"|cffa335ee|Hitem:159462:6108:::::::120:264::35:5:6536:6578:6513:1647:4786:::|h[Footbomb Championship Ring]|h|r", -- [25]
 							"|cffa335ee|Hitem:174533:6108:::::::120:264::5:5:4823:6516:6515:1502:4786:::|h[Ring of Cosmic Potential]|h|r", -- [26]
-							"|cffa335ee|Hitem:169160::::::::120:264::16:5:6536:6516:6515:1522:4786:::|h[Shorting Bit Band]|h|r", -- [27]
+							nil, -- [27]
 							"|cffa335ee|Hitem:174103::::::::120:264::5:4:4823:6515:1502:4786:::|h[Manifesto of Madness]|h|r", -- [28]
 							"|cffa335ee|Hitem:174044::::::::120:264::5:4:4823:6515:1502:4786:::|h[Humming Black Dragonscale]|h|r", -- [29]
 							"|cffa335ee|Hitem:174528::::::::120:264::5:4:4823:6513:1502:4786:::|h[Void-Twisted Titanshard]|h|r", -- [30]
@@ -1304,7 +1350,7 @@ DataStore_ContainersDB = {
 							8, -- [1]
 							20, -- [2]
 						},
-						["freeslots"] = 4,
+						["freeslots"] = 5,
 						["link"] = "|cffa335ee|Hitem:114821::::::::120:264::::::|h[Hexweave Bag]|h|r",
 						["icon"] = 1029751,
 						["size"] = 30,
@@ -1330,7 +1376,7 @@ DataStore_ContainersDB = {
 							172495, -- [16]
 							168217, -- [17]
 							163036, -- [18]
-							nil, -- [19]
+							5512, -- [19]
 							174353, -- [20]
 							169872, -- [21]
 							169218, -- [22]
@@ -1340,7 +1386,7 @@ DataStore_ContainersDB = {
 							152576, -- [26]
 							174959, -- [27]
 							159631, -- [28]
-							nil, -- [29]
+							165703, -- [29]
 							174758, -- [30]
 						},
 						["links"] = {
@@ -1362,7 +1408,7 @@ DataStore_ContainersDB = {
 							"|cff1eff00|Hitem:172495::::::::120:264::::::|h[Anima Orb]|h|r", -- [16]
 							"|cffffffff|Hitem:168217::::::::120:264::::::|h[Hardened Spring]|h|r", -- [17]
 							"|cffffffff|Hitem:163036::::::::120:264::::::|h[Polished Pet Charm]|h|r", -- [18]
-							nil, -- [19]
+							"|cffffffff|Hitem:5512::::::::120:264::5::::|h[Healthstone]|h|r", -- [19]
 							"|cffffffff|Hitem:174353::::::::120:264::::::|h[Questionable Meat]|h|r", -- [20]
 							"|cff0070dd|Hitem:169872::::::::120:264::::::|h[Irontide Lockbox Key]|h|r", -- [21]
 							"|cff0070dd|Hitem:169218::::::::120:264::::::|h[Old Rusty Key]|h|r", -- [22]
@@ -1372,7 +1418,7 @@ DataStore_ContainersDB = {
 							"|cffffffff|Hitem:152576::::::::120:264::::::|h[Tidespray Linen]|h|r", -- [26]
 							"|cff0070dd|Hitem:174959::::::::120:264::11::::|h[Cache of the Mantid Swarm]|h|r", -- [27]
 							"|cffa335ee|Hitem:159631::::::::120:264::35:4:6536:6513:1647:4786:::|h[Lady Waycrest's Music Box]|h|r", -- [28]
-							nil, -- [29]
+							"|cffa335ee|Hitem:165703::::::::120:264::::::|h[Breath of Bwonsamdi]|h|r", -- [29]
 							"|cff1eff00|Hitem:174758::::::::120:264::::::|h[Voidwarped Relic Fragment]|h|r", -- [30]
 						},
 						["counts"] = {
@@ -1382,15 +1428,15 @@ DataStore_ContainersDB = {
 							[14] = 3,
 							[4] = 15,
 							[8] = 5,
-							[9] = 19,
+							[9] = 17,
 							[18] = 10,
+							[30] = 3,
 							[20] = 3,
 							[3] = 2,
 							[6] = 2,
-							[30] = 3,
 							[26] = 10,
+							[29] = 180,
 						},
-						["freeslots"] = 2,
 						["link"] = "|cffa335ee|Hitem:114821::::::::120:264::::::|h[Hexweave Bag]|h|r",
 						["icon"] = 1029751,
 						["size"] = 30,
@@ -1627,11 +1673,11 @@ DataStore_ContainersDB = {
 						["link"] = "|cff0070dd|Hitem:154696::::::::120:264::::::|h[Embroidered Deep Sea Bag]|h|r",
 						["links"] = {
 							"|cffa335ee|Hitem:174060::::::::120:264::5:4:4823:6515:1502:4786:::|h[Psyche Shredder]|h|r", -- [1]
-							nil, -- [2]
+							"|cffa335ee|Hitem:174500::::::::120:264::5:4:4823:6515:1502:4786:::|h[Vita-Charged Titanshard]|h|r", -- [2]
 							"|cffa335ee|Hitem:165534::::::::120:264::6:5:4800:1808:1537:5875:4784:::|h[Ape Wrangler's Wristguards]|h|r", -- [3]
 							"|cffa335ee|Hitem:167555::167672:168751:::::120:264::11:1:1488::3:1461:5857:6319:|h[Pocket-Sized Computation Device]|h|r", -- [4]
 							"|cffa335ee|Hitem:165587::::::::120:264::6:3:4800:1537:4786:::|h[Phoenixfire Staff]|h|r", -- [5]
-							nil, -- [6]
+							"|cffa335ee|Hitem:165820::::::::120:264::6:4:4824:1537:4786:5420:::|h[Electrified Crown of Rahu'ai]|h|r", -- [6]
 							"|cffa335ee|Hitem:165567::::::::120:264::6:3:4800:1537:4786:::|h[Seal of the Zandalari Empire]|h|r", -- [7]
 							nil, -- [8]
 							nil, -- [9]
@@ -1693,14 +1739,14 @@ DataStore_ContainersDB = {
 							2, -- [31]
 							2, -- [32]
 						},
-						["freeslots"] = 18,
+						["freeslots"] = 16,
 						["ids"] = {
 							174060, -- [1]
-							nil, -- [2]
+							174500, -- [2]
 							165534, -- [3]
 							167555, -- [4]
 							165587, -- [5]
-							nil, -- [6]
+							165820, -- [6]
 							165567, -- [7]
 							nil, -- [8]
 							nil, -- [9]
@@ -1818,12 +1864,12 @@ DataStore_ContainersDB = {
 					},
 				},
 				["numBagSlots"] = 142,
-				["numFreeBagSlots"] = 26,
+				["numFreeBagSlots"] = 23,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["numFreeBankSlots"] = 140,
 				["numBankSlots"] = 184,
-				["lastUpdate"] = 1586924504,
+				["lastUpdate"] = 1587011445,
 				["Containers"] = {
 					["Bag-3"] = {
 						["ids"] = {
@@ -1984,82 +2030,82 @@ DataStore_ContainersDB = {
 							[83] = 173,
 						},
 						["links"] = {
-							"|cff1eff00|Hitem:152577::::::::120:256::::::|h[Deep Sea Satin]|h|r", -- [1]
-							"|cff1eff00|Hitem:152577::::::::120:256::::::|h[Deep Sea Satin]|h|r", -- [2]
-							"|cffffffff|Hitem:159959::::::::120:256::::::|h[Nylon Thread]|h|r", -- [3]
-							"|cff1eff00|Hitem:152577::::::::120:256::::::|h[Deep Sea Satin]|h|r", -- [4]
-							"|cffffffff|Hitem:159959::::::::120:256::::::|h[Nylon Thread]|h|r", -- [5]
-							"|cffffffff|Hitem:153050::::::::120:256::::::|h[Shimmerscale]|h|r", -- [6]
-							"|cffffffff|Hitem:159959::::::::120:256::::::|h[Nylon Thread]|h|r", -- [7]
-							"|cffffffff|Hitem:152576::::::::120:256::::::|h[Tidespray Linen]|h|r", -- [8]
-							"|cff0070dd|Hitem:152668::::::::120:256::::::|h[Expulsom]|h|r", -- [9]
-							"|cffffffff|Hitem:152875::::::::120:256::::::|h[Gloom Dust]|h|r", -- [10]
-							"|cffffffff|Hitem:160298::::::::120:256::::::|h[Durable Flux]|h|r", -- [11]
-							"|cffffffff|Hitem:159959::::::::120:256::::::|h[Nylon Thread]|h|r", -- [12]
-							"|cffffffff|Hitem:159959::::::::120:256::::::|h[Nylon Thread]|h|r", -- [13]
-							"|cffffffff|Hitem:174353::::::::120:256::::::|h[Questionable Meat]|h|r", -- [14]
-							"|cffffffff|Hitem:168649::::::::120:256::::::|h[Dredged Leather]|h|r", -- [15]
-							"|cffffffff|Hitem:168185::::::::120:256::::::|h[Osmenite Ore]|h|r", -- [16]
-							"|cffffffff|Hitem:154897::::::::120:256::::::|h[Stringy Loins]|h|r", -- [17]
-							"|cffffffff|Hitem:154898::::::::120:256::::::|h[Meaty Haunch]|h|r", -- [18]
-							"|cffffffff|Hitem:168645::::::::120:256::::::|h[Moist Fillet]|h|r", -- [19]
-							"|cffffffff|Hitem:152541::::::::120:256::::::|h[Coarse Leather]|h|r", -- [20]
-							"|cffffffff|Hitem:152631::::::::120:256::::::|h[Briny Flesh]|h|r", -- [21]
-							"|cffffffff|Hitem:168303::::::::120:256::::::|h[Rubbery Flank]|h|r", -- [22]
-							"|cffffffff|Hitem:154164::::::::120:256::::::|h[Blood-Stained Bone]|h|r", -- [23]
-							"|cff0070dd|Hitem:158378::::::::120:256::::::|h[Embroidered Deep Sea Satin]|h|r", -- [24]
-							"|cffa335ee|Hitem:168189::::::::120:256::::::|h[Dark Opal]|h|r", -- [25]
-							"|cffa335ee|Hitem:152877::::::::120:256::::::|h[Veiled Crystal]|h|r", -- [26]
-							"|cffffffff|Hitem:152508::::::::120:256::::::|h[Winter's Kiss]|h|r", -- [27]
-							"|cff0070dd|Hitem:162460::::::::120:256::::::|h[Hydrocore]|h|r", -- [28]
-							"|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r", -- [29]
-							"|cff0070dd|Hitem:152876::::::::120:256::::::|h[Umbra Shard]|h|r", -- [30]
-							"|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r", -- [31]
-							"|cffffffff|Hitem:152511::::::::120:256::::::|h[Sea Stalk]|h|r", -- [32]
-							"|cff0070dd|Hitem:165948::::::::120:256::::::|h[Tidalcore]|h|r", -- [33]
-							"|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r", -- [34]
-							"|cffffffff|Hitem:154899::::::::120:256::::::|h[Thick Paleo Steak]|h|r", -- [35]
-							"|cffffffff|Hitem:152505::::::::120:256::::::|h[Riverbud]|h|r", -- [36]
-							"|cffa335ee|Hitem:168193::::::::120:256::::::|h[Azsharine]|h|r", -- [37]
-							"|cffffffff|Hitem:152579::::::::120:256::::::|h[Storm Silver Ore]|h|r", -- [38]
-							"|cffffffff|Hitem:168663::::::::120:256::::::|h[Maroon Ink]|h|r", -- [39]
-							"|cff0070dd|Hitem:154124::::::::120:256::::::|h[Laribole]|h|r", -- [40]
-							"|cffa335ee|Hitem:168188::::::::120:256::::::|h[Sage Agate]|h|r", -- [41]
-							"|cffa335ee|Hitem:168192::::::::120:256::::::|h[Sand Spinel]|h|r", -- [42]
-							"|cffffffff|Hitem:152576::::::::120:256::::::|h[Tidespray Linen]|h|r", -- [43]
+							"|cffffffff|Hitem:152577::::::::120:256::::::|h[]|h|r", -- [1]
+							"|cffffffff|Hitem:152577::::::::120:256::::::|h[]|h|r", -- [2]
+							"|cffffffff|Hitem:159959::::::::120:256::::::|h[]|h|r", -- [3]
+							"|cffffffff|Hitem:152577::::::::120:256::::::|h[]|h|r", -- [4]
+							"|cffffffff|Hitem:159959::::::::120:256::::::|h[]|h|r", -- [5]
+							"|cffffffff|Hitem:153050::::::::120:256::::::|h[]|h|r", -- [6]
+							"|cffffffff|Hitem:159959::::::::120:256::::::|h[]|h|r", -- [7]
+							"|cffffffff|Hitem:152576::::::::120:256::::::|h[]|h|r", -- [8]
+							"|cffffffff|Hitem:152668::::::::120:256::::::|h[]|h|r", -- [9]
+							"|cffffffff|Hitem:152875::::::::120:256::::::|h[]|h|r", -- [10]
+							"|cffffffff|Hitem:160298::::::::120:256::::::|h[]|h|r", -- [11]
+							"|cffffffff|Hitem:159959::::::::120:256::::::|h[]|h|r", -- [12]
+							"|cffffffff|Hitem:159959::::::::120:256::::::|h[]|h|r", -- [13]
+							"|cffffffff|Hitem:174353::::::::120:256::::::|h[]|h|r", -- [14]
+							"|cffffffff|Hitem:168649::::::::120:256::::::|h[]|h|r", -- [15]
+							"|cffffffff|Hitem:168185::::::::120:256::::::|h[]|h|r", -- [16]
+							"|cffffffff|Hitem:154897::::::::120:256::::::|h[]|h|r", -- [17]
+							"|cffffffff|Hitem:154898::::::::120:256::::::|h[]|h|r", -- [18]
+							"|cffffffff|Hitem:168645::::::::120:256::::::|h[]|h|r", -- [19]
+							"|cffffffff|Hitem:152541::::::::120:256::::::|h[]|h|r", -- [20]
+							"|cffffffff|Hitem:152631::::::::120:256::::::|h[]|h|r", -- [21]
+							"|cffffffff|Hitem:168303::::::::120:256::::::|h[]|h|r", -- [22]
+							"|cffffffff|Hitem:154164::::::::120:256::::::|h[]|h|r", -- [23]
+							"|cffffffff|Hitem:158378::::::::120:256::::::|h[]|h|r", -- [24]
+							"|cffffffff|Hitem:168189::::::::120:256::::::|h[]|h|r", -- [25]
+							"|cffffffff|Hitem:152877::::::::120:256::::::|h[]|h|r", -- [26]
+							"|cffffffff|Hitem:152508::::::::120:256::::::|h[]|h|r", -- [27]
+							"|cffffffff|Hitem:162460::::::::120:256::::::|h[]|h|r", -- [28]
+							"|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r", -- [29]
+							"|cffffffff|Hitem:152876::::::::120:256::::::|h[]|h|r", -- [30]
+							"|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r", -- [31]
+							"|cffffffff|Hitem:152511::::::::120:256::::::|h[]|h|r", -- [32]
+							"|cffffffff|Hitem:165948::::::::120:256::::::|h[]|h|r", -- [33]
+							"|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r", -- [34]
+							"|cffffffff|Hitem:154899::::::::120:256::::::|h[]|h|r", -- [35]
+							"|cffffffff|Hitem:152505::::::::120:256::::::|h[]|h|r", -- [36]
+							"|cffffffff|Hitem:168193::::::::120:256::::::|h[]|h|r", -- [37]
+							"|cffffffff|Hitem:152579::::::::120:256::::::|h[]|h|r", -- [38]
+							"|cffffffff|Hitem:168663::::::::120:256::::::|h[]|h|r", -- [39]
+							"|cffffffff|Hitem:154124::::::::120:256::::::|h[]|h|r", -- [40]
+							"|cffffffff|Hitem:168188::::::::120:256::::::|h[]|h|r", -- [41]
+							"|cffffffff|Hitem:168192::::::::120:256::::::|h[]|h|r", -- [42]
+							"|cffffffff|Hitem:152576::::::::120:256::::::|h[]|h|r", -- [43]
 							nil, -- [44]
-							"|cffffffff|Hitem:152506::::::::120:256::::::|h[Star Moss]|h|r", -- [45]
-							"|cff1eff00|Hitem:167738::::::::120:256::::::|h[Gilded Seaweave]|h|r", -- [46]
+							"|cffffffff|Hitem:152506::::::::120:256::::::|h[]|h|r", -- [45]
+							"|cffffffff|Hitem:167738::::::::120:256::::::|h[]|h|r", -- [46]
 							nil, -- [47]
-							"|cff1eff00|Hitem:154722::::::::120:256::::::|h[Tempest Hide]|h|r", -- [48]
-							"|cffffffff|Hitem:3371::::::::120:256::::::|h[Crystal Vial]|h|r", -- [49]
-							"|cffffffff|Hitem:3371::::::::120:256::::::|h[Crystal Vial]|h|r", -- [50]
-							"|cffffffff|Hitem:3371::::::::120:256::::::|h[Crystal Vial]|h|r", -- [51]
-							[58] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[Crystal Vial]|h|r",
-							[85] = "|cff0070dd|Hitem:166970::::::::120:256::::::|h[Energy Cell]|h|r",
-							[87] = "|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r",
-							[89] = "|cffa335ee|Hitem:168832::::::::120:256::::::|h[Galvanic Oscillator]|h|r",
-							[93] = "|cff0070dd|Hitem:169610::::::::120:256::::::|h[S.P.A.R.E. Crate]|h|r",
-							[97] = "|cffffffff|Hitem:152576::::::::120:256::::::|h[Tidespray Linen]|h|r",
-							[68] = "|cffffffff|Hitem:152509::::::::120:256::::::|h[Siren's Pollen]|h|r",
-							[70] = "|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r",
-							[72] = "|cffa335ee|Hitem:162461::::::::120:256::::::|h[Sanguicell]|h|r",
-							[74] = "|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r",
-							[76] = "|cffffffff|Hitem:168487::::::::120:256::::::|h[Zin'anthid]|h|r",
-							[86] = "|cff1eff00|Hitem:166971::::::::120:256::::::|h[Empty Energy Cell]|h|r",
-							[88] = "|cffa335ee|Hitem:168327::::::::120:256::::::|h[Chain Ignitercoil]|h|r",
-							[90] = "|cffffffff|Hitem:159959::::::::120:256::::::|h[Nylon Thread]|h|r",
-							[67] = "|cffa335ee|Hitem:162461::::::::120:256::::::|h[Sanguicell]|h|r",
-							[75] = "|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r",
-							[98] = "|cff1eff00|Hitem:166846::::::::120:256::::::|h[Spare Parts]|h|r",
-							[69] = "|cffffffff|Hitem:152507::::::::120:256::::::|h[Akunda's Bite]|h|r",
-							[71] = "|cffa335ee|Hitem:165703::::::::120:256::::::|h[Breath of Bwonsamdi]|h|r",
-							[73] = "|cff1eff00|Hitem:152510::::::::120:256::::::|h[Anchor Weed]|h|r",
-							[54] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[Crystal Vial]|h|r",
-							[55] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[Crystal Vial]|h|r",
-							[79] = "|cffffffff|Hitem:168650::::::::120:256::::::|h[Cragscale]|h|r",
-							[57] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[Crystal Vial]|h|r",
-							[83] = "|cffffffff|Hitem:152875::::::::120:256::::::|h[Gloom Dust]|h|r",
+							"|cffffffff|Hitem:154722::::::::120:256::::::|h[]|h|r", -- [48]
+							"|cffffffff|Hitem:3371::::::::120:256::::::|h[]|h|r", -- [49]
+							"|cffffffff|Hitem:3371::::::::120:256::::::|h[]|h|r", -- [50]
+							"|cffffffff|Hitem:3371::::::::120:256::::::|h[]|h|r", -- [51]
+							[58] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[]|h|r",
+							[85] = "|cffffffff|Hitem:166970::::::::120:256::::::|h[]|h|r",
+							[87] = "|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r",
+							[89] = "|cffffffff|Hitem:168832::::::::120:256::::::|h[]|h|r",
+							[93] = "|cffffffff|Hitem:169610::::::::120:256::::::|h[]|h|r",
+							[97] = "|cffffffff|Hitem:152576::::::::120:256::::::|h[]|h|r",
+							[68] = "|cffffffff|Hitem:152509::::::::120:256::::::|h[]|h|r",
+							[70] = "|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r",
+							[72] = "|cffffffff|Hitem:162461::::::::120:256::::::|h[]|h|r",
+							[74] = "|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r",
+							[76] = "|cffffffff|Hitem:168487::::::::120:256::::::|h[]|h|r",
+							[86] = "|cffffffff|Hitem:166971::::::::120:256::::::|h[]|h|r",
+							[88] = "|cffffffff|Hitem:168327::::::::120:256::::::|h[]|h|r",
+							[90] = "|cffffffff|Hitem:159959::::::::120:256::::::|h[]|h|r",
+							[67] = "|cffffffff|Hitem:162461::::::::120:256::::::|h[]|h|r",
+							[75] = "|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r",
+							[98] = "|cffffffff|Hitem:166846::::::::120:256::::::|h[]|h|r",
+							[69] = "|cffffffff|Hitem:152507::::::::120:256::::::|h[]|h|r",
+							[71] = "|cffffffff|Hitem:165703::::::::120:256::::::|h[]|h|r",
+							[73] = "|cffffffff|Hitem:152510::::::::120:256::::::|h[]|h|r",
+							[54] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[]|h|r",
+							[55] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[]|h|r",
+							[79] = "|cffffffff|Hitem:168650::::::::120:256::::::|h[]|h|r",
+							[57] = "|cffffffff|Hitem:3371::::::::120:256::::::|h[]|h|r",
+							[83] = "|cffffffff|Hitem:152875::::::::120:256::::::|h[]|h|r",
 						},
 					},
 					["Bag8"] = {
@@ -2085,18 +2131,19 @@ DataStore_ContainersDB = {
 							163222, -- [4]
 							163222, -- [5]
 							152561, -- [6]
-							nil, -- [7]
+							174128, -- [7]
 							152561, -- [8]
 							152497, -- [9]
 							2459, -- [10]
-							[18] = 159273,
-							[17] = 173845,
-							[21] = 173433,
-							[25] = 163280,
-							[22] = 168341,
-							[19] = 168338,
-							[23] = 159233,
+							[13] = 174120,
 							[14] = 172519,
+							[17] = 173845,
+							[18] = 159273,
+							[19] = 168338,
+							[21] = 173433,
+							[22] = 168341,
+							[23] = 159233,
+							[25] = 163280,
 						},
 						["links"] = {
 							"|cffffffff|Hitem:152495::::::::120:256::::::|h[Coastal Mana Potion]|h|r", -- [1]
@@ -2105,18 +2152,19 @@ DataStore_ContainersDB = {
 							"|cffffffff|Hitem:163222::::::::120:256::::::|h[Battle Potion of Intellect]|h|r", -- [4]
 							"|cffffffff|Hitem:163222::::::::120:256::::::|h[Battle Potion of Intellect]|h|r", -- [5]
 							"|cffffffff|Hitem:152561::::::::120:256::::::|h[Potion of Replenishment]|h|r", -- [6]
-							nil, -- [7]
+							"|cffa335ee|Hitem:174128::::::::120:256::5:5:4823:6516:6515:1502:4786:::|h[Boots of Wrought Shadow]|h|r", -- [7]
 							"|cffffffff|Hitem:152561::::::::120:256::::::|h[Potion of Replenishment]|h|r", -- [8]
 							"|cffffffff|Hitem:152497::::::::120:256::::::|h[Lightfoot Potion]|h|r", -- [9]
 							"|cffffffff|Hitem:2459::::::::120:256::::::|h[Swiftness Potion]|h|r", -- [10]
-							[18] = "|cffa335ee|Hitem:159273::::::::120:256::35:5:5445:1632:4786:6509:4775:::|h[Amice of the Returned]|h|r",
-							[17] = "|cffa335ee|Hitem:173845::::::::120:256::29:4:1502:4786:6505:4775:::|h[Vile Manipulator's Hood]|h|r",
-							[21] = "|cffa335ee|Hitem:173433::::::::120:256::28:3:1502:4786:6505:::|h[Vile Manipulator's Cowl]|h|r",
-							[25] = "|cffa335ee|Hitem:163280::::::::120:256::23:5:5845:1622:4786:6266:4775:::|h[Honorbound Artificer's Robes]|h|r",
-							[22] = "|cffa335ee|Hitem:168341::::::::120:256::6:5:4824:1517:4786:6269:4775:::|h[Siren Mystic's Vestments]|h|r",
-							[19] = "|cffa335ee|Hitem:168338::::::::120:256::5:5:4823:1502:4786:6268:4775:::|h[Amice of the Reef Witch]|h|r",
-							[23] = "|cffa335ee|Hitem:159233::::::::120:256::35:5:5445:1632:4786:6507:4775:::|h[Loa Betrayer's Vestments]|h|r",
+							[13] = "|cffa335ee|Hitem:174120::::::::120:256::5:4:4823:1502:4786:6509:::|h[Void Ascendant's Mantle]|h|r",
 							[14] = "|cff1eff00|Hitem:172519::::::::120:256::::::|h[Quartermaster's Note]|h|r",
+							[17] = "|cffa335ee|Hitem:173845::::::::120:256::29:4:1502:4786:6505:4775:::|h[Vile Manipulator's Hood]|h|r",
+							[18] = "|cffa335ee|Hitem:159273::::::::120:256::35:5:5445:1632:4786:6509:4775:::|h[Amice of the Returned]|h|r",
+							[19] = "|cffa335ee|Hitem:168338::::::::120:256::5:5:4823:1502:4786:6268:4775:::|h[Amice of the Reef Witch]|h|r",
+							[21] = "|cffa335ee|Hitem:173433::::::::120:256::28:3:1502:4786:6505:::|h[Vile Manipulator's Cowl]|h|r",
+							[22] = "|cffa335ee|Hitem:168341::::::::120:256::6:5:4824:1517:4786:6269:4775:::|h[Siren Mystic's Vestments]|h|r",
+							[23] = "|cffa335ee|Hitem:159233::::::::120:256::35:5:5445:1632:4786:6507:4775:::|h[Loa Betrayer's Vestments]|h|r",
+							[25] = "|cffa335ee|Hitem:163280::::::::120:256::23:5:5845:1622:4786:6266:4775:::|h[Honorbound Artificer's Robes]|h|r",
 						},
 						["counts"] = {
 							13, -- [1]
@@ -2137,10 +2185,31 @@ DataStore_ContainersDB = {
 						["size"] = 30,
 						["link"] = "|cffa335ee|Hitem:114821::::::::120:256::::::|h[Hexweave Bag]|h|r",
 						["icon"] = 1029751,
-						["freeslots"] = 13,
+						["freeslots"] = 11,
 					},
 					["Bag0"] = {
-						["size"] = 20,
+						["links"] = {
+							"|cffa335ee|Hitem:169312::168641::::::120:256::5:4:4799:1808:1502:4786:::|h[Luminous Jellyweed]|h|r", -- [1]
+							"|cffffffff|Hitem:172008::::::::120:256::::::|h[Contract: Rajani]|h|r", -- [2]
+							"|cffa335ee|Hitem:168374::::::::120:256::6:4:4800:1517:5855:4783:::|h[Belt of Blind Devotion]|h|r", -- [3]
+							"|cff1eff00|Hitem:168271::::::::120:256::::::|h[Stolen Ramkahen Banner]|h|r", -- [4]
+							"|cffa335ee|Hitem:167377::::::::120:256::40:4:5834:6348:1537:4786:::|h[Notorious Gladiator's Medallion]|h|r", -- [5]
+							"|cffa335ee|Hitem:167555::167672:168741:::::120:256::11:1:1490::3:1472:5850:4783:|h[Pocket-Sized Computation Device]|h|r", -- [6]
+							"|cffa335ee|Hitem:168342::::::::120:256::6:5:4824:1517:4786:6271:4775:::|h[Fathom-Feeder's Mantle]|h|r", -- [7]
+							"|cffa335ee|Hitem:173507::::::::120:256::42:9:6412:4803:4802:6513:6578:6579:6537:1507:4786:::|h[Vile Manipulator's Handguards]|h|r", -- [8]
+							"|cffa335ee|Hitem:159268::::::::120:256::35:5:5448:1617:4786:6269:4775:::|h[Inmate's Straight Robe]|h|r", -- [9]
+							"|cff1eff00|Hitem:174764::::::::120:256::::::|h[Tol'vir Relic Fragment]|h|r", -- [10]
+							"|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r", -- [11]
+							"|cffa335ee|Hitem:168964::::::::120:256::35:5:6530:6578:6513:1527:4786:::|h[Hyperthread Boots]|h|r", -- [12]
+							"|cffa335ee|Hitem:171176::::::::120:256::::::|h[Shred of Insanity]|h|r", -- [13]
+							"|cffa335ee|Hitem:165680::::::::120:256::28:7:4803:6578:6579:6563:6513:1637:4786:::|h[Igneous Winterskorn Loop]|h|r", -- [14]
+							"|cffa335ee|Hitem:159669::::::::120:256::16:5:6536:6516:6513:1637:4786:::|h[Solena's Watchful Collection]|h|r", -- [15]
+							"|cffffffff|Hitem:168216::::::::120:256::::::|h[Tempered Plating]|h|r", -- [16]
+							"|cffa335ee|Hitem:174287::::::::120:256::::::|h[Sparks of Unwavering Strength]|h|r", -- [17]
+							"|cffffffff|Hitem:168216::::::::120:256::::::|h[Tempered Plating]|h|r", -- [18]
+							"|cffa335ee|Hitem:173844::::::::120:256::29:3:1502:4786:6506:::|h[Vile Manipulator's Amice]|h|r", -- [19]
+							"|cff1eff00|Hitem:167738::::::::120:256::::::|h[Gilded Seaweave]|h|r", -- [20]
+						},
 						["ids"] = {
 							169312, -- [1]
 							172008, -- [2]
@@ -2166,7 +2235,7 @@ DataStore_ContainersDB = {
 						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
 						["counts"] = {
 							[20] = 39,
-							[13] = 71,
+							[13] = 181,
 							[11] = 2,
 							[18] = 45,
 							[10] = 3,
@@ -2174,28 +2243,7 @@ DataStore_ContainersDB = {
 							[16] = 100,
 							[2] = 2,
 						},
-						["links"] = {
-							"|cffa335ee|Hitem:169312::168641::::::120:256::5:4:4799:1808:1502:4786:::|h[Luminous Jellyweed]|h|r", -- [1]
-							"|cffffffff|Hitem:172008::::::::120:256::::::|h[Contract: Rajani]|h|r", -- [2]
-							"|cffa335ee|Hitem:168374::::::::120:256::6:4:4800:1517:5855:4783:::|h[Belt of Blind Devotion]|h|r", -- [3]
-							"|cff1eff00|Hitem:168271::::::::120:256::::::|h[Stolen Ramkahen Banner]|h|r", -- [4]
-							"|cffa335ee|Hitem:167377::::::::120:256::40:4:5834:6348:1537:4786:::|h[Notorious Gladiator's Medallion]|h|r", -- [5]
-							"|cffa335ee|Hitem:167555::167672:168741:::::120:256::11:1:1490::3:1472:5850:4783:|h[Pocket-Sized Computation Device]|h|r", -- [6]
-							"|cffa335ee|Hitem:168342::::::::120:256::6:5:4824:1517:4786:6271:4775:::|h[Fathom-Feeder's Mantle]|h|r", -- [7]
-							"|cffa335ee|Hitem:173507::::::::120:256::42:9:6412:4803:4802:6513:6578:6579:6537:1507:4786:::|h[Vile Manipulator's Handguards]|h|r", -- [8]
-							"|cffa335ee|Hitem:159268::::::::120:256::35:5:5448:1617:4786:6269:4775:::|h[Inmate's Straight Robe]|h|r", -- [9]
-							"|cff1eff00|Hitem:174764::::::::120:256::::::|h[Tol'vir Relic Fragment]|h|r", -- [10]
-							"|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r", -- [11]
-							"|cffa335ee|Hitem:168964::::::::120:256::35:5:6530:6578:6513:1527:4786:::|h[Hyperthread Boots]|h|r", -- [12]
-							"|cffa335ee|Hitem:171176::::::::120:256::::::|h[Shred of Insanity]|h|r", -- [13]
-							"|cffa335ee|Hitem:165680::::::::120:256::28:7:4803:6578:6579:6563:6513:1637:4786:::|h[Igneous Winterskorn Loop]|h|r", -- [14]
-							"|cffa335ee|Hitem:159669::::::::120:256::16:5:6536:6516:6513:1637:4786:::|h[Solena's Watchful Collection]|h|r", -- [15]
-							"|cffffffff|Hitem:168216::::::::120:256::::::|h[Tempered Plating]|h|r", -- [16]
-							"|cffa335ee|Hitem:174287::::::::120:256::::::|h[Sparks of Unwavering Strength]|h|r", -- [17]
-							"|cffffffff|Hitem:168216::::::::120:256::::::|h[Tempered Plating]|h|r", -- [18]
-							"|cffa335ee|Hitem:173844::::::::120:256::29:3:1502:4786:6506:::|h[Vile Manipulator's Amice]|h|r", -- [19]
-							"|cff1eff00|Hitem:167738::::::::120:256::::::|h[Gilded Seaweave]|h|r", -- [20]
-						},
+						["size"] = 20,
 					},
 					["Bag5"] = {
 						["rarity"] = 4,
@@ -2258,29 +2306,17 @@ DataStore_ContainersDB = {
 							120257, -- [5]
 							120257, -- [6]
 							152496, -- [7]
-							nil, -- [8]
-							167012, -- [9]
-							nil, -- [10]
-							nil, -- [11]
-							109076, -- [12]
-							109076, -- [13]
-							158202, -- [14]
-							169590, -- [15]
-							152813, -- [16]
-							nil, -- [17]
-							163784, -- [18]
-							163784, -- [19]
-							163784, -- [20]
-							163784, -- [21]
-							nil, -- [22]
-							nil, -- [23]
-							nil, -- [24]
-							nil, -- [25]
-							nil, -- [26]
-							nil, -- [27]
-							nil, -- [28]
-							138478, -- [29]
-							168652, -- [30]
+							[13] = 109076,
+							[14] = 158202,
+							[15] = 169590,
+							[16] = 152813,
+							[9] = 167012,
+							[18] = 163784,
+							[19] = 163784,
+							[20] = 163784,
+							[21] = 163784,
+							[12] = 109076,
+							[29] = 138478,
 						},
 						["links"] = {
 							"|cffffffff|Hitem:140192::::::::120:256::::::|h[Dalaran Hearthstone]|h|r", -- [1]
@@ -2290,29 +2326,17 @@ DataStore_ContainersDB = {
 							"|cff1eff00|Hitem:120257::::::::120:256::::::|h[Drums of Fury]|h|r", -- [5]
 							"|cff1eff00|Hitem:120257::::::::120:256::::::|h[Drums of Fury]|h|r", -- [6]
 							"|cffffffff|Hitem:152496::::::::120:256::::::|h[Demitri's Draught of Deception]|h|r", -- [7]
-							nil, -- [8]
-							"|cff1eff00|Hitem:167012::::::::120:256::::::|h[Brinestone Pickaxe]|h|r", -- [9]
-							nil, -- [10]
-							nil, -- [11]
-							"|cffffffff|Hitem:109076::::::::120:256::::::|h[Goblin Glider Kit]|h|r", -- [12]
-							"|cffffffff|Hitem:109076::::::::120:256::::::|h[Goblin Glider Kit]|h|r", -- [13]
-							"|cffffffff|Hitem:158202::::::::120:256::::::|h[War-Scroll of Battle Shout]|h|r", -- [14]
-							"|cffa335ee|Hitem:169590::::::::120:256::::::|h[Burgeoning Battlefield Furor]|h|r", -- [15]
-							"|cffffffff|Hitem:152813::::::::120:256::::::|h[Monel-Hardened Stirrups]|h|r", -- [16]
-							nil, -- [17]
-							"|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r", -- [18]
-							"|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r", -- [19]
-							"|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r", -- [20]
-							"|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r", -- [21]
-							nil, -- [22]
-							nil, -- [23]
-							nil, -- [24]
-							nil, -- [25]
-							nil, -- [26]
-							nil, -- [27]
-							nil, -- [28]
-							"|cff0070dd|Hitem:138478::::::::120:256::::::|h[Feast of Ribs]|h|r", -- [29]
-							"|cffffffff|Hitem:168652::::::::120:256::::::|h[Greater Flask of Endless Fathoms]|h|r", -- [30]
+							[13] = "|cffffffff|Hitem:109076::::::::120:256::::::|h[Goblin Glider Kit]|h|r",
+							[14] = "|cffffffff|Hitem:158202::::::::120:256::::::|h[War-Scroll of Battle Shout]|h|r",
+							[15] = "|cffa335ee|Hitem:169590::::::::120:256::::::|h[Burgeoning Battlefield Furor]|h|r",
+							[16] = "|cffffffff|Hitem:152813::::::::120:256::::::|h[Monel-Hardened Stirrups]|h|r",
+							[9] = "|cff1eff00|Hitem:167012::::::::120:256::::::|h[Brinestone Pickaxe]|h|r",
+							[18] = "|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r",
+							[19] = "|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r",
+							[20] = "|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r",
+							[21] = "|cffffffff|Hitem:163784::::::::120:256::::::|h[Seafoam Coconut Water]|h|r",
+							[12] = "|cffffffff|Hitem:109076::::::::120:256::::::|h[Goblin Glider Kit]|h|r",
+							[29] = "|cff0070dd|Hitem:138478::::::::120:256::::::|h[Feast of Ribs]|h|r",
 						},
 						["icon"] = 1029751,
 						["size"] = 30,
@@ -2325,31 +2349,17 @@ DataStore_ContainersDB = {
 							20, -- [5]
 							14, -- [6]
 							5, -- [7]
-							nil, -- [8]
-							nil, -- [9]
-							nil, -- [10]
-							nil, -- [11]
-							20, -- [12]
-							17, -- [13]
-							6, -- [14]
-							13, -- [15]
-							nil, -- [16]
-							nil, -- [17]
-							20, -- [18]
-							20, -- [19]
-							20, -- [20]
-							20, -- [21]
-							nil, -- [22]
-							nil, -- [23]
-							nil, -- [24]
-							nil, -- [25]
-							nil, -- [26]
-							nil, -- [27]
-							nil, -- [28]
-							5, -- [29]
-							2, -- [30]
+							[13] = 17,
+							[14] = 6,
+							[15] = 13,
+							[18] = 20,
+							[19] = 20,
+							[20] = 20,
+							[21] = 20,
+							[12] = 20,
+							[29] = 5,
 						},
-						["freeslots"] = 11,
+						["freeslots"] = 12,
 					},
 					["Bag100"] = {
 						["freeslots"] = 1,
@@ -2437,7 +2447,7 @@ DataStore_ContainersDB = {
 							"|cffffffff|Hitem:163036::::::::120:256::::::|h[Polished Pet Charm]|h|r", -- [13]
 							"|cff0070dd|Hitem:169872::::::::120:256::::::|h[Irontide Lockbox Key]|h|r", -- [14]
 							"|cffa335ee|Hitem:168375:5937:168641::::::120:256::6:5:4800:1808:1517:5850:4783:::|h[Gloves of Unshackled Arcana]|h|r", -- [15]
-							nil, -- [16]
+							"|cffffffff|Hitem:113509::::::::120:256::::::|h[Conjured Mana Bun]|h|r", -- [16]
 							"|cffa335ee|Hitem:168973::::::::120:256::35:7:6536:6578:6579:6550:6513:1532:4786:::|h[Neural Synapse Enhancer]|h|r", -- [17]
 							"|cffa335ee|Hitem:159133::::::::120:256::35:5:6536:6578:6515:1647:4786:::|h[Jagged Iris Sica]|h|r", -- [18]
 							"|cffa335ee|Hitem:168977:6109:::::::120:256::16:5:6536:6516:6513:1522:4786:::|h[Rebooting Bit Band]|h|r", -- [19]
@@ -2445,15 +2455,15 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:155891::::::::120:256::16:5:6536:6516:6515:1637:4786:::|h[Greasy Bacon-Grabbers]|h|r", -- [21]
 							"|cff0070dd|Hitem:168447::::::::120:256::::::|h[Enchant Ring - Accord of Haste]|h|r", -- [22]
 							"|cffa335ee|Hitem:159240::::::::120:256::35:7:6536:6578:6579:6545:6513:1647:4786:::|h[Rixxa's Sweat-Wicking Cuffs]|h|r", -- [23]
-							[27] = "|cffa335ee|Hitem:174125::::::::120:256::5:6:4823:40:6516:6513:1502:4786:::|h[Emberscale Gloves]|h|r",
-							[28] = "|cff0070dd|Hitem:168593::::::::120:256::::::|h[Enchant Weapon - Machinist's Brilliance]|h|r",
-							[25] = "|cff1eff00|Hitem:175053::::::::120:256::::::|h[Ranged Veterans Contract]|h|r",
-							[29] = "|cffa335ee|Hitem:169344::::::::120:256::16:4:6536:6515:1522:4786:::|h[Ingenious Mana Battery]|h|r",
-							[26] = "|cff0070dd|Hitem:174768::::::::120:256::11::::|h[Cursed Relic]|h|r",
-							[30] = "|cff0070dd|Hitem:173406::::::::120:256::14::::|h[Black Empire Mail Belt]|h|r",
+							"|cffffffff|Hitem:113509::::::::120:256::::::|h[Conjured Mana Bun]|h|r", -- [24]
+							"|cff1eff00|Hitem:175053::::::::120:256::::::|h[Ranged Veterans Contract]|h|r", -- [25]
+							"|cff0070dd|Hitem:174768::::::::120:256::11::::|h[Cursed Relic]|h|r", -- [26]
+							"|cffa335ee|Hitem:174125::::::::120:256::5:6:4823:40:6516:6513:1502:4786:::|h[Emberscale Gloves]|h|r", -- [27]
+							"|cff0070dd|Hitem:168593::::::::120:256::::::|h[Enchant Weapon - Machinist's Brilliance]|h|r", -- [28]
+							"|cffa335ee|Hitem:169344::::::::120:256::16:4:6536:6515:1522:4786:::|h[Ingenious Mana Battery]|h|r", -- [29]
+							"|cff0070dd|Hitem:173406::::::::120:256::14::::|h[Black Empire Mail Belt]|h|r", -- [30]
 						},
 						["icon"] = 1029751,
-						["size"] = 30,
 						["ids"] = {
 							137642, -- [1]
 							168802, -- [2]
@@ -2470,7 +2480,7 @@ DataStore_ContainersDB = {
 							163036, -- [13]
 							169872, -- [14]
 							168375, -- [15]
-							nil, -- [16]
+							113509, -- [16]
 							168973, -- [17]
 							159133, -- [18]
 							168977, -- [19]
@@ -2478,18 +2488,21 @@ DataStore_ContainersDB = {
 							155891, -- [21]
 							168447, -- [22]
 							159240, -- [23]
-							[27] = 174125,
-							[28] = 168593,
-							[25] = 175053,
-							[29] = 169344,
-							[26] = 174768,
-							[30] = 173406,
+							113509, -- [24]
+							175053, -- [25]
+							174768, -- [26]
+							174125, -- [27]
+							168593, -- [28]
+							169344, -- [29]
+							173406, -- [30]
 						},
 						["counts"] = {
 							59, -- [1]
+							[24] = 20,
 							[13] = 15,
 							[28] = 2,
 							[4] = 75,
+							[16] = 20,
 							[9] = 41,
 							[10] = 15,
 							[20] = 2,
@@ -2497,7 +2510,7 @@ DataStore_ContainersDB = {
 							[22] = 4,
 							[12] = 29,
 						},
-						["freeslots"] = 2,
+						["size"] = 30,
 					},
 					["Bag2"] = {
 						["rarity"] = 4,
@@ -2506,16 +2519,16 @@ DataStore_ContainersDB = {
 							165948, -- [2]
 							174759, -- [3]
 							173845, -- [4]
-							nil, -- [5]
+							113509, -- [5]
 							167379, -- [6]
 							172494, -- [7]
 							169306, -- [8]
 							168977, -- [9]
-							nil, -- [10]
+							113509, -- [10]
 							167384, -- [11]
 							138479, -- [12]
 							167383, -- [13]
-							nil, -- [14]
+							5512, -- [14]
 							172495, -- [15]
 							175052, -- [16]
 							159236, -- [17]
@@ -2538,16 +2551,16 @@ DataStore_ContainersDB = {
 							"|cff0070dd|Hitem:165948::::::::120:256::::::|h[Tidalcore]|h|r", -- [2]
 							"|cff1eff00|Hitem:174759::::::::120:256::::::|h[Mogu Relic Fragment]|h|r", -- [3]
 							"|cffa335ee|Hitem:173845::::::::120:256::37:3:1502:4786:6505:::|h[Vile Manipulator's Hood]|h|r", -- [4]
-							nil, -- [5]
+							"|cffffffff|Hitem:113509::::::::120:256::::::|h[Conjured Mana Bun]|h|r", -- [5]
 							"|cffa335ee|Hitem:167379::::::::120:256::40:4:5834:6348:1537:4786:::|h[Notorious Gladiator's Insignia]|h|r", -- [6]
 							"|cff1eff00|Hitem:172494::::::::120:256::::::|h[Baruk Idol]|h|r", -- [7]
 							"|cffa335ee|Hitem:169306::::::::120:256::5:4:4799:1502:5850:4783:::|h[Za'qul's Portal Key]|h|r", -- [8]
 							"|cffa335ee|Hitem:168977::::::::120:256::16:7:6536:6578:6579:6540:6515:1522:4786:::|h[Rebooting Bit Band]|h|r", -- [9]
-							nil, -- [10]
+							"|cffffffff|Hitem:113509::::::::120:256::::::|h[Conjured Mana Bun]|h|r", -- [10]
 							"|cffa335ee|Hitem:167384::::::::120:256::25:4:6349:5830:1532:4786:::|h[Notorious Gladiator's Safeguard]|h|r", -- [11]
 							"|cff0070dd|Hitem:138479::::::::120:256::::::|h[Potato Stew Feast]|h|r", -- [12]
 							"|cffa335ee|Hitem:167383::::::::120:256::40:5:5834:6348:1537:5850:4783:::|h[Notorious Gladiator's Maledict]|h|r", -- [13]
-							nil, -- [14]
+							"|cffffffff|Hitem:5512::::::::120:256::5::::|h[Healthstone]|h|r", -- [14]
 							"|cff1eff00|Hitem:172495::::::::120:256::::::|h[Anima Orb]|h|r", -- [15]
 							"|cff1eff00|Hitem:175052::::::::120:256::::::|h[Mounted Veterans Contract]|h|r", -- [16]
 							"|cffa335ee|Hitem:159236::::::::120:256::35:5:5448:1617:4786:6270:4775:::|h[Headdress of the First Empire]|h|r", -- [17]
@@ -2566,19 +2579,20 @@ DataStore_ContainersDB = {
 							"|cff0070dd|Hitem:167718::::::::120:256::::::|h[Collectable Saltfin]|h|r", -- [30]
 						},
 						["counts"] = {
-							[21] = 2,
 							[2] = 5,
-							[28] = 20,
-							[3] = 3,
-							[12] = 2,
-							[19] = 6,
 							[16] = 2,
+							[10] = 20,
+							[5] = 20,
+							[19] = 34,
+							[3] = 3,
+							[21] = 2,
 							[18] = 2,
+							[12] = 2,
+							[28] = 20,
 						},
-						["size"] = 30,
 						["link"] = "|cffa335ee|Hitem:114821::::::::120:256::::::|h[Hexweave Bag]|h|r",
 						["icon"] = 1029751,
-						["freeslots"] = 3,
+						["size"] = 30,
 					},
 					["Bag9"] = {
 						["rarity"] = 2,
@@ -2603,7 +2617,7 @@ DataStore_ContainersDB = {
 					},
 				},
 				["numBagSlots"] = 140,
-				["numFreeBagSlots"] = 29,
+				["numFreeBagSlots"] = 23,
 			},
 		},
 		["Guilds"] = {

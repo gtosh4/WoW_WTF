@@ -3,6 +3,7 @@ DataStoreDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -10,21 +11,28 @@ DataStoreDB = {
 	},
 	["global"] = {
 		["Guilds"] = {
+			["Default.Kil'jaeden.Rivalry"] = {
+				["faction"] = "Horde",
+			},
 			["Default.Kil'jaeden.Koopa Troopa"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Rivalry"] = {
+			["Default.Area 52.sheeple"] = {
 				["faction"] = "Horde",
 			},
 		},
 		["Version"] = 1,
 		["Characters"] = {
+			["Default.Area 52.Toshpal"] = {
+				["faction"] = "Horde",
+				["guildName"] = "sheeple",
+			},
+			["Default.Dreadmaul.Toshaman"] = {
+				["faction"] = "Horde",
+			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
-			},
-			["Default.Area 52.Toshpal"] = {
-				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["faction"] = "Horde",
@@ -38,6 +46,7 @@ DataStoreDB = {
 		["ShortToLongRealmNames"] = {
 			["Area52"] = "Area 52",
 			["Kil'jaeden"] = "Kil'jaeden",
+			["Dreadmaul"] = "Dreadmaul",
 		},
 	},
 }

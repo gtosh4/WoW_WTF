@@ -12,10 +12,11 @@ Postal3DB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -25,20 +26,21 @@ Postal3DB = {
 				"Daggny|Frostwolf|Horde|100|MONK", -- [1]
 				"Koutetsu|Frostwolf|Horde|90|SHAMAN", -- [2]
 				"Sumex|Frostwolf|Horde|90|DEATHKNIGHT", -- [3]
-				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [4]
-				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [5]
-				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [6]
-				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [7]
-				"Toshpriest|Area 52|Horde|60|PRIEST", -- [8]
-				"Toshpriest|Illidan|Horde|1|PRIEST", -- [9]
-				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [10]
-				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [11]
-				"Toshwar|Kil'jaeden|Horde|20|WARRIOR", -- [12]
-				"Tosh|Frostwolf|Horde|100|ROGUE", -- [13]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [14]
-				"Tosku|Kil'jaeden|Horde|110|DEMONHUNTER", -- [15]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [16]
-				"Zallie|Frostwolf|Horde|90|PRIEST", -- [17]
+				"Toshaman|Area 52|Horde|1|SHAMAN", -- [4]
+				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [5]
+				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [6]
+				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [7]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [8]
+				"Toshpriest|Area 52|Horde|60|PRIEST", -- [9]
+				"Toshpriest|Illidan|Horde|1|PRIEST", -- [10]
+				"Toshtrial|Blood Furnace|Horde|100|MAGE", -- [11]
+				"Toshtrial|The Forgotten Coast|Horde|100|PRIEST", -- [12]
+				"Toshwar|Kil'jaeden|Horde|20|WARRIOR", -- [13]
+				"Tosh|Frostwolf|Horde|100|ROGUE", -- [14]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [15]
+				"Tosku|Kil'jaeden|Horde|110|DEMONHUNTER", -- [16]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [17]
+				"Zallie|Frostwolf|Horde|90|PRIEST", -- [18]
 			},
 		},
 	},
@@ -129,8 +131,6 @@ Postal3DB = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
-		["Tosh - Frostwolf"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -141,9 +141,13 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {

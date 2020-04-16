@@ -10,6 +10,7 @@ CorruptionTooltipsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
@@ -20,6 +21,8 @@ CorruptionTooltipsDB = {
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Toshpriest - Illidan"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

@@ -12,10 +12,11 @@ DataStore_AgendaDB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -26,11 +27,18 @@ DataStore_AgendaDB = {
 			["NextWeeklyReset"] = "2020-04-21",
 		},
 		["Characters"] = {
+			["Default.Area 52.Toshaman"] = {
+				["lastUpdate"] = 1587014574,
+			},
 			["Default.Illidan.Toshpriest"] = {
 				["lastUpdate"] = 1585854341,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1586913837,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|386762904"] = "467532|1587013667|0|1",
+					["Ny'alotha, the Waking City Heroic|369355732"] = "467532|1587013667|0|1",
+				},
+				["lastUpdate"] = 1587013920,
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584069147,
@@ -44,7 +52,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1585715246,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1586916855,
+				["DungeonIDs"] = {
+					["Ny'alotha, the Waking City Heroic|386766243"] = "465533|1587015665|0|1",
+				},
+				["lastUpdate"] = 1587015668,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
@@ -64,12 +75,12 @@ DataStore_AgendaDB = {
 			["Default.Area 52.Toshpriest"] = {
 				["Contacts"] = {
 					["Toshpal"] = {
-						["note"] = "",
+						["note"] = "<Away>",
 						["level"] = 60,
 						["class"] = "Paladin",
 					},
 				},
-				["lastUpdate"] = 1586551361,
+				["lastUpdate"] = 1587015372,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,

@@ -4,54 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 248,
-		["splits"] = {
-			251, -- [1]
-			897, -- [2]
-			1496, -- [3]
-			1909, -- [4]
-			2128, -- [5]
-			2056, -- [6]
-			["party1Name"] = "Toshpal",
-			["party1Class"] = "Paladin",
-			["party4Class"] = "Warlock",
-			["party2Name"] = "Fiery",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 2340,
-			["level"] = 17,
-			["timeElapsed"] = 2128.095,
-			["party3Role"] = "TANK",
-			["affixes3"] = 2,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Thiccgril",
-			["affixes2"] = 7,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Dirtyslayer",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Warrior",
-			["wasEnergized"] = true,
-			["affixes1"] = 10,
-			["party5Class"] = "Rogue",
-			["mapID"] = 1862,
-			["party2Role"] = "DAMAGER",
-			["date"] = 1586916803,
-			["party2Class"] = "Mage",
-			["party5Name"] = "Kosaki",
-		},
 		["playerDeaths"] = {
-			["Dirtyslayer"] = 7,
-			["Fiery"] = 5,
-			["Kosaki"] = 7,
-			["Toshpal"] = 6,
-			["Thiccgril"] = 8,
-		},
-		["splitNames"] = {
-			"Heartsbane Triad defeated", -- [1]
-			"Soulbound Goliath defeated", -- [2]
-			"Raal the Gluttonous defeated", -- [3]
-			"Lord and Lady Waycrest defeated", -- [4]
-			"Gorak Tul defeated", -- [5]
-			"Enemy Forces", -- [6]
 		},
 	},
 	["splits"] = {
@@ -145,9 +98,9 @@ AngryKeystones_Data = {
 			[9] = 140,
 		},
 		[148893] = {
-			[4] = 1,
 			[7] = 1,
 			[9] = 1,
+			[4] = 1,
 		},
 		[133436] = {
 			[5] = 5,

@@ -1,10 +1,11 @@
 
 LS_TOASTS_GLOBAL_CONFIG = {
 	["profileKeys"] = {
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshaman - Dreadmaul"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

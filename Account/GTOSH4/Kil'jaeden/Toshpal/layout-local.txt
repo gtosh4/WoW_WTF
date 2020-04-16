@@ -79,8 +79,8 @@ H: 480
 Frame: BDLC
 FrameLevel: 1
 Anchor: TOPRIGHT
-X: -401
-Y: -261
+X: -371
+Y: -141
 W: 600
 H: 400
 Frame: BDLC Roll Window
@@ -97,6 +97,13 @@ X: 0
 Y: 0
 W: 320
 H: 550
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: CENTER
+X: 5
+Y: -354
+W: 510
+H: 22
 Frame: scanner_button
 FrameLevel: 1
 Anchor: LEFT
@@ -125,17 +132,3 @@ X: -223
 Y: 27
 W: 701
 H: 859
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: TOP
-X: 466
-Y: -100
-W: 315
-H: 345
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: CENTER
-X: 5
-Y: -354
-W: 510
-H: 22

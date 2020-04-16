@@ -3,6 +3,7 @@ DataStore_CurrenciesDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -11,7 +12,7 @@ DataStore_CurrenciesDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1586315618,
+				["lastUpdate"] = 1587014813,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -51,119 +52,6 @@ DataStore_CurrenciesDB = {
 					[1580] = "0-0-0-0",
 				},
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["Currencies"] = {
-					{
-						["isHeader"] = true,
-						["index"] = 1,
-						["count"] = 0,
-					}, -- [1]
-					{
-						["isHeader"] = false,
-						["index"] = 28,
-						["count"] = 89107,
-					}, -- [2]
-					{
-						["isHeader"] = false,
-						["index"] = 29,
-						["count"] = 10513,
-					}, -- [3]
-					{
-						["isHeader"] = false,
-						["index"] = 30,
-						["count"] = 4058,
-					}, -- [4]
-					{
-						["isHeader"] = false,
-						["index"] = 2,
-						["count"] = 229,
-					}, -- [5]
-					{
-						["isHeader"] = false,
-						["index"] = 27,
-						["count"] = 3,
-					}, -- [6]
-					{
-						["isHeader"] = false,
-						["index"] = 3,
-						["count"] = 355,
-					}, -- [7]
-					{
-						["isHeader"] = false,
-						["index"] = 4,
-						["count"] = 4,
-					}, -- [8]
-					{
-						["isHeader"] = false,
-						["index"] = 5,
-						["count"] = 12290,
-					}, -- [9]
-					{
-						["isHeader"] = false,
-						["index"] = 6,
-						["count"] = 15423,
-					}, -- [10]
-					{
-						["isHeader"] = true,
-						["index"] = 7,
-						["count"] = 0,
-					}, -- [11]
-					{
-						["isHeader"] = false,
-						["index"] = 8,
-						["count"] = 765,
-					}, -- [12]
-					{
-						["isHeader"] = true,
-						["index"] = 9,
-						["count"] = 0,
-					}, -- [13]
-					{
-						["isHeader"] = false,
-						["index"] = 10,
-						["count"] = 250,
-					}, -- [14]
-				},
-				["Archeology"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0, -- [4]
-					0, -- [5]
-					0, -- [6]
-					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					0, -- [10]
-					0, -- [11]
-					0, -- [12]
-					0, -- [13]
-					0, -- [14]
-					0, -- [15]
-					0, -- [16]
-					0, -- [17]
-					0, -- [18]
-					0, -- [19]
-					0, -- [20]
-				},
-				["lastUpdate"] = 1586924639,
-				["CurrencyInfo"] = {
-					[395] = "0-0-0-0",
-					[1220] = "0-0-0-0",
-					[824] = "0-0-0-0",
-					[1273] = "0-0-0-0",
-					[1191] = "0-0-0-0",
-					[1565] = "0-0-0-0",
-					[1587] = "0-0-0-0",
-					[1710] = "355-0-0-0",
-					[823] = "0-0-0-0",
-					[1226] = "0-0-0-0",
-					[1560] = "15423-0-0-0",
-					[994] = "0-0-0-0",
-					[1342] = "0-0-0-0",
-					[1580] = "4-0-0-5",
-				},
-			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["Currencies"] = {
 					{
@@ -179,12 +67,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 1328,
+						["count"] = 1928,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 1271,
+						["count"] = 1441,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -204,7 +92,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 5,
+						["count"] = 2,
 					}, -- [8]
 					{
 						["isHeader"] = false,
@@ -259,7 +147,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1586924504,
+				["lastUpdate"] = 1587011445,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -274,7 +162,139 @@ DataStore_CurrenciesDB = {
 					[1560] = "7747-0-0-0",
 					[994] = "0-0-0-0",
 					[823] = "0-0-0-0",
-					[1580] = "5-0-0-5",
+					[1580] = "2-0-0-5",
+				},
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["Currencies"] = {
+					{
+						["isHeader"] = true,
+						["index"] = 1,
+						["count"] = 0,
+					}, -- [1]
+					{
+						["isHeader"] = false,
+						["index"] = 28,
+						["count"] = 89107,
+					}, -- [2]
+					{
+						["isHeader"] = false,
+						["index"] = 29,
+						["count"] = 10513,
+					}, -- [3]
+					{
+						["isHeader"] = false,
+						["index"] = 30,
+						["count"] = 4072,
+					}, -- [4]
+					{
+						["isHeader"] = false,
+						["index"] = 2,
+						["count"] = 229,
+					}, -- [5]
+					{
+						["isHeader"] = false,
+						["index"] = 27,
+						["count"] = 3,
+					}, -- [6]
+					{
+						["isHeader"] = false,
+						["index"] = 3,
+						["count"] = 355,
+					}, -- [7]
+					{
+						["isHeader"] = false,
+						["index"] = 4,
+						["count"] = 3,
+					}, -- [8]
+					{
+						["isHeader"] = false,
+						["index"] = 5,
+						["count"] = 12290,
+					}, -- [9]
+					{
+						["isHeader"] = false,
+						["index"] = 6,
+						["count"] = 15423,
+					}, -- [10]
+					{
+						["isHeader"] = true,
+						["index"] = 7,
+						["count"] = 0,
+					}, -- [11]
+					{
+						["isHeader"] = false,
+						["index"] = 8,
+						["count"] = 765,
+					}, -- [12]
+					{
+						["isHeader"] = true,
+						["index"] = 9,
+						["count"] = 0,
+					}, -- [13]
+					{
+						["isHeader"] = false,
+						["index"] = 10,
+						["count"] = 250,
+					}, -- [14]
+				},
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
+				["lastUpdate"] = 1587013587,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "0-0-0-0",
+					[824] = "0-0-0-0",
+					[1273] = "0-0-0-0",
+					[1191] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "355-0-0-0",
+					[823] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1560] = "15423-0-0-0",
+					[994] = "0-0-0-0",
+					[1342] = "0-0-0-0",
+					[1580] = "3-0-0-5",
+				},
+			},
+			["Default.Dreadmaul.Toshaman"] = {
+				["lastUpdate"] = 1587015426,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "0-0-0-0",
+					[824] = "0-0-0-0",
+					[1273] = "0-0-0-0",
+					[1191] = "0-0-0-0",
+					[1580] = "0-0-0-0",
+					[1342] = "0-0-0-0",
+					[1560] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1710] = "0-0-0-0",
+					[994] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1565] = "0-0-0-0",
 				},
 			},
 		},

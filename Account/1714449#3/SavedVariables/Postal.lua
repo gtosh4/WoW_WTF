@@ -3,6 +3,7 @@ Postal3DB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -11,12 +12,13 @@ Postal3DB = {
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [1]
-				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [2]
-				"Toshpal|Area 52|Horde|60|PALADIN", -- [3]
-				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [4]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [5]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [6]
+				"Toshaman|Dreadmaul|Horde|20|SHAMAN", -- [1]
+				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [2]
+				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [3]
+				"Toshpal|Area 52|Horde|60|PALADIN", -- [4]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [5]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [6]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [7]
 			},
 		},
 	},
@@ -28,6 +30,13 @@ Postal3DB = {
 				["recent"] = {
 					"Toshmonk|Kil'jaeden|Horde", -- [1]
 					"Toshaman|Kil'jaeden|Horde", -- [2]
+				},
+			},
+		},
+		["Toshaman - Dreadmaul"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Ippon|Dreadmaul|Horde", -- [1]
 				},
 			},
 		},

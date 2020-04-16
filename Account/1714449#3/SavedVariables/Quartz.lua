@@ -79,6 +79,7 @@ Quartz3DB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshtrial - Blood Furnace"] = "Default",
+		["Toshaman - Dreadmaul"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",

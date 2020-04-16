@@ -5,6 +5,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",

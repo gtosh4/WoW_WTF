@@ -3,6 +3,7 @@ DeathNoteDB = {
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -21,14 +22,16 @@ DeathNoteDB = {
 				["x"] = 1103.06964111328,
 			},
 		},
+		["Toshaman - Dreadmaul"] = {
+		},
 		["Tosh - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
 				["y"] = 199.0487365722656,
-				["h"] = 788.8056030273438,
 				["x"] = 1016.587921142578,
-				["w"] = 786.5405883789062,
 				["namelist"] = 2,
+				["w"] = 786.5405883789062,
+				["h"] = 788.8056030273438,
 			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
@@ -45,9 +48,9 @@ DeathNoteDB = {
 		["Toshaman - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
-				["w"] = 699.9996337890625,
 				["y"] = 432.2620239257813,
 				["namelist"] = 2,
+				["w"] = 699.9996337890625,
 				["x"] = 819.2883911132812,
 			},
 		},

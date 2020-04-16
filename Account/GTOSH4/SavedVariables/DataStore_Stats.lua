@@ -12,15 +12,29 @@ DataStore_StatsDB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Area 52.Toshaman"] = {
+				["lastUpdate"] = 1587014539,
+				["Stats"] = {
+					["Ranged"] = "1-1|0|0|0|5",
+					["HealthMax"] = 108,
+					["Melee"] = "8-9|2.574000120163|18|0|5|0",
+					["MaxPower"] = "0|29",
+					["Defense"] = "0|0|4.1221942901611|0|10|0",
+					["PVP"] = "0|0",
+					["Base"] = "4|18|12|23|0",
+					["Spell"] = "23|23|0|5|0|4",
+				},
+			},
 			["Default.Illidan.Toshpriest"] = {
 				["lastUpdate"] = 1585854257,
 				["Stats"] = {
@@ -35,7 +49,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1586913803,
+				["lastUpdate"] = 1587013605,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|15.152777671814",
 					["HealthMax"] = 562940,
@@ -74,16 +88,16 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1586916855,
+				["lastUpdate"] = 1587015665,
 				["Stats"] = {
-					["Ranged"] = "7602-7603|0|0|0|30.180555343628",
-					["HealthMax"] = 522880,
-					["Melee"] = "8065-8199|2.0650000572205|1468|0|30.180555343628|0",
+					["Ranged"] = "6146-6147|0|0|0|21.958333969116",
+					["HealthMax"] = 513800,
+					["Melee"] = "6586-6713|1.8410000801086|1468|0|21.958333969116|0",
 					["MaxPower"] = "0|100000",
 					["Defense"] = "0|0|3|6.2439560890198|10|0",
 					["PVP"] = "517|0",
-					["Base"] = "1468|515|26144|16225|0",
-					["Spell"] = "16225|16225|0|30.180555343628|1763|4000",
+					["Base"] = "1468|515|25690|13858|0",
+					["Spell"] = "13858|13858|0|21.958333969116|2802|4000",
 				},
 			},
 			["Default.Frostwolf.Koutetsu"] = {
@@ -152,7 +166,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586551116,
+				["lastUpdate"] = 1587015249,
 				["Stats"] = {
 					["Ranged"] = "6-12|1.8170000314713|0|0|12.766578674316",
 					["HealthMax"] = 4970,

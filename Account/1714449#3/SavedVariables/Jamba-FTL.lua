@@ -1,10 +1,11 @@
 
 JambaFTLProfileDB = {
 	["profileKeys"] = {
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -90,6 +91,19 @@ JambaFTLProfileDB = {
 		["Toshmonk - Kil'jaeden"] = {
 			["CharListWithModifiers"] = {
 				["Toshmonk-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshaman - Dreadmaul"] = {
+			["CharListWithModifiers"] = {
+				["Toshaman-Dreadmaul"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
