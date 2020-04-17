@@ -12,11 +12,11 @@ DataStore_MailsDB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -25,6 +25,17 @@ DataStore_MailsDB = {
 			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1586914544,
 				["lastVisitDate"] = "2020/04/14 21:35",
+				["MailCache"] = {
+					{
+						["sender"] = "Pluie",
+						["subject"] = "jaina mount cut",
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
+						["money"] = 2379000000,
+						["text"] = "jaina mount cut",
+						["lastCheck"] = 1587082092,
+						["daysLeft"] = 30,
+					}, -- [1]
+				},
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1586551361,
