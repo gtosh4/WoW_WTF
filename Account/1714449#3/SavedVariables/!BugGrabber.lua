@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1706,
 	["lastSanitation"] = 3,
+	["session"] = 1707,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate16",

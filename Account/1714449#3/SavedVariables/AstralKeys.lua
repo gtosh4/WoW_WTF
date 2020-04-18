@@ -50,9 +50,9 @@ AstralKeys = {
 		"DRUID", -- [2]
 		248, -- [3]
 		14, -- [4]
-		0, -- [5]
+		16, -- [5]
 		143, -- [6]
-		122057, -- [7]
+		296644, -- [7]
 	}, -- [6]
 	{
 		"Toshdk-Kil'jaeden", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		15, -- [4]
 		19, -- [5]
 		143, -- [6]
-		137205, -- [7]
+		296631, -- [7]
 	}, -- [8]
 	{
 		"Toshpal-Kil'jaeden", -- [1]
@@ -79,7 +79,7 @@ AstralKeys = {
 		16, -- [4]
 		17, -- [5]
 		143, -- [6]
-		134965, -- [7]
+		296658, -- [7]
 	}, -- [9]
 	{
 		"Tosh-Kil'jaeden", -- [1]
@@ -124,7 +124,7 @@ AstralKeys = {
 		17, -- [4]
 		19, -- [5]
 		143, -- [6]
-		46160, -- [7]
+		296587, -- [7]
 	}, -- [14]
 	{
 		"Thunderrz-Kil'jaeden", -- [1]
@@ -151,7 +151,7 @@ AstralKeys = {
 		19, -- [4]
 		0, -- [5]
 		143, -- [6]
-		1, -- [7]
+		2, -- [7]
 	}, -- [17]
 	{
 		"Blueflame-Kil'jaeden", -- [1]
@@ -178,7 +178,7 @@ AstralKeys = {
 		15, -- [4]
 		0, -- [5]
 		143, -- [6]
-		137233, -- [7]
+		296637, -- [7]
 	}, -- [20]
 	{
 		"Bluedagger-Kil'jaeden", -- [1]
@@ -212,23 +212,23 @@ AstralKeys = {
 		"MAGE", -- [2]
 		245, -- [3]
 		16, -- [4]
-		0, -- [5]
+		16, -- [5]
 		143, -- [6]
-		122803, -- [7]
+		296618, -- [7]
 	}, -- [24]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 19,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Kil'jaeden",
 	}, -- [1]
 	{
 		["weekly_best"] = 17,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Tosh-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 }
 AstralFriends = {
@@ -269,23 +269,23 @@ AstralFriends = {
 		"Orcbum-Kil'jaeden", -- [1]
 		"bum#1748", -- [2]
 		"WARRIOR", -- [3]
-		249, -- [4]
-		19, -- [5]
+		246, -- [4]
+		18, -- [5]
 		143, -- [6]
-		126711, -- [7]
+		295039, -- [7]
 		"1", -- [8]
-		19, -- [9]
+		20, -- [9]
 	}, -- [4]
 	{
 		"Ngow-Kil'jaeden", -- [1]
 		"boochan#1194", -- [2]
 		"DRUID", -- [3]
-		252, -- [4]
-		18, -- [5]
+		247, -- [4]
+		20, -- [5]
 		143, -- [6]
-		138995, -- [7]
+		296509, -- [7]
 		"1", -- [8]
-		19, -- [9]
+		20, -- [9]
 	}, -- [5]
 	{
 		"Mattea-Kil'jaeden", -- [1]
@@ -305,7 +305,7 @@ AstralFriends = {
 		247, -- [4]
 		19, -- [5]
 		143, -- [6]
-		118679, -- [7]
+		295069, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [7]
@@ -316,7 +316,7 @@ AstralFriends = {
 		353, -- [4]
 		15, -- [5]
 		143, -- [6]
-		22277, -- [7]
+		289677, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [8]
@@ -327,7 +327,7 @@ AstralFriends = {
 		248, -- [4]
 		18, -- [5]
 		143, -- [6]
-		112812, -- [7]
+		281068, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [9]
@@ -338,7 +338,7 @@ AstralFriends = {
 		245, -- [4]
 		14, -- [5]
 		143, -- [6]
-		22489, -- [7]
+		295090, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [10]
@@ -349,7 +349,7 @@ AstralFriends = {
 		251, -- [4]
 		14, -- [5]
 		143, -- [6]
-		137195, -- [7]
+		279430, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [11]
@@ -366,6 +366,14 @@ AstralFriends = {
 	}, -- [12]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -379,9 +387,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -390,9 +396,10 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
-	["new_settings_config"] = true,
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
@@ -402,10 +409,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = true,
-			["raid"] = false,
-			["no_key"] = true,
 			["party"] = true,
+			["raid"] = false,
+			["guild"] = true,
+			["no_key"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -417,14 +424,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
