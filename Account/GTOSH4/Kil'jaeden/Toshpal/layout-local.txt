@@ -123,8 +123,8 @@ FrameLevel: 1
 Anchor: LEFT
 X: 588
 Y: 110
-W: 327
-H: 110
+W: 235
+H: 162
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: CENTER

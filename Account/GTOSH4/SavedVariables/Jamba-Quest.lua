@@ -26,7 +26,7 @@ JambaQuestProfileDB = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
@@ -36,14 +36,14 @@ JambaQuestProfileDB = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
+			["acceptFromTeam"] = true,
 			["onlyAcceptQuestsFrom"] = true,
 			["showJambaQuestLogWithWoWQuestLog"] = false,
-			["acceptFromTeam"] = true,
-			["doNotAutoAccept"] = false,
 			["masterAutoShareQuestOnAccept"] = true,
+			["doNotAutoAccept"] = false,
 		},
 		["Zallie - Frostwolf"] = {
 		},
