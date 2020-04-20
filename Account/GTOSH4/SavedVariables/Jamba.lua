@@ -248,10 +248,10 @@ JambaTeamProfileDB = {
 		},
 		["Default"] = {
 			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = true,
+				["Toshpal-Kil'jaeden"] = false,
 				["Toshaman-Kil'jaeden"] = false,
 				["Toshwar-Kil'jaeden"] = false,
-				["Toshdk-Kil'jaeden"] = false,
+				["Toshdk-Kil'jaeden"] = true,
 				["Tosh-Kil'jaeden"] = false,
 			},
 			["characterClass"] = {

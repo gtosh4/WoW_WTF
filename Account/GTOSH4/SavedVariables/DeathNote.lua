@@ -12,11 +12,11 @@ DeathNoteDB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -24,9 +24,9 @@ DeathNoteDB = {
 		["Toshdk - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
+				["w"] = 700.0000610351562,
 				["y"] = 205.2828979492188,
 				["x"] = 845.2829895019531,
-				["w"] = 700.0000610351562,
 				["namelist"] = 2,
 			},
 		},
@@ -61,17 +61,17 @@ DeathNoteDB = {
 		["Toshpal - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
+				["y"] = 277.2322692871094,
+				["x"] = 1026.921325683594,
 				["columns"] = {
 					nil, -- [1]
 					90.00011444091797, -- [2]
 					nil, -- [3]
 					159.37109375, -- [4]
 				},
-				["w"] = 1027.043823242188,
-				["y"] = 277.2322692871094,
-				["namelist"] = 2,
-				["x"] = 1026.921325683594,
 				["h"] = 734.4656372070312,
+				["w"] = 1027.043823242188,
+				["namelist"] = 2,
 			},
 		},
 		["Toshpriest - Illidan"] = {
@@ -79,10 +79,6 @@ DeathNoteDB = {
 		["Toshtrial - Blood Furnace"] = {
 		},
 		["Sumex - Frostwolf"] = {
-		},
-		["Toshaman - Area 52"] = {
-		},
-		["Tosh - Frostwolf"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["searchbox_text"] = "",
@@ -94,9 +90,13 @@ DeathNoteDB = {
 				["x"] = 1047.78375244141,
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["searchbox_text"] = "",

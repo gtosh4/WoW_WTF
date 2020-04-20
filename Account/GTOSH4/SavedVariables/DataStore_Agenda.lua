@@ -12,11 +12,11 @@ DataStore_AgendaDB = {
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -35,10 +35,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|386762904"] = "467532|1587013667|0|1",
-					["Ny'alotha, the Waking City Heroic|369355732"] = "467532|1587013667|0|1",
+					["Battle of Dazar'alor Mythic|386762904"] = "125653|1587355546|0|1",
+					["Ny'alotha, the Waking City Heroic|369355732"] = "125653|1587355546|0|1",
 				},
-				["lastUpdate"] = 1587013920,
+				["lastUpdate"] = 1587358350,
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584069147,
@@ -53,10 +53,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|386766243"] = "206677|1587274522|0|1",
-					["Ny'alotha, the Waking City Mythic|385293468"] = "206677|1587274522|0|1",
+					["Ny'alotha, the Waking City Heroic|386766243"] = "129107|1587352092|0|1",
+					["Ny'alotha, the Waking City Mythic|385293468"] = "129107|1587352092|0|1",
 				},
-				["lastUpdate"] = 1587277538,
+				["lastUpdate"] = 1587352081,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,

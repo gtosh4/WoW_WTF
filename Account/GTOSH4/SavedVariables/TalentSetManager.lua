@@ -495,7 +495,7 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshwar-Kil'jaeden"] = {
+	["Toshtrial-The Forgotten Coast"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
@@ -577,7 +577,7 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshtrial-The Forgotten Coast"] = {
+	["Toshwar-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {

@@ -24,1480 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Paranoia", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11965, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1587273855,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11966, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1587273855,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Paranoia", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11967, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1587273855,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Paranoia", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11968, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273855,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11969, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1587273856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"{rt4}", -- [1]
-			"Oxclamatiøn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Oxclamatiøn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11970, -- [11]
-			"Player-9-0B9C7997", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Oxclamatiøn|r",
-			[51] = 1587273856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Paranoia", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11971, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1587273856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11972, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1587273856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"Paranoia", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11973, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"Paranoia", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11974, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1587273856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"{rt1}", -- [1]
-			"Sploshey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sploshey-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11975, -- [11]
-			"Player-9-0B2A285D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecSploshey|r",
-			[51] = 1587273856,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"{rt3}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11976, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273857,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Paranoia", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11977, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1587273857,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11978, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Paranoia", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11979, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"Paranoia", -- [1]
-			"Turkeyone-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Turkeyone-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11980, -- [11]
-			"Player-9-0BB2D171", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Turkeyone|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11981, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Paranoia", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11982, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"Paranoia", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11983, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"Paranoia", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11984, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Paranoia", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11985, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"{rt1}", -- [1]
-			"Sploshey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sploshey-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11986, -- [11]
-			"Player-9-0B2A285D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecSploshey|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"{rt3}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11987, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273858,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11988, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Paranoia", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11989, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11990, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"Paranoia", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11991, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Paranoia", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11992, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Paranoia", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11993, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Paranoia", -- [1]
-			"Hyperr-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hyperr-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11994, -- [11]
-			"Player-9-0AFE3075", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hyperr|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Paranoia", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11995, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1587273859,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"{rt1}", -- [1]
-			"Sploshey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sploshey-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11996, -- [11]
-			"Player-9-0B2A285D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecSploshey|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"{rt3}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11997, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11998, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"Paranoia", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11999, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12000, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"Paranoia", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12001, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Paranoia", -- [1]
-			"Hyperr-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hyperr-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12002, -- [11]
-			"Player-9-0AFE3075", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hyperr|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Paranoia", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12003, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"Paranoia", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12004, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"Paranoia", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12005, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1587273861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"Paranoia", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12006, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12007, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"Paranoia", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12008, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12009, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"Paranoia", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12010, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"Paranoia", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12011, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"{rt1}", -- [1]
-			"Sploshey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sploshey-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12012, -- [11]
-			"Player-9-0B2A285D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecSploshey|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"Paranoia", -- [1]
-			"Hyperr-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hyperr-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12013, -- [11]
-			"Player-9-0AFE3075", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hyperr|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"{rt3}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12014, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Paranoia", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12015, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1587273863,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12016, -- [11]
-			"Player-9-0B865736", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"Paranoia", -- [1]
-			"Pluie-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pluie-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12017, -- [11]
-			"Player-9-0ABBBD86", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pluie|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12018, -- [11]
-			"Player-9-0B60C80F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
-		{
-			"Paranoia", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12019, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"Paranoia", -- [1]
-			"Hyperr-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hyperr-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12020, -- [11]
-			"Player-9-0AFE3075", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Hyperr|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
-		{
-			"Paranoia", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12021, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
-		{
-			"Paranoia", -- [1]
-			"Tehkz-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Tehkz-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12022, -- [11]
-			"Player-9-0B4BF011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTehkz|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"Paranoia", -- [1]
-			"Arnbjørn-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Arnbjørn-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12023, -- [11]
-			"Player-9-0B0D1C71", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjørn|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"{rt1}", -- [1]
-			"Sploshey-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sploshey-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12024, -- [11]
-			"Player-9-0B2A285D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecSploshey|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"{rt3}", -- [1]
-			"Yellowy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yellowy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12025, -- [11]
-			"Player-9-0A76F241", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYellowy|r",
-			[51] = 1587273864,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"E ERrr Basher Tentacle!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12026, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1587273871,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
-		{
-			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
-			"Andruww-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Andruww-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12028, -- [11]
-			"Player-9-0B1541E0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruww|r",
-			[51] = 1587273879,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [63]
-		{
-			"E ERrr Basher Tentacle!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12033, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1587273906,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
-		{
-			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12035, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1587273918,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12036, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1587273918,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
-		{
-			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			12037, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1587273918,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
-		{
 			"E ERrr Psychophage!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -1518,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587273929,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [1]
 		{
 			"Paranoia", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -1540,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587273935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [2]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -1562,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [3]
 		{
 			"Paranoia", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1584,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587273935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [4]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1606,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [5]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -1628,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273936,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [6]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -1650,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [7]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1672,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [8]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -1694,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [9]
 		{
 			"Interrupted Psychophage's |cff71d5ff|Hspell:318771:0|h[Devour Thoughts]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1716,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587273937,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [10]
 		{
 			"Interrupted Psychophage's |cff71d5ff|Hspell:318771:0|h[Devour Thoughts]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1738,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587273937,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [11]
 		{
 			"{rt1}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -1760,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587273937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [12]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1782,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587273937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [13]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -1804,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [14]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -1826,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587273939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [15]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1848,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [16]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -1870,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273939,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [17]
 		{
 			"{rt1}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -1892,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587273940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [18]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -1914,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587273940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [19]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -1936,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [20]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -1958,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587273940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [21]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1980,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [22]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2002,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587273940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [23]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2024,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [24]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2046,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [25]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -2068,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587273942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [26]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2090,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587273942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [27]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2112,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [28]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2134,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587273942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [29]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2156,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [30]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2178,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [31]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -2200,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587273943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [32]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2222,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [33]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2244,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587273943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [34]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2266,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273943,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [35]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2288,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587273944,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [36]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2310,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [37]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -2332,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [38]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2354,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [39]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2376,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [40]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2398,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [41]
 		{
 			"{rt1}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -2420,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [42]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2442,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [43]
 		{
 			"{rt1}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -2464,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587273945,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [44]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2486,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [45]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -2508,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587273946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [46]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2530,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [47]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2552,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587273946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [48]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2574,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Psychophage!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2596,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587273947,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Psychophage has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2618,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587273947,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [118]
+		}, -- [51]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -2640,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587273947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [52]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -2662,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587273947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [53]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -2684,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587273947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [54]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -2706,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587273947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [55]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2728,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587273948,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [123]
+		}, -- [56]
 		{
 			"jess it was like ghuun all over again partners to the end", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -2750,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587273972,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [57]
 		{
 			"loll", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2772,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587273979,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [58]
 		{
 			"typical group 1", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2794,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587273988,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [126]
+		}, -- [59]
 		{
 			"AGGRESSIVE FORT MACROS ONLY", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -2816,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274011,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [127]
+		}, -- [60]
 		{
 			"i win", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2838,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274021,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [128]
+		}, -- [61]
 		{
 			"no man", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -2860,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274022,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [129]
+		}, -- [62]
 		{
 			"E ERrr Basher Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2882,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274028,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [130]
+		}, -- [63]
 		{
 			"E ERrr Basher Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2904,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274028,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [131]
+		}, -- [64]
 		{
 			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2926,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274041,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [132]
+		}, -- [65]
 		{
 			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2948,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274041,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [133]
+		}, -- [66]
 		{
 			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2970,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274041,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [134]
+		}, -- [67]
 		{
 			"Paranoia", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2992,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [135]
+		}, -- [68]
 		{
 			"Paranoia", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -3014,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [136]
+		}, -- [69]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3036,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [137]
+		}, -- [70]
 		{
 			"Paranoia", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3058,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [138]
+		}, -- [71]
 		{
 			"^__- run me over daddy -__^", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -3080,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [139]
+		}, -- [72]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3102,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [140]
+		}, -- [73]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3124,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [141]
+		}, -- [74]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3146,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [142]
+		}, -- [75]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -3168,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [143]
+		}, -- [76]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -3190,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [144]
+		}, -- [77]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3212,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [145]
+		}, -- [78]
 		{
 			"{rt8}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -3234,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274045,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [146]
+		}, -- [79]
 		{
 			"{rt6}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3256,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274045,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [147]
+		}, -- [80]
 		{
 			"(°,,°)", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3278,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274045,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [148]
+		}, -- [81]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -3300,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274046,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [149]
+		}, -- [82]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3322,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274046,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [150]
+		}, -- [83]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -3344,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274046,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [151]
+		}, -- [84]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -3366,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274046,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [152]
+		}, -- [85]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -3388,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274046,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [153]
+		}, -- [86]
 		{
 			"(°,,°)", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -3410,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [154]
+		}, -- [87]
 		{
 			"{rt8}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -3432,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [155]
+		}, -- [88]
 		{
 			"(°,,°)", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3454,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [156]
+		}, -- [89]
 		{
 			"{rt6}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -3476,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [157]
+		}, -- [90]
 		{
 			"{rt6}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3498,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [158]
+		}, -- [91]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -3520,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [159]
+		}, -- [92]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -3542,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [160]
+		}, -- [93]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3564,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [161]
+		}, -- [94]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -3586,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [162]
+		}, -- [95]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -3608,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [163]
+		}, -- [96]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3630,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [164]
+		}, -- [97]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -3652,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274047,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [165]
+		}, -- [98]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -3674,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [166]
+		}, -- [99]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -3696,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [167]
+		}, -- [100]
 		{
 			"{rt8}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -3718,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [168]
+		}, -- [101]
 		{
 			"(°,,°)", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -3740,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [169]
+		}, -- [102]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -3762,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [170]
+		}, -- [103]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3784,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [171]
+		}, -- [104]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -3806,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [172]
+		}, -- [105]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3828,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [173]
+		}, -- [106]
 		{
 			"(°,,°)", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -3850,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [174]
+		}, -- [107]
 		{
 			"{rt6}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -3872,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [175]
+		}, -- [108]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -3894,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [176]
+		}, -- [109]
 		{
 			"{rt6}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -3916,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [177]
+		}, -- [110]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -3938,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [178]
+		}, -- [111]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -3960,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [179]
+		}, -- [112]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -3982,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [180]
+		}, -- [113]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4004,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [181]
+		}, -- [114]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -4026,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [182]
+		}, -- [115]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -4048,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [183]
+		}, -- [116]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -4070,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [184]
+		}, -- [117]
 		{
 			"{rt8}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -4092,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [185]
+		}, -- [118]
 		{
 			"(°,,°)", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -4114,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [186]
+		}, -- [119]
 		{
 			"(°,,°)", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -4136,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [187]
+		}, -- [120]
 		{
 			"{rt6}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -4158,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [188]
+		}, -- [121]
 		{
 			"{rt6}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -4180,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [189]
+		}, -- [122]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -4202,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [190]
+		}, -- [123]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -4224,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [191]
+		}, -- [124]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -4246,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [192]
+		}, -- [125]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4268,7 +2794,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [193]
+		}, -- [126]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4290,7 +2816,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [194]
+		}, -- [127]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -4312,7 +2838,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274052,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [195]
+		}, -- [128]
 		{
 			"{rt6}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -4334,7 +2860,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [196]
+		}, -- [129]
 		{
 			"{rt6}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -4356,7 +2882,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [197]
+		}, -- [130]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -4378,7 +2904,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [198]
+		}, -- [131]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -4400,7 +2926,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [199]
+		}, -- [132]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4422,7 +2948,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [200]
+		}, -- [133]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4444,7 +2970,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [201]
+		}, -- [134]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -4466,7 +2992,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [202]
+		}, -- [135]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -4488,7 +3014,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [203]
+		}, -- [136]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4510,7 +3036,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [204]
+		}, -- [137]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4532,7 +3058,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [205]
+		}, -- [138]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -4554,7 +3080,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [206]
+		}, -- [139]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -4576,7 +3102,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [207]
+		}, -- [140]
 		{
 			"{rt6}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -4598,7 +3124,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [208]
+		}, -- [141]
 		{
 			"{rt6}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -4620,7 +3146,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274055,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [209]
+		}, -- [142]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -4642,7 +3168,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274056,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [210]
+		}, -- [143]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4664,7 +3190,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274056,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [211]
+		}, -- [144]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4686,7 +3212,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274056,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [212]
+		}, -- [145]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -4708,7 +3234,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274056,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [213]
+		}, -- [146]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -4730,7 +3256,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274056,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [214]
+		}, -- [147]
 		{
 			"{rt6}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -4752,7 +3278,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274057,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [215]
+		}, -- [148]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4774,7 +3300,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274058,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [216]
+		}, -- [149]
 		{
 			"E ERrr Basher Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4796,7 +3322,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274064,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [217]
+		}, -- [150]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4818,7 +3344,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587274065,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [218]
+		}, -- [151]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -4840,7 +3366,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587274079,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [219]
+		}, -- [152]
 		{
 			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -4862,7 +3388,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274082,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [220]
+		}, -- [153]
 		{
 			"E ERrr Basher Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -4884,7 +3410,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274099,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [221]
+		}, -- [154]
 		{
 			"Paranoia", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -4906,7 +3432,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274129,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [222]
+		}, -- [155]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -4928,7 +3454,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274129,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [223]
+		}, -- [156]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -4950,7 +3476,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274129,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [224]
+		}, -- [157]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -4972,7 +3498,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274129,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [225]
+		}, -- [158]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -4994,7 +3520,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274129,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [226]
+		}, -- [159]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5016,7 +3542,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274129,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [227]
+		}, -- [160]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5038,7 +3564,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274130,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [228]
+		}, -- [161]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5060,7 +3586,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274130,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [229]
+		}, -- [162]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -5082,7 +3608,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274130,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [230]
+		}, -- [163]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5104,7 +3630,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274130,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [231]
+		}, -- [164]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5126,7 +3652,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274130,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [232]
+		}, -- [165]
 		{
 			"{rt5}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -5148,7 +3674,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274131,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [233]
+		}, -- [166]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5170,7 +3696,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [234]
+		}, -- [167]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5192,7 +3718,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [235]
+		}, -- [168]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -5214,7 +3740,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [236]
+		}, -- [169]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5236,7 +3762,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [237]
+		}, -- [170]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5258,7 +3784,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [238]
+		}, -- [171]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5280,7 +3806,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [239]
+		}, -- [172]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5302,7 +3828,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [240]
+		}, -- [173]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5324,7 +3850,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [241]
+		}, -- [174]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -5346,7 +3872,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [242]
+		}, -- [175]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5368,7 +3894,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [243]
+		}, -- [176]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5390,7 +3916,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [244]
+		}, -- [177]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5412,7 +3938,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274135,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [245]
+		}, -- [178]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5434,7 +3960,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274135,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [246]
+		}, -- [179]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5456,7 +3982,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274135,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [247]
+		}, -- [180]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5478,7 +4004,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274135,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [248]
+		}, -- [181]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -5500,7 +4026,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274135,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [249]
+		}, -- [182]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5522,7 +4048,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274135,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [250]
+		}, -- [183]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5544,7 +4070,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274136,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [251]
+		}, -- [184]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5566,7 +4092,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274136,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [252]
+		}, -- [185]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5588,7 +4114,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274136,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [253]
+		}, -- [186]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5610,7 +4136,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274136,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [254]
+		}, -- [187]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -5632,7 +4158,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274136,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [255]
+		}, -- [188]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5654,7 +4180,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274137,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [256]
+		}, -- [189]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5676,7 +4202,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274138,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [257]
+		}, -- [190]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5698,7 +4224,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274138,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [258]
+		}, -- [191]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -5720,7 +4246,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274138,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [259]
+		}, -- [192]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5742,7 +4268,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274138,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [260]
+		}, -- [193]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5764,7 +4290,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274138,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [261]
+		}, -- [194]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5786,7 +4312,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274138,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [262]
+		}, -- [195]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5808,7 +4334,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [263]
+		}, -- [196]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5830,7 +4356,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [264]
+		}, -- [197]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5852,7 +4378,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [265]
+		}, -- [198]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -5874,7 +4400,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [266]
+		}, -- [199]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -5896,7 +4422,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [267]
+		}, -- [200]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -5918,7 +4444,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274139,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [268]
+		}, -- [201]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -5940,7 +4466,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [269]
+		}, -- [202]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -5962,7 +4488,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [270]
+		}, -- [203]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -5984,7 +4510,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [271]
+		}, -- [204]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -6006,7 +4532,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [272]
+		}, -- [205]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -6028,7 +4554,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [273]
+		}, -- [206]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -6050,7 +4576,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [274]
+		}, -- [207]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -6072,7 +4598,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274142,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [275]
+		}, -- [208]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -6094,7 +4620,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274142,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [276]
+		}, -- [209]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -6116,7 +4642,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274142,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [277]
+		}, -- [210]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -6138,7 +4664,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274142,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [278]
+		}, -- [211]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -6160,7 +4686,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274142,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [279]
+		}, -- [212]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -6182,7 +4708,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274142,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [280]
+		}, -- [213]
 		{
 			"E ERrr Spike Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6204,7 +4730,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274153,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [281]
+		}, -- [214]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6226,7 +4752,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274161,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [282]
+		}, -- [215]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6248,7 +4774,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274161,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [283]
+		}, -- [216]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Psychophage!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6270,7 +4796,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274163,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [284]
+		}, -- [217]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Psychophage has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6292,7 +4818,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274163,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [285]
+		}, -- [218]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6314,7 +4840,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274165,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [286]
+		}, -- [219]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6336,7 +4862,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274165,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [287]
+		}, -- [220]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6358,7 +4884,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274175,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [288]
+		}, -- [221]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6380,7 +4906,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274175,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [289]
+		}, -- [222]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6402,7 +4928,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274175,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [290]
+		}, -- [223]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6424,7 +4950,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274179,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [291]
+		}, -- [224]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6446,7 +4972,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587274183,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [292]
+		}, -- [225]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -6468,7 +4994,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587274206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [293]
+		}, -- [226]
 		{
 			"E ERrr Basher Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6490,7 +5016,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [294]
+		}, -- [227]
 		{
 			"E ERrr Basher Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -6512,7 +5038,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274208,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [295]
+		}, -- [228]
 		{
 			"Paranoia", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -6534,7 +5060,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [296]
+		}, -- [229]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6556,7 +5082,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [297]
+		}, -- [230]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -6578,7 +5104,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [298]
+		}, -- [231]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -6600,7 +5126,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [299]
+		}, -- [232]
 		{
 			"Paranoia", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -6622,7 +5148,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [300]
+		}, -- [233]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -6644,7 +5170,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [301]
+		}, -- [234]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -6666,7 +5192,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [302]
+		}, -- [235]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -6688,7 +5214,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [303]
+		}, -- [236]
 		{
 			"Paranoia", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -6710,7 +5236,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [304]
+		}, -- [237]
 		{
 			"^__- run me over daddy -__^", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -6732,7 +5258,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [305]
+		}, -- [238]
 		{
 			"Interrupted Corruptor Tentacle's |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r!", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -6754,7 +5280,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274222,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [306]
+		}, -- [239]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6776,7 +5302,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [307]
+		}, -- [240]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -6798,7 +5324,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [308]
+		}, -- [241]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -6820,7 +5346,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [309]
+		}, -- [242]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -6842,7 +5368,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [310]
+		}, -- [243]
 		{
 			"Paranoia", -- [1]
 			"Arnbjørn-Kil'jaeden", -- [2]
@@ -6864,7 +5390,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjørn|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [311]
+		}, -- [244]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -6886,7 +5412,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [312]
+		}, -- [245]
 		{
 			"{rt4}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -6908,7 +5434,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [313]
+		}, -- [246]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -6930,7 +5456,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [314]
+		}, -- [247]
 		{
 			"{rt1}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -6952,7 +5478,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274223,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [315]
+		}, -- [248]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -6974,7 +5500,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [316]
+		}, -- [249]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -6996,7 +5522,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [317]
+		}, -- [250]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7018,7 +5544,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [318]
+		}, -- [251]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -7040,7 +5566,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [319]
+		}, -- [252]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -7062,7 +5588,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [320]
+		}, -- [253]
 		{
 			"{rt3}", -- [1]
 			"Turkeyone-Kil'jaeden", -- [2]
@@ -7084,7 +5610,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyone|r",
 			[51] = 1587274225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [321]
+		}, -- [254]
 		{
 			"{rt6}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7106,7 +5632,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [322]
+		}, -- [255]
 		{
 			"{rt4}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -7128,7 +5654,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [323]
+		}, -- [256]
 		{
 			"{rt8}", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -7150,7 +5676,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [324]
+		}, -- [257]
 		{
 			"{rt1}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -7172,7 +5698,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [325]
+		}, -- [258]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7194,7 +5720,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274225,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [326]
+		}, -- [259]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7216,7 +5742,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [327]
+		}, -- [260]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7238,7 +5764,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [328]
+		}, -- [261]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -7260,7 +5786,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [329]
+		}, -- [262]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7282,7 +5808,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [330]
+		}, -- [263]
 		{
 			"Paranoia", -- [1]
 			"Hyperr-Kil'jaeden", -- [2]
@@ -7304,7 +5830,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Hyperr|r",
 			[51] = 1587274226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [331]
+		}, -- [264]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -7326,7 +5852,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [332]
+		}, -- [265]
 		{
 			"{rt6}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7348,7 +5874,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [333]
+		}, -- [266]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -7370,7 +5896,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [334]
+		}, -- [267]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7392,7 +5918,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [335]
+		}, -- [268]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7414,7 +5940,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [336]
+		}, -- [269]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7436,7 +5962,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [337]
+		}, -- [270]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -7458,7 +5984,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [338]
+		}, -- [271]
 		{
 			"{rt8}", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -7480,7 +6006,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [339]
+		}, -- [272]
 		{
 			"{rt1}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -7502,7 +6028,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [340]
+		}, -- [273]
 		{
 			"{rt4}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -7524,7 +6050,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [341]
+		}, -- [274]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7546,7 +6072,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [342]
+		}, -- [275]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7568,7 +6094,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [343]
+		}, -- [276]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7590,7 +6116,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [344]
+		}, -- [277]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -7612,7 +6138,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [345]
+		}, -- [278]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -7634,7 +6160,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [346]
+		}, -- [279]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7656,7 +6182,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [347]
+		}, -- [280]
 		{
 			"{rt6}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7678,7 +6204,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [348]
+		}, -- [281]
 		{
 			"{rt4}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -7700,7 +6226,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [349]
+		}, -- [282]
 		{
 			"{rt8}", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -7722,7 +6248,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [350]
+		}, -- [283]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7744,7 +6270,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [351]
+		}, -- [284]
 		{
 			"{rt1}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -7766,7 +6292,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [352]
+		}, -- [285]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -7788,7 +6314,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [353]
+		}, -- [286]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -7810,7 +6336,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [354]
+		}, -- [287]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7832,7 +6358,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [355]
+		}, -- [288]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -7854,7 +6380,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [356]
+		}, -- [289]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -7876,7 +6402,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [357]
+		}, -- [290]
 		{
 			"{rt6}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -7898,7 +6424,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [358]
+		}, -- [291]
 		{
 			"{rt4}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -7920,7 +6446,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [359]
+		}, -- [292]
 		{
 			"{rt8}", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -7942,7 +6468,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [360]
+		}, -- [293]
 		{
 			"{rt1}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -7964,7 +6490,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [361]
+		}, -- [294]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -7986,7 +6512,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274231,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [362]
+		}, -- [295]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -8008,7 +6534,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [363]
+		}, -- [296]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -8030,7 +6556,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [364]
+		}, -- [297]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -8052,7 +6578,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [365]
+		}, -- [298]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8074,7 +6600,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [366]
+		}, -- [299]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8096,7 +6622,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [367]
+		}, -- [300]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -8118,7 +6644,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [368]
+		}, -- [301]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -8140,7 +6666,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [369]
+		}, -- [302]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8162,7 +6688,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [370]
+		}, -- [303]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -8184,7 +6710,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [371]
+		}, -- [304]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8206,7 +6732,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [372]
+		}, -- [305]
 		{
 			"{rt6}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8228,7 +6754,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [373]
+		}, -- [306]
 		{
 			"{rt4}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -8250,7 +6776,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [374]
+		}, -- [307]
 		{
 			"{rt8}", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -8272,7 +6798,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [375]
+		}, -- [308]
 		{
 			"{rt1}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -8294,7 +6820,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [376]
+		}, -- [309]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8316,7 +6842,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [377]
+		}, -- [310]
 		{
 			"Paranoia", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -8338,7 +6864,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [378]
+		}, -- [311]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -8360,7 +6886,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [379]
+		}, -- [312]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8382,7 +6908,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [380]
+		}, -- [313]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -8404,7 +6930,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [381]
+		}, -- [314]
 		{
 			"Paranoia", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -8426,7 +6952,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [382]
+		}, -- [315]
 		{
 			"{rt6}", -- [1]
 			"Oxclamatiøn-Kil'jaeden", -- [2]
@@ -8448,7 +6974,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamatiøn|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [383]
+		}, -- [316]
 		{
 			"{rt4}", -- [1]
 			"Sploshey-Kil'jaeden", -- [2]
@@ -8470,7 +6996,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [384]
+		}, -- [317]
 		{
 			"{rt8}", -- [1]
 			"Proudrunner-Kil'jaeden", -- [2]
@@ -8492,7 +7018,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cProudrunner|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [385]
+		}, -- [318]
 		{
 			"{rt1}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -8514,7 +7040,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [386]
+		}, -- [319]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8536,7 +7062,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [387]
+		}, -- [320]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -8558,7 +7084,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274236,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [388]
+		}, -- [321]
 		{
 			"E ERrr Basher Tentacle!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8580,7 +7106,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274242,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [389]
+		}, -- [322]
 		{
 			"Pluie interrupted |cff71d5ff|Hspell:313400:0|h[Corrupted Mind]|h|r", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -8602,7 +7128,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587274255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [390]
+		}, -- [323]
 		{
 			"E ERrr Psychus!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8624,7 +7150,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [391]
+		}, -- [324]
 		{
 			"E ERrr Psychus!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8646,7 +7172,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274280,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [392]
+		}, -- [325]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8668,7 +7194,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274282,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [393]
+		}, -- [326]
 		{
 			"Interrupted Psychus's |cff71d5ff|Hspell:316711:0|h[Mindwrack]|h|r!", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -8690,7 +7216,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274295,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [394]
+		}, -- [327]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8712,7 +7238,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274297,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [395]
+		}, -- [328]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8734,7 +7260,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274299,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [396]
+		}, -- [329]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8756,7 +7282,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274299,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [397]
+		}, -- [330]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8778,7 +7304,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274299,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [398]
+		}, -- [331]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8800,7 +7326,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274309,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [399]
+		}, -- [332]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8822,7 +7348,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274309,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [400]
+		}, -- [333]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8844,7 +7370,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274309,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [401]
+		}, -- [334]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8866,7 +7392,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274309,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [402]
+		}, -- [335]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8888,7 +7414,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274309,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [403]
+		}, -- [336]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8910,7 +7436,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274319,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [404]
+		}, -- [337]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8932,7 +7458,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274319,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [405]
+		}, -- [338]
 		{
 			"Interrupted Psychus's |cff71d5ff|Hspell:316711:0|h[Mindwrack]|h|r!", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -8954,7 +7480,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1587274319,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [406]
+		}, -- [339]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8976,7 +7502,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274321,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [407]
+		}, -- [340]
 		{
 			"Taunted everything around Black Ox Statue", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -8998,7 +7524,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274321,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [408]
+		}, -- [341]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Psychophage!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9020,7 +7546,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274322,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [409]
+		}, -- [342]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Psychophage!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9042,7 +7568,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274322,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [410]
+		}, -- [343]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Psychophage has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9064,7 +7590,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274322,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [411]
+		}, -- [344]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Psychophage has ended!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9086,7 +7612,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274322,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [412]
+		}, -- [345]
 		{
 			"Interrupted Psychus's |cff71d5ff|Hspell:316711:0|h[Mindwrack]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9108,7 +7634,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274327,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [413]
+		}, -- [346]
 		{
 			"Interrupted Psychus's |cff71d5ff|Hspell:316711:0|h[Mindwrack]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9130,7 +7656,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274327,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [414]
+		}, -- [347]
 		{
 			"Interrupted Psychus's |cff71d5ff|Hspell:316711:0|h[Mindwrack]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9152,7 +7678,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274327,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [415]
+		}, -- [348]
 		{
 			"E ERrr Psychus!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9174,7 +7700,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274346,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [416]
+		}, -- [349]
 		{
 			"E ERrr Psychus!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -9196,7 +7722,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1587274346,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [417]
+		}, -- [350]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -9218,7 +7744,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587274376,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [418]
+		}, -- [351]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -9240,7 +7766,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587274396,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [419]
+		}, -- [352]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -9262,7 +7788,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587274408,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [420]
+		}, -- [353]
 		{
 			"SKRRT SKRRT", -- [1]
 			"Turkeyone-Kil'jaeden", -- [2]
@@ -9284,7 +7810,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyone|r",
 			[51] = 1587274419,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [421]
+		}, -- [354]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -9306,7 +7832,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [422]
+		}, -- [355]
 		{
 			"{rt2}", -- [1]
 			"Turkeyone-Kil'jaeden", -- [2]
@@ -9328,7 +7854,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyone|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [423]
+		}, -- [356]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -9350,7 +7876,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [424]
+		}, -- [357]
 		{
 			"Paranoia", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -9372,7 +7898,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [425]
+		}, -- [358]
 		{
 			"Paranoia", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -9394,7 +7920,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [426]
+		}, -- [359]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9416,7 +7942,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [427]
+		}, -- [360]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9438,7 +7964,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [428]
+		}, -- [361]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9460,7 +7986,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [429]
+		}, -- [362]
 		{
 			"Paranoia", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -9482,7 +8008,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [430]
+		}, -- [363]
 		{
 			"^__- run me over daddy -__^", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -9504,7 +8030,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274439,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [431]
+		}, -- [364]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -9526,7 +8052,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274440,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [432]
+		}, -- [365]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9548,7 +8074,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274440,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [433]
+		}, -- [366]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9570,7 +8096,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274440,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [434]
+		}, -- [367]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9592,7 +8118,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274441,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [435]
+		}, -- [368]
 		{
 			"{rt4}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -9614,7 +8140,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274441,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [436]
+		}, -- [369]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -9636,7 +8162,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274441,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [437]
+		}, -- [370]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9658,7 +8184,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274442,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [438]
+		}, -- [371]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9680,7 +8206,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274442,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [439]
+		}, -- [372]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9702,7 +8228,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274443,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [440]
+		}, -- [373]
 		{
 			"{rt4}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -9724,7 +8250,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274443,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [441]
+		}, -- [374]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9746,7 +8272,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274443,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [442]
+		}, -- [375]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9768,7 +8294,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274443,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [443]
+		}, -- [376]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9790,7 +8316,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [444]
+		}, -- [377]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9812,7 +8338,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [445]
+		}, -- [378]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9834,7 +8360,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [446]
+		}, -- [379]
 		{
 			"{rt4}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -9856,7 +8382,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [447]
+		}, -- [380]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9878,7 +8404,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274446,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [448]
+		}, -- [381]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9900,7 +8426,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274446,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [449]
+		}, -- [382]
 		{
 			"{rt4}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -9922,7 +8448,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274447,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [450]
+		}, -- [383]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9944,7 +8470,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274447,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [451]
+		}, -- [384]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -9966,7 +8492,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274448,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [452]
+		}, -- [385]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -9988,7 +8514,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274448,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [453]
+		}, -- [386]
 		{
 			"{rt4}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -10010,7 +8536,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274449,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [454]
+		}, -- [387]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -10032,7 +8558,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274449,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [455]
+		}, -- [388]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -10054,7 +8580,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1587274449,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [456]
+		}, -- [389]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -10076,7 +8602,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274449,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [457]
+		}, -- [390]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10098,7 +8624,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274449,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [458]
+		}, -- [391]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -10120,7 +8646,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1587274451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [459]
+		}, -- [392]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -10142,7 +8668,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [460]
+		}, -- [393]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -10164,7 +8690,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [461]
+		}, -- [394]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10186,7 +8712,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [462]
+		}, -- [395]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -10208,7 +8734,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [463]
+		}, -- [396]
 		{
 			"{rt4}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -10230,7 +8756,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [464]
+		}, -- [397]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -10252,7 +8778,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274451,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [465]
+		}, -- [398]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Kil'jaeden", -- [2]
@@ -10274,7 +8800,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1587274452,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [466]
+		}, -- [399]
 		{
 			"Paranoia", -- [1]
 			"Tehkz-Kil'jaeden", -- [2]
@@ -10296,7 +8822,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTehkz|r",
 			[51] = 1587274452,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [467]
+		}, -- [400]
 		{
 			"Paranoia", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -10318,7 +8844,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274452,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [468]
+		}, -- [401]
 		{
 			"Paranoia", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -10340,7 +8866,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1587274452,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [469]
+		}, -- [402]
 		{
 			"{rt2}", -- [1]
 			"Turkeyone-Kil'jaeden", -- [2]
@@ -10362,7 +8888,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyone|r",
 			[51] = 1587274453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [470]
+		}, -- [403]
 		{
 			"{rt3}", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -10384,7 +8910,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587274453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [471]
+		}, -- [404]
 		{
 			"{rt5}", -- [1]
 			"Yellowy-Kil'jaeden", -- [2]
@@ -10406,7 +8932,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeYellowy|r",
 			[51] = 1587274453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [472]
+		}, -- [405]
 		{
 			"{rt4}", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -10428,7 +8954,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587274453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [473]
+		}, -- [406]
 		{
 			"LOL", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10450,7 +8976,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274465,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [474]
+		}, -- [407]
 		{
 			"LUNA LOST", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -10472,7 +8998,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587274466,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [475]
+		}, -- [408]
 		{
 			"[WTS] AOTC Heroic Nzoth. Guaranteed mount and chance at 470 gear + corruption! Ran by US top 20 players, Runs every 20 min! PST. Gold Only!", -- [1]
 			"Tiramisukj-Kil'jaeden", -- [2]
@@ -10494,7 +9020,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tiramisukj|r",
 			[51] = 1587275306,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [476]
+		}, -- [409]
 		{
 			"[WTS] AOTC Heroic Nzoth. Guaranteed mount and chance at 470 gear + corruption! Ran by US top 20 players, Runs every 20 min! PST. Gold Only!", -- [1]
 			"Tiramisukj-Kil'jaeden", -- [2]
@@ -10516,7 +9042,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tiramisukj|r",
 			[51] = 1587275401,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [477]
+		}, -- [410]
 		{
 			"<The Gallywix Community> WTS M+10s-20s, ran by 2.4k+ io players. Guaranteed on time or re-run/refund. Buy 2x keys, get armor stack FREE! Get your corrupted piece from your weekly chest! GOLD ONLY.", -- [1]
 			"Galyben-Kil'jaeden", -- [2]
@@ -10538,7 +9064,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Galyben|r",
 			[51] = 1587275409,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [478]
+		}, -- [411]
 		{
 			"[WTS] AOTC Heroic Nzoth. Guaranteed mount and chance at 470 gear + corruption! Ran by US top 20 players, Runs every 20 min! PST. Gold Only!", -- [1]
 			"Tiramisukj-Kil'jaeden", -- [2]
@@ -10560,7 +9086,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tiramisukj|r",
 			[51] = 1587275500,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [479]
+		}, -- [412]
 		{
 			"|cffffff00The Great Seal is under attack!|r", -- [1]
 			"", -- [2]
@@ -10582,7 +9108,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1587275642,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [480]
+		}, -- [413]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +15  and armor stack is free!* SPECIAL PRICES AND DEALS", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -10604,7 +9130,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1587275667,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [481]
+		}, -- [414]
 		{
 			"[WTS] AOTC Heroic Nzoth. Guaranteed mount and chance at 470 gear + corruption! Ran by US top 20 players, Runs every 20 min! PST. Gold Only!", -- [1]
 			"Tiramisukj-Kil'jaeden", -- [2]
@@ -10626,7 +9152,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tiramisukj|r",
 			[51] = 1587275809,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [482]
+		}, -- [415]
 		{
 			"lol", -- [1]
 			"Phenizzle-Kil'jaeden", -- [2]
@@ -10648,7 +9174,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Phenizzle|r",
 			[51] = 1587275846,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [483]
+		}, -- [416]
 		{
 			"[WTS] AOTC Heroic Nzoth. Guaranteed mount and chance at 470 gear + corruption! Ran by US top 20 players, Runs every 20 min! PST. Gold Only!", -- [1]
 			"Tiramisukj-Kil'jaeden", -- [2]
@@ -10670,7 +9196,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tiramisukj|r",
 			[51] = 1587275957,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [484]
+		}, -- [417]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +15  and armor stack is free!* SPECIAL PRICES AND DEALS", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -10692,7 +9218,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1587276114,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [485]
+		}, -- [418]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10714,7 +9240,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587276597,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [486]
+		}, -- [419]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10736,7 +9262,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587276704,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [487]
+		}, -- [420]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +15  and armor stack is free!* SPECIAL PRICES AND DEALS", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -10758,7 +9284,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1587276721,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [488]
+		}, -- [421]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10780,7 +9306,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587276811,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [489]
+		}, -- [422]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10802,7 +9328,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587276903,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [490]
+		}, -- [423]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +15  and armor stack is free!* SPECIAL PRICES AND DEALS", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -10824,7 +9350,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1587277003,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [491]
+		}, -- [424]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10846,7 +9372,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587277049,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [492]
+		}, -- [425]
 		{
 			"[WTS] AOTC Heroic Nzoth. Guaranteed mount and chance at 470 gear + corruption! Ran by US top 20 players, Runs every 20 min! PST. Gold Only!", -- [1]
 			"Tiramisukj-Kil'jaeden", -- [2]
@@ -10868,7 +9394,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tiramisukj|r",
 			[51] = 1587277140,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [493]
+		}, -- [426]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10890,7 +9416,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587277155,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [494]
+		}, -- [427]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +15  and armor stack is free!* SPECIAL PRICES AND DEALS", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -10912,7 +9438,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1587277196,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [495]
+		}, -- [428]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10934,7 +9460,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587277316,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [496]
+		}, -- [429]
 		{
 			"WTS |cff0070dd|Hbattlepet:242:25:3:1319:305:289:0000000000000000:30409|h[Spectral Tiger Cub]|h|r pst", -- [1]
 			"Truedot-Kil'jaeden", -- [2]
@@ -10956,7 +9482,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecTruedot|r",
 			[51] = 1587277405,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [497]
+		}, -- [430]
 		{
 			"[WTS] AOTC Heroic Nzoth. Guaranteed mount and chance at 470 gear + corruption! Ran by US top 20 players, Runs every 20 min! PST. Gold Only!", -- [1]
 			"Tiramisukj-Kil'jaeden", -- [2]
@@ -10978,7 +9504,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tiramisukj|r",
 			[51] = 1587277471,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [498]
+		}, -- [431]
 		{
 			"WTS M+ carries +10 and +15.Leveling booster and HM Mechagon.Come get your455- 465 item- ! Special prices \\o/ GOLD ONLY * Buy two dungeons + 10 throught +15  and armor stack is free!* SPECIAL PRICES AND DEALS", -- [1]
 			"Boosterhulk-Kil'jaeden", -- [2]
@@ -11000,6 +9526,1480 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Boosterhulk|r",
 			[51] = 1587277476,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [432]
+		{
+			"wait, you're in another underrot?", -- [1]
+			"Bluelement-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			40, -- [11]
+			"Player-9-0AF428EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcBluelement|r",
+			[51] = 1587349823,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [433]
+		{
+			"he doesn't learn", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			41, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587349851,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [434]
+		{
+			"!keys", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587350292,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [435]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:245:15:10:7:2:120|h[Keystone: Freehold (15)]|h|r", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			67, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587350292,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [436]
+		{
+			"Astral Keys: |cffa335ee|Hkeystone:158923:370:18:10:7:2:120|h[Keystone: Operation: Mechagon - Workshop (18)]|h|r", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			68, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587350292,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [437]
+		{
+			"|cffa335ee|Hkeystone:158923:245:15:10:7:2:120|h[Keystone: Freehold (15)]|h|r", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587350292,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [438]
+		{
+			"|cffa335ee|Hkeystone:158923:353:19:10:7:2:120|h[Keystone: Siege of Boralus (19)]|h|r", -- [1]
+			"Turkeyone-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Turkeyone-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-9-0BB2D171", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyone|r",
+			[51] = 1587350292,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [439]
+		{
+			"|cffa335ee|Hkeystone:158923:252:18:10:7:2:120|h[Keystone: Shrine of the Storm (18)]|h|r", -- [1]
+			"Evangelos-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Evangelos-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-9-0ACB4291", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Evangelos|r",
+			[51] = 1587350292,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [440]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			143, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351011,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [441]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			146, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351014,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [442]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			148, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351022,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [443]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			149, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351030,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [444]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			150, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351031,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [445]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			153, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351045,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [446]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			155, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351050,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [447]
+		{
+			"Ricocheting Throw on Turkeyone", -- [1]
+			"Turkeyone-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyone-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			156, -- [11]
+			"Player-9-0BB2D171", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyone|r",
+			[51] = 1587351050,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [448]
+		{
+			"Ricocheting Throw on Turkeyone", -- [1]
+			"Turkeyone-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyone-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			157, -- [11]
+			"Player-9-0BB2D171", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyone|r",
+			[51] = 1587351054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [449]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			158, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351059,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [450]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			159, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351062,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [451]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			160, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351068,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [452]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			189, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351228,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [453]
+		{
+			"Ricocheting Throw on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			190, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351231,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [454]
+		{
+			"Ricocheting Throw on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			191, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351231,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [455]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			192, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [456]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			193, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351237,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [457]
+		{
+			"Ricocheting Throw on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			194, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351240,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [458]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			195, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351240,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [459]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			196, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351245,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [460]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			197, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351249,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [461]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			198, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351250,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [462]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			201, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351251,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [463]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			203, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351266,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [464]
+		{
+			"Ricocheting Throw on Turkeyone", -- [1]
+			"Turkeyone-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyone-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			206, -- [11]
+			"Player-9-0BB2D171", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyone|r",
+			[51] = 1587351272,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [465]
+		{
+			"Ricocheting Throw on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			207, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351272,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [466]
+		{
+			"Ricocheting Throw on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			208, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351274,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [467]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			209, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351280,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [468]
+		{
+			"Ricocheting Throw on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			211, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351286,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [469]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			212, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351302,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [470]
+		{
+			"Ricocheting Throw on Rivalry", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			213, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351311,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [471]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			214, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351318,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [472]
+		{
+			"Ricocheting Throw on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			215, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351326,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [473]
+		{
+			"Ricocheting Throw on Turkeyone", -- [1]
+			"Turkeyone-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyone-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			217, -- [11]
+			"Player-9-0BB2D171", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyone|r",
+			[51] = 1587351342,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [474]
+		{
+			"Ricocheting Throw on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			218, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351367,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [475]
+		{
+			"Ricocheting Throw on Turkeyone", -- [1]
+			"Turkeyone-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyone-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			219, -- [11]
+			"Player-9-0BB2D171", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyone|r",
+			[51] = 1587351375,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [476]
+		{
+			"YES", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			233, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351609,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [477]
+		{
+			"|cffa335ee|Hitem:159653::::::::120:581::16:5:6536:6516:6513:1637:4786:::|h[Bile-Stained Crawg Tusks]|h|r", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351612,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [478]
+		{
+			"easy game", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			235, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351617,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [479]
+		{
+			"ez life", -- [1]
+			"Proudrunner-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			236, -- [11]
+			"Player-9-0BB60E7C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cProudrunner|r",
+			[51] = 1587351623,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [480]
+		{
+			"|cffa335ee|Hitem:159653:5965:::::::120:577::35:5:6536:6578:6513:1647:4786:::|h[Bile-Stained Crawg Tusks]|h|r", -- [1]
+			"Rivalry-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			237, -- [11]
+			"Player-9-0AB1C1A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1587351624,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [481]
+		{
+			"i have 15 UR ", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			238, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1587351637,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [482]
+		{
+			"oh u got both", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			241, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1587351669,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [483]
+		{
+			"yup", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351684,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [484]
+		{
+			"and got pants ", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351686,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [485]
+		{
+			"wanna 2s cap", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			244, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1587351692,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [486]
+		{
+			"on your rogue", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			245, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1587351695,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [487]
+		{
+			"wha", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			246, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351701,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [488]
+		{
+			"sure", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			247, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351703,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [489]
+		{
+			"let me buy an enchant", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1587351720,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [490]
+		{
+			"k", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			250, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1587351723,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [491]
+		{
+			"brb bladder issue", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			255, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1587351770,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [492]
+		{
+			"Whoa look at those tusks, must be nice", -- [1]
+			"Felfanatic-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			256, -- [11]
+			"Player-9-0A9097E2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Felfanatic|r",
+			[51] = 1587351788,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [493]
+		{
+			"Cannon Barrage on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			262, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351866,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [494]
+		{
+			"Cannon Barrage on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			271, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351921,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [495]
+		{
+			"Cannon Barrage on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			276, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351945,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [496]
+		{
+			"Cannon Barrage on Toshpal", -- [1]
+			"Toshpal-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			282, -- [11]
+			"Player-9-0B60C80F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1587351966,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [497]
+		{
+			"Cannon Barrage on Thunderrz", -- [1]
+			"Thunderrz-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Thunderrz-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			283, -- [11]
+			"Player-9-0B081794", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Thunderrz|r",
+			[51] = 1587351966,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [498]
+		{
+			"o.O", -- [1]
+			"Yukios-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			"Player-9-0BAF05B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYukios|r",
+			[51] = 1587352086,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [499]
 	},
 }
