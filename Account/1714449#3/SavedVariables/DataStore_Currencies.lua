@@ -44,11 +44,11 @@ DataStore_CurrenciesDB = {
 					[1565] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1710] = "0-0-0-0",
-					[1342] = "0-0-0-0",
+					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1560] = "0-0-0-0",
 					[994] = "0-0-0-0",
-					[823] = "0-0-0-0",
+					[1342] = "0-0-0-0",
 					[1580] = "0-0-0-0",
 				},
 			},
@@ -72,7 +72,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 1441,
+						["count"] = 1781,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -97,7 +97,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 7180,
+						["count"] = 9510,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -147,7 +147,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1587011445,
+				["lastUpdate"] = 1587481658,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -157,11 +157,11 @@ DataStore_CurrenciesDB = {
 					[1565] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1710] = "258-0-0-0",
-					[823] = "0-0-0-0",
+					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1560] = "7747-0-0-0",
 					[994] = "0-0-0-0",
-					[1342] = "0-0-0-0",
+					[823] = "0-0-0-0",
 					[1580] = "2-0-0-5",
 				},
 			},
@@ -185,7 +185,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 4072,
+						["count"] = 4452,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -210,7 +210,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 12290,
+						["count"] = 14800,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -260,7 +260,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1587259244,
+				["lastUpdate"] = 1587481448,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -270,11 +270,11 @@ DataStore_CurrenciesDB = {
 					[1565] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1710] = "355-0-0-0",
-					[1342] = "0-0-0-0",
+					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1560] = "15423-0-0-0",
 					[994] = "0-0-0-0",
-					[823] = "0-0-0-0",
+					[1342] = "0-0-0-0",
 					[1580] = "3-0-0-5",
 				},
 			},
@@ -287,9 +287,9 @@ DataStore_CurrenciesDB = {
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
 					[1580] = "0-0-0-0",
-					[823] = "0-0-0-0",
-					[1560] = "0-0-0-0",
 					[1342] = "0-0-0-0",
+					[1560] = "0-0-0-0",
+					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1710] = "0-0-0-0",
 					[994] = "0-0-0-0",
@@ -351,12 +351,12 @@ DataStore_CurrenciesDB = {
 				["Legion"] = 9,
 				["Battle for Azeroth"] = 1,
 				["Warlords of Draenor"] = 20,
-				["Timeworn Artifact"] = 17,
-				["Wakening Essence"] = 19,
-				["Prismatic Manapearl"] = 27,
 				["Echoes of Ny'alotha"] = 30,
-				["Apexis Crystal"] = 21,
+				["Wakening Essence"] = 19,
 				["Coalescing Visions"] = 28,
+				["Timeworn Artifact"] = 17,
+				["Apexis Crystal"] = 21,
+				["Prismatic Manapearl"] = 27,
 				["Garrison Resources"] = 22,
 				["Seal of Tempered Fate"] = 23,
 				["Wrath of the Lich King"] = 24,

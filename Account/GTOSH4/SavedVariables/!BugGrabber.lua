@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2316,
 	["lastSanitation"] = 3,
+	["session"] = 2319,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Jamba-QuestWatcher' tried to call the protected function 'ObjectiveTrackerFrame:Hide()'.",

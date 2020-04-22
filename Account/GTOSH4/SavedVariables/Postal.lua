@@ -1,25 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -44,12 +24,32 @@ Postal3DB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
+	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshpal|Kil'jaeden|Horde", -- [1]
-					"Yorman|Kil'jaeden|Horde", -- [2]
+					"Yorman|Kil'jaeden|Horde", -- [1]
+					"Toshpal|Kil'jaeden|Horde", -- [2]
 					"Backstab|Kil'jaeden|Horde", -- [3]
 					"Pluie|Kil'jaeden|Horde", -- [4]
 				},
@@ -129,7 +129,22 @@ Postal3DB = {
 		},
 		["Toshtrial - Blood Furnace"] = {
 		},
-		["Sumex - Frostwolf"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Backstab|Kil'jaeden|Horde", -- [2]
+					"Toshpal|Kil'jaeden|Horde", -- [3]
+					"Toshmonk|Kil'jaeden|Horde", -- [4]
+					"Cadaceus|Kil'jaeden|Horde", -- [5]
+					"Yellowy|Kil'jaeden|Horde", -- [6]
+					"Yorman|Kil'jaeden|Horde", -- [7]
+					"Yellowysham|Kil'jaeden|Horde", -- [8]
+					"Yukio|Kil'jaeden|Horde", -- [9]
+					"Wraithbrand|Kil'jaeden|Horde", -- [10]
+					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [11]
+				},
+			},
 		},
 		["Tosh - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -149,22 +164,7 @@ Postal3DB = {
 		},
 		["Toshaman - Area 52"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Tosh|Kil'jaeden|Horde", -- [1]
-					"Backstab|Kil'jaeden|Horde", -- [2]
-					"Toshpal|Kil'jaeden|Horde", -- [3]
-					"Toshmonk|Kil'jaeden|Horde", -- [4]
-					"Cadaceus|Kil'jaeden|Horde", -- [5]
-					"Yellowy|Kil'jaeden|Horde", -- [6]
-					"Yorman|Kil'jaeden|Horde", -- [7]
-					"Yellowysham|Kil'jaeden|Horde", -- [8]
-					"Yukio|Kil'jaeden|Horde", -- [9]
-					"Wraithbrand|Kil'jaeden|Horde", -- [10]
-					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [11]
-				},
-			},
+		["Sumex - Frostwolf"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

@@ -11,13 +11,13 @@ DataStoreDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -41,40 +41,40 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Frostwolf.Sumex"] = {
+			["Default.Area 52.Toshpriest"] = {
+				["guildName"] = "sheeple",
+				["faction"] = "Horde",
+			},
+			["Default.Frostwolf.Tosh"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["guildName"] = "Koopa Troopa",
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Daggny"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Tosku"] = {
+			["Default.Frostwolf.Sumex"] = {
 				["faction"] = "Horde",
-				["guildName"] = "Koopa Troopa",
-			},
-			["Default.Frostwolf.Tosh"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Area 52.Toshpriest"] = {
-				["faction"] = "Horde",
-				["guildName"] = "sheeple",
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["faction"] = "Horde",

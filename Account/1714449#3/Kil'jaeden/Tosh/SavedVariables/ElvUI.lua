@@ -1,248 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/g corruption tooltip", -- [1]
-		"/dn", -- [2]
-		"/p I'm gonna hang out w/ jess for a bit", -- [3]
-		"/p oh wait", -- [4]
-		"for the void collapse", -- [5]
-		"/tmw", -- [6]
-		"you're goin in on her today lol", -- [7]
-		"/raid |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:16:3071|h[Ny'alotha, the Waking City]|h|r", -- [8]
-		"/g ys", -- [9]
-		"/g |cffa335ee|Hitem:159620::::::::120:256::35:4:6536:6515:1647:4786:::|h[Conch of Dark Whispers]|h|r", -- [10]
-		"I bet cada's sitting there, not speaking up, hoping you'd ask him to come lol", -- [11]
-		"/ert", -- [12]
-		"/p 12:50", -- [13]
-		"/p bribe your priest to grip them out of rop during their combust?", -- [14]
-		"/changeactionbar 1", -- [15]
-		"/g they have 4 ele shamans", -- [16]
-		"/g and a resto", -- [17]
-		"/g holy", -- [18]
-		"/g yuki's new guild", -- [19]
-		"/cw Ogv-Area52 os", -- [20]
+		"/dn", -- [1]
+		"/p I'm gonna hang out w/ jess for a bit", -- [2]
+		"/p oh wait", -- [3]
+		"for the void collapse", -- [4]
+		"/tmw", -- [5]
+		"you're goin in on her today lol", -- [6]
+		"/raid |cffff8000|Hinstancelock:Player-9-0B60C7FF:2217:16:3071|h[Ny'alotha, the Waking City]|h|r", -- [7]
+		"/g ys", -- [8]
+		"/g |cffa335ee|Hitem:159620::::::::120:256::35:4:6536:6515:1647:4786:::|h[Conch of Dark Whispers]|h|r", -- [9]
+		"I bet cada's sitting there, not speaking up, hoping you'd ask him to come lol", -- [10]
+		"/ert", -- [11]
+		"/p 12:50", -- [12]
+		"/p bribe your priest to grip them out of rop during their combust?", -- [13]
+		"/changeactionbar 1", -- [14]
+		"/g they have 4 ele shamans", -- [15]
+		"/g and a resto", -- [16]
+		"/g holy", -- [17]
+		"/g yuki's new guild", -- [18]
+		"/cw Ogv-Area52 os", -- [19]
+		"/who gochi", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"aye, i eye eye eye", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1279, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama|r",
-			[51] = 1587008557,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"|cffa335ee|Hitem:174531::::::::120:258::5:5:4823:6516:6515:1502:4786:::|h[Void-Etched Band]|h|r", -- [1]
-			"Ogv-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ogv-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1284, -- [11]
-			"Player-3676-0ABFE390", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeOgv-Area52|r",
-			[51] = 1587008575,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"nahtan", -- [1]
-			"Nahtan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nahtan-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1286, -- [11]
-			"Player-9-0BAD8707", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Nahtan|r",
-			[51] = 1587008576,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"lol", -- [1]
-			"Nahtan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nahtan-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1287, -- [11]
-			"Player-9-0BAD8707", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Nahtan|r",
-			[51] = 1587008577,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"os", -- [1]
-			"Ogv-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Ogv-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1288, -- [11]
-			"Player-3676-0ABFE390", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeOgv-Area52|r",
-			[51] = 1587008579,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [5]
-		{
-			"yes", -- [1]
-			"Nahtan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nahtan-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1290, -- [11]
-			"Player-9-0BAD8707", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Nahtan|r",
-			[51] = 1587008582,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"its my", -- [1]
-			"Nahtan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nahtan-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1291, -- [11]
-			"Player-9-0BAD8707", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Nahtan|r",
-			[51] = 1587008584,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"hecking name", -- [1]
-			"Nahtan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nahtan-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1292, -- [11]
-			"Player-9-0BAD8707", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Nahtan|r",
-			[51] = 1587008585,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"???", -- [1]
-			"Nahtan-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nahtan-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1293, -- [11]
-			"Player-9-0BAD8707", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Nahtan|r",
-			[51] = 1587008586,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"no its my name", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1294, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama|r",
-			[51] = 1587008592,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
 		{
 			"heck off", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -264,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587008593,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
+		}, -- [1]
 		{
 			"heck u", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -286,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008595,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
+		}, -- [2]
 		{
 			"NI", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -308,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008597,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
+		}, -- [3]
 		{
 			"G", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -330,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587008601,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
+		}, -- [4]
 		{
 			"whoa", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -352,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008604,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
+		}, -- [5]
 		{
 			"woa", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -374,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587008606,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
+		}, -- [6]
 		{
 			"dont do that", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -396,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008608,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
+		}, -- [7]
 		{
 			"i have it but i don't think it's working", -- [1]
 			"Alaresa-WyrmrestAccord", -- [2]
@@ -418,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Alaresa-WyrmrestAccord|r",
 			[51] = 1587008610,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
+		}, -- [8]
 		{
 			"Interrupted Void Horror's |cff71d5ff|Hspell:314188:0|h[Mind Flay]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -440,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587008644,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
+		}, -- [9]
 		{
 			"should i just bring my 340 dh", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -462,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587008694,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
+		}, -- [10]
 		{
 			"you have already killed it tho", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -484,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008695,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
+		}, -- [11]
 		{
 			"barbados", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -506,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008697,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
+		}, -- [12]
 		{
 			"D:", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -528,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008697,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [13]
 		{
 			"so they cant trade", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -550,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008700,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [14]
 		{
 			":(", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -572,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587008703,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
+		}, -- [15]
 		{
 			"is there a glyph for old chain heal", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -594,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587008799,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:202719:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -616,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587008808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [17]
 		{
 			"Interrupted Eye of Drest'agath's |cff71d5ff|Hspell:310552:0|h[Mind Flay]|h|r!", -- [1]
 			"Phinsterdh-BleedingHollow", -- [2]
@@ -638,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Phinsterdh-BleedingHollow|r",
 			[51] = 1587008823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [18]
 		{
 			"2", -- [1]
 			"Evandh-Illidan", -- [2]
@@ -660,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Evandh-Illidan|r",
 			[51] = 1587008916,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [19]
 		{
 			"1", -- [1]
 			"Evandh-Illidan", -- [2]
@@ -682,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Evandh-Illidan|r",
 			[51] = 1587008917,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [20]
 		{
 			"3", -- [1]
 			"Suthbow-Area52", -- [2]
@@ -704,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Suthbow-Area52|r",
 			[51] = 1587008940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [21]
 		{
 			"3", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -726,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587008940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [22]
 		{
 			"2", -- [1]
 			"Suthbow-Area52", -- [2]
@@ -748,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Suthbow-Area52|r",
 			[51] = 1587008941,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [23]
 		{
 			"2", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -770,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587008941,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [24]
 		{
 			"1", -- [1]
 			"Suthbow-Area52", -- [2]
@@ -792,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Suthbow-Area52|r",
 			[51] = 1587008942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [25]
 		{
 			"1", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -814,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587008942,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [26]
 		{
 			"Interrupted Eye of Drest'agath's |cff71d5ff|Hspell:310552:0|h[Mind Flay]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -836,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587009020,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [27]
 		{
 			"Acid Splash on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -858,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1587009037,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [28]
 		{
 			"|cff71d5ff|Hspell:196718:0|h[Darkness]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -880,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587009073,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [29]
 		{
 			"3", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -902,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587009084,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [30]
 		{
 			"2", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -924,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587009085,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [31]
 		{
 			"1", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -946,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587009086,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [32]
 		{
 			"Mutterings of Insanity on Ghettoxo", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -968,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587009100,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [33]
 		{
 			"3", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -990,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587009102,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [34]
 		{
 			"2", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -1012,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587009103,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [35]
 		{
 			"1", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -1034,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587009104,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [36]
 		{
 			"3", -- [1]
 			"Evandh-Illidan", -- [2]
@@ -1056,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Evandh-Illidan|r",
 			[51] = 1587009143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [37]
 		{
 			"2", -- [1]
 			"Evandh-Illidan", -- [2]
@@ -1078,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Evandh-Illidan|r",
 			[51] = 1587009144,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [38]
 		{
 			"1", -- [1]
 			"Evandh-Illidan", -- [2]
@@ -1100,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Evandh-Illidan|r",
 			[51] = 1587009145,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [39]
 		{
 			"3", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -1122,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587009153,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [40]
 		{
 			"2", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -1144,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587009154,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [41]
 		{
 			"1", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -1166,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587009155,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [42]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14195:Player-9-0BAD8707:1:4:15:20:4294967295:4294967295:4294967295:4294967295|h[Gift of Flesh]|h|r!", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -1188,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587009172,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [53]
+		}, -- [43]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1210,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587009880,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
+		}, -- [44]
 		{
 			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1232,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587009888,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [45]
 		{
 			"Cursed Blood", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -1254,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1587009905,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [46]
 		{
 			"Cursed Blood", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -1276,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1587009923,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [47]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1298,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587010000,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [48]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1320,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587010107,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [49]
 		{
 			"mc", -- [1]
 			"Kiliden-Kil'jaeden", -- [2]
@@ -1342,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Kiliden|r",
 			[51] = 1587010130,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [50]
 		{
 			"Touch of the Corruptor on Khelikloth", -- [1]
 			"Khelikloth-Kil'jaeden", -- [2]
@@ -1364,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Khelikloth|r",
 			[51] = 1587010131,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [51]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1386,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587010152,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [52]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14195:Player-9-0B60C7FF:1:4:15:20:4294967295:4294967295:4294967295:4294967295|h[Gift of Flesh]|h|r!", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1408,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1587010161,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [63]
+		}, -- [53]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14195:Player-9-0994D21B:1:4:15:20:4294967295:4294967295:4294967295:4294967295|h[Gift of Flesh]|h|r!", -- [1]
 			"Delzz-Kil'jaeden", -- [2]
@@ -1430,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeDelzz|r",
 			[51] = 1587010161,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [64]
+		}, -- [54]
 		{
 			"alright thanks for the run all", -- [1]
 			"Alaresa-WyrmrestAccord", -- [2]
@@ -1452,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Alaresa-WyrmrestAccord|r",
 			[51] = 1587010264,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [55]
 		{
 			"gg and take care <3", -- [1]
 			"Alaresa-WyrmrestAccord", -- [2]
@@ -1474,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Alaresa-WyrmrestAccord|r",
 			[51] = 1587010271,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [56]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Phinsterdh-BleedingHollow", -- [2]
@@ -1496,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Phinsterdh-BleedingHollow|r",
 			[51] = 1587010306,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [57]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311041:0|h[Drive to Madness]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1518,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587010311,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [58]
 		{
 			"how much is it to roll an azerite piece", -- [1]
 			"Suthbow-Area52", -- [2]
@@ -1540,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Suthbow-Area52|r",
 			[51] = 1587010320,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [59]
 		{
 			"i forget", -- [1]
 			"Suthbow-Area52", -- [2]
@@ -1562,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Suthbow-Area52|r",
 			[51] = 1587010322,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [60]
 		{
 			"4750", -- [1]
 			"Vercetty-Kil'jaeden", -- [2]
@@ -1584,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVercetty|r",
 			[51] = 1587010329,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [61]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Phinsterdh-BleedingHollow", -- [2]
@@ -1606,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Phinsterdh-BleedingHollow|r",
 			[51] = 1587010329,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [62]
 		{
 			"nice", -- [1]
 			"Suthbow-Area52", -- [2]
@@ -1628,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Suthbow-Area52|r",
 			[51] = 1587010335,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [63]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1650,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587010335,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [64]
 		{
 			"Interrupted Umbral Seer's |cff71d5ff|Hspell:311046:0|h[Void Bolt Volley]|h|r!", -- [1]
 			"Phinsterdh-BleedingHollow", -- [2]
@@ -1672,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Phinsterdh-BleedingHollow|r",
 			[51] = 1587010352,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [65]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:871:0|h[Shield Wall]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1694,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587010358,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r cast on Zealous Adherent!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1716,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587010363,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [67]
 		{
 			"|cff71d5ff|Hspell:217832:0|h[Imprison]|h|r on Zealous Adherent has ended!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1738,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587010363,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [68]
 		{
 			"I can swap for cara", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -1760,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010376,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [69]
 		{
 			"but I would like nzoth", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -1782,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010379,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [70]
 		{
 			"for dk", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -1804,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010380,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [71]
 		{
 			"D:", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -1826,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010383,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [72]
 		{
 			"LOL", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -1848,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587010392,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [73]
 		{
 			"{CROSS}SPELL REFLECTING{CROSS}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -1870,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587010407,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [74]
 		{
 			"that's a hate crime", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -1892,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1587010408,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [75]
 		{
 			"Interrupted Zealous Adherent's |cff71d5ff|Hspell:311091:0|h[Condensing Void]|h|r!", -- [1]
 			"Phinsterdh-BleedingHollow", -- [2]
@@ -1914,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Phinsterdh-BleedingHollow|r",
 			[51] = 1587010412,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [76]
 		{
 			"that was way too accurate", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -1936,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587010424,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [77]
 		{
 			"good morning ", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -1958,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010474,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [78]
 		{
 			"who did that", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1980,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587010535,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [79]
 		{
 			"pre ams", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2002,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010548,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [80]
 		{
 			"monkaw", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2024,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010549,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [81]
 		{
 			"idk i felt it was the rigth thing", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2046,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587010643,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [82]
 		{
 			"never did this raid before", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2068,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587010659,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [83]
 		{
 			"didnt know sorry", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2090,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587010661,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [84]
 		{
 			"same tbh", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2112,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587010664,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [85]
 		{
 			"we going one side or split", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2134,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587010733,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [86]
 		{
 			"1 3 + liz / phin left", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2156,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1587010775,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [97]
+		}, -- [87]
 		{
 			"2 4 + nathan / ghetto right", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2178,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1587010784,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [98]
+		}, -- [88]
 		{
 			"o.o", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2200,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587010791,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
+		}, -- [89]
 		{
 			"|cff71d5ff|Hspell:202719:0|h[Arcane Torrent]|h|r activated!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2222,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587010797,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [90]
 		{
 			"Madness Bomb on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2244,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1587010803,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [91]
 		{
 			"ill go right i guess", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2266,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587010807,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+		}, -- [92]
 		{
 			"3", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2288,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1587010812,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [93]
 		{
 			"2", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2310,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1587010813,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [94]
 		{
 			"1", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2332,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1587010814,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [95]
 		{
 			"ya", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2354,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1587010818,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+		}, -- [96]
 		{
 			"Interrupted Gaze of Madness's |cff71d5ff|Hspell:307008:0|h[Breed Madness]|h|r!", -- [1]
 			"Phinsterdh-BleedingHollow", -- [2]
@@ -2376,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Phinsterdh-BleedingHollow|r",
 			[51] = 1587010826,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [97]
 		{
 			"Interrupted Gaze of Madness's |cff71d5ff|Hspell:307008:0|h[Breed Madness]|h|r!", -- [1]
 			"Phinsterdh-BleedingHollow", -- [2]
@@ -2398,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Phinsterdh-BleedingHollow|r",
 			[51] = 1587010879,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [98]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2420,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587010881,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [99]
 		{
 			"im a fucking wheelchair", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2442,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1587010906,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [100]
 		{
 			"and i didnt cleanse corruption", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2464,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1587010910,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [101]
 		{
 			"just kms", -- [1]
 			"Rathux-Kil'jaeden", -- [2]
@@ -2486,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1587010913,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [112]
+		}, -- [102]
 		{
 			"fk was explaining fight in dsicord LOl", -- [1]
 			"Suthbow-Area52", -- [2]
@@ -2508,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Suthbow-Area52|r",
 			[51] = 1587010932,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [103]
 		{
 			"wheres our dmg on right", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2530,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587011042,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
+		}, -- [104]
 		{
 			"{skull}{skull}{skull} |cff71d5ff|Hspell:12975:0|h[Last Stand]|h|r {skull}{skull}{skull}", -- [1]
 			"Orcbum-Kil'jaeden", -- [2]
@@ -2552,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrcbum|r",
 			[51] = 1587011204,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [105]
 		{
 			"woah", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2574,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587011341,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [116]
+		}, -- [106]
 		{
 			"dyn mace", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2596,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587011344,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [107]
 		{
 			"tanking trinket pelase", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2618,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587011350,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [118]
+		}, -- [108]
 		{
 			"c:", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2640,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1587011351,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [109]
 		{
 			"xd", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2662,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587011352,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [120]
+		}, -- [110]
 		{
 			"is good?", -- [1]
 			"Ghettoxo-Lightbringer", -- [2]
@@ -2684,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ghettoxo-Lightbringer|r",
 			[51] = 1587011356,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [111]
 		{
 			"brb going pala", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2706,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1587011360,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [112]
 		{
 			"swap", -- [1]
 			"Crippled-Kil'jaeden", -- [2]
@@ -2728,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Crippled|r",
 			[51] = 1587011392,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [123]
+		}, -- [113]
 		{
 			"huh", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2750,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587011408,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [114]
 		{
 			"oh", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2772,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587011411,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [115]
 		{
 			"ty sir", -- [1]
 			"Nahtan-Kil'jaeden", -- [2]
@@ -2794,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Nahtan|r",
 			[51] = 1587011412,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [116]
 		{
 			"ugh", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -2815,6 +2595,226 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1587011447,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"dang", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			60, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1587481559,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"i got avoidant :P", -- [1]
+			"Yukios-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-9-0BAF05B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYukios|r",
+			[51] = 1587481602,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
+		{
+			"yuck", -- [1]
+			"Yukios-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-9-0BAF05B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYukios|r",
+			[51] = 1587481603,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"but my shaman got |cffa335ee|Hitem:159384::::::::120:263::35:7:6536:6578:6579:6554:6513:1647:4786:::|h[Corpuscular Greaves]|h|r :D", -- [1]
+			"Yukios-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-9-0BAF05B1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcYukios|r",
+			[51] = 1587481610,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"big stars yuki", -- [1]
+			"Delp-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			86, -- [11]
+			"Player-9-098FFF6F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecDelp|r",
+			[51] = 1587481671,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"yeee", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			88, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio|r",
+			[51] = 1587481702,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"|cffa335ee|Hitem:159329::::::::120:102::35:7:6536:6578:6579:6563:6515:1647:4786:::|h[Leggings of the Galeforce Viper]|h|r", -- [1]
+			"Kiliden-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			94, -- [11]
+			"Player-9-0841BC1C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Kiliden|r",
+			[51] = 1587481745,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"whats yall corruption resistance at rn on cloak", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			100, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1587481792,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [125]
+		{
+			"before upgrade", -- [1]
+			"Dumbers-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			102, -- [11]
+			"Player-9-0BB5330A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Dumbers|r",
+			[51] = 1587481793,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [126]
+		{
+			"62", -- [1]
+			"Akwira-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			"Player-9-0B147C60", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Akwira|r",
+			[51] = 1587481816,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},

@@ -1,7 +1,8 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshpal-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Killxan-tichondrius"] = true,
+	["us-Keeiril-shadowsong"] = true,
+	["us-Fostosis-frostwolf"] = true,
 }
