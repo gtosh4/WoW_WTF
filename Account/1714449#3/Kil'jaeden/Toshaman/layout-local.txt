@@ -27,13 +27,6 @@ X: 0
 Y: 0
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -61,4 +54,11 @@ Anchor: LEFT
 X: 157
 Y: -41
 W: 267
-H: 298
+H: 69
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1

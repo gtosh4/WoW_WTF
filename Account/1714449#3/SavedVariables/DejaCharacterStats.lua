@@ -688,8 +688,20 @@ DCS_ClassSpecDB = {
 			},
 		}, -- [49]
 		{
-			["statKey"] = "DCS_MOVESPEED",
+			["statKey"] = "CR_CORRUPTION_RESISTANCE",
+			["hideAt"] = 0,
 		}, -- [50]
+		{
+			["statKey"] = "CR_CORRUPTION",
+			["hideAt"] = 0,
+		}, -- [51]
+		{
+			["statKey"] = "CorruptionCategory",
+		}, -- [52]
+		{
+			["statKey"] = "CR_TOTAL_CORRUPTION",
+			["hideAt"] = 0,
+		}, -- [53]
 		["uniqueKey"] = "Toshmonk:Kil'jaeden:2",
 	},
 	["Toshpal:Area 52:3"] = {

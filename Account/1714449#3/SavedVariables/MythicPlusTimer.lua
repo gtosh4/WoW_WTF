@@ -7,61 +7,6 @@ MythicPlusTimerDB = {
 		["progress_tooltip"] = true,
 		["showAffixesAsIcons"] = false,
 		["scale"] = 1,
-		["progressTooltip"] = true,
-		["objectiveTimeInChat"] = true,
-		["hideDefaultObjectiveTracker"] = true,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l19",
-			["quantity_number"] = 261,
-			["cm_level"] = 19,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Freehold",
-			["elapsed_time"] = 2211,
-			["time_left"] = 0,
-			["deathcount_visible"] = true,
-			["steps"] = 5,
-			["death_names"] = {
-				["Dirtyslayer"] = 3,
-				["Evangelos"] = 3,
-				["Backstab"] = 5,
-				["Peace"] = 7,
-				["Toshaman"] = 3,
-			},
-			["deathcount"] = 21,
-			["is_reaping"] = false,
-			["current_zone_id"] = 1754,
-			["max_time"] = 1980,
-			["current_map_id"] = 245,
-			["times"] = {
-				409, -- [1]
-				1179, -- [2]
-				1924, -- [3]
-				2188, -- [4]
-				2211, -- [5]
-				["5last_best_time_zone_level"] = 1837,
-				["4last_best_time_zone_level"] = 2338,
-				["3last_best_time_zone_level"] = 2578,
-				["2last_best_time_zone_level"] = 1806,
-				["1last_best_time_zone_level"] = 305,
-				["5last_best_time_zone"] = 611,
-				["4last_best_time_zone"] = 1150,
-				["3last_best_time_zone"] = 900,
-				["2last_best_time_zone"] = 773,
-				["1last_best_time_zone"] = 188,
-			},
-			["affixes"] = {
-				10, -- [1]
-				7, -- [2]
-				2, -- [3]
-				120, -- [4]
-			},
-			["affixes_key"] = "affixes-2-7-10-120",
-			["final_quantity_number"] = 261,
-			["time_left_2"] = 0,
-		},
-		["show_affixes_as_icons"] = false,
 		["best_times"] = {
 			[1771] = {
 				161, -- [1]
@@ -1284,6 +1229,65 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
+		["objectiveTimeInChat"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l19",
+			["quantity_number"] = 261,
+			["cm_level"] = 19,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Freehold",
+			["elapsed_time"] = 2211,
+			["time_left"] = 0,
+			["deathcount_visible"] = true,
+			["steps"] = 5,
+			["death_names"] = {
+				["Dirtyslayer"] = 3,
+				["Evangelos"] = 3,
+				["Backstab"] = 5,
+				["Peace"] = 7,
+				["Toshaman"] = 3,
+			},
+			["deathcount"] = 21,
+			["is_reaping"] = false,
+			["current_zone_id"] = 1754,
+			["max_time"] = 1980,
+			["current_map_id"] = 245,
+			["times"] = {
+				409, -- [1]
+				1179, -- [2]
+				1924, -- [3]
+				2188, -- [4]
+				2211, -- [5]
+				["5last_best_time_zone_level"] = 1837,
+				["4last_best_time_zone_level"] = 2338,
+				["3last_best_time_zone_level"] = 2578,
+				["2last_best_time_zone_level"] = 1806,
+				["1last_best_time_zone_level"] = 305,
+				["5last_best_time_zone"] = 611,
+				["4last_best_time_zone"] = 1150,
+				["3last_best_time_zone"] = 900,
+				["2last_best_time_zone"] = 773,
+				["1last_best_time_zone"] = 188,
+			},
+			["affixes"] = {
+				10, -- [1]
+				7, -- [2]
+				2, -- [3]
+				120, -- [4]
+			},
+			["affixes_key"] = "affixes-2-7-10-120",
+			["final_quantity_number"] = 261,
+			["time_left_2"] = 0,
+		},
+		["show_affixes_as_icons"] = false,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
 		["deathCounter"] = false,
 		["show_affixes_as_text"] = true,
 		["show_reapingtimer"] = true,
@@ -1294,11 +1298,7 @@ MythicPlusTimerDB = {
 		["objectiveTime"] = true,
 		["hide_default_objectivetracker"] = true,
 		["showAffixesAsText"] = true,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
+		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = true,
 		["npc_progress"] = {
@@ -1760,8 +1760,8 @@ MythicPlusTimerDB = {
 			[135240] = {
 				[2] = 117,
 			},
-			[137989] = {
-				108, -- [1]
+			[150253] = {
+				[6] = 2,
 			},
 			[98759] = {
 				[4] = 1,
@@ -1799,8 +1799,8 @@ MythicPlusTimerDB = {
 			[134602] = {
 				[4] = 4,
 			},
-			[141566] = {
-				6, -- [1]
+			[137478] = {
+				[6] = 7,
 			},
 			[116549] = {
 				[4] = 1,
@@ -1835,8 +1835,8 @@ MythicPlusTimerDB = {
 			[98425] = {
 				[4] = 1,
 			},
-			[150253] = {
-				[6] = 2,
+			[137989] = {
+				108, -- [1]
 			},
 			[131858] = {
 				[4] = 18,
@@ -2000,8 +2000,8 @@ MythicPlusTimerDB = {
 			[97678] = {
 				[8] = 1,
 			},
-			[128434] = {
-				[4] = 155,
+			[114637] = {
+				[4] = 1,
 			},
 			[102788] = {
 				[4] = 1,
@@ -2012,8 +2012,8 @@ MythicPlusTimerDB = {
 			[137485] = {
 				[4] = 33,
 			},
-			[155434] = {
-				[4] = 1,
+			[128434] = {
+				[4] = 155,
 			},
 			[114628] = {
 				[4] = 1,
@@ -2249,8 +2249,8 @@ MythicPlusTimerDB = {
 			[97172] = {
 				1, -- [1]
 			},
-			[97173] = {
-				[4] = 1,
+			[129366] = {
+				[4] = 104,
 			},
 			[134174] = {
 				[5] = 30,
@@ -2258,8 +2258,8 @@ MythicPlusTimerDB = {
 			[105636] = {
 				[4] = 1,
 			},
-			[129366] = {
-				[4] = 104,
+			[136347] = {
+				332, -- [1]
 			},
 			[136665] = {
 				[7] = 6,
@@ -2294,8 +2294,8 @@ MythicPlusTimerDB = {
 			[104295] = {
 				1, -- [1]
 			},
-			[136347] = {
-				332, -- [1]
+			[97173] = {
+				[4] = 1,
 			},
 			[133345] = {
 				[5] = 14,
@@ -2336,8 +2336,8 @@ MythicPlusTimerDB = {
 			[106787] = {
 				1, -- [1]
 			},
-			[139799] = {
-				[9] = 87,
+			[129559] = {
+				[4] = 32,
 			},
 			[135263] = {
 				[4] = 24,
@@ -2345,8 +2345,8 @@ MythicPlusTimerDB = {
 			[129367] = {
 				[4] = 22,
 			},
-			[129559] = {
-				[4] = 32,
+			[131112] = {
+				[6] = 46,
 			},
 			[118700] = {
 				[2] = 1,
@@ -2361,8 +2361,8 @@ MythicPlusTimerDB = {
 			[129527] = {
 				[4] = 91,
 			},
-			[131112] = {
-				[6] = 46,
+			[139799] = {
+				[9] = 87,
 			},
 			[98963] = {
 				1, -- [1]
@@ -2557,7 +2557,7 @@ MythicPlusTimerDB = {
 				107.6, -- [1]
 				[4] = 0.003022314549036577,
 			},
-			[114637] = {
+			[155434] = {
 				[4] = 1,
 			},
 			[126497] = {
@@ -2622,8 +2622,8 @@ MythicPlusTimerDB = {
 			[118690] = {
 				[4] = 1,
 			},
-			[137478] = {
-				[6] = 7,
+			[141566] = {
+				6, -- [1]
 			},
 			[122969] = {
 				[4] = 72.2,

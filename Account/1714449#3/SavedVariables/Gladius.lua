@@ -121,7 +121,15 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
+			["aurasBuffsWidth"] = 22,
 			["classIconShowSpec"] = true,
+			["y"] = {
+				["arena1"] = 239.4648335698948,
+			},
+			["x"] = {
+				["arena1"] = 1150.935179569933,
+			},
+			["castBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -134,15 +142,7 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["y"] = {
-				["arena1"] = 239.4648335698948,
-			},
-			["x"] = {
-				["arena1"] = 1150.935179569933,
-			},
 			["aurasBuffsHeight"] = 22,
-			["castBarTexture"] = "ElvUI Norm",
-			["aurasBuffsWidth"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",
@@ -277,17 +277,17 @@ Gladius2DB = {
 			["dispellFaction"] = false,
 			["castBarOffsetY"] = -1,
 			["modules"] = {
-				["Dispel"] = false,
 				["TargetBar"] = true,
 				["Announcements"] = false,
+				["Dispel"] = false,
 			},
 			["dispellGloss"] = false,
 			["locked"] = true,
 			["powerBarHeight"] = 14,
 			["timerOmniCC"] = true,
 			["trinketFaction"] = false,
-			["healthBarTexture"] = "ElvUI Blank",
 			["classIconShowSpec"] = true,
+			["healthBarTexture"] = "ElvUI Blank",
 			["y"] = {
 				["arena1"] = 440.1067810519162,
 			},

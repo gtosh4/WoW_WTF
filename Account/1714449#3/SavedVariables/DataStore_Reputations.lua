@@ -16,18 +16,18 @@ DataStore_ReputationsDB = {
 				["Factions"] = {
 					[7] = 13209,
 					[70] = 250,
-					[113] = 8999,
+					[10] = 9349,
 					[78] = 15574,
 					[8] = 8999,
 					[71] = 250,
 					[9] = 31492,
 					[159] = 9000,
-					[68] = 500,
+					[113] = 8999,
 					[72] = 770,
 					[76] = 13596,
 					[6] = 8999,
 					[69] = 250,
-					[10] = 9349,
+					[68] = 500,
 				},
 				["guildName"] = "sheeple",
 			},
@@ -46,7 +46,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1580712033,
+				["lastUpdate"] = 1587607142,
 				["Factions"] = {
 					[106] = 2800,
 					[38] = 1765,
@@ -65,8 +65,9 @@ DataStore_ReputationsDB = {
 					[80] = 250,
 					[159] = 33726,
 					[49] = 2247,
-					[161] = 26652,
+					[161] = 27671,
 					[17] = 500,
+					[162] = 26652,
 					[29] = 368,
 					[134] = 8000,
 					[135] = 6200,
@@ -93,7 +94,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1587481411,
+				["lastUpdate"] = 1587603402,
 				["Factions"] = {
 					[162] = 32823,
 					[8] = 3600,
@@ -122,7 +123,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Rivalry",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1587481554,
+				["lastUpdate"] = 1587611447,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {

@@ -100,6 +100,9 @@ JambaTeamProfileDB = {
 			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
+			["characterClass"] = {
+				["Toshmonk-Kil'jaeden"] = "MONK",
+			},
 			["master"] = "Toshmonk-Kil'jaeden",
 			["teamList"] = {
 				["Toshmonk-Kil'jaeden"] = 1,

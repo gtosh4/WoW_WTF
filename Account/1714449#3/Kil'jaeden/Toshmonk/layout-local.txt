@@ -9,10 +9,10 @@ H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
-X: -148
-Y: 270
-W: 208
-H: 62
+X: -153
+Y: 274
+W: 204
+H: 58
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: CENTER
@@ -30,8 +30,8 @@ H: 380
 Frame: AdiBagsAnchor1
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
-X: -112
-Y: 202
+X: -110
+Y: 189
 W: 80
 H: 80
 Frame: AstralKeyFrame
@@ -55,13 +55,6 @@ X: 0
 Y: -169
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: LEFT
-X: 0
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -73,7 +66,7 @@ Frame: scanner_button
 FrameLevel: 1
 Anchor: LEFT
 X: 385
-Y: -93
+Y: -121
 W: 200
 H: 50
 Frame: RematchPetCard
@@ -97,6 +90,13 @@ X: 0
 Y: 0
 W: 635
 H: 200
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: LEFT
+X: 0
+Y: 0
+W: 520
+H: 1
 Frame: TomTomCrazyArrow
 FrameLevel: 1
 Anchor: CENTER
