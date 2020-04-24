@@ -6,17 +6,18 @@ SimulationCraftDB = {
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -38,6 +39,8 @@ SimulationCraftDB = {
 				["minimapPos"] = 207.213850930269,
 				["hide"] = true,
 			},
+		},
+		["Toshmoney - Greymane"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["minimap"] = {
@@ -61,19 +64,19 @@ SimulationCraftDB = {
 				["hide"] = true,
 			},
 		},
-		["Toshaman - Area 52"] = {
-		},
-		["Tosh - Frostwolf"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["minimap"] = {
 				["minimapPos"] = 170.156807812235,
 				["hide"] = true,
 			},
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

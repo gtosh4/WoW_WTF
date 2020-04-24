@@ -6,17 +6,18 @@ DataStore_AgendaDB = {
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -32,6 +33,12 @@ DataStore_AgendaDB = {
 			},
 			["Default.Illidan.Toshpriest"] = {
 				["lastUpdate"] = 1585854341,
+			},
+			["Default.Kil'jaeden.Toshpal"] = {
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|387359960"] = "478846|1587607153|0|1",
+				},
+				["lastUpdate"] = 1587607171,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["DungeonIDs"] = {
@@ -50,14 +57,11 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1585715246,
 			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|387359960"] = "478846|1587607153|0|1",
-				},
-				["lastUpdate"] = 1587607171,
-			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544133,
+			},
+			["Default.Greymane.Toshmoney"] = {
+				["lastUpdate"] = 1587675632,
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["Contacts"] = {

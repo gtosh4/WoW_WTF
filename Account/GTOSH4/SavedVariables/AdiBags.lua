@@ -61,7 +61,7 @@ AdiBagsDB = {
 		},
 		["DataSource"] = {
 		},
-		["WoD"] = {
+		["BfA"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,
@@ -85,14 +85,14 @@ AdiBagsDB = {
 						["Seal of Broken Fate"] = false,
 						["Nethershard"] = false,
 						["Timeworn Artifact"] = false,
-						["Apexis Crystal"] = false,
-						["Wakening Essence"] = false,
-						["Garrison Resources"] = false,
 						["Order Resources"] = false,
+						["Wakening Essence"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Apexis Crystal"] = false,
 						["Veiled Argunite"] = false,
 						["Seal of Tempered Fate"] = false,
 						["Curious Coin"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
+						["Garrison Resources"] = false,
 						["Champion's Seal"] = false,
 						["Legionfall War Supplies"] = false,
 					},
@@ -143,7 +143,7 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["BfA"] = {
+		["WoD"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,
@@ -160,17 +160,18 @@ AdiBagsDB = {
 		["Tosku - Kil'jaeden"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
+		["Toshmoney - Greymane"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshtrial - Blood Furnace"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Tosh - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Tosh - Frostwolf"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 		["Sumex - Frostwolf"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},

@@ -6,17 +6,18 @@ DataStoreDB = {
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -40,6 +41,10 @@ DataStoreDB = {
 			["Default.Illidan.Toshpriest"] = {
 				["faction"] = "Horde",
 			},
+			["Default.Kil'jaeden.Toshpal"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
+			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
@@ -52,12 +57,11 @@ DataStoreDB = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Rivalry",
-			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["faction"] = "Horde",
+			},
+			["Default.Greymane.Toshmoney"] = {
+				["faction"] = "Alliance",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["guildName"] = "sheeple",
@@ -84,6 +88,7 @@ DataStoreDB = {
 			["Frostwolf"] = "Frostwolf",
 			["Illidan"] = "Illidan",
 			["BloodFurnace"] = "Blood Furnace",
+			["Greymane"] = "Greymane",
 			["Kil'jaeden"] = "Kil'jaeden",
 			["Area52"] = "Area 52",
 			["TheForgottenCoast"] = "The Forgotten Coast",

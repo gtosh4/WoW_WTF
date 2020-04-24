@@ -14,13 +14,6 @@ oRA3DB = {
 		["Promote"] = {
 		},
 		["Cooldowns"] = {
-			["global"] = {
-				["spellsOnCooldown"] = {
-				},
-				["lastTime"] = 482162.217,
-				["chargeSpellsOnCooldown"] = {
-				},
-			},
 			["profiles"] = {
 				["Default"] = {
 					["spells"] = {
@@ -47,14 +40,15 @@ oRA3DB = {
 		["Toshtrial - Blood Furnace"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
-		["Toshpriest - Area 52"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Tosh - Frostwolf"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Tosh - Frostwolf"] = "Default",
+		["Toshmoney - Greymane"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Sumex - Frostwolf"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
