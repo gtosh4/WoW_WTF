@@ -1,72 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Sci-Kil'jaeden ok", -- [1]
-		"/cw Delpix-Tichondrius ty!", -- [2]
-		"if anyone needed coral", -- [3]
-		"/cw Zenpackage-EmeraldDream sry, everyone all msg'd me", -- [4]
-		"/cw Ogv-Area52 inv", -- [5]
-		"inv", -- [6]
-		"/raid yo", -- [7]
-		"/p splosh already has a 455, so not him", -- [8]
-		"/g 3 trinkets in a row on shaman", -- [9]
-		"/g |cffa335ee|Hitem:169344::::::::120:264::35:5:6536:41:6513:1532:4786:::|h[Ingenious Mana Battery]|h|rpog /s", -- [10]
-		"/g oh, nice delpi", -- [11]
-		" inv", -- [12]
-		"/o torman", -- [13]
-		"/o yorman*", -- [14]
-		"/o less cuts", -- [15]
-		"/dn", -- [16]
-		"/p \"boba is for girls\"", -- [17]
-		" I tried to wake jess up from her nap", -- [18]
-		" to get food before raid", -- [19]
-		" and she was sooo cranky lol", -- [20]
+		" I tried to wake jess up from her nap", -- [1]
+		" to get food before raid", -- [2]
+		" and she was sooo cranky lol", -- [3]
+		"/cw Ogv-Area52 inv", -- [4]
+		"/g oh, nice delpi", -- [5]
+		"/g 3 trinkets in a row on shaman", -- [6]
+		"/cw Sci-Kil'jaeden ok", -- [7]
+		"/cw Zenpackage-EmeraldDream sry, everyone all msg'd me", -- [8]
+		"/o yorman*", -- [9]
+		"/p splosh already has a 455, so not him", -- [10]
+		"to get food before raid", -- [11]
+		"/o less cuts", -- [12]
+		"/raid yo", -- [13]
+		"/dn", -- [14]
+		"/p \"boba is for girls\"", -- [15]
+		"and she was sooo cranky lol", -- [16]
+		"if anyone needed coral", -- [17]
+		"I tried to wake jess up from her nap", -- [18]
+		"inv", -- [19]
+		"/o torman", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"{square}{triangle}{triangle}{triangle}{square}", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			636, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1587602293,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"{square}{square}{square}{square}{square}", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			637, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1587602293,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
 		{
 			"LOL", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -88,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587602296,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
+		}, -- [1]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -110,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602321,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [2]
 		{
 			"alright putting on actual healing gear", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -132,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587602357,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
+		}, -- [3]
 		{
 			"Party Buffs Stamina (19)", -- [1]
 			"Evelitheline-Mal'Ganis", -- [2]
@@ -154,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evelitheline-Mal'Ganis|r",
 			[51] = 1587602370,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
+		}, -- [4]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -176,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [5]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -198,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602394,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [6]
 		{
 			"Bomb (2{rt2}) on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -220,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602473,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [7]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -242,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602485,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [8]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -264,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602486,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [9]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -286,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602487,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [10]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -308,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602495,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [11]
 		{
 			"I'm smol don't step on me =)", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -330,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602495,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [12]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -352,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602497,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [13]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -374,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602498,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [14]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -396,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602500,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [15]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -418,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602501,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [16]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -440,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602503,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [17]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -462,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602504,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [18]
 		{
 			"Bomb (1{rt1}) on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -484,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602505,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [19]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -506,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602506,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [20]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -528,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602507,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [21]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -550,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602509,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [22]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -572,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602510,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [23]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -594,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602510,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [24]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -616,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602512,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [25]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -638,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602512,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [26]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -660,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602513,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [27]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -682,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602513,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [28]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -704,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602515,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [29]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -726,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602515,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [30]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -748,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [31]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -770,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [32]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -792,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602517,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [33]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -814,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602518,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [34]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -836,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602518,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [35]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -858,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602518,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [36]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -880,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602519,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [37]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -902,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602519,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [38]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -924,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602519,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [39]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -946,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602521,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [40]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -968,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602521,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [41]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -990,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [42]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1012,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [43]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1034,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602524,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [44]
 		{
 			"Shrunk", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1056,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602524,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [45]
 		{
 			"Shrunk", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1078,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602525,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [46]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1100,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602540,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [47]
 		{
 			"Bomb (3{rt3}) on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1122,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602543,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [48]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1144,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602555,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [49]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1166,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602556,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [50]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1188,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602557,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [51]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13312:Player-9-0BB19910:1:4:22:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mekkatorque]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -1210,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587602560,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [54]
+		}, -- [52]
 		{
 			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:63::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1232,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602572,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [53]
 		{
 			"good thing i put healing gear on", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1254,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587602574,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [54]
 		{
 			"DELPI", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1276,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587602577,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [55]
 		{
 			"GIME IT", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1298,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587602577,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [56]
 		{
 			"Interrupted Breakwater Elemental's |cff71d5ff|Hspell:289647:0|h[Water Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1320,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587602705,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [57]
 		{
 			"Interrupted Breakwater Elemental's |cff71d5ff|Hspell:289647:0|h[Water Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1342,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587602705,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [58]
 		{
 			"just get a Poortal", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -1364,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1587602748,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [59]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderzmonk-Kil'jaeden", -- [2]
@@ -1386,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Thunderzmonk|r",
 			[51] = 1587602769,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [60]
 		{
 			"1", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1408,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602770,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [61]
 		{
 			"13 left", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1430,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587602778,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [64]
+		}, -- [62]
 		{
 			"24 right", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1452,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587602779,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [65]
+		}, -- [63]
 		{
 			"Party Buffs Stamina (19), Intellect (1)", -- [1]
 			"Evelitheline-Mal'Ganis", -- [2]
@@ -1474,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evelitheline-Mal'Ganis|r",
 			[51] = 1587602800,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [64]
 		{
 			"no", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1496,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602821,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [65]
 		{
 			"gimmie", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1518,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587602828,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [66]
 		{
 			"Sea Storm on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1540,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602853,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [67]
 		{
 			"3", -- [1]
 			"Thuggjr-DemonSoul", -- [2]
@@ -1562,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThuggjr-DemonSoul|r",
 			[51] = 1587602853,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [68]
 		{
 			"2", -- [1]
 			"Thuggjr-DemonSoul", -- [2]
@@ -1584,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThuggjr-DemonSoul|r",
 			[51] = 1587602853,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [69]
 		{
 			"1", -- [1]
 			"Thuggjr-DemonSoul", -- [2]
@@ -1606,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cThuggjr-DemonSoul|r",
 			[51] = 1587602853,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [70]
 		{
 			"Crackling Lightning on Toshaman", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1628,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602871,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [71]
 		{
 			"3", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1650,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602872,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [72]
 		{
 			"2", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1672,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602873,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [73]
 		{
 			"1", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -1694,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587602874,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [74]
 		{
 			"3", -- [1]
 			"Dirtyslayerz-WyrmrestAccord", -- [2]
@@ -1716,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Dirtyslayerz-WyrmrestAccord|r",
 			[51] = 1587602884,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [75]
 		{
 			"2", -- [1]
 			"Dirtyslayerz-WyrmrestAccord", -- [2]
@@ -1738,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Dirtyslayerz-WyrmrestAccord|r",
 			[51] = 1587602885,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [76]
 		{
 			"Interrupted Laminaria's |cff71d5ff|Hspell:288696:0|h[Catastrophic Tides]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -1760,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587602900,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [79]
+		}, -- [77]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1782,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602910,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [78]
 		{
 			"3", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1804,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602917,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [79]
 		{
 			"2", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1826,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602918,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [80]
 		{
 			"1", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1848,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602919,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [81]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1870,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587602928,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [82]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13313:Player-9-0BB19910:1:4:22:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Stormwall Blockade]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -1892,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587602932,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [85]
+		}, -- [83]
 		{
 			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:63::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1914,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587602947,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [84]
 		{
 			"12 fast", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1936,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587603021,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [87]
+		}, -- [85]
 		{
 			"34 slow", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1958,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587603022,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [88]
+		}, -- [86]
 		{
 			"Party Buffs Attack Power (1), Stamina (20), Intellect (1)", -- [1]
 			"Evelitheline-Mal'Ganis", -- [2]
@@ -1980,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evelitheline-Mal'Ganis|r",
 			[51] = 1587603111,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [87]
 		{
 			"dies", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2002,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587603113,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [90]
+		}, -- [88]
 		{
 			"Warlockmania Warlockmania Warlockmania Warlockmania Warlockmania Warlockmania ", -- [1]
 			"Warlockmania-Kil'jaeden", -- [2]
@@ -2024,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1587603129,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [91]
+		}, -- [89]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2046,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603147,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [90]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2068,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587603164,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [91]
 		{
 			"LOL", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2090,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587603178,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [92]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2112,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603190,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [93]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2134,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603200,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [94]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r", -- [1]
 			"Toshaman-Kil'jaeden", -- [2]
@@ -2156,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1587603212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [95]
 		{
 			"3", -- [1]
 			"Dirtyslayerz-WyrmrestAccord", -- [2]
@@ -2178,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Dirtyslayerz-WyrmrestAccord|r",
 			[51] = 1587603234,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [96]
 		{
 			"3", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2200,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587603234,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [97]
 		{
 			"2", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2222,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587603235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [98]
 		{
 			"2", -- [1]
 			"Dirtyslayerz-WyrmrestAccord", -- [2]
@@ -2244,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Dirtyslayerz-WyrmrestAccord|r",
 			[51] = 1587603235,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [99]
 		{
 			"1", -- [1]
 			"Dirtyslayerz-WyrmrestAccord", -- [2]
@@ -2266,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Dirtyslayerz-WyrmrestAccord|r",
 			[51] = 1587603236,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [100]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2288,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603248,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [101]
 		{
 			"3", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2310,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587603266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [102]
 		{
 			"2", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2332,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1587603267,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [103]
 		{
 			"Freezing in 4", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2354,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587603269,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [104]
 		{
 			"3", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2376,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587603274,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [105]
 		{
 			"2", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2398,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587603275,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [106]
 		{
 			"1", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2420,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587603276,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [107]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2442,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603289,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [108]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Andruww-Kil'jaeden", -- [2]
@@ -2464,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruww|r",
 			[51] = 1587603317,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [111]
+		}, -- [109]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2486,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603322,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [110]
 		{
 			"Broadside 3 on {rt3}Cadadk{rt3}", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2508,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587603338,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [111]
 		{
 			"3", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -2530,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1587603341,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [112]
 		{
 			"{rt3}3", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2552,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587603341,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [113]
 		{
 			"2", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -2574,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1587603342,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [114]
 		{
 			"{rt3}2", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2596,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587603342,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [115]
 		{
 			"1", -- [1]
 			"Voidrage-Kil'jaeden", -- [2]
@@ -2618,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cVoidrage|r",
 			[51] = 1587603343,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [116]
 		{
 			"{rt3}1", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2640,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587603343,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [117]
 		{
 			"Mastery Up", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2662,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603346,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [118]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0BB19910:1:4:22:20:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2684,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587603351,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [121]
+		}, -- [119]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-9-0BB19910:1:4:22:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
 			"Cadadk-Kil'jaeden", -- [2]
@@ -2706,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Cadadk|r",
 			[51] = 1587603351,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [122]
+		}, -- [120]
 		{
 			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:63::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2728,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1587603363,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [121]
 		{
 			"thx huys", -- [1]
 			"Evelitheline-Mal'Ganis", -- [2]
@@ -2750,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evelitheline-Mal'Ganis|r",
 			[51] = 1587603390,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [122]
 		{
 			"grats", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2772,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1587603402,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [123]
 		{
 			"thx!", -- [1]
 			"Evelitheline-Mal'Ganis", -- [2]
@@ -2794,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Evelitheline-Mal'Ganis|r",
 			[51] = 1587603402,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [124]
 		{
 			"thanks you 2", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2816,6 +2772,50 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1587603404,
 			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [125]
+		{
+			"WTS Up to 5 Mask Horrific Visions - Get your 470 Corrupted Loot - PST GOLD ONLY! |cffffff00|Hachievement:14140:Player-9-0BAEE5D7:1:3:3:20:4294967295:4294967295:4294967295:4294967295|h[Mad World]|h|r", -- [1]
+			"Crude-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Crude-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			614, -- [11]
+			"Player-9-0BAEE5D7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Crude|r",
+			[51] = 1587740709,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"WTS TCG Pet |cff0070dd|Hbattlepet:169:1:3:152:10:13:0000000000000000:0|h[Dragon Kite]|h|r", -- [1]
+			"Realfakedoor-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Realfakedoor-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1012, -- [11]
+			"Player-9-0BB094BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8686ecRealfakedoor|r",
+			[51] = 1587740883,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

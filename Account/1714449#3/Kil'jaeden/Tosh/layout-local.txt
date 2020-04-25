@@ -27,34 +27,6 @@ X: -20
 Y: 0
 W: 750
 H: 480
-Frame: BDLC Config
-FrameLevel: 9
-Anchor: CENTER
-X: 0
-Y: 0
-W: 320
-H: 550
-Frame: scanner_button
-FrameLevel: 200
-Anchor: LEFT
-X: 91
-Y: 127
-W: 200
-H: 50
-Frame: ViragDevToolFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
-W: 635
-H: 200
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -62,3 +34,31 @@ X: -525
 Y: -261
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
+Frame: BDLC Config
+FrameLevel: 9
+Anchor: CENTER
+X: 0
+Y: 0
+W: 320
+H: 550
+Frame: ViragDevToolFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 635
+H: 200
+Frame: scanner_button
+FrameLevel: 200
+Anchor: LEFT
+X: 91
+Y: 127
+W: 200
+H: 50

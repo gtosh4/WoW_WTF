@@ -121,8 +121,8 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
-			["aurasBuffsWidth"] = 22,
 			["classIconShowSpec"] = true,
+			["aurasBuffsHeight"] = 22,
 			["y"] = {
 				["arena1"] = 239.4648335698948,
 			},
@@ -142,7 +142,7 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["aurasBuffsHeight"] = 22,
+			["aurasBuffsWidth"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",
@@ -286,8 +286,8 @@ Gladius2DB = {
 			["powerBarHeight"] = 14,
 			["timerOmniCC"] = true,
 			["trinketFaction"] = false,
-			["classIconShowSpec"] = true,
 			["healthBarTexture"] = "ElvUI Blank",
+			["classIconShowSpec"] = true,
 			["y"] = {
 				["arena1"] = 440.1067810519162,
 			},
