@@ -25,9 +25,9 @@ JambaPurchaseProfileDB = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Toshmoney - Greymane"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
@@ -37,7 +37,7 @@ JambaPurchaseProfileDB = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshmoney - Greymane"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
 		},

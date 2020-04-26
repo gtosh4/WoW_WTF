@@ -25,9 +25,9 @@ JambaToonProfileDB = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Toshmoney - Greymane"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
@@ -37,7 +37,7 @@ JambaToonProfileDB = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshmoney - Greymane"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
 			["acceptDeathRequests"] = false,

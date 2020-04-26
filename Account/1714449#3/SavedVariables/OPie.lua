@@ -6,6 +6,9 @@ OneRing_Config = {
 	["_OPieVersion"] = "Walnut 6 (3.101)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "ABuehM6q7Se",
+			},
 			["Bindings"] = {
 				["SpecMenu"] = "ALT-A",
 				["CommonTrades"] = false,
@@ -13,13 +16,10 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["Mounts"] = "ALT-1",
-				["OPieTracking"] = false,
-				["OPieAutoQuest"] = "ALT-S",
 				["PaladinAuras"] = false,
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "ABuehM6q7Se",
+				["OPieAutoQuest"] = "ALT-S",
+				["OPieTracking"] = false,
+				["Mounts"] = "ALT-1",
 			},
 		},
 	},
@@ -40,10 +40,10 @@ OneRing_Config = {
 					407, -- [2]
 					["sliceToken"] = "ABuefXkFMje",
 				}, -- [3]
-				["quarantineBind"] = "ALT-1",
+				["offset"] = 0,
 				["name"] = "Mounts",
 				["save"] = true,
-				["offset"] = 0,
+				["quarantineBind"] = "ALT-1",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,

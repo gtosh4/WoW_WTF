@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 2328,
+	["session"] = 2330,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -39,8 +39,8 @@ BugGrabberDB = {
 			["time"] = "2020/04/24 21:48:49",
 			["locals"] = "Skipped (In Encounter)",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:69: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:56: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2687: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2768: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2456: in function <Interface\\FrameXML\\UIParent.lua:2448>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3326: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
-			["session"] = 2328,
-			["counter"] = 1,
+			["session"] = 2329,
+			["counter"] = 2,
 		}, -- [5]
 	},
 }

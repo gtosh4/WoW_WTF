@@ -140,6 +140,20 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
+		["Sumex"] = {
+			["profile"] = "default",
+			["name"] = "Sumex",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
@@ -157,20 +171,6 @@ BD_persistent = {
 		["Toshmonk"] = {
 			["profile"] = "default",
 			["name"] = "Toshmonk",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Sumex"] = {
-			["profile"] = "default",
-			["name"] = "Sumex",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -250,6 +250,26 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = false,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["doubleclickbo"] = true,
+			["skingmotd"] = true,
+			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
 			["gmotd"] = {
 				[""] = true,
 				["welcome"] = true,
@@ -336,26 +356,6 @@ BD_persistent = {
 				["doing 3 sets of bod clear wed @ 7pm cst. Mythic nzoth fri/sat 830pm cst "] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
-			["font"] = "Friz Quadrata TT",
-			["skingmotd"] = true,
-			["changefonts"] = false,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

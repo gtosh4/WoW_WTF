@@ -20,8 +20,8 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpriest"] = {
 						["note"] = "",
-						["level"] = 60,
 						["class"] = "Priest",
+						["level"] = 60,
 					},
 				},
 				["lastUpdate"] = 1587015374,
@@ -48,9 +48,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|387366557"] = "314896|1587771103|0|1",
+					["Battle of Dazar'alor Mythic|387366557"] = "201757|1587884242|0|1",
+					["Ny'alotha, the Waking City Heroic|387635206"] = "201757|1587884242|0|1",
 				},
-				["lastUpdate"] = 1587771117,
+				["lastUpdate"] = 1587884260,
 			},
 		},
 	},
