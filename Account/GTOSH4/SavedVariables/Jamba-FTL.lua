@@ -114,22 +114,31 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Toshmoney - Greymane"] = {
+		["Koutetsu - Frostwolf"] = {
 			["CharListWithModifiers"] = {
-				["Toshmoney-Greymane"] = {
+				["Koutetsu-Frostwolf"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 			},
 		},
-		["Toshaman - Area 52"] = {
+		["Toshmoney - Greymane"] = {
 			["CharListWithModifiers"] = {
-				["Toshaman-Area52"] = {
+				["Toshmoney-Greymane"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -237,24 +246,15 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["CharListWithModifiers"] = {
-				["Koutetsu-Frostwolf"] = {
+				["Toshaman-Area52"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
-					["lalt"] = false,
-				},
-				["Toshpal-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
 					["lctrl"] = false,
-					["rshift"] = false,
 					["lalt"] = false,
 				},
 			},

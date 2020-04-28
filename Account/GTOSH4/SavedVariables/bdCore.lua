@@ -140,6 +140,20 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
+		["Toshmonk"] = {
+			["profile"] = "default",
+			["name"] = "Toshmonk",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 		["Sumex"] = {
 			["profile"] = "default",
 			["name"] = "Sumex",
@@ -157,20 +171,6 @@ BD_persistent = {
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Toshmonk"] = {
-			["profile"] = "default",
-			["name"] = "Toshmonk",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -250,26 +250,6 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				[""] = true,
 				["welcome"] = true,
@@ -316,6 +296,7 @@ BD_persistent = {
 				["Dec 27/28 just doing Mythic Bod for mount. Heroic @ 7pm Mythic @ 8pm CST WED. Main Raid 830pm-1230am cst."] = true,
 				["Mythic BoD x2 Wed @ 7pm CST. mythic nzoth fri/sat 830pm cst "] = true,
 				["H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
+				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 				["main raid tonight slay stormwall :)"] = true,
 				["kill n'zoth pls. main raid fri/sat 830pm-1230am cst"] = true,
@@ -356,6 +337,26 @@ BD_persistent = {
 				["doing 3 sets of bod clear wed @ 7pm cst. Mythic nzoth fri/sat 830pm cst "] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
+			["font"] = "Friz Quadrata TT",
+			["skingmotd"] = true,
+			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

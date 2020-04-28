@@ -30,10 +30,10 @@ JambaDisplayTeamProfileDB = {
 		["Daggny - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshmoney - Greymane"] = {
+		["Koutetsu - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshaman - Area 52"] = {
+		["Toshmoney - Greymane"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Tosku - Kil'jaeden"] = {
@@ -49,7 +49,7 @@ JambaDisplayTeamProfileDB = {
 		["Tosh - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Default"] = {

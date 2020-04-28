@@ -17,18 +17,18 @@ DataStore_ReputationsDB = {
 				["Factions"] = {
 					[7] = 13209,
 					[70] = 250,
-					[10] = 9349,
+					[113] = 8999,
 					[78] = 15574,
 					[8] = 8999,
 					[71] = 250,
 					[9] = 31492,
 					[76] = 13596,
-					[113] = 8999,
+					[68] = 500,
 					[72] = 770,
 					[159] = 9000,
 					[6] = 8999,
 					[69] = 250,
-					[68] = 500,
+					[10] = 9349,
 				},
 			},
 			["Default.Dreadmaul.Toshaman"] = {
@@ -94,7 +94,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1587740302,
+				["lastUpdate"] = 1588046054,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -113,9 +113,9 @@ DataStore_ReputationsDB = {
 					[6] = 3600,
 					[157] = 30085,
 					[161] = 31761,
-					[106] = 2800,
-					[7] = 3600,
 					[14] = 350,
+					[7] = 3600,
+					[106] = 2800,
 					[158] = 22475,
 					[17] = 500,
 					[29] = 60,
@@ -123,7 +123,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1587884240,
+				["lastUpdate"] = 1588039456,
 				["Factions"] = {
 					[162] = 33352,
 					[8] = 500,

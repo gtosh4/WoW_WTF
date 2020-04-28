@@ -39,9 +39,9 @@ VWQL = {
 			[51983] = true,
 			[55302] = true,
 			[50964] = true,
-			[52238] = true,
-			[49013] = true,
 			[51153] = true,
+			[49013] = true,
+			[52238] = true,
 			[51123] = true,
 			[50845] = true,
 			[50877] = true,
@@ -84,9 +84,9 @@ VWQL = {
 			[50850] = true,
 			[50695] = true,
 			[50665] = true,
-			[54697] = true,
 			[50636] = true,
 			[51628] = true,
+			[54697] = true,
 			[54699] = true,
 			[51047] = true,
 			[51496] = true,
@@ -109,10 +109,24 @@ VWQL = {
 		["FilterType"] = {
 		},
 		["Quests"] = {
-			[43943] = true,
+			[50578] = true,
+			[51638] = true,
+			[51051] = true,
 			[54896] = true,
+			[51584] = true,
+			[51895] = true,
+			[53076] = true,
+			[52458] = true,
 			[55466] = true,
-			[52295] = true,
+			[55344] = true,
+			[51610] = true,
+			[51671] = true,
+			[51660] = true,
+			[52341] = true,
+			[52869] = true,
+			[50866] = true,
+			[43943] = true,
+			[50853] = true,
 		},
 		["VERSION"] = 92,
 	},
@@ -205,14 +219,6 @@ VWQL = {
 		},
 		["Filter"] = 63,
 	},
-	["Tosh-Kil'jaeden"] = {
-		["VERSION"] = 85,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-		},
-		["Filter"] = 63,
-	},
 	["Toshmoney-Greymane"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
@@ -221,6 +227,14 @@ VWQL = {
 		},
 		["FilterType"] = {
 		},
+	},
+	["Tosh-Kil'jaeden"] = {
+		["VERSION"] = 85,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
 	},
 	["Ignore"] = {
 	},
