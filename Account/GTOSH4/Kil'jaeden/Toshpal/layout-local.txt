@@ -111,13 +111,6 @@ X: -242
 Y: 163
 W: 790
 H: 625
-Frame: SimcCopyFrame
-FrameLevel: 1
-Anchor: CENTER
-X: -8
-Y: -7
-W: 700
-H: 450
 Frame: ViragDevToolFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -125,6 +118,13 @@ X: -223
 Y: 27
 W: 701
 H: 859
+Frame: SimcCopyFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -8
+Y: -7
+W: 700
+H: 450
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: CENTER

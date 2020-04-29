@@ -5,12 +5,12 @@ JambaItemUseProfileDB = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -18,6 +18,8 @@ JambaItemUseProfileDB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
+			["itemUseTitleHeight"] = 2,
+			["frameYOffset"] = 210.6496734619141,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -100,8 +102,6 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["frameYOffset"] = 210.6496734619141,
-			["itemUseTitleHeight"] = 2,
 			["frameXOffset"] = -9.390840530395508,
 		},
 		["Toshdk - Kil'jaeden"] = {
@@ -362,7 +362,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshmoney - Greymane"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -447,7 +447,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshmoney - Greymane"] = {
+		["Toshaman - Area 52"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -870,7 +870,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",

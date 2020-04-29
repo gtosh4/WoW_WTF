@@ -12,20 +12,20 @@ DataStore_AgendaDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-04-28",
+			["NextWeeklyReset"] = "2020-05-05",
 		},
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
@@ -34,13 +34,10 @@ DataStore_AgendaDB = {
 			["Default.Illidan.Toshpriest"] = {
 				["lastUpdate"] = 1585854341,
 			},
-			["Default.Frostwolf.Koutetsu"] = {
-				["lastUpdate"] = 1581544133,
+			["Default.Kil'jaeden.Toshpal"] = {
+				["lastUpdate"] = 1588124718,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|387366557"] = "469642|1587616356|0|1",
-				},
 				["lastUpdate"] = 1587616495,
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
@@ -54,37 +51,33 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1585715246,
 			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|385293468"] = "50206|1588035792|0|1",
-					["Battle of Dazar'alor Mythic|387359960"] = "50206|1588035792|0|1",
-				},
-				["lastUpdate"] = 1588035790,
+			["Default.Frostwolf.Koutetsu"] = {
+				["lastUpdate"] = 1581544133,
 			},
 			["Default.Greymane.Toshmoney"] = {
 				["lastUpdate"] = 1587675632,
-			},
-			["Default.Frostwolf.Sumex"] = {
-				["lastUpdate"] = 1581544171,
-			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1581544004,
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1586184227,
-			},
-			["Default.Frostwolf.Tosh"] = {
-				["lastUpdate"] = 1581544041,
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["Contacts"] = {
 					["Toshpal"] = {
 						["note"] = "<Away>",
-						["level"] = 60,
 						["class"] = "Paladin",
+						["level"] = 60,
 					},
 				},
 				["lastUpdate"] = 1587015372,
+			},
+			["Default.Frostwolf.Tosh"] = {
+				["lastUpdate"] = 1581544041,
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1586184227,
+			},
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1581544004,
+			},
+			["Default.Frostwolf.Sumex"] = {
+				["lastUpdate"] = 1581544171,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,

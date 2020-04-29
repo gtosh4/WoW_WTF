@@ -108,6 +108,8 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["interrupt"] = true,
 			["gmotd"] = {
 				["First 3 M EP  WED @ 7pm CST. Mythic EP FRI @ normal raid time. Only raiding FRI this week."] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -162,16 +164,16 @@ BD_persistent = {
 				[""] = true,
 				["H EP tonight @ 7pm cst(wed) if people are around. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
-				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
 				["Mythic nzoth fri/sat 830pm cst "] = true,
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
-				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
+				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
+				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
 				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["heroic bod @ 7pm cst wed "] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Mythic first 3 wed @8pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
@@ -184,8 +186,6 @@ BD_persistent = {
 				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
-			["interrupt"] = true,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -194,8 +194,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -203,8 +203,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["changefonts"] = false,
-			["font"] = "Friz Quadrata TT",
+			["skinwas"] = false,
+			["doubleclickbo"] = true,
 			["topViewport"] = 0,
 		},
 	},

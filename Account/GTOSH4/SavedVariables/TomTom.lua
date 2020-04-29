@@ -12,13 +12,13 @@ TomTomDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshtrial - Blood Furnace"] = "Default",
-		["Sumex - Frostwolf"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Tosh - Frostwolf"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Tosh - Frostwolf"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Sumex - Frostwolf"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
@@ -52,13 +52,13 @@ TomTomWaypointsM = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -84,9 +84,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -108,19 +108,19 @@ TomTomWaypointsM = {
 		},
 		["Toshtrial - Blood Furnace"] = {
 		},
-		["Sumex - Frostwolf"] = {
-		},
-		["Toshaman - Area 52"] = {
-		},
-		["Tosh - Frostwolf"] = {
-		},
-		["Tosh - Kil'jaeden"] = {
-		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Toshaman - Kil'jaeden"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
+		["Tosh - Frostwolf"] = {
+		},
+		["Toshaman - Area 52"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+		},
+		["Sumex - Frostwolf"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},
