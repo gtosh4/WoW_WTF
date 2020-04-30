@@ -17,6 +17,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
+		["Toshmoney - Quel'dorei"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",

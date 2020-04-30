@@ -11,6 +11,7 @@ OmniBarDB = {
 		["Zallie - Frostwolf"] = "Default",
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
+		["Toshmoney - Quel'dorei"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 		["Tosh - Frostwolf"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",

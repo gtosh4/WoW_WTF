@@ -9,8 +9,8 @@ JambaDisplayTeamProfileDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["showTeamList"] = false,
 			["teamListTitleHeight"] = 0,
+			["showTeamList"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,

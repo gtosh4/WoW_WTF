@@ -20,8 +20,8 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpriest"] = {
 						["note"] = "",
-						["class"] = "Priest",
 						["level"] = 60,
+						["class"] = "Priest",
 					},
 				},
 				["lastUpdate"] = 1587015374,
@@ -35,10 +35,16 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1587607166,
+				["lastUpdate"] = 1588212380,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|388009021"] = "478511|1588212287|0|1",
+				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1588129138,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|388004873"] = "482133|1588208665|0|1",
+				},
+				["lastUpdate"] = 1588208710,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1588126871,

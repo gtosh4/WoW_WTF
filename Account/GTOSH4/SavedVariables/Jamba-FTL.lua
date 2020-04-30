@@ -5,6 +5,7 @@ JambaFTLProfileDB = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
@@ -92,6 +93,19 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
+		["Toshmoney - Quel'dorei"] = {
+			["CharListWithModifiers"] = {
+				["Toshmoney-Quel'dorei"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
 		["Daggny - Frostwolf"] = {
 			["CharListWithModifiers"] = {
 				["Daggny-Frostwolf"] = {
@@ -114,9 +128,9 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Toshmoney - Greymane"] = {
+		["Toshaman - Area 52"] = {
 			["CharListWithModifiers"] = {
-				["Toshmoney-Greymane"] = {
+				["Toshaman-Area52"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -127,15 +141,24 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 			["CharListWithModifiers"] = {
-				["Toshaman-Area52"] = {
+				["Koutetsu-Frostwolf"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},
@@ -237,24 +260,15 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshmoney - Greymane"] = {
 			["CharListWithModifiers"] = {
-				["Koutetsu-Frostwolf"] = {
+				["Toshmoney-Greymane"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
-					["lalt"] = false,
-				},
-				["Toshpal-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
 					["rshift"] = false,
-					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},

@@ -140,20 +140,6 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Sumex"] = {
-			["profile"] = "default",
-			["name"] = "Sumex",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
@@ -171,6 +157,20 @@ BD_persistent = {
 		["Toshmonk"] = {
 			["profile"] = "default",
 			["name"] = "Toshmonk",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Sumex"] = {
+			["profile"] = "default",
+			["name"] = "Sumex",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -227,7 +227,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshpal",
+		["name"] = "Toshmoney",
 		["spec_profile"] = {
 			{
 			}, -- [1]

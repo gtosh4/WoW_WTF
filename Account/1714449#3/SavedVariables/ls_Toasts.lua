@@ -19,8 +19,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["point"] = {
 						["rP"] = "TOP",
 						["p"] = "TOP",
-						["y"] = -99,
 						["x"] = -3,
+						["y"] = -99,
 					},
 				}, -- [1]
 			},
@@ -31,11 +31,12 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["world"] = {
-					["anchor"] = 1,
+				["transmog"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["left_click"] = false,
 				},
 				["loot_currency"] = {
 					["enabled"] = true,
@@ -50,18 +51,17 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["loot_gold"] = {
+				["store"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["track_loss"] = false,
-					["threshold"] = 1,
+					["left_click"] = false,
 				},
-				["recipe"] = {
+				["garrison_7_0"] = {
 					["anchor"] = 1,
 					["enabled"] = true,
-					["dnd"] = false,
+					["dnd"] = true,
 					["sfx"] = true,
 				},
 				["loot_special"] = {
@@ -69,8 +69,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["threshold"] = 1,
 					["ilvl"] = true,
+					["threshold"] = 1,
 				},
 				["achievement"] = {
 					["enabled"] = true,
@@ -94,9 +94,9 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["threshold"] = 3,
-					["quest"] = true,
 					["ilvl"] = true,
+					["quest"] = true,
+					["threshold"] = 3,
 				},
 				["collection"] = {
 					["enabled"] = true,
@@ -105,25 +105,25 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["garrison_7_0"] = {
+				["recipe"] = {
 					["anchor"] = 1,
 					["enabled"] = true,
-					["dnd"] = true,
+					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["store"] = {
+				["loot_gold"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["left_click"] = false,
+					["track_loss"] = false,
+					["threshold"] = 1,
 				},
-				["transmog"] = {
+				["world"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
-					["anchor"] = 1,
-					["left_click"] = false,
 				},
 			},
 		},

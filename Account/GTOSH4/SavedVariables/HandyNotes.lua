@@ -4,6 +4,7 @@ HandyNotesDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -24,6 +25,8 @@ HandyNotesDB = {
 			["icon_alpha_minimap"] = 0.36,
 		},
 		["Toshpriest - Illidan"] = {
+		},
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
@@ -58,6 +61,7 @@ HandyNotes_HandyNotesDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -77,6 +81,8 @@ HandyNotes_HandyNotesDB = {
 		["Toshdk - Kil'jaeden"] = {
 		},
 		["Toshpriest - Illidan"] = {
+		},
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},

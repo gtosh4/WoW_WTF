@@ -11,13 +11,14 @@ DataStore_PetsDB = {
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -65,14 +66,14 @@ DataStore_PetsDB = {
 				[177225] = 143809,
 				[177241] = 143797,
 				[301031] = 154833,
-				[280332] = 143816,
+				[193514] = 97205,
 				[51851] = 28513,
 				[193434] = 98116,
 				[280331] = 143815,
 				[210691] = 99526,
 				[177226] = 143808,
 				[315225] = 161921,
-				[301033] = 154835,
+				[280332] = 143816,
 				[274776] = 140125,
 				[179830] = 90201,
 				[223359] = 112144,
@@ -102,7 +103,7 @@ DataStore_PetsDB = {
 				[273195] = 139073,
 				[315297] = 161961,
 				[288914] = 148991,
-				[173547] = 86719,
+				[177230] = 143805,
 				[301136] = 154893,
 				[312030] = 160196,
 				[42609] = 23909,
@@ -119,8 +120,8 @@ DataStore_PetsDB = {
 				[288598] = 148844,
 				[240064] = 120397,
 				[288916] = 148995,
-				[177230] = 143805,
 				[191073] = 96405,
+				[173547] = 86719,
 				[315301] = 161963,
 				[10675] = 7383,
 				[89039] = 47944,
@@ -131,7 +132,7 @@ DataStore_PetsDB = {
 				[176140] = 88225,
 				[315303] = 161966,
 				[78683] = 42177,
-				[193514] = 97205,
+				[301033] = 154835,
 				[225200] = 113136,
 				[315304] = 161967,
 				[97638] = 52831,
@@ -149,11 +150,14 @@ DataStore_PetsDB = {
 			["Default.Area 52.Toshaman"] = {
 				["lastUpdate"] = 1587014541,
 			},
+			["Default.Quel'dorei.Toshmoney"] = {
+				["lastUpdate"] = 1588221831,
+			},
 			["Default.Illidan.Toshpriest"] = {
 				["lastUpdate"] = 1585854323,
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1588124713,
+				["lastUpdate"] = 1588220605,
 				["CRITTER"] = {
 					315302, -- [1]
 					315229, -- [2]
@@ -201,7 +205,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1587616355,
+				["lastUpdate"] = 1588216135,
 				["CRITTER"] = {
 					315302, -- [1]
 					315290, -- [2]

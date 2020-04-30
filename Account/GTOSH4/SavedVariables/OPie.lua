@@ -7,6 +7,7 @@ OneRing_Config = {
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
+				["WarlockLTS"] = false,
 				["SpecMenu"] = "ALT-A",
 				["CommonTrades"] = false,
 				["DruidShift"] = false,

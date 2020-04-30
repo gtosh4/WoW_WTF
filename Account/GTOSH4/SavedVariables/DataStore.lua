@@ -11,13 +11,14 @@ DataStoreDB = {
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -36,6 +37,9 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Quel'dorei.Toshmoney"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Illidan.Toshpriest"] = {
@@ -87,6 +91,7 @@ DataStoreDB = {
 		["ShortToLongRealmNames"] = {
 			["Frostwolf"] = "Frostwolf",
 			["Illidan"] = "Illidan",
+			["Quel'dorei"] = "Quel'dorei",
 			["BloodFurnace"] = "Blood Furnace",
 			["Greymane"] = "Greymane",
 			["Kil'jaeden"] = "Kil'jaeden",

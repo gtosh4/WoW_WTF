@@ -11,13 +11,14 @@ DeathNoteDB = {
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -64,20 +65,22 @@ DeathNoteDB = {
 		["Toshpal - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
+				["y"] = 277.2322692871094,
+				["namelist"] = 2,
 				["columns"] = {
 					nil, -- [1]
 					90.00011444091797, -- [2]
 					nil, -- [3]
 					159.37109375, -- [4]
 				},
-				["w"] = 1027.043823242188,
-				["y"] = 277.2322692871094,
 				["h"] = 734.4656372070312,
+				["w"] = 1027.043823242188,
 				["x"] = 1026.921325683594,
-				["namelist"] = 2,
 			},
 		},
 		["Toshpriest - Illidan"] = {
+		},
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Toshtrial - Blood Furnace"] = {
 		},
@@ -91,14 +94,6 @@ DeathNoteDB = {
 				["namelist"] = 2,
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Tosh - Frostwolf"] = {
-		},
-		["Toshaman - Area 52"] = {
-		},
-		["Toshtrial - The Forgotten Coast"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
@@ -108,6 +103,14 @@ DeathNoteDB = {
 				["w"] = 699.999633789063,
 				["h"] = 500.000183105469,
 			},
+		},
+		["Tosh - Frostwolf"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

@@ -4,49 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 369,
-		["splits"] = {
-			873, -- [1]
-			1584, -- [2]
-			455, -- [3]
-			1834, -- [4]
-			1473, -- [5]
-			["party1Name"] = "Toshpal",
-			["party1Class"] = "Paladin",
-			["party4Class"] = "Hunter",
-			["party2Name"] = "Rivalry",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 2280,
-			["level"] = 19,
-			["timeElapsed"] = 1834.37,
-			["party3Role"] = "TANK",
-			["affixes3"] = 14,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Evandh",
-			["affixes2"] = 8,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Aeth",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Demon Hunter",
-			["wasEnergized"] = true,
-			["affixes1"] = 10,
-			["party5Class"] = "Warrior",
-			["mapID"] = 2097,
-			["party2Role"] = "DAMAGER",
-			["date"] = 1588124583,
-			["party2Class"] = "Demon Hunter",
-			["party5Name"] = "Pulverize",
-		},
 		["playerDeaths"] = {
-			["Rivalry"] = 2,
-			["Aeth-Zul'jin"] = 2,
-		},
-		["splitNames"] = {
-			"King Gobbamak defeated", -- [1]
-			"Gunker defeated", -- [2]
-			"Trixie & Naeno defeated", -- [3]
-			"HK-8 Aerial Oppression Unit defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -141,9 +99,9 @@ AngryKeystones_Data = {
 			[9] = 140,
 		},
 		[148893] = {
+			[7] = 1,
 			[9] = 1,
 			[4] = 1,
-			[7] = 1,
 		},
 		[133436] = {
 			[5] = 5,
