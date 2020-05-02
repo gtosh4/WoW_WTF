@@ -5,13 +5,13 @@ JambaDisplayTeamProfileDB = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -28,14 +28,15 @@ JambaDisplayTeamProfileDB = {
 		["Toshpriest - Illidan"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Toshaman - Area 52"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Daggny - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshaman - Area 52"] = {
+		["Toshpriest - Area 52"] = {
 			["teamListTitleHeight"] = 0,
+			["showTeamList"] = false,
 		},
 		["Koutetsu - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
@@ -43,9 +44,8 @@ JambaDisplayTeamProfileDB = {
 		["Tosku - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshpriest - Area 52"] = {
+		["Toshmoney - Quel'dorei"] = {
 			["teamListTitleHeight"] = 0,
-			["showTeamList"] = false,
 		},
 		["Yorman - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,
@@ -57,8 +57,8 @@ JambaDisplayTeamProfileDB = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Default"] = {
-			["teamListTitleHeight"] = 0,
 			["showTeamList"] = false,
+			["teamListTitleHeight"] = 0,
 		},
 		["Zallie - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,

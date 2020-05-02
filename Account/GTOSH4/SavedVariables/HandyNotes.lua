@@ -4,18 +4,18 @@ HandyNotesDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -26,31 +26,31 @@ HandyNotesDB = {
 		},
 		["Toshpriest - Illidan"] = {
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Toshpriest - Area 52"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Sumex - Frostwolf"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-			["icon_scale"] = 0.6000000000000001,
-			["icon_scale_minimap"] = 0.8,
+		["Toshmoney - Greymane"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
-		["Toshpriest - Area 52"] = {
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshmoney - Greymane"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
 		["Zallie - Frostwolf"] = {
 		},
-		["Sumex - Frostwolf"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["icon_scale"] = 0.6000000000000001,
+			["icon_scale_minimap"] = 0.8,
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},
@@ -61,18 +61,18 @@ HandyNotes_HandyNotesDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -82,29 +82,29 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Toshpriest - Illidan"] = {
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Toshpriest - Area 52"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Sumex - Frostwolf"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
+		["Toshmoney - Greymane"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
-		["Toshpriest - Area 52"] = {
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshmoney - Greymane"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
 		["Zallie - Frostwolf"] = {
 		},
-		["Sumex - Frostwolf"] = {
+		["Toshaman - Kil'jaeden"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

@@ -9,15 +9,15 @@ JambaQuestProfileDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["acceptFromTeam"] = true,
 			["noChoiceAllDoNothing"] = true,
-			["hasChoiceSlaveDoNothing"] = true,
-			["noChoiceSlaveCompleteQuestWithMaster"] = false,
 			["hasChoiceAquireBestQuestRewardForCharacter"] = false,
-			["doNotAutoAccept"] = false,
+			["hasChoiceSlaveDoNothing"] = true,
+			["acceptFromTeam"] = true,
+			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
 			["masterAutoShareQuestOnAccept"] = true,
 			["onlyAcceptQuestsFrom"] = true,
-			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
+			["doNotAutoAccept"] = false,
+			["noChoiceSlaveCompleteQuestWithMaster"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["showJambaQuestLogWithWoWQuestLog"] = false,

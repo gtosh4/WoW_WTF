@@ -1,9 +1,16 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshmonk-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshaman-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Unknown-kiljaeden"] = true,
-	["us-Incredibad-kiljaeden"] = true,
-	["us-Lunatick-darkspear"] = true,
+	["us-Snackysun-tichondrius"] = true,
+	["us-Phonetical-tichondrius"] = true,
+	["us-Braeu-tichondrius"] = true,
+	["us-Tokenbullguy-tichondrius"] = true,
+	["us-Succeed-proudmoore"] = true,
+	["us-Deadlee-blackrock"] = true,
+	["us-Snackyhere-tichondrius"] = true,
+	["us-Roknothar-blackrock"] = true,
+	["us-Snackyfarm-tichondrius"] = true,
+	["us-Twinscroll-blackrock"] = true,
 }
