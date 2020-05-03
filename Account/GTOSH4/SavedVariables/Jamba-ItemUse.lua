@@ -5,13 +5,13 @@ JambaItemUseProfileDB = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -19,6 +19,8 @@ JambaItemUseProfileDB = {
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
+			["itemUseTitleHeight"] = 2,
+			["frameYOffset"] = 210.6496734619141,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -101,8 +103,6 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["frameYOffset"] = 210.6496734619141,
-			["itemUseTitleHeight"] = 2,
 			["frameXOffset"] = -9.390840530395508,
 		},
 		["Toshdk - Kil'jaeden"] = {
@@ -448,16 +448,18 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshpriest - Area 52"] = {
+		["Toshmoney - Quel'dorei"] = {
 			["itemsAdvanced"] = {
 				{
-					["action"] = "item:34710",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [1]
 				{
+					["action"] = "empty",
 					["kind"] = "empty",
 				}, -- [2]
 				{
+					["action"] = "empty",
 					["kind"] = "empty",
 				}, -- [3]
 				{
@@ -701,18 +703,16 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Toshpriest - Area 52"] = {
 			["itemsAdvanced"] = {
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:34710",
+					["kind"] = "item",
 				}, -- [1]
 				{
-					["action"] = "empty",
 					["kind"] = "empty",
 				}, -- [2]
 				{
-					["action"] = "empty",
 					["kind"] = "empty",
 				}, -- [3]
 				{

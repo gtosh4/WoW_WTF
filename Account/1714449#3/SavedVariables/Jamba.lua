@@ -90,13 +90,13 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
 			},
 			["master"] = "Tosh-Kil'jaeden",
-			["characterOnline"] = {
-				["Tosh-Kil'jaeden"] = true,
-				["Toshdk-Kil'jaeden"] = true,
-			},
 			["teamList"] = {
 				["Tosh-Kil'jaeden"] = 2,
 				["Toshdk-Kil'jaeden"] = 1,
+			},
+			["characterOnline"] = {
+				["Tosh-Kil'jaeden"] = true,
+				["Toshdk-Kil'jaeden"] = true,
 			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
@@ -104,31 +104,31 @@ JambaTeamProfileDB = {
 				["Toshmonk-Kil'jaeden"] = "MONK",
 			},
 			["master"] = "Toshmonk-Kil'jaeden",
-			["teamList"] = {
-				["Toshmonk-Kil'jaeden"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshmonk-Kil'jaeden"] = true,
+			},
+			["teamList"] = {
+				["Toshmonk-Kil'jaeden"] = 1,
 			},
 		},
 		["Toshaman - Dreadmaul"] = {
 			["master"] = "Toshaman-Dreadmaul",
-			["teamList"] = {
-				["Toshaman-Dreadmaul"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshaman-Dreadmaul"] = true,
+			},
+			["teamList"] = {
+				["Toshaman-Dreadmaul"] = 1,
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["master"] = "Toshaman-Kil'jaeden",
-			["teamList"] = {
-				["Toshpal-Kil'jaeden"] = 2,
-				["Toshaman-Kil'jaeden"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshpal-Kil'jaeden"] = true,
 				["Toshaman-Kil'jaeden"] = true,
+			},
+			["teamList"] = {
+				["Toshpal-Kil'jaeden"] = 2,
+				["Toshaman-Kil'jaeden"] = 1,
 			},
 		},
 		["Toshpal - Area 52"] = {
