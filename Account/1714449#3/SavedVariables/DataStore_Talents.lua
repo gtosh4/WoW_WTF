@@ -6,6 +6,7 @@ DataStore_TalentsDB = {
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -25,6 +26,13 @@ DataStore_TalentsDB = {
 					0, -- [1]
 				},
 				["Class"] = "SHAMAN",
+			},
+			["Default.Area 52.Toshweaver"] = {
+				["lastUpdate"] = 1588637969,
+				["Specializations"] = {
+					[2] = 0,
+				},
+				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["lastUpdate"] = 1588212364,
@@ -62,6 +70,7 @@ DataStore_TalentsRefDB = {
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},

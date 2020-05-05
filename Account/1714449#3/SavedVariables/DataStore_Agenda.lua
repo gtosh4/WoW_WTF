@@ -6,6 +6,7 @@ DataStore_AgendaDB = {
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -20,14 +21,17 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpriest"] = {
 						["note"] = "",
-						["level"] = 60,
 						["class"] = "Priest",
+						["level"] = 60,
 					},
 				},
 				["lastUpdate"] = 1587015374,
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015585,
+			},
+			["Default.Area 52.Toshweaver"] = {
+				["lastUpdate"] = 1588638007,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["Contacts"] = {

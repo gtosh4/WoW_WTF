@@ -1,8 +1,8 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshaman-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshweaver-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Naz'jar Honor Guard-kiljaeden"] = true,
-	["us-Datamind-proudmoore"] = true,
+	["us-Skeîth-area-52"] = true,
+	["us-Pøgchamp-area-52"] = true,
 }

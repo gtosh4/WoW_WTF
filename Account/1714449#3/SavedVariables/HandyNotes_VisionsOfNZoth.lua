@@ -1,6 +1,7 @@
 
 HandyNotes_VisionsOfNZothDB = {
 	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Default",
 		["Toshaman - Dreadmaul"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",

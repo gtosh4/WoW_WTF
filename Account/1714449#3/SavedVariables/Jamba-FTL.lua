@@ -1,6 +1,7 @@
 
 JambaFTLProfileDB = {
 	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -8,6 +9,19 @@ JambaFTLProfileDB = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+			["CharListWithModifiers"] = {
+				["Toshweaver-Area52"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
 		["Default"] = {
 			["CharListWithModifiers"] = {
 				["Toshpal-Kil'jaeden"] = {
@@ -15,8 +29,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 				["Toshaman-Kil'jaeden"] = {
@@ -24,8 +38,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 				["Toshdk-Kil'jaeden"] = {
@@ -33,8 +47,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 				["Toshdk-Kil'Jaeden"] = {
@@ -42,8 +56,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 				["Tosh-Kil'jaeden"] = {
@@ -51,8 +65,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},
@@ -64,8 +78,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 				["Tosh-Kil'jaeden"] = {
@@ -73,8 +87,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 				["Toshaman-Kil'jaeden"] = {
@@ -82,8 +96,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},
@@ -95,8 +109,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},
@@ -108,8 +122,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},
@@ -121,8 +135,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 				["Toshaman-Kil'jaeden"] = {
@@ -130,8 +144,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 			},
@@ -143,8 +157,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 				["Toshpriest-Area52"] = {
@@ -152,8 +166,8 @@ JambaFTLProfileDB = {
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 			},

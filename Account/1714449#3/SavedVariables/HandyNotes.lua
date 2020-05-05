@@ -1,6 +1,7 @@
 
 HandyNotesDB = {
 	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -8,6 +9,8 @@ HandyNotesDB = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+		},
 		["Toshaman - Dreadmaul"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
@@ -22,6 +25,7 @@ HandyNotesDB = {
 }
 HandyNotes_HandyNotesDB = {
 	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
@@ -29,6 +33,8 @@ HandyNotes_HandyNotesDB = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+		},
 		["Toshaman - Dreadmaul"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
