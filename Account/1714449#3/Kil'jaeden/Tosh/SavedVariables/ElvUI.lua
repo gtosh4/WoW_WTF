@@ -1,160 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" just sham+priest", -- [1]
-		" and if I don't get to them this week, nbd too - they're just alts and the tier's over", -- [2]
-		" I'm fine just chilling until we have enough", -- [3]
-		"/g holy", -- [4]
-		"/who gochi", -- [5]
-		"/g yuki's new guild", -- [6]
+		" and if I don't get to them this week, nbd too - they're just alts and the tier's over", -- [1]
+		" I'm fine just chilling until we have enough", -- [2]
+		"/g yuki's new guild", -- [3]
+		"/cw Pluie-Kil'jaeden inv", -- [4]
+		"/cw Suthmage-Area52 sure", -- [5]
+		"/wa", -- [6]
 		"I bet cada's sitting there, not speaking up, hoping you'd ask him to come lol", -- [7]
-		"/join general", -- [8]
-		"/cw Pluie-Kil'jaeden inv", -- [9]
-		"what friends were you talking about?", -- [10]
-		"and if I don't get to them this week, nbd too - they're just alts and the tier's over", -- [11]
-		"you wanted to talk about something after?", -- [12]
-		"/changeactionbar 1", -- [13]
-		"/cw Suthmage-Area52 sure", -- [14]
-		"/cw Ogv-Area52 os", -- [15]
-		"I'm fine just chilling until we have enough", -- [16]
-		"/wa", -- [17]
-		"just sham+priest", -- [18]
+		"/changeactionbar 1", -- [8]
+		"/g holy", -- [9]
+		"/p 12:50", -- [10]
+		"I'm fine just chilling until we have enough", -- [11]
+		"/g welp guess I'm shadow main now |cffa335ee|Hitem:159247::::::::120:256::35:8:6536:4802:6578:6579:6573:6513:1647:4786:::|h[Handwraps of Oscillating Polarity]|h|r", -- [12]
+		"you wanted to talk about something after?", -- [13]
+		"/cw Ogv-Area52 os", -- [14]
+		"what friends were you talking about?", -- [15]
+		"/join general", -- [16]
+		"/who gochi", -- [17]
+		"and if I don't get to them this week, nbd too - they're just alts and the tier's over", -- [18]
 		"/ert", -- [19]
-		"/p 12:50", -- [20]
+		"just sham+priest", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Astral Keys: New key |cffa335ee|Hkeystone:158923:248:18:9:11:4:120|h[Keystone: Waycrest Manor (18)]|h|r", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			506, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1588039396,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"ez", -- [1]
-			"Oof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Oof-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			508, -- [11]
-			"Player-9-0AC80C34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Oof|r",
-			[51] = 1588039399,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"never a doubt in my mind", -- [1]
-			"Oof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Oof-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-9-0AC80C34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Oof|r",
-			[51] = 1588039401,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
-			"HMM", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			512, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1588039401,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"i haven't ran many keys this week", -- [1]
-			"Oof-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Oof-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			517, -- [11]
-			"Player-9-0AC80C34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Oof|r",
-			[51] = 1588039415,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
-		{
-			"give me", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			522, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1588039429,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
 		{
 			"dice", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -176,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039430,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
+		}, -- [1]
 		{
 			"yuki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -198,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039431,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [2]
 		{
 			"comon", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -220,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039432,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
+		}, -- [3]
 		{
 			"i'm bonus rolling", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -242,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039438,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [4]
 		{
 			"fuck", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -264,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039448,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
+		}, -- [5]
 		{
 			"lol", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -286,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039450,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [6]
 		{
 			"|cffa335ee|Hitem:155881::::::::120:263::16:4:6536:6513:1637:4786:::|h[Harlan's Loaded Dice]|h|r", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -308,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1588039457,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
+		}, -- [7]
 		{
 			"roll", -- [1]
 			"Yukios-Kil'jaeden", -- [2]
@@ -330,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcYukios|r",
 			[51] = 1588039459,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [8]
 		{
 			"ty", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -352,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039491,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [9]
 		{
 			"i need tomorrow to come already", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -374,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1588039519,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
+		}, -- [10]
 		{
 			"i hate this week", -- [1]
 			"Oof-Kil'jaeden", -- [2]
@@ -396,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Oof|r",
 			[51] = 1588039522,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
+		}, -- [11]
 		{
 			"yeah", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -418,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039534,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
+		}, -- [12]
 		{
 			"same", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -440,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588039535,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [13]
 		{
 			"Astral Keys: New key |cffa335ee|Hkeystone:158923:353:16:10:8:14:120|h[Keystone: Siege of Boralus (16)]|h|r", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -462,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588124826,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [14]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14162:Player-9-0B8AC7CA:1:4:28:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Masquerade]|h|r!", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -484,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1588125102,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [21]
+		}, -- [15]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Backstab!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -506,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125265,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [16]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -528,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125321,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -550,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125398,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -572,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125462,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [19]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -594,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125520,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [20]
 		{
 			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -616,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125535,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [21]
 		{
 			"Interrupted Skycap'n Kragg's |cff71d5ff|Hspell:256060:0|h[Revitalizing Brew]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -638,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125535,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [22]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Vermin Trapper!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -660,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125702,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [23]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Vermin Trapper has ended!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -682,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125702,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [24]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -704,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125713,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [25]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -726,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125713,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [26]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -748,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588125721,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [27]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -770,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588125732,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [28]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -792,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588125740,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -814,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125788,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -836,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125817,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -858,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125854,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [32]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -880,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588125863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [33]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -902,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588125869,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [34]
 		{
 			"Ricocheting Throw on Pulverize", -- [1]
 			"Pulverize-Kil'jaeden", -- [2]
@@ -924,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPulverize|r",
 			[51] = 1588125869,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [35]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -946,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125871,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [36]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -968,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125871,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
+		}, -- [37]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -990,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588125879,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [38]
 		{
 			"Ricocheting Throw on Pulverize", -- [1]
 			"Pulverize-Kil'jaeden", -- [2]
@@ -1012,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPulverize|r",
 			[51] = 1588125879,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [39]
 		{
 			"Ricocheting Throw on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1034,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125887,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [40]
 		{
 			"Ricocheting Throw on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1056,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588125889,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1078,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125911,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [42]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Backstab!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1100,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125919,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [43]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Backstab!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1122,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125919,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [44]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1144,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588125972,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1166,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126016,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [46]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1188,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126057,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [47]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1210,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126057,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1232,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126067,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Bilge Rat Brinescale!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1254,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126083,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Bilge Rat Brinescale has ended!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1276,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126083,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [51]
 		{
 			"Backstab interrupted |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1298,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126094,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [52]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1320,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126107,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [53]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:281420:0|h[Water Bolt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1342,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126107,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [54]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1364,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [55]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1386,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [56]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1408,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126150,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [57]
 		{
 			"Interrupted Blacktooth Knuckleduster's |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1430,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126150,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [58]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1452,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126250,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [59]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1474,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126250,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [60]
 		{
 			"Interrupted Bilge Rat Brinescale's |cff71d5ff|Hspell:257784:0|h[Frost Blast]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1496,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126250,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [61]
 		{
 			"Backstab interrupted |cff71d5ff|Hspell:257732:0|h[Shattering Bellow]|h|r", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1518,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126251,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [62]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1540,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126279,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [63]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1562,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126347,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [64]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1584,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126399,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [65]
 		{
 			"Shark Toss on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1606,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588126423,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1628,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126491,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [67]
 		{
 			"Interrupted Mindrend Tentacle's |cff71d5ff|Hspell:314592:0|h[Mind Flay]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1650,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126515,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
+		}, -- [68]
 		{
 			"Interrupted Mindrend Tentacle's |cff71d5ff|Hspell:314592:0|h[Mind Flay]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1672,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126515,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [69]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Evandh!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1694,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126579,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Backstab!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1716,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126588,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Backstab!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1738,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126588,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [72]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13998:Player-9-0B970A37:1:4:28:20:4294967295:4294967295:4294967295:4294967295|h[Pure of Heart]|h|r!", -- [1]
 			"Thuggzr-Kil'jaeden", -- [2]
@@ -1760,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Thuggzr|r",
 			[51] = 1588126602,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
+		}, -- [73]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1782,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126604,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [74]
 		{
 			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1804,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126604,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [75]
 		{
 			"Cannon Barrage on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1826,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126665,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [76]
 		{
 			"Cannon Barrage on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1848,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588126665,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [77]
 		{
 			"Fixate on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1870,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588126667,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [78]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1892,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126668,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [79]
 		{
 			"Cannon Barrage on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1914,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [80]
 		{
 			"Cannon Barrage on Pulverize", -- [1]
 			"Pulverize-Kil'jaeden", -- [2]
@@ -1936,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPulverize|r",
 			[51] = 1588126683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [81]
 		{
 			"Cannon Barrage on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1958,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588126683,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [82]
 		{
 			"Fixate on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -1980,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588126688,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [83]
 		{
 			"Cannon Barrage on Pulverize", -- [1]
 			"Pulverize-Kil'jaeden", -- [2]
@@ -2002,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cPulverize|r",
 			[51] = 1588126704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [84]
 		{
 			"Cannon Barrage on Kosaki", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2024,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [85]
 		{
 			"Cannon Barrage on Tosh", -- [1]
 			"Tosh-Kil'jaeden", -- [2]
@@ -2046,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTosh|r",
 			[51] = 1588126704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [86]
 		{
 			"|cff71d5ff|Hspell:115834:0|h[Shroud of Concealment]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2068,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126708,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [87]
 		{
 			"Shroud up", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2090,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126708,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [88]
 		{
 			"14", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2112,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126709,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [89]
 		{
 			"Shroud up", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2134,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126710,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [90]
 		{
 			"13", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2156,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126710,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [91]
 		{
 			"14", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2178,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126711,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [98]
+		}, -- [92]
 		{
 			"12", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2200,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126711,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
+		}, -- [93]
 		{
 			"13", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2222,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126712,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [100]
+		}, -- [94]
 		{
 			"11", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2244,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126712,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [95]
 		{
 			"12", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2266,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126713,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [102]
+		}, -- [96]
 		{
 			"10", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2288,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126713,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [97]
 		{
 			"11", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2310,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126714,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [104]
+		}, -- [98]
 		{
 			"9", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2332,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126714,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [99]
 		{
 			"10", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2354,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126715,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [106]
+		}, -- [100]
 		{
 			"8", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2376,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126715,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [101]
 		{
 			"9", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2398,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126716,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [108]
+		}, -- [102]
 		{
 			"7", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2420,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126716,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [103]
 		{
 			"8", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2442,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126717,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [110]
+		}, -- [104]
 		{
 			"6", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2464,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126717,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [105]
 		{
 			"7", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2486,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126718,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [112]
+		}, -- [106]
 		{
 			"5", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2508,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126718,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [107]
 		{
 			"6", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2530,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126719,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [114]
+		}, -- [108]
 		{
 			"4", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2552,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126719,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [109]
 		{
 			"5", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2574,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126720,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [116]
+		}, -- [110]
 		{
 			"3", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2596,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126720,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [111]
 		{
 			"4", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2618,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126721,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [118]
+		}, -- [112]
 		{
 			"2", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2640,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126721,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [113]
 		{
 			"3", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2662,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126722,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [120]
+		}, -- [114]
 		{
 			"1", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2684,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126722,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [115]
 		{
 			"2", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2706,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126723,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [122]
+		}, -- [116]
 		{
 			"Shroud down", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2728,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126723,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [117]
 		{
 			"1", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2750,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126724,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [124]
+		}, -- [118]
 		{
 			"Shroud down", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2772,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126725,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [125]
+		}, -- [119]
 		{
 			"|cffa335ee|Hitem:174500::::::::120:260::5:4:4823:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2794,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1588126753,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [126]
+		}, -- [120]
 		{
 			"|cffa335ee|Hitem:159659::::::::120:260::35:7:6536:6578:6579:6564:6515:1647:4786:::|h[Sinister Wicker Talons]|h|r", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -2816,6 +2684,138 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1588126819,
 			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [121]
+		{
+			"welp guess I'm shadow main now |cffa335ee|Hitem:159247::::::::120:256::35:8:6536:4802:6578:6579:6573:6513:1647:4786:::|h[Handwraps of Oscillating Polarity]|h|r", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1588721718,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14162:Player-9-0361ED90:1:5:5:20:4294967295:4294967295:4294967295:4294967295|h[Horrific Masquerade]|h|r!", -- [1]
+			"Emosong-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emosong-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			356, -- [11]
+			"Player-9-0361ED90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Emosong|r",
+			[51] = 1588726691,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [123]
+		{
+			"Cyclone Strike on Tosh", -- [1]
+			"Tosh-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tosh-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			389, -- [11]
+			"Player-9-0B60C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTosh|r",
+			[51] = 1588726994,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [124]
+		{
+			"Fiery interrupted |cff71d5ff|Hspell:272659:0|h[Electrified Scales]|h|r", -- [1]
+			"Fiery-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Fiery-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			413, -- [11]
+			"Player-9-07C9B703", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Fiery|r",
+			[51] = 1588727291,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [125]
+		{
+			"A Knot of Snakes on Pulverize", -- [1]
+			"Pulverize-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Pulverize-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			431, -- [11]
+			"Player-9-0BC3E21C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPulverize|r",
+			[51] = 1588727424,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [126]
+		{
+			"A Knot of Snakes on Pulverize", -- [1]
+			"Pulverize-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Pulverize-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			439, -- [11]
+			"Player-9-0BC3E21C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cPulverize|r",
+			[51] = 1588727462,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [127]
 	},
 }

@@ -1,8 +1,9 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshweaver-area-52"
+RaiderIO_LastCharacter = "us-Tosh-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Skeîth-area-52"] = true,
-	["us-Pøgchamp-area-52"] = true,
+	["us-Daemobane-kiljaeden"] = true,
+	["us-Plaquenil-eldrethalas"] = true,
+	["us-Jorte-tichondrius"] = true,
 }

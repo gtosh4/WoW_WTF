@@ -1,11 +1,11 @@
 
 MacroToolkitDB = {
 	["char"] = {
-		["Tosh - Kil'jaeden"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
-		["Toshmonk - Kil'jaeden"] = {
+		["Tosh - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},

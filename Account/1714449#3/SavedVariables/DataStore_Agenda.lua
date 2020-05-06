@@ -14,7 +14,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-05-05",
+			["NextWeeklyReset"] = "2020-05-12",
 		},
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
@@ -39,20 +39,13 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|388009021"] = "478511|1588212287|0|1",
-				},
 				["lastUpdate"] = 1588212380,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|388004873"] = "214960|1588475838|0|1",
-					["Ny'alotha, the Waking City Mythic|388195525"] = "214960|1588475838|0|1",
-				},
-				["lastUpdate"] = 1588475837,
+				["lastUpdate"] = 1588726638,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1588126871,
+				["lastUpdate"] = 1588728666,
 			},
 		},
 	},

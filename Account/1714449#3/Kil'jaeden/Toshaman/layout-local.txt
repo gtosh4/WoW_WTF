@@ -27,6 +27,13 @@ X: 0
 Y: 0
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -48,17 +55,17 @@ X: 0
 Y: 0
 W: 635
 H: 200
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: TOP
+X: 526
+Y: -194
+W: 398
+H: 331
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: LEFT
 X: 157
 Y: -41
-W: 298
-H: 132
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
+W: 267
+H: 209

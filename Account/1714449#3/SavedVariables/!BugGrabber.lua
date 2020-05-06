@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 1729,
+	["session"] = 1733,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua:35: attempt to call field '?' (a nil value)",
@@ -49,5 +49,13 @@ BugGrabberDB = {
 			["session"] = 1729,
 			["counter"] = 4,
 		}, -- [6]
+		{
+			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
+			["time"] = "2020/05/05 21:30:12",
+			["locals"] = "leftX = nil\nleftY = nil\nrightX = 4285.419922\nrightY = 3972.919922\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'leftX' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\SharedXML\\Vector2D.lua\"]:20: in function `Vector2D_Subtract'\n[string \"@Interface\\SharedXML\\Vector2D.lua\"]:99: in function `Subtract'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:101: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:248: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
+			["session"] = 1733,
+			["counter"] = 12,
+		}, -- [7]
 	},
 }

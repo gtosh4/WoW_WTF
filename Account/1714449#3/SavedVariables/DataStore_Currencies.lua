@@ -121,8 +121,8 @@ DataStore_CurrenciesDB = {
 					[1226] = "0-0-0-0",
 					[1560] = "450-0-0-0",
 					[994] = "0-0-0-0",
-					[1580] = "0-0-0-0",
 					[1342] = "0-0-0-0",
+					[1580] = "0-0-0-0",
 				},
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
@@ -278,7 +278,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 4509,
+						["count"] = 4877,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -298,12 +298,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 2,
+						["count"] = 4,
 					}, -- [8]
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 17040,
+						["count"] = 19280,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -353,14 +353,14 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1588475837,
+				["lastUpdate"] = 1588726022,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1580] = "2-0-0-5",
+					[1580] = "4-0-0-5",
 					[823] = "0-0-0-0",
 					[1560] = "15623-0-0-0",
 					[1342] = "0-0-0-0",
@@ -391,7 +391,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 2543,
+						["count"] = 2934,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -416,7 +416,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 7140,
+						["count"] = 9470,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -466,7 +466,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1588126777,
+				["lastUpdate"] = 1588728613,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
