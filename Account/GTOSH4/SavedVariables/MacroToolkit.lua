@@ -14,12 +14,6 @@ MacroToolkitDB = {
 			},
 		},
 	},
-	["global"] = {
-		["backups"] = {
-		},
-		["ebackups"] = {
-		},
-	},
 	["profileKeys"] = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Daggny - Frostwolf"] = "profile",
@@ -32,28 +26,34 @@ MacroToolkitDB = {
 		["Toshpal - Kil'jaeden"] = "profile",
 		["Toshpriest - Illidan"] = "profile",
 		["Toshmoney - Quel'dorei"] = "profile",
-		["Toshaman - Kil'jaeden"] = "profile",
-		["Toshtrial - Blood Furnace"] = "profile",
-		["Tosh - Kil'jaeden"] = "profile",
-		["Tosh - Frostwolf"] = "profile",
-		["Toshaman - Area 52"] = "profile",
-		["Toshtrial - The Forgotten Coast"] = "profile",
-		["Koutetsu - Frostwolf"] = "profile",
 		["Sumex - Frostwolf"] = "profile",
+		["Koutetsu - Frostwolf"] = "profile",
+		["Toshaman - Area 52"] = "profile",
+		["Tosh - Frostwolf"] = "profile",
+		["Tosh - Kil'jaeden"] = "profile",
+		["Toshtrial - The Forgotten Coast"] = "profile",
+		["Toshtrial - Blood Furnace"] = "profile",
+		["Toshaman - Kil'jaeden"] = "profile",
 		["Toshwar - Kil'jaeden"] = "profile",
+	},
+	["global"] = {
+		["ebackups"] = {
+		},
+		["backups"] = {
+		},
 	},
 	["profiles"] = {
 		["profile"] = {
 			["y"] = 695.14404296875,
 			["x"] = 240.0833740234375,
 			["height"] = 431.000427246094,
-			["visbind"] = false,
 			["fonts"] = {
 				["edfont"] = "Ubuntu Condensed",
 				["mifont"] = "Ubuntu Condensed",
 				["mfont"] = "Ubuntu Condensed",
 				["errfont"] = "Ubuntu Condensed",
 			},
+			["visbind"] = false,
 		},
 		["Default"] = {
 			["y"] = 687.874267578125,

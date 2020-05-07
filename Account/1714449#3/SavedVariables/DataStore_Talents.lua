@@ -28,7 +28,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Area 52.Toshweaver"] = {
-				["lastUpdate"] = 1588637969,
+				["lastUpdate"] = 1588817210,
 				["Specializations"] = {
 					[2] = 0,
 				},
@@ -44,7 +44,7 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1588726313,
+				["lastUpdate"] = 1588821300,
 				["Specializations"] = {
 					12126, -- [1]
 					[3] = 14270,
@@ -52,9 +52,9 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1588728633,
+				["lastUpdate"] = 1588824965,
 				["Specializations"] = {
-					5503, -- [1]
+					13695, -- [1]
 					10670, -- [2]
 					10167, -- [3]
 				},

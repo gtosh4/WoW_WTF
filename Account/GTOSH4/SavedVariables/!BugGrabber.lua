@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2352,
 	["lastSanitation"] = 3,
-	["session"] = 2347,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Plater\\libs\\DF\\panel.lua:8779: attempt to call method 'Hide' (a nil value)",
@@ -129,8 +129,8 @@ BugGrabberDB = {
 		}, -- [16]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/04/27 20:23:32",
 			["session"] = 2331,
+			["time"] = "2020/04/27 20:23:32",
 			["counter"] = 10,
 		}, -- [17]
 		{
@@ -183,16 +183,16 @@ BugGrabberDB = {
 			["time"] = "2020/04/24 21:48:49",
 			["locals"] = "Skipped (In Encounter)",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:69: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:56: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2687: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2768: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2456: in function <Interface\\FrameXML\\UIParent.lua:2448>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3326: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
-			["session"] = 2343,
-			["counter"] = 5,
+			["session"] = 2350,
+			["counter"] = 7,
 		}, -- [24]
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
 			["time"] = "2020/04/29 23:04:14",
 			["locals"] = "Skipped (In Encounter)",
 			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
-			["session"] = 2343,
-			["counter"] = 183,
+			["session"] = 2352,
+			["counter"] = 205,
 		}, -- [25]
 	},
 }

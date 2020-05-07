@@ -1,11 +1,4 @@
 Version: 1
-Frame: GladiusButtonFramearena1
-FrameLevel: 1
-Anchor: RIGHT
-X: -463
-Y: 257
-W: 160
-H: 52
 Frame: AAPQOrderList
 FrameLevel: 1
 Anchor: RIGHT
@@ -13,6 +6,13 @@ X: -686
 Y: 48
 W: 231
 H: 440
+Frame: Grid2LayoutFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 240
+Y: -115
+W: 260
+H: 212
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -20,6 +20,13 @@ X: 0
 Y: 0
 W: 365
 H: 380
+Frame: AAP_GreetingsFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 718
+Y: 317
+W: 330
+H: 175
 Frame: bdConfig Lib
 FrameLevel: 1
 Anchor: RIGHT
@@ -34,13 +41,6 @@ X: 0
 Y: 0
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: CENTER
-X: 600
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -69,10 +69,10 @@ X: -82
 Y: 185
 W: 235
 H: 480
-Frame: AAP_GreetingsFrame
-FrameLevel: 1
-Anchor: LEFT
-X: 718
-Y: 317
-W: 330
-H: 175
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: CENTER
+X: 600
+Y: 0
+W: 520
+H: 1

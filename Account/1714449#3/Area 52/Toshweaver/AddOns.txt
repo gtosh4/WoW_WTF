@@ -10,3 +10,5 @@ ElvUI_CustomTweaks: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 OPie_Classic: disabled
+BigWigs_Voice: enabled
+BigWigs_BattleOfDazaralor: enabled

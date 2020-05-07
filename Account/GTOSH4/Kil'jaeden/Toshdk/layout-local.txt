@@ -9,10 +9,10 @@ H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
-X: 47
-Y: 274
-W: 604
-H: 58
+X: -154
+Y: 54
+W: 408
+H: 278
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: CENTER
@@ -48,13 +48,6 @@ X: 0
 Y: 0
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -90,10 +83,17 @@ X: -219
 Y: 160
 W: 680
 H: 753
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: TOP
-X: 469
-Y: -100
-W: 320
-H: 360
+Frame: DetailsPlayerDetailsWindow
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 890
+H: 574
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1

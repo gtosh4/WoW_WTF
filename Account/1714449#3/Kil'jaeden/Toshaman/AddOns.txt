@@ -39,7 +39,7 @@ ElvUI_VisualAuraTimers: disabled
 ElvUI_ExtraActionBars: disabled
 ElvUI_CastBarOverlay: disabled
 ElvUI_AuraBarsMovers: disabled
-ElvUI_SLE: enabled
+ElvUI_SLE: disabled
 Jamba: enabled
 Auctionator: disabled
 ElvUI_CustomTweaks: disabled
@@ -58,3 +58,4 @@ RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_EU_A_R: disabled
 RaiderIO_DB_EU_A: disabled
+REFlex: enabled

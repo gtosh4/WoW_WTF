@@ -1,35 +1,35 @@
 
 TD_DB_BATTLEPETSCRIPT_GLOBAL = {
-	["global"] = {
-		["version"] = 80100.01,
-		["scripts"] = {
-			["AllInOne"] = {
-			},
-			["FirstEnemy"] = {
-			},
-			["Base"] = {
-			},
-			["Rematch"] = {
-			},
-		},
-	},
 	["profileKeys"] = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
-		["Toshmoney - Quel'dorei"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Tosku - Kil'jaeden"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
+		["Sumex - Frostwolf"] = "Default",
+		["Toshmoney - Greymane"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
+		["Toshmoney - Quel'dorei"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Frostwolf"] = "Default",
-		["Toshmoney - Greymane"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
-		["Sumex - Frostwolf"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
+	},
+	["global"] = {
+		["version"] = 80100.01,
+		["scripts"] = {
+			["Rematch"] = {
+			},
+			["Base"] = {
+			},
+			["FirstEnemy"] = {
+			},
+			["AllInOne"] = {
+			},
+		},
 	},
 	["profiles"] = {
 		["Default"] = {

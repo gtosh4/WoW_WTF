@@ -12,8 +12,8 @@ JambaItemUseProfileDB = {
 		["Toshweaver - Area 52"] = {
 			["itemsAdvanced"] = {
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:171988",
+					["kind"] = "item",
 				}, -- [1]
 				{
 					["action"] = "empty",

@@ -9,6 +9,8 @@ CorruptionTooltipsDB = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+		},
 		["Toshaman - Dreadmaul"] = {
 		},
 		["Tosh - Kil'jaeden"] = {

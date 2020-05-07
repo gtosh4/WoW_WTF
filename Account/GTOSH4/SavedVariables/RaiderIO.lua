@@ -1,13 +1,12 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
+RaiderIO_LastCharacter = "us-Yorman-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Missbeans-uther"] = true,
-	["us-Shrus-tichondrius"] = true,
-	["us-Holylyte-firetree"] = true,
-	["us-Quire-shadowsong"] = true,
-	["us-Tenzun-kilrogg"] = true,
-	["us-Tsutox-kiljaeden"] = true,
-	["us-Ericko-tichondrius"] = true,
+	["us-Shnake-kiljaeden"] = true,
+	["us-Mojojojoe-kiljaeden"] = true,
+	["us-Yorman-kiljaeden"] = true,
+	["us-Noesis-kiljaeden"] = true,
+	["us-Darenance-kiljaeden"] = true,
+	["us-Drpower-kiljaeden"] = true,
 }

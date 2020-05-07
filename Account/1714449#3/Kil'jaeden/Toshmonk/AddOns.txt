@@ -30,3 +30,5 @@ Auctionator: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
 ElvUI_OptionsUI: enabled
+REFlex: enabled
+ElvUI_SLE: disabled
