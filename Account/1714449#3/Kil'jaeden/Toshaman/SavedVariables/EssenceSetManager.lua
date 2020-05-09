@@ -1,0 +1,9 @@
+
+EssenceSetManager = {
+	["Enhancement"] = {
+	},
+	["Elemental"] = {
+	},
+	["Restoration"] = {
+	},
+}

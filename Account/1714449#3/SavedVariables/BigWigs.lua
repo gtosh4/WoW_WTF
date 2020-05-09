@@ -22,10 +22,10 @@ BigWigs3DB = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[288449] = 2015479,
-					[285003] = 1032439,
 					[287333] = 1032439,
+					[288449] = 2015479,
 					["stages"] = 1032439,
+					[285003] = 1032439,
 				},
 			},
 		},
@@ -99,8 +99,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Battle of Dazar'alor Trash"] = {
-		},
 		["BigWigs_Bosses_Orgozoa"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -143,6 +141,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Victory"] = {
+		},
 		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -150,16 +150,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
-		},
-		["BigWigs_Bosses_King Mechagon"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					[291613] = 3129591,
+					[263309] = 1032439,
 				},
 			},
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Bosses_Maut"] = {
 			["profiles"] = {
@@ -183,9 +179,9 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -223,17 +219,12 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
 		["BigWigs_Bosses_Stormwall Blockade"] = {
 			["profiles"] = {
 				["Default"] = {
 					[285118] = 1032439,
-				},
-			},
-		},
-		["BigWigs_Bosses_Dark Inquisitor Xanesh"] = {
-			["profiles"] = {
-				["Default"] = {
-					[306319] = 3129591,
 				},
 			},
 		},
@@ -293,7 +284,7 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 256.5439403139535,
+					["outline"] = "OUTLINE",
 					["BigWigsAnchor_width"] = 200.2515716552734,
 					["fill"] = false,
 					["BigWigsEmphasizeAnchor_height"] = 27.00003242492676,
@@ -305,23 +296,23 @@ BigWigs3DB = {
 					["BigWigsAnchor_y"] = 12.80296041040811,
 					["emphasizeGrowup"] = true,
 					["spacing"] = 4,
-					["emphasizeTime"] = 10,
-					["barStyle"] = "ElvUI",
-					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
-					["BigWigsEmphasizeAnchor_x"] = 818.6733969688357,
-					["outline"] = "OUTLINE",
-					["BigWigsAnchor_x"] = 1402.673779261939,
-					["fontSizeEmph"] = 14,
-					["emphasizeMultiplier"] = 1,
 					["texture"] = "ElvUI Norm",
+					["barStyle"] = "ElvUI",
+					["fontSizeEmph"] = 14,
+					["BigWigsEmphasizeAnchor_x"] = 818.6733969688357,
+					["BigWigsEmphasizeAnchor_y"] = 256.5439403139535,
+					["BigWigsAnchor_x"] = 1402.673779261939,
+					["BigWigsEmphasizeAnchor_width"] = 368.0000305175781,
+					["emphasizeMultiplier"] = 1,
+					["emphasizeTime"] = 10,
 				},
 			},
 		},
 		["BigWigs_Bosses_Carapace of N'Zoth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[313039] = 3129591,
 					[306984] = 3129591,
+					[313039] = 3129591,
 					[307809] = 3129591,
 				},
 			},
@@ -397,8 +388,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Queen Azshara"] = {
 							[301078] = "English: Overwatch: Zenyatta",
 							[300478] = "English: Overwatch: Reaper",
-							[300519] = "English: Overwatch: Roadhog",
 							[299094] = "English: Overwatch: Zarya",
+							[300519] = "English: Overwatch: Roadhog",
 						},
 						["BigWigs_Bosses_Za'qul, Herald of Ny'alotha"] = {
 							[292963] = "English: Overwatch: Reaper",
@@ -432,6 +423,13 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Dark Inquisitor Xanesh"] = {
+			["profiles"] = {
+				["Default"] = {
+					[306319] = 3129591,
+				},
+			},
+		},
 		["BigWigs_Bosses_Conclave of the Chosen"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -454,13 +452,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
-			["profiles"] = {
-				["Default"] = {
-					[263309] = 1032439,
-				},
-			},
-		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -468,6 +459,13 @@ BigWigs3DB = {
 					["width"] = 140.0001525878906,
 					["posy"] = 375.9979405184713,
 					["posx"] = 644.7898003983137,
+				},
+			},
+		},
+		["BigWigs_Bosses_King Mechagon"] = {
+			["profiles"] = {
+				["Default"] = {
+					[291613] = 3129591,
 				},
 			},
 		},
@@ -817,8 +815,8 @@ BigWigsStatsDB = {
 				["best"] = 421.7829999999995,
 			},
 			["mythic"] = {
-				["kills"] = 1,
-				["wipes"] = 14,
+				["kills"] = 2,
+				["wipes"] = 15,
 				["best"] = 443.0399999995716,
 			},
 		},
@@ -914,21 +912,23 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2361] = {
+		[2347] = {
 			["heroic"] = {
-				["kills"] = 10,
-				["wipes"] = 32,
-				["best"] = 285.4919999999693,
-			},
-			["normal"] = {
-				["kills"] = 3,
-				["wipes"] = 12,
-				["best"] = 373.4280000000144,
+				["best"] = 180.4920000000857,
+				["kills"] = 9,
 			},
 			["mythic"] = {
 				["kills"] = 8,
-				["wipes"] = 458,
-				["best"] = 442.6310000000012,
+				["best"] = 191.5750000000116,
+				["wipes"] = 1,
+			},
+			["normal"] = {
+				["best"] = 192.179999999993,
+				["kills"] = 3,
+			},
+			["LFR"] = {
+				["best"] = 374.4930000000168,
+				["kills"] = 1,
 			},
 		},
 		[2351] = {
@@ -987,23 +987,19 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2347] = {
+		[2354] = {
 			["heroic"] = {
-				["best"] = 180.4920000000857,
-				["kills"] = 9,
+				["best"] = 207.0039999999572,
+				["kills"] = 10,
+			},
+			["normal"] = {
+				["best"] = 176.4629999999888,
+				["kills"] = 3,
 			},
 			["mythic"] = {
 				["kills"] = 8,
-				["best"] = 191.5750000000116,
-				["wipes"] = 1,
-			},
-			["normal"] = {
-				["best"] = 192.179999999993,
-				["kills"] = 3,
-			},
-			["LFR"] = {
-				["best"] = 374.4930000000168,
-				["kills"] = 1,
+				["wipes"] = 60,
+				["best"] = 205.2570000000414,
 			},
 		},
 		[2359] = {
@@ -1039,19 +1035,21 @@ BigWigsStatsDB = {
 				["best"] = 231.5469999999623,
 			},
 		},
-		[2354] = {
+		[2361] = {
 			["heroic"] = {
-				["best"] = 207.0039999999572,
 				["kills"] = 10,
+				["wipes"] = 32,
+				["best"] = 285.4919999999693,
 			},
 			["normal"] = {
-				["best"] = 176.4629999999888,
 				["kills"] = 3,
+				["wipes"] = 12,
+				["best"] = 373.4280000000144,
 			},
 			["mythic"] = {
 				["kills"] = 8,
-				["wipes"] = 60,
-				["best"] = 205.2570000000414,
+				["wipes"] = 458,
+				["best"] = 442.6310000000012,
 			},
 		},
 	},

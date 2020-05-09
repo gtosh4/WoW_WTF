@@ -84,32 +84,32 @@ DataStore_QuestsDB = {
 					[861] = 1480589312,
 					[1630] = 2048,
 					[827] = 98304,
-					[986] = 4026531841,
+					[859] = 425525248,
 					[843] = 2097152,
 					[851] = 2214592513,
-					[859] = 425525248,
+					[986] = 4026531841,
 					[994] = 512,
 					[875] = 1343225920,
 					[883] = 10432,
-					[891] = 8192,
+					[764] = 3670017,
 					[1768] = 134217728,
 					[448] = 262224,
 					[446] = 3359899648,
 					[1625] = 67108864,
 					[1219] = 524288,
+					[432] = 10848,
 					[987] = 4294901787,
-					[860] = 1128267776,
 					[1680] = 260096,
 					[1664] = 16,
 					[844] = 4792320,
 					[979] = 12288,
-					[432] = 10848,
+					[860] = 1128267776,
 					[995] = 31449840,
 					[1661] = 10,
 					[444] = 103104512,
 					[765] = 1202,
 					[1468] = 8192,
-					[764] = 3670017,
+					[891] = 8192,
 					[426] = 272412672,
 					[1467] = 786432,
 					[850] = 234893312,
@@ -156,12 +156,12 @@ DataStore_QuestsDB = {
 				["History"] = {
 					[988] = 1022,
 					[1701] = 1024,
-					[979] = 12288,
+					[1771] = 4096,
 					[1340] = 536870912,
 					[1768] = 134217728,
 					[997] = 15360,
-					[994] = 512,
-					[1771] = 4096,
+					[1770] = 184483840,
+					[979] = 12288,
 					[995] = 31449840,
 					[1680] = 260096,
 					[258] = 8192,
@@ -170,16 +170,16 @@ DataStore_QuestsDB = {
 					[1219] = 524288,
 					[998] = 16384,
 					[996] = 1073741824,
-					[1625] = 67108864,
+					[1842] = 32768,
 					[986] = 4026531841,
 					[1656] = 512,
 					[1845] = 1073741825,
 					[1001] = 512,
 					[1661] = 10,
-					[1842] = 32768,
+					[1625] = 67108864,
 					[987] = 4294901787,
 					[1664] = 16,
-					[1770] = 184483840,
+					[994] = 512,
 				},
 			},
 			["Default.Area 52.Toshweaver"] = {
@@ -207,7 +207,7 @@ DataStore_QuestsDB = {
 					0, -- [9]
 				},
 				["HistorySize"] = 165,
-				["HistoryBuild"] = "34220",
+				["lastUpdate"] = 1588817210,
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
@@ -229,13 +229,13 @@ DataStore_QuestsDB = {
 					[1680] = 260096,
 					[1621] = 1073741824,
 					[1625] = 68094080,
-					[988] = 1022,
-					[1342] = 67108864,
-					[986] = 4026531841,
 					[1771] = 4096,
+					[994] = 512,
+					[986] = 4026531841,
+					[988] = 1022,
 					[1649] = 9216,
 					[1842] = 32768,
-					[994] = 512,
+					[1342] = 67108864,
 					[1661] = 10,
 					[1602] = 6,
 					[1480] = 16,
@@ -244,7 +244,7 @@ DataStore_QuestsDB = {
 					[1618] = 201327104,
 					[1622] = 2147549185,
 					[1617] = 1024,
-					[1630] = 8,
+					[258] = 8192,
 					[1656] = 512,
 					[1701] = 1024,
 					[1768] = 134217728,
@@ -274,11 +274,10 @@ DataStore_QuestsDB = {
 					[1675] = 32768,
 					[1616] = 71680,
 					[1562] = 33554432,
-					[258] = 8192,
+					[1630] = 8,
 					[1613] = 8,
 					[1341] = 8192,
 				},
-				["lastUpdate"] = 1588817210,
 				["QuestHeaders"] = {
 					"Nazjatar", -- [1]
 					"Zuldazar", -- [2]
@@ -288,6 +287,7 @@ DataStore_QuestsDB = {
 					"Allied Races", -- [6]
 					"Rated PvP", -- [7]
 				},
+				["HistoryBuild"] = "34220",
 				["Quests"] = {
 					7866432, -- [1]
 					7868520, -- [2]
@@ -328,15 +328,19 @@ DataStore_QuestsDB = {
 				},
 				["HistoryBuild"] = "34220",
 				["HistorySize"] = 1478,
-				["Rewards"] = {
-					nil, -- [1]
-					nil, -- [2]
-					nil, -- [3]
-					"c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1", -- [4]
-					"r|157829|1|1", -- [5]
-					nil, -- [6]
-					"r|169610|1|1", -- [7]
-					[12] = "r|157826|1|1",
+				["QuestHeaders"] = {
+					"Zuldazar", -- [1]
+					"Dalaran", -- [2]
+					"Krokuun", -- [3]
+					"Mechagon", -- [4]
+					"Nazjatar", -- [5]
+					"Stormsong Valley", -- [6]
+					"Suramar", -- [7]
+					"Missing header! (quest designers)", -- [8]
+					"Battlegrounds", -- [9]
+					"Black Empire Campaign", -- [10]
+					"Rated PvP", -- [11]
+					"World Quest", -- [12]
 				},
 				["QuestTags"] = {
 					128, -- [1]
@@ -622,35 +626,35 @@ DataStore_QuestsDB = {
 					[1054] = 2048,
 					[1712] = 67239936,
 					[1251] = 768,
-					[1714] = 805306368,
-					[1250] = 917504,
 					[1203] = 131072,
+					[1250] = 917504,
+					[1714] = 805306368,
 					[986] = 4026531841,
-					[988] = 1022,
+					[1463] = 2487297,
 					[1460] = 536870912,
 					[432] = 32768,
-					[1461] = 29696,
+					[987] = 4294901787,
 					[1717] = 469894144,
 					[1462] = 7348224,
 					[1718] = 3260416,
-					[1463] = 2487297,
+					[988] = 1022,
 					[1719] = 10485760,
 					[1464] = 1333854208,
 					[1720] = 4194304,
-					[1726] = 3072,
+					[1215] = 16384,
 					[1721] = 1082158976,
 					[1475] = 1048576,
 					[1722] = 558892292,
 					[1467] = 76529664,
-					[1723] = 2148532224,
+					[1212] = 268435456,
 					[1468] = 8192,
 					[1724] = 131072,
 					[1469] = 2030043136,
 					[867] = 64,
 					[1470] = 252928,
-					[1215] = 16384,
+					[1726] = 3072,
 					[995] = 31449840,
-					[1727] = 805306368,
+					[1216] = 16512,
 					[1472] = 2147483648,
 					[1734] = 50340352,
 					[1473] = 67108866,
@@ -715,11 +719,11 @@ DataStore_QuestsDB = {
 					[1758] = 33527808,
 					[1503] = 872415232,
 					[1759] = 2048,
-					[1216] = 16512,
+					[1727] = 805306368,
 					[1760] = 2504065025,
-					[1212] = 268435456,
+					[1723] = 2148532224,
 					[1761] = 3154116867,
-					[987] = 4294901787,
+					[1461] = 29696,
 					[1762] = 134217734,
 					[1507] = 2944,
 					[1662] = 592642817,
@@ -735,21 +739,17 @@ DataStore_QuestsDB = {
 					[1768] = 134283264,
 					[1258] = 20480,
 				},
-				["QuestHeaders"] = {
-					"Zuldazar", -- [1]
-					"Dalaran", -- [2]
-					"Krokuun", -- [3]
-					"Mechagon", -- [4]
-					"Nazjatar", -- [5]
-					"Stormsong Valley", -- [6]
-					"Suramar", -- [7]
-					"Missing header! (quest designers)", -- [8]
-					"Battlegrounds", -- [9]
-					"Black Empire Campaign", -- [10]
-					"Rated PvP", -- [11]
-					"World Quest", -- [12]
-				},
 				["lastUpdate"] = 1588212216,
+				["Rewards"] = {
+					nil, -- [1]
+					nil, -- [2]
+					nil, -- [3]
+					"c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1", -- [4]
+					"r|157829|1|1", -- [5]
+					nil, -- [6]
+					"r|169610|1|1", -- [7]
+					[12] = "r|157826|1|1",
+				},
 				["Money"] = {
 					0, -- [1]
 					0, -- [2]
@@ -797,25 +797,25 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["HistoryLastUpdate"] = 1588817606,
+				["HistoryLastUpdate"] = 1589001363,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:54100:-1:120:120:0|h[A Way Out]|h|r", -- [1]
 					"|cffffff00|Hquest:50606:-1:120:120:0|h[Horde War Effort]|h|r", -- [2]
-					"|cffffff00|Hquest:51038:-1:120:120:0|h[Supplies Needed: Akunda's Bite]|h|r", -- [3]
+					"|cffffff00|Hquest:52398:-1:120:120:0|h[Work Order: Ultramarine Pigment]|h|r", -- [3]
 					"|cffffff00|Hquest:53435:-1:110:120:0|h[Azerite for the Horde]|h|r", -- [4]
 					"|cff40c040|Hquest:42422:110:110:255:0|h[The Wardens]|h|r", -- [5]
-					"|cff40c040|Hquest:43179:110:110:255:0|h[The Kirin Tor of Dalaran]|h|r", -- [6]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[Argussian Reach]|h|r", -- [7]
-					"|cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - The Mechoriginator]|h|r", -- [8]
-					"|cffffff00|Hquest:55696:-1:120:120:0|h[Test Drive]|h|r", -- [9]
-					"|cffffff00|Hquest:55799:-1:120:120:0|h[The Tide Turns]|h|r", -- [10]
-					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [11]
-					"|cffffff00|Hquest:58374:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [12]
-					"|cffffff00|Hquest:58373:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [13]
-					"|cffffff00|Hquest:58375:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [14]
-					"|cffffff00|Hquest:57562:-1:120:120:0|h[Amathet Assault Tracker]|h|r", -- [15]
-					"|cffffff00|Hquest:57567:-1:120:120:0|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [16]
-					"|cffffff00|Hquest:50603:-1:120:120:0|h[Voldunai]|h|r", -- [17]
+					"|cff40c040|Hquest:42233:110:110:255:0|h[Highmountain Tribes]|h|r", -- [6]
+					"|cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - The Mechoriginator]|h|r", -- [7]
+					"|cffffff00|Hquest:55696:-1:120:120:0|h[Test Drive]|h|r", -- [8]
+					"|cffffff00|Hquest:55799:-1:120:120:0|h[The Tide Turns]|h|r", -- [9]
+					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [10]
+					"|cffffff00|Hquest:58374:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [11]
+					"|cffffff00|Hquest:58373:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [12]
+					"|cffffff00|Hquest:58375:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [13]
+					"|cffffff00|Hquest:50562:-1:120:120:0|h[Champions of Azeroth]|h|r", -- [14]
+					"|cffffff00|Hquest:57565:-1:120:120:0|h[Aqir Assault Tracker]|h|r", -- [15]
+					"|cff40c040|Hquest:42170:110:110:255:0|h[The Dreamweavers]|h|r", -- [16]
+					"|cffffff00|Hquest:57567:-1:120:120:0|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [17]
 					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [18]
 					"|cff808080|Hquest:8505:60:1:255:0|h[The Alliance Needs Purple Lotus!]|h|r", -- [19]
 					"|cffffff00|Hquest:56500:-1:120:120:0|h[Storming the Battlefields]|h|r", -- [20]
@@ -827,47 +827,34 @@ DataStore_QuestsDB = {
 					"|cffffff00|Hquest:57744:120:120:255:0|h[Conquest's Reward]|h|r", -- [26]
 					"|cff808080|Hquest:3861:1:1:255:0|h[CLUCK!]|h|r", -- [27]
 				},
-				["lastUpdate"] = 1588821300,
-				["HistorySize"] = 1313,
-				["QuestHeaders"] = {
-					"Zuldazar", -- [1]
-					"Dalaran", -- [2]
-					"Mac'Aree", -- [3]
-					"Mechagon", -- [4]
-					"Nazjatar", -- [5]
-					"Nazmir", -- [6]
-					"Ny'alotha, the Waking City", -- [7]
-					"Uldum", -- [8]
-					"Vale of Eternal Blossoms", -- [9]
-					"Vol'dun", -- [10]
-					"Missing header! (quest designers)", -- [11]
-					"Ahn'Qiraj War", -- [12]
-					"Battlegrounds", -- [13]
-					"Crucible of Storms", -- [14]
-					"Heart of Azeroth", -- [15]
-					"Horde War Campaign", -- [16]
-					"Inscription", -- [17]
-					"Rated PvP", -- [18]
-					"Special", -- [19]
+				["lastUpdate"] = 1589002551,
+				["HistorySize"] = 1314,
+				["Rewards"] = {
+					[6] = "r|157823|1|1",
+					[7] = "r|169610|1|1",
+					[22] = "r|168614|1|1",
+					[19] = "r|21436|10|0,r|21512|1|1",
+					[16] = "r|157822|1|1",
+					[5] = "r|157827|1|1",
 				},
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
-					109, -- [3]
+					126, -- [3]
 					261, -- [4]
 					128, -- [5]
 					128, -- [6]
-					128, -- [7]
-					81, -- [8]
+					81, -- [7]
+					nil, -- [8]
 					nil, -- [9]
-					nil, -- [10]
-					128, -- [11]
+					128, -- [10]
+					62, -- [11]
 					62, -- [12]
 					62, -- [13]
-					62, -- [14]
+					128, -- [14]
 					270, -- [15]
-					270, -- [16]
-					128, -- [17]
+					128, -- [16]
+					270, -- [17]
 					256, -- [18]
 					[26] = 256,
 				},
@@ -1092,7 +1079,7 @@ DataStore_QuestsDB = {
 					[1718] = 3670016,
 					[1463] = 390144,
 					[1464] = 1073741824,
-					[1720] = 4194304,
+					[1720] = 4718592,
 					[1721] = 1420091392,
 					[1722] = 558891776,
 					[1467] = 1032192,
@@ -1189,18 +1176,6 @@ DataStore_QuestsDB = {
 					[1768] = 3355508737,
 					[790] = 131072,
 				},
-				["Rewards"] = {
-					nil, -- [1]
-					nil, -- [2]
-					nil, -- [3]
-					nil, -- [4]
-					"r|157827|1|1", -- [5]
-					"c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1", -- [6]
-					"r|157831|1|1", -- [7]
-					"r|169610|1|1", -- [8]
-					[22] = "r|168614|1|1",
-					[19] = "r|21436|10|0,r|21512|1|1",
-				},
 				["Money"] = {
 					23400, -- [1]
 					0, -- [2]
@@ -1208,14 +1183,14 @@ DataStore_QuestsDB = {
 					0, -- [4]
 					0, -- [5]
 					0, -- [6]
-					0, -- [7]
-					936000, -- [8]
-					234000, -- [9]
-					702000, -- [10]
-					0, -- [11]
+					936000, -- [7]
+					234000, -- [8]
+					702000, -- [9]
+					0, -- [10]
+					468000, -- [11]
 					468000, -- [12]
 					468000, -- [13]
-					468000, -- [14]
+					0, -- [14]
 					0, -- [15]
 					0, -- [16]
 					0, -- [17]
@@ -1230,90 +1205,119 @@ DataStore_QuestsDB = {
 					0, -- [26]
 					0, -- [27]
 				},
+				["QuestHeaders"] = {
+					"Zuldazar", -- [1]
+					"Dalaran", -- [2]
+					"Highmountain", -- [3]
+					"Mechagon", -- [4]
+					"Nazjatar", -- [5]
+					"Nazmir", -- [6]
+					"Ny'alotha, the Waking City", -- [7]
+					"Silithus: The Wound", -- [8]
+					"Uldum", -- [9]
+					"Val'sharah", -- [10]
+					"Vale of Eternal Blossoms", -- [11]
+					"Missing header! (quest designers)", -- [12]
+					"Ahn'Qiraj War", -- [13]
+					"Battlegrounds", -- [14]
+					"Crucible of Storms", -- [15]
+					"Heart of Azeroth", -- [16]
+					"Horde War Campaign", -- [17]
+					"Inscription", -- [18]
+					"Rated PvP", -- [19]
+					"Special", -- [20]
+				},
 				["HistoryBuild"] = "34220",
 				["Quests"] = {
 					7864384, -- [1]
 					7866472, -- [2]
-					7866468, -- [3]
+					7866469, -- [3]
 					7866464, -- [4]
 					7213160, -- [5]
-					7213160, -- [6]
-					7215208, -- [7]
+					7215208, -- [6]
+					7872576, -- [7]
 					7872576, -- [8]
-					7872576, -- [9]
-					7874624, -- [10]
-					7876712, -- [11]
+					7874624, -- [9]
+					7876712, -- [10]
+					7878720, -- [11]
 					7878720, -- [12]
 					7878720, -- [13]
-					7878720, -- [14]
-					7880800, -- [15]
-					7882848, -- [16]
-					7884904, -- [17]
-					7886944, -- [18]
-					3956800, -- [19]
-					7891008, -- [20]
-					7893056, -- [21]
-					7895104, -- [22]
-					7897152, -- [23]
-					7897152, -- [24]
-					7899200, -- [25]
-					7901280, -- [26]
-					104512, -- [27]
+					7880808, -- [14]
+					7882848, -- [15]
+					7229544, -- [16]
+					7886944, -- [17]
+					7888992, -- [18]
+					3958848, -- [19]
+					7893056, -- [20]
+					7895104, -- [21]
+					7897152, -- [22]
+					7899200, -- [23]
+					7899200, -- [24]
+					7901248, -- [25]
+					7903328, -- [26]
+					106560, -- [27]
 				},
 				["Emissaries"] = {
-					[48642] = "0|4|2146|0/4 Complete 4 Argussian Reach World Quests",
-					[43179] = "0|3|706|0/3 Complete 3 Kirin Tor World Quests",
-					[50603] = "0|4|2146|0/4 Complete 4 world quests in Vol'dun",
-					[42422] = "0|4|3586|0/4 Complete 4 Wardens World Quests",
-					[50606] = "0|4|3586|0/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones",
-					[50602] = "0|4|706|0/4 Complete 4 world quests in Nazmir.",
+					[50602] = "0|4|3445|0/4 Complete 4 world quests in Nazmir.",
+					[50562] = "0|4|2005|0/4 Complete 4 Azerite World Quest for Magni",
+					[50606] = "0|4|565|0/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones",
+					[42422] = "0|4|565|0/4 Complete 4 Wardens World Quests",
+					[42170] = "0|4|2005|0/4 Complete 4 world quests in Val'sharah",
+					[42233] = "0|4|3445|0/4 Complete 4 world quests in Highmountain.",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["HistoryLastUpdate"] = 1588821342,
+				["HistoryLastUpdate"] = 1588987930,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:50606:-1:120:120:0|h[Horde War Effort]|h|r", -- [1]
-					"|cffffff00|Hquest:51038:-1:120:120:0|h[Supplies Needed: Akunda's Bite]|h|r", -- [2]
-					"|cffffff00|Hquest:53435:-1:110:120:0|h[Azerite for the Horde]|h|r", -- [3]
-					"|cff40c040|Hquest:42422:110:110:255:0|h[The Wardens]|h|r", -- [4]
-					"|cff40c040|Hquest:43179:110:110:255:0|h[The Kirin Tor of Dalaran]|h|r", -- [5]
-					"|cffffff00|Hquest:56575:-1:120:120:0|h[Once More Into Kor'vess]|h|r", -- [6]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[Argussian Reach]|h|r", -- [7]
-					"|cffffff00|Hquest:56433:120:120:255:0|h[Drowning the Alliance]|h|r", -- [8]
-					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [9]
-					"|cffffff00|Hquest:58374:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [10]
-					"|cffffff00|Hquest:57198:-1:120:120:0|h[Sense of Obligation]|h|r", -- [11]
-					"|cffffff00|Hquest:57562:-1:120:120:0|h[Amathet Assault Tracker]|h|r", -- [12]
+					"|cffffff00|Hquest:53435:-1:110:120:0|h[Azerite for the Horde]|h|r", -- [2]
+					"|cff40c040|Hquest:42422:110:110:255:0|h[The Wardens]|h|r", -- [3]
+					"|cffffff00|Hquest:56575:-1:120:120:0|h[Once More Into Kor'vess]|h|r", -- [4]
+					"|cff40c040|Hquest:42233:110:110:255:0|h[Highmountain Tribes]|h|r", -- [5]
+					"|cffffff00|Hquest:56433:120:120:255:0|h[Drowning the Alliance]|h|r", -- [6]
+					"|cffffff00|Hquest:50602:-1:120:120:0|h[Talanji's Expedition]|h|r", -- [7]
+					"|cffffff00|Hquest:58374:120:120:255:0|h[Ny'alotha: MOTHER's Guidance]|h|r", -- [8]
+					"|cffffff00|Hquest:50562:-1:120:120:0|h[Champions of Azeroth]|h|r", -- [9]
+					"|cffffff00|Hquest:57198:-1:120:120:0|h[Sense of Obligation]|h|r", -- [10]
+					"|cffffff00|Hquest:57562:-1:120:120:0|h[Amathet Assault Tracker]|h|r", -- [11]
+					"|cff40c040|Hquest:42170:110:110:255:0|h[The Dreamweavers]|h|r", -- [12]
 					"|cffffff00|Hquest:57567:-1:120:120:0|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [13]
-					"|cffffff00|Hquest:50603:-1:120:120:0|h[Voldunai]|h|r", -- [14]
-					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [15]
-					"|cff808080|Hquest:8505:60:1:255:0|h[The Alliance Needs Purple Lotus!]|h|r", -- [16]
-					"|cffffff00|Hquest:56500:-1:120:120:0|h[Storming the Battlefields]|h|r", -- [17]
-					"|cffffff00|Hquest:56401:-1:120:120:0|h[A Bolt from the Blue]|h|r", -- [18]
-					"|cffffff00|Hquest:53181:-1:110:120:0|h[Druidic Fur]|h|r", -- [19]
-					"|cffffff00|Hquest:53176:-1:110:120:0|h[Glittering Scarab]|h|r", -- [20]
-					"|cffffff00|Hquest:53164:-1:110:120:0|h[Sonic Stone]|h|r", -- [21]
-					"|cffffff00|Hquest:57744:120:120:255:0|h[Conquest's Reward]|h|r", -- [22]
-					"|cff808080|Hquest:3861:1:1:255:0|h[CLUCK!]|h|r", -- [23]
-					"|cffffff00|Hquest:57399:-1:120:120:0|h[Reconstructing \"The Final Truth\"]|h|r", -- [24]
+					"|cffffff00|Hquest:54180:-1:120:120:0|h[Quest]|h|r", -- [14]
+					"|cff808080|Hquest:8505:60:1:255:0|h[The Alliance Needs Purple Lotus!]|h|r", -- [15]
+					"|cffffff00|Hquest:56500:-1:120:120:0|h[Storming the Battlefields]|h|r", -- [16]
+					"|cffffff00|Hquest:56401:-1:120:120:0|h[A Bolt from the Blue]|h|r", -- [17]
+					"|cffffff00|Hquest:53181:-1:110:120:0|h[Druidic Fur]|h|r", -- [18]
+					"|cffffff00|Hquest:53176:-1:110:120:0|h[Glittering Scarab]|h|r", -- [19]
+					"|cffffff00|Hquest:53164:-1:110:120:0|h[Sonic Stone]|h|r", -- [20]
+					"|cffffff00|Hquest:57744:120:120:255:0|h[Conquest's Reward]|h|r", -- [21]
+					"|cff808080|Hquest:3861:1:1:255:0|h[CLUCK!]|h|r", -- [22]
+					"|cffffff00|Hquest:57399:-1:120:120:0|h[Reconstructing \"The Final Truth\"]|h|r", -- [23]
 				},
 				["HistoryBuild"] = "34220",
-				["HistorySize"] = 1259,
-				["lastUpdate"] = 1588824965,
+				["HistorySize"] = 1261,
+				["Rewards"] = {
+					[17] = "r|168614|1|1",
+					[15] = "r|21436|10|0,r|21512|1|1",
+					[3] = "r|157827|1|1",
+					[12] = "r|157822|1|1",
+					[5] = "r|157823|1|1",
+				},
 				["QuestTags"] = {
 					128, -- [1]
-					109, -- [2]
-					261, -- [3]
-					128, -- [4]
+					261, -- [2]
+					128, -- [3]
+					nil, -- [4]
 					128, -- [5]
-					[7] = 128,
-					[9] = 128,
-					[10] = 62,
-					[12] = 270,
-					[13] = 270,
-					[14] = 128,
-					[15] = 256,
-					[22] = 256,
+					nil, -- [6]
+					128, -- [7]
+					62, -- [8]
+					128, -- [9]
+					nil, -- [10]
+					270, -- [11]
+					128, -- [12]
+					270, -- [13]
+					256, -- [14]
+					[21] = 256,
 				},
 				["History"] = {
 					[1513] = 4456448,
@@ -1384,15 +1388,18 @@ DataStore_QuestsDB = {
 					[1560] = 3221381121,
 					[1561] = 1028,
 					[1562] = 1187841,
+					[1818] = 16777216,
 					[1564] = 262144,
 					[1565] = 100671488,
-					[1822] = 33554432,
+					[1822] = 33833472,
 					[1823] = 17408,
 					[1568] = 5184,
 					[1570] = 671088640,
 					[1826] = 131072,
 					[1571] = 805310464,
+					[1827] = 2684354560,
 					[1572] = 33554944,
+					[1828] = 68,
 					[1573] = 671088640,
 					[1829] = 2147484673,
 					[1574] = 34082880,
@@ -1520,11 +1527,11 @@ DataStore_QuestsDB = {
 					[986] = 4026531841,
 					[1461] = 17408,
 					[1717] = 469894144,
-					[1718] = 3260928,
+					[1718] = 3785216,
 					[1463] = 390144,
 					[1719] = 10485760,
 					[1464] = 1073741824,
-					[1720] = 4194304,
+					[1720] = 4718592,
 					[1269] = 2684354560,
 					[1721] = 1545629568,
 					[2] = 128,
@@ -1570,10 +1577,10 @@ DataStore_QuestsDB = {
 					[1486] = 1059110,
 					[1742] = 199098368,
 					[1487] = 2147516417,
-					[1489] = 2147516640,
+					[1001] = 512,
 					[1488] = 40974,
 					[1744] = 8388652,
-					[1001] = 512,
+					[1489] = 2147516640,
 					[1054] = 2048,
 					[1490] = 6144,
 					[1746] = 2143291392,
@@ -1588,7 +1595,7 @@ DataStore_QuestsDB = {
 					[1495] = 524288,
 					[1751] = 1073741840,
 					[1496] = 268435456,
-					[1752] = 2147545088,
+					[1752] = 2147545089,
 					[1497] = 33554692,
 					[1753] = 2189426688,
 					[1498] = 3180544,
@@ -1611,7 +1618,7 @@ DataStore_QuestsDB = {
 					[1762] = 197132374,
 					[996] = 1073741824,
 					[994] = 512,
-					[1730] = 2097152,
+					[1730] = 6291456,
 					[1764] = 9280,
 					[1267] = 1088,
 					[1254] = 134217728,
@@ -1623,96 +1630,128 @@ DataStore_QuestsDB = {
 					[1768] = 1208025113,
 					[1539] = 32768,
 				},
+				["lastUpdate"] = 1588991724,
 				["QuestHeaders"] = {
 					"Zuldazar", -- [1]
 					"Dalaran", -- [2]
 					"Dread Wastes", -- [3]
-					"Mac'Aree", -- [4]
+					"Highmountain", -- [4]
 					"Nazjatar", -- [5]
 					"Nazmir", -- [6]
 					"Ny'alotha, the Waking City", -- [7]
-					"Stormsong Valley", -- [8]
-					"Uldum", -- [9]
-					"Vale of Eternal Blossoms", -- [10]
-					"Vol'dun", -- [11]
-					"Missing header! (quest designers)", -- [12]
-					"Ahn'Qiraj War", -- [13]
-					"Battlegrounds", -- [14]
-					"Heart of Azeroth", -- [15]
-					"Island Expeditions", -- [16]
-					"Rated PvP", -- [17]
-					"Special", -- [18]
-					"Visions of N'Zoth", -- [19]
-				},
-				["Rewards"] = {
-					nil, -- [1]
-					nil, -- [2]
-					nil, -- [3]
-					"r|157827|1|1", -- [4]
-					"c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1", -- [5]
-					[7] = "r|157831|1|1",
-					[18] = "r|168614|1|1",
-					[16] = "r|21436|10|0,r|21512|1|1",
+					"Silithus: The Wound", -- [8]
+					"Stormsong Valley", -- [9]
+					"Uldum", -- [10]
+					"Val'sharah", -- [11]
+					"Vale of Eternal Blossoms", -- [12]
+					"Missing header! (quest designers)", -- [13]
+					"Ahn'Qiraj War", -- [14]
+					"Battlegrounds", -- [15]
+					"Heart of Azeroth", -- [16]
+					"Island Expeditions", -- [17]
+					"Rated PvP", -- [18]
+					"Special", -- [19]
+					"Visions of N'Zoth", -- [20]
 				},
 				["Money"] = {
 					0, -- [1]
 					0, -- [2]
 					0, -- [3]
-					0, -- [4]
+					234000, -- [4]
 					0, -- [5]
-					234000, -- [6]
+					0, -- [6]
 					0, -- [7]
-					0, -- [8]
+					468000, -- [8]
 					0, -- [9]
-					468000, -- [10]
-					23400, -- [11]
+					23400, -- [10]
+					0, -- [11]
 					0, -- [12]
 					0, -- [13]
 					0, -- [14]
 					0, -- [15]
 					0, -- [16]
-					0, -- [17]
-					23400, -- [18]
+					23400, -- [17]
+					117000, -- [18]
 					117000, -- [19]
 					117000, -- [20]
-					117000, -- [21]
+					0, -- [21]
 					0, -- [22]
 					0, -- [23]
-					0, -- [24]
+				},
+				["Dailies"] = {
+					{
+						["id"] = 58281,
+						["timestamp"] = 1588989751,
+						["title"] = "Ancient Armaments",
+					}, -- [1]
+					{
+						["id"] = 58286,
+						["timestamp"] = 1588989752,
+						["title"] = "Far From Home",
+					}, -- [2]
+					{
+						["id"] = 58290,
+						["timestamp"] = 1588989753,
+						["title"] = "Champions of the Amathet",
+					}, -- [3]
+					{
+						["id"] = 58168,
+						["timestamp"] = 1588990460,
+						["title"] = "A Dark, Glaring Reality",
+					}, -- [4]
+					{
+						["id"] = 58466,
+						["timestamp"] = 1588991580,
+						["title"] = "Torment From Beyond",
+					}, -- [5]
+					{
+						["id"] = 58463,
+						["timestamp"] = 1588991581,
+						["title"] = "Spawns of Madness",
+					}, -- [6]
+					{
+						["id"] = 58461,
+						["timestamp"] = 1588991663,
+						["title"] = "Tomes of Ancient Madness",
+					}, -- [7]
+					{
+						["id"] = 58470,
+						["timestamp"] = 1588991664,
+						["title"] = "Corrupted Curiosities",
+					}, -- [8]
 				},
 				["Quests"] = {
 					7866472, -- [1]
-					7866468, -- [2]
-					7866464, -- [3]
-					7213160, -- [4]
-					7213160, -- [5]
-					7870528, -- [6]
-					7217256, -- [7]
-					7874624, -- [8]
-					7876712, -- [9]
-					7878720, -- [10]
-					7880768, -- [11]
-					7882848, -- [12]
-					7884896, -- [13]
-					7886952, -- [14]
-					7888992, -- [15]
-					3958848, -- [16]
-					7893056, -- [17]
-					7895104, -- [18]
-					7897152, -- [19]
-					7897152, -- [20]
-					7897152, -- [21]
-					7899232, -- [22]
-					102464, -- [23]
-					7903296, -- [24]
+					7866464, -- [2]
+					7213160, -- [3]
+					7870528, -- [4]
+					7217256, -- [5]
+					7874624, -- [6]
+					7876712, -- [7]
+					7878720, -- [8]
+					7880808, -- [9]
+					7882816, -- [10]
+					7884896, -- [11]
+					7231592, -- [12]
+					7888992, -- [13]
+					7891040, -- [14]
+					3960896, -- [15]
+					7895104, -- [16]
+					7897152, -- [17]
+					7899200, -- [18]
+					7899200, -- [19]
+					7899200, -- [20]
+					7901280, -- [21]
+					104512, -- [22]
+					7905344, -- [23]
 				},
 				["Emissaries"] = {
-					[48642] = "0|4|2085|0/4 Complete 4 Argussian Reach World Quests",
-					[43179] = "0|3|645|0/3 Complete 3 Kirin Tor World Quests",
-					[50603] = "0|4|2085|0/4 Complete 4 world quests in Vol'dun",
-					[42422] = "0|4|3525|0/4 Complete 4 Wardens World Quests",
-					[50606] = "0|4|3525|0/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones",
-					[50602] = "0|4|645|0/4 Complete 4 world quests in Nazmir.",
+					[50602] = "0|4|3626|0/4 Complete 4 world quests in Nazmir.",
+					[50562] = "0|4|2186|0/4 Complete 4 Azerite World Quest for Magni",
+					[50606] = "0|4|746|0/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones",
+					[42422] = "0|4|746|0/4 Complete 4 Wardens World Quests",
+					[42233] = "0|4|3626|0/4 Complete 4 world quests in Highmountain.",
+					[42170] = "0|4|2186|0/4 Complete 4 world quests in Val'sharah",
 				},
 			},
 		},
