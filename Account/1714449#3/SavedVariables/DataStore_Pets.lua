@@ -143,7 +143,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1588991724,
+				["lastUpdate"] = 1589156601,
 				["CRITTER"] = {
 					301137, -- [1]
 					286483, -- [2]

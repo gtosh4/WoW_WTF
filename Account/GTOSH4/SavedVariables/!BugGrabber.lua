@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2356,
 	["lastSanitation"] = 3,
+	["session"] = 2357,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Plater\\libs\\DF\\panel.lua:8779: attempt to call method 'Hide' (a nil value)",
@@ -129,8 +129,8 @@ BugGrabberDB = {
 		}, -- [16]
 		{
 			["message"] = "(null)",
-			["session"] = 2331,
 			["time"] = "2020/04/27 20:23:32",
+			["session"] = 2331,
 			["counter"] = 10,
 		}, -- [17]
 		{

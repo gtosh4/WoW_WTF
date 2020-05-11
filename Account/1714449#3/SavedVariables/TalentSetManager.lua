@@ -147,19 +147,17 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshpal-Area 52"] = {
-		["talents_pvp"] = {
-		},
+	["Toshaman-Dreadmaul"] = {
 		["talents"] = {
-			[3] = {
-			},
-			[2] = {
-			},
+			{
+			}, -- [1]
+		},
+		["talents_pvp"] = {
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip2"] = 0,
 			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -320,17 +318,19 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshaman-Dreadmaul"] = {
-		["talents"] = {
-			{
-			}, -- [1]
-		},
+	["Toshpal-Area 52"] = {
 		["talents_pvp"] = {
+		},
+		["talents"] = {
+			[3] = {
+			},
+			[2] = {
+			},
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
