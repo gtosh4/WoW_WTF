@@ -25,8 +25,8 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["faction"] = "Horde",
 				["guildName"] = "sheeple",
+				["faction"] = "Horde",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["faction"] = "Horde",
@@ -35,16 +35,16 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 		},
 		["ShortToLongRealmNames"] = {

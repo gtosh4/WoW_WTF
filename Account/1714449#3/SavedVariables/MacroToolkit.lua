@@ -5,7 +5,7 @@ MacroToolkitDB = {
 			["backups"] = {
 			},
 		},
-		["Toshpal - Area 52"] = {
+		["Tosh - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
@@ -13,9 +13,15 @@ MacroToolkitDB = {
 			["backups"] = {
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
+		["Toshpal - Area 52"] = {
 			["backups"] = {
 			},
+		},
+	},
+	["global"] = {
+		["backups"] = {
+		},
+		["ebackups"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -27,12 +33,6 @@ MacroToolkitDB = {
 		["Toshweaver - Area 52"] = "profile",
 		["Toshaman - Kil'jaeden"] = "profile",
 		["Toshpal - Area 52"] = "profile",
-	},
-	["global"] = {
-		["ebackups"] = {
-		},
-		["backups"] = {
-		},
 	},
 	["profiles"] = {
 		["profile"] = {

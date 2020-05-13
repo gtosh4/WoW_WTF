@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1742,
 	["lastSanitation"] = 3,
+	["session"] = 1743,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\ElvUI_SLE\\modules\\quests\\quests.lua:41: attempt to call field '?' (a nil value)",

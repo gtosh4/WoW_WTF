@@ -5,13 +5,13 @@ JambaQuestWatcherProfileDB = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -25,33 +25,33 @@ JambaQuestWatcherProfileDB = {
 			["watcherFrameRelativePoint"] = "TOPRIGHT",
 			["watcherFrameYOffset"] = -237.6288909912109,
 			["enableQuestWatcher"] = false,
-			["watcherFrameXOffset"] = -286.7917785644531,
-			["hideQuestIfAllComplete"] = true,
-			["unlockWatcherFrame"] = false,
-			["watcherFramePoint"] = "TOPRIGHT",
 			["enableQuestWatcherOnMasterOnly"] = true,
+			["watcherFramePoint"] = "TOPRIGHT",
+			["unlockWatcherFrame"] = false,
+			["hideQuestIfAllComplete"] = true,
+			["watcherFrameXOffset"] = -286.7917785644531,
 		},
 		["Toshpriest - Illidan"] = {
 		},
-		["Toshmoney - Greymane"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Toshpriest - Area 52"] = {
+			["enableQuestWatcher"] = false,
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 			["enableQuestWatcher"] = false,
 		},
-		["Toshpriest - Area 52"] = {
-			["enableQuestWatcher"] = false,
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshmoney - Greymane"] = {
 		},
 		["Default"] = {
 			["enableQuestWatcher"] = false,

@@ -70,19 +70,19 @@ JambaTeamProfileDB = {
 	["profiles"] = {
 		["Toshweaver - Area 52"] = {
 			["master"] = "Toshweaver-Area52",
-			["teamList"] = {
-				["Toshweaver-Area52"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshweaver-Area52"] = true,
+			},
+			["teamList"] = {
+				["Toshweaver-Area52"] = 1,
 			},
 		},
 		["Default"] = {
 			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = false,
-				["Toshaman-Kil'jaeden"] = false,
-				["Toshdk-Kil'jaeden"] = false,
-				["Toshdk-Kil'Jaeden"] = false,
+				["Toshpal-Kil'jaeden"] = true,
+				["Toshaman-Kil'jaeden"] = true,
+				["Toshdk-Kil'jaeden"] = true,
+				["Toshdk-Kil'Jaeden"] = true,
 				["Tosh-Kil'jaeden"] = true,
 			},
 			["characterClass"] = {
@@ -107,13 +107,13 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
 			},
 			["master"] = "Tosh-Kil'jaeden",
-			["teamList"] = {
-				["Tosh-Kil'jaeden"] = 2,
-				["Toshdk-Kil'jaeden"] = 1,
-			},
 			["characterOnline"] = {
 				["Tosh-Kil'jaeden"] = true,
 				["Toshdk-Kil'jaeden"] = true,
+			},
+			["teamList"] = {
+				["Tosh-Kil'jaeden"] = 2,
+				["Toshdk-Kil'jaeden"] = 1,
 			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
@@ -121,31 +121,31 @@ JambaTeamProfileDB = {
 				["Toshmonk-Kil'jaeden"] = "MONK",
 			},
 			["master"] = "Toshmonk-Kil'jaeden",
-			["characterOnline"] = {
-				["Toshmonk-Kil'jaeden"] = true,
-			},
 			["teamList"] = {
 				["Toshmonk-Kil'jaeden"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshmonk-Kil'jaeden"] = true,
 			},
 		},
 		["Toshaman - Dreadmaul"] = {
 			["master"] = "Toshaman-Dreadmaul",
-			["characterOnline"] = {
-				["Toshaman-Dreadmaul"] = true,
-			},
 			["teamList"] = {
 				["Toshaman-Dreadmaul"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshaman-Dreadmaul"] = true,
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["master"] = "Toshaman-Kil'jaeden",
-			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = true,
-				["Toshaman-Kil'jaeden"] = true,
-			},
 			["teamList"] = {
 				["Toshpal-Kil'jaeden"] = 2,
 				["Toshaman-Kil'jaeden"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshpal-Kil'jaeden"] = true,
+				["Toshaman-Kil'jaeden"] = true,
 			},
 		},
 		["Toshpal - Area 52"] = {
