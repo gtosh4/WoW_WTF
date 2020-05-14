@@ -26,29 +26,29 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
-			["classIconShowSpec"] = true,
+			["auraVersion"] = 1,
 			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["castBarTexture"] = "Smooth v2",
 			["modules"] = {
 				["Announcements"] = false,
 			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
 			},
+			["y"] = {
+				["arena1"] = 229.7807371077943,
+			},
+			["classIconShowSpec"] = true,
 			["castBarAttachTo"] = "Frame",
 			["castBarAnchor"] = "BOTTOMLEFT",
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
+			["castBarTexture"] = "Smooth v2",
 		},
 		["Daggny - Frostwolf"] = {
 			["auraVersion"] = 1,
@@ -83,11 +83,11 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 483.732411763853,
-			},
 			["x"] = {
 				["arena1"] = 1438.93566484931,
+			},
+			["y"] = {
+				["arena1"] = 483.732411763853,
 			},
 		},
 		["Toshmoney - Greymane"] = {

@@ -278,7 +278,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -531,7 +531,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshmoney - Greymane"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -956,7 +956,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshmoney - Greymane"] = {
+		["Toshaman - Area 52"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",

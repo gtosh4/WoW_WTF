@@ -9,10 +9,10 @@ H: 480
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
-X: -153
-Y: 274
-W: 204
-H: 58
+X: -154
+Y: 54
+W: 408
+H: 278
 Frame: ColorPickerFrame
 FrameLevel: 21
 Anchor: TOP
@@ -41,13 +41,6 @@ X: 0
 Y: 0
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -88,5 +81,12 @@ FrameLevel: 1
 Anchor: CENTER
 X: -569
 Y: -37
-W: 380
-H: 121
+W: 267
+H: 279
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1

@@ -33,14 +33,14 @@ JambaQuestWatcherProfileDB = {
 		},
 		["Toshpriest - Illidan"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
 		["Toshpriest - Area 52"] = {
 			["enableQuestWatcher"] = false,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshmoney - Greymane"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 			["enableQuestWatcher"] = false,
@@ -51,7 +51,7 @@ JambaQuestWatcherProfileDB = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshmoney - Greymane"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Default"] = {
 			["enableQuestWatcher"] = false,

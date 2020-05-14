@@ -140,20 +140,6 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshpriest"] = {
-			["profile"] = "default",
-			["name"] = "Toshpriest",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Toshmonk"] = {
 			["profile"] = "default",
 			["name"] = "Toshmonk",
@@ -171,6 +157,20 @@ BD_persistent = {
 		["Sumex"] = {
 			["profile"] = "default",
 			["name"] = "Sumex",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshpriest"] = {
+			["profile"] = "default",
+			["name"] = "Toshpriest",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -312,53 +312,54 @@ BD_persistent = {
 				["Normal and Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
 				["heroic bod wed @ 7pm cst. "] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  RADEN/ILGY look out in raiding channel on discord"] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
-				["Dec 27/28 just doing Mythic Bod for mount. Heroic @ 7pm Mythic @ 8pm CST WED. Main Raid 830pm-1230am cst."] = true,
+				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  RADEN/ILGY look out in raiding channel on discord"] = true,
 				["slay mekka friday and blockade saturday "] = true,
+				["Dec 27/28 just doing Mythic Bod for mount. Heroic @ 7pm Mythic @ 8pm CST WED. Main Raid 830pm-1230am cst."] = true,
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
+				["H EP WED @ 7pm CST. GJ on ZAQY Look up Azshara read raiding discord. Main Raid 830pm-1230am CST"] = true,
 				["Mythic BoD x2 Wed @ 7pm CST. mythic nzoth fri/sat 830pm cst "] = true,
 				["H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
-				["H EP WED @ 7pm CST. GJ on ZAQY Look up Azshara read raiding discord. Main Raid 830pm-1230am CST"] = true,
-				["doing 2 sets of 2 jainas @ 7pm cst.Mythic nzoth fri/sat 830pm cst "] = true,
+				["doing 3 sets of bod clear wed @ 7pm cst. Mythic nzoth fri/sat 830pm cst "] = true,
 				["kill n'zoth pls. main raid fri/sat 830pm-1230am cst"] = true,
-				["main raid tonight slay stormwall :)"] = true,
 				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["main raid tonight slay stormwall :)"] = true,
+				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  carapace"] = true,
 				["Mythic Azshara Wed + Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat"] = true,
-				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
+				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
 				["Wed Mythic EP @ 8pm CST. We are NOT raiding nov 29/30th. Normal Raid Schedule Dec 6/7"] = true,
 				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
-				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
+				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
 				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Mythic first 3 wed @7pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
 				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["heroic bod 2nite @ 7pm cst :)(: Main Raid Fri/Sat @ 830pm cst "] = true,
-				["Be ready to 1 night clear friday xd"] = true,
 				["heroic bod @ 7pm cst wed "] = true,
-				["Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Be ready to 1 night clear friday xd"] = true,
 				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
+				["Main Raid Fri/Sat @ 830pm cst "] = true,
+				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["HEROIC TODAY(WED) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Mythic nzoth fri/sat 830pm cst "] = true,
 				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
-				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
-				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["RIP Toshmonk"] = true,
 				["Mythic Carapace on Mon @ 8pm CST. please show up "] = true,
+				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Mythic BoD x4 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
-				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  carapace"] = true,
 				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
+				["doing 2 sets of 2 jainas @ 7pm cst.Mythic nzoth fri/sat 830pm cst "] = true,
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  be prepared for ilgy/carapace"] = true,
 				["Heroic Main Raid tonight @ 7pm cst (thurs 2/13). Main Raid Fri/Sat Look up vexiona"] = true,
-				["doing 3 sets of bod clear wed @ 7pm cst. Mythic nzoth fri/sat 830pm cst "] = true,
 				["1 night clear pls"] = true,
+				["4 x Mythic BoD Wed starting @ 7pm CST."] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
 		},
