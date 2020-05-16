@@ -92,7 +92,7 @@ TalentSetManager_CharacterSaves = {
 					1, -- [2]
 					1, -- [3]
 					2, -- [4]
-					2, -- [5]
+					3, -- [5]
 					3, -- [6]
 					1, -- [7]
 					["texture"] = 462328,

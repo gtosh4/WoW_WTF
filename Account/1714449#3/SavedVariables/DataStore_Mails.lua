@@ -41,12 +41,44 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/02/03 01:42",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1588725981,
-				["lastVisitDate"] = "2020/05/05 20:46",
+				["lastUpdate"] = 1589598100,
+				["Mails"] = {
+					{
+						["returned"] = true,
+						["sender"] = "Yorman",
+						["itemID"] = 173419,
+						["link"] = "|cff0070dd|Hitem:173419::::::::120:264::14::::|h[Black Empire Cloth Spaulders]|h|r",
+						["lastCheck"] = 1589598100,
+						["count"] = 1,
+						["icon"] = 3048010,
+						["daysLeft"] = 29.50048637390137,
+					}, -- [1]
+					{
+						["returned"] = true,
+						["sender"] = "Yorman",
+						["itemID"] = 173410,
+						["link"] = "|cff0070dd|Hitem:173410::::::::120:264::14::::|h[Black Empire Leather Helm]|h|r",
+						["lastCheck"] = 1589598100,
+						["count"] = 1,
+						["icon"] = 2978246,
+						["daysLeft"] = 29.50048637390137,
+					}, -- [2]
+					{
+						["returned"] = true,
+						["sender"] = "Yorman",
+						["itemID"] = 173420,
+						["link"] = "|cff0070dd|Hitem:173420::::::::120:264::14::::|h[Black Empire Cloth Belt]|h|r",
+						["lastCheck"] = 1589598100,
+						["count"] = 1,
+						["icon"] = 3048002,
+						["daysLeft"] = 29.50048637390137,
+					}, -- [3]
+				},
+				["lastVisitDate"] = "2020/05/15 23:01",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1589417929,
-				["lastVisitDate"] = "2020/05/13 20:58",
+				["lastUpdate"] = 1589591056,
+				["lastVisitDate"] = "2020/05/15 21:04",
 			},
 		},
 	},
