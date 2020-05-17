@@ -1,996 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p rip", -- [1]
-		"/p haven't you heard", -- [2]
-		"/p of sea monkeys", -- [3]
-		"/o who's felfanatic?", -- [4]
-		"/p nope", -- [5]
-		"/ec", -- [6]
-		"/cw Zurnoth-Mal'Ganis np", -- [7]
-		"/p me?", -- [8]
-		"/p who's the other tank", -- [9]
-		"/p oh", -- [10]
-		"/p thunderz", -- [11]
-		"/o we stop taking them", -- [12]
-		"/o we have a lot of people wanting to do these", -- [13]
-		"/o ox has other toons right", -- [14]
-		"/o he only has those 2?", -- [15]
-		"/o huh, thought he had more", -- [16]
-		"/o tehkz rogue", -- [17]
-		"/raid you're a healer now", -- [18]
-		"/tmw", -- [19]
-		"/bw", -- [20]
+		" SEC", -- [1]
+		" geez", -- [2]
+		" I'm hiding", -- [3]
+		" :P", -- [4]
+		"/p me?", -- [5]
+		"/o huh, thought he had more", -- [6]
+		"/bw", -- [7]
+		"/o ox has other toons right", -- [8]
+		"brb, need to pee", -- [9]
+		"/ec", -- [10]
+		"geez", -- [11]
+		":P", -- [12]
+		"/p thunderz", -- [13]
+		"/o we stop taking them", -- [14]
+		"/tmw", -- [15]
+		"I'm hiding", -- [16]
+		"/p oh", -- [17]
+		"SEC", -- [18]
+		"/o he only has those 2?", -- [19]
+		"/raid you're a healer now", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Pogs!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			435, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416389,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			447, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416440,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r cast on Phantom of Slaughter!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			467, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416526,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"3", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			482, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416572,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"2", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			483, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416573,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"1", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			484, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416575,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Phantom of Slaughter has ended!", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			486, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416577,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:1561:Player-9-0BB60E7C:1:5:13:20:4294967295:4294967295:4294967295:4294967295|h[1000 Fish]|h|r!", -- [1]
-			"Proudrunner-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Proudrunner-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			504, -- [11]
-			"Player-9-0BB60E7C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cProudrunner|r",
-			[51] = 1589416598,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [8]
-		{
-			"barbados has a new mic", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			509, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron-Area52|r",
-			[51] = 1589416600,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"yeah", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			510, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416615,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"sponsered by corona", -- [1]
-			"Kosaki-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kosaki-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-9-09432D66", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Kosaki|r",
-			[51] = 1589416620,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"|cffa335ee|Hitem:165565:5945:168642::::::120:577::6:4:4800:1808:1537:4786:::|h[Band of Multi-Sided Strikes]|h|r", -- [1]
-			"Illsong-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Illsong-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			512, -- [11]
-			"Player-9-0AF132BA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1589416625,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"|cffa335ee|Hitem:174532:6108:168636::::::120:70::3:9:4822:1808:6578:6579:6473:6470:6513:1487:4786:::|h[Ichorspine Loop]|h|r", -- [1]
-			"Dumbers-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dumbers-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			514, -- [11]
-			"Player-9-0BB5330A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dumbers|r",
-			[51] = 1589416653,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"3", -- [1]
-			"Thunderzhunt-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderzhunt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			554, -- [11]
-			"Player-3676-0AC52186", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderzhunt-Area52|r",
-			[51] = 1589416837,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"1", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			555, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1589416839,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			597, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416891,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			604, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416892,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			613, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416894,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			624, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416895,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			635, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416897,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			642, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416898,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"is that the legendary jake cloudburst vanquish", -- [1]
-			"Turkeyxd-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Turkeyxd-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			647, -- [11]
-			"Player-3676-098703CB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Turkeyxd-Area52|r",
-			[51] = 1589416899,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			654, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416900,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			662, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416901,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			670, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416903,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			675, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416904,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			682, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416906,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			687, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416907,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			692, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416909,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			696, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416910,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			701, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416912,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			706, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416913,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			710, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416915,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			714, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416916,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			720, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416918,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"Shrunk", -- [1]
-			"Toshdk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshdk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			725, -- [11]
-			"Player-9-0B9D6659", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Toshdk|r",
-			[51] = 1589416919,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"Shrunk", -- [1]
-			"Pogs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pogs-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			764, -- [11]
-			"Player-9-0B2E682B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Pogs|r",
-			[51] = 1589416929,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Shrunk", -- [1]
-			"Pogs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pogs-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			769, -- [11]
-			"Player-9-0B2E682B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Pogs|r",
-			[51] = 1589416931,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Shrunk", -- [1]
-			"Pogs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pogs-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			781, -- [11]
-			"Player-9-0B2E682B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Pogs|r",
-			[51] = 1589416932,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"Shrunk", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			785, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1589416934,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"Shrunk", -- [1]
-			"Pogs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pogs-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			788, -- [11]
-			"Player-9-0B2E682B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Pogs|r",
-			[51] = 1589416934,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"Shrunk", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			796, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1589416935,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Shrunk", -- [1]
-			"Pogs-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pogs-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			799, -- [11]
-			"Player-9-0B2E682B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Pogs|r",
-			[51] = 1589416935,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"Shrunk", -- [1]
-			"Yukio-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			808, -- [11]
-			"Player-9-0AFB89C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukio|r",
-			[51] = 1589416937,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
 		{
 			"Shrunk", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1012,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589416937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [1]
 		{
 			"Shrunk", -- [1]
 			"Pogs-Kil'jaeden", -- [2]
@@ -1034,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Pogs|r",
 			[51] = 1589416937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [2]
 		{
 			"Shrunk", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1056,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589416938,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [3]
 		{
 			"Shrunk", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1078,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589416938,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [4]
 		{
 			"Shrunk", -- [1]
 			"Pogs-Kil'jaeden", -- [2]
@@ -1100,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Pogs|r",
 			[51] = 1589416938,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [5]
 		{
 			"Illsong", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -1122,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1589416940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [6]
 		{
 			"Shrunk", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1144,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589416940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [7]
 		{
 			"Slåsh", -- [1]
 			"Slåsh-Kil'jaeden", -- [2]
@@ -1166,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Slåsh|r",
 			[51] = 1589416940,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [8]
 		{
 			"Shrunk", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1188,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589416944,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [9]
 		{
 			"Shrunk", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1210,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589416946,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [10]
 		{
 			"Shrunk", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1232,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589416947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [11]
 		{
 			"Shrunk", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1254,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589416947,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [12]
 		{
 			"Shrunk", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1276,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589416949,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [13]
 		{
 			"Shrunk", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1298,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589416949,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [14]
 		{
 			"Shrunk", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1320,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589416950,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [15]
 		{
 			"Miscalculated Teleport on Blueflame", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -1342,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1589416988,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [16]
 		{
 			"same groups as opulence", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1364,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417153,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [61]
+		}, -- [17]
 		{
 			"|cff71d5ff|Hspell:57934:0|h[Tricks of the Trade]|h|r cast on Toshdk!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1386,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1408,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [19]
 		{
 			"3", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1430,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417266,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [20]
 		{
 			"2", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1452,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417267,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [21]
 		{
 			"1", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1474,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417268,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [22]
 		{
 			"5", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -1496,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk|r",
 			[51] = 1589417327,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [23]
 		{
 			"forgot about the trash", -- [1]
 			"Slåsh-Kil'jaeden", -- [2]
@@ -1518,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Slåsh|r",
 			[51] = 1589417367,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [24]
 		{
 			"can you summon", -- [1]
 			"Slåsh-Kil'jaeden", -- [2]
@@ -1540,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Slåsh|r",
 			[51] = 1589417393,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [25]
 		{
 			"yep", -- [1]
 			"Blueflame-Kil'jaeden", -- [2]
@@ -1562,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBlueflame|r",
 			[51] = 1589417399,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [26]
 		{
 			"oh ", -- [1]
 			"Slåsh-Kil'jaeden", -- [2]
@@ -1584,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Slåsh|r",
 			[51] = 1589417414,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [27]
 		{
 			"ha", -- [1]
 			"Slåsh-Kil'jaeden", -- [2]
@@ -1606,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Slåsh|r",
 			[51] = 1589417415,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [28]
 		{
 			"anyone get leather last boss?", -- [1]
 			"Slåsh-Kil'jaeden", -- [2]
@@ -1628,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Slåsh|r",
 			[51] = 1589417454,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [29]
 		{
 			"12 left/fast", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1650,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417458,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [74]
+		}, -- [30]
 		{
 			"34 right/slow", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1672,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417461,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [75]
+		}, -- [31]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1694,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589417471,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [32]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -1716,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1589417491,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [33]
 		{
 			"make sure you tag boss", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -1738,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417497,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [78]
+		}, -- [34]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -1760,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417581,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [35]
 		{
 			"Freezing in 4", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1782,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [36]
 		{
 			"Freezing in 4", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1804,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417614,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [37]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1826,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417616,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [38]
 		{
 			"3", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1848,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589417640,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [39]
 		{
 			"3", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1870,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417641,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [40]
 		{
 			"2", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1892,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589417642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [41]
 		{
 			"2", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1914,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [42]
 		{
 			"1", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1936,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589417642,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [43]
 		{
 			"1", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1958,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417643,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [44]
 		{
 			"3", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -1980,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589417673,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [45]
 		{
 			"3", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2002,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417673,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [46]
 		{
 			"2", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2024,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589417674,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [47]
 		{
 			"2", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2046,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417674,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [48]
 		{
 			"1", -- [1]
 			"Yukio-Kil'jaeden", -- [2]
@@ -2068,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukio|r",
 			[51] = 1589417675,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [49]
 		{
 			"1", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2090,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417675,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [50]
 		{
 			"3", -- [1]
 			"Turkeyxd-Area52", -- [2]
@@ -2112,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Turkeyxd-Area52|r",
 			[51] = 1589417679,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [51]
 		{
 			"2", -- [1]
 			"Turkeyxd-Area52", -- [2]
@@ -2134,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Turkeyxd-Area52|r",
 			[51] = 1589417680,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [52]
 		{
 			"1", -- [1]
 			"Turkeyxd-Area52", -- [2]
@@ -2156,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Turkeyxd-Area52|r",
 			[51] = 1589417681,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [53]
 		{
 			"3", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2178,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417705,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [54]
 		{
 			"3", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -2200,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1589417705,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [55]
 		{
 			"2", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2222,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417706,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [56]
 		{
 			"2", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -2244,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1589417706,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [57]
 		{
 			"1", -- [1]
 			"Dumbers-Kil'jaeden", -- [2]
@@ -2266,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Dumbers|r",
 			[51] = 1589417707,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [58]
 		{
 			"1", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2288,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417707,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [59]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2310,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417743,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [60]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2332,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417743,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
+		}, -- [61]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Illsong-Kil'jaeden", -- [2]
@@ -2354,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Illsong|r",
 			[51] = 1589417751,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [62]
 		{
 			"Freezing in 4", -- [1]
 			"Scitron-Area52", -- [2]
@@ -2376,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417752,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [63]
 		{
 			"Freezing in 4", -- [1]
 			"Scitron-Area52", -- [2]
@@ -2398,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417758,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [64]
 		{
 			"Freezing in 4", -- [1]
 			"Scitron-Area52", -- [2]
@@ -2420,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417764,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [65]
 		{
 			"Freezing in 4", -- [1]
 			"Scitron-Area52", -- [2]
@@ -2442,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417768,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [66]
 		{
 			"Broadside (3{rt3}) on Delpi", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2464,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417769,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [67]
 		{
 			"3", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2486,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417772,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [112]
+		}, -- [68]
 		{
 			"3", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2508,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417772,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [113]
+		}, -- [69]
 		{
 			"3", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2530,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417772,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [114]
+		}, -- [70]
 		{
 			"2", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2552,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [71]
 		{
 			"2", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2574,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [72]
 		{
 			"2", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2596,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [73]
 		{
 			"|cff71d5ff|Hspell:31224:0|h[Cloak of Shadows]|h|r activated!", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2618,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [74]
 		{
 			"1", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2640,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [75]
 		{
 			"1", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2662,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [76]
 		{
 			"1", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2684,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417773,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [77]
 		{
 			"Freezing in 4", -- [1]
 			"Scitron-Area52", -- [2]
@@ -2706,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron-Area52|r",
 			[51] = 1589417775,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [78]
 		{
 			"anyone |cffa335ee|Hitem:165824::::::::120:259::6:4:4824:1537:4786:5421:::|h[Admiralty's Ceremonial Epaulets]|h|r", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2728,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417809,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
+		}, -- [79]
 		{
 			"thanks you 2", -- [1]
 			"Eau-Kil'jaeden", -- [2]
@@ -2750,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Eau|r",
 			[51] = 1589417823,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [124]
+		}, -- [80]
 		{
 			"nvm i gave ot buyer", -- [1]
 			"Kosaki-Kil'jaeden", -- [2]
@@ -2772,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kosaki|r",
 			[51] = 1589417826,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [125]
+		}, -- [81]
 		{
 			"did someone say..", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2794,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417846,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [126]
+		}, -- [82]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:428:Player-9-0B8BAB74:1:5:13:20:4294967295:4294967295:4294967295:4294967295|h[Thunderfury, Blessed Blade of the Windseeker]|h|r!", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2816,6 +1848,974 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589417849,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [83]
+		{
+			"brb, need to pee", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			599, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1589694244,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [84]
+		{
+			"k", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			600, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1589694247,
+			[50] = "CHAT_MSG_BN_WHISPER",
+		}, -- [85]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			601, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589694262,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"[WTS] WEEKEND DEALS! Mythic Plus +10-+18s || Armor Stacks || Freehold Boosting || Horrific Visions 0-5 Mask || AoTc || Heroic & Mythic Nyalotha! || DM for more info! GOLD ONLY", -- [1]
+			"Sintoll-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sintoll-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			602, -- [11]
+			"Player-9-0BCCD069", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSintoll|r",
+			[51] = 1589694301,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"WTS Weekend M+ SPECIALS! M+10-20s, run by 2.7k+ io players. Cheap M10 & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee. GOLD ONLY", -- [1]
+			"Xenoad-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Xenoad-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			603, -- [11]
+			"Player-9-0BCBA953", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Xenoad|r",
+			[51] = 1589694326,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			613, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589694406,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			618, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589694482,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"WTS |cffa335ee|Hitem:175006::::::::1:71:::8:1502:1808:4786:4823:6513:6551:6578:6579:::|h[Gauntlets of Nightmare Manifest]|h|r |cffa335ee|Hitem:175004::::::::1:71:::7:1517:4786:4824:6515:6563:6578:6579:::|h[Legwraps of Horrifying Figments]|h|r PST Offer", -- [1]
+			"Goblethunter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goblethunter-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			621, -- [11]
+			"Player-9-0AD0C330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGoblethunter|r",
+			[51] = 1589694514,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"WTS |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6543:6578:6579:::|h[Footpads of Terrible Delusions]|h|r, |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6563:6578:6579:::|h[Footpads of Terrible Delusions]|h|r PST Offer", -- [1]
+			"Goblethunter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goblethunter-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			622, -- [11]
+			"Player-9-0AD0C330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGoblethunter|r",
+			[51] = 1589694515,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"WTS Weekend M+ SPECIALS! M+10-20s, run by 2.7k+ io players. Cheap M10 & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee. GOLD ONLY", -- [1]
+			"Xenoad-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Xenoad-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			623, -- [11]
+			"Player-9-0BCBA953", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Xenoad|r",
+			[51] = 1589694517,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"[WTS] WEEKEND DEALS! Mythic Plus +10-+18s || Armor Stacks || Freehold Boosting || Horrific Visions 0-5 Mask || AoTc || Heroic & Mythic Nyalotha! || DM for more info! GOLD ONLY", -- [1]
+			"Sintoll-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sintoll-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			624, -- [11]
+			"Player-9-0BCCD069", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSintoll|r",
+			[51] = 1589694545,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"WTS Mythic+11-15keys Carry-Get weekly chest 465-475ilvl and 100% Corruption gear,also do Heroic Ny'alotha (12/12), and can do Mechagon 8/8 HM for mount[Aerial Unit R-21/X],PST", -- [1]
+			"Orndort-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orndort-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			628, -- [11]
+			"Player-9-0BCD405F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrndort|r",
+			[51] = 1589694589,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			629, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589694590,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTS:Heroic Ny'alotha12/12;Ny'alotha kill(AOTC); Mythic+11-15keys Carry;Get weekly chest 465-475ilvl and 100% Corruption gear;Also do Mechagon 8/8 get mount |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|r; Pst !", -- [1]
+			"Orndort-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Orndort-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			637, -- [11]
+			"Player-9-0BCD405F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrndort|r",
+			[51] = 1589694696,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"SEC", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			643, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1589694711,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [98]
+		{
+			"geez", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			644, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1589694713,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [99]
+		{
+			"I'm hiding", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			654, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1589694766,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [100]
+		{
+			":P", -- [1]
+			"|Kq17|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			655, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1589694770,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [101]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			665, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589694820,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589700906,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [103]
+		{
+			"cya losers in gquitting", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701004,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [104]
+		{
+			"wait", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701014,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [105]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589701019,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"i should put all my gold on this toon", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701021,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"almost made a mistake", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701023,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"LOL", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701024,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589701070,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"initiate order 52", -- [1]
+			"Delpi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-9-0B8BAB74", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Delpi|r",
+			[51] = 1589701100,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"alright cya losers", -- [1]
+			"Scizilla-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-9-0B7F4E26", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Scizilla|r",
+			[51] = 1589701112,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			41, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589701192,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"ok", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701279,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"for real this time", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			51, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701282,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"cya losers", -- [1]
+			"Sci-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-9-0B673F4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci|r",
+			[51] = 1589701283,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"Selling Low Priced Heroic Ny'alotha Full Clears Every Night! Cheap Funnel Options!  Offering Cara+N'zoth Bundles as well! Get your Keystone Master Achievement & Mount NOW! || Cheap M+ 10-15s || Mythic Ny'alotha || 5 Mask Visions || PST for more info! ", -- [1]
+			"Mumblesales-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mumblesales-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			73, -- [11]
+			"Player-9-0BC584F8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcMumblesales|r",
+			[51] = 1589701593,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"<Club House> 11/12M WTS H-NYO loot funnel to  mail,plate and cloth armor types for this sundays heroic run @ 9pm server time. All gear funneled directly to your amor type. Bring your freshly boosted toon or alt!Selling 12/12H PL as well.Pst for info!", -- [1]
+			"Tittanis-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tittanis-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			93, -- [11]
+			"Player-9-0152084A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cTittanis|r",
+			[51] = 1589702099,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			97, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589702258,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"<Club House>  11/12M WTS H-NYO loot funnel to mail, plate and cloth armor types for this Sundays heroic run @ 9pm server. All gear funneled directly to your armour type. Selling 1/12H pl aswell PST FOR INFO", -- [1]
+			"Hailas-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hailas-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			98, -- [11]
+			"Player-9-0BC4A83D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Hailas|r",
+			[51] = 1589702279,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			99, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589702320,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"WTS |cffa335ee|Hitem:175006::::::::1:71:::8:1502:1808:4786:4823:6513:6551:6578:6579:::|h[Gauntlets of Nightmare Manifest]|h|r |cffa335ee|Hitem:175004::::::::1:71:::7:1517:4786:4824:6515:6563:6578:6579:::|h[Legwraps of Horrifying Figments]|h|r PST Offer", -- [1]
+			"Goblethunter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goblethunter-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			100, -- [11]
+			"Player-9-0AD0C330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGoblethunter|r",
+			[51] = 1589702357,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTS |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6543:6578:6579:::|h[Footpads of Terrible Delusions]|h|r, |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6563:6578:6579:::|h[Footpads of Terrible Delusions]|h|r PST Offer", -- [1]
+			"Goblethunter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goblethunter-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			101, -- [11]
+			"Player-9-0AD0C330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGoblethunter|r",
+			[51] = 1589702357,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			103, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589702416,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
+			"Ismara-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ismara-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-9-0BCDAFDA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Ismara|r",
+			[51] = 1589702509,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WTS |cffa335ee|Hitem:175006::::::::1:71:::8:1502:1808:4786:4823:6513:6551:6578:6579:::|h[Gauntlets of Nightmare Manifest]|h|r |cffa335ee|Hitem:175004::::::::1:71:::7:1517:4786:4824:6515:6563:6578:6579:::|h[Legwraps of Horrifying Figments]|h|r PST Offer", -- [1]
+			"Goblethunter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goblethunter-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-9-0AD0C330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGoblethunter|r",
+			[51] = 1589702559,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"WTS |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6543:6578:6579:::|h[Footpads of Terrible Delusions]|h|r, |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6563:6578:6579:::|h[Footpads of Terrible Delusions]|h|r PST Offer", -- [1]
+			"Goblethunter-Kil'jaeden", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goblethunter-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			128, -- [11]
+			"Player-9-0AD0C330", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGoblethunter|r",
+			[51] = 1589702560,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

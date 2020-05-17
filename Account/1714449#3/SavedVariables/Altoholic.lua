@@ -17,7 +17,7 @@ AltoholicDB = {
 			},
 		},
 		["options"] = {
-			["UI.Tabs.Summary.CurrentRealms"] = 3,
+			["UI.Tabs.Summary.CurrentRealms"] = 1,
 			["Tabs.Grids.Default.Kil'jaeden.Column4"] = "Default.Kil'jaeden.Tosh",
 			["UI.Tabs.Characters.ViewVoidStorage"] = false,
 			["Tabs.Achievements.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshmonk",

@@ -12,45 +12,31 @@ DataStore_MailsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1589607460,
-				["lastVisitDate"] = "2020/05/16 01:37",
-			},
-			["Default.Greymane.Toshmoney"] = {
-				["lastUpdate"] = 1587675641,
-				["lastVisitDate"] = "2020/04/23 17:00",
-			},
 			["Default.Quel'dorei.Toshmoney"] = {
 				["lastUpdate"] = 1588222029,
 				["lastVisitDate"] = "2020/04/30 00:47",
 			},
+			["Default.Kil'jaeden.Toshdk"] = {
+				["lastUpdate"] = 1589695239,
+				["lastVisitDate"] = "2020/05/17 02:00",
+			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584068132,
 				["lastVisitDate"] = "2020/03/12 22:55",
-			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["lastUpdate"] = 1556088028,
-				["lastVisitDate"] = "2019/04/24 02:40",
-			},
-			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1588731426,
-				["lastVisitDate"] = "2020/05/05 22:17",
-			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586551361,
-				["lastVisitDate"] = "2020/04/10 16:42",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1585715225,
@@ -93,6 +79,22 @@ DataStore_MailsDB = {
 					}, -- [4]
 				},
 				["lastVisitDate"] = "2020/04/01 00:27",
+			},
+			["Default.Kil'jaeden.Toshpal"] = {
+				["lastUpdate"] = 1589697572,
+				["lastVisitDate"] = "2020/05/17 02:39",
+			},
+			["Default.Greymane.Toshmoney"] = {
+				["lastUpdate"] = 1587675641,
+				["lastVisitDate"] = "2020/04/23 17:00",
+			},
+			["Default.Kil'jaeden.Tosku"] = {
+				["lastUpdate"] = 1556088028,
+				["lastVisitDate"] = "2019/04/24 02:40",
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1586551361,
+				["lastVisitDate"] = "2020/04/10 16:42",
 			},
 		},
 	},

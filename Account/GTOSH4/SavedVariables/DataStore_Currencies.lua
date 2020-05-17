@@ -12,13 +12,15 @@ DataStore_CurrenciesDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -101,7 +103,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 3637,
+						["count"] = 3957,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -126,7 +128,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 12690,
+						["count"] = 14930,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -156,7 +158,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1589417817,
+				["lastUpdate"] = 1589700777,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -172,6 +174,47 @@ DataStore_CurrenciesDB = {
 					[994] = "0-0-0-0",
 					[1587] = "0-0-0-0",
 					[1565] = "0-0-0-0",
+				},
+			},
+			["Default.Illidan.Toshpala"] = {
+				["lastUpdate"] = 1589699248,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "0-0-0-0",
+					[824] = "0-0-0-0",
+					[1273] = "0-0-0-0",
+					[1191] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "0-0-0-0",
+					[1342] = "0-0-0-0",
+					[1226] = "0-0-0-0",
+					[1560] = "0-0-0-0",
+					[994] = "0-0-0-0",
+					[823] = "0-0-0-0",
+					[1580] = "0-0-0-0",
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
@@ -362,17 +405,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 42,
-						["count"] = 28364,
+						["count"] = 45317,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 43,
-						["count"] = 6945,
+						["count"] = 7296,
 					}, -- [4]
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 9846,
+						["count"] = 10015,
 					}, -- [5]
 					{
 						["isHeader"] = false,
@@ -392,17 +435,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 1,
+						["count"] = 2,
 					}, -- [9]
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 33351,
+						["count"] = 28601,
 					}, -- [10]
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 25386,
+						["count"] = 25586,
 					}, -- [11]
 					{
 						["isHeader"] = true,
@@ -492,7 +535,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1589607215,
+				["lastUpdate"] = 1589695295,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -504,10 +547,10 @@ DataStore_CurrenciesDB = {
 					[1710] = "727-0-0-0",
 					[1342] = "133-0-0-1000",
 					[1226] = "4841-0-0-0",
-					[1560] = "25386-0-0-0",
+					[1560] = "25586-0-0-0",
 					[994] = "0-0-0-0",
 					[823] = "0-0-0-0",
-					[1580] = "1-0-0-5",
+					[1580] = "2-0-0-5",
 				},
 			},
 			["Default.Greymane.Toshmoney"] = {
@@ -721,6 +764,147 @@ DataStore_CurrenciesDB = {
 					[994] = "0-0-0-0",
 					[1342] = "0-0-0-0",
 					[1580] = "0-0-0-0",
+				},
+			},
+			["Default.Area 52.Toshpal"] = {
+				["Currencies"] = {
+					{
+						["isHeader"] = true,
+						["index"] = 1,
+						["count"] = 0,
+					}, -- [1]
+					{
+						["isHeader"] = false,
+						["index"] = 11,
+						["count"] = 1070,
+					}, -- [2]
+					{
+						["isHeader"] = false,
+						["index"] = 42,
+						["count"] = 45317,
+					}, -- [3]
+					{
+						["isHeader"] = false,
+						["index"] = 43,
+						["count"] = 7296,
+					}, -- [4]
+					{
+						["isHeader"] = false,
+						["index"] = 44,
+						["count"] = 10015,
+					}, -- [5]
+					{
+						["isHeader"] = false,
+						["index"] = 2,
+						["count"] = 225,
+					}, -- [6]
+					{
+						["isHeader"] = false,
+						["index"] = 38,
+						["count"] = 27,
+					}, -- [7]
+					{
+						["isHeader"] = false,
+						["index"] = 3,
+						["count"] = 727,
+					}, -- [8]
+					{
+						["isHeader"] = false,
+						["index"] = 4,
+						["count"] = 2,
+					}, -- [9]
+					{
+						["isHeader"] = false,
+						["index"] = 5,
+						["count"] = 28601,
+					}, -- [10]
+					{
+						["isHeader"] = false,
+						["index"] = 6,
+						["count"] = 25586,
+					}, -- [11]
+					{
+						["isHeader"] = true,
+						["index"] = 7,
+						["count"] = 0,
+					}, -- [12]
+					{
+						["isHeader"] = false,
+						["index"] = 8,
+						["count"] = 3475,
+					}, -- [13]
+					{
+						["isHeader"] = true,
+						["index"] = 9,
+						["count"] = 0,
+					}, -- [14]
+					{
+						["isHeader"] = false,
+						["index"] = 10,
+						["count"] = 658,
+					}, -- [15]
+					{
+						["isHeader"] = false,
+						["index"] = 12,
+						["count"] = 62,
+					}, -- [16]
+					{
+						["isHeader"] = false,
+						["index"] = 13,
+						["count"] = 133,
+					}, -- [17]
+					{
+						["isHeader"] = false,
+						["index"] = 14,
+						["count"] = 4841,
+					}, -- [18]
+					{
+						["isHeader"] = false,
+						["index"] = 15,
+						["count"] = 683,
+					}, -- [19]
+					{
+						["isHeader"] = false,
+						["index"] = 16,
+						["count"] = 1,
+					}, -- [20]
+					{
+						["isHeader"] = false,
+						["index"] = 18,
+						["count"] = 847,
+					}, -- [21]
+					{
+						["isHeader"] = false,
+						["index"] = 19,
+						["count"] = 807,
+					}, -- [22]
+					{
+						["isHeader"] = true,
+						["index"] = 20,
+						["count"] = 0,
+					}, -- [23]
+					{
+						["isHeader"] = false,
+						["index"] = 22,
+						["count"] = 1300,
+					}, -- [24]
+				},
+				["lastUpdate"] = 1589702633,
+				["CurrencyInfo"] = {
+					[395] = "0-0-0-0",
+					[1220] = "683-0-0-0",
+					[824] = "1300-0-0-10000",
+					[1273] = "1-0-0-6",
+					[1191] = "0-0-0-0",
+					[1565] = "0-0-0-0",
+					[1587] = "0-0-0-0",
+					[1710] = "727-0-0-0",
+					[823] = "0-0-0-0",
+					[1226] = "4841-0-0-0",
+					[1560] = "25586-0-0-0",
+					[994] = "0-0-0-0",
+					[1580] = "2-0-0-5",
+					[1342] = "133-0-0-1000",
 				},
 			},
 		},

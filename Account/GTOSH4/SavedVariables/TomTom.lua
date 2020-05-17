@@ -12,13 +12,15 @@ TomTomDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshmoney - Quel'dorei"] = "Default",
+		["Toshpala - Illidan"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshtrial - Blood Furnace"] = "Default",
+		["Toshpal - Area 52"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Tosh - Frostwolf"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
 		["Sumex - Frostwolf"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
@@ -53,13 +55,15 @@ TomTomWaypointsM = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -110,9 +114,13 @@ TomTomWaypointsM = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
+		["Toshpala - Illidan"] = {
+		},
 		["Toshaman - Kil'jaeden"] = {
 		},
-		["Toshtrial - Blood Furnace"] = {
+		["Toshpal - Area 52"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},
@@ -122,7 +130,7 @@ TomTomWaypointsM = {
 		},
 		["Toshtrial - The Forgotten Coast"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshtrial - Blood Furnace"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

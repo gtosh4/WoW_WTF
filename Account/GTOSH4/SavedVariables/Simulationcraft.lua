@@ -12,13 +12,15 @@ SimulationCraftDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -60,12 +62,16 @@ SimulationCraftDB = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
+		["Toshpala - Illidan"] = {
+		},
 		["Toshaman - Kil'jaeden"] = {
 			["minimap"] = {
 				["hide"] = true,
 			},
 		},
-		["Toshtrial - Blood Furnace"] = {
+		["Toshpal - Area 52"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["minimap"] = {
@@ -79,7 +85,7 @@ SimulationCraftDB = {
 		},
 		["Toshtrial - The Forgotten Coast"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshtrial - Blood Furnace"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

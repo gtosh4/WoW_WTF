@@ -12,13 +12,15 @@ DataStore_TalentsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -31,8 +33,22 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "WARLOCK",
 			},
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1589702633,
+				["Specializations"] = {
+					6013, -- [1]
+				},
+				["Class"] = "PALADIN",
+			},
+			["Default.Illidan.Toshpala"] = {
+				["lastUpdate"] = 1589699313,
+				["Specializations"] = {
+					[3] = 0,
+				},
+				["Class"] = "PALADIN",
+			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1589417822,
+				["lastUpdate"] = 1589700777,
 				["Specializations"] = {
 					14697, -- [1]
 					0, -- [2]
@@ -56,7 +72,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1589607215,
+				["lastUpdate"] = 1589695295,
 				["Specializations"] = {
 					6013, -- [1]
 					14777, -- [2]
@@ -64,19 +80,19 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PALADIN",
 			},
-			["Default.Frostwolf.Koutetsu"] = {
-				["lastUpdate"] = 1581544117,
-				["Specializations"] = {
-					[3] = 0,
-				},
-				["Class"] = "SHAMAN",
-			},
 			["Default.Frostwolf.Tosh"] = {
 				["lastUpdate"] = 1581544037,
 				["Specializations"] = {
 					0, -- [1]
 				},
 				["Class"] = "ROGUE",
+			},
+			["Default.Frostwolf.Koutetsu"] = {
+				["lastUpdate"] = 1581544117,
+				["Specializations"] = {
+					[3] = 0,
+				},
+				["Class"] = "SHAMAN",
 			},
 			["Default.Frostwolf.Daggny"] = {
 				["lastUpdate"] = 1581543987,
@@ -130,13 +146,15 @@ DataStore_TalentsRefDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -708,24 +726,6 @@ DataStore_TalentsRefDB = {
 						22590, -- [1]
 						22557, -- [2]
 						22175, -- [3]
-						22319, -- [4]
-						22592, -- [5]
-						22593, -- [6]
-						22896, -- [7]
-						22180, -- [8]
-						21811, -- [9]
-						22375, -- [10]
-						22182, -- [11]
-						22183, -- [12]
-						22595, -- [13]
-						22185, -- [14]
-						22186, -- [15]
-						23167, -- [16]
-						22483, -- [17]
-						23086, -- [18]
-						22591, -- [19]
-						22215, -- [20]
-						22634, -- [21]
 					},
 				}, -- [3]
 			},

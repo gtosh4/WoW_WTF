@@ -165,6 +165,21 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
+	["Toshpala-Illidan"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			[3] = {
+			},
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Daggny-Frostwolf"] = {
 		["talents"] = {
 			[3] = {
@@ -181,6 +196,21 @@ TalentSetManager_CharacterSaves = {
 		},
 	},
 	["Toshmoney-Quel'dorei"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshpal-Area 52"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {

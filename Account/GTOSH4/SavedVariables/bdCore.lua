@@ -14,6 +14,20 @@ BD_persistent = {
 		},
 	},
 	["users"] = {
+		["Koutetsu"] = {
+			["profile"] = "default",
+			["name"] = "Koutetsu",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 		["Tosku"] = {
 			["profile"] = "default",
 			["name"] = "Tosku",
@@ -28,9 +42,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Koutetsu"] = {
+		["Toshaman"] = {
 			["profile"] = "default",
-			["name"] = "Koutetsu",
+			["name"] = "Toshaman",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -56,9 +70,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshaman"] = {
+		["Toshpala"] = {
 			["profile"] = "default",
-			["name"] = "Toshaman",
+			["name"] = "Toshpala",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -140,20 +154,6 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Sumex"] = {
-			["profile"] = "default",
-			["name"] = "Sumex",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
@@ -171,6 +171,20 @@ BD_persistent = {
 		["Toshmonk"] = {
 			["profile"] = "default",
 			["name"] = "Toshmonk",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Sumex"] = {
+			["profile"] = "default",
+			["name"] = "Sumex",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -283,6 +297,7 @@ BD_persistent = {
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 				["kill boss this friday thankz."] = true,
 				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["Initiate your transfers to a52"] = true,
 				["Heroic Crucible Wed @ 7pm cst. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["H EP tonight @ 7pm cst(wed) if people are around. Main Raid Fri/Sat 830pm-1230am cst. "] = true,

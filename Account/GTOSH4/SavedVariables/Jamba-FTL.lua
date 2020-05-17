@@ -1,45 +1,25 @@
 
 JambaFTLProfileDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Toshpal - Kil'jaeden"] = {
-			["CharListWithModifiers"] = {
-				["Toshpal-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["rshift"] = false,
-					["lctrl"] = false,
-					["lalt"] = false,
-				},
-				["Toshaman-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["rshift"] = false,
-					["lctrl"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
 		["Toshdk - Kil'jaeden"] = {
 			["CharListWithModifiers"] = {
 				[""] = {
@@ -80,32 +60,6 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Toshpriest - Illidan"] = {
-			["CharListWithModifiers"] = {
-				["Toshpriest-Illidan"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
-		["Toshmoney - Greymane"] = {
-			["CharListWithModifiers"] = {
-				["Toshmoney-Greymane"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
 		["Daggny - Frostwolf"] = {
 			["CharListWithModifiers"] = {
 				["Daggny-Frostwolf"] = {
@@ -118,32 +72,6 @@ JambaFTLProfileDB = {
 					["lalt"] = false,
 				},
 				["Toshpal-Kil'jaeden"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
-		["Toshmoney - Quel'dorei"] = {
-			["CharListWithModifiers"] = {
-				["Toshmoney-Quel'dorei"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["rshift"] = false,
-					["lctrl"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
-		["Toshaman - Area 52"] = {
-			["CharListWithModifiers"] = {
-				["Toshaman-Area52"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -229,9 +157,44 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Tosh - Frostwolf"] = {
+		["Toshmoney - Greymane"] = {
 			["CharListWithModifiers"] = {
-				["Tosh-Frostwolf"] = {
+				["Toshmoney-Greymane"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Zallie - Frostwolf"] = {
+			["CharListWithModifiers"] = {
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+				["Zallie-Frostwolf"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshpal - Kil'jaeden"] = {
+			["CharListWithModifiers"] = {
+				["Toshpal-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -240,7 +203,7 @@ JambaFTLProfileDB = {
 					["lctrl"] = false,
 					["lalt"] = false,
 				},
-				["Toshpal-Kil'jaeden"] = {
+				["Toshaman-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -251,9 +214,22 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshpriest - Illidan"] = {
 			["CharListWithModifiers"] = {
-				["Koutetsu-Frostwolf"] = {
+				["Toshpriest-Illidan"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["CharListWithModifiers"] = {
+				["Toshpal-Area52"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -262,13 +238,30 @@ JambaFTLProfileDB = {
 					["lctrl"] = false,
 					["lalt"] = false,
 				},
-				["Toshpal-Kil'jaeden"] = {
+			},
+		},
+		["Toshpala - Illidan"] = {
+			["CharListWithModifiers"] = {
+				["Toshpala-Illidan"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
 					["rshift"] = false,
 					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshaman - Area 52"] = {
+			["CharListWithModifiers"] = {
+				["Toshaman-Area52"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
 			},
@@ -322,24 +315,59 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Zallie - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 			["CharListWithModifiers"] = {
+				["Koutetsu-Frostwolf"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
 				["Toshpal-Kil'jaeden"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
-				["Zallie-Frostwolf"] = {
+			},
+		},
+		["Toshmoney - Quel'dorei"] = {
+			["CharListWithModifiers"] = {
+				["Toshmoney-Quel'dorei"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["lctrl"] = false,
 					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Tosh - Frostwolf"] = {
+			["CharListWithModifiers"] = {
+				["Tosh-Frostwolf"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
+					["lalt"] = false,
+				},
+				["Toshpal-Kil'jaeden"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},

@@ -1,8 +1,10 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/who toshmonk", -- [1]
-		" inv", -- [2]
+		" inv", -- [1]
+		"inv", -- [2]
+		"/who toshmonk", -- [3]
+		"/ec", -- [4]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -533,5 +535,49 @@ ElvCharacterDB = {
 			[51] = 1588817198,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [24]
+		{
+			"WTS M+ 12-15 ONLY GOLD! Get done your weekly chest with 465 or 475 item + titanium residuum, we are ready to go, whisp me for info!!!", -- [1]
+			"Deádlyshóot-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deádlyshóot-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-3676-0A2546FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Deádlyshóot|r",
+			[51] = 1589699514,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [25]
+		{
+			"WTS M+ 12-15 ONLY GOLD! Get done your weekly chest with 465 or 475 item + titanium residuum, we are ready to go, whisp me for info!!!", -- [1]
+			"Deádlyshóot-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deádlyshóot-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-3676-0A2546FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Deádlyshóot|r",
+			[51] = 1589699590,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [26]
 	},
 }

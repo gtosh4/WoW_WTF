@@ -1,37 +1,29 @@
 
 JambaFollowProfileDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
-		["Toshpal - Kil'jaeden"] = {
-		},
 		["Toshdk - Kil'jaeden"] = {
 			["autoFollowAfterCombat"] = true,
 		},
-		["Toshpriest - Illidan"] = {
-		},
-		["Toshmoney - Greymane"] = {
-		},
 		["Daggny - Frostwolf"] = {
-		},
-		["Toshmoney - Quel'dorei"] = {
-		},
-		["Toshaman - Area 52"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
@@ -40,13 +32,27 @@ JambaFollowProfileDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Toshmoney - Greymane"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Zallie - Frostwolf"] = {
+		},
+		["Toshpal - Kil'jaeden"] = {
+		},
+		["Toshpriest - Illidan"] = {
+		},
+		["Toshpal - Area 52"] = {
+		},
+		["Toshpala - Illidan"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Default"] = {
 		},
-		["Zallie - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
+		},
+		["Toshmoney - Quel'dorei"] = {
+		},
+		["Tosh - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

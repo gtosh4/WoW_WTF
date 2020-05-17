@@ -1,40 +1,30 @@
 
 HandyNotesDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Toshpal - Kil'jaeden"] = {
-		},
 		["Toshdk - Kil'jaeden"] = {
 			["icon_alpha_minimap"] = 0.36,
 		},
-		["Toshpriest - Illidan"] = {
-		},
-		["Toshmoney - Quel'dorei"] = {
-		},
 		["Daggny - Frostwolf"] = {
-		},
-		["Toshaman - Kil'jaeden"] = {
-			["icon_scale"] = 0.6000000000000001,
-			["icon_scale_minimap"] = 0.8,
-		},
-		["Toshaman - Area 52"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
@@ -42,13 +32,29 @@ HandyNotesDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
-		["Tosh - Frostwolf"] = {
-		},
 		["Toshmoney - Greymane"] = {
+		},
+		["Zallie - Frostwolf"] = {
+		},
+		["Toshpal - Kil'jaeden"] = {
+		},
+		["Toshpriest - Illidan"] = {
+		},
+		["Toshpal - Area 52"] = {
+		},
+		["Toshpala - Illidan"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["icon_scale"] = 0.6000000000000001,
+			["icon_scale_minimap"] = 0.8,
+		},
+		["Tosh - Frostwolf"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Zallie - Frostwolf"] = {
+		["Toshmoney - Quel'dorei"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
@@ -58,37 +64,29 @@ HandyNotesDB = {
 }
 HandyNotes_HandyNotesDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
-		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Tosku - Kil'jaeden"] = "Tosku - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshmoney - Greymane"] = "Toshmoney - Greymane",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Toshpal - Kil'jaeden"] = {
-		},
 		["Toshdk - Kil'jaeden"] = {
 		},
-		["Toshpriest - Illidan"] = {
-		},
-		["Toshmoney - Quel'dorei"] = {
-		},
 		["Daggny - Frostwolf"] = {
-		},
-		["Toshaman - Kil'jaeden"] = {
-		},
-		["Toshaman - Area 52"] = {
 		},
 		["Tosku - Kil'jaeden"] = {
 		},
@@ -96,13 +94,27 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
-		["Tosh - Frostwolf"] = {
-		},
 		["Toshmoney - Greymane"] = {
+		},
+		["Zallie - Frostwolf"] = {
+		},
+		["Toshpal - Kil'jaeden"] = {
+		},
+		["Toshpriest - Illidan"] = {
+		},
+		["Toshpal - Area 52"] = {
+		},
+		["Toshpala - Illidan"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
+		},
+		["Tosh - Frostwolf"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Zallie - Frostwolf"] = {
+		["Toshmoney - Quel'dorei"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

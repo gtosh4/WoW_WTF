@@ -12,13 +12,15 @@ DataStore_PetsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -150,14 +152,41 @@ DataStore_PetsDB = {
 			["Default.Area 52.Toshaman"] = {
 				["lastUpdate"] = 1587014541,
 			},
-			["Default.Quel'dorei.Toshmoney"] = {
-				["lastUpdate"] = 1588221831,
-			},
 			["Default.Illidan.Toshpriest"] = {
 				["lastUpdate"] = 1585854323,
 			},
+			["Default.Kil'jaeden.Toshwar"] = {
+				["lastUpdate"] = 1584068457,
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1589421598,
+				["CRITTER"] = {
+					62746, -- [1]
+					10714, -- [2]
+					173547, -- [3]
+					69452, -- [4]
+					279631, -- [5]
+					177225, -- [6]
+					170270, -- [7]
+					177224, -- [8]
+					274776, -- [9]
+					177221, -- [10]
+					55068, -- [11]
+					229092, -- [12]
+					170269, -- [13]
+					69002, -- [14]
+					273195, -- [15]
+					177241, -- [16]
+					195370, -- [17]
+					288914, -- [18]
+					280333, -- [19]
+					177237, -- [20]
+					26045, -- [21]
+					221907, -- [22]
+				},
+			},
 			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1589607215,
+				["lastUpdate"] = 1589695296,
 				["CRITTER"] = {
 					315302, -- [1]
 					315229, -- [2]
@@ -204,85 +233,8 @@ DataStore_PetsDB = {
 					301015, -- [43]
 				},
 			},
-			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1589417817,
-				["CRITTER"] = {
-					315302, -- [1]
-					315290, -- [2]
-					286483, -- [3]
-					315270, -- [4]
-					177221, -- [5]
-					312030, -- [6]
-					315301, -- [7]
-					312029, -- [8]
-				},
-			},
-			["Default.Kil'jaeden.Toshwar"] = {
-				["lastUpdate"] = 1584068457,
-			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1589421598,
-				["CRITTER"] = {
-					62746, -- [1]
-					10714, -- [2]
-					173547, -- [3]
-					69452, -- [4]
-					279631, -- [5]
-					177225, -- [6]
-					170270, -- [7]
-					177224, -- [8]
-					274776, -- [9]
-					177221, -- [10]
-					55068, -- [11]
-					229092, -- [12]
-					170269, -- [13]
-					69002, -- [14]
-					273195, -- [15]
-					177241, -- [16]
-					195370, -- [17]
-					288914, -- [18]
-					280333, -- [19]
-					177237, -- [20]
-					26045, -- [21]
-					221907, -- [22]
-				},
-			},
-			["Default.Frostwolf.Koutetsu"] = {
-				["lastUpdate"] = 1581544118,
-				["CRITTER"] = {
-					10714, -- [1]
-					78683, -- [2]
-					10716, -- [3]
-					69452, -- [4]
-					10717, -- [5]
-					84752, -- [6]
-					55068, -- [7]
-					69002, -- [8]
-					70613, -- [9]
-					42609, -- [10]
-					48406, -- [11]
-					10688, -- [12]
-					51851, -- [13]
-					26529, -- [14]
-				},
-			},
 			["Default.Greymane.Toshmoney"] = {
 				["lastUpdate"] = 1587675627,
-			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1587014754,
-				["CRITTER"] = {
-					10675, -- [1]
-				},
-			},
-			["Default.Frostwolf.Tosh"] = {
-				["lastUpdate"] = 1581544039,
-				["CRITTER"] = {
-					69452, -- [1]
-					170270, -- [2]
-					168668, -- [3]
-					55068, -- [4]
-				},
 			},
 			["Default.Kil'jaeden.Tosku"] = {
 				["lastUpdate"] = 1586184087,
@@ -309,6 +261,107 @@ DataStore_PetsDB = {
 					179835, -- [20]
 					193514, -- [21]
 					221907, -- [22]
+				},
+			},
+			["Default.Frostwolf.Tosh"] = {
+				["lastUpdate"] = 1581544039,
+				["CRITTER"] = {
+					69452, -- [1]
+					170270, -- [2]
+					168668, -- [3]
+					55068, -- [4]
+				},
+			},
+			["Default.Quel'dorei.Toshmoney"] = {
+				["lastUpdate"] = 1588221831,
+			},
+			["Default.Kil'jaeden.Toshdk"] = {
+				["lastUpdate"] = 1589700778,
+				["CRITTER"] = {
+					315302, -- [1]
+					315290, -- [2]
+					286483, -- [3]
+					315270, -- [4]
+					177221, -- [5]
+					312030, -- [6]
+					315301, -- [7]
+					312029, -- [8]
+				},
+			},
+			["Default.Illidan.Toshpala"] = {
+				["lastUpdate"] = 1589699248,
+			},
+			["Default.Frostwolf.Koutetsu"] = {
+				["lastUpdate"] = 1581544118,
+				["CRITTER"] = {
+					10714, -- [1]
+					78683, -- [2]
+					10716, -- [3]
+					69452, -- [4]
+					10717, -- [5]
+					84752, -- [6]
+					55068, -- [7]
+					69002, -- [8]
+					70613, -- [9]
+					42609, -- [10]
+					48406, -- [11]
+					10688, -- [12]
+					51851, -- [13]
+					26529, -- [14]
+				},
+			},
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1589702634,
+				["CRITTER"] = {
+					315302, -- [1]
+					315229, -- [2]
+					301137, -- [3]
+					288867, -- [4]
+					280332, -- [5]
+					315290, -- [6]
+					69452, -- [7]
+					177235, -- [8]
+					259758, -- [9]
+					230444, -- [10]
+					191073, -- [11]
+					315270, -- [12]
+					273839, -- [13]
+					210691, -- [14]
+					301029, -- [15]
+					147124, -- [16]
+					177219, -- [17]
+					301053, -- [18]
+					301031, -- [19]
+					55068, -- [20]
+					315221, -- [21]
+					280334, -- [22]
+					301033, -- [23]
+					177240, -- [24]
+					273195, -- [25]
+					315231, -- [26]
+					315304, -- [27]
+					195370, -- [28]
+					318300, -- [29]
+					280333, -- [30]
+					279930, -- [31]
+					177226, -- [32]
+					286482, -- [33]
+					177230, -- [34]
+					288598, -- [35]
+					315225, -- [36]
+					315303, -- [37]
+					315298, -- [38]
+					315297, -- [39]
+					312030, -- [40]
+					315301, -- [41]
+					312029, -- [42]
+					301015, -- [43]
+				},
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1587014754,
+				["CRITTER"] = {
+					10675, -- [1]
 				},
 			},
 			["Default.Frostwolf.Daggny"] = {

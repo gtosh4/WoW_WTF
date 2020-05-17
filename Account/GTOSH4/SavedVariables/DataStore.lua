@@ -12,13 +12,15 @@ DataStoreDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
@@ -39,18 +41,7 @@ DataStoreDB = {
 			["Default.Area 52.Toshaman"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Quel'dorei.Toshmoney"] = {
-				["faction"] = "Horde",
-			},
 			["Default.Illidan.Toshpriest"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["faction"] = "Horde",
-				["guildName"] = "Rivalry",
-			},
-			["Default.Kil'jaeden.Toshdk"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
@@ -61,21 +52,38 @@ DataStoreDB = {
 				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
 			},
-			["Default.Frostwolf.Koutetsu"] = {
+			["Default.Kil'jaeden.Toshpal"] = {
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Greymane.Toshmoney"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["guildName"] = "sheeple",
+			["Default.Kil'jaeden.Tosku"] = {
+				["guildName"] = "Koopa Troopa",
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Tosh"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Tosku"] = {
-				["guildName"] = "Koopa Troopa",
+			["Default.Quel'dorei.Toshmoney"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Toshdk"] = {
+				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
+			},
+			["Default.Illidan.Toshpala"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostwolf.Koutetsu"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Area 52.Toshpal"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["guildName"] = "sheeple",
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Daggny"] = {

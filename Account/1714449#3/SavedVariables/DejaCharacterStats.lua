@@ -28,21 +28,21 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsShowClassicChecked"] = {
 			["SetChecked"] = false,
 		},
-		["dejacharacterstatsHideMasteryChecked"] = {
-			["SetChecked"] = true,
+		["dejacharacterstatsShowDuraTextureChecked"] = {
+			["ShowDuraTextureSetChecked"] = false,
 		},
 		["dejacharacterstatsSimpleItemColorChecked"] = {
 			["SimpleItemColorChecked"] = false,
 			["DarkerItemColorChecked"] = true,
 		},
-		["dejacharacterstatsShowDuraTextureChecked"] = {
-			["ShowDuraTextureSetChecked"] = false,
+		["dejacharacterstatsHideMasteryChecked"] = {
+			["SetChecked"] = true,
 		},
 		["dejacharacterstatsItemLevelChecked"] = {
 			["ItemLevelTwoDecimalsSetChecked"] = false,
 			["ItemLevelEQ_AV_SetChecked"] = true,
-			["ItemLevelClassColorSetChecked"] = true,
 			["ItemLevelDecimalsSetChecked"] = true,
+			["ItemLevelClassColorSetChecked"] = true,
 		},
 		["dejacharacterstatsClassBackgroundChecked"] = {
 			["ClassBackgroundChecked"] = true,
@@ -191,11 +191,11 @@ DCS_ClassSpecDB = {
 		}, -- [37]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = false,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = false,
-			["hideAt"] = 0,
 		}, -- [38]
 		{
 			["statKey"] = "RatingCategory",
@@ -445,11 +445,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
-			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -676,11 +676,11 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [53]
 		["uniqueKey"] = "Toshweaver:Area 52:2",
 	},
@@ -831,11 +831,11 @@ DCS_ClassSpecDB = {
 		}, -- [41]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = false,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = false,
 		}, -- [42]
 		{
 			["statKey"] = "RatingCategory",
@@ -1021,11 +1021,11 @@ DCS_ClassSpecDB = {
 		}, -- [37]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = false,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = false,
 		}, -- [38]
 		{
 			["statKey"] = "RatingCategory",
@@ -1272,11 +1272,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Toshpal:Kil'jaeden:1",
 	},
@@ -1485,11 +1485,11 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [53]
 		["uniqueKey"] = "Toshpal:Area 52:3",
 	},
@@ -1682,11 +1682,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:1",
 	},
@@ -1885,11 +1885,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -1908,7 +1908,7 @@ DCS_ClassSpecDB = {
 		}, -- [53]
 		["uniqueKey"] = "Tosh:Kil'jaeden:1",
 	},
-	["Toshaman:Kil'jaeden:3"] = {
+	["Toshaman:Kil'jaeden:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -1920,7 +1920,6 @@ DCS_ClassSpecDB = {
 		}, -- [3]
 		{
 			["statKey"] = "DCS_POWER",
-			["hidden"] = true,
 		}, -- [4]
 		{
 			["statKey"] = "DCS_ALTERNATEMANA",
@@ -1937,7 +1936,6 @@ DCS_ClassSpecDB = {
 		}, -- [8]
 		{
 			["statKey"] = "REPAIR_COST",
-			["hidden"] = true,
 		}, -- [9]
 		{
 			["statKey"] = "AttributesCategory",
@@ -1980,11 +1978,9 @@ DCS_ClassSpecDB = {
 		}, -- [20]
 		{
 			["statKey"] = "SPELLPOWER",
-			["hidden"] = true,
 		}, -- [21]
 		{
 			["statKey"] = "MANAREGEN",
-			["hidden"] = true,
 		}, -- [22]
 		{
 			["statKey"] = "ENERGY_REGEN",
@@ -2025,7 +2021,6 @@ DCS_ClassSpecDB = {
 		{
 			["statKey"] = "AVOIDANCE",
 			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [33]
 		{
 			["statKey"] = "DefenseCategory",
@@ -2123,7 +2118,7 @@ DCS_ClassSpecDB = {
 			["statKey"] = "CR_TOTAL_CORRUPTION",
 			["hideAt"] = 0,
 		}, -- [53]
-		["uniqueKey"] = "Toshaman:Kil'jaeden:3",
+		["uniqueKey"] = "Toshaman:Kil'jaeden:1",
 	},
 	["Toshaman:Dreadmaul:1"] = {
 		{
@@ -2333,11 +2328,11 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [53]
 		["uniqueKey"] = "Toshaman:Dreadmaul:1",
 	},
@@ -2530,11 +2525,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
-			["hideAt"] = 0,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -2742,11 +2737,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
-			["hideAt"] = 0,
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:4",
 	},
@@ -2952,11 +2947,11 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
-			["hideAt"] = 0,
 		}, -- [53]
 		["uniqueKey"] = "Toshaman:Kil'jaeden:2",
 	},
@@ -3149,11 +3144,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
+			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
-			["hideAt"] = 0,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -3172,7 +3167,7 @@ DCS_ClassSpecDB = {
 		}, -- [53]
 		["uniqueKey"] = "Toshmonk:Kil'jaeden:2",
 	},
-	["Toshaman:Kil'jaeden:1"] = {
+	["Toshaman:Kil'jaeden:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
@@ -3184,6 +3179,7 @@ DCS_ClassSpecDB = {
 		}, -- [3]
 		{
 			["statKey"] = "DCS_POWER",
+			["hidden"] = true,
 		}, -- [4]
 		{
 			["statKey"] = "DCS_ALTERNATEMANA",
@@ -3200,6 +3196,7 @@ DCS_ClassSpecDB = {
 		}, -- [8]
 		{
 			["statKey"] = "REPAIR_COST",
+			["hidden"] = true,
 		}, -- [9]
 		{
 			["statKey"] = "AttributesCategory",
@@ -3242,9 +3239,11 @@ DCS_ClassSpecDB = {
 		}, -- [20]
 		{
 			["statKey"] = "SPELLPOWER",
+			["hidden"] = true,
 		}, -- [21]
 		{
 			["statKey"] = "MANAREGEN",
+			["hidden"] = true,
 		}, -- [22]
 		{
 			["statKey"] = "ENERGY_REGEN",
@@ -3285,6 +3284,7 @@ DCS_ClassSpecDB = {
 		{
 			["statKey"] = "AVOIDANCE",
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [33]
 		{
 			["statKey"] = "DefenseCategory",
@@ -3364,8 +3364,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -3382,7 +3382,7 @@ DCS_ClassSpecDB = {
 			["statKey"] = "CR_TOTAL_CORRUPTION",
 			["hideAt"] = 0,
 		}, -- [53]
-		["uniqueKey"] = "Toshaman:Kil'jaeden:1",
+		["uniqueKey"] = "Toshaman:Kil'jaeden:3",
 	},
 	["Toshmonk:Kil'jaeden:3"] = {
 		{
@@ -3571,11 +3571,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		{
 			["statKey"] = "DCS_MOVESPEED",

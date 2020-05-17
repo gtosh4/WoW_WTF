@@ -118,13 +118,37 @@ VWQL = {
 		["FilterType"] = {
 		},
 		["Quests"] = {
+			[52387] = true,
 			[43943] = true,
+			[50866] = true,
+			[58749] = true,
+			[58742] = true,
+			[58705] = true,
+			[52892] = true,
 			[52877] = true,
+			[50633] = true,
 		},
 		["Filter"] = 63,
 	},
 	["Toshtrial-TheForgottenCoast"] = {
 		["VERSION"] = 87,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Toshpal-Area52"] = {
+		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Toshpala-Illidan"] = {
+		["VERSION"] = 92,
 		["Filter"] = 63,
 		["RegularQuestMode"] = true,
 		["Quests"] = {

@@ -16,17 +16,17 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1578018411,
 				["lastVisitDate"] = "2020/01/02 21:26",
 			},
-			["Default.Dreadmaul.Toshaman"] = {
-				["lastUpdate"] = 1587009575,
-				["lastVisitDate"] = "2020/04/15 23:59",
+			["Default.Kil'jaeden.Tosh"] = {
+				["lastUpdate"] = 1589590928,
+				["lastVisitDate"] = "2020/05/15 21:02",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1589424706,
 				["lastVisitDate"] = "2020/05/13 22:51",
 			},
-			["Default.Kil'jaeden.Tosh"] = {
-				["lastUpdate"] = 1589590928,
-				["lastVisitDate"] = "2020/05/15 21:02",
+			["Default.Dreadmaul.Toshaman"] = {
+				["lastUpdate"] = 1587009575,
+				["lastVisitDate"] = "2020/04/15 23:59",
 			},
 		},
 	},

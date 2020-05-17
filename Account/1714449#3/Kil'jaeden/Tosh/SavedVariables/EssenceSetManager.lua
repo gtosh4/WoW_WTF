@@ -1,5 +1,7 @@
 
 EssenceSetManager = {
+	["Shadow"] = {
+	},
 	["Discipline"] = {
 		["raid"] = {
 			["major"] = {
@@ -61,7 +63,5 @@ EssenceSetManager = {
 				},
 			},
 		},
-	},
-	["Shadow"] = {
 	},
 }
