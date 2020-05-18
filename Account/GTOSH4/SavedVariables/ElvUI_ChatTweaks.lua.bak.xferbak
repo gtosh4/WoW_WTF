@@ -1,0 +1,224 @@
+
+ElvUI_ChatTweaksDB = {
+	["namespaces"] = {
+		["EmoteFilter"] = {
+		},
+		["AutoWelcome"] = {
+		},
+		["DamageMeters"] = {
+			["global"] = {
+				["Party Leader"] = 2,
+				["Raid Leader"] = 2,
+				["Instance Chat Leader"] = 2,
+				["Yell"] = 2,
+				["Instance Chat"] = 2,
+				["Party"] = 2,
+				["Whisper"] = 2,
+				["Channel"] = 2,
+				["Guild"] = 2,
+				["Raid"] = 2,
+				["Say"] = 2,
+				["Officer"] = 2,
+			},
+		},
+		["PetBattles"] = {
+		},
+		["FunFilters"] = {
+		},
+		["AutoCongratulate"] = {
+		},
+		["ChannelColors"] = {
+			["global"] = {
+				["colors"] = {
+					["Party Leader"] = {
+						["r"] = 0.4627451300621033,
+						["g"] = 0.7843137979507446,
+						["b"] = 1,
+					},
+					["Instance Leader"] = {
+						["r"] = 1,
+						["g"] = 0.2823529541492462,
+						["b"] = 0.03529411926865578,
+					},
+					["Instance"] = {
+						["r"] = 1,
+						["g"] = 0.4980392456054688,
+						["b"] = 0,
+					},
+					["Raid Leader"] = {
+						["r"] = 1,
+						["g"] = 0.2823529541492462,
+						["b"] = 0.03529411926865578,
+					},
+					["Yell"] = {
+						["r"] = 1,
+						["g"] = 0.250980406999588,
+						["b"] = 0.250980406999588,
+					},
+					["Officer"] = {
+						["r"] = 0.5372549295425415,
+						["g"] = 0.5686274766921997,
+						["b"] = 0.803921639919281,
+					},
+					["Party"] = {
+						["r"] = 0.6666666865348816,
+						["g"] = 0.6666666865348816,
+						["b"] = 1,
+					},
+					["Whisper"] = {
+						["r"] = 1,
+						["g"] = 0.501960813999176,
+						["b"] = 1,
+					},
+					["Say"] = {
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+					["Guild"] = {
+						["r"] = 0.250980406999588,
+						["g"] = 1,
+						["b"] = 0.250980406999588,
+					},
+					["Raid"] = {
+						["r"] = 1,
+						["g"] = 0.4980392456054688,
+						["b"] = 0,
+					},
+					["Real ID Whisper"] = {
+						["r"] = 0,
+						["g"] = 1,
+						["b"] = 0.9647059440612793,
+					},
+					["Raid Warning"] = {
+						["r"] = 1,
+						["g"] = 0.2823529541492462,
+						["b"] = 0,
+					},
+				},
+			},
+		},
+		["GoldCalculator"] = {
+		},
+		["ChannelSounds"] = {
+		},
+		["AutoFarewell"] = {
+		},
+		["Reputation"] = {
+		},
+		["RepeatCommand"] = {
+		},
+		["MaterialsFarming"] = {
+		},
+		["AFK/DNDFilter"] = {
+		},
+		["ChatTabs"] = {
+		},
+		["EditBoxAltKeyArrows"] = {
+		},
+		["Substitutions"] = {
+		},
+		["ColorRolls"] = {
+		},
+		["CustomNames"] = {
+		},
+		["CustomChatFilters"] = {
+		},
+		["Timestamps"] = {
+		},
+		["PlayerNames"] = {
+		},
+		["AchievementFilter"] = {
+		},
+		["TextJustification"] = {
+		},
+		["ChannelNames|TInterface\\OptionsFrame\\UI-OptionsFrame-NewFeatureIcon:14:14|t"] = {
+		},
+		["Datatext"] = {
+		},
+		["ImprovedAuctionMessages"] = {
+		},
+		["RerouteAuctionMessages"] = {
+		},
+		["TalentSquelch"] = {
+		},
+		["AutoSetRole"] = {
+		},
+		["CustomEmotes"] = {
+		},
+		["Calculator"] = {
+		},
+		["ItemLevelLink"] = {
+		},
+		["PopupMessages"] = {
+		},
+		["MultipleInviteCommand"] = {
+		},
+		["AltNames"] = {
+		},
+		["InviteLinks"] = {
+			["global"] = {
+				["groupWords"] = {
+					["inv"] = "inv",
+					["invite"] = "invite",
+				},
+				["guildWords"] = {
+					["ginvite"] = "ginvite",
+					["ginv"] = "ginv",
+				},
+			},
+		},
+		["AutoProfessionLink"] = {
+			["global"] = {
+				["Guild"] = false,
+				["Raid Leader"] = false,
+				["Instance Chat Leader"] = false,
+				["Instance Chat"] = false,
+				["Party"] = false,
+				["Whisper"] = false,
+				["Raid"] = false,
+				["Party Leader"] = false,
+				["Yell"] = false,
+				["Say"] = false,
+				["Officer"] = false,
+			},
+		},
+		["Magic8-Ball"] = {
+		},
+		["AuctionMessageFiltering"] = {
+		},
+		["AutoDing"] = {
+		},
+		["GamemenuButton|TInterface\\OptionsFrame\\UI-OptionsFrame-NewFeatureIcon:14:14|t"] = {
+		},
+		["KeywordSounds"] = {
+		},
+		["LootIcons"] = {
+		},
+		["CustomNamedChatFilters"] = {
+		},
+		["XPLeftToLevel"] = {
+		},
+		["ChannelNoticeFilter"] = {
+		},
+		["Search"] = {
+		},
+		["TokenPrice"] = {
+		},
+		["MinimapButton"] = {
+			["global"] = {
+				["minimap"] = {
+					["minimapPos"] = 204.3628294854264,
+				},
+			},
+		},
+		["Companions"] = {
+			["global"] = {
+				["global"] = nil --[[ skipped recursive table ]],
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+	},
+}

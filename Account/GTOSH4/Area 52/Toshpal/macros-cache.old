@@ -1,0 +1,70 @@
+VER 3 0100000000000020 "AW" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Avenging Wrath
+/use Azerite Firework Launcher
+END
+VER 3 010000000000001C "beacon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,talent:7/3.noharm] Beacon of Virtue; [@mouseover,noharm] Beacon of Light
+END
+VER 3 0100000000000018 "cleanse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,noharm,nodead][] Cleanse
+END
+VER 3 010000000000001D "faith" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,noharm,nodead][] Beacon of Faith
+END
+VER 3 0100000000000026 "favour" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Divine Favor(PvP Talent)
+/cast [@mouseover,help] Holy Light
+END
+VER 3 010000000000001A "fol" "INV_MISC_QUESTIONMARK"
+#showtooltip Flash of Light
+/cast [@mouseover,noharm,nodead][] Flash of Light
+END
+VER 3 0100000000000021 "FREEDOM" "INV_MISC_QUESTIONMARK"
+END
+VER 3 0100000000000025 "freedom" "INV_MISC_QUESTIONMARK"
+#showtooltip Blessing of Freedom
+/cast [@mouseover,help] Blessing of Freedom
+END
+VER 3 0100000000000019 "hl" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Light
+/cast [@mouseover,noharm,nodead][] Holy Light
+END
+VER 3 0100000000000027 "LoH" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help] Lay on Hands
+END
+VER 3 010000000000001B "lotm" "INV_MISC_QUESTIONMARK"
+#showtooltip Light of the Martyr
+/cast [@mouseover,noharm,nodead][] Light of the Martyr
+END
+VER 3 010000000000001F "sac" "INV_MISC_QUESTIONMARK"
+#showtooltip Blessing of Sacrifice
+/cast [@mouseover,noharm] Blessing of Sacrifice
+/stopspelltarget
+END
+VER 3 0100000000000017 "shock" "INV_Misc_QuestionMark"
+#showtooltip Holy Shock
+/cast [@mouseover,exists,noharm,nodead][] Holy Shock
+END
+VER 3 0100000000000022 "Steed" "INV_MISC_QUESTIONMARK"
+#showtooltip Divine Steed
+/cancelaura Divine Steed
+/cast Divine Steed
+END
+VER 3 0100000000000024 "t3" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [spec:1,talent:3/2] Repentance; [spec:1,talent:3/3] Blinding Light 
+END
+VER 3 010000000000001E "tier1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,talent:1/2,help,nodead][talent:1/2] Bestow Faith; [talent:1/3] Light's Hammer
+END
+VER 3 0100000000000023 "WoG" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,noharm][@player] Word of Glory
+END

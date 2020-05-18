@@ -24,424 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1383, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685131,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1390, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685140,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"WTB |cffa335ee|Hitem:65891::::::::120:102::::::|h[Vial of the Sands]|h|r 66K", -- [1]
-			"Biggietree-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Biggietree-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1400, -- [11]
-			"Player-9-0A56F794", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Biggietree|r",
-			[51] = 1589685157,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"how do u find group for heroic DS?", -- [1]
-			"Nyomi-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Nyomi-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1408, -- [11]
-			"Player-9-0BC691BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Nyomi|r",
-			[51] = 1589685168,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"WTS Mythic+11-15keys Carry-Get weekly chest 465-475ilvl and 100% Corruption gear,also do Heroic Ny'alotha (12/12), and can do Mechagon 8/8 HM for mount[Aerial Unit R-21/X],PST", -- [1]
-			"Orndort-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Orndort-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1412, -- [11]
-			"Player-9-0BCD405F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcOrndort|r",
-			[51] = 1589685174,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1429, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685202,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-6567-9-64343918|h[Guild: Cinder Works]|h|r3/12M recruiting for Mythic Raid Team, raid times are Tue & Wed 5-8 PM ST.", -- [1]
-			"Bullimic-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bullimic-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1431, -- [11]
-			"Player-9-0AA129F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Bullimic|r",
-			[51] = 1589685204,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1446, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685228,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1447, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685228,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1471, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685267,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"WTS:Heroic Ny'alotha12/12;Ny'alotha kill(AOTC); Mythic+11-15keys Carry;Get weekly chest 465-475ilvl and 100% Corruption gear;Also do Mechagon 8/8 get mount |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|r; Pst !", -- [1]
-			"Orndort-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Orndort-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1479, -- [11]
-			"Player-9-0BCD405F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcOrndort|r",
-			[51] = 1589685281,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"<Starlight> Gold sales. // WTS 10-15's on time!. groups are ready! // Get your 475 piece and residum! // We can boost your key for cheap  // AOTC & Full H clears are available tonight! // PM for more discounts! and armor stacking (Free)! ", -- [1]
-			"Bhewnos-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bhewnos-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1481, -- [11]
-			"Player-9-0B9D6709", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Bhewnos|r",
-			[51] = 1589685282,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"E ERrr Clotted Corruption!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1491, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685298,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1510, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685328,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"The Gallywix Community || <<WEEKEND DEALS>>  M+10-15 DEALS  || Heroic Nyalotha Full or Cara + N'zoth AOTC (TONIGHT!) || M +10-20  timed carries || Op: Mechagon || Islands || PVP carries || Visions 0-5 masks || Jaina Mount (PRICE DROP) || GOLD ONLY :) ", -- [1]
-			"Scullysaleh-Kil'jaeden", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Scullysaleh-Kil'jaeden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1525, -- [11]
-			"Player-9-0BC48064", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcScullysaleh|r",
-			[51] = 1589685355,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1540, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685459,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1542, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685464,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1545, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685479,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"E ERrr Clotted Corruption!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1546, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace|r",
-			[51] = 1589685486,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
 			"", -- [3]
@@ -462,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589685505,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
+		}, -- [1]
 		{
 			"lf guild", -- [1]
 			"Sofak-Kil'jaeden", -- [2]
@@ -484,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Sofak|r",
 			[51] = 1589685505,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [2]
 		{
 			"<Starlight> // WTS KSM // M+ Keys 10-15's On Time // Get your last minute AOTC!! Full Clears (H Nya) - Loot Funneling available!! //  Gold only // Get your weekley 475 ilvl piece now ! //  Pm for the weekend special! // ", -- [1]
 			"Bhewnos-Kil'jaeden", -- [2]
@@ -506,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Bhewnos|r",
 			[51] = 1589685507,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [3]
 		{
 			"E ERrr Il'gynoth!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -528,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589685520,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [4]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -550,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589685523,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [5]
 		{
 			"WTS Mythic+11-15keys Carry-Get weekly chest 465-475ilvl and 100% Corruption gear,also do Heroic Ny'alotha (12/12), and can do Mechagon 8/8 HM for mount[Aerial Unit R-21/X],PST", -- [1]
 			"Orndort-Kil'jaeden", -- [2]
@@ -572,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOrndort|r",
 			[51] = 1589685523,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [6]
 		{
 			"{Forbidden Loot} is a raiding guild looking for raiders Sat/ Sun 4-7pm server...7/12 H looking for Rdps and a Resto Druid also open to all looking for a new home in Shadowlands....Whisp any online for more info or Ginv ", -- [1]
 			"Frostysativa-Kil'jaeden", -- [2]
@@ -594,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Frostysativa|r",
 			[51] = 1589685527,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [7]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -616,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589685533,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
+		}, -- [8]
 		{
 			"WTB H Nylotha! paying gold! loot funnel! PST", -- [1]
 			"Píggÿ-Kil'jaeden", -- [2]
@@ -638,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Píggÿ|r",
 			[51] = 1589685545,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [9]
 		{
 			"WTS M+10s-20s, ran by 2.7k+ io players. Guaranteed on time or re-run/refund. Buy 2x keys, get armor stack FREE! Get your corrupted piece from your weekly chest! GOLD ONLY. Also selling Carapace+Nzoth 195k", -- [1]
 			"Sallywix-Kil'jaeden", -- [2]
@@ -660,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sallywix|r",
 			[51] = 1589687145,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [10]
 		{
 			"LF Guild ", -- [1]
 			"Dameron-Darkspear", -- [2]
@@ -682,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDameron-Darkspear|r",
 			[51] = 1589687196,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [11]
 		{
 			"<Scream If This Hurts> Hitting those trees like a blind Tarzan yo! New guild LF Adult, non elitist, casual players to roll some Alliance domes, Run Mythic+ & prep for SL! Repair, Discord, ect included! S.i.t.H is calling...Join the dark side :)", -- [1]
 			"Highest-Kil'jaeden", -- [2]
@@ -704,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Highest|r",
 			[51] = 1589687205,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [12]
 		{
 			"anyone wanna kill big blob with me", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -726,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687393,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [13]
 		{
 			"cant solo , 59 39", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -748,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687401,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [14]
 		{
 			"just got him to spwan", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -770,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687455,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [15]
 		{
 			"cant solo, this aint 2007 bro everything is soloable", -- [1]
 			"Vampiroxhunt-Tichondrius", -- [2]
@@ -792,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Vampiroxhunt-Tichondrius|r",
 			[51] = 1589687459,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [16]
 		{
 			"lets do ", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -814,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687486,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [17]
 		{
 			"MT", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -836,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687491,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [18]
 		{
 			"Whoever said \"Anythings soloable\"", -- [1]
 			"Dacorne-Windrunner", -- [2]
@@ -858,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dacorne-Windrunner|r",
 			[51] = 1589687813,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [19]
 		{
 			"u rite", -- [1]
 			"Dacorne-Windrunner", -- [2]
@@ -880,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dacorne-Windrunner|r",
 			[51] = 1589687815,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [20]
 		{
 			"nyolatha, check mate", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -902,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687845,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [21]
 		{
 			"we shall see, in due time", -- [1]
 			"Dacorne-Windrunner", -- [2]
@@ -924,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Dacorne-Windrunner|r",
 			[51] = 1589687877,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [22]
 		{
 			"then my answer will be , the current raid", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -946,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687890,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [23]
 		{
 			"A paly solo'd Ilgynoth", -- [1]
 			"Jarímzul-Akama", -- [2]
@@ -968,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Jarímzul-Akama|r",
 			[51] = 1589687904,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [24]
 		{
 			"12/12 M not poss", -- [1]
 			"Sobusty-Tichondrius", -- [2]
@@ -990,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sobusty-Tichondrius|r",
 			[51] = 1589687933,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [25]
 		{
 			"do we tell him", -- [1]
 			"|Kq39|k", -- [2]
@@ -1012,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1589688471,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [45]
+		}, -- [26]
 		{
 			"theres another spri app", -- [1]
 			"|Kq39|k", -- [2]
@@ -1034,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1589688474,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [46]
+		}, -- [27]
 		{
 			"or", -- [1]
 			"|Kq39|k", -- [2]
@@ -1056,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Envious|r",
 			[51] = 1589688481,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [47]
+		}, -- [28]
 		{
 			"wts |cffa335ee|Hitem:175007::::::::120:577::6:7:4824:6578:6579:6560:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r", -- [1]
 			"Mitchconner-Kil'jaeden", -- [2]
@@ -1078,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mitchconner|r",
 			[51] = 1589688932,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [29]
 		{
 			"why do people say they are 2.5k xp", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1100,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689249,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [30]
 		{
 			"and have brains the size of like", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1122,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689252,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [31]
 		{
 			"a dh", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1144,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689254,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [32]
 		{
 			"Selling Heroic Nyalotha full clear Saturdays 8:15PM ET. Armor stack/personal loot/AOTC slots available.  PST for details, also selling |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r mount and Mythic Nyalotha! GOLD ONLY", -- [1]
 			"Kaedri-Kil'jaeden", -- [2]
@@ -1166,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kaedri|r",
 			[51] = 1589689262,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [33]
 		{
 			"dont insult dh", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -1188,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589689265,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [34]
 		{
 			"??", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1210,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589689266,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [35]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -1232,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689310,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [36]
 		{
 			"idk trying to find a 2s partner while i wait", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1254,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689314,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [37]
 		{
 			"and all these melee suck", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1276,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689317,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [38]
 		{
 			"like ive never seen a war", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1298,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689357,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
+		}, -- [39]
 		{
 			"WTS Mythic+11-15keys Carry-Get weekly chest 465-475ilvl and 100% Corruption gear,also do Heroic Ny'alotha (12/12), and can do Mechagon 8/8 HM for mount[Aerial Unit R-21/X],PST", -- [1]
 			"Orndort-Kil'jaeden", -- [2]
@@ -1320,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOrndort|r",
 			[51] = 1589689359,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [40]
 		{
 			"fail to reflect so many clones", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1342,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689360,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [41]
 		{
 			"or fail to swap targets", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1364,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689366,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [42]
 		{
 			"idk man", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1386,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689369,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [43]
 		{
 			"wts|cff0070dd|Hbattlepet:1063:25:3:1481:305:257:0000000000000000:46174|h[Darkmoon Eye]|h|r7k G", -- [1]
 			"Bangenergy-Kil'jaeden", -- [2]
@@ -1408,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Bangenergy|r",
 			[51] = 1589689370,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [44]
 		{
 			"sketch", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -1430,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589689371,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [45]
 		{
 			"WTS |cffa335ee|Hitem:175009::::::::120:258::5:8:4823:1808:6578:6579:6539:6515:1502:4786:::|h[Zealous Ritualist's Reverie]|h|r|cffa335ee|Hitem:169929::::::::120:258::5:4:4799:1502:5850:4783:::|h[Cuffs of Soothing Currents]|h|r pst", -- [1]
 			"Státefarm-Kil'jaeden", -- [2]
@@ -1452,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeStátefarm|r",
 			[51] = 1589689373,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [46]
 		{
 			"wts cheap |cffa335ee|Hitem:169930::::::::120:258::5:3:4799:1502:4786:::|h[Handwraps of Unhindered Resonance]|h|r|cffa335ee|Hitem:175004::::::::120:258::4:7:4825:6578:6579:6537:6513:1472:4786:::|h[Legwraps of Horrifying Figments]|h|r pst", -- [1]
 			"Státefarm-Kil'jaeden", -- [2]
@@ -1474,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeStátefarm|r",
 			[51] = 1589689380,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [47]
 		{
 			"The Gallywix Community || <<WEEKEND DEALS>>  M+10-15 DEALS  || Heroic Nyalotha Full or Cara + N'zoth AOTC (TONIGHT!) || M +10-20  timed carries || Op: Mechagon || Islands || PVP carries || Visions 0-5 masks || Jaina Mount (PRICE DROP) || GOLD ONLY :) ", -- [1]
 			"Scullysaleh-Kil'jaeden", -- [2]
@@ -1496,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScullysaleh|r",
 			[51] = 1589689380,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [48]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -1518,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689426,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [49]
 		{
 			"whats |cffffffff|Hitem:163853::::::::120:253::::::|h[Pilgrimage Scroll]|h|r for?", -- [1]
 			"Sabertooth-Kil'jaeden", -- [2]
@@ -1540,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sabertooth|r",
 			[51] = 1589689436,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [50]
 		{
 			"wts|cff0070dd|Hbattlepet:1063:25:3:1481:305:257:0000000000000000:46174|h[Darkmoon Eye]|h|r6kg", -- [1]
 			"Bangenergy-Kil'jaeden", -- [2]
@@ -1562,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Bangenergy|r",
 			[51] = 1589689437,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [51]
 		{
 			"wts |cffa335ee|Hitem:175009::::::::1:64:::8:1487:4786:4822:6455:6480:6513:6578:6579:::|h[Zealous Ritualist's Reverie]|h|r 130k |cff0070dd|Hitem:129217::::::::1:64::::::|h[Warm Arcane Crystal]|h|r 190k pst", -- [1]
 			"Alzluz-Kil'jaeden", -- [2]
@@ -1584,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Alzluz|r",
 			[51] = 1589689441,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [52]
 		{
 			"|cffffff00|Hquest:53476:-1:110:120:0|h[The Great Sea Scrolls]|h|r", -- [1]
 			"Bangenergy-Kil'jaeden", -- [2]
@@ -1606,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Bangenergy|r",
 			[51] = 1589689450,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [53]
 		{
 			"WTB Summon to Org", -- [1]
 			"Darkîs-Kil'jaeden", -- [2]
@@ -1628,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Darkîs|r",
 			[51] = 1589689451,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [54]
 		{
 			" /run SendChatMessage(\"WTS:Heroic Ny'alotha12/12;Ny'alotha kill(AOTC); Mythic+11-15keys Carry;Get weekly chest 465-475ilvl and 100% Corruption gear;Also do Mechagon 8/8 get mount \"..(select(2,GetItemInfo(168830)))..\"; Pst !\",\"channel\",nil,2", -- [1]
 			"Orndort-Kil'jaeden", -- [2]
@@ -1650,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOrndort|r",
 			[51] = 1589689465,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [55]
 		{
 			"Selling Heroic Nyalotha full clear Saturdays 8:15PM ET. Armor stack/personal loot/AOTC slots available.  PST for details, also selling |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r mount and Mythic Nyalotha! GOLD ONLY", -- [1]
 			"Kaedri-Kil'jaeden", -- [2]
@@ -1672,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kaedri|r",
 			[51] = 1589689478,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [56]
 		{
 			"wts |cffa335ee|Hitem:161134::::::::120:73::13::::|h[Mecha-Mogul Mk2]|h|r 75k", -- [1]
 			"Guykild-Kil'jaeden", -- [2]
@@ -1694,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGuykild|r",
 			[51] = 1589689492,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [57]
 		{
 			"Selling Low Priced Heroic Ny'alotha Full Clears Every Night! Cheap Funnel Options!  Offering Cara+N'zoth Bundles as well! Get your Keystone Master Achievement & Mount NOW! || Cheap M+ 10-15s || Mythic Ny'alotha || 5 Mask Visions || PST for more info! ", -- [1]
 			"Mumblesales-Kil'jaeden", -- [2]
@@ -1716,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMumblesales|r",
 			[51] = 1589689497,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [58]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -1738,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689500,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [59]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -1760,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689552,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [60]
 		{
 			"Selling Heroic Nyalotha full clear Saturdays 8:15PM ET. Armor stack/personal loot/AOTC slots available.  PST for details, also selling |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r mount and Mythic Nyalotha! GOLD ONLY", -- [1]
 			"Kaedri-Kil'jaeden", -- [2]
@@ -1782,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kaedri|r",
 			[51] = 1589689599,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [61]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -1804,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689662,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [62]
 		{
 			"WTS Mythic+11-15keys Carry-Get weekly chest 465-475ilvl and 100% Corruption gear,also do Heroic Ny'alotha (12/12), and can do Mechagon 8/8 HM for mount[Aerial Unit R-21/X],PST", -- [1]
 			"Orndort-Kil'jaeden", -- [2]
@@ -1826,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOrndort|r",
 			[51] = 1589689708,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [63]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -1848,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689754,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [64]
 		{
 			"wts |cffa335ee|Hitem:175007::::::::120:260::6:7:4824:6578:6579:6560:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r", -- [1]
 			"Benjidunn-Kil'jaeden", -- [2]
@@ -1870,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Benjidunn|r",
 			[51] = 1589689765,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [65]
 		{
 			"Selling Low Priced Heroic Ny'alotha Full Clears Every Night! Cheap Funnel Options!  Offering Cara+N'zoth Bundles as well! Get your Keystone Master Achievement & Mount NOW! || Cheap M+ 10-15s || Mythic Ny'alotha || 5 Mask Visions || PST for more info! ", -- [1]
 			"Mumblesales-Kil'jaeden", -- [2]
@@ -1892,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMumblesales|r",
 			[51] = 1589689788,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [66]
 		{
 			"WTS:Heroic Ny'alotha12/12;Ny'alotha kill(AOTC); Mythic+11-15keys Carry;Get weekly chest 465-475ilvl and 100% Corruption gear;Also do Mechagon 8/8 get mount |cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|r; Pst !", -- [1]
 			"Orndort-Kil'jaeden", -- [2]
@@ -1914,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcOrndort|r",
 			[51] = 1589689814,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [67]
 		{
 			"Selling Heroic Nyalotha full clear Saturdays 8:15PM ET. Armor stack/personal loot/AOTC slots available.  PST for details, also selling |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r mount and Mythic Nyalotha! GOLD ONLY", -- [1]
 			"Kaedri-Kil'jaeden", -- [2]
@@ -1936,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Kaedri|r",
 			[51] = 1589689866,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [68]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -1958,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689889,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [69]
 		{
 			"<Scream If This Hurts> Hitting those trees like a blind Tarzan yo! New guild LF Adult, non elitist, casual players to roll some Alliance domes, Run Mythic+ & prep for SL! Repair, Discord, ect included! S.i.t.H is calling...Join the dark side :)", -- [1]
 			"Meteora-Kil'jaeden", -- [2]
@@ -1980,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Meteora|r",
 			[51] = 1589689904,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [70]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -2002,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589689956,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [71]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -2024,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589701070,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [72]
 		{
 			"initiate order 52", -- [1]
 			"Delpi-Kil'jaeden", -- [2]
@@ -2046,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1589701100,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [73]
 		{
 			"alright cya losers", -- [1]
 			"Scizilla-Kil'jaeden", -- [2]
@@ -2068,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Scizilla|r",
 			[51] = 1589701112,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [74]
 		{
 			"note", -- [1]
 			"Amenrekt-Boulderfist", -- [2]
@@ -2090,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Amenrekt-Boulderfist|r",
 			[51] = 1589701238,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [75]
 		{
 			"too fun", -- [1]
 			"Tashà-Hyjal", -- [2]
@@ -2112,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tashà-Hyjal|r",
 			[51] = 1589701241,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [76]
 		{
 			"noted", -- [1]
 			"Amenrekt-Boulderfist", -- [2]
@@ -2134,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Amenrekt-Boulderfist|r",
 			[51] = 1589701241,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [77]
 		{
 			"ok", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2156,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589701279,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [78]
 		{
 			"for real this time", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2178,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589701282,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
+		}, -- [79]
 		{
 			"cya losers", -- [1]
 			"Sci-Kil'jaeden", -- [2]
@@ -2200,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1589701283,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
+		}, -- [80]
 		{
 			"runner", -- [1]
 			"Moomookins-Hyjal", -- [2]
@@ -2222,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Moomookins-Hyjal|r",
 			[51] = 1589701326,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [81]
 		{
 			"ez", -- [1]
 			"Teewah-Tichondrius", -- [2]
@@ -2244,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTeewah-Tichondrius|r",
 			[51] = 1589701332,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [82]
 		{
 			"ALL RIGHT NOBODY SAY THING THIS IS A MIXUP", -- [1]
 			"Unknwnone-Kil'jaeden", -- [2]
@@ -2266,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcUnknwnone|r",
 			[51] = 1589701462,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [83]
 		{
 			"yep", -- [1]
 			"Xenagos-Kil'jaeden", -- [2]
@@ -2288,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcXenagos|r",
 			[51] = 1589701472,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [84]
 		{
 			"cock", -- [1]
 			"Xenagos-Kil'jaeden", -- [2]
@@ -2310,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcXenagos|r",
 			[51] = 1589701473,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [85]
 		{
 			"big cock", -- [1]
 			"Damacuus-Kil'jaeden", -- [2]
@@ -2332,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Damacuus|r",
 			[51] = 1589701489,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [86]
 		{
 			"GNIHT", -- [1]
 			"Uhsalt-Kil'jaeden", -- [2]
@@ -2354,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcUhsalt|r",
 			[51] = 1589701500,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [87]
 		{
 			"Selling Low Priced Heroic Ny'alotha Full Clears Every Night! Cheap Funnel Options!  Offering Cara+N'zoth Bundles as well! Get your Keystone Master Achievement & Mount NOW! || Cheap M+ 10-15s || Mythic Ny'alotha || 5 Mask Visions || PST for more info! ", -- [1]
 			"Mumblesales-Kil'jaeden", -- [2]
@@ -2376,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMumblesales|r",
 			[51] = 1589701593,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [88]
 		{
 			"<Club House> 11/12M WTS H-NYO loot funnel to  mail,plate and cloth armor types for this sundays heroic run @ 9pm server time. All gear funneled directly to your amor type. Bring your freshly boosted toon or alt!Selling 12/12H PL as well.Pst for info!", -- [1]
 			"Tittanis-Kil'jaeden", -- [2]
@@ -2398,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTittanis|r",
 			[51] = 1589701596,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [89]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::1:71:::8:1502:1808:4786:4823:6513:6551:6578:6579:::|h[Gauntlets of Nightmare Manifest]|h|r |cffa335ee|Hitem:175004::::::::1:71:::7:1517:4786:4824:6515:6563:6578:6579:::|h[Legwraps of Horrifying Figments]|h|r PST Offer", -- [1]
 			"Goblethunter-Kil'jaeden", -- [2]
@@ -2420,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoblethunter|r",
 			[51] = 1589701665,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [90]
 		{
 			"WTS |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6543:6578:6579:::|h[Footpads of Terrible Delusions]|h|r, |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6563:6578:6579:::|h[Footpads of Terrible Delusions]|h|r PST Offer", -- [1]
 			"Goblethunter-Kil'jaeden", -- [2]
@@ -2442,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoblethunter|r",
 			[51] = 1589701665,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [91]
 		{
 			"<Club House> 11/12M WTS H-NYO loot funnel to  mail,plate and cloth armor types for this sundays heroic run @ 9pm server time. All gear funneled directly to your amor type. Bring your freshly boosted toon or alt!Selling 12/12H PL as well.Pst for info!", -- [1]
 			"Tittanis-Kil'jaeden", -- [2]
@@ -2464,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTittanis|r",
 			[51] = 1589702099,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [92]
 		{
 			"Do you have any questions about how to make gold? Come chat and ask any questions you have about gold making! I've made over 120 Million Gold in BFA! twitch.tv/speratic", -- [1]
 			"Bootyfarmer-Kil'jaeden", -- [2]
@@ -2486,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBootyfarmer|r",
 			[51] = 1589702169,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [93]
 		{
 			"<Club House>  11/12M WTS H-NYO loot funnel to mail, plate and cloth armor types for this Sundays heroic run @ 9pm server. All gear funneled directly to your armour type. Selling 1/12H pl aswell PST FOR INFO", -- [1]
 			"Hailas-Kil'jaeden", -- [2]
@@ -2508,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Hailas|r",
 			[51] = 1589702233,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [94]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -2530,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589702258,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [95]
 		{
 			"<Club House>  11/12M WTS H-NYO loot funnel to mail, plate and cloth armor types for this Sundays heroic run @ 9pm server. All gear funneled directly to your armour type. Selling 1/12H pl aswell PST FOR INFO", -- [1]
 			"Hailas-Kil'jaeden", -- [2]
@@ -2552,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Hailas|r",
 			[51] = 1589702279,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [96]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -2574,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589702320,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [97]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::1:71:::8:1502:1808:4786:4823:6513:6551:6578:6579:::|h[Gauntlets of Nightmare Manifest]|h|r |cffa335ee|Hitem:175004::::::::1:71:::7:1517:4786:4824:6515:6563:6578:6579:::|h[Legwraps of Horrifying Figments]|h|r PST Offer", -- [1]
 			"Goblethunter-Kil'jaeden", -- [2]
@@ -2596,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoblethunter|r",
 			[51] = 1589702357,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [98]
 		{
 			"WTS |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6543:6578:6579:::|h[Footpads of Terrible Delusions]|h|r, |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6563:6578:6579:::|h[Footpads of Terrible Delusions]|h|r PST Offer", -- [1]
 			"Goblethunter-Kil'jaeden", -- [2]
@@ -2618,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoblethunter|r",
 			[51] = 1589702357,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [99]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -2640,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589702416,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [100]
 		{
 			"Where do you go to change azerite traits?", -- [1]
 			"Foxlocks-Kil'jaeden", -- [2]
@@ -2662,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFoxlocks|r",
 			[51] = 1589702430,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [101]
 		{
 			"Help make it grow! Over 100 members in this  M+ Discord channel doing 10+ to 20+ keys to push IO. If your friends are going offline, this is the discord to be in to find people to push. EVERYONE IS WELCOME! Join https://discord.gg/bzj6Ybt", -- [1]
 			"Kìttydh-Tichondrius", -- [2]
@@ -2684,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Kìttydh-Tichondrius|r",
 			[51] = 1589702440,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [102]
 		{
 			"in the transmog room", -- [1]
 			"Illuminnae-Kil'jaeden", -- [2]
@@ -2706,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Illuminnae|r",
 			[51] = 1589702442,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [103]
 		{
 			"there's an azerite reforger", -- [1]
 			"Illuminnae-Kil'jaeden", -- [2]
@@ -2728,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Illuminnae|r",
 			[51] = 1589702449,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [104]
 		{
 			"okay thank you!", -- [1]
 			"Foxlocks-Kil'jaeden", -- [2]
@@ -2750,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFoxlocks|r",
 			[51] = 1589702455,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [105]
 		{
 			"WTS N'zoth Heroic Kill for GOLD! Guild group with 12/12 M exp! Ready to go! |cffffff00|Hachievement:14069:Player-9-0BCDAFDA:1:5:7:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r", -- [1]
 			"Ismara-Kil'jaeden", -- [2]
@@ -2772,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ismara|r",
 			[51] = 1589702509,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [106]
 		{
 			"WTS |cffa335ee|Hitem:175006::::::::1:71:::8:1502:1808:4786:4823:6513:6551:6578:6579:::|h[Gauntlets of Nightmare Manifest]|h|r |cffa335ee|Hitem:175004::::::::1:71:::7:1517:4786:4824:6515:6563:6578:6579:::|h[Legwraps of Horrifying Figments]|h|r PST Offer", -- [1]
 			"Goblethunter-Kil'jaeden", -- [2]
@@ -2794,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGoblethunter|r",
 			[51] = 1589702559,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [107]
 		{
 			"WTS |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6543:6578:6579:::|h[Footpads of Terrible Delusions]|h|r, |cffa335ee|Hitem:175007::::::::1:71:::7:1487:4786:4822:6513:6563:6578:6579:::|h[Footpads of Terrible Delusions]|h|r PST Offer", -- [1]
 			"Goblethunter-Kil'jaeden", -- [2]
@@ -2815,6 +2397,424 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cffc59a6cGoblethunter|r",
 			[51] = 1589702560,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			"wts |cffa335ee|Hitem:175009::::::::1:64:::8:1487:4786:4822:6455:6480:6513:6578:6579:::|h[Zealous Ritualist's Reverie]|h|r 115k |cff0070dd|Hitem:129217::::::::1:64::::::|h[Warm Arcane Crystal]|h|r 190k pst", -- [1]
+			"Alzluz-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Alzluz-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-9-0BCD5BA2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Alzluz|r",
+			[51] = 1589749535,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"WTS", -- [1]
+			"Faingishi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Faingishi-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-9-072ADBCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Faingishi|r",
+			[51] = 1589749541,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"my body", -- [1]
+			"Faingishi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Faingishi-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-9-072ADBCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Faingishi|r",
+			[51] = 1589749553,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"WTS Weekend M+ SPECIALS! M+10-20s, run by 2.7k+ io players. Cheap M10 & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee. GOLD ONLY", -- [1]
+			"Xenoad-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Xenoad-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-9-0BCBA953", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Xenoad|r",
+			[51] = 1589749556,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"Sold", -- [1]
+			"Vyrex-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Vyrex-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-9-07D496AB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Vyrex|r",
+			[51] = 1589749557,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"im buying babe", -- [1]
+			"Dirtyratdan-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Dirtyratdan-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-9-0B53E374", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Dirtyratdan|r",
+			[51] = 1589749558,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"no thanks", -- [1]
+			"Lucciifer-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lucciifer-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-9-0BC6FE9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lucciifer|r",
+			[51] = 1589749562,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"[WTS] Classic WoW 1-60 leveling in 2 weeks! Professions boosts and many more to come. Face your legendary adventure with our help! Visit wow-classic.gteam.pro for more!                         ", -- [1]
+			"Bakasamahr-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Bakasamahr-Kil'jaeden", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-9-0BC76DB6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bakasamahr|r",
+			[51] = 1589749565,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"take it back", -- [1]
+			"Lucciifer-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lucciifer-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-9-0BC6FE9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lucciifer|r",
+			[51] = 1589749565,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"WTS GOLD ONLY! >>H&M 12/12 Full Clear Ny'alotha<< CHEAP PL HC spots! AOTC and last two bosses also avaiable. Also selling DEALS on m+10-15, Jaina mount and Glory Achievements. ", -- [1]
+			"Anatolyx-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Anatolyx-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-9-0BC37CC2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcAnatolyx|r",
+			[51] = 1589749644,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"Want a relaxed guild that loves all things WoW and Zero things Ally? Join Zero Decency.  We thrive on Wpvp and are exp. in raid and RBGs alike. LFM to fill our ranks for shadowlands and look forward to having you. Pst Vyrex or Faingishi for more info", -- [1]
+			"Faingishi-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Faingishi-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-9-072ADBCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Faingishi|r",
+			[51] = 1589749668,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"<Shot Callerz> is recruiting Healers and RDPS to fulfill our heroic raid team and mythic+ teams. Raid times are Sun/Mon 7PM server time. Pst for more info", -- [1]
+			"Kuddii-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Kuddii-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-9-0BCA6D2F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Kuddii|r",
+			[51] = 1589749688,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"Sale Until  Resets!  Selling +10-20 M+.  Free armor stacking with any purchase!  Get your 475 in your chest on reset!  PST! GOLD ONLY!", -- [1]
+			"Vashdakari-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Vashdakari-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-9-0B846DFD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Vashdakari|r",
+			[51] = 1589749735,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"o'doyle rules!", -- [1]
+			"Lewka-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Lewka-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-9-0AF239C5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Lewka|r",
+			[51] = 1589760530,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"Kadgar rules!", -- [1]
+			"Reimu-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Reimu-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-9-09E349E8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeReimu|r",
+			[51] = 1589760538,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"fuck the alliance", -- [1]
+			"Tephem-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Tephem-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-9-0BCCC74A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Tephem|r",
+			[51] = 1589760549,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"The one I know doesn't do any of that...", -- [1]
+			"Jimana-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Jimana-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-9-0A448B40", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Jimana|r",
+			[51] = 1589760554,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WTS 10-18s timed!  WTS Horrific visions 0-5 mask!  Heroic or Mythic Nylotha GOLD ONLY! PST for info", -- [1]
+			"Zsalwix-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Zsalwix-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-9-0BCB3D0E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Zsalwix|r",
+			[51] = 1589760566,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"I want Kadgar's whiskers to tickle my bussy", -- [1]
+			"Reimu-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. Trade - City", -- [4]
+			"Reimu-Kil'jaeden", -- [5]
+			"", -- [6]
+			2, -- [7]
+			1, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-9-09E349E8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeReimu|r",
+			[51] = 1589760571,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

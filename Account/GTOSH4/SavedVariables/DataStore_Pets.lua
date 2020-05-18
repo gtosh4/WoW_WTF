@@ -12,8 +12,8 @@ DataStore_PetsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -159,7 +159,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1584068457,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1589421598,
+				["lastUpdate"] = 1589760228,
 				["CRITTER"] = {
 					62746, -- [1]
 					10714, -- [2]
@@ -276,7 +276,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1588221831,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1589700778,
+				["lastUpdate"] = 1589760294,
 				["CRITTER"] = {
 					315302, -- [1]
 					315290, -- [2]
@@ -289,7 +289,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Illidan.Toshpala"] = {
-				["lastUpdate"] = 1589699248,
+				["lastUpdate"] = 1589759456,
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544118,
@@ -311,7 +311,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1589702634,
+				["lastUpdate"] = 1589759335,
 				["CRITTER"] = {
 					315302, -- [1]
 					315229, -- [2]
@@ -358,12 +358,6 @@ DataStore_PetsDB = {
 					301015, -- [43]
 				},
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1587014754,
-				["CRITTER"] = {
-					10675, -- [1]
-				},
-			},
 			["Default.Frostwolf.Daggny"] = {
 				["lastUpdate"] = 1581543989,
 				["CRITTER"] = {
@@ -376,6 +370,12 @@ DataStore_PetsDB = {
 					55068, -- [7]
 					176140, -- [8]
 					170292, -- [9]
+				},
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1589764104,
+				["CRITTER"] = {
+					10675, -- [1]
 				},
 			},
 			["Default.Frostwolf.Sumex"] = {

@@ -12,8 +12,8 @@ DeathNoteDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -44,10 +44,10 @@ DeathNoteDB = {
 			["searchbox_text"] = "",
 			["display"] = {
 				["y"] = 125.308685302734,
-				["namelist"] = 2,
 				["x"] = 764.9560546875,
-				["w"] = 830.0078125,
 				["h"] = 639.008972167969,
+				["w"] = 830.0078125,
+				["namelist"] = 2,
 			},
 		},
 		["Toshmoney - Greymane"] = {
@@ -84,8 +84,6 @@ DeathNoteDB = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
-		["Toshpala - Illidan"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
@@ -95,6 +93,8 @@ DeathNoteDB = {
 				["w"] = 729.1820068359375,
 				["namelist"] = 2,
 			},
+		},
+		["Toshpala - Illidan"] = {
 		},
 		["Toshpal - Area 52"] = {
 		},

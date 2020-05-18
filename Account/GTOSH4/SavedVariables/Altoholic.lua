@@ -12,8 +12,8 @@ AltoholicDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -26,14 +26,14 @@ AltoholicDB = {
 	},
 	["global"] = {
 		["Sharing"] = {
+			["Clients"] = {
+				"Tosh|1", -- [1]
+			},
 			["Domains"] = {
 				["Tosh.Kil'jaeden"] = {
 					["lastUpdatedWith"] = "Tosh",
 					["lastSharingTimestamp"] = 1556407707,
 				},
-			},
-			["Clients"] = {
-				"Tosh|1", -- [1]
 			},
 		},
 		["options"] = {
@@ -48,7 +48,7 @@ AltoholicDB = {
 			["UI.Tabs.Summary.CurrentMode"] = 4,
 			["Tabs.Achievements.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshpal",
 			["Tabs.Grids.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshaman",
-			["UI.Mail.LastExpiryWarning"] = 1589678235,
+			["UI.Mail.LastExpiryWarning"] = 1589743388,
 			["UI.Minimap.ShowIcon"] = false,
 			["UI.AccountSharing.IsEnabled"] = true,
 			["Tabs.Grids.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshdk",

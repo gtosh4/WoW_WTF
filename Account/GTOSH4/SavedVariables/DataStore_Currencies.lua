@@ -12,8 +12,8 @@ DataStore_CurrenciesDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -158,7 +158,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1589700777,
+				["lastUpdate"] = 1589760293,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -177,7 +177,7 @@ DataStore_CurrenciesDB = {
 				},
 			},
 			["Default.Illidan.Toshpala"] = {
-				["lastUpdate"] = 1589699248,
+				["lastUpdate"] = 1589759456,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -372,7 +372,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1589421598,
+				["lastUpdate"] = 1589760226,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "2558-0-0-0",
@@ -726,7 +726,7 @@ DataStore_CurrenciesDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1587014754,
+				["lastUpdate"] = 1589764103,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -889,7 +889,7 @@ DataStore_CurrenciesDB = {
 						["count"] = 1300,
 					}, -- [24]
 				},
-				["lastUpdate"] = 1589702633,
+				["lastUpdate"] = 1589759334,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -903,8 +903,8 @@ DataStore_CurrenciesDB = {
 					[1226] = "4841-0-0-0",
 					[1560] = "25586-0-0-0",
 					[994] = "0-0-0-0",
-					[1580] = "2-0-0-5",
 					[1342] = "133-0-0-1000",
+					[1580] = "2-0-0-5",
 				},
 			},
 		},

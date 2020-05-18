@@ -40,8 +40,8 @@ Postal3DB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -56,10 +56,11 @@ Postal3DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yorman|Kil'jaeden|Horde", -- [1]
-					"Toshpal|Kil'jaeden|Horde", -- [2]
-					"Backstab|Kil'jaeden|Horde", -- [3]
-					"Pluie|Kil'jaeden|Horde", -- [4]
+					"Tosh|Kil'jaeden|Horde", -- [1]
+					"Yorman|Kil'jaeden|Horde", -- [2]
+					"Toshpal|Kil'jaeden|Horde", -- [3]
+					"Backstab|Kil'jaeden|Horde", -- [4]
+					"Pluie|Kil'jaeden|Horde", -- [5]
 				},
 			},
 		},
@@ -76,8 +77,9 @@ Postal3DB = {
 		["Toshpriest - Area 52"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yellowy|Area 52|Horde", -- [1]
-					"Tosh|Area 52|Horde", -- [2]
+					"Toshpal|Area 52|Horde", -- [1]
+					"Yellowy|Area 52|Horde", -- [2]
+					"Tosh|Area 52|Horde", -- [3]
 				},
 			},
 		},
@@ -139,8 +141,6 @@ Postal3DB = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
-		["Toshpala - Illidan"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -157,6 +157,8 @@ Postal3DB = {
 					"Nv-Kil'jaeden|Kil'jaeden|Horde", -- [11]
 				},
 			},
+		},
+		["Toshpala - Illidan"] = {
 		},
 		["Toshpal - Area 52"] = {
 		},

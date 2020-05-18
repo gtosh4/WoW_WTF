@@ -24,28 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Shrunk", -- [1]
-			"Toshmonk-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshmonk-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3756, -- [11]
-			"Player-9-0B608E72", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Toshmonk|r",
-			[51] = 1589428895,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
 			"3", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
 			"Orcish", -- [3]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428895,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"2", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428896,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428897,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [3]
 		{
 			"1", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428897,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [4]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428898,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428900,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [6]
 		{
 			"Azurites", -- [1]
 			"Azurites-Hyjal", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Azurites-Hyjal|r",
 			[51] = 1589428900,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [8]
+		}, -- [7]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428901,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"Nooks", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nooks|r",
 			[51] = 1589428902,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [9]
 		{
 			"Gigavolt Charge 3 on {rt3}Nooks{rt3}", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nooks|r",
 			[51] = 1589428902,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [10]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428903,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [11]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428904,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [12]
 		{
 			"Shrunk", -- [1]
 			"Dirtyslayer-Kil'jaeden", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDirtyslayer|r",
 			[51] = 1589428906,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [13]
 		{
 			"Shrunk", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1589428906,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [14]
 		{
 			"Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589428906,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [15]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428906,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [16]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428907,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [17]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428909,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428910,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"Peace", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428911,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [21]
+		}, -- [20]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428912,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428913,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"{rt1}3", -- [1]
 			"Felfanatic-Kil'jaeden", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic|r",
 			[51] = 1589428914,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428915,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"{rt1}1", -- [1]
 			"Felfanatic-Kil'jaeden", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic|r",
 			[51] = 1589428916,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428916,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [26]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428918,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [27]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428919,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [28]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428921,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [29]
 		{
 			"Shrunk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428922,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [30]
 		{
 			"JOHN F***NG MADDEN!!!!", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1589428924,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [32]
+		}, -- [31]
 		{
 			"Shrunk", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428925,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [32]
 		{
 			"Shrunk", -- [1]
 			"Lyuneria-Kil'jaeden", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1589428925,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [33]
 		{
 			"Shrunk", -- [1]
 			"Evandh-Illidan", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Evandh-Illidan|r",
 			[51] = 1589428929,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"Ctchmeifyucn", -- [1]
 			"Ctchmeifyucn-Tichondrius", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ctchmeifyucn-Tichondrius|r",
 			[51] = 1589428931,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"Miscalculated Teleport on Azurites", -- [1]
 			"Azurites-Hyjal", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Azurites-Hyjal|r",
 			[51] = 1589428937,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"Nooks", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nooks|r",
 			[51] = 1589428949,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"Shrunk", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1589428952,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [38]
 		{
 			"E ERrr High Tinker Mekkatorque!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428955,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [39]
 		{
 			"E ERrr High Tinker Mekkatorque!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428955,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Pluie!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428955,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Pluie!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428955,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [42]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428963,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [43]
 		{
 			"Bomb (1{rt1}) on Toshmonk", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589428972,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [44]
 		{
 			"JOHN F***NG MADDEN!!!!", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1589428972,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [46]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428978,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [46]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428978,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [47]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428989,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428989,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [49]
 		{
 			"Miscalculated Teleport on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589428991,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428999,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [51]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589428999,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [52]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13312:Player-9-0B1241C1:1:5:13:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mekkatorque]|h|r!", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1589429005,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [54]
+		}, -- [53]
 		{
 			"brb bio", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429042,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [54]
 		{
 			"johnny on follow", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429043,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [55]
 		{
 			"Pluie interrupted |cff71d5ff|Hspell:289647:0|h[Water Bolt]|h|r", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429151,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"same group as opulence", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429166,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [58]
+		}, -- [57]
 		{
 			"that's a Jaime move", -- [1]
 			"Ctchmeifyucn-Tichondrius", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ctchmeifyucn-Tichondrius|r",
 			[51] = 1589429213,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [58]
 		{
 			"can you not", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1589429233,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [59]
 		{
 			"spell my name", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1589429235,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [60]
 		{
 			"wrong", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1589429235,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [61]
 		{
 			"E ERrr Brother Joseph!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429237,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"E ERrr Brother Joseph!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429237,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [63]
 		{
 			"Sea Storm on Emosong", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589429245,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [64]
 		{
 			"3", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589429245,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [65]
 		{
 			"2", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589429245,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [66]
 		{
 			"1", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589429245,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"E ERrr Sister Katherine!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429275,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [68]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Peace!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429303,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [69]
 		{
 			"Interrupted Laminaria's |cff71d5ff|Hspell:288696:0|h[Catastrophic Tides]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429314,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [70]
 		{
 			"Interrupted Laminaria's |cff71d5ff|Hspell:288696:0|h[Catastrophic Tides]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429314,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429335,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [72]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429350,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [73]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429356,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [74]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429358,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [75]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13313:Player-9-0B1241C1:1:5:13:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Stormwall Blockade]|h|r!", -- [1]
 			"Backstab-Kil'jaeden", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Backstab|r",
 			[51] = 1589429373,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
+		}, -- [76]
 		{
 			"jaime =/= jamie", -- [1]
 			"Ctchmeifyucn-Tichondrius", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ctchmeifyucn-Tichondrius|r",
 			[51] = 1589429414,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [77]
 		{
 			"jaime bad", -- [1]
 			"Ctchmeifyucn-Tichondrius", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ctchmeifyucn-Tichondrius|r",
 			[51] = 1589429416,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [78]
 		{
 			"jamie good", -- [1]
 			"Ctchmeifyucn-Tichondrius", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ctchmeifyucn-Tichondrius|r",
 			[51] = 1589429417,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [79]
 		{
 			"jammie", -- [1]
 			"Kickfox-Kil'jaeden", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Kickfox|r",
 			[51] = 1589429424,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [80]
 		{
 			"pajammies", -- [1]
 			"Circé-Kil'jaeden", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Circé|r",
 			[51] = 1589429435,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [81]
 		{
 			"Sasper the Homosexual Ghost?", -- [1]
 			"Ctchmeifyucn-Tichondrius", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ctchmeifyucn-Tichondrius|r",
 			[51] = 1589429451,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [82]
 		{
 			"Pajama Jammy Jams?>", -- [1]
 			"Ctchmeifyucn-Tichondrius", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Ctchmeifyucn-Tichondrius|r",
 			[51] = 1589429458,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [83]
 		{
 			"pepejammer", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1589429460,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [84]
 		{
 			"1", -- [1]
 			"Dw-Kil'jaeden", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Dw|r",
 			[51] = 1589429497,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [85]
 		{
 			"1", -- [1]
 			"Toshpal-Kil'jaeden", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1589429504,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [86]
 		{
 			"1", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429506,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [88]
+		}, -- [87]
 		{
 			"1", -- [1]
 			"Toshmonk-Kil'jaeden", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Toshmonk|r",
 			[51] = 1589429508,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [88]
 		{
 			"12 left/fast", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429612,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [90]
+		}, -- [89]
 		{
 			"34 right/slow", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429615,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [91]
+		}, -- [90]
 		{
 			"|cffa335ee|Hitem:159656:5962:::::::120:269::35:5:6536:6578:6513:1647:4786:::|h[Halberd of the Unwary Guard]|h|r", -- [1]
 			"Dw-Kil'jaeden", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Dw|r",
 			[51] = 1589429700,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [91]
 		{
 			"|cffa335ee|Hitem:159656:5962:168642::::::120:268::35:6:6536:42:6578:1647:4786:6514:::|h[Halberd of the Unwary Guard]|h|r", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429709,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [92]
 		{
 			"ok speedy boi", -- [1]
 			"Dw-Kil'jaeden", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Dw|r",
 			[51] = 1589429716,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [93]
 		{
 			"the need for speed", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429718,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [94]
 		{
 			"make sure you tag boss and jump off please", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429733,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [96]
+		}, -- [95]
 		{
 			"thanks", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429736,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [97]
+		}, -- [96]
 		{
 			"kk", -- [1]
 			"Uwillfaint-Area52", -- [2]
@@ -2178,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Uwillfaint-Area52|r",
 			[51] = 1589429739,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [97]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2200,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429779,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [98]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2222,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [99]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2244,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429792,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [100]
 		{
 			"Freezing in 3", -- [1]
 			"Nooks-Kil'jaeden", -- [2]
@@ -2266,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nooks|r",
 			[51] = 1589429795,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [102]
+		}, -- [101]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2288,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429795,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [102]
 		{
 			"Freezing in 3", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2310,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589429831,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [104]
+		}, -- [103]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2332,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429837,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
+		}, -- [104]
 		{
 			"Freezing in 2", -- [1]
 			"Emosong-Kil'jaeden", -- [2]
@@ -2354,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Emosong|r",
 			[51] = 1589429841,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [106]
+		}, -- [105]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2376,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429874,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
+		}, -- [106]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2398,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429874,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [108]
+		}, -- [107]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2420,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429904,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [108]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2442,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429919,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [109]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2464,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429950,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [110]
 		{
 			"i dc'd", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2486,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1589429968,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [112]
+		}, -- [111]
 		{
 			"JOHN F***NG MADDEN!!!!", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2508,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama|r",
 			[51] = 1589429975,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [113]
+		}, -- [112]
 		{
 			"HoF: Pluie", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2530,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589429986,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [114]
+		}, -- [113]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2552,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429995,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [114]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2574,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429995,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [116]
+		}, -- [115]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2596,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589429999,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [116]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2618,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589430010,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [118]
+		}, -- [117]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2640,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589430020,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [118]
 		{
 			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:102::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2662,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589430083,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [120]
+		}, -- [119]
 		{
 			"thanks for coming", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2684,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589430083,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [120]
 		{
 			"c:", -- [1]
 			"Peace-Kil'jaeden", -- [2]
@@ -2706,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Peace|r",
 			[51] = 1589430083,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [121]
 		{
 			"thanks all!", -- [1]
 			"Striq-Haomarush", -- [2]
@@ -2728,7 +2706,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Striq-Haomarush|r",
 			[51] = 1589430089,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [122]
 		{
 			"anyone get the boots by chance?", -- [1]
 			"Uwillfaint-Area52", -- [2]
@@ -2750,7 +2728,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Uwillfaint-Area52|r",
 			[51] = 1589430092,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [123]
 		{
 			"10/10", -- [1]
 			"Striq-Haomarush", -- [2]
@@ -2772,7 +2750,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Striq-Haomarush|r",
 			[51] = 1589430092,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [124]
 		{
 			"thanks all ! was awesome", -- [1]
 			"Uwillfaint-Area52", -- [2]
@@ -2794,7 +2772,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Uwillfaint-Area52|r",
 			[51] = 1589430100,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [125]
 		{
 			"thanks~", -- [1]
 			"Pluie-Kil'jaeden", -- [2]
@@ -2816,6 +2794,28 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Pluie|r",
 			[51] = 1589430112,
 			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [126]
+		{
+			"i hope so lol", -- [1]
+			"Nv-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-9-0A7EC3E5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nv|r",
+			[51] = 1589760380,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }

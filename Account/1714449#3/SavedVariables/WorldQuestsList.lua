@@ -13,10 +13,10 @@ VWQL = {
 			[51494] = true,
 			[54685] = true,
 			[52938] = true,
-			[54522] = true,
 			[54162] = true,
 			[50877] = true,
 			[50547] = true,
+			[54522] = true,
 			[54535] = true,
 			[54516] = true,
 			[50850] = true,
@@ -40,7 +40,6 @@ VWQL = {
 		},
 		["VERSION"] = 85,
 	},
-	["Sort"] = 5,
 	["Toshpal-Area52"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
@@ -50,11 +49,43 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
+	["Sort"] = 5,
 	["VERSION"] = 92,
 	["Anchor"] = 1,
 	["AnchorQCBTop"] = 872.035278320313,
 	["LFG_HideEyeInList"] = true,
 	["ShellGameSize"] = 326.685791015625,
+	["SortPrio"] = {
+	},
+	["Toshweaver-Area52"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["VERSION"] = 92,
+	},
+	["DisableArrow"] = false,
+	["AzeriteFormat"] = 20,
+	["Yorman-Kil'jaeden"] = {
+		["VERSION"] = 87,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+			[51494] = true,
+			[51450] = true,
+			[52937] = true,
+			[50875] = true,
+			[50846] = true,
+			[50547] = true,
+			[50850] = true,
+			[50871] = true,
+			[50571] = true,
+		},
+		["Filter"] = 63,
+	},
+	["Ignore"] = {
+	},
 	["Tosh-Kil'jaeden"] = {
 		["FilterType"] = {
 		},
@@ -80,12 +111,12 @@ VWQL = {
 			[50503] = true,
 			[51118] = true,
 			[55342] = true,
-			[51064] = true,
+			[51250] = true,
 			[51096] = true,
 			[55302] = true,
 			[52803] = true,
 			[50510] = true,
-			[51250] = true,
+			[51064] = true,
 			[50853] = true,
 			[50957] = true,
 			[51475] = true,
@@ -94,38 +125,7 @@ VWQL = {
 		},
 		["VERSION"] = 92,
 	},
-	["Toshweaver-Area52"] = {
-		["Filter"] = 63,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-		},
-		["VERSION"] = 92,
-	},
-	["DisableArrow"] = false,
-	["OppositeContinent"] = false,
-	["Yorman-Kil'jaeden"] = {
-		["VERSION"] = 87,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-			[51494] = true,
-			[51450] = true,
-			[52937] = true,
-			[50875] = true,
-			[50846] = true,
-			[50547] = true,
-			[50850] = true,
-			[50571] = true,
-			[50871] = true,
-		},
-		["Filter"] = 63,
-	},
 	["EnableRibbonGeneralMaps"] = false,
-	["SortPrio"] = {
-	},
-	["Ignore"] = {
-	},
 	["ShellGameCenter"] = 137.5419921875,
 	["Toshaman-Kil'jaeden"] = {
 		["VERSION"] = 92,
@@ -140,7 +140,7 @@ VWQL = {
 		},
 	},
 	["RewardIcons_DisableBountyColors"] = false,
-	["AzeriteFormat"] = 20,
+	["OppositeContinent"] = false,
 	["DisableRibbon"] = true,
 	["AnchorQCBLeft"] = 1838.12561035156,
 	["Toshaman-Dreadmaul"] = {

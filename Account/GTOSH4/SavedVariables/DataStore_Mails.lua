@@ -12,8 +12,8 @@ DataStore_MailsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -31,54 +31,40 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/04/30 00:47",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1589695239,
-				["lastVisitDate"] = "2020/05/17 02:00",
+				["lastUpdate"] = 1589760318,
+				["Mails"] = {
+					{
+						["lastCheck"] = 1589760318,
+						["sender"] = "Customer Support",
+						["subject"] = "Your Guild Has Moved",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
+						["icon"] = 135724,
+						["daysLeft"] = 29.36482620239258,
+					}, -- [1]
+				},
+				["lastVisitDate"] = "2020/05/17 20:05",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584068132,
 				["lastVisitDate"] = "2020/03/12 22:55",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1585715225,
+				["lastUpdate"] = 1589760265,
 				["Mails"] = {
 					{
-						["sender"] = "Toshdk",
-						["itemID"] = 173401,
-						["link"] = "|cff0070dd|Hitem:173401::::::::120:252::14::::|h[Black Empire Mail Boots]|h|r",
-						["count"] = 1,
-						["icon"] = 3036531,
-						["lastCheck"] = 1587481706,
-						["daysLeft"] = 30,
+						["icon"] = 135724,
+						["sender"] = "Customer Support",
+						["subject"] = "Your Guild Has Moved",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
+						["lastCheck"] = 1589760265,
+						["daysLeft"] = 29.36556625366211,
 					}, -- [1]
-					{
-						["sender"] = "Toshdk",
-						["itemID"] = 173410,
-						["link"] = "|cff0070dd|Hitem:173410::::::::120:252::14::::|h[Black Empire Leather Helm]|h|r",
-						["count"] = 1,
-						["icon"] = 2978246,
-						["lastCheck"] = 1587481706,
-						["daysLeft"] = 30,
-					}, -- [2]
-					{
-						["sender"] = "Toshdk",
-						["itemID"] = 173416,
-						["link"] = "|cff0070dd|Hitem:173416::::::::120:252::14::::|h[Black Empire Cloth Gloves]|h|r",
-						["count"] = 1,
-						["icon"] = 3048007,
-						["lastCheck"] = 1587481706,
-						["daysLeft"] = 30,
-					}, -- [3]
-					{
-						["sender"] = "Toshdk",
-						["itemID"] = 86547,
-						["link"] = "|cffa335ee|Hitem:86547::::::::120:252::::::|h[Skyshard]|h|r",
-						["count"] = 1,
-						["icon"] = 237230,
-						["lastCheck"] = 1587481706,
-						["daysLeft"] = 30,
-					}, -- [4]
 				},
-				["lastVisitDate"] = "2020/04/01 00:27",
+				["lastVisitDate"] = "2020/05/17 20:04",
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
 				["lastUpdate"] = 1589697572,
@@ -92,9 +78,28 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1556088028,
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
+			["Default.Illidan.Toshpala"] = {
+				["lastUpdate"] = 1589759773,
+				["lastVisitDate"] = "2020/05/17 19:56",
+			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1586551361,
-				["lastVisitDate"] = "2020/04/10 16:42",
+				["lastUpdate"] = 1589764117,
+				["lastVisitDate"] = "2020/05/17 21:08",
+			},
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1589759378,
+				["Mails"] = {
+					{
+						["sender"] = "Toshpriest",
+						["subject"] = "[69481 Gold 0 Silver 0 Copper]",
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
+						["money"] = 694810000,
+						["text"] = "",
+						["lastCheck"] = 1589760395,
+						["daysLeft"] = 30,
+					}, -- [1]
+				},
+				["lastVisitDate"] = "2020/05/17 19:49",
 			},
 		},
 	},

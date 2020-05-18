@@ -62,7 +62,7 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshpal-Kil'jaeden"] = {
+	["Toshpal-Area52"] = {
 		["talents"] = {
 			{
 				{
@@ -649,21 +649,6 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshaman-Area 52"] = {
-		["talents"] = {
-			{
-			}, -- [1]
-		},
-		["talents_pvp"] = {
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip4"] = 0,
-			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
 	["Tosh-Kil'jaeden"] = {
 		["talents"] = {
 			{
@@ -708,6 +693,21 @@ TalentSetManager_CharacterSaves = {
 			}, -- [2]
 			{
 			}, -- [3]
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshaman-Area 52"] = {
+		["talents"] = {
+			{
+			}, -- [1]
 		},
 		["talents_pvp"] = {
 		},

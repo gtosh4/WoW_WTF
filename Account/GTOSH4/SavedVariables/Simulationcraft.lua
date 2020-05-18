@@ -12,8 +12,8 @@ SimulationCraftDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -62,12 +62,12 @@ SimulationCraftDB = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
-		["Toshpala - Illidan"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
 			["minimap"] = {
 				["hide"] = true,
 			},
+		},
+		["Toshpala - Illidan"] = {
 		},
 		["Toshpal - Area 52"] = {
 		},

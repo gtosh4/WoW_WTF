@@ -6581,7 +6581,6 @@ DCS_ClassSpecDB = {
 			["statKey"] = "BLOCK",
 			["hidden"] = true,
 			["hideAt"] = 0,
-			["showFunc"] = nil --[[ skipped inline function ]],
 		}, -- [41]
 		{
 			["statKey"] = "RatingCategory",

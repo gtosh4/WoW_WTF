@@ -12,8 +12,8 @@ DataStore_ReputationsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -69,7 +69,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1589421598,
+				["lastUpdate"] = 1589760226,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -290,7 +290,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1589700777,
+				["lastUpdate"] = 1589760293,
 				["guildName"] = "Rivalry",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -320,7 +320,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Illidan.Toshpala"] = {
-				["lastUpdate"] = 1589699248,
+				["lastUpdate"] = 1589759455,
 				["Factions"] = {
 					[7] = 3100,
 					[78] = 3100,
@@ -397,7 +397,9 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1589702633,
+				["lastUpdate"] = 1589759334,
+				["guildName"] = "Aggravated",
+				["guildRep"] = 42000,
 				["Factions"] = {
 					[106] = 2800,
 					[38] = 2010,
@@ -450,26 +452,6 @@ DataStore_ReputationsDB = {
 					[134] = 15650,
 				},
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1587014754,
-				["guildName"] = "sheeple",
-				["Factions"] = {
-					[7] = 13209,
-					[70] = 250,
-					[68] = 500,
-					[78] = 15574,
-					[8] = 8999,
-					[71] = 250,
-					[9] = 31492,
-					[10] = 9349,
-					[158] = 9000,
-					[72] = 770,
-					[76] = 13596,
-					[6] = 8999,
-					[69] = 250,
-					[113] = 8999,
-				},
-			},
 			["Default.Frostwolf.Daggny"] = {
 				["lastUpdate"] = 1581543987,
 				["Factions"] = {
@@ -495,6 +477,26 @@ DataStore_ReputationsDB = {
 					[16] = 642,
 					[129] = 1050,
 					[20] = 500,
+				},
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1589764104,
+				["guildName"] = "sheeple",
+				["Factions"] = {
+					[7] = 13209,
+					[70] = 250,
+					[68] = 500,
+					[78] = 15574,
+					[8] = 8999,
+					[71] = 250,
+					[9] = 31492,
+					[10] = 9349,
+					[158] = 9000,
+					[72] = 770,
+					[76] = 13596,
+					[6] = 8999,
+					[69] = 250,
+					[113] = 8999,
 				},
 			},
 			["Default.Frostwolf.Sumex"] = {

@@ -40,23 +40,23 @@ DataStore_AgendaDB = {
 					},
 				},
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|389424286"] = "470270|1589430128|0|1",
+					["Battle of Dazar'alor Mythic|389424286"] = "140021|1589760377|0|1",
 				},
-				["lastUpdate"] = 1589430083,
+				["lastUpdate"] = 1589760374,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|389609703"] = "199246|1589701152|0|1",
-					["Battle of Dazar'alor Mythic|389418458"] = "199246|1589701152|0|1",
+					["Ny'alotha, the Waking City Mythic|389609703"] = "138092|1589762307|0|1",
+					["Battle of Dazar'alor Mythic|389418458"] = "138092|1589762307|0|1",
 				},
-				["lastUpdate"] = 1589701149,
+				["lastUpdate"] = 1589762304,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|389609703"] = "199161|1589701237|0|1",
-					["Battle of Dazar'alor Mythic|389410195"] = "199161|1589701237|0|1",
+					["Ny'alotha, the Waking City Mythic|389609703"] = "137931|1589762468|0|1",
+					["Battle of Dazar'alor Mythic|389410195"] = "137931|1589762468|0|1",
 				},
-				["lastUpdate"] = 1589701235,
+				["lastUpdate"] = 1589762465,
 			},
 		},
 	},

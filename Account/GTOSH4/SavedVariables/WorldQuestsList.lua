@@ -113,23 +113,6 @@ VWQL = {
 	},
 	["DisableIconsGeneralMap947"] = true,
 	["DisableLFG_Popup"] = true,
-	["Toshpal-Kil'jaeden"] = {
-		["VERSION"] = 92,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-			[52387] = true,
-			[43943] = true,
-			[50866] = true,
-			[58749] = true,
-			[58742] = true,
-			[58705] = true,
-			[52892] = true,
-			[52877] = true,
-			[50633] = true,
-		},
-		["Filter"] = 63,
-	},
 	["Toshtrial-TheForgottenCoast"] = {
 		["VERSION"] = 87,
 		["Filter"] = 63,
@@ -139,14 +122,7 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
-	["Toshpal-Area52"] = {
-		["VERSION"] = 92,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-		},
-		["Filter"] = 63,
-	},
+	["ArrowStyle"] = 2,
 	["Toshpala-Illidan"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
@@ -165,8 +141,7 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
-	["ArrowStyle"] = 2,
-	["Toshpriest-Area52"] = {
+	["Toshaman-Area52"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
 		["RegularQuestMode"] = true,
@@ -175,7 +150,7 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
-	["Toshpriest-Illidan"] = {
+	["Toshpriest-Area52"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
 		["RegularQuestMode"] = true,
@@ -226,6 +201,7 @@ VWQL = {
 		},
 		["Filter"] = 63,
 	},
+	["Anchor"] = 1,
 	["DisableArrow"] = false,
 	["OppositeContinent"] = false,
 	["Yorman-Kil'jaeden"] = {
@@ -260,7 +236,15 @@ VWQL = {
 		},
 		["VERSION"] = 92,
 	},
-	["Anchor"] = 1,
+	["Toshmoney-Greymane"] = {
+		["VERSION"] = 92,
+		["Filter"] = 63,
+		["RegularQuestMode"] = true,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
 	["Tosh-Kil'jaeden"] = {
 		["Filter"] = 63,
 		["FilterType"] = {
@@ -281,7 +265,7 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
-	["Toshmoney-Greymane"] = {
+	["Tosh-Frostwolf"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
 		["RegularQuestMode"] = true,
@@ -290,7 +274,7 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
-	["Tosh-Frostwolf"] = {
+	["Toshpriest-Illidan"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
 		["RegularQuestMode"] = true,
@@ -312,14 +296,13 @@ VWQL = {
 		},
 		["Filter"] = 63,
 	},
-	["Toshaman-Area52"] = {
+	["Toshpal-Area52"] = {
 		["VERSION"] = 92,
-		["Filter"] = 63,
-		["RegularQuestMode"] = true,
-		["Quests"] = {
-		},
 		["FilterType"] = {
 		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
 	},
 	["HideLegion"] = true,
 }

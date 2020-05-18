@@ -10,11 +10,11 @@ JambaQuestProfileDB = {
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshpala - Illidan"] = "Default",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Default",
@@ -47,10 +47,10 @@ JambaQuestProfileDB = {
 		["Toshaman - Area 52"] = {
 		},
 		["Default"] = {
-			["acceptFromTeam"] = true,
+			["onlyAcceptQuestsFrom"] = true,
 			["showJambaQuestLogWithWoWQuestLog"] = false,
 			["doNotAutoAccept"] = false,
-			["onlyAcceptQuestsFrom"] = true,
+			["acceptFromTeam"] = true,
 			["masterAutoShareQuestOnAccept"] = true,
 		},
 		["Koutetsu - Frostwolf"] = {

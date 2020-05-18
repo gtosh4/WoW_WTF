@@ -12,8 +12,8 @@ DataStoreDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -26,13 +26,16 @@ DataStoreDB = {
 	},
 	["global"] = {
 		["Guilds"] = {
+			["Default.Area 52.sheeple"] = {
+				["faction"] = "Horde",
+			},
 			["Default.Kil'jaeden.Rivalry"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Koopa Troopa"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Area 52.sheeple"] = {
+			["Default.Area 52.Aggravated"] = {
 				["faction"] = "Horde",
 			},
 		},
@@ -80,13 +83,13 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["faction"] = "Horde",
-			},
-			["Default.Area 52.Toshpriest"] = {
-				["guildName"] = "sheeple",
+				["guildName"] = "Aggravated",
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Daggny"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Area 52.Toshpriest"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Frostwolf.Sumex"] = {

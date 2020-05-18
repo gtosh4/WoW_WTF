@@ -313,7 +313,7 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN1"] = {
 			["IconTexturePath"] = 135920,
 			["PerCharacterOptions"] = {
-				["Toshpal-Kil'jaeden"] = {
+				["Toshpal-Area52"] = {
 					["Visible"] = true,
 				},
 			},

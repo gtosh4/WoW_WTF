@@ -12,8 +12,8 @@ BattleGroundEnemiesDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshmoney - Quel'dorei"] = "Default",
-		["Toshpala - Illidan"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpala - Illidan"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
@@ -26,16 +26,6 @@ BattleGroundEnemiesDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["Allies"] = {
-				["Enabled"] = false,
-				["15"] = {
-					["Position_Y"] = 475.733544054026,
-					["Position_X"] = 1429.86668678999,
-				},
-			},
-			["Font"] = "Friz Quadrata TT",
-			["Locked"] = true,
-			["DisableArenaFrames"] = true,
 			["Enemies"] = {
 				["40"] = {
 					["Position_Y"] = 719.4666245436674,
@@ -53,6 +43,16 @@ BattleGroundEnemiesDB = {
 					["NumericTargetindicator_Outline"] = "OUTLINE",
 					["Position_X"] = 1563.201683809719,
 					["BarHeight"] = 22,
+				},
+			},
+			["Font"] = "Friz Quadrata TT",
+			["Locked"] = true,
+			["DisableArenaFrames"] = true,
+			["Allies"] = {
+				["Enabled"] = false,
+				["15"] = {
+					["Position_Y"] = 475.733544054026,
+					["Position_X"] = 1429.86668678999,
 				},
 			},
 		},

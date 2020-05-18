@@ -12,8 +12,8 @@ DataStore_StatsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -66,16 +66,16 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1589421598,
+				["lastUpdate"] = 1589760252,
 				["Stats"] = {
-					["Ranged"] = "6190-6191|0|0|0|22.597221374512",
+					["Ranged"] = "6487-6488|0|0|0|22.597221374512",
 					["HealthMax"] = 238240,
-					["Melee"] = "6734-6928|3.3700001239777|1465|0|22.597221374512|0",
+					["Melee"] = "7031-7225|3.3700001239777|1465|0|22.597221374512|0",
 					["MaxPower"] = "0|100000",
 					["Defense"] = "0|0|6.2373266220093|0|0|0",
 					["PVP"] = "3505|0",
-					["Base"] = "633|1465|11912|9101|0",
-					["Spell"] = "9101|9101|0|22.597221374512|465|4000",
+					["Base"] = "633|1465|11912|9538|0",
+					["Spell"] = "9538|9538|0|22.597221374512|465|4000",
 				},
 			},
 			["Default.Kil'jaeden.Toshpal"] = {
@@ -144,7 +144,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1589701016,
+				["lastUpdate"] = 1589760296,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|15.347221374512",
 					["HealthMax"] = 828079,
@@ -157,7 +157,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Illidan.Toshpala"] = {
-				["lastUpdate"] = 1589699248,
+				["lastUpdate"] = 1589759467,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|12.244647979736",
 					["HealthMax"] = 1080,
@@ -183,7 +183,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1589702637,
+				["lastUpdate"] = 1589759339,
 				["Stats"] = {
 					["Ranged"] = "6368-6369|0|0|0|23.916664123535",
 					["HealthMax"] = 526940,
@@ -193,19 +193,6 @@ DataStore_StatsDB = {
 					["PVP"] = "523|0",
 					["Base"] = "1468|515|26347|14074|0",
 					["Spell"] = "14074|14074|0|23.916664123535|2192|4000",
-				},
-			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1587015249,
-				["Stats"] = {
-					["Ranged"] = "6-12|1.8170000314713|0|0|12.766578674316",
-					["HealthMax"] = 4970,
-					["Melee"] = "1-2|1.8170000314713|0|0|12.766578674316|0",
-					["MaxPower"] = "0|6300",
-					["Defense"] = "0|0|3|0|0|0",
-					["PVP"] = "0|0",
-					["Base"] = "80|122|355|422|0",
-					["Spell"] = "422|422|0|12.766578674316|81|252",
 				},
 			},
 			["Default.Frostwolf.Daggny"] = {
@@ -219,6 +206,19 @@ DataStore_StatsDB = {
 					["PVP"] = "803|0",
 					["Base"] = "126|574|729|303|0",
 					["Defense"] = "0|0|8.9329853057861|3|0|0",
+				},
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1589764105,
+				["Stats"] = {
+					["Ranged"] = "6-12|1.8170000314713|0|0|12.766578674316",
+					["HealthMax"] = 4970,
+					["Melee"] = "1-2|1.8170000314713|0|0|12.766578674316|0",
+					["MaxPower"] = "0|6300",
+					["Defense"] = "0|0|3|0|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "80|122|355|422|0",
+					["Spell"] = "422|422|0|12.766578674316|81|252",
 				},
 			},
 			["Default.Frostwolf.Sumex"] = {

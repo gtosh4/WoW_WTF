@@ -12,8 +12,8 @@ TomTomDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshmoney - Quel'dorei"] = "Default",
-		["Toshpala - Illidan"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpala - Illidan"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
@@ -55,8 +55,8 @@ TomTomWaypointsM = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -114,9 +114,9 @@ TomTomWaypointsM = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
-		["Toshpala - Illidan"] = {
-		},
 		["Toshaman - Kil'jaeden"] = {
+		},
+		["Toshpala - Illidan"] = {
 		},
 		["Toshpal - Area 52"] = {
 		},

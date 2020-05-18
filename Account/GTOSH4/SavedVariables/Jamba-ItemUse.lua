@@ -10,11 +10,11 @@ JambaItemUseProfileDB = {
 		["Zallie - Frostwolf"] = "Zallie - Frostwolf",
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshpala - Illidan"] = "Default",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Default",
@@ -1044,8 +1044,6 @@ JambaItemUseProfileDB = {
 			["itemUseTitleHeight"] = 2,
 		},
 		["Default"] = {
-			["itemUseTitleHeight"] = 2,
-			["frameYOffset"] = 191.8657684326172,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "item:173406",
@@ -1128,6 +1126,8 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
+			["frameYOffset"] = 191.8657684326172,
+			["itemUseTitleHeight"] = 2,
 			["showItemUse"] = false,
 		},
 		["Koutetsu - Frostwolf"] = {

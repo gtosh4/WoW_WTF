@@ -12,8 +12,8 @@ DataStore_AuctionsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
@@ -26,13 +26,17 @@ DataStore_AuctionsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1589691761,
-				["lastVisitDate"] = "2020/05/17 01:02",
-			},
 			["Default.Quel'dorei.Toshmoney"] = {
 				["lastUpdate"] = 1588222001,
 				["lastVisitDate"] = "2020/04/30 00:46",
+			},
+			["Default.Kil'jaeden.Toshdk"] = {
+				["lastUpdate"] = 1588810121,
+				["lastVisitDate"] = "2020/05/06 20:08",
+			},
+			["Default.Kil'jaeden.Yorman"] = {
+				["lastUpdate"] = 1565388862,
+				["lastVisitDate"] = "2019/08/09 18:14",
 			},
 			["Default.Greymane.Toshmoney"] = {
 				["lastUpdate"] = 1587675427,
@@ -42,17 +46,13 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1554949726,
 				["lastVisitDate"] = "2019/04/10 22:28",
 			},
-			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1588810121,
-				["lastVisitDate"] = "2020/05/06 20:08",
-			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1586305215,
 				["lastVisitDate"] = "2020/04/07 20:20",
 			},
-			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1565388862,
-				["lastVisitDate"] = "2019/08/09 18:14",
+			["Default.Kil'jaeden.Toshpal"] = {
+				["lastUpdate"] = 1589691761,
+				["lastVisitDate"] = "2020/05/17 01:02",
 			},
 		},
 	},

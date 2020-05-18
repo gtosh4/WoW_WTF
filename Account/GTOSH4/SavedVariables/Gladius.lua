@@ -12,9 +12,9 @@ Gladius2DB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshpal - Area 52"] = "Default",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
@@ -28,29 +28,29 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["trinketGridStyleIcon"] = true,
 			["powerBarTexture"] = "Smooth v2",
-			["classIconShowSpec"] = true,
+			["auraVersion"] = 1,
 			["timerOmniCC"] = true,
 			["tagsTexts"] = {
 				["HealthBar Right Text"] = {
 					["text"] = "[health:short]",
 				},
 			},
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["castBarTexture"] = "Smooth v2",
 			["modules"] = {
 				["Announcements"] = false,
 			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
 			},
+			["y"] = {
+				["arena1"] = 229.7807371077943,
+			},
+			["classIconShowSpec"] = true,
 			["castBarAttachTo"] = "Frame",
 			["castBarAnchor"] = "BOTTOMLEFT",
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
+			["castBarTexture"] = "Smooth v2",
 		},
 		["Daggny - Frostwolf"] = {
 			["auraVersion"] = 1,
@@ -85,11 +85,11 @@ Gladius2DB = {
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 483.732411763853,
-			},
 			["x"] = {
 				["arena1"] = 1438.93566484931,
+			},
+			["y"] = {
+				["arena1"] = 483.732411763853,
 			},
 		},
 		["Toshmoney - Greymane"] = {
@@ -164,24 +164,14 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 		},
-		["Toshaman - Area 52"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 291.1133534258697,
-			},
-			["x"] = {
-				["arena1"] = 1615.733250182529,
-			},
-		},
 		["Toshpala - Illidan"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1508.533251086541,
-			},
 			["y"] = {
 				["arena1"] = 325.7799256511935,
+			},
+			["x"] = {
+				["arena1"] = 1508.533251086541,
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {
@@ -204,8 +194,24 @@ Gladius2DB = {
 				["arena1"] = 688.4467365182063,
 			},
 		},
-		["Toshpal - Area 52"] = {
+		["Toshaman - Area 52"] = {
+			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 291.1133534258697,
+			},
+			["x"] = {
+				["arena1"] = 1615.733250182529,
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["y"] = {
+				["arena1"] = 453.2466979451419,
+			},
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1376.800179584418,
+			},
 			["auraVersion"] = 1,
 		},
 		["Tosh - Kil'jaeden"] = {
@@ -432,15 +438,15 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
+			["aurasBuffsWidth"] = 22,
+			["classIconShowSpec"] = true,
 			["y"] = {
 				["arena1"] = 263.99849693316,
 			},
-			["classIconShowSpec"] = true,
-			["aurasBuffsHeight"] = 22,
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["castBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -453,10 +459,10 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["castBarTexture"] = "ElvUI Norm",
+			["aurasBuffsHeight"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["aurasBuffsWidth"] = 22,
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 		},
 		["Koutetsu - Frostwolf"] = {
 			["auraVersion"] = 1,
