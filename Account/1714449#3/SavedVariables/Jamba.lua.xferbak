@@ -1,0 +1,342 @@
+
+JambaCoreProfileDB = {
+	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+	},
+	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Toshpriest - Area 52"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Default"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Tosh - Kil'jaeden"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Toshaman - Dreadmaul"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["showStartupMessage4000"] = false,
+		},
+		["Toshpal - Area 52"] = {
+			["showStartupMessage4000"] = false,
+		},
+	},
+}
+JambaCommunicationsProfileDB = {
+	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+	},
+	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+		},
+		["Toshpriest - Area 52"] = {
+		},
+		["Default"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshmonk - Kil'jaeden"] = {
+		},
+		["Toshaman - Dreadmaul"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
+		},
+		["Toshpal - Area 52"] = {
+		},
+	},
+}
+JambaTeamProfileDB = {
+	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+	},
+	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+			["master"] = "Toshweaver-Area52",
+			["teamList"] = {
+				["Toshweaver-Area52"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshweaver-Area52"] = true,
+			},
+		},
+		["Toshpriest - Area 52"] = {
+			["characterOnline"] = {
+				["Toshpriest-Area52"] = true,
+			},
+			["characterClass"] = {
+				["Toshpriest-Area52"] = "PRIEST",
+			},
+			["teamList"] = {
+				["Toshpriest-Area52"] = 1,
+			},
+			["master"] = "Toshpriest-Area52",
+		},
+		["Default"] = {
+			["characterClass"] = {
+				["Toshpal-Kil'jaeden"] = "PALADIN",
+				["Toshaman-Area52"] = "SHAMAN",
+				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
+				["Toshpriest-Area52"] = "PRIEST",
+				["Toshdk-Kil'Jaeden"] = "DEATHKNIGHT",
+			},
+			["master"] = "Toshpriest-Area52",
+			["characterOnline"] = {
+				["Toshpal-Kil'jaeden"] = true,
+				["Toshaman-Area52"] = true,
+				["Toshdk-Kil'jaeden"] = true,
+				["Toshdk-Kil'Jaeden"] = true,
+				["Toshpriest-Area52"] = true,
+			},
+			["teamList"] = {
+				["Toshpal-Kil'jaeden"] = 3,
+				["Toshaman-Area52"] = 1,
+				["Toshdk-Kil'jaeden"] = 5,
+				["Toshdk-Kil'Jaeden"] = 4,
+				["Toshpriest-Area52"] = 2,
+			},
+		},
+		["Tosh - Kil'jaeden"] = {
+			["characterClass"] = {
+				["Toshpriest-Area52"] = "PRIEST",
+				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
+			},
+			["master"] = "Toshpriest-Area52",
+			["teamList"] = {
+				["Toshpriest-Area52"] = 2,
+				["Toshdk-Kil'jaeden"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshpriest-Area52"] = true,
+				["Toshdk-Kil'jaeden"] = true,
+			},
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["characterClass"] = {
+				["Toshmonk-Kil'jaeden"] = "MONK",
+			},
+			["master"] = "Toshmonk-Kil'jaeden",
+			["teamList"] = {
+				["Toshmonk-Kil'jaeden"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshmonk-Kil'jaeden"] = true,
+			},
+		},
+		["Toshaman - Dreadmaul"] = {
+			["master"] = "Toshaman-Dreadmaul",
+			["characterOnline"] = {
+				["Toshaman-Dreadmaul"] = true,
+			},
+			["teamList"] = {
+				["Toshaman-Dreadmaul"] = 1,
+			},
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["master"] = "Toshaman-Area52",
+			["characterOnline"] = {
+				["Toshpal-Kil'jaeden"] = true,
+				["Toshaman-Area52"] = true,
+			},
+			["teamList"] = {
+				["Toshpal-Kil'jaeden"] = 2,
+				["Toshaman-Area52"] = 1,
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["characterClass"] = {
+				["Toshpal-Area52"] = "PALADIN",
+				["Toshpriest-Area52"] = "PRIEST",
+			},
+			["master"] = "Toshpal-Area52",
+			["teamList"] = {
+				["Toshpal-Area52"] = 1,
+				["Toshpriest-Area52"] = 2,
+			},
+			["inviteConvertToRaid"] = false,
+			["characterOnline"] = {
+				["Toshpal-Area52"] = true,
+				["Toshpriest-Area52"] = true,
+			},
+		},
+	},
+}
+JambaTagProfileDB = {
+	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+	},
+	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+			["tagList"] = {
+				["Toshweaver-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
+		["Toshpriest - Area 52"] = {
+			["tagList"] = {
+				["Toshpriest-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
+		["Default"] = {
+			["tagList"] = {
+				["Toshpal-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshaman-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshdk-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshdk-Kil'Jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshpriest-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
+		["Tosh - Kil'jaeden"] = {
+			["tagList"] = {
+				["Toshdk-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshpriest-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshaman-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["tagList"] = {
+				["Toshmonk-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
+		["Toshaman - Dreadmaul"] = {
+			["tagList"] = {
+				["Toshaman-Dreadmaul"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
+		["Toshaman - Kil'jaeden"] = {
+			["tagList"] = {
+				["Toshpal-Kil'jaeden"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+				["Toshaman-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["tagList"] = {
+				["Toshpal-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"master", -- [3]
+				},
+				["Toshpriest-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
+				},
+			},
+		},
+	},
+}
+JambaMessageProfileDB = {
+	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+	},
+	["profiles"] = {
+		["Toshweaver - Area 52"] = {
+		},
+		["Toshpriest - Area 52"] = {
+		},
+		["Default"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshmonk - Kil'jaeden"] = {
+		},
+		["Toshaman - Dreadmaul"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
+		},
+		["Toshpal - Area 52"] = {
+		},
+	},
+}

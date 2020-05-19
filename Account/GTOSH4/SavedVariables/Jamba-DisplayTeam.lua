@@ -31,8 +31,8 @@ JambaDisplayTeamProfileDB = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Toshpriest - Area 52"] = {
-			["showTeamList"] = false,
 			["teamListTitleHeight"] = 0,
+			["showTeamList"] = false,
 		},
 		["Yorman - Kil'jaeden"] = {
 			["teamListTitleHeight"] = 0,
@@ -55,20 +55,20 @@ JambaDisplayTeamProfileDB = {
 		["Toshpala - Illidan"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshaman - Area 52"] = {
-			["teamListTitleHeight"] = 0,
-		},
-		["Default"] = {
-			["teamListTitleHeight"] = 0,
-			["showTeamList"] = false,
-		},
 		["Koutetsu - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Default"] = {
+			["showTeamList"] = false,
+			["teamListTitleHeight"] = 0,
+		},
+		["Toshaman - Area 52"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Tosh - Frostwolf"] = {
+			["teamListTitleHeight"] = 0,
+		},
+		["Toshmoney - Quel'dorei"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Sumex - Frostwolf"] = {

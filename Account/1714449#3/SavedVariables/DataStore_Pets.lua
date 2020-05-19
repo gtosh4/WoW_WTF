@@ -1,14 +1,16 @@
 
 DataStore_PetsDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Reference"] = {
@@ -89,6 +91,50 @@ DataStore_PetsDB = {
 			["Default.Area 52.Toshpal"] = {
 				["lastUpdate"] = 1587014813,
 			},
+			["Default.Area 52.Toshaman"] = {
+				["lastUpdate"] = 1589845488,
+				["CRITTER"] = {
+					301136, -- [1]
+					315290, -- [2]
+					286483, -- [3]
+					280337, -- [4]
+					315270, -- [5]
+					229099, -- [6]
+					177225, -- [7]
+					221683, -- [8]
+					177224, -- [9]
+					301052, -- [10]
+					288870, -- [11]
+					177217, -- [12]
+					280331, -- [13]
+					177226, -- [14]
+					315298, -- [15]
+					315297, -- [16]
+					315301, -- [17]
+				},
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762303,
+				["CRITTER"] = {
+					301136, -- [1]
+					315290, -- [2]
+					286483, -- [3]
+					280337, -- [4]
+					315270, -- [5]
+					229099, -- [6]
+					177225, -- [7]
+					221683, -- [8]
+					177224, -- [9]
+					301052, -- [10]
+					288870, -- [11]
+					177217, -- [12]
+					280331, -- [13]
+					177226, -- [14]
+					315298, -- [15]
+					315297, -- [16]
+					315301, -- [17]
+				},
+			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015438,
 			},
@@ -120,26 +166,29 @@ DataStore_PetsDB = {
 					301015, -- [20]
 				},
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762303,
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1589859261,
 				["CRITTER"] = {
-					301136, -- [1]
-					315290, -- [2]
-					286483, -- [3]
-					280337, -- [4]
-					315270, -- [5]
-					229099, -- [6]
-					177225, -- [7]
-					221683, -- [8]
-					177224, -- [9]
-					301052, -- [10]
-					288870, -- [11]
-					177217, -- [12]
-					280331, -- [13]
-					177226, -- [14]
-					315298, -- [15]
-					315297, -- [16]
-					315301, -- [17]
+					301137, -- [1]
+					286483, -- [2]
+					177228, -- [3]
+					177231, -- [4]
+					177225, -- [5]
+					177236, -- [6]
+					280336, -- [7]
+					288868, -- [8]
+					301029, -- [9]
+					301031, -- [10]
+					315221, -- [11]
+					301033, -- [12]
+					177222, -- [13]
+					177229, -- [14]
+					177244, -- [15]
+					280331, -- [16]
+					286482, -- [17]
+					288910, -- [18]
+					315303, -- [19]
+					279643, -- [20]
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {

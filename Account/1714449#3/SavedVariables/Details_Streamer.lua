@@ -1,21 +1,23 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Toshpal - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshtrial - Blood Furnace"] = "Toshmonk - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshmonk - Kil'jaeden",
+		["Toshdk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Dreadmaul"] = "Toshmonk - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Toshmonk - Kil'jaeden",
-		["Toshdk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshmonk - Kil'jaeden",
 		["Tosku - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Koutetsu - Frostwolf"] = "Toshmonk - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshmonk - Kil'jaeden",
 		["Yorman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshtrial - The Forgotten Coast"] = "Toshmonk - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Zallie - Frostwolf"] = "Toshmonk - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshmonk - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Koutetsu - Frostwolf"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshmonk - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshmonk - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
@@ -48,12 +50,7 @@ Details_StreamerDB = {
 			["point"] = "BOTTOMLEFT",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0.305882352941177, -- [1]
-				0.305882352941177, -- [2]
-				0.305882352941177, -- [3]
-				0.850000008940697, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 28,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -61,7 +58,7 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["font_size"] = 14,
 			["use_spark"] = true,
@@ -79,7 +76,12 @@ Details_StreamerDB = {
 				["attribute_type"] = 1,
 			},
 			["y"] = 200.0283660888672,
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.305882352941177, -- [1]
+				0.305882352941177, -- [2]
+				0.305882352941177, -- [3]
+				0.850000008940697, -- [4]
+			},
 			["main_frame_locked"] = true,
 			["arrow_anchor_y"] = 0,
 		},

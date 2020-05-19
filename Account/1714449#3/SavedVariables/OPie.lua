@@ -13,7 +13,7 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["Mounts"] = "ALT-1",
+				["Mounts"] = false,
 				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-S",
 				["PaladinAuras"] = false,
@@ -40,10 +40,10 @@ OneRing_Config = {
 					407, -- [2]
 					["sliceToken"] = "ABuefXkFMje",
 				}, -- [3]
-				["quarantineBind"] = "ALT-1",
+				["offset"] = 0,
 				["name"] = "Mounts",
 				["save"] = true,
-				["offset"] = 0,
+				["quarantineBind"] = "ALT-1",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
@@ -120,8 +120,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuehM6q7Se",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 		},
 	},

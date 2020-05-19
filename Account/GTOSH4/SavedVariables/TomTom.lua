@@ -12,16 +12,16 @@ TomTomDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshmoney - Quel'dorei"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpala - Illidan"] = "Default",
-		["Toshpal - Area 52"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Tosh - Frostwolf"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Toshtrial - Blood Furnace"] = "Default",
 		["Sumex - Frostwolf"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
+		["Toshpal - Area 52"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
+		["Tosh - Frostwolf"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Toshpala - Illidan"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
@@ -55,16 +55,16 @@ TomTomWaypointsM = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -90,9 +90,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -114,25 +114,25 @@ TomTomWaypointsM = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-		},
-		["Toshpala - Illidan"] = {
-		},
-		["Toshpal - Area 52"] = {
-		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Tosh - Kil'jaeden"] = {
-		},
-		["Tosh - Frostwolf"] = {
-		},
-		["Toshaman - Area 52"] = {
-		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Sumex - Frostwolf"] = {
 		},
 		["Toshtrial - Blood Furnace"] = {
 		},
-		["Sumex - Frostwolf"] = {
+		["Toshpal - Area 52"] = {
+		},
+		["Toshaman - Area 52"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
+		},
+		["Tosh - Frostwolf"] = {
+		},
+		["Tosh - Kil'jaeden"] = {
+		},
+		["Toshtrial - The Forgotten Coast"] = {
+		},
+		["Toshpala - Illidan"] = {
+		},
+		["Toshaman - Kil'jaeden"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

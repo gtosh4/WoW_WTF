@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2392,
 	["lastSanitation"] = 3,
-	["session"] = 2387,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\Plater\\libs\\DF\\panel.lua:8779: attempt to call method 'Hide' (a nil value)",
@@ -12,28 +12,20 @@ BugGrabberDB = {
 			["counter"] = 61,
 		}, -- [1]
 		{
-			["message"] = "...ce\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua:15: attempt to call method 'Tag' (a nil value)",
-			["time"] = "2020/04/23 16:55:16",
-			["locals"] = "self = <table> {\n Castbar_CheckInterrupt = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:13\n SetNamePlateEnemyClickThrough = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:436\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n Update_Castbar = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:167\n PlateGUID = <table> {\n }\n StyleFilterRemoveCustomCheck = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1317\n ThreatIndicator_PreUpdate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Threat.lua:12\n StyleFilterBorderLock = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:437\n PLAYER_REGEN_DISABLED = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:148\n ConfigureAll = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:479\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n ScheduleTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n StyleFilterAuraWait = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:299\n StyleFilterDefaultEvents = <table> {\n }\n StyleFilterEventWatch = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1255\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n ResetSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:71\n SetNamePlateClickThrough = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:421\n hooks = <table> {\n }\n UpdateAuraSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Auras.lua:149\n Update_QuestIcons = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:32\n StyleFilterTickerCreate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:295\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n Update_PvPIndicator = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\PvP.lua:29\n StyleFilterNameChanged = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:426\n Castbar_PostCastFail = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:86\n Update_StatusBars = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:440\n GroupRoles = <table> {\n }\n StyleFilterPlateStyled = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:401\n GROUP_LEFT = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:465\n Plates = <table> {\n }\n Update_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:191\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n Castbar_PostCastStart = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:81\n Update_Highlight = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:157\n Construct_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:179\n Initialized = true\n Update_Tags = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua:59\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n Update_Health = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Health.lua:105\n name = \"ElvUI_NamePlates\"\n StyleFilt",
-			["stack"] = "[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua\"]:15: in function `Update_Name'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua\"]:60: in function `Update_Tags'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:297: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:296>\n[string \"=[C]\"]: in function `UpdatePlate'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:613: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:560>\n[string \"=[C]\"]: in function `NamePlateCallBack'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:762: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:762>\n[string \"@Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua\"]:829: in function <Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua:790>",
-			["session"] = 2324,
-			["counter"] = 59,
-		}, -- [2]
-		{
 			["message"] = "...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:643: attempt to index field 'Health' (a nil value)",
 			["time"] = "2020/04/23 16:55:17",
 			["locals"] = "self = <table> {\n Castbar_CheckInterrupt = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:13\n SetNamePlateEnemyClickThrough = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:436\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n Update_Castbar = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:167\n PlateGUID = <table> {\n }\n StyleFilterRemoveCustomCheck = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1317\n ThreatIndicator_PreUpdate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Threat.lua:12\n StyleFilterBorderLock = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:437\n PLAYER_REGEN_DISABLED = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:148\n ConfigureAll = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:479\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n ScheduleTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n StyleFilterAuraWait = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:299\n StyleFilterDefaultEvents = <table> {\n }\n StyleFilterEventWatch = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1255\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n ResetSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:71\n SetNamePlateClickThrough = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:421\n hooks = <table> {\n }\n UpdateAuraSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Auras.lua:149\n Update_QuestIcons = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:32\n StyleFilterTickerCreate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:295\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n Update_PvPIndicator = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\PvP.lua:29\n StyleFilterNameChanged = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:426\n Castbar_PostCastFail = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:86\n Update_StatusBars = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:440\n GroupRoles = <table> {\n }\n StyleFilterPlateStyled = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:401\n GROUP_LEFT = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:465\n Plates = <table> {\n }\n Update_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:191\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n Castbar_PostCastStart = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:81\n Update_Highlight = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:157\n Construct_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:179\n Initialized = true\n Update_Tags = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua:59\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n Update_Health = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Health.lua:105\n name = \"ElvUI_NamePlates\"\n StyleFilt",
 			["stack"] = "[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:643: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:560>\n[string \"=[C]\"]: in function `NamePlateCallBack'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:762: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:762>\n[string \"@Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua\"]:842: in function <Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua:790>",
 			["session"] = 2324,
 			["counter"] = 65,
-		}, -- [3]
+		}, -- [2]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
 			["time"] = "2020/04/24 20:55:41",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:39: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\ZoneAbility.lua\"]:72: in function <Interface\\FrameXML\\ZoneAbility.lua:32>",
 			["session"] = 2328,
 			["counter"] = 1,
-		}, -- [4]
+		}, -- [3]
 		{
 			["message"] = "...ace\\AddOns\\Details_TinyThreat\\Details_TinyThreat.lua:54: Cannot find a library instance of \"LibThreatClassic2\".",
 			["time"] = "2020/04/27 20:22:52",
@@ -41,7 +33,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `error'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\LibStub\\LibStub.lua\"]:38: in function `GetLibrary'\n[string \"@Interface\\AddOns\\Details_TinyThreat\\Details_TinyThreat.lua\"]:54: in main chunk",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [5]
+		}, -- [4]
 		{
 			["message"] = "Interface\\AddOns\\Plater\\Plater.lua:92: Cannot find a library instance of \"LibThreatClassic2\".",
 			["time"] = "2020/04/27 20:23:03",
@@ -49,7 +41,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `error'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\LibStub\\LibStub.lua\"]:38: in function `GetLibrary'\n[string \"@Interface\\AddOns\\Plater\\Plater.lua\"]:92: in main chunk",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [6]
+		}, -- [5]
 		{
 			["message"] = "Interface\\AddOns\\Plater\\Plater_OptionsPanel.lua:112: attempt to call field 'RegisterRefreshDBCallback' (a nil value)",
 			["time"] = "2020/04/27 20:23:03",
@@ -57,7 +49,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Plater\\Plater_OptionsPanel.lua\"]:112: in main chunk",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [7]
+		}, -- [6]
 		{
 			["message"] = "Interface\\AddOns\\Quartz\\modules\\Player-Player.lua:207: table index is nil",
 			["time"] = "2020/04/27 20:23:04",
@@ -65,7 +57,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Quartz\\modules\\Player-Player.lua\"]:207: in main chunk",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [8]
+		}, -- [7]
 		{
 			["message"] = "Interface\\AddOns\\Quartz\\modules\\Buff.lua:29: Cannot find a library instance of \"LibClassicDurations\".",
 			["time"] = "2020/04/27 20:23:04",
@@ -73,7 +65,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `error'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\LibStub\\LibStub.lua\"]:38: in function `LibStub'\n[string \"@Interface\\AddOns\\Quartz\\modules\\Buff.lua\"]:29: in main chunk",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [9]
+		}, -- [8]
 		{
 			["message"] = "...ace\\AddOns\\TellMeWhen\\Localization\\StaticFormats.lua:147: attempt to index local 'FlametongueWeapon' (a nil value)",
 			["time"] = "2020/04/27 20:23:10",
@@ -81,7 +73,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\TellMeWhen\\Localization\\StaticFormats.lua\"]:147: in main chunk",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [10]
+		}, -- [9]
 		{
 			["message"] = "[string \"<unnamed>:OnLoad\"]:6: attempt to index global 'TMW' (a nil value)",
 			["time"] = "2020/04/27 20:23:11",
@@ -89,7 +81,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"*:OnLoad\"]:6: in function `SetBorderSize'\n[string \"*:OnLoad\"]:33: in function <[string \"*:OnLoad\"]:1>\n[string \"=[C]\"]: ?",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [11]
+		}, -- [10]
 		{
 			["message"] = "[string \"<unnamed>:OnLoad\"]:1: attempt to index global 'TMW' (a nil value)",
 			["time"] = "2020/04/27 20:23:11",
@@ -97,7 +89,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [12]
+		}, -- [11]
 		{
 			["message"] = "[string \"TellMeWhen_InterfaceOptionsPanel:OnLoad\"]:2: attempt to concatenate global 'TELLMEWHEN_VERSION_FULL' (a nil value)",
 			["time"] = "2020/04/27 20:23:11",
@@ -105,34 +97,34 @@ BugGrabberDB = {
 			["stack"] = "[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [13]
+		}, -- [12]
 		{
 			["message"] = "Interface\\AddOns\\Quartz\\modules\\Player-Player.lua:110: attempt to call method 'UpdateChannelingTicks' (a nil value)",
 			["time"] = "2020/04/27 20:23:16",
 			["stack"] = "[string \"@Interface\\AddOns\\Quartz\\modules\\Player-Player.lua\"]:110: in function <Interface\\AddOns\\Quartz\\modules\\Player.lua:106>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:70: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:540: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:620: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:605>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:580: in function `TimeManager_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1266: in function <Interface\\FrameXML\\UIParent.lua:1164>",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [14]
+		}, -- [13]
 		{
 			["message"] = "Interface\\AddOns\\Quartz\\modules\\Latency.lua:67: Usage: RawHook([object], method, [handler], [hookSecure]): Attempt to hook secure function UNIT_SPELLCAST_START. Use `SecureHook' or add `true' to the argument list to override.",
 			["time"] = "2020/04/27 20:23:16",
 			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua\"]:164: in function <...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:118>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua\"]:322: in function `RawHook'\n[string \"@Interface\\AddOns\\Quartz\\modules\\Latency.lua\"]:67: in function <Interface\\AddOns\\Quartz\\modules\\Latency.lua:66>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:70: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:540: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:620: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:605>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:580: in function `TimeManager_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1266: in function <Interface\\FrameXML\\UIParent.lua:1164>",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [15]
+		}, -- [14]
 		{
 			["message"] = "Interface\\AddOns\\Quartz\\modules\\Tradeskill.lua:93: Usage: RawHook([object], method, [handler], [hookSecure]): Attempt to hook secure function UNIT_SPELLCAST_START. Use `SecureHook' or add `true' to the argument list to override.",
 			["time"] = "2020/04/27 20:23:16",
 			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua\"]:164: in function <...\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:118>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0-8.lua\"]:322: in function `RawHook'\n[string \"@Interface\\AddOns\\Quartz\\modules\\Tradeskill.lua\"]:93: in function <Interface\\AddOns\\Quartz\\modules\\Tradeskill.lua:92>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:70: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:540: in function `EnableAddon'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0-12.lua\"]:620: in function <...ccountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:605>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:580: in function `TimeManager_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1266: in function <Interface\\FrameXML\\UIParent.lua:1164>",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [16]
+		}, -- [15]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/04/27 20:23:32",
 			["session"] = 2331,
+			["time"] = "2020/04/27 20:23:32",
 			["counter"] = 10,
-		}, -- [17]
+		}, -- [16]
 		{
 			["message"] = "Interface\\AddOns\\Details\\core\\gears.lua:2310: attempt to call global 'GetNumTalentTabs' (a nil value)",
 			["time"] = "2020/04/27 20:23:42",
@@ -140,14 +132,14 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Details\\core\\gears.lua\"]:2310: in function <Interface\\AddOns\\Details\\core\\gears.lua:2288>\n[string \"@Interface\\SharedXML\\C_TimerAugment.lua\"]:16: in function <Interface\\SharedXML\\C_TimerAugment.lua:14>",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [18]
+		}, -- [17]
 		{
 			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'TellMeWhen' tried to call the protected function 'OnAccept()'.",
 			["time"] = "2020/04/27 20:23:46",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `OnAccept'\n[string \"@Interface\\FrameXML\\StaticPopup.lua\"]:5077: in function `StaticPopup_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>",
 			["session"] = 2331,
 			["counter"] = 1,
-		}, -- [19]
+		}, -- [18]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'CollectionsJournal:EnableMouse()'.",
 			["time"] = "2020/04/29 22:14:28",
@@ -155,21 +147,21 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `EnableMouse'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:285: in function `MakeMovable'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:301: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:627: in function `CollectionsJournal_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1922: in function <Interface\\FrameXML\\UIParent.lua:1164>\n[string \"=[C]\"]: in function `TurnOrActionStop'\n[string \"TURNORACTION\"]:4: in function <[string \"TURNORACTION\"]:1>",
 			["session"] = 2335,
 			["counter"] = 1,
-		}, -- [20]
+		}, -- [19]
 		{
 			["message"] = "[string \"--[==[ Error in 'Sanity Bar' ]==] return fu...\"]:45: bad argument #1 to 'tinsert' (table expected, got nil)",
 			["time"] = "2020/05/01 17:45:55",
 			["stack"] = "[string \"--[==[ Error in 'Sanity Bar' ]==] return function(states, e, u, p, ...)\n    if e == \"UNIT_POWER_BAR_SHOW\" then\n        local guid\n        aura_env.unit = {}\n        aura_env.active_widget = nil\n        aura_env.checked = nil\n        aura_env.tracked_widgets = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            guid = UnitGUID(unit)\n            aura_env.unit[guid] = unit\n            aura_env.losses[unit] = {}\n            aura_env.avg[unit] = {}\n            \n            states[guid] = aura_env.get_state(guid)\n            \n            if IsInGroup(LE_PARTY_CATEGORY_HOME) then\n                C_ChatInfo.SendAddonMessage(\"PRMK_CLOAK\", guid, \"PARTY\")\n            else\n                aura_env.cloaks[guid] = aura_env.cloak_rank()\n            end\n        end\n        \n    elseif e == \"UNIT_POWER_UPDATE\" and p == \"ALTERNATE\" then\n        local guid = UnitGUID(u)\n        if states[guid] then\n            local s = states[guid]\n            local power, max_power = UnitPower(u, 10), UnitPowerMax(u, 10)\n            local pp = max_power and power/max_power\n            local cloak = aura_env.cloaks[guid]\n            local active_widget = aura_env.active_widget\n            local tracked_widgets = aura_env.tracked_widgets[active_widget]\n            \n            if guid == WeakAuras.myGUID and not cloak then\n                aura_env.cloaks[guid] = aura_env.cloak_rank()\n                cloak = aura_env.cloaks[guid]\n            end\n            \n            local loss = power<s.value and s.value-power\n            if active_widget and tracked_widgets and (cloak or (aura_env.avg[u] and aura_env.avg[u][tracked_widgets])) then\n                s.loss = cloak and tracked_widgets*cloak or aura_env.avg[u][tracked_widgets]\n                s.avg = \"\"\n            else\n                if loss and loss<=12 then\n                    tinsert(aura_env.losses[u], loss)\n                    s.loss = aura_env.average(u)\n                    s.avg = \"~\"\n                end\n            end\n            \n            -- after a dc the maximum sanity can be off\n            if s.total ~= max_power then\n                s.total = max_power\n            end\n            \n            s.value = power\n            s.pp = aura_env.dec and pp and string.format(aura_env.dec, pp*100)\n            s.changed = true\n        else\n            states[guid] = aura_env.get_state(guid)\n        end\n        \n    elseif e == \"UNIT_MAXPOWER\" and p == \"ALTERNATE\" then\n        local guid = UnitGUID(u)\n        \n        if states[guid] then\n            local s = states[guid]\n            local power, max_power = UnitPower(u, 10), UnitPowerMax(u, 10)\n            \n            s.value = power\n            s.total = max_power\n            s.changed = true\n        end\n        \n    elseif e == \"GROUP_ROSTER_UPDATE\" then\n        -- needs some work\n        local guid\n        aura_env.unit = {}\n        aura_env.checked = nil\n        \n        for k,v in pairs(states) do\n            v.show = false\n            v.changed = true\n        end\n        \n        for unit in WA_IterateGroupMembers() do\n            guid = UnitGUID(unit)\n            aura_env.unit[guid] = unit\n            aura_env.losses[unit] = {}\n            aura_env.avg[unit] = {}\n            \n            states[guid] = aura_env.get_state(guid)\n            if IsInGroup(LE_PARTY_CATEGORY_HOME) then\n                C_ChatInfo.SendAddonMessage(\"PRMK_CLOAK\", guid, \"PARTY\")\n            else\n                aura_env.cloaks[guid] = aura_env.cloak_rank()\n            end\n        end\n        \n    elseif e == \"UNIT_POWER_BAR_HIDE\" and u then\n        if u == \"player\" then\n            for k,v in pairs(states) do\n                v.show = false\n                v.changed = true\n            end\n        else\n            local guid = UnitGUID(u)\n            if states[guid] then\n                local s = states[guid]\n                s.show = false\n                s.changed = true\n            end\n        end\n    end\n    \n    --[[if e == \"PRMK_GIFT_UPDATE\" then\n        print(e, u, p, states[p])\n        local sub_event, guid = u, p\n        if states[guid] then\n            if sub_event == \"SPELL_AURA_APPLIED\" then\n                states[guid].gift = true\n            else\n                states[guid].gift = false\n            end\n            states[guid].changed = true\n        end\n    end]]\n    \n    if e == \"OPTIONS\" and WeakAuras.IsOptionsOpen() then\n        local names = {\n            player = \"player\",\n            party1 = \"party1\",\n            party2 = \"party2\",\n            party3 = \"party3\",\n            party4 = \"party4\",\n        }\n        \n        local i = 0\n        for unit, name in pairs(names) do\n            i = i + 1\n            local pp = (i*300/2500)\n            \n            states[unit] = {\n                index = (unit==\"player\") and 1 or tonumber(unit:match(\"%d\")),\n                progressType = \"static\",\n                value = i*300,\n                total = 2500,\n                gift = i == 5,\n                pp = aura_env.config.percent_power and string.format(aura_env.dec,pp*100),\n                loss = 6,\n                unit = unit,\n                name = aura_env.cc_text and UnitExists(name) and WA_ClassColorName(name) or name,\n                show = true,\n                changed = true\n            }\n        end\n    end\n    return true\nend\"]:45: in function <[string \"--[==[ Error in 'Sanity Bar' ]==] return fu...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:539: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:714: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:675: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:814: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:799>",
 			["session"] = 2339,
 			["counter"] = 3,
-		}, -- [21]
+		}, -- [20]
 		{
 			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
 			["time"] = "2020/04/29 23:25:45",
 			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
 			["session"] = 2362,
 			["counter"] = 3,
-		}, -- [22]
+		}, -- [21]
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
 			["time"] = "2020/04/29 22:59:21",
@@ -177,7 +169,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
 			["session"] = 2363,
 			["counter"] = 18,
-		}, -- [23]
+		}, -- [22]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'WorldFrame:ClearAllPoints()'.",
 			["time"] = "2020/04/24 21:48:49",
@@ -185,7 +177,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:69: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:56: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2687: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2768: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2456: in function <Interface\\FrameXML\\UIParent.lua:2448>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3326: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
 			["session"] = 2364,
 			["counter"] = 12,
-		}, -- [24]
+		}, -- [23]
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
 			["time"] = "2020/04/29 23:04:14",
@@ -193,7 +185,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
 			["session"] = 2364,
 			["counter"] = 620,
-		}, -- [25]
+		}, -- [24]
 		{
 			["message"] = "...terface\\AddOns\\Details_Streamer\\Details_Streamer.lua:2040: table index is nil",
 			["time"] = "2020/05/17 14:48:12",
@@ -201,6 +193,38 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua\"]:2040: in function <...terface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1889>\n[string \"=(tail call)\"]: ?",
 			["session"] = 2376,
 			["counter"] = 1,
+		}, -- [25]
+		{
+			["message"] = "Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8779: attempt to call method 'Hide' (a nil value)",
+			["time"] = "2020/05/18 18:02:59",
+			["locals"] = "self = NamePlate4PlaterUnitFrame {\n 0 = <userdata>\n UnitFrameEvents = <table> {\n }\n OnTick = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8719\n ActorType = \"enemynpc\"\n InExecuteRange = false\n namePlateUnitReaction = 4\n castBar = NamePlate4PlaterUnitFrameCastBar {\n }\n IsProtected = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9778\n IsTarget = false\n namePlateUnitGUID = \"Creature-0-3134-1642-477-130575-001C3ABDCB\"\n Top3DFrame = NamePlate43DFrame {\n }\n powerBar = NamePlate4PlaterUnitFramePowerBar {\n }\n namePlateUnitNameLower = \"wandering axebeak\"\n TargetTextures4Sides = <table> {\n }\n targetOverlay = <unnamed> {\n }\n CanCheckAggro = true\n isPet = false\n ScriptGetContainer = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9571\n PlayerCannotAttack = false\n creatureType = \"Beast\"\n ActorNameSpecial = <unnamed> {\n }\n widget = <unnamed> {\n }\n namePlateUnitToken = \"nameplate4\"\n aggroGlowUpper = <unnamed> {\n }\n OnHideWidget = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9702\n UpdateHealthColor = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8829\n PixelSnapDisabled = true\n namePlateNpcId = 130575\n unit = \"nameplate1\"\n repReaction = 4\n UnregisterEvents = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8707\n UpdateAllWidgets = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8945\n width = 150\n WidgetType = \"unitFrame\"\n blizzPlate = NamePlate4UnitFrame {\n }\n frameType = \"ENEMY_NPC\"\n isPlayer = false\n targetUnitID = \"nameplate4target\"\n UpdateUnitFrame = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8969\n Plater = true\n IsUnitNameplate = true\n ExtraIconFrame = NamePlate4PlaterUnitFrameExtraIconRow {\n }\n isNamePlate = true\n RefreshID = 6\n classFile = \"WARRIOR\"\n reaction = 4\n className = \"Wandering Axebeak\"\n namePlateUnitName = \"Wandering Axebeak\"\n ScriptRunNoAttach = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9693\n displayedUnit = \"nameplate1\"\n InCombat = false\n TargetNeonUp = <unnamed> {\n }\n IsUnitEvent = <table> {\n }\n WidgetContainer = <unnamed> {\n }\n namePlateThreatPercent = 0\n PlateFrame = NamePlate4 {\n }\n UNIT_ENTERED_VEHICLE = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:9001\n CheckVehiclePossession = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8795\n SetUnit = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8746\n unitName = \"Wandering Axebeak\"\n HighlightFrame = NamePlate4PlaterUnitFrameHealthBarHighlightOverlay {\n }\n AuraCache = <table> {\n }\n UNIT_PET = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:9009\n ScriptHotReload = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9616\n ScriptRunOnUpdate = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9632\n TargetNeonDown = <unnamed> {\n }\n CustomIndicators = <table> {\n }\n StyleFilterActionChanges = <table> {\n }\n PARTY_MEMBER_ENABLE = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:9019\n healthBar = NamePlate4PlaterUnitFrameHealthBar {\n }\n UNIT_NAME_UPDATE = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8989\n BossModIconFrame = NamePlate4PlaterUnitFrameHealthBarBossModIconRow {\n }\n UNIT_EXITED_VEHICLE = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:9004\n Settings = <table> {\n }\n npcID = \"130575\"\n isPlayerControlled = false\n PlaterRaidTargetFrame = <unnamed> {\n }\n UpdateName = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8919\n Initialize = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:8660\n height = 30\n SetAlphaTo = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:7743\n ScriptRunInitialization = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9675\n UNIT_CONNECTION = <function> defined @Interface\\AddOns\\Details\\Libs\\DF\\panel.lua:9014\n KillScript = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9749\n ActorTitleSpecial = <unnamed> {\n }\n ScriptRunOnShow = <function> defined @Interface\\AddOns\\Plater\\Plater.lua:9649\n actorType = \"enemynpc\"\n namePlateIsQuestObjective = false\n classID = 1\n border = Na",
+			["stack"] = "[string \"@Interface\\AddOns\\Details\\Libs\\DF\\panel.lua\"]:8779: in function `SetUnit'\n[string \"@Interface\\AddOns\\Plater\\Plater-Plater-v8.3.0.295-Retail.lua\"]:2810: in function `func'\n[string \"@Interface\\AddOns\\Plater\\Plater-Plater-v8.3.0.295-Retail.lua\"]:3149: in function <Interface\\AddOns\\Plater\\Plater.lua:3146>",
+			["session"] = 2389,
+			["counter"] = 10,
 		}, -- [26]
+		{
+			["message"] = "...ce\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua:15: attempt to call method 'Tag' (a nil value)",
+			["time"] = "2020/04/23 16:55:16",
+			["locals"] = "self = <table> {\n Castbar_CheckInterrupt = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:13\n SetNamePlateEnemyClickThrough = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:436\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n Update_Castbar = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:167\n PlateGUID = <table> {\n }\n StyleFilterRemoveCustomCheck = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1317\n ThreatIndicator_PreUpdate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Threat.lua:12\n StyleFilterBorderLock = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:437\n PLAYER_REGEN_DISABLED = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:148\n ConfigureAll = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:479\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n ScheduleTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n StyleFilterAuraWait = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:299\n StyleFilterDefaultEvents = <table> {\n }\n StyleFilterEventWatch = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1255\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n ResetSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:71\n SetNamePlateClickThrough = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:421\n hooks = <table> {\n }\n UpdateAuraSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Auras.lua:149\n Update_QuestIcons = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:32\n StyleFilterTickerCreate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:295\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n Update_PvPIndicator = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\PvP.lua:29\n StyleFilterNameChanged = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:426\n Castbar_PostCastFail = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:86\n Update_StatusBars = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:440\n GroupRoles = <table> {\n }\n StyleFilterPlateStyled = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:401\n GROUP_LEFT = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:465\n Plates = <table> {\n }\n Update_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:191\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n Castbar_PostCastStart = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:81\n Update_Highlight = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:157\n Construct_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:179\n Initialized = true\n Update_Tags = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua:59\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n Update_Health = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Health.lua:105\n name = \"ElvUI_NamePlates\"\n StyleFilt",
+			["stack"] = "[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua\"]:15: in function `Update_Name'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua\"]:60: in function `Update_Tags'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:297: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:296>\n[string \"=[C]\"]: in function `UpdatePlate'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:613: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:560>\n[string \"=[C]\"]: in function `NamePlateCallBack'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:762: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:762>\n[string \"@Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua\"]:829: in function <Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua:790>",
+			["session"] = 2389,
+			["counter"] = 73,
+		}, -- [27]
+		{
+			["message"] = "...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:642: attempt to index field 'Health' (a nil value)",
+			["time"] = "2020/05/18 18:02:57",
+			["locals"] = "self = <table> {\n Castbar_CheckInterrupt = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:13\n SetNamePlateEnemyClickThrough = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:434\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n Update_Castbar = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:167\n PlateGUID = <table> {\n }\n StyleFilterRemoveCustomCheck = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1310\n ThreatIndicator_PreUpdate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Threat.lua:9\n StyleFilterBorderLock = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:418\n PLAYER_REGEN_DISABLED = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:148\n ConfigureAll = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:477\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n ScheduleTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n StyleFilterAuraWait = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:298\n StyleFilterDefaultEvents = <table> {\n }\n StyleFilterEventWatch = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1248\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n ResetSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:71\n StyleFilterEvents = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1274\n hooks = <table> {\n }\n UpdateAuraSettings = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Auras.lua:149\n Update_QuestIcons = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:32\n StyleFilterTickerCreate = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:294\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n Update_PvPIndicator = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\PvP.lua:26\n UpdatePlateGUID = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:554\n Castbar_PostCastFail = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:86\n Update_StatusBars = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:438\n GroupRoles = <table> {\n }\n StyleFilterCopyDefaults = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\StyleFilter.lua:1355\n GROUP_LEFT = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:463\n Plates = <table> {\n }\n Update_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:191\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n Castbar_PostCastStart = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\CastBar.lua:81\n Update_Highlight = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:157\n Construct_PVPRole = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Plugins.lua:179\n Initialized = true\n Update_Tags = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Tags.lua:59\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n Update_Health = <function> defined @Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Elements\\Health.lua:102\n name = \"ElvUI_NamePlates\"\n StyleFilterSetChanges = <function> defined @I",
+			["stack"] = "[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:642: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:558>\n[string \"=[C]\"]: in function `NamePlateCallBack'\n[string \"@Interface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua\"]:763: in function <...rface\\AddOns\\ElvUI\\Modules\\nameplates\\Nameplates.lua:763>\n[string \"@Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua\"]:842: in function <Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua:790>",
+			["session"] = 2389,
+			["counter"] = 14,
+		}, -- [28]
+		{
+			["message"] = "Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:3281: D!Framework (DetailsFrameworkButtonNumber322151:OnMouseUp()) error: Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:2307: attempt to index field '?' (a nil value)\n====================\n[string \"@Interface\\AddOns\\Details\\Libs\\DF\\button.lua\"]:889: in function <Interface\\AddOns\\Details\\Libs\\DF\\button.lua:802>\n\n====================\n",
+			["time"] = "2020/05/18 18:12:09",
+			["locals"] = "(*temporary) = \"D!Framework (DetailsFrameworkButtonNumber322151:OnMouseUp()) error: Interface\\AddOns\\Details\\Libs\\DF\\fw.lua:2307: attempt to index field '?' (a nil value)\n====================\n[string \"@Interface\\AddOns\\Details\\Libs\\DF\\button.lua\"]:889: in function <Interface\\AddOns\\Details\\Libs\\DF\\button.lua:802>\n\n====================\n\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `error'\n[string \"@Interface\\AddOns\\Details\\Libs\\DF\\fw.lua\"]:3281: in function `CoreDispatch'\n[string \"@Interface\\AddOns\\Details\\Libs\\DF\\button.lua\"]:889: in function <Interface\\AddOns\\Details\\Libs\\DF\\button.lua:802>",
+			["session"] = 2390,
+			["counter"] = 1,
+		}, -- [29]
 	},
 }

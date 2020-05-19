@@ -1,14 +1,16 @@
 
 DataStore_AgendaDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -27,6 +29,20 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1587015374,
 			},
+			["Default.Area 52.Toshaman"] = {
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|610388460"] = "54872|1589845526|0|1",
+					["Ny'alotha, the Waking City Mythic|610388459"] = "54872|1589845526|0|1",
+				},
+				["lastUpdate"] = 1589847753,
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["DungeonIDs"] = {
+					["Ny'alotha, the Waking City Mythic|389609703"] = "138092|1589762307|0|1",
+					["Battle of Dazar'alor Mythic|389418458"] = "138092|1589762307|0|1",
+				},
+				["lastUpdate"] = 1589762304,
+			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015585,
 			},
@@ -44,12 +60,12 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1589760374,
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
+			["Default.Area 52.Toshpriest"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|389609703"] = "138092|1589762307|0|1",
-					["Battle of Dazar'alor Mythic|389418458"] = "138092|1589762307|0|1",
+					["Ny'alotha, the Waking City Mythic|610389202"] = "41135|1589859263|0|1",
+					["Battle of Dazar'alor Mythic|610389203"] = "41135|1589859263|0|1",
 				},
-				["lastUpdate"] = 1589762304,
+				["lastUpdate"] = 1589859303,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["DungeonIDs"] = {

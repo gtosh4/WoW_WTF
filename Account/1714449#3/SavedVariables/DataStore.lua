@@ -1,24 +1,29 @@
 
 DataStoreDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Guilds"] = {
-			["Default.Kil'jaeden.Rivalry"] = {
-				["faction"] = "Horde",
-			},
 			["Default.Kil'jaeden.Koopa Troopa"] = {
 				["faction"] = "Horde",
 			},
+			["Default.Kil'jaeden.Rivalry"] = {
+				["faction"] = "Horde",
+			},
 			["Default.Area 52.sheeple"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Area 52.Aggravated"] = {
 				["faction"] = "Horde",
 			},
 		},
@@ -27,6 +32,14 @@ DataStoreDB = {
 			["Default.Area 52.Toshpal"] = {
 				["faction"] = "Horde",
 				["guildName"] = "sheeple",
+			},
+			["Default.Area 52.Toshaman"] = {
+				["guildName"] = "Aggravated",
+				["faction"] = "Horde",
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["faction"] = "Horde",
@@ -38,9 +51,9 @@ DataStoreDB = {
 				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
+			["Default.Area 52.Toshpriest"] = {
 				["faction"] = "Horde",
-				["guildName"] = "Rivalry",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["guildName"] = "Rivalry",

@@ -17,23 +17,44 @@ AdiBagsDB = {
 		},
 		["Rogue Lockboxes"] = {
 		},
+		["Mechagon Tinkering"] = {
+		},
 		["TBC"] = {
 		},
 		["ItemSets"] = {
 		},
 		["Junk"] = {
 		},
-		["Mechagon Tinkering"] = {
-		},
 		["WoD"] = {
+		},
+		["MoneyFrame"] = {
 		},
 		["BfA"] = {
 		},
-		["MoneyFrame"] = {
+		["PriorExpansion"] = {
 		},
 		["Chests and Bags"] = {
 		},
 		["ItemCategory"] = {
+		},
+		["ItemLevel"] = {
+		},
+		["NewItem"] = {
+		},
+		["MoP"] = {
+		},
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "one",
+				},
+			},
+		},
+		["Legion"] = {
+		},
+		["Wrath"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -59,25 +80,6 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["NewItem"] = {
-		},
-		["MoP"] = {
-		},
-		["Equipment"] = {
-			["profiles"] = {
-				["Default"] = {
-					["dispatchRule"] = "one",
-				},
-			},
-		},
-		["Legion"] = {
-		},
-		["Wrath"] = {
-		},
-		["ItemLevel"] = {
-		},
-		["AdiBags_TooltipInfo"] = {
-		},
 		["Bound"] = {
 		},
 		["DataSource"] = {
@@ -86,14 +88,16 @@ AdiBagsDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
+		["Toshweaver - Area 52"] = "Default",
 		["Toshaman - Dreadmaul"] = "Default",
+		["Toshpal - Area 52"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshweaver - Area 52"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

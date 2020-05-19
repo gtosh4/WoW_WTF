@@ -1,14 +1,16 @@
 
 DataStore_StatsDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -23,6 +25,32 @@ DataStore_StatsDB = {
 					["PVP"] = "0|0",
 					["Base"] = "269|52|531|140|0",
 					["Spell"] = "327|327|0|16.296840667725|92|201",
+				},
+			},
+			["Default.Area 52.Toshaman"] = {
+				["lastUpdate"] = 1589845488,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|22.638889312744",
+					["HealthMax"] = 520720,
+					["Melee"] = "1295-1458|2.2530000209808|1468|0|22.638889312744|0",
+					["MaxPower"] = "0|100000",
+					["Defense"] = "0|0|6.2439560890198|0|10|0",
+					["PVP"] = "70|0",
+					["Base"] = "628|1468|26036|14336|0",
+					["Spell"] = "14336|14336|0|22.638889312744|971|4000",
+				},
+			},
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762303,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|21.875",
+					["HealthMax"] = 436100,
+					["Melee"] = "1398-1557|2.2750000953674|1615|0|21.875|0",
+					["MaxPower"] = "0|20000",
+					["Spell"] = "13654|13654|0|21.875|971|1000",
+					["PVP"] = "70|0",
+					["Base"] = "974|1468|21805|13654|0",
+					["Defense"] = "0|0|6.2439560890198|0|3|0",
 				},
 			},
 			["Default.Dreadmaul.Toshaman"] = {
@@ -64,17 +92,17 @@ DataStore_StatsDB = {
 					["Defense"] = "0|0|6.2439560890198|3|0|0",
 				},
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762303,
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1589859262,
 				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|21.875",
-					["HealthMax"] = 436100,
-					["Melee"] = "1398-1557|2.2750000953674|1615|0|21.875|0",
-					["MaxPower"] = "0|20000",
-					["Spell"] = "13654|13654|0|21.875|971|1000",
-					["PVP"] = "70|0",
-					["Base"] = "974|1468|21805|13654|0",
-					["Defense"] = "0|0|6.2439560890198|0|3|0",
+					["Ranged"] = "344-574|1.5890001058578|0|0|18.263889312744",
+					["HealthMax"] = 481400,
+					["Melee"] = "1-2|1.5890001058578|0|0|18.263889312744|0",
+					["MaxPower"] = "0|100000",
+					["Spell"] = "14445|14445|0|18.263889312744|1673|4000",
+					["PVP"] = "127|0",
+					["Base"] = "848|1219|24070|14445|0",
+					["Defense"] = "0|0|3|0|0|0",
 				},
 			},
 			["Default.Kil'jaeden.Tosh"] = {

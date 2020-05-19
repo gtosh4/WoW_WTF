@@ -1,44 +1,52 @@
 
 Postal3DB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Toshaman|Dreadmaul|Horde|20|SHAMAN", -- [1]
-				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [2]
-				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [3]
-				"Toshpal|Area 52|Horde|60|PALADIN", -- [4]
-				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [5]
-				"Toshweaver|Area 52|Horde|120|MONK", -- [6]
-				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [7]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [8]
+				"Toshaman|Area 52|Horde|120|SHAMAN", -- [1]
+				"Toshaman|Dreadmaul|Horde|20|SHAMAN", -- [2]
+				"Toshaman|Kil'jaeden|Horde|120|SHAMAN", -- [3]
+				"Toshmonk|Kil'jaeden|Horde|120|MONK", -- [4]
+				"Toshpal|Area 52|Horde|60|PALADIN", -- [5]
+				"Toshpal|Kil'jaeden|Horde|120|PALADIN", -- [6]
+				"Toshpriest|Area 52|Horde|120|PRIEST", -- [7]
+				"Toshweaver|Area 52|Horde|120|MONK", -- [8]
+				"Tosh|Kil'jaeden|Horde|120|PRIEST", -- [9]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [10]
 			},
 		},
 	},
 	["profiles"] = {
-		["Toshpal - Kil'jaeden"] = {
+		["Toshweaver - Area 52"] = {
+		},
+		["Toshaman - Dreadmaul"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Ippon|Dreadmaul|Horde", -- [1]
+				},
+			},
+		},
+		["Toshpal - Area 52"] = {
+		},
+		["Toshpriest - Area 52"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Toshmonk|Kil'jaeden|Horde", -- [1]
 					"Toshaman|Kil'jaeden|Horde", -- [2]
-				},
-			},
-		},
-		["Toshaman - Dreadmaul"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Ippon|Dreadmaul|Horde", -- [1]
 				},
 			},
 		},
@@ -69,7 +77,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshweaver - Area 52"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -93,7 +101,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshpal - Area 52"] = {
+		["Toshpal - Kil'jaeden"] = {
 		},
 	},
 }

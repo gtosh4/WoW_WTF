@@ -1,20 +1,38 @@
 
 DataStore_MailsDB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
 				["lastUpdate"] = 1586186699,
 				["lastVisitDate"] = "2020/04/06 11:24",
+			},
+			["Default.Kil'jaeden.Toshmonk"] = {
+				["lastUpdate"] = 1589760418,
+				["Mails"] = {
+					{
+						["icon"] = 135724,
+						["sender"] = "Customer Support",
+						["subject"] = "Your Guild Has Moved",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
+						["lastCheck"] = 1589760418,
+						["daysLeft"] = 29.36375045776367,
+					}, -- [1]
+				},
+				["lastVisitDate"] = "2020/05/17 20:06",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015595,
@@ -36,25 +54,13 @@ DataStore_MailsDB = {
 				},
 				["lastVisitDate"] = "2020/05/06 21:56",
 			},
-			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1589760418,
-				["Mails"] = {
-					{
-						["icon"] = 135724,
-						["sender"] = "Customer Support",
-						["subject"] = "Your Guild Has Moved",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
-						["lastCheck"] = 1589760418,
-						["daysLeft"] = 29.36375045776367,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2020/05/17 20:06",
-			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1589762325,
 				["lastVisitDate"] = "2020/05/17 20:38",
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1589838881,
+				["lastVisitDate"] = "2020/05/18 17:54",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762476,

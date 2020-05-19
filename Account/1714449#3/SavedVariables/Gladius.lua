@@ -1,14 +1,16 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
 		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["profiles"] = {
 		["Toshpal - Kil'jaeden"] = {
@@ -35,6 +37,16 @@ Gladius2DB = {
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["auraVersion"] = 1,
+		},
+		["Toshpriest - Area 52"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 363.6467155992723,
+			},
+			["x"] = {
+				["arena1"] = 1407.199870326207,
+			},
 		},
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
@@ -143,7 +155,16 @@ Gladius2DB = {
 				},
 			},
 			["auraVersion"] = 1,
+			["aurasBuffsWidth"] = 22,
 			["classIconShowSpec"] = true,
+			["y"] = {
+				["arena1"] = 239.4648335698948,
+			},
+			["x"] = {
+				["arena1"] = 1150.935179569933,
+			},
+			["aurasBuffsHeight"] = 22,
+			["castBarTexture"] = "ElvUI Norm",
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -156,26 +177,32 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["y"] = {
-				["arena1"] = 239.4648335698948,
-			},
-			["x"] = {
-				["arena1"] = 1150.935179569933,
-			},
-			["aurasBuffsHeight"] = 22,
-			["castBarTexture"] = "ElvUI Norm",
-			["aurasBuffsWidth"] = 22,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 		},
 		["Tosh - Kil'jaeden"] = {
+			["powerBarTexture"] = "ElvUI Norm",
+			["aurasBuffs"] = true,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["locked"] = true,
 			["aurasBuffsPerColumn"] = 5,
+			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -250,20 +277,17 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["classIconGloss"] = false,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 			["x"] = {
 				["arena1"] = 1081.60312841069,
 			},
+			["y"] = {
+				["arena1"] = 263.99849693316,
+			},
+			["classIconShowSpec"] = true,
+			["castBarTexture"] = "ElvUI Norm",
 			["aurasBuffsHeight"] = 22,
-			["aurasBuffs"] = true,
-			["aurasBuffsWidth"] = 22,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["button"] = "2",
@@ -276,21 +300,9 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
-			},
-			["castBarTexture"] = "ElvUI Norm",
+			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["powerBarTexture"] = "ElvUI Norm",
-			["classIconShowSpec"] = true,
+			["aurasBuffsWidth"] = 22,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Blank",
@@ -322,6 +334,16 @@ Gladius2DB = {
 			["tagsVersion"] = 4,
 			["bottomMargin"] = 14,
 			["powerBarOffsetY"] = -1,
+		},
+		["Toshaman - Area 52"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1435.46688051906,
+			},
+			["y"] = {
+				["arena1"] = 366.8467068816099,
+			},
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["y"] = {

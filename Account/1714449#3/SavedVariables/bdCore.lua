@@ -42,6 +42,20 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
+		["Toshpriest"] = {
+			["profile"] = "default",
+			["name"] = "Toshpriest",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 		["Toshweaver"] = {
 			["profile"] = "default",
 			["name"] = "Toshweaver",
@@ -101,7 +115,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Tosh",
+		["name"] = "Toshpriest",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -171,6 +185,7 @@ BD_persistent = {
 				["wee Good Job on Jaina guys. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["slay mekka friday and blockade saturday "] = true,
 				["Wed Mythic EP @ 7pm CST. We are NOT raiding nov 29/30th. "] = true,
+				["5 x Mythic BoD Wed (20th) @ 6pm cst."] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 				["kill boss this friday thankz."] = true,
 				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
