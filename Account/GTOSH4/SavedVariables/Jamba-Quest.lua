@@ -44,20 +44,20 @@ JambaQuestProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Default"] = {
-			["acceptFromTeam"] = true,
-			["onlyAcceptQuestsFrom"] = true,
-			["showJambaQuestLogWithWoWQuestLog"] = false,
-			["masterAutoShareQuestOnAccept"] = true,
-			["doNotAutoAccept"] = false,
-		},
 		["Toshaman - Area 52"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Default"] = {
+			["onlyAcceptQuestsFrom"] = true,
+			["showJambaQuestLogWithWoWQuestLog"] = false,
+			["acceptFromTeam"] = true,
+			["doNotAutoAccept"] = false,
+			["masterAutoShareQuestOnAccept"] = true,
+		},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshmoney - Quel'dorei"] = {
+		},
+		["Tosh - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

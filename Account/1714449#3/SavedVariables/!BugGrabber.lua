@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1786,
 	["lastSanitation"] = 3,
+	["session"] = 1789,
 	["errors"] = {
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",

@@ -24,116 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
-			"Calamariee-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Calamariee-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1909, -- [11]
-			"Player-3676-0AD50D8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Calamariee|r",
-			[51] = 1589848276,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"<Weekend Sales> WTS M+10s - 20s, FREE armor stack. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also have Horrific Visions and Pvp Boosts", -- [1]
-			"Skalcoin-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Skalcoin-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1911, -- [11]
-			"Player-3676-0ACBA82E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSkalcoin|r",
-			[51] = 1589848276,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"Selling M+10-20 Keys. Tradeable Loot is yours. I can get group for you right now. Gold Only.", -- [1]
-			"Gruegar-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gruegar-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1918, -- [11]
-			"Player-3676-0AC532D3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cGruegar|r",
-			[51] = 1589848283,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"<Loki> (5/12M-12/12H) Looking for chill raiders to push mythic content! We are currently looking for range dps and a DK dps! We will push content and expect you to know your class/spec/raid fights. Raid times are Tuesday and Sunday 8-11PM ", -- [1]
-			"Kennyson-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kennyson-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1919, -- [11]
-			"Player-3676-0A4A828C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Kennyson|r",
-			[51] = 1589848284,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
-			"Snstrbankalt-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Snstrbankalt-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1926, -- [11]
-			"Player-3676-0AA55A69", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecSnstrbankalt|r",
-			[51] = 1589848293,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
 			"WTS +15 KR Runs for Geti'ikku, Cut of Death. Gold Only. Free Plate Stack. I've gotten more people Get'ikku's than you can possibly imagine!!!", -- [1]
 			"Gruegar-Area52", -- [2]
 			"", -- [3]
@@ -154,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGruegar|r",
 			[51] = 1589848296,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [1]
 		{
 			"**FREE ARMOR STACK KEYS!** Selling M+15 Keys!  Also have Heroic Nyalotha 12/12H! @10:30PM EST! Few personnal loots spots available! Get your spot booked now! PST! GOLD ONLY!", -- [1]
 			"Lansloboosts-Area52", -- [2]
@@ -176,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcLansloboosts|r",
 			[51] = 1589848299,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [2]
 		{
 			">>>WTS M+ 10-18 keys<<< Specific keys and armor stacks available! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
 			"Coachbob-Area52", -- [2]
@@ -198,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Coachbob|r",
 			[51] = 1589848303,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [3]
 		{
 			"WTS +15 Key done by 2.3k io team! Get your 475 corrupted loot tomorrow! Cheapest prices on server - PST! All tradeable loot yours :)", -- [1]
 			"Døngus-Area52", -- [2]
@@ -220,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Døngus|r",
 			[51] = 1589848309,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [4]
 		{
 			"``WTS`` M+10-21 In Time. Special keys. Horrific vision+5mask. All loot is yours. NWC and AOTC Bundles/ Disounts  *BOOSTCARRY.COM*", -- [1]
 			"Fyaagud-Area52", -- [2]
@@ -242,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFyaagud|r",
 			[51] = 1589848318,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [5]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-5137-3676-47490649|h[Guild: Sippy Cup Disaster]|h|ris celebrating our 10 year anniversary! Weekly AOTC, weekly 15+ key groups, 6/12M. Always recruiting! Tue/Thur/Sun 7:45-11pm EST!", -- [1]
 			"Minäto-Area52", -- [2]
@@ -264,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMinäto|r",
 			[51] = 1589848319,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [6]
 		{
 			"Gold Only! The Gallywix Community || WTS >> Ny'alotha Heroic Full Clear << with top guilds such as <Complexity Limit>! Also, selling Carapace + N'Zoth || M+ boost || Mythic Ny'alotha || Jaina Mount || Vision Boosts || PvP || Rare Mounts(TLPD)! ", -- [1]
 			"Wowsalethree-Area52", -- [2]
@@ -286,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wowsalethree|r",
 			[51] = 1589848320,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [7]
 		{
 			"WTS |cffffff00|Hachievement:14068:Player-3676-0AAE8F15:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r CHEAP! Get your 470 gear and Uncorrupted Voidwing mount<3 GOLD ONLY ", -- [1]
 			"Nezukoo-Area52", -- [2]
@@ -308,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nezukoo|r",
 			[51] = 1589848323,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [8]
 		{
 			"WTS |cff66bbff|Hjournal:1:2364:14|h[Ra-den the Despoiled]|h|r Heroic /// vision |cffa335ee|Hitem:173363::::::::120:253::::::|h[Vessel of Horrific Visions]|h|r  full clear |cffff8000|Hitem:169223::::::::120:253::11:2:6586:1472:::|h[Ashjra'kamas, Shroud of Resolve]|h|r cloak rank up ///aslo selling power lvling |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r 110-120 with summon avalable// //?Gold", -- [1]
 			"Kiroysenko-Area52", -- [2]
@@ -330,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Kiroysenko|r",
 			[51] = 1589848329,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [9]
 		{
 			"WTS - Mythic Plus 10-20, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC and Visions!!", -- [1]
 			"Trodraki-Area52", -- [2]
@@ -352,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTrodraki|r",
 			[51] = 1589848331,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [10]
 		{
 			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
 			"Calamariee-Area52", -- [2]
@@ -374,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Calamariee|r",
 			[51] = 1589848333,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [11]
 		{
 			"<Sacred Lotus> WTS|cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r Running right now. Gold only, price negotiable", -- [1]
 			"Awoken-Area52", -- [2]
@@ -396,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Awoken|r",
 			[51] = 1589848335,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [12]
 		{
 			"<Exploit> is a new late night guild of veteran mythic raiders looking to fill our raid roster for Mythic T25.  As a group of officers we've cleared 9/11M T21 and 7/8M T22. 1am-4am EST tues thurs. LF DPS.  PST", -- [1]
 			"Dropsucks-Area52", -- [2]
@@ -418,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dropsucks|r",
 			[51] = 1589848340,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [13]
 		{
 			"The Gallywix Community || WTS Discounted >>Heroic Ny'alotha Carapace/N'zoth<< TONIGHT! Going every 30min. Also selling Jaina mount, Glory Achieves, and MONDAY Specials on M+10 & 15s -  get armor stack free on EVERY key! GOLD ONLY", -- [1]
 			"Docithtwo-Area52", -- [2]
@@ -440,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Docithtwo|r",
 			[51] = 1589848342,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [14]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -462,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848342,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [15]
 		{
 			"WTS |cffa335ee|Hitem:175008::::::::120:65::5:8:4823:6578:6579:6495:6614:6513:1502:4786:::|h[Lurking Schemer's Band]|h|r PST w Offer", -- [1]
 			"Aëronwen-Area52", -- [2]
@@ -484,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aëronwen|r",
 			[51] = 1589848342,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [16]
 		{
 			"The Gallywix Community || WTS Discounted >>Heroic Ny'alotha Carapace/N'zoth<< TONIGHT! Going every 30min. Also selling Jaina mount, Glory Achieves, and MONDAY Specials on M+10 & 15s -  get armor stack free on EVERY key! GOLD ONLY", -- [1]
 			"Rootmeharder-Area52", -- [2]
@@ -506,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Rootmeharder|r",
 			[51] = 1589848344,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [17]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -528,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1589848345,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [18]
 		{
 			"<Dawn> [3/12M] Recruiting ALL exceptional DPS to join our team moving into shadowlands. Actively run TOPSHELF Mythic Plus and PvP off raid nights. Raid Schedule: [Tue/Weds/Thur 9:00pm-12am EST] Whisper for info. ", -- [1]
 			"Rawiron-Area52", -- [2]
@@ -550,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRawiron|r",
 			[51] = 1589848346,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [19]
 		{
 			"Selling M+10-20 Keys. Tradeable Loot is yours. I can get group for you right now. Gold Only.", -- [1]
 			"Gruegar-Area52", -- [2]
@@ -572,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGruegar|r",
 			[51] = 1589848347,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [20]
 		{
 			"MONDAY SPECIALS!! **FREE ARMOR STACKING** Selling 15 keys with FREE ARMOR STACKING! Also Selling 12/12 Heroic N'yalotha TONIGHT @ 10:30 EST! Limited Personal Loot Spots left!!! GOLD ONLY. PM Me! ", -- [1]
 			"Mitchdamage-Area52", -- [2]
@@ -594,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Mitchdamage|r",
 			[51] = 1589848353,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [21]
 		{
 			"The Gallywix Community || MONDAY DEALS! WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds!. Cara+Nzoth or AOTC only! Also M10 & 15s, Jaina mount, TLPD, Void talon. GOLD ONLY", -- [1]
 			"Sashhagrey-Area52", -- [2]
@@ -616,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sashhagrey|r",
 			[51] = 1589848358,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [22]
 		{
 			"The Gallywix Community || WTS Discounted >>Heroic Ny'alotha Carapace/N'zoth<< TONIGHT! Going every 30min. Also selling Jaina mount, Glory Achieves, and MONDAY Specials on M+10 & 15s -  get armor stack free on EVERY key! GOLD ONLY", -- [1]
 			"Bonniwix-Area52", -- [2]
@@ -638,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Bonniwix|r",
 			[51] = 1589848360,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [23]
 		{
 			"selling waterlogged journal 500g below market value in AH", -- [1]
 			"Bepisfloki-Area52", -- [2]
@@ -660,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bepisfloki|r",
 			[51] = 1589848361,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [24]
 		{
 			">> FREE ARMOR STACK ON 15's <<  Selling +10-18 || Timed || Specific Keys || Visions || Pre-Book your spot in >> Heroic Ny'alotha, 12/12 << AOTC Kill. GOLD ONLY!. Running Tonight 1030pm EST. DM for more info, CHEAP", -- [1]
 			"Wolfotc-Area52", -- [2]
@@ -682,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Wolfotc|r",
 			[51] = 1589848364,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [25]
 		{
 			">>>WTS M+ 10-18 keys<<< Specific keys and armor stacks available! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
 			"Coachbob-Area52", -- [2]
@@ -704,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Coachbob|r",
 			[51] = 1589848368,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [26]
 		{
 			"Selling RBG wins for GOLD from 2700 cr players, pushing every day! PST for details (2K CR available)  |cffffff00|Hachievement:12964:Player-3676-08F228C4:1:2:26:19:4294967295:4294967295:4294967295:4294967295|h[Hero of the Horde: Dread]|h|r", -- [1]
 			"Tachii-Area52", -- [2]
@@ -726,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tachii|r",
 			[51] = 1589848369,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [27]
 		{
 			"WTS +10 - +15 Keys (All Timed) and Hertz Locker. Earn Lots of AP, Resdiuum, Gear Funneling and 475+ Corrupted Gear in your weekly Cache tomorrow. Team is ready to go right now. Cheap!", -- [1]
 			"Cptshippo-Area52", -- [2]
@@ -748,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Cptshippo|r",
 			[51] = 1589848372,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [28]
 		{
 			"LF 2s partner for conq cap", -- [1]
 			"Brenglos-Area52", -- [2]
@@ -770,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Brenglos|r",
 			[51] = 1589848374,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [29]
 		{
 			"<Midwinter> Selling 12/12 Mythic Ny'alotha. |cff71d5ff|Hspell:308814:0|h[Ny'alotha Allseer]|h|r and Single bosses available msg for prices. Also selling |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r (GOLD ONLY) ", -- [1]
 			"Bromd-Area52", -- [2]
@@ -792,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Bromd|r",
 			[51] = 1589848376,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [30]
 		{
 			"<Oathbound> 4/12M is currently seeking RAIDERS for our CORE TEAM! We are in need of a cpl of DPS! 465+. Raid Exp REQUIRED! Raid nights are Tues and Thurs 9pm-12am EST. ALL CAN INQUIRE! Key Pusher's are welcome too! HMU for more info!", -- [1]
 			"Pookiepox-Area52", -- [2]
@@ -814,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePookiepox|r",
 			[51] = 1589848382,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [31]
 		{
 			"<Weekend Sales> WTS M+10s - 20s, FREE armor stack. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also have Horrific Visions and Pvp Boosts", -- [1]
 			"Skalcoin-Area52", -- [2]
@@ -836,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkalcoin|r",
 			[51] = 1589848387,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [32]
 		{
 			"<The Gallywix Community> || WTS Monday SPECIALS! M+10-20s, run by 2.7k+ io players. Cheap M10 & 15s, M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee || Islands || Horrific Vision! GOLD ONLY.", -- [1]
 			"Goldiaz-Area52", -- [2]
@@ -858,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Goldiaz|r",
 			[51] = 1589848389,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [33]
 		{
 			"<Exploit> is a new late night guild of veteran mythic raiders looking to fill our raid roster for Mythic T25.  As a group of officers we've cleared 9/11M T21 and 7/8M T22. 1am-4am EST tues thurs. LF DPS.  PST", -- [1]
 			"Dropsucks-Area52", -- [2]
@@ -880,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dropsucks|r",
 			[51] = 1589848389,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [34]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -902,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848390,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [35]
 		{
 			"WTS 0-4 Mask Super cheap :)", -- [1]
 			"Mistyx-Area52", -- [2]
@@ -924,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mistyx|r",
 			[51] = 1589848392,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [36]
 		{
 			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
 			"Calamariee-Area52", -- [2]
@@ -946,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Calamariee|r",
 			[51] = 1589848396,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [37]
 		{
 			"<Close Enough> is a newly formed guild of 9/12M raiders looking to finish 8.3 strong and move into Shadowlands. Need CE minded ranged dps to finish the tier. Considering all competitive applicants. Raid Tu/Th 9PM-12AM EST. DM for more info!", -- [1]
 			"Dedrigar-Area52", -- [2]
@@ -968,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDedrigar|r",
 			[51] = 1589848396,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [38]
 		{
 			"WTS |cffffff00|Hachievement:14068:Player-3676-0AAE8F15:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r CHEAP! Get your 470 gear and Uncorrupted Voidwing mount<3 GOLD ONLY ", -- [1]
 			"Nezukoo-Area52", -- [2]
@@ -990,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nezukoo|r",
 			[51] = 1589848397,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [39]
 		{
 			"MONDAY SPECIALS!! **FREE ARMOR STACKING** Selling 15 keys with FREE ARMOR STACKING! Also Selling 12/12 Heroic N'yalotha TONIGHT @ 10:30 EST! Limited Personal Loot Spots left!!! GOLD ONLY. PM Me! ", -- [1]
 			"Mitchdamage-Area52", -- [2]
@@ -1012,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Mitchdamage|r",
 			[51] = 1589848406,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [40]
 		{
 			"WTS +15 KR Runs for Geti'ikku, Cut of Death. Gold Only. Free Plate Stack. I've gotten more people Get'ikku's than you can possibly imagine!!!", -- [1]
 			"Gruegar-Area52", -- [2]
@@ -1034,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGruegar|r",
 			[51] = 1589848406,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [41]
 		{
 			"wts 15 workshop in time pst", -- [1]
 			"Scrubbustêr-Area52", -- [2]
@@ -1056,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Scrubbustêr|r",
 			[51] = 1589848407,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [42]
 		{
 			"``WTS`` M+10-21 In Time. Special keys. Horrific vision+5mask. All loot is yours. NWC and AOTC Bundles/ Disounts  *BOOSTCARRY.COM*", -- [1]
 			"Fyaagud-Area52", -- [2]
@@ -1078,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFyaagud|r",
 			[51] = 1589848418,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [43]
 		{
 			"wts 15 workshop for 180k ran by realm first players |cffffff00|Hachievement:13078:Player-3676-0A201901:1:11:7:18:0:0:0:0|h[Realm First! Battle for Azeroth Keystone Master]|h|r", -- [1]
 			"Lust-Area52", -- [2]
@@ -1100,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Lust|r",
 			[51] = 1589848430,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [44]
 		{
 			"pst Lust-area52 for gold", -- [1]
 			"Onefold-Area52", -- [2]
@@ -1122,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Onefold|r",
 			[51] = 1589848433,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [45]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-13450-3676-69673109|h[Guild: P A N T H E O N]|h|r Is looking for more people click for more info.", -- [1]
 			"Steelstorm-Area52", -- [2]
@@ -1144,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSteelstorm|r",
 			[51] = 1589848437,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [46]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -1166,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848438,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [47]
 		{
 			"wts a jar of 2 week old pickle brine, i call it \"fortnight brine\"", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -1188,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt|r",
 			[51] = 1589848440,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [48]
 		{
 			"sick", -- [1]
 			"Xfiles-Area52", -- [2]
@@ -1210,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Xfiles|r",
 			[51] = 1589848452,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [49]
 		{
 			"Selling M+10-20 Keys. Tradeable Loot is yours. I can get group for you right now. Gold Only.", -- [1]
 			"Gruegar-Area52", -- [2]
@@ -1232,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGruegar|r",
 			[51] = 1589848454,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [50]
 		{
 			"DGR WTS M+10-15 || 12/12H Ny'alotha w/ loot funnel available || Freehold boosts || Horrific Vision 0-5 Masks || BEST PRICES! ||  GOLD ONLY ||  PM if interested.", -- [1]
 			"Bumpzz-Area52", -- [2]
@@ -1254,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBumpzz|r",
 			[51] = 1589848457,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [51]
 		{
 			"Selling RBG wins for GOLD from 2700 cr players, pushing every day! PST for details (2K CR available)  |cffffff00|Hachievement:12964:Player-3676-08F228C4:1:2:26:19:4294967295:4294967295:4294967295:4294967295|h[Hero of the Horde: Dread]|h|r", -- [1]
 			"Tachii-Area52", -- [2]
@@ -1276,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Tachii|r",
 			[51] = 1589848459,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [52]
 		{
 			"WTS|cffffff00|Hachievement:14068:Player-3676-0942A4E9:1:1:27:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r come get your mount|cff71d5ff|Hspell:302143:0|h[Uncorrupted Voidwing]|h|r and 470 loot!", -- [1]
 			"Roudruid-Area52", -- [2]
@@ -1298,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Roudruid|r",
 			[51] = 1589848460,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [53]
 		{
 			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
 			"Calamariee-Area52", -- [2]
@@ -1320,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Calamariee|r",
 			[51] = 1589848464,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [54]
 		{
 			"LF 2s partner for conq cap", -- [1]
 			"Brenglos-Area52", -- [2]
@@ -1342,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Brenglos|r",
 			[51] = 1589848464,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [55]
 		{
 			"WTS  Mythic Plus 10 - 15, We offer armor match and key specific! Also offering Mechagon Normal and Hardmode (and a no-death run!), Ny'alota Heroic,Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold only!!", -- [1]
 			"Baarbss-Area52", -- [2]
@@ -1364,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Baarbss|r",
 			[51] = 1589848465,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [56]
 		{
 			"<Exploit> is a new late night guild of veteran mythic raiders looking to fill our raid roster for Mythic T25.  As a group of officers we've cleared 9/11M T21 and 7/8M T22. 1am-4am EST tues thurs. LF DPS.  PST", -- [1]
 			"Dropsucks-Area52", -- [2]
@@ -1386,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dropsucks|r",
 			[51] = 1589848469,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [57]
 		{
 			">>>WTS M+ 10-18 keys<<< Specific keys and armor stacks available! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
 			"Coachbob-Area52", -- [2]
@@ -1408,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Coachbob|r",
 			[51] = 1589848470,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [58]
 		{
 			"WHISPER WAKK FOR TONS OF GOLD", -- [1]
 			"Holzye-Area52", -- [2]
@@ -1430,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Holzye|r",
 			[51] = 1589848471,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [59]
 		{
 			"HES QUITTING WOW", -- [1]
 			"Holzye-Area52", -- [2]
@@ -1452,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Holzye|r",
 			[51] = 1589848476,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [60]
 		{
 			"WTS +10 - +15 Keys (All Timed) and Hertz Locker. Earn Lots of AP, Resdiuum, Gear Funneling and 475+ Corrupted Gear in your weekly Cache tomorrow. Team is ready to go right now. Cheap!", -- [1]
 			"Cptshippo-Area52", -- [2]
@@ -1474,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Cptshippo|r",
 			[51] = 1589848481,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [61]
 		{
 			"WTS +15 KR Runs for Geti'ikku, Cut of Death. Gold Only. Free Plate Stack. I've gotten more people Get'ikku's than you can possibly imagine!!!", -- [1]
 			"Gruegar-Area52", -- [2]
@@ -1496,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cGruegar|r",
 			[51] = 1589848484,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [62]
 		{
 			"The Gallywix Community || WTS Discounted >>Heroic Ny'alotha Carapace/N'zoth<< TONIGHT! Going every 30min. Also selling Jaina mount, Glory Achieves, and MONDAY Specials on M+10 & 15s -  get armor stack free on EVERY key! GOLD ONLY", -- [1]
 			"Bonniwix-Area52", -- [2]
@@ -1518,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Bonniwix|r",
 			[51] = 1589848486,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [63]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -1540,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848487,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [64]
 		{
 			"<Weekend Sales> WTS M+10s - 20s, FREE armor stack. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also have Horrific Visions and Pvp Boosts", -- [1]
 			"Skalcoin-Area52", -- [2]
@@ -1562,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkalcoin|r",
 			[51] = 1589848488,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [65]
 		{
 			"M15 (200k) || M10 (100k) || Armor stack (free w/ 2+ runs) || Specific dungeons available, pricing varies || 5 Mask Vision (200k) || 12/12 Mythic Nyalotha (per boss, full run, or just Nzoth + Mount) || 12/12 Heroic Nyalotha (personal and loot funnels)", -- [1]
 			"Reservesz-Area52", -- [2]
@@ -1584,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cReservesz|r",
 			[51] = 1589848503,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [66]
 		{
 			">> FREE ARMOR STACK ON 15's <<  Selling +10-18 || Timed || Specific Keys || Visions || Pre-Book your spot in >> Heroic Ny'alotha, 12/12 << AOTC Kill. GOLD ONLY!. Running Tonight 1030pm EST. DM for more info, CHEAP", -- [1]
 			"Wolfotc-Area52", -- [2]
@@ -1606,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Wolfotc|r",
 			[51] = 1589848504,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [67]
 		{
 			"WTS |cffffff00|Hachievement:14068:Player-3676-0AAE8F15:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r CHEAP! Get your 470 gear and Uncorrupted Voidwing mount<3 GOLD ONLY ", -- [1]
 			"Nezukoo-Area52", -- [2]
@@ -1628,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nezukoo|r",
 			[51] = 1589848504,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [68]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-124830-3676-76854209|h[Guild: Recess]|h|r LF some filthy casuals to gear up for shadowlands. Come level up with us. Looking to just have fun and maybe do some mythic dungeons.  PST for more info", -- [1]
 			"Haluho-Area52", -- [2]
@@ -1650,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHaluho|r",
 			[51] = 1589848507,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [69]
 		{
 			"``WTS`` M+10-21 In Time. Special keys. Horrific vision+5mask. All loot is yours. NWC and AOTC Bundles/ Disounts  *BOOSTCARRY.COM*", -- [1]
 			"Fyaagud-Area52", -- [2]
@@ -1672,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFyaagud|r",
 			[51] = 1589848518,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [70]
 		{
 			"<The Gallywix Community> || Selling M+ 10-19s, specific key/loot stack for an extra fee. FREE ARMOR STACK ON ALL KEYS TODAY! || Heroic Ny'alotha full clears, AOTC, and loot funnels || Visions || PvP || TLPD, Voidtalon, Jaina, and more || GOLD ONLY!", -- [1]
 			"Sweggywix-Area52", -- [2]
@@ -1694,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sweggywix|r",
 			[51] = 1589848522,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [71]
 		{
 			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
 			"Calamariee-Area52", -- [2]
@@ -1716,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Calamariee|r",
 			[51] = 1589848528,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [72]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -1738,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848538,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [73]
 		{
 			"WHISPER WAKK WITH LEWD COMMENTS", -- [1]
 			"Kayasha-Area52", -- [2]
@@ -1760,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Kayasha|r",
 			[51] = 1589848541,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [74]
 		{
 			"FOR GOLD", -- [1]
 			"Kayasha-Area52", -- [2]
@@ -1782,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Kayasha|r",
 			[51] = 1589848543,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [75]
 		{
 			"WTS 5-Mask Visions! Get your GUARANTEED Corrupted 470 Loot NOW! Selling Mythic+10s - 15 with FREE Armor Stacking if you buy TWO or more! Get these DONE before reset NOW! Please Whisper me for more details! Gold Only :)", -- [1]
 			"Mumblesbank-Area52", -- [2]
@@ -1804,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcMumblesbank|r",
 			[51] = 1589848548,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [76]
 		{
 			"FREE M+ 15 Carries! Tune in at at www.twitch.tv/tmsean <- hit the follow button and type !carry for details. Relax and get those 15s done!", -- [1]
 			"Rokimirgruu-Area52", -- [2]
@@ -1826,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRokimirgruu|r",
 			[51] = 1589848548,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [77]
 		{
 			"<Exploit> is a new late night guild of veteran mythic raiders looking to fill our raid roster for Mythic T25.  As a group of officers we've cleared 9/11M T21 and 7/8M T22. 1am-4am EST tues thurs. LF DPS.  PST", -- [1]
 			"Dropsucks-Area52", -- [2]
@@ -1848,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dropsucks|r",
 			[51] = 1589848562,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [78]
 		{
 			">>>WTS M+ 10-18 keys<<< Specific keys and armor stacks available! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
 			"Coachbob-Area52", -- [2]
@@ -1870,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Coachbob|r",
 			[51] = 1589848570,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [79]
 		{
 			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
 			"Calamariee-Area52", -- [2]
@@ -1892,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Calamariee|r",
 			[51] = 1589848574,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [80]
 		{
 			"MONDAY SPECIALS!! **FREE ARMOR STACKING** Selling 15 keys with FREE ARMOR STACKING! Also Selling 12/12 Heroic N'yalotha TONIGHT @ 10:30 EST! Limited Personal Loot Spots left!!! GOLD ONLY. PM Me! ", -- [1]
 			"Mitchdamage-Area52", -- [2]
@@ -1914,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Mitchdamage|r",
 			[51] = 1589848576,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [81]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -1936,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1589848577,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [82]
 		{
 			"hi mom!!", -- [1]
 			"Kibum-Area52", -- [2]
@@ -1958,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Kibum|r",
 			[51] = 1589848578,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [83]
 		{
 			"LF 2s partner for conq cap", -- [1]
 			"Brenglos-Area52", -- [2]
@@ -1980,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Brenglos|r",
 			[51] = 1589848586,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [84]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2002,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848588,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [85]
 		{
 			"hey son", -- [1]
 			"Gorey-Area52", -- [2]
@@ -2024,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gorey|r",
 			[51] = 1589848589,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [86]
 		{
 			"WTS jaina MOUNT tonight at 10 EST.SUPER CHEAP GOLD ONLY!!!", -- [1]
 			"Elrikks-Area52", -- [2]
@@ -2046,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Elrikks|r",
 			[51] = 1589848597,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [87]
 		{
 			"DGR WTS M+10-15 || 12/12H Ny'alotha w/ loot funnel available || Freehold boosts || Horrific Vision 0-5 Masks || BEST PRICES! ||  GOLD ONLY ||  PM if interested.", -- [1]
 			"Bumpzz-Area52", -- [2]
@@ -2068,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBumpzz|r",
 			[51] = 1589848597,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [88]
 		{
 			"<Sacred Lotus> 12/12M WTS|cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r Running RIGHT NOW. Gold only, @jadefire feel free to come for mog. gold only", -- [1]
 			"Awoken-Area52", -- [2]
@@ -2090,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Awoken|r",
 			[51] = 1589848600,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [89]
 		{
 			"<The Gallywix Community> || WTS Monday SPECIALS! M+10-20s, run by 2.7k+ io players. Cheap M10 & 15s, M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee || Islands || Horrific Vision! GOLD ONLY.", -- [1]
 			"Goldiaz-Area52", -- [2]
@@ -2112,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Goldiaz|r",
 			[51] = 1589848603,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [90]
 		{
 			"Special Sale - Selling 4/12 Mythic, Tonight at 9:40EST for 950k (350k - specific boss).  Market rate is 2.4M (4 Boss), so its a good deal!  Personal Loot / Loot Funnels Available, PST if interested.  Gold Only.  Thanks!  --The Mythic Carry Community--", -- [1]
 			"Valiantxd-Area52", -- [2]
@@ -2134,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecValiantxd|r",
 			[51] = 1589848604,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [91]
 		{
 			"<Weekend Sales> WTS M+10s - 20s, FREE armor stack. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also have Horrific Visions and Pvp Boosts", -- [1]
 			"Skalcoin-Area52", -- [2]
@@ -2156,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkalcoin|r",
 			[51] = 1589848605,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [92]
 		{
 			"<Anima> 12/12H is recruiting a Tank, Mage, Priest, HPally, Monk, Hunter. 8p-10:30pm Tues-Wed. M+ and Casuals welcomed.", -- [1]
 			"Ïrisviel-Area52", -- [2]
@@ -2178,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeÏrisviel|r",
 			[51] = 1589848608,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [93]
 		{
 			"The Gallywix Community || MONDAY DEALS! WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds!. Cara+Nzoth or AOTC only! Also M10 & 15s, Jaina mount, TLPD, Void talon. GOLD ONLY", -- [1]
 			"Sashhagrey-Area52", -- [2]
@@ -2200,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sashhagrey|r",
 			[51] = 1589848611,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [94]
 		{
 			">>>WTS M+ 10-18 keys<<< Specific keys and armor stacks available! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
 			"Coachbob-Area52", -- [2]
@@ -2222,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Coachbob|r",
 			[51] = 1589848616,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [95]
 		{
 			"The Gallywix Community || WTS Discounted >>Heroic Ny'alotha Carapace/N'zoth<< TONIGHT! Going every 30min. Also selling Jaina mount, Glory Achieves, and MONDAY Specials on M+10 & 15s -  get armor stack free on EVERY key! GOLD ONLY", -- [1]
 			"Rootmeharder-Area52", -- [2]
@@ -2244,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Rootmeharder|r",
 			[51] = 1589848618,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [96]
 		{
 			"``WTS`` M+10-21 In Time. Special keys. Horrific vision+5mask. All loot is yours. NWC and AOTC Bundles/ Disounts  *BOOSTCARRY.COM*", -- [1]
 			"Fyaagud-Area52", -- [2]
@@ -2266,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFyaagud|r",
 			[51] = 1589848619,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [97]
 		{
 			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
 			"Calamariee-Area52", -- [2]
@@ -2288,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Calamariee|r",
 			[51] = 1589848622,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [98]
 		{
 			"WTS Heroic Nyalotha Runs// SUPER CHEAP// RUNS TONIGHT!// Gold ONLY // PST ME", -- [1]
 			"Demonoiz-Area52", -- [2]
@@ -2310,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Demonoiz|r",
 			[51] = 1589848626,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [99]
 		{
 			"HEY YOU, TOUGH GUY<Giuseppes Pizza Delivery> (3/12M, 12/12H) is looking for  RIPPED MYTHIC RAIDERS for our core group. PVP? COURSE YOU DO, YOU CHAD, We have gladiators and god tier goons for arena and RBGs. Always on discord and very closely knit team.", -- [1]
 			"Jakmonkk-Area52", -- [2]
@@ -2332,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Jakmonkk|r",
 			[51] = 1589848629,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [100]
 		{
 			"WTS |cffa335ee|Hitem:175008::::::::120:65::5:8:4823:6578:6579:6495:6614:6513:1502:4786:::|h[Lurking Schemer's Band]|h|r PST w Offer", -- [1]
 			"Aëronwen-Area52", -- [2]
@@ -2354,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aëronwen|r",
 			[51] = 1589848641,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [101]
 		{
 			"WTS |cffffff00|Hachievement:14068:Player-3676-0AAE8F15:1:3:24:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r CHEAP! Get your 470 gear and Uncorrupted Voidwing mount<3 GOLD ONLY ", -- [1]
 			"Nezukoo-Area52", -- [2]
@@ -2376,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nezukoo|r",
 			[51] = 1589848643,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [102]
 		{
 			">> FREE ARMOR STACK ON 15's <<  Selling +10-18 || Timed || Specific Keys || Visions || Pre-Book your spot in >> Heroic Ny'alotha, 12/12 << AOTC Kill. GOLD ONLY!. Running Tonight 1030pm EST. DM for more info, CHEAP", -- [1]
 			"Wolfotc-Area52", -- [2]
@@ -2398,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Wolfotc|r",
 			[51] = 1589848644,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [103]
 		{
 			"<Midwinter> Selling 12/12 Mythic Ny'alotha. |cff71d5ff|Hspell:308814:0|h[Ny'alotha Allseer]|h|r and Single bosses available msg for prices. Also selling |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r (GOLD ONLY) ", -- [1]
 			"Bromd-Area52", -- [2]
@@ -2420,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Bromd|r",
 			[51] = 1589848655,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [104]
 		{
 			"WTS Jaina Mount tonight ~ pst", -- [1]
 			"Xpanj-Area52", -- [2]
@@ -2442,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Xpanj|r",
 			[51] = 1589848658,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [105]
 		{
 			"WTS M+ 10-17 keys/loot stack for extra fee by 2.6k+ IO players. We also sell Jaina Mount for a VERY VERY cheap price!. Horrific visions carry 0 to 5 masks. Freehold leveling with or without heirloom. Whisper for more details! Cheap. GOLD ONLY.", -- [1]
 			"Calamariee-Area52", -- [2]
@@ -2464,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Calamariee|r",
 			[51] = 1589848675,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [106]
 		{
 			">>>WTS M+ 10-18 keys<<< Specific keys and armor stacks available! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
 			"Coachbob-Area52", -- [2]
@@ -2486,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Coachbob|r",
 			[51] = 1589848679,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [107]
 		{
 			"<Exploit> is a new late night guild of veteran mythic raiders looking to fill our raid roster for Mythic T25.  As a group of officers we've cleared 9/11M T21 and 7/8M T22. 1am-4am EST tues thurs. LF DPS.  PST", -- [1]
 			"Dropsucks-Area52", -- [2]
@@ -2508,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dropsucks|r",
 			[51] = 1589848682,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [108]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2530,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848687,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [109]
 		{
 			"selling |cffffffff|Hitem:111407::::::::120:250::::::|h[Waterlogged Journal]|h|r 14500 ", -- [1]
 			"Bepisfloki-Area52", -- [2]
@@ -2552,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Bepisfloki|r",
 			[51] = 1589848714,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [110]
 		{
 			"WTS Jaina Mount tonight ~ pst", -- [1]
 			"Xpanj-Area52", -- [2]
@@ -2574,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Xpanj|r",
 			[51] = 1589848717,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [111]
 		{
 			"``WTS`` M+10-21 In Time. Special keys. Horrific vision+5mask. All loot is yours. NWC and AOTC Bundles/ Disounts  *BOOSTCARRY.COM*", -- [1]
 			"Fyaagud-Area52", -- [2]
@@ -2596,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcFyaagud|r",
 			[51] = 1589848719,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [112]
 		{
 			"<Weekend Sales> WTS M+10s - 20s, FREE armor stack. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also have Horrific Visions and Pvp Boosts", -- [1]
 			"Skalcoin-Area52", -- [2]
@@ -2618,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkalcoin|r",
 			[51] = 1589848724,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [113]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -2640,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1589848726,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [114]
 		{
 			"<Oathbound> 4/12M is currently seeking RAIDERS for our CORE TEAM! We are in need of a cpl of DPS! 465+. Raid Exp REQUIRED! Raid nights are Tues and Thurs 9pm-12am EST. ALL CAN INQUIRE! Key Pusher's are welcome too! HMU for more info!", -- [1]
 			"Pookiepox-Area52", -- [2]
@@ -2662,7 +2552,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefePookiepox|r",
 			[51] = 1589848729,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [115]
 		{
 			"Selling +15s, armor stack for FREE included! Dont miss your weekly cap!", -- [1]
 			"Ilugary-Area52", -- [2]
@@ -2684,7 +2574,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cIlugary|r",
 			[51] = 1589848730,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [116]
 		{
 			"MONDAY SUPER KEY DEALS. Me and Some buds are selling keys 10-17. GOLD ONLY! Cheapest on server! GET YOUR KEY DONE BEFORE RESET and secure your 475 piece of corrupted gear NEW LOWER PRICING! ", -- [1]
 			"Sphinctuswwd-Area52", -- [2]
@@ -2706,7 +2596,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sphinctuswwd|r",
 			[51] = 1589848732,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [117]
 		{
 			">||>Free ARMOR STACKING <||< FOR +10-15!! TODAY ONLY! PogChamp WTS M+10-18 || 0-5 MASK VISIONS || WTS 12/12H & Mythic CLEAR || GET YOUR +15 DONE TODAY BEFORE RESET CHEAPEST AMONGST OTHER COMMUNITIES PogU BIG MONDAY SALES!!!", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2728,7 +2618,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1589848735,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [118]
 		{
 			"WTS|cffffff00|Hachievement:14068:Player-3676-0942A4E9:1:1:27:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r come get your mount|cff71d5ff|Hspell:302143:0|h[Uncorrupted Voidwing]|h|r and 470 loot!", -- [1]
 			"Roudruid-Area52", -- [2]
@@ -2750,7 +2640,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Roudruid|r",
 			[51] = 1589848736,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [119]
 		{
 			"Gold Only! The Gallywix Community || WTS >> Ny'alotha Heroic Full Clear << with top guilds such as <Complexity Limit>! Also, selling Carapace + N'Zoth || M+ boost || Mythic Ny'alotha || Jaina Mount || Vision Boosts || PvP || Rare Mounts(TLPD)! ", -- [1]
 			"Wowsalethree-Area52", -- [2]
@@ -2772,7 +2662,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Wowsalethree|r",
 			[51] = 1589848740,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [120]
 		{
 			">>>WTS M+ 10-18 keys<<< Specific keys and armor stacks available! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
 			"Coachbob-Area52", -- [2]
@@ -2794,7 +2684,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Coachbob|r",
 			[51] = 1589848743,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [121]
 		{
 			"WTS |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r Powerleveling (110-120) PST for prices", -- [1]
 			"Ðüchess-Area52", -- [2]
@@ -2815,6 +2705,116 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cfff38bb9Ðüchess|r",
 			[51] = 1589848743,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"whats a cool looking 2h weapon?", -- [1]
+			"Attritionx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Attritionx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			332, -- [11]
+			"Player-3676-0920B6DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Attritionx|r",
+			[51] = 1589909575,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			">>>EARLY BIRD SPECIAL<<< WTS M+ 10-18 keys - Special deals on armor stacks and specific keys! WTS Mythic & Heroic Nyalotha full clears with funneling options. Horrific Vision 0-5 masks loot guaranteed. GOLD ONLY, PST for info/reserve", -- [1]
+			"Coachbob-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Coachbob-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			333, -- [11]
+			"Player-3676-0AD86619", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Coachbob|r",
+			[51] = 1589909579,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"450 Brew master 3/12 H, 12/12N looking for raiding guild, Mythic+ guild", -- [1]
+			"Materchèng-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Materchèng-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			334, -- [11]
+			"Player-3676-06F38BA4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Materchèng|r",
+			[51] = 1589909586,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"Holy paladin LF raiding guild", -- [1]
+			"Empoxnor-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Empoxnor-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			336, -- [11]
+			"Player-3676-0A0ED973", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Empoxnor|r",
+			[51] = 1589909589,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			" WTS 12/12 Heroic FULL CLEAR |cffffff00|Hachievement:14068:Player-3676-0A8D1752:1:1:28:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r  TODAY 4pm!  460-475 Gear + Mount Included.  (Gold Only) ", -- [1]
+			"Kwee-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kwee-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"Player-3676-0A8D1752", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKwee|r",
+			[51] = 1589909592,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
