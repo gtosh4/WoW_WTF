@@ -8,9 +8,9 @@ DataStore_AgendaDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Options"] = {
@@ -23,23 +23,29 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpriest"] = {
 						["note"] = "",
-						["class"] = "Priest",
 						["level"] = 60,
+						["class"] = "Priest",
 					},
 				},
 				["lastUpdate"] = 1587015374,
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1589909572,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|390121716"] = "472259|1590032939|0|1",
+				},
+				["lastUpdate"] = 1590032889,
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1589927113,
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762304,
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015585,
 			},
 			["Default.Area 52.Toshweaver"] = {
-				["lastUpdate"] = 1589699590,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|390109541"] = "481122|1590024076|0|1",
+				},
+				["lastUpdate"] = 1590024085,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["Contacts"] = {
@@ -47,10 +53,16 @@ DataStore_AgendaDB = {
 						["note"] = "",
 					},
 				},
-				["lastUpdate"] = 1589760374,
+				["lastUpdate"] = 1590037219,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|376038412"] = "467986|1590037212|0|1",
+				},
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762304,
+			["Default.Area 52.Toshpriest"] = {
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|390116498"] = "477425|1590027773|0|1",
+				},
+				["lastUpdate"] = 1590027774,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762465,

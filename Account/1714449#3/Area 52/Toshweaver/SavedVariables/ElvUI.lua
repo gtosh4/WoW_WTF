@@ -2,9 +2,9 @@
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" inv", -- [1]
-		"inv", -- [2]
-		"/who toshmonk", -- [3]
-		"/ec", -- [4]
+		"/who toshmonk", -- [2]
+		"/ec", -- [3]
+		"inv", -- [4]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -579,5 +579,269 @@ ElvCharacterDB = {
 			[51] = 1589699590,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [26]
+		{
+			"12 left", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Eau", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
+			[51] = 1590023039,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [27]
+		{
+			"34 right", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Eau", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
+			[51] = 1590023040,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [28]
+		{
+			"buyers just tag the boss and jump please", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Eau", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
+			[51] = 1590023047,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [29]
+		{
+			"k", -- [1]
+			"Killá-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Killá-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-57-0BF7F0BC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cKillá-Illidan|r",
+			[51] = 1590023055,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [30]
+		{
+			"troooooooooolling", -- [1]
+			"Choplo-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Choplo-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			92, -- [11]
+			"Player-3676-0AD94DBE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Choplo|r",
+			[51] = 1590023334,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [31]
+		{
+			"Eating Nom Noms!", -- [1]
+			"Brewsko-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Brewsko-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			137, -- [11]
+			"Player-3676-0AD5360B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Brewsko|r",
+			[51] = 1590023440,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [32]
+		{
+			"Done With Nom Noms!", -- [1]
+			"Brewsko-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Brewsko-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-3676-0AD5360B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Brewsko|r",
+			[51] = 1590023460,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [33]
+		{
+			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:257::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
+			"Yuffio-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yuffio-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			230, -- [11]
+			"Player-9-0B133310", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeYuffio-Kil'jaeden|r",
+			[51] = 1590023996,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [34]
+		{
+			"thanks guys, really appreciate it", -- [1]
+			"Sweebone-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sweebone-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			238, -- [11]
+			"Player-57-08AD58BF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Sweebone-Illidan|r",
+			[51] = 1590024048,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [35]
+		{
+			"it drops 2 in one run ?", -- [1]
+			"Killá-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Killá-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			239, -- [11]
+			"Player-57-0BF7F0BC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cKillá-Illidan|r",
+			[51] = 1590024048,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [36]
+		{
+			"it does now", -- [1]
+			"Ardynix-Tichondrius", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ardynix-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			246, -- [11]
+			"Player-11-0B98AE0C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cArdynix-Tichondrius|r",
+			[51] = 1590024053,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [37]
+		{
+			"ya", -- [1]
+			"Eau-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Eau-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			247, -- [11]
+			"Player-9-0A185FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
+			[51] = 1590024054,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [38]
 	},
 }

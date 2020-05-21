@@ -2,9 +2,9 @@
 JambaQuestProfileDB = {
 	["profileKeys"] = {
 		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Toshaman - Area 52"] = "Default",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
@@ -21,15 +21,15 @@ JambaQuestProfileDB = {
 		["Toshpriest - Area 52"] = {
 		},
 		["Default"] = {
-			["noChoiceAllDoNothing"] = true,
-			["hasChoiceAquireBestQuestRewardForCharacter"] = false,
-			["hasChoiceSlaveDoNothing"] = true,
 			["acceptFromTeam"] = true,
-			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
+			["noChoiceAllDoNothing"] = true,
+			["hasChoiceSlaveDoNothing"] = true,
 			["noChoiceSlaveCompleteQuestWithMaster"] = false,
-			["onlyAcceptQuestsFrom"] = true,
+			["hasChoiceAquireBestQuestRewardForCharacter"] = false,
 			["doNotAutoAccept"] = false,
 			["masterAutoShareQuestOnAccept"] = true,
+			["onlyAcceptQuestsFrom"] = true,
+			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["showJambaQuestLogWithWoWQuestLog"] = false,

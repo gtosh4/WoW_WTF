@@ -2,8 +2,8 @@ Version: 1
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
-X: -153
-Y: 274
+X: -152
+Y: 258
 W: 204
 H: 58
 Frame: ItemRefTooltip
@@ -48,13 +48,6 @@ X: 0
 Y: -169
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: LEFT
-X: 0
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -97,6 +90,13 @@ X: 1
 Y: -235
 W: 235
 H: 480
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: LEFT
+X: 0
+Y: 0
+W: 520
+H: 1
 Frame: TomTomCrazyArrow
 FrameLevel: 1
 Anchor: CENTER

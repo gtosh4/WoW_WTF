@@ -229,17 +229,17 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshpriest-Area 52"] = {
-		["talents_pvp"] = {
-		},
+	["Toshmoney-Greymane"] = {
 		["talents"] = {
 			{
 			}, -- [1]
 		},
+		["talents_pvp"] = {
+		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip2"] = 0,
 			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -341,57 +341,17 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Tosh-Kil'jaeden"] = {
+	["Toshpriest-Area 52"] = {
+		["talents_pvp"] = {
+		},
 		["talents"] = {
 			{
-				{
-					3, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					3, -- [5]
-					3, -- [6]
-					3, -- [7]
-					["texture"] = 135895,
-					["name"] = "raid",
-					["tt"] = "talents",
-				}, -- [1]
-				{
-					3, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					1, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["texture"] = 458720,
-					["name"] = "m+",
-					["tt"] = "talents",
-				}, -- [2]
-				{
-					1, -- [1]
-					3, -- [2]
-					3, -- [3]
-					1, -- [4]
-					1, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["tt"] = "talents",
-					["name"] = "2s",
-					["texture"] = 135973,
-				}, -- [3]
 			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
-		},
-		["talents_pvp"] = {
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -693,10 +653,50 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshmoney-Greymane"] = {
+	["Tosh-Kil'jaeden"] = {
 		["talents"] = {
 			{
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					3, -- [5]
+					3, -- [6]
+					3, -- [7]
+					["texture"] = 135895,
+					["name"] = "raid",
+					["tt"] = "talents",
+				}, -- [1]
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["texture"] = 458720,
+					["name"] = "m+",
+					["tt"] = "talents",
+				}, -- [2]
+				{
+					1, -- [1]
+					3, -- [2]
+					3, -- [3]
+					1, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "2s",
+					["texture"] = 135973,
+				}, -- [3]
 			}, -- [1]
+			{
+			}, -- [2]
+			{
+			}, -- [3]
 		},
 		["talents_pvp"] = {
 		},

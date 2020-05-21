@@ -15,10 +15,10 @@ DataStore_CurrenciesDB = {
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -158,7 +158,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1589760293,
+				["lastUpdate"] = 1590024031,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -372,7 +372,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1589760226,
+				["lastUpdate"] = 1590032885,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "2558-0-0-0",
@@ -781,17 +781,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 42,
-						["count"] = 56022,
+						["count"] = 72998,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 43,
-						["count"] = 7389,
+						["count"] = 7547,
 					}, -- [4]
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 1735,
+						["count"] = 2360,
 					}, -- [5]
 					{
 						["isHeader"] = false,
@@ -821,7 +821,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 25707,
+						["count"] = 25839,
 					}, -- [11]
 					{
 						["isHeader"] = true,
@@ -911,7 +911,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1589927250,
+				["lastUpdate"] = 1590037216,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -923,7 +923,7 @@ DataStore_CurrenciesDB = {
 					[1710] = "727-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "4841-0-0-0",
-					[1560] = "25707-0-0-0",
+					[1560] = "25839-0-0-0",
 					[994] = "0-0-0-0",
 					[1342] = "133-0-0-1000",
 					[1580] = "4-0-0-5",

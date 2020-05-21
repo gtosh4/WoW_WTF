@@ -523,8 +523,8 @@ MythicPlusTimerDB = {
 			[98792] = {
 				[4] = 1,
 			},
-			[141566] = {
-				9, -- [1]
+			[137478] = {
+				[6] = 14,
 			},
 			[130027] = {
 				[7] = 57,
@@ -542,8 +542,8 @@ MythicPlusTimerDB = {
 			[91782] = {
 				[10] = 1,
 			},
-			[137989] = {
-				176, -- [1]
+			[150253] = {
+				[6] = 5,
 			},
 			[161241] = {
 				[6] = 0.41564093022208,
@@ -978,13 +978,13 @@ MythicPlusTimerDB = {
 			[134629] = {
 				[6] = 17,
 			},
-			[105636] = {
+			[92350] = {
 				[4] = 1,
 			},
 			[134174] = {
 				[5] = 44,
 			},
-			[92350] = {
+			[100526] = {
 				[4] = 1,
 			},
 			[136665] = {
@@ -1000,11 +1000,11 @@ MythicPlusTimerDB = {
 			[150143] = {
 				[4] = 17,
 			},
-			[100526] = {
+			[105636] = {
 				[4] = 1,
 			},
-			[136347] = {
-				363, -- [1]
+			[97173] = {
+				[4] = 1,
 			},
 			[131812] = {
 				[6] = 23,
@@ -1021,8 +1021,8 @@ MythicPlusTimerDB = {
 			[104295] = {
 				1, -- [1]
 			},
-			[98706] = {
-				[6] = 1,
+			[136347] = {
+				363, -- [1]
 			},
 			[133345] = {
 				[5] = 21,
@@ -1063,8 +1063,8 @@ MythicPlusTimerDB = {
 			[106787] = {
 				1, -- [1]
 			},
-			[139799] = {
-				[9] = 95,
+			[129559] = {
+				[4] = 36,
 			},
 			[135263] = {
 				[4] = 30,
@@ -1089,8 +1089,8 @@ MythicPlusTimerDB = {
 				[4] = 114.8,
 				[3] = 0.04398046511104006,
 			},
-			[131112] = {
-				[6] = 62,
+			[139799] = {
+				[9] = 95,
 			},
 			[95834] = {
 				[2] = 1,
@@ -1143,8 +1143,8 @@ MythicPlusTimerDB = {
 			[98900] = {
 				[4] = 1,
 			},
-			[129559] = {
-				[4] = 36,
+			[131112] = {
+				[6] = 62,
 			},
 			[150146] = {
 				[4] = 6,
@@ -1164,8 +1164,8 @@ MythicPlusTimerDB = {
 			[101679] = {
 				[4] = 1,
 			},
-			[97173] = {
-				[4] = 1,
+			[98706] = {
+				[6] = 1,
 			},
 			[98677] = {
 				1, -- [1]
@@ -1351,11 +1351,11 @@ MythicPlusTimerDB = {
 			[91000] = {
 				[8] = 1,
 			},
-			[150253] = {
-				[6] = 5,
+			[137989] = {
+				176, -- [1]
 			},
-			[137478] = {
-				[6] = 14,
+			[141566] = {
+				9, -- [1]
 			},
 			[135240] = {
 				[2] = 125,
@@ -1464,75 +1464,9 @@ MythicPlusTimerDB = {
 				[4] = 7,
 			},
 		},
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
+		["progressTooltip"] = true,
 		["deathCounter"] = false,
 		["hideDefaultObjectiveTracker"] = true,
-		["progressTooltip"] = true,
-		["show_affixes_as_icons"] = false,
-		["insertKeystone"] = true,
-		["objectiveTimeInChat"] = true,
-		["show_affixes_as_text"] = true,
-		["hide_default_objectivetracker"] = true,
-		["objectiveTime"] = true,
-		["objective_time_inchat"] = true,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l15",
-			["quantity_number"] = 198,
-			["cm_level"] = 15,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Atal'Dazar",
-			["elapsed_time"] = 1487,
-			["time_left"] = 313,
-			["deathcount_visible"] = true,
-			["steps"] = 5,
-			["death_names"] = {
-				["Evanpal"] = 1,
-				["Soda-Kil'jaeden"] = 4,
-				["Toshpal"] = 2,
-				["Wilwar"] = 1,
-			},
-			["deathcount"] = 8,
-			["is_reaping"] = false,
-			["max_time"] = 1800,
-			["current_zone_id"] = 1763,
-			["times"] = {
-				362, -- [1]
-				1159, -- [2]
-				784, -- [3]
-				1487, -- [4]
-				1411, -- [5]
-				["5last_best_time_zone_level"] = 1058,
-				["4last_best_time_zone_level"] = 1452,
-				["3last_best_time_zone_level"] = 116,
-				["1last_best_time_zone"] = 306,
-				["1last_best_time_zone_level"] = 524,
-				["5last_best_time_zone"] = 350,
-				["4last_best_time_zone"] = 463,
-				["3last_best_time_zone"] = 88,
-				["2last_best_time_zone"] = 247,
-				["2last_best_time_zone_level"] = 616,
-			},
-			["current_map_id"] = 244,
-			["affixes"] = {
-				10, -- [1]
-				11, -- [2]
-				3, -- [3]
-				120, -- [4]
-			},
-			["affixes_key"] = "affixes-10-11-3-120",
-			["final_quantity_number"] = 198,
-			["time_left_2"] = 0,
-		},
-		["show_absolute_numbers"] = false,
-		["show_reapingtimer"] = true,
-		["objective_time"] = true,
-		["showAffixesAsText"] = true,
 		["best_times"] = {
 			[1771] = {
 				156, -- [1]
@@ -2649,12 +2583,12 @@ MythicPlusTimerDB = {
 					1363, -- [4]
 					1189, -- [5]
 				},
-				["l15affixes-2-9-11-119"] = {
-					196, -- [1]
-					993, -- [2]
-					762, -- [3]
-					1359, -- [4]
-					1198, -- [5]
+				["l19affixes-3-5-9-119"] = {
+					260, -- [1]
+					972, -- [2]
+					1160, -- [3]
+					1561, -- [4]
+					1354, -- [5]
 				},
 				["l14"] = {
 					254, -- [1]
@@ -2664,19 +2598,19 @@ MythicPlusTimerDB = {
 					1118, -- [5]
 					["_complete"] = 1664,
 				},
+				["l15affixes-2-9-11-119"] = {
+					196, -- [1]
+					993, -- [2]
+					762, -- [3]
+					1359, -- [4]
+					1198, -- [5]
+				},
 				["l20affixes-2-9-11-120"] = {
 					401, -- [1]
 					1208, -- [2]
 					1593, -- [3]
 					2131, -- [4]
 					1857, -- [5]
-				},
-				["l19affixes-3-5-9-119"] = {
-					260, -- [1]
-					972, -- [2]
-					1160, -- [3]
-					1561, -- [4]
-					1354, -- [5]
 				},
 				["l13"] = {
 					230, -- [1]
@@ -3250,6 +3184,72 @@ MythicPlusTimerDB = {
 				["l10affixes-2-7-10-120"] = {
 				},
 			},
+		},
+		["show_affixes_as_icons"] = false,
+		["insertKeystone"] = true,
+		["objectiveTimeInChat"] = true,
+		["show_affixes_as_text"] = true,
+		["hide_default_objectivetracker"] = true,
+		["objectiveTime"] = true,
+		["objective_time_inchat"] = true,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l15",
+			["quantity_number"] = 198,
+			["cm_level"] = 15,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Atal'Dazar",
+			["elapsed_time"] = 1487,
+			["time_left"] = 313,
+			["deathcount_visible"] = true,
+			["steps"] = 5,
+			["death_names"] = {
+				["Evanpal"] = 1,
+				["Soda-Kil'jaeden"] = 4,
+				["Toshpal"] = 2,
+				["Wilwar"] = 1,
+			},
+			["deathcount"] = 8,
+			["is_reaping"] = false,
+			["max_time"] = 1800,
+			["current_zone_id"] = 1763,
+			["times"] = {
+				362, -- [1]
+				1159, -- [2]
+				784, -- [3]
+				1487, -- [4]
+				1411, -- [5]
+				["5last_best_time_zone_level"] = 1058,
+				["4last_best_time_zone_level"] = 1452,
+				["3last_best_time_zone_level"] = 116,
+				["1last_best_time_zone"] = 306,
+				["1last_best_time_zone_level"] = 524,
+				["5last_best_time_zone"] = 350,
+				["4last_best_time_zone"] = 463,
+				["3last_best_time_zone"] = 88,
+				["2last_best_time_zone"] = 247,
+				["2last_best_time_zone_level"] = 616,
+			},
+			["current_map_id"] = 244,
+			["affixes"] = {
+				10, -- [1]
+				11, -- [2]
+				3, -- [3]
+				120, -- [4]
+			},
+			["affixes_key"] = "affixes-10-11-3-120",
+			["final_quantity_number"] = 198,
+			["time_left_2"] = 0,
+		},
+		["show_absolute_numbers"] = false,
+		["show_reapingtimer"] = true,
+		["objective_time"] = true,
+		["showAffixesAsText"] = true,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
 		},
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = false,

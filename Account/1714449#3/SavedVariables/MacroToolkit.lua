@@ -1,15 +1,7 @@
 
 MacroToolkitDB = {
 	["char"] = {
-		["Tosh - Kil'jaeden"] = {
-			["backups"] = {
-			},
-		},
 		["Toshmonk - Kil'jaeden"] = {
-			["backups"] = {
-			},
-		},
-		["Toshaman - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
@@ -17,11 +9,13 @@ MacroToolkitDB = {
 			["backups"] = {
 			},
 		},
-	},
-	["global"] = {
-		["backups"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["backups"] = {
+			},
 		},
-		["ebackups"] = {
+		["Tosh - Kil'jaeden"] = {
+			["backups"] = {
+			},
 		},
 	},
 	["profileKeys"] = {
@@ -32,9 +26,15 @@ MacroToolkitDB = {
 		["Yorman - Kil'jaeden"] = "profile",
 		["Tosh - Kil'jaeden"] = "profile",
 		["Toshmonk - Kil'jaeden"] = "profile",
-		["Toshpal - Kil'jaeden"] = "profile",
-		["Toshaman - Kil'jaeden"] = "profile",
 		["Toshaman - Area 52"] = "profile",
+		["Toshaman - Kil'jaeden"] = "profile",
+		["Toshpal - Kil'jaeden"] = "profile",
+	},
+	["global"] = {
+		["ebackups"] = {
+		},
+		["backups"] = {
+		},
 	},
 	["profiles"] = {
 		["profile"] = {
