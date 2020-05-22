@@ -12,16 +12,16 @@ DataStore_MailsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -34,13 +34,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1589760318,
 				["Mails"] = {
 					{
-						["lastCheck"] = 1589760318,
+						["icon"] = 135724,
 						["sender"] = "Customer Support",
 						["subject"] = "Your Guild Has Moved",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
-						["icon"] = 135724,
+						["lastCheck"] = 1589760318,
 						["daysLeft"] = 29.36482620239258,
 					}, -- [1]
 				},
@@ -54,13 +54,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1589760265,
 				["Mails"] = {
 					{
-						["icon"] = 135724,
+						["lastCheck"] = 1589760265,
 						["sender"] = "Customer Support",
 						["subject"] = "Your Guild Has Moved",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
-						["lastCheck"] = 1589760265,
+						["icon"] = 135724,
 						["daysLeft"] = 29.36556625366211,
 					}, -- [1]
 				},
@@ -78,17 +78,17 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1556088028,
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
-			["Default.Illidan.Toshpala"] = {
-				["lastUpdate"] = 1589759773,
-				["lastVisitDate"] = "2020/05/17 19:56",
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1589909102,
+				["lastVisitDate"] = "2020/05/19 13:25",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1589764117,
 				["lastVisitDate"] = "2020/05/17 21:08",
 			},
-			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1589909102,
-				["lastVisitDate"] = "2020/05/19 13:25",
+			["Default.Illidan.Toshpala"] = {
+				["lastUpdate"] = 1589759773,
+				["lastVisitDate"] = "2020/05/17 19:56",
 			},
 		},
 	},

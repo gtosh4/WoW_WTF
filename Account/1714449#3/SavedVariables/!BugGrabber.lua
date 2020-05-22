@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 1796,
+	["session"] = 1798,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -178,5 +178,27 @@ BugGrabberDB = {
 			["session"] = 1796,
 			["counter"] = 1,
 		}, -- [22]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
+			["time"] = "2020/05/21 23:11:28",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:487: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
+			["session"] = 1797,
+			["counter"] = 1,
+		}, -- [23]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
+			["time"] = "2020/05/21 23:11:28",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:36: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\ZoneAbility.lua\"]:72: in function <Interface\\FrameXML\\ZoneAbility.lua:32>",
+			["session"] = 1797,
+			["counter"] = 1,
+		}, -- [24]
+		{
+			["message"] = "Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4781: attempt to perform arithmetic on local 'player' (a nil value)",
+			["time"] = "2020/05/22 00:59:52",
+			["locals"] = "CurStep = 74\nd_y = 1617\nd_x = 2481\nAAP_ArrowActive_TrigDistance = nil\nPI2 = 6.283185\natan2 = <function> defined =[C]:-1\ntwopi = 6.283185\ndeltaX = -609.600000\ndeltaY = -1332.900000\ndistance = 1465.685700\nangle = 2.712644\nplayer = nil\n(*temporary) = -1332.900000\n(*temporary) = 2.712644\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'player' (a nil value)\"\nQNumberLocal = 74\nAAP_CheckDistance = <function> defined @Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4676\n",
+			["stack"] = "[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4781: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4741>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4964: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4826>",
+			["session"] = 1798,
+			["counter"] = 12,
+		}, -- [25]
 	},
 }

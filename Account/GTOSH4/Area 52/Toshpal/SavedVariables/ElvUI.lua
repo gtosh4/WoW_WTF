@@ -2,687 +2,27 @@
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" mt", -- [1]
-		"/jamba", -- [2]
-		"/tmw", -- [3]
-		"/g the one that yells", -- [4]
-		"/plater", -- [5]
-		"/inv Toshpriest", -- [6]
-		"/p |cffa335ee|Hitem:160216:6112:::::::120:65::16:7:6534:6578:6579:6537:6515:1637:4786:::|h[Crackling Jade Kilij]|h|r|cffa335ee|Hitem:173514::::::::120:65::43:8:6412:4803:6515:6578:6579:6537:1512:4786:::|h[Malignant Leviathan's Girdle]|h|r", -- [7]
-		"/m", -- [8]
-		"/c", -- [9]
-		"/p yelluwuy", -- [10]
-		"/wa", -- [11]
-		"/g yeah, YellowDA0DE5", -- [12]
-		"monkaS my palms are sweating more", -- [13]
-		"mt", -- [14]
-		"/g yeah", -- [15]
-		"gonna go there with everyone in the chan huh", -- [16]
-		"/simc", -- [17]
-		"/p |cffa335ee|Hitem:169157:6108:168639::::::120:65::35:7:6536:6578:6579:6537:1532:4786:6514:::|h[Logic Loop of Division]|h|r", -- [18]
-		"/cw Rivalry inv", -- [19]
-		"/cw Oxclamation-Area52 we let him go", -- [20]
+		"/inv Toshpriest", -- [2]
+		"/wa", -- [3]
+		"/p yelluwuy", -- [4]
+		"/jamba", -- [5]
+		"/p |cffa335ee|Hitem:169157:6108:168639::::::120:65::35:7:6536:6578:6579:6537:1532:4786:6514:::|h[Logic Loop of Division]|h|r", -- [6]
+		"/cw Oxclamation-Area52 we let him go", -- [7]
+		"/simc", -- [8]
+		"/tmw", -- [9]
+		"gonna go there with everyone in the chan huh", -- [10]
+		"/g yeah, YellowDA0DE5", -- [11]
+		"/c", -- [12]
+		"/m", -- [13]
+		"/g yeah", -- [14]
+		"/g the one that yells", -- [15]
+		"monkaS my palms are sweating more", -- [16]
+		"/plater", -- [17]
+		"mt", -- [18]
+		"/p |cffa335ee|Hitem:160216:6112:::::::120:65::16:7:6534:6578:6579:6537:6515:1637:4786:::|h[Crackling Jade Kilij]|h|r|cffa335ee|Hitem:173514::::::::120:65::43:8:6412:4803:6515:6578:6579:6537:1512:4786:::|h[Malignant Leviathan's Girdle]|h|r", -- [19]
+		"/cw Rivalry inv", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"!", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1018, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1590035582,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"never", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1019, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1590035584,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"300 days", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1024, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590035639,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"woah", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1025, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590035639,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
-			"wanna do 3s", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1027, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590035684,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"while we wait", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1028, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590035686,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"yea cj", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1029, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590035696,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"are u ", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1030, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590035697,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"AGGRAVATED?", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1031, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590035699,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"c:", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1032, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590035702,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"when jamie", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1033, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590035702,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"asks me about triasl", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1034, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590035704,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"i get aggravated", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1035, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590035706,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"YEAH", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1036, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1590035708,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"jk", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1037, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590035709,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
-			"wtb valorant gamers", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1040, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1590035886,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"@barbados", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1041, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1590035899,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"heading over", -- [1]
-			"Cugel-Azgalor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cugel-Azgalor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1044, -- [11]
-			"Player-77-0AF490FB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Cugel-Azgalor|r",
-			[51] = 1590035936,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"we are summoning", -- [1]
-			"Felfanatic-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Felfanatic-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1045, -- [11]
-			"Player-3676-0AD8DEA8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Felfanatic|r",
-			[51] = 1590035941,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
-			"sum inc", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1046, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1590035941,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
-		{
-			"E ERrr High Tinker Mekkatorque!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1053, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036098,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1054, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036100,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1057, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036111,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1058, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036111,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1066, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036129,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1074, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036144,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1075, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036144,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
-		{
-			"3", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1087, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590036173,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"1", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1093, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590036175,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1138, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590036188,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -704,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036189,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
+		}, -- [1]
 		{
 			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -726,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036194,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
+		}, -- [2]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -748,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036198,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
+		}, -- [3]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -770,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036201,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
+		}, -- [4]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -792,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036204,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [5]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -814,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036206,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [6]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -836,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [7]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -858,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036209,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [8]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -880,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036210,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [9]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -902,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [10]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -924,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036213,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [11]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -946,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036215,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [12]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -968,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036216,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [13]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -990,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036218,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [14]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1012,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036219,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [15]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1034,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [16]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1056,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036222,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [17]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1078,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036224,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [18]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1100,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [19]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1122,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036227,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [20]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1144,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036228,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [21]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1166,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036230,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [22]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1188,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036232,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [23]
 		{
 			"Shrunk", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1210,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590036233,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [24]
 		{
 			"E ERrr High Tinker Mekkatorque!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1232,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036237,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [25]
 		{
 			"E ERrr High Tinker Mekkatorque!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1254,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036237,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [26]
 		{
 			"Miscalculated Teleport on Oxclamation", -- [1]
 			"Oxclamation-Area52", -- [2]
@@ -1276,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamation|r",
 			[51] = 1590036270,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [27]
 		{
 			"E ERrr High Tinker Mekkatorque!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1298,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036280,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [28]
 		{
 			"E ERrr High Tinker Mekkatorque!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1320,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [29]
 		{
 			"Bomb (1{rt1}) on Gummybuns", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1342,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036292,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [30]
 		{
 			"Shrunk", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -1364,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590036307,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [31]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13312:Player-3676-0AD9A2A7:1:5:20:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Mekkatorque]|h|r!", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -1386,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590036308,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [62]
+		}, -- [32]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1408,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036409,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [33]
 		{
 			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1430,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036413,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [34]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1452,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036419,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [35]
 		{
 			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Chrisdh-Kil'jaeden!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1474,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036452,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [36]
 		{
 			"same grp as opelnce", -- [1]
 			"Rivalry-Area52", -- [2]
@@ -1496,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1590036485,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [67]
+		}, -- [37]
 		{
 			"want me to heal?", -- [1]
 			"Oxclamation-Area52", -- [2]
@@ -1518,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Oxclamation|r",
 			[51] = 1590036499,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [38]
 		{
 			"no", -- [1]
 			"Rivalry-Area52", -- [2]
@@ -1540,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1590036514,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [69]
+		}, -- [39]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r cast on Solvèj!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1562,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036570,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:116849:0|h[Life Cocoon]|h|r on Solvèj faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1584,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036581,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Rivalry!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1606,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036603,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [42]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13313:Player-3676-0AD9A2A7:1:5:20:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Stormwall Blockade]|h|r!", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -1628,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590036659,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
+		}, -- [43]
 		{
 			"|cff71d5ff|Hspell:185709:0|h[Sugar-Crusted Fish Feast]|h|r placed by Chrisdh-Kil'jaeden!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1650,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036688,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [44]
 		{
 			"kill command", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1672,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590036696,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [45]
 		{
 			"12 fast", -- [1]
 			"Rivalry-Area52", -- [2]
@@ -1694,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1590036866,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [76]
+		}, -- [46]
 		{
 			"34 slow", -- [1]
 			"Rivalry-Area52", -- [2]
@@ -1716,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1590036868,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [77]
+		}, -- [47]
 		{
 			"buyers tag and jump off", -- [1]
 			"Rivalry-Area52", -- [2]
@@ -1738,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1590036874,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [78]
+		}, -- [48]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1760,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036918,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [49]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1782,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036938,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [50]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1804,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036938,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [51]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1826,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036954,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [52]
 		{
 			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1848,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590036954,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [53]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -1870,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037007,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [54]
 		{
 			"Broadside (3{rt3}) on Toshpal", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1892,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037015,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [55]
 		{
 			"3", -- [1]
 			"Chrisdh-Kil'jaeden", -- [2]
@@ -1914,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chrisdh-Kil'jaeden|r",
 			[51] = 1590037018,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [56]
 		{
 			"3", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1936,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037018,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [57]
 		{
 			"2", -- [1]
 			"Chrisdh-Kil'jaeden", -- [2]
@@ -1958,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chrisdh-Kil'jaeden|r",
 			[51] = 1590037019,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [58]
 		{
 			"2", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1980,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037019,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [59]
 		{
 			"1", -- [1]
 			"Chrisdh-Kil'jaeden", -- [2]
@@ -2002,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chrisdh-Kil'jaeden|r",
 			[51] = 1590037020,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [60]
 		{
 			"1", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -2024,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037020,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [61]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2046,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037037,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [62]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2068,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037037,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [63]
 		{
 			"Broadside (2{rt2}) on Toshpal", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -2090,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037046,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [64]
 		{
 			"3", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -2112,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [65]
 		{
 			"3", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2134,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037049,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [66]
 		{
 			"2", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2156,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [67]
 		{
 			"2", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -2178,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [68]
 		{
 			"1", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2200,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [69]
 		{
 			"1", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -2222,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1590037051,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [70]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2244,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037053,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [71]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2266,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037053,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [72]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2288,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037063,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [73]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2310,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037063,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [74]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2332,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037072,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [75]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2354,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037072,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [76]
 		{
 			"3", -- [1]
 			"Chrisdh-Kil'jaeden", -- [2]
@@ -2376,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chrisdh-Kil'jaeden|r",
 			[51] = 1590037081,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
+		}, -- [77]
 		{
 			"{rt3}3", -- [1]
 			"Andruw-Area52", -- [2]
@@ -2398,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruw|r",
 			[51] = 1590037081,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
+		}, -- [78]
 		{
 			"2", -- [1]
 			"Chrisdh-Kil'jaeden", -- [2]
@@ -2420,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chrisdh-Kil'jaeden|r",
 			[51] = 1590037082,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [109]
+		}, -- [79]
 		{
 			"1", -- [1]
 			"Chrisdh-Kil'jaeden", -- [2]
@@ -2442,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Chrisdh-Kil'jaeden|r",
 			[51] = 1590037083,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [110]
+		}, -- [80]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2464,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037108,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [111]
+		}, -- [81]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2486,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037108,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [112]
+		}, -- [82]
 		{
 			"E ERrr Jaina's Tide Elemental!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2508,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037109,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [83]
 		{
 			"Jaina's Tide Elemental is immune to my |cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2530,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037117,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [114]
+		}, -- [84]
 		{
 			"Broadside (3{rt3}) on Solvèj", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2552,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [115]
+		}, -- [85]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2574,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037134,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [86]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2596,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037134,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [87]
 		{
 			"3", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2618,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037136,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [118]
+		}, -- [88]
 		{
 			"2", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2640,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037137,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [119]
+		}, -- [89]
 		{
 			"1", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2662,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj|r",
 			[51] = 1590037138,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [90]
 		{
 			"Freezing in 4", -- [1]
 			"Azurites-Hyjal", -- [2]
@@ -2684,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Azurites-Hyjal|r",
 			[51] = 1590037143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [121]
+		}, -- [91]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2706,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037146,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [122]
+		}, -- [92]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -2728,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590037146,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [93]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-3676-0AD9A2A7:1:5:20:20:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -2750,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590037151,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [124]
+		}, -- [94]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-3676-0AD9A2A7:1:5:20:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -2772,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590037151,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [125]
+		}, -- [95]
 		{
 			"Thanks fellas", -- [1]
 			"Cugel-Azgalor", -- [2]
@@ -2794,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Cugel-Azgalor|r",
 			[51] = 1590037189,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [96]
 		{
 			"mhm", -- [1]
 			"Rivalry-Area52", -- [2]
@@ -2816,6 +2156,666 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Rivalry|r",
 			[51] = 1590037197,
 			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14052:Player-3676-0AD8F401:1:5:21:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Il'gynoth, Corruption Reborn]|h|r!", -- [1]
+			"Delpix-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Delpix-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-3676-0AD8F401", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecDelpix|r",
+			[51] = 1590117554,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [98]
+		{
+			"Void Torrent on Toshpal", -- [1]
+			"Toshpal-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			87, -- [11]
+			"Player-3676-0AD8DD4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1590117680,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [99]
+		{
+			"Tier is over, macros are over", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			219, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1590118790,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [100]
+		{
+			"bio~", -- [1]
+			"Rivalry-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			221, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590118802,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [101]
+		{
+			"Tier is over, macros are over", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			223, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1590118814,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [102]
+		{
+			"Dark Force on Toshpal", -- [1]
+			"Toshpal-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpal-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			"Player-3676-0AD8DD4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1590119031,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [103]
+		{
+			"barBAYdos", -- [1]
+			"Arnbjorn-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			253, -- [11]
+			"Player-3676-0AD901AD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Arnbjorn|r",
+			[51] = 1590119087,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [104]
+		{
+			"Void Torrent on Rivalry", -- [1]
+			"Rivalry-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			264, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590119189,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"Void Torrent on Rivalry", -- [1]
+			"Rivalry-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			266, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590119204,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [106]
+		{
+			"Tier is over, macros are over", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			288, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1590119485,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [107]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:298033:0|h[Touch of the Abyss]|h|r", -- [1]
+			"Rivalry-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			314, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590119728,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [108]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:297315:0|h[Void Buffet]|h|r", -- [1]
+			"Rivalry-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			324, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590119937,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [109]
+		{
+			"|cffffff00Uldum is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Uldum", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Uldum", -- [9]
+			0, -- [10]
+			108, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1590121671,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"WTS|cffffffff|Hitem:168487::::::::1:269::::::|h[Zin'anthid]|h|r2.1K/stack", -- [1]
+			"Nurzaidan-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nurzaidan-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			193, -- [11]
+			"Player-3676-0A560E2E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Nurzaidan|r",
+			[51] = 1590122460,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"Selling Heroic Nzoth kill in 30 minutes, special price for today!", -- [1]
+			"Ilugary-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ilugary-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			213, -- [11]
+			"Player-3676-0AAD3E15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cIlugary|r",
+			[51] = 1590122634,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:7410:Player-3676-0AD945E6:1:5:21:20:4294967295:4294967295:4294967295:4294967295|h[5000 Daily Quests Completed]|h|r!", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			240, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1590122739,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [113]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:7410:Player-3676-0AD8DD4D:1:5:21:20:4294967295:4294967295:4294967295:4294967295|h[5000 Daily Quests Completed]|h|r!", -- [1]
+			"Toshpal-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshpal-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			244, -- [11]
+			"Player-3676-0AD8DD4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1590122740,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [114]
+		{
+			"Selling 10-15's Real People. Not level 1's chill group. Cheaper than everyone else!", -- [1]
+			"Snåggs-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Snåggs-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			389, -- [11]
+			"Player-3676-092F9B4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Snåggs|r",
+			[51] = 1590123593,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"WTS 110-120 |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r powerleveling cheap and fast come get to 120 before Shadowlands and skip out on that boring grind pst", -- [1]
+			"Veledor-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Veledor-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			401, -- [11]
+			"Player-3676-09B5FEAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Veledor|r",
+			[51] = 1590123605,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"<WTS> +15 TIMED KEYS 150k // 3.5k IO group // 250+ sold keys // gold only // whisp for info Power LvL 110 - 120 free hold 4k per lvl", -- [1]
+			"Hiphotenusa-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hiphotenusa-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			404, -- [11]
+			"Player-3676-0ACB8D75", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Hiphotenusa|r",
+			[51] = 1590123611,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"Selling 10-15's Real People. Not level 1's chill group. Cheaper than everyone else!", -- [1]
+			"Snåggs-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Snåggs-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			408, -- [11]
+			"Player-3676-092F9B4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Snåggs|r",
+			[51] = 1590123613,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"SELLING NYA - Heroic Full Clear / PL and Gear fed available/ GOLD ONLY 300k - TODAY  12:30 AM server time -- CHEAPEST PRICE, PST for more info", -- [1]
+			"Anantaba-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Anantaba-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			413, -- [11]
+			"Player-3676-0ADADD15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cAnantaba|r",
+			[51] = 1590123623,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"WTS 110-120 |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r powerleveling cheap and fast come get to 120 before Shadowlands and skip out on that boring grind pst", -- [1]
+			"Veledor-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Veledor-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			414, -- [11]
+			"Player-3676-09B5FEAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Veledor|r",
+			[51] = 1590123625,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"<WTS> +15 TIMED KEYS 150k // 3.5k IO group // 250+ sold keys // gold only // whisp for info Power LvL 110 - 120 free hold 4k per lvl", -- [1]
+			"Hiphotenusa-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hiphotenusa-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			416, -- [11]
+			"Player-3676-0ACB8D75", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Hiphotenusa|r",
+			[51] = 1590123632,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"Selling 10-15's Real People. Not level 1's chill group. Cheaper than everyone else!", -- [1]
+			"Snåggs-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Snåggs-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			417, -- [11]
+			"Player-3676-092F9B4A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Snåggs|r",
+			[51] = 1590123632,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTS 110-120 |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r powerleveling cheap and fast come get to 120 before Shadowlands and skip out on that boring grind pst", -- [1]
+			"Veledor-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Veledor-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			419, -- [11]
+			"Player-3676-09B5FEAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Veledor|r",
+			[51] = 1590123646,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"<WTS> +15 TIMED KEYS 150k // 3.5k IO group // 250+ sold keys // gold only // whisp for info Power LvL 110 - 120 free hold 4k per lvl", -- [1]
+			"Hiphotenusa-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hiphotenusa-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			420, -- [11]
+			"Player-3676-0ACB8D75", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Hiphotenusa|r",
+			[51] = 1590123649,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"WTS 110-120 |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r powerleveling cheap and fast come get to 120 before Shadowlands and skip out on that boring grind pst", -- [1]
+			"Veledor-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Veledor-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			422, -- [11]
+			"Player-3676-09B5FEAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Veledor|r",
+			[51] = 1590123659,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"|cffffff00|Hachievement:14069:Player-162-0A5E8F98:1:5:9:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r Group selling  Nzoth HEROIC kill we are in FRONT of Nzoth(Personal loot , Only gold) Get your mount :) LAS", -- [1]
+			"Ezclapxd-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ezclapxd-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			558, -- [11]
+			"Player-3676-0AB72E03", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Ezclapxd|r",
+			[51] = 1590124320,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12955:Player-3676-0AD945E6:1:5:21:20:4294967295:4294967295:4294967295:4294967295|h[Champions of Azeroth]|h|r!", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			580, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1590124360,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [127]
 	},
 }

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2402,
 	["lastSanitation"] = 3,
-	["session"] = 2399,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
@@ -35,5 +35,12 @@ BugGrabberDB = {
 			["session"] = 2399,
 			["counter"] = 2,
 		}, -- [4]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/05/22 00:21:14",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 2402,
+			["counter"] = 1,
+		}, -- [5]
 	},
 }

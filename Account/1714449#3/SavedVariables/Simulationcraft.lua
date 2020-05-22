@@ -20,6 +20,9 @@ SimulationCraftDB = {
 		["Toshpal - Area 52"] = {
 		},
 		["Toshpriest - Area 52"] = {
+			["minimap"] = {
+				["minimapPos"] = 176.2359391870279,
+			},
 		},
 		["Yorman - Kil'jaeden"] = {
 			["minimap"] = {

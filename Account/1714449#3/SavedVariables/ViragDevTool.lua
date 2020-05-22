@@ -2,8 +2,8 @@
 ViragDevTool_Settings = {
 	["isSideBarOpen"] = true,
 	["fontSize"] = 11,
-	["collResizerPosition"] = 450,
 	["isWndOpen"] = false,
+	["collResizerPosition"] = 450,
 	["history"] = {
 		"ViragDevTool.settings.history", -- [1]
 		"find LFR", -- [2]
@@ -11,31 +11,6 @@ ViragDevTool_Settings = {
 		"find Data ViragDevTool", -- [4]
 		"startswith Virag", -- [5]
 	},
-	["events"] = {
-		{
-			["event"] = "ALL",
-			["active"] = false,
-		}, -- [1]
-		{
-			["event"] = "CURSOR_UPDATE",
-			["active"] = false,
-		}, -- [2]
-		{
-			["unit"] = "player",
-			["event"] = "UNIT_AURA",
-			["active"] = false,
-		}, -- [3]
-		{
-			["event"] = "CHAT_MSG_CHANNEL",
-			["active"] = false,
-		}, -- [4]
-	},
-	["tArgs"] = {
-	},
-	["logs"] = {
-	},
-	["MAX_HISTORY_SIZE"] = 50,
-	["sideBarTabSelected"] = "history",
 	["colors"] = {
 		["ok"] = "|cFF00FF00",
 		["string"] = {
@@ -61,12 +36,7 @@ ViragDevTool_Settings = {
 			1, -- [4]
 		},
 		["green"] = "|cFF00FF00",
-		["default"] = {
-			1, -- [1]
-			1, -- [2]
-			1, -- [3]
-			1, -- [4]
-		},
+		["lightblue"] = "|cFF96C0CE",
 		["table"] = {
 			0.41, -- [1]
 			0.8, -- [2]
@@ -74,8 +44,38 @@ ViragDevTool_Settings = {
 			1, -- [4]
 		},
 		["darkred"] = "|cFFC25B56",
-		["lightblue"] = "|cFF96C0CE",
+		["default"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			1, -- [4]
+		},
 		["error"] = "|cFFFF0000",
 		["gray"] = "|cFFBEB9B5",
+	},
+	["tArgs"] = {
+	},
+	["logs"] = {
+	},
+	["MAX_HISTORY_SIZE"] = 50,
+	["sideBarTabSelected"] = "history",
+	["events"] = {
+		{
+			["event"] = "ALL",
+			["active"] = false,
+		}, -- [1]
+		{
+			["event"] = "CURSOR_UPDATE",
+			["active"] = false,
+		}, -- [2]
+		{
+			["unit"] = "player",
+			["event"] = "UNIT_AURA",
+			["active"] = false,
+		}, -- [3]
+		{
+			["event"] = "CHAT_MSG_CHANNEL",
+			["active"] = false,
+		}, -- [4]
 	},
 }
