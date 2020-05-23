@@ -15,10 +15,10 @@ DataStore_MailsDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -26,6 +26,20 @@ DataStore_MailsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Area 52.Toshaman"] = {
+				["lastUpdate"] = 1590208861,
+				["Mails"] = {
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 168652,
+						["link"] = "|cffffffff|Hitem:168652::::::::120:65::::::|h[Greater Flask of Endless Fathoms]|h|r",
+						["count"] = 2,
+						["lastCheck"] = 1590208861,
+						["icon"] = 967549,
+						["daysLeft"] = 30,
+					}, -- [1]
+				},
+			},
 			["Default.Quel'dorei.Toshmoney"] = {
 				["lastUpdate"] = 1588222029,
 				["lastVisitDate"] = "2020/04/30 00:47",
@@ -79,8 +93,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1589909102,
-				["lastVisitDate"] = "2020/05/19 13:25",
+				["lastUpdate"] = 1590210317,
+				["lastVisitDate"] = "2020/05/23 01:05",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1589764117,

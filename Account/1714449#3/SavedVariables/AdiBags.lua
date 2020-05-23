@@ -17,27 +17,49 @@ AdiBagsDB = {
 		},
 		["Rogue Lockboxes"] = {
 		},
-		["Mechagon Tinkering"] = {
-		},
 		["TBC"] = {
+		},
+		["Mechagon Tinkering"] = {
 		},
 		["ItemSets"] = {
 		},
 		["Junk"] = {
 		},
+		["DataSource"] = {
+		},
+		["PriorExpansion"] = {
+		},
 		["WoD"] = {
 		},
 		["MoneyFrame"] = {
-		},
-		["BfA"] = {
-		},
-		["PriorExpansion"] = {
 		},
 		["Chests and Bags"] = {
 		},
 		["ItemCategory"] = {
 		},
-		["ItemLevel"] = {
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Brawler's Gold"] = false,
+						["Timewarped Badge"] = false,
+						["Seal of Broken Fate"] = false,
+						["Nethershard"] = false,
+						["Timeworn Artifact"] = false,
+						["Apexis Crystal"] = false,
+						["Wakening Essence"] = false,
+						["Garrison Resources"] = false,
+						["Order Resources"] = false,
+						["Veiled Argunite"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Curious Coin"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Champion's Seal"] = false,
+						["Legionfall War Supplies"] = false,
+					},
+				},
+			},
 		},
 		["NewItem"] = {
 		},
@@ -56,33 +78,11 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["CurrencyFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shown"] = {
-						["Ancient Mana"] = false,
-						["Brawler's Gold"] = false,
-						["Legionfall War Supplies"] = false,
-						["Timeworn Artifact"] = false,
-						["Nethershard"] = false,
-						["Seal of Broken Fate"] = false,
-						["Garrison Resources"] = false,
-						["Wakening Essence"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Order Resources"] = false,
-						["Veiled Argunite"] = false,
-						["Curious Coin"] = false,
-						["Seal of Tempered Fate"] = false,
-						["Apexis Crystal"] = false,
-						["Champion's Seal"] = false,
-						["Timewarped Badge"] = false,
-					},
-				},
-			},
+		["ItemLevel"] = {
 		},
 		["Bound"] = {
 		},
-		["DataSource"] = {
+		["BfA"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -95,16 +95,13 @@ AdiBagsDB = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshpal - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["columnWidth"] = {
-				["Bank"] = 10,
-				["Backpack"] = 10,
-			},
+			["scale"] = 0.9,
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = -109.684814453125,
@@ -114,7 +111,10 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Backpack"] = 10,
+				["Bank"] = 10,
+			},
 			["rightClickConfig"] = false,
 			["autoDeposit"] = true,
 		},

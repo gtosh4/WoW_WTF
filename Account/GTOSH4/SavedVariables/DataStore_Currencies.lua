@@ -15,10 +15,10 @@ DataStore_CurrenciesDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -781,12 +781,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 42,
-						["count"] = 53594,
+						["count"] = 56589,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 43,
-						["count"] = 16363,
+						["count"] = 16396,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -816,12 +816,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 30751,
+						["count"] = 30791,
 					}, -- [10]
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 26199,
+						["count"] = 27436,
 					}, -- [11]
 					{
 						["isHeader"] = true,
@@ -911,7 +911,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1590124373,
+				["lastUpdate"] = 1590212338,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -920,7 +920,7 @@ DataStore_CurrenciesDB = {
 					[1191] = "0-0-0-0",
 					[1580] = "4-0-0-5",
 					[823] = "0-0-0-0",
-					[1560] = "26199-0-0-0",
+					[1560] = "27436-0-0-0",
 					[1342] = "133-0-0-1000",
 					[1226] = "4841-0-0-0",
 					[1710] = "727-0-0-0",

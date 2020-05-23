@@ -15,10 +15,10 @@ Gladius2DB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Default",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Default",
@@ -188,26 +188,6 @@ Gladius2DB = {
 				["arena1"] = 379.64667201096,
 			},
 		},
-		["Toshaman - Area 52"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1615.733250182529,
-			},
-			["y"] = {
-				["arena1"] = 291.1133534258697,
-			},
-		},
-		["Toshpal - Area 52"] = {
-			["y"] = {
-				["arena1"] = 453.2466979451419,
-			},
-			["tagsVersion"] = 4,
-			["auraVersion"] = 1,
-			["x"] = {
-				["arena1"] = 1376.800179584418,
-			},
-		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
 			["aurasBuffs"] = true,
@@ -330,6 +310,26 @@ Gladius2DB = {
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+		},
+		["Toshpal - Area 52"] = {
+			["y"] = {
+				["arena1"] = 453.2466979451419,
+			},
+			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
+			["x"] = {
+				["arena1"] = 1376.800179584418,
+			},
+		},
+		["Koutetsu - Frostwolf"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1464.799972197332,
+			},
+			["y"] = {
+				["arena1"] = 690.5799346452404,
+			},
 		},
 		["Default"] = {
 			["modules"] = {
@@ -458,14 +458,14 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["x"] = {
-				["arena1"] = 1464.799972197332,
+				["arena1"] = 1615.733250182529,
 			},
 			["y"] = {
-				["arena1"] = 690.5799346452404,
+				["arena1"] = 291.1133534258697,
 			},
 		},
 		["Toshtrial - The Forgotten Coast"] = {
