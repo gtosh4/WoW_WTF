@@ -21,6 +21,26 @@ EssenceSetManager = {
 				},
 			},
 		},
+		["lucid"] = {
+			["major"] = {
+				["ID"] = 27,
+				["name"] = "Memory of Lucid Dreams",
+			},
+			["minors"] = {
+				["one"] = {
+					["ID"] = 34,
+					["name"] = "Strength of the Warden",
+				},
+				["three"] = {
+					["ID"] = 32,
+					["name"] = "Conflict and Strife",
+				},
+				["two"] = {
+					["ID"] = 7,
+					["name"] = "Anima of Life and Death",
+				},
+			},
+		},
 	},
 	["Holy"] = {
 		["m+"] = {

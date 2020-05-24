@@ -8,9 +8,9 @@ DataStore_AuctionsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -21,6 +21,10 @@ DataStore_AuctionsDB = {
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587009575,
 				["lastVisitDate"] = "2020/04/15 23:59",
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1590284417,
+				["lastVisitDate"] = "2020/05/23 21:40",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1589424706,

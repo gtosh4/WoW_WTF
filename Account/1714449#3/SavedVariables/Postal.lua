@@ -1,5 +1,17 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -16,18 +28,6 @@ Postal3DB = {
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
-		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-	},
 	["profiles"] = {
 		["Toshweaver - Area 52"] = {
 		},
@@ -43,7 +43,9 @@ Postal3DB = {
 		["Toshpriest - Area 52"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Itsyellowy|Area 52|Horde", -- [1]
+					"Toshaman|Area 52|Horde", -- [1]
+					"Toshpal|Area 52|Horde", -- [2]
+					"Itsyellowy|Area 52|Horde", -- [3]
 				},
 			},
 		},
@@ -82,7 +84,12 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshpal - Kil'jaeden"] = {
+		["Toshaman - Area 52"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Itsyellowy|Area 52|Horde", -- [1]
+				},
+			},
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -106,12 +113,7 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshaman - Area 52"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Itsyellowy|Area 52|Horde", -- [1]
-				},
-			},
+		["Toshpal - Kil'jaeden"] = {
 		},
 	},
 }

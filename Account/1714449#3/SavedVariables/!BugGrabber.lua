@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1804,
 	["lastSanitation"] = 3,
-	["session"] = 1803,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua:806: attempt to call method 'UpdateAllElements' (a nil value)",
