@@ -28,6 +28,20 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
+		["Toshweaver"] = {
+			["profile"] = "default",
+			["name"] = "Toshweaver",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 		["Toshmonk"] = {
 			["profile"] = "default",
 			["name"] = "Toshmonk",
@@ -45,20 +59,6 @@ BD_persistent = {
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Toshweaver"] = {
-			["profile"] = "default",
-			["name"] = "Toshweaver",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -115,7 +115,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshpriest",
+		["name"] = "Toshaman",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -138,6 +138,26 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["doubleclickbo"] = true,
+			["skingmotd"] = true,
+			["skinwas"] = false,
+			["font"] = "Friz Quadrata TT",
+			["changefonts"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
 			["gmotd"] = {
 				["First 3 M EP  WED @ 7pm CST. Mythic EP FRI @ normal raid time. Only raiding FRI this week."] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -156,6 +176,7 @@ BD_persistent = {
 				["Main Raid fri/sat be prepared for ilgy/carapace. Just play better"] = true,
 				["Main Raid fri/sat normal time. if you guys have any stringy loins/meaty haunchs i could use for feasts!"] = true,
 				["i could use meaty haunches/stringy loins please! gj on mekka....come fresh next week slay bosses "] = true,
+				["4 x Mythic BoD Wed (27th) @ 7pm cst."] = true,
 				["Mythic first 3 wed @7pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
 				["Heroic LAST 2 in 15mins please help if youre around. Main Raid Fri/Sat Look up vexiona"] = true,
 				["(ALT)H EP WED @ 7pm CST. Make sure youre ready for new raid.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
@@ -202,11 +223,11 @@ BD_persistent = {
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
-				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["Mythic nzoth fri/sat 830pm cst "] = true,
-				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
+				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
+				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["heroic bod @ 7pm cst wed "] = true,
@@ -222,26 +243,6 @@ BD_persistent = {
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
-			["font"] = "Friz Quadrata TT",
-			["skingmotd"] = true,
-			["changefonts"] = false,
-			["doubleclickbo"] = true,
-			["skinwas"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

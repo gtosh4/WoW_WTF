@@ -1,534 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/plater", -- [1]
-		"mt", -- [2]
-		"/m", -- [3]
+		"/cw Aethael-Area52 no, she just said you couldn't make it", -- [1]
+		"/dn", -- [2]
+		"/cw Andruw-Area52 damn, also since we're lusting / killing a lot earlier it's hard to fit it all in", -- [3]
 		"monkaS my palms are sweating more", -- [4]
-		"/cw Sci yoooo", -- [5]
-		"/cw Sci ineff during", -- [6]
-		"/cw Sci wings", -- [7]
-		"/cw Sci every global is a HS", -- [8]
-		"/cw Sci whaaa", -- [9]
-		"/cw Aethael-Area52 when it's time to start, you whisper jamie \"inv\" and it'll auto-invite you", -- [10]
-		"/cw Aethael-Area52 no, she just said you couldn't make it", -- [11]
-		"/cw Aethael-Area52 is everything alright?", -- [12]
-		"/cw Aethael-Area52 not like you can control internet going down though", -- [13]
-		"/cw Aethael-Area52 I image we'll eventually stop full clearing", -- [14]
-		"/cw Aethael-Area52 imagine*", -- [15]
-		"/cw Aethael-Area52 but probably not for a bit", -- [16]
-		"/tar aeth", -- [17]
-		"/roll", -- [18]
-		"/dn", -- [19]
-		"/cw Andruw-Area52 damn, also since we're lusting / killing a lot earlier it's hard to fit it all in", -- [20]
+		"/cw Aethael-Area52 imagine*", -- [5]
+		"/plater", -- [6]
+		"/cw Aethael-Area52 when it's time to start, you whisper jamie \"inv\" and it'll auto-invite you", -- [7]
+		"/cw Sci ineff during", -- [8]
+		"/cw Sci wings", -- [9]
+		"mt", -- [10]
+		"/m", -- [11]
+		"/cw Sci yoooo", -- [12]
+		"/cw Aethael-Area52 I image we'll eventually stop full clearing", -- [13]
+		"/cw Sci whaaa", -- [14]
+		"/cw Sci every global is a HS", -- [15]
+		"/roll", -- [16]
+		"/cw Aethael-Area52 is everything alright?", -- [17]
+		"/cw Aethael-Area52 not like you can control internet going down though", -- [18]
+		"/cw Aethael-Area52 but probably not for a bit", -- [19]
+		"/grid2", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1280, -- [11]
-			"Player-3676-0AD8DDE1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1590285454,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"{rt3}", -- [1]
-			"Penguindruid-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Penguindruid-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1284, -- [11]
-			"Player-3676-0A59B226", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Penguindruid|r",
-			[51] = 1590285454,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Paranoia", -- [1]
-			"Turkeydos-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Turkeydos-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1285, -- [11]
-			"Player-3676-0AD8E92B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Turkeydos|r",
-			[51] = 1590285455,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"Paranoia", -- [1]
-			"Penguindruid-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Penguindruid-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1286, -- [11]
-			"Player-3676-0A59B226", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Penguindruid|r",
-			[51] = 1590285455,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Paranoia", -- [1]
-			"Toshpal-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1287, -- [11]
-			"Player-3676-0AD8DD4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1590285455,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Paranoia", -- [1]
-			"Steall-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Steall-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1288, -- [11]
-			"Player-3676-0AD8DED7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Steall|r",
-			[51] = 1590285455,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Paranoia", -- [1]
-			"Lyuneria-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lyuneria-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1289, -- [11]
-			"Player-3676-0AD8DDE1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Lyuneria|r",
-			[51] = 1590285455,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"{rt3}", -- [1]
-			"Penguindruid-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Penguindruid-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1294, -- [11]
-			"Player-3676-0A59B226", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Penguindruid|r",
-			[51] = 1590285456,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1296, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285458,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1302, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285473,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1303, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285473,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Mastery Up", -- [1]
-			"Yukî-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukî-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1307, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukî|r",
-			[51] = 1590285481,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Mastery Up", -- [1]
-			"Yukî-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukî-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1329, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukî|r",
-			[51] = 1590285525,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Tier is over, macros are over", -- [1]
-			"Itsyellowy-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Itsyellowy-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1331, -- [11]
-			"Player-3676-0ADA0DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeItsyellowy|r",
-			[51] = 1590285532,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Mastery Up", -- [1]
-			"Yukî-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukî-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1341, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukî|r",
-			[51] = 1590285556,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"E ERrr Voidspawn Annihilator!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1342, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285558,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"Mastery Up", -- [1]
-			"Yukî-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukî-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1349, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukî|r",
-			[51] = 1590285567,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"E ERrr Thought Harvester!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1359, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285585,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"E ERrr Thought Harvester!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1360, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285585,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1365, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285601,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1366, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285601,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1367, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285611,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1368, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590285611,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
 		{
 			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -550,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590285611,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [1]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Area52", -- [2]
@@ -572,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [2]
 		{
 			"Paranoia", -- [1]
 			"Warlockmania-Area52", -- [2]
@@ -594,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [3]
 		{
 			"Paranoia", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -616,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [4]
 		{
 			"Paranoia", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -638,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [5]
 		{
 			"Paranoia", -- [1]
 			"Yukî-Area52", -- [2]
@@ -660,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukî|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [6]
 		{
 			"Paranoia", -- [1]
 			"Lyuneria-Area52", -- [2]
@@ -682,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [7]
 		{
 			"Paranoia", -- [1]
 			"Joannaw-Area52", -- [2]
@@ -704,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJoannaw|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [8]
 		{
 			"Paranoia", -- [1]
 			"Sci-Area52", -- [2]
@@ -726,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [9]
 		{
 			"Paranoia", -- [1]
 			"Kasscading-Area52", -- [2]
@@ -748,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKasscading|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [10]
 		{
 			"^__- run me over daddy -__^", -- [1]
 			"Sci-Area52", -- [2]
@@ -770,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [11]
 		{
 			"Paranoia", -- [1]
 			"Steall-Area52", -- [2]
@@ -792,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Steall|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [12]
 		{
 			"Paranoia", -- [1]
 			"Delpi-Area52", -- [2]
@@ -814,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Delpi|r",
 			[51] = 1590285629,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [13]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Area52", -- [2]
@@ -836,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1590285631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [14]
 		{
 			"Paranoia", -- [1]
 			"Yukî-Area52", -- [2]
@@ -858,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukî|r",
 			[51] = 1590285631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [15]
 		{
 			"Paranoia", -- [1]
 			"Joannaw-Area52", -- [2]
@@ -880,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJoannaw|r",
 			[51] = 1590285631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [16]
 		{
 			"Paranoia", -- [1]
 			"Steall-Area52", -- [2]
@@ -902,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Steall|r",
 			[51] = 1590285631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [17]
 		{
 			"{rt2}", -- [1]
 			"Warlockmania-Area52", -- [2]
@@ -924,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1590285631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [18]
 		{
 			"{rt4}", -- [1]
 			"Penguindruid-Area52", -- [2]
@@ -946,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Penguindruid|r",
 			[51] = 1590285631,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [19]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Area52", -- [2]
@@ -968,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1590285632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [20]
 		{
 			"Paranoia", -- [1]
 			"Joannaw-Area52", -- [2]
@@ -990,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJoannaw|r",
 			[51] = 1590285632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [21]
 		{
 			"Paranoia", -- [1]
 			"Penguindruid-Area52", -- [2]
@@ -1012,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Penguindruid|r",
 			[51] = 1590285632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [22]
 		{
 			"Paranoia", -- [1]
 			"Yukî-Area52", -- [2]
@@ -1034,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukî|r",
 			[51] = 1590285632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [23]
 		{
 			"Paranoia", -- [1]
 			"Steall-Area52", -- [2]
@@ -1056,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Steall|r",
 			[51] = 1590285632,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [24]
 		{
 			"{rt2}", -- [1]
 			"Warlockmania-Area52", -- [2]
@@ -1078,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1590285633,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [25]
 		{
 			"{rt4}", -- [1]
 			"Penguindruid-Area52", -- [2]
@@ -1100,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Penguindruid|r",
 			[51] = 1590285634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [26]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Area52", -- [2]
@@ -1122,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1590285634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [27]
 		{
 			"Paranoia", -- [1]
 			"Yukî-Area52", -- [2]
@@ -1144,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukî|r",
 			[51] = 1590285634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [28]
 		{
 			"Paranoia", -- [1]
 			"Joannaw-Area52", -- [2]
@@ -1166,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJoannaw|r",
 			[51] = 1590285634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [29]
 		{
 			"Paranoia", -- [1]
 			"Penguindruid-Area52", -- [2]
@@ -1188,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Penguindruid|r",
 			[51] = 1590285634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [30]
 		{
 			"Paranoia", -- [1]
 			"Steall-Area52", -- [2]
@@ -1210,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Steall|r",
 			[51] = 1590285634,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [31]
 		{
 			"Paranoia", -- [1]
 			"Thunderrz-Area52", -- [2]
@@ -1232,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz|r",
 			[51] = 1590285635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [32]
 		{
 			"{rt2}", -- [1]
 			"Warlockmania-Area52", -- [2]
@@ -1254,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1590285635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [33]
 		{
 			"Paranoia", -- [1]
 			"Penguindruid-Area52", -- [2]
@@ -1276,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Penguindruid|r",
 			[51] = 1590285635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [34]
 		{
 			"Paranoia", -- [1]
 			"Yukî-Area52", -- [2]
@@ -1298,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Yukî|r",
 			[51] = 1590285635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [35]
 		{
 			"Paranoia", -- [1]
 			"Joannaw-Area52", -- [2]
@@ -1320,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJoannaw|r",
 			[51] = 1590285635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [36]
 		{
 			"{rt4}", -- [1]
 			"Penguindruid-Area52", -- [2]
@@ -1342,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Penguindruid|r",
 			[51] = 1590285635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [37]
 		{
 			"Paranoia", -- [1]
 			"Steall-Area52", -- [2]
@@ -1364,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Steall|r",
 			[51] = 1590285635,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [38]
 		{
 			"Paranoia", -- [1]
 			"Joannaw-Area52", -- [2]
@@ -1386,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cJoannaw|r",
 			[51] = 1590285637,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [39]
 		{
 			":(", -- [1]
 			"Taliaya-Area52", -- [2]
@@ -1408,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTaliaya|r",
 			[51] = 1590285638,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [40]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r cast on Kasscading!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1430,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590285656,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [41]
 		{
 			"|cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r on Kasscading has ended!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1452,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590285657,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [42]
 		{
 			"E ERrr Thought Harvester!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1474,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590285680,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [43]
 		{
 			"are we doing ilgy or no?", -- [1]
 			"Lyuneria-Area52", -- [2]
@@ -1496,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Lyuneria|r",
 			[51] = 1590285745,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [44]
 		{
 			"i dont feel like clearing trash", -- [1]
 			"Sci-Area52", -- [2]
@@ -1518,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590285756,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [45]
 		{
 			"so no", -- [1]
 			"Sci-Area52", -- [2]
@@ -1540,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590285757,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [46]
 		{
 			"(:", -- [1]
 			"Sci-Area52", -- [2]
@@ -1562,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590285763,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [47]
 		{
 			"same", -- [1]
 			"Penguindruid-Area52", -- [2]
@@ -1584,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Penguindruid|r",
 			[51] = 1590285764,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [48]
 		{
 			"9 coin rolls in a row. AP every damn time", -- [1]
 			"Kasscading-Area52", -- [2]
@@ -1606,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKasscading|r",
 			[51] = 1590285766,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [49]
 		{
 			"heck that boss", -- [1]
 			"Sci-Area52", -- [2]
@@ -1628,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590285792,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [50]
 		{
 			"ECHOS?", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1650,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590285870,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [51]
 		{
 			"WHO WANTS THIS EXTRA FLASK", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1672,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1590285877,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [52]
 		{
 			"me", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1694,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1590285881,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [53]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -1716,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590285918,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [54]
 		{
 			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We clear & progress M on Tues/Thurs @ 8pm server and we full clear heroic on Wed 8pm. PST for ", -- [1]
 			"Corohuntero-Area52", -- [2]
@@ -1738,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Corohuntero|r",
 			[51] = 1590285919,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [55]
 		{
 			"tried that 4 meta shit, 2nd one around 4:30 doesnt make it to the boss :(", -- [1]
 			"Andruw-Area52", -- [2]
@@ -1760,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruw|r",
 			[51] = 1590285920,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [79]
+		}, -- [56]
 		{
 			"WTS Freehold Powerleveling 110-120 5k pLvl with looms 7k per without PST", -- [1]
 			"Dartsnfarts-Area52", -- [2]
@@ -1782,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Dartsnfarts|r",
 			[51] = 1590285928,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [57]
 		{
 			"WTS Horrific Visions Carry, 3 Mask for 60k, 4 Mask for 80k, No mask cloak upgrades also available pst", -- [1]
 			"Korlicx-Area52", -- [2]
@@ -1804,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Korlicx|r",
 			[51] = 1590285929,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [58]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -1826,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286004,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [59]
 		{
 			"damn, also since we're lusting / killing a lot earlier it's hard to fit it all in", -- [1]
 			"Andruw-Area52", -- [2]
@@ -1848,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruw|r",
 			[51] = 1590286004,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [83]
+		}, -- [60]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -1870,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590286012,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [61]
 		{
 			"ended up being there for lust since we were slow", -- [1]
 			"Andruw-Area52", -- [2]
@@ -1892,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruw|r",
 			[51] = 1590286024,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [85]
+		}, -- [62]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -1914,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286024,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [63]
 		{
 			"but boss dmg though", -- [1]
 			"Andruw-Area52", -- [2]
@@ -1936,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruw|r",
 			[51] = 1590286034,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [87]
+		}, -- [64]
 		{
 			"PIPING", -- [1]
 			"Andruw-Area52", -- [2]
@@ -1958,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Andruw|r",
 			[51] = 1590286036,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [88]
+		}, -- [65]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -1980,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1590286051,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [66]
 		{
 			"i mean i dont really care about the shield", -- [1]
 			"Sci-Area52", -- [2]
@@ -2002,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590286053,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [67]
 		{
 			"its legit", -- [1]
 			"Sci-Area52", -- [2]
@@ -2024,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590286055,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [68]
 		{
 			"not really an upgrade", -- [1]
 			"Sci-Area52", -- [2]
@@ -2046,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci|r",
 			[51] = 1590286058,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [69]
 		{
 			">>>W]EEKEND SALE<<< WTS M+ 10-18 keys. Armor stacks & specific keys available! WTS Horrific Vision 0-5 masks guaranteed. WTS Mythic & Heroic Nyalotha full clears with funneling options. GOLD ONLY. PST for info/reserve", -- [1]
 			"Ariennea-Area52", -- [2]
@@ -2068,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ariennea|r",
 			[51] = 1590286077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [70]
 		{
 			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We clear & progress M on Tues/Thurs @ 8pm server and we full clear heroic on Wed 8pm. PST for ", -- [1]
 			"Corohuntero-Area52", -- [2]
@@ -2090,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Corohuntero|r",
 			[51] = 1590286080,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [71]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2112,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286093,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [72]
 		{
 			"WTS Horrific Visions Carry, 3 Mask for 60k, 4 Mask for 80k, No mask cloak upgrades also available pst", -- [1]
 			"Korlicx-Area52", -- [2]
@@ -2134,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Korlicx|r",
 			[51] = 1590286096,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [73]
 		{
 			"WTS +15 Keys! 2.4kio group ready to go. All tradeable loot yours. Cheapest prices on server! PST!", -- [1]
 			"Søyboy-Area52", -- [2]
@@ -2156,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Søyboy|r",
 			[51] = 1590286106,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [74]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2178,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590286110,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [75]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2200,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286115,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [76]
 		{
 			"FLASH SALE // FULL HEROIC NY'ALOTHA RAID CLEAR RUN BY 12/12M RAIDERS CHEAP, STARTING @1AM EST!! GOLD ONLY // PST FOR PRICES <3 ", -- [1]
 			"Nezukoo-Area52", -- [2]
@@ -2222,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Nezukoo|r",
 			[51] = 1590286133,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [77]
 		{
 			"Selling mythic +15 (IN TIME)done by 3k+ io players, 475+ guaranteed corruption end of the week and chance at 465+ loot at the end of the key. (Gold Only) we use our Keys Pst if interested. 165k", -- [1]
 			"Perroblast-Area52", -- [2]
@@ -2244,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Perroblast|r",
 			[51] = 1590286147,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [78]
 		{
 			">>>W]EEKEND SALE<<< WTS M+ 10-18 keys. Armor stacks & specific keys available! WTS Horrific Vision 0-5 masks guaranteed. WTS Mythic & Heroic Nyalotha full clears with funneling options. GOLD ONLY. PST for info/reserve", -- [1]
 			"Ariennea-Area52", -- [2]
@@ -2266,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ariennea|r",
 			[51] = 1590286172,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [79]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2288,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286172,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [80]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2310,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590286208,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [81]
 		{
 			"WTS Horrific Visions Carry, 3 Mask for 60k, 4 Mask for 80k, No mask cloak upgrades also available pst", -- [1]
 			"Korlicx-Area52", -- [2]
@@ -2332,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Korlicx|r",
 			[51] = 1590286211,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [82]
 		{
 			"[WTS] Freehold carries 110-120 Cheap! PM Me! GOLD ONLY!", -- [1]
 			"Mâgiccâctus-Area52", -- [2]
@@ -2354,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Mâgiccâctus|r",
 			[51] = 1590286222,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [83]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2376,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286268,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [84]
 		{
 			"WTS +15 Keys! 2.4kio group ready to go. All tradeable loot yours. Cheapest prices on server! PST!", -- [1]
 			"Søyboy-Area52", -- [2]
@@ -2398,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Søyboy|r",
 			[51] = 1590286301,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [85]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2420,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590286308,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [86]
 		{
 			"WTS AOTC NZOTH KILL, Come for your |cff71d5ff|Hspell:302143:0|h[Uncorrupted Voidwing]|h|r and your 470 P loot. Over 100 Kills Sold. We are ready to Go!", -- [1]
 			"Eredín-Area52", -- [2]
@@ -2442,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Eredín|r",
 			[51] = 1590286349,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [87]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2464,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286354,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [88]
 		{
 			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We clear & progress M on Tues/Thurs @ 8pm server and we full clear heroic on Wed 8pm. PST for ", -- [1]
 			"Corohuntero-Area52", -- [2]
@@ -2486,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Corohuntero|r",
 			[51] = 1590286361,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [89]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2508,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286366,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [90]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2530,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590286401,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [91]
 		{
 			"WTS +15 Keys! 2.4kio group ready to go. All tradeable loot yours. Cheapest prices on server! PST!", -- [1]
 			"Søyboy-Area52", -- [2]
@@ -2552,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Søyboy|r",
 			[51] = 1590286414,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [92]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2574,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286441,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [93]
 		{
 			"WTS 2s rating, also doing freehold leveling (for gold only) <Twitch Prime> selling heroic ny'alotha full clears (gold only) PST", -- [1]
 			"Ferdlol-Area52", -- [2]
@@ -2596,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ferdlol|r",
 			[51] = 1590286460,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [94]
 		{
 			"WTS 5 Mask Horrific Vision Carry w/ all chests/pages complete. Completing for you with ANY LEVEL CLOAK! Guaranteed 470 iLvl Corruption Gear & Maximum Echoes of Ny'alotha. PST.", -- [1]
 			"Lanteranth-Area52", -- [2]
@@ -2618,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Lanteranth|r",
 			[51] = 1590286462,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [95]
 		{
 			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We clear & progress M on Tues/Thurs @ 8pm server and we full clear heroic on Wed 8pm. PST for ", -- [1]
 			"Corohuntero-Area52", -- [2]
@@ -2640,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Corohuntero|r",
 			[51] = 1590286468,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [96]
 		{
 			"WTS AOTC TONIGHT @ 11 PM EST! Get your achiev and mount! PST for more details. Gold only.", -- [1]
 			"Ezawix-Area52", -- [2]
@@ -2662,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ezawix|r",
 			[51] = 1590286483,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [97]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2684,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590286497,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [98]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2706,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286526,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [99]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -2728,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1590286540,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [100]
 		{
 			">>>W]EEKEND SALE<<< WTS M+ 10-18 keys. Armor stacks & specific keys available! WTS Horrific Vision 0-5 masks guaranteed. WTS Mythic & Heroic Nyalotha full clears with funneling options. GOLD ONLY. PST for info/reserve", -- [1]
 			"Ariennea-Area52", -- [2]
@@ -2750,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ariennea|r",
 			[51] = 1590286540,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [101]
 		{
 			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We clear & progress M on Tues/Thurs @ 8pm server and we full clear heroic on Wed 8pm. PST for ", -- [1]
 			"Corohuntero-Area52", -- [2]
@@ -2772,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Corohuntero|r",
 			[51] = 1590286566,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [102]
 		{
 			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
 			"Snstrbankalt-Area52", -- [2]
@@ -2794,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSnstrbankalt|r",
 			[51] = 1590286592,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [103]
 		{
 			"WTS 4 MASK VISiON CARRY 125K GOLD", -- [1]
 			"Gandriel-Area52", -- [2]
@@ -2815,6 +2309,512 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cff3ec5e9Gandriel|r",
 			[51] = 1590286597,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We clear & progress M on Tues/Thurs @ 8pm server and we full clear heroic on Wed 8pm. PST for ", -- [1]
+			"Corohuntero-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Corohuntero-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-3676-0AC8B473", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Corohuntero|r",
+			[51] = 1590456602,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"WTS TIMED +15 carries, comes get your 475 gear for next week! Multiple runs at a discount PST (GOLD ONLY)", -- [1]
+			"Chicknwing-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chicknwing-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-3676-0A3F5F3E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Chicknwing|r",
+			[51] = 1590456607,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"WTS TIMED +15 carries, comes get your 475 gear for next week! Multiple runs at a discount PST (GOLD ONLY)", -- [1]
+			"Chicknwing-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chicknwing-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			38, -- [11]
+			"Player-3676-0A3F5F3E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Chicknwing|r",
+			[51] = 1590456632,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"FLASH SALE // FULL HEROIC NY'ALOTHA RAID CLEAR RUN BY 12/12M RAIDERS CHEAP, STARTING @10:30PM EST!! GOLD ONLY // PST FOR PRICES <3 ", -- [1]
+			"Nezukoo-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nezukoo-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-3676-0AAE8F15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Nezukoo|r",
+			[51] = 1590456657,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			">>WEEKEND SUPER DEAL<< WTS Low Price M+ 12-18 keys. Specific keys and armor stacks are available || WTS Heroic Nyalotha full clears with funneling options || WTS Horrific Vision 0-5 masks guaranteed || WTS Jaina/Nzoth Mount || ONLY FOR GOLD ", -- [1]
+			"Jirtleenda-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jirtleenda-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-3676-0ADB0230", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJirtleenda|r",
+			[51] = 1590460040,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"Selling NWC full Heroic/Mythic with loot funnel!Mounts|cffa335ee|Hitem:174872::::::::1:269::6:1:3524:::|h[Ny'alotha Allseer]|h|r/|cffa335ee|Hitem:166705::::::::1:269::6:1:3524:::|h[Glacial Tidestorm]|h|r Best Price! PST", -- [1]
+			"Eiaitu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Eiaitu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-3676-0AD89E8A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Eiaitu|r",
+			[51] = 1590460044,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			">>WEEKEND SUPER DEAL<< WTS Low Price M+ 12-18 keys. Specific keys and armor stacks are available || WTS Heroic Nyalotha full clears with funneling options || WTS Horrific Vision 0-5 masks guaranteed || WTS Jaina/Nzoth Mount || ONLY FOR GOLD ", -- [1]
+			"Jirtleenda-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jirtleenda-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-3676-0ADB0230", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcJirtleenda|r",
+			[51] = 1590460082,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"<Astral> - 12/12M Selling Mythic Ny'alotha Tuesday @ 9pm est Bundle bosses together for a cheaper price! We only sell for GOLD ONLY! PST for pricing", -- [1]
+			"Janakana-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Janakana-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			37, -- [11]
+			"Player-3676-0ADD5452", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Janakana|r",
+			[51] = 1590460085,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"Warden's community is offering Carapace + Nzoth runs. Come get your Aotc for ONLY 120k. Ask us about our combo deal. Dm for more GOING NOW RUNS EVERY 15 MINS", -- [1]
+			"Raidgrill-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Raidgrill-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-3676-0ABA6436", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Raidgrill|r",
+			[51] = 1590460088,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We are currently recruiting ranged dps. pst for info", -- [1]
+			"Corohuntero-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Corohuntero-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			40, -- [11]
+			"Player-3676-0AC8B473", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Corohuntero|r",
+			[51] = 1590460092,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"Selling NWC full Heroic/Mythic with loot funnel!Mounts|cffa335ee|Hitem:174872::::::::1:269::6:1:3524:::|h[Ny'alotha Allseer]|h|r/|cffa335ee|Hitem:166705::::::::1:269::6:1:3524:::|h[Glacial Tidestorm]|h|r Best Price! PST", -- [1]
+			"Eiaitu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Eiaitu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			42, -- [11]
+			"Player-3676-0AD89E8A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Eiaitu|r",
+			[51] = 1590460098,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"WTS 12/12 Heroic Ny'alotha and Aotc runs, very cheap price, Gold Only, the fastest raid clear around, STARTING NOW!!", -- [1]
+			"Gamdaa-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gamdaa-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			43, -- [11]
+			"Player-3676-0AD2F58D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cGamdaa|r",
+			[51] = 1590460100,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			">>>FREE ARMOR STACKING<<< WTS M+ 10-18 keys. Specific keys available! WTS Horrific Vision 0-5 masks guaranteed. GOLD ONLY. PST for info/reserve", -- [1]
+			"Ariennea-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ariennea-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-3676-0ADB770B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Ariennea|r",
+			[51] = 1590460105,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"ty", -- [1]
+			"Blueflame-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blueflame-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-9-0AF42949", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cBlueflame-Kil'jaeden|r",
+			[51] = 1590460288,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [118]
+		{
+			" /use Heart Essence", -- [1]
+			"Rivalry-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590460311,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [119]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:300650:0|h[Suffocating Smog]|h|r", -- [1]
+			"Rivalry-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590460643,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [120]
+		{
+			"Scrap Cannon on Turkeyuno", -- [1]
+			"Turkeyuno-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyuno-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			124, -- [11]
+			"Player-3676-0A5394CE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyuno|r",
+			[51] = 1590460818,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [121]
+		{
+			"Scrap Cannon on Rivalry", -- [1]
+			"Rivalry-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			132, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590461021,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [122]
+		{
+			"Scrap Cannon on Turkeyuno", -- [1]
+			"Turkeyuno-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyuno-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			133, -- [11]
+			"Player-3676-0A5394CE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Turkeyuno|r",
+			[51] = 1590461032,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [123]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:403:Player-3676-0AD96CC7:1:5:25:20:4294967295:4294967295:4294967295:4294967295|h[Three's Company: 1750]|h|r!", -- [1]
+			"Yukî-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Yukî-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			178, -- [11]
+			"Player-3676-0AD96CC7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Yukî|r",
+			[51] = 1590461465,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [124]
+		{
+			"Rivalry interrupted |cff71d5ff|Hspell:301689:0|h[Charged Coil]|h|r", -- [1]
+			"Rivalry-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Rivalry-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			180, -- [11]
+			"Player-3676-0AD91DE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Rivalry|r",
+			[51] = 1590461513,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [125]
+		{
+			"Astral Keys: New key |cffa335ee|Hkeystone:158923:250:19:9:6:4:120|h[Keystone: Temple of Sethraliss (19)]|h|r", -- [1]
+			"Toshpal-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshpal-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			199, -- [11]
+			"Player-3676-0AD8DD4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Toshpal|r",
+			[51] = 1590461694,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [126]
+		{
+			"Warden's community is offering Carapace + Nzoth runs. Come get your Aotc for ONLY 120k. Ask us about our combo deal. Dm for more GOING NOW RUNS EVERY 15 MINS", -- [1]
+			"Raidgrill-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Raidgrill-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			212, -- [11]
+			"Player-3676-0ABA6436", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Raidgrill|r",
+			[51] = 1590461755,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

@@ -25,11 +25,11 @@ JambaQuestWatcherProfileDB = {
 			["watcherFrameRelativePoint"] = "TOPRIGHT",
 			["watcherFrameYOffset"] = -237.6288909912109,
 			["enableQuestWatcher"] = false,
-			["watcherFrameXOffset"] = -286.7917785644531,
-			["hideQuestIfAllComplete"] = true,
-			["unlockWatcherFrame"] = false,
-			["watcherFramePoint"] = "TOPRIGHT",
 			["enableQuestWatcherOnMasterOnly"] = true,
+			["watcherFramePoint"] = "TOPRIGHT",
+			["unlockWatcherFrame"] = false,
+			["hideQuestIfAllComplete"] = true,
+			["watcherFrameXOffset"] = -286.7917785644531,
 		},
 		["Daggny - Frostwolf"] = {
 		},
@@ -53,16 +53,16 @@ JambaQuestWatcherProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
 			["enableQuestWatcher"] = false,
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Toshmoney - Quel'dorei"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosh - Frostwolf"] = {
+		},
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

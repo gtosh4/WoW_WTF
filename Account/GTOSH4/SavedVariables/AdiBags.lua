@@ -19,16 +19,16 @@ AdiBagsDB = {
 						[137059] = "Equipment#LegionLeg",
 						[132444] = "Equipment#LegionLeg",
 						[132452] = "Equipment#LegionLeg",
-						[151644] = "Equipment#LegionLeg",
+						[168624] = "Miscellaneous#Miscellaneous",
 						[137048] = "Equipment#LegionLeg",
 						[144275] = "Equipment#LegionLeg",
 						[151812] = "Equipment#LegionLeg",
 						[151813] = "Equipment#LegionLeg",
 						[152626] = "Equipment#LegionLeg",
-						[140846] = "Equipment#LegionLeg",
 						[137017] = "Equipment#LegionLeg",
+						[140846] = "Equipment#LegionLeg",
 						[137076] = "Equipment#LegionLeg",
-						[168624] = "Miscellaneous#Miscellaneous",
+						[151644] = "Equipment#LegionLeg",
 					},
 				},
 			},
@@ -51,17 +51,13 @@ AdiBagsDB = {
 		},
 		["Rogue Lockboxes"] = {
 		},
-		["Mechagon Tinkering"] = {
-		},
 		["TBC"] = {
+		},
+		["Mechagon Tinkering"] = {
 		},
 		["ItemSets"] = {
 		},
 		["Junk"] = {
-		},
-		["DataSource"] = {
-		},
-		["MoneyFrame"] = {
 		},
 		["WoD"] = {
 			["profiles"] = {
@@ -73,14 +69,41 @@ AdiBagsDB = {
 		},
 		["PriorExpansion"] = {
 		},
+		["BfA"] = {
+			["profiles"] = {
+				["Default"] = {
+					["RaidEquipment"] = false,
+					["DungeonEquipment"] = false,
+				},
+			},
+		},
+		["MoneyFrame"] = {
+		},
 		["Chests and Bags"] = {
 		},
 		["ItemCategory"] = {
 		},
-		["Equipment"] = {
+		["CurrencyFrame"] = {
 			["profiles"] = {
 				["Default"] = {
-					["dispatchRule"] = "one",
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Brawler's Gold"] = false,
+						["Legionfall War Supplies"] = false,
+						["Timeworn Artifact"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Garrison Resources"] = false,
+						["Wakening Essence"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Order Resources"] = false,
+						["Veiled Argunite"] = false,
+						["Curious Coin"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Apexis Crystal"] = false,
+						["Champion's Seal"] = false,
+						["Timewarped Badge"] = false,
+					},
 				},
 			},
 		},
@@ -119,39 +142,16 @@ AdiBagsDB = {
 		},
 		["ItemLevel"] = {
 		},
-		["CurrencyFrame"] = {
+		["Equipment"] = {
 			["profiles"] = {
 				["Default"] = {
-					["shown"] = {
-						["Ancient Mana"] = false,
-						["Brawler's Gold"] = false,
-						["Timewarped Badge"] = false,
-						["Seal of Broken Fate"] = false,
-						["Nethershard"] = false,
-						["Timeworn Artifact"] = false,
-						["Apexis Crystal"] = false,
-						["Wakening Essence"] = false,
-						["Garrison Resources"] = false,
-						["Order Resources"] = false,
-						["Veiled Argunite"] = false,
-						["Seal of Tempered Fate"] = false,
-						["Curious Coin"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Champion's Seal"] = false,
-						["Legionfall War Supplies"] = false,
-					},
+					["dispatchRule"] = "one",
 				},
 			},
 		},
 		["Bound"] = {
 		},
-		["BfA"] = {
-			["profiles"] = {
-				["Default"] = {
-					["RaidEquipment"] = false,
-					["DungeonEquipment"] = false,
-				},
-			},
+		["DataSource"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -168,21 +168,24 @@ AdiBagsDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Default",
 		["Toshmoney - Quel'dorei"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpala - Illidan"] = "Default",
+		["Sumex - Frostwolf"] = "Default",
+		["Toshtrial - Blood Furnace"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Toshtrial - Blood Furnace"] = "Default",
-		["Sumex - Frostwolf"] = "Default",
+		["Toshpala - Illidan"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshwar - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Bank"] = 10,
+				["Backpack"] = 10,
+			},
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = -161.006103515625,
@@ -192,10 +195,7 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["columnWidth"] = {
-				["Backpack"] = 10,
-				["Bank"] = 10,
-			},
+			["scale"] = 0.9,
 			["rightClickConfig"] = false,
 			["autoDeposit"] = true,
 		},

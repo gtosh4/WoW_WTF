@@ -12,28 +12,28 @@ AltoholicDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Sharing"] = {
-			["Clients"] = {
-				"Tosh|1", -- [1]
-			},
 			["Domains"] = {
 				["Tosh.Kil'jaeden"] = {
-					["lastUpdatedWith"] = "Tosh",
 					["lastSharingTimestamp"] = 1556407707,
+					["lastUpdatedWith"] = "Tosh",
 				},
+			},
+			["Clients"] = {
+				"Tosh|1", -- [1]
 			},
 		},
 		["options"] = {

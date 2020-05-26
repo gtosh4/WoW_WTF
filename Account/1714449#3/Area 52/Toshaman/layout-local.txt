@@ -34,6 +34,13 @@ X: 0
 Y: 0
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -551
+Y: 338
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -41,13 +48,6 @@ X: 0
 Y: 0
 W: 320
 H: 550
-Frame: scanner_button
-FrameLevel: 200
-Anchor: BOTTOM
-X: 0
-Y: 128
-W: 200
-H: 50
 Frame: SimcCopyFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -62,10 +62,24 @@ X: 0
 Y: 0
 W: 635
 H: 200
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -551
-Y: 338
-W: 520
-H: 1
+Frame: PlaterOptionsPanelFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 2
+Y: 2
+W: 1100
+H: 650
+Frame: scanner_button
+FrameLevel: 200
+Anchor: BOTTOM
+X: 0
+Y: 128
+W: 200
+H: 50
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: TOP
+X: 576
+Y: -193
+W: 489
+H: 372
