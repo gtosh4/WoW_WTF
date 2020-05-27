@@ -136,9 +136,9 @@ JambaTeamProfileDB = {
 		["Default"] = {
 			["characterOnline"] = {
 				["Toshpal-Kil'jaeden"] = false,
-				["Toshpriest-Area52"] = false,
+				["Toshpriest-Area52"] = true,
 				["Toshpal-Area52"] = false,
-				["Toshaman-Area52"] = true,
+				["Toshaman-Area52"] = false,
 				["Toshdk-Kil'Jaeden"] = true,
 				["Toshdk-Kil'jaeden"] = false,
 			},

@@ -15,10 +15,10 @@ DataStore_AgendaDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -28,7 +28,7 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-05-26",
+			["NextWeeklyReset"] = "2020-06-02",
 		},
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
@@ -45,9 +45,6 @@ DataStore_AgendaDB = {
 					["Toshmonk"] = {
 						["note"] = "",
 					},
-				},
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|390121716"] = "472289|1590032909|0|1",
 				},
 				["lastUpdate"] = 1590032915,
 			},
@@ -67,10 +64,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1588222062,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|390109541"] = "41158|1590464040|0|1",
-				},
-				["lastUpdate"] = 1590464039,
+				["lastUpdate"] = 1590550297,
 			},
 			["Default.Illidan.Toshpala"] = {
 				["lastUpdate"] = 1589759772,
@@ -79,11 +73,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1581544133,
 			},
 			["Default.Area 52.Toshpal"] = {
-				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|376368622"] = "43444|1590461754|0|1",
-					["Battle of Dazar'alor Mythic|376038412"] = "43444|1590461754|0|1",
-				},
-				["lastUpdate"] = 1590461753,
+				["lastUpdate"] = 1590550714,
 			},
 			["Default.Frostwolf.Sumex"] = {
 				["lastUpdate"] = 1581544171,

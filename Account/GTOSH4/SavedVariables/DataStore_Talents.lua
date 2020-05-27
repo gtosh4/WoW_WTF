@@ -15,10 +15,10 @@ DataStore_TalentsDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -48,7 +48,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1590464039,
+				["lastUpdate"] = 1590550230,
 				["Specializations"] = {
 					14697, -- [1]
 					0, -- [2]
@@ -72,7 +72,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1590461753,
+				["lastUpdate"] = 1590550361,
 				["Specializations"] = {
 					6009, -- [1]
 					14777, -- [2]
@@ -151,10 +151,10 @@ DataStore_TalentsRefDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",

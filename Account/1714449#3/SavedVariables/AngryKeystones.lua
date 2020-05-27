@@ -4,52 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 370,
-		["splits"] = {
-			227, -- [1]
-			688, -- [2]
-			1719, -- [3]
-			2953, -- [4]
-			2081, -- [5]
-			["party1Name"] = "Toshaman",
-			["party1Class"] = "Shaman",
-			["party4Class"] = "Priest",
-			["party2Name"] = "Fiery",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 1920,
-			["level"] = 17,
-			["timeElapsed"] = 2953.433,
-			["party3Role"] = "TANK",
-			["affixes3"] = 4,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Evanpal",
-			["affixes2"] = 6,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Evojai",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Paladin",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Mage",
-			["mapID"] = 2097,
-			["party2Role"] = "DAMAGER",
-			["date"] = 1590459812,
-			["party2Class"] = "Mage",
-			["party5Name"] = "Turkeyuno",
-		},
 		["playerDeaths"] = {
-			["Turkeyuno"] = 4,
-			["Evanpal"] = 7,
-			["Evojai"] = 9,
-			["Fiery-Kil'jaeden"] = 4,
-			["Toshaman"] = 5,
-		},
-		["splitNames"] = {
-			"Tussle Tonks defeated", -- [1]
-			"K.U.-J.0. defeated", -- [2]
-			"Machinist's Garden defeated", -- [3]
-			"King Mechagon defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -439,9 +394,9 @@ AngryKeystones_Data = {
 			[6] = 9,
 		},
 		[155433] = {
-			[4] = 66,
 			[7] = 3,
 			[9] = 11,
+			[4] = 66,
 		},
 		[138187] = {
 			[4] = 104,
@@ -707,11 +662,11 @@ AngryKeystones_Data = {
 		[128551] = {
 			[4] = 132,
 		},
-		[150154] = {
-			[4] = 1,
-		},
 		[135846] = {
 			[2] = 4,
+		},
+		[150154] = {
+			[4] = 1,
 		},
 		[138465] = {
 			[4] = 14,
@@ -753,11 +708,11 @@ AngryKeystones_Data = {
 		[134005] = {
 			23, -- [1]
 		},
-		[134251] = {
-			[4] = 9,
-		},
 		[136295] = {
 			[13] = 6,
+		},
+		[134251] = {
+			[4] = 9,
 		},
 		[139425] = {
 			[4] = 12,
@@ -769,14 +724,15 @@ AngryKeystones_Data = {
 			3, -- [1]
 			[4] = 1,
 		},
-		[127488] = {
-			[7] = 41,
-		},
-		[130011] = {
-			[4] = 26,
-		},
 		[152009] = {
 			[5] = 9,
+		},
+		[130522] = {
+			[2] = 170,
+			[6] = 1,
+		},
+		[127488] = {
+			[7] = 41,
 		},
 		[137989] = {
 			140, -- [1]
@@ -784,9 +740,8 @@ AngryKeystones_Data = {
 		[129369] = {
 			[8] = 1,
 		},
-		[130522] = {
-			[2] = 170,
-			[6] = 1,
+		[130011] = {
+			[4] = 26,
 		},
 		[133463] = {
 			[12] = 3,
@@ -868,9 +823,9 @@ AngryKeystones_Data = {
 			[4] = 31,
 		},
 		[155434] = {
-			[4] = 113,
 			[7] = 6,
 			[9] = 8,
+			[4] = 113,
 		},
 		[131445] = {
 			[9] = 8,

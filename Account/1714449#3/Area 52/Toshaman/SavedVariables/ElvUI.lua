@@ -24,1612 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"1", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1255, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590209749,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"1", -- [1]
-			"Evangelos-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Evangelos-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1257, -- [11]
-			"Player-3676-0AD9382C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Evangelos|r",
-			[51] = 1590209749,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"1", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1259, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1590209749,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1268, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209758,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1269, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209758,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1270, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209758,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"Yukî ", -- [1]
-			"Yukî-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukî-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1271, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukî|r",
-			[51] = 1590209760,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"N'lyeth ez UOVssh za Zuq'nish", -- [1]
-			"Sploshey-Area52", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Sploshey-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1277, -- [11]
-			"Player-3676-0AD90263", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecSploshey|r",
-			[51] = 1590209763,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1280, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209768,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1281, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209768,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1282, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209768,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1284, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209769,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1285, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1590209769,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14054:Player-3676-0AD8DE97:1:5:22:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Carapace of N'Zoth]|h|r!", -- [1]
-			"Rathux-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rathux-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1290, -- [11]
-			"Player-3676-0AD8DE97", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Rathux|r",
-			[51] = 1590209771,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [14]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14054:Player-3676-0ABA42D1:1:5:22:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Carapace of N'Zoth]|h|r!", -- [1]
-			"Durantye-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Durantye-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1291, -- [11]
-			"Player-3676-0ABA42D1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeDurantye|r",
-			[51] = 1590209771,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [15]
-		{
-			"poggers", -- [1]
-			"Sci-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1315, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1590209808,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"port wep", -- [1]
-			"Sci-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1316, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1590209809,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"prot*", -- [1]
-			"Sci-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1318, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1590209812,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"o does anyone have a crit ring enchant", -- [1]
-			"Itsyellowy-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Itsyellowy-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1320, -- [11]
-			"Player-3676-0ADA0DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeItsyellowy|r",
-			[51] = 1590209822,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
-			"yea tehkz does", -- [1]
-			"Sci-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1323, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1590209843,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
-		{
-			"oh..", -- [1]
-			"Sci-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1324, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1590209845,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"<The Gallywix Community> || WTS Weekend Heroic Nya'lotha and M+ SPECIALS! M+10-20s, run by 2.7k+ io players. Cheap M10 & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee. GOLD ONLY", -- [1]
-			"Trulion-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Trulion-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1329, -- [11]
-			"Player-3676-0AA428F6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Trulion|r",
-			[51] = 1590209861,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"WoW needs VR Support", -- [1]
-			"Puppetpal-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Puppetpal-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1330, -- [11]
-			"Player-3676-0ADB3695", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Puppetpal|r",
-			[51] = 1590209864,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-124830-3676-76854209|h[Guild: Recess]|h|r LF some casual gamers with some thicc personalities. Level up with us, run some mythics, and some casual raids Tuesdays at 8:30PM Realm Time", -- [1]
-			"Sakku-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sakku-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1331, -- [11]
-			"Player-3676-08786F89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Sakku|r",
-			[51] = 1590209866,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"<Divergence> (12/12M) is selling Mythic Ny'alotha Tuesdays at 8:45 EST.  PST for more information.", -- [1]
-			"Pravùs-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pravùs-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1332, -- [11]
-			"Player-3676-0A918775", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecPravùs|r",
-			[51] = 1590209868,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
-			"Snstrbankalt-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Snstrbankalt-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1333, -- [11]
-			"Player-3676-0AA55A69", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecSnstrbankalt|r",
-			[51] = 1590209870,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"[@mouseover,harm,nodead,nomod]Lightning Bolt;", -- [1]
-			"Woepan-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Woepan-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1334, -- [11]
-			"Player-3676-0AD18453", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWoepan|r",
-			[51] = 1590209878,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"[@mouseover,harm,nodead,mod:shift]Chain Lightning;", -- [1]
-			"Woepan-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Woepan-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1335, -- [11]
-			"Player-3676-0AD18453", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcWoepan|r",
-			[51] = 1590209878,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"WTS +15 Keys (All Timed) and Hertz Locker. Earn Lots of AP, Resdiuum, Echos, Gear Funneling and 475+ Corrupted Gear in your weekly Cache tomorrow. Team is ready to go right now. Cheap!", -- [1]
-			"Shîppo-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shîppo-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1336, -- [11]
-			"Player-3676-0AAD6D0D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cShîppo|r",
-			[51] = 1590209884,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"<Inquisition> 3/12 M NYA seeking 1 healer (pref Paladin) and exceptional RDps for mythic progression.  ILVL 460+. Raid days are Fri /Sat 9:30 pm server to 12:30 AM server Cauals & Alts Welcome. Pst for info.", -- [1]
-			"Bowwjack-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bowwjack-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1338, -- [11]
-			"Player-3676-09943D6F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Bowwjack|r",
-			[51] = 1590209887,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"Carry run done by a group of 3.5k+ players. Key is provided. All loot will be yours. Get 465 gears and your weekly chest done the easy way! Consistently 1 chest timing! PM for more info! PS: We also do key pushes if you prefer for M+ score.", -- [1]
-			"Acerunner-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Acerunner-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1344, -- [11]
-			"Player-3676-0ACAF73E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Acerunner|r",
-			[51] = 1590209898,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"imagine how lit ERP would be in VR", -- [1]
-			"Puppetpal-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Puppetpal-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1345, -- [11]
-			"Player-3676-0ADB3695", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Puppetpal|r",
-			[51] = 1590209902,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"WTS Cooking Kits,0-175, I spent the time collecting for you! Get Max Cooking QUICK. Kind and patient service.Only 10k,  pst me if you have questions.:) ", -- [1]
-			"Araeghar-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Araeghar-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1346, -- [11]
-			"Player-3676-0A04255E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Araeghar|r",
-			[51] = 1590209907,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"WTS Mythic+10-15 for 460ilvl  tradable loots and 465-475 weekly chest,Heroic Ny'alotha 12/12 PL,FULL 460 Gear,Unlock|cffffff00|Hachievement:14146:Player-3676-0ADC1E69:0:0:0:-1:0:0:0:0|h[Glory of the Ny'alotha Raider]|h|r,Mechagon 8/8 HM for Mount,Also Visions Cloak Rank can do now PST", -- [1]
-			"Favikzak-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Favikzak-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1348, -- [11]
-			"Player-3676-0ADC1E69", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Favikzak|r",
-			[51] = 1590209907,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			">> CHEAP TIMED 15s << Selling +15-18 << || Timed || Specific Keys. GOLD ONLY ", -- [1]
-			"Wolfdh-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wolfdh-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1350, -- [11]
-			"Player-3676-0ACD6B54", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Wolfdh|r",
-			[51] = 1590209912,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"DONT PAY FOR THESE NZOTH SHIT THEY SCAM", -- [1]
-			"Calientes-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Calientes-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1352, -- [11]
-			"Player-3676-09F32791", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Calientes|r",
-			[51] = 1590209922,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"WTS +15 Keys (All Timed) and Hertz Locker. Earn Lots of AP, Resdiuum, Echos, Gear Funneling and 475+ Corrupted Gear in your weekly Cache tomorrow. Team is ready to go right now. Cheap!", -- [1]
-			"Shîppo-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Shîppo-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1355, -- [11]
-			"Player-3676-0AAD6D0D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cShîppo|r",
-			[51] = 1590209931,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-124830-3676-76854209|h[Guild: Recess]|h|r LF some filthy casuals to gear up for shadowlands. Come level up with us. Looking to just have fun and maybe do some mythic dungeons.  PST for more info", -- [1]
-			"Sakku-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sakku-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1356, -- [11]
-			"Player-3676-08786F89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Sakku|r",
-			[51] = 1590209931,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
-		{
-			"only incels buy runs", -- [1]
-			"Puppetpal-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Puppetpal-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1357, -- [11]
-			"Player-3676-0ADB3695", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Puppetpal|r",
-			[51] = 1590209932,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
-		{
-			"^", -- [1]
-			"Lesen-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lesen-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1358, -- [11]
-			"Player-3676-0A3AAFE0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cLesen|r",
-			[51] = 1590209937,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
-			"<TAG> 11/12M   Selling Heroic 12/12 Wednesday  @8pm EST [Glacial Tidestorm] Affordable VIP Loot Funneling Available.  || Pm to Reserve Your Spot. GOLD ONLY!", -- [1]
-			"Ânpû-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ânpû-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1359, -- [11]
-			"Player-3676-0AD02DA6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Ânpû|r",
-			[51] = 1590209937,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
-		{
-			">||>WTS M+ 10-18 keys<||< Armor stack and specific keys are available |||| WTS >Horrific Vision< 1-5 Mask(100% AFK)! & 12/12M/H N'yalotha |||| ALSO WTS Heroic N'ZOTH Only kill/AOTC!! FREE ARMOR STACKING FOR 2 MYTHIC+ PURCHASES TODAY ONLY!!! Pog", -- [1]
-			"Snstrbankalt-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Snstrbankalt-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1360, -- [11]
-			"Player-3676-0AA55A69", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecSnstrbankalt|r",
-			[51] = 1590209948,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
-		{
-			"That's atleast 80% of WoWs playerbase though", -- [1]
-			"Xaionn-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Xaionn-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1362, -- [11]
-			"Player-3676-0AB5C9A0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Xaionn|r",
-			[51] = 1590209953,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
-		{
-			"Incels", -- [1]
-			"Xaionn-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Xaionn-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1363, -- [11]
-			"Player-3676-0AB5C9A0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Xaionn|r",
-			[51] = 1590209954,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
-		{
-			"\"Victus\" a newly formed guild looking to clear Heroic NYA and prog Mythic NYA after. We raid Sunday/Monday 9-12 ST. We also push M+ and are looking for form several boosting teams. We are primarily focused on entering Shadowlands and trying to push CE", -- [1]
-			"Qtes-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Qtes-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2, -- [11]
-			"Player-3676-0AD1902B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Qtes|r",
-			[51] = 1590456730,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
-		{
-			"The Gallywix Community ||MONDAY DEALS! WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds!. CARA+NZOTH or AOTC only! Also M +15 Loot stack for FREE , Jaina mount, TLPD, Void talon, KSM. GOLD ONLY", -- [1]
-			"Sashhagrey-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sashhagrey-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			3, -- [11]
-			"Player-3676-0A3CF265", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Sashhagrey|r",
-			[51] = 1590456732,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
-		{
-			"WTS ! >>WEEKEND DEALS<< +10-+17s|| Armor stacks and Specific keys|| Jaina mount is 1m ||12/12 H is ONLY 325k, x4 armor funnel ONLY 725k or AOTC Only 115k 8/12 Mythic|| Horrific Visions, 0-5 masks.|| 475 item GOLD ONLY.", -- [1]
-			"Hozwazlok-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hozwazlok-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4, -- [11]
-			"Player-3676-0AD4FE1B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Hozwazlok|r",
-			[51] = 1590456735,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
-		{
-			"WTS |cffa335ee|Hitem:65891::::::::120:72::::::|h[Vial of the Sands]|h|r 50k", -- [1]
-			"Angeluss-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Angeluss-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5, -- [11]
-			"Player-3676-08798ECA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cAngeluss|r",
-			[51] = 1590456739,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
-		{
-			">>>FREE ARMOR STACKING<<< WTS M+ 10-18 keys. Specific keys available! WTS Horrific Vision 0-5 masks guaranteed. GOLD ONLY. PST for info/reserve", -- [1]
-			"Ariennea-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ariennea-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			19, -- [11]
-			"Player-3676-0ADB770B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Ariennea|r",
-			[51] = 1590456744,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
-		{
-			"WTS fast leveling 110 _120 |cff66bbff|Hjournal:0:1001:23|h[Freehold]|h|r _ PVP cap(arena)_Mythic+ carry  +10+12 _horrific vision 2-3-4 MASKS 5 chest < both faction- for Gold", -- [1]
-			"Juliiaa-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Juliiaa-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			20, -- [11]
-			"Player-3676-0AB2F97C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Juliiaa|r",
-			[51] = 1590456745,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
-		{
-			"<The Gallywix Community> || Selling M+ 10-19s, specific key/loot stack for an extra fee. FREE ARMOR STACK ON ALL KEYS TODAY! || Heroic Ny'alotha full clears, AOTC, and loot funnels || Visions || PvP || TLPD, Voidtalon, Jaina, and more || GOLD ONLY!", -- [1]
-			"Sweggywix-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sweggywix-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			21, -- [11]
-			"Player-3676-0AD47C37", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Sweggywix|r",
-			[51] = 1590456750,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
-		{
-			"Last Minute Deals! Cheap M+15s with FREE armor stacking. Get your 5 mask vision done as well! PST for details. Gold Only. ", -- [1]
-			"Ezawix-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ezawix-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			22, -- [11]
-			"Player-3676-0AD6823E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Ezawix|r",
-			[51] = 1590456756,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
-		{
-			"<Monday Deals> Timed M+ 10 (100k) - 15 (200k), w/ armor stack free and specific key (10-14+ 25k, 15+ 50k), Horrific Visions Loot Only 1 (90k)-5 (225k) Masks.  Also offering Heroic and Mythic Nya-lotha, and other services. GOLD ONLY", -- [1]
-			"Lazerfell-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lazerfell-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			23, -- [11]
-			"Player-3676-0AD2DF75", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cLazerfell|r",
-			[51] = 1590456756,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"FREE +15 carries for all ilvls at www.twitch.tv/cowmasutra <3  <3 follow and type !beefykeys to enter giveaway", -- [1]
-			"Doublejumpz-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Doublejumpz-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			24, -- [11]
-			"Player-3676-0A906396", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Doublejumpz|r",
-			[51] = 1590456762,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
-		{
-			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
-			"Fugarax-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fugarax-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			25, -- [11]
-			"Player-3676-0A4A06C6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecFugarax|r",
-			[51] = 1590456766,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
-		{
-			"I'm bored, free freehold leveling (if you have all looms equiped) to the first person to invite me to a group", -- [1]
-			"Ðedblade-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ðedblade-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			26, -- [11]
-			"Player-3676-09388E9C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Ðedblade|r",
-			[51] = 1590456769,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
-		{
-			"WTS [Ahead of the Curve: N'Zoth the Corruptor], includes [Uncorrupted Voidwing] mount RIGHT NOW!  gold only", -- [1]
-			"Facron-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Facron-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			28, -- [11]
-			"Player-3676-0ADDD9B1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Facron|r",
-			[51] = 1590456771,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
-		{
-			">> FREE ARMOR STACK ON 15's <<  Selling +15-18 || Timed || Specific Keys Pre-Book your spot in >> Heroic Ny'alotha, 12/12 FULL CLEAR GOLD ONLY!. Running Tonight 10:30pm EST. DM for more info, CHEAP", -- [1]
-			"Wolfdh-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wolfdh-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			29, -- [11]
-			"Player-3676-0ACD6B54", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Wolfdh|r",
-			[51] = 1590456773,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
-		{
-			"Maximum Thrust on Toshaman", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			70, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590457042,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"Foe Flipper on Toshaman", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			74, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590457058,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"Explosive Leap on Turkeyuno", -- [1]
-			"Turkeyuno-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Turkeyuno-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			96, -- [11]
-			"Player-3676-0A5394CE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Turkeyuno|r",
-			[51] = 1590457485,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"Explosive Leap on Toshaman", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			97, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590457485,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"on me safe every time", -- [1]
-			"Fiery-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fiery-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			103, -- [11]
-			"Player-9-07C9B703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
-			[51] = 1590457519,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
-		{
-			"Ga'halahs Zaix za Iggksh", -- [1]
-			"Evojai-Area52", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Evojai-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			105, -- [11]
-			"Player-3676-0AD967E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeEvojai|r",
-			[51] = 1590457519,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
-		{
-			"Explosive Leap on Fiery", -- [1]
-			"Fiery-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fiery-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			106, -- [11]
-			"Player-9-07C9B703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
-			[51] = 1590457519,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"Explosive Leap on Toshaman", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			112, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590457553,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"Explosive Leap on Toshaman", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			118, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590457588,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			129, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590457669,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"Toshaman interrupted |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r", -- [1]
-			"Toshaman-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshaman-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			131, -- [11]
-			"Player-3676-0AD945D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcToshaman|r",
-			[51] = 1590457688,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
-		{
-			"Fiery interrupted |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r", -- [1]
-			"Fiery-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fiery-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			132, -- [11]
-			"Player-9-07C9B703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
-			[51] = 1590457689,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"SKRRT SKRRT", -- [1]
-			"Turkeyuno-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Turkeyuno-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			169, -- [11]
-			"Player-3676-0A5394CE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Turkeyuno|r",
-			[51] = 1590458086,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"font?", -- [1]
-			"Fiery-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fiery-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-9-07C9B703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
-			[51] = 1590458168,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
-		{
-			"Fiery interrupted |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r", -- [1]
-			"Fiery-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fiery-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			228, -- [11]
-			"Player-9-07C9B703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
-			[51] = 1590458589,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
 			"SKRRT SKRRT", -- [1]
 			"Turkeyuno-Area52", -- [2]
 			"Orcish", -- [3]
@@ -1650,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyuno|r",
 			[51] = 1590458612,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [1]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:314592:0|h[Mind Flay]|h|r", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1672,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590458678,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [2]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:293827:0|h[Giga-Wallop]|h|r", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1694,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590458821,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [3]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1716,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590458882,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [4]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:314406:0|h[Crippling Pestilence]|h|r", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1738,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590458896,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [5]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1760,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590458915,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [6]
 		{
 			"Toshaman interrupted |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1782,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590458934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [7]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1804,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590458958,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [8]
 		{
 			"Giga-Zap on Turkeyuno", -- [1]
 			"Turkeyuno-Area52", -- [2]
@@ -1826,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyuno|r",
 			[51] = 1590458973,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [9]
 		{
 			"Vwah Hoq za Iggksh", -- [1]
 			"Evojai-Area52", -- [2]
@@ -1848,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeEvojai|r",
 			[51] = 1590459010,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [10]
 		{
 			"Giga-Zap on Evanpal", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -1870,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590459030,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [11]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1892,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459064,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [12]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1914,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459067,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [13]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1936,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459098,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [14]
 		{
 			"Giga-Zap on Fiery", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -1958,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
 			[51] = 1590459128,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [15]
 		{
 			"Giga-Zap on Turkeyuno", -- [1]
 			"Turkeyuno-Area52", -- [2]
@@ -1980,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyuno|r",
 			[51] = 1590459136,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [16]
 		{
 			"SKRRT SKRRT", -- [1]
 			"Turkeyuno-Area52", -- [2]
@@ -2002,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyuno|r",
 			[51] = 1590459160,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [17]
 		{
 			"Vwah Hoq za Iggksh", -- [1]
 			"Evojai-Area52", -- [2]
@@ -2024,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeEvojai|r",
 			[51] = 1590459304,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [18]
 		{
 			"Giga-Zap on Evanpal", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -2046,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590459324,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [19]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2068,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459341,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [20]
 		{
 			"Giga-Zap on Fiery", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -2090,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
 			[51] = 1590459372,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [21]
 		{
 			"Giga-Zap on Evanpal", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -2112,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590459433,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [22]
 		{
 			"SKRRT SKRRT", -- [1]
 			"Turkeyuno-Area52", -- [2]
@@ -2134,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyuno|r",
 			[51] = 1590459473,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [23]
 		{
 			"Giga-Zap on Evojai", -- [1]
 			"Evojai-Area52", -- [2]
@@ -2156,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeEvojai|r",
 			[51] = 1590459560,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [24]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2178,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459594,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [25]
 		{
 			"Vwah Hoq za Iggksh", -- [1]
 			"Evojai-Area52", -- [2]
@@ -2200,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeEvojai|r",
 			[51] = 1590459611,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [99]
+		}, -- [26]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2222,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459670,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [100]
+		}, -- [27]
 		{
 			"Giga-Zap on Fiery", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -2244,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
 			[51] = 1590459677,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [101]
+		}, -- [28]
 		{
 			"Giga-Zap on Evanpal", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -2266,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590459705,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [102]
+		}, -- [29]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2288,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459738,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [103]
+		}, -- [30]
 		{
 			"Giga-Zap on Toshaman", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2310,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman|r",
 			[51] = 1590459742,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [104]
+		}, -- [31]
 		{
 			"Giga-Zap on Fiery", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -2332,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery-Kil'jaeden|r",
 			[51] = 1590459774,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [105]
+		}, -- [32]
 		{
 			"Giga-Zap on Turkeyuno", -- [1]
 			"Turkeyuno-Area52", -- [2]
@@ -2354,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeyuno|r",
 			[51] = 1590459797,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [33]
 		{
 			"wts|cff0070dd|Hbattlepet:264:25:3:1481:305:257:0000000000000000:34262|h[Crawling Claw]|h|r 45k", -- [1]
 			"Funkymonkyz-Area52", -- [2]
@@ -2376,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Funkymonkyz|r",
 			[51] = 1590459839,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [34]
 		{
 			"Greg is a piece of shit", -- [1]
 			"Calendar-Area52", -- [2]
@@ -2398,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Calendar|r",
 			[51] = 1590459839,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [35]
 		{
 			"WTS Jaina Mount 900k GOLD tonight at 1030 Server time PST. (Full run included if wanted) ", -- [1]
 			"Abracadope-Area52", -- [2]
@@ -2420,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Abracadope|r",
 			[51] = 1590459847,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [36]
 		{
 			"Fuck you Greg", -- [1]
 			"Fritemare-Area52", -- [2]
@@ -2442,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Fritemare|r",
 			[51] = 1590459850,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [37]
 		{
 			"Selling |cffa335ee|Hitem:23629::::::::90:255::1::::|h[Plans: Felsteel Longblade]|h|r and |cffa335ee|Hitem:152413::::::::90:255::6:4:3612:1502:5850:3336:::|h[Felflame Inferno Shoulderpads]|h|r PST", -- [1]
 			"Diegoo-Area52", -- [2]
@@ -2464,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Diegoo|r",
 			[51] = 1590459855,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [38]
 		{
 			"Selling AOTC--Nzoth HEROIC Kill--  PST for more info", -- [1]
 			"Machinixd-Area52", -- [2]
@@ -2486,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Machinixd|r",
 			[51] = 1590459857,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [39]
 		{
 			"can i get that ring turkey", -- [1]
 			"Evanpal-Area52", -- [2]
@@ -2508,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Evanpal|r",
 			[51] = 1590459859,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [40]
 		{
 			"yeah fuck you Greg", -- [1]
 			"Watermelownn-Area52", -- [2]
@@ -2530,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Watermelownn|r",
 			[51] = 1590459861,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [41]
 		{
 			"The Gallywix Community || WTS DISCOUNTED >>Heroic Last 2 Bosses Spam Ny'alotha<< with <Complexity Limit>! Also selling Monday M+ SPECIALS on 10-15 keys, get armor stack FREE on every key! GOLD ONLY.", -- [1]
 			"Docithtwo-Area52", -- [2]
@@ -2552,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Docithtwo|r",
 			[51] = 1590459862,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [42]
 		{
 			">>WEEKEND SUPER DEAL<< WTS Low Price M+ 12-18 keys. Specific keys and armor stacks are available || WTS Heroic Nyalotha full clears with funneling options || WTS Horrific Vision 0-5 masks guaranteed || WTS Jaina/Nzoth Mount || ONLY FOR GOLD ", -- [1]
 			"Jirtleenda-Area52", -- [2]
@@ -2574,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcJirtleenda|r",
 			[51] = 1590459864,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [43]
 		{
 			"<Exploit> 12/12H (10pm-1am PST Tues/Thurs) is a new late night guild of veteran mythic raiders looking to fill our raid roster for Mythic T25.  As a group of officers we've cleared 9/11M T21 and 7/8M T22. Looking for heals/mage/rdps. PST.", -- [1]
 			"Dropsucks-Area52", -- [2]
@@ -2596,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Dropsucks|r",
 			[51] = 1590459864,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [44]
 		{
 			"Warden's community is offering Carapace + Nzoth runs. Come get your Aotc for ONLY 120k. Ask us about our combo deal. Dm for more GOING NOW RUNS EVERY 15 MINS", -- [1]
 			"Raidgrill-Area52", -- [2]
@@ -2618,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Raidgrill|r",
 			[51] = 1590459866,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [45]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -2640,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1590459866,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [46]
 		{
 			">>>NZOTH HEROIC<<  FAST AND CHEAP RIGHT NOW 12/12M GROUP [MOUNT + AOTC + CLOAK UPGRADE + CHANCE 470ILVL ITEM] >BEFORE RESET<", -- [1]
 			"Orquitoo-Area52", -- [2]
@@ -2662,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cOrquitoo|r",
 			[51] = 1590459866,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [47]
 		{
 			"<Impartial> is a recently transferred (from Fenris/Dragonblight) 5/12 M raiding guild looking to fill our roster with mature, active raiders and M+ key bois. We are currently recruiting ranged dps. pst for info", -- [1]
 			"Corohuntero-Area52", -- [2]
@@ -2684,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Corohuntero|r",
 			[51] = 1590459867,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [48]
 		{
 			">>>FREE ARMOR STACKING<<< WTS M+ 10-18 keys. Specific keys available! WTS Horrific Vision 0-5 masks guaranteed. GOLD ONLY. PST for info/reserve", -- [1]
 			"Ariennea-Area52", -- [2]
@@ -2706,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Ariennea|r",
 			[51] = 1590459873,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [49]
 		{
 			"wtb 3 masks run", -- [1]
 			"Warpkind-Area52", -- [2]
@@ -2728,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Warpkind|r",
 			[51] = 1590459873,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [50]
 		{
 			"<Fierce> US 29th is Selling Heroic (with or without loot funnel) Wedesnday @ 845est PM. Cheapest loot funnel prices around. Also Selling AOTC @ 1145est PM. PST for more info, gold only! Come get your AOTC mount!", -- [1]
 			"Myburritoo-Area52", -- [2]
@@ -2750,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Myburritoo|r",
 			[51] = 1590459875,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [51]
 		{
 			"WTS Mythic Plus 15's |cffa335ee|Hkeystone:158923:246:17:9:6:4:120|h[Keystone: Tol Dagor (17)]|h|r|cffa335ee|Hkeystone:158923:370:17:9:6:4:120|h[Keystone: Operation: Mechagon - Workshop (17)]|h|r|cffa335ee|Hkeystone:158923:248:17:9:6:4:120|h[Keystone: Waycrest Manor (17)]|h|r|cffa335ee|Hkeystone:158923:252:17:9:6:4:120|h[Keystone: Shrine of the Storm (17)]|h|rGold Only ! come get your 465ilvl loot and 475 out of your cache on reset !", -- [1]
 			"Doomsdayy-Area52", -- [2]
@@ -2772,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDoomsdayy|r",
 			[51] = 1590459876,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [52]
 		{
 			"freaking greg", -- [1]
 			"Vieirax-Area52", -- [2]
@@ -2794,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Vieirax|r",
 			[51] = 1590459877,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [53]
 		{
 			"Selling NWC full Heroic/Mythic with loot funnel!Mounts|cffa335ee|Hitem:174872::::::::1:269::6:1:3524:::|h[Ny'alotha Allseer]|h|r/|cffa335ee|Hitem:166705::::::::1:269::6:1:3524:::|h[Glacial Tidestorm]|h|r Best Price! PST", -- [1]
 			"Eiaitu-Area52", -- [2]
@@ -2815,6 +1209,1612 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cff00fe95Eiaitu|r",
 			[51] = 1590459881,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [54]
+		{
+			"Gallywix Community is WTS 12/12 H/M Ny'alotha || Herald of the Titan || M+ Carries +10 - 15s|| Islands || Jaina Mount|| Visions|| Legacy Raid/Dungeon Sales || GOLD ONLY", -- [1]
+			"Rootmeharder-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rootmeharder-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-3676-0AD4801E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Rootmeharder|r",
+			[51] = 1590550404,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [55]
+		{
+			"LF leveling guild", -- [1]
+			"Tichozi-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tichozi-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-3676-0ADE6EDB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Tichozi|r",
+			[51] = 1590550415,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [56]
+		{
+			"WTS 5 Mask Full Carry, Going Fast. PST!", -- [1]
+			"Lichbite-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lichbite-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-3676-0ADE053D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lichbite|r",
+			[51] = 1590550418,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
+		{
+			"do obelisk boss coutn for less on teeming week, i can't remember", -- [1]
+			"Wannatussle-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Wannatussle-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-3676-079134B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Wannatussle|r",
+			[51] = 1590550423,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-130539-3676-92838212|h[Guild: Forum Aeterna]|h|rIs brand new and looking for kind hearted people to join and get ready for shadowlands! Dosen't matter if you are a veteran or a fresh player! We would love to have ya! We have a disc and looking to build for M+ and Raiding!", -- [1]
+			"Taluffy-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Taluffy-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-3676-0ACCFAFE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcTaluffy|r",
+			[51] = 1590550429,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [59]
+		{
+			"<The Gallywix Community> WTS 12/12 H/M Ny'alotha || Herald of the Titan || M+ Carries +10 - 15s|| Islands || Jaina Mount|| Visions|| Legacy Raid/Dungeon Sales || GOLD ONLY", -- [1]
+			"Docithtwo-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Docithtwo-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-3676-0ACEC138", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Docithtwo|r",
+			[51] = 1590550431,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"Selling 1600/1800/2000/2100 Arena 2v2 rating for gold! Also selling FAST gauranteed wins for Echo farming! 2700 Gladiator Resto Druid, msg me your cr/goal!", -- [1]
+			"Moonbanker-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Moonbanker-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-3676-0ADE396B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Moonbanker|r",
+			[51] = 1590550437,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"<Lightly Salted> 12/12 H .  We are an AoTC focused guild LF exceptional DPS and heals.  Raid times are Tue/Wed 9pm-12am server.  Also run M+ keys. ", -- [1]
+			"Kindosh-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kindosh-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-3676-094F0EE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cKindosh|r",
+			[51] = 1590550442,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"WTS Mythic+10-15 for 475weekly chest/Heroic Ny'alotha 12/12 PL,Guarantee FULL 460 Gear,Mechagon 8/8 HM for|cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rVisions Cloak Rank.carry now PST", -- [1]
+			"Oxdornluz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Oxdornluz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-3676-0ADE5530", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOxdornluz|r",
+			[51] = 1590550444,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590550445,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [64]
+		{
+			"WTS 5 Mask Full Carry, Going Fast. PST!", -- [1]
+			"Lichbite-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lichbite-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-3676-0ADE053D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lichbite|r",
+			[51] = 1590550511,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"WTB raden heroic", -- [1]
+			"Memebeamxd-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Memebeamxd-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-3676-0A380C15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Memebeamxd|r",
+			[51] = 1590550514,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"<Dinosaur Cowboys> 12/12m is selling mythic Nya'lotha specific bosses on Tuesday/Thursday and heroic specific bosses, full clears, and funnels every Monday at 8:00 ST.  Also selling Jaina Mount.  PST for more information!", -- [1]
+			"Spaek-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Spaek-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-3676-09DC51F7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeSpaek|r",
+			[51] = 1590550519,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590550519,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"WTB heroic raden", -- [1]
+			"Memebeamxd-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Memebeamxd-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-3676-0A380C15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Memebeamxd|r",
+			[51] = 1590550535,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"WTS +15 FOR GOLD WHISP MORE INFO", -- [1]
+			"Littlezak-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Littlezak-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"Player-3676-0AD67481", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Littlezak|r",
+			[51] = 1590550561,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"<WTS> M+ 10 (100k) - 15 (185k), w/ armor stack (40k) specific key fee (price varies), timer guarantee (40k), Horrific Visions Loot Only 0 (50k)-5 (200k) Masks.  Heroic Nya 12/12 (350k) + 160k per loot funnel. Gold Only.", -- [1]
+			"Lazerfell-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lazerfell-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-3676-0AD2DF75", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cLazerfell|r",
+			[51] = 1590550564,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"WTS Heroic Ny'alotha 12/12 PL,Guarantee FULL 460 Gear,Mythic+10-15 drop 460ilvl and 465-475weekly  chest,Mechagon 8/8 HM for mount,Also Visions Cloak Rank can do now PST", -- [1]
+			"Oxdornluz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Oxdornluz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-3676-0ADE5530", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOxdornluz|r",
+			[51] = 1590550565,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"WTS 5 Mask Full Carry, Going Fast. PST!", -- [1]
+			"Lichbite-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lichbite-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-3676-0ADE053D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lichbite|r",
+			[51] = 1590550566,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"Selling Super FAST Echo farm! 2v2 wins, 2700 Gladiator Resto Druid, Gauranteed fast wins!", -- [1]
+			"Moonbanker-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Moonbanker-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-3676-0ADE396B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Moonbanker|r",
+			[51] = 1590550566,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"lf some1with a toon on herod server classic pm me plz", -- [1]
+			"Onebïgball-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Onebïgball-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-3676-06F2B299", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Onebïgball|r",
+			[51] = 1590550585,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-10347-3676-68957113|h[Guild: Nihil Obstat]|h|r / 12/12H 4/12M / Recruiting dedicated RDPS ready to push mythic and farm m+. Raid is Tues/Thurs 9-1130pm Server. Food/Flask/Gem provided! Pm me for info!", -- [1]
+			"Wallchicken-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Wallchicken-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			31, -- [11]
+			"Player-3676-09190BA9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Wallchicken|r",
+			[51] = 1590550585,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			33, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590550592,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"Gallywix Community is WTS 12/12 H/M Ny'alotha || Herald of the Titan || M+ Carries +10 - 15s|| Islands || Jaina Mount|| Visions|| Legacy Raid/Dungeon Sales || GOLD ONLY", -- [1]
+			"Rootmeharder-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rootmeharder-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			34, -- [11]
+			"Player-3676-0AD4801E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Rootmeharder|r",
+			[51] = 1590550596,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"The Gallywix Community || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds!. AOTC only! Also M +15 +20, Jaina mount, TLPD, Void talon, KSM. GOLD ONLY", -- [1]
+			"Sashhagrey-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sashhagrey-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-3676-0A3CF265", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Sashhagrey|r",
+			[51] = 1590550610,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"Dropouts Inc - heroic raid guild LF dps and heals for sat and sun raid 9pm to 12am.  Prefer dedicated ranged dps, but all are welcome!  Also we are recruiting for shadowlands as well!", -- [1]
+			"Fursplosion-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fursplosion-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			37, -- [11]
+			"Player-3676-0A73AA60", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Fursplosion|r",
+			[51] = 1590550629,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			39, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590550645,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"whts better in pvp dh dk or monk", -- [1]
+			"Gartrake-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gartrake-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			41, -- [11]
+			"Player-3676-081917A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Gartrake|r",
+			[51] = 1590550660,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"yes", -- [1]
+			"Sandman-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sandman-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			42, -- [11]
+			"Player-3676-09B2B816", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Sandman|r",
+			[51] = 1590550666,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"DH", -- [1]
+			"Roxian-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Roxian-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-3676-0A40F0A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cRoxian|r",
+			[51] = 1590550679,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"definitely", -- [1]
+			"Roxian-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Roxian-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			45, -- [11]
+			"Player-3676-0A40F0A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cRoxian|r",
+			[51] = 1590550680,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"Sell Mythic Carry 10~18 Keys - Armor Stack - Specific Keys Able - Buy 2x or more free Armor Stack. Also Vision 1 to 5 Masks, FH Leveling and JAINA MOUNT. SPECIAL *Ny'alotha M/HC Ny'alotha Allseer MOUNT + CUTTING EDGE or SPECIFIC BOSS MYTHICS*, PM!", -- [1]
+			"Baeto-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Baeto-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-3676-0ADAAEC7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Baeto|r",
+			[51] = 1590550682,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"WTS 5 Mask Full Carry, Going Fast. PST!", -- [1]
+			"Lichbite-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lichbite-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-3676-0ADE053D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lichbite|r",
+			[51] = 1590550687,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"WTS Mythic+10-15 for 475weekly chest/Heroic Ny'alotha 12/12 PL,Guarantee FULL 460 Gear,Mechagon 8/8 HM for|cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rVisions Cloak Rank.carry now PST", -- [1]
+			"Oxdornluz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Oxdornluz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			49, -- [11]
+			"Player-3676-0ADE5530", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOxdornluz|r",
+			[51] = 1590550688,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-130539-3676-92838212|h[Guild: Forum Aeterna]|h|rIs brand new and looking for kind hearted people to join and get ready for shadowlands! Dosen't matter if you are a veteran or a fresh player! We would love to have ya! We have a disc and looking to build for M+ and Raiding!", -- [1]
+			"Taluffy-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Taluffy-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-3676-0ACCFAFE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcTaluffy|r",
+			[51] = 1590550689,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"<ADRASTOS> Is recruiting! We are a small group of close friends looking to expand our ranks and looking for individuals for a core group going into shadowlands. We are currently in need of healers (shaman/pally) and quality DPS (no DHs)", -- [1]
+			"Syndrum-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Syndrum-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			51, -- [11]
+			"Player-3676-0AD9758A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Syndrum|r",
+			[51] = 1590550697,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"trassshhh", -- [1]
+			"Slatterally-Zangarmarsh", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Slatterally-Zangarmarsh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-53-06BCB099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Slatterally-Zangarmarsh|r",
+			[51] = 1590550699,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [91]
+		{
+			">> wts 4-5 mask loot or obj, 3.3k io and CE raider, cheap <<", -- [1]
+			"Soufflé-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Soufflé-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-3676-0A63EB5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Soufflé|r",
+			[51] = 1590550704,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"WTB +15 WM plate stack loot traded to me 250k.", -- [1]
+			"Qtistqt-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Qtistqt-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-3676-0ADB9E3B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Qtistqt|r",
+			[51] = 1590550706,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			56, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590550714,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			".::Selling::.|cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|rHeroic - you will get AOTC + MOUNT + Chance 470item - Going Soon > Gold Only >>>105k<<<", -- [1]
+			"Nexe-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nexe-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-3676-0AD22517", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeNexe|r",
+			[51] = 1590550734,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS - Mythic Plus 10-15 (In Time) - Get ur 475 chest item and all gear that will drop!", -- [1]
+			"Hyppershadow-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hyppershadow-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-3676-0ADE08FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Hyppershadow|r",
+			[51] = 1590550737,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTS 5 Mask Full Carry, Going Fast. PST!", -- [1]
+			"Lichbite-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lichbite-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			74, -- [11]
+			"Player-3676-0ADE053D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lichbite|r",
+			[51] = 1590550743,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-130539-3676-92838212|h[Guild: Forum Aeterna]|h|rIs brand new and looking for kind hearted people to join and get ready for shadowlands! Dosen't matter if you are a veteran or a fresh player! We would love to have ya! We have a disc and looking to build for M+ and Raiding!", -- [1]
+			"Taluffy-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Taluffy-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			78, -- [11]
+			"Player-3676-0ACCFAFE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcTaluffy|r",
+			[51] = 1590550749,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"WTB Blood Infusion quest", -- [1]
+			"Acnogrips-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Acnogrips-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			80, -- [11]
+			"Player-3676-0AB7DDC1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Acnogrips|r",
+			[51] = 1590550750,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			86, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590550760,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [100]
+		{
+			"[WTS] Heroic Nyalotha & Mythic 15s || NEW PRICES || GOLD ONLY, 475ilvl CORRUPTED GEAR on Tuesday. Pst for more information.", -- [1]
+			"Mcboost-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mcboost-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			109, -- [11]
+			"Player-3676-0AAA6F90", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcMcboost|r",
+			[51] = 1590551025,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [101]
+		{
+			"it's free if you can do it yourself", -- [1]
+			"Fadeaways-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fadeaways-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			110, -- [11]
+			"Player-3676-0AD449A0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Fadeaways|r",
+			[51] = 1590551025,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"<The Gallywix Community> WTS Heroic & Mythic Ny'alotha || Carapace & N'zoth || M+ 10-20  ||  Jaina Mount || 0-5 Mask Visions || PvP || Mounts || FH Leveling || PvE Coaching || Herald of the Titans || and more! || PST for more info, GOLD ONLY", -- [1]
+			"Aeiliara-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aeiliara-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			111, -- [11]
+			"Player-3676-06F2B2EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Aeiliara|r",
+			[51] = 1590551026,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [103]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590551029,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"LF casual guild", -- [1]
+			"Rolldozer-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rolldozer-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			113, -- [11]
+			"Player-3676-0ADAD9A3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Rolldozer|r",
+			[51] = 1590551030,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"WTS 5 Mask Full Carry, Going Fast. PST!", -- [1]
+			"Lichbite-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lichbite-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-3676-0ADE053D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lichbite|r",
+			[51] = 1590551041,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"how do I find the halls of origination in uldum please", -- [1]
+			"Kozmaniac-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kozmaniac-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			115, -- [11]
+			"Player-3676-09F97373", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cKozmaniac|r",
+			[51] = 1590551051,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"Selling Super FAST Echo farm! 2v2 wins, 2700 Gladiator Resto Druid, Gauranteed fast wins!", -- [1]
+			"Moonbanker-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Moonbanker-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			116, -- [11]
+			"Player-3676-0ADE396B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Moonbanker|r",
+			[51] = 1590551051,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			"WTS Heroic Ny'alotha 12/12 PL,Guarantee FULL 460 Gear,Mythic+10-15 drop 460ilvl and 465-475weekly  chest,Mechagon 8/8 HM for mount,Also Visions Cloak Rank can do now PST", -- [1]
+			"Oxdornluz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Oxdornluz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			117, -- [11]
+			"Player-3676-0ADE5530", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOxdornluz|r",
+			[51] = 1590551053,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"anyones raider io messed up? says data has expired and there no update", -- [1]
+			"ßao-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßao-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			118, -- [11]
+			"Player-3676-0AC9DA3E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcßao|r",
+			[51] = 1590551055,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"no mines fine atm", -- [1]
+			"Sadistickiss-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sadistickiss-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			120, -- [11]
+			"Player-3676-0811286C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Sadistickiss|r",
+			[51] = 1590551088,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"WTS 5 Mask Full Carry, Going Fast. PST!", -- [1]
+			"Lichbite-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lichbite-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			121, -- [11]
+			"Player-3676-0ADE053D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Lichbite|r",
+			[51] = 1590551088,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590551089,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"for my alts", -- [1]
+			"Sadistickiss-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sadistickiss-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			124, -- [11]
+			"Player-3676-0811286C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Sadistickiss|r",
+			[51] = 1590551091,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"WTS +15 carries IN TIME! 2400+ io players! Boost your io, get all gear that drops, and get a 475 out of your chest on Tuesday. We've done 500 + carries and want to help you! Also offering Vision carries, Jania Mount, and 10-14 carries.", -- [1]
+			"Dreamie-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dreamie-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-3676-09A1B58A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Dreamie|r",
+			[51] = 1590551124,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"WTS - Mythic Plus 10-15 - Get ur 475 chest item  and all gear that will drop!!! Pick between serveral keys!!! Whisp for more info!!!", -- [1]
+			"Hyppershadow-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hyppershadow-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-3676-0ADE08FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Hyppershadow|r",
+			[51] = 1590551130,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"Selling Super FAST Echo farm! 2v2 wins, 2700 Gladiator Resto Druid, Gauranteed fast wins!", -- [1]
+			"Moonbanker-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Moonbanker-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			128, -- [11]
+			"Player-3676-0ADE396B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Moonbanker|r",
+			[51] = 1590551153,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"Quiet tonight", -- [1]
+			"Shraiken-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shraiken-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			129, -- [11]
+			"Player-3676-0915248E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Shraiken|r",
+			[51] = 1590551155,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
+			"Fugarax-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fugarax-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			130, -- [11]
+			"Player-3676-0A4A06C6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8686ecFugarax|r",
+			[51] = 1590551157,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"is master riding the ability to fly in bfa?", -- [1]
+			"Casmodaen-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Casmodaen-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			131, -- [11]
+			"Player-3676-0AD8A49C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Casmodaen|r",
+			[51] = 1590551160,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"|cffffff00|Hachievement:13250:Player-3676-0ADA80E7:1:5:26:20:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Pathfinder, Part Two]|h|r", -- [1]
+			"Trefidysixx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Trefidysixx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			132, -- [11]
+			"Player-3676-0ADA80E7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Trefidysixx|r",
+			[51] = 1590551168,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"WTS - Mythic Plus 10-15, We offer armor stack and key specific! Also offering Mechagon Normal Hardmode (and a no-death run!), Ny'alotha HC! Any Specific Request ? Don't hesitate to ask!! Whisper for more Info !! Gold Only.", -- [1]
+			"Mokorush-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokorush-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			133, -- [11]
+			"Player-3676-0ADB6555", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cMokorush|r",
+			[51] = 1590551168,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"Gallywix Community is WTS 12/12 H/M Ny'alotha || Herald of the Titan || M+ Carries +10 - 15s|| Islands || Jaina Mount|| Visions|| Legacy Raid/Dungeon Sales || GOLD ONLY", -- [1]
+			"Rootmeharder-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rootmeharder-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			134, -- [11]
+			"Player-3676-0AD4801E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Rootmeharder|r",
+			[51] = 1590551169,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"Need BFA pathfinder", -- [1]
+			"Mikenzo-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mikenzo-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			135, -- [11]
+			"Player-3676-0ADE723C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcMikenzo|r",
+			[51] = 1590551171,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"^^", -- [1]
+			"Nobuyuki-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nobuyuki-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			137, -- [11]
+			"Player-3676-0ADE041F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Nobuyuki|r",
+			[51] = 1590551176,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WTS Mythic+10-15 for 475weekly chest/Heroic Ny'alotha 12/12 PL,Guarantee FULL 460 Gear,Mechagon 8/8 HM for|cffa335ee|Hitem:168830::::::::1:262::::::|h[Aerial Unit R-21/X]|h|rVisions Cloak Rank.carry now PST", -- [1]
+			"Oxdornluz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Oxdornluz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			138, -- [11]
+			"Player-3676-0ADE5530", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOxdornluz|r",
+			[51] = 1590551176,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"463 DH dps lf raiding, mythic+, pvp, and fun guild. 1925io, 12/12H, and 3/12M experience on ex-main.", -- [1]
+			"Thonystian-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Thonystian-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			139, -- [11]
+			"Player-3676-0A9ACBA4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Thonystian|r",
+			[51] = 1590551176,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

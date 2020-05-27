@@ -225,17 +225,57 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshpriest-Area 52"] = {
+	["Tosh-Kil'jaeden"] = {
+		["talents_pvp"] = {
+		},
 		["talents"] = {
 			{
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					3, -- [5]
+					3, -- [6]
+					3, -- [7]
+					["tt"] = "talents",
+					["name"] = "raid",
+					["texture"] = 135895,
+				}, -- [1]
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = 458720,
+				}, -- [2]
+				{
+					1, -- [1]
+					3, -- [2]
+					3, -- [3]
+					1, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["texture"] = 135973,
+					["name"] = "2s",
+					["tt"] = "talents",
+				}, -- [3]
 			}, -- [1]
-		},
-		["talents_pvp"] = {
+			{
+			}, -- [2]
+			{
+			}, -- [3]
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
@@ -322,67 +362,31 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Zallie-Frostwolf"] = {
-		["talents_pvp"] = {
-		},
+	["Toshpal-Area 52"] = {
 		["talents"] = {
 			{
-			}, -- [1]
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Tosh-Kil'jaeden"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			{
-				{
-					3, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					3, -- [5]
-					3, -- [6]
-					3, -- [7]
-					["tt"] = "talents",
-					["name"] = "raid",
-					["texture"] = 135895,
-				}, -- [1]
-				{
-					3, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					1, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["tt"] = "talents",
-					["name"] = "m+",
-					["texture"] = 458720,
-				}, -- [2]
-				{
-					1, -- [1]
-					3, -- [2]
-					3, -- [3]
-					1, -- [4]
-					1, -- [5]
-					1, -- [6]
-					1, -- [7]
-					["texture"] = 135973,
-					["name"] = "2s",
-					["tt"] = "talents",
-				}, -- [3]
 			}, -- [1]
 			{
 			}, -- [2]
 			{
 			}, -- [3]
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshmoney-Greymane"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -689,36 +693,32 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshmoney-Greymane"] = {
-		["talents_pvp"] = {
-		},
+	["Toshpriest-Area 52"] = {
 		["talents"] = {
 			{
 			}, -- [1]
 		},
+		["talents_pvp"] = {
+		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip2"] = 0,
 			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshpal-Area 52"] = {
+	["Zallie-Frostwolf"] = {
+		["talents_pvp"] = {
+		},
 		["talents"] = {
 			{
 			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
-		},
-		["talents_pvp"] = {
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},

@@ -4,52 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 245,
-		["splits"] = {
-			282, -- [1]
-			941, -- [2]
-			1311, -- [3]
-			1727, -- [4]
-			1061, -- [5]
-			["party1Name"] = "Toshdk",
-			["party1Class"] = "Death Knight",
-			["party4Class"] = "Mage",
-			["party2Name"] = "Nv",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 1980,
-			["level"] = 16,
-			["timeElapsed"] = 1727.122,
-			["party3Role"] = "TANK",
-			["affixes3"] = 4,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Evanpal",
-			["affixes2"] = 6,
-			["party1Role"] = "DAMAGER",
-			["party4Name"] = "Turkeyuno",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Paladin",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Demon Hunter",
-			["mapID"] = 1754,
-			["party2Role"] = "HEALER",
-			["date"] = 1590463992,
-			["party2Class"] = "Druid",
-			["party5Name"] = "Felfanatic",
-		},
 		["playerDeaths"] = {
-			["Turkeyuno-Area52"] = 1,
-			["Evanpal-Area52"] = 1,
-			["Nv-Area52"] = 3,
-			["Felfanatic-Area52"] = 4,
-			["Toshdk"] = 4,
-		},
-		["splitNames"] = {
-			"Skycap'n Kragg defeated", -- [1]
-			"Council o' Captains defeated", -- [2]
-			"Ring of Booty defeated", -- [3]
-			"Harlan Sweete defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -144,9 +99,9 @@ AngryKeystones_Data = {
 			[9] = 140,
 		},
 		[148893] = {
-			[4] = 1,
 			[7] = 1,
 			[9] = 1,
+			[4] = 1,
 		},
 		[133436] = {
 			[5] = 5,
@@ -725,8 +680,8 @@ AngryKeystones_Data = {
 		[133463] = {
 			[12] = 5,
 		},
-		[150154] = {
-			[4] = 1,
+		[135846] = {
+			[2] = 4,
 		},
 		[138465] = {
 			[4] = 20,
@@ -769,11 +724,11 @@ AngryKeystones_Data = {
 		[138247] = {
 			143, -- [1]
 		},
-		[134251] = {
-			[4] = 14,
-		},
 		[136295] = {
 			[13] = 8,
+		},
+		[134251] = {
+			[4] = 14,
 		},
 		[139425] = {
 			[4] = 16,
@@ -784,14 +739,15 @@ AngryKeystones_Data = {
 		[97754] = {
 			4, -- [1]
 		},
-		[127488] = {
-			[7] = 59,
-		},
-		[130011] = {
-			[4] = 28,
-		},
 		[152009] = {
 			[5] = 22,
+		},
+		[130522] = {
+			[2] = 201,
+			[6] = 1,
+		},
+		[127488] = {
+			[7] = 59,
 		},
 		[132126] = {
 			[4] = 100,
@@ -799,9 +755,8 @@ AngryKeystones_Data = {
 		[150249] = {
 			[4] = 29,
 		},
-		[130522] = {
-			[2] = 201,
-			[6] = 1,
+		[130011] = {
+			[4] = 28,
 		},
 		[130436] = {
 			166, -- [1]
@@ -833,8 +788,8 @@ AngryKeystones_Data = {
 		[137511] = {
 			[4] = 28,
 		},
-		[135846] = {
-			[2] = 4,
+		[150154] = {
+			[4] = 1,
 		},
 		[130012] = {
 			[4] = 39,

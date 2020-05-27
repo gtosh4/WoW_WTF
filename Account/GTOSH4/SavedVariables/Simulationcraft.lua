@@ -15,10 +15,10 @@ SimulationCraftDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -68,17 +68,17 @@ SimulationCraftDB = {
 		},
 		["Toshpal - Area 52"] = {
 		},
-		["Toshaman - Area 52"] = {
-		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Tosh - Frostwolf"] = {
-		},
 		["Tosh - Kil'jaeden"] = {
 			["minimap"] = {
 				["minimapPos"] = 170.156807812235,
 				["hide"] = true,
 			},
+		},
+		["Toshaman - Area 52"] = {
+		},
+		["Tosh - Frostwolf"] = {
+		},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshtrial - The Forgotten Coast"] = {
 		},
