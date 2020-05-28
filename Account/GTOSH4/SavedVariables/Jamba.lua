@@ -302,14 +302,14 @@ JambaTeamProfileDB = {
 		},
 		["Default"] = {
 			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = true,
-				["Toshaman-Kil'jaeden"] = true,
+				["Toshpal-Kil'jaeden"] = false,
+				["Toshaman-Kil'jaeden"] = false,
 				["Toshpal-Area52"] = true,
-				["Toshpala-Illidan"] = true,
-				["Toshwar-Kil'jaeden"] = true,
-				["Toshdk-Kil'jaeden"] = true,
-				["Tosh-Kil'jaeden"] = true,
-				["Yorman-Kil'jaeden"] = true,
+				["Toshpala-Illidan"] = false,
+				["Toshwar-Kil'jaeden"] = false,
+				["Toshdk-Kil'jaeden"] = false,
+				["Tosh-Kil'jaeden"] = false,
+				["Yorman-Kil'jaeden"] = false,
 			},
 			["characterClass"] = {
 				["Toshaman-Kil'jaeden"] = "SHAMAN",
@@ -317,6 +317,7 @@ JambaTeamProfileDB = {
 				["Toshwar-Kil'jaeden"] = "WARRIOR",
 				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
 				["Tosh-Kil'jaeden"] = "PRIEST",
+				["Yorman-Kil'jaeden"] = "DRUID",
 			},
 			["teamList"] = {
 				["Toshpal-Kil'jaeden"] = 7,

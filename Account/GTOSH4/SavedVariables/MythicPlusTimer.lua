@@ -8,6 +8,76 @@ MythicPlusTimerDB = {
 		["scale"] = 1,
 		["showAffixesAsIcons"] = false,
 		["objective_time_perlevelaffix"] = true,
+		["position"] = {
+			["top"] = 190,
+			["left"] = -260,
+			["relative_point"] = "RIGHT",
+		},
+		["objectiveTimeInChat"] = true,
+		["hideDefaultObjectiveTracker"] = true,
+		["progressTooltip"] = true,
+		["show_affixes_as_icons"] = false,
+		["current_run"] = {
+			["is_completed"] = true,
+			["level_key"] = "l16",
+			["quantity_number"] = 261,
+			["cm_level"] = 16,
+			["time_left_3"] = 0,
+			["quantity_completed"] = true,
+			["zone_name"] = "Freehold",
+			["time_left_2"] = 0,
+			["time_left"] = 254,
+			["deathcount_visible"] = true,
+			["steps"] = 5,
+			["death_names"] = {
+				["Turkeyuno-Area52"] = 1,
+				["Evanpal-Area52"] = 1,
+				["Nv-Area52"] = 3,
+				["Felfanatic-Area52"] = 4,
+				["Toshdk"] = 4,
+			},
+			["final_quantity_number"] = 261,
+			["is_reaping"] = false,
+			["affixes_key"] = "affixes-9-6-4-120",
+			["max_time"] = 1980,
+			["affixes"] = {
+				9, -- [1]
+				6, -- [2]
+				4, -- [3]
+				120, -- [4]
+			},
+			["times"] = {
+				282, -- [1]
+				941, -- [2]
+				1316, -- [3]
+				1726, -- [4]
+				1061, -- [5]
+				["5last_best_time_zone_level"] = 1741,
+				["4last_best_time_zone_level"] = 1512,
+				["3last_best_time_zone_level"] = 1549,
+				["2last_best_time_zone_level"] = 798,
+				["1last_best_time_zone_level"] = 240,
+				["5last_best_time_zone"] = 889,
+				["4last_best_time_zone"] = 1053,
+				["3last_best_time_zone"] = 845,
+				["2last_best_time_zone"] = 433,
+				["1last_best_time_zone"] = 156,
+			},
+			["current_map_id"] = 245,
+			["current_zone_id"] = 1754,
+			["deathcount"] = 13,
+			["elapsed_time"] = 1726,
+		},
+		["objectiveTimePerLevel"] = true,
+		["show_affixes_as_text"] = true,
+		["objective_time"] = true,
+		["show_reapingtimer"] = true,
+		["objective_time_inchat"] = true,
+		["insertKeystone"] = true,
+		["show_absolute_numbers"] = false,
+		["objectiveTime"] = true,
+		["hide_default_objectivetracker"] = true,
+		["showAffixesAsText"] = true,
 		["best_times"] = {
 			[1771] = {
 				156, -- [1]
@@ -282,8 +352,12 @@ MythicPlusTimerDB = {
 					2154, -- [4]
 					1857, -- [5]
 				},
-				["l15affixes-8-10-14-120"] = {
-					1753, -- [1]
+				["l9affixes-2-7-10"] = {
+					369, -- [1]
+					830, -- [2]
+					1182, -- [3]
+					1382, -- [4]
+					1259, -- [5]
 				},
 				["l18"] = {
 					154, -- [1]
@@ -292,19 +366,15 @@ MythicPlusTimerDB = {
 					1608, -- [4]
 					1445, -- [5]
 				},
+				["l15affixes-8-10-14-120"] = {
+					1753, -- [1]
+				},
 				["l20"] = {
 					160, -- [1]
 					463, -- [2]
 					1054, -- [3]
 					1614, -- [4]
 					1434, -- [5]
-				},
-				["l9affixes-2-7-10"] = {
-					369, -- [1]
-					830, -- [2]
-					1182, -- [3]
-					1382, -- [4]
-					1259, -- [5]
 				},
 				["l9"] = {
 					369, -- [1]
@@ -1107,12 +1177,12 @@ MythicPlusTimerDB = {
 					839, -- [4]
 					723, -- [5]
 				},
-				["l19affixes-3-5-9-119"] = {
-					260, -- [1]
-					972, -- [2]
-					1160, -- [3]
-					1561, -- [4]
-					1354, -- [5]
+				["l20affixes-2-9-11-120"] = {
+					401, -- [1]
+					1208, -- [2]
+					1593, -- [3]
+					2131, -- [4]
+					1857, -- [5]
 				},
 				["l13"] = {
 					230, -- [1]
@@ -1142,19 +1212,19 @@ MythicPlusTimerDB = {
 					1098, -- [4]
 					959, -- [5]
 				},
-				["l20affixes-2-9-11-120"] = {
-					401, -- [1]
-					1208, -- [2]
-					1593, -- [3]
-					2131, -- [4]
-					1857, -- [5]
-				},
 				["l15affixes-2-9-11-119"] = {
 					196, -- [1]
 					993, -- [2]
 					762, -- [3]
 					1359, -- [4]
 					1198, -- [5]
+				},
+				["l19affixes-3-5-9-119"] = {
+					260, -- [1]
+					972, -- [2]
+					1160, -- [3]
+					1561, -- [4]
+					1354, -- [5]
 				},
 				["l15affixes-4-6-9-120"] = {
 					238, -- [1]
@@ -1740,76 +1810,6 @@ MythicPlusTimerDB = {
 				},
 			},
 		},
-		["objectiveTimeInChat"] = true,
-		["hideDefaultObjectiveTracker"] = true,
-		["position"] = {
-			["top"] = 190,
-			["left"] = -260,
-			["relative_point"] = "RIGHT",
-		},
-		["show_affixes_as_icons"] = false,
-		["current_run"] = {
-			["is_completed"] = true,
-			["level_key"] = "l16",
-			["quantity_number"] = 261,
-			["cm_level"] = 16,
-			["time_left_3"] = 0,
-			["quantity_completed"] = true,
-			["zone_name"] = "Freehold",
-			["time_left_2"] = 0,
-			["time_left"] = 254,
-			["deathcount_visible"] = true,
-			["steps"] = 5,
-			["death_names"] = {
-				["Turkeyuno-Area52"] = 1,
-				["Evanpal-Area52"] = 1,
-				["Nv-Area52"] = 3,
-				["Felfanatic-Area52"] = 4,
-				["Toshdk"] = 4,
-			},
-			["final_quantity_number"] = 261,
-			["is_reaping"] = false,
-			["affixes_key"] = "affixes-9-6-4-120",
-			["max_time"] = 1980,
-			["affixes"] = {
-				9, -- [1]
-				6, -- [2]
-				4, -- [3]
-				120, -- [4]
-			},
-			["times"] = {
-				282, -- [1]
-				941, -- [2]
-				1316, -- [3]
-				1726, -- [4]
-				1061, -- [5]
-				["5last_best_time_zone_level"] = 1741,
-				["4last_best_time_zone_level"] = 1512,
-				["3last_best_time_zone_level"] = 1549,
-				["2last_best_time_zone_level"] = 798,
-				["1last_best_time_zone_level"] = 240,
-				["5last_best_time_zone"] = 889,
-				["4last_best_time_zone"] = 1053,
-				["3last_best_time_zone"] = 845,
-				["2last_best_time_zone"] = 433,
-				["1last_best_time_zone"] = 156,
-			},
-			["current_map_id"] = 245,
-			["deathcount"] = 13,
-			["current_zone_id"] = 1754,
-			["elapsed_time"] = 1726,
-		},
-		["objectiveTimePerLevel"] = true,
-		["show_affixes_as_text"] = true,
-		["objective_time"] = true,
-		["show_reapingtimer"] = true,
-		["objective_time_inchat"] = true,
-		["insertKeystone"] = true,
-		["show_absolute_numbers"] = false,
-		["objectiveTime"] = true,
-		["hide_default_objectivetracker"] = true,
-		["showAffixesAsText"] = true,
-		["progressTooltip"] = true,
 		["insert_keystone"] = true,
 		["objective_time_perlevel"] = false,
 		["npc_progress"] = {
@@ -2272,8 +2272,8 @@ MythicPlusTimerDB = {
 			[135240] = {
 				[2] = 125,
 			},
-			[137478] = {
-				[6] = 14,
+			[141566] = {
+				9, -- [1]
 			},
 			[150250] = {
 				[4] = 28,
@@ -2312,8 +2312,8 @@ MythicPlusTimerDB = {
 			[134602] = {
 				[4] = 12,
 			},
-			[150253] = {
-				[6] = 7,
+			[137989] = {
+				176, -- [1]
 			},
 			[116549] = {
 				[4] = 1,
@@ -2348,8 +2348,8 @@ MythicPlusTimerDB = {
 			[98425] = {
 				[4] = 1,
 			},
-			[141566] = {
-				9, -- [1]
+			[137478] = {
+				[6] = 14,
 			},
 			[134158] = {
 				[6] = 30,
@@ -2786,14 +2786,14 @@ MythicPlusTimerDB = {
 			[97172] = {
 				1, -- [1]
 			},
-			[100526] = {
+			[105636] = {
 				[4] = 1,
 			},
 			[133663] = {
 				[4] = 108.6,
 				[6] = 0.08589934592000005,
 			},
-			[105636] = {
+			[92350] = {
 				[4] = 1,
 			},
 			[136665] = {
@@ -2808,11 +2808,11 @@ MythicPlusTimerDB = {
 			[150143] = {
 				[4] = 22,
 			},
-			[92350] = {
+			[100526] = {
 				[4] = 1,
 			},
-			[98706] = {
-				[6] = 1,
+			[136347] = {
+				363, -- [1]
 			},
 			[133345] = {
 				[5] = 21,
@@ -2829,8 +2829,8 @@ MythicPlusTimerDB = {
 			[104295] = {
 				1, -- [1]
 			},
-			[97173] = {
-				[4] = 1,
+			[98706] = {
+				[6] = 1,
 			},
 			[131812] = {
 				[6] = 23,
@@ -2880,8 +2880,8 @@ MythicPlusTimerDB = {
 			[129367] = {
 				[4] = 30,
 			},
-			[131112] = {
-				[6] = 62,
+			[139799] = {
+				[9] = 95,
 			},
 			[141587] = {
 				1, -- [1]
@@ -2897,8 +2897,8 @@ MythicPlusTimerDB = {
 				[4] = 118.8,
 				[3] = 0.01801439850948201,
 			},
-			[129559] = {
-				[4] = 37,
+			[131112] = {
+				[6] = 62,
 			},
 			[98900] = {
 				[4] = 1,
@@ -2954,8 +2954,8 @@ MythicPlusTimerDB = {
 			[114804] = {
 				[4] = 1,
 			},
-			[139799] = {
-				[9] = 95,
+			[129559] = {
+				[4] = 37,
 			},
 			[100529] = {
 				1, -- [1]
@@ -2972,8 +2972,8 @@ MythicPlusTimerDB = {
 			[101679] = {
 				[4] = 1,
 			},
-			[136347] = {
-				363, -- [1]
+			[97173] = {
+				[4] = 1,
 			},
 			[99188] = {
 				[4] = 1,
@@ -3154,8 +3154,8 @@ MythicPlusTimerDB = {
 			[115831] = {
 				[4] = 1,
 			},
-			[137989] = {
-				176, -- [1]
+			[150253] = {
+				[6] = 7,
 			},
 			[122969] = {
 				[4] = 120.2,

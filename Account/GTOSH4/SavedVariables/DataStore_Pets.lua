@@ -15,10 +15,10 @@ DataStore_PetsDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -68,14 +68,14 @@ DataStore_PetsDB = {
 				[177225] = 143809,
 				[177241] = 143797,
 				[301031] = 154833,
-				[193514] = 97205,
+				[301033] = 154835,
 				[122748] = 62829,
 				[193434] = 98116,
 				[225200] = 113136,
 				[179830] = 90201,
 				[177226] = 143808,
 				[315225] = 161921,
-				[280332] = 143816,
+				[193514] = 97205,
 				[274776] = 140125,
 				[210691] = 99526,
 				[223359] = 112144,
@@ -103,9 +103,9 @@ DataStore_PetsDB = {
 				[170292] = 85284,
 				[179833] = 90204,
 				[273195] = 139073,
+				[173547] = 86719,
 				[191073] = 96405,
 				[177230] = 143805,
-				[173547] = 86719,
 				[301136] = 154893,
 				[288916] = 148995,
 				[42609] = 23909,
@@ -134,7 +134,7 @@ DataStore_PetsDB = {
 				[280334] = 143818,
 				[315303] = 161966,
 				[78683] = 42177,
-				[301033] = 154835,
+				[280332] = 143816,
 				[135268] = 68658,
 				[315304] = 161967,
 				[10714] = 7565,
@@ -159,7 +159,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1584068457,
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1590032885,
+				["lastUpdate"] = 1590635843,
 				["CRITTER"] = {
 					62746, -- [1]
 					10714, -- [2]
@@ -276,7 +276,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1588221831,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1590550231,
+				["lastUpdate"] = 1590628165,
 				["CRITTER"] = {
 					315302, -- [1]
 					315290, -- [2]
@@ -311,7 +311,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1590550362,
+				["lastUpdate"] = 1590639224,
 				["CRITTER"] = {
 					315302, -- [1]
 					315229, -- [2]
