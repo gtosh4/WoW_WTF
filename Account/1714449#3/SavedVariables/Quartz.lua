@@ -20,24 +20,24 @@ Quartz3DB = {
 				},
 			},
 		},
-		["EnemyCasts"] = {
-		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 12,
 					["targetname"] = true,
 					["w"] = 500,
-					["hideicon"] = true,
+					["y"] = 341.412750244141,
 					["border"] = "None",
 					["x"] = 1480.81762695313,
 					["texture"] = "ElvUI Norm",
-					["y"] = 341.412750244141,
+					["hideicon"] = true,
 				},
 				["DEMONHUNTER"] = {
 					["x"] = 1605.81762695313,
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 			["profiles"] = {
@@ -69,9 +69,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Range"] = {
-		},
 		["Mirror"] = {
+		},
+		["Range"] = {
 		},
 		["Latency"] = {
 		},
@@ -80,17 +80,17 @@ Quartz3DB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshtrial - Blood Furnace"] = "Default",
 		["Toshaman - Dreadmaul"] = "Default",
-		["Toshweaver - Area 52"] = "Default",
-		["Tosh - Kil'jaeden"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
-		["Toshaman - Area 52"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Tosh - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Default",
+		["Toshweaver - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -98,9 +98,9 @@ Quartz3DB = {
 				["Swing"] = false,
 				["Focus"] = false,
 				["Timer"] = false,
-				["Target"] = false,
-				["Mirror"] = false,
 				["Buff"] = false,
+				["Mirror"] = false,
+				["Target"] = false,
 			},
 		},
 		["DEMONHUNTER"] = {

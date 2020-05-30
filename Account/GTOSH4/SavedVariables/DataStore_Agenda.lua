@@ -15,10 +15,10 @@ DataStore_AgendaDB = {
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -79,10 +79,11 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1581544133,
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1590639344,
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|377380363"] = "470773|1590639226|0|1",
+					["Battle of Dazar'alor Mythic|377380363"] = "300639|1590809360|0|1",
+					["Ny'alotha, the Waking City Mythic|377746062"] = "300639|1590809360|0|1",
 				},
+				["lastUpdate"] = 1590809395,
 			},
 			["Default.Frostwolf.Sumex"] = {
 				["lastUpdate"] = 1581544171,

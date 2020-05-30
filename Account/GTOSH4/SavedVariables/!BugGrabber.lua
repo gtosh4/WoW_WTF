@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 2416,
+	["session"] = 2418,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -35,28 +35,28 @@ BugGrabberDB = {
 			["counter"] = 13,
 		}, -- [4]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'WorldFrame:ClearAllPoints()'.",
-			["time"] = "2020/05/20 21:12:54",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:69: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:56: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2687: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2768: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2456: in function <Interface\\FrameXML\\UIParent.lua:2448>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3326: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
-			["session"] = 2413,
-			["counter"] = 4,
-		}, -- [5]
-		{
-			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
-			["time"] = "2020/05/20 21:08:59",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
-			["session"] = 2415,
-			["counter"] = 91,
-		}, -- [6]
-		{
 			["message"] = "invalid key to 'next'",
 			["time"] = "2020/05/27 23:58:46",
 			["locals"] = "(*temporary) = <table> {\n}\n(*temporary) = \"raid1target\"\n",
 			["stack"] = "[string \"=[C]\"]: in function `(for generator)'\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20200115110242.lua\"]:49: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:46>\n[string \"@Interface\\AddOns\\TellMeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0-20200115110242.lua\"]:56: in function <...MeWhen\\Lib\\LibDogTag-Unit-3.0\\LibDogTag-Unit-3.0.lua:55>",
 			["session"] = 2416,
 			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
+			["time"] = "2020/05/20 21:08:59",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
+			["session"] = 2418,
+			["counter"] = 136,
+		}, -- [6]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'WorldFrame:ClearAllPoints()'.",
+			["time"] = "2020/05/20 21:12:54",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:69: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:56: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2687: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2768: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2456: in function <Interface\\FrameXML\\UIParent.lua:2448>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3326: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
+			["session"] = 2418,
+			["counter"] = 5,
 		}, -- [7]
 	},
 }

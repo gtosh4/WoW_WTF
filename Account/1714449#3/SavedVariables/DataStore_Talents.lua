@@ -8,9 +8,9 @@ DataStore_TalentsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -23,20 +23,20 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1590635823,
+				["lastUpdate"] = 1590805737,
 				["Specializations"] = {
 					[3] = 8087,
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1590632121,
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762302,
 				["Specializations"] = {
-					13823, -- [1]
-					10670, -- [2]
-					10167, -- [3]
+					12126, -- [1]
+					0, -- [2]
+					8087, -- [3]
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "SHAMAN",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015426,
@@ -46,7 +46,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Area 52.Toshweaver"] = {
-				["lastUpdate"] = 1590628185,
+				["lastUpdate"] = 1590800621,
 				["Specializations"] = {
 					[2] = 0,
 				},
@@ -61,14 +61,14 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "MONK",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762302,
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1590814798,
 				["Specializations"] = {
-					12126, -- [1]
-					0, -- [2]
-					8087, -- [3]
+					13823, -- [1]
+					10670, -- [2]
+					10167, -- [3]
 				},
-				["Class"] = "SHAMAN",
+				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762463,
@@ -91,9 +91,9 @@ DataStore_TalentsRefDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["SHAMAN"] = {
