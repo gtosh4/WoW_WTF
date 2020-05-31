@@ -140,7 +140,7 @@ JambaTeamProfileDB = {
 				["Toshpal-Area52"] = false,
 				["Toshaman-Area52"] = false,
 				["Toshdk-Kil'Jaeden"] = true,
-				["Toshdk-Kil'jaeden"] = false,
+				["Toshdk-Kil'jaeden"] = true,
 			},
 			["characterClass"] = {
 				["Toshpal-Kil'jaeden"] = "PALADIN",

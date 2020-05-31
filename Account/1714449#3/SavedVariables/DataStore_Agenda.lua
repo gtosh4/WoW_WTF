@@ -58,10 +58,11 @@ DataStore_AgendaDB = {
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|377746062"] = "295120|1590814878|0|1",
-					["Battle of Dazar'alor Mythic|390828617"] = "295120|1590814878|0|1",
+					["Ny'alotha, the Waking City Mythic|377746062"] = "228223|1590881776|0|1",
+					["Battle of Dazar'alor Mythic|390828617"] = "228223|1590881776|0|1",
+					["Ny'alotha, the Waking City Heroic|377904131"] = "228223|1590881776|0|1",
 				},
-				["lastUpdate"] = 1590814798,
+				["lastUpdate"] = 1590881774,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762465,

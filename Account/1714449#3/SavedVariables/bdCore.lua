@@ -28,6 +28,20 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
+		["Toshweaver"] = {
+			["profile"] = "default",
+			["name"] = "Toshweaver",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
 		["Toshmonk"] = {
 			["profile"] = "default",
 			["name"] = "Toshmonk",
@@ -45,20 +59,6 @@ BD_persistent = {
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Toshweaver"] = {
-			["profile"] = "default",
-			["name"] = "Toshweaver",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -138,26 +138,6 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = true,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				["First 3 M EP  WED @ 7pm CST. Mythic EP FRI @ normal raid time. Only raiding FRI this week."] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -212,7 +192,7 @@ BD_persistent = {
 				["Wed Mythic EP @ 8pm CST. We are NOT raiding nov 29/30th. Normal Raid Schedule Dec 6/7"] = true,
 				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
-				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
+				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["kill n'zoth pls. main raid fri/sat 830pm-1230am cst"] = true,
 				["RIP Toshmonk"] = true,
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  carapace"] = true,
@@ -224,10 +204,10 @@ BD_persistent = {
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Mythic first 3 wed @8pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
-				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["Mythic nzoth fri/sat 830pm cst "] = true,
+				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
+				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
@@ -237,13 +217,33 @@ BD_persistent = {
 				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
 				["Mythic BoD x4 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
 				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
-				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  be prepared for ilgy/carapace"] = true,
 				["Heroic Main Raid tonight @ 7pm cst (thurs 2/13). Main Raid Fri/Sat Look up vexiona"] = true,
 				["Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete."] = true,
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
 				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
+			["font"] = "Friz Quadrata TT",
+			["skingmotd"] = true,
+			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

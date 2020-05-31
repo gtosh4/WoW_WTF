@@ -1,31 +1,8 @@
 
 BugGrabberDB = {
-	["session"] = 1822,
+	["session"] = 1824,
 	["lastSanitation"] = 3,
 	["errors"] = {
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
-			["time"] = "2020/05/29 19:37:20",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:487: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
-			["session"] = 1813,
-			["counter"] = 1,
-		}, -- [1]
-		{
-			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
-			["time"] = "2020/05/29 22:20:04",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
-			["session"] = 1820,
-			["counter"] = 23,
-		}, -- [2]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroup1:Show()'.",
-			["time"] = "2020/05/29 22:15:34",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:243: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
-			["session"] = 1822,
-			["counter"] = 2,
-		}, -- [3]
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
 			["time"] = "2020/05/30 00:51:34",
@@ -33,6 +10,29 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
 			["session"] = 1822,
 			["counter"] = 1,
+		}, -- [1]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
+			["time"] = "2020/05/29 19:37:20",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:487: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
+			["session"] = 1823,
+			["counter"] = 2,
+		}, -- [2]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroup1:Show()'.",
+			["time"] = "2020/05/29 22:15:34",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:243: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
+			["session"] = 1824,
+			["counter"] = 3,
+		}, -- [3]
+		{
+			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
+			["time"] = "2020/05/29 22:20:04",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
+			["session"] = 1824,
+			["counter"] = 77,
 		}, -- [4]
 	},
 }
