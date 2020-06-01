@@ -15,10 +15,10 @@ Gladius2DB = {
 		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Default",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -26,31 +26,31 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
-			["trinketGridStyleIcon"] = true,
-			["powerBarTexture"] = "Smooth v2",
-			["classIconShowSpec"] = true,
-			["timerOmniCC"] = true,
-			["tagsTexts"] = {
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-			},
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["castBarTexture"] = "Smooth v2",
 			["modules"] = {
 				["Announcements"] = false,
+			},
+			["timerOmniCC"] = true,
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 229.7807371077943,
 			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
 			},
 			["castBarAttachTo"] = "Frame",
+			["trinketGridStyleIcon"] = true,
+			["tagsTexts"] = {
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+			},
 			["castBarAnchor"] = "BOTTOMLEFT",
-			["locked"] = true,
-			["tagsVersion"] = 4,
+			["castBarTexture"] = "Smooth v2",
 			["healthBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
+			["powerBarTexture"] = "Smooth v2",
+			["classIconShowSpec"] = true,
 		},
 		["Daggny - Frostwolf"] = {
 			["auraVersion"] = 1,
@@ -140,7 +140,9 @@ Gladius2DB = {
 			["y"] = {
 				["arena1"] = 442.0468255028536,
 			},
-			["dispellGloss"] = false,
+			["x"] = {
+				["arena1"] = 1116.533833770722,
+			},
 			["announcements"] = {
 				["spec"] = false,
 				["health"] = false,
@@ -150,9 +152,7 @@ Gladius2DB = {
 			["locked"] = true,
 			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Blank",
-			["x"] = {
-				["arena1"] = 1116.533833770722,
-			},
+			["dispellGloss"] = false,
 		},
 		["Toshpriest - Illidan"] = {
 			["y"] = {
@@ -193,6 +193,26 @@ Gladius2DB = {
 			["y"] = {
 				["arena1"] = 688.4467365182063,
 			},
+		},
+		["Toshaman - Area 52"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 291.1133534258697,
+			},
+			["x"] = {
+				["arena1"] = 1615.733250182529,
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["y"] = {
+				["arena1"] = 453.2466979451419,
+			},
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1376.800179584418,
+			},
+			["auraVersion"] = 1,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
@@ -317,37 +337,32 @@ Gladius2DB = {
 			["healthBarTexture"] = "ElvUI Norm",
 			["aurasBuffsWidth"] = 22,
 		},
-		["Toshpal - Area 52"] = {
-			["y"] = {
-				["arena1"] = 453.2466979451419,
-			},
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1376.800179584418,
-			},
-			["auraVersion"] = 1,
-		},
-		["Koutetsu - Frostwolf"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 690.5799346452404,
-			},
-			["x"] = {
-				["arena1"] = 1464.799972197332,
-			},
-		},
 		["Tosh - Frostwolf"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 		},
 		["Default"] = {
+			["powerBarTexture"] = "ElvUI Norm",
+			["aurasBuffs"] = true,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["locked"] = true,
 			["aurasBuffsPerColumn"] = 5,
+			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -422,20 +437,8 @@ Gladius2DB = {
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["classIconGloss"] = false,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
-			["aurasBuffsHeight"] = 22,
-			["aurasBuffs"] = true,
-			["aurasBuffsWidth"] = 22,
+			["classIconShowSpec"] = true,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -448,30 +451,27 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
+			["y"] = {
+				["arena1"] = 263.99849693316,
 			},
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["aurasBuffsHeight"] = 22,
 			["castBarTexture"] = "ElvUI Norm",
+			["aurasBuffsWidth"] = 22,
+			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["powerBarTexture"] = "ElvUI Norm",
-			["classIconShowSpec"] = true,
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 291.1133534258697,
+				["arena1"] = 690.5799346452404,
 			},
 			["x"] = {
-				["arena1"] = 1615.733250182529,
+				["arena1"] = 1464.799972197332,
 			},
 		},
 		["Toshtrial - The Forgotten Coast"] = {

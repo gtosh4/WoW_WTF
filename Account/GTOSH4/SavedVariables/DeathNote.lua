@@ -15,10 +15,10 @@ DeathNoteDB = {
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -28,9 +28,9 @@ DeathNoteDB = {
 		["Toshdk - Kil'jaeden"] = {
 			["searchbox_text"] = "",
 			["display"] = {
+				["w"] = 700.0000610351562,
 				["y"] = 205.2828979492188,
 				["x"] = 845.2829895019531,
-				["w"] = 700.0000610351562,
 				["namelist"] = 2,
 			},
 		},
@@ -99,10 +99,12 @@ DeathNoteDB = {
 		["Toshpal - Area 52"] = {
 			["searchbox_text"] = "",
 			["display"] = {
-				["w"] = 700.0000610351562,
 				["y"] = 255.59716796875,
 				["x"] = 1002.263702392578,
+				["w"] = 700.0000610351562,
 			},
+		},
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 			["searchbox_text"] = "",
@@ -114,11 +116,9 @@ DeathNoteDB = {
 				["h"] = 500.000183105469,
 			},
 		},
-		["Toshaman - Area 52"] = {
-		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshtrial - The Forgotten Coast"] = {
 		},

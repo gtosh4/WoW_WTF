@@ -4,51 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 249,
-		["splits"] = {
-			417, -- [1]
-			1036, -- [2]
-			1640, -- [3]
-			2088, -- [4]
-			1813, -- [5]
-			["party1Name"] = "Toshpal",
-			["party1Class"] = "Paladin",
-			["party4Class"] = "Paladin",
-			["party2Name"] = "Gummybuns",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 2520,
-			["level"] = 15,
-			["timeElapsed"] = 2088.568,
-			["party3Role"] = "DAMAGER",
-			["affixes3"] = 14,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Delpix",
-			["affixes2"] = 5,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Spoonerisms",
-			["party4Role"] = "TANK",
-			["party3Class"] = "Warlock",
-			["wasEnergized"] = true,
-			["affixes1"] = 10,
-			["party5Class"] = "Rogue",
-			["mapID"] = 1762,
-			["party2Role"] = "TANK",
-			["date"] = 1590901547,
-			["party2Class"] = "Monk",
-			["party5Name"] = "Emosong",
-		},
 		["playerDeaths"] = {
-			["Emosong-Kil'jaeden"] = 1,
-			["Delpix"] = 2,
-			["Toshpal"] = 1,
-			["Spoonerisms-Kil'jaeden"] = 2,
-		},
-		["splitNames"] = {
-			"Defeat The Golden Serpent", -- [1]
-			"Defeat Mchimba the Embalmer", -- [2]
-			"Defeat The Council of Tribes", -- [3]
-			"Defeat Dazar, The First King", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -143,9 +99,9 @@ AngryKeystones_Data = {
 			[9] = 140,
 		},
 		[148893] = {
-			[7] = 1,
 			[9] = 1,
 			[4] = 1,
+			[7] = 1,
 		},
 		[133436] = {
 			[5] = 5,
@@ -718,11 +674,11 @@ AngryKeystones_Data = {
 		[137478] = {
 			[6] = 15,
 		},
-		[150154] = {
-			[4] = 1,
-		},
 		[135846] = {
 			[2] = 4,
+		},
+		[150154] = {
+			[4] = 1,
 		},
 		[138465] = {
 			[4] = 20,
@@ -768,8 +724,8 @@ AngryKeystones_Data = {
 		[130436] = {
 			166, -- [1]
 		},
-		[136295] = {
-			[13] = 8,
+		[134251] = {
+			[4] = 15,
 		},
 		[139425] = {
 			[4] = 16,
@@ -780,15 +736,15 @@ AngryKeystones_Data = {
 		[97754] = {
 			4, -- [1]
 		},
-		[130011] = {
-			[4] = 28,
-		},
 		[130522] = {
 			[2] = 201,
 			[6] = 1,
 		},
-		[152009] = {
-			[5] = 22,
+		[130011] = {
+			[4] = 28,
+		},
+		[127488] = {
+			[7] = 59,
 		},
 		[150249] = {
 			[4] = 29,
@@ -796,11 +752,11 @@ AngryKeystones_Data = {
 		[132126] = {
 			[4] = 100,
 		},
-		[127488] = {
-			[7] = 59,
+		[152009] = {
+			[5] = 22,
 		},
-		[134251] = {
-			[4] = 15,
+		[136295] = {
+			[13] = 8,
 		},
 		[138247] = {
 			143, -- [1]

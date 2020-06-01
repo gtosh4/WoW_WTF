@@ -1,11 +1,10 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpal-area-52"
+RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Clammert-bleeding-hollow"] = true,
-	["us-Dkmilt-azgalor"] = true,
-	["us-Angrim-area-52"] = true,
-	["us-Bonshee-bleeding-hollow"] = true,
-	["us-Kilaalaa-area-52"] = true,
+	["us-Extrajuicy-kiljaeden"] = true,
+	["us-Iskandàr-kiljaeden"] = true,
+	["us-Adrias-kiljaeden"] = true,
+	["us-Dônce-kiljaeden"] = true,
 }

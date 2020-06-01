@@ -15,10 +15,10 @@ DataStore_StatsDB = {
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
@@ -144,7 +144,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1590883602,
+				["lastUpdate"] = 1590964746,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|14.624999046326",
 					["HealthMax"] = 825854,
@@ -183,7 +183,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1590902106,
+				["lastUpdate"] = 1590964498,
 				["Stats"] = {
 					["Ranged"] = "6739-6740|0|0|0|25.847221374512",
 					["HealthMax"] = 528880,

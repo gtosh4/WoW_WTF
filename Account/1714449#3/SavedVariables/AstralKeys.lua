@@ -77,9 +77,9 @@ AstralKeys = {
 		"MAGE", -- [2]
 		244, -- [3]
 		18, -- [4]
-		12, -- [5]
+		19, -- [5]
 		149, -- [6]
-		372953, -- [7]
+		456334, -- [7]
 	}, -- [9]
 	{
 		"Bluearruwu-Area52", -- [1]
@@ -111,11 +111,11 @@ AstralKeys = {
 	{
 		"Toshpal-Area52", -- [1]
 		"PALADIN", -- [2]
-		249, -- [3]
-		15, -- [4]
-		0, -- [5]
+		246, -- [3]
+		16, -- [4]
+		15, -- [5]
 		149, -- [6]
-		372600, -- [7]
+		458762, -- [7]
 	}, -- [13]
 	{
 		"Toshaman-Area52", -- [1]
@@ -149,9 +149,9 @@ AstralKeys = {
 		"MONK", -- [2]
 		249, -- [3]
 		21, -- [4]
-		20, -- [5]
+		22, -- [5]
 		149, -- [6]
-		376575, -- [7]
+		456754, -- [7]
 	}, -- [17]
 	{
 		"Toshpriest-Area52", -- [1]
@@ -160,7 +160,7 @@ AstralKeys = {
 		14, -- [4]
 		19, -- [5]
 		149, -- [6]
-		376616, -- [7]
+		459248, -- [7]
 	}, -- [18]
 	{
 		"Houji-Area52", -- [1]
@@ -180,25 +180,43 @@ AstralKeys = {
 		149, -- [6]
 		295863, -- [7]
 	}, -- [20]
+	{
+		"Delpix-Area52", -- [1]
+		"WARLOCK", -- [2]
+		252, -- [3]
+		17, -- [4]
+		15, -- [5]
+		149, -- [6]
+		4, -- [7]
+	}, -- [21]
+	{
+		"Race-Area52", -- [1]
+		"ROGUE", -- [2]
+		370, -- [3]
+		14, -- [4]
+		15, -- [5]
+		149, -- [6]
+		4, -- [7]
+	}, -- [22]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 20,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Area52",
 	}, -- [1]
 	{
 		["weekly_best"] = 19,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
+		["faction"] = 1,
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["unit"] = "Toshweaver-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshweaver-Area52",
 	}, -- [3]
 }
 AstralFriends = {
@@ -413,12 +431,37 @@ AstralFriends = {
 	}, -- [19]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
 		},
 		["show_other_faction"] = {
 			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1591110000,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["raid"] = false,
+			["party"] = true,
+			["no_key"] = true,
+			["guild"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
 		},
 	},
 	["frame"] = {
@@ -434,9 +477,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -445,33 +486,10 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1591110000,
-		["expanded_tooltip"] = {
+		["show_offline"] = {
 			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["no_key"] = true,
-			["party"] = true,
-			["guild"] = true,
-			["raid"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
 		},
 	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -482,9 +500,9 @@ AstralMinimap = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
 		["Toshweaver - Area 52"] = {
@@ -507,11 +525,11 @@ AstralMinimap = {
 				["minimapPos"] = 176.540172018723,
 			},
 		},
-		["Toshaman - Area 52"] = {
+		["Toshpal - Kil'jaeden"] = {
 		},
 		["Toshaman - Kil'jaeden"] = {
 		},
-		["Toshpal - Kil'jaeden"] = {
+		["Toshaman - Area 52"] = {
 		},
 	},
 }

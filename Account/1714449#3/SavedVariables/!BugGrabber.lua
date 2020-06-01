@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1824,
 	["lastSanitation"] = 3,
+	["session"] = 1825,
 	["errors"] = {
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
@@ -31,8 +31,8 @@ BugGrabberDB = {
 			["time"] = "2020/05/29 22:20:04",
 			["locals"] = "Skipped (In Encounter)",
 			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
-			["session"] = 1824,
-			["counter"] = 77,
+			["session"] = 1825,
+			["counter"] = 86,
 		}, -- [4]
 	},
 }

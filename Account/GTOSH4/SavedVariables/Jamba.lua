@@ -302,10 +302,10 @@ JambaTeamProfileDB = {
 			["characterOnline"] = {
 				["Toshpal-Kil'jaeden"] = false,
 				["Toshaman-Kil'jaeden"] = false,
-				["Toshpal-Area52"] = true,
+				["Toshpal-Area52"] = false,
 				["Toshpala-Illidan"] = false,
 				["Toshwar-Kil'jaeden"] = false,
-				["Toshdk-Kil'jaeden"] = false,
+				["Toshdk-Kil'jaeden"] = true,
 				["Tosh-Kil'jaeden"] = false,
 				["Yorman-Kil'jaeden"] = false,
 			},
