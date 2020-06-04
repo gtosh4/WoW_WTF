@@ -2,9 +2,9 @@
 JambaToonProfileDB = {
 	["profileKeys"] = {
 		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
-		["Tosh - Kil'jaeden"] = "Default",
-		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Toshaman - Area 52"] = "Default",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
@@ -20,10 +20,10 @@ JambaToonProfileDB = {
 		["Toshpriest - Area 52"] = {
 		},
 		["Default"] = {
-			["autoRepair"] = false,
-			["autoDenyDuels"] = false,
-			["acceptDeathRequests"] = false,
 			["autoAcceptResurrectRequest"] = false,
+			["autoDenyDuels"] = false,
+			["autoRepair"] = false,
+			["acceptDeathRequests"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
 		},

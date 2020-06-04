@@ -42,17 +42,17 @@ JambaToonProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Default"] = {
 			["acceptDeathRequests"] = false,
 			["autoAcceptResurrectRequest"] = false,
 		},
-		["Koutetsu - Frostwolf"] = {
-		},
-		["Toshmoney - Quel'dorei"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosh - Frostwolf"] = {
+		},
+		["Toshmoney - Quel'dorei"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

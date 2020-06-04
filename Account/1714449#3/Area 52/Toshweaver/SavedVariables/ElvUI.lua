@@ -5,866 +5,10 @@ ElvCharacterDB = {
 		"/who toshmonk", -- [2]
 		"/ec", -- [3]
 		"inv", -- [4]
+		"/who turkey", -- [5]
+		"/inv turkeydh", -- [6]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"inv", -- [1]
-			"|Kq6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1588816543,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [1]
-		{
-			"\"Huokan Boosting Community\" is looking for M+, Heroic Raid, and Horrific Vision boosters and advertisers. You can earn more than 400K EACH DAY with us. We have upto 28% advertisers cuts!! Don't waste your high ilvl gears and skills, and join us!", -- [1]
-			"Zulazzarnwaz-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zulazzarnwaz-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			33, -- [11]
-			"Player-3676-0AC95238", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Zulazzarnwaz|r",
-			[51] = 1588816582,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"yes, probably", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			41, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1588816583,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"yeah unless you know how to do this boss", -- [1]
-			"Thiccgril-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thiccgril-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			42, -- [11]
-			"Player-9-0AFDB207", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cThiccgril-Kil'jaeden|r",
-			[51] = 1588816587,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"its been a while", -- [1]
-			"Chillgash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chillgash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			47, -- [11]
-			"Player-3684-0A197A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Chillgash-Mal'Ganis|r",
-			[51] = 1588816595,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"Selling 0-4 mask horrific vision carries. No cape/research requirements, and you can AFK. No community prices. ALL PRICES ARE NEGOTIABLE!", -- [1]
-			"Cutiekiwis-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cutiekiwis-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			50, -- [11]
-			"Player-3676-0AC9D6D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Cutiekiwis|r",
-			[51] = 1588816599,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"but well see ", -- [1]
-			"Chillgash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chillgash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			51, -- [11]
-			"Player-3684-0A197A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Chillgash-Mal'Ganis|r",
-			[51] = 1588816600,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"make sure you tag the boss and die", -- [1]
-			"Rivalry-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			53, -- [11]
-			"Player-9-0AB1C1A5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry-Kil'jaeden|r",
-			[51] = 1588816604,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [8]
-		{
-			"WTS +M 10-15 Buy Any 2 Get one FREE! Gear stack avail! || 12/12H Ny CHEAP PST", -- [1]
-			"Boomalicious-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Boomalicious-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			57, -- [11]
-			"Player-3676-099535E8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Boomalicious|r",
-			[51] = 1588816612,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"oh", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			83, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1588816760,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"hm", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			84, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania-Kil'jaeden|r",
-			[51] = 1588816762,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"ive never done slow side my entire life", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			85, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1588816768,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"c", -- [1]
-			"|Kq6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			120, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Envious|r",
-			[51] = 1588816867,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [13]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			123, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace-Kil'jaeden|r",
-			[51] = 1588816903,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"E ERrr Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			134, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace-Kil'jaeden|r",
-			[51] = 1588816923,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
-			"E ERrr Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			160, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace-Kil'jaeden|r",
-			[51] = 1588817066,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"E ERrr Lady Jaina Proudmoore!", -- [1]
-			"Peace-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Peace-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			"Player-9-09B16B50", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Peace-Kil'jaeden|r",
-			[51] = 1588817107,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165583::::::::120:267::6:3:4800:1537:4786:::|h[Fogbreaker, Light of the Sea]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			197, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania-Kil'jaeden|r",
-			[51] = 1588817151,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165583::::::::120:267::6:3:4800:1537:4786:::|h[Fogbreaker, Light of the Sea]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			199, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania-Kil'jaeden|r",
-			[51] = 1588817152,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
-			"WOOT ty GUYS!", -- [1]
-			"Chillgash-Mal'Ganis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chillgash-Mal'Ganis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			210, -- [11]
-			"Player-3684-0A197A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Chillgash-Mal'Ganis|r",
-			[51] = 1588817184,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
-		{
-			"np o/", -- [1]
-			"Warlockmania-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlockmania-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			212, -- [11]
-			"Player-9-0AE4E8BB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania-Kil'jaeden|r",
-			[51] = 1588817188,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"grats", -- [1]
-			"Backstab-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Backstab-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			213, -- [11]
-			"Player-9-0B1241C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Backstab-Kil'jaeden|r",
-			[51] = 1588817189,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
-		{
-			"thanks yall", -- [1]
-			"Daddysboy-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daddysboy-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			214, -- [11]
-			"Player-57-0BD65617", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Daddysboy-Illidan|r",
-			[51] = 1588817192,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
-		{
-			"very nice!", -- [1]
-			"Daddysboy-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daddysboy-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			217, -- [11]
-			"Player-57-0BD65617", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Daddysboy-Illidan|r",
-			[51] = 1588817198,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
-		{
-			"WTS M+ 12-15 ONLY GOLD! Get done your weekly chest with 465 or 475 item + titanium residuum, we are ready to go, whisp me for info!!!", -- [1]
-			"Deádlyshóot-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Deádlyshóot-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			26, -- [11]
-			"Player-3676-0A2546FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Deádlyshóot|r",
-			[51] = 1589699514,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"WTS M+ 12-15 ONLY GOLD! Get done your weekly chest with 465 or 475 item + titanium residuum, we are ready to go, whisp me for info!!!", -- [1]
-			"Deádlyshóot-Area52", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Deádlyshóot-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			35, -- [11]
-			"Player-3676-0A2546FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Deádlyshóot|r",
-			[51] = 1589699590,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"12 left", -- [1]
-			"Eau-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eau", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			15, -- [11]
-			"Player-9-0A185FCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
-			[51] = 1590023039,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [27]
-		{
-			"34 right", -- [1]
-			"Eau-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eau", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16, -- [11]
-			"Player-9-0A185FCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
-			[51] = 1590023040,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [28]
-		{
-			"buyers just tag the boss and jump please", -- [1]
-			"Eau-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eau", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			19, -- [11]
-			"Player-9-0A185FCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
-			[51] = 1590023047,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [29]
-		{
-			"k", -- [1]
-			"Killá-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Killá-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			23, -- [11]
-			"Player-57-0BF7F0BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cKillá-Illidan|r",
-			[51] = 1590023055,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
-		{
-			"troooooooooolling", -- [1]
-			"Choplo-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Choplo-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			92, -- [11]
-			"Player-3676-0AD94DBE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Choplo|r",
-			[51] = 1590023334,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Brewsko-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewsko-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			137, -- [11]
-			"Player-3676-0AD5360B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Brewsko|r",
-			[51] = 1590023440,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Brewsko-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Brewsko-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			138, -- [11]
-			"Player-3676-0AD5360B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Brewsko|r",
-			[51] = 1590023460,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:257::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
-			"Yuffio-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yuffio-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			230, -- [11]
-			"Player-9-0B133310", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeYuffio-Kil'jaeden|r",
-			[51] = 1590023996,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
-		{
-			"thanks guys, really appreciate it", -- [1]
-			"Sweebone-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sweebone-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			238, -- [11]
-			"Player-57-08AD58BF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Sweebone-Illidan|r",
-			[51] = 1590024048,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
-		{
-			"it drops 2 in one run ?", -- [1]
-			"Killá-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Killá-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-57-0BF7F0BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cKillá-Illidan|r",
-			[51] = 1590024048,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
-		{
-			"it does now", -- [1]
-			"Ardynix-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ardynix-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			246, -- [11]
-			"Player-11-0B98AE0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cArdynix-Tichondrius|r",
-			[51] = 1590024053,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
-		{
-			"ya", -- [1]
-			"Eau-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eau-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			247, -- [11]
-			"Player-9-0A185FCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Eau-Kil'jaeden|r",
-			[51] = 1590024054,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [38]
-		{
-			"inv", -- [1]
-			"|Kq6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			21, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Envious|r",
-			[51] = 1590627449,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [39]
 		{
 			"remember that one time in EP andrew", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -886,7 +30,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627485,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [1]
 		{
 			"we spelled a word", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -908,7 +52,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627488,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [2]
 		{
 			"w;)", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -930,7 +74,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627490,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [3]
 		{
 			"thanks", -- [1]
 			"Draxouss-Illidan", -- [2]
@@ -952,7 +96,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Draxouss-Illidan|r",
 			[51] = 1590627531,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [4]
 		{
 			"12 left", -- [1]
 			"Nv-Area52", -- [2]
@@ -974,7 +118,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590627544,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [44]
+		}, -- [5]
 		{
 			"34 right", -- [1]
 			"Nv-Area52", -- [2]
@@ -996,7 +140,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590627545,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [45]
+		}, -- [6]
 		{
 			"buyers tag boss and jump off please.", -- [1]
 			"Nv-Area52", -- [2]
@@ -1018,7 +162,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590627549,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [46]
+		}, -- [7]
 		{
 			"i pressed the wrong button", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1040,7 +184,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627645,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [8]
 		{
 			"[WeakAuras: Scitama-Kil'jaeden - Decidedly Uncouth - Jaina Graphics]", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1062,7 +206,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627792,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [9]
 		{
 			"Tier is over, macros are over", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1084,7 +228,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1590627814,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [10]
 		{
 			"it just changes contrast", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1106,7 +250,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627822,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [11]
 		{
 			"and says Meow when u need to clear before phase starts", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1128,7 +272,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627833,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [12]
 		{
 			"yea", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1150,7 +294,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627841,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [13]
 		{
 			"Meow", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1172,7 +316,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627842,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [14]
 		{
 			".", -- [1]
 			"Nv-Area52", -- [2]
@@ -1194,7 +338,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590627843,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [54]
+		}, -- [15]
 		{
 			"Meow", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1216,7 +360,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1590627846,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [16]
 		{
 			"TWO ELE?", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1238,7 +382,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590628083,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [17]
 		{
 			"thanks", -- [1]
 			"Nv-Area52", -- [2]
@@ -1260,7 +404,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590628177,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [57]
+		}, -- [18]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -1282,7 +426,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1590628178,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [19]
 		{
 			"grats", -- [1]
 			"Nv-Area52", -- [2]
@@ -1304,6 +448,2360 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590628195,
 			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [20]
+		{
+			"wat", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229144,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [21]
+		{
+			"how do you know", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			298, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229145,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [22]
+		{
+			"its called confidence", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			300, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229154,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [23]
+		{
+			"cuz of the implication", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229155,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [24]
+		{
+			"^", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			303, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229158,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [25]
+		{
+			"and 2/22/22 is on a tuesday", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			306, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229163,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [26]
+		{
+			"yes", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			307, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229167,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [27]
+		{
+			"who the fuck gets married on a tuesday", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			308, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229168,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [28]
+		{
+			"i do", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			310, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229170,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [29]
+		{
+			"cuz its", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			311, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229172,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [30]
+		{
+			"TWOSday", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			313, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229174,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [31]
+		{
+			"he does because he's a nerd", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			314, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229174,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [32]
+		{
+			"i guess", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			316, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229181,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [33]
+		{
+			"it only happens once every", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			320, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229186,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [34]
+		{
+			"if you're not expecting anyone to come to your wedding", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			321, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229187,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [35]
+		{
+			"3000 years", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			322, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229188,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [36]
+		{
+			"I just wanna let you all know he told be about this twosday shit like 5 years ago", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			323, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229189,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [37]
+		{
+			"when are you proposing then", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			324, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229201,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [38]
+		{
+			"its been 5 years?", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			325, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229202,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [39]
+		{
+			"idk maybe next year", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			326, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229212,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [40]
+		{
+			"man sci", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			327, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229214,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [41]
+		{
+			"i need 2 graduate first", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			328, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229218,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [42]
+		{
+			"we met like 7 years ago", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			329, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229218,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [43]
+		{
+			"what if she says no", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			330, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229218,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [44]
+		{
+			"then i just find another one i guess", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			331, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229224,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [45]
+		{
+			"LOL", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			332, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229227,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [46]
+		{
+			"I SEE", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			333, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229228,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [47]
+		{
+			"really quick", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			334, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229228,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [48]
+		{
+			"IS THAT HOW IT WORKS?", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			335, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229230,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [49]
+		{
+			"look", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			336, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229232,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [50]
+		{
+			"jess", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229237,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [51]
+		{
+			"im doing it on twos day", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			340, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229241,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [52]
+		{
+			"might not be to the person i want to", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			341, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229241,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [53]
+		{
+			"but i have to do it", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			342, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229242,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [54]
+		{
+			"i promised nammer", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			343, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229246,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [55]
+		{
+			"ya he did", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			345, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229251,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [56]
+		{
+			"y i k e s", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			346, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229251,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [57]
+		{
+			"and a friend doesnt break his promises", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			347, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229258,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [58]
+		{
+			"or ur a bad friend", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			351, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229268,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [59]
+		{
+			"you know getting an annulment isn't easy right ", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			352, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229277,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [60]
+		{
+			"just get married to nam", -- [1]
+			"Toshdk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshdk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			"Player-9-0B9D6659", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
+			[51] = 1591229280,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [61]
+		{
+			"When my long con didnt work out I dated her mother instead, been going 3 years and she has to listen to me bang her mom because she wont move out", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			354, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229284,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [62]
+		{
+			"LOL", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			355, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229285,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [63]
+		{
+			"well", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			356, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229287,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [64]
+		{
+			"i know", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			357, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229288,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [65]
+		{
+			"wat", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			358, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229297,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [66]
+		{
+			"i like the power mode murdoc", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			359, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229305,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [67]
+		{
+			"move*", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			360, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229309,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [68]
+		{
+			"wait what", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			361, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229314,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [69]
+		{
+			"o_o", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			362, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229332,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [70]
+		{
+			"anyways", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			363, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229336,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [71]
+		{
+			"So yes, you can always find another ", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			364, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229339,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [72]
+		{
+			"just get married then", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			365, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229340,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [73]
+		{
+			"4head", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			366, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229341,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [74]
+		{
+			"i'll just ask barbados to get a certificate that allows him to marry people", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			367, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229358,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [75]
+		{
+			"and then he can give me a vegas wedding", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			368, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229364,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [76]
+		{
+			"ez", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			369, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229373,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [77]
+		{
+			"inv", -- [1]
+			"Houji-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Houji-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			370, -- [11]
+			"Player-3676-0AD96CC7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Houji|r",
+			[51] = 1591229381,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [78]
+		{
+			"Cheaper than a Jaina mount run", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			373, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229396,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [79]
+		{
+			"i heard it's pretty easy to get that certificate", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			374, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229399,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [80]
+		{
+			"perfect", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			376, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229406,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [81]
+		{
+			"you just have to take this online class ", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			377, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591229407,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [82]
+		{
+			"it is pretty easy", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			379, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229427,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [83]
+		{
+			"I know a few ordained crackheads", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			380, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229432,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [84]
+		{
+			"Guy Fieri is ordained, and he does vegas weddings all the time, hit up his twitter he caters for free'", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			381, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229458,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [85]
+		{
+			"perfect", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			383, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229464,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [86]
+		{
+			"Welcome to flavortown", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			387, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229475,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [87]
+		{
+			"anyone have a crit enchant for rings", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			397, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229515,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [88]
+		{
+			"i do", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			399, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229519,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [89]
+		{
+			"on kj ;(", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			401, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229524,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [90]
+		{
+			"put it in trade", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			403, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229529,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [91]
+		{
+			"i can enchant it", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			404, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229530,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [92]
+		{
+			"wait rly", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			405, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229533,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [93]
+		{
+			"no", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			406, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229540,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [94]
+		{
+			"yuh", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			408, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229544,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [95]
+		{
+			"it works cross server?", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			410, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229550,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [96]
+		{
+			"yea it says i cant ;(", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			413, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229574,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [97]
+		{
+			"Put it in will not", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			415, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229577,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [98]
+		{
+			"it saying i cant ;S", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			417, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229587,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [99]
+		{
+			"Oh rip", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			418, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229592,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [100]
+		{
+			"unlucky", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			419, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229597,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [101]
+		{
+			"1/3 fast, 2/4 slow", -- [1]
+			"Toshdk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshdk-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			433, -- [11]
+			"Player-9-0B9D6659", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
+			[51] = 1591229677,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [102]
+		{
+			"ur not my dad", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			435, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229684,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [103]
+		{
+			"wait", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			436, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229688,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [104]
+		{
+			"okay sci she wasn't planning my murder", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			437, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229689,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [105]
+		{
+			"gordy adopt me", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			438, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591229690,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [106]
+		{
+			"she said im lucky she was \"busy\" or something", -- [1]
+			"Numberz-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Numberz-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			439, -- [11]
+			"Player-3676-0AD8EBC3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Numberz|r",
+			[51] = 1591229696,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [107]
+		{
+			"1/3 fast, 2/4 slow", -- [1]
+			"Toshdk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshdk", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			440, -- [11]
+			"Player-9-0B9D6659", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
+			[51] = 1591229699,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [108]
+		{
+			"buyers tag and jump off", -- [1]
+			"Toshdk-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshdk", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			442, -- [11]
+			"Player-9-0B9D6659", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
+			[51] = 1591229709,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [109]
+		{
+			"Oh okay", -- [1]
+			"Murdoc-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Murdoc-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			444, -- [11]
+			"Player-57-0BF9D1DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Murdoc-Illidan|r",
+			[51] = 1591229721,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [110]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12895:Player-3676-0AD8DE97:1:6:3:20:4294967295:4294967295:4294967295:4294967295|h[Honor Level 15]|h|r!", -- [1]
+			"Rathux-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rathux-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			477, -- [11]
+			"Player-3676-0AD8DE97", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Rathux|r",
+			[51] = 1591229951,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [111]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-3676-0AE1E08A:1:6:3:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
+			"Blàckthunder-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blàckthunder-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			516, -- [11]
+			"Player-3676-0AE1E08A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Blàckthunder|r",
+			[51] = 1591230003,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [112]
+		{
+			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:63::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
+			"Houji-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Houji-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			523, -- [11]
+			"Player-3676-0AD96CC7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Houji|r",
+			[51] = 1591230015,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [113]
+		{
+			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165583::::::::120:63::6:3:4800:1537:4786:::|h[Fogbreaker, Light of the Sea]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
+			"Houji-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Houji-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			524, -- [11]
+			"Player-3676-0AD96CC7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Houji|r",
+			[51] = 1591230015,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [114]
+		{
+			"barbados was the problem", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			526, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591230023,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [115]
+		{
+			"danggg", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			527, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591230028,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [116]
+		{
+			"toxic", -- [1]
+			"Itsyellowy-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Itsyellowy-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			528, -- [11]
+			"Player-3676-0ADA0DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeItsyellowy|r",
+			[51] = 1591230029,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [117]
+		{
+			"kidding", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			530, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591230038,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [118]
+		{
+			"ty friends", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			542, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591230091,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [119]
+		{
+			"[WTS] Ny'alotha Heroic runs with loot sharing. Quick daily runs. Get yourself easy geared to 460+ ILVL tonight! Professional support and smooth runs. Find out more @ GTEAM.PRO!                         ", -- [1]
+			"Ongathrogar-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ongathrogar-Area52", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			545, -- [11]
+			"Player-3676-0AE02B3A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Ongathrogar|r",
+			[51] = 1591230094,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"ty", -- [1]
+			"Fyrefest-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fyrefest-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			546, -- [11]
+			"Player-3661-0829E596", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Fyrefest-Hyjal|r",
+			[51] = 1591230095,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [121]
+		{
+			">> Selling +15-18 << || Timed || Specific Keys || Armor Stacking. Pre-Book your spot in >> Heroic Ny'alotha, 12/12 << GOLD ONLY!. Running Thur 9pm EST, pst to book spot. RAID done by <xD of Area52>", -- [1]
+			"Goldchainzx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Goldchainzx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			548, -- [11]
+			"Player-3676-0ADE9820", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Goldchainzx|r",
+			[51] = 1591230098,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTS >> M+ 10-18,  Horrific Visions (0-5 mask), 12/12H & Mythic Ny'alotha << Specific keys and armor stacking available too! GOLD ONLY! PST and I look forward to working with you!", -- [1]
+			"Hukkmukk-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hukkmukk-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			560, -- [11]
+			"Player-3676-0ADCC1B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cHukkmukk|r",
+			[51] = 1591230110,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"Sci called us friends (:", -- [1]
+			"Warlockmania-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Warlockmania-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			561, -- [11]
+			"Player-3676-0ADA5AC2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecWarlockmania|r",
+			[51] = 1591230111,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [124]
+		{
+			"WTS >> M+ 10-18,  Horrific Visions (0-5 mask), 12/12H & Mythic Ny'alotha << Specific keys and armor stacking available too! GOLD ONLY! PST and I look forward to working with you!", -- [1]
+			"Hukkmukk-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hukkmukk-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			570, -- [11]
+			"Player-3676-0ADCC1B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cHukkmukk|r",
+			[51] = 1591230118,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"WTS Full Heroic Nyalotha TONIGHT at 930 EST! Sold by 12/12 M Raiders, Come get your 460+ Gear and Mount  [GOLD ONLY]  /w for info!", -- [1]
+			"Implection-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Implection-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			572, -- [11]
+			"Player-3676-09A5C284", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Implection|r",
+			[51] = 1591230122,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"WTS M+10s - 24s, buy 2 runs get free armor stack / specific key options available. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also have Horrific Visions and Pvp Boosts", -- [1]
+			"Skalcoin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skalcoin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			596, -- [11]
+			"Player-3676-0ACBA82E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSkalcoin|r",
+			[51] = 1591230142,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [127]
 	},
 }

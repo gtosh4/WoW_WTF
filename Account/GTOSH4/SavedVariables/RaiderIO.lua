@@ -1,10 +1,6 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
+RaiderIO_LastCharacter = "us-Toshpal-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Extrajuicy-kiljaeden"] = true,
-	["us-Iskandàr-kiljaeden"] = true,
-	["us-Adrias-kiljaeden"] = true,
-	["us-Dônce-kiljaeden"] = true,
 }

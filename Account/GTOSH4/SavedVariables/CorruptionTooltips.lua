@@ -36,9 +36,9 @@ CorruptionTooltipsDB = {
 		},
 		["Toshpal - Area 52"] = {
 		},
-		["Toshpala - Illidan"] = {
-		},
 		["Toshmoney - Greymane"] = {
+		},
+		["Toshpala - Illidan"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

@@ -2,10 +2,10 @@ Version: 1
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
-X: -152
-Y: 258
-W: 204
-H: 58
+X: -102
+Y: 54
+W: 508
+H: 278
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: CENTER
