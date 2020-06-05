@@ -21,15 +21,15 @@ JambaQuestProfileDB = {
 		["Toshpriest - Area 52"] = {
 		},
 		["Default"] = {
-			["acceptFromTeam"] = true,
 			["noChoiceAllDoNothing"] = true,
-			["hasChoiceSlaveDoNothing"] = true,
-			["masterAutoShareQuestOnAccept"] = true,
 			["hasChoiceAquireBestQuestRewardForCharacter"] = false,
-			["doNotAutoAccept"] = false,
+			["hasChoiceSlaveDoNothing"] = true,
+			["acceptFromTeam"] = true,
+			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
 			["noChoiceSlaveCompleteQuestWithMaster"] = false,
 			["onlyAcceptQuestsFrom"] = true,
-			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
+			["doNotAutoAccept"] = false,
+			["masterAutoShareQuestOnAccept"] = true,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["showJambaQuestLogWithWoWQuestLog"] = false,

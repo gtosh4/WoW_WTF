@@ -11,10 +11,11 @@ JambaQuestWatcherProfileDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshpal - Area 52"] = "Default",
+		["Toshpala - Illidan"] = "Default",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpala - Illidan"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Default",
@@ -25,11 +26,11 @@ JambaQuestWatcherProfileDB = {
 			["watcherFrameRelativePoint"] = "TOPRIGHT",
 			["watcherFrameYOffset"] = -237.6288909912109,
 			["enableQuestWatcher"] = false,
-			["enableQuestWatcherOnMasterOnly"] = true,
-			["watcherFramePoint"] = "TOPRIGHT",
-			["unlockWatcherFrame"] = false,
-			["hideQuestIfAllComplete"] = true,
 			["watcherFrameXOffset"] = -286.7917785644531,
+			["hideQuestIfAllComplete"] = true,
+			["unlockWatcherFrame"] = false,
+			["watcherFramePoint"] = "TOPRIGHT",
+			["enableQuestWatcherOnMasterOnly"] = true,
 		},
 		["Daggny - Frostwolf"] = {
 		},
@@ -49,20 +50,22 @@ JambaQuestWatcherProfileDB = {
 		},
 		["Toshpriest - Illidan"] = {
 		},
+		["Toshmoney - Quel'dorei"] = {
+		},
 		["Toshpal - Area 52"] = {
 		},
 		["Toshpala - Illidan"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Default"] = {
-			["enableQuestWatcher"] = false,
+		["Tosh - Frostwolf"] = {
 		},
 		["Toshaman - Area 52"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Default"] = {
+			["enableQuestWatcher"] = false,
 		},
 		["Sumex - Frostwolf"] = {
 		},

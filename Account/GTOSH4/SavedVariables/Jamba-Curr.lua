@@ -11,10 +11,11 @@ JambaCurrProfileDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshpal - Area 52"] = "Default",
+		["Toshpala - Illidan"] = "Default",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpala - Illidan"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Default",
@@ -38,19 +39,21 @@ JambaCurrProfileDB = {
 		},
 		["Toshpriest - Illidan"] = {
 		},
+		["Toshmoney - Quel'dorei"] = {
+		},
 		["Toshpal - Area 52"] = {
 		},
 		["Toshpala - Illidan"] = {
 		},
 		["Koutetsu - Frostwolf"] = {
 		},
-		["Default"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Toshaman - Area 52"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Default"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

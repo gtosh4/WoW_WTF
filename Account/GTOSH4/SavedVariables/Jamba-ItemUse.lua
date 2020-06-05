@@ -11,10 +11,11 @@ JambaItemUseProfileDB = {
 		["Toshpal - Kil'jaeden"] = "Default",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshpal - Area 52"] = "Default",
+		["Toshpala - Illidan"] = "Default",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpala - Illidan"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Default",
@@ -617,6 +618,8 @@ JambaItemUseProfileDB = {
 			["itemUseTitleHeight"] = 2,
 		},
 		["Toshpal - Kil'jaeden"] = {
+			["itemUseTitleHeight"] = 2,
+			["frameYOffset"] = 210.6496734619141,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -699,11 +702,94 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["frameYOffset"] = 210.6496734619141,
-			["itemUseTitleHeight"] = 2,
 			["frameXOffset"] = -9.390840530395508,
 		},
 		["Toshpriest - Illidan"] = {
+			["itemsAdvanced"] = {
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [1]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [2]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [3]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [4]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [5]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [6]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [7]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [8]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [9]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [10]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [11]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [12]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [13]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [14]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [15]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [16]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [17]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [18]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [19]
+				{
+					["action"] = "empty",
+					["kind"] = "empty",
+				}, -- [20]
+			},
+			["itemUseTitleHeight"] = 2,
+		},
+		["Toshmoney - Quel'dorei"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -1043,32 +1129,31 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Default"] = {
-			["frameYOffset"] = 191.8657684326172,
+		["Tosh - Frostwolf"] = {
 			["itemsAdvanced"] = {
 				{
-					["action"] = "item:173406",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [1]
 				{
-					["action"] = "item:166298",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [2]
 				{
-					["action"] = "item:173420",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [3]
 				{
-					["action"] = "item:173413",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [4]
 				{
-					["action"] = "item:166299",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [5]
 				{
-					["action"] = "item:169940",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [6]
 				{
 					["action"] = "empty",
@@ -1128,7 +1213,6 @@ JambaItemUseProfileDB = {
 				}, -- [20]
 			},
 			["itemUseTitleHeight"] = 2,
-			["showItemUse"] = false,
 		},
 		["Toshaman - Area 52"] = {
 			["itemsAdvanced"] = {
@@ -1215,7 +1299,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Tosh - Frostwolf"] = {
+		["Toshlongboy - Eldre'Thalas"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -1300,31 +1384,33 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshmoney - Quel'dorei"] = {
+		["Default"] = {
+			["itemUseTitleHeight"] = 2,
+			["frameYOffset"] = 191.8657684326172,
 			["itemsAdvanced"] = {
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173406",
+					["kind"] = "item",
 				}, -- [1]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:166298",
+					["kind"] = "item",
 				}, -- [2]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173420",
+					["kind"] = "item",
 				}, -- [3]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173413",
+					["kind"] = "item",
 				}, -- [4]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:166299",
+					["kind"] = "item",
 				}, -- [5]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:169940",
+					["kind"] = "item",
 				}, -- [6]
 				{
 					["action"] = "empty",
@@ -1383,7 +1469,7 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["itemUseTitleHeight"] = 2,
+			["showItemUse"] = false,
 		},
 		["Sumex - Frostwolf"] = {
 			["itemsAdvanced"] = {

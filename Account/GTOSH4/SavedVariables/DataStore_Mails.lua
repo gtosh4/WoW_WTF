@@ -12,16 +12,17 @@ DataStore_MailsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -34,8 +35,8 @@ DataStore_MailsDB = {
 						["itemID"] = 168652,
 						["link"] = "|cffffffff|Hitem:168652::::::::120:65::::::|h[Greater Flask of Endless Fathoms]|h|r",
 						["count"] = 2,
-						["lastCheck"] = 1590208861,
 						["icon"] = 967549,
+						["lastCheck"] = 1590208861,
 						["daysLeft"] = 30,
 					}, -- [1]
 				},
@@ -56,13 +57,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1589760265,
 				["Mails"] = {
 					{
-						["lastCheck"] = 1589760265,
+						["icon"] = 135724,
 						["sender"] = "Customer Support",
 						["subject"] = "Your Guild Has Moved",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
-						["icon"] = 135724,
+						["lastCheck"] = 1589760265,
 						["daysLeft"] = 29.36556625366211,
 					}, -- [1]
 				},
@@ -80,17 +81,17 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1556088028,
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
-			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1590963900,
-				["lastVisitDate"] = "2020/05/31 18:25",
+			["Default.Illidan.Toshpala"] = {
+				["lastUpdate"] = 1589759773,
+				["lastVisitDate"] = "2020/05/17 19:56",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1589764117,
 				["lastVisitDate"] = "2020/05/17 21:08",
 			},
-			["Default.Illidan.Toshpala"] = {
-				["lastUpdate"] = 1589759773,
-				["lastVisitDate"] = "2020/05/17 19:56",
+			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1591315304,
+				["lastVisitDate"] = "2020/06/04 20:01",
 			},
 		},
 	},

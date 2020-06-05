@@ -1,11 +1,11 @@
 
 MacroToolkitDB = {
 	["char"] = {
-		["Toshmonk - Kil'jaeden"] = {
+		["Tosh - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
-		["Toshpal - Area 52"] = {
+		["Toshmonk - Kil'jaeden"] = {
 			["backups"] = {
 			},
 		},
@@ -13,7 +13,7 @@ MacroToolkitDB = {
 			["backups"] = {
 			},
 		},
-		["Tosh - Kil'jaeden"] = {
+		["Toshpal - Area 52"] = {
 			["backups"] = {
 			},
 		},
