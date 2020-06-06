@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1834,
 	["lastSanitation"] = 3,
+	["session"] = 1841,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
@@ -91,42 +91,57 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [11]
 		{
-			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
-			["time"] = "2020/06/04 20:33:34",
-			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
-			["session"] = 1833,
-			["counter"] = 1,
-		}, -- [12]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroup1:Show()'.",
-			["time"] = "2020/05/29 22:15:34",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:243: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
-			["session"] = 1833,
-			["counter"] = 5,
-		}, -- [13]
-		{
-			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
-			["time"] = "2020/05/30 00:51:34",
-			["locals"] = "self = Talents {\n 0 = <userdata>\n tier2 = TalentsTalentRow2 {\n }\n tier3 = TalentsTalentRow3 {\n }\n tier7 = TalentsTalentRow7 {\n }\n talentGroup = 1\n tier5 = TalentsTalentRow5 {\n }\n tier1 = TalentsTalentRow1 {\n }\n inspect = true\n tier4 = TalentsTalentRow4 {\n }\n tier6 = TalentsTalentRow6 {\n }\n}\n(for index) = 1\n(for limit) = 7\n(for step) = 1\ni = 1\n(for index) = 1\n(for limit) = 3\n(for step) = 1\nj = 1\nTalent = TalentsTalentRow1Talent1 {\n 0 = <userdata>\n border = TalentsTalentRow1Talent1Border {\n }\n shouldGlow = false\n Slot = TalentsTalentRow1Talent1Slot {\n }\n column = 1\n tier = 1\n icon = TalentsTalentRow1Talent1IconTexture {\n }\n grantedByAura = false\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field 'knownSelection' (a nil value)\"\nAS = <table> {\n AC = <table> {\n }\n SkinAchievement = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Achievement.lua:16\n Blizzard_Channels = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Channels.lua:12\n Blizzard_AbilityButton = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\ExtraButtons.lua:4\n ArrowRotation = <table> {\n }\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n FindFrameBySizeChild = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1158\n Blizzard_ItemSocketingUI = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character.lua:440\n RaiderIO = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\AddOns\\RaiderIO.lua:10\n GradientHighlight = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:295\n Blank = \"Interface\\AddOns\\ElvUI\\Media\\Textures\\White8x8\"\n LCG = <table> {\n }\n SkinIconButton = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:719\n ScheduleTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n ADDON_LOADED = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\Core.lua:163\n SkinErrors = <table> {\n }\n BuildProfile = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\Options.lua:970\n data = <table> {\n }\n UIScale = 0.640000\n db = <table> {\n }\n SkinBackdropFrame = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1007\n AdjustForTheme = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1068\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n ChangeLog = <table> {\n }\n Font = \"Fonts\\FRIZQT__.TTF\"\n events = <table> {\n }\n Noop = <function> defined @Interface\\AddOns\\AddOnSkins\\Init.lua:41\n SetBackdropColor = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:104\n SkinDoubleStateIconRow = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1292\n Blizzard_Mail = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Mail.lua:4\n SkinWidgetContainer = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1322\n Media = <table> {\n }\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n SkinTooltip = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1038\n FindFrameByPoint = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1193\n EnumObjects = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1106\n Blizzard_Calendar = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Calendar.lua:13\n GetChatWindowInfo = <function> defined @Interface\\AddOns\\AddOnSkins\\Embed\\Core.lua:19\n EmbedEnterCombat = <function> defined @Interface\\AddOns\\AddOnSkins\\Embed\\Core.lua:152\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n GetOptions = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\Options.lua:1095\n Blizzard_DebugTools = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\DebugTools.lua:4\n name = \"AddOnSkins\"\n SkinIconText",
-			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
-			["session"] = 1833,
-			["counter"] = 3,
-		}, -- [14]
-		{
 			["message"] = "Interface\\AddOns\\AAP-Core\\QuestList.lua:52: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: AAP_PartyListFrame1:SetPoint.",
 			["time"] = "2020/06/04 21:41:23",
 			["locals"] = "(*temporary) = AAP_PartyListFrame1 {\n 0 = <userdata>\n isMoving = false\n}\n(*temporary) = \"TOPLEFT\"\n(*temporary) = UIParent {\n variablesLoaded = true\n PixelSnapDisabled = true\n firstTimeLoaded = 1\n 0 = <userdata>\n}\n(*temporary) = \"TOPLEFT\"\n(*temporary) = 1147.666626\n(*temporary) = -301\n",
 			["stack"] = "[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestList.lua\"]:52: in function <Interface\\AddOns\\AAP-Core\\QuestList.lua:46>",
 			["session"] = 1833,
 			["counter"] = 2,
-		}, -- [15]
+		}, -- [12]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/06/04 20:33:34",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 1836,
+			["counter"] = 2,
+		}, -- [13]
+		{
+			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
+			["time"] = "2020/05/30 00:51:34",
+			["locals"] = "self = Talents {\n 0 = <userdata>\n tier2 = TalentsTalentRow2 {\n }\n tier3 = TalentsTalentRow3 {\n }\n tier7 = TalentsTalentRow7 {\n }\n talentGroup = 1\n tier5 = TalentsTalentRow5 {\n }\n tier1 = TalentsTalentRow1 {\n }\n inspect = true\n tier4 = TalentsTalentRow4 {\n }\n tier6 = TalentsTalentRow6 {\n }\n}\n(for index) = 1\n(for limit) = 7\n(for step) = 1\ni = 1\n(for index) = 1\n(for limit) = 3\n(for step) = 1\nj = 1\nTalent = TalentsTalentRow1Talent1 {\n 0 = <userdata>\n border = TalentsTalentRow1Talent1Border {\n }\n shouldGlow = false\n Slot = TalentsTalentRow1Talent1Slot {\n }\n column = 1\n tier = 1\n icon = TalentsTalentRow1Talent1IconTexture {\n }\n grantedByAura = false\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field 'knownSelection' (a nil value)\"\nAS = <table> {\n AC = <table> {\n }\n SkinAchievement = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Achievement.lua:16\n Blizzard_Channels = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Channels.lua:12\n Blizzard_AbilityButton = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\ExtraButtons.lua:4\n ArrowRotation = <table> {\n }\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n FindFrameBySizeChild = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1158\n Blizzard_ItemSocketingUI = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Character.lua:440\n RaiderIO = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\AddOns\\RaiderIO.lua:10\n GradientHighlight = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:295\n Blank = \"Interface\\AddOns\\ElvUI\\Media\\Textures\\White8x8\"\n LCG = <table> {\n }\n SkinIconButton = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:719\n ScheduleTimer = <function> defined @Interface\\AddOns\\ACU\\Libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n ADDON_LOADED = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\Core.lua:163\n SkinErrors = <table> {\n }\n BuildProfile = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\Options.lua:970\n data = <table> {\n }\n UIScale = 0.640000\n db = <table> {\n }\n SkinBackdropFrame = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1007\n AdjustForTheme = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1068\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n ChangeLog = <table> {\n }\n Font = \"Fonts\\FRIZQT__.TTF\"\n events = <table> {\n }\n Noop = <function> defined @Interface\\AddOns\\AddOnSkins\\Init.lua:41\n SetBackdropColor = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:104\n SkinDoubleStateIconRow = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1292\n Blizzard_Mail = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Mail.lua:4\n SkinWidgetContainer = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1322\n Media = <table> {\n }\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n SkinTooltip = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1038\n FindFrameByPoint = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1193\n EnumObjects = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1106\n Blizzard_Calendar = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Calendar.lua:13\n GetChatWindowInfo = <function> defined @Interface\\AddOns\\AddOnSkins\\Embed\\Core.lua:19\n EmbedEnterCombat = <function> defined @Interface\\AddOns\\AddOnSkins\\Embed\\Core.lua:152\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n GetOptions = <function> defined @Interface\\AddOns\\AddOnSkins\\Core\\Options.lua:1095\n Blizzard_DebugTools = <function> defined @Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\DebugTools.lua:4\n name = \"AddOnSkins\"\n SkinIconText",
+			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
+			["session"] = 1837,
+			["counter"] = 5,
+		}, -- [14]
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
 			["time"] = "2020/05/29 22:20:04",
 			["locals"] = "Skipped (In Encounter)",
 			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
-			["session"] = 1834,
-			["counter"] = 244,
+			["session"] = 1840,
+			["counter"] = 258,
+		}, -- [15]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroup1:Show()'.",
+			["time"] = "2020/05/29 22:15:34",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:243: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
+			["session"] = 1841,
+			["counter"] = 7,
 		}, -- [16]
+		{
+			["message"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:42: attempt to index local 's' (a nil value)",
+			["time"] = "2020/06/06 00:00:59",
+			["stack"] = "[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:539: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:788: in function `ScanWithFakeEvent'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:1082: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2326: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2160: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2044>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2194: in function `ScanForLoads'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2242: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2240>",
+			["session"] = 1841,
+			["counter"] = 2,
+		}, -- [17]
+		{
+			["message"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:43: attempt to index global 'aura_env' (a nil value)",
+			["time"] = "2020/06/06 00:01:09",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]==] return function(allstates, event, ...) --ENCOUNTER_START,ENCOUNTER_END,UMBRAL_EXPLOSION\n    local s\n    if event == 'ENCOUNTER_START' and ... then\n        aura_env.count = 0\n        aura_env.start_time = GetTime()\n        WeakAuras.ScanEvents('UMBRAL_EXPLOSION', aura_env.start_time)\n        return\n        \n    elseif event == 'ENCOUNTER_END' and ... then\n        aura_env.start_time = nil\n        s = {\n            show = false,\n            changed = true,\n        }\n        \n    elseif event == 'UMBRAL_EXPLOSION' and ... then\n        aura_env.count = aura_env.count + 1\n        if aura_env.count > 14 then \n            s = {\n                show = false,\n                changed = true,\n            }\n        else\n            local next_eruption = aura_env.timings[aura_env.count]\n            local fight_time = GetTime() - aura_env.start_time\n            local duration = next_eruption - fight_time\n            \n            s = {\n                show = true,\n                changed = true,\n                autoHide = true,\n                \n                progressType = \"timed\",\n                duration = duration,\n                expirationTime = aura_env.start_time + next_eruption,\n                stacks = aura_env.count,\n            }\n        end\n    end\n    if s then allstates[1] = s end\n    \n    if s.show and s.duration then\n        C_Timer.After(s.duration, function() WeakAuras.ScanEvents('UMBRAL_EXPLOSION', aura_env.start_time) end)\n    end\n    \n    return true\nend\n\n\n\"]:43: in function <[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:43>",
+			["session"] = 1841,
+			["counter"] = 1,
+		}, -- [18]
 	},
 }

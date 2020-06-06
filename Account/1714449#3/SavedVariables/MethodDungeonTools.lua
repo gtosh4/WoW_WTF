@@ -8,9 +8,9 @@ MethodDungeonToolsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["minimap"] = {
@@ -322,7 +322,8 @@ MethodDungeonToolsDB = {
 									15, -- [40]
 									1, -- [41]
 								},
-								["color"] = "228b22",
+								[27] = {
+								},
 								[23] = {
 									5, -- [1]
 									1, -- [2]
@@ -357,23 +358,22 @@ MethodDungeonToolsDB = {
 									29, -- [31]
 									31, -- [32]
 								},
-								[27] = {
-								},
+								["color"] = "228b22",
 							}, -- [1]
 						},
 					},
 					["text"] = "Preset 6",
 					["mdi"] = {
 						["freeholdJoined"] = false,
-						["freehold"] = 1,
 						["beguiling"] = 1,
+						["freehold"] = 1,
 					},
 				}, -- [2]
 				{
 					["mdi"] = {
 						["freehold"] = 1,
-						["beguiling"] = 1,
 						["freeholdJoined"] = false,
+						["beguiling"] = 1,
 					},
 					["week"] = 1,
 					["value"] = {
@@ -533,13 +533,13 @@ MethodDungeonToolsDB = {
 								[29] = {
 									11, -- [1]
 								},
+								["color"] = "ff5100",
 								[2] = {
 									22, -- [1]
 									20, -- [2]
 									21, -- [3]
 									19, -- [4]
 								},
-								["color"] = "ff5100",
 							}, -- [5]
 							{
 								[13] = {
@@ -554,13 +554,13 @@ MethodDungeonToolsDB = {
 									16, -- [2]
 								},
 								["color"] = "ff0015",
-								[29] = {
-									8, -- [1]
-								},
 								[10] = {
 									3, -- [1]
 									4, -- [2]
 									10, -- [3]
+								},
+								[29] = {
+									8, -- [1]
 								},
 							}, -- [6]
 							{
@@ -576,14 +576,14 @@ MethodDungeonToolsDB = {
 									5, -- [2]
 								},
 								["color"] = "ff00a3",
-								[29] = {
-									4, -- [1]
+								[28] = {
+									12, -- [1]
 								},
 								[5] = {
 									11, -- [1]
 								},
-								[28] = {
-									12, -- [1]
+								[29] = {
+									4, -- [1]
 								},
 							}, -- [7]
 							{
@@ -762,10 +762,10 @@ MethodDungeonToolsDB = {
 									9, -- [1]
 									10, -- [2]
 								},
+								["color"] = "fff300",
 								[13] = {
 									4, -- [1]
 								},
-								["color"] = "fff300",
 							}, -- [11]
 							{
 								[24] = {
@@ -817,6 +817,7 @@ MethodDungeonToolsDB = {
 						},
 					},
 					["text"] = "BurstingVolc Cent 2",
+					["mdiEnabled"] = false,
 					["objects"] = {
 						{
 							["d"] = {
@@ -827,18 +828,17 @@ MethodDungeonToolsDB = {
 								"ff1000", -- [5]
 								-8, -- [6]
 							},
+							["t"] = {
+								2.087026582479191, -- [1]
+							},
 							["l"] = {
 								"282.2", -- [1]
 								"-299.8", -- [2]
 								"331.6", -- [3]
 								"-386.9", -- [4]
 							},
-							["t"] = {
-								2.087026582479191, -- [1]
-							},
 						}, -- [1]
 					},
-					["mdiEnabled"] = false,
 				}, -- [3]
 				{
 					["value"] = 0,

@@ -3,13 +3,15 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshpriest-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Lotsohdots-kiljaeden"] = true,
-	["us-Yunã-malganis"] = true,
-	["us-Quizy-illidan"] = true,
-	["us-Akagw-trollbane"] = true,
-	["us-Mokras-executus"] = true,
-	["us-Aproxx-spinebreaker"] = true,
-	["us-Foil-ysondre"] = true,
-	["us-Illidania-illidan"] = true,
-	["us-Unknown-area-52"] = true,
+	["us-Openrange-area-52"] = true,
+	["us-Syriedrael-azgalor"] = true,
+	["us-Zaresaa-burning-blade"] = true,
+	["us-Conrye-area-52"] = true,
+	["us-Nimonery-bleeding-hollow"] = true,
+	["us-Tuerjoie-deathwing"] = true,
+	["us-Ragb-area-52"] = true,
+	["us-Kevu-area-52"] = true,
+	["us-Zahmermage-area-52"] = true,
+	["us-Helexaea-area-52"] = true,
+	["us-Mágmoo-area-52"] = true,
 }
