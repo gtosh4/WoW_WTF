@@ -45,15 +45,15 @@ JambaAdvancedLootProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
-		["Default"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Default"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

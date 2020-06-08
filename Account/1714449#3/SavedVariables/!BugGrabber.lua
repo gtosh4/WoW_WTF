@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1844,
 	["lastSanitation"] = 3,
-	["session"] = 1841,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
@@ -83,28 +83,20 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [10]
 		{
-			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
-			["time"] = "2020/06/04 00:14:47",
-			["locals"] = "leftX = nil\nleftY = nil\nrightX = -6075\nrightY = 2720\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'leftX' (a nil value)\"\n",
-			["stack"] = "[string \"@Interface\\SharedXML\\Vector2D.lua\"]:20: in function `Vector2D_Subtract'\n[string \"@Interface\\SharedXML\\Vector2D.lua\"]:99: in function `Subtract'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:101: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:248: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
-			["session"] = 1832,
-			["counter"] = 1,
-		}, -- [11]
-		{
 			["message"] = "Interface\\AddOns\\AAP-Core\\QuestList.lua:52: Action[SetPoint] failed because[SetPoint would result in anchor family connection]: attempted from: AAP_PartyListFrame1:SetPoint.",
 			["time"] = "2020/06/04 21:41:23",
 			["locals"] = "(*temporary) = AAP_PartyListFrame1 {\n 0 = <userdata>\n isMoving = false\n}\n(*temporary) = \"TOPLEFT\"\n(*temporary) = UIParent {\n variablesLoaded = true\n PixelSnapDisabled = true\n firstTimeLoaded = 1\n 0 = <userdata>\n}\n(*temporary) = \"TOPLEFT\"\n(*temporary) = 1147.666626\n(*temporary) = -301\n",
 			["stack"] = "[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestList.lua\"]:52: in function <Interface\\AddOns\\AAP-Core\\QuestList.lua:46>",
 			["session"] = 1833,
 			["counter"] = 2,
-		}, -- [12]
+		}, -- [11]
 		{
 			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
 			["time"] = "2020/06/04 20:33:34",
 			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
 			["session"] = 1836,
 			["counter"] = 2,
-		}, -- [13]
+		}, -- [12]
 		{
 			["message"] = "...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:131: attempt to index field 'knownSelection' (a nil value)",
 			["time"] = "2020/05/30 00:51:34",
@@ -112,7 +104,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua\"]:131: in function <...\\AddOns\\AddOnSkins\\Skins\\Blizzard\\Retail\\Talents.lua:127>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `TalentFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:77: in function `InspectTalentFrameTalents_OnShow'\n[string \"@Interface\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua\"]:13: in function <...ace\\AddOns\\Blizzard_InspectUI\\InspectTalentFrame.lua:7>",
 			["session"] = 1837,
 			["counter"] = 5,
-		}, -- [14]
+		}, -- [13]
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
 			["time"] = "2020/05/29 22:20:04",
@@ -120,21 +112,21 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
 			["session"] = 1840,
 			["counter"] = 258,
-		}, -- [15]
+		}, -- [14]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroup1:Show()'.",
 			["time"] = "2020/05/29 22:15:34",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:243: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
 			["session"] = 1841,
 			["counter"] = 7,
-		}, -- [16]
+		}, -- [15]
 		{
 			["message"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:42: attempt to index local 's' (a nil value)",
 			["time"] = "2020/06/06 00:00:59",
 			["stack"] = "[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:539: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:788: in function `ScanWithFakeEvent'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:1082: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2326: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2160: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2044>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2194: in function `ScanForLoads'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2242: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2240>",
 			["session"] = 1841,
 			["counter"] = 2,
-		}, -- [17]
+		}, -- [16]
 		{
 			["message"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:43: attempt to index global 'aura_env' (a nil value)",
 			["time"] = "2020/06/06 00:01:09",
@@ -142,6 +134,14 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]==] return function(allstates, event, ...) --ENCOUNTER_START,ENCOUNTER_END,UMBRAL_EXPLOSION\n    local s\n    if event == 'ENCOUNTER_START' and ... then\n        aura_env.count = 0\n        aura_env.start_time = GetTime()\n        WeakAuras.ScanEvents('UMBRAL_EXPLOSION', aura_env.start_time)\n        return\n        \n    elseif event == 'ENCOUNTER_END' and ... then\n        aura_env.start_time = nil\n        s = {\n            show = false,\n            changed = true,\n        }\n        \n    elseif event == 'UMBRAL_EXPLOSION' and ... then\n        aura_env.count = aura_env.count + 1\n        if aura_env.count > 14 then \n            s = {\n                show = false,\n                changed = true,\n            }\n        else\n            local next_eruption = aura_env.timings[aura_env.count]\n            local fight_time = GetTime() - aura_env.start_time\n            local duration = next_eruption - fight_time\n            \n            s = {\n                show = true,\n                changed = true,\n                autoHide = true,\n                \n                progressType = \"timed\",\n                duration = duration,\n                expirationTime = aura_env.start_time + next_eruption,\n                stacks = aura_env.count,\n            }\n        end\n    end\n    if s then allstates[1] = s end\n    \n    if s.show and s.duration then\n        C_Timer.After(s.duration, function() WeakAuras.ScanEvents('UMBRAL_EXPLOSION', aura_env.start_time) end)\n    end\n    \n    return true\nend\n\n\n\"]:43: in function <[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:43>",
 			["session"] = 1841,
 			["counter"] = 1,
+		}, -- [17]
+		{
+			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
+			["time"] = "2020/06/04 00:14:47",
+			["locals"] = "leftX = nil\nleftY = nil\nrightX = -6075\nrightY = 2720\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'leftX' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\SharedXML\\Vector2D.lua\"]:20: in function `Vector2D_Subtract'\n[string \"@Interface\\SharedXML\\Vector2D.lua\"]:99: in function `Subtract'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:101: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:248: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
+			["session"] = 1844,
+			["counter"] = 15,
 		}, -- [18]
 	},
 }
