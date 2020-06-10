@@ -4,51 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 247,
-		["splits"] = {
-			630, -- [1]
-			1085, -- [2]
-			1373, -- [3]
-			1746, -- [4]
-			1465, -- [5]
-			["party1Name"] = "Toshpriest",
-			["party1Class"] = "Priest",
-			["party4Class"] = "Rogue",
-			["party2Name"] = "Fiery",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 2340,
-			["level"] = 16,
-			["timeElapsed"] = 1746.01,
-			["party3Role"] = "TANK",
-			["affixes3"] = 2,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Evangelos",
-			["affixes2"] = 11,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Sneakyturkey",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Death Knight",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Demon Hunter",
-			["mapID"] = 1594,
-			["party2Role"] = "DAMAGER",
-			["date"] = 1591589601,
-			["party2Class"] = "Mage",
-			["party5Name"] = "Felfanatic",
-		},
 		["playerDeaths"] = {
-			["Fiery-Kil'jaeden"] = 2,
-			["Sneakyturkey"] = 3,
-			["Toshpriest"] = 4,
-			["Felfanatic"] = 2,
-		},
-		["splitNames"] = {
-			"Coin-Operated Crowd Pummeler defeated", -- [1]
-			"Azerokk defeated", -- [2]
-			"Rixxa Fluxflame defeated", -- [3]
-			"Mogul Razdunk defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -441,9 +397,9 @@ AngryKeystones_Data = {
 			[6] = 9,
 		},
 		[155433] = {
-			[7] = 3,
 			[9] = 11,
 			[4] = 66,
+			[7] = 3,
 		},
 		[138187] = {
 			[4] = 104,
@@ -641,11 +597,11 @@ AngryKeystones_Data = {
 		[135204] = {
 			[4] = 41,
 		},
-		[127482] = {
-			[4] = 23,
-		},
 		[139110] = {
 			[11] = 3,
+		},
+		[127482] = {
+			[4] = 23,
 		},
 		[131819] = {
 			[4] = 26,
@@ -688,11 +644,11 @@ AngryKeystones_Data = {
 		[127486] = {
 			[7] = 65,
 		},
-		[137474] = {
-			[6] = 9,
-		},
 		[127106] = {
 			[6] = 4,
+		},
+		[137474] = {
+			[6] = 9,
 		},
 		[150254] = {
 			[4] = 13,
@@ -734,11 +690,11 @@ AngryKeystones_Data = {
 		[130521] = {
 			192, -- [1]
 		},
-		[127485] = {
-			[3] = 32,
-		},
 		[136297] = {
 			[9] = 19,
+		},
+		[127485] = {
+			[3] = 32,
 		},
 		[138338] = {
 			[4] = 1,
@@ -762,11 +718,11 @@ AngryKeystones_Data = {
 		[134005] = {
 			23, -- [1]
 		},
-		[136295] = {
-			[13] = 6,
-		},
 		[134251] = {
 			[4] = 9,
+		},
+		[136295] = {
+			[13] = 6,
 		},
 		[139425] = {
 			[4] = 12,
@@ -778,24 +734,24 @@ AngryKeystones_Data = {
 			3, -- [1]
 			[4] = 1,
 		},
+		[127488] = {
+			[7] = 41,
+		},
+		[130011] = {
+			[4] = 26,
+		},
 		[152009] = {
 			[5] = 19,
+		},
+		[137989] = {
+			140, -- [1]
 		},
 		[130522] = {
 			[2] = 181,
 			[6] = 1,
 		},
-		[127488] = {
-			[7] = 41,
-		},
-		[137989] = {
-			140, -- [1]
-		},
 		[129369] = {
 			[8] = 1,
-		},
-		[130011] = {
-			[4] = 26,
 		},
 		[133463] = {
 			[12] = 4,
@@ -877,9 +833,9 @@ AngryKeystones_Data = {
 			[4] = 38,
 		},
 		[155434] = {
-			[7] = 6,
 			[9] = 8,
 			[4] = 113,
+			[7] = 6,
 		},
 		[131445] = {
 			[9] = 8,

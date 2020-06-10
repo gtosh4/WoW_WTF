@@ -23,7 +23,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1591410609,
+				["lastUpdate"] = 1591752928,
 				["Specializations"] = {
 					[3] = 8087,
 				},
@@ -62,7 +62,7 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1591589699,
+				["lastUpdate"] = 1591752029,
 				["Specializations"] = {
 					13823, -- [1]
 					10670, -- [2]
