@@ -19,7 +19,7 @@ OneRing_Config = {
 				["PaladinAuras"] = false,
 			},
 			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPCTAt"] = "ABuehM6q7Se",
 			},
 		},
 	},
@@ -120,8 +120,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuehM6q7Se",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 		},
 	},

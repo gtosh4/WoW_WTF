@@ -2,145 +2,13 @@
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" inv", -- [1]
-		"/who toshmonk", -- [2]
-		"/ec", -- [3]
-		"inv", -- [4]
-		"/who turkey", -- [5]
-		"/inv turkeydh", -- [6]
+		"/inv turkeydh", -- [2]
+		"/who turkey", -- [3]
+		"/ec", -- [4]
+		"inv", -- [5]
+		"/who toshmonk", -- [6]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"remember that one time in EP andrew", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			45, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590627485,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"we spelled a word", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590627488,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"w;)", -- [1]
-			"Scitama-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitama-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			50, -- [11]
-			"Player-9-0BA22384", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
-			[51] = 1590627490,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"thanks", -- [1]
-			"Draxouss-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Draxouss-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			60, -- [11]
-			"Player-57-099D1B23", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Draxouss-Illidan|r",
-			[51] = 1590627531,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"12 left", -- [1]
-			"Nv-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nv", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			63, -- [11]
-			"Player-3676-0AD8DEA9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Nv|r",
-			[51] = 1590627544,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [5]
-		{
-			"34 right", -- [1]
-			"Nv-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nv", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			64, -- [11]
-			"Player-3676-0AD8DEA9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Nv|r",
-			[51] = 1590627545,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [6]
 		{
 			"buyers tag boss and jump off please.", -- [1]
 			"Nv-Area52", -- [2]
@@ -162,7 +30,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590627549,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [7]
+		}, -- [1]
 		{
 			"i pressed the wrong button", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -184,7 +52,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627645,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
+		}, -- [2]
 		{
 			"[WeakAuras: Scitama-Kil'jaeden - Decidedly Uncouth - Jaina Graphics]", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -206,7 +74,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627792,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
+		}, -- [3]
 		{
 			"Tier is over, macros are over", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -228,7 +96,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1590627814,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [4]
 		{
 			"it just changes contrast", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -250,7 +118,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627822,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
+		}, -- [5]
 		{
 			"and says Meow when u need to clear before phase starts", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -272,7 +140,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627833,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
+		}, -- [6]
 		{
 			"yea", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -294,7 +162,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627841,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
+		}, -- [7]
 		{
 			"Meow", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -316,7 +184,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590627842,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
+		}, -- [8]
 		{
 			".", -- [1]
 			"Nv-Area52", -- [2]
@@ -338,7 +206,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590627843,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [15]
+		}, -- [9]
 		{
 			"Meow", -- [1]
 			"Numberz-Area52", -- [2]
@@ -360,7 +228,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1590627846,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
+		}, -- [10]
 		{
 			"TWO ELE?", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -382,7 +250,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1590628083,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
+		}, -- [11]
 		{
 			"thanks", -- [1]
 			"Nv-Area52", -- [2]
@@ -404,7 +272,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590628177,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [18]
+		}, -- [12]
 		{
 			"WTS Freehold Powerleveling (110-120). 4 mins per lvl with looms!", -- [1]
 			"Fugarax-Area52", -- [2]
@@ -426,7 +294,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecFugarax|r",
 			[51] = 1590628178,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [13]
 		{
 			"grats", -- [1]
 			"Nv-Area52", -- [2]
@@ -448,7 +316,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv|r",
 			[51] = 1590628195,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [20]
+		}, -- [14]
 		{
 			"wat", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -470,7 +338,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229144,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
+		}, -- [15]
 		{
 			"how do you know", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -492,7 +360,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229145,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
+		}, -- [16]
 		{
 			"its called confidence", -- [1]
 			"Numberz-Area52", -- [2]
@@ -514,7 +382,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229154,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [17]
 		{
 			"cuz of the implication", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -536,7 +404,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229155,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [18]
 		{
 			"^", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -558,7 +426,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229158,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
+		}, -- [19]
 		{
 			"and 2/22/22 is on a tuesday", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -580,7 +448,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229163,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
+		}, -- [20]
 		{
 			"yes", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -602,7 +470,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229167,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
+		}, -- [21]
 		{
 			"who the fuck gets married on a tuesday", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -624,7 +492,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229168,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
+		}, -- [22]
 		{
 			"i do", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -646,7 +514,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229170,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+		}, -- [23]
 		{
 			"cuz its", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -668,7 +536,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229172,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
+		}, -- [24]
 		{
 			"TWOSday", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -690,7 +558,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229174,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
+		}, -- [25]
 		{
 			"he does because he's a nerd", -- [1]
 			"Numberz-Area52", -- [2]
@@ -712,7 +580,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229174,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
+		}, -- [26]
 		{
 			"i guess", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -734,7 +602,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229181,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
+		}, -- [27]
 		{
 			"it only happens once every", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -756,7 +624,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229186,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
+		}, -- [28]
 		{
 			"if you're not expecting anyone to come to your wedding", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -778,7 +646,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229187,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [29]
 		{
 			"3000 years", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -800,7 +668,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229188,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
+		}, -- [30]
 		{
 			"I just wanna let you all know he told be about this twosday shit like 5 years ago", -- [1]
 			"Numberz-Area52", -- [2]
@@ -822,7 +690,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229189,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [31]
 		{
 			"when are you proposing then", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -844,7 +712,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229201,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [32]
 		{
 			"its been 5 years?", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -866,7 +734,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229202,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [33]
 		{
 			"idk maybe next year", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -888,7 +756,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229212,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [34]
 		{
 			"man sci", -- [1]
 			"Numberz-Area52", -- [2]
@@ -910,7 +778,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229214,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [35]
 		{
 			"i need 2 graduate first", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -932,7 +800,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229218,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [36]
 		{
 			"we met like 7 years ago", -- [1]
 			"Numberz-Area52", -- [2]
@@ -954,7 +822,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229218,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [37]
 		{
 			"what if she says no", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -976,7 +844,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229218,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [38]
 		{
 			"then i just find another one i guess", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -998,7 +866,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229224,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
+		}, -- [39]
 		{
 			"LOL", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1020,7 +888,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229227,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [40]
 		{
 			"I SEE", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1042,7 +910,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229228,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [41]
 		{
 			"really quick", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1064,7 +932,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229228,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [42]
 		{
 			"IS THAT HOW IT WORKS?", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1086,7 +954,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229230,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [43]
 		{
 			"look", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1108,7 +976,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229232,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [44]
 		{
 			"jess", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1130,7 +998,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229237,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [45]
 		{
 			"im doing it on twos day", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1152,7 +1020,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229241,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [46]
 		{
 			"might not be to the person i want to", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1174,7 +1042,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229241,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [47]
 		{
 			"but i have to do it", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1196,7 +1064,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229242,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
+		}, -- [48]
 		{
 			"i promised nammer", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1218,7 +1086,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229246,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
+		}, -- [49]
 		{
 			"ya he did", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1240,7 +1108,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [50]
 		{
 			"y i k e s", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1262,7 +1130,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229251,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [51]
 		{
 			"and a friend doesnt break his promises", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1284,7 +1152,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229258,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [52]
 		{
 			"or ur a bad friend", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1306,7 +1174,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229268,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [53]
 		{
 			"you know getting an annulment isn't easy right ", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1328,7 +1196,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229277,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [54]
 		{
 			"just get married to nam", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -1350,7 +1218,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
 			[51] = 1591229280,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [61]
+		}, -- [55]
 		{
 			"When my long con didnt work out I dated her mother instead, been going 3 years and she has to listen to me bang her mom because she wont move out", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -1372,7 +1240,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229284,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [56]
 		{
 			"LOL", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1394,7 +1262,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229285,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [57]
 		{
 			"well", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1416,7 +1284,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229287,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [58]
 		{
 			"i know", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1438,7 +1306,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229288,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [59]
 		{
 			"wat", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1460,7 +1328,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229297,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [60]
 		{
 			"i like the power mode murdoc", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1482,7 +1350,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229305,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [61]
 		{
 			"move*", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1504,7 +1372,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229309,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [62]
 		{
 			"wait what", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1526,7 +1394,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229314,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [63]
 		{
 			"o_o", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1548,7 +1416,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229332,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [64]
 		{
 			"anyways", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1570,7 +1438,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229336,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [65]
 		{
 			"So yes, you can always find another ", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -1592,7 +1460,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229339,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [66]
 		{
 			"just get married then", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1614,7 +1482,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229340,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [67]
 		{
 			"4head", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1636,7 +1504,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229341,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [68]
 		{
 			"i'll just ask barbados to get a certificate that allows him to marry people", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1658,7 +1526,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229358,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [69]
 		{
 			"and then he can give me a vegas wedding", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1680,7 +1548,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229364,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [70]
 		{
 			"ez", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1702,7 +1570,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229373,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [71]
 		{
 			"inv", -- [1]
 			"Houji-Area52", -- [2]
@@ -1724,7 +1592,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Houji|r",
 			[51] = 1591229381,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [78]
+		}, -- [72]
 		{
 			"Cheaper than a Jaina mount run", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -1746,7 +1614,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229396,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [73]
 		{
 			"i heard it's pretty easy to get that certificate", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1768,7 +1636,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229399,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [74]
 		{
 			"perfect", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1790,7 +1658,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229406,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [75]
 		{
 			"you just have to take this online class ", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -1812,7 +1680,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591229407,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [76]
 		{
 			"it is pretty easy", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1834,7 +1702,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229427,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [77]
 		{
 			"I know a few ordained crackheads", -- [1]
 			"Numberz-Area52", -- [2]
@@ -1856,7 +1724,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229432,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [78]
 		{
 			"Guy Fieri is ordained, and he does vegas weddings all the time, hit up his twitter he caters for free'", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -1878,7 +1746,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229458,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [85]
+		}, -- [79]
 		{
 			"perfect", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1900,7 +1768,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229464,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [80]
 		{
 			"Welcome to flavortown", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -1922,7 +1790,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229475,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [81]
 		{
 			"anyone have a crit enchant for rings", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1944,7 +1812,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229515,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [82]
 		{
 			"i do", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -1966,7 +1834,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229519,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [83]
 		{
 			"on kj ;(", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -1988,7 +1856,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229524,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [84]
 		{
 			"put it in trade", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -2010,7 +1878,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229529,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [85]
 		{
 			"i can enchant it", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -2032,7 +1900,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229530,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [86]
 		{
 			"wait rly", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2054,7 +1922,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229533,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [87]
 		{
 			"no", -- [1]
 			"Numberz-Area52", -- [2]
@@ -2076,7 +1944,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229540,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [88]
 		{
 			"yuh", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -2098,7 +1966,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229544,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [95]
+		}, -- [89]
 		{
 			"it works cross server?", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2120,7 +1988,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229550,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [90]
 		{
 			"yea it says i cant ;(", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2142,7 +2010,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229574,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [91]
 		{
 			"Put it in will not", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -2164,7 +2032,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229577,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [92]
 		{
 			"it saying i cant ;S", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2186,7 +2054,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229587,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [99]
+		}, -- [93]
 		{
 			"Oh rip", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -2208,7 +2076,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229592,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
+		}, -- [94]
 		{
 			"unlucky", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2230,7 +2098,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229597,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [95]
 		{
 			"1/3 fast, 2/4 slow", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -2252,7 +2120,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
 			[51] = 1591229677,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [102]
+		}, -- [96]
 		{
 			"ur not my dad", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2274,7 +2142,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229684,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [97]
 		{
 			"wait", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2296,7 +2164,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229688,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [98]
 		{
 			"okay sci she wasn't planning my murder", -- [1]
 			"Numberz-Area52", -- [2]
@@ -2318,7 +2186,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229689,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
+		}, -- [99]
 		{
 			"gordy adopt me", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2340,7 +2208,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591229690,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [100]
 		{
 			"she said im lucky she was \"busy\" or something", -- [1]
 			"Numberz-Area52", -- [2]
@@ -2362,7 +2230,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Numberz|r",
 			[51] = 1591229696,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
+		}, -- [101]
 		{
 			"1/3 fast, 2/4 slow", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -2384,7 +2252,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
 			[51] = 1591229699,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [108]
+		}, -- [102]
 		{
 			"buyers tag and jump off", -- [1]
 			"Toshdk-Kil'jaeden", -- [2]
@@ -2406,7 +2274,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Toshdk-Kil'jaeden|r",
 			[51] = 1591229709,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [109]
+		}, -- [103]
 		{
 			"Oh okay", -- [1]
 			"Murdoc-Illidan", -- [2]
@@ -2428,7 +2296,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Murdoc-Illidan|r",
 			[51] = 1591229721,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [104]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12895:Player-3676-0AD8DE97:1:6:3:20:4294967295:4294967295:4294967295:4294967295|h[Honor Level 15]|h|r!", -- [1]
 			"Rathux-Area52", -- [2]
@@ -2450,7 +2318,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Rathux|r",
 			[51] = 1591229951,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [111]
+		}, -- [105]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-3676-0AE1E08A:1:6:3:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
 			"Blàckthunder-Area52", -- [2]
@@ -2472,7 +2340,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Blàckthunder|r",
 			[51] = 1591230003,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [112]
+		}, -- [106]
 		{
 			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165703::::::::120:63::::::|h[Breath of Bwonsamdi]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
 			"Houji-Area52", -- [2]
@@ -2494,7 +2362,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Houji|r",
 			[51] = 1591230015,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [107]
 		{
 			"BDLC: I have full bags but I looted |cffa335ee|Hitem:165583::::::::120:63::6:3:4800:1537:4786:::|h[Fogbreaker, Light of the Sea]|h|r. Once I clear a bag slot we can see if a session can be started.", -- [1]
 			"Houji-Area52", -- [2]
@@ -2516,7 +2384,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Houji|r",
 			[51] = 1591230015,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [114]
+		}, -- [108]
 		{
 			"barbados was the problem", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2538,7 +2406,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591230023,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [115]
+		}, -- [109]
 		{
 			"danggg", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -2560,7 +2428,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591230028,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [116]
+		}, -- [110]
 		{
 			"toxic", -- [1]
 			"Itsyellowy-Area52", -- [2]
@@ -2582,7 +2450,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeItsyellowy|r",
 			[51] = 1591230029,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [117]
+		}, -- [111]
 		{
 			"kidding", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2604,7 +2472,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591230038,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [118]
+		}, -- [112]
 		{
 			"ty friends", -- [1]
 			"Scitama-Kil'jaeden", -- [2]
@@ -2626,7 +2494,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
 			[51] = 1591230091,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [113]
 		{
 			"[WTS] Ny'alotha Heroic runs with loot sharing. Quick daily runs. Get yourself easy geared to 460+ ILVL tonight! Professional support and smooth runs. Find out more @ GTEAM.PRO!                         ", -- [1]
 			"Ongathrogar-Area52", -- [2]
@@ -2648,7 +2516,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ongathrogar|r",
 			[51] = 1591230094,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [114]
 		{
 			"ty", -- [1]
 			"Fyrefest-Hyjal", -- [2]
@@ -2670,7 +2538,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fyrefest-Hyjal|r",
 			[51] = 1591230095,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [115]
 		{
 			">> Selling +15-18 << || Timed || Specific Keys || Armor Stacking. Pre-Book your spot in >> Heroic Ny'alotha, 12/12 << GOLD ONLY!. Running Thur 9pm EST, pst to book spot. RAID done by <xD of Area52>", -- [1]
 			"Goldchainzx-Area52", -- [2]
@@ -2692,7 +2560,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Goldchainzx|r",
 			[51] = 1591230098,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [116]
 		{
 			"WTS >> M+ 10-18,  Horrific Visions (0-5 mask), 12/12H & Mythic Ny'alotha << Specific keys and armor stacking available too! GOLD ONLY! PST and I look forward to working with you!", -- [1]
 			"Hukkmukk-Area52", -- [2]
@@ -2714,7 +2582,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHukkmukk|r",
 			[51] = 1591230110,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [117]
 		{
 			"Sci called us friends (:", -- [1]
 			"Warlockmania-Area52", -- [2]
@@ -2736,7 +2604,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecWarlockmania|r",
 			[51] = 1591230111,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [118]
 		{
 			"WTS >> M+ 10-18,  Horrific Visions (0-5 mask), 12/12H & Mythic Ny'alotha << Specific keys and armor stacking available too! GOLD ONLY! PST and I look forward to working with you!", -- [1]
 			"Hukkmukk-Area52", -- [2]
@@ -2758,7 +2626,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHukkmukk|r",
 			[51] = 1591230118,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [119]
 		{
 			"WTS Full Heroic Nyalotha TONIGHT at 930 EST! Sold by 12/12 M Raiders, Come get your 460+ Gear and Mount  [GOLD ONLY]  /w for info!", -- [1]
 			"Implection-Area52", -- [2]
@@ -2780,7 +2648,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Implection|r",
 			[51] = 1591230122,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [120]
 		{
 			"WTS M+10s - 24s, buy 2 runs get free armor stack / specific key options available. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also have Horrific Visions and Pvp Boosts", -- [1]
 			"Skalcoin-Area52", -- [2]
@@ -2802,6 +2670,138 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkalcoin|r",
 			[51] = 1591230142,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"inv", -- [1]
+			"|Kq15|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Envious|r",
+			[51] = 1591836709,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [122]
+		{
+			"12 fast/left", -- [1]
+			"Nv-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-3676-0AD8DEA9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Nv|r",
+			[51] = 1591836801,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [123]
+		{
+			"34 slow/right", -- [1]
+			"Nv-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-3676-0AD8DEA9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Nv|r",
+			[51] = 1591836803,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [124]
+		{
+			"buyers tag boss and jump off.", -- [1]
+			"Nv-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nv", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-3676-0AD8DEA9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Nv|r",
+			[51] = 1591836833,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [125]
+		{
+			"grats", -- [1]
+			"Scitama-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scitama-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			98, -- [11]
+			"Player-9-0BA22384", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Scitama-Kil'jaeden|r",
+			[51] = 1591837136,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [126]
+		{
+			"ty ", -- [1]
+			"Battle-Tichondrius", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Battle-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-11-0B90F8C7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeBattle-Tichondrius|r",
+			[51] = 1591837168,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]
 	},
 }

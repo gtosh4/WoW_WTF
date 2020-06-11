@@ -93,7 +93,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1587014813,
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1591752930,
+				["lastUpdate"] = 1591844308,
 				["CRITTER"] = {
 					301136, -- [1]
 					315290, -- [2]
@@ -141,10 +141,10 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1587015438,
 			},
 			["Default.Area 52.Toshweaver"] = {
-				["lastUpdate"] = 1591230087,
+				["lastUpdate"] = 1591837169,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1591244088,
+				["lastUpdate"] = 1591847947,
 				["CRITTER"] = {
 					279638, -- [1]
 					253916, -- [2]
@@ -169,7 +169,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1591752029,
+				["lastUpdate"] = 1591840792,
 				["CRITTER"] = {
 					301137, -- [1]
 					286483, -- [2]

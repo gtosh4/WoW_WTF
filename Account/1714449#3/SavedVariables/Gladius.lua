@@ -41,11 +41,11 @@ Gladius2DB = {
 		["Toshpriest - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1407.199870326207,
-			},
 			["y"] = {
 				["arena1"] = 363.6467155992723,
+			},
+			["x"] = {
+				["arena1"] = 1407.199870326207,
 			},
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -305,44 +305,44 @@ Gladius2DB = {
 			["aurasBuffsWidth"] = 22,
 		},
 		["Toshmonk - Kil'jaeden"] = {
-			["powerBarTexture"] = "ElvUI Blank",
-			["targetBarTexture"] = "ElvUI Blank",
-			["trinketGloss"] = false,
-			["dispellFaction"] = false,
-			["castBarOffsetY"] = -1,
 			["modules"] = {
-				["Dispel"] = false,
-				["Announcements"] = false,
 				["TargetBar"] = true,
+				["Announcements"] = false,
+				["Dispel"] = false,
 			},
-			["dispellGloss"] = false,
-			["locked"] = true,
+			["powerBarOffsetY"] = -1,
+			["classIconCrop"] = true,
 			["powerBarHeight"] = 14,
 			["timerOmniCC"] = true,
-			["powerBarOffsetY"] = -1,
-			["bottomMargin"] = 14,
-			["x"] = {
-				["arena1"] = 1113.604082952312,
-			},
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["dispellGloss"] = false,
+			["locked"] = true,
 			["y"] = {
 				["arena1"] = 440.1067810519162,
 			},
-			["classIconShowSpec"] = true,
-			["auraVersion"] = 1,
-			["classIconCrop"] = true,
+			["x"] = {
+				["arena1"] = 1113.604082952312,
+			},
+			["bottomMargin"] = 14,
+			["dispellFaction"] = false,
+			["castBarOffsetY"] = -1,
+			["trinketGloss"] = false,
 			["castBarTexture"] = "ElvUI Blank",
-			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Blank",
+			["powerBarTexture"] = "ElvUI Blank",
+			["classIconShowSpec"] = true,
 			["trinketFaction"] = false,
+			["targetBarTexture"] = "ElvUI Blank",
 		},
 		["Toshaman - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 366.8467068816099,
-			},
 			["x"] = {
 				["arena1"] = 1435.46688051906,
+			},
+			["y"] = {
+				["arena1"] = 366.8467068816099,
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {

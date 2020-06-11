@@ -134,14 +134,6 @@ JambaTeamProfileDB = {
 			},
 		},
 		["Default"] = {
-			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = false,
-				["Toshpriest-Area52"] = false,
-				["Toshpal-Area52"] = false,
-				["Toshaman-Area52"] = true,
-				["Toshdk-Kil'Jaeden"] = true,
-				["Toshdk-Kil'jaeden"] = false,
-			},
 			["characterClass"] = {
 				["Toshpal-Kil'jaeden"] = "PALADIN",
 				["Toshpriest-Area52"] = "PRIEST",
@@ -149,6 +141,7 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'Jaeden"] = "DEATHKNIGHT",
 				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
 			},
+			["master"] = "Toshpriest-Area52",
 			["teamList"] = {
 				["Toshpal-Kil'jaeden"] = 3,
 				["Toshpriest-Area52"] = 2,
@@ -157,7 +150,14 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'Jaeden"] = 4,
 				["Toshdk-Kil'jaeden"] = 5,
 			},
-			["master"] = "Toshpriest-Area52",
+			["characterOnline"] = {
+				["Toshpal-Kil'jaeden"] = false,
+				["Toshpriest-Area52"] = false,
+				["Toshpal-Area52"] = false,
+				["Toshaman-Area52"] = true,
+				["Toshdk-Kil'Jaeden"] = true,
+				["Toshdk-Kil'jaeden"] = false,
+			},
 		},
 		["Tosh - Kil'jaeden"] = {
 			["characterClass"] = {
@@ -175,16 +175,16 @@ JambaTeamProfileDB = {
 			},
 		},
 		["Toshmonk - Kil'jaeden"] = {
-			["characterClass"] = {
-				["Toshmonk-Kil'jaeden"] = "MONK",
-			},
-			["master"] = "Toshmonk-Kil'jaeden",
 			["characterOnline"] = {
 				["Toshmonk-Kil'jaeden"] = true,
+			},
+			["characterClass"] = {
+				["Toshmonk-Kil'jaeden"] = "MONK",
 			},
 			["teamList"] = {
 				["Toshmonk-Kil'jaeden"] = 1,
 			},
+			["master"] = "Toshmonk-Kil'jaeden",
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["master"] = "Toshaman-Area52",

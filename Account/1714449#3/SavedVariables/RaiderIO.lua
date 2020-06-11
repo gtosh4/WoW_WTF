@@ -1,8 +1,7 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshaman-area-52"
+RaiderIO_LastCharacter = "us-Toshmonk-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Furryhyra-arthas"] = true,
-	["us-Nutrileche-area-52"] = true,
+	["us-Ptoleama-tichondrius"] = true,
 }

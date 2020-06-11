@@ -28,20 +28,6 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshmonk"] = {
-			["profile"] = "default",
-			["name"] = "Toshmonk",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Toshpriest"] = {
 			["profile"] = "default",
 			["name"] = "Toshpriest",
@@ -59,6 +45,20 @@ BD_persistent = {
 		["Toshweaver"] = {
 			["profile"] = "default",
 			["name"] = "Toshweaver",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshmonk"] = {
+			["profile"] = "default",
+			["name"] = "Toshmonk",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -115,7 +115,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshaman",
+		["name"] = "Toshmonk",
 		["spec_profile"] = {
 			{
 			}, -- [1]

@@ -435,9 +435,9 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
+			["frameXOffset"] = -9.393147468566895,
 			["itemUseTitleHeight"] = 2,
 			["showItemUse"] = false,
-			["frameXOffset"] = -9.393147468566895,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["frameYOffset"] = 194.2135314941406,

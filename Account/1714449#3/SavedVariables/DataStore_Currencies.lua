@@ -150,7 +150,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1591752955,
+				["lastUpdate"] = 1591844308,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -335,7 +335,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1591230087,
+				["lastUpdate"] = 1591837169,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -468,7 +468,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1591244088,
+				["lastUpdate"] = 1591847947,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "14331-0-0-0",
@@ -581,7 +581,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1591752029,
+				["lastUpdate"] = 1591840792,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",

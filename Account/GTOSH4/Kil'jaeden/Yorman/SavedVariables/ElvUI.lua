@@ -1,292 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/tmw", -- [1]
-		"/who  underrot", -- [2]
-		"/g I 100% tune that out", -- [3]
-		"/g played enough league on discord to just ignore it", -- [4]
-		"/g 'cuz screw PTT when playing a moba", -- [5]
-		"/p corey on in a min", -- [6]
-		"/p he's logging on", -- [7]
-		"/p he's finishing up his food rq", -- [8]
-		"/p what key", -- [9]
-		"/grid2", -- [10]
-		"/dance", -- [11]
-		"/o Righteousox is ox right", -- [12]
-		"/o from first run", -- [13]
-		"/cw Rivalry inv", -- [14]
-		"inv", -- [15]
-		"/jamba", -- [16]
-		"/o I don't think 5 runs is the play", -- [17]
-		"/o spreads mains too thin", -- [18]
-		"/o we got an extra avalanche there", -- [19]
-		"/rw jump", -- [20]
+		"/who  underrot", -- [1]
+		"/g I 100% tune that out", -- [2]
+		"/g played enough league on discord to just ignore it", -- [3]
+		"/g 'cuz screw PTT when playing a moba", -- [4]
+		"/p corey on in a min", -- [5]
+		"/p he's logging on", -- [6]
+		"/p he's finishing up his food rq", -- [7]
+		"/p what key", -- [8]
+		"/grid2", -- [9]
+		"/dance", -- [10]
+		"/o Righteousox is ox right", -- [11]
+		"/o from first run", -- [12]
+		"/cw Rivalry inv", -- [13]
+		"inv", -- [14]
+		"/jamba", -- [15]
+		"/o I don't think 5 runs is the play", -- [16]
+		"/o spreads mains too thin", -- [17]
+		"/o we got an extra avalanche there", -- [18]
+		"/rw jump", -- [19]
+		" inv", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"buyers just tag the boss and jump off please", -- [1]
-			"Fiery-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fiery", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			66, -- [11]
-			"Player-9-07C9B703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Fiery|r",
-			[51] = 1590031758,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [1]
-		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			84, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1590031819,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			88, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1590031862,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"ya well", -- [1]
-			"Scibolt-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scibolt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			91, -- [11]
-			"Player-3676-0AD8DEF7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecScibolt-Area52|r",
-			[51] = 1590031896,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			92, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1590031896,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
-			"Alvá-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Alvá-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			93, -- [11]
-			"Player-3676-0AD9020A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Alvá-Area52|r",
-			[51] = 1590031902,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"apparently u dont get windrush when u get corruption slow", -- [1]
-			"Scibolt-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scibolt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			94, -- [11]
-			"Player-3676-0AD8DEF7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecScibolt-Area52|r",
-			[51] = 1590031907,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"this is 2nd time", -- [1]
-			"Scibolt-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scibolt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			95, -- [11]
-			"Player-3676-0AD8DEF7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecScibolt-Area52|r",
-			[51] = 1590031915,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzhunt-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderzhunt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			99, -- [11]
-			"Player-3676-0AC52186", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderzhunt-Area52|r",
-			[51] = 1590031941,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"|cff71d5ff|Hspell:67826:0|h[Jeeves]|h|r cast by Turkeydos-Area52!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			102, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1590031955,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderzhunt-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderzhunt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			104, -- [11]
-			"Player-3676-0AC52186", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderzhunt-Area52|r",
-			[51] = 1590031960,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Taunted Lady Jaina Proudmoore!", -- [1]
-			"Meta-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meta-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			110, -- [11]
-			"Player-9-0BBA7095", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Meta|r",
-			[51] = 1590031995,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
 		{
 			"Freezing in 4", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -308,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032013,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [1]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -330,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032045,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
+		}, -- [2]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -352,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032055,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
+		}, -- [3]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -374,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032083,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
+		}, -- [4]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Alvá-Area52", -- [2]
@@ -396,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Alvá-Area52|r",
 			[51] = 1590032091,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
+		}, -- [5]
 		{
 			"i'll go fast", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -418,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032143,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
+		}, -- [6]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -440,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1590032150,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [7]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -462,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1590032170,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [8]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -484,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032207,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
+		}, -- [9]
 		{
 			"Freezing in 4", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -506,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032255,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [10]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -528,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032296,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [11]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -550,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032359,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [12]
 		{
 			"lulw", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -572,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032365,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [13]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -594,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1590032375,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [14]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -616,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1590032395,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [15]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -638,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032432,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [16]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -660,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032432,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+		}, -- [17]
 		{
 			"Freezing in 4", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -682,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032460,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [18]
 		{
 			"monka", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -704,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032523,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [19]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -726,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1590032528,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [20]
 		{
 			"hey delpi", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -748,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032544,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [21]
 		{
 			"how r u doing", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -770,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032546,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [22]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderzhunt-Area52", -- [2]
@@ -792,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderzhunt-Area52|r",
 			[51] = 1590032548,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [23]
 		{
 			"sleepy", -- [1]
 			"Delpix-Tichondrius", -- [2]
@@ -814,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Delpix-Tichondrius|r",
 			[51] = 1590032557,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+		}, -- [24]
 		{
 			"and i'll be late for my lunch appointment", -- [1]
 			"Delpix-Tichondrius", -- [2]
@@ -836,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Delpix-Tichondrius|r",
 			[51] = 1590032570,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [25]
 		{
 			"Freezing in 4", -- [1]
 			"Kasscades-Area52", -- [2]
@@ -858,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Kasscades-Area52|r",
 			[51] = 1590032608,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [26]
 		{
 			"Freezing in 4", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -880,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032618,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [27]
 		{
 			"Freezing in 3", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -902,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032619,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [28]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -924,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032627,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [29]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -946,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032648,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [30]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -968,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032688,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [31]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Alvá-Area52", -- [2]
@@ -990,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Alvá-Area52|r",
 			[51] = 1590032694,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [32]
 		{
 			"Interrupted Lady Jaina Proudmoore's |cff71d5ff|Hspell:288199:0|h[Howling Winds]|h|r!", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -1012,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032700,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
+		}, -- [33]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1034,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032717,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [34]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1056,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032728,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [35]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1078,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032761,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [48]
+		}, -- [36]
 		{
 			"Taunted Jaina's Tide Elemental!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1100,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032788,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [37]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1122,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032798,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [38]
 		{
 			"Taunted Jaina's Tide Elemental!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1144,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032804,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [39]
 		{
 			"Interrupted Lady Jaina Proudmoore's |cff71d5ff|Hspell:290001:0|h[Arcane Barrage]|h|r!", -- [1]
 			"Scibolt-Area52", -- [2]
@@ -1166,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecScibolt-Area52|r",
 			[51] = 1590032808,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [40]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1188,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032812,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
+		}, -- [41]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1210,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590032840,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
+		}, -- [42]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13291:Player-9-0B7BC281:1:5:20:20:4294967295:4294967295:4294967295:4294967295|h[Victory or Death]|h|r!", -- [1]
 			"Mutiny-Kil'jaeden", -- [2]
@@ -1232,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMutiny|r",
 			[51] = 1590032848,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [55]
+		}, -- [43]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13314:Player-9-0B7BC281:1:5:20:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Lady Jaina Proudmoore]|h|r!", -- [1]
 			"Mutiny-Kil'jaeden", -- [2]
@@ -1254,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cMutiny|r",
 			[51] = 1590032848,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [56]
+		}, -- [44]
 		{
 			"so wheres the mount", -- [1]
 			"Bígpapí-Area52", -- [2]
@@ -1276,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBígpapí-Area52|r",
 			[51] = 1590032901,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [45]
 		{
 			"one sec", -- [1]
 			"Shallow-Area52", -- [2]
@@ -1298,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Shallow-Area52|r",
 			[51] = 1590032906,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [46]
 		{
 			"i'll trade to other who didnt loot", -- [1]
 			"Shallow-Area52", -- [2]
@@ -1320,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Shallow-Area52|r",
 			[51] = 1590032914,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [47]
 		{
 			"have fun losers", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -1342,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1590635264,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [48]
 		{
 			"hehe", -- [1]
 			"Whinks-Kil'jaeden", -- [2]
@@ -1364,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Whinks|r",
 			[51] = 1590635267,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [49]
 		{
 			"i didnt get teleported smile", -- [1]
 			"Scifi-Misha", -- [2]
@@ -1386,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Scifi-Misha|r",
 			[51] = 1590635317,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [50]
 		{
 			"12left", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -1408,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1590635391,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [63]
+		}, -- [51]
 		{
 			"34right", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -1430,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1590635394,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [64]
+		}, -- [52]
 		{
 			"buyers tag and jump off please.", -- [1]
 			"Fiery-Kil'jaeden", -- [2]
@@ -1452,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Fiery|r",
 			[51] = 1590635397,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [65]
+		}, -- [53]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1474,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590635488,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [54]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1496,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590635601,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [55]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -1518,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj-Area52|r",
 			[51] = 1590635603,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [56]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1540,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590635645,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [69]
+		}, -- [57]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1562,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590635655,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [70]
+		}, -- [58]
 		{
 			"Taunted Jaina's Tide Elemental!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1584,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590635739,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [59]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1606,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590635742,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [60]
 		{
 			"Interrupted Lady Jaina Proudmoore's |cff71d5ff|Hspell:290001:0|h[Arcane Barrage]|h|r!", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -1628,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj-Area52|r",
 			[51] = 1590635754,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [61]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1650,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1590635757,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [62]
 		{
 			"EXTRAY EXTRAY READ ALL ABOUT IT", -- [1]
 			"Sploshey-Area52", -- [2]
@@ -1672,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey-Area52|r",
 			[51] = 1591239315,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [63]
 		{
 			"sub to the miestro ", -- [1]
 			"Sploshey-Area52", -- [2]
@@ -1694,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecSploshey-Area52|r",
 			[51] = 1591239326,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [64]
 		{
 			"1/3 left, 2/4 right", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1716,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman-Area52|r",
 			[51] = 1591239460,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [77]
+		}, -- [65]
 		{
 			"buyers tag and jump off please", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -1738,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman-Area52|r",
 			[51] = 1591239468,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [78]
+		}, -- [66]
 		{
 			"i was trying to ping ox but it made me ping officers", -- [1]
 			"Sci-Area52", -- [2]
@@ -1760,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci-Area52|r",
 			[51] = 1591239476,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [67]
 		{
 			":P", -- [1]
 			"Sci-Area52", -- [2]
@@ -1782,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci-Area52|r",
 			[51] = 1591239477,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [68]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1804,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239550,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [69]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1826,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239591,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [70]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -1848,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj-Area52|r",
 			[51] = 1591239626,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [71]
 		{
 			"no weinkels", -- [1]
 			"Sci-Area52", -- [2]
@@ -1870,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci-Area52|r",
 			[51] = 1591239705,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [72]
 		{
 			"adfasdf", -- [1]
 			"Turkeydos-Area52", -- [2]
@@ -1892,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Turkeydos-Area52|r",
 			[51] = 1591239717,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [73]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1914,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239735,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [74]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -1936,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239735,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [87]
+		}, -- [75]
 		{
 			"hi are you here for mount too ?", -- [1]
 			"Zuwitsuu-BurningBlade", -- [2]
@@ -1958,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Zuwitsuu-BurningBlade|r",
 			[51] = 1591239761,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [88]
+		}, -- [76]
 		{
 			"res pass", -- [1]
 			"Felfanatic-Area52", -- [2]
@@ -1980,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic-Area52|r",
 			[51] = 1591239769,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [89]
+		}, -- [77]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2002,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239778,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [78]
 		{
 			"PASS", -- [1]
 			"Felfanatic-Area52", -- [2]
@@ -2024,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic-Area52|r",
 			[51] = 1591239788,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [91]
+		}, -- [79]
 		{
 			"jamie pls", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2046,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj-Area52|r",
 			[51] = 1591239791,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [92]
+		}, -- [80]
 		{
 			"what?", -- [1]
 			"Nv-Area52", -- [2]
@@ -2068,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239794,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [93]
+		}, -- [81]
 		{
 			"pass didnt tag", -- [1]
 			"Sci-Area52", -- [2]
@@ -2090,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci-Area52|r",
 			[51] = 1591239798,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [94]
+		}, -- [82]
 		{
 			"you didn't tag on pass", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2112,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman-Area52|r",
 			[51] = 1591239798,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [95]
+		}, -- [83]
 		{
 			"You didnt tag on lock", -- [1]
 			"Felfanatic-Area52", -- [2]
@@ -2134,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic-Area52|r",
 			[51] = 1591239801,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [96]
+		}, -- [84]
 		{
 			"what do you mean", -- [1]
 			"Nv-Area52", -- [2]
@@ -2156,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239805,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [97]
+		}, -- [85]
 		{
 			"are you fucking high?", -- [1]
 			"Nv-Area52", -- [2]
@@ -2178,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239810,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [98]
+		}, -- [86]
 		{
 			"only 19 tags on my details", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2200,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman-Area52|r",
 			[51] = 1591239814,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [99]
+		}, -- [87]
 		{
 			"Tosh and I dont see your lock on either of our meters", -- [1]
 			"Felfanatic-Area52", -- [2]
@@ -2222,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Felfanatic-Area52|r",
 			[51] = 1591239820,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [100]
+		}, -- [88]
 		{
 			"let me just", -- [1]
 			"Nv-Area52", -- [2]
@@ -2244,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239821,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [101]
+		}, -- [89]
 		{
 			"take a screenshot", -- [1]
 			"Nv-Area52", -- [2]
@@ -2266,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239822,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [102]
+		}, -- [90]
 		{
 			"of this", -- [1]
 			"Nv-Area52", -- [2]
@@ -2288,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239823,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [103]
+		}, -- [91]
 		{
 			"in sales", -- [1]
 			"Nv-Area52", -- [2]
@@ -2310,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239834,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [104]
+		}, -- [92]
 		{
 			"channel", -- [1]
 			"Nv-Area52", -- [2]
@@ -2332,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239835,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [105]
+		}, -- [93]
 		{
 			"xD", -- [1]
 			"Nv-Area52", -- [2]
@@ -2354,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239836,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [106]
+		}, -- [94]
 		{
 			"i conflag ", -- [1]
 			"Nv-Area52", -- [2]
@@ -2376,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239840,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [107]
+		}, -- [95]
 		{
 			"twice", -- [1]
 			"Nv-Area52", -- [2]
@@ -2398,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239841,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [108]
+		}, -- [96]
 		{
 			"so thanks for wiping", -- [1]
 			"Nv-Area52", -- [2]
@@ -2420,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239850,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [109]
+		}, -- [97]
 		{
 			"my meta", -- [1]
 			"Solvèj-Area52", -- [2]
@@ -2442,7 +2178,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Solvèj-Area52|r",
 			[51] = 1591239855,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [110]
+		}, -- [98]
 		{
 			"Eating Nom Noms!", -- [1]
 			"Thunderrz-Area52", -- [2]
@@ -2464,7 +2200,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz-Area52|r",
 			[51] = 1591239862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [111]
+		}, -- [99]
 		{
 			"idk, two of us didn't have you on it", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2486,7 +2222,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman-Area52|r",
 			[51] = 1591239867,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [112]
+		}, -- [100]
 		{
 			"already aids enough tagging on 3", -- [1]
 			"Nv-Area52", -- [2]
@@ -2508,7 +2244,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nv-Area52|r",
 			[51] = 1591239868,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [113]
+		}, -- [101]
 		{
 			"so", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2530,7 +2266,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman-Area52|r",
 			[51] = 1591239868,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [114]
+		}, -- [102]
 		{
 			"just wanted to make sure", -- [1]
 			"Toshaman-Area52", -- [2]
@@ -2552,7 +2288,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcToshaman-Area52|r",
 			[51] = 1591239872,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [115]
+		}, -- [103]
 		{
 			"Done With Nom Noms!", -- [1]
 			"Thunderrz-Area52", -- [2]
@@ -2574,7 +2310,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Thunderrz-Area52|r",
 			[51] = 1591239882,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [116]
+		}, -- [104]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2596,7 +2332,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239914,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [117]
+		}, -- [105]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2618,7 +2354,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239914,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [118]
+		}, -- [106]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2640,7 +2376,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239949,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [119]
+		}, -- [107]
 		{
 			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2662,7 +2398,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591239987,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [120]
+		}, -- [108]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2684,7 +2420,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591240015,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [121]
+		}, -- [109]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2706,7 +2442,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591240032,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [122]
+		}, -- [110]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2728,7 +2464,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591240109,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [123]
+		}, -- [111]
 		{
 			"Taunted Lady Jaina Proudmoore!", -- [1]
 			"Meta-Kil'jaeden", -- [2]
@@ -2750,7 +2486,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Meta|r",
 			[51] = 1591240125,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [124]
+		}, -- [112]
 		{
 			"ty all ", -- [1]
 			"Zuwitsuu-BurningBlade", -- [2]
@@ -2772,7 +2508,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Zuwitsuu-BurningBlade|r",
 			[51] = 1591240188,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [125]
+		}, -- [113]
 		{
 			"ty ty", -- [1]
 			"Sci-Area52", -- [2]
@@ -2794,7 +2530,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sci-Area52|r",
 			[51] = 1591240191,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [126]
+		}, -- [114]
 		{
 			"WTS  Mythic+ 10-20, Run by players with 3.2k+ io. Get all the loot and a guaranteed corrupted piece from the weekly chest! Also selling Full Ny'alotha runs with funnelers and Visions with 1-5 Masks!!! Gold Only!", -- [1]
 			"Bellastsales-Kil'jaeden", -- [2]
@@ -2816,6 +2552,270 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBellastsales|r",
 			[51] = 1591240220,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"inv", -- [1]
+			"|Kq19|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3, -- [11]
+			false, -- [12]
+			26, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Envious|r",
+			[51] = 1591843829,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+		}, -- [116]
+		{
+			"12 left/fast", -- [1]
+			"Fiery-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fiery", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-9-07C9B703", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Fiery|r",
+			[51] = 1591843921,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [117]
+		{
+			"34 right/slow", -- [1]
+			"Fiery-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fiery", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-9-07C9B703", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Fiery|r",
+			[51] = 1591843928,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [118]
+		{
+			"Taunted Lady Jaina Proudmoore!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1591843995,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [119]
+		{
+			"|cff71d5ff|Hspell:178207:0|h[Drums of Fury]|h|r used by Shallow-Area52!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1591843999,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [120]
+		{
+			"Taunted Lady Jaina Proudmoore!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			90, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1591844050,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [121]
+		{
+			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			109, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1591844127,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [122]
+		{
+			"Interrupted Icebound Image's |cff71d5ff|Hspell:290053:0|h[Howling Winds]|h|r!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			110, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1591844142,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [123]
+		{
+			"Taunted Lady Jaina Proudmoore!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			118, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1591844196,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [124]
+		{
+			"Taunted Jaina's Tide Elemental!", -- [1]
+			"Meta-Kil'jaeden", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Meta-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-9-0BBA7095", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Meta|r",
+			[51] = 1591844242,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [125]
+		{
+			"ty c:", -- [1]
+			"Sci-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sci-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			136, -- [11]
+			"Player-3676-0AD8DDBF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Sci-Area52|r",
+			[51] = 1591844292,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [126]
+		{
+			"ty", -- [1]
+			"Satanicus-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Satanicus-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			147, -- [11]
+			"Player-123-0183C0BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSatanicus-Eldre'Thalas|r",
+			[51] = 1591844333,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [127]
 	},
 }

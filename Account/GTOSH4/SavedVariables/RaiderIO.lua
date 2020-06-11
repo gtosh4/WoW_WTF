@@ -3,10 +3,7 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshpal-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Inoss-area-52"] = true,
-	["us-Raventh-illidan"] = true,
-	["us-Baelish-malganis"] = true,
-	["us-Sweetbooty-icecrown"] = true,
-	["us-Unknown-area-52"] = true,
-	["us-Paulodin-magtheridon"] = true,
+	["us-Akunda the Richmon-area-52"] = true,
+	["us-Happystab-kiljaeden"] = true,
+	["us-Akunda the Unique-area-52"] = true,
 }
