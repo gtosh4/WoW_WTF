@@ -1,10 +1,14 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/ec", -- [1]
-		"/p yeah I wanna buy long boy", -- [2]
+		"/p yeah I wanna buy long boy", -- [1]
+		"/p saves on token fees or gbank transfer", -- [2]
 		"/p on this server", -- [3]
-		"/p saves on token fees or gbank transfer", -- [4]
+		"/ec", -- [4]
+		"/p ty", -- [5]
+		"/p getting closer", -- [6]
+		"/p yeah", -- [7]
+		"/p sweet", -- [8]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -183,5 +187,181 @@ ElvCharacterDB = {
 			[51] = 1591316543,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [8]
+		{
+			"ty", -- [1]
+			"Toshlongboy-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshlongboy-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-123-08BD5BC9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshlongboy|r",
+			[51] = 1591911535,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [9]
+		{
+			"=)", -- [1]
+			"Aggjaina-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aggjaina-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-123-08BB7604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Aggjaina|r",
+			[51] = 1591911536,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [10]
+		{
+			"getting closer", -- [1]
+			"Toshlongboy-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshlongboy-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-123-08BD5BC9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshlongboy|r",
+			[51] = 1591911539,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [11]
+		{
+			"3.6?", -- [1]
+			"Aggjaina-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aggjaina-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-123-08BB7604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Aggjaina|r",
+			[51] = 1591911544,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [12]
+		{
+			"yeah", -- [1]
+			"Toshlongboy-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshlongboy-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-123-08BD5BC9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshlongboy|r",
+			[51] = 1591911548,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [13]
+		{
+			"nice, one of my buyers might do a nzoth later", -- [1]
+			"Aggjaina-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aggjaina-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-123-08BB7604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Aggjaina|r",
+			[51] = 1591911561,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [14]
+		{
+			"so that will get the rest", -- [1]
+			"Aggjaina-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aggjaina-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-123-08BB7604", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Aggjaina|r",
+			[51] = 1591911565,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [15]
+		{
+			"sweet", -- [1]
+			"Toshlongboy-Eldre'Thalas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Toshlongboy-Eldre'Thalas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"Player-123-08BD5BC9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshlongboy|r",
+			[51] = 1591911628,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [16]
 	},
 }

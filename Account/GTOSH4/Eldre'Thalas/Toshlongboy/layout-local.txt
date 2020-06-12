@@ -1,11 +1,4 @@
 Version: 1
-Frame: GladiusButtonFramearena1
-FrameLevel: 1
-Anchor: RIGHT
-X: -281
-Y: -15
-W: 160
-H: 52
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -27,6 +20,13 @@ X: 0
 Y: 0
 W: 365
 H: 380
+Frame: AAP_GreetingsFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -615
+Y: -90
+W: 330
+H: 175
 Frame: bdConfig Lib
 FrameLevel: 1
 Anchor: RIGHT
@@ -76,10 +76,3 @@ X: -82
 Y: 185
 W: 235
 H: 480
-Frame: AAP_GreetingsFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: -615
-Y: -90
-W: 330
-H: 175

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2448,
 	["lastSanitation"] = 3,
-	["session"] = 2447,
 	["errors"] = {
 		{
 			["message"] = "Interface\\FrameXML\\StaticPopup.lua:3197: attempt to perform arithmetic on field 'lockTimeleft' (a nil value)",
