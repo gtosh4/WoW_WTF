@@ -2,9 +2,9 @@
 JambaItemUseProfileDB = {
 	["profileKeys"] = {
 		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
-		["Toshaman - Area 52"] = "Default",
-		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshaman - Area 52"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
@@ -435,9 +435,9 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["frameXOffset"] = -9.393147468566895,
 			["itemUseTitleHeight"] = 2,
 			["showItemUse"] = false,
+			["frameXOffset"] = -9.393147468566895,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["frameYOffset"] = 194.2135314941406,

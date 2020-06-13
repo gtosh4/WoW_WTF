@@ -2,8 +2,6 @@
 EssenceSetManager = {
 	["Shadow"] = {
 	},
-	["Holy"] = {
-	},
 	["Discipline"] = {
 		["raid"] = {
 			["major"] = {
@@ -65,5 +63,7 @@ EssenceSetManager = {
 				},
 			},
 		},
+	},
+	["Holy"] = {
 	},
 }

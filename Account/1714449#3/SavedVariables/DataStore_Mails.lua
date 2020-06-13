@@ -8,9 +8,9 @@ DataStore_MailsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -22,8 +22,8 @@ DataStore_MailsDB = {
 						["itemID"] = 168313,
 						["link"] = "|cffffffff|Hitem:168313::::::::120:256::::::|h[Baked Port Tato]|h|r",
 						["count"] = 20,
-						["lastCheck"] = 1590284500,
 						["icon"] = 651570,
+						["lastCheck"] = 1590284500,
 						["daysLeft"] = 30,
 					}, -- [1]
 					{
@@ -31,8 +31,8 @@ DataStore_MailsDB = {
 						["itemID"] = 168652,
 						["link"] = "|cffffffff|Hitem:168652::::::::120:256::::::|h[Greater Flask of Endless Fathoms]|h|r",
 						["count"] = 20,
-						["lastCheck"] = 1590284600,
 						["icon"] = 967549,
+						["lastCheck"] = 1590284600,
 						["daysLeft"] = 30,
 					}, -- [2]
 				},
@@ -42,9 +42,9 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1591409786,
 				["lastVisitDate"] = "2020/06/05 22:16",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762325,
-				["lastVisitDate"] = "2020/05/17 20:38",
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1592026445,
+				["lastVisitDate"] = "2020/06/13 01:34",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015595,
@@ -58,21 +58,21 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1591847383,
 				["Mails"] = {
 					{
-						["lastCheck"] = 1591847383,
+						["icon"] = 135724,
 						["sender"] = "Customer Support",
 						["subject"] = "Your Guild Has Moved",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete.",
-						["icon"] = 135724,
+						["lastCheck"] = 1591847383,
 						["daysLeft"] = 5.208911895751953,
 					}, -- [1]
 				},
 				["lastVisitDate"] = "2020/06/10 23:49",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1591752349,
-				["lastVisitDate"] = "2020/06/09 21:25",
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762325,
+				["lastVisitDate"] = "2020/05/17 20:38",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762476,
