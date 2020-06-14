@@ -194,8 +194,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = false,
 			["hideAt"] = 0,
+			["hidden"] = false,
 		}, -- [38]
 		{
 			["statKey"] = "RatingCategory",
@@ -445,8 +445,8 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -676,8 +676,8 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -831,8 +831,8 @@ DCS_ClassSpecDB = {
 		}, -- [41]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = false,
 			["hideAt"] = 0,
+			["hidden"] = false,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -1097,8 +1097,8 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -1233,8 +1233,8 @@ DCS_ClassSpecDB = {
 		}, -- [37]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = false,
 			["hideAt"] = 0,
+			["hidden"] = false,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -1484,8 +1484,8 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -1696,8 +1696,8 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -1902,8 +1902,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -2126,32 +2126,36 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
 		}, -- [53]
 		["uniqueKey"] = "Toshaman:Area 52:1",
 	},
-	["Toshpriest:Area 52:3"] = {
+	["Toshpal:Area 52:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
 		{
 			["statKey"] = "CorruptionCategory",
+			["hidden"] = true,
 		}, -- [2]
 		{
 			["statKey"] = "CR_CORRUPTION",
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [3]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [4]
 		{
 			["statKey"] = "CR_TOTAL_CORRUPTION",
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [5]
 		{
 			["statKey"] = "GeneralCategory",
@@ -2183,7 +2187,6 @@ DCS_ClassSpecDB = {
 		}, -- [14]
 		{
 			["statKey"] = "STRENGTH",
-			["hidden"] = true,
 		}, -- [15]
 		{
 			["statKey"] = "AGILITY",
@@ -2191,6 +2194,7 @@ DCS_ClassSpecDB = {
 		}, -- [16]
 		{
 			["statKey"] = "INTELLECT",
+			["hidden"] = true,
 		}, -- [17]
 		{
 			["statKey"] = "STAMINA",
@@ -2203,32 +2207,29 @@ DCS_ClassSpecDB = {
 		}, -- [20]
 		{
 			["statKey"] = "ATTACK_DAMAGE",
-			["hidden"] = true,
 		}, -- [21]
 		{
 			["statKey"] = "ATTACK_AP",
-			["hidden"] = true,
 		}, -- [22]
 		{
 			["statKey"] = "DCS_ATTACK_ATTACKSPEED",
-			["hidden"] = true,
 		}, -- [23]
 		{
 			["statKey"] = "WEAPON_DPS",
-			["hidden"] = true,
 		}, -- [24]
 		{
 			["statKey"] = "SPELLPOWER",
+			["hidden"] = true,
 		}, -- [25]
 		{
 			["statKey"] = "MANAREGEN",
+			["hidden"] = true,
 		}, -- [26]
 		{
 			["statKey"] = "ENERGY_REGEN",
 		}, -- [27]
 		{
 			["statKey"] = "DCS_RUNEREGEN",
-			["hidden"] = true,
 		}, -- [28]
 		{
 			["statKey"] = "FOCUS_REGEN",
@@ -2344,7 +2345,7 @@ DCS_ClassSpecDB = {
 			["hidden"] = true,
 			["hideAt"] = 0,
 		}, -- [53]
-		["uniqueKey"] = "Toshpriest:Area 52:3",
+		["uniqueKey"] = "Toshpal:Area 52:3",
 	},
 	["Yorman:Kil'jaeden:1"] = {
 		{
@@ -2538,8 +2539,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:1",
 	},
@@ -2735,8 +2736,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -2947,8 +2948,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -3175,8 +3176,8 @@ DCS_ClassSpecDB = {
 		}, -- [52]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -3377,8 +3378,8 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -3592,8 +3593,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
@@ -3804,8 +3805,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Yorman:Kil'jaeden:4",
 	},
@@ -4014,8 +4015,8 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [53]
 		["uniqueKey"] = "Toshaman:Kil'jaeden:2",
 	},
@@ -4226,33 +4227,29 @@ DCS_ClassSpecDB = {
 			["roles"] = {
 				"TANK", -- [1]
 			},
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [53]
 		["uniqueKey"] = "Toshaman:Area 52:3",
 	},
-	["Toshpal:Area 52:3"] = {
+	["Toshpriest:Area 52:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
 		{
 			["statKey"] = "CorruptionCategory",
-			["hidden"] = true,
 		}, -- [2]
 		{
 			["statKey"] = "CR_CORRUPTION",
 			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [3]
 		{
 			["statKey"] = "CR_CORRUPTION_RESISTANCE",
 			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [4]
 		{
 			["statKey"] = "CR_TOTAL_CORRUPTION",
 			["hideAt"] = 0,
-			["hidden"] = true,
 		}, -- [5]
 		{
 			["statKey"] = "GeneralCategory",
@@ -4284,6 +4281,7 @@ DCS_ClassSpecDB = {
 		}, -- [14]
 		{
 			["statKey"] = "STRENGTH",
+			["hidden"] = true,
 		}, -- [15]
 		{
 			["statKey"] = "AGILITY",
@@ -4291,7 +4289,6 @@ DCS_ClassSpecDB = {
 		}, -- [16]
 		{
 			["statKey"] = "INTELLECT",
-			["hidden"] = true,
 		}, -- [17]
 		{
 			["statKey"] = "STAMINA",
@@ -4304,29 +4301,32 @@ DCS_ClassSpecDB = {
 		}, -- [20]
 		{
 			["statKey"] = "ATTACK_DAMAGE",
+			["hidden"] = true,
 		}, -- [21]
 		{
 			["statKey"] = "ATTACK_AP",
+			["hidden"] = true,
 		}, -- [22]
 		{
 			["statKey"] = "DCS_ATTACK_ATTACKSPEED",
+			["hidden"] = true,
 		}, -- [23]
 		{
 			["statKey"] = "WEAPON_DPS",
+			["hidden"] = true,
 		}, -- [24]
 		{
 			["statKey"] = "SPELLPOWER",
-			["hidden"] = true,
 		}, -- [25]
 		{
 			["statKey"] = "MANAREGEN",
-			["hidden"] = true,
 		}, -- [26]
 		{
 			["statKey"] = "ENERGY_REGEN",
 		}, -- [27]
 		{
 			["statKey"] = "DCS_RUNEREGEN",
+			["hidden"] = true,
 		}, -- [28]
 		{
 			["statKey"] = "FOCUS_REGEN",
@@ -4442,7 +4442,7 @@ DCS_ClassSpecDB = {
 			["hideAt"] = 0,
 			["hidden"] = true,
 		}, -- [53]
-		["uniqueKey"] = "Toshpal:Area 52:3",
+		["uniqueKey"] = "Toshpriest:Area 52:3",
 	},
 	["Toshmonk:Kil'jaeden:3"] = {
 		{
@@ -4631,8 +4631,8 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},

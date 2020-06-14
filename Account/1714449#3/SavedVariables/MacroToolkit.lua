@@ -9,6 +9,10 @@ MacroToolkitDB = {
 			["backups"] = {
 			},
 		},
+		["Toshaman - Area 52"] = {
+			["backups"] = {
+			},
+		},
 		["Toshaman - Kil'jaeden"] = {
 			["backups"] = {
 			},
@@ -38,8 +42,8 @@ MacroToolkitDB = {
 	},
 	["profiles"] = {
 		["profile"] = {
-			["y"] = 846.0880737304688,
-			["x"] = 1958.151123046875,
+			["y"] = 490.0881958007813,
+			["x"] = 2274.150634765625,
 			["height"] = 431.0003967285156,
 			["override"] = true,
 		},

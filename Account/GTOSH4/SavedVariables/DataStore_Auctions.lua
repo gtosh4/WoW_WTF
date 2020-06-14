@@ -56,8 +56,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2020/04/07 20:20",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1591845226,
-				["lastVisitDate"] = "2020/06/10 23:13",
+				["lastUpdate"] = 1592102073,
+				["lastVisitDate"] = "2020/06/13 22:34",
 			},
 		},
 	},

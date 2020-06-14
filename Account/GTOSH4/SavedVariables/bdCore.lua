@@ -278,26 +278,6 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				[""] = true,
 				["welcome"] = true,
@@ -341,7 +321,7 @@ BD_persistent = {
 				["Initiate your transfers to a52"] = true,
 				["Heroic Crucible Wed @ 7pm cst. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Main Raid Fri/Sat @ 830pm-1230am CST."] = true,
+				["H EP tonight @ 7pm cst(wed) if people are around. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["4 x Mythic BoD Wed starting @ 7pm CST."] = true,
 				["If youre willing to donate flasks/herbs for cauldrons please send them to Pluie.! Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Normal and Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -364,7 +344,7 @@ BD_persistent = {
 				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Wed Mythic EP @ 8pm CST. We are NOT raiding nov 29/30th. Normal Raid Schedule Dec 6/7"] = true,
-				["Mythic Carapace on Mon @ 8pm CST. please show up "] = true,
+				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
 				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
 				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -385,7 +365,7 @@ BD_persistent = {
 				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
-				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Mythic Carapace on Mon @ 8pm CST. please show up "] = true,
 				["RIP Toshmonk"] = true,
 				["kill n'zoth pls. main raid fri/sat 830pm-1230am cst"] = true,
 				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
@@ -395,9 +375,29 @@ BD_persistent = {
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  be prepared for ilgy/carapace"] = true,
 				["Heroic Main Raid tonight @ 7pm cst (thurs 2/13). Main Raid Fri/Sat Look up vexiona"] = true,
 				["Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete."] = true,
-				["H EP tonight @ 7pm cst(wed) if people are around. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Main Raid Fri/Sat @ 830pm-1230am CST."] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
+			["font"] = "Friz Quadrata TT",
+			["skingmotd"] = true,
+			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

@@ -34,7 +34,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		151, -- [6]
-		132173, -- [7]
+		387780, -- [7]
 	}, -- [4]
 	{
 		"Thunderrz-Area52", -- [1]
@@ -97,7 +97,7 @@ AstralKeys = {
 		18, -- [4]
 		0, -- [5]
 		151, -- [6]
-		312892, -- [7]
+		387805, -- [7]
 	}, -- [11]
 	{
 		"Toshpal-Area52", -- [1]
@@ -106,7 +106,7 @@ AstralKeys = {
 		18, -- [4]
 		0, -- [5]
 		151, -- [6]
-		314477, -- [7]
+		387301, -- [7]
 	}, -- [12]
 	{
 		"Mattea-Kil'jaeden", -- [1]
@@ -160,7 +160,7 @@ AstralKeys = {
 		17, -- [4]
 		0, -- [5]
 		151, -- [6]
-		314477, -- [7]
+		363895, -- [7]
 	}, -- [18]
 	{
 		"Gummybuns-Area52", -- [1]
@@ -178,7 +178,7 @@ AstralKeys = {
 		18, -- [4]
 		0, -- [5]
 		151, -- [6]
-		1, -- [7]
+		387583, -- [7]
 	}, -- [20]
 }
 AstralCharacters = {
@@ -231,7 +231,7 @@ AstralFriends = {
 		252, -- [4]
 		20, -- [5]
 		151, -- [6]
-		231358, -- [7]
+		363649, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [3]
@@ -242,7 +242,7 @@ AstralFriends = {
 		246, -- [4]
 		18, -- [5]
 		151, -- [6]
-		137329, -- [7]
+		386961, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [4]
@@ -253,9 +253,9 @@ AstralFriends = {
 		248, -- [4]
 		21, -- [5]
 		151, -- [6]
-		311624, -- [7]
+		377614, -- [7]
 		"1", -- [8]
-		24, -- [9]
+		25, -- [9]
 	}, -- [5]
 	{
 		"Blueflame-Kil'jaeden", -- [1]
@@ -264,7 +264,7 @@ AstralFriends = {
 		353, -- [4]
 		15, -- [5]
 		151, -- [6]
-		217049, -- [7]
+		317269, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [6]
@@ -286,7 +286,7 @@ AstralFriends = {
 		246, -- [4]
 		18, -- [5]
 		151, -- [6]
-		312892, -- [7]
+		387224, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [8]
@@ -316,10 +316,10 @@ AstralFriends = {
 		"Orcbum-Kil'jaeden", -- [1]
 		"bum#1748", -- [2]
 		"WARRIOR", -- [3]
-		353, -- [4]
+		252, -- [4]
 		16, -- [5]
 		151, -- [6]
-		312414, -- [7]
+		380447, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [11]
@@ -352,9 +352,9 @@ AstralFriends = {
 		246, -- [4]
 		22, -- [5]
 		151, -- [6]
-		311862, -- [7]
+		387023, -- [7]
 		"1", -- [8]
-		23, -- [9]
+		25, -- [9]
 	}, -- [14]
 	{
 		"Blueflamee-Kil'jaeden", -- [1]
@@ -385,9 +385,9 @@ AstralFriends = {
 		250, -- [4]
 		18, -- [5]
 		151, -- [6]
-		126007, -- [7]
+		382163, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		19, -- [9]
 	}, -- [17]
 	{
 		"Meta-Kil'jaeden", -- [1]
@@ -396,9 +396,9 @@ AstralFriends = {
 		252, -- [4]
 		18, -- [5]
 		151, -- [6]
-		129531, -- [7]
+		386967, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		20, -- [9]
 	}, -- [18]
 	{
 		"Gummybuns-Area52", -- [1]
@@ -407,7 +407,7 @@ AstralFriends = {
 		251, -- [4]
 		22, -- [5]
 		151, -- [6]
-		311993, -- [7]
+		379198, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [19]
@@ -418,7 +418,7 @@ AstralFriends = {
 		246, -- [4]
 		20, -- [5]
 		151, -- [6]
-		230622, -- [7]
+		378785, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [20]
@@ -435,6 +435,39 @@ AstralFriends = {
 	}, -- [21]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1592319600,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["no_key"] = true,
+			["party"] = true,
+			["guild"] = true,
+			["raid"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -460,39 +493,6 @@ AstralKeysSettings = {
 		},
 		["sorth_method"] = "character_name",
 		["current_list"] = "GUILD",
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1592319600,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["guild"] = true,
-			["raid"] = false,
-			["no_key"] = true,
-			["party"] = true,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
 	},
 }
 AstralMinimap = {

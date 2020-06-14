@@ -24,1172 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"E ERrr High Tinker Mekkatorque!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			857, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591846886,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"3", -- [1]
-			"Sneakyturkey-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sneakyturkey-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			858, -- [11]
-			"Player-3676-0AD29DCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Sneakyturkey|r",
-			[51] = 1591846892,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"2", -- [1]
-			"Sneakyturkey-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sneakyturkey-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			860, -- [11]
-			"Player-3676-0AD29DCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Sneakyturkey|r",
-			[51] = 1591846893,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"1", -- [1]
-			"Sneakyturkey-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sneakyturkey-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			861, -- [11]
-			"Player-3676-0AD29DCF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Sneakyturkey|r",
-			[51] = 1591846894,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"Miscalculated Teleport on Blueflame", -- [1]
-			"Blueflame-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Blueflame-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			864, -- [11]
-			"Player-9-0AF42949", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cBlueflame-Kil'jaeden|r",
-			[51] = 1591846899,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"i was striking a business deal", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			890, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591846986,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"with nammers", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			891, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591846988,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"typical dumb and dumbers", -- [1]
-			"Arnbjorn-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjorn-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			897, -- [11]
-			"Player-3676-0AD901AD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjorn|r",
-			[51] = 1591846999,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"can u believe nammers charged me 5k for him to log in", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			899, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847003,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"??", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			900, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847005,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"E ERrr Kul Tiran Stormbringer!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			902, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847036,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			905, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847046,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			906, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847046,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzhunt-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderzhunt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			915, -- [11]
-			"Player-3676-0AC52186", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderzhunt|r",
-			[51] = 1591847077,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderzhunt-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderzhunt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			917, -- [11]
-			"Player-3676-0AC52186", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderzhunt|r",
-			[51] = 1591847097,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"E ERrr Brother Joseph!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			922, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847142,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"E ERrr Sister Katherine!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			943, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847172,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"E ERrr Sister Katherine!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			950, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847181,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"Crackling Lightning on Toshpal", -- [1]
-			"Toshpal-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			959, -- [11]
-			"Player-3676-0AD8DD4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1591847193,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"3", -- [1]
-			"Toshpal-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			961, -- [11]
-			"Player-3676-0AD8DD4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1591847194,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"2", -- [1]
-			"Toshpal-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			962, -- [11]
-			"Player-3676-0AD8DD4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1591847195,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"1", -- [1]
-			"Toshpal-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			963, -- [11]
-			"Player-3676-0AD8DD4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1591847196,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"3", -- [1]
-			"Cjizzy-Kil'jaeden", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Cjizzy-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			967, -- [11]
-			"Player-9-09CF771E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
-			[51] = 1591847222,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"wait", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			985, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847256,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
-		{
-			"is this the fourth run", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			986, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847258,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
-		{
-			"that was fast", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			987, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847260,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
-		{
-			"why dont we do 5", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			989, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847264,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
-		{
-			"have fun with that", -- [1]
-			"Arnbjorn-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arnbjorn-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			993, -- [11]
-			"Player-3676-0AD901AD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Arnbjorn|r",
-			[51] = 1591847278,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
-		{
-			"omg", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			996, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847291,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
-		{
-			"my game just exploded", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			998, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847297,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
-		{
-			"i accidentally took portal the second the ship was sailing", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			999, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847305,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
-		{
-			"and i got like a green screen", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1000, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847311,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
-		{
-			"that split org and the boat", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1001, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847315,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
-		{
-			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1003, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847339,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
-		{
-			"|cff71d5ff|Hspell:115176:0|h[Zen Meditation]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1004, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847343,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
-		{
-			"inv", -- [1]
-			"|Kq10|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1009, -- [11]
-			false, -- [12]
-			26, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeEnvious|r",
-			[51] = 1591847376,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [36]
-		{
-			"12 left/fast", -- [1]
-			"Rivalry-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1014, -- [11]
-			"Player-3676-0AD91DE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1591847428,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [37]
-		{
-			"34 right/slow", -- [1]
-			"Rivalry-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1015, -- [11]
-			"Player-3676-0AD91DE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1591847430,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [38]
-		{
-			"not if he goes afflic", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1017, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847468,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
-		{
-			"buyers tag boss and jump off", -- [1]
-			"Rivalry-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1020, -- [11]
-			"Player-3676-0AD91DE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1591847482,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [40]
-		{
-			"E ERrr Lady Jaina Proudmoore!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1023, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847505,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
-		{
-			"Avalanche (2{rt2}) on Toshpal", -- [1]
-			"Toshpal-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Toshpal-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1031, -- [11]
-			"Player-3676-0AD8DD4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Toshpal|r",
-			[51] = 1591847519,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Icebound Image is immune to my |cff71d5ff|Hspell:115078:0|h[Paralysis]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1043, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847587,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
-		{
-			"why", -- [1]
-			"Rivalry-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1062, -- [11]
-			"Player-3676-0AD91DE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1591847615,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [44]
-		{
-			"RIP", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1070, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847632,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
-		{
-			"Eating Nom Noms!", -- [1]
-			"Thunderzhunt-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderzhunt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1072, -- [11]
-			"Player-3676-0AC52186", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderzhunt|r",
-			[51] = 1591847643,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"12 left", -- [1]
-			"Rivalry-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1073, -- [11]
-			"Player-3676-0AD91DE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1591847653,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [47]
-		{
-			"34 right", -- [1]
-			"Rivalry-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rivalry", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1074, -- [11]
-			"Player-3676-0AD91DE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Rivalry|r",
-			[51] = 1591847655,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [48]
-		{
-			"Done With Nom Noms!", -- [1]
-			"Thunderzhunt-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderzhunt-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1075, -- [11]
-			"Player-3676-0AC52186", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderzhunt|r",
-			[51] = 1591847663,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"remember to tag", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1076, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847674,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
-		{
-			":)", -- [1]
-			"Scitron-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Scitron-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1077, -- [11]
-			"Player-3676-0A1DAC2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcScitron|r",
-			[51] = 1591847675,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
-		{
-			"E ERrr Lady Jaina Proudmoore!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1079, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847681,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"E ERrr Lady Jaina Proudmoore!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1080, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1591847681,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
-		{
 			"3", -- [1]
 			"Scitron-Area52", -- [2]
 			"Orcish", -- [3]
@@ -1210,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847776,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [1]
 		{
 			"2", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1232,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847777,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [2]
 		{
 			"1", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1254,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847778,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [3]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1276,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847795,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [4]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1298,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847795,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [5]
 		{
 			"Broadside (2{rt2}) on Toshpal", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1320,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1591847805,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [6]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1342,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847805,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [7]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1364,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847805,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [8]
 		{
 			"3", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1386,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1591847808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [9]
 		{
 			"3", -- [1]
 			"Cjizzy-Kil'jaeden", -- [2]
@@ -1408,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
 			[51] = 1591847808,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [10]
 		{
 			"2", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1430,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1591847809,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [11]
 		{
 			"2", -- [1]
 			"Cjizzy-Kil'jaeden", -- [2]
@@ -1452,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
 			[51] = 1591847809,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [12]
 		{
 			"1", -- [1]
 			"Cjizzy-Kil'jaeden", -- [2]
@@ -1474,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
 			[51] = 1591847810,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [13]
 		{
 			"1", -- [1]
 			"Toshpal-Area52", -- [2]
@@ -1496,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Toshpal|r",
 			[51] = 1591847810,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [14]
 		{
 			"3", -- [1]
 			"Sneakyturkey-Area52", -- [2]
@@ -1518,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sneakyturkey|r",
 			[51] = 1591847816,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [15]
 		{
 			"2", -- [1]
 			"Sneakyturkey-Area52", -- [2]
@@ -1540,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sneakyturkey|r",
 			[51] = 1591847817,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [16]
 		{
 			"1", -- [1]
 			"Sneakyturkey-Area52", -- [2]
@@ -1562,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Sneakyturkey|r",
 			[51] = 1591847818,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [17]
 		{
 			"E ERrr Jaina's Tide Elemental!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1584,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847847,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [18]
 		{
 			"E ERrr Jaina's Tide Elemental!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1606,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847858,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [19]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1628,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847871,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [20]
 		{
 			"Interrupted Jaina's Tide Elemental's |cff71d5ff|Hspell:290084:0|h[Water Bolt Volley]|h|r!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1650,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847871,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [21]
 		{
 			"Broadside (1{rt1}) on Cjizzy", -- [1]
 			"Cjizzy-Kil'jaeden", -- [2]
@@ -1672,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
 			[51] = 1591847880,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [22]
 		{
 			"Broadside (2{rt2}) on Scitron", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1694,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847880,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [23]
 		{
 			"3", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1716,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847883,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [24]
 		{
 			"3", -- [1]
 			"Cjizzy-Kil'jaeden", -- [2]
@@ -1738,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
 			[51] = 1591847883,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [25]
 		{
 			"3", -- [1]
 			"Arnbjorn-Area52", -- [2]
@@ -1760,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjorn|r",
 			[51] = 1591847883,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [26]
 		{
 			"2", -- [1]
 			"Arnbjorn-Area52", -- [2]
@@ -1782,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjorn|r",
 			[51] = 1591847884,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [27]
 		{
 			"2", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1804,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847884,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [28]
 		{
 			"2", -- [1]
 			"Cjizzy-Kil'jaeden", -- [2]
@@ -1826,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
 			[51] = 1591847884,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [29]
 		{
 			"1", -- [1]
 			"Cjizzy-Kil'jaeden", -- [2]
@@ -1848,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Cjizzy-Kil'jaeden|r",
 			[51] = 1591847885,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [30]
 		{
 			"1", -- [1]
 			"Arnbjorn-Area52", -- [2]
@@ -1870,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Arnbjorn|r",
 			[51] = 1591847885,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [31]
 		{
 			"1", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1892,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847885,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [32]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1914,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847887,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [86]
+		}, -- [33]
 		{
 			"E ERrr Lady Jaina Proudmoore!", -- [1]
 			"Gummybuns-Area52", -- [2]
@@ -1936,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Gummybuns|r",
 			[51] = 1591847887,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [34]
 		{
 			"thank you!", -- [1]
 			"Scitron-Area52", -- [2]
@@ -1958,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcScitron|r",
 			[51] = 1591847906,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [88]
+		}, -- [35]
 		{
 			"WTS |cffffff00|Hachievement:14069:Player-3676-0AE3F3CE:1:3:11:20:4294967295:4294967295:4294967295:4294967295|h[Cutting Edge: N'Zoth the Corruptor]|h|r including mount and full mythic clears every Tuesday. We sell for gold only. Get 475+ loot specific to your character and the Cutting Edge achievements. PST for info.", -- [1]
 			"Seralsales-Area52", -- [2]
@@ -1980,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSeralsales|r",
 			[51] = 1591847925,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [36]
 		{
 			"tyvm!", -- [1]
 			"Delenthir-Illidan", -- [2]
@@ -2002,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Delenthir-Illidan|r",
 			[51] = 1591847941,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [90]
+		}, -- [37]
 		{
 			"WTS||Gold Only|| M+10s - 15s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have Horrific Visions", -- [1]
 			"Skallcoin-Area52", -- [2]
@@ -2024,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkallcoin|r",
 			[51] = 1592019362,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [38]
 		{
 			"[SELLING]10-17 keys ||freehold boosting||0-5 mask visions||FREE ARMOR STACK  and more available||Timing Guaranteed!||(Groups are waiting for you!)|| || Message Me if Interested|| Ask about special sales :D Real Human Here, Not a Bot :D", -- [1]
 			"Vizzlecrump-Area52", -- [2]
@@ -2046,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Vizzlecrump|r",
 			[51] = 1592019362,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [39]
 		{
 			"[SELLING]10-17 keys ||freehold boosting||0-5 mask visions||FREE ARMOR STACK  and more available||Timing Guaranteed!||(Groups are waiting for you!)|| || Message Me if Interested|| Ask about special sales :D Real Human Here, Not a Bot :D", -- [1]
 			"Vizzlecrump-Area52", -- [2]
@@ -2068,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Vizzlecrump|r",
 			[51] = 1592019375,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [40]
 		{
 			"\"Huokan Boosting Community\" WTS M+ 10-18 keys. WEEKEND SALES NOW AVAILABLE!! WTS Heroic Nyalotha full clears with funneling options. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info/reserve ", -- [1]
 			"Hondamm-Area52", -- [2]
@@ -2090,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHondamm|r",
 			[51] = 1592019379,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [41]
 		{
 			"WTS M+ 10-18 keys. Specific keys and armor stacks are available! WTS Heroic Nyalotha full clears with funneling options. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info/reserve", -- [1]
 			"Porkgold-Area52", -- [2]
@@ -2112,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPorkgold|r",
 			[51] = 1592019401,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [42]
 		{
 			"<< WTS M+ 10-18 keys >> BUY ANY 2 KEYS get Armor stack FREE!  PST for more info! Also Selling Heroic Ny'alotha Full Clear/AOTC spots for tomorrow at 830pm EST! Horrific Visions Boosts are also available! GOLD ONLY", -- [1]
 			"Derelin-Area52", -- [2]
@@ -2134,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDerelin|r",
 			[51] = 1592019421,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [43]
 		{
 			"[SELLING] Heroic CARRY daily runs! Loot sharing and Nzoth kills. Get your AOTC and MOUNT tonight! Trusted by thousands. Smooth RAIDS and quick M+ CARRY. Reserve your run @ GTEAM.PRO                        ", -- [1]
 			"Ghamgarakha-Area52", -- [2]
@@ -2156,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ghamgarakha|r",
 			[51] = 1592019440,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [44]
 		{
 			"<< WTS M+ 10-18 keys >> BUY ANY 2 KEYS get Armor stack FREE!  PST for more info! Also Selling Heroic Ny'alotha Full Clear/AOTC spots for tomorrow at 830pm EST! Horrific Visions Boosts are also available! GOLD ONLY", -- [1]
 			"Derelin-Area52", -- [2]
@@ -2178,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDerelin|r",
 			[51] = 1592019454,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [45]
 		{
 			">>>>>RECRUITING BOOSTERS<<<<<< You can make 300k per day. PST me for details!! Must have 90 parses and up", -- [1]
 			"Banktellera-Area52", -- [2]
@@ -2200,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Banktellera|r",
 			[51] = 1592019458,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [46]
 		{
 			"WTS key 15+ 140k PST", -- [1]
 			"Akkarí-Area52", -- [2]
@@ -2222,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Akkarí|r",
 			[51] = 1592019459,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [47]
 		{
 			">>>>>RECRUITING BOOSTERS<<<<<< You can make 300k per day. PST me for details!! Must have 90 parses and up", -- [1]
 			"Banktellera-Area52", -- [2]
@@ -2244,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Banktellera|r",
 			[51] = 1592019460,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [48]
 		{
 			"WTS key 15+ 140k PST", -- [1]
 			"Akkarí-Area52", -- [2]
@@ -2266,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Akkarí|r",
 			[51] = 1592019487,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [49]
 		{
 			"[SELLING] Mythic+ 10-21+ runs with 465+ ILVL LOOT TRADE. Teams are ready to start NOW. Horrific Visions with 5 masks. Teams will give you all loots! Reserve your run @ GTEAM.PRO                        ", -- [1]
 			"Ghamgarakha-Area52", -- [2]
@@ -2288,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ghamgarakha|r",
 			[51] = 1592019494,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [50]
 		{
 			"WTS||Gold Only|| M+10s - 15s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have Horrific Visions", -- [1]
 			"Skallcoin-Area52", -- [2]
@@ -2310,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcSkallcoin|r",
 			[51] = 1592019498,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [51]
 		{
 			"WTS M+ 10-18 keys. Specific keys and armor stacks are available! WTS Heroic Nyalotha full clears with funneling options. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info/reserve", -- [1]
 			"Porkgold-Area52", -- [2]
@@ -2332,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPorkgold|r",
 			[51] = 1592019506,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [52]
 		{
 			"[SELLING]10-17 keys ||freehold boosting||0-5 mask visions||FREE ARMOR STACK  and more available||Timing Guaranteed!||(Groups are waiting for you!)|| || Message Me if Interested|| Ask about special sales :D Real Human Here, Not a Bot :D", -- [1]
 			"Vizzlecrump-Area52", -- [2]
@@ -2354,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Vizzlecrump|r",
 			[51] = 1592019513,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [53]
 		{
 			"\"Huokan Boosting Community\" WTS M+ 10-18 keys. WEEKEND SALES NOW AVAILABLE!! WTS Heroic Nyalotha full clears with funneling options. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info/reserve ", -- [1]
 			"Hondamm-Area52", -- [2]
@@ -2376,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcHondamm|r",
 			[51] = 1592019524,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [54]
 		{
 			"<The Gallywix Community>WTS M+10-20s, run by 3.2k+ io players. Cheap M10 & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee. Also selling PVP/Visions/FH/Mounts/ETC! GOLD ONLY", -- [1]
 			"Eucanwix-Area52", -- [2]
@@ -2398,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cEucanwix|r",
 			[51] = 1592019528,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [55]
 		{
 			"<< WTS M+ 10-18 keys >> BUY ANY 2 KEYS get Armor stack FREE!  PST for more info! Also Selling Heroic Ny'alotha Full Clear/AOTC spots for tomorrow at 830pm EST! Horrific Visions Boosts are also available! GOLD ONLY", -- [1]
 			"Derelin-Area52", -- [2]
@@ -2420,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDerelin|r",
 			[51] = 1592019533,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [56]
 		{
 			"Heroic |cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|rkills only  runs going on now! Come get AOTC  and your Uncorrupted Voidwing and a chance for 470 items and corruption. GOLD ONLY. PST for price and info. ", -- [1]
 			"Chaintotems-Area52", -- [2]
@@ -2442,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcChaintotems|r",
 			[51] = 1592019544,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [57]
 		{
 			"WTS M+ 10-18 keys. Specific keys and armor stacks are available! WTS Heroic Nyalotha full clears with funneling options. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info/reserve", -- [1]
 			"Porkgold-Area52", -- [2]
@@ -2464,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcPorkgold|r",
 			[51] = 1592019563,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [58]
 		{
 			"<< WTS M+ 10-18 keys >> BUY ANY 2 KEYS get Armor stack FREE!  PST for more info! Also Selling Heroic Ny'alotha Full Clear/AOTC spots for tomorrow at 830pm EST! Horrific Visions Boosts are also available! GOLD ONLY", -- [1]
 			"Derelin-Area52", -- [2]
@@ -2486,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecDerelin|r",
 			[51] = 1592019563,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [59]
 		{
 			"WTS key 15+ 140k PST", -- [1]
 			"Akkarí-Area52", -- [2]
@@ -2508,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Akkarí|r",
 			[51] = 1592019571,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [60]
 		{
 			"WTS key 15+ 140k PST", -- [1]
 			"Akkarí-Area52", -- [2]
@@ -2530,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Akkarí|r",
 			[51] = 1592019599,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [61]
 		{
 			"[SELLING]10-17 keys ||freehold boosting||0-5 mask visions||FREE ARMOR STACK  and more available||Timing Guaranteed!||(Groups are waiting for you!)|| || Message Me if Interested|| Ask about special sales :D Real Human Here, Not a Bot :D", -- [1]
 			"Vizzlecrump-Area52", -- [2]
@@ -2552,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Vizzlecrump|r",
 			[51] = 1592019599,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [62]
 		{
 			"[SELLING]10-17 keys ||freehold boosting||0-5 mask visions||FREE ARMOR STACK  and more available||Timing Guaranteed!||(Groups are waiting for you!)|| || Message Me if Interested|| Ask about special sales :D Real Human Here, Not a Bot :D", -- [1]
 			"Vizzlecrump-Area52", -- [2]
@@ -2574,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Vizzlecrump|r",
 			[51] = 1592019601,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [63]
 		{
 			"WTS key 15+ 140k PST", -- [1]
 			"Akkarí-Area52", -- [2]
@@ -2596,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Akkarí|r",
 			[51] = 1592019611,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [64]
 		{
 			"[SELLING]10-17 keys ||freehold boosting||0-5 mask visions||FREE ARMOR STACK  and more available||Timing Guaranteed!||(Groups are waiting for you!)|| || Message Me if Interested|| Ask about special sales :D Real Human Here, Not a Bot :D", -- [1]
 			"Vizzlecrump-Area52", -- [2]
@@ -2618,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Vizzlecrump|r",
 			[51] = 1592019630,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [65]
 		{
 			"[SELLING] Mythic+ 10-21+ runs with 465+ ILVL LOOT TRADE. Teams are ready to start NOW. Horrific Visions with 5 masks. Teams will give you all loots! Reserve your run @ GTEAM.PRO                        ", -- [1]
 			"Ghamgarakha-Area52", -- [2]
@@ -2640,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ghamgarakha|r",
 			[51] = 1592027087,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [66]
 		{
 			"WTS 4-5 Mask Carry. Discounts for multiple runs! Full vision run + Guaranteed 465-470ilvl corruption gear! COMPLETELY AFK CHEAP PST!", -- [1]
 			"Autistmelee-Area52", -- [2]
@@ -2662,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Autistmelee|r",
 			[51] = 1592028246,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [67]
 		{
 			".::Selling::.|cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|rHEROIC (AOTC) Kill Going NOW! > (105k Gold ) <", -- [1]
 			"Nexe-Area52", -- [2]
@@ -2684,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexe|r",
 			[51] = 1592028249,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [68]
 		{
 			"WTS M+10s - 24s, buy 2 runs get free armor stack / specific key options available. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also selling Horrific Visions and PvP", -- [1]
 			"Konowyxx-Area52", -- [2]
@@ -2706,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKonowyxx|r",
 			[51] = 1592028259,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [69]
 		{
 			"[SELLING] Mythic+ 10-21+ runs with 465+ ILVL LOOT TRADE. Teams are ready to start NOW. Horrific Visions with 5 masks. Teams will give you all loots! Reserve your run @ GTEAM.PRO                        ", -- [1]
 			"Ghamgarakha-Area52", -- [2]
@@ -2728,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Ghamgarakha|r",
 			[51] = 1592028263,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [70]
 		{
 			"WTS 4-5 Mask Carry. Discounts for multiple runs! Full vision run + Guaranteed 465-470ilvl corruption gear! COMPLETELY AFK CHEAP PST!", -- [1]
 			"Autistmelee-Area52", -- [2]
@@ -2750,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Autistmelee|r",
 			[51] = 1592029256,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [71]
 		{
 			"WTS Heroic Ny'alotha 12/12 PL,Guarantee FULL 460 Gear/Mythic+10-15 for 475weekly chest/Mechagon 8/8 HM for|cffa335ee|Hitem:168830::::::::1:102::::::|h[Aerial Unit R-21/X]|h|rVisions Cloak Rank.carry now PST", -- [1]
 			"Ezwazbezzlok-Area52", -- [2]
@@ -2772,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ezwazbezzlok|r",
 			[51] = 1592029261,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [72]
 		{
 			"WTS Freehold Powerlevel 110-120 cheap and easy /w me for more info", -- [1]
 			"Rasertsona-Area52", -- [2]
@@ -2794,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Rasertsona|r",
 			[51] = 1592029264,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [73]
 		{
 			"WTS Freehold Powerlevel 110-120 cheap and easy /w me for more info", -- [1]
 			"Rasertsona-Area52", -- [2]
@@ -2815,6 +1649,1172 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cffa9d271Rasertsona|r",
 			[51] = 1592029265,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"WTS M+10s - 24s, buy 2 runs get free armor stack / specific key options available. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also selling Horrific Visions and PvP", -- [1]
+			"Konowyxx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Konowyxx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			51, -- [11]
+			"Player-3676-0AE11D6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKonowyxx|r",
+			[51] = 1592102106,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"WTS M10-16 Carries<< Get your 465 Loot and 475 Weekly Chest! Specific keys and armor stacks available! Also selling vision runs (0-5 masks) for loot or objectives. Weekly Heroic and Mythic Ny'alotha also avaiable. Gold Only. PST for more info!", -- [1]
+			"Hukkmukk-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hukkmukk-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"Player-3676-0ADCC1B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cHukkmukk|r",
+			[51] = 1592102118,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			">>Huokan Boosting Community<< WTS M+ 10-18 keys. Specific keys and FREE ARMOR STACKING IF U BUY 2 OR MORE KEYS!!!. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info", -- [1]
+			"Hamadvertu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hamadvertu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			60, -- [11]
+			"Player-3676-0AE6F64E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcHamadvertu|r",
+			[51] = 1592102120,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"||WTS||Gold Only|| M+10s - 15s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have Horrific Visions.Pvp too.", -- [1]
+			"Skallcoin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skallcoin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-3676-0AE61EAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSkallcoin|r",
+			[51] = 1592102123,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"WTS > M+10-18s. Loot stacking and specific keys available. Buy 2 or more M+ get FREE loot stacking! Get your 460-475 weekly chest with ease! || Visions 0-5 mask also available! || Selling for cheap and 100% customer satisfaction || gold only :>", -- [1]
+			"Entwyx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Entwyx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-3676-0AE56788", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Entwyx|r",
+			[51] = 1592102124,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"<Weekend Deals> WTS Mythic+ 10-22 !!Run by players with 3.4k+ io. Buy two and get free loot stack!!Get all the loot! Also selling Nyaloth full clear with funnels || Visions 1-5 Masks|| Nzoth+ Carapace || Nzoth || Pvp!!! Gold Only!", -- [1]
+			"Bellastsale-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bellastsale-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-3676-0AE2691B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bellastsale|r",
+			[51] = 1592102137,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			">>Huokan Boosting Community<< WTS M+ 10-18 keys. Specific keys and FREE ARMOR STACKING IF U BUY 2 OR MORE KEYS!!!. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info", -- [1]
+			"Hamadvertu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hamadvertu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			83, -- [11]
+			"Player-3676-0AE6F64E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcHamadvertu|r",
+			[51] = 1592102152,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"WTS |cffa335ee|Hitem:175007::::::::120:577::6:7:4824:6578:6579:6554:6513:1517:4786:::|h[Footpads of Terrible Delusions]|h|r 475 R3 IS CHEAP PST!", -- [1]
+			"Sulliedsoul-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sulliedsoul-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			98, -- [11]
+			"Player-3676-0AA79AA5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Sulliedsoul|r",
+			[51] = 1592102173,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"Selling FULL HEROIC NYA clears with select loot funneling available! Send tell for details! Low price :) ", -- [1]
+			"Geriani-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Geriani-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			101, -- [11]
+			"Player-3676-0A4EE2D1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8686ecGeriani|r",
+			[51] = 1592102175,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"The Gallywix Community || WEEKEND DEALS WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! AOTC only TONIGHT! Also M +10 +15 (Buy 2 keys get armor stack for free), Jaina mount, TLPD, Void talon, KSM. GOLD ONLY", -- [1]
+			"Sashhagrey-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sashhagrey-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			113, -- [11]
+			"Player-3676-0A3CF265", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Sashhagrey|r",
+			[51] = 1592102189,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"<Exploit> 4/12M (1am-4am EST Tues/Thurs) is a new late night guild of veteran mythic raiders looking to fill our raid roster for Mythic T25 and move into Shadowlands.  LF Tank HEALS RDPS and any exceptional players.  PST", -- [1]
+			"Dropsucks-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dropsucks-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			119, -- [11]
+			"Player-3676-0AD8508A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Dropsucks|r",
+			[51] = 1592102197,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"WTS Freehold Carries 110-120 - 6k per lvl with looms and 8k w/o.  Quick 4 min runs by 470 DH.  200+ Carries already completed. ", -- [1]
+			"Pantieplay-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pantieplay-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-3676-09EA18C4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Pantieplay|r",
+			[51] = 1592102208,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"WTS M+10s - 24s, buy 2 runs get free armor stack / specific key options available. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also selling Horrific Visions and PvP", -- [1]
+			"Konowyxx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Konowyxx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			130, -- [11]
+			"Player-3676-0AE11D6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKonowyxx|r",
+			[51] = 1592102236,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			">>Huokan Boosting Community<< WTS M+ 10-18 keys. Specific keys and FREE ARMOR STACKING IF U BUY 2 OR MORE KEYS!!!. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info", -- [1]
+			"Hamadvertu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hamadvertu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			133, -- [11]
+			"Player-3676-0AE6F64E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcHamadvertu|r",
+			[51] = 1592102252,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"WTS> Heroic N'zoth KILL |cffffff00|Hachievement:14068:Player-3676-0ADE08FD:1:4:17:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r - A fresh group starting RIGHT NOW! Get ur 470 ilvl loot and a mount!", -- [1]
+			"Dekapre-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dekapre-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			134, -- [11]
+			"Player-3676-0ADEA984", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDekapre|r",
+			[51] = 1592102253,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"WTS > M+10-18s. Loot stacking and specific keys available. Buy 2 or more M+ get FREE loot stacking! Get your 460-475 weekly chest with ease! || Visions 0-5 mask also available! || Selling for cheap and 100% customer satisfaction || gold only :>", -- [1]
+			"Entwyx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Entwyx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			139, -- [11]
+			"Player-3676-0AE56788", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Entwyx|r",
+			[51] = 1592102262,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"<Weekend Deals> WTS Mythic+ 10-22 !!Run by players with 3.4k+ io. Buy two and get free loot stack!!Get all the loot! Also selling Nyaloth full clear with funnels || Visions 1-5 Masks|| Nzoth+ Carapace || Nzoth || Pvp!!! Gold Only!", -- [1]
+			"Bellastsale-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bellastsale-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			143, -- [11]
+			"Player-3676-0AE2691B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bellastsale|r",
+			[51] = 1592102281,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"||WTS||Gold Only|| M+10s - 15s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have Horrific Visions.Pvp too.", -- [1]
+			"Skallcoin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skallcoin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			146, -- [11]
+			"Player-3676-0AE61EAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSkallcoin|r",
+			[51] = 1592102283,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"WTS |cffa335ee|Hitem:152413::::::::1:71::6:5:3612:1808:1502:5865:3337:::|h[Felflame Inferno Shoulderpads]|h|r   Offer", -- [1]
+			"Adranx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Adranx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			189, -- [11]
+			"Player-3676-0ADC2BEF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Adranx|r",
+			[51] = 1592102331,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"WTS M+ Runs 10s (80k)-15s timed or refunded. All tradeable loot yours, secure your Weekly Chest with 475 corrupted piece + Titan Residuum - GOLD ONLY - wisp for info", -- [1]
+			"Dubrag-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dubrag-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			204, -- [11]
+			"Player-3676-0AE35852", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Dubrag|r",
+			[51] = 1592102348,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"[WТS] Horrific Visions Challenge Boost, Legendary cloak upgrade, Essences, Allied races, Reputations, Glories, Mounts & other 8.3 BOOSTS! We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
+			"Vawarezol-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vawarezol-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			262, -- [11]
+			"Player-3676-0AE6B986", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cVawarezol|r",
+			[51] = 1592102405,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-139261-3676-93568214|h[Guild: Crunchem Hall]|h|r Is an RBGS/Arena Focused guild Guild looking to Recruit All PVP Lvls atm if you're interested in running guild RBGS HMU for invite/details! Core RBGS group req ach's ", -- [1]
+			"Feároshima-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Feároshima-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			269, -- [11]
+			"Player-3676-0A76A0FC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8686ecFeároshima|r",
+			[51] = 1592102414,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:13512:Player-3676-0AD6358E:1:6:13:20:4294967295:4294967295:4294967295:4294967295|h[Master Calligrapher]|h|r!", -- [1]
+			"Wildem-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wildem-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			276, -- [11]
+			"Player-3676-0AD6358E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Wildem|r",
+			[51] = 1592102417,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"<Weekend Deals> WTS Mythic+ 10-22 !!Run by players with 3.4k+ io. Buy two and get free loot stack!!Get all the loot! Also selling Nyaloth full clear with funnels || Visions 1-5 Masks|| Nzoth+ Carapace || Nzoth || Pvp!!! Gold Only!", -- [1]
+			"Bellastsale-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bellastsale-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			283, -- [11]
+			"Player-3676-0AE2691B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bellastsale|r",
+			[51] = 1592102423,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"WTS M+ Runs 10s (80k)-15s timed or refunded. All tradeable loot yours, secure your Weekly Chest with 475 corrupted piece + Titan Residuum - GOLD ONLY - wisp for info", -- [1]
+			"Dubrag-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dubrag-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			285, -- [11]
+			"Player-3676-0AE35852", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Dubrag|r",
+			[51] = 1592102426,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
+		{
+			"WTS> Heroic N'zoth KILL |cffffff00|Hachievement:14068:Player-3676-0ADE08FD:1:4:17:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r - A fresh group starting RIGHT NOW! Get ur 470 ilvl loot and a mount!", -- [1]
+			"Dekapre-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dekapre-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			287, -- [11]
+			"Player-3676-0ADEA984", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDekapre|r",
+			[51] = 1592102428,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [100]
+		{
+			"WTS M10-16 Carries<< Get your 465 Loot and 475 Weekly Chest! Specific keys and armor stacks available! Also selling vision runs (0-5 masks) for loot or objectives. Weekly Heroic and Mythic Ny'alotha also avaiable. Gold Only. PST for more info!", -- [1]
+			"Hukkmukk-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hukkmukk-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			288, -- [11]
+			"Player-3676-0ADCC1B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cHukkmukk|r",
+			[51] = 1592102429,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [101]
+		{
+			"WTS M+10s - 24s, buy 2 runs get free armor stack / specific key options available. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also selling Horrific Visions and PvP", -- [1]
+			"Konowyxx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Konowyxx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			293, -- [11]
+			"Player-3676-0AE11D6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKonowyxx|r",
+			[51] = 1592102431,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"||WTS||Gold Only|| M+10s - 15s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have Horrific Visions.Pvp too.", -- [1]
+			"Skallcoin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skallcoin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			295, -- [11]
+			"Player-3676-0AE61EAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSkallcoin|r",
+			[51] = 1592102433,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [103]
+		{
+			"WTS> Heroic N'zoth KILL |cffffff00|Hachievement:14068:Player-3676-0ADE08FD:1:4:17:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r - A fresh group starting RIGHT NOW! Get ur 470 ilvl loot and a mount!", -- [1]
+			"Dekapre-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dekapre-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-3676-0ADEA984", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDekapre|r",
+			[51] = 1592102439,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			">>Huokan Boosting Community<< WTS M+ 10-18 keys. Specific keys and FREE ARMOR STACKING IF U BUY 2 OR MORE KEYS!!!. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info", -- [1]
+			"Hamadvertu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hamadvertu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			305, -- [11]
+			"Player-3676-0AE6F64E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcHamadvertu|r",
+			[51] = 1592102443,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"WTS M+ Runs 10s (80k)-15s timed or refunded. All tradeable loot yours, secure your Weekly Chest with 475 corrupted piece + Titan Residuum - GOLD ONLY - wisp for info", -- [1]
+			"Dubrag-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dubrag-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			323, -- [11]
+			"Player-3676-0AE35852", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Dubrag|r",
+			[51] = 1592102463,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"Selling M+ 15 carries. Gold Only. Get your residium, 465 loot and 475+ ilvl weekly chest piece. Any gear that is tradeable is yours. Cheap! Group ready to go !! :D", -- [1]
+			"Veghanagorai-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Veghanagorai-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			399, -- [11]
+			"Player-3676-0AD02878", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cVeghanagorai|r",
+			[51] = 1592102513,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"[WТS] Nyalotha Normal & Heroic Boosts: get ilvl 445-470+ corrupted gear, NEW MOUNT, Essences & Curve Achieve. Fast runs with TOP Guilds every day. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
+			"Vawarezol-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vawarezol-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			419, -- [11]
+			"Player-3676-0AE6B986", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cVawarezol|r",
+			[51] = 1592102521,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			"WTS M+ Runs 10s (80k)-15s timed or refunded. All tradeable loot yours, secure your Weekly Chest with 475 corrupted piece + Titan Residuum - GOLD ONLY - wisp for info", -- [1]
+			"Dubrag-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dubrag-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			450, -- [11]
+			"Player-3676-0AE35852", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Dubrag|r",
+			[51] = 1592102542,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			">>Huokan Boosting Community<< WTS M+ 10-18 keys. Specific keys and FREE ARMOR STACKING IF U BUY 2 OR MORE KEYS!!!. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info", -- [1]
+			"Hamadvertu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hamadvertu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			464, -- [11]
+			"Player-3676-0AE6F64E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcHamadvertu|r",
+			[51] = 1592102551,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"<WTS +10-22 Mythic+ Boost> - ARMOR STACK and SPECIFIC KEY AVALIABLE!! - Horrorific Vision Boost 0-5 Mask - Hertz Locker run - PST for more info - GOLD ONLY", -- [1]
+			"Happybee-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Happybee-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			467, -- [11]
+			"Player-3676-0A97FABB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cHappybee|r",
+			[51] = 1592102553,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-139261-3676-93568214|h[Guild: Crunchem Hall]|h|r Is an RBGS/Arena Focused guild Guild looking to Recruit All PVP Lvls atm if you're interested in running guild RBGS HMU for invite/details! Core RBGS group req ach's ", -- [1]
+			"Feároshima-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Feároshima-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			476, -- [11]
+			"Player-3676-0A76A0FC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8686ecFeároshima|r",
+			[51] = 1592102561,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"WTS M+10s - 24s, buy 2 runs get free armor stack / specific key options available. Also selling  >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY. We also selling Horrific Visions and PvP", -- [1]
+			"Konowyxx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Konowyxx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			477, -- [11]
+			"Player-3676-0AE11D6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKonowyxx|r",
+			[51] = 1592102562,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"WTS> Heroic N'zoth KILL |cffffff00|Hachievement:14068:Player-3676-0ADE08FD:1:4:17:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r - A fresh group starting RIGHT NOW! Get ur 470 ilvl loot and a mount!", -- [1]
+			"Dekapre-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dekapre-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			479, -- [11]
+			"Player-3676-0ADEA984", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDekapre|r",
+			[51] = 1592102563,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"WTS M+ Runs 10s (80k)-15s timed or refunded. All tradeable loot yours, secure your Weekly Chest with 475 corrupted piece + Titan Residuum - GOLD ONLY - wisp for info", -- [1]
+			"Dubrag-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dubrag-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			486, -- [11]
+			"Player-3676-0AE35852", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Dubrag|r",
+			[51] = 1592102569,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"<Weekend Deals> WTS Mythic+ 10-22 !!Run by players with 3.4k+ io. Buy two and get free loot stack!!Get all the loot! Also selling Nyaloth full clear with funnels || Visions 1-5 Masks|| Nzoth+ Carapace || Nzoth || Pvp!!! Gold Only!", -- [1]
+			"Bellastsale-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bellastsale-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			489, -- [11]
+			"Player-3676-0AE2691B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bellastsale|r",
+			[51] = 1592102571,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			">>Huokan Boosting Community<< WTS M+ 10-18 keys. Specific keys and FREE ARMOR STACKING IF U BUY 2 OR MORE KEYS!!!. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info", -- [1]
+			"Hamadvertu-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hamadvertu-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			501, -- [11]
+			"Player-3676-0AE6F64E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcHamadvertu|r",
+			[51] = 1592102583,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"||WTS||Gold Only|| M+10s - 15s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have Horrific Visions.Pvp too.", -- [1]
+			"Skallcoin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skallcoin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			502, -- [11]
+			"Player-3676-0AE61EAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSkallcoin|r",
+			[51] = 1592102584,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"<< WTS M+ 10-18 keys >> BUY ANY 2 KEYS get Armor stack FREE! SPECIFIC Keys are also available! PST for more info! Horrific Visions Boosts are also available! GOLD ONLY", -- [1]
+			"Derelin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Derelin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			514, -- [11]
+			"Player-3676-0AE3904F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8686ecDerelin|r",
+			[51] = 1592102597,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"WTS > M+10-18s. Loot stacking and specific keys available. Buy 2 or more M+ get FREE loot stacking! Get your 460-475 weekly chest with ease! || Visions 0-5 mask also available! || Selling for cheap and 100% customer satisfaction || gold only :>", -- [1]
+			"Entwyx-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Entwyx-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			525, -- [11]
+			"Player-3676-0AE56788", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Entwyx|r",
+			[51] = 1592102604,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"WTS M10-16 Carries<< Get your 465 Loot and 475 Weekly Chest! Specific keys and armor stacks available! Also selling vision runs (0-5 masks) for loot or objectives. Weekly Heroic and Mythic Ny'alotha also avaiable. Gold Only. PST for more info!", -- [1]
+			"Hukkmukk-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hukkmukk-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			527, -- [11]
+			"Player-3676-0ADCC1B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cHukkmukk|r",
+			[51] = 1592102606,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"WTS> Heroic N'zoth KILL |cffffff00|Hachievement:14068:Player-3676-0ADE08FD:1:4:17:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r - A fresh group starting RIGHT NOW! Get ur 470 ilvl loot and a mount!", -- [1]
+			"Dekapre-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dekapre-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			532, -- [11]
+			"Player-3676-0ADEA984", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDekapre|r",
+			[51] = 1592102609,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTS |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r 110-120 Cheap Leveling, Summons Ready PM me!", -- [1]
+			"Okbomma-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Okbomma-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			554, -- [11]
+			"Player-3676-0A8A30AD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Okbomma|r",
+			[51] = 1592102627,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"\"Huokan Boosting Community\" WTS M+ 10-18 keys. Specific keys and armor stacks are available! WTS Heroic Nyalotha full clears with funneling options. WTS Horrific Vision 0-5 masks guaranteed. ONLY FOR GOLD PST for info/reserve", -- [1]
+			"Nokkanokkaru-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nokkanokkaru-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			555, -- [11]
+			"Player-3676-0AE5A759", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Nokkanokkaru|r",
+			[51] = 1592102627,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"[WТS] WTS Mythic+ runs Tonight! +10/+11/+12/+13/+14/+15 key CARRY. You will get ilvl 430-475+ Gear, RIO score & Essences. Fast Mechagon Mount runs. We have over 8349 Trustpilot reviews. Visit WowVendor.net for more info!", -- [1]
+			"Vawarezol-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vawarezol-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			562, -- [11]
+			"Player-3676-0AE6B986", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cVawarezol|r",
+			[51] = 1592102632,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"||WTS||Gold Only|| M+10s - 15s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have Horrific Visions.Pvp too.", -- [1]
+			"Skallcoin-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skallcoin-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			571, -- [11]
+			"Player-3676-0AE61EAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcSkallcoin|r",
+			[51] = 1592102644,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"WTS |cff66bbff|Hjournal:0:1001:1|h[Freehold]|h|r 110-120 Cheap Leveling, Summons Ready PM me!", -- [1]
+			"Okbomma-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Okbomma-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			573, -- [11]
+			"Player-3676-0A8A30AD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Okbomma|r",
+			[51] = 1592102645,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

@@ -29,7 +29,7 @@ AdiBagsDB = {
 		},
 		["PriorExpansion"] = {
 		},
-		["BfA"] = {
+		["WoD"] = {
 		},
 		["MoneyFrame"] = {
 		},
@@ -87,7 +87,7 @@ AdiBagsDB = {
 		},
 		["Bound"] = {
 		},
-		["WoD"] = {
+		["BfA"] = {
 		},
 		["Hearthstones"] = {
 		},

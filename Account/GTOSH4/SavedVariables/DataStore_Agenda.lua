@@ -84,9 +84,9 @@ DataStore_AgendaDB = {
 			},
 			["Default.Area 52.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|379862634"] = "290342|1592029257|0|1",
+					["Battle of Dazar'alor Mythic|379862634"] = "217555|1592102043|0|1",
 				},
-				["lastUpdate"] = 1592029265,
+				["lastUpdate"] = 1592102649,
 			},
 			["Default.Frostwolf.Sumex"] = {
 				["lastUpdate"] = 1581544171,

@@ -39,6 +39,15 @@ DataStore_MailsDB = {
 						["icon"] = 967549,
 						["daysLeft"] = 30,
 					}, -- [1]
+					{
+						["sender"] = "Toshpal",
+						["itemID"] = 168663,
+						["link"] = "|cffffffff|Hitem:168663::::::::120:65::::::|h[Maroon Ink]|h|r",
+						["count"] = 150,
+						["lastCheck"] = 1592102097,
+						["icon"] = 3007458,
+						["daysLeft"] = 30,
+					}, -- [2]
 				},
 			},
 			["Default.Quel'dorei.Toshmoney"] = {
@@ -82,8 +91,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1591593524,
-				["lastVisitDate"] = "2020/06/08 01:18",
+				["lastUpdate"] = 1592102099,
+				["lastVisitDate"] = "2020/06/13 22:34",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1589764117,
