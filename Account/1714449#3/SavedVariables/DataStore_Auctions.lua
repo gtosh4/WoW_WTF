@@ -19,8 +19,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2020/01/02 21:26",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1591409207,
-				["lastVisitDate"] = "2020/06/05 22:06",
+				["lastUpdate"] = 1592280677,
+				["lastVisitDate"] = "2020/06/16 00:11",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587009575,

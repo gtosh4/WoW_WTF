@@ -82,7 +82,7 @@ Quartz3DB = {
 		["Toshaman - Dreadmaul"] = "Default",
 		["Toshweaver - Area 52"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
-		["Tosku - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Toshtrial - The Forgotten Coast"] = "Default",
@@ -90,7 +90,7 @@ Quartz3DB = {
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Default",
+		["Tosku - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
