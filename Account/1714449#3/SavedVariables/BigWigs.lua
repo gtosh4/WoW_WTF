@@ -22,10 +22,10 @@ BigWigs3DB = {
 		["BigWigs_Bosses_King Rastakhan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[288449] = 2015479,
 					[287333] = 1032439,
-					[285003] = 1032439,
+					[288449] = 2015479,
 					["stages"] = 1032439,
+					[285003] = 1032439,
 				},
 			},
 		},
@@ -385,8 +385,8 @@ BigWigs3DB = {
 						},
 						["BigWigs_Bosses_Queen Azshara"] = {
 							[301078] = "English: Overwatch: Zenyatta",
-							[300519] = "English: Overwatch: Roadhog",
 							[299094] = "English: Overwatch: Zarya",
+							[300519] = "English: Overwatch: Roadhog",
 							[300478] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
@@ -600,8 +600,8 @@ BigWigsStatsDB = {
 				["best"] = 608.823999999993,
 			},
 			["mythic"] = {
-				["kills"] = 43,
-				["wipes"] = 580,
+				["kills"] = 45,
+				["wipes"] = 581,
 				["best"] = 197.0999999999913,
 			},
 			["heroic"] = {

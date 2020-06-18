@@ -115,7 +115,7 @@ BD_persistent = {
 	},
 	["user"] = {
 		["profile"] = "default",
-		["name"] = "Toshaman",
+		["name"] = "Toshweaver",
 		["spec_profile"] = {
 			{
 			}, -- [1]
@@ -136,8 +136,6 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["interrupt"] = true,
 			["gmotd"] = {
 				["First 3 M EP  WED @ 7pm CST. Mythic EP FRI @ normal raid time. Only raiding FRI this week."] = true,
 				["MAIN RAID NORMAL RAID TIME. Bring a Vantus Rune."] = true,
@@ -205,8 +203,8 @@ BD_persistent = {
 				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
 				["H BoD W E D @ 7pm CST. MAIN RAID NORMAL RAID TIME SEE YOU THERE QTs"] = true,
-				["Mythic nzoth fri/sat 830pm cst "] = true,
 				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
+				["Mythic nzoth fri/sat 830pm cst "] = true,
 				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
 				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
@@ -226,6 +224,8 @@ BD_persistent = {
 				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
+			["interrupt"] = true,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 			["bottomViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -234,8 +234,8 @@ BD_persistent = {
 			},
 			["skingmotd"] = true,
 			["bottomViewport"] = 0,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
 			["topViewportBGColor"] = {
 				0.09, -- [1]
 				0.1, -- [2]
@@ -243,8 +243,8 @@ BD_persistent = {
 				1, -- [4]
 			},
 			["forcescale"] = false,
-			["skinwas"] = false,
-			["doubleclickbo"] = true,
+			["changefonts"] = false,
+			["font"] = "Friz Quadrata TT",
 			["topViewport"] = 0,
 		},
 	},

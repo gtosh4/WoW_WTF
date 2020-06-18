@@ -134,7 +134,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1592280610,
+				["lastUpdate"] = 1592448049,
 				["Spells"] = {
 					["Enhancement"] = {
 						514048, -- [1]
@@ -279,7 +279,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1592278832,
+				["lastUpdate"] = 1592446567,
 				["Spells"] = {
 					["Discipline"] = {
 						31113216, -- [1]
@@ -564,7 +564,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Area 52.Toshweaver"] = {
-				["lastUpdate"] = 1591837169,
+				["lastUpdate"] = 1592450139,
 				["Spells"] = {
 					["Mistweaver"] = {
 						25800704, -- [1]

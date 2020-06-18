@@ -23,7 +23,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1592280610,
+				["lastUpdate"] = 1592448049,
 				["Specializations"] = {
 					12126, -- [1]
 					[3] = 8087,
@@ -31,7 +31,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1592278834,
+				["lastUpdate"] = 1592446567,
 				["Specializations"] = {
 					13823, -- [1]
 					10670, -- [2]
@@ -47,7 +47,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Area 52.Toshweaver"] = {
-				["lastUpdate"] = 1591837169,
+				["lastUpdate"] = 1592450139,
 				["Specializations"] = {
 					[2] = 0,
 				},
@@ -179,7 +179,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 34601,
+			["Version"] = 34769,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
@@ -378,7 +378,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 34601,
+			["Version"] = 34769,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -462,7 +462,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 34601,
+			["Version"] = 34769,
 		},
 	},
 }

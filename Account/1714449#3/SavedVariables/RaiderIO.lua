@@ -1,11 +1,14 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshaman-area-52"
+RaiderIO_LastCharacter = "us-Toshweaver-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Artsong-kiljaeden"] = true,
-	["us-Yukiow-area-52"] = true,
-	["us-Fatbak-malganis"] = true,
-	["us-Triggeredlol-zuljin"] = true,
-	["us-Eyebitu-alterac-mountains"] = true,
+	["us-Toshweaver-area-52"] = true,
+	["us-Limecoke-illidan"] = true,
+	["us-Visigia-area-52"] = true,
+	["us-Zemojo-area-52"] = true,
+	["us-Strangefang-area-52"] = true,
+	["us-Oloe-zuljin"] = true,
+	["us-Humblfire-detheroc"] = true,
+	["us-Kdavir-area-52"] = true,
 }

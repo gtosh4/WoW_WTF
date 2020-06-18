@@ -2,9 +2,9 @@ Version: 1
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: LEFT
-X: 243
-Y: 31
-W: 260
+X: 3
+Y: -80
+W: 116
 H: 212
 Frame: ColorPickerFrame
 FrameLevel: 1

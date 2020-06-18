@@ -45,15 +45,15 @@ JambaSellProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Default"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Default"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

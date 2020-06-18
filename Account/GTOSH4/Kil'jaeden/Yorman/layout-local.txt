@@ -1,11 +1,4 @@
 Version: 1
-Frame: scanner_button
-FrameLevel: 1
-Anchor: BOTTOM
-X: 0
-Y: 128
-W: 200
-H: 50
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -83,6 +76,13 @@ X: 0
 Y: 0
 W: 635
 H: 200
+Frame: scanner_button
+FrameLevel: 1
+Anchor: BOTTOM
+X: 0
+Y: 128
+W: 200
+H: 50
 Frame: BDLC Roll Window
 FrameLevel: 10
 Anchor: CENTER

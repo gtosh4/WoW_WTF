@@ -13,10 +13,10 @@ VWQL = {
 			[54685] = true,
 			[52938] = true,
 			[54535] = true,
-			[54162] = true,
-			[50877] = true,
 			[54522] = true,
+			[54162] = true,
 			[50547] = true,
+			[50877] = true,
 			[54516] = true,
 			[51179] = true,
 		},
@@ -55,7 +55,7 @@ VWQL = {
 	["AnchorQCBLeft"] = 1838.12561035156,
 	["LFG_HideEyeInList"] = true,
 	["DisableRibbon"] = true,
-	["AzeriteFormat"] = 20,
+	["OppositeContinent"] = false,
 	["Toshweaver-Area52"] = {
 		["VERSION"] = 92,
 		["FilterType"] = {
@@ -65,7 +65,7 @@ VWQL = {
 		["Filter"] = 63,
 	},
 	["DisableArrow"] = false,
-	["OppositeContinent"] = false,
+	["AzeriteFormat"] = 20,
 	["Yorman-Kil'jaeden"] = {
 		["Filter"] = 63,
 		["FilterType"] = {
@@ -77,8 +77,8 @@ VWQL = {
 			[50875] = true,
 			[50846] = true,
 			[50547] = true,
-			[50871] = true,
 			[50571] = true,
+			[50871] = true,
 			[50850] = true,
 		},
 		["VERSION"] = 87,
@@ -86,25 +86,27 @@ VWQL = {
 	["RewardIcons_DisableBountyColors"] = false,
 	["SortPrio"] = {
 	},
-	["EnableRibbonGeneralMaps"] = false,
+	["Ignore"] = {
+	},
 	["ShellGameCenter"] = 137.5419921875,
 	["Toshpriest-Area52"] = {
 		["VERSION"] = 92,
 		["FilterType"] = {
 		},
 		["Quests"] = {
-			[51496] = true,
-			[51635] = true,
+			[54496] = true,
+			[58749] = true,
+			[58742] = true,
+			[54648] = true,
 			[54896] = true,
-			[52892] = true,
-			[50871] = true,
-			[51559] = true,
-			[58705] = true,
+			[54807] = true,
+			[54797] = true,
+			[54801] = true,
+			[55466] = true,
 		},
 		["Filter"] = 63,
 	},
-	["Ignore"] = {
-	},
+	["EnableRibbonGeneralMaps"] = false,
 	["Toshpal-Area52"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
