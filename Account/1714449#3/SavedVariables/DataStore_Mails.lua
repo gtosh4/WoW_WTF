@@ -43,8 +43,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/06/15 23:42",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1592026445,
-				["lastVisitDate"] = "2020/06/13 01:34",
+				["lastUpdate"] = 1592629111,
+				["lastVisitDate"] = "2020/06/20 00:58",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015595,

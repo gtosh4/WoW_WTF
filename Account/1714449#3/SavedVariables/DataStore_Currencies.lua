@@ -178,17 +178,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 28,
-						["count"] = 67472,
+						["count"] = 74699,
 					}, -- [2]
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 6127,
+						["count"] = 10049,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 7837,
+						["count"] = 2734,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -208,17 +208,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 2,
+						["count"] = 0,
 					}, -- [8]
 					{
 						["isHeader"] = false,
 						["index"] = 5,
-						["count"] = 2960,
+						["count"] = 3200,
 					}, -- [9]
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 10682,
+						["count"] = 10814,
 					}, -- [10]
 					{
 						["isHeader"] = true,
@@ -263,7 +263,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1592447241,
+				["lastUpdate"] = 1592630887,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -275,10 +275,10 @@ DataStore_CurrenciesDB = {
 					[1710] = "258-0-0-0",
 					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1560] = "10682-0-0-0",
+					[1560] = "10814-0-0-0",
 					[994] = "0-0-0-0",
 					[823] = "0-0-0-0",
-					[1580] = "2-0-0-5",
+					[1580] = "0-0-0-5",
 				},
 			},
 			["Default.Dreadmaul.Toshaman"] = {

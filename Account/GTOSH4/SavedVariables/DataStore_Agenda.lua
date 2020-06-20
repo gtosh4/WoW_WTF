@@ -80,10 +80,11 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1581544133,
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1592450125,
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|381281310"] = "474300|1592450099|0|1",
+					["Battle of Dazar'alor Mythic|381281310"] = "292813|1592631586|0|1",
+					["Ny'alotha, the Waking City Mythic|381612184"] = "292813|1592631586|0|1",
 				},
+				["lastUpdate"] = 1592631585,
 			},
 			["Default.Frostwolf.Daggny"] = {
 				["lastUpdate"] = 1581544004,

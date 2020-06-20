@@ -20,10 +20,10 @@ JambaToonProfileDB = {
 		["Toshpriest - Area 52"] = {
 		},
 		["Default"] = {
-			["autoAcceptResurrectRequest"] = false,
-			["autoDenyDuels"] = false,
 			["autoRepair"] = false,
+			["autoDenyDuels"] = false,
 			["acceptDeathRequests"] = false,
+			["autoAcceptResurrectRequest"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
 		},

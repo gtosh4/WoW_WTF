@@ -2022,12 +2022,12 @@ DataStore_ContainersDB = {
 						["links"] = {
 							[11] = "|cffffffff|Hitem:152744::::::::110:577::::::|h[]|h|r",
 							[17] = "|cffffffff|Hitem:131810::::::::110:577::::::|h[]|h|r",
-							[4] = "|cffffffff|Hitem:137091::::::::110:577:::2:1811:3630:::|h[]|h|r",
+							[19] = "|cff0070dd|Hitem:137642::::::::110:577::::::|h[Mark of Honor]|h|r",
 							[18] = "|cff1eff00|Hitem:131809::::::::110:577::::::|h[Gleaming Roc Feather]|h|r",
 							[5] = "|cffffffff|Hitem:138949::::::::110:577:::2:3459:3570:::|h[]|h|r",
-							[14] = "|cffff8000|Hitem:138854:5430:130247::::::110:577:::2:3459:3570:::|h[Fragment of the Betrayer's Prison]|h|r",
+							[4] = "|cffffffff|Hitem:137091::::::::110:577:::2:1811:3630:::|h[]|h|r",
 							[16] = "|cffffffff|Hitem:131926::::::::110:577::::::|h[]|h|r",
-							[19] = "|cff0070dd|Hitem:137642::::::::110:577::::::|h[Mark of Honor]|h|r",
+							[14] = "|cffff8000|Hitem:138854:5430:130247::::::110:577:::2:3459:3570:::|h[Fragment of the Betrayer's Prison]|h|r",
 						},
 						["counts"] = {
 							[19] = 2,
@@ -2036,12 +2036,12 @@ DataStore_ContainersDB = {
 						["ids"] = {
 							[11] = 152744,
 							[17] = 131810,
-							[4] = 137091,
+							[19] = 137642,
 							[18] = 131809,
 							[5] = 138949,
-							[14] = 138854,
+							[4] = 137091,
 							[16] = 131926,
-							[19] = 137642,
+							[14] = 138854,
 						},
 						["icon"] = 133664,
 						["size"] = 20,
@@ -2504,10 +2504,10 @@ DataStore_ContainersDB = {
 							[13] = "|cffffffff|Hitem:137022::::::::110:577:::2:3459:3630:::|h[]|h|r",
 							[15] = "|cffff8000|Hitem:152626::::::::110:577::11:2:1811:3630:::|h[Insignia of the Grand Army]|h|r",
 							[18] = "|cffffffff|Hitem:151798:5435:::::::110:577:::2:3459:3630:::|h[]|h|r",
-							[4] = "|cffff8000|Hitem:137090::::::::110:577:::2:3459:3630:::|h[Mo'arg Bionic Stabilizers]|h|r",
-							[14] = "|cffff8000|Hitem:137014::::::::110:577:::2:3459:3630:::|h[Achor, the Eternal Hunger]|h|r",
-							[17] = "|cffffffff|Hitem:127838::::::::110:577::::::|h[]|h|r",
 							[19] = "|cffffffff|Hitem:137066::::::::110:577:::2:3459:3630:::|h[]|h|r",
+							[4] = "|cffff8000|Hitem:137090::::::::110:577:::2:3459:3630:::|h[Mo'arg Bionic Stabilizers]|h|r",
+							[17] = "|cffffffff|Hitem:127838::::::::110:577::::::|h[]|h|r",
+							[14] = "|cffff8000|Hitem:137014::::::::110:577:::2:3459:3630:::|h[Achor, the Eternal Hunger]|h|r",
 						},
 						["freeslots"] = 16,
 						["ids"] = {
@@ -2515,10 +2515,10 @@ DataStore_ContainersDB = {
 							[13] = 137022,
 							[15] = 152626,
 							[18] = 151798,
-							[4] = 137090,
-							[14] = 137014,
-							[17] = 127838,
 							[19] = 137066,
+							[4] = 137090,
+							[17] = 127838,
+							[14] = 137014,
 						},
 						["icon"] = 1379173,
 						["size"] = 24,
@@ -3859,8 +3859,8 @@ DataStore_ContainersDB = {
 			["Default.Area 52.Toshpal"] = {
 				["numFreeBankSlots"] = 121,
 				["numBankSlots"] = 214,
-				["lastUpdate"] = 1592450130,
-				["numFreeBagSlots"] = 20,
+				["lastUpdate"] = 1592631585,
+				["numFreeBagSlots"] = 19,
 				["numBagSlots"] = 148,
 				["Containers"] = {
 					["Bag-3"] = {
@@ -4208,7 +4208,7 @@ DataStore_ContainersDB = {
 					["Bag0"] = {
 						["ids"] = {
 							156631, -- [1]
-							nil, -- [2]
+							177981, -- [2]
 							169451, -- [3]
 							159434, -- [4]
 							163784, -- [5]
@@ -4230,7 +4230,7 @@ DataStore_ContainersDB = {
 						},
 						["links"] = {
 							"|cffa335ee|Hitem:156631::::::::120:65::13::::|h[Silas' Sphere of Transmutation]|h|r", -- [1]
-							nil, -- [2]
+							"|cffffffff|Hitem:177981::::::::120:65::14::::|h[Preserved Contaminant: Ineffable Truth]|h|r", -- [2]
 							"|cffffffff|Hitem:169451::::::::120:65::::::|h[Abyssal Healing Potion]|h|r", -- [3]
 							"|cffa335ee|Hitem:159434::::::::120:65::35:9:6536:4802:6578:6579:6473:6470:6515:1647:4786:::|h[Cannoneer's Toolbelt]|h|r", -- [4]
 							"|cffffffff|Hitem:163784::::::::120:65::::::|h[Seafoam Coconut Water]|h|r", -- [5]
@@ -4250,16 +4250,15 @@ DataStore_ContainersDB = {
 							"|cff0070dd|Hitem:174765::::::::120:65::11::::|h[Tol'vir Relic]|h|r", -- [19]
 							"|cffa335ee|Hitem:174530:6109:::::::120:65::5:6:4823:41:6516:6515:1502:4786:::|h[Ring of Collective Consciousness]|h|r", -- [20]
 						},
-						["freeslots"] = 1,
 						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
 						["counts"] = {
 							[17] = 20,
-							[9] = 4,
 							[18] = 20,
-							[12] = 2,
 							[3] = 18,
+							[12] = 2,
+							[9] = 4,
 							[5] = 20,
-							[7] = 8,
+							[7] = 7,
 						},
 						["size"] = 20,
 					},
@@ -4365,7 +4364,7 @@ DataStore_ContainersDB = {
 							174176, -- [10]
 							168447, -- [11]
 							168313, -- [12]
-							nil, -- [13]
+							177981, -- [13]
 							168946, -- [14]
 							172664, -- [15]
 							159461, -- [16]
@@ -4373,13 +4372,13 @@ DataStore_ContainersDB = {
 							153647, -- [18]
 							168652, -- [19]
 							163604, -- [20]
-							5512, -- [21]
+							177981, -- [21]
 							159436, -- [22]
 							174760, -- [23]
 							174768, -- [24]
 							174767, -- [25]
 							174761, -- [26]
-							nil, -- [27]
+							5512, -- [27]
 							174044, -- [28]
 							171203, -- [29]
 							174103, -- [30]
@@ -4399,7 +4398,7 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:174176::::::::120:65::6:5:4824:6516:6513:1517:4786:::|h[Sabatons of Malevolent Intent]|h|r", -- [10]
 							"|cff0070dd|Hitem:168447::::::::120:65::::::|h[Enchant Ring - Accord of Haste]|h|r", -- [11]
 							"|cffffffff|Hitem:168313::::::::120:65::::::|h[Baked Port Tato]|h|r", -- [12]
-							nil, -- [13]
+							"|cffffffff|Hitem:177981::::::::120:65::14::::|h[Preserved Contaminant: Ineffable Truth]|h|r", -- [13]
 							"|cffffffff|Hitem:168946::::::::120:65::::::|h[Bundle of Recyclable Parts]|h|r", -- [14]
 							"|cffa335ee|Hitem:172664::::::::120:65::56:8:6371:6388:6578:6579:6540:6515:1572:4786:::|h[Corrupted Gladiator's Band]|h|r", -- [15]
 							"|cffa335ee|Hitem:159461::::::::120:65::35:8:6536:6578:6579:6474:6455:6513:1647:4786:::|h[Band of the Ancient Dredger]|h|r", -- [16]
@@ -4407,13 +4406,13 @@ DataStore_ContainersDB = {
 							"|cff1eff00|Hitem:153647::::::::120:65::::::|h[Tome of the Quiet Mind]|h|r", -- [18]
 							"|cffffffff|Hitem:168652::::::::120:65::::::|h[Greater Flask of Endless Fathoms]|h|r", -- [19]
 							"|cff1eff00|Hitem:163604::::::::120:65::11::::|h[Net-o-Matic 5000]|h|r", -- [20]
-							"|cffffffff|Hitem:5512::::::::120:65::6::::|h[Healthstone]|h|r", -- [21]
+							"|cffffffff|Hitem:177981::::::::120:65::14::::|h[Preserved Contaminant: Ineffable Truth]|h|r", -- [21]
 							"|cffa335ee|Hitem:159436::::::::120:65::35:8:6536:6578:6579:6439:6470:6515:1647:4786:::|h[Fluorescent Flora Stompers]|h|r", -- [22]
 							"|cff1eff00|Hitem:174760::::::::120:65::::::|h[Mantid Relic Fragment]|h|r", -- [23]
 							"|cff0070dd|Hitem:174768::::::::120:65::11::::|h[Cursed Relic]|h|r", -- [24]
 							"|cff0070dd|Hitem:174767::::::::120:65::11::::|h[Mogu Relic]|h|r", -- [25]
 							"|cff0070dd|Hitem:174761::::::::120:65::11::::|h[Aqir Relic]|h|r", -- [26]
-							nil, -- [27]
+							"|cffffffff|Hitem:5512::::::::120:65::6::::|h[Healthstone]|h|r", -- [27]
 							"|cffa335ee|Hitem:174044::::::::120:65::6:4:4824:6513:1517:4786:::|h[Humming Black Dragonscale]|h|r", -- [28]
 							"|cffffffff|Hitem:171203::::::::120:65::::::|h[Vantus Rune: Ny'alotha, the Waking City]|h|r", -- [29]
 							"|cffa335ee|Hitem:174103::::::::120:65::6:4:4824:6513:1517:4786:::|h[Manifesto of Madness]|h|r", -- [30]
@@ -4421,22 +4420,21 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:159631::::::::120:65::16:4:6536:6513:1637:4786:::|h[Lady Waycrest's Music Box]|h|r", -- [32]
 						},
 						["icon"] = 2023244,
-						["freeslots"] = 2,
+						["size"] = 32,
 						["link"] = "|cff0070dd|Hitem:154696::::::::120:65::::::|h[Embroidered Deep Sea Bag]|h|r",
 						["counts"] = {
 							[14] = 2,
-							[29] = 4,
+							[29] = 2,
 							[8] = 20,
 							[9] = 2,
-							[18] = 37,
+							[5] = 2,
 							[19] = 17,
 							[23] = 5,
 							[17] = 10,
 							[6] = 11,
 							[12] = 20,
-							[5] = 2,
+							[18] = 37,
 						},
-						["size"] = 32,
 					},
 					["Bag5"] = {
 						["rarity"] = 2,
@@ -4767,7 +4765,7 @@ DataStore_ContainersDB = {
 							65274, -- [20]
 							158366, -- [21]
 							174532, -- [22]
-							173363, -- [23]
+							nil, -- [23]
 							173363, -- [24]
 							171085, -- [25]
 							174103, -- [26]
@@ -4775,7 +4773,7 @@ DataStore_ContainersDB = {
 							159625, -- [28]
 							159620, -- [29]
 							173363, -- [30]
-							173937, -- [31]
+							nil, -- [31]
 							173363, -- [32]
 						},
 						["links"] = {
@@ -4801,7 +4799,7 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:65274::::::::120:65::14::::|h[Cloak of Coordination]|h|r", -- [20]
 							"|cffa335ee|Hitem:158366:6108:::::::120:65::35:8:6536:6578:6579:6439:6470:6515:1647:4786:::|h[Charged Sandstone Band]|h|r", -- [21]
 							"|cffa335ee|Hitem:174532::::::::120:65::5:7:4823:6578:6579:6566:6515:1502:4786:::|h[Ichorspine Loop]|h|r", -- [22]
-							"|cffa335ee|Hitem:173363::::::::120:65::::::|h[Vessel of Horrific Visions]|h|r", -- [23]
+							nil, -- [23]
 							"|cffa335ee|Hitem:173363::::::::120:65::::::|h[Vessel of Horrific Visions]|h|r", -- [24]
 							"|cffa335ee|Hitem:171085::168639::::::120:65::13::::|h[Peerless Alchemist Stone]|h|r", -- [25]
 							"|cffa335ee|Hitem:174103::::::::120:65::6:4:4824:6515:1517:4786:::|h[Manifesto of Madness]|h|r", -- [26]
@@ -4809,17 +4807,17 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:159625::::::::120:65::16:4:6536:6513:1637:4786:::|h[Vial of Animated Blood]|h|r", -- [28]
 							"|cffa335ee|Hitem:159620::168641::::::120:65::16:5:6536:4802:6515:1637:4786:::|h[Conch of Dark Whispers]|h|r", -- [29]
 							"|cffa335ee|Hitem:173363::::::::120:65::::::|h[Vessel of Horrific Visions]|h|r", -- [30]
-							"|cffffffff|Hitem:173937::::::::120:65::::::|h[Severed Oculus]|h|r", -- [31]
+							nil, -- [31]
 							"|cffa335ee|Hitem:173363::::::::120:65::::::|h[Vessel of Horrific Visions]|h|r", -- [32]
 						},
-						["freeslots"] = 1,
-						["link"] = "|cff0070dd|Hitem:154696::::::::120:65::::::|h[Embroidered Deep Sea Bag]|h|r",
 						["icon"] = 2023244,
+						["size"] = 32,
+						["link"] = "|cff0070dd|Hitem:154696::::::::120:65::::::|h[Embroidered Deep Sea Bag]|h|r",
 						["counts"] = {
 							2, -- [1]
 							[12] = 9,
 						},
-						["size"] = 32,
+						["freeslots"] = 3,
 					},
 					["Bag9"] = {
 						["rarity"] = 4,

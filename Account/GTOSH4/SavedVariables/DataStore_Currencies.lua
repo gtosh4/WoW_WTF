@@ -801,17 +801,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 42,
-						["count"] = 84345,
+						["count"] = 91572,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 43,
-						["count"] = 21864,
+						["count"] = 25597,
 					}, -- [4]
 					{
 						["isHeader"] = false,
 						["index"] = 44,
-						["count"] = 11010,
+						["count"] = 2312,
 					}, -- [5]
 					{
 						["isHeader"] = false,
@@ -831,7 +831,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 5,
+						["count"] = 4,
 					}, -- [9]
 					{
 						["isHeader"] = false,
@@ -841,7 +841,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 28886,
+						["count"] = 29218,
 					}, -- [11]
 					{
 						["isHeader"] = true,
@@ -931,7 +931,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1592450094,
+				["lastUpdate"] = 1592631584,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "683-0-0-0",
@@ -943,10 +943,10 @@ DataStore_CurrenciesDB = {
 					[1710] = "727-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "4841-0-0-0",
-					[1560] = "28886-0-0-0",
+					[1560] = "29218-0-0-0",
 					[994] = "0-0-0-0",
 					[1342] = "133-0-0-1000",
-					[1580] = "5-0-0-5",
+					[1580] = "4-0-0-5",
 				},
 			},
 		},

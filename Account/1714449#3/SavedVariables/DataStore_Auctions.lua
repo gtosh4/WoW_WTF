@@ -31,8 +31,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2020/05/13 22:51",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1592019947,
-				["lastVisitDate"] = "2020/06/12 23:45",
+				["lastUpdate"] = 1592620548,
+				["lastVisitDate"] = "2020/06/19 22:35",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589590928,
