@@ -8,9 +8,9 @@ DataStore_AgendaDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["Options"] = {
@@ -23,8 +23,8 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					["Toshpriest"] = {
 						["note"] = "",
-						["level"] = 60,
 						["class"] = "Priest",
+						["level"] = 60,
 					},
 				},
 				["lastUpdate"] = 1587015374,
@@ -36,8 +36,11 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1592709214,
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762304,
+			["Default.Area 52.Toshpriest"] = {
+				["DungeonIDs"] = {
+					["Ny'alotha, the Waking City Mythic|381612184"] = "40223|1592884175|0|1",
+				},
+				["lastUpdate"] = 1592884173,
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015585,
@@ -56,11 +59,8 @@ DataStore_AgendaDB = {
 				},
 				["lastUpdate"] = 1591847947,
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Mythic|381612184"] = "293509|1592630890|0|1",
-				},
-				["lastUpdate"] = 1592630887,
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762304,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762465,
