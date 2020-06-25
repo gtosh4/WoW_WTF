@@ -6,6 +6,13 @@ X: 1
 Y: -235
 W: 235
 H: 480
+Frame: scanner_button
+FrameLevel: 200
+Anchor: LEFT
+X: 91
+Y: 127
+W: 200
+H: 50
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -69,13 +76,6 @@ X: -525
 Y: 259
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: CENTER
-X: 708
-Y: 11
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -83,13 +83,6 @@ X: 0
 Y: 0
 W: 320
 H: 550
-Frame: scanner_button
-FrameLevel: 200
-Anchor: LEFT
-X: 91
-Y: 127
-W: 200
-H: 50
 Frame: ViragDevToolFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -97,10 +90,10 @@ X: 0
 Y: 0
 W: 635
 H: 200
-Frame: DetailsPlayerDetailsWindow
-FrameLevel: 1
+Frame: BDLC Roll Window
+FrameLevel: 10
 Anchor: CENTER
-X: 0
-Y: 0
-W: 890
-H: 574
+X: 708
+Y: 11
+W: 520
+H: 1

@@ -8,9 +8,9 @@ DataStore_TalentsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -23,44 +23,12 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1592709216,
+				["lastUpdate"] = 1593054014,
 				["Specializations"] = {
 					12126, -- [1]
 					[3] = 8087,
 				},
 				["Class"] = "SHAMAN",
-			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1592884178,
-				["Specializations"] = {
-					13823, -- [1]
-					10670, -- [2]
-					10167, -- [3]
-				},
-				["Class"] = "PRIEST",
-			},
-			["Default.Dreadmaul.Toshaman"] = {
-				["lastUpdate"] = 1587015426,
-				["Specializations"] = {
-					0, -- [1]
-				},
-				["Class"] = "SHAMAN",
-			},
-			["Default.Area 52.Toshweaver"] = {
-				["lastUpdate"] = 1592450139,
-				["Specializations"] = {
-					[2] = 0,
-				},
-				["Class"] = "MONK",
-			},
-			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1591847947,
-				["Specializations"] = {
-					6623, -- [1]
-					5849, -- [2]
-					12011, -- [3]
-				},
-				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1589762302,
@@ -70,6 +38,38 @@ DataStore_TalentsDB = {
 					8087, -- [3]
 				},
 				["Class"] = "SHAMAN",
+			},
+			["Default.Dreadmaul.Toshaman"] = {
+				["lastUpdate"] = 1587015426,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["Class"] = "SHAMAN",
+			},
+			["Default.Area 52.Toshweaver"] = {
+				["lastUpdate"] = 1593052113,
+				["Specializations"] = {
+					[2] = 0,
+				},
+				["Class"] = "MONK",
+			},
+			["Default.Kil'jaeden.Toshmonk"] = {
+				["lastUpdate"] = 1593053945,
+				["Specializations"] = {
+					6623, -- [1]
+					5849, -- [2]
+					12011, -- [3]
+				},
+				["Class"] = "MONK",
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1593052832,
+				["Specializations"] = {
+					13823, -- [1]
+					10670, -- [2]
+					10167, -- [3]
+				},
+				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762463,
@@ -92,9 +92,9 @@ DataStore_TalentsRefDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["SHAMAN"] = {

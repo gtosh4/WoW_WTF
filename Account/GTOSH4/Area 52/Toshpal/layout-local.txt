@@ -48,6 +48,13 @@ X: -161
 Y: 201
 W: 80
 H: 80
+Frame: AltoholicFrame
+FrameLevel: 1
+Anchor: TOP
+X: -452
+Y: -106
+W: 832
+H: 447
 Frame: AstralKeyFrame
 FrameLevel: 1
 Anchor: TOP
@@ -104,13 +111,6 @@ X: -223
 Y: 27
 W: 701
 H: 859
-Frame: AltoholicFrame
-FrameLevel: 1
-Anchor: TOP
-X: -452
-Y: -106
-W: 832
-H: 447
 Frame: Quartz3CastBarPlayer
 FrameLevel: 1
 Anchor: CENTER
