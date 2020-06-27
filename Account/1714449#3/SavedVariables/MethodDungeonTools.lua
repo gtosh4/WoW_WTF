@@ -1,28 +1,16 @@
 
 MethodDungeonToolsDB = {
-	["profileKeys"] = {
-		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
-		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-	},
+	["dbMigrated"] = true,
 	["global"] = {
-		["minimap"] = {
-			["minimapPos"] = 189.920019946479,
-		},
+		["maximized"] = false,
 		["currentPreset"] = {
 			[18] = 3,
 		},
 		["MDI"] = {
 			["enabled"] = false,
 		},
-		["maximized"] = false,
+		["version"] = 298,
+		["currentDungeonIdx"] = 18,
 		["nonFullscreenScale"] = 1,
 		["presets"] = {
 			[15] = {
@@ -846,7 +834,20 @@ MethodDungeonToolsDB = {
 				}, -- [4]
 			},
 		},
-		["version"] = 298,
-		["currentDungeonIdx"] = 18,
+		["minimap"] = {
+			["minimapPos"] = 189.920019946479,
+		},
+	},
+	["profileKeys"] = {
+		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 }

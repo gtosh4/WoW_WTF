@@ -31,9 +31,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Area 52.Toshaman"] = {
 				["DungeonIDs"] = {
-					["Battle of Dazar'alor Mythic|393465687"] = "475169|1593054030|0|1",
+					["Ny'alotha, the Waking City Mythic|382796407"] = "306351|1593222848|0|1",
+					["Battle of Dazar'alor Mythic|393465687"] = "306351|1593222848|0|1",
 				},
-				["lastUpdate"] = 1593054027,
+				["lastUpdate"] = 1593222846,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1589762304,
@@ -60,10 +61,11 @@ DataStore_AgendaDB = {
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["DungeonIDs"] = {
-					["The Eternal Palace Mythic|382464914"] = "476365|1593052834|0|1",
-					["Battle of Dazar'alor Mythic|393467968"] = "476365|1593052834|0|1",
+					["Battle of Dazar'alor Mythic|393467968"] = "293503|1593235695|0|1",
+					["Ny'alotha, the Waking City Mythic|382796407"] = "293503|1593235695|0|1",
+					["The Eternal Palace Mythic|382464914"] = "293503|1593235695|0|1",
 				},
-				["lastUpdate"] = 1593052832,
+				["lastUpdate"] = 1593235661,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762465,

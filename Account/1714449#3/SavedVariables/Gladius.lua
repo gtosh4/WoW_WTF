@@ -41,11 +41,11 @@ Gladius2DB = {
 		["Toshpriest - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1407.199870326207,
-			},
 			["y"] = {
 				["arena1"] = 363.6467155992723,
+			},
+			["x"] = {
+				["arena1"] = 1407.199870326207,
 			},
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -320,8 +320,8 @@ Gladius2DB = {
 			["powerBarHeight"] = 14,
 			["timerOmniCC"] = true,
 			["trinketFaction"] = false,
-			["classIconShowSpec"] = true,
 			["healthBarTexture"] = "ElvUI Blank",
+			["classIconShowSpec"] = true,
 			["y"] = {
 				["arena1"] = 440.1067810519162,
 			},
@@ -338,11 +338,11 @@ Gladius2DB = {
 		["Toshaman - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 366.8467068816099,
-			},
 			["x"] = {
 				["arena1"] = 1435.46688051906,
+			},
+			["y"] = {
+				["arena1"] = 366.8467068816099,
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {
