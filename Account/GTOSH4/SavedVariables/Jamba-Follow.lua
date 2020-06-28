@@ -47,15 +47,15 @@ JambaFollowProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Default"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

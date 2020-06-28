@@ -2,9 +2,9 @@
 JambaQuestWatcherProfileDB = {
 	["profileKeys"] = {
 		["Toshweaver - Area 52"] = "Toshweaver - Area 52",
-		["Toshaman - Area 52"] = "Default",
-		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
 		["Tosh - Kil'jaeden"] = "Default",
+		["Toshaman - Dreadmaul"] = "Toshaman - Dreadmaul",
+		["Toshaman - Area 52"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshpriest - Area 52"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
@@ -24,8 +24,8 @@ JambaQuestWatcherProfileDB = {
 			["enableQuestWatcher"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
-			["enableQuestWatcher"] = false,
 			["watcherFrameYOffset"] = 149.9999847412109,
+			["enableQuestWatcher"] = false,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 		},

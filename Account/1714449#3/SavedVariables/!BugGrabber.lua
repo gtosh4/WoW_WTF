@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1882,
 	["lastSanitation"] = 3,
+	["session"] = 1883,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: 30:SetEndPoint(): not allowed to depend on NamePlate29",
@@ -161,21 +161,13 @@ BugGrabberDB = {
 			["counter"] = 10,
 		}, -- [20]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
-			["time"] = "2020/05/29 19:37:20",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:487: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
-			["session"] = 1869,
-			["counter"] = 3,
-		}, -- [21]
-		{
 			["message"] = "[string \"SetCVar(“rawMouseEnable”, 1);\"]:1: unexpected symbol near '�'",
 			["time"] = "2020/06/24 20:41:43",
 			["locals"] = "(*temporary) = \"SetCVar(“rawMouseEnable”, 1);\"\n",
 			["stack"] = "[string \"=[C]\"]: in function `RunScript'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:2177: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function <Interface\\FrameXML\\ChatFrame.lua:4555>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
 			["session"] = 1870,
 			["counter"] = 1,
-		}, -- [22]
+		}, -- [21]
 		{
 			["message"] = "[string \"SetCVar(“rawMouseEnable”, 1)\"]:1: unexpected symbol near '�'",
 			["time"] = "2020/06/24 20:41:54",
@@ -183,7 +175,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `RunScript'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:2177: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function <Interface\\FrameXML\\ChatFrame.lua:4555>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
 			["session"] = 1870,
 			["counter"] = 1,
-		}, -- [23]
+		}, -- [22]
 		{
 			["message"] = "[string \"--[==[ Error in 'QA Intermission Teller':'c...\"]:47: attempt to concatenate local 'mark' (a nil value)",
 			["time"] = "2020/06/24 21:34:26",
@@ -191,7 +183,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6266: in function `RunCustomTextFunc'\n[string \"@Interface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua\"]:183: in function `Update'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6042: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:6041>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6127: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:6094>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6211: in function `UpdatedTriggerState'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:726: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:682: in function `ScanEvents'\n[string \"--[==[ Error in 'QA Intermission Teller' ]==] return function(event, ...)\n    \n    local arg1, arg2, arg3 = ...\n    if (event == \"ENCOUNTER_START\") then\n        aura_env.assignments = {}\n        aura_env.raid = {}\n    end\n    \n    if (event == \"COMBAT_LOG_EVENT_UNFILTERED\") then\n        local subevent = select(2, ...)\n        local spellId = select(12, ...)\n        local destName = select(9, ...)\n        \n        if (subevent == \"SPELL_AURA_APPLIED\" and aura_env.decrees[spellId]) then\n            local decree = aura_env.decrees[spellId]\n            \n            aura_env.raid[destName] = aura_env.raid[destName] or {}\n            aura_env.raid[destName][decree] = true\n            if(not aura_env.fired) then\n                aura_env.fired = true    \n                C_Timer.After(.5, function() WeakAuras.ScanEvents(\"DECREE_TRIGGER_TELLER\")end)\n            end\n        end\n        \n    end\n    \n    if (event == \"DECREE_TRIGGER_TELLER\") then\n        return true\n    end\n    \nend\n\n\n\"]:21: in function <[string \"--[==[ Error in 'QA Intermission Teller' ]=...\"]:21>",
 			["session"] = 1870,
 			["counter"] = 1,
-		}, -- [24]
+		}, -- [23]
 		{
 			["message"] = "[string \"--[==[ Error in 'QA Intermission Teller':'c...\"]:66: attempt to index local 'unitDecrees' (a nil value)",
 			["time"] = "2020/06/24 21:36:11",
@@ -199,7 +191,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6266: in function `RunCustomTextFunc'\n[string \"@Interface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua\"]:183: in function `Update'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6042: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:6041>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6127: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:6094>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.7.lua\"]:6211: in function `UpdatedTriggerState'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:726: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:682: in function `ScanEvents'\n[string \"--[==[ Error in 'QA Intermission Teller' ]==] return function(event, ...)\n    \n    local arg1, arg2, arg3 = ...\n    if (event == \"ENCOUNTER_START\") then\n        aura_env.assignments = {}\n        aura_env.raid = {}\n    end\n    \n    if (event == \"COMBAT_LOG_EVENT_UNFILTERED\") then\n        local subevent = select(2, ...)\n        local spellId = select(12, ...)\n        local destName = select(9, ...)\n        \n        if (subevent == \"SPELL_AURA_APPLIED\" and aura_env.decrees[spellId]) then\n            local decree = aura_env.decrees[spellId]\n            \n            aura_env.raid[destName] = aura_env.raid[destName] or {}\n            aura_env.raid[destName][decree] = true\n            if(not aura_env.fired) then\n                aura_env.fired = true    \n                C_Timer.After(.5, function() WeakAuras.ScanEvents(\"DECREE_TRIGGER_TELLER\")end)\n            end\n        end\n        \n    end\n    \n    if (event == \"DECREE_TRIGGER_TELLER\") then\n        return true\n    end\n    \nend\n\n\n\"]:21: in function <[string \"--[==[ Error in 'QA Intermission Teller' ]=...\"]:21>",
 			["session"] = 1870,
 			["counter"] = 2,
-		}, -- [25]
+		}, -- [24]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: Frozen Solid:SetEndPoint(): not allowed to depend on NamePlate1",
 			["time"] = "2020/06/24 22:07:16",
@@ -207,7 +199,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:589: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:721: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:682: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:826: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:811>",
 			["session"] = 1871,
 			["counter"] = 1,
-		}, -- [26]
+		}, -- [25]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: <unnamed>:SetEndPoint(): not allowed to depend on NamePlate3",
 			["time"] = "2020/06/17 22:37:15",
@@ -215,7 +207,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:589: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:721: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:682: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:826: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:811>",
 			["session"] = 1871,
 			["counter"] = 2,
-		}, -- [27]
+		}, -- [26]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate3",
 			["time"] = "2020/06/24 22:07:33",
@@ -223,7 +215,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:589: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:721: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:682: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:826: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:811>",
 			["session"] = 1871,
 			["counter"] = 1,
-		}, -- [28]
+		}, -- [27]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: <unnamed>:SetEndPoint(): not allowed to depend on NamePlate2",
 			["time"] = "2020/06/17 22:37:00",
@@ -231,7 +223,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:589: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:721: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:682: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:826: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:811>",
 			["session"] = 1873,
 			["counter"] = 3,
-		}, -- [29]
+		}, -- [28]
 		{
 			["message"] = "...terface\\AddOns\\Details_Streamer\\Details_Streamer.lua:2040: table index is nil",
 			["time"] = "2020/06/24 22:41:24",
@@ -239,7 +231,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua\"]:2040: in function <...terface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1889>\n[string \"=(tail call)\"]: ?",
 			["session"] = 1874,
 			["counter"] = 1,
-		}, -- [30]
+		}, -- [29]
 		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
 			["time"] = "2020/05/29 22:20:04",
@@ -247,7 +239,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
 			["session"] = 1875,
 			["counter"] = 797,
-		}, -- [31]
+		}, -- [30]
 		{
 			["message"] = "Interface\\AddOns\\AdiBags\\widgets\\Section.lua:64: table index is nil",
 			["time"] = "2020/06/26 20:55:00",
@@ -255,47 +247,33 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AdiBags\\widgets\\Section.lua\"]:64: in function `SetCategoryOrder'\n[string \"@Interface\\AddOns\\AdiBags_PriorExpansions\\AdiBags_PriorExpansions-1.05.lua\"]:25: in main chunk",
 			["session"] = 1881,
 			["counter"] = 5,
-		}, -- [32]
+		}, -- [31]
 		{
 			["message"] = "Error loading Interface\\AddOns\\AdiBags_PriorExpansions\\PriorExpansionData.lua",
-			["session"] = 1881,
 			["time"] = "2020/06/26 20:56:02",
+			["session"] = 1881,
 			["counter"] = 10,
-		}, -- [33]
+		}, -- [32]
 		{
 			["message"] = "Couldn't open Interface\\AddOns\\CorruptionTooltips\\Libs\\AceTimer-3.0-17\\AceTimer-3.0.xml",
-			["session"] = 1881,
 			["time"] = "2020/06/26 20:56:02",
+			["session"] = 1881,
 			["counter"] = 15,
-		}, -- [34]
-		{
-			["message"] = "Interface\\AddOns\\AdiBags\\modules\\Junk.lua:246: attempt to call method 'HookScript' (a nil value)",
-			["time"] = "2020/06/15 22:16:46",
-			["locals"] = "addonName = \"AdiBags\"\naddon = <table> {\n AcquireItemButton = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\ItemButton.lua:155\n modules = <table> {\n }\n UpdateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:83\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n GetInteractingWindow = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:451\n ConfigChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:371\n GetSlotId = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:57\n Filter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:144\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n Reconfigure = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:183\n SetupTooltip = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:114\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n hooks = <table> {\n }\n GetDistinctItemID = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:188\n CreateFont = <function> defined @Interface\\AddOns\\AdiBags\\core\\Fonts.lua:122\n filterProto = <table> {\n }\n OpenOptions = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:289\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n IterateBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:183\n OnEnable = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:115\n HookBagFrameCreation = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:306\n NewBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:150\n GetClass = <function> defined @Interface\\AddOns\\AdiBags\\core\\OO.lua:129\n RegisterFilter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:120\n BACKDROP = <table> {\n }\n OnInitialize = <function> defined =[C]:-1\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n InitializeFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:64\n IterateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:116\n ReagentBankUpdated = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:362\n CreateBagSlotPanel = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\BagSlots.lua:437\n TOP_PADDING = 32\n hookedBags = <table> {\n }\n OpenBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:137\n ToggleAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:86\n OnProfileChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:191\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n name = \"AdiBags\"\n OpenBackpack = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:168\n LayoutBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Layout.lua:101\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n SetGlobalLock = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:419\n Unhook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:418\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n OpenAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:109\n L = <table> {\n }\n safecall = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:81\n Debug = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:61\n CreateAnchorWidget = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\AnchorWidget.lua:37\n ITEM_SIZE = 37\n DEFAULT_SETTINGS = <table> {\n }\n CreateBagAnchorWidget = <function> defined @Interf",
-			["stack"] = "[string \"@Interface\\AddOns\\AdiBags\\modules\\Junk.lua\"]:246: in main chunk",
-			["session"] = 1882,
-			["counter"] = 27,
-		}, -- [35]
-		{
-			["message"] = "(null)",
-			["time"] = "2020/06/15 22:17:41",
-			["session"] = 1882,
-			["counter"] = 88,
-		}, -- [36]
+		}, -- [33]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroup1:Show()'.",
 			["time"] = "2020/05/29 22:15:34",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:243: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
 			["session"] = 1882,
 			["counter"] = 18,
-		}, -- [37]
+		}, -- [34]
 		{
 			["message"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:42: attempt to index local 's' (a nil value)",
 			["time"] = "2020/06/06 00:00:59",
 			["stack"] = "[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:539: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:532>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:788: in function `ScanWithFakeEvent'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:1082: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2326: in function `LoadDisplays'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2160: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2044>\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2194: in function `ScanForLoads'\n[string \"@Interface\\AddOns\\WeakAuras\\WeakAuras-2.17.5.lua\"]:2242: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2240>",
 			["session"] = 1882,
 			["counter"] = 4,
-		}, -- [38]
+		}, -- [35]
 		{
 			["message"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:43: attempt to index global 'aura_env' (a nil value)",
 			["time"] = "2020/06/06 00:01:09",
@@ -303,6 +281,28 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in '06 Umbral Eruption Move' ]==] return function(allstates, event, ...) --ENCOUNTER_START,ENCOUNTER_END,UMBRAL_EXPLOSION\n    local s\n    if event == 'ENCOUNTER_START' and ... then\n        aura_env.count = 0\n        aura_env.start_time = GetTime()\n        WeakAuras.ScanEvents('UMBRAL_EXPLOSION', aura_env.start_time)\n        return\n        \n    elseif event == 'ENCOUNTER_END' and ... then\n        aura_env.start_time = nil\n        s = {\n            show = false,\n            changed = true,\n        }\n        \n    elseif event == 'UMBRAL_EXPLOSION' and ... then\n        aura_env.count = aura_env.count + 1\n        if aura_env.count > 14 then \n            s = {\n                show = false,\n                changed = true,\n            }\n        else\n            local next_eruption = aura_env.timings[aura_env.count]\n            local fight_time = GetTime() - aura_env.start_time\n            local duration = next_eruption - fight_time\n            \n            s = {\n                show = true,\n                changed = true,\n                autoHide = true,\n                \n                progressType = \"timed\",\n                duration = duration,\n                expirationTime = aura_env.start_time + next_eruption,\n                stacks = aura_env.count,\n            }\n        end\n    end\n    if s then allstates[1] = s end\n    \n    if s.show and s.duration then\n        C_Timer.After(s.duration, function() WeakAuras.ScanEvents('UMBRAL_EXPLOSION', aura_env.start_time) end)\n    end\n    \n    return true\nend\n\n\n\"]:43: in function <[string \"--[==[ Error in '06 Umbral Eruption Move' ]...\"]:43>",
 			["session"] = 1882,
 			["counter"] = 2,
+		}, -- [36]
+		{
+			["message"] = "Interface\\AddOns\\AdiBags\\modules\\Junk.lua:246: attempt to call method 'HookScript' (a nil value)",
+			["time"] = "2020/06/15 22:16:46",
+			["locals"] = "addonName = \"AdiBags\"\naddon = <table> {\n AcquireItemButton = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\ItemButton.lua:155\n modules = <table> {\n }\n UpdateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:83\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n GetInteractingWindow = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:451\n ConfigChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:371\n GetSlotId = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:57\n Filter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:144\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n Reconfigure = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:183\n SetupTooltip = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:114\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n hooks = <table> {\n }\n GetDistinctItemID = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:188\n CreateFont = <function> defined @Interface\\AddOns\\AdiBags\\core\\Fonts.lua:122\n filterProto = <table> {\n }\n OpenOptions = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:289\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n IterateBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:183\n OnEnable = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:115\n HookBagFrameCreation = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:306\n NewBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:150\n GetClass = <function> defined @Interface\\AddOns\\AdiBags\\core\\OO.lua:129\n RegisterFilter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:120\n BACKDROP = <table> {\n }\n OnInitialize = <function> defined =[C]:-1\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n InitializeFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:64\n IterateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:116\n ReagentBankUpdated = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:362\n CreateBagSlotPanel = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\BagSlots.lua:437\n TOP_PADDING = 32\n hookedBags = <table> {\n }\n OpenBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:137\n ToggleAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:86\n OnProfileChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:191\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n name = \"AdiBags\"\n OpenBackpack = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:168\n LayoutBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Layout.lua:101\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n SetGlobalLock = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:419\n Unhook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:418\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n OpenAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:109\n L = <table> {\n }\n safecall = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:81\n Debug = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:61\n CreateAnchorWidget = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\AnchorWidget.lua:37\n ITEM_SIZE = 37\n DEFAULT_SETTINGS = <table> {\n }\n CreateBagAnchorWidget = <function> defined @Interf",
+			["stack"] = "[string \"@Interface\\AddOns\\AdiBags\\modules\\Junk.lua\"]:246: in main chunk",
+			["session"] = 1883,
+			["counter"] = 28,
+		}, -- [37]
+		{
+			["message"] = "(null)",
+			["session"] = 1883,
+			["time"] = "2020/06/15 22:17:41",
+			["counter"] = 91,
+		}, -- [38]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
+			["time"] = "2020/05/29 19:37:20",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:487: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
+			["session"] = 1883,
+			["counter"] = 4,
 		}, -- [39]
 	},
 }

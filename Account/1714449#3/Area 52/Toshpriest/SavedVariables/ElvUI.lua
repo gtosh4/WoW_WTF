@@ -1,382 +1,382 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/script SetCVar(“rawMouseEnable”, 1)", -- [1]
-		"/o who, luna?", -- [2]
-		"/o doesn't he always", -- [3]
-		"/grid2", -- [4]
-		"/o I almost said \"no it's cada\" yikes", -- [5]
-		"inv", -- [6]
-		"/cw Illsong can you trade slappers", -- [7]
-		"/cw Nv-Area52 yea", -- [8]
-		"/cw Nv-Area52 he can trade", -- [9]
-		"/raid 1", -- [10]
-		"/wa", -- [11]
-		"/raid regular coke is too sweet, coke zero's actually better", -- [12]
-		"/dn", -- [13]
-		"lol", -- [14]
-		"someone was def. dispelling early", -- [15]
-		"to healing parse", -- [16]
-		"I should've", -- [17]
-		"yeah, and I saw some get dispelled at like 1/2", -- [18]
-		"yikes", -- [19]
-		"I had a sick MD, 2 small circles", -- [20]
+		"/o I almost said \"no it's cada\" yikes", -- [1]
+		"inv", -- [2]
+		"/cw Illsong can you trade slappers", -- [3]
+		"/cw Nv-Area52 yea", -- [4]
+		"/cw Nv-Area52 he can trade", -- [5]
+		"/raid 1", -- [6]
+		"/wa", -- [7]
+		"/raid regular coke is too sweet, coke zero's actually better", -- [8]
+		"/dn", -- [9]
+		"lol", -- [10]
+		"someone was def. dispelling early", -- [11]
+		"to healing parse", -- [12]
+		"I should've", -- [13]
+		"yeah, and I saw some get dispelled at like 1/2", -- [14]
+		"yikes", -- [15]
+		"I had a sick MD, 2 small circles", -- [16]
+		"/s hm?", -- [17]
+		"/s in heroic?", -- [18]
+		"/s doesn't matter", -- [19]
+		"/raid you put 3 twice", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Cursed Blood on Sci", -- [1]
-			"Sci-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Sci-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1447, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
+			374, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235111,
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322047,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"Cursed Blood on Yukiox", -- [1]
-			"Yukiox-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yukiox-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1448, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
+			378, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukiox|r",
-			[51] = 1593235111,
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322049,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [2]
 		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1450, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235123,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1451, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235130,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [4]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1452, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235131,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Illsong-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Illsong-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1453, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235137,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1455, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235141,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1456, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235148,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"Cursed Blood", -- [1]
-			"Andruw-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Andruw-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1460, -- [11]
-			"Player-3676-0AD8E03C", -- [12]
+			382, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruw|r",
-			[51] = 1593235156,
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322050,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [3]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			386, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322052,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [4]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			388, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322053,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [5]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			392, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322055,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [6]
+		{
+			"wipe", -- [1]
+			"Aymè-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aymè-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			403, -- [11]
+			"Player-1427-094C6AD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Aymè-Ragnaros|r",
+			[51] = 1593322094,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [7]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			406, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322098,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [8]
+		{
+			"Paranoia", -- [1]
+			"Turkeyvultyr-Thrall", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Turkeyvultyr-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			407, -- [11]
+			"Player-3678-0BEC2289", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Turkeyvultyr-Thrall|r",
+			[51] = 1593322098,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"Cursed Blood on Yukiox", -- [1]
-			"Yukiox-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Duduacid-Ragnaros", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Yukiox-Area52", -- [5]
+			"Duduacid-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1461, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
+			408, -- [11]
+			"Player-1427-0A7EFE44", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Yukiox|r",
-			[51] = 1593235156,
+			[52] = "|cfffe7b09Duduacid-Ragnaros|r",
+			[51] = 1593322098,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"Cursed Blood on Illsong", -- [1]
-			"Illsong-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Hakunamatatà-Ragnaros", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Illsong-Area52", -- [5]
+			"Hakunamatatà-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1462, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
+			409, -- [11]
+			"Player-1427-06BAFC76", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235156,
+			[52] = "|cff00fe95Hakunamatatà-Ragnaros|r",
+			[51] = 1593322098,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"JOHN F***NG MADDEN!!!!", -- [1]
-			"Sci-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Sci-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1463, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
+			410, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235161,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322100,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1464, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235163,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"E ERrr Clotted Corruption!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1466, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235168,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"Touch of the Corruptor on Warlockmania", -- [1]
-			"Warlockmania-Area52", -- [2]
+			"{rt1}", -- [1]
+			"Turkeyvultyr-Thrall", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Warlockmania-Area52", -- [5]
+			"Turkeyvultyr-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1471, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
+			412, -- [11]
+			"Player-3678-0BEC2289", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1593235193,
+			[52] = "|cffc31d39Turkeyvultyr-Thrall|r",
+			[51] = 1593322100,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [13]
+		{
+			"{rt2}", -- [1]
+			"Duduacid-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Duduacid-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			414, -- [11]
+			"Player-1427-0A7EFE44", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Duduacid-Ragnaros|r",
+			[51] = 1593322100,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [14]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			415, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322101,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"Cursed Blood", -- [1]
-			"Slurpinho-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Slurpinho-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1473, -- [11]
-			"Player-3676-0AE4F849", -- [12]
+			417, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Slurpinho|r",
-			[51] = 1593235201,
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322103,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"Cursed Blood on Toshpriest", -- [1]
+			"Paranoia", -- [1]
 			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -386,7 +386,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1474, -- [11]
+			418, -- [11]
 			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -394,409 +394,585 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeToshpriest|r",
-			[51] = 1593235201,
+			[51] = 1593322104,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"Cursed Blood on Illsong", -- [1]
-			"Illsong-Area52", -- [2]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Illsong-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1475, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
+			420, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235201,
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322106,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1476, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			422, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235201,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322107,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Illsong-Area52", -- [2]
+			"ahhh my n", -- [1]
+			"Vacaloka-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Illsong-Area52", -- [5]
+			"Vacaloka-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1478, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
+			423, -- [11]
+			"Player-1427-0AD1C020", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235221,
+			[52] = "|cfff38bb9Vacaloka-Ragnaros|r",
+			[51] = 1593322108,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [20]
 		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1479, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			425, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235223,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322109,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"b", -- [1]
+			"Vacaloka-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Vacaloka-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1480, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			427, -- [11]
+			"Player-1427-0AD1C020", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235223,
+			[52] = "|cfff38bb9Vacaloka-Ragnaros|r",
+			[51] = 1593322109,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [22]
 		{
-			"Casting |cff71d5ff|Hspell:119381:0|h[Leg Sweep]|h|r!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1481, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			428, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235239,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322110,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Illsong-Area52", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Illsong-Area52", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1482, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
+			430, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235241,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593322112,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"Cursed Blood", -- [1]
-			"Andruw-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Andruw-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1484, -- [11]
-			"Player-3676-0AD8E03C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Andruw|r",
-			[51] = 1593235246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Cursed Blood", -- [1]
-			"Warlockmania-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Warlockmania-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1485, -- [11]
-			"Player-3676-0ADA5AC2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecWarlockmania|r",
-			[51] = 1593235246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"Cursed Blood", -- [1]
-			"Slurpinho-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Slurpinho-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1486, -- [11]
-			"Player-3676-0AE4F849", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Slurpinho|r",
-			[51] = 1593235246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Cursed Blood on Evandh", -- [1]
-			"Evandh-Illidan", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Evandh-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1487, -- [11]
-			"Player-57-095F4716", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Evandh-Illidan|r",
-			[51] = 1593235246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Cursed Blood on Illsong", -- [1]
-			"Illsong-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Illsong-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1488, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"Cursed Blood", -- [1]
-			"Rathux-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Rathux-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1489, -- [11]
-			"Player-3676-0AD8DE97", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Rathux|r",
-			[51] = 1593235246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
-		{
-			"Cursed Blood on Penguindruid", -- [1]
-			"Penguindruid-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Penguindruid-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1490, -- [11]
-			"Player-3676-0A59B226", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Penguindruid|r",
-			[51] = 1593235246,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"sorry ", -- [1]
+			"Vacaloka-Ragnaros", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Vacaloka-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1492, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			438, -- [11]
+			"Player-1427-0AD1C020", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235249,
+			[52] = "|cfff38bb9Vacaloka-Ragnaros|r",
+			[51] = 1593322130,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [25]
+		{
+			"dang 2 of our top 3 left =[", -- [1]
+			"Séravee-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Séravee-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			458, -- [11]
+			"Player-57-05BBB862", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSéravee-Illidan|r",
+			[51] = 1593322782,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [26]
+		{
+			"3 actually", -- [1]
+			"Thorkun-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thorkun-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			459, -- [11]
+			"Player-3676-0AD8AB5F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cThorkun|r",
+			[51] = 1593322789,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [27]
+		{
+			"meh i was beating that priest until i had to jump off =]", -- [1]
+			"Séravee-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Séravee-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			463, -- [11]
+			"Player-57-05BBB862", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSéravee-Illidan|r",
+			[51] = 1593322805,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [28]
+		{
+			"why dont you do more damage and it wont matter?", -- [1]
+			"Rowlynxx-Proudmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rowlynxx-Proudmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			464, -- [11]
+			"Player-5-0BDAB3E7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcRowlynxx-Proudmoore|r",
+			[51] = 1593322809,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [29]
+		{
+			"you were 3rd before u had to jump off ", -- [1]
+			"Mythologicál-Blackrock", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mythologicál-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			465, -- [11]
+			"Player-10-0B05FDB3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Mythologicál-Blackrock|r",
+			[51] = 1593322832,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [30]
+		{
+			"YEP", -- [1]
+			"Davvran-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Davvran-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			466, -- [11]
+			"Player-3676-0AD0EFEB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDavvran|r",
+			[51] = 1593322836,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [31]
+		{
+			"what are u talking about i was doing 80k till i had to jump", -- [1]
+			"Séravee-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Séravee-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			467, -- [11]
+			"Player-57-05BBB862", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSéravee-Illidan|r",
+			[51] = 1593322838,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [32]
 		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"COCK", -- [1]
+			"Ilantha-Area52", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Ilantha-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
 			0, -- [10]
-			1494, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			468, -- [11]
+			"Player-3676-0ACAB6EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235258,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffc59a6cIlantha|r",
+			[51] = 1593322841,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
 		{
-			"|cff71d5ff|Hspell:122278:0|h[Dampen Harm]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"im teasing", -- [1]
+			"Rowlynxx-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Rowlynxx-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1496, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			469, -- [11]
+			"Player-5-0BDAB3E7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235268,
+			[52] = "|cff006fdcRowlynxx-Proudmoore|r",
+			[51] = 1593322845,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [34]
 		{
-			"E ERrr Clotted Corruption!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"indeed penis", -- [1]
+			"Bigcheddar-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Bigcheddar-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			471, -- [11]
+			"Player-3676-0ADE9B8F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Bigcheddar|r",
+			[51] = 1593322874,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [35]
+		{
+			"no hes not", -- [1]
+			"Mythologicál-Blackrock", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Mythologicál-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1498, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			473, -- [11]
+			"Player-10-0B05FDB3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235278,
+			[52] = "|cffc31d39Mythologicál-Blackrock|r",
+			[51] = 1593322884,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [36]
 		{
-			"Cursed Blood on Toshpriest", -- [1]
+			"beat him ", -- [1]
+			"Mythologicál-Blackrock", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mythologicál-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			474, -- [11]
+			"Player-10-0B05FDB3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Mythologicál-Blackrock|r",
+			[51] = 1593322888,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [37]
+		{
+			"1", -- [1]
+			"Kainë-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kainë", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			475, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593322895,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [38]
+		{
+			"schlong", -- [1]
+			"Sunderwhere-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Sunderwhere-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			476, -- [11]
+			"Player-3676-09AB7904", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cSunderwhere|r",
+			[51] = 1593322896,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"1/3 FIRST 2/3 SECOND", -- [1]
+			"Kainë-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kainë", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			477, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593322905,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [40]
+		{
+			"check groups", -- [1]
+			"Kainë-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kainë", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			478, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593322909,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [41]
+		{
+			"omw", -- [1]
+			"Highcrow-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Highcrow-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			479, -- [11]
+			"Player-3676-0AD58EC1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cHighcrow|r",
+			[51] = 1593322914,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [42]
+		{
+			"buff up", -- [1]
+			"Kainë-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kainë", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			480, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593322915,
+			[50] = "CHAT_MSG_RAID_WARNING",
+		}, -- [43]
+		{
+			"you put 3 twice", -- [1]
 			"Toshpriest-Area52", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Toshpriest-Area52", -- [5]
 			"", -- [6]
@@ -804,7 +980,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1501, -- [11]
+			481, -- [11]
 			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -812,473 +988,517 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeToshpriest|r",
-			[51] = 1593235291,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"Cursed Blood on Nv", -- [1]
-			"Nv-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nv-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1502, -- [11]
-			"Player-3676-0AD8DEA9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Nv|r",
-			[51] = 1593235291,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"Cursed Blood on Yukiox", -- [1]
-			"Yukiox-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukiox-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1503, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukiox|r",
-			[51] = 1593235291,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"JOHN F***NG MADDEN!!!!", -- [1]
-			"Sci-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1504, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235294,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [39]
-		{
-			"Absorbing Charge on Thunderrz", -- [1]
-			"Thunderrz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1505, -- [11]
-			"Player-3676-0AD915EB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1593235299,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1508, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235309,
+			[51] = 1593322921,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
-		{
-			"Cursed Blood on Thunderrz", -- [1]
-			"Thunderrz-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Thunderrz-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1515, -- [11]
-			"Player-3676-0AD915EB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Thunderrz|r",
-			[51] = 1593235337,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Cursed Blood on Penguindruid", -- [1]
-			"Penguindruid-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Penguindruid-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1516, -- [11]
-			"Player-3676-0A59B226", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Penguindruid|r",
-			[51] = 1593235337,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"Cursed Blood on Sci", -- [1]
-			"Sci-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1517, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235337,
-			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"Cursed Blood on Yukiox", -- [1]
-			"Yukiox-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukiox-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1518, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukiox|r",
-			[51] = 1593235337,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"Interrupted Organ of Corruption's |cff71d5ff|Hspell:310788:0|h[Pumping Blood]|h|r!", -- [1]
-			"Illsong-Area52", -- [2]
+			"yeah", -- [1]
+			"Rowlynxx-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Illsong-Area52", -- [5]
+			"Rowlynxx-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1520, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
+			482, -- [11]
+			"Player-5-0BDAB3E7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235345,
+			[52] = "|cff006fdcRowlynxx-Proudmoore|r",
+			[51] = 1593322930,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [45]
+		{
+			"3 goes twice", -- [1]
+			"Rowlynxx-Proudmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rowlynxx-Proudmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			483, -- [11]
+			"Player-5-0BDAB3E7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcRowlynxx-Proudmoore|r",
+			[51] = 1593322934,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [46]
 		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"1/3 2/4", -- [1]
+			"Faviolanzoni-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Faviolanzoni-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1522, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			484, -- [11]
+			"Player-3661-07DD9027", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235369,
+			[52] = "|cfff38bb9Faviolanzoni-Hyjal|r",
+			[51] = 1593322935,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [47]
 		{
-			"Absorbing Charge on Delpi", -- [1]
-			"Delpi-Area52", -- [2]
-			"Orcish", -- [3]
+			"duh", -- [1]
+			"Rowlynxx-Proudmoore", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Delpi-Area52", -- [5]
+			"Rowlynxx-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1523, -- [11]
-			"Player-3676-0AD8EBC9", -- [12]
+			485, -- [11]
+			"Player-5-0BDAB3E7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Delpi|r",
-			[51] = 1593235376,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff006fdcRowlynxx-Proudmoore|r",
+			[51] = 1593322936,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [48]
 		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r activated!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"2/4**", -- [1]
+			"Kainë-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"Kainë-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1525, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			486, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235378,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593322937,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [49]
 		{
-			"JOHN F***NG MADDEN!!!!", -- [1]
-			"Sci-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
+			"for sure wang", -- [1]
+			"Fartboxfista-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Fartboxfista-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
 			0, -- [10]
-			1526, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
+			487, -- [11]
+			"Player-3676-0AC4E4FA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235381,
-			[50] = "CHAT_MSG_YELL",
+			true, -- [17]
+			[52] = "|cffa22fc8Fartboxfista|r",
+			[51] = 1593322938,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"Cursed Blood", -- [1]
-			"Sploshey-Area52", -- [2]
-			"Orcish", -- [3]
+			"Yall should know what I mean", -- [1]
+			"Kainë-Thrall", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Sploshey-Area52", -- [5]
+			"Kainë-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1528, -- [11]
-			"Player-3676-0AD90263", -- [12]
+			488, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecSploshey|r",
-			[51] = 1593235382,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593322941,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [51]
 		{
-			"Cursed Blood on Yukiox", -- [1]
-			"Yukiox-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Yukiox-Area52", -- [5]
+			"are ya ready penis?", -- [1]
+			"Violentjam-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Violentjam-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
 			0, -- [10]
-			1529, -- [11]
-			"Player-3676-0AD96CC7", -- [12]
+			489, -- [11]
+			"Player-3676-0AE3964C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Yukiox|r",
-			[51] = 1593235382,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff38bb9Violentjam|r",
+			[51] = 1593322955,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"Cursed Blood", -- [1]
-			"Rathux-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Rathux-Area52", -- [5]
+			"wc", -- [1]
+			"Violentjam-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Violentjam-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
 			0, -- [10]
-			1530, -- [11]
-			"Player-3676-0AD8DE97", -- [12]
+			491, -- [11]
+			"Player-3676-0AE3964C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Rathux|r",
-			[51] = 1593235382,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfff38bb9Violentjam|r",
+			[51] = 1593322962,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"|cff71d5ff|Hspell:120954:0|h[Fortifying Brew]|h|r faded!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"affirmative bepis", -- [1]
+			"Blorgotron-Area52", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Blorgotron-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
 			0, -- [10]
-			1533, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			492, -- [11]
+			"Player-3676-0ADFA162", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235393,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffefefeBlorgotron|r",
+			[51] = 1593322963,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"E ERrr Clotted Corruption!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"how big is everyones penis", -- [1]
+			"Codyh-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Codyh-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
 			0, -- [10]
-			1534, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			493, -- [11]
+			"Player-3676-0AC9961D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235395,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffa9d271Codyh|r",
+			[51] = 1593322968,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"E ERrr Clotted Corruption!", -- [1]
-			"Gummybuns-Area52", -- [2]
+			"Roger Johnson", -- [1]
+			"Fartboxfista-Area52", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Fartboxfista-Area52", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
 			0, -- [10]
-			1535, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
+			494, -- [11]
+			"Player-3676-0AC4E4FA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235395,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa22fc8Fartboxfista|r",
+			[51] = 1593322971,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [56]
 		{
-			"Touch of the Corruptor on Andruw", -- [1]
-			"Andruw-Area52", -- [2]
-			"Orcish", -- [3]
+			"pull my johnson", -- [1]
+			"Bigbussyboi-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Bigbussyboi-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			496, -- [11]
+			"Player-3676-0AD90F09", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Bigbussyboi|r",
+			[51] = 1593322979,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
+		{
+			"they called me beer can cock in highschool", -- [1]
+			"Chiovanni-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Chiovanni-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			497, -- [11]
+			"Player-3676-0A361182", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Chiovanni|r",
+			[51] = 1593322982,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"small enough for me to cry in the mirror every morning", -- [1]
+			"Orkustra-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Orkustra-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			499, -- [11]
+			"Player-3676-0AEC2128", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcOrkustra|r",
+			[51] = 1593322990,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [59]
+		{
+			"yep natty ice here", -- [1]
+			"Fartboxfista-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Fartboxfista-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			501, -- [11]
+			"Player-3676-0AC4E4FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Fartboxfista|r",
+			[51] = 1593322994,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"id fuck a hole in the wall if it was slippery enough on a hot summer day", -- [1]
+			"Bigbussyboi-Area52", -- [2]
+			"", -- [3]
+			"3. General - Ny'alotha, the Waking City", -- [4]
+			"Bigbussyboi-Area52", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Ny'alotha, the Waking City", -- [9]
+			0, -- [10]
+			502, -- [11]
+			"Player-3676-0AD90F09", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Bigbussyboi|r",
+			[51] = 1593323004,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"|cff71d5ff|Hspell:111771:0|h[Demonic Gateway]|h|r placed!", -- [1]
+			"Religionx-Mal'Ganis", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Andruw-Area52", -- [5]
+			"Religionx-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1537, -- [11]
-			"Player-3676-0AD8E03C", -- [12]
+			511, -- [11]
+			"Player-3684-08E9E495", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Andruw|r",
-			[51] = 1593235421,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+			[52] = "|cff8686ecReligionx-Mal'Ganis|r",
+			[51] = 1593323048,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [62]
 		{
-			"Cursed Blood on Toshpriest", -- [1]
+			"|cff71d5ff|Hspell:105809:0|h[Holy Avenger]|h|r used on Faviolanzoni!", -- [1]
+			"Faviolanzoni-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Faviolanzoni-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			512, -- [11]
+			"Player-3661-07DD9027", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Faviolanzoni-Hyjal|r",
+			[51] = 1593323056,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [63]
+		{
+			"swawggy port", -- [1]
+			"Roodsmitez-Arthas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Roodsmitez-Arthas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			519, -- [11]
+			"Player-69-09B028A7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Roodsmitez-Arthas|r",
+			[51] = 1593323108,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [64]
+		{
+			"Casting |cff71d5ff|Hspell:115310:0|h[Revival]|h|r!", -- [1]
+			"Rashika-Thaurissan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rashika-Thaurissan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			521, -- [11]
+			"Player-3724-0996914A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe95Rashika-Thaurissan|r",
+			[51] = 1593323119,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [65]
+		{
+			"Paranoia", -- [1]
+			"Religionx-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Religionx-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			524, -- [11]
+			"Player-3684-08E9E495", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecReligionx-Mal'Ganis|r",
+			[51] = 1593323127,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [66]
+		{
+			"Paranoia", -- [1]
+			"Nungivenbro-Tichondrius", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nungivenbro-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			525, -- [11]
+			"Player-11-0B25D3BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Nungivenbro-Tichondrius|r",
+			[51] = 1593323127,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"Paranoia", -- [1]
 			"Toshpriest-Area52", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1288,7 +1508,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1541, -- [11]
+			526, -- [11]
 			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1296,1562 +1516,1306 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeToshpriest|r",
-			[51] = 1593235427,
+			[51] = 1593323127,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"Cursed Blood", -- [1]
-			"Rathux-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Rathux-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1542, -- [11]
-			"Player-3676-0AD8DE97", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Rathux|r",
-			[51] = 1593235427,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"Cursed Blood on Sci", -- [1]
-			"Sci-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1543, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235427,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1544, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235428,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"E ERrr Il'gynoth!", -- [1]
-			"Gummybuns-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gummybuns-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1545, -- [11]
-			"Player-3676-0AD94DD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Gummybuns|r",
-			[51] = 1593235428,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14052:Player-3676-0AEB80E4:1:6:26:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Il'gynoth, Corruption Reborn]|h|r!", -- [1]
-			"Illsong-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Illsong-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1547, -- [11]
-			"Player-3676-0AEB80E4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Illsong|r",
-			[51] = 1593235428,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [63]
-		{
-			"ty", -- [1]
-			"Sci-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sci-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1565, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235466,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
-		{
-			"i hate that boss", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1567, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235480,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [65]
-		{
-			"||||WTS|||| Weekend M+ SPECIALS! M+10-20s. Cheap M10 & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee. GOLD ONLY <3", -- [1]
-			"Mikoah-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Mikoah-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1572, -- [11]
-			"Player-3676-0AEA9D35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcMikoah|r",
-			[51] = 1593235482,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
-		{
-			"WTS 5 Mask Horrific Vision. Loot only and objective runs (Quest pages + Echos of Ny'alotha) available. Run by 12/12m [CE] raider with 3+ months of Vision sales and 0 failures. Gold only", -- [1]
-			"Ozikai-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ozikai-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1573, -- [11]
-			"Player-3676-09DA36FD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ozikai|r",
-			[51] = 1593235482,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-117603-3676-91833216|h[Guild: temporary]|h|r Dont worry, we're here Permanently. Come join us  Tues/Thurs 7-10pm EST 3/12M  Nya. Mythic 15+ keys. Building a Solid Mythic raid Core for SL. Come join us!", -- [1]
-			"Darthoreeo-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Darthoreeo-Area52", -- [5]
-			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1574, -- [11]
-			"Player-3676-091B6BE4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Darthoreeo|r",
-			[51] = 1593235483,
-			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [68]
 		{
-			"lol", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Rowlynxx-Proudmoore", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rowlynxx-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1575, -- [11]
-			false, -- [12]
-			47, -- [13]
+			527, -- [11]
+			"Player-5-0BDAB3E7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235489,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sci",
+			[52] = "|cff006fdcRowlynxx-Proudmoore|r",
+			[51] = 1593323127,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [69]
 		{
-			"<Twilight Devastation> LF members to join us to push keys 15+ and raid // Please message if interested we are 6/12H pushing Heroic Sat/Sun night. Lead is 'AOTC' with mythic experience. Intending to start mythic progress soon.  Pref 18+", -- [1]
-			"Jarheals-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Jarheals-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Sagatana-Gallywix", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sagatana-Gallywix", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1576, -- [11]
-			"Player-3676-0AC3F686", -- [12]
+			528, -- [11]
+			"Player-3234-0CC9E09B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Jarheals|r",
-			[51] = 1593235489,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Sagatana-Gallywix|r",
+			[51] = 1593323127,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"Gold Only! The Gallywix Community || WTS >> Ny'alotha Heroic Full Clear << with top guilds such as <Complexity Limit>! Also, selling Carapace + N'Zoth || M+ boost || Mythic Ny'alotha || Jaina Mount || Vision Boosts || PvP || Rare Mounts(TLPD)! ", -- [1]
-			"Wowsalethree-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Wowsalethree-Area52", -- [5]
-			"AFK", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Paranoia", -- [1]
+			"Cressil-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Cressil-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1577, -- [11]
-			"Player-3676-0AC13C65", -- [12]
+			529, -- [11]
+			"Player-1427-0932F309", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Wowsalethree|r",
-			[51] = 1593235495,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Cressil-Ragnaros|r",
+			[51] = 1593323128,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"LF people to deathroll", -- [1]
-			"Saaxi-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Saaxi-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1578, -- [11]
-			"Player-3676-0A7CAB7A", -- [12]
+			531, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Saaxi|r",
-			[51] = 1593235495,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323129,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"EXCELLENT DEALS ON +15 KEYS -> armor stack FREE + specific key option avail!! CHEAP HEROIC [Ny'alotha, the Waking City] 12/12 TONIGHT!! VISIONS 0-5 MASKS ! GOLD ONLY! HIT MEE UPPP <3", -- [1]
-			"Bunnïe-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bunnïe-Area52", -- [5]
+			"{rt2}", -- [1]
+			"Religionx-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Religionx-Mal'Ganis", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1579, -- [11]
-			"Player-3676-0AECFA7D", -- [12]
+			532, -- [11]
+			"Player-3684-08E9E495", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cBunnïe|r",
-			[51] = 1593235496,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8686ecReligionx-Mal'Ganis|r",
+			[51] = 1593323129,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"someone was def. dispelling early", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"{rt1}", -- [1]
+			"Rowlynxx-Proudmoore", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Rowlynxx-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1580, -- [11]
-			false, -- [12]
-			47, -- [13]
+			533, -- [11]
+			"Player-5-0BDAB3E7", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235497,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sci",
+			[52] = "|cff006fdcRowlynxx-Proudmoore|r",
+			[51] = 1593323129,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"to healing parse", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"{rt3}", -- [1]
+			"Sagatana-Gallywix", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sagatana-Gallywix", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1583, -- [11]
-			false, -- [12]
-			47, -- [13]
+			534, -- [11]
+			"Player-3234-0CC9E09B", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235503,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sci",
+			[52] = "|cff3ec5e9Sagatana-Gallywix|r",
+			[51] = 1593323129,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"ya", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1584, -- [11]
-			false, -- [12]
-			47, -- [13]
+			536, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235503,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323130,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"two people", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"{rt1}", -- [1]
+			"Cressil-Ragnaros", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Cressil-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1585, -- [11]
-			false, -- [12]
-			47, -- [13]
+			537, -- [11]
+			"Player-1427-0932F309", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235503,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cffa22fc8Cressil-Ragnaros|r",
+			[51] = 1593323130,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"slurp and ", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1587, -- [11]
-			false, -- [12]
-			47, -- [13]
+			542, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235505,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323132,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"WTS 15 M+ Timed. Special OFFER!!! Buy 2 RUNS, the 3rd is HALF OFF. All Loot goes to you. GOLD ONLY! PST for more info. Groups ready to go!", -- [1]
-			"Volgore-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Volgore-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1588, -- [11]
-			"Player-3676-0A996553", -- [12]
+			545, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Volgore|r",
-			[51] = 1593235508,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323133,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"Looking for someone who can buy me a transfer and faction change service .ive got an amazing mindblowing offer that im sure u wont be able to pass.pst for extra information to find out what it is.", -- [1]
-			"Benxaro-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Benxaro-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1589, -- [11]
-			"Player-3676-0AECBB4B", -- [12]
+			551, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Benxaro|r",
-			[51] = 1593235508,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323135,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"penguin", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1590, -- [11]
-			false, -- [12]
-			47, -- [13]
+			556, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235509,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323136,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"i just stopped dispelling", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1591, -- [11]
-			false, -- [12]
-			47, -- [13]
+			562, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235512,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323138,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"since they were gonna do it anyways", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1592, -- [11]
-			false, -- [12]
-			47, -- [13]
+			565, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235517,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323139,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"I should've", -- [1]
-			"|Kq15|k", -- [2]
+			"NECKS", -- [1]
+			"Kainë-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kainë", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1596, -- [11]
-			false, -- [12]
-			47, -- [13]
+			569, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235523,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sci",
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593323140,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [84]
 		{
-			"like i'd hover over someone wait for it to get smaller", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1600, -- [11]
-			false, -- [12]
-			47, -- [13]
+			572, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235525,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323141,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"but it'd get dispeled", -- [1]
-			"|Kq15|k", -- [2]
+			"1/3", -- [1]
+			"Kainë-Thrall", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kainë-Thrall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1602, -- [11]
-			false, -- [12]
-			47, -- [13]
+			576, -- [11]
+			"Player-3678-0C0CA8C9", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235529,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cffc31d39Kainë-Thrall|r",
+			[51] = 1593323143,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [86]
 		{
-			"WTS 475 ilvl BoE Items // Nya'Alotha Heroic 12/12 [8+ Items GUARANTEED] // [Glacial Tidestorm] // PST NOW!! n", -- [1]
-			"Barmagg-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Barmagg-Area52", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1604, -- [11]
-			"Player-3676-0AECDB45", -- [12]
+			583, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cBarmagg|r",
-			[51] = 1593235531,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323184,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"yeah, and I saw some get dispelled at like 1/2", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Religionx-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Religionx-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1606, -- [11]
-			false, -- [12]
-			47, -- [13]
+			584, -- [11]
+			"Player-3684-08E9E495", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235539,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sci",
+			[52] = "|cff8686ecReligionx-Mal'Ganis|r",
+			[51] = 1593323184,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"yea..", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Nungivenbro-Tichondrius", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Nungivenbro-Tichondrius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1608, -- [11]
-			false, -- [12]
-			47, -- [13]
+			585, -- [11]
+			"Player-11-0B25D3BE", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235543,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cffa9d271Nungivenbro-Tichondrius|r",
+			[51] = 1593323184,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [89]
 		{
-			"WTS 5 MASK HORRIFIC VISIONS! GET YOUR 470 CORRUPTED PIECE, PST ME", -- [1]
-			"Fivemask-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fivemask-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Booyaa-Crushridge", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Booyaa-Crushridge", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1609, -- [11]
-			"Player-3676-0AE4394E", -- [12]
+			586, -- [11]
+			"Player-1138-085F7941", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cFivemask|r",
-			[51] = 1593235543,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcBooyaa-Crushridge|r",
+			[51] = 1593323184,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [90]
 		{
-			"||WTS||M+10s-15s-24s, Buy 2 runs and get free armor stack/ specific key options available. || WTS >>Heroic and Mythic 12/12 Full Clear Ny'alotha<< with top US guilds! Multiple runs per week. GOLD ONLY|| We also have PVP carries for rating or per win.", -- [1]
-			"Skallcoin-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Skallcoin-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Cressil-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Cressil-Ragnaros", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1610, -- [11]
-			"Player-3676-0AE61EAA", -- [12]
+			587, -- [11]
+			"Player-1427-0932F309", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcSkallcoin|r",
-			[51] = 1593235544,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Cressil-Ragnaros|r",
+			[51] = 1593323184,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [91]
 		{
-			"i legit couldnt stop healing", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Sagatana-Gallywix", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sagatana-Gallywix", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1611, -- [11]
-			false, -- [12]
-			47, -- [13]
+			588, -- [11]
+			"Player-3234-0CC9E09B", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235547,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cff3ec5e9Sagatana-Gallywix|r",
+			[51] = 1593323184,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [92]
 		{
-			"or else ppl would die", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1613, -- [11]
-			false, -- [12]
-			47, -- [13]
+			589, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235550,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323186,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [93]
 		{
-			"WTB Guild signatures 1k", -- [1]
-			"Deathlobsta-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Deathlobsta-Area52", -- [5]
+			"{rt3}", -- [1]
+			"Religionx-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Religionx-Mal'Ganis", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1617, -- [11]
-			"Player-3676-0AE37B55", -- [12]
+			591, -- [11]
+			"Player-3684-08E9E495", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Deathlobsta|r",
-			[51] = 1593235556,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff8686ecReligionx-Mal'Ganis|r",
+			[51] = 1593323186,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"||||WTS|||| Weekend M+ SPECIALS! M+10-20s. Cheap M10 & 15s, as well as buy 2x M+10-15 keys, get armor stack FREE! Add a optional specific key for an additional fee. GOLD ONLY <3", -- [1]
-			"Mikoah-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Mikoah-Area52", -- [5]
+			"{rt3}", -- [1]
+			"Booyaa-Crushridge", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Booyaa-Crushridge", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1620, -- [11]
-			"Player-3676-0AEA9D35", -- [12]
+			592, -- [11]
+			"Player-1138-085F7941", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcMikoah|r",
-			[51] = 1593235560,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcBooyaa-Crushridge|r",
+			[51] = 1593323186,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"The Gallywix Community || WTS Mythic/Heroic Ny'alotha Full clear & Cara/Nzoth only spots. Also M+ 10-24 keys || KSM || PVP up to Gladiator || Visions || BT Timewalking || Islands || Mechagon || Legacy || Void Talon, TLPD, Jaina! GOLD ONLY", -- [1]
-			"Docithtwo-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Docithtwo-Area52", -- [5]
+			"{rt1}", -- [1]
+			"Cressil-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Cressil-Ragnaros", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1621, -- [11]
-			"Player-3676-0ACEC138", -- [12]
+			593, -- [11]
+			"Player-1427-0932F309", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Docithtwo|r",
-			[51] = 1593235562,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Cressil-Ragnaros|r",
+			[51] = 1593323186,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [96]
 		{
-			"WTS 5 Mask Horrific Vision. Loot only and objective runs (Quest pages + Echos of Ny'alotha) available. Run by 12/12m [CE] raider with 3+ months of Vision sales and 0 failures. Gold only", -- [1]
-			"Ozikai-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ozikai-Area52", -- [5]
+			"{rt2}", -- [1]
+			"Sagatana-Gallywix", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sagatana-Gallywix", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1622, -- [11]
-			"Player-3676-09DA36FD", -- [12]
+			594, -- [11]
+			"Player-3234-0CC9E09B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ozikai|r",
-			[51] = 1593235570,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Sagatana-Gallywix|r",
+			[51] = 1593323186,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [97]
 		{
-			"WTS 15 M+ Timed. Special OFFER!!! Buy 2 RUNS, the 3rd is HALF OFF. All Loot goes to you. GOLD ONLY! PST for more info. Groups ready to go! PLATE STACK FREE!!!!", -- [1]
-			"Volgore-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Volgore-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1623, -- [11]
-			"Player-3676-0A996553", -- [12]
+			595, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Volgore|r",
-			[51] = 1593235572,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323187,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"thought i had badboy block deathrolling", -- [1]
-			"Moucifer-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Moucifer-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1624, -- [11]
-			"Player-3676-0AD782F6", -- [12]
+			600, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Moucifer|r",
-			[51] = 1593235574,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323189,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 		{
-			"EXCELLENT DEALS ON +15 KEYS -> armor stack FREE + specific key option avail!! CHEAP HEROIC [Ny'alotha, the Waking City] 12/12 TONIGHT!! VISIONS 0-5 MASKS ! GOLD ONLY! HIT MEE UPPP <3", -- [1]
-			"Bunnïe-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Bunnïe-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1625, -- [11]
-			"Player-3676-0AECFA7D", -- [12]
+			602, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cBunnïe|r",
-			[51] = 1593235575,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323190,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [100]
 		{
-			";(", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1626, -- [11]
-			false, -- [12]
-			47, -- [13]
+			608, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235575,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323192,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [101]
 		{
-			"WTS |cff1eff00|Hitem:154722::::::::120:72::::::|h[Tempest Hide]|h|r|cff1eff00|Hitem:154165::::::::120:72::::::|h[Calcified Bone]|h|r BULK", -- [1]
-			"Womped-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Womped-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1630, -- [11]
-			"Player-3676-0AE484C9", -- [12]
+			614, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cWomped|r",
-			[51] = 1593235587,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323193,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [102]
 		{
-			"WTS 5 Mask Horrific Vision. Loot only and objective runs (Quest pages + Echos of Ny'alotha) available. Run by 12/12m [CE] raider with 3+ months of Vision sales and 0 failures. Gold only", -- [1]
-			"Ozikai-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Ozikai-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1636, -- [11]
-			"Player-3676-09DA36FD", -- [12]
+			620, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Ozikai|r",
-			[51] = 1593235615,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323195,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [103]
 		{
-			"WTS  M+ 10-20 keys - ARMOR STACK DEALS/KSM! 12/12H Nyalotha Clear & AOTC and mythic runs / horrific visions. PVP cr boosting FH leveling + more! Gold only", -- [1]
-			"Triagem-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Triagem-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1637, -- [11]
-			"Player-3676-0ACB8371", -- [12]
+			622, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Triagem|r",
-			[51] = 1593235616,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323196,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [104]
 		{
-			"WTS 5 MASK HORRIFIC VISIONS! GET YOUR 470 CORRUPTED PIECE, PST ME", -- [1]
-			"Fivemask-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Fivemask-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1638, -- [11]
-			"Player-3676-0AE4394E", -- [12]
+			628, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cFivemask|r",
-			[51] = 1593235619,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323198,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [105]
 		{
-			"WTS12/12 HEROIC FULL & AOTC!!! Ran by 12/12 Mythic raiders, GOING TOMORROW NIGHT at 9:00PM EST. CHEAP PERSONAL LOOT!! 3X MAIL & 3X CLOTH  MAIL FUNNELERS AVAILABLE!!! >>GOLD ONLY!!<<", -- [1]
-			"Weeklydis-Area52", -- [2]
+			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r used on Faviolanzoni!", -- [1]
+			"Faviolanzoni-Hyjal", -- [2]
 			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Weeklydis-Area52", -- [5]
+			"", -- [4]
+			"Faviolanzoni-Hyjal", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1642, -- [11]
-			"Player-3676-0AE2106B", -- [12]
+			637, -- [11]
+			"Player-3661-07DD9027", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cWeeklydis|r",
-			[51] = 1593235638,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Faviolanzoni-Hyjal|r",
+			[51] = 1593323233,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [106]
 		{
-			"[WТS] Horrific Visions Challenge Boost, Legendary cloak upgrade, Essences, Allied races, Reputations, Glories, Mounts & other 8.3 BOOSTS! We have over 8349 Trustpilot reviews. Visit [wvvvv.FatBoss.TV] for more info!", -- [1]
-			"Dsvsd-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Dsvsd-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1643, -- [11]
-			"Player-3676-0AE8BA01", -- [12]
+			640, -- [11]
+			"Player-3676-0AD945E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcDsvsd|r",
-			[51] = 1593235641,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323234,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [107]
 		{
-			"WTS 0-5 Masks visions, Freehold powerlvl, M+10-16, Mythic Ny'alotha. Gold only.", -- [1]
-			"Kovde-Area52", -- [2]
-			"", -- [3]
-			"1. Trade - City", -- [4]
-			"Kovde-Area52", -- [5]
+			"Paranoia", -- [1]
+			"Sagatana-Gallywix", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sagatana-Gallywix", -- [5]
 			"", -- [6]
-			2, -- [7]
-			1, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1644, -- [11]
-			"Player-3676-0AB1086F", -- [12]
+			641, -- [11]
+			"Player-3234-0CC9E09B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Sagatana-Gallywix|r",
+			[51] = 1593323234,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [108]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [109]
+		{
+			"{rt3}", -- [1]
+			"Religionx-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Religionx-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			643, -- [11]
+			"Player-3684-08E9E495", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecReligionx-Mal'Ganis|r",
+			[51] = 1593323236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [110]
+		{
+			"{rt1}", -- [1]
+			"Sagatana-Gallywix", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sagatana-Gallywix", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			644, -- [11]
+			"Player-3234-0CC9E09B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec5e9Sagatana-Gallywix|r",
+			[51] = 1593323236,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [111]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			645, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323237,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [112]
+		{
+			"Paranoia", -- [1]
+			"Nungivenbro-Tichondrius", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nungivenbro-Tichondrius", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			646, -- [11]
+			"Player-11-0B25D3BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Nungivenbro-Tichondrius|r",
+			[51] = 1593323237,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [113]
+		{
+			"{rt1}", -- [1]
+			"Throcken-Zul'jin", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Throcken-Zul'jin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			647, -- [11]
+			"Player-61-0CA07EAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Throcken-Zul'jin|r",
+			[51] = 1593323238,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [114]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			650, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323239,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [115]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			652, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323240,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [116]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			657, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323242,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [117]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			662, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323243,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [118]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			668, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323245,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [119]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			670, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323246,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [120]
+		{
+			"Paranoia", -- [1]
+			"Toshpriest-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Toshpriest-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			674, -- [11]
+			"Player-3676-0AD945E6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeToshpriest|r",
+			[51] = 1593323248,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [121]
+		{
+			"sad dps", -- [1]
+			"Tfortroubles-BleedingHollow", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tfortroubles-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			694, -- [11]
+			"Player-73-0BFE9BAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cTfortroubles-BleedingHollow|r",
+			[51] = 1593323267,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [122]
+		{
+			"you hjave to keep up", -- [1]
+			"Tfortroubles-BleedingHollow", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tfortroubles-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			714, -- [11]
+			"Player-73-0BFE9BAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cTfortroubles-BleedingHollow|r",
+			[51] = 1593323282,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [123]
+		{
+			"go fast ", -- [1]
+			"Tfortroubles-BleedingHollow", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tfortroubles-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			718, -- [11]
+			"Player-73-0BFE9BAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cTfortroubles-BleedingHollow|r",
+			[51] = 1593323284,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [124]
+		{
+			"dps too low", -- [1]
+			"Séravee-Illidan", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Séravee-Illidan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			720, -- [11]
+			"Player-57-05BBB862", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecSéravee-Illidan|r",
+			[51] = 1593323286,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [125]
+		{
+			"ya dpus need helpus", -- [1]
+			"Tfortroubles-BleedingHollow", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tfortroubles-BleedingHollow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			723, -- [11]
+			"Player-73-0BFE9BAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cTfortroubles-BleedingHollow|r",
+			[51] = 1593323291,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [126]
+		{
+			"R'khuzj the Unfathomable 100.00% ~(59.1, 53.79)", -- [1]
+			"Psychostick-Thrall", -- [2]
+			"", -- [3]
+			"3. General - Uldum", -- [4]
+			"Psychostick-Thrall", -- [5]
+			"", -- [6]
+			1, -- [7]
+			3, -- [8]
+			"General - Uldum", -- [9]
+			0, -- [10]
+			727, -- [11]
+			"Player-3678-0BB94A73", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcKovde|r",
-			[51] = 1593235643,
+			[52] = "|cffa22fc8Psychostick-Thrall|r",
+			[51] = 1593323519,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
-		{
-			"im gonna look at logs see who done it", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1651, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235654,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [109]
-		{
-			">:", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1652, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235655,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [110]
-		{
-			"not that i care that much cuz its farm and all", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1655, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235663,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [111]
-		{
-			"but so i dont blame the rwong person", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1656, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235667,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [112]
-		{
-			">:o", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1657, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593235669,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [113]
-		{
-			"lol almost every dispel penguin did was 50-60k dtps to raid", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1675, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236064,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [114]
-		{
-			"and slurpin too wtf", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1679, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236232,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [115]
-		{
-			"one of his dispels was 177k DTPS", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1680, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236242,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [116]
-		{
-			"O_O", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1681, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236244,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [117]
-		{
-			"actually no thats the combination of 2 dispels ", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1682, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236274,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [118]
-		{
-			"they dispelled two large circles at same time", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1683, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236282,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [119]
-		{
-			"yikes", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1684, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236300,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sci",
-		}, -- [120]
-		{
-			"I had a sick MD, 2 small circles", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1685, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236313,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Sci",
-		}, -- [121]
-		{
-			"hehe", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1686, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236325,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [122]
-		{
-			"well all i know is that i barely dispell in that fight anymore", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1687, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236336,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [123]
-		{
-			"xd", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1688, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236342,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [124]
-		{
-			"me just heal because im scared of someone dying", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1689, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236388,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [125]
-		{
-			"QQ", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1690, -- [11]
-			false, -- [12]
-			47, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236401,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Sci",
-		}, -- [126]
-		{
-			"anyone have an atal key?", -- [1]
-			"Sci-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1692, -- [11]
-			"Player-3676-0AD8DDBF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Sci|r",
-			[51] = 1593236554,
-			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
 }
