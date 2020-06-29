@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1884,
 	["lastSanitation"] = 3,
-	["session"] = 1883,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: 30:SetEndPoint(): not allowed to depend on NamePlate29",
@@ -250,14 +250,14 @@ BugGrabberDB = {
 		}, -- [31]
 		{
 			["message"] = "Error loading Interface\\AddOns\\AdiBags_PriorExpansions\\PriorExpansionData.lua",
-			["time"] = "2020/06/26 20:56:02",
 			["session"] = 1881,
+			["time"] = "2020/06/26 20:56:02",
 			["counter"] = 10,
 		}, -- [32]
 		{
 			["message"] = "Couldn't open Interface\\AddOns\\CorruptionTooltips\\Libs\\AceTimer-3.0-17\\AceTimer-3.0.xml",
-			["time"] = "2020/06/26 20:56:02",
 			["session"] = 1881,
+			["time"] = "2020/06/26 20:56:02",
 			["counter"] = 15,
 		}, -- [33]
 		{
@@ -283,26 +283,34 @@ BugGrabberDB = {
 			["counter"] = 2,
 		}, -- [36]
 		{
-			["message"] = "Interface\\AddOns\\AdiBags\\modules\\Junk.lua:246: attempt to call method 'HookScript' (a nil value)",
-			["time"] = "2020/06/15 22:16:46",
-			["locals"] = "addonName = \"AdiBags\"\naddon = <table> {\n AcquireItemButton = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\ItemButton.lua:155\n modules = <table> {\n }\n UpdateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:83\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n GetInteractingWindow = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:451\n ConfigChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:371\n GetSlotId = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:57\n Filter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:144\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n Reconfigure = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:183\n SetupTooltip = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:114\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n hooks = <table> {\n }\n GetDistinctItemID = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:188\n CreateFont = <function> defined @Interface\\AddOns\\AdiBags\\core\\Fonts.lua:122\n filterProto = <table> {\n }\n OpenOptions = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:289\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n IterateBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:183\n OnEnable = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:115\n HookBagFrameCreation = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:306\n NewBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:150\n GetClass = <function> defined @Interface\\AddOns\\AdiBags\\core\\OO.lua:129\n RegisterFilter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:120\n BACKDROP = <table> {\n }\n OnInitialize = <function> defined =[C]:-1\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n InitializeFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:64\n IterateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:116\n ReagentBankUpdated = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:362\n CreateBagSlotPanel = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\BagSlots.lua:437\n TOP_PADDING = 32\n hookedBags = <table> {\n }\n OpenBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:137\n ToggleAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:86\n OnProfileChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:191\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n name = \"AdiBags\"\n OpenBackpack = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:168\n LayoutBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Layout.lua:101\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n SetGlobalLock = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:419\n Unhook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:418\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n OpenAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:109\n L = <table> {\n }\n safecall = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:81\n Debug = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:61\n CreateAnchorWidget = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\AnchorWidget.lua:37\n ITEM_SIZE = 37\n DEFAULT_SETTINGS = <table> {\n }\n CreateBagAnchorWidget = <function> defined @Interf",
-			["stack"] = "[string \"@Interface\\AddOns\\AdiBags\\modules\\Junk.lua\"]:246: in main chunk",
-			["session"] = 1883,
-			["counter"] = 28,
-		}, -- [37]
-		{
-			["message"] = "(null)",
-			["session"] = 1883,
-			["time"] = "2020/06/15 22:17:41",
-			["counter"] = 91,
-		}, -- [38]
-		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
 			["time"] = "2020/05/29 19:37:20",
 			["locals"] = "Skipped (In Encounter)",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:487: in function `RaidGroupFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:124: in function `RaidFrame_Update'\n[string \"@Interface\\FrameXML\\RaidFrame.lua\"]:61: in function `RaidFrame_OnEvent'\n[string \"@Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua\"]:168: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:167>",
 			["session"] = 1883,
 			["counter"] = 4,
+		}, -- [37]
+		{
+			["message"] = "Interface\\AddOns\\AdiBags\\modules\\Junk.lua:246: attempt to call method 'HookScript' (a nil value)",
+			["time"] = "2020/06/15 22:16:46",
+			["locals"] = "addonName = \"AdiBags\"\naddon = <table> {\n AcquireItemButton = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\ItemButton.lua:155\n modules = <table> {\n }\n UpdateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:83\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n GetInteractingWindow = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:451\n ConfigChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:371\n GetSlotId = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:57\n Filter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:144\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n Reconfigure = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:183\n SetupTooltip = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:114\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n hooks = <table> {\n }\n GetDistinctItemID = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:188\n CreateFont = <function> defined @Interface\\AddOns\\AdiBags\\core\\Fonts.lua:122\n filterProto = <table> {\n }\n OpenOptions = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:289\n SetEnabledState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:274\n IterateBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:183\n OnEnable = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:115\n HookBagFrameCreation = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:306\n NewBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Bags.lua:150\n GetClass = <function> defined @Interface\\AddOns\\AdiBags\\core\\OO.lua:129\n RegisterFilter = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:120\n BACKDROP = <table> {\n }\n OnInitialize = <function> defined =[C]:-1\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n InitializeFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:64\n IterateFilters = <function> defined @Interface\\AddOns\\AdiBags\\core\\Filters.lua:116\n ReagentBankUpdated = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:362\n CreateBagSlotPanel = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\BagSlots.lua:437\n TOP_PADDING = 32\n hookedBags = <table> {\n }\n OpenBag = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:137\n ToggleAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:86\n OnProfileChanged = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:191\n GetName = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n name = \"AdiBags\"\n OpenBackpack = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:168\n LayoutBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Layout.lua:101\n Disable = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n SetGlobalLock = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:419\n Unhook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:418\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n OpenAllBags = <function> defined @Interface\\AddOns\\AdiBags\\core\\Hooks.lua:109\n L = <table> {\n }\n safecall = <function> defined @Interface\\AddOns\\AdiBags\\core\\Utility.lua:81\n Debug = <function> defined @Interface\\AddOns\\AdiBags\\core\\Core.lua:61\n CreateAnchorWidget = <function> defined @Interface\\AddOns\\AdiBags\\widgets\\AnchorWidget.lua:37\n ITEM_SIZE = 37\n DEFAULT_SETTINGS = <table> {\n }\n CreateBagAnchorWidget = <function> defined @Interf",
+			["stack"] = "[string \"@Interface\\AddOns\\AdiBags\\modules\\Junk.lua\"]:246: in main chunk",
+			["session"] = 1884,
+			["counter"] = 29,
+		}, -- [38]
+		{
+			["message"] = "(null)",
+			["time"] = "2020/06/15 22:17:41",
+			["session"] = 1884,
+			["counter"] = 94,
 		}, -- [39]
+		{
+			["message"] = "Interface\\AddOns\\!!Warmup\\Warmup.lua:182: script ran too long",
+			["time"] = "2020/06/28 16:38:25",
+			["locals"] = "newmem = 349517.063477\n(*temporary) = <function> defined @Interface\\AddOns\\!!Warmup\\Warmup.lua:161\n(*temporary) = true\n(*temporary) = nil\n(*temporary) = \"script ran too long\"\ntimerIsLocked = 1982830103.969500\nstop = <function> defined @Interface\\AddOns\\!!Warmup\\Warmup.lua:103\nstart = <function> defined @Interface\\AddOns\\!!Warmup\\Warmup.lua:94\ngctime = 50.558049\nmemstack = <table> {\n 1 = 305674.535156\n 2 = 349517.063477\n 3 = 352997.148438\n}\nloadandpop = <function> defined @Interface\\AddOns\\!!Warmup\\Warmup.lua:161\nlao = <function> defined =[C]:-1\n",
+			["stack"] = "[string \"@Interface\\AddOns\\!!Warmup\\Warmup.lua\"]:182: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BigWigs\\Loader.lua\"]:321: in function <Interface\\AddOns\\BigWigs\\Loader.lua:308>\n[string \"@Interface\\AddOns\\BigWigs\\Loader.lua\"]:333: in function <Interface\\AddOns\\BigWigs\\Loader.lua:328>\n[string \"@Interface\\AddOns\\BigWigs\\Loader.lua\"]:345: in function <Interface\\AddOns\\BigWigs\\Loader.lua:343>\n[string \"@Interface\\AddOns\\BigWigs\\Loader.lua\"]:1291: in function `?'\n[string \"@Interface\\AddOns\\BigWigs\\Loader.lua\"]:1027: in function <Interface\\AddOns\\BigWigs\\Loader.lua:1026>",
+			["session"] = 1884,
+			["counter"] = 1,
+		}, -- [40]
 	},
 }

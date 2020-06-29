@@ -8,9 +8,9 @@ DataStore_MailsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -22,8 +22,8 @@ DataStore_MailsDB = {
 						["itemID"] = 168313,
 						["link"] = "|cffffffff|Hitem:168313::::::::120:256::::::|h[Baked Port Tato]|h|r",
 						["count"] = 20,
-						["icon"] = 651570,
 						["lastCheck"] = 1590284500,
+						["icon"] = 651570,
 						["daysLeft"] = 30,
 					}, -- [1]
 					{
@@ -31,8 +31,8 @@ DataStore_MailsDB = {
 						["itemID"] = 168652,
 						["link"] = "|cffffffff|Hitem:168652::::::::120:256::::::|h[Greater Flask of Endless Fathoms]|h|r",
 						["count"] = 20,
-						["icon"] = 967549,
 						["lastCheck"] = 1590284600,
+						["icon"] = 967549,
 						["daysLeft"] = 30,
 					}, -- [2]
 				},
@@ -42,9 +42,9 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1592278928,
 				["lastVisitDate"] = "2020/06/15 23:42",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1593230414,
-				["lastVisitDate"] = "2020/06/27 00:00",
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762325,
+				["lastVisitDate"] = "2020/05/17 20:38",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015595,
@@ -58,9 +58,9 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1593053958,
 				["lastVisitDate"] = "2020/06/24 22:59",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762325,
-				["lastVisitDate"] = "2020/05/17 20:38",
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1593230414,
+				["lastVisitDate"] = "2020/06/27 00:00",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762476,

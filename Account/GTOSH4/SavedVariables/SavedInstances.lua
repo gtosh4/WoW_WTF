@@ -11,13 +11,13 @@ SavedInstancesDB = {
 					["days"] = {
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [1]
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [2]
 						{
 							["questDone"] = 0,
@@ -65,14 +65,14 @@ SavedInstancesDB = {
 					["relatedItemCount"] = 1,
 					["amount"] = 38580,
 				},
-				[1710] = {
-					["amount"] = 71,
+				[1560] = {
+					["amount"] = 10200,
 				},
 				[1718] = {
 					["amount"] = 17170,
 				},
-				[1560] = {
-					["amount"] = 10200,
+				[1710] = {
+					["amount"] = 71,
 				},
 			},
 			["Warmode"] = false,
@@ -94,33 +94,99 @@ SavedInstancesDB = {
 				}, -- [2]
 			},
 			["MythicKeyBest"] = {
-				["WeeklyReward"] = false,
-				["level"] = 0,
-				["LastWeekLevel"] = 16,
 				["ResetTime"] = 1593529199,
+				["level"] = 0,
+				["WeeklyReward"] = false,
+				["LastWeekLevel"] = 16,
 			},
 			["PlayedTotal"] = 764080,
-			["LastSeen"] = 1593052108,
+			["WeeklyResetTime"] = 1593529199,
 			["lastbossyelltime"] = 1593052054,
 			["Money"] = 829037446,
-			["RBGrating"] = 0,
-			["DailyResetTime"] = 1593356399,
+			["MaxXP"] = 893550,
+			["Skills"] = {
+			},
+			["MythicKey"] = {
+			},
+			["lastboss"] = "Lady Jaina Proudmoore: Mythic",
+			["BonusRoll"] = {
+				{
+					["name"] = "Waycrest Manor: Mythic Keystone",
+					["money"] = 750,
+					["costCurrencyID"] = 1580,
+					["time"] = 1586138679,
+					["currencyID"] = 1553,
+				}, -- [1]
+				{
+					["name"] = "N'Zoth the Corruptor: Heroic",
+					["money"] = 750,
+					["currencyID"] = 1553,
+					["time"] = 1583977038,
+					["costCurrencyID"] = 1580,
+				}, -- [2]
+				{
+					["time"] = 1582529953,
+					["name"] = "N'Zoth the Corruptor: Heroic",
+					["item"] = "|cffa335ee|Hitem:174533::::::::120:250::5:5:4823:6516:6515:1502:4786:::|h[Ring of Cosmic Potential]|h|r",
+					["costCurrencyID"] = 1580,
+				}, -- [3]
+				{
+					["time"] = 1581843573,
+					["name"] = "Kings' Rest: Mythic Keystone",
+					["item"] = "|cffa335ee|Hitem:159418::::::::120:252::16:5:6536:6516:6515:1637:4786:::|h[Girdle of Pestilent Purification]|h|r",
+					["costCurrencyID"] = 1580,
+				}, -- [4]
+				{
+					["time"] = 1581650372,
+					["name"] = "Il'gynoth: Heroic",
+					["item"] = "|cffa335ee|Hitem:174176::::::::120:252::5:5:4823:6516:6513:1502:4786:::|h[Sabatons of Malevolent Intent]|h|r",
+					["costCurrencyID"] = 1580,
+				}, -- [5]
+				{
+					["time"] = 1581643691,
+					["name"] = "Prophet Skitra: Heroic",
+					["item"] = "|cffa335ee|Hitem:174165::::::::120:252::5:4:4823:1502:4786:6509:::|h[Writhing Spaulders of Madness]|h|r",
+					["costCurrencyID"] = 1580,
+				}, -- [6]
+				{
+					["name"] = "Freehold: Mythic Keystone",
+					["money"] = 750,
+					["currencyID"] = 1553,
+					["time"] = 1581403489,
+					["costCurrencyID"] = 1580,
+				}, -- [7]
+				{
+					["name"] = "The MOTHERLODE!!: Mythic Keystone",
+					["money"] = 750,
+					["costCurrencyID"] = 1580,
+					["time"] = 1580780425,
+					["currencyID"] = 1553,
+				}, -- [8]
+				{
+					["item"] = "|cffa335ee|Hitem:159459::::::::120:252::16:3:5010:1602:4786:::|h[Ritual Binder's Ring]|h|r",
+					["time"] = 1578967052,
+					["name"] = "Kings' Rest: Mythic Keystone",
+					["costCurrencyID"] = 1580,
+				}, -- [9]
+			},
+			["PlayedLevel"] = 764080,
+			["IL"] = 477.125,
 			["Progress"] = {
 				{
-					["rewardAchieved"] = false,
-					["rewardWaiting"] = false,
-					["isComplete"] = false,
-					["numRequired"] = 500,
-					["numFulfilled"] = 35,
-					["unlocked"] = true,
 					["isFinish"] = false,
+					["isComplete"] = false,
+					["rewardWaiting"] = false,
+					["numFulfilled"] = 35,
+					["numRequired"] = 500,
+					["unlocked"] = true,
+					["rewardAchieved"] = false,
 				}, -- [1]
 				{
 					["numRequired"] = 36000,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 					["isComplete"] = false,
 					["unlocked"] = true,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 				}, -- [2]
 				{
 					false, -- [1]
@@ -136,82 +202,16 @@ SavedInstancesDB = {
 				{
 					[57728] = true,
 					[55350] = false,
+					[56064] = false,
 					[57008] = false,
-					[56308] = false,
 					[57157] = true,
 					["unlocked"] = true,
-					[56064] = false,
+					[56308] = false,
 				}, -- [4]
 			},
-			["lastboss"] = "Lady Jaina Proudmoore: Mythic",
-			["BonusRoll"] = {
-				{
-					["name"] = "Waycrest Manor: Mythic Keystone",
-					["money"] = 750,
-					["currencyID"] = 1553,
-					["time"] = 1586138679,
-					["costCurrencyID"] = 1580,
-				}, -- [1]
-				{
-					["name"] = "N'Zoth the Corruptor: Heroic",
-					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1583977038,
-					["currencyID"] = 1553,
-				}, -- [2]
-				{
-					["item"] = "|cffa335ee|Hitem:174533::::::::120:250::5:5:4823:6516:6515:1502:4786:::|h[Ring of Cosmic Potential]|h|r",
-					["time"] = 1582529953,
-					["name"] = "N'Zoth the Corruptor: Heroic",
-					["costCurrencyID"] = 1580,
-				}, -- [3]
-				{
-					["item"] = "|cffa335ee|Hitem:159418::::::::120:252::16:5:6536:6516:6515:1637:4786:::|h[Girdle of Pestilent Purification]|h|r",
-					["time"] = 1581843573,
-					["name"] = "Kings' Rest: Mythic Keystone",
-					["costCurrencyID"] = 1580,
-				}, -- [4]
-				{
-					["item"] = "|cffa335ee|Hitem:174176::::::::120:252::5:5:4823:6516:6513:1502:4786:::|h[Sabatons of Malevolent Intent]|h|r",
-					["time"] = 1581650372,
-					["name"] = "Il'gynoth: Heroic",
-					["costCurrencyID"] = 1580,
-				}, -- [5]
-				{
-					["item"] = "|cffa335ee|Hitem:174165::::::::120:252::5:4:4823:1502:4786:6509:::|h[Writhing Spaulders of Madness]|h|r",
-					["time"] = 1581643691,
-					["name"] = "Prophet Skitra: Heroic",
-					["costCurrencyID"] = 1580,
-				}, -- [6]
-				{
-					["name"] = "Freehold: Mythic Keystone",
-					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1581403489,
-					["currencyID"] = 1553,
-				}, -- [7]
-				{
-					["name"] = "The MOTHERLODE!!: Mythic Keystone",
-					["money"] = 750,
-					["currencyID"] = 1553,
-					["time"] = 1580780425,
-					["costCurrencyID"] = 1580,
-				}, -- [8]
-				{
-					["name"] = "Kings' Rest: Mythic Keystone",
-					["item"] = "|cffa335ee|Hitem:159459::::::::120:252::16:3:5010:1602:4786:::|h[Ritual Binder's Ring]|h|r",
-					["time"] = 1578967052,
-					["costCurrencyID"] = 1580,
-				}, -- [9]
-			},
-			["PlayedLevel"] = 764080,
-			["IL"] = 477.125,
-			["MythicKey"] = {
-			},
-			["Skills"] = {
-			},
-			["MaxXP"] = 893550,
-			["WeeklyResetTime"] = 1593529199,
+			["DailyResetTime"] = 1593442799,
+			["RBGrating"] = 0,
+			["LastSeen"] = 1593052108,
 		},
 		["Daggny - Frostwolf"] = {
 			["Paragon"] = {
@@ -221,25 +221,24 @@ SavedInstancesDB = {
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 			},
 			["Class"] = "MONK",
-			["LastSeen"] = 1581544007,
+			["oRace"] = "BloodElf",
 			["Emissary"] = {
 			},
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["currency"] = {
 				[824] = {
 					["totalMax"] = 10000,
@@ -261,9 +260,9 @@ SavedInstancesDB = {
 			},
 			["WeeklyResetTime"] = 1593529199,
 			["Warmode"] = false,
-			["LClass"] = "Monk",
-			["Level"] = 100,
 			["XP"] = 57901,
+			["Level"] = 100,
+			["LClass"] = "Monk",
 			["RBGrating"] = 0,
 			["MythicKey"] = {
 			},
@@ -273,20 +272,21 @@ SavedInstancesDB = {
 				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
 			},
-			["MaxXP"] = 492540,
-			["Money"] = 46394474,
-			["Order"] = 50,
-			["PlayedTotal"] = 1175372,
-			["Race"] = "Blood Elf",
-			["Show"] = "saved",
 			["Zone"] = "Frostwall",
+			["MaxXP"] = 492540,
+			["Order"] = 50,
+			["Race"] = "Blood Elf",
+			["PlayedTotal"] = 1175372,
+			["Show"] = "saved",
+			["Money"] = 46394474,
 			["PlayedLevel"] = 1053006,
 			["Faction"] = "Horde",
 			["ILe"] = 136.5625,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Quests"] = {
 			},
-			["oRace"] = "BloodElf",
+			["LastSeen"] = 1581544007,
 		},
 		["Tosku - Kil'jaeden"] = {
 			["lastbossyell"] = "Greeb Ramrocket",
@@ -297,13 +297,13 @@ SavedInstancesDB = {
 					["days"] = {
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [1]
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [2]
 						{
 							["questDone"] = 0,
@@ -330,17 +330,17 @@ SavedInstancesDB = {
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					["unlocked"] = false,
@@ -390,14 +390,15 @@ SavedInstancesDB = {
 				[1533] = {
 					["amount"] = 448,
 				},
-				[1501] = {
-					["amount"] = 4,
+				[1275] = {
+					["amount"] = 141,
 				},
 				[1226] = {
 					["amount"] = 8423,
 				},
-				[823] = {
-					["amount"] = 3,
+				[1149] = {
+					["totalMax"] = 5000,
+					["amount"] = 662,
 				},
 				[1166] = {
 					["amount"] = 1440,
@@ -406,12 +407,11 @@ SavedInstancesDB = {
 					["totalMax"] = 2000,
 					["amount"] = 440,
 				},
-				[1149] = {
-					["totalMax"] = 5000,
-					["amount"] = 662,
+				[823] = {
+					["amount"] = 3,
 				},
-				[1275] = {
-					["amount"] = 141,
+				[1501] = {
+					["amount"] = 4,
 				},
 			},
 			["Warmode"] = false,
@@ -422,22 +422,22 @@ SavedInstancesDB = {
 			["PlayedTotal"] = 3871139,
 			["lastbossyelltime"] = 1556091443,
 			["Money"] = 945448128,
-			["Order"] = 50,
-			["Zone"] = "Orgrimmar",
-			["Skills"] = {
-			},
-			["MythicKeyBest"] = {
-				["ResetTime"] = 1593529199,
-				["level"] = 0,
-				["WeeklyReward"] = true,
-				["LastWeekLevel"] = 16,
-			},
+			["RestXP"] = 806596,
+			["IL"] = 250.625,
+			["DailyResetTime"] = 1593442799,
+			["MaxXP"] = 537730,
 			["PlayedLevel"] = 3765310,
 			["oRace"] = "BloodElf",
-			["MaxXP"] = 537730,
-			["DailyResetTime"] = 1593356399,
-			["IL"] = 250.625,
-			["RestXP"] = 806596,
+			["MythicKeyBest"] = {
+				["LastWeekLevel"] = 16,
+				["level"] = 0,
+				["ResetTime"] = 1593529199,
+				["WeeklyReward"] = true,
+			},
+			["Skills"] = {
+			},
+			["Zone"] = "Orgrimmar",
+			["Order"] = 50,
 		},
 		["Toshpriest - Area 52"] = {
 			["lastbossyell"] = "Greeb Ramrocket",
@@ -460,17 +460,17 @@ SavedInstancesDB = {
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					["unlocked"] = false,
@@ -493,19 +493,19 @@ SavedInstancesDB = {
 			["RestXP"] = 228870,
 			["lastbossyelltime"] = 1587015360,
 			["MaxXP"] = 152580,
-			["Zone"] = "Orgrimmar",
-			["WeeklyResetTime"] = 1593529199,
-			["Skills"] = {
-			},
+			["Money"] = 7365,
+			["PlayedTotal"] = 44915,
+			["DailyResetTime"] = 1593442799,
 			["lastboss"] = "Aku'mai: Normal",
-			["MythicKey"] = {
-			},
+			["Order"] = 50,
 			["PlayedLevel"] = 5532,
 			["IL"] = 60.25,
-			["Order"] = 50,
-			["DailyResetTime"] = 1593356399,
-			["PlayedTotal"] = 44915,
-			["Money"] = 7365,
+			["MythicKey"] = {
+			},
+			["Skills"] = {
+			},
+			["WeeklyResetTime"] = 1593529199,
+			["Zone"] = "Orgrimmar",
 		},
 		["Yorman - Kil'jaeden"] = {
 			["lastbossyell"] = "Lady Jaina Proudmoore: Mythic",
@@ -516,13 +516,13 @@ SavedInstancesDB = {
 					["days"] = {
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [1]
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [2]
 						{
 							["questDone"] = 0,
@@ -536,13 +536,13 @@ SavedInstancesDB = {
 					["days"] = {
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [1]
 						{
 							["questDone"] = 0,
-							["isFinish"] = false,
 							["isComplete"] = false,
+							["isFinish"] = false,
 						}, -- [2]
 						{
 							["questDone"] = 0,
@@ -611,12 +611,11 @@ SavedInstancesDB = {
 				[1533] = {
 					["amount"] = 20,
 				},
-				[1220] = {
-					["amount"] = 2558,
+				[1275] = {
+					["amount"] = 57,
 				},
-				[994] = {
-					["totalMax"] = 20,
-					["amount"] = 1,
+				[1718] = {
+					["amount"] = 0,
 				},
 				[1226] = {
 					["amount"] = 1981,
@@ -633,11 +632,12 @@ SavedInstancesDB = {
 					["totalMax"] = 2000,
 					["amount"] = 1039,
 				},
-				[1718] = {
-					["amount"] = 0,
+				[994] = {
+					["totalMax"] = 20,
+					["amount"] = 1,
 				},
-				[1275] = {
-					["amount"] = 57,
+				[1220] = {
+					["amount"] = 2558,
 				},
 			},
 			["Warmode"] = false,
@@ -663,126 +663,23 @@ SavedInstancesDB = {
 			["PlayedTotal"] = 5765291,
 			["lastbossyelltime"] = 1593051027,
 			["MaxXP"] = 893550,
-			["oRace"] = "Tauren",
-			["Money"] = 109765250,
-			["DailyResetTime"] = 1593356399,
-			["lastboss"] = "Lady Jaina Proudmoore: Mythic",
-			["BonusRoll"] = {
-				{
-					["name"] = "Conclave of the Chosen: Mythic",
-					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1557894782,
-					["currencyID"] = 1553,
-				}, -- [1]
-				{
-					["name"] = "Shrine of the Storm: Mythic Keystone",
-					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1557620459,
-					["currencyID"] = 1553,
-				}, -- [2]
-				{
-					["time"] = 1555556449,
-					["name"] = "Jadefire Masters: Mythic",
-					["item"] = "|cffa335ee|Hitem:165565::::::::120:105::6:3:4800:1547:4783:::|h[Band of Multi-Sided Strikes]|h|r",
-					["costCurrencyID"] = 1580,
-				}, -- [3]
-				{
-					["name"] = "Grong: Mythic",
-					["money"] = 750,
-					["currencyID"] = 1553,
-					["time"] = 1555555584,
-					["costCurrencyID"] = 1580,
-				}, -- [4]
-				{
-					["name"] = "Jadefire Masters: Mythic",
-					["item"] = "|cffa335ee|Hitem:165516::::::::120:105::6:4:4824:1537:4786:5421:::|h[Mestrah's Singing Spaulders]|h|r",
-					["time"] = 1555372996,
-					["costCurrencyID"] = 1580,
-				}, -- [5]
-				{
-					["name"] = "Grong: Mythic",
-					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1555370653,
-					["currencyID"] = 1553,
-				}, -- [6]
-				{
-					["name"] = "Champion of the Light: Mythic",
-					["money"] = 750,
-					["currencyID"] = 1553,
-					["time"] = 1553137656,
-					["costCurrencyID"] = 1580,
-				}, -- [7]
-				{
-					["time"] = 1552803077,
-					["name"] = "Champion of the Light: Mythic",
-					["item"] = "|cffa335ee|Hitem:165569::::::::120:105::6:3:4800:1542:4783:::|h[Ward of Envelopment]|h|r",
-					["costCurrencyID"] = 1580,
-				}, -- [8]
-				{
-					["time"] = 1550614525,
-					["name"] = "Stormwall Blockade: Heroic",
-					["currencyID"] = 1553,
-				}, -- [9]
-				{
-					["time"] = 1550373818,
-					["name"] = "Conclave of the Chosen: Mythic",
-					["item"] = "|cffa335ee|Hitem:165512::::::::120:105::6:3:4800:1537:4786:::|h[Loa Exultant's Shroud]|h|r",
-				}, -- [10]
-				{
-					["name"] = "Opulence: Heroic",
-					["time"] = 1550368186,
-					["currencyID"] = 1553,
-				}, -- [11]
-				{
-					["name"] = "Grong: Heroic",
-					["time"] = 1550366347,
-					["currencyID"] = 1553,
-				}, -- [12]
-				{
-					["time"] = 1549254619,
-					["name"] = "Champion of the Light: Heroic",
-					["currencyID"] = 1553,
-				}, -- [13]
-				{
-					["time"] = 1549158872,
-					["name"] = "Opulence: Normal",
-					["currencyID"] = 1553,
-				}, -- [14]
-				{
-					["time"] = 1549157749,
-					["name"] = "Jadefire Masters: Normal",
-					["currencyID"] = 1553,
-				}, -- [15]
-			},
-			["PlayedLevel"] = 1466357,
-			["Zone"] = "Orgrimmar",
-			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 14,
-				["level"] = 0,
-				["ResetTime"] = 1593529199,
-				["WeeklyReward"] = false,
-			},
-			["Skills"] = {
-			},
+			["IL"] = 416.25,
 			["Progress"] = {
 				{
-					["isFinish"] = false,
-					["isComplete"] = false,
-					["rewardWaiting"] = false,
-					["numFulfilled"] = 0,
-					["numRequired"] = 500,
-					["unlocked"] = true,
 					["rewardAchieved"] = false,
+					["rewardWaiting"] = false,
+					["isComplete"] = false,
+					["numRequired"] = 500,
+					["numFulfilled"] = 0,
+					["unlocked"] = true,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["numRequired"] = 36000,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["isComplete"] = false,
 					["unlocked"] = true,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					false, -- [1]
@@ -798,14 +695,117 @@ SavedInstancesDB = {
 				{
 					[57728] = false,
 					[55350] = false,
-					[56064] = false,
+					[57008] = false,
 					[56308] = false,
 					[57157] = false,
 					["unlocked"] = false,
-					[57008] = false,
+					[56064] = false,
 				}, -- [4]
 			},
-			["IL"] = 416.25,
+			["Skills"] = {
+			},
+			["lastboss"] = "Lady Jaina Proudmoore: Mythic",
+			["BonusRoll"] = {
+				{
+					["name"] = "Conclave of the Chosen: Mythic",
+					["money"] = 750,
+					["currencyID"] = 1553,
+					["time"] = 1557894782,
+					["costCurrencyID"] = 1580,
+				}, -- [1]
+				{
+					["name"] = "Shrine of the Storm: Mythic Keystone",
+					["money"] = 750,
+					["currencyID"] = 1553,
+					["time"] = 1557620459,
+					["costCurrencyID"] = 1580,
+				}, -- [2]
+				{
+					["name"] = "Jadefire Masters: Mythic",
+					["item"] = "|cffa335ee|Hitem:165565::::::::120:105::6:3:4800:1547:4783:::|h[Band of Multi-Sided Strikes]|h|r",
+					["time"] = 1555556449,
+					["costCurrencyID"] = 1580,
+				}, -- [3]
+				{
+					["name"] = "Grong: Mythic",
+					["money"] = 750,
+					["costCurrencyID"] = 1580,
+					["time"] = 1555555584,
+					["currencyID"] = 1553,
+				}, -- [4]
+				{
+					["item"] = "|cffa335ee|Hitem:165516::::::::120:105::6:4:4824:1537:4786:5421:::|h[Mestrah's Singing Spaulders]|h|r",
+					["time"] = 1555372996,
+					["name"] = "Jadefire Masters: Mythic",
+					["costCurrencyID"] = 1580,
+				}, -- [5]
+				{
+					["name"] = "Grong: Mythic",
+					["money"] = 750,
+					["currencyID"] = 1553,
+					["time"] = 1555370653,
+					["costCurrencyID"] = 1580,
+				}, -- [6]
+				{
+					["name"] = "Champion of the Light: Mythic",
+					["money"] = 750,
+					["costCurrencyID"] = 1580,
+					["time"] = 1553137656,
+					["currencyID"] = 1553,
+				}, -- [7]
+				{
+					["name"] = "Champion of the Light: Mythic",
+					["item"] = "|cffa335ee|Hitem:165569::::::::120:105::6:3:4800:1542:4783:::|h[Ward of Envelopment]|h|r",
+					["time"] = 1552803077,
+					["costCurrencyID"] = 1580,
+				}, -- [8]
+				{
+					["name"] = "Stormwall Blockade: Heroic",
+					["time"] = 1550614525,
+					["currencyID"] = 1553,
+				}, -- [9]
+				{
+					["item"] = "|cffa335ee|Hitem:165512::::::::120:105::6:3:4800:1537:4786:::|h[Loa Exultant's Shroud]|h|r",
+					["time"] = 1550373818,
+					["name"] = "Conclave of the Chosen: Mythic",
+				}, -- [10]
+				{
+					["time"] = 1550368186,
+					["name"] = "Opulence: Heroic",
+					["currencyID"] = 1553,
+				}, -- [11]
+				{
+					["time"] = 1550366347,
+					["name"] = "Grong: Heroic",
+					["currencyID"] = 1553,
+				}, -- [12]
+				{
+					["name"] = "Champion of the Light: Heroic",
+					["time"] = 1549254619,
+					["currencyID"] = 1553,
+				}, -- [13]
+				{
+					["name"] = "Opulence: Normal",
+					["time"] = 1549158872,
+					["currencyID"] = 1553,
+				}, -- [14]
+				{
+					["name"] = "Jadefire Masters: Normal",
+					["time"] = 1549157749,
+					["currencyID"] = 1553,
+				}, -- [15]
+			},
+			["PlayedLevel"] = 1466357,
+			["MythicKeyBest"] = {
+				["WeeklyReward"] = false,
+				["level"] = 0,
+				["LastWeekLevel"] = 14,
+				["ResetTime"] = 1593529199,
+			},
+			["Zone"] = "Orgrimmar",
+			["DailyResetTime"] = 1593442799,
+			["Money"] = 109765250,
+			["oRace"] = "Tauren",
 		},
 		["Toshmoney - Greymane"] = {
 			["Paragon"] = {
@@ -815,17 +815,17 @@ SavedInstancesDB = {
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					["unlocked"] = false,
@@ -835,13 +835,11 @@ SavedInstancesDB = {
 				}, -- [4]
 			},
 			["Class"] = "PRIEST",
-			["Emissary"] = {
-			},
+			["IL"] = 0.3125,
 			["isResting"] = true,
 			["currency"] = {
 			},
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["Warmode"] = false,
 			["Order"] = 50,
 			["Level"] = 1,
@@ -857,18 +855,20 @@ SavedInstancesDB = {
 			["MythicKey"] = {
 			},
 			["MaxXP"] = 400,
-			["WeeklyResetTime"] = 1593529199,
+			["Money"] = 9900,
 			["Race"] = "Human",
 			["Zone"] = "Stormwind City",
 			["Show"] = "saved",
-			["Money"] = 9900,
+			["WeeklyResetTime"] = 1593529199,
 			["PlayedLevel"] = 331,
 			["Faction"] = "Alliance",
 			["ILe"] = 0.3125,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Quests"] = {
 			},
-			["IL"] = 0.3125,
+			["Emissary"] = {
+			},
 		},
 		["Zallie - Frostwolf"] = {
 			["Paragon"] = {
@@ -878,31 +878,30 @@ SavedInstancesDB = {
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 			},
 			["Class"] = "PRIEST",
-			["LastSeen"] = 1581544086,
+			["oRace"] = "BloodElf",
 			["Emissary"] = {
 			},
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["Race"] = "Blood Elf",
 			["IL"] = 127.25,
 			["Warmode"] = false,
-			["LClass"] = "Priest",
-			["Level"] = 90,
 			["XP"] = 0,
+			["Level"] = 90,
+			["LClass"] = "Priest",
 			["RBGrating"] = 0,
 			["MythicKey"] = {
 			},
@@ -912,13 +911,15 @@ SavedInstancesDB = {
 				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
 			},
+			["isResting"] = true,
 			["Money"] = 12158607,
-			["MaxXP"] = 406940,
 			["Order"] = 50,
-			["PlayedTotal"] = 5517290,
 			["currency"] = {
 				[416] = {
 					["amount"] = 8,
+				},
+				[241] = {
+					["amount"] = 22,
 				},
 				[391] = {
 					["amount"] = 6,
@@ -926,19 +927,18 @@ SavedInstancesDB = {
 				[738] = {
 					["amount"] = 168,
 				},
-				[241] = {
-					["amount"] = 22,
-				},
 			},
+			["PlayedTotal"] = 5517290,
 			["Show"] = "saved",
-			["isResting"] = true,
+			["MaxXP"] = 406940,
 			["PlayedLevel"] = 576343,
 			["Faction"] = "Horde",
 			["ILe"] = 127.25,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Quests"] = {
 			},
-			["oRace"] = "BloodElf",
+			["LastSeen"] = 1581544086,
 		},
 		["Toshpriest - Illidan"] = {
 			["Paragon"] = {
@@ -948,26 +948,25 @@ SavedInstancesDB = {
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 			},
 			["Class"] = "PRIEST",
-			["Order"] = 50,
+			["IL"] = 0.3125,
 			["isResting"] = false,
 			["currency"] = {
 			},
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["Warmode"] = false,
 			["Emissary"] = {
 			},
@@ -984,49 +983,50 @@ SavedInstancesDB = {
 			["MythicKey"] = {
 			},
 			["MaxXP"] = 400,
-			["oRace"] = "Goblin",
+			["Money"] = 0,
 			["Race"] = "Goblin",
 			["Zone"] = "Kezan",
 			["Show"] = "saved",
-			["Money"] = 0,
+			["oRace"] = "Goblin",
 			["PlayedLevel"] = 110,
 			["Faction"] = "Horde",
 			["ILe"] = 0.3125,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Quests"] = {
 			},
-			["IL"] = 0.3125,
+			["Order"] = 50,
 		},
 		["Toshpal - Area 52"] = {
-			["lastbossyell"] = "Bluearruwu: Mythic",
+			["lastbossyell"] = "King Mechagon: Mythic Keystone",
 			["isResting"] = true,
 			["Emissary"] = {
 				[6] = {
 					["unlocked"] = true,
 					["days"] = {
 						{
-							["questReward"] = {
-								["itemName"] = "Highmountain Tribute",
-								["itemLvl"] = 110,
-								["quality"] = 3,
-							},
+							["isComplete"] = false,
 							["questDone"] = 0,
 							["isFinish"] = false,
-							["isComplete"] = false,
-						}, -- [1]
-						{
 							["questReward"] = {
 								["itemName"] = "Gilded Trunk",
 								["itemLvl"] = 110,
 								["quality"] = 3,
 							},
+						}, -- [1]
+						{
+							["isComplete"] = false,
 							["questDone"] = 0,
 							["isFinish"] = false,
-							["isComplete"] = false,
+							["questReward"] = {
+								["itemName"] = "Nightfallen Hoard",
+								["itemLvl"] = 110,
+								["quality"] = 3,
+							},
 						}, -- [2]
 						{
 							["questReward"] = {
-								["itemName"] = "Nightfallen Hoard",
+								["itemName"] = "Warden's Field Kit",
 								["itemLvl"] = 110,
 								["quality"] = 3,
 							},
@@ -1040,27 +1040,27 @@ SavedInstancesDB = {
 					["unlocked"] = true,
 					["days"] = {
 						{
-							["questReward"] = {
-								["itemName"] = "Zandalari Weapons Cache",
-								["itemLvl"] = 445,
-								["quality"] = 4,
-							},
+							["isComplete"] = false,
 							["questDone"] = 0,
 							["isFinish"] = false,
-							["isComplete"] = false,
-						}, -- [1]
-						{
 							["questReward"] = {
 								["quantity"] = 35,
 								["currencyID"] = 1721,
 							},
+						}, -- [1]
+						{
+							["isComplete"] = false,
 							["questDone"] = 0,
 							["isFinish"] = false,
-							["isComplete"] = false,
+							["questReward"] = {
+								["itemName"] = "Azerite Armor Cache",
+								["itemLvl"] = 445,
+								["quality"] = 4,
+							},
 						}, -- [2]
 						{
 							["questReward"] = {
-								["itemName"] = "Azerite Armor Cache",
+								["itemName"] = "Honorbound Equipment Cache",
 								["itemLvl"] = 445,
 								["quality"] = 4,
 							},
@@ -1074,11 +1074,11 @@ SavedInstancesDB = {
 			["Race"] = "Zandalari Troll",
 			["LClass"] = "Paladin",
 			["RBGrating"] = 0,
-			["Artifact"] = "89 (17%)",
-			["lastbosstime"] = 1593318216,
+			["Artifact"] = "89 (18%)",
+			["lastbosstime"] = 1593379943,
 			["Show"] = "saved",
 			["Faction"] = "Horde",
-			["ILe"] = 477.25,
+			["ILe"] = 476.625,
 			["Quests"] = {
 			},
 			["Paragon"] = {
@@ -1116,21 +1116,21 @@ SavedInstancesDB = {
 				{
 					[57728] = false,
 					[55350] = false,
-					[56064] = false,
+					[57008] = true,
 					[56308] = false,
 					[57157] = true,
 					["unlocked"] = true,
-					[57008] = true,
+					[56064] = false,
 				}, -- [4]
 			},
 			["Class"] = "PALADIN",
 			["currency"] = {
-				[1803] = {
-					["amount"] = 2920,
-				},
 				[1755] = {
 					["relatedItemCount"] = 3,
 					["amount"] = 91572,
+				},
+				[1719] = {
+					["amount"] = 992,
 				},
 				[1299] = {
 					["totalMax"] = 5000,
@@ -1141,8 +1141,8 @@ SavedInstancesDB = {
 					["totalMax"] = 5,
 					["amount"] = 2,
 				},
-				[1719] = {
-					["amount"] = 992,
+				[1716] = {
+					["amount"] = 290,
 				},
 				[1273] = {
 					["weeklyMax"] = 3,
@@ -1153,11 +1153,11 @@ SavedInstancesDB = {
 					["totalMax"] = 10000,
 					["amount"] = 1300,
 				},
-				[1710] = {
-					["amount"] = 727,
+				[1803] = {
+					["amount"] = 3175,
 				},
-				[1716] = {
-					["amount"] = 290,
+				[1275] = {
+					["amount"] = 62,
 				},
 				[1155] = {
 					["totalMax"] = 1100,
@@ -1192,12 +1192,13 @@ SavedInstancesDB = {
 					["totalMax"] = 2000,
 					["amount"] = 847,
 				},
-				[1275] = {
-					["amount"] = 62,
+				[1710] = {
+					["amount"] = 727,
 				},
 			},
 			["Warmode"] = false,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Level"] = 120,
 			["Warfront"] = {
 				{
@@ -1216,89 +1217,94 @@ SavedInstancesDB = {
 				}, -- [2]
 			},
 			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 19,
-				["level"] = 0,
-				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
+				["level"] = 17,
+				["LastWeekLevel"] = 19,
+				["ResetTime"] = 1593529199,
 			},
-			["PlayedTotal"] = 6822999,
-			["LastSeen"] = 1593319833,
-			["lastbossyelltime"] = 1593318027,
-			["Money"] = 3831809241,
-			["Cloak"] = "Rank 15 (|cffffdf00+86|r)",
-			["Order"] = 50,
-			["lastboss"] = "Shad'har the Insatiable: Mythic",
+			["PlayedTotal"] = 6825182,
+			["WeeklyResetTime"] = 1593529199,
+			["lastbossyelltime"] = 1593379943,
+			["Money"] = 3832510039,
+			["MaxXP"] = 893550,
+			["MythicKey"] = {
+				["mapID"] = 246,
+				["name"] = "Tol Dagor",
+				["link"] = "|cffa335ee|Hkeystone:158923:246:17:10:8:12:120|h[Keystone: Tol Dagor (17)]|h|r",
+				["color"] = "ffa335ee",
+				["level"] = 17,
+				["ResetTime"] = 1593529199,
+			},
+			["lastboss"] = "King Mechagon: Mythic Keystone",
 			["BonusRoll"] = {
 				{
 					["name"] = "Dark Inquisitor Xanesh: Mythic",
 					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1593315941,
 					["currencyID"] = 1553,
+					["time"] = 1593315941,
+					["costCurrencyID"] = 1580,
 				}, -- [1]
 				{
 					["name"] = "Ra-den the Despoiled: Mythic",
 					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1593314077,
 					["currencyID"] = 1553,
+					["time"] = 1593314077,
+					["costCurrencyID"] = 1580,
 				}, -- [2]
 				{
 					["name"] = "Il'gynoth: Mythic",
 					["money"] = 750,
-					["currencyID"] = 1553,
-					["time"] = 1592631539,
 					["costCurrencyID"] = 1580,
+					["time"] = 1592631539,
+					["currencyID"] = 1553,
 				}, -- [3]
 				{
 					["name"] = "Il'gynoth: Mythic",
 					["money"] = 750,
-					["costCurrencyID"] = 1580,
-					["time"] = 1591417608,
 					["currencyID"] = 1553,
+					["time"] = 1591417608,
+					["costCurrencyID"] = 1580,
 				}, -- [4]
 				{
-					["time"] = 1591412837,
 					["name"] = "N'Zoth the Corruptor: Mythic",
 					["item"] = "|cffa335ee|Hitem:174103::::::::120:65::6:4:4824:6513:1517:4786:::|h[Manifesto of Madness]|h|r",
+					["time"] = 1591412837,
 					["costCurrencyID"] = 1580,
 				}, -- [5]
 				{
-					["time"] = 1590285720,
 					["name"] = "N'Zoth the Corruptor: Mythic",
 					["item"] = "|cffa335ee|Hitem:174277::::::::120:65::6:4:4824:6515:1517:4786:::|h[Lingering Psychic Shell]|h|r",
+					["time"] = 1590285720,
 					["costCurrencyID"] = 1580,
 				}, -- [6]
 			},
-			["PlayedLevel"] = 4639643,
+			["PlayedLevel"] = 4641826,
 			["IL"] = 484.125,
-			["MythicKey"] = {
-			},
-			["Skills"] = {
-			},
-			["MaxXP"] = 893550,
-			["WeeklyResetTime"] = 1593529199,
+			["Order"] = 50,
+			["DailyResetTime"] = 1593442799,
+			["Cloak"] = "Rank 15 (|cffffdf00+86|r)",
+			["LastSeen"] = 1593380429,
 		},
 		["Toshmoney - Quel'dorei"] = {
 			["Paragon"] = {
 			},
-			["Zone"] = "Orgrimmar",
+			["lastbossyell"] = "Snurk Bucksquick",
 			["IL"] = 12.5,
-			["isResting"] = true,
+			["Zone"] = "Orgrimmar",
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					["unlocked"] = false,
@@ -1309,40 +1315,40 @@ SavedInstancesDB = {
 			},
 			["Class"] = "WARLOCK",
 			["WeeklyResetTime"] = 1593529199,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["LastSeen"] = 1588222069,
 			["currency"] = {
 			},
 			["Order"] = 50,
 			["Warmode"] = false,
+			["MythicKey"] = {
+			},
+			["Level"] = 20,
+			["XP"] = 0,
+			["RBGrating"] = 0,
 			["MythicKeyBest"] = {
 				["level"] = 0,
 				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
 			},
-			["Level"] = 20,
-			["XP"] = 0,
-			["RBGrating"] = 0,
-			["MythicKey"] = {
-			},
 			["PlayedTotal"] = 250,
-			["LClass"] = "Warlock",
+			["Money"] = 10000,
 			["lastbossyelltime"] = 1588221958,
 			["MaxXP"] = 41260,
 			["oRace"] = "Vulpera",
-			["Race"] = "Vulpera",
 			["Emissary"] = {
 			},
+			["Race"] = "Vulpera",
 			["Show"] = "saved",
-			["Money"] = 10000,
+			["LClass"] = "Warlock",
 			["PlayedLevel"] = 250,
 			["Faction"] = "Horde",
 			["ILe"] = 12.5,
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["Quests"] = {
 			},
-			["lastbossyell"] = "Snurk Bucksquick",
+			["isResting"] = true,
 		},
 		["Toshpala - Illidan"] = {
 			["lastbossyell"] = "Greeb Ramrocket",
@@ -1373,30 +1379,24 @@ SavedInstancesDB = {
 			["PlayedTotal"] = 1295,
 			["lastbossyelltime"] = 1589699319,
 			["Money"] = 10000,
-			["MaxXP"] = 41260,
-			["MythicKeyBest"] = {
-				["level"] = 0,
-				["ResetTime"] = 1593529199,
-				["WeeklyReward"] = false,
+			["RestXP"] = 4310,
+			["LastSeen"] = 1589759777,
+			["Skills"] = {
 			},
-			["DailyResetTime"] = 1593356399,
-			["oRace"] = "ZandalariTroll",
-			["PlayedLevel"] = 1295,
-			["WeeklyResetTime"] = 1593529199,
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					["unlocked"] = false,
@@ -1405,10 +1405,16 @@ SavedInstancesDB = {
 					["unlocked"] = false,
 				}, -- [4]
 			},
-			["Skills"] = {
+			["PlayedLevel"] = 1295,
+			["WeeklyResetTime"] = 1593529199,
+			["oRace"] = "ZandalariTroll",
+			["DailyResetTime"] = 1593442799,
+			["MythicKeyBest"] = {
+				["level"] = 0,
+				["ResetTime"] = 1593529199,
+				["WeeklyReward"] = false,
 			},
-			["LastSeen"] = 1589759777,
-			["RestXP"] = 4310,
+			["MaxXP"] = 41260,
 		},
 		["Tosh - Frostwolf"] = {
 			["Paragon"] = {
@@ -1417,31 +1423,30 @@ SavedInstancesDB = {
 			["Zone"] = "Orgrimmar",
 			["Order"] = 50,
 			["Class"] = "ROGUE",
-			["IL"] = 136.4375,
+			["LastSeen"] = 1581544047,
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 			},
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["Race"] = "Blood Elf",
 			["oRace"] = "BloodElf",
 			["Warmode"] = false,
-			["LClass"] = "Rogue",
-			["Level"] = 100,
 			["XP"] = 3427,
+			["Level"] = 100,
+			["LClass"] = "Rogue",
 			["RBGrating"] = 0,
 			["MythicKey"] = {
 			},
@@ -1451,10 +1456,11 @@ SavedInstancesDB = {
 				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
 			},
-			["isResting"] = true,
+			["MaxXP"] = 492540,
 			["Money"] = 14489391,
 			["Emissary"] = {
 			},
+			["RestXP"] = 738810,
 			["currency"] = {
 				[824] = {
 					["totalMax"] = 10000,
@@ -1468,16 +1474,16 @@ SavedInstancesDB = {
 					["amount"] = 1,
 				},
 			},
-			["RestXP"] = 738810,
 			["Show"] = "saved",
-			["MaxXP"] = 492540,
+			["isResting"] = true,
 			["PlayedLevel"] = 111348,
 			["Faction"] = "Horde",
 			["ILe"] = 136.4375,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Quests"] = {
 			},
-			["LastSeen"] = 1581544047,
+			["IL"] = 136.4375,
 		},
 		["Koutetsu - Frostwolf"] = {
 			["Paragon"] = {
@@ -1487,26 +1493,25 @@ SavedInstancesDB = {
 			["Emissary"] = {
 			},
 			["Class"] = "SHAMAN",
-			["WeeklyResetTime"] = 1593529199,
+			["isResting"] = false,
 			["Order"] = 50,
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["currency"] = {
+				[777] = {
+					["amount"] = 100,
+				},
 				[391] = {
 					["amount"] = 25,
 				},
 				[241] = {
 					["amount"] = 55,
 				},
-				[777] = {
-					["amount"] = 100,
-				},
 			},
 			["oRace"] = "Troll",
 			["Warmode"] = false,
-			["LClass"] = "Shaman",
-			["Level"] = 90,
 			["XP"] = 0,
+			["Level"] = 90,
+			["LClass"] = "Shaman",
 			["RBGrating"] = 0,
 			["MythicKeyBest"] = {
 				["level"] = 0,
@@ -1516,35 +1521,36 @@ SavedInstancesDB = {
 			["RestXP"] = 610410,
 			["MythicKey"] = {
 			},
-			["LastSeen"] = 1581544142,
+			["MaxXP"] = 406940,
 			["Money"] = 17444885,
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 			},
-			["Race"] = "Troll",
 			["PlayedTotal"] = 5543517,
+			["Race"] = "Troll",
 			["Show"] = "saved",
-			["MaxXP"] = 406940,
+			["LastSeen"] = 1581544142,
 			["PlayedLevel"] = 31526,
 			["Faction"] = "Horde",
 			["ILe"] = 114.5,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Quests"] = {
 			},
-			["isResting"] = false,
+			["WeeklyResetTime"] = 1593529199,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["Paragon"] = {
@@ -1553,17 +1559,18 @@ SavedInstancesDB = {
 			["LastSeen"] = 1591911643,
 			["Order"] = 50,
 			["Class"] = "PRIEST",
-			["isResting"] = true,
+			["oRace"] = "Vulpera",
 			["Emissary"] = {
 			},
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["currency"] = {
 			},
 			["WeeklyResetTime"] = 1593529199,
 			["Warmode"] = false,
-			["LClass"] = "Priest",
-			["Level"] = 20,
 			["XP"] = 0,
+			["Level"] = 20,
+			["LClass"] = "Priest",
 			["RBGrating"] = 0,
 			["MythicKey"] = {
 			},
@@ -1573,22 +1580,22 @@ SavedInstancesDB = {
 				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
 			},
+			["Zone"] = "Orgrimmar",
 			["Money"] = 28500010000,
-			["MaxXP"] = 41260,
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					["unlocked"] = false,
@@ -1597,39 +1604,38 @@ SavedInstancesDB = {
 					["unlocked"] = false,
 				}, -- [4]
 			},
-			["PlayedTotal"] = 592,
 			["Race"] = "Vulpera",
+			["PlayedTotal"] = 592,
 			["Show"] = "saved",
-			["Zone"] = "Orgrimmar",
+			["MaxXP"] = 41260,
 			["PlayedLevel"] = 592,
 			["Faction"] = "Horde",
 			["ILe"] = 12.5,
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["Quests"] = {
 			},
-			["oRace"] = "Vulpera",
+			["isResting"] = true,
 		},
 		["Toshaman - Area 52"] = {
 			["Paragon"] = {
 			},
-			["lastbossyell"] = "Kaja'Cola Balloon",
+			["isResting"] = false,
 			["IL"] = 0.3125,
 			["Zone"] = "Kezan",
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 				{
 					["unlocked"] = false,
@@ -1640,40 +1646,40 @@ SavedInstancesDB = {
 			},
 			["Class"] = "SHAMAN",
 			["WeeklyResetTime"] = 1593529199,
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["LastSeen"] = 1587014587,
 			["currency"] = {
 			},
 			["Order"] = 50,
 			["Warmode"] = false,
-			["MythicKey"] = {
-			},
-			["Level"] = 1,
-			["XP"] = 0,
-			["RBGrating"] = 0,
 			["MythicKeyBest"] = {
 				["level"] = 0,
 				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
 			},
+			["Level"] = 1,
+			["XP"] = 0,
+			["RBGrating"] = 0,
+			["MythicKey"] = {
+			},
 			["PlayedTotal"] = 60,
-			["Money"] = 0,
+			["LClass"] = "Shaman",
 			["lastbossyelltime"] = 1587014570,
-			["MaxXP"] = 400,
+			["Money"] = 0,
 			["oRace"] = "Goblin",
+			["Race"] = "Goblin",
 			["Emissary"] = {
 			},
-			["Race"] = "Goblin",
 			["Show"] = "saved",
-			["LClass"] = "Shaman",
+			["MaxXP"] = 400,
 			["PlayedLevel"] = 60,
 			["Faction"] = "Horde",
 			["ILe"] = 0.3125,
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Quests"] = {
 			},
-			["isResting"] = false,
+			["lastbossyell"] = "Kaja'Cola Balloon",
 		},
 		["Sumex - Frostwolf"] = {
 			["Paragon"] = {
@@ -1682,30 +1688,31 @@ SavedInstancesDB = {
 			["Zone"] = "Shrine of Two Moons",
 			["Order"] = 50,
 			["Class"] = "DEATHKNIGHT",
-			["LastSeen"] = 1581544180,
+			["IL"] = 117,
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 			},
-			["DailyResetTime"] = 1593356399,
+			["Skills"] = {
+			},
 			["Race"] = "Orc",
 			["oRace"] = "Orc",
 			["Warmode"] = false,
-			["XP"] = 0,
-			["Level"] = 90,
 			["LClass"] = "Death Knight",
+			["Level"] = 90,
+			["XP"] = 0,
 			["RBGrating"] = 0,
 			["MythicKey"] = {
 			},
@@ -1715,32 +1722,31 @@ SavedInstancesDB = {
 				["ResetTime"] = 1593529199,
 				["WeeklyReward"] = false,
 			},
+			["isResting"] = true,
 			["MaxXP"] = 406940,
-			["Money"] = 12828366,
 			["Emissary"] = {
 			},
-			["RestXP"] = 610410,
 			["currency"] = {
+				[738] = {
+					["amount"] = 2,
+				},
 				[391] = {
 					["amount"] = 6,
 				},
 				[777] = {
 					["amount"] = 6059,
 				},
-				[738] = {
-					["amount"] = 2,
-				},
 			},
+			["RestXP"] = 610410,
 			["Show"] = "saved",
-			["isResting"] = true,
+			["Money"] = 12828366,
 			["PlayedLevel"] = 46476,
 			["Faction"] = "Horde",
 			["ILe"] = 117,
-			["Skills"] = {
-			},
+			["DailyResetTime"] = 1593442799,
 			["Quests"] = {
 			},
-			["IL"] = 117,
+			["LastSeen"] = 1581544180,
 		},
 		["Toshwar - Kil'jaeden"] = {
 			["lastbossyell"] = "Greeb Ramrocket",
@@ -1774,132 +1780,33 @@ SavedInstancesDB = {
 			["PlayedTotal"] = 2228,
 			["lastbossyelltime"] = 1583814122,
 			["Money"] = 10250,
-			["RestXP"] = 18218,
-			["IL"] = 21.25,
-			["DailyResetTime"] = 1593356399,
-			["oRace"] = "ZandalariTroll",
-			["PlayedLevel"] = 2228,
-			["Zone"] = "Orgrimmar",
-			["MythicKey"] = {
-			},
-			["Skills"] = {
-			},
+			["MaxXP"] = 41260,
 			["Progress"] = {
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 500,
 					["numRequired"] = 500,
 					["unlocked"] = false,
-					["numFulfilled"] = 500,
+					["isFinish"] = false,
 				}, -- [1]
 				{
 					["isComplete"] = false,
-					["isFinish"] = false,
+					["numFulfilled"] = 0,
 					["numRequired"] = 36000,
 					["unlocked"] = false,
-					["numFulfilled"] = 0,
+					["isFinish"] = false,
 				}, -- [2]
 			},
-			["MaxXP"] = 41260,
-		},
-	},
-	["spelltip"] = {
-		[194958] = {
-		},
-		[26013] = {
-		},
-		[71041] = {
-		},
-	},
-	["Emissary"] = {
-		["Expansion"] = {
-			[6] = {
-				{
-					["questID"] = {
-						["Horde"] = 42233,
-						["Alliance"] = 42233,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1593356480,
-				}, -- [1]
-				{
-					["questID"] = {
-						["Horde"] = 48639,
-						["Alliance"] = 48639,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1593442880,
-				}, -- [2]
-				{
-					["questID"] = {
-						["Horde"] = 42421,
-						["Alliance"] = 42421,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1593529280,
-				}, -- [3]
-				{
-					["questID"] = {
-						["Horde"] = 48639,
-						["Alliance"] = 48639,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1587740479,
-				}, -- [4]
+			["Skills"] = {
 			},
-			[7] = {
-				{
-					["questID"] = {
-						["Horde"] = 50598,
-						["Alliance"] = 50599,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1593356480,
-				}, -- [1]
-				{
-					["questID"] = {
-						["Horde"] = 56120,
-						["Alliance"] = 56119,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1593442880,
-				}, -- [2]
-				{
-					["questID"] = {
-						["Horde"] = 50602,
-						["Alliance"] = 50601,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1593529280,
-				}, -- [3]
-				{
-					["questID"] = {
-						["Horde"] = 50598,
-						["Alliance"] = 50599,
-					},
-					["questNeed"] = 4,
-					["expiredTime"] = 1587740479,
-				}, -- [4]
+			["MythicKey"] = {
 			},
-		},
-		["Cache"] = {
-			[43179] = "The Kirin Tor of Dalaran",
-			[48639] = "Army of the Light",
-			[50562] = "Champions of Azeroth",
-			[48641] = "Armies of Legionfall",
-			[48642] = "Argussian Reach",
-			[50598] = "Zandalari Empire",
-			[50604] = "Tortollan Seekers",
-			[42234] = "The Valarjar",
-			[50606] = "Horde War Effort",
-			[42170] = "The Dreamweavers",
-			[50603] = "Voldunai",
-			[42420] = "Court of Farondis",
-			[42421] = "The Nightfallen",
-			[42422] = "The Wardens",
-			[42233] = "Highmountain Tribes",
-			[50602] = "Talanji's Expedition",
-			[56120] = "The Unshackled",
+			["PlayedLevel"] = 2228,
+			["Zone"] = "Orgrimmar",
+			["oRace"] = "ZandalariTroll",
+			["DailyResetTime"] = 1593442799,
+			["IL"] = 21.25,
+			["RestXP"] = 18218,
 		},
 	},
 	["Tooltip"] = {
@@ -1920,7 +1827,7 @@ SavedInstancesDB = {
 		["ServerSort"] = true,
 		["ReverseInstances"] = false,
 		["CurrencyMax"] = false,
-		["Currency1587"] = true,
+		["Currency1721"] = false,
 		["ReportResets"] = true,
 		["Currency1560"] = true,
 		["CategorySort"] = "EXPANSION",
@@ -1931,9 +1838,9 @@ SavedInstancesDB = {
 		["EmissaryShowCompleted"] = true,
 		["RaidsFirst"] = true,
 		["posy"] = 100.408935546875,
-		["TrackDeserter"] = true,
-		["Progress5"] = true,
-		["Emissary7"] = true,
+		["Currency1717"] = false,
+		["ShowHints"] = true,
+		["Scale"] = 1,
 		["SelfAlways"] = false,
 		["Currency1755"] = true,
 		["CurrencyValueColor"] = true,
@@ -1944,30 +1851,129 @@ SavedInstancesDB = {
 		["LimitWarn"] = true,
 		["RowHighlight"] = 0.1,
 		["AbbreviateKeystone"] = true,
-		["CategorySpaces"] = false,
+		["MythicKeyBest"] = true,
 		["TrackLFG"] = true,
-		["Currency1710"] = true,
+		["ShowHoliday"] = true,
 		["Currency1719"] = true,
-		["TrackPlayed"] = true,
+		["ConnectedRealms"] = "group",
 		["Currency1580"] = true,
-		["CombineLFR"] = true,
-		["ShowExpired"] = false,
-		["SelfFirst"] = true,
-		["Warfront2"] = true,
-		["Scale"] = 1,
+		["TrackPlayed"] = true,
+		["AugmentBonus"] = true,
+		["Emissary7"] = true,
+		["CurrencyEarned"] = true,
+		["TrackWeeklyQuests"] = true,
 		["NewFirst"] = true,
 		["FitToScreen"] = true,
 		["Progress4"] = true,
-		["TrackWeeklyQuests"] = true,
-		["CurrencyEarned"] = true,
-		["ShowHints"] = true,
-		["Currency1721"] = false,
-		["AugmentBonus"] = true,
+		["Warfront2"] = true,
+		["SelfFirst"] = true,
+		["ShowExpired"] = false,
+		["Currency1587"] = true,
+		["CombineLFR"] = true,
 		["TrackSkills"] = true,
-		["ConnectedRealms"] = "group",
-		["ShowHoliday"] = true,
-		["Currency1717"] = false,
-		["MythicKeyBest"] = true,
+		["Currency1710"] = true,
+		["CategorySpaces"] = false,
+		["Progress5"] = true,
+		["TrackDeserter"] = true,
+	},
+	["Emissary"] = {
+		["Cache"] = {
+			[43179] = "The Kirin Tor of Dalaran",
+			[48639] = "Army of the Light",
+			[50562] = "Champions of Azeroth",
+			[48641] = "Armies of Legionfall",
+			[48642] = "Argussian Reach",
+			[50598] = "Zandalari Empire",
+			[56120] = "The Unshackled",
+			[50602] = "Talanji's Expedition",
+			[42233] = "Highmountain Tribes",
+			[42170] = "The Dreamweavers",
+			[50603] = "Voldunai",
+			[50604] = "Tortollan Seekers",
+			[42421] = "The Nightfallen",
+			[50606] = "Horde War Effort",
+			[42422] = "The Wardens",
+			[42420] = "Court of Farondis",
+			[42234] = "The Valarjar",
+		},
+		["Expansion"] = {
+			[6] = {
+				{
+					["questID"] = {
+						["Horde"] = 48639,
+						["Alliance"] = 48639,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1593442892,
+				}, -- [1]
+				{
+					["questID"] = {
+						["Horde"] = 42421,
+						["Alliance"] = 42421,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1593529292,
+				}, -- [2]
+				{
+					["questID"] = {
+						["Horde"] = 42422,
+						["Alliance"] = 42422,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1593615692,
+				}, -- [3]
+				{
+					["questID"] = {
+						["Horde"] = 48639,
+						["Alliance"] = 48639,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1587740479,
+				}, -- [4]
+			},
+			[7] = {
+				{
+					["questID"] = {
+						["Horde"] = 56120,
+						["Alliance"] = 56119,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1593442832,
+				}, -- [1]
+				{
+					["questID"] = {
+						["Horde"] = 50602,
+						["Alliance"] = 50601,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1593529232,
+				}, -- [2]
+				{
+					["questID"] = {
+						["Horde"] = 50606,
+						["Alliance"] = 50605,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1593615632,
+				}, -- [3]
+				{
+					["questID"] = {
+						["Horde"] = 50598,
+						["Alliance"] = 50599,
+					},
+					["questNeed"] = 4,
+					["expiredTime"] = 1587740479,
+				}, -- [4]
+			},
+		},
+	},
+	["spelltip"] = {
+		[194958] = {
+		},
+		[71041] = {
+		},
+		[26013] = {
+		},
 	},
 	["Indicators"] = {
 		["R2ClassColor"] = true,
@@ -2000,46 +2006,46 @@ SavedInstancesDB = {
 			0, -- [3]
 		},
 		["D1Text"] = "KILLED/TOTAL",
-		["R5Text"] = "KILLED/TOTAL",
-		["R7Text"] = "KILLED/TOTALH",
+		["R0ClassColor"] = true,
+		["D1Indicator"] = "BLANK",
 		["R1ClassColor"] = true,
+		["R2Indicator"] = "BLANK",
 		["D3Indicator"] = "BLANK",
-		["R8Color"] = {
-			1, -- [1]
-			0, -- [2]
-			0, -- [3]
-		},
 		["D3ClassColor"] = true,
-		["R6Indicator"] = "BLANK",
+		["D3Text"] = "KILLED/TOTALM",
 		["R6Color"] = {
 			0, -- [1]
 			1, -- [2]
 			0, -- [3]
 		},
-		["D1Color"] = {
-			0, -- [1]
-			0.6, -- [2]
-			0, -- [3]
-		},
+		["D2Text"] = "KILLED/TOTALH",
 		["R4Color"] = {
 			1, -- [1]
 			0, -- [2]
 			0, -- [3]
 		},
+		["R2Text"] = "KILLED/TOTAL",
 		["R8Text"] = "KILLED/TOTALM",
-		["R7Indicator"] = "BLANK",
-		["R8Indicator"] = "BLANK",
+		["D3Color"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
 		["R0Text"] = "KILLED/TOTAL",
 		["R0Color"] = {
 			0.6, -- [1]
 			0.6, -- [2]
 			0, -- [3]
 		},
+		["R2Color"] = {
+			0.6, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
 		["R6Text"] = "KILLED/TOTAL",
-		["R1Indicator"] = "BLANK",
 		["R3Indicator"] = "BLANK",
 		["R7ClassColor"] = true,
-		["R5Indicator"] = "BLANK",
+		["R3Text"] = "KILLED/TOTALH",
 		["D1ClassColor"] = true,
 		["R4Text"] = "KILLED/TOTALH",
 		["R3Color"] = {
@@ -2048,32 +2054,32 @@ SavedInstancesDB = {
 			0, -- [3]
 		},
 		["R3ClassColor"] = true,
-		["R3Text"] = "KILLED/TOTALH",
+		["R5Indicator"] = "BLANK",
 		["R5ClassColor"] = true,
-		["R2Color"] = {
-			0.6, -- [1]
-			0, -- [2]
+		["R1Indicator"] = "BLANK",
+		["R8Indicator"] = "BLANK",
+		["R7Indicator"] = "BLANK",
+		["D1Color"] = {
+			0, -- [1]
+			0.6, -- [2]
 			0, -- [3]
 		},
-		["D3Color"] = {
+		["R6Indicator"] = "BLANK",
+		["R8Color"] = {
 			1, -- [1]
 			0, -- [2]
 			0, -- [3]
 		},
-		["R2Text"] = "KILLED/TOTAL",
-		["D2Text"] = "KILLED/TOTALH",
-		["D3Text"] = "KILLED/TOTALM",
-		["R2Indicator"] = "BLANK",
-		["D1Indicator"] = "BLANK",
-		["R0ClassColor"] = true,
+		["R7Text"] = "KILLED/TOTALH",
+		["R5Text"] = "KILLED/TOTAL",
 	},
 	["Instances"] = {
 		["Mogu'shan Palace"] = {
 			["LFDID"] = 1467,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Rukhmar"] = {
 			["Show"] = "saved",
@@ -2085,45 +2091,45 @@ SavedInstancesDB = {
 		["Icecrown Citadel"] = {
 			["LFDID"] = 280,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Ashran"] = {
 			["LFDID"] = 1127,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Jorundall"] = {
 			["LFDID"] = 2041,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 120,
-			["Show"] = "saved",
 		},
 		["Random Timewalking Dungeon (Warlords of Draenor)"] = {
-			["LFDID"] = 1971,
-			["Expansion"] = 5,
 			["Show"] = "saved",
-			["Random"] = true,
-			["RecLevel"] = 0,
+			["Expansion"] = 5,
+			["LFDID"] = 1971,
 			["Holiday"] = true,
+			["RecLevel"] = 0,
+			["Random"] = true,
 			["Raid"] = false,
 		},
 		["Random Legion Heroic"] = {
-			["LFDID"] = 1046,
-			["Expansion"] = 6,
 			["Show"] = "saved",
+			["Expansion"] = 6,
+			["LFDID"] = 1046,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 110,
 		},
 		["Random Lich King Dungeon"] = {
-			["LFDID"] = 261,
-			["Expansion"] = 2,
 			["Show"] = "saved",
+			["Expansion"] = 2,
+			["LFDID"] = 261,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 80,
@@ -2131,92 +2137,92 @@ SavedInstancesDB = {
 		["The Eye of Eternity"] = {
 			["LFDID"] = 237,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["The Everbloom"] = {
 			["LFDID"] = 1972,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Upper Return to Karazhan"] = {
 			["LFDID"] = 1474,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["The Escape from Durnholde"] = {
 			["LFDID"] = 183,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["Karazhan"] = {
 			["LFDID"] = 175,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["The Headless Horseman"] = {
 			["Show"] = "saved",
 			["Expansion"] = 0,
-			["RecLevel"] = 110,
-			["Raid"] = false,
-			["Holiday"] = true,
 			["LFDID"] = 285,
+			["RecLevel"] = 110,
+			["Holiday"] = true,
+			["Raid"] = false,
 		},
 		["Hour of Twilight"] = {
 			["LFDID"] = 439,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["RecLevel"] = 85,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["The Vortex Pinnacle"] = {
 			["LFDID"] = 1147,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["LFR: Forgotten Depths"] = {
 			["LFDID"] = 836,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Ahn'Qiraj Temple"] = {
 			["LFDID"] = 161,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 60,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Blackwing Lair"] = {
 			["LFDID"] = 50,
 			["Expansion"] = 0,
-			["Show"] = "saved",
-			["Raid"] = true,
 			["RecLevel"] = 60,
+			["Raid"] = true,
+			["Show"] = "saved",
 		},
 		["Stormwind Stockade"] = {
 			["LFDID"] = 12,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Random Mists of Pandaria Dungeon"] = {
-			["LFDID"] = 463,
-			["Expansion"] = 4,
 			["Show"] = "saved",
+			["Expansion"] = 4,
+			["LFDID"] = 463,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 0,
@@ -2224,50 +2230,50 @@ SavedInstancesDB = {
 		["LFR: The Circle of Stars"] = {
 			["LFDID"] = 2011,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
 			["Raid"] = true,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
 		},
 		["Coren Direbrew"] = {
 			["Show"] = "saved",
 			["Expansion"] = 0,
-			["RecLevel"] = 110,
-			["Raid"] = false,
-			["Holiday"] = true,
 			["LFDID"] = 287,
+			["RecLevel"] = 110,
+			["Holiday"] = true,
+			["Raid"] = false,
 		},
 		["LFR: Might of the Alliance"] = {
 			["LFDID"] = 1947,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["RecLevel"] = 120,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Operation: Mechagon - Workshop"] = {
 			["LFDID"] = 2028,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 120,
-			["Show"] = "saved",
 		},
 		["Maw of Souls"] = {
 			["LFDID"] = 1192,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 110,
-			["Show"] = "saved",
 		},
 		["Throne of Thunder"] = {
 			["LFDID"] = 634,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Random Cataclysm Heroic"] = {
-			["LFDID"] = 301,
-			["Expansion"] = 3,
 			["Show"] = "saved",
+			["Expansion"] = 3,
+			["LFDID"] = 301,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 0,
@@ -2275,31 +2281,31 @@ SavedInstancesDB = {
 		["LFR: Arcing Aqueducts"] = {
 			["LFDID"] = 1925,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Darkheart Thicket"] = {
 			["LFDID"] = 1202,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
 		["Naxxramas"] = {
 			["LFDID"] = 227,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Random Timewalking Dungeon (Burning Crusade)"] = {
-			["LFDID"] = 744,
-			["Expansion"] = 1,
 			["Show"] = "saved",
-			["Random"] = true,
-			["RecLevel"] = 0,
+			["Expansion"] = 1,
+			["LFDID"] = 744,
 			["Holiday"] = true,
+			["RecLevel"] = 0,
+			["Random"] = true,
 			["Raid"] = false,
 		},
 		["Oondasta"] = {
@@ -2312,65 +2318,65 @@ SavedInstancesDB = {
 		["Wailing Caverns"] = {
 			["LFDID"] = 1,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Stormstout Brewery"] = {
 			["LFDID"] = 1466,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Molten Core"] = {
 			["LFDID"] = 48,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 60,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["LFR: Chamber of the Avatar"] = {
 			["LFDID"] = 1918,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Freehold"] = {
 			["LFDID"] = 1773,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["LFR: Wailing Halls"] = {
 			["LFDID"] = 1919,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["LFR: The Siege of Wyrmrest Temple"] = {
 			["LFDID"] = 843,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["LFR: Fall of Deathwing"] = {
 			["LFDID"] = 844,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["Violet Hold"] = {
 			["LFDID"] = 221,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Na'zak the Fiend"] = {
 			["Show"] = "saved",
@@ -2387,9 +2393,9 @@ SavedInstancesDB = {
 			["Raid"] = true,
 		},
 		["Random Warlords of Draenor Heroic"] = {
-			["LFDID"] = 789,
-			["Expansion"] = 5,
 			["Show"] = "saved",
+			["Expansion"] = 5,
+			["LFDID"] = 789,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 0,
@@ -2397,38 +2403,38 @@ SavedInstancesDB = {
 		["Tol Dagor"] = {
 			["LFDID"] = 1778,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["Raid"] = false,
 			["RecLevel"] = 115,
+			["Raid"] = false,
+			["Show"] = "saved",
 		},
 		["Blackfathom Deeps"] = {
 			["LFDID"] = 10,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Grand Ambassador Flamelash"] = {
 			["Show"] = "saved",
 			["Expansion"] = 0,
-			["RecLevel"] = 80,
-			["Raid"] = false,
-			["Holiday"] = true,
 			["LFDID"] = 308,
+			["RecLevel"] = 80,
+			["Holiday"] = true,
+			["Raid"] = false,
 		},
 		["Serpentshrine Cavern"] = {
 			["LFDID"] = 194,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["RecLevel"] = 70,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Terrace of Endless Spring"] = {
 			["LFDID"] = 536,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Hailstone Construct"] = {
 			["Show"] = "saved",
@@ -2438,9 +2444,9 @@ SavedInstancesDB = {
 			["RecLevel"] = 120,
 		},
 		["Random Dungeon (Battle for Azeroth)"] = {
-			["LFDID"] = 1670,
-			["Expansion"] = 7,
 			["Show"] = "saved",
+			["Expansion"] = 7,
+			["LFDID"] = 1670,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 0,
@@ -2448,16 +2454,16 @@ SavedInstancesDB = {
 		["Temple of Sethraliss"] = {
 			["LFDID"] = 1775,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["Raid"] = false,
 			["RecLevel"] = 110,
+			["Raid"] = false,
+			["Show"] = "saved",
 		},
 		["LFR: Depths of the Devoted"] = {
 			["LFDID"] = 2010,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
 			["Raid"] = true,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
 		},
 		["Brutallus"] = {
 			["Show"] = "saved",
@@ -2469,17 +2475,17 @@ SavedInstancesDB = {
 		["Skyreach"] = {
 			["LFDID"] = 1977,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["RecLevel"] = 90,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Timewalking Raid: Black Temple"] = {
 			["Show"] = "saved",
 			["Expansion"] = 1,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-			["Holiday"] = true,
 			["LFDID"] = 1533,
+			["RecLevel"] = 110,
+			["Holiday"] = true,
+			["Raid"] = true,
 		},
 		["Drugon the Frostblood"] = {
 			["Show"] = "saved",
@@ -2498,85 +2504,85 @@ SavedInstancesDB = {
 		["Tomb of Sargeras"] = {
 			["LFDID"] = 1527,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 110,
-			["Show"] = "saved",
 		},
 		["Trial of Valor"] = {
 			["LFDID"] = 1439,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 109,
-			["Show"] = "saved",
 		},
 		["LFR: Pinnacle of Storms"] = {
 			["LFDID"] = 838,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Utgarde Keep"] = {
 			["LFDID"] = 242,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["The Frost Lord Ahune"] = {
 			["Show"] = "saved",
 			["Expansion"] = 0,
-			["RecLevel"] = 110,
-			["Raid"] = false,
-			["Holiday"] = true,
 			["LFDID"] = 286,
+			["RecLevel"] = 110,
+			["Holiday"] = true,
+			["Raid"] = false,
 		},
 		["LFR: Siege of Dazar'alor"] = {
 			["LFDID"] = 1945,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["RecLevel"] = 120,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Dire Maul - Gordok Commons"] = {
 			["LFDID"] = 38,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Utgarde Pinnacle"] = {
 			["LFDID"] = 1020,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Heart of Fear"] = {
 			["LFDID"] = 534,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Blackrock Depths - Detention Block"] = {
 			["LFDID"] = 30,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Maraudon - Foulspore Cavern"] = {
 			["LFDID"] = 26,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Random Burning Crusade Heroic"] = {
-			["LFDID"] = 260,
-			["Expansion"] = 1,
 			["Show"] = "saved",
+			["Expansion"] = 1,
+			["LFDID"] = 260,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 70,
@@ -2584,39 +2590,39 @@ SavedInstancesDB = {
 		["The Culling of Stratholme"] = {
 			["LFDID"] = 210,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Random Mists of Pandaria Heroic Scenario"] = {
 			["LFDID"] = 641,
 			["Expansion"] = 4,
 			["Scenario"] = true,
 			["Show"] = "saved",
-			["Raid"] = false,
-			["Random"] = true,
 			["RecLevel"] = 0,
+			["Random"] = true,
+			["Raid"] = false,
 		},
 		["Shadow Labyrinth"] = {
 			["LFDID"] = 181,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["Halls of Reflection"] = {
 			["LFDID"] = 256,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Lost City of the Tol'vir"] = {
 			["LFDID"] = 1151,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["Supreme Lord Kazzak"] = {
 			["Show"] = "saved",
@@ -2628,45 +2634,45 @@ SavedInstancesDB = {
 		["Maraudon - The Wicked Grotto"] = {
 			["LFDID"] = 272,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Prince Sarsarun"] = {
 			["LFDID"] = 310,
 			["Expansion"] = 0,
-			["RecLevel"] = 80,
-			["Raid"] = false,
-			["Holiday"] = true,
 			["Show"] = "saved",
+			["RecLevel"] = 80,
+			["Holiday"] = true,
+			["Raid"] = false,
 		},
 		["Throne of the Tides"] = {
 			["LFDID"] = 1150,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["Halls of Origination"] = {
 			["LFDID"] = 321,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["LFR: Memories of Azeroth: Wrath of the Lich King"] = {
 			["LFDID"] = 2017,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
 			["Raid"] = true,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
 		},
 		["Auchindoun"] = {
 			["LFDID"] = 1975,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Dunegorger Kraulok"] = {
 			["Show"] = "saved",
@@ -2678,44 +2684,44 @@ SavedInstancesDB = {
 		["Baradin Hold"] = {
 			["LFDID"] = 329,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["Shadowfang Keep"] = {
 			["LFDID"] = 327,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["LFR: The Gates of Hell"] = {
 			["LFDID"] = 1920,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["The MOTHERLODE!!"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
+			["LFDID"] = 1776,
 			["Raid"] = false,
 			["RecLevel"] = 115,
-			["LFDID"] = 1776,
 		},
 		["LFR: Nightmare of Shek'zeer"] = {
 			["LFDID"] = 833,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["LFR: Vale of Eternal Sorrows"] = {
 			["LFDID"] = 839,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Drov / Tarlna"] = {
 			["Show"] = "saved",
@@ -2727,23 +2733,23 @@ SavedInstancesDB = {
 		["Iron Docks"] = {
 			["LFDID"] = 1974,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["LFR: Halls of Containment"] = {
 			["LFDID"] = 1731,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["RecLevel"] = 120,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Siege of Niuzao Temple"] = {
 			["LFDID"] = 1465,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Vuk'laz the Earthbreaker"] = {
 			["Show"] = "saved",
@@ -2755,21 +2761,21 @@ SavedInstancesDB = {
 		["The Forge of Souls"] = {
 			["LFDID"] = 252,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Well of Eternity"] = {
 			["LFDID"] = 437,
 			["Expansion"] = 3,
-			["Show"] = "saved",
-			["RecLevel"] = 85,
 			["Raid"] = false,
+			["RecLevel"] = 85,
+			["Show"] = "saved",
 		},
 		["Random Classic Dungeon"] = {
-			["LFDID"] = 258,
-			["Expansion"] = 0,
 			["Show"] = "saved",
+			["Expansion"] = 0,
+			["LFDID"] = 258,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 55,
@@ -2777,91 +2783,91 @@ SavedInstancesDB = {
 		["The Mechanar"] = {
 			["LFDID"] = 192,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["Atal'Dazar"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
+			["LFDID"] = 1772,
 			["Raid"] = false,
 			["RecLevel"] = 110,
-			["LFDID"] = 1772,
 		},
 		["Blackrock Foundry"] = {
 			["LFDID"] = 900,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
 		["Temple of the Jade Serpent"] = {
 			["LFDID"] = 1469,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["LFR: Terrace of Endless Spring"] = {
 			["LFDID"] = 834,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["The Emerald Nightmare"] = {
 			["LFDID"] = 1350,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 110,
-			["Show"] = "saved",
 		},
 		["The Botanica"] = {
 			["LFDID"] = 191,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["LFR: Seat of the Pantheon"] = {
 			["LFDID"] = 1913,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Firelands"] = {
 			["LFDID"] = 362,
 			["Expansion"] = 3,
-			["Show"] = "saved",
-			["Raid"] = true,
 			["RecLevel"] = 85,
+			["Raid"] = true,
+			["Show"] = "saved",
 		},
 		["LFR: Halls of Devotion"] = {
 			["LFDID"] = 2037,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 120,
-			["Show"] = "saved",
 		},
 		["The Steamvault"] = {
 			["LFDID"] = 185,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["Gruul's Lair"] = {
 			["LFDID"] = 177,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["RecLevel"] = 70,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Random Hour of Twilight Heroic"] = {
-			["LFDID"] = 434,
-			["Expansion"] = 3,
 			["Show"] = "saved",
+			["Expansion"] = 3,
+			["LFDID"] = 434,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 0,
@@ -2869,9 +2875,9 @@ SavedInstancesDB = {
 		["Uldaman"] = {
 			["LFDID"] = 22,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Shar'thos"] = {
 			["Show"] = "saved",
@@ -2883,65 +2889,65 @@ SavedInstancesDB = {
 		["Magtheridon's Lair"] = {
 			["LFDID"] = 176,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["RecLevel"] = 70,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Dire Maul - Warpwood Quarter"] = {
 			["LFDID"] = 34,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Shado-Pan Monastery"] = {
 			["LFDID"] = 1468,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Assault on Violet Hold"] = {
 			["LFDID"] = 1209,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 105,
-			["Show"] = "saved",
 		},
 		["LFR: The Vault of Mysteries"] = {
 			["LFDID"] = 831,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Neltharion's Lair"] = {
 			["LFDID"] = 1207,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
 		["The Oculus"] = {
 			["LFDID"] = 211,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Tempest Keep"] = {
 			["LFDID"] = 193,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["RecLevel"] = 70,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Shrine of the Storm"] = {
 			["LFDID"] = 1774,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["Raid"] = false,
 			["RecLevel"] = 110,
+			["Raid"] = false,
+			["Show"] = "saved",
 		},
 		["Matron Folnuna"] = {
 			["Show"] = "saved",
@@ -2953,148 +2959,148 @@ SavedInstancesDB = {
 		["LFR: Royal Athenaeum"] = {
 			["LFDID"] = 1924,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Razorfen Downs"] = {
 			["LFDID"] = 20,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["LFR: Tormented Guardians"] = {
 			["LFDID"] = 1927,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Black Temple"] = {
 			["LFDID"] = 196,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["RecLevel"] = 70,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Crown Princess Theradras"] = {
 			["Show"] = "saved",
 			["Expansion"] = 0,
-			["RecLevel"] = 80,
-			["Raid"] = false,
-			["Holiday"] = true,
 			["LFDID"] = 309,
+			["RecLevel"] = 80,
+			["Holiday"] = true,
+			["Raid"] = false,
 		},
 		["LFR: Empire's Fall"] = {
 			["LFDID"] = 1946,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["RecLevel"] = 120,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Random Island Expeditions Mythic"] = {
 			["LFDID"] = 1891,
 			["Expansion"] = 7,
 			["Scenario"] = true,
 			["Show"] = "saved",
-			["Raid"] = false,
-			["Random"] = true,
 			["RecLevel"] = 120,
+			["Random"] = true,
+			["Raid"] = false,
 		},
 		["LFR: Light's Breach"] = {
 			["LFDID"] = 1916,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["LFR: Crimson Descent"] = {
 			["LFDID"] = 1732,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["RecLevel"] = 120,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Antorus, the Burning Throne"] = {
 			["LFDID"] = 1642,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 110,
-			["Show"] = "saved",
 		},
 		["Zul'Aman"] = {
 			["LFDID"] = 340,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["RecLevel"] = 85,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["LFR: Heart of Corruption"] = {
 			["LFDID"] = 1733,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["RecLevel"] = 120,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Ahn'kahet: The Old Kingdom"] = {
 			["LFDID"] = 1016,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Kai'ju Gahz'rilla"] = {
 			["Show"] = "saved",
 			["Expansion"] = 0,
-			["RecLevel"] = 80,
-			["Raid"] = false,
-			["Holiday"] = true,
 			["LFDID"] = 306,
+			["RecLevel"] = 80,
+			["Holiday"] = true,
+			["Raid"] = false,
 		},
 		["Ahn'Qiraj Ruins"] = {
 			["LFDID"] = 160,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 60,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Random Timewalking Dungeon (Mists of Pandaria)"] = {
-			["LFDID"] = 1453,
-			["Expansion"] = 4,
 			["Show"] = "saved",
-			["Random"] = true,
-			["RecLevel"] = 0,
+			["Expansion"] = 4,
+			["LFDID"] = 1453,
 			["Holiday"] = true,
+			["RecLevel"] = 0,
+			["Random"] = true,
 			["Raid"] = false,
 		},
 		["Bloodmaul Slag Mines"] = {
 			["LFDID"] = 1973,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Siege of Boralus"] = {
 			["LFDID"] = 1700,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
 			["Raid"] = false,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
 		},
 		["Dragon Soul"] = {
 			["LFDID"] = 448,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["LFR: Deceiver's Fall"] = {
 			["LFDID"] = 1917,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Humongris"] = {
 			["Show"] = "saved",
@@ -3106,30 +3112,30 @@ SavedInstancesDB = {
 		["Sethekk Halls"] = {
 			["LFDID"] = 180,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["LFR: Downfall"] = {
 			["LFDID"] = 842,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Sunken Temple"] = {
 			["LFDID"] = 28,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["LFR: The Black Gate"] = {
 			["LFDID"] = 1370,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
 		["Ana-Mouz"] = {
 			["Show"] = "saved",
@@ -3141,37 +3147,37 @@ SavedInstancesDB = {
 		["LFR: Guardians of Mogu'shan"] = {
 			["LFDID"] = 830,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Halls of Stone"] = {
 			["LFDID"] = 213,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["The Eternal Palace"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
-			["LFDID"] = 2016,
+			["RecLevel"] = 120,
 			["Raid"] = true,
-			["RecLevel"] = 120,
+			["LFDID"] = 2016,
 		},
-		["Operation: Mechagon - Junkyard"] = {
-			["LFDID"] = 2027,
-			["Expansion"] = 7,
-			["Raid"] = false,
-			["RecLevel"] = 120,
+		["Pit Lord Vilemus"] = {
 			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 2015,
+			["RecLevel"] = 110,
+			["Raid"] = true,
 		},
 		["The Nighthold"] = {
 			["LFDID"] = 1353,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 110,
-			["Show"] = "saved",
 		},
 		["Azurethos"] = {
 			["Show"] = "saved",
@@ -3183,9 +3189,9 @@ SavedInstancesDB = {
 		["Mogu'shan Vaults"] = {
 			["LFDID"] = 532,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Ordos"] = {
 			["Show"] = "saved",
@@ -3197,9 +3203,9 @@ SavedInstancesDB = {
 		["Trial of the Grand Crusader"] = {
 			["LFDID"] = 250,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Apocron"] = {
 			["Show"] = "saved",
@@ -3208,17 +3214,17 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["Ji'arak"] = {
-			["Show"] = "saved",
+		["LFR: Vision of Destiny"] = {
+			["LFDID"] = 2036,
 			["Expansion"] = 7,
-			["WorldBoss"] = 2141,
-			["RecLevel"] = 120,
+			["Show"] = "saved",
 			["Raid"] = true,
+			["RecLevel"] = 120,
 		},
 		["Random Mists of Pandaria Heroic"] = {
-			["LFDID"] = 462,
-			["Expansion"] = 4,
 			["Show"] = "saved",
+			["Expansion"] = 4,
+			["LFDID"] = 462,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 0,
@@ -3226,109 +3232,108 @@ SavedInstancesDB = {
 		["End Time"] = {
 			["LFDID"] = 1152,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["Black Rook Hold"] = {
 			["LFDID"] = 1205,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 110,
-			["Show"] = "saved",
 		},
 		["Uldir"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
-			["LFDID"] = 1889,
-			["Raid"] = true,
 			["RecLevel"] = 120,
+			["Raid"] = true,
+			["LFDID"] = 1889,
 		},
 		["Hellfire Ramparts"] = {
 			["LFDID"] = 188,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["Vault of Archavon"] = {
 			["LFDID"] = 240,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
 		["Cathedral of Eternal Night"] = {
 			["LFDID"] = 1488,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Random Legion Dungeon"] = {
-			["LFDID"] = 1045,
-			["Expansion"] = 6,
 			["Show"] = "saved",
+			["Expansion"] = 6,
+			["LFDID"] = 1045,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 0,
 		},
-		["Random Warlords of Draenor Dungeon"] = {
-			["LFDID"] = 788,
-			["Expansion"] = 5,
+		["Siege of Orgrimmar"] = {
+			["LFDID"] = 766,
+			["Expansion"] = 4,
+			["RecLevel"] = 90,
+			["Raid"] = true,
 			["Show"] = "saved",
-			["Raid"] = false,
-			["Random"] = true,
-			["RecLevel"] = 0,
 		},
 		["Operation: Mechagon"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
+			["LFDID"] = 2006,
 			["RecLevel"] = 120,
 			["Raid"] = false,
-			["LFDID"] = 2006,
 		},
 		["Gate of the Setting Sun"] = {
 			["LFDID"] = 1464,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Magisters' Terrace"] = {
 			["LFDID"] = 1154,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["Pit of Saron"] = {
 			["LFDID"] = 1153,
 			["Expansion"] = 2,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
-		["Blackrock Caverns"] = {
-			["LFDID"] = 323,
-			["Expansion"] = 3,
-			["Raid"] = false,
-			["RecLevel"] = 85,
+		["Grand Empress Shek'zara"] = {
 			["Show"] = "saved",
+			["Expansion"] = 7,
+			["WorldBoss"] = 2378,
+			["RecLevel"] = 120,
+			["Raid"] = true,
 		},
-		["Zul'Gurub"] = {
-			["LFDID"] = 334,
-			["Expansion"] = 3,
-			["RecLevel"] = 85,
-			["Raid"] = false,
+		["LFR: Arcane Sanctum"] = {
+			["LFDID"] = 1364,
+			["Expansion"] = 5,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 100,
 		},
 		["LFR: Betrayer's Rise"] = {
 			["LFDID"] = 1922,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Galleon"] = {
 			["Show"] = "saved",
@@ -3337,14 +3342,12 @@ SavedInstancesDB = {
 			["RecLevel"] = 90,
 			["Raid"] = true,
 		},
-		["Random Timewalking Dungeon (Wrath of the Lich King)"] = {
-			["LFDID"] = 995,
-			["Expansion"] = 2,
+		["Shadowmoon Burial Grounds"] = {
+			["LFDID"] = 1976,
+			["Expansion"] = 5,
 			["Show"] = "saved",
-			["Random"] = true,
-			["RecLevel"] = 0,
-			["Holiday"] = true,
 			["Raid"] = false,
+			["RecLevel"] = 90,
 		},
 		["Wekemara"] = {
 			["Show"] = "saved",
@@ -3356,60 +3359,85 @@ SavedInstancesDB = {
 		["Grim Batol"] = {
 			["LFDID"] = 1149,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["The Bastion of Twilight"] = {
 			["LFDID"] = 316,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
-		["The Arcatraz"] = {
-			["LFDID"] = 1011,
-			["Expansion"] = 1,
-			["Raid"] = false,
-			["RecLevel"] = 70,
-			["Show"] = "saved",
-		},
-		["Island Expeditions"] = {
-			["Show"] = "saved",
+		["LFR: The Grand Reception"] = {
+			["LFDID"] = 2009,
 			["Expansion"] = 7,
-			["Scenario"] = true,
-			["LFDID"] = 1762,
-			["Raid"] = false,
-			["Random"] = true,
+			["Raid"] = true,
 			["RecLevel"] = 120,
+			["Show"] = "saved",
+		},
+		["The Stonecore"] = {
+			["LFDID"] = 1148,
+			["Expansion"] = 3,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 85,
 		},
 		["LFR: Gates of Retribution"] = {
 			["LFDID"] = 840,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
-		["LFR: Defense of Dazar'alor"] = {
-			["Show"] = "saved",
-			["Expansion"] = 7,
-			["Raid"] = true,
-			["RecLevel"] = 120,
-			["LFDID"] = 1948,
-		},
-		["LFR: Hope's End"] = {
-			["LFDID"] = 1914,
-			["Expansion"] = 6,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-			["Show"] = "saved",
-		},
-		["LFR: Imperator's Rise"] = {
-			["LFDID"] = 1365,
+		["LFR: Slagworks"] = {
+			["LFDID"] = 1361,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 100,
+		},
+		["Battle of Dazar'alor"] = {
+			["Toshdk - Kil'jaeden"] = {
+				[16] = {
+					["Expires"] = 1593529200,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-9-0B9D6659:2070:16:131072|h[Battle of Dazar'alor]|h|r",
+					["ID"] = 393467337,
+					["Locked"] = true,
+				},
+			},
+			["Toshpal - Area 52"] = {
+				[16] = {
+					["Expires"] = 1593529200,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-3676-0AD8DD4D:2070:16:131072|h[Battle of Dazar'alor]|h|r",
+					["ID"] = 393469446,
+					["Locked"] = true,
+				},
+			},
+			["LFDID"] = 1944,
+			["Yorman - Kil'jaeden"] = {
+				[16] = {
+					["Expires"] = 1593529199,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-9-0A76FA3F:2070:16:131072|h[Battle of Dazar'alor]|h|r",
+					["ID"] = 393465687,
+					["Locked"] = true,
+				},
+			},
+			["Expansion"] = 7,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 120,
+		},
+		["LFR: Last Stand of the Zandalari"] = {
+			["LFDID"] = 835,
+			["Expansion"] = 4,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 90,
 		},
 		["Malificus"] = {
 			["Show"] = "saved",
@@ -3418,47 +3446,134 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["Ruby Sanctum"] = {
-			["LFDID"] = 294,
-			["Expansion"] = 2,
+		["LFR: Bastion of Shadows"] = {
+			["LFDID"] = 1368,
+			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
+			["RecLevel"] = 100,
 		},
-		["Onyxia's Lair"] = {
-			["LFDID"] = 257,
-			["Expansion"] = 2,
+		["Levantus"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1769,
+			["RecLevel"] = 110,
 			["Raid"] = true,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
-		["Blackwing Descent"] = {
-			["LFDID"] = 314,
-			["Expansion"] = 3,
+		["Occularus"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 2013,
+			["RecLevel"] = 110,
 			["Raid"] = true,
-			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
-		["Waycrest Manor"] = {
+		["Court of Stars"] = {
+			["LFDID"] = 1319,
+			["Expansion"] = 6,
 			["Show"] = "saved",
-			["Expansion"] = 7,
-			["LFDID"] = 1779,
 			["Raid"] = false,
 			["RecLevel"] = 110,
 		},
 		["Blackrock Depths - Upper City"] = {
 			["LFDID"] = 276,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Underbog"] = {
 			["LFDID"] = 186,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
+		},
+		["LFR: Hope's End"] = {
+			["LFDID"] = 1914,
+			["Expansion"] = 6,
 			["Show"] = "saved",
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["LFR: Iron Assembly"] = {
+			["LFDID"] = 1362,
+			["Expansion"] = 5,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 100,
+		},
+		["Gundrak"] = {
+			["LFDID"] = 1017,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 80,
+		},
+		["Eye of Azshara"] = {
+			["LFDID"] = 1175,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 100,
+		},
+		["Calamir"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1774,
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["Teeming Island Expeditions"] = {
+			["Show"] = "saved",
+			["Expansion"] = 7,
+			["Scenario"] = true,
+			["LFDID"] = 2054,
+			["RecLevel"] = 120,
+			["Random"] = true,
+			["Raid"] = true,
+		},
+		["Timewalking Raid: Ulduar"] = {
+			["Show"] = "saved",
+			["Expansion"] = 2,
+			["LFDID"] = 1677,
+			["RecLevel"] = 110,
+			["Holiday"] = true,
+			["Raid"] = true,
+		},
+		["Trial of the Crusader"] = {
+			["LFDID"] = 248,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 80,
+		},
+		["LFR: Memories of Azeroth: Burning Crusade"] = {
+			["LFDID"] = 2004,
+			["Expansion"] = 7,
+			["Raid"] = true,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
+		},
+		["Nalak"] = {
+			["Show"] = "saved",
+			["Expansion"] = 4,
+			["WorldBoss"] = 814,
+			["RecLevel"] = 90,
+			["Raid"] = true,
+		},
+		["Maraudon - Earth Song Falls"] = {
+			["LFDID"] = 273,
+			["Expansion"] = 0,
+			["Show"] = "saved",
+			["RecLevel"] = 0,
+			["Raid"] = false,
+		},
+		["Mana-Tombs"] = {
+			["LFDID"] = 1013,
+			["Expansion"] = 1,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 70,
 		},
 		["T'zane"] = {
 			["Show"] = "saved",
@@ -3467,97 +3582,12 @@ SavedInstancesDB = {
 			["RecLevel"] = 120,
 			["Raid"] = true,
 		},
-		["LFR: Iron Assembly"] = {
-			["LFDID"] = 1362,
-			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["Garrison Boss"] = {
-			["Show"] = "saved",
-			["Expansion"] = 5,
-			["WorldBoss"] = 9001,
-			["RecLevel"] = 100,
-			["Raid"] = true,
-		},
-		["Eye of Azshara"] = {
-			["LFDID"] = 1175,
-			["Expansion"] = 6,
-			["Raid"] = false,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["The Four Celestials"] = {
-			["Show"] = "saved",
-			["Expansion"] = 4,
-			["WorldBoss"] = 857,
-			["RecLevel"] = 90,
-			["Raid"] = true,
-		},
-		["LFR: Rift of Aln"] = {
-			["LFDID"] = 1926,
-			["Expansion"] = 6,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-			["Show"] = "saved",
-		},
-		["Timewalking Raid: Ulduar"] = {
-			["Show"] = "saved",
-			["Expansion"] = 2,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-			["Holiday"] = true,
-			["LFDID"] = 1677,
-		},
-		["Trial of the Crusader"] = {
-			["LFDID"] = 248,
-			["Expansion"] = 2,
-			["Raid"] = true,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
-		},
-		["Dire Maul - Capital Gardens"] = {
-			["LFDID"] = 36,
-			["Expansion"] = 0,
-			["RecLevel"] = 0,
-			["Raid"] = false,
-			["Show"] = "saved",
-		},
-		["LFR: Death's Bargain"] = {
-			["Show"] = "saved",
-			["Expansion"] = 7,
-			["Raid"] = true,
-			["RecLevel"] = 120,
-			["LFDID"] = 1949,
-		},
-		["Maraudon - Earth Song Falls"] = {
-			["LFDID"] = 273,
-			["Expansion"] = 0,
-			["RecLevel"] = 0,
-			["Raid"] = false,
-			["Show"] = "saved",
-		},
-		["Mana-Tombs"] = {
-			["LFDID"] = 1013,
-			["Expansion"] = 1,
-			["Raid"] = false,
-			["RecLevel"] = 70,
-			["Show"] = "saved",
-		},
-		["Throne of the Four Winds"] = {
-			["LFDID"] = 318,
-			["Expansion"] = 3,
-			["Raid"] = true,
-			["RecLevel"] = 85,
-			["Show"] = "saved",
-		},
 		["LFR: Walled City"] = {
 			["LFDID"] = 1363,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
 		["Inquisitor Meto"] = {
 			["Show"] = "saved",
@@ -3566,46 +3596,46 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["Pit Lord Vilemus"] = {
+		["Random Cataclysm Dungeon"] = {
 			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 2015,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["The Crown Chemical Co."] = {
-			["LFDID"] = 288,
-			["Expansion"] = 0,
+			["Expansion"] = 3,
+			["LFDID"] = 300,
 			["Raid"] = false,
+			["Random"] = true,
 			["RecLevel"] = 0,
-			["Holiday"] = true,
+		},
+		["Ruby Sanctum"] = {
+			["LFDID"] = 294,
+			["Expansion"] = 2,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 80,
 		},
 		["Hyjal Past"] = {
 			["LFDID"] = 195,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["RecLevel"] = 70,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Crucible of Storms"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
-			["LFDID"] = 1954,
-			["RecLevel"] = 120,
 			["Raid"] = true,
+			["RecLevel"] = 120,
+			["LFDID"] = 1954,
 		},
-		["Nithogg"] = {
-			["Show"] = "saved",
+		["LFR: Rift of Aln"] = {
+			["LFDID"] = 1926,
 			["Expansion"] = 6,
-			["WorldBoss"] = 1749,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
 		["Random Lich King Heroic"] = {
-			["LFDID"] = 262,
-			["Expansion"] = 2,
 			["Show"] = "saved",
+			["Expansion"] = 2,
+			["LFDID"] = 262,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 80,
@@ -3613,51 +3643,51 @@ SavedInstancesDB = {
 		["Vault of the Wardens"] = {
 			["LFDID"] = 1044,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 110,
-			["Show"] = "saved",
 		},
 		["LFR: Hellbreach"] = {
 			["LFDID"] = 1366,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
-		["Ragefire Chasm"] = {
-			["LFDID"] = 4,
-			["Expansion"] = 0,
-			["RecLevel"] = 0,
+		["The Arcway"] = {
+			["LFDID"] = 1190,
+			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = false,
-			["Show"] = "saved",
+			["RecLevel"] = 110,
 		},
-		["The Sunwell"] = {
-			["LFDID"] = 199,
-			["Expansion"] = 1,
-			["RecLevel"] = 70,
+		["LFR: Death's Bargain"] = {
+			["Show"] = "saved",
+			["Expansion"] = 7,
+			["LFDID"] = 1949,
 			["Raid"] = true,
-			["Show"] = "saved",
+			["RecLevel"] = 120,
 		},
-		["Grimrail Depot"] = {
-			["LFDID"] = 1006,
-			["Expansion"] = 5,
-			["Raid"] = false,
-			["RecLevel"] = 90,
+		["Havenswood"] = {
+			["LFDID"] = 2025,
+			["Expansion"] = 7,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 120,
 		},
 		["Blood Furnace"] = {
 			["LFDID"] = 187,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["Stratholme - Service Entrance"] = {
 			["LFDID"] = 274,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["Flotsam"] = {
 			["Show"] = "saved",
@@ -3666,67 +3696,67 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["Random Heroic (Battle for Azeroth)"] = {
-			["LFDID"] = 1671,
-			["Expansion"] = 7,
+		["The Crown Chemical Co."] = {
+			["LFDID"] = 288,
+			["Expansion"] = 0,
 			["Show"] = "saved",
 			["Raid"] = false,
-			["Random"] = true,
-			["RecLevel"] = 120,
+			["Holiday"] = true,
+			["RecLevel"] = 0,
 		},
-		["Opening of the Dark Portal"] = {
-			["LFDID"] = 1012,
-			["Expansion"] = 1,
-			["Raid"] = false,
-			["RecLevel"] = 70,
+		["Nithogg"] = {
 			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1749,
+			["RecLevel"] = 110,
+			["Raid"] = true,
 		},
 		["LFR: The Dread Approach"] = {
 			["LFDID"] = 832,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
-		["Halls of Lightning"] = {
-			["LFDID"] = 1018,
-			["Expansion"] = 2,
-			["Raid"] = false,
-			["RecLevel"] = 80,
+		["LFR: Halls of Blood"] = {
+			["LFDID"] = 1367,
+			["Expansion"] = 5,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 100,
 		},
 		["Slave Pens"] = {
 			["LFDID"] = 1015,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
 		["LFR: Gift of Flesh"] = {
 			["LFDID"] = 2038,
 			["Expansion"] = 7,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 120,
-			["Show"] = "saved",
 		},
 		["LFR: Memories of Azeroth: Cataclysm"] = {
 			["LFDID"] = 2018,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
 			["Raid"] = true,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
 		},
 		["Scarlet Halls"] = {
 			["LFDID"] = 473,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
 		["Random Burning Crusade Dungeon"] = {
-			["LFDID"] = 259,
-			["Expansion"] = 1,
 			["Show"] = "saved",
+			["Expansion"] = 1,
+			["LFDID"] = 259,
 			["Raid"] = false,
 			["Random"] = true,
 			["RecLevel"] = 65,
@@ -3734,51 +3764,280 @@ SavedInstancesDB = {
 		["LFR: Destructor's Rise"] = {
 			["LFDID"] = 1369,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
 		["The Underrot"] = {
 			["LFDID"] = 1777,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 110,
 			["Raid"] = false,
-		},
-		["LFR: Forbidden Descent"] = {
-			["LFDID"] = 1915,
-			["Expansion"] = 6,
 			["RecLevel"] = 110,
-			["Raid"] = true,
 			["Show"] = "saved",
+		},
+		["LFR: Halls of Flesh-Shaping"] = {
+			["LFDID"] = 837,
+			["Expansion"] = 4,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 90,
 		},
 		["Zul'Farrak"] = {
 			["LFDID"] = 24,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
 		["LFR: Trial of Valor"] = {
 			["LFDID"] = 1921,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = true,
-			["Show"] = "saved",
 		},
 		["Lower Return to Karazhan"] = {
 			["LFDID"] = 1475,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["RecLevel"] = 110,
 			["Raid"] = false,
+		},
+		["Sha of Anger"] = {
 			["Show"] = "saved",
+			["Expansion"] = 4,
+			["WorldBoss"] = 691,
+			["RecLevel"] = 90,
+			["Raid"] = true,
+		},
+		["Lower Blackrock Spire"] = {
+			["LFDID"] = 32,
+			["Expansion"] = 0,
+			["Show"] = "saved",
+			["RecLevel"] = 0,
+			["Raid"] = false,
+		},
+		["Trial of the Champion"] = {
+			["LFDID"] = 249,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 80,
+		},
+		["Azjol-Nerub"] = {
+			["LFDID"] = 241,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 80,
+		},
+		["Ulduar"] = {
+			["LFDID"] = 244,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 80,
+		},
+		["Auchenai Crypts"] = {
+			["LFDID"] = 178,
+			["Expansion"] = 1,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 70,
+		},
+		["Highmaul"] = {
+			["LFDID"] = 897,
+			["Expansion"] = 5,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 100,
+		},
+		["Gnomeregan"] = {
+			["LFDID"] = 14,
+			["Expansion"] = 0,
+			["Show"] = "saved",
+			["RecLevel"] = 0,
+			["Raid"] = false,
+		},
+		["Return to Karazhan"] = {
+			["LFDID"] = 1347,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["RecLevel"] = 110,
+			["Raid"] = false,
+		},
+		["Withered J'im"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1796,
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["Random Mists of Pandaria Scenario"] = {
+			["LFDID"] = 493,
+			["Expansion"] = 4,
+			["Scenario"] = true,
+			["Show"] = "saved",
+			["RecLevel"] = 0,
+			["Random"] = true,
+			["Raid"] = false,
+		},
+		["Scarlet Monastery"] = {
+			["LFDID"] = 474,
+			["Expansion"] = 4,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 90,
+		},
+		["LFR: Blackhand's Crucible"] = {
+			["LFDID"] = 1359,
+			["Expansion"] = 5,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 100,
+		},
+		["Hellfire Citadel"] = {
+			["LFDID"] = 989,
+			["Expansion"] = 5,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 100,
+		},
+		["Timewalking Raid: Firelands"] = {
+			["Show"] = "saved",
+			["Expansion"] = 3,
+			["LFDID"] = 2026,
+			["RecLevel"] = 110,
+			["Holiday"] = true,
+			["Raid"] = true,
+		},
+		["The Nexus"] = {
+			["LFDID"] = 1019,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 80,
+		},
+		["LFR: Crucible of Storms"] = {
+			["LFDID"] = 1951,
+			["Expansion"] = 7,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 120,
+		},
+		["Shattered Halls"] = {
+			["LFDID"] = 1014,
+			["Expansion"] = 1,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 70,
+		},
+		["LFR: The Waking Dream"] = {
+			["LFDID"] = 2039,
+			["Expansion"] = 7,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 120,
+		},
+		["Sotanathor"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 2014,
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["LFR: Nightspire"] = {
+			["LFDID"] = 1923,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["Stratholme - Main Gate"] = {
+			["LFDID"] = 40,
+			["Expansion"] = 0,
+			["Show"] = "saved",
+			["RecLevel"] = 0,
+			["Raid"] = false,
+		},
+		["Drak'Tharon Keep"] = {
+			["LFDID"] = 215,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 80,
+		},
+		["The Soultakers"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1756,
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["Random Timewalking Dungeon (Cataclysm)"] = {
+			["Show"] = "saved",
+			["Expansion"] = 3,
+			["LFDID"] = 1146,
+			["Holiday"] = true,
+			["RecLevel"] = 0,
+			["Random"] = true,
+			["Raid"] = false,
+		},
+		["Halls of Valor"] = {
+			["LFDID"] = 1194,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 100,
+		},
+		["LFR: Darkbough"] = {
+			["LFDID"] = 1912,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["Kings' Rest"] = {
+			["LFDID"] = 1785,
+			["Expansion"] = 7,
+			["Raid"] = false,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
+		},
+		["The Obsidian Sanctum"] = {
+			["LFDID"] = 238,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 80,
+		},
+		["LFR: Victory or Death"] = {
+			["LFDID"] = 1950,
+			["Expansion"] = 7,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 120,
+		},
+		["Seat of the Triumvirate"] = {
+			["LFDID"] = 1535,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["RecLevel"] = 110,
+			["Raid"] = false,
+		},
+		["Si'vash"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1885,
+			["RecLevel"] = 110,
+			["Raid"] = true,
 		},
 		["Ny'alotha, the Waking City"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
-			["Raid"] = true,
-			["LFDID"] = 2035,
 			["RecLevel"] = 120,
+			["LFDID"] = 2035,
+			["Raid"] = true,
 			["Toshpal - Area 52"] = {
 				[16] = {
 					["Expires"] = 1593529200,
@@ -3789,290 +4048,62 @@ SavedInstancesDB = {
 				},
 			},
 		},
-		["Si'vash"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 1885,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["Seat of the Triumvirate"] = {
-			["LFDID"] = 1535,
-			["Expansion"] = 6,
-			["RecLevel"] = 110,
-			["Raid"] = false,
-			["Show"] = "saved",
-		},
-		["Azjol-Nerub"] = {
-			["LFDID"] = 241,
-			["Expansion"] = 2,
-			["Raid"] = false,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
-		},
-		["Ulduar"] = {
-			["LFDID"] = 244,
-			["Expansion"] = 2,
-			["Raid"] = true,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
-		},
-		["Auchenai Crypts"] = {
-			["LFDID"] = 178,
+		["Opening of the Dark Portal"] = {
+			["LFDID"] = 1012,
 			["Expansion"] = 1,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 70,
-			["Show"] = "saved",
 		},
-		["Highmaul"] = {
-			["LFDID"] = 897,
-			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["The Obsidian Sanctum"] = {
-			["LFDID"] = 238,
+		["Halls of Lightning"] = {
+			["LFDID"] = 1018,
 			["Expansion"] = 2,
-			["Raid"] = true,
+			["Show"] = "saved",
+			["Raid"] = false,
 			["RecLevel"] = 80,
-			["Show"] = "saved",
 		},
-		["LFR: Victory or Death"] = {
-			["LFDID"] = 1950,
-			["Expansion"] = 7,
+		["LFR: Forbidden Descent"] = {
+			["LFDID"] = 1915,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["RecLevel"] = 110,
 			["Raid"] = true,
-			["RecLevel"] = 120,
-			["Show"] = "saved",
 		},
-		["Random Mists of Pandaria Scenario"] = {
-			["LFDID"] = 493,
-			["Expansion"] = 4,
-			["Scenario"] = true,
+		["Random Heroic (Battle for Azeroth)"] = {
 			["Show"] = "saved",
+			["Expansion"] = 7,
+			["LFDID"] = 1671,
 			["Raid"] = false,
 			["Random"] = true,
-			["RecLevel"] = 0,
+			["RecLevel"] = 120,
 		},
-		["LFR: Darkbough"] = {
-			["LFDID"] = 1912,
-			["Expansion"] = 6,
-			["RecLevel"] = 110,
-			["Raid"] = true,
+		["Grimrail Depot"] = {
+			["LFDID"] = 1006,
+			["Expansion"] = 5,
 			["Show"] = "saved",
-		},
-		["Scarlet Monastery"] = {
-			["LFDID"] = 474,
-			["Expansion"] = 4,
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
-		["Halls of Valor"] = {
-			["LFDID"] = 1194,
-			["Expansion"] = 6,
-			["Raid"] = false,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["Timewalking Raid: Firelands"] = {
-			["Show"] = "saved",
-			["Expansion"] = 3,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-			["Holiday"] = true,
-			["LFDID"] = 2026,
-		},
-		["The Soultakers"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 1756,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["The Nexus"] = {
-			["LFDID"] = 1019,
-			["Expansion"] = 2,
-			["Raid"] = false,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
-		},
-		["Drak'Tharon Keep"] = {
-			["LFDID"] = 215,
-			["Expansion"] = 2,
-			["Raid"] = false,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
-		},
-		["LFR: The Waking Dream"] = {
-			["LFDID"] = 2039,
-			["Expansion"] = 7,
-			["Raid"] = true,
-			["RecLevel"] = 120,
-			["Show"] = "saved",
-		},
-		["Grand Empress Shek'zara"] = {
-			["Show"] = "saved",
-			["Expansion"] = 7,
-			["WorldBoss"] = 2378,
-			["RecLevel"] = 120,
-			["Raid"] = true,
-		},
-		["LFR: Nightspire"] = {
-			["LFDID"] = 1923,
-			["Expansion"] = 6,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-			["Show"] = "saved",
-		},
-		["Sotanathor"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 2014,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["Stratholme - Main Gate"] = {
-			["LFDID"] = 40,
-			["Expansion"] = 0,
-			["RecLevel"] = 0,
-			["Raid"] = false,
-			["Show"] = "saved",
-		},
-		["Shattered Halls"] = {
-			["LFDID"] = 1014,
+		["The Sunwell"] = {
+			["LFDID"] = 199,
 			["Expansion"] = 1,
-			["Raid"] = false,
+			["Show"] = "saved",
 			["RecLevel"] = 70,
-			["Show"] = "saved",
-		},
-		["LFR: Crucible of Storms"] = {
-			["LFDID"] = 1951,
-			["Expansion"] = 7,
-			["Raid"] = true,
-			["RecLevel"] = 120,
-			["Show"] = "saved",
-		},
-		["Random Timewalking Dungeon (Cataclysm)"] = {
-			["LFDID"] = 1146,
-			["Expansion"] = 3,
-			["Show"] = "saved",
-			["Random"] = true,
-			["RecLevel"] = 0,
-			["Holiday"] = true,
-			["Raid"] = false,
-		},
-		["Hellfire Citadel"] = {
-			["LFDID"] = 989,
-			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["LFR: Blackhand's Crucible"] = {
-			["LFDID"] = 1359,
-			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["Kings' Rest"] = {
-			["LFDID"] = 1785,
-			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
-			["Raid"] = false,
-		},
-		["Withered J'im"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 1796,
-			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["Return to Karazhan"] = {
-			["LFDID"] = 1347,
-			["Expansion"] = 6,
-			["RecLevel"] = 110,
-			["Raid"] = false,
-			["Show"] = "saved",
-		},
-		["Gnomeregan"] = {
-			["LFDID"] = 14,
+		["Dire Maul - Capital Gardens"] = {
+			["LFDID"] = 36,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
-		},
-		["Shadowmoon Burial Grounds"] = {
-			["LFDID"] = 1976,
-			["Expansion"] = 5,
-			["Raid"] = false,
-			["RecLevel"] = 90,
-			["Show"] = "saved",
-		},
-		["Trial of the Champion"] = {
-			["LFDID"] = 249,
-			["Expansion"] = 2,
-			["Raid"] = false,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
-		},
-		["Lower Blackrock Spire"] = {
-			["LFDID"] = 32,
-			["Expansion"] = 0,
-			["RecLevel"] = 0,
-			["Raid"] = false,
-			["Show"] = "saved",
-		},
-		["Sha of Anger"] = {
-			["Show"] = "saved",
-			["Expansion"] = 4,
-			["WorldBoss"] = 691,
-			["RecLevel"] = 90,
-			["Raid"] = true,
-		},
-		["LFR: Halls of Flesh-Shaping"] = {
-			["LFDID"] = 837,
-			["Expansion"] = 4,
-			["Raid"] = true,
-			["RecLevel"] = 90,
-			["Show"] = "saved",
-		},
-		["LFR: Vision of Destiny"] = {
-			["LFDID"] = 2036,
-			["Expansion"] = 7,
-			["Raid"] = true,
-			["RecLevel"] = 120,
-			["Show"] = "saved",
-		},
-		["LFR: Arcane Sanctum"] = {
-			["LFDID"] = 1364,
-			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["LFR: Halls of Blood"] = {
-			["LFDID"] = 1367,
-			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
-		},
-		["Siege of Orgrimmar"] = {
-			["LFDID"] = 766,
-			["Expansion"] = 4,
-			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 90,
 		},
 		["Upper Blackrock Spire"] = {
 			["Show"] = "saved",
 			["Expansion"] = 5,
+			["LFDID"] = 1004,
 			["RecLevel"] = 90,
 			["Raid"] = false,
-			["LFDID"] = 1004,
 		},
 		["Warbringer Yenajz"] = {
 			["Show"] = "saved",
@@ -4084,243 +4115,181 @@ SavedInstancesDB = {
 		["LFR: The Underhold"] = {
 			["LFDID"] = 841,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
-		["Havenswood"] = {
-			["LFDID"] = 2025,
-			["Expansion"] = 7,
-			["Raid"] = true,
-			["RecLevel"] = 120,
+		["Throne of the Four Winds"] = {
+			["LFDID"] = 318,
+			["Expansion"] = 3,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 85,
 		},
 		["Scholomance"] = {
 			["LFDID"] = 472,
 			["Expansion"] = 4,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 90,
-			["Show"] = "saved",
 		},
-		["The Arcway"] = {
-			["LFDID"] = 1190,
-			["Expansion"] = 6,
-			["Raid"] = false,
-			["RecLevel"] = 110,
+		["Ragefire Chasm"] = {
+			["LFDID"] = 4,
+			["Expansion"] = 0,
 			["Show"] = "saved",
+			["RecLevel"] = 0,
+			["Raid"] = false,
 		},
 		["Deadmines"] = {
 			["LFDID"] = 326,
 			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
 		["LFR: The Black Forge"] = {
 			["LFDID"] = 1360,
 			["Expansion"] = 5,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 100,
-			["Show"] = "saved",
 		},
-		["Random Cataclysm Dungeon"] = {
-			["LFDID"] = 300,
-			["Expansion"] = 3,
+		["Garrison Boss"] = {
 			["Show"] = "saved",
-			["Raid"] = false,
-			["Random"] = true,
-			["RecLevel"] = 0,
+			["Expansion"] = 5,
+			["WorldBoss"] = 9001,
+			["RecLevel"] = 100,
+			["Raid"] = true,
 		},
 		["Caverns of Time - Anniversary"] = {
 			["LFDID"] = 1911,
 			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
 			["Raid"] = true,
+			["RecLevel"] = 120,
+			["Show"] = "saved",
 		},
-		["Nalak"] = {
+		["Waycrest Manor"] = {
+			["Show"] = "saved",
+			["Expansion"] = 7,
+			["RecLevel"] = 110,
+			["Raid"] = false,
+			["LFDID"] = 1779,
+		},
+		["Blackwing Descent"] = {
+			["LFDID"] = 314,
+			["Expansion"] = 3,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 85,
+		},
+		["Onyxia's Lair"] = {
+			["LFDID"] = 257,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 80,
+		},
+		["The Four Celestials"] = {
 			["Show"] = "saved",
 			["Expansion"] = 4,
-			["WorldBoss"] = 814,
+			["WorldBoss"] = 857,
 			["RecLevel"] = 90,
 			["Raid"] = true,
 		},
-		["LFR: Memories of Azeroth: Burning Crusade"] = {
-			["LFDID"] = 2004,
-			["Expansion"] = 7,
+		["LFR: Imperator's Rise"] = {
+			["LFDID"] = 1365,
+			["Expansion"] = 5,
 			["Show"] = "saved",
-			["RecLevel"] = 120,
 			["Raid"] = true,
-		},
-		["Teeming Island Expeditions"] = {
-			["LFDID"] = 2054,
-			["Expansion"] = 7,
-			["Scenario"] = true,
-			["Show"] = "saved",
-			["RecLevel"] = 120,
-			["Random"] = true,
-			["Raid"] = true,
-		},
-		["Calamir"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 1774,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["Gundrak"] = {
-			["LFDID"] = 1017,
-			["Expansion"] = 2,
-			["Raid"] = false,
-			["RecLevel"] = 80,
-			["Show"] = "saved",
+			["RecLevel"] = 100,
 		},
 		["Razorfen Kraul"] = {
 			["LFDID"] = 16,
 			["Expansion"] = 0,
+			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
-			["Show"] = "saved",
 		},
-		["Court of Stars"] = {
-			["LFDID"] = 1319,
-			["Expansion"] = 6,
-			["Raid"] = false,
-			["RecLevel"] = 110,
+		["Random Warlords of Draenor Dungeon"] = {
 			["Show"] = "saved",
-		},
-		["Occularus"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 2013,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["Levantus"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 1769,
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["LFR: Bastion of Shadows"] = {
-			["LFDID"] = 1368,
 			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
-			["Show"] = "saved",
+			["LFDID"] = 788,
+			["Raid"] = false,
+			["Random"] = true,
+			["RecLevel"] = 0,
 		},
-		["LFR: Last Stand of the Zandalari"] = {
-			["LFDID"] = 835,
-			["Expansion"] = 4,
-			["Raid"] = true,
-			["RecLevel"] = 90,
-			["Show"] = "saved",
-		},
-		["Battle of Dazar'alor"] = {
+		["Island Expeditions"] = {
+			["LFDID"] = 1762,
 			["Expansion"] = 7,
-			["Toshpal - Area 52"] = {
-				[16] = {
-					["Expires"] = 1593529200,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-3676-0AD8DD4D:2070:16:131072|h[Battle of Dazar'alor]|h|r",
-					["ID"] = 393469446,
-					["Locked"] = true,
-				},
-			},
+			["Scenario"] = true,
 			["Show"] = "saved",
-			["Yorman - Kil'jaeden"] = {
-				[16] = {
-					["Expires"] = 1593529199,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-9-0A76FA3F:2070:16:131072|h[Battle of Dazar'alor]|h|r",
-					["ID"] = 393465687,
-					["Locked"] = true,
-				},
-			},
-			["Toshdk - Kil'jaeden"] = {
-				[16] = {
-					["Expires"] = 1593529200,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-9-0B9D6659:2070:16:131072|h[Battle of Dazar'alor]|h|r",
-					["ID"] = 393467337,
-					["Locked"] = true,
-				},
-			},
-			["LFDID"] = 1944,
-			["Raid"] = true,
+			["Raid"] = false,
+			["Random"] = true,
 			["RecLevel"] = 120,
 		},
-		["LFR: Slagworks"] = {
-			["LFDID"] = 1361,
-			["Expansion"] = 5,
-			["Raid"] = true,
-			["RecLevel"] = 100,
+		["Operation: Mechagon - Junkyard"] = {
+			["LFDID"] = 2027,
+			["Expansion"] = 7,
 			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 120,
 		},
-		["The Stonecore"] = {
-			["LFDID"] = 1148,
+		["Random Timewalking Dungeon (Wrath of the Lich King)"] = {
+			["Show"] = "saved",
+			["Expansion"] = 2,
+			["LFDID"] = 995,
+			["Holiday"] = true,
+			["RecLevel"] = 0,
+			["Random"] = true,
+			["Raid"] = false,
+		},
+		["Zul'Gurub"] = {
+			["LFDID"] = 334,
 			["Expansion"] = 3,
+			["Show"] = "saved",
+			["RecLevel"] = 85,
+			["Raid"] = false,
+		},
+		["Blackrock Caverns"] = {
+			["LFDID"] = 323,
+			["Expansion"] = 3,
+			["Show"] = "saved",
 			["Raid"] = false,
 			["RecLevel"] = 85,
-			["Show"] = "saved",
 		},
-		["LFR: The Grand Reception"] = {
-			["LFDID"] = 2009,
-			["Expansion"] = 7,
+		["LFR: Defense of Dazar'alor"] = {
 			["Show"] = "saved",
+			["Expansion"] = 7,
+			["LFDID"] = 1948,
+			["Raid"] = true,
+			["RecLevel"] = 120,
+		},
+		["Ji'arak"] = {
+			["Show"] = "saved",
+			["Expansion"] = 7,
+			["WorldBoss"] = 2141,
 			["RecLevel"] = 120,
 			["Raid"] = true,
 		},
+		["The Arcatraz"] = {
+			["LFDID"] = 1011,
+			["Expansion"] = 1,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 70,
+		},
 	},
-	["histGeneration"] = 3538,
+	["DailyResetTime"] = 1593442799,
 	["History"] = {
+		["Toshpal - Area 52:Operation: Mechagon:party:23:3539"] = {
+			["last"] = 1593380011,
+			["create"] = 1593378571,
+			["desc"] = "Toshpal: Operation: Mechagon - Mythic",
+		},
 	},
-	["RealmMap"] = {
-		{
-			"AlteracMountains", -- [1]
-			"Balnazzar", -- [2]
-			"Gorgonnash", -- [3]
-			"TheForgottenCoast", -- [4]
-			"Warsong", -- [5]
-		}, -- [1]
-		{
-			"BloodFurnace", -- [1]
-			"Mannoroth", -- [2]
-			"Nazjatar", -- [3]
-		}, -- [2]
-		{
-			"Frostwolf", -- [1]
-			"Vashj", -- [2]
-		}, -- [3]
-		{
-			"Greymane", -- [1]
-			"Tanaris", -- [2]
-		}, -- [4]
-		{
-			"Quel'dorei", -- [1]
-			"Sen'jin", -- [2]
-		}, -- [5]
-		{
-			"Eldre'Thalas", -- [1]
-			"Korialstrasz", -- [2]
-		}, -- [6]
-		["Balnazzar"] = 1,
-		["Quel'dorei"] = 5,
-		["Sen'jin"] = 5,
-		["Korialstrasz"] = 6,
-		["BloodFurnace"] = 2,
-		["Tanaris"] = 4,
-		["Warsong"] = 1,
-		["Nazjatar"] = 2,
-		["Frostwolf"] = 3,
-		["Mannoroth"] = 2,
-		["Vashj"] = 3,
-		["Eldre'Thalas"] = 6,
-		["Greymane"] = 4,
-		["AlteracMountains"] = 1,
-		["Gorgonnash"] = 1,
-		["TheForgottenCoast"] = 1,
+	["MinimapIcon"] = {
+		["minimapPos"] = 244.90087957219,
+		["hide"] = true,
 	},
 	["QuestDB"] = {
 		["Daily"] = {
@@ -4447,46 +4416,46 @@ SavedInstancesDB = {
 			[55787] = 1355,
 			[53248] = 1165,
 			[55819] = 1355,
-			[58478] = 1530,
+			[58754] = 1530,
 			[56362] = 1462,
 			[58422] = 1530,
-			[56172] = 1462,
+			[52928] = 1165,
 			[56410] = 1462,
 			[58470] = 1530,
 			[52929] = 1165,
-			[57718] = 1530,
-			[56373] = 1462,
-			[55766] = 1355,
+			[54359] = 1165,
+			[56405] = 1462,
+			[58229] = 1527,
 			[56075] = 1355,
-			[54338] = 1165,
+			[58285] = 1527,
 			[58151] = 1530,
 			[58167] = 1527,
 			[58231] = 1527,
 			[58758] = 1530,
 			[55724] = 1355,
 			[56762] = 1462,
-			[55213] = 1462,
+			[56334] = 1462,
 			[55820] = 1355,
 			[55836] = 1355,
 			[54335] = 1165,
 			[58471] = 1530,
 			[58487] = 1530,
-			[55813] = 1462,
+			[55661] = 1355,
 			[55980] = 1355,
 			[52930] = 1165,
 			[56523] = 1462,
+			[55766] = 1355,
+			[58291] = 1527,
 			[55801] = 1355,
-			[58754] = 1530,
-			[58780] = 1527,
-			[56889] = 1527,
+			[53263] = 1165,
 			[58168] = 1530,
-			[52928] = 1165,
-			[55661] = 1355,
+			[55721] = 1355,
+			[56172] = 1462,
 			[58232] = 1527,
 			[58759] = 1530,
 			[55725] = 1355,
-			[58423] = 1530,
-			[53263] = 1165,
+			[58782] = 1527,
+			[57968] = 1527,
 			[55789] = 1355,
 			[53250] = 1165,
 			[55821] = 1355,
@@ -4494,94 +4463,94 @@ SavedInstancesDB = {
 			[56380] = 1462,
 			[55885] = 1462,
 			[53362] = 1165,
-			[56328] = 1462,
-			[55727] = 1355,
+			[55528] = 1462,
+			[58282] = 1527,
 			[56508] = 1462,
-			[55720] = 1355,
-			[58782] = 1527,
+			[55311] = 1462,
+			[55880] = 1462,
 			[56572] = 1462,
-			[53264] = 1165,
-			[56327] = 1462,
-			[58460] = 1530,
+			[58281] = 1527,
+			[54341] = 1165,
+			[56889] = 1527,
 			[58233] = 1527,
 			[58760] = 1530,
 			[58776] = 1527,
 			[55726] = 1355,
-			[55695] = 1462,
-			[55528] = 1462,
+			[58777] = 1527,
+			[56754] = 1462,
 			[55790] = 1355,
 			[53251] = 1165,
 			[55822] = 1355,
-			[57773] = 1527,
+			[58284] = 1527,
 			[54337] = 1165,
 			[54353] = 1165,
-			[58741] = 1530,
-			[57968] = 1527,
-			[57720] = 1530,
+			[55213] = 1462,
+			[55813] = 1462,
+			[58781] = 1527,
 			[58010] = 1527,
 			[56493] = 1462,
-			[54343] = 1165,
-			[55877] = 1355,
+			[55878] = 1355,
+			[57774] = 1527,
 			[56557] = 1462,
 			[56573] = 1462,
-			[55815] = 1462,
-			[56301] = 1462,
+			[54334] = 1165,
+			[56327] = 1462,
 			[56621] = 1462,
 			[54082] = 1462,
 			[56142] = 1462,
 			[56174] = 1462,
 			[58234] = 1527,
-			[58761] = 1530,
+			[55695] = 1462,
 			[56222] = 1355,
-			[56749] = 1462,
+			[55727] = 1355,
 			[55743] = 1462,
 			[55791] = 1355,
-			[54332] = 1165,
+			[55793] = 1355,
 			[55823] = 1355,
-			[53359] = 1165,
-			[55871] = 1355,
+			[54343] = 1165,
+			[54338] = 1165,
 			[54354] = 1165,
 			[53364] = 1165,
-			[55824] = 1355,
-			[58858] = 1527,
-			[56750] = 1462,
-			[58778] = 1527,
-			[55663] = 1355,
-			[58282] = 1527,
-			[55721] = 1355,
+			[56335] = 1462,
+			[55792] = 1355,
+			[58283] = 1527,
+			[56223] = 1355,
+			[56301] = 1462,
+			[56749] = 1462,
+			[54361] = 1165,
 			[58155] = 1530,
 			[57737] = 1527,
-			[54361] = 1165,
+			[55663] = 1355,
 			[58235] = 1527,
 			[58762] = 1530,
-			[56223] = 1355,
-			[58283] = 1527,
-			[58285] = 1527,
-			[56334] = 1462,
-			[54341] = 1165,
-			[55792] = 1355,
-			[58777] = 1527,
-			[56335] = 1462,
-			[58281] = 1527,
-			[58291] = 1527,
+			[58778] = 1527,
+			[56750] = 1462,
+			[55871] = 1355,
+			[53359] = 1165,
+			[54332] = 1165,
+			[58858] = 1527,
+			[58761] = 1530,
+			[55824] = 1355,
+			[55815] = 1462,
+			[55877] = 1355,
 			[55872] = 1355,
-			[55793] = 1355,
-			[54359] = 1165,
-			[58229] = 1527,
-			[55311] = 1462,
+			[57720] = 1530,
+			[58741] = 1530,
+			[56373] = 1462,
+			[58460] = 1530,
 			[55984] = 1355,
-			[54334] = 1165,
-			[57774] = 1527,
-			[56405] = 1462,
-			[55878] = 1355,
+			[53264] = 1165,
+			[55720] = 1355,
+			[56328] = 1462,
+			[58423] = 1530,
 			[58156] = 1527,
-			[58781] = 1527,
+			[58780] = 1527,
 			[58236] = 1527,
 			[58763] = 1530,
 			[58779] = 1527,
-			[58284] = 1527,
-			[55880] = 1462,
-			[56754] = 1462,
+			[57773] = 1527,
+			[57718] = 1530,
+			[58478] = 1530,
 		},
 		["Darkmoon"] = {
 			["expires"] = 1592193540,
@@ -4591,68 +4560,68 @@ SavedInstancesDB = {
 			[37644] = -1,
 			[56042] = -1,
 			[37645] = -1,
-			[38299] = -1,
+			[34774] = 1352,
 			[38300] = -1,
 			[40753] = 1462,
-			[34774] = 1352,
+			[38299] = -1,
 		},
 		["Weekly"] = {
 			[57728] = 1530,
 			[48910] = -1,
-			[47148] = 1165,
+			[52944] = -1,
 			[40787] = -1,
 			[52948] = -1,
 			[52950] = -1,
 			[52952] = -1,
 			[52954] = -1,
-			[55350] = 1527,
+			[52956] = -1,
 			[52958] = -1,
 			[40173] = -1,
 			[59016] = -1,
-			[53033] = -1,
+			[59018] = -1,
 			[53035] = -1,
 			[53037] = 1165,
 			[53039] = 1165,
 			[55498] = -1,
-			[56648] = -1,
+			[53435] = -1,
 			[48912] = -1,
 			[33334] = -1,
-			[52956] = -1,
-			[53435] = -1,
+			[55350] = 1527,
+			[33338] = -1,
 			[56650] = -1,
 			[56148] = -1,
 			[56969] = -1,
 			[55213] = 1462,
-			[59018] = -1,
+			[53033] = -1,
 			[48911] = -1,
 			[40786] = -1,
 			[57008] = 1530,
 			[52949] = -1,
 			[52951] = -1,
 			[52953] = -1,
-			[53032] = -1,
+			[59017] = -1,
 			[40168] = -1,
 			[52957] = -1,
-			[52944] = -1,
+			[47148] = 1165,
 			[56050] = -1,
-			[33338] = -1,
+			[56648] = -1,
 			[53030] = 1165,
-			[59017] = -1,
-			[59019] = -1,
+			[56308] = 1527,
+			[53034] = -1,
 			[53036] = 1165,
-			[54995] = -1,
-			[56064] = 1530,
 			[55121] = 1355,
+			[56064] = 1530,
+			[54995] = -1,
 			["expires"] = 1593529199,
 			[55499] = -1,
 			[32640] = -1,
 			[32641] = -1,
-			[53034] = -1,
-			[56308] = 1527,
+			[52782] = -1,
+			[53032] = -1,
 			[53436] = -1,
 			[45563] = -1,
 			[57157] = 1527,
-			[52782] = -1,
+			[59019] = -1,
 			[56649] = -1,
 		},
 		["AccountWeekly"] = {
@@ -4666,22 +4635,62 @@ SavedInstancesDB = {
 			["expires"] = 1593529199,
 		},
 	},
-	["MinimapIcon"] = {
-		["minimapPos"] = 244.90087957219,
-		["hide"] = true,
+	["RealmMap"] = {
+		{
+			"AlteracMountains", -- [1]
+			"Balnazzar", -- [2]
+			"Gorgonnash", -- [3]
+			"TheForgottenCoast", -- [4]
+			"Warsong", -- [5]
+		}, -- [1]
+		{
+			"BloodFurnace", -- [1]
+			"Mannoroth", -- [2]
+			"Nazjatar", -- [3]
+		}, -- [2]
+		{
+			"Frostwolf", -- [1]
+			"Vashj", -- [2]
+		}, -- [3]
+		{
+			"Greymane", -- [1]
+			"Tanaris", -- [2]
+		}, -- [4]
+		{
+			"Quel'dorei", -- [1]
+			"Sen'jin", -- [2]
+		}, -- [5]
+		{
+			"Eldre'Thalas", -- [1]
+			"Korialstrasz", -- [2]
+		}, -- [6]
+		["Balnazzar"] = 1,
+		["TheForgottenCoast"] = 1,
+		["Sen'jin"] = 5,
+		["Korialstrasz"] = 6,
+		["Gorgonnash"] = 1,
+		["Tanaris"] = 4,
+		["Warsong"] = 1,
+		["Nazjatar"] = 2,
+		["Frostwolf"] = 3,
+		["Mannoroth"] = 2,
+		["Vashj"] = 3,
+		["Eldre'Thalas"] = 6,
+		["Greymane"] = 4,
+		["AlteracMountains"] = 1,
+		["BloodFurnace"] = 2,
+		["Quel'dorei"] = 5,
 	},
-	["DailyResetTime"] = 1593356399,
+	["histGeneration"] = 3540,
 	["Quests"] = {
 	},
 	["Warfront"] = {
 		{
 			["contributing"] = false,
-			["restTime"] = 1593510516,
 			["captureSide"] = "Horde",
 		}, -- [1]
 		{
 			["contributing"] = false,
-			["restTime"] = 1593570550,
 			["captureSide"] = "Alliance",
 		}, -- [2]
 	},

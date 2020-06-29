@@ -618,8 +618,6 @@ JambaItemUseProfileDB = {
 			["itemUseTitleHeight"] = 2,
 		},
 		["Toshpal - Kil'jaeden"] = {
-			["itemUseTitleHeight"] = 2,
-			["frameYOffset"] = 210.6496734619141,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -702,6 +700,8 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
+			["frameYOffset"] = 210.6496734619141,
+			["itemUseTitleHeight"] = 2,
 			["frameXOffset"] = -9.390840530395508,
 		},
 		["Toshpriest - Illidan"] = {
@@ -1044,7 +1044,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshaman - Area 52"] = {
+		["Tosh - Frostwolf"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -1216,7 +1216,7 @@ JambaItemUseProfileDB = {
 			["itemUseTitleHeight"] = 2,
 			["showItemUse"] = false,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -1386,7 +1386,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Tosh - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",

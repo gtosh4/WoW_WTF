@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2466,
 	["lastSanitation"] = 3,
-	["session"] = 2465,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:22: attempt to compare number with string",
@@ -20,8 +20,8 @@ BugGrabberDB = {
 		}, -- [2]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/06/28 00:24:29",
 			["session"] = 2465,
+			["time"] = "2020/06/28 00:24:29",
 			["counter"] = 3,
 		}, -- [3]
 	},
