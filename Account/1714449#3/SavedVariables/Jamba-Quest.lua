@@ -26,10 +26,10 @@ JambaQuestProfileDB = {
 			["hasChoiceSlaveDoNothing"] = true,
 			["acceptFromTeam"] = true,
 			["hasChoiceSlaveCompleteQuestWithMaster"] = false,
-			["noChoiceSlaveCompleteQuestWithMaster"] = false,
+			["masterAutoShareQuestOnAccept"] = true,
 			["onlyAcceptQuestsFrom"] = true,
 			["doNotAutoAccept"] = false,
-			["masterAutoShareQuestOnAccept"] = true,
+			["noChoiceSlaveCompleteQuestWithMaster"] = false,
 		},
 		["Tosh - Kil'jaeden"] = {
 			["showJambaQuestLogWithWoWQuestLog"] = false,

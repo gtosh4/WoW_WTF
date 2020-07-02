@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2466,
 	["lastSanitation"] = 3,
+	["session"] = 2469,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\bigdumblootcouncil\\frames.lua:22: attempt to compare number with string",
@@ -20,9 +20,25 @@ BugGrabberDB = {
 		}, -- [2]
 		{
 			["message"] = "(null)",
-			["session"] = 2465,
 			["time"] = "2020/06/28 00:24:29",
+			["session"] = 2465,
 			["counter"] = 3,
 		}, -- [3]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'WorldFrame:ClearAllPoints()'.",
+			["time"] = "2020/07/01 21:37:42",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:69: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:56: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2688: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2769: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2457: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3327: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
+			["session"] = 2468,
+			["counter"] = 1,
+		}, -- [4]
+		{
+			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
+			["time"] = "2020/07/01 21:50:25",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
+			["session"] = 2469,
+			["counter"] = 1,
+		}, -- [5]
 	},
 }

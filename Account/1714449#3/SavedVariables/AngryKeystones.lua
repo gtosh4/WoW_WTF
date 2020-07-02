@@ -4,51 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 244,
-		["splits"] = {
-			257, -- [1]
-			846, -- [2]
-			513, -- [3]
-			1236, -- [4]
-			1023, -- [5]
-			["party1Name"] = "Toshpriest",
-			["party1Class"] = "Priest",
-			["party4Class"] = "Shaman",
-			["party2Name"] = "Crippled",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 1800,
-			["level"] = 15,
-			["timeElapsed"] = 1235.609,
-			["party3Role"] = "TANK",
-			["affixes3"] = 12,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Orcbum",
-			["affixes2"] = 8,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Penguinpal",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Warrior",
-			["wasEnergized"] = true,
-			["affixes1"] = 10,
-			["party5Class"] = "Demon Hunter",
-			["mapID"] = 1763,
-			["party2Role"] = "DAMAGER",
-			["date"] = 1593378014,
-			["party2Class"] = "Death Knight",
-			["party5Name"] = "Trexxi",
-		},
 		["playerDeaths"] = {
-			["Trexxi-Kil'jaeden"] = 3,
-			["Toshpriest"] = 1,
-			["Crippled-Kil'jaeden"] = 2,
-			["Orcbum-Kil'jaeden"] = 2,
-		},
-		["splitNames"] = {
-			"Priestess Alun'za defeated", -- [1]
-			"Vol'kaal defeated", -- [2]
-			"Rezan defeated", -- [3]
-			"Yazma defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -762,11 +718,11 @@ AngryKeystones_Data = {
 		[134005] = {
 			23, -- [1]
 		},
-		[136295] = {
-			[13] = 6,
-		},
 		[134251] = {
 			[4] = 9,
+		},
+		[136295] = {
+			[13] = 6,
 		},
 		[139425] = {
 			[4] = 12,
@@ -778,21 +734,21 @@ AngryKeystones_Data = {
 			3, -- [1]
 			[4] = 1,
 		},
-		[152009] = {
-			[5] = 19,
-		},
-		[130522] = {
-			[2] = 181,
-			[6] = 1,
-		},
 		[127488] = {
 			[7] = 41,
+		},
+		[130011] = {
+			[4] = 26,
+		},
+		[152009] = {
+			[5] = 19,
 		},
 		[137989] = {
 			140, -- [1]
 		},
-		[130011] = {
-			[4] = 26,
+		[130522] = {
+			[2] = 181,
+			[6] = 1,
 		},
 		[129369] = {
 			[8] = 1,

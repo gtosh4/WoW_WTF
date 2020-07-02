@@ -55,7 +55,7 @@ OmniBarDB = {
 					["spell190319"] = false,
 					["center"] = false,
 					["padding"] = 2,
-					["border"] = true,
+					["spell79140"] = false,
 					["names"] = false,
 					["spell119381"] = false,
 					["spell853"] = false,
@@ -79,7 +79,7 @@ OmniBarDB = {
 					["spell194223"] = false,
 					["spell192058"] = false,
 					["spell199804"] = false,
-					["spell79140"] = false,
+					["border"] = true,
 					["spell5211"] = false,
 				},
 				["OmniBar2"] = {

@@ -39,9 +39,9 @@ CorruptionTooltipsDB = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshmoney - Greymane"] = {
-		},
 		["Toshpala - Illidan"] = {
+		},
+		["Toshmoney - Greymane"] = {
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

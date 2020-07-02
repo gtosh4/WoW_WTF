@@ -12,17 +12,17 @@ DataStore_TalentsDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -34,19 +34,19 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "WARLOCK",
 			},
-			["Default.Kil'jaeden.Toshwar"] = {
-				["lastUpdate"] = 1584068300,
+			["Default.Illidan.Toshpala"] = {
+				["lastUpdate"] = 1589759455,
 				["Specializations"] = {
-					2, -- [1]
+					[3] = 0,
 				},
-				["Class"] = "WARRIOR",
+				["Class"] = "PALADIN",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1589764103,
+			["Default.Frostwolf.Tosh"] = {
+				["lastUpdate"] = 1581544037,
 				["Specializations"] = {
-					127, -- [1]
+					0, -- [1]
 				},
-				["Class"] = "PRIEST",
+				["Class"] = "ROGUE",
 			},
 			["Default.Eldre'Thalas.Toshlongboy"] = {
 				["lastUpdate"] = 1591911453,
@@ -56,7 +56,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1593052078,
+				["lastUpdate"] = 1593654932,
 				["Specializations"] = {
 					14697, -- [1]
 					0, -- [2]
@@ -64,15 +64,15 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "DEATHKNIGHT",
 			},
-			["Default.Illidan.Toshpala"] = {
-				["lastUpdate"] = 1589759455,
+			["Default.Kil'jaeden.Toshwar"] = {
+				["lastUpdate"] = 1584068300,
 				["Specializations"] = {
-					[3] = 0,
+					2, -- [1]
 				},
-				["Class"] = "PALADIN",
+				["Class"] = "WARRIOR",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
-				["lastUpdate"] = 1593051112,
+				["lastUpdate"] = 1593653394,
 				["Specializations"] = {
 					7165, -- [1]
 					[4] = 6893,
@@ -80,7 +80,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1593380005,
+				["lastUpdate"] = 1593654083,
 				["Specializations"] = {
 					6013, -- [1]
 					14777, -- [2]
@@ -88,12 +88,14 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PALADIN",
 			},
-			["Default.Frostwolf.Sumex"] = {
-				["lastUpdate"] = 1581544170,
+			["Default.Kil'jaeden.Toshpal"] = {
+				["lastUpdate"] = 1589695295,
 				["Specializations"] = {
-					0, -- [1]
+					6013, -- [1]
+					14777, -- [2]
+					5849, -- [3]
 				},
-				["Class"] = "DEATHKNIGHT",
+				["Class"] = "PALADIN",
 			},
 			["Default.Frostwolf.Koutetsu"] = {
 				["lastUpdate"] = 1581544117,
@@ -117,21 +119,19 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "DEMONHUNTER",
 			},
-			["Default.Kil'jaeden.Toshpal"] = {
-				["lastUpdate"] = 1589695295,
-				["Specializations"] = {
-					6013, -- [1]
-					14777, -- [2]
-					5849, -- [3]
-				},
-				["Class"] = "PALADIN",
-			},
-			["Default.Frostwolf.Tosh"] = {
-				["lastUpdate"] = 1581544037,
+			["Default.Frostwolf.Sumex"] = {
+				["lastUpdate"] = 1581544170,
 				["Specializations"] = {
 					0, -- [1]
 				},
-				["Class"] = "ROGUE",
+				["Class"] = "DEATHKNIGHT",
+			},
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1589764103,
+				["Specializations"] = {
+					127, -- [1]
+				},
+				["Class"] = "PRIEST",
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544071,
@@ -156,17 +156,17 @@ DataStore_TalentsRefDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -252,7 +252,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 34769,
+			["Version"] = 34963,
 		},
 		["WARRIOR"] = {
 			["Locale"] = "enUS",
@@ -519,6 +519,154 @@ DataStore_TalentsRefDB = {
 			},
 			["Version"] = 33775,
 		},
+		["ROGUE"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 259,
+					["talents"] = {
+						22337, -- [1]
+						22338, -- [2]
+						22339, -- [3]
+						22331, -- [4]
+						22332, -- [5]
+						23022, -- [6]
+						19239, -- [7]
+						19240, -- [8]
+						19241, -- [9]
+						22340, -- [10]
+						22122, -- [11]
+						22123, -- [12]
+						19245, -- [13]
+						23037, -- [14]
+						22115, -- [15]
+						22343, -- [16]
+						23015, -- [17]
+						22344, -- [18]
+						21186, -- [19]
+						22133, -- [20]
+						23174, -- [21]
+					},
+				}, -- [1]
+			},
+			["Version"] = 33237,
+		},
+		["DRUID"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 102,
+					["talents"] = {
+						22385, -- [1]
+						22386, -- [2]
+						22387, -- [3]
+						19283, -- [4]
+						18570, -- [5]
+						18571, -- [6]
+						22155, -- [7]
+						22157, -- [8]
+						22159, -- [9]
+						21778, -- [10]
+						18576, -- [11]
+						18577, -- [12]
+						18580, -- [13]
+						21706, -- [14]
+						21702, -- [15]
+						22389, -- [16]
+						21712, -- [17]
+						22165, -- [18]
+						21648, -- [19]
+						21193, -- [20]
+						21655, -- [21]
+					},
+				}, -- [1]
+				[4] = {
+					["id"] = 105,
+					["talents"] = {
+						18569, -- [1]
+						18574, -- [2]
+						18572, -- [3]
+						19283, -- [4]
+						18570, -- [5]
+						18571, -- [6]
+						22366, -- [7]
+						22367, -- [8]
+						22160, -- [9]
+						21778, -- [10]
+						18576, -- [11]
+						18577, -- [12]
+						21710, -- [13]
+						21705, -- [14]
+						22421, -- [15]
+						21716, -- [16]
+						18585, -- [17]
+						22422, -- [18]
+						22403, -- [19]
+						21651, -- [20]
+						22404, -- [21]
+					},
+				},
+			},
+			["Version"] = 34963,
+		},
+		["MONK"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				[2] = {
+					["id"] = 270,
+					["talents"] = {
+						19823, -- [1]
+						19820, -- [2]
+						20185, -- [3]
+						19304, -- [4]
+						19818, -- [5]
+						19302, -- [6]
+						22168, -- [7]
+						22167, -- [8]
+						22166, -- [9]
+						19993, -- [10]
+						22219, -- [11]
+						19995, -- [12]
+						23371, -- [13]
+						20173, -- [14]
+						20175, -- [15]
+						23107, -- [16]
+						22101, -- [17]
+						22214, -- [18]
+						22218, -- [19]
+						22169, -- [20]
+						22170, -- [21]
+					},
+				},
+				[3] = {
+					["id"] = 269,
+					["talents"] = {
+						23106, -- [1]
+						19820, -- [2]
+						20185, -- [3]
+						19304, -- [4]
+						19818, -- [5]
+						19302, -- [6]
+						22098, -- [7]
+						19771, -- [8]
+						22096, -- [9]
+						19993, -- [10]
+						23364, -- [11]
+						19995, -- [12]
+						23258, -- [13]
+						20173, -- [14]
+						20175, -- [15]
+						22093, -- [16]
+						23122, -- [17]
+						22102, -- [18]
+						22107, -- [19]
+						22105, -- [20]
+						21191, -- [21]
+					},
+				},
+			},
+			["Version"] = 33237,
+		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
@@ -601,155 +749,7 @@ DataStore_TalentsRefDB = {
 					},
 				}, -- [3]
 			},
-			["Version"] = 34769,
-		},
-		["DRUID"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 102,
-					["talents"] = {
-						22385, -- [1]
-						22386, -- [2]
-						22387, -- [3]
-						19283, -- [4]
-						18570, -- [5]
-						18571, -- [6]
-						22155, -- [7]
-						22157, -- [8]
-						22159, -- [9]
-						21778, -- [10]
-						18576, -- [11]
-						18577, -- [12]
-						18580, -- [13]
-						21706, -- [14]
-						21702, -- [15]
-						22389, -- [16]
-						21712, -- [17]
-						22165, -- [18]
-						21648, -- [19]
-						21193, -- [20]
-						21655, -- [21]
-					},
-				}, -- [1]
-				[4] = {
-					["id"] = 105,
-					["talents"] = {
-						18569, -- [1]
-						18574, -- [2]
-						18572, -- [3]
-						19283, -- [4]
-						18570, -- [5]
-						18571, -- [6]
-						22366, -- [7]
-						22367, -- [8]
-						22160, -- [9]
-						21778, -- [10]
-						18576, -- [11]
-						18577, -- [12]
-						21710, -- [13]
-						21705, -- [14]
-						22421, -- [15]
-						21716, -- [16]
-						18585, -- [17]
-						22422, -- [18]
-						22403, -- [19]
-						21651, -- [20]
-						22404, -- [21]
-					},
-				},
-			},
-			["Version"] = 34769,
-		},
-		["MONK"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				[2] = {
-					["id"] = 270,
-					["talents"] = {
-						19823, -- [1]
-						19820, -- [2]
-						20185, -- [3]
-						19304, -- [4]
-						19818, -- [5]
-						19302, -- [6]
-						22168, -- [7]
-						22167, -- [8]
-						22166, -- [9]
-						19993, -- [10]
-						22219, -- [11]
-						19995, -- [12]
-						23371, -- [13]
-						20173, -- [14]
-						20175, -- [15]
-						23107, -- [16]
-						22101, -- [17]
-						22214, -- [18]
-						22218, -- [19]
-						22169, -- [20]
-						22170, -- [21]
-					},
-				},
-				[3] = {
-					["id"] = 269,
-					["talents"] = {
-						23106, -- [1]
-						19820, -- [2]
-						20185, -- [3]
-						19304, -- [4]
-						19818, -- [5]
-						19302, -- [6]
-						22098, -- [7]
-						19771, -- [8]
-						22096, -- [9]
-						19993, -- [10]
-						23364, -- [11]
-						19995, -- [12]
-						23258, -- [13]
-						20173, -- [14]
-						20175, -- [15]
-						22093, -- [16]
-						23122, -- [17]
-						22102, -- [18]
-						22107, -- [19]
-						22105, -- [20]
-						21191, -- [21]
-					},
-				},
-			},
-			["Version"] = 33237,
-		},
-		["ROGUE"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 259,
-					["talents"] = {
-						22337, -- [1]
-						22338, -- [2]
-						22339, -- [3]
-						22331, -- [4]
-						22332, -- [5]
-						23022, -- [6]
-						19239, -- [7]
-						19240, -- [8]
-						19241, -- [9]
-						22340, -- [10]
-						22122, -- [11]
-						22123, -- [12]
-						19245, -- [13]
-						23037, -- [14]
-						22115, -- [15]
-						22343, -- [16]
-						23015, -- [17]
-						22344, -- [18]
-						21186, -- [19]
-						22133, -- [20]
-						23174, -- [21]
-					},
-				}, -- [1]
-			},
-			["Version"] = 33237,
+			["Version"] = 34963,
 		},
 	},
 }
