@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1890,
 	["lastSanitation"] = 3,
+	["session"] = 1891,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: 30:SetEndPoint(): not allowed to depend on NamePlate29",
@@ -211,14 +211,14 @@ BugGrabberDB = {
 		}, -- [26]
 		{
 			["message"] = "Error loading Interface\\AddOns\\AdiBags_PriorExpansions\\PriorExpansionData.lua",
-			["session"] = 1881,
 			["time"] = "2020/06/26 20:56:02",
+			["session"] = 1881,
 			["counter"] = 10,
 		}, -- [27]
 		{
 			["message"] = "Couldn't open Interface\\AddOns\\CorruptionTooltips\\Libs\\AceTimer-3.0-17\\AceTimer-3.0.xml",
-			["session"] = 1881,
 			["time"] = "2020/06/26 20:56:02",
+			["session"] = 1881,
 			["counter"] = 15,
 		}, -- [28]
 		{
@@ -254,8 +254,8 @@ BugGrabberDB = {
 		}, -- [32]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/06/15 22:17:41",
 			["session"] = 1884,
+			["time"] = "2020/06/15 22:17:41",
 			["counter"] = 94,
 		}, -- [33]
 		{

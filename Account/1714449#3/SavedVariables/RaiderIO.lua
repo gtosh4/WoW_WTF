@@ -1,14 +1,11 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpriest-area-52"
+RaiderIO_LastCharacter = "us-Toshaman-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Búrt-malfurion"] = true,
-	["us-Alaeralion-area-52"] = true,
-	["us-Aszpero-area-52"] = true,
-	["us-Zoo-jaedenar"] = true,
-	["us-Scôrch-area-52"] = true,
-	["us-Zîp-bleeding-hollow"] = true,
-	["us-Çurseudowñ-thrall"] = true,
-	["us-Jasonsamoas-illidan"] = true,
+	["us-Awctionlord-area-52"] = true,
+	["us-Psyller-area-52"] = true,
+	["us-Azzee-area-52"] = true,
+	["us-Agoodname-area-52"] = true,
+	["us-Hellyeahss-area-52"] = true,
 }

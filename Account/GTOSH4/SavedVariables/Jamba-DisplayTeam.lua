@@ -59,20 +59,20 @@ JambaDisplayTeamProfileDB = {
 		["Toshpala - Illidan"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Toshaman - Area 52"] = {
+		["Tosh - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Default"] = {
 			["showTeamList"] = false,
 			["teamListTitleHeight"] = 0,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["teamListTitleHeight"] = 0,
 		},
-		["Tosh - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 			["teamListTitleHeight"] = 0,
 		},
 		["Sumex - Frostwolf"] = {

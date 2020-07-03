@@ -5,9 +5,9 @@ AstralKeys = {
 		"HUNTER", -- [2]
 		252, -- [3]
 		19, -- [4]
-		0, -- [5]
+		18, -- [5]
 		154, -- [6]
-		6, -- [7]
+		217338, -- [7]
 	}, -- [1]
 	{
 		"Illsong-Area52", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		17, -- [4]
 		0, -- [5]
 		154, -- [6]
-		124479, -- [7]
+		217477, -- [7]
 	}, -- [5]
 	{
 		"Race-Area52", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		19, -- [4]
 		0, -- [5]
 		154, -- [6]
-		1, -- [7]
+		210368, -- [7]
 	}, -- [7]
 	{
 		"Rathux-Area52", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		24, -- [4]
 		24, -- [5]
 		154, -- [6]
-		1, -- [7]
+		220636, -- [7]
 	}, -- [8]
 	{
 		"Royalty-Area52", -- [1]
@@ -79,7 +79,7 @@ AstralKeys = {
 		17, -- [4]
 		0, -- [5]
 		154, -- [6]
-		124892, -- [7]
+		221573, -- [7]
 	}, -- [9]
 	{
 		"Gummybuns-Area52", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		22, -- [4]
 		0, -- [5]
 		154, -- [6]
-		124947, -- [7]
+		220766, -- [7]
 	}, -- [10]
 	{
 		"Delpi-Area52", -- [1]
@@ -133,7 +133,7 @@ AstralKeys = {
 		21, -- [4]
 		0, -- [5]
 		154, -- [6]
-		3, -- [7]
+		8, -- [7]
 	}, -- [15]
 	{
 		"Jagerwerks-Kil'jaeden", -- [1]
@@ -144,25 +144,43 @@ AstralKeys = {
 		154, -- [6]
 		125404, -- [7]
 	}, -- [16]
+	{
+		"Toshpriest-Area52", -- [1]
+		"PRIEST", -- [2]
+		247, -- [3]
+		15, -- [4]
+		0, -- [5]
+		154, -- [6]
+		1, -- [7]
+	}, -- [17]
+	{
+		"Toshpal-Area52", -- [1]
+		"PALADIN", -- [2]
+		245, -- [3]
+		16, -- [4]
+		0, -- [5]
+		154, -- [6]
+		220257, -- [7]
+	}, -- [18]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Yorman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["unit"] = "Toshpal-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshpal-Area52",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DEATHKNIGHT",
-		["faction"] = 1,
 		["unit"] = "Toshdk-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [3]
 }
 AstralFriends = {
@@ -173,9 +191,9 @@ AstralFriends = {
 		370, -- [4]
 		22, -- [5]
 		154, -- [6]
-		122890, -- [7]
+		208201, -- [7]
 		"1", -- [8]
-		21, -- [9]
+		22, -- [9]
 	}, -- [1]
 	{
 		"Yukiox-Area52", -- [1]
@@ -184,7 +202,7 @@ AstralFriends = {
 		252, -- [4]
 		23, -- [5]
 		154, -- [6]
-		124253, -- [7]
+		136953, -- [7]
 		"1", -- [8]
 		24, -- [9]
 	}, -- [2]
@@ -195,7 +213,7 @@ AstralFriends = {
 		369, -- [4]
 		17, -- [5]
 		154, -- [6]
-		56885, -- [7]
+		209579, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [3]
@@ -203,10 +221,10 @@ AstralFriends = {
 		"Yukios-Kil'jaeden", -- [1]
 		"YukioX#1520", -- [2]
 		"SHAMAN", -- [3]
-		370, -- [4]
-		18, -- [5]
+		369, -- [4]
+		19, -- [5]
 		154, -- [6]
-		124454, -- [7]
+		220245, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [4]
@@ -228,7 +246,7 @@ AstralFriends = {
 		252, -- [4]
 		17, -- [5]
 		154, -- [6]
-		124192, -- [7]
+		220179, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [6]
@@ -239,7 +257,7 @@ AstralFriends = {
 		249, -- [4]
 		17, -- [5]
 		154, -- [6]
-		124892, -- [7]
+		221572, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [7]
@@ -250,18 +268,131 @@ AstralFriends = {
 		244, -- [4]
 		22, -- [5]
 		154, -- [6]
-		124947, -- [7]
+		220766, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [8]
+	{
+		"Andruw-Area52", -- [1]
+		"Drew#13709", -- [2]
+		"DEMONHUNTER", -- [3]
+		353, -- [4]
+		18, -- [5]
+		154, -- [6]
+		207088, -- [7]
+		"1", -- [8]
+		20, -- [9]
+	}, -- [9]
+	{
+		"Bluearruwu-Area52", -- [1]
+		"Blueflame213#1513", -- [2]
+		"HUNTER", -- [3]
+		369, -- [4]
+		18, -- [5]
+		154, -- [6]
+		209408, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [10]
+	{
+		"Artsong-Area52", -- [1]
+		"Ceesong#1985", -- [2]
+		"HUNTER", -- [3]
+		252, -- [4]
+		19, -- [5]
+		154, -- [6]
+		214194, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [11]
+	{
+		"Illsong-Area52", -- [1]
+		"Ceesong#1985", -- [2]
+		"DEMONHUNTER", -- [3]
+		245, -- [4]
+		24, -- [5]
+		154, -- [6]
+		204717, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [12]
+	{
+		"Baesong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"WARRIOR", -- [3]
+		353, -- [4]
+		17, -- [5]
+		154, -- [6]
+		213678, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [13]
+	{
+		"Emosong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"ROGUE", -- [3]
+		247, -- [4]
+		18, -- [5]
+		154, -- [6]
+		213607, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [14]
+	{
+		"Ngow-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"DRUID", -- [3]
+		353, -- [4]
+		21, -- [5]
+		154, -- [6]
+		210884, -- [7]
+		"1", -- [8]
+		22, -- [9]
+	}, -- [15]
+	{
+		"Mattea-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"HUNTER", -- [3]
+		353, -- [4]
+		17, -- [5]
+		154, -- [6]
+		217754, -- [7]
+		"1", -- [8]
+		15, -- [9]
+	}, -- [16]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
 		},
 		["show_other_faction"] = {
 			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1594134000,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["guild"] = true,
+			["raid"] = false,
+			["no_key"] = true,
+			["party"] = true,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
 		},
 	},
 	["frame"] = {
@@ -277,7 +408,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -286,35 +419,8 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1594134000,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = true,
-			["guild"] = true,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -329,17 +435,17 @@ AstralMinimap = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["profiles"] = {
@@ -374,30 +480,30 @@ AstralMinimap = {
 		},
 		["Toshmoney - Quel'dorei"] = {
 		},
-		["Toshaman - Kil'jaeden"] = {
-			["minimap"] = {
-				["minimapPos"] = 220.790417099489,
-			},
+		["Sumex - Frostwolf"] = {
 		},
-		["Toshpala - Illidan"] = {
+		["Toshtrial - Blood Furnace"] = {
 		},
-		["Toshlongboy - Eldre'Thalas"] = {
+		["Toshtrial - The Forgotten Coast"] = {
 		},
 		["Toshpal - Area 52"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosh - Kil'jaeden"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
-		["Toshtrial - The Forgotten Coast"] = {
+		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshtrial - Blood Furnace"] = {
+		["Toshpala - Illidan"] = {
 		},
-		["Sumex - Frostwolf"] = {
+		["Toshaman - Kil'jaeden"] = {
+			["minimap"] = {
+				["minimapPos"] = 220.790417099489,
+			},
 		},
 		["Toshwar - Kil'jaeden"] = {
 		},

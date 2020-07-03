@@ -6,12 +6,12 @@ ToshAssignmentsDB = {
 		["Daggny - Frostwolf"] = "Default",
 		["Tosku - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshtrial - The Forgotten Coast"] = "Default",
+		["Koutetsu - Frostwolf"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshtrial - The Forgotten Coast"] = "Default",
 		["Zallie - Frostwolf"] = "Default",
 		["Toshaman - Kil'jaeden"] = "Default",
-		["Koutetsu - Frostwolf"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -25,12 +25,12 @@ ToshAssignmentsDB = {
 								},
 								["name"] = "Ramp",
 								["trigger"] = {
+									["time"] = {
+									},
 									["type"] = "spell",
+									["eventNumber"] = "*",
 									["spell"] = {
 										["spellId"] = 282082,
-									},
-									["eventNumber"] = "*",
-									["time"] = {
 									},
 								},
 								["actions"] = {
@@ -57,8 +57,8 @@ ToshAssignmentsDB = {
 						},
 						["encounterId"] = 2325,
 						["name"] = "Koopa",
-						["enabled"] = true,
 						["showOthers"] = false,
+						["enabled"] = true,
 					},
 				},
 			},

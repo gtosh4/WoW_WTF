@@ -57,19 +57,19 @@ JambaCoreProfileDB = {
 		["Toshpala - Illidan"] = {
 			["showStartupMessage4000"] = false,
 		},
-		["Toshaman - Area 52"] = {
+		["Tosh - Frostwolf"] = {
 			["showStartupMessage4000"] = false,
 		},
 		["Default"] = {
 			["showStartupMessage4000"] = false,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["showStartupMessage4000"] = false,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["showStartupMessage4000"] = false,
 		},
-		["Tosh - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 			["showStartupMessage4000"] = false,
 		},
 		["Sumex - Frostwolf"] = {
@@ -126,15 +126,15 @@ JambaCommunicationsProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Default"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
@@ -169,24 +169,24 @@ JambaTeamProfileDB = {
 				["Toshdk-Kil'jaeden"] = "DEATHKNIGHT",
 			},
 			["master"] = "Toshdk-Kil'jaeden",
-			["teamList"] = {
-				["Tosh-Kil'jaeden"] = 2,
-				["Toshdk-Kil'jaeden"] = 1,
-			},
 			["characterOnline"] = {
 				["Tosh-Kil'jaeden"] = true,
 				["Toshdk-Kil'jaeden"] = true,
 			},
+			["teamList"] = {
+				["Tosh-Kil'jaeden"] = 2,
+				["Toshdk-Kil'jaeden"] = 1,
+			},
 		},
 		["Daggny - Frostwolf"] = {
 			["master"] = "Daggny-Frostwolf",
-			["teamList"] = {
-				["Daggny-Frostwolf"] = 1,
-				["Toshpal-Area52"] = 2,
-			},
 			["characterOnline"] = {
 				["Daggny-Frostwolf"] = true,
 				["Toshpal-Area52"] = false,
+			},
+			["teamList"] = {
+				["Daggny-Frostwolf"] = 1,
+				["Toshpal-Area52"] = 2,
 			},
 		},
 		["Tosku - Kil'jaeden"] = {
@@ -194,13 +194,13 @@ JambaTeamProfileDB = {
 				["Tosku-Kil'jaeden"] = "DEMONHUNTER",
 			},
 			["master"] = "Tosku-Kil'jaeden",
-			["teamList"] = {
-				["Toshpal-Area52"] = 2,
-				["Tosku-Kil'jaeden"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshpal-Area52"] = false,
 				["Tosku-Kil'jaeden"] = true,
+			},
+			["teamList"] = {
+				["Toshpal-Area52"] = 2,
+				["Tosku-Kil'jaeden"] = 1,
 			},
 		},
 		["Toshpriest - Area 52"] = {
@@ -221,44 +221,44 @@ JambaTeamProfileDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["master"] = "Yorman-Kil'jaeden",
-			["teamList"] = {
-				["Yorman-Kil'jaeden"] = 1,
-				["Toshpal-Area52"] = 2,
-			},
 			["characterOnline"] = {
 				["Yorman-Kil'jaeden"] = true,
 				["Toshpal-Area52"] = false,
 			},
+			["teamList"] = {
+				["Yorman-Kil'jaeden"] = 1,
+				["Toshpal-Area52"] = 2,
+			},
 		},
 		["Toshmoney - Greymane"] = {
 			["master"] = "Toshmoney-Greymane",
-			["characterOnline"] = {
-				["Toshmoney-Greymane"] = true,
-			},
 			["teamList"] = {
 				["Toshmoney-Greymane"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshmoney-Greymane"] = true,
 			},
 		},
 		["Zallie - Frostwolf"] = {
 			["master"] = "Zallie-Frostwolf",
-			["teamList"] = {
-				["Toshpal-Area52"] = 2,
-				["Zallie-Frostwolf"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshpal-Area52"] = false,
 				["Zallie-Frostwolf"] = true,
 			},
+			["teamList"] = {
+				["Toshpal-Area52"] = 2,
+				["Zallie-Frostwolf"] = 1,
+			},
 		},
 		["Toshpal - Kil'jaeden"] = {
 			["master"] = "Toshpal-Area52",
-			["teamList"] = {
-				["Toshpal-Area52"] = 1,
-				["Toshaman-Kil'jaeden"] = 2,
-			},
 			["characterOnline"] = {
 				["Toshpal-Area52"] = true,
 				["Toshaman-Kil'jaeden"] = true,
+			},
+			["teamList"] = {
+				["Toshpal-Area52"] = 1,
+				["Toshaman-Kil'jaeden"] = 2,
 			},
 		},
 		["Toshpriest - Illidan"] = {
@@ -266,20 +266,20 @@ JambaTeamProfileDB = {
 				["Toshpriest-Illidan"] = "PRIEST",
 			},
 			["master"] = "Toshpriest-Illidan",
-			["characterOnline"] = {
-				["Toshpriest-Illidan"] = true,
-			},
 			["teamList"] = {
 				["Toshpriest-Illidan"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshpriest-Illidan"] = true,
 			},
 		},
 		["Toshmoney - Quel'dorei"] = {
 			["master"] = "Toshmoney-Quel'dorei",
-			["characterOnline"] = {
-				["Toshmoney-Quel'dorei"] = true,
-			},
 			["teamList"] = {
 				["Toshmoney-Quel'dorei"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshmoney-Quel'dorei"] = true,
 			},
 		},
 		["Toshpal - Area 52"] = {
@@ -287,11 +287,11 @@ JambaTeamProfileDB = {
 				["Toshpal-Area52"] = "PALADIN",
 			},
 			["master"] = "Toshpal-Area52",
-			["characterOnline"] = {
-				["Toshpal-Area52"] = true,
-			},
 			["teamList"] = {
 				["Toshpal-Area52"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshpal-Area52"] = true,
 			},
 		},
 		["Toshpala - Illidan"] = {
@@ -299,30 +299,32 @@ JambaTeamProfileDB = {
 				["Toshpala-Illidan"] = "PALADIN",
 			},
 			["master"] = "Toshpala-Illidan",
-			["characterOnline"] = {
-				["Toshpala-Illidan"] = true,
-			},
 			["teamList"] = {
 				["Toshpala-Illidan"] = 1,
 			},
+			["characterOnline"] = {
+				["Toshpala-Illidan"] = true,
+			},
 		},
-		["Toshaman - Area 52"] = {
-			["master"] = "Toshaman-Area52",
+		["Tosh - Frostwolf"] = {
+			["master"] = "Tosh-Frostwolf",
 			["teamList"] = {
-				["Toshaman-Area52"] = 1,
+				["Tosh-Frostwolf"] = 1,
+				["Toshpal-Area52"] = 2,
 			},
 			["characterOnline"] = {
-				["Toshaman-Area52"] = true,
+				["Tosh-Frostwolf"] = true,
+				["Toshpal-Area52"] = false,
 			},
 		},
 		["Default"] = {
 			["characterOnline"] = {
 				["Toshpal-Kil'jaeden"] = false,
 				["Toshaman-Kil'jaeden"] = false,
-				["Toshpal-Area52"] = false,
+				["Toshpal-Area52"] = true,
 				["Toshpala-Illidan"] = false,
 				["Toshwar-Kil'jaeden"] = false,
-				["Toshdk-Kil'jaeden"] = true,
+				["Toshdk-Kil'jaeden"] = false,
 				["Tosh-Kil'jaeden"] = false,
 				["Yorman-Kil'jaeden"] = false,
 			},
@@ -346,15 +348,13 @@ JambaTeamProfileDB = {
 			},
 			["master"] = "Toshpal-Area52",
 		},
-		["Koutetsu - Frostwolf"] = {
-			["master"] = "Koutetsu-Frostwolf",
+		["Toshaman - Area 52"] = {
+			["master"] = "Toshaman-Area52",
 			["characterOnline"] = {
-				["Koutetsu-Frostwolf"] = true,
-				["Toshpal-Area52"] = false,
+				["Toshaman-Area52"] = true,
 			},
 			["teamList"] = {
-				["Koutetsu-Frostwolf"] = 1,
-				["Toshpal-Area52"] = 2,
+				["Toshaman-Area52"] = 1,
 			},
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
@@ -362,33 +362,33 @@ JambaTeamProfileDB = {
 				["Toshlongboy-Eldre'Thalas"] = "PRIEST",
 			},
 			["master"] = "Toshlongboy-Eldre'Thalas",
-			["teamList"] = {
-				["Toshlongboy-Eldre'Thalas"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshlongboy-Eldre'Thalas"] = true,
 			},
-		},
-		["Tosh - Frostwolf"] = {
-			["master"] = "Tosh-Frostwolf",
-			["characterOnline"] = {
-				["Tosh-Frostwolf"] = true,
-				["Toshpal-Area52"] = false,
-			},
 			["teamList"] = {
-				["Tosh-Frostwolf"] = 1,
+				["Toshlongboy-Eldre'Thalas"] = 1,
+			},
+		},
+		["Koutetsu - Frostwolf"] = {
+			["master"] = "Koutetsu-Frostwolf",
+			["teamList"] = {
+				["Koutetsu-Frostwolf"] = 1,
 				["Toshpal-Area52"] = 2,
+			},
+			["characterOnline"] = {
+				["Koutetsu-Frostwolf"] = true,
+				["Toshpal-Area52"] = false,
 			},
 		},
 		["Sumex - Frostwolf"] = {
 			["master"] = "Sumex-Frostwolf",
-			["teamList"] = {
-				["Toshpal-Area52"] = 2,
-				["Sumex-Frostwolf"] = 1,
-			},
 			["characterOnline"] = {
 				["Toshpal-Area52"] = false,
 				["Sumex-Frostwolf"] = true,
+			},
+			["teamList"] = {
+				["Toshpal-Area52"] = 2,
+				["Sumex-Frostwolf"] = 1,
 			},
 		},
 		["Toshwar - Kil'jaeden"] = {
@@ -396,11 +396,11 @@ JambaTeamProfileDB = {
 				["Toshwar-Kil'jaeden"] = "WARRIOR",
 			},
 			["master"] = "Toshwar-Kil'jaeden",
-			["characterOnline"] = {
-				["Toshwar-Kil'jaeden"] = true,
-			},
 			["teamList"] = {
 				["Toshwar-Kil'jaeden"] = 1,
+			},
+			["characterOnline"] = {
+				["Toshwar-Kil'jaeden"] = true,
 			},
 		},
 	},
@@ -650,12 +650,17 @@ JambaTagProfileDB = {
 				},
 			},
 		},
-		["Toshaman - Area 52"] = {
+		["Tosh - Frostwolf"] = {
 			["tagList"] = {
-				["Toshaman-Area52"] = {
+				["Tosh-Frostwolf"] = {
 					"all", -- [1]
 					"justme", -- [2]
 					"master", -- [3]
+				},
+				["Toshpal-Area52"] = {
+					"all", -- [1]
+					"justme", -- [2]
+					"minion", -- [3]
 				},
 			},
 		},
@@ -703,17 +708,12 @@ JambaTagProfileDB = {
 				},
 			},
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["tagList"] = {
-				["Koutetsu-Frostwolf"] = {
+				["Toshaman-Area52"] = {
 					"all", -- [1]
 					"justme", -- [2]
 					"master", -- [3]
-				},
-				["Toshpal-Area52"] = {
-					"all", -- [1]
-					"justme", -- [2]
-					"minion", -- [3]
 				},
 			},
 		},
@@ -726,9 +726,9 @@ JambaTagProfileDB = {
 				},
 			},
 		},
-		["Tosh - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 			["tagList"] = {
-				["Tosh-Frostwolf"] = {
+				["Koutetsu-Frostwolf"] = {
 					"all", -- [1]
 					"justme", -- [2]
 					"master", -- [3]
@@ -831,15 +831,15 @@ JambaMessageProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Tosh - Frostwolf"] = {
 		},
 		["Default"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Tosh - Frostwolf"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
