@@ -11,10 +11,6 @@ VER 3 0100000000000015 "fort" "INV_MISC_QUESTIONMARK"
 #showtooltip Power Word: Fortitude
 /cast [@player] Power Word: Fortitude
 END
-VER 3 010000000000000B "Heal" "INV_Misc_QuestionMark"
-#showtooltip Heal
-/cast [@mouseover,noharm] Heal
-END
 VER 3 0100000000000017 "lev" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player] Levitate
@@ -42,6 +38,10 @@ END
 VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
 #showtooltip
 /use [spec:1,@mouseover,noharm][spec:1,@targte,noharm][spec:3,@mouseover,noharm]Power Word: Shield;[spec:2,@mouseover,noharm]Renew
+END
+VER 3 010000000000000B "salv" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [spec:2,talent:7/2] Apotheosis; [spec:2,talent:7/3] Holy Word: Salvation
 END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
 #showtooltip

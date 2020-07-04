@@ -8,9 +8,9 @@ DataStore_MailsDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -22,8 +22,8 @@ DataStore_MailsDB = {
 						["itemID"] = 168313,
 						["link"] = "|cffffffff|Hitem:168313::::::::120:256::::::|h[Baked Port Tato]|h|r",
 						["count"] = 20,
-						["icon"] = 651570,
 						["lastCheck"] = 1590284500,
+						["icon"] = 651570,
 						["daysLeft"] = 30,
 					}, -- [1]
 					{
@@ -31,8 +31,8 @@ DataStore_MailsDB = {
 						["itemID"] = 168652,
 						["link"] = "|cffffffff|Hitem:168652::::::::120:256::::::|h[Greater Flask of Endless Fathoms]|h|r",
 						["count"] = 20,
-						["icon"] = 967549,
 						["lastCheck"] = 1590284600,
+						["icon"] = 967549,
 						["daysLeft"] = 30,
 					}, -- [2]
 					{
@@ -40,32 +40,20 @@ DataStore_MailsDB = {
 						["itemID"] = 171203,
 						["link"] = "|cffffffff|Hitem:171203::::::::120:262::::::|h[Vantus Rune: Ny'alotha, the Waking City]|h|r",
 						["count"] = 11,
-						["lastCheck"] = 1593746841,
 						["icon"] = 3069889,
+						["lastCheck"] = 1593746841,
 						["daysLeft"] = 30,
 					}, -- [3]
 				},
 				["lastVisitDate"] = "2020/04/06 11:24",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1593746842,
-				["Mails"] = {
-					{
-						["lastCheck"] = 1593746842,
-						["sender"] = "Thaumaturge Vashreen",
-						["subject"] = "Lost Currency",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "We discovered some lost currency from Ny'alotha, the Waking City in our ledgers, and it apparently belongs to you. 200 Corrupted Mementos have been added. If this caused you to go over your currency limit, we adjusted the amount to bring you to the limit and not go over!",
-						["icon"] = 134327,
-						["daysLeft"] = 17.96608734130859,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2020/07/02 23:27",
+				["lastUpdate"] = 1593830236,
+				["lastVisitDate"] = "2020/07/03 22:37",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1593664873,
-				["lastVisitDate"] = "2020/07/02 00:41",
+			["Default.Kil'jaeden.Toshaman"] = {
+				["lastUpdate"] = 1589762325,
+				["lastVisitDate"] = "2020/05/17 20:38",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587015595,
@@ -79,9 +67,9 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1593053958,
 				["lastVisitDate"] = "2020/06/24 22:59",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["lastUpdate"] = 1589762325,
-				["lastVisitDate"] = "2020/05/17 20:38",
+			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1593840107,
+				["lastVisitDate"] = "2020/07/04 01:21",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762476,
