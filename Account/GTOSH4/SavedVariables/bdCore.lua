@@ -14,79 +14,9 @@ BD_persistent = {
 		},
 	},
 	["users"] = {
-		["Daggny"] = {
-			["profile"] = "default",
-			["name"] = "Daggny",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Toshmoney"] = {
-			["profile"] = "default",
-			["name"] = "Toshmoney",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Tosku"] = {
-			["profile"] = "default",
-			["name"] = "Tosku",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Toshdk"] = {
-			["profile"] = "default",
-			["name"] = "Toshdk",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Toshlongboy"] = {
 			["profile"] = "default",
 			["name"] = "Toshlongboy",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
-		["Sumex"] = {
-			["profile"] = "default",
-			["name"] = "Sumex",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -112,9 +42,9 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshpal"] = {
+		["Tosku"] = {
 			["profile"] = "default",
-			["name"] = "Toshpal",
+			["name"] = "Tosku",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -129,6 +59,76 @@ BD_persistent = {
 		["Toshaman"] = {
 			["profile"] = "default",
 			["name"] = "Toshaman",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Daggny"] = {
+			["profile"] = "default",
+			["name"] = "Daggny",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshpriest"] = {
+			["profile"] = "default",
+			["name"] = "Toshpriest",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshmoney"] = {
+			["profile"] = "default",
+			["name"] = "Toshmoney",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshpal"] = {
+			["profile"] = "default",
+			["name"] = "Toshpal",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Toshdk"] = {
+			["profile"] = "default",
+			["name"] = "Toshdk",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -168,20 +168,6 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshmonk"] = {
-			["profile"] = "default",
-			["name"] = "Toshmonk",
-			["spec_profile"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-				{
-				}, -- [3]
-				{
-				}, -- [4]
-			},
-		},
 		["Zallie"] = {
 			["profile"] = "default",
 			["name"] = "Zallie",
@@ -196,9 +182,23 @@ BD_persistent = {
 				}, -- [4]
 			},
 		},
-		["Toshpriest"] = {
+		["Toshmonk"] = {
 			["profile"] = "default",
-			["name"] = "Toshpriest",
+			["name"] = "Toshmonk",
+			["spec_profile"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+			},
+		},
+		["Sumex"] = {
+			["profile"] = "default",
+			["name"] = "Sumex",
 			["spec_profile"] = {
 				{
 				}, -- [1]
@@ -276,28 +276,6 @@ BD_persistent = {
 			["background"] = "bdSmooth",
 			["warning"] = "Changing font and background are still a work in progress.",
 			["fontScale"] = 1,
-			["topViewport"] = 0,
-			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				[""] = true,
 				["welcome"] = true,
@@ -332,24 +310,24 @@ BD_persistent = {
 				["kill jaina saturday heroic wed @ 7pm cst"] = true,
 				["Guild BBQ 8/1!!!"] = true,
 				["Wed Mythic EP @ 7pm CST. We are NOT raiding nov 29/30th. "] = true,
-				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
+				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 				["4 x Mythic BoD Wed (20th) @ 7pm cst."] = true,
-				["Main Raid fri/sat 830pm-1230am cst."] = true,
+				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 				["kill boss this friday thankz."] = true,
 				["GUILD BBQ AUG 3! Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Main Raid Fri/Sat @ 830pm-1230am CST."] = true,
+				["H EP tonight @ 7pm cst(wed) if people are around. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Initiate your transfers to a52"] = true,
 				["Heroic Crucible Wed @ 7pm cst. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["H EP tonight @ 7pm cst(wed) if people are around. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["H EP WED @ 7pm CST. GJ on ZAQY Look up Azshara read raiding discord. Main Raid 830pm-1230am CST"] = true,
+				["Main Raid Fri/Sat @ 830pm-1230am CST."] = true,
+				["Heroic Main Raid tonight @ 7pm cst (thurs 2/13). Main Raid Fri/Sat Look up vexiona"] = true,
 				["If youre willing to donate flasks/herbs for cauldrons please send them to Pluie.! Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["Normal and Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
 				["heroic bod wed @ 7pm cst. "] = true,
 				["GUILD BBQ AUG 3! Tu/Th - Mythic BoD, DO M+! DONATE GBANK SLOT 2!"] = true,
 				["4 x Mythic BoD Wed starting @ 7pm CST."] = true,
-				["5 x Mythic BoD Wed (20th) @ 6pm cst."] = true,
+				["1 night clear pls"] = true,
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  RADEN/ILGY look out in raiding channel on discord"] = true,
 				["slay mekka friday and blockade saturday "] = true,
 				["Dec 27/28 just doing Mythic Bod for mount. Heroic @ 7pm Mythic @ 8pm CST WED. Main Raid 830pm-1230am cst."] = true,
@@ -357,48 +335,70 @@ BD_persistent = {
 				["Heroic @ 7pm Mythic @ 8pm CST WED. Normal Raid Schedule Dec 6/7"] = true,
 				["Mythic BoD x2 Wed @ 7pm CST. mythic nzoth fri/sat 830pm cst "] = true,
 				["H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
-				["doing 3 sets of bod clear wed @ 7pm cst. Mythic nzoth fri/sat 830pm cst "] = true,
-				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  carapace"] = true,
+				["kill n'zoth pls. main raid fri/sat 830pm-1230am cst"] = true,
+				["RIP Toshmonk"] = true,
+				["Mythic Azshara Wed + Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat"] = true,
 				["main raid tonight slay stormwall :)"] = true,
-				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
-				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Wed Mythic EP @ 8pm CST. We are NOT raiding nov 29/30th. Normal Raid Schedule Dec 6/7"] = true,
 				["Mythic Carapace on Mon @ 8pm CST. please show up "] = true,
 				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
-				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
-				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
-				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
+				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
 				["Mythic first 3 wed @7pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
-				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
+				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
 				["heroic bod 2nite @ 7pm cst :)(: Main Raid Fri/Sat @ 830pm cst "] = true,
-				["Mythic nzoth fri/sat 830pm cst "] = true,
+				["heroic bod @ 7pm cst wed "] = true,
 				["Be ready to 1 night clear friday xd"] = true,
 				["somewhat good job on mekka....come fresh next week slay bosses "] = true,
 				["Main Raid Fri/Sat @ 830pm cst "] = true,
-				["heroic bod @ 7pm cst wed "] = true,
+				["Mythic nzoth fri/sat 830pm cst "] = true,
 				["HEROIC TODAY(WED) @7pm CST. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["BARBADOS IS ALIVE. H EP WED @ 7pm CST. Make sure you read Discord! Main Raid 830pm-1230am CST"] = true,
+				["Tu/Th - H BoD, W - N BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
-				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
-				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
+				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
-				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
-				["Mythic Azshara Wed + Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat"] = true,
-				["RIP Toshmonk"] = true,
-				["kill n'zoth pls. main raid fri/sat 830pm-1230am cst"] = true,
+				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  carapace"] = true,
+				["I'm a sunflower.  Main Raid Fri/Sat 830pm-1230am cst. "] = true,
+				["doing 3 sets of bod clear wed @ 7pm cst. Mythic nzoth fri/sat 830pm cst "] = true,
 				["Heroic Crucible SAT @ 1pm CST. Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Mythic BoD x4 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
 				["4 x Mythic BoD (27th) wed @ 7pm cst. Main Raid fri/sat 830pm-1230am cst."] = true,
-				["1 night clear pls"] = true,
+				["5 x Mythic BoD Wed (20th) @ 6pm cst."] = true,
 				["Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat  be prepared for ilgy/carapace"] = true,
-				["Heroic Main Raid tonight @ 7pm cst (thurs 2/13). Main Raid Fri/Sat Look up vexiona"] = true,
+				["H EP WED @ 7pm CST. GJ on ZAQY Look up Azshara read raiding discord. Main Raid 830pm-1230am CST"] = true,
 				["Your guild has moved to a new realm and/or changed factions! Follow your guild to its new home by purchasing a character service in the shop. You will rejoin your guild automatically once your character service is complete."] = true,
-				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
-				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
+				["Main Raid fri/sat 830pm-1230am cst."] = true,
+				["h bod @ 7pm cst. come fresh next week slay bosses "] = true,
 			},
+			["interrupt"] = false,
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["skingmotd"] = true,
+			["bottomViewport"] = 0,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["forcescale"] = false,
+			["changefonts"] = false,
+			["font"] = "Friz Quadrata TT",
+			["topViewport"] = 0,
 		},
 	},
 	["profiles"] = {

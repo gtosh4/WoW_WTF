@@ -6,9 +6,6 @@ OneRing_Config = {
 	["_OPieVersion"] = "Walnut 6 (3.101)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RotationTokens"] = {
-				["OPCTAt"] = "ABuehM3uZg1",
-			},
 			["Bindings"] = {
 				["WarlockLTS"] = false,
 				["SpecMenu"] = "ALT-A",
@@ -17,10 +14,13 @@ OneRing_Config = {
 				["DruidFeral"] = false,
 				["RaidSymbols"] = "ALT-E",
 				["WorldMarkers"] = "ALT-Q",
-				["Mounts"] = false,
-				["OPieTracking"] = false,
-				["OPieAutoQuest"] = "ALT-S",
 				["PaladinAuras"] = false,
+				["OPieAutoQuest"] = "ALT-S",
+				["OPieTracking"] = false,
+				["Mounts"] = false,
+			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "ABuehM3uZg1",
 			},
 		},
 	},

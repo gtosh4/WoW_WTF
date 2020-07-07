@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1898,
 	["lastSanitation"] = 3,
-	["session"] = 1897,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroup1:Show()'.",
