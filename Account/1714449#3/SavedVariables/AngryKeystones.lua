@@ -4,51 +4,7 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 	["state"] = {
-		["mapID"] = 370,
-		["splits"] = {
-			178, -- [1]
-			573, -- [2]
-			973, -- [3]
-			1552, -- [4]
-			1315, -- [5]
-			["party1Name"] = "Toshpriest",
-			["party1Class"] = "Priest",
-			["party4Class"] = "Hunter",
-			["party2Name"] = "Evandh",
-			["patch"] = "8.3.0",
-			["timeLimit"] = 1920,
-			["level"] = 17,
-			["timeElapsed"] = 1551.95,
-			["party3Role"] = "DAMAGER",
-			["affixes3"] = 3,
-			["party5Role"] = "DAMAGER",
-			["party3Name"] = "Qiro",
-			["affixes2"] = 5,
-			["party1Role"] = "HEALER",
-			["party4Name"] = "Daedalis",
-			["party4Role"] = "DAMAGER",
-			["party3Class"] = "Shaman",
-			["wasEnergized"] = true,
-			["affixes1"] = 9,
-			["party5Class"] = "Hunter",
-			["mapID"] = 2097,
-			["party2Role"] = "TANK",
-			["date"] = 1594072825,
-			["party2Class"] = "Demon Hunter",
-			["party5Name"] = "Wilhun",
-		},
 		["playerDeaths"] = {
-			["Toshpriest"] = 1,
-			["Wilhun"] = 1,
-			["Daedalis-Kil'jaeden"] = 2,
-			["Qiro-Kil'jaeden"] = 1,
-		},
-		["splitNames"] = {
-			"Tussle Tonks defeated", -- [1]
-			"K.U.-J.0. defeated", -- [2]
-			"Machinist's Garden defeated", -- [3]
-			"King Mechagon defeated", -- [4]
-			"Enemy Forces", -- [5]
 		},
 	},
 	["splits"] = {
@@ -441,9 +397,9 @@ AngryKeystones_Data = {
 			[6] = 9,
 		},
 		[155433] = {
-			[7] = 3,
 			[9] = 11,
 			[4] = 66,
+			[7] = 3,
 		},
 		[138187] = {
 			[4] = 104,
@@ -765,11 +721,11 @@ AngryKeystones_Data = {
 		[134005] = {
 			23, -- [1]
 		},
-		[134251] = {
-			[4] = 9,
-		},
 		[136295] = {
 			[13] = 6,
+		},
+		[134251] = {
+			[4] = 9,
 		},
 		[139425] = {
 			[4] = 12,
@@ -781,21 +737,21 @@ AngryKeystones_Data = {
 			3, -- [1]
 			[4] = 1,
 		},
-		[127488] = {
-			[7] = 41,
-		},
-		[130011] = {
-			[4] = 26,
-		},
 		[152009] = {
 			[5] = 19,
-		},
-		[137989] = {
-			140, -- [1]
 		},
 		[130522] = {
 			[2] = 181,
 			[6] = 1,
+		},
+		[127488] = {
+			[7] = 41,
+		},
+		[137989] = {
+			140, -- [1]
+		},
+		[130011] = {
+			[4] = 26,
 		},
 		[129369] = {
 			[8] = 1,
@@ -880,9 +836,9 @@ AngryKeystones_Data = {
 			[4] = 38,
 		},
 		[155434] = {
-			[7] = 6,
 			[9] = 8,
 			[4] = 113,
+			[7] = 6,
 		},
 		[131445] = {
 			[9] = 8,

@@ -25,11 +25,11 @@ AdiBagsDB = {
 		},
 		["Junk"] = {
 		},
-		["WoD"] = {
+		["BfA"] = {
 		},
 		["MoneyFrame"] = {
 		},
-		["BfA"] = {
+		["WoD"] = {
 		},
 		["PriorExpansion"] = {
 		},
