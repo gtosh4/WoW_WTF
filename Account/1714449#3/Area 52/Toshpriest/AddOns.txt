@@ -31,4 +31,5 @@ WeakAurasArchive: enabled
 BigWigs_Nyalotha: enabled
 ElvUI_OptionsUI: enabled
 REFlex: enabled
-ElvUI_SLE: disabled
+ElvUI_SLE: enabled
+ElvUI_DTBars2: disabled

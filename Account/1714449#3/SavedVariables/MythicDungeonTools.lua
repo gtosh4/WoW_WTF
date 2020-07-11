@@ -22,8 +22,8 @@ MythicDungeonToolsDB = {
 		["MDI"] = {
 			["enabled"] = false,
 		},
-		["maximized"] = false,
 		["nonFullscreenScale"] = 1,
+		["maximized"] = false,
 		["presets"] = {
 			[15] = {
 				{

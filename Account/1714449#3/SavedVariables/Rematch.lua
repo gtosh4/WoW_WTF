@@ -26,11 +26,11 @@ RematchSettings = {
 	},
 	["QueueSortOrder"] = 1,
 	["XPos"] = 1445.817626953125,
-	["JournalUsed"] = true,
-	["SpecialSlots"] = {
-	},
-	["HidePetToast"] = true,
 	["LevelingQueue"] = {
+	},
+	["PetCardYPos"] = 1241.056640625,
+	["HidePetToast"] = true,
+	["FavoriteFilters"] = {
 	},
 	["Sort"] = {
 		["Order"] = 1,
@@ -73,8 +73,7 @@ RematchSettings = {
 		["Types"] = {
 		},
 	},
-	["FavoriteFilters"] = {
-	},
+	["JournalUsed"] = true,
 	["UseDefaultJournal"] = true,
 	["PetCardXPos"] = 400.9999694824219,
 	["CollapsedOptHeaders"] = {
@@ -86,8 +85,9 @@ RematchSettings = {
 	},
 	["JournalPanel"] = 1,
 	["CornerPos"] = "BOTTOMLEFT",
-	["PetCardYPos"] = 1241.056640625,
 	["QueueSanctuary"] = {
+	},
+	["SpecialSlots"] = {
 	},
 	["YPos"] = 422.5283813476563,
 	["CustomScaleValue"] = 100,

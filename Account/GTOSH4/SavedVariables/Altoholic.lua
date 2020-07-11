@@ -12,29 +12,29 @@ AltoholicDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
 		["Sharing"] = {
-			["Clients"] = {
-				"Tosh|1", -- [1]
-			},
 			["Domains"] = {
 				["Tosh.Kil'jaeden"] = {
-					["lastUpdatedWith"] = "Tosh",
 					["lastSharingTimestamp"] = 1556407707,
+					["lastUpdatedWith"] = "Tosh",
 				},
+			},
+			["Clients"] = {
+				"Tosh|1", -- [1]
 			},
 		},
 		["options"] = {
@@ -49,7 +49,7 @@ AltoholicDB = {
 			["UI.Tabs.Summary.CurrentMode"] = 4,
 			["Tabs.Achievements.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshpal",
 			["Tabs.Grids.Default.Kil'jaeden.Column2"] = "Default.Kil'jaeden.Toshaman",
-			["UI.Mail.LastExpiryWarning"] = 1594069065,
+			["UI.Mail.LastExpiryWarning"] = 1594407270,
 			["UI.Minimap.ShowIcon"] = false,
 			["UI.AccountSharing.IsEnabled"] = true,
 			["Tabs.Grids.Default.Kil'jaeden.Column3"] = "Default.Kil'jaeden.Toshdk",

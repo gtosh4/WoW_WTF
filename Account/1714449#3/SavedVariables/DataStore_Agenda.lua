@@ -30,7 +30,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1587015374,
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1593831646,
+				["lastUpdate"] = 1594431183,
 			},
 			["Default.Kil'jaeden.Toshaman"] = {
 				["lastUpdate"] = 1589762304,
@@ -51,9 +51,10 @@ DataStore_AgendaDB = {
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|394626731"] = "556545|1594182252|0|1",
+					["Ny'alotha, the Waking City Heroic|394626731"] = "285736|1594453062|0|1",
+					["Ny'alotha, the Waking City Mythic|385132090"] = "285736|1594453062|0|1",
 				},
-				["lastUpdate"] = 1594182234,
+				["lastUpdate"] = 1594453060,
 			},
 			["Default.Kil'jaeden.Tosh"] = {
 				["lastUpdate"] = 1589762465,

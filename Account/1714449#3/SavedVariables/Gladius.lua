@@ -338,11 +338,11 @@ Gladius2DB = {
 		["Toshaman - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1435.46688051906,
-			},
 			["y"] = {
 				["arena1"] = 366.8467068816099,
+			},
+			["x"] = {
+				["arena1"] = 1435.46688051906,
 			},
 		},
 		["Toshaman - Kil'jaeden"] = {

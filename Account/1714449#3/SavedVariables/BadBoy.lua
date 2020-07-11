@@ -1,6 +1,6 @@
 
 BADBOY_BLACKLIST = {
-	["dayFromCal"] = 7,
+	["dayFromCal"] = 11,
 }
 BADBOY_OPTIONS = {
 	["temp82Msg"] = true,
