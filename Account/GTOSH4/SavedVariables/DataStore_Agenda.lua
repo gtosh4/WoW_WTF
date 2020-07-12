@@ -77,7 +77,11 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1581544133,
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1594412270,
+				["DungeonIDs"] = {
+					["Ny'alotha, the Waking City Mythic|394929280"] = "209137|1594529661|0|1",
+					["Ny'alotha, the Waking City Heroic|385252030"] = "209137|1594529661|0|1",
+				},
+				["lastUpdate"] = 1594529660,
 			},
 			["Default.Frostwolf.Sumex"] = {
 				["lastUpdate"] = 1581544171,

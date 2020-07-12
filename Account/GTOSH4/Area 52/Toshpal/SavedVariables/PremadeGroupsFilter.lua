@@ -124,11 +124,11 @@ PremadeGroupsFilterState = {
 		},
 	},
 	["t1c3f1"] = {
-		["enabled"] = false,
+		["enabled"] = true,
 		["tanks"] = {
 			["max"] = "",
 			["min"] = "2",
-			["act"] = false,
+			["act"] = true,
 		},
 		["ilvl"] = {
 			["max"] = "",
@@ -156,7 +156,7 @@ PremadeGroupsFilterState = {
 		["heals"] = {
 			["max"] = "3",
 			["min"] = "",
-			["act"] = false,
+			["act"] = true,
 		},
 		["members"] = {
 			["max"] = "",

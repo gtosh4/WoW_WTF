@@ -65,17 +65,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 28,
-						["count"] = 95607,
+						["count"] = 120236,
 					}, -- [2]
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 11368,
+						["count"] = 16063,
 					}, -- [3]
 					{
 						["isHeader"] = false,
 						["index"] = 30,
-						["count"] = 2038,
+						["count"] = 3909,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -105,7 +105,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 15123,
+						["count"] = 15447,
 					}, -- [10]
 					{
 						["isHeader"] = true,
@@ -150,7 +150,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1594431183,
+				["lastUpdate"] = 1594510483,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
@@ -162,7 +162,7 @@ DataStore_CurrenciesDB = {
 					[1710] = "355-0-0-0",
 					[823] = "0-0-0-0",
 					[1226] = "0-0-0-0",
-					[1560] = "15123-0-0-0",
+					[1560] = "15447-0-0-0",
 					[994] = "0-0-0-0",
 					[1342] = "0-0-0-0",
 					[1580] = "1-0-0-5",
@@ -496,12 +496,12 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 28,
-						["count"] = 29380,
+						["count"] = 32024,
 					}, -- [2]
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 3290,
+						["count"] = 3320,
 					}, -- [3]
 					{
 						["isHeader"] = false,
@@ -526,7 +526,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 4,
-						["count"] = 2,
+						["count"] = 4,
 					}, -- [8]
 					{
 						["isHeader"] = false,
@@ -536,7 +536,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 6,
-						["count"] = 11234,
+						["count"] = 11176,
 					}, -- [10]
 					{
 						["isHeader"] = true,
@@ -581,16 +581,16 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1594453180,
+				["lastUpdate"] = 1594532118,
 				["CurrencyInfo"] = {
 					[395] = "0-0-0-0",
 					[1220] = "0-0-0-0",
 					[824] = "0-0-0-0",
 					[1273] = "0-0-0-0",
 					[1191] = "0-0-0-0",
-					[1580] = "2-0-0-5",
+					[1580] = "4-0-0-5",
 					[823] = "0-0-0-0",
-					[1560] = "11234-0-0-0",
+					[1560] = "11176-0-0-0",
 					[1342] = "0-0-0-0",
 					[1226] = "0-0-0-0",
 					[1710] = "258-0-0-0",

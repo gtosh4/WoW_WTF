@@ -339,28 +339,6 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Tosh - Frostwolf"] = {
-			["CharListWithModifiers"] = {
-				["Tosh-Frostwolf"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-				["Toshpal-Area52"] = {
-					["ralt"] = false,
-					["useToon"] = false,
-					["rctrl"] = false,
-					["lshift"] = false,
-					["lctrl"] = false,
-					["rshift"] = false,
-					["lalt"] = false,
-				},
-			},
-		},
 		["Default"] = {
 			["CharListWithModifiers"] = {
 				["Toshaman-Kil'jaeden"] = {
@@ -410,22 +388,18 @@ JambaFTLProfileDB = {
 				},
 			},
 		},
-		["Toshaman - Area 52"] = {
+		["Tosh - Frostwolf"] = {
 			["CharListWithModifiers"] = {
-				["Toshaman-Area52"] = {
+				["Tosh-Frostwolf"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
 					["lshift"] = false,
-					["rshift"] = false,
 					["lctrl"] = false,
+					["rshift"] = false,
 					["lalt"] = false,
 				},
-			},
-		},
-		["Toshlongboy - Eldre'Thalas"] = {
-			["CharListWithModifiers"] = {
-				["Toshlongboy-Eldre'Thalas"] = {
+				["Toshpal-Area52"] = {
 					["ralt"] = false,
 					["useToon"] = false,
 					["rctrl"] = false,
@@ -454,6 +428,32 @@ JambaFTLProfileDB = {
 					["lshift"] = false,
 					["lctrl"] = false,
 					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshlongboy - Eldre'Thalas"] = {
+			["CharListWithModifiers"] = {
+				["Toshlongboy-Eldre'Thalas"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["lctrl"] = false,
+					["rshift"] = false,
+					["lalt"] = false,
+				},
+			},
+		},
+		["Toshaman - Area 52"] = {
+			["CharListWithModifiers"] = {
+				["Toshaman-Area52"] = {
+					["ralt"] = false,
+					["useToon"] = false,
+					["rctrl"] = false,
+					["lshift"] = false,
+					["rshift"] = false,
+					["lctrl"] = false,
 					["lalt"] = false,
 				},
 			},

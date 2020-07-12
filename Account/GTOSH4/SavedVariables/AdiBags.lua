@@ -59,7 +59,7 @@ AdiBagsDB = {
 		},
 		["Junk"] = {
 		},
-		["WoD"] = {
+		["BfA"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,
@@ -69,7 +69,7 @@ AdiBagsDB = {
 		},
 		["PriorExpansion"] = {
 		},
-		["BfA"] = {
+		["WoD"] = {
 			["profiles"] = {
 				["Default"] = {
 					["RaidEquipment"] = false,
@@ -93,14 +93,14 @@ AdiBagsDB = {
 						["Timeworn Artifact"] = false,
 						["Nethershard"] = false,
 						["Seal of Broken Fate"] = false,
-						["Garrison Resources"] = false,
-						["Wakening Essence"] = false,
 						["Dalaran Jewelcrafter's Token"] = false,
-						["Order Resources"] = false,
+						["Wakening Essence"] = false,
+						["Garrison Resources"] = false,
+						["Apexis Crystal"] = false,
 						["Veiled Argunite"] = false,
 						["Curious Coin"] = false,
 						["Seal of Tempered Fate"] = false,
-						["Apexis Crystal"] = false,
+						["Order Resources"] = false,
 						["Champion's Seal"] = false,
 						["Timewarped Badge"] = false,
 					},
@@ -122,7 +122,12 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["AdiBags_TooltipInfo"] = {
+		["Equipment"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dispatchRule"] = "one",
+				},
+			},
 		},
 		["Legion"] = {
 			["profiles"] = {
@@ -142,12 +147,7 @@ AdiBagsDB = {
 		},
 		["ItemLevel"] = {
 		},
-		["Equipment"] = {
-			["profiles"] = {
-				["Default"] = {
-					["dispatchRule"] = "one",
-				},
-			},
+		["AdiBags_TooltipInfo"] = {
 		},
 		["Bound"] = {
 		},

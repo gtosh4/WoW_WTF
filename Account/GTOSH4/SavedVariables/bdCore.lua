@@ -278,26 +278,6 @@ BD_persistent = {
 			["fontScale"] = 1,
 			["topViewport"] = 0,
 			["interrupt"] = false,
-			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
-			["doubleclickbo"] = true,
-			["skingmotd"] = true,
-			["skinwas"] = false,
-			["font"] = "Friz Quadrata TT",
-			["changefonts"] = false,
-			["forcescale"] = false,
-			["topViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
-			["bottomViewport"] = 0,
-			["bottomViewportBGColor"] = {
-				0.09, -- [1]
-				0.1, -- [2]
-				0.13, -- [3]
-				1, -- [4]
-			},
 			["gmotd"] = {
 				[""] = true,
 				["welcome"] = true,
@@ -363,11 +343,11 @@ BD_persistent = {
 				["main raid tonight slay stormwall :)"] = true,
 				["Main Raid Fri/Sat 830pm-1230am cst. "] = true,
 				["heroic ny'alotha wed @ 7pm cst. main raid fri/sat 830pm cst"] = true,
-				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
-				["Wed Mythic EP @ 8pm CST. We are NOT raiding nov 29/30th. Normal Raid Schedule Dec 6/7"] = true,
-				["Mythic Carapace on Mon @ 8pm CST. please show up "] = true,
-				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
 				["Mythic BoD x3 Wed (May 6th) @ 7pm CST. Main Raid Fri/Sat 830pm-1230am CST"] = true,
+				["Wed Mythic EP @ 8pm CST. We are NOT raiding nov 29/30th. Normal Raid Schedule Dec 6/7"] = true,
+				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["ALT H Wed 1/22 @7pm cst. Heroic Main Raid Jan 24&25 during regular raid time."] = true,
+				["HEROIC LAST 3 MONDAY 6PM!!! GUILD BBQ AUG 3! Tu/Th - Mythic BoD, W - Heroic BoD! DO M+! DONATE GBANK SLOT 2!"] = true,
 				["Heroic Crucible WED @ 7pm CST(mains).Main Raid Fri/Sat @ 830pm cst "] = true,
 				["Mythic Ny'alotha wed @ 7pm CST to clear as many as we can.. Main Raid fri/sat be prepared for ilgy/carapace"] = true,
 				["Mythic first 3 wed @7pm cst. Main Raid Fri/Sat back to normal! 830pm-1230am cst."] = true,
@@ -383,7 +363,7 @@ BD_persistent = {
 				["MAKE SURE YOU SAVE YOUR MAP, DONT TURN IT IN THIS WEEK!"] = true,
 				["back to regular schedule Jan 3/4 normal raid time. see you all there"] = true,
 				["(ALT)H EP WED @ 7pm CST. main raiders hit 55 for mythic. Main Raid Fri/Sat 830pm-1230am cst. "] = true,
-				["if you have extra stringy loins/meaty haunchs please send to pluie thanks. Main Raid Fri/Sat @ 830pm cst "] = true,
+				["Mythic Carapace on Mon @ 8pm CST. please show up "] = true,
 				["heroic wed @ 7pm cst. kill boss this friday thankz."] = true,
 				["heroic bod wed @ 7pm cst and main raid fri/sat @ 830pm cst"] = true,
 				["Mythic Azshara Wed + Heroic Ny'alotha wed @ 7pm CST. Main Raid fri/sat"] = true,
@@ -399,6 +379,26 @@ BD_persistent = {
 				["3 x bod Wed @ 7pm CST. Be ready to 1 night clear friday xd"] = true,
 				["Heroic Main Raid Jan 24&25 during regular raid time. NOONE is safe."] = true,
 			},
+			["font"] = "Friz Quadrata TT",
+			["skingmotd"] = true,
+			["changefonts"] = false,
+			["doubleclickbo"] = true,
+			["skinwas"] = false,
+			["forcescale"] = false,
+			["topViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["bottomViewport"] = 0,
+			["bottomViewportBGColor"] = {
+				0.09, -- [1]
+				0.1, -- [2]
+				0.13, -- [3]
+				1, -- [4]
+			},
+			["text"] = "Personal recommendation: a 60px viewport at the top and bottom of your screen can mimic an extended camera zoom distance.",
 		},
 	},
 	["profiles"] = {

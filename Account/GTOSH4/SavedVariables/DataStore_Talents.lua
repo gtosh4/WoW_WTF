@@ -80,7 +80,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1594412270,
+				["lastUpdate"] = 1594529660,
 				["Specializations"] = {
 					6013, -- [1]
 					14777, -- [2]
