@@ -63,7 +63,7 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1594532118,
+				["lastUpdate"] = 1594590652,
 				["Specializations"] = {
 					5631, -- [1]
 					10670, -- [2]

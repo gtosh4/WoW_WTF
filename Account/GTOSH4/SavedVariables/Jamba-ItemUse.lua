@@ -618,6 +618,8 @@ JambaItemUseProfileDB = {
 			["itemUseTitleHeight"] = 2,
 		},
 		["Toshpal - Kil'jaeden"] = {
+			["itemUseTitleHeight"] = 2,
+			["frameYOffset"] = 210.6496734619141,
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -700,8 +702,6 @@ JambaItemUseProfileDB = {
 					["kind"] = "empty",
 				}, -- [20]
 			},
-			["frameYOffset"] = 210.6496734619141,
-			["itemUseTitleHeight"] = 2,
 			["frameXOffset"] = -9.390840530395508,
 		},
 		["Toshpriest - Illidan"] = {
@@ -1044,32 +1044,31 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Default"] = {
-			["frameYOffset"] = 191.8657684326172,
+		["Koutetsu - Frostwolf"] = {
 			["itemsAdvanced"] = {
 				{
-					["action"] = "item:173406",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [1]
 				{
-					["action"] = "item:166298",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [2]
 				{
-					["action"] = "item:173420",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [3]
 				{
-					["action"] = "item:173413",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [4]
 				{
-					["action"] = "item:166299",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [5]
 				{
-					["action"] = "item:169940",
-					["kind"] = "item",
+					["action"] = "empty",
+					["kind"] = "empty",
 				}, -- [6]
 				{
 					["action"] = "empty",
@@ -1129,7 +1128,6 @@ JambaItemUseProfileDB = {
 				}, -- [20]
 			},
 			["itemUseTitleHeight"] = 2,
-			["showItemUse"] = false,
 		},
 		["Tosh - Frostwolf"] = {
 			["itemsAdvanced"] = {
@@ -1216,7 +1214,7 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 			["itemsAdvanced"] = {
 				{
 					["action"] = "empty",
@@ -1386,31 +1384,32 @@ JambaItemUseProfileDB = {
 			},
 			["itemUseTitleHeight"] = 2,
 		},
-		["Toshaman - Area 52"] = {
+		["Default"] = {
+			["frameYOffset"] = 191.8657684326172,
 			["itemsAdvanced"] = {
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173406",
+					["kind"] = "item",
 				}, -- [1]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:166298",
+					["kind"] = "item",
 				}, -- [2]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173420",
+					["kind"] = "item",
 				}, -- [3]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:173413",
+					["kind"] = "item",
 				}, -- [4]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:166299",
+					["kind"] = "item",
 				}, -- [5]
 				{
-					["action"] = "empty",
-					["kind"] = "empty",
+					["action"] = "item:169940",
+					["kind"] = "item",
 				}, -- [6]
 				{
 					["action"] = "empty",
@@ -1470,6 +1469,7 @@ JambaItemUseProfileDB = {
 				}, -- [20]
 			},
 			["itemUseTitleHeight"] = 2,
+			["showItemUse"] = false,
 		},
 		["Sumex - Frostwolf"] = {
 			["itemsAdvanced"] = {

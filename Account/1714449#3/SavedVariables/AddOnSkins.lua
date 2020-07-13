@@ -35,7 +35,6 @@ AddOnSkinsDB = {
 			["Blizzard_WarfrontsPartyPoseUI"] = true,
 			["Dominos"] = false,
 			["Blizzard_GuildBankUI"] = true,
-			["Blizzard_GuildControlUI"] = true,
 			["PremadeGroupsFilter"] = false,
 			["Blizzard_ChatBubbles"] = true,
 			["Azeroth Auto Pilot"] = false,

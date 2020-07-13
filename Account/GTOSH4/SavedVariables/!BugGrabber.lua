@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2480,
 	["lastSanitation"] = 3,
+	["session"] = 2483,
 	["errors"] = {
 		{
 			["message"] = "...terface\\AddOns\\ElvUI\\Modules\\DataTexts\\DataTexts.lua:741: Events must be registered as a table.",
@@ -13,8 +13,8 @@ BugGrabberDB = {
 		}, -- [1]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/07/10 14:54:30",
 			["session"] = 2472,
+			["time"] = "2020/07/10 14:54:30",
 			["counter"] = 10,
 		}, -- [2]
 		{
@@ -48,5 +48,13 @@ BugGrabberDB = {
 			["session"] = 2479,
 			["counter"] = 1,
 		}, -- [6]
+		{
+			["message"] = "...erface\\AddOns\\ElvUI_SLE\\modules\\armory\\character-Character.lua:382: attempt to index field 'SLE_Armory_BG' (a nil value)",
+			["time"] = "2020/07/12 17:51:30",
+			["locals"] = "self = <table> {\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:367\n Enable = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:345\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n EnableModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:332\n modules = <table> {\n }\n GetModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:210\n IterateEmbeds = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:442\n UpdateCorruptionLevel = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:315\n SecureHook = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:336\n defaultModuleLibraries = <table> {\n }\n baseName = \"ElvUI_SLE\"\n LoadAndSetup = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:447\n UnregisterChatCommand = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:111\n RawHookScript = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:395\n defaultModuleState = true\n RegisterChatCommand = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:85\n Printf = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:69\n NewModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n Calculate_Durability = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:211\n ElvOverlayToggle = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:298\n FixFuckingBlizzardLogic = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:334\n name = \"ElvUI_SLE_Armory_Character\"\n Update_BG = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:228\n IsEnabled = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n orderedModules = <table> {\n }\n Update_SlotCorruption = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:262\n DisableModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:350\n ToggleArmory = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:434\n Update_ItemLevel = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:240\n Update_Gems = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:273\n Update_Durability = <function> defined @Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character.lua:287\n RegisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n Print = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n SecureHookScript = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:410\n IsHooked = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:493\n hooks = <table> {\n }\n SendMessage = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:59\n IsModule = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:217\n UnhookAll = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceHook-3.0\\AceHook-3.0.lua:477\n SetDefaultModuleState = <function> defined @Interface\\AddOns\\Accountant_Classic\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:387\n Unhook = <function> defined @Inter",
+			["stack"] = "[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character-Character.lua\"]:382: in function `Enable'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character-Character.lua\"]:436: in function `ToggleArmory'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\core\\install.lua\"]:1689: in function <Interface\\AddOns\\ElvUI_SLE\\core\\install.lua:1689>",
+			["session"] = 2482,
+			["counter"] = 1,
+		}, -- [7]
 	},
 }

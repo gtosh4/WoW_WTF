@@ -18,13 +18,13 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1578018411,
 				["lastVisitDate"] = "2020/01/02 21:26",
 			},
-			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1593830118,
-				["lastVisitDate"] = "2020/07/03 22:35",
-			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["lastUpdate"] = 1587009575,
 				["lastVisitDate"] = "2020/04/15 23:59",
+			},
+			["Default.Area 52.Toshaman"] = {
+				["lastUpdate"] = 1593830118,
+				["lastVisitDate"] = "2020/07/03 22:35",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1594435021,

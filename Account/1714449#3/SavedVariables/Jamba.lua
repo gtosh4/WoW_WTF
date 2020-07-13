@@ -135,12 +135,12 @@ JambaTeamProfileDB = {
 		},
 		["Default"] = {
 			["characterOnline"] = {
-				["Toshpal-Kil'jaeden"] = false,
+				["Toshpal-Kil'jaeden"] = true,
 				["Toshpriest-Area52"] = true,
-				["Toshpal-Area52"] = false,
-				["Toshaman-Area52"] = false,
+				["Toshpal-Area52"] = true,
+				["Toshaman-Area52"] = true,
 				["Toshdk-Kil'Jaeden"] = true,
-				["Toshdk-Kil'jaeden"] = false,
+				["Toshdk-Kil'jaeden"] = true,
 			},
 			["characterClass"] = {
 				["Toshpal-Kil'jaeden"] = "PALADIN",
