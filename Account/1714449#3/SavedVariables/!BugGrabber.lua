@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1930,
 	["lastSanitation"] = 3,
+	["session"] = 1933,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
@@ -116,8 +116,8 @@ BugGrabberDB = {
 		}, -- [14]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/07/10 15:00:50",
 			["session"] = 1914,
+			["time"] = "2020/07/10 15:00:50",
 			["counter"] = 10,
 		}, -- [15]
 		{
@@ -167,11 +167,18 @@ BugGrabberDB = {
 			["counter"] = 2,
 		}, -- [21]
 		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/07/13 16:13:17",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 1931,
+			["counter"] = 1,
+		}, -- [22]
+		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'MainMenuBar:SetPoint()'.",
 			["time"] = "2020/07/10 15:02:05",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3093: in function `UIParentManageFramePositions'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2462: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3265: in function <Interface\\FrameXML\\UIParent.lua:3263>\n[string \"=[C]\"]: in function `UIParent_ManageFramePositions'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:16: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:15>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:159: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:124>\n[string \"=[C]\"]: in function `TalkingHeadFrame_PlayCurrent'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:25: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:23>",
-			["session"] = 1928,
-			["counter"] = 7,
-		}, -- [22]
+			["session"] = 1931,
+			["counter"] = 8,
+		}, -- [23]
 	},
 }
