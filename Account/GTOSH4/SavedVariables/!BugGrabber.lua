@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 2486,
 	["lastSanitation"] = 3,
-	["session"] = 2483,
 	["errors"] = {
 		{
 			["message"] = "...terface\\AddOns\\ElvUI\\Modules\\DataTexts\\DataTexts.lua:741: Events must be registered as a table.",
@@ -13,8 +13,8 @@ BugGrabberDB = {
 		}, -- [1]
 		{
 			["message"] = "(null)",
-			["session"] = 2472,
 			["time"] = "2020/07/10 14:54:30",
+			["session"] = 2472,
 			["counter"] = 10,
 		}, -- [2]
 		{
@@ -34,20 +34,12 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [4]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'WorldFrame:ClearAllPoints()'.",
-			["time"] = "2020/07/11 17:41:43",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:70: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:57: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2688: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2769: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2457: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3327: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
-			["session"] = 2477,
-			["counter"] = 1,
-		}, -- [5]
-		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBarRight:SetShown()'.",
 			["time"] = "2020/07/11 20:16:50",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:39: in function <Interface\\FrameXML\\MultiActionBars.lua:34>\n[string \"@Interface\\FrameXML\\MultiActionBars.lua\"]:70: in function `MultiActionBar_Update'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:169: in function `ValidateActionBarTransition'\n[string \"@Interface\\FrameXML\\ActionBarController.lua\"]:137: in function `ActionBarController_UpdateAll'\n[string \"@Interface\\FrameXML\\ZoneAbility.lua\"]:72: in function <Interface\\FrameXML\\ZoneAbility.lua:32>",
 			["session"] = 2479,
 			["counter"] = 1,
-		}, -- [6]
+		}, -- [5]
 		{
 			["message"] = "...erface\\AddOns\\ElvUI_SLE\\modules\\armory\\character-Character.lua:382: attempt to index field 'SLE_Armory_BG' (a nil value)",
 			["time"] = "2020/07/12 17:51:30",
@@ -55,6 +47,22 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character-Character.lua\"]:382: in function `Enable'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\armory\\character-Character.lua\"]:436: in function `ToggleArmory'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\core\\install.lua\"]:1689: in function <Interface\\AddOns\\ElvUI_SLE\\core\\install.lua:1689>",
 			["session"] = 2482,
 			["counter"] = 1,
+		}, -- [6]
+		{
+			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
+			["time"] = "2020/07/14 23:55:18",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
+			["session"] = 2486,
+			["counter"] = 49,
 		}, -- [7]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'WorldFrame:ClearAllPoints()'.",
+			["time"] = "2020/07/11 17:41:43",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:70: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:57: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2688: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2769: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2457: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3327: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
+			["session"] = 2486,
+			["counter"] = 2,
+		}, -- [8]
 	},
 }

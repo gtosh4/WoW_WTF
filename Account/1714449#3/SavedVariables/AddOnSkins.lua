@@ -8,9 +8,9 @@ AddOnSkinsDB = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -28,7 +28,7 @@ AddOnSkinsDB = {
 			["Blizzard_IslandsPartyPoseUI"] = true,
 			["Blizzard_ArtifactUI"] = true,
 			["Blizzard_BlackMarketUI"] = true,
-			["Blizzard_IslandsQueueUI"] = true,
+			["Blizzard_AuctionUI"] = true,
 			["Blizzard_TrainerUI"] = true,
 			["Blizzard_AlliedRacesUI"] = true,
 			["Blizzard_Contribution"] = true,
@@ -49,11 +49,9 @@ AddOnSkinsDB = {
 			["Blizzard_ItemUpgradeUI"] = true,
 			["Pawn"] = false,
 			["Blizzard_LookingForGuildUI"] = true,
-			["Blizzard_AuctionUI"] = true,
+			["Blizzard_IslandsQueueUI"] = true,
 		},
 	},
 }
 AddOnSkinsDS = {
-	[4.411] = {
-	},
 }
