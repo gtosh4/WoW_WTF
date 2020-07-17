@@ -68,7 +68,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1591911635,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1594760080,
+				["DungeonIDs"] = {
+					["Battle of Dazar'alor Mythic|386201848"] = "392234|1594951365|0|1",
+				},
+				["lastUpdate"] = 1594951347,
 			},
 			["Default.Illidan.Toshpala"] = {
 				["lastUpdate"] = 1589759772,
@@ -77,10 +80,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1581544133,
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1594786468,
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|395166679"] = "557129|1594786470|0|1",
+					["Ny'alotha, the Waking City Heroic|395166679"] = "388181|1594955419|0|1",
 				},
+				["lastUpdate"] = 1594955323,
 			},
 			["Default.Frostwolf.Sumex"] = {
 				["lastUpdate"] = 1581544171,
