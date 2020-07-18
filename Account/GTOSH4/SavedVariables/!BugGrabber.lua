@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 2488,
+	["session"] = 2490,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -64,5 +64,12 @@ BugGrabberDB = {
 			["session"] = 2487,
 			["counter"] = 52,
 		}, -- [8]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/07/18 03:29:39",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 2490,
+			["counter"] = 1,
+		}, -- [9]
 	},
 }

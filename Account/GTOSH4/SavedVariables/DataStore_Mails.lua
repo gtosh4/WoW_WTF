@@ -55,8 +55,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/04/30 00:47",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1594592370,
-				["lastVisitDate"] = "2020/07/12 18:19",
+				["lastUpdate"] = 1595057003,
+				["lastVisitDate"] = "2020/07/18 03:23",
 			},
 			["Default.Kil'jaeden.Toshwar"] = {
 				["lastUpdate"] = 1584068132,
@@ -79,8 +79,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2019/04/24 02:40",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1594760205,
-				["lastVisitDate"] = "2020/07/14 16:56",
+				["lastUpdate"] = 1595054703,
+				["lastVisitDate"] = "2020/07/18 02:45",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1589764117,

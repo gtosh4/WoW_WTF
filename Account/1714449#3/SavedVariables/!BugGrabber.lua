@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1942,
 	["lastSanitation"] = 3,
-	["session"] = 1939,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
@@ -116,8 +116,8 @@ BugGrabberDB = {
 		}, -- [14]
 		{
 			["message"] = "(null)",
-			["session"] = 1914,
 			["time"] = "2020/07/10 15:00:50",
+			["session"] = 1914,
 			["counter"] = 10,
 		}, -- [15]
 		{
@@ -206,19 +206,33 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [26]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'MainMenuBar:SetPoint()'.",
-			["time"] = "2020/07/10 15:02:05",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3093: in function `UIParentManageFramePositions'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2462: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3265: in function <Interface\\FrameXML\\UIParent.lua:3263>\n[string \"=[C]\"]: in function `UIParent_ManageFramePositions'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:16: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:15>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:159: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:124>\n[string \"=[C]\"]: in function `TalkingHeadFrame_PlayCurrent'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:25: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:23>",
-			["session"] = 1939,
-			["counter"] = 13,
-		}, -- [27]
-		{
 			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
 			["time"] = "2020/07/17 02:51:51",
 			["locals"] = "leftX = nil\nleftY = nil\nrightX = 4285.419922\nrightY = 3972.919922\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to perform arithmetic on local 'leftX' (a nil value)\"\n",
 			["stack"] = "[string \"@Interface\\SharedXML\\Vector2D.lua\"]:20: in function `Vector2D_Subtract'\n[string \"@Interface\\SharedXML\\Vector2D.lua\"]:99: in function `Subtract'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:101: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:248: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
 			["session"] = 1939,
 			["counter"] = 12,
+		}, -- [27]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AAP-Core' tried to call the protected function 'EditMacro()'.",
+			["time"] = "2020/07/17 17:26:08",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `EditMacro'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:2564: in function `MacroUpdater'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:965: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:658>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4902: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4826>",
+			["session"] = 1941,
+			["counter"] = 1,
 		}, -- [28]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'MainMenuBar:SetPoint()'.",
+			["time"] = "2020/07/10 15:02:05",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3093: in function `UIParentManageFramePositions'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2462: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3265: in function <Interface\\FrameXML\\UIParent.lua:3263>\n[string \"=[C]\"]: in function `UIParent_ManageFramePositions'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:16: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:15>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:159: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:124>\n[string \"=[C]\"]: in function `TalkingHeadFrame_PlayCurrent'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:25: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:23>",
+			["session"] = 1942,
+			["counter"] = 15,
+		}, -- [29]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'CollectionsJournal:EnableMouse()'.",
+			["time"] = "2020/07/17 22:02:43",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `EnableMouse'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:287: in function `MakeMovable'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:303: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\!!Warmup\\Warmup.lua\"]:182: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:627: in function `CollectionsJournal_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:999: in function `SetCollectionsJournalShown'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:993: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
+			["session"] = 1942,
+			["counter"] = 1,
+		}, -- [30]
 	},
 }

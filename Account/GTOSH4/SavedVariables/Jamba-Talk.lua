@@ -45,15 +45,15 @@ JambaTalkProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
-		["Default"] = {
-		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Default"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

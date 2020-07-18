@@ -47,6 +47,8 @@ JambaQuestProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
+		["Tosh - Frostwolf"] = {
+		},
 		["Default"] = {
 			["acceptFromTeam"] = true,
 			["onlyAcceptQuestsFrom"] = true,
@@ -54,13 +56,11 @@ JambaQuestProfileDB = {
 			["masterAutoShareQuestOnAccept"] = true,
 			["doNotAutoAccept"] = false,
 		},
-		["Tosh - Frostwolf"] = {
-		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

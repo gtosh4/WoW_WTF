@@ -13,9 +13,9 @@ HandyNotesDB = {
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -47,11 +47,11 @@ HandyNotesDB = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
@@ -79,9 +79,9 @@ HandyNotes_HandyNotesDB = {
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpala - Illidan"] = "Toshpala - Illidan",
 		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
@@ -112,11 +112,11 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Sumex - Frostwolf"] = {
 		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Tosh - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},

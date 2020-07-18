@@ -32,8 +32,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2020/04/30 00:46",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1591833408,
-				["lastVisitDate"] = "2020/06/10 19:56",
+				["lastUpdate"] = 1595057326,
+				["lastVisitDate"] = "2020/07/18 03:28",
 			},
 			["Default.Kil'jaeden.Yorman"] = {
 				["lastUpdate"] = 1565388862,
@@ -56,8 +56,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2020/04/07 20:20",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1594785847,
-				["lastVisitDate"] = "2020/07/15 00:04",
+				["lastUpdate"] = 1595051673,
+				["lastVisitDate"] = "2020/07/18 01:54",
 			},
 		},
 	},

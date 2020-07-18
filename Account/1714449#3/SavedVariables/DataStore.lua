@@ -8,19 +8,19 @@ DataStoreDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 	},
 	["global"] = {
 		["Guilds"] = {
-			["Default.Area 52.sheeple"] = {
+			["Default.Kil'jaeden.Koopa Troopa"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Kil'jaeden.Rivalry"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Koopa Troopa"] = {
+			["Default.Area 52.sheeple"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Area 52.Aggravated"] = {
@@ -30,35 +30,35 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["guildName"] = "sheeple",
 				["faction"] = "Horde",
+				["guildName"] = "sheeple",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Aggravated",
+				["faction"] = "Horde",
 			},
-			["Default.Area 52.Toshpriest"] = {
-				["guildName"] = "Aggravated",
+			["Default.Kil'jaeden.Toshaman"] = {
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
 			["Default.Dreadmaul.Toshaman"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Area 52.Toshweaver"] = {
-				["guildName"] = "Aggravated",
 				["faction"] = "Horde",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["guildName"] = "Rivalry",
 				["faction"] = "Horde",
+				["guildName"] = "Rivalry",
 			},
-			["Default.Kil'jaeden.Toshaman"] = {
-				["guildName"] = "Rivalry",
+			["Default.Area 52.Toshpriest"] = {
 				["faction"] = "Horde",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Kil'jaeden.Tosh"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 		},
 		["ShortToLongRealmNames"] = {

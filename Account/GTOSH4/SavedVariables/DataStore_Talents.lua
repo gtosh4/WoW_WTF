@@ -56,7 +56,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PRIEST",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["lastUpdate"] = 1594951347,
+				["lastUpdate"] = 1595056936,
 				["Specializations"] = {
 					14697, -- [1]
 					0, -- [2]
@@ -80,9 +80,9 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1594955323,
+				["lastUpdate"] = 1595054610,
 				["Specializations"] = {
-					6013, -- [1]
+					6005, -- [1]
 					14777, -- [2]
 					5849, -- [3]
 				},

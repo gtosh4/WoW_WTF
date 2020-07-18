@@ -13,13 +13,13 @@ X: -153
 Y: 274
 W: 204
 H: 58
-Frame: ItemRefTooltip
-FrameLevel: 1
+Frame: PlayerPowerBarAlt
+FrameLevel: 2
 Anchor: CENTER
-X: -569
-Y: -37
-W: 128
-H: 64
+X: 0
+Y: 354
+W: 10
+H: 10
 Frame: ColorPickerFrame
 FrameLevel: 21
 Anchor: TOP
@@ -48,6 +48,13 @@ X: 0
 Y: 0
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -83,17 +90,17 @@ X: -219
 Y: 160
 W: 680
 H: 753
-Frame: PlayerPowerBarAlt
-FrameLevel: 2
+Frame: MDTFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -485
+Y: -69
+W: 852
+H: 563
+Frame: ItemRefTooltip
+FrameLevel: 1
 Anchor: CENTER
-X: 0
-Y: 354
-W: 10
-H: 10
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
+X: -569
+Y: -37
+W: 215
+H: 175

@@ -2,6 +2,48 @@
 EssenceSetManager = {
 	["Shadow"] = {
 	},
+	["Holy"] = {
+		["m+"] = {
+			["major"] = {
+				["ID"] = 12,
+				["name"] = "The Crucible of Flame",
+			},
+			["minors"] = {
+				["one"] = {
+					["ID"] = 17,
+					["name"] = "The Ever-Rising Tide",
+				},
+				["three"] = {
+					["ID"] = 24,
+					["name"] = "Spirit of Preservation",
+				},
+				["two"] = {
+					["ID"] = 32,
+					["name"] = "Conflict and Strife",
+				},
+			},
+		},
+		["raid"] = {
+			["major"] = {
+				["ID"] = 27,
+				["name"] = "Memory of Lucid Dreams",
+			},
+			["minors"] = {
+				["one"] = {
+					["ID"] = 17,
+					["name"] = "The Ever-Rising Tide",
+				},
+				["three"] = {
+					["ID"] = 37,
+					["name"] = "The Formless Void",
+				},
+				["two"] = {
+					["ID"] = 32,
+					["name"] = "Conflict and Strife",
+				},
+			},
+		},
+	},
 	["Discipline"] = {
 		["raid"] = {
 			["major"] = {
@@ -60,48 +102,6 @@ EssenceSetManager = {
 				["two"] = {
 					["ID"] = 16,
 					["name"] = "Unwavering Ward",
-				},
-			},
-		},
-	},
-	["Holy"] = {
-		["m+"] = {
-			["major"] = {
-				["ID"] = 12,
-				["name"] = "The Crucible of Flame",
-			},
-			["minors"] = {
-				["one"] = {
-					["ID"] = 17,
-					["name"] = "The Ever-Rising Tide",
-				},
-				["three"] = {
-					["ID"] = 24,
-					["name"] = "Spirit of Preservation",
-				},
-				["two"] = {
-					["ID"] = 32,
-					["name"] = "Conflict and Strife",
-				},
-			},
-		},
-		["raid"] = {
-			["major"] = {
-				["ID"] = 27,
-				["name"] = "Memory of Lucid Dreams",
-			},
-			["minors"] = {
-				["one"] = {
-					["ID"] = 17,
-					["name"] = "The Ever-Rising Tide",
-				},
-				["three"] = {
-					["ID"] = 37,
-					["name"] = "The Formless Void",
-				},
-				["two"] = {
-					["ID"] = 32,
-					["name"] = "Conflict and Strife",
 				},
 			},
 		},

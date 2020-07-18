@@ -2002,16 +2002,16 @@ MethodDungeonToolsDB = {
 			["minimapPos"] = 181.5763838324383,
 		},
 		["currentDungeonIdx"] = 18,
-		["currentPreset"] = {
-			[18] = 2,
-			[20] = 2,
-		},
+		["nonFullscreenScale"] = 1.177688516152872,
 		["MDI"] = {
 		},
 		["version"] = 302,
 		["xoffset"] = 473.1195373535156,
 		["anchorFrom"] = "CENTER",
-		["nonFullscreenScale"] = 1.177688516152872,
+		["currentPreset"] = {
+			[18] = 2,
+			[20] = 2,
+		},
 		["yoffset"] = 106.83935546875,
 	},
 	["profileKeys"] = {

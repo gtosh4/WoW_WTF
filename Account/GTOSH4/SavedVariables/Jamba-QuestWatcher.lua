@@ -56,16 +56,16 @@ JambaQuestWatcherProfileDB = {
 		},
 		["Toshpala - Illidan"] = {
 		},
+		["Tosh - Frostwolf"] = {
+		},
 		["Default"] = {
 			["enableQuestWatcher"] = false,
 		},
-		["Tosh - Frostwolf"] = {
-		},
-		["Koutetsu - Frostwolf"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Koutetsu - Frostwolf"] = {
 		},
 		["Sumex - Frostwolf"] = {
 		},

@@ -27,31 +27,31 @@ Gladius2DB = {
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
-			["trinketGridStyleIcon"] = true,
-			["powerBarTexture"] = "Smooth v2",
-			["classIconShowSpec"] = true,
-			["timerOmniCC"] = true,
-			["tagsTexts"] = {
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-			},
-			["y"] = {
-				["arena1"] = 229.7807371077943,
-			},
-			["castBarTexture"] = "Smooth v2",
 			["modules"] = {
 				["Announcements"] = false,
+			},
+			["timerOmniCC"] = true,
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 229.7807371077943,
 			},
 			["x"] = {
 				["arena1"] = 1105.33447890653,
 			},
 			["castBarAttachTo"] = "Frame",
+			["trinketGridStyleIcon"] = true,
+			["tagsTexts"] = {
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+			},
 			["castBarAnchor"] = "BOTTOMLEFT",
-			["locked"] = true,
-			["tagsVersion"] = 4,
+			["castBarTexture"] = "Smooth v2",
 			["healthBarTexture"] = "Smooth v2",
-			["auraVersion"] = 1,
+			["powerBarTexture"] = "Smooth v2",
+			["classIconShowSpec"] = true,
 		},
 		["Daggny - Frostwolf"] = {
 			["auraVersion"] = 1,
@@ -136,10 +136,10 @@ Gladius2DB = {
 					["text"] = "[health:short]",
 				},
 			},
-			["dispellGloss"] = false,
 			["x"] = {
 				["arena1"] = 1116.533833770722,
 			},
+			["dispellGloss"] = false,
 			["y"] = {
 				["arena1"] = 442.0468255028536,
 			},
@@ -220,12 +220,27 @@ Gladius2DB = {
 			},
 		},
 		["Default"] = {
+			["powerBarTexture"] = "ElvUI Norm",
+			["aurasBuffs"] = true,
+			["tagsTexts"] = {
+				["PowerBar Left Text"] = {
+					["text"] = "",
+				},
+				["HealthBar Right Text"] = {
+					["text"] = "[health:short]",
+				},
+				["PowerBar Right Text"] = {
+					["text"] = "[power:percentage]",
+				},
+			},
+			["aurasBuffsAttachTo"] = "Dispel",
 			["modules"] = {
 				["Announcements"] = false,
 				["Auras"] = true,
 			},
-			["aurasBuffsRelativePoint"] = "TOPRIGHT",
+			["locked"] = true,
 			["aurasBuffsPerColumn"] = 5,
+			["classIconGloss"] = false,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -300,20 +315,8 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["aurasBuffsAttachTo"] = "Dispel",
 			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["classIconGloss"] = false,
-			["y"] = {
-				["arena1"] = 263.99849693316,
-			},
-			["x"] = {
-				["arena1"] = 1081.60312841069,
-			},
-			["aurasBuffsHeight"] = 22,
-			["aurasBuffs"] = true,
-			["aurasBuffsWidth"] = 22,
+			["classIconShowSpec"] = true,
 			["clickAttributes"] = {
 				["shift-Right"] = {
 					["macro"] = "Mind Control",
@@ -326,21 +329,18 @@ Gladius2DB = {
 					["action"] = "spell",
 				},
 			},
-			["tagsTexts"] = {
-				["PowerBar Left Text"] = {
-					["text"] = "",
-				},
-				["HealthBar Right Text"] = {
-					["text"] = "[health:short]",
-				},
-				["PowerBar Right Text"] = {
-					["text"] = "[power:percentage]",
-				},
+			["y"] = {
+				["arena1"] = 263.99849693316,
 			},
+			["x"] = {
+				["arena1"] = 1081.60312841069,
+			},
+			["aurasBuffsHeight"] = 22,
 			["castBarTexture"] = "ElvUI Norm",
+			["aurasBuffsWidth"] = 22,
+			["tagsVersion"] = 4,
 			["healthBarTexture"] = "ElvUI Norm",
-			["powerBarTexture"] = "ElvUI Norm",
-			["classIconShowSpec"] = true,
+			["aurasBuffsRelativePoint"] = "TOPRIGHT",
 		},
 		["Tosh - Kil'jaeden"] = {
 			["powerBarTexture"] = "ElvUI Norm",
