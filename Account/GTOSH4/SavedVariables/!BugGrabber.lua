@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 2490,
 	["lastSanitation"] = 3,
+	["session"] = 2495,
 	["errors"] = {
 		{
 			["message"] = "...terface\\AddOns\\ElvUI\\Modules\\DataTexts\\DataTexts.lua:741: Events must be registered as a table.",
@@ -13,8 +13,8 @@ BugGrabberDB = {
 		}, -- [1]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/07/10 14:54:30",
 			["session"] = 2472,
+			["time"] = "2020/07/10 14:54:30",
 			["counter"] = 10,
 		}, -- [2]
 		{

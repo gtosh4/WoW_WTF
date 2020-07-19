@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1942,
 	["lastSanitation"] = 3,
+	["session"] = 1945,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
@@ -116,8 +116,8 @@ BugGrabberDB = {
 		}, -- [14]
 		{
 			["message"] = "(null)",
-			["time"] = "2020/07/10 15:00:50",
 			["session"] = 1914,
+			["time"] = "2020/07/10 15:00:50",
 			["counter"] = 10,
 		}, -- [15]
 		{
@@ -221,18 +221,26 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [28]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'MainMenuBar:SetPoint()'.",
-			["time"] = "2020/07/10 15:02:05",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3093: in function `UIParentManageFramePositions'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2462: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3265: in function <Interface\\FrameXML\\UIParent.lua:3263>\n[string \"=[C]\"]: in function `UIParent_ManageFramePositions'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:16: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:15>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:159: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:124>\n[string \"=[C]\"]: in function `TalkingHeadFrame_PlayCurrent'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:25: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:23>",
-			["session"] = 1942,
-			["counter"] = 15,
-		}, -- [29]
-		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'CollectionsJournal:EnableMouse()'.",
 			["time"] = "2020/07/17 22:02:43",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `EnableMouse'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:287: in function `MakeMovable'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:303: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\!!Warmup\\Warmup.lua\"]:182: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:627: in function `CollectionsJournal_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:999: in function `SetCollectionsJournalShown'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:993: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
 			["session"] = 1942,
 			["counter"] = 1,
+		}, -- [29]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'MainMenuBar:SetPoint()'.",
+			["time"] = "2020/07/10 15:02:05",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3093: in function `UIParentManageFramePositions'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2462: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3265: in function <Interface\\FrameXML\\UIParent.lua:3263>\n[string \"=[C]\"]: in function `UIParent_ManageFramePositions'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:16: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:15>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:159: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:124>\n[string \"=[C]\"]: in function `TalkingHeadFrame_PlayCurrent'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:25: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:23>",
+			["session"] = 1945,
+			["counter"] = 16,
 		}, -- [30]
+		{
+			["message"] = "integer overflow attempting to store -3690167296",
+			["time"] = "2020/07/18 17:47:20",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"=[C]\"]: in function `SetFormattedText'\n[string \"@Interface\\AddOns\\Quartz\\modules\\Latency.lua\"]:177: in function <Interface\\AddOns\\Quartz\\modules\\Latency.lua:112>\n[string \"=(tail call)\"]: ?\n[string \"=(tail call)\"]: ?\n[string \"=(tail call)\"]: ?\n[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\Quartz\\CastBarTemplate.lua\"]:265: in function <Interface\\AddOns\\Quartz\\CastBarTemplate.lua:208>\n[string \"=[C]\"]: in function `?'\n[string \"@Interface\\AddOns\\Quartz\\CastBarTemplate.lua\"]:139: in function <Interface\\AddOns\\Quartz\\CastBarTemplate.lua:137>",
+			["session"] = 1945,
+			["counter"] = 2,
+		}, -- [31]
 	},
 }

@@ -12,17 +12,17 @@ DataStore_AgendaDB = {
 		["Toshpal - Kil'jaeden"] = "Toshpal - Kil'jaeden",
 		["Toshpriest - Illidan"] = "Toshpriest - Illidan",
 		["Toshmoney - Quel'dorei"] = "Toshmoney - Quel'dorei",
-		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
-		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
-		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshpala - Illidan"] = "Toshpala - Illidan",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
 		["Tosh - Kil'jaeden"] = "Tosh - Kil'jaeden",
 		["Tosh - Frostwolf"] = "Tosh - Frostwolf",
-		["Koutetsu - Frostwolf"] = "Koutetsu - Frostwolf",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshpala - Illidan"] = "Toshpala - Illidan",
-		["Toshaman - Kil'jaeden"] = "Toshaman - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshtrial - The Forgotten Coast"] = "Toshtrial - The Forgotten Coast",
+		["Toshtrial - Blood Furnace"] = "Toshtrial - Blood Furnace",
+		["Sumex - Frostwolf"] = "Sumex - Frostwolf",
 		["Toshwar - Kil'jaeden"] = "Toshwar - Kil'jaeden",
 	},
 	["global"] = {
@@ -81,18 +81,19 @@ DataStore_AgendaDB = {
 			},
 			["Default.Area 52.Toshpal"] = {
 				["DungeonIDs"] = {
-					["Ny'alotha, the Waking City Heroic|395166679"] = "288920|1595054679|0|1",
+					["Ny'alotha, the Waking City Mythic|386586712"] = "210675|1595132923|0|1",
+					["Ny'alotha, the Waking City Heroic|395166679"] = "210675|1595132923|0|1",
 				},
-				["lastUpdate"] = 1595054610,
+				["lastUpdate"] = 1595135685,
 			},
-			["Default.Frostwolf.Sumex"] = {
-				["lastUpdate"] = 1581544171,
+			["Default.Frostwolf.Daggny"] = {
+				["lastUpdate"] = 1581544004,
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["lastUpdate"] = 1589764110,
 			},
-			["Default.Frostwolf.Daggny"] = {
-				["lastUpdate"] = 1581544004,
+			["Default.Frostwolf.Sumex"] = {
+				["lastUpdate"] = 1581544171,
 			},
 			["Default.Frostwolf.Zallie"] = {
 				["lastUpdate"] = 1581544072,

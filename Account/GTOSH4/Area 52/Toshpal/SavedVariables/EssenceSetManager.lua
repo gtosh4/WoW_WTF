@@ -70,8 +70,8 @@ EssenceSetManager = {
 			},
 			["minors"] = {
 				["one"] = {
-					["ID"] = 16,
-					["name"] = "Unwavering Ward",
+					["ID"] = 37,
+					["name"] = "The Formless Void",
 				},
 				["three"] = {
 					["ID"] = 32,
