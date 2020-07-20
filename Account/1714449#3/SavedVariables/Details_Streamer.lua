@@ -45,16 +45,26 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "ElvUI Norm",
-			["scale"] = 1,
-			["row_height"] = 28,
-			["point"] = "BOTTOMLEFT",
-			["enabled"] = false,
-			["arrow_size"] = 10,
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = true,
 			["row_color"] = {
 				0.305882352941177, -- [1]
 				0.305882352941177, -- [2]
 				0.305882352941177, -- [3]
 				0.850000008940697, -- [4]
+			},
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = -0.00152587890625,
+				["x"] = 0.0013427734375,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
 			["row_spacement"] = 28,
 			["main_frame_color"] = {
@@ -69,21 +79,11 @@ Details_StreamerDB = {
 			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
-			["per_second"] = {
-				["enabled"] = false,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = -0.00152587890625,
-				["x"] = 0.0013427734375,
-				["size"] = 32,
-				["update_speed"] = 0.05,
-				["attribute_type"] = 1,
-			},
 			["y"] = 200.0283660888672,
 			["author"] = "Details! Team",
-			["main_frame_locked"] = true,
-			["arrow_anchor_y"] = 0,
+			["point"] = "BOTTOMLEFT",
+			["row_height"] = 28,
+			["scale"] = 1,
 		},
 	},
 }

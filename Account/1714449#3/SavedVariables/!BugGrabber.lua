@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1948,
 	["lastSanitation"] = 3,
-	["session"] = 1945,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'RaidGroupButton1:Hide()'.",
@@ -116,8 +116,8 @@ BugGrabberDB = {
 		}, -- [14]
 		{
 			["message"] = "(null)",
-			["session"] = 1914,
 			["time"] = "2020/07/10 15:00:50",
+			["session"] = 1914,
 			["counter"] = 10,
 		}, -- [15]
 		{
@@ -151,20 +151,13 @@ BugGrabberDB = {
 			["counter"] = 2,
 		}, -- [19]
 		{
-			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
-			["time"] = "2020/07/13 16:13:17",
-			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
-			["session"] = 1931,
-			["counter"] = 1,
-		}, -- [20]
-		{
 			["message"] = "Interface\\FrameXML\\UnitPowerBarAlt.lua:110: attempt to index field 'barInfo' (a nil value)",
 			["time"] = "2020/07/08 00:00:15",
 			["locals"] = "Skipped (In Encounter)",
 			["stack"] = "[string \"@Interface\\FrameXML\\UnitPowerBarAlt.lua\"]:110: in function `UnitPowerBarAlt_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>",
 			["session"] = 1937,
 			["counter"] = 271,
-		}, -- [21]
+		}, -- [20]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'WorldFrame:ClearAllPoints()'.",
 			["time"] = "2020/07/11 18:50:12",
@@ -172,7 +165,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ClearAllPoints'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:70: in function `SetViewport'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\misc.lua\"]:57: in function `SetAllPoints'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:41: in function <Interface\\FrameXML\\CinematicFrame.lua:40>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2688: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2769: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2457: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3327: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\CinematicFrame.lua\"]:58: in function <Interface\\FrameXML\\CinematicFrame.lua:44>",
 			["session"] = 1937,
 			["counter"] = 3,
-		}, -- [22]
+		}, -- [21]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: Howling Winds:SetEndPoint(): not allowed to depend on NamePlate6",
 			["time"] = "2020/07/16 21:58:22",
@@ -180,7 +173,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:605: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:541>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:737: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:698: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:842: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:827>",
 			["session"] = 1937,
 			["counter"] = 1,
-		}, -- [23]
+		}, -- [22]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: <unnamed>:SetEndPoint(): not allowed to depend on NamePlate7",
 			["time"] = "2020/07/16 21:58:25",
@@ -188,7 +181,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:605: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:541>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:737: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:698: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:842: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:827>",
 			["session"] = 1937,
 			["counter"] = 2,
-		}, -- [24]
+		}, -- [23]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: Frozen Solid:SetEndPoint(): not allowed to depend on NamePlate3",
 			["time"] = "2020/07/16 21:58:53",
@@ -196,7 +189,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:605: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:541>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:737: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:698: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:842: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:827>",
 			["session"] = 1937,
 			["counter"] = 1,
-		}, -- [25]
+		}, -- [24]
 		{
 			["message"] = "[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:42: <unnamed>:SetEndPoint(): not allowed to depend on NamePlate6",
 			["time"] = "2020/07/16 21:58:57",
@@ -204,7 +197,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"--[==[ Error in 'Icebound Image Line To Nameplate' ]==] return function(event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) then\n                local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n                if aura_env.npcIDs[npcID] then\n                    local GUID = UnitGUID(unit)\n                    local line = aura_env.region.linePool:Acquire()\n                    line:SetStartPoint(\n                        aura_env.anchorPoint[aura_env.config.startAnchor],\n                        UIParent,\n                        aura_env.config.startxOffset,\n                        aura_env.config.startyOffset\n                    )\n                    line:SetEndPoint(\n                        aura_env.anchorPoint[aura_env.config.endAnchor],\n                        C_NamePlate.GetNamePlateForUnit(unit),\n                        aura_env.config.endxOffset,\n                        aura_env.config.endyOffset\n                    )\n                    line:SetThickness(aura_env.config.thickness)\n                    line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n                    line:Show()\n                    aura_env.lines = aura_env.lines or {}\n                    aura_env.lines[GUID] = line\n                end\n            end\n        end\n    end\n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit then\n        local npcID = select(6, strsplit(\"-\", UnitGUID(unit)))\n        if aura_env.npcIDs[npcID] then\n            local GUID = UnitGUID(unit)\n            local line = aura_env.region.linePool:Acquire()\n            line:SetStartPoint(\n                aura_env.anchorPoint[aura_env.config.startAnchor],\n                UIParent,\n                aura_env.config.startxOffset,\n                aura_env.config.startyOffset\n            )\n            line:SetEndPoint(\n                aura_env.anchorPoint[aura_env.config.endAnchor],\n                C_NamePlate.GetNamePlateForUnit(unit),\n                aura_env.config.endxOffset,\n                aura_env.config.endyOffset\n            )\n            line:SetThickness(aura_env.config.thickness)\n            line:SetColorTexture(aura_env.config.color[1], aura_env.config.color[2], aura_env.config.color[3], aura_env.config.color[4])\n            line:Show()\n            aura_env.lines = aura_env.lines or {}\n            aura_env.lines[GUID] = line\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        local GUID = UnitGUID(unit)\n        if aura_env.lines and aura_env.lines[GUID] then\n            aura_env.region.linePool:Release(aura_env.lines[GUID])\n        end\n    elseif event == \"PLAYER_REGEN_ENABLED\" then\n        for k,v in pairs(aura_env.lines) do\n            aura_env.region.linePool:Release(v)\n        end\n    end\nend\"]:42: in function <[string \"--[==[ Error in 'Icebound Image Line To Nam...\"]:1>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:605: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:541>\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:737: in function `ScanEventsInternal'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:698: in function `ScanEvents'\n[string \"@Interface\\AddOns\\WeakAuras\\GenericTrigger.lua\"]:842: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:827>",
 			["session"] = 1937,
 			["counter"] = 1,
-		}, -- [26]
+		}, -- [25]
 		{
 			["message"] = "Interface\\SharedXML\\Vector2D.lua:20: attempt to perform arithmetic on local 'leftX' (a nil value)",
 			["time"] = "2020/07/17 02:51:51",
@@ -212,28 +205,21 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\SharedXML\\Vector2D.lua\"]:20: in function `Vector2D_Subtract'\n[string \"@Interface\\SharedXML\\Vector2D.lua\"]:99: in function `Subtract'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:101: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:87>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:248: in function `MoveIcons'\n[string \"@Interface\\AddOns\\AAP-Core\\Core.lua\"]:2162: in function <Interface\\AddOns\\AAP-Core\\Core.lua:2159>",
 			["session"] = 1939,
 			["counter"] = 12,
-		}, -- [27]
+		}, -- [26]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AAP-Core' tried to call the protected function 'EditMacro()'.",
 			["time"] = "2020/07/17 17:26:08",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `EditMacro'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:2564: in function `MacroUpdater'\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:965: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:658>\n[string \"@Interface\\AddOns\\AAP-Core\\QuestHandler.lua\"]:4902: in function <Interface\\AddOns\\AAP-Core\\QuestHandler.lua:4826>",
 			["session"] = 1941,
 			["counter"] = 1,
-		}, -- [28]
+		}, -- [27]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI_SLE' tried to call the protected function 'CollectionsJournal:EnableMouse()'.",
 			["time"] = "2020/07/17 22:02:43",
 			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `EnableMouse'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:287: in function `MakeMovable'\n[string \"@Interface\\AddOns\\ElvUI_SLE\\modules\\blizzard.lua\"]:303: in function `?'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Accountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...ccountant_Classic\\Libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\!!Warmup\\Warmup.lua\"]:182: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:457: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:627: in function `CollectionsJournal_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:999: in function `SetCollectionsJournalShown'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:993: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
 			["session"] = 1942,
 			["counter"] = 1,
-		}, -- [29]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'MainMenuBar:SetPoint()'.",
-			["time"] = "2020/07/10 15:02:05",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3093: in function `UIParentManageFramePositions'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2462: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3265: in function <Interface\\FrameXML\\UIParent.lua:3263>\n[string \"=[C]\"]: in function `UIParent_ManageFramePositions'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:16: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:15>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:159: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:124>\n[string \"=[C]\"]: in function `TalkingHeadFrame_PlayCurrent'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:25: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:23>",
-			["session"] = 1945,
-			["counter"] = 16,
-		}, -- [30]
+		}, -- [28]
 		{
 			["message"] = "integer overflow attempting to store -3690167296",
 			["time"] = "2020/07/18 17:47:20",
@@ -241,6 +227,20 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `SetFormattedText'\n[string \"@Interface\\AddOns\\Quartz\\modules\\Latency.lua\"]:177: in function <Interface\\AddOns\\Quartz\\modules\\Latency.lua:112>\n[string \"=(tail call)\"]: ?\n[string \"=(tail call)\"]: ?\n[string \"=(tail call)\"]: ?\n[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\Quartz\\CastBarTemplate.lua\"]:265: in function <Interface\\AddOns\\Quartz\\CastBarTemplate.lua:208>\n[string \"=[C]\"]: in function `?'\n[string \"@Interface\\AddOns\\Quartz\\CastBarTemplate.lua\"]:139: in function <Interface\\AddOns\\Quartz\\CastBarTemplate.lua:137>",
 			["session"] = 1945,
 			["counter"] = 2,
+		}, -- [29]
+		{
+			["message"] = "AceLocale-3.0-6: Jamba-Quest: Missing entry for 'Share All Quests to all Minions'",
+			["time"] = "2020/07/13 16:13:17",
+			["stack"] = "[string \"@Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua\"]:1843: in function <Interface\\AddOns\\Jamba-Quest\\JambaQuest.lua:1843>",
+			["session"] = 1946,
+			["counter"] = 2,
+		}, -- [30]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn '!!Warmup' tried to call the protected function 'MainMenuBar:SetPoint()'.",
+			["time"] = "2020/07/10 15:02:05",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3093: in function `UIParentManageFramePositions'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2462: in function <Interface\\FrameXML\\UIParent.lua:2449>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3265: in function <Interface\\FrameXML\\UIParent.lua:3263>\n[string \"=[C]\"]: in function `UIParent_ManageFramePositions'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:16: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:15>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:159: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:124>\n[string \"=[C]\"]: in function `TalkingHeadFrame_PlayCurrent'\n[string \"@Interface\\AddOns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua\"]:25: in function <...ns\\Blizzard_TalkingHeadUI\\Blizzard_TalkingHeadUI.lua:23>",
+			["session"] = 1948,
+			["counter"] = 17,
 		}, -- [31]
 	},
 }

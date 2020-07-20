@@ -17,53 +17,27 @@ AdiBagsDB = {
 		},
 		["Rogue Lockboxes"] = {
 		},
-		["TBC"] = {
-		},
 		["Mechagon Tinkering"] = {
+		},
+		["TBC"] = {
 		},
 		["ItemSets"] = {
 		},
 		["Junk"] = {
 		},
-		["DataSource"] = {
-		},
-		["PriorExpansion"] = {
-		},
 		["BfA"] = {
 		},
 		["MoneyFrame"] = {
+		},
+		["WoD"] = {
+		},
+		["PriorExpansion"] = {
 		},
 		["Chests and Bags"] = {
 		},
 		["ItemCategory"] = {
 		},
-		["CurrencyFrame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["shown"] = {
-						["Ancient Mana"] = false,
-						["Brawler's Gold"] = false,
-						["Nethershard"] = false,
-						["Seal of Broken Fate"] = false,
-						["Seal of Tempered Fate"] = false,
-						["Order Resources"] = false,
-						["Veiled Argunite"] = false,
-						["Honorbound Service Medal"] = false,
-						["Timewarped Badge"] = false,
-						["War Resources"] = false,
-						["Timeworn Artifact"] = false,
-						["Seafarer's Dubloon"] = false,
-						["Wakening Essence"] = false,
-						["Dalaran Jewelcrafter's Token"] = false,
-						["Apexis Crystal"] = false,
-						["Garrison Resources"] = false,
-						["Curious Coin"] = false,
-						["Prismatic Manapearl"] = false,
-						["Champion's Seal"] = false,
-						["Legionfall War Supplies"] = false,
-					},
-				},
-			},
+		["ItemLevel"] = {
 		},
 		["NewItem"] = {
 		},
@@ -82,11 +56,37 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["ItemLevel"] = {
+		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Ancient Mana"] = false,
+						["Brawler's Gold"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Seal of Tempered Fate"] = false,
+						["Order Resources"] = false,
+						["Veiled Argunite"] = false,
+						["Honorbound Service Medal"] = false,
+						["Timewarped Badge"] = false,
+						["Timeworn Artifact"] = false,
+						["War Resources"] = false,
+						["Wakening Essence"] = false,
+						["Seafarer's Dubloon"] = false,
+						["Apexis Crystal"] = false,
+						["Prismatic Manapearl"] = false,
+						["Curious Coin"] = false,
+						["Garrison Resources"] = false,
+						["Dalaran Jewelcrafter's Token"] = false,
+						["Champion's Seal"] = false,
+						["Legionfall War Supplies"] = false,
+					},
+				},
+			},
 		},
 		["Bound"] = {
 		},
-		["WoD"] = {
+		["DataSource"] = {
 		},
 		["Hearthstones"] = {
 		},
@@ -99,13 +99,16 @@ AdiBagsDB = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Tosh - Kil'jaeden"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshpal - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshpal - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["scale"] = 0.9,
+			["columnWidth"] = {
+				["Bank"] = 10,
+				["Backpack"] = 10,
+			},
 			["positions"] = {
 				["anchor"] = {
 					["xOffset"] = -109.684814453125,
@@ -115,10 +118,7 @@ AdiBagsDB = {
 			["filterPriorities"] = {
 				["ItemSets"] = 93,
 			},
-			["columnWidth"] = {
-				["Backpack"] = 10,
-				["Bank"] = 10,
-			},
+			["scale"] = 0.9,
 			["rightClickConfig"] = false,
 			["autoDeposit"] = true,
 		},
