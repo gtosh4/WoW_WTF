@@ -1,0 +1,18 @@
+VER 3 0100000000000004 "bloodt1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,talent:1/2] Blooddrinker; [spec:1] Death Strike
+END
+VER 3 0100000000000002 "Frenzy" "INV_MISC_QUESTIONMARK"
+#showtooltip Unholy Frenzy
+/cast Blood Fury(Racial)
+/cast Unholy Frenzy
+END
+VER 3 0100000000000001 "gnaw" "INV_Misc_QuestionMark"
+#showtooltip Gnaw
+/petattack
+/cast Gnaw
+END
+VER 3 0100000000000003 "petattack" "INV_MISC_QUESTIONMARK"
+#showtooltip Attackaw d
+/petattack
+END

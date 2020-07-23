@@ -1,0 +1,9 @@
+
+EssenceSetManager = {
+	["Protection"] = {
+	},
+	["Holy"] = {
+	},
+	["Retribution"] = {
+	},
+}
