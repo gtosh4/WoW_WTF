@@ -303,13 +303,13 @@ VExRT = {
 				"CMáchó-Quel'Thalas", -- [19]
 				"LBadbiih-Lightning'sBlade", -- [20]
 				"ADisclosed-Lightning'sBlade", -- [21]
-				["k"] = true,
 				["c"] = "Toshpriest-Area52",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Wrathion",
+				["eI"] = 2329,
 				["t"] = 1595386582,
 				["g"] = 21,
-				["eI"] = 2329,
+				["eN"] = "Wrathion",
 			}, -- [1]
 		},
 		["alts"] = {
@@ -339,13 +339,13 @@ VExRT = {
 		["Rank"] = 1,
 	},
 	["Addon"] = {
-		["PreVersion"] = 4170,
-		["Version"] = 4170,
 		["IconMiniMapLeft"] = -43.8422319805596,
+		["Version"] = 4170,
 		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["Scale"] = 1,
 		["IconMiniMapHide"] = true,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["PreVersion"] = 4170,
+		["Scale"] = 1,
 	},
 	["WhoPulled"] = {
 	},
