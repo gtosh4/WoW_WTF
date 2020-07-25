@@ -1,13 +1,13 @@
 
 SimulationCraftDB = {
 	["profileKeys"] = {
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 	},
 	["profiles"] = {
-		["Toshdk - Kil'jaeden"] = {
-		},
 		["Toshpal - Area 52"] = {
+		},
+		["Toshdk - Kil'jaeden"] = {
 		},
 	},
 }

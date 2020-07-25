@@ -2475,14 +2475,9 @@ ShadowedUFDB = {
 					},
 				},
 				["focustarget"] = {
-					["portrait"] = {
-						["type"] = "3D",
-						["alignment"] = "RIGHT",
-						["fullAfter"] = 100,
+					["highlight"] = {
 						["height"] = 0.5,
-						["fullBefore"] = 0,
-						["order"] = 15,
-						["width"] = 0.22,
+						["size"] = 10,
 					},
 					["range"] = {
 						["height"] = 0.5,
@@ -2568,6 +2563,15 @@ ShadowedUFDB = {
 						["height"] = 0.5,
 					},
 					["height"] = 25,
+					["portrait"] = {
+						["type"] = "3D",
+						["alignment"] = "RIGHT",
+						["fullAfter"] = 100,
+						["height"] = 0.5,
+						["fullBefore"] = 0,
+						["order"] = 15,
+						["width"] = 0.22,
+					},
 					["indicators"] = {
 						["raidTarget"] = {
 							["y"] = 0,
@@ -2584,10 +2588,6 @@ ShadowedUFDB = {
 							["size"] = 16,
 						},
 						["height"] = 0.5,
-					},
-					["highlight"] = {
-						["height"] = 0.5,
-						["size"] = 10,
 					},
 					["emptyBar"] = {
 						["order"] = 0,
@@ -3705,8 +3705,9 @@ ShadowedUFDB = {
 						["order"] = 70,
 						["height"] = 0.4,
 					},
-					["auraIndicators"] = {
+					["incAbsorb"] = {
 						["height"] = 0.5,
+						["cap"] = 1,
 					},
 					["comboPoints"] = {
 						["anchorTo"] = "$parent",
@@ -3775,16 +3776,16 @@ ShadowedUFDB = {
 							["temporary"] = false,
 							["anchorOn"] = true,
 							["perRow"] = 8,
-							["anchorPoint"] = "TL",
-							["maxRows"] = 1,
 							["show"] = {
 								["player"] = false,
 								["relevant"] = false,
 								["raid"] = false,
 								["misc"] = false,
 							},
-							["x"] = 0,
+							["maxRows"] = 1,
 							["y"] = 0,
+							["x"] = 0,
+							["anchorPoint"] = "TL",
 							["size"] = 16,
 						},
 					},
@@ -3800,9 +3801,8 @@ ShadowedUFDB = {
 						["y"] = 6,
 						["size"] = 14,
 					},
-					["incAbsorb"] = {
+					["auraIndicators"] = {
 						["height"] = 0.5,
-						["cap"] = 1,
 					},
 					["emptyBar"] = {
 						["order"] = 0,

@@ -3,39 +3,15 @@ TellMeWhenDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["TextLayouts"] = {
-			["icon1"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-			},
-			["bar2"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-			},
-			["TMW:textlayout:1V5RBRoAFw84"] = {
-				{
-					["Name"] = "Friz Quadrata TT",
-					["ConstrainWidth"] = false,
-					["StringName"] = "Number",
-					["Size"] = 14,
-				}, -- [1]
-				["GUID"] = "TMW:textlayout:1V5RBRoAFw84",
-				["Name"] = "Center Number 2",
-			},
 			["TMW:textlayout:1V5QQ40UvCe4"] = {
 				{
 					["DefaultText"] = "[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"\"]",
 					["Justify"] = "RIGHT",
-					["SkinAs"] = "HotKey",
-					["JustifyV"] = "TOP",
 					["Anchors"] = {
 						{
 							["x"] = 2,
@@ -43,18 +19,20 @@ TellMeWhenDB = {
 							["relativePoint"] = "TOPRIGHT",
 						}, -- [1]
 					},
+					["JustifyV"] = "TOP",
+					["SkinAs"] = "HotKey",
 					["Name"] = "Friz Quadrata TT",
 					["StringName"] = "Binding/Label",
 					["Height"] = 1,
 				}, -- [1]
 				{
-					["SkinAs"] = "Count",
 					["Anchors"] = {
 						{
 							["point"] = "LEFT",
 							["relativePoint"] = "LEFT",
 						}, -- [1]
 					},
+					["SkinAs"] = "Count",
 					["Name"] = "Friz Quadrata TT",
 					["StringName"] = "Stacks",
 					["DefaultText"] = "[Stacks:Hide(0):Color(\"f2ec30\")]",
@@ -76,76 +54,132 @@ TellMeWhenDB = {
 				["Name"] = "Icon Layout 2",
 				["n"] = 3,
 			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["TMW:textlayout:1V5RBRoAFw84"] = {
+				{
+					["Name"] = "Friz Quadrata TT",
+					["StringName"] = "Number",
+					["ConstrainWidth"] = false,
+					["Size"] = 14,
+				}, -- [1]
+				["GUID"] = "TMW:textlayout:1V5RBRoAFw84",
+				["Name"] = "Center Number 2",
+			},
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
 		},
 		["AuraCache"] = {
-			[61684] = 2,
+			[326419] = 2,
 			[296003] = 2,
+			[281240] = 2,
 			[335152] = 2,
 			[281209] = 2,
-			[260072] = 1,
 			[210320] = 2,
+			[264764] = 2,
+			[256739] = 2,
+			[264352] = 2,
+			[257422] = 2,
 			[6673] = 2,
 			[289277] = 2,
-			[285976] = 2,
 			[312107] = 2,
-			[292359] = 2,
-			[285978] = 2,
-			[319919] = 2,
-			[316522] = 2,
-			[256456] = 2,
-			[292361] = 2,
-			[288075] = 2,
-			[251837] = 2,
+			[298836] = 2,
+			[299662] = 2,
+			[296138] = 2,
+			[298837] = 2,
+			[285979] = 2,
+			[768] = 2,
+			[269279] = 2,
+			[24450] = 2,
 			[292362] = 2,
-			[236502] = 2,
+			[294966] = 2,
 			[285981] = 2,
+			[118922] = 2,
 			[317065] = 2,
 			[297412] = 2,
 			[298841] = 2,
 			[80354] = 2,
 			[248473] = 2,
-			[203277] = 2,
-			[268776] = 1,
-			[108366] = 2,
-			[186403] = 2,
-			[317420] = 2,
-			[297037] = 2,
-			[198819] = 2,
-			[304056] = 2,
-			[232698] = 2,
-			[295842] = 2,
-			[215479] = 2,
-			[116847] = 2,
-			[2383] = 2,
-			[21562] = 2,
-			[326419] = 2,
-			[1715] = 2,
-			[319237] = 2,
-			[269279] = 2,
-			[278736] = 2,
+			[192106] = 2,
+			[280205] = 2,
+			[90328] = 2,
 			[165961] = 2,
-			[43308] = 2,
+			[263725] = 2,
+			[2823] = 2,
+			[316814] = 2,
+			[297034] = 2,
+			[137619] = 2,
+			[186403] = 2,
+			[258920] = 2,
+			[297035] = 2,
+			[214968] = 2,
+			[298950] = 2,
+			[308189] = 2,
+			[40120] = 2,
+			[278736] = 2,
+			[17] = 2,
+			[292360] = 2,
+			[297037] = 2,
+			[270070] = 2,
+			[232698] = 2,
+			[279584] = 2,
+			[2383] = 2,
+			[162264] = 2,
+			[287790] = 2,
+			[192225] = 2,
+			[297039] = 2,
+			[304056] = 2,
+			[24858] = 2,
+			[264761] = 2,
+			[264760] = 2,
+			[298703] = 2,
+			[2645] = 2,
+			[194384] = 2,
+			[6788] = 2,
+			[298343] = 2,
+			[111400] = 2,
+			[21562] = 2,
 			[167898] = 2,
-			[270661] = 2,
-			[270058] = 2,
+			[264689] = 2,
+			[288146] = 2,
+			[45181] = 2,
+			[280398] = 2,
+			[242551] = 2,
+			[108366] = 2,
+			[308188] = 2,
+			[319237] = 2,
 			[227723] = 2,
 			[2580] = 2,
-			[297034] = 2,
-			[260069] = 1,
-			[16591] = 2,
+			[43308] = 2,
+			[298823] = 2,
+			[270661] = 2,
+			[270058] = 2,
+			[292361] = 2,
+			[245686] = 2,
+			[203538] = 2,
+			[148563] = 2,
+			[3408] = 2,
 			[72968] = 2,
-			[211881] = 2,
-			[1490] = 2,
-			[319241] = 2,
-			[268854] = 2,
-			[287790] = 2,
-			[260070] = 1,
+			[8679] = 2,
 			[202602] = 2,
+			[203975] = 2,
+			[288158] = 2,
+			[203539] = 2,
+			[295842] = 2,
+			[57723] = 2,
 			[1459] = 2,
 			[317020] = 2,
-			[253595] = 2,
-			[90328] = 2,
-			[298836] = 2,
+			[220510] = 2,
+			[288509] = 2,
+			[108211] = 2,
 		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
@@ -1315,8 +1349,8 @@ TellMeWhenDB = {
 									["Unit"] = "target",
 								}, -- [1]
 								{
-									["AndOr"] = "OR",
 									["Type"] = "SPELLRANGE",
+									["AndOr"] = "OR",
 									["Name"] = "Shadow Word: Pain",
 									["Unit"] = "target",
 								}, -- [2]
@@ -2084,6 +2118,9 @@ TellMeWhenDB = {
 									},
 								},
 							},
+							["Unit"] = "group 1-40",
+							["Type"] = "buff",
+							["Name"] = "Atonement",
 							["States"] = {
 								{
 								}, -- [1]
@@ -2095,9 +2132,6 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Name"] = "Atonement",
-							["Type"] = "buff",
-							["Unit"] = "group 1-40",
 						}, -- [1]
 						{
 							["Enabled"] = true,
@@ -2209,23 +2243,23 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Disc Procs",
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[257] = false,
-						[258] = false,
-					},
 					["Point"] = {
 						["y"] = 32,
 						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
 						["point"] = "BOTTOMLEFT",
 						["relativePoint"] = "TOPLEFT",
 					},
+					["EnabledSpecs"] = {
+						[257] = false,
+						[258] = false,
+					},
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1V5Rw74pj18v",
 					["Point"] = {
-						["x"] = -6,
 						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["x"] = -6,
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -3033,18 +3067,18 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
 					},
-					["Columns"] = 3,
+					["ShrinkGroup"] = true,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1V5S0C30ZNK5",
 					["Point"] = {
-						["x"] = 6,
 						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["x"] = 6,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -3870,12 +3904,12 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
 					},
-					["Columns"] = 3,
+					["ShrinkGroup"] = true,
 				}, -- [5]
 				{
 					["GUID"] = "TMW:group:1V5SQWkWTAWD",
@@ -4801,23 +4835,23 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Holy Procs",
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[258] = false,
-						[256] = false,
-					},
 					["Point"] = {
 						["y"] = 32.00006103515625,
 						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
 						["point"] = "BOTTOMLEFT",
 						["relativePoint"] = "TOPLEFT",
 					},
+					["EnabledSpecs"] = {
+						[258] = false,
+						[256] = false,
+					},
+					["ShrinkGroup"] = true,
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1V5SSLYuujaJ",
 					["Point"] = {
-						["x"] = -6,
 						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
+						["x"] = -6,
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -5644,18 +5678,18 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[258] = false,
 						[256] = false,
 					},
-					["Columns"] = 3,
+					["ShrinkGroup"] = true,
 				}, -- [9]
 				{
 					["GUID"] = "TMW:group:1V5SSQP92pnS",
 					["Point"] = {
-						["x"] = 6,
 						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
+						["x"] = 6,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -6462,12 +6496,12 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[258] = false,
 						[256] = false,
 					},
-					["Columns"] = 3,
+					["ShrinkGroup"] = true,
 				}, -- [10]
 			},
 			["NumGroups"] = 10,
@@ -7213,11 +7247,6 @@ TellMeWhenDB = {
 							},
 						}, -- [1]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7226,14 +7255,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [2]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7242,6 +7271,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [3]
 						{
@@ -7618,7 +7652,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 10,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -7626,13 +7660,13 @@ TellMeWhenDB = {
 						[258] = false,
 						[251] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 10,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1V5SOIRQ90yY",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
 						["x"] = -6,
+						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -7640,11 +7674,6 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7653,6 +7682,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [1]
 						{
@@ -7779,11 +7813,6 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -7792,6 +7821,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [8]
 						{
@@ -8433,7 +8467,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 3,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -8441,13 +8475,13 @@ TellMeWhenDB = {
 						[258] = false,
 						[251] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 3,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1V5SOVYZkFeD",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
 						["x"] = 6,
+						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -8507,11 +8541,6 @@ TellMeWhenDB = {
 							},
 						}, -- [2]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -8520,6 +8549,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [3]
 						{
@@ -8579,11 +8613,6 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -8592,6 +8621,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [6]
 						{
@@ -8617,11 +8651,6 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -8630,6 +8659,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [9]
 						{
@@ -9248,7 +9282,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 3,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -9256,7 +9290,7 @@ TellMeWhenDB = {
 						[258] = false,
 						[251] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 3,
 				}, -- [5]
 				{
 					["GUID"] = "TMW:group:1V5cTbI5htiS",
@@ -9873,11 +9907,6 @@ TellMeWhenDB = {
 					["Scale"] = 1,
 					["Icons"] = {
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -9886,14 +9915,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [1]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -9902,14 +9931,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [2]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -9918,14 +9947,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [3]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -9934,6 +9963,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [4]
 						{
@@ -10299,7 +10333,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 10,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -10307,13 +10341,13 @@ TellMeWhenDB = {
 						[258] = false,
 						[250] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 10,
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1V5cTu9KreSH",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
 						["x"] = -6,
+						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -10321,11 +10355,6 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10334,14 +10363,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [1]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10350,14 +10379,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [2]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10366,6 +10395,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [3]
 						{
@@ -10391,11 +10425,6 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10404,6 +10433,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [6]
 						{
@@ -10418,11 +10452,6 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10431,14 +10460,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [8]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -10447,6 +10476,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [9]
 						{
@@ -11065,7 +11099,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 3,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -11073,13 +11107,13 @@ TellMeWhenDB = {
 						[258] = false,
 						[250] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 3,
 				}, -- [9]
 				{
 					["GUID"] = "TMW:group:1V5cTzA4iA0y",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
 						["x"] = 6.000244140625,
+						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -11087,11 +11121,6 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11100,14 +11129,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [1]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11116,14 +11145,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [2]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11132,14 +11161,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [3]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11148,14 +11177,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [4]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11164,14 +11193,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [5]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11180,6 +11209,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [6]
 						{
@@ -11205,11 +11239,6 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -11218,6 +11247,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [9]
 						{
@@ -11836,7 +11870,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 3,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -11844,7 +11878,7 @@ TellMeWhenDB = {
 						[258] = false,
 						[250] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 3,
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1V5cUukrcu0O",
@@ -12581,8 +12615,8 @@ TellMeWhenDB = {
 									["Type"] = "EXISTS",
 								}, -- [1]
 								{
-									["Type"] = "REACT",
 									["Level"] = 1,
+									["Type"] = "REACT",
 								}, -- [2]
 								["n"] = 2,
 							},
@@ -12617,8 +12651,8 @@ TellMeWhenDB = {
 									["Type"] = "EXISTS",
 								}, -- [1]
 								{
-									["Type"] = "REACT",
 									["Level"] = 1,
+									["Type"] = "REACT",
 								}, -- [2]
 								["n"] = 2,
 							},
@@ -13045,7 +13079,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 10,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -13053,13 +13087,13 @@ TellMeWhenDB = {
 						[251] = false,
 						[250] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 10,
 				}, -- [13]
 				{
 					["GUID"] = "TMW:group:1V5cV4MwVSSX",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
 						["x"] = -6,
+						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -13067,11 +13101,6 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -13080,6 +13109,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [1]
 						{
@@ -13208,11 +13242,6 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -13221,14 +13250,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [8]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -13237,6 +13266,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [9]
 						{
@@ -13855,7 +13889,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 3,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -13863,13 +13897,13 @@ TellMeWhenDB = {
 						[251] = false,
 						[250] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 3,
 				}, -- [14]
 				{
 					["GUID"] = "TMW:group:1V5cV9qeulOw",
 					["Point"] = {
-						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
 						["x"] = 6.000244140625,
+						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -13929,11 +13963,6 @@ TellMeWhenDB = {
 							},
 						}, -- [2]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -13942,6 +13971,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [3]
 						{
@@ -14001,11 +14035,6 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -14014,6 +14043,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [6]
 						{
@@ -14039,11 +14073,6 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -14052,6 +14081,11 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
 							},
 						}, -- [9]
 						{
@@ -14670,7 +14704,7 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Columns"] = 3,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -14678,7 +14712,7 @@ TellMeWhenDB = {
 						[251] = false,
 						[250] = false,
 					},
-					["Locked"] = true,
+					["Columns"] = 3,
 				}, -- [15]
 			},
 			["NumGroups"] = 15,
@@ -15892,19 +15926,19 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Locked"] = true,
+					["Columns"] = 10,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
 						[256] = false,
 					},
-					["Columns"] = 10,
+					["Locked"] = true,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1V5SOIRQ90yY",
 					["Point"] = {
-						["x"] = -6,
 						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
+						["x"] = -6,
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -15912,6 +15946,11 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -15920,14 +15959,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -15936,11 +15975,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
@@ -16042,6 +16076,11 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -16050,11 +16089,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [8]
 						{
@@ -16692,19 +16726,19 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Locked"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
 						[256] = false,
 					},
-					["Columns"] = 3,
+					["Locked"] = true,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1V5SOVYZkFeD",
 					["Point"] = {
-						["x"] = 6,
 						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
+						["x"] = 6,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -16846,6 +16880,11 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -16854,11 +16893,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [6]
 						{
@@ -16899,6 +16933,11 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -16907,11 +16946,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [9]
 						{
@@ -17530,13 +17564,13 @@ TellMeWhenDB = {
 						},
 					},
 					["ShrinkGroup"] = true,
-					["Locked"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
 						[256] = false,
 					},
-					["Columns"] = 3,
+					["Locked"] = true,
 				}, -- [5]
 				{
 					["Icons"] = {
@@ -18560,6 +18594,11 @@ TellMeWhenDB = {
 					["Scale"] = 1,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -18568,14 +18607,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -18584,14 +18623,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -18600,14 +18639,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -18616,11 +18655,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [4]
 						{
@@ -18986,7 +19020,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 10,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -18994,13 +19028,13 @@ TellMeWhenDB = {
 						[258] = false,
 						[251] = false,
 					},
-					["Columns"] = 10,
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1V5SOIRQ90yY",
 					["Point"] = {
-						["x"] = -6,
 						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
+						["x"] = -6,
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -19008,6 +19042,11 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19016,14 +19055,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19032,14 +19071,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19048,11 +19087,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
@@ -19078,6 +19112,11 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19086,11 +19125,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [6]
 						{
@@ -19105,6 +19139,11 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19113,14 +19152,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [8]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19129,11 +19168,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [9]
 						{
@@ -19752,7 +19786,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -19760,13 +19794,13 @@ TellMeWhenDB = {
 						[258] = false,
 						[251] = false,
 					},
-					["Columns"] = 3,
+					["ShrinkGroup"] = true,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1V5SOVYZkFeD",
 					["Point"] = {
-						["x"] = 6,
 						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
+						["x"] = 6,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -19774,6 +19808,11 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19782,14 +19821,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19798,14 +19837,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19814,14 +19853,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19830,14 +19869,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [4]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19846,14 +19885,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [5]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19862,11 +19901,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [6]
 						{
@@ -19892,6 +19926,11 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -19900,11 +19939,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [9]
 						{
@@ -20523,7 +20557,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["ShrinkGroup"] = true,
+					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -20531,7 +20565,7 @@ TellMeWhenDB = {
 						[258] = false,
 						[251] = false,
 					},
-					["Columns"] = 3,
+					["ShrinkGroup"] = true,
 				}, -- [5]
 				{
 					["GUID"] = "TMW:group:1V5cTbI5htiS",
@@ -21143,6 +21177,11 @@ TellMeWhenDB = {
 					["Scale"] = 1,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21151,14 +21190,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21167,14 +21206,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21183,14 +21222,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21199,11 +21238,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [4]
 						{
@@ -21569,12 +21603,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["Point"] = {
-						["y"] = 32.00006103515625,
-						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -21582,7 +21611,12 @@ TellMeWhenDB = {
 						[258] = false,
 						[250] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Point"] = {
+						["y"] = 32.00006103515625,
+						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1V5cTu9KreSH",
@@ -21591,6 +21625,11 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21599,14 +21638,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21615,14 +21654,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21631,11 +21670,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
@@ -21661,6 +21695,11 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21669,11 +21708,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [6]
 						{
@@ -21688,6 +21722,11 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21696,14 +21735,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [8]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -21712,11 +21751,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [9]
 						{
@@ -22335,12 +22369,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["Point"] = {
-						["x"] = -6,
-						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
-						["point"] = "TOPRIGHT",
-						["relativePoint"] = "TOPLEFT",
-					},
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -22348,7 +22377,12 @@ TellMeWhenDB = {
 						[258] = false,
 						[250] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
+						["x"] = -6,
+						["point"] = "TOPRIGHT",
+						["relativePoint"] = "TOPLEFT",
+					},
 				}, -- [9]
 				{
 					["GUID"] = "TMW:group:1V5cTzA4iA0y",
@@ -22357,6 +22391,11 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -22365,14 +22404,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -22381,14 +22420,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -22397,14 +22436,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -22413,14 +22452,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [4]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -22429,14 +22468,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [5]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -22445,11 +22484,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [6]
 						{
@@ -22475,6 +22509,11 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -22483,11 +22522,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [9]
 						{
@@ -23106,12 +23140,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["Point"] = {
-						["x"] = 6.000244140625,
-						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPRIGHT",
-					},
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[252] = false,
 						[256] = false,
@@ -23119,7 +23148,12 @@ TellMeWhenDB = {
 						[258] = false,
 						[250] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1V5cTbI5htiS",
+						["x"] = 6.000244140625,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPRIGHT",
+					},
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1V5cUukrcu0O",
@@ -23731,6 +23765,11 @@ TellMeWhenDB = {
 					["Scale"] = 1,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -23739,14 +23778,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -23755,14 +23794,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -23771,14 +23810,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -23787,11 +23826,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [4]
 						{
@@ -24157,12 +24191,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["Point"] = {
-						["y"] = 32.00006103515625,
-						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-					},
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -24170,7 +24199,12 @@ TellMeWhenDB = {
 						[251] = false,
 						[250] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Point"] = {
+						["y"] = 32.00006103515625,
+						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+					},
 				}, -- [13]
 				{
 					["GUID"] = "TMW:group:1V5cV4MwVSSX",
@@ -24179,6 +24213,11 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24187,14 +24226,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24203,14 +24242,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24219,11 +24258,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
@@ -24249,6 +24283,11 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24257,11 +24296,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [6]
 						{
@@ -24276,6 +24310,11 @@ TellMeWhenDB = {
 							},
 						}, -- [7]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24284,14 +24323,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [8]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24300,11 +24339,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [9]
 						{
@@ -24923,12 +24957,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["Point"] = {
-						["x"] = -6,
-						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
-						["point"] = "TOPRIGHT",
-						["relativePoint"] = "TOPLEFT",
-					},
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -24936,7 +24965,12 @@ TellMeWhenDB = {
 						[251] = false,
 						[250] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
+						["x"] = -6,
+						["point"] = "TOPRIGHT",
+						["relativePoint"] = "TOPLEFT",
+					},
 				}, -- [14]
 				{
 					["GUID"] = "TMW:group:1V5cV9qeulOw",
@@ -24945,6 +24979,11 @@ TellMeWhenDB = {
 					["Rows"] = 3,
 					["Icons"] = {
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24953,14 +24992,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [1]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24969,14 +25008,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [2]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -24985,14 +25024,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [3]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -25001,14 +25040,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [4]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -25017,14 +25056,14 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [5]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -25033,11 +25072,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [6]
 						{
@@ -25063,6 +25097,11 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -25071,11 +25110,6 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
 							},
 						}, -- [9]
 						{
@@ -25694,12 +25728,7 @@ TellMeWhenDB = {
 						},
 					},
 					["Locked"] = true,
-					["Point"] = {
-						["x"] = 6.000244140625,
-						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "TOPRIGHT",
-					},
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -25707,11 +25736,18 @@ TellMeWhenDB = {
 						[251] = false,
 						[250] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Point"] = {
+						["relativeTo"] = "TMW:group:1V5cUukrcu0O",
+						["x"] = 6.000244140625,
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "TOPRIGHT",
+					},
 				}, -- [15]
 			},
 		},
 		["Toshpal - Area 52"] = {
+			["Version"] = 87505,
+			["NumGroups"] = 15,
 			["Groups"] = {
 				{
 					["Point"] = {
@@ -25726,8 +25762,8 @@ TellMeWhenDB = {
 						[66] = false,
 						[257] = false,
 						[258] = false,
-						[70] = false,
 						[256] = false,
+						[70] = false,
 					},
 					["Columns"] = 13,
 					["Icons"] = {
@@ -25819,24 +25855,15 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 						}, -- [4]
 						{
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Rule of Law",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"A2\"]", -- [1]
-									},
-								},
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1V6xFoaTYmCB", -- [1]
+								"TMW:icon:1V6xFoaRWAOK", -- [2]
 							},
 							["States"] = {
 								{
 								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
@@ -26010,23 +26037,53 @@ TellMeWhenDB = {
 						[66] = false,
 						[257] = false,
 						[258] = false,
-						[256] = false,
 						[70] = false,
+						[256] = false,
 					},
 					["Columns"] = 6,
 					["Icons"] = {
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Rule of Law",
+							["GUID"] = "TMW:icon:1V6xFoaRWAOK",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"A2\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["FakeHidden"] = true,
+							["Enabled"] = true,
 						}, -- [1]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Rule of Law",
+							["InvertTimer"] = true,
+							["GUID"] = "TMW:icon:1V6xFoaTYmCB",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5RBRoAFw84",
+									["Texts"] = {
+										"[Duration:TMWFormatDuration]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -26036,6 +26093,8 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["FakeHidden"] = true,
+							["Enabled"] = true,
 						}, -- [2]
 						{
 							["States"] = {
@@ -26431,13 +26490,13 @@ TellMeWhenDB = {
 						["relativePoint"] = "TOPLEFT",
 					},
 					["Scale"] = 1,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
 						[258] = false,
-						[256] = false,
 						[70] = false,
+						[256] = false,
 					},
 					["Columns"] = 10,
 					["Icons"] = {
@@ -26899,7 +26958,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SNEtmfyWa",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["Point"] = {
@@ -26910,13 +26969,13 @@ TellMeWhenDB = {
 					},
 					["Scale"] = 1,
 					["Rows"] = 3,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
 						[258] = false,
-						[256] = false,
 						[70] = false,
+						[256] = false,
 					},
 					["Columns"] = 3,
 					["Icons"] = {
@@ -27754,7 +27813,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SOIRQ90yY",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [4]
 				{
 					["Point"] = {
@@ -27765,13 +27824,13 @@ TellMeWhenDB = {
 					},
 					["Scale"] = 1,
 					["Rows"] = 3,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
 						[258] = false,
-						[256] = false,
 						[70] = false,
+						[256] = false,
 					},
 					["Columns"] = 3,
 					["Icons"] = {
@@ -28579,7 +28638,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SOVYZkFeD",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [5]
 				{
 					["Point"] = {
@@ -29301,7 +29360,7 @@ TellMeWhenDB = {
 						["relativePoint"] = "TOPLEFT",
 					},
 					["Scale"] = 1,
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -29755,7 +29814,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5ZtaY7fCio",
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [8]
 				{
 					["Point"] = {
@@ -29766,7 +29825,7 @@ TellMeWhenDB = {
 					},
 					["Scale"] = 1,
 					["Rows"] = 3,
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -30595,7 +30654,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5ZtnkDsIuC",
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [9]
 				{
 					["Point"] = {
@@ -30606,7 +30665,7 @@ TellMeWhenDB = {
 					},
 					["Scale"] = 1,
 					["Rows"] = 3,
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["EnabledSpecs"] = {
 						[256] = false,
 						[257] = false,
@@ -31420,7 +31479,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5ZtusCzGST",
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [10]
 				{
 					["Point"] = {
@@ -31710,10 +31769,6 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1V5aRJKBQQam",
 				}, -- [11]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -32128,6 +32183,10 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Helpers",
 					["GUID"] = "TMW:group:1V5aRQ0ajTe8",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [12]
 				{
 					["Point"] = {
@@ -32137,7 +32196,7 @@ TellMeWhenDB = {
 						["relativePoint"] = "TOPLEFT",
 					},
 					["Scale"] = 1,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
@@ -32594,7 +32653,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5aRagk0B0W",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [13]
 				{
 					["Point"] = {
@@ -32605,7 +32664,7 @@ TellMeWhenDB = {
 					},
 					["Scale"] = 1,
 					["Rows"] = 3,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
@@ -33399,7 +33458,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5aRm6hX3qf",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [14]
 				{
 					["Point"] = {
@@ -33410,7 +33469,7 @@ TellMeWhenDB = {
 					},
 					["Scale"] = 1,
 					["Rows"] = 3,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[66] = false,
 						[257] = false,
@@ -34235,11 +34294,9 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5aSODi_7y8",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [15]
 			},
-			["NumGroups"] = 15,
-			["Version"] = 87505,
 			["Locked"] = true,
 		},
 	},

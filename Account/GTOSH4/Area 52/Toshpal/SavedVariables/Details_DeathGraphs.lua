@@ -5,7 +5,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Wrathion",
 		["id"] = 2368,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -15,27 +14,88 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Wrathion",
 			["diff"] = 15,
-			["id"] = 2329,
 			["ej_instance_id"] = 1180,
+			["id"] = 2329,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Artsong"] = {
-				["name"] = "Artsong",
 				["class"] = "HUNTER",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
 			},
 		},
+		["diff"] = 15,
+	},
+	["236415"] = {
+		["hash"] = "236415",
+		["type"] = "deaths",
+		["name"] = "Ra-den the Despoiled",
+		["id"] = 2364,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 10,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2331,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Ra-den the Despoiled",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Ra-den the Despoiled",
+		},
+		["player_db"] = {
+			["Royalty"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Royalty",
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ybrik-Kil'jaeden",
+			},
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Cohava-Illidan"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Cohava-Illidan",
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Yarilys-Kil'jaeden",
+			},
+		},
+		["diff"] = 15,
 	},
 	["236615"] = {
 		["hash"] = "236615",
 		["type"] = "deaths",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 11,
@@ -45,112 +105,79 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Carapace of N'Zoth",
 			["diff"] = 15,
-			["id"] = 2337,
 			["ej_instance_id"] = 1180,
+			["id"] = 2337,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Artsong"] = {
-				["name"] = "Artsong",
 				["class"] = "HUNTER",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
 			},
 			["Maxxed-Mal'Ganis"] = {
-				["name"] = "Maxxed-Mal'Ganis",
 				["class"] = "WARLOCK",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Maxxed-Mal'Ganis",
 			},
 			["Haxpax-Kil'jaeden"] = {
-				["name"] = "Haxpax-Kil'jaeden",
 				["class"] = "PRIEST",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Haxpax-Kil'jaeden",
 			},
 			["Baesong-Kil'jaeden"] = {
-				["name"] = "Baesong-Kil'jaeden",
 				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Baesong-Kil'jaeden",
 			},
 		},
-	},
-	["236415"] = {
-		["hash"] = "236415",
-		["type"] = "deaths",
-		["name"] = "Ra-den the Despoiled",
-		["id"] = 2364,
 		["diff"] = 15,
+	},
+	["237215"] = {
+		["hash"] = "237215",
+		["type"] = "deaths",
+		["name"] = "The Hivemind",
+		["id"] = 2372,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
-			["index"] = 10,
+			["index"] = 5,
 			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2331,
+			["id"] = 2333,
 			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Ra-den the Despoiled",
-			["encounter"] = "Ra-den the Despoiled",
-			["ej_instance_id"] = 1180,
+			["name"] = "The Hivemind",
 			["diff"] = 15,
+			["encounter"] = "The Hivemind",
+			["ej_instance_id"] = 1180,
 		},
 		["player_db"] = {
-			["Royalty"] = {
-				["name"] = "Royalty",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
+			["Baesong-Kil'jaeden"] = {
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["name"] = "Ybrik-Kil'jaeden",
-				["class"] = "HUNTER",
 				["overall"] = {
 				},
-				["deaths"] = {
-				},
-			},
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Cohava-Illidan"] = {
-				["name"] = "Cohava-Illidan",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["name"] = "Yarilys-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
+				["name"] = "Baesong-Kil'jaeden",
 			},
 		},
+		["diff"] = 15,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "deaths",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 12,
@@ -160,30 +187,124 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "N'Zoth the Corruptor",
 			["diff"] = 15,
-			["id"] = 2344,
 			["ej_instance_id"] = 1180,
+			["id"] = 2344,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
 				["name"] = "Ybrik-Kil'jaeden",
+			},
+			["Illestt-Barthilas"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Illestt-Barthilas",
+			},
+			["Judaasx"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Judaasx",
+			},
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Taistoi-Illidan"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Taistoi-Illidan",
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Yarilys-Kil'jaeden",
+			},
+		},
+		["diff"] = 15,
+	},
+	["237416"] = {
+		["hash"] = "237416",
+		["type"] = "deaths",
+		["name"] = "Il'gynoth, Corruption Reborn",
+		["id"] = 2374,
+		["diff"] = 16,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 8,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2345,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Il'gynoth, Corruption Reborn",
+			["encounter"] = "Il'gynoth, Corruption Reborn",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
+		},
+		["player_db"] = {
+			["Holypenguin"] = {
+				["name"] = "Holypenguin",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Oxclamation"] = {
+				["name"] = "Oxclamation",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Smytt"] = {
+				["name"] = "Smytt",
 				["class"] = "HUNTER",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
-			["Illestt-Barthilas"] = {
-				["name"] = "Illestt-Barthilas",
-				["class"] = "DEATHKNIGHT",
+			["Sci"] = {
+				["name"] = "Sci",
+				["class"] = "PALADIN",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
-			["Judaasx"] = {
-				["name"] = "Judaasx",
+			["Warlockmania"] = {
+				["name"] = "Warlockmania",
 				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["name"] = "Toshpal",
+				["class"] = "PALADIN",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -197,44 +318,48 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Taistoi-Illidan"] = {
-				["name"] = "Taistoi-Illidan",
+			["Rathux"] = {
+				["name"] = "Rathux",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Andruw"] = {
+				["name"] = "Andruw",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Itsyellowy"] = {
+				["name"] = "Itsyellowy",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Versatillee-Mal'Ganis"] = {
+				["name"] = "Versatillee-Mal'Ganis",
 				["class"] = "PALADIN",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
-			["Yarilys-Kil'jaeden"] = {
-				["name"] = "Yarilys-Kil'jaeden",
-				["class"] = "HUNTER",
+			["Durantye"] = {
+				["name"] = "Durantye",
+				["class"] = "PRIEST",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
-		},
-	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "deaths",
-		["name"] = "The Hivemind",
-		["id"] = 2372,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 5,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
-			["mapid"] = 2217,
-			["name"] = "The Hivemind",
-			["ej_instance_id"] = 1180,
-			["encounter"] = "The Hivemind",
-			["diff"] = 15,
-		},
-		["player_db"] = {
-			["Baesong-Kil'jaeden"] = {
-				["name"] = "Baesong-Kil'jaeden",
+			["Wilwar"] = {
+				["name"] = "Wilwar",
 				["class"] = "WARRIOR",
 				["overall"] = {
 				},
@@ -250,7 +375,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Wrathion",
 		["id"] = 2368,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -260,28 +384,29 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Wrathion",
 			["diff"] = 15,
-			["id"] = 2329,
 			["ej_instance_id"] = 1180,
+			["id"] = 2329,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Baesong-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Artsong"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -289,128 +414,352 @@ DeathGraphsDBEndurance = {
 						"Scorching Blister (DoT) |cFFFF3333110,334|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "HUNTER",
 			},
 			["Hysterìa-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Taistoi-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Solvèj"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Cohava-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "PRIEST",
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
-			},
-			["Haschwàlth-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Toshpal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Dntyer-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yukios-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Scibolt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
 			},
 			["Yuffa-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
+			},
+			["Haschwàlth-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Dntyer-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Scibolt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
 			},
 		},
+		["diff"] = 15,
+	},
+	["236415"] = {
+		["hash"] = "236415",
+		["type"] = "endurance",
+		["name"] = "Ra-den the Despoiled",
+		["id"] = 2364,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 10,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2331,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Ra-den the Despoiled",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Ra-den the Despoiled",
+		},
+		["player_db"] = {
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Doublehitt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Baesong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hysterìa-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Taistoi-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yuffa-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Ricksstudent-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Illestchi-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Biggergf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Haschwàlth-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Bigbf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						92.42299999995157, -- [2]
+						"Unstable Vita |cFFFF3333676,057|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Shankntwist-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Dntyer-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Solvèj"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						2, -- [1]
+						91.92900000000373, -- [2]
+						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Scibolt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						91.92900000000373, -- [2]
+						"Unstable Vita |cFFFF3333656,256|r", -- [3]
+					}, -- [1]
+				},
+			},
+		},
+		["diff"] = 15,
 	},
 	["236615"] = {
 		["hash"] = "236615",
 		["type"] = "endurance",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 11,
@@ -420,35 +769,36 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Carapace of N'Zoth",
 			["diff"] = 15,
-			["id"] = 2337,
 			["ej_instance_id"] = 1180,
+			["id"] = 2337,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Doublehitt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Baesong-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Artsong"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -456,46 +806,46 @@ DeathGraphsDBEndurance = {
 						"Nightmare Antibody |cFFFF333336,527|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "HUNTER",
 			},
 			["Hysterìa-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Taistoi-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Illiken-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Illestt-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Maxxed-Mal'Ganis"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -503,53 +853,60 @@ DeathGraphsDBEndurance = {
 						"Eternal Darkness |cFFFF333396,494|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
-			["Yarilys-Kil'jaeden"] = {
+			["Yuffa-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
-			["Yukios-Kil'jaeden"] = {
+			["Déviné"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Toshpal"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
-			["Cohava-Illidan"] = {
+			["Solvèj"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Shankntwist-BleedingHollow"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
 			},
 			["Haxpax-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -557,283 +914,257 @@ DeathGraphsDBEndurance = {
 						"Thrashing Tentacle |cFFFF33331,011,493|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PRIEST",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Judaasx"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "WARLOCK",
-			},
-			["Solvèj"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
-			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Scibolt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yuffa-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-		},
-	},
-	["236415"] = {
-		["hash"] = "236415",
-		["type"] = "endurance",
-		["name"] = "Ra-den the Despoiled",
-		["id"] = 2364,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 10,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2331,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Ra-den the Despoiled",
-			["encounter"] = "Ra-den the Despoiled",
-			["ej_instance_id"] = 1180,
-			["diff"] = 15,
-		},
-		["player_db"] = {
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Doublehitt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Baesong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Hysterìa-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Taistoi-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						2, -- [1]
-						91.92900000000373, -- [2]
-						"Unstable Vita |cFFFF3333656,256|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Ricksstudent-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
 			},
 			["Cohava-Illidan"] = {
 				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						2, -- [1]
-						91.92900000000373, -- [2]
-						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
-					}, -- [1]
-				},
+				["points"] = 100,
 				["class"] = "PRIEST",
-			},
-			["Solvèj"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
-			},
-			["Illestchi-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Dntyer-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Bigbf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Toshpal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						2, -- [1]
-						92.42299999995157, -- [2]
-						"Unstable Vita |cFFFF3333676,057|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Shankntwist-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Haschwàlth-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Haxpax-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
 			},
 			["Yukios-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "SHAMAN",
-			},
-			["Biggergf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Scibolt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 15,
+	},
+	["237215"] = {
+		["hash"] = "237215",
+		["type"] = "endurance",
+		["name"] = "The Hivemind",
+		["id"] = 2372,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 5,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2333,
+			["mapid"] = 2217,
+			["name"] = "The Hivemind",
+			["diff"] = 15,
+			["encounter"] = "The Hivemind",
+			["ej_instance_id"] = 1180,
+		},
+		["player_db"] = {
+			["Ybrik-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Doublehitt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Baesong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						1, -- [1]
+						131.8070000000298, -- [2]
+						"Acid Spray |cFFFF3333246,768|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hysterìa-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Taistoi-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Solvèj"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
 			},
 			["Yuffa-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
+			},
+			["Ricksstudent-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Illestchi-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Haschwàlth-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Biggergf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Bigbf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Shankntwist-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Dntyer-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Scibolt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
 			},
 		},
+		["diff"] = 15,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "endurance",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 12,
@@ -843,14 +1174,15 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "N'Zoth the Corruptor",
 			["diff"] = 15,
-			["id"] = 2344,
 			["ej_instance_id"] = 1180,
+			["id"] = 2344,
 			["killed"] = true,
 		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -858,25 +1190,25 @@ DeathGraphsDBEndurance = {
 						"Anguish (DoT) |cFFFF3333118,908|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "HUNTER",
 			},
 			["Doublehitt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Baesong-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Artsong"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -884,53 +1216,137 @@ DeathGraphsDBEndurance = {
 						"Anguish (DoT) |cFFFF3333171,435|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "HUNTER",
 			},
 			["Hysterìa-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Taistoi-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Solvèj"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Illiken-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Illestt-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Maxxed-Mal'Ganis"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+			},
+			["Yuffa-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Haschwàlth-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Sciduckhunt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Shankntwist-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
 			},
 			["Yarilys-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -938,298 +1354,223 @@ DeathGraphsDBEndurance = {
 						"Anguish (DoT) |cFFFF3333169,796|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "HUNTER",
 			},
-			["Yukios-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+		},
+		["diff"] = 15,
+	},
+	["237416"] = {
+		["hash"] = "237416",
+		["type"] = "endurance",
+		["name"] = "Il'gynoth, Corruption Reborn",
+		["id"] = 2374,
+		["diff"] = 16,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 8,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2345,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Il'gynoth, Corruption Reborn",
+			["encounter"] = "Il'gynoth, Corruption Reborn",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
+		},
+		["player_db"] = {
+			["Oxclamation"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
+				["class"] = "DRUID",
 			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Artsong"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Sci"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["deaths"] = {
+					{
+						2, -- [1]
+						279.6219999995083, -- [2]
+						"Melee |cFFFF33332,741|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "PALADIN",
 			},
-			["Sciduckhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Cohava-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Shankntwist-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Evangelos"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Haxpax-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Durantye"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "PRIEST",
 			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Toshpal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Haschwàlth-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Yuffa-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-		},
-	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "endurance",
-		["name"] = "The Hivemind",
-		["id"] = 2372,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 5,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
-			["mapid"] = 2217,
-			["name"] = "The Hivemind",
-			["ej_instance_id"] = 1180,
-			["encounter"] = "The Hivemind",
-			["diff"] = 15,
-		},
-		["player_db"] = {
-			["Ybrik-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Doublehitt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Baesong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
+			["Andruw"] = {
+				["encounters"] = 4,
+				["points"] = 390,
 				["deaths"] = {
 					{
 						1, -- [1]
-						131.8070000000298, -- [2]
-						"Acid Spray |cFFFF3333246,768|r", -- [3]
+						123.8950000004843, -- [2]
+						"Eye of Corruption |cFFFF333348,354|r", -- [3]
 					}, -- [1]
-				},
-				["class"] = "WARRIOR",
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Hysterìa-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Taistoi-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Delpi"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
+				["class"] = "MAGE",
 			},
-			["Solvèj"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Yukiox"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
+				["class"] = "MAGE",
 			},
-			["Cohava-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Holypenguin"] = {
+				["encounters"] = 4,
+				["points"] = 390,
 				["deaths"] = {
+					{
+						4, -- [1]
+						249.4230000004172, -- [2]
+						"Cursed Pulse |cFFFF3333180,315|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "PRIEST",
 			},
-			["Maxxed-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Ricksstudent-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Gummybuns"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "MONK",
 			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Toshpal"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Haschwàlth-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Thunderrz"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
+				["class"] = "HUNTER",
+			},
+			["Smytt"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["deaths"] = {
+					{
+						1, -- [1]
+						161.9420000007376, -- [2]
+						"Cursebreak |cFFFF3333300,028|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Itsyellowy"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["deaths"] = {
+					{
+						4, -- [1]
+						249.4790000002831, -- [2]
+						"Cursed Pulse |cFFFF3333182,062|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PRIEST",
 			},
 			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Bigbf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Judaasx"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Datavi"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Toshpal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Versatillee-Mal'Ganis"] = {
+				["encounters"] = 4,
+				["points"] = 360,
 				["deaths"] = {
+					{
+						1, -- [1]
+						7.245000000111759, -- [2]
+						"Eye of N'Zoth |cFFFF3333570,460|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						11.08999999985099, -- [2]
+						"Morass of Corruption (DoT) |cFFFF3333145,095|r", -- [3]
+					}, -- [2]
+					{
+						4, -- [1]
+						7.231999999843538, -- [2]
+						"Eye of N'Zoth |cFFFF3333562,257|r", -- [3]
+					}, -- [3]
+					{
+						5, -- [1]
+						19.16100000031292, -- [2]
+						"Morass of Corruption (DoT) |cFFFF3333145,095|r", -- [3]
+					}, -- [4]
 				},
 				["class"] = "PALADIN",
 			},
-			["Dntyer-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Warlockmania"] = {
+				["encounters"] = 4,
+				["points"] = 380,
 				["deaths"] = {
+					{
+						2, -- [1]
+						278.3659999994561, -- [2]
+						"Ignite (DoT) |cFFFF333364,189|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						398.3689999999479, -- [2]
+						"Hemorrhage |cFFFF333373,006|r", -- [3]
+					}, -- [2]
 				},
-				["class"] = "ROGUE",
+				["class"] = "WARLOCK",
 			},
-			["Shankntwist-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Wilwar"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "WARRIOR",
-			},
-			["Biggergf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Illestchi-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Yukios-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Scibolt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yuffa-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
 			},
 		},
 	},
@@ -1238,120 +1579,112 @@ DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 511740,
-				["timeofdeath"] = 37.65800000028685,
-				["name"] = "Artsong",
-				["time"] = 1595394525.107,
-				["class"] = "HUNTER",
-				["timestring"] = "0m 37s",
+				["maxhealth"] = 515360,
+				["timeofdeath"] = 19.16100000031292,
+				["name"] = "Versatillee-Mal'Ganis",
+				["time"] = 1595652729.85,
+				["class"] = "PALADIN",
+				["timestring"] = "0m 19s",
 				["events"] = {
 					{
 						false, -- [1]
-						272260, -- [2]
-						1957, -- [3]
-						1595394518.106, -- [4]
-						599773, -- [5]
-						"Taistoi-Illidan", -- [6]
+						270117, -- [2]
+						11227, -- [3]
+						1595652723.829, -- [4]
+						278697, -- [5]
+						"Versatillee-Mal'Ganis", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [1]
 					{
 						false, -- [1]
 						287286, -- [2]
-						45348, -- [3]
-						1595394518.377, -- [4]
-						605139, -- [5]
-						"Toshpal", -- [6]
+						45236, -- [3]
+						1595652723.891, -- [4]
+						323933, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
-						94472, -- [2]
-						13486, -- [3]
-						1595394518.522, -- [4]
-						605139, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
+						296184, -- [2]
+						12816, -- [3]
+						1595652723.925, -- [4]
+						336749, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [3]
 					{
-						false, -- [1]
-						208771, -- [2]
-						7871, -- [3]
-						1595394519.035, -- [4]
-						605139, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
 						true, -- [1]
-						309991, -- [2]
-						172128, -- [3]
-						1595394519.035, -- [4]
-						440882, -- [5]
-						"Psychus", -- [6]
-						7871, -- [7]
+						310322, -- [2]
+						145095, -- [3]
+						1595652724.804, -- [4]
+						191654, -- [5]
+						"[*] Morass of Corruption", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						42037, -- [3]
+						1595652724.886, -- [4]
+						233691, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [5]
 					{
 						false, -- [1]
-						94472, -- [2]
-						19603, -- [3]
-						1595394519.055, -- [4]
-						460485, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
+						77489, -- [2]
+						17434, -- [3]
+						1595652724.886, -- [4]
+						251125, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						81751, -- [2]
-						1617, -- [3]
-						1595394519.218, -- [4]
-						462102, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
+						296184, -- [2]
+						837, -- [3]
+						1595652724.927, -- [4]
+						251962, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
-						270661, -- [2]
-						6237, -- [3]
-						1595394519.473, -- [4]
-						468339, -- [5]
-						"Artsong", -- [6]
+						287286, -- [2]
+						45061, -- [3]
+						1595652725.487, -- [4]
+						297023, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						61295, -- [2]
-						52305, -- [3]
-						1595394519.909, -- [4]
-						520644, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						296184, -- [2]
+						12816, -- [3]
+						1595652725.518, -- [4]
+						309839, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [9]
 					{
 						true, -- [1]
-						309991, -- [2]
-						172128, -- [3]
-						1595394520.025, -- [4]
-						348516, -- [5]
-						"Psychus", -- [6]
+						310322, -- [2]
+						145095, -- [3]
+						1595652725.815, -- [4]
+						164744, -- [5]
+						"[*] Morass of Corruption", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -1359,85 +1692,89 @@ DeathGraphsDBCurrent = {
 					}, -- [10]
 					{
 						false, -- [1]
-						272260, -- [2]
-						3915, -- [3]
-						1595394520.098, -- [4]
-						352431, -- [5]
-						"Taistoi-Illidan", -- [6]
+						19750, -- [2]
+						58230, -- [3]
+						1595652726.42, -- [4]
+						222974, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						25914, -- [2]
-						34788, -- [3]
-						1595394520.171, -- [4]
-						387219, -- [5]
-						"Taistoi-Illidan", -- [6]
+						296184, -- [2]
+						12336, -- [3]
+						1595652726.438, -- [4]
+						235310, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [12]
 					{
 						false, -- [1]
 						25914, -- [2]
-						126544, -- [3]
-						1595394520.399, -- [4]
-						513754, -- [5]
+						46898, -- [3]
+						1595652726.62, -- [4]
+						282208, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						287286, -- [2]
-						11388, -- [3]
-						1595394520.492, -- [4]
-						525142, -- [5]
-						"Taistoi-Illidan", -- [6]
+						296184, -- [2]
+						12336, -- [3]
+						1595652726.648, -- [4]
+						294544, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [14]
 					{
-						false, -- [1]
-						287286, -- [2]
-						20977, -- [3]
-						1595394520.732, -- [4]
-						546119, -- [5]
-						"Toshpal", -- [6]
+						true, -- [1]
+						310322, -- [2]
+						145095, -- [3]
+						1595652726.791, -- [4]
+						149449, -- [5]
+						"[*] Morass of Corruption", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						208771, -- [2]
-						7871, -- [3]
-						1595394521.03, -- [4]
-						546119, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						true, -- [7]
+						287286, -- [2]
+						43977, -- [3]
+						1595652727.047, -- [4]
+						193426, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
 						0, -- [8]
 					}, -- [16]
 					{
-						true, -- [1]
-						309991, -- [2]
-						172128, -- [3]
-						1595394521.03, -- [4]
-						381862, -- [5]
-						"Psychus", -- [6]
-						7871, -- [7]
-						32, -- [8]
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1595652727.076, -- [4]
+						206242, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						true, -- [1]
-						309991, -- [2]
-						172128, -- [3]
-						1595394522.027, -- [4]
-						209734, -- [5]
-						"Psychus", -- [6]
+						310322, -- [2]
+						145095, -- [3]
+						1595652727.807, -- [4]
+						61147, -- [5]
+						"[*] Morass of Corruption", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -1445,155 +1782,153 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						false, -- [1]
-						73685, -- [2]
-						128489, -- [3]
-						1595394522.089, -- [4]
-						338223, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						287286, -- [2]
+						21959, -- [3]
+						1595652727.83, -- [4]
+						83106, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [19]
 					{
 						false, -- [1]
-						272260, -- [2]
-						7828, -- [3]
-						1595394522.122, -- [4]
-						346051, -- [5]
-						"Taistoi-Illidan", -- [6]
+						296184, -- [2]
+						12816, -- [3]
+						1595652727.849, -- [4]
+						95922, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [20]
 					{
 						false, -- [1]
-						61295, -- [2]
-						6583, -- [3]
-						1595394522.379, -- [4]
-						352634, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						77489, -- [2]
+						28145, -- [3]
+						1595652727.878, -- [4]
+						124067, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [21]
 					{
 						false, -- [1]
-						270661, -- [2]
-						3118, -- [3]
-						1595394522.478, -- [4]
-						355752, -- [5]
-						"Artsong", -- [6]
+						77489, -- [2]
+						17434, -- [3]
+						1595652727.894, -- [4]
+						141501, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [22]
 					{
-						true, -- [1]
-						309991, -- [2]
-						171435, -- [3]
-						1595394523.052, -- [4]
-						184317, -- [5]
-						"Psychus", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						12576, -- [3]
+						1595652727.894, -- [4]
+						154077, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [23]
 					{
 						false, -- [1]
-						208771, -- [2]
-						7871, -- [3]
-						1595394524.056, -- [4]
-						184317, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						true, -- [7]
+						287286, -- [2]
+						43917, -- [3]
+						1595652728.587, -- [4]
+						197994, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [24]
 					{
-						true, -- [1]
-						309991, -- [2]
-						171435, -- [3]
-						1595394524.056, -- [4]
-						20753, -- [5]
-						"Psychus", -- [6]
-						7871, -- [7]
-						32, -- [8]
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1595652728.634, -- [4]
+						210810, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						false, -- [1]
-						25914, -- [2]
-						100127, -- [3]
-						1595394524.149, -- [4]
-						120880, -- [5]
-						"Toshpal", -- [6]
+						true, -- [1]
+						310322, -- [2]
+						145095, -- [3]
+						1595652728.819, -- [4]
+						65715, -- [5]
+						"[*] Morass of Corruption", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1595394524.176, -- [4]
-						133216, -- [5]
+						301861, -- [2]
+						12200, -- [3]
+						1595652729.322, -- [4]
+						77915, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [27]
 					{
 						false, -- [1]
-						287286, -- [2]
-						16836, -- [3]
-						1595394524.486, -- [4]
-						150052, -- [5]
+						296184, -- [2]
+						12336, -- [3]
+						1595652729.376, -- [4]
+						90251, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 					}, -- [28]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1595394524.508, -- [4]
-						162388, -- [5]
-						"Toshpal", -- [6]
+						287286, -- [2]
+						21959, -- [3]
+						1595652729.376, -- [4]
+						112210, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [29]
 					{
-						true, -- [1]
-						314889, -- [2]
-						61794, -- [3]
-						1595394524.788, -- [4]
-						100594, -- [5]
-						"Exposed Synapse", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1595652729.404, -- [4]
+						125026, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [30]
 					{
 						false, -- [1]
-						61295, -- [2]
-						16299, -- [3]
-						1595394524.866, -- [4]
-						116893, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
+						203538, -- [2]
+						12249, -- [3]
+						1595652729.801, -- [4]
+						125026, -- [5]
+						"Versatillee-Mal'Ganis", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						309991, -- [2]
-						171435, -- [3]
-						1595394525.057, -- [4]
+						310322, -- [2]
+						145095, -- [3]
+						1595652729.818, -- [4]
 						1, -- [5]
-						"Psychus", -- [6]
-						nil, -- [7]
+						"[*] Morass of Corruption", -- [6]
+						12249, -- [7]
 						32, -- [8]
 						false, -- [9]
-						54542, -- [10]
+						7820, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -1601,967 +1936,193 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Artsong", -- [6]
+						"Versatillee-Mal'Ganis", -- [6]
 					}, -- [33]
 				},
 			}, -- [1]
 			{
-				["maxhealth"] = 465360,
-				["timeofdeath"] = 57.95300000021234,
-				["name"] = "Ybrik-Kil'jaeden",
-				["time"] = 1595394545.402,
-				["class"] = "HUNTER",
-				["timestring"] = "0m 57s",
+				["maxhealth"] = 600880,
+				["timeofdeath"] = 398.3689999999479,
+				["name"] = "Warlockmania",
+				["time"] = 1595653109.058,
+				["class"] = "WARLOCK",
+				["timestring"] = "6m 38s",
 				["events"] = {
 					{
-						true, -- [1]
-						314889, -- [2]
-						58916, -- [3]
-						1595394528.421, -- [4]
-						444429, -- [5]
-						"Exposed Synapse", -- [6]
+						false, -- [1]
+						269238, -- [2]
+						72074, -- [3]
+						1595653094.897, -- [4]
+						423045, -- [5]
+						"Warlockmania", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						1064, -- [2]
-						139862, -- [3]
-						1595394528.445, -- [4]
-						550292, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [2]
-					{
-						false, -- [1]
-						114942, -- [2]
-						16102, -- [3]
-						1595394529.655, -- [4]
-						550292, -- [5]
-						"Healing Tide Totem <Yukios-Kil'jaeden>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						225311, -- [2]
-						20992, -- [3]
-						1595394529.729, -- [4]
-						550292, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						272260, -- [2]
-						245, -- [3]
-						1595394529.796, -- [4]
-						550292, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [5]
-					{
-						false, -- [1]
-						114942, -- [2]
-						2605, -- [3]
-						1595394529.92, -- [4]
-						550292, -- [5]
-						"Healing Tide Totem <Yukios-Kil'jaeden>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						272260, -- [2]
-						489, -- [3]
-						1595394531.793, -- [4]
-						550292, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [7]
-					{
-						true, -- [1]
-						314889, -- [2]
-						59393, -- [3]
-						1595394532.074, -- [4]
-						490899, -- [5]
-						"Exposed Synapse", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						272260, -- [2]
-						1957, -- [3]
-						1595394533.795, -- [4]
-						492856, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [9]
-					{
-						false, -- [1]
-						287286, -- [2]
-						11715, -- [3]
-						1595394535.014, -- [4]
-						504571, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [10]
-					{
-						false, -- [1]
-						25914, -- [2]
-						214201, -- [3]
-						1595394535.224, -- [4]
-						550292, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						272260, -- [2]
-						1958, -- [3]
-						1595394535.79, -- [4]
-						550292, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						false, -- [1]
-						287286, -- [2]
-						22844, -- [3]
-						1595394536.851, -- [4]
-						550292, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [13]
-					{
-						false, -- [1]
-						272260, -- [2]
-						3914, -- [3]
-						1595394537.79, -- [4]
-						550292, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [14]
-					{
-						false, -- [1]
-						287286, -- [2]
-						52560, -- [3]
-						1595394538.086, -- [4]
-						550292, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						269279, -- [2]
-						25876, -- [3]
-						1595394538.66, -- [4]
-						550292, -- [5]
-						"Ybrik-Kil'jaeden", -- [6]
+						108366, -- [2]
+						0, -- [3]
+						1595653094.897, -- [4]
+						423045, -- [5]
+						"Warlockmania", -- [6]
 						true, -- [7]
 						0, -- [8]
-					}, -- [16]
-					{
-						true, -- [1]
-						314889, -- [2]
-						59393, -- [3]
-						1595394538.66, -- [4]
-						516775, -- [5]
-						"Exposed Synapse", -- [6]
-						25876, -- [7]
-						32, -- [8]
 						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
+						false, -- [10]
+					}, -- [2]
 					{
 						false, -- [1]
 						270117, -- [2]
-						11971, -- [3]
-						1595394538.678, -- [4]
-						528746, -- [5]
-						"Ybrik-Kil'jaeden", -- [6]
+						13352, -- [3]
+						1595653094.897, -- [4]
+						436397, -- [5]
+						"Warlockmania", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						310333, -- [2]
-						32937, -- [3]
-						1595394539.665, -- [4]
-						495801, -- [5]
-						"Mind's Eye", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						272260, -- [2]
-						7828, -- [3]
-						1595394539.788, -- [4]
-						503629, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						314889, -- [2]
-						59393, -- [3]
-						1595394540.16, -- [4]
-						444236, -- [5]
-						"Exposed Synapse", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						310333, -- [2]
-						32937, -- [3]
-						1595394540.668, -- [4]
-						411299, -- [5]
-						"Mind's Eye", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						287286, -- [2]
-						24347, -- [3]
-						1595394540.903, -- [4]
-						435646, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [23]
-					{
-						true, -- [1]
-						314889, -- [2]
-						59393, -- [3]
-						1595394541.379, -- [4]
-						376253, -- [5]
-						"Exposed Synapse", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						310333, -- [2]
-						32937, -- [3]
-						1595394541.658, -- [4]
-						343316, -- [5]
-						"Mind's Eye", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						287286, -- [2]
-						52927, -- [3]
-						1595394542.039, -- [4]
-						396243, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [26]
-					{
-						true, -- [1]
-						310333, -- [2]
-						32937, -- [3]
-						1595394542.662, -- [4]
-						363306, -- [5]
-						"Mind's Eye", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1595394543.374, -- [4]
-						363306, -- [5]
-						"Psychus", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						309991, -- [2]
-						164774, -- [3]
-						1595394543.374, -- [4]
-						198532, -- [5]
-						"Psychus", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						1, -- [1]
-						186265, -- [2]
-						1, -- [3]
-						1595394544.166, -- [4]
-						198532, -- [5]
-						"Ybrik-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [30]
-					{
-						true, -- [1]
-						309991, -- [2]
-						118909, -- [3]
-						1595394544.362, -- [4]
-						79623, -- [5]
-						"Psychus", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						309991, -- [2]
-						118908, -- [3]
-						1595394545.402, -- [4]
-						1, -- [5]
-						"Psychus", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						39285, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						186265, -- [2]
-						1, -- [3]
-						1595394544.166, -- [4]
-						0, -- [5]
-						"Ybrik-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-			}, -- [2]
-			{
-				["maxhealth"] = 448360,
-				["timeofdeath"] = 331.0200000000186,
-				["name"] = "Yarilys-Kil'jaeden",
-				["time"] = 1595394818.469,
-				["class"] = "HUNTER",
-				["timestring"] = "5m 31s",
-				["events"] = {
-					{
-						false, -- [1]
-						269238, -- [2]
-						29414, -- [3]
-						1595394804.746, -- [4]
-						493200, -- [5]
-						"Yarilys-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						315161, -- [2]
-						22929, -- [3]
-						1595394804.864, -- [4]
-						470271, -- [5]
-						"Eye of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						4, -- [1]
-						315161, -- [2]
-						5, -- [3]
-						1595394804.864, -- [4]
-						470271, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						143924, -- [2]
-						10076, -- [3]
-						1595394805.019, -- [4]
-						480347, -- [5]
-						"Yarilys-Kil'jaeden", -- [6]
+						33110, -- [2]
+						27270, -- [3]
+						1595653094.931, -- [4]
+						463667, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [4]
 					{
-						true, -- [1]
-						319346, -- [2]
-						16443, -- [3]
-						1595394805.157, -- [4]
-						463904, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						false, -- [1]
+						77220, -- [2]
+						6693, -- [3]
+						1595653095.353, -- [4]
+						463667, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [5]
 					{
-						false, -- [1]
-						73921, -- [2]
-						11656, -- [3]
-						1595394805.206, -- [4]
-						475560, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						314502, -- [2]
+						76275, -- [3]
+						1595653095.353, -- [4]
+						394085, -- [5]
+						"Cursed Blood", -- [6]
+						6693, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						61295, -- [2]
-						5090, -- [3]
-						1595394805.789, -- [4]
-						480650, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						287286, -- [2]
+						18252, -- [3]
+						1595653095.968, -- [4]
+						412337, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						287286, -- [2]
+						12727, -- [3]
+						1595653096.666, -- [4]
+						425064, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5854, -- [3]
+						1595653096.976, -- [4]
+						430918, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						315161, -- [2]
-						24878, -- [3]
-						1595394805.86, -- [4]
-						455772, -- [5]
-						"Eye of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						4, -- [1]
-						315161, -- [2]
-						6, -- [3]
-						1595394805.86, -- [4]
-						455772, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						73921, -- [2]
-						11782, -- [3]
-						1595394806.844, -- [4]
-						467554, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						287286, -- [2]
+						37013, -- [3]
+						1595653097.086, -- [4]
+						467931, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
-					{
-						true, -- [1]
-						315161, -- [2]
-						27228, -- [3]
-						1595394806.857, -- [4]
-						440326, -- [5]
-						"Eye of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						4, -- [1]
-						315161, -- [2]
-						7, -- [3]
-						1595394806.857, -- [4]
-						440326, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						73921, -- [2]
-						1906, -- [3]
-						1595394807.1, -- [4]
-						442232, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						269238, -- [2]
-						29414, -- [3]
-						1595394807.486, -- [4]
-						471646, -- [5]
-						"Yarilys-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						315161, -- [2]
-						29377, -- [3]
-						1595394807.858, -- [4]
-						442269, -- [5]
-						"Eye of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						4, -- [1]
-						315161, -- [2]
-						8, -- [3]
-						1595394807.858, -- [4]
-						442269, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						61295, -- [2]
-						11392, -- [3]
-						1595394808.276, -- [4]
-						453661, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						318688, -- [2]
-						97867, -- [3]
-						1595394809.728, -- [4]
-						355794, -- [5]
-						"Corruptor Tentacle", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
 					{
 						false, -- [1]
 						25914, -- [2]
-						78935, -- [3]
-						1595394809.829, -- [4]
-						434729, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						287286, -- [2]
-						13489, -- [3]
-						1595394810.162, -- [4]
-						448218, -- [5]
+						126399, -- [3]
+						1595653098.868, -- [4]
+						594330, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						319346, -- [2]
-						16311, -- [3]
-						1595394810.162, -- [4]
-						431907, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						61295, -- [2]
-						13950, -- [3]
-						1595394810.736, -- [4]
-						445857, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						225311, -- [2]
-						40878, -- [3]
-						1595394810.807, -- [4]
-						486735, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						287286, -- [2]
-						13214, -- [3]
-						1595394811.491, -- [4]
-						493200, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						61295, -- [2]
-						6306, -- [3]
-						1595394813.208, -- [4]
-						493200, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						296003, -- [2]
-						2867, -- [3]
-						1595394815.167, -- [4]
-						493200, -- [5]
-						"Taistoi-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						319346, -- [2]
-						16443, -- [3]
-						1595394815.167, -- [4]
-						479624, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						2867, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						61295, -- [2]
-						10596, -- [3]
-						1595394815.681, -- [4]
-						490220, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						61295, -- [2]
-						12299, -- [3]
-						1595394818.161, -- [4]
-						493200, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1595394818.254, -- [4]
-						493200, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						269279, -- [2]
-						58582, -- [3]
-						1595394818.254, -- [4]
-						493200, -- [5]
-						"Yarilys-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						309991, -- [2]
-						169796, -- [3]
-						1595394818.254, -- [4]
-						381986, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						58582, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						109304, -- [2]
-						1, -- [3]
-						1595394719.056, -- [4]
-						0, -- [5]
-						"Yarilys-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-			}, -- [3]
-			{
-				["maxhealth"] = 547160,
-				["timeofdeath"] = 334.5060000000522,
-				["name"] = "Illestt-Barthilas",
-				["time"] = 1595394821.955,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "5m 34s",
-				["events"] = {
-					{
-						true, -- [1]
-						319346, -- [2]
-						15814, -- [3]
-						1595394795.011, -- [4]
-						588913, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						2867, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						673, -- [3]
-						1595394795.321, -- [4]
-						589586, -- [5]
-						"Illestt-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						114942, -- [2]
-						18144, -- [3]
-						1595394795.618, -- [4]
-						601860, -- [5]
-						"Healing Tide Totem <Yukios-Kil'jaeden>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						298318, -- [2]
-						29202, -- [3]
-						1595394795.819, -- [4]
-						601860, -- [5]
-						"Illestt-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						4, -- [1]
-						316542, -- [2]
-						1, -- [3]
-						1595394795.889, -- [4]
-						601860, -- [5]
-						"[*] Paranoia", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						114942, -- [2]
-						9199, -- [3]
-						1595394796.443, -- [4]
-						601860, -- [5]
-						"Healing Tide Totem <Yukios-Kil'jaeden>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						309978, -- [2]
-						9536, -- [3]
-						1595394796.895, -- [4]
-						592324, -- [5]
-						"[*] Paranoia", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						73921, -- [2]
-						12915, -- [3]
-						1595394797.103, -- [4]
-						601860, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						309978, -- [2]
-						19072, -- [3]
-						1595394797.908, -- [4]
-						582788, -- [5]
-						"[*] Paranoia", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						309978, -- [2]
-						26860, -- [3]
-						1595394798.895, -- [4]
-						555928, -- [5]
-						"[*] Paranoia", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1131, -- [3]
-						1595394798.951, -- [4]
-						557059, -- [5]
-						"Illestt-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
 					}, -- [11]
 					{
-						true, -- [1]
-						319346, -- [2]
-						15307, -- [3]
-						1595394800.02, -- [4]
-						541752, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						false, -- [1]
+						77220, -- [2]
+						5208, -- [3]
+						1595653099.058, -- [4]
+						594330, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [12]
 					{
 						false, -- [1]
-						143924, -- [2]
-						803, -- [3]
-						1595394800.173, -- [4]
-						542555, -- [5]
-						"Illestt-Barthilas", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						12846, -- [3]
+						1595653099.058, -- [4]
+						594330, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
-						false, -- [1]
-						1064, -- [2]
-						70047, -- [3]
-						1595394800.187, -- [4]
-						601860, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						311143, -- [2]
+						80235, -- [3]
+						1595653099.058, -- [4]
+						532149, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						18054, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [14]
 					{
 						false, -- [1]
-						73921, -- [2]
-						12248, -- [3]
-						1595394800.235, -- [4]
-						601860, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						269238, -- [2]
+						36037, -- [3]
+						1595653099.086, -- [4]
+						568186, -- [5]
+						"Warlockmania", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -2569,59 +2130,59 @@ DeathGraphsDBCurrent = {
 					}, -- [15]
 					{
 						false, -- [1]
-						296330, -- [2]
-						30093, -- [3]
-						1595394801.308, -- [4]
-						601860, -- [5]
-						"Illestt-Barthilas", -- [6]
+						287286, -- [2]
+						38395, -- [3]
+						1595653099.213, -- [4]
+						606581, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [16]
 					{
-						false, -- [1]
-						53365, -- [2]
-						36112, -- [3]
-						1595394801.308, -- [4]
-						601860, -- [5]
-						"Illestt-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						311367, -- [2]
+						1, -- [3]
+						1595653099.949, -- [4]
+						606581, -- [5]
+						"Il'gynoth", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [17]
 					{
-						false, -- [1]
-						225311, -- [2]
-						40878, -- [3]
-						1595394802.515, -- [4]
-						601860, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						314502, -- [2]
+						67430, -- [3]
+						1595653102.377, -- [4]
+						588947, -- [5]
+						"Cursed Blood", -- [6]
+						5032, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						false, -- [1]
-						73921, -- [2]
-						11203, -- [3]
-						1595394803.555, -- [4]
-						601860, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						344, -- [3]
+						1595653107.956, -- [4]
+						162581, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						296003, -- [2]
-						2867, -- [3]
-						1595394804.583, -- [4]
-						601860, -- [5]
-						"Taistoi-Illidan", -- [6]
+						108366, -- [2]
+						1325, -- [3]
+						1595653107.956, -- [4]
+						162581, -- [5]
+						"Warlockmania", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -2629,131 +2190,131 @@ DeathGraphsDBCurrent = {
 					}, -- [20]
 					{
 						true, -- [1]
-						315161, -- [2]
-						16832, -- [3]
-						1595394804.583, -- [4]
-						587895, -- [5]
-						"Eye of Corruption", -- [6]
-						2867, -- [7]
+						191587, -- [2]
+						4469, -- [3]
+						1595653107.956, -- [4]
+						159781, -- [5]
+						"Rathux", -- [6]
+						1669, -- [7]
 						32, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						4, -- [1]
-						315161, -- [2]
-						1, -- [3]
-						1595394804.583, -- [4]
-						587895, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1595653107.985, -- [4]
+						159781, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						143924, -- [2]
-						861, -- [3]
-						1595394805.019, -- [4]
-						588756, -- [5]
-						"Illestt-Barthilas", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						916, -- [3]
+						1595653108.19, -- [4]
+						159781, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
 						true, -- [1]
-						319346, -- [2]
-						15814, -- [3]
-						1595394805.019, -- [4]
-						572942, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
+						15407, -- [2]
+						10136, -- [3]
+						1595653108.19, -- [4]
+						150561, -- [5]
+						"Durantye", -- [6]
+						916, -- [7]
 						32, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						73921, -- [2]
-						11570, -- [3]
-						1595394805.206, -- [4]
-						584512, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						73921, -- [2]
-						11423, -- [3]
-						1595394806.844, -- [4]
-						595935, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						269279, -- [2]
-						16303, -- [3]
-						1595394810.028, -- [4]
-						595935, -- [5]
-						"Illestt-Barthilas", -- [6]
+						77220, -- [2]
+						337, -- [3]
+						1595653108.544, -- [4]
+						150561, -- [5]
+						"Warlockmania", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [27]
+					}, -- [25]
 					{
 						true, -- [1]
-						319346, -- [2]
-						16303, -- [3]
-						1595394810.028, -- [4]
-						595935, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
+						15407, -- [2]
+						6433, -- [3]
+						1595653108.544, -- [4]
+						144465, -- [5]
+						"Durantye", -- [6]
+						337, -- [7]
 						32, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
-					}, -- [28]
+					}, -- [26]
 					{
 						false, -- [1]
-						269279, -- [2]
-						15814, -- [3]
-						1595394815.022, -- [4]
-						595935, -- [5]
-						"Illestt-Barthilas", -- [6]
+						77220, -- [2]
+						6764, -- [3]
+						1595653108.702, -- [4]
+						144465, -- [5]
+						"Warlockmania", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [29]
+					}, -- [27]
 					{
 						true, -- [1]
-						319346, -- [2]
-						15814, -- [3]
-						1595394815.022, -- [4]
-						595935, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						12654, -- [2]
+						95672, -- [3]
+						1595653108.702, -- [4]
+						55557, -- [5]
+						"Delpi", -- [6]
+						6764, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						77220, -- [2]
+						6954, -- [3]
+						1595653109.004, -- [4]
+						55557, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						108366, -- [2]
+						954, -- [3]
+						1595653109.004, -- [4]
+						55557, -- [5]
+						"Warlockmania", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						269279, -- [2]
-						15813, -- [3]
-						1595394820.028, -- [4]
-						595935, -- [5]
-						"Illestt-Barthilas", -- [6]
+						108366, -- [2]
+						0, -- [3]
+						1595653109.004, -- [4]
+						55557, -- [5]
+						"Warlockmania", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -2761,11 +2322,541 @@ DeathGraphsDBCurrent = {
 					}, -- [31]
 					{
 						true, -- [1]
-						319346, -- [2]
-						15813, -- [3]
-						1595394820.028, -- [4]
-						595935, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						311143, -- [2]
+						73006, -- [3]
+						1595653109.025, -- [4]
+						1, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						7908, -- [7]
+						32, -- [8]
+						false, -- [9]
+						9541, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Warlockmania", -- [6]
+					}, -- [33]
+				},
+			}, -- [2]
+		},
+		["bossname"] = "Il'gynoth, Corruption Reborn",
+		["bossicon"] = {
+			0.75, -- [1]
+			1, -- [2]
+			0.25, -- [3]
+			0.5, -- [4]
+			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
+		},
+		["date"] = 4259220.078,
+		["timeelapsed"] = 409.8939999993891,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 515360,
+				["timeofdeath"] = 7.231999999843538,
+				["name"] = "Versatillee-Mal'Ganis",
+				["time"] = 1595652340.524,
+				["class"] = "PALADIN",
+				["timestring"] = "0m 7s",
+				["events"] = {
+					{
+						false, -- [1]
+						296330, -- [2]
+						28345, -- [3]
+						1595652334.58, -- [4]
+						566900, -- [5]
+						"Versatillee-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [1]
+					{
+						false, -- [1]
+						287286, -- [2]
+						15175, -- [3]
+						1595652336.254, -- [4]
+						566900, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [2]
+					{
+						false, -- [1]
+						311201, -- [2]
+						15517, -- [3]
+						1595652336.424, -- [4]
+						566900, -- [5]
+						"Versatillee-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [3]
+					{
+						4, -- [1]
+						310322, -- [2]
+						1, -- [3]
+						1595652339.512, -- [4]
+						566900, -- [5]
+						"[*] Morass of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						203538, -- [2]
+						12249, -- [3]
+						1595652339.512, -- [4]
+						566900, -- [5]
+						"Versatillee-Mal'Ganis", -- [6]
+						true, -- [7]
+						0, -- [8]
+					}, -- [5]
+					{
+						true, -- [1]
+						310322, -- [2]
+						140172, -- [3]
+						1595652339.512, -- [4]
+						438977, -- [5]
+						"[*] Morass of Corruption", -- [6]
+						12249, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						270117, -- [2]
+						22283, -- [3]
+						1595652339.512, -- [4]
+						461260, -- [5]
+						"Versatillee-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						false, -- [1]
+						64844, -- [2]
+						14820, -- [3]
+						1595652340.208, -- [4]
+						476080, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [8]
+					{
+						true, -- [1]
+						309961, -- [2]
+						562257, -- [3]
+						1595652340.504, -- [4]
+						1, -- [5]
+						"Il'gynoth", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						86177, -- [10]
+					}, -- [9]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Versatillee-Mal'Ganis", -- [6]
+					}, -- [10]
+				},
+			}, -- [1]
+			{
+				["maxhealth"] = 577620,
+				["timeofdeath"] = 249.4230000004172,
+				["name"] = "Holypenguin",
+				["time"] = 1595652582.715,
+				["class"] = "PRIEST",
+				["timestring"] = "4m 9s",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						6655, -- [3]
+						1595652567.233, -- [4]
+						563846, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						312215, -- [2]
+						28881, -- [3]
+						1595652567.429, -- [4]
+						563846, -- [5]
+						"Holypenguin", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						311143, -- [2]
+						77954, -- [3]
+						1595652567.429, -- [4]
+						514773, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						28881, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						312215, -- [2]
+						28881, -- [3]
+						1595652567.479, -- [4]
+						514773, -- [5]
+						"Holypenguin", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						311143, -- [2]
+						78767, -- [3]
+						1595652567.479, -- [4]
+						464887, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						28881, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						30946, -- [3]
+						1595652568.305, -- [4]
+						495833, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						4813, -- [3]
+						1595652568.461, -- [4]
+						500646, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						243241, -- [2]
+						9875, -- [3]
+						1595652568.632, -- [4]
+						510521, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						161, -- [3]
+						1595652569.658, -- [4]
+						510682, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						120692, -- [2]
+						13412, -- [3]
+						1595652570.404, -- [4]
+						524094, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1513, -- [3]
+						1595652570.887, -- [4]
+						525607, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						596, -- [2]
+						45810, -- [3]
+						1595652571.26, -- [4]
+						571417, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						34861, -- [2]
+						52369, -- [3]
+						1595652571.26, -- [4]
+						577620, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						23180, -- [3]
+						1595652571.334, -- [4]
+						577620, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						77489, -- [2]
+						15745, -- [3]
+						1595652571.653, -- [4]
+						577620, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						596, -- [2]
+						21725, -- [3]
+						1595652574.15, -- [4]
+						577620, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						23180, -- [3]
+						1595652574.292, -- [4]
+						577620, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13621, -- [3]
+						1595652574.646, -- [4]
+						577620, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						596, -- [2]
+						22028, -- [3]
+						1595652575.974, -- [4]
+						577620, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						77489, -- [2]
+						23181, -- [3]
+						1595652577.301, -- [4]
+						577620, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						12465, -- [3]
+						1595652577.638, -- [4]
+						577620, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						4, -- [1]
+						313759, -- [2]
+						1, -- [3]
+						1595652578.109, -- [4]
+						577620, -- [5]
+						"[*] Cursed Blood", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						312215, -- [2]
+						28881, -- [3]
+						1595652580.051, -- [4]
+						577620, -- [5]
+						"Holypenguin", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						311143, -- [2]
+						76153, -- [3]
+						1595652580.051, -- [4]
+						530348, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						28881, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						270117, -- [2]
+						24594, -- [3]
+						1595652580.085, -- [4]
+						554942, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						314502, -- [2]
+						86240, -- [3]
+						1595652580.129, -- [4]
+						468702, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2103, -- [3]
+						1595652580.62, -- [4]
+						470805, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						77489, -- [2]
+						12465, -- [3]
+						1595652580.643, -- [4]
+						483270, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						143924, -- [2]
+						999, -- [3]
+						1595652581.846, -- [4]
+						484269, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						269279, -- [2]
+						35942, -- [3]
+						1595652582.687, -- [4]
+						484269, -- [5]
+						"Holypenguin", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						316813, -- [2]
+						184251, -- [3]
+						1595652582.687, -- [4]
+						335960, -- [5]
+						"[*] Cursed Pulse", -- [6]
+						35942, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						316813, -- [2]
+						180315, -- [3]
+						1595652582.687, -- [4]
+						155645, -- [5]
+						"[*] Cursed Pulse", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -2777,446 +2868,832 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Illestt-Barthilas", -- [6]
+						"Holypenguin", -- [6]
 					}, -- [33]
 				},
-			}, -- [4]
+			}, -- [2]
 			{
-				["maxhealth"] = 520740,
-				["timeofdeath"] = 356.473000000231,
-				["name"] = "Taistoi-Illidan",
-				["time"] = 1595394843.922,
-				["class"] = "PALADIN",
-				["timestring"] = "5m 56s",
+				["maxhealth"] = 610240,
+				["timeofdeath"] = 249.4790000002831,
+				["name"] = "Itsyellowy",
+				["time"] = 1595652582.771,
+				["class"] = "PRIEST",
+				["timestring"] = "4m 9s",
 				["events"] = {
 					{
-						2, -- [1]
-						95750, -- [2]
-						1, -- [3]
-						1595394875.345, -- [4]
-						0, -- [5]
-						"Judaasx", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						26070, -- [3]
+						1595652575.347, -- [4]
+						601527, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [1]
 					{
 						true, -- [1]
-						20153, -- [2]
-						18613, -- [3]
-						1595394838.565, -- [4]
-						702147, -- [5]
-						"Infernal <Maxxed-Mal'Ganis>", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						118459, -- [2]
-						2345, -- [3]
-						1595394838.69, -- [4]
-						696007, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						118459, -- [2]
-						1149, -- [3]
-						1595394838.979, -- [4]
-						694858, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						20153, -- [2]
-						9306, -- [3]
-						1595394839.304, -- [4]
-						671042, -- [5]
-						"Infernal <Maxxed-Mal'Ganis>", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						118459, -- [2]
-						2345, -- [3]
-						1595394839.452, -- [4]
-						668697, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						20153, -- [2]
-						9227, -- [3]
-						1595394839.502, -- [4]
-						654169, -- [5]
-						"Infernal <Judaasx>", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						118459, -- [2]
-						1150, -- [3]
-						1595394839.735, -- [4]
-						646915, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						20153, -- [2]
-						18614, -- [3]
-						1595394840.05, -- [4]
-						588079, -- [5]
-						"Infernal <Maxxed-Mal'Ganis>", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394840.194, -- [4]
-						560216, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						20153, -- [2]
-						9227, -- [3]
-						1595394840.453, -- [4]
-						552892, -- [5]
-						"Infernal <Judaasx>", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394840.512, -- [4]
-						531304, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						118459, -- [2]
-						6053, -- [3]
-						1595394840.674, -- [4]
-						523085, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						55078, -- [2]
-						640, -- [3]
-						1595394840.695, -- [4]
-						522445, -- [5]
-						"Rune Weapon <Rathux>", -- [6]
+						315161, -- [2]
+						24742, -- [3]
+						1595652575.5, -- [4]
+						576785, -- [5]
+						"Eye of Corruption", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [2]
+					{
+						4, -- [1]
+						315161, -- [2]
+						4, -- [3]
+						1595652575.5, -- [4]
+						576785, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						596, -- [2]
+						22029, -- [3]
+						1595652575.974, -- [4]
+						598814, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						18213, -- [3]
+						1595652576.014, -- [4]
+						610240, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						204883, -- [2]
+						52868, -- [3]
+						1595652576.146, -- [4]
+						610240, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						315161, -- [2]
+						27302, -- [3]
+						1595652576.505, -- [4]
+						582938, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						4, -- [1]
+						315161, -- [2]
+						5, -- [3]
+						1595652576.505, -- [4]
+						582938, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						34746, -- [3]
+						1595652576.559, -- [4]
+						610240, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						315161, -- [2]
+						29861, -- [3]
+						1595652577.498, -- [4]
+						580379, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						4, -- [1]
+						315161, -- [2]
+						6, -- [3]
+						1595652577.498, -- [4]
+						580379, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						6070, -- [3]
+						1595652577.785, -- [4]
+						586449, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77489, -- [2]
+						4284, -- [3]
+						1595652577.896, -- [4]
+						590733, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						4, -- [1]
+						313759, -- [2]
+						1, -- [3]
+						1595652578.109, -- [4]
+						590733, -- [5]
+						"[*] Cursed Blood", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [14]
 					{
 						true, -- [1]
-						20153, -- [2]
-						10784, -- [3]
-						1595394840.777, -- [4]
-						510844, -- [5]
-						"Infernal <Maxxed-Mal'Ganis>", -- [6]
+						315161, -- [2]
+						32421, -- [3]
+						1595652578.495, -- [4]
+						558312, -- [5]
+						"Eye of Corruption", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394840.953, -- [4]
-						479174, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						4, -- [1]
+						315161, -- [2]
+						7, -- [3]
+						1595652578.495, -- [4]
+						558312, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394841.281, -- [4]
-						441565, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						5604, -- [3]
+						1595652578.997, -- [4]
+						563916, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
-						true, -- [1]
-						20153, -- [2]
-						9227, -- [3]
-						1595394841.393, -- [4]
-						432338, -- [5]
-						"Infernal <Judaasx>", -- [6]
+						false, -- [1]
+						77489, -- [2]
+						20265, -- [3]
+						1595652578.997, -- [4]
+						584181, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						true, -- [1]
-						20153, -- [2]
-						10784, -- [3]
-						1595394841.603, -- [4]
-						394105, -- [5]
-						"Infernal <Maxxed-Mal'Ganis>", -- [6]
+						315161, -- [2]
+						34980, -- [3]
+						1595652579.502, -- [4]
+						549201, -- [5]
+						"Eye of Corruption", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						true, -- [1]
-						201754, -- [2]
-						2313, -- [3]
-						1595394841.626, -- [4]
-						391792, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						4, -- [1]
+						315161, -- [2]
+						8, -- [3]
+						1595652579.502, -- [4]
+						549201, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [20]
 					{
-						true, -- [1]
-						201754, -- [2]
-						2314, -- [3]
-						1595394841.714, -- [4]
-						374279, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
+						false, -- [1]
+						270117, -- [2]
+						51989, -- [3]
+						1595652579.522, -- [4]
+						601190, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394841.73, -- [4]
-						371919, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
+						false, -- [1]
+						596, -- [2]
+						22893, -- [3]
+						1595652579.816, -- [4]
+						610240, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394842.052, -- [4]
-						315576, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
+						311143, -- [2]
+						81027, -- [3]
+						1595652580.051, -- [4]
+						529213, -- [5]
+						"Blood of Ny'alotha", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
 						true, -- [1]
-						20153, -- [2]
-						18454, -- [3]
-						1595394842.33, -- [4]
-						293335, -- [5]
-						"Infernal <Judaasx>", -- [6]
+						314502, -- [2]
+						91451, -- [3]
+						1595652580.129, -- [4]
+						437762, -- [5]
+						"Cursed Blood", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
-						true, -- [1]
-						20153, -- [2]
-						21567, -- [3]
-						1595394842.433, -- [4]
-						252874, -- [5]
-						"Infernal <Maxxed-Mal'Ganis>", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						18135, -- [3]
+						1595652580.213, -- [4]
+						455897, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						118459, -- [2]
-						1157, -- [3]
-						1595394842.536, -- [4]
-						239893, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						3929, -- [3]
+						1595652581.423, -- [4]
+						459826, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [26]
 					{
-						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394842.823, -- [4]
-						190784, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
+						false, -- [1]
+						77489, -- [2]
+						25015, -- [3]
+						1595652582.014, -- [4]
+						484841, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						true, -- [1]
-						20153, -- [2]
-						10460, -- [3]
-						1595394843.26, -- [4]
-						84247, -- [5]
-						"Infernal <Maxxed-Mal'Ganis>", -- [6]
-						671, -- [7]
-						4, -- [8]
+						false, -- [1]
+						143924, -- [2]
+						7274, -- [3]
+						1595652582.663, -- [4]
+						492115, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [28]
 					{
 						true, -- [1]
-						20153, -- [2]
-						15414, -- [3]
-						1595394843.276, -- [4]
-						68833, -- [5]
-						"Infernal <Judaasx>", -- [6]
+						316813, -- [2]
+						185103, -- [3]
+						1595652582.687, -- [4]
+						307012, -- [5]
+						"[*] Cursed Pulse", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						true, -- [1]
-						118459, -- [2]
-						2360, -- [3]
-						1595394843.326, -- [4]
-						66473, -- [5]
-						"Peace <Sciduckhunt>", -- [6]
+						316813, -- [2]
+						182062, -- [3]
+						1595652582.687, -- [4]
+						124950, -- [5]
+						"[*] Cursed Pulse", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						118459, -- [2]
-						1156, -- [3]
-						1595394843.622, -- [4]
-						51989, -- [5]
-						"Warren <Sciduckhunt>", -- [6]
+						false, -- [1]
+						33110, -- [2]
+						32051, -- [3]
+						1595652582.715, -- [4]
+						157001, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [31]
 					{
-						true, -- [1]
-						55078, -- [2]
-						640, -- [3]
-						1595394843.681, -- [4]
-						13341, -- [5]
-						"Rune Weapon <Rathux>", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						12576, -- [3]
+						1595652582.742, -- [4]
+						169577, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [32]
 					{
-						true, -- [1]
-						245388, -- [2]
-						38094, -- [3]
-						1595394843.908, -- [4]
-						1, -- [5]
-						"Shankntwist-BleedingHollow", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						true, -- [9]
-						26256, -- [10]
-					}, -- [33]
-					{
 						3, -- [1]
-						642, -- [2]
-						1, -- [3]
-						1595394823.489, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
-						"Taistoi-Illidan", -- [6]
-					}, -- [34]
+						"Itsyellowy", -- [6]
+					}, -- [33]
 				},
-			}, -- [5]
+			}, -- [3]
 			{
-				["maxhealth"] = 520740,
-				["timeofdeath"] = 517.5830000001006,
-				["name"] = "Taistoi-Illidan",
-				["time"] = 1595395005.032,
-				["class"] = "PALADIN",
-				["timestring"] = "8m 37s",
+				["maxhealth"] = 554140,
+				["timeofdeath"] = 249.6390000004321,
+				["name"] = "Smytt",
+				["time"] = 1595652582.931,
+				["class"] = "HUNTER",
+				["timestring"] = "4m 9s",
 				["events"] = {
 					{
 						false, -- [1]
-						287286, -- [2]
-						54031, -- [3]
-						1595394990.236, -- [4]
-						475135, -- [5]
-						"Toshpal", -- [6]
+						33110, -- [2]
+						14401, -- [3]
+						1595652568.17, -- [4]
+						434639, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
+						true, -- [1]
+						315161, -- [2]
+						29356, -- [3]
+						1595652569.117, -- [4]
+						405995, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						4, -- [1]
+						315161, -- [2]
+						3, -- [3]
+						1595652569.117, -- [4]
+						405995, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
 						false, -- [1]
-						225311, -- [2]
-						58664, -- [3]
-						1595394991.071, -- [4]
-						520740, -- [5]
+						143924, -- [2]
+						619, -- [3]
+						1595652569.256, -- [4]
+						406614, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [4]
+					{
+						1, -- [1]
+						186265, -- [2]
+						1, -- [3]
+						1595652569.515, -- [4]
+						406614, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						19127, -- [3]
+						1595652569.683, -- [4]
+						425741, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						77489, -- [2]
+						7186, -- [3]
+						1595652569.891, -- [4]
+						432927, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						510, -- [3]
+						1595652570.494, -- [4]
+						433437, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						120692, -- [2]
+						11005, -- [3]
+						1595652571.334, -- [4]
+						445161, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [9]
+					{
+						false, -- [1]
+						143924, -- [2]
+						91, -- [3]
+						1595652571.694, -- [4]
+						445252, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						2060, -- [2]
+						46744, -- [3]
+						1595652572.66, -- [4]
+						491996, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						7186, -- [3]
+						1595652572.902, -- [4]
+						499182, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						143924, -- [2]
+						91, -- [3]
+						1595652572.921, -- [4]
+						499987, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						2050, -- [2]
+						267110, -- [3]
+						1595652573.556, -- [4]
+						640038, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						596, -- [2]
+						21725, -- [3]
+						1595652574.15, -- [4]
+						640038, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77489, -- [2]
+						61832, -- [3]
+						1595652574.366, -- [4]
+						640038, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5520, -- [3]
+						1595652575.89, -- [4]
+						640038, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [17]
+					{
+						false, -- [1]
+						311201, -- [2]
+						34348, -- [3]
+						1595652576.741, -- [4]
+						640038, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						77489, -- [2]
+						61832, -- [3]
+						1595652577.368, -- [4]
+						640038, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						4, -- [1]
+						313759, -- [2]
+						1, -- [3]
+						1595652578.109, -- [4]
+						640038, -- [5]
+						"[*] Cursed Blood", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5520, -- [3]
+						1595652578.905, -- [4]
+						640038, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						311143, -- [2]
+						73489, -- [3]
+						1595652580.051, -- [4]
+						566549, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						314502, -- [2]
+						83585, -- [3]
+						1595652580.129, -- [4]
+						482964, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						270661, -- [2]
+						3326, -- [3]
+						1595652580.189, -- [4]
+						486290, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						91, -- [3]
+						1595652580.213, -- [4]
+						486381, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						61832, -- [3]
+						1595652580.355, -- [4]
+						548213, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						514, -- [3]
+						1595652581.423, -- [4]
+						549443, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5519, -- [3]
+						1595652581.888, -- [4]
+						554962, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						143924, -- [2]
+						399, -- [3]
+						1595652582.663, -- [4]
+						555361, -- [5]
+						"Smytt", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						316813, -- [2]
+						170858, -- [3]
+						1595652582.715, -- [4]
+						384503, -- [5]
+						"[*] Cursed Pulse", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						314502, -- [2]
+						167617, -- [3]
+						1595652582.771, -- [4]
+						216886, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						314502, -- [2]
+						251809, -- [3]
+						1595652582.931, -- [4]
+						1, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						34923, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						186265, -- [2]
+						1, -- [3]
+						1595652569.515, -- [4]
+						0, -- [5]
+						"Smytt", -- [6]
+					}, -- [33]
+				},
+			}, -- [4]
+			{
+				["maxhealth"] = 531320,
+				["timeofdeath"] = 249.6390000004321,
+				["name"] = "Toshpal",
+				["time"] = 1595652582.931,
+				["class"] = "PALADIN",
+				["timestring"] = "4m 9s",
+				["events"] = {
+					{
+						true, -- [1]
+						311143, -- [2]
+						83302, -- [3]
+						1595652567.479, -- [4]
+						268287, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2964, -- [3]
+						1595652568.059, -- [4]
+						271251, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -3224,47 +3701,47 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [2]
 					{
-						true, -- [1]
-						317112, -- [2]
-						41087, -- [3]
-						1595394991.756, -- [4]
-						479653, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						false, -- [1]
+						287286, -- [2]
+						27908, -- [3]
+						1595652568.486, -- [4]
+						299159, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						270117, -- [2]
-						47234, -- [3]
-						1595394991.779, -- [4]
-						520740, -- [5]
-						"Taistoi-Illidan", -- [6]
+						296184, -- [2]
+						12816, -- [3]
+						1595652568.519, -- [4]
+						311975, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						true, -- [1]
-						319346, -- [2]
-						13673, -- [3]
-						1595394992.007, -- [4]
-						507067, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						25914, -- [2]
+						107134, -- [3]
+						1595652569.014, -- [4]
+						419109, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						287286, -- [2]
-						26464, -- [3]
-						1595394993.608, -- [4]
-						520740, -- [5]
+						143924, -- [2]
+						5123, -- [3]
+						1595652569.256, -- [4]
+						424232, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -3273,105 +3750,105 @@ DeathGraphsDBCurrent = {
 					}, -- [6]
 					{
 						false, -- [1]
-						296003, -- [2]
-						2867, -- [3]
-						1595394993.766, -- [4]
-						520740, -- [5]
-						"Taistoi-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						317112, -- [2]
-						39854, -- [3]
-						1595394993.766, -- [4]
-						483753, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						2867, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						157503, -- [2]
-						39539, -- [3]
-						1595394993.897, -- [4]
-						520740, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [9]
-					{
-						false, -- [1]
 						287286, -- [2]
-						26463, -- [3]
-						1595394995.628, -- [4]
-						520740, -- [5]
+						33629, -- [3]
+						1595652569.299, -- [4]
+						457861, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [10]
+					}, -- [7]
 					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1595394995.855, -- [4]
-						520740, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						77489, -- [2]
+						27758, -- [3]
+						1595652569.958, -- [4]
+						485619, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						287286, -- [2]
+						27215, -- [3]
+						1595652570.028, -- [4]
+						512834, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						143924, -- [2]
+						23273, -- [3]
+						1595652570.494, -- [4]
+						536107, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						120692, -- [2]
+						11791, -- [3]
+						1595652570.838, -- [4]
+						547898, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [11]
 					{
-						true, -- [1]
-						309991, -- [2]
-						136954, -- [3]
-						1595394995.855, -- [4]
-						383786, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						false, -- [1]
+						596, -- [2]
+						18703, -- [3]
+						1595652571.26, -- [4]
+						566601, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1595394995.948, -- [4]
-						383786, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						309991, -- [2]
-						136954, -- [3]
-						1595394995.948, -- [4]
-						246832, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						false, -- [1]
+						34861, -- [2]
+						52369, -- [3]
+						1595652571.26, -- [4]
+						584460, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						20750, -- [3]
+						1595652572.943, -- [4]
+						584460, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [14]
 					{
 						false, -- [1]
-						73921, -- [2]
-						12938, -- [3]
-						1595394996.665, -- [4]
-						259770, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						287286, -- [2]
+						19818, -- [3]
+						1595652574.088, -- [4]
+						584460, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3379,95 +3856,95 @@ DeathGraphsDBCurrent = {
 					}, -- [15]
 					{
 						false, -- [1]
-						278095, -- [2]
-						13821, -- [3]
-						1595394996.68, -- [4]
-						273591, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						596, -- [2]
+						43451, -- [3]
+						1595652574.15, -- [4]
+						584460, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						319346, -- [2]
-						13673, -- [3]
-						1595394996.992, -- [4]
-						259918, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						77489, -- [2]
+						16469, -- [3]
+						1595652574.327, -- [4]
+						584460, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						73921, -- [2]
-						12165, -- [3]
-						1595394998.31, -- [4]
-						272083, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						225311, -- [2]
+						17855, -- [3]
+						1595652574.483, -- [4]
+						584460, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1595394999.192, -- [4]
-						272083, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						77489, -- [2]
+						20749, -- [3]
+						1595652575.951, -- [4]
+						584460, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						17, -- [2]
-						37660, -- [3]
-						1595394999.192, -- [4]
-						272083, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						true, -- [7]
+						596, -- [2]
+						22028, -- [3]
+						1595652575.974, -- [4]
+						584460, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [20]
 					{
-						true, -- [1]
-						309991, -- [2]
-						166058, -- [3]
-						1595394999.192, -- [4]
-						143685, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						37660, -- [7]
-						32, -- [8]
+						false, -- [1]
+						287286, -- [2]
+						30571, -- [3]
+						1595652576.206, -- [4]
+						584460, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1595394999.217, -- [4]
-						143685, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						true, -- [7]
+						287286, -- [2]
+						35621, -- [3]
+						1595652576.741, -- [4]
+						584460, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						270117, -- [2]
-						47235, -- [3]
-						1595394999.217, -- [4]
-						190920, -- [5]
-						"Taistoi-Illidan", -- [6]
+						77489, -- [2]
+						14364, -- [3]
+						1595652577.301, -- [4]
+						584460, -- [5]
+						"Itsyellowy", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3475,95 +3952,95 @@ DeathGraphsDBCurrent = {
 					}, -- [23]
 					{
 						false, -- [1]
-						81751, -- [2]
-						1211, -- [3]
-						1595394999.724, -- [4]
-						192131, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
+						287286, -- [2]
+						15396, -- [3]
+						1595652577.701, -- [4]
+						584460, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
-						true, -- [1]
-						309991, -- [2]
-						166058, -- [3]
-						1595395000.195, -- [4]
-						26073, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						4, -- [1]
-						308996, -- [2]
-						1, -- [3]
-						1595395000.403, -- [4]
-						26073, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
 						false, -- [1]
-						308996, -- [2]
-						520740, -- [3]
-						1595395000.403, -- [4]
-						520740, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						77489, -- [2]
+						20750, -- [3]
+						1595652578.967, -- [4]
+						584460, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [27]
+					}, -- [25]
 					{
 						true, -- [1]
-						309991, -- [2]
-						154074, -- [3]
-						1595395001.195, -- [4]
-						877091, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						311143, -- [2]
+						78299, -- [3]
+						1595652580.051, -- [4]
+						506161, -- [5]
+						"Blood of Ny'alotha", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [28]
+					}, -- [26]
 					{
 						true, -- [1]
-						309991, -- [2]
-						161778, -- [3]
-						1595395002.202, -- [4]
-						677044, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						314502, -- [2]
+						88612, -- [3]
+						1595652580.129, -- [4]
+						417549, -- [5]
+						"Cursed Blood", -- [6]
 						nil, -- [7]
 						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						77489, -- [2]
+						14364, -- [3]
+						1595652580.317, -- [4]
+						431913, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						1, -- [1]
+						498, -- [2]
+						1, -- [3]
+						1595652580.993, -- [4]
+						431913, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						true, -- [1]
-						309991, -- [2]
-						156924, -- [3]
-						1595395003.201, -- [4]
-						447565, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						1428, -- [7]
+						316813, -- [2]
+						139362, -- [3]
+						1595652582.715, -- [4]
+						292551, -- [5]
+						"[*] Cursed Pulse", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
 						true, -- [1]
-						309991, -- [2]
-						161777, -- [3]
-						1595395004.217, -- [4]
-						257016, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						314502, -- [2]
+						135315, -- [3]
+						1595652582.771, -- [4]
+						157236, -- [5]
+						"Cursed Blood", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -3571,161 +4048,561 @@ DeathGraphsDBCurrent = {
 					}, -- [31]
 					{
 						true, -- [1]
-						47666, -- [2]
-						5242, -- [3]
-						1595395005.032, -- [4]
+						314502, -- [2]
+						203281, -- [3]
+						1595652582.868, -- [4]
 						1, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
+						"Cursed Blood", -- [6]
 						nil, -- [7]
-						2, -- [8]
-						true, -- [9]
-						1983, -- [10]
+						32, -- [8]
+						false, -- [9]
+						46045, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
 						498, -- [2]
 						1, -- [3]
-						1595394976.578, -- [4]
+						1595652580.993, -- [4]
 						0, -- [5]
-						"Taistoi-Illidan", -- [6]
+						"Toshpal", -- [6]
+					}, -- [33]
+				},
+			}, -- [5]
+			{
+				["maxhealth"] = 531460,
+				["timeofdeath"] = 250.0370000004768,
+				["name"] = "Durantye",
+				["time"] = 1595652583.329,
+				["class"] = "PRIEST",
+				["timestring"] = "4m 10s",
+				["events"] = {
+					{
+						false, -- [1]
+						77489, -- [2]
+						11935, -- [3]
+						1595652569.603, -- [4]
+						534276, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						287286, -- [2]
+						50729, -- [3]
+						1595652570.028, -- [4]
+						584620, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						120692, -- [2]
+						13756, -- [3]
+						1595652571.872, -- [4]
+						584620, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						298318, -- [2]
+						56399, -- [3]
+						1595652572.133, -- [4]
+						584620, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10575, -- [3]
+						1595652572.606, -- [4]
+						584620, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						287286, -- [2]
+						47467, -- [3]
+						1595652574.065, -- [4]
+						584620, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10575, -- [3]
+						1595652575.623, -- [4]
+						584620, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						287286, -- [2]
+						48386, -- [3]
+						1595652576.741, -- [4]
+						584620, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						4, -- [1]
+						313759, -- [2]
+						1, -- [3]
+						1595652578.109, -- [4]
+						584620, -- [5]
+						"[*] Cursed Blood", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10574, -- [3]
+						1595652578.62, -- [4]
+						584620, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						269279, -- [2]
+						33360, -- [3]
+						1595652580.051, -- [4]
+						584620, -- [5]
+						"Durantye", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						311143, -- [2]
+						83731, -- [3]
+						1595652580.051, -- [4]
+						534249, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						33360, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						269238, -- [2]
+						18104, -- [3]
+						1595652580.051, -- [4]
+						552353, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						314502, -- [2]
+						94666, -- [3]
+						1595652580.129, -- [4]
+						457687, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5699, -- [3]
+						1595652580.317, -- [4]
+						463386, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						34914, -- [2]
+						2992, -- [3]
+						1595652580.379, -- [4]
+						466378, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [16]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5984, -- [3]
+						1595652580.82, -- [4]
+						472362, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						311201, -- [2]
+						30537, -- [3]
+						1595652580.845, -- [4]
+						502899, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2053, -- [3]
+						1595652581.019, -- [4]
+						504952, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						287286, -- [2]
+						15211, -- [3]
+						1595652581.373, -- [4]
+						520163, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5699, -- [3]
+						1595652581.54, -- [4]
+						525862, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5984, -- [3]
+						1595652581.62, -- [4]
+						531846, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5984, -- [3]
+						1595652582.2, -- [4]
+						537830, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2038, -- [3]
+						1595652582.233, -- [4]
+						539868, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						269238, -- [2]
+						34377, -- [3]
+						1595652582.742, -- [4]
+						574245, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						314502, -- [2]
+						185766, -- [3]
+						1595652582.771, -- [4]
+						388479, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						269238, -- [2]
+						34377, -- [3]
+						1595652582.804, -- [4]
+						422856, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						314502, -- [2]
+						279073, -- [3]
+						1595652582.868, -- [4]
+						143783, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						269238, -- [2]
+						34378, -- [3]
+						1595652582.931, -- [4]
+						178161, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						269238, -- [2]
+						34377, -- [3]
+						1595652582.931, -- [4]
+						212538, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5015, -- [3]
+						1595652582.999, -- [4]
+						217553, -- [5]
+						"Durantye", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						314502, -- [2]
+						353297, -- [3]
+						1595652583.217, -- [4]
+						1, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						135744, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Durantye", -- [6]
 					}, -- [33]
 				},
 			}, -- [6]
 			{
-				["maxhealth"] = 594880,
-				["timeofdeath"] = 539.4650000003166,
-				["name"] = "Judaasx",
-				["time"] = 1595395026.914,
-				["class"] = "WARLOCK",
-				["timestring"] = "8m 59s",
+				["maxhealth"] = 529580,
+				["timeofdeath"] = 250.0370000004768,
+				["name"] = "Sci",
+				["time"] = 1595652583.329,
+				["class"] = "PALADIN",
+				["timestring"] = "4m 10s",
 				["events"] = {
 					{
-						true, -- [1]
-						319346, -- [2]
-						16707, -- [3]
-						1595395011.095, -- [4]
-						654380, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						49381, -- [3]
+						1595652568.461, -- [4]
+						404959, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						272260, -- [2]
-						6933, -- [3]
-						1595395011.765, -- [4]
-						654380, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
+						143924, -- [2]
+						55158, -- [3]
+						1595652569.658, -- [4]
+						460117, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
-						61295, -- [2]
-						8210, -- [3]
-						1595395012.508, -- [4]
-						654380, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						25914, -- [2]
+						114655, -- [3]
+						1595652569.71, -- [4]
+						574772, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						61295, -- [2]
-						8210, -- [3]
-						1595395014.978, -- [4]
-						654380, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						225311, -- [2]
+						58797, -- [3]
+						1595652570.659, -- [4]
+						582540, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
+						false, -- [9]
+						false, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
-						61295, -- [2]
-						1151, -- [3]
-						1595395015.658, -- [4]
-						629355, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
+						77489, -- [2]
+						29839, -- [3]
+						1595652570.958, -- [4]
+						582540, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						77220, -- [2]
-						1496, -- [3]
-						1595395016.097, -- [4]
-						629355, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
+						120692, -- [2]
+						12698, -- [3]
+						1595652571.712, -- [4]
+						582540, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						108366, -- [2]
-						15210, -- [3]
-						1595395016.097, -- [4]
-						629355, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
+						77489, -- [2]
+						12363, -- [3]
+						1595652573.97, -- [4]
+						582540, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [7]
 					{
-						true, -- [1]
-						319346, -- [2]
-						16706, -- [3]
-						1595395016.097, -- [4]
-						629355, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						287286, -- [2]
+						26572, -- [3]
+						1595652574.065, -- [4]
+						582540, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						311201, -- [2]
-						37918, -- [3]
-						1595395016.166, -- [4]
-						654380, -- [5]
-						"Judaasx", -- [6]
+						287286, -- [2]
+						26572, -- [3]
+						1595652576.741, -- [4]
+						582540, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						77489, -- [2]
+						12363, -- [3]
+						1595652576.942, -- [4]
+						582540, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						111400, -- [2]
-						19092, -- [3]
-						1595395016.369, -- [4]
-						635288, -- [5]
-						"Judaasx", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						296212, -- [2]
-						8458, -- [3]
-						1595395016.369, -- [4]
-						643746, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
+						225311, -- [2]
+						61580, -- [3]
+						1595652577.275, -- [4]
+						582540, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3733,83 +4610,83 @@ DeathGraphsDBCurrent = {
 					}, -- [11]
 					{
 						false, -- [1]
-						270117, -- [2]
-						53923, -- [3]
-						1595395016.384, -- [4]
-						654380, -- [5]
-						"Judaasx", -- [6]
+						77489, -- [2]
+						12363, -- [3]
+						1595652579.954, -- [4]
+						582540, -- [5]
+						"Holypenguin", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						false, -- [1]
-						77220, -- [2]
-						9557, -- [3]
-						1595395017.361, -- [4]
-						654380, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						311143, -- [2]
+						74841, -- [3]
+						1595652580.051, -- [4]
+						507699, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						108366, -- [2]
-						62415, -- [3]
-						1595395017.361, -- [4]
-						654380, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
+						269238, -- [2]
+						17038, -- [3]
+						1595652580.051, -- [4]
+						524737, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						317112, -- [2]
-						167062, -- [3]
-						1595395017.361, -- [4]
-						559290, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						71972, -- [7]
-						32, -- [8]
+						false, -- [1]
+						270117, -- [2]
+						12063, -- [3]
+						1595652580.085, -- [4]
+						536800, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						4, -- [1]
-						317112, -- [2]
-						1, -- [3]
-						1595395017.361, -- [4]
-						559290, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						false, -- [1]
+						33110, -- [2]
+						15881, -- [3]
+						1595652580.085, -- [4]
+						552681, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [16]
 					{
 						true, -- [1]
-						111400, -- [2]
-						19093, -- [3]
-						1595395017.397, -- [4]
-						540197, -- [5]
-						"Judaasx", -- [6]
+						314502, -- [2]
+						83336, -- [3]
+						1595652580.129, -- [4]
+						469345, -- [5]
+						"Cursed Blood", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						4, -- [1]
-						308996, -- [2]
+						315094, -- [2]
 						1, -- [3]
-						1595395017.554, -- [4]
-						540197, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						1595652580.62, -- [4]
+						469345, -- [5]
+						"Blood of Ny'alotha", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
@@ -3817,1631 +4694,1395 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						false, -- [1]
-						308996, -- [2]
-						654380, -- [3]
-						1595395017.554, -- [4]
-						654380, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						143924, -- [2]
+						1285, -- [3]
+						1595652580.62, -- [4]
+						470630, -- [5]
+						"Sci", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						true, -- [1]
-						317112, -- [2]
-						50201, -- [3]
-						1595395019.366, -- [4]
-						1264204, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						5645, -- [7]
-						32, -- [8]
+						false, -- [1]
+						287286, -- [2]
+						16022, -- [3]
+						1595652581.373, -- [4]
+						486652, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1595395019.857, -- [4]
-						1273313, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						143924, -- [2]
+						46937, -- [3]
+						1595652581.846, -- [4]
+						533589, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [21]
 					{
-						true, -- [1]
-						309991, -- [2]
-						167338, -- [3]
-						1595395019.857, -- [4]
-						1121236, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						15261, -- [7]
-						32, -- [8]
+						false, -- [1]
+						269238, -- [2]
+						17037, -- [3]
+						1595652582.742, -- [4]
+						550626, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						true, -- [1]
-						309991, -- [2]
-						167338, -- [3]
-						1595395020.848, -- [4]
-						966572, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						12674, -- [7]
+						314502, -- [2]
+						160155, -- [3]
+						1595652582.771, -- [4]
+						390471, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						true, -- [1]
-						317112, -- [2]
-						50201, -- [3]
-						1595395021.368, -- [4]
-						907282, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						5136, -- [7]
-						32, -- [8]
-						false, -- [9]
+						false, -- [1]
+						269238, -- [2]
+						17038, -- [3]
+						1595652582.804, -- [4]
+						407509, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						true, -- [1]
-						309991, -- [2]
-						167338, -- [3]
-						1595395021.853, -- [4]
-						736452, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						10010, -- [7]
+						314502, -- [2]
+						240599, -- [3]
+						1595652582.868, -- [4]
+						166910, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						309991, -- [2]
-						167338, -- [3]
-						1595395022.86, -- [4]
-						583363, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						14249, -- [7]
-						32, -- [8]
+						false, -- [1]
+						225311, -- [2]
+						36890, -- [3]
+						1595652582.931, -- [4]
+						203800, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						true, -- [1]
-						317112, -- [2]
-						50201, -- [3]
-						1595395023.375, -- [4]
-						551034, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						2937, -- [7]
-						32, -- [8]
+						false, -- [1]
+						269238, -- [2]
+						17037, -- [3]
+						1595652582.931, -- [4]
+						220837, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						true, -- [1]
-						309991, -- [2]
-						167339, -- [3]
-						1595395023.864, -- [4]
-						401801, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						18106, -- [7]
-						32, -- [8]
+						false, -- [1]
+						269238, -- [2]
+						17038, -- [3]
+						1595652582.931, -- [4]
+						237875, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
-						true, -- [1]
-						309991, -- [2]
-						167338, -- [3]
-						1595395024.862, -- [4]
-						251612, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						17149, -- [7]
-						32, -- [8]
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1595652582.999, -- [4]
+						250691, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						true, -- [1]
-						317112, -- [2]
-						50202, -- [3]
-						1595395025.375, -- [4]
-						206422, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						3552, -- [7]
-						32, -- [8]
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1595652582.999, -- [4]
+						263507, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						309991, -- [2]
-						167339, -- [3]
-						1595395025.868, -- [4]
-						49394, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						10311, -- [7]
-						32, -- [8]
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1595652582.999, -- [4]
+						276323, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						309991, -- [2]
-						167339, -- [3]
-						1595395026.914, -- [4]
+						314502, -- [2]
+						304590, -- [3]
+						1595652583.203, -- [4]
 						1, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						11022, -- [7]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						121999, -- [10]
+						28267, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
+						105809, -- [2]
+						1, -- [3]
+						1595652562.145, -- [4]
 						0, -- [5]
-						"Judaasx", -- [6]
+						"Sci", -- [6]
 					}, -- [33]
 				},
 			}, -- [7]
+			{
+				["maxhealth"] = 587640,
+				["timeofdeath"] = 250.0370000004768,
+				["name"] = "Rathux",
+				["time"] = 1595652583.329,
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "4m 10s",
+				["events"] = {
+					{
+						false, -- [1]
+						296330, -- [2]
+						35552, -- [3]
+						1595652568.486, -- [4]
+						524153, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						243241, -- [2]
+						9875, -- [3]
+						1595652568.632, -- [4]
+						534028, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5593, -- [3]
+						1595652568.775, -- [4]
+						539621, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1475, -- [3]
+						1595652569.658, -- [4]
+						541096, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						20756, -- [3]
+						1595652569.891, -- [4]
+						561852, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						225311, -- [2]
+						29399, -- [3]
+						1595652570.659, -- [4]
+						591251, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3027, -- [3]
+						1595652570.887, -- [4]
+						594278, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [7]
+					{
+						false, -- [1]
+						120692, -- [2]
+						12698, -- [3]
+						1595652571.629, -- [4]
+						606976, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5593, -- [3]
+						1595652571.782, -- [4]
+						612569, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2962, -- [3]
+						1595652572.106, -- [4]
+						615531, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						243241, -- [2]
+						8013, -- [3]
+						1595652572.66, -- [4]
+						623544, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2129, -- [3]
+						1595652573.34, -- [4]
+						625673, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						25914, -- [2]
+						187303, -- [3]
+						1595652573.732, -- [4]
+						646400, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						225311, -- [2]
+						17856, -- [3]
+						1595652574.483, -- [4]
+						646400, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						77489, -- [2]
+						3942, -- [3]
+						1595652574.646, -- [4]
+						646400, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5594, -- [3]
+						1595652574.758, -- [4]
+						646400, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						287286, -- [2]
+						21639, -- [3]
+						1595652576.741, -- [4]
+						646400, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						3942, -- [3]
+						1595652577.638, -- [4]
+						646400, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						298318, -- [2]
+						56471, -- [3]
+						1595652579.993, -- [4]
+						646400, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						53365, -- [2]
+						38784, -- [3]
+						1595652580.023, -- [4]
+						646400, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						311143, -- [2]
+						83130, -- [3]
+						1595652580.051, -- [4]
+						563270, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						270117, -- [2]
+						11671, -- [3]
+						1595652580.085, -- [4]
+						574941, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						311201, -- [2]
+						16994, -- [3]
+						1595652580.085, -- [4]
+						591935, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						314502, -- [2]
+						91042, -- [3]
+						1595652580.129, -- [4]
+						500893, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						4719, -- [3]
+						1595652580.62, -- [4]
+						505612, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						3942, -- [3]
+						1595652580.643, -- [4]
+						509554, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						287286, -- [2]
+						15231, -- [3]
+						1595652581.373, -- [4]
+						524785, -- [5]
+						"Sci", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3610, -- [3]
+						1595652581.846, -- [4]
+						528395, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						311201, -- [2]
+						16184, -- [3]
+						1595652582.564, -- [4]
+						544579, -- [5]
+						"Rathux", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						314502, -- [2]
+						173781, -- [3]
+						1595652582.771, -- [4]
+						370798, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						314502, -- [2]
+						261069, -- [3]
+						1595652582.868, -- [4]
+						109729, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						314502, -- [2]
+						330504, -- [3]
+						1595652583.185, -- [4]
+						1, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						220775, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Rathux", -- [6]
+					}, -- [33]
+				},
+			}, -- [8]
+			{
+				["maxhealth"] = 539980,
+				["timeofdeath"] = 250.0370000004768,
+				["name"] = "Andruw",
+				["time"] = 1595652583.329,
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "4m 10s",
+				["events"] = {
+					{
+						4, -- [1]
+						310322, -- [2]
+						1, -- [3]
+						1595652575.064, -- [4]
+						593980, -- [5]
+						"[*] Morass of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						274346, -- [2]
+						9608, -- [3]
+						1595652575.064, -- [4]
+						593980, -- [5]
+						"Andruw", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						310322, -- [2]
+						119033, -- [3]
+						1595652575.064, -- [4]
+						484555, -- [5]
+						"[*] Morass of Corruption", -- [6]
+						9608, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						312486, -- [2]
+						14156, -- [3]
+						1595652575.232, -- [4]
+						470399, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9469, -- [3]
+						1595652575.459, -- [4]
+						479868, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						1, -- [1]
+						196555, -- [2]
+						1, -- [3]
+						1595652575.951, -- [4]
+						479868, -- [5]
+						"Andruw", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						596, -- [2]
+						22028, -- [3]
+						1595652575.974, -- [4]
+						501896, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						204883, -- [2]
+						26435, -- [3]
+						1595652576.168, -- [4]
+						528331, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						3366, -- [3]
+						1595652577.368, -- [4]
+						531697, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						4, -- [1]
+						315161, -- [2]
+						1, -- [3]
+						1595652577.521, -- [4]
+						531697, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						4, -- [1]
+						313759, -- [2]
+						1, -- [3]
+						1595652578.109, -- [4]
+						531697, -- [5]
+						"[*] Cursed Blood", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10602, -- [3]
+						1595652578.457, -- [4]
+						542299, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						4, -- [1]
+						315161, -- [2]
+						2, -- [3]
+						1595652578.515, -- [4]
+						542299, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						4, -- [1]
+						315161, -- [2]
+						3, -- [3]
+						1595652579.502, -- [4]
+						542299, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						596, -- [2]
+						45787, -- [3]
+						1595652579.816, -- [4]
+						588086, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						4, -- [1]
+						315161, -- [2]
+						4, -- [3]
+						1595652580.51, -- [4]
+						588086, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						2060, -- [2]
+						57232, -- [3]
+						1595652580.863, -- [4]
+						593980, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						312486, -- [2]
+						14156, -- [3]
+						1595652581.235, -- [4]
+						579824, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						270117, -- [2]
+						13129, -- [3]
+						1595652581.251, -- [4]
+						592953, -- [5]
+						"Andruw", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						288999, -- [2]
+						3360, -- [3]
+						1595652581.273, -- [4]
+						593980, -- [5]
+						"Andruw", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						14103, -- [3]
+						1595652581.468, -- [4]
+						593980, -- [5]
+						"Itsyellowy", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						315161, -- [2]
+						40719, -- [3]
+						1595652581.514, -- [4]
+						553261, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						4, -- [1]
+						315161, -- [2]
+						5, -- [3]
+						1595652581.514, -- [4]
+						553261, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7116, -- [3]
+						1595652581.846, -- [4]
+						560377, -- [5]
+						"Andruw", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						315161, -- [2]
+						44391, -- [3]
+						1595652582.505, -- [4]
+						515986, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						4, -- [1]
+						315161, -- [2]
+						6, -- [3]
+						1595652582.505, -- [4]
+						515986, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						288999, -- [2]
+						1680, -- [3]
+						1595652582.687, -- [4]
+						517666, -- [5]
+						"Andruw", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						316813, -- [2]
+						97762, -- [3]
+						1595652582.687, -- [4]
+						419904, -- [5]
+						"[*] Cursed Pulse", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						316813, -- [2]
+						105080, -- [3]
+						1595652582.687, -- [4]
+						314824, -- [5]
+						"[*] Cursed Pulse", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						314502, -- [2]
+						94307, -- [3]
+						1595652582.771, -- [4]
+						220517, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						314502, -- [2]
+						141676, -- [3]
+						1595652582.868, -- [4]
+						78841, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						314502, -- [2]
+						179357, -- [3]
+						1595652583.167, -- [4]
+						1, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						100516, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						196555, -- [2]
+						1, -- [3]
+						1595652575.951, -- [4]
+						0, -- [5]
+						"Andruw", -- [6]
+					}, -- [33]
+				},
+			}, -- [9]
+			{
+				["maxhealth"] = 563800,
+				["timeofdeath"] = 250.0370000004768,
+				["name"] = "Wilwar",
+				["time"] = 1595652583.329,
+				["class"] = "WARRIOR",
+				["timestring"] = "4m 10s",
+				["events"] = {
+					{
+						false, -- [1]
+						288091, -- [2]
+						38528, -- [3]
+						1595652569.095, -- [4]
+						509433, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						288091, -- [2]
+						36694, -- [3]
+						1595652569.984, -- [4]
+						546127, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						117313, -- [2]
+						31009, -- [3]
+						1595652570.057, -- [4]
+						577136, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						288091, -- [2]
+						35027, -- [3]
+						1595652570.705, -- [4]
+						612163, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						22497, -- [3]
+						1595652570.958, -- [4]
+						620180, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						311201, -- [2]
+						40903, -- [3]
+						1595652571.013, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						288091, -- [2]
+						15637, -- [3]
+						1595652571.078, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						311201, -- [2]
+						38955, -- [3]
+						1595652571.814, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						288091, -- [2]
+						33359, -- [3]
+						1595652571.988, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						120692, -- [2]
+						15007, -- [3]
+						1595652572.157, -- [4]
+						620180, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						288091, -- [2]
+						35027, -- [3]
+						1595652573.077, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10355, -- [3]
+						1595652573.97, -- [4]
+						620180, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						288091, -- [2]
+						33359, -- [3]
+						1595652573.97, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						315161, -- [2]
+						21481, -- [3]
+						1595652574.422, -- [4]
+						598699, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						4, -- [1]
+						315161, -- [2]
+						2, -- [3]
+						1595652574.422, -- [4]
+						598699, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						270117, -- [2]
+						56180, -- [3]
+						1595652574.446, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						288091, -- [2]
+						35027, -- [3]
+						1595652575.094, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						315161, -- [2]
+						24283, -- [3]
+						1595652575.42, -- [4]
+						595897, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						315161, -- [2]
+						3, -- [3]
+						1595652575.42, -- [4]
+						595897, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						117313, -- [2]
+						31009, -- [3]
+						1595652575.926, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10355, -- [3]
+						1595652576.942, -- [4]
+						620180, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						288091, -- [2]
+						12233, -- [3]
+						1595652577.075, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						288091, -- [2]
+						25719, -- [3]
+						1595652579.078, -- [4]
+						620180, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10355, -- [3]
+						1595652579.954, -- [4]
+						620180, -- [5]
+						"Holypenguin", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						311143, -- [2]
+						83189, -- [3]
+						1595652580.051, -- [4]
+						536991, -- [5]
+						"Blood of Ny'alotha", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						314502, -- [2]
+						90231, -- [3]
+						1595652580.129, -- [4]
+						446760, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						288091, -- [2]
+						25860, -- [3]
+						1595652581.098, -- [4]
+						472620, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						117313, -- [2]
+						31009, -- [3]
+						1595652581.54, -- [4]
+						503629, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						314502, -- [2]
+						171704, -- [3]
+						1595652582.771, -- [4]
+						331925, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						270117, -- [2]
+						53305, -- [3]
+						1595652582.835, -- [4]
+						385230, -- [5]
+						"Wilwar", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						314502, -- [2]
+						257949, -- [3]
+						1595652582.868, -- [4]
+						127281, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						314502, -- [2]
+						326554, -- [3]
+						1595652583.134, -- [4]
+						1, -- [5]
+						"Cursed Blood", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						199273, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Wilwar", -- [6]
+					}, -- [33]
+				},
+			}, -- [10]
 		},
-		["bossname"] = "N'Zoth the Corruptor",
+		["bossname"] = "Il'gynoth, Corruption Reborn",
 		["bossicon"] = {
 			0.75, -- [1]
 			1, -- [2]
-			0.5, -- [3]
-			0.75, -- [4]
+			0.25, -- [3]
+			0.5, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
 		},
-		["date"] = 4001129.956,
-		["timeelapsed"] = 540.6300000003539,
-	}, -- [1]
-	{
-		["deaths"] = {
-			{
-				["maxhealth"] = 584660,
-				["timeofdeath"] = 192.3379999999888,
-				["name"] = "Maxxed-Mal'Ganis",
-				["time"] = 1595394116.077,
-				["class"] = "WARLOCK",
-				["timestring"] = "3m 12s",
-				["events"] = {
-					{
-						2, -- [1]
-						61999, -- [2]
-						1, -- [3]
-						1595394132.448, -- [4]
-						0, -- [5]
-						"Illestt-Barthilas", -- [6]
-					}, -- [1]
-					{
-						false, -- [1]
-						311201, -- [2]
-						34171, -- [3]
-						1595394111.997, -- [4]
-						82999, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						77220, -- [2]
-						6433, -- [3]
-						1595394112.576, -- [4]
-						82999, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						108366, -- [2]
-						4061, -- [3]
-						1595394112.576, -- [4]
-						82999, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						315161, -- [2]
-						74784, -- [3]
-						1595394112.576, -- [4]
-						18709, -- [5]
-						"Eye of Corruption", -- [6]
-						10494, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						4, -- [1]
-						315161, -- [2]
-						12, -- [3]
-						1595394112.576, -- [4]
-						18709, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1595394112.576, -- [4]
-						18709, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						77220, -- [2]
-						1236, -- [3]
-						1595394112.701, -- [4]
-						18709, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						307061, -- [2]
-						16323, -- [3]
-						1595394112.701, -- [4]
-						3622, -- [5]
-						"Fury of N'Zoth", -- [6]
-						1236, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						270117, -- [2]
-						12207, -- [3]
-						1595394112.715, -- [4]
-						15829, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1355, -- [3]
-						1595394113.6, -- [4]
-						17902, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						194509, -- [2]
-						22407, -- [3]
-						1595394113.648, -- [4]
-						40309, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1197, -- [3]
-						1595394113.702, -- [4]
-						41506, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						77220, -- [2]
-						829, -- [3]
-						1595394113.702, -- [4]
-						41506, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						108366, -- [2]
-						3423, -- [3]
-						1595394113.702, -- [4]
-						41506, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						307061, -- [2]
-						16742, -- [3]
-						1595394113.702, -- [4]
-						29016, -- [5]
-						"Fury of N'Zoth", -- [6]
-						4252, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1595394113.725, -- [4]
-						29016, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						77220, -- [2]
-						832, -- [3]
-						1595394114.708, -- [4]
-						29016, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						108366, -- [2]
-						6919, -- [3]
-						1595394114.708, -- [4]
-						29016, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						307061, -- [2]
-						16743, -- [3]
-						1595394114.708, -- [4]
-						20024, -- [5]
-						"Fury of N'Zoth", -- [6]
-						7751, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1595394114.708, -- [4]
-						20024, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1197, -- [3]
-						1595394115.149, -- [4]
-						21221, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						316, -- [3]
-						1595394115.208, -- [4]
-						21537, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1132, -- [3]
-						1595394115.236, -- [4]
-						22669, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						311201, -- [2]
-						32802, -- [3]
-						1595394115.304, -- [4]
-						55471, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						77220, -- [2]
-						1462, -- [3]
-						1595394115.72, -- [4]
-						56185, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						108366, -- [2]
-						3008, -- [3]
-						1595394115.72, -- [4]
-						56185, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						307061, -- [2]
-						16742, -- [3]
-						1595394115.72, -- [4]
-						43913, -- [5]
-						"Fury of N'Zoth", -- [6]
-						4470, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1595394115.72, -- [4]
-						43913, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						77220, -- [2]
-						6017, -- [3]
-						1595394116.044, -- [4]
-						43913, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						108366, -- [2]
-						4877, -- [3]
-						1595394116.044, -- [4]
-						43913, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1595394116.077, -- [4]
-						43913, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						307048, -- [2]
-						96494, -- [3]
-						1595394116.077, -- [4]
-						1, -- [5]
-						"Fury of N'Zoth", -- [6]
-						10894, -- [7]
-						32, -- [8]
-						false, -- [9]
-						41687, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						104773, -- [2]
-						1, -- [3]
-						1595394095.082, -- [4]
-						0, -- [5]
-						"Maxxed-Mal'Ganis", -- [6]
-					}, -- [34]
-				},
-			}, -- [1]
-			{
-				["maxhealth"] = 511740,
-				["timeofdeath"] = 322.9050000002608,
-				["name"] = "Artsong",
-				["time"] = 1595394246.644,
-				["class"] = "HUNTER",
-				["timestring"] = "5m 22s",
-				["events"] = {
-					{
-						false, -- [1]
-						270661, -- [2]
-						3005, -- [3]
-						1595394215.349, -- [4]
-						125933, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						270661, -- [2]
-						6011, -- [3]
-						1595394218.349, -- [4]
-						131944, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						270661, -- [2]
-						6056, -- [3]
-						1595394221.361, -- [4]
-						138000, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						270661, -- [2]
-						3028, -- [3]
-						1595394224.369, -- [4]
-						141028, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						270661, -- [2]
-						3051, -- [3]
-						1595394227.377, -- [4]
-						144079, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						270661, -- [2]
-						3050, -- [3]
-						1595394230.369, -- [4]
-						147129, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						4, -- [1]
-						306984, -- [2]
-						1, -- [3]
-						1595394232.774, -- [4]
-						147129, -- [5]
-						"Fury of N'Zoth", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						270661, -- [2]
-						3073, -- [3]
-						1595394233.383, -- [4]
-						150202, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						270661, -- [2]
-						3073, -- [3]
-						1595394236.388, -- [4]
-						153275, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						270661, -- [2]
-						6146, -- [3]
-						1595394239.382, -- [4]
-						159421, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						270661, -- [2]
-						3096, -- [3]
-						1595394242.386, -- [4]
-						162517, -- [5]
-						"Artsong", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						269279, -- [2]
-						31678, -- [3]
-						1595394244.89, -- [4]
-						162517, -- [5]
-						"Artsong", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						306985, -- [2]
-						152864, -- [3]
-						1595394244.89, -- [4]
-						41331, -- [5]
-						"Fury of N'Zoth", -- [6]
-						31678, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						4, -- [1]
-						306985, -- [2]
-						1, -- [3]
-						1595394244.89, -- [4]
-						41331, -- [5]
-						"Fury of N'Zoth", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						1, -- [2]
-						14248, -- [3]
-						1595394246.599, -- [4]
-						41331, -- [5]
-						"Nightmare Antigen", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						307044, -- [2]
-						36527, -- [3]
-						1595394246.644, -- [4]
-						1, -- [5]
-						"Nightmare Antigen", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						9444, -- [10]
-					}, -- [16]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Artsong", -- [6]
-					}, -- [17]
-				},
-			}, -- [2]
-			{
-				["maxhealth"] = 388680,
-				["timeofdeath"] = 365.3379999999888,
-				["name"] = "Haxpax-Kil'jaeden",
-				["time"] = 1595394289.077,
-				["class"] = "PRIEST",
-				["timestring"] = "6m 5s",
-				["events"] = {
-					{
-						false, -- [1]
-						296212, -- [2]
-						8289, -- [3]
-						1595394281.459, -- [4]
-						427540, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						313364, -- [2]
-						22118, -- [3]
-						1595394281.459, -- [4]
-						405422, -- [5]
-						"Fury of N'Zoth", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						270117, -- [2]
-						9032, -- [3]
-						1595394281.481, -- [4]
-						414454, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						287286, -- [2]
-						16720, -- [3]
-						1595394281.647, -- [4]
-						427540, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1398, -- [3]
-						1595394281.73, -- [4]
-						427540, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						81751, -- [2]
-						4510, -- [3]
-						1595394281.768, -- [4]
-						427540, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						313364, -- [2]
-						22119, -- [3]
-						1595394282.446, -- [4]
-						405421, -- [5]
-						"Fury of N'Zoth", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						81751, -- [2]
-						4509, -- [3]
-						1595394282.584, -- [4]
-						409930, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1398, -- [3]
-						1595394283.306, -- [4]
-						411328, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						296003, -- [2]
-						2911, -- [3]
-						1595394283.444, -- [4]
-						411328, -- [5]
-						"Taistoi-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						296212, -- [2]
-						8289, -- [3]
-						1595394283.444, -- [4]
-						419617, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						313364, -- [2]
-						21454, -- [3]
-						1595394283.444, -- [4]
-						401074, -- [5]
-						"Fury of N'Zoth", -- [6]
-						2911, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						1064, -- [2]
-						94561, -- [3]
-						1595394283.733, -- [4]
-						427540, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						313364, -- [2]
-						22118, -- [3]
-						1595394284.452, -- [4]
-						405422, -- [5]
-						"Fury of N'Zoth", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						81751, -- [2]
-						5231, -- [3]
-						1595394284.71, -- [4]
-						410653, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1255, -- [3]
-						1595394284.893, -- [4]
-						411908, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						262, -- [3]
-						1595394285.05, -- [4]
-						412170, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						313364, -- [2]
-						22118, -- [3]
-						1595394285.445, -- [4]
-						390052, -- [5]
-						"Fury of N'Zoth", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						81751, -- [2]
-						5231, -- [3]
-						1595394285.89, -- [4]
-						395283, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						143924, -- [2]
-						212, -- [3]
-						1595394286.283, -- [4]
-						395495, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						313364, -- [2]
-						22119, -- [3]
-						1595394286.45, -- [4]
-						373376, -- [5]
-						"Fury of N'Zoth", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1254, -- [3]
-						1595394286.468, -- [4]
-						374630, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						287286, -- [2]
-						34391, -- [3]
-						1595394286.905, -- [4]
-						409021, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						81751, -- [2]
-						7603, -- [3]
-						1595394287.016, -- [4]
-						416624, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						313364, -- [2]
-						22119, -- [3]
-						1595394287.435, -- [4]
-						394505, -- [5]
-						"Fury of N'Zoth", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						358, -- [3]
-						1595394287.479, -- [4]
-						394863, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						81751, -- [2]
-						1255, -- [3]
-						1595394288.029, -- [4]
-						396118, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						313364, -- [2]
-						22118, -- [3]
-						1595394288.451, -- [4]
-						374000, -- [5]
-						"Fury of N'Zoth", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						270117, -- [2]
-						9032, -- [3]
-						1595394288.466, -- [4]
-						383032, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						272260, -- [2]
-						217, -- [3]
-						1595394288.48, -- [4]
-						383249, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						51, -- [3]
-						1595394288.7, -- [4]
-						383300, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						315862, -- [2]
-						1011493, -- [3]
-						1595394289.051, -- [4]
-						1, -- [5]
-						"Thrashing Tentacle", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						628193, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Haxpax-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-			}, -- [3]
-			{
-				["maxhealth"] = 518640,
-				["timeofdeath"] = 365.433999999892,
-				["name"] = "Baesong-Kil'jaeden",
-				["time"] = 1595394289.173,
-				["class"] = "WARRIOR",
-				["timestring"] = "6m 5s",
-				["events"] = {
-					{
-						false, -- [1]
-						278095, -- [2]
-						9815, -- [3]
-						1595394263.606, -- [4]
-						570500, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						287286, -- [2]
-						52927, -- [3]
-						1595394263.85, -- [4]
-						570500, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						287286, -- [2]
-						44495, -- [3]
-						1595394263.917, -- [4]
-						570500, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						311201, -- [2]
-						18266, -- [3]
-						1595394264.898, -- [4]
-						570500, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						287286, -- [2]
-						15949, -- [3]
-						1595394266.383, -- [4]
-						570500, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						298318, -- [2]
-						32030, -- [3]
-						1595394266.531, -- [4]
-						570500, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						73921, -- [2]
-						9249, -- [3]
-						1595394266.671, -- [4]
-						570500, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						311201, -- [2]
-						36531, -- [3]
-						1595394266.88, -- [4]
-						570500, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						269279, -- [2]
-						34227, -- [3]
-						1595394267.495, -- [4]
-						570500, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						296003, -- [2]
-						2911, -- [3]
-						1595394267.495, -- [4]
-						570500, -- [5]
-						"Taistoi-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						313040, -- [2]
-						174969, -- [3]
-						1595394267.495, -- [4]
-						432669, -- [5]
-						"Fury of N'Zoth", -- [6]
-						37138, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						98021, -- [2]
-						3925, -- [3]
-						1595394268.019, -- [4]
-						428744, -- [5]
-						"Spirit Link Totem <Yukios-Kil'jaeden>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						73921, -- [2]
-						5566, -- [3]
-						1595394268.225, -- [4]
-						434310, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						98021, -- [2]
-						57362, -- [3]
-						1595394269.021, -- [4]
-						594965, -- [5]
-						"Spirit Link Totem <Yukios-Kil'jaeden>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						279505, -- [2]
-						92736, -- [3]
-						1595394269.021, -- [4]
-						673793, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						311201, -- [2]
-						18265, -- [3]
-						1595394270.197, -- [4]
-						673793, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						287286, -- [2]
-						31898, -- [3]
-						1595394270.291, -- [4]
-						673793, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						311201, -- [2]
-						18266, -- [3]
-						1595394271.43, -- [4]
-						673793, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						287286, -- [2]
-						15949, -- [3]
-						1595394272.111, -- [4]
-						673793, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						311201, -- [2]
-						36532, -- [3]
-						1595394273.327, -- [4]
-						673793, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						287286, -- [2]
-						25967, -- [3]
-						1595394276.591, -- [4]
-						673793, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						298318, -- [2]
-						60933, -- [3]
-						1595394277.75, -- [4]
-						673793, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						311201, -- [2]
-						18266, -- [3]
-						1595394278.678, -- [4]
-						673793, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						311201, -- [2]
-						18266, -- [3]
-						1595394283.192, -- [4]
-						570500, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						225311, -- [2]
-						36528, -- [3]
-						1595394283.192, -- [4]
-						570500, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						1064, -- [2]
-						90742, -- [3]
-						1595394283.733, -- [4]
-						570500, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						225311, -- [2]
-						26051, -- [3]
-						1595394285.532, -- [4]
-						570500, -- [5]
-						"Taistoi-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						298318, -- [2]
-						30467, -- [3]
-						1595394286.57, -- [4]
-						570500, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						73921, -- [2]
-						10990, -- [3]
-						1595394287.254, -- [4]
-						570500, -- [5]
-						"Yukios-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						311201, -- [2]
-						18265, -- [3]
-						1595394289.051, -- [4]
-						570500, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						296003, -- [2]
-						2911, -- [3]
-						1595394289.13, -- [4]
-						570500, -- [5]
-						"Taistoi-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						315862, -- [2]
-						992812, -- [3]
-						1595394289.13, -- [4]
-						1, -- [5]
-						"Thrashing Tentacle", -- [6]
-						2911, -- [7]
-						8, -- [8]
-						false, -- [9]
-						419401, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Baesong-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-			}, -- [4]
-		},
-		["bossname"] = "Carapace of N'Zoth",
-		["bossicon"] = {
-			0.5, -- [1]
-			0.75, -- [2]
-			0.5, -- [3]
-			0.75, -- [4]
-			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
-		},
-		["date"] = 4000398.416,
-		["timeelapsed"] = 372.3190000001341,
+		["date"] = 4258684.081,
+		["timeelapsed"] = 251.1840000003576,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
@@ -5449,6 +6090,25 @@ DeathGraphsDBGraph = {
 		["deaths"] = {
 			[71] = {
 				1595391895, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236415"] = {
+		["deaths"] = {
+			[91] = {
+				1595393503, -- [1]
+				1595393503, -- [2]
+			},
+			[92] = {
+				1595393503, -- [1]
+				1595393503, -- [2]
+			},
+			[106] = {
+				1595393503, -- [1]
 			},
 		},
 		["spells"] = {
@@ -5474,18 +6134,10 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
-	["236415"] = {
+	["237215"] = {
 		["deaths"] = {
-			[91] = {
-				1595393503, -- [1]
-				1595393503, -- [2]
-			},
-			[92] = {
-				1595393503, -- [1]
-				1595393503, -- [2]
-			},
-			[106] = {
-				1595393503, -- [1]
+			[131] = {
+				1595392988, -- [1]
 			},
 		},
 		["spells"] = {
@@ -5516,10 +6168,44 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
-	["237215"] = {
+	["237416"] = {
 		["deaths"] = {
-			[131] = {
-				1595392988, -- [1]
+			[161] = {
+				1595651689, -- [1]
+				1595651689, -- [2]
+				1595651689, -- [3]
+			},
+			[7] = {
+				1595651689, -- [1]
+				1595652584, -- [2]
+			},
+			[278] = {
+				1595652202, -- [1]
+			},
+			[279] = {
+				1595652202, -- [1]
+			},
+			[123] = {
+				1595651689, -- [1]
+			},
+			[386] = {
+				1595652202, -- [1]
+				1595652202, -- [2]
+			},
+			[19] = {
+				1595653120, -- [1]
+			},
+			[11] = {
+				1595652202, -- [1]
+			},
+			[249] = {
+				1595652584, -- [1]
+				1595652584, -- [2]
+				1595652584, -- [3]
+				1595652584, -- [4]
+			},
+			[398] = {
+				1595653120, -- [1]
 			},
 		},
 		["spells"] = {

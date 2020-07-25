@@ -158,19 +158,9 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[58745] = {
-						["expireAt"] = 1595602836,
-						["rewardAmount"] = "15",
-						["rewardTexture"] = 133675,
-					},
 					[58705] = {
-						["expireAt"] = 1595948436,
+						["expireAt"] = 1595948476,
 						["rewardAmount"] = 750,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[58748] = {
-						["expireAt"] = 1595602836,
-						["rewardAmount"] = 180,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
@@ -194,12 +184,13 @@ WQTrackerDB = {
 				},
 				["name_cache"] = {
 					["Matriarca de escamas Gratinax"] = 152548,
-					["Vrax'thul"] = 126199,
 					["Racha-mundos Skuul"] = 127118,
+					["Vrax'thul"] = 126199,
 					["Umbra'jin"] = 122004,
+					["Malfunctioning Beastbot"] = 151933,
 					["Golrakahn"] = 124185,
 					["Ancião Unu"] = 152414,
-					["Malfunctioning Beastbot"] = 151933,
+					["OOX-Avenger/MG"] = 151296,
 					["Arachnoid Harvester"] = 154342,
 					["High Warlord Volrath"] = 143536,
 					["Mechagonian Nullifier"] = 151124,

@@ -9,7 +9,7 @@ DominosDB = {
 							["mode"] = "azerite",
 						},
 						["exp"] = {
-							["mode"] = "xp",
+							["mode"] = "reputation",
 						},
 					},
 				},

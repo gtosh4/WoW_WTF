@@ -1,21 +1,21 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [1]
-				"Toshpal|Area 52|Horde|120|PALADIN", -- [2]
+				"Toshaman|Area 52|Horde|120|SHAMAN", -- [1]
+				"Toshpriest|Area 52|Horde|120|PRIEST", -- [2]
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-	},
 	["profiles"] = {
-		["Toshdk - Kil'jaeden"] = {
+		["Toshpriest - Area 52"] = {
 		},
-		["Toshpal - Area 52"] = {
+		["Toshaman - Area 52"] = {
 		},
 	},
 }

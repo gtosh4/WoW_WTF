@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 99,
+	["session"] = 111,
 	["errors"] = {
 	},
 }

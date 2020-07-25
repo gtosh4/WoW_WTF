@@ -9,17 +9,10 @@ VExRT = {
 		["Toshpriest-Area52"] = "default",
 	},
 	["Encounter"] = {
-		["names"] = {
-			[2329] = "Wrathion",
-			[2337] = "Carapace of N'Zoth",
-			[2331] = "Ra-den the Despoiled",
-			[2333] = "The Hivemind",
-			[2344] = "N'Zoth the Corruptor",
-		},
 		["list"] = {
 			["Toshpriest"] = {
 			},
-			["Toshdk"] = {
+			["Toshaman"] = {
 			},
 			["Toshpal"] = {
 				"^2329^15^1595391773^122^1^19^467.04^Artsong", -- [1]
@@ -29,9 +22,22 @@ VExRT = {
 				"^2331^15^1595393330^173^1^27^473.65^Yarilys-Kil'jaeden", -- [5]
 				"^2337^15^1595393924^372^1^23^473.06^Maxxed-Mal'Ganis", -- [6]
 				"^2344^15^1595394487^541^1^23^472.93^Artsong", -- [7]
+				"^2345^16^1595651376^313^0^20^462.38^Versatillee-Mal'Ganis", -- [8]
+				"^2345^16^1595651796^406^0^20^461.40^Versatillee-Mal'Ganis", -- [9]
+				"^2345^16^1595652233^23^0^20^461.40^Judaasx", -- [10]
+				"^2345^16^1595652333^251^0^20^461.40^Versatillee-Mal'Ganis", -- [11]
+				"^2345^16^1595652710^410^1^20^461.40^Versatillee-Mal'Ganis", -- [12]
 			},
-			["Toshaman"] = {
+			["Toshdk"] = {
 			},
+		},
+		["names"] = {
+			[2329] = "Wrathion",
+			[2337] = "Carapace of N'Zoth",
+			[2331] = "Ra-den the Despoiled",
+			[2333] = "The Hivemind",
+			[2344] = "N'Zoth the Corruptor",
+			[2345] = "Il'gynoth, Corruption Reborn",
 		},
 	},
 	["Marks"] = {
@@ -55,35 +61,50 @@ VExRT = {
 		["gnGUIDs"] = {
 			["Dntyer-Illidan"] = 260,
 			["Doublehitt"] = 72,
+			["Oxclamation"] = 102,
+			["Itsyellowy"] = 257,
 			["Hysterìa-Illidan"] = 577,
 			["Yukios-Kil'jaeden"] = 264,
-			["Gummybuns"] = 269,
+			["Andruw"] = 577,
+			["Yukiox"] = 63,
+			["Gummybuns"] = 268,
 			["Bigbf-Hyjal"] = 259,
 			["Sciduckhunt"] = 253,
 			["Toshaman"] = 264,
 			["Shankntwist-BleedingHollow"] = 259,
-			["Rathux"] = 251,
+			["Rathux"] = 252,
 			["Toshpriest"] = 256,
-			["Illestchi-Barthilas"] = 269,
+			["Wilwar"] = 72,
+			["Evangelos"] = 250,
 			["Ybrik-Kil'jaeden"] = 253,
+			["Illestchi-Barthilas"] = 269,
 			["Baesong-Kil'jaeden"] = 71,
 			["Artsong"] = 253,
+			["Thunderrz"] = 253,
 			["Delpix"] = 267,
+			["Smytt"] = 253,
 			["Royalty"] = 66,
 			["Cohava-Illidan"] = 258,
-			["Illestt-Barthilas"] = 252,
-			["Maxxed-Mal'Ganis"] = 267,
+			["Durantye"] = 258,
+			["Haschwàlth-Ragnaros"] = 71,
 			["Yuffa-Kil'jaeden"] = 258,
+			["Maxxed-Mal'Ganis"] = 267,
+			["Delpi"] = 63,
+			["Haxpax-Kil'jaeden"] = 256,
+			["Illestt-Barthilas"] = 252,
+			["Holypenguin"] = 257,
+			["Solvèj"] = 259,
+			["Datavi"] = 259,
 			["Déviné"] = 72,
 			["Ricksstudent-Mal'Ganis"] = 270,
-			["Illiken-Kil'jaeden"] = 577,
+			["Warlockmania"] = 267,
 			["Toshdk"] = 252,
+			["Toshpal"] = 70,
+			["Illiken-Kil'jaeden"] = 577,
 			["Biggergf-Hyjal"] = 577,
-			["Solvèj"] = 259,
-			["Haxpax-Kil'jaeden"] = 256,
 			["Judaasx"] = 267,
-			["Haschwàlth-Ragnaros"] = 71,
-			["Toshpal"] = 65,
+			["Sci"] = 65,
+			["Versatillee-Mal'Ganis"] = 70,
 			["Scibolt"] = 267,
 			["Yarilys-Kil'jaeden"] = 253,
 		},
@@ -92,7 +113,7 @@ VExRT = {
 		},
 		["default_userCD"] = {
 		},
-		["Save"] = {
+		["userDB"] = {
 		},
 		["colSet"] = {
 			{
@@ -102,13 +123,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [1]
 			{
 				["enabled"] = true,
@@ -117,13 +138,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [2]
 			{
 				["enabled"] = true,
@@ -132,13 +153,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [3]
 			{
 				["frameGeneral"] = true,
@@ -146,13 +167,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [4]
 			{
 				["frameGeneral"] = true,
@@ -160,13 +181,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [5]
 			{
 				["frameGeneral"] = true,
@@ -174,13 +195,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [6]
 			{
 				["frameGeneral"] = true,
@@ -188,13 +209,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [7]
 			{
 				["frameGeneral"] = true,
@@ -202,13 +223,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [8]
 			{
 				["frameGeneral"] = true,
@@ -216,13 +237,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [9]
 			{
 				["frameGeneral"] = true,
@@ -230,13 +251,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [10]
 			{
 				["frameGeneral"] = true,
@@ -244,20 +265,20 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [11]
 		},
 		["Priority"] = {
 		},
 		["CDE"] = {
 		},
-		["userDB"] = {
+		["Save"] = {
 		},
 	},
 	["Attendance"] = {
@@ -284,14 +305,43 @@ VExRT = {
 				"LHysterìa-Illidan", -- [18]
 				"AHaschwàlth-Ragnaros", -- [19]
 				[36] = "CSciduckhunt",
-				["eI"] = 2329,
 				["k"] = true,
-				["t"] = 1595391895,
-				["eN"] = "Wrathion",
-				["d"] = 15,
-				["g"] = 19,
 				["c"] = "Toshpal-Area52",
+				["d"] = 15,
+				["eN"] = "Wrathion",
+				["t"] = 1595391895,
+				["g"] = 19,
+				["eI"] = 2329,
 			}, -- [1]
+			{
+				"DDatavi", -- [1]
+				"FEvangelos", -- [2]
+				"HDelpi", -- [3]
+				"IWarlockmania", -- [4]
+				"JGummybuns", -- [5]
+				"CSmytt", -- [6]
+				"FRathux", -- [7]
+				"CArtsong", -- [8]
+				"EDurantye", -- [9]
+				"BVersatillee-Mal'Ganis", -- [10]
+				"BToshpal", -- [11]
+				"BSci", -- [12]
+				"CThunderrz", -- [13]
+				"KOxclamation", -- [14]
+				"EItsyellowy", -- [15]
+				"HYukiox", -- [16]
+				"EHolypenguin", -- [17]
+				"AWilwar", -- [18]
+				"IJudaasx", -- [19]
+				"LAndruw", -- [20]
+				["eI"] = 2345,
+				["k"] = true,
+				["t"] = 1595653120,
+				["eN"] = "Il'gynoth, Corruption Reborn",
+				["d"] = 16,
+				["g"] = 20,
+				["c"] = "Toshpal-Area52",
+			}, -- [2]
 		},
 		["alts"] = {
 		},
@@ -300,96 +350,9 @@ VExRT = {
 		["ColorizeLowIlvl685"] = false,
 		["ColorizeNoEnch"] = true,
 		["ColorizeNoGems"] = true,
-		["ColorizeNoTopEnchGems"] = false,
 		["ColorizeLowIlvl"] = true,
+		["ColorizeNoTopEnchGems"] = false,
 		["ColorizeNoValorUpgrade"] = false,
-	},
-	["InviteTool"] = {
-		["Words"] = "инв inv byd штм 123",
-		["InvByChat"] = true,
-		["RaidDiff"] = 16,
-		["PromoteRank"] = 2,
-		["Ranks"] = {
-			true, -- [1]
-		},
-		["LootThreshold"] = 2,
-		["MasterLooters"] = "",
-		["LootMethod"] = "group",
-		["PromoteNames"] = "",
-		["OnlyGuild"] = true,
-		["Rank"] = 1,
-	},
-	["Addon"] = {
-		["Scale"] = 1,
-		["Version"] = 4170,
-		["PreVersion"] = 4170,
-		["IconMiniMapLeft"] = -43.8422319805596,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["IconMiniMapHide"] = true,
-		["Timer"] = 0.1,
-	},
-	["WhoPulled"] = {
-	},
-	["Profiles"] = {
-	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
-		},
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["Note"] = {
-		["BlackNames"] = {
-		},
-		["FontSize"] = 12,
-		["AutoLoad"] = {
-		},
-		["Width"] = 200.0001068115234,
-		["BlackLastUpdateName"] = {
-		},
-		["OnlyPromoted"] = true,
-		["Strata"] = "HIGH",
-		["Height"] = 100.0000534057617,
-		["BlackLastUpdateTime"] = {
-		},
-		["Black"] = {
-			"", -- [1]
-			"", -- [2]
-			"", -- [3]
-		},
-		["OptionsFormatting"] = true,
-	},
-	["RaidCheck"] = {
-		["ReadyCheckFrameOnlyRL"] = true,
-		["BuffsCheck"] = true,
-		["ReadyCheckFrame"] = true,
-		["ReadyCheckFrameTimerFade"] = 4,
-		["FlaskExp"] = 1,
-	},
-	["Logging"] = {
-	},
-	["MarksBar"] = {
-		["pulltimer"] = 10,
-		["pulltimer_right"] = 10,
-		["Strata"] = "HIGH",
-		["Show"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-			true, -- [5]
-		},
-	},
-	["VisNote"] = {
-		["data"] = {
-		},
-		["sync_data"] = {
-		},
 	},
 	["Timers"] = {
 		["specTimes"] = {
@@ -423,15 +386,102 @@ VExRT = {
 			[72] = 10,
 			[104] = 10,
 			[73] = 10,
-			[252] = 10,
-			[105] = 10,
-			[254] = 10,
-			[256] = 10,
-			[577] = 10,
 			[581] = 10,
+			[105] = 10,
+			[577] = 10,
+			[256] = 10,
+			[254] = 10,
+			[252] = 10,
 		},
 		["Type"] = 2,
-		["timeToKillAnalyze"] = 15,
 		["Strata"] = "HIGH",
+		["timeToKillAnalyze"] = 15,
+	},
+	["Addon"] = {
+		["IconMiniMapHide"] = true,
+		["Version"] = 4170,
+		["Scale"] = 1,
+		["PreVersion"] = 4170,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = -43.8422319805596,
+	},
+	["WhoPulled"] = {
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
+	["Profiles"] = {
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["AutoLoad"] = {
+		},
+		["Width"] = 200.0001068115234,
+		["BlackLastUpdateName"] = {
+		},
+		["OnlyPromoted"] = true,
+		["Strata"] = "HIGH",
+		["Height"] = 100.0000534057617,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["BlackLastUpdateTime"] = {
+		},
+		["OptionsFormatting"] = true,
+	},
+	["RaidCheck"] = {
+		["ReadyCheckFrameOnlyRL"] = true,
+		["BuffsCheck"] = true,
+		["ReadyCheckFrame"] = true,
+		["ReadyCheckFrameTimerFade"] = 4,
+		["FlaskExp"] = 1,
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["pulltimer"] = 10,
+		["pulltimer_right"] = 10,
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+		},
+		["Strata"] = "HIGH",
+	},
+	["VisNote"] = {
+		["data"] = {
+		},
+		["sync_data"] = {
+		},
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 2,
+		["Ranks"] = {
+			true, -- [1]
+		},
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
 	},
 }

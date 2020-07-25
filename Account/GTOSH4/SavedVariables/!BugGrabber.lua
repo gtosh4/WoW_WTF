@@ -1,30 +1,30 @@
 
 BugGrabberDB = {
+	["session"] = 66,
 	["lastSanitation"] = 3,
-	["session"] = 63,
 	["errors"] = {
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_us_alliance_characters.lua",
-			["time"] = "2020/07/20 05:06:37",
 			["session"] = 5,
+			["time"] = "2020/07/20 05:06:37",
 			["counter"] = 2,
 		}, -- [1]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_us_alliance_lookup.lua",
-			["time"] = "2020/07/20 05:06:37",
 			["session"] = 5,
+			["time"] = "2020/07/20 05:06:37",
 			["counter"] = 2,
 		}, -- [2]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_us_alliance_characters.lua",
-			["time"] = "2020/07/20 05:06:37",
 			["session"] = 5,
+			["time"] = "2020/07/20 05:06:37",
 			["counter"] = 3,
 		}, -- [3]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_us_alliance_lookup.lua",
-			["time"] = "2020/07/20 05:06:37",
 			["session"] = 5,
+			["time"] = "2020/07/20 05:06:37",
 			["counter"] = 3,
 		}, -- [4]
 		{
@@ -58,38 +58,38 @@ BugGrabberDB = {
 		}, -- [8]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_characters.lua",
-			["time"] = "2020/07/20 04:59:40",
 			["session"] = 56,
+			["time"] = "2020/07/20 04:59:40",
 			["counter"] = 20,
 		}, -- [9]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_lookup.lua",
-			["time"] = "2020/07/20 04:59:40",
 			["session"] = 56,
+			["time"] = "2020/07/20 04:59:40",
 			["counter"] = 20,
 		}, -- [10]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_characters.lua",
-			["time"] = "2020/07/20 04:59:40",
 			["session"] = 56,
+			["time"] = "2020/07/20 04:59:40",
 			["counter"] = 20,
 		}, -- [11]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_lookup.lua",
-			["time"] = "2020/07/20 04:59:40",
 			["session"] = 56,
+			["time"] = "2020/07/20 04:59:40",
 			["counter"] = 20,
 		}, -- [12]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_characters.lua",
-			["time"] = "2020/07/20 04:59:40",
 			["session"] = 56,
+			["time"] = "2020/07/20 04:59:40",
 			["counter"] = 10,
 		}, -- [13]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_lookup.lua",
-			["time"] = "2020/07/20 04:59:40",
 			["session"] = 56,
+			["time"] = "2020/07/20 04:59:40",
 			["counter"] = 10,
 		}, -- [14]
 		{
@@ -108,5 +108,13 @@ BugGrabberDB = {
 			["session"] = 62,
 			["counter"] = 4,
 		}, -- [16]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'OverrideActionBarButton5:Show()'.",
+			["time"] = "2020/07/25 00:41:12",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:368: in function <Interface\\FrameXML\\ActionButton.lua:342>\n[string \"=[C]\"]: in function `ActionButton_Update'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:736: in function `ActionButton_OnEvent'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:211: in function <Interface\\FrameXML\\ActionButton.lua:208>",
+			["session"] = 65,
+			["counter"] = 1,
+		}, -- [17]
 	},
 }
