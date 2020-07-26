@@ -83,13 +83,13 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["BWEmphasizeCountdownMessageAnchor_y"] = 475.5199112463015,
-					["BWEmphasizeMessageAnchor_x"] = 853.3330278015201,
+					["BWEmphasizeMessageAnchor_x"] = 857.599590206155,
 					["BWEmphasizeCountdownMessageAnchor_x"] = 905.0667766451807,
-					["BWMessageAnchor_y"] = 553.6000266885749,
+					["BWMessageAnchor_y"] = 642.1333059597018,
 					["align"] = "LEFT",
-					["BWMessageAnchor_x"] = 858.667246432291,
+					["BWMessageAnchor_x"] = 861.8674026107619,
 					["fontName"] = "Friz Quadrata TT",
-					["BWEmphasizeMessageAnchor_y"] = 365.119991838932,
+					["BWEmphasizeMessageAnchor_y"] = 524.586667962074,
 				},
 			},
 		},
@@ -168,14 +168,14 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
 		["BigWigs_Bosses_King Mechagon"] = {
 			["profiles"] = {
 				["Default"] = {
 					[283551] = 3129591,
 				},
 			},
+		},
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Bosses_Skycap'n Kragg"] = {
 			["profiles"] = {
@@ -207,18 +207,18 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["barStyle"] = "ElvUI",
-					["BigWigsEmphasizeAnchor_height"] = 22.00000190734863,
-					["BigWigsAnchor_width"] = 220.0000610351563,
-					["BigWigsAnchor_y"] = 258.9872988986826,
-					["BigWigsEmphasizeAnchor_x"] = 683.7335784673633,
+					["BigWigsEmphasizeAnchor_height"] = 24.50000190734863,
+					["BigWigsAnchor_width"] = 220.0001068115234,
+					["BigWigsAnchor_y"] = 319.2539381766183,
+					["BigWigsEmphasizeAnchor_x"] = 685.8670159196772,
 					["BigWigsAnchor_height"] = 19.99999237060547,
 					["texture"] = "Smooth v2",
-					["emphasizeGrowup"] = true,
-					["BigWigsAnchor_x"] = 466.6678801941598,
+					["emphasizeGrowup"] = false,
+					["BigWigsAnchor_x"] = 390.9344053244349,
 					["spacing"] = 4,
-					["BigWigsEmphasizeAnchor_y"] = 289.9197200822891,
 					["fontSizeEmph"] = 12,
-					["BigWigsEmphasizeAnchor_width"] = 254.1667327880859,
+					["BigWigsEmphasizeAnchor_width"] = 149.9999542236328,
+					["BigWigsEmphasizeAnchor_y"] = 231.2531979560881,
 					["emphasizeTime"] = 15,
 				},
 			},
@@ -428,8 +428,8 @@ BigWigsStatsDB = {
 		},
 		[2375] = {
 			["heroic"] = {
-				["kills"] = 1,
-				["wipes"] = 1,
+				["kills"] = 2,
+				["wipes"] = 4,
 				["best"] = 505.3360000001267,
 			},
 		},

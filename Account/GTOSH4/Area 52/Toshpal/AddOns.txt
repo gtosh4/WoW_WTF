@@ -19,3 +19,6 @@ RaiderIO_DB_TW_A_R: disabled
 RaiderIO_DB_TW_H_R: disabled
 BigWigs_Voice: enabled
 BigWigs_Nyalotha: enabled
+OPie_Classic: disabled
+LittleWigs: enabled
+PitBull4: disabled

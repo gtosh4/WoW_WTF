@@ -24,3 +24,6 @@ SexyMap: enabled
 BigWigs_CrucibleOfStorms: enabled
 BigWigs_Nyalotha: enabled
 LittleWigs: enabled
+OPie_Classic: disabled
+ShadowedUnitFrames: enabled
+PitBull4: disabled

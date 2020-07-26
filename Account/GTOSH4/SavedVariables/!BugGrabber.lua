@@ -1,30 +1,30 @@
 
 BugGrabberDB = {
-	["session"] = 66,
 	["lastSanitation"] = 3,
+	["session"] = 75,
 	["errors"] = {
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_us_alliance_characters.lua",
-			["session"] = 5,
 			["time"] = "2020/07/20 05:06:37",
+			["session"] = 5,
 			["counter"] = 2,
 		}, -- [1]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_us_alliance_lookup.lua",
-			["session"] = 5,
 			["time"] = "2020/07/20 05:06:37",
+			["session"] = 5,
 			["counter"] = 2,
 		}, -- [2]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_us_alliance_characters.lua",
-			["session"] = 5,
 			["time"] = "2020/07/20 05:06:37",
+			["session"] = 5,
 			["counter"] = 3,
 		}, -- [3]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_us_alliance_lookup.lua",
-			["session"] = 5,
 			["time"] = "2020/07/20 05:06:37",
+			["session"] = 5,
 			["counter"] = 3,
 		}, -- [4]
 		{
@@ -58,38 +58,38 @@ BugGrabberDB = {
 		}, -- [8]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_characters.lua",
-			["session"] = 56,
 			["time"] = "2020/07/20 04:59:40",
+			["session"] = 56,
 			["counter"] = 20,
 		}, -- [9]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_lookup.lua",
-			["session"] = 56,
 			["time"] = "2020/07/20 04:59:40",
+			["session"] = 56,
 			["counter"] = 20,
 		}, -- [10]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_characters.lua",
-			["session"] = 56,
 			["time"] = "2020/07/20 04:59:40",
+			["session"] = 56,
 			["counter"] = 20,
 		}, -- [11]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_lookup.lua",
-			["session"] = 56,
 			["time"] = "2020/07/20 04:59:40",
+			["session"] = 56,
 			["counter"] = 20,
 		}, -- [12]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_characters.lua",
-			["session"] = 56,
 			["time"] = "2020/07/20 04:59:40",
+			["session"] = 56,
 			["counter"] = 10,
 		}, -- [13]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_lookup.lua",
-			["session"] = 56,
 			["time"] = "2020/07/20 04:59:40",
+			["session"] = 56,
 			["counter"] = 10,
 		}, -- [14]
 		{

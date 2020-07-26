@@ -6,6 +6,9 @@ favsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["showClass"] = true,
+			["classColorOtherProject"] = 2,
+			["showLevel"] = true,
 		},
 	},
 }

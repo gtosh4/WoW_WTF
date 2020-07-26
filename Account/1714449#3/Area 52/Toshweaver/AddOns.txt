@@ -13,3 +13,6 @@ RaiderIO_DB_EU_A: disabled
 RaiderIO_DB_US_A: disabled
 RaiderIO_DB_US_A_R: disabled
 SexyMap: enabled
+OPie_Classic: disabled
+ShadowedUnitFrames: enabled
+PitBull4: disabled
