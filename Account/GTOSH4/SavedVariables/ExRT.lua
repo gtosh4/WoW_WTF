@@ -3,10 +3,10 @@ VExRT = {
 	["BattleRes"] = {
 	},
 	["ProfileKeys"] = {
-		["Toshaman-Area52"] = "default",
 		["Toshdk-Kil'jaeden"] = "default",
-		["Toshpal-Area52"] = "default",
 		["Toshpriest-Area52"] = "default",
+		["Toshpal-Area52"] = "default",
+		["Toshaman-Area52"] = "default",
 	},
 	["Encounter"] = {
 		["names"] = {
@@ -87,11 +87,11 @@ VExRT = {
 			["Karasama-Kel'Thuzad"] = 66,
 			["Evangelos"] = 250,
 			["Wilwar"] = 72,
-			["Artsong"] = 253,
+			["Smytt"] = 253,
 			["Ybrik-Kil'jaeden"] = 253,
 			["Sci"] = 65,
 			["Baesong-Kil'jaeden"] = 71,
-			["Smytt"] = 253,
+			["Artsong"] = 253,
 			["Thunderrz"] = 253,
 			["Delpix"] = 267,
 			["Biggergf-Hyjal"] = 577,
@@ -317,13 +317,13 @@ VExRT = {
 				"LHysterìa-Illidan", -- [18]
 				"AHaschwàlth-Ragnaros", -- [19]
 				[36] = "CSciduckhunt",
-				["eI"] = 2329,
-				["k"] = true,
-				["t"] = 1595391895,
 				["eN"] = "Wrathion",
+				["c"] = "Toshpal-Area52",
+				["t"] = 1595391895,
+				["eI"] = 2329,
 				["d"] = 15,
 				["g"] = 19,
-				["c"] = "Toshpal-Area52",
+				["k"] = true,
 			}, -- [1]
 			{
 				"DDatavi", -- [1]
@@ -346,13 +346,13 @@ VExRT = {
 				"AWilwar", -- [18]
 				"IJudaasx", -- [19]
 				"LAndruw", -- [20]
-				["c"] = "Toshpal-Area52",
 				["k"] = true,
+				["c"] = "Toshpal-Area52",
 				["d"] = 16,
-				["eI"] = 2345,
+				["eN"] = "Il'gynoth, Corruption Reborn",
 				["t"] = 1595653120,
 				["g"] = 20,
-				["eN"] = "Il'gynoth, Corruption Reborn",
+				["eI"] = 2345,
 			}, -- [2]
 		},
 		["alts"] = {
@@ -382,13 +382,13 @@ VExRT = {
 		["Rank"] = 1,
 	},
 	["Addon"] = {
-		["PreVersion"] = 4170,
-		["Version"] = 4170,
 		["IconMiniMapLeft"] = -43.8422319805596,
+		["Version"] = 4170,
 		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["Scale"] = 1,
 		["IconMiniMapHide"] = true,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["PreVersion"] = 4170,
+		["Scale"] = 1,
 	},
 	["WhoPulled"] = {
 	},

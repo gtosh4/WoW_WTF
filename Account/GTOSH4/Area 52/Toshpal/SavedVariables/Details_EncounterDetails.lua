@@ -1374,13 +1374,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Datavi",
 		},
-		[303344] = {
+		[315097] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Smytt",
+			["source"] = "Il'gynoth",
 		},
 		[307048] = {
 			["school"] = 32,
@@ -1406,14 +1407,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mindgrasp Stalker",
 		},
-		[315097] = {
+		[303344] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Il'gynoth",
+			["source"] = "Smytt",
 		},
 		[260066] = {
 			["school"] = 1,
@@ -1493,14 +1493,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Block Warden",
 		},
-		[309991] = {
+		[212739] = {
 			["school"] = 32,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Psychus",
+			["source"] = "Rathux",
 		},
 		[309990] = {
 			["school"] = 32,
@@ -1532,12 +1530,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Datavi",
 		},
-		[212739] = {
+		[309991] = {
 			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Rathux",
+			["source"] = "Psychus",
 		},
 		[269239] = {
 			["school"] = 1,
@@ -1910,13 +1910,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-den",
 		},
-		[288158] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[257777] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Datavi",
+			["source"] = "Jes Howlis",
 		},
 		[193455] = {
 			["school"] = 1,
@@ -2206,17 +2210,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mind's Eye",
 		},
-		[306819] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Ra-den",
-		},
 		[27576] = {
 			["school"] = 1,
 			["token"] = {
@@ -2224,6 +2217,15 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Datavi",
+		},
+		[2948] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Delpi",
 		},
 		[269238] = {
 			["school"] = 1,
@@ -2321,14 +2323,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gara",
 		},
-		[2948] = {
-			["school"] = 4,
+		[306819] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Delpi",
+			["source"] = "Ra-den",
 		},
 		[306184] = {
 			["school"] = 32,
@@ -2480,17 +2484,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Taistoi-Illidan",
 		},
-		[257777] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[288158] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Jes Howlis",
+			["source"] = "Datavi",
 		},
 		[310788] = {
 			["school"] = 1,

@@ -6,6 +6,16 @@ DeathGraphsDBDeaths = {
 		["name"] = "Wrathion",
 		["id"] = 2368,
 		["diff"] = 15,
+		["player_db"] = {
+			["Artsong"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Artsong",
+				["class"] = "HUNTER",
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -19,16 +29,6 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
 	},
 	["237215"] = {
 		["hash"] = "237215",
@@ -36,6 +36,16 @@ DeathGraphsDBDeaths = {
 		["name"] = "The Hivemind",
 		["id"] = 2372,
 		["diff"] = 15,
+		["player_db"] = {
+			["Baesong-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Baesong-Kil'jaeden",
+				["class"] = "WARRIOR",
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 5,
@@ -47,16 +57,6 @@ DeathGraphsDBDeaths = {
 			["encounter"] = "The Hivemind",
 			["diff"] = 15,
 		},
-		["player_db"] = {
-			["Baesong-Kil'jaeden"] = {
-				["name"] = "Baesong-Kil'jaeden",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
 	},
 	["236615"] = {
 		["hash"] = "236615",
@@ -64,6 +64,40 @@ DeathGraphsDBDeaths = {
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
 		["diff"] = 15,
+		["player_db"] = {
+			["Artsong"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Artsong",
+				["class"] = "HUNTER",
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Maxxed-Mal'Ganis",
+				["class"] = "WARLOCK",
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Haxpax-Kil'jaeden",
+				["class"] = "PRIEST",
+			},
+			["Baesong-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Baesong-Kil'jaeden",
+				["class"] = "WARRIOR",
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 11,
@@ -77,40 +111,6 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["name"] = "Maxxed-Mal'Ganis",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Haxpax-Kil'jaeden"] = {
-				["name"] = "Haxpax-Kil'jaeden",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Baesong-Kil'jaeden"] = {
-				["name"] = "Baesong-Kil'jaeden",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
 	},
 	["236415"] = {
 		["hash"] = "236415",
@@ -118,6 +118,48 @@ DeathGraphsDBDeaths = {
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
 		["diff"] = 15,
+		["player_db"] = {
+			["Royalty"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Royalty",
+				["class"] = "PALADIN",
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Ybrik-Kil'jaeden",
+				["class"] = "HUNTER",
+			},
+			["Artsong"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Artsong",
+				["class"] = "HUNTER",
+			},
+			["Cohava-Illidan"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Cohava-Illidan",
+				["class"] = "PRIEST",
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Yarilys-Kil'jaeden",
+				["class"] = "HUNTER",
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 10,
@@ -130,48 +172,6 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["diff"] = 15,
 		},
-		["player_db"] = {
-			["Royalty"] = {
-				["name"] = "Royalty",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["name"] = "Ybrik-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Cohava-Illidan"] = {
-				["name"] = "Cohava-Illidan",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["name"] = "Yarilys-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
 	},
 	["237515"] = {
 		["hash"] = "237515",
@@ -179,6 +179,56 @@ DeathGraphsDBDeaths = {
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
 		["diff"] = 15,
+		["player_db"] = {
+			["Ybrik-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Ybrik-Kil'jaeden",
+				["class"] = "HUNTER",
+			},
+			["Illestt-Barthilas"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Illestt-Barthilas",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Judaasx"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Judaasx",
+				["class"] = "WARLOCK",
+			},
+			["Artsong"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Artsong",
+				["class"] = "HUNTER",
+			},
+			["Taistoi-Illidan"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Taistoi-Illidan",
+				["class"] = "PALADIN",
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Yarilys-Kil'jaeden",
+				["class"] = "HUNTER",
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 12,
@@ -192,168 +242,12 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Ybrik-Kil'jaeden"] = {
-				["name"] = "Ybrik-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Illestt-Barthilas"] = {
-				["name"] = "Illestt-Barthilas",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Judaasx"] = {
-				["name"] = "Judaasx",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Taistoi-Illidan"] = {
-				["name"] = "Taistoi-Illidan",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["name"] = "Yarilys-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
 	},
 	["237416"] = {
 		["hash"] = "237416",
 		["type"] = "deaths",
 		["name"] = "Il'gynoth, Corruption Reborn",
 		["id"] = 2374,
-		["player_db"] = {
-			["Holypenguin"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Holypenguin",
-				["overall"] = {
-				},
-			},
-			["Oxclamation"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Oxclamation",
-				["overall"] = {
-				},
-			},
-			["Smytt"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Smytt",
-				["overall"] = {
-				},
-			},
-			["Sci"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Sci",
-				["overall"] = {
-				},
-			},
-			["Warlockmania"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Warlockmania",
-				["overall"] = {
-				},
-			},
-			["Toshpal"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Toshpal",
-				["overall"] = {
-				},
-			},
-			["Durantye"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Durantye",
-				["overall"] = {
-				},
-			},
-			["Rathux"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Rathux",
-				["overall"] = {
-				},
-			},
-			["Andruw"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Andruw",
-				["overall"] = {
-				},
-			},
-			["Itsyellowy"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Itsyellowy",
-				["overall"] = {
-				},
-			},
-			["Versatillee-Mal'Ganis"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Versatillee-Mal'Ganis",
-				["overall"] = {
-				},
-			},
-			["Artsong"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Artsong",
-				["overall"] = {
-				},
-			},
-			["Wilwar"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Wilwar",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
 			["index"] = 8,
@@ -366,6 +260,112 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["encounter"] = "Il'gynoth, Corruption Reborn",
 		},
+		["player_db"] = {
+			["Holypenguin"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Holypenguin",
+			},
+			["Oxclamation"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Oxclamation",
+			},
+			["Smytt"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Smytt",
+			},
+			["Sci"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sci",
+			},
+			["Warlockmania"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Warlockmania",
+			},
+			["Toshpal"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Toshpal",
+			},
+			["Rathux"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Rathux",
+			},
+			["Durantye"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Durantye",
+			},
+			["Andruw"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Andruw",
+			},
+			["Itsyellowy"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Itsyellowy",
+			},
+			["Versatillee-Mal'Ganis"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Versatillee-Mal'Ganis",
+			},
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Wilwar"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Wilwar",
+			},
+		},
 		["diff"] = 16,
 	},
 }
@@ -376,19 +376,6 @@ DeathGraphsDBEndurance = {
 		["name"] = "Wrathion",
 		["id"] = 2368,
 		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 1,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Wrathion",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Wrathion",
-			["diff"] = 15,
-			["id"] = 2329,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -529,6 +516,19 @@ DeathGraphsDBEndurance = {
 				["class"] = "PRIEST",
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 1,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Wrathion",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Wrathion",
+			["diff"] = 15,
+			["id"] = 2329,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
 	},
 	["237215"] = {
 		["hash"] = "237215",
@@ -536,17 +536,6 @@ DeathGraphsDBEndurance = {
 		["name"] = "The Hivemind",
 		["id"] = 2372,
 		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 5,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
-			["mapid"] = 2217,
-			["name"] = "The Hivemind",
-			["ej_instance_id"] = 1180,
-			["encounter"] = "The Hivemind",
-			["diff"] = 15,
-		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -736,6 +725,17 @@ DeathGraphsDBEndurance = {
 				["class"] = "PRIEST",
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 5,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2333,
+			["mapid"] = 2217,
+			["name"] = "The Hivemind",
+			["ej_instance_id"] = 1180,
+			["encounter"] = "The Hivemind",
+			["diff"] = 15,
+		},
 	},
 	["236615"] = {
 		["hash"] = "236615",
@@ -743,19 +743,6 @@ DeathGraphsDBEndurance = {
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
 		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 11,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Carapace of N'Zoth",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Carapace of N'Zoth",
-			["diff"] = 15,
-			["id"] = 2337,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -934,6 +921,19 @@ DeathGraphsDBEndurance = {
 				["class"] = "PRIEST",
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 11,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Carapace of N'Zoth",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Carapace of N'Zoth",
+			["diff"] = 15,
+			["id"] = 2337,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
 	},
 	["236415"] = {
 		["hash"] = "236415",
@@ -941,18 +941,6 @@ DeathGraphsDBEndurance = {
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
 		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 10,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2331,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Ra-den the Despoiled",
-			["encounter"] = "Ra-den the Despoiled",
-			["ej_instance_id"] = 1180,
-			["diff"] = 15,
-		},
 		["player_db"] = {
 			["Déviné"] = {
 				["encounters"] = 1,
@@ -1055,19 +1043,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
+			["Haxpax-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
 			["Rathux"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
-			},
-			["Biggergf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Dntyer-Illidan"] = {
 				["encounters"] = 1,
@@ -1116,12 +1104,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "WARRIOR",
 			},
-			["Haxpax-Kil'jaeden"] = {
+			["Biggergf-Hyjal"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
+				["class"] = "DEMONHUNTER",
 			},
 			["Judaasx"] = {
 				["encounters"] = 1,
@@ -1159,6 +1147,18 @@ DeathGraphsDBEndurance = {
 				["class"] = "PRIEST",
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 10,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2331,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Ra-den the Despoiled",
+			["encounter"] = "Ra-den the Despoiled",
+			["ej_instance_id"] = 1180,
+			["diff"] = 15,
+		},
 	},
 	["237515"] = {
 		["hash"] = "237515",
@@ -1166,19 +1166,6 @@ DeathGraphsDBEndurance = {
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
 		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 12,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "N'Zoth the Corruptor",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "N'Zoth the Corruptor",
-			["diff"] = 15,
-			["id"] = 2344,
-			["ej_instance_id"] = 1180,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -1286,12 +1273,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Sciduckhunt"] = {
+			["Toshpal"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
+				["class"] = "PALADIN",
 			},
 			["Cohava-Illidan"] = {
 				["encounters"] = 1,
@@ -1335,12 +1322,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "WARRIOR",
 			},
-			["Toshpal"] = {
+			["Sciduckhunt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
+				["class"] = "HUNTER",
 			},
 			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
@@ -1357,12 +1344,37 @@ DeathGraphsDBEndurance = {
 				["class"] = "PRIEST",
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 12,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "N'Zoth the Corruptor",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "N'Zoth the Corruptor",
+			["diff"] = 15,
+			["id"] = 2344,
+			["ej_instance_id"] = 1180,
+			["killed"] = true,
+		},
 	},
 	["237416"] = {
 		["hash"] = "237416",
 		["type"] = "endurance",
 		["name"] = "Il'gynoth, Corruption Reborn",
 		["id"] = 2374,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 8,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2345,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Il'gynoth, Corruption Reborn",
+			["diff"] = 16,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Il'gynoth, Corruption Reborn",
+		},
 		["player_db"] = {
 			["Oxclamation"] = {
 				["encounters"] = 4,
@@ -1559,18 +1571,6 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 8,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2345,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Il'gynoth, Corruption Reborn",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
-			["encounter"] = "Il'gynoth, Corruption Reborn",
 		},
 		["diff"] = 16,
 	},
