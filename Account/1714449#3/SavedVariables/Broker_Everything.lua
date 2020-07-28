@@ -27,16 +27,10 @@ Broker_Everything_DataDB = {
 Broker_Everything_CharacterDB = {
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
+		"Toshaman-Area 52", -- [2]
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -62,14 +56,30 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 		["level"] = 120,
 		["gold"] = 10753845943,
 		["orderId"] = 1,
+	},
+	["Toshaman-Area 52"] = {
+		["race"] = "Goblin",
+		["name"] = "Toshaman",
+		["faction"] = "Horde",
+		["orderId"] = 2,
+		["class"] = "SHAMAN",
+		["level"] = 120,
 	},
 }
 Broker_Everything_AceDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

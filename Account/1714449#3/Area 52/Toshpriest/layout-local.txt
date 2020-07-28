@@ -121,8 +121,8 @@ H: 28
 Frame: ViragDevToolFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -331
-Y: 35
+X: -210
+Y: 62
 W: 771
 H: 895
 Frame: ChatFrameChannelButton

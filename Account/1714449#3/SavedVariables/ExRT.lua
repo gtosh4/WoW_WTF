@@ -46,32 +46,58 @@ VExRT = {
 				"^2344^15^1595733249^410^0^12^474.26^Cihua-Garrosh", -- [35]
 				"^2344^15^1595734356^524^1^10^457.52^Slaught-Kel'Thuzad", -- [36]
 				"^2130^8^1595837325^139^1^5^478.38^Toshpriest", -- [37]
+				"^2292^8^1595904052^51^1^5^476.64^", -- [38]
+				"^2312^8^1595904466^48^1^5^476.64^", -- [39]
+				"^2290^8^1595904729^52^1^5^476.64^", -- [40]
+				"^2291^8^1595904956^290^1^5^476.64^Illiken-Kil'jaeden", -- [41]
+				"^2101^8^1595906197^128^1^5^479.18^", -- [42]
+				"^2102^8^1595907082^111^1^5^479.18^", -- [43]
+				"^2103^8^1595907900^133^1^5^479.18^Sci", -- [44]
+				"^2104^8^1595908163^114^0^5^479.18^Toshpriest", -- [45]
+				"^2104^8^1595908371^232^0^5^479.18^Delpi", -- [46]
+				"^2104^8^1595908820^145^0^5^479.18^Artsong", -- [47]
+				"^2104^8^1595909168^133^1^5^478.98^", -- [48]
+				"^2113^8^1595910734^114^1^5^479.44^", -- [49]
+				"^2114^8^1595911358^83^1^5^479.44^", -- [50]
+				"^2115^8^1595911453^4^0^5^479.44^", -- [51]
+				"^2115^8^1595911684^101^1^5^479.44^", -- [52]
+				"^2116^8^1595912107^110^1^5^479.44^", -- [53]
+				"^2117^8^1595912323^109^1^5^479.44^", -- [54]
 			},
 			["Toshaman"] = {
 			},
 		},
 		["names"] = {
 			[2336] = "Vexiona",
-			[2344] = "N'Zoth the Corruptor",
-			[2257] = "Tussle Tonks",
 			[2290] = "King Gobbamak",
+			[2344] = "N'Zoth the Corruptor",
+			[2117] = "Gorak Tul",
+			[2116] = "Lord and Lady Waycrest",
+			[2257] = "Tussle Tonks",
+			[2259] = "Machinist's Garden",
 			[2292] = "Gunker",
+			[2104] = "Overseer Korgus",
 			[2327] = "Maut",
 			[2329] = "Wrathion",
 			[2331] = "Ra-den the Despoiled",
 			[2333] = "The Hivemind",
 			[2335] = "Shad'har the Insatiable",
 			[2337] = "Carapace of N'Zoth",
-			[2312] = "Trixie & Naeno",
+			[2102] = "Jes Howlis",
+			[2260] = "King Mechagon",
+			[2343] = "Drest'agath",
 			[2345] = "Il'gynoth, Corruption Reborn",
 			[2130] = "Aqu'sirr",
+			[2101] = "The Sand Queen",
 			[2258] = "K.U.-J.0.",
-			[2260] = "King Mechagon",
-			[2328] = "Dark Inquisitor Xanesh",
 			[2291] = "HK-8 Aerial Oppression Unit",
-			[2259] = "Machinist's Garden",
+			[2103] = "Knight Captain Valyri",
+			[2312] = "Trixie & Naeno",
+			[2328] = "Dark Inquisitor Xanesh",
+			[2113] = "Heartsbane Triad",
+			[2115] = "Raal the Gluttonous",
 			[2334] = "Prophet Skitra",
-			[2343] = "Drest'agath",
+			[2114] = "Soulbound Goliath",
 		},
 	},
 	["Marks"] = {
@@ -144,9 +170,11 @@ VExRT = {
 			["Nv"] = 102,
 			["Kashh-Sargeras"] = 103,
 			["Elliekinzs-BurningLegion"] = 267,
+			["Horroz-Zul'jin"] = 73,
 			["Watergun-Kil'jaeden"] = 253,
 			["Kazrokh-Azralon"] = 250,
 			["Toshaman"] = 264,
+			["Illiken-Kil'jaeden"] = 577,
 			["Moonßlight"] = 252,
 			["Rathux"] = 251,
 			["Toshpal"] = 65,
@@ -155,10 +183,10 @@ VExRT = {
 			["Scitama-Kil'jaeden"] = 270,
 			["Wilwar"] = 72,
 			["Angronn-Kil'jaeden"] = 252,
-			["Kazriil-Illidan"] = 577,
-			["Artsong"] = 253,
 			["Máchó-Quel'Thalas"] = 253,
+			["Kazriil-Illidan"] = 577,
 			["Smytt"] = 253,
+			["Artsong"] = 253,
 			["Thunderrz"] = 253,
 			["Toshpriest"] = 257,
 			["Mindless-Baelgun"] = 577,
@@ -176,9 +204,9 @@ VExRT = {
 			["Datavi"] = 259,
 			["Archbaroness-Daggerspine"] = 577,
 			["Shadowduum-Thrall"] = 251,
-			["Horroz-Zul'jin"] = 73,
+			["Scitron"] = 264,
+			["Sci"] = 70,
 			["Snoopdougie-Zul'jin"] = 267,
-			["Sci"] = 65,
 			["Slaught-Kel'Thuzad"] = 71,
 			["Cihua-Garrosh"] = 257,
 			["Judaasx"] = 267,
@@ -385,13 +413,13 @@ VExRT = {
 				"CMáchó-Quel'Thalas", -- [19]
 				"LBadbiih-Lightning'sBlade", -- [20]
 				"ADisclosed-Lightning'sBlade", -- [21]
-				["eN"] = "Wrathion",
-				["c"] = "Toshpriest-Area52",
-				["t"] = 1595386582,
 				["eI"] = 2329,
+				["k"] = true,
+				["t"] = 1595386582,
+				["eN"] = "Wrathion",
 				["d"] = 15,
 				["g"] = 21,
-				["k"] = true,
+				["c"] = "Toshpriest-Area52",
 			}, -- [1]
 			{
 				"DDatavi", -- [1]
@@ -449,11 +477,11 @@ VExRT = {
 				"BSlurpinho", -- [18]
 				"IJudaasx", -- [19]
 				"HArnbjorn", -- [20]
-				[26] = "AWilwar",
 				["c"] = "Toshpriest-Area52",
+				[26] = "AWilwar",
 				[27] = "FRathux",
 				[28] = "EDurantye",
-				[29] = "EToshpriest",
+				["d"] = 16,
 				[30] = "FMoonßlight",
 				[37] = "LLyuneria",
 				["eN"] = "N'Zoth the Corruptor",
@@ -463,7 +491,7 @@ VExRT = {
 				["eI"] = 2344,
 				["g"] = 20,
 				["t"] = 1595645289,
-				["d"] = 16,
+				[29] = "EToshpriest",
 			}, -- [3]
 			{
 				"DDatavi", -- [1]
@@ -486,11 +514,11 @@ VExRT = {
 				"AWilwar", -- [18]
 				"IJudaasx", -- [19]
 				"HDelpi", -- [20]
-				[29] = "BSci",
-				["c"] = "Toshpriest-Area52",
+				["d"] = 16,
+				[26] = "LLyuneria",
 				[27] = "EItsyellowy",
 				[28] = "JChoplo",
-				["d"] = 16,
+				[29] = "BSci",
 				[30] = "BSlurpinho",
 				["t"] = 1595649146,
 				["g"] = 20,
@@ -500,7 +528,7 @@ VExRT = {
 				["eI"] = 2336,
 				["eN"] = "Vexiona",
 				[37] = "LIllsong",
-				[26] = "LLyuneria",
+				["c"] = "Toshpriest-Area52",
 			}, -- [4]
 			{
 				"CWonderwise-Zul'jin", -- [1]
@@ -513,13 +541,13 @@ VExRT = {
 				"KShaneyboom-Zul'jin", -- [8]
 				"GTroghast", -- [9]
 				"ISnoopdougie-Zul'jin", -- [10]
-				["eN"] = "N'Zoth the Corruptor",
-				["k"] = true,
-				["t"] = 1595734880,
 				["eI"] = 2344,
+				["c"] = "Toshpriest-Area52",
+				["t"] = 1595734880,
+				["eN"] = "N'Zoth the Corruptor",
 				["d"] = 15,
 				["g"] = 10,
-				["c"] = "Toshpriest-Area52",
+				["k"] = true,
 			}, -- [5]
 		},
 		["alts"] = {
@@ -577,13 +605,13 @@ VExRT = {
 		["timeToKillAnalyze"] = 15,
 	},
 	["Addon"] = {
-		["PreVersion"] = 4170,
-		["Version"] = 4170,
-		["IconMiniMapLeft"] = -43.8422319805596,
-		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["Scale"] = 1,
 		["IconMiniMapHide"] = true,
+		["Version"] = 4170,
+		["Scale"] = 1,
+		["PreVersion"] = 4170,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = -43.8422319805596,
 	},
 	["WhoPulled"] = {
 	},

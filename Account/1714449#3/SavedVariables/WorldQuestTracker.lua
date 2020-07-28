@@ -203,34 +203,39 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[51617] = {
-						["expireAt"] = 1595862088,
-						["rewardAmount"] = 248,
+					[51626] = {
+						["expireAt"] = 1595948439,
+						["rewardAmount"] = 199,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51656] = {
+						["expireAt"] = 1595991639,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[51497] = {
+						["expireAt"] = 1595977236,
+						["rewardAmount"] = 159,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51434] = {
+						["expireAt"] = 1595948479,
+						["rewardAmount"] = "|cff2292FF420",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[53874] = {
+						["expireAt"] = 1595991639,
+						["rewardAmount"] = "|cff2292FF410",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[51972] = {
+						["expireAt"] = 1595948479,
+						["rewardAmount"] = 259,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 					[58705] = {
 						["expireAt"] = 1595948476,
 						["rewardAmount"] = 750,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[51901] = {
-						["expireAt"] = 1595862028,
-						["rewardAmount"] = 248,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[52236] = {
-						["expireAt"] = 1595862028,
-						["rewardAmount"] = "|cff2292FF415",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
-					},
-					[51627] = {
-						["expireAt"] = 1595862088,
-						["rewardAmount"] = "|cff2292FF420",
-						["rewardTexture"] = 2565093,
-					},
-					[52873] = {
-						["expireAt"] = 1595862088,
-						["rewardAmount"] = 227,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
@@ -255,6 +260,7 @@ WQTrackerDB = {
 				["name_cache"] = {
 					["Mechagonian Nullifier"] = 151124,
 					["Vrax'thul"] = 126199,
+					["Ven'orn"] = 126115,
 					["Golrakahn"] = 124185,
 					["Ancião Unu"] = 152414,
 					["OOX-Avenger/MG"] = 151296,
@@ -262,10 +268,13 @@ WQTrackerDB = {
 					["High Warlord Volrath"] = 143536,
 					["Umbra'jin"] = 122004,
 					["Goldenvein"] = 140769,
-					["Matriarca de escamas Gratinax"] = 152548,
+					["Foul Manifestation"] = 151202,
+					["Shiz'narasz the Consumer"] = 153658,
+					["Shiz'narasz el consumidor"] = 153658,
+					["Blistermaw"] = 122958,
 					["Malfunctioning Beastbot"] = 151933,
 					["Racha-mundos Skuul"] = 127118,
-					["Blistermaw"] = 122958,
+					["Matriarca de escamas Gratinax"] = 152548,
 					["Arachnoid Harvester"] = 154342,
 					["Lieutenant Xakaar"] = 126254,
 					["Elder Unu"] = 152414,

@@ -82,14 +82,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["loot_common"] = {
+				["archaeology"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
-					["anchor"] = 1,
-					["ilvl"] = true,
-					["quest"] = false,
-					["threshold"] = 1,
 				},
 				["recipe"] = {
 					["anchor"] = 1,
@@ -104,11 +101,14 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["archaeology"] = {
-					["anchor"] = 1,
+				["loot_common"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["ilvl"] = true,
+					["quest"] = false,
+					["threshold"] = 1,
 				},
 				["store"] = {
 					["enabled"] = true,

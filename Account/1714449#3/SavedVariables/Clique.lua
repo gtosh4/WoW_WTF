@@ -8,14 +8,15 @@ CliqueDB3 = {
 			["blacklist"] = {
 				["PlayerFrame"] = true,
 			},
-			["spec3_profileKey"] = "Toshpriest - Area 52",
-			["downclick"] = true,
 			["spec2_profileKey"] = "Toshpriest - Area 52",
+			["downclick"] = true,
+			["spec3_profileKey"] = "Toshpriest - Area 52",
 			["specswap"] = false,
 		},
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
@@ -83,6 +84,25 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 				}, -- [8]
+			},
+		},
+		["Toshaman - Area 52"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
 			},
 		},
 	},
