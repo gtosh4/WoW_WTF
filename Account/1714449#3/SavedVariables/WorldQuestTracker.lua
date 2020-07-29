@@ -203,39 +203,24 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[51626] = {
-						["expireAt"] = 1595948439,
-						["rewardAmount"] = 199,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
 					[51656] = {
 						["expireAt"] = 1595991639,
 						["rewardAmount"] = "|cff2292FF415",
 						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
 					},
-					[51497] = {
-						["expireAt"] = 1595977236,
-						["rewardAmount"] = 159,
+					[55466] = {
+						["expireAt"] = 1596553272,
+						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[51434] = {
-						["expireAt"] = 1595948479,
-						["rewardAmount"] = "|cff2292FF420",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
 					},
 					[53874] = {
 						["expireAt"] = 1595991639,
 						["rewardAmount"] = "|cff2292FF410",
 						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
 					},
-					[51972] = {
-						["expireAt"] = 1595948479,
-						["rewardAmount"] = 259,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[58705] = {
-						["expireAt"] = 1595948476,
-						["rewardAmount"] = 750,
+					[58749] = {
+						["expireAt"] = 1596034886,
+						["rewardAmount"] = 224,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},

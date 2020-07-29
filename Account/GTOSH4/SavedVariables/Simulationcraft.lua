@@ -8,6 +8,9 @@ SimulationCraftDB = {
 		["Toshdk - Kil'jaeden"] = {
 		},
 		["Toshpal - Area 52"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
 		},
 	},
 }

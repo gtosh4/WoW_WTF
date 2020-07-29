@@ -1,7 +1,7 @@
 
 REFlexSettings = {
 	["MiniMapButtonSettings"] = {
-		["hide"] = false,
+		["hide"] = true,
 	},
 	["ShowServerName"] = false,
 	["CurrentTab"] = 1,

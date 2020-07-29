@@ -243,8 +243,10 @@ WQTrackerDB = {
 					},
 				},
 				["name_cache"] = {
-					["Umbra'jin"] = 122004,
 					["OOX-Avenger/MG"] = 151296,
+					["Lieutenant Xakaar"] = 126254,
+					["Umbra'jin"] = 122004,
+					["Wrath-Lord Yarez"] = 126338,
 				},
 			},
 		},

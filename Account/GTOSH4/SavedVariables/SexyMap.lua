@@ -3,8 +3,8 @@ SexyMap2DB = {
 	["presets"] = {
 	},
 	["Toshaman-Area 52"] = "global",
-	["Toshpal-Area 52"] = "global",
 	["Toshdk-Kil'jaeden"] = "global",
+	["Toshpal-Area 52"] = "global",
 	["Toshpriest-Area 52"] = "global",
 	["global"] = {
 		["ping"] = {
@@ -36,29 +36,11 @@ SexyMap2DB = {
 			["shape"] = 130871,
 			["rightClickToConfig"] = true,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["LibDBIcon10_Dominos"] = "hover",
-				["TimeManagerClockButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MiniMapMailFrame"] = "always",
-				["MiniMapWorldMapButton"] = "never",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-				["GarrisonLandingPageMinimapButton"] = 211.9903549409229,
-				["MiniMapTracking"] = 164.4354196017399,
-				["LibDBIcon10_BugSack"] = 195.6858631879725,
-				["LibDBIcon10_SavedInstances"] = 180.4265913395499,
-				["GameTimeFrame"] = 149.2157701186239,
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -125,11 +107,30 @@ SexyMap2DB = {
 			["width"] = 140,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["LibDBIcon10_Dominos"] = "hover",
+				["TimeManagerClockButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+				["MiniMapTracking"] = 164.4354196017399,
+				["LibDBIcon10_REFlex"] = 171.2800871235485,
+				["GarrisonLandingPageMinimapButton"] = 211.9903549409229,
+				["GameTimeFrame"] = 149.2157701186239,
+				["LibDBIcon10_SavedInstances"] = 174.689108896019,
+				["LibDBIcon10_BugSack"] = 187.8530548582654,
+			},
+			["controlVisibility"] = true,
 		},
 	},
 }
@@ -157,6 +158,12 @@ SexyMap82 = {
 				},
 				["yOffset"] = 10,
 			},
+			["movers"] = {
+				["enabled"] = false,
+				["framePositions"] = {
+				},
+				["lock"] = false,
+			},
 			["buttons"] = {
 				["radius"] = 10,
 				["lockDragging"] = false,
@@ -174,12 +181,6 @@ SexyMap82 = {
 				["dragPositions"] = {
 				},
 				["controlVisibility"] = true,
-			},
-			["movers"] = {
-				["enabled"] = false,
-				["framePositions"] = {
-				},
-				["lock"] = false,
 			},
 			["clock"] = {
 				["bgColor"] = {

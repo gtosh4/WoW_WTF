@@ -8,4 +8,5 @@ BugSackDB = {
 }
 BugSackLDBIconDB = {
 	["minimapPos"] = 199.9053667568686,
+	["hide"] = true,
 }
