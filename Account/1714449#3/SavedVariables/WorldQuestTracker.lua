@@ -203,24 +203,9 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[51656] = {
-						["expireAt"] = 1595991639,
-						["rewardAmount"] = "|cff2292FF415",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
-					},
 					[55466] = {
 						["expireAt"] = 1596553272,
 						["rewardAmount"] = 750,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[53874] = {
-						["expireAt"] = 1595991639,
-						["rewardAmount"] = "|cff2292FF410",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
-					},
-					[58749] = {
-						["expireAt"] = 1596034886,
-						["rewardAmount"] = 224,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
@@ -252,6 +237,7 @@ WQTrackerDB = {
 					["Boggac Skullbash"] = 151308,
 					["High Warlord Volrath"] = 143536,
 					["Umbra'jin"] = 122004,
+					["Theurgist Nitara"] = 155836,
 					["Goldenvein"] = 140769,
 					["Foul Manifestation"] = 151202,
 					["Shiz'narasz the Consumer"] = 153658,

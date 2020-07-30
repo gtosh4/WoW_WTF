@@ -3025,14 +3025,22 @@ ShadowedUFDB = {
 					},
 				},
 				["focustarget"] = {
-					["portrait"] = {
-						["type"] = "3D",
-						["alignment"] = "RIGHT",
-						["fullAfter"] = 100,
+					["indicators"] = {
+						["raidTarget"] = {
+							["y"] = 0,
+							["x"] = 0,
+							["anchorTo"] = "$parent",
+							["anchorPoint"] = "C",
+							["size"] = 20,
+						},
+						["class"] = {
+							["y"] = 0,
+							["x"] = 0,
+							["anchorTo"] = "$parent",
+							["anchorPoint"] = "BL",
+							["size"] = 16,
+						},
 						["height"] = 0.5,
-						["fullBefore"] = 0,
-						["order"] = 15,
-						["width"] = 0.22,
 					},
 					["range"] = {
 						["height"] = 0.5,
@@ -3103,9 +3111,14 @@ ShadowedUFDB = {
 						["background"] = true,
 						["order"] = 100,
 					},
-					["highlight"] = {
+					["portrait"] = {
+						["type"] = "3D",
+						["alignment"] = "RIGHT",
+						["fullAfter"] = 100,
 						["height"] = 0.5,
-						["size"] = 10,
+						["fullBefore"] = 0,
+						["order"] = 15,
+						["width"] = 0.22,
 					},
 					["height"] = 25,
 					["text"] = {
@@ -3125,22 +3138,9 @@ ShadowedUFDB = {
 							["text"] = "[(()afk() )][name]",
 						}, -- [5]
 					},
-					["indicators"] = {
-						["raidTarget"] = {
-							["y"] = 0,
-							["x"] = 0,
-							["anchorTo"] = "$parent",
-							["anchorPoint"] = "C",
-							["size"] = 20,
-						},
-						["class"] = {
-							["y"] = 0,
-							["x"] = 0,
-							["anchorTo"] = "$parent",
-							["anchorPoint"] = "BL",
-							["size"] = 16,
-						},
+					["highlight"] = {
 						["height"] = 0.5,
+						["size"] = 10,
 					},
 					["fader"] = {
 						["height"] = 0.5,
@@ -3736,8 +3736,9 @@ ShadowedUFDB = {
 						["order"] = 70,
 						["height"] = 0.4,
 					},
-					["auraIndicators"] = {
+					["incAbsorb"] = {
 						["height"] = 0.5,
+						["cap"] = 1,
 					},
 					["comboPoints"] = {
 						["anchorTo"] = "$parent",
@@ -3751,9 +3752,8 @@ ShadowedUFDB = {
 						["size"] = 14,
 					},
 					["width"] = 190,
-					["incAbsorb"] = {
+					["auraIndicators"] = {
 						["height"] = 0.5,
-						["cap"] = 1,
 					},
 					["highlight"] = {
 						["height"] = 0.5,
@@ -3804,17 +3804,17 @@ ShadowedUFDB = {
 							["enabled"] = true,
 							["temporary"] = false,
 							["anchorOn"] = true,
+							["anchorPoint"] = "TL",
 							["show"] = {
 								["player"] = false,
 								["relevant"] = false,
 								["raid"] = false,
 								["misc"] = false,
 							},
-							["y"] = 0,
 							["maxRows"] = 1,
 							["perRow"] = 8,
 							["x"] = 0,
-							["anchorPoint"] = "TL",
+							["y"] = 0,
 							["size"] = 16,
 						},
 					},

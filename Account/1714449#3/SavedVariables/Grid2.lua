@@ -796,23 +796,6 @@ Grid2DB = {
 					["iconSize"] = 18,
 					["level"] = 8,
 				},
-				["header"] = {
-					["type"] = "bar",
-					["location"] = {
-						["y"] = 0,
-						["relPoint"] = "TOP",
-						["point"] = "TOP",
-						["x"] = 0,
-					},
-					["opacity"] = 1,
-					["height"] = 6,
-					["level"] = 2,
-					["orientation"] = "HORIZONTAL",
-					["texture"] = "Bars",
-				},
-				["shields-color"] = {
-					["type"] = "bar-color",
-				},
 				["health"] = {
 					["type"] = "bar",
 					["location"] = {
@@ -842,6 +825,23 @@ Grid2DB = {
 					["level"] = 8,
 					["iconSize"] = 13,
 					["maxIconsPerRow"] = 5,
+				},
+				["header"] = {
+					["type"] = "bar",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "TOP",
+						["point"] = "TOP",
+						["x"] = 0,
+					},
+					["opacity"] = 1,
+					["height"] = 6,
+					["level"] = 2,
+					["orientation"] = "HORIZONTAL",
+					["texture"] = "Bars",
+				},
+				["shields-color"] = {
+					["type"] = "bar-color",
 				},
 				["heals"] = {
 					["type"] = "bar",
