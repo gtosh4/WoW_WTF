@@ -13,6 +13,13 @@ X: -282
 Y: -197
 W: 150
 H: 80
+Frame: ViragDevToolFrame
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 513
+Y: -64
+W: 668
+H: 706
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -118,13 +125,6 @@ X: 174
 Y: 201
 W: 210
 H: 28
-Frame: ViragDevToolFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -336
-Y: 116
-W: 668
-H: 706
 Frame: ChatFrameChannelButton
 FrameLevel: 1
 Anchor: BOTTOMLEFT

@@ -2367,11 +2367,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Sciduckhunt"] = {
+			["Vaduum-EmeraldDream"] = {
 				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
+				["points"] = 190,
+				["class"] = "WARRIOR",
 				["deaths"] = {
+					{
+						2, -- [1]
+						238.1370000000024, -- [2]
+						"Anguish (DoT) |cFFFF3333172,832|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Eau-Kil'jaeden"] = {
@@ -2409,11 +2414,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Kuyar-Ragnaros"] = {
+			["Kazrokh-Azralon"] = {
 				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
+				["points"] = 190,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
+					{
+						3, -- [1]
+						219.961000000003, -- [2]
+						"Anguish (DoT) |cFFFF3333160,784|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Meta-Kil'jaeden"] = {
@@ -2745,30 +2755,6 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Kazrokh-Azralon"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						3, -- [1]
-						219.961000000003, -- [2]
-						"Anguish (DoT) |cFFFF3333160,784|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Vaduum-EmeraldDream"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-					{
-						2, -- [1]
-						238.1370000000024, -- [2]
-						"Anguish (DoT) |cFFFF3333172,832|r", -- [3]
-					}, -- [1]
-				},
-			},
 			["Emosong-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 180,
@@ -2784,6 +2770,20 @@ DeathGraphsDBEndurance = {
 						67.54400000022724, -- [2]
 						"Void Gaze |cFFFF333334,382|r", -- [3]
 					}, -- [2]
+				},
+			},
+			["Kuyar-Ragnaros"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Sciduckhunt"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
 				},
 			},
 			["Leafyo"] = {

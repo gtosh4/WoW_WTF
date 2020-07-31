@@ -1,6 +1,6 @@
 
 ViragDevTool_Settings = {
-	["isSideBarOpen"] = false,
+	["isSideBarOpen"] = true,
 	["fontSize"] = 10,
 	["events"] = {
 		{
@@ -21,13 +21,16 @@ ViragDevTool_Settings = {
 			["active"] = false,
 		}, -- [4]
 	},
-	["isWndOpen"] = false,
+	["isWndOpen"] = true,
 	["history"] = {
-		"find LFR", -- [1]
-		"find SLASH", -- [2]
-		"find Data ViragDevTool", -- [3]
-		"startswith Virag", -- [4]
-		"ViragDevTool.settings.history", -- [5]
+		"ToshUnitFrames", -- [1]
+		"ToshUnitFrames.db", -- [2]
+		"ToshUnitFrames.db.profile", -- [3]
+		"find LFR", -- [4]
+		"find SLASH", -- [5]
+		"find Data ViragDevTool", -- [6]
+		"startswith Virag", -- [7]
+		"ViragDevTool.settings.history", -- [8]
 	},
 	["colors"] = {
 		["ok"] = "|cFF00FF00",
