@@ -1,4 +1,11 @@
 Version: 1
+Frame: ViragDevToolFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 406
+Y: 115
+W: 668
+H: 706
 Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
 Anchor: RIGHT
@@ -13,13 +20,6 @@ X: -282
 Y: -197
 W: 150
 H: 80
-Frame: ViragDevToolFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 513
-Y: -64
-W: 668
-H: 706
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -139,3 +139,10 @@ X: 0
 Y: 96
 W: 570
 H: 155
+Frame: ToshUnitFramesOptions
+FrameLevel: 1
+Anchor: RIGHT
+X: -525
+Y: 145
+W: 702
+H: 577

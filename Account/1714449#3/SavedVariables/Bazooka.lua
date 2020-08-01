@@ -100,9 +100,8 @@ BazookaDB = {
 						["pos"] = 1,
 						["bar"] = 2,
 					},
-					["Talent Set Manager"] = {
-						["enabled"] = false,
-						["pos"] = 7,
+					["Volume"] = {
+						["pos"] = 1,
 					},
 					["Clock"] = {
 						["showValue"] = false,
@@ -111,16 +110,17 @@ BazookaDB = {
 						["pos"] = 1,
 						["bar"] = 4,
 					},
-					["Volume"] = {
-						["pos"] = 1,
+					["MythicDungeonTools"] = {
+						["enabled"] = false,
+						["pos"] = 8,
 					},
 					["DetailsStreamer"] = {
 						["enabled"] = false,
 						["pos"] = 14,
 					},
-					["MythicDungeonTools"] = {
+					["Talent Set Manager"] = {
 						["enabled"] = false,
-						["pos"] = 8,
+						["pos"] = 7,
 					},
 					["Difficulty"] = {
 						["showIcon"] = false,

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 130,
 	["lastSanitation"] = 3,
-	["session"] = 129,
 	["errors"] = {
 		{
 			["message"] = "...erface\\AddOns\\ToshUnitFramesOptions\\widgets/main.lua:80: attempt to call method 'GetWidth' (a nil value)",
