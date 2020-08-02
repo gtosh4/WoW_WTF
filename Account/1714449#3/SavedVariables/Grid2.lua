@@ -38,8 +38,8 @@ Grid2DB = {
 							["anchor"] = "TOP",
 							["BackgroundG"] = 0.1019607843137255,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -299.7283917380482,
-							["PosX"] = 213.8705225633712,
+							["PosY"] = -309.3280790234785,
+							["PosX"] = -250.6632219363028,
 							["BackgroundR"] = 0.1019607843137255,
 							["BackgroundA"] = 1,
 							["horizontal"] = false,
@@ -797,23 +797,6 @@ Grid2DB = {
 					["iconSize"] = 18,
 					["level"] = 8,
 				},
-				["header"] = {
-					["type"] = "bar",
-					["location"] = {
-						["y"] = 0,
-						["relPoint"] = "TOP",
-						["point"] = "TOP",
-						["x"] = 0,
-					},
-					["opacity"] = 1,
-					["height"] = 6,
-					["level"] = 2,
-					["orientation"] = "HORIZONTAL",
-					["texture"] = "Bars",
-				},
-				["shields-color"] = {
-					["type"] = "bar-color",
-				},
 				["health"] = {
 					["type"] = "bar",
 					["location"] = {
@@ -843,6 +826,23 @@ Grid2DB = {
 					["level"] = 8,
 					["iconSize"] = 13,
 					["maxIconsPerRow"] = 5,
+				},
+				["header"] = {
+					["type"] = "bar",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "TOP",
+						["point"] = "TOP",
+						["x"] = 0,
+					},
+					["opacity"] = 1,
+					["height"] = 6,
+					["level"] = 2,
+					["orientation"] = "HORIZONTAL",
+					["texture"] = "Bars",
+				},
+				["shields-color"] = {
+					["type"] = "bar-color",
 				},
 				["heals"] = {
 					["type"] = "bar",

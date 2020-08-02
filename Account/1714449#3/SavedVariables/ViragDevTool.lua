@@ -23,14 +23,16 @@ ViragDevTool_Settings = {
 	},
 	["isWndOpen"] = true,
 	["history"] = {
-		"ToshUnitFrames", -- [1]
-		"ToshUnitFrames.db", -- [2]
-		"ToshUnitFrames.db.profile", -- [3]
-		"find LFR", -- [4]
-		"find SLASH", -- [5]
-		"find Data ViragDevTool", -- [6]
-		"startswith Virag", -- [7]
-		"ViragDevTool.settings.history", -- [8]
+		"ToshUnitFrames.db", -- [1]
+		"ToshUnitFrames", -- [2]
+		"Grid2.db", -- [3]
+		"ToshUnitFramesOptions", -- [4]
+		"ToshUnitFrames.db.profile", -- [5]
+		"find LFR", -- [6]
+		"find SLASH", -- [7]
+		"find Data ViragDevTool", -- [8]
+		"startswith Virag", -- [9]
+		"ViragDevTool.settings.history", -- [10]
 	},
 	["colors"] = {
 		["ok"] = "|cFF00FF00",

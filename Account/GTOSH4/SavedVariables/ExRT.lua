@@ -3,10 +3,10 @@ VExRT = {
 	["BattleRes"] = {
 	},
 	["ProfileKeys"] = {
-		["Toshpriest-Area52"] = "default",
 		["Toshaman-Area52"] = "default",
-		["Toshpal-Area52"] = "default",
 		["Toshdk-Kil'jaeden"] = "default",
+		["Toshpal-Area52"] = "default",
+		["Toshpriest-Area52"] = "default",
 	},
 	["Encounter"] = {
 		["list"] = {
@@ -43,25 +43,47 @@ VExRT = {
 				"^2331^15^1595993973^160^1^29^468.77^", -- [26]
 				"^2337^15^1595994590^319^1^28^462.71^Emosong-Kil'jaeden", -- [27]
 				"^2344^15^1595995228^458^1^30^461.21^Babynv", -- [28]
+				"^2312^8^1596313468^80^1^5^476.75^Andruw", -- [29]
+				"^2292^8^1596314113^148^0^5^476.06^Pier", -- [30]
+				"^2290^8^1596314643^133^1^5^476.06^", -- [31]
+				"^2292^8^1596314888^128^1^5^476.06^Royalty", -- [32]
+				"^2291^8^1596315255^93^0^5^476.06^Royalty", -- [33]
+				"^2291^8^1596315464^76^0^5^476.06^Toshpal", -- [34]
+				"^2291^8^1596315656^242^0^5^476.06^Pier", -- [35]
+				"^2291^8^1596316348^312^1^5^476.06^Ronald-Kil'jaeden", -- [36]
+				"^2257^8^1596317280^109^0^5^479.05^Datavi", -- [37]
+				"^2257^8^1596317419^45^0^5^479.05^Toshpal", -- [38]
+				"^2257^8^1596317619^92^1^5^479.05^", -- [39]
+				"^2258^8^1596317960^106^1^5^479.05^", -- [40]
+				"^2259^8^1596318302^102^1^5^479.05^", -- [41]
+				"^2260^8^1596318639^191^1^5^479.05^", -- [42]
 			},
 			["Toshdk"] = {
 			},
 		},
 		["names"] = {
-			[2101] = "The Sand Queen",
 			[2094] = "Council o' Captains",
-			[2102] = "Jes Howlis",
-			[2095] = "Ring of Booty",
-			[2103] = "Knight Captain Valyri",
-			[2096] = "Lord Harlan Sweete",
 			[2344] = "N'Zoth the Corruptor",
-			[2337] = "Carapace of N'Zoth",
-			[2345] = "Il'gynoth, Corruption Reborn",
-			[2331] = "Ra-den the Despoiled",
+			[2102] = "Jes Howlis",
 			[2104] = "Overseer Korgus",
-			[2093] = "Skycap'n Kragg",
-			[2333] = "The Hivemind",
+			[2292] = "Gunker",
 			[2329] = "Wrathion",
+			[2331] = "Ra-den the Despoiled",
+			[2333] = "The Hivemind",
+			[2337] = "Carapace of N'Zoth",
+			[2093] = "Skycap'n Kragg",
+			[2312] = "Trixie & Naeno",
+			[2345] = "Il'gynoth, Corruption Reborn",
+			[2101] = "The Sand Queen",
+			[2103] = "Knight Captain Valyri",
+			[2291] = "HK-8 Aerial Oppression Unit",
+			[2260] = "King Mechagon",
+			[2259] = "Machinist's Garden",
+			[2258] = "K.U.-J.0.",
+			[2257] = "Tussle Tonks",
+			[2096] = "Lord Harlan Sweete",
+			[2095] = "Ring of Booty",
+			[2290] = "King Gobbamak",
 		},
 	},
 	["Marks"] = {
@@ -104,7 +126,7 @@ VExRT = {
 			["Papisalad-Kil'jaeden"] = 253,
 			["Fortytoo-ShadowCouncil"] = 267,
 			["Mattea-Kil'jaeden"] = 253,
-			["Gummybuns"] = 269,
+			["Gummybuns"] = 268,
 			["Bigbf-Hyjal"] = 259,
 			["Toshpal"] = 65,
 			["Illestchi-Barthilas"] = 269,
@@ -124,6 +146,7 @@ VExRT = {
 			["Holypenguin"] = 257,
 			["Alanxx-Mal'Ganis"] = 252,
 			["Choplo"] = 269,
+			["Ronald-Kil'jaeden"] = 71,
 			["Warlockmania"] = 267,
 			["Biggergf-Hyjal"] = 577,
 			["Babynv"] = 264,
@@ -137,47 +160,50 @@ VExRT = {
 			["Evangelos"] = 250,
 			["Karasama-Kel'Thuzad"] = 66,
 			["Yukiox"] = 63,
-			["Peenorious-Mal'Ganis"] = 71,
+			["Race"] = 260,
+			["Paxington-Illidan"] = 253,
+			["Pier"] = 267,
+			["Delpix-Tichondrius"] = 577,
 			["Fayfay-Kil'jaeden"] = 253,
 			["Shankntwist-BleedingHollow"] = 259,
 			["Killarn-Tichondrius"] = 71,
 			["Rathux"] = 252,
-			["Delpix-Tichondrius"] = 577,
+			["Zabiroo-Illidan"] = 253,
 			["Lyuneria"] = 577,
 			["Turbolok-BleedingHollow"] = 267,
 			["Scitama-Kil'jaeden"] = 270,
 			["Wilwar"] = 72,
-			["Zabiroo-Illidan"] = 253,
 			["Toshaman"] = 264,
+			["Nippybust-Illidan"] = 63,
 			["Hunterscurse-Eonar"] = 577,
-			["Yuffa-Kil'jaeden"] = 258,
+			["Haiyue-Illidan"] = 257,
 			["Agg"] = 63,
 			["Thunderrz"] = 253,
-			["Haiyue-Illidan"] = 257,
 			["Artsong"] = 253,
+			["Ozdevil-Barthilas"] = 72,
 			["Haschwàlth-Ragnaros"] = 71,
 			["Cohava-Illidan"] = 258,
 			["Durantye"] = 258,
-			["Rivalry"] = 577,
 			["Evandh-Illidan"] = 581,
 			["Emosong-Kil'jaeden"] = 260,
-			["Epicdemic-Hyjal"] = 252,
+			["Sciduckhunt"] = 253,
 			["Royalty"] = 66,
 			["Andruw"] = 577,
 			["Twodaggers-Tichondrius"] = 259,
 			["Yukios-Kil'jaeden"] = 264,
+			["Epicdemic-Hyjal"] = 252,
 			["Datavi"] = 259,
-			["Sciduckhunt"] = 253,
 			["Smytt"] = 253,
+			["Rivalry"] = 577,
 			["Scitron"] = 264,
 			["Toshdk"] = 252,
-			["Ozdevil-Barthilas"] = 72,
 			["Sci"] = 65,
+			["Yuffa-Kil'jaeden"] = 258,
 			["Haxpax-Kil'jaeden"] = 256,
 			["Judaasx"] = 267,
-			["Nippybust-Illidan"] = 63,
-			["Versatillee-Mal'Ganis"] = 70,
 			["Ricksstudent-Mal'Ganis"] = 270,
+			["Versatillee-Mal'Ganis"] = 70,
+			["Peenorious-Mal'Ganis"] = 71,
 			["Yarilys-Kil'jaeden"] = 253,
 		},
 		["NoRaid"] = true,
@@ -377,13 +403,13 @@ VExRT = {
 				"LHysterìa-Illidan", -- [18]
 				"AHaschwàlth-Ragnaros", -- [19]
 				[36] = "CSciduckhunt",
-				["k"] = true,
 				["c"] = "Toshpal-Area52",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Wrathion",
+				["eI"] = 2329,
 				["t"] = 1595391895,
 				["g"] = 19,
-				["eI"] = 2329,
+				["eN"] = "Wrathion",
 			}, -- [1]
 			{
 				"DDatavi", -- [1]
@@ -406,13 +432,13 @@ VExRT = {
 				"AWilwar", -- [18]
 				"IJudaasx", -- [19]
 				"LAndruw", -- [20]
-				["eI"] = 2345,
-				["k"] = true,
-				["t"] = 1595653120,
 				["eN"] = "Il'gynoth, Corruption Reborn",
+				["c"] = "Toshpal-Area52",
+				["t"] = 1595653120,
+				["eI"] = 2345,
 				["d"] = 16,
 				["g"] = 20,
-				["c"] = "Toshpal-Area52",
+				["k"] = true,
 			}, -- [2]
 			{
 				"LIllsong", -- [1]
@@ -435,13 +461,13 @@ VExRT = {
 				"JChoplo", -- [18]
 				"IFortytoo-ShadowCouncil", -- [19]
 				"EGewccishadez-Zul'jin", -- [20]
-				["eI"] = 2329,
-				["k"] = true,
-				["t"] = 1595992697,
 				["eN"] = "Wrathion",
+				["c"] = "Toshpal-Area52",
+				["t"] = 1595992697,
+				["eI"] = 2329,
 				["d"] = 15,
 				["g"] = 20,
-				["c"] = "Toshpal-Area52",
+				["k"] = true,
 			}, -- [3]
 			{
 				"LIllsong", -- [1]
@@ -466,13 +492,13 @@ VExRT = {
 				"EGewccishadez-Zul'jin", -- [20]
 				"ITurbolok-BleedingHollow", -- [21]
 				"LDelpix-Tichondrius", -- [22]
-				["k"] = true,
 				["c"] = "Toshpal-Area52",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "The Hivemind",
+				["eI"] = 2333,
 				["t"] = 1595993587,
 				["g"] = 21,
-				["eI"] = 2333,
+				["eN"] = "The Hivemind",
 			}, -- [4]
 		},
 		["alts"] = {
@@ -530,13 +556,13 @@ VExRT = {
 		["timeToKillAnalyze"] = 15,
 	},
 	["Addon"] = {
-		["PreVersion"] = 4170,
-		["Version"] = 4170,
 		["IconMiniMapLeft"] = -43.8422319805596,
+		["Version"] = 4170,
 		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["Scale"] = 1,
 		["IconMiniMapHide"] = true,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["PreVersion"] = 4170,
+		["Scale"] = 1,
 	},
 	["WhoPulled"] = {
 	},

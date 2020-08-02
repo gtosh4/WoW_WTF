@@ -21,6 +21,12 @@ SexyMap2DB = {
 			},
 			["yOffset"] = 10,
 		},
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
+		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -37,20 +43,14 @@ SexyMap2DB = {
 				["MiniMapMailFrame"] = "always",
 			},
 			["dragPositions"] = {
-				["LibDBIcon10_BugSack"] = 187.8530548582654,
-				["LibDBIcon10_REFlex"] = 171.2800871235485,
-				["MiniMapTracking"] = 164.4354196017399,
 				["GameTimeFrame"] = 149.2157701186239,
-				["LibDBIcon10_SavedInstances"] = 174.689108896019,
+				["LibDBIcon10_REFlex"] = 171.2800871235485,
 				["GarrisonLandingPageMinimapButton"] = 211.9903549409229,
+				["LibDBIcon10_BugSack"] = 187.8530548582654,
+				["LibDBIcon10_SavedInstances"] = 174.689108896019,
+				["MiniMapTracking"] = 164.4354196017399,
 			},
 			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -130,9 +130,9 @@ SexyMap2DB = {
 			["rightClickToConfig"] = true,
 		},
 	},
-	["Toshdk-Kil'jaeden"] = "global",
-	["Toshpriest-Area 52"] = "global",
 	["Toshpal-Area 52"] = "global",
+	["Toshpriest-Area 52"] = "global",
+	["Toshdk-Kil'jaeden"] = "global",
 }
 SexyMap82 = {
 	["backup"] = {
@@ -162,11 +162,23 @@ SexyMap82 = {
 				["showPing"] = true,
 				["showAt"] = "map",
 			},
-			["movers"] = {
-				["enabled"] = false,
-				["framePositions"] = {
+			["buttons"] = {
+				["radius"] = 10,
+				["lockDragging"] = false,
+				["allowDragging"] = true,
+				["visibilitySettings"] = {
+					["MinimapZoomIn"] = "never",
+					["MinimapZoneTextButton"] = "always",
+					["MiniMapWorldMapButton"] = "never",
+					["QueueStatusMinimapButton"] = "always",
+					["GarrisonLandingPageMinimapButton"] = "always",
+					["MinimapZoomOut"] = "never",
+					["MiniMapMailFrame"] = "always",
+					["TimeManagerClockButton"] = "always",
 				},
-				["lock"] = false,
+				["dragPositions"] = {
+				},
+				["controlVisibility"] = true,
 			},
 			["clock"] = {
 				["bgColor"] = {
@@ -257,23 +269,11 @@ SexyMap82 = {
 				["xOffset"] = 0,
 				["yOffset"] = 0,
 			},
-			["buttons"] = {
-				["radius"] = 10,
-				["lockDragging"] = false,
-				["allowDragging"] = true,
-				["visibilitySettings"] = {
-					["MinimapZoomIn"] = "never",
-					["MinimapZoneTextButton"] = "always",
-					["MiniMapWorldMapButton"] = "never",
-					["QueueStatusMinimapButton"] = "always",
-					["GarrisonLandingPageMinimapButton"] = "always",
-					["MinimapZoomOut"] = "never",
-					["MiniMapMailFrame"] = "always",
-					["TimeManagerClockButton"] = "always",
+			["movers"] = {
+				["enabled"] = false,
+				["framePositions"] = {
 				},
-				["dragPositions"] = {
-				},
-				["controlVisibility"] = true,
+				["lock"] = false,
 			},
 		},
 		["presets"] = {

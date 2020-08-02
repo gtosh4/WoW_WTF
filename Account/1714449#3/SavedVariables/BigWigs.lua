@@ -203,12 +203,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Council o' Captains"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
 				["Default"] = {
-					[258381] = 3129591,
-					[256979] = 3129591,
-					[258338] = 3129591,
+					["posx"] = 513.6001447701419,
+					["posy"] = 154.133307101727,
 				},
 			},
 		},
@@ -225,9 +224,9 @@ BigWigs3DB = {
 					["emphasizeGrowup"] = false,
 					["BigWigsAnchor_x"] = 390.9344053244349,
 					["spacing"] = 4,
+					["BigWigsEmphasizeAnchor_y"] = 229.65323705435,
 					["fontSizeEmph"] = 12,
 					["BigWigsEmphasizeAnchor_width"] = 182.9999694824219,
-					["BigWigsEmphasizeAnchor_y"] = 229.65323705435,
 					["texture"] = "Smooth v2",
 				},
 			},
@@ -309,14 +308,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 513.6001447701419,
-					["posy"] = 154.133307101727,
-				},
-			},
-		},
 		["BigWigs_Bosses_Unbound Abomination"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -332,6 +323,15 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Council o' Captains"] = {
+			["profiles"] = {
+				["Default"] = {
+					[258381] = 3129591,
+					[256979] = 3129591,
+					[258338] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {

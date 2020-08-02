@@ -208,15 +208,20 @@ WQTrackerDB = {
 						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[58744] = {
-						["expireAt"] = 1596294059,
-						["rewardAmount"] = "4",
-						["rewardTexture"] = 1045106,
+					[51046] = {
+						["expireAt"] = 1596380491,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 2065568,
 					},
-					[58746] = {
-						["expireAt"] = 1596294058,
-						["rewardAmount"] = "20",
-						["rewardTexture"] = 133675,
+					[50718] = {
+						["expireAt"] = 1596380465,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
+					},
+					[52754] = {
+						["expireAt"] = 1596380465,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 2004597,
 					},
 				},
 			},

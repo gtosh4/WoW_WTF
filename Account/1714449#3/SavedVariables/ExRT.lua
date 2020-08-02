@@ -100,41 +100,49 @@ VExRT = {
 				"^2336^16^1596255978^14^0^20^479.58^Hungorr-BleedingHollow", -- [89]
 				"^2336^16^1596256095^239^1^20^479.70^Andruw", -- [90]
 				"^2345^16^1596258062^416^1^20^477.70^Wilwar", -- [91]
+				"^2111^8^1596311488^59^1^5^478.59^", -- [92]
+				"^2118^8^1596312003^100^1^5^478.59^", -- [93]
+				"^2112^8^1596312156^108^1^5^478.59^", -- [94]
+				"^2123^8^1596312493^150^1^5^478.59^Neyari", -- [95]
 			},
 			["Toshaman"] = {
 			},
 		},
 		["names"] = {
-			[2336] = "Vexiona",
-			[2290] = "King Gobbamak",
-			[2344] = "N'Zoth the Corruptor",
-			[2117] = "Gorak Tul",
-			[2331] = "Ra-den the Despoiled",
-			[2257] = "Tussle Tonks",
-			[2259] = "Machinist's Garden",
-			[2292] = "Gunker",
-			[2116] = "Lord and Lady Waycrest",
-			[2327] = "Maut",
-			[2329] = "Wrathion",
 			[2114] = "Soulbound Goliath",
-			[2333] = "The Hivemind",
-			[2335] = "Shad'har the Insatiable",
-			[2337] = "Carapace of N'Zoth",
-			[2102] = "Jes Howlis",
-			[2260] = "King Mechagon",
-			[2343] = "Drest'agath",
-			[2345] = "Il'gynoth, Corruption Reborn",
 			[2130] = "Aqu'sirr",
-			[2101] = "The Sand Queen",
-			[2258] = "K.U.-J.0.",
-			[2291] = "HK-8 Aerial Oppression Unit",
-			[2103] = "Knight Captain Valyri",
-			[2312] = "Trixie & Naeno",
-			[2328] = "Dark Inquisitor Xanesh",
-			[2113] = "Heartsbane Triad",
+			[2327] = "Maut",
+			[2335] = "Shad'har the Insatiable",
+			[2343] = "Drest'agath",
 			[2115] = "Raal the Gluttonous",
-			[2334] = "Prophet Skitra",
+			[2312] = "Trixie & Naeno",
+			[2257] = "Tussle Tonks",
+			[2328] = "Dark Inquisitor Xanesh",
+			[2336] = "Vexiona",
+			[2344] = "N'Zoth the Corruptor",
+			[2116] = "Lord and Lady Waycrest",
+			[2258] = "K.U.-J.0.",
+			[2329] = "Wrathion",
+			[2337] = "Carapace of N'Zoth",
+			[2345] = "Il'gynoth, Corruption Reborn",
+			[2290] = "King Gobbamak",
+			[2117] = "Gorak Tul",
+			[2259] = "Machinist's Garden",
+			[2291] = "HK-8 Aerial Oppression Unit",
+			[2118] = "Cragmaw the Infested",
+			[2260] = "King Mechagon",
+			[2331] = "Ra-den the Despoiled",
+			[2103] = "Knight Captain Valyri",
+			[2111] = "Elder Leaxa",
 			[2104] = "Overseer Korgus",
+			[2112] = "Sporecaller Zancha",
+			[2333] = "The Hivemind",
+			[2113] = "Heartsbane Triad",
+			[2101] = "The Sand Queen",
+			[2102] = "Jes Howlis",
+			[2334] = "Prophet Skitra",
+			[2292] = "Gunker",
+			[2123] = "Unbound Abomination",
 		},
 	},
 	["Marks"] = {
@@ -181,6 +189,7 @@ VExRT = {
 			"!3174160Aethael1596256451:7:4824:6578:6579:6537:6513:1517:4786", -- [36]
 			"!C174135Andruw1596258489:4:4824:1517:4786:6512", -- [37]
 			"!8172189Hungorr-BleedingHollow1596258520:6:4824:6548:6578:6579:1517:4786", -- [38]
+			"!9159275Haxpax-Illidan1596312649:5:6536:6516:6515:1637:4786", -- [39]
 		},
 	},
 	["ExCD2"] = {
@@ -817,13 +826,13 @@ VExRT = {
 		["timeToKillAnalyze"] = 15,
 	},
 	["Addon"] = {
-		["PreVersion"] = 4170,
-		["Version"] = 4170,
-		["IconMiniMapLeft"] = -43.8422319805596,
-		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["Scale"] = 1,
 		["IconMiniMapHide"] = true,
+		["Version"] = 4170,
+		["Scale"] = 1,
+		["PreVersion"] = 4170,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = -43.8422319805596,
 	},
 	["WhoPulled"] = {
 	},
