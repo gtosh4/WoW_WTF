@@ -2,6 +2,11 @@
 ToshUnitFramesDB = {
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
+			["char"] = {
+				["Toshpriest - Area 52"] = {
+					["enabled"] = false,
+				},
+			},
 		},
 		["ToshUnitFramesOptions"] = {
 			["global"] = {
@@ -49,13 +54,14 @@ ToshUnitFramesDB = {
 	},
 	["global"] = {
 		["options"] = {
-			["height"] = 500.0001220703125,
+			["height"] = 556.66650390625,
 			["pos"] = {
-				["y"] = -169.1665954589844,
-				["x"] = -539.166259765625,
+				["y"] = -136.6666717529297,
+				["x"] = -254.9993743896484,
 				["to"] = "TOPRIGHT",
 				["from"] = "TOPRIGHT",
 			},
+			["width"] = 545.83447265625,
 		},
 	},
 	["profileKeys"] = {
@@ -67,10 +73,14 @@ ToshUnitFramesDB = {
 				{
 					["id"] = 1,
 					["type"] = "unit_single",
-					["name"] = "Test",
+					["name"] = "",
+					["unit"] = "player",
 				}, -- [1]
 			},
-			["selected"] = 1,
+			["selected"] = {
+				"UNITS", -- [1]
+				"1", -- [2]
+			},
 			["nextid"] = 2,
 		},
 	},

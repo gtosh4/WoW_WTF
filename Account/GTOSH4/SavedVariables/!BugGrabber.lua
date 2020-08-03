@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 132,
 	["lastSanitation"] = 3,
+	["session"] = 145,
 	["errors"] = {
 		{
 			["message"] = "...erface\\AddOns\\ToshUnitFramesOptions\\widgets/main.lua:80: attempt to call method 'GetWidth' (a nil value)",
@@ -27,5 +27,97 @@ BugGrabberDB = {
 			["session"] = 123,
 			["counter"] = 1,
 		}, -- [3]
+		{
+			["message"] = "Interface\\AddOns\\WeakAuras\\Transmission.lua:585: Cannot find a library instance of \"LibSerialize\".",
+			["time"] = "2020/08/02 21:02:27",
+			["locals"] = "(*temporary) = \"Cannot find a library instance of \"LibSerialize\".\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `error'\n[string \"@Interface\\AddOns\\Scrap\\libs\\LibStub\\LibStub.lua\"]:23: in function `LibStub'\n[string \"@Interface\\AddOns\\WeakAuras\\Transmission.lua\"]:585: in main chunk",
+			["session"] = 139,
+			["counter"] = 2,
+		}, -- [4]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\WeakAuras\\Libs\\LibSerialize\\lib.xml",
+			["session"] = 139,
+			["time"] = "2020/08/02 21:02:29",
+			["counter"] = 8,
+		}, -- [5]
+		{
+			["message"] = "(null)",
+			["session"] = 139,
+			["time"] = "2020/08/02 21:02:29",
+			["counter"] = 6,
+		}, -- [6]
+		{
+			["message"] = "Interface\\AddOns\\Grid2Options\\GridCore.lua:5: Usage: GetLocale(application[, silent]): 'application' - No locales registered for 'Grid2Options'",
+			["time"] = "2020/08/02 21:03:04",
+			["locals"] = "(*temporary) = \"Usage: GetLocale(application[, silent]): 'application' - No locales registered for 'Grid2Options'\"\n",
+			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Scrap\\libs\\AceLocale-3.0\\AceLocale-3.0-6.lua\"]:134: in function `GetLocale'\n[string \"@Interface\\AddOns\\Grid2Options\\GridCore.lua\"]:5: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:283: in function `LoadGrid2Options'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:300: in function `?'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceConsole-3.0\\AceConsole-3.0-7.lua\"]:94: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function <Interface\\FrameXML\\ChatFrame.lua:4805>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function <Interface\\FrameXML\\ChatFrame.lua:4522>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 140,
+			["counter"] = 3,
+		}, -- [7]
+		{
+			["message"] = "Interface\\AddOns\\Grid2Options\\GridUtils.lua:6: attempt to index local 'Grid2Options' (a nil value)",
+			["time"] = "2020/08/02 21:03:04",
+			["locals"] = "Grid2Options = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index local 'Grid2Options' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Grid2Options\\GridUtils.lua\"]:6: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:283: in function `LoadGrid2Options'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:300: in function `?'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceConsole-3.0\\AceConsole-3.0-7.lua\"]:94: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function <Interface\\FrameXML\\ChatFrame.lua:4805>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function <Interface\\FrameXML\\ChatFrame.lua:4522>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 140,
+			["counter"] = 3,
+		}, -- [8]
+		{
+			["message"] = "Interface\\AddOns\\Grid2Options\\GridGeneral.lua:5: attempt to index global 'Grid2Options' (a nil value)",
+			["time"] = "2020/08/02 21:03:04",
+			["locals"] = "(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index global 'Grid2Options' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Grid2Options\\GridGeneral.lua\"]:5: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:283: in function `LoadGrid2Options'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:300: in function `?'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceConsole-3.0\\AceConsole-3.0-7.lua\"]:94: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function <Interface\\FrameXML\\ChatFrame.lua:4805>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function <Interface\\FrameXML\\ChatFrame.lua:4522>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 140,
+			["counter"] = 3,
+		}, -- [9]
+		{
+			["message"] = "Interface\\AddOns\\Grid2Options\\GridIndicators.lua:6: attempt to index local 'Grid2Options' (a nil value)",
+			["time"] = "2020/08/02 21:03:04",
+			["locals"] = "Grid2Options = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index local 'Grid2Options' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Grid2Options\\GridIndicators.lua\"]:6: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:283: in function `LoadGrid2Options'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:300: in function `?'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceConsole-3.0\\AceConsole-3.0-7.lua\"]:94: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function <Interface\\FrameXML\\ChatFrame.lua:4805>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function <Interface\\FrameXML\\ChatFrame.lua:4522>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 140,
+			["counter"] = 3,
+		}, -- [10]
+		{
+			["message"] = "Interface\\AddOns\\Grid2Options\\GridStatuses.lua:6: attempt to index local 'Grid2Options' (a nil value)",
+			["time"] = "2020/08/02 21:03:04",
+			["locals"] = "Grid2Options = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index local 'Grid2Options' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Grid2Options\\GridStatuses.lua\"]:6: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:283: in function `LoadGrid2Options'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:300: in function `?'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceConsole-3.0\\AceConsole-3.0-7.lua\"]:94: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function <Interface\\FrameXML\\ChatFrame.lua:4805>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function <Interface\\FrameXML\\ChatFrame.lua:4522>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 140,
+			["counter"] = 3,
+		}, -- [11]
+		{
+			["message"] = "Interface\\AddOns\\Grid2Options\\GridThemes.lua:1: attempt to index global 'Grid2Options' (a nil value)",
+			["time"] = "2020/08/02 21:03:04",
+			["locals"] = "(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index global 'Grid2Options' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Grid2Options\\GridThemes.lua\"]:1: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:283: in function `LoadGrid2Options'\n[string \"@Interface\\AddOns\\Grid2\\GridCore.lua\"]:300: in function `?'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceConsole-3.0\\AceConsole-3.0-7.lua\"]:94: in function `?'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4859: in function <Interface\\FrameXML\\ChatFrame.lua:4805>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4523: in function <Interface\\FrameXML\\ChatFrame.lua:4522>\n[string \"=[C]\"]: in function `ChatEdit_SendText'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:4559: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 140,
+			["counter"] = 3,
+		}, -- [12]
+		{
+			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\enUS-English (US).lua",
+			["session"] = 140,
+			["time"] = "2020/08/02 21:03:04",
+			["counter"] = 3,
+		}, -- [13]
+		{
+			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\deDE-German.lua",
+			["session"] = 140,
+			["time"] = "2020/08/02 21:03:04",
+			["counter"] = 3,
+		}, -- [14]
+		{
+			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\esES-Spanish (EU).lua",
+			["session"] = 140,
+			["time"] = "2020/08/02 21:03:04",
+			["counter"] = 3,
+		}, -- [15]
+		{
+			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\esMX-Spanish (Latin American).lua",
+			["session"] = 140,
+			["time"] = "2020/08/02 21:03:04",
+			["counter"] = 3,
+		}, -- [16]
 	},
 }

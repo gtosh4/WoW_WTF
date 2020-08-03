@@ -9,6 +9,23 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
+				["ToshUnitFrame1"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
+					["name"] = "ToshUnitFrame1",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0.0001220703125, -- [4]
+						-344.9996337890625, -- [5]
+					},
+				},
 				["LootFrame"] = {
 					["UIPanelWindows"] = {
 						["pushable"] = 7,

@@ -9,8 +9,7 @@ VWQL = {
 	["Ignore"] = {
 	},
 	["Toshpriest-Area52"] = {
-		["FilterType"] = {
-		},
+		["VERSION"] = 92,
 		["Filter"] = 63,
 		["Quests"] = {
 			[51113] = true,
@@ -35,54 +34,53 @@ VWQL = {
 			[51581] = true,
 			[52278] = true,
 			[55304] = true,
-			[55466] = true,
-			[52056] = true,
+			[50861] = true,
+			[52875] = true,
 			[50648] = true,
-			[50570] = true,
-			[51296] = true,
+			[52864] = true,
+			[51422] = true,
 			[51095] = true,
 			[51174] = true,
 			[51666] = true,
 			[52298] = true,
 			[50850] = true,
 			[50853] = true,
-			[51422] = true,
-			[52864] = true,
-			[52875] = true,
-			[50861] = true,
+			[51296] = true,
+			[50570] = true,
+			[52056] = true,
+			[55466] = true,
 		},
-		["VERSION"] = 92,
+		["FilterType"] = {
+		},
 	},
 	["Sort"] = 5,
 	["VERSION"] = 92,
-	["Toshaman-Area52"] = {
-		["Filter"] = 63,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-		},
-		["VERSION"] = 92,
-	},
 	["Toshdk-Kil'jaeden"] = {
-		["Filter"] = 63,
+		["VERSION"] = 92,
 		["FilterType"] = {
 		},
 		["Quests"] = {
 		},
+		["Filter"] = 63,
+	},
+	["Toshaman-Area52"] = {
 		["VERSION"] = 92,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
 	},
 	["Toshpal-Area52"] = {
-		["Filter"] = 63,
+		["VERSION"] = 92,
 		["FilterType"] = {
 		},
 		["Quests"] = {
-			[50975] = true,
-			[51100] = true,
-			[55302] = true,
-			[52875] = true,
-			[50633] = true,
+			[58747] = true,
+			[58743] = true,
+			[55466] = true,
 		},
-		["VERSION"] = 92,
+		["Filter"] = 63,
 	},
 	["HideLegion"] = true,
 }

@@ -34,7 +34,7 @@ AstralKeys = {
 		24, -- [4]
 		25, -- [5]
 		158, -- [6]
-		364787, -- [7]
+		469226, -- [7]
 	}, -- [4]
 	{
 		"Oxclamation-Area52", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		17, -- [4]
 		0, -- [5]
 		158, -- [6]
-		3, -- [7]
+		476657, -- [7]
 	}, -- [5]
 	{
 		"Artsong-Area52", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		24, -- [4]
 		25, -- [5]
 		158, -- [6]
-		370477, -- [7]
+		471380, -- [7]
 	}, -- [8]
 	{
 		"Andruw-Area52", -- [1]
@@ -115,16 +115,16 @@ AstralKeys = {
 		17, -- [4]
 		20, -- [5]
 		158, -- [6]
-		56297, -- [7]
+		476173, -- [7]
 	}, -- [13]
 	{
 		"Delpi-Area52", -- [1]
 		"MAGE", -- [2]
 		370, -- [3]
 		26, -- [4]
-		0, -- [5]
+		26, -- [5]
 		158, -- [6]
-		61448, -- [7]
+		476594, -- [7]
 	}, -- [14]
 	{
 		"Arnbjorn-Area52", -- [1]
@@ -142,7 +142,7 @@ AstralKeys = {
 		20, -- [4]
 		21, -- [5]
 		158, -- [6]
-		368420, -- [7]
+		477400, -- [7]
 	}, -- [16]
 	{
 		"Bluearruwu-Area52", -- [1]
@@ -151,7 +151,7 @@ AstralKeys = {
 		21, -- [4]
 		0, -- [5]
 		158, -- [6]
-		3, -- [7]
+		468056, -- [7]
 	}, -- [17]
 	{
 		"Toshpal-Area52", -- [1]
@@ -160,15 +160,15 @@ AstralKeys = {
 		19, -- [4]
 		19, -- [5]
 		158, -- [6]
-		370504, -- [7]
+		471694, -- [7]
 	}, -- [18]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 19,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralFriends = {
@@ -176,12 +176,12 @@ AstralFriends = {
 		"Mattea-Kil'jaeden", -- [1]
 		"boochan#1194", -- [2]
 		"HUNTER", -- [3]
-		248, -- [4]
-		16, -- [5]
+		370, -- [4]
+		17, -- [5]
 		158, -- [6]
-		44456, -- [7]
+		477355, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		15, -- [9]
 	}, -- [1]
 	{
 		"Orcbum-Kil'jaeden", -- [1]
@@ -190,7 +190,7 @@ AstralFriends = {
 		370, -- [4]
 		23, -- [5]
 		158, -- [6]
-		304751, -- [7]
+		319051, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [2]
@@ -201,7 +201,7 @@ AstralFriends = {
 		252, -- [4]
 		20, -- [5]
 		158, -- [6]
-		207351, -- [7]
+		393099, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [3]
@@ -223,7 +223,7 @@ AstralFriends = {
 		252, -- [4]
 		21, -- [5]
 		158, -- [6]
-		233762, -- [7]
+		468777, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [5]
@@ -234,7 +234,7 @@ AstralFriends = {
 		353, -- [4]
 		24, -- [5]
 		158, -- [6]
-		316671, -- [7]
+		395598, -- [7]
 		"1", -- [8]
 		25, -- [9]
 	}, -- [6]
@@ -245,7 +245,7 @@ AstralFriends = {
 		245, -- [4]
 		24, -- [5]
 		158, -- [6]
-		368693, -- [7]
+		469555, -- [7]
 		"1", -- [8]
 		25, -- [9]
 	}, -- [7]
@@ -256,9 +256,9 @@ AstralFriends = {
 		247, -- [4]
 		23, -- [5]
 		158, -- [6]
-		304747, -- [7]
+		463407, -- [7]
 		"1", -- [8]
-		21, -- [9]
+		23, -- [9]
 	}, -- [8]
 	{
 		"Royalty-Area52", -- [1]
@@ -267,7 +267,7 @@ AstralFriends = {
 		252, -- [4]
 		20, -- [5]
 		158, -- [6]
-		293165, -- [7]
+		472548, -- [7]
 		"1", -- [8]
 		21, -- [9]
 	}, -- [9]
@@ -278,7 +278,7 @@ AstralFriends = {
 		353, -- [4]
 		19, -- [5]
 		158, -- [6]
-		368716, -- [7]
+		465039, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [10]
@@ -286,12 +286,12 @@ AstralFriends = {
 		"Artsong-Area52", -- [1]
 		"Ceesong#1985", -- [2]
 		"HUNTER", -- [3]
-		245, -- [4]
-		23, -- [5]
+		244, -- [4]
+		24, -- [5]
 		158, -- [6]
-		367666, -- [7]
+		459609, -- [7]
 		"1", -- [8]
-		17, -- [9]
+		23, -- [9]
 	}, -- [11]
 	{
 		"Baesong-Kil'jaeden", -- [1]
@@ -300,7 +300,7 @@ AstralFriends = {
 		370, -- [4]
 		19, -- [5]
 		158, -- [6]
-		345627, -- [7]
+		472547, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [12]
@@ -311,7 +311,7 @@ AstralFriends = {
 		246, -- [4]
 		22, -- [5]
 		158, -- [6]
-		305268, -- [7]
+		468960, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [13]
@@ -319,10 +319,10 @@ AstralFriends = {
 		"Kosaki-Kil'jaeden", -- [1]
 		"Johnnymsw#1452", -- [2]
 		"ROGUE", -- [3]
-		251, -- [4]
-		19, -- [5]
+		353, -- [4]
+		18, -- [5]
 		158, -- [6]
-		56392, -- [7]
+		455987, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [14]
@@ -330,12 +330,12 @@ AstralFriends = {
 		"Meta-Kil'jaeden", -- [1]
 		"Johnnymsw#1452", -- [2]
 		"DEMONHUNTER", -- [3]
-		251, -- [4]
-		16, -- [5]
+		252, -- [4]
+		18, -- [5]
 		158, -- [6]
-		305401, -- [7]
+		469257, -- [7]
 		"1", -- [8]
-		19, -- [9]
+		20, -- [9]
 	}, -- [15]
 	{
 		"Andruw-Area52", -- [1]
@@ -355,12 +355,13 @@ AstralFriends = {
 		250, -- [4]
 		21, -- [5]
 		158, -- [6]
-		39116, -- [7]
+		468056, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [17]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -374,7 +375,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -383,17 +386,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 	},
 	["general"] = {
 		["show_minimap_button"] = {
@@ -404,10 +397,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
 			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -419,23 +412,30 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 }
 AstralMinimap = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
 		},
 		["Toshdk - Kil'jaeden"] = {
 		},
-		["Toshaman - Area 52"] = {
-		},
 		["Toshpal - Area 52"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 	},
 }

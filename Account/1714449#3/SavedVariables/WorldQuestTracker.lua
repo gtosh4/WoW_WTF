@@ -203,25 +203,40 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
+					[54060] = {
+						["expireAt"] = 1596466842,
+						["rewardAmount"] = 341,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52923] = {
+						["expireAt"] = 1596466902,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045112,
+					},
+					[51630] = {
+						["expireAt"] = 1596466842,
+						["rewardAmount"] = 198,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50876] = {
+						["expireAt"] = 1596466842,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
 					[55466] = {
 						["expireAt"] = 1596553259,
 						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[51046] = {
-						["expireAt"] = 1596380491,
-						["rewardAmount"] = "5",
-						["rewardTexture"] = 2065568,
-					},
-					[50718] = {
-						["expireAt"] = 1596380465,
+					[50524] = {
+						["expireAt"] = 1596438042,
 						["rewardAmount"] = "|cff2292FF415",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
 					},
-					[52754] = {
-						["expireAt"] = 1596380465,
-						["rewardAmount"] = "19",
-						["rewardTexture"] = 2004597,
+					[50636] = {
+						["expireAt"] = 1596466842,
+						["rewardAmount"] = 175,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
 			},
