@@ -9,42 +9,20 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
-				["ToshUnitFrame1"] = {
+				["TooltipMover"] = {
 					["orgPos"] = {
 						"TOP", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
+						0, -- [3]
 						0, -- [4]
-						-135, -- [5]
 					},
-					["name"] = "ToshUnitFrame1",
+					["name"] = "TooltipMover",
 					["pos"] = {
 						"TOP", -- [1]
 						"UIParent", -- [2]
 						"TOP", -- [3]
-						0.0001220703125, -- [4]
-						-344.9996337890625, -- [5]
-					},
-				},
-				["LootFrame"] = {
-					["UIPanelWindows"] = {
-						["pushable"] = 7,
-						["area"] = "left",
-					},
-					["orgPos"] = {
-						"LEFT", -- [1]
-						"UIParent", -- [2]
-						"LEFT", -- [3]
-						488, -- [4]
-						43.99999618530273, -- [5]
-					},
-					["name"] = "LootFrame",
-					["pos"] = {
-						"BOTTOMLEFT", -- [1]
-						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						487.6664123535156, -- [4]
-						523.999755859375, -- [5]
+						1076.666137695313, -- [4]
+						-197.4999389648438, -- [5]
 					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
@@ -116,27 +94,32 @@ MADB = {
 						840.833251953125, -- [5]
 					},
 				},
-				["TooltipMover"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						0, -- [3]
-						0, -- [4]
+				["LootFrame"] = {
+					["UIPanelWindows"] = {
+						["pushable"] = 7,
+						["area"] = "left",
 					},
-					["name"] = "TooltipMover",
-					["pos"] = {
-						"TOP", -- [1]
+					["orgPos"] = {
+						"LEFT", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
-						1076.666137695313, -- [4]
-						-197.4999389648438, -- [5]
+						"LEFT", -- [3]
+						488, -- [4]
+						43.99999618530273, -- [5]
+					},
+					["name"] = "LootFrame",
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						487.6664123535156, -- [4]
+						523.999755859375, -- [5]
 					},
 				},
 			},
 		},
 	},
-	["frameListRows"] = 18,
-	["noBags"] = true,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = true,
+	["frameListRows"] = 18,
 }

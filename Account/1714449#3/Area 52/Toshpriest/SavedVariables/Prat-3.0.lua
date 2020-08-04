@@ -14,13 +14,13 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
+			["ChatFrame9EditBox"] = {
 			},
 			["ChatFrame2EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
 			},
 		},
 	},
@@ -29,7 +29,7 @@ Prat3HighCPUPerCharDB = {
 	["scrollback"] = {
 		["ChatFrame5"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -43,16 +43,24 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 18 |4hour:hours;, 7 |4minute:minutes;, 27 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -77,8 +85,11 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:05]|h|r [W To] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1523:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: what time is continuity raid?",
-					["serverTime"] = 1596408066,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408066,
 					["extraData"] = {
 						10, -- [1]
 						false, -- [2]
@@ -86,14 +97,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [1]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:20]|h|r [W From] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1524:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: uhh",
-					["serverTime"] = 1596408081,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408081,
 					["extraData"] = {
 						0, -- [1]
 						false, -- [2]
@@ -101,14 +112,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [2]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:21]|h|r [W From] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1525:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: oh shit",
-					["serverTime"] = 1596408082,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408082,
 					["extraData"] = {
 						0, -- [1]
 						false, -- [2]
@@ -116,14 +127,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [3]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:22]|h|r [W From] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1526:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: that's today",
-					["serverTime"] = 1596408083,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408083,
 					["extraData"] = {
 						0, -- [1]
 						false, -- [2]
@@ -131,14 +142,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [4]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:23]|h|r [W From] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1527:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: LOL",
-					["serverTime"] = 1596408084,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408084,
 					["extraData"] = {
 						0, -- [1]
 						false, -- [2]
@@ -146,14 +157,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [5]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:24]|h|r [W From] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1528:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: 7 pm",
-					["serverTime"] = 1596408085,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408085,
 					["extraData"] = {
 						0, -- [1]
 						false, -- [2]
@@ -161,14 +172,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [6]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:53]|h|r [W To] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1531:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: goes until 10?",
-					["serverTime"] = 1596408114,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408114,
 					["extraData"] = {
 						10, -- [1]
 						false, -- [2]
@@ -176,14 +187,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [7]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:41:56]|h|r [W From] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1532:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: yeah",
-					["serverTime"] = 1596408117,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408117,
 					["extraData"] = {
 						0, -- [1]
 						false, -- [2]
@@ -191,14 +202,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [8]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:42:00]|h|r [W To] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1533:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: mmk",
-					["serverTime"] = 1596408121,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408121,
 					["extraData"] = {
 						10, -- [1]
 						false, -- [2]
@@ -206,14 +217,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [9]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:42:11]|h|r [W To] |cffd8d8d8[|r|Hplayer:Royalty-Area52:1534:WHISPER:ROYALTY-AREA52|h|cffd8bc3f120|r:|cfff38bb9Royalty|r|h|cffd8d8d8]|r: I think I can do that, Wed & Sun",
-					["serverTime"] = 1596408132,
+					["b"] = 1,
 					["r"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596408132,
 					["extraData"] = {
 						10, -- [1]
 						false, -- [2]
@@ -221,29 +232,26 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
 				}, -- [10]
 				{
-					["message"] = "0 |4day:days;, 5 |4hour:hours;, 41 |4minute:minutes;, 38 |4second:seconds;",
-					["timestamp"] = 392080.417,
-				}, -- [11]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 392080.417,
-				}, -- [12]
-				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
-					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "0 |4day:days;, 18 |4hour:hours;, 7 |4minute:minutes;, 27 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [12]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
 				}, -- [13]
 			},
 			["maxElements"] = 128,
@@ -255,7 +263,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 36,
+			["headIndex"] = 7,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -268,24 +276,27 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[15:06:23]|h|r You repaired your armor for 212|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 87|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 16|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["message"] = "|cff979797|Hpratcopy|h[19:02:12]|h|r You receive item: |cffffffff|Hitem:153031::::::::120:256::::::|h[Glyph of the Lightspawn]|h|r.",
 					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596395184,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596409333,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						5, -- [3]
-						5, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:29]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1703:4927:::|h[Coarse Leather Cestus of the Feverflare]|h|r.",
-					["serverTime"] = 1596401970,
+					["message"] = "|cff979797|Hpratcopy|h[19:02:13]|h|r You receive item: |cffffffff|Hitem:153036::::::::120:256::::::|h[Glyph of Dark Absolution]|h|r.",
+					["b"] = 0,
 					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596409334,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -293,14 +304,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:30]|h|r Fayfay-Kil'jaeden creates: |cff0070dd|Hitem:154161::::::::120:257::13:2:1700:4926:::|h[Coarse Leather Cestus of the Feverflare]|h|r.",
-					["serverTime"] = 1596401971,
+					["message"] = "|cff979797|Hpratcopy|h[19:02:14]|h|r You receive item: |cffffffff|Hitem:129017::::::::120:256::::::|h[Glyph of Ghostly Fade]|h|r.",
+					["b"] = 0,
 					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596409335,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -308,480 +319,42 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:32]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1701:4927:::|h[Coarse Leather Cestus of the Feverflare]|h|r.",
-					["serverTime"] = 1596401973,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [4]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:33]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1679:4927:::|h[Coarse Leather Cestus of the Quickblade]|h|r.",
-					["serverTime"] = 1596401974,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [5]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:34]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1713:4927:::|h[Coarse Leather Cestus of the Harmonious]|h|r.",
-					["serverTime"] = 1596401975,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [6]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:36]|h|r Fayfay-Kil'jaeden creates: |cff0070dd|Hitem:154161::::::::120:257::13:2:1712:4926:::|h[Coarse Leather Cestus of the Harmonious]|h|r.",
-					["serverTime"] = 1596401977,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [7]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:37]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1678:4927:::|h[Coarse Leather Cestus of the Quickblade]|h|r.",
-					["serverTime"] = 1596401978,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:38]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1717:4927:::|h[Coarse Leather Cestus of the Harmonious]|h|r.",
-					["serverTime"] = 1596401979,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [9]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:40]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1710:4927:::|h[Coarse Leather Cestus of the Aurora]|h|r.",
-					["serverTime"] = 1596401981,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:41]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1709:4927:::|h[Coarse Leather Cestus of the Aurora]|h|r.",
-					["serverTime"] = 1596401982,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:47]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1706:4927:::|h[Coarse Leather Cestus of the Aurora]|h|r.",
-					["serverTime"] = 1596401988,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:57]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1717:4927:::|h[Coarse Leather Cestus of the Harmonious]|h|r.",
-					["serverTime"] = 1596401998,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:59]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1708:4927:::|h[Coarse Leather Cestus of the Aurora]|h|r.",
-					["serverTime"] = 1596402000,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:00]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1679:4927:::|h[Coarse Leather Cestus of the Quickblade]|h|r.",
-					["serverTime"] = 1596402001,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:01]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1697:4927:::|h[Coarse Leather Cestus of the Feverflare]|h|r.",
-					["serverTime"] = 1596402002,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:03]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1686:4927:::|h[Coarse Leather Cestus of the Peerless]|h|r.",
-					["serverTime"] = 1596402004,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:04]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1688:4927:::|h[Coarse Leather Cestus of the Peerless]|h|r.",
-					["serverTime"] = 1596402005,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:05]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1711:4927:::|h[Coarse Leather Cestus of the Harmonious]|h|r.",
-					["serverTime"] = 1596402006,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:07]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1682:4927:::|h[Coarse Leather Cestus of the Quickblade]|h|r.",
-					["serverTime"] = 1596402008,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:08]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1688:4927:::|h[Coarse Leather Cestus of the Peerless]|h|r.",
-					["serverTime"] = 1596402009,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:00:09]|h|r Fayfay-Kil'jaeden creates: |cff1eff00|Hitem:154161::::::::120:257::13:2:1682:4927:::|h[Coarse Leather Cestus of the Quickblade]|h|r.",
-					["serverTime"] = 1596402010,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:32:55]|h|r You repaired your armor for 392|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 6|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 71|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["serverTime"] = 1596403976,
-					["r"] = 1,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						26, -- [3]
-						26, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:39:07]|h|r Fayfay-Kil'jaeden receives loot: |cffa335ee|Hitem:158923::::::::120:257:8257536:::250:18:9:7:13:120:::|h[Mythic Keystone]|h|r.",
-					["serverTime"] = 1596404348,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:39:07]|h|r Fayfay-Kil'jaeden receives loot: |cffa335ee|Hitem:159384::::::::120:257::16:5:6536:6516:6513:1637:4786:::|h[Corpuscular Greaves]|h|r.",
-					["serverTime"] = 1596404348,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:39:08]|h|r You receive loot: |cffa335ee|Hitem:159652::::::::120:257::16:5:6536:6516:6515:1637:4786:::|h[Leaxa's Thought-Piercer]|h|r.",
-					["serverTime"] = 1596404349,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:39:08]|h|r You receive loot: |cff0070dd|Hitem:165948::::::::120:257::::::|h[Tidalcore]|h|r.",
-					["serverTime"] = 1596404349,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:39:08]|h|r Rathux receives loot: |cffa335ee|Hitem:159654::::::::120:257::16:6:6536:43:6516:6515:1637:4786:::|h[Corruption Borne Headlopper]|h|r.",
-					["serverTime"] = 1596404349,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						32, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:39:09]|h|r You receive currency: |cffe6cc80|Hcurrency:1803:0|h[Echoes of Ny'alotha]|h|r x285.",
-					["serverTime"] = 1596404350,
-					["r"] = 0,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						33, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:39:09]|h|r Kosaki-Kil'jaeden receives loot: |cffa335ee|Hitem:159134::::::::120:257::16:5:6536:6516:6515:1637:4786:::|h[Heart-Piercing Stalactite]|h|r.",
-					["serverTime"] = 1596404350,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						35, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:02:12]|h|r You receive item: |cffffffff|Hitem:153031::::::::120:256::::::|h[Glyph of the Lightspawn]|h|r.",
-					["serverTime"] = 1596409333,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:02:13]|h|r You receive item: |cffffffff|Hitem:153036::::::::120:256::::::|h[Glyph of Dark Absolution]|h|r.",
-					["serverTime"] = 1596409334,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:02:14]|h|r You receive item: |cffffffff|Hitem:129017::::::::120:256::::::|h[Glyph of Ghostly Fade]|h|r.",
-					["serverTime"] = 1596409335,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [33]
-				{
-					["message"] = "0 |4day:days;, 5 |4hour:hours;, 21 |4minute:minutes;, 35 |4second:seconds;",
-					["timestamp"] = 392080.417,
-				}, -- [34]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 392080.417,
-				}, -- [35]
-				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[16:06:01]|h|r You repaired your armor for 2|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 19|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 90|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["r"] = 1,
 					["b"] = 0,
-				}, -- [36]
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						1, -- [3]
+						1, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1596485161,
+				}, -- [5]
+				{
+					["message"] = "0 |4day:days;, 2 |4hour:hours;, 29 |4minute:minutes;, 45 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [6]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
+				}, -- [7]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -792,7 +365,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame7"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -806,16 +379,24 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 18 |4hour:hours;, 7 |4minute:minutes;, 27 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -826,7 +407,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame6"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -840,16 +421,24 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 18 |4hour:hours;, 7 |4minute:minutes;, 27 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -860,7 +449,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -874,16 +463,24 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 18 |4hour:hours;, 7 |4minute:minutes;, 27 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -894,7 +491,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame10"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -908,16 +505,24 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 18 |4hour:hours;, 7 |4minute:minutes;, 27 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -928,7 +533,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame9"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 1,
+			["headIndex"] = 3,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -942,16 +547,24 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596428899,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392354.511,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [1]
+				{
+					["message"] = "0 |4day:days;, 18 |4hour:hours;, 7 |4minute:minutes;, 27 |4second:seconds;",
+					["timestamp"] = 457600.96,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 457600.96,
+				}, -- [3]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -962,7 +575,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 13,
+			["headIndex"] = 33,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -975,242 +588,245 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:50]|h|r Loot Specialization set to: Discipline",
-					["serverTime"] = 1596428631,
+					["message"] = "|cff979797|Hpratcopy|h[18:35:47]|h|r Loot Specialization set to: Discipline",
+					["serverTime"] = 1596494147,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457600.96,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:10]|h|r |cfffe7b09Nv|r has gone offline.",
-					["serverTime"] = 1596428651,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[18:37:48]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sci-Area52:2830:GUILD|h|cffd8bc3f120|r:|cfff38bb9Sci|r|h|cffd8d8d8]|r: next nazjatar crate in 10 min hehe",
+					["serverTime"] = 1596494268,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						1, -- [1]
+						5, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392107.304,
+					["timestamp"] = 457723.202,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:37]|h|r Auctioneer Ralinza says: Hey, I remember you! Always runnin' your mouth about how great Sylvanas was. Get outta my auction house!",
-					["serverTime"] = 1596428798,
+					["message"] = "|cff979797|Hpratcopy|h[18:37:51]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["serverTime"] = 1596494271,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392254.136,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 457726.454,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:42]|h|r Former Banshee Loyalist says: They told me all would be forgiven if I swore an oath to the Horde. I just want to sell my anchorweed!",
-					["serverTime"] = 1596428803,
+					["message"] = "|cff979797|Hpratcopy|h[18:38:16]|h|r Overlord Natoj yells: NEFARIAN BE SLAIN! People of Orgrimmar, bow down before da might of Dendrospeedy and her allies for dey have laid a mighty blow against da Black Dragonflight !",
+					["serverTime"] = 1596494296,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392259.303,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 457751.075,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:48]|h|r Auctioneer Ralinza says: I don't care what you swore, you're outta here!",
-					["serverTime"] = 1596428809,
+					["message"] = "|cff979797|Hpratcopy|h[18:38:25]|h|r Overlord Natoj yells: Be lifted by Dendrospeedy's accomplishment! Revel in her rallying cry!",
+					["serverTime"] = 1596494305,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392264.415,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 457759.775,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:50]|h|r Gazlowe says: Yo! What's the problem?",
-					["serverTime"] = 1596428811,
+					["message"] = "|cff979797|Hpratcopy|h[18:38:43]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["serverTime"] = 1596494323,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392266.781,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 457778.375,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:51]|h|r Auctioneer Ralinza says: The Banshee's flunkie wants to use our auction house!",
-					["serverTime"] = 1596428812,
+					["message"] = "|cff979797|Hpratcopy|h[18:39:49]|h|r Baradin Grunt yells: Victory in Tol Barad is ours! While the Alliance offensive is crippled, we need your immediate efforts to gather resources and secure the island!",
+					["serverTime"] = 1596494389,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392267.915,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 457844.44,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:54]|h|r Gazlowe says: So let 'em! Sylvanas is gone, and we all gotta unite if we wanna survive.",
-					["serverTime"] = 1596428815,
+					["message"] = "|cff979797|Hpratcopy|h[18:41:19]|h|r You are now Away: AFK",
+					["serverTime"] = 1596494479,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392270.581,
+					["timestamp"] = 457934.346,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:58]|h|r Gazlowe says: If they say they're not with Sylvanas no more, then they're not. She conned a lot of folks into following her.",
-					["serverTime"] = 1596428819,
+					["message"] = "|cff979797|Hpratcopy|h[18:41:25]|h|r |cffc31d39Rathux|r has gone offline.",
+					["serverTime"] = 1596494485,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392275.211,
+					["timestamp"] = 457940.345,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:27:04]|h|r Auctioneer Ralinza says: Fine, fine! We're burnin' daylight! What do ya wanna sell?",
-					["serverTime"] = 1596428825,
+					["message"] = "|cff979797|Hpratcopy|h[18:43:42]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["serverTime"] = 1596494622,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392280.703,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 458077.22,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:27:07]|h|r Former Banshee Loyalist says: Thank you. I'd like to sell these twenty anchorweed. Individually.",
-					["serverTime"] = 1596428828,
+					["message"] = "|cff979797|Hpratcopy|h[18:45:19]|h|r Zazo says: Saurfang... Vol'jin... Cairne... how many times must I watch the Horde's heroes die?",
+					["serverTime"] = 1596494719,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392283.607,
+					["timestamp"] = 458174.288,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:27:10]|h|r Auctioneer Ralinza says: You want to... okay. We're gonna have a little talk about auction house etiquette.",
-					["serverTime"] = 1596428831,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392286.912,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:28:18]|h|r You have been disconnected from Blizzard services.",
-					["serverTime"] = 1596428899,
+					["message"] = "|cff979797|Hpratcopy|h[18:47:18]|h|r |cffa9d271Wilhun|r has gone offline.",
+					["serverTime"] = 1596494838,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
 					},
-					["timestamp"] = 392354.511,
+					["timestamp"] = 458293.558,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:24]|h|r |cffd8d8d8[|r|Hplayer:Wildem:2891|h|cffd8bc3f120|r:|cffa22fc8Wildem|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1596494844,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 458299.358,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:05]|h|r First Arcanist Thalyssra says: I have seen you before. You were one of many who renounced Sylvanas and swore loyalty to the Horde.",
-					["serverTime"] = 1596413166,
+					["message"] = "|cff979797|Hpratcopy|h[18:47:50]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["serverTime"] = 1596494870,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 458325.503,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:10]|h|r First Arcanist Thalyssra says: This individual is welcome in Orgrimmar. Do not bar their way.",
-					["serverTime"] = 1596413171,
+					["message"] = "|cff979797|Hpratcopy|h[18:47:57]|h|r |cffa22fc8Wildem|r has gone offline.",
+					["serverTime"] = 1596494877,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458331.803,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0,
 				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:13]|h|r Stoki Wonderwand says: Are you kiddin' me?! They woulda had us all in chains if Saurfang hadn't stepped up and done somethin' about it.",
-					["serverTime"] = 1596413174,
+					["message"] = "|cff979797|Hpratcopy|h[18:48:41]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["serverTime"] = 1596494921,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 458376.012,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [16]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:19]|h|r First Arcanist Thalyssra says: When Suramar was freed and Elisande defeated, there were many once loyal to her who had nowhere else to turn.",
-					["serverTime"] = 1596413180,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:07]|h|r Auctioneer Ralinza says: Hey, I remember you! Always runnin' your mouth about how great Sylvanas was. Get outta my auction house!",
+					["serverTime"] = 1596495007,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
@@ -1219,28 +835,13 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458462.715,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [17]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:23]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Zilchz-Area52:1796:CHANNEL:3|h|cffa22fc8Zilchz|r|h|cffd8d8d8]|r: WTB Freehold carry 111-120 pst",
-					["serverTime"] = 1596413184,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						9, -- [3]
-						17, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:24]|h|r First Arcanist Thalyssra says: They sought forgiveness. And we gave it to them, to heal the rift that had been torn between us.",
-					["serverTime"] = 1596413185,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:13]|h|r Former Banshee Loyalist says: They told me all would be forgiven if I swore an oath to the Horde. I just want to sell my anchorweed!",
+					["serverTime"] = 1596495013,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
@@ -1249,13 +850,28 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458467.903,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:50:18]|h|r Auctioneer Ralinza says: I don't care what you swore, you're outta here!",
+					["serverTime"] = 1596495018,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 458473.003,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [19]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:29]|h|r First Arcanist Thalyssra says: Sylvanas's hatred was a plague on the Horde. Let it die with her departure.",
-					["serverTime"] = 1596413190,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:20]|h|r Gazlowe says: Yo! What's the problem?",
+					["serverTime"] = 1596495020,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
@@ -1264,13 +880,13 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458475.351,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [20]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:06:34]|h|r Stoki Wonderwand says: Hmph... fine. All right, you're free to go wherever you want.",
-					["serverTime"] = 1596413195,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:21]|h|r Auctioneer Ralinza says: The Banshee's flunkie wants to use our auction house!",
+					["serverTime"] = 1596495021,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
@@ -1279,178 +895,178 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458476.484,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [21]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:08:10]|h|r Koreanpistol-BleedingHollow has defeated Sanlock-Thrall in a duel",
-					["serverTime"] = 1596413291,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:24]|h|r Gazlowe says: So let 'em! Sylvanas is gone, and we all gotta unite if we wanna survive.",
+					["serverTime"] = 1596495024,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458479.151,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.6235294342041016,
 				}, -- [22]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:08:49]|h|r Penguinthigh-Onyxia has defeated Stavin-Onyxia in a duel",
-					["serverTime"] = 1596413330,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:29]|h|r Gazlowe says: If they say they're not with Sylvanas no more, then they're not. She conned a lot of folks into following her.",
+					["serverTime"] = 1596495029,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458483.784,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.6235294342041016,
 				}, -- [23]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:09:22]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Fenneleth-Area52:1802:CHANNEL:3|h|cff3ec5e9Fenneleth|r|h|cffd8d8d8]|r: LF community guild!!",
-					["serverTime"] = 1596413363,
-					["r"] = 0.5098039507865906,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:34]|h|r Auctioneer Ralinza says: Fine, fine! We're burnin' daylight! What do ya wanna sell?",
+					["serverTime"] = 1596495034,
+					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						13, -- [1]
 						false, -- [2]
-						9, -- [3]
-						19, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
+					["timestamp"] = 458489.284,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [24]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:09:39]|h|r Edgyness-Illidan has defeated Sanlock-Thrall in a duel",
-					["serverTime"] = 1596413380,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:37]|h|r Former Banshee Loyalist says: Thank you. I'd like to sell these twenty anchorweed. Individually.",
+					["serverTime"] = 1596495037,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458492.184,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.6235294342041016,
 				}, -- [25]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:10:41]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Fenneleth-Area52:1804:CHANNEL:3|h|cff3ec5e9Fenneleth|r|h|cffd8d8d8]|r: LF community guild!!",
-					["serverTime"] = 1596413442,
-					["r"] = 0.5098039507865906,
+					["message"] = "|cff979797|Hpratcopy|h[18:50:40]|h|r Auctioneer Ralinza says: You want to... okay. We're gonna have a little talk about auction house etiquette.",
+					["serverTime"] = 1596495040,
+					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						13, -- [1]
 						false, -- [2]
-						9, -- [3]
-						19, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
+					["timestamp"] = 458495.484,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [26]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:12:03]|h|r Koreanpistol-BleedingHollow has defeated Sanlock-Thrall in a duel",
-					["serverTime"] = 1596413524,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[18:53:31]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Datavi-Area52:3412:GUILD|h|cffd8bc3f120|r:|cfffef367Datavi|r|h|cffd8d8d8]|r: just no",
+					["serverTime"] = 1596495211,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						1, -- [1]
+						5, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						1, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 458666.456,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [27]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:13:26]|h|r |cffd8d8d8[|r|Hplayer:Kilgøroth-Area52:1806:ACHIEVEMENT|h|cffa22fc8Kilgøroth|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:10561:Player-3676-0AFEBD95:1:8:2:20:4294967295:4294967295:4294967295:4294967295|h[Honorable Medallion]|h|r!",
-					["serverTime"] = 1596413607,
+					["message"] = "|cff979797|Hpratcopy|h[18:53:40]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["serverTime"] = 1596495220,
 					["r"] = 1,
 					["extraData"] = {
-						47, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
-						21, -- [4]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 458674.79,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [28]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:13:46]|h|r Kushheavy-Illidan has defeated Edgyness-Illidan in a duel",
-					["serverTime"] = 1596413627,
+					["message"] = "|cff979797|Hpratcopy|h[18:57:49]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["serverTime"] = 1596495469,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:13:56]|h|r Sanlock-Thrall has defeated Koreanpistol-BleedingHollow in a duel",
-					["serverTime"] = 1596413637,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:14:37]|h|r |cffd8d8d8[|r|Hplayer:Aboutreefidy-Area52:1809:ACHIEVEMENT|h|cfffe7b09Aboutreefidy|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:10561:Player-3676-0AF20D4A:1:8:2:20:4294967295:4294967295:4294967295:4294967295|h[Honorable Medallion]|h|r!",
-					["serverTime"] = 1596413678,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
-						22, -- [4]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 458924.497,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:58:38]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["serverTime"] = 1596495518,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 458973.597,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:59:24]|h|r [Y] |cffd8d8d8[|r|Hplayer:Sweetprince-Area52:3972:YELL|h|cffc59a6cSweetprince|r|h|cffd8d8d8]|r: >>Huokan Community<< WTS M+ 10-20 keys || WTS Heroic Ny'alotha full clears with funneling options || WTS Mythic Ny'alotha full clear and specific bosses || WTS Horrific Vision 0-5 masks guaranteed || WTS Jaina & N'zoth Mounts || GOLD ONLY",
+					["serverTime"] = 1596495564,
+					["r"] = 1,
+					["extraData"] = {
+						7, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 459019.03,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [31]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:15:48]|h|r Sanlock-Thrall has defeated Koreanpistol-BleedingHollow in a duel",
-					["serverTime"] = 1596413749,
+					["message"] = "|cff979797|Hpratcopy|h[19:03:37]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["serverTime"] = 1596495817,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						15, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 459272.481,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [32]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:17:08]|h|r |cffd8d8d8[|r|Hplayer:Penguindruid:1811|h|cffd8bc3f120|r:|cfffe7b09Penguindruid|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1596413829,
+					["message"] = "|cff979797|Hpratcopy|h[19:06:19]|h|r You have been inactive for some time and will be logged out of the game. If you wish to remain logged in, hit the cancel button.",
+					["serverTime"] = 1596495979,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
@@ -1459,922 +1075,958 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 459434.33,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [33]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:17:25]|h|r |cffd8d8d8[|r|Hplayer:Arnbjorn:1812|h|cffd8bc3f120|r:|cff3ec5e9Arnbjorn|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1596413846,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:17:53]|h|r Silvermoon Magistrix says: Lady Liadrin!",
-					["serverTime"] = 1596413874,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:17:55]|h|r Lady Liadrin says: Greetings. Anything unusual activity to report?",
-					["serverTime"] = 1596413876,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:17:58]|h|r Silvermoon Magistrix says: None so far. Neither from anyone who still serves Sylvanas, nor from any corrupted by N'Zoth.",
-					["serverTime"] = 1596413879,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:18:03]|h|r Lady Liadrin says: Good. I will begin the patrol.",
-					["serverTime"] = 1596413884,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:18:06]|h|r Lady Liadrin says: Blood Knights, form ranks! We are to maintain order here in Orgrimmar.",
-					["serverTime"] = 1596413887,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:18:19]|h|r Lady Liadrin says: With Saurfang dead and Sylvanas... absent, Orgrimmar is without a warchief.",
-					["serverTime"] = 1596413900,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:18:24]|h|r Lady Liadrin says: Meanwhile, the threat of N'Zoth looms over us all. We mustn't allow Orgrimmar to descend into chaos.",
-					["serverTime"] = 1596413905,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:18:35]|h|r Makkö-Dalaran has defeated Cleindelly-Dalaran in a duel",
-					["serverTime"] = 1596413916,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:18:39]|h|r Lady Liadrin says: Remain vigilant for any signs of N'Zoth's influence... along with any who cling to Sylvanas's twisted ideals.",
-					["serverTime"] = 1596413920,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:18:55]|h|r Lady Liadrin says: Some who sided with the Banshee Queen have seen the error of their ways. They are to be left alone.",
-					["serverTime"] = 1596413936,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:19:01]|h|r Lady Liadrin says: I care not if you fought against them. We must forgive and unite if we are to remain strong in the face of peril.",
-					["serverTime"] = 1596413942,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:19:08]|h|r Orgrimmar Grunt says: Monster!",
-					["serverTime"] = 1596413949,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:20:07]|h|r [Y] |cffd8d8d8[|r|Hplayer:Barmaid-Area52:1825:YELL|h|cff00fe95Barmaid|r|h|cffd8d8d8]|r: they only want when you're seventeen, when you're twenty-one, you're no fun",
-					["serverTime"] = 1596414008,
-					["r"] = 1,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						12, -- [3]
-						23, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:20:40]|h|r [Y] |cffd8d8d8[|r|Hplayer:Asula-Misha:1826:YELL|h|cfffefefeAsula|r-|cfff77f8eMis|r|h|cffd8d8d8]|r: what",
-					["serverTime"] = 1596414041,
-					["r"] = 1,
-					["extraData"] = {
-						7, -- [1]
-						false, -- [2]
-						12, -- [3]
-						24, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:21:56]|h|r Cleindelly-Dalaran has defeated Makkö-Dalaran in a duel",
-					["serverTime"] = 1596414117,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:22:03]|h|r |cffd8d8d8[|r|Hplayer:Clayro-Area52:1828:ACHIEVEMENT|h|cfff38bb9Clayro|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:10561:Player-3676-0AFE8F5D:1:8:2:20:4294967295:4294967295:4294967295:4294967295|h[Honorable Medallion]|h|r!",
-					["serverTime"] = 1596414124,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						3, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:23:19]|h|r You are no longer Away.",
-					["serverTime"] = 1596414200,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:23:58]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[17:35:17]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
+					["serverTime"] = 1596494146,
 					["r"] = 0.250980406999588,
-					["serverTime"] = 1596425914,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
+					["b"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
 					["extraData"] = {
 						5, -- [1]
 						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:35:19]|h|r Loot Specialization set to: Discipline",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490519,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:37:17]|h|r Forsaken Refugee says: How could Sylvanas abandon us like this?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490637,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:37:19]|h|r Forsaken Refugee says: She's never been loyal to the Horde.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490639,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:37:22]|h|r Forsaken Refugee says: No, not the Horde. Us. The Forsaken. We're her people.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490642,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:37:26]|h|r Forsaken Refugee says: Not anymore.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490646,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:37:56]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490676,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:38:57]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490737,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:09]|h|r You are now Away: AFK",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490809,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:27]|h|r Auctioneer Ralinza says: Hey, I remember you! Always runnin' your mouth about how great Sylvanas was. Get outta my auction house!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490827,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:32]|h|r Former Banshee Loyalist says: They told me all would be forgiven if I swore an oath to the Horde. I just want to sell my anchorweed!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490832,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:37]|h|r Auctioneer Ralinza says: I don't care what you swore, you're outta here!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490837,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:40]|h|r Gazlowe says: Yo! What's the problem?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490840,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:41]|h|r Auctioneer Ralinza says: The Banshee's flunkie wants to use our auction house!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490841,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:43]|h|r Gazlowe says: So let 'em! Sylvanas is gone, and we all gotta unite if we wanna survive.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490843,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:48]|h|r Gazlowe says: If they say they're not with Sylvanas no more, then they're not. She conned a lot of folks into following her.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490848,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:53]|h|r Auctioneer Ralinza says: Fine, fine! We're burnin' daylight! What do ya wanna sell?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490853,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:40:56]|h|r Former Banshee Loyalist says: Thank you. I'd like to sell these twenty anchorweed. Individually.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490856,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:41:00]|h|r Auctioneer Ralinza says: You want to... okay. We're gonna have a little talk about auction house etiquette.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490860,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
 					},
 				}, -- [52]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:24:00]|h|r Loot Specialization set to: Discipline",
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[17:42:48]|h|r Dontgankplz looks tipsy.",
 					["b"] = 0,
+					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490968,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
 					},
-					["serverTime"] = 1596414241,
 				}, -- [53]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:24:42]|h|r |cffd8d8d8[|r|Hplayer:Rivalry:1859|h|cffd8bc3f120|r:|cffa22fc8Rivalry|r|h|cffd8d8d8]|r has come online.",
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[17:42:49]|h|r Dontgankplz looks drunk.",
 					["b"] = 0,
+					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490969,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1596414283,
 				}, -- [54]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:38:32]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426129,
-					["b"] = 0.250980406999588,
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:38:34]|h|r Loot Specialization set to: Discipline",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[17:42:50]|h|r Dontgankplz looks completely smashed.",
 					["b"] = 0,
-					["serverTime"] = 1596425915,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
 					["r"] = 1,
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:40:19]|h|r Nubkips looks tipsy.",
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490970,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1596426020,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [57]
+				}, -- [55]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:42:07]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["r"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1596426537,
-					["timestamp"] = 392080.417,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["g"] = 1,
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:42:08]|h|r Loot Specialization set to: Discipline",
+					["message"] = "|cff979797|Hpratcopy|h[17:42:53]|h|r Liltapwater looks tipsy.",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426129,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490973,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:42:55]|h|r Fkknlamron looks tipsy.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490975,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:43:02]|h|r Fkknlamron looks drunk.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490982,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:43:06]|h|r Liltapwater looks drunk.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490986,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
 					},
 				}, -- [59]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:23]|h|r Auctioneer Ralinza says: Hey, I remember you! Always runnin' your mouth about how great Sylvanas was. Get outta my auction house!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:43:07]|h|r Liltapwater looks completely smashed.",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426324,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490987,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [60]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:28]|h|r Former Banshee Loyalist says: They told me all would be forgiven if I swore an oath to the Horde. I just want to sell my anchorweed!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:43:09]|h|r Fkknlamron looks completely smashed.",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426329,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596490989,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [61]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:34]|h|r Auctioneer Ralinza says: I don't care what you swore, you're outta here!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:43:56]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426335,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491036,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
 				}, -- [62]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:36]|h|r Gazlowe says: Yo! What's the problem?",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:46:12]|h|r Liltapwater looks drunk.",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426337,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491172,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [63]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:37]|h|r Auctioneer Ralinza says: The Banshee's flunkie wants to use our auction house!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:46:18]|h|r Fkknlamron looks drunk.",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426338,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491178,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [64]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:40]|h|r Gazlowe says: So let 'em! Sylvanas is gone, and we all gotta unite if we wanna survive.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:47:55]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["b"] = 0.250980406999588,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426341,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491275,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
 				}, -- [65]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:44]|h|r Gazlowe says: If they say they're not with Sylvanas no more, then they're not. She conned a lot of folks into following her.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:48:55]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426345,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491335,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
 				}, -- [66]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:50]|h|r Auctioneer Ralinza says: Fine, fine! We're burnin' daylight! What do ya wanna sell?",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426351,
+					["message"] = "|cff979797|Hpratcopy|h[17:52:06]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Deadlyftx-Area52:2469:CHANNEL:2|h|cff00fe95Deadlyftx|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Forest River|r|cffffffff>|r T/Th 6-9est. 8/12M Looking for dps and a healer to dive into mythic prog. pst for more info!",
+					["b"] = 0.4745098352432251,
+					["r"] = 0.9098039865493774,
+					["g"] = 0.6196078658103943,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491526,
 					["extraData"] = {
-						13, -- [1]
+						68, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
 				}, -- [67]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:53]|h|r Former Banshee Loyalist says: Thank you. I'd like to sell these twenty anchorweed. Individually.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:53:54]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426354,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491634,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
 				}, -- [68]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:45:56]|h|r Auctioneer Ralinza says: You want to... okay. We're gonna have a little talk about auction house etiquette.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[17:54:35]|h|r |cffc31d39Moonßlight|r has gone offline.",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426357,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491675,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [69]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:47:39]|h|r Nubkips seems to be sobering up.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[17:55:16]|h|r Orgrimmar Grunt says: How dare you set foot in our city!",
+					["b"] = 0.6235294342041016,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426460,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491716,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
 				}, -- [70]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:48:56]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[17:55:19]|h|r Thunder Bluff Protector says: Traitorous dog!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426591,
-					["r"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491719,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
 				}, -- [71]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:48:57]|h|r Loot Specialization set to: Discipline",
-					["serverTime"] = 1596426538,
+					["message"] = "|cff979797|Hpratcopy|h[17:55:20]|h|r Urtrun Clanbringer says: Murderer!",
+					["b"] = 0.6235294342041016,
 					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 392080.417,
 					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491720,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
 				}, -- [72]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:49:50]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["serverTime"] = 1596426672,
-					["timestamp"] = 392080.417,
+					["message"] = "|cff979797|Hpratcopy|h[17:55:20]|h|r Goram says: GET A ROPE!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
 					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491720,
 					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
 					},
 				}, -- [73]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:49:51]|h|r Loot Specialization set to: Discipline",
+					["message"] = "|cff979797|Hpratcopy|h[17:56:12]|h|r Orgrimmar Grunt says: Looks like we're going to have ourselves an execution.",
+					["b"] = 0.6235294342041016,
 					["r"] = 1,
-					["b"] = 0,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491772,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1596426592,
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:51:10]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426985,
-					["b"] = 0.250980406999588,
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:51:11]|h|r Loot Specialization set to: Discipline",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["serverTime"] = 1596426672,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:52:02]|h|r [Y] |cffd8d8d8[|r|Hplayer:Fenlel-Area52:1117:YELL|h|cfff38bb9Fenlel|r|h|cffd8d8d8]|r: lf mage port to vale",
-					["extraData"] = {
-						7, -- [1]
+						13, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1596426723,
-					["timestamp"] = 392080.417,
-					["g"] = 0.250980406999588,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:56:28]|h|r Shan'ti says: Looks like we're going to have ourselves an execution.",
+					["b"] = 0.6235294342041016,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491788,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:57:54]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491874,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[17:58:53]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596491933,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
 				}, -- [77]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:33]|h|r Rilgiz says: You got two seconds to scram. We ain't holdin' nothin' for the mooks who stood with Sylvanas!",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:20]|h|r Auctioneer Ralinza says: Hey, I remember you! Always runnin' your mouth about how great Sylvanas was. Get outta my auction house!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492080,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426814,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [78]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:37]|h|r Former Banshee Loyalist says: I keep telling you, my loyalty is to the Horde. I didn't know she was using us. I wanted to believe in her!",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:26]|h|r Former Banshee Loyalist says: They told me all would be forgiven if I swore an oath to the Horde. I just want to sell my anchorweed!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492086,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426818,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [79]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:43]|h|r Rilgiz says: Don't matter to me. Take your junk and get outta here. You ain't part of MY Horde!",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:31]|h|r Auctioneer Ralinza says: I don't care what you swore, you're outta here!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492091,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426824,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [80]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:47]|h|r Baine Bloodhoof says: What's happening here?",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:33]|h|r Gazlowe says: Yo! What's the problem?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492093,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426828,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [81]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:48]|h|r Rilgiz says: This Sylvanas-supporting scum is tryin' to use our bank. This here's for HORDE only!",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:34]|h|r Auctioneer Ralinza says: The Banshee's flunkie wants to use our auction house!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492094,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426829,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [82]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:52]|h|r Baine Bloodhoof says: I will not tolerate such talk! Many were led astray by Sylvanas's lies.",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:37]|h|r Gazlowe says: So let 'em! Sylvanas is gone, and we all gotta unite if we wanna survive.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492097,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426833,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [83]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:57]|h|r Baine Bloodhoof says: We must now come together as a united Horde. Those who seek forgiveness are forgiven.",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:41]|h|r Gazlowe says: If they say they're not with Sylvanas no more, then they're not. She conned a lot of folks into following her.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492101,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426838,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [84]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:54:01]|h|r Baine Bloodhoof says: They have sworn an oath of loyalty to the Horde. They should be allowed to use your services.",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:47]|h|r Auctioneer Ralinza says: Fine, fine! We're burnin' daylight! What do ya wanna sell?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492107,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426842,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [85]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:54:06]|h|r Rilgiz says: Fine, fine! I'll take whatever you wanna deposit. What is it?",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:50]|h|r Former Banshee Loyalist says: Thank you. I'd like to sell these twenty anchorweed. Individually.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492110,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426847,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [86]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:54:09]|h|r Former Banshee Loyalist says: Thank you. I would like to deposit this eternal quintessence. I've been holding onto it for a while.",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:53]|h|r Auctioneer Ralinza says: You want to... okay. We're gonna have a little talk about auction house etiquette.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492113,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426850,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [87]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:54:14]|h|r Rilgiz says: What?! I haven't seen one of these in years. Where'd you get it?",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426855,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:54:17]|h|r Former Banshee Loyalist says: Oh, that's quite a story. Where to begin...",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596426858,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:54:46]|h|r Overlord Natoj yells: NEFARIAN BE SLAIN! People of Orgrimmar, bow down before da might of Navaret and his allies for dey have laid a mighty blow against da Black Dragonflight !",
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1596426887,
-					["timestamp"] = 392080.417,
-					["g"] = 0.250980406999588,
-					["r"] = 1,
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:54:55]|h|r Overlord Natoj yells: Be lifted by Navaret's accomplishment! Revel in his rallying cry!",
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1596426896,
-					["timestamp"] = 392080.417,
-					["g"] = 0.250980406999588,
-					["r"] = 1,
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:56:23]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["r"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1596427542,
-					["timestamp"] = 392080.417,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["g"] = 1,
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:56:25]|h|r Loot Specialization set to: Discipline",
+					["message"] = "|cff979797|Hpratcopy|h[18:01:54]|h|r |cffd8d8d8[|r|Hplayer:Sciduckhunt:2510|h|cffd8bc3f120|r:|cffa9d271Sciduckhunt|r|h|cffd8d8d8]|r has come online.",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596426986,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492114,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:02:23]|h|r |cffa9d271Sciduckhunt|r has gone offline.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492143,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:02:34]|h|r |cffd8d8d8[|r|Hplayer:Sci:2523|h|cffd8bc3f120|r:|cfff38bb9Sci|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492154,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:03:51]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492231,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:05:07]|h|r You are no longer Away.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492307,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:07:54]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492474,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
 					},
 				}, -- [93]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:59:07]|h|r |cffc31d39Moonßlight|r has gone offline.",
+					["message"] = "|cff979797|Hpratcopy|h[18:08:18]|h|r |cff3ec5e9Wilmag|r has gone offline.",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596427148,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492498,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [94]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:01:47]|h|r You are now Away: AFK",
+					["message"] = "|cff979797|Hpratcopy|h[18:08:30]|h|r |cffd8d8d8[|r|Hplayer:Wilwar:2626|h|cffd8bc3f120|r:|cffc59a6cWilwar|r|h|cffd8d8d8]|r has come online.",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596427308,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492510,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [95]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:04:50]|h|r You are no longer Away.",
+					["message"] = "|cff979797|Hpratcopy|h[18:08:47]|h|r |cffc59a6cWilwar|r has gone offline.",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596427491,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492527,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [96]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:28]|h|r Auctioneer Ralinza says: Hey, I remember you! Always runnin' your mouth about how great Sylvanas was. Get outta my auction house!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[18:08:50]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596427529,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492530,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
@@ -2382,395 +2034,419 @@ Prat3HighCPUPerCharDB = {
 					},
 				}, -- [97]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:33]|h|r Former Banshee Loyalist says: They told me all would be forgiven if I swore an oath to the Horde. I just want to sell my anchorweed!",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[18:08:55]|h|r |cffd8d8d8[|r|Hplayer:Wilhun:2629|h|cffd8bc3f120|r:|cffa9d271Wilhun|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596427534,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492535,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
 				}, -- [98]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:41]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[18:10:13]|h|r You are now Away: AFK",
+					["b"] = 0,
+					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596427574,
-					["r"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492613,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
 				}, -- [99]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:42]|h|r Loot Specialization set to: Discipline",
-					["serverTime"] = 1596427543,
+					["message"] = "|cff979797|Hpratcopy|h[18:12:39]|h|r |cffa9d271Artsong|r has gone offline.",
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492759,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0,
 				}, -- [100]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:43]|h|r Auctioneer Ralinza says: I don't care what you swore, you're outta here!",
-					["serverTime"] = 1596427544,
+					["message"] = "|cff979797|Hpratcopy|h[18:12:57]|h|r |cffd8d8d8[|r|Hplayer:Illsong:2635|h|cffd8bc3f120|r:|cffa22fc8Illsong|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492777,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						5, -- [3]
+						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
 				}, -- [101]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:43]|h|r Gazlowe says: Yo! What's the problem?",
-					["serverTime"] = 1596427544,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[18:13:29]|h|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Bigelangston-Area52:2636:CHANNEL:3|h|cffc59a6cBigelangston|r|h|cffd8d8d8]|r: WTB vision full clear",
+					["b"] = 1,
+					["r"] = 0.5098039507865906,
+					["g"] = 0.7725490927696228,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492809,
 					["extraData"] = {
-						13, -- [1]
+						69, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						10, -- [3]
+						11, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
 				}, -- [102]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:43]|h|r Auctioneer Ralinza says: The Banshee's flunkie wants to use our auction house!",
-					["serverTime"] = 1596427544,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:05:44]|h|r Gazlowe says: So let 'em! Sylvanas is gone, and we all gotta unite if we wanna survive.",
-					["serverTime"] = 1596427545,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:06:11]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
+					["message"] = "|cff979797|Hpratcopy|h[18:13:49]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
 					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["serverTime"] = 1596427657,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:06:12]|h|r Loot Specialization set to: Discipline",
 					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["serverTime"] = 1596427574,
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:07:34]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["g"] = 1,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596428368,
-					["b"] = 0.250980406999588,
-				}, -- [107]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:07:36]|h|r Loot Specialization set to: Discipline",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["serverTime"] = 1596427658,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [108]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:09:25]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596492829,
 					["extraData"] = {
 						15, -- [1]
 						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:17:53]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493073,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:18:48]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493128,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:23:31]|h|r Auctioneer Ralinza says: Hey, I remember you! Always runnin' your mouth about how great Sylvanas was. Get outta my auction house!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493411,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1596427766,
-					["timestamp"] = 392080.417,
-					["g"] = 0.250980406999588,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:23:36]|h|r Former Banshee Loyalist says: They told me all would be forgiven if I swore an oath to the Horde. I just want to sell my anchorweed!",
+					["b"] = 0.6235294342041016,
 					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493416,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:23:41]|h|r Auctioneer Ralinza says: I don't care what you swore, you're outta here!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493421,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:23:43]|h|r Gazlowe says: Yo! What's the problem?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493423,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
 				}, -- [109]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:12]|h|r Rilgiz says: You got two seconds to scram. We ain't holdin' nothin' for the mooks who stood with Sylvanas!",
+					["message"] = "|cff979797|Hpratcopy|h[18:23:44]|h|r Auctioneer Ralinza says: The Banshee's flunkie wants to use our auction house!",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493424,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427813,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [110]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:16]|h|r Former Banshee Loyalist says: I keep telling you, my loyalty is to the Horde. I didn't know she was using us. I wanted to believe in her!",
+					["message"] = "|cff979797|Hpratcopy|h[18:23:47]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493427,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427817,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [111]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:22]|h|r Rilgiz says: Don't matter to me. Take your junk and get outta here. You ain't part of MY Horde!",
+					["message"] = "|cff979797|Hpratcopy|h[18:23:47]|h|r Gazlowe says: So let 'em! Sylvanas is gone, and we all gotta unite if we wanna survive.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493427,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427823,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [112]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:26]|h|r Baine Bloodhoof says: What's happening here?",
+					["message"] = "|cff979797|Hpratcopy|h[18:23:52]|h|r Gazlowe says: If they say they're not with Sylvanas no more, then they're not. She conned a lot of folks into following her.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493432,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427827,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [113]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:27]|h|r Rilgiz says: This Sylvanas-supporting scum is tryin' to use our bank. This here's for HORDE only!",
+					["message"] = "|cff979797|Hpratcopy|h[18:23:57]|h|r Auctioneer Ralinza says: Fine, fine! We're burnin' daylight! What do ya wanna sell?",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493437,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427828,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [114]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:31]|h|r Baine Bloodhoof says: I will not tolerate such talk! Many were led astray by Sylvanas's lies.",
+					["message"] = "|cff979797|Hpratcopy|h[18:24:00]|h|r Former Banshee Loyalist says: Thank you. I'd like to sell these twenty anchorweed. Individually.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493440,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427832,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [115]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:36]|h|r Baine Bloodhoof says: We must now come together as a united Horde. Those who seek forgiveness are forgiven.",
+					["message"] = "|cff979797|Hpratcopy|h[18:24:03]|h|r Auctioneer Ralinza says: You want to... okay. We're gonna have a little talk about auction house etiquette.",
+					["b"] = 0.6235294342041016,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493443,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427837,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [116]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:40]|h|r Baine Bloodhoof says: They have sworn an oath of loyalty to the Horde. They should be allowed to use your services.",
+					["message"] = "|cff979797|Hpratcopy|h[18:27:52]|h|r Zelli Hotnozzle yells: The zeppelin to Thunder Bluff has arrived! All aboard for a smooth ride across the Barrens!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493672,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427841,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [117]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:44]|h|r Rilgiz says: Fine, fine! I'll take whatever you wanna deposit. What is it?",
+					["message"] = "|cff979797|Hpratcopy|h[18:28:45]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493725,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427845,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [118]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:47]|h|r Former Banshee Loyalist says: Thank you. I would like to deposit this eternal quintessence. I've been holding onto it for a while.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427848,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [119]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:52]|h|r Rilgiz says: What?! I haven't seen one of these in years. Where'd you get it?",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427853,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [120]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:56]|h|r Former Banshee Loyalist says: Oh, that's quite a story. Where to begin...",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1596427857,
-					["timestamp"] = 392080.417,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [121]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:19:27]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
-					["serverTime"] = 1596428630,
-					["r"] = 0.250980406999588,
-					["b"] = 0.250980406999588,
-					["timestamp"] = 392080.417,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["g"] = 1,
-				}, -- [122]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:19:28]|h|r Loot Specialization set to: Discipline",
+					["message"] = "|cff979797|Hpratcopy|h[18:31:35]|h|r |cfff38bb9Sci|r has gone offline.",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 392080.417,
-					["serverTime"] = 1596428369,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493895,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:31:53]|h|r |cffd8d8d8[|r|Hplayer:Sci:2805|h|cffd8bc3f120|r:|cfff38bb9Sci|r|h|cffd8d8d8]|r has come online.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493913,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:33:13]|h|r |cfffe7b09Leafyo|r has gone offline.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596493993,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:33:44]|h|r Greeb Ramrocket yells: The zeppelin to Warsong Hold has just arrived! All aboard for Borean Tundra!",
+					["b"] = 0.250980406999588,
+					["r"] = 1,
+					["g"] = 0.250980406999588,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596494024,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:35:13]|h|r You have been inactive for some time and will be logged out of the game. If you wish to remain logged in, hit the cancel button.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 457600.96,
+					["serverTime"] = 1596494113,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
 					},
 				}, -- [123]
 				{
-					["message"] = "0 |4day:days;, 0 |4hour:hours;, 4 |4minute:minutes;, 21 |4second:seconds;",
-					["timestamp"] = 392080.417,
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 33 |4second:seconds;",
+					["timestamp"] = 457600.96,
 				}, -- [124]
 				{
 					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457600.96,
 				}, -- [125]
 				{
 					["message"] = "|cff3399FFBig Dumb Loot Council|r loaded. /bdlc for options",
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457592.483,
 				}, -- [126]
 				{
 					["message"] = "|cff0099ffBroker_Everything|r: |cff00ff00AddOn loaded...|r",
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457592.483,
 				}, -- [127]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:49]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
+					["message"] = "|cff979797|Hpratcopy|h[18:35:46]|h|r Guild Message of the Day: \"Main Raid Fri/Sat @ 830pm-1230am CST.\"",
 					["r"] = 0.250980406999588,
 					["extraData"] = {
 						5, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 392080.417,
+					["timestamp"] = 457600.812,
 					["g"] = 1,
 					["b"] = 0.250980406999588,
 				}, -- [128]
