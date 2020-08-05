@@ -14,13 +14,13 @@ ToshUnitFramesDB = {
 					["y"] = 654.1667785644531,
 					["x"] = 2112.9169921875,
 					["height"] = 635.0001831054688,
-					["width"] = 708.3319702148438,
 					["pos"] = {
 						["y"] = -129.5829010009766,
 						["x"] = -465.4166259765625,
 						["to"] = "TOPRIGHT",
 						["from"] = "TOPRIGHT",
 					},
+					["width"] = 708.3319702148438,
 				},
 			},
 			["profiles"] = {
@@ -52,20 +52,20 @@ ToshUnitFramesDB = {
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Default",
-	},
 	["global"] = {
 		["options"] = {
 			["height"] = 507.4997253417969,
-			["width"] = 689.1680908203125,
 			["pos"] = {
-				["y"] = -162.5001525878906,
-				["x"] = -240.8329162597656,
+				["y"] = -167.500244140625,
+				["x"] = -209.9997406005859,
 				["to"] = "TOPRIGHT",
 				["from"] = "TOPRIGHT",
 			},
+			["width"] = 689.1680908203125,
 		},
+	},
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -76,8 +76,8 @@ ToshUnitFramesDB = {
 					["id"] = 1,
 					["anchors"] = {
 						{
-							["y"] = 0,
-							["x"] = 0,
+							["y"] = 100,
+							["x"] = 100,
 							["to"] = "CENTER",
 							["from"] = "CENTER",
 						}, -- [1]
