@@ -219,25 +219,15 @@ WQTrackerDB = {
 			},
 			["rarescan"] = {
 				["recently_spotted"] = {
-					[151933] = {
-						1596602612, -- [1]
-						1462, -- [2]
-						0.700674295425415, -- [3]
-						0.3802495002746582, -- [4]
-						"Creature-0-0000-0000-00000-151933-0000000000", -- [5]
-						"Malfunctioning Beastbot", -- [6]
-						"Slurpinho", -- [7]
-						1596602613, -- [8]
-					},
 					[151934] = {
-						1596602590, -- [1]
+						1596689319, -- [1]
 						1462, -- [2]
-						0.5270183086395264, -- [3]
-						0.4081045985221863, -- [4]
-						"Creature-0-3878-1643-1557-151934-00002A38AA", -- [5]
+						0.5645805597305298, -- [3]
+						0.5042998790740967, -- [4]
+						"Creature-0-0000-0000-00000-151934-0000000000", -- [5]
 						"Arachnoid Harvester", -- [6]
-						"Slurpinho", -- [7]
-						1596602591, -- [8]
+						"Xcoolmoney", -- [7]
+						1596689319, -- [8]
 					},
 				},
 				["recently_killed"] = {
@@ -256,12 +246,13 @@ WQTrackerDB = {
 					["Umbra'jin"] = 122004,
 					["Theurgist Nitara"] = 155836,
 					["Goldenvein"] = 140769,
+					["Racha-mundos Skuul"] = 127118,
 					["Foul Manifestation"] = 151202,
 					["Shiz'narasz the Consumer"] = 153658,
-					["Shiz'narasz el consumidor"] = 153658,
 					["Blistermaw"] = 122958,
+					["Shiz'narasz el consumidor"] = 153658,
 					["Malfunctioning Beastbot"] = 151933,
-					["Racha-mundos Skuul"] = 127118,
+					["Armored Vaultbot"] = 154968,
 					["Matriarca de escamas Gratinax"] = 152548,
 					["Arachnoid Harvester"] = 151934,
 					["Lieutenant Xakaar"] = 126254,

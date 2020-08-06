@@ -9,19 +9,19 @@ ToshUnitFramesDB = {
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Toshpal - Area 52"] = "Default",
-	},
 	["global"] = {
 		["options"] = {
-			["height"] = 500.0000610351563,
+			["height"] = 500.0001220703125,
 			["pos"] = {
-				["y"] = 137.4999542236328,
-				["x"] = -511.6661987304688,
+				["y"] = 135.8331909179688,
+				["x"] = -485.8328247070313,
 				["to"] = "RIGHT",
 				["from"] = "RIGHT",
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 422,
+	["session"] = 426,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -44,5 +44,19 @@ BugGrabberDB = {
 			["session"] = 421,
 			["counter"] = 8,
 		}, -- [6]
+		{
+			["message"] = "Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua:331: attempt to call local 'styleFunc' (a table value)",
+			["time"] = "2020/08/05 13:26:11",
+			["stack"] = "[string \"@Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua\"]:331: in function <Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua:260>\n[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua\"]:728: in function `Spawn'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\region_types/unit_single.lua\"]:28: in function `Create'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\frames.lua\"]:10: in function <Interface\\AddOns\\ToshUnitFrames\\frames.lua:5>\n[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\ToshUnitFrames\\frames.lua\"]:5: in function `?'\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Scrap\\libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...face\\AddOns\\Scrap\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
+			["session"] = 423,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "...ddOns\\ToshUnitFrames\\region_types/base_container.lua:11: bad argument #1 to 'tinsert' (table expected, got nil)",
+			["time"] = "2020/08/06 01:33:51",
+			["stack"] = "[string \"=[C]\"]: in function `tinsert'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\region_types/base_container.lua\"]:11: in function `AddChild'\n[string \"@Interface\\AddOns\\ToshUnitFramesOptions\\widgets/region_unit_single.lua\"]:21: in function <...ToshUnitFramesOptions\\widgets/region_unit_single.lua:20>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\CorruptionTooltips\\Libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:72: in function <...ns\\CorruptionTooltips\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:70>\n[string \"@Interface\\AddOns\\CorruptionTooltips\\Libs\\AceGUI-3.0\\AceGUI-3.0-41.lua\"]:306: in function `Fire'\n[string \"@Interface\\AddOns\\AngryAssignments\\libs\\AceGUI-3.0-41\\widgets\\AceGUIWidget-Button.lua\"]:22: in function <...ents\\libs\\AceGUI-3.0\\widgets\\AceGUIWidget-Button.lua:19>",
+			["session"] = 426,
+			["counter"] = 1,
+		}, -- [8]
 	},
 }

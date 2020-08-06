@@ -54,14 +54,14 @@ ToshUnitFramesDB = {
 	},
 	["global"] = {
 		["options"] = {
-			["height"] = 507.4997253417969,
+			["height"] = 512.4995727539062,
 			["pos"] = {
-				["y"] = -167.500244140625,
-				["x"] = -209.9997406005859,
+				["y"] = -156.6668701171875,
+				["x"] = -224.9995727539063,
 				["to"] = "TOPRIGHT",
 				["from"] = "TOPRIGHT",
 			},
-			["width"] = 689.1680908203125,
+			["width"] = 909.1680908203125,
 		},
 	},
 	["profileKeys"] = {
@@ -79,17 +79,20 @@ ToshUnitFramesDB = {
 							["y"] = 100,
 							["x"] = 100,
 							["to"] = "CENTER",
-							["from"] = "CENTER",
+							["from"] = "BOTTOMRIGHT",
 						}, -- [1]
 					},
 					["unit"] = "player",
 				}, -- [1]
+				{
+					["id"] = 2,
+				}, -- [2]
 			},
 			["selected"] = {
 				"UNITS", -- [1]
 				"1", -- [2]
 			},
-			["nextid"] = 2,
+			["nextid"] = 3,
 		},
 	},
 }

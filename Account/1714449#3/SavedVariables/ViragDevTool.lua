@@ -44,7 +44,7 @@ ViragDevTool_Settings = {
 		["error"] = "|cFFFF0000",
 		["white"] = "|cFFFFFFFF",
 	},
-	["collResizerPosition"] = 449.9994506835938,
+	["collResizerPosition"] = 197.50048828125,
 	["history"] = {
 		"ToshUnitFrames.db", -- [1]
 		"ToshUnitFrame1", -- [2]
@@ -83,5 +83,5 @@ ViragDevTool_Settings = {
 	},
 	["MAX_HISTORY_SIZE"] = 50,
 	["sideBarTabSelected"] = "history",
-	["isWndOpen"] = true,
+	["isWndOpen"] = false,
 }

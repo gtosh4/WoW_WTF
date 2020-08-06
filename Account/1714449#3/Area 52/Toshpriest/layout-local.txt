@@ -1,11 +1,4 @@
 Version: 1
-Frame: ViragDevToolFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 325
-Y: -91
-W: 635
-H: 753
 Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
 Anchor: RIGHT
@@ -139,6 +132,13 @@ X: 174
 Y: 201
 W: 210
 H: 28
+Frame: ViragDevToolFrame
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 332
+Y: -93
+W: 635
+H: 753
 Frame: ChatFrameChannelButton
 FrameLevel: 1
 Anchor: BOTTOMLEFT
@@ -153,3 +153,10 @@ X: 0
 Y: 96
 W: 570
 H: 155
+Frame: ToshUnitFramesOptions
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -225
+Y: -157
+W: 909
+H: 512

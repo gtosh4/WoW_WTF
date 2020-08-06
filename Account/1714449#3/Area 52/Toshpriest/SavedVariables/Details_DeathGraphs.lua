@@ -263,11 +263,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Crippled-Kil'jaeden"] = {
+			["Emosong-Kil'jaeden"] = {
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Crippled-Kil'jaeden",
+				["class"] = "ROGUE",
+				["name"] = "Emosong-Kil'jaeden",
 				["overall"] = {
 				},
 			},
@@ -303,11 +303,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Sellenaria-Barthilas"] = {
+			["Crippled-Kil'jaeden"] = {
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Sellenaria-Barthilas",
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Crippled-Kil'jaeden",
 				["overall"] = {
 				},
 			},
@@ -375,11 +375,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Emosong-Kil'jaeden"] = {
+			["Sellenaria-Barthilas"] = {
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
-				["name"] = "Emosong-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
+				["name"] = "Sellenaria-Barthilas",
 				["overall"] = {
 				},
 			},
@@ -3853,11 +3853,21 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Sciduckhunt"] = {
+			["Emosong-Kil'jaeden"] = {
 				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
+				["points"] = 180,
+				["class"] = "ROGUE",
 				["deaths"] = {
+					{
+						1, -- [1]
+						72.32699999958277, -- [2]
+						"Void Gaze |cFFFF333333,248|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						67.54400000022724, -- [2]
+						"Void Gaze |cFFFF333334,382|r", -- [3]
+					}, -- [2]
 				},
 			},
 			["Eau-Kil'jaeden"] = {
@@ -3895,11 +3905,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Kuyar-Ragnaros"] = {
+			["Vaduum-EmeraldDream"] = {
 				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
+				["points"] = 190,
+				["class"] = "WARRIOR",
 				["deaths"] = {
+					{
+						2, -- [1]
+						238.1370000000024, -- [2]
+						"Anguish (DoT) |cFFFF3333172,832|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Meta-Kil'jaeden"] = {
@@ -3928,6 +3943,20 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Zenixa-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Toshpriest"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Archbaroness-Daggerspine"] = {
 				["encounters"] = 2,
 				["points"] = 180,
@@ -3943,20 +3972,6 @@ DeathGraphsDBEndurance = {
 						193.3839999999982, -- [2]
 						"Anguish (DoT) |cFFFF3333152,476|r", -- [3]
 					}, -- [2]
-				},
-			},
-			["Zenixa-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Toshpriest"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["class"] = "PRIEST",
-				["deaths"] = {
 				},
 			},
 			["Horroz-Zul'jin"] = {
@@ -4231,6 +4246,20 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
+			["Kuyar-Ragnaros"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Sciduckhunt"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
 			["Kazrokh-Azralon"] = {
 				["encounters"] = 2,
 				["points"] = 190,
@@ -4241,35 +4270,6 @@ DeathGraphsDBEndurance = {
 						219.961000000003, -- [2]
 						"Anguish (DoT) |cFFFF3333160,784|r", -- [3]
 					}, -- [1]
-				},
-			},
-			["Vaduum-EmeraldDream"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-					{
-						2, -- [1]
-						238.1370000000024, -- [2]
-						"Anguish (DoT) |cFFFF3333172,832|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 180,
-				["class"] = "ROGUE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						72.32699999958277, -- [2]
-						"Void Gaze |cFFFF333333,248|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						67.54400000022724, -- [2]
-						"Void Gaze |cFFFF333334,382|r", -- [3]
-					}, -- [2]
 				},
 			},
 			["Leafyo"] = {
@@ -12965,14 +12965,14 @@ DeathGraphsDBGraph = {
 			[37] = {
 				1595648556, -- [1]
 			},
+			[151] = {
+				1596255845, -- [1]
+			},
 			[99] = {
 				1595648556, -- [1]
 			},
 			[166] = {
 				1595648556, -- [1]
-			},
-			[151] = {
-				1596255845, -- [1]
 			},
 		},
 		["spells"] = {

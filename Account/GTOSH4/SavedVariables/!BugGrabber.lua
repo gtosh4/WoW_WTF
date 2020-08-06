@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 146,
 	["lastSanitation"] = 3,
-	["session"] = 145,
 	["errors"] = {
 		{
 			["message"] = "...erface\\AddOns\\ToshUnitFramesOptions\\widgets/main.lua:80: attempt to call method 'GetWidth' (a nil value)",
@@ -37,14 +37,14 @@ BugGrabberDB = {
 		}, -- [4]
 		{
 			["message"] = "Couldn't open Interface\\AddOns\\WeakAuras\\Libs\\LibSerialize\\lib.xml",
-			["session"] = 139,
 			["time"] = "2020/08/02 21:02:29",
+			["session"] = 139,
 			["counter"] = 8,
 		}, -- [5]
 		{
 			["message"] = "(null)",
-			["session"] = 139,
 			["time"] = "2020/08/02 21:02:29",
+			["session"] = 139,
 			["counter"] = 6,
 		}, -- [6]
 		{
@@ -97,27 +97,33 @@ BugGrabberDB = {
 		}, -- [12]
 		{
 			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\enUS-English (US).lua",
-			["session"] = 140,
 			["time"] = "2020/08/02 21:03:04",
+			["session"] = 140,
 			["counter"] = 3,
 		}, -- [13]
 		{
 			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\deDE-German.lua",
-			["session"] = 140,
 			["time"] = "2020/08/02 21:03:04",
+			["session"] = 140,
 			["counter"] = 3,
 		}, -- [14]
 		{
 			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\esES-Spanish (EU).lua",
-			["session"] = 140,
 			["time"] = "2020/08/02 21:03:04",
+			["session"] = 140,
 			["counter"] = 3,
 		}, -- [15]
 		{
 			["message"] = "Error loading Interface\\AddOns\\Grid2Options\\locales\\esMX-Spanish (Latin American).lua",
-			["session"] = 140,
 			["time"] = "2020/08/02 21:03:04",
+			["session"] = 140,
 			["counter"] = 3,
 		}, -- [16]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\ToshUnitFramesOptions\\libs\\AceGUI-3.0-41-Search-EditBox\\AceGUI-3.0-Search-EditBox.xml",
+			["time"] = "2020/08/05 21:55:37",
+			["session"] = 146,
+			["counter"] = 4,
+		}, -- [17]
 	},
 }
