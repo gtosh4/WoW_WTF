@@ -9,6 +9,9 @@ ToshUnitFramesDB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Toshpal - Area 52"] = "Default",
+	},
 	["global"] = {
 		["options"] = {
 			["height"] = 500.0001220703125,
@@ -19,9 +22,6 @@ ToshUnitFramesDB = {
 				["from"] = "RIGHT",
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

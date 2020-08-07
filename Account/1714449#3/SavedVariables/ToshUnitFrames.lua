@@ -14,13 +14,13 @@ ToshUnitFramesDB = {
 					["y"] = 654.1667785644531,
 					["x"] = 2112.9169921875,
 					["height"] = 635.0001831054688,
+					["width"] = 708.3319702148438,
 					["pos"] = {
 						["y"] = -129.5829010009766,
 						["x"] = -465.4166259765625,
 						["to"] = "TOPRIGHT",
 						["from"] = "TOPRIGHT",
 					},
-					["width"] = 708.3319702148438,
 				},
 			},
 			["profiles"] = {
@@ -52,47 +52,49 @@ ToshUnitFramesDB = {
 			},
 		},
 	},
-	["global"] = {
-		["options"] = {
-			["height"] = 512.4995727539062,
-			["pos"] = {
-				["y"] = -156.6668701171875,
-				["x"] = -224.9995727539063,
-				["to"] = "TOPRIGHT",
-				["from"] = "TOPRIGHT",
-			},
-			["width"] = 909.1680908203125,
-		},
-	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+	},
+	["global"] = {
+		["options"] = {
+			["height"] = 564.1663208007812,
+			["width"] = 764.16845703125,
+			["pos"] = {
+				["y"] = 111.2502059936523,
+				["x"] = -375.8328552246094,
+				["to"] = "RIGHT",
+				["from"] = "RIGHT",
+			},
+		},
 	},
 	["profiles"] = {
 		["Default"] = {
 			["regions"] = {
-				{
+				[8] = {
+					["parent"] = 7,
+					["type"] = "bar",
+					["source"] = "health",
+					["id"] = 8,
+				},
+				[6] = {
+					["id"] = 6,
+					["parent"] = 5,
+				},
+				[7] = {
+					["id"] = 7,
 					["type"] = "unit_single",
-					["name"] = "",
-					["id"] = 1,
-					["anchors"] = {
-						{
-							["y"] = 100,
-							["x"] = 100,
-							["to"] = "CENTER",
-							["from"] = "BOTTOMRIGHT",
-						}, -- [1]
+					["children"] = {
+						8, -- [1]
 					},
 					["unit"] = "player",
-				}, -- [1]
-				{
-					["id"] = 2,
-				}, -- [2]
+				},
 			},
 			["selected"] = {
 				"UNITS", -- [1]
-				"1", -- [2]
+				"7", -- [2]
+				"8", -- [3]
 			},
-			["nextid"] = 3,
+			["nextid"] = 9,
 		},
 	},
 }

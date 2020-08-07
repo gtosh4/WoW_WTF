@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrameMover
-FrameLevel: 1
-Anchor: RIGHT
-X: -6
-Y: 74
-W: 235
-H: 700
 Frame: TooltipMover
 FrameLevel: 2
 Anchor: TOPRIGHT
@@ -13,6 +6,13 @@ X: -282
 Y: -197
 W: 150
 H: 80
+Frame: ObjectiveTrackerFrameMover
+FrameLevel: 1
+Anchor: RIGHT
+X: -6
+Y: 74
+W: 235
+H: 700
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -83,10 +83,3 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: ToshUnitFramesOptions
-FrameLevel: 1
-Anchor: RIGHT
-X: -486
-Y: 136
-W: 700
-H: 500

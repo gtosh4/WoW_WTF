@@ -2,6 +2,22 @@
 ViragDevTool_Settings = {
 	["isSideBarOpen"] = true,
 	["fontSize"] = 10,
+	["isWndOpen"] = true,
+	["collResizerPosition"] = 197.50048828125,
+	["history"] = {
+		"ToshUnitFrames.db.profile", -- [1]
+		"ToshUnitFrames.regions", -- [2]
+		"ToshUnitFrames", -- [3]
+		"ToshUnitFrames.db", -- [4]
+		"ToshUnitFrame1", -- [5]
+		"Grid2.db", -- [6]
+		"ToshUnitFramesOptions", -- [7]
+		"find LFR", -- [8]
+		"find SLASH", -- [9]
+		"find Data ViragDevTool", -- [10]
+		"startswith Virag", -- [11]
+		"ViragDevTool.settings.history", -- [12]
+	},
 	["colors"] = {
 		["ok"] = "|cFF00FF00",
 		["string"] = {
@@ -10,7 +26,7 @@ ViragDevTool_Settings = {
 			0.45, -- [3]
 			1, -- [4]
 		},
-		["gray"] = "|cFFBEB9B5",
+		["white"] = "|cFFFFFFFF",
 		["parent"] = "|cFFBEB9B5",
 		["lightgreen"] = "|cFF98FB98",
 		["number"] = {
@@ -19,45 +35,37 @@ ViragDevTool_Settings = {
 			0.41, -- [3]
 			1, -- [4]
 		},
-		["lightblue"] = "|cFF96C0CE",
+		["red"] = "|cFFFF0000",
 		["function"] = {
 			1, -- [1]
 			0.49, -- [2]
 			0.04, -- [3]
 			1, -- [4]
 		},
+		["green"] = "|cFF00FF00",
+		["lightblue"] = "|cFF96C0CE",
 		["table"] = {
 			0.41, -- [1]
 			0.8, -- [2]
 			0.94, -- [3]
 			1, -- [4]
 		},
+		["darkred"] = "|cFFC25B56",
 		["default"] = {
 			1, -- [1]
 			1, -- [2]
 			1, -- [3]
 			1, -- [4]
 		},
-		["green"] = "|cFF00FF00",
-		["darkred"] = "|cFFC25B56",
-		["red"] = "|cFFFF0000",
 		["error"] = "|cFFFF0000",
-		["white"] = "|cFFFFFFFF",
+		["gray"] = "|cFFBEB9B5",
 	},
-	["collResizerPosition"] = 197.50048828125,
-	["history"] = {
-		"ToshUnitFrames.db", -- [1]
-		"ToshUnitFrame1", -- [2]
-		"ToshUnitFrames", -- [3]
-		"ToshUnitFrames.db.profile", -- [4]
-		"Grid2.db", -- [5]
-		"ToshUnitFramesOptions", -- [6]
-		"find LFR", -- [7]
-		"find SLASH", -- [8]
-		"find Data ViragDevTool", -- [9]
-		"startswith Virag", -- [10]
-		"ViragDevTool.settings.history", -- [11]
+	["tArgs"] = {
 	},
+	["logs"] = {
+	},
+	["MAX_HISTORY_SIZE"] = 50,
+	["sideBarTabSelected"] = "history",
 	["events"] = {
 		{
 			["event"] = "ALL",
@@ -68,20 +76,13 @@ ViragDevTool_Settings = {
 			["active"] = false,
 		}, -- [2]
 		{
-			["active"] = false,
-			["event"] = "UNIT_AURA",
 			["unit"] = "player",
+			["event"] = "UNIT_AURA",
+			["active"] = false,
 		}, -- [3]
 		{
 			["event"] = "CHAT_MSG_CHANNEL",
 			["active"] = false,
 		}, -- [4]
 	},
-	["tArgs"] = {
-	},
-	["logs"] = {
-	},
-	["MAX_HISTORY_SIZE"] = 50,
-	["sideBarTabSelected"] = "history",
-	["isWndOpen"] = false,
 }

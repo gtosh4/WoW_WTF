@@ -1,26 +1,26 @@
 
 CorruptionTooltipsDB = {
-	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-	},
 	["global"] = {
-		["english"] = false,
+		["iconposition"] = "BOTTOMLEFT",
 		["nzothlabel"] = false,
-		["icon"] = true,
-		["perchar"] = false,
+		["showlevel"] = true,
+		["itemrank"] = true,
 		["itemicon"] = false,
 		["summary"] = true,
 		["iconcolor"] = {
 			["a"] = 1,
-			["r"] = 1,
-			["g"] = 0,
 			["b"] = 0,
+			["g"] = 0,
+			["r"] = 1,
 		},
+		["perchar"] = false,
 		["append"] = true,
-		["itemrank"] = true,
-		["showlevel"] = true,
-		["iconposition"] = "BOTTOMLEFT",
+		["icon"] = true,
+		["english"] = false,
+	},
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
