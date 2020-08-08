@@ -15,22 +15,27 @@ VExRT = {
 			[2102] = "Jes Howlis",
 			[2104] = "Overseer Korgus",
 			[2292] = "Gunker",
+			[2259] = "Machinist's Garden",
+			[2116] = "Lord and Lady Waycrest",
 			[2329] = "Wrathion",
 			[2331] = "Ra-den the Despoiled",
 			[2333] = "The Hivemind",
+			[2257] = "Tussle Tonks",
 			[2337] = "Carapace of N'Zoth",
+			[2258] = "K.U.-J.0.",
 			[2093] = "Skycap'n Kragg",
 			[2312] = "Trixie & Naeno",
 			[2345] = "Il'gynoth, Corruption Reborn",
+			[2114] = "Soulbound Goliath",
 			[2101] = "The Sand Queen",
 			[2103] = "Knight Captain Valyri",
 			[2291] = "HK-8 Aerial Oppression Unit",
 			[2290] = "King Gobbamak",
 			[2095] = "Ring of Booty",
 			[2096] = "Lord Harlan Sweete",
-			[2257] = "Tussle Tonks",
-			[2258] = "K.U.-J.0.",
-			[2259] = "Machinist's Garden",
+			[2113] = "Heartsbane Triad",
+			[2115] = "Raal the Gluttonous",
+			[2117] = "Gorak Tul",
 			[2260] = "King Mechagon",
 		},
 		["list"] = {
@@ -81,6 +86,11 @@ VExRT = {
 				"^2258^8^1596317960^106^1^5^479.05^", -- [40]
 				"^2259^8^1596318302^102^1^5^479.05^", -- [41]
 				"^2260^8^1596318639^191^1^5^479.05^", -- [42]
+				"^2114^8^1596861123^89^1^5^476.31^", -- [43]
+				"^2115^8^1596861478^78^1^5^476.31^", -- [44]
+				"^2113^8^1596861746^84^1^5^476.31^", -- [45]
+				"^2116^8^1596862197^98^1^5^476.31^", -- [46]
+				"^2117^8^1596862417^102^1^5^476.31^", -- [47]
 			},
 			["Toshaman"] = {
 			},
@@ -126,7 +136,7 @@ VExRT = {
 			["Papisalad-Kil'jaeden"] = 253,
 			["Fortytoo-ShadowCouncil"] = 267,
 			["Mattea-Kil'jaeden"] = 253,
-			["Gummybuns"] = 268,
+			["Gummybuns"] = 269,
 			["Bigbf-Hyjal"] = 259,
 			["Toshpal"] = 65,
 			["Illestchi-Barthilas"] = 269,
@@ -139,6 +149,7 @@ VExRT = {
 			["Solvèj"] = 259,
 			["Zanlet-Illidan"] = 63,
 			["Illestt-Barthilas"] = 252,
+			["Entryd"] = 577,
 			["Illsong"] = 577,
 			["Maxxed-Mal'Ganis"] = 267,
 			["Delpi"] = 63,
@@ -160,6 +171,9 @@ VExRT = {
 			["Evangelos"] = 250,
 			["Karasama-Kel'Thuzad"] = 66,
 			["Yukiox"] = 63,
+			["Mksoda-Illidan"] = 267,
+			["Ozdevil-Barthilas"] = 72,
+			["Zanzir-Illidan"] = 253,
 			["Race"] = 260,
 			["Paxington-Illidan"] = 253,
 			["Peenorious-Mal'Ganis"] = 71,
@@ -180,7 +194,7 @@ VExRT = {
 			["Agg"] = 63,
 			["Sci"] = 65,
 			["Artsong"] = 253,
-			["Ozdevil-Barthilas"] = 72,
+			["ßunnyjaks-Tichondrius"] = 73,
 			["Rivalry"] = 577,
 			["Cohava-Illidan"] = 258,
 			["Durantye"] = 258,
@@ -528,13 +542,13 @@ VExRT = {
 		["Rank"] = 1,
 	},
 	["Addon"] = {
-		["IconMiniMapLeft"] = -43.8422319805596,
-		["Version"] = 4170,
 		["Timer"] = 0.1,
+		["Version"] = 4170,
 		["IconMiniMapHide"] = true,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["PreVersion"] = 4170,
 		["Scale"] = 1,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["IconMiniMapLeft"] = -43.8422319805596,
+		["PreVersion"] = 4170,
 	},
 	["WhoPulled"] = {
 	},

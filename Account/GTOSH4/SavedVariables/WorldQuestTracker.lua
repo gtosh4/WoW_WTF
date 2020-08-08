@@ -164,30 +164,40 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
-					[51043] = {
-						["expireAt"] = 1596812456,
-						["rewardAmount"] = 179,
+					[51045] = {
+						["expireAt"] = 1596898852,
+						["rewardAmount"] = 194,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[50524] = {
-						["expireAt"] = 1596783656,
+					[51761] = {
+						["expireAt"] = 1596898837,
+						["rewardAmount"] = 244,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51742] = {
+						["expireAt"] = 1596942037,
+						["rewardAmount"] = 267,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51212] = {
+						["expireAt"] = 1596898897,
+						["rewardAmount"] = 450,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51431] = {
+						["expireAt"] = 1596942037,
+						["rewardAmount"] = 358,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51508] = {
+						["expireAt"] = 1596942037,
+						["rewardAmount"] = "|cff2292FF420",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+					},
+					[52872] = {
+						["expireAt"] = 1596898837,
 						["rewardAmount"] = "|cff2292FF415",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
-					},
-					[52892] = {
-						["expireAt"] = 1596769256,
-						["rewardAmount"] = "16",
-						["rewardTexture"] = 2004597,
-					},
-					[55344] = {
-						["expireAt"] = 1596812456,
-						["rewardAmount"] = 185,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[50636] = {
-						["expireAt"] = 1596812456,
-						["rewardAmount"] = 197,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+						["rewardTexture"] = 2201832,
 					},
 				},
 				["Player-3676-0AD945E6"] = {

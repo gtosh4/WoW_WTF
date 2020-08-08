@@ -487,6 +487,115 @@ WeakAurasSaved = {
 			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["preferToUpdate"] = false,
 		},
+		["Manifesto of Madness by Hezz#2405"] = {
+			["controlledChildren"] = {
+				"Manifesto of Madness Ongoing", -- [1]
+				"Manifesto of Madness tracker", -- [2]
+			},
+			["borderBackdrop"] = "Blizzard Tooltip",
+			["authorOptions"] = {
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["borderColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["url"] = "https://wago.io/rho-yMvb3/4",
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura2",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["unit"] = "player",
+						["names"] = {
+						},
+						["spellIds"] = {
+						},
+						["subeventPrefix"] = "SPELL",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+			},
+			["internalVersion"] = 33,
+			["selfPoint"] = "BOTTOMLEFT",
+			["version"] = 4,
+			["subRegions"] = {
+			},
+			["load"] = {
+				["use_class"] = false,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["scale"] = 1,
+			["border"] = false,
+			["borderEdge"] = "Square Full White",
+			["regionType"] = "group",
+			["borderSize"] = 2,
+			["borderOffset"] = 4,
+			["semver"] = "1.0.3",
+			["tocversion"] = 80300,
+			["id"] = "Manifesto of Madness by Hezz#2405",
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["borderInset"] = 1,
+			["uid"] = "CZix3T7bhhs",
+			["config"] = {
+			},
+			["conditions"] = {
+			},
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
+			["xOffset"] = 0,
+		},
 		["Horrific Visions - Crystal Zone 2"] = {
 			["color"] = {
 				0.34509803921569, -- [1]
@@ -2788,13 +2897,19 @@ WeakAurasSaved = {
 			["fontSize"] = 12,
 			["anchorPoint"] = "CENTER",
 			["semver"] = "3.0.3",
-			["background"] = "None",
+			["outline"] = "OUTLINE",
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["xOffset"] = 8,
 			["borderSize"] = 2,
 			["sort"] = "none",
 			["preferToUpdate"] = false,
+			["customTextUpdate"] = "update",
+			["groupIcon"] = 1033497,
+			["anchorPerUnit"] = "UNITFRAME",
+			["background"] = "None",
+			["rowSpace"] = 1,
+			["justify"] = "LEFT",
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -2815,12 +2930,6 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["groupIcon"] = 1033497,
-			["anchorPerUnit"] = "UNITFRAME",
-			["outline"] = "OUTLINE",
-			["rowSpace"] = 1,
-			["justify"] = "LEFT",
-			["customTextUpdate"] = "update",
 			["id"] = "Dungeon - Targeted Spells",
 			["wordWrap"] = "WordWrap",
 			["frameStrata"] = 6,
@@ -6816,6 +6925,754 @@ WeakAurasSaved = {
 			},
 			["icon"] = true,
 			["url"] = "https://wago.io/VisionCounter/29",
+		},
+		["Manifesto of Madness tracker"] = {
+			["xOffset"] = 150,
+			["preferToUpdate"] = false,
+			["customText"] = "function() return aura_env.count end\n",
+			["yOffset"] = -15,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/rho-yMvb3/4",
+			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["itemName"] = 174103,
+						["use_genericShowOn"] = true,
+						["genericShowOn"] = "showAlways",
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+						["type"] = "status",
+						["unevent"] = "auto",
+						["subeventPrefix"] = "SPELL",
+						["event"] = "Cooldown Progress (Item)",
+						["use_unit"] = true,
+						["use_absorbMode"] = true,
+						["duration"] = "1",
+						["spellIds"] = {
+						},
+						["subeventSuffix"] = "_CAST_START",
+						["use_itemName"] = true,
+						["names"] = {
+						},
+					},
+					["untrigger"] = {
+						["genericShowOn"] = "showAlways",
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
+						["spellIds"] = {
+						},
+						["custom"] = "function()\n    if not aura_env.last or GetTime() - aura_env.last > aura_env.config.throttle then\n        aura_env.last = GetTime()\n        \n        local count = 0 \n        for unit in WA_IterateGroupMembers() do\n            if not UnitIsUnit(unit, \"player\") \n            and not UnitIsDeadOrGhost(unit)\n            and WeakAuras.CheckRange(unit, aura_env.config.rangeIndicator, \"<=\")  \n            then\n                count = count + 1\n            end\n        end\n        aura_env.count = count\n    end\n    \n    return aura_env.count >= 1\nend",
+						["custom_type"] = "status",
+						["check"] = "update",
+						["unit"] = "player",
+						["customStacks"] = "function() return aura_env.count end\n",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				["disjunctive"] = "custom",
+				["customTriggerLogic"] = "\n\nfunction(trigger)\n    return trigger[1];\nend",
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 33,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["stickyDuration"] = false,
+			["version"] = 4,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = "%c",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						0.10588235294118, -- [2]
+						0.13333333333333, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_fontType"] = "OUTLINE",
+					["text_anchorPoint"] = "CENTER",
+					["text_fontSize"] = 24,
+					["anchorXOffset"] = 0,
+					["text_visible"] = true,
+				}, -- [1]
+				{
+					["glowFrequency"] = 0.25,
+					["type"] = "subglow",
+					["useGlowColor"] = false,
+					["glowType"] = "buttonOverlay",
+					["glowThickness"] = 1,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowScale"] = 1,
+					["text_color"] = {
+					},
+					["glowXOffset"] = 0,
+					["glow"] = false,
+					["glowLength"] = 10,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [2]
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = "%p",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_text_format_p_time_precision"] = 1,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "CENTER",
+					["text_fontType"] = "OUTLINE",
+					["text_text_format_p_format"] = "timed",
+					["text_fontSize"] = 12,
+					["anchorXOffset"] = 0,
+					["text_text_format_p_time_dynamic"] = false,
+				}, -- [3]
+			},
+			["height"] = 40,
+			["load"] = {
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["use_never"] = false,
+				["use_itemequiped"] = true,
+				["itemequiped"] = 174103,
+				["use_combat"] = true,
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["parent"] = "Manifesto of Madness by Hezz#2405",
+			["cooldownTextDisabled"] = false,
+			["regionType"] = "icon",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["frameStrata"] = 1,
+			["authorOptions"] = {
+				{
+					["softMin"] = 0.1,
+					["type"] = "range",
+					["bigStep"] = 0.1,
+					["max"] = 10,
+					["step"] = 0.1,
+					["width"] = 1,
+					["min"] = 0.1,
+					["name"] = "Update frequency:",
+					["default"] = 0.3,
+					["softMax"] = 3,
+					["key"] = "throttle",
+					["useDesc"] = true,
+					["desc"] = "How often should the Aura update?",
+				}, -- [1]
+				{
+					["type"] = "space",
+					["variableWidth"] = false,
+					["height"] = 2,
+					["useHeight"] = true,
+					["width"] = 1,
+				}, -- [2]
+				{
+					["softMin"] = 6,
+					["type"] = "range",
+					["useDesc"] = true,
+					["max"] = 10,
+					["step"] = 1,
+					["width"] = 1,
+					["min"] = 0,
+					["name"] = "Range indicator",
+					["softMax"] = 9,
+					["default"] = 7,
+					["key"] = "rangeIndicator",
+					["desc"] = "The range used for the target that are in range when the trinket is off cooldown",
+				}, -- [3]
+			},
+			["width"] = 40,
+			["config"] = {
+				["rangeIndicator"] = 7,
+				["throttle"] = 0.3,
+			},
+			["zoom"] = 0,
+			["semver"] = "1.0.3",
+			["tocversion"] = 80300,
+			["id"] = "Manifesto of Madness tracker",
+			["cooldownEdge"] = false,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["desaturate"] = false,
+			["uid"] = "c4iJRhmudO0",
+			["inverse"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.count = 0",
+					["do_custom"] = true,
+				},
+			},
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = ">=",
+						["value"] = 1,
+						["variable"] = "onCooldown",
+					},
+					["changes"] = {
+						{
+							["value"] = 30,
+							["property"] = "height",
+						}, -- [1]
+						{
+							["value"] = 30,
+							["property"] = "width",
+						}, -- [2]
+						{
+							["value"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								0.20000004768372, -- [4]
+							},
+							["property"] = "color",
+						}, -- [3]
+						{
+							["property"] = "sub.1.text_visible",
+						}, -- [4]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = 2,
+						["variable"] = "show",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.14901960784314, -- [1]
+								1, -- [2]
+								0.11764705882353, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.1.text_color",
+						}, -- [1]
+					},
+				}, -- [2]
+			},
+			["auto"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
+		},
+		["Manifesto of Madness Ongoing"] = {
+			["xOffset"] = 0,
+			["preferToUpdate"] = false,
+			["customText"] = "function()\n    \n    --  local timingValue = \"\";\n    local buffValue = \"\";\n    local isCrit = true;\n    --Crit buff\n    --local auraName,icon,count,debuffType,duration,expirationTime = AuraUtil.FindAuraByName(313948,\"player\");\n    local auraName,icon,count,debuffType,duration,expirationTime,r7,r8,r9,r10,r11,r12,r13,r14,r15,r16,localBuffValue = WA_GetUnitBuff(\"player\",313948);\n    -------------------------------\n    if (expirationTime ~= nill) then\n        --  timingValue = math.floor((expirationTime-GetTime())) ;\n        buffValue = string.sub(localBuffValue, 1, string.len(localBuffValue))..\" Crit\"\n        --tonumber(string.sub(localbuffValue, 1, string.len(localbuffValue)))/5;\n        \n    end;\n    \n    \n    --Vers Buff\n    auraName,icon,count,debuffType,duration,expirationTime,r7,r8,r9,r10,r11,r12,r13,r14,r15,r16,localBuffValue = WA_GetUnitBuff(\"player\",314040);\n    -------------------------------\n    if (expirationTime ~= nill) then\n        -- timingValue = math.floor((expirationTime-GetTime())) ;\n        buffValue = string.sub(localBuffValue, 1, string.len(localBuffValue)) ..\" Vers\"\n        --tonumber(string.sub(localbuffValue, 1, string.len(localbuffValue)))/5;\n        isCrit = false;\n        \n    end;\n    \n    \n    --[[\n    local cStart,cDuration = GetItemCooldown(174103);\n    if (timingValue == \"\") and (cStart ~= nill) and (cDuration > 2)  then\n        timingValue = math.floor((cStart+cDuration-GetTime())) ;\n    end;\n    \n    --]]\n    \n    if (aura_env.count == 4 and isCrit == false) then\n        \n        \n        return \"4+\",buffValue;\n    else \n        \n        return aura_env.count,buffValue;\n    end;\n    \nend\n\n\n\n",
+			["yOffset"] = 300,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "event",
+			["cooldownEdge"] = false,
+			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura2",
+						["auraspellids"] = {
+							"313948", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["event"] = "Health",
+						["unit"] = "player",
+						["spellIds"] = {
+						},
+						["useExactSpellId"] = true,
+						["subeventSuffix"] = "_CAST_START",
+						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["type"] = "aura2",
+						["subeventSuffix"] = "_CAST_START",
+						["auraspellids"] = {
+							"314040", -- [1]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["event"] = "Health",
+						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
+						["useExactSpellId"] = true,
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["custom_type"] = "stateupdate",
+						["unit"] = "player",
+						["use_absorbMode"] = true,
+						["event"] = "Combat Log",
+						["subeventPrefix"] = "SPELL",
+						["unevent"] = "timed",
+						["duration"] = "1",
+						["events"] = "PLAYER_EQUIPMENT_CHANGED",
+						["use_unit"] = true,
+						["check"] = "event",
+						["subeventSuffix"] = "_CAST_START",
+						["custom"] = "\n\nfunction()\n    --lfr\n    local ilvl = 440;\n    aura_env.decreaseCritUnit = 95;\n    aura_env.increaseVersaUnit = 238;\n    if GetInventoryItemID(\"player\", 13) == 174103 then\n        ilvl = select(4,GetItemInfo(GetInventoryItemLink(\"player\", 13)))\n    end;\n    \n    if GetInventoryItemID(\"player\", 14) == 174103 then\n        ilvl = select(4,GetItemInfo(GetInventoryItemLink(\"player\", 14)))\n    end;    \n    \n    \n    if ilvl == 455 then\n        aura_env.decreaseCritUnit = 100;\n        aura_env.increaseVersaUnit = 249;\n    elseif ilvl == 470 then\n        aura_env.decreaseCritUnit = 104;\n        aura_env.increaseVersaUnit = 261;\n    elseif ilvl == 485 then\n        aura_env.decreaseCritUnit = 109;\n        aura_env.increaseVersaUnit = 273;\n    end    \nend;\n\n\n\n\n",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [3]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["custom_type"] = "event",
+						["event"] = "Health",
+						["customStacks"] = "function() return aura_env.count end\n",
+						["subeventPrefix"] = "SPELL",
+						["custom"] = "function()\n    \n    \n    local isCrit = true;\n    \n    local isBuffed = false;\n    local count = 0;\n    \n    local auraName,icon,r3,debuffType,duration,expirationTime,r7,r8,r9,r10,r11,r12,r13,r14,r15,r16,localBuffValue,r18,r19,localMaxBuffValue = WA_GetUnitBuff(\"player\",313948);\n    \n    if (auraName ~= nill) then\n        count = math.floor((localMaxBuffValue - localBuffValue)/aura_env.decreaseCritUnit);\n        isBuffed = true;\n        \n    end;\n    \n    auraName,icon,r3,debuffType,duration,expirationTime,r7,r8,r9,r10,r11,r12,r13,r14,r15,r16,localBuffValue = WA_GetUnitBuff(\"player\",314040);    \n    if (auraName ~= nill) then\n        count = math.floor((localBuffValue-aura_env.increaseVersaUnit)/aura_env.increaseVersaUnit);\n        isBuffed = true;\n        isCrit = false;\n    end;\n    \n    aura_env.count = count;\n    --  end\n    \n    \n    \n    return true;\n    \nend\n\n\n\n\n\n",
+						["events"] = "UNIT_AURA",
+						["subeventSuffix"] = "_CAST_START",
+						["custom_hide"] = "timed",
+					},
+					["untrigger"] = {
+					},
+				}, -- [4]
+				["disjunctive"] = "custom",
+				["customTriggerLogic"] = "function(trigger)\n    return trigger[1] or trigger[2];\nend",
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 33,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["stickyDuration"] = false,
+			["version"] = 4,
+			["subRegions"] = {
+				{
+					["glowFrequency"] = 0.25,
+					["type"] = "subglow",
+					["useGlowColor"] = true,
+					["glowType"] = "buttonOverlay",
+					["glowThickness"] = 1,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowScale"] = 1,
+					["text_color"] = {
+					},
+					["glowXOffset"] = 0,
+					["glow"] = true,
+					["glowLength"] = 10,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [1]
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = "%c1",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						0.10588235294118, -- [2]
+						0.13333333333333, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "CENTER",
+					["text_text_format_c1_format"] = "none",
+					["text_fontSize"] = 32,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [2]
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = "%c2",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						0.10588235294118, -- [2]
+						0.13333333333333, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "OUTER_BOTTOM",
+					["text_text_format_c2_format"] = "none",
+					["text_fontSize"] = 16,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [3]
+			},
+			["height"] = 60,
+			["load"] = {
+				["use_never"] = false,
+				["use_itemequiped"] = true,
+				["itemequiped"] = 174103,
+				["class"] = {
+					["single"] = "SHAMAN",
+					["multi"] = {
+						["SHAMAN"] = true,
+					},
+				},
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["parent"] = "Manifesto of Madness by Hezz#2405",
+			["authorOptions"] = {
+			},
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["url"] = "https://wago.io/rho-yMvb3/4",
+			["desaturate"] = false,
+			["zoom"] = 0,
+			["semver"] = "1.0.3",
+			["tocversion"] = 80300,
+			["id"] = "Manifesto of Madness Ongoing",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["width"] = 60,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+					["custom"] = "--lfr\nlocal ilvl = 440;\naura_env.decreaseCritUnit = 95;\naura_env.increaseVersaUnit = 238;\nif GetInventoryItemID(\"player\", 13) == 174103 then\n    ilvl = select(4,GetItemInfo(GetInventoryItemLink(\"player\", 13)))\nend;\n\nif GetInventoryItemID(\"player\", 14) == 174103 then\n    ilvl = select(4,GetItemInfo(GetInventoryItemLink(\"player\", 14)))\nend;    \n\n\nif ilvl == 455 then\n    aura_env.decreaseCritUnit = 100;\n    aura_env.increaseVersaUnit = 249;\nelseif ilvl == 470 then\n    aura_env.decreaseCritUnit = 104;\n    aura_env.increaseVersaUnit = 261;\nelseif ilvl == 485 then\n    aura_env.decreaseCritUnit = 109;\n    aura_env.increaseVersaUnit = 273;\nend",
+					["do_custom"] = true,
+				},
+			},
+			["config"] = {
+			},
+			["inverse"] = false,
+			["uid"] = "CCc)0pv9Raa",
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = -2,
+						["variable"] = "AND",
+						["checks"] = {
+							{
+								["trigger"] = 1,
+								["variable"] = "show",
+								["value"] = 1,
+							}, -- [1]
+							{
+								["trigger"] = 4,
+								["op"] = "==",
+								["value"] = "0",
+								["variable"] = "stacks",
+							}, -- [2]
+						},
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.14901960784314, -- [1]
+								1, -- [2]
+								0.11764705882353, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.2.text_color",
+						}, -- [1]
+						{
+							["value"] = {
+								0.14901960784314, -- [1]
+								1, -- [2]
+								0.11764705882353, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.3.text_color",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = -2,
+						["variable"] = "AND",
+						["checks"] = {
+							{
+								["trigger"] = 2,
+								["variable"] = "show",
+								["value"] = 1,
+							}, -- [1]
+							{
+								["trigger"] = 4,
+								["op"] = ">",
+								["variable"] = "stacks",
+								["value"] = "0",
+							}, -- [2]
+							{
+								["trigger"] = 4,
+								["op"] = "<",
+								["variable"] = "stacks",
+								["value"] = "4",
+							}, -- [3]
+						},
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0.54117647058824, -- [2]
+								0.074509803921569, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.2.text_color",
+						}, -- [1]
+						{
+							["value"] = {
+								1, -- [1]
+								0.54117647058824, -- [2]
+								0.074509803921569, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.3.text_color",
+						}, -- [2]
+					},
+				}, -- [2]
+				{
+					["check"] = {
+						["trigger"] = -2,
+						["variable"] = "AND",
+						["checks"] = {
+							{
+								["trigger"] = 2,
+								["variable"] = "show",
+								["value"] = 1,
+							}, -- [1]
+							{
+								["trigger"] = 4,
+								["op"] = ">=",
+								["value"] = "4",
+								["variable"] = "stacks",
+							}, -- [2]
+						},
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.14901960784314, -- [1]
+								1, -- [2]
+								0.11764705882353, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.2.text_color",
+						}, -- [1]
+						{
+							["value"] = {
+								0.14901960784314, -- [1]
+								1, -- [2]
+								0.11764705882353, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.3.text_color",
+						}, -- [2]
+					},
+				}, -- [3]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["variable"] = "show",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0.58039215686275, -- [2]
+								0.062745098039216, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.1.glowColor",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["check"] = {
+						["trigger"] = 2,
+						["variable"] = "show",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								0.043137254901961, -- [1]
+								0.49019607843137, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.1.glowColor",
+						}, -- [1]
+						{
+							["value"] = {
+								["sound_type"] = "Play",
+								["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BananaPeelSlip.ogg",
+								["sound_channel"] = "Master",
+							},
+							["property"] = "sound",
+						}, -- [2]
+					},
+				}, -- [5]
+			},
+			["cooldown"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
 		},
 		["Encounter/Combat Time"] = {
 			["outline"] = "OUTLINE",
@@ -11051,141 +11908,23 @@ WeakAurasSaved = {
 		},
 		["Targeted Spells"] = {
 			["text2Point"] = "CENTER",
-			["text1Enabled"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1FontSize"] = 12,
-			["cooldownTextEnabled"] = true,
+			["parent"] = "Dungeon - Targeted Spells",
 			["preferToUpdate"] = false,
 			["customText"] = "function()\n    if aura_env.state and aura_env.state.stacks and aura_env.state.stacks > 1 then\n        return aura_env.state.stacks\n    end\nend",
 			["yOffset"] = 0,
 			["anchorPoint"] = "LEFT",
-			["xOffset"] = 0,
-			["cooldownSwipe"] = true,
-			["authorOptions"] = {
-				{
-					["subOptions"] = {
-						{
-							["type"] = "toggle",
-							["key"] = "enable",
-							["width"] = 2,
-							["name"] = "Show (default)",
-							["useDesc"] = true,
-							["default"] = true,
-							["desc"] = "Show cast's icons on Unit Frames",
-						}, -- [1]
-					},
-					["type"] = "group",
-					["width"] = 2,
-					["useCollapse"] = true,
-					["name"] = "Cast icons on Unit Frames",
-					["key"] = "icon",
-					["limitType"] = "none",
-					["groupType"] = "simple",
-					["collapse"] = false,
-					["size"] = 10,
-				}, -- [1]
-				{
-					["subOptions"] = {
-						{
-							["width"] = 2,
-							["type"] = "select",
-							["default"] = 1,
-							["key"] = "enable",
-							["useDesc"] = true,
-							["values"] = {
-								"Always show", -- [1]
-								"Show by default (overide with \"actions > init\" list)", -- [2]
-								"Disabled by default (overide with \"actions > init\" list)", -- [3]
-								"Disabled", -- [4]
-							},
-							["name"] = "Show",
-							["desc"] = "Show cast's target on nameplate",
-						}, -- [1]
-						{
-							["text"] = "Nameplate font, shadow, shadow color, size and offsets settings are now in the \"Display\" tab",
-							["type"] = "description",
-							["fontSize"] = "medium",
-							["width"] = 2,
-						}, -- [2]
-					},
-					["type"] = "group",
-					["width"] = 2,
-					["useCollapse"] = true,
-					["name"] = "Target Name on Nameplates",
-					["key"] = "nameplate",
-					["limitType"] = "none",
-					["groupType"] = "simple",
-					["collapse"] = false,
-					["size"] = 10,
-				}, -- [2]
-				{
-					["subOptions"] = {
-						{
-							["type"] = "number",
-							["useDesc"] = false,
-							["max"] = 999999,
-							["step"] = 1,
-							["width"] = 1,
-							["min"] = 0,
-							["key"] = "spellId",
-							["default"] = 0,
-							["name"] = "Spell Id",
-						}, -- [1]
-						{
-							["type"] = "input",
-							["useDesc"] = false,
-							["width"] = 1,
-							["name"] = "Description",
-							["default"] = "",
-							["key"] = "desc",
-							["length"] = 10,
-							["multiline"] = false,
-							["useLength"] = false,
-						}, -- [2]
-						{
-							["type"] = "multiselect",
-							["name"] = "Options",
-							["default"] = {
-								true, -- [1]
-								true, -- [2]
-								true, -- [3]
-								true, -- [4]
-								true, -- [5]
-							},
-							["key"] = "options",
-							["useDesc"] = false,
-							["values"] = {
-								"Icon", -- [1]
-								"Glow", -- [2]
-								"Nameplate", -- [3]
-								"Sound", -- [4]
-								"Big Icon", -- [5]
-							},
-							["width"] = 1,
-						}, -- [3]
-					},
-					["hideReorder"] = false,
-					["useDesc"] = false,
-					["nameSource"] = 2,
-					["width"] = 1,
-					["useCollapse"] = true,
-					["type"] = "group",
-					["key"] = "spells",
-					["name"] = "Spells",
-					["limitType"] = "none",
-					["groupType"] = "array",
-					["collapse"] = false,
-					["size"] = 10,
-				}, -- [3]
-				{
-					["type"] = "space",
-					["variableWidth"] = true,
-					["height"] = 10,
-					["useHeight"] = true,
-					["width"] = 2,
-				}, -- [4]
-			},
-			["customTextUpdate"] = "event",
 			["cooldownEdge"] = false,
+			["cooldownSwipe"] = true,
+			["cooldownTextEnabled"] = true,
+			["customTextUpdate"] = "event",
+			["url"] = "https://wago.io/BFADungeonTargetedSpells/65",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -11236,10 +11975,17 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "",
 				["activeTriggerMode"] = -10,
 			},
-			["url"] = "https://wago.io/BFADungeonTargetedSpells/65",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
+			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -11260,15 +12006,13 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["icon"] = true,
-			["internalVersion"] = 33,
 			["stickyDuration"] = false,
 			["uid"] = "pWfZPrRiJzV",
 			["text1Point"] = "BOTTOM",
 			["version"] = 65,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 20,
-			["desaturate"] = false,
+			["icon"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -11334,33 +12078,28 @@ WeakAurasSaved = {
 			},
 			["width"] = 20,
 			["frameStrata"] = 6,
-			["text1Containment"] = "OUTSIDE",
+			["internalVersion"] = 33,
 			["text2Containment"] = "INSIDE",
-			["parent"] = "Dungeon - Targeted Spells",
-			["text1Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["useGlowColor"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["zoom"] = 0,
-			["text2"] = "%p",
-			["text2FontSize"] = 24,
-			["anchorFrameFrame"] = "UIParent",
-			["text1"] = "%c",
-			["text1FontFlags"] = "OUTLINE",
+			["text1Containment"] = "OUTSIDE",
 			["semver"] = "3.0.3",
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
 			["cooldownTextDisabled"] = true,
+			["text1Font"] = "Friz Quadrata TT",
+			["text2FontSize"] = 24,
+			["zoom"] = 0,
+			["text1"] = "%c",
 			["auto"] = true,
+			["anchorFrameFrame"] = "UIParent",
+			["text2"] = "%p",
+			["useGlowColor"] = true,
 			["tocversion"] = 80300,
 			["id"] = "Targeted Spells",
 			["subRegions"] = {
@@ -12137,11 +12876,129 @@ WeakAurasSaved = {
 				}, -- [3]
 			},
 			["cooldown"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["authorOptions"] = {
+				{
+					["subOptions"] = {
+						{
+							["type"] = "toggle",
+							["key"] = "enable",
+							["width"] = 2,
+							["name"] = "Show (default)",
+							["useDesc"] = true,
+							["default"] = true,
+							["desc"] = "Show cast's icons on Unit Frames",
+						}, -- [1]
+					},
+					["type"] = "group",
+					["width"] = 2,
+					["useCollapse"] = true,
+					["name"] = "Cast icons on Unit Frames",
+					["key"] = "icon",
+					["limitType"] = "none",
+					["groupType"] = "simple",
+					["collapse"] = false,
+					["size"] = 10,
+				}, -- [1]
+				{
+					["subOptions"] = {
+						{
+							["width"] = 2,
+							["type"] = "select",
+							["default"] = 1,
+							["key"] = "enable",
+							["useDesc"] = true,
+							["values"] = {
+								"Always show", -- [1]
+								"Show by default (overide with \"actions > init\" list)", -- [2]
+								"Disabled by default (overide with \"actions > init\" list)", -- [3]
+								"Disabled", -- [4]
+							},
+							["name"] = "Show",
+							["desc"] = "Show cast's target on nameplate",
+						}, -- [1]
+						{
+							["text"] = "Nameplate font, shadow, shadow color, size and offsets settings are now in the \"Display\" tab",
+							["type"] = "description",
+							["fontSize"] = "medium",
+							["width"] = 2,
+						}, -- [2]
+					},
+					["type"] = "group",
+					["width"] = 2,
+					["useCollapse"] = true,
+					["name"] = "Target Name on Nameplates",
+					["key"] = "nameplate",
+					["limitType"] = "none",
+					["groupType"] = "simple",
+					["collapse"] = false,
+					["size"] = 10,
+				}, -- [2]
+				{
+					["subOptions"] = {
+						{
+							["type"] = "number",
+							["useDesc"] = false,
+							["max"] = 999999,
+							["step"] = 1,
+							["width"] = 1,
+							["min"] = 0,
+							["key"] = "spellId",
+							["default"] = 0,
+							["name"] = "Spell Id",
+						}, -- [1]
+						{
+							["type"] = "input",
+							["useDesc"] = false,
+							["width"] = 1,
+							["name"] = "Description",
+							["default"] = "",
+							["key"] = "desc",
+							["length"] = 10,
+							["multiline"] = false,
+							["useLength"] = false,
+						}, -- [2]
+						{
+							["type"] = "multiselect",
+							["name"] = "Options",
+							["default"] = {
+								true, -- [1]
+								true, -- [2]
+								true, -- [3]
+								true, -- [4]
+								true, -- [5]
+							},
+							["key"] = "options",
+							["useDesc"] = false,
+							["values"] = {
+								"Icon", -- [1]
+								"Glow", -- [2]
+								"Nameplate", -- [3]
+								"Sound", -- [4]
+								"Big Icon", -- [5]
+							},
+							["width"] = 1,
+						}, -- [3]
+					},
+					["hideReorder"] = false,
+					["useDesc"] = false,
+					["nameSource"] = 2,
+					["width"] = 1,
+					["useCollapse"] = true,
+					["type"] = "group",
+					["key"] = "spells",
+					["name"] = "Spells",
+					["limitType"] = "none",
+					["groupType"] = "array",
+					["collapse"] = false,
+					["size"] = 10,
+				}, -- [3]
+				{
+					["type"] = "space",
+					["variableWidth"] = true,
+					["height"] = 10,
+					["useHeight"] = true,
+					["width"] = 2,
+				}, -- [4]
 			},
 		},
 		["Horrific Visions - Crystal Zone 3"] = {
@@ -13476,14 +14333,14 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "wBpFYJHm2xC",
-			["icon"] = true,
+			["xOffset"] = -490.5791015625,
 			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
-			["parent"] = "8.3 Horrific Visions Chinese edition translated",
+			["icon"] = true,
 			["authorOptions"] = {
 			},
 			["displayIcon"] = "2000853",
-			["desaturate"] = false,
+			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["zoom"] = 0,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
@@ -13497,7 +14354,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["xOffset"] = -490.5791015625,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -13575,7 +14432,7 @@ WeakAurasSaved = {
 				}, -- [3]
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["desaturate"] = false,
 		},
 		["Time left"] = {
 			["outline"] = "OUTLINE",
@@ -14184,15 +15041,15 @@ WeakAurasSaved = {
 			["id"] = "8.3 Horrific Visions Chinese edition translated",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = -758.8175659179688,
-			["borderInset"] = 1,
-			["uid"] = "Lc)SwFLmMeO",
-			["groupIcon"] = "1357795",
-			["conditions"] = {
-			},
 			["selfPoint"] = "BOTTOMLEFT",
+			["uid"] = "Lc)SwFLmMeO",
+			["xOffset"] = -758.8175659179688,
 			["config"] = {
 			},
+			["conditions"] = {
+			},
+			["borderInset"] = 1,
+			["groupIcon"] = "1357795",
 		},
 		["Sanity"] = {
 			["outline"] = "OUTLINE",
@@ -14759,7 +15616,8 @@ WeakAurasSaved = {
 			["subRegions"] = {
 			},
 			["height"] = 40,
-			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1470, 1469",
@@ -14785,16 +15643,17 @@ WeakAurasSaved = {
 			},
 			["shadowYOffset"] = -1,
 			["fontSize"] = 23,
-			["xOffset"] = -458.33288574219,
+			["automaticWidth"] = "Auto",
 			["fixedWidth"] = 200,
 			["shadowXOffset"] = 1,
-			["automaticWidth"] = "Auto",
+			["xOffset"] = -458.33288574219,
+			["conditions"] = {
+			},
 			["preferToUpdate"] = false,
-			["icon"] = true,
 			["regionType"] = "text",
 			["config"] = {
 			},
-			["wordWrap"] = "WordWrap",
+			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["width"] = 40,
 			["frameStrata"] = 1,
 			["cooldownTextDisabled"] = false,
@@ -14803,11 +15662,10 @@ WeakAurasSaved = {
 			["justify"] = "LEFT",
 			["tocversion"] = 80300,
 			["id"] = "Emergency Cranial Defibrillation by SnowElysium",
-			["conditions"] = {
-			},
+			["wordWrap"] = "WordWrap",
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "8.3 Horrific Visions Chinese edition translated",
+			["icon"] = true,
 			["uid"] = "n)x58lrIMhT",
 			["inverse"] = false,
 			["animation"] = {
@@ -14854,8 +15712,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 236225,
 			["cooldown"] = false,
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 		},
 		["Tosh ZT Party Offensives"] = {
 			["grow"] = "RIGHT",
@@ -14946,18 +15803,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["anchorPoint"] = "RIGHT",
+			["radius"] = 200,
 			["animate"] = false,
-			["sort"] = "none",
+			["limit"] = 3,
 			["scale"] = 1,
-			["arcLength"] = 360,
+			["space"] = 2,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["anchorPerUnit"] = "UNITFRAME",
-			["radius"] = 200,
-			["space"] = 2,
+			["useLimit"] = true,
+			["anchorPoint"] = "RIGHT",
 			["constantFactor"] = "RADIUS",
 			["rotation"] = 0,
 			["borderOffset"] = 4,
@@ -14972,11 +15829,11 @@ WeakAurasSaved = {
 			["uid"] = "S)1hgAq(aZR",
 			["config"] = {
 			},
-			["useAnchorPerUnit"] = true,
+			["sort"] = "none",
 			["conditions"] = {
 			},
-			["useLimit"] = true,
-			["limit"] = 3,
+			["useAnchorPerUnit"] = true,
+			["arcLength"] = 360,
 		},
 		["Horrific Visions - Chest Zone 1"] = {
 			["authorOptions"] = {
@@ -16356,18 +17213,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["grow"] = "LEFT",
+			["limit"] = 3,
 			["animate"] = false,
 			["sort"] = "none",
 			["scale"] = 1,
-			["useLimit"] = true,
+			["useAnchorPerUnit"] = true,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
-			["limit"] = 3,
 			["anchorPerUnit"] = "UNITFRAME",
-			["useAnchorPerUnit"] = true,
+			["rowSpace"] = 1,
+			["grow"] = "LEFT",
 			["constantFactor"] = "RADIUS",
 			["uid"] = "5J(nNDJR5qt",
 			["borderOffset"] = 4,
@@ -16382,20 +17239,20 @@ WeakAurasSaved = {
 			},
 			["borderInset"] = 1,
 			["rotation"] = 0,
-			["gridType"] = "RD",
+			["radius"] = 200,
 			["conditions"] = {
 			},
-			["rowSpace"] = 1,
-			["radius"] = 200,
+			["gridType"] = "RD",
+			["useLimit"] = true,
 		},
 	},
 	["registered"] = {
 	},
 	["frame"] = {
-		["xOffset"] = -1079.164672851563,
-		["yOffset"] = -84.995849609375,
+		["xOffset"] = -474.164794921875,
+		["yOffset"] = -89.9957275390625,
 		["height"] = 665,
-		["width"] = 829.9998779296875,
+		["width"] = 829.9998168945312,
 	},
 	["editor_theme"] = "Monokai",
 }

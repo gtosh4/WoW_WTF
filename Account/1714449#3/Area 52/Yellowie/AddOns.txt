@@ -16,3 +16,4 @@ SexyMap: enabled
 OPie_Classic: disabled
 ShadowedUnitFrames: enabled
 PitBull4: disabled
+ToshUnitFrames: enabled

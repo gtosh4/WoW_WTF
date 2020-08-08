@@ -57,11 +57,11 @@ ToshUnitFramesDB = {
 	},
 	["global"] = {
 		["options"] = {
-			["height"] = 564.1663208007812,
+			["height"] = 564.1664428710938,
 			["width"] = 764.16845703125,
 			["pos"] = {
-				["y"] = 111.2502059936523,
-				["x"] = -375.8328552246094,
+				["y"] = -57.08320617675781,
+				["x"] = -119.9994049072266,
 				["to"] = "RIGHT",
 				["from"] = "RIGHT",
 			},
@@ -71,10 +71,12 @@ ToshUnitFramesDB = {
 		["Default"] = {
 			["regions"] = {
 				[8] = {
-					["parent"] = 7,
 					["type"] = "bar",
 					["source"] = "health",
+					["_values"] = nil --[[ skipped inline function ]],
 					["id"] = 8,
+					["parent"] = 7,
+					["Update"] = nil --[[ skipped inline function ]],
 				},
 				[6] = {
 					["id"] = 6,

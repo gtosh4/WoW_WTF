@@ -14,10 +14,11 @@ ToshUnitFramesDB = {
 	},
 	["global"] = {
 		["options"] = {
-			["height"] = 500.0001220703125,
+			["height"] = 459.1669311523438,
+			["width"] = 758.3334350585938,
 			["pos"] = {
-				["y"] = 135.8331909179688,
-				["x"] = -485.8328247070313,
+				["y"] = 152.0831756591797,
+				["x"] = -286.6657104492188,
 				["to"] = "RIGHT",
 				["from"] = "RIGHT",
 			},
@@ -27,16 +28,47 @@ ToshUnitFramesDB = {
 		["Default"] = {
 			["regions"] = {
 				{
-					["id"] = 1,
 					["type"] = "unit_single",
+					["anchors"] = {
+						{
+							["y"] = 300,
+							["x"] = 300,
+							["to"] = "CENTER",
+							["from"] = "CENTER",
+						}, -- [1]
+					},
+					["id"] = 1,
+					["children"] = {
+						2, -- [1]
+					},
+					["bg"] = {
+						["texture"] = "Blizzard Tooltip",
+					},
 					["unit"] = "player",
 				}, -- [1]
+				{
+					["type"] = "bar",
+					["source"] = "health",
+					["id"] = 2,
+					["parent"] = 1,
+					["anchors"] = {
+						{
+							["to"] = "TOPLEFT",
+							["from"] = "TOPLEFT",
+						}, -- [1]
+						{
+							["to"] = "BOTTOMRIGHT",
+							["from"] = "BOTTOMRIGHT",
+						}, -- [2]
+					},
+					["texture"] = "Smooth v2",
+				}, -- [2]
 			},
 			["selected"] = {
 				"UNITS", -- [1]
 				"1", -- [2]
 			},
-			["nextid"] = 2,
+			["nextid"] = 3,
 		},
 	},
 }
