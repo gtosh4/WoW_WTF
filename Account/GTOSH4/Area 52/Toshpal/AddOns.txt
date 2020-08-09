@@ -22,3 +22,4 @@ BigWigs_Nyalotha: enabled
 OPie_Classic: disabled
 LittleWigs: enabled
 PitBull4: disabled
+ToshUnitFrames: disabled

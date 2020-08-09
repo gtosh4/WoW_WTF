@@ -18,6 +18,9 @@ WQTrackerDB = {
 			["history"] = {
 				["period"] = {
 					["global"] = {
+						["200808"] = {
+							["quest"] = 1,
+						},
 						["200727"] = {
 							["artifact"] = 164,
 							["quest"] = 1,
@@ -26,6 +29,9 @@ WQTrackerDB = {
 					},
 					["character"] = {
 						["Player-3676-0AD945E6"] = {
+							["200808"] = {
+								["quest"] = 1,
+							},
 							["200727"] = {
 								["artifact"] = 164,
 								["quest"] = 1,
@@ -36,13 +42,15 @@ WQTrackerDB = {
 				},
 				["quest"] = {
 					["global"] = {
+						["total"] = 2,
 						[51051] = 1,
-						["total"] = 1,
+						[57540] = 1,
 					},
 					["character"] = {
 						["Player-3676-0AD945E6"] = {
+							["total"] = 2,
 							[51051] = 1,
-							["total"] = 1,
+							[57540] = 1,
 						},
 					},
 				},
@@ -203,10 +211,20 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[58744] = {
-						["expireAt"] = 1596898859,
-						["rewardAmount"] = "5",
-						["rewardTexture"] = 1045107,
+					[50744] = {
+						["expireAt"] = 1596956445,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[58745] = {
+						["expireAt"] = 1596985285,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 133675,
+					},
+					[51042] = {
+						["expireAt"] = 1596985245,
+						["rewardAmount"] = 176,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
 			},

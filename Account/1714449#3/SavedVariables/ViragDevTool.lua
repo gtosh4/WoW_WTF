@@ -46,18 +46,19 @@ ViragDevTool_Settings = {
 	},
 	["collResizerPosition"] = 197.50048828125,
 	["history"] = {
-		"ToshUnitFrames.regions", -- [1]
+		"oUF_ToshUnitFramesPlayer_7", -- [1]
 		"ToshUnitFrames.db.profile", -- [2]
-		"ToshUnitFrames", -- [3]
-		"ToshUnitFrames.db", -- [4]
-		"ToshUnitFrame1", -- [5]
-		"Grid2.db", -- [6]
-		"ToshUnitFramesOptions", -- [7]
-		"find LFR", -- [8]
-		"find SLASH", -- [9]
-		"find Data ViragDevTool", -- [10]
-		"startswith Virag", -- [11]
-		"ViragDevTool.settings.history", -- [12]
+		"ToshUnitFrames.regions", -- [3]
+		"ToshUnitFrames", -- [4]
+		"ToshUnitFrames.db", -- [5]
+		"ToshUnitFrame1", -- [6]
+		"Grid2.db", -- [7]
+		"ToshUnitFramesOptions", -- [8]
+		"find LFR", -- [9]
+		"find SLASH", -- [10]
+		"find Data ViragDevTool", -- [11]
+		"startswith Virag", -- [12]
+		"ViragDevTool.settings.history", -- [13]
 	},
 	["events"] = {
 		{
@@ -84,5 +85,5 @@ ViragDevTool_Settings = {
 	},
 	["MAX_HISTORY_SIZE"] = 50,
 	["sideBarTabSelected"] = "history",
-	["isWndOpen"] = true,
+	["isWndOpen"] = false,
 }

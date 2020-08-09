@@ -14,3 +14,4 @@ RaiderIO_DB_TW_A_R: disabled
 RaiderIO_DB_TW_H_R: disabled
 OPie_Classic: disabled
 PitBull4: disabled
+ToshUnitFrames: disabled

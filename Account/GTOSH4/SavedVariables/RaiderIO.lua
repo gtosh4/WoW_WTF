@@ -3,17 +3,14 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshpal-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Sinn-dunemaul"] = true,
-	["us-Zaradoria-area-52"] = true,
-	["us-Runidas-kelthuzad"] = true,
-	["us-Nps-area-52"] = true,
-	["us-Bubnubs-area-52"] = true,
-	["us-Demonhell-blackhand"] = true,
-	["us-Unknown-area-52"] = true,
-	["us-Bubbletank-area-52"] = true,
-	["us-Raegarr-area-52"] = true,
-	["us-Softpwn-emerald-dream"] = true,
-	["us-Kalfredmus-area-52"] = true,
-	["us-Markedkarma-area-52"] = true,
-	["us-Krawdaddi-area-52"] = true,
+	["us-Ruith-andorhal"] = true,
+	["us-Grau-altar-of-storms"] = true,
+	["us-Shadyfx-dalaran"] = true,
+	["us-Uhhstanky-velen"] = true,
+	["us-Sorv-zuljin"] = true,
+	["us-Dämäge-velen"] = true,
+	["us-Unkindlëd-illidan"] = true,
+	["us-Rinthe-stormrage"] = true,
+	["us-Alice-hydraxis"] = true,
+	["us-Dêgan-tichondrius"] = true,
 }

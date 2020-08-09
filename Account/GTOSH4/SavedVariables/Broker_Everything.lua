@@ -1,5 +1,6 @@
 
 Broker_Everything_DataDB = {
+	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -22,7 +23,6 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
-	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
 	["order"] = {
@@ -34,11 +34,21 @@ Broker_Everything_CharacterDB = {
 		["name"] = "Toshpal",
 		["faction"] = "Horde",
 		["orderId"] = 2,
-		["class"] = "PALADIN",
 		["level"] = 120,
+		["class"] = "PALADIN",
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
+		["orderId"] = 1,
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["level"] = 120,
+		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -64,16 +74,6 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["level"] = 120,
-		["gold"] = 10753845943,
-		["orderId"] = 1,
 	},
 }
 Broker_Everything_AceDB = {
@@ -91,8 +91,11 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Friends"] = {
-				["enabled"] = false,
+			["Difficulty"] = {
+				["enabled"] = true,
+				["minimap"] = {
+					["hide"] = true,
+				},
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -126,13 +129,10 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Equipment"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["Friends"] = {
+				["enabled"] = false,
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},

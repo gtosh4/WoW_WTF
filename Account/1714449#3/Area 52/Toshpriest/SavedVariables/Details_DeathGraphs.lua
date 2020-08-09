@@ -263,11 +263,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Crippled-Kil'jaeden"] = {
+			["Sellenaria-Barthilas"] = {
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Crippled-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
+				["name"] = "Sellenaria-Barthilas",
 				["overall"] = {
 				},
 			},
@@ -303,11 +303,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Sellenaria-Barthilas"] = {
+			["Emosong-Kil'jaeden"] = {
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Sellenaria-Barthilas",
+				["class"] = "ROGUE",
+				["name"] = "Emosong-Kil'jaeden",
 				["overall"] = {
 				},
 			},
@@ -375,11 +375,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Emosong-Kil'jaeden"] = {
+			["Crippled-Kil'jaeden"] = {
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
-				["name"] = "Emosong-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Crippled-Kil'jaeden",
 				["overall"] = {
 				},
 			},
@@ -3456,19 +3456,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
+			["Choplo"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
 			["Moonßlight"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
-			},
-			["Paxington-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
 			},
 			["Penguindruid"] = {
 				["encounters"] = 1,
@@ -3494,12 +3494,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
-			["Choplo"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Paxington-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "MONK",
+				["class"] = "HUNTER",
 			},
 			["Yukiox"] = {
 				["encounters"] = 3,
@@ -4369,6 +4369,13 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Toshpriest"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Archbaroness-Daggerspine"] = {
 				["encounters"] = 2,
 				["points"] = 180,
@@ -4390,13 +4397,6 @@ DeathGraphsDBEndurance = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Toshpriest"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
 			},
@@ -5586,19 +5586,24 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
+			["Moonßlight"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["deaths"] = {
+					{
+						1, -- [1]
+						126.7919999999867, -- [2]
+						"Creeping Madness |cFFFF3333287,208|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
 			["Choplo"] = {
 				["encounters"] = 4,
 				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "MONK",
-			},
-			["Paxington-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
 			},
 			["Penguindruid"] = {
 				["encounters"] = 2,
@@ -5619,17 +5624,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Moonßlight"] = {
-				["encounters"] = 4,
-				["points"] = 390,
+			["Paxington-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
-					{
-						1, -- [1]
-						126.7919999999867, -- [2]
-						"Creeping Madness |cFFFF3333287,208|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "DEATHKNIGHT",
+				["class"] = "HUNTER",
 			},
 			["Hungorr-BleedingHollow"] = {
 				["encounters"] = 2,
@@ -13513,14 +13513,14 @@ DeathGraphsDBGraph = {
 			[37] = {
 				1595648556, -- [1]
 			},
-			[99] = {
-				1595648556, -- [1]
-			},
 			[166] = {
 				1595648556, -- [1]
 			},
 			[151] = {
 				1596255845, -- [1]
+			},
+			[99] = {
+				1595648556, -- [1]
 			},
 		},
 		["spells"] = {

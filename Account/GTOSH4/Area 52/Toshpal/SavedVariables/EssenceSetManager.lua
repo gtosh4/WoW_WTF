@@ -3,23 +3,23 @@ EssenceSetManager = {
 	["Protection"] = {
 	},
 	["Holy"] = {
-		["raid"] = {
+		["m+ heal"] = {
 			["major"] = {
 				["ID"] = 22,
 				["name"] = "Vision of Perfection",
 			},
 			["minors"] = {
 				["one"] = {
-					["ID"] = 37,
-					["name"] = "The Formless Void",
+					["ID"] = 24,
+					["name"] = "Spirit of Preservation",
 				},
 				["three"] = {
 					["ID"] = 32,
 					["name"] = "Conflict and Strife",
 				},
 				["two"] = {
-					["ID"] = 19,
-					["name"] = "The Well of Existence",
+					["ID"] = 27,
+					["name"] = "Memory of Lucid Dreams",
 				},
 			},
 		},
@@ -40,6 +40,26 @@ EssenceSetManager = {
 				["two"] = {
 					["ID"] = 22,
 					["name"] = "Vision of Perfection",
+				},
+			},
+		},
+		["raid"] = {
+			["major"] = {
+				["ID"] = 22,
+				["name"] = "Vision of Perfection",
+			},
+			["minors"] = {
+				["one"] = {
+					["ID"] = 37,
+					["name"] = "The Formless Void",
+				},
+				["three"] = {
+					["ID"] = 32,
+					["name"] = "Conflict and Strife",
+				},
+				["two"] = {
+					["ID"] = 19,
+					["name"] = "The Well of Existence",
 				},
 			},
 		},
