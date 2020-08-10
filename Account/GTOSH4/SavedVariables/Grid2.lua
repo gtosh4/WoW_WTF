@@ -67,10 +67,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["arena"] = "By Group",
-								["raid"] = "By Group",
-								["solo"] = "By Role",
 								["party"] = "By Role",
+								["arena"] = "By Group",
+								["solo"] = "By Role",
+								["raid"] = "By Group",
 							},
 							["BackgroundB"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -81,7 +81,7 @@ Grid2DB = {
 							["anchor"] = "TOP",
 							["clamp"] = true,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -309.3253055860405,
+							["PosY"] = -309.3246415235553,
 							["BorderTexture"] = "Blizzard Tooltip",
 							["BackgroundG"] = 0.1019607843137255,
 							["BackgroundA"] = 1,
@@ -90,16 +90,16 @@ Grid2DB = {
 							["FrameDisplay"] = "Always",
 							["horizontal"] = false,
 							["BackgroundR"] = 0.1019607843137255,
-							["PosX"] = -250.6619328738316,
+							["PosX"] = -250.6617229128988,
 						}, -- [1]
 						{
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["arena"] = "By Group",
-								["party"] = "By Group",
-								["solo"] = "By Group",
 								["raid"] = "By Group",
+								["arena"] = "By Group",
+								["solo"] = "By Group",
+								["party"] = "By Group",
 							},
 							["BackgroundR"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -110,7 +110,7 @@ Grid2DB = {
 							["anchor"] = "TOP",
 							["clamp"] = true,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -575.9986394691769,
+							["PosY"] = -575.9984832191803,
 							["BorderTexture"] = "Blizzard Tooltip",
 							["BackgroundG"] = 0.1019607843137255,
 							["BackgroundA"] = 1,
@@ -131,8 +131,8 @@ Grid2DB = {
 					["minimapIcon"] = {
 						["hide"] = true,
 					},
-					["PosY"] = -575.9976629066987,
-					["PosX"] = 0.002788085875181423,
+					["PosY"] = -575.9975457192013,
+					["PosX"] = 0.002792968687572284,
 					["BackgroundA"] = 1,
 					["BorderG"] = 0.5019607843137255,
 					["BackgroundR"] = 0.1019607843137255,
@@ -1541,16 +1541,16 @@ Grid2DB = {
 						["b"] = 0.2,
 					},
 				},
-				["buff-GlimmerofLight-mine"] = {
+				["buff-Riptide-mine"] = {
 					["color1"] = {
 						["a"] = 1,
-						["b"] = 0.3019607843137255,
-						["g"] = 0.3019607843137255,
-						["r"] = 0.3019607843137255,
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["type"] = "buff",
 					["mine"] = 1,
-					["spellName"] = "Glimmer of Light",
+					["spellName"] = 61295,
 				},
 				["debuff-WeakenedSoul"] = {
 					["type"] = "debuff",
@@ -1646,6 +1646,129 @@ Grid2DB = {
 					["useSpellId"] = true,
 					["type"] = "debuff",
 					["spellName"] = 319695,
+				},
+				["buff-GlimmerofLight-mine"] = {
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.3019607843137255,
+						["g"] = 0.3019607843137255,
+						["r"] = 0.3019607843137255,
+					},
+					["type"] = "buff",
+					["mine"] = 1,
+					["spellName"] = "Glimmer of Light",
+				},
+				["buff-BeaconofLight-mine"] = {
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
+					},
+					["type"] = "buff",
+					["mine"] = 1,
+					["spellName"] = 53563,
+				},
+				["leader"] = {
+					["hideInCombat"] = true,
+				},
+				["raid-debuffs2"] = {
+					["type"] = "raid-debuffs",
+					["debuffs"] = {
+						[1030] = {
+							269670, -- [1]
+						},
+						[1022] = {
+							260455, -- [1]
+						},
+						[1036] = {
+							264477, -- [1]
+						},
+						[1180] = {
+							313198, -- [1]
+							311159, -- [2]
+							309777, -- [3]
+							313364, -- [4]
+						},
+						[1002] = {
+							260016, -- [1]
+							257777, -- [2]
+						},
+					},
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 1,
+						["g"] = 0.5,
+						["r"] = 1,
+					},
+				},
+				["dungeon-role"] = {
+					["color2"] = {
+						["a"] = 1,
+						["r"] = 0.4509803921568628,
+						["g"] = 0.6,
+						["b"] = 0.4784313725490196,
+					},
+					["color3"] = {
+						["a"] = 1,
+						["r"] = 0.4509803921568628,
+						["g"] = 0.4509803921568628,
+						["b"] = 0.6,
+					},
+					["hideDamagers"] = true,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.6,
+						["g"] = 0.4509803921568628,
+						["b"] = 0.4509803921568628,
+					},
+				},
+				["debuff-EyeofCorruption"] = {
+					["useSpellId"] = true,
+					["enableStacks"] = 9,
+					["type"] = "debuff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.2,
+						["g"] = 0.2,
+						["r"] = 1,
+					},
+					["spellName"] = 315161,
+				},
+				["buffs-DefensiveCooldowns"] = {
+					["type"] = "buffs",
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+					["auras"] = {
+						6940, -- [1]
+						31850, -- [2]
+						498, -- [3]
+						86657, -- [4]
+						86659, -- [5]
+						204018, -- [6]
+						2565, -- [7]
+						871, -- [8]
+						12975, -- [9]
+						61336, -- [10]
+						22812, -- [11]
+						22842, -- [12]
+						55233, -- [13]
+						49028, -- [14]
+						48792, -- [15]
+						48707, -- [16]
+						33206, -- [17]
+						47788, -- [18]
+						115203, -- [19]
+						122278, -- [20]
+						187827, -- [21]
+					},
+				},
+				["raid-assistant"] = {
+					["hideInCombat"] = true,
 				},
 				["raid-debuffs"] = {
 					["debuffs"] = {
@@ -1770,129 +1893,6 @@ Grid2DB = {
 							266923, -- [4]
 						},
 					},
-				},
-				["buff-BeaconofLight-mine"] = {
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 1,
-						["g"] = 1,
-						["r"] = 1,
-					},
-					["type"] = "buff",
-					["mine"] = 1,
-					["spellName"] = 53563,
-				},
-				["leader"] = {
-					["hideInCombat"] = true,
-				},
-				["raid-debuffs2"] = {
-					["type"] = "raid-debuffs",
-					["debuffs"] = {
-						[1030] = {
-							269670, -- [1]
-						},
-						[1022] = {
-							260455, -- [1]
-						},
-						[1036] = {
-							264477, -- [1]
-						},
-						[1180] = {
-							313198, -- [1]
-							311159, -- [2]
-							309777, -- [3]
-							313364, -- [4]
-						},
-						[1002] = {
-							260016, -- [1]
-							257777, -- [2]
-						},
-					},
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 1,
-						["g"] = 0.5,
-						["r"] = 1,
-					},
-				},
-				["dungeon-role"] = {
-					["color2"] = {
-						["a"] = 1,
-						["r"] = 0.4509803921568628,
-						["g"] = 0.6,
-						["b"] = 0.4784313725490196,
-					},
-					["color3"] = {
-						["a"] = 1,
-						["r"] = 0.4509803921568628,
-						["g"] = 0.4509803921568628,
-						["b"] = 0.6,
-					},
-					["hideDamagers"] = true,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 0.6,
-						["g"] = 0.4509803921568628,
-						["b"] = 0.4509803921568628,
-					},
-				},
-				["debuff-EyeofCorruption"] = {
-					["useSpellId"] = true,
-					["enableStacks"] = 9,
-					["type"] = "debuff",
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 0.2,
-						["g"] = 0.2,
-						["r"] = 1,
-					},
-					["spellName"] = 315161,
-				},
-				["buffs-DefensiveCooldowns"] = {
-					["type"] = "buffs",
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
-					["auras"] = {
-						6940, -- [1]
-						31850, -- [2]
-						498, -- [3]
-						86657, -- [4]
-						86659, -- [5]
-						204018, -- [6]
-						2565, -- [7]
-						871, -- [8]
-						12975, -- [9]
-						61336, -- [10]
-						22812, -- [11]
-						22842, -- [12]
-						55233, -- [13]
-						49028, -- [14]
-						48792, -- [15]
-						48707, -- [16]
-						33206, -- [17]
-						47788, -- [18]
-						115203, -- [19]
-						122278, -- [20]
-						187827, -- [21]
-					},
-				},
-				["raid-assistant"] = {
-					["hideInCombat"] = true,
-				},
-				["buff-Riptide-mine"] = {
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 1,
-						["g"] = 1,
-						["r"] = 1,
-					},
-					["type"] = "buff",
-					["mine"] = 1,
-					["spellName"] = 61295,
 				},
 				["buff-Renew-mine"] = {
 					["spellName"] = 139,
@@ -2038,9 +2038,9 @@ Grid2DB = {
 				["bar-main"] = {
 					["heal-absorbs"] = 4,
 					["shields"] = 5,
+					["heals-incoming"] = 2,
 					["health-current"] = 1,
 					["my-heals-incoming"] = 3,
-					["heals-incoming"] = 2,
 				},
 			},
 			["themes"] = {
@@ -2048,12 +2048,12 @@ Grid2DB = {
 					["raid@lfr"] = 0,
 					["solo"] = 1,
 					["15"] = 0,
-					["raid"] = 2,
+					["raid@mythic"] = 0,
 					["party"] = 1,
 					["default"] = 1,
-					["raid@mythic"] = 0,
-					["20"] = 0,
 					["arena"] = 1,
+					["20"] = 0,
+					["raid"] = 2,
 					["raid@flex"] = 0,
 					["10"] = 1,
 				},

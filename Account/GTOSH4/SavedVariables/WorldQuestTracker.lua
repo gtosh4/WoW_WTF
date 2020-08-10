@@ -10,6 +10,7 @@ WQTrackerDB = {
 		["Default"] = {
 			["map_frame_anchor"] = "left",
 			["TutorialTaxyMap"] = true,
+			["TutorialTracker"] = 2,
 			["groupfinder"] = {
 				["enabled"] = false,
 			},
@@ -26,8 +27,9 @@ WQTrackerDB = {
 				},
 				["name_cache"] = {
 					["OOX-Avenger/MG"] = 151296,
-					["Wrath-Lord Yarez"] = 126338,
 					["Malfunctioning Beastbot"] = 151933,
+					["Wrath-Lord Yarez"] = 126338,
+					["Goldenvein"] = 140769,
 					["Arachnoid Harvester"] = 151934,
 					["Lieutenant Xakaar"] = 126254,
 					["Elder Unu"] = 152414,
@@ -182,65 +184,20 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
-					[53027] = {
-						["expireAt"] = 1596985240,
-						["rewardAmount"] = 243,
+					[58744] = {
+						["expireAt"] = 1597071678,
+						["rewardAmount"] = 221,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[52751] = {
-						["expireAt"] = 1597028473,
-						["rewardAmount"] = "20",
-						["rewardTexture"] = 133675,
-					},
-					[52757] = {
-						["expireAt"] = 1596985273,
-						["rewardAmount"] = 254,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[50744] = {
-						["expireAt"] = 1596956443,
-						["rewardAmount"] = "|cff2292FF415",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
-					},
-					[51583] = {
-						["expireAt"] = 1596985273,
-						["rewardAmount"] = 250,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[51463] = {
-						["expireAt"] = 1597028473,
-						["rewardAmount"] = 258,
+					[51610] = {
+						["expireAt"] = 1597071681,
+						["rewardAmount"] = 336,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 					[52458] = {
-						["expireAt"] = 1597071673,
+						["expireAt"] = 1597071681,
 						["rewardAmount"] = "|cffc557FF430",
 						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
-					},
-					[51656] = {
-						["expireAt"] = 1596985273,
-						["rewardAmount"] = 258,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[51905] = {
-						["expireAt"] = 1597028440,
-						["rewardAmount"] = "|cff2292FF415",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
-					},
-					[58748] = {
-						["expireAt"] = 1596985280,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045106,
-					},
-					[52126] = {
-						["expireAt"] = 1596985300,
-						["rewardAmount"] = "12",
-						["rewardTexture"] = 2004597,
-					},
-					[51042] = {
-						["expireAt"] = 1596985303,
-						["rewardAmount"] = 176,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
 				["Player-3676-0AD945E6"] = {

@@ -1,5 +1,12 @@
 
 BigWigs3DB = {
+	["global"] = {
+		["watchedMovies"] = {
+			[-1597] = true,
+			[-1004] = true,
+			[927] = true,
+		},
+	},
 	["discord"] = 15,
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
@@ -49,8 +56,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_King's Rest Trash"] = {
-		},
 		["BigWigs_Bosses_Ring of Booty"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -58,8 +63,6 @@ BigWigs3DB = {
 					[256489] = 3129591,
 				},
 			},
-		},
-		["BigWigs_Bosses_Aqu'sirr"] = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
@@ -105,8 +108,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Golden Serpent"] = {
-		},
 		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
@@ -123,7 +124,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Dazar, The First King"] = {
+		["BigWigs_Bosses_Knight Captain Valyri"] = {
+			["profiles"] = {
+				["Default"] = {
+					[256955] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Bosses_Infested Crawg"] = {
 			["profiles"] = {
@@ -131,10 +137,6 @@ BigWigs3DB = {
 					[260333] = 3129591,
 				},
 			},
-		},
-		["BigWigs_Bosses_Shrine of the Storm Trash"] = {
-		},
-		["BigWigs_Bosses_Mchimba the Embalmer"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -188,21 +190,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Sand Queen"] = {
-		},
-		["BigWigs_Bosses_Tol Dagor Trash"] = {
+		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
 					["voice"] = "English: Overwatch: Roadhog",
-				},
-			},
-		},
-		["BigWigs_Bosses_Viq'Goth"] = {
-			["profiles"] = {
-				["Default"] = {
-					[275014] = 3129591,
 				},
 			},
 		},
@@ -213,10 +206,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
+		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[263257] = 3129591,
+					[255371] = 3129591,
 				},
 			},
 		},
@@ -231,12 +224,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Bosses_Sporecaller Zancha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[259732] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -323,6 +311,9 @@ BigWigs3DB = {
 						["BigWigs_Bosses_The Council of Tribes"] = {
 							[266231] = "English: Overwatch: Reaper",
 						},
+						["BigWigs_Bosses_Knight Captain Valyri"] = {
+							[256955] = "English: Overwatch: Reaper",
+						},
 						["BigWigs_Bosses_Jes Howlis"] = {
 							[257785] = "English: Overwatch: Reaper",
 						},
@@ -346,13 +337,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[255371] = 3129591,
-				},
-			},
-		},
 		["BigWigs_Bosses_Council o' Captains"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -362,12 +346,24 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					[269843] = 3129591,
+					[263257] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Viq'Goth"] = {
+			["profiles"] = {
+				["Default"] = {
+					[275014] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Sporecaller Zancha"] = {
+			["profiles"] = {
+				["Default"] = {
+					[259732] = 3129591,
 				},
 			},
 		},
@@ -383,7 +379,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Bosses_Unbound Abomination"] = {
+			["profiles"] = {
+				["Default"] = {
+					[269843] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Bosses_King Mechagon"] = {
 			["profiles"] = {
@@ -392,15 +393,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-	},
-	["wipe80"] = true,
-	["global"] = {
-		["watchedMovies"] = {
-			[-1597] = true,
-			[-1004] = true,
-			[927] = true,
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 	},
+	["wipe80"] = true,
 	["profiles"] = {
 		["Default"] = {
 		},
@@ -466,6 +462,9 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 				["wipes"] = 4,
 				["best"] = 458.3640000000014,
+			},
+			["mythic"] = {
+				["wipes"] = 18,
 			},
 		},
 		[2368] = {

@@ -27,4 +27,5 @@ REFlexDatabase = {
 }
 REFlexHonorDatabase = {
 	[1596355200] = 22,
+	[1597046400] = 1,
 }

@@ -7,7 +7,7 @@ AstralKeys = {
 		19, -- [4]
 		18, -- [5]
 		159, -- [6]
-		378779, -- [7]
+		450566, -- [7]
 	}, -- [1]
 	{
 		"Rathux-Area52", -- [1]
@@ -176,8 +176,8 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 18,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralFriends = {
@@ -188,7 +188,7 @@ AstralFriends = {
 		353, -- [4]
 		26, -- [5]
 		159, -- [6]
-		378757, -- [7]
+		450245, -- [7]
 		"1", -- [8]
 		26, -- [9]
 	}, -- [1]
@@ -199,7 +199,7 @@ AstralFriends = {
 		251, -- [4]
 		18, -- [5]
 		159, -- [6]
-		362298, -- [7]
+		447492, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [2]
@@ -210,7 +210,7 @@ AstralFriends = {
 		353, -- [4]
 		20, -- [5]
 		159, -- [6]
-		374827, -- [7]
+		405993, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [3]
@@ -359,7 +359,6 @@ AstralFriends = {
 	}, -- [16]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -373,7 +372,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -382,7 +383,13 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
+		["current_list"] = "GUILD",
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
 			["isEnabled"] = true,
 		},
 	},
@@ -395,10 +402,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = false,
 			["guild"] = false,
+			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -410,14 +417,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
