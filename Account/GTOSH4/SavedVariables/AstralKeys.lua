@@ -97,7 +97,7 @@ AstralKeys = {
 		25, -- [4]
 		26, -- [5]
 		159, -- [6]
-		469894, -- [7]
+		543200, -- [7]
 	}, -- [11]
 	{
 		"Illsong-Area52", -- [1]
@@ -124,7 +124,7 @@ AstralKeys = {
 		26, -- [4]
 		26, -- [5]
 		159, -- [6]
-		482608, -- [7]
+		541582, -- [7]
 	}, -- [14]
 	{
 		"Royalty-Area52", -- [1]
@@ -149,9 +149,9 @@ AstralKeys = {
 		"PALADIN", -- [2]
 		370, -- [3]
 		18, -- [4]
-		19, -- [5]
+		20, -- [5]
 		159, -- [6]
-		482409, -- [7]
+		542987, -- [7]
 	}, -- [17]
 	{
 		"Arnbjorn-Area52", -- [1]
@@ -165,10 +165,10 @@ AstralKeys = {
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 19,
+		["weekly_best"] = 20,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralFriends = {
@@ -267,7 +267,7 @@ AstralFriends = {
 		353, -- [4]
 		25, -- [5]
 		159, -- [6]
-		469894, -- [7]
+		539625, -- [7]
 		"1", -- [8]
 		26, -- [9]
 	}, -- [9]
@@ -278,7 +278,7 @@ AstralFriends = {
 		251, -- [4]
 		18, -- [5]
 		159, -- [6]
-		471232, -- [7]
+		482364, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [10]
@@ -289,7 +289,7 @@ AstralFriends = {
 		252, -- [4]
 		17, -- [5]
 		159, -- [6]
-		223758, -- [7]
+		529930, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [11]
@@ -357,10 +357,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
 			["no_key"] = false,
+			["party"] = true,
 			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -385,7 +385,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -394,26 +396,24 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 	},
 }
 AstralMinimap = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
 		},
 		["Toshdk - Kil'jaeden"] = {
 		},
-		["Toshaman - Area 52"] = {
-		},
 		["Toshpal - Area 52"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 	},
 }

@@ -185,6 +185,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
 		["BigWigs_Bosses_Skycap'n Kragg"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -192,11 +194,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_InfoBox"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 513.6001447701419,
+					["posy"] = 154.133307101727,
+				},
+			},
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Bosses_Council o' Captains"] = {
 			["profiles"] = {
@@ -221,8 +229,8 @@ BigWigs3DB = {
 					["BigWigsAnchor_x"] = 390.9344053244349,
 					["spacing"] = 4,
 					["BigWigsEmphasizeAnchor_y"] = 229.65323705435,
-					["fontSizeEmph"] = 12,
 					["BigWigsEmphasizeAnchor_width"] = 182.9999694824219,
+					["fontSizeEmph"] = 12,
 					["emphasizeTime"] = 15,
 				},
 			},
@@ -304,16 +312,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 513.6001447701419,
-					["posy"] = 154.133307101727,
-				},
-			},
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
 		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -321,10 +319,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					[255371] = 3129591,
+					[263257] = 3129591,
 				},
 			},
 		},
@@ -340,10 +340,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
+		["BigWigs_Bosses_Viq'Goth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[263257] = 3129591,
+					[275014] = 3129591,
 				},
 			},
 		},
@@ -354,10 +354,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Viq'Goth"] = {
+		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[275014] = 3129591,
+					[255371] = 3129591,
 				},
 			},
 		},

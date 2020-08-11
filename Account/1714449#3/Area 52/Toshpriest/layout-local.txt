@@ -111,13 +111,6 @@ X: 528
 Y: -36
 W: 200
 H: 175
-Frame: Quartz3CastBarPlayer
-FrameLevel: 1
-Anchor: CENTER
-X: -5
-Y: -280
-W: 396
-H: 25
 Frame: Quartz3CastBarTarget
 FrameLevel: 1
 Anchor: CENTER
@@ -153,3 +146,10 @@ X: 0
 Y: 96
 W: 570
 H: 155
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: CENTER
+X: -5
+Y: -280
+W: 396
+H: 25
