@@ -3,8 +3,10 @@ Details_StreamerDB = {
 	["characters"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshpriest - Area 52",
-		["Toshpal - Area 52"] = "Toshpriest - Area 52",
 		["Toshaman - Area 52"] = "Toshpriest - Area 52",
+		["Yelluwuy - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Toshpriest - Area 52",
+		["Toshpal - Area 52"] = "Toshpriest - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
@@ -33,8 +35,8 @@ Details_StreamerDB = {
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
 			["scale"] = 1,
-			["row_height"] = 20,
 			["point"] = "CENTER",
+			["y"] = 6.103515625e-05,
 			["enabled"] = false,
 			["arrow_size"] = 10,
 			["author"] = "Details! Team",
@@ -45,17 +47,9 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
-			["x"] = 6.103515625e-05,
-			["font_face"] = "Friz Quadrata TT",
+			["row_height"] = 20,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -63,14 +57,22 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 9.1552734375e-05,
 				["x"] = 6.103515625e-05,
-				["size"] = 32,
 				["update_speed"] = 0.05,
+				["size"] = 32,
 				["attribute_type"] = 1,
 			},
-			["y"] = 6.103515625e-05,
-			["main_frame_strata"] = "LOW",
-			["main_frame_locked"] = false,
+			["x"] = 6.103515625e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_anchor_y"] = 0,
+			["use_spark"] = true,
+			["main_frame_locked"] = false,
+			["font_size"] = 10,
 		},
 	},
 }

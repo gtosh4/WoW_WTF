@@ -22,6 +22,8 @@ ToshUnitFramesDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Yorman - Kil'jaeden"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
@@ -50,12 +52,12 @@ ToshUnitFramesDB = {
 					["type"] = "bar",
 					["source"] = "health",
 					["parent"] = 1,
-					["Update"] = nil --[[ skipped inline function ]],
-					["_values"] = nil --[[ skipped inline function ]],
 					["_events"] = {
 						"UNIT_HEALTH_FREQUENT", -- [1]
 						"UNIT_MAXHEALTH", -- [2]
 					},
+					["_values"] = nil --[[ skipped inline function ]],
+					["Update"] = nil --[[ skipped inline function ]],
 					["anchors"] = {
 						{
 							["to"] = "TOPLEFT",

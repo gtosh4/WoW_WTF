@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 180,
 	["lastSanitation"] = 3,
-	["session"] = 173,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AdiBags' tried to call the protected function 'CompactRaidFrame2:Show()'.",

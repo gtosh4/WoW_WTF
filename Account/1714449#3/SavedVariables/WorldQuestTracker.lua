@@ -16,20 +16,6 @@ WQTrackerDB = {
 				["summary_showbyzone"] = false,
 			},
 			["history"] = {
-				["quest"] = {
-					["global"] = {
-						["total"] = 2,
-						[51051] = 1,
-						[57540] = 1,
-					},
-					["character"] = {
-						["Player-3676-0AD945E6"] = {
-							["total"] = 2,
-							[51051] = 1,
-							[57540] = 1,
-						},
-					},
-				},
 				["period"] = {
 					["global"] = {
 						["200808"] = {
@@ -39,6 +25,9 @@ WQTrackerDB = {
 							["artifact"] = 164,
 							["quest"] = 1,
 							["resource"] = 164,
+						},
+						["200811"] = {
+							["quest"] = 2,
 						},
 					},
 					["character"] = {
@@ -51,6 +40,27 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["resource"] = 164,
 							},
+							["200811"] = {
+								["quest"] = 2,
+							},
+						},
+					},
+				},
+				["quest"] = {
+					["global"] = {
+						["total"] = 4,
+						[57540] = 1,
+						[56163] = 1,
+						[56074] = 1,
+						[51051] = 1,
+					},
+					["character"] = {
+						["Player-3676-0AD945E6"] = {
+							["total"] = 4,
+							[57540] = 1,
+							[56163] = 1,
+							[56074] = 1,
+							[51051] = 1,
 						},
 					},
 				},
@@ -72,113 +82,89 @@ WQTrackerDB = {
 			["anchor_options"] = {
 				[863] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[895] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[942] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[14] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[875] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[862] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[864] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[896] = {
-					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
-					["TextColor"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0.2, -- [3]
-						0.854, -- [4]
-					},
-				},
-				[1355] = {
-					["Enabled"] = true,
-					["TextColor"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0.2, -- [3]
-						0.854, -- [4]
-					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
-				},
-				[876] = {
 					["Enabled"] = true,
 					["TextColor"] = {
 						1, -- [1]
@@ -192,36 +178,70 @@ WQTrackerDB = {
 				},
 				[1165] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
+				},
+				[876] = {
+					["Enabled"] = true,
 					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+				},
+				[1355] = {
+					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
 				},
 			},
 			["quests_tracked"] = {
-				["Player-3676-0AD945D6"] = {
-				},
 				["Player-3676-0AD945E6"] = {
+				},
+				["Player-3676-0AD945D6"] = {
 				},
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
+					[58742] = {
+						["expireAt"] = 1597244460,
+						["rewardAmount"] = "17",
+						["rewardTexture"] = 133675,
+					},
+					[51049] = {
+						["expireAt"] = 1597244458,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 2065568,
+					},
 				},
 			},
 			["player_names"] = {
-				["Player-3676-0AD945D6"] = {
-					["class"] = "SHAMAN",
-					["name"] = "Toshaman",
-					["realm"] = "Area 52",
-				},
 				["Player-3676-0AD945E6"] = {
 					["class"] = "PRIEST",
 					["name"] = "Toshpriest",
+					["realm"] = "Area 52",
+				},
+				["Player-3676-0AD945D6"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Toshaman",
 					["realm"] = "Area 52",
 				},
 			},
@@ -245,13 +265,13 @@ WQTrackerDB = {
 					["Goldenvein"] = 140769,
 					["Racha-mundos Skuul"] = 127118,
 					["Foul Manifestation"] = 151202,
-					["Arachnoid Harvester"] = 151934,
-					["Shiz'narasz the Consumer"] = 153658,
+					["Blistermaw"] = 122958,
+					["Shiz'narasz el consumidor"] = 153658,
 					["Matriarca de escamas Gratinax"] = 152548,
 					["Malfunctioning Beastbot"] = 151933,
 					["Armored Vaultbot"] = 154968,
-					["Shiz'narasz el consumidor"] = 153658,
-					["Blistermaw"] = 122958,
+					["Shiz'narasz the Consumer"] = 153658,
+					["Arachnoid Harvester"] = 151934,
 					["Lieutenant Xakaar"] = 126254,
 					["Elder Unu"] = 152414,
 					["Guardian Tannin"] = 152736,
