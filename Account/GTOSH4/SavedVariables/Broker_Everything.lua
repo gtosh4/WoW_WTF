@@ -25,6 +25,14 @@ Broker_Everything_DataDB = {
 	},
 }
 Broker_Everything_CharacterDB = {
+	["order"] = {
+		"Toshpriest-Area 52", -- [1]
+		"Toshpal-Area 52", -- [2]
+		"Yorman-Kil'jaeden", -- [3]
+		"Toshdk-Kil'jaeden", -- [4]
+		"Yelluwuy-Area 52", -- [5]
+		"Toshdruid-Area 52", -- [6]
+	},
 	["Yelluwuy-Area 52"] = {
 		["race"] = "BloodElf",
 		["name"] = "Yelluwuy",
@@ -32,21 +40,6 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 5,
 		["level"] = 1,
 		["class"] = "PRIEST",
-	},
-	["order"] = {
-		"Toshpriest-Area 52", -- [1]
-		"Toshpal-Area 52", -- [2]
-		"Yorman-Kil'jaeden", -- [3]
-		"Toshdk-Kil'jaeden", -- [4]
-		"Yelluwuy-Area 52", -- [5]
-	},
-	["Yorman-Kil'jaeden"] = {
-		["race"] = "Tauren",
-		["name"] = "Yorman",
-		["faction"] = "Horde",
-		["orderId"] = 3,
-		["level"] = 120,
-		["class"] = "DRUID",
 	},
 	["Toshdk-Kil'jaeden"] = {
 		["race"] = "Orc",
@@ -56,12 +49,34 @@ Broker_Everything_CharacterDB = {
 		["class"] = "DEATHKNIGHT",
 		["level"] = 120,
 	},
+	["Yorman-Kil'jaeden"] = {
+		["race"] = "Tauren",
+		["name"] = "Yorman",
+		["faction"] = "Horde",
+		["orderId"] = 3,
+		["level"] = 120,
+		["class"] = "DRUID",
+	},
+	["Toshdruid-Area 52"] = {
+		["race"] = "Tauren",
+		["name"] = "Toshdruid",
+		["faction"] = "Horde",
+		["orderId"] = 6,
+		["class"] = "DRUID",
+		["level"] = 120,
+	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
 		["orderId"] = 1,
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["level"] = 120,
+		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -87,12 +102,6 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["level"] = 120,
-		["gold"] = 10753845943,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
 	},
 	["Toshpal-Area 52"] = {
 		["race"] = "ZandalariTroll",
@@ -108,6 +117,7 @@ Broker_Everything_AceDB = {
 		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
@@ -121,8 +131,10 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Friends"] = {
-				["enabled"] = false,
+			["Equipment"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -156,16 +168,14 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Equipment"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
-			},
 			["Difficulty"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},

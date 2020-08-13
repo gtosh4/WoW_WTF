@@ -1,9 +1,10 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
-		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
-		["Toshdk - Kil'jaeden"] = "Default",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
+		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
@@ -18,6 +19,9 @@ Gladius2DB = {
 			},
 		},
 		["Default"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["locked"] = true,
 			["y"] = {
 				["arena1"] = 470.5065910458579,
 			},
@@ -98,19 +102,20 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
 		},
 		["Yelluwuy - Area 52"] = {
+			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["x"] = {
 				["arena1"] = 182.9333943486199,
 			},
-			["auraVersion"] = 1,
 			["y"] = {
 				["arena1"] = 484.3733876109109,
 			},
+		},
+		["Toshdruid - Area 52"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
 		},
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,

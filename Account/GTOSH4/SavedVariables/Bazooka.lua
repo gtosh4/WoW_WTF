@@ -8,6 +8,7 @@ BazookaDB = {
 		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
@@ -25,9 +26,10 @@ BazookaDB = {
 						["bar"] = 2,
 						["pos"] = 2,
 					},
-					["Difficulty"] = {
-						["showIcon"] = false,
-						["bar"] = 3,
+					["Equipment"] = {
+						["useLabelAsTitle"] = false,
+						["area"] = "left",
+						["bar"] = 2,
 						["pos"] = 1,
 					},
 					["BugSack"] = {
@@ -35,9 +37,9 @@ BazookaDB = {
 						["bar"] = 4,
 						["pos"] = 1,
 					},
-					["Details"] = {
+					["SimulationCraft"] = {
 						["enabled"] = false,
-						["pos"] = 13,
+						["pos"] = 9,
 					},
 					["REFlex"] = {
 						["area"] = "left",
@@ -53,23 +55,21 @@ BazookaDB = {
 						["area"] = "left",
 						["pos"] = 1,
 					},
-					["Equipment"] = {
-						["useLabelAsTitle"] = false,
-						["area"] = "left",
-						["bar"] = 2,
+					["Difficulty"] = {
+						["showIcon"] = false,
+						["bar"] = 3,
 						["pos"] = 1,
 					},
-					["MythicDungeonTools"] = {
+					["Talent Set Manager"] = {
 						["enabled"] = false,
-						["pos"] = 8,
+						["pos"] = 7,
 					},
 					["DetailsStreamer"] = {
 						["enabled"] = false,
 						["pos"] = 14,
 					},
-					["Talent Set Manager"] = {
-						["enabled"] = false,
-						["pos"] = 7,
+					["Volume"] = {
+						["pos"] = 1,
 					},
 					["Clock"] = {
 						["showValue"] = false,
@@ -78,12 +78,13 @@ BazookaDB = {
 						["bar"] = 4,
 						["pos"] = 1,
 					},
-					["Volume"] = {
-						["pos"] = 1,
-					},
-					["SimulationCraft"] = {
+					["MythicDungeonTools"] = {
 						["enabled"] = false,
-						["pos"] = 9,
+						["pos"] = 8,
+					},
+					["Details"] = {
+						["enabled"] = false,
+						["pos"] = 13,
 					},
 					["AdiBags"] = {
 						["enabled"] = false,

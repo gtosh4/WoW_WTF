@@ -4,6 +4,7 @@ WQTrackerDB = {
 		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
@@ -31,13 +32,13 @@ WQTrackerDB = {
 				},
 				["name_cache"] = {
 					["OOX-Avenger/MG"] = 151296,
-					["Lieutenant Xakaar"] = 126254,
+					["Malfunctioning Beastbot"] = 151933,
 					["Wrath-Lord Yarez"] = 126338,
 					["Goldenvein"] = 140769,
 					["Arachnoid Harvester"] = 151934,
-					["Malfunctioning Beastbot"] = 151933,
-					["Umbra'jin"] = 122004,
+					["Lieutenant Xakaar"] = 126254,
 					["Elder Unu"] = 152414,
+					["Umbra'jin"] = 122004,
 				},
 			},
 			["TutorialPopupID"] = 5,
@@ -183,15 +184,27 @@ WQTrackerDB = {
 				},
 				["Player-9-0A76FA3F"] = {
 				},
+				["Player-9-0B9D6659"] = {
+				},
 				["Player-3676-0AD945E6"] = {
 				},
-				["Player-9-0B9D6659"] = {
+				["Player-3676-0B20F78C"] = {
 				},
 				["Player-3676-0AC0708D"] = {
 				},
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
+					[58745] = {
+						["expireAt"] = 1597330880,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045105,
+					},
+					[58748] = {
+						["expireAt"] = 1597330881,
+						["rewardAmount"] = 222,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
 				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {
@@ -264,15 +277,20 @@ WQTrackerDB = {
 					["name"] = "Yorman",
 					["realm"] = "Kil'jaeden",
 				},
+				["Player-9-0B9D6659"] = {
+					["class"] = "DEATHKNIGHT",
+					["name"] = "Toshdk",
+					["realm"] = "Kil'jaeden",
+				},
 				["Player-3676-0AD945E6"] = {
 					["class"] = "PRIEST",
 					["name"] = "Toshpriest",
 					["realm"] = "Area 52",
 				},
-				["Player-9-0B9D6659"] = {
-					["class"] = "DEATHKNIGHT",
-					["name"] = "Toshdk",
-					["realm"] = "Kil'jaeden",
+				["Player-3676-0B20F78C"] = {
+					["class"] = "DRUID",
+					["name"] = "Toshdruid",
+					["realm"] = "Area 52",
 				},
 				["Player-3676-0AC0708D"] = {
 					["class"] = "PRIEST",

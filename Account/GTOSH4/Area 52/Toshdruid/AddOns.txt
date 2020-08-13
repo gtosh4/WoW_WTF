@@ -15,3 +15,8 @@ RaiderIO_DB_TW_H_R: disabled
 OPie_Classic: disabled
 PitBull4: disabled
 ToshUnitFrames: disabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
