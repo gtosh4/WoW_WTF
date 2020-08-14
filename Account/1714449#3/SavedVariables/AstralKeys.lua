@@ -5,9 +5,9 @@ AstralKeys = {
 		"PRIEST", -- [2]
 		247, -- [3]
 		18, -- [4]
-		0, -- [5]
+		18, -- [5]
 		160, -- [6]
-		39894, -- [7]
+		194304, -- [7]
 	}, -- [1]
 	{
 		"Toshpal-Area52", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		24, -- [4]
 		0, -- [5]
 		160, -- [6]
-		4, -- [7]
+		192560, -- [7]
 	}, -- [7]
 	{
 		"Illsong-Area52", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		25, -- [4]
 		0, -- [5]
 		160, -- [6]
-		41615, -- [7]
+		196100, -- [7]
 	}, -- [8]
 	{
 		"Unhealable-Area52", -- [1]
@@ -111,7 +111,7 @@ AstralKeys = {
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 18,
 		["class"] = "PRIEST",
 		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
@@ -125,9 +125,9 @@ AstralFriends = {
 		251, -- [4]
 		24, -- [5]
 		160, -- [6]
-		40393, -- [7]
+		188788, -- [7]
 		"1", -- [8]
-		15, -- [9]
+		23, -- [9]
 	}, -- [1]
 	{
 		"Emosong-Kil'jaeden", -- [1]
@@ -136,7 +136,7 @@ AstralFriends = {
 		247, -- [4]
 		18, -- [5]
 		160, -- [6]
-		34571, -- [7]
+		194023, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [2]
@@ -147,7 +147,7 @@ AstralFriends = {
 		247, -- [4]
 		22, -- [5]
 		160, -- [6]
-		27318, -- [7]
+		193611, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [3]
@@ -158,7 +158,7 @@ AstralFriends = {
 		369, -- [4]
 		24, -- [5]
 		160, -- [6]
-		40096, -- [7]
+		193545, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [4]
@@ -169,7 +169,7 @@ AstralFriends = {
 		246, -- [4]
 		25, -- [5]
 		160, -- [6]
-		30693, -- [7]
+		194019, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [5]
@@ -263,7 +263,6 @@ AstralFriends = {
 	}, -- [13]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -290,6 +289,14 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
@@ -299,10 +306,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
 			["party"] = true,
-			["no_key"] = false,
+			["raid"] = false,
 			["guild"] = false,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -314,14 +321,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {

@@ -221,16 +221,6 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[58742] = {
-						["expireAt"] = 1597244460,
-						["rewardAmount"] = "17",
-						["rewardTexture"] = 133675,
-					},
-					[51049] = {
-						["expireAt"] = 1597244458,
-						["rewardAmount"] = "5",
-						["rewardTexture"] = 2065568,
-					},
 				},
 			},
 			["player_names"] = {
