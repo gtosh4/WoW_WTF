@@ -11,7 +11,6 @@ BigWigs3DB = {
 			[927] = true,
 		},
 	},
-	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Bosses_Lord Stormsong"] = {
 			["profiles"] = {
@@ -193,6 +192,10 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Harlan Sweete"] = {
+		},
+		["BigWigs_Bosses_Freehold Trash"] = {
+		},
 		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -200,10 +203,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
-					[255371] = 3129591,
+					["voice"] = "English: Overwatch: Roadhog",
 				},
 			},
 		},
@@ -214,10 +217,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
 				["Default"] = {
-					["voice"] = "English: Overwatch: Roadhog",
+					[255371] = 3129591,
 				},
 			},
 		},
@@ -242,9 +245,9 @@ BigWigs3DB = {
 		["BigWigs_Bosses_Council o' Captains"] = {
 			["profiles"] = {
 				["Default"] = {
-					[258381] = 3129591,
 					[256979] = 3129591,
 					[258338] = 3129591,
+					[258381] = 3129591,
 				},
 			},
 		},
@@ -259,9 +262,9 @@ BigWigs3DB = {
 					["spacing"] = 4,
 					["emphasizeTime"] = 15,
 					["barStyle"] = "ElvUI",
-					["BigWigsEmphasizeAnchor_width"] = 181.6665802001953,
-					["BigWigsEmphasizeAnchor_x"] = 666.6670163488307,
 					["fontSizeEmph"] = 12,
+					["BigWigsEmphasizeAnchor_x"] = 666.6670163488307,
+					["BigWigsEmphasizeAnchor_width"] = 181.6665802001953,
 					["BigWigsEmphasizeAnchor_y"] = 231.7866159129153,
 					["BigWigsAnchor_x"] = 390.9344053244349,
 					["texture"] = "Smooth v2",
@@ -408,6 +411,7 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
+	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 		},

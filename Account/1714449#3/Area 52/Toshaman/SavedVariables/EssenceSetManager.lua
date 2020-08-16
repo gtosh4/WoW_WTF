@@ -2,4 +2,6 @@
 EssenceSetManager = {
 	["Restoration"] = {
 	},
+	["Elemental"] = {
+	},
 }

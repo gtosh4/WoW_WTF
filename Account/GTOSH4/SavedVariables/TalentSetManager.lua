@@ -17,12 +17,12 @@ TalentSetManager_Options = {
 	["ldb_last_selected"] = "talents",
 }
 TalentSetManager_CharacterSaves = {
-	["Yorman-Kil'jaeden"] = {
+	["Yelluwuy-Area 52"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
-			[4] = {
-			},
+			{
+			}, -- [1]
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -88,12 +88,12 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Yelluwuy-Area 52"] = {
+	["Yorman-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
-			{
-			}, -- [1]
+			[4] = {
+			},
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -103,10 +103,14 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshdruid-Area 52"] = {
+	["Toshpal-Area 52"] = {
 		["talents"] = {
-			[4] = {
-			},
+			{
+			}, -- [1]
+			{
+			}, -- [2]
+			{
+			}, -- [3]
 		},
 		["talents_pvp"] = {
 		},
@@ -135,14 +139,10 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshpal-Area 52"] = {
+	["Toshdruid-Area 52"] = {
 		["talents"] = {
-			{
-			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
+			[4] = {
+			},
 		},
 		["talents_pvp"] = {
 		},

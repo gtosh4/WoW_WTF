@@ -25,14 +25,6 @@ Broker_Everything_DataDB = {
 	},
 }
 Broker_Everything_CharacterDB = {
-	["order"] = {
-		"Toshpriest-Area 52", -- [1]
-		"Toshpal-Area 52", -- [2]
-		"Yorman-Kil'jaeden", -- [3]
-		"Toshdk-Kil'jaeden", -- [4]
-		"Yelluwuy-Area 52", -- [5]
-		"Toshdruid-Area 52", -- [6]
-	},
 	["Yelluwuy-Area 52"] = {
 		["race"] = "BloodElf",
 		["name"] = "Yelluwuy",
@@ -40,6 +32,14 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 5,
 		["level"] = 1,
 		["class"] = "PRIEST",
+	},
+	["order"] = {
+		"Toshpriest-Area 52", -- [1]
+		"Toshpal-Area 52", -- [2]
+		"Yorman-Kil'jaeden", -- [3]
+		"Toshdk-Kil'jaeden", -- [4]
+		"Yelluwuy-Area 52", -- [5]
+		"Toshdruid-Area 52", -- [6]
 	},
 	["Toshdk-Kil'jaeden"] = {
 		["race"] = "Orc",
@@ -57,13 +57,13 @@ Broker_Everything_CharacterDB = {
 		["level"] = 120,
 		["class"] = "DRUID",
 	},
-	["Toshdruid-Area 52"] = {
-		["race"] = "Tauren",
-		["name"] = "Toshdruid",
+	["Toshpal-Area 52"] = {
+		["race"] = "ZandalariTroll",
+		["name"] = "Toshpal",
 		["faction"] = "Horde",
-		["orderId"] = 6,
-		["class"] = "DRUID",
+		["orderId"] = 2,
 		["level"] = 120,
+		["class"] = "PALADIN",
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
@@ -71,12 +71,6 @@ Broker_Everything_CharacterDB = {
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["level"] = 120,
-		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -102,14 +96,20 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-	},
-	["Toshpal-Area 52"] = {
-		["race"] = "ZandalariTroll",
-		["name"] = "Toshpal",
-		["faction"] = "Horde",
-		["orderId"] = 2,
 		["level"] = 120,
-		["class"] = "PALADIN",
+		["gold"] = 10753845943,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+	},
+	["Toshdruid-Area 52"] = {
+		["race"] = "Tauren",
+		["name"] = "Toshdruid",
+		["faction"] = "Horde",
+		["orderId"] = 6,
+		["class"] = "DRUID",
+		["level"] = 120,
 	},
 }
 Broker_Everything_AceDB = {
@@ -131,7 +131,8 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Equipment"] = {
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -168,14 +169,13 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
+			["Friends"] = {
+				["enabled"] = false,
+			},
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
-			},
-			["Friends"] = {
-				["enabled"] = false,
 			},
 		},
 	},

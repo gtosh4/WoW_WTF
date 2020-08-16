@@ -32,13 +32,13 @@ WQTrackerDB = {
 				},
 				["name_cache"] = {
 					["OOX-Avenger/MG"] = 151296,
-					["Malfunctioning Beastbot"] = 151933,
+					["Lieutenant Xakaar"] = 126254,
 					["Wrath-Lord Yarez"] = 126338,
 					["Goldenvein"] = 140769,
 					["Arachnoid Harvester"] = 151934,
-					["Lieutenant Xakaar"] = 126254,
-					["Elder Unu"] = 152414,
+					["Malfunctioning Beastbot"] = 151933,
 					["Umbra'jin"] = 122004,
+					["Elder Unu"] = 152414,
 				},
 			},
 			["TutorialPopupID"] = 5,
@@ -195,15 +195,20 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
-					[58745] = {
-						["expireAt"] = 1597330880,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045105,
-					},
-					[58748] = {
-						["expireAt"] = 1597330881,
-						["rewardAmount"] = 222,
+					[51890] = {
+						["expireAt"] = 1597633258,
+						["rewardAmount"] = 244,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51583] = {
+						["expireAt"] = 1597590058,
+						["rewardAmount"] = 257,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51632] = {
+						["expireAt"] = 1597590058,
+						["rewardAmount"] = "|cff2292FF420",
+						["rewardTexture"] = 2565093,
 					},
 				},
 				["Player-3676-0AD945E6"] = {
