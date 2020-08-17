@@ -11,11 +11,11 @@ Gladius2DB = {
 		["Toshdk - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 466.7733489418024,
-			},
 			["x"] = {
 				["arena1"] = 572.2664715838473,
+			},
+			["y"] = {
+				["arena1"] = 466.7733489418024,
 			},
 		},
 		["Default"] = {
@@ -89,52 +89,59 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
 		},
 		["Yelluwuy - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 182.9333943486199,
-			},
 			["y"] = {
 				["arena1"] = 484.3733876109109,
 			},
+			["x"] = {
+				["arena1"] = 182.9333943486199,
+			},
 		},
 		["Toshdruid - Area 52"] = {
-			["auraVersion"] = 1,
+			["y"] = {
+				["arena1"] = 489.1732703161251,
+			},
+			["x"] = {
+				["arena1"] = 1485.333248050214,
+			},
+			["locked"] = true,
 			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
 		},
 		["Yorman - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1478.932310693286,
-			},
 			["y"] = {
 				["arena1"] = 681.173344149589,
+			},
+			["x"] = {
+				["arena1"] = 1478.932310693286,
 			},
 		},
 		["Toshpal - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 618.1331893086463,
-			},
 			["y"] = {
 				["arena1"] = 476.9067080903042,
+			},
+			["x"] = {
+				["arena1"] = 618.1331893086463,
 			},
 		},
 	},

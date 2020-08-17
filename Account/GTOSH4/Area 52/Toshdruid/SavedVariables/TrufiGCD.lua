@@ -5,7 +5,7 @@ TrufiGCDChSave = {
 	["TrGCDQueueFr"] = {
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Player",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -16,7 +16,7 @@ TrufiGCDChSave = {
 		}, -- [1]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Party 1",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -27,7 +27,7 @@ TrufiGCDChSave = {
 		}, -- [2]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Party 2",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -38,7 +38,7 @@ TrufiGCDChSave = {
 		}, -- [3]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Party 3",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -49,7 +49,7 @@ TrufiGCDChSave = {
 		}, -- [4]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Party 4",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -60,7 +60,7 @@ TrufiGCDChSave = {
 		}, -- [5]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Arena 1",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -71,7 +71,7 @@ TrufiGCDChSave = {
 		}, -- [6]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Arena 2",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -82,7 +82,7 @@ TrufiGCDChSave = {
 		}, -- [7]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Arena 3",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -93,7 +93,7 @@ TrufiGCDChSave = {
 		}, -- [8]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Arena 4",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -104,7 +104,7 @@ TrufiGCDChSave = {
 		}, -- [9]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Arena 5",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -115,7 +115,7 @@ TrufiGCDChSave = {
 		}, -- [10]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Target",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -126,7 +126,7 @@ TrufiGCDChSave = {
 		}, -- [11]
 		{
 			["point"] = "CENTER",
-			["enable"] = true,
+			["enable"] = false,
 			["text"] = "Focus",
 			["fade"] = "Left",
 			["y"] = 0,
@@ -138,12 +138,12 @@ TrufiGCDChSave = {
 	},
 	["TooltipSpellID"] = false,
 	["EnableIn"] = {
-		["Arena"] = true,
-		["World"] = true,
-		["Enable"] = true,
-		["Raid"] = true,
-		["Bg"] = true,
 		["PvE"] = true,
+		["Raid"] = true,
+		["Enable"] = true,
+		["Arena"] = true,
+		["Bg"] = true,
+		["World"] = true,
 	},
 	["TrGCDBL"] = {
 		6603, -- [1]

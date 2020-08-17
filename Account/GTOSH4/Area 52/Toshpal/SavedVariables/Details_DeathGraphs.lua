@@ -5,48 +5,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
-		["player_db"] = {
-			["Royalty"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Royalty",
-				["overall"] = {
-				},
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Ybrik-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Artsong"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Artsong",
-				["overall"] = {
-				},
-			},
-			["Cohava-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Cohava-Illidan",
-				["overall"] = {
-				},
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Yarilys-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 10,
@@ -59,6 +17,48 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["encounter"] = "Ra-den the Despoiled",
 		},
+		["player_db"] = {
+			["Royalty"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Royalty",
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ybrik-Kil'jaeden",
+			},
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Cohava-Illidan"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Cohava-Illidan",
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Yarilys-Kil'jaeden",
+			},
+		},
 		["diff"] = 15,
 	},
 	["236815"] = {
@@ -66,24 +66,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Wrathion",
 		["id"] = 2368,
-		["player_db"] = {
-			["Artsong"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Artsong",
-				["overall"] = {
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Emosong-Kil'jaeden",
-				["class"] = "ROGUE",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -97,6 +79,24 @@ DeathGraphsDBDeaths = {
 			["id"] = 2329,
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Emosong-Kil'jaeden"] = {
+				["name"] = "Emosong-Kil'jaeden",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 		["diff"] = 15,
 	},
 	["237516"] = {
@@ -104,192 +104,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["player_db"] = {
-			["Kerryhunts-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Kerryhunts-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Tianarrae-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Tianarrae-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Kajio-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Kajio-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Fierypower-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Fierypower-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Sis-Arthas"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Sis-Arthas",
-				["overall"] = {
-				},
-			},
-			["Hoofalo-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Hoofalo-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Logs"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Logs",
-				["overall"] = {
-				},
-			},
-			["Khodiie-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khodiie-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Mordpriest-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Mordpriest-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Felside-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Felside-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Eldeek-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Eldeek-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Radriar-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Radriar-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Royalty"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Royalty",
-				["overall"] = {
-				},
-			},
-			["Jarrbek-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Jarrbek-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Toshpal"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Toshpal",
-				["overall"] = {
-				},
-			},
-			["Genoqt-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Genoqt-Tichondrius",
-				["overall"] = {
-				},
-			},
-			["Leafyo"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Leafyo",
-				["overall"] = {
-				},
-			},
-			["Goffee-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Goffee-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Splendiferus-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Bogarn-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Bogarn-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Azngød-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Azngød-Tichondrius",
-				["overall"] = {
-				},
-			},
-			["Sán-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Sán-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Esperance-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Esperance-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
 			["index"] = 12,
@@ -302,6 +116,216 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["encounter"] = "N'Zoth the Corruptor",
 		},
+		["player_db"] = {
+			["Kerryhunts-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Kerryhunts-Kil'jaeden",
+			},
+			["Tianarrae-Kil'jaeden"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Tianarrae-Kil'jaeden",
+			},
+			["Kajio-Kil'jaeden"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Kajio-Kil'jaeden",
+			},
+			["Fierypower-Kil'jaeden"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Fierypower-Kil'jaeden",
+			},
+			["Sis-Arthas"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sis-Arthas",
+			},
+			["Hoofalo-Kil'jaeden"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hoofalo-Kil'jaeden",
+			},
+			["Logs"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Logs",
+			},
+			["Khodiie-Kil'jaeden"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Khodiie-Kil'jaeden",
+			},
+			["Felside-Kil'jaeden"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Felside-Kil'jaeden",
+			},
+			["Eldeek-Kil'jaeden"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Eldeek-Kil'jaeden",
+			},
+			["Ancestràl-Kil'jaeden"] = {
+				["name"] = "Ancestràl-Kil'jaeden",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Mordpriest-Kil'jaeden"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Mordpriest-Kil'jaeden",
+			},
+			["Royalty"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Royalty",
+			},
+			["Toshpal"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Toshpal",
+			},
+			["Radriar-Kil'jaeden"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Radriar-Kil'jaeden",
+			},
+			["Leafyo"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Leafyo",
+			},
+			["Jarrbek-Kil'jaeden"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Jarrbek-Kil'jaeden",
+			},
+			["Genoqt-Tichondrius"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Genoqt-Tichondrius",
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Splendiferus-Kil'jaeden",
+			},
+			["Bogarn-Kil'jaeden"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bogarn-Kil'jaeden",
+			},
+			["Goffee-Kil'jaeden"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Goffee-Kil'jaeden",
+			},
+			["Sán-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sán-Kil'jaeden",
+			},
+			["Myss-Tichondrius"] = {
+				["name"] = "Myss-Tichondrius",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Azngød-Tichondrius"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Azngød-Tichondrius",
+			},
+			["Xiaphos-Mal'Ganis"] = {
+				["name"] = "Xiaphos-Mal'Ganis",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Esperance-Kil'jaeden"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Esperance-Kil'jaeden",
+			},
+		},
 		["diff"] = 16,
 	},
 	["236615"] = {
@@ -309,72 +333,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
-		["player_db"] = {
-			["Gummybuns"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Gummybuns",
-				["overall"] = {
-				},
-			},
-			["Yukios-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Yukios-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Haxpax-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Haxpax-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Baesong-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Baesong-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Artsong"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Artsong",
-				["overall"] = {
-				},
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Maxxed-Mal'Ganis",
-				["overall"] = {
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Emosong-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Fayfay-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Fayfay-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 11,
@@ -388,6 +346,72 @@ DeathGraphsDBDeaths = {
 			["id"] = 2337,
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Gummybuns"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Gummybuns",
+			},
+			["Yukios-Kil'jaeden"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Yukios-Kil'jaeden",
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Haxpax-Kil'jaeden",
+			},
+			["Baesong-Kil'jaeden"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Baesong-Kil'jaeden",
+			},
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Maxxed-Mal'Ganis",
+			},
+			["Emosong-Kil'jaeden"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Emosong-Kil'jaeden",
+			},
+			["Fayfay-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Fayfay-Kil'jaeden",
+			},
+		},
 		["diff"] = 15,
 	},
 	["237215"] = {
@@ -395,16 +419,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "The Hivemind",
 		["id"] = 2372,
-		["player_db"] = {
-			["Baesong-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Baesong-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 5,
@@ -416,6 +430,16 @@ DeathGraphsDBDeaths = {
 			["encounter"] = "The Hivemind",
 			["ej_instance_id"] = 1180,
 		},
+		["player_db"] = {
+			["Baesong-Kil'jaeden"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Baesong-Kil'jaeden",
+			},
+		},
 		["diff"] = 15,
 	},
 	["237515"] = {
@@ -423,72 +447,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["player_db"] = {
-			["Judaasx"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Judaasx",
-				["overall"] = {
-				},
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Ybrik-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Illestt-Barthilas"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Illestt-Barthilas",
-				["overall"] = {
-				},
-			},
-			["Babynv"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Babynv",
-				["overall"] = {
-				},
-			},
-			["Artsong"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Artsong",
-				["overall"] = {
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Emosong-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Taistoi-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Taistoi-Illidan",
-				["overall"] = {
-				},
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Yarilys-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 12,
@@ -502,6 +460,72 @@ DeathGraphsDBDeaths = {
 			["id"] = 2344,
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Judaasx"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Judaasx",
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ybrik-Kil'jaeden",
+			},
+			["Illestt-Barthilas"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Illestt-Barthilas",
+			},
+			["Babynv"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Babynv",
+			},
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Emosong-Kil'jaeden"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Emosong-Kil'jaeden",
+			},
+			["Taistoi-Illidan"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Taistoi-Illidan",
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Yarilys-Kil'jaeden",
+			},
+		},
 		["diff"] = 15,
 	},
 	["237416"] = {
@@ -510,112 +534,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Il'gynoth, Corruption Reborn",
 		["id"] = 2374,
 		["diff"] = 16,
-		["player_db"] = {
-			["Holypenguin"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Holypenguin",
-				["class"] = "PRIEST",
-			},
-			["Oxclamation"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Oxclamation",
-				["class"] = "DRUID",
-			},
-			["Smytt"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Smytt",
-				["class"] = "HUNTER",
-			},
-			["Sci"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Sci",
-				["class"] = "PALADIN",
-			},
-			["Warlockmania"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Warlockmania",
-				["class"] = "WARLOCK",
-			},
-			["Toshpal"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Toshpal",
-				["class"] = "PALADIN",
-			},
-			["Artsong"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-			},
-			["Durantye"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Durantye",
-				["class"] = "PRIEST",
-			},
-			["Andruw"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Andruw",
-				["class"] = "DEMONHUNTER",
-			},
-			["Itsyellowy"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Itsyellowy",
-				["class"] = "PRIEST",
-			},
-			["Versatillee-Mal'Ganis"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Versatillee-Mal'Ganis",
-				["class"] = "PALADIN",
-			},
-			["Rathux"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Rathux",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Wilwar"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Wilwar",
-				["class"] = "WARRIOR",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
 			["index"] = 8,
@@ -628,6 +546,112 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["diff"] = 16,
 		},
+		["player_db"] = {
+			["Holypenguin"] = {
+				["name"] = "Holypenguin",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Oxclamation"] = {
+				["name"] = "Oxclamation",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Smytt"] = {
+				["name"] = "Smytt",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Sci"] = {
+				["name"] = "Sci",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Warlockmania"] = {
+				["name"] = "Warlockmania",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["name"] = "Toshpal",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Artsong"] = {
+				["name"] = "Artsong",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["name"] = "Rathux",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Andruw"] = {
+				["name"] = "Andruw",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Itsyellowy"] = {
+				["name"] = "Itsyellowy",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Versatillee-Mal'Ganis"] = {
+				["name"] = "Versatillee-Mal'Ganis",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Durantye"] = {
+				["name"] = "Durantye",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Wilwar"] = {
+				["name"] = "Wilwar",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 }
 DeathGraphsDBEndurance = {
@@ -636,6 +660,18 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 10,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2331,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Ra-den the Despoiled",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Ra-den the Despoiled",
+		},
 		["player_db"] = {
 			["Candymán-Illidan"] = {
 				["encounters"] = 1,
@@ -810,11 +846,16 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Zanlet-Illidan"] = {
+			["Cohava-Illidan"] = {
 				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
+				["points"] = 90,
+				["class"] = "PRIEST",
 				["deaths"] = {
+					{
+						2, -- [1]
+						91.92900000000373, -- [2]
+						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Baesong-Kil'jaeden"] = {
@@ -831,10 +872,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Haschwàlth-Ragnaros"] = {
+			["Zanlet-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARRIOR",
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
 			},
@@ -859,16 +900,11 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Cohava-Illidan"] = {
+			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PRIEST",
+				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
-					{
-						2, -- [1]
-						91.92900000000373, -- [2]
-						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Evandh-Illidan"] = {
@@ -878,14 +914,14 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Illsong"] = {
+			["Hunterscurse-Eonar"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
-			["Hunterscurse-Eonar"] = {
+			["Illsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "DEMONHUNTER",
@@ -1031,18 +1067,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 10,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2331,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Ra-den the Despoiled",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["encounter"] = "Ra-den the Despoiled",
-		},
 		["diff"] = 15,
 	},
 	["236815"] = {
@@ -1050,6 +1074,19 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Wrathion",
 		["id"] = 2368,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 1,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Wrathion",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Wrathion",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2329,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Déviné"] = {
 				["encounters"] = 1,
@@ -1321,19 +1358,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 1,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Wrathion",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Wrathion",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2329,
-			["killed"] = true,
-		},
 		["diff"] = 15,
 	},
 	["237516"] = {
@@ -1341,6 +1365,18 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 12,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2344,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "N'Zoth the Corruptor",
+			["diff"] = 16,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "N'Zoth the Corruptor",
+		},
 		["player_db"] = {
 			["Kerryhunts-Kil'jaeden"] = {
 				["encounters"] = 36,
@@ -1380,8 +1416,8 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Tianarrae-Kil'jaeden"] = {
-				["encounters"] = 38,
-				["points"] = 3670,
+				["encounters"] = 56,
+				["points"] = 5420,
 				["class"] = "PRIEST",
 				["deaths"] = {
 					{
@@ -1434,11 +1470,31 @@ DeathGraphsDBEndurance = {
 						346.0490000001155, -- [2]
 						"Anguish (DoT) |cFFFF3333293,786|r", -- [3]
 					}, -- [10]
+					{
+						6, -- [1]
+						332.8680000000168, -- [2]
+						"Anguish (DoT) |cFFFF3333293,787|r", -- [3]
+					}, -- [11]
+					{
+						6, -- [1]
+						349.5470000000205, -- [2]
+						"Anguish (DoT) |cFFFF3333293,787|r", -- [3]
+					}, -- [12]
+					{
+						13, -- [1]
+						160.5910000000149, -- [2]
+						"Manifest Madness |cFFFF3333130,464|r", -- [3]
+					}, -- [13]
+					{
+						17, -- [1]
+						106.0530000000726, -- [2]
+						"Anguish (DoT) |cFFFF3333293,786|r", -- [3]
+					}, -- [14]
 				},
 			},
 			["Kajio-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3470,
+				["encounters"] = 52,
+				["points"] = 5160,
 				["class"] = "MONK",
 				["deaths"] = {
 					{
@@ -1456,11 +1512,16 @@ DeathGraphsDBEndurance = {
 						119.4180000000633, -- [2]
 						"Melee |cFFFF333317,302|r", -- [3]
 					}, -- [3]
+					{
+						8, -- [1]
+						272.2979999999516, -- [2]
+						"Melee |cFFFF333373,289|r", -- [3]
+					}, -- [4]
 				},
 			},
 			["Leafyo"] = {
-				["encounters"] = 35,
-				["points"] = 3470,
+				["encounters"] = 52,
+				["points"] = 5150,
 				["class"] = "DRUID",
 				["deaths"] = {
 					{
@@ -1478,11 +1539,21 @@ DeathGraphsDBEndurance = {
 						151.9640000001527, -- [2]
 						"Anguish (DoT) |cFFFF3333299,961|r", -- [3]
 					}, -- [3]
+					{
+						5, -- [1]
+						71.8519999999553, -- [2]
+						"Grand Delusions |cFFFF3333189,855|r", -- [3]
+					}, -- [4]
+					{
+						8, -- [1]
+						319.0479999999516, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333339,226|r", -- [3]
+					}, -- [5]
 				},
 			},
 			["Genoqt-Tichondrius"] = {
-				["encounters"] = 35,
-				["points"] = 3480,
+				["encounters"] = 52,
+				["points"] = 5160,
 				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
@@ -1495,11 +1566,21 @@ DeathGraphsDBEndurance = {
 						98.54899999999907, -- [2]
 						"Melee |cFFFF3333711,460|r", -- [3]
 					}, -- [2]
+					{
+						5, -- [1]
+						117.2469999999739, -- [2]
+						"Melee |cFFFF3333321,172|r", -- [3]
+					}, -- [3]
+					{
+						16, -- [1]
+						176.6489999999758, -- [2]
+						"Anguish (DoT) |cFFFF3333230,173|r", -- [3]
+					}, -- [4]
 				},
 			},
 			["Hoofalo-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3440,
+				["encounters"] = 52,
+				["points"] = 5120,
 				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
@@ -1532,6 +1613,16 @@ DeathGraphsDBEndurance = {
 						127.3350000001956, -- [2]
 						"Melee |cFFFF3333400,542|r", -- [3]
 					}, -- [6]
+					{
+						17, -- [1]
+						471.2760000000708, -- [2]
+						"Melee |cFFFF3333471,551|r", -- [3]
+					}, -- [7]
+					{
+						18, -- [1]
+						386.875, -- [2]
+						"Anguish (DoT) |cFFFF3333279,337|r", -- [3]
+					}, -- [8]
 				},
 			},
 			["Royalty"] = {
@@ -1562,8 +1653,8 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Bogarn-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3470,
+				["encounters"] = 52,
+				["points"] = 5160,
 				["class"] = "DRUID",
 				["deaths"] = {
 					{
@@ -1581,11 +1672,107 @@ DeathGraphsDBEndurance = {
 						400.9520000000484, -- [2]
 						"Stupefying Glare |cFFFF3333418,526|r", -- [3]
 					}, -- [3]
+					{
+						11, -- [1]
+						117.6510000000708, -- [2]
+						"Devour Thoughts |cFFFF3333178,837|r", -- [3]
+					}, -- [4]
 				},
 			},
+			["Esperance-Kil'jaeden"] = {
+				["encounters"] = 52,
+				["points"] = 5140,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						12, -- [1]
+						490.2050000000745, -- [2]
+						"Stupefying Glare |cFFFF3333409,978|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						472.5840000000317, -- [2]
+						"Anguish (DoT) |cFFFF3333287,012|r", -- [3]
+					}, -- [2]
+					{
+						13, -- [1]
+						431.9720000000671, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333337,533|r", -- [3]
+					}, -- [3]
+					{
+						4, -- [1]
+						390.7139999999199, -- [2]
+						"Melee |cFFFF3333775,822|r", -- [3]
+					}, -- [4]
+					{
+						13, -- [1]
+						160.6629999999423, -- [2]
+						"Anguish (DoT) |cFFFF3333285,811|r", -- [3]
+					}, -- [5]
+					{
+						15, -- [1]
+						117.4939999999479, -- [2]
+						"Anguish (DoT) |cFFFF3333288,269|r", -- [3]
+					}, -- [6]
+				},
+			},
+			["Eldeek-Kil'jaeden"] = {
+				["encounters"] = 17,
+				["points"] = 1650,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						3, -- [1]
+						469.8649999999907, -- [2]
+						"Stupefying Glare |cFFFF3333438,742|r", -- [3]
+					}, -- [1]
+					{
+						7, -- [1]
+						126.8179999999702, -- [2]
+						"Melee |cFFFF3333377,395|r", -- [3]
+					}, -- [2]
+					{
+						10, -- [1]
+						266.0420000001323, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333340,281|r", -- [3]
+					}, -- [3]
+					{
+						13, -- [1]
+						445.6520000000019, -- [2]
+						"Evoke Anguish |cFFFF3333177,662|r", -- [3]
+					}, -- [4]
+					{
+						17, -- [1]
+						401.4660000000149, -- [2]
+						"Stupefying Glare |cFFFF3333434,688|r", -- [3]
+					}, -- [5]
+				},
+			},
+			["Ancestràl-Kil'jaeden"] = {
+				["encounters"] = 17,
+				["points"] = 1670,
+				["deaths"] = {
+					{
+						2, -- [1]
+						298.0709999999963, -- [2]
+						"Anguish (DoT) |cFFFF3333274,007|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						153.3660000001546, -- [2]
+						"Eye of Corruption |cFFFF333322,017|r", -- [3]
+					}, -- [2]
+					{
+						7, -- [1]
+						436.2299999999814, -- [2]
+						"Anguish (DoT) |cFFFF3333278,585|r", -- [3]
+					}, -- [3]
+				},
+				["class"] = "SHAMAN",
+			},
 			["Mordpriest-Kil'jaeden"] = {
-				["encounters"] = 36,
-				["points"] = 3510,
+				["encounters"] = 53,
+				["points"] = 5180,
 				["class"] = "PRIEST",
 				["deaths"] = {
 					{
@@ -1628,60 +1815,75 @@ DeathGraphsDBEndurance = {
 						333.1160000001546, -- [2]
 						"Eternal Torment |cFFFF333381,674|r", -- [3]
 					}, -- [8]
+					{
+						3, -- [1]
+						452.6950000000652, -- [2]
+						"Evoke Anguish |cFFFF3333185,329|r", -- [3]
+					}, -- [9]
+					{
+						7, -- [1]
+						416.5879999999888, -- [2]
+						"Anguish (DoT) |cFFFF3333301,387|r", -- [3]
+					}, -- [10]
+					{
+						10, -- [1]
+						255.1010000000242, -- [2]
+						"Probe Mind |cFFFF333380,957|r", -- [3]
+					}, -- [11]
 				},
 			},
-			["Esperance-Kil'jaeden"] = {
+			["Fierypower-Kil'jaeden"] = {
+				["encounters"] = 52,
+				["points"] = 5150,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						5, -- [1]
+						126.8989999999758, -- [2]
+						"Anguish (DoT) |cFFFF3333308,012|r", -- [3]
+					}, -- [1]
+					{
+						8, -- [1]
+						442.4020000000019, -- [2]
+						"Evoke Anguish |cFFFF333390,627|r", -- [3]
+					}, -- [2]
+					{
+						12, -- [1]
+						490.2050000000745, -- [2]
+						"Stupefying Glare |cFFFF3333426,477|r", -- [3]
+					}, -- [3]
+					{
+						14, -- [1]
+						397.6419999999926, -- [2]
+						"Anguish (DoT) |cFFFF3333308,011|r", -- [3]
+					}, -- [4]
+					{
+						8, -- [1]
+						275.9419999998063, -- [2]
+						"Black Volley |cFFFF333347,386|r", -- [3]
+					}, -- [5]
+				},
+			},
+			["Logs"] = {
 				["encounters"] = 35,
 				["points"] = 3470,
 				["class"] = "MAGE",
 				["deaths"] = {
 					{
+						4, -- [1]
+						249.4570000000531, -- [2]
+						"Cauterize |cFFFF333374,171|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						162.3760000000475, -- [2]
+						"Anguish (DoT) |cFFFF3333292,829|r", -- [3]
+					}, -- [2]
+					{
 						12, -- [1]
-						490.2050000000745, -- [2]
-						"Stupefying Glare |cFFFF3333409,978|r", -- [3]
-					}, -- [1]
-					{
-						3, -- [1]
-						472.5840000000317, -- [2]
-						"Anguish (DoT) |cFFFF3333287,012|r", -- [3]
-					}, -- [2]
-					{
-						13, -- [1]
-						431.9720000000671, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333337,533|r", -- [3]
+						408.6529999999329, -- [2]
+						"Anguish (DoT) |cFFFF3333293,111|r", -- [3]
 					}, -- [3]
-				},
-			},
-			["Eldeek-Kil'jaeden"] = {
-				["encounters"] = 17,
-				["points"] = 1650,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						3, -- [1]
-						469.8649999999907, -- [2]
-						"Stupefying Glare |cFFFF3333438,742|r", -- [3]
-					}, -- [1]
-					{
-						7, -- [1]
-						126.8179999999702, -- [2]
-						"Melee |cFFFF3333377,395|r", -- [3]
-					}, -- [2]
-					{
-						10, -- [1]
-						266.0420000001323, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333340,281|r", -- [3]
-					}, -- [3]
-					{
-						13, -- [1]
-						445.6520000000019, -- [2]
-						"Evoke Anguish |cFFFF3333177,662|r", -- [3]
-					}, -- [4]
-					{
-						17, -- [1]
-						401.4660000000149, -- [2]
-						"Stupefying Glare |cFFFF3333434,688|r", -- [3]
-					}, -- [5]
 				},
 			},
 			["Radriar-Kil'jaeden"] = {
@@ -1726,82 +1928,9 @@ DeathGraphsDBEndurance = {
 					}, -- [7]
 				},
 			},
-			["Fierypower-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3450,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						5, -- [1]
-						126.8989999999758, -- [2]
-						"Anguish (DoT) |cFFFF3333308,012|r", -- [3]
-					}, -- [1]
-					{
-						8, -- [1]
-						442.4020000000019, -- [2]
-						"Evoke Anguish |cFFFF333390,627|r", -- [3]
-					}, -- [2]
-					{
-						12, -- [1]
-						490.2050000000745, -- [2]
-						"Stupefying Glare |cFFFF3333426,477|r", -- [3]
-					}, -- [3]
-					{
-						14, -- [1]
-						397.6419999999926, -- [2]
-						"Anguish (DoT) |cFFFF3333308,011|r", -- [3]
-					}, -- [4]
-					{
-						8, -- [1]
-						275.9419999998063, -- [2]
-						"Black Volley |cFFFF333347,386|r", -- [3]
-					}, -- [5]
-				},
-			},
-			["Toshpal"] = {
-				["encounters"] = 35,
-				["points"] = 3490,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						14, -- [1]
-						334.872999999905, -- [2]
-						"Corrupted Viscera |cFFFF3333216,657|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Logs"] = {
-				["encounters"] = 18,
-				["points"] = 1780,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						4, -- [1]
-						249.4570000000531, -- [2]
-						"Cauterize |cFFFF333374,171|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						162.3760000000475, -- [2]
-						"Anguish (DoT) |cFFFF3333292,829|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Sis-Arthas"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						3, -- [1]
-						203.1080000000075, -- [2]
-						"Corrupted Viscera |cFFFF3333225,961|r", -- [3]
-					}, -- [1]
-				},
-			},
 			["Jarrbek-Kil'jaeden"] = {
-				["encounters"] = 36,
-				["points"] = 3530,
+				["encounters"] = 53,
+				["points"] = 5220,
 				["class"] = "SHAMAN",
 				["deaths"] = {
 					{
@@ -1834,11 +1963,144 @@ DeathGraphsDBEndurance = {
 						119.25400000019, -- [2]
 						"Devour Thoughts |cFFFF3333181,276|r", -- [3]
 					}, -- [6]
+					{
+						3, -- [1]
+						461.5239999999758, -- [2]
+						"Stupefying Glare |cFFFF3333399,038|r", -- [3]
+					}, -- [7]
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 52,
+				["points"] = 5170,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						14, -- [1]
+						334.872999999905, -- [2]
+						"Corrupted Viscera |cFFFF3333216,657|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						127.7709999999497, -- [2]
+						"Melee |cFFFF3333592,509|r", -- [3]
+					}, -- [2]
+					{
+						10, -- [1]
+						253.9599999999628, -- [2]
+						"Contempt |cFFFF333366,276|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Sis-Arthas"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						3, -- [1]
+						203.1080000000075, -- [2]
+						"Corrupted Viscera |cFFFF3333225,961|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["encounters"] = 52,
+				["points"] = 5140,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						162.5019999999786, -- [2]
+						"Anguish (DoT) |cFFFF3333214,887|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						160.3499999999767, -- [2]
+						"Anguish (DoT) |cFFFF3333219,752|r", -- [3]
+					}, -- [2]
+					{
+						18, -- [1]
+						162.9000000000233, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333328,101|r", -- [3]
+					}, -- [3]
+					{
+						3, -- [1]
+						472.183999999892, -- [2]
+						"Grand Delusions |cFFFF3333136,364|r", -- [3]
+					}, -- [4]
+					{
+						9, -- [1]
+						161.9909999999218, -- [2]
+						"Anguish (DoT) |cFFFF3333215,124|r", -- [3]
+					}, -- [5]
+					{
+						14, -- [1]
+						160.8410000000149, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333328,110|r", -- [3]
+					}, -- [6]
+				},
+			},
+			["Khodiie-Kil'jaeden"] = {
+				["encounters"] = 52,
+				["points"] = 5100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						2, -- [1]
+						161.9129999999423, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333337,852|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						285.7439999999479, -- [2]
+						"Anguish (DoT) |cFFFF3333295,851|r", -- [3]
+					}, -- [2]
+					{
+						6, -- [1]
+						161.0779999999795, -- [2]
+						"Anguish (DoT) |cFFFF3333295,851|r", -- [3]
+					}, -- [3]
+					{
+						18, -- [1]
+						161.1829999999609, -- [2]
+						"Anguish (DoT) |cFFFF3333295,851|r", -- [3]
+					}, -- [4]
+					{
+						4, -- [1]
+						162.1489999999758, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333339,189|r", -- [3]
+					}, -- [5]
+					{
+						15, -- [1]
+						144.1190000001807, -- [2]
+						"Pain Spike |cFFFF333368,298|r", -- [3]
+					}, -- [6]
+					{
+						13, -- [1]
+						158.9550000000745, -- [2]
+						"Anguish (DoT) |cFFFF3333295,851|r", -- [3]
+					}, -- [7]
+					{
+						14, -- [1]
+						161.1510000000708, -- [2]
+						"Melee |cFFFF3333372,189|r", -- [3]
+					}, -- [8]
+					{
+						15, -- [1]
+						110.9909999999218, -- [2]
+						"Paranoia |cFFFF3333174,936|r", -- [3]
+					}, -- [9]
+					{
+						16, -- [1]
+						175.7160000000149, -- [2]
+						"Anguish (DoT) |cFFFF3333306,059|r", -- [3]
+					}, -- [10]
 				},
 			},
 			["Goffee-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3430,
+				["encounters"] = 52,
+				["points"] = 5120,
 				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
@@ -1876,87 +2138,16 @@ DeathGraphsDBEndurance = {
 						332.6929999999702, -- [2]
 						"Anguish (DoT) |cFFFF3333285,847|r", -- [3]
 					}, -- [7]
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3460,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-					{
-						2, -- [1]
-						162.5019999999786, -- [2]
-						"Anguish (DoT) |cFFFF3333214,887|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						160.3499999999767, -- [2]
-						"Anguish (DoT) |cFFFF3333219,752|r", -- [3]
-					}, -- [2]
-					{
-						18, -- [1]
-						162.9000000000233, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333328,101|r", -- [3]
-					}, -- [3]
-					{
-						3, -- [1]
-						472.183999999892, -- [2]
-						"Grand Delusions |cFFFF3333136,364|r", -- [3]
-					}, -- [4]
-				},
-			},
-			["Khodiie-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3440,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-					{
-						2, -- [1]
-						161.9129999999423, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333337,852|r", -- [3]
-					}, -- [1]
-					{
-						3, -- [1]
-						285.7439999999479, -- [2]
-						"Anguish (DoT) |cFFFF3333295,851|r", -- [3]
-					}, -- [2]
-					{
-						6, -- [1]
-						161.0779999999795, -- [2]
-						"Anguish (DoT) |cFFFF3333295,851|r", -- [3]
-					}, -- [3]
-					{
-						18, -- [1]
-						161.1829999999609, -- [2]
-						"Anguish (DoT) |cFFFF3333295,851|r", -- [3]
-					}, -- [4]
 					{
 						4, -- [1]
-						162.1489999999758, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333339,189|r", -- [3]
-					}, -- [5]
-					{
-						15, -- [1]
-						144.1190000001807, -- [2]
-						"Pain Spike |cFFFF333368,298|r", -- [3]
-					}, -- [6]
-				},
-			},
-			["Azngød-Tichondrius"] = {
-				["encounters"] = 16,
-				["points"] = 1590,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						14, -- [1]
-						208.8070000000298, -- [2]
-						"Corrupted Viscera |cFFFF3333223,407|r", -- [3]
-					}, -- [1]
+						350.1790000000037, -- [2]
+						"Anguish (DoT) |cFFFF3333294,688|r", -- [3]
+					}, -- [8]
 				},
 			},
 			["Sán-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3440,
+				["encounters"] = 52,
+				["points"] = 5130,
 				["class"] = "HUNTER",
 				["deaths"] = {
 					{
@@ -1989,11 +2180,102 @@ DeathGraphsDBEndurance = {
 						394.1729999999516, -- [2]
 						"Infinity's Toll (DoT) |cFFFF333338,210|r", -- [3]
 					}, -- [6]
+					{
+						8, -- [1]
+						303.2379999998957, -- [2]
+						"Anguish (DoT) |cFFFF3333305,121|r", -- [3]
+					}, -- [7]
 				},
 			},
+			["Myss-Tichondrius"] = {
+				["encounters"] = 17,
+				["points"] = 1640,
+				["deaths"] = {
+					{
+						2, -- [1]
+						308.6669999998994, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333329,788|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						432.0320000001229, -- [2]
+						"Evoke Anguish |cFFFF3333191,110|r", -- [3]
+					}, -- [2]
+					{
+						4, -- [1]
+						291.6990000000224, -- [2]
+						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
+					}, -- [3]
+					{
+						12, -- [1]
+						392.6080000000075, -- [2]
+						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
+					}, -- [4]
+					{
+						15, -- [1]
+						113.3249999999534, -- [2]
+						"Cataclysmic Flames |cFFFF333335,072|r", -- [3]
+					}, -- [5]
+					{
+						18, -- [1]
+						286.0519999999087, -- [2]
+						"Paranoia |cFFFF3333168,451|r", -- [3]
+					}, -- [6]
+				},
+				["class"] = "MAGE",
+			},
+			["Azngød-Tichondrius"] = {
+				["encounters"] = 16,
+				["points"] = 1590,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						14, -- [1]
+						208.8070000000298, -- [2]
+						"Corrupted Viscera |cFFFF3333223,407|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Xiaphos-Mal'Ganis"] = {
+				["encounters"] = 17,
+				["points"] = 1640,
+				["deaths"] = {
+					{
+						2, -- [1]
+						298.0709999999963, -- [2]
+						"Anguish (DoT) |cFFFF3333247,025|r", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						140.2930000000633, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333339,236|r", -- [3]
+					}, -- [2]
+					{
+						11, -- [1]
+						82.6610000000801, -- [2]
+						"Corrupted Viscera |cFFFF3333230,796|r", -- [3]
+					}, -- [3]
+					{
+						12, -- [1]
+						393.8900000001304, -- [2]
+						"Stupefying Glare |cFFFF3333427,543|r", -- [3]
+					}, -- [4]
+					{
+						14, -- [1]
+						163.4329999999609, -- [2]
+						"Anguish (DoT) |cFFFF3333308,780|r", -- [3]
+					}, -- [5]
+					{
+						18, -- [1]
+						287.9719999998342, -- [2]
+						"Devour Thoughts |cFFFF3333190,018|r", -- [3]
+					}, -- [6]
+				},
+				["class"] = "WARRIOR",
+			},
 			["Felside-Kil'jaeden"] = {
-				["encounters"] = 35,
-				["points"] = 3440,
+				["encounters"] = 52,
+				["points"] = 5080,
 				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
@@ -2026,20 +2308,38 @@ DeathGraphsDBEndurance = {
 						310.813000000082, -- [2]
 						"Pain Spike |cFFFF333356,942|r", -- [3]
 					}, -- [6]
+					{
+						7, -- [1]
+						78.76399999996647, -- [2]
+						"Melee |cFFFF3333353,525|r", -- [3]
+					}, -- [7]
+					{
+						9, -- [1]
+						160.6489999999758, -- [2]
+						"Anguish (DoT) |cFFFF3333243,279|r", -- [3]
+					}, -- [8]
+					{
+						10, -- [1]
+						261.1319999999832, -- [2]
+						"Anguish (DoT) |cFFFF3333246,657|r", -- [3]
+					}, -- [9]
+					{
+						11, -- [1]
+						159.1180000000168, -- [2]
+						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
+					}, -- [10]
+					{
+						16, -- [1]
+						174.2419999998529, -- [2]
+						"Anguish (DoT) |cFFFF3333249,258|r", -- [3]
+					}, -- [11]
+					{
+						17, -- [1]
+						283.971000000136, -- [2]
+						"Paranoia |cFFFF333342,842|r", -- [3]
+					}, -- [12]
 				},
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 12,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2344,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "N'Zoth the Corruptor",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
-			["encounter"] = "N'Zoth the Corruptor",
 		},
 		["diff"] = 16,
 	},
@@ -2048,6 +2348,19 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 11,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Carapace of N'Zoth",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Carapace of N'Zoth",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2337,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Candymán-Illidan"] = {
 				["encounters"] = 1,
@@ -2423,19 +2736,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 11,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Carapace of N'Zoth",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Carapace of N'Zoth",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2337,
-			["killed"] = true,
-		},
 		["diff"] = 15,
 	},
 	["237215"] = {
@@ -2443,6 +2743,17 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "The Hivemind",
 		["id"] = 2372,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 5,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2333,
+			["mapid"] = 2217,
+			["name"] = "The Hivemind",
+			["diff"] = 15,
+			["encounter"] = "The Hivemind",
+			["ej_instance_id"] = 1180,
+		},
 		["player_db"] = {
 			["Dntyer-Illidan"] = {
 				["encounters"] = 1,
@@ -2765,17 +3076,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 5,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
-			["mapid"] = 2217,
-			["name"] = "The Hivemind",
-			["diff"] = 15,
-			["encounter"] = "The Hivemind",
-			["ej_instance_id"] = 1180,
-		},
 		["diff"] = 15,
 	},
 	["237515"] = {
@@ -2783,6 +3083,19 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 12,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "N'Zoth the Corruptor",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "N'Zoth the Corruptor",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2344,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Candymán-Illidan"] = {
 				["encounters"] = 1,
@@ -2957,10 +3270,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Cohava-Illidan"] = {
+			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PRIEST",
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
 			},
@@ -2985,10 +3298,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Haschwàlth-Ragnaros"] = {
+			["Cohava-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARRIOR",
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
 			},
@@ -3167,19 +3480,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 12,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "N'Zoth the Corruptor",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "N'Zoth the Corruptor",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2344,
-			["killed"] = true,
-		},
 		["diff"] = 15,
 	},
 	["237416"] = {
@@ -3188,6 +3488,18 @@ DeathGraphsDBEndurance = {
 		["name"] = "Il'gynoth, Corruption Reborn",
 		["id"] = 2374,
 		["diff"] = 16,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 8,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2345,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Il'gynoth, Corruption Reborn",
+			["encounter"] = "Il'gynoth, Corruption Reborn",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
+		},
 		["player_db"] = {
 			["Oxclamation"] = {
 				["encounters"] = 4,
@@ -3385,35 +3697,26 @@ DeathGraphsDBEndurance = {
 				["class"] = "WARRIOR",
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 8,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2345,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Il'gynoth, Corruption Reborn",
-			["encounter"] = "Il'gynoth, Corruption Reborn",
-			["ej_instance_id"] = 1180,
-			["diff"] = 16,
-		},
 	},
 }
 DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 517640,
-				["timeofdeath"] = 119.25400000019,
-				["name"] = "Jarrbek-Kil'jaeden",
+				["maxhealth"] = 529320,
+				["timeofdeath"] = 286.0519999999087,
+				["name"] = "Myss-Tichondrius",
+				["time"] = 1597640294.699,
+				["class"] = "MAGE",
+				["timestring"] = "4m 46s",
 				["events"] = {
 					{
 						false, -- [1]
-						270117, -- [2]
-						13017, -- [3]
-						1597294453.832, -- [4]
-						472068, -- [5]
-						"Jarrbek-Kil'jaeden", -- [6]
+						143924, -- [2]
+						1470, -- [3]
+						1597640285.309, -- [4]
+						523591, -- [5]
+						"Myss-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3421,106 +3724,106 @@ DeathGraphsDBCurrent = {
 					}, -- [1]
 					{
 						false, -- [1]
-						311201, -- [2]
-						44085, -- [3]
-						1597294454.755, -- [4]
-						516153, -- [5]
-						"Jarrbek-Kil'jaeden", -- [6]
-						nil, -- [7]
+						235313, -- [2]
+						37066, -- [3]
+						1597640285.487, -- [4]
+						523591, -- [5]
+						"Myss-Tichondrius", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
 						true, -- [1]
-						315161, -- [2]
-						25731, -- [3]
-						1597294454.792, -- [4]
-						490422, -- [5]
-						"Eye of Corruption", -- [6]
+						319346, -- [2]
+						37066, -- [3]
+						1597640285.487, -- [4]
+						523591, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
-						4, -- [1]
-						315161, -- [2]
-						6, -- [3]
-						1597294454.792, -- [4]
-						490422, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						4, -- [1]
-						316541, -- [2]
-						1, -- [3]
-						1597294454.985, -- [4]
-						490422, -- [5]
-						"[*] Paranoia", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						319346, -- [2]
-						35384, -- [3]
-						1597294455.654, -- [4]
-						455038, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
 						false, -- [1]
-						287286, -- [2]
-						16036, -- [3]
-						1597294455.684, -- [4]
-						471074, -- [5]
-						"Toshpal", -- [6]
+						774, -- [2]
+						8245, -- [3]
+						1597640285.505, -- [4]
+						531836, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [7]
+					}, -- [4]
 					{
-						4, -- [1]
-						315161, -- [2]
-						7, -- [3]
-						1597294455.798, -- [4]
-						471074, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640285.505, -- [4]
+						532643, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						false, -- [10]
-					}, -- [8]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						235313, -- [2]
+						16406, -- [3]
+						1597640285.673, -- [4]
+						532643, -- [5]
+						"Myss-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
 					{
 						true, -- [1]
-						315161, -- [2]
-						29144, -- [3]
-						1597294455.798, -- [4]
-						441930, -- [5]
-						"Eye of Corruption", -- [6]
+						309978, -- [2]
+						16406, -- [3]
+						1597640285.673, -- [4]
+						532643, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2081, -- [3]
+						1597640286.537, -- [4]
+						534724, -- [5]
+						"Myss-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						235313, -- [2]
+						33836, -- [3]
+						1597640286.692, -- [4]
+						534724, -- [5]
+						"Myss-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [9]
 					{
 						true, -- [1]
 						309978, -- [2]
-						15661, -- [3]
-						1597294456.009, -- [4]
-						426269, -- [5]
+						33836, -- [3]
+						1597640286.692, -- [4]
+						534724, -- [5]
 						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -3529,11 +3832,413 @@ DeathGraphsDBCurrent = {
 					}, -- [10]
 					{
 						false, -- [1]
-						77489, -- [2]
-						10832, -- [3]
-						1597294456.037, -- [4]
-						437101, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						774, -- [2]
+						8245, -- [3]
+						1597640287.047, -- [4]
+						542969, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640287.047, -- [4]
+						543776, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						235313, -- [2]
+						38222, -- [3]
+						1597640287.475, -- [4]
+						543776, -- [5]
+						"Myss-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38222, -- [3]
+						1597640287.475, -- [4]
+						543776, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2082, -- [3]
+						1597640287.725, -- [4]
+						545858, -- [5]
+						"Myss-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						7979, -- [3]
+						1597640288.58, -- [4]
+						553837, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640288.58, -- [4]
+						554644, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7521, -- [3]
+						1597640288.936, -- [4]
+						562165, -- [5]
+						"Myss-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						235313, -- [2]
+						31135, -- [3]
+						1597640289.485, -- [4]
+						562165, -- [5]
+						"Myss-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38222, -- [3]
+						1597640289.485, -- [4]
+						555078, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						31135, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						774, -- [2]
+						15957, -- [3]
+						1597640290.121, -- [4]
+						571035, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640290.121, -- [4]
+						571842, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5017, -- [3]
+						1597640290.176, -- [4]
+						576859, -- [5]
+						"Myss-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						774, -- [2]
+						6199, -- [3]
+						1597640291.308, -- [4]
+						582240, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						274436, -- [2]
+						1614, -- [3]
+						1597640291.308, -- [4]
+						582240, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38222, -- [3]
+						1597640291.502, -- [4]
+						544018, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						270117, -- [2]
+						12738, -- [3]
+						1597640291.502, -- [4]
+						556756, -- [5]
+						"Myss-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38222, -- [3]
+						1597640293.473, -- [4]
+						518534, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						309978, -- [2]
+						152261, -- [3]
+						1597640293.677, -- [4]
+						366273, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1597640293.887, -- [4]
+						366273, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						309991, -- [2]
+						292285, -- [3]
+						1597640293.887, -- [4]
+						73988, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309978, -- [2]
+						168451, -- [3]
+						1597640294.679, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						94463, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Myss-Tichondrius", -- [6]
+					}, -- [33]
+				},
+			}, -- [1]
+			{
+				["maxhealth"] = 522700,
+				["timeofdeath"] = 287.9719999998342,
+				["name"] = "Xiaphos-Mal'Ganis",
+				["time"] = 1597640296.619,
+				["class"] = "WARRIOR",
+				["timestring"] = "4m 47s",
+				["events"] = {
+					{
+						false, -- [1]
+						311201, -- [2]
+						17135, -- [3]
+						1597640286.033, -- [4]
+						505078, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						949, -- [3]
+						1597640286.116, -- [4]
+						506027, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						207386, -- [2]
+						5127, -- [3]
+						1597640286.275, -- [4]
+						511154, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4135, -- [3]
+						1597640286.477, -- [4]
+						515289, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39236, -- [3]
+						1597640286.502, -- [4]
+						476053, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						309978, -- [2]
+						34733, -- [3]
+						1597640286.692, -- [4]
+						441320, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3954, -- [3]
+						1597640286.963, -- [4]
+						445274, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						139, -- [3]
+						1597640287.338, -- [4]
+						445413, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3034, -- [3]
+						1597640287.408, -- [4]
+						448447, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						287255, -- [2]
+						4881, -- [3]
+						1597640287.408, -- [4]
+						453328, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						207386, -- [2]
+						2216, -- [3]
+						1597640288.28, -- [4]
+						455544, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3541,58 +4246,58 @@ DeathGraphsDBCurrent = {
 					}, -- [11]
 					{
 						true, -- [1]
-						315161, -- [2]
-						31445, -- [3]
-						1597294456.799, -- [4]
-						405656, -- [5]
-						"Eye of Corruption", -- [6]
+						319346, -- [2]
+						39235, -- [3]
+						1597640288.484, -- [4]
+						416309, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						4, -- [1]
-						315161, -- [2]
-						8, -- [3]
-						1597294456.799, -- [4]
-						405656, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
 						false, -- [1]
-						287286, -- [2]
-						16036, -- [3]
-						1597294456.821, -- [4]
-						421692, -- [5]
-						"Toshpal", -- [6]
+						143924, -- [2]
+						139, -- [3]
+						1597640288.527, -- [4]
+						416448, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						348, -- [3]
+						1597640289.751, -- [4]
+						416796, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						309978, -- [2]
-						31323, -- [3]
-						1597294457.001, -- [4]
-						390369, -- [5]
-						"[*] Paranoia", -- [6]
+						false, -- [1]
+						207386, -- [2]
+						2216, -- [3]
+						1597640290.269, -- [4]
+						419012, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						true, -- [1]
 						319346, -- [2]
-						36117, -- [3]
-						1597294457.637, -- [4]
-						354252, -- [5]
+						40379, -- [3]
+						1597640290.496, -- [4]
+						378633, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -3601,22 +4306,22 @@ DeathGraphsDBCurrent = {
 					}, -- [16]
 					{
 						false, -- [1]
-						77489, -- [2]
-						10832, -- [3]
-						1597294459.042, -- [4]
-						365084, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						143924, -- [2]
+						266, -- [3]
+						1597640290.983, -- [4]
+						378899, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [17]
 					{
 						true, -- [1]
 						319346, -- [2]
-						36117, -- [3]
-						1597294459.624, -- [4]
-						328967, -- [5]
+						40379, -- [3]
+						1597640292.496, -- [4]
+						338520, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -3625,35 +4330,35 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						true, -- [1]
-						319346, -- [2]
-						37687, -- [3]
-						1597294461.623, -- [4]
-						291280, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						309978, -- [2]
+						160854, -- [3]
+						1597640293.677, -- [4]
+						177666, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						false, -- [1]
-						270117, -- [2]
-						13017, -- [3]
-						1597294461.642, -- [4]
-						304297, -- [5]
-						"Jarrbek-Kil'jaeden", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						40379, -- [3]
+						1597640294.477, -- [4]
+						137287, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						77489, -- [2]
-						10833, -- [3]
-						1597294462.028, -- [4]
-						315130, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						73921, -- [2]
+						7623, -- [3]
+						1597640294.564, -- [4]
+						144910, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -3661,47 +4366,47 @@ DeathGraphsDBCurrent = {
 					}, -- [21]
 					{
 						false, -- [1]
-						287286, -- [2]
-						49924, -- [3]
-						1597294463.214, -- [4]
-						365054, -- [5]
-						"Toshpal", -- [6]
+						278095, -- [2]
+						23848, -- [3]
+						1597640294.586, -- [4]
+						168758, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [22]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37687, -- [3]
-						1597294463.627, -- [4]
-						327367, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						13056, -- [3]
+						1597640294.608, -- [4]
+						181814, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						true, -- [1]
-						319346, -- [2]
-						35803, -- [3]
-						1597294465.633, -- [4]
-						291564, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						13056, -- [3]
+						1597640294.608, -- [4]
+						194870, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [24]
 					{
 						true, -- [1]
-						319346, -- [2]
-						39022, -- [3]
-						1597294467.632, -- [4]
-						252542, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						309978, -- [2]
+						178726, -- [3]
+						1597640294.679, -- [4]
+						16144, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -3709,87 +4414,87 @@ DeathGraphsDBCurrent = {
 					}, -- [25]
 					{
 						false, -- [1]
-						270117, -- [2]
-						27349, -- [3]
-						1597294467.654, -- [4]
-						279891, -- [5]
-						"Jarrbek-Kil'jaeden", -- [6]
+						73921, -- [2]
+						8732, -- [3]
+						1597640296.144, -- [4]
+						24876, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [26]
 					{
-						4, -- [1]
-						311392, -- [2]
-						1, -- [3]
-						1597294468.347, -- [4]
-						279891, -- [5]
-						"Mindgrasp Stalker", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						296184, -- [2]
+						13056, -- [3]
+						1597640296.183, -- [4]
+						37932, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [27]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38689, -- [3]
-						1597294469.631, -- [4]
-						241202, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
 						false, -- [1]
-						311201, -- [2]
-						42312, -- [3]
-						1597294469.968, -- [4]
-						283514, -- [5]
-						"Jarrbek-Kil'jaeden", -- [6]
+						114942, -- [2]
+						12389, -- [3]
+						1597640296.183, -- [4]
+						50321, -- [5]
+						"Healing Tide Totem <Ancestràl-Kil'jaeden>", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [29]
+					}, -- [28]
 					{
 						true, -- [1]
 						319346, -- [2]
-						38521, -- [3]
-						1597294471.617, -- [4]
-						244993, -- [5]
+						40379, -- [3]
+						1597640296.499, -- [4]
+						9942, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						1064, -- [2]
+						87744, -- [3]
+						1597640296.537, -- [4]
+						97686, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						318771, -- [2]
-						182062, -- [3]
-						1597294471.782, -- [4]
-						62931, -- [5]
-						"Psychophage", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						13056, -- [3]
+						1597640296.558, -- [4]
+						110742, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
 						318771, -- [2]
-						181276, -- [3]
-						1597294473.031, -- [4]
+						190018, -- [3]
+						1597640296.598, -- [4]
 						1, -- [5]
 						"Psychophage", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						118345, -- [10]
+						79276, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -3797,467 +4502,53 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Jarrbek-Kil'jaeden", -- [6]
+						"Xiaphos-Mal'Ganis", -- [6]
 					}, -- [33]
 				},
-				["class"] = "SHAMAN",
-				["timestring"] = "1m 59s",
-				["time"] = 1597294473.076,
-			}, -- [1]
+			}, -- [2]
 			{
-				["maxhealth"] = 525300,
-				["timeofdeath"] = 333.1160000001546,
-				["name"] = "Mordpriest-Kil'jaeden",
+				["maxhealth"] = 893020,
+				["timeofdeath"] = 386.875,
+				["name"] = "Hoofalo-Kil'jaeden",
+				["time"] = 1597640395.522,
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "6m 26s",
 				["events"] = {
 					{
 						2, -- [1]
 						20484, -- [2]
 						1, -- [3]
-						1597294700.652, -- [4]
+						1597640476.92, -- [4]
 						0, -- [5]
 						"Bogarn-Kil'jaeden", -- [6]
 					}, -- [1]
 					{
-						false, -- [1]
-						269238, -- [2]
-						46608, -- [3]
-						1597294676.596, -- [4]
-						562763, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						143924, -- [2]
-						24865, -- [3]
-						1597294676.775, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						315715, -- [2]
-						69859, -- [3]
-						1597294678.643, -- [4]
-						507981, -- [5]
-						"[*] Contempt", -- [6]
-						nil, -- [7]
-						16, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						34914, -- [2]
-						36475, -- [3]
-						1597294678.704, -- [4]
-						544456, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						77489, -- [2]
-						4708, -- [3]
-						1597294678.74, -- [4]
-						549164, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						139, -- [2]
-						16511, -- [3]
-						1597294679.122, -- [4]
-						565675, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						143924, -- [2]
-						36547, -- [3]
-						1597294679.202, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						311201, -- [2]
-						227158, -- [3]
-						1597294680.542, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						287286, -- [2]
-						29564, -- [3]
-						1597294680.644, -- [4]
-						577840, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						315715, -- [2]
-						69858, -- [3]
-						1597294680.909, -- [4]
-						507982, -- [5]
-						"[*] Contempt", -- [6]
-						nil, -- [7]
-						16, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						34914, -- [2]
-						36476, -- [3]
-						1597294681.395, -- [4]
-						544458, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						139, -- [2]
-						16620, -- [3]
-						1597294681.627, -- [4]
-						561078, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						41560, -- [3]
-						1597294681.649, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						64844, -- [2]
-						38969, -- [3]
-						1597294682.104, -- [4]
-						577840, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						298318, -- [2]
-						87634, -- [3]
-						1597294682.329, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						311201, -- [2]
-						249873, -- [3]
-						1597294682.589, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						311201, -- [2]
-						249875, -- [3]
-						1597294682.897, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						315715, -- [2]
-						69859, -- [3]
-						1597294683.399, -- [4]
-						507981, -- [5]
-						"[*] Contempt", -- [6]
-						nil, -- [7]
-						16, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						34914, -- [2]
-						40123, -- [3]
-						1597294683.932, -- [4]
-						548104, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						143924, -- [2]
-						46775, -- [3]
-						1597294684.067, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						139, -- [2]
-						7376, -- [3]
-						1597294684.112, -- [4]
-						577840, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						311201, -- [2]
-						249874, -- [3]
-						1597294684.612, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						269238, -- [2]
-						46608, -- [3]
-						1597294684.952, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77489, -- [2]
-						14403, -- [3]
-						1597294685.131, -- [4]
-						577840, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						4, -- [1]
-						319346, -- [2]
-						1, -- [3]
-						1597294685.453, -- [4]
-						577840, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						17, -- [2]
-						75382, -- [3]
-						1597294685.849, -- [4]
-						577840, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						318451, -- [2]
-						81674, -- [3]
-						1597294685.849, -- [4]
-						571548, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						75382, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1597294685.872, -- [4]
-						571548, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						139, -- [2]
-						12818, -- [3]
-						1597294686.467, -- [4]
-						577840, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1597294686.672, -- [4]
-						577840, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						309991, -- [2]
-						302719, -- [3]
-						1597294686.69, -- [4]
-						275121, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						318451, -- [2]
-						81674, -- [3]
-						1597294686.847, -- [4]
-						193447, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						47585, -- [2]
-						1, -- [3]
-						1597294593.037, -- [4]
-						0, -- [5]
-						"Mordpriest-Kil'jaeden", -- [6]
-					}, -- [34]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "5m 33s",
-				["time"] = 1597294686.938,
-			}, -- [2]
-			{
-				["maxhealth"] = 522720,
-				["timeofdeath"] = 346.0490000001155,
-				["name"] = "Tianarrae-Kil'jaeden",
-				["events"] = {
-					{
 						2, -- [1]
 						20484, -- [2]
 						1, -- [3]
-						1597294702.356, -- [4]
+						1597640403.773, -- [4]
 						0, -- [5]
-						"Leafyo", -- [6]
-					}, -- [1]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597294689.871, -- [4]
-						81813, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						"Bogarn-Kil'jaeden", -- [6]
 					}, -- [2]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37204, -- [3]
-						1597294691, -- [4]
-						44609, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						287286, -- [2]
+						50075, -- [3]
+						1597640391.822, -- [4]
+						1042143, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						183998, -- [2]
-						47265, -- [3]
-						1597294691.114, -- [4]
-						91874, -- [5]
-						"Toshpal", -- [6]
+						64844, -- [2]
+						17716, -- [3]
+						1597640392.037, -- [4]
+						1042143, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -4265,46 +4556,46 @@ DeathGraphsDBCurrent = {
 					}, -- [4]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294691.148, -- [4]
-						104210, -- [5]
-						"Toshpal", -- [6]
+						53365, -- [2]
+						62528, -- [3]
+						1597640392.115, -- [4]
+						1042143, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
-						false, -- [1]
-						143924, -- [2]
-						4572, -- [3]
-						1597294691.38, -- [4]
-						108782, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						319348, -- [2]
+						82190, -- [3]
+						1597640392.558, -- [4]
+						959953, -- [5]
+						"N'Zoth the Corruptor", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
-						false, -- [1]
-						77489, -- [2]
-						27941, -- [3]
-						1597294692.863, -- [4]
-						136723, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						319347, -- [2]
+						160191, -- [3]
+						1597640392.558, -- [4]
+						799762, -- [5]
+						"Kajio-Kil'jaeden", -- [6]
 						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
+						32, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597294692.863, -- [4]
-						149299, -- [5]
+						139, -- [2]
+						14572, -- [3]
+						1597640392.593, -- [4]
+						814334, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -4312,144 +4603,144 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [8]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37041, -- [3]
-						1597294693, -- [4]
-						112258, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						77489, -- [2]
+						8156, -- [3]
+						1597640392.593, -- [4]
+						822490, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
-						false, -- [1]
-						270117, -- [2]
-						33388, -- [3]
-						1597294693.014, -- [4]
-						145646, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						1, -- [2]
+						421460, -- [3]
+						1597640392.633, -- [4]
+						822490, -- [5]
+						"Thought Harvester", -- [6]
+						210781, -- [7]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597294693.027, -- [4]
-						158222, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
+						77535, -- [2]
+						210781, -- [3]
+						1597640392.664, -- [4]
+						822490, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [11]
 					{
-						false, -- [1]
-						204883, -- [2]
-						66630, -- [3]
-						1597294693.254, -- [4]
-						224852, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						316711, -- [2]
+						110471, -- [3]
+						1597640392.664, -- [4]
+						501340, -- [5]
+						"Thought Harvester", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597294693.254, -- [4]
-						237428, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						316711, -- [2]
+						2, -- [3]
+						1597640392.664, -- [4]
+						501340, -- [5]
+						"Thought Harvester", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						143924, -- [2]
-						14122, -- [3]
-						1597294693.403, -- [4]
-						251550, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
+						77535, -- [2]
+						0, -- [3]
+						1597640392.664, -- [4]
+						501340, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
 						false, -- [1]
-						143924, -- [2]
-						6428, -- [3]
-						1597294694.62, -- [4]
-						257978, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						197509, -- [2]
+						89233, -- [3]
+						1597640392.687, -- [4]
+						590573, -- [5]
+						"Bloodworm <Hoofalo-Kil'jaeden>", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						true, -- [1]
-						319346, -- [2]
-						36880, -- [3]
-						1597294695.004, -- [4]
-						221098, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						114942, -- [2]
+						28526, -- [3]
+						1597640392.916, -- [4]
+						619099, -- [5]
+						"Healing Tide Totem <Ancestràl-Kil'jaeden>", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						287286, -- [2]
-						40780, -- [3]
-						1597294695.345, -- [4]
-						261878, -- [5]
-						"Toshpal", -- [6]
+						114942, -- [2]
+						4517, -- [3]
+						1597640393.181, -- [4]
+						623616, -- [5]
+						"Healing Tide Totem <Ancestràl-Kil'jaeden>", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
+						true, -- [1]
+						319346, -- [2]
+						36529, -- [3]
+						1597640393.323, -- [4]
+						587087, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294695.364, -- [4]
-						274214, -- [5]
-						"Toshpal", -- [6]
+						48438, -- [2]
+						5807, -- [3]
+						1597640393.405, -- [4]
+						592894, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1290, -- [3]
-						1597294695.832, -- [4]
-						275504, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						77489, -- [2]
-						54554, -- [3]
-						1597294695.871, -- [4]
-						330058, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						55078, -- [2]
+						5328, -- [3]
+						1597640393.494, -- [4]
+						598222, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -4457,23 +4748,449 @@ DeathGraphsDBCurrent = {
 					}, -- [20]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597294695.871, -- [4]
-						342634, -- [5]
+						55078, -- [2]
+						2611, -- [3]
+						1597640393.833, -- [4]
+						600833, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						55078, -- [2]
+						2612, -- [3]
+						1597640393.833, -- [4]
+						603445, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5599, -- [3]
+						1597640393.997, -- [4]
+						609044, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						12344, -- [3]
+						1597640394.612, -- [4]
+						621388, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						1, -- [2]
+						571042, -- [3]
+						1597640394.643, -- [4]
+						621388, -- [5]
+						"Thought Harvester", -- [6]
+						78689, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						206967, -- [2]
+						78689, -- [3]
+						1597640394.643, -- [4]
+						621388, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						10761, -- [3]
+						1597640395.249, -- [4]
+						139796, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						206967, -- [2]
+						10958, -- [3]
+						1597640395.329, -- [4]
+						139796, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						295842, -- [2]
+						25571, -- [3]
+						1597640395.329, -- [4]
+						139796, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36529, -- [3]
+						1597640395.329, -- [4]
+						139796, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1597640395.467, -- [4]
+						139796, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						206967, -- [2]
+						83801, -- [3]
+						1597640395.467, -- [4]
+						139796, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						295842, -- [2]
+						40806, -- [3]
+						1597640395.467, -- [4]
+						139796, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						true, -- [1]
+						309991, -- [2]
+						279337, -- [3]
+						1597640395.487, -- [4]
+						1, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						124607, -- [7]
+						32, -- [8]
+						false, -- [9]
+						14934, -- [10]
+					}, -- [34]
+					{
+						3, -- [1]
+						55233, -- [2]
+						1, -- [3]
+						1597640327.288, -- [4]
+						0, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+					}, -- [35]
+				},
+			}, -- [3]
+			{
+				["maxhealth"] = 522500,
+				["timeofdeath"] = 455.3100000000559,
+				["name"] = "Logs",
+				["time"] = 1597640463.957,
+				["class"] = "MAGE",
+				["timestring"] = "7m 35s",
+				["events"] = {
+					{
+						true, -- [1]
+						319348, -- [2]
+						189220, -- [3]
+						1597640458.733, -- [4]
+						358433, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						4, -- [1]
+						319348, -- [2]
+						1, -- [3]
+						1597640458.733, -- [4]
+						358433, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						73921, -- [2]
+						6379, -- [3]
+						1597640459.23, -- [4]
+						365458, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37844, -- [3]
+						1597640459.249, -- [4]
+						327614, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						239984, -- [3]
+						1597640459.541, -- [4]
+						567598, -- [5]
+						"Logs", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						315161, -- [2]
+						30566, -- [3]
+						1597640459.573, -- [4]
+						537032, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						4, -- [1]
+						315161, -- [2]
+						6, -- [3]
+						1597640459.573, -- [4]
+						537032, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						298318, -- [2]
+						34364, -- [3]
+						1597640459.869, -- [4]
+						571396, -- [5]
+						"Logs", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13628, -- [3]
+						1597640460.03, -- [4]
+						574760, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						209426, -- [2]
+						33186, -- [3]
+						1597640460.58, -- [4]
+						574760, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						315161, -- [2]
+						33186, -- [3]
+						1597640460.58, -- [4]
+						574760, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						4, -- [1]
+						315161, -- [2]
+						7, -- [3]
+						1597640460.58, -- [4]
+						574760, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						319348, -- [2]
+						85149, -- [3]
+						1597640460.715, -- [4]
+						489611, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						294161, -- [3]
+						1597640460.773, -- [4]
+						574760, -- [5]
+						"Logs", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						81269, -- [2]
+						4778, -- [3]
+						1597640460.961, -- [4]
+						574760, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						209426, -- [2]
+						37844, -- [3]
+						1597640461.245, -- [4]
+						574760, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37844, -- [3]
+						1597640461.245, -- [4]
+						574760, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						315161, -- [2]
+						35805, -- [3]
+						1597640461.577, -- [4]
+						538955, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						315161, -- [2]
+						8, -- [3]
+						1597640461.577, -- [4]
+						538955, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						1, -- [2]
+						650094, -- [3]
+						1597640461.886, -- [4]
+						538955, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						111139, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						86949, -- [2]
+						312305, -- [3]
+						1597640461.918, -- [4]
+						538955, -- [5]
+						"Logs", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						287286, -- [2]
-						32311, -- [3]
-						1597294696.622, -- [4]
-						374945, -- [5]
-						"Toshpal", -- [6]
+						143924, -- [2]
+						543319, -- [3]
+						1597640461.997, -- [4]
+						574760, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -4481,11 +5198,11 @@ DeathGraphsDBCurrent = {
 					}, -- [22]
 					{
 						true, -- [1]
-						319346, -- [2]
-						38418, -- [3]
-						1597294697.003, -- [4]
-						336527, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						319348, -- [2]
+						85149, -- [3]
+						1597640462.705, -- [4]
+						489611, -- [5]
+						"N'Zoth the Corruptor", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -4493,11 +5210,11 @@ DeathGraphsDBCurrent = {
 					}, -- [23]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1714, -- [3]
-						1597294697.04, -- [4]
-						338241, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						207386, -- [2]
+						1674, -- [3]
+						1597640462.987, -- [4]
+						491285, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -4505,10 +5222,10 @@ DeathGraphsDBCurrent = {
 					}, -- [24]
 					{
 						false, -- [1]
-						143924, -- [2]
-						6401, -- [3]
-						1597294698.267, -- [4]
-						344642, -- [5]
+						77489, -- [2]
+						13628, -- [3]
+						1597640463.035, -- [4]
+						504913, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -4517,538 +5234,516 @@ DeathGraphsDBCurrent = {
 					}, -- [25]
 					{
 						false, -- [1]
-						77489, -- [2]
-						39730, -- [3]
-						1597294698.859, -- [4]
-						384372, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						287286, -- [2]
-						16155, -- [3]
-						1597294698.9, -- [4]
-						400527, -- [5]
-						"Toshpal", -- [6]
+						143924, -- [2]
+						276941, -- [3]
+						1597640463.212, -- [4]
+						574760, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [27]
+					}, -- [26]
 					{
 						true, -- [1]
 						319346, -- [2]
-						38419, -- [3]
-						1597294699.01, -- [4]
-						362108, -- [5]
+						37844, -- [3]
+						1597640463.248, -- [4]
+						536916, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [28]
+					}, -- [27]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1714, -- [3]
-						1597294699.51, -- [4]
-						363822, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						270117, -- [2]
+						14229, -- [3]
+						1597640463.248, -- [4]
+						551145, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [29]
-					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1597294699.651, -- [4]
-						363822, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
+					}, -- [28]
 					{
 						true, -- [1]
-						309991, -- [2]
-						293786, -- [3]
-						1597294699.651, -- [4]
-						70036, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						87023, -- [2]
+						36496, -- [3]
+						1597640463.422, -- [4]
+						514649, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						73921, -- [2]
+						11242, -- [3]
+						1597640463.691, -- [4]
+						525891, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						81269, -- [2]
+						5423, -- [3]
+						1597640463.883, -- [4]
+						531314, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
-						false, -- [1]
-						270117, -- [2]
-						31588, -- [3]
-						1597294699.673, -- [4]
-						101624, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						1, -- [2]
+						664830, -- [3]
+						1597640463.898, -- [4]
+						531314, -- [5]
+						"Thought Harvester", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
 						false, -- [9]
-						false, -- [10]
+						133516, -- [10]
 					}, -- [32]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597294699.673, -- [4]
-						114200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [33]
 					{
 						3, -- [1]
 						0, -- [2]
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-					}, -- [34]
+						"Logs", -- [6]
+					}, -- [33]
 				},
-				["class"] = "PRIEST",
-				["timestring"] = "5m 46s",
-				["time"] = 1597294699.871,
-			}, -- [3]
+			}, -- [4]
 			{
-				["maxhealth"] = 575160,
-				["timeofdeath"] = 471.7560000000522,
-				["name"] = "Fierypower-Kil'jaeden",
+				["maxhealth"] = 893020,
+				["timeofdeath"] = 461.8240000000224,
+				["name"] = "Hoofalo-Kil'jaeden",
+				["time"] = 1597640470.471,
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "7m 41s",
 				["events"] = {
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1597294821.496, -- [4]
-						278378, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
+						55078, -- [2]
+						2195, -- [3]
+						1597640466.623, -- [4]
+						934407, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						77220, -- [2]
-						1976, -- [3]
-						1597294821.831, -- [4]
-						278378, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
+						55078, -- [2]
+						4481, -- [3]
+						1597640466.623, -- [4]
+						938888, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						108366, -- [2]
-						1754, -- [3]
-						1597294821.831, -- [4]
-						278378, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
+						true, -- [1]
+						319347, -- [2]
+						146251, -- [3]
+						1597640466.733, -- [4]
+						792637, -- [5]
+						"Kajio-Kil'jaeden", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						true, -- [1]
-						319346, -- [2]
-						31351, -- [3]
-						1597294821.831, -- [4]
-						250757, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						3730, -- [7]
+						319348, -- [2]
+						80114, -- [3]
+						1597640466.733, -- [4]
+						712523, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1597294821.831, -- [4]
-						250757, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
+						207386, -- [2]
+						3918, -- [3]
+						1597640466.808, -- [4]
+						716441, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						157982, -- [2]
-						11784, -- [3]
-						1597294821.872, -- [4]
-						262541, -- [5]
+						48438, -- [2]
+						4531, -- [3]
+						1597640466.884, -- [4]
+						720972, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						157982, -- [2]
-						13378, -- [3]
-						1597294822.9, -- [4]
-						250612, -- [5]
-						"Leafyo", -- [6]
+						61295, -- [2]
+						1929, -- [3]
+						1597640467.136, -- [4]
+						722901, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
-						true, -- [1]
-						111400, -- [2]
-						18551, -- [3]
-						1597294823.421, -- [4]
-						232061, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
+						false, -- [1]
+						81269, -- [2]
+						6349, -- [3]
+						1597640467.171, -- [4]
+						729250, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [8]
 					{
-						false, -- [1]
-						77220, -- [2]
-						4619, -- [3]
-						1597294823.484, -- [4]
-						232061, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
+						true, -- [1]
+						319346, -- [2]
+						35606, -- [3]
+						1597640467.379, -- [4]
+						693644, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						108366, -- [2]
-						1666, -- [3]
-						1597294823.484, -- [4]
-						232061, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						8740, -- [3]
+						1597640467.458, -- [4]
+						702384, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [10]
 					{
-						true, -- [1]
-						319348, -- [2]
-						88175, -- [3]
-						1597294823.484, -- [4]
-						150171, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						6285, -- [7]
-						32, -- [8]
+						false, -- [1]
+						55078, -- [2]
+						2196, -- [3]
+						1597640467.57, -- [4]
+						704580, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1597294823.484, -- [4]
-						150171, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
+						287286, -- [2]
+						24121, -- [3]
+						1597640467.768, -- [4]
+						728701, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [12]
 					{
 						false, -- [1]
 						77489, -- [2]
-						14109, -- [3]
-						1597294823.554, -- [4]
-						164280, -- [5]
+						7489, -- [3]
+						1597640467.874, -- [4]
+						736190, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4213, -- [3]
+						1597640468.016, -- [4]
+						740403, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597294823.576, -- [4]
-						176856, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
 					}, -- [14]
 					{
 						false, -- [1]
-						77220, -- [2]
-						2328, -- [3]
-						1597294823.824, -- [4]
-						176856, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
+						77535, -- [2]
+						0, -- [3]
+						1597640468.171, -- [4]
+						740403, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						108366, -- [2]
-						1686, -- [3]
-						1597294823.824, -- [4]
-						176856, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
+						45470, -- [2]
+						303702, -- [3]
+						1597640468.171, -- [4]
+						947405, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [16]
 					{
 						true, -- [1]
-						319346, -- [2]
-						39189, -- [3]
-						1597294823.824, -- [4]
-						141681, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						4014, -- [7]
-						32, -- [8]
+						1, -- [2]
+						651901, -- [3]
+						1597640468.431, -- [4]
+						947405, -- [5]
+						"Thought Harvester", -- [6]
+						284349, -- [7]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1597294823.843, -- [4]
-						141681, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
+						77535, -- [2]
+						284349, -- [3]
+						1597640468.454, -- [4]
+						947405, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
-						false, -- [1]
-						157982, -- [2]
-						783, -- [3]
-						1597294823.879, -- [4]
-						142464, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						316711, -- [2]
+						128011, -- [3]
+						1597640468.454, -- [4]
+						451842, -- [5]
+						"Thought Harvester", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						false, -- [1]
-						296184, -- [2]
-						470, -- [3]
-						1597294823.916, -- [4]
-						142934, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						316711, -- [2]
+						2, -- [3]
+						1597640468.454, -- [4]
+						451842, -- [5]
+						"Thought Harvester", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						157982, -- [2]
-						13378, -- [3]
-						1597294823.95, -- [4]
-						156312, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						77535, -- [2]
+						0, -- [3]
+						1597640468.454, -- [4]
+						451842, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						287286, -- [2]
-						40647, -- [3]
-						1597294824.228, -- [4]
-						196959, -- [5]
-						"Toshpal", -- [6]
+						48438, -- [2]
+						4053, -- [3]
+						1597640468.597, -- [4]
+						455895, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294824.275, -- [4]
-						209295, -- [5]
-						"Toshpal", -- [6]
+						207386, -- [2]
+						1959, -- [3]
+						1597640468.798, -- [4]
+						457854, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						true, -- [1]
-						111400, -- [2]
-						18551, -- [3]
-						1597294824.301, -- [4]
-						190744, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
 						false, -- [1]
-						157982, -- [2]
-						26756, -- [3]
-						1597294824.952, -- [4]
-						217500, -- [5]
+						48438, -- [2]
+						3541, -- [3]
+						1597640469.164, -- [4]
+						461395, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						111400, -- [2]
-						18551, -- [3]
-						1597294825.291, -- [4]
-						198949, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						77220, -- [2]
-						4829, -- [3]
-						1597294825.495, -- [4]
-						198949, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						108366, -- [2]
-						233, -- [3]
-						1597294825.495, -- [4]
-						198949, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						319348, -- [2]
-						88175, -- [3]
-						1597294825.495, -- [4]
-						115836, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						5062, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1597294825.519, -- [4]
-						115836, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						77220, -- [2]
-						10684, -- [3]
-						1597294825.519, -- [4]
-						115836, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						319347, -- [2]
-						166171, -- [3]
-						1597294825.547, -- [4]
-						1, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
-						10684, -- [7]
-						32, -- [8]
-						true, -- [9]
-						39651, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						104773, -- [2]
-						1, -- [3]
-						1597294803.812, -- [4]
-						0, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-				["class"] = "WARLOCK",
-				["timestring"] = "7m 51s",
-				["time"] = 1597294825.578,
-			}, -- [4]
-			{
-				["maxhealth"] = 517640,
-				["timeofdeath"] = 473.9150000000373,
-				["name"] = "Jarrbek-Kil'jaeden",
-				["events"] = {
+					}, -- [24]
 					{
 						true, -- [1]
 						319346, -- [2]
-						30150, -- [3]
-						1597294817.593, -- [4]
-						330281, -- [5]
+						35606, -- [3]
+						1597640469.371, -- [4]
+						425789, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [1]
+					}, -- [25]
+					{
+						false, -- [1]
+						81269, -- [2]
+						5772, -- [3]
+						1597640469.409, -- [4]
+						431561, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						55078, -- [2]
+						1996, -- [3]
+						1597640469.624, -- [4]
+						433557, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [27]
+					{
+						false, -- [1]
+						55078, -- [2]
+						1997, -- [3]
+						1597640469.624, -- [4]
+						435554, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
 					{
 						false, -- [1]
 						48438, -- [2]
-						2724, -- [3]
-						1597294818.022, -- [4]
-						333005, -- [5]
+						3398, -- [3]
+						1597640469.734, -- [4]
+						438952, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						6503, -- [3]
+						1597640470.318, -- [4]
+						445455, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						1, -- [2]
+						769607, -- [3]
+						1597640470.431, -- [4]
+						445455, -- [5]
+						"Thought Harvester", -- [6]
+						182512, -- [7]
+						1, -- [8]
+						false, -- [9]
+						141640, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						206967, -- [2]
+						182512, -- [3]
+						1597640470.431, -- [4]
+						445455, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						55233, -- [2]
+						1, -- [3]
+						1597640451.722, -- [4]
+						0, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+			}, -- [5]
+			{
+				["maxhealth"] = 517640,
+				["timeofdeath"] = 481.2509999999311,
+				["name"] = "Jarrbek-Kil'jaeden",
+				["time"] = 1597640489.898,
+				["class"] = "SHAMAN",
+				["timestring"] = "8m 1s",
+				["events"] = {
+					{
+						false, -- [1]
+						774, -- [2]
+						5477, -- [3]
+						1597640481.455, -- [4]
+						552307, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640481.483, -- [4]
+						553114, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5056,23 +5751,23 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						77489, -- [2]
-						10161, -- [3]
-						1597294818.377, -- [4]
-						343166, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						316541, -- [2]
+						1, -- [3]
+						1597640481.844, -- [4]
+						553114, -- [5]
+						"[*] Paranoia", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						48438, -- [2]
-						2605, -- [3]
-						1597294818.54, -- [4]
-						345771, -- [5]
+						774, -- [2]
+						5478, -- [3]
+						1597640482.998, -- [4]
+						558592, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5081,10 +5776,10 @@ DeathGraphsDBCurrent = {
 					}, -- [4]
 					{
 						false, -- [1]
-						48438, -- [2]
-						2487, -- [3]
-						1597294819.063, -- [4]
-						348258, -- [5]
+						274436, -- [2]
+						807, -- [3]
+						1597640482.998, -- [4]
+						559399, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5092,36 +5787,36 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [5]
 					{
-						false, -- [1]
-						48438, -- [2]
-						1327, -- [3]
-						1597294819.339, -- [4]
-						349585, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						36556, -- [3]
+						1597640483.372, -- [4]
+						522843, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
-						false, -- [1]
-						287255, -- [2]
-						8995, -- [3]
-						1597294819.339, -- [4]
-						358580, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						317066, -- [2]
+						154570, -- [3]
+						1597640483.594, -- [4]
+						368273, -- [5]
+						"Thought Harvester", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
 						209426, -- [2]
-						67837, -- [3]
-						1597294819.517, -- [4]
-						358580, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						154571, -- [3]
+						1597640483.594, -- [4]
+						368273, -- [5]
+						"Genoqt-Tichondrius", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5129,58 +5824,58 @@ DeathGraphsDBCurrent = {
 					}, -- [8]
 					{
 						true, -- [1]
-						319348, -- [2]
-						67837, -- [3]
-						1597294819.517, -- [4]
-						358580, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						317066, -- [2]
+						154571, -- [3]
+						1597640483.594, -- [4]
+						368273, -- [5]
+						"Thought Harvester", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
-						true, -- [1]
-						319346, -- [2]
-						30150, -- [3]
-						1597294819.545, -- [4]
-						328430, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						278095, -- [2]
+						41995, -- [3]
+						1597640483.944, -- [4]
+						410268, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						77489, -- [2]
-						10160, -- [3]
-						1597294821.365, -- [4]
-						338590, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						774, -- [2]
+						5478, -- [3]
+						1597640484.493, -- [4]
+						415746, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
-						true, -- [1]
-						319348, -- [2]
-						67837, -- [3]
-						1597294821.496, -- [4]
-						270753, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640484.493, -- [4]
+						416553, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
 						true, -- [1]
 						319346, -- [2]
-						30150, -- [3]
-						1597294821.56, -- [4]
-						240603, -- [5]
+						37687, -- [3]
+						1597640485.378, -- [4]
+						378866, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -5191,8 +5886,8 @@ DeathGraphsDBCurrent = {
 						false, -- [1]
 						270117, -- [2]
 						28899, -- [3]
-						1597294821.56, -- [4]
-						269502, -- [5]
+						1597640485.397, -- [4]
+						407765, -- [5]
 						"Jarrbek-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5201,11 +5896,11 @@ DeathGraphsDBCurrent = {
 					}, -- [14]
 					{
 						false, -- [1]
-						157982, -- [2]
-						11784, -- [3]
-						1597294821.872, -- [4]
-						281286, -- [5]
-						"Leafyo", -- [6]
+						73921, -- [2]
+						13474, -- [3]
+						1597640485.415, -- [4]
+						421239, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5213,10 +5908,10 @@ DeathGraphsDBCurrent = {
 					}, -- [15]
 					{
 						false, -- [1]
-						157982, -- [2]
-						13378, -- [3]
-						1597294822.9, -- [4]
-						294664, -- [5]
+						774, -- [2]
+						10956, -- [3]
+						1597640485.745, -- [4]
+						432195, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5225,10 +5920,10 @@ DeathGraphsDBCurrent = {
 					}, -- [16]
 					{
 						false, -- [1]
-						296184, -- [2]
-						11664, -- [3]
-						1597294822.923, -- [4]
-						306328, -- [5]
+						274436, -- [2]
+						807, -- [3]
+						1597640485.759, -- [4]
+						433002, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5236,48 +5931,48 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [17]
 					{
-						true, -- [1]
-						319348, -- [2]
-						82252, -- [3]
-						1597294823.511, -- [4]
-						224076, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						false, -- [1]
+						269279, -- [2]
+						35519, -- [3]
+						1597640485.889, -- [4]
+						433002, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						true, -- [1]
-						319346, -- [2]
-						36556, -- [3]
-						1597294823.534, -- [4]
-						187520, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
+						309978, -- [2]
+						66724, -- [3]
+						1597640485.889, -- [4]
+						401797, -- [5]
+						"[*] Paranoia", -- [6]
+						35519, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						false, -- [1]
-						157982, -- [2]
-						783, -- [3]
-						1597294823.897, -- [4]
-						188303, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						79235, -- [3]
+						1597640486.868, -- [4]
+						322562, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						25914, -- [2]
-						83531, -- [3]
-						1597294823.916, -- [4]
-						271834, -- [5]
-						"Toshpal", -- [6]
+						774, -- [2]
+						10956, -- [3]
+						1597640486.991, -- [4]
+						333518, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5285,46 +5980,46 @@ DeathGraphsDBCurrent = {
 					}, -- [21]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294823.95, -- [4]
-						284170, -- [5]
-						"Toshpal", -- [6]
+						274436, -- [2]
+						807, -- [3]
+						1597640487.01, -- [4]
+						334325, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						157982, -- [2]
-						26756, -- [3]
-						1597294823.95, -- [4]
-						310926, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						35803, -- [3]
+						1597640487.365, -- [4]
+						298522, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						false, -- [1]
-						77489, -- [2]
-						10161, -- [3]
-						1597294824.378, -- [4]
-						321087, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						93268, -- [3]
+						1597640487.866, -- [4]
+						205254, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						157982, -- [2]
-						13378, -- [3]
-						1597294824.952, -- [4]
-						334465, -- [5]
+						774, -- [2]
+						5478, -- [3]
+						1597640488.256, -- [4]
+						210732, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5332,137 +6027,539 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						319348, -- [2]
-						82252, -- [3]
-						1597294825.547, -- [4]
-						252213, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640488.256, -- [4]
+						211539, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						true, -- [1]
-						319346, -- [2]
-						36557, -- [3]
-						1597294825.547, -- [4]
-						215656, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						309978, -- [2]
+						102768, -- [3]
+						1597640488.832, -- [4]
+						108771, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						157982, -- [2]
-						1926, -- [3]
-						1597294825.892, -- [4]
-						217582, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						33168, -- [3]
+						1597640489.371, -- [4]
+						75603, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
 						false, -- [1]
-						287286, -- [2]
-						16858, -- [3]
-						1597294826.215, -- [4]
-						234440, -- [5]
-						"Toshpal", -- [6]
+						774, -- [2]
+						5478, -- [3]
+						1597640489.508, -- [4]
+						81081, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [29]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294826.247, -- [4]
-						246776, -- [5]
-						"Toshpal", -- [6]
+						274436, -- [2]
+						807, -- [3]
+						1597640489.527, -- [4]
+						81888, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						319346, -- [2]
-						35803, -- [3]
-						1597294827.546, -- [4]
-						210973, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						456, -- [3]
+						1597640489.527, -- [4]
+						82344, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						318976, -- [2]
-						379086, -- [3]
-						1597294827.715, -- [4]
+						309978, -- [2]
+						110541, -- [3]
+						1597640489.877, -- [4]
 						1, -- [5]
-						"[*] Stupefying Glare", -- [6]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						168113, -- [10]
+						28197, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
 						108271, -- [2]
 						1, -- [3]
-						1597294797.671, -- [4]
+						1597640462.289, -- [4]
 						0, -- [5]
 						"Jarrbek-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
-				["class"] = "SHAMAN",
-				["timestring"] = "7m 53s",
-				["time"] = 1597294827.737,
-			}, -- [5]
+			}, -- [6]
 			{
-				["maxhealth"] = 517420,
-				["timeofdeath"] = 479.2110000001267,
-				["name"] = "Khodiie-Kil'jaeden",
+				["maxhealth"] = 524280,
+				["timeofdeath"] = 483.4259999999777,
+				["name"] = "Esperance-Kil'jaeden",
+				["time"] = 1597640492.073,
+				["class"] = "MAGE",
+				["timestring"] = "8m 3s",
 				["events"] = {
 					{
 						true, -- [1]
-						319348, -- [2]
-						84415, -- [3]
-						1597294825.519, -- [4]
-						200176, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						317066, -- [2]
+						159332, -- [3]
+						1597640483.594, -- [4]
+						397654, -- [5]
+						"Thought Harvester", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
-						true, -- [1]
-						319347, -- [2]
-						145612, -- [3]
-						1597294825.519, -- [4]
-						54564, -- [5]
-						"Fierypower-Kil'jaeden", -- [6]
+						false, -- [1]
+						774, -- [2]
+						5478, -- [3]
+						1597640483.829, -- [4]
+						403132, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640483.859, -- [4]
+						403939, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						73921, -- [2]
+						13284, -- [3]
+						1597640483.944, -- [4]
+						417223, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						278095, -- [2]
+						39335, -- [3]
+						1597640483.944, -- [4]
+						456558, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						287286, -- [2]
+						26788, -- [3]
+						1597640484.754, -- [4]
+						483346, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						774, -- [2]
+						10955, -- [3]
+						1597640485.087, -- [4]
+						494301, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640485.087, -- [4]
+						495108, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37682, -- [3]
+						1597640485.247, -- [4]
+						457426, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						73921, -- [2]
+						6145, -- [3]
+						1597640485.415, -- [4]
+						463571, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						309978, -- [2]
+						66716, -- [3]
+						1597640485.889, -- [4]
+						396855, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						774, -- [2]
+						5478, -- [3]
+						1597640486.353, -- [4]
+						402333, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640486.353, -- [4]
+						403140, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						309978, -- [2]
+						85974, -- [3]
+						1597640486.868, -- [4]
+						317166, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38848, -- [3]
+						1597640487.247, -- [4]
+						278318, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						10834, -- [3]
+						1597640487.56, -- [4]
+						289152, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						274436, -- [2]
+						808, -- [3]
+						1597640487.578, -- [4]
+						289960, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						309978, -- [2]
+						103169, -- [3]
+						1597640487.866, -- [4]
+						186791, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						287286, -- [2]
+						50603, -- [3]
+						1597640488.082, -- [4]
+						237394, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
 						296184, -- [2]
-						11664, -- [3]
-						1597294825.578, -- [4]
-						66228, -- [5]
+						12336, -- [3]
+						1597640488.111, -- [4]
+						249730, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						309978, -- [2]
+						120364, -- [3]
+						1597640488.857, -- [4]
+						129366, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38848, -- [3]
+						1597640489.242, -- [4]
+						90518, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						87023, -- [2]
+						111327, -- [3]
+						1597640489.877, -- [4]
+						201845, -- [5]
+						"Esperance-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						86949, -- [2]
+						137559, -- [3]
+						1597640489.877, -- [4]
+						201845, -- [5]
+						"Esperance-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						309978, -- [2]
+						137559, -- [3]
+						1597640489.877, -- [4]
+						201845, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						64844, -- [2]
+						14946, -- [3]
+						1597640491.087, -- [4]
+						216791, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38848, -- [3]
+						1597640491.253, -- [4]
+						177943, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						287286, -- [2]
+						17771, -- [3]
+						1597640491.253, -- [4]
+						195714, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12336, -- [3]
+						1597640491.278, -- [4]
+						208050, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						87023, -- [2]
+						37590, -- [3]
+						1597640491.388, -- [4]
+						170460, -- [5]
+						"Esperance-Kil'jaeden", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						2061, -- [2]
+						41291, -- [3]
+						1597640491.48, -- [4]
+						211751, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12576, -- [3]
+						1597640491.526, -- [4]
+						224327, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Esperance-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+			}, -- [7]
+			{
+				["maxhealth"] = 517000,
+				["timeofdeath"] = 485.283000000054,
+				["name"] = "Ancestràl-Kil'jaeden",
+				["time"] = 1597640493.93,
+				["class"] = "SHAMAN",
+				["timestring"] = "8m 5s",
+				["events"] = {
+					{
+						false, -- [1]
+						77489, -- [2]
+						5583, -- [3]
+						1597640488.72, -- [4]
+						305681, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						5478, -- [3]
+						1597640488.832, -- [4]
+						311159, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640488.832, -- [4]
+						311966, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5472,33 +6569,33 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						143924, -- [2]
-						3032, -- [3]
-						1597294825.668, -- [4]
-						69898, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
+						3815, -- [3]
+						1597640489.527, -- [4]
+						315781, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38688, -- [3]
-						1597294825.685, -- [4]
-						31210, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						73921, -- [2]
+						19073, -- [3]
+						1597640489.855, -- [4]
+						334854, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						157982, -- [2]
-						2155, -- [3]
-						1597294825.892, -- [4]
-						33365, -- [5]
+						774, -- [2]
+						5478, -- [3]
+						1597640490.086, -- [4]
+						340332, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5507,10 +6604,10 @@ DeathGraphsDBCurrent = {
 					}, -- [6]
 					{
 						false, -- [1]
-						296184, -- [2]
-						2312, -- [3]
-						1597294825.919, -- [4]
-						35677, -- [5]
+						274436, -- [2]
+						807, -- [3]
+						1597640490.086, -- [4]
+						341139, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5519,59 +6616,59 @@ DeathGraphsDBCurrent = {
 					}, -- [7]
 					{
 						false, -- [1]
-						774, -- [2]
-						2070, -- [3]
-						1597294825.947, -- [4]
-						37747, -- [5]
-						"Leafyo", -- [6]
+						296212, -- [2]
+						32504, -- [3]
+						1597640490.227, -- [4]
+						373643, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
-						false, -- [1]
-						296184, -- [2]
-						577, -- [3]
-						1597294825.975, -- [4]
-						38324, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						35918, -- [3]
+						1597640490.227, -- [4]
+						337725, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						287286, -- [2]
-						18169, -- [3]
-						1597294826.215, -- [4]
-						56493, -- [5]
-						"Toshpal", -- [6]
+						143924, -- [2]
+						4303, -- [3]
+						1597640490.762, -- [4]
+						342028, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294826.247, -- [4]
-						68829, -- [5]
-						"Toshpal", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						142506, -- [3]
+						1597640490.866, -- [4]
+						199522, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						77489, -- [2]
-						5888, -- [3]
-						1597294826.546, -- [4]
-						74717, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						280205, -- [2]
+						21234, -- [3]
+						1597640491.073, -- [4]
+						220756, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5579,10 +6676,10 @@ DeathGraphsDBCurrent = {
 					}, -- [12]
 					{
 						false, -- [1]
-						296184, -- [2]
-						2801, -- [3]
-						1597294826.577, -- [4]
-						77518, -- [5]
+						64844, -- [2]
+						29892, -- [3]
+						1597640491.087, -- [4]
+						250648, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5591,10 +6688,10 @@ DeathGraphsDBCurrent = {
 					}, -- [13]
 					{
 						false, -- [1]
-						2050, -- [2]
-						174622, -- [3]
-						1597294827.612, -- [4]
-						252140, -- [5]
+						296184, -- [2]
+						12576, -- [3]
+						1597640491.143, -- [4]
+						263224, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5602,24 +6699,24 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38688, -- [3]
-						1597294827.673, -- [4]
-						214087, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						774, -- [2]
+						6025, -- [3]
+						1597640491.355, -- [4]
+						269249, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						270117, -- [2]
-						12494, -- [3]
-						1597294827.696, -- [4]
-						226581, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
+						274436, -- [2]
+						888, -- [3]
+						1597640491.355, -- [4]
+						270137, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5627,11 +6724,11 @@ DeathGraphsDBCurrent = {
 					}, -- [16]
 					{
 						false, -- [1]
-						157982, -- [2]
-						1926, -- [3]
-						1597294827.891, -- [4]
-						228507, -- [5]
-						"Leafyo", -- [6]
+						280205, -- [2]
+						21641, -- [3]
+						1597640491.782, -- [4]
+						291778, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5640,10 +6737,10 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						296184, -- [2]
-						4043, -- [3]
-						1597294827.909, -- [4]
-						232550, -- [5]
-						"Leafyo", -- [6]
+						735, -- [3]
+						1597640491.782, -- [4]
+						292513, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5651,22 +6748,424 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						false, -- [1]
-						287286, -- [2]
-						19118, -- [3]
-						1597294828.328, -- [4]
-						251668, -- [5]
-						"Toshpal", -- [6]
+						774, -- [2]
+						2459, -- [3]
+						1597640491.847, -- [4]
+						294972, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
+						274436, -- [2]
+						887, -- [3]
+						1597640491.867, -- [4]
+						295859, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						296212, -- [2]
+						36174, -- [3]
+						1597640491.867, -- [4]
+						332033, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						309978, -- [2]
+						149812, -- [3]
+						1597640491.867, -- [4]
+						182221, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						6163, -- [3]
+						1597640491.956, -- [4]
+						188384, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						81269, -- [2]
+						4777, -- [3]
+						1597640492.164, -- [4]
+						193161, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						319346, -- [2]
+						33847, -- [3]
+						1597640492.229, -- [4]
+						159314, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						270117, -- [2]
+						37919, -- [3]
+						1597640492.229, -- [4]
+						197233, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						225311, -- [2]
+						45973, -- [3]
+						1597640492.296, -- [4]
+						243206, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
 						296184, -- [2]
 						12336, -- [3]
-						1597294828.361, -- [4]
-						264004, -- [5]
+						1597640492.324, -- [4]
+						255542, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						73921, -- [2]
+						22111, -- [3]
+						1597640492.735, -- [4]
+						277653, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						309978, -- [2]
+						172760, -- [3]
+						1597640492.866, -- [4]
+						104893, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7829, -- [3]
+						1597640493.162, -- [4]
+						112722, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309978, -- [2]
+						187694, -- [3]
+						1597640493.908, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						74972, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						108271, -- [2]
+						1, -- [3]
+						1597640417.86, -- [4]
+						0, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+			}, -- [8]
+			{
+				["maxhealth"] = 569820,
+				["timeofdeath"] = 485.4879999998957,
+				["name"] = "Goffee-Kil'jaeden",
+				["time"] = 1597640494.135,
+				["class"] = "WARLOCK",
+				["timestring"] = "8m 5s",
+				["events"] = {
+					{
+						true, -- [1]
+						309978, -- [2]
+						118737, -- [3]
+						1597640488.832, -- [4]
+						200579, -- [5]
+						"[*] Paranoia", -- [6]
+						6231, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1597640488.832, -- [4]
+						200579, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						5478, -- [3]
+						1597640489.023, -- [4]
+						206057, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640489.047, -- [4]
+						206864, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77220, -- [2]
+						2083, -- [3]
+						1597640489.643, -- [4]
+						206864, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						108366, -- [2]
+						278, -- [3]
+						1597640489.643, -- [4]
+						206864, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38322, -- [3]
+						1597640489.643, -- [4]
+						170903, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						2361, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1597640489.643, -- [4]
+						170903, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						5478, -- [3]
+						1597640490.293, -- [4]
+						176381, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						274436, -- [2]
+						1614, -- [3]
+						1597640490.293, -- [4]
+						177995, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						64844, -- [2]
+						14945, -- [3]
+						1597640491.087, -- [4]
+						192940, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						296184, -- [2]
+						2124, -- [3]
+						1597640491.143, -- [4]
+						195064, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						243241, -- [2]
+						9176, -- [3]
+						1597640491.48, -- [4]
+						204240, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12576, -- [3]
+						1597640491.526, -- [4]
+						216816, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						774, -- [2]
+						6025, -- [3]
+						1597640491.526, -- [4]
+						222841, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						274436, -- [2]
+						888, -- [3]
+						1597640491.556, -- [4]
+						223729, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77220, -- [2]
+						1896, -- [3]
+						1597640491.65, -- [4]
+						223729, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						108366, -- [2]
+						5440, -- [3]
+						1597640491.65, -- [4]
+						223729, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38480, -- [3]
+						1597640491.65, -- [4]
+						192585, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						7336, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						225311, -- [2]
+						91946, -- [3]
+						1597640492.296, -- [4]
+						284531, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5675,34 +7174,34 @@ DeathGraphsDBCurrent = {
 					}, -- [20]
 					{
 						false, -- [1]
-						77489, -- [2]
-						40591, -- [3]
-						1597294829.545, -- [4]
-						304595, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						296184, -- [2]
+						12336, -- [3]
+						1597640492.324, -- [4]
+						296867, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38688, -- [3]
-						1597294829.677, -- [4]
-						265907, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						774, -- [2]
+						6025, -- [3]
+						1597640492.775, -- [4]
+						302892, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						157982, -- [2]
-						1841, -- [3]
-						1597294829.895, -- [4]
-						268380, -- [5]
+						274436, -- [2]
+						888, -- [3]
+						1597640492.793, -- [4]
+						303780, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5711,96 +7210,96 @@ DeathGraphsDBCurrent = {
 					}, -- [23]
 					{
 						false, -- [1]
-						296184, -- [2]
-						1657, -- [3]
-						1597294829.92, -- [4]
-						270037, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						2112, -- [3]
+						1597640493.654, -- [4]
+						303780, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						287286, -- [2]
-						16156, -- [3]
-						1597294830.313, -- [4]
-						286193, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						1947, -- [3]
+						1597640493.654, -- [4]
+						303780, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294830.362, -- [4]
-						298529, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						319346, -- [2]
+						39670, -- [3]
+						1597640493.654, -- [4]
+						268169, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						4059, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38689, -- [3]
-						1597294831.674, -- [4]
-						259840, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						270117, -- [2]
+						31464, -- [3]
+						1597640493.674, -- [4]
+						299633, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
 						false, -- [1]
-						157982, -- [2]
-						1841, -- [3]
-						1597294831.886, -- [4]
-						262317, -- [5]
+						48438, -- [2]
+						5080, -- [3]
+						1597640493.997, -- [4]
+						304713, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
 						false, -- [1]
-						296184, -- [2]
-						2761, -- [3]
-						1597294831.921, -- [4]
-						265078, -- [5]
+						774, -- [2]
+						7572, -- [3]
+						1597640494.018, -- [4]
+						312285, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						false, -- [1]
-						77489, -- [2]
-						40591, -- [3]
-						1597294832.562, -- [4]
-						305669, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						296184, -- [2]
+						2500, -- [3]
+						1597640494.037, -- [4]
+						314785, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						157982, -- [2]
-						1997, -- [3]
-						1597294832.977, -- [4]
-						307666, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						32393, -- [3]
+						1597640494.115, -- [4]
+						314785, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
@@ -5808,51 +7307,871 @@ DeathGraphsDBCurrent = {
 					{
 						true, -- [1]
 						318976, -- [2]
-						409640, -- [3]
-						1597294833.01, -- [4]
+						420034, -- [3]
+						1597640494.135, -- [4]
 						1, -- [5]
 						"[*] Stupefying Glare", -- [6]
-						nil, -- [7]
+						32393, -- [7]
 						32, -- [8]
 						false, -- [9]
-						101974, -- [10]
+						72856, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						118038, -- [2]
+						104773, -- [2]
 						1, -- [3]
-						1597294797.346, -- [4]
+						1597640443.456, -- [4]
 						0, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
+						"Goffee-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
-				["class"] = "WARRIOR",
-				["timestring"] = "7m 59s",
-				["time"] = 1597294833.033,
-			}, -- [6]
+			}, -- [9]
 			{
-				["maxhealth"] = 518320,
-				["timeofdeath"] = 508.5720000001602,
-				["name"] = "Kerryhunts-Kil'jaeden",
+				["maxhealth"] = 575000,
+				["timeofdeath"] = 486.2360000000335,
+				["name"] = "Tianarrae-Kil'jaeden",
+				["time"] = 1597640494.883,
+				["class"] = "PRIEST",
+				["timestring"] = "8m 6s",
 				["events"] = {
 					{
 						false, -- [1]
-						143924, -- [2]
-						182, -- [3]
-						1597294853.601, -- [4]
-						593387, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						274436, -- [2]
+						807, -- [3]
+						1597640487.161, -- [4]
+						364721, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
+						true, -- [1]
+						319346, -- [2]
+						38418, -- [3]
+						1597640487.365, -- [4]
+						326303, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						309978, -- [2]
+						102028, -- [3]
+						1597640487.866, -- [4]
+						224275, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						287286, -- [2]
+						50069, -- [3]
+						1597640488.082, -- [4]
+						274344, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12336, -- [3]
+						1597640488.111, -- [4]
+						286680, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
 						false, -- [1]
 						774, -- [2]
-						7726, -- [3]
-						1597294853.759, -- [4]
-						598668, -- [5]
+						5478, -- [3]
+						1597640488.4, -- [4]
+						292158, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640488.4, -- [4]
+						292965, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2873, -- [3]
+						1597640488.72, -- [4]
+						295838, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38418, -- [3]
+						1597640489.371, -- [4]
+						257420, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						774, -- [2]
+						5478, -- [3]
+						1597640489.66, -- [4]
+						262898, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						274436, -- [2]
+						808, -- [3]
+						1597640489.66, -- [4]
+						263706, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9173, -- [3]
+						1597640489.93, -- [4]
+						272879, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12576, -- [3]
+						1597640489.93, -- [4]
+						285455, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2102, -- [3]
+						1597640489.93, -- [4]
+						287557, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						774, -- [2]
+						5478, -- [3]
+						1597640490.921, -- [4]
+						293035, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597640490.921, -- [4]
+						293842, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						64844, -- [2]
+						14946, -- [3]
+						1597640491.087, -- [4]
+						308788, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						22400, -- [3]
+						1597640491.143, -- [4]
+						331188, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						287286, -- [2]
+						27262, -- [3]
+						1597640491.253, -- [4]
+						358450, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38418, -- [3]
+						1597640491.371, -- [4]
+						320032, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						270117, -- [2]
+						27798, -- [3]
+						1597640491.388, -- [4]
+						347830, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						6025, -- [3]
+						1597640492.149, -- [4]
+						353855, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						274436, -- [2]
+						888, -- [3]
+						1597640492.149, -- [4]
+						354743, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						143924, -- [2]
+						11185, -- [3]
+						1597640492.383, -- [4]
+						365928, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13389, -- [3]
+						1597640492.928, -- [4]
+						379317, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						774, -- [2]
+						4719, -- [3]
+						1597640493.125, -- [4]
+						384036, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						274436, -- [2]
+						887, -- [3]
+						1597640493.125, -- [4]
+						384923, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38419, -- [3]
+						1597640493.372, -- [4]
+						346504, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						596, -- [2]
+						19116, -- [3]
+						1597640493.413, -- [4]
+						365620, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						143924, -- [2]
+						26934, -- [3]
+						1597640493.574, -- [4]
+						392554, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						309978, -- [2]
+						204057, -- [3]
+						1597640493.853, -- [4]
+						188497, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						143924, -- [2]
+						13244, -- [3]
+						1597640494.783, -- [4]
+						201741, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+			}, -- [10]
+		},
+		["bossname"] = "N'Zoth the Corruptor",
+		["bossicon"] = {
+			0.75, -- [1]
+			1, -- [2]
+			0.5, -- [3]
+			0.75, -- [4]
+			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
+		},
+		["date"] = 1603974.921,
+		["timeelapsed"] = 527.0570000000298,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 575000,
+				["timeofdeath"] = 106.0530000000726,
+				["name"] = "Tianarrae-Kil'jaeden",
+				["time"] = 1597639496.475,
+				["class"] = "PRIEST",
+				["timestring"] = "1m 46s",
+				["events"] = {
+					{
+						2, -- [1]
+						95750, -- [2]
+						1, -- [3]
+						1597639514.737, -- [4]
+						0, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5118, -- [3]
+						1597639488.814, -- [4]
+						549403, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						22622, -- [3]
+						1597639489.235, -- [4]
+						572025, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						315161, -- [2]
+						22716, -- [3]
+						1597639489.419, -- [4]
+						549309, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						4, -- [1]
+						315161, -- [2]
+						3, -- [3]
+						1597639489.419, -- [4]
+						549309, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						287286, -- [2]
+						16641, -- [3]
+						1597639489.419, -- [4]
+						565950, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						8814, -- [3]
+						1597639490.047, -- [4]
+						574764, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38419, -- [3]
+						1597639490.223, -- [4]
+						536345, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						315161, -- [2]
+						25337, -- [3]
+						1597639490.409, -- [4]
+						511008, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						4, -- [1]
+						315161, -- [2]
+						4, -- [3]
+						1597639490.409, -- [4]
+						511008, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						143924, -- [2]
+						15857, -- [3]
+						1597639491.268, -- [4]
+						526865, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						315161, -- [2]
+						27958, -- [3]
+						1597639491.415, -- [4]
+						498907, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						4, -- [1]
+						315161, -- [2]
+						5, -- [3]
+						1597639491.415, -- [4]
+						498907, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						4, -- [1]
+						316542, -- [2]
+						1, -- [3]
+						1597639491.415, -- [4]
+						498907, -- [5]
+						"[*] Paranoia", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						287286, -- [2]
+						15172, -- [3]
+						1597639491.714, -- [4]
+						514079, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38419, -- [3]
+						1597639492.206, -- [4]
+						475660, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						22622, -- [3]
+						1597639492.274, -- [4]
+						498282, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						596, -- [2]
+						26100, -- [3]
+						1597639492.274, -- [4]
+						524382, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						309978, -- [2]
+						17005, -- [3]
+						1597639492.436, -- [4]
+						507377, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						143924, -- [2]
+						14648, -- [3]
+						1597639492.473, -- [4]
+						522025, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						243241, -- [2]
+						12529, -- [3]
+						1597639493.204, -- [4]
+						534554, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						309978, -- [2]
+						34010, -- [3]
+						1597639493.453, -- [4]
+						500544, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						14810, -- [3]
+						1597639493.685, -- [4]
+						515354, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38418, -- [3]
+						1597639494.223, -- [4]
+						476936, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						270117, -- [2]
+						12635, -- [3]
+						1597639494.223, -- [4]
+						489571, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						309978, -- [2]
+						51014, -- [3]
+						1597639494.448, -- [4]
+						438557, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5401, -- [3]
+						1597639494.89, -- [4]
+						443958, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						77489, -- [2]
+						19221, -- [3]
+						1597639495.232, -- [4]
+						463179, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						309978, -- [2]
+						68019, -- [3]
+						1597639495.45, -- [4]
+						395160, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7542, -- [3]
+						1597639496.118, -- [4]
+						402702, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38419, -- [3]
+						1597639496.21, -- [4]
+						364283, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1597639496.41, -- [4]
+						364283, -- [5]
+						"Corrupted Neuron", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						309991, -- [2]
+						293786, -- [3]
+						1597639496.41, -- [4]
+						70497, -- [5]
+						"Corrupted Neuron", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+					}, -- [34]
+				},
+			}, -- [1]
+			{
+				["maxhealth"] = 525540,
+				["timeofdeath"] = 283.971000000136,
+				["name"] = "Felside-Kil'jaeden",
+				["time"] = 1597639674.393,
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "4m 43s",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1597639732.443, -- [4]
+						0, -- [5]
+						"Leafyo", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597639669.436, -- [4]
+						447402, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5862,9 +8181,9 @@ DeathGraphsDBCurrent = {
 					{
 						true, -- [1]
 						319346, -- [2]
-						40401, -- [3]
-						1597294854.519, -- [4]
-						558267, -- [5]
+						31270, -- [3]
+						1597639669.532, -- [4]
+						416132, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -5873,10 +8192,420 @@ DeathGraphsDBCurrent = {
 					}, -- [3]
 					{
 						false, -- [1]
-						8936, -- [2]
-						6856, -- [3]
-						1597294854.616, -- [4]
-						565123, -- [5]
+						288999, -- [2]
+						4080, -- [3]
+						1597639669.58, -- [4]
+						420212, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						315161, -- [2]
+						18849, -- [3]
+						1597639669.674, -- [4]
+						401363, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						4, -- [1]
+						315161, -- [2]
+						1, -- [3]
+						1597639669.674, -- [4]
+						401363, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						270117, -- [2]
+						13787, -- [3]
+						1597639669.674, -- [4]
+						415150, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						315161, -- [2]
+						22595, -- [3]
+						1597639670.683, -- [4]
+						392555, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						4, -- [1]
+						315161, -- [2]
+						2, -- [3]
+						1597639670.683, -- [4]
+						392555, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						774, -- [2]
+						5349, -- [3]
+						1597639670.763, -- [4]
+						397904, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597639670.789, -- [4]
+						398711, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						311201, -- [2]
+						19075, -- [3]
+						1597639670.823, -- [4]
+						417786, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						295310, -- [2]
+						7816, -- [3]
+						1597639671.027, -- [4]
+						425602, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						774, -- [2]
+						5349, -- [3]
+						1597639671.193, -- [4]
+						430951, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597639671.24, -- [4]
+						431758, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						4, -- [1]
+						316541, -- [2]
+						1, -- [3]
+						1597639671.362, -- [4]
+						431758, -- [5]
+						"[*] Paranoia", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						319346, -- [2]
+						32485, -- [3]
+						1597639671.537, -- [4]
+						399273, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						315161, -- [2]
+						25456, -- [3]
+						1597639671.678, -- [4]
+						373817, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						315161, -- [2]
+						3, -- [3]
+						1597639671.678, -- [4]
+						373817, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						288999, -- [2]
+						4080, -- [3]
+						1597639672.062, -- [4]
+						377897, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						309978, -- [2]
+						14330, -- [3]
+						1597639672.375, -- [4]
+						363567, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						315161, -- [2]
+						28296, -- [3]
+						1597639672.687, -- [4]
+						335271, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						4, -- [1]
+						315161, -- [2]
+						4, -- [3]
+						1597639672.687, -- [4]
+						335271, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						774, -- [2]
+						5349, -- [3]
+						1597639672.971, -- [4]
+						340620, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						274436, -- [2]
+						808, -- [3]
+						1597639672.999, -- [4]
+						341428, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						295310, -- [2]
+						7815, -- [3]
+						1597639673.043, -- [4]
+						349243, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						309978, -- [2]
+						28562, -- [3]
+						1597639673.375, -- [4]
+						320681, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						319346, -- [2]
+						32264, -- [3]
+						1597639673.547, -- [4]
+						288417, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						315161, -- [2]
+						31117, -- [3]
+						1597639673.676, -- [4]
+						257300, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						4, -- [1]
+						315161, -- [2]
+						5, -- [3]
+						1597639673.676, -- [4]
+						257300, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1597639673.884, -- [4]
+						257300, -- [5]
+						"Corrupted Neuron", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						246724, -- [3]
+						1597639673.884, -- [4]
+						10576, -- [5]
+						"Corrupted Neuron", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						309978, -- [2]
+						42842, -- [3]
+						1597639674.393, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						32266, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+					}, -- [34]
+				},
+			}, -- [2]
+			{
+				["maxhealth"] = 893020,
+				["timeofdeath"] = 471.2760000000708,
+				["name"] = "Hoofalo-Kil'jaeden",
+				["time"] = 1597639861.698,
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "7m 51s",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1597639864.147, -- [4]
+						0, -- [5]
+						"Leafyo", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						45470, -- [2]
+						356398, -- [3]
+						1597639857.271, -- [4]
+						1042143, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						319346, -- [2]
+						35378, -- [3]
+						1597639858.323, -- [4]
+						1006765, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						774, -- [2]
+						6572, -- [3]
+						1597639858.47, -- [4]
+						1013337, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5885,11 +8614,11 @@ DeathGraphsDBCurrent = {
 					}, -- [4]
 					{
 						false, -- [1]
-						296330, -- [2]
-						29934, -- [3]
-						1597294854.616, -- [4]
-						595057, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						157503, -- [2]
+						15984, -- [3]
+						1597639858.799, -- [4]
+						1029321, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5897,11 +8626,425 @@ DeathGraphsDBCurrent = {
 					}, -- [5]
 					{
 						false, -- [1]
-						287286, -- [2]
-						29906, -- [3]
-						1597294854.639, -- [4]
-						598668, -- [5]
+						207386, -- [2]
+						3651, -- [3]
+						1597639859.15, -- [4]
+						1032972, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						1, -- [2]
+						437901, -- [3]
+						1597639859.15, -- [4]
+						1032972, -- [5]
+						"Thought Harvester", -- [6]
+						119567, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						77535, -- [2]
+						119567, -- [3]
+						1597639859.15, -- [4]
+						1032972, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77535, -- [2]
+						0, -- [3]
+						1597639859.15, -- [4]
+						714638, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9068, -- [3]
+						1597639859.204, -- [4]
+						723706, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						1, -- [2]
+						508564, -- [3]
+						1597639859.652, -- [4]
+						723706, -- [5]
+						"Thought Harvester", -- [6]
+						29250, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						206967, -- [2]
+						29250, -- [3]
+						1597639859.676, -- [4]
+						723706, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						55078, -- [2]
+						2479, -- [3]
+						1597639859.676, -- [4]
+						246870, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						774, -- [2]
+						6284, -- [3]
+						1597639859.792, -- [4]
+						253154, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						55078, -- [2]
+						5058, -- [3]
+						1597639859.942, -- [4]
+						258212, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						55078, -- [2]
+						5058, -- [3]
+						1597639859.942, -- [4]
+						263270, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						206967, -- [2]
+						10613, -- [3]
+						1597639860.336, -- [4]
+						263270, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						319346, -- [2]
+						35378, -- [3]
+						1597639860.336, -- [4]
+						238505, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						10613, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						25914, -- [2]
+						128838, -- [3]
+						1597639860.356, -- [4]
+						367343, -- [5]
 						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12336, -- [3]
+						1597639860.385, -- [4]
+						379679, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						287286, -- [2]
+						38157, -- [3]
+						1597639860.69, -- [4]
+						417836, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12336, -- [3]
+						1597639860.74, -- [4]
+						430172, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						4393, -- [3]
+						1597639860.74, -- [4]
+						434565, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						207386, -- [2]
+						3119, -- [3]
+						1597639861.156, -- [4]
+						437684, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						1, -- [2]
+						412542, -- [3]
+						1597639861.156, -- [4]
+						437684, -- [5]
+						"Thought Harvester", -- [6]
+						126893, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						206967, -- [2]
+						86250, -- [3]
+						1597639861.156, -- [4]
+						437684, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						269279, -- [2]
+						40643, -- [3]
+						1597639861.156, -- [4]
+						437684, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						296184, -- [2]
+						1047, -- [3]
+						1597639861.175, -- [4]
+						153082, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						61295, -- [2]
+						33183, -- [3]
+						1597639861.309, -- [4]
+						186265, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						296184, -- [2]
+						13056, -- [3]
+						1597639861.349, -- [4]
+						199321, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						1, -- [2]
+						471551, -- [3]
+						1597639861.66, -- [4]
+						199321, -- [5]
+						"Thought Harvester", -- [6]
+						163935, -- [7]
+						1, -- [8]
+						false, -- [9]
+						108295, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						206967, -- [2]
+						141465, -- [3]
+						1597639861.66, -- [4]
+						199321, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						279187, -- [2]
+						22470, -- [3]
+						1597639861.66, -- [4]
+						199321, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						55233, -- [2]
+						1, -- [3]
+						1597639699.981, -- [4]
+						0, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+					}, -- [34]
+				},
+			}, -- [3]
+			{
+				["maxhealth"] = 522500,
+				["timeofdeath"] = 476.9329999999609,
+				["name"] = "Logs",
+				["time"] = 1597639867.355,
+				["class"] = "MAGE",
+				["timestring"] = "7m 56s",
+				["events"] = {
+					{
+						false, -- [1]
+						774, -- [2]
+						13146, -- [3]
+						1597639859.394, -- [4]
+						574760, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37844, -- [3]
+						1597639859.981, -- [4]
+						536916, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						143924, -- [2]
+						6444, -- [3]
+						1597639859.997, -- [4]
+						543360, -- [5]
+						"Logs", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						16946, -- [3]
+						1597639860.141, -- [4]
+						560306, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						774, -- [2]
+						6283, -- [3]
+						1597639860.713, -- [4]
+						566589, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						34861, -- [2]
+						49526, -- [3]
+						1597639860.761, -- [4]
+						574760, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5909,10 +9052,10 @@ DeathGraphsDBCurrent = {
 					}, -- [6]
 					{
 						false, -- [1]
-						774, -- [2]
-						15451, -- [3]
-						1597294855.539, -- [4]
-						598668, -- [5]
+						207386, -- [2]
+						1745, -- [3]
+						1597639860.857, -- [4]
+						574760, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5921,11 +9064,11 @@ DeathGraphsDBCurrent = {
 					}, -- [7]
 					{
 						false, -- [1]
-						8936, -- [2]
-						6856, -- [3]
-						1597294855.793, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
+						298318, -- [2]
+						62480, -- [3]
+						1597639861.309, -- [4]
+						574760, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5933,11 +9076,11 @@ DeathGraphsDBCurrent = {
 					}, -- [8]
 					{
 						false, -- [1]
-						8936, -- [2]
-						1843, -- [3]
-						1597294856.108, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
+						269238, -- [2]
+						18270, -- [3]
+						1597639861.698, -- [4]
+						574760, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5946,9 +9089,9 @@ DeathGraphsDBCurrent = {
 					{
 						true, -- [1]
 						319346, -- [2]
-						40401, -- [3]
-						1597294856.528, -- [4]
-						558267, -- [5]
+						37844, -- [3]
+						1597639862.122, -- [4]
+						536916, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -5958,9 +9101,9 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						774, -- [2]
-						6903, -- [3]
-						1597294857.211, -- [4]
-						565170, -- [5]
+						5615, -- [3]
+						1597639862.122, -- [4]
+						542531, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5970,9 +9113,9 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						274436, -- [2]
-						807, -- [3]
-						1597294857.211, -- [4]
-						565977, -- [5]
+						808, -- [3]
+						1597639862.122, -- [4]
+						543339, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5982,10 +9125,10 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						143924, -- [2]
-						65, -- [3]
-						1597294857.272, -- [4]
-						566042, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						7656, -- [3]
+						1597639862.444, -- [4]
+						550995, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5993,71 +9136,71 @@ DeathGraphsDBCurrent = {
 					}, -- [13]
 					{
 						false, -- [1]
-						143924, -- [2]
-						303, -- [3]
-						1597294858.479, -- [4]
-						566345, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						774, -- [2]
+						5615, -- [3]
+						1597639863.38, -- [4]
+						556610, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						319346, -- [2]
-						40240, -- [3]
-						1597294858.517, -- [4]
-						526105, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597639863.38, -- [4]
+						557417, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						270661, -- [2]
-						3895, -- [3]
-						1597294858.881, -- [4]
-						530000, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						143924, -- [2]
+						7087, -- [3]
+						1597639863.662, -- [4]
+						565149, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						774, -- [2]
-						6903, -- [3]
-						1597294858.881, -- [4]
-						536903, -- [5]
-						"Leafyo", -- [6]
+						77489, -- [2]
+						16371, -- [3]
+						1597639863.813, -- [4]
+						574760, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
-						false, -- [1]
-						274436, -- [2]
-						807, -- [3]
-						1597294858.907, -- [4]
-						537710, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						37844, -- [3]
+						1597639863.986, -- [4]
+						536916, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						false, -- [1]
-						143924, -- [2]
-						217, -- [3]
-						1597294859.707, -- [4]
-						537927, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						774, -- [2]
+						5615, -- [3]
+						1597639864.688, -- [4]
+						542531, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6065,10 +9208,10 @@ DeathGraphsDBCurrent = {
 					}, -- [19]
 					{
 						false, -- [1]
-						48438, -- [2]
-						5141, -- [3]
-						1597294859.724, -- [4]
-						543068, -- [5]
+						274436, -- [2]
+						1614, -- [3]
+						1597639864.707, -- [4]
+						544145, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6077,70 +9220,70 @@ DeathGraphsDBCurrent = {
 					}, -- [20]
 					{
 						false, -- [1]
-						48438, -- [2]
-						4972, -- [3]
-						1597294860.293, -- [4]
-						548040, -- [5]
-						"Leafyo", -- [6]
+						143924, -- [2]
+						11437, -- [3]
+						1597639864.893, -- [4]
+						555582, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						true, -- [1]
-						319346, -- [2]
-						40239, -- [3]
-						1597294860.512, -- [4]
-						507801, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						269238, -- [2]
+						36541, -- [3]
+						1597639865.489, -- [4]
+						574760, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						774, -- [2]
-						15451, -- [3]
-						1597294860.565, -- [4]
-						523252, -- [5]
-						"Leafyo", -- [6]
+						120692, -- [2]
+						25461, -- [3]
+						1597639865.936, -- [4]
+						574760, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						false, -- [1]
-						48438, -- [2]
-						4803, -- [3]
-						1597294860.853, -- [4]
-						528055, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						37844, -- [3]
+						1597639865.99, -- [4]
+						536916, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						143924, -- [2]
-						112, -- [3]
-						1597294860.916, -- [4]
-						528167, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						270117, -- [2]
+						12935, -- [3]
+						1597639866.015, -- [4]
+						549851, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
-						48438, -- [2]
-						4632, -- [3]
-						1597294861.385, -- [4]
-						532799, -- [5]
+						774, -- [2]
+						5615, -- [3]
+						1597639866.015, -- [4]
+						555466, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6149,11 +9292,11 @@ DeathGraphsDBCurrent = {
 					}, -- [26]
 					{
 						false, -- [1]
-						270661, -- [2]
-						3894, -- [3]
-						1597294861.861, -- [4]
-						536693, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						274436, -- [2]
+						807, -- [3]
+						1597639866.015, -- [4]
+						556273, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6161,101 +9304,503 @@ DeathGraphsDBCurrent = {
 					}, -- [27]
 					{
 						false, -- [1]
-						48438, -- [2]
-						4464, -- [3]
-						1597294861.951, -- [4]
-						541157, -- [5]
-						"Leafyo", -- [6]
+						143924, -- [2]
+						4664, -- [3]
+						1597639866.104, -- [4]
+						560937, -- [5]
+						"Logs", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
+						false, -- [1]
+						77489, -- [2]
+						10718, -- [3]
+						1597639866.816, -- [4]
+						571655, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						1, -- [2]
+						1302630, -- [3]
+						1597639867.322, -- [4]
+						571655, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						730975, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						1, -- [2]
+						555056, -- [3]
+						1597639867.322, -- [4]
+						571655, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						86949, -- [2]
+						932141, -- [3]
+						1597639867.322, -- [4]
+						571655, -- [5]
+						"Logs", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Logs", -- [6]
+					}, -- [33]
+				},
+			}, -- [4]
+			{
+				["maxhealth"] = 522700,
+				["timeofdeath"] = 489.8100000000559,
+				["name"] = "Xiaphos-Mal'Ganis",
+				["time"] = 1597639880.232,
+				["class"] = "WARRIOR",
+				["timestring"] = "8m 9s",
+				["events"] = {
+					{
+						true, -- [1]
+						319346, -- [2]
+						38234, -- [3]
+						1597639872.276, -- [4]
+						491110, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						6903, -- [3]
+						1597639872.575, -- [4]
+						498013, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1597639872.575, -- [4]
+						498820, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1305, -- [3]
+						1597639872.605, -- [4]
+						500125, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						309978, -- [2]
+						33847, -- [3]
+						1597639872.773, -- [4]
+						466278, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						11390, -- [3]
+						1597639873.09, -- [4]
+						477668, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						309978, -- [2]
+						50770, -- [3]
+						1597639873.757, -- [4]
+						426898, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2275, -- [3]
+						1597639873.832, -- [4]
+						429173, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						17258, -- [3]
+						1597639873.966, -- [4]
+						446431, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						274436, -- [2]
+						2018, -- [3]
+						1597639873.966, -- [4]
+						448449, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38234, -- [3]
+						1597639874.296, -- [4]
+						410215, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						309978, -- [2]
+						67694, -- [3]
+						1597639874.769, -- [4]
+						342521, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1310, -- [3]
+						1597639875.03, -- [4]
+						343831, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						774, -- [2]
+						8629, -- [3]
+						1597639875.721, -- [4]
+						352460, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						274436, -- [2]
+						1009, -- [3]
+						1597639875.721, -- [4]
+						353469, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						838, -- [3]
+						1597639876.253, -- [4]
+						354307, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39378, -- [3]
+						1597639876.275, -- [4]
+						314929, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						3607, -- [3]
+						1597639876.336, -- [4]
+						318536, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5995, -- [3]
+						1597639876.858, -- [4]
+						324531, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						11574, -- [3]
+						1597639877.44, -- [4]
+						336105, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1674, -- [3]
+						1597639877.496, -- [4]
+						337779, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5579, -- [3]
+						1597639878.026, -- [4]
+						343358, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37482, -- [3]
+						1597639878.282, -- [4]
+						305876, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						1064, -- [2]
+						64374, -- [3]
+						1597639878.354, -- [4]
+						370250, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5371, -- [3]
+						1597639878.608, -- [4]
+						375621, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						143924, -- [2]
+						399, -- [3]
+						1597639878.691, -- [4]
+						376020, -- [5]
+						"Xiaphos-Mal'Ganis", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						309978, -- [2]
+						132722, -- [3]
+						1597639878.772, -- [4]
+						243298, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5166, -- [3]
+						1597639879.18, -- [4]
+						248464, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						309978, -- [2]
+						156865, -- [3]
+						1597639879.783, -- [4]
+						91599, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4958, -- [3]
+						1597639879.783, -- [4]
+						96557, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
 						4, -- [1]
 						309991, -- [2]
 						1, -- [3]
-						1597294862.216, -- [4]
-						541157, -- [5]
+						1597639880.197, -- [4]
+						96557, -- [5]
 						"N'Zoth the Corruptor", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [29]
+					}, -- [31]
 					{
 						true, -- [1]
 						309991, -- [2]
-						307711, -- [3]
-						1597294862.216, -- [4]
-						233446, -- [5]
+						301124, -- [3]
+						1597639880.232, -- [4]
+						1, -- [5]
 						"N'Zoth the Corruptor", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						774, -- [2]
-						15451, -- [3]
-						1597294862.233, -- [4]
-						248897, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						false, -- [1]
-						296184, -- [2]
-						11664, -- [3]
-						1597294862.246, -- [4]
-						260561, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						204567, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						186265, -- [2]
-						1, -- [3]
-						1597294829.865, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
+						"Xiaphos-Mal'Ganis", -- [6]
 					}, -- [33]
 				},
-				["class"] = "HUNTER",
-				["timestring"] = "8m 28s",
-				["time"] = 1597294862.394,
-			}, -- [7]
+			}, -- [5]
 			{
-				["maxhealth"] = 575000,
-				["timeofdeath"] = 542.4230000001844,
+				["maxhealth"] = 718750,
+				["timeofdeath"] = 492.4000000001397,
 				["name"] = "Tianarrae-Kil'jaeden",
+				["time"] = 1597639882.822,
+				["class"] = "PRIEST",
+				["timestring"] = "8m 12s",
 				["events"] = {
 					{
-						false, -- [1]
-						774, -- [2]
-						4750, -- [3]
-						1597294879.792, -- [4]
-						575000, -- [5]
-						"Leafyo", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						119034, -- [3]
+						1597639877.778, -- [4]
+						314344, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						274436, -- [2]
-						807, -- [3]
-						1597294879.792, -- [4]
-						575000, -- [5]
-						"Leafyo", -- [6]
+						143924, -- [2]
+						675, -- [3]
+						1597639877.889, -- [4]
+						315019, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6263,11 +9808,11 @@ DeathGraphsDBCurrent = {
 					}, -- [2]
 					{
 						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597294880.376, -- [4]
-						575000, -- [5]
-						"Toshpal", -- [6]
+						48438, -- [2]
+						6243, -- [3]
+						1597639878.026, -- [4]
+						321262, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6275,35 +9820,35 @@ DeathGraphsDBCurrent = {
 					}, -- [3]
 					{
 						true, -- [1]
-						319346, -- [2]
-						37265, -- [3]
-						1597294880.606, -- [4]
-						537735, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						315161, -- [2]
+						38224, -- [3]
+						1597639878.282, -- [4]
+						283038, -- [5]
+						"Eye of Corruption", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						77489, -- [2]
-						18566, -- [3]
-						1597294880.644, -- [4]
-						556301, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						315161, -- [2]
+						6, -- [3]
+						1597639878.282, -- [4]
+						283038, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						143924, -- [2]
-						2111, -- [3]
-						1597294881.126, -- [4]
-						558412, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						1064, -- [2]
+						48054, -- [3]
+						1597639878.354, -- [4]
+						331092, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6311,11 +9856,11 @@ DeathGraphsDBCurrent = {
 					}, -- [6]
 					{
 						false, -- [1]
-						287286, -- [2]
-						48937, -- [3]
-						1597294882.016, -- [4]
-						575000, -- [5]
-						"Royalty", -- [6]
+						296184, -- [2]
+						10257, -- [3]
+						1597639878.399, -- [4]
+						341349, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6323,22 +9868,22 @@ DeathGraphsDBCurrent = {
 					}, -- [7]
 					{
 						false, -- [1]
-						287286, -- [2]
-						26787, -- [3]
-						1597294882.388, -- [4]
-						575000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
+						274369, -- [2]
+						38419, -- [3]
+						1597639878.415, -- [4]
+						341349, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [8]
 					{
 						true, -- [1]
 						319346, -- [2]
-						37266, -- [3]
-						1597294882.611, -- [4]
-						537734, -- [5]
+						38419, -- [3]
+						1597639878.415, -- [4]
+						341349, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -6347,11 +9892,11 @@ DeathGraphsDBCurrent = {
 					}, -- [9]
 					{
 						false, -- [1]
-						270117, -- [2]
-						12635, -- [3]
-						1597294882.627, -- [4]
-						550369, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						183998, -- [2]
+						46778, -- [3]
+						1597639878.448, -- [4]
+						388127, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6359,47 +9904,47 @@ DeathGraphsDBCurrent = {
 					}, -- [10]
 					{
 						false, -- [1]
-						143924, -- [2]
-						4677, -- [3]
-						1597294883.552, -- [4]
-						555046, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						296184, -- [2]
+						12336, -- [3]
+						1597639878.499, -- [4]
+						400463, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						77489, -- [2]
-						14989, -- [3]
-						1597294883.623, -- [4]
-						570035, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						48438, -- [2]
+						6010, -- [3]
+						1597639878.608, -- [4]
+						406473, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37266, -- [3]
-						1597294884.596, -- [4]
-						532769, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						81269, -- [2]
+						9091, -- [3]
+						1597639879.049, -- [4]
+						415564, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						287286, -- [2]
-						26787, -- [3]
-						1597294884.664, -- [4]
-						559556, -- [5]
-						"Toshpal", -- [6]
+						143924, -- [2]
+						5771, -- [3]
+						1597639879.108, -- [4]
+						421335, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6407,47 +9952,47 @@ DeathGraphsDBCurrent = {
 					}, -- [14]
 					{
 						false, -- [1]
-						143924, -- [2]
-						3597, -- [3]
-						1597294884.761, -- [4]
-						563153, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						774, -- [2]
+						11177, -- [3]
+						1597639879.108, -- [4]
+						432512, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						287286, -- [2]
-						14647, -- [3]
-						1597294885.523, -- [4]
-						575000, -- [5]
-						"Royalty", -- [6]
+						48438, -- [2]
+						6397, -- [3]
+						1597639879.18, -- [4]
+						438909, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37266, -- [3]
-						1597294886.606, -- [4]
-						537734, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						6133, -- [3]
+						1597639879.783, -- [4]
+						445042, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						77489, -- [2]
-						14988, -- [3]
-						1597294886.634, -- [4]
-						552722, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						774, -- [2]
+						6855, -- [3]
+						1597639880.197, -- [4]
+						451897, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6455,46 +10000,46 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597294886.789, -- [4]
-						575000, -- [5]
-						"Toshpal", -- [6]
+						48438, -- [2]
+						5318, -- [3]
+						1597639880.361, -- [4]
+						457215, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37265, -- [3]
-						1597294888.6, -- [4]
-						537735, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						false, -- [1]
+						274369, -- [2]
+						5020, -- [3]
+						1597639880.414, -- [4]
+						457215, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
-						false, -- [1]
-						270117, -- [2]
-						12635, -- [3]
-						1597294888.616, -- [4]
-						550370, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						319346, -- [2]
+						38418, -- [3]
+						1597639880.414, -- [4]
+						423817, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						5020, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1459, -- [3]
-						1597294889.595, -- [4]
-						551829, -- [5]
+						77489, -- [2]
+						53906, -- [3]
+						1597639880.438, -- [4]
+						477723, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6503,11 +10048,11 @@ DeathGraphsDBCurrent = {
 					}, -- [22]
 					{
 						false, -- [1]
-						77489, -- [2]
-						7781, -- [3]
-						1597294889.635, -- [4]
-						559610, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						287286, -- [2]
+						15990, -- [3]
+						1597639880.736, -- [4]
+						493712, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6515,11 +10060,11 @@ DeathGraphsDBCurrent = {
 					}, -- [23]
 					{
 						true, -- [1]
-						319346, -- [2]
-						37266, -- [3]
-						1597294890.595, -- [4]
-						522344, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						309978, -- [2]
+						170048, -- [3]
+						1597639880.781, -- [4]
+						323664, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -6527,46 +10072,46 @@ DeathGraphsDBCurrent = {
 					}, -- [24]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1655, -- [3]
-						1597294890.806, -- [4]
-						523999, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						48438, -- [2]
+						10182, -- [3]
+						1597639880.931, -- [4]
+						333846, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1255, -- [3]
-						1597294892.015, -- [4]
-						525254, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						207386, -- [2]
+						2806, -- [3]
+						1597639881.079, -- [4]
+						336652, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37266, -- [3]
-						1597294892.592, -- [4]
-						487988, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						4865, -- [3]
+						1597639881.501, -- [4]
+						341517, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
 						false, -- [1]
-						77489, -- [2]
-						7781, -- [3]
-						1597294892.624, -- [4]
-						495769, -- [5]
+						143924, -- [2]
+						15900, -- [3]
+						1597639881.551, -- [4]
+						357417, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6574,48 +10119,48 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [28]
 					{
-						false, -- [1]
-						143924, -- [2]
-						1206, -- [3]
-						1597294893.351, -- [4]
-						496975, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						179258, -- [3]
+						1597639881.781, -- [4]
+						178159, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
+						false, -- [1]
+						48438, -- [2]
+						4639, -- [3]
+						1597639882.068, -- [4]
+						182798, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
 						true, -- [1]
 						319346, -- [2]
-						37266, -- [3]
-						1597294894.598, -- [4]
-						459709, -- [5]
+						36818, -- [3]
+						1597639882.407, -- [4]
+						145980, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						77489, -- [2]
-						7781, -- [3]
-						1597294895.626, -- [4]
-						467490, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [31]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1205, -- [3]
-						1597294895.658, -- [4]
-						468695, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						48438, -- [2]
+						4412, -- [3]
+						1597639882.642, -- [4]
+						150391, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -6630,95 +10175,899 @@ DeathGraphsDBCurrent = {
 						"Tianarrae-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
-				["class"] = "PRIEST",
-				["timestring"] = "9m 2s",
-				["time"] = 1597294896.245,
+			}, -- [6]
+			{
+				["maxhealth"] = 517640,
+				["timeofdeath"] = 492.4329999999609,
+				["name"] = "Jarrbek-Kil'jaeden",
+				["time"] = 1597639882.855,
+				["class"] = "SHAMAN",
+				["timestring"] = "8m 12s",
+				["events"] = {
+					{
+						true, -- [1]
+						309978, -- [2]
+						33363, -- [3]
+						1597639872.797, -- [4]
+						393061, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						313162, -- [2]
+						5956, -- [3]
+						1597639873.432, -- [4]
+						399017, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37687, -- [3]
+						1597639874.003, -- [4]
+						361330, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						313162, -- [2]
+						13222, -- [3]
+						1597639874.163, -- [4]
+						374552, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						6718, -- [3]
+						1597639874.611, -- [4]
+						381270, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						309978, -- [2]
+						66724, -- [3]
+						1597639874.794, -- [4]
+						314546, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						270117, -- [2]
+						16272, -- [3]
+						1597639874.824, -- [4]
+						330818, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						313162, -- [2]
+						13222, -- [3]
+						1597639874.909, -- [4]
+						344040, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						61295, -- [2]
+						60420, -- [3]
+						1597639875.258, -- [4]
+						404460, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						313162, -- [2]
+						13222, -- [3]
+						1597639875.65, -- [4]
+						417682, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37687, -- [3]
+						1597639876.015, -- [4]
+						379995, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						313162, -- [2]
+						13222, -- [3]
+						1597639876.421, -- [4]
+						393217, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						313162, -- [2]
+						13223, -- [3]
+						1597639877.164, -- [4]
+						406440, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						61295, -- [2]
+						6436, -- [3]
+						1597639877.581, -- [4]
+						412876, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						313162, -- [2]
+						13223, -- [3]
+						1597639877.93, -- [4]
+						426099, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37687, -- [3]
+						1597639878.001, -- [4]
+						388412, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						296212, -- [2]
+						30219, -- [3]
+						1597639878.001, -- [4]
+						418631, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						313162, -- [2]
+						13222, -- [3]
+						1597639878.691, -- [4]
+						431853, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						313162, -- [2]
+						5956, -- [3]
+						1597639878.947, -- [4]
+						437809, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						61295, -- [2]
+						6458, -- [3]
+						1597639879.901, -- [4]
+						444267, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37687, -- [3]
+						1597639880, -- [4]
+						406580, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						296212, -- [2]
+						30219, -- [3]
+						1597639880, -- [4]
+						436799, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						315161, -- [2]
+						16337, -- [3]
+						1597639880.629, -- [4]
+						420462, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						4, -- [1]
+						315161, -- [2]
+						1, -- [3]
+						1597639880.629, -- [4]
+						420462, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						309978, -- [2]
+						166811, -- [3]
+						1597639880.781, -- [4]
+						253651, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						315161, -- [2]
+						18787, -- [3]
+						1597639881.628, -- [4]
+						234864, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						315161, -- [2]
+						2, -- [3]
+						1597639881.628, -- [4]
+						234864, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						270117, -- [2]
+						36124, -- [3]
+						1597639881.64, -- [4]
+						270988, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						309978, -- [2]
+						183492, -- [3]
+						1597639881.802, -- [4]
+						87496, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37687, -- [3]
+						1597639882.012, -- [4]
+						49809, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						61295, -- [2]
+						9233, -- [3]
+						1597639882.322, -- [4]
+						59042, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309978, -- [2]
+						190164, -- [3]
+						1597639882.855, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						131122, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						108271, -- [2]
+						1, -- [3]
+						1597639849.904, -- [4]
+						0, -- [5]
+						"Jarrbek-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+			}, -- [7]
+			{
+				["maxhealth"] = 525420,
+				["timeofdeath"] = 492.4329999999609,
+				["name"] = "Genoqt-Tichondrius",
+				["time"] = 1597639882.855,
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "8m 12s",
+				["events"] = {
+					{
+						true, -- [1]
+						309978, -- [2]
+						67327, -- [3]
+						1597639875.766, -- [4]
+						351565, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						309978, -- [2]
+						77741, -- [3]
+						1597639876.759, -- [4]
+						273824, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5998, -- [3]
+						1597639876.858, -- [4]
+						279822, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11664, -- [3]
+						1597639876.858, -- [4]
+						291486, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5787, -- [3]
+						1597639877.44, -- [4]
+						297273, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						319346, -- [2]
+						28957, -- [3]
+						1597639877.542, -- [4]
+						268316, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						309978, -- [2]
+						89720, -- [3]
+						1597639877.778, -- [4]
+						178596, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5579, -- [3]
+						1597639878.026, -- [4]
+						184175, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						1064, -- [2]
+						24344, -- [3]
+						1597639878.354, -- [4]
+						208519, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						61295, -- [2]
+						68515, -- [3]
+						1597639878.354, -- [4]
+						277034, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						296184, -- [2]
+						13056, -- [3]
+						1597639878.399, -- [4]
+						290090, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5375, -- [3]
+						1597639878.608, -- [4]
+						295465, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						81269, -- [2]
+						8124, -- [3]
+						1597639879.049, -- [4]
+						303589, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						11564, -- [3]
+						1597639879.18, -- [4]
+						315153, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						279187, -- [2]
+						21521, -- [3]
+						1597639879.538, -- [4]
+						315153, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319346, -- [2]
+						30422, -- [3]
+						1597639879.538, -- [4]
+						306252, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						21521, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5543, -- [3]
+						1597639879.783, -- [4]
+						311795, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5318, -- [3]
+						1597639880.361, -- [4]
+						317113, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						61295, -- [2]
+						7300, -- [3]
+						1597639880.686, -- [4]
+						324413, -- [5]
+						"Ancestràl-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						287286, -- [2]
+						16037, -- [3]
+						1597639880.736, -- [4]
+						340450, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						309978, -- [2]
+						128171, -- [3]
+						1597639880.781, -- [4]
+						212279, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						270117, -- [2]
+						18811, -- [3]
+						1597639880.815, -- [4]
+						231090, -- [5]
+						"Genoqt-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5091, -- [3]
+						1597639880.931, -- [4]
+						236181, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						207386, -- [2]
+						2806, -- [3]
+						1597639881.079, -- [4]
+						238987, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						9730, -- [3]
+						1597639881.501, -- [4]
+						248717, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						319346, -- [2]
+						28977, -- [3]
+						1597639881.551, -- [4]
+						219740, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						225311, -- [2]
+						20150, -- [3]
+						1597639881.64, -- [4]
+						239890, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12336, -- [3]
+						1597639881.684, -- [4]
+						252226, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						309978, -- [2]
+						141082, -- [3]
+						1597639881.781, -- [4]
+						111144, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4640, -- [3]
+						1597639882.068, -- [4]
+						115784, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4412, -- [3]
+						1597639882.642, -- [4]
+						120196, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309978, -- [2]
+						160600, -- [3]
+						1597639882.805, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						40404, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Genoqt-Tichondrius", -- [6]
+					}, -- [33]
+				},
 			}, -- [8]
 			{
-				["maxhealth"] = 574840,
-				["timeofdeath"] = 551.8850000000093,
-				["name"] = "Eldeek-Kil'jaeden",
+				["maxhealth"] = 575160,
+				["timeofdeath"] = 492.5339999999851,
+				["name"] = "Fierypower-Kil'jaeden",
+				["time"] = 1597639882.956,
+				["class"] = "WARLOCK",
+				["timestring"] = "8m 12s",
 				["events"] = {
 					{
-						true, -- [1]
-						319346, -- [2]
-						38628, -- [3]
-						1597294877.638, -- [4]
-						588313, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						32161, -- [7]
-						32, -- [8]
+						false, -- [1]
+						77220, -- [2]
+						2578, -- [3]
+						1597639878.2, -- [4]
+						617698, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						204883, -- [2]
-						27949, -- [3]
-						1597294878.642, -- [4]
-						616262, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						2986, -- [3]
+						1597639878.2, -- [4]
+						617698, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						287286, -- [2]
-						26788, -- [3]
-						1597294879.371, -- [4]
-						632320, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						319346, -- [2]
+						36676, -- [3]
+						1597639878.2, -- [4]
+						586586, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						5564, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38628, -- [3]
-						1597294879.63, -- [4]
-						593692, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						774, -- [2]
+						9027, -- [3]
+						1597639878.713, -- [4]
+						595613, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38628, -- [3]
-						1597294881.636, -- [4]
-						555064, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						274436, -- [2]
+						1055, -- [3]
+						1597639878.733, -- [4]
+						596668, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						77489, -- [2]
-						10891, -- [3]
-						1597294881.683, -- [4]
-						565955, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						2202, -- [3]
+						1597639880.232, -- [4]
+						596668, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						311201, -- [2]
-						16096, -- [3]
-						1597294881.911, -- [4]
-						582051, -- [5]
-						"Eldeek-Kil'jaeden", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						2159, -- [3]
+						1597639880.232, -- [4]
+						596668, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
@@ -6726,45 +11075,45 @@ DeathGraphsDBCurrent = {
 					{
 						true, -- [1]
 						319346, -- [2]
-						38628, -- [3]
-						1597294883.645, -- [4]
-						543423, -- [5]
+						38531, -- [3]
+						1597639880.232, -- [4]
+						562498, -- [5]
 						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
+						4361, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						77489, -- [2]
-						10891, -- [3]
-						1597294884.69, -- [4]
-						554314, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						269238, -- [2]
+						22204, -- [3]
+						1597639880.232, -- [4]
+						584702, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38628, -- [3]
-						1597294885.645, -- [4]
-						515686, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						774, -- [2]
+						8652, -- [3]
+						1597639880.414, -- [4]
+						593354, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						48438, -- [2]
-						4584, -- [3]
-						1597294887.063, -- [4]
-						520270, -- [5]
+						274436, -- [2]
+						1055, -- [3]
+						1597639880.414, -- [4]
+						594409, -- [5]
 						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -6772,294 +11121,294 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [11]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38627, -- [3]
-						1597294887.648, -- [4]
-						481643, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						287286, -- [2]
+						15702, -- [3]
+						1597639880.736, -- [4]
+						610111, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
 						false, -- [1]
-						48438, -- [2]
-						4424, -- [3]
-						1597294887.648, -- [4]
-						486067, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						13381, -- [3]
+						1597639880.781, -- [4]
+						610111, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						48438, -- [2]
-						4274, -- [3]
-						1597294888.198, -- [4]
-						490341, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						1167, -- [3]
+						1597639880.781, -- [4]
+						610111, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						false, -- [1]
-						53365, -- [2]
-						37940, -- [3]
-						1597294888.381, -- [4]
-						528281, -- [5]
-						"Eldeek-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						309978, -- [2]
+						170547, -- [3]
+						1597639880.781, -- [4]
+						454112, -- [5]
+						"[*] Paranoia", -- [6]
+						14548, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						48438, -- [2]
-						4125, -- [3]
-						1597294888.75, -- [4]
-						532406, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1597639880.781, -- [4]
+						454112, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						48438, -- [2]
-						3975, -- [3]
-						1597294889.307, -- [4]
-						536381, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						8935, -- [3]
+						1597639881.781, -- [4]
+						454112, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38627, -- [3]
-						1597294889.635, -- [4]
-						497754, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						false, -- [1]
+						108366, -- [2]
+						3233, -- [3]
+						1597639881.781, -- [4]
+						454112, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
-						false, -- [1]
-						48438, -- [2]
-						3824, -- [3]
-						1597294889.861, -- [4]
-						501578, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						309978, -- [2]
+						187602, -- [3]
+						1597639881.781, -- [4]
+						278678, -- [5]
+						"[*] Paranoia", -- [6]
+						12168, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						48438, -- [2]
-						7344, -- [3]
-						1597294890.419, -- [4]
-						508922, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1597639881.781, -- [4]
+						278678, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						48438, -- [2]
-						3523, -- [3]
-						1597294890.976, -- [4]
-						512445, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						2786, -- [3]
+						1597639882.199, -- [4]
+						278678, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						false, -- [1]
-						48438, -- [2]
-						3373, -- [3]
-						1597294891.527, -- [4]
-						515818, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						319346, -- [2]
+						38531, -- [3]
+						1597639882.199, -- [4]
+						242933, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						2786, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
-						true, -- [1]
-						319346, -- [2]
-						38628, -- [3]
-						1597294891.628, -- [4]
-						477190, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						false, -- [1]
+						77220, -- [2]
+						9927, -- [3]
+						1597639882.771, -- [4]
+						242933, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						48438, -- [2]
-						3223, -- [3]
-						1597294892.082, -- [4]
-						480413, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						249, -- [3]
+						1597639882.771, -- [4]
+						242933, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
-						false, -- [1]
-						48438, -- [2]
-						3072, -- [3]
-						1597294892.632, -- [4]
-						483485, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						309978, -- [2]
+						204657, -- [3]
+						1597639882.771, -- [4]
+						48452, -- [5]
+						"[*] Paranoia", -- [6]
+						10176, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
-						48438, -- [2]
-						5846, -- [3]
-						1597294893.185, -- [4]
-						489331, -- [5]
-						"Leafyo", -- [6]
+						108366, -- [2]
+						0, -- [3]
+						1597639882.771, -- [4]
+						48452, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						269238, -- [2]
+						22203, -- [3]
+						1597639882.855, -- [4]
+						70655, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						269238, -- [2]
+						22203, -- [3]
+						1597639882.881, -- [4]
+						92858, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						48438, -- [2]
-						1440, -- [3]
-						1597294893.464, -- [4]
-						490771, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						287255, -- [2]
-						4299, -- [3]
-						1597294893.464, -- [4]
-						495070, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
 					}, -- [28]
 					{
-						true, -- [1]
-						319346, -- [2]
-						37685, -- [3]
-						1597294893.636, -- [4]
-						457385, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						false, -- [1]
+						269238, -- [2]
+						44407, -- [3]
+						1597639882.881, -- [4]
+						137265, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						false, -- [1]
-						48438, -- [2]
-						3932, -- [3]
-						1597294905.068, -- [4]
-						461317, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1597639882.905, -- [4]
+						137265, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						48438, -- [2]
-						7650, -- [3]
-						1597294905.533, -- [4]
-						468967, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						12556, -- [3]
+						1597639882.905, -- [4]
+						137265, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						316971, -- [2]
-						591397, -- [3]
-						1597294905.687, -- [4]
+						309991, -- [2]
+						294650, -- [3]
+						1597639882.956, -- [4]
 						1, -- [5]
-						"Titanic Countermeasure", -- [6]
-						nil, -- [7]
-						64, -- [8]
+						"N'Zoth the Corruptor", -- [6]
+						12556, -- [7]
+						32, -- [8]
 						false, -- [9]
-						122430, -- [10]
+						144829, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						48792, -- [2]
+						104773, -- [2]
 						1, -- [3]
-						1597294810.468, -- [4]
+						1597639869.255, -- [4]
 						0, -- [5]
-						"Eldeek-Kil'jaeden", -- [6]
+						"Fierypower-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "9m 11s",
-				["time"] = 1597294905.707,
 			}, -- [9]
 			{
-				["maxhealth"] = 537100,
-				["timeofdeath"] = 563.4820000000764,
-				["name"] = "Bogarn-Kil'jaeden",
+				["maxhealth"] = 522260,
+				["timeofdeath"] = 493.2020000000484,
+				["name"] = "Splendiferus-Kil'jaeden",
+				["time"] = 1597639883.624,
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "8m 13s",
 				["events"] = {
 					{
-						false, -- [1]
-						301308, -- [2]
-						147360, -- [3]
-						1597294907.647, -- [4]
-						340727, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						27553, -- [3]
+						1597639868.215, -- [4]
+						546947, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						81269, -- [2]
-						5286, -- [3]
-						1597294907.647, -- [4]
-						346013, -- [5]
-						"Leafyo", -- [6]
+						225311, -- [2]
+						34237, -- [3]
+						1597639868.45, -- [4]
+						574500, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -7067,434 +11416,22 @@ DeathGraphsDBCurrent = {
 					}, -- [2]
 					{
 						false, -- [1]
-						8936, -- [2]
-						43819, -- [3]
-						1597294908.059, -- [4]
-						389832, -- [5]
-						"Leafyo", -- [6]
+						77489, -- [2]
+						11152, -- [3]
+						1597639869.823, -- [4]
+						574500, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [3]
 					{
-						false, -- [1]
-						774, -- [2]
-						7272, -- [3]
-						1597294908.197, -- [4]
-						397104, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						145109, -- [2]
-						17724, -- [3]
-						1597294908.682, -- [4]
-						414828, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						296330, -- [2]
-						29540, -- [3]
-						1597294908.884, -- [4]
-						444368, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						8936, -- [2]
-						7008, -- [3]
-						1597294909.059, -- [4]
-						451376, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						296330, -- [2]
-						29540, -- [3]
-						1597294909.599, -- [4]
-						480916, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						774, -- [2]
-						6953, -- [3]
-						1597294909.661, -- [4]
-						487869, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						207386, -- [2]
-						1931, -- [3]
-						1597294909.677, -- [4]
-						489800, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						8936, -- [2]
-						6699, -- [3]
-						1597294910.034, -- [4]
-						496499, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						8936, -- [2]
-						7008, -- [3]
-						1597294911.02, -- [4]
-						503507, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						774, -- [2]
-						7272, -- [3]
-						1597294911.138, -- [4]
-						510779, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2020, -- [3]
-						1597294911.671, -- [4]
-						512799, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						8936, -- [2]
-						7008, -- [3]
-						1597294912.002, -- [4]
-						519807, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						81269, -- [2]
-						6546, -- [3]
-						1597294912.235, -- [4]
-						526353, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						774, -- [2]
-						7272, -- [3]
-						1597294912.623, -- [4]
-						533625, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						8936, -- [2]
-						7008, -- [3]
-						1597294912.996, -- [4]
-						540633, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						207386, -- [2]
-						4040, -- [3]
-						1597294913.677, -- [4]
-						544673, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						145109, -- [2]
-						17724, -- [3]
-						1597294913.677, -- [4]
-						562397, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						8936, -- [2]
-						7008, -- [3]
-						1597294913.963, -- [4]
-						569405, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						774, -- [2]
-						7272, -- [3]
-						1597294914.075, -- [4]
-						576677, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						81269, -- [2]
-						6545, -- [3]
-						1597294914.143, -- [4]
-						583222, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						8936, -- [2]
-						7008, -- [3]
-						1597294914.935, -- [4]
-						590230, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						774, -- [2]
-						7272, -- [3]
-						1597294915.542, -- [4]
-						590800, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2021, -- [3]
-						1597294915.667, -- [4]
-						590800, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						8936, -- [2]
-						3504, -- [3]
-						1597294915.914, -- [4]
-						590800, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						774, -- [2]
-						4873, -- [3]
-						1597294916.53, -- [4]
-						590800, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						8936, -- [2]
-						6334, -- [3]
-						1597294916.893, -- [4]
-						590800, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						81269, -- [2]
-						5916, -- [3]
-						1597294917.186, -- [4]
-						590800, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						318974, -- [2]
-						325260, -- [3]
-						1597294917.265, -- [4]
-						265540, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						318974, -- [2]
-						325259, -- [3]
-						1597294917.304, -- [4]
-						1, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						59719, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						22812, -- [2]
-						1, -- [3]
-						1597294872.582, -- [4]
-						0, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-				["class"] = "DRUID",
-				["timestring"] = "9m 23s",
-				["time"] = 1597294917.304,
-			}, -- [10]
-		},
-		["bossname"] = "N'Zoth the Corruptor",
-		["bossicon"] = {
-			0.75, -- [1]
-			1, -- [2]
-			0.5, -- [3]
-			0.75, -- [4]
-			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
-		},
-		["date"] = 1258417.705,
-		["timeelapsed"] = 619.0080000001471,
-	}, -- [1]
-	{
-		["deaths"] = {
-			{
-				["maxhealth"] = 518000,
-				["timeofdeath"] = 301.7439999999479,
-				["name"] = "Royalty",
-				["events"] = {
-					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1597293744.479, -- [4]
-						0, -- [5]
-						"Leafyo", -- [6]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						217, -- [3]
-						1597293730.05, -- [4]
-						447904, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
 						true, -- [1]
 						319346, -- [2]
-						29697, -- [3]
-						1597293730.413, -- [4]
-						418207, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						319346, -- [2]
-						37633, -- [3]
-						1597293732.4, -- [4]
-						380574, -- [5]
+						28588, -- [3]
+						1597639870.216, -- [4]
+						545912, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -7502,35 +11439,35 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						143924, -- [2]
-						739, -- [3]
-						1597293732.889, -- [4]
-						381313, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						316542, -- [2]
+						1, -- [3]
+						1597639870.791, -- [4]
+						545912, -- [5]
+						"[*] Paranoia", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [5]
 					{
-						false, -- [1]
-						143924, -- [2]
-						3602, -- [3]
-						1597293734.098, -- [4]
-						384915, -- [5]
-						"Royalty", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						12654, -- [3]
+						1597639871.812, -- [4]
+						533258, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						true, -- [1]
 						319346, -- [2]
-						37633, -- [3]
-						1597293734.405, -- [4]
-						347282, -- [5]
+						28589, -- [3]
+						1597639872.196, -- [4]
+						504669, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
@@ -7538,2186 +11475,156 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [7]
 					{
-						false, -- [1]
-						143924, -- [2]
-						255, -- [3]
-						1597293735.318, -- [4]
-						347537, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3903, -- [3]
-						1597293736.309, -- [4]
-						351440, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
 						true, -- [1]
-						319346, -- [2]
-						37482, -- [3]
-						1597293736.407, -- [4]
-						313958, -- [5]
-						"[*] Infinity's Toll", -- [6]
+						309978, -- [2]
+						25308, -- [3]
+						1597639872.797, -- [4]
+						479361, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [10]
+					}, -- [8]
 					{
 						false, -- [1]
 						270117, -- [2]
-						12134, -- [3]
-						1597293736.44, -- [4]
-						326092, -- [5]
-						"Royalty", -- [6]
+						64458, -- [3]
+						1597639872.817, -- [4]
+						543819, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [11]
+					}, -- [9]
 					{
 						false, -- [1]
-						143924, -- [2]
-						255, -- [3]
-						1597293736.547, -- [4]
-						326347, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3607, -- [3]
-						1597293736.888, -- [4]
-						329954, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						4, -- [1]
-						311392, -- [2]
-						1, -- [3]
-						1597293737.002, -- [4]
-						329954, -- [5]
-						"Mindgrasp Stalker", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						269238, -- [2]
-						34510, -- [3]
-						1597293737.169, -- [4]
-						364464, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3479, -- [3]
-						1597293737.461, -- [4]
-						367943, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						269238, -- [2]
-						34510, -- [3]
-						1597293737.619, -- [4]
-						402453, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						143924, -- [2]
-						312, -- [3]
-						1597293737.765, -- [4]
-						402765, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						48438, -- [2]
-						6702, -- [3]
-						1597293738.03, -- [4]
-						409467, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						319346, -- [2]
-						37330, -- [3]
-						1597293738.423, -- [4]
-						372137, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3223, -- [3]
-						1597293738.733, -- [4]
-						375360, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						318768, -- [2]
-						165632, -- [3]
-						1597293738.898, -- [4]
-						209728, -- [5]
-						"Psychophage", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						141, -- [3]
-						1597293738.997, -- [4]
-						209869, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						48438, -- [2]
-						6189, -- [3]
-						1597293739.204, -- [4]
-						216058, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						48438, -- [2]
-						5926, -- [3]
-						1597293739.792, -- [4]
-						221984, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						228, -- [3]
-						1597293740.195, -- [4]
-						222212, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						48438, -- [2]
-						2837, -- [3]
-						1597293740.378, -- [4]
-						225049, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						319346, -- [2]
-						37331, -- [3]
-						1597293740.414, -- [4]
-						187718, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						48438, -- [2]
-						2710, -- [3]
-						1597293740.955, -- [4]
-						190428, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						143924, -- [2]
-						84, -- [3]
-						1597293741.412, -- [4]
-						190512, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						48438, -- [2]
-						2581, -- [3]
-						1597293741.526, -- [4]
-						193093, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1597293741.838, -- [4]
-						193093, -- [5]
-						"Corrupted Neuron", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						309991, -- [2]
-						285465, -- [3]
-						1597293741.858, -- [4]
-						1, -- [5]
-						"Corrupted Neuron", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						92372, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						498, -- [2]
-						1, -- [3]
-						1597293722.892, -- [4]
-						0, -- [5]
-						"Royalty", -- [6]
-					}, -- [34]
-				},
-				["class"] = "PALADIN",
-				["timestring"] = "5m 1s",
-				["time"] = 1597293741.858,
-			}, -- [1]
-			{
-				["maxhealth"] = 537100,
-				["timeofdeath"] = 400.9520000000484,
-				["name"] = "Bogarn-Kil'jaeden",
-				["events"] = {
-					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597293833.523, -- [4]
-						457703, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						25914, -- [2]
-						39030, -- [3]
-						1597293833.657, -- [4]
-						496733, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						145109, -- [2]
-						17724, -- [3]
-						1597293833.685, -- [4]
-						514457, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						139, -- [2]
-						6185, -- [3]
-						1597293833.748, -- [4]
-						520642, -- [5]
+						77489, -- [2]
+						11152, -- [3]
+						1597639872.843, -- [4]
+						554971, -- [5]
 						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [4]
+					}, -- [10]
 					{
 						false, -- [1]
 						295310, -- [2]
-						6595, -- [3]
-						1597293834.136, -- [4]
-						527236, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
+						9328, -- [3]
+						1597639872.946, -- [4]
+						564299, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [5]
+					}, -- [11]
 					{
 						true, -- [1]
 						319346, -- [2]
-						31622, -- [3]
-						1597293834.557, -- [4]
-						495614, -- [5]
+						28589, -- [3]
+						1597639874.186, -- [4]
+						535710, -- [5]
 						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [6]
+					}, -- [12]
 					{
 						true, -- [1]
-						319348, -- [2]
-						88937, -- [3]
-						1597293835.333, -- [4]
-						406677, -- [5]
-						"N'Zoth the Corruptor", -- [6]
+						309978, -- [2]
+						50616, -- [3]
+						1597639874.794, -- [4]
+						485094, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						319347, -- [2]
-						181403, -- [3]
-						1597293835.379, -- [4]
-						225274, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [8]
+					}, -- [13]
 					{
 						false, -- [1]
 						295310, -- [2]
-						6594, -- [3]
-						1597293836.137, -- [4]
-						231868, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						139, -- [2]
-						5917, -- [3]
-						1597293836.227, -- [4]
-						237785, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597293836.276, -- [4]
-						250361, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						77489, -- [2]
-						9489, -- [3]
-						1597293836.312, -- [4]
-						259850, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12576, -- [3]
-						1597293836.332, -- [4]
-						272426, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						319346, -- [2]
-						39527, -- [3]
-						1597293836.563, -- [4]
-						232899, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						774, -- [2]
-						9650, -- [3]
-						1597293836.673, -- [4]
-						242549, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						274436, -- [2]
-						971, -- [3]
-						1597293836.691, -- [4]
-						243520, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						296184, -- [2]
-						11664, -- [3]
-						1597293836.691, -- [4]
-						255184, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						296184, -- [2]
-						11664, -- [3]
-						1597293836.713, -- [4]
-						266848, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						287286, -- [2]
-						46220, -- [3]
-						1597293836.834, -- [4]
-						313068, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597293836.88, -- [4]
-						325404, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						774, -- [2]
-						11448, -- [3]
-						1597293838.332, -- [4]
-						336852, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						274436, -- [2]
-						928, -- [3]
-						1597293838.349, -- [4]
-						337780, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						319346, -- [2]
-						39527, -- [3]
-						1597293838.571, -- [4]
-						298253, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						145109, -- [2]
-						17724, -- [3]
-						1597293838.685, -- [4]
-						315977, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77489, -- [2]
-						9191, -- [3]
-						1597293839.31, -- [4]
-						325168, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						287286, -- [2]
-						18883, -- [3]
-						1597293839.393, -- [4]
-						344051, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						774, -- [2]
-						11908, -- [3]
-						1597293839.989, -- [4]
-						355959, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						274436, -- [2]
-						929, -- [3]
-						1597293840.009, -- [4]
-						356888, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						319346, -- [2]
-						39528, -- [3]
-						1597293840.567, -- [4]
-						317360, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						287286, -- [2]
-						37439, -- [3]
-						1597293840.844, -- [4]
-						354799, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						287286, -- [2]
-						12555, -- [3]
-						1597293840.907, -- [4]
-						367354, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						318976, -- [2]
-						418526, -- [3]
-						1597293841.053, -- [4]
-						1, -- [5]
-						"[*] Stupefying Glare", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						51172, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						22812, -- [2]
-						1, -- [3]
-						1597293822.674, -- [4]
-						0, -- [5]
-						"Bogarn-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-				["class"] = "DRUID",
-				["timestring"] = "6m 40s",
-				["time"] = 1597293841.066,
-			}, -- [2]
-			{
-				["maxhealth"] = 574840,
-				["timeofdeath"] = 401.4660000000149,
-				["name"] = "Eldeek-Kil'jaeden",
-				["events"] = {
-					{
-						false, -- [1]
-						774, -- [2]
-						13510, -- [3]
-						1597293831.557, -- [4]
-						549522, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3948, -- [3]
-						1597293831.824, -- [4]
-						553470, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						319346, -- [2]
-						39503, -- [3]
-						1597293831.933, -- [4]
-						513967, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						48438, -- [2]
-						7506, -- [3]
-						1597293832.365, -- [4]
-						521473, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						48438, -- [2]
-						740, -- [3]
-						1597293832.469, -- [4]
-						522213, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						287255, -- [2]
-						5872, -- [3]
-						1597293832.488, -- [4]
-						528085, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						774, -- [2]
-						12072, -- [3]
-						1597293833.222, -- [4]
-						540157, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						274436, -- [2]
-						971, -- [3]
-						1597293833.222, -- [4]
-						541128, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						90361, -- [2]
-						31329, -- [3]
-						1597293833.297, -- [4]
-						572457, -- [5]
-						"Spookster <Kerryhunts-Kil'jaeden>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						319348, -- [2]
-						88882, -- [3]
-						1597293833.336, -- [4]
-						483575, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						139, -- [2]
-						6185, -- [3]
-						1597293833.748, -- [4]
-						489760, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						319346, -- [2]
-						39503, -- [3]
-						1597293833.941, -- [4]
-						450257, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						287286, -- [2]
-						27221, -- [3]
-						1597293834.001, -- [4]
-						477478, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						77489, -- [2]
-						10211, -- [3]
-						1597293834.449, -- [4]
-						487689, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						774, -- [2]
-						9650, -- [3]
-						1597293834.88, -- [4]
-						497339, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						274436, -- [2]
-						971, -- [3]
-						1597293834.88, -- [4]
-						498310, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						319348, -- [2]
-						92371, -- [3]
-						1597293835.348, -- [4]
-						405939, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						319346, -- [2]
-						41054, -- [3]
-						1597293835.944, -- [4]
-						364885, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						139, -- [2]
-						11834, -- [3]
-						1597293836.227, -- [4]
-						376719, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						774, -- [2]
-						9651, -- [3]
-						1597293836.535, -- [4]
-						386370, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						274436, -- [2]
-						971, -- [3]
-						1597293836.535, -- [4]
-						387341, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						77489, -- [2]
-						10211, -- [3]
-						1597293837.458, -- [4]
-						397552, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						319346, -- [2]
-						41054, -- [3]
-						1597293837.938, -- [4]
-						356498, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						774, -- [2]
-						9226, -- [3]
-						1597293838.189, -- [4]
-						365724, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						274436, -- [2]
-						1856, -- [3]
-						1597293838.189, -- [4]
-						367580, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						774, -- [2]
-						11908, -- [3]
-						1597293839.857, -- [4]
-						379488, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						274436, -- [2]
-						928, -- [3]
-						1597293839.857, -- [4]
-						380416, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						319346, -- [2]
-						41054, -- [3]
-						1597293839.931, -- [4]
-						339362, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						287286, -- [2]
-						12289, -- [3]
-						1597293840.907, -- [4]
-						351651, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						774, -- [2]
-						11908, -- [3]
-						1597293841.501, -- [4]
-						363559, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						274436, -- [2]
-						928, -- [3]
-						1597293841.52, -- [4]
-						364487, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						318976, -- [2]
-						434688, -- [3]
-						1597293841.562, -- [4]
-						1, -- [5]
-						"[*] Stupefying Glare", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						70201, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						48792, -- [2]
-						1, -- [3]
-						1597293753.668, -- [4]
-						0, -- [5]
-						"Eldeek-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "6m 41s",
-				["time"] = 1597293841.58,
-			}, -- [3]
-			{
-				["maxhealth"] = 517420,
-				["timeofdeath"] = 474.6369999998715,
-				["name"] = "Khodiie-Kil'jaeden",
-				["events"] = {
-					{
-						false, -- [1]
-						157982, -- [2]
-						17297, -- [3]
-						1597293906.177, -- [4]
-						402428, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						319348, -- [2]
-						84438, -- [3]
-						1597293906.768, -- [4]
-						317990, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						270117, -- [2]
-						13743, -- [3]
-						1597293906.79, -- [4]
-						331733, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						77489, -- [2]
-						18454, -- [3]
-						1597293907.133, -- [4]
-						350187, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						157982, -- [2]
-						17296, -- [3]
-						1597293907.17, -- [4]
-						367483, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						157982, -- [2]
-						1519, -- [3]
-						1597293907.22, -- [4]
-						369002, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						319346, -- [2]
-						37227, -- [3]
-						1597293908.066, -- [4]
-						332410, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						157982, -- [2]
-						17296, -- [3]
-						1597293908.14, -- [4]
-						349706, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						287286, -- [2]
-						64323, -- [3]
-						1597293908.14, -- [4]
-						414029, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						319348, -- [2]
-						83761, -- [3]
-						1597293908.788, -- [4]
-						330268, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						157982, -- [2]
-						17297, -- [3]
-						1597293909.119, -- [4]
-						347565, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						157982, -- [2]
-						2531, -- [3]
-						1597293909.216, -- [4]
-						350096, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						319346, -- [2]
-						37076, -- [3]
-						1597293910.068, -- [4]
-						313020, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						77489, -- [2]
-						18454, -- [3]
-						1597293910.145, -- [4]
-						332108, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						9328, -- [3]
+						1597639874.942, -- [4]
+						494422, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						false, -- [1]
-						243241, -- [2]
-						11040, -- [3]
-						1597293910.397, -- [4]
-						343148, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						28589, -- [3]
+						1597639876.2, -- [4]
+						465833, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
-					{
-						true, -- [1]
-						319348, -- [2]
-						83422, -- [3]
-						1597293910.781, -- [4]
-						259726, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						287286, -- [2]
-						53758, -- [3]
-						1597293911.133, -- [4]
-						313484, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597293911.181, -- [4]
-						325820, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						157982, -- [2]
-						4602, -- [3]
-						1597293911.21, -- [4]
-						330422, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						319346, -- [2]
-						37076, -- [3]
-						1597293912.071, -- [4]
-						293346, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						157982, -- [2]
-						4814, -- [3]
-						1597293913.224, -- [4]
-						298793, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						298318, -- [2]
-						31902, -- [3]
-						1597293913.244, -- [4]
-						330695, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						516, -- [3]
-						1597293913.319, -- [4]
-						331211, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						77489, -- [2]
-						3773, -- [3]
-						1597293913.422, -- [4]
-						334984, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						4, -- [1]
-						309991, -- [2]
-						1, -- [3]
-						1597293913.716, -- [4]
-						334984, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						309991, -- [2]
-						286899, -- [3]
-						1597293913.716, -- [4]
-						48085, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						270117, -- [2]
-						13106, -- [3]
-						1597293913.716, -- [4]
-						61191, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						319346, -- [2]
-						37517, -- [3]
-						1597293914.072, -- [4]
-						23674, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						315161, -- [2]
-						16379, -- [3]
-						1597293914.489, -- [4]
-						7925, -- [5]
-						"Eye of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						4, -- [1]
-						315161, -- [2]
-						1, -- [3]
-						1597293914.489, -- [4]
-						7925, -- [5]
-						"Eye of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						599, -- [3]
-						1597293914.551, -- [4]
-						8524, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						309991, -- [2]
-						286899, -- [3]
-						1597293914.735, -- [4]
-						1, -- [5]
-						"N'Zoth the Corruptor", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						278375, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						118038, -- [2]
-						1, -- [3]
-						1597293736.097, -- [4]
-						0, -- [5]
-						"Khodiie-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-				["class"] = "WARRIOR",
-				["timestring"] = "7m 54s",
-				["time"] = 1597293914.751,
-			}, -- [4]
-			{
-				["maxhealth"] = 740540,
-				["timeofdeath"] = 502.7609999999404,
-				["name"] = "Kajio-Kil'jaeden",
-				["events"] = {
-					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1597293946.311, -- [4]
-						0, -- [5]
-						"Leafyo", -- [6]
-					}, -- [1]
-					{
-						true, -- [1]
-						319346, -- [2]
-						4135, -- [3]
-						1597293940.36, -- [4]
-						666070, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						23078, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						216521, -- [2]
-						1391, -- [3]
-						1597293940.448, -- [4]
-						667461, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						196608, -- [2]
-						2140, -- [3]
-						1597293940.448, -- [4]
-						669601, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						216521, -- [2]
-						10019, -- [3]
-						1597293940.516, -- [4]
-						679620, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						303380, -- [2]
-						15413, -- [3]
-						1597293940.516, -- [4]
-						695033, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						314585, -- [2]
-						64041, -- [3]
-						1597293940.608, -- [4]
-						695033, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						124255, -- [2]
-						16011, -- [3]
-						1597293940.608, -- [4]
-						679022, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						64041, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						139, -- [2]
-						16076, -- [3]
-						1597293940.608, -- [4]
-						695098, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						1, -- [2]
-						168042, -- [3]
-						1597293940.82, -- [4]
-						695098, -- [5]
-						"Thought Harvester", -- [6]
-						827505, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						1, -- [2]
-						100551, -- [3]
-						1597293940.82, -- [4]
-						695098, -- [5]
-						"Thought Harvester", -- [6]
-						619991, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						314585, -- [2]
-						76283, -- [3]
-						1597293940.82, -- [4]
-						695098, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						124255, -- [2]
-						140796, -- [3]
-						1597293941.119, -- [4]
-						209426, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						216521, -- [2]
-						4362, -- [3]
-						1597293941.18, -- [4]
-						213788, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						774, -- [2]
-						6710, -- [3]
-						1597293941.18, -- [4]
-						220498, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						124507, -- [2]
-						92914, -- [3]
-						1597293941.18, -- [4]
-						313412, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						274436, -- [2]
-						807, -- [3]
-						1597293941.18, -- [4]
-						314219, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						296184, -- [2]
-						11664, -- [3]
-						1597293941.203, -- [4]
-						325883, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						296184, -- [2]
-						11664, -- [3]
-						1597293941.218, -- [4]
-						337547, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						124255, -- [2]
-						140796, -- [3]
-						1597293941.619, -- [4]
-						196751, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						124255, -- [2]
-						140796, -- [3]
-						1597293942.121, -- [4]
-						55955, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						295842, -- [2]
-						21313, -- [3]
-						1597293942.357, -- [4]
-						55955, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						319346, -- [2]
-						28054, -- [3]
-						1597293942.357, -- [4]
-						55955, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						196608, -- [2]
-						4280, -- [3]
-						1597293942.428, -- [4]
-						60235, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						303380, -- [2]
-						7707, -- [3]
-						1597293942.523, -- [4]
-						67942, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						124255, -- [2]
-						120014, -- [3]
-						1597293942.605, -- [4]
-						1, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						52073, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						774, -- [2]
-						7019, -- [3]
-						1597293942.726, -- [4]
-						7020, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						274436, -- [2]
-						844, -- [3]
-						1597293942.726, -- [4]
-						7864, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						216521, -- [2]
-						7581, -- [3]
-						1597293942.741, -- [4]
-						15445, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						296184, -- [2]
-						11664, -- [3]
-						1597293942.741, -- [4]
-						27109, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						296184, -- [2]
-						8362, -- [3]
-						1597293942.755, -- [4]
-						35471, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						1, -- [2]
-						227107, -- [3]
-						1597293942.814, -- [4]
-						35471, -- [5]
-						"Thought Harvester", -- [6]
-						698281, -- [7]
-						1, -- [8]
-						false, -- [9]
-						191636, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						1, -- [2]
-						189533, -- [3]
-						1597293942.814, -- [4]
-						35471, -- [5]
-						"Thought Harvester", -- [6]
-						582753, -- [7]
-						1, -- [8]
-						false, -- [9]
-						154062, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						115203, -- [2]
-						1, -- [3]
-						1597293793.937, -- [4]
-						0, -- [5]
-						"Kajio-Kil'jaeden", -- [6]
-					}, -- [34]
-				},
-				["class"] = "MONK",
-				["timestring"] = "8m 22s",
-				["time"] = 1597293942.875,
-			}, -- [5]
-			{
-				["maxhealth"] = 525640,
-				["timeofdeath"] = 561.5419999998994,
-				["name"] = "Felside-Kil'jaeden",
-				["events"] = {
-					{
-						false, -- [1]
-						228532, -- [2]
-						57820, -- [3]
-						1597293993.548, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
 					{
 						false, -- [1]
 						295310, -- [2]
-						8297, -- [3]
-						1597293994.267, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						9328, -- [3]
+						1597639876.946, -- [4]
+						475161, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [2]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3660, -- [3]
+						1597639877.064, -- [4]
+						478821, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
 					{
 						false, -- [1]
 						311201, -- [2]
-						42760, -- [3]
-						1597293994.509, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						596, -- [2]
-						24351, -- [3]
-						1597293994.535, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						204883, -- [2]
-						58442, -- [3]
-						1597293994.535, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2207, -- [3]
-						1597293994.678, -- [4]
-						578200, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						77489, -- [2]
-						23201, -- [3]
-						1597293995.056, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						288999, -- [2]
-						2040, -- [3]
-						1597293995.234, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						81269, -- [2]
-						5725, -- [3]
-						1597293995.451, -- [4]
-						578200, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						288999, -- [2]
-						2040, -- [3]
-						1597293995.993, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						295310, -- [2]
-						7577, -- [3]
-						1597293996.495, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						288999, -- [2]
-						765, -- [3]
-						1597293996.785, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						228532, -- [2]
-						57820, -- [3]
-						1597293997.411, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2006, -- [3]
-						1597293997.472, -- [4]
-						578200, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						288999, -- [2]
-						2040, -- [3]
-						1597293997.553, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						120692, -- [2]
-						15181, -- [3]
-						1597293997.844, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						77489, -- [2]
-						18926, -- [3]
-						1597293998.073, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						288999, -- [2]
-						4080, -- [3]
-						1597293998.299, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						30812, -- [3]
+						1597639877.348, -- [4]
+						509633, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
-						false, -- [1]
-						295310, -- [2]
-						7577, -- [3]
-						1597293998.483, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						28589, -- [3]
+						1597639878.2, -- [4]
+						481044, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						596, -- [2]
-						52201, -- [3]
-						1597293998.839, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						143924, -- [2]
+						36581, -- [3]
+						1597639878.282, -- [4]
+						517625, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -9725,11 +11632,11 @@ DeathGraphsDBCurrent = {
 					}, -- [20]
 					{
 						false, -- [1]
-						207386, -- [2]
-						1917, -- [3]
-						1597293999.462, -- [4]
-						578200, -- [5]
-						"Leafyo", -- [6]
+						295310, -- [2]
+						9328, -- [3]
+						1597639878.947, -- [4]
+						526953, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -9737,1756 +11644,145 @@ DeathGraphsDBCurrent = {
 					}, -- [21]
 					{
 						false, -- [1]
-						288999, -- [2]
-						4080, -- [3]
-						1597293999.81, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						143924, -- [2]
+						19195, -- [3]
+						1597639879.517, -- [4]
+						546148, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						295310, -- [2]
-						7577, -- [3]
-						1597294000.491, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						28589, -- [3]
+						1597639880.232, -- [4]
+						517559, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						596, -- [2]
-						21651, -- [3]
-						1597294000.519, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						270117, -- [2]
+						80573, -- [3]
+						1597639880.258, -- [4]
+						574500, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
-						false, -- [1]
-						228532, -- [2]
-						57820, -- [3]
-						1597294000.89, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						126541, -- [3]
+						1597639880.781, -- [4]
+						447959, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						false, -- [1]
-						77489, -- [2]
-						30046, -- [3]
-						1597294001.054, -- [4]
-						578200, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [1]
+						309978, -- [2]
+						139194, -- [3]
+						1597639881.802, -- [4]
+						308765, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
-						207386, -- [2]
-						1917, -- [3]
-						1597294001.452, -- [4]
-						578200, -- [5]
-						"Leafyo", -- [6]
+						143924, -- [2]
+						21955, -- [3]
+						1597639881.95, -- [4]
+						330720, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						288999, -- [2]
-						765, -- [3]
-						1597294001.518, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						28589, -- [3]
+						1597639882.214, -- [4]
+						302131, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
-						false, -- [1]
-						269279, -- [2]
-						39953, -- [3]
-						1597294001.637, -- [4]
-						578200, -- [5]
-						"Felside-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						309978, -- [2]
+						151004, -- [3]
+						1597639882.855, -- [4]
+						151127, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						true, -- [1]
-						318974, -- [2]
-						226124, -- [3]
-						1597294001.637, -- [4]
-						392029, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						39953, -- [7]
-						32, -- [8]
+						false, -- [1]
+						143924, -- [2]
+						2276, -- [3]
+						1597639883.159, -- [4]
+						153403, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						318974, -- [2]
-						226124, -- [3]
-						1597294001.656, -- [4]
-						165905, -- [5]
-						"Voidspawn Annihilator", -- [6]
+						false, -- [1]
+						295310, -- [2]
+						11660, -- [3]
+						1597639883.289, -- [4]
+						165063, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						318974, -- [2]
-						226124, -- [3]
-						1597294001.656, -- [4]
+						318976, -- [2]
+						301021, -- [3]
+						1597639883.624, -- [4]
 						1, -- [5]
-						"Voidspawn Annihilator", -- [6]
+						"[*] Stupefying Glare", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						60219, -- [10]
+						135958, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
 						196555, -- [2]
 						1, -- [3]
-						1597293850.975, -- [4]
+						1597639804.461, -- [4]
 						0, -- [5]
-						"Felside-Kil'jaeden", -- [6]
+						"Splendiferus-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "9m 21s",
-				["time"] = 1597294001.656,
-			}, -- [6]
-			{
-				["maxhealth"] = 525420,
-				["timeofdeath"] = 561.5419999998994,
-				["name"] = "Genoqt-Tichondrius",
-				["events"] = {
-					{
-						false, -- [1]
-						64844, -- [2]
-						38076, -- [3]
-						1597293992.022, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						288999, -- [2]
-						1530, -- [3]
-						1597293992.262, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						228532, -- [2]
-						57796, -- [3]
-						1597293992.871, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						774, -- [2]
-						7230, -- [3]
-						1597293993.399, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2009, -- [3]
-						1597293993.497, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						288999, -- [2]
-						4080, -- [3]
-						1597293993.87, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						596, -- [2]
-						48701, -- [3]
-						1597293994.535, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						288999, -- [2]
-						4080, -- [3]
-						1597293994.678, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						228532, -- [2]
-						57796, -- [3]
-						1597293995.03, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						77489, -- [2]
-						19771, -- [3]
-						1597293995.056, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						774, -- [2]
-						7221, -- [3]
-						1597293995.194, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						274436, -- [2]
-						845, -- [3]
-						1597293995.194, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						288999, -- [2]
-						3060, -- [3]
-						1597293995.434, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						81269, -- [2]
-						6499, -- [3]
-						1597293995.451, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						311201, -- [2]
-						43008, -- [3]
-						1597293996.516, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						774, -- [2]
-						8081, -- [3]
-						1597293996.957, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						207386, -- [2]
-						4489, -- [3]
-						1597293997.472, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						288999, -- [2]
-						4080, -- [3]
-						1597293997.73, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						120692, -- [2]
-						16131, -- [3]
-						1597293997.959, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						77489, -- [2]
-						16856, -- [3]
-						1597293998.073, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						774, -- [2]
-						8081, -- [3]
-						1597293998.616, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						596, -- [2]
-						26100, -- [3]
-						1597293998.839, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						228532, -- [2]
-						57796, -- [3]
-						1597293998.979, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2146, -- [3]
-						1597293999.462, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						774, -- [2]
-						15451, -- [3]
-						1597294000.27, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						596, -- [2]
-						21652, -- [3]
-						1597294000.519, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						288999, -- [2]
-						1530, -- [3]
-						1597294000.89, -- [4]
-						577960, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						77489, -- [2]
-						22720, -- [3]
-						1597294001.054, -- [4]
-						577960, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						207386, -- [2]
-						4292, -- [3]
-						1597294001.464, -- [4]
-						577960, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						318974, -- [2]
-						210880, -- [3]
-						1597294001.637, -- [4]
-						367080, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						318974, -- [2]
-						210880, -- [3]
-						1597294001.637, -- [4]
-						156200, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						318974, -- [2]
-						210879, -- [3]
-						1597294001.656, -- [4]
-						1, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						54679, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Genoqt-Tichondrius", -- [6]
-					}, -- [33]
-				},
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "9m 21s",
-				["time"] = 1597294001.656,
-			}, -- [7]
-			{
-				["maxhealth"] = 518000,
-				["timeofdeath"] = 561.5419999998994,
-				["name"] = "Royalty",
-				["events"] = {
-					{
-						true, -- [1]
-						319346, -- [2]
-						36754, -- [3]
-						1597293977.92, -- [4]
-						409240, -- [5]
-						"[*] Infinity's Toll", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						27, -- [3]
-						1597293978.641, -- [4]
-						409267, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						81269, -- [2]
-						4240, -- [3]
-						1597293983.926, -- [4]
-						413507, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						25914, -- [2]
-						175451, -- [3]
-						1597293984.215, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						287286, -- [2]
-						26787, -- [3]
-						1597293985.581, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2972, -- [3]
-						1597293985.942, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						287286, -- [2]
-						26787, -- [3]
-						1597293987.803, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						207386, -- [2]
-						1486, -- [3]
-						1597293987.936, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597293989.341, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						207386, -- [2]
-						1560, -- [3]
-						1597293989.939, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						81269, -- [2]
-						4656, -- [3]
-						1597293991.038, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						225311, -- [2]
-						82430, -- [3]
-						1597293991.505, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						64844, -- [2]
-						19037, -- [3]
-						1597293992.022, -- [4]
-						518000, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						287286, -- [2]
-						29466, -- [3]
-						1597293992.89, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						207386, -- [2]
-						1794, -- [3]
-						1597293993.062, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						77489, -- [2]
-						6506, -- [3]
-						1597293995.056, -- [4]
-						518000, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2006, -- [3]
-						1597293995.056, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597293996.42, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						19750, -- [2]
-						104000, -- [3]
-						1597293996.439, -- [4]
-						518000, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						225311, -- [2]
-						32880, -- [3]
-						1597293996.462, -- [4]
-						518000, -- [5]
-						"Royalty", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						81269, -- [2]
-						6499, -- [3]
-						1597293996.634, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2006, -- [3]
-						1597293997.06, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597293997.532, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						120692, -- [2]
-						15181, -- [3]
-						1597293997.937, -- [4]
-						518000, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77489, -- [2]
-						5627, -- [3]
-						1597293998.047, -- [4]
-						518000, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						301861, -- [2]
-						13198, -- [3]
-						1597293998.343, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						207386, -- [2]
-						1918, -- [3]
-						1597293999.061, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597293999.697, -- [4]
-						518000, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						77489, -- [2]
-						5627, -- [3]
-						1597294001.054, -- [4]
-						518000, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						207386, -- [2]
-						3835, -- [3]
-						1597294001.07, -- [4]
-						518000, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						318974, -- [2]
-						261015, -- [3]
-						1597294001.637, -- [4]
-						256985, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						318974, -- [2]
-						261016, -- [3]
-						1597294001.637, -- [4]
-						1, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						4031, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						642, -- [2]
-						1, -- [3]
-						1597293925.908, -- [4]
-						0, -- [5]
-						"Royalty", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PALADIN",
-				["timestring"] = "9m 21s",
-				["time"] = 1597294001.656,
-			}, -- [8]
-			{
-				["maxhealth"] = 518320,
-				["timeofdeath"] = 562.5579999999609,
-				["name"] = "Kerryhunts-Kil'jaeden",
-				["events"] = {
-					{
-						false, -- [1]
-						207386, -- [2]
-						2009, -- [3]
-						1597293992.312, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						287286, -- [2]
-						29466, -- [3]
-						1597293992.89, -- [4]
-						598668, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						774, -- [2]
-						6461, -- [3]
-						1597293993.884, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						274436, -- [2]
-						929, -- [3]
-						1597293993.884, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						81269, -- [2]
-						7148, -- [3]
-						1597293994.254, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						596, -- [2]
-						24351, -- [3]
-						1597293994.535, -- [4]
-						598668, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						77489, -- [2]
-						9886, -- [3]
-						1597293995.056, -- [4]
-						598668, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						311201, -- [2]
-						33580, -- [3]
-						1597293995.117, -- [4]
-						598668, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						774, -- [2]
-						16162, -- [3]
-						1597293995.665, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						207386, -- [2]
-						4490, -- [3]
-						1597293996.268, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597293996.42, -- [4]
-						598668, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						774, -- [2]
-						8081, -- [3]
-						1597293997.44, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						287286, -- [2]
-						26787, -- [3]
-						1597293997.532, -- [4]
-						598668, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						120692, -- [2]
-						30363, -- [3]
-						1597293997.937, -- [4]
-						598668, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						77489, -- [2]
-						13508, -- [3]
-						1597293998.047, -- [4]
-						598668, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						207386, -- [2]
-						4490, -- [3]
-						1597293998.27, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						301861, -- [2]
-						13198, -- [3]
-						1597293998.343, -- [4]
-						598668, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						596, -- [2]
-						26100, -- [3]
-						1597293998.839, -- [4]
-						598668, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						774, -- [2]
-						15451, -- [3]
-						1597293999.102, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						287286, -- [2]
-						53575, -- [3]
-						1597293999.697, -- [4]
-						598668, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						81269, -- [2]
-						6953, -- [3]
-						1597294000.198, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						207386, -- [2]
-						2146, -- [3]
-						1597294000.27, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						774, -- [2]
-						7725, -- [3]
-						1597294000.737, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						774, -- [2]
-						1036, -- [3]
-						1597294000.965, -- [4]
-						598668, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77489, -- [2]
-						14952, -- [3]
-						1597294001.054, -- [4]
-						598668, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						312215, -- [2]
-						29933, -- [3]
-						1597294001.656, -- [4]
-						598668, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						318974, -- [2]
-						277181, -- [3]
-						1597294001.656, -- [4]
-						351420, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						29933, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						143924, -- [2]
-						505, -- [3]
-						1597294002.165, -- [4]
-						351925, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						207386, -- [2]
-						1917, -- [3]
-						1597294002.287, -- [4]
-						353842, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						81269, -- [2]
-						6212, -- [3]
-						1597294002.489, -- [4]
-						360054, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						318974, -- [2]
-						336082, -- [3]
-						1597294002.638, -- [4]
-						23972, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						318974, -- [2]
-						336082, -- [3]
-						1597294002.656, -- [4]
-						1, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						312110, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						186265, -- [2]
-						1, -- [3]
-						1597293924.963, -- [4]
-						0, -- [5]
-						"Kerryhunts-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-				["class"] = "HUNTER",
-				["timestring"] = "9m 22s",
-				["time"] = 1597294002.672,
-			}, -- [9]
-			{
-				["maxhealth"] = 512320,
-				["timeofdeath"] = 565.933999999892,
-				["name"] = "Sán-Kil'jaeden",
-				["events"] = {
-					{
-						false, -- [1]
-						287286, -- [2]
-						42799, -- [3]
-						1597293997.532, -- [4]
-						591717, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						48438, -- [2]
-						4450, -- [3]
-						1597293997.553, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						774, -- [2]
-						8081, -- [3]
-						1597293997.888, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						77489, -- [2]
-						17653, -- [3]
-						1597293998.073, -- [4]
-						591717, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						48438, -- [2]
-						4275, -- [3]
-						1597293998.117, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						48438, -- [2]
-						8203, -- [3]
-						1597293998.659, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						120692, -- [2]
-						16468, -- [3]
-						1597293999.165, -- [4]
-						591717, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3753, -- [3]
-						1597293999.207, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						774, -- [2]
-						7725, -- [3]
-						1597293999.531, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						287286, -- [2]
-						24665, -- [3]
-						1597293999.697, -- [4]
-						591717, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						48438, -- [2]
-						7173, -- [3]
-						1597293999.757, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3421, -- [3]
-						1597294000.298, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						48438, -- [2]
-						3253, -- [3]
-						1597294000.859, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						77489, -- [2]
-						10095, -- [3]
-						1597294001.054, -- [4]
-						591717, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						48438, -- [2]
-						1298, -- [3]
-						1597294001.086, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						774, -- [2]
-						6903, -- [3]
-						1597294001.174, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						274436, -- [2]
-						807, -- [3]
-						1597294001.174, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						774, -- [2]
-						6903, -- [3]
-						1597294002.826, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						274436, -- [2]
-						807, -- [3]
-						1597294002.826, -- [4]
-						591717, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						64844, -- [2]
-						18683, -- [3]
-						1597294002.848, -- [4]
-						591717, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						287286, -- [2]
-						58933, -- [3]
-						1597294003.111, -- [4]
-						591717, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						311201, -- [2]
-						35982, -- [3]
-						1597294003.433, -- [4]
-						591717, -- [5]
-						"Sán-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						318974, -- [2]
-						338513, -- [3]
-						1597294003.626, -- [4]
-						253204, -- [5]
-						"Voidspawn Annihilator", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						225311, -- [2]
-						90673, -- [3]
-						1597294003.837, -- [4]
-						343877, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1597294003.866, -- [4]
-						356213, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						77489, -- [2]
-						11556, -- [3]
-						1597294004.06, -- [4]
-						367769, -- [5]
-						"Tianarrae-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1271, -- [3]
-						1597294004.207, -- [4]
-						369040, -- [5]
-						"Sán-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						774, -- [2]
-						7594, -- [3]
-						1597294004.467, -- [4]
-						376634, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						274436, -- [2]
-						888, -- [3]
-						1597294004.467, -- [4]
-						377522, -- [5]
-						"Leafyo", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						143924, -- [2]
-						479, -- [3]
-						1597294005.422, -- [4]
-						378001, -- [5]
-						"Sán-Kil'jaeden", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						287286, -- [2]
-						24576, -- [3]
-						1597294005.749, -- [4]
-						491335, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						316971, -- [2]
-						678521, -- [3]
-						1597294006.019, -- [4]
-						1, -- [5]
-						"Titanic Countermeasure", -- [6]
-						nil, -- [7]
-						64, -- [8]
-						false, -- [9]
-						187186, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						186265, -- [2]
-						1, -- [3]
-						1597293924.884, -- [4]
-						0, -- [5]
-						"Sán-Kil'jaeden", -- [6]
-					}, -- [33]
-				},
-				["class"] = "HUNTER",
-				["timestring"] = "9m 25s",
-				["time"] = 1597294006.048,
 			}, -- [10]
 		},
 		["bossname"] = "N'Zoth the Corruptor",
@@ -11497,8 +11793,8 @@ DeathGraphsDBCurrent = {
 			0.75, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
 		},
-		["date"] = 1257502.783,
-		["timeelapsed"] = 618.0490000001155,
+		["date"] = 1603333.679,
+		["timeelapsed"] = 504.0430000000633,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
@@ -11537,147 +11833,462 @@ DeathGraphsDBGraph = {
 	},
 	["237516"] = {
 		["deaths"] = {
-			[361] = {
-				1597028315, -- [1]
+			[261] = {
+				1597034612, -- [1]
+				1597636744, -- [2]
 			},
-			[249] = {
-				1597027147, -- [1]
+			[277] = {
+				1597285474, -- [1]
 			},
-			[126] = {
-				1597027380, -- [1]
-				1597027380, -- [2]
-				1597027380, -- [3]
-				1597027380, -- [4]
-				1597288526, -- [5]
+			[293] = {
+				1597030097, -- [1]
+				1597286072, -- [2]
 			},
-			[127] = {
+			[325] = {
 				1597290980, -- [1]
-				1597292506, -- [2]
+				1597292222, -- [2]
 			},
-			[128] = {
-				1597029188, -- [1]
-			},
-			[258] = {
-				1597290503, -- [1]
-			},
-			[266] = {
-				1597290054, -- [1]
-			},
-			[136] = {
-				1597029188, -- [1]
-				1597029188, -- [2]
-			},
-			[274] = {
-				1597033957, -- [1]
-				1597288889, -- [2]
-			},
-			[140] = {
-				1597287022, -- [1]
-			},
-			[144] = {
-				1597292506, -- [1]
+			[203] = {
+				1597026477, -- [1]
 			},
 			[421] = {
 				1597292222, -- [1]
+				1597635077, -- [2]
 			},
-			[302] = {
-				1597035504, -- [1]
-			},
-			[154] = {
-				1597027147, -- [1]
-			},
-			[310] = {
-				1597290980, -- [1]
-			},
-			[158] = {
-				1597288526, -- [1]
-				1597288526, -- [2]
-			},
-			[160] = {
-				1597027678, -- [1]
-			},
-			[449] = {
-				1597028315, -- [1]
-			},
-			[164] = {
-				1597025803, -- [1]
-			},
-			[334] = {
-				1597290503, -- [1]
-				1597292222, -- [2]
-			},
-			[469] = {
-				1597286693, -- [1]
-			},
-			[346] = {
-				1597294973, -- [1]
+			[59] = {
+				1597026477, -- [1]
+				1597033330, -- [2]
 			},
 			[485] = {
 				1597032269, -- [1]
 				1597288226, -- [2]
 			},
-			[473] = {
-				1597294973, -- [1]
+			[262] = {
+				1597636744, -- [1]
+			},
+			[310] = {
+				1597290980, -- [1]
+			},
+			[82] = {
+				1597637317, -- [1]
 			},
 			[374] = {
 				1597035504, -- [1]
 			},
-			[349] = {
-				1597287609, -- [1]
+			[98] = {
+				1597029427, -- [1]
+			},
+			[102] = {
+				1597029427, -- [1]
+			},
+			[106] = {
+				1597289307, -- [1]
+				1597639894, -- [2]
+			},
+			[110] = {
+				1597638726, -- [1]
+			},
+			[454] = {
+				1597028932, -- [1]
+				1597028932, -- [2]
+				1597028932, -- [3]
+			},
+			[118] = {
+				1597027380, -- [1]
+				1597033957, -- [2]
+				1597033957, -- [3]
+				1597035504, -- [4]
+			},
+			[502] = {
+				1597294058, -- [1]
+			},
+			[263] = {
+				1597285474, -- [1]
+				1597636744, -- [2]
+			},
+			[140] = {
+				1597287022, -- [1]
+				1597636388, -- [2]
+			},
+			[311] = {
+				1597030097, -- [1]
+				1597030097, -- [2]
+				1597632997, -- [3]
+			},
+			[164] = {
+				1597025803, -- [1]
+			},
+			[439] = {
+				1597026477, -- [1]
+				1597026477, -- [2]
+			},
+			[455] = {
+				1597640535, -- [1]
+			},
+			[471] = {
+				1597033957, -- [1]
+				1597294973, -- [2]
+				1597639894, -- [3]
+			},
+			[487] = {
+				1597032269, -- [1]
+			},
+			[328] = {
+				1597291583, -- [1]
+			},
+			[344] = {
+				1597028315, -- [1]
+			},
+			[392] = {
+				1597637892, -- [1]
+			},
+			[408] = {
+				1597637892, -- [1]
+			},
+			[472] = {
+				1597286693, -- [1]
+				1597286693, -- [2]
+				1597286693, -- [3]
+			},
+			[149] = {
+				1597032269, -- [1]
+			},
+			[157] = {
+				1597288526, -- [1]
+			},
+			[329] = {
+				1597632997, -- [1]
+			},
+			[361] = {
+				1597028315, -- [1]
+			},
+			[393] = {
+				1597637892, -- [1]
+			},
+			[473] = {
+				1597294973, -- [1]
+			},
+			[489] = {
+				1597639894, -- [1]
+			},
+			[253] = {
+				1597636744, -- [1]
+			},
+			[266] = {
+				1597290054, -- [1]
+			},
+			[71] = {
+				1597634455, -- [1]
+			},
+			[298] = {
+				1597632997, -- [1]
+				1597632997, -- [2]
+			},
+			[330] = {
+				1597636125, -- [1]
+			},
+			[87] = {
+				1597029427, -- [1]
+			},
+			[394] = {
+				1597288226, -- [1]
+			},
+			[111] = {
+				1597289307, -- [1]
+			},
+			[115] = {
+				1597029188, -- [1]
 			},
 			[119] = {
 				1597287022, -- [1]
 				1597290054, -- [2]
 				1597294973, -- [3]
 			},
-			[468] = {
-				1597287609, -- [1]
+			[490] = {
+				1597031470, -- [1]
+				1597031470, -- [2]
 			},
-			[263] = {
-				1597285474, -- [1]
+			[127] = {
+				1597290980, -- [1]
+				1597292506, -- [2]
+				1597634455, -- [3]
+				1597638726, -- [4]
 			},
-			[394] = {
+			[267] = {
+				1597290054, -- [1]
+			},
+			[283] = {
+				1597639894, -- [1]
+			},
+			[315] = {
+				1597290980, -- [1]
+			},
+			[331] = {
+				1597032269, -- [1]
+				1597033330, -- [2]
+			},
+			[174] = {
+				1597639292, -- [1]
+			},
+			[230] = {
+				1597289307, -- [1]
+			},
+			[238] = {
+				1597035504, -- [1]
+			},
+			[300] = {
+				1597034612, -- [1]
+				1597035504, -- [2]
+				1597286072, -- [3]
+			},
+			[332] = {
+				1597290503, -- [1]
+				1597290503, -- [2]
+				1597635077, -- [3]
+			},
+			[348] = {
+				1597286072, -- [1]
+			},
+			[444] = {
 				1597288226, -- [1]
+				1597292222, -- [2]
+			},
+			[460] = {
+				1597635668, -- [1]
+			},
+			[476] = {
+				1597639894, -- [1]
+			},
+			[285] = {
+				1597026477, -- [1]
+			},
+			[301] = {
+				1597294058, -- [1]
+			},
+			[159] = {
+				1597637317, -- [1]
+			},
+			[333] = {
+				1597032836, -- [1]
+				1597286072, -- [2]
+				1597294973, -- [3]
+			},
+			[349] = {
+				1597287609, -- [1]
+				1597635077, -- [2]
+			},
+			[199] = {
+				1597030097, -- [1]
+			},
+			[413] = {
+				1597637892, -- [1]
+			},
+			[445] = {
+				1597291583, -- [1]
+			},
+			[58] = {
+				1597034612, -- [1]
+			},
+			[60] = {
+				1597027147, -- [1]
+			},
+			[255] = {
+				1597636744, -- [1]
+			},
+			[286] = {
+				1597640535, -- [1]
+			},
+			[302] = {
+				1597035504, -- [1]
+			},
+			[334] = {
+				1597290503, -- [1]
+				1597292222, -- [2]
+			},
+			[350] = {
+				1597634208, -- [1]
 			},
 			[398] = {
 				1597031470, -- [1]
+			},
+			[104] = {
+				1597029427, -- [1]
+			},
+			[462] = {
+				1597032269, -- [1]
+				1597287609, -- [2]
+				1597633614, -- [3]
+			},
+			[120] = {
+				1597285474, -- [1]
+			},
+			[128] = {
+				1597029188, -- [1]
+			},
+			[271] = {
+				1597027147, -- [1]
+				1597288889, -- [2]
+				1597290054, -- [3]
+			},
+			[144] = {
+				1597292506, -- [1]
+			},
+			[152] = {
+				1597285474, -- [1]
+			},
+			[160] = {
+				1597027678, -- [1]
+				1597636388, -- [2]
+				1597637317, -- [3]
+				1597638189, -- [4]
+				1597638189, -- [5]
+				1597638189, -- [6]
+				1597638189, -- [7]
+				1597638462, -- [8]
+			},
+			[335] = {
+				1597287609, -- [1]
+			},
+			[176] = {
+				1597639292, -- [1]
+				1597639292, -- [2]
+			},
+			[208] = {
+				1597032836, -- [1]
+			},
+			[431] = {
+				1597291583, -- [1]
+			},
+			[256] = {
+				1597027147, -- [1]
+			},
+			[272] = {
+				1597289307, -- [1]
+				1597636125, -- [2]
+			},
+			[320] = {
+				1597290980, -- [1]
+			},
+			[384] = {
+				1597028315, -- [1]
+			},
+			[400] = {
+				1597294058, -- [1]
+			},
+			[416] = {
+				1597288226, -- [1]
+				1597635668, -- [2]
+				1597637892, -- [3]
+			},
+			[432] = {
+				1597633614, -- [1]
+			},
+			[464] = {
+				1597291583, -- [1]
+				1597291583, -- [2]
+			},
+			[257] = {
+				1597287609, -- [1]
+			},
+			[137] = {
+				1597029188, -- [1]
+			},
+			[153] = {
+				1597635077, -- [1]
+			},
+			[161] = {
+				1597025803, -- [1]
+				1597025803, -- [2]
+				1597027678, -- [3]
+				1597034923, -- [4]
+				1597034923, -- [5]
+				1597288526, -- [6]
+				1597636388, -- [7]
+				1597637317, -- [8]
+				1597638462, -- [9]
+			},
+			[177] = {
+				1597639292, -- [1]
+			},
+			[401] = {
+				1597294058, -- [1]
+			},
+			[209] = {
+				1597285474, -- [1]
+			},
+			[449] = {
+				1597028315, -- [1]
+			},
+			[249] = {
+				1597027147, -- [1]
+			},
+			[258] = {
+				1597290503, -- [1]
 			},
 			[546] = {
 				1597031470, -- [1]
 				1597031470, -- [2]
 			},
-			[401] = {
-				1597294058, -- [1]
-			},
-			[267] = {
+			[151] = {
 				1597290054, -- [1]
 			},
-			[208] = {
-				1597032836, -- [1]
-			},
-			[442] = {
-				1597028932, -- [1]
-			},
-			[325] = {
-				1597290980, -- [1]
-				1597292222, -- [2]
+			[306] = {
+				1597292222, -- [1]
 			},
 			[322] = {
 				1597033330, -- [1]
 			},
-			[462] = {
-				1597032269, -- [1]
-				1597287609, -- [2]
+			[474] = {
+				1597033957, -- [1]
+				1597286693, -- [2]
+				1597294058, -- [3]
+			},
+			[78] = {
+				1597635668, -- [1]
+			},
+			[97] = {
+				1597029427, -- [1]
+			},
+			[386] = {
+				1597640535, -- [1]
+			},
+			[327] = {
+				1597636125, -- [1]
+			},
+			[319] = {
+				1597636125, -- [1]
+			},
+			[129] = {
+				1597034612, -- [1]
+			},
+			[113] = {
+				1597292506, -- [1]
+				1597638726, -- [2]
+			},
+			[117] = {
+				1597634455, -- [1]
+				1597637317, -- [2]
+				1597638726, -- [3]
+			},
+			[442] = {
+				1597028932, -- [1]
+			},
+			[125] = {
+				1597638726, -- [1]
+			},
+			[422] = {
+				1597635077, -- [1]
+			},
+			[275] = {
+				1597288889, -- [1]
+				1597288889, -- [2]
+				1597290503, -- [3]
+			},
+			[291] = {
+				1597634208, -- [1]
 			},
 			[307] = {
 				1597033330, -- [1]
-			},
-			[311] = {
-				1597030097, -- [1]
-				1597030097, -- [2]
-			},
-			[315] = {
-				1597290980, -- [1]
 			},
 			[162] = {
 				1597025803, -- [1]
@@ -11690,34 +12301,11 @@ DeathGraphsDBGraph = {
 				1597287022, -- [8]
 				1597287022, -- [9]
 				1597292506, -- [10]
+				1597636388, -- [11]
+				1597636388, -- [12]
 			},
-			[230] = {
-				1597289307, -- [1]
-			},
-			[454] = {
-				1597028932, -- [1]
-				1597028932, -- [2]
-				1597028932, -- [3]
-			},
-			[331] = {
-				1597032269, -- [1]
-				1597033330, -- [2]
-			},
-			[335] = {
-				1597287609, -- [1]
-			},
-			[59] = {
-				1597026477, -- [1]
-				1597033330, -- [2]
-			},
-			[137] = {
-				1597029188, -- [1]
-			},
-			[238] = {
-				1597035504, -- [1]
-			},
-			[129] = {
-				1597034612, -- [1]
+			[339] = {
+				1597286072, -- [1]
 			},
 			[355] = {
 				1597034612, -- [1]
@@ -11727,220 +12315,97 @@ DeathGraphsDBGraph = {
 				1597032836, -- [2]
 				1597032836, -- [3]
 			},
-			[490] = {
-				1597031470, -- [1]
-				1597031470, -- [2]
+			[461] = {
+				1597633614, -- [1]
+				1597633614, -- [2]
+				1597640535, -- [3]
 			},
-			[106] = {
-				1597289307, -- [1]
+			[136] = {
+				1597029188, -- [1]
+				1597029188, -- [2]
 			},
-			[416] = {
-				1597288226, -- [1]
+			[274] = {
+				1597033957, -- [1]
+				1597288889, -- [2]
 			},
-			[502] = {
-				1597294058, -- [1]
+			[346] = {
+				1597294973, -- [1]
 			},
-			[285] = {
-				1597026477, -- [1]
+			[451] = {
+				1597028932, -- [1]
 			},
-			[256] = {
+			[154] = {
 				1597027147, -- [1]
 			},
-			[300] = {
-				1597034612, -- [1]
-				1597035504, -- [2]
-				1597286072, -- [3]
+			[469] = {
+				1597286693, -- [1]
 			},
-			[102] = {
-				1597029427, -- [1]
+			[390] = {
+				1597634208, -- [1]
 			},
-			[400] = {
-				1597294058, -- [1]
-			},
-			[272] = {
-				1597289307, -- [1]
+			[158] = {
+				1597288526, -- [1]
+				1597288526, -- [2]
+				1597638189, -- [3]
 			},
 			[276] = {
 				1597288889, -- [1]
 			},
-			[58] = {
-				1597034612, -- [1]
-			},
-			[306] = {
-				1597292222, -- [1]
-			},
-			[261] = {
-				1597034612, -- [1]
-			},
-			[97] = {
-				1597029427, -- [1]
-			},
-			[149] = {
-				1597032269, -- [1]
-			},
-			[151] = {
-				1597290054, -- [1]
-			},
-			[431] = {
-				1597291583, -- [1]
+			[405] = {
+				1597634208, -- [1]
+				1597634208, -- [2]
 			},
 			[308] = {
 				1597030097, -- [1]
+				1597632997, -- [2]
 			},
-			[439] = {
-				1597026477, -- [1]
-				1597026477, -- [2]
+			[324] = {
+				1597033330, -- [1]
 			},
-			[161] = {
-				1597025803, -- [1]
-				1597025803, -- [2]
-				1597027678, -- [3]
-				1597034923, -- [4]
-				1597034923, -- [5]
-				1597288526, -- [6]
+			[132] = {
+				1597634455, -- [1]
+				1597634455, -- [2]
 			},
-			[320] = {
-				1597290980, -- [1]
+			[126] = {
+				1597027380, -- [1]
+				1597027380, -- [2]
+				1597027380, -- [3]
+				1597027380, -- [4]
+				1597288526, -- [5]
 			},
 			[163] = {
 				1597034923, -- [1]
 				1597034923, -- [2]
 				1597292506, -- [3]
-			},
-			[328] = {
-				1597291583, -- [1]
-			},
-			[332] = {
-				1597290503, -- [1]
-				1597290503, -- [2]
-			},
-			[257] = {
-				1597287609, -- [1]
-			},
-			[271] = {
-				1597027147, -- [1]
-				1597288889, -- [2]
-				1597290054, -- [3]
-			},
-			[471] = {
-				1597033957, -- [1]
-				1597294973, -- [2]
-			},
-			[348] = {
-				1597286072, -- [1]
-			},
-			[87] = {
-				1597029427, -- [1]
-			},
-			[339] = {
-				1597286072, -- [1]
-			},
-			[487] = {
-				1597032269, -- [1]
-			},
-			[277] = {
-				1597285474, -- [1]
-			},
-			[474] = {
-				1597033957, -- [1]
-				1597286693, -- [2]
-				1597294058, -- [3]
-			},
-			[344] = {
-				1597028315, -- [1]
-			},
-			[152] = {
-				1597285474, -- [1]
-			},
-			[60] = {
-				1597027147, -- [1]
-			},
-			[384] = {
-				1597028315, -- [1]
-			},
-			[98] = {
-				1597029427, -- [1]
-			},
-			[451] = {
-				1597028932, -- [1]
-			},
-			[199] = {
-				1597030097, -- [1]
+				1597638462, -- [4]
+				1597638462, -- [5]
+				1597638462, -- [6]
 			},
 			[273] = {
 				1597289307, -- [1]
 			},
-			[203] = {
-				1597026477, -- [1]
-			},
-			[157] = {
-				1597288526, -- [1]
-			},
-			[104] = {
-				1597029427, -- [1]
-			},
-			[209] = {
-				1597285474, -- [1]
-			},
-			[293] = {
-				1597030097, -- [1]
-				1597286072, -- [2]
-			},
-			[324] = {
-				1597033330, -- [1]
-			},
-			[301] = {
-				1597294058, -- [1]
+			[303] = {
+				1597636125, -- [1]
 			},
 			[420] = {
 				1597288226, -- [1]
 			},
-			[275] = {
-				1597288889, -- [1]
-				1597288889, -- [2]
-				1597290503, -- [3]
-			},
-			[111] = {
-				1597289307, -- [1]
-			},
-			[444] = {
-				1597288226, -- [1]
-				1597292222, -- [2]
-			},
-			[113] = {
-				1597292506, -- [1]
+			[436] = {
+				1597635668, -- [1]
+				1597635668, -- [2]
 			},
 			[452] = {
 				1597028315, -- [1]
+				1597633614, -- [2]
 			},
-			[115] = {
-				1597029188, -- [1]
+			[468] = {
+				1597287609, -- [1]
 			},
-			[333] = {
-				1597032836, -- [1]
-				1597286072, -- [2]
-				1597294973, -- [3]
+			[175] = {
+				1597639292, -- [1]
 			},
-			[464] = {
-				1597291583, -- [1]
-				1597291583, -- [2]
-			},
-			[118] = {
-				1597027380, -- [1]
-				1597033957, -- [2]
-				1597033957, -- [3]
-				1597035504, -- [4]
-			},
-			[472] = {
-				1597286693, -- [1]
-				1597286693, -- [2]
-				1597286693, -- [3]
-			},
-			[120] = {
-				1597285474, -- [1]
-			},
-			[445] = {
-				1597291583, -- [1]
+			[287] = {
+				1597640535, -- [1]
 			},
 		},
 		["spells"] = {
@@ -11950,27 +12415,27 @@ DeathGraphsDBGraph = {
 	},
 	["236615"] = {
 		["deaths"] = {
-			[279] = {
+			[307] = {
 				1595994909, -- [1]
 			},
 			[303] = {
 				1595994909, -- [1]
 			},
-			[307] = {
+			[279] = {
 				1595994909, -- [1]
 			},
 			[322] = {
 				1595394296, -- [1]
 			},
-			[302] = {
-				1595994909, -- [1]
+			[365] = {
+				1595394296, -- [1]
+				1595394296, -- [2]
 			},
 			[192] = {
 				1595394296, -- [1]
 			},
-			[365] = {
-				1595394296, -- [1]
-				1595394296, -- [2]
+			[302] = {
+				1595994909, -- [1]
 			},
 		},
 		["spells"] = {
@@ -12003,14 +12468,14 @@ DeathGraphsDBGraph = {
 			[356] = {
 				1595395028, -- [1]
 			},
-			[331] = {
-				1595395028, -- [1]
-			},
 			[16] = {
 				1595995686, -- [1]
 			},
 			[69] = {
 				1595995686, -- [1]
+			},
+			[331] = {
+				1595395028, -- [1]
 			},
 		},
 		["spells"] = {

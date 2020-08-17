@@ -7,7 +7,7 @@ AstralKeys = {
 		25, -- [4]
 		20, -- [5]
 		160, -- [6]
-		393834, -- [7]
+		481161, -- [7]
 	}, -- [1]
 	{
 		"Toshpal-Area52", -- [1]
@@ -16,7 +16,7 @@ AstralKeys = {
 		19, -- [4]
 		15, -- [5]
 		160, -- [6]
-		392984, -- [7]
+		483180, -- [7]
 	}, -- [2]
 	{
 		"Toshpriest-Area52", -- [1]
@@ -43,7 +43,7 @@ AstralKeys = {
 		25, -- [4]
 		22, -- [5]
 		160, -- [6]
-		393239, -- [7]
+		483525, -- [7]
 	}, -- [5]
 	{
 		"Artsong-Area52", -- [1]
@@ -52,7 +52,7 @@ AstralKeys = {
 		24, -- [4]
 		0, -- [5]
 		160, -- [6]
-		392699, -- [7]
+		473769, -- [7]
 	}, -- [6]
 	{
 		"Illsong-Area52", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		25, -- [4]
 		0, -- [5]
 		160, -- [6]
-		392508, -- [7]
+		482814, -- [7]
 	}, -- [7]
 	{
 		"Unhealable-Area52", -- [1]
@@ -86,9 +86,9 @@ AstralKeys = {
 		"DRUID", -- [2]
 		244, -- [3]
 		22, -- [4]
-		16, -- [5]
+		18, -- [5]
 		160, -- [6]
-		137042, -- [7]
+		470696, -- [7]
 	}, -- [10]
 	{
 		"Yukiox-Area52", -- [1]
@@ -97,7 +97,7 @@ AstralKeys = {
 		25, -- [4]
 		22, -- [5]
 		160, -- [6]
-		3, -- [7]
+		4, -- [7]
 	}, -- [11]
 	{
 		"Rathux-Area52", -- [1]
@@ -113,9 +113,9 @@ AstralKeys = {
 		"WARLOCK", -- [2]
 		252, -- [3]
 		24, -- [4]
-		0, -- [5]
+		18, -- [5]
 		160, -- [6]
-		127640, -- [7]
+		479904, -- [7]
 	}, -- [13]
 	{
 		"Delpih-Area52", -- [1]
@@ -153,31 +153,40 @@ AstralKeys = {
 		160, -- [6]
 		393833, -- [7]
 	}, -- [17]
+	{
+		"Arnbjorn-Area52", -- [1]
+		"MAGE", -- [2]
+		245, -- [3]
+		17, -- [4]
+		18, -- [5]
+		160, -- [6]
+		483113, -- [7]
+	}, -- [18]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 15,
 		["class"] = "PALADIN",
-		["unit"] = "Toshpal-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshpal-Area52",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Yorman-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DEATHKNIGHT",
-		["unit"] = "Toshdk-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshdk-Kil'jaeden",
 	}, -- [3]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["unit"] = "Toshdruid-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshdruid-Area52",
 	}, -- [4]
 }
 AstralFriends = {
@@ -188,7 +197,7 @@ AstralFriends = {
 		247, -- [4]
 		18, -- [5]
 		160, -- [6]
-		392497, -- [7]
+		460004, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [1]
@@ -199,7 +208,7 @@ AstralFriends = {
 		353, -- [4]
 		23, -- [5]
 		160, -- [6]
-		389583, -- [7]
+		455785, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [2]
@@ -210,7 +219,7 @@ AstralFriends = {
 		251, -- [4]
 		24, -- [5]
 		160, -- [6]
-		393833, -- [7]
+		482470, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [3]
@@ -221,7 +230,7 @@ AstralFriends = {
 		247, -- [4]
 		25, -- [5]
 		160, -- [6]
-		393240, -- [7]
+		415039, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [4]
@@ -229,10 +238,10 @@ AstralFriends = {
 		"Meta-Kil'jaeden", -- [1]
 		"Johnnymsw#1452", -- [2]
 		"DEMONHUNTER", -- [3]
-		247, -- [4]
-		17, -- [5]
+		369, -- [4]
+		20, -- [5]
 		160, -- [6]
-		393832, -- [7]
+		395411, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [5]
@@ -265,7 +274,7 @@ AstralFriends = {
 		369, -- [4]
 		24, -- [5]
 		160, -- [6]
-		389582, -- [7]
+		473768, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [8]
@@ -276,7 +285,7 @@ AstralFriends = {
 		246, -- [4]
 		25, -- [5]
 		160, -- [6]
-		392508, -- [7]
+		482814, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [9]
@@ -287,7 +296,7 @@ AstralFriends = {
 		244, -- [4]
 		22, -- [5]
 		160, -- [6]
-		370581, -- [7]
+		470697, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [10]
@@ -298,9 +307,9 @@ AstralFriends = {
 		369, -- [4]
 		16, -- [5]
 		160, -- [6]
-		393835, -- [7]
+		452336, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [11]
 	{
 		"Yukios-Kil'jaeden", -- [1]
@@ -309,7 +318,7 @@ AstralFriends = {
 		245, -- [4]
 		21, -- [5]
 		160, -- [6]
-		390965, -- [7]
+		459731, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [12]
@@ -320,7 +329,7 @@ AstralFriends = {
 		244, -- [4]
 		25, -- [5]
 		160, -- [6]
-		391085, -- [7]
+		460067, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [13]
@@ -331,7 +340,7 @@ AstralFriends = {
 		248, -- [4]
 		23, -- [5]
 		160, -- [6]
-		383322, -- [7]
+		482930, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [14]
@@ -346,9 +355,19 @@ AstralFriends = {
 		"1", -- [8]
 		0, -- [9]
 	}, -- [15]
+	{
+		"Mattea-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"HUNTER", -- [3]
+		249, -- [4]
+		15, -- [5]
+		160, -- [6]
+		401353, -- [7]
+		"1", -- [8]
+		17, -- [9]
+	}, -- [16]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -362,7 +381,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -371,7 +392,13 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
+		["current_list"] = "FRIENDS",
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
 			["isEnabled"] = true,
 		},
 	},
@@ -384,10 +411,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
 			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -399,14 +426,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
