@@ -1,6 +1,5 @@
 
 BigWigs3DB = {
-	["discord"] = 15,
 	["global"] = {
 		["watchedMovies"] = {
 			[-1597] = true,
@@ -8,6 +7,7 @@ BigWigs3DB = {
 			[927] = true,
 		},
 	},
+	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Bosses_Lord Stormsong"] = {
 			["profiles"] = {
@@ -165,11 +165,11 @@ BigWigs3DB = {
 						},
 					},
 					["Alarm"] = {
-						["BigWigs_Bosses_Vexiona"] = {
-							[315932] = "|cFFFF0000Range|r",
-						},
 						["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 							[318971] = "|cFFFF0000Move|r",
+						},
+						["BigWigs_Bosses_Vexiona"] = {
+							[315932] = "|cFFFF0000Range|r",
 						},
 						["BigWigs_Bosses_Atal'Dazar Trash"] = {
 							[253583] = "|cFFFF0000Move|r",
@@ -189,17 +189,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
+		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 			["profiles"] = {
 				["Default"] = {
-					[263257] = 3129591,
+					[318971] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_King Mechagon"] = {
+		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
-					[283551] = 3129591,
+					["voice"] = "English: Overwatch: Roadhog",
 				},
 			},
 		},
@@ -210,7 +210,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Bosses_Rezan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[255371] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Bosses_Skycap'n Kragg"] = {
 			["profiles"] = {
@@ -223,7 +228,12 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Bosses_Unbound Abomination"] = {
+			["profiles"] = {
+				["Default"] = {
+					[269843] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -242,14 +252,14 @@ BigWigs3DB = {
 					["BigWigsAnchor_y"] = 319.2539381766183,
 					["BigWigsEmphasizeAnchor_x"] = 666.6670163488307,
 					["BigWigsAnchor_height"] = 19.99999237060547,
-					["texture"] = "Smooth v2",
+					["emphasizeTime"] = 15,
 					["emphasizeGrowup"] = false,
 					["BigWigsAnchor_x"] = 390.9344053244349,
 					["spacing"] = 4,
-					["fontSizeEmph"] = 12,
-					["BigWigsEmphasizeAnchor_width"] = 181.6665802001953,
 					["BigWigsEmphasizeAnchor_y"] = 231.7866159129153,
-					["emphasizeTime"] = 15,
+					["BigWigsEmphasizeAnchor_width"] = 181.6665802001953,
+					["fontSizeEmph"] = 12,
+					["texture"] = "Smooth v2",
 				},
 			},
 		},
@@ -300,8 +310,8 @@ BigWigs3DB = {
 							[258338] = "English: Overwatch: Roadhog",
 							[258381] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Vexiona"] = {
-							[307639] = "English: Overwatch: Reaper",
+						["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
+							[318971] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Carapace of N'Zoth"] = {
 							[313039] = "English: Overwatch: Reaper",
@@ -321,17 +331,17 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Tussle Tonks"] = {
 							[285388] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Maut"] = {
-							[308044] = "English: Overwatch: Reaper",
-						},
 						["BigWigs_Bosses_Rezan"] = {
 							[255371] = "English: Overwatch: Roadhog",
+						},
+						["BigWigs_Bosses_Maut"] = {
+							[308044] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_King Mechagon"] = {
 							[283551] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
-							[318971] = "English: Overwatch: Reaper",
+						["BigWigs_Bosses_Vexiona"] = {
+							[307639] = "English: Overwatch: Reaper",
 						},
 					},
 					["voice"] = "English: Overwatch: Moira",
@@ -339,10 +349,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Sporecaller Zancha"] = {
+		["BigWigs_Bosses_Viq'Goth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[259732] = 3129591,
+					[275014] = 3129591,
 				},
 			},
 		},
@@ -355,19 +365,14 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Viq'Goth"] = {
+		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
 				["Default"] = {
-					[275014] = 3129591,
+					[259732] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
-			["profiles"] = {
-				["Default"] = {
-					[269843] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -381,24 +386,19 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_King Mechagon"] = {
 			["profiles"] = {
 				["Default"] = {
-					[255371] = 3129591,
+					[283551] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					["voice"] = "English: Overwatch: Roadhog",
-				},
-			},
-		},
-		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
-			["profiles"] = {
-				["Default"] = {
-					[318971] = 3129591,
+					[263257] = 3129591,
 				},
 			},
 		},

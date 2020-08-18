@@ -167,26 +167,26 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 15,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["unit"] = "Yorman-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Yorman-Kil'jaeden",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DEATHKNIGHT",
-		["faction"] = 1,
 		["unit"] = "Toshdk-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [3]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Toshdruid-Area52",
+		["faction"] = 1,
 	}, -- [4]
 }
 AstralFriends = {
@@ -381,9 +381,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -392,7 +390,9 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
 	["friendOptions"] = {
 		["friend_sync"] = {
@@ -411,10 +411,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
 			["party"] = true,
-			["guild"] = false,
 			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -432,6 +432,7 @@ AstralMinimap = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
@@ -442,6 +443,8 @@ AstralMinimap = {
 		["Toshpriest - Area 52"] = {
 		},
 		["Toshdk - Kil'jaeden"] = {
+		},
+		["Toshlongboy - Eldre'Thalas"] = {
 		},
 		["Toshaman - Area 52"] = {
 		},

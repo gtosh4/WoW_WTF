@@ -1,10 +1,12 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpal-area-52"
+RaiderIO_LastCharacter = "us-Toshlongboy-eldrethalas"
 RaiderIO_MissingCharacters = {
-	["us-Räskar-malganis"] = true,
-	["us-Wanting-skullcrusher"] = true,
-	["us-Tystris-illidan"] = true,
-	["us-Phlux-executus"] = true,
+	["us-Isato-silvermoon"] = true,
+	["us-Yokokurama-rexxar"] = true,
+	["us-Icespirit-uther"] = true,
+	["us-Fistfocker-rexxar"] = true,
+	["us-Felgrim-rexxar"] = true,
+	["us-Chachí-moknathal"] = true,
 }
