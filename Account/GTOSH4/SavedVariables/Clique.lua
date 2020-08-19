@@ -18,25 +18,25 @@ CliqueDB3 = {
 			["spec3_profileKey"] = "Yorman - Kil'jaeden",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec4_profileKey"] = "Yorman - Kil'jaeden",
-			["spec2_profileKey"] = "Yorman - Kil'jaeden",
 			["specswap"] = false,
+			["spec2_profileKey"] = "Yorman - Kil'jaeden",
+			["spec4_profileKey"] = "Yorman - Kil'jaeden",
 		},
 		["Toshdruid - Area 52"] = {
 			["spec1_profileKey"] = "Toshdruid - Area 52",
 			["spec3_profileKey"] = "Toshdruid - Area 52",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec4_profileKey"] = "Toshdruid - Area 52",
-			["spec2_profileKey"] = "Toshdruid - Area 52",
 			["specswap"] = false,
+			["spec2_profileKey"] = "Toshdruid - Area 52",
+			["spec4_profileKey"] = "Toshdruid - Area 52",
 		},
 		["Toshpal - Area 52"] = {
 			["spec1_profileKey"] = "Toshpal - Area 52",
-			["specswap"] = false,
-			["downclick"] = true,
 			["fastooc"] = false,
 			["spec3_profileKey"] = "Toshpal - Area 52",
+			["downclick"] = true,
+			["specswap"] = false,
 			["spec2_profileKey"] = "Toshpal - Area 52",
 		},
 	},
@@ -53,20 +53,13 @@ CliqueDB3 = {
 		["Toshpriest - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "ALT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -74,7 +67,7 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [3]
+				}, -- [2]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -82,15 +75,14 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [4]
+				}, -- [3]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "CTRL-SHIFT-BUTTON2",
+					["type"] = "menu",
+					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [5]
+				}, -- [4]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -98,11 +90,19 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [6]
+				}, -- [5]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
 					["key"] = "SHIFT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [6]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "CTRL-SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -120,10 +120,10 @@ CliqueDB3 = {
 		["Toshdk - Kil'jaeden"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -139,10 +139,10 @@ CliqueDB3 = {
 		["Yelluwuy - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -158,10 +158,10 @@ CliqueDB3 = {
 		["Toshdruid - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -177,10 +177,10 @@ CliqueDB3 = {
 		["Toshlongboy - Eldre'Thalas"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -196,10 +196,10 @@ CliqueDB3 = {
 		["Yorman - Kil'jaeden"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -215,10 +215,10 @@ CliqueDB3 = {
 		["Toshpal - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

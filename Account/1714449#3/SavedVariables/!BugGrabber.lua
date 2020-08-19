@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 490,
 	["lastSanitation"] = 3,
+	["session"] = 491,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[==[ Error in 'QA Intermission Teller':'c...\"]:47: attempt to concatenate local 'mark' (a nil value)",

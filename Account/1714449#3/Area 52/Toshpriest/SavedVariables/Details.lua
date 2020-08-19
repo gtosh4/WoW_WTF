@@ -15,6 +15,52 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
+		["Gummybuns"] = {
+			"Nnnnneeeeeyoooooooooommmmmmmmmmmm", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Smytt"] = {
+			"Smytt", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			33, -- [7]
+		},
 		["Thuggjr"] = {
 			"Thuggjr", -- [1]
 			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
@@ -60,52 +106,6 @@ _detalhes_database = {
 				1, -- [3]
 			}, -- [6]
 			3, -- [7]
-		},
-		["Gummybuns"] = {
-			"Nnnnneeeeeyoooooooooommmmmmmmmmmm", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			3, -- [7]
-		},
-		["Choplo"] = {
-			"Thuggz", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-Rain", -- [4]
-			{
-				0.078125, -- [1]
-				0.970703125, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			6, -- [7]
 		},
 		["Thunderrz"] = {
 			"Bad Hunter", -- [1]
@@ -153,8 +153,8 @@ _detalhes_database = {
 			}, -- [6]
 			3, -- [7]
 		},
-		["nextreset"] = 1597865143,
 		["last_version"] = 12,
+		["nextreset"] = 1597865143,
 		["Judaasx"] = {
 			"Mr. Lonely", -- [1]
 			"", -- [2]
@@ -293,28 +293,28 @@ _detalhes_database = {
 			}, -- [6]
 			11, -- [7]
 		},
-		["Smytt"] = {
-			"Smytt", -- [1]
-			"", -- [2]
+		["Choplo"] = {
+			"Thuggz", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
 				0, -- [3]
 				1, -- [4]
 			}, -- [3]
-			"", -- [4]
+			"Interface\\PetBattles\\Weather-Rain", -- [4]
 			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
+				0.078125, -- [1]
+				0.970703125, -- [2]
+				1, -- [3]
+				0, -- [4]
 			}, -- [5]
 			{
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			33, -- [7]
+			6, -- [7]
 		},
 	},
 	["last_instance_id"] = 2070,
@@ -342,17 +342,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["enabled"] = true,
+			["showamount"] = false,
 			["animate"] = false,
 			["useplayercolor"] = false,
-			["author"] = "Details! Team",
 			["useclasscolors"] = false,
+			["author"] = "Details! Team",
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["enabled"] = true,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -367,13 +367,13 @@ _detalhes_database = {
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
-			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
@@ -386,11 +386,11 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
+			["hide_on_combat"] = false,
 			["show_icon"] = 5,
 			["opened"] = 1,
-			["hide_on_combat"] = false,
+			["encounter_timers_dbm"] = {
+			},
 		},
 		["DETAILS_PLUGIN_DEATH_GRAPHICS"] = {
 			["last_boss"] = "237216",
@@ -409,15 +409,15 @@ _detalhes_database = {
 			["max_segments_for_current"] = 2,
 			["max_deaths_for_current"] = 20,
 			["last_player"] = false,
-			["author"] = "Details! Team",
+			["InstalledAt"] = 1595359041,
 			["last_encounter_hash"] = false,
-			["enabled"] = true,
+			["showing_type"] = 3,
 			["timeline_cutoff_time"] = 3,
 			["last_segment"] = false,
 			["last_combat_id"] = 731,
 			["timeline_cutoff_delete_time"] = 3,
-			["showing_type"] = 3,
-			["InstalledAt"] = 1595359041,
+			["enabled"] = true,
+			["author"] = "Details! Team",
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -444,12 +444,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = false,
-			["author"] = "Details! Team",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -457,17 +457,8 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 6.103515625e-05,
-			["x"] = 6.103515625e-05,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -475,405 +466,23 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 9.1552734375e-05,
 				["x"] = 6.103515625e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
-			["main_frame_strata"] = "LOW",
-			["point"] = "CENTER",
-			["row_height"] = 20,
-			["scale"] = 1,
-		},
-	},
-	["last_encounter"] = "Lady Jaina Proudmoore",
-	["last_day"] = "15",
-	["cached_talents"] = {
-		["Player-9-0B2D7AFD"] = {
-			22385, -- [1]
-			18571, -- [2]
-			22159, -- [3]
-			18577, -- [4]
-			21706, -- [5]
-			21712, -- [6]
-			21648, -- [7]
-		},
-		["Player-3676-0AD91DE6"] = {
-			22493, -- [1]
-			22799, -- [2]
-			22909, -- [3]
-			21863, -- [4]
-			21867, -- [5]
-			22767, -- [6]
-			21900, -- [7]
-		},
-		["Player-3676-0AD8DDBF"] = {
-			17565, -- [1]
-			17577, -- [2]
-			22179, -- [3]
-			22181, -- [4]
-			22164, -- [5]
-			23191, -- [6]
-			21668, -- [7]
-		},
-		["Player-3676-0AD901AD"] = {
-			22462, -- [1]
-			22443, -- [2]
-			22447, -- [3]
-			22450, -- [4]
-			22904, -- [5]
-			23362, -- [6]
-			21631, -- [7]
-		},
-		["Player-3676-0AD8F401"] = {
-			22090, -- [1]
-			21695, -- [2]
-			19285, -- [3]
-			23143, -- [4]
-			19288, -- [5]
-			23156, -- [6]
-			23092, -- [7]
-		},
-		["Player-9-0BAF05B1"] = {
-			22353, -- [1]
-			22150, -- [2]
-			23165, -- [3]
-			23090, -- [4]
-			21966, -- [5]
-			22352, -- [6]
-			21970, -- [7]
-		},
-		["Player-3676-0AD9A2A7"] = {
-			22428, -- [1]
-			22604, -- [2]
-			21811, -- [3]
-			22435, -- [4]
-			21795, -- [5]
-			22438, -- [6]
-			22645, -- [7]
-		},
-		["Player-3676-0AD915EB"] = {
-			22280, -- [1]
-			22266, -- [2]
-			19348, -- [3]
-			22347, -- [4]
-			22499, -- [5]
-			19357, -- [6]
-			21986, -- [7]
-		},
-		["Player-3676-0AD8E03C"] = {
-			22493, -- [1]
-			22799, -- [2]
-			22909, -- [3]
-			21865, -- [4]
-			21867, -- [5]
-			22767, -- [6]
-			21900, -- [7]
-		},
-		["Player-3676-0AD8DE97"] = {
-			22018, -- [1]
-			22020, -- [2]
-			22519, -- [3]
-			22523, -- [4]
-			22530, -- [5]
-			22531, -- [6]
-			22023, -- [7]
-		},
-		["Player-9-0BBA7095"] = {
-			22502, -- [1]
-			22766, -- [2]
-			22324, -- [3]
-			22770, -- [4]
-			22511, -- [5]
-			22512, -- [6]
-			22543, -- [7]
-		},
-		["Player-3676-0AD94DD8"] = {
-			23106, -- [1]
-			19302, -- [2]
-			22099, -- [3]
-			19995, -- [4]
-			20174, -- [5]
-			20184, -- [6]
-			22106, -- [7]
-		},
-		["Player-3676-0AD8EB29"] = {
-			22633, -- [1]
-			19676, -- [2]
-			22381, -- [3]
-			22382, -- [4]
-			22383, -- [5]
-			22398, -- [6]
-			16037, -- [7]
-		},
-		["Player-3676-0AF2963C"] = {
-			22090, -- [1]
-			21695, -- [2]
-			19285, -- [3]
-			23143, -- [4]
-			19288, -- [5]
-			23156, -- [6]
-			23092, -- [7]
-		},
-		["Player-9-0BA22384"] = {
-			19820, -- [1]
-			19818, -- [2]
-			19771, -- [3]
-			19995, -- [4]
-			23258, -- [5]
-			22093, -- [6]
-			22105, -- [7]
-		},
-		["Player-3676-0AD94DBE"] = {
-			19820, -- [1]
-			19302, -- [2]
-			19771, -- [3]
-			19995, -- [4]
-			20173, -- [5]
-			22093, -- [6]
-			22105, -- [7]
-		},
-		["Player-3676-0AD945E6"] = {
-			22329, -- [1]
-			19758, -- [2]
-			19755, -- [3]
-			19761, -- [4]
-			22330, -- [5]
-			22161, -- [6]
-			22976, -- [7]
-		},
-		["Player-3676-0AEB80E4"] = {
-			22493, -- [1]
-			22799, -- [2]
-			22909, -- [3]
-			21863, -- [4]
-			21867, -- [5]
-			22767, -- [6]
-			21900, -- [7]
-		},
-		["Player-3676-0AD8DEF7"] = {
-			22090, -- [1]
-			21695, -- [2]
-			19285, -- [3]
-			23143, -- [4]
-			19288, -- [5]
-			23156, -- [6]
-			23092, -- [7]
-		},
-		["Player-3676-0AD6A054"] = {
-			22280, -- [1]
-			22266, -- [2]
-			19347, -- [3]
-			22347, -- [4]
-			22276, -- [5]
-			19357, -- [6]
-			21986, -- [7]
-		},
-		["Player-3676-0AD9005F"] = {
-			22026, -- [1]
-			22028, -- [2]
-			22520, -- [3]
-			22526, -- [4]
-			22529, -- [5]
-			22536, -- [6]
-			22030, -- [7]
-		},
-		["Player-3676-09F471E7"] = {
-			22280, -- [1]
-			22266, -- [2]
-			19348, -- [3]
-			22347, -- [4]
-			22276, -- [5]
-			19357, -- [6]
-			21986, -- [7]
-		},
-		["Player-3676-0ADA35DE"] = {
-			22590, -- [1]
-			22593, -- [2]
-			21811, -- [3]
-			22183, -- [4]
-			22185, -- [5]
-			23086, -- [6]
-			22215, -- [7]
-		},
-		["Player-57-0ACFA287"] = {
-			22280, -- [1]
-			22266, -- [2]
-			19348, -- [3]
-			22347, -- [4]
-			22499, -- [5]
-			19357, -- [6]
-			21986, -- [7]
-		},
-		["Player-3676-0AD8DDE1"] = {
-			22493, -- [1]
-			22799, -- [2]
-			22909, -- [3]
-			21865, -- [4]
-			21867, -- [5]
-			21869, -- [6]
-			21900, -- [7]
-		},
-		["Player-3676-0AD8EBC9"] = {
-			22460, -- [1]
-			22443, -- [2]
-			22444, -- [3]
-			22452, -- [4]
-			22446, -- [5]
-			23176, -- [6]
-			21632, -- [7]
-		},
-		["Player-3676-0ADA0DE5"] = {
-			22312, -- [1]
-			19758, -- [2]
-			22487, -- [3]
-			19761, -- [4]
-			21754, -- [5]
-			19763, -- [6]
-			23145, -- [7]
-		},
-		["Player-3676-0AE4E6AC"] = {
-			22428, -- [1]
-			22604, -- [2]
-			21811, -- [3]
-			22435, -- [4]
-			21795, -- [5]
-			22438, -- [6]
-			21202, -- [7]
-		},
-		["Player-9-0A185FCF"] = {
-			22385, -- [1]
-			18571, -- [2]
-			22159, -- [3]
-			18577, -- [4]
-			21706, -- [5]
-			22165, -- [6]
-			21648, -- [7]
-		},
-		["Player-3684-0AEEBA9F"] = {
-			18569, -- [1]
-			18570, -- [2]
-			22160, -- [3]
-			21778, -- [4]
-			21705, -- [5]
-			22422, -- [6]
-			22404, -- [7]
-		},
-		["Player-3676-0AD8EBC3"] = {
-			22557, -- [1]
-			22593, -- [2]
-			22896, -- [3]
-			22183, -- [4]
-			22595, -- [5]
-			23086, -- [6]
-			22591, -- [7]
-		},
-		["Player-3676-0ABFE390"] = {
-			22314, -- [1]
-			22315, -- [2]
-			23126, -- [3]
-			21752, -- [4]
-			22310, -- [5]
-			21718, -- [6]
-			21637, -- [7]
-		},
-		["Player-3676-0AD9382C"] = {
-			19166, -- [1]
-			19219, -- [2]
-			22134, -- [3]
-			22013, -- [4]
-			19228, -- [5]
-			19231, -- [6]
-			21208, -- [7]
-		},
-		["Player-128-05D68EB1"] = {
-			22038, -- [1]
-			23148, -- [2]
-			19285, -- [3]
-			22043, -- [4]
-			22047, -- [5]
-			23156, -- [6]
-			23092, -- [7]
-		},
-		["Player-3676-0AEF7CE0"] = {
-			22312, -- [1]
-			19758, -- [2]
-			22487, -- [3]
-			19761, -- [4]
-			21754, -- [5]
-			19763, -- [6]
-			23145, -- [7]
-		},
-		["Player-3676-0A94C79C"] = {
-			19264, -- [1]
-			19259, -- [2]
-			19275, -- [3]
-			22322, -- [4]
-			19269, -- [5]
-			21968, -- [6]
-			21969, -- [7]
-		},
-		["Player-3676-0AE4F849"] = {
-			17565, -- [1]
-			17577, -- [2]
-			21811, -- [3]
-			22181, -- [4]
-			22164, -- [5]
-			23191, -- [6]
-			21668, -- [7]
-		},
-		["Player-3676-0ABA42D1"] = {
-			22314, -- [1]
-			22315, -- [2]
-			23125, -- [3]
-			21752, -- [4]
-			22310, -- [5]
-			21718, -- [6]
-			21637, -- [7]
-		},
-		["Player-57-095F4716"] = {
-			22502, -- [1]
-			22766, -- [2]
-			22324, -- [3]
-			22770, -- [4]
-			22511, -- [5]
-			22512, -- [6]
-			22543, -- [7]
-		},
-		["Player-3676-0AE32F19"] = {
-			22119, -- [1]
-			19236, -- [2]
-			19240, -- [3]
-			22122, -- [4]
-			22115, -- [5]
-			23128, -- [6]
-			22125, -- [7]
-		},
-		["Player-3676-0AD96CC7"] = {
-			22462, -- [1]
-			22443, -- [2]
-			22447, -- [3]
-			22450, -- [4]
-			22904, -- [5]
-			22472, -- [6]
-			21631, -- [7]
-		},
-		["Player-3676-0AE957C5"] = {
-			22280, -- [1]
-			22266, -- [2]
-			19348, -- [3]
-			22347, -- [4]
-			22276, -- [5]
-			19357, -- [6]
-			21986, -- [7]
-		},
-		["Player-3676-0AD9016F"] = {
-			22385, -- [1]
-			18571, -- [2]
-			22159, -- [3]
-			18576, -- [4]
-			21706, -- [5]
-			21712, -- [6]
-			21648, -- [7]
+			["font_size"] = 10,
+			["x"] = 6.103515625e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 6.103515625e-05,
+			["use_spark"] = true,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 	["announce_prepots"] = {
@@ -881,15 +490,145 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["benchmark_db"] = {
-		["frame"] = {
-		},
+	["last_encounter"] = "Lady Jaina Proudmoore",
+	["last_day"] = "18",
+	["cached_talents"] = {
 	},
-	["character_data"] = {
-		["logons"] = 482,
+	["last_realversion"] = 141,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["combat_id"] = 0,
 	["savedStyles"] = {
+	},
+	["combat_counter"] = 1386,
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1597547829,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 1381,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = 0,
+		["spells_cast_timeline"] = {
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["hasSaved"] = true,
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["cleu_timeline"] = {
+		},
+		["CombatSkillCache"] = {
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["start_time"] = 0,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
 	},
 	["local_instances_config"] = {
 		{
@@ -959,143 +698,17 @@ _detalhes_database = {
 			},
 		}, -- [2]
 	},
-	["force_font_outline"] = "",
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
+	["character_data"] = {
+		["logons"] = 483,
 	},
-	["tabela_overall"] = {
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [1]
-		{
-			["tipo"] = 3,
-			["_ActorTable"] = {
-			},
-		}, -- [2]
-		{
-			["tipo"] = 7,
-			["_ActorTable"] = {
-			},
-		}, -- [3]
-		{
-			["tipo"] = 9,
-			["_ActorTable"] = {
-			},
-		}, -- [4]
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [5]
-		["raid_roster"] = {
-		},
-		["tempo_start"] = 1597547829,
-		["last_events_tables"] = {
-		},
-		["alternate_power"] = {
-		},
-		["combat_counter"] = 1381,
-		["totals"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
-			["voidzone_damage"] = 0,
-			["frags_total"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["data_inicio"] = 0,
-		["frags"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["damage"] = {
-			},
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-		},
-		["overall_refreshed"] = true,
-		["hasSaved"] = true,
-		["spells_cast_timeline"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["CombatSkillCache"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["start_time"] = 0,
-		["TimeData"] = {
-			["Raid Damage Done"] = {
-			},
-		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
+	["benchmark_db"] = {
+		["frame"] = {
 		},
 	},
-	["combat_counter"] = 1384,
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["last_realversion"] = 141,
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
