@@ -8,14 +8,14 @@ VExRT = {
 		["enabled"] = true,
 	},
 	["ProfileKeys"] = {
-		["Toshdk-Kil'jaeden"] = "default",
-		["Toshpriest-Area52"] = "default",
-		["Toshpal-Area52"] = "default",
 		["Yelluwuy-Area52"] = "default",
+		["Toshpriest-Area52"] = "default",
+		["Toshlongboy-Eldre'Thalas"] = "default",
+		["Toshdk-Kil'jaeden"] = "default",
 		["Yorman-Kil'jaeden"] = "default",
 		["Toshaman-Area52"] = "default",
 		["Toshdruid-Area52"] = "default",
-		["Toshlongboy-Eldre'Thalas"] = "default",
+		["Toshpal-Area52"] = "default",
 	},
 	["Encounter"] = {
 		["names"] = {
@@ -209,6 +209,14 @@ VExRT = {
 				"^2344^16^1597639097^195^0^20^477.17^Felside-Kil'jaeden", -- [138]
 				"^2344^16^1597639390^504^0^20^477.17^Tianarrae-Kil'jaeden", -- [139]
 				"^2344^16^1597640008^527^0^20^477.09^Myss-Tichondrius", -- [140]
+				"^2344^16^1597890036^507^0^20^441.41^Esperance-Kil'jaeden", -- [141]
+				"^2344^16^1597890732^368^0^20^454.26^Genoqt-Tichondrius", -- [142]
+				"^2344^16^1597891256^312^0^20^454.78^Logs", -- [143]
+				"^2344^16^1597891644^521^0^20^452.86^Fierypower-Kil'jaeden", -- [144]
+				"^2344^16^1597892310^338^0^20^452.86^Leafyo", -- [145]
+				"^2344^16^1597892758^612^0^20^452.86^Fierypower-Kil'jaeden", -- [146]
+				"^2344^16^1597893785^398^0^20^457.86^Royalty", -- [147]
+				"^2344^16^1597894660^721^1^20^453.03^Myss-Tichondrius", -- [148]
 			},
 			["Toshaman"] = {
 			},
@@ -237,6 +245,13 @@ VExRT = {
 			"!4174133Twodaggers-Tichondrius1595995699:4:4823:1502:4786:6509", -- [15]
 			"!6174533Epicdemic-Hyjal1595995701:5:4823:6516:6515:1502:4786", -- [16]
 			"!9174118Turbolok-BleedingHollow1595995713:4:4823:1502:4786:6508", -- [17]
+			"!C174133Felside-Kil'jaeden1597895391:4:4824:1517:4786:6512", -- [18]
+			"!5174118Mordpriest-Kil'jaeden1597895393:4:4824:1517:4786:6511", -- [19]
+			"!B174103Leafyo1597895395:4:4824:6515:1517:4786", -- [20]
+			"!1172187Khodiie-Kil'jaeden1597895399:7:4824:1808:6539:6578:6579:1517:4786", -- [21]
+			"!8174533Esperance-Kil'jaeden1597895399:5:4824:6516:6515:1517:4786", -- [22]
+			"!2174533Royalty1597895400:6:4824:42:6516:6515:1517:4786", -- [23]
+			"!9174103Fierypower-Kil'jaeden1597895416:4:4824:6513:1517:4786", -- [24]
 		},
 	},
 	["ExCD2"] = {
@@ -318,30 +333,33 @@ VExRT = {
 			["Bigbf-Hyjal"] = 259,
 			["Jarrbek-Kil'jaeden"] = 262,
 			["Fistsofkai-Zul'jin"] = 269,
+			["Hoofalo-Kil'jaeden"] = 250,
 			["Illestchi-Barthilas"] = 269,
+			["Gødmage-Tichondrius"] = 63,
+			["Esperance-Kil'jaeden"] = 63,
 			["Nuwance-Azralon"] = 253,
 			["Baesong-Kil'jaeden"] = 71,
+			["Leafyo"] = 105,
 			["Eau"] = 102,
+			["Bogarn-Kil'jaeden"] = 102,
+			["Fierypower-Kil'jaeden"] = 267,
 			["Myss-Tichondrius"] = 63,
 			["Zanlet-Illidan"] = 63,
 			["Ricksstudent-Mal'Ganis"] = 270,
 			["Xiaphos-Mal'Ganis"] = 71,
-			["Esperance-Kil'jaeden"] = 63,
 			["Arteoculto-Quel'Thalas"] = 253,
-			["Leafyo"] = 105,
 			["Judaasx"] = 267,
 			["Xanthrel-Stormscale"] = 577,
 			["Mordpriest-Kil'jaeden"] = 258,
 			["Scoobytanks-Zul'jin"] = 250,
 			["Smoldogqq"] = 267,
-			["Hoofalo-Kil'jaeden"] = 250,
 			["Kwysea-KulTiras"] = 577,
 			["Splendiferus-Kil'jaeden"] = 577,
 			["Toshdruid"] = 105,
 			["Radriar-Kil'jaeden"] = 71,
 			["Yorman"] = 105,
 			["Nippybust-Illidan"] = 63,
-			["Amaleana"] = 102,
+			["Zanzir-Illidan"] = 253,
 			["Datavi"] = 259,
 			["Tigerprncess-MoonGuard"] = 253,
 			["Scibolt"] = 267,
@@ -368,21 +386,21 @@ VExRT = {
 			["Epicdemic-Hyjal"] = 252,
 			["Paxington-Illidan"] = 253,
 			["Csbwhen-Uldum"] = 577,
-			["Smytt"] = 253,
+			["Ancestràl-Kil'jaeden"] = 264,
 			["Toshaman"] = 264,
 			["Shankntwist-BleedingHollow"] = 259,
-			["Agg"] = 63,
+			["Smytt"] = 253,
 			["Goffee-Kil'jaeden"] = 267,
 			["Twodaggers-Tichondrius"] = 259,
 			["Rivalry"] = 577,
 			["Turbolok-BleedingHollow"] = 267,
 			["Unkindlëd-Illidan"] = 265,
 			["Felside-Kil'jaeden"] = 577,
-			["Thsdawarrior-Spirestone"] = 73,
 			["Unhealable"] = 268,
+			["Thsdawarrior-Spirestone"] = 73,
 			["Evandh-Illidan"] = 581,
 			["Artsong"] = 253,
-			["Ancestràl-Kil'jaeden"] = 264,
+			["Agg"] = 63,
 			["Thunderrz"] = 253,
 			["Genoqt-Tichondrius"] = 577,
 			["ßunnyjaks-Tichondrius"] = 73,
@@ -398,15 +416,13 @@ VExRT = {
 			["Grundhar-Illidan"] = 73,
 			["Slippirz-Tichondrius"] = 72,
 			["Toshlongboy"] = 256,
-			["Zanzir-Illidan"] = 253,
-			["Fierypower-Kil'jaeden"] = 267,
+			["Amaleana"] = 102,
 			["Scitron"] = 264,
 			["Toshdk"] = 252,
 			["Kahara-Garona"] = 73,
 			["Yêsterday-Illidan"] = 261,
 			["Neenong-WyrmrestAccord"] = 70,
 			["Daemoñ"] = 251,
-			["Bogarn-Kil'jaeden"] = 102,
 			["Versatillee-Mal'Ganis"] = 70,
 			["Sán-Kil'jaeden"] = 253,
 			["Delpih"] = 253,
@@ -608,13 +624,13 @@ VExRT = {
 				"LHysterìa-Illidan", -- [18]
 				"AHaschwàlth-Ragnaros", -- [19]
 				[36] = "CSciduckhunt",
-				["eN"] = "Wrathion",
-				["c"] = "Toshpal-Area52",
-				["t"] = 1595391895,
 				["eI"] = 2329,
+				["k"] = true,
+				["t"] = 1595391895,
+				["eN"] = "Wrathion",
 				["d"] = 15,
 				["g"] = 19,
-				["k"] = true,
+				["c"] = "Toshpal-Area52",
 			}, -- [1]
 			{
 				"DDatavi", -- [1]
@@ -637,13 +653,13 @@ VExRT = {
 				"AWilwar", -- [18]
 				"IJudaasx", -- [19]
 				"LAndruw", -- [20]
-				["k"] = true,
 				["c"] = "Toshpal-Area52",
+				["k"] = true,
 				["d"] = 16,
-				["eN"] = "Il'gynoth, Corruption Reborn",
+				["eI"] = 2345,
 				["t"] = 1595653120,
 				["g"] = 20,
-				["eI"] = 2345,
+				["eN"] = "Il'gynoth, Corruption Reborn",
 			}, -- [2]
 			{
 				"LIllsong", -- [1]
@@ -666,13 +682,13 @@ VExRT = {
 				"JChoplo", -- [18]
 				"IFortytoo-ShadowCouncil", -- [19]
 				"EGewccishadez-Zul'jin", -- [20]
-				["k"] = true,
 				["c"] = "Toshpal-Area52",
+				["k"] = true,
 				["d"] = 15,
-				["eN"] = "Wrathion",
+				["eI"] = 2329,
 				["t"] = 1595992697,
 				["g"] = 20,
-				["eI"] = 2329,
+				["eN"] = "Wrathion",
 			}, -- [3]
 			{
 				"LIllsong", -- [1]
@@ -697,14 +713,43 @@ VExRT = {
 				"EGewccishadez-Zul'jin", -- [20]
 				"ITurbolok-BleedingHollow", -- [21]
 				"LDelpix-Tichondrius", -- [22]
-				["eN"] = "The Hivemind",
-				["c"] = "Toshpal-Area52",
-				["t"] = 1595993587,
 				["eI"] = 2333,
+				["k"] = true,
+				["t"] = 1595993587,
+				["eN"] = "The Hivemind",
 				["d"] = 15,
 				["g"] = 21,
-				["k"] = true,
+				["c"] = "Toshpal-Area52",
 			}, -- [4]
+			{
+				"FHoofalo-Kil'jaeden", -- [1]
+				"KLeafyo", -- [2]
+				"BToshpal", -- [3]
+				"BRoyalty", -- [4]
+				"ETianarrae-Kil'jaeden", -- [5]
+				"LFelside-Kil'jaeden", -- [6]
+				"LGenoqt-Tichondrius", -- [7]
+				"KBogarn-Kil'jaeden", -- [8]
+				"CSán-Kil'jaeden", -- [9]
+				"HEsperance-Kil'jaeden", -- [10]
+				"JKajio-Kil'jaeden", -- [11]
+				"IFierypower-Kil'jaeden", -- [12]
+				"HGødmage-Tichondrius", -- [13]
+				"HMyss-Tichondrius", -- [14]
+				"AKhodiie-Kil'jaeden", -- [15]
+				"LSplendiferus-Kil'jaeden", -- [16]
+				"IGoffee-Kil'jaeden", -- [17]
+				"EMordpriest-Kil'jaeden", -- [18]
+				"HLogs", -- [19]
+				"CKerryhunts-Kil'jaeden", -- [20]
+				["d"] = 16,
+				["k"] = true,
+				["c"] = "Toshpal-Area52",
+				["eI"] = 2344,
+				["t"] = 1597895381,
+				["g"] = 20,
+				["eN"] = "N'Zoth the Corruptor",
+			}, -- [5]
 		},
 		["alts"] = {
 		},
@@ -733,13 +778,13 @@ VExRT = {
 		["Rank"] = 1,
 	},
 	["Addon"] = {
-		["Scale"] = 1,
-		["Version"] = 4170,
 		["PreVersion"] = 4170,
+		["Version"] = 4170,
 		["IconMiniMapLeft"] = -43.8422319805596,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["IconMiniMapHide"] = true,
 		["Timer"] = 0.1,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["Scale"] = 1,
+		["IconMiniMapHide"] = true,
 	},
 	["WhoPulled"] = {
 	},
@@ -764,11 +809,11 @@ VExRT = {
 		},
 		["Left"] = 27.49960708618164,
 		["Fix"] = true,
-		["Text1"] = "{time:2:45}Burn#1 Tia \n{time:5:45}Burn#2 Tosh + Anscestral + Yuks\n{time:6:20}Harvesters #1 Splend \n{time:7:35}Harvesters #2 Hoof + Kajio\nAll immunities soak 3rd thought harvesters\n\nBomb soaks\n1 - Esper + Fiery\n2 - Geno + Goffee + San\n3 - Logs + Mord + Bogarn\n4* Khodie + Jarrbek + Felside\n\nExtra - Xia + Myss + *",
+		["Text1"] = "{time:2:45}Burn#1 Tia \n{time:5:45}Burn#2 Tosh + Anscestral + Yuks\n{time:6:20}Harvesters #1 Splend \n{time:7:35}Harvesters #2 Hoof + Kajio\nAll immunities soak 3rd thought harvesters\n\nBomb soaks\n1 - Esper + Fiery\n2 - Geno + Goffee + San\n3 - Logs + Mord + Bogarn\n4* Khodie + Felside + Kerry\n\nExtra - Godmage + Myss",
 		["OptionsFormatting"] = true,
 		["DefName"] = "M Nzoth",
 		["LastUpdateName"] = "Felside-Kil'jaeden",
-		["LastUpdateTime"] = 1597632004,
+		["LastUpdateTime"] = 1597889938,
 		["Width"] = 262.5001525878906,
 		["BlackLastUpdateName"] = {
 		},

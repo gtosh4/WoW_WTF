@@ -1,5 +1,122 @@
 
 AstralKeys = {
+	{
+		"Toshpal-Area52", -- [1]
+		"PALADIN", -- [2]
+		251, -- [3]
+		18, -- [4]
+		0, -- [5]
+		161, -- [6]
+		132711, -- [7]
+	}, -- [1]
+	{
+		"Race-Area52", -- [1]
+		"ROGUE", -- [2]
+		247, -- [3]
+		22, -- [4]
+		0, -- [5]
+		161, -- [6]
+		132906, -- [7]
+	}, -- [2]
+	{
+		"Unhealable-Area52", -- [1]
+		"MONK", -- [2]
+		250, -- [3]
+		17, -- [4]
+		0, -- [5]
+		161, -- [6]
+		5, -- [7]
+	}, -- [3]
+	{
+		"Rathux-Area52", -- [1]
+		"DEATHKNIGHT", -- [2]
+		249, -- [3]
+		24, -- [4]
+		25, -- [5]
+		161, -- [6]
+		3, -- [7]
+	}, -- [4]
+	{
+		"Artsong-Area52", -- [1]
+		"HUNTER", -- [2]
+		246, -- [3]
+		24, -- [4]
+		0, -- [5]
+		161, -- [6]
+		5, -- [7]
+	}, -- [5]
+	{
+		"Illsong-Area52", -- [1]
+		"DEMONHUNTER", -- [2]
+		353, -- [3]
+		24, -- [4]
+		25, -- [5]
+		161, -- [6]
+		5, -- [7]
+	}, -- [6]
+	{
+		"Andruw-Area52", -- [1]
+		"DEMONHUNTER", -- [2]
+		251, -- [3]
+		22, -- [4]
+		0, -- [5]
+		161, -- [6]
+		2, -- [7]
+	}, -- [7]
+	{
+		"Yukiox-Area52", -- [1]
+		"MAGE", -- [2]
+		353, -- [3]
+		24, -- [4]
+		0, -- [5]
+		161, -- [6]
+		3, -- [7]
+	}, -- [8]
+	{
+		"Leafyo-Area52", -- [1]
+		"DRUID", -- [2]
+		248, -- [3]
+		21, -- [4]
+		0, -- [5]
+		161, -- [6]
+		124867, -- [7]
+	}, -- [9]
+	{
+		"Delpih-Area52", -- [1]
+		"HUNTER", -- [2]
+		370, -- [3]
+		14, -- [4]
+		0, -- [5]
+		161, -- [6]
+		3, -- [7]
+	}, -- [10]
+	{
+		"Delpix-Area52", -- [1]
+		"WARLOCK", -- [2]
+		353, -- [3]
+		23, -- [4]
+		0, -- [5]
+		161, -- [6]
+		3, -- [7]
+	}, -- [11]
+	{
+		"Delpi-Area52", -- [1]
+		"MAGE", -- [2]
+		246, -- [3]
+		24, -- [4]
+		0, -- [5]
+		161, -- [6]
+		3, -- [7]
+	}, -- [12]
+	{
+		"Royalty-Area52", -- [1]
+		"PALADIN", -- [2]
+		249, -- [3]
+		18, -- [4]
+		0, -- [5]
+		161, -- [6]
+		133057, -- [7]
+	}, -- [13]
 }
 AstralCharacters = {
 	{
@@ -10,9 +127,96 @@ AstralCharacters = {
 	}, -- [1]
 }
 AstralFriends = {
+	{
+		"Ngow-Kil'jaeden", -- [1]
+		"boochan#1194", -- [2]
+		"DRUID", -- [3]
+		370, -- [4]
+		22, -- [5]
+		161, -- [6]
+		132119, -- [7]
+		"1", -- [8]
+		23, -- [9]
+	}, -- [1]
+	{
+		"Orcbum-Kil'jaeden", -- [1]
+		"bum#1748", -- [2]
+		"WARRIOR", -- [3]
+		246, -- [4]
+		21, -- [5]
+		161, -- [6]
+		132118, -- [7]
+		"1", -- [8]
+		23, -- [9]
+	}, -- [2]
+	{
+		"Leafyo-Area52", -- [1]
+		"YukioX#1520", -- [2]
+		"DRUID", -- [3]
+		248, -- [4]
+		21, -- [5]
+		161, -- [6]
+		32878, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [3]
+	{
+		"Yukiox-Area52", -- [1]
+		"YukioX#1520", -- [2]
+		"MAGE", -- [3]
+		353, -- [4]
+		24, -- [5]
+		161, -- [6]
+		36179, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [4]
+	{
+		"Yukios-Kil'jaeden", -- [1]
+		"YukioX#1520", -- [2]
+		"SHAMAN", -- [3]
+		250, -- [4]
+		18, -- [5]
+		161, -- [6]
+		33388, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [5]
+	{
+		"Yuffio-Kil'jaeden", -- [1]
+		"YukioX#1520", -- [2]
+		"PRIEST", -- [3]
+		370, -- [4]
+		17, -- [5]
+		161, -- [6]
+		33097, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [6]
+	{
+		"Baesong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"WARRIOR", -- [3]
+		246, -- [4]
+		21, -- [5]
+		161, -- [6]
+		132930, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [7]
+	{
+		"Royalty-Area52", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"PALADIN", -- [3]
+		249, -- [4]
+		18, -- [5]
+		161, -- [6]
+		133054, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [8]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -39,6 +243,14 @@ AstralKeysSettings = {
 		["sorth_method"] = "character_name",
 		["current_list"] = "FRIENDS",
 	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["general"] = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
@@ -48,10 +260,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
 			["guild"] = false,
 			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -63,14 +275,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 193,
+	["session"] = 195,
 	["errors"] = {
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_characters.lua",

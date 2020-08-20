@@ -249,6 +249,11 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
+					[58743] = {
+						["expireAt"] = 1597935668,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 2004597,
+					},
 				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {
@@ -378,6 +383,7 @@ WQTrackerDB = {
 				["name_cache"] = {
 					["Branchlord Aldrus"] = 142508,
 					["Wrath-Lord Yarez"] = 126338,
+					["Vrax'thul"] = 126199,
 					["Ataxon"] = 126887,
 					["Zul'tan the Numerous"] = 126908,
 					["Gar'zoth"] = 122999,
