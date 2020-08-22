@@ -1,5 +1,7 @@
 
 EssenceSetManager = {
+	["Holy"] = {
+	},
 	["Discipline"] = {
 		["vis"] = {
 			["major"] = {
@@ -41,7 +43,5 @@ EssenceSetManager = {
 				},
 			},
 		},
-	},
-	["Holy"] = {
 	},
 }
