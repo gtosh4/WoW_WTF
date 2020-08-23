@@ -1,10 +1,10 @@
 
 BigWigs3DB = {
-	["discord"] = 15,
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},
+	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
@@ -51,8 +51,6 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Bosses_The Prophet Skitra"] = {
 		},
 		["BigWigs_Bosses_Thrall"] = {
 			["profiles"] = {
@@ -112,6 +110,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
+		},
 		["BigWigs_Bosses_Infested Crawg"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -119,9 +119,34 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Drest'agath"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
+			["profiles"] = {
+				["Default"] = {
+					[263257] = 3129591,
+				},
+			},
 		},
-		["BigWigs_Bosses_Shad'har the Insatiable"] = {
+		["BigWigs_Bosses_King Mechagon"] = {
+			["profiles"] = {
+				["Default"] = {
+					[283551] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_The Hivemind"] = {
+			["profiles"] = {
+				["Default"] = {
+					[307201] = 3129591,
+					[307213] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Sporecaller Zancha"] = {
+			["profiles"] = {
+				["Default"] = {
+					[259732] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -167,33 +192,27 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_The Hivemind"] = {
+		["BigWigs_Bosses_Unbound Abomination"] = {
 			["profiles"] = {
 				["Default"] = {
-					[307201] = 3129591,
-					[307213] = 3129591,
+					[269843] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Dark Inquisitor Xanesh"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
-		["BigWigs_Bosses_Ra-den the Despoiled"] = {
-		},
-		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
-		},
-		["BigWigs_Bosses_Wrathion"] = {
-		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
 				["Default"] = {
-					[255371] = 3129591,
+					["posx"] = 513.6001447701419,
+					["posy"] = 154.133307101727,
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Bosses_Viq'Goth"] = {
 			["profiles"] = {
 				["Default"] = {
-					["voice"] = "English: Overwatch: Roadhog",
+					[275014] = 3129591,
 				},
 			},
 		},
@@ -228,14 +247,14 @@ BigWigs3DB = {
 					["BigWigsAnchor_y"] = 319.2539381766183,
 					["emphasizeGrowup"] = false,
 					["spacing"] = 4,
-					["emphasizeTime"] = 15,
+					["texture"] = "Smooth v2",
 					["barStyle"] = "ElvUI",
 					["BigWigsEmphasizeAnchor_width"] = 182.9999694824219,
 					["BigWigsEmphasizeAnchor_x"] = 667.2003757119091,
 					["fontSizeEmph"] = 12,
 					["BigWigsEmphasizeAnchor_y"] = 229.65323705435,
 					["BigWigsAnchor_x"] = 390.9344053244349,
-					["texture"] = "Smooth v2",
+					["emphasizeTime"] = 15,
 				},
 			},
 		},
@@ -299,8 +318,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Tussle Tonks"] = {
 							[285388] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Rezan"] = {
-							[255371] = "English: Overwatch: Roadhog",
+						["BigWigs_Bosses_Vexiona"] = {
+							[307639] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Maut"] = {
 							[308044] = "English: Overwatch: Reaper",
@@ -308,35 +327,25 @@ BigWigs3DB = {
 						["BigWigs_Bosses_King Mechagon"] = {
 							[283551] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Vexiona"] = {
-							[307639] = "English: Overwatch: Reaper",
+						["BigWigs_Bosses_Rezan"] = {
+							[255371] = "English: Overwatch: Roadhog",
 						},
 					},
 					["fontName"] = "Friz Quadrata TT",
 				},
 			},
 		},
-		["BigWigs_Bosses_Viq'Goth"] = {
+		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
-					[275014] = 3129591,
+					["voice"] = "English: Overwatch: Roadhog",
 				},
 			},
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 513.6001447701419,
-					["posy"] = 154.133307101727,
-				},
-			},
-		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
-			["profiles"] = {
-				["Default"] = {
-					[269843] = 3129591,
+					[255371] = 3129591,
 				},
 			},
 		},
@@ -349,27 +358,6 @@ BigWigs3DB = {
 					["lock"] = true,
 					["height"] = 120.0000534057617,
 					["posx"] = 778.1331857323676,
-				},
-			},
-		},
-		["BigWigs_Bosses_Sporecaller Zancha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[259732] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Bosses_King Mechagon"] = {
-			["profiles"] = {
-				["Default"] = {
-					[283551] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
-			["profiles"] = {
-				["Default"] = {
-					[263257] = 3129591,
 				},
 			},
 		},
@@ -506,7 +494,7 @@ BigWigsStatsDB = {
 		[2343] = {
 			["mythic"] = {
 				["best"] = 165.1180000000168,
-				["kills"] = 1,
+				["kills"] = 2,
 			},
 		},
 	},

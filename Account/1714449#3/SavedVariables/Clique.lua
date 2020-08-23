@@ -8,9 +8,9 @@ CliqueDB3 = {
 			["blacklist"] = {
 				["PlayerFrame"] = true,
 			},
-			["spec2_profileKey"] = "Toshpriest - Area 52",
-			["downclick"] = true,
 			["spec3_profileKey"] = "Toshpriest - Area 52",
+			["downclick"] = true,
+			["spec2_profileKey"] = "Toshpriest - Area 52",
 			["specswap"] = false,
 		},
 		["Toshaman - Area 52"] = {
@@ -18,8 +18,8 @@ CliqueDB3 = {
 			["spec3_profileKey"] = "Toshaman - Area 52",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
 			["spec2_profileKey"] = "Toshaman - Area 52",
+			["specswap"] = false,
 		},
 	},
 	["profileKeys"] = {
@@ -30,28 +30,13 @@ CliqueDB3 = {
 		["Toshpriest - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "ALT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "CTRL-BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [3]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -59,11 +44,26 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
+				}, -- [2]
+				{
+					["type"] = "menu",
+					["key"] = "ALT-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [3]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "CTRL-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
 				}, -- [4]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "CTRL-SHIFT-BUTTON2",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -71,7 +71,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "ALT-BUTTON2",
+					["key"] = "CTRL-SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -79,7 +79,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "ALT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -97,10 +97,10 @@ CliqueDB3 = {
 		["Toshaman - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
