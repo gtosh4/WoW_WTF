@@ -1,5 +1,15 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -14,16 +24,6 @@ Postal3DB = {
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
 		},
@@ -34,6 +34,10 @@ Postal3DB = {
 				},
 			},
 		},
+		["Toshlongboy - Eldre'Thalas"] = {
+		},
+		["Toshaman - Area 52"] = {
+		},
 		["Toshdruid - Area 52"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -41,13 +45,9 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshaman - Area 52"] = {
-		},
-		["Toshlongboy - Eldre'Thalas"] = {
+		["Yelluwuy - Area 52"] = {
 		},
 		["Toshdk - Kil'jaeden"] = {
-		},
-		["Yelluwuy - Area 52"] = {
 		},
 		["Toshpal - Area 52"] = {
 			["BlackBook"] = {

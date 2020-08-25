@@ -13,22 +13,16 @@ SexyMap2DB = {
 			["borderColor"] = {
 			},
 			["xOffset"] = 0,
+			["updateRate"] = 1,
 			["backgroundColor"] = {
 			},
-			["updateRate"] = 1,
 			["yOffset"] = 10,
 		},
-		["core"] = {
-			["clamp"] = true,
-			["point"] = "TOPRIGHT",
-			["relpoint"] = "TOPRIGHT",
-			["autoZoom"] = 5,
-			["northTag"] = false,
-			["y"] = -21.99986457824707,
-			["x"] = -3.663726568222046,
-			["lock"] = true,
-			["shape"] = 130871,
-			["rightClickToConfig"] = true,
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
 		},
 		["buttons"] = {
 			["radius"] = 10,
@@ -42,34 +36,34 @@ SexyMap2DB = {
 				["MinimapZoomOut"] = "never",
 				["QueueStatusMinimapButton"] = "always",
 				["GarrisonLandingPageMinimapButton"] = "always",
-				["MiniMapMailFrame"] = "always",
 				["MiniMapWorldMapButton"] = "never",
+				["MiniMapMailFrame"] = "always",
 			},
 			["dragPositions"] = {
-				["GarrisonLandingPageMinimapButton"] = 211.9903549409229,
+				["GameTimeFrame"] = 149.2157701186239,
 				["LibDBIcon10_REFlex"] = 171.2800871235485,
-				["MiniMapTracking"] = 164.4354196017399,
+				["GarrisonLandingPageMinimapButton"] = 211.9903549409229,
 				["LibDBIcon10_BugSack"] = 187.8530548582654,
 				["LibDBIcon10_SavedInstances"] = 180.4162643872903,
-				["GameTimeFrame"] = 149.2157701186239,
+				["MiniMapTracking"] = 164.4354196017399,
 			},
 			["controlVisibility"] = true,
 		},
 		["clock"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["yOffset"] = 0,
@@ -103,28 +97,34 @@ SexyMap2DB = {
 		["zonetext"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
-			["width"] = 140,
 			["yOffset"] = 0,
+			["width"] = 140,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
+		["core"] = {
+			["clamp"] = true,
+			["point"] = "TOPRIGHT",
+			["relpoint"] = "TOPRIGHT",
+			["autoZoom"] = 5,
+			["northTag"] = false,
+			["y"] = -21.99986457824707,
+			["x"] = -3.663726568222046,
+			["lock"] = true,
+			["shape"] = 130871,
+			["rightClickToConfig"] = true,
 		},
 	},
 	["Toshaman-Area 52"] = "global",
@@ -132,10 +132,10 @@ SexyMap2DB = {
 		["core"] = {
 			["clamp"] = true,
 			["lock"] = false,
-			["rightClickToConfig"] = true,
-			["autoZoom"] = 5,
-			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
 			["northTag"] = true,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["autoZoom"] = 5,
+			["rightClickToConfig"] = true,
 		},
 		["coordinates"] = {
 			["enabled"] = false,
@@ -145,14 +145,16 @@ SexyMap2DB = {
 			["borderColor"] = {
 			},
 			["xOffset"] = 0,
+			["updateRate"] = 1,
 			["backgroundColor"] = {
 			},
-			["updateRate"] = 1,
 			["yOffset"] = 10,
 		},
-		["ping"] = {
-			["showPing"] = true,
-			["showAt"] = "map",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
 		},
 		["buttons"] = {
 			["radius"] = 10,
@@ -161,12 +163,12 @@ SexyMap2DB = {
 			["visibilitySettings"] = {
 				["MinimapZoomIn"] = "never",
 				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
+				["TimeManagerClockButton"] = "always",
 				["QueueStatusMinimapButton"] = "always",
 				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
 				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapWorldMapButton"] = "never",
 			},
 			["dragPositions"] = {
 			},
@@ -175,18 +177,18 @@ SexyMap2DB = {
 		["clock"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["yOffset"] = 0,
@@ -245,27 +247,25 @@ SexyMap2DB = {
 		["zonetext"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
 		},
 	},
 	["Toshpal-Area 52"] = "global",
@@ -274,10 +274,10 @@ SexyMap2DB = {
 		["core"] = {
 			["clamp"] = true,
 			["lock"] = false,
-			["rightClickToConfig"] = true,
-			["autoZoom"] = 5,
-			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
 			["northTag"] = true,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["autoZoom"] = 5,
+			["rightClickToConfig"] = true,
 		},
 		["coordinates"] = {
 			["enabled"] = false,
@@ -287,14 +287,28 @@ SexyMap2DB = {
 			["borderColor"] = {
 			},
 			["xOffset"] = 0,
+			["updateRate"] = 1,
 			["backgroundColor"] = {
 			},
-			["updateRate"] = 1,
 			["yOffset"] = 10,
 		},
-		["ping"] = {
-			["showPing"] = true,
-			["showAt"] = "map",
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MiniMapMailFrame"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapWorldMapButton"] = "never",
+			},
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 		["movers"] = {
 			["enabled"] = false,
@@ -305,18 +319,18 @@ SexyMap2DB = {
 		["clock"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["yOffset"] = 0,
@@ -375,51 +389,38 @@ SexyMap2DB = {
 		["zonetext"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
-			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
 		},
 	},
-	["Toshdruid-Area 52"] = "global",
+	["presets"] = {
+	},
 	["Toshdk-Kil'jaeden"] = "global",
 	["Yorman-Kil'jaeden"] = {
 		["core"] = {
 			["clamp"] = true,
 			["lock"] = false,
-			["rightClickToConfig"] = true,
-			["autoZoom"] = 5,
-			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
 			["northTag"] = true,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["autoZoom"] = 5,
+			["rightClickToConfig"] = true,
 		},
 		["coordinates"] = {
 			["enabled"] = false,
@@ -429,14 +430,28 @@ SexyMap2DB = {
 			["borderColor"] = {
 			},
 			["xOffset"] = 0,
+			["updateRate"] = 1,
 			["backgroundColor"] = {
 			},
-			["updateRate"] = 1,
 			["yOffset"] = 10,
 		},
-		["ping"] = {
-			["showPing"] = true,
-			["showAt"] = "map",
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MiniMapMailFrame"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapWorldMapButton"] = "never",
+			},
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 		["movers"] = {
 			["enabled"] = false,
@@ -447,18 +462,18 @@ SexyMap2DB = {
 		["clock"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["yOffset"] = 0,
@@ -517,43 +532,28 @@ SexyMap2DB = {
 		["zonetext"] = {
 			["bgColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["font"] = "Friz Quadrata TT",
 			["fontColor"] = {
 			},
 			["borderColor"] = {
 				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
 			},
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
-			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
 		},
 	},
-	["presets"] = {
-	},
+	["Toshdruid-Area 52"] = "global",
 }
 SexyMap82 = {
 	["backup"] = {
@@ -561,10 +561,10 @@ SexyMap82 = {
 			["core"] = {
 				["clamp"] = true,
 				["lock"] = false,
-				["northTag"] = true,
-				["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
-				["autoZoom"] = 5,
 				["rightClickToConfig"] = true,
+				["autoZoom"] = 5,
+				["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+				["northTag"] = true,
 			},
 			["coordinates"] = {
 				["enabled"] = false,
@@ -574,10 +574,14 @@ SexyMap82 = {
 				["borderColor"] = {
 				},
 				["xOffset"] = 0,
-				["updateRate"] = 1,
 				["backgroundColor"] = {
 				},
+				["updateRate"] = 1,
 				["yOffset"] = 10,
+			},
+			["ping"] = {
+				["showPing"] = true,
+				["showAt"] = "map",
 			},
 			["buttons"] = {
 				["radius"] = 10,
@@ -586,38 +590,32 @@ SexyMap82 = {
 				["visibilitySettings"] = {
 					["MinimapZoomIn"] = "never",
 					["MinimapZoneTextButton"] = "always",
-					["TimeManagerClockButton"] = "always",
+					["MiniMapWorldMapButton"] = "never",
 					["QueueStatusMinimapButton"] = "always",
 					["GarrisonLandingPageMinimapButton"] = "always",
-					["MiniMapMailFrame"] = "always",
 					["MinimapZoomOut"] = "never",
-					["MiniMapWorldMapButton"] = "never",
+					["MiniMapMailFrame"] = "always",
+					["TimeManagerClockButton"] = "always",
 				},
 				["dragPositions"] = {
 				},
 				["controlVisibility"] = true,
 			},
-			["movers"] = {
-				["enabled"] = false,
-				["framePositions"] = {
-				},
-				["lock"] = false,
-			},
 			["clock"] = {
 				["bgColor"] = {
 					["a"] = 1,
-					["b"] = 0,
-					["g"] = 0,
 					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
 				},
 				["font"] = "Friz Quadrata TT",
 				["fontColor"] = {
 				},
 				["borderColor"] = {
 					["a"] = 1,
-					["b"] = 0,
-					["g"] = 0,
 					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
 				},
 				["xOffset"] = 0,
 				["yOffset"] = 0,
@@ -676,25 +674,27 @@ SexyMap82 = {
 			["zonetext"] = {
 				["bgColor"] = {
 					["a"] = 1,
-					["b"] = 0,
-					["g"] = 0,
 					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
 				},
 				["font"] = "Friz Quadrata TT",
 				["fontColor"] = {
 				},
 				["borderColor"] = {
 					["a"] = 1,
-					["b"] = 0,
-					["g"] = 0,
 					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
 				},
 				["xOffset"] = 0,
 				["yOffset"] = 0,
 			},
-			["ping"] = {
-				["showPing"] = true,
-				["showAt"] = "map",
+			["movers"] = {
+				["enabled"] = false,
+				["framePositions"] = {
+				},
+				["lock"] = false,
 			},
 		},
 		["presets"] = {
