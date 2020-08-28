@@ -1,14 +1,15 @@
 
 LS_TOASTS_GLOBAL_CONFIG = {
 	["profileKeys"] = {
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshdruid - Area 52"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
-		["Toshpal - Area 52"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -87,14 +88,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["loot_common"] = {
+				["archaeology"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
-					["anchor"] = 1,
-					["ilvl"] = true,
-					["quest"] = false,
-					["threshold"] = 1,
 				},
 				["recipe"] = {
 					["anchor"] = 1,
@@ -109,11 +107,14 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["archaeology"] = {
-					["anchor"] = 1,
+				["loot_common"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["ilvl"] = true,
+					["quest"] = false,
+					["threshold"] = 1,
 				},
 				["store"] = {
 					["enabled"] = true,

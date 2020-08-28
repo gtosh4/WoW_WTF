@@ -1,14 +1,15 @@
 
 MythicDungeonToolsDB = {
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["colorPaletteInfo"] = {
@@ -153,6 +154,10 @@ MythicDungeonToolsDB = {
 				{
 					["difficulty"] = 20,
 					["week"] = 6,
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
+					},
 					["value"] = {
 						["currentPull"] = 29,
 						["currentSublevel"] = 2,
@@ -395,20 +400,20 @@ MythicDungeonToolsDB = {
 								["color"] = "3eff9e",
 							}, -- [13]
 							{
-								[28] = {
+								[8] = {
 								},
 								[13] = {
 								},
-								[8] = {
+								[28] = {
 								},
-								[10] = {
+								[3] = {
 								},
 								["color"] = "ff3e3e",
 								[29] = {
 								},
 								[5] = {
 								},
-								[3] = {
+								[10] = {
 								},
 							}, -- [14]
 							{
@@ -769,10 +774,6 @@ MythicDungeonToolsDB = {
 								},
 							}, -- [8]
 						},
-					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
 					},
 					["text"] = "S4 W2 2",
 					["objects"] = {

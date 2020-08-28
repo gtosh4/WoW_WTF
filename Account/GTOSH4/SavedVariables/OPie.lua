@@ -19,6 +19,9 @@ OneRing_Config = {
 				["PaladinAuras"] = false,
 				["DruidFeral"] = false,
 			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 		},
 	},
 	["PersistentStorage"] = {
@@ -98,8 +101,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 		},
 	},

@@ -5,9 +5,9 @@ AstralKeys = {
 		"HUNTER", -- [2]
 		244, -- [3]
 		25, -- [4]
-		0, -- [5]
+		25, -- [5]
 		162, -- [6]
-		142514, -- [7]
+		213220, -- [7]
 	}, -- [1]
 	{
 		"Illsong-Area52", -- [1]
@@ -34,7 +34,7 @@ AstralKeys = {
 		21, -- [4]
 		0, -- [5]
 		162, -- [6]
-		127164, -- [7]
+		205123, -- [7]
 	}, -- [4]
 	{
 		"Delpix-Area52", -- [1]
@@ -52,16 +52,16 @@ AstralKeys = {
 		18, -- [4]
 		0, -- [5]
 		162, -- [6]
-		148585, -- [7]
+		221303, -- [7]
 	}, -- [6]
 	{
 		"Gummybuns-Area52", -- [1]
 		"MONK", -- [2]
 		251, -- [3]
 		25, -- [4]
-		0, -- [5]
+		25, -- [5]
 		162, -- [6]
-		6, -- [7]
+		221468, -- [7]
 	}, -- [7]
 	{
 		"Yukiox-Area52", -- [1]
@@ -84,11 +84,11 @@ AstralKeys = {
 	{
 		"Toshpriest-Area52", -- [1]
 		"PRIEST", -- [2]
-		248, -- [3]
-		16, -- [4]
+		251, -- [3]
+		17, -- [4]
 		16, -- [5]
 		162, -- [6]
-		1, -- [7]
+		221349, -- [7]
 	}, -- [10]
 	{
 		"Thunderrz-Area52", -- [1]
@@ -99,6 +99,42 @@ AstralKeys = {
 		162, -- [6]
 		1, -- [7]
 	}, -- [11]
+	{
+		"Rathux-Area52", -- [1]
+		"DEATHKNIGHT", -- [2]
+		250, -- [3]
+		25, -- [4]
+		25, -- [5]
+		162, -- [6]
+		212244, -- [7]
+	}, -- [12]
+	{
+		"Race-Area52", -- [1]
+		"ROGUE", -- [2]
+		247, -- [3]
+		21, -- [4]
+		0, -- [5]
+		162, -- [6]
+		213078, -- [7]
+	}, -- [13]
+	{
+		"Unhealable-Area52", -- [1]
+		"MONK", -- [2]
+		370, -- [3]
+		20, -- [4]
+		0, -- [5]
+		162, -- [6]
+		1, -- [7]
+	}, -- [14]
+	{
+		"Woesong-Area52", -- [1]
+		"WARLOCK", -- [2]
+		244, -- [3]
+		15, -- [4]
+		20, -- [5]
+		162, -- [6]
+		221526, -- [7]
+	}, -- [15]
 }
 AstralCharacters = {
 	{
@@ -107,6 +143,12 @@ AstralCharacters = {
 		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
 	}, -- [1]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["unit"] = "Toshdruid-Area52",
+		["faction"] = 1,
+	}, -- [2]
 }
 AstralFriends = {
 	{
@@ -116,7 +158,7 @@ AstralFriends = {
 		249, -- [4]
 		21, -- [5]
 		162, -- [6]
-		141885, -- [7]
+		207534, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [1]
@@ -127,7 +169,7 @@ AstralFriends = {
 		353, -- [4]
 		20, -- [5]
 		162, -- [6]
-		144886, -- [7]
+		214957, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [2]
@@ -138,9 +180,9 @@ AstralFriends = {
 		251, -- [4]
 		23, -- [5]
 		162, -- [6]
-		144287, -- [7]
+		201016, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		16, -- [9]
 	}, -- [3]
 	{
 		"Artsong-Area52", -- [1]
@@ -149,9 +191,9 @@ AstralFriends = {
 		244, -- [4]
 		25, -- [5]
 		162, -- [6]
-		142478, -- [7]
+		213220, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		25, -- [9]
 	}, -- [4]
 	{
 		"Illsong-Area52", -- [1]
@@ -160,7 +202,7 @@ AstralFriends = {
 		249, -- [4]
 		24, -- [5]
 		162, -- [6]
-		139602, -- [7]
+		182465, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [5]
@@ -182,7 +224,7 @@ AstralFriends = {
 		251, -- [4]
 		20, -- [5]
 		162, -- [6]
-		122534, -- [7]
+		139565, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [7]
@@ -204,7 +246,7 @@ AstralFriends = {
 		246, -- [4]
 		18, -- [5]
 		162, -- [6]
-		144886, -- [7]
+		221303, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [9]
@@ -215,7 +257,7 @@ AstralFriends = {
 		370, -- [4]
 		20, -- [5]
 		162, -- [6]
-		40099, -- [7]
+		214107, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [10]
@@ -226,9 +268,9 @@ AstralFriends = {
 		251, -- [4]
 		25, -- [5]
 		162, -- [6]
-		63414, -- [7]
+		221468, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		25, -- [9]
 	}, -- [11]
 	{
 		"Andruw-Area52", -- [1]
@@ -237,7 +279,7 @@ AstralFriends = {
 		247, -- [4]
 		21, -- [5]
 		162, -- [6]
-		49859, -- [7]
+		205122, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [12]
@@ -248,7 +290,7 @@ AstralFriends = {
 		247, -- [4]
 		22, -- [5]
 		162, -- [6]
-		132147, -- [7]
+		216483, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [13]
@@ -263,6 +305,39 @@ AstralFriends = {
 		"1", -- [8]
 		0, -- [9]
 	}, -- [14]
+	{
+		"Ruesong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"WARLOCK", -- [3]
+		244, -- [4]
+		15, -- [5]
+		162, -- [6]
+		213417, -- [7]
+		"1", -- [8]
+		20, -- [9]
+	}, -- [15]
+	{
+		"Kosaki-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"ROGUE", -- [3]
+		246, -- [4]
+		16, -- [5]
+		162, -- [6]
+		214028, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [16]
+	{
+		"Woesong-Area52", -- [1]
+		"Ceesong#1985", -- [2]
+		"WARLOCK", -- [3]
+		244, -- [4]
+		15, -- [5]
+		162, -- [6]
+		215000, -- [7]
+		"1", -- [8]
+		20, -- [9]
+	}, -- [17]
 }
 AstralKeysSettings = {
 	["new_settings_config"] = true,
@@ -301,10 +376,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
 			["guild"] = false,
 			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -327,31 +402,34 @@ AstralKeysSettings = {
 }
 AstralMinimap = {
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
-		["Toshpriest - Area 52"] = {
-		},
 		["Toshdk - Kil'jaeden"] = {
 		},
 		["Toshdruid - Area 52"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Toshpal - Area 52"] = {
 		},
-		["Toshlongboy - Eldre'Thalas"] = {
+		["Toshpriest - Area 52"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
 		["Yelluwuy - Area 52"] = {
 		},
-		["Toshpal - Area 52"] = {
+		["Toshlongboy - Eldre'Thalas"] = {
+		},
+		["Toshlongboyr - Eldre'Thalas"] = {
+		},
+		["Toshaman - Area 52"] = {
 		},
 	},
 }

@@ -22,9 +22,10 @@ ToshUnitFramesDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {

@@ -24,3 +24,4 @@ BigWigs_Voice: enabled
 BigWigs_BattleOfDazaralor: enabled
 Blizzard_CompactRaidFrames: disabled
 Blizzard_CUFProfiles: disabled
+BigWigs_Nyalotha: enabled

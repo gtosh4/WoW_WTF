@@ -1,6 +1,7 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
@@ -9,6 +10,16 @@ Gladius2DB = {
 		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
+		["Toshlongboyr - Eldre'Thalas"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1477.866060717119,
+			},
+			["y"] = {
+				["arena1"] = 362.7731559538879,
+			},
+		},
 		["Toshdk - Kil'jaeden"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
@@ -20,9 +31,6 @@ Gladius2DB = {
 			},
 		},
 		["Default"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
 			["y"] = {
 				["arena1"] = 470.5065910458579,
 			},
@@ -103,6 +111,9 @@ Gladius2DB = {
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["locked"] = true,
 		},
 		["Yelluwuy - Area 52"] = {
 			["auraVersion"] = 1,
@@ -115,14 +126,14 @@ Gladius2DB = {
 			},
 		},
 		["Toshdruid - Area 52"] = {
+			["tagsVersion"] = 4,
+			["locked"] = true,
 			["y"] = {
 				["arena1"] = 489.1732703161251,
 			},
 			["x"] = {
 				["arena1"] = 1485.333248050214,
 			},
-			["locked"] = true,
-			["tagsVersion"] = 4,
 			["auraVersion"] = 1,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {

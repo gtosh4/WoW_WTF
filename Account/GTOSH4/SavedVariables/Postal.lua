@@ -6,25 +6,43 @@ Postal3DB = {
 				"Toshaman|Area 52|Horde|120|SHAMAN", -- [1]
 				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [2]
 				"Toshdruid|Area 52|Horde|120|DRUID", -- [3]
-				"Toshlongboy|Eldre'Thalas|Horde|20|PRIEST", -- [4]
-				"Toshpal|Area 52|Horde|120|PALADIN", -- [5]
-				"Toshpriest|Area 52|Horde|120|PRIEST", -- [6]
-				"Yelluwuy|Area 52|Horde|1|PRIEST", -- [7]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [8]
+				"Toshlongboyr|Eldre'Thalas|Horde|110|PRIEST", -- [4]
+				"Toshlongboy|Eldre'Thalas|Horde|20|PRIEST", -- [5]
+				"Toshpal|Area 52|Horde|120|PALADIN", -- [6]
+				"Toshpriest|Area 52|Horde|120|PRIEST", -- [7]
+				"Yelluwuy|Area 52|Horde|1|PRIEST", -- [8]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [9]
 			},
 		},
 	},
 	["profileKeys"] = {
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
+		["Toshdk - Kil'jaeden"] = {
+		},
+		["Toshdruid - Area 52"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshpriest|Area 52|Horde", -- [1]
+				},
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshpriest|Area 52|Horde", -- [1]
+				},
+			},
+		},
 		["Toshpriest - Area 52"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -34,27 +52,13 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshdruid - Area 52"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshpriest|Area 52|Horde", -- [1]
-				},
-			},
-		},
-		["Toshaman - Area 52"] = {
+		["Yelluwuy - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshdk - Kil'jaeden"] = {
+		["Toshlongboyr - Eldre'Thalas"] = {
 		},
-		["Yelluwuy - Area 52"] = {
-		},
-		["Toshpal - Area 52"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshpriest|Area 52|Horde", -- [1]
-				},
-			},
+		["Toshaman - Area 52"] = {
 		},
 	},
 }

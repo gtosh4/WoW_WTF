@@ -24,18 +24,27 @@ CliqueDB3 = {
 		},
 		["Toshdruid - Area 52"] = {
 			["spec1_profileKey"] = "Toshdruid - Area 52",
-			["spec2_profileKey"] = "Toshdruid - Area 52",
-			["downclick"] = false,
 			["fastooc"] = false,
+			["spec2_profileKey"] = "Toshdruid - Area 52",
+			["downclick"] = true,
+			["alerthidden"] = true,
 			["spec4_profileKey"] = "Toshdruid - Area 52",
 			["spec3_profileKey"] = "Toshdruid - Area 52",
 			["specswap"] = false,
 		},
+		["Toshlongboy - Eldre'Thalas"] = {
+			["spec1_profileKey"] = "Toshlongboy - Eldre'Thalas",
+			["spec2_profileKey"] = "Toshlongboy - Eldre'Thalas",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec3_profileKey"] = "Toshlongboy - Eldre'Thalas",
+			["specswap"] = false,
+		},
 		["Toshpal - Area 52"] = {
 			["spec1_profileKey"] = "Toshpal - Area 52",
-			["fastooc"] = false,
 			["spec3_profileKey"] = "Toshpal - Area 52",
 			["downclick"] = true,
+			["fastooc"] = false,
 			["specswap"] = false,
 			["spec2_profileKey"] = "Toshpal - Area 52",
 		},
@@ -43,8 +52,9 @@ CliqueDB3 = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
-		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshdruid - Area 52"] = "Toshpriest - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshpriest - Area 52",
@@ -63,22 +73,22 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "CTRL-BUTTON2",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
 				}, -- [2]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "BUTTON2",
+					["type"] = "menu",
+					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
 				}, -- [3]
 				{
-					["type"] = "menu",
-					["key"] = "ALT-BUTTON3",
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "CTRL-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -86,7 +96,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "ALT-BUTTON2",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -94,7 +104,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "CTRL-SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -102,7 +112,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "CTRL-SHIFT-BUTTON2",
+					["key"] = "ALT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -118,6 +128,25 @@ CliqueDB3 = {
 			},
 		},
 		["Toshdk - Kil'jaeden"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Toshlongboyr - Eldre'Thalas"] = {
 			["bindings"] = {
 				{
 					["sets"] = {

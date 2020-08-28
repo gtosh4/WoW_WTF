@@ -25,38 +25,6 @@ Broker_Everything_DataDB = {
 	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
-	["Toshdruid-Area 52"] = {
-		["race"] = "Tauren",
-		["name"] = "Toshdruid",
-		["faction"] = "Horde",
-		["orderId"] = 6,
-		["level"] = 120,
-		["class"] = "DRUID",
-	},
-	["Yorman-Kil'jaeden"] = {
-		["race"] = "Tauren",
-		["name"] = "Yorman",
-		["faction"] = "Horde",
-		["orderId"] = 3,
-		["class"] = "DRUID",
-		["level"] = 120,
-	},
-	["Toshlongboy-Eldre'Thalas"] = {
-		["race"] = "Vulpera",
-		["name"] = "Toshlongboy",
-		["faction"] = "Horde",
-		["orderId"] = 7,
-		["class"] = "PRIEST",
-		["level"] = 20,
-	},
-	["Toshpal-Area 52"] = {
-		["race"] = "ZandalariTroll",
-		["name"] = "Toshpal",
-		["faction"] = "Horde",
-		["orderId"] = 2,
-		["class"] = "PALADIN",
-		["level"] = 120,
-	},
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
 		"Toshpal-Area 52", -- [2]
@@ -65,24 +33,18 @@ Broker_Everything_CharacterDB = {
 		"Yelluwuy-Area 52", -- [5]
 		"Toshdruid-Area 52", -- [6]
 		"Toshlongboy-Eldre'Thalas", -- [7]
+		"Toshlongboyr-Eldre'Thalas", -- [8]
 	},
-	["Toshdk-Kil'jaeden"] = {
-		["race"] = "Orc",
-		["name"] = "Toshdk",
+	["Toshdruid-Area 52"] = {
+		["race"] = "Tauren",
+		["name"] = "Toshdruid",
 		["faction"] = "Horde",
-		["orderId"] = 4,
+		["orderId"] = 6,
 		["level"] = 120,
-		["class"] = "DEATHKNIGHT",
+		["class"] = "DRUID",
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -108,9 +70,56 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 		["level"] = 120,
 		["gold"] = 10753845943,
 		["orderId"] = 1,
+	},
+	["Toshlongboy-Eldre'Thalas"] = {
+		["race"] = "Vulpera",
+		["name"] = "Toshlongboy",
+		["faction"] = "Horde",
+		["orderId"] = 7,
+		["class"] = "PRIEST",
+		["level"] = 20,
+	},
+	["Toshlongboyr-Eldre'Thalas"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshlongboyr",
+		["faction"] = "Horde",
+		["orderId"] = 8,
+		["level"] = 110,
+		["class"] = "PRIEST",
+	},
+	["Toshpal-Area 52"] = {
+		["race"] = "ZandalariTroll",
+		["name"] = "Toshpal",
+		["faction"] = "Horde",
+		["orderId"] = 2,
+		["class"] = "PALADIN",
+		["level"] = 120,
+	},
+	["Toshdk-Kil'jaeden"] = {
+		["race"] = "Orc",
+		["name"] = "Toshdk",
+		["faction"] = "Horde",
+		["orderId"] = 4,
+		["level"] = 120,
+		["class"] = "DEATHKNIGHT",
+	},
+	["Yorman-Kil'jaeden"] = {
+		["race"] = "Tauren",
+		["name"] = "Yorman",
+		["faction"] = "Horde",
+		["orderId"] = 3,
+		["class"] = "DRUID",
+		["level"] = 120,
 	},
 	["Yelluwuy-Area 52"] = {
 		["race"] = "BloodElf",
@@ -125,6 +134,7 @@ Broker_Everything_AceDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",

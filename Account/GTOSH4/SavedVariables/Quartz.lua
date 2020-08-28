@@ -66,14 +66,15 @@ Quartz3DB = {
 		},
 	},
 	["profileKeys"] = {
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshdruid - Area 52"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
-		["Toshpal - Area 52"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

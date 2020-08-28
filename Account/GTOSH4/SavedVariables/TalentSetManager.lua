@@ -17,55 +17,6 @@ TalentSetManager_Options = {
 	},
 }
 TalentSetManager_CharacterSaves = {
-	["Toshdruid-Area 52"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			[4] = {
-			},
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Toshpal-Area 52"] = {
-		["talents_pvp"] = {
-		},
-		["talents"] = {
-			{
-			}, -- [1]
-			{
-			}, -- [2]
-			{
-			}, -- [3]
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip2"] = 0,
-			["auto_equip4"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
-	["Toshlongboy-Eldre'Thalas"] = {
-		["talents"] = {
-			{
-			}, -- [1]
-		},
-		["talents_pvp"] = {
-		},
-		["version"] = 0,
-		["interface"] = {
-			["auto_equip4"] = 0,
-			["auto_equip2"] = 0,
-			["auto_equip1"] = 0,
-			["auto_equip3"] = 0,
-		},
-	},
 	["Toshaman-Area 52"] = {
 		["talents_pvp"] = {
 		},
@@ -120,13 +71,11 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshdk-Kil'jaeden"] = {
+	["Toshdruid-Area 52"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
-			{
-			}, -- [1]
-			[3] = {
+			[4] = {
 			},
 		},
 		["version"] = 0,
@@ -150,6 +99,72 @@ TalentSetManager_CharacterSaves = {
 		["interface"] = {
 			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshlongboy-Eldre'Thalas"] = {
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshlongboyr-Eldre'Thalas"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshdk-Kil'jaeden"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+			[3] = {
+			},
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
+	["Toshpal-Area 52"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			{
+			}, -- [1]
+			{
+			}, -- [2]
+			{
+			}, -- [3]
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},

@@ -1,14 +1,15 @@
 
 WQTrackerDB = {
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshpal - Area 52"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
-		["Toshpal - Area 52"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -32,7 +33,7 @@ WQTrackerDB = {
 							["quest"] = 1,
 						},
 						["200827"] = {
-							["quest"] = 1,
+							["quest"] = 6,
 							["resource"] = 50,
 						},
 						["200817"] = {
@@ -62,16 +63,24 @@ WQTrackerDB = {
 									[152668] = 1,
 								},
 							},
+							["200827"] = {
+								["quest"] = 5,
+							},
 						},
 					},
 				},
 				["quest"] = {
 					["global"] = {
-						[51043] = 1,
-						["total"] = 4,
-						[52421] = 1,
+						["total"] = 9,
 						[57540] = 1,
+						[57218] = 1,
+						[55359] = 1,
 						[57146] = 1,
+						[56180] = 1,
+						[56090] = 1,
+						[51043] = 1,
+						[52421] = 1,
+						[55358] = 1,
 					},
 					["character"] = {
 						["Player-3676-0AD8DD4D"] = {
@@ -81,8 +90,13 @@ WQTrackerDB = {
 							[51043] = 1,
 						},
 						["Player-3676-0B20F78C"] = {
+							[56090] = 1,
+							["total"] = 6,
+							[55359] = 1,
 							[52421] = 1,
-							["total"] = 1,
+							[57218] = 1,
+							[55358] = 1,
+							[56180] = 1,
 						},
 					},
 				},
@@ -252,6 +266,8 @@ WQTrackerDB = {
 				},
 				["Player-3676-0AC0708D"] = {
 				},
+				["Player-84-098A5875"] = {
+				},
 				["Player-9-0A76FA3F"] = {
 				},
 				["Player-3676-0AD945E6"] = {
@@ -322,10 +338,25 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0B20F78C"] = {
-					[50765] = {
-						["expireAt"] = 1598223660,
-						["rewardAmount"] = 152,
+					[58743] = {
+						["expireAt"] = 1598626859,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 2004597,
+					},
+					[58747] = {
+						["expireAt"] = 1598626859,
+						["rewardAmount"] = "17",
+						["rewardTexture"] = 2004597,
+					},
+					[55466] = {
+						["expireAt"] = 1598972459,
+						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[41864] = {
+						["expireAt"] = 1598626854,
+						["rewardAmount"] = "|cffc557FF182",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
 					},
 				},
 				["Player-9-0A76FA3F"] = {
@@ -362,6 +393,11 @@ WQTrackerDB = {
 					["name"] = "Yelluwuy",
 					["realm"] = "Area 52",
 				},
+				["Player-84-098A5875"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshlongboyr",
+					["realm"] = "Eldre'Thalas",
+				},
 				["Player-9-0A76FA3F"] = {
 					["class"] = "DRUID",
 					["name"] = "Yorman",
@@ -384,46 +420,18 @@ WQTrackerDB = {
 				},
 			},
 			["rarescan"] = {
-				["recently_spotted"] = {
-					[126946] = {
-						1598512832, -- [1]
-						885, -- [2]
-						0.639466404914856, -- [3]
-						0.5784506797790527, -- [4]
-						"Creature-0-0000-0000-00000-126946-0000000000", -- [5]
-						"Inquisitor Vethroz", -- [6]
-						"Uruon", -- [7]
-						1598512833, -- [8]
-					},
-					[126338] = {
-						1598512850, -- [1]
-						850, -- [2]
-						0.5754050016403198, -- [3]
-						0.5768405199050903, -- [4]
-						"Creature-0-0000-0000-00000-126338-0000000000", -- [5]
-						"Wrath-Lord Yarez", -- [6]
-						"Uruon", -- [7]
-						1598512851, -- [8]
-					},
-					[126115] = {
-						1598512818, -- [1]
-						850, -- [2]
-						0.6887875199317932, -- [3]
-						0.6180453300476074, -- [4]
-						"Creature-0-0000-0000-00000-126115-0000000000", -- [5]
-						"Ven'orn", -- [6]
-						"Uruon", -- [7]
-						1598512819, -- [8]
-					},
-				},
 				["recently_killed"] = {
 					["Player-3676-0AD8DD4D"] = {
+					},
+					["Player-84-098A5875"] = {
+					},
+					["Player-9-0A76FA3F"] = {
 					},
 					["Player-3676-0AD945E6"] = {
 					},
 					["Player-3676-0B20F78C"] = {
 					},
-					["Player-9-0A76FA3F"] = {
+					["Player-84-0964B87F"] = {
 					},
 				},
 				["name_cache"] = {
@@ -446,7 +454,7 @@ WQTrackerDB = {
 					[""] = 125820,
 					["Mistress Il'thendra"] = 122947,
 					["Venomarus"] = 142438,
-					["Goldenvein"] = 140769,
+					["Skullripper"] = 142437,
 					["Sorolis the Ill-Fated"] = 126889,
 					["Príncipe Tifonus"] = 152681,
 					["Burning Goliath"] = 141615,
@@ -454,7 +462,7 @@ WQTrackerDB = {
 					["Inquisitor Vethroz"] = 126946,
 					["Venomtail Skyfin"] = 126867,
 					["The Many-Faced Devourer"] = 127581,
-					["Skullripper"] = 142437,
+					["Goldenvein"] = 140769,
 					["Arachnoid Harvester"] = 151934,
 					["Lieutenant Xakaar"] = 126254,
 					["Elder Unu"] = 152414,

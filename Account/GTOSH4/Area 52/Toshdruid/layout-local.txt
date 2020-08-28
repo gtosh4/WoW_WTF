@@ -55,13 +55,13 @@ X: 426
 Y: 166
 W: 27
 H: 26
-Frame: BDLC Roll Window
-FrameLevel: 10
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
 Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
+X: -563
+Y: 186
+W: 363
+H: 390
 Frame: TalkingHeadFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -69,3 +69,10 @@ X: 0
 Y: 96
 W: 570
 H: 155
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
