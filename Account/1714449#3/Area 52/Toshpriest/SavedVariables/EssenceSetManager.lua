@@ -44,4 +44,46 @@ EssenceSetManager = {
 	},
 	["Holy"] = {
 	},
+	["Shadow"] = {
+		["pvp"] = {
+			["major"] = {
+				["ID"] = 32,
+				["name"] = "Conflict and Strife",
+			},
+			["minors"] = {
+				["one"] = {
+					["ID"] = 27,
+					["name"] = "Memory of Lucid Dreams",
+				},
+				["three"] = {
+					["ID"] = 5,
+					["name"] = "Essence of the Focusing Iris",
+				},
+				["two"] = {
+					["ID"] = 35,
+					["name"] = "Breath of the Dying",
+				},
+			},
+		},
+		["pve"] = {
+			["major"] = {
+				["ID"] = 35,
+				["name"] = "Breath of the Dying",
+			},
+			["minors"] = {
+				["one"] = {
+					["ID"] = 27,
+					["name"] = "Memory of Lucid Dreams",
+				},
+				["three"] = {
+					["ID"] = 5,
+					["name"] = "Essence of the Focusing Iris",
+				},
+				["two"] = {
+					["ID"] = 32,
+					["name"] = "Conflict and Strife",
+				},
+			},
+		},
+	},
 }

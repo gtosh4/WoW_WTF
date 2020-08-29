@@ -52,8 +52,6 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
-		["BigWigs_Bosses_The Prophet Skitra"] = {
-		},
 		["BigWigs_Bosses_Thrall"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -98,8 +96,6 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
-		},
 		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -114,8 +110,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Ra-den the Despoiled"] = {
-		},
 		["BigWigs_Bosses_Infested Crawg"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -123,9 +117,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Dark Inquisitor Xanesh"] = {
-		},
-		["BigWigs_Bosses_Wrathion"] = {
+		["BigWigs_Bosses_Lady Jaina Proudmoore"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -179,12 +171,13 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
-			["profiles"] = {
-				["Default"] = {
-					[263257] = 3129591,
-				},
-			},
+		["BigWigs_Bosses_Shad'har the Insatiable"] = {
+		},
+		["BigWigs_Bosses_Dark Inquisitor Xanesh"] = {
+		},
+		["BigWigs_Bosses_Ra-den the Despoiled"] = {
+		},
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Bosses_King Mechagon"] = {
 			["profiles"] = {
@@ -193,12 +186,28 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Sporecaller Zancha"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					[259732] = 3129591,
+					[263257] = 3129591,
 				},
 			},
+		},
+		["BigWigs_Bosses_Skycap'n Kragg"] = {
+			["profiles"] = {
+				["Default"] = {
+					[256106] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Unbound Abomination"] = {
+			["profiles"] = {
+				["Default"] = {
+					[269843] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
@@ -207,24 +216,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Bosses_Viq'Goth"] = {
+		["BigWigs_Bosses_Council o' Captains"] = {
 			["profiles"] = {
 				["Default"] = {
-					[275014] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 513.6001447701419,
-					["posy"] = 154.133307101727,
+					[258381] = 3129591,
+					[256979] = 3129591,
+					[258338] = 3129591,
 				},
 			},
 		},
@@ -325,28 +322,27 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Council o' Captains"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
 				["Default"] = {
-					[258381] = 3129591,
-					[256979] = 3129591,
-					[258338] = 3129591,
+					["posx"] = 513.6001447701419,
+					["posy"] = 154.133307101727,
 				},
 			},
 		},
-		["BigWigs_Plugins_Colors"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
+		["BigWigs_Bosses_Viq'Goth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[269843] = 3129591,
+					[275014] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Skycap'n Kragg"] = {
+		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
 				["Default"] = {
-					[256106] = 3129591,
+					[259732] = 3129591,
 				},
 			},
 		},
@@ -362,6 +358,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
 		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -376,6 +374,7 @@ BigWigs3DB = {
 			[-1597] = true,
 			[886] = true,
 			[927] = true,
+			[876] = true,
 		},
 	},
 	["profiles"] = {
@@ -404,7 +403,7 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 			},
 			["mythic"] = {
-				["kills"] = 4,
+				["kills"] = 5,
 				["wipes"] = 11,
 				["best"] = 177.8340000000317,
 			},
@@ -416,13 +415,13 @@ BigWigsStatsDB = {
 			},
 			["mythic"] = {
 				["best"] = 147.8650000000198,
-				["kills"] = 4,
+				["kills"] = 5,
 			},
 		},
 		[2365] = {
 			["mythic"] = {
 				["best"] = 158,
-				["kills"] = 5,
+				["kills"] = 6,
 			},
 			["heroic"] = {
 				["best"] = 199.8799999998882,
@@ -441,7 +440,7 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 			},
 			["mythic"] = {
-				["kills"] = 4,
+				["kills"] = 5,
 				["best"] = 361.3289999999979,
 				["wipes"] = 4,
 			},
@@ -456,7 +455,7 @@ BigWigsStatsDB = {
 		[2367] = {
 			["mythic"] = {
 				["best"] = 169.6239999998361,
-				["kills"] = 2,
+				["kills"] = 3,
 			},
 		},
 		[2375] = {
@@ -477,15 +476,16 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 			},
 			["mythic"] = {
-				["kills"] = 5,
+				["kills"] = 6,
 				["best"] = 223.7229999999981,
 				["wipes"] = 1,
 			},
 		},
 		[2369] = {
 			["mythic"] = {
+				["kills"] = 4,
 				["best"] = 128.5639999997802,
-				["kills"] = 3,
+				["wipes"] = 1,
 			},
 			["heroic"] = {
 				["best"] = 203.5329999998212,
@@ -494,9 +494,9 @@ BigWigsStatsDB = {
 		},
 		[2377] = {
 			["mythic"] = {
-				["kills"] = 3,
+				["kills"] = 4,
 				["best"] = 185.1030000000028,
-				["wipes"] = 2,
+				["wipes"] = 5,
 			},
 			["heroic"] = {
 				["best"] = 233.2530000000261,
@@ -506,7 +506,7 @@ BigWigsStatsDB = {
 		[2370] = {
 			["mythic"] = {
 				["best"] = 212.0679999999702,
-				["kills"] = 4,
+				["kills"] = 5,
 			},
 			["heroic"] = {
 				["best"] = 236.4840000001714,
@@ -518,7 +518,7 @@ BigWigsStatsDB = {
 		[2343] = {
 			["mythic"] = {
 				["best"] = 165.1180000000168,
-				["kills"] = 2,
+				["kills"] = 3,
 			},
 		},
 	},

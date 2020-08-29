@@ -140,14 +140,14 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["unit"] = "Toshdruid-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshdruid-Area52",
 	}, -- [2]
 }
 AstralFriends = {
@@ -180,9 +180,9 @@ AstralFriends = {
 		251, -- [4]
 		23, -- [5]
 		162, -- [6]
-		201016, -- [7]
+		294907, -- [7]
 		"1", -- [8]
-		16, -- [9]
+		20, -- [9]
 	}, -- [3]
 	{
 		"Artsong-Area52", -- [1]
@@ -191,7 +191,7 @@ AstralFriends = {
 		244, -- [4]
 		25, -- [5]
 		162, -- [6]
-		213220, -- [7]
+		305012, -- [7]
 		"1", -- [8]
 		25, -- [9]
 	}, -- [4]
@@ -202,7 +202,7 @@ AstralFriends = {
 		249, -- [4]
 		24, -- [5]
 		162, -- [6]
-		182465, -- [7]
+		282698, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [5]
@@ -213,7 +213,7 @@ AstralFriends = {
 		246, -- [4]
 		19, -- [5]
 		162, -- [6]
-		49262, -- [7]
+		305590, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [6]
@@ -235,7 +235,7 @@ AstralFriends = {
 		252, -- [4]
 		24, -- [5]
 		162, -- [6]
-		138587, -- [7]
+		292393, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [8]
@@ -246,7 +246,7 @@ AstralFriends = {
 		246, -- [4]
 		18, -- [5]
 		162, -- [6]
-		221303, -- [7]
+		223315, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [9]
@@ -257,9 +257,9 @@ AstralFriends = {
 		370, -- [4]
 		20, -- [5]
 		162, -- [6]
-		214107, -- [7]
+		223017, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		15, -- [9]
 	}, -- [10]
 	{
 		"Gummybuns-Area52", -- [1]
@@ -268,7 +268,7 @@ AstralFriends = {
 		251, -- [4]
 		25, -- [5]
 		162, -- [6]
-		221468, -- [7]
+		309255, -- [7]
 		"1", -- [8]
 		25, -- [9]
 	}, -- [11]
@@ -279,9 +279,9 @@ AstralFriends = {
 		247, -- [4]
 		21, -- [5]
 		162, -- [6]
-		205122, -- [7]
+		296315, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		20, -- [9]
 	}, -- [12]
 	{
 		"Ngow-Kil'jaeden", -- [1]
@@ -331,16 +331,15 @@ AstralFriends = {
 		"Woesong-Area52", -- [1]
 		"Ceesong#1985", -- [2]
 		"WARLOCK", -- [3]
-		244, -- [4]
-		15, -- [5]
+		251, -- [4]
+		17, -- [5]
 		162, -- [6]
-		215000, -- [7]
+		300175, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [17]
 }
 AstralKeysSettings = {
-	["new_settings_config"] = true,
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -354,9 +353,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -365,7 +362,17 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
 	},
 	["general"] = {
 		["show_minimap_button"] = {
@@ -376,10 +383,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
-			["no_key"] = false,
 			["party"] = true,
+			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -391,14 +398,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -409,8 +409,8 @@ AstralMinimap = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -427,9 +427,9 @@ AstralMinimap = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshlongboyr - Eldre'Thalas"] = {
-		},
 		["Toshaman - Area 52"] = {
+		},
+		["Toshlongboyr - Eldre'Thalas"] = {
 		},
 	},
 }

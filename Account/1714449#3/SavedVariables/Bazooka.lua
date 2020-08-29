@@ -22,9 +22,10 @@ BazookaDB = {
 						["bar"] = 2,
 						["pos"] = 2,
 					},
-					["Difficulty"] = {
-						["showIcon"] = false,
-						["bar"] = 3,
+					["Equipment"] = {
+						["useLabelAsTitle"] = false,
+						["area"] = "left",
+						["bar"] = 2,
 						["pos"] = 1,
 					},
 					["BugSack"] = {
@@ -32,9 +33,9 @@ BazookaDB = {
 						["bar"] = 4,
 						["pos"] = 1,
 					},
-					["Details"] = {
+					["SimulationCraft"] = {
 						["enabled"] = false,
-						["pos"] = 13,
+						["pos"] = 9,
 					},
 					["REFlex"] = {
 						["area"] = "left",
@@ -50,10 +51,9 @@ BazookaDB = {
 						["area"] = "left",
 						["pos"] = 1,
 					},
-					["Equipment"] = {
-						["useLabelAsTitle"] = false,
-						["area"] = "left",
-						["bar"] = 2,
+					["Difficulty"] = {
+						["showIcon"] = false,
+						["bar"] = 3,
 						["pos"] = 1,
 					},
 					["MythicDungeonTools"] = {
@@ -78,9 +78,9 @@ BazookaDB = {
 					["Volume"] = {
 						["pos"] = 1,
 					},
-					["SimulationCraft"] = {
+					["Details"] = {
 						["enabled"] = false,
-						["pos"] = 9,
+						["pos"] = 13,
 					},
 					["AdiBags"] = {
 						["enabled"] = false,
