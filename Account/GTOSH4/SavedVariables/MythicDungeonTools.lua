@@ -94,23 +94,6 @@ MythicDungeonToolsDB = {
 						["freeholdJoined"] = false,
 						["beguiling"] = 14,
 					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
-					},
-					["text"] = "S4 W2 2",
-					["objects"] = {
-						{
-							["d"] = {
-								278.1199251464625, -- [1]
-								-180.2303912271196, -- [2]
-								1, -- [3]
-								false, -- [4]
-								"Be sure to line the storm!", -- [5]
-							},
-							["n"] = true,
-						}, -- [1]
-					},
 					["value"] = {
 						["currentPull"] = 29,
 						["currentSublevel"] = 2,
@@ -448,20 +431,20 @@ MythicDungeonToolsDB = {
 								["color"] = "3eff9e",
 							}, -- [13]
 							{
-								[10] = {
+								[3] = {
 								},
 								[13] = {
 								},
-								[8] = {
+								[28] = {
 								},
-								[3] = {
+								[10] = {
 								},
 								["color"] = "ff3e3e",
 								[29] = {
 								},
 								[5] = {
 								},
-								[28] = {
+								[8] = {
 								},
 							}, -- [14]
 							{
@@ -727,6 +710,23 @@ MythicDungeonToolsDB = {
 								["color"] = "ff3e9e",
 							}, -- [29]
 						},
+					},
+					["text"] = "S4 W2 2",
+					["objects"] = {
+						{
+							["d"] = {
+								278.1199251464625, -- [1]
+								-180.2303912271196, -- [2]
+								1, -- [3]
+								false, -- [4]
+								"Be sure to line the storm!", -- [5]
+							},
+							["n"] = true,
+						}, -- [1]
+					},
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
 					},
 				}, -- [2]
 				{

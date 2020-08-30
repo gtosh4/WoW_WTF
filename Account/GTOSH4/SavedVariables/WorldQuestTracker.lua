@@ -57,8 +57,8 @@ WQTrackerDB = {
 					["Foul Manifestation"] = 151202,
 					[""] = 125820,
 					["Mistress Il'thendra"] = 122947,
-					["Goldenvein"] = 140769,
 					["Skullripper"] = 142437,
+					["Goldenvein"] = 140769,
 					["Sorolis the Ill-Fated"] = 126889,
 					["Príncipe Tifonus"] = 152681,
 					["The Many-Faced Devourer"] = 127581,
@@ -238,11 +238,6 @@ WQTrackerDB = {
 						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[58744] = {
-						["expireAt"] = 1598540433,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
-					},
 				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {
@@ -382,10 +377,10 @@ WQTrackerDB = {
 						[55359] = 1,
 						[57146] = 1,
 						[55358] = 1,
-						[56180] = 1,
+						[56090] = 1,
 						[51043] = 1,
 						[52421] = 1,
-						[56090] = 1,
+						[56180] = 1,
 					},
 					["character"] = {
 						["Player-3676-0AD8DD4D"] = {

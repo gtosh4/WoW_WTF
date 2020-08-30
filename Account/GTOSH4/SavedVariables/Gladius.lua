@@ -13,11 +13,11 @@ Gladius2DB = {
 		["Toshlongboyr - Eldre'Thalas"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 362.7731559538879,
-			},
 			["x"] = {
 				["arena1"] = 1477.866060717119,
+			},
+			["y"] = {
+				["arena1"] = 362.7731559538879,
 			},
 		},
 		["Toshdk - Kil'jaeden"] = {
@@ -31,6 +31,9 @@ Gladius2DB = {
 			},
 		},
 		["Default"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["locked"] = true,
 			["y"] = {
 				["arena1"] = 470.5065910458579,
 			},
@@ -111,9 +114,6 @@ Gladius2DB = {
 					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
 		},
 		["Yelluwuy - Area 52"] = {
 			["auraVersion"] = 1,
@@ -137,14 +137,14 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
-			["tagsVersion"] = 4,
-			["locked"] = true,
 			["y"] = {
 				["arena1"] = 348.3732734632504,
 			},
 			["x"] = {
 				["arena1"] = 1427.733405587671,
 			},
+			["locked"] = true,
+			["tagsVersion"] = 4,
 			["auraVersion"] = 1,
 		},
 		["Yorman - Kil'jaeden"] = {

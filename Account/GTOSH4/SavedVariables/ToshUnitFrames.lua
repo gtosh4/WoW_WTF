@@ -9,6 +9,18 @@ ToshUnitFramesDB = {
 			},
 		},
 	},
+	["global"] = {
+		["options"] = {
+			["height"] = 459.1669311523438,
+			["pos"] = {
+				["y"] = 152.0831756591797,
+				["x"] = -286.6657104492188,
+				["to"] = "RIGHT",
+				["from"] = "RIGHT",
+			},
+			["width"] = 758.3334350585938,
+		},
+	},
 	["profileKeys"] = {
 		["Toshlongboyr - Eldre'Thalas"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
@@ -16,23 +28,12 @@ ToshUnitFramesDB = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
-	["global"] = {
-		["options"] = {
-			["height"] = 459.1669311523438,
-			["width"] = 758.3334350585938,
-			["pos"] = {
-				["y"] = 152.0831756591797,
-				["x"] = -286.6657104492188,
-				["to"] = "RIGHT",
-				["from"] = "RIGHT",
-			},
-		},
-	},
 	["profiles"] = {
 		["Default"] = {
 			["regions"] = {
 				{
 					["type"] = "unit_single",
+					["id"] = 1,
 					["anchors"] = {
 						{
 							["y"] = 300,
@@ -41,12 +42,11 @@ ToshUnitFramesDB = {
 							["from"] = "CENTER",
 						}, -- [1]
 					},
-					["id"] = 1,
-					["children"] = {
-						2, -- [1]
-					},
 					["bg"] = {
 						["texture"] = "Blizzard Tooltip",
+					},
+					["children"] = {
+						2, -- [1]
 					},
 					["unit"] = "player",
 				}, -- [1]
@@ -60,7 +60,6 @@ ToshUnitFramesDB = {
 					},
 					["_values"] = nil --[[ skipped inline function ]],
 					["Update"] = nil --[[ skipped inline function ]],
-					["id"] = 2,
 					["anchors"] = {
 						{
 							["to"] = "TOPLEFT",
@@ -71,6 +70,7 @@ ToshUnitFramesDB = {
 							["from"] = "BOTTOMRIGHT",
 						}, -- [2]
 					},
+					["id"] = 2,
 					["texture"] = "Smooth v2",
 				}, -- [2]
 			},

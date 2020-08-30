@@ -55,6 +55,11 @@ Postal3DB = {
 		["Yelluwuy - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshlongboyr|Eldre'Thalas|Horde", -- [1]
+				},
+			},
 		},
 		["Toshaman - Area 52"] = {
 		},

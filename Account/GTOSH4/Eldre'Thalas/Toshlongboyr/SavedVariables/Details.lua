@@ -145,12 +145,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["font_size"] = 10,
+			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["arrow_anchor_y"] = 0,
+			["y"] = 6.103515625e-05,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -160,15 +160,6 @@ _detalhes_database = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["y"] = 6.103515625e-05,
-			["x"] = 6.103515625e-05,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -180,49 +171,19 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["font_size"] = 10,
+			["x"] = 6.103515625e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["point"] = "CENTER",
-			["main_frame_strata"] = "LOW",
 			["row_height"] = 20,
 			["scale"] = 1,
-		},
-	},
-	["last_day"] = "27",
-	["cached_talents"] = {
-		["Player-3676-0AF40363"] = {
-			22462, -- [1]
-			22443, -- [2]
-			22447, -- [3]
-			22450, -- [4]
-			22904, -- [5]
-			22472, -- [6]
-			21631, -- [7]
-		},
-		["Player-9-00051AAE"] = {
-			15760, -- [1]
-			22409, -- [2]
-			22626, -- [3]
-			22488, -- [4]
-			22800, -- [5]
-			22395, -- [6]
-			21204, -- [7]
-		},
-		["Player-3676-0AD8EB29"] = {
-			22633, -- [1]
-			19676, -- [2]
-			22381, -- [3]
-			22382, -- [4]
-			22383, -- [5]
-			22398, -- [6]
-			16037, -- [7]
-		},
-		["Player-9-0B60C70E"] = {
-			22038, -- [1]
-			23148, -- [2]
-			19285, -- [3]
-			23143, -- [4]
-			19288, -- [5]
-			23156, -- [6]
-			23092, -- [7]
 		},
 	},
 	["announce_prepots"] = {
@@ -230,12 +191,15 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
+	["last_day"] = "29",
+	["cached_talents"] = {
+	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 2,
+		["logons"] = 6,
 	},
 	["combat_id"] = 0,
 	["savedStyles"] = {
@@ -259,8 +223,8 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 145.8340454101563,
-					["x"] = 1115.83349609375,
+					["y"] = 145.8344116210938,
+					["x"] = 1115.833740234375,
 					["w"] = 309.9999389648438,
 					["h"] = 158,
 				},
@@ -398,7 +362,7 @@ _detalhes_database = {
 			}, -- [4]
 		},
 	},
-	["combat_counter"] = 5,
+	["combat_counter"] = 13,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
@@ -420,9 +384,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1136-0814192E"] = 72,
-		["Player-1136-0814193D"] = 265,
 		["Player-84-098A5875"] = 256,
-		["Player-84-08997C1F"] = 62,
 	},
 }

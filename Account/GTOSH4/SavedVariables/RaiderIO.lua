@@ -1,9 +1,6 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshlongboy-eldrethalas"
+RaiderIO_LastCharacter = "us-Toshpal-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Valleana-nerzhul"] = true,
-	["us-Shuyan-arathor"] = true,
-	["us-Ovvi-nerzhul"] = true,
 }

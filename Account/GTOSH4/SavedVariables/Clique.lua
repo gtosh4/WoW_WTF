@@ -34,19 +34,19 @@ CliqueDB3 = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["spec1_profileKey"] = "Toshlongboy - Eldre'Thalas",
-			["fastooc"] = false,
-			["spec3_profileKey"] = "Toshlongboy - Eldre'Thalas",
-			["downclick"] = false,
 			["spec2_profileKey"] = "Toshlongboy - Eldre'Thalas",
+			["downclick"] = false,
+			["fastooc"] = false,
 			["specswap"] = false,
+			["spec3_profileKey"] = "Toshlongboy - Eldre'Thalas",
 		},
 		["Toshpal - Area 52"] = {
 			["spec1_profileKey"] = "Toshpal - Area 52",
-			["spec3_profileKey"] = "Toshpal - Area 52",
-			["downclick"] = true,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshpal - Area 52",
 			["specswap"] = false,
+			["downclick"] = true,
+			["spec3_profileKey"] = "Toshpal - Area 52",
+			["spec2_profileKey"] = "Toshpal - Area 52",
 		},
 	},
 	["profileKeys"] = {
@@ -71,20 +71,12 @@ CliqueDB3 = {
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-				{
 					["type"] = "menu",
 					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [3]
+				}, -- [2]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -92,15 +84,15 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [4]
+				}, -- [3]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [5]
+				}, -- [4]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -108,11 +100,19 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [6]
+				}, -- [5]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
 					["key"] = "ALT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [6]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
