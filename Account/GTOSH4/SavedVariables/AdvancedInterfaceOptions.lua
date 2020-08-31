@@ -8,10 +8,10 @@ AdvancedInterfaceOptionsSaved = {
 	["CharVars"] = {
 	},
 	["AccountVars"] = {
-		["floatingCombatTextCombatLogPeriodicSpells"] = "0",
 		["floatingCombatTextCombatDamage"] = "1",
-		["rawMouseEnable"] = "0",
 		["cameraDistanceMaxZoomFactor"] = "2.5999999046326",
+		["rawMouseEnable"] = "0",
+		["floatingCombatTextCombatLogPeriodicSpells"] = "0",
 	},
 	["EnforceSettings"] = false,
 }

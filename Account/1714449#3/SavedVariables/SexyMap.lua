@@ -1,5 +1,8 @@
 
 SexyMap2DB = {
+	["presets"] = {
+	},
+	["Toshpriest-Area 52"] = "global",
 	["global"] = {
 		["ping"] = {
 			["showPing"] = true,
@@ -30,32 +33,33 @@ SexyMap2DB = {
 				["MiniMapInstanceDifficulty"] = "never",
 				["LibDBIcon10_BugSack"] = "never",
 				["MinimapZoneTextButton"] = "always",
-				["MiniMapTracking"] = "never",
+				["LibDBIcon10_Gold"] = "never",
 				["MinimapZoomIn"] = "never",
 				["MiniMapMailFrame"] = "always",
-				["LibDBIcon10_Gold"] = "never",
+				["GarrisonLandingPageMinimapButton"] = "hover",
 				["GameTimeFrame"] = "never",
-				["LibDBIcon10_Equipment"] = "never",
+				["TimeManagerClockButton"] = "never",
 				["LibDBIcon10_Difficulty"] = "never",
 				["LibDBIcon10_Dominos"] = "never",
-				["MiniMapWorldMapButton"] = "never",
+				["LibDBIcon10_Equipment"] = "never",
 				["MinimapZoomOut"] = "never",
 				["LibDBIcon10_Bags"] = "never",
-				["TimeManagerClockButton"] = "never",
+				["MiniMapWorldMapButton"] = "never",
 				["LibDBIcon10_Guild"] = "never",
-				["GarrisonLandingPageMinimapButton"] = "hover",
+				["MiniMapTracking"] = "never",
 				["LibDBIcon10_GPS"] = "never",
 				["GuildInstanceDifficulty"] = "hover",
 				["LibDBIcon10_Leatrix_Plus"] = "never",
 			},
 			["dragPositions"] = {
-				["GarrisonLandingPageMinimapButton"] = 149.3681406976368,
+				["QueueStatusMinimapButton"] = 163.6189618707661,
+				["MiniMapTracking"] = 164.4354196017399,
 				["GameTimeFrame"] = 149.2157701186239,
 				["LibDBIcon10_REFlex"] = 210.5692436005571,
-				["MiniMapTracking"] = 164.4354196017399,
+				["GarrisonLandingPageMinimapButton"] = 149.3681406976368,
 				["LibDBIcon10_BugSack"] = 195.6858631879725,
 				["LibDBIcon10_SavedInstances"] = 180.4265913395499,
-				["QueueStatusMinimapButton"] = 163.6189618707661,
+				["LibDBIcon10_InstanceAchievementTracker"] = 180.3559408250942,
 			},
 			["controlVisibility"] = true,
 		},
@@ -143,9 +147,6 @@ SexyMap2DB = {
 			["rightClickToConfig"] = true,
 		},
 	},
-	["presets"] = {
-	},
-	["Toshpriest-Area 52"] = "global",
 	["Toshaman-Area 52"] = "global",
 }
 SexyMap82 = {

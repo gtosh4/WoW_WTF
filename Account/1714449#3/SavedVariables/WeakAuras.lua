@@ -281,17 +281,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -300,7 +300,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -346,20 +346,21 @@ WeakAurasSaved = {
 						["unit"] = "player",
 						["spellId"] = "",
 						["subeventPrefix"] = "SPELL",
-						["inverse"] = true,
+						["name"] = "Flask of the warm sun ",
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["names"] = {
 							"Greater Draenic Intellect Flask", -- [1]
 						},
-						["debuffType"] = "HELPFUL",
-						["use_sourceUnit"] = false,
-						["name"] = "Flask of the warm sun ",
-						["use_spellName"] = true,
 						["spellName"] = "Wind Shear",
+						["use_sourceUnit"] = false,
+						["spellIds"] = {
+						},
+						["use_spellName"] = true,
+						["custom_hide"] = "timed",
 						["use_destName"] = false,
 						["use_cloneId"] = true,
-						["custom_hide"] = "timed",
+						["debuffType"] = "HELPFUL",
 						["sourceFlags2"] = "Hostile",
 						["type"] = "event",
 						["subeventSuffix"] = "_CAST_SUCCESS",
@@ -370,8 +371,7 @@ WeakAurasSaved = {
 						["use_sourceFlags2"] = true,
 						["use_name"] = true,
 						["use_spellId"] = false,
-						["spellIds"] = {
-						},
+						["inverse"] = true,
 						["use_specific_sourceunit"] = true,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -465,14 +465,14 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["uid"] = "(LppjezyEh(",
+			["auto"] = true,
 			["borderBackdrop"] = "Blizzard Tooltip",
 			["borderInFront"] = false,
-			["config"] = {
-			},
+			["icon"] = true,
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["config"] = {
+			},
 			["sparkHeight"] = 30,
 			["customTextUpdate"] = "update",
 			["stacksContainment"] = "INSIDE",
@@ -487,9 +487,9 @@ WeakAurasSaved = {
 				},
 			},
 			["semver"] = "1.0.0",
-			["parent"] = "Enemy Interrupt Icons",
+			["uid"] = "(LppjezyEh(",
 			["sparkHidden"] = "NEVER",
-			["icon"] = true,
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
@@ -505,7 +505,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["id"] = "Shaman 2",
-			["auto"] = true,
+			["parent"] = "Enemy Interrupt Icons",
 		},
 		["QA Intermission Teller"] = {
 			["outline"] = "OUTLINE",
@@ -682,10 +682,11 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["use_unit"] = true,
+						["names"] = {
+						},
 						["duration"] = "1",
 						["event"] = "Conditions",
-						["subeventPrefix"] = "SPELL",
+						["use_unit"] = true,
 						["use_absorbMode"] = true,
 						["custom_type"] = "event",
 						["events"] = "OpenShowCardGM",
@@ -693,8 +694,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["unit"] = "player",
-						["names"] = {
-						},
+						["subeventPrefix"] = "SPELL",
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -834,9 +834,10 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
-			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
-			["url"] = "https://wago.io/VisionCounter/29",
 			["desaturate"] = false,
+			["url"] = "https://wago.io/VisionCounter/29",
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -900,8 +901,7 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["icon"] = true,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["authorOptions"] = {
-			},
+			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["xOffset"] = 80,
 		},
 		["DH Sigil of Silence 2"] = {
@@ -912,7 +912,12 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["url"] = "https://wago.io/ZG34ifiRf/1",
-			["icon"] = true,
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.45673036575317, -- [4]
+			},
 			["fontFlags"] = "OUTLINE",
 			["icon_color"] = {
 				1, -- [1]
@@ -952,7 +957,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -962,7 +967,10 @@ WeakAurasSaved = {
 						["challenge"] = true,
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -971,10 +979,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["level"] = "100",
 				["use_level"] = false,
 				["size"] = {
@@ -1136,19 +1141,15 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.45673036575317, -- [4]
-			},
+			["parent"] = "Enemy Interrupt Icons",
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["authorOptions"] = {
 			},
-			["auto"] = true,
+			["config"] = {
+			},
 			["sparkHeight"] = 30,
 			["customTextUpdate"] = "update",
 			["stacksContainment"] = "INSIDE",
@@ -1174,16 +1175,15 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["frameStrata"] = 1,
 			["width"] = 30,
-			["uid"] = "dvnxH)2uLI0",
-			["config"] = {
-			},
+			["icon"] = true,
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["parent"] = "Enemy Interrupt Icons",
-			["zoom"] = 0.28,
+			["uid"] = "dvnxH)2uLI0",
+			["auto"] = true,
 		},
 		["HealerCC'ed"] = {
 			["authorOptions"] = {
@@ -1932,18 +1932,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["rowSpace"] = 1,
-			["animate"] = false,
-			["limit"] = 3,
-			["scale"] = 1,
 			["grow"] = "LEFT",
+			["animate"] = false,
+			["anchorPerUnit"] = "UNITFRAME",
+			["scale"] = 1,
+			["useLimit"] = true,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["gridType"] = "RD",
-			["anchorPerUnit"] = "UNITFRAME",
+			["limit"] = 3,
+			["useAnchorPerUnit"] = true,
 			["constantFactor"] = "RADIUS",
 			["rotation"] = 0,
 			["borderOffset"] = 4,
@@ -1958,11 +1958,11 @@ WeakAurasSaved = {
 			["uid"] = "5J(nNDJR5qt",
 			["config"] = {
 			},
-			["useLimit"] = true,
+			["gridType"] = "RD",
 			["conditions"] = {
 			},
+			["rowSpace"] = 1,
 			["radius"] = 200,
-			["useAnchorPerUnit"] = true,
 		},
 		["Horrific Visions - Chest Zone 2"] = {
 			["color"] = {
@@ -1999,11 +1999,10 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["duration"] = "1",
 						["custom_type"] = "event",
 						["events"] = "OpenShowCardGM",
@@ -2011,7 +2010,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["unit"] = "player",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -2132,9 +2132,28 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["url"] = "https://wago.io/VisionCounter/29",
 			["icon"] = true,
+			["url"] = "https://wago.io/VisionCounter/29",
+			["animation"] = {
+				["start"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -2198,26 +2217,7 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["desaturate"] = false,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["animation"] = {
-				["start"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
+			["xOffset"] = 0,
 			["authorOptions"] = {
 			},
 		},
@@ -2252,11 +2252,10 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["use_unit"] = true,
+						["unit"] = "player",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["subeventPrefix"] = "SPELL",
 						["custom_type"] = "event",
 						["events"] = "OpenShowCardGM",
@@ -2264,7 +2263,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["duration"] = "1",
-						["unit"] = "player",
+						["names"] = {
+						},
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -2374,9 +2374,9 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["regionType"] = "icon",
-			["icon"] = true,
-			["xOffset"] = -573,
 			["selfPoint"] = "CENTER",
+			["xOffset"] = -573,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["uid"] = "426zhODp8kO",
@@ -2395,7 +2395,7 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["desaturate"] = false,
+			["icon"] = true,
 			["url"] = "https://wago.io/23q54wiYR/10",
 		},
 		["Spells nameplate"] = {
@@ -2417,10 +2417,10 @@ WeakAurasSaved = {
 						["names"] = {
 						},
 						["debuffType"] = "HELPFUL",
-						["unevent"] = "timed",
+						["subeventSuffix"] = "_CAST_SUCCESS",
 						["type"] = "custom",
 						["use_destNpcId"] = false,
-						["custom_type"] = "stateupdate",
+						["unevent"] = "timed",
 						["subeventPrefix"] = "SPELL",
 						["spellName"] = "Battle Stance",
 						["event"] = "Combat Log",
@@ -2432,7 +2432,7 @@ WeakAurasSaved = {
 						["events"] = "CLEU:SPELL_CAST_SUCCESS NAME_PLATE_UNIT_ADDED NAME_PLATE_UNIT_REMOVED",
 						["check"] = "event",
 						["use_destUnit"] = true,
-						["subeventSuffix"] = "_CAST_SUCCESS",
+						["custom_type"] = "stateupdate",
 						["customVariables"] = "{ interrupt = \"bool\" }",
 					},
 					["untrigger"] = {
@@ -2521,13 +2521,6 @@ WeakAurasSaved = {
 			},
 			["cooldownTextDisabled"] = true,
 			["regionType"] = "icon",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["cooldownEdge"] = false,
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -2548,7 +2541,23 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.spells = {}\naura_env.nameplates = {}\naura_env.guids = {}\naura_env.temp = {}\n\naura_env.spells = {\n    \n    -- Death Knight\n    \n    [47528] = { default = true, duration = 15, class = \"DEATHKNIGHT\", interrupt = true }, -- Mind Freeze\n    [48265] = { duration = 45, class = \"DEATHKNIGHT\" }, -- Death's Advance\n    [48707] = { duration = 60, class = \"DEATHKNIGHT\" }, -- Anti-Magic Shell\n    [49576] = { duration = 25, class = \"DEATHKNIGHT\", charges = 2 }, -- Death Grip\n    [51052] = { duration = 120, class = \"DEATHKNIGHT\" }, -- Anti-Magic Zone\n    [61999] = { duration = 600, class = \"DEATHKNIGHT\" }, -- Raise Ally\n    [77606] = { duration = 25, class = \"DEATHKNIGHT\" }, -- Dark Simulacrum\n    [212552] = { duration = 60, class = \"DEATHKNIGHT\" }, -- Wraith Walk\n    \n    -- Blood\n    \n    [43265] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 250, 252 } }, -- Death and Decay\n    [47476] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Strangulate\n    [49028] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Dancing Rune Weapon\n    [55233] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Vampiric Blood\n    [108199] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Gorefiend's Grasp\n    [194679] = { duration = 25, class = \"DEATHKNIGHT\", specID = { 250 }, charges = 2 }, -- Rune Tap\n    [194844] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Bonestorm\n    [203173] = { duration = 15, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Death Chain\n    [205223] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Consumption\n    [206931] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Blooddrinker\n    [206977] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Blood Mirror\n    [219809] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Tombstone\n    [221562] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 250, 252 } }, -- Asphyxiate (Blood)\n    [108194] = { parent = 221562 }, -- Asphyxiate (Unholy)\n    [221699] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 }, charges = 2 }, -- Blood Tap\n    \n    -- Frost\n    \n    [47568] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 251 }, charges = 2 }, -- Empower Rune Weapon\n    [207127] = { parent = 47568 }, -- Hungering Rune Weapon\n    [48792] = { duration = 180, class = \"DEATHKNIGHT\", specID = { 251, 252 } }, -- Icebound Fortitude\n    [51271] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Pillar of Frost\n    [152279] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 251} }, -- Breath of Sindragosa\n    [196770] = { duration = 20, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Remorseless Winter\n    [204143] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Killing Machine\n    [204160] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Chill Streak\n    [207167] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 251} }, -- Blinding Sleet\n    [207256] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 251} }, -- Obliteration\n    [279302] = { duration = 180, class = \"DEATHKNIGHT\", specID = { 251} }, -- Frostwyrm's Fury\n    \n    -- Unholy\n    \n    [42650] = { duration = 480, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Army of the Dead\n    [63560] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Dark Transformation\n    [43265] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Death and Decay\n    [152280] = { parent = 43265 }, -- Defile\n    [47481] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Gnaw (Ghoul)\n    [47482] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Leap (Ghoul)\n    [49206] = { duration = 180, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Summon Gargoyle\n    [207349] = { parent = 49206 }, -- Dark Arbiter\n    [91802] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Shambling Rush (Ghoul)\n    [130736] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Soul Reaper\n    [207289] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Unholy Frenzy\n    [207319] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Corpse Shield\n    [220143] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Apocalypse\n    \n    -- Demon Hunter\n    \n    [179057] = { duration = 60, class = \"DEMONHUNTER\" }, -- Chaos Nova\n    [183752] = { default = true, duration = 15, class = \"DEMONHUNTER\", interrupt = true }, -- Disrupt\n    [188499] = { duration = 9, class = \"DEMONHUNTER\" }, -- Blade Dance\n    [188501] = { duration = 30, class = \"DEMONHUNTER\" }, -- Spectral Sight\n    [191427] = { duration = 105, class = \"DEMONHUNTER\" }, -- Metamorphosis\n    [187827] = { parent = 191427, duration = 180 }, -- Metamorphosis (Vengeance)\n    [162264] = { parent = 191427 }, -- Metamorphosis\n    [196718] = { duration = 180, class = \"DEMONHUNTER\" }, -- Darkness\n    [198013] = { duration = 30, class = \"DEMONHUNTER\" }, -- Eye Beam\n    [198793] = { duration = 25, class = \"DEMONHUNTER\" }, -- Vengeful Retreat\n    [203704] = { duration = 60, class = \"DEMONHUNTER\" }, -- Mana Break\n    [205604] = { duration = 60, class = \"DEMONHUNTER\" }, -- Reverse Magic\n    [206649] = { duration = 45, class = \"DEMONHUNTER\" }, -- Eye of Leotheras\n    [206803] = { duration = 60, class = \"DEMONHUNTER\" }, -- Rain from Above\n    [212800] = { duration = 60, class = \"DEMONHUNTER\" }, -- Blur\n    [196555] = { parent = 212800, duration = 90 }, -- Netherwalk\n    [214743] = { duration = 60, class = \"DEMONHUNTER\" }, -- Soul Carver\n    [207407] = { parent = 214743 }, -- Soul Carver (Vengeance)\n    [221527] = { duration = 45, class = \"DEMONHUNTER\" }, -- Imprison\n    \n    -- Havoc\n    \n    [201467] = { duration = 60, class = \"DEMONHUNTER\", specID = { 577 } }, -- Fury of the Illidari\n    [206491] = { duration = 120, class = \"DEMONHUNTER\", specID = { 577 } }, -- Nemesis\n    --[211048] = { duration = 120, class = \"DEMONHUNTER\", specID = { 577 } }, -- Chaos Blades\n    [211881] = { duration = 30, class = \"DEMONHUNTER\", specID = { 577, 581 } }, -- Fel Eruption\n    \n    -- Vengeance\n    \n    [202137] = { duration = 60, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Silence\n    [202138] = { duration = 120, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Chains\n    [204021] = { duration = 60, class = \"DEMONHUNTER\", specID = { 581 } }, -- Fiery Brand\n    [204596] = { duration = 30, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Flame\n    [205629] = { duration = 30,  class = \"DEMONHUNTER\", specID = { 581 } }, -- Demonic Trample\n    [205630] = { duration = 90, class = \"DEMONHUNTER\", specID = { 581 } }, -- Illidan's Grasp\n    [207684] = { duration = 90, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Misery\n    [207810] = { duration = 120, class = \"DEMONHUNTER\", specID = { 581 } }, -- Nether Bond\n    --[218256] = { duration = 20, class = \"DEMONHUNTER\", specID = { 581 } }, -- Empower Wards\n    [263648] = { duration = 20, class = \"DEMONHUNTER\", specID = { 581 } }, -- Soul Barrier\n    \n    -- Priest\n    \n    [586] = { duration = 30, class = \"PRIEST\" }, -- Fade\n    [213602] = { parent = 586 }, -- Greater Fade\n    [32375] = { duration = 45, class = \"PRIEST\" }, -- Mass Dispel\n    \n    -- Discipline\n    \n    [8122] = { duration = 30, class = \"PRIEST\", specID = { 256, 257, 258 } }, -- Psychic Scream\n    [10060] = { duration = 120, class = \"PRIEST\", specID = { 256, 258 } }, -- Power Infusion\n    [33206] = { duration = 180, class = \"PRIEST\", specID = { 256 } }, -- Pain Suppression\n    [34433] = { duration = 180, class = \"PRIEST\", specID = { 256, 258 } }, -- Shadowfiend\n    [123040] = { parent = 34433, duration = 60 }, -- Mindbender (Discipline)\n    [200174] = { parent = 34433, duration = 60 }, -- Mindbender (Shadow)\n    [47536] = { duration = 90, class = \"PRIEST\", specID = { 256 } }, -- Rapture\n    [62618] = { duration = 180, class = \"PRIEST\", specID = { 256 } }, -- Power Word: Barrier\n    [73325] = { duration = 90, class = \"PRIEST\", specID = { 256, 257, 258 } }, -- Leap of Faith\n    [197862] = { duration = 60, class = \"PRIEST\", specID = { 256 } }, -- Archangel\n    [197871] = { duration = 60, class = \"PRIEST\", specID = { 256 } }, -- Dark Archangel\n    [204263] = { duration = 45, class = \"PRIEST\", specID = { 256, 257 } }, -- Shining Force\n    [209780] = { duration = 12, class = \"PRIEST\", specID = { 256} }, -- Premonition\n    [209885] = { parent = 209780 },\n    \n    -- Holy\n    \n    [19236] = { duration = 90, class = \"PRIEST\", specID = { 256, 257 } }, -- Desperate Prayer\n    [47788] = { duration = 180, class = \"PRIEST\", specID = { 257 } }, -- Guardian Spirit\n    [64843] = { duration = 180, class = \"PRIEST\", specID = { 257 } }, -- Divine Hymn\n    [64901] = { duration = 300, class = \"PRIEST\", specID = { 257 } }, -- Symbol of Hope\n    [196762] = { duration = 30, class = \"PRIEST\", specID = { 257 } }, -- Inner Focus\n    [197268] = { duration = 60, class = \"PRIEST\", specID = { 257 } }, -- Ray of Hope\n    [200183] = { duration = 120, class = \"PRIEST\", specID = { 257 } }, -- Apotheosis\n    [213610] = { duration = 30, class = \"PRIEST\", specID = { 257 } }, -- Holy Ward\n    [215769] = { duration = 300, class = \"PRIEST\", specID = { 257 } }, -- Spirit of Redemption\n    \n    -- Shadow\n    \n    [15286] = { duration = 120, class = \"PRIEST\", specID = { 258 } }, -- Vampiric Embrace\n    [15487] = { duration = 45, class = \"PRIEST\", specID = { 258 }, interrupt = true }, -- Silence\n    [32379] = { duration = 9, class = \"PRIEST\", specID = { 258 }, charges = 2 }, -- Shadow Word: Death\n    [47585] = { duration = 120, class = \"PRIEST\", specID = { 258 } }, -- Dispersion\n    [64044] = { duration = 45, class = \"PRIEST\", specID = { 258 } }, -- Psychic Horror\n    [108968] = { duration = 300, class = \"PRIEST\", specID = { 258 } }, -- Void Shift\n    [193223] = { duration = 240, class = \"PRIEST\", specID = { 258 } }, -- Surrender to Madness\n    [205065] = { duration = 45, class = \"PRIEST\", specID = { 258 } }, -- Void Torrent\n    [205369] = { duration = 30, class = \"PRIEST\", specID = { 258 } }, -- Mind Bomb\n    [211522] = { duration = 45, class = \"PRIEST\", specID = { 258 } }, -- Psyfiend\n    \n    -- Paladin\n    \n    [633] = { duration = 600, class = \"PALADIN\" }, -- Lay on Hands\n    [642] = { duration = 300, class = \"PALADIN\" }, -- Divine Shield\n    [853] = { duration = 60, class = \"PALADIN\" }, -- Hammer of Justice\n    [1022] = { duration = 300, class = \"PALADIN\", charges = 2 }, -- Blessing of Protection\n    [204018] = { parent = 1022, duration = 180 }, -- Blessing of Spellwarding\n    [1044] = { duration = 25, class = \"PALADIN\", charges = 2 }, -- Blessing of Freedom\n    [20066] = { duration = 15, class = \"PALADIN\" }, -- Repentance\n    [31884] = { duration = 120, class = \"PALADIN\" }, -- Avenging Wrath\n    [31842] = { parent = 31884 }, -- Avenging Wrath (Holy)\n    [216331] = { parent = 31884 }, -- Avenging Crusader\n    [224668] = { parent = 31884 }, -- Crusade\n    [231895] = { parent = 31884 }, -- Crusade\n    [115750] = { duration = 90, class = \"PALADIN\" }, -- Blinding Light\n    \n    -- Holy\n    \n    [498] = { duration = 60, class = \"PALADIN\", specID = { 65, 66 } }, -- Divine Protection\n    [6940] = { duration = 120, class = \"PALADIN\", specID = { 65, 66 }, charges = 2 }, -- Blessing of Sacrifice\n    [31821] = { duration = 180, class = \"PALADIN\", specID = { 65 } }, -- Aura Mastery\n    [105809] = { duration = 90, class = \"PALADIN\", specID = { 65 } }, -- Holy Avenger\n    [114158] = { duration = 60, class = \"PALADIN\", specID = { 65 } }, -- Light's Hammer\n    [183415] = { duration = 180, class = \"PALADIN\", specID = { 65 } }, -- Aura of Mercy\n    [200652] = { duration = 90, class = \"PALADIN\", specID = { 65 } }, -- Tyr's Deliverance\n    [210294] = { duration = 25, class = \"PALADIN\", specID = { 65 } }, -- Divine Favor\n    [214202] = { duration = 30, class = \"PALADIN\", specID = { 65 }, charges = 2 }, -- Rule of Law\n    \n    -- Protection\n    \n    [31850] = { duration = 120, class = \"PALADIN\", specID = { 66 } }, -- Ardent Defender\n    [31935] = { default = true, duration = 15, class = \"PALADIN\", specID = { 66 }, interrupt = true }, -- Avenger's Shield\n    [86659] = { duration = 300, class = \"PALADIN\", specID = { 66 } }, -- Guardian of Ancient Kings\n    [228049] = { parent = 86659 }, -- Guardian of the Forgotten Queen\n    [96231] = { default = true, duration = 15, class = \"PALADIN\", specID = { 66, 70 }, interrupt = true }, -- Rebuke\n    [152262] = { duration = 30, class = \"PALADIN\", specID = { 66 } }, -- Seraphim\n    [190784] = { duration = 45, class = \"PALADIN\", specID = { 66 } }, -- Divine Steed\n    [204035] = { duration = 180, class = \"PALADIN\", specID = { 66 } }, -- Bastion of Light\n    [204150] = { duration = 300, class = \"PALADIN\", specID = { 66 } }, -- Aegis of Light\n    [209202] = { duration = 60, class = \"PALADIN\", specID = { 66 } }, -- Eye of Tyr\n    [215652] = { duration = 25, class = \"PALADIN\", specID = { 66 } }, -- Shield of Virtue\n    \n    -- Retribution\n    \n    [184662] = { duration = 120, class = \"PALADIN\", specID = { 70 } }, -- Shield of Vengeance\n    [204939] = { duration = 60, class = \"PALADIN\", specID = { 70 } }, -- Hammer of Reckoning\n    [205191] = { duration = 60, class = \"PALADIN\", specID = { 70 } }, -- Eye for an Eye\n    [205273] = { duration = 45, class = \"PALADIN\", specID = { 70 } }, -- Wake of Ashes\n    [210191] = { duration = 60, class = \"PALADIN\", specID = { 70 }, charges = 2 }, -- Word of Glory\n    [210220] = { duration = 180, class = \"PALADIN\", specID = { 70 } }, -- Holy Wrath\n    [210256] = { duration = 45, class = \"PALADIN\", specID = { 70 } }, -- Blessing of Sanctuary\n    \n    -- Druid\n    \n    [1850] = { duration = 120, class = \"DRUID\" }, -- Dash\n    [252216] = { parent = 1850, duration = 45 }, -- Tiger Dash\n    [5211] = { duration = 50, class = \"DRUID\" }, -- Mighty Bash\n    [20484] = { duration = 600, class = \"DRUID\" }, -- Rebirth\n    [102280] = { duration = 30, class = \"DRUID\" }, -- Displacer Beast\n    [102359] = { duration = 30, class = \"DRUID\" }, -- Mass Entanglement\n    [102401] = { duration = 15, class = \"DRUID\" }, -- Wild Charge\n    [132469] = { duration = 30, class = \"DRUID\" }, -- Typhoon\n    \n    -- Balance\n    \n    [22812] = { duration = { default = 60, [104] = 35 }, class = \"DRUID\", specID = { 102, 104, 105 } }, -- Barkskin\n    [29166] = { duration = 180, class = \"DRUID\", specID = { 102, 105 } }, -- Innervate\n    [78675] = { default = true, duration = 60, class = \"DRUID\", specID = { 102 }, interrupt = true }, -- Solar Beam\n    [102560] = { duration = 180, class = \"DRUID\", specID = { 102 } }, -- Incarnation: Chosen of Elune\n    [108238] = { duration = 120, class = \"DRUID\", specID = { 102, 103, 105 } }, -- Renewal\n    [194223] = { duration = 180, class = \"DRUID\", specID = { 102 } }, -- Celestial Alignment\n    [202425] = { duration = 45, class = \"DRUID\", specID = { 102 } }, -- Warrior of Elune\n    [202770] = { duration = 60, class = \"DRUID\", specID = { 102 } }, -- Fury of Elune\n    [205636] = { duration = 60, class = \"DRUID\", specID = { 102 } }, -- Force of Nature\n    [209749] = { duration = 30, class = \"DRUID\", specID = { 102 } }, -- Faerie Swarm\n    \n    -- Feral\n    \n    [5217] = { duration = 30, class = \"DRUID\", specID = { 103 } }, -- Tiger's Fury\n    [22570] = { duration = 20, class = \"DRUID\", specID = { 103 } }, -- Maim\n    [61336] = { duration = { default = 180, [104] = 120 }, class = \"DRUID\", specID = { 103, 104 }, charges = 2 }, -- Survival Instincts\n    [102543] = { duration = 180, class = \"DRUID\", specID = { 103 } }, -- Incarnation: King of the Jungle\n    [106839] = { default = true, duration = 15, class = \"DRUID\", specID = { 103, 104 }, interrupt = true }, -- Skull Bash\n    [106898] = { duration = 120, class = \"DRUID\", specID = { 103, 104 } }, -- Stampeding Roar\n    [106951] = { duration = 180, class = \"DRUID\", specID = { 103 } }, -- Berserk\n    [202060] = { duration = 45, class = \"DRUID\", specID = { 103 } }, -- Elune's Guidance\n    [203242] = { duration = 60, class = \"DRUID\", specID = { 103 } }, -- Rip and Tear\n    [210722] = { duration = 75, class = \"DRUID\", specID = { 103 } }, -- Ashamane's Frenzy\n    \n    -- Guardian\n    \n    [99] = { duration = 30, class = \"DRUID\", specID = { 104 } }, -- Incapacitating Roar\n    [22842] = { duration = 36, class = \"DRUID\", specID = { 104 } }, -- Frenzied Regeneration\n    [102558] = { duration = 180, class = \"DRUID\", specID = { 104 } }, -- Incarnation: Guardian of Ursoc\n    [200851] = { duration = 90, class = \"DRUID\", specID = { 104 } }, -- Rage of the Sleeper\n    [202246] = { duration = 15, class = \"DRUID\", specID = { 104 } }, -- Overrun\n    [204066] = { duration = 90, class = \"DRUID\", specID = { 104 } }, -- Lunar Beam\n    \n    -- Restoration\n    \n    [740] = { duration = 180, class = \"DRUID\", specID = { 105} }, -- Tranquility\n    [18562] = { duration = 25, class = \"DRUID\", specID = { 105}, charges = 2 }, -- Swiftmend\n    [33891] = { duration = 180, class = \"DRUID\", specID = { 105} }, -- Incarnation: Tree of Life\n    [102342] = { duration = 60, class = \"DRUID\", specID = { 105} }, -- Ironbark\n    [102351] = { duration = 30, class = \"DRUID\", specID = { 105} }, -- Cenarion Ward\n    [102793] = { duration = 60, class = \"DRUID\", specID = { 105} }, -- Ursol's Vortex\n    [197721] = { duration = 90, class = \"DRUID\", specID = { 105} }, -- Flourish\n    [201664] = { duration = 60, class = \"DRUID\", specID = { 105} }, -- Demoralizing Roar\n    [203651] = { duration = 45, class = \"DRUID\", specID = { 105} }, -- Overgrowth\n    [236696] = { duration = 45, class = \"DRUID\", specID = { 102, 103, 105} }, -- Thorns\n    [208253] = { duration = 90, class = \"DRUID\", specID = { 105} }, -- Essence of G'Hanir\n    \n    -- Warrior\n    \n    [100] = { duration = 20, class = \"WARRIOR\" }, -- Charge\n    [198758] = { parent = 100, charges = 2 }, -- Intercept\n    [1719] = { duration = 90, class = \"WARRIOR\" }, -- Recklessness\n    [6544] = { duration = 30, class = \"WARRIOR\", charges = 2 }, -- Heroic Leap\n    [6552] = { default = true, duration = 15, class = \"WARRIOR\", interrupt = true }, -- Pummel\n    [18499] = { duration = 60, class = \"WARRIOR\" }, -- Berserker Rage\n    [23920] = { duration = 25, class = \"WARRIOR\" }, -- Spell Reflection\n    [213915] = { parent = 23920, duration = 30 }, -- Mass Spell Reflection\n    [216890] = { parent = 23920 }, -- Spell Reflection (Arms, Fury)\n    [46968] = { duration = 40, class = \"WARRIOR\" }, -- Shockwave\n    [107570] = { duration = 30, class = \"WARRIOR\" }, -- Storm Bolt\n    [107574] = { duration = 90, class = \"WARRIOR\" }, -- Avatar\n    [236077] = { duration = 45, class = \"WARRIOR\" }, -- Disarm\n    [236236] = { parent = 236077 }, -- Disarm (Protection)\n    \n    -- Arms\n    \n    [5246] = { duration = 90, class = \"WARRIOR\", specID = { 71, 72 } }, -- Intimidating Shout\n    [97462] = { duration = 180, class = \"WARRIOR\", specID = { 71, 72, 73 } }, -- Rallying Cry\n    [118038] = { duration = 180, class = \"WARRIOR\", specID = { 71 } }, -- Die by the Sword\n    [167105] = { duration = 45, class = \"WARRIOR\", specID = { 71 } }, -- Colossus Smash\n    [262161] = { parent = 167105 }, -- Warbreaker\n    [197690] = { duration = 10, class = \"WARRIOR\", specID = { 71 } }, -- Defensive Stance\n    [198817] = { duration = 45, class = \"WARRIOR\", specID = { 71 } }, -- Sharpen Blade\n    [227847] = { duration = 60, class = \"WARRIOR\", specID = { 71, 72 } }, -- Bladestorm (Arms)\n    [46924] = { parent = 227847 }, -- Bladestorm (Fury)\n    [152277] = { parent = 227847 }, -- Ravager\n    [236273] = { duration = 60 , class = \"WARRIOR\", specID = { 71 } }, -- Duel\n    \n    -- Fury\n    \n    [184364] = { duration = 120, class = \"WARRIOR\", specID = { 72 } }, -- Enraged Regeneration\n    [205545] = { duration = 45, class = \"WARRIOR\", specID = { 72 } }, -- Odyn's Fury\n    \n    -- Protection\n    \n    [871] = { duration = 240, class = \"WARRIOR\", specID = { 73 } }, -- Shield Wall\n    [1160] = { duration = 45, class = \"WARRIOR\", specID = { 73 } }, -- Demoralizing Shout\n    [12975] = { duration = 180, class = \"WARRIOR\", specID = { 73 } }, -- Last Stand\n    [118000] = { duration = 35, class = \"WARRIOR\", specID = { 73 } }, -- Dragon Roar\n    [198304] = { duration = 20, class = \"WARRIOR\", specID = { 73 }, charges = 2 }, -- Intercept\n    [206572] = { duration = 20, class = \"WARRIOR\", specID = { 73 } }, -- Dragon Charge\n    [213871] = { duration = 15, class = \"WARRIOR\", specID = { 73 } }, -- Bodyguard\n    [228920] = { duration = 60, class = \"WARRIOR\", specID = { 73 } }, -- Ravager\n    \n    -- Warlock\n    \n    [1122] = { duration = 180, class = \"WARLOCK\" }, -- Summon Infernal\n    [6358] = { duration = 30, class = \"WARLOCK\" }, -- Seduction\n    [115268] = { parent = 6358 }, -- Mesmerize\n    [6360] = { duration = 25, class = \"WARLOCK\" }, -- Whiplash\n    [115770] = { parent = 6360 }, -- Fellash\n    [6789] = { duration = 45, class = \"WARLOCK\" }, -- Mortal Coil\n    --[18540] = { duration = 180, class = \"WARLOCK\" }, -- Summon Doomguard\n    [20707] = { duration = 600, class = \"WARLOCK\" }, -- Soulstone\n    [30283] = { duration = 60, class = \"WARLOCK\" }, -- Shadowfury\n    [104773] = { duration = 180, class = \"WARLOCK\" }, -- Unending Resolve\n    [108416] = { duration = 60, class = \"WARLOCK\" }, -- Dark Pact\n    [108501] = { duration = 90, class = \"WARLOCK\" }, -- Grimoire of Service\n    [111896] = { duration = 90, class = \"WARLOCK\" }, -- Grimoire: Succubus\n    [119910] = { default = true, duration = 24, class = \"WARLOCK\", interrupt = true }, -- Spell Lock (Command Demon)\n    [19647] = { parent = 119910 }, -- Spell Lock (Felhunter)\n    [119911] = { parent = 119910 }, -- Optical Blast (Command Demon)\n    [115781] = { parent = 119910 }, -- Optical Blast (Observer)\n    [132409] = { parent = 119910 }, -- Spell Lock (Grimoire of Sacrifice)\n    [171138] = { parent = 119910 }, -- Shadow Lock (Doomguard)\n    [171139] = { parent = 119910 }, -- Shadow Lock (Grimoire of Sacrifice)\n    [171140] = { parent = 119910 }, -- Shadow Lock (Command Demon)\n    [171152] = { duration = 60, class = \"WARLOCK\" }, -- Meteor Strike\n    [196098] = { duration = 120, class = \"WARLOCK\" }, -- Soul Harvest\n    [199890] = { duration = 15, class = \"WARLOCK\" }, -- Curse of Tongues\n    [199892] = { duration = 20, class = \"WARLOCK\" }, -- Curse of Weakness\n    [199954] = { duration = 45, class = \"WARLOCK\" }, -- Curse of Fragility\n    [212295] = { duration = 45, class = \"WARLOCK\" }, -- Nether Ward\n    [221703] = { duration = 30, class = \"WARLOCK\" }, -- Casting Circle\n    \n    -- Affliction\n    \n    [5484] = { duration = 40, class = \"WARLOCK\", specID = { 265 } }, -- Howl of Terror\n    [48181] = { duration = 15, class = \"WARLOCK\", specID = { 265 } }, -- Haunt\n    [86121] = { duration = 20, class = \"WARLOCK\", specID = { 265 } }, -- Soul Swap\n    [113860] = { duration = 120, class = \"WARLOCK\", specID = { 265 } }, -- Dark Soul: Misery\n    [205179] = { duration = 45, class = \"WARLOCK\", specID = { 265 } }, -- Phantom Singularity\n    \n    -- Demonology\n    \n    [89751] = { duration = 45, class = \"WARLOCK\", specID = { 266 } }, -- Felstorm\n    [115831] = { parent = 89751 }, -- Wrathstorm\n    [89766] = { duration = 30, class = \"WARLOCK\", specID = { 266 } }, -- Axe Toss\n    [201996] = { duration = 90, class = \"WARLOCK\", specID = { 266 } }, -- Call Observer\n    [205180] = { duration = 24, class = \"WARLOCK\", specID = { 266 } }, -- Summon Darkglare\n    [205181] = { duration = 14, class = \"WARLOCK\", specID = { 266 }, charges = 2 }, -- Shadowflame\n    [211714] = { duration = 45, class = \"WARLOCK\", specID = { 266 } }, -- Thal'kiel's Consumption\n    [212459] = { duration = 90, class = \"WARLOCK\", specID = { 266 } }, -- Call Fel Lord\n    [212619] = { duration = 24, class = \"WARLOCK\", specID = { 266 } }, -- Call Felhunter\n    [212623] = { duration = 15, class = \"WARLOCK\", specID = { 266 } }, -- Singe Magic\n    \n    --  Destruction\n    \n    [17962] = { duration = 12, class = \"WARLOCK\", specID = { 267 }, charges = 2 }, -- Conflagrate\n    [80240] = { duration = 30, class = \"WARLOCK\", specID = { 267 } }, -- Havoc\n    [113858] = { duration = 120, class = \"WARLOCK\", specID = { 267 } }, -- Dark Soul: Instability\n    [152108] = { duration = 45, class = \"WARLOCK\", specID = { 267 } }, -- Cataclysm\n    [196447] = { duration = 15, class = \"WARLOCK\", specID = { 267 } }, -- Channel Demonfire\n    [196586] = { duration = 45, class = \"WARLOCK\", specID = { 267 }, charges = 3 }, -- Dimensional Rift\n    [212284] = { duration = 45, class = \"WARLOCK\", specID = { 267 } }, -- Firestone\n    \n    -- Shaman\n    \n    [2825] = { duration = 60, class = \"SHAMAN\" }, -- Bloodlust\n    [32182] = { parent = 2825 }, -- Heroism\n    [20608] = { duration = 1800, class = \"SHAMAN\" }, -- Reincarnation\n    [51485] = { duration = 30, class = \"SHAMAN\" }, -- Earthgrab Totem\n    [51514] = { duration = { default = 30, [264] = 10 }, class = \"SHAMAN\" }, -- Hex\n    [196932] = { parent = 51514 }, -- Voodoo Totem\n    [210873] = { parent = 51514 }, -- Hex (Compy)\n    [211004] = { parent = 51514 }, -- Hex (Spider)\n    [211010] = { parent = 51514 }, -- Hex (Snake)\n    [211015] = { parent = 51514 }, -- Hex (Cockroach)\n    [57994] = { default = true, duration = 12, class = \"SHAMAN\", interrupt = true }, -- Wind Shear\n    [108271] = { duration = 90, class = \"SHAMAN\" }, -- Astral Shift\n    [210918] = { parent = 108271, duration = 45 }, -- Ethereal Form\n    [114049] = { duration = 180, class = \"SHAMAN\" }, -- Ascendance\n    [114050] = { parent = 114050 }, -- Ascendance (Elemental)\n    [114051] = { parent = 114050 }, -- Ascendance (Enhancement)\n    [114052] = { parent = 114050 }, -- Ascendance (Restoration)\n    [192058] = { duration = 60, class = \"SHAMAN\" }, -- Capacitor\n    [192077] = { duration = 120, class = \"SHAMAN\" }, -- Wind Rush Totem\n    [204330] = { duration = 45, class = \"SHAMAN\" }, -- Skyfury Totem\n    [204331] = { duration = 45, class = \"SHAMAN\" }, -- Counterstrike Totem\n    [204332] = { duration = 30, class = \"SHAMAN\" }, -- Windfury Totem\n    \n    -- Elemental\n    \n    [16166] = { duration = 120, class = \"SHAMAN\", specID = { 262 } }, -- Elemental Mastery\n    [51490] = { duration = 45, class = \"SHAMAN\", specID = { 262 } }, -- Thunderstorm\n    [108281] = { duration = 120, class = \"SHAMAN\", specID = { 262, 264 } }, -- Ancestral Guidance\n    [192063] = { duration = 15, class = \"SHAMAN\", specID = { 262, 264 } }, -- Gust of Wind\n    [192222] = { duration = 60, class = \"SHAMAN\", specID = { 262 } }, -- Liquid Magma Totem\n    [198067] = { duration = 150, class = \"SHAMAN\", specID = { 262 } }, -- Fire Elemental\n    [192249] = { parent = 198067 }, -- Storm Elemental\n    [198103] = { duration = 120, class = \"SHAMAN\", specID = { 262 } }, -- Earth Elemental\n    [204437] = { duration = 30, class = \"SHAMAN\", specID = { 262 } }, -- Lightning Lasso\n    [191634] = { duration = 60, class = \"SHAMAN\", specID = { 262 } }, -- Stormkeeper\n    \n    -- Enhancement\n    \n    [58875] = { duration = 60, class = \"SHAMAN\", specID = { 263 } }, -- Spirit Walk\n    [196884] = { duration = 30, class = \"SHAMAN\", specID = { 263 } }, -- Feral Lunge\n    [197214] = { duration = 40, class = \"SHAMAN\", specID = { 263 } }, -- Sundering\n    [201898] = { duration = 45, class = \"SHAMAN\", specID = { 263 } }, -- Windsong\n    [204366] = { duration = 45, class = \"SHAMAN\", specID = { 263 } }, -- Thundercharge\n    [204945] = { duration = 60, class = \"SHAMAN\", specID = { 263 } }, -- Doom Winds\n    \n    -- Restoration\n    \n    [5394] = { duration = 30, class = \"SHAMAN\", specID = { 264 }, charges = 30 }, -- Healing Stream Totem\n    [79206] = { duration = 60, class = \"SHAMAN\", specID = { 264 } }, -- Spiritwalker's Grace\n    [98008] = { duration = 180, class = \"SHAMAN\", specID = { 264 } }, -- Spirit Link Totem\n    [204293] = { parent = 98008, duration = 60 }, -- Spirit Link\n    [108280] = { duration = 180, class = \"SHAMAN\", specID = { 264 } }, -- Healing Tide Totem\n    [157153] = { duration = 30, class = \"SHAMAN\", specID = { 264 } }, -- Cloudburst Totem\n    [198838] = { duration = 60, class = \"SHAMAN\", specID = { 264 } }, -- Earthen Wall Totem\n    [204336] = { duration = 30, class = \"SHAMAN\", specID = { 264 } }, -- Grounding Totem\n    [207399] = { duration = 300, class = \"SHAMAN\", specID = { 264 } }, -- Ancestral Protection Totem\n    [207778] = { duration = 45, class = \"SHAMAN\", specID = { 264 } }, -- Gift of the Queen\n    \n    -- Hunter\n    \n    [136] = { duration = 10, class = \"HUNTER\" }, -- Mend Pet\n    [1543] = { duration = 20, class = \"HUNTER\" }, -- Flare\n    [5384] = { duration = 30, class = \"HUNTER\" }, -- Feign Death\n    [53480] = { duration = 60, class = \"HUNTER\" }, -- Roar of Sacrifice\n    [109304] = { duration = 120, class = \"HUNTER\" }, -- Exhilaration (Beast Mastery, Survival)\n    [131894] = { duration = 60, class = \"HUNTER\" }, -- A Murder of Crows (Beast Mastery, Marksmanship)\n    [206505] = { parent = 131894 }, -- A Murder of Crows (Survival)\n    [186257] = { duration = { default = 180, [253] = 120, [255] = 144 }, class = \"HUNTER\" }, -- Aspect of the Cheetah\n    [186265] = { duration = { default = 180, [255] = 144 }, class = \"HUNTER\" }, -- Aspect of the Turtle\n    [187650] = { duration = { default = 30, [255] = 20 }, class = \"HUNTER\" }, -- Freezing Trap\n    [202914] = { duration = 60, class = \"HUNTER\" }, -- Spider Sting\n    [209997] = { duration = 30, class = \"HUNTER\" }, -- Play Dead\n    \n    -- Beast Mastery\n    \n    [781] = { duration = 20, class = \"HUNTER\", specID = { 253, 254 } }, -- Disengage\n    [19386] = { duration = 45, class = \"HUNTER\", specID = { 253, 254 } }, -- Wyvern Sting\n    [19574] = { duration = 75, class = \"HUNTER\", specID = { 253 } }, -- Bestial Wrath\n    [19577] = { duration = 60, class = \"HUNTER\", specID = { 253 } }, -- Intimidation\n    [109248] = { duration = 45, class = \"HUNTER\", specID = { 253, 254 } }, -- Binding Shot\n    [147362] = { default = true, duration = 24, class = \"HUNTER\", specID = { 253, 254 }, interrupt = true }, -- Counter Shot\n    [193530] = { duration = 120, class = \"HUNTER\", specID = { 253 } }, -- Aspect of the Wild\n    [194386] = { duration = 90, class = \"HUNTER\", specID = { 253, 254 } }, -- Volley\n    [201430] = { duration = 180, class = \"HUNTER\", specID = { 253 } }, -- Stampede\n    [207068] = { duration = 60, class = \"HUNTER\", specID = { 253 } }, -- Titan's Thunder\n    [208652] = { duration = 30, class = \"HUNTER\", specID = { 253 } }, -- Dire Beast: Hawk\n    \n    -- Marksmanship\n    \n    [34477] = { duration = 30, class = \"HUNTER\", specID = { 254 } }, -- Misdirection\n    [186387] = { duration = 20, class = \"HUNTER\", specID = { 254 } }, -- Bursting Shot\n    [193526] = { duration = 140, class = \"HUNTER\", specID = { 254 } }, -- Trueshot\n    [199483] = { duration = 60, class = \"HUNTER\", specID = { 254, 255 } }, -- Camouflage\n    [204147] = { duration = 20, class = \"HUNTER\", specID = { 254 } }, -- Windburst\n    [206817] = { duration = 30, class = \"HUNTER\", specID = { 254 } }, -- Sentinel\n    [209789] = { duration = 30, class = \"HUNTER\", specID = { 254 } }, -- Freezing Arrow\n    [213691] = { duration = 20, class = \"HUNTER\", specID = { 254 } }, -- Scatter Shot\n    \n    -- Survival\n    \n    [53271] = { duration = 45, class = \"HUNTER\", specID = { 255 } }, -- Master's Call\n    [186289] = { duration = 96, class = \"HUNTER\", specID = { 255 } }, -- Aspect of the Eagle\n    [187698] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Tar Trap\n    [187707] = { default = true, duration = 15, class = \"HUNTER\", specID = { 255 }, interrupt = true }, -- Muzzle\n    [190925] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Harpoon\n    [191241] = { duration = 30, class = \"HUNTER\", specID = { 255 } }, -- Sticky Bomb\n    [191433] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Explosive Trap\n    [194407] = { duration = 90, class = \"HUNTER\", specID = { 255 } }, -- Spitting Cobra\n    [201078] = { duration = 90, class = \"HUNTER\", specID = { 255 } }, -- Snake Hunter\n    [203415] = { duration = 45, class = \"HUNTER\", specID = { 255 } }, -- Fury of the Eagle\n    [205691] = { duration = 120, class = \"HUNTER\", specID = { 255 } }, -- Dire Beast: Basilisk\n    [212640] = { duration = 25, class = \"HUNTER\", specID = { 255 } }, -- Mending Bandage\n    [266779] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Coordinated Assault\n    \n    -- Mage\n    \n    [66] = { duration = 300, class = \"MAGE\" }, -- Invisibility\n    [110959] = { parent = 66, duration = 75 }, -- Greater Invisibility\n    [1953] = { duration = 15, class = \"MAGE\"}, -- Blink\n    [212653] = { parent = 1953, duration = 20, charges = 2 }, -- Shimmer\n    [2139] = { default = true, duration = 24, class = \"MAGE\", interrupt = true }, -- Counterspell\n    [11426] = { duration = 25, class = \"MAGE\" }, -- Ice Barrier\n    [45438] = { duration = 300, class = \"MAGE\", charges = 2 }, -- Ice Block\n    [55342] = { duration = 120, class = \"MAGE\" }, -- Mirror Image\n    [80353] = { duration = 300, class = \"MAGE\" }, -- Time Warp\n    [108839] = { duration = 20, class = \"MAGE\", charges = 3 }, -- Ice Floes\n    [113724] = { duration = 45, class = \"MAGE\" }, -- Ring of Frost\n    [116011] = { duration = 40, class = \"MAGE\", charges = 2 }, -- Rune of Power\n    [198111] = { duration = 45, class = \"MAGE\" }, -- Temporal Shield\n    \n    -- Arcane\n    \n    [12042] = { duration = 90, class = \"MAGE\", specID = { 62 } }, -- Arcane Power\n    [12051] = { duration = 90, class = \"MAGE\", specID = { 62 } }, -- Evocation\n    [153626] = { duration = 20, class = \"MAGE\", specID = { 62 } }, -- Arcane Orb\n    [157980] = { duration = 25, class = \"MAGE\", specID = { 62 } }, -- Supernova\n    [195676] = { duration = 24, class = \"MAGE\", specID = { 62 } }, -- Displacement\n    [198158] = { duration = 60, class = \"MAGE\", specID = { 62 } }, -- Mass Invisibility\n    [205025] = { duration = 60, class = \"MAGE\", specID = { 62 } }, -- Presence of Mind\n    [224968] = { duration = 60, class = \"MAGE\", specID = { 62 } }, -- Mark of Aluneth\n    \n    -- Fire\n    \n    [31661] = { duration = 20, class = \"MAGE\", specID = { 63 } }, -- Dragon's Breath\n    [108853] = { duration = 12, class = \"MAGE\", specID = { 63 }, charges = 2 }, -- Fire Blast\n    [153561] = { duration = 45, class = \"MAGE\", specID = { 63 } }, -- Meteor\n    [157981] = { duration = 25, class = \"MAGE\", specID = { 63 } }, -- Blast Wave\n    [190319] = { duration = 115, class = \"MAGE\", specID = { 63 } }, -- Combustion\n    [194466] = { duration = 45, class = \"MAGE\", specID = { 63 }, charges = 3 }, -- Phoenix's Flames\n    [205029] = { duration = 45, class = \"MAGE\", specID = { 63 } }, -- Flame On\n    \n    -- Frost\n    \n    [122] = { duration = 30, class = \"MAGE\", specID = { 64 }, charges = 2 }, -- Frost Nova\n    [12472] = { duration = 180, class = \"MAGE\", specID = { 64 } }, -- Icy Veins\n    [198144] = { parent = 12472, duration = 45 }, -- Ice Form\n    [31687] = { duration = 60, class = \"MAGE\", specID = { 64 } }, -- Summon Water Elemental\n    [84714] = { duration = 60, class = \"MAGE\", specID = { 64 } }, -- Frozen Orb\n    [153595] = { duration = 30, class = \"MAGE\", specID = { 64 } }, -- Comet Storm\n    [157997] = { duration = 25, class = \"MAGE\", specID = { 64 } }, -- Ice Nova\n    [205021] = { duration = 75, class = \"MAGE\", specID = { 64 } }, -- Ray of Frost\n    [214634] = { duration = 45, class = \"MAGE\", specID = { 64 } }, -- Ebonbolt\n    \n    -- Rogue\n    \n    [1725] = { duration = 30, class = \"ROGUE\" }, -- Distract\n    [1766] = { default = true, duration = 15, class = \"ROGUE\", interrupt = true }, -- Kick\n    [1856] = { duration = { default = 120, [261] = 30 }, class = \"ROGUE\" }, -- Vanish\n    [2983] = { duration = { default = 60, [259] = 51 }, class = \"ROGUE\" }, -- Sprint\n    [31224] = { duration = { default = 90, [259] = 81 }, class = \"ROGUE\" }, -- Cloak of Shadows\n    [57934] = { duration = 30, class = \"ROGUE\" }, -- Tricks of the Trade\n    [137619] = { duration = 40, class = \"ROGUE\" }, -- Marked for Death\n    [152150] = { duration = 20, class = \"ROGUE\" }, -- Death from Above\n    \n    -- Assassination\n    \n    [408] = { duration = 20, class = \"ROGUE\", specID = { 259, 261 } }, -- Kidney Shot\n    [703] = { duration = 6, class = \"ROGUE\", specID = { 259 } }, -- Garrote\n    [5277] = { duration = 120, class = \"ROGUE\", specID = { 259, 261 } }, -- Evasion\n    [36554] = { duration = 30, class = \"ROGUE\", specID = { 259, 261 } }, -- Shadowstep\n    [79140] = { duration = 120, class = \"ROGUE\", specID = { 259 } }, -- Vendetta\n    [192759] = { duration = 45, class = \"ROGUE\", specID = { 259 } }, -- Kingsbane\n    [200806] = { duration = 45, class = \"ROGUE\", specID = { 259 } }, -- Exsanguinate\n    [206328] = { duration = 25, class = \"ROGUE\", specID = { 259 } }, -- Shiv\n    \n    -- Outlaw\n    \n    [1776] = { duration = 15, class = \"ROGUE\", specID = { 260 } }, -- Gouge\n    [2094] = { duration = 120, class = \"ROGUE\", specID = { 260, 261 } }, -- Blind\n    [199743] = { parent = 2094, duration = 20 }, -- Parley\n    [13750] = { duration = 150, class = \"ROGUE\", specID = { 260 } }, -- Adrenaline Rush\n    [51690] = { duration = 120, class = \"ROGUE\", specID = { 260 } }, -- Killing Spree\n    --[185767] = { duration = 60, class = \"ROGUE\", specID = { 260 } }, -- Cannonball Barrage\n    [195457] = { duration = 30, class = \"ROGUE\", specID = { 260 } }, -- Grappling Hook\n    [198529] = { duration = 120, class = \"ROGUE\", specID = { 260 } }, -- Plunder Armor\n    [199754] = { duration = 120, class = \"ROGUE\", specID = { 260 } }, -- Riposte\n    [199804] = { duration = 30, class = \"ROGUE\", specID = { 260 } }, -- Between the Eyes\n    [202665] = { duration = 90, class = \"ROGUE\", specID = { 260 } }, -- Curse of the Dreadblades\n    [207777] = { duration = 45, class = \"ROGUE\", specID = { 260 } }, -- Dismantle\n    \n    -- Subtlety\n    \n    [121471] = { duration = 180, class = \"ROGUE\", specID = { 261 } }, -- Shadow Blades\n    [185313] = { duration = 60, class = \"ROGUE\", specID = { 261 }, charges = 3 }, -- Shadow Dance\n    [207736] = { duration = 120, class = \"ROGUE\", specID = { 261 } }, -- Shadowy Duel\n    [209782] = { duration = 60, class = \"ROGUE\", specID = { 261 } }, -- Goremaw's Bite\n    [212182] = { duration = 180, class = \"ROGUE\", specID = { 261 } }, -- Smoke Bomb\n    [213981] = { duration = 45, class = \"ROGUE\", specID = { 261 } }, -- Cold Blood\n    \n    -- Monk\n    \n    [109132] = { duration = 15, class = \"MONK\", charges = 3 }, -- Roll\n    [115008] = { parent = 109132 }, -- Chi Torpedo\n    [115078] = { duration = 45, class = \"MONK\" }, -- Paralysis\n    [116841] = { duration = 30, class = \"MONK\" }, -- Tiger's Lust\n    [116844] = { duration = 45, class = \"MONK\" }, -- Ring of Peace\n    [119381] = { duration = 60, class = \"MONK\" }, -- Leg Sweep\n    [119996] = { duration = 45, class = \"MONK\" }, -- Transcendence: Transfer\n    [122278] = { duration = 120, class = \"MONK\" }, -- Dampen Harm\n    [122783] = { duration = 120, class = \"MONK\" }, -- Diffuse Magic\n    [123986] = { duration = 30, class = \"MONK\" }, -- Chi Burst\n    --[137648] = { duration = 120, class = \"MONK\" }, -- Nimble Brew\n    \n    -- Brewmaster\n    \n    [115203] = { duration = 105, class = \"MONK\", specID = { 268 } }, -- Fortifying Brew\n    [115399] = { duration = 90, class = \"MONK\", specID = { 268 } }, -- Black Ox Brew\n    [116705] = { default = true, duration = 15, class = \"MONK\", specID = { 268, 269 }, interrupt = true }, -- Spear Hand Strike\n    [132578] = { duration = 180, class = \"MONK\", specID = { 268 } }, -- Invoke Niuzao, the Black Ox\n    [202162] = { duration = 45, class = \"MONK\", specID = { 268 } }, -- Guard\n    [202272] = { duration = 45, class = \"MONK\", specID = { 268 } }, -- Incendiary Brew\n    [202370] = { duration = 60, class = \"MONK\", specID = { 268 } }, -- Mighty Ox Kick\n    \n    -- Windwalker\n    \n    [101545] = { duration = 25, class = \"MONK\", specID = { 269 }, charges = 2 }, -- Flying Serpent Kick\n    [113656] = { duration = 24, class = \"MONK\", specID = { 269 } }, -- Fists of Fury\n    [115080] = { duration = 120, class = \"MONK\", specID = { 269 } }, -- Touch of Death\n    [152173] = { parent = 137639 }, -- Serenity\n    [115176] = { duration = 150, class = \"MONK\", specID = { 269 } }, -- Zen Meditation\n    [201325] = { parent = 115176, 180 }, -- Zen Meditation (Windwalker)\n    [115288] = { duration = 60, class = \"MONK\", specID = { 269 } }, -- Energizing Elixir\n    [122470] = { duration = 90, class = \"MONK\", specID = { 269 } }, -- Touch of Karma\n    [123904] = { duration = 120, class = \"MONK\", specID = { 269 } }, -- Invoke Xuen, the White Tiger\n    [137639] = { duration = 90, class = \"MONK\", specID = { 269 }, charges = 2 }, -- Storm, Earth, and Fire\n    [152175] = { duration = 24, class = \"MONK\", specID = { 269 } }, -- Whirling Dragon Punch\n    [201318] = { duration = 90, class = \"MONK\", specID = { 269 } }, -- Fortifying Elixir\n    \n    -- Mistweaver\n    \n    [115310] = { duration = 180, class = \"MONK\", specID = { 270 } }, -- Revival\n    [116680] = { duration = 30, class = \"MONK\", specID = { 270 } }, -- Thunder Focus Tea\n    [116849] = { duration = 120, class = \"MONK\", specID = { 270 } }, -- Life Cocoon\n    [197908] = { duration = 90, class = \"MONK\", specID = { 270 } }, -- Mana Tea\n    --[197945] = { duration = 20, class = \"MONK\", specID = { 270 }, charges = 2 }, -- Mistwalk\n    [198664] = { duration = 180, class = \"MONK\", specID = { 270 } }, -- Invoke Chi-Ji, the Red Crane\n    [198898] = { duration = 30, class = \"MONK\", specID = { 270 } }, -- Song of Chi-Ji\n    [216113] = { duration = 45, class = \"MONK\", specID = { 270 } }, -- Way of the Crane\n    \n}\n\nfor k, d in pairs(aura_env.spells) do\n    local _, _, icon = GetSpellInfo(k)\n    if icon then\n        d.icon = icon\n    end\nend\n\n\n",
+					["do_custom"] = true,
+				},
+			},
 			["xOffset"] = 0,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["semver"] = "1.0.5",
 			["config"] = {
 			},
@@ -2562,16 +2571,7 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["uid"] = "6cVOOS8Fh8n",
 			["inverse"] = true,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.spells = {}\naura_env.nameplates = {}\naura_env.guids = {}\naura_env.temp = {}\n\naura_env.spells = {\n    \n    -- Death Knight\n    \n    [47528] = { default = true, duration = 15, class = \"DEATHKNIGHT\", interrupt = true }, -- Mind Freeze\n    [48265] = { duration = 45, class = \"DEATHKNIGHT\" }, -- Death's Advance\n    [48707] = { duration = 60, class = \"DEATHKNIGHT\" }, -- Anti-Magic Shell\n    [49576] = { duration = 25, class = \"DEATHKNIGHT\", charges = 2 }, -- Death Grip\n    [51052] = { duration = 120, class = \"DEATHKNIGHT\" }, -- Anti-Magic Zone\n    [61999] = { duration = 600, class = \"DEATHKNIGHT\" }, -- Raise Ally\n    [77606] = { duration = 25, class = \"DEATHKNIGHT\" }, -- Dark Simulacrum\n    [212552] = { duration = 60, class = \"DEATHKNIGHT\" }, -- Wraith Walk\n    \n    -- Blood\n    \n    [43265] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 250, 252 } }, -- Death and Decay\n    [47476] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Strangulate\n    [49028] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Dancing Rune Weapon\n    [55233] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Vampiric Blood\n    [108199] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Gorefiend's Grasp\n    [194679] = { duration = 25, class = \"DEATHKNIGHT\", specID = { 250 }, charges = 2 }, -- Rune Tap\n    [194844] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Bonestorm\n    [203173] = { duration = 15, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Death Chain\n    [205223] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Consumption\n    [206931] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Blooddrinker\n    [206977] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Blood Mirror\n    [219809] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 } }, -- Tombstone\n    [221562] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 250, 252 } }, -- Asphyxiate (Blood)\n    [108194] = { parent = 221562 }, -- Asphyxiate (Unholy)\n    [221699] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 250 }, charges = 2 }, -- Blood Tap\n    \n    -- Frost\n    \n    [47568] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 251 }, charges = 2 }, -- Empower Rune Weapon\n    [207127] = { parent = 47568 }, -- Hungering Rune Weapon\n    [48792] = { duration = 180, class = \"DEATHKNIGHT\", specID = { 251, 252 } }, -- Icebound Fortitude\n    [51271] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Pillar of Frost\n    [152279] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 251} }, -- Breath of Sindragosa\n    [196770] = { duration = 20, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Remorseless Winter\n    [204143] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Killing Machine\n    [204160] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 251 } }, -- Chill Streak\n    [207167] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 251} }, -- Blinding Sleet\n    [207256] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 251} }, -- Obliteration\n    [279302] = { duration = 180, class = \"DEATHKNIGHT\", specID = { 251} }, -- Frostwyrm's Fury\n    \n    -- Unholy\n    \n    [42650] = { duration = 480, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Army of the Dead\n    [63560] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Dark Transformation\n    [43265] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Death and Decay\n    [152280] = { parent = 43265 }, -- Defile\n    [47481] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Gnaw (Ghoul)\n    [47482] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Leap (Ghoul)\n    [49206] = { duration = 180, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Summon Gargoyle\n    [207349] = { parent = 49206 }, -- Dark Arbiter\n    [91802] = { duration = 30, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Shambling Rush (Ghoul)\n    [130736] = { duration = 45, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Soul Reaper\n    [207289] = { duration = 120, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Unholy Frenzy\n    [207319] = { duration = 60, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Corpse Shield\n    [220143] = { duration = 90, class = \"DEATHKNIGHT\", specID = { 252 } }, -- Apocalypse\n    \n    -- Demon Hunter\n    \n    [179057] = { duration = 60, class = \"DEMONHUNTER\" }, -- Chaos Nova\n    [183752] = { default = true, duration = 15, class = \"DEMONHUNTER\", interrupt = true }, -- Disrupt\n    [188499] = { duration = 9, class = \"DEMONHUNTER\" }, -- Blade Dance\n    [188501] = { duration = 30, class = \"DEMONHUNTER\" }, -- Spectral Sight\n    [191427] = { duration = 105, class = \"DEMONHUNTER\" }, -- Metamorphosis\n    [187827] = { parent = 191427, duration = 180 }, -- Metamorphosis (Vengeance)\n    [162264] = { parent = 191427 }, -- Metamorphosis\n    [196718] = { duration = 180, class = \"DEMONHUNTER\" }, -- Darkness\n    [198013] = { duration = 30, class = \"DEMONHUNTER\" }, -- Eye Beam\n    [198793] = { duration = 25, class = \"DEMONHUNTER\" }, -- Vengeful Retreat\n    [203704] = { duration = 60, class = \"DEMONHUNTER\" }, -- Mana Break\n    [205604] = { duration = 60, class = \"DEMONHUNTER\" }, -- Reverse Magic\n    [206649] = { duration = 45, class = \"DEMONHUNTER\" }, -- Eye of Leotheras\n    [206803] = { duration = 60, class = \"DEMONHUNTER\" }, -- Rain from Above\n    [212800] = { duration = 60, class = \"DEMONHUNTER\" }, -- Blur\n    [196555] = { parent = 212800, duration = 90 }, -- Netherwalk\n    [214743] = { duration = 60, class = \"DEMONHUNTER\" }, -- Soul Carver\n    [207407] = { parent = 214743 }, -- Soul Carver (Vengeance)\n    [221527] = { duration = 45, class = \"DEMONHUNTER\" }, -- Imprison\n    \n    -- Havoc\n    \n    [201467] = { duration = 60, class = \"DEMONHUNTER\", specID = { 577 } }, -- Fury of the Illidari\n    [206491] = { duration = 120, class = \"DEMONHUNTER\", specID = { 577 } }, -- Nemesis\n    --[211048] = { duration = 120, class = \"DEMONHUNTER\", specID = { 577 } }, -- Chaos Blades\n    [211881] = { duration = 30, class = \"DEMONHUNTER\", specID = { 577, 581 } }, -- Fel Eruption\n    \n    -- Vengeance\n    \n    [202137] = { duration = 60, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Silence\n    [202138] = { duration = 120, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Chains\n    [204021] = { duration = 60, class = \"DEMONHUNTER\", specID = { 581 } }, -- Fiery Brand\n    [204596] = { duration = 30, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Flame\n    [205629] = { duration = 30,  class = \"DEMONHUNTER\", specID = { 581 } }, -- Demonic Trample\n    [205630] = { duration = 90, class = \"DEMONHUNTER\", specID = { 581 } }, -- Illidan's Grasp\n    [207684] = { duration = 90, class = \"DEMONHUNTER\", specID = { 581 } }, -- Sigil of Misery\n    [207810] = { duration = 120, class = \"DEMONHUNTER\", specID = { 581 } }, -- Nether Bond\n    --[218256] = { duration = 20, class = \"DEMONHUNTER\", specID = { 581 } }, -- Empower Wards\n    [263648] = { duration = 20, class = \"DEMONHUNTER\", specID = { 581 } }, -- Soul Barrier\n    \n    -- Priest\n    \n    [586] = { duration = 30, class = \"PRIEST\" }, -- Fade\n    [213602] = { parent = 586 }, -- Greater Fade\n    [32375] = { duration = 45, class = \"PRIEST\" }, -- Mass Dispel\n    \n    -- Discipline\n    \n    [8122] = { duration = 30, class = \"PRIEST\", specID = { 256, 257, 258 } }, -- Psychic Scream\n    [10060] = { duration = 120, class = \"PRIEST\", specID = { 256, 258 } }, -- Power Infusion\n    [33206] = { duration = 180, class = \"PRIEST\", specID = { 256 } }, -- Pain Suppression\n    [34433] = { duration = 180, class = \"PRIEST\", specID = { 256, 258 } }, -- Shadowfiend\n    [123040] = { parent = 34433, duration = 60 }, -- Mindbender (Discipline)\n    [200174] = { parent = 34433, duration = 60 }, -- Mindbender (Shadow)\n    [47536] = { duration = 90, class = \"PRIEST\", specID = { 256 } }, -- Rapture\n    [62618] = { duration = 180, class = \"PRIEST\", specID = { 256 } }, -- Power Word: Barrier\n    [73325] = { duration = 90, class = \"PRIEST\", specID = { 256, 257, 258 } }, -- Leap of Faith\n    [197862] = { duration = 60, class = \"PRIEST\", specID = { 256 } }, -- Archangel\n    [197871] = { duration = 60, class = \"PRIEST\", specID = { 256 } }, -- Dark Archangel\n    [204263] = { duration = 45, class = \"PRIEST\", specID = { 256, 257 } }, -- Shining Force\n    [209780] = { duration = 12, class = \"PRIEST\", specID = { 256} }, -- Premonition\n    [209885] = { parent = 209780 },\n    \n    -- Holy\n    \n    [19236] = { duration = 90, class = \"PRIEST\", specID = { 256, 257 } }, -- Desperate Prayer\n    [47788] = { duration = 180, class = \"PRIEST\", specID = { 257 } }, -- Guardian Spirit\n    [64843] = { duration = 180, class = \"PRIEST\", specID = { 257 } }, -- Divine Hymn\n    [64901] = { duration = 300, class = \"PRIEST\", specID = { 257 } }, -- Symbol of Hope\n    [196762] = { duration = 30, class = \"PRIEST\", specID = { 257 } }, -- Inner Focus\n    [197268] = { duration = 60, class = \"PRIEST\", specID = { 257 } }, -- Ray of Hope\n    [200183] = { duration = 120, class = \"PRIEST\", specID = { 257 } }, -- Apotheosis\n    [213610] = { duration = 30, class = \"PRIEST\", specID = { 257 } }, -- Holy Ward\n    [215769] = { duration = 300, class = \"PRIEST\", specID = { 257 } }, -- Spirit of Redemption\n    \n    -- Shadow\n    \n    [15286] = { duration = 120, class = \"PRIEST\", specID = { 258 } }, -- Vampiric Embrace\n    [15487] = { duration = 45, class = \"PRIEST\", specID = { 258 }, interrupt = true }, -- Silence\n    [32379] = { duration = 9, class = \"PRIEST\", specID = { 258 }, charges = 2 }, -- Shadow Word: Death\n    [47585] = { duration = 120, class = \"PRIEST\", specID = { 258 } }, -- Dispersion\n    [64044] = { duration = 45, class = \"PRIEST\", specID = { 258 } }, -- Psychic Horror\n    [108968] = { duration = 300, class = \"PRIEST\", specID = { 258 } }, -- Void Shift\n    [193223] = { duration = 240, class = \"PRIEST\", specID = { 258 } }, -- Surrender to Madness\n    [205065] = { duration = 45, class = \"PRIEST\", specID = { 258 } }, -- Void Torrent\n    [205369] = { duration = 30, class = \"PRIEST\", specID = { 258 } }, -- Mind Bomb\n    [211522] = { duration = 45, class = \"PRIEST\", specID = { 258 } }, -- Psyfiend\n    \n    -- Paladin\n    \n    [633] = { duration = 600, class = \"PALADIN\" }, -- Lay on Hands\n    [642] = { duration = 300, class = \"PALADIN\" }, -- Divine Shield\n    [853] = { duration = 60, class = \"PALADIN\" }, -- Hammer of Justice\n    [1022] = { duration = 300, class = \"PALADIN\", charges = 2 }, -- Blessing of Protection\n    [204018] = { parent = 1022, duration = 180 }, -- Blessing of Spellwarding\n    [1044] = { duration = 25, class = \"PALADIN\", charges = 2 }, -- Blessing of Freedom\n    [20066] = { duration = 15, class = \"PALADIN\" }, -- Repentance\n    [31884] = { duration = 120, class = \"PALADIN\" }, -- Avenging Wrath\n    [31842] = { parent = 31884 }, -- Avenging Wrath (Holy)\n    [216331] = { parent = 31884 }, -- Avenging Crusader\n    [224668] = { parent = 31884 }, -- Crusade\n    [231895] = { parent = 31884 }, -- Crusade\n    [115750] = { duration = 90, class = \"PALADIN\" }, -- Blinding Light\n    \n    -- Holy\n    \n    [498] = { duration = 60, class = \"PALADIN\", specID = { 65, 66 } }, -- Divine Protection\n    [6940] = { duration = 120, class = \"PALADIN\", specID = { 65, 66 }, charges = 2 }, -- Blessing of Sacrifice\n    [31821] = { duration = 180, class = \"PALADIN\", specID = { 65 } }, -- Aura Mastery\n    [105809] = { duration = 90, class = \"PALADIN\", specID = { 65 } }, -- Holy Avenger\n    [114158] = { duration = 60, class = \"PALADIN\", specID = { 65 } }, -- Light's Hammer\n    [183415] = { duration = 180, class = \"PALADIN\", specID = { 65 } }, -- Aura of Mercy\n    [200652] = { duration = 90, class = \"PALADIN\", specID = { 65 } }, -- Tyr's Deliverance\n    [210294] = { duration = 25, class = \"PALADIN\", specID = { 65 } }, -- Divine Favor\n    [214202] = { duration = 30, class = \"PALADIN\", specID = { 65 }, charges = 2 }, -- Rule of Law\n    \n    -- Protection\n    \n    [31850] = { duration = 120, class = \"PALADIN\", specID = { 66 } }, -- Ardent Defender\n    [31935] = { default = true, duration = 15, class = \"PALADIN\", specID = { 66 }, interrupt = true }, -- Avenger's Shield\n    [86659] = { duration = 300, class = \"PALADIN\", specID = { 66 } }, -- Guardian of Ancient Kings\n    [228049] = { parent = 86659 }, -- Guardian of the Forgotten Queen\n    [96231] = { default = true, duration = 15, class = \"PALADIN\", specID = { 66, 70 }, interrupt = true }, -- Rebuke\n    [152262] = { duration = 30, class = \"PALADIN\", specID = { 66 } }, -- Seraphim\n    [190784] = { duration = 45, class = \"PALADIN\", specID = { 66 } }, -- Divine Steed\n    [204035] = { duration = 180, class = \"PALADIN\", specID = { 66 } }, -- Bastion of Light\n    [204150] = { duration = 300, class = \"PALADIN\", specID = { 66 } }, -- Aegis of Light\n    [209202] = { duration = 60, class = \"PALADIN\", specID = { 66 } }, -- Eye of Tyr\n    [215652] = { duration = 25, class = \"PALADIN\", specID = { 66 } }, -- Shield of Virtue\n    \n    -- Retribution\n    \n    [184662] = { duration = 120, class = \"PALADIN\", specID = { 70 } }, -- Shield of Vengeance\n    [204939] = { duration = 60, class = \"PALADIN\", specID = { 70 } }, -- Hammer of Reckoning\n    [205191] = { duration = 60, class = \"PALADIN\", specID = { 70 } }, -- Eye for an Eye\n    [205273] = { duration = 45, class = \"PALADIN\", specID = { 70 } }, -- Wake of Ashes\n    [210191] = { duration = 60, class = \"PALADIN\", specID = { 70 }, charges = 2 }, -- Word of Glory\n    [210220] = { duration = 180, class = \"PALADIN\", specID = { 70 } }, -- Holy Wrath\n    [210256] = { duration = 45, class = \"PALADIN\", specID = { 70 } }, -- Blessing of Sanctuary\n    \n    -- Druid\n    \n    [1850] = { duration = 120, class = \"DRUID\" }, -- Dash\n    [252216] = { parent = 1850, duration = 45 }, -- Tiger Dash\n    [5211] = { duration = 50, class = \"DRUID\" }, -- Mighty Bash\n    [20484] = { duration = 600, class = \"DRUID\" }, -- Rebirth\n    [102280] = { duration = 30, class = \"DRUID\" }, -- Displacer Beast\n    [102359] = { duration = 30, class = \"DRUID\" }, -- Mass Entanglement\n    [102401] = { duration = 15, class = \"DRUID\" }, -- Wild Charge\n    [132469] = { duration = 30, class = \"DRUID\" }, -- Typhoon\n    \n    -- Balance\n    \n    [22812] = { duration = { default = 60, [104] = 35 }, class = \"DRUID\", specID = { 102, 104, 105 } }, -- Barkskin\n    [29166] = { duration = 180, class = \"DRUID\", specID = { 102, 105 } }, -- Innervate\n    [78675] = { default = true, duration = 60, class = \"DRUID\", specID = { 102 }, interrupt = true }, -- Solar Beam\n    [102560] = { duration = 180, class = \"DRUID\", specID = { 102 } }, -- Incarnation: Chosen of Elune\n    [108238] = { duration = 120, class = \"DRUID\", specID = { 102, 103, 105 } }, -- Renewal\n    [194223] = { duration = 180, class = \"DRUID\", specID = { 102 } }, -- Celestial Alignment\n    [202425] = { duration = 45, class = \"DRUID\", specID = { 102 } }, -- Warrior of Elune\n    [202770] = { duration = 60, class = \"DRUID\", specID = { 102 } }, -- Fury of Elune\n    [205636] = { duration = 60, class = \"DRUID\", specID = { 102 } }, -- Force of Nature\n    [209749] = { duration = 30, class = \"DRUID\", specID = { 102 } }, -- Faerie Swarm\n    \n    -- Feral\n    \n    [5217] = { duration = 30, class = \"DRUID\", specID = { 103 } }, -- Tiger's Fury\n    [22570] = { duration = 20, class = \"DRUID\", specID = { 103 } }, -- Maim\n    [61336] = { duration = { default = 180, [104] = 120 }, class = \"DRUID\", specID = { 103, 104 }, charges = 2 }, -- Survival Instincts\n    [102543] = { duration = 180, class = \"DRUID\", specID = { 103 } }, -- Incarnation: King of the Jungle\n    [106839] = { default = true, duration = 15, class = \"DRUID\", specID = { 103, 104 }, interrupt = true }, -- Skull Bash\n    [106898] = { duration = 120, class = \"DRUID\", specID = { 103, 104 } }, -- Stampeding Roar\n    [106951] = { duration = 180, class = \"DRUID\", specID = { 103 } }, -- Berserk\n    [202060] = { duration = 45, class = \"DRUID\", specID = { 103 } }, -- Elune's Guidance\n    [203242] = { duration = 60, class = \"DRUID\", specID = { 103 } }, -- Rip and Tear\n    [210722] = { duration = 75, class = \"DRUID\", specID = { 103 } }, -- Ashamane's Frenzy\n    \n    -- Guardian\n    \n    [99] = { duration = 30, class = \"DRUID\", specID = { 104 } }, -- Incapacitating Roar\n    [22842] = { duration = 36, class = \"DRUID\", specID = { 104 } }, -- Frenzied Regeneration\n    [102558] = { duration = 180, class = \"DRUID\", specID = { 104 } }, -- Incarnation: Guardian of Ursoc\n    [200851] = { duration = 90, class = \"DRUID\", specID = { 104 } }, -- Rage of the Sleeper\n    [202246] = { duration = 15, class = \"DRUID\", specID = { 104 } }, -- Overrun\n    [204066] = { duration = 90, class = \"DRUID\", specID = { 104 } }, -- Lunar Beam\n    \n    -- Restoration\n    \n    [740] = { duration = 180, class = \"DRUID\", specID = { 105} }, -- Tranquility\n    [18562] = { duration = 25, class = \"DRUID\", specID = { 105}, charges = 2 }, -- Swiftmend\n    [33891] = { duration = 180, class = \"DRUID\", specID = { 105} }, -- Incarnation: Tree of Life\n    [102342] = { duration = 60, class = \"DRUID\", specID = { 105} }, -- Ironbark\n    [102351] = { duration = 30, class = \"DRUID\", specID = { 105} }, -- Cenarion Ward\n    [102793] = { duration = 60, class = \"DRUID\", specID = { 105} }, -- Ursol's Vortex\n    [197721] = { duration = 90, class = \"DRUID\", specID = { 105} }, -- Flourish\n    [201664] = { duration = 60, class = \"DRUID\", specID = { 105} }, -- Demoralizing Roar\n    [203651] = { duration = 45, class = \"DRUID\", specID = { 105} }, -- Overgrowth\n    [236696] = { duration = 45, class = \"DRUID\", specID = { 102, 103, 105} }, -- Thorns\n    [208253] = { duration = 90, class = \"DRUID\", specID = { 105} }, -- Essence of G'Hanir\n    \n    -- Warrior\n    \n    [100] = { duration = 20, class = \"WARRIOR\" }, -- Charge\n    [198758] = { parent = 100, charges = 2 }, -- Intercept\n    [1719] = { duration = 90, class = \"WARRIOR\" }, -- Recklessness\n    [6544] = { duration = 30, class = \"WARRIOR\", charges = 2 }, -- Heroic Leap\n    [6552] = { default = true, duration = 15, class = \"WARRIOR\", interrupt = true }, -- Pummel\n    [18499] = { duration = 60, class = \"WARRIOR\" }, -- Berserker Rage\n    [23920] = { duration = 25, class = \"WARRIOR\" }, -- Spell Reflection\n    [213915] = { parent = 23920, duration = 30 }, -- Mass Spell Reflection\n    [216890] = { parent = 23920 }, -- Spell Reflection (Arms, Fury)\n    [46968] = { duration = 40, class = \"WARRIOR\" }, -- Shockwave\n    [107570] = { duration = 30, class = \"WARRIOR\" }, -- Storm Bolt\n    [107574] = { duration = 90, class = \"WARRIOR\" }, -- Avatar\n    [236077] = { duration = 45, class = \"WARRIOR\" }, -- Disarm\n    [236236] = { parent = 236077 }, -- Disarm (Protection)\n    \n    -- Arms\n    \n    [5246] = { duration = 90, class = \"WARRIOR\", specID = { 71, 72 } }, -- Intimidating Shout\n    [97462] = { duration = 180, class = \"WARRIOR\", specID = { 71, 72, 73 } }, -- Rallying Cry\n    [118038] = { duration = 180, class = \"WARRIOR\", specID = { 71 } }, -- Die by the Sword\n    [167105] = { duration = 45, class = \"WARRIOR\", specID = { 71 } }, -- Colossus Smash\n    [262161] = { parent = 167105 }, -- Warbreaker\n    [197690] = { duration = 10, class = \"WARRIOR\", specID = { 71 } }, -- Defensive Stance\n    [198817] = { duration = 45, class = \"WARRIOR\", specID = { 71 } }, -- Sharpen Blade\n    [227847] = { duration = 60, class = \"WARRIOR\", specID = { 71, 72 } }, -- Bladestorm (Arms)\n    [46924] = { parent = 227847 }, -- Bladestorm (Fury)\n    [152277] = { parent = 227847 }, -- Ravager\n    [236273] = { duration = 60 , class = \"WARRIOR\", specID = { 71 } }, -- Duel\n    \n    -- Fury\n    \n    [184364] = { duration = 120, class = \"WARRIOR\", specID = { 72 } }, -- Enraged Regeneration\n    [205545] = { duration = 45, class = \"WARRIOR\", specID = { 72 } }, -- Odyn's Fury\n    \n    -- Protection\n    \n    [871] = { duration = 240, class = \"WARRIOR\", specID = { 73 } }, -- Shield Wall\n    [1160] = { duration = 45, class = \"WARRIOR\", specID = { 73 } }, -- Demoralizing Shout\n    [12975] = { duration = 180, class = \"WARRIOR\", specID = { 73 } }, -- Last Stand\n    [118000] = { duration = 35, class = \"WARRIOR\", specID = { 73 } }, -- Dragon Roar\n    [198304] = { duration = 20, class = \"WARRIOR\", specID = { 73 }, charges = 2 }, -- Intercept\n    [206572] = { duration = 20, class = \"WARRIOR\", specID = { 73 } }, -- Dragon Charge\n    [213871] = { duration = 15, class = \"WARRIOR\", specID = { 73 } }, -- Bodyguard\n    [228920] = { duration = 60, class = \"WARRIOR\", specID = { 73 } }, -- Ravager\n    \n    -- Warlock\n    \n    [1122] = { duration = 180, class = \"WARLOCK\" }, -- Summon Infernal\n    [6358] = { duration = 30, class = \"WARLOCK\" }, -- Seduction\n    [115268] = { parent = 6358 }, -- Mesmerize\n    [6360] = { duration = 25, class = \"WARLOCK\" }, -- Whiplash\n    [115770] = { parent = 6360 }, -- Fellash\n    [6789] = { duration = 45, class = \"WARLOCK\" }, -- Mortal Coil\n    --[18540] = { duration = 180, class = \"WARLOCK\" }, -- Summon Doomguard\n    [20707] = { duration = 600, class = \"WARLOCK\" }, -- Soulstone\n    [30283] = { duration = 60, class = \"WARLOCK\" }, -- Shadowfury\n    [104773] = { duration = 180, class = \"WARLOCK\" }, -- Unending Resolve\n    [108416] = { duration = 60, class = \"WARLOCK\" }, -- Dark Pact\n    [108501] = { duration = 90, class = \"WARLOCK\" }, -- Grimoire of Service\n    [111896] = { duration = 90, class = \"WARLOCK\" }, -- Grimoire: Succubus\n    [119910] = { default = true, duration = 24, class = \"WARLOCK\", interrupt = true }, -- Spell Lock (Command Demon)\n    [19647] = { parent = 119910 }, -- Spell Lock (Felhunter)\n    [119911] = { parent = 119910 }, -- Optical Blast (Command Demon)\n    [115781] = { parent = 119910 }, -- Optical Blast (Observer)\n    [132409] = { parent = 119910 }, -- Spell Lock (Grimoire of Sacrifice)\n    [171138] = { parent = 119910 }, -- Shadow Lock (Doomguard)\n    [171139] = { parent = 119910 }, -- Shadow Lock (Grimoire of Sacrifice)\n    [171140] = { parent = 119910 }, -- Shadow Lock (Command Demon)\n    [171152] = { duration = 60, class = \"WARLOCK\" }, -- Meteor Strike\n    [196098] = { duration = 120, class = \"WARLOCK\" }, -- Soul Harvest\n    [199890] = { duration = 15, class = \"WARLOCK\" }, -- Curse of Tongues\n    [199892] = { duration = 20, class = \"WARLOCK\" }, -- Curse of Weakness\n    [199954] = { duration = 45, class = \"WARLOCK\" }, -- Curse of Fragility\n    [212295] = { duration = 45, class = \"WARLOCK\" }, -- Nether Ward\n    [221703] = { duration = 30, class = \"WARLOCK\" }, -- Casting Circle\n    \n    -- Affliction\n    \n    [5484] = { duration = 40, class = \"WARLOCK\", specID = { 265 } }, -- Howl of Terror\n    [48181] = { duration = 15, class = \"WARLOCK\", specID = { 265 } }, -- Haunt\n    [86121] = { duration = 20, class = \"WARLOCK\", specID = { 265 } }, -- Soul Swap\n    [113860] = { duration = 120, class = \"WARLOCK\", specID = { 265 } }, -- Dark Soul: Misery\n    [205179] = { duration = 45, class = \"WARLOCK\", specID = { 265 } }, -- Phantom Singularity\n    \n    -- Demonology\n    \n    [89751] = { duration = 45, class = \"WARLOCK\", specID = { 266 } }, -- Felstorm\n    [115831] = { parent = 89751 }, -- Wrathstorm\n    [89766] = { duration = 30, class = \"WARLOCK\", specID = { 266 } }, -- Axe Toss\n    [201996] = { duration = 90, class = \"WARLOCK\", specID = { 266 } }, -- Call Observer\n    [205180] = { duration = 24, class = \"WARLOCK\", specID = { 266 } }, -- Summon Darkglare\n    [205181] = { duration = 14, class = \"WARLOCK\", specID = { 266 }, charges = 2 }, -- Shadowflame\n    [211714] = { duration = 45, class = \"WARLOCK\", specID = { 266 } }, -- Thal'kiel's Consumption\n    [212459] = { duration = 90, class = \"WARLOCK\", specID = { 266 } }, -- Call Fel Lord\n    [212619] = { duration = 24, class = \"WARLOCK\", specID = { 266 } }, -- Call Felhunter\n    [212623] = { duration = 15, class = \"WARLOCK\", specID = { 266 } }, -- Singe Magic\n    \n    --  Destruction\n    \n    [17962] = { duration = 12, class = \"WARLOCK\", specID = { 267 }, charges = 2 }, -- Conflagrate\n    [80240] = { duration = 30, class = \"WARLOCK\", specID = { 267 } }, -- Havoc\n    [113858] = { duration = 120, class = \"WARLOCK\", specID = { 267 } }, -- Dark Soul: Instability\n    [152108] = { duration = 45, class = \"WARLOCK\", specID = { 267 } }, -- Cataclysm\n    [196447] = { duration = 15, class = \"WARLOCK\", specID = { 267 } }, -- Channel Demonfire\n    [196586] = { duration = 45, class = \"WARLOCK\", specID = { 267 }, charges = 3 }, -- Dimensional Rift\n    [212284] = { duration = 45, class = \"WARLOCK\", specID = { 267 } }, -- Firestone\n    \n    -- Shaman\n    \n    [2825] = { duration = 60, class = \"SHAMAN\" }, -- Bloodlust\n    [32182] = { parent = 2825 }, -- Heroism\n    [20608] = { duration = 1800, class = \"SHAMAN\" }, -- Reincarnation\n    [51485] = { duration = 30, class = \"SHAMAN\" }, -- Earthgrab Totem\n    [51514] = { duration = { default = 30, [264] = 10 }, class = \"SHAMAN\" }, -- Hex\n    [196932] = { parent = 51514 }, -- Voodoo Totem\n    [210873] = { parent = 51514 }, -- Hex (Compy)\n    [211004] = { parent = 51514 }, -- Hex (Spider)\n    [211010] = { parent = 51514 }, -- Hex (Snake)\n    [211015] = { parent = 51514 }, -- Hex (Cockroach)\n    [57994] = { default = true, duration = 12, class = \"SHAMAN\", interrupt = true }, -- Wind Shear\n    [108271] = { duration = 90, class = \"SHAMAN\" }, -- Astral Shift\n    [210918] = { parent = 108271, duration = 45 }, -- Ethereal Form\n    [114049] = { duration = 180, class = \"SHAMAN\" }, -- Ascendance\n    [114050] = { parent = 114050 }, -- Ascendance (Elemental)\n    [114051] = { parent = 114050 }, -- Ascendance (Enhancement)\n    [114052] = { parent = 114050 }, -- Ascendance (Restoration)\n    [192058] = { duration = 60, class = \"SHAMAN\" }, -- Capacitor\n    [192077] = { duration = 120, class = \"SHAMAN\" }, -- Wind Rush Totem\n    [204330] = { duration = 45, class = \"SHAMAN\" }, -- Skyfury Totem\n    [204331] = { duration = 45, class = \"SHAMAN\" }, -- Counterstrike Totem\n    [204332] = { duration = 30, class = \"SHAMAN\" }, -- Windfury Totem\n    \n    -- Elemental\n    \n    [16166] = { duration = 120, class = \"SHAMAN\", specID = { 262 } }, -- Elemental Mastery\n    [51490] = { duration = 45, class = \"SHAMAN\", specID = { 262 } }, -- Thunderstorm\n    [108281] = { duration = 120, class = \"SHAMAN\", specID = { 262, 264 } }, -- Ancestral Guidance\n    [192063] = { duration = 15, class = \"SHAMAN\", specID = { 262, 264 } }, -- Gust of Wind\n    [192222] = { duration = 60, class = \"SHAMAN\", specID = { 262 } }, -- Liquid Magma Totem\n    [198067] = { duration = 150, class = \"SHAMAN\", specID = { 262 } }, -- Fire Elemental\n    [192249] = { parent = 198067 }, -- Storm Elemental\n    [198103] = { duration = 120, class = \"SHAMAN\", specID = { 262 } }, -- Earth Elemental\n    [204437] = { duration = 30, class = \"SHAMAN\", specID = { 262 } }, -- Lightning Lasso\n    [191634] = { duration = 60, class = \"SHAMAN\", specID = { 262 } }, -- Stormkeeper\n    \n    -- Enhancement\n    \n    [58875] = { duration = 60, class = \"SHAMAN\", specID = { 263 } }, -- Spirit Walk\n    [196884] = { duration = 30, class = \"SHAMAN\", specID = { 263 } }, -- Feral Lunge\n    [197214] = { duration = 40, class = \"SHAMAN\", specID = { 263 } }, -- Sundering\n    [201898] = { duration = 45, class = \"SHAMAN\", specID = { 263 } }, -- Windsong\n    [204366] = { duration = 45, class = \"SHAMAN\", specID = { 263 } }, -- Thundercharge\n    [204945] = { duration = 60, class = \"SHAMAN\", specID = { 263 } }, -- Doom Winds\n    \n    -- Restoration\n    \n    [5394] = { duration = 30, class = \"SHAMAN\", specID = { 264 }, charges = 30 }, -- Healing Stream Totem\n    [79206] = { duration = 60, class = \"SHAMAN\", specID = { 264 } }, -- Spiritwalker's Grace\n    [98008] = { duration = 180, class = \"SHAMAN\", specID = { 264 } }, -- Spirit Link Totem\n    [204293] = { parent = 98008, duration = 60 }, -- Spirit Link\n    [108280] = { duration = 180, class = \"SHAMAN\", specID = { 264 } }, -- Healing Tide Totem\n    [157153] = { duration = 30, class = \"SHAMAN\", specID = { 264 } }, -- Cloudburst Totem\n    [198838] = { duration = 60, class = \"SHAMAN\", specID = { 264 } }, -- Earthen Wall Totem\n    [204336] = { duration = 30, class = \"SHAMAN\", specID = { 264 } }, -- Grounding Totem\n    [207399] = { duration = 300, class = \"SHAMAN\", specID = { 264 } }, -- Ancestral Protection Totem\n    [207778] = { duration = 45, class = \"SHAMAN\", specID = { 264 } }, -- Gift of the Queen\n    \n    -- Hunter\n    \n    [136] = { duration = 10, class = \"HUNTER\" }, -- Mend Pet\n    [1543] = { duration = 20, class = \"HUNTER\" }, -- Flare\n    [5384] = { duration = 30, class = \"HUNTER\" }, -- Feign Death\n    [53480] = { duration = 60, class = \"HUNTER\" }, -- Roar of Sacrifice\n    [109304] = { duration = 120, class = \"HUNTER\" }, -- Exhilaration (Beast Mastery, Survival)\n    [131894] = { duration = 60, class = \"HUNTER\" }, -- A Murder of Crows (Beast Mastery, Marksmanship)\n    [206505] = { parent = 131894 }, -- A Murder of Crows (Survival)\n    [186257] = { duration = { default = 180, [253] = 120, [255] = 144 }, class = \"HUNTER\" }, -- Aspect of the Cheetah\n    [186265] = { duration = { default = 180, [255] = 144 }, class = \"HUNTER\" }, -- Aspect of the Turtle\n    [187650] = { duration = { default = 30, [255] = 20 }, class = \"HUNTER\" }, -- Freezing Trap\n    [202914] = { duration = 60, class = \"HUNTER\" }, -- Spider Sting\n    [209997] = { duration = 30, class = \"HUNTER\" }, -- Play Dead\n    \n    -- Beast Mastery\n    \n    [781] = { duration = 20, class = \"HUNTER\", specID = { 253, 254 } }, -- Disengage\n    [19386] = { duration = 45, class = \"HUNTER\", specID = { 253, 254 } }, -- Wyvern Sting\n    [19574] = { duration = 75, class = \"HUNTER\", specID = { 253 } }, -- Bestial Wrath\n    [19577] = { duration = 60, class = \"HUNTER\", specID = { 253 } }, -- Intimidation\n    [109248] = { duration = 45, class = \"HUNTER\", specID = { 253, 254 } }, -- Binding Shot\n    [147362] = { default = true, duration = 24, class = \"HUNTER\", specID = { 253, 254 }, interrupt = true }, -- Counter Shot\n    [193530] = { duration = 120, class = \"HUNTER\", specID = { 253 } }, -- Aspect of the Wild\n    [194386] = { duration = 90, class = \"HUNTER\", specID = { 253, 254 } }, -- Volley\n    [201430] = { duration = 180, class = \"HUNTER\", specID = { 253 } }, -- Stampede\n    [207068] = { duration = 60, class = \"HUNTER\", specID = { 253 } }, -- Titan's Thunder\n    [208652] = { duration = 30, class = \"HUNTER\", specID = { 253 } }, -- Dire Beast: Hawk\n    \n    -- Marksmanship\n    \n    [34477] = { duration = 30, class = \"HUNTER\", specID = { 254 } }, -- Misdirection\n    [186387] = { duration = 20, class = \"HUNTER\", specID = { 254 } }, -- Bursting Shot\n    [193526] = { duration = 140, class = \"HUNTER\", specID = { 254 } }, -- Trueshot\n    [199483] = { duration = 60, class = \"HUNTER\", specID = { 254, 255 } }, -- Camouflage\n    [204147] = { duration = 20, class = \"HUNTER\", specID = { 254 } }, -- Windburst\n    [206817] = { duration = 30, class = \"HUNTER\", specID = { 254 } }, -- Sentinel\n    [209789] = { duration = 30, class = \"HUNTER\", specID = { 254 } }, -- Freezing Arrow\n    [213691] = { duration = 20, class = \"HUNTER\", specID = { 254 } }, -- Scatter Shot\n    \n    -- Survival\n    \n    [53271] = { duration = 45, class = \"HUNTER\", specID = { 255 } }, -- Master's Call\n    [186289] = { duration = 96, class = \"HUNTER\", specID = { 255 } }, -- Aspect of the Eagle\n    [187698] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Tar Trap\n    [187707] = { default = true, duration = 15, class = \"HUNTER\", specID = { 255 }, interrupt = true }, -- Muzzle\n    [190925] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Harpoon\n    [191241] = { duration = 30, class = \"HUNTER\", specID = { 255 } }, -- Sticky Bomb\n    [191433] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Explosive Trap\n    [194407] = { duration = 90, class = \"HUNTER\", specID = { 255 } }, -- Spitting Cobra\n    [201078] = { duration = 90, class = \"HUNTER\", specID = { 255 } }, -- Snake Hunter\n    [203415] = { duration = 45, class = \"HUNTER\", specID = { 255 } }, -- Fury of the Eagle\n    [205691] = { duration = 120, class = \"HUNTER\", specID = { 255 } }, -- Dire Beast: Basilisk\n    [212640] = { duration = 25, class = \"HUNTER\", specID = { 255 } }, -- Mending Bandage\n    [266779] = { duration = 20, class = \"HUNTER\", specID = { 255 } }, -- Coordinated Assault\n    \n    -- Mage\n    \n    [66] = { duration = 300, class = \"MAGE\" }, -- Invisibility\n    [110959] = { parent = 66, duration = 75 }, -- Greater Invisibility\n    [1953] = { duration = 15, class = \"MAGE\"}, -- Blink\n    [212653] = { parent = 1953, duration = 20, charges = 2 }, -- Shimmer\n    [2139] = { default = true, duration = 24, class = \"MAGE\", interrupt = true }, -- Counterspell\n    [11426] = { duration = 25, class = \"MAGE\" }, -- Ice Barrier\n    [45438] = { duration = 300, class = \"MAGE\", charges = 2 }, -- Ice Block\n    [55342] = { duration = 120, class = \"MAGE\" }, -- Mirror Image\n    [80353] = { duration = 300, class = \"MAGE\" }, -- Time Warp\n    [108839] = { duration = 20, class = \"MAGE\", charges = 3 }, -- Ice Floes\n    [113724] = { duration = 45, class = \"MAGE\" }, -- Ring of Frost\n    [116011] = { duration = 40, class = \"MAGE\", charges = 2 }, -- Rune of Power\n    [198111] = { duration = 45, class = \"MAGE\" }, -- Temporal Shield\n    \n    -- Arcane\n    \n    [12042] = { duration = 90, class = \"MAGE\", specID = { 62 } }, -- Arcane Power\n    [12051] = { duration = 90, class = \"MAGE\", specID = { 62 } }, -- Evocation\n    [153626] = { duration = 20, class = \"MAGE\", specID = { 62 } }, -- Arcane Orb\n    [157980] = { duration = 25, class = \"MAGE\", specID = { 62 } }, -- Supernova\n    [195676] = { duration = 24, class = \"MAGE\", specID = { 62 } }, -- Displacement\n    [198158] = { duration = 60, class = \"MAGE\", specID = { 62 } }, -- Mass Invisibility\n    [205025] = { duration = 60, class = \"MAGE\", specID = { 62 } }, -- Presence of Mind\n    [224968] = { duration = 60, class = \"MAGE\", specID = { 62 } }, -- Mark of Aluneth\n    \n    -- Fire\n    \n    [31661] = { duration = 20, class = \"MAGE\", specID = { 63 } }, -- Dragon's Breath\n    [108853] = { duration = 12, class = \"MAGE\", specID = { 63 }, charges = 2 }, -- Fire Blast\n    [153561] = { duration = 45, class = \"MAGE\", specID = { 63 } }, -- Meteor\n    [157981] = { duration = 25, class = \"MAGE\", specID = { 63 } }, -- Blast Wave\n    [190319] = { duration = 115, class = \"MAGE\", specID = { 63 } }, -- Combustion\n    [194466] = { duration = 45, class = \"MAGE\", specID = { 63 }, charges = 3 }, -- Phoenix's Flames\n    [205029] = { duration = 45, class = \"MAGE\", specID = { 63 } }, -- Flame On\n    \n    -- Frost\n    \n    [122] = { duration = 30, class = \"MAGE\", specID = { 64 }, charges = 2 }, -- Frost Nova\n    [12472] = { duration = 180, class = \"MAGE\", specID = { 64 } }, -- Icy Veins\n    [198144] = { parent = 12472, duration = 45 }, -- Ice Form\n    [31687] = { duration = 60, class = \"MAGE\", specID = { 64 } }, -- Summon Water Elemental\n    [84714] = { duration = 60, class = \"MAGE\", specID = { 64 } }, -- Frozen Orb\n    [153595] = { duration = 30, class = \"MAGE\", specID = { 64 } }, -- Comet Storm\n    [157997] = { duration = 25, class = \"MAGE\", specID = { 64 } }, -- Ice Nova\n    [205021] = { duration = 75, class = \"MAGE\", specID = { 64 } }, -- Ray of Frost\n    [214634] = { duration = 45, class = \"MAGE\", specID = { 64 } }, -- Ebonbolt\n    \n    -- Rogue\n    \n    [1725] = { duration = 30, class = \"ROGUE\" }, -- Distract\n    [1766] = { default = true, duration = 15, class = \"ROGUE\", interrupt = true }, -- Kick\n    [1856] = { duration = { default = 120, [261] = 30 }, class = \"ROGUE\" }, -- Vanish\n    [2983] = { duration = { default = 60, [259] = 51 }, class = \"ROGUE\" }, -- Sprint\n    [31224] = { duration = { default = 90, [259] = 81 }, class = \"ROGUE\" }, -- Cloak of Shadows\n    [57934] = { duration = 30, class = \"ROGUE\" }, -- Tricks of the Trade\n    [137619] = { duration = 40, class = \"ROGUE\" }, -- Marked for Death\n    [152150] = { duration = 20, class = \"ROGUE\" }, -- Death from Above\n    \n    -- Assassination\n    \n    [408] = { duration = 20, class = \"ROGUE\", specID = { 259, 261 } }, -- Kidney Shot\n    [703] = { duration = 6, class = \"ROGUE\", specID = { 259 } }, -- Garrote\n    [5277] = { duration = 120, class = \"ROGUE\", specID = { 259, 261 } }, -- Evasion\n    [36554] = { duration = 30, class = \"ROGUE\", specID = { 259, 261 } }, -- Shadowstep\n    [79140] = { duration = 120, class = \"ROGUE\", specID = { 259 } }, -- Vendetta\n    [192759] = { duration = 45, class = \"ROGUE\", specID = { 259 } }, -- Kingsbane\n    [200806] = { duration = 45, class = \"ROGUE\", specID = { 259 } }, -- Exsanguinate\n    [206328] = { duration = 25, class = \"ROGUE\", specID = { 259 } }, -- Shiv\n    \n    -- Outlaw\n    \n    [1776] = { duration = 15, class = \"ROGUE\", specID = { 260 } }, -- Gouge\n    [2094] = { duration = 120, class = \"ROGUE\", specID = { 260, 261 } }, -- Blind\n    [199743] = { parent = 2094, duration = 20 }, -- Parley\n    [13750] = { duration = 150, class = \"ROGUE\", specID = { 260 } }, -- Adrenaline Rush\n    [51690] = { duration = 120, class = \"ROGUE\", specID = { 260 } }, -- Killing Spree\n    --[185767] = { duration = 60, class = \"ROGUE\", specID = { 260 } }, -- Cannonball Barrage\n    [195457] = { duration = 30, class = \"ROGUE\", specID = { 260 } }, -- Grappling Hook\n    [198529] = { duration = 120, class = \"ROGUE\", specID = { 260 } }, -- Plunder Armor\n    [199754] = { duration = 120, class = \"ROGUE\", specID = { 260 } }, -- Riposte\n    [199804] = { duration = 30, class = \"ROGUE\", specID = { 260 } }, -- Between the Eyes\n    [202665] = { duration = 90, class = \"ROGUE\", specID = { 260 } }, -- Curse of the Dreadblades\n    [207777] = { duration = 45, class = \"ROGUE\", specID = { 260 } }, -- Dismantle\n    \n    -- Subtlety\n    \n    [121471] = { duration = 180, class = \"ROGUE\", specID = { 261 } }, -- Shadow Blades\n    [185313] = { duration = 60, class = \"ROGUE\", specID = { 261 }, charges = 3 }, -- Shadow Dance\n    [207736] = { duration = 120, class = \"ROGUE\", specID = { 261 } }, -- Shadowy Duel\n    [209782] = { duration = 60, class = \"ROGUE\", specID = { 261 } }, -- Goremaw's Bite\n    [212182] = { duration = 180, class = \"ROGUE\", specID = { 261 } }, -- Smoke Bomb\n    [213981] = { duration = 45, class = \"ROGUE\", specID = { 261 } }, -- Cold Blood\n    \n    -- Monk\n    \n    [109132] = { duration = 15, class = \"MONK\", charges = 3 }, -- Roll\n    [115008] = { parent = 109132 }, -- Chi Torpedo\n    [115078] = { duration = 45, class = \"MONK\" }, -- Paralysis\n    [116841] = { duration = 30, class = \"MONK\" }, -- Tiger's Lust\n    [116844] = { duration = 45, class = \"MONK\" }, -- Ring of Peace\n    [119381] = { duration = 60, class = \"MONK\" }, -- Leg Sweep\n    [119996] = { duration = 45, class = \"MONK\" }, -- Transcendence: Transfer\n    [122278] = { duration = 120, class = \"MONK\" }, -- Dampen Harm\n    [122783] = { duration = 120, class = \"MONK\" }, -- Diffuse Magic\n    [123986] = { duration = 30, class = \"MONK\" }, -- Chi Burst\n    --[137648] = { duration = 120, class = \"MONK\" }, -- Nimble Brew\n    \n    -- Brewmaster\n    \n    [115203] = { duration = 105, class = \"MONK\", specID = { 268 } }, -- Fortifying Brew\n    [115399] = { duration = 90, class = \"MONK\", specID = { 268 } }, -- Black Ox Brew\n    [116705] = { default = true, duration = 15, class = \"MONK\", specID = { 268, 269 }, interrupt = true }, -- Spear Hand Strike\n    [132578] = { duration = 180, class = \"MONK\", specID = { 268 } }, -- Invoke Niuzao, the Black Ox\n    [202162] = { duration = 45, class = \"MONK\", specID = { 268 } }, -- Guard\n    [202272] = { duration = 45, class = \"MONK\", specID = { 268 } }, -- Incendiary Brew\n    [202370] = { duration = 60, class = \"MONK\", specID = { 268 } }, -- Mighty Ox Kick\n    \n    -- Windwalker\n    \n    [101545] = { duration = 25, class = \"MONK\", specID = { 269 }, charges = 2 }, -- Flying Serpent Kick\n    [113656] = { duration = 24, class = \"MONK\", specID = { 269 } }, -- Fists of Fury\n    [115080] = { duration = 120, class = \"MONK\", specID = { 269 } }, -- Touch of Death\n    [152173] = { parent = 137639 }, -- Serenity\n    [115176] = { duration = 150, class = \"MONK\", specID = { 269 } }, -- Zen Meditation\n    [201325] = { parent = 115176, 180 }, -- Zen Meditation (Windwalker)\n    [115288] = { duration = 60, class = \"MONK\", specID = { 269 } }, -- Energizing Elixir\n    [122470] = { duration = 90, class = \"MONK\", specID = { 269 } }, -- Touch of Karma\n    [123904] = { duration = 120, class = \"MONK\", specID = { 269 } }, -- Invoke Xuen, the White Tiger\n    [137639] = { duration = 90, class = \"MONK\", specID = { 269 }, charges = 2 }, -- Storm, Earth, and Fire\n    [152175] = { duration = 24, class = \"MONK\", specID = { 269 } }, -- Whirling Dragon Punch\n    [201318] = { duration = 90, class = \"MONK\", specID = { 269 } }, -- Fortifying Elixir\n    \n    -- Mistweaver\n    \n    [115310] = { duration = 180, class = \"MONK\", specID = { 270 } }, -- Revival\n    [116680] = { duration = 30, class = \"MONK\", specID = { 270 } }, -- Thunder Focus Tea\n    [116849] = { duration = 120, class = \"MONK\", specID = { 270 } }, -- Life Cocoon\n    [197908] = { duration = 90, class = \"MONK\", specID = { 270 } }, -- Mana Tea\n    --[197945] = { duration = 20, class = \"MONK\", specID = { 270 }, charges = 2 }, -- Mistwalk\n    [198664] = { duration = 180, class = \"MONK\", specID = { 270 } }, -- Invoke Chi-Ji, the Red Crane\n    [198898] = { duration = 30, class = \"MONK\", specID = { 270 } }, -- Song of Chi-Ji\n    [216113] = { duration = 45, class = \"MONK\", specID = { 270 } }, -- Way of the Crane\n    \n}\n\nfor k, d in pairs(aura_env.spells) do\n    local _, _, icon = GetSpellInfo(k)\n    if icon then\n        d.icon = icon\n    end\nend\n\n\n",
-					["do_custom"] = true,
-				},
-			},
+			["parent"] = "OmniBuds Nameplate Retail",
 			["conditions"] = {
 				{
 					["check"] = {
@@ -2588,7 +2588,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["parent"] = "OmniBuds Nameplate Retail",
+			["cooldownEdge"] = false,
 		},
 		["Paladin 2"] = {
 			["sparkWidth"] = 10,
@@ -2648,7 +2648,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -2658,7 +2658,10 @@ WeakAurasSaved = {
 						["challenge"] = true,
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -2667,10 +2670,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["level"] = "100",
 				["use_level"] = false,
 				["size"] = {
@@ -2712,14 +2712,13 @@ WeakAurasSaved = {
 						["names"] = {
 							"Greater Draenic Intellect Flask", -- [1]
 						},
-						["spellIds"] = {
-						},
+						["inverse"] = true,
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 						["spellName"] = "Rebuke",
 						["use_sourceUnit"] = false,
-						["inverse"] = true,
+						["name"] = "Flask of the warm sun ",
 						["use_spellName"] = true,
 						["use_sourceName"] = false,
 						["use_destName"] = false,
@@ -2735,7 +2734,8 @@ WeakAurasSaved = {
 						["use_sourceFlags2"] = true,
 						["use_name"] = true,
 						["use_spellId"] = false,
-						["name"] = "Flask of the warm sun ",
+						["spellIds"] = {
+						},
 						["use_specific_sourceunit"] = true,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -2828,17 +2828,23 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["uid"] = "AXt2379)sES",
+			["icon"] = true,
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["parent"] = "Enemy Interrupt Icons",
+			["config"] = {
+			},
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
-			["icon"] = true,
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.45673036575317, -- [4]
+			},
 			["semver"] = "1.0.0",
 			["backdropColor"] = {
 				1, -- [1]
@@ -2847,24 +2853,18 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["id"] = "Paladin 2",
-			["zoom"] = 0.28,
+			["parent"] = "Enemy Interrupt Icons",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
-			["config"] = {
-			},
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.45673036575317, -- [4]
-			},
 			["auto"] = true,
+			["uid"] = "AXt2379)sES",
 		},
 		["[40+] Grand Delusions (Thing From Beyond)"] = {
 			["outline"] = "OUTLINE",
@@ -3279,15 +3279,14 @@ WeakAurasSaved = {
 			},
 			["uid"] = "INKAARHre9c",
 			["animate"] = false,
-			["rowSpace"] = 6,
-			["scale"] = 1,
 			["stagger"] = 0,
+			["scale"] = 1,
+			["selfPoint"] = "BOTTOMLEFT",
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["limit"] = 5,
-			["arcLength"] = 360,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -3308,6 +3307,7 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["anchorPoint"] = "CENTER",
 			["constantFactor"] = "RADIUS",
 			["gridWidth"] = 8,
 			["borderOffset"] = 16,
@@ -3322,20 +3322,15 @@ WeakAurasSaved = {
 			["borderInset"] = 0,
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "BOTTOMLEFT",
+			["arcLength"] = 360,
 			["conditions"] = {
 			},
+			["rowSpace"] = 6,
 			["radius"] = 200,
-			["anchorPoint"] = "CENTER",
 		},
 		["Targeted Spells"] = {
 			["text2Point"] = "CENTER",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1FontFlags"] = "OUTLINE",
 			["text1FontSize"] = 12,
 			["cooldownTextEnabled"] = true,
 			["preferToUpdate"] = false,
@@ -3381,10 +3376,10 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["custom_type"] = "stateupdate",
 						["unit"] = "player",
+						["events"] = "NAME_PLATE_UNIT_ADDED NAME_PLATE_UNIT_REMOVED UNIT_SPELLCAST_CHANNEL_START UNIT_SPELLCAST_CHANNEL_STOP UNIT_SPELLCAST_CHANNEL_UPDATE UNIT_SPELLCAST_DELAYED UNIT_SPELLCAST_FAILED UNIT_SPELLCAST_FAILED_QUIET UNIT_SPELLCAST_INTERRUPTED UNIT_SPELLCAST_START UNIT_SPELLCAST_STOP UNIT_TARGET ENCOUNTER_END",
 						["custom"] = "function(allstates, event, sourceUnit)\n    if not aura_env.loaded then return false end\n    if event == \"ENCOUNTER_END\" then\n        -- reset aura state to avoid ghost icons between pulls\n        for _,cast in pairs(aura_env.allcasts) do\n            if cast.nameplate then\n                aura_env.removeFontFromNameplate(cast.nameplate)\n            end\n        end\n        aura_env.allcasts = {}\n        for _,state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        return true\n    end\n    if sourceUnit and UnitIsEnemy(sourceUnit, \"player\") then\n        local allcasts = aura_env.allcasts\n        local sourceGUID = UnitGUID(sourceUnit)\n        local iconChanged = false\n        local cast = allcasts[sourceGUID]\n        \n        if event == \"UNIT_SPELLCAST_START\"\n        or event == \"UNIT_SPELLCAST_DELAYED\" \n        or event == \"UNIT_SPELLCAST_CHANNEL_START\"\n        or event == \"UNIT_SPELLCAST_CHANNEL_UPDATE\"\n        or event == \"UNIT_TARGET\"\n        then\n            if not cast then\n                -- check if unit is casting\n                local castType\n                local name,_,texture,castStart,castEnd,_,_,notInterruptible,spellId = UnitCastingInfo(sourceUnit)\n                if name then\n                    castType = \"cast\"\n                else\n                    name,_,texture,castStart,castEnd,_,notInterruptible,spellId = UnitChannelInfo(sourceUnit)\n                    if name then\n                        castType = \"channel\"\n                    end\n                end\n                \n                if spellId and not aura_env.isBlackListed(spellId, sourceUnit) then\n                    local spellInList = aura_env.spells[spellId]\n                    -- find npc's target\n                    local targetUnit = sourceUnit..\"target\"\n                    if UnitExists(targetUnit) then\n                        for groupmember in WA_IterateGroupMembers() do\n                            if UnitIsUnit(targetUnit, groupmember) then\n                                local targetGUID = UnitGUID(groupmember)\n                                local targeted = targetGUID == WeakAuras.myGUID\n                                local showIcon = (spellInList and spellInList.icon) or (not spellInList and aura_env.config.icon.enable)\n                                local showGlow = spellInList and spellInList.glow\n                                local showNameplate\n                                if aura_env.config.nameplate.enable == 1 then\n                                    showNameplate = true\n                                elseif aura_env.config.nameplate.enable == 2 then\n                                    showNameplate = (spellInList and spellInList.nameplate) or (not spellInList)\n                                elseif aura_env.config.nameplate.enable == 3 then\n                                    showNameplate = spellInList and spellInList.nameplate\n                                elseif aura_env.config.nameplate.enable == 4 then\n                                    showNameplate = false\n                                end\n                                local playSound = targeted and spellInList and spellInList.sound\n                                local bigIcon = targeted and spellInList and spellInList.bigIcon\n                                allcasts[sourceGUID] = {\n                                    name = name,\n                                    icon = texture,\n                                    start = castStart/1000,\n                                    expirationTime = castEnd/1000,\n                                    spellId = spellId,\n                                    target = groupmember,\n                                    targetGUID = targetGUID,\n                                    targeted = targeted,\n                                    spellInList = spellInList,\n                                    notInterruptible = notInterruptible,\n                                    castType = castType,\n                                    showIcon = showIcon,\n                                    showGlow = showGlow,\n                                    bigIcon = bigIcon,\n                                    showNameplate = showNameplate,\n                                    nameplate = showNameplate and aura_env.addFontToNameplate(\n                                        sourceUnit,\n                                        groupmember\n                                    ),\n                                    playSound = playSound\n                                }\n                                iconChanged = true\n                                break\n                            end\n                        end\n                    end\n                end\n            else\n                if UnitExists(sourceUnit) then\n                    if event == \"UNIT_SPELLCAST_DELAYED\" \n                    or event == \"UNIT_SPELLCAST_CHANNEL_UPDATE\"\n                    or event == \"UNIT_SPELLCAST_CHANNEL_START\"\n                    then\n                        local castType\n                        local name,_,_,castStart,castEnd,_,_,notInterruptible,spellId = UnitCastingInfo(sourceUnit)\n                        if name then\n                            castType = \"cast\"\n                        else\n                            name,_,_,castStart,castEnd,_,notInterruptible,spellId = UnitChannelInfo(sourceUnit)\n                            if name then\n                                castType = \"channel\"\n                            end\n                        end\n                        if spellId then\n                            cast.notInterruptible = notInterruptible\n                            cast.castType = castType\n                            cast.start = castStart/1000\n                            cast.expirationTime = castEnd/1000\n                            cast.changed = true\n                            iconChanged = true\n                        end\n                    elseif event == \"UNIT_TARGET\" then\n                        local targetUnit = sourceUnit..\"target\"\n                        if UnitExists(targetUnit) then\n                            for groupmember in WA_IterateGroupMembers() do\n                                if UnitIsUnit(targetUnit, groupmember) then\n                                    if cast.nameplate then\n                                        aura_env.removeFontFromNameplate(cast.nameplate)\n                                    end\n                                    \n                                    local targetGUID = UnitGUID(groupmember)\n                                    local targeted = targetGUID == WeakAuras.myGUID\n                                    local spellId = cast.spellId\n                                    cast.changed = true\n                                    cast.target = groupmember\n                                    cast.targetGUID = targetGUID\n                                    cast.targeted = targeted\n                                    \n                                    if cast.showNameplate then\n                                        cast.nameplate = aura_env.addFontToNameplate(\n                                            sourceUnit,\n                                            groupmember\n                                        )\n                                    end\n                                    \n                                    iconChanged = true\n                                    break\n                                end\n                            end\n                        end\n                    end\n                end\n            end\n        elseif cast then\n            if event == \"UNIT_SPELLCAST_STOP\" --  or event == \"UNIT_SPELLCAST_SUCCEEDED\"\n            or event == \"UNIT_SPELLCAST_INTERRUPTED\"\n            or event == \"UNIT_SPELLCAST_FAILED\"\n            or event == \"UNIT_SPELLCAST_FAILED_QUIET\"\n            or event == \"UNIT_SPELLCAST_CHANNEL_STOP\"\n            then\n                if cast.nameplate then\n                    aura_env.removeFontFromNameplate(cast.nameplate)\n                end\n                allcasts[sourceGUID] = nil\n                iconChanged = true\n            elseif event == \"NAME_PLATE_UNIT_REMOVED\" then\n                if cast.nameplate then\n                    aura_env.removeFontFromNameplate(cast.nameplate)\n                end\n            elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n                if cast.showNameplate then\n                    cast.nameplate = aura_env.addFontToNameplate(\n                        sourceUnit,\n                        cast.target\n                    )\n                end\n            end\n        end\n        \n        if iconChanged then\n            local change = false\n            -- update allstates from allcasts\n            for sourceGUID, cast in pairs(allcasts) do\n                -- index for allstates is \"spellId_targetGUID\"\n                local index = (\"%s_%s\"):format(cast.spellId, cast.targetGUID)\n                \n                local state = allstates[index]\n                \n                if state and state.show then\n                    state.casts[sourceGUID] = true\n                    if cast.expirationTime > state.expirationTime then\n                        state.expirationTime = cast.expirationTime\n                        state.changed = true\n                        change = true\n                    end\n                else\n                    allstates[index] = {\n                        show = true,\n                        name = cast.name,\n                        icon = cast.icon,\n                        changed = true,\n                        autoHide = true,\n                        progressType = \"timed\",\n                        duration = cast.expirationTime - cast.start,\n                        expirationTime = cast.expirationTime,\n                        spellId = cast.spellId,\n                        castType = cast.castType,\n                        notInterruptible = cast.notInterruptible,\n                        target = cast.target,\n                        unit = cast.showIcon and cast.target,\n                        targetGUID = cast.targetGUID,\n                        frame = WeakAuras.GetUnitFrame(cast.target),\n                        casts = {\n                            [sourceGUID] = true\n                        },\n                        targeted = cast.targeted,\n                        showGlow = cast.showGlow,\n                        playSound = cast.playSound,\n                        bigIcon = cast.bigIcon,\n                        showIcon = cast.showIcon,\n                    }\n                    change = true\n                end\n            end\n            \n            -- count how much of the same cast is showing each icon\n            -- remove casts stopped from state.casts\n            -- remove state if state.casts is empty\n            for index, state in pairs(allstates) do \n                if state.show and state.showIcon then\n                    local countcasts = 0\n                    for sourceGUID,_ in pairs(state.casts) do\n                        local cast = allcasts[sourceGUID]\n                        if not cast\n                        or (cast and cast.targetGUID ~= state.targetGUID)\n                        then\n                            state.casts[sourceGUID] = nil\n                        else \n                            countcasts = countcasts + 1\n                        end\n                    end\n                    if state.stacks ~= countcasts then\n                        state.stacks = countcasts\n                        state.changed = true\n                        change = true\n                    end\n                    -- hide if no cast\n                    if countcasts == 0 then\n                        state.show = false \n                        state.changed = true\n                        change = true\n                    end\n                end\n            end\n            if change then\n                return true \n            end\n        end\n    end\nend",
 						["spellIds"] = {
 						},
-						["events"] = "NAME_PLATE_UNIT_ADDED NAME_PLATE_UNIT_REMOVED UNIT_SPELLCAST_CHANNEL_START UNIT_SPELLCAST_CHANNEL_STOP UNIT_SPELLCAST_CHANNEL_UPDATE UNIT_SPELLCAST_DELAYED UNIT_SPELLCAST_FAILED UNIT_SPELLCAST_FAILED_QUIET UNIT_SPELLCAST_INTERRUPTED UNIT_SPELLCAST_START UNIT_SPELLCAST_STOP UNIT_TARGET ENCOUNTER_END",
 						["check"] = "event",
 						["subeventSuffix"] = "_CAST_START",
 						["subeventPrefix"] = "SPELL",
@@ -3397,12 +3392,7 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["xOffset"] = 0,
 			["internalVersion"] = 33,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -3425,7 +3415,130 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["xOffset"] = 0,
+			["authorOptions"] = {
+				{
+					["subOptions"] = {
+						{
+							["type"] = "toggle",
+							["key"] = "enable",
+							["desc"] = "Show cast's icons on Unit Frames",
+							["default"] = true,
+							["useDesc"] = true,
+							["name"] = "Show (default)",
+							["width"] = 2,
+						}, -- [1]
+					},
+					["type"] = "group",
+					["width"] = 2,
+					["useCollapse"] = true,
+					["name"] = "Cast icons on Unit Frames",
+					["key"] = "icon",
+					["limitType"] = "none",
+					["groupType"] = "simple",
+					["collapse"] = false,
+					["size"] = 10,
+				}, -- [1]
+				{
+					["subOptions"] = {
+						{
+							["desc"] = "Show cast's target on nameplate",
+							["type"] = "select",
+							["default"] = 1,
+							["name"] = "Show",
+							["values"] = {
+								"Always show", -- [1]
+								"Show by default (overide with \"actions > init\" list)", -- [2]
+								"Disabled by default (overide with \"actions > init\" list)", -- [3]
+								"Disabled", -- [4]
+							},
+							["useDesc"] = true,
+							["key"] = "enable",
+							["width"] = 2,
+						}, -- [1]
+						{
+							["type"] = "description",
+							["text"] = "Nameplate font, shadow, shadow color, size and offsets settings are now in the \"Display\" tab",
+							["fontSize"] = "medium",
+							["width"] = 2,
+						}, -- [2]
+					},
+					["type"] = "group",
+					["width"] = 2,
+					["useCollapse"] = true,
+					["name"] = "Target Name on Nameplates",
+					["key"] = "nameplate",
+					["limitType"] = "none",
+					["groupType"] = "simple",
+					["collapse"] = false,
+					["size"] = 10,
+				}, -- [2]
+				{
+					["subOptions"] = {
+						{
+							["type"] = "number",
+							["useDesc"] = false,
+							["max"] = 999999,
+							["step"] = 1,
+							["width"] = 1,
+							["min"] = 0,
+							["key"] = "spellId",
+							["name"] = "Spell Id",
+							["default"] = 0,
+						}, -- [1]
+						{
+							["type"] = "input",
+							["useDesc"] = false,
+							["width"] = 1,
+							["name"] = "Description",
+							["default"] = "",
+							["multiline"] = false,
+							["length"] = 10,
+							["key"] = "desc",
+							["useLength"] = false,
+						}, -- [2]
+						{
+							["type"] = "multiselect",
+							["name"] = "Options",
+							["default"] = {
+								true, -- [1]
+								true, -- [2]
+								true, -- [3]
+								true, -- [4]
+								true, -- [5]
+							},
+							["values"] = {
+								"Icon", -- [1]
+								"Glow", -- [2]
+								"Nameplate", -- [3]
+								"Sound", -- [4]
+								"Big Icon", -- [5]
+							},
+							["useDesc"] = false,
+							["key"] = "options",
+							["width"] = 1,
+						}, -- [3]
+					},
+					["hideReorder"] = false,
+					["useDesc"] = false,
+					["nameSource"] = 2,
+					["width"] = 1,
+					["useCollapse"] = true,
+					["type"] = "group",
+					["key"] = "spells",
+					["collapse"] = false,
+					["limitType"] = "none",
+					["groupType"] = "array",
+					["name"] = "Spells",
+					["size"] = 10,
+				}, -- [3]
+				{
+					["type"] = "space",
+					["variableWidth"] = true,
+					["height"] = 10,
+					["width"] = 2,
+					["useHeight"] = true,
+				}, -- [4]
+			},
 			["url"] = "https://wago.io/BFADungeonTargetedSpells/65",
 			["icon"] = true,
 			["stickyDuration"] = false,
@@ -4204,24 +4317,29 @@ WeakAurasSaved = {
 					["text_anchorYOffset"] = 0,
 				}, -- [2]
 			},
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1Font"] = "Friz Quadrata TT",
-			["frameStrata"] = 6,
-			["auto"] = true,
-			["anchorFrameFrame"] = "UIParent",
-			["regionType"] = "icon",
-			["text2"] = "%p",
-			["cooldownTextDisabled"] = true,
-			["text2FontSize"] = 24,
+			["semver"] = "3.0.3",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["regionType"] = "icon",
+			["text2"] = "%p",
+			["auto"] = true,
+			["text2FontSize"] = 24,
+			["frameStrata"] = 6,
 			["text1"] = "%c",
-			["semver"] = "3.0.3",
-			["text1FontFlags"] = "OUTLINE",
+			["anchorFrameFrame"] = "UIParent",
 			["zoom"] = 0,
+			["cooldownTextDisabled"] = true,
 			["useGlowColor"] = true,
 			["tocversion"] = 80300,
 			["id"] = "Targeted Spells",
@@ -4298,129 +4416,11 @@ WeakAurasSaved = {
 				}, -- [3]
 			},
 			["cooldown"] = true,
-			["authorOptions"] = {
-				{
-					["subOptions"] = {
-						{
-							["type"] = "toggle",
-							["key"] = "enable",
-							["desc"] = "Show cast's icons on Unit Frames",
-							["default"] = true,
-							["useDesc"] = true,
-							["name"] = "Show (default)",
-							["width"] = 2,
-						}, -- [1]
-					},
-					["type"] = "group",
-					["width"] = 2,
-					["useCollapse"] = true,
-					["name"] = "Cast icons on Unit Frames",
-					["key"] = "icon",
-					["limitType"] = "none",
-					["groupType"] = "simple",
-					["collapse"] = false,
-					["size"] = 10,
-				}, -- [1]
-				{
-					["subOptions"] = {
-						{
-							["desc"] = "Show cast's target on nameplate",
-							["type"] = "select",
-							["default"] = 1,
-							["name"] = "Show",
-							["values"] = {
-								"Always show", -- [1]
-								"Show by default (overide with \"actions > init\" list)", -- [2]
-								"Disabled by default (overide with \"actions > init\" list)", -- [3]
-								"Disabled", -- [4]
-							},
-							["useDesc"] = true,
-							["key"] = "enable",
-							["width"] = 2,
-						}, -- [1]
-						{
-							["type"] = "description",
-							["text"] = "Nameplate font, shadow, shadow color, size and offsets settings are now in the \"Display\" tab",
-							["fontSize"] = "medium",
-							["width"] = 2,
-						}, -- [2]
-					},
-					["type"] = "group",
-					["width"] = 2,
-					["useCollapse"] = true,
-					["name"] = "Target Name on Nameplates",
-					["key"] = "nameplate",
-					["limitType"] = "none",
-					["groupType"] = "simple",
-					["collapse"] = false,
-					["size"] = 10,
-				}, -- [2]
-				{
-					["subOptions"] = {
-						{
-							["type"] = "number",
-							["useDesc"] = false,
-							["max"] = 999999,
-							["step"] = 1,
-							["width"] = 1,
-							["min"] = 0,
-							["key"] = "spellId",
-							["name"] = "Spell Id",
-							["default"] = 0,
-						}, -- [1]
-						{
-							["type"] = "input",
-							["useDesc"] = false,
-							["width"] = 1,
-							["name"] = "Description",
-							["default"] = "",
-							["multiline"] = false,
-							["length"] = 10,
-							["key"] = "desc",
-							["useLength"] = false,
-						}, -- [2]
-						{
-							["type"] = "multiselect",
-							["name"] = "Options",
-							["default"] = {
-								true, -- [1]
-								true, -- [2]
-								true, -- [3]
-								true, -- [4]
-								true, -- [5]
-							},
-							["values"] = {
-								"Icon", -- [1]
-								"Glow", -- [2]
-								"Nameplate", -- [3]
-								"Sound", -- [4]
-								"Big Icon", -- [5]
-							},
-							["useDesc"] = false,
-							["key"] = "options",
-							["width"] = 1,
-						}, -- [3]
-					},
-					["hideReorder"] = false,
-					["useDesc"] = false,
-					["nameSource"] = 2,
-					["width"] = 1,
-					["useCollapse"] = true,
-					["type"] = "group",
-					["key"] = "spells",
-					["collapse"] = false,
-					["limitType"] = "none",
-					["groupType"] = "array",
-					["name"] = "Spells",
-					["size"] = 10,
-				}, -- [3]
-				{
-					["type"] = "space",
-					["variableWidth"] = true,
-					["height"] = 10,
-					["width"] = 2,
-					["useHeight"] = true,
-				}, -- [4]
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 		},
 		["Horrific Visions - Crystal Zone 3"] = {
@@ -4458,11 +4458,10 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["names"] = {
-						},
+						["subeventPrefix"] = "SPELL",
 						["use_unit"] = true,
 						["duration"] = "1",
 						["events"] = "OpenShowCardGM",
@@ -4470,7 +4469,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["subeventSuffix"] = "_CAST_START",
-						["unit"] = "player",
+						["names"] = {
+						},
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -4590,10 +4590,9 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
-			["xOffset"] = 80,
 			["cooldownEdge"] = false,
+			["xOffset"] = 80,
+			["desaturate"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -4657,7 +4656,8 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["icon"] = true,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -4968,29 +4968,8 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["regionType"] = "icon",
-			["animation"] = {
-				["start"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
 			["actions"] = {
 				["start"] = {
 				},
@@ -4999,12 +4978,14 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["parent"] = "8.3 Horrific Visions Chinese edition translated",
+			["url"] = "https://wago.io/23q54wiYR/10",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
+			},
+			["authorOptions"] = {
 			},
 			["auto"] = true,
 			["config"] = {
@@ -5050,7 +5031,26 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["cooldown"] = true,
-			["url"] = "https://wago.io/23q54wiYR/10",
+			["animation"] = {
+				["start"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
 		},
 		["Hunter 2"] = {
 			["sparkWidth"] = 10,
@@ -5107,17 +5107,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -5126,7 +5126,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -5168,8 +5168,7 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["spellId"] = "",
 						["unit"] = "player",
-						["spellIds"] = {
-						},
+						["name"] = "Flask of the warm sun ",
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["names"] = {
@@ -5177,7 +5176,7 @@ WeakAurasSaved = {
 						},
 						["spellName"] = "Counter Shot",
 						["use_sourceUnit"] = false,
-						["name"] = "Flask of the warm sun ",
+						["inverse"] = true,
 						["use_spellId"] = false,
 						["sourceName"] = "",
 						["use_destName"] = false,
@@ -5193,7 +5192,8 @@ WeakAurasSaved = {
 						["sourceFlags2"] = "Hostile",
 						["use_name"] = true,
 						["use_spellName"] = true,
-						["inverse"] = true,
+						["spellIds"] = {
+						},
 						["use_specific_sourceunit"] = true,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -5287,22 +5287,22 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["uid"] = "0r1UZteQ6py",
-			["borderBackdrop"] = "Blizzard Tooltip",
-			["borderInFront"] = false,
-			["id"] = "Hunter 2",
-			["icon_side"] = "LEFT",
-			["xOffset"] = 0,
-			["parent"] = "Enemy Interrupt Icons",
-			["sparkHeight"] = 30,
-			["sparkRotationMode"] = "AUTO",
-			["stacksContainment"] = "INSIDE",
 			["backgroundColor"] = {
 				0, -- [1]
 				0, -- [2]
 				0, -- [3]
 				0.43108940124512, -- [4]
 			},
+			["borderBackdrop"] = "Blizzard Tooltip",
+			["borderInFront"] = false,
+			["id"] = "Hunter 2",
+			["icon_side"] = "LEFT",
+			["xOffset"] = 0,
+			["spark"] = false,
+			["sparkHeight"] = 30,
+			["sparkRotationMode"] = "AUTO",
+			["stacksContainment"] = "INSIDE",
+			["icon"] = true,
 			["semver"] = "1.0.0",
 			["backdropColor"] = {
 				1, -- [1]
@@ -5311,23 +5311,23 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["sparkHidden"] = "NEVER",
-			["zoom"] = 0.28,
+			["parent"] = "Enemy Interrupt Icons",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
-			["spark"] = false,
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["icon"] = true,
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["uid"] = "0r1UZteQ6py",
 		},
 		["Emergency Cranial Defibrillation by SnowElysium"] = {
 			["outline"] = "OUTLINE",
@@ -5347,9 +5347,9 @@ WeakAurasSaved = {
 				["start"] = {
 					["custom"] = "WeakAuras.ScanEvents(\"SnowCheatDead\",1)",
 					["do_sound"] = false,
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Idiot.ogg",
 					["do_message"] = false,
 					["do_custom"] = true,
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Idiot.ogg",
 				},
 				["finish"] = {
 					["custom"] = "WeakAuras.ScanEvents(\"SnowCheatDead\",-1)",
@@ -5403,13 +5403,13 @@ WeakAurasSaved = {
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["semver"] = "1.0.9",
+			["auto"] = false,
 			["font"] = "Accidental Presidency",
 			["version"] = 10,
 			["subRegions"] = {
 			},
 			["height"] = 40,
-			["displayIcon"] = 236225,
+			["shadowYOffset"] = -1,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1470, 1469",
@@ -5433,26 +5433,8 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["automaticWidth"] = "Auto",
-			["fontSize"] = 23,
-			["parent"] = "8.3 Horrific Visions Chinese edition translated",
-			["conditions"] = {
-			},
-			["shadowXOffset"] = 1,
-			["wordWrap"] = "WordWrap",
-			["cooldownEdge"] = false,
-			["shadowYOffset"] = -1,
-			["regionType"] = "text",
-			["uid"] = "n)x58lrIMhT",
 			["xOffset"] = -458.33288574219,
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["zoom"] = 0,
-			["auto"] = false,
-			["cooldownTextDisabled"] = false,
-			["justify"] = "LEFT",
-			["tocversion"] = 80300,
-			["id"] = "Emergency Cranial Defibrillation by SnowElysium",
+			["fontSize"] = 23,
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -5489,14 +5471,31 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["displayIcon"] = 236225,
+			["shadowXOffset"] = 1,
+			["automaticWidth"] = "Auto",
+			["parent"] = "8.3 Horrific Visions Chinese edition translated",
+			["conditions"] = {
+			},
+			["regionType"] = "text",
+			["uid"] = "n)x58lrIMhT",
+			["icon"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
+			["zoom"] = 0,
+			["justify"] = "LEFT",
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["tocversion"] = 80300,
+			["id"] = "Emergency Cranial Defibrillation by SnowElysium",
+			["cooldownEdge"] = false,
 			["frameStrata"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["wordWrap"] = "WordWrap",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["icon"] = true,
+			["preferToUpdate"] = false,
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -5505,7 +5504,8 @@ WeakAurasSaved = {
 			},
 			["fixedWidth"] = 200,
 			["cooldown"] = false,
-			["preferToUpdate"] = false,
+			["authorOptions"] = {
+			},
 		},
 		["T26-04-Bowling Right"] = {
 			["sparkWidth"] = 10,
@@ -5594,6 +5594,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["encounterid"] = "2328",
 				["class"] = {
 					["multi"] = {
 					},
@@ -5602,7 +5603,6 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2328",
 				["use_encounterid"] = true,
 			},
 			["sparkBlendMode"] = "ADD",
@@ -5676,11 +5676,11 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["names"] = {
-						},
+						["unit"] = "player",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["use_unit"] = true,
+						["names"] = {
+						},
 						["subeventPrefix"] = "SPELL",
 						["subeventSuffix"] = "_CAST_START",
 						["events"] = "OpenShowCardGM",
@@ -5688,7 +5688,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["duration"] = "1",
-						["unit"] = "player",
+						["use_unit"] = true,
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -5779,6 +5779,27 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["regionType"] = "icon",
+			["authorOptions"] = {
+			},
+			["url"] = "https://wago.io/23q54wiYR/10",
+			["desaturate"] = false,
+			["conditions"] = {
+			},
+			["uid"] = "NjAPh8YIHsf",
+			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["tocversion"] = 80300,
+			["id"] = "Black",
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 0.9,
+			["width"] = 80,
+			["auto"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["icon"] = true,
+			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -5799,27 +5820,6 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["url"] = "https://wago.io/23q54wiYR/10",
-			["authorOptions"] = {
-			},
-			["conditions"] = {
-			},
-			["uid"] = "NjAPh8YIHsf",
-			["frameStrata"] = 1,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 80300,
-			["id"] = "Black",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 0.9,
-			["width"] = 80,
-			["auto"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["icon"] = true,
-			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["desaturate"] = false,
 			["color"] = {
 				0.4156862745098, -- [1]
 				0.4156862745098, -- [2]
@@ -5969,9 +5969,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 				["finish"] = {
+					["do_custom"] = true,
 					["do_message"] = false,
 					["custom"] = "aura_env.count = 0",
-					["do_custom"] = true,
 				},
 				["init"] = {
 					["custom"] = "aura_env.zoneID = C_Map.GetBestMapForUnit(\"player\")\naura_env.zoneName = \"Zone4\"\naura_env.count = 0\n--1469 == Orgrimmar\n--1470 == Stormwind\n\nif aura_env.zoneID == 1469 then\n    aura_env.zoneName = \"Drag\"\nelseif aura_env.zoneID == 1470 then\n    aura_env.zoneName = \"Trade\"\nend\n\nlocal b = CreateFrame(\"Button\", \"WA_SnowBoom4\", WeakAuras.regions[aura_env.id].region)\nb:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n\nlocal function createHighlightTexture(self)\n    local texture = self:CreateTexture(nil, \"OVERLAY\")\n    self.highlight = texture\n    texture:SetTexture([[Interface\\QuestFrame\\UI-QuestLogTitleHighlight]])\n    texture:SetBlendMode(\"ADD\")\n    texture:SetAllPoints(self)\n    texture:SetAlpha(.4)\n    return texture\nend\n\nlocal function onButtonEnter(self)\n    if not self.highlight then\n        createHighlightTexture(self)\n    end\n    self.highlight:Show()\n    self:SetBackdropBorderColor(1, 1, 1)\nend\n\nlocal function onButtonLeave(self)\n    if self.highlight then\n        self.highlight:Hide()\n    end\n    self:SetBackdropBorderColor(0, 0, 0)\nend\n\n\nb:RegisterForClicks(\"LeftButtonDown\", \"RightButtonDown\", \"MiddleButtonDown\")\n\nb:SetScript(\"OnClick\", function(self, arg1)\n        if arg1 == \"LeftButton\" then\n            WeakAuras.ScanEvents(\"HVCrystal\", 4)\n        elseif arg1 == \"MiddleButton\" then\n            WeakAuras.ScanEvents(\"HV_ZONECHANGED\", 4)\n        elseif arg1 == \"RightButton\" then\n            WeakAuras.ScanEvents(\"HVCrystal2\", 4)\n        end\nend)\n\nb:SetScript(\"OnEnter\", onButtonEnter)\nb:SetScript(\"OnLeave\", onButtonLeave)\n\naura_env.button = b\n\n",
@@ -5985,11 +5985,10 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["names"] = {
-						},
+						["subeventPrefix"] = "SPELL",
 						["custom_type"] = "event",
 						["use_unit"] = true,
 						["events"] = "OpenShowCardGM",
@@ -5997,7 +5996,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["duration"] = "1",
-						["unit"] = "player",
+						["names"] = {
+						},
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -6117,9 +6117,28 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["xOffset"] = 80,
-			["desaturate"] = false,
 			["icon"] = true,
+			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -6183,26 +6202,7 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["url"] = "https://wago.io/VisionCounter/29",
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["animation"] = {
-				["start"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
+			["xOffset"] = 80,
 			["authorOptions"] = {
 			},
 		},
@@ -6291,12 +6291,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2328",
-				["class"] = {
+				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["spec"] = {
+				["encounterid"] = "2328",
+				["class"] = {
 					["multi"] = {
 					},
 				},
@@ -6403,7 +6403,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -6413,7 +6413,10 @@ WeakAurasSaved = {
 						["challenge"] = true,
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -6422,10 +6425,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["level"] = "100",
 				["use_level"] = false,
 				["size"] = {
@@ -6462,7 +6462,7 @@ WeakAurasSaved = {
 						},
 						["spellId"] = "",
 						["unit"] = "player",
-						["sourceName"] = "",
+						["use_sourceName"] = false,
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
@@ -6470,12 +6470,12 @@ WeakAurasSaved = {
 						["use_sourceUnit"] = false,
 						["name"] = "Flask of the warm sun ",
 						["use_spellName"] = true,
-						["use_sourceName"] = false,
+						["type"] = "event",
 						["use_destName"] = false,
 						["use_cloneId"] = true,
 						["debuffType"] = "HELPFUL",
 						["sourceFlags2"] = "Hostile",
-						["type"] = "event",
+						["sourceName"] = "",
 						["subeventSuffix"] = "_CAST_SUCCESS",
 						["unevent"] = "timed",
 						["spellName"] = "Muzzle",
@@ -6579,13 +6579,16 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["config"] = {
-			},
+			["uid"] = "A)J8OZYmhmz",
 			["borderBackdrop"] = "Blizzard Tooltip",
 			["borderInFront"] = false,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["sparkHeight"] = 30,
+			["customTextUpdate"] = "update",
+			["stacksContainment"] = "INSIDE",
 			["actions"] = {
 				["start"] = {
 					["do_message"] = false,
@@ -6596,10 +6599,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["sparkHeight"] = 30,
-			["customTextUpdate"] = "update",
-			["stacksContainment"] = "INSIDE",
-			["icon"] = true,
 			["semver"] = "1.0.0",
 			["backdropColor"] = {
 				1, -- [1]
@@ -6608,22 +6607,23 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["id"] = "Hunter Survival 2",
-			["spark"] = false,
+			["icon"] = true,
 			["frameStrata"] = 1,
 			["width"] = 30,
 			["anchorFrameType"] = "SCREEN",
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["spark"] = false,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["uid"] = "A)J8OZYmhmz",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
+			},
+			["config"] = {
 			},
 		},
 		["Demon_Hunter 2"] = {
@@ -6635,12 +6635,7 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["url"] = "https://wago.io/ZG34ifiRf/1",
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.45673036575317, -- [4]
-			},
+			["icon"] = true,
 			["fontFlags"] = "OUTLINE",
 			["icon_color"] = {
 				1, -- [1]
@@ -6677,17 +6672,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -6696,7 +6691,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -6744,7 +6739,7 @@ WeakAurasSaved = {
 						},
 						["spellId"] = "",
 						["unit"] = "player",
-						["use_sourceName"] = false,
+						["type"] = "event",
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
@@ -6752,12 +6747,12 @@ WeakAurasSaved = {
 						["use_specific_sourceunit"] = true,
 						["name"] = "Flask of the warm sun ",
 						["use_spellName"] = true,
-						["type"] = "event",
+						["sourceName"] = "",
 						["use_destName"] = false,
 						["use_cloneId"] = true,
 						["debuffType"] = "HELPFUL",
 						["sourceFlags2"] = "Hostile",
-						["sourceName"] = "",
+						["use_sourceName"] = false,
 						["subeventSuffix"] = "_CAST_SUCCESS",
 						["unevent"] = "timed",
 						["custom_hide"] = "timed",
@@ -6860,14 +6855,13 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["icon"] = true,
+			["parent"] = "Enemy Interrupt Icons",
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["config"] = {
-			},
+			["zoom"] = 0.28,
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
@@ -6892,15 +6886,21 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["frameStrata"] = 1,
 			["width"] = 30,
-			["uid"] = "EUcp)0ibBQL",
-			["zoom"] = 0.28,
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.45673036575317, -- [4]
+			},
+			["spark"] = false,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["parent"] = "Enemy Interrupt Icons",
-			["spark"] = false,
+			["uid"] = "EUcp)0ibBQL",
+			["config"] = {
+			},
 		},
 		["Monk 2"] = {
 			["sparkWidth"] = 10,
@@ -6960,7 +6960,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -6970,7 +6970,10 @@ WeakAurasSaved = {
 						["challenge"] = true,
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -6979,10 +6982,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["level"] = "100",
 				["use_level"] = false,
 				["size"] = {
@@ -7022,20 +7022,21 @@ WeakAurasSaved = {
 						["unit"] = "player",
 						["spellId"] = "",
 						["subeventPrefix"] = "SPELL",
-						["inverse"] = true,
+						["name"] = "Flask of the warm sun ",
 						["duration"] = "15",
 						["genericShowOn"] = "showOnActive",
 						["names"] = {
 							"Greater Draenic Intellect Flask", -- [1]
 						},
-						["debuffType"] = "HELPFUL",
-						["use_sourceUnit"] = false,
-						["name"] = "Flask of the warm sun ",
-						["use_spellName"] = true,
 						["spellName"] = "Spear Hand Strike",
+						["use_sourceUnit"] = false,
+						["spellIds"] = {
+						},
+						["use_spellName"] = true,
+						["custom_hide"] = "timed",
 						["use_destName"] = false,
 						["use_cloneId"] = true,
-						["custom_hide"] = "timed",
+						["debuffType"] = "HELPFUL",
 						["sourceFlags2"] = "Hostile",
 						["type"] = "event",
 						["subeventSuffix"] = "_CAST_SUCCESS",
@@ -7046,8 +7047,7 @@ WeakAurasSaved = {
 						["use_sourceFlags2"] = true,
 						["use_name"] = true,
 						["use_spellId"] = false,
-						["spellIds"] = {
-						},
+						["inverse"] = true,
 						["use_specific_sourceunit"] = true,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -7140,17 +7140,23 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["uid"] = "QzKgstcOk)g",
+			["icon"] = true,
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["parent"] = "Enemy Interrupt Icons",
+			["config"] = {
+			},
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
-			["icon"] = true,
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.48237186670303, -- [4]
+			},
 			["semver"] = "1.0.0",
 			["backdropColor"] = {
 				1, -- [1]
@@ -7159,24 +7165,18 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["id"] = "Monk 2",
-			["zoom"] = 0.28,
+			["parent"] = "Enemy Interrupt Icons",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
-			["config"] = {
-			},
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.48237186670303, -- [4]
-			},
 			["auto"] = true,
+			["uid"] = "QzKgstcOk)g",
 		},
 		["Gift CD Event"] = {
 			["outline"] = "OUTLINE",
@@ -7330,12 +7330,7 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["url"] = "https://wago.io/ZG34ifiRf/1",
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.4909183382988, -- [4]
-			},
+			["icon"] = true,
 			["fontFlags"] = "OUTLINE",
 			["icon_color"] = {
 				1, -- [1]
@@ -7375,7 +7370,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -7385,7 +7380,10 @@ WeakAurasSaved = {
 						["challenge"] = true,
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -7394,10 +7392,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["level"] = "100",
 				["use_level"] = false,
 				["size"] = {
@@ -7439,19 +7434,18 @@ WeakAurasSaved = {
 						},
 						["spellId"] = "",
 						["unit"] = "player",
-						["spellIds"] = {
-						},
+						["name"] = "Flask of the warm sun ",
 						["duration"] = "15",
 						["genericShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
-						["custom_hide"] = "timed",
-						["use_specific_sourceunit"] = true,
-						["name"] = "Flask of the warm sun ",
-						["use_spellId"] = false,
 						["spellName"] = "Skull Bash",
+						["use_specific_sourceunit"] = true,
+						["inverse"] = true,
+						["use_spellId"] = false,
+						["debuffType"] = "HELPFUL",
 						["use_destName"] = false,
 						["use_cloneId"] = true,
-						["debuffType"] = "HELPFUL",
+						["custom_hide"] = "timed",
 						["sourceFlags2"] = "Hostile",
 						["type"] = "event",
 						["subeventSuffix"] = "_CAST_SUCCESS",
@@ -7462,7 +7456,8 @@ WeakAurasSaved = {
 						["use_sourceFlags2"] = true,
 						["use_name"] = true,
 						["use_spellName"] = true,
-						["inverse"] = true,
+						["spellIds"] = {
+						},
 						["use_sourceUnit"] = false,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -7555,14 +7550,13 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["icon"] = true,
+			["parent"] = "Enemy Interrupt Icons",
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["config"] = {
-			},
+			["zoom"] = 0.28,
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
@@ -7587,15 +7581,21 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["frameStrata"] = 1,
 			["width"] = 30,
-			["uid"] = "VaBFXuKRRgQ",
-			["zoom"] = 0.28,
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.4909183382988, -- [4]
+			},
+			["spark"] = false,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["parent"] = "Enemy Interrupt Icons",
-			["spark"] = false,
+			["uid"] = "VaBFXuKRRgQ",
+			["config"] = {
+			},
 		},
 		["Death_Knight 2"] = {
 			["sparkWidth"] = 10,
@@ -7650,7 +7650,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -7660,7 +7660,10 @@ WeakAurasSaved = {
 						["challenge"] = true,
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -7669,10 +7672,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["level"] = "100",
 				["use_level"] = false,
 				["size"] = {
@@ -7702,8 +7702,7 @@ WeakAurasSaved = {
 						["unit"] = "player",
 						["spellId"] = "",
 						["subeventPrefix"] = "SPELL",
-						["spellIds"] = {
-						},
+						["name"] = "Flask of the warm sun ",
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["names"] = {
@@ -7711,7 +7710,7 @@ WeakAurasSaved = {
 						},
 						["spellName"] = "Mind Freeze",
 						["use_specific_sourceunit"] = true,
-						["name"] = "Flask of the warm sun ",
+						["inverse"] = true,
 						["use_spellId"] = false,
 						["sourceName"] = "",
 						["use_destName"] = false,
@@ -7727,7 +7726,8 @@ WeakAurasSaved = {
 						["use_sourceFlags2"] = true,
 						["use_name"] = true,
 						["use_spellName"] = true,
-						["inverse"] = true,
+						["spellIds"] = {
+						},
 						["use_sourceUnit"] = false,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -7820,20 +7820,15 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["sparkColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
-			["config"] = {
-			},
+			["icon"] = true,
 			["icon_side"] = "LEFT",
 			["authorOptions"] = {
 			},
-			["spark"] = false,
+			["config"] = {
+			},
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
@@ -7848,14 +7843,14 @@ WeakAurasSaved = {
 				},
 			},
 			["semver"] = "1.0.0",
-			["color"] = {
+			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
 			["sparkHidden"] = "NEVER",
-			["icon"] = true,
+			["spark"] = false,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
@@ -7871,7 +7866,12 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["id"] = "Death_Knight 2",
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Mage 2"] = {
 			["sparkWidth"] = 10,
@@ -7919,17 +7919,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -7938,7 +7938,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -7986,14 +7986,13 @@ WeakAurasSaved = {
 						["names"] = {
 							"Greater Draenic Intellect Flask", -- [1]
 						},
-						["spellIds"] = {
-						},
+						["inverse"] = true,
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 						["spellName"] = "Counterspell",
 						["use_sourceUnit"] = false,
-						["inverse"] = true,
+						["name"] = "Flask of the warm sun ",
 						["use_spellName"] = true,
 						["use_sourceName"] = false,
 						["use_destName"] = false,
@@ -8009,7 +8008,8 @@ WeakAurasSaved = {
 						["use_sourceFlags2"] = true,
 						["use_name"] = true,
 						["use_spellId"] = false,
-						["name"] = "Flask of the warm sun ",
+						["spellIds"] = {
+						},
 						["use_specific_sourceunit"] = true,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -8107,13 +8107,19 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["displayStacks"] = "%c",
-			["uid"] = "WFI6XQud82i",
+			["config"] = {
+			},
 			["borderBackdrop"] = "Blizzard Tooltip",
 			["borderInFront"] = false,
 			["id"] = "Mage 2",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["parent"] = "Enemy Interrupt Icons",
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.4738245010376, -- [4]
+			},
 			["sparkHeight"] = 30,
 			["customTextUpdate"] = "update",
 			["stacksContainment"] = "INSIDE",
@@ -8130,24 +8136,18 @@ WeakAurasSaved = {
 			["semver"] = "1.0.0",
 			["useAdjustededMax"] = false,
 			["sparkHidden"] = "NEVER",
-			["zoom"] = 0.28,
+			["parent"] = "Enemy Interrupt Icons",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.4738245010376, -- [4]
-			},
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["config"] = {
-			},
 			["spark"] = false,
+			["uid"] = "WFI6XQud82i",
 		},
 		["Tosh ZT Party Defensives Icons"] = {
 			["sparkWidth"] = 10,
@@ -8218,16 +8218,13 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_ingroup"] = true,
 				["use_encounterid"] = false,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -8247,7 +8244,10 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_ingroup"] = true,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
@@ -11284,10 +11284,10 @@ WeakAurasSaved = {
 							["205180"] = false,
 							["55342"] = false,
 							["275699"] = false,
-							["288613"] = false,
-							["1122"] = false,
 							["113860"] = false,
+							["1122"] = false,
 							["106951"] = false,
+							["288613"] = false,
 							["79140"] = false,
 							["202770"] = false,
 							["49206"] = false,
@@ -11606,11 +11606,11 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["unit"] = "player",
 						["custom_type"] = "event",
 						["events"] = "OpenShowCardGM",
@@ -11618,7 +11618,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["duration"] = "1",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -11709,6 +11709,27 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["regionType"] = "icon",
+			["desaturate"] = false,
+			["url"] = "https://wago.io/23q54wiYR/10",
+			["authorOptions"] = {
+			},
+			["conditions"] = {
+			},
+			["uid"] = "8WcV2Yw81xF",
+			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["tocversion"] = 80300,
+			["id"] = "Blue",
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 0.9,
+			["width"] = 80,
+			["auto"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["icon"] = true,
+			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -11728,27 +11749,6 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 					["easeType"] = "none",
 				},
-			},
-			["url"] = "https://wago.io/23q54wiYR/10",
-			["desaturate"] = false,
-			["conditions"] = {
-			},
-			["uid"] = "8WcV2Yw81xF",
-			["frameStrata"] = 1,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 80300,
-			["id"] = "Blue",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 0.9,
-			["width"] = 80,
-			["auto"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["icon"] = true,
-			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["authorOptions"] = {
 			},
 			["color"] = {
 				0, -- [1]
@@ -11777,9 +11777,9 @@ WeakAurasSaved = {
 					["do_glow"] = false,
 					["custom"] = "",
 					["do_sound"] = false,
+					["do_custom"] = false,
 					["sound"] = " custom",
 					["sound_path"] = "",
-					["do_custom"] = false,
 				},
 				["finish"] = {
 				},
@@ -11801,10 +11801,10 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["subeventPrefix"] = "SPELL",
 						["unit"] = "player",
-						["custom"] = "function(states, event, ...)\n    if event == \"OPTIONS\" then\n        states[\"\"] = {\n            amount = aura_env.format(123456),\n            icon = aura_env.loaded and aura_env.kekW or 237555,\n            type = 1,\n            duration = 4,\n            expirationTime = GetTime() + 4,\n            progressType = \"timed\",\n            autoHide = true,\n            changed = true,\n            show = true,\n        }\n        return true\n    end\n    \n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, message, _, srcGUID, _, _, _, destGUID, _, _, _, spellid, spellName, spellSchool, arg1, _, arg3 = ...\n        if message == \"SPELL_DAMAGE\"\n        and destGUID == WeakAuras.myGUID\n        and spellid == 315197\n        and arg1\n        then\n            states[srcGUID] = {\n                amount = aura_env.format(arg1),\n                icon = aura_env.loaded and aura_env.kekW or 237555,\n                type = 1,\n                duration = 4,\n                expirationTime = GetTime() + 4,\n                progressType = \"timed\",\n                autoHide = true,\n                changed = true,\n                show = true,\n            }\n            if aura_env.loaded then\n                C_Timer.After(2, function()\n                        WeakAuras.ScanEvents(\"WA_KEKWAIT\", srcGUID)\n                end)\n            end\n        elseif message == \"SPELL_MISSED\"\n        and destGUID == WeakAuras.myGUID\n        and spellid == 315197\n        then\n            if arg1 == \"ABSORB\" and arg3 then\n                states[srcGUID] = {\n                    amount = aura_env.format(arg3),\n                    icon = aura_env.loaded and aura_env.kekW or 237555,\n                    type = 2,\n                    duration = 4,\n                    expirationTime = GetTime() + 4,\n                    progressType = \"timed\",\n                    autoHide = true,\n                    changed = true,\n                    show = true,\n                }\n                if aura_env.loaded then\n                    C_Timer.After(2, function()\n                            WeakAuras.ScanEvents(\"WA_KEKWAIT\", srcGUID)\n                    end)\n                end\n            elseif arg1 ~= \"ABSORB\" and arg1 ~= \"BLOCK\" then\n                states[srcGUID] = {\n                    amount = arg1,\n                    icon = aura_env.loaded and aura_env.pog or 237555,\n                    type = 2,\n                    miss = true,\n                    duration = 2,\n                    expirationTime = GetTime() + 2,\n                    progressType = \"timed\",\n                    autoHide = true,\n                    changed = true,\n                    show = true,\n                }\n            end\n        end\n    elseif event == \"WA_KEKWAIT\" and ... then\n        local state = states[...]\n        if state then\n            state.icon = aura_env.kekWAIT\n            state.changed = true\n            state.show = true\n        end\n    end\n    return true\nend",
-						["events"] = "CLEU:SPELL_DAMAGE:SPELL_MISSED WA_KEKWAIT",
 						["spellIds"] = {
 						},
+						["custom"] = "function(states, event, ...)\n    if event == \"OPTIONS\" then\n        states[\"\"] = {\n            amount = aura_env.format(123456),\n            icon = aura_env.loaded and aura_env.kekW or 237555,\n            type = 1,\n            duration = 4,\n            expirationTime = GetTime() + 4,\n            progressType = \"timed\",\n            autoHide = true,\n            changed = true,\n            show = true,\n        }\n        return true\n    end\n    \n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, message, _, srcGUID, _, _, _, destGUID, _, _, _, spellid, spellName, spellSchool, arg1, _, arg3 = ...\n        if message == \"SPELL_DAMAGE\"\n        and destGUID == WeakAuras.myGUID\n        and spellid == 315197\n        and arg1\n        then\n            states[srcGUID] = {\n                amount = aura_env.format(arg1),\n                icon = aura_env.loaded and aura_env.kekW or 237555,\n                type = 1,\n                duration = 4,\n                expirationTime = GetTime() + 4,\n                progressType = \"timed\",\n                autoHide = true,\n                changed = true,\n                show = true,\n            }\n            if aura_env.loaded then\n                C_Timer.After(2, function()\n                        WeakAuras.ScanEvents(\"WA_KEKWAIT\", srcGUID)\n                end)\n            end\n        elseif message == \"SPELL_MISSED\"\n        and destGUID == WeakAuras.myGUID\n        and spellid == 315197\n        then\n            if arg1 == \"ABSORB\" and arg3 then\n                states[srcGUID] = {\n                    amount = aura_env.format(arg3),\n                    icon = aura_env.loaded and aura_env.kekW or 237555,\n                    type = 2,\n                    duration = 4,\n                    expirationTime = GetTime() + 4,\n                    progressType = \"timed\",\n                    autoHide = true,\n                    changed = true,\n                    show = true,\n                }\n                if aura_env.loaded then\n                    C_Timer.After(2, function()\n                            WeakAuras.ScanEvents(\"WA_KEKWAIT\", srcGUID)\n                    end)\n                end\n            elseif arg1 ~= \"ABSORB\" and arg1 ~= \"BLOCK\" then\n                states[srcGUID] = {\n                    amount = arg1,\n                    icon = aura_env.loaded and aura_env.pog or 237555,\n                    type = 2,\n                    miss = true,\n                    duration = 2,\n                    expirationTime = GetTime() + 2,\n                    progressType = \"timed\",\n                    autoHide = true,\n                    changed = true,\n                    show = true,\n                }\n            end\n        end\n    elseif event == \"WA_KEKWAIT\" and ... then\n        local state = states[...]\n        if state then\n            state.icon = aura_env.kekWAIT\n            state.changed = true\n            state.show = true\n        end\n    end\n    return true\nend",
+						["events"] = "CLEU:SPELL_DAMAGE:SPELL_MISSED WA_KEKWAIT",
 						["check"] = "event",
 						["names"] = {
 						},
@@ -11901,7 +11901,7 @@ WeakAurasSaved = {
 			["fixedWidth"] = 450,
 			["displayIcon"] = "237555",
 			["regionType"] = "icon",
-			["wordWrap"] = "WordWrap",
+			["parent"] = "Debuffs from Corruption",
 			["config"] = {
 			},
 			["selfPoint"] = "CENTER",
@@ -11912,13 +11912,13 @@ WeakAurasSaved = {
 			["semver"] = "1.0.3",
 			["tocversion"] = 80300,
 			["id"] = "[40+] Grand Delusions damage",
-			["icon"] = true,
+			["wordWrap"] = "WordWrap",
 			["frameStrata"] = 1,
 			["width"] = 40,
-			["xOffset"] = 0,
+			["automaticWidth"] = "Auto",
 			["uid"] = "cRHtAaRJtzJ",
 			["inverse"] = false,
-			["automaticWidth"] = "Auto",
+			["icon"] = true,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -11941,7 +11941,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = false,
-			["parent"] = "Debuffs from Corruption",
+			["xOffset"] = 0,
 		},
 		["Horrific Visions - Crystal Zone 5"] = {
 			["color"] = {
@@ -11978,10 +11978,11 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["duration"] = "1",
 						["subeventSuffix"] = "_CAST_START",
 						["events"] = "OpenShowCardGM",
@@ -11989,8 +11990,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["unit"] = "player",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -12129,10 +12129,10 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
-			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
+			["desaturate"] = false,
 			["authorOptions"] = {
 			},
-			["desaturate"] = false,
+			["url"] = "https://wago.io/VisionCounter/29",
 			["conditions"] = {
 				{
 					["check"] = {
@@ -12196,7 +12196,7 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["icon"] = true,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["url"] = "https://wago.io/VisionCounter/29",
+			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["xOffset"] = 80,
 		},
 		["Dungeon - Targeted Spells"] = {
@@ -12297,7 +12297,7 @@ WeakAurasSaved = {
 			["fontSize"] = 12,
 			["gridType"] = "RD",
 			["justify"] = "LEFT",
-			["borderInset"] = 1,
+			["uid"] = "zSrl30KxJ6i",
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["authorOptions"] = {
@@ -12305,10 +12305,10 @@ WeakAurasSaved = {
 			["borderSize"] = 2,
 			["anchorPerUnit"] = "UNITFRAME",
 			["displayText"] = "%p",
-			["radius"] = 200,
+			["borderInset"] = 1,
 			["yOffset"] = 0,
 			["sort"] = "none",
-			["uid"] = "zSrl30KxJ6i",
+			["radius"] = 200,
 			["space"] = 1,
 			["semver"] = "3.0.3",
 			["gridWidth"] = 5,
@@ -12318,10 +12318,6 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["limit"] = 3,
 			["rotation"] = 0,
-			["background"] = "None",
-			["customTextUpdate"] = "update",
-			["conditions"] = {
-			},
 			["outline"] = "OUTLINE",
 			["animation"] = {
 				["start"] = {
@@ -12343,6 +12339,10 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["conditions"] = {
+			},
+			["background"] = "None",
+			["customTextUpdate"] = "update",
 		},
 		["Tosh ZT Party Offensives Icons"] = {
 			["sparkWidth"] = 10,
@@ -15448,10 +15448,10 @@ WeakAurasSaved = {
 							["205180"] = false,
 							["55342"] = false,
 							["275699"] = false,
-							["113860"] = false,
-							["1122"] = false,
 							["106951"] = false,
+							["1122"] = false,
 							["288613"] = false,
+							["113860"] = false,
 							["79140"] = false,
 							["202770"] = false,
 							["49206"] = false,
@@ -15904,12 +15904,7 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["url"] = "https://wago.io/ZG34ifiRf/1",
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.4738245010376, -- [4]
-			},
+			["icon"] = true,
 			["fontFlags"] = "OUTLINE",
 			["icon_color"] = {
 				1, -- [1]
@@ -15946,17 +15941,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -15965,7 +15960,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -16151,13 +16146,13 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["icon"] = true,
+			["parent"] = "Enemy Interrupt Icons",
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
 			["sparkHidden"] = "NEVER",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["uid"] = "0jXQIUDnrXo",
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
@@ -16182,16 +16177,21 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["frameStrata"] = 1,
 			["width"] = 30,
-			["config"] = {
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.4738245010376, -- [4]
 			},
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["spark"] = false,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["parent"] = "Enemy Interrupt Icons",
-			["spark"] = false,
+			["config"] = {
+			},
+			["uid"] = "0jXQIUDnrXo",
 		},
 		["Rogue 2"] = {
 			["sparkWidth"] = 10,
@@ -16202,11 +16202,17 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["url"] = "https://wago.io/ZG34ifiRf/1",
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.46527713537216, -- [4]
+			["actions"] = {
+				["start"] = {
+					["do_message"] = false,
+					["message_type"] = "SAY",
+				},
+				["finish"] = {
+				},
+				["init"] = {
+					["custom"] = "",
+					["do_custom"] = false,
+				},
 			},
 			["fontFlags"] = "OUTLINE",
 			["icon_color"] = {
@@ -16244,17 +16250,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -16263,7 +16269,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -16306,14 +16312,13 @@ WeakAurasSaved = {
 						["names"] = {
 							"Greater Draenic Intellect Flask", -- [1]
 						},
-						["spellIds"] = {
-						},
+						["inverse"] = true,
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
 						["spellName"] = "Kick",
 						["use_sourceUnit"] = false,
-						["inverse"] = true,
+						["name"] = "Flask of the warm sun ",
 						["use_spellName"] = true,
 						["use_sourceName"] = false,
 						["use_destName"] = false,
@@ -16329,7 +16334,8 @@ WeakAurasSaved = {
 						["use_sourceFlags2"] = true,
 						["use_name"] = true,
 						["use_spellId"] = false,
-						["name"] = "Flask of the warm sun ",
+						["spellIds"] = {
+						},
 						["use_specific_sourceunit"] = true,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -16422,24 +16428,14 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["actions"] = {
-				["start"] = {
-					["do_message"] = false,
-					["message_type"] = "SAY",
-				},
-				["finish"] = {
-				},
-				["init"] = {
-					["custom"] = "",
-					["do_custom"] = false,
-				},
-			},
+			["spark"] = false,
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
 			["id"] = "Rogue 2",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["parent"] = "Enemy Interrupt Icons",
+			["config"] = {
+			},
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
@@ -16452,23 +16448,27 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["sparkHidden"] = "NEVER",
-			["zoom"] = 0.28,
+			["parent"] = "Enemy Interrupt Icons",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
-			["config"] = {
-			},
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["spark"] = false,
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
+			},
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.46527713537216, -- [4]
 			},
 		},
 		["Horrific Visions - Crystal Text"] = {
@@ -16677,18 +16677,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["regionType"] = "icon",
-			["parent"] = "Debuffs from Corruption",
-			["cooldownEdge"] = false,
 			["xOffset"] = 0,
+			["regionType"] = "icon",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -16709,6 +16702,14 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["auto"] = true,
 			["uid"] = "Uu6N5rNk1(Q",
 			["cooldownTextDisabled"] = false,
@@ -16726,8 +16727,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["authorOptions"] = {
-			},
+			["parent"] = "Debuffs from Corruption",
 		},
 		["Horrific Visions - Chest Zone 4"] = {
 			["authorOptions"] = {
@@ -16760,10 +16760,11 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["duration"] = "1",
 						["subeventSuffix"] = "_CAST_START",
 						["events"] = "OpenShowCardGM",
@@ -16771,8 +16772,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["unit"] = "player",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -16911,14 +16911,9 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["color"] = {
-				0.34509803921569, -- [1]
-				0.34509803921569, -- [2]
-				0.34509803921569, -- [3]
-				1, -- [4]
-			},
-			["url"] = "https://wago.io/VisionCounter/29",
 			["selfPoint"] = "CENTER",
+			["url"] = "https://wago.io/VisionCounter/29",
+			["icon"] = true,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -16982,7 +16977,12 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["desaturate"] = false,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["icon"] = true,
+			["color"] = {
+				0.34509803921569, -- [1]
+				0.34509803921569, -- [2]
+				0.34509803921569, -- [3]
+				1, -- [4]
+			},
 			["xOffset"] = 0,
 		},
 		["Break shield"] = {
@@ -17244,8 +17244,13 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["desaturate"] = false,
-			["uid"] = "(1rWam(YY0x",
 			["config"] = {
+			},
+			["sparkColor"] = {
+				1, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
 			},
 			["version"] = 2,
 			["width"] = 330,
@@ -17301,12 +17306,7 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["sparkColor"] = {
-				1, -- [1]
-				0, -- [2]
-				0, -- [3]
-				1, -- [4]
-			},
+			["uid"] = "(1rWam(YY0x",
 			["inverse"] = false,
 			["backgroundColor"] = {
 				0.46274509803922, -- [1]
@@ -17456,9 +17456,6 @@ WeakAurasSaved = {
 			},
 			["cooldownTextDisabled"] = false,
 			["regionType"] = "icon",
-			["url"] = "https://wago.io/23q54wiYR/10",
-			["authorOptions"] = {
-			},
 			["actions"] = {
 				["start"] = {
 				},
@@ -17467,12 +17464,14 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["url"] = "https://wago.io/23q54wiYR/10",
 			["auto"] = true,
 			["config"] = {
 			},
@@ -17486,7 +17485,7 @@ WeakAurasSaved = {
 			["width"] = 49,
 			["uid"] = "Uhl0aTHlSKc",
 			["inverse"] = false,
-			["parent"] = "8.3 Horrific Visions Chinese edition translated",
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 				{
 					["check"] = {
@@ -17517,7 +17516,8 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 		},
 		["Druid_Solar_Beam 2"] = {
 			["sparkWidth"] = 10,
@@ -17528,12 +17528,7 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["url"] = "https://wago.io/ZG34ifiRf/1",
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.4909183382988, -- [4]
-			},
+			["icon"] = true,
 			["fontFlags"] = "OUTLINE",
 			["icon_color"] = {
 				1, -- [1]
@@ -17570,17 +17565,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -17589,7 +17584,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -17630,7 +17625,7 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["spellId"] = "",
 						["unit"] = "player",
-						["use_sourceName"] = false,
+						["type"] = "event",
 						["ownOnly"] = true,
 						["genericShowOn"] = "showOnActive",
 						["names"] = {
@@ -17640,12 +17635,12 @@ WeakAurasSaved = {
 						["use_specific_sourceunit"] = true,
 						["name"] = "Flask of the warm sun ",
 						["use_spellName"] = true,
-						["type"] = "event",
+						["sourceName"] = "",
 						["use_destName"] = false,
 						["use_cloneId"] = true,
 						["custom_hide"] = "timed",
 						["sourceFlags2"] = "Hostile",
-						["sourceName"] = "",
+						["use_sourceName"] = false,
 						["subeventSuffix"] = "_CAST_SUCCESS",
 						["unevent"] = "timed",
 						["spellName"] = "Solar Beam",
@@ -17753,13 +17748,18 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["displayStacks"] = "%c",
-			["icon"] = true,
+			["parent"] = "Enemy Interrupt Icons",
 			["borderBackdrop"] = "Blizzard Tooltip",
 			["borderInFront"] = false,
 			["id"] = "Druid_Solar_Beam 2",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["auto"] = true,
+			["sparkColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["sparkHeight"] = 30,
 			["customTextUpdate"] = "update",
 			["stacksContainment"] = "INSIDE",
@@ -17779,21 +17779,21 @@ WeakAurasSaved = {
 			["width"] = 30,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["config"] = {
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.4909183382988, -- [4]
 			},
-			["sparkColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["parent"] = "Enemy Interrupt Icons",
-			["zoom"] = 0.28,
+			["config"] = {
+			},
+			["auto"] = true,
 		},
 		["[80+] Inevitable Doom (+dmg taken / -healing recieved)"] = {
 			["xOffset"] = 0,
@@ -18020,17 +18020,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
 				["difficulty"] = {
 					["single"] = "challenge",
 					["multi"] = {
 						["challenge"] = true,
 					},
 				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -18039,7 +18039,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -18085,7 +18085,7 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["unit"] = "player",
 						["spellId"] = "",
-						["name"] = "Flask of the warm sun ",
+						["inverse"] = true,
 						["use_sourceFlags"] = false,
 						["duration"] = "45",
 						["genericShowOn"] = "showOnActive",
@@ -18093,15 +18093,16 @@ WeakAurasSaved = {
 							"Greater Draenic Intellect Flask", -- [1]
 						},
 						["use_sourceUnit"] = false,
-						["inverse"] = true,
+						["spellIds"] = {
+						},
 						["use_spellId"] = false,
-						["use_sourceName"] = false,
+						["type"] = "event",
 						["use_sourceFlags2"] = true,
 						["use_destName"] = false,
 						["use_cloneId"] = true,
 						["spellName"] = "Silence",
-						["type"] = "event",
 						["sourceName"] = "Draemii",
+						["use_sourceName"] = false,
 						["debuffType"] = "HELPFUL",
 						["subeventSuffix"] = "_CAST_SUCCESS",
 						["custom_hide"] = "timed",
@@ -18110,8 +18111,7 @@ WeakAurasSaved = {
 						["sourceFlags2"] = "Hostile",
 						["use_name"] = true,
 						["use_spellName"] = true,
-						["spellIds"] = {
-						},
+						["name"] = "Flask of the warm sun ",
 						["use_specific_sourceunit"] = true,
 						["use_destunit"] = false,
 						["use_destUnit"] = false,
@@ -18209,13 +18209,19 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["displayStacks"] = "%c",
-			["uid"] = "ZYJfdWbaPhS",
+			["config"] = {
+			},
 			["borderBackdrop"] = "Blizzard Tooltip",
 			["borderInFront"] = false,
 			["id"] = "Priest 2",
 			["icon_side"] = "LEFT",
 			["xOffset"] = 0,
-			["parent"] = "Enemy Interrupt Icons",
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.43963617086411, -- [4]
+			},
 			["sparkHeight"] = 30,
 			["customTextUpdate"] = "update",
 			["stacksContainment"] = "INSIDE",
@@ -18232,24 +18238,18 @@ WeakAurasSaved = {
 			["semver"] = "1.0.0",
 			["useAdjustededMax"] = false,
 			["sparkHidden"] = "NEVER",
-			["zoom"] = 0.28,
+			["parent"] = "Enemy Interrupt Icons",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.43963617086411, -- [4]
-			},
+			["zoom"] = 0.28,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["config"] = {
-			},
 			["spark"] = false,
+			["uid"] = "ZYJfdWbaPhS",
 		},
 		["Horrific Visions - Chest Zone 3"] = {
 			["authorOptions"] = {
@@ -18282,11 +18282,11 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["duration"] = "1",
 						["subeventSuffix"] = "_CAST_START",
 						["events"] = "OpenShowCardGM",
@@ -18294,7 +18294,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["unit"] = "player",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -18433,14 +18433,9 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["color"] = {
-				0.34509803921569, -- [1]
-				0.34509803921569, -- [2]
-				0.34509803921569, -- [3]
-				1, -- [4]
-			},
-			["url"] = "https://wago.io/VisionCounter/29",
 			["selfPoint"] = "CENTER",
+			["url"] = "https://wago.io/VisionCounter/29",
+			["icon"] = true,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -18504,7 +18499,12 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["desaturate"] = false,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["icon"] = true,
+			["color"] = {
+				0.34509803921569, -- [1]
+				0.34509803921569, -- [2]
+				0.34509803921569, -- [3]
+				1, -- [4]
+			},
 			["xOffset"] = 0,
 		},
 		["ZenTracker (ZT) Main"] = {
@@ -18517,9 +18517,9 @@ WeakAurasSaved = {
 			["url"] = "https://wago.io/r14U746B7/68",
 			["actions"] = {
 				["start"] = {
+					["do_custom"] = false,
 					["do_message"] = false,
 					["custom"] = "",
-					["do_custom"] = false,
 				},
 				["finish"] = {
 					["custom"] = "",
@@ -18540,12 +18540,12 @@ WeakAurasSaved = {
 						["names"] = {
 						},
 						["custom_type"] = "event",
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
-						["custom"] = "function(event,...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, eventType, _, sourceGUID, _, _, _, destGUID, _, _, _, spellID = ...\n        aura_env.eventHandlers:handle(eventType, spellID, sourceGUID)\n    end\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-						["genericShowOn"] = "showOnActive",
-						["subeventPrefix"] = "SPELL",
 						["spellIds"] = {
 						},
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
+						["genericShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["custom"] = "function(event,...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, eventType, _, sourceGUID, _, _, _, destGUID, _, _, _, spellID = ...\n        aura_env.eventHandlers:handle(eventType, spellID, sourceGUID)\n    end\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
 						["unit"] = "player",
 						["custom_hide"] = "timed",
 					},
@@ -19018,10 +19018,10 @@ WeakAurasSaved = {
 						["event"] = "Chat Message",
 						["subeventPrefix"] = "SPELL",
 						["duration"] = "1",
+						["custom"] = "function(allstates, event, ...) -- ZT_ADD, ZT_TRIGGER, ZT_REMOVE, COMBAT_LOG_EVENT_UNFILTERED\n    if event == \"ZT_ADD\" then\n        local type, watchID, member, spellID = ...\n        \n        -- If this WA was just loaded\n        if not type then\n            -- Since there is no unload event, hooking into region:Collapse() which\n            -- is called from WeakAuras.UnloadDisplays(...)\n            aura_env.region.ZTTypes = aura_env.types\n            \n            if not aura_env.region.ZTCollapse then\n                aura_env.region.ZTCollapse = aura_env.region.Collapse\n            end\n            \n            function aura_env.region:Collapse(...)\n                if self.ZTTypes and (not WeakAuras.loaded[self.id]) then\n                    for t,isTracked in pairs(self.ZTTypes) do\n                        if isTracked then\n                            WeakAuras.ScanEvents(\"ZT_UNREGISTER\", t, self.id)\n                        end\n                    end\n                    self.ZTTypes = nil\n                end\n                \n                self.ZTCollapse(self, ...)\n            end\n            \n            WeakAuras.ScanEvents(\"ZT_REGISTER\", \"INTERRUPT\", aura_env.region.id)\n        elseif type == \"INTERRUPT\" then\n            local state = {}\n            state.show = true\n            state.changed = true\n            state.progressType = 'timed'\n            state.autoHide = false\n            state.resort = false\n            state.value = 0\n            state.total = 0\n            state.duration = 0\n            state.expirationTime = GetTime()\n            state.index = aura_env.computeSortIndex(type, spellID, member)\n            \n            state.name = member.name\n            state.icon = select(3,GetSpellInfo(spellID))\n            state.classColor = member.classColor\n            state.guid = member.GUID\n            state.spellid = spellID\n            \n            -- Custom Vars\n            state.isplayer = aura_env:IsPlayer(member)\n            \n            allstates[watchID] = state\n            aura_env.watches[state.guid][state.spellid] = watchID\n            \n            return true\n        end\n        \n    elseif event == \"ZT_TRIGGER\" then\n        local type, watchID, duration, expiration = ...\n        \n        local state = allstates[watchID]\n        if type == \"INTERRUPT\" and state then\n            state.changed = true\n            state.duration = duration\n            state.expirationTime = expiration\n            if expiration > GetTime() then\n                if state.interrupted == nil then\n                    state.interrupted = false\n                end\n            else\n                state.interrupted = nil\n            end\n            return true\n        end\n        \n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local subevent = select(2,...)\n        if subevent ~= \"SPELL_INTERRUPT\" then return end\n        \n        local sourceGUID = aura_env.owner(select(4,...))\n        local spellId = select(12,...)\n        \n        local watchID = aura_env.watches[sourceGUID][spellId]\n        if not watchID then return end\n        \n        \n        local state = allstates[watchID]\n        if not state then\n            return\n        end\n        \n        state.interrupted = true\n        state.changed = true\n        \n        return true\n        \n    elseif event == \"ZT_REMOVE\" then\n        local type, watchID = ...\n        local state = allstates[watchID]\n        if state then\n            state.show = false\n            state.changed = true\n            aura_env.watches[state.guid][state.spellid] = nil\n            return true\n        end\n    end\nend",
 						["events"] = "ZT_ADD, ZT_TRIGGER, ZT_REMOVE,COMBAT_LOG_EVENT_UNFILTERED",
 						["spellIds"] = {
 						},
-						["custom"] = "function(allstates, event, ...) -- ZT_ADD, ZT_TRIGGER, ZT_REMOVE, COMBAT_LOG_EVENT_UNFILTERED\n    if event == \"ZT_ADD\" then\n        local type, watchID, member, spellID = ...\n        \n        -- If this WA was just loaded\n        if not type then\n            -- Since there is no unload event, hooking into region:Collapse() which\n            -- is called from WeakAuras.UnloadDisplays(...)\n            aura_env.region.ZTTypes = aura_env.types\n            \n            if not aura_env.region.ZTCollapse then\n                aura_env.region.ZTCollapse = aura_env.region.Collapse\n            end\n            \n            function aura_env.region:Collapse(...)\n                if self.ZTTypes and (not WeakAuras.loaded[self.id]) then\n                    for t,isTracked in pairs(self.ZTTypes) do\n                        if isTracked then\n                            WeakAuras.ScanEvents(\"ZT_UNREGISTER\", t, self.id)\n                        end\n                    end\n                    self.ZTTypes = nil\n                end\n                \n                self.ZTCollapse(self, ...)\n            end\n            \n            WeakAuras.ScanEvents(\"ZT_REGISTER\", \"INTERRUPT\", aura_env.region.id)\n        elseif type == \"INTERRUPT\" then\n            local state = {}\n            state.show = true\n            state.changed = true\n            state.progressType = 'timed'\n            state.autoHide = false\n            state.resort = false\n            state.value = 0\n            state.total = 0\n            state.duration = 0\n            state.expirationTime = GetTime()\n            state.index = aura_env.computeSortIndex(type, spellID, member)\n            \n            state.name = member.name\n            state.icon = select(3,GetSpellInfo(spellID))\n            state.classColor = member.classColor\n            state.guid = member.GUID\n            state.spellid = spellID\n            \n            -- Custom Vars\n            state.isplayer = aura_env:IsPlayer(member)\n            \n            allstates[watchID] = state\n            aura_env.watches[state.guid][state.spellid] = watchID\n            \n            return true\n        end\n        \n    elseif event == \"ZT_TRIGGER\" then\n        local type, watchID, duration, expiration = ...\n        \n        local state = allstates[watchID]\n        if type == \"INTERRUPT\" and state then\n            state.changed = true\n            state.duration = duration\n            state.expirationTime = expiration\n            if expiration > GetTime() then\n                if state.interrupted == nil then\n                    state.interrupted = false\n                end\n            else\n                state.interrupted = nil\n            end\n            return true\n        end\n        \n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local subevent = select(2,...)\n        if subevent ~= \"SPELL_INTERRUPT\" then return end\n        \n        local sourceGUID = aura_env.owner(select(4,...))\n        local spellId = select(12,...)\n        \n        local watchID = aura_env.watches[sourceGUID][spellId]\n        if not watchID then return end\n        \n        \n        local state = allstates[watchID]\n        if not state then\n            return\n        end\n        \n        state.interrupted = true\n        state.changed = true\n        \n        return true\n        \n    elseif event == \"ZT_REMOVE\" then\n        local type, watchID = ...\n        local state = allstates[watchID]\n        if state then\n            state.show = false\n            state.changed = true\n            aura_env.watches[state.guid][state.spellid] = nil\n            return true\n        end\n    end\nend",
 						["check"] = "event",
 						["names"] = {
 						},
@@ -19043,7 +19043,7 @@ WeakAurasSaved = {
 			["internalVersion"] = 33,
 			["selfPoint"] = "CENTER",
 			["backdropInFront"] = false,
-			["semver"] = "1.0.0",
+			["spark"] = false,
 			["barColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -19194,14 +19194,9 @@ WeakAurasSaved = {
 			["stickyDuration"] = false,
 			["version"] = 1,
 			["customTextUpdate"] = "update",
-			["sparkColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["config"] = {
 			},
+			["uid"] = "Xd3Z8jVbZJv",
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["useAdjustededMin"] = false,
 			["regionType"] = "aurabar",
@@ -19213,10 +19208,10 @@ WeakAurasSaved = {
 			["texture"] = "ElvUI Norm",
 			["id"] = "Tosh ZT Interrupts bar",
 			["zoom"] = 0.3,
-			["auto"] = true,
+			["semver"] = "1.0.0",
 			["sparkOffsetX"] = 0,
 			["sparkHidden"] = "NEVER",
-			["spark"] = false,
+			["auto"] = true,
 			["frameStrata"] = 1,
 			["width"] = 200,
 			["backgroundColor"] = {
@@ -19225,7 +19220,12 @@ WeakAurasSaved = {
 				0.062745098039216, -- [3]
 				1, -- [4]
 			},
-			["uid"] = "Xd3Z8jVbZJv",
+			["sparkColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["inverse"] = true,
 			["actions"] = {
 				["start"] = {
@@ -19384,11 +19384,10 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["duration"] = "1",
 						["subeventSuffix"] = "_CAST_START",
 						["events"] = "OpenShowCardGM",
@@ -19396,7 +19395,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["unit"] = "player",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -19516,9 +19516,28 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["cooldownEdge"] = false,
 			["icon"] = true,
+			["cooldownEdge"] = false,
+			["animation"] = {
+				["start"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -19582,26 +19601,7 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["desaturate"] = false,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["animation"] = {
-				["start"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
+			["xOffset"] = 0,
 			["authorOptions"] = {
 			},
 		},
@@ -19738,22 +19738,22 @@ WeakAurasSaved = {
 						["duration"] = "5",
 						["unit"] = "player",
 						["use_unit"] = true,
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
-						["custom_type"] = "event",
-						["custom_hide"] = "custom",
 						["spellIds"] = {
 						},
+						["subeventSuffix"] = "_DAMAGE",
+						["custom_hide"] = "custom",
+						["custom"] = "--Encounter ID = 2132\n\nfunction(event, tstamp, subEvent, hideCaster, srcGUID, srcName, srcFlags, srcRFlags, destGUID, destName, destFlags, destRFlags, ...)\n    \n    local e = aura_env\n    \n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" and destGUID == WeakAuras.myGUID then\n        \n        local spellId, spellName, spellSchool, amount, overkill, school, resisted, blocked, absorbed, critical, glancing, crushing = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellId == e.config.spellId then\n            \n            e.spellTicks = 0\n            e.damageTotal = 0\n            e.damagePerTick = 0\n            e.healthTargetPercent = e.config.release / 100\n            \n            \n        elseif subEvent == \"SPELL_PERIODIC_DAMAGE\" and spellId == e.config.spellId then\n            \n            e.unitHealth = UnitHealth(\"player\")\n            e.unitHealthTarget = UnitHealthMax(\"player\") * e.healthTargetPercent\n            \n            e.spellTicks = e.spellTicks + 1\n            e.damageTotal = e.damageTotal + amount\n            e.damagePerTick = e.damageTotal / e.spellTicks\n            \n            e.ticksLeft = math.ceil((e.unitHealth - e.unitHealthTarget) / e.damagePerTick)\n            \n            return true    \n        end\n    end\nend\n\n\n",
 						["type"] = "custom",
 						["use_spellId"] = true,
-						["unevent"] = "timed",
+						["custom_type"] = "event",
 						["dynamicDuration"] = false,
 						["debuffType"] = "HELPFUL",
 						["event"] = "Combat Log",
 						["customStacks"] = "function()\n    return aura_env.ticksLeft\nend",
 						["customDuration"] = "\n\n\n",
 						["customName"] = "\n\n",
-						["custom"] = "--Encounter ID = 2132\n\nfunction(event, tstamp, subEvent, hideCaster, srcGUID, srcName, srcFlags, srcRFlags, destGUID, destName, destFlags, destRFlags, ...)\n    \n    local e = aura_env\n    \n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" and destGUID == WeakAuras.myGUID then\n        \n        local spellId, spellName, spellSchool, amount, overkill, school, resisted, blocked, absorbed, critical, glancing, crushing = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellId == e.config.spellId then\n            \n            e.spellTicks = 0\n            e.damageTotal = 0\n            e.damagePerTick = 0\n            e.healthTargetPercent = e.config.release / 100\n            \n            \n        elseif subEvent == \"SPELL_PERIODIC_DAMAGE\" and spellId == e.config.spellId then\n            \n            e.unitHealth = UnitHealth(\"player\")\n            e.unitHealthTarget = UnitHealthMax(\"player\") * e.healthTargetPercent\n            \n            e.spellTicks = e.spellTicks + 1\n            e.damageTotal = e.damageTotal + amount\n            e.damagePerTick = e.damageTotal / e.spellTicks\n            \n            e.ticksLeft = math.ceil((e.unitHealth - e.unitHealthTarget) / e.damagePerTick)\n            \n            return true    \n        end\n    end\nend\n\n\n",
-						["subeventSuffix"] = "_DAMAGE",
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
+						["unevent"] = "timed",
 						["check"] = "event",
 						["use_destUnit"] = true,
 						["use_environmentalType"] = false,
@@ -20109,11 +20109,10 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["unit"] = "player",
 						["subeventSuffix"] = "_CAST_START",
 						["events"] = "OpenShowCardGM",
@@ -20121,7 +20120,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["duration"] = "1",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -20231,15 +20231,10 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["regionType"] = "icon",
-			["color"] = {
-				0.95294117647059, -- [1]
-				0.019607843137255, -- [2]
-				0.03921568627451, -- [3]
-				1, -- [4]
-			},
+			["url"] = "https://wago.io/23q54wiYR/10",
 			["authorOptions"] = {
 			},
-			["url"] = "https://wago.io/23q54wiYR/10",
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["uid"] = "UhSXd03PNAl",
@@ -20257,7 +20252,12 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["selfPoint"] = "CENTER",
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["icon"] = true,
+			["color"] = {
+				0.95294117647059, -- [1]
+				0.019607843137255, -- [2]
+				0.03921568627451, -- [3]
+				1, -- [4]
+			},
 			["desaturate"] = false,
 		},
 		["Sound when targeted by a boss"] = {
@@ -20453,10 +20453,10 @@ WeakAurasSaved = {
 						["threatUnit"] = "target",
 						["event"] = "Threat Situation",
 						["use_threatUnit"] = true,
+						["events"] = "UNIT_TARGET:boss",
 						["spellIds"] = {
 						},
 						["custom"] = "function(states, event, unit)\n    if unit == \"boss1\"\n    or unit == \"boss2\"\n    or unit == \"boss3\"\n    or unit == \"boss4\"\n    or unit == \"boss5\"\n    then\n        if UnitIsUnit(\"player\", unit..\"target\") then\n            states[\"\"] = {\n                show = true,\n                changed = true,\n            }\n        else\n            local state = states[\"\"]\n            if state then\n                state.show = false\n                state.changed = true \n            end\n        end\n    end\n    return true\nend",
-						["events"] = "UNIT_TARGET:boss",
 						["check"] = "event",
 						["unevent"] = "auto",
 						["custom_hide"] = "custom",
@@ -20518,9 +20518,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 				["finish"] = {
+					["do_custom"] = true,
 					["do_message"] = false,
 					["custom"] = "aura_env.count = 0",
-					["do_custom"] = true,
 				},
 				["init"] = {
 					["custom"] = "aura_env.zoneID = C_Map.GetBestMapForUnit(\"player\")\naura_env.zoneName = \"Zone1\"\naura_env.count = 0\n--1469 == Orgrimmar\n--1470 == Stormwind\n\nif aura_env.zoneID == 1469 then\n    aura_env.zoneName = \"Strength\"\nelseif aura_env.zoneID == 1470 then\n    aura_env.zoneName = \"Cathedral\"\nend\n\nlocal b = CreateFrame(\"Button\", \"WA_SnowBoom4\", WeakAuras.regions[aura_env.id].region)\nb:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n\nlocal function createHighlightTexture(self)\n    local texture = self:CreateTexture(nil, \"OVERLAY\")\n    self.highlight = texture\n    texture:SetTexture([[Interface\\QuestFrame\\UI-QuestLogTitleHighlight]])\n    texture:SetBlendMode(\"ADD\")\n    texture:SetAllPoints(self)\n    texture:SetAlpha(.4)\n    return texture\nend\n\nlocal function onButtonEnter(self)\n    if not self.highlight then\n        createHighlightTexture(self)\n    end\n    self.highlight:Show()\n    self:SetBackdropBorderColor(1, 1, 1)\nend\n\nlocal function onButtonLeave(self)\n    if self.highlight then\n        self.highlight:Hide()\n    end\n    self:SetBackdropBorderColor(0, 0, 0)\nend\n\n\nb:RegisterForClicks(\"LeftButtonDown\", \"RightButtonDown\", \"MiddleButtonDown\")\n\nb:SetScript(\"OnClick\", function(self, arg1)\n        if arg1 == \"LeftButton\" then\n            WeakAuras.ScanEvents(\"HVCrystal\", 1)\n        elseif arg1 == \"MiddleButton\" then\n            WeakAuras.ScanEvents(\"HV_ZONECHANGED\", 1)\n        elseif arg1 == \"RightButton\" then\n            WeakAuras.ScanEvents(\"HVCrystal2\", 1)\n        end\nend)\n\nb:SetScript(\"OnEnter\", onButtonEnter)\nb:SetScript(\"OnLeave\", onButtonLeave)\n\naura_env.button = b\n\n",
@@ -20534,11 +20534,10 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["names"] = {
-						},
+						["subeventPrefix"] = "SPELL",
 						["custom_type"] = "event",
 						["use_unit"] = true,
 						["events"] = "OpenShowCardGM",
@@ -20546,7 +20545,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["duration"] = "1",
-						["unit"] = "player",
+						["names"] = {
+						},
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -20687,14 +20687,9 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["color"] = {
-				0.34509803921569, -- [1]
-				0.34509803921569, -- [2]
-				0.34509803921569, -- [3]
-				1, -- [4]
-			},
-			["cooldownEdge"] = false,
 			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["icon"] = true,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -20758,7 +20753,12 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["desaturate"] = false,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["icon"] = true,
+			["color"] = {
+				0.34509803921569, -- [1]
+				0.34509803921569, -- [2]
+				0.34509803921569, -- [3]
+				1, -- [4]
+			},
 			["xOffset"] = 80,
 		},
 		["OmniBuds Nameplate Retail"] = {
@@ -20833,7 +20833,8 @@ WeakAurasSaved = {
 			["version"] = 6,
 			["subRegions"] = {
 			},
-			["arcLength"] = 360,
+			["config"] = {
+			},
 			["borderInset"] = 1,
 			["load"] = {
 				["use_class"] = false,
@@ -20857,19 +20858,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["useLimit"] = false,
+			["selfPoint"] = "LEFT",
 			["animate"] = false,
-			["rowSpace"] = 15,
+			["arcLength"] = 360,
 			["scale"] = 1,
-			["anchorPoint"] = "RIGHT",
+			["rowSpace"] = 15,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
+			["anchorPerUnit"] = "NAMEPLATE",
 			["limit"] = 5,
-			["config"] = {
-			},
-			["sort"] = "none",
+			["anchorPoint"] = "RIGHT",
 			["constantFactor"] = "RADIUS",
 			["useAnchorPerUnit"] = true,
 			["borderOffset"] = 4,
@@ -20879,13 +20879,13 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["gridWidth"] = 5,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
-			["uid"] = "CdndF0E442n",
-			["anchorPerUnit"] = "NAMEPLATE",
 			["stagger"] = 0,
+			["uid"] = "CdndF0E442n",
+			["useLimit"] = false,
+			["sort"] = "none",
 			["conditions"] = {
 			},
-			["selfPoint"] = "LEFT",
+			["xOffset"] = 0,
 			["radius"] = 200,
 		},
 		["Sanity loss from hits"] = {
@@ -21149,15 +21149,15 @@ WeakAurasSaved = {
 			["id"] = "8.3 Horrific Visions Chinese edition translated",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "BOTTOMLEFT",
-			["uid"] = "Lc)SwFLmMeO",
-			["xOffset"] = -758.8175659179688,
+			["groupIcon"] = "1357795",
+			["borderInset"] = 1,
 			["config"] = {
 			},
+			["selfPoint"] = "BOTTOMLEFT",
 			["conditions"] = {
 			},
-			["borderInset"] = 1,
-			["groupIcon"] = "1357795",
+			["uid"] = "Lc)SwFLmMeO",
+			["xOffset"] = -758.8175659179688,
 		},
 		["TD Double Explosive"] = {
 			["outline"] = "THICKOUTLINE",
@@ -21195,13 +21195,13 @@ WeakAurasSaved = {
 						["names"] = {
 						},
 						["custom_hide"] = "timed",
+						["events"] = "UNIT_SPELLCAST_START:boss1",
 						["custom"] = "function(event, _, _, spellId)\n    if spellId == 256039            -- Deadeye\n    or spellId == 256083 then       -- Cross Ignition\n        aura_env.sequenceStarted = true\n        return false\n    elseif aura_env.sequenceStarted then\n        aura_env.sequenceStarted = false\n        return spellId == 256101    -- Explosive Burst\n    else\n        return false\n    end\nend",
-						["spellIds"] = {
-						},
 						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
 						["subeventPrefix"] = "SPELL",
-						["events"] = "UNIT_SPELLCAST_START:boss1",
+						["spellIds"] = {
+						},
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
@@ -21220,12 +21220,12 @@ WeakAurasSaved = {
 				["difficulty"] = {
 				},
 				["use_encounterid"] = true,
-				["encounterid"] = "2104",
-				["class"] = {
+				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["spec"] = {
+				["encounterid"] = "2104",
+				["class"] = {
 					["multi"] = {
 					},
 				},
@@ -21575,19 +21575,19 @@ WeakAurasSaved = {
 						["debuffType"] = "HELPFUL",
 						["subeventPrefix"] = "SPELL",
 						["type"] = "custom",
+						["auraspellids"] = {
+						},
 						["custom_type"] = "event",
-						["subeventSuffix"] = "_AURA_APPLIED",
-						["custom"] = "function()\nreturn true\nend",
 						["spellIds"] = {
 						},
+						["events"] = "GIFT_OFF",
 						["event"] = "Combat Log",
 						["unit"] = "player",
 						["unevent"] = "timed",
 						["use_spellId"] = true,
-						["events"] = "GIFT_OFF",
+						["custom"] = "function()\nreturn true\nend",
 						["use_sourceUnit"] = false,
-						["auraspellids"] = {
-						},
+						["subeventSuffix"] = "_AURA_APPLIED",
 						["use_destUnit"] = true,
 						["sourceUnit"] = "player",
 						["use_auraType"] = false,
@@ -21816,11 +21816,11 @@ WeakAurasSaved = {
 			},
 			["config"] = {
 			},
-			["xOffset"] = -490.5791015625,
+			["desaturate"] = false,
 			["authorOptions"] = {
 			},
 			["regionType"] = "icon",
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["selfPoint"] = "CENTER",
 			["conditions"] = {
 				{
@@ -21898,7 +21898,7 @@ WeakAurasSaved = {
 					},
 				}, -- [3]
 			},
-			["parent"] = "8.3 Horrific Visions Chinese edition translated",
+			["xOffset"] = -490.5791015625,
 			["auto"] = false,
 			["width"] = 80,
 			["zoom"] = 0,
@@ -21911,10 +21911,10 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["uid"] = "wBpFYJHm2xC",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
+			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["displayIcon"] = "2000853",
 			["cooldown"] = false,
-			["desaturate"] = false,
+			["icon"] = true,
 		},
 		["Horrific Visions - Chest Zone 1"] = {
 			["authorOptions"] = {
@@ -21947,10 +21947,11 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["use_alwaystrue"] = true,
 						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
+						["names"] = {
+						},
 						["use_absorbMode"] = true,
 						["event"] = "Conditions",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["duration"] = "1",
 						["subeventSuffix"] = "_CAST_START",
 						["events"] = "OpenShowCardGM",
@@ -21958,8 +21959,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 						},
 						["unit"] = "player",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["custom_hide"] = "custom",
 					},
 					["untrigger"] = {
@@ -22099,14 +22099,9 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "Automatic Chest/Crystal Counter - Horrific Visions",
 			["regionType"] = "icon",
-			["color"] = {
-				0.34509803921569, -- [1]
-				0.34509803921569, -- [2]
-				0.34509803921569, -- [3]
-				1, -- [4]
-			},
-			["url"] = "https://wago.io/VisionCounter/29",
 			["selfPoint"] = "CENTER",
+			["url"] = "https://wago.io/VisionCounter/29",
+			["icon"] = true,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -22170,7 +22165,12 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["desaturate"] = false,
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["icon"] = true,
+			["color"] = {
+				0.34509803921569, -- [1]
+				0.34509803921569, -- [2]
+				0.34509803921569, -- [3]
+				1, -- [4]
+			},
 			["xOffset"] = 0,
 		},
 		["Time left"] = {
@@ -22409,18 +22409,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["useLimit"] = true,
+			["anchorPoint"] = "RIGHT",
 			["animate"] = false,
 			["anchorPerUnit"] = "UNITFRAME",
 			["scale"] = 1,
-			["anchorPoint"] = "RIGHT",
+			["arcLength"] = 360,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
-			["sort"] = "none",
-			["useAnchorPerUnit"] = true,
+			["limit"] = 3,
 			["radius"] = 200,
+			["space"] = 2,
 			["constantFactor"] = "RADIUS",
 			["config"] = {
 			},
@@ -22435,11 +22435,11 @@ WeakAurasSaved = {
 			},
 			["borderInset"] = 1,
 			["rotation"] = 0,
-			["arcLength"] = 360,
+			["useAnchorPerUnit"] = true,
 			["conditions"] = {
 			},
-			["limit"] = 3,
-			["space"] = 2,
+			["useLimit"] = true,
+			["sort"] = "none",
 		},
 		["Purple"] = {
 			["xOffset"] = -573,
@@ -22589,9 +22589,9 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["regionType"] = "icon",
-			["icon"] = true,
-			["cooldownEdge"] = false,
 			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["config"] = {
@@ -22614,7 +22614,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["displayIcon"] = "Interface\\Addons\\WeakAuras\\Media\\Textures\\Square_White_Border.tga",
-			["desaturate"] = false,
+			["icon"] = true,
 			["authorOptions"] = {
 			},
 		},
@@ -22726,18 +22726,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "Debuffs from Corruption",
+			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["selfPoint"] = "CENTER",
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["cooldownEdge"] = false,
+			["parent"] = "Debuffs from Corruption",
 			["auto"] = true,
 			["config"] = {
 			},
@@ -22755,13 +22761,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
+			["authorOptions"] = {
 			},
 		},
 		["Sluggish Potion(Heal)"] = {
@@ -22904,10 +22904,6 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["selfPoint"] = "CENTER",
-			["regionType"] = "icon",
-			["xOffset"] = -638.16662597656,
-			["parent"] = "8.3 Horrific Visions Chinese edition translated",
 			["actions"] = {
 				["start"] = {
 				},
@@ -22916,7 +22912,12 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["regionType"] = "icon",
+			["parent"] = "8.3 Horrific Visions Chinese edition translated",
+			["authorOptions"] = {
+			},
 			["url"] = "https://wago.io/23q54wiYR/10",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.9",
 			["config"] = {
 			},
@@ -22961,8 +22962,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["cooldown"] = true,
-			["authorOptions"] = {
-			},
+			["xOffset"] = -638.16662597656,
 		},
 		["T26 - 04 - Bowling"] = {
 			["controlledChildren"] = {
@@ -23127,7 +23127,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -23137,7 +23137,10 @@ WeakAurasSaved = {
 						["challenge"] = true,
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -23146,10 +23149,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
+				["use_zone"] = false,
 				["level"] = "100",
 				["use_level"] = false,
 				["size"] = {
@@ -23185,14 +23185,14 @@ WeakAurasSaved = {
 							"Greater Draenic Intellect Flask", -- [1]
 						},
 						["spellName"] = "Pummel",
-						["sourceName"] = "",
+						["type"] = "event",
 						["use_sourceUnit"] = false,
 						["spellIds"] = {
 						},
 						["use_cloneId"] = true,
 						["custom_hide"] = "timed",
-						["type"] = "event",
 						["use_sourceName"] = false,
+						["sourceName"] = "",
 						["subeventSuffix"] = "_CAST_SUCCESS",
 						["unevent"] = "timed",
 						["sourceFlags2"] = "Hostile",
@@ -23294,20 +23294,15 @@ WeakAurasSaved = {
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["displayStacks"] = "%c",
-			["sparkColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["sparkOffsetX"] = 0,
 			["borderInFront"] = false,
-			["config"] = {
-			},
+			["icon"] = true,
 			["icon_side"] = "LEFT",
 			["authorOptions"] = {
 			},
-			["spark"] = false,
+			["config"] = {
+			},
 			["sparkHeight"] = 30,
 			["sparkRotationMode"] = "AUTO",
 			["stacksContainment"] = "INSIDE",
@@ -23322,14 +23317,14 @@ WeakAurasSaved = {
 				},
 			},
 			["semver"] = "1.0.0",
-			["color"] = {
+			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
 			["sparkHidden"] = "NEVER",
-			["icon"] = true,
+			["spark"] = false,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["width"] = 30,
@@ -23345,7 +23340,12 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["id"] = "Warrior 2",
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Debuffs from Corruption"] = {
 			["grow"] = "RIGHT",
@@ -23425,6 +23425,35 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
+			["authorOptions"] = {
+			},
+			["animate"] = false,
+			["radius"] = 200,
+			["scale"] = 1,
+			["space"] = 3,
+			["border"] = false,
+			["borderEdge"] = "Square Full White",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "none",
+			["gridType"] = "RD",
+			["groupIcon"] = 2976761,
+			["constantFactor"] = "RADIUS",
+			["uid"] = "Xncw65LpUe3",
+			["borderOffset"] = 4,
+			["semver"] = "1.0.3",
+			["tocversion"] = 80300,
+			["id"] = "Debuffs from Corruption",
+			["gridWidth"] = 5,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["arcLength"] = 360,
+			["borderInset"] = 1,
+			["config"] = {
+			},
+			["stagger"] = 0,
+			["conditions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -23445,36 +23474,7 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["animate"] = false,
-			["authorOptions"] = {
-			},
-			["scale"] = 1,
 			["selfPoint"] = "LEFT",
-			["border"] = false,
-			["borderEdge"] = "Square Full White",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["sort"] = "none",
-			["gridType"] = "RD",
-			["space"] = 3,
-			["constantFactor"] = "RADIUS",
-			["uid"] = "Xncw65LpUe3",
-			["borderOffset"] = 4,
-			["semver"] = "1.0.3",
-			["tocversion"] = 80300,
-			["id"] = "Debuffs from Corruption",
-			["gridWidth"] = 5,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["arcLength"] = 360,
-			["borderInset"] = 1,
-			["config"] = {
-			},
-			["groupIcon"] = 2976761,
-			["conditions"] = {
-			},
-			["stagger"] = 0,
-			["radius"] = 200,
 		},
 	},
 	["registered"] = {

@@ -1240,14 +1240,6 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Warlockmania",
 			},
-			["Arnbjorn"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Arnbjorn",
-			},
 			["Hakkem"] = {
 				["overall"] = {
 				},
@@ -1255,6 +1247,14 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Hakkem",
 				["class"] = "DRUID",
+			},
+			["Scibolt"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Scibolt",
 			},
 			["Rathux"] = {
 				["class"] = "DEATHKNIGHT",
@@ -1288,13 +1288,13 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Versatillee-Mal'Ganis",
 			},
-			["Scibolt"] = {
-				["class"] = "WARLOCK",
+			["Arnbjorn"] = {
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Scibolt",
+				["name"] = "Arnbjorn",
 			},
 			["Wilwar"] = {
 				["deaths"] = {
@@ -1750,14 +1750,6 @@ DeathGraphsDBDeaths = {
 				["name"] = "Alyasta-Kil'jaeden",
 				["class"] = "PRIEST",
 			},
-			["Lyuneria"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lyuneria",
-				["class"] = "DEMONHUNTER",
-			},
 			["Illsong"] = {
 				["overall"] = {
 				},
@@ -1773,6 +1765,14 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Toshpriest",
 				["class"] = "PRIEST",
+			},
+			["Lyuneria"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Lyuneria",
+				["class"] = "DEMONHUNTER",
 			},
 			["Aethael"] = {
 				["overall"] = {
@@ -2316,14 +2316,6 @@ DeathGraphsDBDeaths = {
 			["killed"] = true,
 		},
 		["player_db"] = {
-			["Crippled-Kil'jaeden"] = {
-				["name"] = "Crippled-Kil'jaeden",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
 			["Emosong-Kil'jaeden"] = {
 				["class"] = "ROGUE",
 				["deaths"] = {
@@ -2331,6 +2323,14 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 				["name"] = "Emosong-Kil'jaeden",
+			},
+			["Woesong"] = {
+				["name"] = "Woesong",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
 			},
 			["Hakkem"] = {
 				["name"] = "Hakkem",
@@ -2364,9 +2364,9 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Woesong"] = {
-				["name"] = "Woesong",
-				["class"] = "WARLOCK",
+			["Crippled-Kil'jaeden"] = {
+				["name"] = "Crippled-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -3759,9 +3759,9 @@ DeathGraphsDBDeaths = {
 			["diff"] = 15,
 		},
 		["player_db"] = {
-			["Woesong"] = {
-				["name"] = "Woesong",
-				["class"] = "WARLOCK",
+			["Yuffio-Kil'jaeden"] = {
+				["name"] = "Yuffio-Kil'jaeden",
+				["class"] = "PRIEST",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -3791,17 +3791,17 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Yuffio-Kil'jaeden"] = {
-				["name"] = "Yuffio-Kil'jaeden",
-				["class"] = "PRIEST",
+			["Hakkem"] = {
+				["name"] = "Hakkem",
+				["class"] = "DRUID",
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
 			},
-			["Hakkem"] = {
-				["name"] = "Hakkem",
-				["class"] = "DRUID",
+			["Woesong"] = {
+				["name"] = "Woesong",
+				["class"] = "WARLOCK",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -20185,6 +20185,23 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
+	["237215"] = {
+		["deaths"] = {
+			[132] = {
+				1595988763, -- [1]
+			},
+			[130] = {
+				1598586725, -- [1]
+			},
+			[129] = {
+				1595988763, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
 	["236116"] = {
 		["deaths"] = {
 			[58] = {
@@ -20232,12 +20249,12 @@ DeathGraphsDBGraph = {
 			[187] = {
 				1597545590, -- [1]
 			},
+			[161] = {
+				1597545995, -- [1]
+			},
 			[192] = {
 				1597545296, -- [1]
 				1597546487, -- [2]
-			},
-			[50] = {
-				1597545590, -- [1]
 			},
 			[51] = {
 				1597544058, -- [1]
@@ -20251,8 +20268,8 @@ DeathGraphsDBGraph = {
 			[46] = {
 				1597543821, -- [1]
 			},
-			[161] = {
-				1597545995, -- [1]
+			[50] = {
+				1597545590, -- [1]
 			},
 			[282] = {
 				1597545296, -- [1]
@@ -20262,6 +20279,55 @@ DeathGraphsDBGraph = {
 			},
 			[42] = {
 				1597543821, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236615"] = {
+		["deaths"] = {
+			[96] = {
+				1595389386, -- [1]
+				1595389386, -- [2]
+			},
+			[85] = {
+				1595990075, -- [1]
+			},
+			[326] = {
+				1595990075, -- [1]
+			},
+			[97] = {
+				1595990075, -- [1]
+			},
+			[312] = {
+				1598588079, -- [1]
+			},
+			[217] = {
+				1595990075, -- [1]
+			},
+			[255] = {
+				1595389386, -- [1]
+			},
+			[36] = {
+				1595389386, -- [1]
+			},
+			[388] = {
+				1595389386, -- [1]
+			},
+			[202] = {
+				1598588079, -- [1]
+			},
+			[333] = {
+				1598588079, -- [1]
+			},
+			[307] = {
+				1598588079, -- [1]
+			},
+			[37] = {
+				1595990075, -- [1]
+				1598588079, -- [2]
 			},
 		},
 		["spells"] = {
@@ -20382,72 +20448,6 @@ DeathGraphsDBGraph = {
 			},
 			[50] = {
 				1596248850, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236615"] = {
-		["deaths"] = {
-			[96] = {
-				1595389386, -- [1]
-				1595389386, -- [2]
-			},
-			[85] = {
-				1595990075, -- [1]
-			},
-			[326] = {
-				1595990075, -- [1]
-			},
-			[97] = {
-				1595990075, -- [1]
-			},
-			[312] = {
-				1598588079, -- [1]
-			},
-			[217] = {
-				1595990075, -- [1]
-			},
-			[255] = {
-				1595389386, -- [1]
-			},
-			[36] = {
-				1595389386, -- [1]
-			},
-			[388] = {
-				1595389386, -- [1]
-			},
-			[202] = {
-				1598588079, -- [1]
-			},
-			[333] = {
-				1598588079, -- [1]
-			},
-			[307] = {
-				1598588079, -- [1]
-			},
-			[37] = {
-				1595990075, -- [1]
-				1598588079, -- [2]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237215"] = {
-		["deaths"] = {
-			[132] = {
-				1595988763, -- [1]
-			},
-			[130] = {
-				1598586725, -- [1]
-			},
-			[129] = {
-				1595988763, -- [1]
 			},
 		},
 		["spells"] = {
@@ -21322,8 +21322,8 @@ DeathGraphsDBGraph = {
 			[137] = {
 				1596853088, -- [1]
 			},
-			[118] = {
-				1597459412, -- [1]
+			[171] = {
+				1598673818, -- [1]
 			},
 			[18] = {
 				1597458263, -- [1]
@@ -21334,8 +21334,8 @@ DeathGraphsDBGraph = {
 			[144] = {
 				1598069509, -- [1]
 			},
-			[30] = {
-				1596852828, -- [1]
+			[118] = {
+				1597459412, -- [1]
 			},
 			[36] = {
 				1597458263, -- [1]
@@ -21369,8 +21369,8 @@ DeathGraphsDBGraph = {
 				1597458263, -- [1]
 				1597458263, -- [2]
 			},
-			[171] = {
-				1598673818, -- [1]
+			[30] = {
+				1596852828, -- [1]
 			},
 			[53] = {
 				1598673818, -- [1]
