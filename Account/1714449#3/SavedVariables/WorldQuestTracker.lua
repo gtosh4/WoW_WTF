@@ -16,6 +16,24 @@ WQTrackerDB = {
 				["summary_showbyzone"] = false,
 			},
 			["history"] = {
+				["quest"] = {
+					["global"] = {
+						["total"] = 4,
+						[57540] = 1,
+						[56163] = 1,
+						[56074] = 1,
+						[51051] = 1,
+					},
+					["character"] = {
+						["Player-3676-0AD945E6"] = {
+							["total"] = 4,
+							[57540] = 1,
+							[56163] = 1,
+							[56074] = 1,
+							[51051] = 1,
+						},
+					},
+				},
 				["period"] = {
 					["global"] = {
 						["200808"] = {
@@ -46,24 +64,6 @@ WQTrackerDB = {
 						},
 					},
 				},
-				["quest"] = {
-					["global"] = {
-						["total"] = 4,
-						[57540] = 1,
-						[56163] = 1,
-						[56074] = 1,
-						[51051] = 1,
-					},
-					["character"] = {
-						["Player-3676-0AD945E6"] = {
-							["total"] = 4,
-							[57540] = 1,
-							[56163] = 1,
-							[56074] = 1,
-							[51051] = 1,
-						},
-					},
-				},
 				["reward"] = {
 					["global"] = {
 						["artifact"] = 164,
@@ -82,113 +82,89 @@ WQTrackerDB = {
 			["anchor_options"] = {
 				[863] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[895] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[942] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[14] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[875] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[862] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[864] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[896] = {
-					["Enabled"] = true,
-					["TextColor"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0.2, -- [3]
-						0.854, -- [4]
-					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
-				},
-				[1165] = {
-					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
-					["TextColor"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0.2, -- [3]
-						0.854, -- [4]
-					},
-				},
-				[876] = {
 					["Enabled"] = true,
 					["YOffset"] = 0,
 					["Alpha"] = 1,
@@ -202,41 +178,70 @@ WQTrackerDB = {
 				},
 				[1355] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[876] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[1165] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 			},
 			["quests_tracked"] = {
-				["Player-3676-0AD945E6"] = {
-				},
 				["Player-3676-0AD945D6"] = {
+				},
+				["Player-3676-0AD945E6"] = {
 				},
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
 					[55466] = {
-						["expireAt"] = 1598972457,
+						["expireAt"] = 1598972434,
 						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[58742] = {
+						["expireAt"] = 1598972434,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 133675,
 					},
 				},
 			},
 			["player_names"] = {
-				["Player-3676-0AD945E6"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Area 52",
-				},
 				["Player-3676-0AD945D6"] = {
 					["class"] = "SHAMAN",
 					["name"] = "Toshaman",
+					["realm"] = "Area 52",
+				},
+				["Player-3676-0AD945E6"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
 					["realm"] = "Area 52",
 				},
 			},
@@ -259,16 +264,16 @@ WQTrackerDB = {
 					["Racha-mundos Skuul"] = 127118,
 					["Theurgist Nitara"] = 155836,
 					["Goldenvein"] = 140769,
-					["失控的机械兽"] = 151933,
-					["Blistermaw"] = 122958,
-					["Foul Manifestation"] = 151202,
-					["Shiz'narasz el consumidor"] = 153658,
-					["Matriarca de escamas Gratinax"] = 152548,
-					["Malfunctioning Beastbot"] = 151933,
-					["Armored Vaultbot"] = 154968,
-					["Shiz'narasz the Consumer"] = 153658,
-					["Arachnoid Harvester"] = 151934,
 					["Lieutenant Xakaar"] = 126254,
+					["Arachnoid Harvester"] = 151934,
+					["Shiz'narasz the Consumer"] = 153658,
+					["Shiz'narasz el consumidor"] = 153658,
+					["Malfunctioning Beastbot"] = 151933,
+					["Matriarca de escamas Gratinax"] = 152548,
+					["Armored Vaultbot"] = 154968,
+					["Foul Manifestation"] = 151202,
+					["Blistermaw"] = 122958,
+					["失控的机械兽"] = 151933,
 					["Elder Unu"] = 152414,
 					["Guardian Tannin"] = 152736,
 				},

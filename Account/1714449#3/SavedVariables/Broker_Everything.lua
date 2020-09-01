@@ -1,5 +1,6 @@
 
 Broker_Everything_DataDB = {
+	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -22,7 +23,6 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
-	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
 	["order"] = {
@@ -31,10 +31,7 @@ Broker_Everything_CharacterDB = {
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
+		["orderId"] = 1,
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
@@ -65,15 +62,18 @@ Broker_Everything_CharacterDB = {
 		},
 		["level"] = 120,
 		["gold"] = 10753845943,
-		["orderId"] = 1,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 	},
 	["Toshaman-Area 52"] = {
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
 		["orderId"] = 2,
-		["class"] = "SHAMAN",
 		["level"] = 120,
+		["class"] = "SHAMAN",
 	},
 }
 Broker_Everything_AceDB = {
