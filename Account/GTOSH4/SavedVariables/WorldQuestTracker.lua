@@ -24,6 +24,28 @@ WQTrackerDB = {
 				["summary_showbyzone"] = false,
 			},
 			["rarescan"] = {
+				["recently_spotted"] = {
+					[142508] = {
+						1599012429, -- [1]
+						1163, -- [2]
+						0.2739987969398499, -- [3]
+						0.3002712726593018, -- [4]
+						"Creature-0-0000-0000-00000-142508-0000000000", -- [5]
+						"Branchlord Aldrus", -- [6]
+						"Aethael", -- [7]
+						1599012429, -- [8]
+					},
+					[141615] = {
+						1599012485, -- [1]
+						14, -- [2]
+						0.3716472983360291, -- [3]
+						0.4045996069908142, -- [4]
+						"Creature-0-0000-0000-00000-141615-0000000000", -- [5]
+						"Burning Goliath", -- [6]
+						"Aethael", -- [7]
+						1599012485, -- [8]
+					},
+				},
 				["recently_killed"] = {
 					["Player-3676-0AD8DD4D"] = {
 					},
@@ -233,16 +255,6 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
-					[55466] = {
-						["expireAt"] = 1598972453,
-						["rewardAmount"] = 750,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[58748] = {
-						["expireAt"] = 1598886054,
-						["rewardAmount"] = "17",
-						["rewardTexture"] = 133675,
-					},
 				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {

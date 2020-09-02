@@ -24,3 +24,4 @@ PitBull4: disabled
 ToshUnitFrames: disabled
 BigWigs_Voice: enabled
 BigWigs_EternalPalace: enabled
+LittleWigs: enabled

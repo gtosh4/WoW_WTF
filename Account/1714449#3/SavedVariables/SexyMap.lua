@@ -1,7 +1,5 @@
 
 SexyMap2DB = {
-	["presets"] = {
-	},
 	["Toshpriest-Area 52"] = "global",
 	["global"] = {
 		["ping"] = {
@@ -116,20 +114,20 @@ SexyMap2DB = {
 				["LibDBIcon10_BugSack"] = "never",
 				["LibDBIcon10_Leatrix_Plus"] = "never",
 				["MiniMapMailFrame"] = "always",
-				["LibDBIcon10_Gold"] = "never",
+				["GarrisonLandingPageMinimapButton"] = "hover",
 				["MinimapZoomIn"] = "never",
 				["MinimapZoneTextButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "hover",
+				["MiniMapTracking"] = "never",
 				["LibDBIcon10_Difficulty"] = "never",
-				["TimeManagerClockButton"] = "never",
+				["MiniMapWorldMapButton"] = "never",
 				["GameTimeFrame"] = "never",
 				["LibDBIcon10_Dominos"] = "never",
-				["LibDBIcon10_Equipment"] = "never",
+				["TimeManagerClockButton"] = "never",
 				["MinimapZoomOut"] = "never",
 				["LibDBIcon10_Bags"] = "never",
-				["MiniMapWorldMapButton"] = "never",
+				["LibDBIcon10_Equipment"] = "never",
 				["LibDBIcon10_Guild"] = "never",
-				["MiniMapTracking"] = "never",
+				["LibDBIcon10_Gold"] = "never",
 				["LibDBIcon10_GPS"] = "never",
 				["GuildInstanceDifficulty"] = "hover",
 				["MiniMapInstanceDifficulty"] = "never",
@@ -146,6 +144,8 @@ SexyMap2DB = {
 			},
 			["controlVisibility"] = true,
 		},
+	},
+	["presets"] = {
 	},
 	["Toshaman-Area 52"] = "global",
 }

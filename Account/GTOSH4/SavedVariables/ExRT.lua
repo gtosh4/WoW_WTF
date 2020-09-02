@@ -217,6 +217,20 @@ VExRT = {
 				"^2337^16^1598849471^328^0^20^477.79^Tianarrae-Kil'jaeden", -- [190]
 				"^2337^16^1598849912^425^0^20^477.33^Tianarrae-Kil'jaeden", -- [191]
 				"^2337^16^1598850486^433^0^20^477.29^Tianarrae-Kil'jaeden", -- [192]
+				"^2290^23^1599008813^36^1^5^478.94^", -- [193]
+				"^2292^23^1599008923^26^1^5^478.94^", -- [194]
+				"^2312^23^1599009006^38^1^5^478.94^", -- [195]
+				"^2291^23^1599009123^72^1^5^478.94^", -- [196]
+				"^2257^23^1599009262^51^1^5^478.94^", -- [197]
+				"^2258^23^1599009389^31^1^5^478.94^", -- [198]
+				"^2290^23^1599009807^30^1^5^481.72^", -- [199]
+				"^2292^23^1599010073^20^1^5^481.72^", -- [200]
+				"^2312^23^1599010127^47^1^5^481.72^", -- [201]
+				"^2291^23^1599010239^66^1^5^481.72^", -- [202]
+				"^2257^23^1599010379^50^1^5^481.72^", -- [203]
+				"^2258^23^1599010497^32^1^5^481.72^", -- [204]
+				"^2259^23^1599010693^22^1^5^481.72^", -- [205]
+				"^2260^23^1599010903^100^1^5^481.72^", -- [206]
 			},
 			["Toshaman"] = {
 			},
@@ -240,6 +254,11 @@ VExRT = {
 				"^2344^15^1598588217^544^1^21^464.98^Toshdruid", -- [13]
 			},
 			["Toshdk"] = {
+				"^2292^8^1598993917^72^1^5^475.80^", -- [1]
+				"^2312^8^1598994305^68^1^5^475.80^Siimbba-Area52", -- [2]
+				"^2290^8^1598994839^85^1^5^475.80^", -- [3]
+				"^2291^8^1598995172^49^0^5^475.80^Toshdk", -- [4]
+				"^2291^8^1598995295^124^1^5^475.80^", -- [5]
 			},
 			["Toshlongboyr"] = {
 			},
@@ -407,12 +426,16 @@ VExRT = {
 			["Khodiie-Kil'jaeden"] = 71,
 			["Jnlia-Illidan"] = 63,
 			["Diao-WyrmrestAccord"] = 260,
+			["Siimbba-Area52"] = 72,
+			["Epicdemic-Hyjal"] = 252,
+			["Sán-Kil'jaeden"] = 253,
 			["Bigezdh-Thrall"] = 577,
+			["Lyuneria-Area52"] = 577,
 			["Minipewpew-Illidan"] = 253,
 			["Jjunee-Tichondrius"] = 63,
 			["Haxpax-Kil'jaeden"] = 256,
 			["Wilwar"] = 72,
-			["Sán-Kil'jaeden"] = 253,
+			["Daemoñ"] = 251,
 			["Zabiroo-Illidan"] = 253,
 			["Executør-Illidan"] = 73,
 			["Yarilys-Kil'jaeden"] = 253,
@@ -421,22 +444,22 @@ VExRT = {
 			["Mordpriest-Kil'jaeden"] = 258,
 			["Oxclamation"] = 102,
 			["Radriar-Kil'jaeden"] = 71,
-			["Bogarn-Kil'jaeden"] = 102,
-			["Daemoñ"] = 251,
+			["Yêsterday-Illidan"] = 261,
+			["Kahara-Garona"] = 73,
 			["Pier"] = 267,
 			["Evandh-Illidan"] = 581,
 			["Illiken-Kil'jaeden"] = 577,
 			["Khal-Kil'jaeden"] = 71,
 			["Andruw"] = 577,
-			["Yêsterday-Illidan"] = 261,
-			["Kahara-Garona"] = 73,
+			["Bogarn-Kil'jaeden"] = 102,
+			["Yuffa"] = 257,
 			["Mitchconner-Kil'jaeden"] = 577,
-			["Itsyellowy"] = 257,
-			["Nomameswey"] = 71,
-			["Jarrbek-Kil'jaeden"] = 262,
 			["Toshlongboy"] = 256,
+			["Nomameswey"] = 71,
 			["Fierypower-Kil'jaeden"] = 267,
+			["Itsyellowy"] = 257,
 			["Hakkem"] = 102,
+			["Jarrbek-Kil'jaeden"] = 262,
 			["Bigbf-Hyjal"] = 259,
 			["Toshpal"] = 65,
 			["Haschwàlth-Ragnaros"] = 71,
@@ -446,33 +469,33 @@ VExRT = {
 			["Leafyo"] = 105,
 			["Fistsofkai-Zul'jin"] = 269,
 			["Illestt-Barthilas"] = 252,
-			["Myss-Tichondrius"] = 63,
-			["Illestchi-Barthilas"] = 269,
 			["Emosong-Kil'jaeden"] = 260,
+			["Illestchi-Barthilas"] = 269,
 			["Sachomatic-Tichondrius"] = 253,
+			["Race"] = 260,
 			["Nuwance-Azralon"] = 253,
 			["Baesong-Kil'jaeden"] = 71,
 			["Agg-Area52"] = 63,
 			["Eau"] = 102,
-			["Race"] = 260,
 			["Ancestràl-Kil'jaeden"] = 264,
 			["Solvèj"] = 259,
+			["Myss-Tichondrius"] = 63,
 			["Zanlet-Illidan"] = 63,
-			["Yuffa-Kil'jaeden"] = 258,
-			["Numberz"] = 70,
 			["Grundhar-Illidan"] = 73,
-			["Kwysea-KulTiras"] = 577,
-			["Sis-Arthas"] = 267,
+			["Numberz"] = 70,
+			["Yuffa-Kil'jaeden"] = 258,
+			["Haiyue-Illidan"] = 257,
+			["Unhealable"] = 268,
 			["Zéphýr-Illidan"] = 577,
 			["Xanthrel-Stormscale"] = 577,
-			["Unhealable"] = 268,
 			["Felside-Kil'jaeden"] = 577,
-			["Neyari"] = 70,
-			["Smytt"] = 253,
 			["Peenorious-Mal'Ganis"] = 71,
+			["Neyari"] = 70,
+			["Sis-Arthas"] = 267,
+			["Smytt"] = 253,
 			["Splendiferus-Kil'jaeden"] = 577,
+			["Dëvotion-Barthilas"] = 257,
 			["Csbwhen-Uldum"] = 577,
-			["Epicdemic-Hyjal"] = 252,
 			["Yorman"] = 105,
 			["Nippybust-Illidan"] = 63,
 			["Zanzir-Illidan"] = 253,
@@ -482,8 +505,8 @@ VExRT = {
 			["Remal-Quel'Thalas"] = 72,
 			["Candymán-Illidan"] = 267,
 			["Sageside-Kil'jaeden"] = 63,
-			["Thsdawarrior-Spirestone"] = 73,
 			["Ricksstudent-Mal'Ganis"] = 270,
+			["Arteoculto-Quel'Thalas"] = 253,
 			["Toshaman"] = 264,
 			["Yelluwuy"] = 256,
 			["Singsòng-Zul'jin"] = 269,
@@ -492,28 +515,27 @@ VExRT = {
 			["Delpix-Tichondrius"] = 577,
 			["Daedalis-Kil'jaeden"] = 253,
 			["Karasama-Kel'Thuzad"] = 66,
-			["Hunterscurse-Eonar"] = 577,
+			["Ozdevil-Barthilas"] = 72,
 			["Ulquiørrã"] = 581,
 			["Yuffio-Kil'jaeden"] = 257,
 			["Zepoz-Garona"] = 63,
-			["Bavhi"] = 72,
-			["Rivalry"] = 577,
 			["Lexxee-Malorne"] = 262,
+			["Artsong"] = 253,
 			["Agg"] = 63,
 			["Paxington-Illidan"] = 253,
-			["Artsong"] = 253,
 			["Amaleana"] = 102,
+			["Bavhi"] = 72,
 			["Twodaggers-Tichondrius"] = 259,
 			["Shankntwist-BleedingHollow"] = 259,
-			["Ozdevil-Barthilas"] = 72,
+			["Hunterscurse-Eonar"] = 577,
 			["Goffee-Kil'jaeden"] = 267,
-			["Arteoculto-Quel'Thalas"] = 253,
 			["Neenong-WyrmrestAccord"] = 70,
+			["Pier-Area52"] = 267,
 			["Turbolok-BleedingHollow"] = 267,
 			["Evojai-Mal'Ganis"] = 267,
 			["Brutang-Kil'jaeden"] = 252,
-			["Dëvotion-Barthilas"] = 257,
-			["Haiyue-Illidan"] = 257,
+			["Thsdawarrior-Spirestone"] = 73,
+			["Kwysea-KulTiras"] = 577,
 			["Delpih"] = 253,
 			["Unkindlëd-Illidan"] = 265,
 			["Baylesstv-Kil'jaeden"] = 103,
@@ -535,7 +557,7 @@ VExRT = {
 			["Babyhnter-Tichondrius"] = 253,
 			["Woesong"] = 267,
 			["Scitron"] = 264,
-			["Toshdk"] = 252,
+			["Toshdk"] = 250,
 			["Smoldogqq"] = 267,
 			["Scoobytanks-Zul'jin"] = 250,
 			["Hoofalo-Kil'jaeden"] = 250,
@@ -1010,13 +1032,13 @@ VExRT = {
 		["timeToKillAnalyze"] = 15,
 	},
 	["Addon"] = {
-		["Timer"] = 0.1,
-		["Version"] = 4170,
-		["IconMiniMapHide"] = true,
 		["Scale"] = 1,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["IconMiniMapLeft"] = -43.8422319805596,
+		["Version"] = 4170,
 		["PreVersion"] = 4170,
+		["IconMiniMapLeft"] = -43.8422319805596,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["IconMiniMapHide"] = true,
+		["Timer"] = 0.1,
 	},
 	["WhoPulled"] = {
 	},
@@ -1049,18 +1071,17 @@ VExRT = {
 		["Width"] = 293.3335571289063,
 		["BlackLastUpdateName"] = {
 		},
-		["Top"] = 550.83349609375,
 		["Black"] = {
 			"", -- [1]
 			"", -- [2]
 			"", -- [3]
 		},
-		["FontName"] = "Fonts\\FRIZQT___CYR.TTF",
+		["Top"] = 550.83349609375,
 		["Height"] = 374.1664428710938,
+		["FontName"] = "Fonts\\FRIZQT___CYR.TTF",
 		["FontSize"] = 12,
 		["BlackLastUpdateTime"] = {
 		},
-		["enabled"] = true,
 	},
 	["RaidCheck"] = {
 		["ReadyCheckFrameOnlyRL"] = true,

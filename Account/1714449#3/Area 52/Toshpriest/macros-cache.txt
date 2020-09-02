@@ -29,7 +29,7 @@ VER 3 0100000000000005 "ps" "INV_Misc_QuestionMark"
 END
 VER 3 0100000000000006 "purify" "INV_Misc_QuestionMark"
 #showtooltip Purify
-/cast [spec:1,@mouseover,noharm] Purify
+/cast [@mouseover,noharm] Purify
 END
 VER 3 0100000000000003 "pwr" "INV_Misc_QuestionMark"
 #showtooltip [spec:1] Power Word: Radiance; [spec:2] Holy Word: Sanctify

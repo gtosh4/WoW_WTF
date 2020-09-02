@@ -32,6 +32,14 @@ CliqueDB3 = {
 			["spec4_profileKey"] = "Toshdruid - Area 52",
 			["alerthidden"] = true,
 		},
+		["Toshdk - Kil'jaeden"] = {
+			["spec1_profileKey"] = "Toshdk - Kil'jaeden",
+			["spec2_profileKey"] = "Toshdk - Kil'jaeden",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec3_profileKey"] = "Toshdk - Kil'jaeden",
+			["specswap"] = false,
+		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["spec1_profileKey"] = "Toshlongboy - Eldre'Thalas",
 			["spec2_profileKey"] = "Toshlongboy - Eldre'Thalas",
@@ -71,20 +79,12 @@ CliqueDB3 = {
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-				{
 					["type"] = "menu",
 					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [3]
+				}, -- [2]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -92,15 +92,15 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [4]
+				}, -- [3]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [5]
+				}, -- [4]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -108,11 +108,19 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [6]
+				}, -- [5]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
 					["key"] = "ALT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [6]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},

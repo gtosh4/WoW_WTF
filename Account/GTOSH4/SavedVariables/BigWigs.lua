@@ -28,6 +28,8 @@ BigWigs3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
+		["BigWigs_Bosses_K.U.-J.0."] = {
+		},
 		["BigWigs_Bosses_Vexiona"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -106,6 +108,8 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Victory"] = {
 		},
+		["BigWigs_Bosses_Machinist's Garden"] = {
+		},
 		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -131,6 +135,15 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[260333] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Gunker"] = {
+		},
+		["BigWigs_Bosses_Unbound Abomination"] = {
+			["profiles"] = {
+				["Default"] = {
+					[269843] = 3129591,
 				},
 			},
 		},
@@ -189,12 +202,16 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Adderis and Aspix"] = {
+		["BigWigs_Bosses_Viq'Goth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[263257] = 3129591,
+					[275014] = 3129591,
 				},
 			},
+		},
+		["BigWigs_Bosses_Operation: Mechagon Trash"] = {
+		},
+		["BigWigs_Bosses_Trixie & Naeno"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
@@ -210,10 +227,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Viq'Goth"] = {
+		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
 				["Default"] = {
-					[275014] = 3129591,
+					[259732] = 3129591,
 				},
 			},
 		},
@@ -224,28 +241,22 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
-					[255371] = 3129591,
+					[263257] = 3129591,
 				},
 			},
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
-			["profiles"] = {
-				["Default"] = {
-					[269843] = 3129591,
-				},
-			},
+		["BigWigs_Bosses_King Gobbamak"] = {
 		},
-		["BigWigs_Bosses_Council o' Captains"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
 				["Default"] = {
-					[258381] = 3129591,
-					[256979] = 3129591,
-					[258338] = 3129591,
+					["posx"] = 513.6001447701419,
+					["posy"] = 154.133307101727,
 				},
 			},
 		},
@@ -355,24 +366,25 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Rezan"] = {
+			["profiles"] = {
+				["Default"] = {
+					[255371] = 3129591,
+				},
+			},
+		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
+		["BigWigs_Bosses_Council o' Captains"] = {
+			["profiles"] = {
+				["Default"] = {
+					[258381] = 3129591,
+					[256979] = 3129591,
+					[258338] = 3129591,
+				},
+			},
+		},
 		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 513.6001447701419,
-					["posy"] = 154.133307101727,
-				},
-			},
-		},
-		["BigWigs_Bosses_Sporecaller Zancha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[259732] = 3129591,
-				},
-			},
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -406,6 +418,7 @@ BigWigs3DB = {
 	["wipe80"] = true,
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},

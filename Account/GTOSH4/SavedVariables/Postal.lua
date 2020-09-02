@@ -39,7 +39,8 @@ Postal3DB = {
 		["Toshpal - Area 52"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshpriest|Area 52|Horde", -- [1]
+					"Toshaman|Area 52|Horde", -- [1]
+					"Toshpriest|Area 52|Horde", -- [2]
 				},
 			},
 		},

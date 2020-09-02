@@ -221,15 +221,60 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[55466] = {
-						["expireAt"] = 1598972434,
-						["rewardAmount"] = 750,
+					[54060] = {
+						["expireAt"] = 1599058815,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 237368,
+					},
+					[52779] = {
+						["expireAt"] = 1599058895,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 2004597,
+					},
+					[50545] = {
+						["expireAt"] = 1599030095,
+						["rewardAmount"] = 175,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[58742] = {
-						["expireAt"] = 1598972434,
-						["rewardAmount"] = "19",
-						["rewardTexture"] = 133675,
+					[52884] = {
+						["expireAt"] = 1599058835,
+						["rewardAmount"] = 232,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51642] = {
+						["expireAt"] = 1599058875,
+						["rewardAmount"] = "|cff2292FF410",
+						["rewardTexture"] = 2565093,
+					},
+					[50689] = {
+						["expireAt"] = 1599058895,
+						["rewardAmount"] = "|cff2292FF420",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[50547] = {
+						["expireAt"] = 1599058815,
+						["rewardAmount"] = "|cff2292FF420",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
+					},
+					[50885] = {
+						["expireAt"] = 1599058875,
+						["rewardAmount"] = 186,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52858] = {
+						["expireAt"] = 1599058875,
+						["rewardAmount"] = 254,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50571] = {
+						["expireAt"] = 1599030015,
+						["rewardAmount"] = "|cff2292FF410",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
+					},
+					[51415] = {
+						["expireAt"] = 1599058835,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = 2201832,
 					},
 				},
 			},
@@ -257,6 +302,7 @@ WQTrackerDB = {
 					["Golrakahn"] = 124185,
 					["Ancião Unu"] = 152414,
 					["OOX-Avenger/MG"] = 151296,
+					["Thundering Goliath"] = 141616,
 					["Boggac Skullbash"] = 151308,
 					["High Warlord Volrath"] = 143536,
 					["Umbra'jin"] = 122004,
