@@ -15,11 +15,11 @@ CliqueDB3 = {
 		},
 		["Toshaman - Area 52"] = {
 			["spec1_profileKey"] = "Toshaman - Area 52",
-			["spec2_profileKey"] = "Toshaman - Area 52",
+			["spec3_profileKey"] = "Toshaman - Area 52",
 			["downclick"] = true,
 			["fastooc"] = false,
 			["specswap"] = false,
-			["spec3_profileKey"] = "Toshaman - Area 52",
+			["spec2_profileKey"] = "Toshaman - Area 52",
 		},
 	},
 	["profileKeys"] = {
@@ -30,10 +30,10 @@ CliqueDB3 = {
 		["Toshpriest - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -97,10 +97,10 @@ CliqueDB3 = {
 		["Toshaman - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

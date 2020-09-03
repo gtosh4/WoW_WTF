@@ -5,7 +5,136 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Queen Azshara",
 		["id"] = 2361,
-		["diff"] = 16,
+		["player_db"] = {
+			["Arnbjorn"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Arnbjorn",
+				["overall"] = {
+				},
+			},
+			["Eau-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Eau-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Evanpal"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Evanpal",
+				["overall"] = {
+				},
+			},
+			["Oxclamation"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Oxclamation",
+				["overall"] = {
+				},
+			},
+			["Itsyellowy"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Itsyellowy",
+				["overall"] = {
+				},
+			},
+			["Delpi"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Delpi",
+				["overall"] = {
+				},
+			},
+			["Andruw"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Andruw",
+				["overall"] = {
+				},
+			},
+			["Toshaman"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Toshaman",
+				["overall"] = {
+				},
+			},
+			["Papatranq-Mal'Ganis"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Papatranq-Mal'Ganis",
+				["overall"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Yukios-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Durantye"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Durantye",
+				["overall"] = {
+				},
+			},
+			["Numberz"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Numberz",
+				["overall"] = {
+				},
+			},
+			["Royalty"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Royalty",
+				["overall"] = {
+				},
+			},
+			["Shallow"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Shallow",
+				["overall"] = {
+				},
+			},
+			["Scitama-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Scitama-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Paxington-Illidan"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Paxington-Illidan",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
 			["index"] = 8,
@@ -14,140 +143,11 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2164,
 			["try_number"] = 1,
 			["name"] = "Queen Azshara",
-			["encounter"] = "Queen Azshara",
-			["ej_instance_id"] = 1179,
 			["diff"] = 16,
+			["ej_instance_id"] = 1179,
+			["encounter"] = "Queen Azshara",
 		},
-		["player_db"] = {
-			["Numberz"] = {
-				["name"] = "Numberz",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Eau-Kil'jaeden"] = {
-				["name"] = "Eau-Kil'jaeden",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Evanpal"] = {
-				["name"] = "Evanpal",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Oxclamation"] = {
-				["name"] = "Oxclamation",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Itsyellowy"] = {
-				["name"] = "Itsyellowy",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Scitama-Kil'jaeden"] = {
-				["name"] = "Scitama-Kil'jaeden",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Paxington-Illidan"] = {
-				["name"] = "Paxington-Illidan",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Toshaman"] = {
-				["name"] = "Toshaman",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Papatranq-Mal'Ganis"] = {
-				["name"] = "Papatranq-Mal'Ganis",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Yukios-Kil'jaeden"] = {
-				["name"] = "Yukios-Kil'jaeden",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Durantye"] = {
-				["name"] = "Durantye",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Andruw"] = {
-				["name"] = "Andruw",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Royalty"] = {
-				["name"] = "Royalty",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Shallow"] = {
-				["name"] = "Shallow",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Delpi"] = {
-				["name"] = "Delpi",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Arnbjorn"] = {
-				["name"] = "Arnbjorn",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 16,
 	},
 }
 DeathGraphsDBEndurance = {
@@ -156,44 +156,32 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Queen Azshara",
 		["id"] = 2361,
-		["diff"] = 16,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 8,
-			["zone"] = "The Eternal Palace",
-			["id"] = 2299,
-			["mapid"] = 2164,
-			["try_number"] = 1,
-			["name"] = "Queen Azshara",
-			["encounter"] = "Queen Azshara",
-			["ej_instance_id"] = 1179,
-			["diff"] = 16,
-		},
 		["player_db"] = {
 			["Oxclamation"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
 			["Itsyellowy"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Thunderrz"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Royalty"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -201,11 +189,11 @@ DeathGraphsDBEndurance = {
 						"Arcane Jolt |cFFFF3333369,604|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
 			["Yukios-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 180,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -218,11 +206,11 @@ DeathGraphsDBEndurance = {
 						"Sanction (DoT) |cFFFF333353,130|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "SHAMAN",
 			},
 			["Durantye"] = {
 				["encounters"] = 3,
 				["points"] = 270,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -235,60 +223,60 @@ DeathGraphsDBEndurance = {
 						"Arcane Burst |cFFFF3333355,120|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "PRIEST",
 			},
 			["Numberz"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Shallow"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Eau-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
 			["Evanpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Paxington-Illidan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Toshaman"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Papatranq-Mal'Ganis"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -296,51 +284,63 @@ DeathGraphsDBEndurance = {
 						"Sanction (DoT) |cFFFF3333209,723|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DRUID",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Judaasx"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["deaths"] = {
-				},
 				["class"] = "WARLOCK",
-			},
-			["Andruw"] = {
-				["encounters"] = 2,
-				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Scitama-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Arnbjorn"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
 			},
 			["Choplo"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
+			},
+			["Arnbjorn"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Scitama-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 200,
 				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Andruw"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 8,
+			["zone"] = "The Eternal Palace",
+			["id"] = 2299,
+			["mapid"] = 2164,
+			["try_number"] = 1,
+			["name"] = "Queen Azshara",
+			["diff"] = 16,
+			["ej_instance_id"] = 1179,
+			["encounter"] = "Queen Azshara",
+		},
+		["diff"] = 16,
 	},
 }
 DeathGraphsDBCurrent = {
@@ -350,9 +350,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 455734,
 				["timeofdeath"] = 188.9139999998733,
 				["name"] = "Yukios-Kil'jaeden",
-				["time"] = 1597544790.541,
-				["class"] = "SHAMAN",
-				["timestring"] = "3m 8s",
 				["events"] = {
 					{
 						2, -- [1]
@@ -755,14 +752,14 @@ DeathGraphsDBCurrent = {
 						"Yukios-Kil'jaeden", -- [6]
 					}, -- [34]
 				},
+				["class"] = "SHAMAN",
+				["timestring"] = "3m 8s",
+				["time"] = 1597544790.541,
 			}, -- [1]
 			{
 				["maxhealth"] = 533400,
 				["timeofdeath"] = 194.8839999998454,
 				["name"] = "Papatranq-Mal'Ganis",
-				["time"] = 1597544796.511,
-				["class"] = "DRUID",
-				["timestring"] = "3m 14s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -1155,14 +1152,14 @@ DeathGraphsDBCurrent = {
 						"Papatranq-Mal'Ganis", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DRUID",
+				["timestring"] = "3m 14s",
+				["time"] = 1597544796.511,
 			}, -- [2]
 			{
 				["maxhealth"] = 776500,
 				["timeofdeath"] = 232.0389999998733,
 				["name"] = "Royalty",
-				["time"] = 1597544833.666,
-				["class"] = "PALADIN",
-				["timestring"] = "3m 52s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -1557,14 +1554,14 @@ DeathGraphsDBCurrent = {
 						"Royalty", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "3m 52s",
+				["time"] = 1597544833.666,
 			}, -- [3]
 			{
 				["maxhealth"] = 348378,
 				["timeofdeath"] = 251.8719999999739,
 				["name"] = "Toshaman",
-				["time"] = 1597544853.499,
-				["class"] = "SHAMAN",
-				["timestring"] = "4m 11s",
 				["events"] = {
 					{
 						4, -- [1]
@@ -1959,14 +1956,14 @@ DeathGraphsDBCurrent = {
 						"Toshaman", -- [6]
 					}, -- [33]
 				},
+				["class"] = "SHAMAN",
+				["timestring"] = "4m 11s",
+				["time"] = 1597544853.499,
 			}, -- [4]
 			{
 				["maxhealth"] = 285262,
 				["timeofdeath"] = 253.1359999999404,
 				["name"] = "Paxington-Illidan",
-				["time"] = 1597544854.763,
-				["class"] = "HUNTER",
-				["timestring"] = "4m 13s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -2361,14 +2358,14 @@ DeathGraphsDBCurrent = {
 						"Paxington-Illidan", -- [6]
 					}, -- [33]
 				},
+				["class"] = "HUNTER",
+				["timestring"] = "4m 13s",
+				["time"] = 1597544854.763,
 			}, -- [5]
 			{
 				["maxhealth"] = 457750,
 				["timeofdeath"] = 253.1969999999274,
 				["name"] = "Arnbjorn",
-				["time"] = 1597544854.824,
-				["class"] = "MAGE",
-				["timestring"] = "4m 13s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -2763,14 +2760,14 @@ DeathGraphsDBCurrent = {
 						"Arnbjorn", -- [6]
 					}, -- [33]
 				},
+				["class"] = "MAGE",
+				["timestring"] = "4m 13s",
+				["time"] = 1597544854.824,
 			}, -- [6]
 			{
 				["maxhealth"] = 505940,
 				["timeofdeath"] = 254.0439999999944,
 				["name"] = "Eau-Kil'jaeden",
-				["time"] = 1597544855.671,
-				["class"] = "DRUID",
-				["timestring"] = "4m 14s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3165,14 +3162,14 @@ DeathGraphsDBCurrent = {
 						"Eau-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DRUID",
+				["timestring"] = "4m 14s",
+				["time"] = 1597544855.671,
 			}, -- [7]
 			{
 				["maxhealth"] = 325788,
 				["timeofdeath"] = 254.0439999999944,
 				["name"] = "Delpi",
-				["time"] = 1597544855.671,
-				["class"] = "MAGE",
-				["timestring"] = "4m 14s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3567,14 +3564,14 @@ DeathGraphsDBCurrent = {
 						"Delpi", -- [6]
 					}, -- [33]
 				},
+				["class"] = "MAGE",
+				["timestring"] = "4m 14s",
+				["time"] = 1597544855.671,
 			}, -- [8]
 			{
 				["maxhealth"] = 805120,
 				["timeofdeath"] = 256.3989999999758,
 				["name"] = "Evanpal",
-				["time"] = 1597544858.026,
-				["class"] = "PALADIN",
-				["timestring"] = "4m 16s",
 				["events"] = {
 					{
 						4, -- [1]
@@ -3969,14 +3966,14 @@ DeathGraphsDBCurrent = {
 						"Evanpal", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "4m 16s",
+				["time"] = 1597544858.026,
 			}, -- [9]
 			{
 				["maxhealth"] = 317647,
 				["timeofdeath"] = 258.3999999999069,
 				["name"] = "Itsyellowy",
-				["time"] = 1597544860.027,
-				["class"] = "PRIEST",
-				["timestring"] = "4m 18s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4371,6 +4368,9 @@ DeathGraphsDBCurrent = {
 						"Itsyellowy", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "4m 18s",
+				["time"] = 1597544860.027,
 			}, -- [10]
 		},
 		["bossname"] = "Queen Azshara",
@@ -4390,9 +4390,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 528600,
 				["timeofdeath"] = 69.60399999981746,
 				["name"] = "Durantye",
-				["time"] = 1597544359.272,
-				["class"] = "PRIEST",
-				["timestring"] = "1m 9s",
 				["events"] = {
 					{
 						2, -- [1]
@@ -4777,14 +4774,14 @@ DeathGraphsDBCurrent = {
 						"Durantye", -- [6]
 					}, -- [34]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "1m 9s",
+				["time"] = 1597544359.272,
 			}, -- [1]
 			{
 				["maxhealth"] = 325524,
 				["timeofdeath"] = 139.311999999918,
 				["name"] = "Yukios-Kil'jaeden",
-				["time"] = 1597544428.98,
-				["class"] = "SHAMAN",
-				["timestring"] = "2m 19s",
 				["events"] = {
 					{
 						4, -- [1]
@@ -5175,14 +5172,14 @@ DeathGraphsDBCurrent = {
 						"Yukios-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
+				["class"] = "SHAMAN",
+				["timestring"] = "2m 19s",
+				["time"] = 1597544428.98,
 			}, -- [2]
 			{
 				["maxhealth"] = 528600,
 				["timeofdeath"] = 139.311999999918,
 				["name"] = "Durantye",
-				["time"] = 1597544428.98,
-				["class"] = "PRIEST",
-				["timestring"] = "2m 19s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -5559,14 +5556,14 @@ DeathGraphsDBCurrent = {
 						"Durantye", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "2m 19s",
+				["time"] = 1597544428.98,
 			}, -- [3]
 			{
 				["maxhealth"] = 512320,
 				["timeofdeath"] = 143.1080000000075,
 				["name"] = "Toshaman",
-				["time"] = 1597544432.776,
-				["class"] = "SHAMAN",
-				["timestring"] = "2m 23s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -5959,14 +5956,14 @@ DeathGraphsDBCurrent = {
 						"Toshaman", -- [6]
 					}, -- [33]
 				},
+				["class"] = "SHAMAN",
+				["timestring"] = "2m 23s",
+				["time"] = 1597544432.776,
 			}, -- [4]
 			{
 				["maxhealth"] = 328644,
 				["timeofdeath"] = 157.314000000013,
 				["name"] = "Andruw",
-				["time"] = 1597544446.982,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "2m 37s",
 				["events"] = {
 					{
 						4, -- [1]
@@ -6361,14 +6358,14 @@ DeathGraphsDBCurrent = {
 						"Andruw", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "2m 37s",
+				["time"] = 1597544446.982,
 			}, -- [5]
 			{
 				["maxhealth"] = 280935,
 				["timeofdeath"] = 173.2160000000149,
 				["name"] = "Oxclamation",
-				["time"] = 1597544462.884,
-				["class"] = "DRUID",
-				["timestring"] = "2m 53s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -6763,14 +6760,14 @@ DeathGraphsDBCurrent = {
 						"Oxclamation", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DRUID",
+				["timestring"] = "2m 53s",
+				["time"] = 1597544462.884,
 			}, -- [6]
 			{
 				["maxhealth"] = 516840,
 				["timeofdeath"] = 173.2160000000149,
 				["name"] = "Shallow",
-				["time"] = 1597544462.884,
-				["class"] = "PALADIN",
-				["timestring"] = "2m 53s",
 				["events"] = {
 					{
 						4, -- [1]
@@ -7165,14 +7162,14 @@ DeathGraphsDBCurrent = {
 						"Shallow", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "2m 53s",
+				["time"] = 1597544462.884,
 			}, -- [7]
 			{
 				["maxhealth"] = 317647,
 				["timeofdeath"] = 173.8669999998529,
 				["name"] = "Itsyellowy",
-				["time"] = 1597544463.535,
-				["class"] = "PRIEST",
-				["timestring"] = "2m 53s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -7563,14 +7560,14 @@ DeathGraphsDBCurrent = {
 						"Itsyellowy", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "2m 53s",
+				["time"] = 1597544463.535,
 			}, -- [8]
 			{
 				["maxhealth"] = 468814,
 				["timeofdeath"] = 173.9699999999721,
 				["name"] = "Scitama-Kil'jaeden",
-				["time"] = 1597544463.638,
-				["class"] = "MONK",
-				["timestring"] = "2m 53s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -7965,14 +7962,14 @@ DeathGraphsDBCurrent = {
 						"Scitama-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
+				["class"] = "MONK",
+				["timestring"] = "2m 53s",
+				["time"] = 1597544463.638,
 			}, -- [9]
 			{
 				["maxhealth"] = 451231,
 				["timeofdeath"] = 173.9699999999721,
 				["name"] = "Numberz",
-				["time"] = 1597544463.638,
-				["class"] = "PALADIN",
-				["timestring"] = "2m 53s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -8367,6 +8364,9 @@ DeathGraphsDBCurrent = {
 						"Numberz", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "2m 53s",
+				["time"] = 1597544463.638,
 			}, -- [10]
 		},
 		["bossname"] = "Queen Azshara",
@@ -8403,13 +8403,13 @@ DeathGraphsDBGraph = {
 			[143] = {
 				1597544481, -- [1]
 			},
-			[232] = {
+			[188] = {
 				1597544872, -- [1]
 			},
 			[69] = {
 				1597544481, -- [1]
 			},
-			[188] = {
+			[232] = {
 				1597544872, -- [1]
 			},
 		},

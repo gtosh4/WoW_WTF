@@ -2,7 +2,7 @@
 AchievementTrackerOptions = {
 	["toggleSoundFailed"] = false,
 	["showMinimap"] = false,
-	["onlyTrackMissingAchievements"] = false,
+	["toggleSound"] = false,
 	["displayInfoFrame"] = true,
 	["enableAutomaticCombatLogging"] = false,
 	["greyOutCompletedAchievements"] = false,
@@ -10,11 +10,11 @@ AchievementTrackerOptions = {
 	["announceToRaidWarning"] = true,
 	["trackingFrameXPos"] = 1758.333374023438,
 	["trackingFrameYPos"] = 722.5,
-	["trackCharacterAchievements"] = false,
-	["hideCompletedAchievements"] = false,
 	["enableAddon"] = true,
+	["hideCompletedAchievements"] = false,
+	["trackCharacterAchievements"] = false,
 	["trackAchievementsInBlizzardUI"] = false,
-	["toggleSound"] = false,
+	["onlyTrackMissingAchievements"] = false,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -193,4 +193,34 @@ AchievementTrackerDebug = {
 	"1/9/2020 21:44 [DEBUG] Hiding Tracking UI", -- [174]
 	"1/9/2020 21:45 [DEBUG] Hiding Tracking UI", -- [175]
 	"1/9/2020 21:45 [DEBUG] Hiding Tracking UI", -- [176]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [177]
+	"0/0/1999 -1:-1 [DEBUG] Version: 2.80.0", -- [178]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [179]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [180]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [181]
+	"2/9/2020 22:14 [DEBUG] Hiding Minimap Icon", -- [182]
+	"2/9/2020 22:14 [DEBUG] NPC cache generated", -- [183]
+	"2/9/2020 22:14 [DEBUG] Player has entered instance", -- [184]
+	"2/9/2020 22:14 [DEBUG] 2217", -- [185]
+	"2/9/2020 22:14 [DEBUG] Offical Instance Name: 2217 _2217", -- [186]
+	"2/9/2020 22:14 [DEBUG] Expansion: 3", -- [187]
+	"2/9/2020 22:14 [DEBUG] Instance Type: Raids", -- [188]
+	"2/9/2020 22:14 [DEBUG] Instance: 2217", -- [189]
+	"2/9/2020 22:14 [DEBUG] DifficultyID: 16", -- [190]
+	"2/9/2020 22:14 [DEBUG] Expansion: 3", -- [191]
+	"2/9/2020 22:14 [DEBUG] Instance Type: Raids", -- [192]
+	"2/9/2020 22:14 [DEBUG] Instance: 2217", -- [193]
+	"2/9/2020 22:14 [DEBUG] Asking user whether they want to track this instance", -- [194]
+	"2/9/2020 22:14 [DEBUG] Creating Tracking UI", -- [195]
+	"2/9/2020 22:14 [DEBUG] Hiding Tracking UI", -- [196]
+	"2/9/2020 22:14 [DEBUG] Clearing Instance Variables", -- [197]
+	"2/9/2020 22:14 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1765: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [198]
+	"2/9/2020 22:14 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1773: attempt to call method 'InstanceCleanup' (a nil value).", -- [199]
+	"2/9/2020 22:14 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [200]
+	"2/9/2020 22:14 [DEBUG] Clearing Instance Variables if exists", -- [201]
+	"2/9/2020 22:14 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3531: attempt to call method 'clearVariables' (a nil value).", -- [202]
+	"2/9/2020 22:14 [DEBUG] Clearing Instance Variables if exists", -- [203]
+	"2/9/2020 22:14 [DEBUG] Clearing Instance Variables", -- [204]
+	"2/9/2020 22:14 [DEBUG] Resetting Global Variables", -- [205]
+	"2/9/2020 22:14 [DEBUG] InfoFrame does not need to be reset", -- [206]
 }
