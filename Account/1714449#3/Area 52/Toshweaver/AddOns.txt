@@ -17,3 +17,4 @@ OPie_Classic: disabled
 ShadowedUnitFrames: enabled
 PitBull4: disabled
 ToshUnitFrames: disabled
+AdiBags: enabled

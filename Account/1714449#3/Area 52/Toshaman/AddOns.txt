@@ -25,3 +25,4 @@ ToshUnitFrames: disabled
 BigWigs_Voice: enabled
 BigWigs_EternalPalace: enabled
 LittleWigs: enabled
+AdiBags: enabled
