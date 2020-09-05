@@ -16,7 +16,7 @@ AstralKeys = {
 		20, -- [4]
 		21, -- [5]
 		163, -- [6]
-		125216, -- [7]
+		312374, -- [7]
 	}, -- [2]
 	{
 		"Artsong-Area52", -- [1]
@@ -52,7 +52,7 @@ AstralKeys = {
 		20, -- [4]
 		0, -- [5]
 		163, -- [6]
-		18240, -- [7]
+		308759, -- [7]
 	}, -- [6]
 	{
 		"Rathux-Area52", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		24, -- [4]
 		23, -- [5]
 		163, -- [6]
-		222812, -- [7]
+		312656, -- [7]
 	}, -- [10]
 	{
 		"Thunderrz-Area52", -- [1]
@@ -97,7 +97,7 @@ AstralKeys = {
 		14, -- [4]
 		0, -- [5]
 		163, -- [6]
-		2, -- [7]
+		312643, -- [7]
 	}, -- [11]
 	{
 		"Toshpal-Area52", -- [1]
@@ -131,14 +131,14 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 21,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Area52",
 	}, -- [1]
 	{
 		["weekly_best"] = 15,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
+		["faction"] = 1,
 	}, -- [2]
 }
 AstralFriends = {
@@ -149,7 +149,7 @@ AstralFriends = {
 		244, -- [4]
 		20, -- [5]
 		163, -- [6]
-		126203, -- [7]
+		294589, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [1]
@@ -160,7 +160,7 @@ AstralFriends = {
 		247, -- [4]
 		19, -- [5]
 		163, -- [6]
-		222028, -- [7]
+		292762, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [2]
@@ -171,7 +171,7 @@ AstralFriends = {
 		353, -- [4]
 		21, -- [5]
 		163, -- [6]
-		139651, -- [7]
+		296581, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [3]
@@ -182,7 +182,7 @@ AstralFriends = {
 		353, -- [4]
 		24, -- [5]
 		163, -- [6]
-		222500, -- [7]
+		294654, -- [7]
 		"1", -- [8]
 		18, -- [9]
 	}, -- [4]
@@ -193,7 +193,7 @@ AstralFriends = {
 		252, -- [4]
 		23, -- [5]
 		163, -- [6]
-		154726, -- [7]
+		296035, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [5]
@@ -204,7 +204,7 @@ AstralFriends = {
 		249, -- [4]
 		20, -- [5]
 		163, -- [6]
-		18240, -- [7]
+		148810, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [6]
@@ -215,7 +215,7 @@ AstralFriends = {
 		249, -- [4]
 		21, -- [5]
 		163, -- [6]
-		221939, -- [7]
+		296456, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [7]
@@ -226,7 +226,7 @@ AstralFriends = {
 		248, -- [4]
 		23, -- [5]
 		163, -- [6]
-		216297, -- [7]
+		312757, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [8]
@@ -270,7 +270,7 @@ AstralFriends = {
 		248, -- [4]
 		24, -- [5]
 		163, -- [6]
-		221815, -- [7]
+		312633, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [12]
@@ -281,7 +281,7 @@ AstralFriends = {
 		245, -- [4]
 		20, -- [5]
 		163, -- [6]
-		126287, -- [7]
+		279726, -- [7]
 		"1", -- [8]
 		19, -- [9]
 	}, -- [13]
@@ -292,7 +292,7 @@ AstralFriends = {
 		249, -- [4]
 		17, -- [5]
 		163, -- [6]
-		48133, -- [7]
+		281166, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [14]
@@ -303,7 +303,7 @@ AstralFriends = {
 		244, -- [4]
 		18, -- [5]
 		163, -- [6]
-		126213, -- [7]
+		295885, -- [7]
 		"1", -- [8]
 		20, -- [9]
 	}, -- [15]
@@ -314,7 +314,7 @@ AstralFriends = {
 		250, -- [4]
 		24, -- [5]
 		163, -- [6]
-		222044, -- [7]
+		282821, -- [7]
 		"1", -- [8]
 		23, -- [9]
 	}, -- [16]
@@ -331,39 +331,6 @@ AstralFriends = {
 	}, -- [17]
 }
 AstralKeysSettings = {
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1599577200,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
-			["guild"] = false,
-			["raid"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -377,9 +344,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -388,8 +353,43 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1599577200,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["raid"] = false,
+			["party"] = true,
+			["no_key"] = false,
+			["guild"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {

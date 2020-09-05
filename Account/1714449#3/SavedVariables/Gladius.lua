@@ -9,17 +9,20 @@ Gladius2DB = {
 			["modules"] = {
 				["Announcements"] = false,
 			},
-			["tagsVersion"] = 4,
-			["locked"] = true,
-			["y"] = {
-				["arena1"] = 516.3732306456586,
-			},
 			["x"] = {
 				["arena1"] = 1151.997474250849,
 			},
+			["locked"] = true,
+			["tagsVersion"] = 4,
 			["auraVersion"] = 1,
+			["y"] = {
+				["arena1"] = 516.3732306456586,
+			},
 		},
 		["Default"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["locked"] = true,
 			["y"] = {
 				["arena1"] = 493.4401061582539,
 			},
@@ -87,31 +90,28 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["locked"] = true,
 		},
 		["Toshaman - Area 52"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 376.1066322183615,
-			},
 			["x"] = {
 				["arena1"] = 1284.267002544395,
+			},
+			["y"] = {
+				["arena1"] = 376.1066322183615,
 			},
 		},
 	},
