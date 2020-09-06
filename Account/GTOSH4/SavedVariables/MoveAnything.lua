@@ -44,22 +44,6 @@ MADB = {
 						0, -- [5]
 					},
 				},
-				["TooltipMover"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						0, -- [3]
-						0, -- [4]
-					},
-					["name"] = "TooltipMover",
-					["pos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						"TOP", -- [3]
-						1076.666137695313, -- [4]
-						-197.4999389648438, -- [5]
-					},
-				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -77,11 +61,28 @@ MADB = {
 						-3.33331298828125, -- [5]
 					},
 				},
+				["TooltipMover"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						0, -- [3]
+						0, -- [4]
+					},
+					["name"] = "TooltipMover",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						1012.498657226563, -- [4]
+						-384.1666259765625, -- [5]
+					},
+				},
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = true,
+	["modifiedFramesOnly"] = true,
 	["frameListRows"] = 18,
+	["noBags"] = true,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

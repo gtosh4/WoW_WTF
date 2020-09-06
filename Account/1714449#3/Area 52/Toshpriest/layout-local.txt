@@ -1,9 +1,9 @@
 Version: 1
 Frame: TooltipMover
 FrameLevel: 3
-Anchor: TOPRIGHT
-X: -282
-Y: -197
+Anchor: RIGHT
+X: -308
+Y: 223
 W: 150
 H: 80
 Frame: ObjectiveTrackerFrameMover

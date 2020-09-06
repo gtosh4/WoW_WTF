@@ -9,8 +9,7 @@ VWQL = {
 	["Ignore"] = {
 	},
 	["Toshpriest-Area52"] = {
-		["FilterType"] = {
-		},
+		["VERSION"] = 92,
 		["Filter"] = 63,
 		["Quests"] = {
 			[52163] = true,
@@ -26,17 +25,18 @@ VWQL = {
 			[51036] = true,
 			[51627] = true,
 			[51628] = true,
-			[52302] = true,
-			[51081] = true,
-			[49413] = true,
 			[58705] = true,
+			[49413] = true,
+			[51081] = true,
+			[52302] = true,
 		},
-		["VERSION"] = 92,
+		["FilterType"] = {
+		},
 	},
 	["Sort"] = 5,
 	["VERSION"] = 92,
 	["Toshaman-Area52"] = {
-		["Filter"] = 63,
+		["VERSION"] = 92,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -63,19 +63,19 @@ VWQL = {
 			[51250] = true,
 			[51630] = true,
 			[51640] = true,
-			[55344] = true,
-			[50501] = true,
 			[51081] = true,
-			[52302] = true,
-			[50488] = true,
-			[50975] = true,
 			[50587] = true,
-			[50786] = true,
 			[51156] = true,
-			[50540] = true,
 			[50862] = true,
+			[50975] = true,
+			[50786] = true,
+			[52302] = true,
+			[50540] = true,
+			[50488] = true,
+			[50501] = true,
+			[55344] = true,
 		},
-		["VERSION"] = 92,
+		["Filter"] = 63,
 	},
 	["HideLegion"] = true,
 }

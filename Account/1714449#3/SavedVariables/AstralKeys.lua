@@ -34,7 +34,7 @@ AstralKeys = {
 		15, -- [4]
 		15, -- [5]
 		163, -- [6]
-		222638, -- [7]
+		381058, -- [7]
 	}, -- [4]
 	{
 		"Illsong-Area52", -- [1]
@@ -126,19 +126,37 @@ AstralKeys = {
 		163, -- [6]
 		222044, -- [7]
 	}, -- [14]
+	{
+		"Sci-Area52", -- [1]
+		"PALADIN", -- [2]
+		247, -- [3]
+		23, -- [4]
+		23, -- [5]
+		163, -- [6]
+		3, -- [7]
+	}, -- [15]
+	{
+		"Clothie-Area52", -- [1]
+		"PRIEST", -- [2]
+		251, -- [3]
+		18, -- [4]
+		19, -- [5]
+		163, -- [6]
+		3, -- [7]
+	}, -- [16]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 21,
 		["class"] = "SHAMAN",
-		["faction"] = 1,
 		["unit"] = "Toshaman-Area52",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 15,
 		["class"] = "PRIEST",
-		["unit"] = "Toshpriest-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshpriest-Area52",
 	}, -- [2]
 }
 AstralFriends = {
@@ -329,8 +347,75 @@ AstralFriends = {
 		"1", -- [8]
 		0, -- [9]
 	}, -- [17]
+	{
+		"Scifi-Misha", -- [1]
+		"Sci#11555", -- [2]
+		"PALADIN", -- [3]
+		244, -- [4]
+		20, -- [5]
+		163, -- [6]
+		379713, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [18]
+	{
+		"Sci-Area52", -- [1]
+		"Sci#11555", -- [2]
+		"PALADIN", -- [3]
+		247, -- [4]
+		23, -- [5]
+		163, -- [6]
+		380838, -- [7]
+		"1", -- [8]
+		23, -- [9]
+	}, -- [19]
+	{
+		"Scibolt-Area52", -- [1]
+		"Sci#11555", -- [2]
+		"WARLOCK", -- [3]
+		251, -- [4]
+		17, -- [5]
+		163, -- [6]
+		379029, -- [7]
+		"1", -- [8]
+		15, -- [9]
+	}, -- [20]
+	{
+		"Sciduckhunt-Area52", -- [1]
+		"Sci#11555", -- [2]
+		"HUNTER", -- [3]
+		249, -- [4]
+		15, -- [5]
+		163, -- [6]
+		379198, -- [7]
+		"1", -- [8]
+		15, -- [9]
+	}, -- [21]
+	{
+		"Scitama-Kil'jaeden", -- [1]
+		"Sci#11555", -- [2]
+		"MONK", -- [3]
+		249, -- [4]
+		19, -- [5]
+		163, -- [6]
+		379314, -- [7]
+		"1", -- [8]
+		15, -- [9]
+	}, -- [22]
+	{
+		"Scizilla-Kil'jaeden", -- [1]
+		"Sci#11555", -- [2]
+		"DRUID", -- [3]
+		250, -- [4]
+		18, -- [5]
+		163, -- [6]
+		379370, -- [7]
+		"1", -- [8]
+		15, -- [9]
+	}, -- [23]
 }
 AstralKeysSettings = {
+	["new_settings_config"] = true,
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -344,7 +429,9 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -353,17 +440,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 	},
 	["general"] = {
 		["show_minimap_button"] = {
@@ -374,10 +451,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
-			["party"] = true,
-			["no_key"] = false,
 			["guild"] = false,
+			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -389,7 +466,14 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 	},
-	["new_settings_config"] = true,
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 }
 AstralMinimap = {
 	["profileKeys"] = {

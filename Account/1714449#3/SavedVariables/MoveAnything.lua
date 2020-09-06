@@ -9,25 +9,20 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
-				["LootFrame"] = {
-					["UIPanelWindows"] = {
-						["pushable"] = 7,
-						["area"] = "left",
-					},
+				["TooltipMover"] = {
 					["orgPos"] = {
-						"LEFT", -- [1]
+						"TOP", -- [1]
 						"UIParent", -- [2]
-						"LEFT", -- [3]
-						488, -- [4]
-						43.99999618530273, -- [5]
+						0, -- [3]
+						0, -- [4]
 					},
-					["name"] = "LootFrame",
+					["name"] = "TooltipMover",
 					["pos"] = {
-						"BOTTOMLEFT", -- [1]
+						"TOP", -- [1]
 						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						487.6664123535156, -- [4]
-						523.999755859375, -- [5]
+						"TOP", -- [3]
+						1049.998779296875, -- [4]
+						-336.6665649414063, -- [5]
 					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
@@ -99,28 +94,33 @@ MADB = {
 						840.833251953125, -- [5]
 					},
 				},
-				["TooltipMover"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						0, -- [3]
-						0, -- [4]
+				["LootFrame"] = {
+					["UIPanelWindows"] = {
+						["pushable"] = 7,
+						["area"] = "left",
 					},
-					["name"] = "TooltipMover",
-					["pos"] = {
-						"TOP", -- [1]
+					["orgPos"] = {
+						"LEFT", -- [1]
 						"UIParent", -- [2]
-						"TOP", -- [3]
-						1049.998779296875, -- [4]
-						-336.6665649414063, -- [5]
+						"LEFT", -- [3]
+						488, -- [4]
+						43.99999618530273, -- [5]
+					},
+					["name"] = "LootFrame",
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						487.6664123535156, -- [4]
+						523.999755859375, -- [5]
 					},
 				},
 			},
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["frameListRows"] = 18,
-	["noBags"] = true,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = true,
+	["frameListRows"] = 18,
 }
