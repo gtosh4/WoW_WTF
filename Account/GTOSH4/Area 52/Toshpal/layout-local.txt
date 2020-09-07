@@ -1,5 +1,5 @@
 Version: 1
-Frame: ObjectiveTrackerFrameMover
+Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
 X: -6
@@ -13,7 +13,7 @@ X: -346
 Y: 176
 W: 150
 H: 80
-Frame: ObjectiveTrackerFrame
+Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
 Anchor: RIGHT
 X: -6
@@ -41,6 +41,20 @@ X: 0
 Y: 0
 W: 365
 H: 380
+Frame: BDLC
+FrameLevel: 1
+Anchor: CENTER
+X: 487
+Y: 131
+W: 600
+H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -76,6 +90,13 @@ X: 420
 Y: 193
 W: 27
 H: 26
+Frame: SavedInstancesDetachHeader
+FrameLevel: 100
+Anchor: RIGHT
+X: -585
+Y: 171
+W: 342
+H: 419
 Frame: TalkingHeadFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -83,17 +104,3 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
-Frame: BDLC
-FrameLevel: 1
-Anchor: CENTER
-X: 487
-Y: 131
-W: 600
-H: 400

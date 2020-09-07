@@ -1403,20 +1403,20 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Arnbjorn"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Arnbjorn",
-				["overall"] = {
-				},
-			},
 			["Hakkem"] = {
 				["name"] = "Hakkem",
 				["class"] = "DRUID",
 				["overall"] = {
 				},
 				["deaths"] = {
+				},
+			},
+			["Scibolt"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Scibolt",
+				["overall"] = {
 				},
 			},
 			["Rathux"] = {
@@ -1451,11 +1451,11 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Scibolt"] = {
+			["Arnbjorn"] = {
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
-				["name"] = "Scibolt",
+				["class"] = "MAGE",
+				["name"] = "Arnbjorn",
 				["overall"] = {
 				},
 			},
@@ -1962,14 +1962,6 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Lyuneria"] = {
-				["name"] = "Lyuneria",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
 			["Illsong"] = {
 				["name"] = "Illsong",
 				["class"] = "DEMONHUNTER",
@@ -1981,6 +1973,14 @@ DeathGraphsDBDeaths = {
 			["Toshpriest"] = {
 				["name"] = "Toshpriest",
 				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Lyuneria"] = {
+				["name"] = "Lyuneria",
+				["class"] = "DEMONHUNTER",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -4035,13 +4035,13 @@ DeathGraphsDBDeaths = {
 		["id"] = 2377,
 		["diff"] = 15,
 		["player_db"] = {
-			["Woesong"] = {
+			["Yuffio-Kil'jaeden"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Woesong",
-				["class"] = "WARLOCK",
+				["name"] = "Yuffio-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 			["Sachomatic-Tichondrius"] = {
 				["overall"] = {
@@ -4067,14 +4067,6 @@ DeathGraphsDBDeaths = {
 				["name"] = "Toshpriest",
 				["class"] = "PRIEST",
 			},
-			["Yuffio-Kil'jaeden"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Yuffio-Kil'jaeden",
-				["class"] = "PRIEST",
-			},
 			["Hakkem"] = {
 				["overall"] = {
 				},
@@ -4082,6 +4074,14 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Hakkem",
 				["class"] = "DRUID",
+			},
+			["Woesong"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Woesong",
+				["class"] = "WARLOCK",
 			},
 			["Pier"] = {
 				["overall"] = {
@@ -6215,12 +6215,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Wilwar"] = {
-				["encounters"] = 10,
-				["points"] = 1000,
+			["Esperance-Kil'jaeden"] = {
+				["encounters"] = 8,
+				["points"] = 790,
 				["deaths"] = {
+					{
+						6, -- [1]
+						408.6909999999916, -- [2]
+						"Cauterize |cFFFF333336,213|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "WARRIOR",
+				["class"] = "MAGE",
 			},
 			["Mahle-Kil'jaeden"] = {
 				["encounters"] = 4,
@@ -6249,22 +6254,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Felside-Kil'jaeden"] = {
-				["encounters"] = 8,
-				["points"] = 780,
+			["Wilwar"] = {
+				["encounters"] = 10,
+				["points"] = 1000,
 				["deaths"] = {
-					{
-						6, -- [1]
-						253.8690000000061, -- [2]
-						"Eye of Corruption |cFFFF333358,972|r", -- [3]
-					}, -- [1]
-					{
-						8, -- [1]
-						144.6739999999991, -- [2]
-						"Anguish (DoT) |cFFFF3333238,854|r", -- [3]
-					}, -- [2]
 				},
-				["class"] = "DEMONHUNTER",
+				["class"] = "WARRIOR",
 			},
 			["Toshpriest"] = {
 				["encounters"] = 22,
@@ -6283,19 +6278,29 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Leafyo"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 8,
 				["points"] = 800,
 				["deaths"] = {
 				},
 				["class"] = "PRIEST",
+			},
+			["Danlow-Illidan"] = {
+				["encounters"] = 8,
+				["points"] = 780,
+				["deaths"] = {
+					{
+						5, -- [1]
+						393.85699999996, -- [2]
+						"Anguish (DoT) |cFFFF3333305,666|r", -- [3]
+					}, -- [1]
+					{
+						8, -- [1]
+						81.82000000000698, -- [2]
+						"Devour Thoughts |cFFFF3333177,694|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "HUNTER",
 			},
 			["Thunderrz"] = {
 				["encounters"] = 14,
@@ -6642,34 +6647,29 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Danlow-Illidan"] = {
+			["Leafyo"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Felside-Kil'jaeden"] = {
 				["encounters"] = 8,
 				["points"] = 780,
 				["deaths"] = {
 					{
-						5, -- [1]
-						393.85699999996, -- [2]
-						"Anguish (DoT) |cFFFF3333305,666|r", -- [3]
+						6, -- [1]
+						253.8690000000061, -- [2]
+						"Eye of Corruption |cFFFF333358,972|r", -- [3]
 					}, -- [1]
 					{
 						8, -- [1]
-						81.82000000000698, -- [2]
-						"Devour Thoughts |cFFFF3333177,694|r", -- [3]
+						144.6739999999991, -- [2]
+						"Anguish (DoT) |cFFFF3333238,854|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "HUNTER",
-			},
-			["Esperance-Kil'jaeden"] = {
-				["encounters"] = 8,
-				["points"] = 790,
-				["deaths"] = {
-					{
-						6, -- [1]
-						408.6909999999916, -- [2]
-						"Cauterize |cFFFF333336,213|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MAGE",
+				["class"] = "DEMONHUNTER",
 			},
 			["Arnbjorn"] = {
 				["encounters"] = 14,
@@ -9740,12 +9740,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Kuyar-Ragnaros"] = {
+			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Scibolt"] = {
 				["encounters"] = 3,
@@ -9754,12 +9754,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Yukiox"] = {
+			["Kuyar-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Toshdruid"] = {
 				["encounters"] = 1,
@@ -11226,12 +11226,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Mahle-Kil'jaeden"] = {
+			["Yuffio-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
+				["class"] = "PRIEST",
 			},
 			["Scibolt"] = {
 				["encounters"] = 2,
@@ -11240,12 +11240,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "WARLOCK",
 			},
-			["Yuffio-Kil'jaeden"] = {
+			["Kuyar-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Toshdruid"] = {
 				["encounters"] = 1,
@@ -11273,11 +11273,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Kuyar-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
+			["Emosong-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "ROGUE",
 				["deaths"] = {
+					{
+						1, -- [1]
+						68.06600000010803, -- [2]
+						"Scorching Blister (DoT) |cFFFF333317,730|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Meta-Kil'jaeden"] = {
@@ -11308,16 +11313,11 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Emosong-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "ROGUE",
+			["Forcepush-Sargeras"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
-					{
-						1, -- [1]
-						68.06600000010803, -- [2]
-						"Scorching Blister (DoT) |cFFFF333317,730|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Zenixa-Kil'jaeden"] = {
@@ -11327,19 +11327,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Forcepush-Sargeras"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
 			["Scitama-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "MONK",
 				["deaths"] = {
 				},
+			},
+			["Mahle-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Brutang-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -12785,19 +12785,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
-			["Yuffio-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
 			["Agg"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
+			},
+			["Yuffio-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
 			},
 			["Bluearruwu"] = {
 				["encounters"] = 1,
@@ -15322,22 +15322,27 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "HUNTER",
 			},
+			["Baylesstv-Kil'jaeden"] = {
+				["encounters"] = 5,
+				["points"] = 480,
+				["deaths"] = {
+					{
+						3, -- [1]
+						137.2810000000172, -- [2]
+						"Nightmare Antibody |cFFFF333350,589|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						346.3740000000107, -- [2]
+						"Mental Decay |cFFFF333338,608|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "DRUID",
+			},
 			["Artsong"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Smytt"] = {
-				["encounters"] = 9,
-				["points"] = 890,
-				["deaths"] = {
-					{
-						1, -- [1]
-						199.8939999999711, -- [2]
-						"Grand Delusions |cFFFF3333208,063|r", -- [3]
-					}, -- [1]
 				},
 				["class"] = "HUNTER",
 			},
@@ -15524,29 +15529,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Baylesstv-Kil'jaeden"] = {
-				["encounters"] = 5,
-				["points"] = 480,
+			["Smytt"] = {
+				["encounters"] = 9,
+				["points"] = 890,
 				["deaths"] = {
 					{
-						3, -- [1]
-						137.2810000000172, -- [2]
-						"Nightmare Antibody |cFFFF333350,589|r", -- [3]
+						1, -- [1]
+						199.8939999999711, -- [2]
+						"Grand Delusions |cFFFF3333208,063|r", -- [3]
 					}, -- [1]
-					{
-						5, -- [1]
-						346.3740000000107, -- [2]
-						"Mental Decay |cFFFF333338,608|r", -- [3]
-					}, -- [2]
 				},
-				["class"] = "DRUID",
-			},
-			["Fierypower-Kil'jaeden"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
+				["class"] = "HUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 5,
@@ -15554,6 +15547,13 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 				["class"] = "PRIEST",
+			},
+			["Fierypower-Kil'jaeden"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
 			},
 			["Judaasx"] = {
 				["encounters"] = 9,
@@ -18677,6 +18677,23 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
+	["237215"] = {
+		["deaths"] = {
+			[132] = {
+				1595988763, -- [1]
+			},
+			[130] = {
+				1598586725, -- [1]
+			},
+			[129] = {
+				1595988763, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
 	["236116"] = {
 		["deaths"] = {
 			[58] = {
@@ -18724,12 +18741,12 @@ DeathGraphsDBGraph = {
 			[187] = {
 				1597545590, -- [1]
 			},
+			[161] = {
+				1597545995, -- [1]
+			},
 			[192] = {
 				1597545296, -- [1]
 				1597546487, -- [2]
-			},
-			[50] = {
-				1597545590, -- [1]
 			},
 			[51] = {
 				1597544058, -- [1]
@@ -18743,8 +18760,8 @@ DeathGraphsDBGraph = {
 			[46] = {
 				1597543821, -- [1]
 			},
-			[161] = {
-				1597545995, -- [1]
+			[50] = {
+				1597545590, -- [1]
 			},
 			[282] = {
 				1597545296, -- [1]
@@ -18754,6 +18771,63 @@ DeathGraphsDBGraph = {
 			},
 			[82] = {
 				1597544058, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236615"] = {
+		["deaths"] = {
+			[291] = {
+				1599193529, -- [1]
+				1599193529, -- [2]
+			},
+			[96] = {
+				1595389386, -- [1]
+				1595389386, -- [2]
+			},
+			[85] = {
+				1595990075, -- [1]
+			},
+			[97] = {
+				1595990075, -- [1]
+			},
+			[388] = {
+				1595389386, -- [1]
+			},
+			[326] = {
+				1595990075, -- [1]
+			},
+			[312] = {
+				1598588079, -- [1]
+				1599193529, -- [2]
+			},
+			[313] = {
+				1599193529, -- [1]
+			},
+			[255] = {
+				1595389386, -- [1]
+			},
+			[36] = {
+				1595389386, -- [1]
+			},
+			[307] = {
+				1598588079, -- [1]
+			},
+			[202] = {
+				1598588079, -- [1]
+			},
+			[333] = {
+				1598588079, -- [1]
+			},
+			[217] = {
+				1595990075, -- [1]
+			},
+			[37] = {
+				1595990075, -- [1]
+				1598588079, -- [2]
 			},
 		},
 		["spells"] = {
@@ -18937,80 +19011,6 @@ DeathGraphsDBGraph = {
 			},
 			[421] = {
 				1599103279, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236615"] = {
-		["deaths"] = {
-			[291] = {
-				1599193529, -- [1]
-				1599193529, -- [2]
-			},
-			[96] = {
-				1595389386, -- [1]
-				1595389386, -- [2]
-			},
-			[85] = {
-				1595990075, -- [1]
-			},
-			[97] = {
-				1595990075, -- [1]
-			},
-			[313] = {
-				1599193529, -- [1]
-			},
-			[326] = {
-				1595990075, -- [1]
-			},
-			[312] = {
-				1598588079, -- [1]
-				1599193529, -- [2]
-			},
-			[217] = {
-				1595990075, -- [1]
-			},
-			[255] = {
-				1595389386, -- [1]
-			},
-			[36] = {
-				1595389386, -- [1]
-			},
-			[307] = {
-				1598588079, -- [1]
-			},
-			[202] = {
-				1598588079, -- [1]
-			},
-			[333] = {
-				1598588079, -- [1]
-			},
-			[388] = {
-				1595389386, -- [1]
-			},
-			[37] = {
-				1595990075, -- [1]
-				1598588079, -- [2]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237215"] = {
-		["deaths"] = {
-			[132] = {
-				1595988763, -- [1]
-			},
-			[130] = {
-				1598586725, -- [1]
-			},
-			[129] = {
-				1595988763, -- [1]
 			},
 		},
 		["spells"] = {
@@ -20021,8 +20021,8 @@ DeathGraphsDBGraph = {
 			[137] = {
 				1596853088, -- [1]
 			},
-			[118] = {
-				1597459412, -- [1]
+			[171] = {
+				1598673818, -- [1]
 			},
 			[18] = {
 				1597458263, -- [1]
@@ -20033,8 +20033,8 @@ DeathGraphsDBGraph = {
 			[144] = {
 				1598069509, -- [1]
 			},
-			[30] = {
-				1596852828, -- [1]
+			[118] = {
+				1597459412, -- [1]
 			},
 			[36] = {
 				1597458263, -- [1]
@@ -20068,8 +20068,8 @@ DeathGraphsDBGraph = {
 				1597458263, -- [1]
 				1597458263, -- [2]
 			},
-			[171] = {
-				1598673818, -- [1]
+			[30] = {
+				1596852828, -- [1]
 			},
 			[53] = {
 				1598673818, -- [1]

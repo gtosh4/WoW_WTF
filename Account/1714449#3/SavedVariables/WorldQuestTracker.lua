@@ -222,9 +222,14 @@ WQTrackerDB = {
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
 					[52302] = {
-						["expireAt"] = 1599490855,
+						["expireAt"] = 1599490888,
 						["rewardAmount"] = "|cffc557FF430",
 						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[58744] = {
+						["expireAt"] = 1599490845,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 2004597,
 					},
 				},
 				["Player-3676-0AD945D6"] = {

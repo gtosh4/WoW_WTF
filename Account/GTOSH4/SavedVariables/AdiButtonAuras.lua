@@ -12,8 +12,8 @@ AdiButtonAurasDB = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshaman - Area 52"] = "Default",
 		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
