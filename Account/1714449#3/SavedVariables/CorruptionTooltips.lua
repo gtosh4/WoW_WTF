@@ -4,7 +4,7 @@ CorruptionTooltipsDB = {
 		["iconposition"] = "BOTTOMLEFT",
 		["nzothlabel"] = false,
 		["showlevel"] = true,
-		["append"] = true,
+		["perchar"] = false,
 		["itemicon"] = false,
 		["summary"] = true,
 		["iconcolor"] = {
@@ -13,8 +13,8 @@ CorruptionTooltipsDB = {
 			["g"] = 0,
 			["r"] = 1,
 		},
+		["append"] = true,
 		["itemrank"] = true,
-		["perchar"] = false,
 		["icon"] = true,
 		["english"] = false,
 	},

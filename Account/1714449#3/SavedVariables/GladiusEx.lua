@@ -34,6 +34,7 @@ GladiusExDB = {
 						["Clicks"] = true,
 						["Announcements"] = false,
 					},
+					["growDirection"] = "UP",
 					["y"] = {
 						["anchor_arena"] = 306.6666142392169,
 						["arena3"] = 480.1065908312812,
@@ -46,7 +47,6 @@ GladiusExDB = {
 						["arena2"] = 1038.079742422109,
 						["arena1"] = 1038.079742422109,
 					},
-					["growDirection"] = "UP",
 				},
 			},
 		},
@@ -76,21 +76,21 @@ GladiusExDB = {
 		},
 		["PowerBar"] = {
 		},
-		["party_Interrupts"] = {
+		["Interrupts"] = {
 		},
 		["party_Announcements"] = {
 		},
 		["HealthBar"] = {
 		},
-		["Interrupts"] = {
-		},
 		["party_PetBar"] = {
+		},
+		["PetBar"] = {
 		},
 		["party_Cooldowns"] = {
 		},
 		["party_Clicks"] = {
 		},
-		["PetBar"] = {
+		["party_Interrupts"] = {
 		},
 		["Announcements"] = {
 		},

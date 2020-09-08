@@ -48,9 +48,6 @@ AngryAssign_Categories = {
 AngryAssign_State = {
 	["tree"] = {
 	},
-	["locked"] = true,
-	["window"] = {
-	},
 	["display"] = {
 		["y"] = -135.3328857421875,
 		["x"] = 0,
@@ -59,6 +56,9 @@ AngryAssign_State = {
 		["hidden"] = false,
 	},
 	["directionUp"] = false,
+	["locked"] = true,
+	["window"] = {
+	},
 }
 AngryAssign_Config = {
 }
