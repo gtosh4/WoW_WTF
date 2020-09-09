@@ -1,9 +1,7 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpal-area-52"
+RaiderIO_LastCharacter = "us-Toshdk-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Yosarrian-deathwing"] = true,
-	["us-Ahnali-kalecgos"] = true,
-	["us-Reyreybinks-magtheridon"] = true,
+	["us-Arclynn-kiljaeden"] = true,
 }

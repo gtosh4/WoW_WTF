@@ -48,6 +48,18 @@ GladiusExDB = {
 						["arena1"] = 1038.079742422109,
 					},
 				},
+				["Toshaman - Area 52"] = {
+					["y"] = {
+						["arena2"] = 412.4799907803536,
+						["arena3"] = 354.239992082119,
+						["arena1"] = 470.7199894785881,
+					},
+					["x"] = {
+						["arena2"] = 1053.013492088314,
+						["arena3"] = 1053.013492088314,
+						["arena1"] = 1053.013492088314,
+					},
+				},
 			},
 		},
 		["Auras"] = {
@@ -70,6 +82,20 @@ GladiusExDB = {
 						["party2"] = 614.2936581444665,
 					},
 				},
+				["Toshaman - Area 52"] = {
+					["y"] = {
+						["anchor_party"] = 410.6666314458853,
+						["player"] = 484.5865907311454,
+						["party2"] = 368.1066323971754,
+						["party1"] = 426.34663109541,
+					},
+					["x"] = {
+						["anchor_party"] = 398.4000301575652,
+						["player"] = 452.1601070809338,
+						["party2"] = 452.1601070809338,
+						["party1"] = 452.1601070809338,
+					},
+				},
 			},
 		},
 		["party_SkillHistory"] = {
@@ -90,9 +116,9 @@ GladiusExDB = {
 		},
 		["party_Clicks"] = {
 		},
-		["party_Interrupts"] = {
-		},
 		["Announcements"] = {
+		},
+		["party_Interrupts"] = {
 		},
 		["Alerts"] = {
 		},
@@ -111,6 +137,7 @@ GladiusExDB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -119,6 +146,8 @@ GladiusExDB = {
 			["showParty"] = false,
 			["locked"] = true,
 			["advancedOptions"] = true,
+		},
+		["Toshaman - Area 52"] = {
 		},
 	},
 }

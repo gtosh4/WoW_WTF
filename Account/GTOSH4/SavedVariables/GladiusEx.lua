@@ -29,6 +29,20 @@ GladiusExDB = {
 		},
 		["arena"] = {
 			["profiles"] = {
+				["Toshdk - Kil'jaeden"] = {
+					["y"] = {
+						["anchor_arena"] = 382.9333117532733,
+						["arena2"] = 398.613311402798,
+						["arena3"] = 340.3733127045634,
+						["arena1"] = 456.8533491635317,
+					},
+					["x"] = {
+						["anchor_arena"] = 1134.400130894181,
+						["arena2"] = 1161.280442793359,
+						["arena3"] = 1161.280442793359,
+						["arena1"] = 1161.280442793359,
+					},
+				},
 				["Toshpal - Area 52"] = {
 					["y"] = {
 						["arena2"] = 412.4799907803536,
@@ -49,6 +63,20 @@ GladiusExDB = {
 		},
 		["party"] = {
 			["profiles"] = {
+				["Toshdk - Kil'jaeden"] = {
+					["y"] = {
+						["anchor_party"] = 449.5999508881578,
+						["player"] = 523.519949235917,
+						["party2"] = 407.0400299644462,
+						["party1"] = 465.2799896001816,
+					},
+					["x"] = {
+						["anchor_party"] = 335.9999143648165,
+						["player"] = 389.7599912881851,
+						["party2"] = 389.7599912881851,
+						["party1"] = 389.7599912881851,
+					},
+				},
 				["Toshpal - Area 52"] = {
 					["y"] = {
 						["anchor_party"] = 426.1333889126763,
@@ -69,23 +97,23 @@ GladiusExDB = {
 		},
 		["PowerBar"] = {
 		},
-		["party_Interrupts"] = {
+		["Interrupts"] = {
 		},
 		["party_Announcements"] = {
 		},
 		["HealthBar"] = {
 		},
-		["Interrupts"] = {
-		},
 		["party_PetBar"] = {
+		},
+		["PetBar"] = {
 		},
 		["party_Cooldowns"] = {
 		},
 		["party_Clicks"] = {
 		},
-		["PetBar"] = {
-		},
 		["Announcements"] = {
+		},
+		["party_Interrupts"] = {
 		},
 		["Alerts"] = {
 		},
@@ -103,12 +131,17 @@ GladiusExDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
-		["Toshpal - Area 52"] = {
+		["Toshdk - Kil'jaeden"] = {
 			["showParty"] = false,
 			["locked"] = true,
+		},
+		["Toshpal - Area 52"] = {
+			["locked"] = true,
+			["showParty"] = false,
 		},
 	},
 }
