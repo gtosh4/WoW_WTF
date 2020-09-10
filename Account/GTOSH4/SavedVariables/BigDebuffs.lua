@@ -5,8 +5,8 @@ BigDebuffsDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpal - Area 52"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

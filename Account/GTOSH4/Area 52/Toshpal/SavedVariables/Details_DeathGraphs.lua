@@ -5,150 +5,151 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Shad'har the Insatiable",
 		["id"] = 2367,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Babyhnter-Tichondrius",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Babyhnter-Tichondrius",
+				["class"] = "HUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Tianarrae-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Tianarrae-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 			["Kajio-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Kajio-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Kajio-Kil'jaeden",
+				["class"] = "MONK",
 			},
 			["Fierypower-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Fierypower-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Fierypower-Kil'jaeden",
+				["class"] = "WARLOCK",
 			},
 			["Hoofalo-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Hoofalo-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Hoofalo-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Logs"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Logs",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Logs",
+				["class"] = "MAGE",
 			},
 			["Khal-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khal-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Khal-Kil'jaeden",
+				["class"] = "WARRIOR",
 			},
 			["Numberz"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Numberz",
-				["class"] = "PALADIN",
 			},
 			["Bogarn-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Bogarn-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Bogarn-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Mordpriest-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Mordpriest-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Mordpriest-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 			["Splendiferus-Kil'jaeden"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 				["name"] = "Splendiferus-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Felside-Kil'jaeden"] = {
-				["deaths"] = {
-				},
 				["class"] = "DEMONHUNTER",
-				["name"] = "Felside-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Goffee-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Goffee-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Andruw"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Andruw",
-				["class"] = "DEMONHUNTER",
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Ohnlyfans-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Leafyo"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Leafyo",
-				["overall"] = {
-				},
-			},
-			["Eldeek-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Eldeek-Kil'jaeden",
-				["overall"] = {
-				},
 			},
 			["Esperance-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Esperance-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Esperance-Kil'jaeden",
+				["class"] = "MAGE",
+			},
+			["Goffee-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Goffee-Kil'jaeden",
+				["class"] = "WARLOCK",
+			},
+			["Andruw"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Andruw",
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Ohnlyfans-Kil'jaeden",
+				["class"] = "MAGE",
+			},
+			["Leafyo"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Leafyo",
+				["class"] = "DRUID",
+			},
+			["Eldeek-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Eldeek-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Felside-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Felside-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -159,209 +160,209 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Shad'har the Insatiable",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Shad'har the Insatiable",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["237416"] = {
 		["hash"] = "237416",
 		["type"] = "deaths",
 		["name"] = "Il'gynoth, Corruption Reborn",
 		["id"] = 2374,
+		["diff"] = 16,
 		["player_db"] = {
 			["Oxclamation"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Oxclamation",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Oxclamation",
+				["class"] = "DRUID",
 			},
 			["Itsyellowy"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Itsyellowy",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Itsyellowy",
+				["class"] = "PRIEST",
 			},
 			["Sci"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Sci",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Sci",
+				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Royalty",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Royalty",
+				["class"] = "PALADIN",
 			},
 			["Durantye"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Durantye",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Durantye",
+				["class"] = "PRIEST",
 			},
 			["Andruw"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Andruw",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Andruw",
+				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Bogarn-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Bogarn-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Artsong"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Artsong",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Artsong",
+				["class"] = "HUNTER",
 			},
 			["Ferus-Barthilas"] = {
-				["overall"] = {
-				},
+				["class"] = "WARRIOR",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Ferus-Barthilas",
-				["class"] = "WARRIOR",
 			},
 			["Holypenguin"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Holypenguin",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Holypenguin",
+				["class"] = "PRIEST",
 			},
 			["Ebolaspread"] = {
-				["overall"] = {
-				},
+				["class"] = "WARLOCK",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Ebolaspread",
-				["class"] = "WARLOCK",
 			},
 			["Smytt"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 				["name"] = "Smytt",
-				["overall"] = {
-				},
-			},
-			["Baylesstv-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Baylesstv-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Mordpriest-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Mordpriest-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Warlockmania"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Warlockmania",
-				["overall"] = {
-				},
-			},
-			["Khal-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khal-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Toshpal"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Toshpal",
-				["overall"] = {
-				},
-			},
-			["Slurpinho"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Slurpinho",
-				["class"] = "PALADIN",
-			},
-			["Rathux"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Rathux",
-				["overall"] = {
-				},
+				["class"] = "HUNTER",
 			},
 			["Fierypower-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Fierypower-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Fierypower-Kil'jaeden",
+				["class"] = "WARLOCK",
+			},
+			["Mordpriest-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Mordpriest-Kil'jaeden",
+				["class"] = "PRIEST",
+			},
+			["Warlockmania"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Warlockmania",
+				["class"] = "WARLOCK",
+			},
+			["Khal-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Khal-Kil'jaeden",
+				["class"] = "WARRIOR",
+			},
+			["Toshpal"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Toshpal",
+				["class"] = "PALADIN",
+			},
+			["Slurpinho"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Slurpinho",
+			},
+			["Rathux"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Rathux",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Baylesstv-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Ohnlyfans-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Ohnlyfans-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Ohnlyfans-Kil'jaeden",
+				["class"] = "MAGE",
 			},
 			["Versatillee-Mal'Ganis"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Versatillee-Mal'Ganis",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Versatillee-Mal'Ganis",
+				["class"] = "PALADIN",
 			},
 			["Eldeek-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Eldeek-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Eldeek-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Wilwar"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Wilwar",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Wilwar",
+				["class"] = "WARRIOR",
 			},
 		},
 		["boss_table"] = {
@@ -372,129 +373,129 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Il'gynoth, Corruption Reborn",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Il'gynoth, Corruption Reborn",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["237316"] = {
 		["hash"] = "237316",
 		["type"] = "deaths",
 		["name"] = "Drest'agath",
 		["id"] = 2373,
+		["diff"] = 16,
 		["player_db"] = {
 			["Haxpax-Illidan"] = {
-				["overall"] = {
-				},
+				["class"] = "WARLOCK",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Haxpax-Illidan",
-				["class"] = "WARLOCK",
 			},
 			["Gummybuns"] = {
-				["overall"] = {
-				},
+				["class"] = "MONK",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Gummybuns",
-				["class"] = "MONK",
 			},
 			["Baylesstv-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Baylesstv-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Sci",
-				["class"] = "PALADIN",
 			},
 			["Toshpal"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Toshpal",
-				["class"] = "PALADIN",
-			},
-			["Ferus-Barthilas"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ferus-Barthilas",
-				["class"] = "WARRIOR",
-			},
-			["Eldeek-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Eldeek-Kil'jaeden",
-				["overall"] = {
-				},
 			},
 			["Numberz"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Numberz",
-				["class"] = "PALADIN",
-			},
-			["Khal-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khal-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Andruw"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Andruw",
-				["class"] = "DEMONHUNTER",
-			},
-			["Ebolaspread"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ebolaspread",
-				["class"] = "WARLOCK",
-			},
-			["Judaasx"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Judaasx",
-				["class"] = "WARLOCK",
 			},
 			["Delpi"] = {
-				["overall"] = {
-				},
+				["class"] = "MAGE",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Delpi",
-				["class"] = "MAGE",
 			},
-			["Esperance-Kil'jaeden"] = {
+			["Judaasx"] = {
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
-				["name"] = "Esperance-Kil'jaeden",
 				["overall"] = {
 				},
+				["name"] = "Judaasx",
+			},
+			["Khal-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Khal-Kil'jaeden",
+				["class"] = "WARRIOR",
+			},
+			["Ferus-Barthilas"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ferus-Barthilas",
+			},
+			["Ebolaspread"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ebolaspread",
+			},
+			["Andruw"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Andruw",
+			},
+			["Eldeek-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Eldeek-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Esperance-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Esperance-Kil'jaeden",
+				["class"] = "MAGE",
 			},
 		},
 		["boss_table"] = {
@@ -506,18 +507,82 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Drest'agath",
 			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["id"] = 2343,
+			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["diff"] = 16,
 	},
 	["236615"] = {
 		["hash"] = "236615",
 		["type"] = "deaths",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
-		["diff"] = 15,
+		["player_db"] = {
+			["Gummybuns"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Gummybuns",
+				["overall"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Yukios-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Haxpax-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Baesong-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Baesong-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Artsong"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Artsong",
+				["overall"] = {
+				},
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Maxxed-Mal'Ganis",
+				["overall"] = {
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Emosong-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Fayfay-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Fayfay-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 11,
@@ -527,274 +592,210 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Carapace of N'Zoth",
 			["diff"] = 15,
-			["id"] = 2337,
 			["ej_instance_id"] = 1180,
+			["id"] = 2337,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Baesong-Kil'jaeden"] = {
-				["name"] = "Baesong-Kil'jaeden",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Yukios-Kil'jaeden"] = {
-				["name"] = "Yukios-Kil'jaeden",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Haxpax-Kil'jaeden"] = {
-				["name"] = "Haxpax-Kil'jaeden",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Gummybuns"] = {
-				["name"] = "Gummybuns",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["name"] = "Maxxed-Mal'Ganis",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["name"] = "Emosong-Kil'jaeden",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Fayfay-Kil'jaeden"] = {
-				["name"] = "Fayfay-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 	["236616"] = {
 		["hash"] = "236616",
 		["type"] = "deaths",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Babyhnter-Tichondrius",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Babyhnter-Tichondrius",
+				["class"] = "HUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Tianarrae-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Tianarrae-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Baylesstv-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Leafyo"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Leafyo",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Leafyo",
+				["class"] = "DRUID",
 			},
 			["Hoofalo-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Hoofalo-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Hoofalo-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Royalty"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Royalty",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Royalty",
+				["class"] = "PALADIN",
 			},
 			["Khal-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khal-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Khal-Kil'jaeden",
+				["class"] = "WARRIOR",
 			},
 			["Ferus-Barthilas"] = {
-				["name"] = "Ferus-Barthilas",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Ferus-Barthilas",
+				["overall"] = {
 				},
 			},
 			["Bogarn-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Bogarn-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Bogarn-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Yukiox"] = {
-				["name"] = "Yukiox",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Yukiox",
+				["overall"] = {
 				},
 			},
 			["Mordpriest-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Mordpriest-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Mordpriest-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 			["Lênny-Illidan"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 				["name"] = "Lênny-Illidan",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Esperance-Kil'jaeden"] = {
 				["overall"] = {
 				},
-			},
-			["Felside-Kil'jaeden"] = {
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Felside-Kil'jaeden",
-				["overall"] = {
-				},
+				["name"] = "Esperance-Kil'jaeden",
+				["class"] = "MAGE",
 			},
 			["Ebolaspread"] = {
-				["name"] = "Ebolaspread",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Ebolaspread",
+				["overall"] = {
 				},
 			},
 			["Toshpal"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 				["name"] = "Toshpal",
-				["overall"] = {
-				},
-			},
-			["Fierypower-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Fierypower-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Mitchconner-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Mitchconner-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Splendiferus-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Goffee-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Goffee-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Kajio-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Kajio-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Ohnlyfans-Kil'jaeden",
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 			},
 			["Logs"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Logs",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Logs",
+				["class"] = "MAGE",
+			},
+			["Mitchconner-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Mitchconner-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
+			},
+			["Kajio-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Kajio-Kil'jaeden",
+				["class"] = "MONK",
+			},
+			["Goffee-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Goffee-Kil'jaeden",
+				["class"] = "WARLOCK",
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Splendiferus-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Ohnlyfans-Kil'jaeden",
+				["class"] = "MAGE",
+			},
+			["Fierypower-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Fierypower-Kil'jaeden",
+				["class"] = "WARLOCK",
 			},
 			["Shotssfired-Tichondrius"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 				["name"] = "Shotssfired-Tichondrius",
+				["class"] = "HUNTER",
+			},
+			["Felside-Kil'jaeden"] = {
 				["overall"] = {
 				},
-			},
-			["Esperance-Kil'jaeden"] = {
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
-				["name"] = "Esperance-Kil'jaeden",
-				["overall"] = {
-				},
+				["name"] = "Felside-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -805,81 +806,81 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Carapace of N'Zoth",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Carapace of N'Zoth",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["237216"] = {
 		["hash"] = "237216",
 		["type"] = "deaths",
 		["name"] = "The Hivemind",
 		["id"] = 2372,
+		["diff"] = 16,
 		["player_db"] = {
+			["Numberz"] = {
+				["name"] = "Numberz",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Baylesstv-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
+				["class"] = "DRUID",
+			},
 			["Ebolaspread"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
 				["name"] = "Ebolaspread",
-			},
-			["Rivalry"] = {
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
+				["class"] = "WARLOCK",
 				["overall"] = {
 				},
-				["name"] = "Rivalry",
-			},
-			["Tianarrae-Kil'jaeden"] = {
 				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Tianarrae-Kil'jaeden",
-				["overall"] = {
 				},
 			},
 			["Ferus-Barthilas"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
 				["name"] = "Ferus-Barthilas",
-			},
-			["Baylesstv-Kil'jaeden"] = {
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
-				["name"] = "Baylesstv-Kil'jaeden",
+			},
+			["Rivalry"] = {
+				["name"] = "Rivalry",
+				["class"] = "DEMONHUNTER",
 				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 			["Sci"] = {
+				["name"] = "Sci",
 				["class"] = "PALADIN",
-				["deaths"] = {
-				},
 				["overall"] = {
 				},
-				["name"] = "Sci",
+				["deaths"] = {
+				},
 			},
 			["Yoùdienow-Kil'jaeden"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 				["name"] = "Yoùdienow-Kil'jaeden",
+				["class"] = "WARRIOR",
+			},
+			["Tianarrae-Kil'jaeden"] = {
 				["overall"] = {
 				},
-			},
-			["Numberz"] = {
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["overall"] = {
-				},
-				["name"] = "Numberz",
+				["name"] = "Tianarrae-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 		},
 		["boss_table"] = {
@@ -891,18 +892,410 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "The Hivemind",
 			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["id"] = 2333,
+			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["diff"] = 16,
 	},
 	["237516"] = {
 		["hash"] = "237516",
 		["type"] = "deaths",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["diff"] = 16,
+		["player_db"] = {
+			["Kerryhunts-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Kerryhunts-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Haxpax-Illidan"] = {
+				["name"] = "Haxpax-Illidan",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Radriar-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Radriar-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Leafyo"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Leafyo",
+				["overall"] = {
+				},
+			},
+			["Hoofalo-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Hoofalo-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Mitchconner-Kil'jaeden"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Mitchconner-Kil'jaeden",
+			},
+			["Andruw"] = {
+				["name"] = "Andruw",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Bogarn-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Bogarn-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Jarrbek-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Jarrbek-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Khal-Kil'jaeden"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Khal-Kil'jaeden",
+			},
+			["Slurpinho"] = {
+				["name"] = "Slurpinho",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Goffee-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Goffee-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Babyhnter-Tichondrius"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Babyhnter-Tichondrius",
+			},
+			["Baylesstv-Kil'jaeden"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
+			},
+			["Azngød-Tichondrius"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Azngød-Tichondrius",
+				["overall"] = {
+				},
+			},
+			["Eldeek-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Eldeek-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Felside-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Felside-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Danlow-Illidan"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Danlow-Illidan",
+			},
+			["Lennÿ-Kil'jaeden"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lennÿ-Kil'jaeden",
+			},
+			["Tianarrae-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Tianarrae-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Toshpal"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Toshpal",
+				["overall"] = {
+				},
+			},
+			["Smytt"] = {
+				["name"] = "Smytt",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Sci"] = {
+				["name"] = "Sci",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Genoqt-Tichondrius"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Genoqt-Tichondrius",
+				["overall"] = {
+				},
+			},
+			["Sán-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Sán-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Myss-Tichondrius"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Myss-Tichondrius",
+				["class"] = "MAGE",
+			},
+			["Royalty"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Royalty",
+				["overall"] = {
+				},
+			},
+			["Ebolaspread"] = {
+				["name"] = "Ebolaspread",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Ferus-Barthilas"] = {
+				["name"] = "Ferus-Barthilas",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Khodiie-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Khodiie-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Thunderrz"] = {
+				["name"] = "Thunderrz",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Delpi"] = {
+				["name"] = "Delpi",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Rivalry"] = {
+				["name"] = "Rivalry",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Esperance-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Esperance-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Mordpriest-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Mordpriest-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Holypenguin"] = {
+				["name"] = "Holypenguin",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Logs"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Logs",
+				["overall"] = {
+				},
+			},
+			["Sis-Arthas"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Sis-Arthas",
+				["overall"] = {
+				},
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Splendiferus-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Warlockmania"] = {
+				["name"] = "Warlockmania",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Fierypower-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Fierypower-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Kajio-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+				["name"] = "Kajio-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Numberz"] = {
+				["name"] = "Numberz",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Wilwar"] = {
+				["name"] = "Wilwar",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["name"] = "Judaasx",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Gødmage-Tichondrius"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Gødmage-Tichondrius",
+				["class"] = "MAGE",
+			},
+			["Rathux"] = {
+				["name"] = "Rathux",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Xiaphos-Mal'Ganis"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Xiaphos-Mal'Ganis",
+				["class"] = "WARRIOR",
+			},
+			["Ancestràl-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Ancestràl-Kil'jaeden",
+				["class"] = "SHAMAN",
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
 			["index"] = 12,
@@ -911,362 +1304,18 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "N'Zoth the Corruptor",
-			["encounter"] = "N'Zoth the Corruptor",
-			["ej_instance_id"] = 1180,
 			["diff"] = 16,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "N'Zoth the Corruptor",
 		},
-		["player_db"] = {
-			["Kerryhunts-Kil'jaeden"] = {
-				["name"] = "Kerryhunts-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Haxpax-Illidan"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Haxpax-Illidan",
-			},
-			["Radriar-Kil'jaeden"] = {
-				["name"] = "Radriar-Kil'jaeden",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Leafyo"] = {
-				["name"] = "Leafyo",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Hoofalo-Kil'jaeden"] = {
-				["name"] = "Hoofalo-Kil'jaeden",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Andruw"] = {
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Andruw",
-			},
-			["Bogarn-Kil'jaeden"] = {
-				["name"] = "Bogarn-Kil'jaeden",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Jarrbek-Kil'jaeden"] = {
-				["name"] = "Jarrbek-Kil'jaeden",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Slurpinho"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Slurpinho",
-			},
-			["Goffee-Kil'jaeden"] = {
-				["name"] = "Goffee-Kil'jaeden",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Azngød-Tichondrius"] = {
-				["name"] = "Azngød-Tichondrius",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Eldeek-Kil'jaeden"] = {
-				["name"] = "Eldeek-Kil'jaeden",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Felside-Kil'jaeden"] = {
-				["name"] = "Felside-Kil'jaeden",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Tianarrae-Kil'jaeden"] = {
-				["name"] = "Tianarrae-Kil'jaeden",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Smytt"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Smytt",
-			},
-			["Ancestràl-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Ancestràl-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Sci"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Sci",
-			},
-			["Genoqt-Tichondrius"] = {
-				["name"] = "Genoqt-Tichondrius",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Xiaphos-Mal'Ganis"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Xiaphos-Mal'Ganis",
-				["overall"] = {
-				},
-			},
-			["Myss-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Myss-Tichondrius",
-				["overall"] = {
-				},
-			},
-			["Rathux"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Rathux",
-			},
-			["Ebolaspread"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Ebolaspread",
-			},
-			["Ferus-Barthilas"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Ferus-Barthilas",
-			},
-			["Khodiie-Kil'jaeden"] = {
-				["name"] = "Khodiie-Kil'jaeden",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Thunderrz"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Thunderrz",
-			},
-			["Delpi"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Delpi",
-			},
-			["Rivalry"] = {
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Rivalry",
-			},
-			["Wilwar"] = {
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Wilwar",
-			},
-			["Mordpriest-Kil'jaeden"] = {
-				["name"] = "Mordpriest-Kil'jaeden",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Numberz"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Numberz",
-			},
-			["Kajio-Kil'jaeden"] = {
-				["name"] = "Kajio-Kil'jaeden",
-				["class"] = "MONK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Fierypower-Kil'jaeden"] = {
-				["name"] = "Fierypower-Kil'jaeden",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Warlockmania"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Warlockmania",
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["name"] = "Splendiferus-Kil'jaeden",
-				["class"] = "DEMONHUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Sis-Arthas"] = {
-				["name"] = "Sis-Arthas",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Logs"] = {
-				["name"] = "Logs",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Holypenguin"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Holypenguin",
-			},
-			["Esperance-Kil'jaeden"] = {
-				["name"] = "Esperance-Kil'jaeden",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Judaasx"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Judaasx",
-			},
-			["Gødmage-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Gødmage-Tichondrius",
-				["overall"] = {
-				},
-			},
-			["Royalty"] = {
-				["name"] = "Royalty",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Sán-Kil'jaeden"] = {
-				["name"] = "Sán-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Toshpal"] = {
-				["name"] = "Toshpal",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 16,
 	},
 	["236916"] = {
 		["hash"] = "236916",
 		["type"] = "deaths",
 		["name"] = "Prophet Skitra",
 		["id"] = 2369,
+		["diff"] = 16,
 		["player_db"] = {
 		},
 		["boss_table"] = {
@@ -1278,18 +1327,82 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Prophet Skitra",
 			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["id"] = 2334,
+			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["diff"] = 16,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "deaths",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["diff"] = 15,
+		["player_db"] = {
+			["Judaasx"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Judaasx",
+				["overall"] = {
+				},
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Ybrik-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Illestt-Barthilas"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Illestt-Barthilas",
+				["overall"] = {
+				},
+			},
+			["Babynv"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Babynv",
+				["overall"] = {
+				},
+			},
+			["Artsong"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Artsong",
+				["overall"] = {
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Emosong-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Taistoi-Illidan"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Taistoi-Illidan",
+				["overall"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Yarilys-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 12,
@@ -1299,165 +1412,17 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "N'Zoth the Corruptor",
 			["diff"] = 15,
-			["id"] = 2344,
 			["ej_instance_id"] = 1180,
+			["id"] = 2344,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Babynv"] = {
-				["name"] = "Babynv",
-				["class"] = "SHAMAN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["name"] = "Ybrik-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Illestt-Barthilas"] = {
-				["name"] = "Illestt-Barthilas",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Judaasx"] = {
-				["name"] = "Judaasx",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Taistoi-Illidan"] = {
-				["name"] = "Taistoi-Illidan",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["name"] = "Emosong-Kil'jaeden",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["name"] = "Yarilys-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 	["237016"] = {
 		["hash"] = "237016",
 		["type"] = "deaths",
 		["name"] = "Vexiona",
 		["id"] = 2370,
-		["diff"] = 16,
-		["player_db"] = {
-			["Haxpax-Illidan"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Haxpax-Illidan",
-				["class"] = "WARLOCK",
-			},
-			["Gummybuns"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Gummybuns",
-				["class"] = "MONK",
-			},
-			["Rivalry"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Rivalry",
-				["class"] = "DEMONHUNTER",
-			},
-			["Sci"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Sci",
-				["class"] = "PALADIN",
-			},
-			["Slurpinho"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Slurpinho",
-				["class"] = "PALADIN",
-			},
-			["Ebolaspread"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ebolaspread",
-				["class"] = "WARLOCK",
-			},
-			["Numberz"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Numberz",
-				["class"] = "PALADIN",
-			},
-			["Artsong"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-			},
-			["Ferus-Barthilas"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ferus-Barthilas",
-				["class"] = "WARRIOR",
-			},
-			["Wilwar"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Wilwar",
-				["class"] = "WARRIOR",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
 			["index"] = 9,
@@ -1466,91 +1431,280 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Vexiona",
-			["encounter"] = "Vexiona",
-			["ej_instance_id"] = 1180,
 			["diff"] = 16,
-		},
-	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "deaths",
-		["name"] = "The Hivemind",
-		["id"] = 2372,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 5,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
-			["mapid"] = 2217,
-			["name"] = "The Hivemind",
 			["ej_instance_id"] = 1180,
-			["encounter"] = "The Hivemind",
-			["diff"] = 15,
+			["encounter"] = "Vexiona",
 		},
 		["player_db"] = {
-			["Baesong-Kil'jaeden"] = {
-				["name"] = "Baesong-Kil'jaeden",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
+			["Haxpax-Illidan"] = {
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["overall"] = {
+				},
+				["name"] = "Haxpax-Illidan",
+			},
+			["Gummybuns"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Gummybuns",
+			},
+			["Rivalry"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Rivalry",
+			},
+			["Sci"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sci",
+			},
+			["Slurpinho"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Slurpinho",
+			},
+			["Ebolaspread"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ebolaspread",
+			},
+			["Numberz"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Numberz",
+			},
+			["Artsong"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Ferus-Barthilas"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ferus-Barthilas",
+			},
+			["Wilwar"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Wilwar",
 			},
 		},
+		["diff"] = 16,
+	},
+	["237716"] = {
+		["hash"] = "237716",
+		["type"] = "deaths",
+		["name"] = "Dark Inquisitor Xanesh",
+		["id"] = 2377,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 4,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2328,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Dark Inquisitor Xanesh",
+			["diff"] = 16,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Dark Inquisitor Xanesh",
+		},
+		["player_db"] = {
+			["Haxpax-Illidan"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Haxpax-Illidan",
+			},
+			["Gummybuns"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Gummybuns",
+			},
+			["Smytt"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Smytt",
+			},
+			["Thunderrz"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Thunderrz",
+			},
+			["Toshpal"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Toshpal",
+			},
+			["Pier"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Pier",
+			},
+			["Sci"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sci",
+			},
+			["Judaasx"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Judaasx",
+			},
+			["Ebolaspread"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ebolaspread",
+			},
+			["Andruw"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Andruw",
+			},
+			["Numberz"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Numberz",
+			},
+			["Ferus-Barthilas"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ferus-Barthilas",
+			},
+			["Rathux"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Rathux",
+			},
+			["Wilwar"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Wilwar",
+			},
+		},
+		["diff"] = 16,
 	},
 	["236516"] = {
 		["hash"] = "236516",
 		["type"] = "deaths",
 		["name"] = "Maut",
 		["id"] = 2365,
+		["diff"] = 16,
 		["player_db"] = {
 			["Evangelos"] = {
-				["name"] = "Evangelos",
-				["class"] = "DEATHKNIGHT",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Evangelos",
+				["overall"] = {
 				},
 			},
 			["Goffee-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Goffee-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Goffee-Kil'jaeden",
+				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
-				["name"] = "Numberz",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Numberz",
+				["overall"] = {
 				},
 			},
 			["Ohnlyfans-Kil'jaeden"] = {
+				["overall"] = {
+				},
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 				["name"] = "Ohnlyfans-Kil'jaeden",
+				["class"] = "MAGE",
+			},
+			["Judaasx"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Judaasx",
 				["overall"] = {
 				},
 			},
 			["Smytt"] = {
-				["name"] = "Smytt",
+				["deaths"] = {
+				},
 				["class"] = "HUNTER",
+				["name"] = "Smytt",
 				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Judaasx"] = {
-				["name"] = "Judaasx",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
-				["deaths"] = {
 				},
 			},
 		},
@@ -1562,153 +1716,153 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Maut",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Maut",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["236816"] = {
 		["hash"] = "236816",
 		["type"] = "deaths",
 		["name"] = "Wrathion",
 		["id"] = 2368,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Babyhnter-Tichondrius",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Babyhnter-Tichondrius",
+				["class"] = "HUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Tianarrae-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Tianarrae-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Baylesstv-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Fierypower-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Fierypower-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Fierypower-Kil'jaeden",
+				["class"] = "WARLOCK",
 			},
 			["Royalty"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Royalty",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Royalty",
+				["class"] = "PALADIN",
 			},
 			["Mitchconner-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Mitchconner-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Mitchconner-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
 			},
 			["Ferus-Barthilas"] = {
-				["name"] = "Ferus-Barthilas",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Ferus-Barthilas",
+				["overall"] = {
 				},
 			},
 			["Bogarn-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Bogarn-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Bogarn-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Yoùdienow-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Yoùdienow-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Yoùdienow-Kil'jaeden",
+				["class"] = "WARRIOR",
 			},
 			["Toshpal"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Toshpal",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Toshpal",
+				["class"] = "PALADIN",
 			},
 			["Smytt"] = {
-				["name"] = "Smytt",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Smytt",
+				["overall"] = {
 				},
 			},
 			["Goffee-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Goffee-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Goffee-Kil'jaeden",
+				["class"] = "WARLOCK",
 			},
 			["Leafyo"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Leafyo",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Leafyo",
+				["class"] = "DRUID",
 			},
 			["Ohnlyfans-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Ohnlyfans-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Ohnlyfans-Kil'jaeden",
+				["class"] = "MAGE",
 			},
 			["Splendiferus-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Splendiferus-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Splendiferus-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
 			},
 			["Eldeek-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Eldeek-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Eldeek-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Esperance-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Esperance-Kil'jaeden",
+				["class"] = "MAGE",
 			},
 		},
 		["boss_table"] = {
@@ -1719,329 +1873,329 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Wrathion",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Wrathion",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["236416"] = {
 		["hash"] = "236416",
 		["type"] = "deaths",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Babyhnter-Tichondrius",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Babyhnter-Tichondrius",
+				["class"] = "HUNTER",
 			},
 			["Kajio-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Kajio-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Kajio-Kil'jaeden",
+				["class"] = "MONK",
 			},
 			["Fierypower-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Fierypower-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Fierypower-Kil'jaeden",
+				["class"] = "WARLOCK",
 			},
 			["Hoofalo-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Hoofalo-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Hoofalo-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
-				["overall"] = {
-				},
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Evangelos",
-				["class"] = "DEATHKNIGHT",
 			},
 			["Mitchconner-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Mitchconner-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Mitchconner-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
 			},
 			["Andruw"] = {
-				["overall"] = {
-				},
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Andruw",
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Bogarn-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Bogarn-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Yoùdienow-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Yoùdienow-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Yoùdienow-Kil'jaeden",
+				["class"] = "WARRIOR",
 			},
 			["Yukiox"] = {
-				["overall"] = {
-				},
+				["class"] = "MAGE",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Yukiox",
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
-				["overall"] = {
-				},
+				["class"] = "MONK",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Gummybuns",
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Toshpal",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Toshpal",
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Slurpinho",
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Goffee-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Goffee-Kil'jaeden",
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Eldeek-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Eldeek-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Esperance-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Esperance-Kil'jaeden",
+				["class"] = "MAGE",
 			},
 			["Tianarrae-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Tianarrae-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Tianarrae-Kil'jaeden",
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Baylesstv-Kil'jaeden",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Sci",
-				["class"] = "PALADIN",
 			},
 			["Logs"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Logs",
 				["overall"] = {
 				},
+				["deaths"] = {
+				},
+				["name"] = "Logs",
+				["class"] = "MAGE",
 			},
 			["Ebolaspread"] = {
-				["overall"] = {
-				},
+				["class"] = "WARLOCK",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Ebolaspread",
-				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
-				["overall"] = {
-				},
+				["class"] = "PALADIN",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Numberz",
-				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
-				["overall"] = {
-				},
+				["class"] = "MAGE",
 				["deaths"] = {
+				},
+				["overall"] = {
 				},
 				["name"] = "Delpi",
-				["class"] = "MAGE",
-			},
-			["Felside-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Felside-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Mordpriest-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Mordpriest-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Ferus-Barthilas"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ferus-Barthilas",
-				["class"] = "WARRIOR",
-			},
-			["Smytt"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Smytt",
-				["class"] = "HUNTER",
-			},
-			["Haxpax-Illidan"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Haxpax-Illidan",
-				["class"] = "WARLOCK",
-			},
-			["Warlockmania"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Warlockmania",
-				["class"] = "WARLOCK",
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Splendiferus-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Royalty"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Royalty",
-				["overall"] = {
-				},
-			},
-			["Wilwar"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Wilwar",
-				["class"] = "WARRIOR",
-			},
-			["Leafyo"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Leafyo",
-				["overall"] = {
-				},
-			},
-			["Artsong"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-			},
-			["Judaasx"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Judaasx",
-				["class"] = "WARLOCK",
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Ohnlyfans-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Khal-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Khal-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Pier"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Pier",
-				["class"] = "WARLOCK",
 			},
 			["Thunderrz"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Thunderrz",
+			},
+			["Mordpriest-Kil'jaeden"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Thunderrz",
+				["name"] = "Mordpriest-Kil'jaeden",
+				["class"] = "PRIEST",
+			},
+			["Pier"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Pier",
+			},
+			["Khal-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Khal-Kil'jaeden",
+				["class"] = "WARRIOR",
+			},
+			["Haxpax-Illidan"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Haxpax-Illidan",
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Splendiferus-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
+			},
+			["Warlockmania"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Warlockmania",
+			},
+			["Artsong"] = {
 				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Artsong",
+			},
+			["Leafyo"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Leafyo",
+				["class"] = "DRUID",
+			},
+			["Wilwar"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Wilwar",
+			},
+			["Royalty"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Royalty",
+				["class"] = "PALADIN",
+			},
+			["Judaasx"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Judaasx",
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Ohnlyfans-Kil'jaeden",
+				["class"] = "MAGE",
+			},
+			["Smytt"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Smytt",
+			},
+			["Ferus-Barthilas"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ferus-Barthilas",
+			},
+			["Felside-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Felside-Kil'jaeden",
+				["class"] = "DEMONHUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -2051,18 +2205,58 @@ DeathGraphsDBDeaths = {
 			["id"] = 2331,
 			["mapid"] = 2217,
 			["name"] = "Ra-den the Despoiled",
-			["diff"] = 16,
-			["encounter"] = "Ra-den the Despoiled",
 			["ej_instance_id"] = 1180,
+			["encounter"] = "Ra-den the Despoiled",
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["236415"] = {
 		["hash"] = "236415",
 		["type"] = "deaths",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
-		["diff"] = 15,
+		["player_db"] = {
+			["Royalty"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Royalty",
+				["overall"] = {
+				},
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Ybrik-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Artsong"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Artsong",
+				["overall"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Cohava-Illidan",
+				["overall"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Yarilys-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 10,
@@ -2071,59 +2265,35 @@ DeathGraphsDBDeaths = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Ra-den the Despoiled",
-			["encounter"] = "Ra-den the Despoiled",
-			["ej_instance_id"] = 1180,
 			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Ra-den the Despoiled",
 		},
-		["player_db"] = {
-			["Royalty"] = {
-				["name"] = "Royalty",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["name"] = "Ybrik-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Cohava-Illidan"] = {
-				["name"] = "Cohava-Illidan",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["name"] = "Yarilys-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
 	["236815"] = {
 		["hash"] = "236815",
 		["type"] = "deaths",
 		["name"] = "Wrathion",
 		["id"] = 2368,
-		["diff"] = 15,
+		["player_db"] = {
+			["Artsong"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Artsong",
+				["overall"] = {
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Emosong-Kil'jaeden",
+				["class"] = "ROGUE",
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -2133,161 +2303,39 @@ DeathGraphsDBDeaths = {
 			["try_number"] = 1,
 			["name"] = "Wrathion",
 			["diff"] = 15,
-			["id"] = 2329,
 			["ej_instance_id"] = 1180,
+			["id"] = 2329,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Artsong"] = {
-				["name"] = "Artsong",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Emosong-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-		},
+		["diff"] = 15,
 	},
-	["237716"] = {
-		["hash"] = "237716",
+	["237215"] = {
+		["hash"] = "237215",
 		["type"] = "deaths",
-		["name"] = "Dark Inquisitor Xanesh",
-		["id"] = 2377,
-		["diff"] = 16,
+		["name"] = "The Hivemind",
+		["id"] = 2372,
 		["player_db"] = {
-			["Haxpax-Illidan"] = {
-				["overall"] = {
-				},
+			["Baesong-Kil'jaeden"] = {
 				["deaths"] = {
 				},
-				["name"] = "Haxpax-Illidan",
-				["class"] = "WARLOCK",
-			},
-			["Gummybuns"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Gummybuns",
-				["class"] = "MONK",
-			},
-			["Smytt"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Smytt",
-				["class"] = "HUNTER",
-			},
-			["Thunderrz"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Thunderrz",
-				["class"] = "HUNTER",
-			},
-			["Toshpal"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Toshpal",
-				["class"] = "PALADIN",
-			},
-			["Pier"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Pier",
-				["class"] = "WARLOCK",
-			},
-			["Sci"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Sci",
-				["class"] = "PALADIN",
-			},
-			["Ebolaspread"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ebolaspread",
-				["class"] = "WARLOCK",
-			},
-			["Rathux"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Rathux",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Andruw"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Andruw",
-				["class"] = "DEMONHUNTER",
-			},
-			["Ferus-Barthilas"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Ferus-Barthilas",
 				["class"] = "WARRIOR",
-			},
-			["Numberz"] = {
+				["name"] = "Baesong-Kil'jaeden",
 				["overall"] = {
 				},
-				["deaths"] = {
-				},
-				["name"] = "Numberz",
-				["class"] = "PALADIN",
-			},
-			["Judaasx"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Judaasx",
-				["class"] = "WARLOCK",
-			},
-			["Wilwar"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Wilwar",
-				["class"] = "WARRIOR",
 			},
 		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 4,
+			["diff_string"] = "Heroic",
+			["index"] = 5,
 			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2328,
+			["id"] = 2333,
 			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Dark Inquisitor Xanesh",
-			["encounter"] = "Dark Inquisitor Xanesh",
+			["name"] = "The Hivemind",
+			["diff"] = 15,
+			["encounter"] = "The Hivemind",
 			["ej_instance_id"] = 1180,
-			["diff"] = 16,
 		},
+		["diff"] = 15,
 	},
 }
 DeathGraphsDBEndurance = {
@@ -2296,46 +2344,46 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Shad'har the Insatiable",
 		["id"] = 2367,
+		["diff"] = 16,
 		["player_db"] = {
 			["Haxpax-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Leafyo"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Hoofalo-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Khal-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -2343,10 +2391,12 @@ DeathGraphsDBEndurance = {
 						"Debilitating Spit (DoT) |cFFFF3333102,485|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARRIOR",
 			},
 			["Andruw"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -2354,47 +2404,45 @@ DeathGraphsDBEndurance = {
 						"Debilitating Spit (DoT) |cFFFF333355,274|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 3,
 				["points"] = 300,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2402,25 +2450,25 @@ DeathGraphsDBEndurance = {
 						"Entropic Breath |cFFFF3333645,906|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2428,38 +2476,40 @@ DeathGraphsDBEndurance = {
 						"Eye of Corruption |cFFFF333323,260|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -2467,54 +2517,52 @@ DeathGraphsDBEndurance = {
 						"Entropic Explosion |cFFFF333356,515|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "MAGE",
-			},
-			["Felside-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
-			["Rathux"] = {
+			["Thunderrz"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+			},
+			["Mitchconner-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Mordpriest-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
-			["Artsong"] = {
+			["Ferus-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Smytt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Babyhnter-Tichondrius"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -2522,44 +2570,25 @@ DeathGraphsDBEndurance = {
 						"Entropic Mantle |cFFFF333325,432|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "HUNTER",
 			},
-			["Logs"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "MAGE",
+			["Wilwar"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
-					{
-						2, -- [1]
-						130.8279999997467, -- [2]
-						"Grand Delusions |cFFFF3333194,203|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Splendiferus-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["deaths"] = {
+				},
 				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Warlockmania"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Fierypower-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
 			},
 			["Kajio-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "MONK",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -2567,48 +2596,68 @@ DeathGraphsDBEndurance = {
 						"Eye of Corruption |cFFFF333391,626|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "MONK",
 			},
-			["Wilwar"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Fierypower-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 200,
 				["deaths"] = {
 				},
 				["class"] = "WARLOCK",
 			},
+			["Warlockmania"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Logs"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						2, -- [1]
+						130.8279999997467, -- [2]
+						"Grand Delusions |cFFFF3333194,203|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "MAGE",
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
 			["Ohnlyfans-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
-			["Ferus-Barthilas"] = {
+			["Artsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
-			["Mitchconner-Kil'jaeden"] = {
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Felside-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["deaths"] = {
+				},
 				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Thunderrz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -2619,36 +2668,35 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Shad'har the Insatiable",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Shad'har the Insatiable",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["237416"] = {
 		["hash"] = "237416",
 		["type"] = "endurance",
 		["name"] = "Il'gynoth, Corruption Reborn",
 		["id"] = 2374,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "HUNTER",
 				["deaths"] = {
 				},
+				["class"] = "HUNTER",
 			},
 			["Oxclamation"] = {
 				["encounters"] = 4,
 				["points"] = 400,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Itsyellowy"] = {
 				["encounters"] = 4,
 				["points"] = 390,
-				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -2656,39 +2704,39 @@ DeathGraphsDBEndurance = {
 						"Cursed Pulse |cFFFF3333182,062|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
 			},
 			["Fierypower-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Hoofalo-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 5,
 				["points"] = 500,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Mitchconner-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Andruw"] = {
 				["encounters"] = 5,
 				["points"] = 490,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -2696,11 +2744,11 @@ DeathGraphsDBEndurance = {
 						"Eye of Corruption |cFFFF333348,354|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2708,31 +2756,33 @@ DeathGraphsDBEndurance = {
 						"Cursebreak |cFFFF333372,556|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DRUID",
 			},
 			["Yukiox"] = {
 				["encounters"] = 5,
 				["points"] = 500,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 5,
 				["points"] = 500,
-				["class"] = "MONK",
 				["deaths"] = {
 				},
+				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 6,
 				["points"] = 600,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2740,19 +2790,17 @@ DeathGraphsDBEndurance = {
 						"Morass of Corruption (DoT) |cFFFF3333130,185|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
 			["Rathux"] = {
 				["encounters"] = 5,
 				["points"] = 500,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2760,25 +2808,25 @@ DeathGraphsDBEndurance = {
 						"Morass of Corruption (DoT) |cFFFF3333139,205|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Wilwar"] = {
 				["encounters"] = 5,
 				["points"] = 500,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
 			["Smytt"] = {
 				["encounters"] = 5,
 				["points"] = 490,
-				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -2786,38 +2834,54 @@ DeathGraphsDBEndurance = {
 						"Cursebreak |cFFFF3333300,028|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "HUNTER",
 			},
 			["Thunderrz"] = {
 				["encounters"] = 5,
 				["points"] = 500,
+				["deaths"] = {
+				},
 				["class"] = "HUNTER",
+			},
+			["Haxpax-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
 			},
-			["Leafyo"] = {
+			["Rivalry"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Baylesstv-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
 			["Logs"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
+			},
+			["Numberz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Durantye"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
 			},
 			["Ferus-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2825,25 +2889,11 @@ DeathGraphsDBEndurance = {
 						"Morass of Corruption (DoT) |cFFFF3333137,186|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARRIOR",
-			},
-			["Durantye"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Numberz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2851,45 +2901,38 @@ DeathGraphsDBEndurance = {
 						"Morass of Corruption (DoT) |cFFFF3333140,565|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Delpi"] = {
 				["encounters"] = 5,
 				["points"] = 500,
+				["deaths"] = {
+				},
 				["class"] = "MAGE",
-				["deaths"] = {
-				},
 			},
-			["Artsong"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "HUNTER",
+			["Esperance-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
-			["Sci"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["class"] = "PALADIN",
+			["Mordpriest-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
-					{
-						2, -- [1]
-						279.6219999995083, -- [2]
-						"Melee |cFFFF33332,741|r", -- [3]
-					}, -- [1]
 				},
+				["class"] = "PRIEST",
 			},
 			["Holypenguin"] = {
 				["encounters"] = 4,
 				["points"] = 390,
-				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -2897,44 +2940,32 @@ DeathGraphsDBEndurance = {
 						"Cursed Pulse |cFFFF3333180,315|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
 			},
-			["Felside-Kil'jaeden"] = {
+			["Kajio-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "MONK",
 			},
 			["Datavi"] = {
 				["encounters"] = 4,
 				["points"] = 400,
+				["deaths"] = {
+				},
 				["class"] = "ROGUE",
-				["deaths"] = {
-				},
 			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						140.2069999999367, -- [2]
-						"Hemorrhage |cFFFF333374,728|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
+			["Khal-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
 			["Warlockmania"] = {
 				["encounters"] = 5,
 				["points"] = 480,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -2947,53 +2978,70 @@ DeathGraphsDBEndurance = {
 						"Hemorrhage |cFFFF333373,006|r", -- [3]
 					}, -- [2]
 				},
+				["class"] = "WARLOCK",
 			},
-			["Khal-Kil'jaeden"] = {
+			["Splendiferus-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
-			["Kajio-Kil'jaeden"] = {
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						2, -- [1]
+						140.2069999999367, -- [2]
+						"Hemorrhage |cFFFF333374,728|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
+			},
+			["Felside-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MONK",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
-			["Mordpriest-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
+			["Sci"] = {
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
+					{
+						2, -- [1]
+						279.6219999995083, -- [2]
+						"Melee |cFFFF33332,741|r", -- [3]
+					}, -- [1]
 				},
+				["class"] = "PALADIN",
 			},
-			["Esperance-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
+			["Artsong"] = {
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
+				["class"] = "HUNTER",
 			},
 			["Judaasx"] = {
 				["encounters"] = 5,
 				["points"] = 500,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Ohnlyfans-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Versatillee-Mal'Ganis"] = {
 				["encounters"] = 4,
 				["points"] = 360,
-				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -3016,20 +3064,21 @@ DeathGraphsDBEndurance = {
 						"Morass of Corruption (DoT) |cFFFF3333145,095|r", -- [3]
 					}, -- [4]
 				},
+				["class"] = "PALADIN",
 			},
-			["Rivalry"] = {
+			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
+				["class"] = "DRUID",
 			},
-			["Haxpax-Illidan"] = {
+			["Leafyo"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
+				["class"] = "DRUID",
 			},
 		},
 		["boss_table"] = {
@@ -3040,21 +3089,22 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Il'gynoth, Corruption Reborn",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Il'gynoth, Corruption Reborn",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["237316"] = {
 		["hash"] = "237316",
 		["type"] = "endurance",
 		["name"] = "Drest'agath",
 		["id"] = 2373,
+		["diff"] = 16,
 		["player_db"] = {
 			["Haxpax-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -3062,46 +3112,46 @@ DeathGraphsDBEndurance = {
 						"Entropic Crash |cFFFF3333115,384|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Leafyo"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Hoofalo-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Mitchconner-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Andruw"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -3109,54 +3159,52 @@ DeathGraphsDBEndurance = {
 						"Reality Tear |cFFFF3333141,830|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -3164,52 +3212,54 @@ DeathGraphsDBEndurance = {
 						"Entropic Crash |cFFFF3333540,548|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Felside-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Ferus-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -3217,129 +3267,24 @@ DeathGraphsDBEndurance = {
 						"Reality Tear |cFFFF3333127,908|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARRIOR",
 			},
 			["Delpi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Esperance-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
 				["class"] = "MAGE",
 				["deaths"] = {
-					{
-						1, -- [1]
-						358.811999999918, -- [2]
-						"Reality Tear |cFFFF3333285,829|r", -- [3]
-					}, -- [1]
 				},
 			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Mordpriest-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Numberz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Babyhnter-Tichondrius"] = {
+			["Thunderrz"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-			},
-			["Logs"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Warlockmania"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Fierypower-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Kajio-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Wilwar"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Smytt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
 			},
 			["Khal-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -3347,13 +3292,117 @@ DeathGraphsDBEndurance = {
 						"Entropic Crash |cFFFF3333332,599|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARRIOR",
 			},
-			["Thunderrz"] = {
+			["Mordpriest-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Smytt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Numberz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Babyhnter-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "HUNTER",
+			},
+			["Wilwar"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Kajio-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Fierypower-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Warlockmania"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Logs"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Esperance-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						358.811999999918, -- [2]
+						"Reality Tear |cFFFF3333285,829|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "MAGE",
 			},
 		},
 		["boss_table"] = {
@@ -3365,18 +3414,391 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Drest'agath",
 			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["id"] = 2343,
+			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["diff"] = 16,
 	},
 	["236615"] = {
 		["hash"] = "236615",
 		["type"] = "endurance",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
-		["diff"] = 15,
+		["player_db"] = {
+			["Candymán-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Doublehitt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Rivalry"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hysterìa-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Singsòng-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Kleptto-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						303.2739999999758, -- [2]
+						"Thrashing Tentacle |cFFFF33331,009,622|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Vercetty-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Papisalad-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Fortytoo-ShadowCouncil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Mattea-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Gummybuns"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						302.9639999999781, -- [2]
+						"Thrashing Tentacle |cFFFF3333667,421|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Fayfay-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Shankntwist-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Killarn-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Turbolok-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Scitama-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Yuffa-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Frontal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Baesong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						322.9050000002608, -- [2]
+						"Nightmare Antibody |cFFFF333336,527|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Taistoi-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Gewccishadez-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Solvèj"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Illestt-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Illsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						192.3379999999888, -- [2]
+						"Eternal Darkness |cFFFF333396,494|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Haschwàlth-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Zanlet-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Haiyue-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Twodaggers-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Epicdemic-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Choplo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Nippybust-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Evandh-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Ozdevil-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						365.3379999999888, -- [2]
+						"Thrashing Tentacle |cFFFF33331,011,493|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						279.9369999999763, -- [2]
+						"Nightmare Antibody |cFFFF33335,653|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Zabiroo-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Scibolt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 11,
@@ -3386,396 +3808,22 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Carapace of N'Zoth",
 			["diff"] = 15,
-			["id"] = 2337,
 			["ej_instance_id"] = 1180,
+			["id"] = 2337,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Candymán-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Doublehitt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Rivalry"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Hysterìa-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Singsòng-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Kleptto-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Yukios-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["deaths"] = {
-					{
-						1, -- [1]
-						303.2739999999758, -- [2]
-						"Thrashing Tentacle |cFFFF33331,009,622|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "SHAMAN",
-			},
-			["Vercetty-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Papisalad-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Fortytoo-ShadowCouncil"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Mattea-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Gummybuns"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						302.9639999999781, -- [2]
-						"Thrashing Tentacle |cFFFF3333667,421|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MONK",
-			},
-			["Toshpal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Fayfay-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Shankntwist-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Killarn-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Turbolok-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Scitama-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Yuffa-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Frontal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Baesong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						322.9050000002608, -- [2]
-						"Nightmare Antibody |cFFFF333336,527|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Taistoi-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Gewccishadez-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Solvèj"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Cohava-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Illestt-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Illsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						192.3379999999888, -- [2]
-						"Eternal Darkness |cFFFF333396,494|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Haschwàlth-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Zanlet-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Haiyue-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Emosong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						279.9369999999763, -- [2]
-						"Nightmare Antibody |cFFFF33335,653|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "ROGUE",
-			},
-			["Epicdemic-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Choplo"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Haxpax-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						365.3379999999888, -- [2]
-						"Thrashing Tentacle |cFFFF33331,011,493|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PRIEST",
-			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Ozdevil-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Evandh-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Nippybust-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Twodaggers-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Zabiroo-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Scibolt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-		},
+		["diff"] = 15,
 	},
 	["236616"] = {
 		["hash"] = "236616",
 		["type"] = "endurance",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
 				["encounters"] = 20,
 				["points"] = 1980,
-				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						11, -- [1]
@@ -3788,18 +3836,18 @@ DeathGraphsDBEndurance = {
 						"Mental Decay (DoT) |cFFFF333331,443|r", -- [3]
 					}, -- [2]
 				},
+				["class"] = "HUNTER",
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Fierypower-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1960,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -3822,11 +3870,11 @@ DeathGraphsDBEndurance = {
 						"Mental Decay (DoT) |cFFFF333332,762|r", -- [3]
 					}, -- [4]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Hoofalo-Kil'jaeden"] = {
 				["encounters"] = 19,
 				["points"] = 1890,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -3834,18 +3882,18 @@ DeathGraphsDBEndurance = {
 						"Melee |cFFFF3333190,959|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Khal-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1920,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -3888,18 +3936,18 @@ DeathGraphsDBEndurance = {
 						"Thrashing Tentacle |cFFFF33331,115,831|r", -- [3]
 					}, -- [8]
 				},
+				["class"] = "WARRIOR",
 			},
 			["Andruw"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1950,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						10, -- [1]
@@ -3927,10 +3975,12 @@ DeathGraphsDBEndurance = {
 						"Thrashing Tentacle |cFFFF3333928,909|r", -- [3]
 					}, -- [5]
 				},
+				["class"] = "DRUID",
 			},
 			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "MAGE",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -3938,19 +3988,17 @@ DeathGraphsDBEndurance = {
 						"Cauterize |cFFFF333379,756|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 21,
 				["points"] = 2060,
-				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						7, -- [1]
@@ -3973,18 +4021,18 @@ DeathGraphsDBEndurance = {
 						"Moonfire |cFFFF33332,897|r", -- [3]
 					}, -- [4]
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1980,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -3997,11 +4045,11 @@ DeathGraphsDBEndurance = {
 						"Melee |cFFFF3333427,231|r", -- [3]
 					}, -- [2]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Shotssfired-Tichondrius"] = {
 				["encounters"] = 17,
 				["points"] = 1670,
-				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -4019,11 +4067,11 @@ DeathGraphsDBEndurance = {
 						"Thrashing Tentacle |cFFFF33331,415,196|r", -- [3]
 					}, -- [3]
 				},
+				["class"] = "HUNTER",
 			},
 			["Felside-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1990,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -4031,11 +4079,11 @@ DeathGraphsDBEndurance = {
 						"Eternal Darkness |cFFFF3333146,045|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 21,
 				["points"] = 2010,
-				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						6, -- [1]
@@ -4078,11 +4126,11 @@ DeathGraphsDBEndurance = {
 						"Insanity Bomb |cFFFF3333219,772|r", -- [3]
 					}, -- [8]
 				},
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1960,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4105,18 +4153,18 @@ DeathGraphsDBEndurance = {
 						"Infinite Void (DoT) |cFFFF3333273,629|r", -- [3]
 					}, -- [4]
 				},
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 20,
 				["points"] = 1990,
-				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						16, -- [1]
@@ -4124,10 +4172,12 @@ DeathGraphsDBEndurance = {
 						"Infinite Void (DoT) |cFFFF3333253,469|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4135,11 +4185,11 @@ DeathGraphsDBEndurance = {
 						"Growth-Covered Tentacle |cFFFF33331,431,964|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Ferus-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4147,60 +4197,38 @@ DeathGraphsDBEndurance = {
 						"Thrashing Tentacle |cFFFF33331,377,212|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARRIOR",
 			},
-			["Esperance-Kil'jaeden"] = {
-				["encounters"] = 20,
-				["points"] = 1980,
-				["class"] = "MAGE",
+			["Smytt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
-					{
-						9, -- [1]
-						244.247000000003, -- [2]
-						"Mental Decay (DoT) |cFFFF333337,932|r", -- [3]
-					}, -- [1]
-					{
-						13, -- [1]
-						203.6879999999946, -- [2]
-						"Grand Delusions |cFFFF3333183,397|r", -- [3]
-					}, -- [2]
 				},
 			},
 			["Delpi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "MAGE",
-			},
-			["Mitchconner-Kil'jaeden"] = {
-				["encounters"] = 20,
-				["points"] = 1980,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
-					{
-						2, -- [1]
-						126.5339999999851, -- [2]
-						"Melee |cFFFF3333270,758|r", -- [3]
-					}, -- [1]
-					{
-						20, -- [1]
-						380.3219999999856, -- [2]
-						"Mental Decay (DoT) |cFFFF333333,361|r", -- [3]
-					}, -- [2]
 				},
 			},
-			["Wilwar"] = {
+			["Thunderrz"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
+			},
+			["Haxpax-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
 			},
 			["Mordpriest-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1990,
-				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -4208,11 +4236,11 @@ DeathGraphsDBEndurance = {
 						"Breed Madness |cFFFF3333150,276|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
 			},
 			["Lênny-Illidan"] = {
 				["encounters"] = 20,
 				["points"] = 1980,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						6, -- [1]
@@ -4225,51 +4253,61 @@ DeathGraphsDBEndurance = {
 						"Regenerative Expulsion |cFFFF3333255,220|r", -- [3]
 					}, -- [2]
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Artsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Rathux"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+			},
+			["Numberz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
 			},
 			["Splendiferus-Kil'jaeden"] = {
 				["encounters"] = 3,
 				["points"] = 300,
+				["deaths"] = {
+				},
 				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
 			},
-			["Warlockmania"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Logs"] = {
+			["Kajio-Kil'jaeden"] = {
 				["encounters"] = 20,
-				["points"] = 1990,
-				["class"] = "MAGE",
+				["points"] = 1970,
 				["deaths"] = {
 					{
-						7, -- [1]
-						208.8129999999946, -- [2]
-						"Cauterize |cFFFF333337,730|r", -- [3]
+						2, -- [1]
+						124.198000000004, -- [2]
+						"Breed Madness |cFFFF333357,835|r", -- [3]
 					}, -- [1]
+					{
+						15, -- [1]
+						300.9979999999923, -- [2]
+						"Melee |cFFFF333385,271|r", -- [3]
+					}, -- [2]
+					{
+						16, -- [1]
+						266.4010000000126, -- [2]
+						"Stagger |cFFFF33332,979|r", -- [3]
+					}, -- [3]
 				},
+				["class"] = "MONK",
 			},
 			["Leafyo"] = {
 				["encounters"] = 21,
 				["points"] = 2050,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4292,47 +4330,37 @@ DeathGraphsDBEndurance = {
 						"Mental Decay (DoT) |cFFFF333331,065|r", -- [3]
 					}, -- [4]
 				},
+				["class"] = "DRUID",
 			},
-			["Kajio-Kil'jaeden"] = {
+			["Logs"] = {
 				["encounters"] = 20,
-				["points"] = 1970,
-				["class"] = "MONK",
+				["points"] = 1990,
 				["deaths"] = {
 					{
-						2, -- [1]
-						124.198000000004, -- [2]
-						"Breed Madness |cFFFF333357,835|r", -- [3]
+						7, -- [1]
+						208.8129999999946, -- [2]
+						"Cauterize |cFFFF333337,730|r", -- [3]
 					}, -- [1]
-					{
-						15, -- [1]
-						300.9979999999923, -- [2]
-						"Melee |cFFFF333385,271|r", -- [3]
-					}, -- [2]
-					{
-						16, -- [1]
-						266.4010000000126, -- [2]
-						"Stagger |cFFFF33332,979|r", -- [3]
-					}, -- [3]
 				},
+				["class"] = "MAGE",
 			},
-			["Numberz"] = {
+			["Warlockmania"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Judaasx"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Ohnlyfans-Kil'jaeden"] = {
 				["encounters"] = 20,
 				["points"] = 1980,
-				["class"] = "MAGE",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -4345,27 +4373,48 @@ DeathGraphsDBEndurance = {
 						"Adaptive Membrane |cFFFF3333237,866|r", -- [3]
 					}, -- [2]
 				},
+				["class"] = "MAGE",
 			},
-			["Haxpax-Illidan"] = {
+			["Wilwar"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
-			["Thunderrz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Mitchconner-Kil'jaeden"] = {
+				["encounters"] = 20,
+				["points"] = 1980,
 				["deaths"] = {
+					{
+						2, -- [1]
+						126.5339999999851, -- [2]
+						"Melee |cFFFF3333270,758|r", -- [3]
+					}, -- [1]
+					{
+						20, -- [1]
+						380.3219999999856, -- [2]
+						"Mental Decay (DoT) |cFFFF333333,361|r", -- [3]
+					}, -- [2]
 				},
-				["class"] = "HUNTER",
+				["class"] = "DEMONHUNTER",
 			},
-			["Smytt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Esperance-Kil'jaeden"] = {
+				["encounters"] = 20,
+				["points"] = 1980,
 				["deaths"] = {
+					{
+						9, -- [1]
+						244.247000000003, -- [2]
+						"Mental Decay (DoT) |cFFFF333337,932|r", -- [3]
+					}, -- [1]
+					{
+						13, -- [1]
+						203.6879999999946, -- [2]
+						"Grand Delusions |cFFFF3333183,397|r", -- [3]
+					}, -- [2]
 				},
-				["class"] = "HUNTER",
+				["class"] = "MAGE",
 			},
 		},
 		["boss_table"] = {
@@ -4376,78 +4425,77 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Carapace of N'Zoth",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Carapace of N'Zoth",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["237216"] = {
 		["hash"] = "237216",
 		["type"] = "endurance",
 		["name"] = "The Hivemind",
 		["id"] = 2372,
+		["diff"] = 16,
 		["player_db"] = {
 			["Haxpax-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Leafyo"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Hoofalo-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Khal-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
 			["Andruw"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Yoùdienow-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4455,60 +4503,60 @@ DeathGraphsDBEndurance = {
 						"Volatile Eruption |cFFFF3333449,127|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARRIOR",
 			},
 			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MONK",
 				["deaths"] = {
 				},
+				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Felside-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4516,11 +4564,11 @@ DeathGraphsDBEndurance = {
 						"Devouring Frenzy |cFFFF333341,785|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4528,11 +4576,11 @@ DeathGraphsDBEndurance = {
 						"Volatile Eruption |cFFFF3333431,267|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4540,25 +4588,25 @@ DeathGraphsDBEndurance = {
 						"Void Echo |cFFFF3333104,361|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4566,109 +4614,39 @@ DeathGraphsDBEndurance = {
 						"Echoing Void |cFFFF3333157,968|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
-			["Rathux"] = {
+			["Esperance-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Mordpriest-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["deaths"] = {
+				},
 				["class"] = "PRIEST",
-				["deaths"] = {
-				},
 			},
-			["Mitchconner-Kil'jaeden"] = {
+			["Artsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-			},
-			["Smytt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Wilwar"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Babyhnter-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Warlockmania"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Kajio-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Thunderrz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Logs"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
 			},
 			["Ferus-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4676,20 +4654,91 @@ DeathGraphsDBEndurance = {
 						"Acid Spray |cFFFF3333377,463|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARRIOR",
 			},
-			["Artsong"] = {
+			["Wilwar"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Babyhnter-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
 				["class"] = "HUNTER",
-				["deaths"] = {
-				},
 			},
-			["Esperance-Kil'jaeden"] = {
+			["Splendiferus-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Logs"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Thunderrz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Kajio-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Warlockmania"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Smytt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Mitchconner-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
 			},
 		},
 		["boss_table"] = {
@@ -4701,34 +4750,21 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "The Hivemind",
 			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["id"] = 2333,
+			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["diff"] = 16,
 	},
 	["237516"] = {
 		["hash"] = "237516",
 		["type"] = "endurance",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["diff"] = 16,
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 12,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2344,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "N'Zoth the Corruptor",
-			["encounter"] = "N'Zoth the Corruptor",
-			["ej_instance_id"] = 1180,
-			["diff"] = 16,
-		},
 		["player_db"] = {
 			["Kerryhunts-Kil'jaeden"] = {
 				["encounters"] = 44,
 				["points"] = 4330,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -4761,12 +4797,10 @@ DeathGraphsDBEndurance = {
 						"Anguish (DoT) |cFFFF3333300,279|r", -- [3]
 					}, -- [6]
 				},
-				["class"] = "HUNTER",
 			},
 			["Haxpax-Illidan"] = {
 				["encounters"] = 7,
 				["points"] = 680,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4779,10 +4813,12 @@ DeathGraphsDBEndurance = {
 						"Anguish (DoT) |cFFFF3333299,097|r", -- [3]
 					}, -- [2]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Radriar-Kil'jaeden"] = {
 				["encounters"] = 18,
 				["points"] = 1720,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -4820,11 +4856,11 @@ DeathGraphsDBEndurance = {
 						"Psychic Burst |cFFFF3333188,217|r", -- [3]
 					}, -- [7]
 				},
-				["class"] = "WARRIOR",
 			},
 			["Fierypower-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5910,
+				["encounters"] = 81,
+				["points"] = 7940,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -4871,12 +4907,47 @@ DeathGraphsDBEndurance = {
 						489.6269999998622, -- [2]
 						"Paranoia |cFFFF3333160,453|r", -- [3]
 					}, -- [9]
+					{
+						1, -- [1]
+						395.9309999998659, -- [2]
+						"Anguish (DoT) |cFFFF3333307,974|r", -- [3]
+					}, -- [10]
+					{
+						3, -- [1]
+						129.1850000000559, -- [2]
+						"Eternal Torment |cFFFF333385,285|r", -- [3]
+					}, -- [11]
+					{
+						6, -- [1]
+						406.2279999998864, -- [2]
+						"Anguish (DoT) |cFFFF3333307,973|r", -- [3]
+					}, -- [12]
+					{
+						10, -- [1]
+						130.5950000002049, -- [2]
+						"Devour Thoughts |cFFFF3333189,522|r", -- [3]
+					}, -- [13]
+					{
+						15, -- [1]
+						455.8689999999479, -- [2]
+						"Harvest Thoughts |cFFFF3333165,180|r", -- [3]
+					}, -- [14]
+					{
+						17, -- [1]
+						537.2530000000261, -- [2]
+						"Melee |cFFFF3333574,162|r", -- [3]
+					}, -- [15]
+					{
+						20, -- [1]
+						389.375, -- [2]
+						"Evoke Anguish |cFFFF3333159,901|r", -- [3]
+					}, -- [16]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Hoofalo-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5920,
+				["encounters"] = 81,
+				["points"] = 7990,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -4918,26 +4989,73 @@ DeathGraphsDBEndurance = {
 						386.875, -- [2]
 						"Anguish (DoT) |cFFFF3333279,337|r", -- [3]
 					}, -- [8]
+					{
+						4, -- [1]
+						158.9960000000428, -- [2]
+						"Cataclysmic Flames |cFFFF333329,705|r", -- [3]
+					}, -- [9]
+					{
+						9, -- [1]
+						99.37199999997392, -- [2]
+						"Melee |cFFFF3333390,370|r", -- [3]
+					}, -- [10]
+					{
+						13, -- [1]
+						471.4889999998268, -- [2]
+						"Mindwrack |cFFFF3333122,810|r", -- [3]
+					}, -- [11]
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Mitchconner-Kil'jaeden"] = {
+				["encounters"] = 21,
+				["points"] = 2050,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						7, -- [1]
+						87.79799999995157, -- [2]
+						"Melee |cFFFF3333262,092|r", -- [3]
+					}, -- [1]
+					{
+						10, -- [1]
+						143.5310000001919, -- [2]
+						"Anguish (DoT) |cFFFF3333247,568|r", -- [3]
+					}, -- [2]
+					{
+						12, -- [1]
+						159.6200000001118, -- [2]
+						"Cataclysmic Flames |cFFFF333328,751|r", -- [3]
+					}, -- [3]
+					{
+						14, -- [1]
+						160.8689999999479, -- [2]
+						"Cataclysmic Flames |cFFFF333329,975|r", -- [3]
+					}, -- [4]
+					{
+						18, -- [1]
+						228.6649999998044, -- [2]
+						"Melee |cFFFF3333817,530|r", -- [3]
+					}, -- [5]
 				},
 			},
 			["Andruw"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5960,
+				["encounters"] = 81,
+				["points"] = 8050,
+				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						8, -- [1]
@@ -4959,26 +5077,31 @@ DeathGraphsDBEndurance = {
 						117.6510000000708, -- [2]
 						"Devour Thoughts |cFFFF3333178,837|r", -- [3]
 					}, -- [4]
+					{
+						2, -- [1]
+						175.2890000001062, -- [2]
+						"Anguish (DoT) |cFFFF3333302,250|r", -- [3]
+					}, -- [5]
 				},
-				["class"] = "DRUID",
 			},
 			["Yukiox"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "MONK",
 				["deaths"] = {
 				},
+				["class"] = "MONK",
 			},
 			["Toshpal"] = {
-				["encounters"] = 67,
-				["points"] = 6660,
+				["encounters"] = 88,
+				["points"] = 8740,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						14, -- [1]
@@ -5000,19 +5123,66 @@ DeathGraphsDBEndurance = {
 						149.9139999999898, -- [2]
 						"Anguish (DoT) |cFFFF3333288,668|r", -- [3]
 					}, -- [4]
+					{
+						3, -- [1]
+						112.3610000000335, -- [2]
+						"Anguish (DoT) |cFFFF3333281,491|r", -- [3]
+					}, -- [5]
+					{
+						8, -- [1]
+						458.2229999999981, -- [2]
+						"Evoke Anguish |cFFFF3333158,179|r", -- [3]
+					}, -- [6]
 				},
-				["class"] = "PALADIN",
+			},
+			["Baylesstv-Kil'jaeden"] = {
+				["encounters"] = 21,
+				["points"] = 2040,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						2, -- [1]
+						175.8710000000428, -- [2]
+						"Anguish (DoT) |cFFFF3333279,810|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						421.9869999999646, -- [2]
+						"Anguish (DoT) |cFFFF3333278,647|r", -- [3]
+					}, -- [2]
+					{
+						9, -- [1]
+						104.3330000001006, -- [2]
+						"Anguish (DoT) |cFFFF3333280,975|r", -- [3]
+					}, -- [3]
+					{
+						18, -- [1]
+						128.2389999998268, -- [2]
+						"Melee |cFFFF3333804,793|r", -- [3]
+					}, -- [4]
+					{
+						20, -- [1]
+						309.589999999851, -- [2]
+						"Pain Spike |cFFFF333364,327|r", -- [3]
+					}, -- [5]
+					{
+						21, -- [1]
+						469.4860000000335, -- [2]
+						"Anguish (DoT) |cFFFF3333278,646|r", -- [3]
+					}, -- [6]
+				},
 			},
 			["Slurpinho"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5920,
+				["encounters"] = 81,
+				["points"] = 8000,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -5054,12 +5224,76 @@ DeathGraphsDBEndurance = {
 						350.1790000000037, -- [2]
 						"Anguish (DoT) |cFFFF3333294,688|r", -- [3]
 					}, -- [8]
+					{
+						4, -- [1]
+						157.9930000000168, -- [2]
+						"Anguish (DoT) |cFFFF3333299,979|r", -- [3]
+					}, -- [9]
+					{
+						16, -- [1]
+						116.2299999999814, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333339,228|r", -- [3]
+					}, -- [10]
 				},
-				["class"] = "WARLOCK",
+			},
+			["Khal-Kil'jaeden"] = {
+				["encounters"] = 22,
+				["points"] = 2110,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						3, -- [1]
+						130.1969999999274, -- [2]
+						"Eternal Torment |cFFFF333385,353|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						292.9969999999739, -- [2]
+						"Anguish (DoT) |cFFFF3333314,617|r", -- [3]
+					}, -- [2]
+					{
+						6, -- [1]
+						412.0189999998547, -- [2]
+						"Anguish (DoT) |cFFFF3333305,815|r", -- [3]
+					}, -- [3]
+					{
+						10, -- [1]
+						118.8980000000447, -- [2]
+						"Anguish (DoT) |cFFFF3333305,816|r", -- [3]
+					}, -- [4]
+					{
+						13, -- [1]
+						471.7739999999758, -- [2]
+						"Anguish (DoT) |cFFFF3333303,941|r", -- [3]
+					}, -- [5]
+					{
+						14, -- [1]
+						161.0010000001639, -- [2]
+						"Anguish (DoT) |cFFFF3333305,816|r", -- [3]
+					}, -- [6]
+					{
+						15, -- [1]
+						291.530999999959, -- [2]
+						"Paranoia |cFFFF3333109,262|r", -- [3]
+					}, -- [7]
+					{
+						19, -- [1]
+						29.40400000009686, -- [2]
+						"Eternal Torment |cFFFF333386,428|r", -- [3]
+					}, -- [8]
+				},
+			},
+			["Babyhnter-Tichondrius"] = {
+				["encounters"] = 21,
+				["points"] = 2100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
 			},
 			["Azngød-Tichondrius"] = {
 				["encounters"] = 16,
 				["points"] = 1590,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						14, -- [1]
@@ -5067,11 +5301,11 @@ DeathGraphsDBEndurance = {
 						"Corrupted Viscera |cFFFF3333223,407|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PRIEST",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 17,
 				["points"] = 1650,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -5099,11 +5333,11 @@ DeathGraphsDBEndurance = {
 						"Stupefying Glare |cFFFF3333434,688|r", -- [3]
 					}, -- [5]
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5910,
+				["encounters"] = 81,
+				["points"] = 7970,
+				["class"] = "MAGE",
 				["deaths"] = {
 					{
 						12, -- [1]
@@ -5150,12 +5384,86 @@ DeathGraphsDBEndurance = {
 						302.2750000001397, -- [2]
 						"Anguish (DoT) |cFFFF3333284,873|r", -- [3]
 					}, -- [9]
+					{
+						2, -- [1]
+						176.2510000001639, -- [2]
+						"Anguish (DoT) |cFFFF3333286,186|r", -- [3]
+					}, -- [10]
+					{
+						11, -- [1]
+						145.3189999999013, -- [2]
+						"Probe Mind |cFFFF333379,693|r", -- [3]
+					}, -- [11]
+					{
+						12, -- [1]
+						160.9300000001676, -- [2]
+						"Probe Mind |cFFFF333379,693|r", -- [3]
+					}, -- [12]
+					{
+						16, -- [1]
+						153.2820000001229, -- [2]
+						"Probe Mind |cFFFF333379,693|r", -- [3]
+					}, -- [13]
 				},
-				["class"] = "MAGE",
+			},
+			["Danlow-Illidan"] = {
+				["encounters"] = 21,
+				["points"] = 2070,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						467.5159999998286, -- [2]
+						"Stupefying Glare |cFFFF3333421,332|r", -- [3]
+					}, -- [1]
+					{
+						13, -- [1]
+						396.5629999998491, -- [2]
+						"Anguish (DoT) |cFFFF3333284,696|r", -- [3]
+					}, -- [2]
+					{
+						21, -- [1]
+						467.8970000001136, -- [2]
+						"Anguish (DoT) |cFFFF3333299,097|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Lennÿ-Kil'jaeden"] = {
+				["encounters"] = 21,
+				["points"] = 2050,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						443.7419999998529, -- [2]
+						"Evoke Anguish |cFFFF333380,789|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						400.9069999998901, -- [2]
+						"Anguish (DoT) |cFFFF3333294,181|r", -- [3]
+					}, -- [2]
+					{
+						8, -- [1]
+						455.564000000013, -- [2]
+						"Harvest Thoughts |cFFFF3333125,296|r", -- [3]
+					}, -- [3]
+					{
+						11, -- [1]
+						115.2919999998994, -- [2]
+						"Paranoia |cFFFF3333243,328|r", -- [3]
+					}, -- [4]
+					{
+						15, -- [1]
+						458.066000000108, -- [2]
+						"Anguish (DoT) |cFFFF3333235,344|r", -- [3]
+					}, -- [5]
+				},
 			},
 			["Tianarrae-Kil'jaeden"] = {
-				["encounters"] = 64,
-				["points"] = 6180,
+				["encounters"] = 85,
+				["points"] = 8250,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						13, -- [1]
@@ -5247,20 +5555,68 @@ DeathGraphsDBEndurance = {
 						711.8549999999814, -- [2]
 						"Anguish (DoT) |cFFFF3333280,838|r", -- [3]
 					}, -- [18]
+					{
+						5, -- [1]
+						199.033000000054, -- [2]
+						"Corrupted Viscera |cFFFF3333204,643|r", -- [3]
+					}, -- [19]
+					{
+						18, -- [1]
+						114.4189999999944, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333336,185|r", -- [3]
+					}, -- [20]
+					{
+						21, -- [1]
+						410.4660000000149, -- [2]
+						"Evoke Anguish |cFFFF333381,417|r", -- [3]
+					}, -- [21]
 				},
-				["class"] = "PRIEST",
 			},
-			["Rathux"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "DEATHKNIGHT",
+			["Jarrbek-Kil'jaeden"] = {
+				["encounters"] = 53,
+				["points"] = 5220,
+				["class"] = "SHAMAN",
 				["deaths"] = {
+					{
+						11, -- [1]
+						199.3880000000354, -- [2]
+						"Corrupted Viscera |cFFFF3333213,360|r", -- [3]
+					}, -- [1]
+					{
+						16, -- [1]
+						118.2880000000587, -- [2]
+						"Anguish (DoT) |cFFFF3333297,445|r", -- [3]
+					}, -- [2]
+					{
+						16, -- [1]
+						274.5169999999926, -- [2]
+						"Contempt |cFFFF333368,642|r", -- [3]
+					}, -- [3]
+					{
+						9, -- [1]
+						106.1359999999404, -- [2]
+						"Paranoia |cFFFF333384,144|r", -- [3]
+					}, -- [4]
+					{
+						11, -- [1]
+						275.1439999998547, -- [2]
+						"Melee |cFFFF333358,891|r", -- [3]
+					}, -- [5]
+					{
+						18, -- [1]
+						119.25400000019, -- [2]
+						"Devour Thoughts |cFFFF3333181,276|r", -- [3]
+					}, -- [6]
+					{
+						3, -- [1]
+						461.5239999999758, -- [2]
+						"Stupefying Glare |cFFFF3333399,038|r", -- [3]
+					}, -- [7]
 				},
 			},
 			["Ancestràl-Kil'jaeden"] = {
 				["encounters"] = 17,
 				["points"] = 1670,
-				["class"] = "SHAMAN",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -5278,17 +5634,19 @@ DeathGraphsDBEndurance = {
 						"Anguish (DoT) |cFFFF3333278,585|r", -- [3]
 					}, -- [3]
 				},
+				["class"] = "SHAMAN",
 			},
 			["Sci"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Sis-Arthas"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -5296,48 +5654,63 @@ DeathGraphsDBEndurance = {
 						"Corrupted Viscera |cFFFF3333225,961|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
-			["Xiaphos-Mal'Ganis"] = {
-				["encounters"] = 17,
-				["points"] = 1640,
-				["class"] = "WARRIOR",
+			["Sán-Kil'jaeden"] = {
+				["encounters"] = 60,
+				["points"] = 5910,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
-						2, -- [1]
-						298.0709999999963, -- [2]
-						"Anguish (DoT) |cFFFF3333247,025|r", -- [3]
+						7, -- [1]
+						344.2299999999814, -- [2]
+						"Corrupted Viscera |cFFFF3333227,499|r", -- [3]
 					}, -- [1]
 					{
-						9, -- [1]
-						140.2930000000633, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333339,236|r", -- [3]
+						10, -- [1]
+						87.71999999997206, -- [2]
+						"Cataclysmic Flames |cFFFF333335,019|r", -- [3]
 					}, -- [2]
 					{
-						11, -- [1]
-						82.6610000000801, -- [2]
-						"Corrupted Viscera |cFFFF3333230,796|r", -- [3]
+						13, -- [1]
+						149.3840000000782, -- [2]
+						"Probe Mind |cFFFF333384,432|r", -- [3]
 					}, -- [3]
 					{
-						12, -- [1]
-						393.8900000001304, -- [2]
-						"Stupefying Glare |cFFFF3333427,543|r", -- [3]
+						19, -- [1]
+						300.8149999999441, -- [2]
+						"Devour Thoughts |cFFFF3333183,084|r", -- [3]
 					}, -- [4]
 					{
-						14, -- [1]
-						163.4329999999609, -- [2]
-						"Anguish (DoT) |cFFFF3333308,780|r", -- [3]
+						2, -- [1]
+						293.4660000000149, -- [2]
+						"Pain Spike |cFFFF333370,387|r", -- [3]
 					}, -- [5]
 					{
-						18, -- [1]
-						287.9719999998342, -- [2]
-						"Devour Thoughts |cFFFF3333190,018|r", -- [3]
+						6, -- [1]
+						394.1729999999516, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333338,210|r", -- [3]
 					}, -- [6]
+					{
+						8, -- [1]
+						303.2379999998957, -- [2]
+						"Anguish (DoT) |cFFFF3333305,121|r", -- [3]
+					}, -- [7]
+					{
+						3, -- [1]
+						261.0160000000615, -- [2]
+						"Eternal Torment |cFFFF333385,685|r", -- [3]
+					}, -- [8]
+					{
+						4, -- [1]
+						465.5889999999199, -- [2]
+						"Evoke Anguish |cFFFF3333151,270|r", -- [3]
+					}, -- [9]
 				},
 			},
 			["Logs"] = {
-				["encounters"] = 43,
-				["points"] = 4250,
+				["encounters"] = 64,
+				["points"] = 6320,
+				["class"] = "MAGE",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -5364,20 +5737,73 @@ DeathGraphsDBEndurance = {
 						468.8289999999106, -- [2]
 						"Anguish (DoT) |cFFFF3333292,829|r", -- [3]
 					}, -- [5]
+					{
+						4, -- [1]
+						159.0339999999851, -- [2]
+						"Anguish (DoT) |cFFFF3333296,921|r", -- [3]
+					}, -- [6]
+					{
+						17, -- [1]
+						493.9620000000577, -- [2]
+						"Paranoia |cFFFF3333200,238|r", -- [3]
+					}, -- [7]
+					{
+						19, -- [1]
+						150.5290000000969, -- [2]
+						"Anguish (DoT) |cFFFF3333296,920|r", -- [3]
+					}, -- [8]
+				},
+			},
+			["Myss-Tichondrius"] = {
+				["encounters"] = 25,
+				["points"] = 2420,
+				["deaths"] = {
+					{
+						2, -- [1]
+						308.6669999998994, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333329,788|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						432.0320000001229, -- [2]
+						"Evoke Anguish |cFFFF3333191,110|r", -- [3]
+					}, -- [2]
+					{
+						4, -- [1]
+						291.6990000000224, -- [2]
+						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
+					}, -- [3]
+					{
+						12, -- [1]
+						392.6080000000075, -- [2]
+						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
+					}, -- [4]
+					{
+						15, -- [1]
+						113.3249999999534, -- [2]
+						"Cataclysmic Flames |cFFFF333335,072|r", -- [3]
+					}, -- [5]
+					{
+						18, -- [1]
+						286.0519999999087, -- [2]
+						"Paranoia |cFFFF3333168,451|r", -- [3]
+					}, -- [6]
+					{
+						2, -- [1]
+						278.7820000001229, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333336,079|r", -- [3]
+					}, -- [7]
+					{
+						8, -- [1]
+						394.5439999999944, -- [2]
+						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
+					}, -- [8]
 				},
 				["class"] = "MAGE",
-			},
-			["Numberz"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 7,
 				["points"] = 630,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -5415,52 +5841,19 @@ DeathGraphsDBEndurance = {
 						"Anguish (DoT) |cFFFF3333304,859|r", -- [3]
 					}, -- [7]
 				},
+				["class"] = "WARLOCK",
 			},
-			["Ferus-Barthilas"] = {
+			["Numberz"] = {
 				["encounters"] = 7,
-				["points"] = 630,
-				["class"] = "WARRIOR",
+				["points"] = 700,
 				["deaths"] = {
-					{
-						1, -- [1]
-						23.08500000007916, -- [2]
-						"Anguish (DoT) |cFFFF3333312,271|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						51.66200000001118, -- [2]
-						"Environment (Falling) |cFFFF333323,486|r", -- [3]
-					}, -- [2]
-					{
-						3, -- [1]
-						42.3760000000475, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333340,835|r", -- [3]
-					}, -- [3]
-					{
-						4, -- [1]
-						14.76000000000931, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333340,835|r", -- [3]
-					}, -- [4]
-					{
-						5, -- [1]
-						10.91399999998976, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333340,836|r", -- [3]
-					}, -- [5]
-					{
-						6, -- [1]
-						13.19799999997485, -- [2]
-						"Pain Spike |cFFFF333372,089|r", -- [3]
-					}, -- [6]
-					{
-						7, -- [1]
-						14.20700000005309, -- [2]
-						"Anguish (DoT) |cFFFF3333312,271|r", -- [3]
-					}, -- [7]
 				},
+				["class"] = "PALADIN",
 			},
 			["Khodiie-Kil'jaeden"] = {
 				["encounters"] = 60,
 				["points"] = 5890,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -5518,39 +5911,119 @@ DeathGraphsDBEndurance = {
 						"Infinity's Toll (DoT) |cFFFF333337,822|r", -- [3]
 					}, -- [11]
 				},
-				["class"] = "WARRIOR",
 			},
 			["Smytt"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "HUNTER",
 				["deaths"] = {
 				},
+				["class"] = "HUNTER",
 			},
 			["Delpi"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Wilwar"] = {
 				["encounters"] = 7,
 				["points"] = 700,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
-			["Thunderrz"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "HUNTER",
+			["Felside-Kil'jaeden"] = {
+				["encounters"] = 81,
+				["points"] = 7940,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
+					{
+						8, -- [1]
+						451.9590000000317, -- [2]
+						"Harvest Thoughts |cFFFF3333128,161|r", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						115.6449999999022, -- [2]
+						"Anguish (DoT) |cFFFF3333239,057|r", -- [3]
+					}, -- [2]
+					{
+						11, -- [1]
+						308.6160000000382, -- [2]
+						"Melee |cFFFF3333387,637|r", -- [3]
+					}, -- [3]
+					{
+						1, -- [1]
+						152.6850000000559, -- [2]
+						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
+					}, -- [4]
+					{
+						6, -- [1]
+						420.0520000001416, -- [2]
+						"Anguish (DoT) |cFFFF3333236,523|r", -- [3]
+					}, -- [5]
+					{
+						12, -- [1]
+						310.813000000082, -- [2]
+						"Pain Spike |cFFFF333356,942|r", -- [3]
+					}, -- [6]
+					{
+						7, -- [1]
+						78.76399999996647, -- [2]
+						"Melee |cFFFF3333353,525|r", -- [3]
+					}, -- [7]
+					{
+						9, -- [1]
+						160.6489999999758, -- [2]
+						"Anguish (DoT) |cFFFF3333243,279|r", -- [3]
+					}, -- [8]
+					{
+						10, -- [1]
+						261.1319999999832, -- [2]
+						"Anguish (DoT) |cFFFF3333246,657|r", -- [3]
+					}, -- [9]
+					{
+						11, -- [1]
+						159.1180000000168, -- [2]
+						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
+					}, -- [10]
+					{
+						16, -- [1]
+						174.2419999998529, -- [2]
+						"Anguish (DoT) |cFFFF3333249,258|r", -- [3]
+					}, -- [11]
+					{
+						17, -- [1]
+						283.971000000136, -- [2]
+						"Paranoia |cFFFF333342,842|r", -- [3]
+					}, -- [12]
+					{
+						7, -- [1]
+						91.17500000004657, -- [2]
+						"Melee |cFFFF3333279,763|r", -- [3]
+					}, -- [13]
+					{
+						17, -- [1]
+						602.3980000000447, -- [2]
+						"Eye of Corruption |cFFFF333365,792|r", -- [3]
+					}, -- [14]
+					{
+						19, -- [1]
+						115.3630000001285, -- [2]
+						"Anguish (DoT) |cFFFF3333250,879|r", -- [3]
+					}, -- [15]
+					{
+						20, -- [1]
+						310.8269999998156, -- [2]
+						"Melee |cFFFF3333478,559|r", -- [3]
+					}, -- [16]
 				},
 			},
 			["Mordpriest-Kil'jaeden"] = {
-				["encounters"] = 61,
-				["points"] = 5970,
+				["encounters"] = 82,
+				["points"] = 8070,
+				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						9, -- [1]
@@ -5613,101 +6086,80 @@ DeathGraphsDBEndurance = {
 						"Contempt |cFFFF333371,976|r", -- [3]
 					}, -- [12]
 				},
-				["class"] = "PRIEST",
 			},
-			["Holypenguin"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Rivalry"] = {
-				["encounters"] = 7,
-				["points"] = 690,
-				["class"] = "DEMONHUNTER",
+			["Royalty"] = {
+				["encounters"] = 64,
+				["points"] = 6340,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
-						6, -- [1]
-						488.5109999999404, -- [2]
-						"Ignite (DoT) |cFFFF333325,235|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Kajio-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5960,
-				["deaths"] = {
-					{
-						1, -- [1]
-						120.7970000000205, -- [2]
-						"Devour Thoughts |cFFFF333398,158|r", -- [3]
+						11, -- [1]
+						293.6459999999497, -- [2]
+						"Paranoia |cFFFF3333145,403|r", -- [3]
 					}, -- [1]
 					{
-						2, -- [1]
-						333.6529999999329, -- [2]
-						"Contempt |cFFFF333343,750|r", -- [3]
+						17, -- [1]
+						58.65300000004936, -- [2]
+						"Corrupted Viscera |cFFFF3333174,010|r", -- [3]
 					}, -- [2]
-					{
-						10, -- [1]
-						119.4180000000633, -- [2]
-						"Melee |cFFFF333317,302|r", -- [3]
-					}, -- [3]
-					{
-						8, -- [1]
-						272.2979999999516, -- [2]
-						"Melee |cFFFF333373,289|r", -- [3]
-					}, -- [4]
-				},
-				["class"] = "MONK",
-			},
-			["Warlockmania"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5940,
-				["deaths"] = {
-					{
-						2, -- [1]
-						162.5019999999786, -- [2]
-						"Anguish (DoT) |cFFFF3333214,887|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						160.3499999999767, -- [2]
-						"Anguish (DoT) |cFFFF3333219,752|r", -- [3]
-					}, -- [2]
-					{
-						18, -- [1]
-						162.9000000000233, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333328,101|r", -- [3]
-					}, -- [3]
-					{
-						3, -- [1]
-						472.183999999892, -- [2]
-						"Grand Delusions |cFFFF3333136,364|r", -- [3]
-					}, -- [4]
-					{
-						9, -- [1]
-						161.9909999999218, -- [2]
-						"Anguish (DoT) |cFFFF3333215,124|r", -- [3]
-					}, -- [5]
 					{
 						14, -- [1]
-						160.8410000000149, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333328,110|r", -- [3]
+						306.4539999999106, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333337,736|r", -- [3]
+					}, -- [3]
+					{
+						17, -- [1]
+						301.7439999999479, -- [2]
+						"Anguish (DoT) |cFFFF3333285,465|r", -- [3]
+					}, -- [4]
+					{
+						5, -- [1]
+						327.9140000001062, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333335,296|r", -- [3]
+					}, -- [5]
+					{
+						7, -- [1]
+						146.1870000001509, -- [2]
+						"Corrupted Viscera |cFFFF3333207,882|r", -- [3]
 					}, -- [6]
 				},
+			},
+			["Genoqt-Tichondrius"] = {
+				["encounters"] = 60,
+				["points"] = 5950,
 				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						4, -- [1]
+						154.3880000000354, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333330,778|r", -- [3]
+					}, -- [1]
+					{
+						10, -- [1]
+						98.54899999999907, -- [2]
+						"Melee |cFFFF3333711,460|r", -- [3]
+					}, -- [2]
+					{
+						5, -- [1]
+						117.2469999999739, -- [2]
+						"Melee |cFFFF3333321,172|r", -- [3]
+					}, -- [3]
+					{
+						16, -- [1]
+						176.6489999999758, -- [2]
+						"Anguish (DoT) |cFFFF3333230,173|r", -- [3]
+					}, -- [4]
+					{
+						2, -- [1]
+						144.4529999999795, -- [2]
+						"Anguish (DoT) |cFFFF3333226,659|r", -- [3]
+					}, -- [5]
+				},
 			},
 			["Leafyo"] = {
-				["encounters"] = 60,
-				["points"] = 5930,
+				["encounters"] = 81,
+				["points"] = 8000,
+				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -5744,149 +6196,143 @@ DeathGraphsDBEndurance = {
 						259.4290000000037, -- [2]
 						"Corrupted Viscera |cFFFF3333221,839|r", -- [3]
 					}, -- [7]
-				},
-				["class"] = "DRUID",
-			},
-			["Genoqt-Tichondrius"] = {
-				["encounters"] = 60,
-				["points"] = 5950,
-				["deaths"] = {
-					{
-						4, -- [1]
-						154.3880000000354, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333330,778|r", -- [3]
-					}, -- [1]
-					{
-						10, -- [1]
-						98.54899999999907, -- [2]
-						"Melee |cFFFF3333711,460|r", -- [3]
-					}, -- [2]
-					{
-						5, -- [1]
-						117.2469999999739, -- [2]
-						"Melee |cFFFF3333321,172|r", -- [3]
-					}, -- [3]
-					{
-						16, -- [1]
-						176.6489999999758, -- [2]
-						"Anguish (DoT) |cFFFF3333230,173|r", -- [3]
-					}, -- [4]
-					{
-						2, -- [1]
-						144.4529999999795, -- [2]
-						"Anguish (DoT) |cFFFF3333226,659|r", -- [3]
-					}, -- [5]
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Royalty"] = {
-				["encounters"] = 43,
-				["points"] = 4240,
-				["deaths"] = {
-					{
-						11, -- [1]
-						293.6459999999497, -- [2]
-						"Paranoia |cFFFF3333145,403|r", -- [3]
-					}, -- [1]
-					{
-						17, -- [1]
-						58.65300000004936, -- [2]
-						"Corrupted Viscera |cFFFF3333174,010|r", -- [3]
-					}, -- [2]
-					{
-						14, -- [1]
-						306.4539999999106, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333337,736|r", -- [3]
-					}, -- [3]
-					{
-						17, -- [1]
-						301.7439999999479, -- [2]
-						"Anguish (DoT) |cFFFF3333285,465|r", -- [3]
-					}, -- [4]
-					{
-						5, -- [1]
-						327.9140000001062, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333335,296|r", -- [3]
-					}, -- [5]
-					{
-						7, -- [1]
-						146.1870000001509, -- [2]
-						"Corrupted Viscera |cFFFF3333207,882|r", -- [3]
-					}, -- [6]
-				},
-				["class"] = "PALADIN",
-			},
-			["Felside-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5880,
-				["deaths"] = {
 					{
 						8, -- [1]
-						451.9590000000317, -- [2]
-						"Harvest Thoughts |cFFFF3333128,161|r", -- [3]
-					}, -- [1]
+						462.2430000000168, -- [2]
+						"Evoke Anguish |cFFFF333388,247|r", -- [3]
+					}, -- [8]
 					{
 						9, -- [1]
-						115.6449999999022, -- [2]
-						"Anguish (DoT) |cFFFF3333239,057|r", -- [3]
-					}, -- [2]
-					{
-						11, -- [1]
-						308.6160000000382, -- [2]
-						"Melee |cFFFF3333387,637|r", -- [3]
-					}, -- [3]
-					{
-						1, -- [1]
-						152.6850000000559, -- [2]
-						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
-					}, -- [4]
-					{
-						6, -- [1]
-						420.0520000001416, -- [2]
-						"Anguish (DoT) |cFFFF3333236,523|r", -- [3]
-					}, -- [5]
+						94.8640000000596, -- [2]
+						"Anguish (DoT) |cFFFF3333299,923|r", -- [3]
+					}, -- [9]
 					{
 						12, -- [1]
-						310.813000000082, -- [2]
-						"Pain Spike |cFFFF333356,942|r", -- [3]
+						160.8540000000503, -- [2]
+						"Cataclysmic Flames |cFFFF333336,942|r", -- [3]
+					}, -- [10]
+				},
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["encounters"] = 81,
+				["points"] = 8000,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						162.5019999999786, -- [2]
+						"Anguish (DoT) |cFFFF3333214,887|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						160.3499999999767, -- [2]
+						"Anguish (DoT) |cFFFF3333219,752|r", -- [3]
+					}, -- [2]
+					{
+						18, -- [1]
+						162.9000000000233, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333328,101|r", -- [3]
+					}, -- [3]
+					{
+						3, -- [1]
+						472.183999999892, -- [2]
+						"Grand Delusions |cFFFF3333136,364|r", -- [3]
+					}, -- [4]
+					{
+						9, -- [1]
+						161.9909999999218, -- [2]
+						"Anguish (DoT) |cFFFF3333215,124|r", -- [3]
+					}, -- [5]
+					{
+						14, -- [1]
+						160.8410000000149, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333328,110|r", -- [3]
 					}, -- [6]
 					{
 						7, -- [1]
-						78.76399999996647, -- [2]
-						"Melee |cFFFF3333353,525|r", -- [3]
+						102.7250000000931, -- [2]
+						"Anguish (DoT) |cFFFF3333192,339|r", -- [3]
 					}, -- [7]
 					{
-						9, -- [1]
-						160.6489999999758, -- [2]
-						"Anguish (DoT) |cFFFF3333243,279|r", -- [3]
+						11, -- [1]
+						161.3019999999087, -- [2]
+						"Anguish (DoT) |cFFFF3333187,982|r", -- [3]
 					}, -- [8]
 					{
-						10, -- [1]
-						261.1319999999832, -- [2]
-						"Anguish (DoT) |cFFFF3333246,657|r", -- [3]
+						14, -- [1]
+						161.1530000001658, -- [2]
+						"Anguish (DoT) |cFFFF3333195,042|r", -- [3]
 					}, -- [9]
 					{
-						11, -- [1]
-						159.1180000000168, -- [2]
-						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
-					}, -- [10]
-					{
 						16, -- [1]
-						174.2419999998529, -- [2]
-						"Anguish (DoT) |cFFFF3333249,258|r", -- [3]
-					}, -- [11]
+						154.1720000000205, -- [2]
+						"Anguish (DoT) |cFFFF3333205,463|r", -- [3]
+					}, -- [10]
+				},
+			},
+			["Warlockmania"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Kajio-Kil'jaeden"] = {
+				["encounters"] = 81,
+				["points"] = 8060,
+				["class"] = "MONK",
+				["deaths"] = {
 					{
-						17, -- [1]
-						283.971000000136, -- [2]
-						"Paranoia |cFFFF333342,842|r", -- [3]
-					}, -- [12]
+						1, -- [1]
+						120.7970000000205, -- [2]
+						"Devour Thoughts |cFFFF333398,158|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						333.6529999999329, -- [2]
+						"Contempt |cFFFF333343,750|r", -- [3]
+					}, -- [2]
+					{
+						10, -- [1]
+						119.4180000000633, -- [2]
+						"Melee |cFFFF333317,302|r", -- [3]
+					}, -- [3]
+					{
+						8, -- [1]
+						272.2979999999516, -- [2]
+						"Melee |cFFFF333373,289|r", -- [3]
+					}, -- [4]
+				},
+			},
+			["Rivalry"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["deaths"] = {
+					{
+						6, -- [1]
+						488.5109999999404, -- [2]
+						"Ignite (DoT) |cFFFF333325,235|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "DEMONHUNTER",
+			},
+			["Holypenguin"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Thunderrz"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
 			},
 			["Judaasx"] = {
 				["encounters"] = 7,
 				["points"] = 670,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -5904,435 +6350,395 @@ DeathGraphsDBEndurance = {
 						"Stupefying Glare |cFFFF3333414,161|r", -- [3]
 					}, -- [3]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Gødmage-Tichondrius"] = {
 				["encounters"] = 8,
 				["points"] = 800,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
-			},
-			["Myss-Tichondrius"] = {
-				["encounters"] = 25,
-				["points"] = 2420,
 				["class"] = "MAGE",
+			},
+			["Ferus-Barthilas"] = {
+				["encounters"] = 7,
+				["points"] = 630,
 				["deaths"] = {
 					{
-						2, -- [1]
-						308.6669999998994, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333329,788|r", -- [3]
+						1, -- [1]
+						23.08500000007916, -- [2]
+						"Anguish (DoT) |cFFFF3333312,271|r", -- [3]
 					}, -- [1]
+					{
+						2, -- [1]
+						51.66200000001118, -- [2]
+						"Environment (Falling) |cFFFF333323,486|r", -- [3]
+					}, -- [2]
 					{
 						3, -- [1]
-						432.0320000001229, -- [2]
-						"Evoke Anguish |cFFFF3333191,110|r", -- [3]
-					}, -- [2]
+						42.3760000000475, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333340,835|r", -- [3]
+					}, -- [3]
 					{
 						4, -- [1]
-						291.6990000000224, -- [2]
-						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
-					}, -- [3]
-					{
-						12, -- [1]
-						392.6080000000075, -- [2]
-						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
+						14.76000000000931, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333340,835|r", -- [3]
 					}, -- [4]
 					{
-						15, -- [1]
-						113.3249999999534, -- [2]
-						"Cataclysmic Flames |cFFFF333335,072|r", -- [3]
-					}, -- [5]
-					{
-						18, -- [1]
-						286.0519999999087, -- [2]
-						"Paranoia |cFFFF3333168,451|r", -- [3]
-					}, -- [6]
-					{
-						2, -- [1]
-						278.7820000001229, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333336,079|r", -- [3]
-					}, -- [7]
-					{
-						8, -- [1]
-						394.5439999999944, -- [2]
-						"Anguish (DoT) |cFFFF3333284,741|r", -- [3]
-					}, -- [8]
-				},
-			},
-			["Sán-Kil'jaeden"] = {
-				["encounters"] = 60,
-				["points"] = 5910,
-				["deaths"] = {
-					{
-						7, -- [1]
-						344.2299999999814, -- [2]
-						"Corrupted Viscera |cFFFF3333227,499|r", -- [3]
-					}, -- [1]
-					{
-						10, -- [1]
-						87.71999999997206, -- [2]
-						"Cataclysmic Flames |cFFFF333335,019|r", -- [3]
-					}, -- [2]
-					{
-						13, -- [1]
-						149.3840000000782, -- [2]
-						"Probe Mind |cFFFF333384,432|r", -- [3]
-					}, -- [3]
-					{
-						19, -- [1]
-						300.8149999999441, -- [2]
-						"Devour Thoughts |cFFFF3333183,084|r", -- [3]
-					}, -- [4]
-					{
-						2, -- [1]
-						293.4660000000149, -- [2]
-						"Pain Spike |cFFFF333370,387|r", -- [3]
+						5, -- [1]
+						10.91399999998976, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333340,836|r", -- [3]
 					}, -- [5]
 					{
 						6, -- [1]
-						394.1729999999516, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333338,210|r", -- [3]
+						13.19799999997485, -- [2]
+						"Pain Spike |cFFFF333372,089|r", -- [3]
 					}, -- [6]
 					{
-						8, -- [1]
-						303.2379999998957, -- [2]
-						"Anguish (DoT) |cFFFF3333305,121|r", -- [3]
+						7, -- [1]
+						14.20700000005309, -- [2]
+						"Anguish (DoT) |cFFFF3333312,271|r", -- [3]
 					}, -- [7]
-					{
-						3, -- [1]
-						261.0160000000615, -- [2]
-						"Eternal Torment |cFFFF333385,685|r", -- [3]
-					}, -- [8]
-					{
-						4, -- [1]
-						465.5889999999199, -- [2]
-						"Evoke Anguish |cFFFF3333151,270|r", -- [3]
-					}, -- [9]
 				},
-				["class"] = "HUNTER",
+				["class"] = "WARRIOR",
 			},
-			["Jarrbek-Kil'jaeden"] = {
-				["encounters"] = 53,
-				["points"] = 5220,
+			["Xiaphos-Mal'Ganis"] = {
+				["encounters"] = 17,
+				["points"] = 1640,
 				["deaths"] = {
 					{
-						11, -- [1]
-						199.3880000000354, -- [2]
-						"Corrupted Viscera |cFFFF3333213,360|r", -- [3]
+						2, -- [1]
+						298.0709999999963, -- [2]
+						"Anguish (DoT) |cFFFF3333247,025|r", -- [3]
 					}, -- [1]
 					{
-						16, -- [1]
-						118.2880000000587, -- [2]
-						"Anguish (DoT) |cFFFF3333297,445|r", -- [3]
+						9, -- [1]
+						140.2930000000633, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333339,236|r", -- [3]
 					}, -- [2]
 					{
-						16, -- [1]
-						274.5169999999926, -- [2]
-						"Contempt |cFFFF333368,642|r", -- [3]
+						11, -- [1]
+						82.6610000000801, -- [2]
+						"Corrupted Viscera |cFFFF3333230,796|r", -- [3]
 					}, -- [3]
 					{
-						9, -- [1]
-						106.1359999999404, -- [2]
-						"Paranoia |cFFFF333384,144|r", -- [3]
+						12, -- [1]
+						393.8900000001304, -- [2]
+						"Stupefying Glare |cFFFF3333427,543|r", -- [3]
 					}, -- [4]
 					{
-						11, -- [1]
-						275.1439999998547, -- [2]
-						"Melee |cFFFF333358,891|r", -- [3]
+						14, -- [1]
+						163.4329999999609, -- [2]
+						"Anguish (DoT) |cFFFF3333308,780|r", -- [3]
 					}, -- [5]
 					{
 						18, -- [1]
-						119.25400000019, -- [2]
-						"Devour Thoughts |cFFFF3333181,276|r", -- [3]
+						287.9719999998342, -- [2]
+						"Devour Thoughts |cFFFF3333190,018|r", -- [3]
 					}, -- [6]
-					{
-						3, -- [1]
-						461.5239999999758, -- [2]
-						"Stupefying Glare |cFFFF3333399,038|r", -- [3]
-					}, -- [7]
 				},
-				["class"] = "SHAMAN",
+				["class"] = "WARRIOR",
+			},
+			["Rathux"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 12,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2344,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "N'Zoth the Corruptor",
+			["diff"] = 16,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "N'Zoth the Corruptor",
+		},
+		["diff"] = 16,
 	},
 	["236916"] = {
 		["hash"] = "236916",
 		["type"] = "endurance",
 		["name"] = "Prophet Skitra",
 		["id"] = 2369,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "HUNTER",
 				["deaths"] = {
 				},
+				["class"] = "HUNTER",
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Fierypower-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Hoofalo-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Mitchconner-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Andruw"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Yoùdienow-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
 			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
-			["Felside-Kil'jaeden"] = {
+			["Khal-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
 			["Mordpriest-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
 			["Haxpax-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "WARLOCK",
-			},
-			["Ferus-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Wilwar"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Leafyo"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Kajio-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Smytt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
 			},
 			["Durantye"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
-			["Hakkem"] = {
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Smytt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Kajio-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Leafyo"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
-			["Khal-Kil'jaeden"] = {
+			["Wilwar"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Ferus-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Hakkem"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Felside-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -6344,18 +6750,400 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Prophet Skitra",
 			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["id"] = 2334,
+			["ej_instance_id"] = 1180,
 			["killed"] = true,
 		},
-		["diff"] = 16,
 	},
 	["237515"] = {
 		["hash"] = "237515",
 		["type"] = "endurance",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["diff"] = 15,
+		["player_db"] = {
+			["Candymán-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Doublehitt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Hysterìa-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Singsòng-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Kleptto-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Vercetty-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Peenorious-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Fortytoo-ShadowCouncil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Mattea-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Gummybuns"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Fayfay-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Shankntwist-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Killarn-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Turbolok-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yuffa-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Frontal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						57.95300000021234, -- [2]
+						"Anguish (DoT) |cFFFF3333118,908|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Papisalad-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Baesong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Sciboi"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Taistoi-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Gewccishadez-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Haschwàlth-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Illestt-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Haiyue-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Illsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Zanlet-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Babynv"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						16.42399999999907, -- [2]
+						"", -- [3]
+					}, -- [1]
+				},
+			},
+			["Nippybust-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Evandh-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Epicdemic-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Ozdevil-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Choplo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						37.65800000028685, -- [2]
+						"Anguish (DoT) |cFFFF3333171,435|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Agg"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Solvèj"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Twodaggers-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						69.93900000001304, -- [2]
+						"Void Gaze |cFFFF333333,546|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Zabiroo-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Sciduckhunt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						331.0200000000186, -- [2]
+						"Anguish (DoT) |cFFFF3333169,796|r", -- [3]
+					}, -- [1]
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 12,
@@ -6365,433 +7153,62 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "N'Zoth the Corruptor",
 			["diff"] = 15,
-			["id"] = 2344,
 			["ej_instance_id"] = 1180,
+			["id"] = 2344,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Candymán-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Doublehitt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Hysterìa-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Singsòng-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Kleptto-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Yukios-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Vercetty-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Peenorious-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Fortytoo-ShadowCouncil"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Mattea-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Gummybuns"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Toshpal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Fayfay-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Shankntwist-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Killarn-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Turbolok-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yuffa-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Frontal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						57.95300000021234, -- [2]
-						"Anguish (DoT) |cFFFF3333118,908|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Papisalad-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Baesong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Sciboi"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Sciduckhunt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Taistoi-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Gewccishadez-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Haschwàlth-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Illestt-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Illsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Haiyue-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Emosong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						69.93900000001304, -- [2]
-						"Void Gaze |cFFFF333333,546|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "ROGUE",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Haxpax-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Twodaggers-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Solvèj"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Choplo"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Agg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						37.65800000028685, -- [2]
-						"Anguish (DoT) |cFFFF3333171,435|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Ozdevil-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Epicdemic-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Evandh-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Nippybust-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Babynv"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						16.42399999999907, -- [2]
-						"", -- [3]
-					}, -- [1]
-				},
-				["class"] = "SHAMAN",
-			},
-			["Zanlet-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Zabiroo-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Cohava-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						331.0200000000186, -- [2]
-						"Anguish (DoT) |cFFFF3333169,796|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-		},
+		["diff"] = 15,
 	},
 	["237016"] = {
 		["hash"] = "237016",
 		["type"] = "endurance",
 		["name"] = "Vexiona",
 		["id"] = 2370,
-		["diff"] = 16,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 9,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2336,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Vexiona",
+			["diff"] = 16,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Vexiona",
+		},
 		["player_db"] = {
 			["Haxpax-Illidan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Artsong"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Sci"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Evangelos"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -6799,53 +7216,102 @@ DeathGraphsDBEndurance = {
 						"Brutal Smash |cFFFF3333834,560|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Andruw"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Delpi"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Yukiox"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Thunderrz"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Toshpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+			},
+			["Numberz"] = {
+				["encounters"] = 2,
+				["points"] = 200,
 				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Smytt"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Slurpinho"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Rivalry"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Warlockmania"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
 			},
 			["Ferus-Barthilas"] = {
 				["encounters"] = 2,
 				["points"] = 180,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -6858,60 +7324,11 @@ DeathGraphsDBEndurance = {
 						"Shadowy Residue (DoT) |cFFFF333396,084|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "WARRIOR",
-			},
-			["Warlockmania"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Slurpinho"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Rathux"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Judaasx"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Rivalry"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Smytt"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Numberz"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
 			},
 			["Wilwar"] = {
 				["encounters"] = 2,
 				["points"] = 190,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -6919,399 +7336,255 @@ DeathGraphsDBEndurance = {
 						"Brutal Smash |cFFFF3333536,980|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARRIOR",
 			},
 		},
+		["diff"] = 16,
+	},
+	["237716"] = {
+		["hash"] = "237716",
+		["type"] = "endurance",
+		["name"] = "Dark Inquisitor Xanesh",
+		["id"] = 2377,
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
-			["index"] = 9,
+			["index"] = 4,
 			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2336,
+			["id"] = 2328,
 			["mapid"] = 2217,
 			["try_number"] = 1,
-			["name"] = "Vexiona",
-			["encounter"] = "Vexiona",
-			["ej_instance_id"] = 1180,
+			["name"] = "Dark Inquisitor Xanesh",
 			["diff"] = 16,
-		},
-	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "endurance",
-		["name"] = "The Hivemind",
-		["id"] = 2372,
-		["diff"] = 15,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 5,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
-			["mapid"] = 2217,
-			["name"] = "The Hivemind",
 			["ej_instance_id"] = 1180,
-			["encounter"] = "The Hivemind",
-			["diff"] = 15,
+			["encounter"] = "Dark Inquisitor Xanesh",
 		},
 		["player_db"] = {
-			["Dntyer-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Doublehitt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Rivalry"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Hysterìa-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Singsòng-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Kleptto-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Vercetty-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Papisalad-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Fortytoo-ShadowCouncil"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
+			["Haxpax-Illidan"] = {
+				["encounters"] = 3,
+				["points"] = 300,
 				["class"] = "WARLOCK",
-			},
-			["Mattea-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
-			},
-			["Gummybuns"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Bigbf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Toshpal"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Twodaggers-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Shankntwist-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Turbolok-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Scitama-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Illestchi-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Frontal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Ybrik-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Baesong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						131.8070000000298, -- [2]
-						"Acid Spray |cFFFF3333246,768|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARRIOR",
 			},
 			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
+				["encounters"] = 3,
+				["points"] = 300,
 				["class"] = "HUNTER",
-			},
-			["Taistoi-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
+			},
+			["Sci"] = {
+				["encounters"] = 3,
+				["points"] = 300,
 				["class"] = "PALADIN",
-			},
-			["Gewccishadez-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Haschwàlth-Ragnaros"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Evandh-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Illsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
+			["Pier"] = {
+				["encounters"] = 3,
+				["points"] = 290,
 				["class"] = "WARLOCK",
-			},
-			["Ozdevil-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
+					{
+						3, -- [1]
+						37.66999999992549, -- [2]
+						"Anguish |cFFFF333341,807|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "WARRIOR",
 			},
-			["Epicdemic-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
+			["Evangelos"] = {
+				["encounters"] = 3,
+				["points"] = 300,
 				["class"] = "DEATHKNIGHT",
-			},
-			["Choplo"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
+			},
+			["Ebolaspread"] = {
+				["encounters"] = 3,
+				["points"] = 280,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						4, -- [1]
+						2.695999999996275, -- [2]
+						"Anguish |cFFFF333342,167|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						4.448999999905936, -- [2]
+						"Anguish |cFFFF333342,169|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Numberz"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						4, -- [1]
+						37.89699999999721, -- [2]
+						"Soul Flay |cFFFF3333510,968|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Delpi"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Yukiox"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Gummybuns"] = {
+				["encounters"] = 3,
+				["points"] = 290,
 				["class"] = "MONK",
+				["deaths"] = {
+					{
+						3, -- [1]
+						45.92499999993015, -- [2]
+						"Dark Collapse |cFFFF33333,241,235|r", -- [3]
+					}, -- [1]
+				},
 			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Toshpal"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+			},
+			["Smytt"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Ferus-Barthilas"] = {
+				["encounters"] = 3,
+				["points"] = 280,
 				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						4, -- [1]
+						4.314000000013039, -- [2]
+						"Anguish |cFFFF333341,089|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						6.585999999893829, -- [2]
+						"Anguish |cFFFF333341,091|r", -- [3]
+					}, -- [2]
+				},
 			},
-			["Yukios-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+			["Slurpinho"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
-			["Cohava-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Rathux"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
-			},
-			["Yuffa-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Ricksstudent-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Biggergf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
+				["encounters"] = 3,
+				["points"] = 290,
 				["class"] = "WARLOCK",
-			},
-			["Solvèj"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
+					{
+						5, -- [1]
+						155.7799999999115, -- [2]
+						"Soul Flay |cFFFF3333157,443|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "ROGUE",
 			},
-			["Emosong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Scibolt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Yarilys-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
+			["Thunderrz"] = {
+				["encounters"] = 3,
+				["points"] = 290,
 				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						3, -- [1]
+						45.92499999993015, -- [2]
+						"Dark Collapse |cFFFF33334,394,309|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Warlockmania"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Andruw"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Wilwar"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 		},
+		["diff"] = 16,
 	},
 	["236516"] = {
 		["hash"] = "236516",
 		["type"] = "endurance",
 		["name"] = "Maut",
 		["id"] = 2365,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "HUNTER",
 				["deaths"] = {
 				},
+				["class"] = "HUNTER",
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Leafyo"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Hoofalo-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Evangelos"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -7319,68 +7592,66 @@ DeathGraphsDBEndurance = {
 						"Shadow Wounds |cFFFF3333246,316|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Mitchconner-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Andruw"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Yoùdienow-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
 			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -7388,59 +7659,61 @@ DeathGraphsDBEndurance = {
 						"Stygian Annihilation |cFFFF33332,306,673|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
 				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -7448,117 +7721,22 @@ DeathGraphsDBEndurance = {
 						"Obsidian Skin |cFFFF3333264,419|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
-			["Felside-Kil'jaeden"] = {
+			["Khal-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "WARRIOR",
 			},
 			["Mordpriest-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Smytt"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						2, -- [1]
-						127.4020000000019, -- [2]
-						"Drain Essence |cFFFF333346,826|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Rathux"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Thunderrz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Logs"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Ferus-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Kajio-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Wilwar"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						182.2059999997728, -- [2]
-						"Stygian Annihilation |cFFFF33332,451,760|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Durantye"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
@@ -7568,16 +7746,110 @@ DeathGraphsDBEndurance = {
 			["Haxpax-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
-			["Khal-Kil'jaeden"] = {
+			["Durantye"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Thunderrz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Wilwar"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+			},
+			["Kajio-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MONK",
+			},
+			["Ferus-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Logs"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						2, -- [1]
+						182.2059999997728, -- [2]
+						"Stygian Annihilation |cFFFF33332,451,760|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "MAGE",
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Smytt"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						127.4020000000019, -- [2]
+						"Drain Essence |cFFFF333346,826|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Felside-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -7588,71 +7860,70 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Maut",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Maut",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["236816"] = {
 		["hash"] = "236816",
 		["type"] = "endurance",
 		["name"] = "Wrathion",
 		["id"] = 2368,
+		["diff"] = 16,
 		["player_db"] = {
 			["Babyhnter-Tichondrius"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "HUNTER",
 				["deaths"] = {
 				},
+				["class"] = "HUNTER",
 			},
 			["Kajio-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MONK",
 				["deaths"] = {
 				},
+				["class"] = "MONK",
 			},
 			["Fierypower-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Evangelos"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Mitchconner-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Andruw"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
+				["class"] = "DRUID",
 			},
 			["Yoùdienow-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -7660,39 +7931,39 @@ DeathGraphsDBEndurance = {
 						"Scorching Blister (DoT) |cFFFF3333157,591|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARRIOR",
 			},
 			["Yukiox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 3,
 				["points"] = 300,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 180,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -7705,31 +7976,33 @@ DeathGraphsDBEndurance = {
 						"Tail Swipe |cFFFF3333330,623|r", -- [3]
 					}, -- [2]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
 				["deaths"] = {
 				},
+				["class"] = "MAGE",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
 			["Smytt"] = {
 				["encounters"] = 2,
 				["points"] = 170,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -7742,101 +8015,94 @@ DeathGraphsDBEndurance = {
 						"Scorching Blister (DoT) |cFFFF3333108,846|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "HUNTER",
 			},
 			["Sci"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "MAGE",
-			},
-			["Felside-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
-			["Rivalry"] = {
+			["Khal-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
+				["class"] = "WARRIOR",
+			},
+			["Haxpax-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
 			},
 			["Mordpriest-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Durantye"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "PRIEST",
 				["deaths"] = {
 				},
 			},
-			["Ferus-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						128.3080000000773, -- [2]
-						"Gale Blast |cFFFF3333294,051|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARRIOR",
-			},
 			["Neyari"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Thunderrz"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Artsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Splendiferus-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -7844,30 +8110,18 @@ DeathGraphsDBEndurance = {
 						"Searing Breath |cFFFF3333305,196|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DEMONHUNTER",
 			},
-			["Rathux"] = {
+			["Wilwar"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Leafyo"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						274.1080000000075, -- [2]
-						"Scorching Blister (DoT) |cFFFF3333164,203|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 190,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -7875,48 +8129,66 @@ DeathGraphsDBEndurance = {
 						"Melee |cFFFF3333244,666|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DRUID",
 			},
-			["Wilwar"] = {
+			["Leafyo"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["deaths"] = {
+					{
+						2, -- [1]
+						274.1080000000075, -- [2]
+						"Scorching Blister (DoT) |cFFFF3333164,203|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Rathux"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Judaasx"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Ohnlyfans-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["deaths"] = {
+				},
 				["class"] = "MAGE",
-				["deaths"] = {
-				},
 			},
-			["Durantye"] = {
+			["Ferus-Barthilas"] = {
 				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Haxpax-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Khal-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+				["points"] = 90,
 				["class"] = "WARRIOR",
 				["deaths"] = {
+					{
+						1, -- [1]
+						128.3080000000773, -- [2]
+						"Gale Blast |cFFFF3333294,051|r", -- [3]
+					}, -- [1]
 				},
+			},
+			["Rivalry"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Felside-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -7927,36 +8199,35 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Wrathion",
-			["diff"] = 16,
-			["ej_instance_id"] = 1180,
 			["encounter"] = "Wrathion",
+			["ej_instance_id"] = 1180,
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["236416"] = {
 		["hash"] = "236416",
 		["type"] = "endurance",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
+		["diff"] = 16,
 		["player_db"] = {
 			["Haxpax-Illidan"] = {
 				["encounters"] = 7,
 				["points"] = 700,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Kajio-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 600,
-				["class"] = "MONK",
 				["deaths"] = {
 				},
+				["class"] = "MONK",
 			},
 			["Fierypower-Kil'jaeden"] = {
 				["encounters"] = 5,
 				["points"] = 490,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -7964,10 +8235,12 @@ DeathGraphsDBEndurance = {
 						"Unstable Vita |cFFFF33331,249,413|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARLOCK",
 			},
 			["Pier"] = {
 				["encounters"] = 7,
 				["points"] = 690,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -7975,33 +8248,31 @@ DeathGraphsDBEndurance = {
 						"Unstable Vita |cFFFF3333295,713|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Evangelos"] = {
 				["encounters"] = 7,
 				["points"] = 700,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Mitchconner-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 600,
-				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
+				["class"] = "DEMONHUNTER",
 			},
 			["Andruw"] = {
 				["encounters"] = 7,
 				["points"] = 700,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Bogarn-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 570,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -8019,11 +8290,11 @@ DeathGraphsDBEndurance = {
 						"Unstable Void Burst |cFFFF3333636,404|r", -- [3]
 					}, -- [3]
 				},
+				["class"] = "DRUID",
 			},
 			["Yoùdienow-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 590,
-				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						5, -- [1]
@@ -8031,25 +8302,25 @@ DeathGraphsDBEndurance = {
 						"Unstable Vita |cFFFF3333870,682|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "WARRIOR",
 			},
 			["Yukiox"] = {
 				["encounters"] = 7,
 				["points"] = 700,
+				["class"] = "MAGE",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Gummybuns"] = {
 				["encounters"] = 7,
 				["points"] = 700,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Toshpal"] = {
 				["encounters"] = 13,
 				["points"] = 1270,
-				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -8067,32 +8338,32 @@ DeathGraphsDBEndurance = {
 						"Unstable Nightmare |cFFFF33332,047,392|r", -- [3]
 					}, -- [3]
 				},
+				["class"] = "PALADIN",
 			},
 			["Slurpinho"] = {
 				["encounters"] = 7,
 				["points"] = 700,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Goffee-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 600,
-				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
+				["class"] = "WARLOCK",
 			},
 			["Eldeek-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 600,
-				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
+				["class"] = "DEATHKNIGHT",
 			},
 			["Esperance-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 590,
-				["class"] = "MAGE",
 				["deaths"] = {
 					{
 						6, -- [1]
@@ -8100,18 +8371,18 @@ DeathGraphsDBEndurance = {
 						"Ruin |cFFFF333366,127|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "MAGE",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 600,
-				["class"] = "PRIEST",
 				["deaths"] = {
 				},
+				["class"] = "PRIEST",
 			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 590,
-				["class"] = "DRUID",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -8119,10 +8390,12 @@ DeathGraphsDBEndurance = {
 						"Unstable Nightmare |cFFFF33331,128,875|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DRUID",
 			},
 			["Sci"] = {
 				["encounters"] = 7,
 				["points"] = 680,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						1, -- [1]
@@ -8135,18 +8408,18 @@ DeathGraphsDBEndurance = {
 						"Unstable Vita |cFFFF33331,228,804|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "PALADIN",
 			},
 			["Royalty"] = {
 				["encounters"] = 6,
 				["points"] = 600,
-				["class"] = "PALADIN",
 				["deaths"] = {
 				},
+				["class"] = "PALADIN",
 			},
 			["Ebolaspread"] = {
 				["encounters"] = 7,
 				["points"] = 640,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -8179,18 +8452,18 @@ DeathGraphsDBEndurance = {
 						"Unleashed Nightmare |cFFFF3333292,650|r", -- [3]
 					}, -- [6]
 				},
-				["class"] = "WARLOCK",
 			},
 			["Numberz"] = {
 				["encounters"] = 7,
 				["points"] = 700,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Delpi"] = {
 				["encounters"] = 7,
 				["points"] = 680,
+				["class"] = "MAGE",
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -8203,43 +8476,22 @@ DeathGraphsDBEndurance = {
 						"Unstable Nightmare |cFFFF3333315,618|r", -- [3]
 					}, -- [2]
 				},
-				["class"] = "MAGE",
 			},
-			["Felside-Kil'jaeden"] = {
-				["encounters"] = 6,
-				["points"] = 560,
-				["class"] = "DEMONHUNTER",
+			["Rathux"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
-					{
-						3, -- [1]
-						77.68500000005588, -- [2]
-						"Unleashed Nightmare |cFFFF3333213,426|r", -- [3]
-					}, -- [1]
-					{
-						4, -- [1]
-						102.1970000001602, -- [2]
-						"Unstable Void Burst |cFFFF33331,085,434|r", -- [3]
-					}, -- [2]
-					{
-						5, -- [1]
-						47.30500000016764, -- [2]
-						"Unstable Vita |cFFFF3333764,249|r", -- [3]
-					}, -- [3]
-					{
-						6, -- [1]
-						181.8179999999702, -- [2]
-						"Ruin |cFFFF333358,413|r", -- [3]
-					}, -- [4]
 				},
 			},
-			["Wilwar"] = {
-				["encounters"] = 7,
-				["points"] = 690,
+			["Khal-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
 				["deaths"] = {
 					{
 						1, -- [1]
-						16.76499999989756, -- [2]
-						"Unleashed Nightmare |cFFFF3333255,962|r", -- [3]
+						32.72899999981746, -- [2]
+						"Unstable Vita |cFFFF33331,215,212|r", -- [3]
 					}, -- [1]
 				},
 				["class"] = "WARRIOR",
@@ -8247,7 +8499,6 @@ DeathGraphsDBEndurance = {
 			["Mordpriest-Kil'jaeden"] = {
 				["encounters"] = 6,
 				["points"] = 590,
-				["class"] = "PRIEST",
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -8255,122 +8506,12 @@ DeathGraphsDBEndurance = {
 						"Unstable Void Burst |cFFFF3333811,785|r", -- [3]
 					}, -- [1]
 				},
-			},
-			["Smytt"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Thunderrz"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Logs"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Splendiferus-Kil'jaeden"] = {
-				["encounters"] = 6,
-				["points"] = 580,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						30.77399999974296, -- [2]
-						"Unstable Nightmare |cFFFF33331,709,856|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						30.97900000028312, -- [2]
-						"Unstable Vita |cFFFF3333863,437|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Warlockmania"] = {
-				["encounters"] = 7,
-				["points"] = 690,
-				["deaths"] = {
-					{
-						1, -- [1]
-						35.48299999989104, -- [2]
-						"Unstable Vita |cFFFF33331,144,546|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Hoofalo-Kil'jaeden"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Leafyo"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						39.87900000018999, -- [2]
-						"Unstable Void Burst |cFFFF3333772,794|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Artsong"] = {
-				["encounters"] = 7,
-				["points"] = 690,
-				["deaths"] = {
-					{
-						3, -- [1]
-						41.08700000005774, -- [2]
-						"Unstable Vita |cFFFF33331,220,927|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Babyhnter-Tichondrius"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						3, -- [1]
-						53.02999999979511, -- [2]
-						"Unstable Vita |cFFFF33331,144,657|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Judaasx"] = {
-				["encounters"] = 7,
-				["points"] = 690,
-				["deaths"] = {
-					{
-						4, -- [1]
-						23.32099999999628, -- [2]
-						"Eye of Corruption |cFFFF333342,743|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Ohnlyfans-Kil'jaeden"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
+				["class"] = "PRIEST",
 			},
 			["Ferus-Barthilas"] = {
 				["encounters"] = 7,
 				["points"] = 660,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -8393,26 +8534,157 @@ DeathGraphsDBEndurance = {
 						"Unstable Vita |cFFFF33331,210,272|r", -- [3]
 					}, -- [4]
 				},
-				["class"] = "WARRIOR",
 			},
-			["Khal-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
+			["Thunderrz"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Logs"] = {
+				["encounters"] = 6,
+				["points"] = 600,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Babyhnter-Tichondrius"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["deaths"] = {
+					{
+						3, -- [1]
+						53.02999999979511, -- [2]
+						"Unstable Vita |cFFFF33331,144,657|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
+			},
+			["Splendiferus-Kil'jaeden"] = {
+				["encounters"] = 6,
+				["points"] = 580,
+				["deaths"] = {
+					{
+						1, -- [1]
+						30.77399999974296, -- [2]
+						"Unstable Nightmare |cFFFF33331,709,856|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						30.97900000028312, -- [2]
+						"Unstable Vita |cFFFF3333863,437|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Artsong"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						3, -- [1]
+						41.08700000005774, -- [2]
+						"Unstable Vita |cFFFF33331,220,927|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Leafyo"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["deaths"] = {
+					{
+						2, -- [1]
+						39.87900000018999, -- [2]
+						"Unstable Void Burst |cFFFF3333772,794|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DRUID",
+			},
+			["Hoofalo-Kil'jaeden"] = {
+				["encounters"] = 6,
+				["points"] = 600,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Warlockmania"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						35.48299999989104, -- [2]
+						"Unstable Vita |cFFFF33331,144,546|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 7,
+				["points"] = 690,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						4, -- [1]
+						23.32099999999628, -- [2]
+						"Eye of Corruption |cFFFF333342,743|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Ohnlyfans-Kil'jaeden"] = {
+				["encounters"] = 6,
+				["points"] = 600,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Smytt"] = {
+				["encounters"] = 7,
+				["points"] = 700,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Wilwar"] = {
+				["encounters"] = 7,
+				["points"] = 690,
 				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
-						32.72899999981746, -- [2]
-						"Unstable Vita |cFFFF33331,215,212|r", -- [3]
+						16.76499999989756, -- [2]
+						"Unleashed Nightmare |cFFFF3333255,962|r", -- [3]
 					}, -- [1]
 				},
 			},
-			["Rathux"] = {
-				["encounters"] = 7,
-				["points"] = 700,
+			["Felside-Kil'jaeden"] = {
+				["encounters"] = 6,
+				["points"] = 560,
 				["deaths"] = {
+					{
+						3, -- [1]
+						77.68500000005588, -- [2]
+						"Unleashed Nightmare |cFFFF3333213,426|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						102.1970000001602, -- [2]
+						"Unstable Void Burst |cFFFF33331,085,434|r", -- [3]
+					}, -- [2]
+					{
+						5, -- [1]
+						47.30500000016764, -- [2]
+						"Unstable Vita |cFFFF3333764,249|r", -- [3]
+					}, -- [3]
+					{
+						6, -- [1]
+						181.8179999999702, -- [2]
+						"Ruin |cFFFF333358,413|r", -- [3]
+					}, -- [4]
 				},
-				["class"] = "DEATHKNIGHT",
+				["class"] = "DEMONHUNTER",
 			},
 		},
 		["boss_table"] = {
@@ -8422,18 +8694,411 @@ DeathGraphsDBEndurance = {
 			["id"] = 2331,
 			["mapid"] = 2217,
 			["name"] = "Ra-den the Despoiled",
-			["diff"] = 16,
-			["encounter"] = "Ra-den the Despoiled",
 			["ej_instance_id"] = 1180,
+			["encounter"] = "Ra-den the Despoiled",
+			["diff"] = 16,
 		},
-		["diff"] = 16,
 	},
 	["236415"] = {
 		["hash"] = "236415",
 		["type"] = "endurance",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
-		["diff"] = 15,
+		["player_db"] = {
+			["Candymán-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Dntyer-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Doublehitt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Rivalry"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hysterìa-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Singsòng-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Kleptto-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Vercetty-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Papisalad-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Fortytoo-ShadowCouncil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Mattea-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Gummybuns"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Bigbf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Toshpal"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Twodaggers-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Shankntwist-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Rathux"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Turbolok-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Scitama-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Illestchi-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Frontal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Ybrik-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						92.42299999995157, -- [2]
+						"Unstable Vita |cFFFF3333676,057|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Zanlet-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Baesong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Haschwàlth-Ragnaros"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Taistoi-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Gewccishadez-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Solvèj"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						2, -- [1]
+						91.92900000000373, -- [2]
+						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Evandh-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Illsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hunterscurse-Eonar"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Maxxed-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Babynv"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Nippybust-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Haiyue-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Delpix-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Ozdevil-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Epicdemic-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Choplo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Haxpax-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Yuffa-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Biggergf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Ricksstudent-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Zabiroo-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Scibolt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yarilys-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						91.92900000000373, -- [2]
+						"Unstable Vita |cFFFF3333656,256|r", -- [3]
+					}, -- [1]
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 10,
@@ -8442,31 +9107,24 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 2217,
 			["try_number"] = 1,
 			["name"] = "Ra-den the Despoiled",
-			["encounter"] = "Ra-den the Despoiled",
-			["ej_instance_id"] = 1180,
 			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Ra-den the Despoiled",
 		},
+		["diff"] = 15,
+	},
+	["236815"] = {
+		["hash"] = "236815",
+		["type"] = "endurance",
+		["name"] = "Wrathion",
+		["id"] = 2368,
 		["player_db"] = {
-			["Candymán-Illidan"] = {
+			["Déviné"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Dntyer-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Doublehitt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
@@ -8478,9 +9136,9 @@ DeathGraphsDBEndurance = {
 			["Hysterìa-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Singsòng-Zul'jin"] = {
 				["encounters"] = 1,
@@ -8499,9 +9157,9 @@ DeathGraphsDBEndurance = {
 			["Yukios-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Vercetty-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -8538,28 +9196,14 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
-			["Bigbf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
 			["Toshpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Twodaggers-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Shankntwist-BleedingHollow"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
@@ -8569,23 +9213,9 @@ DeathGraphsDBEndurance = {
 			["Rathux"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "DEATHKNIGHT",
-			},
-			["Emosong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
-			},
-			["Turbolok-BleedingHollow"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
 			},
 			["Scitama-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -8594,12 +9224,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
-			["Illestchi-Barthilas"] = {
+			["Yuffa-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "MONK",
 			},
 			["Frontal"] = {
 				["encounters"] = 1,
@@ -8610,55 +9240,36 @@ DeathGraphsDBEndurance = {
 			},
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						2, -- [1]
-						92.42299999995157, -- [2]
-						"Unstable Vita |cFFFF3333676,057|r", -- [3]
-					}, -- [1]
-				},
+				["points"] = 100,
 				["class"] = "HUNTER",
-			},
-			["Cohava-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 90,
 				["deaths"] = {
-					{
-						2, -- [1]
-						91.92900000000373, -- [2]
-						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "PRIEST",
 			},
 			["Baesong-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Artsong"] = {
 				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
+				["points"] = 90,
 				["class"] = "HUNTER",
-			},
-			["Zanlet-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
+					{
+						1, -- [1]
+						71.06600000010803, -- [2]
+						"Scorching Blister (DoT) |cFFFF3333110,334|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "MAGE",
 			},
 			["Taistoi-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Gewccishadez-Zul'jin"] = {
 				["encounters"] = 1,
@@ -8667,19 +9278,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PRIEST",
 			},
-			["Solvèj"] = {
+			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
 			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Evandh-Illidan"] = {
 				["encounters"] = 1,
@@ -8688,68 +9299,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Ricksstudent-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-			},
-			["Hunterscurse-Eonar"] = {
+			["Illsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "DEMONHUNTER",
-			},
-			["Maxxed-Mal'Ganis"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Judaasx"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Biggergf-Hyjal"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Yuffa-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Haxpax-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
 			},
 			["Choplo"] = {
 				["encounters"] = 1,
@@ -8758,19 +9313,52 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
-			["Déviné"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
 			["Epicdemic-Hyjal"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
+			},
+			["Solvèj"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Dntyer-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						69.82400000002235, -- [2]
+						"Scorching Blister (DoT) |cFFFF333318,235|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "ROGUE",
+			},
+			["Judaasx"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
 			},
 			["Ozdevil-Barthilas"] = {
 				["encounters"] = 1,
@@ -8779,75 +9367,28 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "WARRIOR",
 			},
-			["Delpix-Tichondrius"] = {
+			["Cohava-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Haiyue-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "PRIEST",
-			},
-			["Nippybust-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
-			},
-			["Babynv"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Illsong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Zabiroo-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
 			},
 			["Scibolt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Yarilys-Kil'jaeden"] = {
 				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						2, -- [1]
-						91.92900000000373, -- [2]
-						"Unstable Vita |cFFFF3333656,256|r", -- [3]
-					}, -- [1]
-				},
+				["points"] = 100,
 				["class"] = "HUNTER",
+				["deaths"] = {
+				},
 			},
 		},
-	},
-	["236815"] = {
-		["hash"] = "236815",
-		["type"] = "endurance",
-		["name"] = "Wrathion",
-		["id"] = 2368,
-		["diff"] = 15,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -8857,17 +9398,31 @@ DeathGraphsDBEndurance = {
 			["try_number"] = 1,
 			["name"] = "Wrathion",
 			["diff"] = 15,
-			["id"] = 2329,
 			["ej_instance_id"] = 1180,
+			["id"] = 2329,
 			["killed"] = true,
 		},
+		["diff"] = 15,
+	},
+	["237215"] = {
+		["hash"] = "237215",
+		["type"] = "endurance",
+		["name"] = "The Hivemind",
+		["id"] = 2372,
 		["player_db"] = {
-			["Déviné"] = {
+			["Dntyer-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
+			},
+			["Doublehitt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 			["Rivalry"] = {
 				["encounters"] = 1,
@@ -8879,9 +9434,9 @@ DeathGraphsDBEndurance = {
 			["Hysterìa-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Singsòng-Zul'jin"] = {
 				["encounters"] = 1,
@@ -8897,12 +9452,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Yukios-Kil'jaeden"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+			["Illiken-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Vercetty-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -8939,14 +9494,28 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Bigbf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
 			["Toshpal"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Twodaggers-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Shankntwist-BleedingHollow"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "ROGUE",
@@ -8956,9 +9525,16 @@ DeathGraphsDBEndurance = {
 			["Rathux"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+			},
+			["Turbolok-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
 			},
 			["Scitama-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -8967,12 +9543,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Yuffa-Kil'jaeden"] = {
+			["Illestchi-Barthilas"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "MONK",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Frontal"] = {
 				["encounters"] = 1,
@@ -8984,35 +9560,35 @@ DeathGraphsDBEndurance = {
 			["Ybrik-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Baesong-Kil'jaeden"] = {
 				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Artsong"] = {
-				["encounters"] = 1,
 				["points"] = 90,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 					{
 						1, -- [1]
-						71.06600000010803, -- [2]
-						"Scorching Blister (DoT) |cFFFF3333110,334|r", -- [3]
+						131.8070000000298, -- [2]
+						"Acid Spray |cFFFF3333246,768|r", -- [3]
 					}, -- [1]
 				},
+			},
+			["Artsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["class"] = "HUNTER",
+				["deaths"] = {
+				},
 			},
 			["Taistoi-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Gewccishadez-Zul'jin"] = {
 				["encounters"] = 1,
@@ -9024,16 +9600,16 @@ DeathGraphsDBEndurance = {
 			["Royalty"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
 			},
 			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Evandh-Illidan"] = {
 				["encounters"] = 1,
@@ -9049,10 +9625,17 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Choplo"] = {
+			["Maxxed-Mal'Ganis"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MONK",
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Ozdevil-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
 			},
@@ -9063,2183 +9646,1804 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Solvèj"] = {
+			["Choplo"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Cohava-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Ozdevil-Barthilas"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARRIOR",
+				["class"] = "MONK",
 				["deaths"] = {
 				},
 			},
 			["Emosong-Kil'jaeden"] = {
 				["encounters"] = 1,
-				["points"] = 90,
+				["points"] = 100,
 				["class"] = "ROGUE",
 				["deaths"] = {
-					{
-						1, -- [1]
-						69.82400000002235, -- [2]
-						"Scorching Blister (DoT) |cFFFF333318,235|r", -- [3]
-					}, -- [1]
+				},
+			},
+			["Solvèj"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Cohava-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Yuffa-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Ricksstudent-Mal'Ganis"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Biggergf-Hyjal"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
 				},
 			},
 			["Judaasx"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "WARLOCK",
-			},
-			["Dntyer-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "ROGUE",
 			},
-			["Illiken-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Yukios-Kil'jaeden"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
+			},
+			["Déviné"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
 			},
 			["Scibolt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
 			},
 			["Yarilys-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "HUNTER",
-			},
-		},
-	},
-	["237716"] = {
-		["hash"] = "237716",
-		["type"] = "endurance",
-		["name"] = "Dark Inquisitor Xanesh",
-		["id"] = 2377,
-		["diff"] = 16,
-		["player_db"] = {
-			["Haxpax-Illidan"] = {
-				["encounters"] = 3,
-				["points"] = 300,
 				["deaths"] = {
 				},
-				["class"] = "WARLOCK",
-			},
-			["Artsong"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Sci"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Pier"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						3, -- [1]
-						37.66999999992549, -- [2]
-						"Anguish |cFFFF333341,807|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Evangelos"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Ebolaspread"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["deaths"] = {
-					{
-						4, -- [1]
-						2.695999999996275, -- [2]
-						"Anguish |cFFFF333342,167|r", -- [3]
-					}, -- [1]
-					{
-						5, -- [1]
-						4.448999999905936, -- [2]
-						"Anguish |cFFFF333342,169|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Numberz"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						4, -- [1]
-						37.89699999999721, -- [2]
-						"Soul Flay |cFFFF3333510,968|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PALADIN",
-			},
-			["Delpi"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Yukiox"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Gummybuns"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						3, -- [1]
-						45.92499999993015, -- [2]
-						"Dark Collapse |cFFFF33333,241,235|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MONK",
-			},
-			["Toshpal"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Smytt"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Andruw"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-			},
-			["Slurpinho"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Rathux"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Judaasx"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						5, -- [1]
-						155.7799999999115, -- [2]
-						"Soul Flay |cFFFF3333157,443|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARLOCK",
-			},
-			["Warlockmania"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Thunderrz"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["deaths"] = {
-					{
-						3, -- [1]
-						45.92499999993015, -- [2]
-						"Dark Collapse |cFFFF33334,394,309|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "HUNTER",
-			},
-			["Ferus-Barthilas"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["deaths"] = {
-					{
-						4, -- [1]
-						4.314000000013039, -- [2]
-						"Anguish |cFFFF333341,089|r", -- [3]
-					}, -- [1]
-					{
-						5, -- [1]
-						6.585999999893829, -- [2]
-						"Anguish |cFFFF333341,091|r", -- [3]
-					}, -- [2]
-				},
-				["class"] = "WARRIOR",
-			},
-			["Wilwar"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
 			},
 		},
 		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 4,
+			["diff_string"] = "Heroic",
+			["index"] = 5,
 			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2328,
+			["id"] = 2333,
 			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Dark Inquisitor Xanesh",
-			["encounter"] = "Dark Inquisitor Xanesh",
+			["name"] = "The Hivemind",
+			["diff"] = 15,
+			["encounter"] = "The Hivemind",
 			["ej_instance_id"] = 1180,
-			["diff"] = 16,
 		},
+		["diff"] = 15,
 	},
 }
 DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 545820,
-				["timeofdeath"] = 7.303000000072643,
-				["name"] = "Ebolaspread",
-				["time"] = 1599368749.304,
-				["class"] = "WARLOCK",
-				["timestring"] = "0m 7s",
+				["maxhealth"] = 579440,
+				["timeofdeath"] = 410.4660000000149,
+				["name"] = "Tianarrae-Kil'jaeden",
 				["events"] = {
 					{
-						4, -- [1]
-						310322, -- [2]
+						2, -- [1]
+						20484, -- [2]
 						1, -- [3]
-						1599368746.268, -- [4]
-						584020, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						1599714399.013, -- [4]
+						0, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
 					}, -- [1]
 					{
 						false, -- [1]
-						77220, -- [2]
-						9653, -- [3]
-						1599368746.268, -- [4]
-						584020, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						4242, -- [3]
+						1599714369.387, -- [4]
+						374043, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						108366, -- [2]
-						2674, -- [3]
-						1599368746.268, -- [4]
-						584020, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						319348, -- [2]
+						68672, -- [3]
+						1599714369.387, -- [4]
+						305371, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [3]
 					{
-						true, -- [1]
-						310322, -- [2]
-						140565, -- [3]
-						1599368746.268, -- [4]
-						455782, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						12327, -- [7]
-						32, -- [8]
+						false, -- [1]
+						48438, -- [2]
+						4211, -- [3]
+						1599714369.642, -- [4]
+						309582, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
-						274912, -- [2]
-						20582, -- [3]
-						1599368746.406, -- [4]
-						476364, -- [5]
-						"Gummybuns", -- [6]
+						143924, -- [2]
+						655, -- [3]
+						1599714369.838, -- [4]
+						310237, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [5]
 					{
-						true, -- [1]
-						111400, -- [2]
-						17294, -- [3]
-						1599368746.596, -- [4]
-						459070, -- [5]
-						"Ebolaspread", -- [6]
+						false, -- [1]
+						774, -- [2]
+						6500, -- [3]
+						1599714369.909, -- [4]
+						316737, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						119611, -- [2]
-						8285, -- [3]
-						1599368746.776, -- [4]
-						467355, -- [5]
-						"Gummybuns", -- [6]
+						48438, -- [2]
+						8365, -- [3]
+						1599714369.909, -- [4]
+						325102, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [7]
 					{
-						false, -- [1]
-						77220, -- [2]
-						11075, -- [3]
-						1599368747.256, -- [4]
-						467355, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						319346, -- [2]
+						30520, -- [3]
+						1599714369.94, -- [4]
+						294582, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						108366, -- [2]
-						645, -- [3]
-						1599368747.256, -- [4]
-						467355, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						270117, -- [2]
+						27607, -- [3]
+						1599714369.96, -- [4]
+						322189, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [9]
 					{
-						true, -- [1]
-						310322, -- [2]
-						140565, -- [3]
-						1599368747.256, -- [4]
-						338510, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						11720, -- [7]
-						32, -- [8]
+						false, -- [1]
+						48438, -- [2]
+						4152, -- [3]
+						1599714370.143, -- [4]
+						326341, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368747.272, -- [4]
-						338510, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						4740, -- [3]
+						1599714370.414, -- [4]
+						331081, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						143924, -- [2]
-						253, -- [3]
-						1599368747.595, -- [4]
-						338763, -- [5]
-						"Ebolaspread", -- [6]
+						774, -- [2]
+						11212, -- [3]
+						1599714370.644, -- [4]
+						342293, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [12]
 					{
-						true, -- [1]
-						111400, -- [2]
-						17294, -- [3]
-						1599368747.595, -- [4]
-						321469, -- [5]
-						"Ebolaspread", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						4704, -- [3]
+						1599714370.664, -- [4]
+						346997, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						77220, -- [2]
-						8515, -- [3]
-						1599368748.276, -- [4]
-						321469, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						4671, -- [3]
+						1599714370.907, -- [4]
+						351668, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [14]
 					{
 						false, -- [1]
-						108366, -- [2]
-						391, -- [3]
-						1599368748.276, -- [4]
-						321469, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						143924, -- [2]
+						3261, -- [3]
+						1599714371.061, -- [4]
+						354929, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [15]
 					{
-						true, -- [1]
-						310322, -- [2]
-						140565, -- [3]
-						1599368748.276, -- [4]
-						189810, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						8906, -- [7]
-						32, -- [8]
+						false, -- [1]
+						48438, -- [2]
+						4636, -- [3]
+						1599714371.163, -- [4]
+						359565, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368748.276, -- [4]
-						189810, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						false, -- [1]
-						25914, -- [2]
-						182027, -- [3]
-						1599368748.276, -- [4]
-						371837, -- [5]
-						"Sci", -- [6]
+						77489, -- [2]
+						8158, -- [3]
+						1599714371.305, -- [4]
+						367723, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						319348, -- [2]
+						65134, -- [3]
+						1599714371.383, -- [4]
+						302589, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [18]
 					{
 						false, -- [1]
-						119611, -- [2]
-						8285, -- [3]
-						1599368748.315, -- [4]
-						380122, -- [5]
-						"Gummybuns", -- [6]
+						774, -- [2]
+						11212, -- [3]
+						1599714371.427, -- [4]
+						313801, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [19]
 					{
-						true, -- [1]
-						111400, -- [2]
-						17294, -- [3]
-						1599368748.595, -- [4]
-						362828, -- [5]
-						"Ebolaspread", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						4602, -- [3]
+						1599714371.427, -- [4]
+						318403, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						116670, -- [2]
-						51971, -- [3]
-						1599368748.75, -- [4]
-						414799, -- [5]
-						"Gummybuns", -- [6]
+						48438, -- [2]
+						4566, -- [3]
+						1599714371.693, -- [4]
+						322969, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						116670, -- [2]
-						76155, -- [3]
-						1599368748.75, -- [4]
-						490954, -- [5]
-						"Gummybuns", -- [6]
+						48438, -- [2]
+						4531, -- [3]
+						1599714371.918, -- [4]
+						327500, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						115175, -- [2]
-						20583, -- [3]
-						1599368748.75, -- [4]
-						511537, -- [5]
-						"Gummybuns", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						28948, -- [3]
+						1599714371.971, -- [4]
+						298552, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						191894, -- [2]
-						68583, -- [3]
-						1599368748.765, -- [4]
-						580120, -- [5]
-						"Gummybuns", -- [6]
+						774, -- [2]
+						11213, -- [3]
+						1599714372.177, -- [4]
+						309765, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						198533, -- [2]
-						8190, -- [3]
-						1599368748.781, -- [4]
-						584020, -- [5]
-						"Jade Serpent Statue <Gummybuns>", -- [6]
+						48438, -- [2]
+						4492, -- [3]
+						1599714372.21, -- [4]
+						314257, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
-						77220, -- [2]
-						45854, -- [3]
-						1599368749.1, -- [4]
-						584020, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						143924, -- [2]
+						695, -- [3]
+						1599714372.285, -- [4]
+						314952, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [26]
 					{
-						true, -- [1]
-						309961, -- [2]
-						578766, -- [3]
-						1599368749.1, -- [4]
-						51108, -- [5]
-						"Il'gynoth", -- [6]
-						45854, -- [7]
-						32, -- [8]
+						false, -- [1]
+						48438, -- [2]
+						4460, -- [3]
+						1599714372.45, -- [4]
+						319412, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						4, -- [1]
-						309961, -- [2]
-						1, -- [3]
-						1599368749.1, -- [4]
-						51108, -- [5]
-						"Il'gynoth", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						48438, -- [2]
+						4424, -- [3]
+						1599714372.727, -- [4]
+						323836, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [28]
 					{
 						false, -- [1]
-						77220, -- [2]
-						7072, -- [3]
-						1599368749.285, -- [4]
-						51108, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						774, -- [2]
+						11213, -- [3]
+						1599714372.946, -- [4]
+						335049, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						false, -- [1]
-						108366, -- [2]
-						645, -- [3]
-						1599368749.285, -- [4]
-						51108, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						4389, -- [3]
+						1599714372.979, -- [4]
+						339438, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368749.285, -- [4]
-						51108, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						4354, -- [3]
+						1599714373.222, -- [4]
+						343792, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						310322, -- [2]
-						140565, -- [3]
-						1599368749.304, -- [4]
-						1, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						7717, -- [7]
+						319347, -- [2]
+						143630, -- [3]
+						1599714373.415, -- [4]
+						200162, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						319348, -- [2]
+						81417, -- [3]
+						1599714373.415, -- [4]
+						118745, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						81740, -- [10]
-					}, -- [32]
+						-1, -- [10]
+					}, -- [33]
 					{
 						3, -- [1]
 						0, -- [2]
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Ebolaspread", -- [6]
-					}, -- [33]
+						"Tianarrae-Kil'jaeden", -- [6]
+					}, -- [34]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "6m 50s",
+				["time"] = 1599714373.453,
 			}, -- [1]
 			{
-				["maxhealth"] = 505060,
-				["timeofdeath"] = 23.01600000006147,
-				["name"] = "Ferus-Barthilas",
-				["time"] = 1599368765.017,
-				["class"] = "WARRIOR",
-				["timestring"] = "0m 23s",
+				["maxhealth"] = 517880,
+				["timeofdeath"] = 467.8970000001136,
+				["name"] = "Danlow-Illidan",
 				["events"] = {
 					{
 						false, -- [1]
-						297850, -- [2]
-						25592, -- [3]
-						1599368746.023, -- [4]
-						540400, -- [5]
-						"Gummybuns", -- [6]
+						207386, -- [2]
+						3016, -- [3]
+						1599714426.346, -- [4]
+						571214, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						225311, -- [2]
-						58523, -- [3]
-						1599368748.908, -- [4]
-						540400, -- [5]
-						"Toshpal", -- [6]
+						287286, -- [2]
+						19465, -- [3]
+						1599714426.346, -- [4]
+						590679, -- [5]
+						"Royalty", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [2]
 					{
 						false, -- [1]
-						225311, -- [2]
-						36210, -- [3]
-						1599368750.086, -- [4]
-						540400, -- [5]
-						"Slurpinho", -- [6]
+						774, -- [2]
+						10857, -- [3]
+						1599714426.53, -- [4]
+						598143, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [3]
-					{
-						false, -- [1]
-						225311, -- [2]
-						72959, -- [3]
-						1599368755.402, -- [4]
-						540400, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						311201, -- [2]
-						31921, -- [3]
-						1599368757.133, -- [4]
-						540400, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [5]
-					{
-						4, -- [1]
-						310322, -- [2]
-						1, -- [3]
-						1599368761.9, -- [4]
-						540400, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						269279, -- [2]
-						52856, -- [3]
-						1599368761.9, -- [4]
-						540400, -- [5]
-						"Ferus-Barthilas", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [7]
-					{
-						false, -- [1]
-						296003, -- [2]
-						8711, -- [3]
-						1599368761.9, -- [4]
-						540400, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [8]
-					{
-						true, -- [1]
-						310322, -- [2]
-						134520, -- [3]
-						1599368761.9, -- [4]
-						467447, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						61567, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						270117, -- [2]
-						9897, -- [3]
-						1599368761.914, -- [4]
-						477344, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [10]
-					{
-						4, -- [1]
-						313759, -- [2]
-						1, -- [3]
-						1599368761.944, -- [4]
-						477344, -- [5]
-						"[*] Cursed Blood", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						572, -- [3]
-						1599368762.61, -- [4]
-						477916, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						true, -- [1]
-						310322, -- [2]
-						138120, -- [3]
-						1599368762.895, -- [4]
-						339796, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						274395, -- [2]
-						18400, -- [3]
-						1599368763.051, -- [4]
-						339796, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [14]
-					{
-						true, -- [1]
-						314502, -- [2]
-						75155, -- [3]
-						1599368763.051, -- [4]
-						283041, -- [5]
-						"Cursed Blood", -- [6]
-						18400, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						311201, -- [2]
-						32878, -- [3]
-						1599368763.135, -- [4]
-						315919, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1859, -- [3]
-						1599368763.832, -- [4]
-						317778, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						true, -- [1]
-						310322, -- [2]
-						138120, -- [3]
-						1599368763.899, -- [4]
-						179658, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						4, -- [1]
-						310322, -- [2]
-						1, -- [3]
-						1599368763.978, -- [4]
-						179658, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						310322, -- [2]
-						138120, -- [3]
-						1599368763.978, -- [4]
-						41538, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
 					{
 						false, -- [1]
 						90361, -- [2]
-						92834, -- [3]
-						1599368764.236, -- [4]
-						134372, -- [5]
-						"Loquenahak <Thunderrz>", -- [6]
+						28146, -- [3]
+						1599714426.589, -- [4]
+						598143, -- [5]
+						"Spirit Beast <Danlow-Illidan>", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						319348, -- [2]
+						70403, -- [3]
+						1599714426.614, -- [4]
+						527740, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						157982, -- [2]
+						24729, -- [3]
+						1599714426.876, -- [4]
+						552469, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						157982, -- [2]
+						2171, -- [3]
+						1599714426.909, -- [4]
+						554640, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						139, -- [2]
+						15174, -- [3]
+						1599714427.178, -- [4]
+						569814, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						290, -- [3]
+						1599714427.549, -- [4]
+						570104, -- [5]
+						"Danlow-Illidan", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						157982, -- [2]
+						20920, -- [3]
+						1599714427.834, -- [4]
+						591024, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						270661, -- [2]
+						3273, -- [3]
+						1599714427.947, -- [4]
+						594297, -- [5]
+						"Danlow-Illidan", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						774, -- [2]
+						18370, -- [3]
+						1599714428.015, -- [4]
+						598143, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37939, -- [3]
+						1599714428.124, -- [4]
+						560204, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						207386, -- [2]
+						2551, -- [3]
+						1599714428.337, -- [4]
+						562755, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						90361, -- [2]
+						28146, -- [3]
+						1599714428.592, -- [4]
+						590901, -- [5]
+						"Spirit Beast <Danlow-Illidan>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319348, -- [2]
+						85364, -- [3]
+						1599714428.615, -- [4]
+						505537, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						319347, -- [2]
+						144620, -- [3]
+						1599714428.653, -- [4]
+						360917, -- [5]
+						"Logs", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13716, -- [3]
+						1599714428.69, -- [4]
+						374633, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						2243, -- [3]
+						1599714428.773, -- [4]
+						376876, -- [5]
+						"Danlow-Illidan", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						311201, -- [2]
+						34450, -- [3]
+						1599714428.865, -- [4]
+						411326, -- [5]
+						"Danlow-Illidan", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						157982, -- [2]
+						2213, -- [3]
+						1599714428.91, -- [4]
+						413539, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						225311, -- [2]
-						60511, -- [3]
-						1599368764.28, -- [4]
-						194883, -- [5]
-						"Slurpinho", -- [6]
+						774, -- [2]
+						16597, -- [3]
+						1599714429.5, -- [4]
+						430136, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [22]
 					{
 						true, -- [1]
-						314502, -- [2]
-						71224, -- [3]
-						1599368764.491, -- [4]
-						123659, -- [5]
-						"Cursed Blood", -- [6]
+						318976, -- [2]
+						401711, -- [3]
+						1599714429.676, -- [4]
+						28425, -- [5]
+						"[*] Stupefying Glare", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
+						4, -- [1]
+						318976, -- [2]
+						1, -- [3]
+						1599714429.676, -- [4]
+						28425, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						139, -- [2]
+						7587, -- [3]
+						1599714429.752, -- [4]
+						36012, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1599714429.778, -- [4]
+						48828, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1609, -- [3]
+						1599714430.012, -- [4]
+						50437, -- [5]
+						"Danlow-Illidan", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						287286, -- [2]
+						18900, -- [3]
+						1599714430.012, -- [4]
+						69337, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
 						true, -- [1]
-						310322, -- [2]
-						137186, -- [3]
-						1599368765.002, -- [4]
-						1, -- [5]
-						"[*] Morass of Corruption", -- [6]
+						319346, -- [2]
+						37939, -- [3]
+						1599714430.138, -- [4]
+						31398, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						13527, -- [10]
-					}, -- [24]
+						-1, -- [10]
+					}, -- [29]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599714430.857, -- [4]
+						31398, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						269279, -- [2]
+						33484, -- [3]
+						1599714430.857, -- [4]
+						31398, -- [5]
+						"Danlow-Illidan", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						299097, -- [3]
+						1599714430.857, -- [4]
+						1, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						33484, -- [7]
+						32, -- [8]
+						false, -- [9]
+						234215, -- [10]
+					}, -- [32]
 					{
 						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
+						109304, -- [2]
+						1, -- [3]
+						1599714404.702, -- [4]
 						0, -- [5]
-						"Ferus-Barthilas", -- [6]
-					}, -- [25]
+						"Danlow-Illidan", -- [6]
+					}, -- [33]
 				},
+				["class"] = "HUNTER",
+				["timestring"] = "7m 47s",
+				["time"] = 1599714430.884,
 			}, -- [2]
 			{
-				["maxhealth"] = 534600,
-				["timeofdeath"] = 235.4850000001025,
-				["name"] = "Slurpinho",
-				["time"] = 1599368977.486,
-				["class"] = "PALADIN",
-				["timestring"] = "3m 55s",
+				["maxhealth"] = 528720,
+				["timeofdeath"] = 469.4860000000335,
+				["name"] = "Baylesstv-Kil'jaeden",
 				["events"] = {
 					{
-						2, -- [1]
-						95750, -- [2]
-						1, -- [3]
-						1599368991.018, -- [4]
-						0, -- [5]
-						"Judaasx", -- [6]
+						false, -- [1]
+						287286, -- [2]
+						38930, -- [3]
+						1599714426.346, -- [4]
+						581580, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						225311, -- [2]
-						51101, -- [3]
-						1599368964.727, -- [4]
-						572020, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
+						280165, -- [2]
+						14151, -- [3]
+						1599714426.397, -- [4]
+						581580, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [2]
 					{
 						true, -- [1]
-						314502, -- [2]
-						129281, -- [3]
-						1599368965.613, -- [4]
-						442739, -- [5]
-						"Cursed Blood", -- [6]
+						319346, -- [2]
+						14151, -- [3]
+						1599714426.397, -- [4]
+						581580, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
+					{
+						false, -- [1]
+						8936, -- [2]
+						4306, -- [3]
+						1599714426.53, -- [4]
+						581580, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						280165, -- [2]
+						31840, -- [3]
+						1599714426.614, -- [4]
+						581580, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						319348, -- [2]
+						31840, -- [3]
+						1599714426.614, -- [4]
+						581580, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						157982, -- [2]
+						44687, -- [3]
+						1599714426.876, -- [4]
+						581580, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						157982, -- [2]
+						1962, -- [3]
+						1599714426.909, -- [4]
+						581580, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						139, -- [2]
+						7587, -- [3]
+						1599714427.154, -- [4]
+						581580, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						157982, -- [2]
+						18903, -- [3]
+						1599714427.834, -- [4]
+						581580, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						8936, -- [2]
+						4306, -- [3]
+						1599714427.97, -- [4]
+						581580, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						207386, -- [2]
+						4611, -- [3]
+						1599714428.337, -- [4]
+						581580, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						280165, -- [2]
+						17158, -- [3]
+						1599714428.395, -- [4]
+						581580, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						319346, -- [2]
+						17158, -- [3]
+						1599714428.395, -- [4]
+						581580, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						280165, -- [2]
+						22213, -- [3]
+						1599714428.592, -- [4]
+						581580, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319348, -- [2]
+						38606, -- [3]
+						1599714428.615, -- [4]
+						565187, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						22213, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10567, -- [3]
+						1599714428.69, -- [4]
+						575754, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						157982, -- [2]
+						2213, -- [3]
+						1599714428.89, -- [4]
+						577967, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						8936, -- [2]
+						4306, -- [3]
+						1599714429.393, -- [4]
+						581580, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						139, -- [2]
+						7587, -- [3]
+						1599714429.752, -- [4]
+						581580, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						287286, -- [2]
+						35217, -- [3]
+						1599714430.012, -- [4]
+						581580, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						207386, -- [2]
+						4611, -- [3]
+						1599714430.334, -- [4]
+						581580, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						319346, -- [2]
+						35378, -- [3]
+						1599714430.42, -- [4]
+						546202, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						157982, -- [2]
+						1977, -- [3]
+						1599714430.912, -- [4]
+						548179, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						8936, -- [2]
+						4306, -- [3]
+						1599714430.967, -- [4]
+						552485, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10568, -- [3]
+						1599714431.666, -- [4]
+						563053, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599714431.986, -- [4]
+						563053, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						309991, -- [2]
+						270532, -- [3]
+						1599714431.986, -- [4]
+						292521, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						139, -- [2]
+						7587, -- [3]
+						1599714432.309, -- [4]
+						300108, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36438, -- [3]
+						1599714432.415, -- [4]
+						263670, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599714432.432, -- [4]
+						263670, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						278646, -- [3]
+						1599714432.473, -- [4]
+						1, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						14976, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						61336, -- [2]
+						1, -- [3]
+						1599714422.759, -- [4]
+						0, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "7m 49s",
+				["time"] = 1599714432.473,
+			}, -- [3]
+			{
+				["maxhealth"] = 524280,
+				["timeofdeath"] = 469.9310000000987,
+				["name"] = "Esperance-Kil'jaeden",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1599714447.668, -- [4]
+						0, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						9809, -- [3]
+						1599714426.556, -- [4]
+						454209, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						319348, -- [2]
+						67740, -- [3]
+						1599714426.614, -- [4]
+						386469, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						157982, -- [2]
+						44687, -- [3]
+						1599714426.876, -- [4]
+						431156, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						157982, -- [2]
+						1962, -- [3]
+						1599714426.909, -- [4]
+						433118, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						139, -- [2]
+						15174, -- [3]
+						1599714427.178, -- [4]
+						448292, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						157982, -- [2]
+						37805, -- [3]
+						1599714427.834, -- [4]
+						486097, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						774, -- [2]
+						8299, -- [3]
+						1599714428.031, -- [4]
+						494396, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37633, -- [3]
+						1599714428.221, -- [4]
+						456763, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						319348, -- [2]
+						84675, -- [3]
+						1599714428.615, -- [4]
+						372088, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						77489, -- [2]
+						12962, -- [3]
+						1599714428.69, -- [4]
+						385050, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						157982, -- [2]
+						2213, -- [3]
+						1599714428.89, -- [4]
+						387263, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						774, -- [2]
+						8299, -- [3]
+						1599714429.5, -- [4]
+						395562, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						86949, -- [2]
+						204750, -- [3]
+						1599714429.649, -- [4]
+						395562, -- [5]
+						"Esperance-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						318976, -- [2]
+						398467, -- [3]
+						1599714429.649, -- [4]
+						201845, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						204750, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						4, -- [1]
+						318976, -- [2]
+						1, -- [3]
+						1599714429.649, -- [4]
+						201845, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						139, -- [2]
+						7587, -- [3]
+						1599714429.752, -- [4]
+						209432, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1599714429.778, -- [4]
+						222248, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37633, -- [3]
+						1599714430.205, -- [4]
+						184615, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						1, -- [1]
+						45438, -- [2]
+						1, -- [3]
+						1599714430.833, -- [4]
+						184615, -- [5]
+						"Esperance-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						157982, -- [2]
+						2213, -- [3]
+						1599714430.912, -- [4]
+						186828, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599714430.912, -- [4]
+						198732, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						8299, -- [3]
+						1599714430.967, -- [4]
+						207031, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599714430.995, -- [4]
+						218935, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						77489, -- [2]
+						6746, -- [3]
+						1599714431.666, -- [4]
+						225681, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1599714431.717, -- [4]
+						238497, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						139, -- [2]
+						15174, -- [3]
+						1599714432.309, -- [4]
+						253671, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1599714432.352, -- [4]
+						266487, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						774, -- [2]
+						8299, -- [3]
+						1599714432.432, -- [4]
+						274786, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599714432.491, -- [4]
+						286690, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						319346, -- [2]
+						1, -- [3]
+						1599714432.885, -- [4]
+						286690, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599714432.885, -- [4]
+						286690, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						309991, -- [2]
+						287781, -- [3]
+						1599714432.918, -- [4]
+						1, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						1091, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						45438, -- [2]
+						1, -- [3]
+						1599714430.833, -- [4]
+						0, -- [5]
+						"Esperance-Kil'jaeden", -- [6]
+					}, -- [34]
+				},
+				["class"] = "MAGE",
+				["timestring"] = "7m 49s",
+				["time"] = 1599714432.918,
+			}, -- [4]
+			{
+				["maxhealth"] = 574840,
+				["timeofdeath"] = 471.1110000000335,
+				["name"] = "Goffee-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						774, -- [2]
+						8299, -- [3]
+						1599714430.24, -- [4]
+						289501, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599714430.263, -- [4]
+						301405, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [2]
 					{
 						false, -- [1]
 						296330, -- [2]
-						28601, -- [3]
-						1599368966.463, -- [4]
-						471340, -- [5]
-						"Slurpinho", -- [6]
+						31616, -- [3]
+						1599714430.42, -- [4]
+						333021, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						143924, -- [2]
-						4380, -- [3]
-						1599368966.65, -- [4]
-						475720, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						311143, -- [2]
-						73984, -- [3]
-						1599368967.106, -- [4]
-						401736, -- [5]
-						"Blood of Ny'alotha", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						287286, -- [2]
-						31542, -- [3]
-						1599368967.368, -- [4]
-						433278, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						143924, -- [2]
-						5710, -- [3]
-						1599368967.867, -- [4]
-						438988, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						287286, -- [2]
-						49881, -- [3]
-						1599368968.525, -- [4]
-						488869, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						143924, -- [2]
-						66144, -- [3]
-						1599368969.1, -- [4]
-						555013, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [10]
-					{
-						false, -- [1]
-						225311, -- [2]
-						19559, -- [3]
-						1599368969.613, -- [4]
-						572020, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						225311, -- [2]
-						37828, -- [3]
-						1599368969.766, -- [4]
-						572020, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						287286, -- [2]
-						31542, -- [3]
-						1599368971.213, -- [4]
-						572020, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						287286, -- [2]
-						24941, -- [3]
-						1599368972.009, -- [4]
-						572020, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						225311, -- [2]
-						25550, -- [3]
-						1599368973.781, -- [4]
-						572020, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						4, -- [1]
-						310322, -- [2]
-						1, -- [3]
-						1599368974.458, -- [4]
-						572020, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						296003, -- [2]
-						3042, -- [3]
-						1599368974.458, -- [4]
-						572020, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						310322, -- [2]
-						105416, -- [3]
-						1599368974.458, -- [4]
-						469646, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						3042, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						270117, -- [2]
-						12598, -- [3]
-						1599368974.486, -- [4]
-						482244, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						4, -- [1]
-						310322, -- [2]
-						1, -- [3]
-						1599368975.076, -- [4]
-						482244, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						310322, -- [2]
-						108676, -- [3]
-						1599368975.076, -- [4]
-						373568, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1255, -- [3]
-						1599368975.157, -- [4]
-						374823, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						191840, -- [2]
-						15415, -- [3]
-						1599368975.592, -- [4]
-						390238, -- [5]
-						"Gummybuns", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						314502, -- [2]
-						123826, -- [3]
-						1599368975.976, -- [4]
-						266412, -- [5]
-						"Cursed Blood", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						4, -- [1]
-						310322, -- [2]
-						1, -- [3]
-						1599368976.004, -- [4]
-						266412, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						310322, -- [2]
-						129304, -- [3]
-						1599368976.004, -- [4]
-						137108, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						25914, -- [2]
-						40209, -- [3]
-						1599368976.877, -- [4]
-						177317, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [27]
-					{
-						true, -- [1]
-						310322, -- [2]
-						108676, -- [3]
-						1599368977.005, -- [4]
-						68641, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						191840, -- [2]
-						1370, -- [3]
-						1599368977.049, -- [4]
-						70011, -- [5]
-						"Gummybuns", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						287286, -- [2]
-						13763, -- [3]
-						1599368977.092, -- [4]
-						83774, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1599368977.115, -- [4]
-						96110, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						4, -- [1]
-						310322, -- [2]
-						1, -- [3]
-						1599368977.445, -- [4]
-						96110, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						310322, -- [2]
-						130185, -- [3]
-						1599368977.467, -- [4]
-						1, -- [5]
-						"[*] Morass of Corruption", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						34075, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						105809, -- [2]
-						1, -- [3]
-						1599368934.117, -- [4]
-						0, -- [5]
-						"Slurpinho", -- [6]
-					}, -- [34]
-				},
-			}, -- [3]
-		},
-		["bossname"] = "Il'gynoth, Corruption Reborn",
-		["bossicon"] = {
-			0.75, -- [1]
-			1, -- [2]
-			0.25, -- [3]
-			0.5, -- [4]
-			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
-		},
-		["date"] = 729824.907,
-		["timeelapsed"] = 412.344000000041,
-	}, -- [1]
-	{
-		["deaths"] = {
-			{
-				["maxhealth"] = 505060,
-				["timeofdeath"] = 64.69900000002235,
-				["name"] = "Ferus-Barthilas",
-				["time"] = 1599368164.377,
-				["class"] = "WARRIOR",
-				["timestring"] = "1m 4s",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						1282, -- [3]
-						1599368156.985, -- [4]
-						467822, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [1]
-					{
-						false, -- [1]
-						225311, -- [2]
-						19141, -- [3]
-						1599368157.111, -- [4]
-						486963, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [2]
-					{
-						false, -- [1]
-						303380, -- [2]
-						5732, -- [3]
-						1599368157.362, -- [4]
-						492695, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						288091, -- [2]
-						17098, -- [3]
-						1599368157.395, -- [4]
-						505060, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						true, -- [1]
-						308947, -- [2]
-						52597, -- [3]
-						1599368157.746, -- [4]
-						452463, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						867, -- [3]
-						1599368158.204, -- [4]
-						453330, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [6]
-					{
-						false, -- [1]
-						298318, -- [2]
-						27986, -- [3]
-						1599368158.26, -- [4]
-						481316, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [7]
-					{
-						true, -- [1]
-						308947, -- [2]
-						51124, -- [3]
-						1599368159.24, -- [4]
-						430192, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						303380, -- [2]
-						2866, -- [3]
-						1599368159.363, -- [4]
-						433058, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [9]
-					{
-						false, -- [1]
-						288091, -- [2]
-						8999, -- [3]
-						1599368159.381, -- [4]
-						442057, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						3790, -- [3]
-						1599368159.422, -- [4]
-						445847, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [11]
-					{
-						false, -- [1]
-						117313, -- [2]
-						25253, -- [3]
-						1599368160.592, -- [4]
-						471100, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						false, -- [1]
-						143924, -- [2]
-						2620, -- [3]
-						1599368160.635, -- [4]
-						473720, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						296003, -- [2]
-						3042, -- [3]
-						1599368160.726, -- [4]
-						473720, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						308947, -- [2]
-						59405, -- [3]
-						1599368160.726, -- [4]
-						417357, -- [5]
-						"Drest'agath", -- [6]
-						3042, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						225311, -- [2]
-						89816, -- [3]
-						1599368161.124, -- [4]
-						505060, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [16]
-					{
-						false, -- [1]
-						303380, -- [2]
-						2866, -- [3]
-						1599368161.35, -- [4]
-						505060, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						288091, -- [2]
-						17998, -- [3]
-						1599368161.374, -- [4]
-						505060, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						308947, -- [2]
-						61988, -- [3]
-						1599368162.256, -- [4]
-						443072, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						270117, -- [2]
-						10418, -- [3]
-						1599368162.256, -- [4]
-						453490, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [20]
-					{
-						true, -- [1]
-						308995, -- [2]
-						127908, -- [3]
-						1599368162.846, -- [4]
-						325582, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						311201, -- [2]
-						17303, -- [3]
-						1599368162.908, -- [4]
-						342885, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						3232, -- [3]
-						1599368163.077, -- [4]
-						346117, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [23]
-					{
-						false, -- [1]
-						117313, -- [2]
-						25253, -- [3]
-						1599368163.193, -- [4]
-						371370, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						225311, -- [2]
-						19171, -- [3]
-						1599368163.287, -- [4]
-						390541, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [25]
-					{
-						false, -- [1]
-						303380, -- [2]
-						2866, -- [3]
-						1599368163.361, -- [4]
-						393407, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [26]
-					{
-						false, -- [1]
-						288091, -- [2]
-						17998, -- [3]
-						1599368163.384, -- [4]
-						411405, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						308995, -- [2]
-						155089, -- [3]
-						1599368163.563, -- [4]
-						256316, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						308995, -- [2]
-						155088, -- [3]
-						1599368163.598, -- [4]
-						101228, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						308947, -- [2]
-						61988, -- [3]
-						1599368163.757, -- [4]
-						39240, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						2558, -- [3]
-						1599368164.295, -- [4]
-						41798, -- [5]
-						"Ferus-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						308995, -- [2]
-						127908, -- [3]
-						1599368164.377, -- [4]
-						1, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						86110, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Ferus-Barthilas", -- [6]
-					}, -- [33]
-				},
-			}, -- [1]
-			{
-				["maxhealth"] = 586020,
-				["timeofdeath"] = 69.63600000005681,
-				["name"] = "Haxpax-Illidan",
-				["time"] = 1599368169.314,
-				["class"] = "WARLOCK",
-				["timestring"] = "1m 9s",
-				["events"] = {
-					{
-						false, -- [1]
-						77220, -- [2]
-						4932, -- [3]
-						1599368162.256, -- [4]
-						378205, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						108366, -- [2]
-						12162, -- [3]
-						1599368162.256, -- [4]
-						378205, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						308947, -- [2]
-						58264, -- [3]
-						1599368162.256, -- [4]
-						337035, -- [5]
-						"Drest'agath", -- [6]
-						17094, -- [7]
-						8, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368162.256, -- [4]
-						337035, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
+						311201, -- [2]
+						38982, -- [3]
+						1599714430.448, -- [4]
+						372003, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
-					{
-						false, -- [1]
-						77220, -- [2]
-						263, -- [3]
-						1599368163.563, -- [4]
-						337035, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [5]
-					{
-						false, -- [1]
-						108366, -- [2]
-						4150, -- [3]
-						1599368163.563, -- [4]
-						337035, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4413, -- [3]
-						1599368163.563, -- [4]
-						337035, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						77220, -- [2]
-						4634, -- [3]
-						1599368163.757, -- [4]
-						337035, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						108366, -- [2]
-						4328, -- [3]
-						1599368163.757, -- [4]
-						337035, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						308947, -- [2]
-						70645, -- [3]
-						1599368163.757, -- [4]
-						275352, -- [5]
-						"Drest'agath", -- [6]
-						8962, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368163.757, -- [4]
-						275352, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						77220, -- [2]
-						6047, -- [3]
-						1599368164.224, -- [4]
-						275352, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						false, -- [1]
-						108366, -- [2]
-						15448, -- [3]
-						1599368164.224, -- [4]
-						275352, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						310499, -- [2]
-						58597, -- [3]
-						1599368164.224, -- [4]
-						238250, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						21495, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368164.253, -- [4]
-						238250, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						311201, -- [2]
-						58953, -- [3]
-						1599368165.929, -- [4]
-						297203, -- [5]
-						"Haxpax-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						77220, -- [2]
-						194, -- [3]
-						1599368166.567, -- [4]
-						297203, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						108366, -- [2]
-						3446, -- [3]
-						1599368166.567, -- [4]
-						297203, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						317001, -- [2]
-						3640, -- [3]
-						1599368166.567, -- [4]
-						297203, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						77220, -- [2]
-						3469, -- [3]
-						1599368167.234, -- [4]
-						297203, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						108366, -- [2]
-						14076, -- [3]
-						1599368167.234, -- [4]
-						297203, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [21]
-					{
-						true, -- [1]
-						310499, -- [2]
-						48327, -- [3]
-						1599368167.234, -- [4]
-						266421, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						17545, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						270117, -- [2]
-						11931, -- [3]
-						1599368167.258, -- [4]
-						278352, -- [5]
-						"Haxpax-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						311201, -- [2]
-						18423, -- [3]
-						1599368167.653, -- [4]
-						296775, -- [5]
-						"Haxpax-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
 					{
 						true, -- [1]
 						111400, -- [2]
-						17086, -- [3]
-						1599368168.692, -- [4]
-						256248, -- [5]
-						"Haxpax-Illidan", -- [6]
+						18527, -- [3]
+						1599714430.521, -- [4]
+						353476, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
 						1, -- [8]
 						true, -- [9]
 						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						77220, -- [2]
-						7170, -- [3]
-						1599368169.225, -- [4]
-						256248, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						108366, -- [2]
-						7395, -- [3]
-						1599368169.225, -- [4]
-						256248, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						310329, -- [2]
-						115384, -- [3]
-						1599368169.225, -- [4]
-						155429, -- [5]
-						"Drest'agath", -- [6]
-						14565, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						77220, -- [2]
-						8212, -- [3]
-						1599368169.273, -- [4]
-						155429, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						310348, -- [2]
-						123518, -- [3]
-						1599368169.273, -- [4]
-						40123, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						8212, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						77220, -- [2]
-						6056, -- [3]
-						1599368169.273, -- [4]
-						40123, -- [5]
-						"Haxpax-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						310348, -- [2]
-						115384, -- [3]
-						1599368169.296, -- [4]
-						1, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						6056, -- [7]
-						32, -- [8]
-						false, -- [9]
-						69205, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Haxpax-Illidan", -- [6]
-					}, -- [33]
-				},
-			}, -- [2]
-			{
-				["maxhealth"] = 548220,
-				["timeofdeath"] = 69.73300000000745,
-				["name"] = "Andruw",
-				["time"] = 1599368169.411,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "1m 9s",
-				["events"] = {
-					{
-						2, -- [1]
-						95750, -- [2]
-						1, -- [3]
-						1599368184.403, -- [4]
-						0, -- [5]
-						"Judaasx", -- [6]
-					}, -- [1]
-					{
-						false, -- [1]
-						287286, -- [2]
-						15265, -- [3]
-						1599368162.753, -- [4]
-						517015, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						317001, -- [2]
-						3038, -- [3]
-						1599368162.753, -- [4]
-						513977, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						270117, -- [2]
-						13962, -- [3]
-						1599368162.777, -- [4]
-						527939, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						143924, -- [2]
-						18352, -- [3]
-						1599368163.077, -- [4]
-						546291, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						225311, -- [2]
-						18832, -- [3]
-						1599368163.287, -- [4]
-						548220, -- [5]
-						"Toshpal", -- [6]
+						157982, -- [2]
+						2213, -- [3]
+						1599714430.912, -- [4]
+						355689, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -11247,473 +11451,71 @@ DeathGraphsDBCurrent = {
 					}, -- [6]
 					{
 						false, -- [1]
-						288999, -- [2]
-						840, -- [3]
-						1599368163.361, -- [4]
-						548220, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						308947, -- [2]
-						56689, -- [3]
-						1599368163.757, -- [4]
-						491531, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						287286, -- [2]
-						24407, -- [3]
-						1599368163.824, -- [4]
-						515938, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
 						143924, -- [2]
-						33944, -- [3]
-						1599368164.295, -- [4]
-						548220, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						308995, -- [2]
-						116973, -- [3]
-						1599368164.377, -- [4]
-						431247, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						295310, -- [2]
-						7781, -- [3]
-						1599368164.494, -- [4]
-						439028, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						308995, -- [2]
-						116973, -- [3]
-						1599368165.115, -- [4]
-						322055, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						25411, -- [3]
-						1599368165.514, -- [4]
-						347466, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [14]
-					{
-						true, -- [1]
-						317001, -- [2]
-						3038, -- [3]
-						1599368165.749, -- [4]
-						344428, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						288999, -- [2]
-						840, -- [3]
-						1599368165.929, -- [4]
-						345268, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						287286, -- [2]
-						24407, -- [3]
-						1599368166.167, -- [4]
-						369675, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						295310, -- [2]
-						7781, -- [3]
-						1599368166.495, -- [4]
-						377456, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						143924, -- [2]
-						15977, -- [3]
-						1599368166.716, -- [4]
-						393433, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						288999, -- [2]
-						4480, -- [3]
-						1599368167.821, -- [4]
-						397913, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						143924, -- [2]
-						31540, -- [3]
-						1599368167.958, -- [4]
-						429453, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						295310, -- [2]
-						7781, -- [3]
-						1599368168.501, -- [4]
-						437234, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [22]
-					{
-						false, -- [1]
-						288999, -- [2]
-						2240, -- [3]
-						1599368168.565, -- [4]
-						439474, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						317001, -- [2]
-						3038, -- [3]
-						1599368168.746, -- [4]
-						436436, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						270117, -- [2]
-						13962, -- [3]
-						1599368168.773, -- [4]
-						450398, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						228532, -- [2]
-						54822, -- [3]
-						1599368169.119, -- [4]
-						505220, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						143924, -- [2]
-						14725, -- [3]
-						1599368169.153, -- [4]
-						519945, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [27]
-					{
-						false, -- [1]
-						274346, -- [2]
-						10218, -- [3]
-						1599368169.225, -- [4]
-						519945, -- [5]
-						"Andruw", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						310329, -- [2]
-						237135, -- [3]
-						1599368169.225, -- [4]
-						293028, -- [5]
-						"Drest'agath", -- [6]
-						10218, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						310348, -- [2]
-						90026, -- [3]
-						1599368169.273, -- [4]
-						203002, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						310348, -- [2]
-						90026, -- [3]
-						1599368169.273, -- [4]
-						112976, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						false, -- [1]
-						288999, -- [2]
-						840, -- [3]
-						1599368169.34, -- [4]
-						113816, -- [5]
-						"Andruw", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						308995, -- [2]
-						141830, -- [3]
-						1599368169.395, -- [4]
-						1, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						28014, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Andruw", -- [6]
-					}, -- [34]
-				},
-			}, -- [3]
-			{
-				["maxhealth"] = 530740,
-				["timeofdeath"] = 96.91800000006333,
-				["name"] = "Sci",
-				["time"] = 1599368196.596,
-				["class"] = "PALADIN",
-				["timestring"] = "1m 36s",
-				["events"] = {
-					{
-						2, -- [1]
-						61999, -- [2]
-						1, -- [3]
-						1599368441.257, -- [4]
-						0, -- [5]
-						"Rathux", -- [6]
-					}, -- [1]
-					{
-						false, -- [1]
-						274395, -- [2]
-						19090, -- [3]
-						1599368179.095, -- [4]
-						530740, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						296003, -- [2]
-						3042, -- [3]
-						1599368179.095, -- [4]
-						530740, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						310584, -- [2]
-						99894, -- [3]
-						1599368179.095, -- [4]
-						452978, -- [5]
-						"Maw of Drest'agath", -- [6]
-						22132, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						270117, -- [2]
-						12075, -- [3]
-						1599368179.11, -- [4]
-						465053, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						287286, -- [2]
-						30280, -- [3]
-						1599368179.267, -- [4]
-						495333, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						143924, -- [2]
-						21395, -- [3]
-						1599368179.295, -- [4]
-						516728, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [7]
-					{
-						false, -- [1]
-						287286, -- [2]
-						49525, -- [3]
-						1599368180.235, -- [4]
-						530740, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						4, -- [1]
-						310358, -- [2]
-						1, -- [3]
-						1599368180.528, -- [4]
-						530740, -- [5]
-						"Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						225311, -- [2]
-						22757, -- [3]
-						1599368181.522, -- [4]
-						530740, -- [5]
-						"Sci", -- [6]
+						3084, -- [3]
+						1599714431.215, -- [4]
+						358773, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						true, -- [9]
 						-1, -- [10]
-					}, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						111400, -- [2]
+						18527, -- [3]
+						1599714431.524, -- [4]
+						340246, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [8]
 					{
 						false, -- [1]
-						269238, -- [2]
-						17055, -- [3]
-						1599368185.099, -- [4]
-						530740, -- [5]
-						"Sci", -- [6]
+						77489, -- [2]
+						9584, -- [3]
+						1599714431.666, -- [4]
+						349830, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						774, -- [2]
+						8299, -- [3]
+						1599714431.717, -- [4]
+						358129, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						77220, -- [2]
+						2470, -- [3]
+						1599714432.125, -- [4]
+						358129, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						296003, -- [2]
-						3042, -- [3]
-						1599368185.538, -- [4]
-						530740, -- [5]
-						"Sci", -- [6]
+						108366, -- [2]
+						3476, -- [3]
+						1599714432.125, -- [4]
+						358129, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -11721,611 +11523,203 @@ DeathGraphsDBCurrent = {
 					}, -- [12]
 					{
 						true, -- [1]
-						310361, -- [2]
-						171831, -- [3]
-						1599368185.538, -- [4]
-						361951, -- [5]
-						"Drest'agath", -- [6]
-						3042, -- [7]
+						319346, -- [2]
+						36025, -- [3]
+						1599714432.125, -- [4]
+						328050, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						5946, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
-						4, -- [1]
-						310361, -- [2]
-						1, -- [3]
-						1599368185.538, -- [4]
-						361951, -- [5]
-						"Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						139, -- [2]
+						7587, -- [3]
+						1599714432.309, -- [4]
+						335637, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [14]
 					{
 						false, -- [1]
-						270117, -- [2]
-						12076, -- [3]
-						1599368185.552, -- [4]
-						374027, -- [5]
-						"Sci", -- [6]
+						25914, -- [2]
+						130127, -- [3]
+						1599714432.37, -- [4]
+						465764, -- [5]
+						"Royalty", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						287286, -- [2]
-						19389, -- [3]
-						1599368186.73, -- [4]
-						393416, -- [5]
-						"Slurpinho", -- [6]
+						143924, -- [2]
+						3204, -- [3]
+						1599714432.432, -- [4]
+						468968, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						false, -- [1]
-						25914, -- [2]
-						84806, -- [3]
-						1599368187.318, -- [4]
-						478222, -- [5]
-						"Slurpinho", -- [6]
+						true, -- [1]
+						111400, -- [2]
+						18526, -- [3]
+						1599714432.536, -- [4]
+						450442, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
 						287286, -- [2]
-						20602, -- [3]
-						1599368187.635, -- [4]
-						498824, -- [5]
-						"Slurpinho", -- [6]
+						31024, -- [3]
+						1599714432.691, -- [4]
+						481466, -- [5]
+						"Royalty", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						false, -- [1]
-						25914, -- [2]
-						191541, -- [3]
-						1599368187.912, -- [4]
-						530740, -- [5]
-						"Toshpal", -- [6]
+						157982, -- [2]
+						2114, -- [3]
+						1599714432.918, -- [4]
+						483580, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [19]
 					{
-						false, -- [1]
-						287286, -- [2]
-						27099, -- [3]
-						1599368191.191, -- [4]
-						530740, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599714433.045, -- [4]
+						483580, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						287286, -- [2]
-						16158, -- [3]
-						1599368191.747, -- [4]
-						530740, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
+						77220, -- [2]
+						14795, -- [3]
+						1599714433.045, -- [4]
+						483580, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						296003, -- [2]
-						3042, -- [3]
-						1599368193.644, -- [4]
-						530740, -- [5]
-						"Sci", -- [6]
+						108366, -- [2]
+						1462, -- [3]
+						1599714433.045, -- [4]
+						483580, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						true, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [22]
 					{
 						true, -- [1]
-						308995, -- [2]
-						159569, -- [3]
-						1599368193.644, -- [4]
-						374213, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						3042, -- [7]
+						309991, -- [2]
+						275489, -- [3]
+						1599714433.045, -- [4]
+						224348, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						16257, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						270117, -- [2]
-						12075, -- [3]
-						1599368193.661, -- [4]
-						386288, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1599714433.045, -- [4]
+						224348, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						287286, -- [2]
-						47894, -- [3]
-						1599368194.24, -- [4]
-						434182, -- [5]
-						"Toshpal", -- [6]
+						270117, -- [2]
+						13261, -- [3]
+						1599714433.045, -- [4]
+						237609, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						true, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						308995, -- [2]
-						166774, -- [3]
-						1599368194.396, -- [4]
-						267408, -- [5]
-						"Tentacle of Drest'agath", -- [6]
+						false, -- [1]
+						774, -- [2]
+						7928, -- [3]
+						1599714433.18, -- [4]
+						245537, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
-					{
-						false, -- [1]
-						143924, -- [2]
-						3415, -- [3]
-						1599368194.72, -- [4]
-						270823, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						225311, -- [2]
-						18561, -- [3]
-						1599368194.758, -- [4]
-						289384, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						4, -- [1]
-						310406, -- [2]
-						1, -- [3]
-						1599368194.985, -- [4]
-						289384, -- [5]
-						"[*] Void Glare", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						310406, -- [2]
-						87303, -- [3]
-						1599368194.985, -- [4]
-						202081, -- [5]
-						"[*] Void Glare", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						310406, -- [2]
-						87303, -- [3]
-						1599368195.478, -- [4]
-						114778, -- [5]
-						"[*] Void Glare", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						false, -- [1]
-						143924, -- [2]
-						560, -- [3]
-						1599368195.941, -- [4]
-						115338, -- [5]
-						"Sci", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						308995, -- [2]
-						164503, -- [3]
-						1599368196.582, -- [4]
-						1, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						49165, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						642, -- [2]
-						1, -- [3]
-						1599368167.994, -- [4]
-						0, -- [5]
-						"Sci", -- [6]
-					}, -- [34]
-				},
-			}, -- [4]
-			{
-				["maxhealth"] = 545820,
-				["timeofdeath"] = 143.8740000000689,
-				["name"] = "Ebolaspread",
-				["time"] = 1599368243.552,
-				["class"] = "WARLOCK",
-				["timestring"] = "2m 23s",
-				["events"] = {
-					{
-						4, -- [1]
-						310361, -- [2]
-						1, -- [3]
-						1599368236.67, -- [4]
-						354359, -- [5]
-						"Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						270117, -- [2]
-						21783, -- [3]
-						1599368236.69, -- [4]
-						376142, -- [5]
-						"Ebolaspread", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						77220, -- [2]
-						13346, -- [3]
-						1599368236.776, -- [4]
-						376142, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						108366, -- [2]
-						635, -- [3]
-						1599368236.776, -- [4]
-						376142, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						310090, -- [2]
-						191920, -- [3]
-						1599368236.776, -- [4]
-						198203, -- [5]
-						"Maw of Drest'agath", -- [6]
-						13981, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368236.776, -- [4]
-						198203, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						269238, -- [2]
-						32080, -- [3]
-						1599368236.948, -- [4]
-						230283, -- [5]
-						"Ebolaspread", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						287286, -- [2]
-						13523, -- [3]
-						1599368236.948, -- [4]
-						243806, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
 					{
 						false, -- [1]
 						296184, -- [2]
-						12336, -- [3]
-						1599368237.002, -- [4]
-						256142, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						77220, -- [2]
-						3988, -- [3]
-						1599368237.516, -- [4]
-						256142, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						308947, -- [2]
-						74969, -- [3]
-						1599368237.516, -- [4]
-						185161, -- [5]
-						"Drest'agath", -- [6]
-						3988, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						428, -- [3]
-						1599368238.13, -- [4]
-						185589, -- [5]
-						"Ebolaspread", -- [6]
+						11904, -- [3]
+						1599714433.197, -- [4]
+						257441, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						287286, -- [2]
-						12546, -- [3]
-						1599368238.428, -- [4]
-						198135, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						77220, -- [2]
-						6817, -- [3]
-						1599368239.022, -- [4]
-						198135, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						108366, -- [2]
-						1793, -- [3]
-						1599368239.022, -- [4]
-						198135, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						308947, -- [2]
-						74968, -- [3]
-						1599368239.022, -- [4]
-						131777, -- [5]
-						"Drest'agath", -- [6]
-						8610, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						420, -- [3]
-						1599368239.754, -- [4]
-						132197, -- [5]
-						"Ebolaspread", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						77220, -- [2]
-						5202, -- [3]
-						1599368240.518, -- [4]
-						132197, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						108366, -- [2]
-						994, -- [3]
-						1599368240.518, -- [4]
-						132197, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						308947, -- [2]
-						74969, -- [3]
-						1599368240.518, -- [4]
-						63424, -- [5]
-						"Drest'agath", -- [6]
-						6196, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368240.518, -- [4]
-						63424, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						287286, -- [2]
-						16310, -- [3]
-						1599368241.159, -- [4]
-						79734, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						450, -- [3]
-						1599368241.774, -- [4]
-						80184, -- [5]
-						"Ebolaspread", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						287286, -- [2]
-						16310, -- [3]
-						1599368241.985, -- [4]
-						96494, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77220, -- [2]
-						5581, -- [3]
-						1599368242.031, -- [4]
-						96494, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						108366, -- [2]
-						984, -- [3]
-						1599368242.031, -- [4]
-						96494, -- [5]
-						"Ebolaspread", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						308947, -- [2]
-						74968, -- [3]
-						1599368242.031, -- [4]
-						28091, -- [5]
-						"Drest'agath", -- [6]
-						6565, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						143924, -- [2]
-						420, -- [3]
-						1599368243.412, -- [4]
-						28511, -- [5]
-						"Ebolaspread", -- [6]
+						true, -- [1]
+						111400, -- [2]
+						18526, -- [3]
+						1599714433.556, -- [4]
+						238915, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
+						1, -- [8]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [28]
 					{
 						false, -- [1]
 						77220, -- [2]
-						6860, -- [3]
-						1599368243.52, -- [4]
-						28511, -- [5]
-						"Ebolaspread", -- [6]
+						16656, -- [3]
+						1599714434.057, -- [4]
+						238915, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12334,22 +11728,22 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						108366, -- [2]
-						618, -- [3]
-						1599368243.52, -- [4]
-						28511, -- [5]
-						"Ebolaspread", -- [6]
+						713, -- [3]
+						1599714434.057, -- [4]
+						238915, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
 						108366, -- [2]
 						0, -- [3]
-						1599368243.535, -- [4]
-						28511, -- [5]
-						"Ebolaspread", -- [6]
+						1599714434.075, -- [4]
+						238915, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12357,913 +11751,113 @@ DeathGraphsDBCurrent = {
 					}, -- [31]
 					{
 						true, -- [1]
-						308947, -- [2]
-						74968, -- [3]
-						1599368243.535, -- [4]
+						309991, -- [2]
+						285285, -- [3]
+						1599714434.075, -- [4]
 						1, -- [5]
-						"Drest'agath", -- [6]
-						7478, -- [7]
-						8, -- [8]
+						"N'Zoth the Corruptor", -- [6]
+						17369, -- [7]
+						32, -- [8]
 						false, -- [9]
-						38979, -- [10]
+						29001, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
 						104773, -- [2]
 						1, -- [3]
-						1599368186.249, -- [4]
+						1599714400.76, -- [4]
 						0, -- [5]
-						"Ebolaspread", -- [6]
+						"Goffee-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "7m 51s",
+				["time"] = 1599714434.098,
 			}, -- [5]
 			{
-				["maxhealth"] = 597780,
-				["timeofdeath"] = 152.6550000000279,
-				["name"] = "Judaasx",
-				["time"] = 1599368252.333,
-				["class"] = "WARLOCK",
-				["timestring"] = "2m 32s",
+				["maxhealth"] = 893020,
+				["timeofdeath"] = 488.3000000000466,
+				["name"] = "Hoofalo-Kil'jaeden",
 				["events"] = {
 					{
 						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368243.535, -- [4]
-						436327, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						270117, -- [2]
-						13095, -- [3]
-						1599368243.535, -- [4]
-						449422, -- [5]
-						"Judaasx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						269238, -- [2]
-						35342, -- [3]
-						1599368243.569, -- [4]
-						484764, -- [5]
-						"Judaasx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						77220, -- [2]
-						5458, -- [3]
-						1599368245.011, -- [4]
-						484764, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						108366, -- [2]
-						33241, -- [3]
-						1599368245.011, -- [4]
-						484764, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						308947, -- [2]
-						74862, -- [3]
-						1599368245.011, -- [4]
-						448601, -- [5]
-						"Drest'agath", -- [6]
-						38699, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						4, -- [1]
-						308377, -- [2]
-						1, -- [3]
-						1599368246.385, -- [4]
-						449271, -- [5]
-						"[*] Void Infused Ichor", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [7]
-					{
-						4, -- [1]
-						317001, -- [2]
-						1, -- [3]
-						1599368246.385, -- [4]
-						449271, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						77220, -- [2]
-						6798, -- [3]
-						1599368246.495, -- [4]
-						449271, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						108366, -- [2]
-						2068, -- [3]
-						1599368246.495, -- [4]
-						449271, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						308947, -- [2]
-						74863, -- [3]
-						1599368246.495, -- [4]
-						383274, -- [5]
-						"Drest'agath", -- [6]
-						8866, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368246.515, -- [4]
-						383274, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368246.825, -- [4]
-						383274, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						311201, -- [2]
-						30017, -- [3]
-						1599368248.626, -- [4]
-						413959, -- [5]
-						"Judaasx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						77220, -- [2]
-						467, -- [3]
-						1599368249.394, -- [4]
-						413959, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						108366, -- [2]
-						4210, -- [3]
-						1599368249.394, -- [4]
-						413959, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [16]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4677, -- [3]
-						1599368249.394, -- [4]
-						413959, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						4, -- [1]
-						310406, -- [2]
-						1, -- [3]
-						1599368250.803, -- [4]
-						414626, -- [5]
-						"[*] Void Glare", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						77220, -- [2]
-						6405, -- [3]
-						1599368250.803, -- [4]
-						414626, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						108366, -- [2]
-						59778, -- [3]
-						1599368250.803, -- [4]
-						414626, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						310406, -- [2]
-						93650, -- [3]
-						1599368250.803, -- [4]
-						387159, -- [5]
-						"[*] Void Glare", -- [6]
-						66183, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						270117, -- [2]
-						13095, -- [3]
-						1599368250.815, -- [4]
-						400254, -- [5]
-						"Judaasx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						77220, -- [2]
-						16944, -- [3]
-						1599368251.119, -- [4]
-						400254, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						315197, -- [2]
-						199451, -- [3]
-						1599368251.136, -- [4]
-						217747, -- [5]
-						"Thing From Beyond", -- [6]
-						16944, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						77220, -- [2]
-						9819, -- [3]
-						1599368251.29, -- [4]
-						217747, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						310406, -- [2]
-						93649, -- [3]
-						1599368251.29, -- [4]
-						133917, -- [5]
-						"[*] Void Glare", -- [6]
-						9819, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						77220, -- [2]
-						7940, -- [3]
-						1599368251.791, -- [4]
-						134584, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						108366, -- [2]
-						3631, -- [3]
-						1599368251.806, -- [4]
-						134584, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						310406, -- [2]
-						93650, -- [3]
-						1599368251.806, -- [4]
-						52505, -- [5]
-						"[*] Void Glare", -- [6]
-						11571, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1599368251.82, -- [4]
-						52505, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						77220, -- [2]
-						5466, -- [3]
-						1599368252.305, -- [4]
-						52505, -- [5]
-						"Judaasx", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						310406, -- [2]
-						93650, -- [3]
-						1599368252.333, -- [4]
-						1, -- [5]
-						"[*] Void Glare", -- [6]
-						5466, -- [7]
-						32, -- [8]
-						false, -- [9]
-						35679, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						104773, -- [2]
-						1, -- [3]
-						1599368167.702, -- [4]
-						0, -- [5]
-						"Judaasx", -- [6]
-					}, -- [33]
-				},
-			}, -- [6]
-			{
-				["maxhealth"] = 537180,
-				["timeofdeath"] = 245.0850000000792,
-				["name"] = "Numberz",
-				["time"] = 1599368344.763,
-				["class"] = "PALADIN",
-				["timestring"] = "4m 5s",
-				["events"] = {
-					{
-						true, -- [1]
-						317001, -- [2]
-						4844, -- [3]
-						1599368329.555, -- [4]
-						485717, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						310552, -- [2]
-						48482, -- [3]
-						1599368330.006, -- [4]
-						437235, -- [5]
-						"Eye of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368330.116, -- [4]
-						437235, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						310552, -- [2]
-						48482, -- [3]
-						1599368331.009, -- [4]
-						388753, -- [5]
-						"Eye of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						310552, -- [2]
-						48482, -- [3]
-						1599368332.014, -- [4]
-						340271, -- [5]
-						"Eye of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4844, -- [3]
-						1599368332.56, -- [4]
-						335427, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						310552, -- [2]
-						48482, -- [3]
-						1599368333.015, -- [4]
-						286945, -- [5]
-						"Eye of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368333.621, -- [4]
-						286945, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						310552, -- [2]
-						48482, -- [3]
-						1599368334.005, -- [4]
-						238463, -- [5]
-						"Eye of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368334.116, -- [4]
-						238463, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						298318, -- [2]
-						26029, -- [3]
-						1599368334.629, -- [4]
-						264492, -- [5]
-						"Numberz", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4714, -- [3]
-						1599368335.563, -- [4]
-						259778, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368336.194, -- [4]
-						259778, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4715, -- [3]
-						1599368338.56, -- [4]
-						255063, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368339.106, -- [4]
-						255063, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368339.159, -- [4]
-						255063, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368339.585, -- [4]
-						255063, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						310552, -- [2]
-						47185, -- [3]
-						1599368340.18, -- [4]
-						207878, -- [5]
-						"Eye of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4715, -- [3]
-						1599368341.55, -- [4]
-						203163, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						287286, -- [2]
-						31775, -- [3]
-						1599368342.478, -- [4]
-						234938, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1599368342.497, -- [4]
-						247274, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						298318, -- [2]
-						26030, -- [3]
-						1599368342.987, -- [4]
-						273304, -- [5]
-						"Numberz", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						4, -- [1]
-						310406, -- [2]
-						1, -- [3]
-						1599368343.218, -- [4]
-						273304, -- [5]
-						"[*] Void Glare", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						310406, -- [2]
-						94406, -- [3]
-						1599368343.218, -- [4]
-						178898, -- [5]
-						"[*] Void Glare", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						310406, -- [2]
-						94407, -- [3]
-						1599368343.735, -- [4]
-						84491, -- [5]
-						"[*] Void Glare", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						287286, -- [2]
-						31776, -- [3]
-						1599368343.999, -- [4]
-						116267, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1599368344.023, -- [4]
-						128603, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						310406, -- [2]
-						94406, -- [3]
-						1599368344.213, -- [4]
-						34197, -- [5]
-						"[*] Void Glare", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						269279, -- [2]
-						4715, -- [3]
-						1599368344.58, -- [4]
-						34197, -- [5]
-						"Numberz", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4715, -- [3]
-						1599368344.58, -- [4]
-						34197, -- [5]
-						"[*] Umbral Aversion", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						269279, -- [2]
-						28884, -- [3]
-						1599368344.729, -- [4]
-						34197, -- [5]
-						"Numberz", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						310406, -- [2]
-						94406, -- [3]
-						1599368344.748, -- [4]
-						1, -- [5]
-						"[*] Void Glare", -- [6]
-						28884, -- [7]
-						32, -- [8]
-						false, -- [9]
-						31325, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						184662, -- [2]
-						1, -- [3]
-						1599368259.391, -- [4]
-						0, -- [5]
-						"Numberz", -- [6]
-					}, -- [33]
-				},
-			}, -- [7]
-			{
-				["maxhealth"] = 534880,
-				["timeofdeath"] = 401.7789999999804,
-				["name"] = "Toshpal",
-				["time"] = 1599368501.457,
-				["class"] = "PALADIN",
-				["timestring"] = "6m 41s",
-				["events"] = {
-					{
-						false, -- [1]
-						287286, -- [2]
-						49881, -- [3]
-						1599368490.492, -- [4]
-						464333, -- [5]
-						"Slurpinho", -- [6]
+						774, -- [2]
+						6210, -- [3]
+						1599714444.221, -- [4]
+						1001365, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1805, -- [3]
-						1599368490.658, -- [4]
-						466138, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						308947, -- [2]
-						67792, -- [3]
-						1599368491.312, -- [4]
-						398346, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						143924, -- [2]
-						2382, -- [3]
-						1599368491.879, -- [4]
-						400728, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						287286, -- [2]
-						49880, -- [3]
-						1599368492.396, -- [4]
-						450608, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						308947, -- [2]
-						67791, -- [3]
-						1599368492.797, -- [4]
-						382817, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
 					{
 						false, -- [1]
 						225311, -- [2]
-						19141, -- [3]
-						1599368492.93, -- [4]
-						401958, -- [5]
+						47257, -- [3]
+						1599714444.256, -- [4]
+						1042143, -- [5]
 						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3196, -- [3]
+						1599714444.69, -- [4]
+						1042143, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37044, -- [3]
+						1599714445.078, -- [4]
+						1005099, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3082, -- [3]
+						1599714445.141, -- [4]
+						1008181, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						774, -- [2]
+						11974, -- [3]
+						1599714445.58, -- [4]
+						1020155, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2652, -- [3]
+						1599714445.626, -- [4]
+						1022807, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -13271,82 +11865,484 @@ DeathGraphsDBCurrent = {
 					}, -- [7]
 					{
 						false, -- [1]
-						143924, -- [2]
-						52110, -- [3]
-						1599368493.122, -- [4]
-						454068, -- [5]
+						55078, -- [2]
+						2079, -- [3]
+						1599714445.939, -- [4]
+						1024886, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2550, -- [3]
+						1599714446.077, -- [4]
+						1027436, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2449, -- [3]
+						1599714446.533, -- [4]
+						1029885, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2346, -- [3]
+						1599714447.002, -- [4]
+						1032231, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36880, -- [3]
+						1599714447.066, -- [4]
+						995351, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						270117, -- [2]
+						13440, -- [3]
+						1599714447.088, -- [4]
+						1008791, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						1403, -- [3]
+						1599714447.277, -- [4]
+						1010194, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						287255, -- [2]
+						4301, -- [3]
+						1599714447.312, -- [4]
+						1014495, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						316711, -- [2]
+						142502, -- [3]
+						1599714448.591, -- [4]
+						871993, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						4, -- [1]
+						316711, -- [2]
+						3, -- [3]
+						1599714448.591, -- [4]
+						871993, -- [5]
+						"Thought Harvester", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						55078, -- [2]
+						2555, -- [3]
+						1599714448.921, -- [4]
+						874547, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						295842, -- [2]
+						36880, -- [3]
+						1599714449.082, -- [4]
+						874547, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36880, -- [3]
+						1599714449.082, -- [4]
+						874547, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						1, -- [2]
+						608295, -- [3]
+						1599714449.241, -- [4]
+						874547, -- [5]
+						"Thought Harvester", -- [6]
+						13917, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						206967, -- [2]
+						13917, -- [3]
+						1599714449.241, -- [4]
+						874547, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						287286, -- [2]
+						16255, -- [3]
+						1599714450.01, -- [4]
+						296424, -- [5]
 						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [8]
+					}, -- [23]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12576, -- [3]
+						1599714450.038, -- [4]
+						309000, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						53652, -- [2]
+						40041, -- [3]
+						1599714450.248, -- [4]
+						349041, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						53652, -- [2]
+						4699, -- [3]
+						1599714450.608, -- [4]
+						353740, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						53652, -- [2]
+						4839, -- [3]
+						1599714450.608, -- [4]
+						358579, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						53652, -- [2]
+						2494, -- [3]
+						1599714450.608, -- [4]
+						361073, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						295842, -- [2]
+						28603, -- [3]
+						1599714451.092, -- [4]
+						361073, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36879, -- [3]
+						1599714451.092, -- [4]
+						352797, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						28603, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						1, -- [2]
+						804461, -- [3]
+						1599714451.25, -- [4]
+						352797, -- [5]
+						"Thought Harvester", -- [6]
+						229292, -- [7]
+						1, -- [8]
+						false, -- [9]
+						222372, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						206967, -- [2]
+						229292, -- [3]
+						1599714451.25, -- [4]
+						352797, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						48792, -- [2]
+						1, -- [3]
+						1599714069.889, -- [4]
+						0, -- [5]
+						"Hoofalo-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "8m 8s",
+				["time"] = 1599714451.287,
+			}, -- [6]
+			{
+				["maxhealth"] = 535140,
+				["timeofdeath"] = 490.5849999999628,
+				["name"] = "Leafyo",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						1319, -- [3]
+						1599714446.603, -- [4]
+						443182, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
 					{
 						true, -- [1]
 						315161, -- [2]
-						17541, -- [3]
-						1599368493.515, -- [4]
-						436527, -- [5]
+						24073, -- [3]
+						1599714447.218, -- [4]
+						419109, -- [5]
 						"Eye of Corruption", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [9]
+					}, -- [2]
 					{
 						4, -- [1]
 						315161, -- [2]
 						1, -- [3]
-						1599368493.515, -- [4]
-						436527, -- [5]
+						1599714447.218, -- [4]
+						419109, -- [5]
 						"Eye of Corruption", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [10]
+					}, -- [3]
 					{
 						true, -- [1]
-						308947, -- [2]
-						69476, -- [3]
-						1599368494.305, -- [4]
-						367051, -- [5]
-						"Drest'agath", -- [6]
+						319346, -- [2]
+						39221, -- [3]
+						1599714447.312, -- [4]
+						379888, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						8, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [11]
+					}, -- [4]
 					{
 						false, -- [1]
-						143924, -- [2]
-						11721, -- [3]
-						1599368494.342, -- [4]
-						378772, -- [5]
-						"Toshpal", -- [6]
+						298318, -- [2]
+						55852, -- [3]
+						1599714447.448, -- [4]
+						436394, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [12]
+					}, -- [5]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1145, -- [3]
+						1599714447.802, -- [4]
+						437539, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
 					{
 						true, -- [1]
 						315161, -- [2]
-						20254, -- [3]
-						1599368494.501, -- [4]
-						358518, -- [5]
+						26915, -- [3]
+						1599714448.225, -- [4]
+						410624, -- [5]
 						"Eye of Corruption", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [13]
+					}, -- [7]
 					{
 						4, -- [1]
 						315161, -- [2]
 						2, -- [3]
-						1599368494.501, -- [4]
-						358518, -- [5]
+						1599714448.225, -- [4]
+						410624, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						536, -- [3]
+						1599714449.008, -- [4]
+						411160, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						315161, -- [2]
+						30426, -- [3]
+						1599714449.222, -- [4]
+						380734, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						4, -- [1]
+						315161, -- [2]
+						3, -- [3]
+						1599714449.222, -- [4]
+						380734, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38131, -- [3]
+						1599714449.301, -- [4]
+						342603, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						145109, -- [2]
+						17660, -- [3]
+						1599714450.078, -- [4]
+						360920, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						4, -- [1]
+						315161, -- [2]
+						4, -- [3]
+						1599714450.228, -- [4]
+						360920, -- [5]
 						"Eye of Corruption", -- [6]
 						false, -- [7]
 						false, -- [8]
@@ -13354,378 +12350,372 @@ DeathGraphsDBCurrent = {
 						false, -- [10]
 					}, -- [14]
 					{
-						false, -- [1]
-						287286, -- [2]
-						24940, -- [3]
-						1599368495.143, -- [4]
-						383458, -- [5]
-						"Slurpinho", -- [6]
+						true, -- [1]
+						315161, -- [2]
+						33937, -- [3]
+						1599714450.228, -- [4]
+						326983, -- [5]
+						"Eye of Corruption", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
 						143924, -- [2]
-						906, -- [3]
-						1599368495.572, -- [4]
-						384364, -- [5]
-						"Toshpal", -- [6]
+						639, -- [3]
+						1599714450.248, -- [4]
+						327622, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						308947, -- [2]
-						70038, -- [3]
-						1599368495.795, -- [4]
-						314326, -- [5]
-						"Drest'agath", -- [6]
+						false, -- [1]
+						287286, -- [2]
+						23495, -- [3]
+						1599714450.566, -- [4]
+						351117, -- [5]
+						"Royalty", -- [6]
 						nil, -- [7]
-						8, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368496.173, -- [4]
-						314326, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						143924, -- [2]
-						19057, -- [3]
-						1599368496.78, -- [4]
-						333383, -- [5]
-						"Toshpal", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
 						true, -- [1]
 						315161, -- [2]
-						23081, -- [3]
-						1599368497.499, -- [4]
-						310302, -- [5]
+						37448, -- [3]
+						1599714451.221, -- [4]
+						313669, -- [5]
 						"Eye of Corruption", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [20]
+					}, -- [18]
 					{
 						4, -- [1]
 						315161, -- [2]
-						3, -- [3]
-						1599368497.499, -- [4]
-						310302, -- [5]
+						5, -- [3]
+						1599714451.221, -- [4]
+						313669, -- [5]
 						"Eye of Corruption", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						269238, -- [2]
+						18058, -- [3]
+						1599714451.287, -- [4]
+						331727, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38131, -- [3]
+						1599714451.314, -- [4]
+						293596, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
 						143924, -- [2]
-						20533, -- [3]
-						1599368497.995, -- [4]
-						330835, -- [5]
-						"Toshpal", -- [6]
+						546, -- [3]
+						1599714451.429, -- [4]
+						294796, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						225311, -- [2]
-						20689, -- [3]
-						1599368498.085, -- [4]
-						351524, -- [5]
-						"Sci", -- [6]
+						true, -- [1]
+						315161, -- [2]
+						40958, -- [3]
+						1599714452.212, -- [4]
+						253838, -- [5]
+						"Eye of Corruption", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						false, -- [1]
-						287286, -- [2]
-						24941, -- [3]
-						1599368498.41, -- [4]
-						376465, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						315161, -- [2]
+						6, -- [3]
+						1599714452.212, -- [4]
+						253838, -- [5]
+						"Eye of Corruption", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [24]
 					{
 						true, -- [1]
-						315161, -- [2]
-						25744, -- [3]
-						1599368498.5, -- [4]
-						350721, -- [5]
-						"Eye of Corruption", -- [6]
+						309978, -- [2]
+						151899, -- [3]
+						1599714452.541, -- [4]
+						101939, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
+						false, -- [1]
+						143924, -- [2]
+						619, -- [3]
+						1599714452.665, -- [4]
+						102558, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						315161, -- [2]
+						44469, -- [3]
+						1599714453.219, -- [4]
+						58089, -- [5]
+						"Eye of Corruption", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
 						4, -- [1]
 						315161, -- [2]
-						4, -- [3]
-						1599368498.5, -- [4]
-						350721, -- [5]
+						7, -- [3]
+						1599714453.219, -- [4]
+						58089, -- [5]
 						"Eye of Corruption", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						274395, -- [2]
-						19090, -- [3]
-						1599368501.282, -- [4]
-						350721, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						296003, -- [2]
-						3042, -- [3]
-						1599368501.282, -- [4]
-						350721, -- [5]
-						"Sci", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
 					}, -- [28]
 					{
 						true, -- [1]
-						310329, -- [2]
-						106592, -- [3]
-						1599368501.282, -- [4]
-						266261, -- [5]
-						"Drest'agath", -- [6]
-						22132, -- [7]
+						319346, -- [2]
+						38131, -- [3]
+						1599714453.32, -- [4]
+						19958, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						true, -- [1]
-						310348, -- [2]
-						109888, -- [3]
-						1599368501.307, -- [4]
-						156373, -- [5]
-						"Tentacle of Drest'agath", -- [6]
+						false, -- [1]
+						18562, -- [2]
+						68161, -- [3]
+						1599714453.391, -- [4]
+						88119, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						310348, -- [2]
-						109887, -- [3]
-						1599368501.332, -- [4]
-						46486, -- [5]
-						"Tentacle of Drest'agath", -- [6]
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599714453.391, -- [4]
+						100023, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						310348, -- [2]
-						109888, -- [3]
-						1599368501.43, -- [4]
+						309978, -- [2]
+						168776, -- [3]
+						1599714453.572, -- [4]
 						1, -- [5]
-						"Tentacle of Drest'agath", -- [6]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						63402, -- [10]
+						68096, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						105809, -- [2]
+						29166, -- [2]
 						1, -- [3]
-						1599368456.053, -- [4]
+						1599714412.183, -- [4]
 						0, -- [5]
-						"Toshpal", -- [6]
+						"Leafyo", -- [6]
 					}, -- [33]
 				},
-			}, -- [8]
+				["class"] = "DRUID",
+				["timestring"] = "8m 10s",
+				["time"] = 1599714453.572,
+			}, -- [7]
 			{
-				["maxhealth"] = 542980,
-				["timeofdeath"] = 401.7789999999804,
-				["name"] = "Delpi",
-				["time"] = 1599368501.457,
-				["class"] = "MAGE",
-				["timestring"] = "6m 41s",
+				["maxhealth"] = 579440,
+				["timeofdeath"] = 491.5819999999367,
+				["name"] = "Tianarrae-Kil'jaeden",
 				["events"] = {
 					{
-						false, -- [1]
-						269279, -- [2]
-						34490, -- [3]
-						1599368489.812, -- [4]
-						542980, -- [5]
-						"Delpi", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						319346, -- [2]
+						38150, -- [3]
+						1599714445.322, -- [4]
+						530491, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
-						false, -- [1]
-						235313, -- [2]
-						39855, -- [3]
-						1599368489.812, -- [4]
-						542980, -- [5]
-						"Delpi", -- [6]
-						true, -- [7]
-						0, -- [8]
+						true, -- [1]
+						309978, -- [2]
+						33773, -- [3]
+						1599714445.548, -- [4]
+						496718, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
-						true, -- [1]
-						308947, -- [2]
-						74345, -- [3]
-						1599368489.812, -- [4]
-						542980, -- [5]
-						"Drest'agath", -- [6]
+						false, -- [1]
+						272260, -- [2]
+						265, -- [3]
+						1599714445.626, -- [4]
+						496983, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [3]
 					{
 						false, -- [1]
-						235313, -- [2]
-						118839, -- [3]
-						1599368490.075, -- [4]
-						542980, -- [5]
-						"Delpi", -- [6]
-						true, -- [7]
+						313162, -- [2]
+						4676, -- [3]
+						1599714445.958, -- [4]
+						501659, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						true, -- [1]
-						310082, -- [2]
-						186704, -- [3]
-						1599368490.075, -- [4]
-						475115, -- [5]
-						"Maw of Drest'agath", -- [6]
-						118839, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						false, -- [1]
+						143924, -- [2]
+						2775, -- [3]
+						1599714446.186, -- [4]
+						504434, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
 					}, -- [5]
 					{
 						true, -- [1]
-						308947, -- [2]
-						74345, -- [3]
-						1599368491.312, -- [4]
-						401375, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						317001, -- [2]
-						4644, -- [3]
-						1599368492.322, -- [4]
-						396731, -- [5]
-						"[*] Umbral Aversion", -- [6]
+						309978, -- [2]
+						50659, -- [3]
+						1599714446.533, -- [4]
+						453775, -- [5]
+						"[*] Paranoia", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						308947, -- [2]
-						74345, -- [3]
-						1599368492.797, -- [4]
-						322999, -- [5]
-						"Drest'agath", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
+					}, -- [6]
 					{
 						false, -- [1]
-						296330, -- [2]
-						0, -- [3]
-						1599368493.892, -- [4]
-						322999, -- [5]
-						"Delpi", -- [6]
+						77489, -- [2]
+						15129, -- [3]
+						1599714446.628, -- [4]
+						468904, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						27149, -- [8]
+						0, -- [8]
+					}, -- [7]
+					{
+						false, -- [1]
+						313162, -- [2]
+						4676, -- [3]
+						1599714446.803, -- [4]
+						473580, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38151, -- [3]
+						1599714447.312, -- [4]
+						435429, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1270, -- [3]
-						1599368493.933, -- [4]
-						324269, -- [5]
-						"Delpi", -- [6]
+						270117, -- [2]
+						12775, -- [3]
+						1599714447.345, -- [4]
+						448204, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
-						true, -- [1]
-						308947, -- [2]
-						74345, -- [3]
-						1599368494.305, -- [4]
-						249924, -- [5]
-						"Drest'agath", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						2695, -- [3]
+						1599714447.395, -- [4]
+						450899, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						8, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						298318, -- [2]
-						63985, -- [3]
-						1599368494.383, -- [4]
-						313909, -- [5]
-						"Delpi", -- [6]
+						272260, -- [2]
+						529, -- [3]
+						1599714447.639, -- [4]
+						451428, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -13733,71 +12723,71 @@ DeathGraphsDBCurrent = {
 					}, -- [12]
 					{
 						false, -- [1]
-						143924, -- [2]
-						1258, -- [3]
-						1599368495.143, -- [4]
-						315773, -- [5]
-						"Delpi", -- [6]
+						313162, -- [2]
+						9353, -- [3]
+						1599714447.668, -- [4]
+						460781, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
-						true, -- [1]
-						317001, -- [2]
-						4503, -- [3]
-						1599368495.325, -- [4]
-						311270, -- [5]
-						"[*] Umbral Aversion", -- [6]
+						false, -- [1]
+						301861, -- [2]
+						13368, -- [3]
+						1599714447.83, -- [4]
+						474149, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						308947, -- [2]
-						72086, -- [3]
-						1599368495.795, -- [4]
-						239184, -- [5]
-						"Drest'agath", -- [6]
+						false, -- [1]
+						313162, -- [2]
+						4676, -- [3]
+						1599714448.451, -- [4]
+						478825, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						8, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						4, -- [1]
-						310552, -- [2]
-						1, -- [3]
-						1599368496.205, -- [4]
-						239184, -- [5]
-						"Eye of Drest'agath", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
 						false, -- [1]
 						143924, -- [2]
-						10218, -- [3]
-						1599368496.376, -- [4]
-						249402, -- [5]
-						"Delpi", -- [6]
+						2205, -- [3]
+						1599714448.623, -- [4]
+						481030, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38151, -- [3]
+						1599714449.314, -- [4]
+						442879, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						25914, -- [2]
-						41171, -- [3]
-						1599368496.493, -- [4]
-						290573, -- [5]
-						"Toshpal", -- [6]
+						77489, -- [2]
+						16045, -- [3]
+						1599714449.614, -- [4]
+						458924, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -13805,171 +12795,165 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						false, -- [1]
-						296184, -- [2]
-						12336, -- [3]
-						1599368496.493, -- [4]
-						302909, -- [5]
-						"Toshpal", -- [6]
+						272260, -- [2]
+						2117, -- [3]
+						1599714449.632, -- [4]
+						461041, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						true, -- [1]
-						315197, -- [2]
-						174448, -- [3]
-						1599368496.78, -- [4]
-						129069, -- [5]
-						"Thing From Beyond", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						453, -- [3]
+						1599714449.819, -- [4]
+						461494, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [20]
 					{
 						false, -- [1]
 						143924, -- [2]
-						12032, -- [3]
-						1599368497.577, -- [4]
-						141101, -- [5]
-						"Delpi", -- [6]
+						5580, -- [3]
+						1599714451.031, -- [4]
+						467074, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
-						false, -- [1]
-						298318, -- [2]
-						33656, -- [3]
-						1599368498.041, -- [4]
-						174757, -- [5]
-						"Delpi", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
 						true, -- [1]
-						317001, -- [2]
-						4503, -- [3]
-						1599368498.324, -- [4]
-						170254, -- [5]
-						"[*] Umbral Aversion", -- [6]
+						319346, -- [2]
+						36710, -- [3]
+						1599714451.331, -- [4]
+						430364, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
 						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						272260, -- [2]
+						2118, -- [3]
+						1599714451.645, -- [4]
+						432482, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						143924, -- [2]
-						12573, -- [3]
-						1599368498.798, -- [4]
-						183432, -- [5]
-						"Delpi", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						19750, -- [2]
-						94437, -- [3]
-						1599368499.807, -- [4]
-						277869, -- [5]
-						"Slurpinho", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						11344, -- [3]
-						1599368500.028, -- [4]
-						289213, -- [5]
-						"Delpi", -- [6]
+						77489, -- [2]
+						16045, -- [3]
+						1599714452.624, -- [4]
+						448527, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [26]
+					}, -- [24]
 					{
 						false, -- [1]
-						25914, -- [2]
-						95738, -- [3]
-						1599368500.691, -- [4]
-						384951, -- [5]
-						"Sci", -- [6]
+						143924, -- [2]
+						323, -- [3]
+						1599714453.069, -- [4]
+						448850, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
+					}, -- [25]
+					{
+						false, -- [1]
+						269279, -- [2]
+						36499, -- [3]
+						1599714453.341, -- [4]
+						448850, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38151, -- [3]
+						1599714453.341, -- [4]
+						447198, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						36499, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
 						false, -- [1]
-						143924, -- [2]
-						13681, -- [3]
-						1599368501.248, -- [4]
-						399240, -- [5]
-						"Delpi", -- [6]
+						270117, -- [2]
+						12775, -- [3]
+						1599714453.356, -- [4]
+						459973, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
-						true, -- [1]
-						310329, -- [2]
-						114478, -- [3]
-						1599368501.282, -- [4]
-						284762, -- [5]
-						"Drest'agath", -- [6]
+						false, -- [1]
+						272260, -- [2]
+						4234, -- [3]
+						1599714453.624, -- [4]
+						464207, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [29]
 					{
 						true, -- [1]
-						310348, -- [2]
-						114496, -- [3]
-						1599368501.307, -- [4]
-						170266, -- [5]
-						"Tentacle of Drest'agath", -- [6]
+						318976, -- [2]
+						403949, -- [3]
+						1599714453.943, -- [4]
+						60258, -- [5]
+						"[*] Stupefying Glare", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						310348, -- [2]
-						114477, -- [3]
-						1599368501.332, -- [4]
-						55789, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						4, -- [1]
+						318976, -- [2]
+						1, -- [3]
+						1599714453.943, -- [4]
+						60258, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [31]
 					{
-						true, -- [1]
-						310348, -- [2]
-						114478, -- [3]
-						1599368501.388, -- [4]
-						1, -- [5]
-						"Tentacle of Drest'agath", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						873, -- [3]
+						1599714454.284, -- [4]
+						61131, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						58689, -- [10]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -13977,85 +12961,487 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Delpi", -- [6]
+						"Tianarrae-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
-			}, -- [9]
+				["class"] = "PRIEST",
+				["timestring"] = "8m 11s",
+				["time"] = 1599714454.569,
+			}, -- [8]
 			{
-				["maxhealth"] = 699380,
-				["timeofdeath"] = 401.7789999999804,
-				["name"] = "Gummybuns",
-				["time"] = 1599368501.457,
-				["class"] = "MONK",
-				["timestring"] = "6m 41s",
+				["maxhealth"] = 540600,
+				["timeofdeath"] = 492.189000000013,
+				["name"] = "Bogarn-Kil'jaeden",
 				["events"] = {
 					{
 						false, -- [1]
-						53652, -- [2]
-						9163, -- [3]
-						1599368498.426, -- [4]
-						699380, -- [5]
-						"Slurpinho", -- [6]
+						296330, -- [2]
+						29734, -- [3]
+						1599714439.769, -- [4]
+						584889, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						53652, -- [2]
-						4988, -- [3]
-						1599368498.426, -- [4]
-						699380, -- [5]
-						"Slurpinho", -- [6]
+						287286, -- [2]
+						28386, -- [3]
+						1599714440.794, -- [4]
+						594680, -- [5]
+						"Royalty", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
+						false, -- [9]
+						false, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						53652, -- [2]
-						4988, -- [3]
-						1599368498.426, -- [4]
-						699380, -- [5]
-						"Slurpinho", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714440.844, -- [4]
+						555155, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						53652, -- [2]
-						4988, -- [3]
-						1599368498.426, -- [4]
-						699380, -- [5]
-						"Slurpinho", -- [6]
+						204883, -- [2]
+						41804, -- [3]
+						1599714441.116, -- [4]
+						594680, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
-						216521, -- [2]
-						2874, -- [3]
-						1599368498.426, -- [4]
-						699380, -- [5]
-						"Gummybuns", -- [6]
+						295310, -- [2]
+						6720, -- [3]
+						1599714441.775, -- [4]
+						594680, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						53652, -- [2]
-						4421, -- [3]
-						1599368498.426, -- [4]
-						699380, -- [5]
-						"Slurpinho", -- [6]
+						287286, -- [2]
+						14822, -- [3]
+						1599714442.286, -- [4]
+						594680, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714442.841, -- [4]
+						555155, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						145109, -- [2]
+						17841, -- [3]
+						1599714443.008, -- [4]
+						572996, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						4, -- [1]
+						316541, -- [2]
+						1, -- [3]
+						1599714443.561, -- [4]
+						572996, -- [5]
+						"[*] Paranoia", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						295310, -- [2]
+						6720, -- [3]
+						1599714443.809, -- [4]
+						579716, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						77489, -- [2]
+						11869, -- [3]
+						1599714444.167, -- [4]
+						591585, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						309978, -- [2]
+						17495, -- [3]
+						1599714444.585, -- [4]
+						574090, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714444.852, -- [4]
+						534565, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						309978, -- [2]
+						34989, -- [3]
+						1599714445.548, -- [4]
+						499576, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						295310, -- [2]
+						6720, -- [3]
+						1599714445.8, -- [4]
+						506296, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						309978, -- [2]
+						52484, -- [3]
+						1599714446.558, -- [4]
+						453812, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714446.849, -- [4]
+						414287, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						11870, -- [3]
+						1599714447.173, -- [4]
+						426157, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						295310, -- [2]
+						6720, -- [3]
+						1599714447.768, -- [4]
+						432877, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						145109, -- [2]
+						17841, -- [3]
+						1599714448.019, -- [4]
+						450718, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714448.855, -- [4]
+						411193, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						287286, -- [2]
+						12587, -- [3]
+						1599714450.01, -- [4]
+						423780, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						287286, -- [2]
+						12471, -- [3]
+						1599714450.566, -- [4]
+						436251, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714450.858, -- [4]
+						396726, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						311201, -- [2]
+						40794, -- [3]
+						1599714452.319, -- [4]
+						437520, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						309978, -- [2]
+						157452, -- [3]
+						1599714452.541, -- [4]
+						280068, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714452.88, -- [4]
+						240543, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						145109, -- [2]
+						17840, -- [3]
+						1599714453.006, -- [4]
+						258383, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						309978, -- [2]
+						174946, -- [3]
+						1599714453.551, -- [4]
+						83437, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						295310, -- [2]
+						6720, -- [3]
+						1599714454.304, -- [4]
+						90157, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599714454.874, -- [4]
+						50632, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						318976, -- [2]
+						418500, -- [3]
+						1599714455.176, -- [4]
+						1, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						367868, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						22812, -- [2]
+						1, -- [3]
+						1599714425.326, -- [4]
+						0, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "8m 12s",
+				["time"] = 1599714455.176,
+			}, -- [9]
+			{
+				["maxhealth"] = 525760,
+				["timeofdeath"] = 493.5719999999274,
+				["name"] = "Lennÿ-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						2753, -- [3]
+						1599714445.141, -- [4]
+						457903, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2653, -- [3]
+						1599714445.626, -- [4]
+						460556, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2550, -- [3]
+						1599714446.077, -- [4]
+						463106, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2449, -- [3]
+						1599714446.533, -- [4]
+						465555, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						319346, -- [2]
+						25912, -- [3]
+						1599714446.676, -- [4]
+						439643, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2346, -- [3]
+						1599714447.002, -- [4]
+						441989, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -14063,179 +13449,595 @@ DeathGraphsDBCurrent = {
 					}, -- [6]
 					{
 						false, -- [1]
-						53652, -- [2]
-						3888, -- [3]
-						1599368498.426, -- [4]
-						699380, -- [5]
-						"Slurpinho", -- [6]
+						77489, -- [2]
+						5935, -- [3]
+						1599714447.152, -- [4]
+						447924, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
-						true, -- [1]
-						124255, -- [2]
-						5644, -- [3]
-						1599368498.547, -- [4]
-						693736, -- [5]
-						"Gummybuns", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						2807, -- [3]
+						1599714447.277, -- [4]
+						450731, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
-						true, -- [1]
-						124255, -- [2]
-						5644, -- [3]
-						1599368499.055, -- [4]
-						688092, -- [5]
-						"Gummybuns", -- [6]
+						false, -- [1]
+						287255, -- [2]
+						4301, -- [3]
+						1599714447.312, -- [4]
+						455032, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
-						true, -- [1]
-						124255, -- [2]
-						5644, -- [3]
-						1599368499.555, -- [4]
-						682448, -- [5]
-						"Gummybuns", -- [6]
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599714448.225, -- [4]
+						460838, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
-						-1, -- [10]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
-						53652, -- [2]
-						37775, -- [3]
-						1599368499.837, -- [4]
-						699380, -- [5]
-						"Slurpinho", -- [6]
+						274436, -- [2]
+						845, -- [3]
+						1599714448.225, -- [4]
+						461683, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						196608, -- [2]
-						4112, -- [3]
-						1599368499.942, -- [4]
-						699380, -- [5]
-						"Gummybuns", -- [6]
+						311201, -- [2]
+						17033, -- [3]
+						1599714448.642, -- [4]
+						478716, -- [5]
+						"Lennÿ-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
 						true, -- [1]
-						124255, -- [2]
-						5644, -- [3]
-						1599368500.069, -- [4]
-						693736, -- [5]
-						"Gummybuns", -- [6]
+						319346, -- [2]
+						25807, -- [3]
+						1599714448.696, -- [4]
+						452909, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
-						true, -- [1]
-						308995, -- [2]
-						112737, -- [3]
-						1599368500.069, -- [4]
-						580999, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						40097, -- [7]
-						32, -- [8]
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599714449.542, -- [4]
+						458715, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						315197, -- [2]
-						138937, -- [3]
-						1599368500.429, -- [4]
-						442062, -- [5]
-						"Thing From Beyond", -- [6]
-						63398, -- [7]
-						32, -- [8]
+						false, -- [1]
+						274436, -- [2]
+						846, -- [3]
+						1599714449.542, -- [4]
+						459561, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						true, -- [1]
-						124255, -- [2]
-						7671, -- [3]
-						1599368500.575, -- [4]
-						434391, -- [5]
-						"Gummybuns", -- [6]
+						false, -- [1]
+						25914, -- [2]
+						50530, -- [3]
+						1599714449.662, -- [4]
+						510091, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						53652, -- [2]
-						38295, -- [3]
-						1599368500.721, -- [4]
-						472686, -- [5]
-						"Sci", -- [6]
+						287286, -- [2]
+						30419, -- [3]
+						1599714450.01, -- [4]
+						540510, -- [5]
+						"Toshpal", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						true, -- [1]
-						308995, -- [2]
-						112738, -- [3]
-						1599368500.843, -- [4]
-						359948, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						40097, -- [7]
+						319346, -- [2]
+						25283, -- [3]
+						1599714450.696, -- [4]
+						515227, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						false, -- [1]
-						216521, -- [2]
-						1844, -- [3]
-						1599368501.07, -- [4]
-						361792, -- [5]
-						"Gummybuns", -- [6]
+						774, -- [2]
+						5806, -- [3]
+						1599714450.858, -- [4]
+						521033, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						53652, -- [2]
-						2836, -- [3]
-						1599368501.07, -- [4]
-						364628, -- [5]
-						"Sci", -- [6]
+						274436, -- [2]
+						845, -- [3]
+						1599714450.858, -- [4]
+						521878, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						309978, -- [2]
+						129662, -- [3]
+						1599714451.537, -- [4]
+						392208, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599714452.165, -- [4]
+						398014, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599714452.165, -- [4]
+						398859, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37016, -- [3]
+						1599714452.703, -- [4]
+						361843, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						225311, -- [2]
+						39430, -- [3]
+						1599714452.98, -- [4]
+						401273, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599714453.479, -- [4]
+						407079, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599714453.479, -- [4]
+						407924, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						269279, -- [2]
+						34402, -- [3]
+						1599714454.704, -- [4]
+						407924, -- [5]
+						"Lennÿ-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36867, -- [3]
+						1599714454.704, -- [4]
+						405459, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						34402, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						774, -- [2]
+						4724, -- [3]
+						1599714454.795, -- [4]
+						410183, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						309978, -- [2]
+						204330, -- [3]
+						1599714455.542, -- [4]
+						205853, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309978, -- [2]
+						221359, -- [3]
+						1599714456.559, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						15506, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						186265, -- [2]
+						1, -- [3]
+						1599714442.895, -- [4]
+						0, -- [5]
+						"Lennÿ-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "8m 13s",
+				["time"] = 1599714456.559,
+			}, -- [10]
+		},
+		["bossname"] = "N'Zoth the Corruptor",
+		["bossicon"] = {
+			0.75, -- [1]
+			1, -- [2]
+			0.5, -- [3]
+			0.75, -- [4]
+			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
+		},
+		["date"] = 1075159.214,
+		["timeelapsed"] = 529.0009999999311,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 528720,
+				["timeofdeath"] = 309.589999999851,
+				["name"] = "Baylesstv-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						274436, -- [2]
+						1615, -- [3]
+						1599713615.571, -- [4]
+						646145, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						319346, -- [2]
+						35345, -- [3]
+						1599713616.316, -- [4]
+						481568, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						319346, -- [2]
+						35345, -- [3]
+						1599713618.343, -- [4]
+						446223, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36439, -- [3]
+						1599713620.343, -- [4]
+						409784, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36439, -- [3]
+						1599713622.349, -- [4]
+						373345, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						318451, -- [2]
+						77163, -- [3]
+						1599713623.957, -- [4]
+						296182, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36438, -- [3]
+						1599713624.339, -- [4]
+						259744, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						318451, -- [2]
+						77164, -- [3]
+						1599713624.968, -- [4]
+						182580, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						312078, -- [2]
+						64327, -- [3]
+						1599713625.078, -- [4]
+						118253, -- [5]
+						"Spike Tentacle", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						318451, -- [2]
+						77164, -- [3]
+						1599713625.95, -- [4]
+						41089, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713626.342, -- [4]
+						46895, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713626.361, -- [4]
+						47740, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						319346, -- [2]
+						36438, -- [3]
+						1599713626.361, -- [4]
+						11302, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713626.377, -- [4]
+						23206, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713626.393, -- [4]
+						35110, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						8936, -- [2]
+						98658, -- [3]
+						1599713626.783, -- [4]
+						133768, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						774, -- [2]
+						11612, -- [3]
+						1599713627.039, -- [4]
+						145380, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713627.039, -- [4]
+						146225, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						19750, -- [2]
+						47229, -- [3]
+						1599713627.434, -- [4]
+						193454, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						25914, -- [2]
+						137457, -- [3]
+						1599713627.434, -- [4]
+						330911, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						216521, -- [2]
-						3794, -- [3]
-						1599368501.07, -- [4]
-						368422, -- [5]
-						"Gummybuns", -- [6]
+						774, -- [2]
+						11611, -- [3]
+						1599713627.737, -- [4]
+						342522, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -14243,47 +14045,47 @@ DeathGraphsDBCurrent = {
 					}, -- [21]
 					{
 						false, -- [1]
-						53652, -- [2]
-						5837, -- [3]
-						1599368501.07, -- [4]
-						374259, -- [5]
-						"Sci", -- [6]
+						274436, -- [2]
+						845, -- [3]
+						1599713627.737, -- [4]
+						343367, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
+						false, -- [9]
+						false, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						53652, -- [2]
-						6056, -- [3]
-						1599368501.07, -- [4]
-						380315, -- [5]
-						"Sci", -- [6]
+						8936, -- [2]
+						77413, -- [3]
+						1599713627.807, -- [4]
+						420780, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						53652, -- [2]
-						2723, -- [3]
-						1599368501.084, -- [4]
-						383038, -- [5]
-						"Sci", -- [6]
+						316617, -- [2]
+						31233, -- [3]
+						1599713628.094, -- [4]
+						452013, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						53652, -- [2]
-						5709, -- [3]
-						1599368501.084, -- [4]
-						388747, -- [5]
-						"Sci", -- [6]
+						8936, -- [2]
+						3279, -- [3]
+						1599713628.267, -- [4]
+						455292, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -14291,112 +14093,5159 @@ DeathGraphsDBCurrent = {
 					}, -- [25]
 					{
 						false, -- [1]
-						216521, -- [2]
-						1968, -- [3]
-						1599368501.084, -- [4]
-						390715, -- [5]
-						"Gummybuns", -- [6]
+						8936, -- [2]
+						4111, -- [3]
+						1599713628.354, -- [4]
+						459403, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						false, -- [1]
-						53652, -- [2]
-						3028, -- [3]
-						1599368501.084, -- [4]
-						393743, -- [5]
-						"Sci", -- [6]
+						true, -- [1]
+						319346, -- [2]
+						36439, -- [3]
+						1599713628.354, -- [4]
+						422964, -- [5]
+						"[*] Infinity's Toll", -- [6]
 						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						true, -- [1]
-						124255, -- [2]
-						8918, -- [3]
-						1599368501.084, -- [4]
-						384825, -- [5]
-						"Gummybuns", -- [6]
+						false, -- [1]
+						774, -- [2]
+						6500, -- [3]
+						1599713628.42, -- [4]
+						429464, -- [5]
+						"Leafyo", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						true, -- [9]
+						0, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
-						true, -- [1]
-						310329, -- [2]
-						188939, -- [3]
-						1599368501.282, -- [4]
-						195886, -- [5]
-						"Drest'agath", -- [6]
-						67199, -- [7]
-						32, -- [8]
+						false, -- [1]
+						8936, -- [2]
+						6559, -- [3]
+						1599713628.721, -- [4]
+						436023, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						true, -- [1]
-						310348, -- [2]
-						97630, -- [3]
-						1599368501.307, -- [4]
-						98256, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						34723, -- [7]
+						1, -- [2]
+						433679, -- [3]
+						1599713628.892, -- [4]
+						436023, -- [5]
+						"Basher Tentacle", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						774, -- [2]
+						6211, -- [3]
+						1599713629.139, -- [4]
+						8555, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						312078, -- [2]
+						64327, -- [3]
+						1599713629.18, -- [4]
+						1, -- [5]
+						"Spike Tentacle", -- [6]
+						nil, -- [7]
 						32, -- [8]
+						false, -- [9]
+						55772, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Baylesstv-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "5m 9s",
+				["time"] = 1599713629.18,
+			}, -- [1]
+			{
+				["maxhealth"] = 544640,
+				["timeofdeath"] = 310.8269999998156,
+				["name"] = "Felside-Kil'jaeden",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1599713635.212, -- [4]
+						0, -- [5]
+						"Leafyo", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						774, -- [2]
+						6500, -- [3]
+						1599713626.293, -- [4]
+						358381, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3808, -- [3]
+						1599713626.464, -- [4]
+						362189, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3778, -- [3]
+						1599713626.695, -- [4]
+						365967, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3752, -- [3]
+						1599713626.909, -- [4]
+						369719, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						774, -- [2]
+						6500, -- [3]
+						1599713626.952, -- [4]
+						376219, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						143924, -- [2]
+						20584, -- [3]
+						1599713627.073, -- [4]
+						396803, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3724, -- [3]
+						1599713627.149, -- [4]
+						400527, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						319346, -- [2]
+						32807, -- [3]
+						1599713627.181, -- [4]
+						367720, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						7388, -- [3]
+						1599713627.411, -- [4]
+						375108, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3668, -- [3]
+						1599713627.614, -- [4]
+						378776, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						774, -- [2]
+						6500, -- [3]
+						1599713627.648, -- [4]
+						385276, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3641, -- [3]
+						1599713627.85, -- [4]
+						388917, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						7225, -- [3]
+						1599713628.074, -- [4]
+						396142, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						315197, -- [2]
+						164900, -- [3]
+						1599713628.286, -- [4]
+						231242, -- [5]
+						"Thing From Beyond", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						17619, -- [3]
+						1599713628.286, -- [4]
+						248861, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3585, -- [3]
+						1599713628.307, -- [4]
+						252446, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						6499, -- [3]
+						1599713628.354, -- [4]
+						258945, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						228532, -- [2]
+						59912, -- [3]
+						1599713628.441, -- [4]
+						318857, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3557, -- [3]
+						1599713628.546, -- [4]
+						322414, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						48438, -- [2]
+						7059, -- [3]
+						1599713628.773, -- [4]
+						329473, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3346, -- [3]
+						1599713629.018, -- [4]
+						332819, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						6210, -- [3]
+						1599713629.039, -- [4]
+						339029, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						274346, -- [2]
+						9999, -- [3]
+						1599713629.18, -- [4]
+						339029, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						319346, -- [2]
+						32807, -- [3]
+						1599713629.18, -- [4]
+						316221, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						9999, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3317, -- [3]
+						1599713629.273, -- [4]
+						319538, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						36347, -- [3]
+						1599713629.523, -- [4]
+						355885, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3287, -- [3]
+						1599713629.547, -- [4]
+						359172, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3261, -- [3]
+						1599713629.771, -- [4]
+						362433, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						774, -- [2]
+						6211, -- [3]
+						1599713629.793, -- [4]
+						368644, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						48438, -- [2]
+						6465, -- [3]
+						1599713630.02, -- [4]
+						375109, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						48438, -- [2]
+						6407, -- [3]
+						1599713630.259, -- [4]
+						381516, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						1, -- [2]
+						478559, -- [3]
+						1599713630.4, -- [4]
+						381516, -- [5]
+						"Basher Tentacle", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						97043, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Felside-Kil'jaeden", -- [6]
+					}, -- [34]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "5m 10s",
+				["time"] = 1599713630.417,
+			}, -- [2]
+			{
+				["maxhealth"] = 575740,
+				["timeofdeath"] = 389.375,
+				["name"] = "Fierypower-Kil'jaeden",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1599713721.766, -- [4]
+						0, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713704.83, -- [4]
+						315017, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77220, -- [2]
+						4411, -- [3]
+						1599713704.88, -- [4]
+						315017, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						319348, -- [2]
+						90616, -- [3]
+						1599713704.88, -- [4]
+						228812, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						4411, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						11435, -- [3]
+						1599713705.085, -- [4]
+						240247, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1599713705.112, -- [4]
+						253063, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						207386, -- [2]
+						1986, -- [3]
+						1599713705.949, -- [4]
+						255049, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713705.977, -- [4]
+						266953, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						6386, -- [3]
+						1599713706.149, -- [4]
+						273339, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						274436, -- [2]
+						930, -- [3]
+						1599713706.149, -- [4]
+						274269, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713706.165, -- [4]
+						286173, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713706.186, -- [4]
+						298077, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						77220, -- [2]
+						1737, -- [3]
+						1599713706.671, -- [4]
+						298077, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						108366, -- [2]
+						2562, -- [3]
+						1599713706.671, -- [4]
+						298077, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						319346, -- [2]
+						40273, -- [3]
+						1599713706.671, -- [4]
+						262103, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						4299, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						77220, -- [2]
+						5562, -- [3]
+						1599713706.879, -- [4]
+						262103, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						319348, -- [2]
+						90616, -- [3]
+						1599713706.879, -- [4]
+						177049, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						5562, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						6386, -- [3]
+						1599713707.484, -- [4]
+						183435, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						274436, -- [2]
+						930, -- [3]
+						1599713707.484, -- [4]
+						184365, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713707.503, -- [4]
+						196269, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						296184, -- [2]
+						10200, -- [3]
+						1599713707.518, -- [4]
+						206469, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						311201, -- [2]
+						17031, -- [3]
+						1599713707.654, -- [4]
+						223500, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						77489, -- [2]
+						6509, -- [3]
+						1599713708.073, -- [4]
+						230009, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1599713708.095, -- [4]
+						242825, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						77220, -- [2]
+						2173, -- [3]
+						1599713708.678, -- [4]
+						242825, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						108366, -- [2]
+						2007, -- [3]
+						1599713708.678, -- [4]
+						242825, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						319346, -- [2]
+						40274, -- [3]
+						1599713708.678, -- [4]
+						206731, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						4180, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713708.825, -- [4]
+						212537, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						274436, -- [2]
+						1690, -- [3]
+						1599713708.84, -- [4]
+						214227, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77220, -- [2]
+						6075, -- [3]
+						1599713708.883, -- [4]
+						214227, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
 						true, -- [1]
-						310348, -- [2]
-						71559, -- [3]
-						1599368501.332, -- [4]
-						26697, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						25451, -- [7]
+						319348, -- [2]
+						90616, -- [3]
+						1599713708.883, -- [4]
+						129686, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						6075, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						77220, -- [2]
+						7865, -- [3]
+						1599713708.936, -- [4]
+						129686, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						319347, -- [2]
+						159901, -- [3]
+						1599713708.965, -- [4]
+						1, -- [5]
+						"Danlow-Illidan", -- [6]
+						7865, -- [7]
+						32, -- [8]
+						true, -- [9]
+						22350, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Fierypower-Kil'jaeden", -- [6]
+					}, -- [34]
+				},
+				["class"] = "WARLOCK",
+				["timestring"] = "6m 29s",
+				["time"] = 1599713708.965,
+			}, -- [3]
+			{
+				["maxhealth"] = 540600,
+				["timeofdeath"] = 465.7829999998212,
+				["name"] = "Bogarn-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						157982, -- [2]
+						916, -- [3]
+						1599713779.414, -- [4]
+						229919, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713779.453, -- [4]
+						241823, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3090, -- [3]
+						1599713779.673, -- [4]
+						244913, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						296184, -- [2]
+						7088, -- [3]
+						1599713779.692, -- [4]
+						252001, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						157982, -- [2]
+						19370, -- [3]
+						1599713779.713, -- [4]
+						271371, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713779.745, -- [4]
+						283275, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						311201, -- [2]
+						17239, -- [3]
+						1599713779.773, -- [4]
+						300514, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						25914, -- [2]
+						209203, -- [3]
+						1599713779.843, -- [4]
+						509717, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						287286, -- [2]
+						23419, -- [3]
+						1599713780.176, -- [4]
+						533136, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3631, -- [3]
+						1599713780.266, -- [4]
+						536767, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						207386, -- [2]
+						2362, -- [3]
+						1599713780.297, -- [4]
+						539129, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						319348, -- [2]
+						86263, -- [3]
+						1599713780.388, -- [4]
+						452866, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2390, -- [3]
+						1599713780.627, -- [4]
+						455256, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						287255, -- [2]
+						5467, -- [3]
+						1599713780.627, -- [4]
+						460723, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						157982, -- [2]
+						17501, -- [3]
+						1599713780.854, -- [4]
+						478224, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39525, -- [3]
+						1599713780.941, -- [4]
+						438699, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						157982, -- [2]
+						2049, -- [3]
+						1599713781.424, -- [4]
+						440748, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10014, -- [3]
+						1599713781.754, -- [4]
+						450762, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						64844, -- [2]
+						30916, -- [3]
+						1599713781.809, -- [4]
+						481678, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						157982, -- [2]
+						19251, -- [3]
+						1599713782.013, -- [4]
+						500929, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						145109, -- [2]
+						17841, -- [3]
+						1599713782.19, -- [4]
+						518770, -- [5]
+						"Bogarn-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						287286, -- [2]
+						35999, -- [3]
+						1599713782.294, -- [4]
+						554769, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						207386, -- [2]
+						2457, -- [3]
+						1599713782.294, -- [4]
+						557226, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						319348, -- [2]
+						88931, -- [3]
+						1599713782.379, -- [4]
+						468295, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39526, -- [3]
+						1599713782.93, -- [4]
+						428769, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						157982, -- [2]
+						2949, -- [3]
+						1599713783.415, -- [4]
+						431718, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						207386, -- [2]
+						2457, -- [3]
+						1599713784.292, -- [4]
+						434175, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						287286, -- [2]
+						19260, -- [3]
+						1599713784.315, -- [4]
+						453435, -- [5]
+						"Toshpal", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						319348, -- [2]
+						88932, -- [3]
+						1599713784.397, -- [4]
+						364503, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						77489, -- [2]
+						13183, -- [3]
+						1599713784.759, -- [4]
+						377686, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39526, -- [3]
+						1599713784.927, -- [4]
+						338160, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						310348, -- [2]
-						71559, -- [3]
-						1599368501.352, -- [4]
+						318976, -- [2]
+						418500, -- [3]
+						1599713785.373, -- [4]
 						1, -- [5]
-						"Tentacle of Drest'agath", -- [6]
-						25451, -- [7]
+						"[*] Stupefying Glare", -- [6]
+						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						44862, -- [10]
+						80340, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						115176, -- [2]
+						22812, -- [2]
 						1, -- [3]
-						1599368412.504, -- [4]
+						1599713745.834, -- [4]
 						0, -- [5]
-						"Gummybuns", -- [6]
+						"Bogarn-Kil'jaeden", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DRUID",
+				["timestring"] = "7m 45s",
+				["time"] = 1599713785.373,
+			}, -- [4]
+			{
+				["maxhealth"] = 525760,
+				["timeofdeath"] = 486.8719999999739,
+				["name"] = "Lennÿ-Kil'jaeden",
+				["events"] = {
+					{
+						true, -- [1]
+						319346, -- [2]
+						38949, -- [3]
+						1599713794.919, -- [4]
+						579525, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						33719, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						287286, -- [2]
+						18946, -- [3]
+						1599713795.186, -- [4]
+						598471, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						77489, -- [2]
+						16656, -- [3]
+						1599713795.767, -- [4]
+						615127, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						319346, -- [2]
+						38948, -- [3]
+						1599713796.923, -- [4]
+						576179, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						4, -- [1]
+						316541, -- [2]
+						1, -- [3]
+						1599713798.418, -- [4]
+						576170, -- [5]
+						"[*] Paranoia", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						274395, -- [2]
+						18199, -- [3]
+						1599713798.935, -- [4]
+						576170, -- [5]
+						"Toshpal", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37780, -- [3]
+						1599713798.935, -- [4]
+						556589, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						18199, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						309978, -- [2]
+						16722, -- [3]
+						1599713799.433, -- [4]
+						539867, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						317066, -- [2]
+						153811, -- [3]
+						1599713800.087, -- [4]
+						386056, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						317066, -- [2]
+						153811, -- [3]
+						1599713800.087, -- [4]
+						232245, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						287286, -- [2]
+						19465, -- [3]
+						1599713800.303, -- [4]
+						251710, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						309978, -- [2]
+						33444, -- [3]
+						1599713800.439, -- [4]
+						218266, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						90361, -- [2]
+						91560, -- [3]
+						1599713800.76, -- [4]
+						309826, -- [5]
+						"Tammy <Lennÿ-Kil'jaeden>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37780, -- [3]
+						1599713800.951, -- [4]
+						272046, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						309978, -- [2]
+						50166, -- [3]
+						1599713801.435, -- [4]
+						221880, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						109304, -- [2]
+						186514, -- [3]
+						1599713801.677, -- [4]
+						408394, -- [5]
+						"Lennÿ-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						1, -- [1]
+						109304, -- [2]
+						1, -- [3]
+						1599713801.677, -- [4]
+						408394, -- [5]
+						"Lennÿ-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						309978, -- [2]
+						66889, -- [3]
+						1599713802.396, -- [4]
+						341505, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						90361, -- [2]
+						29922, -- [3]
+						1599713802.771, -- [4]
+						371427, -- [5]
+						"Tammy <Lennÿ-Kil'jaeden>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37780, -- [3]
+						1599713802.952, -- [4]
+						333647, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						309978, -- [2]
+						83611, -- [3]
+						1599713803.407, -- [4]
+						250027, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						309978, -- [2]
+						98456, -- [3]
+						1599713804.435, -- [4]
+						151571, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						90361, -- [2]
+						36835, -- [3]
+						1599713804.766, -- [4]
+						188406, -- [5]
+						"Tammy <Lennÿ-Kil'jaeden>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37073, -- [3]
+						1599713804.953, -- [4]
+						151333, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						774, -- [2]
+						13000, -- [3]
+						1599713805.108, -- [4]
+						164333, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713805.129, -- [4]
+						176237, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						309978, -- [2]
+						114865, -- [3]
+						1599713805.422, -- [4]
+						61372, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4346, -- [3]
+						1599713805.56, -- [4]
+						65718, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713805.582, -- [4]
+						77622, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						8446, -- [3]
+						1599713806.043, -- [4]
+						86068, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713806.065, -- [4]
+						97972, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309978, -- [2]
+						134333, -- [3]
+						1599713806.436, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						36361, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						109304, -- [2]
+						1, -- [3]
+						1599713801.677, -- [4]
+						0, -- [5]
+						"Lennÿ-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "8m 6s",
+				["time"] = 1599713806.462,
+			}, -- [5]
+			{
+				["maxhealth"] = 574840,
+				["timeofdeath"] = 488.0109999999404,
+				["name"] = "Goffee-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713805.543, -- [4]
+						167395, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4345, -- [3]
+						1599713805.56, -- [4]
+						171740, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713805.582, -- [4]
+						183644, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						33763, -- [2]
+						3250, -- [3]
+						1599713805.993, -- [4]
+						186894, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713806.008, -- [4]
+						198798, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						4223, -- [3]
+						1599713806.043, -- [4]
+						203021, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713806.065, -- [4]
+						214925, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						311201, -- [2]
+						18854, -- [3]
+						1599713806.383, -- [4]
+						233779, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						77220, -- [2]
+						11830, -- [3]
+						1599713806.436, -- [4]
+						233779, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						108366, -- [2]
+						649, -- [3]
+						1599713806.436, -- [4]
+						233779, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						309978, -- [2]
+						138905, -- [3]
+						1599713806.436, -- [4]
+						107353, -- [5]
+						"[*] Paranoia", -- [6]
+						12479, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1599713806.436, -- [4]
+						107353, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1816, -- [3]
+						1599713806.483, -- [4]
+						109169, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						33763, -- [2]
+						3250, -- [3]
+						1599713806.483, -- [4]
+						112419, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713806.511, -- [4]
+						124323, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						48438, -- [2]
+						8200, -- [3]
+						1599713806.511, -- [4]
+						132523, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713806.534, -- [4]
+						144427, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77220, -- [2]
+						2173, -- [3]
+						1599713806.857, -- [4]
+						144427, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39228, -- [3]
+						1599713806.857, -- [4]
+						107372, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						2173, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						33763, -- [2]
+						3250, -- [3]
+						1599713806.96, -- [4]
+						110622, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713806.98, -- [4]
+						122526, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						3977, -- [3]
+						1599713806.995, -- [4]
+						126503, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713807.012, -- [4]
+						138407, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						287286, -- [2]
+						14532, -- [3]
+						1599713807.102, -- [4]
+						152939, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						33763, -- [2]
+						3250, -- [3]
+						1599713807.437, -- [4]
+						156189, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713807.459, -- [4]
+						168093, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						7709, -- [3]
+						1599713807.485, -- [4]
+						175802, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713807.505, -- [4]
+						187706, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						77220, -- [2]
+						31784, -- [3]
+						1599713807.561, -- [4]
+						187706, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						108366, -- [2]
+						1199, -- [3]
+						1599713807.561, -- [4]
+						187706, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1599713807.581, -- [4]
+						187706, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						318976, -- [2]
+						415356, -- [3]
+						1599713807.581, -- [4]
+						1, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						32983, -- [7]
+						32, -- [8]
+						false, -- [9]
+						194667, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						104773, -- [2]
+						1, -- [3]
+						1599713756.162, -- [4]
+						0, -- [5]
+						"Goffee-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "WARLOCK",
+				["timestring"] = "8m 8s",
+				["time"] = 1599713807.601,
+			}, -- [6]
+			{
+				["maxhealth"] = 549380,
+				["timeofdeath"] = 488.8899999998976,
+				["name"] = "Mordpriest-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						34914, -- [2]
+						2707, -- [3]
+						1599713803.8, -- [4]
+						517433, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5314, -- [3]
+						1599713804.039, -- [4]
+						522747, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713804.301, -- [4]
+						528553, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713804.316, -- [4]
+						529398, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						1476, -- [3]
+						1599713804.834, -- [4]
+						530874, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						17, -- [2]
+						39393, -- [3]
+						1599713804.851, -- [4]
+						530874, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39393, -- [3]
+						1599713804.851, -- [4]
+						530874, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5314, -- [3]
+						1599713804.92, -- [4]
+						536188, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713805.746, -- [4]
+						541994, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5314, -- [3]
+						1599713805.746, -- [4]
+						547308, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713805.746, -- [4]
+						548153, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						3498, -- [3]
+						1599713806.043, -- [4]
+						551651, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						269238, -- [2]
+						37601, -- [3]
+						1599713806.483, -- [4]
+						589252, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5314, -- [3]
+						1599713806.628, -- [4]
+						594566, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						17, -- [2]
+						38552, -- [3]
+						1599713806.857, -- [4]
+						594566, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319346, -- [2]
+						39393, -- [3]
+						1599713806.857, -- [4]
+						593725, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						38552, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						17, -- [2]
+						0, -- [3]
+						1599713806.878, -- [4]
+						593725, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713807.167, -- [4]
+						599531, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713807.179, -- [4]
+						600376, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						143924, -- [2]
+						5067, -- [3]
+						1599713807.292, -- [4]
+						604320, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						309978, -- [2]
+						156924, -- [3]
+						1599713807.437, -- [4]
+						447396, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						270117, -- [2]
+						26624, -- [3]
+						1599713807.459, -- [4]
+						474020, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5314, -- [3]
+						1599713807.459, -- [4]
+						479334, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						318976, -- [2]
+						417097, -- [3]
+						1599713807.581, -- [4]
+						62237, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						318976, -- [2]
+						1, -- [3]
+						1599713807.581, -- [4]
+						62237, -- [5]
+						"[*] Stupefying Glare", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						269238, -- [2]
+						37601, -- [3]
+						1599713807.601, -- [4]
+						99838, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713808.12, -- [4]
+						105644, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713808.14, -- [4]
+						106489, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713808.14, -- [4]
+						118393, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713808.158, -- [4]
+						130297, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						34914, -- [2]
+						5314, -- [3]
+						1599713808.344, -- [4]
+						135611, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309978, -- [2]
+						174360, -- [3]
+						1599713808.462, -- [4]
+						1, -- [5]
+						"[*] Paranoia", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						38749, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						47585, -- [2]
+						1, -- [3]
+						1599713796.307, -- [4]
+						0, -- [5]
+						"Mordpriest-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "PRIEST",
+				["timestring"] = "8m 8s",
+				["time"] = 1599713808.48,
+			}, -- [7]
+			{
+				["maxhealth"] = 523780,
+				["timeofdeath"] = 509.0969999998342,
+				["name"] = "Mitchconner-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						52588, -- [3]
+						1599713818.642, -- [4]
+						576160, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						288999, -- [2]
+						459, -- [3]
+						1599713819.555, -- [4]
+						576160, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						319346, -- [2]
+						30943, -- [3]
+						1599713819.751, -- [4]
+						545217, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						143924, -- [2]
+						28573, -- [3]
+						1599713819.862, -- [4]
+						573790, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						295310, -- [2]
+						10209, -- [3]
+						1599713820.082, -- [4]
+						576160, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77489, -- [2]
+						6470, -- [3]
+						1599713820.912, -- [4]
+						576160, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						288999, -- [2]
+						2040, -- [3]
+						1599713821.154, -- [4]
+						576160, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						319346, -- [2]
+						29775, -- [3]
+						1599713821.754, -- [4]
+						546385, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						270117, -- [2]
+						18433, -- [3]
+						1599713821.768, -- [4]
+						564818, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						311201, -- [2]
+						27374, -- [3]
+						1599713821.936, -- [4]
+						576160, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						295310, -- [2]
+						10210, -- [3]
+						1599713822.096, -- [4]
+						576160, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						228532, -- [2]
+						57616, -- [3]
+						1599713823.38, -- [4]
+						576160, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						319346, -- [2]
+						29454, -- [3]
+						1599713823.768, -- [4]
+						546706, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						77489, -- [2]
+						6470, -- [3]
+						1599713823.92, -- [4]
+						553176, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						288999, -- [2]
+						306, -- [3]
+						1599713824.172, -- [4]
+						553482, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						5547, -- [3]
+						1599713824.744, -- [4]
+						559029, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						274436, -- [2]
+						808, -- [3]
+						1599713824.744, -- [4]
+						559837, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						5547, -- [3]
+						1599713825.489, -- [4]
+						565384, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						274436, -- [2]
+						807, -- [3]
+						1599713825.489, -- [4]
+						566191, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						319346, -- [2]
+						30943, -- [3]
+						1599713825.77, -- [4]
+						535248, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						774, -- [2]
+						5547, -- [3]
+						1599713826.255, -- [4]
+						540795, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						274436, -- [2]
+						808, -- [3]
+						1599713826.273, -- [4]
+						541603, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713827.153, -- [4]
+						547409, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713827.153, -- [4]
+						548254, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						319346, -- [2]
+						30943, -- [3]
+						1599713827.758, -- [4]
+						517311, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						270117, -- [2]
+						18433, -- [3]
+						1599713827.778, -- [4]
+						535744, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713827.796, -- [4]
+						541550, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713827.796, -- [4]
+						542395, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713828.57, -- [4]
+						548201, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						274436, -- [2]
+						846, -- [3]
+						1599713828.57, -- [4]
+						549047, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599713828.59, -- [4]
+						549047, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						236625, -- [3]
+						1599713828.59, -- [4]
+						312422, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						196555, -- [2]
+						1, -- [3]
+						1599713797.516, -- [4]
+						0, -- [5]
+						"Mitchconner-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "8m 29s",
+				["time"] = 1599713828.687,
+			}, -- [8]
+			{
+				["maxhealth"] = 538940,
+				["timeofdeath"] = 515.4129999999423,
+				["name"] = "Splendiferus-Kil'jaeden",
+				["events"] = {
+					{
+						false, -- [1]
+						288999, -- [2]
+						2240, -- [3]
+						1599713821.706, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						319346, -- [2]
+						24471, -- [3]
+						1599713822.529, -- [4]
+						568369, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						288999, -- [2]
+						1680, -- [3]
+						1599713822.882, -- [4]
+						570049, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						143924, -- [2]
+						29704, -- [3]
+						1599713823.501, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77489, -- [2]
+						10622, -- [3]
+						1599713823.92, -- [4]
+						592840, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						288999, -- [2]
+						840, -- [3]
+						1599713824.271, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						319346, -- [2]
+						24286, -- [3]
+						1599713824.533, -- [4]
+						568554, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						270117, -- [2]
+						36356, -- [3]
+						1599713824.547, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						288999, -- [2]
+						4480, -- [3]
+						1599713825.957, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						319346, -- [2]
+						25557, -- [3]
+						1599713826.524, -- [4]
+						567283, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						120692, -- [2]
+						15435, -- [3]
+						1599713826.696, -- [4]
+						582718, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						143924, -- [2]
+						22143, -- [3]
+						1599713827.153, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						288999, -- [2]
+						2240, -- [3]
+						1599713827.463, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						228532, -- [2]
+						59284, -- [3]
+						1599713827.701, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						288999, -- [2]
+						1680, -- [3]
+						1599713828.216, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						true, -- [1]
+						319346, -- [2]
+						25556, -- [3]
+						1599713828.532, -- [4]
+						567284, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						61129, -- [3]
+						1599713829.594, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						77489, -- [2]
+						4555, -- [3]
+						1599713829.707, -- [4]
+						592840, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						288999, -- [2]
+						4480, -- [3]
+						1599713829.832, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						228532, -- [2]
+						59284, -- [3]
+						1599713830.492, -- [4]
+						592840, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						319346, -- [2]
+						25373, -- [3]
+						1599713830.536, -- [4]
+						567467, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						317066, -- [2]
+						105213, -- [3]
+						1599713830.556, -- [4]
+						462254, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						317066, -- [2]
+						105213, -- [3]
+						1599713830.588, -- [4]
+						357041, -- [5]
+						"Thought Harvester", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						270117, -- [2]
+						35055, -- [3]
+						1599713830.588, -- [4]
+						392096, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						49258, -- [3]
+						1599713830.81, -- [4]
+						441354, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						311201, -- [2]
+						26029, -- [3]
+						1599713831.266, -- [4]
+						467383, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						143924, -- [2]
+						14504, -- [3]
+						1599713832.031, -- [4]
+						481887, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						319346, -- [2]
+						25372, -- [3]
+						1599713832.547, -- [4]
+						456515, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						77489, -- [2]
+						4555, -- [3]
+						1599713832.713, -- [4]
+						461070, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						319346, -- [2]
+						25372, -- [3]
+						1599713834.543, -- [4]
+						435698, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599713834.621, -- [4]
+						435698, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						194024, -- [3]
+						1599713834.621, -- [4]
+						241674, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						196555, -- [2]
+						1, -- [3]
+						1599713710.07, -- [4]
+						0, -- [5]
+						"Splendiferus-Kil'jaeden", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "8m 35s",
+				["time"] = 1599713835.003,
+			}, -- [9]
+			{
+				["maxhealth"] = 515280,
+				["timeofdeath"] = 517.905999999959,
+				["name"] = "Royalty",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						394, -- [3]
+						1599713831.603, -- [4]
+						263386, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2924, -- [3]
+						1599713831.678, -- [4]
+						266310, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						296184, -- [2]
+						11904, -- [3]
+						1599713831.696, -- [4]
+						278214, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						77489, -- [2]
+						9754, -- [3]
+						1599713831.988, -- [4]
+						287968, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						296184, -- [2]
+						12816, -- [3]
+						1599713832.009, -- [4]
+						300784, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2861, -- [3]
+						1599713832.204, -- [4]
+						303645, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						774, -- [2]
+						6500, -- [3]
+						1599713832.475, -- [4]
+						310145, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2797, -- [3]
+						1599713832.737, -- [4]
+						312942, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						292, -- [3]
+						1599713832.824, -- [4]
+						313234, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						319346, -- [2]
+						37078, -- [3]
+						1599713832.921, -- [4]
+						276156, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						270117, -- [2]
+						12075, -- [3]
+						1599713832.938, -- [4]
+						288231, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						5468, -- [3]
+						1599713833.277, -- [4]
+						293699, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						269238, -- [2]
+						17054, -- [3]
+						1599713833.413, -- [4]
+						310753, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						2228, -- [3]
+						1599713833.719, -- [4]
+						312981, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						287255, -- [2]
+						10224, -- [3]
+						1599713833.744, -- [4]
+						323205, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						269238, -- [2]
+						34108, -- [3]
+						1599713833.905, -- [4]
+						357313, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						177, -- [3]
+						1599713834.054, -- [4]
+						357490, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						774, -- [2]
+						5806, -- [3]
+						1599713834.085, -- [4]
+						363296, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						274436, -- [2]
+						845, -- [3]
+						1599713834.101, -- [4]
+						364141, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						319346, -- [2]
+						35542, -- [3]
+						1599713834.928, -- [4]
+						328599, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						269238, -- [2]
+						17054, -- [3]
+						1599713835.017, -- [4]
+						345653, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						77489, -- [2]
+						5773, -- [3]
+						1599713835.017, -- [4]
+						351426, -- [5]
+						"Tianarrae-Kil'jaeden", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						143, -- [3]
+						1599713835.258, -- [4]
+						351569, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						774, -- [2]
+						5547, -- [3]
+						1599713835.707, -- [4]
+						357116, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						274436, -- [2]
+						1616, -- [3]
+						1599713835.707, -- [4]
+						358732, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						143924, -- [2]
+						107, -- [3]
+						1599713836.479, -- [4]
+						358839, -- [5]
+						"Royalty", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						269279, -- [2]
+						34497, -- [3]
+						1599713836.929, -- [4]
+						358839, -- [5]
+						"Royalty", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						319346, -- [2]
+						35542, -- [3]
+						1599713836.929, -- [4]
+						357794, -- [5]
+						"[*] Infinity's Toll", -- [6]
+						34497, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						774, -- [2]
+						5547, -- [3]
+						1599713837.15, -- [4]
+						363341, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						274436, -- [2]
+						808, -- [3]
+						1599713837.15, -- [4]
+						364149, -- [5]
+						"Leafyo", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						309991, -- [2]
+						1, -- [3]
+						1599713837.29, -- [4]
+						364149, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						309991, -- [2]
+						271788, -- [3]
+						1599713837.29, -- [4]
+						92361, -- [5]
+						"N'Zoth the Corruptor", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						642, -- [2]
+						1, -- [3]
+						1599713798.838, -- [4]
+						0, -- [5]
+						"Royalty", -- [6]
+					}, -- [33]
+				},
+				["class"] = "PALADIN",
+				["timestring"] = "8m 37s",
+				["time"] = 1599713837.496,
 			}, -- [10]
 		},
-		["bossname"] = "Drest'agath",
+		["bossname"] = "N'Zoth the Corruptor",
 		["bossicon"] = {
-			0.5, -- [1]
-			0.75, -- [2]
-			0.25, -- [3]
-			0.5, -- [4]
+			0.75, -- [1]
+			1, -- [2]
+			0.5, -- [3]
+			0.75, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\NyalothaRaid_BossFaces", -- [5]
 		},
-		["date"] = 729176.632,
-		["timeelapsed"] = 406.7039999999106,
+		["date"] = 1074515.82,
+		["timeelapsed"] = 529.0039999999572,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
+	["237716"] = {
+		["deaths"] = {
+			[46] = {
+				1599366009, -- [1]
+				1599366009, -- [2]
+			},
+			[37] = {
+				1599366009, -- [1]
+				1599366249, -- [2]
+			},
+			[2] = {
+				1599366249, -- [1]
+			},
+			[4] = {
+				1599366249, -- [1]
+				1599366512, -- [2]
+			},
+			[60] = {
+				1599366249, -- [1]
+			},
+			[142] = {
+				1599366249, -- [1]
+			},
+			[213] = {
+				1599366512, -- [1]
+			},
+			[6] = {
+				1599366512, -- [1]
+			},
+			[155] = {
+				1599366512, -- [1]
+			},
+			[45] = {
+				1599366009, -- [1]
+				1599366009, -- [2]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["237216"] = {
+		["deaths"] = {
+			[85] = {
+				1599363267, -- [1]
+			},
+			[58] = {
+				1599363267, -- [1]
+			},
+			[117] = {
+				1599363267, -- [1]
+			},
+			[84] = {
+				1599363267, -- [1]
+				1599363267, -- [2]
+			},
+			[160] = {
+				1598497338, -- [1]
+			},
+			[109] = {
+				1598497338, -- [1]
+				1598497338, -- [2]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["237016"] = {
+		["deaths"] = {
+			[85] = {
+				1599366978, -- [1]
+			},
+			[101] = {
+				1599366978, -- [1]
+			},
+			[169] = {
+				1599366978, -- [1]
+				1599366978, -- [2]
+			},
+			[60] = {
+				1599366978, -- [1]
+			},
+			[43] = {
+				1599367274, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["237516"] = {
+		["deaths"] = {
+			[261] = {
+				1597034612, -- [1]
+				1597636744, -- [2]
+				1597891568, -- [3]
+			},
+			[277] = {
+				1597285474, -- [1]
+			},
+			[293] = {
+				1597030097, -- [1]
+				1597286072, -- [2]
+			},
+			[155] = {
+				1599711517, -- [1]
+				1599711517, -- [2]
+			},
+			[325] = {
+				1597290980, -- [1]
+				1597292222, -- [2]
+			},
+			[680] = {
+				1599710318, -- [1]
+			},
+			[389] = {
+				1599713849, -- [1]
+			},
+			[203] = {
+				1597026477, -- [1]
+			},
+			[421] = {
+				1597292222, -- [1]
+				1597635077, -- [2]
+				1599706466, -- [3]
+			},
+			[59] = {
+				1597026477, -- [1]
+				1597033330, -- [2]
+			},
+			[485] = {
+				1597032269, -- [1]
+				1597288226, -- [2]
+			},
+			[262] = {
+				1597636744, -- [1]
+			},
+			[278] = {
+				1597891100, -- [1]
+			},
+			[310] = {
+				1597290980, -- [1]
+				1599713849, -- [2]
+			},
+			[82] = {
+				1597637317, -- [1]
+			},
+			[714] = {
+				1597895381, -- [1]
+				1597895381, -- [2]
+			},
+			[374] = {
+				1597035504, -- [1]
+			},
+			[98] = {
+				1597029427, -- [1]
+			},
+			[102] = {
+				1597029427, -- [1]
+				1599707487, -- [2]
+			},
+			[106] = {
+				1597289307, -- [1]
+				1597639894, -- [2]
+			},
+			[110] = {
+				1597638726, -- [1]
+			},
+			[454] = {
+				1597028932, -- [1]
+				1597028932, -- [2]
+				1597028932, -- [3]
+			},
+			[118] = {
+				1597027380, -- [1]
+				1597033957, -- [2]
+				1597033957, -- [3]
+				1597035504, -- [4]
+				1599708542, -- [5]
+			},
+			[486] = {
+				1599713849, -- [1]
+			},
+			[502] = {
+				1597294058, -- [1]
+			},
+			[263] = {
+				1597285474, -- [1]
+				1597636744, -- [2]
+			},
+			[140] = {
+				1597287022, -- [1]
+				1597636388, -- [2]
+			},
+			[148] = {
+				1599708542, -- [1]
+			},
+			[311] = {
+				1597030097, -- [1]
+				1597030097, -- [2]
+				1597632997, -- [3]
+			},
+			[164] = {
+				1597025803, -- [1]
+			},
+			[343] = {
+				1597891100, -- [1]
+			},
+			[196] = {
+				1599359810, -- [1]
+			},
+			[439] = {
+				1597026477, -- [1]
+				1597026477, -- [2]
+			},
+			[455] = {
+				1597640535, -- [1]
+				1599708094, -- [2]
+				1599711237, -- [3]
+			},
+			[471] = {
+				1597033957, -- [1]
+				1597294973, -- [2]
+				1597639894, -- [3]
+				1599710318, -- [4]
+				1599710318, -- [5]
+				1599712932, -- [6]
+				1599714492, -- [7]
+			},
+			[487] = {
+				1597032269, -- [1]
+			},
+			[312] = {
+				1597892165, -- [1]
+			},
+			[328] = {
+				1597291583, -- [1]
+				1599360595, -- [2]
+			},
+			[344] = {
+				1597028315, -- [1]
+			},
+			[392] = {
+				1597637892, -- [1]
+			},
+			[408] = {
+				1597637892, -- [1]
+			},
+			[472] = {
+				1597286693, -- [1]
+				1597286693, -- [2]
+				1597286693, -- [3]
+				1599706466, -- [4]
+			},
+			[488] = {
+				1597893370, -- [1]
+				1599361999, -- [2]
+			},
+			[141] = {
+				1597890543, -- [1]
+			},
+			[149] = {
+				1597032269, -- [1]
+				1599361216, -- [2]
+				1599361216, -- [3]
+				1599361216, -- [4]
+			},
+			[157] = {
+				1597288526, -- [1]
+				1599705875, -- [2]
+			},
+			[329] = {
+				1597632997, -- [1]
+				1597892648, -- [2]
+				1597892648, -- [3]
+			},
+			[361] = {
+				1597028315, -- [1]
+			},
+			[393] = {
+				1597637892, -- [1]
+			},
+			[410] = {
+				1599714492, -- [1]
+			},
+			[309] = {
+				1599713849, -- [1]
+			},
+			[156] = {
+				1599713230, -- [1]
+				1599713230, -- [2]
+			},
+			[657] = {
+				1599362747, -- [1]
+			},
+			[473] = {
+				1597294973, -- [1]
+			},
+			[489] = {
+				1597639894, -- [1]
+				1597892165, -- [2]
+				1597895381, -- [3]
+			},
+			[253] = {
+				1597636744, -- [1]
+			},
+			[266] = {
+				1597290054, -- [1]
+			},
+			[71] = {
+				1597634455, -- [1]
+			},
+			[298] = {
+				1597632997, -- [1]
+				1597632997, -- [2]
+			},
+			[314] = {
+				1599359810, -- [1]
+			},
+			[330] = {
+				1597636125, -- [1]
+			},
+			[87] = {
+				1597029427, -- [1]
+				1599707487, -- [2]
+			},
+			[91] = {
+				1599707487, -- [1]
+			},
+			[228] = {
+				1599712932, -- [1]
+			},
+			[394] = {
+				1597288226, -- [1]
+				1597895381, -- [2]
+			},
+			[103] = {
+				1599707487, -- [1]
+			},
+			[29] = {
+				1599713230, -- [1]
+			},
+			[111] = {
+				1597289307, -- [1]
+			},
+			[115] = {
+				1597029188, -- [1]
+				1599709275, -- [2]
+				1599713230, -- [3]
+			},
+			[119] = {
+				1597287022, -- [1]
+				1597290054, -- [2]
+				1597294973, -- [3]
+			},
+			[490] = {
+				1597031470, -- [1]
+				1597031470, -- [2]
+				1597892165, -- [3]
+				1597892165, -- [4]
+			},
+			[127] = {
+				1597290980, -- [1]
+				1597292506, -- [2]
+				1597634455, -- [3]
+				1597638726, -- [4]
+			},
+			[267] = {
+				1597290054, -- [1]
+			},
+			[283] = {
+				1597639894, -- [1]
+			},
+			[150] = {
+				1599713230, -- [1]
+			},
+			[315] = {
+				1597290980, -- [1]
+			},
+			[331] = {
+				1597032269, -- [1]
+				1597033330, -- [2]
+			},
+			[174] = {
+				1597639292, -- [1]
+			},
+			[114] = {
+				1599712932, -- [1]
+			},
+			[654] = {
+				1599712303, -- [1]
+			},
+			[395] = {
+				1599705026, -- [1]
+			},
+			[13] = {
+				1599361999, -- [1]
+			},
+			[602] = {
+				1599712303, -- [1]
+			},
+			[14] = {
+				1599360972, -- [1]
+				1599362747, -- [2]
+			},
+			[230] = {
+				1597289307, -- [1]
+			},
+			[238] = {
+				1597035504, -- [1]
+			},
+			[537] = {
+				1599712303, -- [1]
+			},
+			[254] = {
+				1597894183, -- [1]
+			},
+			[406] = {
+				1599707142, -- [1]
+			},
+			[459] = {
+				1599711237, -- [1]
+				1599711237, -- [2]
+			},
+			[300] = {
+				1597034612, -- [1]
+				1597035504, -- [2]
+				1597286072, -- [3]
+				1597891568, -- [4]
+			},
+			[661] = {
+				1599710318, -- [1]
+				1599712303, -- [2]
+			},
+			[332] = {
+				1597290503, -- [1]
+				1597290503, -- [2]
+				1597635077, -- [3]
+			},
+			[348] = {
+				1597286072, -- [1]
+			},
+			[23] = {
+				1599359226, -- [1]
+			},
+			[145] = {
+				1599709275, -- [1]
+			},
+			[396] = {
+				1599710318, -- [1]
+			},
+			[412] = {
+				1599707142, -- [1]
+			},
+			[143] = {
+				1599708542, -- [1]
+			},
+			[444] = {
+				1597288226, -- [1]
+				1597292222, -- [2]
+			},
+			[460] = {
+				1597635668, -- [1]
+			},
+			[476] = {
+				1597639894, -- [1]
+			},
+			[99] = {
+				1599708323, -- [1]
+			},
+			[94] = {
+				1599708323, -- [1]
+			},
+			[135] = {
+				1599705590, -- [1]
+			},
+			[285] = {
+				1597026477, -- [1]
+			},
+			[301] = {
+				1597294058, -- [1]
+			},
+			[159] = {
+				1597637317, -- [1]
+				1599705875, -- [2]
+				1599705875, -- [3]
+				1599705875, -- [4]
+				1599709520, -- [5]
+			},
+			[333] = {
+				1597032836, -- [1]
+				1597286072, -- [2]
+				1597294973, -- [3]
+				1597891100, -- [4]
+			},
+			[349] = {
+				1597287609, -- [1]
+				1597635077, -- [2]
+			},
+			[458] = {
+				1599708094, -- [1]
+				1599711237, -- [2]
+			},
+			[484] = {
+				1599707142, -- [1]
+			},
+			[199] = {
+				1597030097, -- [1]
+				1599706466, -- [2]
+			},
+			[413] = {
+				1597637892, -- [1]
+			},
+			[505] = {
+				1599361999, -- [1]
+			},
+			[445] = {
+				1597291583, -- [1]
+				1597890543, -- [2]
+			},
+			[58] = {
+				1597034612, -- [1]
+			},
+			[60] = {
+				1597027147, -- [1]
+			},
+			[493] = {
+				1599712303, -- [1]
+			},
+			[255] = {
+				1597636744, -- [1]
+			},
+			[116] = {
+				1597891568, -- [1]
+				1599711517, -- [2]
+			},
+			[286] = {
+				1597640535, -- [1]
+			},
+			[302] = {
+				1597035504, -- [1]
+				1597892648, -- [2]
+			},
+			[178] = {
+				1599705371, -- [1]
+			},
+			[334] = {
+				1597290503, -- [1]
+				1597292222, -- [2]
+			},
+			[350] = {
+				1597634208, -- [1]
+			},
+			[130] = {
+				1599705590, -- [1]
+				1599708542, -- [2]
+			},
+			[382] = {
+				1597894183, -- [1]
+			},
+			[398] = {
+				1597031470, -- [1]
+			},
+			[104] = {
+				1597029427, -- [1]
+				1599707487, -- [2]
+				1599708323, -- [3]
+				1599708323, -- [4]
+				1599708323, -- [5]
+			},
+			[430] = {
+				1599706466, -- [1]
+			},
+			[112] = {
+				1599705590, -- [1]
+			},
+			[462] = {
+				1597032269, -- [1]
+				1597287609, -- [2]
+				1597633614, -- [3]
+				1599362747, -- [4]
+				1599708094, -- [5]
+				1599708094, -- [6]
+			},
+			[120] = {
+				1597285474, -- [1]
+			},
+			[494] = {
+				1599361999, -- [1]
+			},
+			[128] = {
+				1597029188, -- [1]
+				1599712932, -- [2]
+			},
+			[271] = {
+				1597027147, -- [1]
+				1597288889, -- [2]
+				1597290054, -- [3]
+			},
+			[144] = {
+				1597292506, -- [1]
+				1597891100, -- [2]
+				1599708542, -- [3]
+			},
+			[152] = {
+				1597285474, -- [1]
+			},
+			[160] = {
+				1597027678, -- [1]
+				1597636388, -- [2]
+				1597637317, -- [3]
+				1597638189, -- [4]
+				1597638189, -- [5]
+				1597638189, -- [6]
+				1597638189, -- [7]
+				1597638462, -- [8]
+				1599709520, -- [9]
+				1599709520, -- [10]
+				1599710687, -- [11]
+			},
+			[335] = {
+				1597287609, -- [1]
+			},
+			[176] = {
+				1597639292, -- [1]
+				1597639292, -- [2]
+				1599705371, -- [3]
+				1599705371, -- [4]
+			},
+			[10] = {
+				1599361216, -- [1]
+				1599362747, -- [2]
+			},
+			[319] = {
+				1597636125, -- [1]
+			},
+			[443] = {
+				1599705026, -- [1]
+			},
+			[208] = {
+				1597032836, -- [1]
+			},
+			[431] = {
+				1597291583, -- [1]
+			},
+			[151] = {
+				1597290054, -- [1]
+			},
+			[463] = {
+				1599707142, -- [1]
+			},
+			[479] = {
+				1599705026, -- [1]
+			},
+			[9] = {
+				1599359226, -- [1]
+				1599359810, -- [2]
+				1599360972, -- [3]
+				1599361999, -- [4]
+			},
+			[256] = {
+				1597027147, -- [1]
+				1597890543, -- [2]
+			},
+			[272] = {
+				1597289307, -- [1]
+				1597636125, -- [2]
+				1597891100, -- [3]
+			},
+			[524] = {
+				1599360595, -- [1]
+			},
+			[42] = {
+				1599360595, -- [1]
+			},
+			[320] = {
+				1597290980, -- [1]
+			},
+			[442] = {
+				1597028932, -- [1]
+			},
+			[422] = {
+				1597635077, -- [1]
+			},
+			[397] = {
+				1597032836, -- [1]
+				1597032836, -- [2]
+				1597032836, -- [3]
+			},
+			[384] = {
+				1597028315, -- [1]
+				1597894183, -- [2]
+			},
+			[400] = {
+				1597294058, -- [1]
+				1599706466, -- [2]
+			},
+			[416] = {
+				1597288226, -- [1]
+				1597635668, -- [2]
+				1597637892, -- [3]
+				1599712932, -- [4]
+			},
+			[432] = {
+				1597633614, -- [1]
+			},
+			[461] = {
+				1597633614, -- [1]
+				1597633614, -- [2]
+				1597640535, -- [3]
+				1599360595, -- [4]
+			},
+			[464] = {
+				1597291583, -- [1]
+				1597291583, -- [2]
+				1599708094, -- [3]
+			},
+			[129] = {
+				1597034612, -- [1]
+				1599705590, -- [2]
+			},
+			[496] = {
+				1597893370, -- [1]
+			},
+			[257] = {
+				1597287609, -- [1]
+			},
+			[273] = {
+				1597289307, -- [1]
+			},
+			[289] = {
+				1599360972, -- [1]
+			},
+			[153] = {
+				1597635077, -- [1]
+				1599711517, -- [2]
+			},
+			[161] = {
+				1597025803, -- [1]
+				1597025803, -- [2]
+				1597027678, -- [3]
+				1597034923, -- [4]
+				1597034923, -- [5]
+				1597288526, -- [6]
+				1597636388, -- [7]
+				1597637317, -- [8]
+				1597638462, -- [9]
+				1599709275, -- [10]
+				1599709520, -- [11]
+				1599709520, -- [12]
+				1599710687, -- [13]
+				1599710687, -- [14]
+				1599710687, -- [15]
+			},
+			[474] = {
+				1597033957, -- [1]
+				1597286693, -- [2]
+				1597294058, -- [3]
+			},
+			[177] = {
+				1597639292, -- [1]
+			},
+			[163] = {
+				1597034923, -- [1]
+				1597034923, -- [2]
+				1597292506, -- [3]
+				1597638462, -- [4]
+				1597638462, -- [5]
+				1597638462, -- [6]
+			},
+			[346] = {
+				1597294973, -- [1]
+			},
+			[401] = {
+				1597294058, -- [1]
+			},
+			[209] = {
+				1597285474, -- [1]
+				1597891568, -- [2]
+			},
+			[287] = {
+				1597640535, -- [1]
+				1599360972, -- [2]
+				1599360972, -- [3]
+			},
+			[449] = {
+				1597028315, -- [1]
+			},
+			[465] = {
+				1597892165, -- [1]
+				1597893370, -- [2]
+				1599713849, -- [3]
+			},
+			[469] = {
+				1597286693, -- [1]
+				1597893370, -- [2]
+				1599714492, -- [3]
+				1599714492, -- [4]
+			},
+			[249] = {
+				1597027147, -- [1]
+			},
+			[258] = {
+				1597290503, -- [1]
+			},
+			[546] = {
+				1597031470, -- [1]
+				1597031470, -- [2]
+			},
+			[390] = {
+				1597634208, -- [1]
+			},
+			[306] = {
+				1597292222, -- [1]
+			},
+			[322] = {
+				1597033330, -- [1]
+			},
+			[158] = {
+				1597288526, -- [1]
+				1597288526, -- [2]
+				1597638189, -- [3]
+				1599705875, -- [4]
+			},
+			[405] = {
+				1597634208, -- [1]
+				1597634208, -- [2]
+			},
+			[97] = {
+				1597029427, -- [1]
+			},
+			[386] = {
+				1597640535, -- [1]
+			},
+			[274] = {
+				1597033957, -- [1]
+				1597288889, -- [2]
+			},
+			[105] = {
+				1599359226, -- [1]
+			},
+			[136] = {
+				1597029188, -- [1]
+				1597029188, -- [2]
+				1599705590, -- [3]
+			},
+			[113] = {
+				1597292506, -- [1]
+				1597638726, -- [2]
+			},
+			[117] = {
+				1597634455, -- [1]
+				1597637317, -- [2]
+				1597638726, -- [3]
+			},
+			[154] = {
+				1597027147, -- [1]
+				1599711517, -- [2]
+			},
+			[125] = {
+				1597638726, -- [1]
+			},
+			[259] = {
+				1597892648, -- [1]
+			},
+			[275] = {
+				1597288889, -- [1]
+				1597288889, -- [2]
+				1597290503, -- [3]
+			},
+			[146] = {
+				1597894183, -- [1]
+			},
+			[307] = {
+				1597033330, -- [1]
+			},
+			[162] = {
+				1597025803, -- [1]
+				1597025803, -- [2]
+				1597027678, -- [3]
+				1597027678, -- [4]
+				1597027678, -- [5]
+				1597034923, -- [6]
+				1597287022, -- [7]
+				1597287022, -- [8]
+				1597287022, -- [9]
+				1597292506, -- [10]
+				1597636388, -- [11]
+				1597636388, -- [12]
+				1599709275, -- [13]
+				1599709275, -- [14]
+				1599710687, -- [15]
+			},
+			[339] = {
+				1597286072, -- [1]
+			},
+			[355] = {
+				1597034612, -- [1]
+			},
+			[132] = {
+				1597634455, -- [1]
+				1597634455, -- [2]
+			},
+			[126] = {
+				1597027380, -- [1]
+				1597027380, -- [2]
+				1597027380, -- [3]
+				1597027380, -- [4]
+				1597288526, -- [5]
+			},
+			[291] = {
+				1597634208, -- [1]
+				1597891568, -- [2]
+				1599711237, -- [3]
+			},
+			[466] = {
+				1597890543, -- [1]
+			},
+			[303] = {
+				1597636125, -- [1]
+			},
+			[451] = {
+				1597028932, -- [1]
+			},
+			[467] = {
+				1599705026, -- [1]
+				1599705026, -- [2]
+				1599714492, -- [3]
+			},
+			[327] = {
+				1597636125, -- [1]
+				1597892648, -- [2]
+				1597894183, -- [3]
+				1599359226, -- [4]
+			},
+			[78] = {
+				1597635668, -- [1]
+			},
+			[175] = {
+				1597639292, -- [1]
+				1599705371, -- [2]
+				1599705371, -- [3]
+			},
+			[276] = {
+				1597288889, -- [1]
+			},
+			[292] = {
+				1599707142, -- [1]
+			},
+			[308] = {
+				1597030097, -- [1]
+				1597632997, -- [2]
+			},
+			[324] = {
+				1597033330, -- [1]
+			},
+			[137] = {
+				1597029188, -- [1]
+			},
+			[239] = {
+				1599359226, -- [1]
+			},
+			[51] = {
+				1599359810, -- [1]
+			},
+			[297] = {
+				1599359810, -- [1]
+			},
+			[8] = {
+				1599360595, -- [1]
+				1599361216, -- [2]
+			},
+			[420] = {
+				1597288226, -- [1]
+			},
+			[436] = {
+				1597635668, -- [1]
+				1597635668, -- [2]
+			},
+			[452] = {
+				1597028315, -- [1]
+				1597633614, -- [2]
+			},
+			[468] = {
+				1597287609, -- [1]
+				1597890543, -- [2]
+				1597893370, -- [3]
+			},
+			[711] = {
+				1597895381, -- [1]
+			},
+			[652] = {
+				1599362747, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236716"] = {
+		["deaths"] = {
+			[120] = {
+				1598501492, -- [1]
+			},
+			[130] = {
+				1598501180, -- [1]
+			},
+			[124] = {
+				1598501492, -- [1]
+				1598501492, -- [2]
+			},
+			[131] = {
+				1598501180, -- [1]
+				1598501180, -- [2]
+				1598501180, -- [3]
+				1598501180, -- [4]
+			},
+			[86] = {
+				1599367721, -- [1]
+			},
+			[154] = {
+				1599367721, -- [1]
+			},
+			[91] = {
+				1598501492, -- [1]
+			},
+			[159] = {
+				1598501492, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["237215"] = {
+		["deaths"] = {
+			[131] = {
+				1595392988, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["237515"] = {
+		["deaths"] = {
+			[57] = {
+				1595395028, -- [1]
+			},
+			[37] = {
+				1595395028, -- [1]
+			},
+			[334] = {
+				1595395028, -- [1]
+			},
+			[356] = {
+				1595395028, -- [1]
+			},
+			[331] = {
+				1595395028, -- [1]
+			},
+			[16] = {
+				1595995686, -- [1]
+			},
+			[69] = {
+				1595995686, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["237416"] = {
+		["deaths"] = {
+			[161] = {
+				1595651689, -- [1]
+				1595651689, -- [2]
+				1595651689, -- [3]
+			},
+			[7] = {
+				1595651689, -- [1]
+				1595652584, -- [2]
+				1599369154, -- [3]
+			},
+			[278] = {
+				1595652202, -- [1]
+			},
+			[279] = {
+				1595652202, -- [1]
+			},
+			[123] = {
+				1595651689, -- [1]
+			},
+			[386] = {
+				1595652202, -- [1]
+				1595652202, -- [2]
+			},
+			[343] = {
+				1598503658, -- [1]
+				1598503658, -- [2]
+				1598503658, -- [3]
+			},
+			[398] = {
+				1595653120, -- [1]
+			},
+			[19] = {
+				1595653120, -- [1]
+			},
+			[235] = {
+				1599369154, -- [1]
+			},
+			[11] = {
+				1595652202, -- [1]
+			},
+			[249] = {
+				1595652584, -- [1]
+				1595652584, -- [2]
+				1595652584, -- [3]
+				1595652584, -- [4]
+			},
+			[23] = {
+				1599369154, -- [1]
+			},
+			[140] = {
+				1598503658, -- [1]
+				1598503658, -- [2]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["237316"] = {
+		["deaths"] = {
+			[64] = {
+				1599368506, -- [1]
+			},
+			[417] = {
+				1598502458, -- [1]
+			},
+			[253] = {
+				1598502458, -- [1]
+			},
+			[307] = {
+				1598502458, -- [1]
+			},
+			[143] = {
+				1599368506, -- [1]
+			},
+			[358] = {
+				1598502458, -- [1]
+			},
+			[69] = {
+				1599368506, -- [1]
+				1599368506, -- [2]
+			},
+			[96] = {
+				1599368506, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236615"] = {
+		["deaths"] = {
+			[279] = {
+				1595994909, -- [1]
+			},
+			[303] = {
+				1595994909, -- [1]
+			},
+			[307] = {
+				1595994909, -- [1]
+			},
+			[322] = {
+				1595394296, -- [1]
+			},
+			[302] = {
+				1595994909, -- [1]
+			},
+			[192] = {
+				1595394296, -- [1]
+			},
+			[365] = {
+				1595394296, -- [1]
+				1595394296, -- [2]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236815"] = {
+		["deaths"] = {
+			[71] = {
+				1595391895, -- [1]
+			},
+			[69] = {
+				1595992697, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236816"] = {
+		["deaths"] = {
+			[275] = {
+				1598494785, -- [1]
+			},
+			[276] = {
+				1598494785, -- [1]
+			},
+			[30] = {
+				1598493867, -- [1]
+			},
+			[16] = {
+				1598493867, -- [1]
+			},
+			[9] = {
+				1598493867, -- [1]
+			},
+			[128] = {
+				1599355999, -- [1]
+			},
+			[143] = {
+				1599355999, -- [1]
+			},
+			[134] = {
+				1599355999, -- [1]
+			},
+			[21] = {
+				1598493867, -- [1]
+			},
+			[242] = {
+				1598494785, -- [1]
+			},
+			[274] = {
+				1598494785, -- [1]
+				1598494785, -- [2]
+			},
+			[31] = {
+				1598493867, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
+	["236416"] = {
+		["deaths"] = {
+			[149] = {
+				1599365543, -- [1]
+			},
+			[181] = {
+				1598500267, -- [1]
+			},
+			[151] = {
+				1598500267, -- [1]
+			},
+			[77] = {
+				1598499080, -- [1]
+			},
+			[47] = {
+				1598499978, -- [1]
+				1598499978, -- [2]
+				1598499978, -- [3]
+				1598499978, -- [4]
+			},
+			[16] = {
+				1599363891, -- [1]
+				1599363891, -- [2]
+				1599365279, -- [3]
+			},
+			[94] = {
+				1598499080, -- [1]
+			},
+			[28] = {
+				1599365279, -- [1]
+			},
+			[32] = {
+				1598498415, -- [1]
+			},
+			[40] = {
+				1598498879, -- [1]
+				1598498879, -- [2]
+				1598498879, -- [3]
+				1599365279, -- [4]
+			},
+			[190] = {
+				1598500267, -- [1]
+			},
+			[41] = {
+				1599364495, -- [1]
+			},
+			[49] = {
+				1599365279, -- [1]
+			},
+			[57] = {
+				1599364152, -- [1]
+			},
+			[17] = {
+				1599364996, -- [1]
+				1599365543, -- [2]
+			},
+			[29] = {
+				1598499978, -- [1]
+				1599364676, -- [2]
+			},
+			[34] = {
+				1598498415, -- [1]
+				1598498415, -- [2]
+				1599364996, -- [3]
+				1599365543, -- [4]
+			},
+			[50] = {
+				1599365543, -- [1]
+			},
+			[35] = {
+				1599363891, -- [1]
+			},
+			[43] = {
+				1599364152, -- [1]
+				1599364495, -- [2]
+				1599364495, -- [3]
+			},
+			[200] = {
+				1598500267, -- [1]
+			},
+			[18] = {
+				1599364676, -- [1]
+			},
+			[102] = {
+				1598499764, -- [1]
+				1598499764, -- [2]
+				1598499764, -- [3]
+				1598499764, -- [4]
+				1598499764, -- [5]
+				1599364495, -- [6]
+			},
+			[30] = {
+				1598498415, -- [1]
+				1598500267, -- [2]
+				1599364495, -- [3]
+			},
+			[36] = {
+				1599363891, -- [1]
+				1599363891, -- [2]
+			},
+			[44] = {
+				1599364152, -- [1]
+			},
+			[119] = {
+				1599364996, -- [1]
+			},
+			[136] = {
+				1599365543, -- [1]
+			},
+			[90] = {
+				1598499080, -- [1]
+				1599364152, -- [2]
+				1599364152, -- [3]
+			},
+			[89] = {
+				1599365279, -- [1]
+			},
+			[37] = {
+				1598498879, -- [1]
+			},
+			[45] = {
+				1598498415, -- [1]
+			},
+			[53] = {
+				1598499080, -- [1]
+				1598499080, -- [2]
+			},
+			[93] = {
+				1599364996, -- [1]
+			},
+			[39] = {
+				1598498879, -- [1]
+			},
+			[23] = {
+				1599364676, -- [1]
+				1599364676, -- [2]
+				1599364676, -- [3]
+			},
+			[108] = {
+				1599364996, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
 	["236616"] = {
 		["deaths"] = {
 			[0] = {
@@ -14558,31 +19407,33 @@ DeathGraphsDBGraph = {
 			[332] = {
 				1598850337, -- [1]
 			},
-			[377] = {
-				1598850337, -- [1]
+			[353] = {
+				1599358251, -- [1]
 			},
-			[120] = {
-				1598841558, -- [1]
+			[239] = {
+				1598842278, -- [1]
+				1598842278, -- [2]
+				1598842873, -- [3]
+				1598846374, -- [4]
 			},
-			[204] = {
-				1598843362, -- [1]
+			[393] = {
+				1598850919, -- [1]
 			},
 			[331] = {
 				1598849376, -- [1]
 			},
-			[233] = {
-				1598842873, -- [1]
+			[337] = {
+				1598847766, -- [1]
 			},
-			[59] = {
-				1598841558, -- [1]
+			[251] = {
+				1598850337, -- [1]
 			},
 			[380] = {
 				1598849376, -- [1]
 				1598850919, -- [2]
 			},
-			[277] = {
-				1598846813, -- [1]
-				1598846813, -- [2]
+			[197] = {
+				1598844864, -- [1]
 			},
 			[261] = {
 				1598849798, -- [1]
@@ -14590,17 +19441,18 @@ DeathGraphsDBGraph = {
 			[392] = {
 				1598850919, -- [1]
 			},
-			[102] = {
-				1598841558, -- [1]
+			[357] = {
+				1598849376, -- [1]
 			},
 			[273] = {
 				1598850337, -- [1]
 			},
-			[203] = {
-				1598847766, -- [1]
+			[277] = {
+				1598846813, -- [1]
+				1598846813, -- [2]
 			},
-			[195] = {
-				1598844864, -- [1]
+			[122] = {
+				1598841558, -- [1]
 			},
 			[285] = {
 				1598849376, -- [1]
@@ -14612,8 +19464,8 @@ DeathGraphsDBGraph = {
 			[149] = {
 				1598841558, -- [1]
 			},
-			[131] = {
-				1598841863, -- [1]
+			[151] = {
+				1598848413, -- [1]
 			},
 			[216] = {
 				1598847236, -- [1]
@@ -14626,41 +19478,38 @@ DeathGraphsDBGraph = {
 			[309] = {
 				1598844416, -- [1]
 			},
-			[151] = {
-				1598848413, -- [1]
+			[131] = {
+				1598841863, -- [1]
 			},
 			[223] = {
 				1598846374, -- [1]
 			},
-			[122] = {
-				1598841558, -- [1]
-			},
-			[357] = {
-				1598849376, -- [1]
-			},
-			[197] = {
+			[195] = {
 				1598844864, -- [1]
 			},
-			[251] = {
-				1598850337, -- [1]
-			},
-			[337] = {
+			[203] = {
 				1598847766, -- [1]
+			},
+			[102] = {
+				1598841558, -- [1]
+			},
+			[59] = {
+				1598841558, -- [1]
+			},
+			[233] = {
+				1598842873, -- [1]
 			},
 			[118] = {
 				1598841863, -- [1]
 			},
-			[393] = {
-				1598850919, -- [1]
+			[204] = {
+				1598843362, -- [1]
 			},
-			[239] = {
-				1598842278, -- [1]
-				1598842278, -- [2]
-				1598842873, -- [3]
-				1598846374, -- [4]
+			[120] = {
+				1598841558, -- [1]
 			},
-			[353] = {
-				1599358251, -- [1]
+			[377] = {
+				1598850337, -- [1]
 			},
 		},
 		["spells"] = {
@@ -14668,802 +19517,23 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
-	["237216"] = {
+	["236516"] = {
 		["deaths"] = {
-			[85] = {
-				1599363267, -- [1]
-			},
-			[58] = {
-				1599363267, -- [1]
-			},
-			[117] = {
-				1599363267, -- [1]
-			},
-			[84] = {
-				1599363267, -- [1]
-				1599363267, -- [2]
-			},
-			[160] = {
-				1598497338, -- [1]
-			},
-			[109] = {
-				1598497338, -- [1]
-				1598497338, -- [2]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236815"] = {
-		["deaths"] = {
-			[71] = {
-				1595391895, -- [1]
-			},
-			[69] = {
-				1595992697, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237516"] = {
-		["deaths"] = {
-			[261] = {
-				1597034612, -- [1]
-				1597636744, -- [2]
-				1597891568, -- [3]
-			},
-			[277] = {
-				1597285474, -- [1]
-			},
-			[293] = {
-				1597030097, -- [1]
-				1597286072, -- [2]
-			},
-			[325] = {
-				1597290980, -- [1]
-				1597292222, -- [2]
-			},
-			[203] = {
-				1597026477, -- [1]
-			},
-			[421] = {
-				1597292222, -- [1]
-				1597635077, -- [2]
-			},
-			[59] = {
-				1597026477, -- [1]
-				1597033330, -- [2]
-			},
-			[485] = {
-				1597032269, -- [1]
-				1597288226, -- [2]
-			},
-			[262] = {
-				1597636744, -- [1]
-			},
-			[278] = {
-				1597891100, -- [1]
-			},
-			[310] = {
-				1597290980, -- [1]
-			},
-			[82] = {
-				1597637317, -- [1]
-			},
-			[714] = {
-				1597895381, -- [1]
-				1597895381, -- [2]
-			},
-			[374] = {
-				1597035504, -- [1]
-			},
-			[98] = {
-				1597029427, -- [1]
-			},
-			[102] = {
-				1597029427, -- [1]
-			},
-			[106] = {
-				1597289307, -- [1]
-				1597639894, -- [2]
-			},
-			[110] = {
-				1597638726, -- [1]
-			},
-			[454] = {
-				1597028932, -- [1]
-				1597028932, -- [2]
-				1597028932, -- [3]
-			},
-			[118] = {
-				1597027380, -- [1]
-				1597033957, -- [2]
-				1597033957, -- [3]
-				1597035504, -- [4]
-			},
-			[502] = {
-				1597294058, -- [1]
-			},
-			[263] = {
-				1597285474, -- [1]
-				1597636744, -- [2]
-			},
-			[140] = {
-				1597287022, -- [1]
-				1597636388, -- [2]
-			},
-			[311] = {
-				1597030097, -- [1]
-				1597030097, -- [2]
-				1597632997, -- [3]
-			},
-			[164] = {
-				1597025803, -- [1]
-			},
-			[343] = {
-				1597891100, -- [1]
-			},
-			[196] = {
-				1599359810, -- [1]
-			},
-			[439] = {
-				1597026477, -- [1]
-				1597026477, -- [2]
-			},
-			[455] = {
-				1597640535, -- [1]
-			},
-			[471] = {
-				1597033957, -- [1]
-				1597294973, -- [2]
-				1597639894, -- [3]
-			},
-			[487] = {
-				1597032269, -- [1]
-			},
-			[312] = {
-				1597892165, -- [1]
-			},
-			[328] = {
-				1597291583, -- [1]
-				1599360595, -- [2]
-			},
-			[344] = {
-				1597028315, -- [1]
-			},
-			[392] = {
-				1597637892, -- [1]
-			},
-			[408] = {
-				1597637892, -- [1]
-			},
-			[472] = {
-				1597286693, -- [1]
-				1597286693, -- [2]
-				1597286693, -- [3]
-			},
-			[488] = {
-				1597893370, -- [1]
-				1599361999, -- [2]
-			},
-			[141] = {
-				1597890543, -- [1]
-			},
-			[149] = {
-				1597032269, -- [1]
-				1599361216, -- [2]
-				1599361216, -- [3]
-				1599361216, -- [4]
-			},
-			[157] = {
-				1597288526, -- [1]
-			},
-			[329] = {
-				1597632997, -- [1]
-				1597892648, -- [2]
-				1597892648, -- [3]
-			},
-			[361] = {
-				1597028315, -- [1]
-			},
-			[393] = {
-				1597637892, -- [1]
-			},
-			[657] = {
-				1599362747, -- [1]
-			},
-			[473] = {
-				1597294973, -- [1]
-			},
-			[489] = {
-				1597639894, -- [1]
-				1597892165, -- [2]
-				1597895381, -- [3]
-			},
-			[253] = {
-				1597636744, -- [1]
-			},
-			[266] = {
-				1597290054, -- [1]
-			},
-			[71] = {
-				1597634455, -- [1]
-			},
-			[298] = {
-				1597632997, -- [1]
-				1597632997, -- [2]
-			},
-			[314] = {
-				1599359810, -- [1]
-			},
-			[330] = {
-				1597636125, -- [1]
-			},
-			[87] = {
-				1597029427, -- [1]
-			},
-			[394] = {
-				1597288226, -- [1]
-				1597895381, -- [2]
-			},
-			[111] = {
-				1597289307, -- [1]
-			},
-			[115] = {
-				1597029188, -- [1]
-			},
-			[119] = {
-				1597287022, -- [1]
-				1597290054, -- [2]
-				1597294973, -- [3]
-			},
-			[490] = {
-				1597031470, -- [1]
-				1597031470, -- [2]
-				1597892165, -- [3]
-				1597892165, -- [4]
-			},
 			[127] = {
-				1597290980, -- [1]
-				1597292506, -- [2]
-				1597634455, -- [3]
-				1597638726, -- [4]
-			},
-			[267] = {
-				1597290054, -- [1]
-			},
-			[283] = {
-				1597639894, -- [1]
-			},
-			[315] = {
-				1597290980, -- [1]
-			},
-			[331] = {
-				1597032269, -- [1]
-				1597033330, -- [2]
-			},
-			[174] = {
-				1597639292, -- [1]
-			},
-			[13] = {
-				1599361999, -- [1]
-			},
-			[14] = {
-				1599360972, -- [1]
-				1599362747, -- [2]
-			},
-			[230] = {
-				1597289307, -- [1]
-			},
-			[238] = {
-				1597035504, -- [1]
-			},
-			[254] = {
-				1597894183, -- [1]
-			},
-			[300] = {
-				1597034612, -- [1]
-				1597035504, -- [2]
-				1597286072, -- [3]
-				1597891568, -- [4]
-			},
-			[332] = {
-				1597290503, -- [1]
-				1597290503, -- [2]
-				1597635077, -- [3]
-			},
-			[348] = {
-				1597286072, -- [1]
-			},
-			[23] = {
-				1599359226, -- [1]
-			},
-			[444] = {
-				1597288226, -- [1]
-				1597292222, -- [2]
-			},
-			[460] = {
-				1597635668, -- [1]
-			},
-			[476] = {
-				1597639894, -- [1]
-			},
-			[285] = {
-				1597026477, -- [1]
-			},
-			[301] = {
-				1597294058, -- [1]
-			},
-			[159] = {
-				1597637317, -- [1]
-			},
-			[333] = {
-				1597032836, -- [1]
-				1597286072, -- [2]
-				1597294973, -- [3]
-				1597891100, -- [4]
-			},
-			[349] = {
-				1597287609, -- [1]
-				1597635077, -- [2]
-			},
-			[199] = {
-				1597030097, -- [1]
-			},
-			[413] = {
-				1597637892, -- [1]
-			},
-			[445] = {
-				1597291583, -- [1]
-				1597890543, -- [2]
-			},
-			[58] = {
-				1597034612, -- [1]
-			},
-			[60] = {
-				1597027147, -- [1]
-			},
-			[255] = {
-				1597636744, -- [1]
-			},
-			[286] = {
-				1597640535, -- [1]
-			},
-			[302] = {
-				1597035504, -- [1]
-				1597892648, -- [2]
-			},
-			[334] = {
-				1597290503, -- [1]
-				1597292222, -- [2]
-			},
-			[350] = {
-				1597634208, -- [1]
-			},
-			[382] = {
-				1597894183, -- [1]
-			},
-			[398] = {
-				1597031470, -- [1]
-			},
-			[104] = {
-				1597029427, -- [1]
-			},
-			[462] = {
-				1597032269, -- [1]
-				1597287609, -- [2]
-				1597633614, -- [3]
-				1599362747, -- [4]
-			},
-			[120] = {
-				1597285474, -- [1]
-			},
-			[494] = {
-				1599361999, -- [1]
-			},
-			[128] = {
-				1597029188, -- [1]
-			},
-			[271] = {
-				1597027147, -- [1]
-				1597288889, -- [2]
-				1597290054, -- [3]
-			},
-			[144] = {
-				1597292506, -- [1]
-				1597891100, -- [2]
-			},
-			[152] = {
-				1597285474, -- [1]
-			},
-			[160] = {
-				1597027678, -- [1]
-				1597636388, -- [2]
-				1597637317, -- [3]
-				1597638189, -- [4]
-				1597638189, -- [5]
-				1597638189, -- [6]
-				1597638189, -- [7]
-				1597638462, -- [8]
-			},
-			[335] = {
-				1597287609, -- [1]
-			},
-			[176] = {
-				1597639292, -- [1]
-				1597639292, -- [2]
-			},
-			[208] = {
-				1597032836, -- [1]
-			},
-			[431] = {
-				1597291583, -- [1]
-			},
-			[652] = {
-				1599362747, -- [1]
-			},
-			[505] = {
-				1599361999, -- [1]
-			},
-			[10] = {
-				1599361216, -- [1]
-				1599362747, -- [2]
-			},
-			[9] = {
-				1599359226, -- [1]
-				1599359810, -- [2]
-				1599360972, -- [3]
-				1599361999, -- [4]
-			},
-			[256] = {
-				1597027147, -- [1]
-				1597890543, -- [2]
-			},
-			[272] = {
-				1597289307, -- [1]
-				1597636125, -- [2]
-				1597891100, -- [3]
-			},
-			[524] = {
-				1599360595, -- [1]
-			},
-			[42] = {
-				1599360595, -- [1]
-			},
-			[320] = {
-				1597290980, -- [1]
-			},
-			[8] = {
-				1599360595, -- [1]
-				1599361216, -- [2]
-			},
-			[297] = {
-				1599359810, -- [1]
-			},
-			[51] = {
-				1599359810, -- [1]
-			},
-			[384] = {
-				1597028315, -- [1]
-				1597894183, -- [2]
-			},
-			[400] = {
-				1597294058, -- [1]
-			},
-			[416] = {
-				1597288226, -- [1]
-				1597635668, -- [2]
-				1597637892, -- [3]
-			},
-			[432] = {
-				1597633614, -- [1]
-			},
-			[239] = {
-				1599359226, -- [1]
-			},
-			[464] = {
-				1597291583, -- [1]
-				1597291583, -- [2]
-			},
-			[273] = {
-				1597289307, -- [1]
-			},
-			[496] = {
-				1597893370, -- [1]
-			},
-			[257] = {
-				1597287609, -- [1]
-			},
-			[137] = {
-				1597029188, -- [1]
-			},
-			[289] = {
-				1599360972, -- [1]
-			},
-			[153] = {
-				1597635077, -- [1]
-			},
-			[161] = {
-				1597025803, -- [1]
-				1597025803, -- [2]
-				1597027678, -- [3]
-				1597034923, -- [4]
-				1597034923, -- [5]
-				1597288526, -- [6]
-				1597636388, -- [7]
-				1597637317, -- [8]
-				1597638462, -- [9]
-			},
-			[474] = {
-				1597033957, -- [1]
-				1597286693, -- [2]
-				1597294058, -- [3]
-			},
-			[177] = {
-				1597639292, -- [1]
-			},
-			[163] = {
-				1597034923, -- [1]
-				1597034923, -- [2]
-				1597292506, -- [3]
-				1597638462, -- [4]
-				1597638462, -- [5]
-				1597638462, -- [6]
-			},
-			[116] = {
-				1597891568, -- [1]
-			},
-			[401] = {
-				1597294058, -- [1]
-			},
-			[209] = {
-				1597285474, -- [1]
-				1597891568, -- [2]
-			},
-			[287] = {
-				1597640535, -- [1]
-				1599360972, -- [2]
-				1599360972, -- [3]
-			},
-			[449] = {
-				1597028315, -- [1]
-			},
-			[465] = {
-				1597892165, -- [1]
-				1597893370, -- [2]
-			},
-			[175] = {
-				1597639292, -- [1]
-			},
-			[249] = {
-				1597027147, -- [1]
-			},
-			[258] = {
-				1597290503, -- [1]
-			},
-			[546] = {
-				1597031470, -- [1]
-				1597031470, -- [2]
-			},
-			[78] = {
-				1597635668, -- [1]
-			},
-			[306] = {
-				1597292222, -- [1]
-			},
-			[322] = {
-				1597033330, -- [1]
-			},
-			[327] = {
-				1597636125, -- [1]
-				1597892648, -- [2]
-				1597894183, -- [3]
-				1599359226, -- [4]
-			},
-			[319] = {
-				1597636125, -- [1]
-			},
-			[386] = {
-				1597640535, -- [1]
-			},
-			[97] = {
-				1597029427, -- [1]
-			},
-			[303] = {
-				1597636125, -- [1]
-			},
-			[105] = {
-				1599359226, -- [1]
-			},
-			[117] = {
-				1597634455, -- [1]
-				1597637317, -- [2]
-				1597638726, -- [3]
-			},
-			[113] = {
-				1597292506, -- [1]
-				1597638726, -- [2]
-			},
-			[466] = {
-				1597890543, -- [1]
-			},
-			[146] = {
-				1597894183, -- [1]
-			},
-			[125] = {
-				1597638726, -- [1]
-			},
-			[259] = {
-				1597892648, -- [1]
-			},
-			[275] = {
-				1597288889, -- [1]
-				1597288889, -- [2]
-				1597290503, -- [3]
-			},
-			[291] = {
-				1597634208, -- [1]
-				1597891568, -- [2]
-			},
-			[307] = {
-				1597033330, -- [1]
-			},
-			[162] = {
-				1597025803, -- [1]
-				1597025803, -- [2]
-				1597027678, -- [3]
-				1597027678, -- [4]
-				1597027678, -- [5]
-				1597034923, -- [6]
-				1597287022, -- [7]
-				1597287022, -- [8]
-				1597287022, -- [9]
-				1597292506, -- [10]
-				1597636388, -- [11]
-				1597636388, -- [12]
-			},
-			[339] = {
-				1597286072, -- [1]
-			},
-			[355] = {
-				1597034612, -- [1]
-			},
-			[126] = {
-				1597027380, -- [1]
-				1597027380, -- [2]
-				1597027380, -- [3]
-				1597027380, -- [4]
-				1597288526, -- [5]
-			},
-			[132] = {
-				1597634455, -- [1]
-				1597634455, -- [2]
-			},
-			[154] = {
-				1597027147, -- [1]
-			},
-			[136] = {
-				1597029188, -- [1]
-				1597029188, -- [2]
-			},
-			[274] = {
-				1597033957, -- [1]
-				1597288889, -- [2]
-			},
-			[451] = {
-				1597028932, -- [1]
-			},
-			[405] = {
-				1597634208, -- [1]
-				1597634208, -- [2]
-			},
-			[158] = {
-				1597288526, -- [1]
-				1597288526, -- [2]
-				1597638189, -- [3]
-			},
-			[390] = {
-				1597634208, -- [1]
-			},
-			[469] = {
-				1597286693, -- [1]
-				1597893370, -- [2]
-			},
-			[276] = {
-				1597288889, -- [1]
-			},
-			[346] = {
-				1597294973, -- [1]
-			},
-			[308] = {
-				1597030097, -- [1]
-				1597632997, -- [2]
-			},
-			[324] = {
-				1597033330, -- [1]
-			},
-			[129] = {
-				1597034612, -- [1]
-			},
-			[461] = {
-				1597633614, -- [1]
-				1597633614, -- [2]
-				1597640535, -- [3]
-				1599360595, -- [4]
-			},
-			[397] = {
-				1597032836, -- [1]
-				1597032836, -- [2]
-				1597032836, -- [3]
-			},
-			[422] = {
-				1597635077, -- [1]
-			},
-			[442] = {
-				1597028932, -- [1]
-			},
-			[420] = {
-				1597288226, -- [1]
-			},
-			[436] = {
-				1597635668, -- [1]
-				1597635668, -- [2]
-			},
-			[452] = {
-				1597028315, -- [1]
-				1597633614, -- [2]
-			},
-			[468] = {
-				1597287609, -- [1]
-				1597890543, -- [2]
-				1597893370, -- [3]
-			},
-			[711] = {
-				1597895381, -- [1]
-			},
-			[151] = {
-				1597290054, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236716"] = {
-		["deaths"] = {
-			[120] = {
-				1598501492, -- [1]
-			},
-			[130] = {
-				1598501180, -- [1]
+				1599356999, -- [1]
 			},
 			[124] = {
-				1598501492, -- [1]
-				1598501492, -- [2]
+				1599356999, -- [1]
 			},
-			[131] = {
-				1598501180, -- [1]
-				1598501180, -- [2]
-				1598501180, -- [3]
-				1598501180, -- [4]
+			[93] = {
+				1599356999, -- [1]
 			},
-			[86] = {
-				1599367721, -- [1]
+			[128] = {
+				1599356999, -- [1]
 			},
-			[159] = {
-				1598501492, -- [1]
-			},
-			[91] = {
-				1598501492, -- [1]
-			},
-			[154] = {
-				1599367721, -- [1]
+			[182] = {
+				1598496340, -- [1]
+				1598496340, -- [2]
 			},
 		},
 		["spells"] = {
@@ -15483,452 +19553,6 @@ DeathGraphsDBGraph = {
 			},
 			[106] = {
 				1595393503, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237515"] = {
-		["deaths"] = {
-			[57] = {
-				1595395028, -- [1]
-			},
-			[37] = {
-				1595395028, -- [1]
-			},
-			[334] = {
-				1595395028, -- [1]
-			},
-			[356] = {
-				1595395028, -- [1]
-			},
-			[16] = {
-				1595995686, -- [1]
-			},
-			[69] = {
-				1595995686, -- [1]
-			},
-			[331] = {
-				1595395028, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237416"] = {
-		["deaths"] = {
-			[161] = {
-				1595651689, -- [1]
-				1595651689, -- [2]
-				1595651689, -- [3]
-			},
-			[7] = {
-				1595651689, -- [1]
-				1595652584, -- [2]
-				1599369154, -- [3]
-			},
-			[278] = {
-				1595652202, -- [1]
-			},
-			[279] = {
-				1595652202, -- [1]
-			},
-			[123] = {
-				1595651689, -- [1]
-			},
-			[386] = {
-				1595652202, -- [1]
-				1595652202, -- [2]
-			},
-			[343] = {
-				1598503658, -- [1]
-				1598503658, -- [2]
-				1598503658, -- [3]
-			},
-			[140] = {
-				1598503658, -- [1]
-				1598503658, -- [2]
-			},
-			[19] = {
-				1595653120, -- [1]
-			},
-			[23] = {
-				1599369154, -- [1]
-			},
-			[11] = {
-				1595652202, -- [1]
-			},
-			[249] = {
-				1595652584, -- [1]
-				1595652584, -- [2]
-				1595652584, -- [3]
-				1595652584, -- [4]
-			},
-			[235] = {
-				1599369154, -- [1]
-			},
-			[398] = {
-				1595653120, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237316"] = {
-		["deaths"] = {
-			[64] = {
-				1599368506, -- [1]
-			},
-			[417] = {
-				1598502458, -- [1]
-			},
-			[253] = {
-				1598502458, -- [1]
-			},
-			[307] = {
-				1598502458, -- [1]
-			},
-			[96] = {
-				1599368506, -- [1]
-			},
-			[358] = {
-				1598502458, -- [1]
-			},
-			[69] = {
-				1599368506, -- [1]
-				1599368506, -- [2]
-			},
-			[143] = {
-				1599368506, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236416"] = {
-		["deaths"] = {
-			[149] = {
-				1599365543, -- [1]
-			},
-			[181] = {
-				1598500267, -- [1]
-			},
-			[151] = {
-				1598500267, -- [1]
-			},
-			[77] = {
-				1598499080, -- [1]
-			},
-			[47] = {
-				1598499978, -- [1]
-				1598499978, -- [2]
-				1598499978, -- [3]
-				1598499978, -- [4]
-			},
-			[16] = {
-				1599363891, -- [1]
-				1599363891, -- [2]
-				1599365279, -- [3]
-			},
-			[94] = {
-				1598499080, -- [1]
-			},
-			[28] = {
-				1599365279, -- [1]
-			},
-			[32] = {
-				1598498415, -- [1]
-			},
-			[40] = {
-				1598498879, -- [1]
-				1598498879, -- [2]
-				1598498879, -- [3]
-				1599365279, -- [4]
-			},
-			[190] = {
-				1598500267, -- [1]
-			},
-			[41] = {
-				1599364495, -- [1]
-			},
-			[49] = {
-				1599365279, -- [1]
-			},
-			[57] = {
-				1599364152, -- [1]
-			},
-			[17] = {
-				1599364996, -- [1]
-				1599365543, -- [2]
-			},
-			[29] = {
-				1598499978, -- [1]
-				1599364676, -- [2]
-			},
-			[34] = {
-				1598498415, -- [1]
-				1598498415, -- [2]
-				1599364996, -- [3]
-				1599365543, -- [4]
-			},
-			[50] = {
-				1599365543, -- [1]
-			},
-			[35] = {
-				1599363891, -- [1]
-			},
-			[43] = {
-				1599364152, -- [1]
-				1599364495, -- [2]
-				1599364495, -- [3]
-			},
-			[200] = {
-				1598500267, -- [1]
-			},
-			[18] = {
-				1599364676, -- [1]
-			},
-			[102] = {
-				1598499764, -- [1]
-				1598499764, -- [2]
-				1598499764, -- [3]
-				1598499764, -- [4]
-				1598499764, -- [5]
-				1599364495, -- [6]
-			},
-			[30] = {
-				1598498415, -- [1]
-				1598500267, -- [2]
-				1599364495, -- [3]
-			},
-			[36] = {
-				1599363891, -- [1]
-				1599363891, -- [2]
-			},
-			[44] = {
-				1599364152, -- [1]
-			},
-			[119] = {
-				1599364996, -- [1]
-			},
-			[108] = {
-				1599364996, -- [1]
-			},
-			[23] = {
-				1599364676, -- [1]
-				1599364676, -- [2]
-				1599364676, -- [3]
-			},
-			[39] = {
-				1598498879, -- [1]
-			},
-			[37] = {
-				1598498879, -- [1]
-			},
-			[45] = {
-				1598498415, -- [1]
-			},
-			[53] = {
-				1598499080, -- [1]
-				1598499080, -- [2]
-			},
-			[93] = {
-				1599364996, -- [1]
-			},
-			[89] = {
-				1599365279, -- [1]
-			},
-			[90] = {
-				1598499080, -- [1]
-				1599364152, -- [2]
-				1599364152, -- [3]
-			},
-			[136] = {
-				1599365543, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236516"] = {
-		["deaths"] = {
-			[127] = {
-				1599356999, -- [1]
-			},
-			[124] = {
-				1599356999, -- [1]
-			},
-			[93] = {
-				1599356999, -- [1]
-			},
-			[182] = {
-				1598496340, -- [1]
-				1598496340, -- [2]
-			},
-			[128] = {
-				1599356999, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236816"] = {
-		["deaths"] = {
-			[275] = {
-				1598494785, -- [1]
-			},
-			[276] = {
-				1598494785, -- [1]
-			},
-			[30] = {
-				1598493867, -- [1]
-			},
-			[16] = {
-				1598493867, -- [1]
-			},
-			[9] = {
-				1598493867, -- [1]
-			},
-			[31] = {
-				1598493867, -- [1]
-			},
-			[143] = {
-				1599355999, -- [1]
-			},
-			[134] = {
-				1599355999, -- [1]
-			},
-			[21] = {
-				1598493867, -- [1]
-			},
-			[242] = {
-				1598494785, -- [1]
-			},
-			[274] = {
-				1598494785, -- [1]
-				1598494785, -- [2]
-			},
-			[128] = {
-				1599355999, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["236615"] = {
-		["deaths"] = {
-			[302] = {
-				1595994909, -- [1]
-			},
-			[192] = {
-				1595394296, -- [1]
-			},
-			[307] = {
-				1595994909, -- [1]
-			},
-			[322] = {
-				1595394296, -- [1]
-			},
-			[365] = {
-				1595394296, -- [1]
-				1595394296, -- [2]
-			},
-			[303] = {
-				1595994909, -- [1]
-			},
-			[279] = {
-				1595994909, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237215"] = {
-		["deaths"] = {
-			[131] = {
-				1595392988, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237016"] = {
-		["deaths"] = {
-			[85] = {
-				1599366978, -- [1]
-			},
-			[101] = {
-				1599366978, -- [1]
-			},
-			[169] = {
-				1599366978, -- [1]
-				1599366978, -- [2]
-			},
-			[60] = {
-				1599366978, -- [1]
-			},
-			[43] = {
-				1599367274, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
-	["237716"] = {
-		["deaths"] = {
-			[46] = {
-				1599366009, -- [1]
-				1599366009, -- [2]
-			},
-			[37] = {
-				1599366009, -- [1]
-				1599366249, -- [2]
-			},
-			[2] = {
-				1599366249, -- [1]
-			},
-			[4] = {
-				1599366249, -- [1]
-				1599366512, -- [2]
-			},
-			[60] = {
-				1599366249, -- [1]
-			},
-			[142] = {
-				1599366249, -- [1]
-			},
-			[45] = {
-				1599366009, -- [1]
-				1599366009, -- [2]
-			},
-			[6] = {
-				1599366512, -- [1]
-			},
-			[155] = {
-				1599366512, -- [1]
-			},
-			[213] = {
-				1599366512, -- [1]
 			},
 		},
 		["spells"] = {
