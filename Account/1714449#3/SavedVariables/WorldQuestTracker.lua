@@ -221,26 +221,6 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945E6"] = {
-					[51044] = {
-						["expireAt"] = 1599663679,
-						["rewardAmount"] = "5",
-						["rewardTexture"] = 2065568,
-					},
-					[55344] = {
-						["expireAt"] = 1599663679,
-						["rewardAmount"] = 169,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[50850] = {
-						["expireAt"] = 1599663679,
-						["rewardAmount"] = 286,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[51636] = {
-						["expireAt"] = 1599663679,
-						["rewardAmount"] = 193,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
 				},
 				["Player-3676-0AD945D6"] = {
 				},
@@ -258,6 +238,68 @@ WQTrackerDB = {
 				},
 			},
 			["rarescan"] = {
+				["recently_spotted"] = {
+					[141668] = {
+						1599798742, -- [1]
+						14, -- [2]
+						0.5730675458908081, -- [3]
+						0.3594067096710205, -- [4]
+						"Creature-0-3883-0-27678-141668-00005AF9B7", -- [5]
+						"Echo of Myzrael", -- [6]
+						"Kegigoth", -- [7]
+						1599798742, -- [8]
+					},
+					[127096] = {
+						1599798624, -- [1]
+						885, -- [2]
+						0.7194375395774841, -- [3]
+						0.5818445682525635, -- [4]
+						"Creature-0-0000-0000-00000-127096-0000000000", -- [5]
+						"All-Seer Xanarian", -- [6]
+						"Doublehitt", -- [7]
+						1599798624, -- [8]
+					},
+					[141615] = {
+						1599798685, -- [1]
+						634, -- [2]
+						0.2776543498039246, -- [3]
+						0.4607418775558472, -- [4]
+						"Creature-0-0000-0000-00000-141615-0000000000", -- [5]
+						"Burning Goliath", -- [6]
+						"Kegigoth", -- [7]
+						1599798685, -- [8]
+					},
+					[126208] = {
+						1599798646, -- [1]
+						885, -- [2]
+						0.6242697834968567, -- [3]
+						0.5735760927200317, -- [4]
+						"Creature-0-0000-0000-00000-126208-0000000000", -- [5]
+						"Varga", -- [6]
+						"Doublehitt", -- [7]
+						1599798646, -- [8]
+					},
+					[126338] = {
+						1599798656, -- [1]
+						864, -- [2]
+						0.5817980170249939, -- [3]
+						0.5734838843345642, -- [4]
+						"Creature-0-0000-0000-00000-126338-0000000000", -- [5]
+						"Señor de cólera Yarez", -- [6]
+						"Doublehitt", -- [7]
+						1599798656, -- [8]
+					},
+					[126946] = {
+						1599798656, -- [1]
+						885, -- [2]
+						0.5817980170249939, -- [3]
+						0.5734838843345642, -- [4]
+						"Creature-0-0000-0000-00000-126946-0000000000", -- [5]
+						"Inquisitor Vethroz", -- [6]
+						"Doublehitt", -- [7]
+						1599798656, -- [8]
+					},
+				},
 				["recently_killed"] = {
 					["Player-3676-0AD945E6"] = {
 					},
@@ -288,8 +330,10 @@ WQTrackerDB = {
 					["Thundering Goliath"] = 141616,
 					["Malfunctioning Beastbot"] = 151933,
 					["Umbra'jin"] = 122004,
+					["Echo of Myzrael"] = 141668,
 					["Void Warden Valsuran"] = 127300,
 					["Mistress Il'thendra"] = 122947,
+					["Señor de cólera Yarez"] = 126338,
 					["Goldenvein"] = 140769,
 					["High Warlord Volrath"] = 143536,
 					["Mechagonian Nullifier"] = 151124,

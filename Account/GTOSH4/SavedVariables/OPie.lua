@@ -6,6 +6,9 @@ OneRing_Config = {
 	["_OPieVersion"] = "Walnut 6 (3.101)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 			["Bindings"] = {
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
@@ -14,13 +17,10 @@ OneRing_Config = {
 				["RaidSymbols"] = false,
 				["TrinketSlots"] = false,
 				["WorldMarkers"] = "ALT-R",
-				["OPieTracking"] = false,
-				["OPieAutoQuest"] = "ALT-G",
-				["PaladinAuras"] = false,
 				["DruidFeral"] = false,
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["PaladinAuras"] = false,
+				["OPieAutoQuest"] = "ALT-G",
+				["OPieTracking"] = false,
 			},
 		},
 	},
@@ -101,8 +101,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 		},
 	},

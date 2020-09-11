@@ -7,7 +7,7 @@ VWQL = {
 	["DisableArrow"] = true,
 	["AzeriteFormat"] = 20,
 	["Yorman-Kil'jaeden"] = {
-		["Filter"] = 63,
+		["VERSION"] = 92,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -18,21 +18,21 @@ VWQL = {
 			[51475] = true,
 			[52923] = true,
 		},
-		["VERSION"] = 92,
+		["Filter"] = 63,
 	},
 	["Toshlongboyr-Eldre'Thalas"] = {
-		["VERSION"] = 92,
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
 		},
-		["Filter"] = 63,
+		["VERSION"] = 92,
 	},
 	["SortPrio"] = {
 	},
 	["Ignore"] = {
 	},
-	["Toshlongboy-Eldre'Thalas"] = {
+	["Yelluwuy-Area52"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
 		["RegularQuestMode"] = true,
@@ -42,7 +42,8 @@ VWQL = {
 		},
 	},
 	["Toshpriest-Area52"] = {
-		["VERSION"] = 92,
+		["FilterType"] = {
+		},
 		["Filter"] = 63,
 		["Quests"] = {
 			[51113] = true,
@@ -67,50 +68,34 @@ VWQL = {
 			[51581] = true,
 			[52278] = true,
 			[55304] = true,
-			[50861] = true,
-			[52875] = true,
+			[55466] = true,
+			[52056] = true,
 			[50648] = true,
-			[52864] = true,
-			[51422] = true,
+			[50570] = true,
+			[51296] = true,
 			[51095] = true,
 			[51174] = true,
 			[51666] = true,
 			[52298] = true,
 			[50850] = true,
 			[50853] = true,
-			[51296] = true,
-			[50570] = true,
-			[52056] = true,
-			[55466] = true,
+			[51422] = true,
+			[52864] = true,
+			[52875] = true,
+			[50861] = true,
 		},
-		["FilterType"] = {
-		},
-	},
-	["Toshaman-Area52"] = {
 		["VERSION"] = 92,
+	},
+	["Toshdk-Kil'jaeden"] = {
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
 		},
-		["Filter"] = 63,
-	},
-	["Toshpal-Area52"] = {
 		["VERSION"] = 92,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-			[52169] = true,
-			[50873] = true,
-			[58749] = true,
-			[58742] = true,
-			[51040] = true,
-			[55466] = true,
-			[50744] = true,
-		},
-		["Filter"] = 63,
 	},
 	["Toshdruid-Area52"] = {
-		["VERSION"] = 92,
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -137,10 +122,10 @@ VWQL = {
 			[51315] = true,
 			[50813] = true,
 			[54532] = true,
-			[55466] = true,
+			[51630] = true,
 			[54794] = true,
-			[52856] = true,
-			[54528] = true,
+			[50633] = true,
+			[52892] = true,
 			[50498] = true,
 			[52849] = true,
 			[49888] = true,
@@ -149,26 +134,41 @@ VWQL = {
 			[50652] = true,
 			[50559] = true,
 			[51412] = true,
-			[50744] = true,
 			[52238] = true,
+			[50744] = true,
 			[54505] = true,
 			[50853] = true,
 			[51044] = true,
-			[52892] = true,
-			[50633] = true,
-			[51630] = true,
+			[54528] = true,
+			[52856] = true,
+			[55466] = true,
 		},
-		["Filter"] = 63,
-	},
-	["Toshdk-Kil'jaeden"] = {
 		["VERSION"] = 92,
+	},
+	["Toshpal-Area52"] = {
+		["Filter"] = 63,
+		["FilterType"] = {
+		},
+		["Quests"] = {
+			[50744] = true,
+			[51040] = true,
+			[52169] = true,
+			[55466] = true,
+			[58742] = true,
+			[50873] = true,
+			[58749] = true,
+		},
+		["VERSION"] = 92,
+	},
+	["Toshaman-Area52"] = {
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
 		},
-		["Filter"] = 63,
+		["VERSION"] = 92,
 	},
-	["Yelluwuy-Area52"] = {
+	["Toshlongboy-Eldre'Thalas"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
 		["RegularQuestMode"] = true,

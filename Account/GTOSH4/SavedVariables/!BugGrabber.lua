@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 238,
 	["lastSanitation"] = 3,
-	["session"] = 237,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'MultiBarLeftButton1:Show()'.",
