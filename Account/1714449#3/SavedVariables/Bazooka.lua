@@ -22,10 +22,9 @@ BazookaDB = {
 						["bar"] = 2,
 						["pos"] = 2,
 					},
-					["Equipment"] = {
-						["useLabelAsTitle"] = false,
-						["area"] = "left",
-						["bar"] = 2,
+					["Difficulty"] = {
+						["showIcon"] = false,
+						["bar"] = 3,
 						["pos"] = 1,
 					},
 					["BugSack"] = {
@@ -33,9 +32,9 @@ BazookaDB = {
 						["bar"] = 4,
 						["pos"] = 1,
 					},
-					["SimulationCraft"] = {
+					["Details"] = {
 						["enabled"] = false,
-						["pos"] = 9,
+						["pos"] = 13,
 					},
 					["REFlex"] = {
 						["area"] = "left",
@@ -51,21 +50,22 @@ BazookaDB = {
 						["area"] = "left",
 						["pos"] = 1,
 					},
-					["Difficulty"] = {
-						["showIcon"] = false,
-						["bar"] = 3,
+					["Equipment"] = {
+						["useLabelAsTitle"] = false,
+						["area"] = "left",
+						["bar"] = 2,
 						["pos"] = 1,
 					},
-					["Talent Set Manager"] = {
-						["enabled"] = false,
-						["pos"] = 7,
+					["Volume"] = {
+						["pos"] = 1,
 					},
 					["DetailsStreamer"] = {
 						["enabled"] = false,
 						["pos"] = 14,
 					},
-					["Volume"] = {
-						["pos"] = 1,
+					["MythicDungeonTools"] = {
+						["enabled"] = false,
+						["pos"] = 8,
 					},
 					["Clock"] = {
 						["showValue"] = false,
@@ -74,13 +74,13 @@ BazookaDB = {
 						["bar"] = 4,
 						["pos"] = 1,
 					},
-					["MythicDungeonTools"] = {
+					["Talent Set Manager"] = {
 						["enabled"] = false,
-						["pos"] = 8,
+						["pos"] = 7,
 					},
-					["Details"] = {
+					["SimulationCraft"] = {
 						["enabled"] = false,
-						["pos"] = 13,
+						["pos"] = 9,
 					},
 					["AdiBags"] = {
 						["enabled"] = false,

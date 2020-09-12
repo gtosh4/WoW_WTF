@@ -138,12 +138,12 @@ TrufiGCDChSave = {
 	},
 	["TooltipSpellID"] = false,
 	["EnableIn"] = {
-		["World"] = false,
-		["Arena"] = true,
-		["Enable"] = true,
-		["Raid"] = true,
-		["Bg"] = true,
 		["PvE"] = true,
+		["Raid"] = true,
+		["Enable"] = true,
+		["Arena"] = true,
+		["Bg"] = true,
+		["World"] = false,
 	},
 	["TrGCDBL"] = {
 		6603, -- [1]

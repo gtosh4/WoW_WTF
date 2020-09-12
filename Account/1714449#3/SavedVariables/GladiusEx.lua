@@ -116,9 +116,9 @@ GladiusExDB = {
 		},
 		["party_Clicks"] = {
 		},
-		["party_Interrupts"] = {
-		},
 		["Announcements"] = {
+		},
+		["party_Interrupts"] = {
 		},
 		["Alerts"] = {
 		},
