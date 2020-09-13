@@ -22,6 +22,14 @@ CliqueDB3 = {
 			["spec2_profileKey"] = "Yorman - Kil'jaeden",
 			["specswap"] = false,
 		},
+		["Toshdk - Kil'jaeden"] = {
+			["spec1_profileKey"] = "Toshdk - Kil'jaeden",
+			["specswap"] = false,
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Toshdk - Kil'jaeden",
+			["spec3_profileKey"] = "Toshdk - Kil'jaeden",
+		},
 		["Toshdruid - Area 52"] = {
 			["spec1_profileKey"] = "Toshdruid - Area 52",
 			["spec2_profileKey"] = "Toshdruid - Area 52",
@@ -32,13 +40,13 @@ CliqueDB3 = {
 			["spec4_profileKey"] = "Toshdruid - Area 52",
 			["alerthidden"] = true,
 		},
-		["Toshdk - Kil'jaeden"] = {
-			["spec1_profileKey"] = "Toshdk - Kil'jaeden",
-			["specswap"] = false,
-			["downclick"] = false,
+		["Toshtoon - Barthilas"] = {
+			["spec1_profileKey"] = "Toshtoon - Barthilas",
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshdk - Kil'jaeden",
-			["spec3_profileKey"] = "Toshdk - Kil'jaeden",
+			["downclick"] = false,
+			["spec3_profileKey"] = "Toshtoon - Barthilas",
+			["spec2_profileKey"] = "Toshtoon - Barthilas",
+			["specswap"] = false,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["spec1_profileKey"] = "Toshlongboy - Eldre'Thalas",
@@ -50,25 +58,26 @@ CliqueDB3 = {
 		},
 		["Toshpal - Area 52"] = {
 			["spec1_profileKey"] = "Toshpal - Area 52",
-			["fastooc"] = false,
-			["spec3_profileKey"] = "Toshpal - Area 52",
-			["downclick"] = true,
 			["spec2_profileKey"] = "Toshpal - Area 52",
+			["downclick"] = true,
+			["fastooc"] = false,
 			["specswap"] = false,
+			["spec3_profileKey"] = "Toshpal - Area 52",
 		},
 	},
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
-		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshdruid - Area 52"] = "Toshpriest - Area 52",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
 		["Toshpal - Area 52"] = "Toshpriest - Area 52",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 	},
 	["profiles"] = {
-		["Toshpriest - Area 52"] = {
+		["Toshdk - Kil'jaeden"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -80,68 +89,58 @@ CliqueDB3 = {
 				}, -- [1]
 				{
 					["type"] = "menu",
-					["key"] = "ALT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "CTRL-BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [3]
-				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
 					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [4]
-				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "CTRL-SHIFT-BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [5]
-				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "ALT-BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [6]
-				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [7]
-				{
-					["macrotext"] = "/focus [@mouseover]",
-					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [8]
+				}, -- [2]
 			},
 		},
-		["Toshdk - Kil'jaeden"] = {
+		["Toshdruid - Area 52"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Toshtoon - Barthilas"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Toshpal - Area 52"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -155,44 +154,6 @@ CliqueDB3 = {
 			},
 		},
 		["Toshlongboyr - Eldre'Thalas"] = {
-			["bindings"] = {
-				{
-					["type"] = "target",
-					["sets"] = {
-						["default"] = true,
-					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Yelluwuy - Area 52"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Toshdruid - Area 52"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -230,6 +191,25 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
+		["Yelluwuy - Area 52"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["bindings"] = {
 				{
@@ -249,23 +229,71 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Toshpal - Area 52"] = {
+		["Toshpriest - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "CTRL-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
 				}, -- [2]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [3]
+				{
+					["type"] = "menu",
+					["key"] = "ALT-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [4]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "ALT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [5]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "SHIFT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [6]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "CTRL-SHIFT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [7]
+				{
+					["macrotext"] = "/focus [@mouseover]",
+					["type"] = "macro",
+					["key"] = "SHIFT-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [8]
 			},
 		},
 	},

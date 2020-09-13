@@ -34,6 +34,7 @@ Broker_Everything_CharacterDB = {
 		"Toshdruid-Area 52", -- [6]
 		"Toshlongboy-Eldre'Thalas", -- [7]
 		"Toshlongboyr-Eldre'Thalas", -- [8]
+		"Toshtoon-Barthilas", -- [9]
 	},
 	["Toshdruid-Area 52"] = {
 		["race"] = "Tauren",
@@ -49,12 +50,6 @@ Broker_Everything_CharacterDB = {
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["level"] = 120,
-		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -80,6 +75,20 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
+		["level"] = 120,
+		["gold"] = 10753845943,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+	},
+	["Toshtoon-Barthilas"] = {
+		["race"] = "Vulpera",
+		["name"] = "Toshtoon",
+		["faction"] = "Horde",
+		["orderId"] = 9,
+		["level"] = 20,
+		["class"] = "WARLOCK",
 	},
 	["Toshlongboy-Eldre'Thalas"] = {
 		["race"] = "Vulpera",
@@ -132,14 +141,15 @@ Broker_Everything_CharacterDB = {
 }
 Broker_Everything_AceDB = {
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Yelluwuy - Area 52"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshtoon - Barthilas"] = "Default",
 		["Toshpal - Area 52"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Yelluwuy - Area 52"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -151,11 +161,8 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -189,10 +196,13 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
 			["Equipment"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},

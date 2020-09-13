@@ -3,6 +3,7 @@ Postal3DB = {
 	["profileKeys"] = {
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
@@ -21,8 +22,9 @@ Postal3DB = {
 				"Toshlongboy|Eldre'Thalas|Horde|20|PRIEST", -- [5]
 				"Toshpal|Area 52|Horde|120|PALADIN", -- [6]
 				"Toshpriest|Area 52|Horde|120|PRIEST", -- [7]
-				"Yelluwuy|Area 52|Horde|1|PRIEST", -- [8]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [9]
+				"Toshtoon|Barthilas|Horde|20|WARLOCK", -- [8]
+				"Yelluwuy|Area 52|Horde|1|PRIEST", -- [9]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [10]
 			},
 		},
 	},
@@ -35,6 +37,8 @@ Postal3DB = {
 					"Toshpriest|Area 52|Horde", -- [1]
 				},
 			},
+		},
+		["Toshtoon - Barthilas"] = {
 		},
 		["Toshpal - Area 52"] = {
 			["BlackBook"] = {

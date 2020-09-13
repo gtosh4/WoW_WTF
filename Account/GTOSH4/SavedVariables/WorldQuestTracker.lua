@@ -3,6 +3,7 @@ WQTrackerDB = {
 	["profileKeys"] = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
+		["Toshtoon - Barthilas"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
@@ -228,6 +229,8 @@ WQTrackerDB = {
 				},
 				["Player-9-0A76FA3F"] = {
 				},
+				["Player-3723-0B8DAB0A"] = {
+				},
 				["Player-3676-0AD945E6"] = {
 				},
 				["Player-3676-0AD945D6"] = {
@@ -237,10 +240,80 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
+					[50497] = {
+						["expireAt"] = 1600038058,
+						["rewardAmount"] = 157,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
 					[55466] = {
 						["expireAt"] = 1600182050,
 						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50468] = {
+						["expireAt"] = 1600009258,
+						["rewardAmount"] = 305,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[46111] = {
+						["expireAt"] = 1600009284,
+						["rewardAmount"] = "17",
+						["rewardTexture"] = 413584,
+					},
+					[45988] = {
+						["expireAt"] = 1599974664,
+						["rewardAmount"] = "|cffc557FF176",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
+					},
+					[52937] = {
+						["expireAt"] = 1600009289,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 667492,
+					},
+					[50518] = {
+						["expireAt"] = 1600009258,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[52923] = {
+						["expireAt"] = 1600052489,
+						["rewardAmount"] = 222,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[54236] = {
+						["expireAt"] = 1600009258,
+						["rewardAmount"] = 368,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51064] = {
+						["expireAt"] = 1600009258,
+						["rewardAmount"] = 237,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50718] = {
+						["expireAt"] = 1600009258,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[50570] = {
+						["expireAt"] = 1600052458,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
+					},
+					[46198] = {
+						["expireAt"] = 1600026504,
+						["rewardAmount"] = "|cffc557FF184",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[46761] = {
+						["expireAt"] = 1600052424,
+						["rewardAmount"] = "8",
+						["rewardTexture"] = 1417744,
+					},
+					[46066] = {
+						["expireAt"] = 1600009224,
+						["rewardAmount"] = "8",
+						["rewardTexture"] = 1417744,
 					},
 				},
 				["Player-3676-0AD945E6"] = {
@@ -356,6 +429,11 @@ WQTrackerDB = {
 					["name"] = "Yorman",
 					["realm"] = "Kil'jaeden",
 				},
+				["Player-3723-0B8DAB0A"] = {
+					["class"] = "WARLOCK",
+					["name"] = "Toshtoon",
+					["realm"] = "Barthilas",
+				},
 				["Player-3676-0AD945E6"] = {
 					["class"] = "PRIEST",
 					["name"] = "Toshpriest",
@@ -381,10 +459,10 @@ WQTrackerDB = {
 						[55359] = 1,
 						[57146] = 1,
 						[55358] = 1,
-						[56090] = 1,
+						[56180] = 1,
 						[51043] = 1,
 						[52421] = 1,
-						[56180] = 1,
+						[56090] = 1,
 					},
 					["character"] = {
 						["Player-3676-0AD8DD4D"] = {

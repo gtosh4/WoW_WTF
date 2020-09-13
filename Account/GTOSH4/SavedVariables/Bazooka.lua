@@ -5,14 +5,15 @@ BazookaDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Yelluwuy - Area 52"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshtoon - Barthilas"] = "Default",
 		["Toshpal - Area 52"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Yelluwuy - Area 52"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -28,10 +29,9 @@ BazookaDB = {
 						["bar"] = 2,
 						["pos"] = 2,
 					},
-					["Equipment"] = {
-						["useLabelAsTitle"] = false,
-						["area"] = "left",
-						["bar"] = 2,
+					["Difficulty"] = {
+						["showIcon"] = false,
+						["bar"] = 3,
 						["pos"] = 1,
 					},
 					["BugSack"] = {
@@ -39,9 +39,9 @@ BazookaDB = {
 						["bar"] = 4,
 						["pos"] = 1,
 					},
-					["SimulationCraft"] = {
+					["Details"] = {
 						["enabled"] = false,
-						["pos"] = 9,
+						["pos"] = 13,
 					},
 					["REFlex"] = {
 						["area"] = "left",
@@ -57,21 +57,23 @@ BazookaDB = {
 						["area"] = "left",
 						["pos"] = 1,
 					},
-					["Difficulty"] = {
-						["showIcon"] = false,
-						["bar"] = 3,
+					["Equipment"] = {
+						["useLabelAsTitle"] = false,
+						["area"] = "left",
+						["bar"] = 2,
 						["pos"] = 1,
 					},
-					["Volume"] = {
-						["pos"] = 1,
+					["MythicDungeonTools"] = {
+						["enabled"] = false,
+						["pos"] = 8,
 					},
 					["DetailsStreamer"] = {
 						["enabled"] = false,
 						["pos"] = 14,
 					},
-					["MythicDungeonTools"] = {
+					["Talent Set Manager"] = {
 						["enabled"] = false,
-						["pos"] = 8,
+						["pos"] = 7,
 					},
 					["Clock"] = {
 						["showValue"] = false,
@@ -80,13 +82,12 @@ BazookaDB = {
 						["bar"] = 4,
 						["pos"] = 1,
 					},
-					["Talent Set Manager"] = {
-						["enabled"] = false,
-						["pos"] = 7,
+					["Volume"] = {
+						["pos"] = 1,
 					},
-					["Details"] = {
+					["SimulationCraft"] = {
 						["enabled"] = false,
-						["pos"] = 13,
+						["pos"] = 9,
 					},
 					["AdiBags"] = {
 						["enabled"] = false,

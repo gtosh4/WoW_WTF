@@ -3,9 +3,10 @@ SimulationCraftDB = {
 	["profileKeys"] = {
 		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -14,6 +15,8 @@ SimulationCraftDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
+		["Toshlongboy - Eldre'Thalas"] = {
+		},
 		["Yelluwuy - Area 52"] = {
 		},
 		["Toshdruid - Area 52"] = {
@@ -21,7 +24,7 @@ SimulationCraftDB = {
 				["hide"] = true,
 			},
 		},
-		["Toshlongboy - Eldre'Thalas"] = {
+		["Toshtoon - Barthilas"] = {
 		},
 		["Toshdk - Kil'jaeden"] = {
 		},

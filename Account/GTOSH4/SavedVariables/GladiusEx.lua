@@ -43,6 +43,20 @@ GladiusExDB = {
 						["arena1"] = 1161.280442793359,
 					},
 				},
+				["Toshtoon - Barthilas"] = {
+					["y"] = {
+						["anchor_arena"] = 416.5332719397557,
+						["arena2"] = 432.2133106517795,
+						["arena3"] = 373.9732728910458,
+						["arena1"] = 490.4532702875149,
+					},
+					["x"] = {
+						["anchor_arena"] = 1318.933720519533,
+						["arena2"] = 1345.813876168715,
+						["arena3"] = 1345.813876168715,
+						["arena1"] = 1345.813876168715,
+					},
+				},
 				["Toshpal - Area 52"] = {
 					["y"] = {
 						["arena2"] = 412.4799907803536,
@@ -75,6 +89,20 @@ GladiusExDB = {
 						["player"] = 389.7599912881851,
 						["party2"] = 389.7599912881851,
 						["party1"] = 389.7599912881851,
+					},
+				},
+				["Toshtoon - Barthilas"] = {
+					["y"] = {
+						["anchor_party"] = 405.3333503150934,
+						["player"] = 479.2533486628527,
+						["party2"] = 362.7733512663835,
+						["party1"] = 421.0133499646181,
+					},
+					["x"] = {
+						["anchor_party"] = 373.3332338428518,
+						["player"] = 427.0933107662204,
+						["party2"] = 427.0933107662204,
+						["party1"] = 427.0933107662204,
 					},
 				},
 				["Toshpal - Area 52"] = {
@@ -111,9 +139,9 @@ GladiusExDB = {
 		},
 		["party_Clicks"] = {
 		},
-		["party_Interrupts"] = {
-		},
 		["Announcements"] = {
+		},
+		["party_Interrupts"] = {
 		},
 		["Alerts"] = {
 		},
@@ -132,6 +160,7 @@ GladiusExDB = {
 	},
 	["profileKeys"] = {
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
@@ -139,9 +168,11 @@ GladiusExDB = {
 			["locked"] = true,
 			["showParty"] = false,
 		},
+		["Toshtoon - Barthilas"] = {
+		},
 		["Toshpal - Area 52"] = {
-			["showParty"] = false,
 			["locked"] = true,
+			["showParty"] = false,
 		},
 	},
 }

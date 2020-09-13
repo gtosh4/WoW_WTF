@@ -226,16 +226,6 @@ WQTrackerDB = {
 						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[58744] = {
-						["expireAt"] = 1599922872,
-						["rewardAmount"] = "16",
-						["rewardTexture"] = 133675,
-					},
-					[58746] = {
-						["expireAt"] = 1599922833,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
-					},
 				},
 				["Player-3676-0AD945D6"] = {
 				},
@@ -253,98 +243,6 @@ WQTrackerDB = {
 				},
 			},
 			["rarescan"] = {
-				["recently_spotted"] = {
-					[142438] = {
-						1599883785, -- [1]
-						14, -- [2]
-						0.5091246366500854, -- [3]
-						0.5845824480056763, -- [4]
-						"Creature-0-0000-0000-00000-142438-0000000000", -- [5]
-						"Venomarus", -- [6]
-						"Andruw", -- [7]
-						1599883785, -- [8]
-					},
-					[141615] = {
-						1599883604, -- [1]
-						14, -- [2]
-						0.3352286219596863, -- [3]
-						0.4505974650382996, -- [4]
-						"Creature-0-0000-0000-00000-141615-0000000000", -- [5]
-						"Burning Goliath", -- [6]
-						"Andruw", -- [7]
-						1599883604, -- [8]
-					},
-					[142508] = {
-						1599883548, -- [1]
-						14, -- [2]
-						0.2166402935981751, -- [3]
-						0.2153549790382385, -- [4]
-						"Creature-0-3138-0-52-142508-00005C4909", -- [5]
-						"Branchlord Aldrus", -- [6]
-						"Andruw", -- [7]
-						1599883548, -- [8]
-					},
-					[142435] = {
-						1599883858, -- [1]
-						14, -- [2]
-						0.3169964551925659, -- [3]
-						0.62743079662323, -- [4]
-						"Creature-0-0000-0000-00000-142435-0000000000", -- [5]
-						"Plaguefeather", -- [6]
-						"Andruw", -- [7]
-						1599883858, -- [8]
-					},
-					[141942] = {
-						1599883659, -- [1]
-						14, -- [2]
-						0.5348706841468811, -- [3]
-						0.7696232795715332, -- [4]
-						"Creature-0-0000-0000-00000-141942-0000000000", -- [5]
-						"Molok the Crusher", -- [6]
-						"Andruw", -- [7]
-						1599883659, -- [8]
-					},
-					[141616] = {
-						1599883836, -- [1]
-						14, -- [2]
-						0.5001895427703857, -- [3]
-						0.593944787979126, -- [4]
-						"Creature-0-0000-0000-00000-141616-0000000000", -- [5]
-						"Thundering Goliath", -- [6]
-						"Andruw", -- [7]
-						1599883836, -- [8]
-					},
-					[142440] = {
-						1599883905, -- [1]
-						25, -- [2]
-						0.1972750425338745, -- [3]
-						0.3630391955375671, -- [4]
-						"Creature-0-0000-0000-00000-142440-0000000000", -- [5]
-						"Yogursa", -- [6]
-						"Andruw", -- [7]
-						1599883905, -- [8]
-					},
-					[141620] = {
-						1599883864, -- [1]
-						14, -- [2]
-						0.2623085379600525, -- [3]
-						0.6257179975509644, -- [4]
-						"Creature-0-0000-0000-00000-141620-0000000000", -- [5]
-						"Rumbling Goliath", -- [6]
-						"Andruw", -- [7]
-						1599883864, -- [8]
-					},
-					[142423] = {
-						1599883856, -- [1]
-						14, -- [2]
-						0.3303642868995667, -- [3]
-						0.6249939203262329, -- [4]
-						"Creature-0-0000-0000-00000-142423-0000000000", -- [5]
-						"Overseer Krix", -- [6]
-						"Andruw", -- [7]
-						1599883856, -- [8]
-					},
-				},
 				["recently_killed"] = {
 					["Player-3676-0AD945E6"] = {
 					},
@@ -359,6 +257,7 @@ WQTrackerDB = {
 					["Racha-mundos Skuul"] = 127118,
 					["Ancião Unu"] = 152414,
 					["OOX-Avenger/MG"] = 151296,
+					["Kaara the Pale"] = 126860,
 					["Boggac Skullbash"] = 151308,
 					["Burning Goliath"] = 141615,
 					["Theurgist Nitara"] = 155836,
@@ -368,19 +267,22 @@ WQTrackerDB = {
 					["Inquisitor Vethroz"] = 126946,
 					["Puscilla"] = 126040,
 					["Lieutenant Xakaar"] = 126254,
+					["Arachnoid Harvester"] = 151934,
 					["Guardian Tannin"] = 152736,
 					["All-Seer Xanarian"] = 127096,
-					["The Many-Faced Devourer"] = 127581,
+					["Naroua"] = 126419,
+					["Molok the Crusher"] = 141942,
+					["Venomarus"] = 142438,
 					["Ven'orn"] = 126115,
-					["Overseer Krix"] = 142423,
+					["The Many-Faced Devourer"] = 127581,
 					["Foul Manifestation"] = 151202,
 					["Rumbling Goliath"] = 141620,
-					["Venomarus"] = 142438,
-					["Molok the Crusher"] = 141942,
+					["Overseer Y'Beda"] = 124440,
+					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
-					["Plaguefeather"] = 142435,
 					["Branchlord Aldrus"] = 142508,
-					["Malfunctioning Beastbot"] = 151933,
+					["Señor de cólera Yarez"] = 126338,
+					["Overseer Krix"] = 142423,
 					["Umbra'jin"] = 122004,
 					["Echo of Myzrael"] = 141668,
 					["Void Warden Valsuran"] = 127300,
@@ -388,9 +290,9 @@ WQTrackerDB = {
 					["High Warlord Volrath"] = 143536,
 					["Goldenvein"] = 140769,
 					["Mechagonian Nullifier"] = 151124,
-					["Arachnoid Harvester"] = 151934,
+					["Plaguefeather"] = 142435,
 					["Worldsplitter Skuul"] = 127118,
-					["Señor de cólera Yarez"] = 126338,
+					["Malfunctioning Beastbot"] = 151933,
 					["Matriarca de escamas Gratinax"] = 152548,
 					["Armored Vaultbot"] = 154968,
 					["Varga"] = 126208,

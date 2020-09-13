@@ -10,6 +10,7 @@ OneRing_Config = {
 				["OPCTAt"] = "OPCHSh",
 			},
 			["Bindings"] = {
+				["WarlockLTS"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
 				["DruidShift"] = false,
@@ -101,8 +102,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 		},
 	},

@@ -1,15 +1,43 @@
 
 BugGrabberDB = {
-	["session"] = 238,
+	["session"] = 240,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'MultiBarLeftButton1:Show()'.",
-			["time"] = "2020/09/09 23:45:14",
-			["locals"] = "Skipped (In Encounter)",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:368: in function <Interface\\FrameXML\\ActionButton.lua:342>\n[string \"=[C]\"]: in function `ActionButton_Update'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:829: in function `ActionButton_OnEvent'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:257: in function <Interface\\FrameXML\\ActionButton.lua:249>",
-			["session"] = 237,
-			["counter"] = 1,
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_characters.lua",
+			["time"] = "2020/09/12 23:47:53",
+			["session"] = 240,
+			["counter"] = 2,
 		}, -- [1]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_lookup.lua",
+			["time"] = "2020/09/12 23:47:53",
+			["session"] = 240,
+			["counter"] = 2,
+		}, -- [2]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_characters.lua",
+			["time"] = "2020/09/12 23:47:53",
+			["session"] = 240,
+			["counter"] = 2,
+		}, -- [3]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_lookup.lua",
+			["time"] = "2020/09/12 23:47:53",
+			["session"] = 240,
+			["counter"] = 2,
+		}, -- [4]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_characters.lua",
+			["time"] = "2020/09/12 23:47:53",
+			["session"] = 240,
+			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_lookup.lua",
+			["time"] = "2020/09/12 23:47:53",
+			["session"] = 240,
+			["counter"] = 1,
+		}, -- [6]
 	},
 }
