@@ -17,6 +17,21 @@ TalentSetManager_Options = {
 	},
 }
 TalentSetManager_CharacterSaves = {
+	["Toshmonk-Kil'jaeden"] = {
+		["talents_pvp"] = {
+		},
+		["talents"] = {
+			[2] = {
+			},
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Toshpriest-Area 52"] = {
 		["talents"] = {
 			{

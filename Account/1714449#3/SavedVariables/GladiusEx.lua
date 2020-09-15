@@ -29,6 +29,20 @@ GladiusExDB = {
 		},
 		["arena"] = {
 			["profiles"] = {
+				["Toshmonk - Kil'jaeden"] = {
+					["y"] = {
+						["anchor_arena"] = 387.7333507084841,
+						["arena2"] = 403.4133503580088,
+						["arena3"] = 345.1733516597742,
+						["arena1"] = 461.6533490562433,
+					},
+					["x"] = {
+						["anchor_arena"] = 1147.73333372116,
+						["arena2"] = 1174.61356749534,
+						["arena3"] = 1174.61356749534,
+						["arena1"] = 1174.61356749534,
+					},
+				},
 				["Default"] = {
 					["modules"] = {
 						["Clicks"] = true,
@@ -68,6 +82,20 @@ GladiusExDB = {
 		},
 		["party"] = {
 			["profiles"] = {
+				["Toshmonk - Kil'jaeden"] = {
+					["y"] = {
+						["anchor_party"] = 396.800030193328,
+						["player"] = 470.7199894785881,
+						["party2"] = 354.2400311446181,
+						["party1"] = 412.4800298428527,
+					},
+					["x"] = {
+						["anchor_party"] = 441.0665917038932,
+						["player"] = 494.8266686272618,
+						["party2"] = 494.8266686272618,
+						["party1"] = 494.8266686272618,
+					},
+				},
 				["Default"] = {
 					["y"] = {
 						["anchor_party"] = 587.1999478125581,
@@ -137,9 +165,14 @@ GladiusExDB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
+		["Toshmonk - Kil'jaeden"] = {
+			["locked"] = true,
+			["showParty"] = false,
+		},
 		["Default"] = {
 			["globalFont"] = "Friz Quadrata TT",
 			["globalBarTexture"] = "Smooth v2",

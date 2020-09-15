@@ -6,6 +6,7 @@ BazookaDB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {

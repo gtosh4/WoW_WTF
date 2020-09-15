@@ -23,3 +23,4 @@ OPie_Classic: disabled
 LittleWigs: enabled
 PitBull4: disabled
 ToshUnitFrames: disabled
+BigWigs_EternalPalace: enabled

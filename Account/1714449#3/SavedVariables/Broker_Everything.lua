@@ -28,6 +28,15 @@ Broker_Everything_CharacterDB = {
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
 		"Toshaman-Area 52", -- [2]
+		"Toshmonk-Kil'jaeden", -- [3]
+	},
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshmonk",
+		["faction"] = "Horde",
+		["orderId"] = 3,
+		["level"] = 120,
+		["class"] = "MONK",
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
@@ -79,6 +88,7 @@ Broker_Everything_CharacterDB = {
 Broker_Everything_AceDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {

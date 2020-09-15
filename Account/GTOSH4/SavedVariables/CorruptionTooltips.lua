@@ -7,10 +7,12 @@ CorruptionTooltipsDB = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -25,13 +27,17 @@ CorruptionTooltipsDB = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
+		["Daggny - Frostwolf"] = {
+		},
 		["Yelluwuy - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
+		["Toshlongboyr - Eldre'Thalas"] = {
+		},
 		["Toshaman - Area 52"] = {
 		},
-		["Toshlongboyr - Eldre'Thalas"] = {
+		["Toshpriest - Azralon"] = {
 		},
 	},
 }

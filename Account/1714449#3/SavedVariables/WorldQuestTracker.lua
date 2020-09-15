@@ -2,6 +2,7 @@
 WQTrackerDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
@@ -214,39 +215,80 @@ WQTrackerDB = {
 				},
 			},
 			["quests_tracked"] = {
-				["Player-3676-0AD945D6"] = {
-				},
 				["Player-3676-0AD945E6"] = {
+				},
+				["Player-9-0B608E72"] = {
+				},
+				["Player-3676-0AD945D6"] = {
 				},
 			},
 			["quests_all_characters"] = {
+				["Player-3676-0AD945D6"] = {
+				},
+				["Player-9-0B608E72"] = {
+					[51042] = {
+						["expireAt"] = 1600095685,
+						["rewardAmount"] = 196,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+				},
 				["Player-3676-0AD945E6"] = {
+					[57336] = {
+						["expireAt"] = 1600160489,
+						["rewardAmount"] = "|cffc557FF385",
+						["rewardTexture"] = 1002879,
+					},
+					[50744] = {
+						["expireAt"] = 1600210824,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
+					},
+					[56384] = {
+						["expireAt"] = 1600182089,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 2004597,
+					},
 					[55466] = {
 						["expireAt"] = 1600182072,
 						["rewardAmount"] = 750,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-				},
-				["Player-3676-0AD945D6"] = {
+					[56041] = {
+						["expireAt"] = 1600182029,
+						["rewardAmount"] = "|cffc557FF385",
+						["rewardTexture"] = 1625010,
+					},
+					[55886] = {
+						["expireAt"] = 1600182029,
+						["rewardAmount"] = "|cffc557FF385",
+						["rewardTexture"] = 1625010,
+					},
 				},
 			},
 			["player_names"] = {
-				["Player-3676-0AD945D6"] = {
-					["class"] = "SHAMAN",
-					["name"] = "Toshaman",
-					["realm"] = "Area 52",
-				},
 				["Player-3676-0AD945E6"] = {
 					["class"] = "PRIEST",
 					["name"] = "Toshpriest",
 					["realm"] = "Area 52",
 				},
+				["Player-9-0B608E72"] = {
+					["class"] = "MONK",
+					["name"] = "Toshmonk",
+					["realm"] = "Kil'jaeden",
+				},
+				["Player-3676-0AD945D6"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Toshaman",
+					["realm"] = "Area 52",
+				},
 			},
 			["rarescan"] = {
 				["recently_killed"] = {
-					["Player-3676-0AD945E6"] = {
-					},
 					["Player-3676-0AD945D6"] = {
+					},
+					["Player-9-0B608E72"] = {
+					},
+					["Player-3676-0AD945E6"] = {
 					},
 				},
 				["name_cache"] = {
@@ -267,21 +309,21 @@ WQTrackerDB = {
 					["Inquisitor Vethroz"] = 126946,
 					["Puscilla"] = 126040,
 					["Lieutenant Xakaar"] = 126254,
-					["Arachnoid Harvester"] = 151934,
+					["Molok the Crusher"] = 141942,
 					["Guardian Tannin"] = 152736,
 					["All-Seer Xanarian"] = 127096,
-					["Naroua"] = 126419,
-					["Molok the Crusher"] = 141942,
 					["Venomarus"] = 142438,
+					["Golrakahn"] = 124185,
+					["Arachnoid Harvester"] = 151934,
 					["Ven'orn"] = 126115,
+					["Naroua"] = 126419,
 					["The Many-Faced Devourer"] = 127581,
-					["Foul Manifestation"] = 151202,
 					["Rumbling Goliath"] = 141620,
 					["Overseer Y'Beda"] = 124440,
 					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
-					["Branchlord Aldrus"] = 142508,
 					["Señor de cólera Yarez"] = 126338,
+					["Branchlord Aldrus"] = 142508,
 					["Overseer Krix"] = 142423,
 					["Umbra'jin"] = 122004,
 					["Echo of Myzrael"] = 141668,
@@ -296,7 +338,7 @@ WQTrackerDB = {
 					["Matriarca de escamas Gratinax"] = 152548,
 					["Armored Vaultbot"] = 154968,
 					["Varga"] = 126208,
-					["Golrakahn"] = 124185,
+					["Foul Manifestation"] = 151202,
 					["Blistermaw"] = 122958,
 					["失控的机械兽"] = 151933,
 					["Elder Unu"] = 152414,
