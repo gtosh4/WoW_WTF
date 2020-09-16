@@ -8,9 +8,9 @@ CliqueDB3 = {
 			["blacklist"] = {
 				["PlayerFrame"] = true,
 			},
-			["spec3_profileKey"] = "Toshpriest - Area 52",
-			["downclick"] = true,
 			["spec2_profileKey"] = "Toshpriest - Area 52",
+			["downclick"] = true,
+			["spec3_profileKey"] = "Toshpriest - Area 52",
 			["specswap"] = false,
 		},
 		["Toshaman - Area 52"] = {
@@ -18,8 +18,8 @@ CliqueDB3 = {
 			["spec2_profileKey"] = "Toshaman - Area 52",
 			["downclick"] = true,
 			["fastooc"] = false,
-			["specswap"] = false,
 			["spec3_profileKey"] = "Toshaman - Area 52",
+			["specswap"] = false,
 		},
 	},
 	["profileKeys"] = {
@@ -31,10 +31,10 @@ CliqueDB3 = {
 		["Toshpriest - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -98,10 +98,10 @@ CliqueDB3 = {
 		["Toshmonk - Kil'jaeden"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -117,10 +117,10 @@ CliqueDB3 = {
 		["Toshaman - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

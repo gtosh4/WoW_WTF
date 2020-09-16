@@ -8,6 +8,6 @@ Scrap_Sets = {
 	["list"] = {
 	},
 	["sell"] = true,
-	["guild"] = true,
 	["repair"] = true,
+	["guild"] = true,
 }

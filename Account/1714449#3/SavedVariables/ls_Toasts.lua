@@ -14,8 +14,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["point"] = {
 						["rP"] = "TOP",
 						["p"] = "TOP",
-						["y"] = -4,
 						["x"] = 0,
+						["y"] = -4,
 					},
 				}, -- [1]
 			},
@@ -29,12 +29,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["transmog"] = {
+				["world"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
-					["anchor"] = 1,
-					["left_click"] = false,
 				},
 				["loot_currency"] = {
 					["enabled"] = true,
@@ -49,27 +48,29 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 				},
-				["garrison_7_0"] = {
-					["anchor"] = 1,
+				["store"] = {
 					["enabled"] = true,
-					["dnd"] = true,
-					["sfx"] = true,
-				},
-				["loot_gold"] = {
-					["enabled"] = false,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["track_loss"] = false,
+					["left_click"] = false,
+				},
+				["loot_common"] = {
+					["enabled"] = true,
+					["dnd"] = false,
+					["sfx"] = true,
+					["anchor"] = 1,
 					["threshold"] = 1,
+					["quest"] = false,
+					["ilvl"] = true,
 				},
 				["loot_special"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
 					["threshold"] = 1,
+					["ilvl"] = true,
 				},
 				["achievement"] = {
 					["enabled"] = true,
@@ -82,14 +83,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["loot_common"] = {
+				["archaeology"] = {
+					["anchor"] = 1,
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
-					["anchor"] = 1,
-					["ilvl"] = true,
-					["quest"] = false,
-					["threshold"] = 1,
 				},
 				["recipe"] = {
 					["anchor"] = 1,
@@ -104,24 +102,26 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["anchor"] = 1,
 					["left_click"] = false,
 				},
-				["archaeology"] = {
-					["anchor"] = 1,
-					["enabled"] = true,
+				["loot_gold"] = {
+					["enabled"] = false,
 					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["track_loss"] = false,
+					["threshold"] = 1,
 				},
-				["store"] = {
+				["garrison_7_0"] = {
+					["anchor"] = 1,
+					["enabled"] = true,
+					["dnd"] = true,
+					["sfx"] = true,
+				},
+				["transmog"] = {
 					["enabled"] = true,
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
 					["left_click"] = false,
-				},
-				["world"] = {
-					["anchor"] = 1,
-					["enabled"] = true,
-					["dnd"] = false,
-					["sfx"] = true,
 				},
 			},
 		},
