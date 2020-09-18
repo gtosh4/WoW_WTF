@@ -61,7 +61,7 @@ AstralKeys = {
 		17, -- [4]
 		0, -- [5]
 		165, -- [6]
-		93450, -- [7]
+		217891, -- [7]
 	}, -- [7]
 	{
 		"Woesong-Area52", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		19, -- [4]
 		0, -- [5]
 		165, -- [6]
-		54604, -- [7]
+		217881, -- [7]
 	}, -- [8]
 	{
 		"Yukiox-Area52", -- [1]
@@ -86,9 +86,9 @@ AstralKeys = {
 		"DEMONHUNTER", -- [2]
 		246, -- [3]
 		22, -- [4]
-		0, -- [5]
+		18, -- [5]
 		165, -- [6]
-		2, -- [7]
+		212271, -- [7]
 	}, -- [10]
 	{
 		"Artsong-Area52", -- [1]
@@ -126,13 +126,31 @@ AstralKeys = {
 		165, -- [6]
 		48545, -- [7]
 	}, -- [14]
+	{
+		"Gummybuns-Area52", -- [1]
+		"MONK", -- [2]
+		251, -- [3]
+		22, -- [4]
+		22, -- [5]
+		165, -- [6]
+		217875, -- [7]
+	}, -- [15]
+	{
+		"Royalty-Area52", -- [1]
+		"PALADIN", -- [2]
+		353, -- [3]
+		19, -- [4]
+		17, -- [5]
+		165, -- [6]
+		1, -- [7]
+	}, -- [16]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["unit"] = "Toshpriest-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshpriest-Area52",
 	}, -- [1]
 }
 AstralFriends = {
@@ -151,12 +169,12 @@ AstralFriends = {
 		"Orcbum-Kil'jaeden", -- [1]
 		"bum#1748", -- [2]
 		"WARRIOR", -- [3]
-		370, -- [4]
-		22, -- [5]
+		248, -- [4]
+		21, -- [5]
 		165, -- [6]
-		55256, -- [7]
+		210719, -- [7]
 		"1", -- [8]
-		16, -- [9]
+		22, -- [9]
 	}, -- [2]
 	{
 		"Ngow-Kil'jaeden", -- [1]
@@ -176,9 +194,9 @@ AstralFriends = {
 		248, -- [4]
 		19, -- [5]
 		165, -- [6]
-		42913, -- [7]
+		135525, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [4]
 	{
 		"Yukios-Kil'jaeden", -- [1]
@@ -187,9 +205,9 @@ AstralFriends = {
 		248, -- [4]
 		18, -- [5]
 		165, -- [6]
-		40757, -- [7]
+		208945, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		17, -- [9]
 	}, -- [5]
 	{
 		"Yuffio-Kil'jaeden", -- [1]
@@ -209,7 +227,7 @@ AstralFriends = {
 		370, -- [4]
 		19, -- [5]
 		165, -- [6]
-		54604, -- [7]
+		151422, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [7]
@@ -220,9 +238,9 @@ AstralFriends = {
 		369, -- [4]
 		21, -- [5]
 		165, -- [6]
-		53353, -- [7]
+		208663, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		22, -- [9]
 	}, -- [8]
 	{
 		"Illsong-Area52", -- [1]
@@ -231,9 +249,9 @@ AstralFriends = {
 		246, -- [4]
 		22, -- [5]
 		165, -- [6]
-		27748, -- [7]
+		212271, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [9]
 	{
 		"Artsong-Area52", -- [1]
@@ -242,9 +260,9 @@ AstralFriends = {
 		244, -- [4]
 		22, -- [5]
 		165, -- [6]
-		28660, -- [7]
+		150132, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [10]
 	{
 		"Yuffio-Area52", -- [1]
@@ -253,7 +271,7 @@ AstralFriends = {
 		244, -- [4]
 		20, -- [5]
 		165, -- [6]
-		42766, -- [7]
+		56503, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [11]
@@ -264,20 +282,20 @@ AstralFriends = {
 		244, -- [4]
 		21, -- [5]
 		165, -- [6]
-		48544, -- [7]
+		197511, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [12]
 	{
 		"Scitama-Kil'jaeden", -- [1]
 		"Sci#11555", -- [2]
 		"MONK", -- [3]
-		251, -- [4]
-		18, -- [5]
+		370, -- [4]
+		20, -- [5]
 		165, -- [6]
-		49220, -- [7]
+		148753, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		18, -- [9]
 	}, -- [13]
 	{
 		"Mattea-Kil'jaeden", -- [1]
@@ -290,9 +308,85 @@ AstralFriends = {
 		"1", -- [8]
 		16, -- [9]
 	}, -- [14]
+	{
+		"Gummybuns-Area52", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"MONK", -- [3]
+		251, -- [4]
+		22, -- [5]
+		165, -- [6]
+		212004, -- [7]
+		"1", -- [8]
+		22, -- [9]
+	}, -- [15]
+	{
+		"Kosaki-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"ROGUE", -- [3]
+		247, -- [4]
+		19, -- [5]
+		165, -- [6]
+		146020, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [16]
+	{
+		"Meta-Kil'jaeden", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"DEMONHUNTER", -- [3]
+		249, -- [4]
+		20, -- [5]
+		165, -- [6]
+		146261, -- [7]
+		"1", -- [8]
+		18, -- [9]
+	}, -- [17]
+	{
+		"Royalty-Area52", -- [1]
+		"Johnnymsw#1452", -- [2]
+		"PALADIN", -- [3]
+		353, -- [4]
+		19, -- [5]
+		165, -- [6]
+		132990, -- [7]
+		"1", -- [8]
+		17, -- [9]
+	}, -- [18]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
 	["new_settings_config"] = true,
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1600786800,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["party"] = true,
+			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -306,9 +400,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -317,37 +409,7 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1600786800,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
-			["no_key"] = false,
-			["party"] = true,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
+		["show_offline"] = {
 			["isEnabled"] = true,
 		},
 	},
