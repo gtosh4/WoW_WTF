@@ -1,6 +1,5 @@
 
 Broker_Everything_DataDB = {
-	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -23,6 +22,7 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
+	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
 	["order"] = {
@@ -30,17 +30,20 @@ Broker_Everything_CharacterDB = {
 		"Toshaman-Area 52", -- [2]
 		"Toshmonk-Kil'jaeden", -- [3]
 	},
-	["Toshmonk-Kil'jaeden"] = {
-		["race"] = "BloodElf",
-		["name"] = "Toshmonk",
+	["Toshaman-Area 52"] = {
+		["race"] = "Goblin",
+		["name"] = "Toshaman",
 		["faction"] = "Horde",
-		["orderId"] = 3,
+		["orderId"] = 2,
+		["class"] = "SHAMAN",
 		["level"] = 120,
-		["class"] = "MONK",
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["orderId"] = 1,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
@@ -71,18 +74,15 @@ Broker_Everything_CharacterDB = {
 		},
 		["level"] = 120,
 		["gold"] = 10753845943,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
+		["orderId"] = 1,
 	},
-	["Toshaman-Area 52"] = {
-		["race"] = "Goblin",
-		["name"] = "Toshaman",
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshmonk",
 		["faction"] = "Horde",
-		["orderId"] = 2,
+		["orderId"] = 3,
+		["class"] = "MONK",
 		["level"] = 120,
-		["class"] = "SHAMAN",
 	},
 }
 Broker_Everything_AceDB = {
@@ -101,8 +101,7 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -142,13 +141,14 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
-			["Equipment"] = {
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},
