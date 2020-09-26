@@ -76,13 +76,13 @@ X: 420
 Y: 193
 W: 27
 H: 26
-Frame: DetailsReportWindow
+Frame: ItemRefTooltip
 FrameLevel: 1
-Anchor: CENTER
-X: 3
-Y: 0
-W: 176
-H: 195
+Anchor: RIGHT
+X: -543
+Y: 97
+W: 289
+H: 288
 Frame: TalkingHeadFrame
 FrameLevel: 1
 Anchor: BOTTOM
@@ -90,20 +90,6 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: RIGHT
-X: -543
-Y: 97
-W: 267
-H: 374
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -111,3 +97,10 @@ X: -439
 Y: -199
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
