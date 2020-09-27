@@ -31,3 +31,4 @@ ToshUnitFrames: disabled
 BigWigs_EternalPalace: enabled
 BigWigs_BattleOfDazaralor: enabled
 AdiBags: enabled
+BigWigs_WarlordsOfDraenor: enabled
