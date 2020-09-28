@@ -226,19 +226,34 @@ WQTrackerDB = {
 				["Player-3676-0AD945D6"] = {
 				},
 				["Player-3676-0AD945E6"] = {
-					[58742] = {
-						["expireAt"] = 1601218848,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045113,
+					[50847] = {
+						["expireAt"] = 1601305278,
+						["rewardAmount"] = 289,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[58749] = {
-						["expireAt"] = 1601218850,
-						["rewardAmount"] = "13",
-						["rewardTexture"] = 2004597,
+					[50744] = {
+						["expireAt"] = 1601276418,
+						["rewardAmount"] = 192,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 					[55466] = {
 						["expireAt"] = 1601391648,
 						["rewardAmount"] = 750,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51501] = {
+						["expireAt"] = 1601564478,
+						["rewardAmount"] = 450,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50861] = {
+						["expireAt"] = 1601305278,
+						["rewardAmount"] = 169,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[49444] = {
+						["expireAt"] = 1601305218,
+						["rewardAmount"] = 156,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
@@ -301,10 +316,10 @@ WQTrackerDB = {
 					["Golrakahn"] = 124185,
 					["Blistermaw"] = 122958,
 					["Ven'orn"] = 126115,
-					["Foul Manifestation"] = 151202,
 					["The Many-Faced Devourer"] = 127581,
+					["Foul Manifestation"] = 151202,
 					["Rumbling Goliath"] = 141620,
-					["Naroua"] = 126419,
+					["Overseer Y'Beda"] = 124440,
 					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
 					["Varga"] = 126208,
@@ -323,7 +338,7 @@ WQTrackerDB = {
 					["Echo of Myzrael"] = 141668,
 					["Branchlord Aldrus"] = 142508,
 					["Señor de cólera Yarez"] = 126338,
-					["Overseer Y'Beda"] = 124440,
+					["Naroua"] = 126419,
 					["Arachnoid Harvester"] = 151934,
 					["失控的机械兽"] = 151933,
 					["Elder Unu"] = 152414,

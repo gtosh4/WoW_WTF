@@ -14,9 +14,9 @@ AstralKeys = {
 		"DEMONHUNTER", -- [2]
 		252, -- [3]
 		21, -- [4]
-		0, -- [5]
+		21, -- [5]
 		166, -- [6]
-		3, -- [7]
+		452685, -- [7]
 	}, -- [2]
 	{
 		"Sci-Area52", -- [1]
@@ -143,7 +143,7 @@ AstralFriends = {
 		244, -- [4]
 		21, -- [5]
 		166, -- [6]
-		382084, -- [7]
+		458281, -- [7]
 		"1", -- [8]
 		22, -- [9]
 	}, -- [1]
@@ -154,9 +154,9 @@ AstralFriends = {
 		252, -- [4]
 		21, -- [5]
 		166, -- [6]
-		381224, -- [7]
+		394289, -- [7]
 		"1", -- [8]
-		0, -- [9]
+		21, -- [9]
 	}, -- [2]
 	{
 		"Yukiox-Area52", -- [1]
@@ -292,6 +292,39 @@ AstralFriends = {
 	}, -- [14]
 }
 AstralKeysSettings = {
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["new_settings_config"] = true,
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1601391600,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["raid"] = false,
+			["party"] = true,
+			["no_key"] = false,
+			["guild"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -318,39 +351,6 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1601391600,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["party"] = true,
-			["raid"] = false,
-			["guild"] = false,
-			["no_key"] = false,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
-	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
