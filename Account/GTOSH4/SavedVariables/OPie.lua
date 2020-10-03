@@ -3,12 +3,9 @@ OneRing_Config = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "8.3.7",
-	["_OPieVersion"] = "Walnut 6 (3.101)",
+	["_OPieVersion"] = "Xe 1a (3.102)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
 			["Bindings"] = {
 				["WarlockLTS"] = false,
 				["SpecMenu"] = "ALT-N",
@@ -18,10 +15,13 @@ OneRing_Config = {
 				["RaidSymbols"] = false,
 				["TrinketSlots"] = false,
 				["WorldMarkers"] = "ALT-R",
-				["DruidFeral"] = false,
-				["PaladinAuras"] = false,
-				["OPieAutoQuest"] = "ALT-G",
 				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-G",
+				["PaladinAuras"] = false,
+				["DruidFeral"] = false,
+			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},
@@ -109,3 +109,4 @@ OneRing_Config = {
 	},
 	["_GameLocale"] = "enUS",
 }
+OPie_SavedData = nil
