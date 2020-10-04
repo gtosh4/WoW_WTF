@@ -24,3 +24,4 @@ LittleWigs: enabled
 PitBull4: disabled
 ToshUnitFrames: disabled
 BigWigs_EternalPalace: enabled
+BigWigs_BattleOfDazaralor: enabled

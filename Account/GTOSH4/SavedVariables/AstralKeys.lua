@@ -16,7 +16,7 @@ AstralKeys = {
 		20, -- [4]
 		0, -- [5]
 		167, -- [6]
-		3, -- [7]
+		396744, -- [7]
 	}, -- [2]
 	{
 		"Sci-Area52", -- [1]
@@ -25,7 +25,7 @@ AstralKeys = {
 		20, -- [4]
 		16, -- [5]
 		167, -- [6]
-		305243, -- [7]
+		396718, -- [7]
 	}, -- [3]
 	{
 		"Artsong-Area52", -- [1]
@@ -52,7 +52,7 @@ AstralKeys = {
 		20, -- [4]
 		15, -- [5]
 		167, -- [6]
-		1, -- [7]
+		4, -- [7]
 	}, -- [6]
 	{
 		"Rathux-Area52", -- [1]
@@ -61,7 +61,7 @@ AstralKeys = {
 		22, -- [4]
 		0, -- [5]
 		167, -- [6]
-		2, -- [7]
+		3, -- [7]
 	}, -- [7]
 	{
 		"Gummybuns-Area52", -- [1]
@@ -70,7 +70,7 @@ AstralKeys = {
 		23, -- [4]
 		21, -- [5]
 		167, -- [6]
-		1, -- [7]
+		396733, -- [7]
 	}, -- [8]
 	{
 		"Royalty-Area52", -- [1]
@@ -88,7 +88,7 @@ AstralKeys = {
 		23, -- [4]
 		0, -- [5]
 		167, -- [6]
-		1, -- [7]
+		3, -- [7]
 	}, -- [10]
 	{
 		"Delpi-Area52", -- [1]
@@ -99,13 +99,31 @@ AstralKeys = {
 		167, -- [6]
 		298669, -- [7]
 	}, -- [11]
+	{
+		"Alyasta-Area52", -- [1]
+		"PRIEST", -- [2]
+		252, -- [3]
+		21, -- [4]
+		0, -- [5]
+		167, -- [6]
+		396737, -- [7]
+	}, -- [12]
+	{
+		"Race-Area52", -- [1]
+		"ROGUE", -- [2]
+		249, -- [3]
+		20, -- [4]
+		0, -- [5]
+		167, -- [6]
+		3, -- [7]
+	}, -- [13]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralFriends = {
@@ -116,7 +134,7 @@ AstralFriends = {
 		246, -- [4]
 		23, -- [5]
 		167, -- [6]
-		218999, -- [7]
+		382665, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [1]
@@ -138,7 +156,7 @@ AstralFriends = {
 		245, -- [4]
 		16, -- [5]
 		167, -- [6]
-		290330, -- [7]
+		395769, -- [7]
 		"1", -- [8]
 		15, -- [9]
 	}, -- [3]
@@ -160,7 +178,7 @@ AstralFriends = {
 		249, -- [4]
 		20, -- [5]
 		167, -- [6]
-		247069, -- [7]
+		395871, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [5]
@@ -182,7 +200,7 @@ AstralFriends = {
 		252, -- [4]
 		17, -- [5]
 		167, -- [6]
-		296185, -- [7]
+		306936, -- [7]
 		"1", -- [8]
 		0, -- [9]
 	}, -- [7]
@@ -193,7 +211,7 @@ AstralFriends = {
 		245, -- [4]
 		20, -- [5]
 		167, -- [6]
-		285320, -- [7]
+		395750, -- [7]
 		"1", -- [8]
 		16, -- [9]
 	}, -- [8]
@@ -204,7 +222,7 @@ AstralFriends = {
 		252, -- [4]
 		15, -- [5]
 		167, -- [6]
-		222044, -- [7]
+		319804, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [9]
@@ -215,7 +233,7 @@ AstralFriends = {
 		252, -- [4]
 		23, -- [5]
 		167, -- [6]
-		218467, -- [7]
+		395559, -- [7]
 		"1", -- [8]
 		21, -- [9]
 	}, -- [10]
@@ -226,7 +244,7 @@ AstralFriends = {
 		245, -- [4]
 		16, -- [5]
 		167, -- [6]
-		139119, -- [7]
+		317106, -- [7]
 		"1", -- [8]
 		17, -- [9]
 	}, -- [11]
@@ -241,41 +259,41 @@ AstralFriends = {
 		"1", -- [8]
 		16, -- [9]
 	}, -- [12]
+	{
+		"Andruw-Area52", -- [1]
+		"Drew#13709", -- [2]
+		"DEMONHUNTER", -- [3]
+		353, -- [4]
+		20, -- [5]
+		167, -- [6]
+		379443, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [13]
+	{
+		"Emosong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"ROGUE", -- [3]
+		245, -- [4]
+		20, -- [5]
+		167, -- [6]
+		395638, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [14]
+	{
+		"Baesong-Kil'jaeden", -- [1]
+		"Ceesong#1985", -- [2]
+		"WARRIOR", -- [3]
+		353, -- [4]
+		17, -- [5]
+		167, -- [6]
+		247699, -- [7]
+		"1", -- [8]
+		0, -- [9]
+	}, -- [15]
 }
 AstralKeysSettings = {
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
-	["new_settings_config"] = true,
-	["general"] = {
-		["show_minimap_button"] = {
-			["isEnabled"] = false,
-		},
-		["init_time"] = 1601996400,
-		["expanded_tooltip"] = {
-			["isEnabled"] = true,
-		},
-		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
-			["no_key"] = false,
-			["party"] = true,
-		},
-		["show_tooltip_key"] = {
-			["isEnabled"] = true,
-		},
-		["announce_party"] = {
-			["isEnabled"] = true,
-		},
-		["announce_guild"] = {
-			["isEnabled"] = false,
-		},
-	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -289,9 +307,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -300,8 +316,43 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1601996400,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["party"] = true,
+			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -311,12 +362,12 @@ AstralMinimap = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -331,17 +382,17 @@ AstralMinimap = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
-		["Daggny - Frostwolf"] = {
+		["Toshpriest - Azralon"] = {
 		},
 		["Yelluwuy - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshlongboyr - Eldre'Thalas"] = {
-		},
 		["Toshaman - Area 52"] = {
 		},
-		["Toshpriest - Azralon"] = {
+		["Toshlongboyr - Eldre'Thalas"] = {
+		},
+		["Daggny - Frostwolf"] = {
 		},
 	},
 }
