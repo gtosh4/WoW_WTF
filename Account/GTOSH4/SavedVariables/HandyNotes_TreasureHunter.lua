@@ -1,13 +1,13 @@
 
 HandyNotes_TreasureHunterDB = {
 	["profileKeys"] = {
-		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 	},
 	["profiles"] = {
-		["Toshpriest - Azralon"] = {
-		},
 		["Toshpal - Area 52"] = {
+		},
+		["Toshpriest - Azralon"] = {
 		},
 	},
 }

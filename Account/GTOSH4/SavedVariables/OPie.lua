@@ -6,9 +6,6 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 1a (3.102)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
 			["Bindings"] = {
 				["WarlockLTS"] = false,
 				["SpecMenu"] = "ALT-N",
@@ -18,10 +15,13 @@ OneRing_Config = {
 				["RaidSymbols"] = false,
 				["TrinketSlots"] = false,
 				["WorldMarkers"] = "ALT-R",
-				["DruidFeral"] = false,
-				["PaladinAuras"] = false,
-				["OPieAutoQuest"] = "ALT-G",
 				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-G",
+				["PaladinAuras"] = false,
+				["DruidFeral"] = false,
+			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},

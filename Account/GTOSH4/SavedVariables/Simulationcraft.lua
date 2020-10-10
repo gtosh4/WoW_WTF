@@ -9,8 +9,8 @@ SimulationCraftDB = {
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -35,9 +35,9 @@ SimulationCraftDB = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshpriest - Azralon"] = {
-		},
 		["Daggny - Frostwolf"] = {
+		},
+		["Toshpriest - Azralon"] = {
 		},
 	},
 }
