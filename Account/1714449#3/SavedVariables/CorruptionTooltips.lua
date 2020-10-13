@@ -1,27 +1,27 @@
 
 CorruptionTooltipsDB = {
-	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-	},
 	["global"] = {
-		["english"] = false,
+		["iconposition"] = "BOTTOMLEFT",
 		["nzothlabel"] = false,
-		["icon"] = true,
-		["itemrank"] = true,
+		["showlevel"] = true,
+		["append"] = true,
 		["itemicon"] = false,
 		["summary"] = true,
 		["iconcolor"] = {
 			["a"] = 1,
-			["r"] = 1,
-			["g"] = 0,
 			["b"] = 0,
+			["g"] = 0,
+			["r"] = 1,
 		},
+		["itemrank"] = true,
 		["perchar"] = false,
-		["append"] = true,
-		["showlevel"] = true,
-		["iconposition"] = "BOTTOMLEFT",
+		["icon"] = true,
+		["english"] = false,
+	},
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {

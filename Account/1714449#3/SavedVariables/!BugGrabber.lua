@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 580,
 	["lastSanitation"] = 3,
+	["session"] = 581,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\BigWigs_Plugins\\Bars.lua:1789: attempt to index field 'deletionTimer' (a nil value)",

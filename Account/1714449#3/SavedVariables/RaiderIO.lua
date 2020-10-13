@@ -1,10 +1,13 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshpriest-area-52"
+RaiderIO_LastCharacter = "us-Toshaman-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Golokkoh-area-52"] = true,
-	["us-Guju-area-52"] = true,
-	["us-Babka-malganis"] = true,
+	["us-Scifi-misha"] = true,
+	["us-Faultier-kiljaeden"] = true,
+	["us-Reraid-lightnings-blade"] = true,
+	["us-Toshaman-area-52"] = true,
+	["us-Sevre-warsong"] = true,
+	["us-Sploshy-area-52"] = true,
 }
 RaiderIO_CachedRuns = nil
