@@ -69,7 +69,7 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["level"] = 120,
+		["level"] = 50,
 		["gold"] = 10753845943,
 		["Professions"] = {
 			["learnedRecipes"] = {
@@ -101,8 +101,10 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Friends"] = {
-				["enabled"] = false,
+			["Equipment"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -139,16 +141,14 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Equipment"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
-			},
 			["Difficulty"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},

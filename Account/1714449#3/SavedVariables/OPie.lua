@@ -2,7 +2,7 @@
 OneRing_Config = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "8.3.7",
+	["_GameVersion"] = "9.0.1",
 	["_OPieVersion"] = "Xe 1a (3.102)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -11,9 +11,9 @@ OneRing_Config = {
 				["TrinketSlots"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
-				["WorldMarkers"] = "ALT-R",
-				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-G",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-R",
 			},
 		},
 	},
@@ -94,8 +94,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 		},
 	},

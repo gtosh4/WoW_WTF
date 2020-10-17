@@ -243,15 +243,15 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0AD945E6"] = {
-					[58749] = {
-						["expireAt"] = 1602342030,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
+					[58745] = {
+						["expireAt"] = 1602946877,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045109,
 					},
-					[58742] = {
-						["expireAt"] = 1602342088,
-						["rewardAmount"] = "1",
-						["rewardTexture"] = 667492,
+					[58748] = {
+						["expireAt"] = 1602946877,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045108,
 					},
 				},
 			},
