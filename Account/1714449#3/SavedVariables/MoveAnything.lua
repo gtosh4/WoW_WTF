@@ -101,11 +101,11 @@ MADB = {
 				},
 				["BonusRollFrame"] = {
 					["orgPos"] = {
-						"CENTER", -- [1]
-						"GroupLootContainer", -- [2]
-						"BOTTOM", -- [3]
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
 						0, -- [4]
-						50.00000381469727, -- [5]
+						-135, -- [5]
 					},
 					["name"] = "BonusRollFrame",
 					["pos"] = {

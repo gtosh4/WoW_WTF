@@ -1216,6 +1216,7 @@ TellMeWhenDB = {
 	["Version"] = 90201,
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
+			["Version"] = 87505,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5QOoilLgOy",
@@ -6595,12 +6596,10 @@ TellMeWhenDB = {
 				}, -- [10]
 			},
 			["NumGroups"] = 10,
-			["Version"] = 87505,
 			["TextureName"] = "Smooth v2",
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
-			["NumGroups"] = 5,
 			["Version"] = 87505,
 			["Groups"] = {
 				{
@@ -9906,6 +9905,7 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
+			["NumGroups"] = 5,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["Locked"] = true,
@@ -10139,6 +10139,39 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
+							["Name"] = "Mind Blast",
+							["Enabled"] = true,
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"ST\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
 							["Name"] = "Power Word: Radiance",
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
@@ -10169,7 +10202,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["Enabled"] = true,
-						}, -- [5]
+						}, -- [6]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
@@ -10199,7 +10232,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["Enabled"] = true,
-						}, -- [6]
+						}, -- [7]
 						{
 							["Type"] = "meta",
 							["Icons"] = {
@@ -10212,17 +10245,6 @@ TellMeWhenDB = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 								},
 							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
 							["States"] = {
 								{
 								}, -- [1]
@@ -18754,7 +18776,6 @@ TellMeWhenDB = {
 			["Locked"] = true,
 		},
 		["Empty"] = {
-			["Version"] = 87505,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -21736,6 +21757,7 @@ TellMeWhenDB = {
 				}, -- [6]
 			},
 			["NumGroups"] = 5,
+			["Version"] = 87505,
 		},
 	},
 }

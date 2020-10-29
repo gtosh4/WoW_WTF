@@ -19,8 +19,6 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["EnemyCasts"] = {
-		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -32,6 +30,8 @@ Quartz3DB = {
 					["texture"] = "Smooth v2",
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},

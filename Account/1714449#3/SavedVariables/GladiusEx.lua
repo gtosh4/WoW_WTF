@@ -146,7 +146,7 @@ GladiusExDB = {
 		},
 		["party_Auras"] = {
 		},
-		["party_Interrupts"] = {
+		["Announcements"] = {
 		},
 		["party_Tags"] = {
 		},
@@ -154,7 +154,7 @@ GladiusExDB = {
 		},
 		["Alerts"] = {
 		},
-		["Announcements"] = {
+		["party_Interrupts"] = {
 		},
 		["PetBar"] = {
 		},

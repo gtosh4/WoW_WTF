@@ -236,31 +236,6 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0AD945E6"] = {
-					[58743] = {
-						["expireAt"] = 1603551650,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
-					},
-					[50744] = {
-						["expireAt"] = 1603522844,
-						["rewardAmount"] = "|cff2292FF80",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
-					},
-					[58747] = {
-						["expireAt"] = 1603551651,
-						["rewardAmount"] = "15",
-						["rewardTexture"] = 2004597,
-					},
-					[52302] = {
-						["expireAt"] = 1603810844,
-						["rewardAmount"] = 450,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[55466] = {
-						["expireAt"] = 1603810850,
-						["rewardAmount"] = 750,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
 				},
 				["Player-9-0B608E72"] = {
 					[51042] = {
@@ -321,10 +296,10 @@ WQTrackerDB = {
 					["Golrakahn"] = 124185,
 					["Blistermaw"] = 122958,
 					["Ven'orn"] = 126115,
-					["Foul Manifestation"] = 151202,
 					["The Many-Faced Devourer"] = 127581,
+					["Foul Manifestation"] = 151202,
 					["Rumbling Goliath"] = 141620,
-					["Naroua"] = 126419,
+					["Overseer Y'Beda"] = 124440,
 					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
 					["Varga"] = 126208,
@@ -343,7 +318,7 @@ WQTrackerDB = {
 					["Echo of Myzrael"] = 141668,
 					["Branchlord Aldrus"] = 142508,
 					["Señor de cólera Yarez"] = 126338,
-					["Overseer Y'Beda"] = 124440,
+					["Naroua"] = 126419,
 					["Arachnoid Harvester"] = 151934,
 					["失控的机械兽"] = 151933,
 					["Elder Unu"] = 152414,

@@ -1,36 +1,12 @@
 
 AstralKeys = {
-	{
-		["btag"] = "bum#1748",
-		["weekly_best"] = 19,
-		["class"] = "WARRIOR",
-		["key_level"] = 23,
-		["unit"] = "Orcbum-Kil'jaeden",
-		["dungeon_id"] = 247,
-		["week"] = 170,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [1]
-	{
-		["btag"] = "YukioX#1520",
-		["weekly_best"] = 0,
-		["class"] = "MAGE",
-		["key_level"] = 21,
-		["unit"] = "Yukiox-Area52",
-		["dungeon_id"] = 246,
-		["week"] = 170,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [2]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralKeysSettings = {
@@ -39,15 +15,15 @@ AstralKeysSettings = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
 		},
-		["init_time"] = 1603810800,
+		["init_time"] = 1604415600,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
 			["raid"] = false,
-			["guild"] = false,
+			["party"] = true,
 			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
