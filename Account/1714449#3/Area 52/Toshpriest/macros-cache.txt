@@ -41,7 +41,7 @@ VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
 END
 VER 3 010000000000000B "salv" "INV_Misc_QuestionMark"
 #showtooltip
-/cast [spec:2,talent:7/2] Apotheosis; [spec:2,talent:7/3] Holy Word: Salvation
+/cast [spec:2,talent:7/2] Apotheosis; [spec:2,talent:7/3] Holy Word: Salvation; [spec:1,@mouseover] Rapture
 END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
 #showtooltip

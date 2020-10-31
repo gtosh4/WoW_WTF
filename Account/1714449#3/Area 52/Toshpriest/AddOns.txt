@@ -36,3 +36,4 @@ Bazooka: enabled
 Prat-3.0: enabled
 MoveAnything: enabled
 miirGui: disabled
+InstanceAchievementTracker: disabled

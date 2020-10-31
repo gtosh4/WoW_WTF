@@ -236,6 +236,11 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0AD945E6"] = {
+					[58745] = {
+						["expireAt"] = 1604156450,
+						["rewardAmount"] = "16",
+						["rewardTexture"] = 2004597,
+					},
 				},
 				["Player-9-0B608E72"] = {
 					[51042] = {
@@ -296,10 +301,10 @@ WQTrackerDB = {
 					["Golrakahn"] = 124185,
 					["Blistermaw"] = 122958,
 					["Ven'orn"] = 126115,
-					["The Many-Faced Devourer"] = 127581,
 					["Foul Manifestation"] = 151202,
+					["The Many-Faced Devourer"] = 127581,
 					["Rumbling Goliath"] = 141620,
-					["Overseer Y'Beda"] = 124440,
+					["Naroua"] = 126419,
 					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
 					["Varga"] = 126208,
@@ -318,7 +323,7 @@ WQTrackerDB = {
 					["Echo of Myzrael"] = 141668,
 					["Branchlord Aldrus"] = 142508,
 					["Señor de cólera Yarez"] = 126338,
-					["Naroua"] = 126419,
+					["Overseer Y'Beda"] = 124440,
 					["Arachnoid Harvester"] = 151934,
 					["失控的机械兽"] = 151933,
 					["Elder Unu"] = 152414,

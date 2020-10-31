@@ -50,16 +50,16 @@ EssenceSetManager = {
 			},
 			["minors"] = {
 				["one"] = {
-					["ID"] = 37,
-					["name"] = "The Formless Void",
+					["ID"] = 27,
+					["name"] = "Memory of Lucid Dreams",
 				},
 				["three"] = {
 					["ID"] = 32,
 					["name"] = "Conflict and Strife",
 				},
 				["two"] = {
-					["ID"] = 19,
-					["name"] = "The Well of Existence",
+					["ID"] = 17,
+					["name"] = "The Ever-Rising Tide",
 				},
 			},
 		},

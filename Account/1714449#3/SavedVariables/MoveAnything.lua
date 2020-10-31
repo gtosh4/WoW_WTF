@@ -66,11 +66,11 @@ MADB = {
 				},
 				["TalkingHeadFrame"] = {
 					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
+						"CENTER", -- [1]
+						"DominosFrametalk", -- [2]
+						"CENTER", -- [3]
 						0, -- [4]
-						96, -- [5]
+						0, -- [5]
 					},
 					["name"] = "TalkingHeadFrame",
 					["hidden"] = true,

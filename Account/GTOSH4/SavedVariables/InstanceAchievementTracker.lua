@@ -2,7 +2,7 @@
 AchievementTrackerOptions = {
 	["toggleSoundFailed"] = false,
 	["showMinimap"] = false,
-	["toggleSound"] = false,
+	["onlyTrackMissingAchievements"] = false,
 	["displayInfoFrame"] = true,
 	["enableAutomaticCombatLogging"] = false,
 	["greyOutCompletedAchievements"] = false,
@@ -10,11 +10,11 @@ AchievementTrackerOptions = {
 	["announceToRaidWarning"] = true,
 	["trackingFrameXPos"] = 1758.333374023438,
 	["trackingFrameYPos"] = 722.5,
-	["enableAddon"] = true,
-	["hideCompletedAchievements"] = false,
 	["trackCharacterAchievements"] = false,
+	["hideCompletedAchievements"] = false,
+	["enableAddon"] = true,
 	["trackAchievementsInBlizzardUI"] = false,
-	["onlyTrackMissingAchievements"] = false,
+	["toggleSound"] = false,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -936,4 +936,11 @@ AchievementTrackerDebug = {
 	"10/10/2020 1:38 [DEBUG] Clearing Instance Variables", -- [917]
 	"10/10/2020 1:38 [DEBUG] Resetting Global Variables", -- [918]
 	"10/10/2020 1:38 [DEBUG] InfoFrame does not need to be reset", -- [919]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [920]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.1.0", -- [921]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [922]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [923]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [924]
+	"30/10/2020 20:55 [DEBUG] Hiding Minimap Icon", -- [925]
+	"30/10/2020 20:55 [DEBUG] NPC cache generated", -- [926]
 }

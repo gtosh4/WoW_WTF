@@ -1216,6 +1216,7 @@ TellMeWhenDB = {
 	["Version"] = 90201,
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
+			["NumGroups"] = 10,
 			["Version"] = 87505,
 			["Groups"] = {
 				{
@@ -6595,12 +6596,10 @@ TellMeWhenDB = {
 					["Locked"] = true,
 				}, -- [10]
 			},
-			["NumGroups"] = 10,
 			["TextureName"] = "Smooth v2",
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
-			["Version"] = 87505,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -9906,6 +9905,7 @@ TellMeWhenDB = {
 				}, -- [6]
 			},
 			["NumGroups"] = 5,
+			["Version"] = 87505,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["Locked"] = true,
@@ -10140,7 +10140,6 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["Name"] = "Mind Blast",
-							["Enabled"] = true,
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -10168,6 +10167,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["RangeCheck"] = true,
+							["Enabled"] = true,
 						}, -- [5]
 						{
 							["ShowTimer"] = true,
@@ -11119,6 +11119,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["OnlyMine"] = true,
 							["Enabled"] = true,
 						}, -- [6]
 						{
@@ -18776,6 +18777,8 @@ TellMeWhenDB = {
 			["Locked"] = true,
 		},
 		["Empty"] = {
+			["NumGroups"] = 5,
+			["Version"] = 87505,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -21756,8 +21759,6 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
-			["NumGroups"] = 5,
-			["Version"] = 87505,
 		},
 	},
 }

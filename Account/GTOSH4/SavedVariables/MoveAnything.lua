@@ -11,11 +11,11 @@ MADB = {
 			["frames"] = {
 				["TalkingHeadFrame"] = {
 					["orgPos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
+						"CENTER", -- [1]
+						"DominosFrametalk", -- [2]
+						"CENTER", -- [3]
 						0, -- [4]
-						96, -- [5]
+						0, -- [5]
 					},
 					["name"] = "TalkingHeadFrame",
 					["hidden"] = true,
@@ -44,22 +44,6 @@ MADB = {
 						0, -- [5]
 					},
 				},
-				["TooltipMover"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						0, -- [3]
-						0, -- [4]
-					},
-					["name"] = "TooltipMover",
-					["pos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						"TOP", -- [3]
-						1012.498657226563, -- [4]
-						-384.1666259765625, -- [5]
-					},
-				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -77,12 +61,28 @@ MADB = {
 						-3.33331298828125, -- [5]
 					},
 				},
+				["TooltipMover"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						0, -- [3]
+						0, -- [4]
+					},
+					["name"] = "TooltipMover",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						1012.498657226563, -- [4]
+						-384.1666259765625, -- [5]
+					},
+				},
 			},
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = true,
 	["frameListRows"] = 18,
+	["noBags"] = true,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }
