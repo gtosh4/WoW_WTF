@@ -1452,6 +1452,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Illsong",
 		},
+		[12042] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Yukiox",
+		},
 		[313362] = {
 			["school"] = 32,
 			["token"] = {
@@ -6204,7 +6212,9 @@ EncounterDetailsDB = {
 		},
 		[295310] = {
 			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Wilwar",
@@ -10631,6 +10641,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Psychus",
 		},
+		[300832] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Ñöxx-Tichondrius",
+		},
+		[7268] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Yukiox",
+		},
 		[307945] = {
 			["school"] = 32,
 			["token"] = {
@@ -11231,13 +11257,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lennÿ-Kil'jaeden",
 		},
-		[246152] = {
+		[282801] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Aethael",
+			["source"] = "The Platinum Pummeler",
 		},
 		[210320] = {
 			["school"] = 2,
@@ -11261,13 +11287,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Tinker Mekkatorque",
 		},
-		[282801] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[53652] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "The Platinum Pummeler",
+			["source"] = "Slurpinho",
 		},
 		[77535] = {
 			["school"] = 32,
@@ -11277,12 +11302,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hoofalo-Kil'jaeden",
 		},
-		[53652] = {
-			["school"] = 2,
+		[246152] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Slurpinho",
+			["source"] = "Aethael",
 		},
 		[287490] = {
 			["school"] = 16,
@@ -11353,13 +11379,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Captain Rupert",
 		},
-		[310015] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Ra-den",
-		},
 		[277185] = {
 			["school"] = 64,
 			["type"] = "BUFF",
@@ -11368,6 +11387,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Delpi",
+		},
+		[310015] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Ra-den",
 		},
 		[121557] = {
 			["school"] = 2,
@@ -11419,13 +11445,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Doom Lord Xorgok",
 		},
-		[182170] = {
-			["school"] = 32,
+		[190319] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Gorefiend",
+			["source"] = "Logs",
 		},
 		[313088] = {
 			["school"] = 32,
@@ -11436,15 +11463,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wilwar",
 		},
-		[190319] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Logs",
-		},
 		[298756] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -11453,6 +11471,14 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Cyranus",
+		},
+		[182170] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Gorefiend",
 		},
 		[303875] = {
 			["school"] = 16,
@@ -12057,15 +12083,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Moroes",
 		},
-		[315161] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Illsong",
-		},
 		[72840] = {
 			["school"] = 32,
 			["token"] = {
@@ -12082,13 +12099,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[250259] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Vol'kaal",
-		},
 		[298602] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -12097,13 +12107,12 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[318227] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[250259] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Thunderrz",
+			["source"] = "Vol'kaal",
 		},
 		[314483] = {
 			["school"] = 32,
@@ -12114,12 +12123,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Samh'rek, Beckoner of Chaos",
 		},
-		[227737] = {
-			["school"] = 1,
+		[318227] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Moroes",
+			["source"] = "Thunderrz",
 		},
 		[296510] = {
 			["school"] = 1,
@@ -12131,12 +12141,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Crawling Corruption",
 		},
-		[285468] = {
-			["school"] = 4,
+		[227737] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Gnomercy 4.U.",
+			["source"] = "Moroes",
 		},
 		[284117] = {
 			["school"] = 8,
@@ -12145,13 +12155,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Katherine",
 		},
-		[213405] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[285468] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Andruw",
+			["source"] = "Gnomercy 4.U.",
 		},
 		[312590] = {
 			["school"] = 1,
@@ -12162,13 +12171,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shad'har the Insatiable",
 		},
-		[259474] = {
-			["school"] = 4,
+		[213405] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Rixxa Fluxflame",
+			["source"] = "Andruw",
 		},
 		[257337] = {
 			["school"] = 8,
@@ -12177,6 +12186,22 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Coin-Operated Crowd Pummeler",
+		},
+		[259474] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Rixxa Fluxflame",
+		},
+		[306971] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Fury of N'Zoth",
 		},
 		[34428] = {
 			["school"] = 1,
@@ -12195,14 +12220,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bwonsamdi",
 		},
-		[306971] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Fury of N'Zoth",
-		},
 		[184357] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -12211,6 +12228,14 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Gurtogg Bloodboil",
+		},
+		[315762] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Vexiona",
 		},
 		[291613] = {
 			["school"] = 4,
@@ -12232,14 +12257,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mirror Image",
 		},
-		[315762] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Vexiona",
-		},
 		[276068] = {
 			["school"] = 16,
 			["token"] = {
@@ -12255,6 +12272,15 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Evanpal",
+		},
+		[315161] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Illsong",
 		},
 		[116189] = {
 			["school"] = 1,
@@ -12307,12 +12333,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Andruw",
 		},
-		[298782] = {
-			["school"] = 64,
+		[270117] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Queen Azshara",
+			["source"] = "Illsong",
 		},
 		[283534] = {
 			["school"] = 8,
@@ -12321,13 +12347,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Magneto-Arm",
 		},
-		[273415] = {
+		[77505] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Temptfate",
+			["source"] = "Yukios-Kil'jaeden",
 		},
 		[299095] = {
 			["school"] = 1,
@@ -12344,6 +12370,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sporecaller Zancha",
 		},
+		[283421] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Gnomercy 4.U.",
+		},
+		[284451] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Unknown",
+		},
 		[284453] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -12352,22 +12392,6 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Living Bomb",
-		},
-		[288546] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Magus of the Dead",
-		},
-		[85222] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Slurpinho",
 		},
 		[306974] = {
 			["school"] = 32,
@@ -12401,20 +12425,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aqualing",
 		},
-		[283421] = {
+		[265002] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Gnomercy 4.U.",
+			["source"] = "Raal the Gluttonous",
 		},
-		[291930] = {
-			["school"] = 1,
+		[85222] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Cubed Clutter",
+			["source"] = "Slurpinho",
 		},
 		[288548] = {
 			["school"] = 16,
@@ -12427,13 +12451,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Magus of the Dead",
 		},
-		[265002] = {
-			["school"] = 1,
+		[269097] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Raal the Gluttonous",
+			["source"] = "Lord Stormsong",
 		},
 		[282406] = {
 			["school"] = 1,
@@ -12461,14 +12485,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Moonßlight",
 		},
-		[286503] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[287109] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Living Bomb",
+			["source"] = "Unknown",
 		},
 		[298787] = {
 			["school"] = 64,
@@ -12477,13 +12500,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[287109] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[306978] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Fury of N'Zoth",
 		},
 		[284455] = {
 			["school"] = 1,
@@ -12500,14 +12524,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Netherstrasz",
 		},
-		[306978] = {
-			["school"] = 32,
+		[282408] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Fury of N'Zoth",
+			["source"] = "Spark Bot",
 		},
 		[273294] = {
 			["school"] = 4,
@@ -12765,21 +12791,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sister Katherine",
 		},
-		[306986] = {
+		[315176] = {
 			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Fury of N'Zoth",
-		},
-		[231843] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Biterror-Illidan",
+			["source"] = "Thunderrz",
+		},
+		[309853] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Dark Manifestation",
 		},
 		[313129] = {
 			["school"] = 1,
@@ -12802,14 +12828,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fistmanpanda-EmeraldDream",
 		},
-		[309853] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Dark Manifestation",
-		},
 		[284089] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -12827,14 +12845,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Garval the Vanquisher",
 		},
-		[306988] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Fury of N'Zoth",
-		},
 		[260508] = {
 			["school"] = 1,
 			["token"] = {
@@ -12843,6 +12853,22 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Soulbound Goliath",
+		},
+		[306988] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Fury of N'Zoth",
+		},
+		[231843] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Biterror-Illidan",
 		},
 		[268086] = {
 			["school"] = 32,
@@ -12910,14 +12936,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Leafyo",
 		},
-		[284468] = {
+		[268088] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Anointed Disciple",
+			["source"] = "Sister Malady",
 		},
 		[71405] = {
 			["school"] = 32,
@@ -12994,25 +13020,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wanton Sapper",
 		},
-		[316211] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Unknown",
-		},
-		[193455] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Smytt",
-		},
 		[307582] = {
 			["school"] = 8,
 			["token"] = {
@@ -13022,6 +13029,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aqir Drone",
 		},
+		[193455] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Smytt",
+		},
 		[596] = {
 			["school"] = 2,
 			["token"] = {
@@ -13030,6 +13045,13 @@ EncounterDetailsDB = {
 				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Itsyellowy",
+		},
+		[318187] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Shaneyboom-Zul'jin",
 		},
 		[308018] = {
 			["school"] = 8,
@@ -13045,12 +13067,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Galecaller Apprentice",
 		},
-		[318187] = {
-			["school"] = 32,
+		[289487] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Shaneyboom-Zul'jin",
+			["source"] = "De Lurker Be'loa",
 		},
 		[306995] = {
 			["school"] = 32,
@@ -13062,14 +13085,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wrathion",
 		},
-		[289487] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "De Lurker Be'loa",
-		},
 		[315772] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -13080,6 +13095,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "N'Zoth the Corruptor",
 		},
+		[45181] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Decision",
+		},
 		[181683] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -13088,13 +13111,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tyrant Velhari",
 		},
-		[294711] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
+		[306996] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Abyssal Commander Sivara",
+			["source"] = "Void Ascendant",
 		},
 		[260512] = {
 			["school"] = 1,
@@ -13114,12 +13138,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Frida Ironbellows",
 		},
-		[49020] = {
+		[85739] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Rathux",
+			["source"] = "Wilwar",
 		},
 		[2050] = {
 			["school"] = 2,
@@ -13129,13 +13154,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Itsyellowy",
 		},
-		[45181] = {
-			["school"] = 2,
+		[316211] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Decision",
+			["source"] = "Unknown",
 		},
 		[204242] = {
 			["school"] = 2,
@@ -13234,21 +13262,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Netherstrasz",
 		},
-		[310073] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Mindgrasp Stalker",
-		},
-		[319349] = {
-			["school"] = 64,
+		[301947] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Titanic Countermeasure",
+			["source"] = "Pashmar the Fanatical",
+		},
+		[201633] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Earthen Wall Totem",
 		},
 		[290621] = {
 			["school"] = 1,
@@ -13286,14 +13314,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wrathion",
 		},
-		[271174] = {
-			["school"] = 8,
+		[298054] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Pallid Gorger",
+			["source"] = "Lady Ashvane",
 		},
 		[312121] = {
 			["school"] = 4,
@@ -13311,13 +13337,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Decision",
 		},
-		[201633] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[308029] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Earthen Wall Totem",
+			["source"] = "Prophet Skitra",
 		},
 		[257956] = {
 			["school"] = 32,
@@ -13327,29 +13352,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Jes Howlis",
 		},
-		[298054] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Lady Ashvane",
-		},
-		[308029] = {
+		[313041] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Prophet Skitra",
-		},
-		[311159] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Cursed Blood",
+			["source"] = "Fury of N'Zoth",
 		},
 		[153564] = {
 			["school"] = 4,
@@ -13358,29 +13366,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Delpi",
 		},
-		[70109] = {
-			["school"] = 1,
+		[307064] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sindragosa",
+			["source"] = "Fury of N'Zoth",
 		},
-		[285508] = {
-			["school"] = 4,
+		[319349] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Munitions Barrel",
-		},
-		[301886] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Yukios-Kil'jaeden",
+			["source"] = "Titanic Countermeasure",
 		},
 		[264923] = {
 			["school"] = 1,
@@ -13399,6 +13401,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Decision",
 		},
+		[301886] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Yukios-Kil'jaeden",
+		},
+		[271175] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Pallid Gorger",
+		},
+		[271174] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Pallid Gorger",
+		},
 		[313148] = {
 			["school"] = 32,
 			["token"] = {
@@ -13415,19 +13441,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yukiox",
 		},
+		[285508] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Munitions Barrel",
+		},
 		[312125] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-		},
-		[271175] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Pallid Gorger",
 		},
 		[280389] = {
 			["school"] = 1,
@@ -13509,13 +13535,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Smytt",
 		},
-		[307011] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[292247] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gaze of Madness",
+			["source"] = "Blackwater Behemoth",
 		},
 		[271178] = {
 			["school"] = 1,
@@ -13528,12 +13553,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pallid Gorger",
 		},
-		[292247] = {
-			["school"] = 8,
+		[258921] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Blackwater Behemoth",
+			["source"] = "Aludin-Executus",
 		},
 		[269131] = {
 			["school"] = 32,
@@ -13546,12 +13571,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Stormsong",
 		},
-		[258921] = {
-			["school"] = 4,
+		[294726] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Aludin-Executus",
+			["source"] = "Abyssal Commander Sivara",
 		},
 		[307061] = {
 			["school"] = 8,
@@ -13576,12 +13601,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maw of Drest'agath",
 		},
-		[294726] = {
-			["school"] = 1,
+		[307011] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Abyssal Commander Sivara",
+			["source"] = "Gaze of Madness",
 		},
 		[279584] = {
 			["school"] = 1,
@@ -13668,15 +13694,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Netherstrasz",
 		},
-		[87023] = {
-			["school"] = 4,
+		[282444] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Delpi",
+			["source"] = "Kimbul's Aspect",
 		},
 		[287255] = {
 			["school"] = 8,
@@ -13693,15 +13719,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sci",
 		},
-		[282447] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Kimbul",
-		},
 		[306973] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -13709,6 +13726,15 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Fury of N'Zoth",
+		},
+		[267830] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Galecaller Faye",
 		},
 		[153561] = {
 			["school"] = 4,
@@ -13750,15 +13776,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lady Jaina Proudmoore",
 		},
-		[267830] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Galecaller Faye",
-		},
 		[193530] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -13774,6 +13791,15 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Crackling Shard",
+		},
+		[282447] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Kimbul",
 		},
 		[303986] = {
 			["school"] = 1,
@@ -13817,13 +13843,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aludin-Executus",
 		},
-		[215479] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[307020] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Gummybuns",
+			["source"] = "Vexiona",
 		},
 		[310090] = {
 			["school"] = 1,
@@ -13840,20 +13868,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vexiona",
 		},
-		[44544] = {
-			["school"] = 16,
+		[215479] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Wyleice-EmeraldDream",
+			["source"] = "Gummybuns",
 		},
-		[313162] = {
-			["school"] = 32,
+		[300877] = {
+			["school"] = 65,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sci",
+			["source"] = "Titan Console",
 		},
 		[84721] = {
 			["school"] = 16,
@@ -13862,15 +13892,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wyleice-EmeraldDream",
 		},
-		[307020] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[44544] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vexiona",
+			["source"] = "Wyleice-EmeraldDream",
 		},
 		[308044] = {
 			["school"] = 32,
@@ -14043,13 +14071,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gorefiend",
 		},
-		[300883] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[43265] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Abyssal Commander Sivara",
+			["source"] = "Evangelos",
 		},
 		[295791] = {
 			["school"] = 1,
@@ -14256,19 +14283,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Laminaria",
 		},
-		[307048] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Fury of N'Zoth",
-		},
 		[190411] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Wilwar",
+		},
+		[307048] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Fury of N'Zoth",
 		},
 		[53600] = {
 			["school"] = 2,
@@ -14401,13 +14428,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wind Rush Totem",
 		},
-		[312155] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[287585] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "N'Zoth the Corruptor",
+			["source"] = "Lady Jaina Proudmoore",
 		},
 		[285654] = {
 			["school"] = 8,
@@ -14452,12 +14478,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oxclamation",
 		},
-		[183752] = {
-			["school"] = 124,
+		[306015] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Aludin-Executus",
+			["source"] = "Wrathion",
 		},
 		[286563] = {
 			["school"] = 1,
@@ -14484,14 +14512,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-den",
 		},
-		[306015] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[183752] = {
+			["school"] = 124,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Wrathion",
+			["source"] = "Aludin-Executus",
 		},
 		[298849] = {
 			["school"] = 8,
@@ -14551,13 +14577,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "N'Zoth the Corruptor",
 		},
-		[209859] = {
-			["school"] = 1,
+		[313184] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ashvane Invader",
+			["source"] = "Psychus",
 		},
 		[266091] = {
 			["school"] = 1,
@@ -14577,13 +14603,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oxclamation",
 		},
-		[313184] = {
-			["school"] = 32,
+		[209859] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Psychus",
+			["source"] = "Ashvane Invader",
 		},
 		[288219] = {
 			["school"] = 16,
@@ -14709,12 +14735,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Smytten",
 		},
-		[287585] = {
-			["school"] = 16,
+		[312155] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Lady Jaina Proudmoore",
+			["source"] = "N'Zoth the Corruptor",
 		},
 		[318688] = {
 			["school"] = 32,
@@ -14925,12 +14952,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[43265] = {
-			["school"] = 32,
+		[300883] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Evangelos",
+			["source"] = "Abyssal Commander Sivara",
 		},
 		[289795] = {
 			["school"] = 1,
@@ -15054,14 +15082,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Azshara's Devoted",
 		},
-		[300877] = {
-			["school"] = 65,
-			["type"] = "DEBUFF",
+		[313162] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Titan Console",
+			["source"] = "Sci",
 		},
 		[216521] = {
 			["school"] = 8,
@@ -15140,15 +15166,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Venture Co. Skyscorcher",
 		},
-		[282444] = {
-			["school"] = 1,
+		[87023] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Kimbul's Aspect",
+			["source"] = "Delpi",
 		},
 		[300917] = {
 			["school"] = 8,
@@ -15199,14 +15225,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Baylesstv-Kil'jaeden",
 		},
-		[319346] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-		},
 		[188370] = {
 			["school"] = 2,
 			["type"] = "BUFF",
@@ -15214,6 +15232,14 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Netherstrasz",
+		},
+		[319346] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
 		},
 		[313040] = {
 			["school"] = 32,
@@ -15304,15 +15330,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Psychus",
 		},
-		[307064] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[311159] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Fury of N'Zoth",
+			["source"] = "Cursed Blood",
 		},
 		[312183] = {
 			["school"] = 96,
@@ -15321,12 +15347,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Forbidden Manifestation",
 		},
-		[313041] = {
-			["school"] = 32,
+		[70109] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Fury of N'Zoth",
+			["source"] = "Sindragosa",
 		},
 		[297851] = {
 			["school"] = 1,
@@ -15360,28 +15388,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Moonßlight",
 		},
-		[301947] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Pashmar the Fanatical",
-		},
-		[115129] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Fistmanpanda-EmeraldDream",
-		},
-		[260547] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Soulbound Goliath",
-		},
 		[181718] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -15390,6 +15396,28 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Tyrant Velhari",
+		},
+		[310073] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Mindgrasp Stalker",
+		},
+		[260547] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Soulbound Goliath",
+		},
+		[115129] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Fistmanpanda-EmeraldDream",
 		},
 		[261439] = {
 			["school"] = 1,
@@ -15459,29 +15487,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Volatile Pod",
 		},
+		[49020] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Rathux",
+		},
+		[294711] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Abyssal Commander Sivara",
+		},
 		[222024] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Rathux",
-		},
-		[85739] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Wilwar",
-		},
-		[306996] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Void Ascendant",
 		},
 		[54680] = {
 			["school"] = 1,
@@ -15540,21 +15566,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[284365] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Brother Joseph",
-		},
-		[268088] = {
+		[284468] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sister Malady",
+			["source"] = "Anointed Disciple",
+		},
+		[284365] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Brother Joseph",
 		},
 		[274598] = {
 			["school"] = 1,
@@ -15617,6 +15643,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Garval the Vanquisher",
 		},
+		[306986] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Fury of N'Zoth",
+		},
 		[268893] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -15624,14 +15658,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Judaasx",
-		},
-		[315176] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Thunderrz",
 		},
 		[260551] = {
 			["school"] = 1,
@@ -15755,22 +15781,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Rezan",
 		},
+		[286503] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Living Bomb",
+		},
 		[310385] = {
 			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-		},
-		[282408] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Spark Bot",
 		},
 		[256970] = {
 			["school"] = 4,
@@ -15806,21 +15830,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Azsh'ari Witch",
 		},
-		[269097] = {
+		[291930] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Cubed Clutter",
+		},
+		[288546] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Lord Stormsong",
-		},
-		[77505] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Yukios-Kil'jaeden",
+			["source"] = "Magus of the Dead",
 		},
 		[307080] = {
 			["school"] = 9,
@@ -15836,19 +15861,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Silivaz the Zealous",
 		},
-		[284451] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Unknown",
-		},
-		[270117] = {
+		[273415] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Illsong",
+			["source"] = "Temptfate",
+		},
+		[298782] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Queen Azshara",
 		},
 		[311176] = {
 			["school"] = 32,
@@ -16770,630 +16796,1134 @@ EncounterDetailsDB = {
 				7, -- [4]
 			}, -- [1]
 			{
-				0.1, -- [1]
-				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Choicebeef has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				0.3240000000223517, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Ñöxx has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
 			}, -- [2]
 			{
-				2.672999999951571, -- [1]
+				2.878999999724329, -- [1]
 				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
 			}, -- [3]
 			{
-				15.12099999981001, -- [1]
+				15.30799999972805, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Toshpriest", -- [3]
+				"Yukiox", -- [3]
 				2, -- [4]
 			}, -- [4]
 			{
-				15.12099999981001, -- [1]
+				15.30799999972805, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				2, -- [4]
 			}, -- [5]
 			{
-				37.62600000016391, -- [1]
+				38.27399999974296, -- [1]
 				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
 			}, -- [6]
 			{
-				54.92299999995157, -- [1]
+				55.21799999987707, -- [1]
 				"|TInterface\\ICONS\\INV_Hivemind.blp:20|t A |cFFFF0000|Hspell:309046|h[Mindgate]|h|r opens leading to the Mind of N'Zoth!", -- [2]
 				"Mindgate", -- [3]
 				1, -- [4]
 			}, -- [7]
 			{
-				54.92299999995157, -- [1]
-				"Enter, and behold the greatest of truths.", -- [2]
+				55.21799999987707, -- [1]
+				"The way opens. Come, walk the path to power.", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
 			}, -- [8]
 			{
-				72.68699999991804, -- [1]
+				72.36599999992177, -- [1]
 				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
 			}, -- [9]
 			{
-				101.74599999981, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Smytt", -- [3]
-				2, -- [4]
+				93.2730000000447, -- [1]
+				"I claim this flesh!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				7, -- [4]
 			}, -- [10]
 			{
-				101.74599999981, -- [1]
+				101.7859999998473, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				"Néekô", -- [3]
 				2, -- [4]
 			}, -- [11]
 			{
-				102.3539999998175, -- [1]
+				101.7859999998473, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				2, -- [4]
+			}, -- [12]
+			{
+				102.4899999997579, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
-			}, -- [12]
+			}, -- [13]
 			{
-				114.4539999999106, -- [1]
+				114.4669999997132, -- [1]
 				"The Void beckons.", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
-			}, -- [13]
+			}, -- [14]
 			{
-				122.2200000002049, -- [1]
+				122.3429999998771, -- [1]
 				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
-			}, -- [14]
+			}, -- [15]
 			{
-				143.7129999999888, -- [1]
+				138.5209999997169, -- [1]
 				"You know not what you do!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
-			}, -- [15]
-			{
-				143.7129999999888, -- [1]
-				"|TInterface\\ICONS\\INV_Icon_ShadowCouncilOrb_purple.blp:20|t |cFFFF0000|Hspell:310126|h[Psychic Shell]|h|r fades from N'Zoth!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
 			}, -- [16]
 			{
-				176.3319999999367, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
+				138.5209999997169, -- [1]
+				"|TInterface\\ICONS\\INV_Icon_ShadowCouncilOrb_purple.blp:20|t |cFFFF0000|Hspell:310126|h[Psychic Shell]|h|r fades from N'Zoth!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
 			}, -- [17]
 			{
-				189.6340000000782, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Nv", -- [3]
-				2, -- [4]
-			}, -- [18]
-			{
-				189.6340000000782, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				2, -- [4]
-			}, -- [19]
-			{
-				211.4160000002012, -- [1]
+				170.6809999998659, -- [1]
 				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
+			}, -- [18]
+			{
+				184.063000000082, -- [1]
+				"%s just won a game of Hearthstone!", -- [2]
+				"Royalty", -- [3]
+				3, -- [4]
+			}, -- [19]
+			{
+				184.6039999998175, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
+				"Yukiox", -- [3]
+				2, -- [4]
 			}, -- [20]
 			{
-				228.7590000000782, -- [1]
+				184.6039999998175, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				2, -- [4]
+			}, -- [21]
+			{
+				206.401999999769, -- [1]
+				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				1, -- [4]
+			}, -- [22]
+			{
+				223.5779999997467, -- [1]
 				"|TInterface\\ICONS\\INV_Hivemind.blp:20|t A |cFFFF0000|Hspell:309046|h[Mindgate]|h|r opens leading to the Mind of N'Zoth!", -- [2]
 				"Mindgate", -- [3]
 				1, -- [4]
-			}, -- [21]
+			}, -- [23]
 			{
-				228.7590000000782, -- [1]
-				"Enter, and behold the greatest of truths.", -- [2]
+				223.5779999997467, -- [1]
+				"The way opens. Come, walk the path to power.", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
-			}, -- [22]
+			}, -- [24]
 			{
-				246.7519999998622, -- [1]
+				241.2999999998137, -- [1]
 				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
-			}, -- [23]
+			}, -- [25]
 			{
-				275.0720000001602, -- [1]
+				269.9159999997355, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
 				"Paxington", -- [3]
 				2, -- [4]
-			}, -- [24]
+			}, -- [26]
 			{
-				275.0720000001602, -- [1]
+				269.9159999997355, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				2, -- [4]
-			}, -- [25]
-			{
-				275.8700000001118, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
-			}, -- [26]
-			{
-				287.9109999998473, -- [1]
-				"The Void beckons.", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
 			}, -- [27]
 			{
-				296.24599999981, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
+				271.7949999999255, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
 			}, -- [28]
 			{
-				315.6299999998882, -- [1]
-				"Rrraaaaaaaaaah!", -- [2]
+				283.7050000000745, -- [1]
+				"The Void beckons.", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
 			}, -- [29]
 			{
-				315.6299999998882, -- [1]
-				"|TInterface\\ICONS\\INV_Icon_ShadowCouncilOrb_purple.blp:20|t |cFFFF0000|Hspell:310126|h[Psychic Shell]|h|r fades from N'Zoth!", -- [2]
+				291.3360000001267, -- [1]
+				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				1, -- [4]
 			}, -- [30]
 			{
-				349.5290000000969, -- [1]
-				"All paths converge within the perfection of the Void!", -- [2]
+				305.3449999997392, -- [1]
+				"You know not what you do!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
 			}, -- [31]
 			{
-				367.0249999999069, -- [1]
+				305.3449999997392, -- [1]
+				"|TInterface\\ICONS\\INV_Icon_ShadowCouncilOrb_purple.blp:20|t |cFFFF0000|Hspell:310126|h[Psychic Shell]|h|r fades from N'Zoth!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				1, -- [4]
+			}, -- [32]
+			{
+				310.4079999998212, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Lyuneria gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Lyuneria", -- [3]
+				1, -- [4]
+			}, -- [33]
+			{
+				319.3559999996796, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Lyuneria has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				1, -- [4]
+			}, -- [34]
+			{
+				339.2369999997318, -- [1]
+				"All paths converge within the perfection of the Void!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				356.7080000001006, -- [1]
 				"Champions! N'Zoth is bridgin' dimensions tae assault the Chamber of Heart!", -- [2]
 				"Magni Bronzebeard", -- [3]
 				7, -- [4]
-			}, -- [32]
+			}, -- [36]
 			{
-				372.0869999998249, -- [1]
+				361.7820000001229, -- [1]
 				"We have tae defeat him before he corrupts the soul o' Azeroth!", -- [2]
 				"Magni Bronzebeard", -- [3]
 				7, -- [4]
-			}, -- [33]
-			{
-				376.063000000082, -- [1]
-				"The true prize shall be mine!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
-			}, -- [34]
-			{
-				405.9120000000112, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Paxington", -- [3]
-				2, -- [4]
-			}, -- [35]
-			{
-				405.9120000000112, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				2, -- [4]
-			}, -- [36]
-			{
-				407.7919999998994, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
 			}, -- [37]
 			{
-				419.8629999998957, -- [1]
-				"The Void beckons.", -- [2]
+				365.7629999998026, -- [1]
+				"The true prize shall be mine!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
 			}, -- [38]
 			{
-				460.5740000000224, -- [1]
-				"Let go of hope!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
+				373.9320000000298, -- [1]
+				"%s just won a game of Hearthstone!", -- [2]
+				"Royalty", -- [3]
+				3, -- [4]
 			}, -- [39]
 			{
-				471.811999999918, -- [1]
+				395.4819999998435, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Yukiox", -- [3]
+				"Delpix", -- [3]
 				2, -- [4]
 			}, -- [40]
 			{
-				471.811999999918, -- [1]
+				395.4819999998435, -- [1]
 				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
 				2, -- [4]
 			}, -- [41]
 			{
-				487.6389999999665, -- [1]
-				"The Forge is nearly charged, champions! Hang in there!", -- [2]
-				"Magni Bronzebeard", -- [3]
-				7, -- [4]
+				397.2779999999329, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				1, -- [4]
 			}, -- [42]
 			{
-				488.5320000001229, -- [1]
-				"Champions, we're chargin' the Forge! He's gettin' weaker! Keep fightin'!", -- [2]
-				"Magni Bronzebeard", -- [3]
+				409.2799999997951, -- [1]
+				"The Void beckons.", -- [2]
+				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
 			}, -- [43]
 			{
-				491.3240000000224, -- [1]
-				"The titans' playthings mean nothing to a god!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
+				461.2930000000633, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
+				"Néekô", -- [3]
+				2, -- [4]
 			}, -- [44]
 			{
-				493.2839999999851, -- [1]
-				"Let go of hope!", -- [2]
+				461.2930000000633, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
 				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
+				2, -- [4]
 			}, -- [45]
 			{
-				500.6359999999404, -- [1]
-				"Warning: Chamber of Heart compromised. Hostile forces inbound.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
+				462.3789999997243, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Royalty gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Royalty", -- [3]
+				1, -- [4]
 			}, -- [46]
 			{
-				506.4429999999702, -- [1]
-				"Champions, we're overrun! We cannae fire!", -- [2]
+				477.2119999998249, -- [1]
+				"The Forge is nearly charged, champions! Hang in there!", -- [2]
 				"Magni Bronzebeard", -- [3]
 				7, -- [4]
 			}, -- [47]
 			{
-				510.2239999999292, -- [1]
-				"Dimensional gateway established.", -- [2]
-				"MOTHER", -- [3]
+				480.8780000000261, -- [1]
+				"The titans' playthings mean nothing to a god!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
 				7, -- [4]
 			}, -- [48]
 			{
-				513.1510000000708, -- [1]
+				482.3900000001304, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Royalty has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				1, -- [4]
+			}, -- [49]
+			{
+				490.1919999998063, -- [1]
+				"Warning: Chamber of Heart compromised. Hostile forces inbound.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [50]
+			{
+				495.9860000000335, -- [1]
+				"Champions, we're overrun! We cannae fire!", -- [2]
+				"Magni Bronzebeard", -- [3]
+				7, -- [4]
+			}, -- [51]
+			{
+				499.773999999743, -- [1]
+				"Dimensional gateway established.", -- [2]
+				"MOTHER", -- [3]
+				7, -- [4]
+			}, -- [52]
+			{
+				502.7080000001006, -- [1]
 				"MOTHER opened a gateway tae the Chamber! Champions, Azeroth needs yer aid!", -- [2]
 				"Magni Bronzebeard", -- [3]
 				7, -- [4]
-			}, -- [49]
+			}, -- [53]
 			{
-				601.9010000000708, -- [1]
+				616.6499999999069, -- [1]
 				"The Forge is nearly charged, champions! Hang in there!", -- [2]
 				"Magni Bronzebeard", -- [3]
 				7, -- [4]
-			}, -- [50]
+			}, -- [54]
+			{
+				628.3879999998026, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
+				"Néekô", -- [3]
+				2, -- [4]
+			}, -- [55]
+			{
+				628.3879999998026, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				2, -- [4]
+			}, -- [56]
+			{
+				630.2229999997653, -- [1]
+				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				1, -- [4]
+			}, -- [57]
+			{
+				630.2229999997653, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Jojo gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Jojo", -- [3]
+				1, -- [4]
+			}, -- [58]
+			{
+				633.3689999999478, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Scifi gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Scifi", -- [3]
+				1, -- [4]
+			}, -- [59]
+			{
+				635.3969999998808, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Sageside gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Sageside", -- [3]
+				1, -- [4]
+			}, -- [60]
+			{
+				636.3919999999925, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Slurpinho gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Slurpinho", -- [3]
+				1, -- [4]
+			}, -- [61]
+			{
+				641.3939999998547, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Thunderzhunt gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Thunderzhunt", -- [3]
+				1, -- [4]
+			}, -- [62]
+			{
+				642.1740000001155, -- [1]
+				"The Void beckons.", -- [2]
+				"N'Zoth the Corruptor", -- [3]
+				7, -- [4]
+			}, -- [63]
+			{
+				643.2949999999255, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Delpix gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Delpix", -- [3]
+				1, -- [4]
+			}, -- [64]
+			{
+				643.7439999999478, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Lyuneria gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Lyuneria", -- [3]
+				1, -- [4]
+			}, -- [65]
+			{
+				644.2760000000708, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Neyari gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Neyari", -- [3]
+				1, -- [4]
+			}, -- [66]
+			{
+				644.2760000000708, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Smytt gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Smytt", -- [3]
+				1, -- [4]
+			}, -- [67]
 			["boss"] = "N'Zoth the Corruptor",
 		}, -- [1]
 		{
 			{
-				0.1, -- [1]
-				"Your minds remain closed. Come, mortals... glimpse the infinite truths.", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				10.25999999977648, -- [1]
+				"Sanity is forfeit!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				0.1, -- [1]
-				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Choicebeef has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				12.4089999999851, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_MINDBOMB.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306973|h[Madness Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				2, -- [4]
 			}, -- [2]
 			{
-				2.638999999966472, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				16.09899999992922, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [3]
 			{
-				15.1019999999553, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Andruw", -- [3]
-				2, -- [4]
+				26.37899999972433, -- [1]
+				"Impervious! Unyielding!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [4]
 			{
-				15.1019999999553, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				2, -- [4]
+				35.12199999997392, -- [1]
+				"Sanity is forfeit!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [5]
 			{
-				38.10900000017136, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				41.1019999999553, -- [1]
+				"|TInterface\\Icons\\INV_EyeofNzothPet.blp:20|t A %s emerges!", -- [2]
+				"Gaze of Madness", -- [3]
 				1, -- [4]
 			}, -- [6]
 			{
-				54.93899999978021, -- [1]
-				"|TInterface\\ICONS\\INV_Hivemind.blp:20|t A |cFFFF0000|Hspell:309046|h[Mindgate]|h|r opens leading to the Mind of N'Zoth!", -- [2]
-				"Mindgate", -- [3]
-				1, -- [4]
+				41.1019999999553, -- [1]
+				"Insanity spreads!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [7]
 			{
-				54.93899999978021, -- [1]
-				"The way opens. Come, walk the path to power.", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				48.0910000000149, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [8]
 			{
-				72.08399999979883, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				58.38999999966472, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [9]
 			{
-				101.7450000001118, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Moonßlight", -- [3]
-				2, -- [4]
+				60.37399999983609, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [10]
 			{
-				101.7450000001118, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				2, -- [4]
+				80.15100000007078, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [11]
 			{
-				102.4559999997728, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				85.08399999979883, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [12]
 			{
-				114.4969999999739, -- [1]
-				"The Void beckons.", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				90.33999999985099, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [13]
 			{
-				122.3149999999441, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				103.5959999999031, -- [1]
+				"N'Zoth is restoring his flesh, champions! Do not relent!", -- [2]
+				"Wrathion", -- [3]
+				7, -- [4]
 			}, -- [14]
 			{
-				131.3969999998808, -- [1]
-				"You know not what you do!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				103.5959999999031, -- [1]
+				"Your defiance will be thwarted! My strength is unending!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [15]
 			{
-				131.3969999998808, -- [1]
-				"|TInterface\\ICONS\\INV_Icon_ShadowCouncilOrb_purple.blp:20|t |cFFFF0000|Hspell:310126|h[Psychic Shell]|h|r fades from N'Zoth!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				123.054999999702, -- [1]
+				"Champions, N'Zoth is luring us into the core of his mind!", -- [2]
+				"Wrathion", -- [3]
+				7, -- [4]
 			}, -- [16]
 			{
-				163.9929999997839, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				126.8999999999069, -- [1]
+				"I dare not enter that foul place, lest I lose myself to his madness. Strike him down!", -- [2]
+				"Wrathion", -- [3]
+				7, -- [4]
 			}, -- [17]
 			{
-				177.5709999999963, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Warlockmania", -- [3]
-				2, -- [4]
+				137.1609999998473, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [18]
 			{
-				177.5709999999963, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				2, -- [4]
+				142.1599999996834, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:307048|h[Eternal Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
 			}, -- [19]
 			{
-				199.3610000000335, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				142.1599999996834, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [20]
 			{
-				216.5639999997802, -- [1]
-				"|TInterface\\ICONS\\INV_Hivemind.blp:20|t A |cFFFF0000|Hspell:309046|h[Mindgate]|h|r opens leading to the Mind of N'Zoth!", -- [2]
-				"Mindgate", -- [3]
-				1, -- [4]
+				145.2549999998882, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [21]
 			{
-				216.5639999997802, -- [1]
-				"The way opens. Come, walk the path to power.", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
+				147.9320000000298, -- [1]
+				"%s just won a game of Hearthstone!", -- [2]
+				"Royalty", -- [3]
+				3, -- [4]
 			}, -- [22]
 			{
-				233.5320000001229, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				157.1850000000559, -- [1]
+				"Impervious! Unyielding!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [23]
 			{
-				262.6239999998361, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Durantye", -- [3]
-				2, -- [4]
+				160.2349999998696, -- [1]
+				"Sanity is forfeit!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [24]
 			{
-				262.6239999998361, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				162.0849999999628, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_MINDBOMB.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306973|h[Madness Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
 				2, -- [4]
 			}, -- [25]
 			{
-				263.6419999999926, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				162.2829999998212, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:307048|h[Eternal Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
 				1, -- [4]
 			}, -- [26]
 			{
-				275.6949999998324, -- [1]
-				"The Void beckons.", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				162.2829999998212, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [27]
 			{
-				284.3679999997839, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				164.9219999997877, -- [1]
+				"Sanity is forfeit!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [28]
 			{
-				294.4229999999516, -- [1]
-				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Jojo has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				170.7229999997653, -- [1]
+				"The final truth awaits you, my chosen.", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [29]
 			{
-				312.5339999999851, -- [1]
-				"You know not what you do!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				188.9869999997318, -- [1]
+				"Boils burst! My fury spreads!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [30]
 			{
-				312.5339999999851, -- [1]
-				"|TInterface\\ICONS\\INV_Icon_ShadowCouncilOrb_purple.blp:20|t |cFFFF0000|Hspell:310126|h[Psychic Shell]|h|r fades from N'Zoth!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				198.1929999999702, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:313040|h[Infinite Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
 				1, -- [4]
 			}, -- [31]
 			{
-				318.8319999999367, -- [1]
-				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Warlockmania has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				198.1929999999702, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [32]
 			{
-				346.7650000001304, -- [1]
-				"All paths converge within the perfection of the Void!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				200.844000000041, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [33]
 			{
-				363.8670000000857, -- [1]
-				"Champions! N'Zoth is bridgin' dimensions tae assault the Chamber of Heart!", -- [2]
-				"Magni Bronzebeard", -- [3]
+				209.9769999999553, -- [1]
+				"Impervious! Unyielding!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [34]
 			{
-				368.9259999999777, -- [1]
-				"We have tae defeat him before he corrupts the soul o' Azeroth!", -- [2]
-				"Magni Bronzebeard", -- [3]
+				217.0189999998547, -- [1]
+				"Delirium claims you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [35]
 			{
-				372.9109999998473, -- [1]
-				"The true prize shall be mine!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
+				218.8349999999628, -- [1]
+				"|TInterface\\Icons\\SPELL_PRIEST_SHADOWORBS.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306984|h[Insanity Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				2, -- [4]
 			}, -- [36]
 			{
-				402.0780000002123, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Yukiox", -- [3]
-				2, -- [4]
+				242.75, -- [1]
+				"Your time is running out!", -- [2]
+				"Solvèj", -- [3]
+				7, -- [4]
 			}, -- [37]
 			{
-				402.0780000002123, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				2, -- [4]
+				249.9469999996945, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:313040|h[Infinite Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
 			}, -- [38]
 			{
-				404.1030000001192, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_MINDTWISTING.BLP:20|t N'Zoth begins to cast |cFFFF0000|Hspell:315772|h[Mindgrasp]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				249.9469999996945, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [39]
 			{
-				416.2009999998845, -- [1]
-				"The Void beckons.", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				253.9949999996461, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [40]
 			{
-				473.0109999999404, -- [1]
-				"I claim this flesh!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				263.9539999999106, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [41]
 			{
-				484.7510000001639, -- [1]
-				"The Forge is nearly charged, champions! Hang in there!", -- [2]
-				"Magni Bronzebeard", -- [3]
+				284.0109999999404, -- [1]
+				"Delirium claims you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [42]
 			{
-				488.12900000019, -- [1]
-				"The titans' playthings mean nothing to a god!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
+				285.4479999998584, -- [1]
+				"|TInterface\\Icons\\SPELL_PRIEST_SHADOWORBS.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306984|h[Insanity Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				2, -- [4]
 			}, -- [43]
 			{
-				497.4419999998063, -- [1]
-				"Warning: Chamber of Heart compromised. Hostile forces inbound.", -- [2]
-				"MOTHER", -- [3]
-				7, -- [4]
+				301.776999999769, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:313040|h[Infinite Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
 			}, -- [44]
 			{
-				503.2590000000782, -- [1]
-				"Champions, we're overrun! We cannae fire!", -- [2]
-				"Magni Bronzebeard", -- [3]
+				301.776999999769, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [45]
-			["boss"] = "N'Zoth the Corruptor",
+			{
+				305.3549999999814, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Neyari gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [46]
+			{
+				307.8689999999479, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [47]
+			{
+				310.1929999999702, -- [1]
+				"Boils burst! My fury spreads!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [48]
+			["boss"] = "Carapace of N'Zoth",
 		}, -- [2]
 		{
 			{
-				2.493999999947846, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				10.33600000012666, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [1]
 			{
-				3.091000000014901, -- [1]
-				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Choicebeef has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				15.70399999991059, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [2]
 			{
-				14.91000000014901, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"Yellowy", -- [3]
-				2, -- [4]
+				25.99900000030175, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [3]
 			{
-				14.91000000014901, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_ARCANE_MINDMASTERY.BLP:20|t You are targeted by |cFFFF0000|Hspell:309980|h[Paranoia]|h|r!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				2, -- [4]
+				34.71700000017881, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [4]
 			{
-				28.51599999982864, -- [1]
-				"I claim this flesh!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				7, -- [4]
+				40.72000000020489, -- [1]
+				"|TInterface\\Icons\\INV_EyeofNzothPet.blp:20|t A %s emerges!", -- [2]
+				"Gaze of Madness", -- [3]
+				1, -- [4]
 			}, -- [5]
 			{
-				37.50199999986216, -- [1]
-				"|TINTERFACE\\ICONS\\ACHIEVEMENT_BOSS_YOGGSARON_01.BLP:20|t A Basher Tentacle has emerged!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
-				1, -- [4]
+				40.72000000020489, -- [1]
+				"Insanity spreads!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [6]
 			{
-				47.68899999978021, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_SHADOWFURY.BLP:20|t Basher Tentacle begins to cast |cFFFF0000|Hspell:310042|h[Tumultuous Burst]|h|r!", -- [2]
-				"Basher Tentacle", -- [3]
-				1, -- [4]
+				47.72999999998137, -- [1]
+				"Impervious! Unyielding!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [7]
 			{
-				48.74699999997392, -- [1]
-				"I claim this flesh!", -- [2]
-				"N'Zoth the Corruptor", -- [3]
+				58.00600000005215, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
 				7, -- [4]
 			}, -- [8]
 			{
-				50.89099999982864, -- [1]
-				"|TINTERFACE\\ICONS\\SPELL_SHADOW_SHADOWFURY.BLP:20|t Basher Tentacle begins to cast |cFFFF0000|Hspell:310042|h[Tumultuous Burst]|h|r!", -- [2]
-				"Basher Tentacle", -- [3]
-				1, -- [4]
+				60.29000000003725, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
 			}, -- [9]
-			["boss"] = "N'Zoth the Corruptor",
+			{
+				79.67400000011548, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				84.74399999994785, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				86.7390000000596, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_MINDBOMB.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306973|h[Madness Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				2, -- [4]
+			}, -- [12]
+			{
+				89.7390000000596, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				100.8799999998882, -- [1]
+				"N'Zoth is restoring his flesh, champions! Do not relent!", -- [2]
+				"Wrathion", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				100.8799999998882, -- [1]
+				"Your defiance will be thwarted! My strength is unending!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				121.4490000000224, -- [1]
+				"Champions, N'Zoth is luring us into the core of his mind!", -- [2]
+				"Wrathion", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				124.9939999999479, -- [1]
+				"I dare not enter that foul place, lest I lose myself to his madness. Strike him down!", -- [2]
+				"Wrathion", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				126.7200000002049, -- [1]
+				"Your time is running out!", -- [2]
+				"Solvèj", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				135.2179999998771, -- [1]
+				"Impervious! Unyielding!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				140.2409999999218, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:307048|h[Eternal Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [20]
+			{
+				140.2409999999218, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				143.2970000002533, -- [1]
+				"Sanity is forfeit!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				145.155999999959, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_MINDBOMB.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306973|h[Madness Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				2, -- [4]
+			}, -- [23]
+			{
+				155.2349999998696, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				158.280999999959, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				173.2620000001043, -- [1]
+				"Let madness consume you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				177.7830000002869, -- [1]
+				"Sanity is forfeit!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [27]
+			{
+				180.2430000002496, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:307048|h[Eternal Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [28]
+			{
+				180.2430000002496, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				185.2469999999739, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [30]
+			{
+				187.9799999999814, -- [1]
+				"The final truth awaits you, my chosen.", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [31]
+			{
+				205.4199999999255, -- [1]
+				"Boils burst! My fury spreads!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				214.4539999999106, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:313040|h[Infinite Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [33]
+			{
+				214.4539999999106, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [34]
+			{
+				217.1450000000186, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				226.4470000001602, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [36]
+			{
+				233.4760000002571, -- [1]
+				"Delirium claims you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				235.0260000000708, -- [1]
+				"|TInterface\\Icons\\SPELL_PRIEST_SHADOWORBS.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306984|h[Insanity Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				2, -- [4]
+			}, -- [38]
+			{
+				247.3289999999106, -- [1]
+				"No more!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [39]
+			{
+				250.8859999999404, -- [1]
+				"%s just won a game of Hearthstone!", -- [2]
+				"Royalty", -- [3]
+				3, -- [4]
+			}, -- [40]
+			{
+				252.3100000000559, -- [1]
+				"The dark lord laughs at you!", -- [2]
+				"Solvèj", -- [3]
+				7, -- [4]
+			}, -- [41]
+			{
+				266.4360000002198, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:313040|h[Infinite Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [42]
+			{
+				266.4360000002198, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [43]
+			{
+				269.7360000000335, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Yukiox gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [44]
+			{
+				270.4539999999106, -- [1]
+				"Your weapons fail you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [45]
+			{
+				276.7870000000112, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Wilwar gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [46]
+			{
+				280.4130000001751, -- [1]
+				"Impervious! Unyielding!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [47]
+			{
+				289.8680000002496, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Yukiox has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [48]
+			{
+				296.7960000000894, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Wilwar has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [49]
+			{
+				299.7140000001527, -- [1]
+				"Oou Hnakf Yawifk iiqaath ", -- [2]
+				"Wilwar", -- [3]
+				7, -- [4]
+			}, -- [50]
+			{
+				300.5120000001043, -- [1]
+				"Delirium claims you!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [51]
+			{
+				302.070000000298, -- [1]
+				"|TInterface\\Icons\\SPELL_PRIEST_SHADOWORBS.BLP:20|t You are afflicted with |cFFFF0000|Hspell:306984|h[Insanity Bomb]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				2, -- [4]
+			}, -- [52]
+			{
+				318.4539999999106, -- [1]
+				"|TInterface\\Icons\\Spell_Priest_Void Blast.blp:20|t %s begins to cast |cFFFF0000|Hspell:313040|h[Infinite Darkness]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [53]
+			{
+				318.4539999999106, -- [1]
+				"Void approaches!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [54]
+			{
+				321.0750000001863, -- [1]
+				"Unworthy!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [55]
+			{
+				321.6830000001937, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Smytt gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [56]
+			{
+				321.6830000001937, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Evangelos gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [57]
+			{
+				323.848000000231, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Jojo gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [58]
+			{
+				323.848000000231, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Royalty gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [59]
+			{
+				324.4250000002794, -- [1]
+				"Impervious! Unyielding!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [60]
+			{
+				324.714999999851, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Mordenna gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [61]
+			{
+				324.714999999851, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Solvèj gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [62]
+			{
+				324.714999999851, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Lyuneria gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [63]
+			{
+				326.4560000002384, -- [1]
+				"Boils burst! My fury spreads!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [64]
+			{
+				339.8540000002831, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Toshpriest gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [65]
+			{
+				339.8540000002831, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Thunderzhunt gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [66]
+			{
+				341.7160000000149, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Smytt has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [67]
+			{
+				341.7160000000149, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Evangelos has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [68]
+			{
+				343.9180000000633, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Royalty has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [69]
+			{
+				344.8310000002384, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWWORDDOMINATE.BLP:20|t Lyuneria has become a |cFFFF0000|Hspell:306973|h[Servant of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [70]
+			{
+				347.7549999998882, -- [1]
+				"|TInterface\\Icons\\SPELL_SHADOW_SHADOWPOWER.BLP:20|t Paxington gains the |cFFFF0000|Hspell:313334|h[Gift of N'Zoth]|h|r!", -- [2]
+				"Fury of N'Zoth", -- [3]
+				1, -- [4]
+			}, -- [71]
+			{
+				348.4799999999814, -- [1]
+				"No more!", -- [2]
+				"N'Zoth", -- [3]
+				7, -- [4]
+			}, -- [72]
+			{
+				349.9300000001676, -- [1]
+				"Uul'gwa wgah za agth ", -- [2]
+				"Royalty", -- [3]
+				7, -- [4]
+			}, -- [73]
+			["boss"] = "Carapace of N'Zoth",
 		}, -- [3]
 	},
 }

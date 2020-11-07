@@ -1,12 +1,36 @@
 
 AstralKeys = {
+	{
+		["btag"] = "boochan#1194",
+		["weekly_best"] = 25,
+		["class"] = "DRUID",
+		["key_level"] = 25,
+		["unit"] = "Ngow-Kil'jaeden",
+		["dungeon_id"] = 252,
+		["week"] = 172,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [1]
+	{
+		["btag"] = "bum#1748",
+		["weekly_best"] = 25,
+		["class"] = "WARRIOR",
+		["key_level"] = 25,
+		["unit"] = "Orcbum-Kil'jaeden",
+		["dungeon_id"] = 353,
+		["week"] = 172,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [2]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralKeysSettings = {
@@ -15,15 +39,15 @@ AstralKeysSettings = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
 		},
-		["init_time"] = 1604415600,
+		["init_time"] = 1605020400,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["raid"] = false,
 			["party"] = true,
-			["no_key"] = false,
+			["raid"] = false,
 			["guild"] = false,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -128,6 +152,8 @@ AstralLists = {
 	{
 		["name"] = "FRIENDS",
 		["units"] = {
+			["Orcbum-Kil'jaeden"] = "bum#1748",
+			["Ngow-Kil'jaeden"] = "boochan#1194",
 		},
 	}, -- [2]
 }

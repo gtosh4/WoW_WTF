@@ -248,6 +248,16 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
+					[58742] = {
+						["expireAt"] = 1604761231,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 667492,
+					},
+					[58749] = {
+						["expireAt"] = 1604761253,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045111,
+					},
 				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {
@@ -402,10 +412,10 @@ WQTrackerDB = {
 						[55359] = 1,
 						[57146] = 1,
 						[55358] = 1,
-						[56090] = 1,
+						[56180] = 1,
 						[51043] = 1,
 						[52421] = 1,
-						[56180] = 1,
+						[56090] = 1,
 					},
 					["character"] = {
 						["Player-3676-0AD8DD4D"] = {

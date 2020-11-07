@@ -6,12 +6,12 @@ miirguiDB = {
 	["cbar"] = true,
 	["color"] = {
 		["hb"] = 0.695,
-		["enable"] = false,
+		["r"] = 0.301,
 		["b"] = 0.301,
-		["hr"] = 0.695,
+		["enable"] = false,
 		["hg"] = 0.695,
 		["g"] = 0.301,
-		["r"] = 0.301,
+		["hr"] = 0.695,
 	},
 	["grey"] = true,
 	["alerpos"] = {

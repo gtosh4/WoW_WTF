@@ -13,13 +13,6 @@ X: -346
 Y: 176
 W: 150
 H: 80
-Frame: Grid2LayoutFrame
-FrameLevel: 1
-Anchor: CENTER
-X: -392
-Y: 89
-W: 168
-H: 56
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -27,6 +20,13 @@ X: -6
 Y: 74
 W: 235
 H: 700
+Frame: Grid2LayoutFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -392
+Y: 89
+W: 168
+H: 56
 Frame: InterfaceOptionsFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -48,20 +48,6 @@ X: 0
 Y: 0
 W: 365
 H: 380
-Frame: BDLC
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: -439
-Y: -199
-W: 600
-H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -97,10 +83,17 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: DetailsNewsWindow
-FrameLevel: 1
-Anchor: LEFT
-X: 10
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
 Y: 0
-W: 480
-H: 460
+W: 520
+H: 1
+Frame: BDLC
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -439
+Y: -199
+W: 600
+H: 400

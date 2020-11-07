@@ -15,6 +15,11 @@ BetterWardrobe_CharacterData = {
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
 			["listUpdate"] = 1,
+			["lastTransmogOutfitIDSpec"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
 			["lists"] = {
 				{
 					["set"] = {

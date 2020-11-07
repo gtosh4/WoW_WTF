@@ -26,7 +26,7 @@ REFlexSettings = {
 REFlexDatabase = {
 }
 REFlexHonorDatabase = {
-	[1596355200] = 22,
 	[1602316800] = 2,
 	[1597046400] = 1,
+	[1596355200] = 22,
 }
