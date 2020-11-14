@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 256,
 	["lastSanitation"] = 3,
+	["session"] = 259,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\functions.lua:21: attempt to index local 'arg1' (a nil value)",
@@ -91,5 +91,12 @@ BugGrabberDB = {
 			["session"] = 255,
 			["counter"] = 2,
 		}, -- [11]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'BetterWardrobe' tried to call the protected function 'CompactRaidFrame24:Show()'.",
+			["time"] = "2020/11/14 01:10:30",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\CompactUnitFrame.lua\"]:375: in function `CompactUnitFrame_UpdateVisible'\n[string \"@Interface\\FrameXML\\CompactUnitFrame.lua\"]:306: in function <Interface\\FrameXML\\CompactUnitFrame.lua:304>\n[string \"=[C]\"]: in function `CompactUnitFrame_UpdateAll'\n[string \"@Interface\\FrameXML\\CompactUnitFrame.lua\"]:202: in function <Interface\\FrameXML\\CompactUnitFrame.lua:202>",
+			["session"] = 258,
+			["counter"] = 1,
+		}, -- [12]
 	},
 }

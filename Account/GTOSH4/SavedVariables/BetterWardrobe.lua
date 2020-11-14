@@ -17,12 +17,12 @@ BetterWardrobe_CharacterData = {
 			["listUpdate"] = 1,
 			["lists"] = {
 				{
-					["set"] = {
-					},
-					["item"] = {
+					["extraset"] = {
 					},
 					["name"] = "Collection List",
-					["extraset"] = {
+					["item"] = {
+					},
+					["set"] = {
 					},
 				}, -- [1]
 			},

@@ -236,6 +236,41 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0AD945E6"] = {
+					[50850] = {
+						["expireAt"] = 1605366046,
+						["rewardAmount"] = "|cff2292FF81",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+					},
+					[52877] = {
+						["expireAt"] = 1605366046,
+						["rewardAmount"] = 255,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52938] = {
+						["expireAt"] = 1605366106,
+						["rewardAmount"] = "17",
+						["rewardTexture"] = 133675,
+					},
+					[52248] = {
+						["expireAt"] = 1605337246,
+						["rewardAmount"] = 182,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50548] = {
+						["expireAt"] = 1605366046,
+						["rewardAmount"] = 166,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50578] = {
+						["expireAt"] = 1605394846,
+						["rewardAmount"] = 151,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[58743] = {
+						["expireAt"] = 1605366050,
+						["rewardAmount"] = "16",
+						["rewardTexture"] = 133675,
+					},
 				},
 				["Player-9-0B608E72"] = {
 					[51042] = {
@@ -263,6 +298,108 @@ WQTrackerDB = {
 				},
 			},
 			["rarescan"] = {
+				["recently_spotted"] = {
+					[126912] = {
+						1605332744, -- [1]
+						646, -- [2]
+						0.4527587294578552, -- [3]
+						0.1489566564559937, -- [4]
+						"Creature-0-0000-0000-00000-126912-0000000000", -- [5]
+						"Skreeg the Devourer", -- [6]
+						"Kanaiqt", -- [7]
+						1605332745, -- [8]
+					},
+					[126913] = {
+						1605333025, -- [1]
+						882, -- [2]
+						0.4690752029418945, -- [3]
+						0.5552317500114441, -- [4]
+						"Creature-0-0000-0000-00000-126913-0000000000", -- [5]
+						"Slithon the Last", -- [6]
+						"Kanaiqt", -- [7]
+						1605333026, -- [8]
+					},
+					[124440] = {
+						1605332826, -- [1]
+						882, -- [2]
+						0.5722675323486328, -- [3]
+						0.4441932439804077, -- [4]
+						"Creature-0-0000-0000-00000-124440-0000000000", -- [5]
+						"Overseer Y'Beda", -- [6]
+						"Kanaiqt", -- [7]
+						1605332827, -- [8]
+					},
+					[126860] = {
+						1605333002, -- [1]
+						882, -- [2]
+						0.3731681108474731, -- [3]
+						0.5185546875, -- [4]
+						"Creature-0-0000-0000-00000-126860-0000000000", -- [5]
+						"Kaara the Pale", -- [6]
+						"Kanaiqt", -- [7]
+						1605333003, -- [8]
+					},
+					[125497] = {
+						1605332802, -- [1]
+						646, -- [2]
+						0.5765363574028015, -- [3]
+						0.2473675012588501, -- [4]
+						"Creature-0-0000-0000-00000-125497-0000000000", -- [5]
+						"Overseer Y'Sorna", -- [6]
+						"Kanaiqt", -- [7]
+						1605332803, -- [8]
+					},
+					[126900] = {
+						1605332869, -- [1]
+						882, -- [2]
+						0.5678626298904419, -- [3]
+						0.5287179946899414, -- [4]
+						"Creature-0-0000-0000-00000-126900-0000000000", -- [5]
+						"Instructor Tarahna", -- [6]
+						"Kanaiqt", -- [7]
+						1605332870, -- [8]
+					},
+					[126885] = {
+						1605332981, -- [1]
+						882, -- [2]
+						0.331957221031189, -- [3]
+						0.4817603230476379, -- [4]
+						"Creature-0-0000-0000-00000-126885-0000000000", -- [5]
+						"Umbraliss", -- [6]
+						"Kanaiqt", -- [7]
+						1605332982, -- [8]
+					},
+					[126040] = {
+						1605333159, -- [1]
+						882, -- [2]
+						0.6490319967269897, -- [3]
+						0.1981233954429627, -- [4]
+						"Creature-0-0000-0000-00000-126040-0000000000", -- [5]
+						"Puscilla", -- [6]
+						"Kanaiqt", -- [7]
+						1605333160, -- [8]
+					},
+					[127706] = {
+						1605333311, -- [1]
+						885, -- [2]
+						0.669167697429657, -- [3]
+						0.777806282043457, -- [4]
+						"Creature-0-0000-0000-00000-127706-0000000000", -- [5]
+						"Rezira the Seer", -- [6]
+						"Kanaiqt", -- [7]
+						1605333312, -- [8]
+					},
+					[126867] = {
+						1605332970, -- [1]
+						882, -- [2]
+						0.2877869606018066, -- [3]
+						0.4579325318336487, -- [4]
+						"Creature-0-3777-1669-9700-126867-00002F6FE7", -- [5]
+						"Venomtail Skyfin", -- [6]
+						"Kanaiqt", -- [7]
+						1605332971, -- [8]
+					},
+				},
 				["recently_killed"] = {
 					["Player-3676-0AD945D6"] = {
 					},
@@ -273,6 +410,7 @@ WQTrackerDB = {
 				},
 				["name_cache"] = {
 					[""] = 125820,
+					["Slithon the Last"] = 126913,
 					["Wrath-Lord Yarez"] = 126338,
 					["Vrax'thul"] = 126199,
 					["Shiz'narasz the Consumer"] = 153658,
@@ -282,12 +420,18 @@ WQTrackerDB = {
 					["Kaara the Pale"] = 126860,
 					["Boggac Skullbash"] = 151308,
 					["Burning Goliath"] = 141615,
+					["Umbraliss"] = 126885,
 					["Theurgist Nitara"] = 155836,
 					["Shiz'narasz el consumidor"] = 153658,
 					["Watcher Aival"] = 127291,
 					["Bestiabot descompuesta"] = 151933,
+					["Rezira the Seer"] = 127706,
+					["Branchlord Aldrus"] = 142508,
 					["Inquisitor Vethroz"] = 126946,
+					["Instructor Tarahna"] = 126900,
+					["Overseer Y'Sorna"] = 125497,
 					["Puscilla"] = 126040,
+					["Skreeg the Devourer"] = 126912,
 					["Lieutenant Xakaar"] = 126254,
 					["Molok the Crusher"] = 141942,
 					["Guardian Tannin"] = 152736,
@@ -296,10 +440,10 @@ WQTrackerDB = {
 					["Golrakahn"] = 124185,
 					["Blistermaw"] = 122958,
 					["Ven'orn"] = 126115,
-					["The Many-Faced Devourer"] = 127581,
 					["Foul Manifestation"] = 151202,
+					["The Many-Faced Devourer"] = 127581,
 					["Rumbling Goliath"] = 141620,
-					["Overseer Y'Beda"] = 124440,
+					["Naroua"] = 126419,
 					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
 					["Varga"] = 126208,
@@ -316,9 +460,9 @@ WQTrackerDB = {
 					["Mechagonian Nullifier"] = 151124,
 					["High Warlord Volrath"] = 143536,
 					["Echo of Myzrael"] = 141668,
-					["Branchlord Aldrus"] = 142508,
+					["Venomtail Skyfin"] = 126867,
 					["Señor de cólera Yarez"] = 126338,
-					["Naroua"] = 126419,
+					["Overseer Y'Beda"] = 124440,
 					["Arachnoid Harvester"] = 151934,
 					["失控的机械兽"] = 151933,
 					["Elder Unu"] = 152414,

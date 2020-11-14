@@ -1,6 +1,5 @@
 
 Broker_Everything_DataDB = {
-	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -23,6 +22,7 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
+	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
 	["Toshpriest-Azralon"] = {
@@ -30,8 +30,8 @@ Broker_Everything_CharacterDB = {
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
 		["orderId"] = 11,
-		["level"] = 110,
 		["class"] = "PRIEST",
+		["level"] = 110,
 	},
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
@@ -51,15 +51,11 @@ Broker_Everything_CharacterDB = {
 		["name"] = "Toshdruid",
 		["faction"] = "Horde",
 		["orderId"] = 6,
-		["class"] = "DRUID",
 		["level"] = 120,
+		["class"] = "DRUID",
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["orderId"] = 1,
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -85,76 +81,80 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["level"] = 120,
-		["gold"] = 10753845943,
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["Professions"] = {
 			["learnedRecipes"] = {
 			},
 		},
+		["level"] = 120,
+		["gold"] = 10753845943,
+		["orderId"] = 1,
 	},
 	["Toshtoon-Barthilas"] = {
 		["race"] = "Vulpera",
 		["name"] = "Toshtoon",
 		["faction"] = "Horde",
 		["orderId"] = 9,
-		["level"] = 20,
 		["class"] = "WARLOCK",
-	},
-	["Yelluwuy-Area 52"] = {
-		["race"] = "BloodElf",
-		["name"] = "Yelluwuy",
-		["faction"] = "Horde",
-		["orderId"] = 5,
-		["level"] = 1,
-		["class"] = "PRIEST",
-	},
-	["Toshlongboy-Eldre'Thalas"] = {
-		["race"] = "Vulpera",
-		["name"] = "Toshlongboy",
-		["faction"] = "Horde",
-		["orderId"] = 7,
 		["level"] = 20,
-		["class"] = "PRIEST",
-	},
-	["Yorman-Kil'jaeden"] = {
-		["race"] = "Tauren",
-		["name"] = "Yorman",
-		["faction"] = "Horde",
-		["orderId"] = 3,
-		["level"] = 120,
-		["class"] = "DRUID",
-	},
-	["Daggny-Frostwolf"] = {
-		["race"] = "BloodElf",
-		["name"] = "Daggny",
-		["faction"] = "Horde",
-		["orderId"] = 10,
-		["class"] = "MONK",
-		["level"] = 100,
-	},
-	["Toshdk-Kil'jaeden"] = {
-		["race"] = "Orc",
-		["name"] = "Toshdk",
-		["faction"] = "Horde",
-		["orderId"] = 4,
-		["class"] = "DEATHKNIGHT",
-		["level"] = 120,
-	},
-	["Toshlongboyr-Eldre'Thalas"] = {
-		["race"] = "BloodElf",
-		["name"] = "Toshlongboyr",
-		["faction"] = "Horde",
-		["orderId"] = 8,
-		["class"] = "PRIEST",
-		["level"] = 110,
 	},
 	["Toshpal-Area 52"] = {
 		["race"] = "ZandalariTroll",
 		["name"] = "Toshpal",
 		["faction"] = "Horde",
 		["orderId"] = 2,
-		["level"] = 50,
 		["class"] = "PALADIN",
+		["level"] = 50,
+	},
+	["Toshlongboy-Eldre'Thalas"] = {
+		["race"] = "Vulpera",
+		["name"] = "Toshlongboy",
+		["faction"] = "Horde",
+		["orderId"] = 7,
+		["class"] = "PRIEST",
+		["level"] = 20,
+	},
+	["Toshlongboyr-Eldre'Thalas"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshlongboyr",
+		["faction"] = "Horde",
+		["orderId"] = 8,
+		["level"] = 110,
+		["class"] = "PRIEST",
+	},
+	["Daggny-Frostwolf"] = {
+		["race"] = "BloodElf",
+		["name"] = "Daggny",
+		["faction"] = "Horde",
+		["orderId"] = 10,
+		["level"] = 100,
+		["class"] = "MONK",
+	},
+	["Toshdk-Kil'jaeden"] = {
+		["race"] = "Orc",
+		["name"] = "Toshdk",
+		["faction"] = "Horde",
+		["orderId"] = 4,
+		["level"] = 120,
+		["class"] = "DEATHKNIGHT",
+	},
+	["Yorman-Kil'jaeden"] = {
+		["race"] = "Tauren",
+		["name"] = "Yorman",
+		["faction"] = "Horde",
+		["orderId"] = 3,
+		["class"] = "DRUID",
+		["level"] = 120,
+	},
+	["Yelluwuy-Area 52"] = {
+		["race"] = "BloodElf",
+		["name"] = "Yelluwuy",
+		["faction"] = "Horde",
+		["orderId"] = 5,
+		["class"] = "PRIEST",
+		["level"] = 1,
 	},
 }
 Broker_Everything_AceDB = {
@@ -167,9 +167,9 @@ Broker_Everything_AceDB = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
-		["Toshpriest - Area 52"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Toshpriest - Azralon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
