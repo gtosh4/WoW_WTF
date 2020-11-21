@@ -1,9 +1,9 @@
 Version: 1
 Frame: TooltipMover
-FrameLevel: 2
-Anchor: TOPRIGHT
-X: -282
-Y: -197
+FrameLevel: 3
+Anchor: RIGHT
+X: -346
+Y: 176
 W: 150
 H: 80
 Frame: ObjectiveTrackerFrameMover
@@ -13,6 +13,13 @@ X: -6
 Y: 74
 W: 235
 H: 700
+Frame: AAPQOrderList
+FrameLevel: 1
+Anchor: RIGHT
+X: -398
+Y: 179
+W: 231
+H: 440
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -34,6 +41,13 @@ X: 0
 Y: 0
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -55,24 +69,17 @@ X: 426
 Y: 166
 W: 27
 H: 26
-Frame: SavedInstancesDetachHeader
-FrameLevel: 100
-Anchor: RIGHT
-X: -563
-Y: 186
-W: 363
-H: 390
 Frame: TalkingHeadFrame
-FrameLevel: 1
+FrameLevel: 3
 Anchor: BOTTOM
 X: 0
 Y: 96
 W: 570
 H: 155
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
+Frame: GladiusExButtonAnchorparty
+FrameLevel: 200
+Anchor: CENTER
+X: -300
 Y: 0
-W: 520
-H: 1
+W: 260
+H: 40

@@ -1,0 +1,16 @@
+VER 3 0100000000000001 "cc" "INV_MISC_QUESTIONMARK"
+#showtooltip Life Cocoon
+/cast [@mouseover]Life Cocoon
+END
+VER 3 0100000000000004 "dt" "INV_MISC_QUESTIONMARK"
+#showtooltip Detox
+/cast [@mouseover] Detox
+END
+VER 3 0100000000000002 "rm" "INV_MISC_QUESTIONMARK"
+#showtooltip Renewing Mist
+/cast [@mouseover] Renewing Mist
+END
+VER 3 0100000000000003 "v" "INV_MISC_QUESTIONMARK"
+#showtooltip Vivify
+/cast [@target,noharm][@mouseover] Vivify
+END

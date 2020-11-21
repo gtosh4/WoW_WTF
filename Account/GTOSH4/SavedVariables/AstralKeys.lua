@@ -1,109 +1,140 @@
 
 AstralKeys = {
 	{
-		["btag"] = "bum#1748",
+		["source"] = "guild",
+		["weekly_best"] = 18,
+		["class"] = "DEATHKNIGHT",
+		["key_level"] = 17,
+		["unit"] = "Rathux-Area52",
+		["dungeon_id"] = 252,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 308459,
+	}, -- [1]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 18,
+		["class"] = "DEMONHUNTER",
+		["key_level"] = 16,
+		["unit"] = "Illsong-Area52",
+		["dungeon_id"] = 250,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 1,
+	}, -- [2]
+	{
+		["source"] = "guild",
 		["weekly_best"] = 0,
-		["class"] = "WARRIOR",
-		["key_level"] = 24,
-		["unit"] = "Orcbum-Kil'jaeden",
+		["class"] = "WARLOCK",
+		["key_level"] = 22,
+		["unit"] = "Woesong-Area52",
+		["dungeon_id"] = 252,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 0,
+	}, -- [3]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 18,
+		["class"] = "HUNTER",
+		["key_level"] = 16,
+		["unit"] = "Artsong-Area52",
+		["dungeon_id"] = 252,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 0,
+	}, -- [4]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 18,
+		["class"] = "ROGUE",
+		["key_level"] = 17,
+		["unit"] = "Race-Area52",
 		["dungeon_id"] = 249,
-		["week"] = 173,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 3,
+	}, -- [5]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 18,
+		["class"] = "SHAMAN",
+		["key_level"] = 18,
+		["unit"] = "Scitron-Area52",
+		["dungeon_id"] = 369,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 308391,
+		["btag"] = "Sci#11555",
+	}, -- [6]
+	{
+		["btag"] = "Emosong#1897",
+		["weekly_best"] = 16,
+		["class"] = "MAGE",
+		["key_level"] = 16,
+		["unit"] = "Ceesong-Kil'jaeden",
+		["dungeon_id"] = 246,
+		["week"] = 174,
 		["faction"] = "1",
 		["time_stamp"] = 0,
 		["source"] = "friend",
-	}, -- [1]
+	}, -- [7]
+	{
+		["btag"] = "Emosong#1897",
+		["weekly_best"] = 0,
+		["class"] = "WARRIOR",
+		["key_level"] = 17,
+		["unit"] = "Baesong-Kil'jaeden",
+		["dungeon_id"] = 249,
+		["week"] = 174,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [8]
+	{
+		["btag"] = "Emosong#1897",
+		["weekly_best"] = 0,
+		["class"] = "ROGUE",
+		["key_level"] = 24,
+		["unit"] = "Emosong-Kil'jaeden",
+		["dungeon_id"] = 252,
+		["week"] = 174,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [9]
 	{
 		["btag"] = "boochan#1194",
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
 		["key_level"] = 24,
 		["unit"] = "Ngow-Kil'jaeden",
-		["dungeon_id"] = 252,
-		["week"] = 173,
+		["dungeon_id"] = 353,
+		["week"] = 174,
 		["faction"] = "1",
 		["time_stamp"] = 0,
 		["source"] = "friend",
-	}, -- [2]
-	{
-		["btag"] = "boochan#1194",
-		["weekly_best"] = 0,
-		["class"] = "HUNTER",
-		["key_level"] = 17,
-		["unit"] = "Mattea-Kil'jaeden",
-		["dungeon_id"] = 369,
-		["week"] = 173,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [3]
-	{
-		["btag"] = "Ceesong#1985",
-		["weekly_best"] = 0,
-		["class"] = "ROGUE",
-		["key_level"] = 23,
-		["unit"] = "Emosong-Kil'jaeden",
-		["dungeon_id"] = 248,
-		["week"] = 173,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [4]
-	{
-		["btag"] = "Ceesong#1985",
-		["weekly_best"] = 0,
-		["class"] = "WARRIOR",
-		["key_level"] = 16,
-		["unit"] = "Baesong-Kil'jaeden",
-		["dungeon_id"] = 246,
-		["week"] = 173,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [5]
-	{
-		["btag"] = "Ceesong#1985",
-		["weekly_best"] = 0,
-		["class"] = "DEMONHUNTER",
-		["key_level"] = 17,
-		["unit"] = "Illsong-Area52",
-		["dungeon_id"] = 244,
-		["week"] = 173,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [6]
-	{
-		["btag"] = "Ceesong#1985",
-		["weekly_best"] = 0,
-		["class"] = "HUNTER",
-		["key_level"] = 16,
-		["unit"] = "Artsong-Area52",
-		["dungeon_id"] = 252,
-		["week"] = 173,
-		["faction"] = "1",
-		["time_stamp"] = 314675,
-		["source"] = "friend",
-	}, -- [7]
-	{
-		["btag"] = "Ceesong#1985",
-		["weekly_best"] = 0,
-		["class"] = "WARLOCK",
-		["key_level"] = 23,
-		["unit"] = "Woesong-Area52",
-		["dungeon_id"] = 250,
-		["week"] = 173,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [8]
+	}, -- [10]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["faction"] = 1,
 		["unit"] = "Toshpal-Area52",
+		["faction"] = 1,
 	}, -- [1]
+	{
+		["weekly_best"] = 0,
+		["class"] = "PRIEST",
+		["unit"] = "Toshpriest-Area52",
+		["faction"] = 1,
+	}, -- [2]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["faction"] = 1,
+		["unit"] = "Toshdruid-Area52",
+	}, -- [3]
 }
 AstralKeysSettings = {
 	["wipedOldTables"] = true,
@@ -111,15 +142,15 @@ AstralKeysSettings = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
 		},
-		["init_time"] = 1605625200,
+		["init_time"] = 1606230000,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
 			["no_key"] = false,
 			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -219,21 +250,27 @@ AstralLists = {
 	{
 		["name"] = "GUILD",
 		["units"] = {
-			["Illsong-Area52"] = "Ceesong#1985",
-			["Artsong-Area52"] = "Ceesong#1985",
+			["Woesong-Area52"] = true,
+			["Illsong-Area52"] = true,
+			["Scitron-Area52"] = "Sci#11555",
+			["Rathux-Area52"] = true,
+			["Artsong-Area52"] = true,
+			["Race-Area52"] = true,
 		},
 	}, -- [1]
 	{
 		["name"] = "FRIENDS",
 		["units"] = {
-			["Orcbum-Kil'jaeden"] = "bum#1748",
+			["Artsong-Area52"] = "Ceesong#1985",
+			["Baesong-Kil'jaeden"] = "Emosong#1897",
+			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Emosong-Kil'jaeden"] = "Emosong#1897",
 			["Woesong-Area52"] = "Ceesong#1985",
 			["Illsong-Area52"] = "Ceesong#1985",
-			["Baesong-Kil'jaeden"] = "Ceesong#1985",
-			["Artsong-Area52"] = "Ceesong#1985",
-			["Ngow-Kil'jaeden"] = "boochan#1194",
-			["Emosong-Kil'jaeden"] = "Ceesong#1985",
 			["Mattea-Kil'jaeden"] = "boochan#1194",
+			["Orcbum-Kil'jaeden"] = "bum#1748",
+			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Scitron-Area52"] = "Sci#11555",
 		},
 	}, -- [2]
 }

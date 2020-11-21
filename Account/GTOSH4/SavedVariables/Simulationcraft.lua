@@ -11,6 +11,7 @@ SimulationCraftDB = {
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -38,6 +39,8 @@ SimulationCraftDB = {
 		["Daggny - Frostwolf"] = {
 		},
 		["Toshpriest - Azralon"] = {
+		},
+		["Toshpriest - Area 52"] = {
 		},
 	},
 }

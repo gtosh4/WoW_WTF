@@ -79,8 +79,8 @@ WQTrackerDB = {
 						[57218] = 1,
 						[55359] = 1,
 						[57146] = 1,
-						[56180] = 1,
 						[56090] = 1,
+						[56180] = 1,
 						[51043] = 1,
 						[52421] = 1,
 						[55358] = 1,
@@ -263,21 +263,23 @@ WQTrackerDB = {
 				},
 				["Player-123-08BD5BC9"] = {
 				},
+				["Player-127-090CC93F"] = {
+				},
 				["Player-84-0964B87F"] = {
 				},
 				["Player-3676-0B20F78C"] = {
 				},
 				["Player-3676-0AC0708D"] = {
 				},
-				["Player-127-090CC93F"] = {
-				},
 				["Player-9-0B9D6659"] = {
+				},
+				["Player-3676-0AD945E6"] = {
 				},
 				["Player-84-098A5875"] = {
 				},
-				["Player-9-0A76FA3F"] = {
+				["Player-3676-0D0FE5F5"] = {
 				},
-				["Player-3676-0AD945E6"] = {
+				["Player-9-0A76FA3F"] = {
 				},
 				["Player-3723-0B8DAB0A"] = {
 				},
@@ -288,6 +290,16 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
+					[58742] = {
+						["expireAt"] = 1605970856,
+						["rewardAmount"] = "14",
+						["rewardTexture"] = 2004597,
+					},
+					[58749] = {
+						["expireAt"] = 1605970857,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 2004597,
+					},
 				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {
@@ -337,26 +349,6 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0B20F78C"] = {
-					[55466] = {
-						["expireAt"] = 1598972459,
-						["rewardAmount"] = 750,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[58747] = {
-						["expireAt"] = 1598626859,
-						["rewardAmount"] = "17",
-						["rewardTexture"] = 2004597,
-					},
-					[58743] = {
-						["expireAt"] = 1598626859,
-						["rewardAmount"] = "13",
-						["rewardTexture"] = 2004597,
-					},
-					[41864] = {
-						["expireAt"] = 1598626854,
-						["rewardAmount"] = "|cffc557FF182",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
-					},
 				},
 				["Player-9-0A76FA3F"] = {
 					[51049] = {
@@ -377,6 +369,11 @@ WQTrackerDB = {
 					["name"] = "Toshlongboy",
 					["realm"] = "Eldre'Thalas",
 				},
+				["Player-127-090CC93F"] = {
+					["class"] = "MONK",
+					["name"] = "Daggny",
+					["realm"] = "Frostwolf",
+				},
 				["Player-84-0964B87F"] = {
 					["class"] = "PRIEST",
 					["name"] = "Toshlongboy",
@@ -392,30 +389,30 @@ WQTrackerDB = {
 					["name"] = "Yelluwuy",
 					["realm"] = "Area 52",
 				},
-				["Player-127-090CC93F"] = {
-					["class"] = "MONK",
-					["name"] = "Daggny",
-					["realm"] = "Frostwolf",
-				},
 				["Player-9-0B9D6659"] = {
 					["class"] = "DEATHKNIGHT",
 					["name"] = "Toshdk",
-					["realm"] = "Kil'jaeden",
-				},
-				["Player-84-098A5875"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshlongboyr",
-					["realm"] = "Eldre'Thalas",
-				},
-				["Player-9-0A76FA3F"] = {
-					["class"] = "DRUID",
-					["name"] = "Yorman",
 					["realm"] = "Kil'jaeden",
 				},
 				["Player-3676-0AD945E6"] = {
 					["class"] = "PRIEST",
 					["name"] = "Toshpriest",
 					["realm"] = "Area 52",
+				},
+				["Player-84-098A5875"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshlongboyr",
+					["realm"] = "Eldre'Thalas",
+				},
+				["Player-3676-0D0FE5F5"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
+					["realm"] = "Area 52",
+				},
+				["Player-9-0A76FA3F"] = {
+					["class"] = "DRUID",
+					["name"] = "Yorman",
+					["realm"] = "Kil'jaeden",
 				},
 				["Player-3723-0B8DAB0A"] = {
 					["class"] = "WARLOCK",

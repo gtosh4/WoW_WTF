@@ -13,16 +13,8 @@ END
 VER 3 000000000000001A "dance" "ClassIcon_Druid."
 /dance
 END
-VER 3 0000000000000033 "focus" "Sha_spell_warlock_demonsoul_nightmare."
-/focus [@mouseover]
-END
 VER 3 0000000000000007 "focus" "132885"
 /focus
-END
-VER 3 0000000000000031 "mail" "INV_Misc_QuestionMark"
-/run MailFrameTab_OnClick(MailFrame,2)
-/run for b=0,4 do for s=0,36 do I=GetContainerItemLink(b,s) if I and I:find("Tidespray Linen Bracers")then UseContainerItem(b,s) end end end
-/run SendMail("ToshPal", "bracers", "")
 END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
 /script local n=GetItemInfo(3371); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
@@ -41,10 +33,6 @@ VER 3 0000000000000029 "page1" "134153"
 END
 VER 3 000000000000002A "page2" "134154"
 /changeactionbar 3
-END
-VER 3 0000000000000034 "pet" "INV_MISC_QUESTIONMARK"
-/target Shad'har the Insatiable
-/pet
 END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
@@ -66,7 +54,4 @@ END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 #showtooltip 14
 /use [@mouseover][@target] 14
-END
-VER 3 0000000000000030 "TB" "618979"
-/script local r=WeakAuras.GetRegion("Elv AB toggle"); if r and r.toggle then r:toggle() end
 END

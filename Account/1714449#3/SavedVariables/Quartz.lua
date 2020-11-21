@@ -12,14 +12,14 @@ Quartz3DB = {
 		["Pet"] = {
 			["profiles"] = {
 				["Default"] = {
-					["x"] = 207.4998626708984,
 					["y"] = 520.0001831054688,
+					["x"] = 207.4998626708984,
 				},
 			},
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["EnemyCasts"] = {
+		["Range"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
@@ -57,7 +57,7 @@ Quartz3DB = {
 		},
 		["Mirror"] = {
 		},
-		["Range"] = {
+		["EnemyCasts"] = {
 		},
 		["Latency"] = {
 			["profiles"] = {
@@ -69,6 +69,7 @@ Quartz3DB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},

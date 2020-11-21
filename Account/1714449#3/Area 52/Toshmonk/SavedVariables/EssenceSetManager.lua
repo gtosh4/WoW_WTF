@@ -1,0 +1,9 @@
+
+EssenceSetManager = {
+	["Mistweaver"] = {
+	},
+	["Brewmaster"] = {
+	},
+	["Windwalker"] = {
+	},
+}

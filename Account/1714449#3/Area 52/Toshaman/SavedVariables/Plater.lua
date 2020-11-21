@@ -1,5 +1,10 @@
 
 PlaterDBChr = {
+	["spellRangeCheckRangeFriendly"] = {
+		[263] = 40,
+		[264] = 40,
+		[262] = 40,
+	},
 	["buffsBanned"] = {
 	},
 	["first_run3"] = {
@@ -10,7 +15,12 @@ PlaterDBChr = {
 		[264] = "Lightning Bolt",
 		[262] = "Lightning Bolt",
 	},
+	["resources_on_target"] = false,
 	["debuffsBanned"] = {
 	},
-	["resources_on_target"] = false,
+	["spellRangeCheckRangeEnemy"] = {
+		[263] = 40,
+		[264] = 40,
+		[262] = 40,
+	},
 }

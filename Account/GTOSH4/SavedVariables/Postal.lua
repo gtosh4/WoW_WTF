@@ -6,11 +6,11 @@ Postal3DB = {
 				"Daggny|Frostwolf|Horde|100|MONK", -- [1]
 				"Toshaman|Area 52|Horde|120|SHAMAN", -- [2]
 				"Toshdk|Kil'jaeden|Horde|120|DEATHKNIGHT", -- [3]
-				"Toshdruid|Area 52|Horde|120|DRUID", -- [4]
+				"Toshdruid|Area 52|Horde|50|DRUID", -- [4]
 				"Toshlongboyr|Eldre'Thalas|Horde|110|PRIEST", -- [5]
 				"Toshlongboy|Eldre'Thalas|Horde|20|PRIEST", -- [6]
 				"Toshpal|Area 52|Horde|50|PALADIN", -- [7]
-				"Toshpriest|Area 52|Horde|120|PRIEST", -- [8]
+				"Toshpriest|Area 52|Horde|50|PRIEST", -- [8]
 				"Toshpriest|Azralon|Horde|110|PRIEST", -- [9]
 				"Toshtoon|Barthilas|Horde|20|WARLOCK", -- [10]
 				"Yelluwuy|Area 52|Horde|1|PRIEST", -- [11]
@@ -38,7 +38,8 @@ Postal3DB = {
 		["Toshdruid - Area 52"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Toshpriest|Area 52|Horde", -- [1]
+					"Toshmonk-Area52|Area 52|Horde", -- [1]
+					"Toshpriest|Area 52|Horde", -- [2]
 				},
 			},
 		},

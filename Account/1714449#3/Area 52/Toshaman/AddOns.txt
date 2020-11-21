@@ -27,3 +27,4 @@ BigWigs_EternalPalace: enabled
 LittleWigs: enabled
 AdiBags: enabled
 BigWigs_Nyalotha: enabled
+InstanceAchievementTracker: disabled

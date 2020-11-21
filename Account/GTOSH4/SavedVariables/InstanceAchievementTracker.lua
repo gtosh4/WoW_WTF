@@ -2,7 +2,7 @@
 AchievementTrackerOptions = {
 	["toggleSoundFailed"] = false,
 	["showMinimap"] = false,
-	["toggleSound"] = false,
+	["onlyTrackMissingAchievements"] = false,
 	["displayInfoFrame"] = true,
 	["enableAutomaticCombatLogging"] = false,
 	["greyOutCompletedAchievements"] = false,
@@ -10,11 +10,11 @@ AchievementTrackerOptions = {
 	["announceToRaidWarning"] = true,
 	["trackingFrameXPos"] = 1758.333374023438,
 	["trackingFrameYPos"] = 722.5,
-	["enableAddon"] = true,
-	["hideCompletedAchievements"] = false,
 	["trackCharacterAchievements"] = false,
+	["hideCompletedAchievements"] = false,
+	["enableAddon"] = true,
 	["trackAchievementsInBlizzardUI"] = false,
-	["onlyTrackMissingAchievements"] = false,
+	["toggleSound"] = false,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -1060,4 +1060,61 @@ AchievementTrackerDebug = {
 	"14/11/2020 1:28 [DEBUG] Clearing Instance Variables", -- [1041]
 	"14/11/2020 1:28 [DEBUG] Resetting Global Variables", -- [1042]
 	"14/11/2020 1:28 [DEBUG] InfoFrame does not need to be reset", -- [1043]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1044]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.4.0", -- [1045]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [1046]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [1047]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1048]
+	"20/11/2020 22:28 [DEBUG] Hiding Minimap Icon", -- [1049]
+	"20/11/2020 22:28 [DEBUG] NPC cache generated", -- [1050]
+	"20/11/2020 22:30 [DEBUG] Player has entered instance", -- [1051]
+	"20/11/2020 22:30 [DEBUG] 2217", -- [1052]
+	"20/11/2020 22:30 [DEBUG] Offical Instance Name: 2217 _2217", -- [1053]
+	"20/11/2020 22:30 [DEBUG] Expansion: 3", -- [1054]
+	"20/11/2020 22:30 [DEBUG] Instance Type: Raids", -- [1055]
+	"20/11/2020 22:30 [DEBUG] Instance: 2217", -- [1056]
+	"20/11/2020 22:30 [DEBUG] DifficultyID: 16", -- [1057]
+	"20/11/2020 22:30 [DEBUG] Expansion: 3", -- [1058]
+	"20/11/2020 22:30 [DEBUG] Instance Type: Raids", -- [1059]
+	"20/11/2020 22:30 [DEBUG] Instance: 2217", -- [1060]
+	"20/11/2020 22:30 [DEBUG] Asking user whether they want to track this instance", -- [1061]
+	"20/11/2020 22:30 [DEBUG] Creating Tracking UI", -- [1062]
+	"20/11/2020 23:39 [DEBUG] Hiding Tracking UI", -- [1063]
+	"20/11/2020 23:39 [DEBUG] Clearing Instance Variables", -- [1064]
+	"20/11/2020 23:39 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1782: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [1065]
+	"20/11/2020 23:39 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1790: attempt to call method 'InstanceCleanup' (a nil value).", -- [1066]
+	"20/11/2020 23:39 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [1067]
+	"20/11/2020 23:39 [DEBUG] Clearing Instance Variables if exists", -- [1068]
+	"20/11/2020 23:39 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3549: attempt to call method 'clearVariables' (a nil value).", -- [1069]
+	"20/11/2020 23:39 [DEBUG] Clearing Instance Variables if exists", -- [1070]
+	"20/11/2020 23:39 [DEBUG] Clearing Instance Variables", -- [1071]
+	"20/11/2020 23:39 [DEBUG] Resetting Global Variables", -- [1072]
+	"20/11/2020 23:39 [DEBUG] InfoFrame does not need to be reset", -- [1073]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1074]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.4.0", -- [1075]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [1076]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [1077]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1078]
+	"20/11/2020 23:41 [DEBUG] Hiding Minimap Icon", -- [1079]
+	"20/11/2020 23:41 [DEBUG] NPC cache generated", -- [1080]
+	"21/11/2020 0:5 [DEBUG] ---IAT Runtime---", -- [1081]
+	"21/11/2020 0:5 [DEBUG] Version: 3.4.0", -- [1082]
+	"21/11/2020 0:5 [DEBUG] Generating NPC Cache...", -- [1083]
+	"21/11/2020 0:5 [DEBUG] Enabling Addon", -- [1084]
+	"21/11/2020 0:5 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1085]
+	"21/11/2020 0:6 [DEBUG] Hiding Minimap Icon", -- [1086]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1087]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.4.0", -- [1088]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [1089]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [1090]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1091]
+	"21/11/2020 0:9 [DEBUG] Hiding Minimap Icon", -- [1092]
+	"21/11/2020 0:9 [DEBUG] NPC cache generated", -- [1093]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1094]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.4.0", -- [1095]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [1096]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [1097]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1098]
+	"21/11/2020 3:47 [DEBUG] Hiding Minimap Icon", -- [1099]
+	"21/11/2020 3:47 [DEBUG] NPC cache generated", -- [1100]
 }

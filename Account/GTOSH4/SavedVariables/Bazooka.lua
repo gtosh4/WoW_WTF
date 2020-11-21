@@ -31,6 +31,9 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 2,
 					},
+					["Altoholic"] = {
+						["pos"] = 3,
+					},
 					["InstanceAchievementTracker"] = {
 						["pos"] = 2,
 					},
@@ -71,18 +74,6 @@ BazookaDB = {
 					},
 				},
 				["data source"] = {
-					["Essence Set Manager"] = {
-						["enabled"] = false,
-						["pos"] = 5,
-					},
-					["AdiBags"] = {
-						["enabled"] = false,
-						["pos"] = 15,
-					},
-					["Details"] = {
-						["enabled"] = false,
-						["pos"] = 13,
-					},
 					["BugSack"] = {
 						["area"] = "left",
 						["pos"] = 1,
@@ -101,16 +92,8 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 3,
 					},
-					["System"] = {
-						["showIcon"] = false,
-						["area"] = "left",
-						["pos"] = 1,
-					},
-					["Equipment"] = {
-						["useLabelAsTitle"] = false,
-						["area"] = "left",
-						["pos"] = 1,
-						["bar"] = 2,
+					["Leatrix_Plus"] = {
+						["pos"] = 2,
 					},
 					["Volume"] = {
 						["pos"] = 1,
@@ -121,6 +104,29 @@ BazookaDB = {
 						["stripColors"] = false,
 						["pos"] = 1,
 						["bar"] = 4,
+					},
+					["AdiBags"] = {
+						["enabled"] = false,
+						["pos"] = 15,
+					},
+					["Essence Set Manager"] = {
+						["enabled"] = false,
+						["pos"] = 5,
+					},
+					["Details"] = {
+						["enabled"] = false,
+						["pos"] = 13,
+					},
+					["System"] = {
+						["showIcon"] = false,
+						["area"] = "left",
+						["pos"] = 1,
+					},
+					["Equipment"] = {
+						["useLabelAsTitle"] = false,
+						["area"] = "left",
+						["pos"] = 1,
+						["bar"] = 2,
 					},
 					["MythicDungeonTools"] = {
 						["enabled"] = false,

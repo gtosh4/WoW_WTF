@@ -43,6 +43,18 @@ GladiusExDB = {
 						["arena1"] = 1161.280442793359,
 					},
 				},
+				["Toshdruid - Area 52"] = {
+					["y"] = {
+						["arena2"] = 412.4799907803536,
+						["arena3"] = 354.239992082119,
+						["arena1"] = 470.7199894785881,
+					},
+					["x"] = {
+						["arena2"] = 1053.013492088314,
+						["arena3"] = 1053.013492088314,
+						["arena1"] = 1053.013492088314,
+					},
+				},
 				["Daggny - Frostwolf"] = {
 					["y"] = {
 						["anchor_arena"] = 394.1333115029338,
@@ -117,6 +129,20 @@ GladiusExDB = {
 						["player"] = 389.7599912881851,
 						["party1"] = 389.7599912881851,
 						["party2"] = 389.7599912881851,
+					},
+				},
+				["Toshdruid - Area 52"] = {
+					["y"] = {
+						["anchor_party"] = 407.9999908804894,
+						["player"] = 481.9200282907477,
+						["party2"] = 365.4399918317795,
+						["party1"] = 423.679990530014,
+					},
+					["x"] = {
+						["anchor_party"] = 533.866706817149,
+						["player"] = 587.6267446780184,
+						["party2"] = 587.6267446780184,
+						["party1"] = 587.6267446780184,
 					},
 				},
 				["Daggny - Frostwolf"] = {
@@ -197,7 +223,7 @@ GladiusExDB = {
 		},
 		["party_Auras"] = {
 		},
-		["party_Interrupts"] = {
+		["Announcements"] = {
 		},
 		["party_Tags"] = {
 		},
@@ -205,7 +231,7 @@ GladiusExDB = {
 		},
 		["Alerts"] = {
 		},
-		["Announcements"] = {
+		["party_Interrupts"] = {
 		},
 		["PetBar"] = {
 		},
@@ -215,16 +241,30 @@ GladiusExDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshdruid - Area 52"] = "Default",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
 		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
+		["Toshpriest - Area 52"] = {
+			["locked"] = true,
+			["showParty"] = false,
+		},
 		["Toshdk - Kil'jaeden"] = {
 			["locked"] = true,
 			["showParty"] = false,
+		},
+		["Default"] = {
+			["globalBarTexture"] = "Smooth v2",
+			["showParty"] = false,
+			["locked"] = true,
+		},
+		["Toshdruid - Area 52"] = {
+			["locked"] = true,
 		},
 		["Daggny - Frostwolf"] = {
 		},
@@ -233,8 +273,8 @@ GladiusExDB = {
 		["Toshpriest - Azralon"] = {
 		},
 		["Toshpal - Area 52"] = {
-			["showParty"] = false,
 			["locked"] = true,
+			["showParty"] = false,
 		},
 	},
 }

@@ -53,8 +53,9 @@ ToshUnitFramesDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Default",
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["global"] = {
 		["options"] = {
@@ -89,7 +90,6 @@ ToshUnitFramesDB = {
 						"UNIT_HEALTH_FREQUENT", -- [1]
 						"UNIT_MAXHEALTH", -- [2]
 					},
-					["_values"] = nil --[[ skipped inline function ]],
 					["name"] = "hp",
 					["Update"] = nil --[[ skipped inline function ]],
 					["id"] = 8,
@@ -122,8 +122,10 @@ ToshUnitFramesDB = {
 					["unit"] = "player",
 				},
 				[9] = {
+					["name"] = "mana",
 					["type"] = "bar",
 					["source"] = "power",
+					["parent"] = 7,
 					["anchors"] = {
 						{
 							["y"] = 10,
@@ -135,6 +137,7 @@ ToshUnitFramesDB = {
 							["from"] = "BOTTOMRIGHT",
 						}, -- [2]
 					},
+					["id"] = 9,
 					["_events"] = {
 						"UNIT_POWER_FREQUENT", -- [1]
 						"UNIT_MAXPOWER", -- [2]
@@ -143,11 +146,6 @@ ToshUnitFramesDB = {
 						"UNIT_POWER_BAR_SHOW", -- [5]
 						"UNIT_FLAGS", -- [6]
 					},
-					["_values"] = nil --[[ skipped inline function ]],
-					["name"] = "mana",
-					["Update"] = nil --[[ skipped inline function ]],
-					["parent"] = 7,
-					["id"] = 9,
 					["texture"] = "Bars",
 				},
 			},

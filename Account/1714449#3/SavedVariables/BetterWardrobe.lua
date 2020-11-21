@@ -2,6 +2,9 @@
 BetterWardrobe_Options = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -11,44 +14,40 @@ BetterWardrobe_Options = {
 BetterWardrobe_CharacterData = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
-			["listUpdate"] = 1,
 			["lastTransmogOutfitIDSpec"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["lists"] = {
-				{
-					["set"] = {
-					},
-					["item"] = {
-					},
-					["name"] = "Collection List",
-					["extraset"] = {
-					},
-				}, -- [1]
-			},
+			["listUpdate"] = 1,
 		},
 	},
 }
 BetterWardrobe_SavedSetData = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 	},
 	["global"] = {
 		["sets"] = {
 			["Toshpriest - Area 52"] = {
 				{
-					["isClass"] = true,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 2059677,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
 					["expansionID"] = 1,
 					["sources"] = {
@@ -72,22 +71,22 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "something",
-					["setID"] = 5000,
+					["isClass"] = true,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 2059677,
+					["name"] = "something",
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1091093,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
 					["expansionID"] = 1,
 					["sources"] = {
@@ -111,13 +110,12 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "something2",
-					["setID"] = 5001,
+					["isClass"] = true,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5001,
+					["uiOrder"] = 200,
+					["icon"] = 1091093,
+					["name"] = "something2",
 				}, -- [2]
 			},
 		},
@@ -126,10 +124,79 @@ BetterWardrobe_SavedSetData = {
 BetterWardrobe_SubstituteItemData = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 		},
 	},
 }
-Artifact = nil
+BetterWardrobe_ListData = {
+	["favoritesDB"] = {
+		["profileKeys"] = {
+			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		},
+		["profiles"] = {
+			["Toshpriest - Area 52"] = {
+			},
+		},
+	},
+	["collectionListDB"] = {
+		["profileKeys"] = {
+			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		},
+		["profiles"] = {
+			["Toshpriest - Area 52"] = {
+				["lists"] = {
+					{
+						["name"] = "Collection List",
+					}, -- [1]
+				},
+			},
+			["Toshaman - Area 52"] = {
+			},
+			["Toshmonk - Kil'jaeden"] = {
+			},
+			["Toshmonk - Area 52"] = {
+			},
+		},
+	},
+	["lastUpdte"] = 1,
+	["OutfitDB"] = {
+		["profileKeys"] = {
+			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		},
+		["char"] = {
+			["Toshpriest - Area 52"] = {
+				["lastTransmogOutfitIDSpec"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+			},
+		},
+	},
+	["HiddenAppearanceDB"] = {
+		["profileKeys"] = {
+			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		},
+		["profiles"] = {
+			["Toshpriest - Area 52"] = {
+			},
+		},
+	},
+}

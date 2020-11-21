@@ -42,6 +42,10 @@ END
 VER 3 000000000000002A "page2" "134154"
 /changeactionbar 3
 END
+VER 3 0000000000000034 "pet" "INV_MISC_QUESTIONMARK"
+/target Shad'har the Insatiable
+/pet
+END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
 /use Healthstone

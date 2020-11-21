@@ -9,34 +9,34 @@ ToshUnitFramesDB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Toshpriest - Azralon"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
+		["Toshtoon - Barthilas"] = "Default",
+		["Toshpal - Area 52"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+	},
 	["global"] = {
 		["options"] = {
 			["height"] = 459.1669311523438,
+			["width"] = 758.3334350585938,
 			["pos"] = {
 				["y"] = 152.0831756591797,
 				["x"] = -286.6657104492188,
 				["to"] = "RIGHT",
 				["from"] = "RIGHT",
 			},
-			["width"] = 758.3334350585938,
 		},
-	},
-	["profileKeys"] = {
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
-		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshtoon - Barthilas"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["regions"] = {
 				{
 					["type"] = "unit_single",
-					["id"] = 1,
 					["anchors"] = {
 						{
 							["y"] = 300,
@@ -45,24 +45,20 @@ ToshUnitFramesDB = {
 							["from"] = "CENTER",
 						}, -- [1]
 					},
-					["bg"] = {
-						["texture"] = "Blizzard Tooltip",
-					},
+					["id"] = 1,
 					["children"] = {
 						2, -- [1]
+					},
+					["bg"] = {
+						["texture"] = "Blizzard Tooltip",
 					},
 					["unit"] = "player",
 				}, -- [1]
 				{
+					["Update"] = nil --[[ skipped inline function ]],
 					["type"] = "bar",
 					["source"] = "health",
 					["parent"] = 1,
-					["_events"] = {
-						"UNIT_HEALTH_FREQUENT", -- [1]
-						"UNIT_MAXHEALTH", -- [2]
-					},
-					["_values"] = nil --[[ skipped inline function ]],
-					["Update"] = nil --[[ skipped inline function ]],
 					["anchors"] = {
 						{
 							["to"] = "TOPLEFT",
@@ -74,6 +70,10 @@ ToshUnitFramesDB = {
 						}, -- [2]
 					},
 					["id"] = 2,
+					["_events"] = {
+						"UNIT_HEALTH_FREQUENT", -- [1]
+						"UNIT_MAXHEALTH", -- [2]
+					},
 					["texture"] = "Smooth v2",
 				}, -- [2]
 			},
