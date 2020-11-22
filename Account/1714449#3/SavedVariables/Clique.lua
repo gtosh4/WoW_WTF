@@ -15,10 +15,19 @@ CliqueDB3 = {
 		},
 		["Toshmonk - Area 52"] = {
 			["spec1_profileKey"] = "Toshmonk - Area 52",
-			["fastooc"] = false,
 			["spec3_profileKey"] = "Toshmonk - Area 52",
 			["downclick"] = false,
+			["fastooc"] = false,
 			["spec2_profileKey"] = "Toshmonk - Area 52",
+			["specswap"] = false,
+		},
+		["Toshmonk - Kil'jaeden"] = {
+			["spec1_profileKey"] = "Toshmonk - Kil'jaeden",
+			["fastooc"] = false,
+			["spec3_profileKey"] = "Toshmonk - Kil'jaeden",
+			["downclick"] = true,
+			["spec2_profileKey"] = "Toshmonk - Kil'jaeden",
+			["alerthidden"] = true,
 			["specswap"] = false,
 		},
 		["Toshaman - Area 52"] = {
@@ -33,7 +42,7 @@ CliqueDB3 = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshpriest - Area 52",
 		["Toshaman - Area 52"] = "Toshpriest - Area 52",
 	},
 	["profiles"] = {

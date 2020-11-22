@@ -7,6 +7,8 @@ AAP1 = {
 			["QuestCounter2"] = 168,
 			["QlineSkip"] = {
 			},
+			["SkippedBonusObj"] = {
+			},
 			["Settings"] = {
 				["LockArrow"] = 0,
 				["ShowQuestListOrder"] = 1,
@@ -36,8 +38,8 @@ AAP1 = {
 				["Greetings"] = 0,
 				["arrowleft"] = 1398.373904344512,
 				["ArrowScale"] = 0.64,
-				["Hcamptop"] = -239.9999755859375,
 				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.9999755859375,
 				["ShowMapBlobs"] = 1,
 				["alpha"] = 1,
 				["MiniMapBlobAlpha"] = 1,
@@ -52,13 +54,11 @@ AAP1 = {
 				["Scale"] = 0.64,
 				["Greetings2"] = 1,
 			},
-			["SkippedBonusObj"] = {
-			},
-			["WantedQuestList"] = {
+			["BonusSkips"] = {
 			},
 			["AAP_DoWarCampaign"] = 0,
 			["LoaPick"] = 0,
-			["BonusSkips"] = {
+			["WantedQuestList"] = {
 			},
 			["QuestCounter"] = 168,
 		},
@@ -67,8 +67,14 @@ AAP1 = {
 			["QuestCounter2"] = 1316,
 			[862] = 1,
 			["QuestCounter"] = 1316,
+			["WantedQuestList"] = {
+			},
+			["SkippedBonusObj"] = {
+			},
 			["BonusSkips"] = {
 			},
+			["LoaPick"] = 0,
+			["AAP_DoWarCampaign"] = 0,
 			["Settings"] = {
 				["LockArrow"] = 0,
 				["ShowQuestListOrder"] = 1,
@@ -100,7 +106,7 @@ AAP1 = {
 				["ArrowScale"] = 0.64,
 				["ShowQList"] = 1,
 				["ShowMapBlobs"] = 1,
-				["Hcamptop"] = -239.9999755859375,
+				["ShowArrow"] = 1,
 				["Partyleft"] = 1146.6666015625,
 				["MiniMapBlobAlpha"] = 1,
 				["alpha"] = 1,
@@ -109,16 +115,10 @@ AAP1 = {
 				["ChooseQuests"] = 0,
 				["QuestButtonDetatch"] = 0,
 				["Beta1"] = 1,
-				["ShowArrow"] = 1,
+				["Hcamptop"] = -239.9999755859375,
 				["QuestButtons"] = 1,
 				["AutoShareQ"] = 0,
 				["DisableHeirloomWarning"] = 0,
-			},
-			["WantedQuestList"] = {
-			},
-			["LoaPick"] = 0,
-			["AAP_DoWarCampaign"] = 0,
-			["SkippedBonusObj"] = {
 			},
 			["QlineSkip"] = {
 			},
@@ -127,9 +127,11 @@ AAP1 = {
 	["Kil'jaeden"] = {
 		["Toshmonk"] = {
 			["FirstLoadz"] = 1,
-			["QuestCounter2"] = 1484,
-			[862] = 1,
 			["QlineSkip"] = {
+			},
+			[875] = 1,
+			[862] = 1,
+			["SkippedBonusObj"] = {
 			},
 			["AAP_DoWarCampaign"] = 0,
 			["Settings"] = {
@@ -147,22 +149,23 @@ AAP1 = {
 				["AutoVendor"] = 0,
 				["topLiz"] = -150,
 				["arrowtop"] = -799.9999186197916,
+				["DisableHeirloomWarning"] = 0,
 				["AutoAccept"] = 1,
 				["CutScene"] = 1,
 				["left"] = 1791.666564941406,
 				["ShowBlobs"] = 1,
-				["DisableHeirloomWarning"] = 0,
+				["AutoShareQ"] = 0,
 				["AutoHandIn"] = 1,
 				["ArrowFPS"] = 2,
 				["Lock"] = 0,
 				["Hcampleft"] = 1791.666564941406,
-				["Hcamptop"] = -239.9999755859375,
+				["QuestButtons"] = 1,
 				["Greetings"] = 0,
 				["arrowleft"] = 1398.373904344512,
 				["ArrowScale"] = 0.64,
-				["AutoShareQ"] = 0,
-				["QuestButtons"] = 1,
 				["ShowMapBlobs"] = 1,
+				["Hcamptop"] = -239.9999755859375,
+				["ShowArrow"] = 1,
 				["alpha"] = 1,
 				["MiniMapBlobAlpha"] = 1,
 				["Partyleft"] = 1146.6666015625,
@@ -171,18 +174,17 @@ AAP1 = {
 				["ChooseQuests"] = 0,
 				["QuestButtonDetatch"] = 0,
 				["Beta1"] = 1,
-				["ShowArrow"] = 1,
 				["ShowQList"] = 1,
 				["Partytop"] = -299.9999694824219,
 				["Scale"] = 0.64,
+				["Greetings2"] = 1,
+			},
+			["BonusSkips"] = {
 			},
 			["WantedQuestList"] = {
 			},
-			["SkippedBonusObj"] = {
-			},
 			["LoaPick"] = 0,
-			["BonusSkips"] = {
-			},
+			["QuestCounter2"] = 1484,
 			["QuestCounter"] = 1484,
 		},
 	},
@@ -191,6 +193,7 @@ AAP2 = nil
 AAP3 = nil
 AAPQuestNames = {
 	[42421] = "The Nightfallen",
+	[43179] = "The Kirin Tor of Dalaran",
 	[52383] = "Supplies Needed: Sand Shifter",
 	[49930] = "The Call for Allies",
 	[53082] = "Spare Parts",
@@ -202,6 +205,7 @@ AAPQuestNames = {
 	[53435] = "Azerite for the Horde",
 	[50602] = "Talanji's Expedition",
 	[50604] = "Tortollan Seekers",
+	[50606] = "Horde War Effort",
 	[42422] = "The Wardens",
 	[56168] = "Factory Refurbished",
 	[58375] = "Ny'alotha: MOTHER's Guidance",
@@ -210,18 +214,19 @@ AAPQuestNames = {
 	[56030] = "The Warchief's Order",
 	[60115] = "An Urgent Request",
 	[53103] = "Wicker Magic",
+	[50603] = "Voldunai",
 	[58582] = "Return of the Black Prince",
 	[57198] = "Sense of Obligation",
-	[57743] = "Conquest's Reward",
 	[57744] = "Conquest's Reward",
-	[54180] = "Quest",
 	[58374] = "Ny'alotha: MOTHER's Guidance",
-	[55696] = "Test Drive",
-	[48642] = "Argussian Reach",
+	[54180] = "Quest",
 	[57567] = "N'Zoth Assault Tracker (Vale)",
 	[3861] = "CLUCK!",
+	[48642] = "Argussian Reach",
+	[55696] = "Test Drive",
 	[57565] = "Aqir Assault Tracker",
-	[50603] = "Voldunai",
+	[57743] = "Conquest's Reward",
+	[51044] = "Supplies Needed: Blood-Stained Bone",
 	[56401] = "A Bolt from the Blue",
 	[56433] = "Drowning the Alliance",
 	[56500] = "Storming the Battlefields",

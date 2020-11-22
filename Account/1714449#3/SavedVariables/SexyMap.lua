@@ -4,147 +4,7 @@ SexyMap2DB = {
 	},
 	["Toshaman-Area 52"] = "global",
 	["Toshmonk-Area 52"] = "global",
-	["Toshmonk-Kil'jaeden"] = {
-		["core"] = {
-			["clamp"] = true,
-			["lock"] = false,
-			["northTag"] = true,
-			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
-			["autoZoom"] = 5,
-			["rightClickToConfig"] = true,
-		},
-		["coordinates"] = {
-			["enabled"] = true,
-			["fontColor"] = {
-			},
-			["xOffset"] = 0,
-			["updateRate"] = 1,
-			["yOffset"] = 10,
-			["font"] = "Friz Quadrata TT",
-			["borderColor"] = {
-			},
-			["coordPrecision"] = "%d,%d",
-			["backgroundColor"] = {
-			},
-		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
-		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["SexyMapZoneTextButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["TimeManagerClockButton"] = "always",
-			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
-		},
-		["clock"] = {
-			["bgColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["font"] = "Friz Quadrata TT",
-			["fontColor"] = {
-			},
-			["borderColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["xOffset"] = 0,
-			["yOffset"] = 0,
-		},
-		["borders"] = {
-			["applyPreset"] = false,
-			["borders"] = {
-				{
-					["name"] = "Rune 1",
-					["r"] = 0.3098039215686275,
-					["scale"] = 1.4,
-					["rotSpeed"] = -30,
-					["g"] = 0.4784313725490196,
-					["texture"] = 165630,
-				}, -- [1]
-				{
-					["a"] = 0.3799999952316284,
-					["rotSpeed"] = 60,
-					["r"] = 0.196078431372549,
-					["scale"] = 2.1,
-					["name"] = "Rune 2",
-					["g"] = 0.2901960784313725,
-					["texture"] = 165638,
-				}, -- [2]
-				{
-					["a"] = 0.3,
-					["name"] = "Fade",
-					["r"] = 0,
-					["scale"] = 1.6,
-					["g"] = 0.2235294117647059,
-					["texture"] = 167062,
-				}, -- [3]
-			},
-			["backdrop"] = {
-				["show"] = false,
-				["textureColor"] = {
-				},
-				["settings"] = {
-					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
-					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
-					["tile"] = false,
-					["edgeSize"] = 16,
-					["insets"] = {
-						["top"] = 4,
-						["right"] = 4,
-						["left"] = 4,
-						["bottom"] = 4,
-					},
-				},
-				["borderColor"] = {
-				},
-				["scale"] = 1,
-			},
-			["hideBlizzard"] = true,
-		},
-		["zonetext"] = {
-			["bgColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["font"] = "Friz Quadrata TT",
-			["fontColor"] = {
-			},
-			["borderColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["xOffset"] = 0,
-			["yOffset"] = 0,
-		},
-		["ping"] = {
-			["showPing"] = true,
-			["showAt"] = "map",
-		},
-	},
+	["Toshmonk-Kil'jaeden"] = "global",
 	["Toshpriest-Area 52"] = "global",
 	["global"] = {
 		["ping"] = {
@@ -177,48 +37,11 @@ SexyMap2DB = {
 			["shape"] = 130871,
 			["rightClickToConfig"] = true,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["LibDBIcon10_Professions"] = "never",
-				["LibDBIcon10_Friends"] = "never",
-				["MiniMapChallengeMode"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["LibDBIcon10_Leatrix_Plus"] = "never",
-				["LibDBIcon10_BugSack"] = "hover",
-				["MiniMapTracking"] = "never",
-				["LibDBIcon10_Difficulty"] = "never",
-				["MiniMapInstanceDifficulty"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["LibDBIcon10_Gold"] = "never",
-				["LibDBIcon10_Equipment"] = "never",
-				["MiniMapWorldMapButton"] = "never",
-				["GameTimeFrame"] = "never",
-				["LibDBIcon10_Dominos"] = "never",
-				["TimeManagerClockButton"] = "never",
-				["SexyMapZoneTextButton"] = "always",
-				["LibDBIcon10_Bags"] = "never",
-				["MinimapZoomOut"] = "never",
-				["LibDBIcon10_Guild"] = "never",
-				["GarrisonLandingPageMinimapButton"] = "hover",
-				["LibDBIcon10_GPS"] = "never",
-				["GuildInstanceDifficulty"] = "hover",
-				["MinimapZoomIn"] = "never",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-				["MiniMapMailFrame"] = 166.89688438611,
-				["GameTimeFrame"] = 149.2157701186239,
-				["GarrisonLandingPageMinimapButton"] = 146.3110376461561,
-				["LibDBIcon10_BugSack"] = 187.2171580730243,
-				["QueueStatusMinimapButton"] = 163.6189618707661,
-				["MiniMapTracking"] = 164.4354196017399,
-				["LibDBIcon10_InstanceAchievementTracker"] = 180.3559408250942,
-				["LibDBIcon10_SavedInstances"] = 180.4265913395499,
-				["LibDBIcon10_REFlex"] = 210.5692436005571,
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -285,11 +108,48 @@ SexyMap2DB = {
 			["width"] = 140,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["LibDBIcon10_Professions"] = "never",
+				["LibDBIcon10_Friends"] = "never",
+				["MiniMapChallengeMode"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["LibDBIcon10_BugSack"] = "hover",
+				["LibDBIcon10_Leatrix_Plus"] = "never",
+				["LibDBIcon10_Gold"] = "never",
+				["LibDBIcon10_Difficulty"] = "never",
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "hover",
+				["LibDBIcon10_Equipment"] = "never",
+				["TimeManagerClockButton"] = "never",
+				["GameTimeFrame"] = "never",
+				["LibDBIcon10_Dominos"] = "never",
+				["MiniMapWorldMapButton"] = "never",
+				["MinimapZoomOut"] = "never",
+				["LibDBIcon10_Bags"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["LibDBIcon10_Guild"] = "never",
+				["MiniMapTracking"] = "never",
+				["LibDBIcon10_GPS"] = "never",
+				["GuildInstanceDifficulty"] = "hover",
+				["MiniMapInstanceDifficulty"] = "never",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+				["MiniMapMailFrame"] = 166.89688438611,
+				["GameTimeFrame"] = 149.2157701186239,
+				["MiniMapTracking"] = 164.4354196017399,
+				["LibDBIcon10_BugSack"] = 187.2171580730243,
+				["LibDBIcon10_REFlex"] = 210.5692436005571,
+				["GarrisonLandingPageMinimapButton"] = 146.3110376461561,
+				["LibDBIcon10_InstanceAchievementTracker"] = 180.3559408250942,
+				["LibDBIcon10_SavedInstances"] = 180.4265913395499,
+				["QueueStatusMinimapButton"] = 163.6189618707661,
+			},
+			["controlVisibility"] = true,
 		},
 	},
 }

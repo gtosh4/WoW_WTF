@@ -183,6 +183,30 @@ TalentSetManager_CharacterSaves = {
 	["Toshmonk-Kil'jaeden"] = {
 		["talents"] = {
 			[2] = {
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					2, -- [6]
+					2, -- [7]
+					["tt"] = "talents",
+					["name"] = "raid (up)",
+					["texture"] = 628135,
+				}, -- [1]
+				{
+					1, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					3, -- [6]
+					3, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+ (rm)",
+					["texture"] = "interface\\icons\\inv_misc_questionmark",
+				}, -- [2]
 			},
 		},
 		["talents_pvp"] = {

@@ -14,13 +14,13 @@ ToshUnitFramesDB = {
 					["y"] = 654.1667785644531,
 					["x"] = 2112.9169921875,
 					["height"] = 635.0001831054688,
-					["width"] = 708.3319702148438,
 					["pos"] = {
 						["y"] = -129.5829010009766,
 						["x"] = -465.4166259765625,
 						["to"] = "TOPRIGHT",
 						["from"] = "TOPRIGHT",
 					},
+					["width"] = 708.3319702148438,
 				},
 			},
 			["profiles"] = {
@@ -52,22 +52,22 @@ ToshUnitFramesDB = {
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshpriest - Area 52"] = "Default",
-		["Toshmonk - Area 52"] = "Default",
-	},
 	["global"] = {
 		["options"] = {
 			["height"] = 558.3331298828125,
-			["width"] = 871.6692504882812,
 			["pos"] = {
 				["y"] = 45.83381652832031,
 				["x"] = -259.1648864746094,
 				["to"] = "RIGHT",
 				["from"] = "RIGHT",
 			},
+			["width"] = 871.6692504882812,
 		},
+	},
+	["profileKeys"] = {
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -92,8 +92,8 @@ ToshUnitFramesDB = {
 					},
 					["name"] = "hp",
 					["Update"] = nil --[[ skipped inline function ]],
-					["id"] = 8,
 					["parent"] = 7,
+					["id"] = 8,
 					["texture"] = "Smooth v2",
 				},
 				[6] = {
@@ -103,6 +103,7 @@ ToshUnitFramesDB = {
 				[7] = {
 					["type"] = "unit_single",
 					["name"] = "player",
+					["id"] = 7,
 					["anchors"] = {
 						{
 							["y"] = 400,
@@ -111,21 +112,19 @@ ToshUnitFramesDB = {
 							["from"] = "CENTER",
 						}, -- [1]
 					},
-					["id"] = 7,
+					["bg"] = {
+						["texture"] = "Blizzard Dialog Background",
+					},
 					["children"] = {
 						8, -- [1]
 						9, -- [2]
 					},
-					["bg"] = {
-						["texture"] = "Blizzard Dialog Background",
-					},
 					["unit"] = "player",
 				},
 				[9] = {
-					["name"] = "mana",
-					["type"] = "bar",
 					["source"] = "power",
-					["parent"] = 7,
+					["type"] = "bar",
+					["name"] = "mana",
 					["anchors"] = {
 						{
 							["y"] = 10,
@@ -137,6 +136,7 @@ ToshUnitFramesDB = {
 							["from"] = "BOTTOMRIGHT",
 						}, -- [2]
 					},
+					["parent"] = 7,
 					["id"] = 9,
 					["_events"] = {
 						"UNIT_POWER_FREQUENT", -- [1]

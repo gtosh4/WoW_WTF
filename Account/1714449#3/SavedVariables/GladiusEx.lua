@@ -172,9 +172,9 @@ GladiusExDB = {
 		},
 		["party_Clicks"] = {
 		},
-		["party_Interrupts"] = {
-		},
 		["Announcements"] = {
+		},
+		["party_Interrupts"] = {
 		},
 		["Alerts"] = {
 		},
@@ -194,7 +194,7 @@ GladiusExDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
 		["Toshmonk - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {

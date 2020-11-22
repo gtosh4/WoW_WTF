@@ -75,7 +75,7 @@ AstralKeys = {
 		["dungeon_id"] = 246,
 		["week"] = 174,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 4,
 		["source"] = "friend",
 	}, -- [7]
 	{
@@ -102,6 +102,62 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [9]
+	{
+		["btag"] = "boochan#1194",
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["key_level"] = 24,
+		["unit"] = "Ngow-Kil'jaeden",
+		["dungeon_id"] = 353,
+		["week"] = 174,
+		["faction"] = "1",
+		["time_stamp"] = 4,
+		["source"] = "friend",
+	}, -- [10]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "PALADIN",
+		["key_level"] = 22,
+		["unit"] = "Heavens-Kil'jaeden",
+		["dungeon_id"] = 249,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 2,
+	}, -- [11]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["key_level"] = 24,
+		["unit"] = "Slurry-Kil'jaeden",
+		["dungeon_id"] = 246,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 6,
+	}, -- [12]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "WARRIOR",
+		["key_level"] = 24,
+		["unit"] = "Orcbum-Kil'jaeden",
+		["dungeon_id"] = 245,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 2,
+	}, -- [13]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "HUNTER",
+		["key_level"] = 23,
+		["unit"] = "Papisalad-Kil'jaeden",
+		["dungeon_id"] = 369,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 1,
+	}, -- [14]
 }
 AstralCharacters = {
 	{
@@ -140,10 +196,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = false,
-			["raid"] = false,
 			["no_key"] = false,
 			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -219,17 +275,24 @@ AstralLists = {
 	{
 		["name"] = "GUILD",
 		["units"] = {
-			["Artsong-Area52"] = true,
-			["Race-Area52"] = true,
-			["Andruw-Area52"] = "Drew#13709",
+			["Heavens-Kil'jaeden"] = true,
+			["Baesong-Kil'jaeden"] = "Emosong#1897",
 			["Yukiox-Area52"] = "YukioX#1520",
+			["Andruw-Area52"] = "Drew#13709",
+			["Illsong-Area52"] = true,
+			["Slurry-Kil'jaeden"] = true,
+			["Papisalad-Kil'jaeden"] = true,
+			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Woesong-Area52"] = true,
+			["Race-Area52"] = true,
 			["Scitron-Area52"] = true,
 			["Royalty-Area52"] = true,
 			["Alyasta-Area52"] = true,
 			["Gummybuns-Area52"] = true,
-			["Woesong-Area52"] = true,
+			["Artsong-Area52"] = true,
 			["Rathux-Area52"] = true,
-			["Illsong-Area52"] = true,
+			["Orcbum-Kil'jaeden"] = true,
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [1]

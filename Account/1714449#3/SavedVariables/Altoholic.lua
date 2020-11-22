@@ -8,6 +8,7 @@ AltoholicDB = {
 	["global"] = {
 		["options"] = {
 			["UI.Sharing.Ongoing.NumTargets"] = 0,
+			["UI.Minimap.IconAngle"] = 335,
 		},
 	},
 }

@@ -53,12 +53,6 @@ Broker_Everything_CharacterDB = {
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["level"] = 50,
-		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -83,6 +77,12 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
+		},
+		["level"] = 50,
+		["gold"] = 10753845943,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
 		},
 	},
 	["Toshmonk-Kil'jaeden"] = {
@@ -111,10 +111,8 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Equipment"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -151,14 +149,16 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
+			["Equipment"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
 			["Difficulty"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
-			},
-			["Friends"] = {
-				["enabled"] = false,
 			},
 		},
 	},

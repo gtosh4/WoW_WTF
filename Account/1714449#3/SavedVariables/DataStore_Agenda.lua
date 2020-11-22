@@ -11,10 +11,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1605948101,
 			},
 			["Default.Area 52.Toshmonk"] = {
-				["lastUpdate"] = 1605948612,
+				["lastUpdate"] = 1605997317,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1605948410,
+				["lastUpdate"] = 1606000533,
 			},
 		},
 	},

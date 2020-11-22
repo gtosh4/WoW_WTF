@@ -3,7 +3,7 @@ TellMeWhenDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Priest2",
 		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Area 52",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
@@ -85,44 +85,28 @@ TellMeWhenDB = {
 			["n"] = 1,
 		},
 		["AuraCache"] = {
-			[204262] = 2,
-			[294966] = 2,
-			[319237] = 2,
-			[1459] = 2,
-			[22888] = 1,
-			[269279] = 2,
-			[227723] = 2,
-			[2383] = 2,
-			[2580] = 2,
-			[8679] = 2,
-			[40120] = 2,
-			[6673] = 2,
-			[312107] = 2,
-			[293664] = 2,
-			[192106] = 2,
-			[185562] = 2,
-			[287790] = 2,
-			[108366] = 2,
-			[2645] = 2,
-			[281240] = 2,
-			[768] = 2,
+			[267611] = 2,
+			[204242] = 2,
 			[326396] = 2,
-			[292361] = 2,
-			[264689] = 2,
-			[260881] = 2,
-			[298836] = 2,
-			[289277] = 2,
-			[119085] = 2,
-			[270661] = 2,
-			[221883] = 2,
-			[334208] = 1,
-			[203814] = 2,
-			[232698] = 2,
-			[167898] = 2,
-			[3408] = 2,
-			[32223] = 2,
-			[21562] = 2,
-			[165961] = 2,
+			[58180] = 2,
+			[853] = 2,
+			[163505] = 2,
+			[295367] = 2,
+			[31884] = 2,
+			[304056] = 2,
+			[317859] = 2,
+			[20549] = 2,
+			[155722] = 2,
+			[197277] = 2,
+			[183218] = 2,
+			[22812] = 2,
+			[768] = 2,
+			[69369] = 2,
+			[280165] = 2,
+			[279956] = 2,
+			[279902] = 2,
+			[300809] = 2,
+			[300893] = 2,
 		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
@@ -1257,6 +1241,8 @@ TellMeWhenDB = {
 	["Version"] = 90201,
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
+			["NumGroups"] = 10,
+			["Version"] = 87505,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5QOoilLgOy",
@@ -6635,12 +6621,9 @@ TellMeWhenDB = {
 					["Columns"] = 3,
 				}, -- [10]
 			},
-			["NumGroups"] = 10,
-			["Version"] = 87505,
 			["TextureName"] = "Smooth v2",
 		},
 		["Empty2"] = {
-			["NumGroups"] = 16,
 			["Version"] = 90201,
 			["Groups"] = {
 				{
@@ -13651,12 +13634,7 @@ TellMeWhenDB = {
 				{
 					["GUID"] = "TMW:group:1VIP7xIq0t4D",
 					["LayoutDirection"] = 2,
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["x"] = -2.85712656679811,
-						["point"] = "BOTTOMRIGHT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
+					["Name"] = "Util",
 					["Locked"] = true,
 					["Scale"] = 1.4,
 					["Rows"] = 2,
@@ -13750,15 +13728,19 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 					},
-					["Name"] = "Util",
+					["Point"] = {
+						["relativeTo"] = "SUFUnitplayer",
+						["x"] = -2.85712656679811,
+						["point"] = "BOTTOMRIGHT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
 				}, -- [16]
 			},
+			["NumGroups"] = 16,
 			["TextureName"] = "Smooth v2",
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
-			["NumGroups"] = 5,
-			["Version"] = 90201,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -17063,6 +17045,8 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
+			["NumGroups"] = 5,
+			["Version"] = 90201,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["Version"] = 90201,
@@ -25776,13 +25760,13 @@ TellMeWhenDB = {
 				}, -- [15]
 				{
 					["LayoutDirection"] = 2,
-					["Name"] = "Util",
 					["Point"] = {
 						["x"] = -2.85712656679811,
 						["relativeTo"] = "SUFUnitplayer",
 						["point"] = "BOTTOMRIGHT",
 						["relativePoint"] = "BOTTOMLEFT",
 					},
+					["Name"] = "Util",
 					["Scale"] = 1.4,
 					["Locked"] = true,
 					["Rows"] = 2,
@@ -25947,12 +25931,6 @@ TellMeWhenDB = {
 			["TextureName"] = "Smooth v2",
 			["Groups"] = {
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -26293,12 +26271,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5QOoilLgOy",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [1]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -26315,7 +26295,7 @@ TellMeWhenDB = {
 							["OnlyEquipped"] = true,
 							["Type"] = "item",
 							["Name"] = "Forbidden Obsidian Claw",
-							["OnlyInBags"] = true,
+							["Enabled"] = true,
 							["GUID"] = "TMW:icon:1V6yzOTPnMOU",
 							["Events"] = {
 								{
@@ -26362,7 +26342,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["Enabled"] = true,
+							["OnlyInBags"] = true,
 						}, -- [1]
 						{
 							["ShowTimer"] = true,
@@ -26776,6 +26756,10 @@ TellMeWhenDB = {
 					},
 					["Name"] = "MW  Helpers",
 					["GUID"] = "TMW:group:1V5R9h2RhMi2",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [2]
 				{
 					["Point"] = {
@@ -26786,7 +26770,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
@@ -26854,8 +26838,8 @@ TellMeWhenDB = {
 								{
 									["Type"] = "BUFFDUR",
 									["Checked"] = true,
-									["Operator"] = ">",
 									["Unit"] = "target",
+									["Operator"] = ">",
 									["Name"] = "Soothing Mist",
 								}, -- [1]
 								["n"] = 1,
@@ -26992,7 +26976,7 @@ TellMeWhenDB = {
 					},
 					["Name"] = "MW Procs",
 					["GUID"] = "TMW:group:1V5RkqsuK0qG",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["Point"] = {
@@ -27789,12 +27773,6 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1V5Rw74pj18v",
 				}, -- [4]
 				{
-					["Point"] = {
-						["y"] = -2,
-						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -27904,7 +27882,7 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Berserking",
+							["Name"] = "Berserking; Arcane Torrent",
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -28601,14 +28579,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5S0C30ZNK5",
+					["Point"] = {
+						["y"] = -2,
+						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
 				}, -- [5]
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -28781,12 +28759,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SQWkWTAWD",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [6]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -29197,6 +29177,10 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Brm Helpers",
 					["GUID"] = "TMW:group:1V5SREYruzir",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [7]
 				{
 					["Point"] = {
@@ -29207,7 +29191,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[269] = false,
 						[258] = false,
@@ -29342,7 +29326,7 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Brm Procs",
 					["GUID"] = "TMW:group:1V5SSG6lLU0b",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [8]
 				{
 					["Point"] = {
@@ -30084,7 +30068,7 @@ TellMeWhenDB = {
 						["relativePoint"] = "BOTTOMLEFT",
 					},
 					["Scale"] = 1,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[269] = false,
 						[258] = false,
@@ -30805,15 +30789,9 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SSQP92pnS",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [10]
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -31273,12 +31251,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP3zphLZaf",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [11]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -31694,6 +31674,10 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP50dIOyeX",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [12]
 				{
 					["Point"] = {
@@ -31704,7 +31688,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[270] = false,
@@ -31844,7 +31828,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP5WIrphW5",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [13]
 				{
 					["Point"] = {
@@ -32578,12 +32562,6 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1VIP6OlTkv8g",
 				}, -- [14]
 				{
-					["Point"] = {
-						["y"] = -2.000030517578125,
-						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -33336,6 +33314,12 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP6n2Kcrmc",
+					["Point"] = {
+						["y"] = -2.000030517578125,
+						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
 				}, -- [15]
 				{
 					["Scale"] = 1.4,
@@ -33519,16 +33503,17 @@ TellMeWhenDB = {
 					["Name"] = "Util",
 					["GUID"] = "TMW:group:1VIP7xIq0t4D",
 					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
+						["x"] = -2.85712656679811,
 						["point"] = "BOTTOMRIGHT",
 						["relativePoint"] = "BOTTOMLEFT",
-						["x"] = -2.85712656679811,
+						["relativeTo"] = "SUFUnitplayer",
 					},
 				}, -- [16]
 			},
 			["Locked"] = true,
 		},
 		["Empty"] = {
+			["NumGroups"] = 5,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -36510,7 +36495,6 @@ TellMeWhenDB = {
 				}, -- [6]
 			},
 			["Version"] = 90201,
-			["NumGroups"] = 5,
 		},
 	},
 }

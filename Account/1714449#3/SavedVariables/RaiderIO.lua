@@ -1,10 +1,8 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshmonk-area-52"
+RaiderIO_LastCharacter = "us-Toshmonk-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Cafnahwa-illidan"] = true,
-	["us-Splyntr-area-52"] = true,
-	["us-Toshmonk-area-52"] = true,
+	["us-Kittië-mugthol"] = true,
 }
 RaiderIO_CachedRuns = nil

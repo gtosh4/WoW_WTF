@@ -216,13 +216,13 @@ WQTrackerDB = {
 				},
 			},
 			["quests_tracked"] = {
-				["Player-3676-0AD945D6"] = {
+				["Player-3676-0AD945E6"] = {
 				},
-				["Player-9-0B608E72"] = {
+				["Player-3676-0AD945D6"] = {
 				},
 				["Player-3676-0AD143A0"] = {
 				},
-				["Player-3676-0AD945E6"] = {
+				["Player-9-0B608E72"] = {
 				},
 			},
 			["quests_all_characters"] = {
@@ -234,25 +234,25 @@ WQTrackerDB = {
 				},
 			},
 			["player_names"] = {
+				["Player-3676-0AD945E6"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
+					["realm"] = "Area 52",
+				},
 				["Player-3676-0AD945D6"] = {
 					["class"] = "SHAMAN",
 					["name"] = "Toshaman",
 					["realm"] = "Area 52",
-				},
-				["Player-9-0B608E72"] = {
-					["class"] = "MONK",
-					["name"] = "Toshmonk",
-					["realm"] = "Kil'jaeden",
 				},
 				["Player-3676-0AD143A0"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Area 52",
 				},
-				["Player-3676-0AD945E6"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Area 52",
+				["Player-9-0B608E72"] = {
+					["class"] = "MONK",
+					["name"] = "Toshmonk",
+					["realm"] = "Kil'jaeden",
 				},
 			},
 			["rarescan"] = {
@@ -288,7 +288,7 @@ WQTrackerDB = {
 					["Arachnoid Harvester"] = 151934,
 					["Puscilla"] = 126040,
 					["Molok the Crusher"] = 141942,
-					["Rezira the Seer"] = 127706,
+					["Lieutenant Xakaar"] = 126254,
 					["Señor de cólera Yarez"] = 126338,
 					["Guardian Tannin"] = 152736,
 					["All-Seer Xanarian"] = 127096,
@@ -296,29 +296,29 @@ WQTrackerDB = {
 					["Mechagonian Nullifier"] = 151124,
 					["Plaguefeather"] = 142435,
 					["Ven'orn"] = 126115,
-					["Naroua"] = 126419,
-					["Skreeg the Devourer"] = 126912,
-					["Rumbling Goliath"] = 141620,
 					["Overseer Y'Beda"] = 124440,
+					["The Many-Faced Devourer"] = 127581,
+					["Rumbling Goliath"] = 141620,
+					["Naroua"] = 126419,
 					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
 					["Worldsplitter Skuul"] = 127118,
-					["Overseer Krix"] = 142423,
 					["High Warlord Volrath"] = 143536,
-					["Umbra'jin"] = 122004,
+					["Overseer Krix"] = 142423,
+					["Overseer Y'Sorna"] = 125497,
 					["Matriarca de escamas Gratinax"] = 152548,
 					["Void Warden Valsuran"] = 127300,
 					["Mistress Il'thendra"] = 122947,
 					["Malfunctioning Beastbot"] = 151933,
 					["Goldenvein"] = 140769,
-					["Overseer Y'Sorna"] = 125497,
+					["Umbra'jin"] = 122004,
 					["Armored Vaultbot"] = 154968,
-					["The Many-Faced Devourer"] = 127581,
 					["Foul Manifestation"] = 151202,
+					["Skreeg the Devourer"] = 126912,
 					["Golrakahn"] = 124185,
 					["Venomtail Skyfin"] = 126867,
 					["Varga"] = 126208,
-					["Lieutenant Xakaar"] = 126254,
+					["Rezira the Seer"] = 127706,
 					["Blistermaw"] = 122958,
 					["失控的机械兽"] = 151933,
 					["Elder Unu"] = 152414,

@@ -185,7 +185,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Area 52.Toshmonk"] = {
-				["lastUpdate"] = 1605948610,
+				["lastUpdate"] = 1605997315,
 				["Specializations"] = {
 					[2] = 16127,
 				},
@@ -418,9 +418,9 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1605948408,
+				["lastUpdate"] = 1606000133,
 				["Specializations"] = {
-					[2] = 0,
+					[2] = 11007,
 				},
 				["AzeriteEssences"] = {
 					["Breath of the Dying"] = {
@@ -567,14 +567,6 @@ DataStore_TalentsDB = {
 						["icon"] = 2967105,
 						["rank"] = 3,
 					},
-					["Vitality Conduit"] = {
-						["valid"] = true,
-						["name"] = "Vitality Conduit",
-						["ID"] = 21,
-						["unlocked"] = true,
-						["icon"] = 2967100,
-						["rank"] = 3,
-					},
 					["Worldvein Resonance"] = {
 						["valid"] = true,
 						["name"] = "Worldvein Resonance",
@@ -590,6 +582,14 @@ DataStore_TalentsDB = {
 						["unlocked"] = false,
 						["icon"] = 2967112,
 						["rank"] = 0,
+					},
+					["Vitality Conduit"] = {
+						["valid"] = true,
+						["name"] = "Vitality Conduit",
+						["ID"] = 21,
+						["unlocked"] = true,
+						["icon"] = 2967100,
+						["rank"] = 3,
 					},
 					["Unwavering Ward"] = {
 						["valid"] = true,
@@ -690,7 +690,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 36671,
+			["Version"] = 36710,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",

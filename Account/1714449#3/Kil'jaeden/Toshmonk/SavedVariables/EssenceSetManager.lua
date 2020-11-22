@@ -2,4 +2,8 @@
 EssenceSetManager = {
 	["Mistweaver"] = {
 	},
+	["Brewmaster"] = {
+	},
+	["Windwalker"] = {
+	},
 }
