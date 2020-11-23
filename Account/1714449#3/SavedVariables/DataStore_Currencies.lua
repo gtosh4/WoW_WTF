@@ -2,8 +2,8 @@
 DataStore_CurrenciesDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -12,15 +12,17 @@ DataStore_CurrenciesDB = {
 					[1580] = "2-0-0-5",
 					[1719] = "14756-0-0-0",
 					[1716] = "229-0-0-0",
-					[1166] = "765-0-0-0",
+					[1755] = "236-0-0-0",
 					[1803] = "5743-0-0-0",
-					[1155] = "250-0-0-300",
-					[1721] = "3-0-0-0",
 					[1710] = "355-0-0-0",
+					[1166] = "765-0-0-0",
+					[1155] = "250-0-0-300",
 					[1560] = "15197-0-0-0",
 					[1718] = "28755-0-0-0",
-					[1755] = "236-0-0-0",
+					[1721] = "3-0-0-0",
 				},
+				["lastUpdate"] = 1605948099,
+				["Conquest"] = 0,
 				["Currencies"] = {
 					{
 						["isHeader"] = true,
@@ -93,78 +95,24 @@ DataStore_CurrenciesDB = {
 						["count"] = 250,
 					}, -- [14]
 				},
-				["Conquest"] = 0,
-				["lastUpdate"] = 1605948099,
-			},
-			["Default.Area 52.Toshmonk"] = {
-				["CurrencyInfo"] = {
-					[1560] = "450-0-0-0",
-					[1166] = "200-0-0-0",
-				},
-				["lastUpdate"] = 1605997315,
-				["Conquest"] = 0,
-				["Archeology"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0, -- [4]
-					0, -- [5]
-					0, -- [6]
-					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					0, -- [10]
-					0, -- [11]
-					0, -- [12]
-					0, -- [13]
-					0, -- [14]
-					0, -- [15]
-					0, -- [16]
-					0, -- [17]
-					0, -- [18]
-					0, -- [19]
-					0, -- [20]
-				},
-				["Currencies"] = {
-					{
-						["isHeader"] = true,
-						["index"] = 1,
-						["count"] = 0,
-					}, -- [1]
-					{
-						["isHeader"] = false,
-						["index"] = 2,
-						["count"] = 450,
-					}, -- [2]
-					{
-						["isHeader"] = true,
-						["index"] = 3,
-						["count"] = 0,
-					}, -- [3]
-					{
-						["isHeader"] = false,
-						["index"] = 4,
-						["count"] = 200,
-					}, -- [4]
-				},
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["CurrencyInfo"] = {
-					[1560] = "1499-0-0-0",
+					[1580] = "3-0-0-5",
 					[1220] = "14331-0-0-0",
-					[1718] = "0-0-0-0",
+					[1508] = "575-0-0-2000",
 					[1273] = "0-0-0-6",
-					[1166] = "2615-0-0-0",
+					[1275] = "26-0-0-0",
 					[1716] = "327-0-0-0",
-					[1155] = "300-0-0-300",
-					[1721] = "317-0-0-0",
+					[1710] = "118-0-0-0",
+					[1226] = "766-0-0-0",
 					[1533] = "53-0-0-0",
 					[1342] = "32-0-0-1000",
-					[1226] = "766-0-0-0",
-					[1710] = "118-0-0-0",
-					[1275] = "26-0-0-0",
-					[1508] = "575-0-0-2000",
-					[1580] = "3-0-0-5",
+					[1166] = "2615-0-0-0",
+					[1560] = "1499-0-0-0",
+					[1721] = "317-0-0-0",
+					[1718] = "0-0-0-0",
+					[1155] = "300-0-0-300",
 				},
 				["Currencies"] = {
 					{
@@ -259,7 +207,59 @@ DataStore_CurrenciesDB = {
 					}, -- [18]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1606000133,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
+				["lastUpdate"] = 1606080666,
+			},
+			["Default.Area 52.Toshmonk"] = {
+				["CurrencyInfo"] = {
+					[1560] = "450-0-0-0",
+					[1166] = "200-0-0-0",
+				},
+				["lastUpdate"] = 1605997315,
+				["Conquest"] = 0,
+				["Currencies"] = {
+					{
+						["isHeader"] = true,
+						["index"] = 1,
+						["count"] = 0,
+					}, -- [1]
+					{
+						["isHeader"] = false,
+						["index"] = 2,
+						["count"] = 450,
+					}, -- [2]
+					{
+						["isHeader"] = true,
+						["index"] = 3,
+						["count"] = 0,
+					}, -- [3]
+					{
+						["isHeader"] = false,
+						["index"] = 4,
+						["count"] = 200,
+					}, -- [4]
+				},
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -320,15 +320,15 @@ DataStore_CurrenciesDB = {
 				["Honorbound Service Medal"] = 8,
 				["Timewarped Badge"] = 4,
 				["Echoes of Ny'alotha"] = 7,
-				["Prismatic Manapearl"] = 9,
 				["Wakening Essence"] = 21,
-				["Seafarer's Dubloon"] = 10,
-				["Legion"] = 13,
-				["War Resources"] = 2,
-				["Curious Coin"] = 15,
-				["Coalescing Visions"] = 5,
-				["Battle for Azeroth"] = 1,
+				["Prismatic Manapearl"] = 9,
 				["Order Resources"] = 18,
+				["Legion"] = 13,
+				["Battle for Azeroth"] = 1,
+				["Coalescing Visions"] = 5,
+				["Curious Coin"] = 15,
+				["War Resources"] = 2,
+				["Seafarer's Dubloon"] = 10,
 				["Legionfall War Supplies"] = 16,
 			},
 		},

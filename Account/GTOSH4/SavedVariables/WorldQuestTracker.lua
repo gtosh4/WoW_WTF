@@ -24,7 +24,6 @@ WQTrackerDB = {
 			},
 			["world_map_config"] = {
 				["summary_show"] = false,
-				["summary_showbyzone"] = false,
 			},
 			["history"] = {
 				["period"] = {
@@ -79,8 +78,8 @@ WQTrackerDB = {
 						[57218] = 1,
 						[55359] = 1,
 						[57146] = 1,
-						[56090] = 1,
 						[56180] = 1,
+						[56090] = 1,
 						[51043] = 1,
 						[52421] = 1,
 						[55358] = 1,
@@ -290,16 +289,6 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
-					[58742] = {
-						["expireAt"] = 1605970856,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
-					},
-					[58749] = {
-						["expireAt"] = 1605970857,
-						["rewardAmount"] = "15",
-						["rewardTexture"] = 2004597,
-					},
 				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {

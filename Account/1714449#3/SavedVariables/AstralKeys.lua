@@ -123,7 +123,7 @@ AstralKeys = {
 		["dungeon_id"] = 249,
 		["week"] = 174,
 		["faction"] = 1,
-		["time_stamp"] = 2,
+		["time_stamp"] = 4,
 	}, -- [11]
 	{
 		["source"] = "guild",
@@ -158,31 +158,42 @@ AstralKeys = {
 		["faction"] = 1,
 		["time_stamp"] = 1,
 	}, -- [14]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "HUNTER",
+		["key_level"] = 24,
+		["unit"] = "Hoofshots-Kil'jaeden",
+		["dungeon_id"] = 369,
+		["week"] = 174,
+		["faction"] = 1,
+		["time_stamp"] = 0,
+	}, -- [15]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["faction"] = 1,
 		["unit"] = "Toshmonk-Area52",
+		["faction"] = 1,
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "SHAMAN",
-		["faction"] = 1,
 		["unit"] = "Toshaman-Area52",
+		["faction"] = 1,
 	}, -- [3]
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["unit"] = "Toshmonk-Kil'jaeden",
 		["faction"] = 1,
+		["unit"] = "Toshmonk-Kil'jaeden",
 	}, -- [4]
 }
 AstralKeysSettings = {
@@ -196,10 +207,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
-			["guild"] = false,
 			["raid"] = false,
+			["party"] = true,
+			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -212,14 +223,6 @@ AstralKeysSettings = {
 		},
 	},
 	["new_settings_config"] = true,
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -233,9 +236,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -244,24 +245,34 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
 	},
 }
 AstralMinimap = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
 		},
-		["Toshmonk - Area 52"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Toshmonk - Area 52"] = {
 		},
 	},
 }
@@ -282,17 +293,18 @@ AstralLists = {
 			["Illsong-Area52"] = true,
 			["Slurry-Kil'jaeden"] = true,
 			["Papisalad-Kil'jaeden"] = true,
-			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Orcbum-Kil'jaeden"] = true,
 			["Ceesong-Kil'jaeden"] = "Emosong#1897",
-			["Woesong-Area52"] = true,
+			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Hoofshots-Kil'jaeden"] = true,
 			["Race-Area52"] = true,
-			["Scitron-Area52"] = true,
-			["Royalty-Area52"] = true,
+			["Woesong-Area52"] = true,
+			["Rathux-Area52"] = true,
 			["Alyasta-Area52"] = true,
 			["Gummybuns-Area52"] = true,
 			["Artsong-Area52"] = true,
-			["Rathux-Area52"] = true,
-			["Orcbum-Kil'jaeden"] = true,
+			["Royalty-Area52"] = true,
+			["Scitron-Area52"] = true,
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [1]
@@ -308,9 +320,9 @@ AstralLists = {
 			["Yukios-Kil'jaeden"] = "YukioX#1520",
 			["Illsong-Area52"] = "Ceesong#1985",
 			["Ceesong-Kil'jaeden"] = "Emosong#1897",
-			["Andruw-Area52"] = "Drew#13709",
-			["Woesong-Area52"] = "Ceesong#1985",
 			["Artsong-Area52"] = "Ceesong#1985",
+			["Woesong-Area52"] = "Ceesong#1985",
+			["Andruw-Area52"] = "Drew#13709",
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [2]

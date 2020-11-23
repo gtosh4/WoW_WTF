@@ -144,12 +144,7 @@ _detalhes_database = {
 			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -157,13 +152,13 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 6.103515625e-05,
-			["x"] = 6.103515625e-05,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -175,11 +170,17 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["author"] = "Details! Team",
+			["font_size"] = 10,
+			["x"] = 6.103515625e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 6.103515625e-05,
+			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},
 	},
+	["last_day"] = "22",
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
 		["started"] = false,
@@ -196,7 +197,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_day"] = "21",
 	["nick_tag_cache"] = {
 		["nextreset"] = 1607231227,
 		["Thunderzhunt"] = {
@@ -281,7 +281,7 @@ _detalhes_database = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_counter"] = 14,
+	["combat_counter"] = 22,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -478,7 +478,7 @@ _detalhes_database = {
 		}, -- [2]
 	},
 	["character_data"] = {
-		["logons"] = 7,
+		["logons"] = 11,
 	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,
@@ -496,8 +496,11 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1428-0ABA11F6"] = 258,
-		["Player-11-0A866571"] = 264,
+		["Player-1136-08D2A6AD"] = 259,
 		["Player-3676-0D0FE5F5"] = 256,
+		["Player-3676-0A634827"] = 252,
+		["Player-4-0AD91F7E"] = 258,
+		["Player-3684-0AC20EDB"] = 64,
+		["Player-73-0A6D5BD7"] = 267,
 	},
 }

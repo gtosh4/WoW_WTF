@@ -1,11 +1,10 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Toshdruid-area-52"
+RaiderIO_LastCharacter = "us-Toshpriest-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Diäblo-aerie-peak"] = true,
-	["us-Ivyana-zuljin"] = true,
-	["us-Yakkibob-area-52"] = true,
-	["us-Hammerglide-hellscream"] = true,
+	["us-Cattlelyst-illidan"] = true,
+	["us-Freshnature-bleeding-hollow"] = true,
+	["us-Srnuel-area-52"] = true,
 }
 RaiderIO_CachedRuns = nil

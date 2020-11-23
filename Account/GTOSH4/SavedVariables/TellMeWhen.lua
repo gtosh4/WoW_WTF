@@ -86,122 +86,312 @@ TellMeWhenDB = {
 			},
 		},
 		["AuraCache"] = {
-			[296003] = 2,
-			[260881] = 2,
-			[281240] = 2,
-			[101568] = 2,
-			[202636] = 2,
-			[281209] = 2,
-			[1604] = 1,
-			[267558] = 2,
-			[6673] = 2,
-			[193357] = 2,
-			[188034] = 2,
-			[278736] = 2,
-			[288146] = 2,
-			[243955] = 2,
-			[257420] = 2,
-			[259455] = 2,
-			[465] = 2,
-			[308188] = 2,
-			[312107] = 2,
-			[279754] = 2,
-			[298836] = 2,
-			[2823] = 2,
-			[287916] = 2,
-			[285978] = 2,
-			[287280] = 2,
-			[281216] = 2,
-			[108211] = 2,
-			[285979] = 2,
-			[768] = 2,
 			[269279] = 2,
-			[299664] = 2,
-			[231390] = 2,
-			[256044] = 1,
-			[315508] = 2,
-			[294966] = 2,
-			[285981] = 2,
-			[292363] = 2,
-			[43308] = 2,
-			[317065] = 2,
-			[297412] = 2,
-			[292364] = 2,
-			[285976] = 2,
-			[203975] = 2,
-			[248473] = 2,
-			[1784] = 2,
-			[280713] = 2,
-			[210294] = 2,
-			[251839] = 2,
-			[235313] = 2,
-			[5487] = 2,
-			[256459] = 2,
-			[108366] = 2,
-			[202602] = 2,
-			[287790] = 2,
+			[195386] = 2,
+			[268899] = 2,
+			[278736] = 2,
 			[257410] = 2,
 			[280398] = 2,
-			[288981] = 2,
-			[11426] = 2,
-			[194679] = 2,
-			[40120] = 2,
-			[297034] = 2,
-			[17] = 2,
-			[154797] = 2,
-			[194310] = 2,
-			[1850] = 2,
-			[279956] = 2,
-			[112042] = 2,
-			[2383] = 2,
-			[272940] = 2,
-			[289277] = 2,
-			[227723] = 2,
-			[297039] = 2,
-			[298837] = 2,
-			[216441] = 2,
-			[297035] = 2,
-			[319919] = 2,
-			[343173] = 2,
-			[1459] = 2,
-			[164273] = 2,
-			[295378] = 2,
-			[11327] = 2,
-			[232698] = 2,
-			[23161] = 2,
-			[315584] = 2,
+			[254472] = 2,
+			[115196] = 2,
+			[73326] = 2,
+			[259455] = 2,
+			[256453] = 2,
+			[250960] = 2,
+			[317065] = 2,
+			[1784] = 2,
+			[268776] = 1,
+			[197625] = 2,
+			[224772] = 2,
 			[264689] = 2,
-			[274373] = 2,
-			[53563] = 2,
-			[196980] = 2,
-			[319237] = 2,
-			[251836] = 2,
-			[315681] = 2,
-			[34914] = 2,
-			[3408] = 2,
-			[165961] = 2,
-			[143625] = 2,
-			[167898] = 2,
-			[270661] = 2,
+			[294966] = 2,
+			[206760] = 2,
+			[768] = 2,
+			[235313] = 2,
+			[642] = 2,
 			[270058] = 2,
-			[292361] = 2,
-			[2645] = 2,
-			[245686] = 2,
-			[242551] = 2,
-			[138927] = 2,
-			[72968] = 2,
-			[2580] = 2,
-			[119085] = 2,
-			[290121] = 2,
-			[268854] = 2,
-			[192106] = 2,
-			[295842] = 2,
-			[32223] = 2,
-			[21562] = 2,
-			[326396] = 2,
+			[256456] = 2,
+			[80354] = 2,
 			[335467] = 2,
-			[61295] = 2,
+			[186258] = 2,
+			[138927] = 2,
+			[75532] = 2,
+			[248473] = 2,
+			[6673] = 2,
+			[199545] = 2,
+			[202164] = 2,
+			[186387] = 2,
+			[201334] = 2,
+			[2580] = 2,
+			[164862] = 2,
+			[196608] = 2,
+			[256459] = 2,
+			[134522] = 2,
+			[232698] = 2,
+			[43308] = 2,
+			[194310] = 2,
+			[188370] = 2,
+			[196099] = 2,
+			[264064] = 1,
+			[108366] = 2,
+			[177193] = 2,
+			[213602] = 2,
+			[287062] = 2,
+			[213858] = 2,
+			[295367] = 2,
+			[297412] = 2,
+			[288981] = 2,
+			[315681] = 2,
+			[304056] = 2,
+			[312107] = 2,
+			[334208] = 1,
+			[257424] = 2,
+			[298950] = 2,
+			[297034] = 2,
+			[2645] = 2,
+			[298823] = 2,
+			[227723] = 2,
+			[2649] = 2,
+			[317859] = 2,
+			[45242] = 2,
+			[24705] = 2,
+			[297037] = 2,
+			[272126] = 2,
+			[17] = 2,
+			[295378] = 2,
+			[297039] = 2,
+			[280177] = 2,
+			[1850] = 2,
+			[208628] = 2,
+			[194384] = 2,
+			[336135] = 2,
+			[108211] = 2,
+			[212653] = 2,
+			[24450] = 2,
+			[465] = 2,
+			[546] = 2,
+			[8680] = 2,
+			[53563] = 2,
+			[164812] = 2,
+			[279673] = 2,
+			[298836] = 2,
+			[270987] = 1,
+			[302797] = 2,
+			[298837] = 2,
+			[260881] = 2,
+			[281209] = 2,
+			[243955] = 2,
+			[11327] = 2,
+			[224729] = 1,
+			[319919] = 2,
+			[298841] = 2,
+			[210294] = 2,
+			[242551] = 2,
+			[48438] = 2,
+			[176569] = 2,
+			[263840] = 2,
+			[343173] = 2,
+			[111759] = 2,
+			[52127] = 2,
+			[264352] = 2,
+			[200587] = 2,
+			[24858] = 2,
+			[268953] = 2,
+			[341260] = 2,
+			[170950] = 2,
+			[117828] = 2,
+			[315584] = 2,
+			[156132] = 2,
+			[273428] = 2,
+			[275089] = 2,
+			[169291] = 2,
+			[245686] = 2,
+			[275857] = 2,
+			[280713] = 2,
+			[298343] = 2,
+			[34914] = 2,
+			[202636] = 2,
+			[86659] = 2,
+			[121471] = 2,
+			[40120] = 2,
+			[267558] = 2,
+			[268836] = 2,
+			[191587] = 2,
+			[289277] = 2,
 			[20707] = 2,
+			[203277] = 2,
+			[126582] = 2,
+			[223143] = 2,
+			[154797] = 2,
+			[308188] = 2,
+			[232597] = 2,
+			[53822] = 2,
+			[279956] = 2,
+			[157736] = 2,
+			[48265] = 2,
+			[302952] = 2,
+			[74589] = 2,
+			[122783] = 2,
+			[2823] = 2,
+			[303211] = 2,
+			[264760] = 2,
+			[281240] = 2,
+			[21562] = 2,
+			[65081] = 2,
+			[216441] = 2,
+			[192999] = 2,
+			[256044] = 1,
+			[272940] = 2,
+			[51460] = 2,
+			[192106] = 2,
+			[143625] = 2,
+			[125883] = 2,
+			[300919] = 2,
+			[268854] = 2,
+			[231390] = 2,
+			[71909] = 2,
+			[292361] = 2,
+			[1943] = 2,
+			[101643] = 2,
+			[166302] = 1,
+			[292362] = 2,
+			[108446] = 2,
+			[292363] = 2,
+			[304372] = 2,
+			[292364] = 2,
+			[201179] = 2,
+			[304373] = 2,
+			[118922] = 2,
+			[85739] = 2,
+			[285978] = 2,
+			[285979] = 2,
+			[198817] = 2,
+			[6788] = 2,
+			[285981] = 2,
+			[2383] = 2,
+			[3408] = 2,
+			[3409] = 2,
+			[55342] = 2,
+			[274742] = 2,
+			[31884] = 2,
+			[251836] = 2,
+			[1966] = 2,
+			[44212] = 2,
+			[289324] = 2,
+			[268905] = 2,
+			[45181] = 2,
+			[262232] = 2,
+			[8679] = 2,
+			[251837] = 2,
+			[1459] = 2,
+			[1715] = 2,
+			[265931] = 2,
+			[259454] = 2,
+			[104276] = 2,
+			[193456] = 2,
+			[167898] = 2,
+			[8220] = 2,
+			[176785] = 2,
+			[1719] = 2,
+			[251839] = 2,
+			[271788] = 2,
+			[292360] = 2,
+			[119085] = 2,
+			[73313] = 2,
+			[270661] = 2,
+			[257420] = 2,
+			[305395] = 2,
+			[280746] = 2,
+			[288146] = 2,
+			[22888] = 1,
+			[285976] = 2,
+			[185394] = 2,
+			[61295] = 2,
+			[589] = 2,
+			[72968] = 2,
+			[184362] = 2,
+			[23126] = 2,
+			[264761] = 2,
+			[112042] = 2,
+			[299664] = 2,
+			[48778] = 2,
+			[221886] = 2,
+			[236502] = 2,
+			[90328] = 2,
+			[236645] = 2,
+			[186257] = 2,
+			[116841] = 2,
+			[203233] = 2,
+			[57723] = 2,
+			[32223] = 2,
+			[280121] = 2,
+			[315508] = 2,
+			[281216] = 2,
+			[274373] = 2,
+			[11426] = 2,
+			[176151] = 2,
+			[293664] = 2,
+			[268954] = 2,
+			[243435] = 2,
+			[287916] = 2,
+			[115191] = 2,
+			[260072] = 1,
+			[326396] = 2,
+			[290121] = 2,
+			[287790] = 2,
+			[321388] = 2,
+			[23161] = 2,
+			[214222] = 2,
+			[193357] = 2,
+			[231724] = 2,
+			[287280] = 2,
+			[289534] = 2,
+			[271711] = 2,
+			[188034] = 2,
+			[281744] = 2,
+			[196741] = 2,
+			[101568] = 2,
+			[164273] = 2,
+			[2983] = 2,
+			[203975] = 2,
+			[57724] = 2,
+			[295842] = 2,
+			[268887] = 2,
+			[264764] = 2,
+			[279902] = 2,
+			[105771] = 2,
+			[1604] = 1,
+			[199721] = 2,
+			[703] = 2,
+			[194679] = 2,
+			[190655] = 2,
+			[165961] = 2,
+			[267612] = 2,
+			[319237] = 2,
+			[297035] = 2,
+			[25771] = 2,
+			[15407] = 2,
+			[20572] = 2,
+			[5487] = 2,
+			[264070] = 1,
+			[91800] = 2,
+			[196980] = 2,
+			[259161] = 2,
+			[204262] = 2,
+			[156079] = 2,
+			[257413] = 2,
+			[5277] = 2,
+			[185311] = 2,
+			[296003] = 2,
+			[202602] = 2,
+			[292463] = 2,
+			[53390] = 2,
+			[32216] = 2,
+			[212552] = 2,
+			[250956] = 2,
+			[279754] = 2,
+			[224001] = 2,
+			[77489] = 2,
 		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
@@ -9546,6 +9736,67 @@ TellMeWhenDB = {
 				}, -- [15]
 			},
 		},
+		["Toshdruid - Area 52"] = {
+			["Locked"] = true,
+			["Version"] = 90201,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1VD9nJu6qUSM",
+					["Icons"] = {
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+					},
+					["Point"] = {
+						["y"] = -134.1666259765625,
+						["x"] = -1.25,
+						["point"] = "TOP",
+						["relativePoint"] = "TOP",
+					},
+				}, -- [1]
+			},
+		},
 		["Daggny - Frostwolf"] = {
 			["Locked"] = true,
 			["Version"] = 87505,
@@ -9597,67 +9848,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [4]
-					},
-				}, -- [1]
-			},
-		},
-		["Toshdruid - Area 52"] = {
-			["Locked"] = true,
-			["Version"] = 90201,
-			["Groups"] = {
-				{
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-					},
-					["GUID"] = "TMW:group:1VD9nJu6qUSM",
-					["Point"] = {
-						["y"] = -134.1666259765625,
-						["x"] = -1.25,
-						["point"] = "TOP",
-						["relativePoint"] = "TOP",
 					},
 				}, -- [1]
 			},
@@ -12747,12 +12937,2062 @@ TellMeWhenDB = {
 			["Version"] = 87505,
 			["TextureName"] = "Smooth v2",
 		},
-		["Toshlongboyr - Eldre'Thalas"] = {
-			["Locked"] = true,
-			["Version"] = 87505,
+		["Toshpriest - Area 52"] = {
+			["Version"] = 90201,
+			["NumGroups"] = 10,
+			["TextureName"] = "Smooth v2",
 			["Groups"] = {
 				{
-					["GUID"] = "TMW:group:1VI1hlg2XC4I",
+					["Scale"] = 1,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[257] = false,
+						[258] = false,
+					},
+					["Columns"] = 12,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Unit"] = "target",
+							["OnlyMine"] = true,
+							["Type"] = "buff",
+							["Name"] = "Shadow Word: Pain; Purge the Wicked",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5RBRoAFw84",
+									["Texts"] = {
+										"[if Duration > 10 then\n    \"\"\nelseif Duration > 5 then\n    \"%d\":Format(Duration)\nelseif Duration > 0 then\n    \"%.1f\":Format(Duration):Red\nelse\n    \"\"\nend]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+								[102] = {
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								},
+							},
+							["RangeCheck"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "EXISTS",
+									["Unit"] = "target",
+									["AndOr"] = "OR",
+									["Level"] = 1,
+								}, -- [1]
+								{
+									["Type"] = "REACT",
+									["Unit"] = "target",
+									["AndOr"] = "OR",
+									["Level"] = 2,
+								}, -- [2]
+								{
+									["Type"] = "SPELLRANGE",
+									["Unit"] = "target",
+									["Name"] = "Shadow Word: Pain",
+									["AndOr"] = "OR",
+								}, -- [3]
+								["n"] = 3,
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Power Word: Solace",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"2\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Penance",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SQ\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Schism",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"T\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Power Word: Radiance",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"G\"]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Heart Essence",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration > 0 ? \"\" ! \"3\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [6]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1V6yzOTPnMOU", -- [1]
+								"TMW:icon:1V6yzOTReSHN", -- [2]
+							},
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Purify",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"R\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [8]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Mass Dispel",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"SR\"\nelse\n    \"\"\nend]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Psychic Scream",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"Z\"\nelse\n    \"\"\nend]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [11]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Shining Force",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"C1\"\nelse\n    \"\"\nend]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+					},
+					["Name"] = "Disc Main",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+						},
+					},
+					["GUID"] = "TMW:group:1V5QOoilLgOy",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
+				}, -- [1]
+				{
+					["Scale"] = 1,
+					["Rows"] = 6,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[258] = false,
+						[257] = false,
+					},
+					["Columns"] = 6,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["OnlyEquipped"] = true,
+							["Type"] = "item",
+							["Name"] = "Forbidden Obsidian Claw",
+							["Enabled"] = true,
+							["GUID"] = "TMW:icon:1V6yzOTPnMOU",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["OnlyShown"] = true,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "MANA",
+											["Operator"] = "<=",
+											["Level"] = 85,
+										}, -- [1]
+										{
+											["Type"] = "COMBAT",
+										}, -- [2]
+										{
+											["Type"] = "ITEMCD",
+											["Name"] = "Forbidden Obsidian Claw",
+										}, -- [3]
+										["n"] = 3,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+							["OnlyInBags"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "13",
+							["Conditions"] = {
+								{
+									["Type"] = "ITEMSPELL",
+									["Name"] = "13",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1V6yzOTReSHN",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+					},
+					["Name"] = "Disc Helpers",
+					["GUID"] = "TMW:group:1V5R9h2RhMi2",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
+				}, -- [2]
+				{
+					["Point"] = {
+						["y"] = 22.85717363905014,
+						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+						["x"] = -2.048756665998734e-05,
+					},
+					["Scale"] = 1.4,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[257] = false,
+						[258] = false,
+					},
+					["Columns"] = 10,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Unit"] = "group 1-40",
+							["Sort"] = -1,
+							["Type"] = "buff",
+							["Name"] = "Atonement",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5RBRoAFw84",
+									["Texts"] = {
+										"[RaidStacks(\"Atonement\")] ", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["Type"] = "buff",
+							["Name"] = "Ineffable Truth",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Depth of the Shadows",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["OnlyShown"] = true,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "BUFFSTACKS",
+											["Operator"] = ">=",
+											["Name"] = "Depth of the Shadows",
+											["Level"] = 30,
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5RBRoAFw84",
+									["Texts"] = {
+										"[Stacks]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Rapture",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+										"[Duration:TMWFormatDuration:ClassColor] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "Disc Procs",
+					["GUID"] = "TMW:group:1V5RkqsuK0qG",
+					["ShrinkGroup"] = true,
+				}, -- [3]
+				{
+					["Point"] = {
+						["y"] = 2,
+						["relativeTo"] = "SUFUnitplayer",
+						["point"] = "BOTTOM",
+						["relativePoint"] = "TOP",
+					},
+					["Scale"] = 1,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[257] = false,
+						[258] = false,
+					},
+					["Columns"] = 6,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Desperate Prayer",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"V\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Fade",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SV\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "Abyssal Healing Potion",
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["OnlyInBags"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "Healthstone",
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["OnlyInBags"] = true,
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+					},
+					["LayoutDirection"] = 2,
+					["Name"] = "Disc Left",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+						},
+					},
+					["GUID"] = "TMW:group:1V5Rw74pj18v",
+				}, -- [4]
+				{
+					["Scale"] = 1,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[257] = false,
+						[258] = false,
+					},
+					["Columns"] = 12,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Rapture",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"S1\"\nelse\n    \"\"\nend]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Evangelism",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"S2\"\nelse\n    \"\"\nend]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Power Word: Barrier",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"S3\"\nelse\n    \"\"\nend]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Pain Suppression",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S4\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Shadowfiend",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"C2\"\nelse\n    \"\"\nend]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [5]
+						{
+							["Type"] = "item",
+							["Name"] = "169223",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks:Hide(0):Color(\"fcf003\")]", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Angelic Feather",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"F\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [10]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Rocket Jump",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"CF\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [11]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Leap of Faith",
+							["ManaCheck"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"A2\"\nelse\n    \"\"\nend]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+									["Color"] = "ff003c7fd",
+									["Alpha"] = 1,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [12]
+					},
+					["Name"] = "Disc Right",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+						},
+					},
+					["GUID"] = "TMW:group:1V5S0C30ZNK5",
+					["Point"] = {
+						["y"] = -2,
+						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
+				}, -- [5]
+				{
+					["Scale"] = 1,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[258] = false,
+						[256] = false,
+					},
+					["Columns"] = 12,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Prayer of Mending",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"SE\"\nelse\n    \"\"\nend]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Holy Word: Serenity",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration > 0 ? \"\" ! \"1\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Holy Word: Sanctify",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"2\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Holy Fire",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"ST\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Divine Star; Halo",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"G\"]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Heart Essence",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"3\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [6]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "13",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"4\"]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [7]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Purify",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration > 0 ? \"\" ! \"R\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [8]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Mass Dispel",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SR\"]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [9]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Psychic Scream",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"Z\"]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [10]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Holy Word: Chastise",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SZ\"]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [11]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Shining Force",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"C1\"]", -- [1]
+										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
+										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [12]
+					},
+					["Name"] = "Holy Main",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+						},
+					},
+					["GUID"] = "TMW:group:1V5SQWkWTAWD",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
+				}, -- [6]
+				{
+					["Scale"] = 1,
+					["Rows"] = 6,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[258] = false,
+						[256] = false,
+					},
+					["Columns"] = 6,
 					["Icons"] = {
 						{
 							["States"] = {
@@ -12798,13 +15038,997 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
 					},
+					["Name"] = "Holy Helpers",
+					["GUID"] = "TMW:group:1V5SREYruzir",
 					["Point"] = {
-						["y"] = -25.4166259765625,
-						["x"] = 5.41680908203125,
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
 					},
-				}, -- [1]
+				}, -- [7]
+				{
+					["Point"] = {
+						["y"] = 22.85717363905014,
+						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "TOPLEFT",
+						["x"] = -2.048756665998734e-05,
+					},
+					["Scale"] = 1.4,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[258] = false,
+						[256] = false,
+					},
+					["Columns"] = 10,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Ineffable Truth",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Surge of Light",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+					},
+					["SortPriorities"] = {
+						{
+							["Method"] = "fakehidden",
+						}, -- [1]
+						{
+							["Method"] = "shown",
+							["Order"] = -1,
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+					},
+					["Name"] = "Holy Procs",
+					["GUID"] = "TMW:group:1V5SSG6lLU0b",
+					["ShrinkGroup"] = true,
+				}, -- [8]
+				{
+					["Point"] = {
+						["y"] = 1.999969482421875,
+						["relativeTo"] = "SUFUnitplayer",
+						["point"] = "BOTTOMRIGHT",
+						["relativePoint"] = "TOPRIGHT",
+						["x"] = -5.0001220703125,
+					},
+					["Scale"] = 1,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[258] = false,
+						[256] = false,
+					},
+					["Columns"] = 6,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Desperate Prayer",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"V\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Fade",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SV\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "Abyssal Healing Potion",
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["OnlyInBags"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "Healthstone",
+							["Enabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["OnlyInBags"] = true,
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+					},
+					["LayoutDirection"] = 2,
+					["Name"] = "Holy Left",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+						},
+					},
+					["GUID"] = "TMW:group:1V5SSLYuujaJ",
+				}, -- [9]
+				{
+					["Point"] = {
+						["y"] = -2,
+						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
+					["Scale"] = 1,
+					["Locked"] = true,
+					["EnabledSpecs"] = {
+						[258] = false,
+						[256] = false,
+					},
+					["Columns"] = 12,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Divine Hymn",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S1\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Apotheosis; Holy Word: Salvation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S2\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Symbol of Hope",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S3\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Guardian Spirit",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S4\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["Type"] = "item",
+							["Name"] = "169223",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks:Hide(0):Color(\"fcf003\")]", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Angelic Feather",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"F\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [10]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Rocket Jump",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"CF\"]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [11]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Leap of Faith",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"A3\"]", -- [1]
+										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+									["Color"] = "ff7f0000d",
+									["Alpha"] = 1,
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [12]
+					},
+					["Name"] = "Holy Right",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+						},
+					},
+					["GUID"] = "TMW:group:1V5SSQP92pnS",
+					["ShrinkGroup"] = true,
+				}, -- [10]
 			},
+			["Locked"] = true,
 		},
 		["Toshpal - Area 52"] = {
 			["Locked"] = true,
@@ -12813,8 +16037,8 @@ TellMeWhenDB = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
 					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
 						["x"] = 10.0020751953125,
+						["relativeTo"] = "SUFUnitplayer",
 						["point"] = "LEFT",
 						["relativePoint"] = "RIGHT",
 					},
@@ -14191,7 +17415,7 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 						},
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Columns"] = 10,
 					["EnabledSpecs"] = {
 						[66] = false,
@@ -14200,7 +17424,7 @@ TellMeWhenDB = {
 						[256] = false,
 						[70] = false,
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["GUID"] = "TMW:group:1V5SOIRQ90yY",
@@ -14277,8 +17501,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["OnlyInBags"] = true,
-							["Type"] = "item",
 							["States"] = {
 								{
 								}, -- [1]
@@ -14291,6 +17513,8 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "item",
+							["OnlyInBags"] = true,
 						}, -- [3]
 						{
 							["Enabled"] = true,
@@ -14305,8 +17529,6 @@ TellMeWhenDB = {
 									},
 								},
 							},
-							["OnlyInBags"] = true,
-							["Type"] = "item",
 							["States"] = {
 								{
 								}, -- [1]
@@ -14319,6 +17541,8 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Type"] = "item",
+							["OnlyInBags"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -17026,7 +20250,7 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 						},
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["Columns"] = 10,
 					["EnabledSpecs"] = {
 						[256] = false,
@@ -17035,13 +20259,13 @@ TellMeWhenDB = {
 						[65] = false,
 						[258] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1V5ZtnkDsIuC",
 					["Point"] = {
-						["x"] = -6,
 						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
+						["x"] = -6,
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -17866,7 +21090,7 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 						},
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[256] = false,
@@ -17875,13 +21099,13 @@ TellMeWhenDB = {
 						[65] = false,
 						[258] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [9]
 				{
 					["GUID"] = "TMW:group:1V5ZtusCzGST",
 					["Point"] = {
-						["x"] = 6,
 						["relativeTo"] = "TMW:group:1V5SM70Zxg8d",
+						["x"] = 6,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -18691,7 +21915,7 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 						},
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[256] = false,
@@ -18700,7 +21924,7 @@ TellMeWhenDB = {
 						[65] = false,
 						[258] = false,
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 				}, -- [10]
 				{
 					["GUID"] = "TMW:group:1V5aRJKBQQam",
@@ -18990,10 +22214,7 @@ TellMeWhenDB = {
 				}, -- [11]
 				{
 					["GUID"] = "TMW:group:1V5aRQ0ajTe8",
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
+					["Columns"] = 6,
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Icons"] = {
@@ -19406,7 +22627,10 @@ TellMeWhenDB = {
 						[65] = false,
 						[256] = false,
 					},
-					["Columns"] = 6,
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [12]
 				{
 					["GUID"] = "TMW:group:1V5aRagk0B0W",
@@ -19864,7 +23088,7 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 						},
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Columns"] = 10,
 					["EnabledSpecs"] = {
 						[66] = false,
@@ -19873,13 +23097,13 @@ TellMeWhenDB = {
 						[65] = false,
 						[256] = false,
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [13]
 				{
 					["GUID"] = "TMW:group:1V5aRm6hX3qf",
 					["Point"] = {
-						["x"] = 6.0001220703125,
 						["relativeTo"] = "TMW:group:1V5aRJKBQQam",
+						["x"] = 6.0001220703125,
 						["point"] = "TOPLEFT",
 						["relativePoint"] = "TOPRIGHT",
 					},
@@ -20669,7 +23893,7 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 						},
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[66] = false,
@@ -20678,13 +23902,13 @@ TellMeWhenDB = {
 						[65] = false,
 						[256] = false,
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [14]
 				{
 					["GUID"] = "TMW:group:1V5aSODi_7y8",
 					["Point"] = {
-						["x"] = -5.9998779296875,
 						["relativeTo"] = "TMW:group:1V5aRJKBQQam",
+						["x"] = -5.9998779296875,
 						["point"] = "TOPRIGHT",
 						["relativePoint"] = "TOPLEFT",
 					},
@@ -21505,7 +24729,7 @@ TellMeWhenDB = {
 							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 						},
 					},
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["Columns"] = 3,
 					["EnabledSpecs"] = {
 						[66] = false,
@@ -21514,7 +24738,7 @@ TellMeWhenDB = {
 						[65] = false,
 						[256] = false,
 					},
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [15]
 				{
 					["Icons"] = {
@@ -21567,3098 +24791,64 @@ TellMeWhenDB = {
 			},
 			["Version"] = 90201,
 		},
-		["Toshpriest - Area 52"] = {
-			["Version"] = 90201,
+		["Toshlongboyr - Eldre'Thalas"] = {
 			["Locked"] = true,
+			["Version"] = 87505,
 			["Groups"] = {
 				{
-					["GUID"] = "TMW:group:1V5QOoilLgOy",
-					["Columns"] = 12,
-					["Scale"] = 1,
+					["GUID"] = "TMW:group:1VI1hlg2XC4I",
 					["Icons"] = {
 						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["BuffOrDebuff"] = "HARMFUL",
-							["Unit"] = "target",
-							["OnlyMine"] = true,
-							["Name"] = "Shadow Word: Pain; Purge the Wicked",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5RBRoAFw84",
-									["Texts"] = {
-										"[if Duration > 10 then\n    \"\"\nelseif Duration > 5 then\n    \"%d\":Format(Duration)\nelseif Duration > 0 then\n    \"%.1f\":Format(Duration):Red\nelse\n    \"\"\nend]", -- [1]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Conditions"] = {
-								{
-									["Level"] = 1,
-									["Type"] = "EXISTS",
-									["AndOr"] = "OR",
-									["Unit"] = "target",
-								}, -- [1]
-								{
-									["Level"] = 2,
-									["Type"] = "REACT",
-									["AndOr"] = "OR",
-									["Unit"] = "target",
-								}, -- [2]
-								{
-									["AndOr"] = "OR",
-									["Type"] = "SPELLRANGE",
-									["Name"] = "Shadow Word: Pain",
-									["Unit"] = "target",
-								}, -- [3]
-								["n"] = 3,
-							},
-							["Type"] = "buff",
 							["States"] = {
 								{
 								}, -- [1]
+								nil, -- [2]
 								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
 								}, -- [3]
 								{
 								}, -- [4]
-								[102] = {
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								},
 							},
 						}, -- [1]
 						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Power Word: Solace",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"2\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
 							["States"] = {
 								{
 								}, -- [1]
+								nil, -- [2]
 								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
 								}, -- [3]
 								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
 								}, -- [4]
 							},
 						}, -- [2]
 						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Penance",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SQ\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
 							["States"] = {
 								{
 								}, -- [1]
+								nil, -- [2]
 								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
 								}, -- [3]
 								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
 								}, -- [4]
 							},
 						}, -- [3]
 						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Schism",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"T\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
 							["States"] = {
 								{
 								}, -- [1]
+								nil, -- [2]
 								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
 								}, -- [3]
 								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
 								}, -- [4]
 							},
 						}, -- [4]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Power Word: Radiance",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"G\"]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Heart Essence",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration > 0 ? \"\" ! \"3\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["Type"] = "meta",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
-							["Icons"] = {
-								"TMW:icon:1V6yzOTPnMOU", -- [1]
-								"TMW:icon:1V6yzOTReSHN", -- [2]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Purify",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"R\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Mass Dispel",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"SR\"\nelse\n    \"\"\nend]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Psychic Scream",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"Z\"\nelse\n    \"\"\nend]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Shining Force",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"C1\"\nelse\n    \"\"\nend]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-					},
-					["Name"] = "Disc Main",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-						},
-					},
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[257] = false,
-						[258] = false,
 					},
 					["Point"] = {
-						["x"] = 10.0020751953125,
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
+						["y"] = -25.4166259765625,
+						["x"] = 5.41680908203125,
 					},
 				}, -- [1]
-				{
-					["GUID"] = "TMW:group:1V5R9h2RhMi2",
-					["Columns"] = 6,
-					["Scale"] = 1,
-					["Rows"] = 6,
-					["Icons"] = {
-						{
-							["GUID"] = "TMW:icon:1V6yzOTPnMOU",
-							["ShowTimer"] = true,
-							["Enabled"] = true,
-							["FakeHidden"] = true,
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["Name"] = "Forbidden Obsidian Claw",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
-									},
-								},
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "MANA",
-											["Level"] = 85,
-											["Operator"] = "<=",
-										}, -- [1]
-										{
-											["Type"] = "COMBAT",
-										}, -- [2]
-										{
-											["Name"] = "Forbidden Obsidian Claw",
-											["Type"] = "ITEMCD",
-										}, -- [3]
-										["n"] = 3,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Type"] = "item",
-							["OnlyEquipped"] = true,
-							["OnlyInBags"] = true,
-						}, -- [1]
-						{
-							["GUID"] = "TMW:icon:1V6yzOTReSHN",
-							["ShowTimer"] = true,
-							["FakeHidden"] = true,
-							["Name"] = "13",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Conditions"] = {
-								{
-									["Name"] = "13",
-									["Type"] = "ITEMSPELL",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Type"] = "item",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-					},
-					["Name"] = "Disc Helpers",
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[258] = false,
-						[257] = false,
-					},
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
-				}, -- [2]
-				{
-					["GUID"] = "TMW:group:1V5RkqsuK0qG",
-					["Point"] = {
-						["y"] = 22.85717363905014,
-						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-						["x"] = -2.048756665998734e-05,
-					},
-					["Scale"] = 1.4,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Sort"] = -1,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5RBRoAFw84",
-									["Texts"] = {
-										"[RaidStacks(\"Atonement\")] ", -- [1]
-									},
-								},
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["Name"] = "Atonement",
-							["Type"] = "buff",
-							["Unit"] = "group 1-40",
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["Type"] = "buff",
-							["Name"] = "Ineffable Truth",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Depth of the Shadows",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5RBRoAFw84",
-									["Texts"] = {
-										"[Stacks]", -- [1]
-									},
-								},
-							},
-							["Type"] = "buff",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["OnlyShown"] = true,
-									["OnConditionConditions"] = {
-										{
-											["Level"] = 30,
-											["Type"] = "BUFFSTACKS",
-											["Name"] = "Depth of the Shadows",
-											["Operator"] = ">=",
-										}, -- [1]
-										["n"] = 1,
-									},
-									["Event"] = "WCSP",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Rapture",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"", -- [2]
-										"[Duration:TMWFormatDuration:ClassColor] ", -- [3]
-									},
-								},
-							},
-							["Type"] = "buff",
-							["Events"] = {
-								{
-									["Infinite"] = true,
-									["Type"] = "Animations",
-									["Event"] = "OnEventsRestored",
-									["Animation"] = "ACTVTNGLOW",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "Disc Procs",
-					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[257] = false,
-						[258] = false,
-					},
-					["Columns"] = 10,
-				}, -- [3]
-				{
-					["GUID"] = "TMW:group:1V5Rw74pj18v",
-					["Point"] = {
-						["y"] = 2,
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "BOTTOM",
-						["relativePoint"] = "TOP",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Desperate Prayer",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"V\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Fade",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SV\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Abyssal Healing Potion",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"", -- [2]
-									},
-								},
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["Type"] = "item",
-							["OnlyInBags"] = true,
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Healthstone",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"", -- [2]
-									},
-								},
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["Type"] = "item",
-							["OnlyInBags"] = true,
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-					},
-					["LayoutDirection"] = 2,
-					["Name"] = "Disc Left",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-						},
-					},
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[257] = false,
-						[258] = false,
-					},
-					["Columns"] = 6,
-				}, -- [4]
-				{
-					["GUID"] = "TMW:group:1V5S0C30ZNK5",
-					["Columns"] = 12,
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Rapture",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"S1\"\nelse\n    \"\"\nend]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Evangelism",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"S2\"\nelse\n    \"\"\nend]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Power Word: Barrier",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"S3\"\nelse\n    \"\"\nend]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Pain Suppression",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S4\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Shadowfiend",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"C2\"\nelse\n    \"\"\nend]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Type"] = "item",
-							["Name"] = "169223",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"[Stacks:Hide(0):Color(\"fcf003\")]", -- [2]
-									},
-								},
-							},
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Angelic Feather",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"F\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Rocket Jump",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"CF\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Leap of Faith",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"A2\"\nelse\n    \"\"\nend]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Enabled"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-									["Color"] = "ff003c7fd",
-									["Alpha"] = 1,
-								}, -- [4]
-							},
-						}, -- [12]
-					},
-					["Name"] = "Disc Right",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-						},
-					},
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[257] = false,
-						[258] = false,
-					},
-					["Point"] = {
-						["y"] = -2,
-						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
-				}, -- [5]
-				{
-					["GUID"] = "TMW:group:1V5SQWkWTAWD",
-					["Columns"] = 12,
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Prayer of Mending",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"SE\"\nelse\n    \"\"\nend]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Holy Word: Serenity",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration > 0 ? \"\" ! \"1\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Holy Word: Sanctify",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"2\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Holy Fire",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"ST\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Divine Star; Halo",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"G\"]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Heart Essence",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"3\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "13",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"4\"]", -- [1]
-									},
-								},
-							},
-							["Type"] = "item",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Purify",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration > 0 ? \"\" ! \"R\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Mass Dispel",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SR\"]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Psychic Scream",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"Z\"]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Holy Word: Chastise",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SZ\"]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Shining Force",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"C1\"]", -- [1]
-										"[Stacks:Hide(0):Color(\"00d5ff\")]", -- [2]
-										"[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ", -- [3]
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-					},
-					["Name"] = "Holy Main",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-						},
-					},
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[258] = false,
-						[256] = false,
-					},
-					["Point"] = {
-						["x"] = 10.0020751953125,
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-					},
-				}, -- [6]
-				{
-					["GUID"] = "TMW:group:1V5SREYruzir",
-					["Columns"] = 6,
-					["Scale"] = 1,
-					["Rows"] = 6,
-					["Icons"] = {
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [13]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [14]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [15]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [16]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [17]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [18]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [19]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [20]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [21]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [22]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [23]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [24]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [25]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [26]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [27]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [28]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [29]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [30]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [31]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [32]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [33]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [34]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [35]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [36]
-					},
-					["Name"] = "Holy Helpers",
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[258] = false,
-						[256] = false,
-					},
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
-				}, -- [7]
-				{
-					["GUID"] = "TMW:group:1V5SSG6lLU0b",
-					["Point"] = {
-						["y"] = 22.85717363905014,
-						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "TOPLEFT",
-						["x"] = -2.048756665998734e-05,
-					},
-					["Scale"] = 1.4,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Ineffable Truth",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"", -- [2]
-									},
-								},
-							},
-							["Type"] = "buff",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Surge of Light",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-									},
-								},
-							},
-							["Type"] = "buff",
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-					},
-					["SortPriorities"] = {
-						{
-							["Method"] = "fakehidden",
-						}, -- [1]
-						{
-							["Method"] = "shown",
-							["Order"] = -1,
-						}, -- [2]
-						{
-							["Method"] = "id",
-							["Order"] = 1,
-						}, -- [3]
-					},
-					["Name"] = "Holy Procs",
-					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[258] = false,
-						[256] = false,
-					},
-					["Columns"] = 10,
-				}, -- [8]
-				{
-					["GUID"] = "TMW:group:1V5SSLYuujaJ",
-					["Point"] = {
-						["y"] = 1.999969482421875,
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "BOTTOMRIGHT",
-						["relativePoint"] = "TOPRIGHT",
-						["x"] = -5.0001220703125,
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Desperate Prayer",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"V\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Fade",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SV\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Abyssal Healing Potion",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"", -- [2]
-									},
-								},
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["Type"] = "item",
-							["OnlyInBags"] = true,
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Healthstone",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"", -- [2]
-									},
-								},
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["Type"] = "item",
-							["OnlyInBags"] = true,
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-					},
-					["LayoutDirection"] = 2,
-					["Name"] = "Holy Left",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-						},
-					},
-					["Locked"] = true,
-					["EnabledSpecs"] = {
-						[258] = false,
-						[256] = false,
-					},
-					["Columns"] = 6,
-				}, -- [9]
-				{
-					["GUID"] = "TMW:group:1V5SSQP92pnS",
-					["Point"] = {
-						["y"] = -2,
-						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
-					["Scale"] = 1,
-					["Icons"] = {
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Divine Hymn",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S1\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [1]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Apotheosis; Holy Word: Salvation",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S2\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [2]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Symbol of Hope",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S3\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [3]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Guardian Spirit",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S4\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [4]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [5]
-						{
-							["Enabled"] = true,
-							["Type"] = "item",
-							["Name"] = "169223",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"", -- [1]
-										"[Stacks:Hide(0):Color(\"fcf003\")]", -- [2]
-									},
-								},
-							},
-							["States"] = {
-								{
-									["Alpha"] = 0,
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [6]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [7]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [8]
-						{
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [9]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Angelic Feather",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"F\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [10]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Rocket Jump",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"CF\"]", -- [1]
-									},
-								},
-							},
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [11]
-						{
-							["Enabled"] = true,
-							["ShowTimer"] = true,
-							["Name"] = "Leap of Faith",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"A3\"]", -- [1]
-										[3] = "[if Duration(gcd=false) > 0 then\n    \"%d\":Format(Duration(gcd=false)):ClassColor\nelse\n    \"\"\nend] ",
-									},
-								},
-							},
-							["RangeCheck"] = true,
-							["Type"] = "cooldown",
-							["States"] = {
-								{
-								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
-								{
-									["Color"] = "ff7f0000d",
-									["Alpha"] = 1,
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-						}, -- [12]
-					},
-					["Name"] = "Holy Right",
-					["SettingsPerView"] = {
-						["icon"] = {
-							["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-						},
-					},
-					["Locked"] = true,
-					["ShrinkGroup"] = true,
-					["EnabledSpecs"] = {
-						[258] = false,
-						[256] = false,
-					},
-					["Columns"] = 12,
-				}, -- [10]
 			},
-			["NumGroups"] = 10,
-			["TextureName"] = "Smooth v2",
 		},
 		["Yorman - Kil'jaeden"] = {
 			["Locked"] = true,

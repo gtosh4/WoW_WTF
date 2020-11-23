@@ -34,8 +34,9 @@ BazookaDB = {
 					["Altoholic"] = {
 						["pos"] = 3,
 					},
-					["InstanceAchievementTracker"] = {
-						["pos"] = 2,
+					["WeakAuras"] = {
+						["enabled"] = false,
+						["pos"] = 8,
 					},
 					["ExRT"] = {
 						["enabled"] = false,
@@ -45,12 +46,11 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 7,
 					},
+					["InstanceAchievementTracker"] = {
+						["pos"] = 2,
+					},
 					["Bazooka"] = {
 						["enabled"] = false,
-					},
-					["WeakAuras"] = {
-						["enabled"] = false,
-						["pos"] = 8,
 					},
 					["Prat"] = {
 						["enabled"] = false,

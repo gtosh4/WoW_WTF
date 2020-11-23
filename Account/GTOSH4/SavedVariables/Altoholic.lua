@@ -1,11 +1,28 @@
 
 AltoholicDB = {
 	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
+		["Tasks5"] = {
+		},
+		["Tasks2"] = {
+		},
+		["Tasks"] = {
+		},
+		["Tasks4"] = {
+		},
+		["Tasks3"] = {
+		},
 		["options"] = {
 			["UI.Sharing.Ongoing.NumTargets"] = 0,
+			["Tabs.Grids.Default.Area 52.Column1"] = "Default.Area 52.Toshpriest",
+			["Tabs.Grids.Default.Area 52.Column2"] = "Default.Area 52.Toshdruid",
+			["UI.Minimap.IconAngle"] = 349,
+			["Tabs.Achievements.Default.Area 52.Column2"] = "Default.Area 52.Toshdruid",
+			["Tabs.Achievements.Default.Area 52.Column1"] = "Default.Area 52.Toshpriest",
 		},
 	},
 }

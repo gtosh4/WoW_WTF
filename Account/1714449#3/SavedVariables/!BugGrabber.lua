@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 634,
 	["lastSanitation"] = 3,
-	["session"] = 629,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\AstralKeys\\Character Info.lua:49: attempt to index local 'id' (a number value)",
@@ -85,38 +85,38 @@ BugGrabberDB = {
 		}, -- [10]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_characters.lua",
-			["session"] = 620,
 			["time"] = "2020/11/21 03:46:51",
+			["session"] = 620,
 			["counter"] = 4,
 		}, -- [11]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_lookup.lua",
-			["session"] = 620,
 			["time"] = "2020/11/21 03:46:51",
+			["session"] = 620,
 			["counter"] = 4,
 		}, -- [12]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_characters.lua",
-			["session"] = 620,
 			["time"] = "2020/11/21 03:46:51",
+			["session"] = 620,
 			["counter"] = 4,
 		}, -- [13]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_lookup.lua",
-			["session"] = 620,
 			["time"] = "2020/11/21 03:46:51",
+			["session"] = 620,
 			["counter"] = 4,
 		}, -- [14]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_characters.lua",
-			["session"] = 620,
 			["time"] = "2020/11/21 03:46:51",
+			["session"] = 620,
 			["counter"] = 2,
 		}, -- [15]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_lookup.lua",
-			["session"] = 620,
 			["time"] = "2020/11/21 03:46:51",
+			["session"] = 620,
 			["counter"] = 2,
 		}, -- [16]
 	},

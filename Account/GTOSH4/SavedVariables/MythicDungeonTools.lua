@@ -159,6 +159,10 @@ MythicDungeonToolsDB = {
 				{
 					["difficulty"] = 20,
 					["week"] = 6,
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
+					},
 					["value"] = {
 						["currentPull"] = 29,
 						["currentSublevel"] = 2,
@@ -401,20 +405,20 @@ MythicDungeonToolsDB = {
 								["color"] = "3eff9e",
 							}, -- [13]
 							{
-								[28] = {
+								[8] = {
 								},
 								[13] = {
 								},
-								[8] = {
+								[28] = {
 								},
-								[10] = {
+								[3] = {
 								},
 								["color"] = "ff3e3e",
 								[29] = {
 								},
 								[5] = {
 								},
-								[3] = {
+								[10] = {
 								},
 							}, -- [14]
 							{
@@ -775,10 +779,6 @@ MythicDungeonToolsDB = {
 								},
 							}, -- [8]
 						},
-					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
 					},
 					["text"] = "S4 W2 2",
 					["objects"] = {

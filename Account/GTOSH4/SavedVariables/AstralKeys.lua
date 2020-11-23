@@ -9,7 +9,7 @@ AstralKeys = {
 		["dungeon_id"] = 252,
 		["week"] = 174,
 		["faction"] = 1,
-		["time_stamp"] = 308459,
+		["time_stamp"] = 456088,
 	}, -- [1]
 	{
 		["source"] = "guild",
@@ -115,6 +115,30 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [10]
+	{
+		["btag"] = "YukioX#1520",
+		["weekly_best"] = 22,
+		["class"] = "MAGE",
+		["key_level"] = 21,
+		["unit"] = "Yukiox-Area52",
+		["dungeon_id"] = 250,
+		["week"] = 174,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [11]
+	{
+		["btag"] = "bum#1748",
+		["weekly_best"] = 0,
+		["class"] = "WARRIOR",
+		["key_level"] = 24,
+		["unit"] = "Orcbum-Kil'jaeden",
+		["dungeon_id"] = 245,
+		["week"] = 174,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [12]
 }
 AstralCharacters = {
 	{
@@ -147,10 +171,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
-			["party"] = true,
 			["guild"] = false,
 			["raid"] = false,
+			["no_key"] = false,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -252,10 +276,11 @@ AstralLists = {
 		["units"] = {
 			["Woesong-Area52"] = true,
 			["Illsong-Area52"] = true,
-			["Scitron-Area52"] = "Sci#11555",
-			["Rathux-Area52"] = true,
-			["Artsong-Area52"] = true,
 			["Race-Area52"] = true,
+			["Artsong-Area52"] = true,
+			["Rathux-Area52"] = true,
+			["Scitron-Area52"] = "Sci#11555",
+			["Yukiox-Area52"] = "YukioX#1520",
 		},
 	}, -- [1]
 	{
@@ -265,6 +290,7 @@ AstralLists = {
 			["Baesong-Kil'jaeden"] = "Emosong#1897",
 			["Ngow-Kil'jaeden"] = "boochan#1194",
 			["Emosong-Kil'jaeden"] = "Emosong#1897",
+			["Yukiox-Area52"] = "YukioX#1520",
 			["Woesong-Area52"] = "Ceesong#1985",
 			["Illsong-Area52"] = "Ceesong#1985",
 			["Mattea-Kil'jaeden"] = "boochan#1194",

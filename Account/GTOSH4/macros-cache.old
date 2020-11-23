@@ -93,3 +93,7 @@ END
 VER 3 0000000000000022 "TEST" "413591"
 /rotac
 END
+VER 3 0000000000000032 "vendor" "INV_MISC_QUESTIONMARK"
+/run BuyMerchantItem(3)
+/use Relinquished Azerite Chestpiece
+END
