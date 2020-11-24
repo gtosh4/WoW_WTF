@@ -215,13 +215,13 @@ WQTrackerDB = {
 				},
 			},
 			["quests_tracked"] = {
-				["Player-3676-0AD945D6"] = {
-				},
 				["Player-9-0B608E72"] = {
+				},
+				["Player-3676-0AD945E6"] = {
 				},
 				["Player-3676-0AD143A0"] = {
 				},
-				["Player-3676-0AD945E6"] = {
+				["Player-3676-0AD945D6"] = {
 				},
 			},
 			["quests_all_characters"] = {
@@ -230,27 +230,32 @@ WQTrackerDB = {
 				["Player-3676-0AD945E6"] = {
 				},
 				["Player-9-0B608E72"] = {
+					[50873] = {
+						["expireAt"] = 1606230037,
+						["rewardAmount"] = "|cff2292FF81",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Gauntlets_17",
+					},
 				},
 			},
 			["player_names"] = {
-				["Player-3676-0AD945D6"] = {
-					["class"] = "SHAMAN",
-					["name"] = "Toshaman",
-					["realm"] = "Area 52",
-				},
 				["Player-9-0B608E72"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Kil'jaeden",
+				},
+				["Player-3676-0AD945E6"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
+					["realm"] = "Area 52",
 				},
 				["Player-3676-0AD143A0"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Area 52",
 				},
-				["Player-3676-0AD945E6"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
+				["Player-3676-0AD945D6"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Toshaman",
 					["realm"] = "Area 52",
 				},
 			},
@@ -286,33 +291,33 @@ WQTrackerDB = {
 					["Venomarus"] = 142438,
 					["Blistermaw"] = 122958,
 					["Puscilla"] = 126040,
-					["Rezira the Seer"] = 127706,
 					["Lieutenant Xakaar"] = 126254,
+					["Rezira the Seer"] = 127706,
 					["Varga"] = 126208,
 					["Guardian Tannin"] = 152736,
 					["All-Seer Xanarian"] = 127096,
 					["Echo of Myzrael"] = 141668,
 					["Golrakahn"] = 124185,
-					["The Many-Faced Devourer"] = 127581,
-					["Ven'orn"] = 126115,
 					["Skreeg the Devourer"] = 126912,
+					["Ven'orn"] = 126115,
 					["Foul Manifestation"] = 151202,
+					["The Many-Faced Devourer"] = 127581,
 					["Rumbling Goliath"] = 141620,
-					["Overseer Y'Beda"] = 124440,
+					["Naroua"] = 126419,
 					["Earthliving Giant"] = 140760,
 					["Thundering Goliath"] = 141616,
 					["Armored Vaultbot"] = 154968,
-					["Umbra'jin"] = 122004,
-					["High Warlord Volrath"] = 143536,
 					["Overseer Y'Sorna"] = 125497,
+					["Overseer Krix"] = 142423,
+					["Umbra'jin"] = 122004,
 					["Matriarca de escamas Gratinax"] = 152548,
 					["Void Warden Valsuran"] = 127300,
 					["Mistress Il'thendra"] = 122947,
 					["Malfunctioning Beastbot"] = 151933,
 					["Goldenvein"] = 140769,
-					["Overseer Krix"] = 142423,
+					["High Warlord Volrath"] = 143536,
 					["Worldsplitter Skuul"] = 127118,
-					["Naroua"] = 126419,
+					["Overseer Y'Beda"] = 124440,
 					["Plaguefeather"] = 142435,
 					["Mechagonian Nullifier"] = 151124,
 					["Venomtail Skyfin"] = 126867,

@@ -28,12 +28,6 @@ VER 3 000000000000002B "noblust" "INV_MISC_QUESTIONMARK"
 /cancelaura Primal Rage
 /cancelaura Time Warp
 END
-VER 3 0000000000000029 "page1" "134153"
-/changeactionbar 1
-END
-VER 3 000000000000002A "page2" "134154"
-/changeactionbar 3
-END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
 /use Healthstone

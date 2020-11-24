@@ -94,6 +94,5 @@ VER 3 0000000000000022 "TEST" "413591"
 /rotac
 END
 VER 3 0000000000000032 "vendor" "INV_MISC_QUESTIONMARK"
-/run BuyMerchantItem(3)
-/use Relinquished Azerite Chestpiece
+/script C_Timer.NewTicker(1, function() UseItemByName("Relinquished Azerite Chestpiece"); BuyMerchantItem(3); UseItemByName("Relinquished Azerite Chestpiece"); end, 100)
 END

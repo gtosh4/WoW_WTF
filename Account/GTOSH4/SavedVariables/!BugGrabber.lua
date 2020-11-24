@@ -1,16 +1,8 @@
 
 BugGrabberDB = {
+	["session"] = 298,
 	["lastSanitation"] = 3,
-	["session"] = 275,
 	["errors"] = {
-		{
-			["message"] = "Interface\\AddOns\\BigDebuffs\\BigDebuffs-v9.5.lua:853: attempt to index field 'raidFrames' (a nil value)",
-			["time"] = "2020/11/21 00:26:09",
-			["locals"] = "frame = <unnamed> {\n 0 = <userdata>\n WidgetContainer = <unnamed> {\n }\n classificationIndicator = <unnamed> {\n }\n castBar = <unnamed> {\n }\n maxDispelDebuffs = 0\n inVehicle = false\n optionTable = <table> {\n }\n overAbsorbGlow = <unnamed> {\n }\n totalAbsorb = <unnamed> {\n }\n name = <unnamed> {\n }\n aggroHighlight = <unnamed> {\n }\n myHealAbsorbRightShadow = <unnamed> {\n }\n overHealAbsorbGlow = <unnamed> {\n }\n newUnit = true\n ignoreCUFNameRequirement = true\n selectionHighlight = <unnamed> {\n }\n myHealAbsorbLeftShadow = <unnamed> {\n }\n maxDebuffs = 0\n unitExists = false\n disableMouse = true\n ClassificationFrame = <unnamed> {\n }\n HasPlaterHooksRegistered = true\n healthBar = <unnamed> {\n }\n BuffFrame = <unnamed> {\n }\n RaidTargetFrame = <unnamed> {\n }\n LoseAggroAnim = <unnamed> {\n }\n hideHealthbar = false\n maxBuffs = 0\n myHealAbsorb = <unnamed> {\n }\n otherHealPrediction = <unnamed> {\n }\n totalAbsorbOverlay = <unnamed> {\n }\n myHealPrediction = <unnamed> {\n }\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field 'raidFrames' (a nil value)\"\npending = <table> {\n}\n",
-			["stack"] = "[string \"@Interface\\AddOns\\BigDebuffs\\BigDebuffs-v9.5.lua\"]:853: in function <Interface\\AddOns\\BigDebuffs\\BigDebuffs.lua:852>\n[string \"=[C]\"]: in function `CompactUnitFrame_UpdateAll'\n[string \"@Interface\\FrameXML\\CompactUnitFrame.lua\"]:194: in function `CompactUnitFrame_SetUnit'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:428: in function `OnRemoved'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:174: in function `OnNamePlateRemoved'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:59: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:47>",
-			["session"] = 266,
-			["counter"] = 3,
-		}, -- [1]
 		{
 			["message"] = "...ce\\AddOns\\miirGui\\onDemand/ObjectiveTrackerFrame.lua:136: Usage: hooksecurefunc([table,] \"function\", hookfunc)",
 			["time"] = "2020/11/21 03:48:25",
@@ -18,7 +10,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `hooksecurefunc'\n[string \"@Interface\\AddOns\\miirGui\\onDemand/ObjectiveTrackerFrame.lua\"]:136: in function <...ce\\AddOns\\miirGui\\onDemand/ObjectiveTrackerFrame.lua:1>\n[string \"@Interface\\AddOns\\miirGui\\onDemand/ObjectiveTrackerFrame.lua\"]:155: in function <...ce\\AddOns\\miirGui\\onDemand/ObjectiveTrackerFrame.lua:152>",
 			["session"] = 269,
 			["counter"] = 1,
-		}, -- [2]
+		}, -- [1]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\onDemand/Collections.lua:103: attempt to index field 'HelpBox' (a nil value)",
 			["time"] = "2020/11/21 03:48:25",
@@ -26,7 +18,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\onDemand/Collections.lua\"]:103: in function <Interface\\AddOns\\miirGui\\onDemand/Collections.lua:1>\n[string \"@Interface\\AddOns\\miirGui\\onDemand/Collections.lua\"]:427: in function <Interface\\AddOns\\miirGui\\onDemand/Collections.lua:424>",
 			["session"] = 269,
 			["counter"] = 1,
-		}, -- [3]
+		}, -- [2]
 		{
 			["message"] = "Interface\\AddOns\\AstralKeys\\Character Info.lua:49: attempt to index local 'id' (a number value)",
 			["time"] = "2020/11/21 00:10:23",
@@ -34,7 +26,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\AstralKeys\\Character Info.lua\"]:49: in function `GetCharacterBestLevel'\n[string \"@Interface\\AddOns\\AstralKeys\\Key Information.lua\"]:18: in function `method'\n[string \"@Interface\\AddOns\\AstralKeys\\Events.lua\"]:84: in function <Interface\\AddOns\\AstralKeys\\Events.lua:80>",
 			["session"] = 269,
 			["counter"] = 53,
-		}, -- [4]
+		}, -- [3]
 		{
 			["message"] = "...mes\\libs\\oUF\\elements\\pvpclassificationindicator.lua:34: attempt to index field 'PvpUnitClassification' (a nil value)",
 			["time"] = "2020/11/21 00:10:20",
@@ -42,50 +34,50 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\elements\\pvpclassificationindicator.lua\"]:34: in main chunk",
 			["session"] = 270,
 			["counter"] = 6,
-		}, -- [5]
+		}, -- [4]
 		{
 			["message"] = "Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\events.lua:146: Attempt to register unknown event \"UNIT_HEALTH_FREQUENT\"",
 			["time"] = "2020/11/21 00:10:22",
 			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\events.lua\"]:146: in function `RegisterEvent'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\region_types/bar.lua\"]:38: in function `?'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\region_types/base_container.lua\"]:36: in function <...ddOns\\ToshUnitFrames\\region_types/base_container.lua:30>\n[string \"@Interface\\AddOns\\ToshUnitFrames\\region_types/base_container.lua\"]:41: in function `Enable'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\element.lua\"]:20: in function `enable'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua\"]:113: in function `EnableElement'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua\"]:343: in function <Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua:260>\n[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\ToshUnitFrames\\libs\\oUF\\ouf.lua\"]:728: in function `Spawn'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\region_types/unit_single.lua\"]:37: in function `Create'\n[string \"@Interface\\AddOns\\ToshUnitFrames\\frames.lua\"]:24: in function <Interface\\AddOns\\ToshUnitFrames\\frames.lua:11>\n[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\ToshUnitFrames\\frames.lua\"]:11: in function `?'\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `Fire'\n[string \"@Interface\\AddOns\\Scrap\\libs\\AceEvent-3.0\\AceEvent-3.0-4.lua\"]:120: in function <...face\\AddOns\\Scrap\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:119>",
 			["session"] = 270,
 			["counter"] = 6,
-		}, -- [6]
+		}, -- [5]
 		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_characters.lua",
-			["session"] = 270,
 			["time"] = "2020/11/21 00:10:23",
+			["session"] = 270,
+			["counter"] = 12,
+		}, -- [6]
+		{
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_lookup.lua",
+			["time"] = "2020/11/21 00:10:23",
+			["session"] = 270,
 			["counter"] = 12,
 		}, -- [7]
 		{
-			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_alliance_lookup.lua",
-			["session"] = 270,
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_characters.lua",
 			["time"] = "2020/11/21 00:10:23",
+			["session"] = 270,
 			["counter"] = 12,
 		}, -- [8]
 		{
-			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_characters.lua",
-			["session"] = 270,
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_lookup.lua",
 			["time"] = "2020/11/21 00:10:23",
+			["session"] = 270,
 			["counter"] = 12,
 		}, -- [9]
 		{
-			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_raiding_eu_alliance_lookup.lua",
-			["session"] = 270,
+			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_characters.lua",
 			["time"] = "2020/11/21 00:10:23",
-			["counter"] = 12,
+			["session"] = 270,
+			["counter"] = 6,
 		}, -- [10]
 		{
-			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_characters.lua",
-			["session"] = 270,
-			["time"] = "2020/11/21 00:10:23",
-			["counter"] = 6,
-		}, -- [11]
-		{
 			["message"] = "Error loading Interface\\AddOns\\RaiderIO/db/db_eu_horde_lookup.lua",
-			["session"] = 270,
 			["time"] = "2020/11/21 00:10:23",
+			["session"] = 270,
 			["counter"] = 3,
-		}, -- [12]
+		}, -- [11]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\functions.lua:90: attempt to index local 'obj' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -93,7 +85,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\functions.lua\"]:90: in function `SetFont'\n[string \"@Interface\\AddOns\\miirGui\\functions.lua\"]:125: in function <Interface\\AddOns\\miirGui\\functions.lua:1>",
 			["session"] = 274,
 			["counter"] = 2,
-		}, -- [13]
+		}, -- [12]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\options-Options.lua:350: attempt to call method 'SetBackdrop' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -101,7 +93,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\options-Options.lua\"]:350: in function <Interface\\AddOns\\miirGui\\options.lua:1>",
 			["session"] = 274,
 			["counter"] = 2,
-		}, -- [14]
+		}, -- [13]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\FrameXML/AlertFrames.lua:742: attempt to index global 'TalentMicroButtonAlertBg' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -109,7 +101,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\FrameXML/AlertFrames.lua\"]:742: in function <Interface\\AddOns\\miirGui\\FrameXML/AlertFrames.lua:1>",
 			["session"] = 274,
 			["counter"] = 2,
-		}, -- [15]
+		}, -- [14]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\FrameXML/ContainerFrame.lua:35: attempt to index global 'BagHelpBoxBg' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -117,7 +109,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\FrameXML/ContainerFrame.lua\"]:35: in function <Interface\\AddOns\\miirGui\\FrameXML/ContainerFrame.lua:1>",
 			["session"] = 274,
 			["counter"] = 2,
-		}, -- [16]
+		}, -- [15]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\FrameXML/FriendsFrame.lua:56: attempt to index global 'm_border_RaidFrame' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -125,7 +117,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\FrameXML/FriendsFrame.lua\"]:56: in function <Interface\\AddOns\\miirGui\\FrameXML/FriendsFrame.lua:49>",
 			["session"] = 274,
 			["counter"] = 2,
-		}, -- [17]
+		}, -- [16]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\FrameXML/GameMenuFrame.lua:12: attempt to call method 'SetBackdrop' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -133,7 +125,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\FrameXML/GameMenuFrame.lua\"]:12: in function <Interface\\AddOns\\miirGui\\FrameXML/GameMenuFrame.lua:1>",
 			["session"] = 274,
 			["counter"] = 2,
-		}, -- [18]
+		}, -- [17]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\FrameXML/LFDQueueFrame.lua:14: attempt to index global 'ScenarioQueueFrame' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -141,7 +133,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\FrameXML/LFDQueueFrame.lua\"]:14: in function <Interface\\AddOns\\miirGui\\FrameXML/LFDQueueFrame.lua:1>",
 			["session"] = 274,
 			["counter"] = 2,
-		}, -- [19]
+		}, -- [18]
 		{
 			["message"] = "Interface\\AddOns\\miirGui\\functions.lua:32: attempt to call method 'SetBackdrop' (a nil value)",
 			["time"] = "2020/11/21 03:47:12",
@@ -149,6 +141,30 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\miirGui\\functions.lua\"]:32: in function `m_border'\n[string \"@Interface\\AddOns\\miirGui\\FrameXML/CharacterFrame.lua\"]:7: in function <Interface\\AddOns\\miirGui\\FrameXML/CharacterFrame.lua:1>",
 			["session"] = 274,
 			["counter"] = 10,
+		}, -- [19]
+		{
+			["message"] = "Interface\\AddOns\\AstralKeys\\Affixes.lua:108: attempt to index field '?' (a nil value)",
+			["time"] = "2020/11/23 18:02:30",
+			["locals"] = "affixes = <table> {\n 1 = <table> {\n }\n 2 = <table> {\n }\n 3 = <table> {\n }\n}\n(*temporary) = nil\n(*temporary) = 1\n(*temporary) = \"Overflowing\"\n(*temporary) = \"Healing in excess of a target's maximum health is instead converted to a heal absorption effect.\"\n(*temporary) = 463570\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field '?' (a nil value)\"\nSEASON_AFFIX = 0\nAffixOneID = 0\nAffixTwoID = 0\nAffixThreeID = 0\nROTATION_WEEK_POSITION = 0\nGetRotationPosition = <function> defined @Interface\\AddOns\\AstralKeys\\Affixes.lua:87\ne = <table> {\n GetCharacterID = <function> defined @Interface\\AddOns\\AstralKeys\\Character Info.lua:33\n UpdateCharacterIDs = <function> defined @Interface\\AddOns\\AstralKeys\\Character Info.lua:11\n Scale = <function> defined @Interface\\AddOns\\AstralKeys\\Init.lua:17\n SetPlayerNameRealm = <function> defined @Interface\\AddOns\\AstralKeys\\Character Info.lua:81\n Unit = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:22\n UnitGUID = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:30\n icon = <table> {\n }\n UnitClass = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:45\n UpdateCharacterFrames = <function> defined @Interface\\AddOns\\AstralKeys\\Frame.lua:1712\n AddUnitToList = <function> defined @Interface\\AddOns\\AstralKeys\\Lists\\Lists.lua:93\n PlayerName = <function> defined @Interface\\AddOns\\AstralKeys\\Character Info.lua:98\n MYTHICKEY_ITEMID = 158923\n SetPlayerClass = <function> defined @Interface\\AddOns\\AstralKeys\\Character Info.lua:103\n AffixThree = <function> defined @Interface\\AddOns\\AstralKeys\\Affixes.lua:164\n UpdateCharacterBest = <function> defined @Interface\\AddOns\\AstralKeys\\Key Information.lua:152\n SetUIScale = <function> defined @Interface\\AddOns\\AstralKeys\\Init.lua:10\n AffixTwo = <function> defined @Interface\\AddOns\\AstralKeys\\Affixes.lua:152\n SetFrameListShown = <function> defined @Interface\\AddOns\\AstralKeys\\Settings.lua:164\n GuildMemberRank = <function> defined @Interface\\AddOns\\AstralKeys\\Lists\\Guild.lua:34\n GetCharacterKeyLevel = <function> defined @Interface\\AddOns\\AstralKeys\\Character Info.lua:131\n GetFriendGaID = <function> defined @Interface\\AddOns\\AstralKeys\\Lists\\Friends.lua:30\n GuildMemberGuid = <function> defined @Interface\\AddOns\\AstralKeys\\Lists\\Guild.lua:41\n UnitID = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:14\n SetUnitID = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:8\n GetDifficultyColour = <function> defined @Interface\\AddOns\\AstralKeys\\Key Information.lua:196\n FriendGUID = <function> defined @Interface\\AddOns\\AstralKeys\\Lists\\Friends.lua:88\n AffixOne = <function> defined @Interface\\AddOns\\AstralKeys\\Affixes.lua:139\n EXPANSION_LEVEL = 50\n FriendPresName = <function> defined @Interface\\AddOns\\AstralKeys\\Lists\\Friends.lua:93\n GetListFunction = <function> defined @Interface\\AddOns\\AstralKeys\\Lists.lua:24\n AffixFour = <function> defined @Interface\\AddOns\\AstralKeys\\Affixes.lua:179\n UnitMapID = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:55\n UnitWeeklyBest = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:60\n UpdateTable = <function> defined @Interface\\AddOns\\AstralKeys\\Tables.lua:184\n UnitKeyLevel = <function> defined @Interface\\AddOns\\AstralKeys\\Unit Information.lua:50\n DataResetTime = <function> defined @Interface\\AddOns\\AstralKeys\\Settings.lua:7\n CLIENT_VERSION = \"3.32\"\n AstralToggle = <function> defined @Interface\\AddOns\\AstralKeys\\Frame.lua:1826\n UnitInGuild = <function> defined @Interface\\AddOns\\AstralKeys\\Lists\\Guild.lua:23\n AddUnitFunction = <function> defined @Interface\\AddOns\\AstralKeys\\Lists.lua:9\n AffixDescription = <function> defined @Interface\\AddOns\\AstralKeys\\Affixes.lua:191\n AddUnitToTable = <function> defined @Interface\\AddOns\\AstralKeys\\Frame.lua:1806\n CharacterName = <function> defined @Interface\\AddOns\\AstralKeys\\Character Info.lua:26\n AddUnitToSortTable = <function> defined @Interface\\AddOns\\AstralKeys\\Frame.lua:1770\n CreateCheckBox = <function> defined @Interface\\AddOns\\AstralKeys\\Frame Functi",
+			["stack"] = "[string \"@Interface\\AddOns\\AstralKeys\\Affixes.lua\"]:108: in function `method'\n[string \"@Interface\\AddOns\\AstralKeys\\Events.lua\"]:84: in function <Interface\\AddOns\\AstralKeys\\Events.lua:80>",
+			["session"] = 278,
+			["counter"] = 1,
 		}, -- [20]
+		{
+			["message"] = "Interface\\AddOns\\BigDebuffs\\BigDebuffs-v9.5.lua:853: attempt to index field 'raidFrames' (a nil value)",
+			["time"] = "2020/11/21 00:26:09",
+			["locals"] = "frame = <unnamed> {\n 0 = <userdata>\n WidgetContainer = <unnamed> {\n }\n classificationIndicator = <unnamed> {\n }\n castBar = <unnamed> {\n }\n maxDispelDebuffs = 0\n inVehicle = false\n optionTable = <table> {\n }\n overAbsorbGlow = <unnamed> {\n }\n totalAbsorb = <unnamed> {\n }\n name = <unnamed> {\n }\n aggroHighlight = <unnamed> {\n }\n myHealAbsorbRightShadow = <unnamed> {\n }\n overHealAbsorbGlow = <unnamed> {\n }\n newUnit = true\n ignoreCUFNameRequirement = true\n selectionHighlight = <unnamed> {\n }\n myHealAbsorbLeftShadow = <unnamed> {\n }\n maxDebuffs = 0\n unitExists = false\n disableMouse = true\n ClassificationFrame = <unnamed> {\n }\n HasPlaterHooksRegistered = true\n healthBar = <unnamed> {\n }\n BuffFrame = <unnamed> {\n }\n RaidTargetFrame = <unnamed> {\n }\n LoseAggroAnim = <unnamed> {\n }\n hideHealthbar = false\n maxBuffs = 0\n myHealAbsorb = <unnamed> {\n }\n otherHealPrediction = <unnamed> {\n }\n totalAbsorbOverlay = <unnamed> {\n }\n myHealPrediction = <unnamed> {\n }\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field 'raidFrames' (a nil value)\"\npending = <table> {\n}\n",
+			["stack"] = "[string \"@Interface\\AddOns\\BigDebuffs\\BigDebuffs-v9.5.lua\"]:853: in function <Interface\\AddOns\\BigDebuffs\\BigDebuffs.lua:852>\n[string \"=[C]\"]: in function `CompactUnitFrame_UpdateAll'\n[string \"@Interface\\FrameXML\\CompactUnitFrame.lua\"]:194: in function `CompactUnitFrame_SetUnit'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:428: in function `OnRemoved'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:174: in function `OnNamePlateRemoved'\n[string \"@Interface\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:59: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:47>",
+			["session"] = 278,
+			["counter"] = 23,
+		}, -- [21]
+		{
+			["message"] = "...terface\\AddOns\\Details_Streamer\\Details_Streamer.lua:2023: table index is nil",
+			["time"] = "2020/11/23 18:32:24",
+			["locals"] = "self = <table> {\n __options = 1\n CurrentVersion = \"v1.2\"\n CreateMinimapIcon = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:2028\n __enabled = true\n SetLocked = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1221\n Enabled = true\n CastFinished = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:835\n OnEvent = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1872\n RegisterEvent = <function> defined @Interface\\AddOns\\Details\\core\\plugins.lua:274\n OpenOptionsPanel = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1366\n OnDetailsEvent = <function> defined @Interface\\AddOns\\Details\\core\\plugins.lua:264\n UpdateDpsHpsFrameConfig = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1297\n battle_lines = <table> {\n }\n CastStart = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:804\n OnDeath = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1149\n UpdateDpsHpsFrame = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1347\n battle_content = <table> {\n }\n Frame = Details_Streamer {\n }\n UnregisterEvent = <function> defined @Interface\\AddOns\\Details\\core\\plugins.lua:277\n GetSpellInformation = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:689\n}\n_ = Details_Streamer {\n 0 = <userdata>\n OnBackdropLoaded = <function> defined @Interface\\SharedXML\\Backdrop.lua:195\n GetBackdropColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:433\n SetupTextureCoordinates = <function> defined @Interface\\SharedXML\\Backdrop.lua:257\n OnBackdropSizeChanged = <function> defined @Interface\\SharedXML\\Backdrop.lua:225\n HasBackdropInfo = <function> defined @Interface\\SharedXML\\Backdrop.lua:321\n SetBackdropBorderColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:465\n GetEdgeSize = <function> defined @Interface\\SharedXML\\Backdrop.lua:231\n ApplyBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:337\n SetBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:372\n ClearBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:325\n __parent = <table> {\n }\n GetBackdropBorderColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:452\n GetBackdrop = <function> defined @Interface\\SharedXML\\Backdrop.lua:390\n SetupPieceVisuals = <function> defined @Interface\\SharedXML\\Backdrop.lua:289\n SetBackdropColor = <function> defined @Interface\\SharedXML\\Backdrop.lua:442\n SetBorderBlendMode = <function> defined @Interface\\SharedXML\\Backdrop.lua:309\n}\nevent = \"PLAYER_LOGOUT\"\npname = nil\n(*temporary) = <table> {\n Toshpriest - Area 52 = <table> {\n }\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"table index is nil\"\nplayer_name = nil\nCreatePluginFrames = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:60\nStreamOverlay = <table> {\n __options = 1\n CurrentVersion = \"v1.2\"\n CreateMinimapIcon = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:2028\n __enabled = true\n SetLocked = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1221\n Enabled = true\n CastFinished = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:835\n OnEvent = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1872\n RegisterEvent = <function> defined @Interface\\AddOns\\Details\\core\\plugins.lua:274\n OpenOptionsPanel = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1366\n OnDetailsEvent = <function> defined @Interface\\AddOns\\Details\\core\\plugins.lua:264\n UpdateDpsHpsFrameConfig = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1297\n battle_lines = <table> {\n }\n CastStart = <function> defined @Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua:804\n OnD",
+			["stack"] = "[string \"@Interface\\AddOns\\Details_Streamer\\Details_Streamer.lua\"]:2023: in function <...terface\\AddOns\\Details_Streamer\\Details_Streamer.lua:1872>\n[string \"=(tail call)\"]: ?",
+			["session"] = 297,
+			["counter"] = 15,
+		}, -- [22]
 	},
 }

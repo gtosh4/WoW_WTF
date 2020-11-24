@@ -1,5 +1,7 @@
 
 EssenceSetManager = {
+	["Shadow"] = {
+	},
 	["Discipline"] = {
 	},
 }

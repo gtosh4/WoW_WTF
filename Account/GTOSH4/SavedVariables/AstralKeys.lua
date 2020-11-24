@@ -20,11 +20,12 @@ AstralKeys = {
 		["dungeon_id"] = 250,
 		["week"] = 174,
 		["faction"] = 1,
-		["time_stamp"] = 1,
+		["time_stamp"] = 0,
+		["btag"] = "Emosong#1897",
 	}, -- [2]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 23,
 		["class"] = "WARLOCK",
 		["key_level"] = 22,
 		["unit"] = "Woesong-Area52",
@@ -32,6 +33,7 @@ AstralKeys = {
 		["week"] = 174,
 		["faction"] = 1,
 		["time_stamp"] = 0,
+		["btag"] = "Emosong#1897",
 	}, -- [3]
 	{
 		["source"] = "guild",
@@ -43,6 +45,7 @@ AstralKeys = {
 		["week"] = 174,
 		["faction"] = 1,
 		["time_stamp"] = 0,
+		["btag"] = "Emosong#1897",
 	}, -- [4]
 	{
 		["source"] = "guild",
@@ -93,7 +96,7 @@ AstralKeys = {
 	}, -- [8]
 	{
 		["btag"] = "Emosong#1897",
-		["weekly_best"] = 0,
+		["weekly_best"] = 22,
 		["class"] = "ROGUE",
 		["key_level"] = 24,
 		["unit"] = "Emosong-Kil'jaeden",
@@ -129,7 +132,7 @@ AstralKeys = {
 	}, -- [11]
 	{
 		["btag"] = "bum#1748",
-		["weekly_best"] = 0,
+		["weekly_best"] = 15,
 		["class"] = "WARRIOR",
 		["key_level"] = 24,
 		["unit"] = "Orcbum-Kil'jaeden",
@@ -139,25 +142,37 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [12]
+	{
+		["btag"] = "YukioX#1520",
+		["weekly_best"] = 0,
+		["class"] = "SHAMAN",
+		["key_level"] = 22,
+		["unit"] = "Yukios-Kil'jaeden",
+		["dungeon_id"] = 251,
+		["week"] = 174,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [13]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["unit"] = "Toshpal-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshpal-Area52",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "PRIEST",
-		["unit"] = "Toshpriest-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshpriest-Area52",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "DRUID",
-		["faction"] = 1,
 		["unit"] = "Toshdruid-Area52",
+		["faction"] = 1,
 	}, -- [3]
 }
 AstralKeysSettings = {
@@ -171,10 +186,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = false,
 			["raid"] = false,
-			["no_key"] = false,
 			["party"] = true,
+			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -199,9 +214,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -210,9 +223,10 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
-	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
@@ -221,6 +235,7 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -230,12 +245,12 @@ AstralMinimap = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -250,53 +265,54 @@ AstralMinimap = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
-		["Daggny - Frostwolf"] = {
+		["Toshpriest - Azralon"] = {
 		},
 		["Yelluwuy - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshlongboyr - Eldre'Thalas"] = {
-		},
 		["Toshaman - Area 52"] = {
 		},
-		["Toshpriest - Azralon"] = {
+		["Toshlongboyr - Eldre'Thalas"] = {
+		},
+		["Daggny - Frostwolf"] = {
 		},
 	},
 }
 AstralAffixes = {
 	["rotation"] = {
 	},
-	["season_start_week"] = 156,
-	["season_affix"] = 120,
+	["season_start_week"] = 174,
+	["season_affix"] = 121,
 }
 AstralLists = {
 	{
 		["name"] = "GUILD",
 		["units"] = {
-			["Woesong-Area52"] = true,
-			["Illsong-Area52"] = true,
-			["Race-Area52"] = true,
-			["Artsong-Area52"] = true,
-			["Rathux-Area52"] = true,
-			["Scitron-Area52"] = "Sci#11555",
+			["Woesong-Area52"] = "Emosong#1897",
+			["Illsong-Area52"] = "Emosong#1897",
 			["Yukiox-Area52"] = "YukioX#1520",
+			["Scitron-Area52"] = "Sci#11555",
+			["Rathux-Area52"] = true,
+			["Artsong-Area52"] = "Emosong#1897",
+			["Race-Area52"] = true,
 		},
 	}, -- [1]
 	{
 		["name"] = "FRIENDS",
 		["units"] = {
-			["Artsong-Area52"] = "Ceesong#1985",
+			["Artsong-Area52"] = "Emosong#1897",
 			["Baesong-Kil'jaeden"] = "Emosong#1897",
 			["Ngow-Kil'jaeden"] = "boochan#1194",
 			["Emosong-Kil'jaeden"] = "Emosong#1897",
 			["Yukiox-Area52"] = "YukioX#1520",
-			["Woesong-Area52"] = "Ceesong#1985",
-			["Illsong-Area52"] = "Ceesong#1985",
-			["Mattea-Kil'jaeden"] = "boochan#1194",
-			["Orcbum-Kil'jaeden"] = "bum#1748",
-			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Woesong-Area52"] = "Emosong#1897",
+			["Yukios-Kil'jaeden"] = "YukioX#1520",
+			["Illsong-Area52"] = "Emosong#1897",
 			["Scitron-Area52"] = "Sci#11555",
+			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Orcbum-Kil'jaeden"] = "bum#1748",
+			["Mattea-Kil'jaeden"] = "boochan#1194",
 		},
 	}, -- [2]
 }

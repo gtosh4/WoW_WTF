@@ -14,12 +14,12 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["guildName"] = "Aggravated",
 				["faction"] = "Horde",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["guildName"] = "Aggravated",
 				["faction"] = "Horde",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["faction"] = "Horde",

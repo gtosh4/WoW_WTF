@@ -8,6 +8,8 @@ DataStore_CraftsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
+				["lastUpdate"] = 1606081951,
+				["Prof2"] = "Alchemy",
 				["Professions"] = {
 					["Fishing"] = {
 						["CurrentLevelName"] = "Zandalari Fishing",
@@ -19,11 +21,11 @@ DataStore_CraftsDB = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
 					},
 				},
-				["Prof2"] = "Alchemy",
-				["lastUpdate"] = 1606081951,
 				["Prof1"] = "Blacksmithing",
 			},
 			["Default.Area 52.Toshdruid"] = {
+				["lastUpdate"] = 1606083393,
+				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Cooking"] = {
 						["CurrentLevelName"] = "Zandalari Cooking",
@@ -35,13 +37,9 @@ DataStore_CraftsDB = {
 						["CurrentLevelName"] = "Enchanting",
 					},
 				},
-				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1606083393,
 				["Prof1"] = "Leatherworking",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1606089308,
-				["Prof2"] = "Tailoring",
 				["Professions"] = {
 					["Alchemy"] = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
@@ -50,6 +48,8 @@ DataStore_CraftsDB = {
 						["CurrentLevelName"] = "Zandalari Tailoring",
 					},
 				},
+				["Prof2"] = "Tailoring",
+				["lastUpdate"] = 1606193136,
 				["Prof1"] = "Alchemy",
 			},
 		},

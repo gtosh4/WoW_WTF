@@ -33,7 +33,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1606080666,
+				["lastUpdate"] = 1606193107,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Area 52.Toshmonk"] = {

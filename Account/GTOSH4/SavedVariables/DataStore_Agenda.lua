@@ -10,16 +10,16 @@ DataStore_AgendaDB = {
 			["Default.Area 52.Toshpal"] = {
 				["DungeonIDs"] = {
 					[410218516] = {
-						["name"] = "Ny'alotha, the Waking City Mythic",
 						["resetTime"] = 1606229999,
+						["name"] = "Ny'alotha, the Waking City Mythic",
 						["numEncounters"] = 12,
 						["bosses"] = {
 							["Carapace of N'Zoth"] = true,
 							["N'Zoth the Corruptor"] = true,
 							["Wrathion"] = true,
 						},
-						["progress"] = 3,
 						["extended"] = 0,
+						["progress"] = 3,
 						["isRaid"] = 1,
 					},
 				},
@@ -44,7 +44,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 1,
 					},
 				},
-				["lastUpdate"] = 1606089329,
+				["lastUpdate"] = 1606193136,
 			},
 		},
 	},
