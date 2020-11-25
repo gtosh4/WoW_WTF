@@ -1,179 +1,31 @@
 
 AstralKeys = {
-	{
-		["source"] = "guild",
-		["weekly_best"] = 18,
-		["class"] = "DEATHKNIGHT",
-		["key_level"] = 17,
-		["unit"] = "Rathux-Area52",
-		["dungeon_id"] = 252,
-		["week"] = 174,
-		["faction"] = 1,
-		["time_stamp"] = 456088,
-	}, -- [1]
-	{
-		["source"] = "guild",
-		["weekly_best"] = 18,
-		["class"] = "DEMONHUNTER",
-		["key_level"] = 16,
-		["unit"] = "Illsong-Area52",
-		["dungeon_id"] = 250,
-		["week"] = 174,
-		["faction"] = 1,
-		["time_stamp"] = 0,
-		["btag"] = "Emosong#1897",
-	}, -- [2]
-	{
-		["source"] = "guild",
-		["weekly_best"] = 23,
-		["class"] = "WARLOCK",
-		["key_level"] = 22,
-		["unit"] = "Woesong-Area52",
-		["dungeon_id"] = 252,
-		["week"] = 174,
-		["faction"] = 1,
-		["time_stamp"] = 0,
-		["btag"] = "Emosong#1897",
-	}, -- [3]
-	{
-		["source"] = "guild",
-		["weekly_best"] = 18,
-		["class"] = "HUNTER",
-		["key_level"] = 16,
-		["unit"] = "Artsong-Area52",
-		["dungeon_id"] = 252,
-		["week"] = 174,
-		["faction"] = 1,
-		["time_stamp"] = 0,
-		["btag"] = "Emosong#1897",
-	}, -- [4]
-	{
-		["source"] = "guild",
-		["weekly_best"] = 18,
-		["class"] = "ROGUE",
-		["key_level"] = 17,
-		["unit"] = "Race-Area52",
-		["dungeon_id"] = 249,
-		["week"] = 174,
-		["faction"] = 1,
-		["time_stamp"] = 3,
-	}, -- [5]
-	{
-		["source"] = "guild",
-		["weekly_best"] = 18,
-		["class"] = "SHAMAN",
-		["key_level"] = 18,
-		["unit"] = "Scitron-Area52",
-		["dungeon_id"] = 369,
-		["week"] = 174,
-		["faction"] = 1,
-		["time_stamp"] = 308391,
-		["btag"] = "Sci#11555",
-	}, -- [6]
-	{
-		["btag"] = "Emosong#1897",
-		["weekly_best"] = 16,
-		["class"] = "MAGE",
-		["key_level"] = 16,
-		["unit"] = "Ceesong-Kil'jaeden",
-		["dungeon_id"] = 246,
-		["week"] = 174,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [7]
-	{
-		["btag"] = "Emosong#1897",
-		["weekly_best"] = 0,
-		["class"] = "WARRIOR",
-		["key_level"] = 17,
-		["unit"] = "Baesong-Kil'jaeden",
-		["dungeon_id"] = 249,
-		["week"] = 174,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [8]
-	{
-		["btag"] = "Emosong#1897",
-		["weekly_best"] = 22,
-		["class"] = "ROGUE",
-		["key_level"] = 24,
-		["unit"] = "Emosong-Kil'jaeden",
-		["dungeon_id"] = 252,
-		["week"] = 174,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [9]
-	{
-		["btag"] = "boochan#1194",
-		["weekly_best"] = 0,
-		["class"] = "DRUID",
-		["key_level"] = 24,
-		["unit"] = "Ngow-Kil'jaeden",
-		["dungeon_id"] = 353,
-		["week"] = 174,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [10]
-	{
-		["btag"] = "YukioX#1520",
-		["weekly_best"] = 22,
-		["class"] = "MAGE",
-		["key_level"] = 21,
-		["unit"] = "Yukiox-Area52",
-		["dungeon_id"] = 250,
-		["week"] = 174,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [11]
-	{
-		["btag"] = "bum#1748",
-		["weekly_best"] = 15,
-		["class"] = "WARRIOR",
-		["key_level"] = 24,
-		["unit"] = "Orcbum-Kil'jaeden",
-		["dungeon_id"] = 245,
-		["week"] = 174,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [12]
-	{
-		["btag"] = "YukioX#1520",
-		["weekly_best"] = 0,
-		["class"] = "SHAMAN",
-		["key_level"] = 22,
-		["unit"] = "Yukios-Kil'jaeden",
-		["dungeon_id"] = 251,
-		["week"] = 174,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [13]
 }
 AstralCharacters = {
 	{
 		["weekly_best"] = 0,
-		["class"] = "PALADIN",
+		["class"] = "PRIEST",
+		["unit"] = "Toshpriest-Area52",
 		["faction"] = 1,
-		["unit"] = "Toshpal-Area52",
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
-		["class"] = "PRIEST",
+		["class"] = "DRUID",
 		["faction"] = 1,
-		["unit"] = "Toshpriest-Area52",
+		["unit"] = "Toshdruid-Area52",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
-		["class"] = "DRUID",
-		["unit"] = "Toshdruid-Area52",
+		["class"] = "PALADIN",
+		["unit"] = "Toshpal-Area52",
 		["faction"] = 1,
 	}, -- [3]
+	{
+		["weekly_best"] = 0,
+		["class"] = "DEATHKNIGHT",
+		["faction"] = 1,
+		["unit"] = "Toshdk-Kil'jaeden",
+	}, -- [4]
 }
 AstralKeysSettings = {
 	["wipedOldTables"] = true,
@@ -181,7 +33,7 @@ AstralKeysSettings = {
 		["show_minimap_button"] = {
 			["isEnabled"] = false,
 		},
-		["init_time"] = 1606230000,
+		["init_time"] = 1606834800,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},

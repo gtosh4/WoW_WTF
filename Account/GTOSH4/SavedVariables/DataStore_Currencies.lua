@@ -2,6 +2,7 @@
 DataStore_CurrenciesDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -14,21 +15,22 @@ DataStore_CurrenciesDB = {
 					[1273] = "1-0-0-6",
 					[1275] = "62-0-0-0",
 					[1710] = "727-0-0-0",
+					[1803] = "9240-0-0-0",
 					[1155] = "658-0-0-1100",
 					[1342] = "133-0-0-1000",
 					[1560] = "29334-0-0-0",
-					[1716] = "290-0-0-0",
-					[1803] = "9240-0-0-0",
-					[1718] = "26-0-0-0",
-					[1719] = "30262-0-0-0",
 					[1220] = "683-0-0-0",
+					[824] = "1300-0-0-10000",
+					[1718] = "0-0-0-0",
+					[1719] = "30262-0-0-0",
+					[1533] = "807-0-0-0",
 					[1721] = "27-0-0-0",
 					[1226] = "4841-0-0-0",
 					[1166] = "3675-0-0-0",
 					[1755] = "83820-0-0-0",
 					[1508] = "847-0-0-2000",
-					[1533] = "807-0-0-0",
-					[824] = "1300-0-0-10000",
+					[1602] = "0-0-0-0",
+					[1716] = "290-0-0-0",
 				},
 				["Currencies"] = {
 					{
@@ -79,7 +81,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 8,
-						["count"] = 26,
+						["count"] = 0,
 					}, -- [10]
 					{
 						["isHeader"] = false,
@@ -98,59 +100,69 @@ DataStore_CurrenciesDB = {
 					}, -- [13]
 					{
 						["isHeader"] = true,
-						["index"] = 12,
+						["index"] = 31,
 						["count"] = 0,
 					}, -- [14]
 					{
 						["isHeader"] = false,
+						["index"] = 32,
+						["count"] = 0,
+					}, -- [15]
+					{
+						["isHeader"] = true,
+						["index"] = 12,
+						["count"] = 0,
+					}, -- [16]
+					{
+						["isHeader"] = false,
 						["index"] = 13,
 						["count"] = 658,
-					}, -- [15]
+					}, -- [17]
 					{
 						["isHeader"] = false,
 						["index"] = 14,
 						["count"] = 62,
-					}, -- [16]
+					}, -- [18]
 					{
 						["isHeader"] = false,
 						["index"] = 15,
 						["count"] = 133,
-					}, -- [17]
+					}, -- [19]
 					{
 						["isHeader"] = false,
 						["index"] = 16,
 						["count"] = 4841,
-					}, -- [18]
+					}, -- [20]
 					{
 						["isHeader"] = false,
 						["index"] = 17,
 						["count"] = 683,
-					}, -- [19]
+					}, -- [21]
 					{
 						["isHeader"] = false,
 						["index"] = 18,
 						["count"] = 1,
-					}, -- [20]
+					}, -- [22]
 					{
 						["isHeader"] = false,
 						["index"] = 20,
 						["count"] = 847,
-					}, -- [21]
+					}, -- [23]
 					{
 						["isHeader"] = false,
 						["index"] = 21,
 						["count"] = 807,
-					}, -- [22]
+					}, -- [24]
 					{
 						["isHeader"] = true,
 						["index"] = 22,
 						["count"] = 0,
-					}, -- [23]
+					}, -- [25]
 					{
 						["isHeader"] = false,
 						["index"] = 24,
 						["count"] = 1300,
-					}, -- [24]
+					}, -- [26]
 				},
 				["Conquest"] = 0,
 				["Archeology"] = {
@@ -175,7 +187,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1606083269,
+				["lastUpdate"] = 1606295265,
 			},
 			["Default.Area 52.Toshdruid"] = {
 				["CurrencyInfo"] = {
@@ -186,6 +198,7 @@ DataStore_CurrenciesDB = {
 					[994] = "1-0-0-20",
 					[1275] = "57-0-0-0",
 					[1710] = "10-0-0-0",
+					[824] = "1367-0-0-10000",
 					[1803] = "723-0-0-0",
 					[1155] = "182-0-0-2000",
 					[1342] = "153-0-0-1000",
@@ -194,13 +207,13 @@ DataStore_CurrenciesDB = {
 					[823] = "2748-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "20-0-0-0",
-					[1220] = "2558-0-0-0",
 					[1166] = "1140-0-0-0",
+					[1220] = "2558-0-0-0",
 					[1226] = "1981-0-0-0",
 					[1268] = "27-0-0-1000",
 					[1755] = "19431-0-0-0",
 					[1508] = "1039-0-0-2000",
-					[824] = "1367-0-0-10000",
+					[1602] = "0-0-0-0",
 					[241] = "6-0-0-0",
 				},
 				["Currencies"] = {
@@ -261,89 +274,99 @@ DataStore_CurrenciesDB = {
 					}, -- [11]
 					{
 						["isHeader"] = true,
-						["index"] = 12,
+						["index"] = 31,
 						["count"] = 0,
 					}, -- [12]
 					{
 						["isHeader"] = false,
+						["index"] = 32,
+						["count"] = 0,
+					}, -- [13]
+					{
+						["isHeader"] = true,
+						["index"] = 12,
+						["count"] = 0,
+					}, -- [14]
+					{
+						["isHeader"] = false,
 						["index"] = 13,
 						["count"] = 182,
-					}, -- [13]
+					}, -- [15]
 					{
 						["isHeader"] = false,
 						["index"] = 14,
 						["count"] = 57,
-					}, -- [14]
+					}, -- [16]
 					{
 						["isHeader"] = false,
 						["index"] = 15,
 						["count"] = 153,
-					}, -- [15]
+					}, -- [17]
 					{
 						["isHeader"] = false,
 						["index"] = 16,
 						["count"] = 1981,
-					}, -- [16]
+					}, -- [18]
 					{
 						["isHeader"] = false,
 						["index"] = 17,
 						["count"] = 2558,
-					}, -- [17]
+					}, -- [19]
 					{
 						["isHeader"] = false,
 						["index"] = 18,
 						["count"] = 6,
-					}, -- [18]
+					}, -- [20]
 					{
 						["isHeader"] = false,
 						["index"] = 19,
 						["count"] = 27,
-					}, -- [19]
+					}, -- [21]
 					{
 						["isHeader"] = false,
 						["index"] = 20,
 						["count"] = 1039,
-					}, -- [20]
+					}, -- [22]
 					{
 						["isHeader"] = false,
 						["index"] = 21,
 						["count"] = 20,
-					}, -- [21]
+					}, -- [23]
 					{
 						["isHeader"] = true,
 						["index"] = 22,
 						["count"] = 0,
-					}, -- [22]
+					}, -- [24]
 					{
 						["isHeader"] = false,
 						["index"] = 23,
 						["count"] = 2748,
-					}, -- [23]
+					}, -- [25]
 					{
 						["isHeader"] = false,
 						["index"] = 24,
 						["count"] = 1367,
-					}, -- [24]
+					}, -- [26]
 					{
 						["isHeader"] = false,
 						["index"] = 25,
 						["count"] = 1,
-					}, -- [25]
+					}, -- [27]
 					{
 						["isHeader"] = true,
 						["index"] = 26,
 						["count"] = 0,
-					}, -- [26]
+					}, -- [28]
 					{
 						["isHeader"] = false,
 						["index"] = 27,
 						["count"] = 6,
-					}, -- [27]
+					}, -- [29]
 					{
 						["isHeader"] = false,
 						["index"] = 28,
 						["count"] = 2,
-					}, -- [28]
+					}, -- [30]
 				},
 				["Conquest"] = 0,
 				["Archeology"] = {
@@ -368,118 +391,158 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1606083393,
+				["lastUpdate"] = 1606295241,
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["CurrencyInfo"] = {
+					[1820] = "37-0-0-100",
+					[1792] = "16-0-0-15000",
 					[1580] = "4-0-0-5",
-					[1719] = "11914-0-0-0",
+					[1767] = "1354-0-0-0",
+					[823] = "9823-0-0-0",
 					[824] = "1357-0-0-10000",
 					[1710] = "258-0-0-0",
-					[1716] = "363-0-0-0",
-					[1166] = "600-0-0-0",
-					[1560] = "10892-0-0-0",
-					[1803] = "24994-0-0-0",
-					[823] = "9823-0-0-0",
-					[1721] = "148-0-0-0",
 					[1155] = "250-0-0-300",
-					[1755] = "55876-0-0-0",
-					[1718] = "0-0-0-0",
+					[1560] = "10892-0-0-0",
 					[1220] = "495-0-0-0",
+					[1718] = "0-0-0-0",
+					[1719] = "11914-0-0-0",
+					[1813] = "93-0-0-35000",
+					[1721] = "148-0-0-0",
+					[1166] = "600-0-0-0",
+					[1755] = "55876-0-0-0",
+					[1716] = "363-0-0-0",
+					[1602] = "0-0-0-0",
+					[1803] = "24994-0-0-0",
 				},
-				["lastUpdate"] = 1606193136,
+				["lastUpdate"] = 1606295136,
 				["Conquest"] = 15,
 				["Currencies"] = {
 					{
 						["isHeader"] = true,
-						["index"] = 1,
+						["index"] = 33,
 						["count"] = 0,
 					}, -- [1]
 					{
 						["isHeader"] = false,
-						["index"] = 3,
-						["count"] = 55876,
+						["index"] = 34,
+						["count"] = 37,
 					}, -- [2]
 					{
 						["isHeader"] = false,
-						["index"] = 29,
-						["count"] = 11914,
+						["index"] = 36,
+						["count"] = 93,
 					}, -- [3]
 					{
 						["isHeader"] = false,
-						["index"] = 4,
-						["count"] = 24994,
+						["index"] = 37,
+						["count"] = 1354,
 					}, -- [4]
-					{
-						["isHeader"] = false,
-						["index"] = 5,
-						["count"] = 363,
-					}, -- [5]
-					{
-						["isHeader"] = false,
-						["index"] = 30,
-						["count"] = 148,
-					}, -- [6]
-					{
-						["isHeader"] = false,
-						["index"] = 6,
-						["count"] = 258,
-					}, -- [7]
-					{
-						["isHeader"] = false,
-						["index"] = 7,
-						["count"] = 4,
-					}, -- [8]
-					{
-						["isHeader"] = false,
-						["index"] = 8,
-						["count"] = 0,
-					}, -- [9]
-					{
-						["isHeader"] = false,
-						["index"] = 9,
-						["count"] = 10892,
-					}, -- [10]
 					{
 						["isHeader"] = true,
 						["index"] = 10,
 						["count"] = 0,
-					}, -- [11]
+					}, -- [5]
 					{
 						["isHeader"] = false,
 						["index"] = 11,
 						["count"] = 600,
+					}, -- [6]
+					{
+						["isHeader"] = true,
+						["index"] = 31,
+						["count"] = 0,
+					}, -- [7]
+					{
+						["isHeader"] = false,
+						["index"] = 32,
+						["count"] = 0,
+					}, -- [8]
+					{
+						["isHeader"] = false,
+						["index"] = 35,
+						["count"] = 16,
+					}, -- [9]
+					{
+						["isHeader"] = true,
+						["index"] = 1,
+						["count"] = 0,
+					}, -- [10]
+					{
+						["isHeader"] = false,
+						["index"] = 3,
+						["count"] = 55876,
+					}, -- [11]
+					{
+						["isHeader"] = false,
+						["index"] = 29,
+						["count"] = 11914,
 					}, -- [12]
+					{
+						["isHeader"] = false,
+						["index"] = 4,
+						["count"] = 24994,
+					}, -- [13]
+					{
+						["isHeader"] = false,
+						["index"] = 5,
+						["count"] = 363,
+					}, -- [14]
+					{
+						["isHeader"] = false,
+						["index"] = 30,
+						["count"] = 148,
+					}, -- [15]
+					{
+						["isHeader"] = false,
+						["index"] = 6,
+						["count"] = 258,
+					}, -- [16]
+					{
+						["isHeader"] = false,
+						["index"] = 7,
+						["count"] = 4,
+					}, -- [17]
+					{
+						["isHeader"] = false,
+						["index"] = 8,
+						["count"] = 0,
+					}, -- [18]
+					{
+						["isHeader"] = false,
+						["index"] = 9,
+						["count"] = 10892,
+					}, -- [19]
 					{
 						["isHeader"] = true,
 						["index"] = 12,
 						["count"] = 0,
-					}, -- [13]
+					}, -- [20]
 					{
 						["isHeader"] = false,
 						["index"] = 13,
 						["count"] = 250,
-					}, -- [14]
+					}, -- [21]
 					{
 						["isHeader"] = false,
 						["index"] = 17,
 						["count"] = 495,
-					}, -- [15]
+					}, -- [22]
 					{
 						["isHeader"] = true,
 						["index"] = 22,
 						["count"] = 0,
-					}, -- [16]
+					}, -- [23]
 					{
 						["isHeader"] = false,
 						["index"] = 23,
 						["count"] = 9823,
-					}, -- [17]
+					}, -- [24]
 					{
 						["isHeader"] = false,
 						["index"] = 24,
 						["count"] = 1357,
-					}, -- [18]
+					}, -- [25]
 				},
 				["Archeology"] = {
 					0, -- [1]
@@ -503,6 +566,84 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
+			},
+			["Default.Kil'jaeden.Toshdk"] = {
+				["CurrencyInfo"] = {
+					[1602] = "0-0-0-0",
+					[1580] = "5-0-0-5",
+					[1719] = "4439-0-0-0",
+					[1716] = "153-0-0-0",
+					[1803] = "12297-0-0-0",
+					[1721] = "229-0-0-0",
+					[1710] = "71-0-0-0",
+					[1560] = "10200-0-0-0",
+					[1718] = "0-0-0-0",
+					[1755] = "38580-0-0-0",
+				},
+				["Currencies"] = {
+					{
+						["isHeader"] = true,
+						["index"] = 1,
+						["count"] = 0,
+					}, -- [1]
+					{
+						["isHeader"] = false,
+						["index"] = 3,
+						["count"] = 38580,
+					}, -- [2]
+					{
+						["isHeader"] = false,
+						["index"] = 29,
+						["count"] = 4439,
+					}, -- [3]
+					{
+						["isHeader"] = false,
+						["index"] = 4,
+						["count"] = 12297,
+					}, -- [4]
+					{
+						["isHeader"] = false,
+						["index"] = 5,
+						["count"] = 153,
+					}, -- [5]
+					{
+						["isHeader"] = false,
+						["index"] = 30,
+						["count"] = 229,
+					}, -- [6]
+					{
+						["isHeader"] = false,
+						["index"] = 6,
+						["count"] = 71,
+					}, -- [7]
+					{
+						["isHeader"] = false,
+						["index"] = 7,
+						["count"] = 5,
+					}, -- [8]
+					{
+						["isHeader"] = false,
+						["index"] = 8,
+						["count"] = 0,
+					}, -- [9]
+					{
+						["isHeader"] = false,
+						["index"] = 9,
+						["count"] = 10200,
+					}, -- [10]
+					{
+						["isHeader"] = true,
+						["index"] = 31,
+						["count"] = 0,
+					}, -- [11]
+					{
+						["isHeader"] = false,
+						["index"] = 32,
+						["count"] = 0,
+					}, -- [12]
+				},
+				["Conquest"] = 0,
+				["lastUpdate"] = 1606295307,
 			},
 		},
 		["Reference"] = {
@@ -537,36 +678,50 @@ DataStore_CurrenciesDB = {
 				"Dalaran Jewelcrafter's Token|134138", -- [28]
 				"Corrupted Mementos|646678", -- [29]
 				"Prismatic Manapearl|463858", -- [30]
+				"Player vs. Player|", -- [31]
+				"Conquest|1523630", -- [32]
+				"Shadowlands|", -- [33]
+				"Infused Ruby|133250", -- [34]
+				"Honor|1455894", -- [35]
+				"Reservoir Anima|3528288", -- [36]
+				"Stygia|3743739", -- [37]
 			},
 			["CurrencyTextRev"] = {
 				["Ancient Mana"] = 13,
 				["Brawler's Gold"] = 2,
 				["Nethershard"] = 16,
-				["Seal of Broken Fate"] = 18,
-				["Corrupted Mementos"] = 29,
 				["Dungeon and Raid"] = 10,
-				["Titan Residuum"] = 8,
-				["Seal of Wartorn Fate"] = 7,
-				["Veiled Argunite"] = 20,
-				["Dalaran Jewelcrafter's Token"] = 28,
-				["Honorbound Service Medal"] = 5,
 				["Seafarer's Dubloon"] = 6,
-				["War Resources"] = 9,
-				["Timewarped Badge"] = 11,
-				["Curious Coin"] = 14,
-				["Battle for Azeroth"] = 1,
-				["Legion"] = 12,
 				["Order Resources"] = 17,
-				["Prismatic Manapearl"] = 30,
-				["Echoes of Ny'alotha"] = 4,
-				["Timeworn Artifact"] = 19,
+				["Veiled Argunite"] = 20,
+				["Honorbound Service Medal"] = 5,
+				["War Resources"] = 9,
 				["Coalescing Visions"] = 3,
-				["Wakening Essence"] = 21,
-				["Apexis Crystal"] = 23,
-				["Warlords of Draenor"] = 22,
-				["Garrison Resources"] = 24,
-				["Seal of Tempered Fate"] = 25,
+				["Reservoir Anima"] = 36,
+				["Battle for Azeroth"] = 1,
+				["Corrupted Mementos"] = 29,
+				["Conquest"] = 32,
+				["Dalaran Jewelcrafter's Token"] = 28,
+				["Seal of Wartorn Fate"] = 7,
+				["Stygia"] = 37,
 				["Wrath of the Lich King"] = 26,
+				["Seal of Tempered Fate"] = 25,
+				["Player vs. Player"] = 31,
+				["Timewarped Badge"] = 11,
+				["Infused Ruby"] = 34,
+				["Shadowlands"] = 33,
+				["Seal of Broken Fate"] = 18,
+				["Honor"] = 35,
+				["Titan Residuum"] = 8,
+				["Timeworn Artifact"] = 19,
+				["Legion"] = 12,
+				["Warlords of Draenor"] = 22,
+				["Curious Coin"] = 14,
+				["Apexis Crystal"] = 23,
+				["Wakening Essence"] = 21,
+				["Echoes of Ny'alotha"] = 4,
+				["Prismatic Manapearl"] = 30,
+				["Garrison Resources"] = 24,
 				["Champion's Seal"] = 27,
 				["Legionfall War Supplies"] = 15,
 			},

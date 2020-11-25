@@ -4,6 +4,7 @@ HandyNotes_Universal_ExplorerDB = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -13,6 +14,8 @@ HandyNotes_Universal_ExplorerDB = {
 		["Toshpriest - Azralon"] = {
 		},
 		["Daggny - Frostwolf"] = {
+		},
+		["Toshdk - Kil'jaeden"] = {
 		},
 		["Toshdruid - Area 52"] = {
 		},

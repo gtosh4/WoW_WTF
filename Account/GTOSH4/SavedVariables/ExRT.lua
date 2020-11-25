@@ -674,13 +674,13 @@ VExRT = {
 			["Agg-Area52"] = 63,
 			["Eau"] = 102,
 			["Shadowchill-Illidan"] = 251,
-			["Haiyue-Illidan"] = 257,
+			["Kwysea-KulTiras"] = 577,
 			["Solvèj"] = 259,
 			["Zanlet-Illidan"] = 63,
 			["Ebolaspread"] = 267,
 			["Ferus-Barthilas"] = 72,
+			["Haiyue-Illidan"] = 257,
 			["Arteoculto-Quel'Thalas"] = 253,
-			["Kwysea-KulTiras"] = 577,
 			["Timesmoney-Tichondrius"] = 262,
 			["Zéphýr-Illidan"] = 577,
 			["Xanthrel-Stormscale"] = 577,
@@ -1710,13 +1710,13 @@ VExRT = {
 	["WhoPulled"] = {
 	},
 	["Addon"] = {
-		["Scale"] = 1,
-		["Version"] = 4390,
-		["PreVersion"] = 4390,
-		["IconMiniMapLeft"] = -43.8422319805596,
-		["IconMiniMapTop"] = -66.91680427936467,
 		["IconMiniMapHide"] = true,
+		["Version"] = 4390,
+		["Scale"] = 1,
+		["PreVersion"] = 4390,
+		["IconMiniMapTop"] = -66.91680427936467,
 		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = -43.8422319805596,
 	},
 	["RaidCheck"] = {
 		["ReadyCheckFrameOnlyRL"] = true,
@@ -1727,22 +1727,7 @@ VExRT = {
 		["ReadyCheckLeft"] = 2007.500122070313,
 		["ReadyCheckTop"] = 1047.500122070313,
 	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
-		},
-	},
 	["Profiles"] = {
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["RaidGroups"] = {
-		["profiles"] = {
-		},
 	},
 	["LootHistory"] = {
 		["list"] = {
@@ -1965,6 +1950,7 @@ VExRT = {
 			"1605933522#2344#2217#16#Timesmoney-Tichondrius#7#1#item:174872::::::::50:65::6::1:28:786:::", -- [217]
 			"1605933526#2344#2217#16#Decision#4#1#item:174872::::::::50:65::6::1:28:786:::", -- [218]
 			"1605933529#2344#2217#16#Decision#4#1#item:174533::::::::50:65::6:6:4824:1808:6516:6515:1517:4786:1:28:786:::", -- [219]
+			"1606238995#0#2222#0#Yellowy#5#1#item:182561::::::::53:258::11:2:6706:6652:2:28:1324:9:53:::", -- [220]
 		},
 		["bossNames"] = {
 			[2281] = "Lady Jaina Proudmoore",
@@ -1982,8 +1968,24 @@ VExRT = {
 			[2343] = "Drest'agath",
 		},
 		["instanceNames"] = {
-			[2217] = "Ny'alotha, the Waking City",
 			[2070] = "Battle of Dazar'alor",
+			[2222] = "The Shadowlands",
+			[2217] = "Ny'alotha, the Waking City",
+		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["RaidGroups"] = {
+		["profiles"] = {
+		},
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
 		},
 	},
 	["Logging"] = {

@@ -1,11 +1,4 @@
 Version: 1
-Frame: TooltipMover
-FrameLevel: 2
-Anchor: RIGHT
-X: -308
-Y: 223
-W: 150
-H: 80
 Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
 Anchor: RIGHT
@@ -13,6 +6,13 @@ X: -6
 Y: 74
 W: 235
 H: 700
+Frame: TooltipMover
+FrameLevel: 2
+Anchor: RIGHT
+X: -308
+Y: 223
+W: 150
+H: 80
 Frame: Grid2LayoutFrame
 FrameLevel: 1
 Anchor: CENTER

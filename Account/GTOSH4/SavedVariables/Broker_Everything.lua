@@ -64,7 +64,7 @@ Broker_Everything_CharacterDB = {
 			["learnedRecipes"] = {
 			},
 		},
-		["level"] = 53,
+		["level"] = 60,
 		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
@@ -138,7 +138,7 @@ Broker_Everything_CharacterDB = {
 		["faction"] = "Horde",
 		["orderId"] = 4,
 		["class"] = "DEATHKNIGHT",
-		["level"] = 120,
+		["level"] = 50,
 	},
 	["Toshlongboyr-Eldre'Thalas"] = {
 		["race"] = "BloodElf",
@@ -181,11 +181,8 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -219,10 +216,13 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
 			["Equipment"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},

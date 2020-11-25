@@ -2,6 +2,7 @@
 BetterWardrobe_Options = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
@@ -13,6 +14,7 @@ BetterWardrobe_Options = {
 BetterWardrobe_CharacterData = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -228,6 +230,7 @@ BetterWardrobe_SavedSetData = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -239,6 +242,7 @@ BetterWardrobe_SavedSetData = {
 BetterWardrobe_SubstituteItemData = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
@@ -251,6 +255,7 @@ BetterWardrobe_ListData = {
 	["favoritesDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 			["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 			["Toshpal - Area 52"] = "Toshpal - Area 52",
 		},
@@ -264,11 +269,14 @@ BetterWardrobe_ListData = {
 	["collectionListDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 			["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 			["Toshpal - Area 52"] = "Toshpal - Area 52",
 		},
 		["profiles"] = {
 			["Toshpriest - Area 52"] = {
+			},
+			["Toshdk - Kil'jaeden"] = {
 			},
 			["Toshdruid - Area 52"] = {
 			},
@@ -284,6 +292,7 @@ BetterWardrobe_ListData = {
 	["OutfitDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 			["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 			["Toshpal - Area 52"] = "Toshpal - Area 52",
 		},
@@ -292,6 +301,7 @@ BetterWardrobe_ListData = {
 	["HiddenAppearanceDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+			["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 			["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 			["Toshpal - Area 52"] = "Toshpal - Area 52",
 		},

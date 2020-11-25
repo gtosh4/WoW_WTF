@@ -2,13 +2,14 @@
 DataStore_CraftsDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1606081951,
+				["lastUpdate"] = 1606295265,
 				["Prof2"] = "Alchemy",
 				["Professions"] = {
 					["Fishing"] = {
@@ -24,7 +25,7 @@ DataStore_CraftsDB = {
 				["Prof1"] = "Blacksmithing",
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["lastUpdate"] = 1606083393,
+				["lastUpdate"] = 1606295241,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Cooking"] = {
@@ -49,8 +50,11 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Tailoring",
-				["lastUpdate"] = 1606193136,
+				["lastUpdate"] = 1606294549,
 				["Prof1"] = "Alchemy",
+			},
+			["Default.Kil'jaeden.Toshdk"] = {
+				["lastUpdate"] = 1606295307,
 			},
 		},
 	},
@@ -58,6 +62,7 @@ DataStore_CraftsDB = {
 DataStore_CraftsRefDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},

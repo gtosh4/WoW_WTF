@@ -255,13 +255,13 @@ GladiusExDB = {
 			["showParty"] = false,
 		},
 		["Toshdk - Kil'jaeden"] = {
-			["locked"] = true,
 			["showParty"] = false,
+			["locked"] = true,
 		},
 		["Default"] = {
+			["locked"] = true,
 			["globalBarTexture"] = "Smooth v2",
 			["showParty"] = false,
-			["locked"] = true,
 		},
 		["Daggny - Frostwolf"] = {
 		},

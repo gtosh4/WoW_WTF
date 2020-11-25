@@ -1,11 +1,4 @@
 Version: 1
-Frame: TooltipMover
-FrameLevel: 3
-Anchor: RIGHT
-X: -346
-Y: 176
-W: 150
-H: 80
 Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
 Anchor: RIGHT
@@ -111,10 +104,3 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: DetailsPluginContainerWindow
-FrameLevel: 1
-Anchor: TOP
-X: -175
-Y: -107
-W: 925
-H: 600

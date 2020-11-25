@@ -2,7 +2,7 @@
 AchievementTrackerOptions = {
 	["toggleSoundFailed"] = false,
 	["showMinimap"] = false,
-	["onlyTrackMissingAchievements"] = false,
+	["toggleSound"] = false,
 	["displayInfoFrame"] = true,
 	["enableAutomaticCombatLogging"] = false,
 	["greyOutCompletedAchievements"] = false,
@@ -10,11 +10,11 @@ AchievementTrackerOptions = {
 	["announceToRaidWarning"] = true,
 	["trackingFrameXPos"] = 1758.333374023438,
 	["trackingFrameYPos"] = 722.5,
-	["trackCharacterAchievements"] = false,
-	["hideCompletedAchievements"] = false,
 	["enableAddon"] = true,
+	["hideCompletedAchievements"] = false,
+	["trackCharacterAchievements"] = false,
 	["trackAchievementsInBlizzardUI"] = false,
-	["toggleSound"] = false,
+	["onlyTrackMissingAchievements"] = false,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -1131,4 +1131,24 @@ AchievementTrackerDebug = {
 	"22/11/2020 17:15 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1112]
 	"22/11/2020 17:16 [DEBUG] Hiding Minimap Icon", -- [1113]
 	"22/11/2020 17:16 [DEBUG] NPC cache generated", -- [1114]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1115]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.4.0", -- [1116]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [1117]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [1118]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1119]
+	"25/11/2020 4:6 [DEBUG] Hiding Minimap Icon", -- [1120]
+	"25/11/2020 4:6 [DEBUG] ---IAT Runtime---", -- [1121]
+	"25/11/2020 4:6 [DEBUG] Version: 3.4.0", -- [1122]
+	"25/11/2020 4:6 [DEBUG] Generating NPC Cache...", -- [1123]
+	"25/11/2020 4:6 [DEBUG] Enabling Addon", -- [1124]
+	"25/11/2020 4:6 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1125]
+	"25/11/2020 4:7 [DEBUG] Hiding Minimap Icon", -- [1126]
+	"25/11/2020 4:7 [DEBUG] NPC cache generated", -- [1127]
+	"25/11/2020 4:7 [DEBUG] ---IAT Runtime---", -- [1128]
+	"25/11/2020 4:7 [DEBUG] Version: 3.4.0", -- [1129]
+	"25/11/2020 4:7 [DEBUG] Generating NPC Cache...", -- [1130]
+	"25/11/2020 4:7 [DEBUG] Enabling Addon", -- [1131]
+	"25/11/2020 4:7 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1132]
+	"25/11/2020 1:7 [DEBUG] Hiding Minimap Icon", -- [1133]
+	"25/11/2020 1:8 [DEBUG] NPC cache generated", -- [1134]
 }

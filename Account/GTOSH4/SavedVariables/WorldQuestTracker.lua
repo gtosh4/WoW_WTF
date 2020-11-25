@@ -252,6 +252,13 @@ WQTrackerDB = {
 			["quests_all_characters"] = {
 				["Player-3676-0AD8DD4D"] = {
 				},
+				["Player-9-0A76FA3F"] = {
+					[51049] = {
+						["expireAt"] = 1597244503,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 2065568,
+					},
+				},
 				["Player-3676-0AD945E6"] = {
 					[49013] = {
 						["expireAt"] = 1595314809,
@@ -301,11 +308,61 @@ WQTrackerDB = {
 				},
 				["Player-3676-0B20F78C"] = {
 				},
-				["Player-9-0A76FA3F"] = {
-					[51049] = {
-						["expireAt"] = 1597244503,
-						["rewardAmount"] = "5",
-						["rewardTexture"] = 2065568,
+				["Player-3676-0D0FE5F5"] = {
+					[61342] = {
+						["expireAt"] = 1606350998,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[58605] = {
+						["expireAt"] = 1606316438,
+						["rewardAmount"] = "|cff2292FF148",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[60623] = {
+						["expireAt"] = 1606316487,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61141] = {
+						["expireAt"] = 1606299158,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61352] = {
+						["expireAt"] = 1606368278,
+						["rewardAmount"] = 140,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[59680] = {
+						["expireAt"] = 1606368327,
+						["rewardAmount"] = 0,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[61946] = {
+						["expireAt"] = 1606316495,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 667493,
+					},
+					[61783] = {
+						["expireAt"] = 1606316487,
+						["rewardAmount"] = "12",
+						["rewardTexture"] = 2004597,
+					},
+					[59743] = {
+						["expireAt"] = 1606333718,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61866] = {
+						["expireAt"] = 1606316438,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 133675,
+					},
+					[61886] = {
+						["expireAt"] = 1606316445,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045108,
 					},
 				},
 			},
@@ -384,16 +441,20 @@ WQTrackerDB = {
 			["history"] = {
 				["quest"] = {
 					["global"] = {
-						["total"] = 9,
+						["total"] = 13,
 						[57540] = 1,
 						[57218] = 1,
 						[55359] = 1,
-						[57146] = 1,
+						[59617] = 1,
 						[55358] = 1,
-						[56090] = 1,
-						[51043] = 1,
 						[52421] = 1,
+						[57146] = 1,
+						[59599] = 1,
+						[56090] = 1,
 						[56180] = 1,
+						[51043] = 1,
+						[62241] = 1,
+						[60653] = 1,
 					},
 					["character"] = {
 						["Player-3676-0AD8DD4D"] = {
@@ -411,11 +472,18 @@ WQTrackerDB = {
 							[55358] = 1,
 							[56180] = 1,
 						},
+						["Player-3676-0D0FE5F5"] = {
+							[59599] = 1,
+							[59617] = 1,
+							[60653] = 1,
+							[62241] = 1,
+							["total"] = 4,
+						},
 					},
 				},
 				["period"] = {
 					["global"] = {
-						["200816"] = {
+						["200808"] = {
 							["quest"] = 1,
 						},
 						["200817"] = {
@@ -424,11 +492,15 @@ WQTrackerDB = {
 								[152668] = 1,
 							},
 						},
+						["201125"] = {
+							["quest"] = 4,
+							["artifact"] = 245,
+						},
 						["200827"] = {
 							["quest"] = 6,
 							["resource"] = 50,
 						},
-						["200808"] = {
+						["200816"] = {
 							["quest"] = 1,
 						},
 					},
@@ -456,10 +528,17 @@ WQTrackerDB = {
 								["quest"] = 5,
 							},
 						},
+						["Player-3676-0D0FE5F5"] = {
+							["201125"] = {
+								["quest"] = 4,
+								["artifact"] = 245,
+							},
+						},
 					},
 				},
 				["reward"] = {
 					["global"] = {
+						["artifact"] = 245,
 						["resource"] = 50,
 						["profession"] = {
 							[152668] = 1,
@@ -473,6 +552,9 @@ WQTrackerDB = {
 							["profession"] = {
 								[152668] = 1,
 							},
+						},
+						["Player-3676-0D0FE5F5"] = {
+							["artifact"] = 245,
 						},
 					},
 				},
