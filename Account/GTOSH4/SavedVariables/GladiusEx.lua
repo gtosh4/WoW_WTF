@@ -221,9 +221,9 @@ GladiusExDB = {
 		},
 		["party_Clicks"] = {
 		},
-		["party_Interrupts"] = {
-		},
 		["Announcements"] = {
+		},
+		["party_Interrupts"] = {
 		},
 		["Alerts"] = {
 		},
@@ -255,13 +255,13 @@ GladiusExDB = {
 			["showParty"] = false,
 		},
 		["Toshdk - Kil'jaeden"] = {
-			["showParty"] = false,
 			["locked"] = true,
+			["showParty"] = false,
 		},
 		["Default"] = {
-			["locked"] = true,
 			["globalBarTexture"] = "Smooth v2",
 			["showParty"] = false,
+			["locked"] = true,
 		},
 		["Daggny - Frostwolf"] = {
 		},

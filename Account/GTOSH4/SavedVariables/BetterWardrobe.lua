@@ -109,7 +109,8 @@ BetterWardrobe_SavedSetData = {
 			},
 			["Toshpal - Area 52"] = {
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -117,8 +118,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						69101, -- [1]
 						0, -- [2]
@@ -140,15 +140,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "purp",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5000,
 					["uiOrder"] = 100,
 					["icon"] = 133077,
-					["isClass"] = true,
+					["name"] = "purp",
 				}, -- [1]
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -156,8 +157,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -179,15 +179,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "tov",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5001,
 					["uiOrder"] = 200,
 					["icon"] = 1360261,
-					["isClass"] = true,
+					["name"] = "tov",
 				}, -- [2]
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -195,8 +196,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -218,12 +218,12 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "roman",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5002,
 					["uiOrder"] = 300,
 					["icon"] = 1360261,
-					["isClass"] = true,
+					["name"] = "roman",
 				}, -- [3]
 			},
 		},
@@ -295,6 +295,13 @@ BetterWardrobe_ListData = {
 			["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 			["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 			["Toshpal - Area 52"] = "Toshpal - Area 52",
+		},
+		["char"] = {
+			["Toshpriest - Area 52"] = {
+				["lastTransmogOutfitIDSpec"] = {
+					[3] = "1",
+				},
+			},
 		},
 	},
 	["lastUpdte"] = 1,

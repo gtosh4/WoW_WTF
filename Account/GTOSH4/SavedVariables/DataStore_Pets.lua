@@ -168,7 +168,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1606294549,
+				["lastUpdate"] = 1606379323,
 				["CRITTER"] = {
 					315229, -- [1]
 					301137, -- [2]

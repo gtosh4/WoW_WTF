@@ -5,20 +5,20 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["faction"] = 1,
 		["unit"] = "Toshmonk-Kil'jaeden",
+		["faction"] = 1,
 	}, -- [1]
 	{
 		["weekly_best"] = 0,
 		["class"] = "SHAMAN",
-		["unit"] = "Toshaman-Area52",
 		["faction"] = 1,
+		["unit"] = "Toshaman-Area52",
 	}, -- [2]
 	{
 		["weekly_best"] = 0,
 		["class"] = "MONK",
-		["faction"] = 1,
 		["unit"] = "Toshmonk-Area52",
+		["faction"] = 1,
 	}, -- [3]
 }
 AstralKeysSettings = {
@@ -32,10 +32,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = false,
 			["party"] = true,
-			["guild"] = false,
 			["raid"] = false,
+			["guild"] = false,
+			["no_key"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -48,14 +48,6 @@ AstralKeysSettings = {
 		},
 	},
 	["new_settings_config"] = true,
-	["friendOptions"] = {
-		["friend_sync"] = {
-			["isEnabled"] = true,
-		},
-		["show_other_faction"] = {
-			["isEnabled"] = true,
-		},
-	},
 	["frame"] = {
 		["rank_filter"] = {
 			true, -- [1]
@@ -69,9 +61,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "GUILD",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -80,24 +70,34 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "GUILD",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
 	},
 }
 AstralMinimap = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
 		},
-		["Toshmonk - Area 52"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshmonk - Kil'jaeden"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Toshmonk - Area 52"] = {
 		},
 	},
 }
@@ -120,20 +120,20 @@ AstralLists = {
 			["Slurry-Kil'jaeden"] = true,
 			["Papisalad-Kil'jaeden"] = true,
 			["Yukios-Kil'jaeden"] = "YukioX#1520",
-			["Ceesong-Kil'jaeden"] = "Emosong#1897",
-			["Royalty-Area52"] = true,
-			["Hoofshots-Kil'jaeden"] = true,
-			["Scitron-Area52"] = true,
-			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Orcbum-Kil'jaeden"] = "bum#1748",
+			["Rathux-Area52"] = true,
 			["Emosong-Kil'jaeden"] = "Emosong#1897",
-			["Race-Area52"] = true,
 			["Woesong-Area52"] = true,
+			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Hoofshots-Kil'jaeden"] = true,
+			["Race-Area52"] = true,
+			["Scitron-Area52"] = true,
 			["Artsong-Area52"] = true,
 			["Alyasta-Area52"] = true,
 			["Gummybuns-Area52"] = true,
 			["Enols-Kil'jaeden"] = true,
-			["Rathux-Area52"] = true,
-			["Orcbum-Kil'jaeden"] = "bum#1748",
+			["Royalty-Area52"] = true,
+			["Ceesong-Kil'jaeden"] = "Emosong#1897",
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [1]
@@ -142,17 +142,17 @@ AstralLists = {
 		["units"] = {
 			["Mattea-Kil'jaeden"] = "boochan#1194",
 			["Baesong-Kil'jaeden"] = "Emosong#1897",
-			["Orcbum-Kil'jaeden"] = "bum#1748",
+			["Scitron-Area52"] = "Sci#11555",
 			["Ngow-Kil'jaeden"] = "boochan#1194",
 			["Emosong-Kil'jaeden"] = "Emosong#1897",
 			["Yukiox-Area52"] = "YukioX#1520",
-			["Scitron-Area52"] = "Sci#11555",
+			["Orcbum-Kil'jaeden"] = "bum#1748",
 			["Yukios-Kil'jaeden"] = "YukioX#1520",
 			["Illsong-Area52"] = "Emosong#1897",
-			["Andruw-Area52"] = "Drew#13709",
-			["Woesong-Area52"] = "Emosong#1897",
-			["Artsong-Area52"] = "Emosong#1897",
 			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Artsong-Area52"] = "Emosong#1897",
+			["Woesong-Area52"] = "Emosong#1897",
+			["Andruw-Area52"] = "Drew#13709",
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [2]

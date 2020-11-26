@@ -50,7 +50,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Tailoring",
-				["lastUpdate"] = 1606294549,
+				["lastUpdate"] = 1606379277,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
