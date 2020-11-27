@@ -16,18 +16,16 @@ DataStore_AgendaDB = {
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["DungeonIDs"] = {
-					[410794240] = {
-						["name"] = "Theater of Pain Mythic",
+					[410779638] = {
+						["name"] = "Mists of Tirna Scithe Mythic",
 						["resetTime"] = 1606834799,
-						["numEncounters"] = 5,
+						["numEncounters"] = 3,
 						["bosses"] = {
-							["Gorechop"] = true,
-							["An Affront of Challengers"] = true,
-							["Xav the Unfallen"] = true,
-							["Mordretha"] = true,
-							["Kul'tharok"] = true,
+							["Mistcaller"] = true,
+							["Tred'ova"] = true,
+							["Ingra Maloch"] = true,
 						},
-						["progress"] = 5,
+						["progress"] = 3,
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
@@ -101,6 +99,21 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
+					[410794240] = {
+						["name"] = "Theater of Pain Mythic",
+						["resetTime"] = 1606834799,
+						["numEncounters"] = 5,
+						["bosses"] = {
+							["Gorechop"] = true,
+							["An Affront of Challengers"] = true,
+							["Xav the Unfallen"] = true,
+							["Mordretha"] = true,
+							["Kul'tharok"] = true,
+						},
+						["progress"] = 5,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
 					[410804207] = {
 						["name"] = "Sanguine Depths Mythic",
 						["resetTime"] = 1606834799,
@@ -115,21 +128,11 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[410779638] = {
-						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1606834799,
-						["numEncounters"] = 3,
-						["bosses"] = {
-							["Mistcaller"] = true,
-							["Tred'ova"] = true,
-							["Ingra Maloch"] = true,
-						},
-						["progress"] = 3,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
 				},
-				["lastUpdate"] = 1606379279,
+				["lastUpdate"] = 1606444056,
+				["Contacts"] = {
+					--[[ skipped entry with table key ]]
+				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["lastUpdate"] = 1606295309,

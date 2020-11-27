@@ -125,7 +125,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1606350590,
+				["lastUpdate"] = 1606462192,
 				["Spells"] = {
 					["Mistweaver"] = {
 						29555200, -- [1]

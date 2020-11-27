@@ -12,13 +12,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1606083268,
 				["Mails"] = {
 					{
-						["icon"] = 134327,
+						["lastCheck"] = 1606083268,
 						["sender"] = "The WoW Dev Team",
 						["subject"] = "WoW's 16th Anniversary!",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Wow, yet another year has gone by for WoW!\r\n\r\nWe wanted to thank you for continuing to play World of Warcraft with us, so here's an Anniversary Gift to go with your adventures!\r\n\r\nWe hope that you will join us for a celebration in the Caverns of Time!\r\n\r\nThe WoW Dev Team",
-						["lastCheck"] = 1606083268,
+						["icon"] = 134327,
 						["daysLeft"] = 14.18564796447754,
 					}, -- [1]
 				},
@@ -28,13 +28,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1605948595,
 				["Mails"] = {
 					{
-						["icon"] = 134327,
+						["lastCheck"] = 1605948595,
 						["sender"] = "The WoW Dev Team",
 						["subject"] = "WoW's 16th Anniversary!",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Wow, yet another year has gone by for WoW!\r\n\r\nWe wanted to thank you for continuing to play World of Warcraft with us, so here's an Anniversary Gift to go with your adventures!\r\n\r\nWe hope that you will join us for a celebration in the Caverns of Time!\r\n\r\nThe WoW Dev Team",
-						["lastCheck"] = 1605948595,
+						["icon"] = 134327,
 						["daysLeft"] = 29.99828720092773,
 					}, -- [1]
 				},
@@ -48,8 +48,8 @@ DataStore_MailsDB = {
 						["subject"] = "Retrieving data",
 						["returned"] = false,
 						["money"] = 2308600,
-						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
 						["lastCheck"] = 1606169640,
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
 						["daysLeft"] = 30,
 					}, -- [1]
 					{
@@ -57,8 +57,8 @@ DataStore_MailsDB = {
 						["subject"] = "Retrieving data",
 						["returned"] = false,
 						["money"] = 35340100,
-						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
 						["lastCheck"] = 1606169640,
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
 						["daysLeft"] = 30,
 					}, -- [2]
 					{
@@ -66,8 +66,8 @@ DataStore_MailsDB = {
 						["subject"] = "Retrieving data",
 						["returned"] = false,
 						["money"] = 7087200,
-						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
 						["lastCheck"] = 1606169640,
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
 						["daysLeft"] = 30,
 					}, -- [3]
 				},

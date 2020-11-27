@@ -9,8 +9,6 @@ DataStore_CraftsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1606295265,
-				["Prof2"] = "Alchemy",
 				["Professions"] = {
 					["Fishing"] = {
 						["CurrentLevelName"] = "Zandalari Fishing",
@@ -22,11 +20,11 @@ DataStore_CraftsDB = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
 					},
 				},
+				["Prof2"] = "Alchemy",
+				["lastUpdate"] = 1606295265,
 				["Prof1"] = "Blacksmithing",
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["lastUpdate"] = 1606295241,
-				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Cooking"] = {
 						["CurrentLevelName"] = "Zandalari Cooking",
@@ -38,9 +36,13 @@ DataStore_CraftsDB = {
 						["CurrentLevelName"] = "Enchanting",
 					},
 				},
+				["Prof2"] = "Enchanting",
+				["lastUpdate"] = 1606295241,
 				["Prof1"] = "Leatherworking",
 			},
 			["Default.Area 52.Toshpriest"] = {
+				["lastUpdate"] = 1606444056,
+				["Prof2"] = "Tailoring",
 				["Professions"] = {
 					["Alchemy"] = {
 						["CurrentLevelName"] = "Zandalari Alchemy",
@@ -49,8 +51,6 @@ DataStore_CraftsDB = {
 						["CurrentLevelName"] = "Zandalari Tailoring",
 					},
 				},
-				["Prof2"] = "Tailoring",
-				["lastUpdate"] = 1606379277,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {

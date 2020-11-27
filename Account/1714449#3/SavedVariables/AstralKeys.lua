@@ -32,10 +32,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
 			["raid"] = false,
-			["guild"] = false,
+			["party"] = true,
 			["no_key"] = false,
+			["guild"] = false,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -124,7 +124,7 @@ AstralLists = {
 			["Rathux-Area52"] = true,
 			["Emosong-Kil'jaeden"] = "Emosong#1897",
 			["Woesong-Area52"] = true,
-			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Ceesong-Kil'jaeden"] = "Emosong#1897",
 			["Hoofshots-Kil'jaeden"] = true,
 			["Race-Area52"] = true,
 			["Scitron-Area52"] = true,
@@ -133,7 +133,7 @@ AstralLists = {
 			["Gummybuns-Area52"] = true,
 			["Enols-Kil'jaeden"] = true,
 			["Royalty-Area52"] = true,
-			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Ngow-Kil'jaeden"] = "boochan#1194",
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [1]
