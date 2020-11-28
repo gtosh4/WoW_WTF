@@ -379,12 +379,12 @@ DeathGraphsDBDeaths = {
 			["diff"] = 16,
 		},
 		["player_db"] = {
-			["Oharroo-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Oharroo-Tichondrius",
+			["Papisalad-Kil'jaeden"] = {
+				["name"] = "Papisalad-Kil'jaeden",
+				["class"] = "HUNTER",
 				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 			["Sageside-Kil'jaeden"] = {
@@ -459,12 +459,12 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Papisalad-Kil'jaeden"] = {
-				["name"] = "Papisalad-Kil'jaeden",
-				["class"] = "HUNTER",
-				["overall"] = {
-				},
+			["Oharroo-Tichondrius"] = {
 				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Oharroo-Tichondrius",
+				["overall"] = {
 				},
 			},
 			["Faultier-Kil'jaeden"] = {
@@ -507,12 +507,12 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Moldyonion-Tichondrius"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Moldyonion-Tichondrius",
+			["Jkhan-Tichondrius"] = {
+				["name"] = "Jkhan-Tichondrius",
+				["class"] = "PRIEST",
 				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 			["Choplo"] = {
@@ -523,20 +523,20 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Jkhan-Tichondrius"] = {
-				["name"] = "Jkhan-Tichondrius",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
+			["Iolanta-Feathermoon"] = {
 				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Iolanta-Feathermoon",
+				["overall"] = {
 				},
 			},
-			["Neyari"] = {
-				["name"] = "Neyari",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
+			["Moldyonion-Tichondrius"] = {
 				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Moldyonion-Tichondrius",
+				["overall"] = {
 				},
 			},
 			["Moonßlight"] = {
@@ -571,12 +571,12 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Iolanta-Feathermoon"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Iolanta-Feathermoon",
+			["Neyari"] = {
+				["name"] = "Neyari",
+				["class"] = "PALADIN",
 				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 			["Slurpinho"] = {
@@ -8313,11 +8313,11 @@ DeathGraphsDBGraph = {
 			[440] = {
 				1599283802, -- [1]
 			},
-			[85] = {
-				1599279302, -- [1]
-			},
 			[257] = {
 				1599278949, -- [1]
+			},
+			[85] = {
+				1599279302, -- [1]
 			},
 			[339] = {
 				1599282688, -- [1]

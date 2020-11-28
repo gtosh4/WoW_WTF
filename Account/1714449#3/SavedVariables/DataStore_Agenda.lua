@@ -8,10 +8,10 @@ DataStore_AgendaDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1606295228,
+				["lastUpdate"] = 1606539511,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1606462192,
+				["lastUpdate"] = 1606550404,
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["lastUpdate"] = 1606295252,

@@ -56,10 +56,10 @@ WQTrackerDB = {
 					["All-Seer Xanarian"] = 127096,
 					["Echo of Myzrael"] = 141668,
 					["Golrakahn"] = 124185,
-					["Foul Manifestation"] = 151202,
-					["Ven'orn"] = 126115,
 					["The Many-Faced Devourer"] = 127581,
+					["Ven'orn"] = 126115,
 					["Skreeg the Devourer"] = 126912,
+					["Foul Manifestation"] = 151202,
 					["Rumbling Goliath"] = 141620,
 					["Overseer Y'Beda"] = 124440,
 					["Earthliving Giant"] = 140760,
@@ -224,78 +224,98 @@ WQTrackerDB = {
 				},
 			},
 			["quests_tracked"] = {
-				["Player-3676-0AD945E6"] = {
-				},
 				["Player-3676-0AD945D6"] = {
+				},
+				["Player-9-0B608E72"] = {
 				},
 				["Player-3676-0AD143A0"] = {
 				},
-				["Player-9-0B608E72"] = {
+				["Player-3676-0AD945E6"] = {
 				},
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945D6"] = {
+					[59905] = {
+						["expireAt"] = 1606592891,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[59643] = {
+						["expireAt"] = 1606575611,
+						["rewardAmount"] = "|cff2292FF84",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+					},
+					[61879] = {
+						["expireAt"] = 1606575671,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 2004597,
+					},
 				},
 				["Player-3676-0AD945E6"] = {
 				},
 				["Player-9-0B608E72"] = {
-					[60649] = {
-						["expireAt"] = 1606489304,
-						["rewardAmount"] = 0,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[59601] = {
-						["expireAt"] = 1606489258,
+					[59905] = {
+						["expireAt"] = 1606592916,
 						["rewardAmount"] = 70,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[59680] = {
-						["expireAt"] = 1606506538,
+					[59642] = {
+						["expireAt"] = 1606592933,
 						["rewardAmount"] = 70,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[60844] = {
-						["expireAt"] = 1606471978,
+					[59804] = {
+						["expireAt"] = 1606610249,
+						["rewardAmount"] = "145",
+						["rewardTexture"] = 1450144,
+					},
+					[60911] = {
+						["expireAt"] = 1606575689,
 						["rewardAmount"] = 70,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[59705] = {
-						["expireAt"] = 1606523818,
-						["rewardAmount"] = 140,
+					[61539] = {
+						["expireAt"] = 1606558373,
+						["rewardAmount"] = 70,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[61946] = {
-						["expireAt"] = 1606489244,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045114,
+					[61791] = {
+						["expireAt"] = 1606575689,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 667493,
 					},
-					[61783] = {
-						["expireAt"] = 1606489258,
+					[61870] = {
+						["expireAt"] = 1606575653,
 						["rewardAmount"] = "16",
+						["rewardTexture"] = 2004597,
+					},
+					[61879] = {
+						["expireAt"] = 1606575636,
+						["rewardAmount"] = "20",
 						["rewardTexture"] = 2004597,
 					},
 				},
 			},
 			["player_names"] = {
-				["Player-3676-0AD945E6"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Area 52",
-				},
 				["Player-3676-0AD945D6"] = {
 					["class"] = "SHAMAN",
 					["name"] = "Toshaman",
-					["realm"] = "Area 52",
-				},
-				["Player-3676-0AD143A0"] = {
-					["class"] = "MONK",
-					["name"] = "Toshmonk",
 					["realm"] = "Area 52",
 				},
 				["Player-9-0B608E72"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Kil'jaeden",
+				},
+				["Player-3676-0AD143A0"] = {
+					["class"] = "MONK",
+					["name"] = "Toshmonk",
+					["realm"] = "Area 52",
+				},
+				["Player-3676-0AD945E6"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
+					["realm"] = "Area 52",
 				},
 			},
 			["history"] = {
@@ -308,6 +328,10 @@ WQTrackerDB = {
 							["artifact"] = 164,
 							["quest"] = 1,
 							["resource"] = 164,
+						},
+						["201127"] = {
+							["quest"] = 2,
+							["artifact"] = 105,
 						},
 						["201125"] = {
 							["artifact"] = 490,
@@ -337,14 +361,18 @@ WQTrackerDB = {
 							},
 						},
 						["Player-9-0B608E72"] = {
+							["201126"] = {
+								["quest"] = 1,
+								["artifact"] = 140,
+							},
+							["201127"] = {
+								["quest"] = 2,
+								["artifact"] = 105,
+							},
 							["201125"] = {
 								["artifact"] = 490,
 								["quest"] = 11,
 								["gold"] = 2525000,
-							},
-							["201126"] = {
-								["quest"] = 1,
-								["artifact"] = 140,
 							},
 						},
 					},
@@ -358,16 +386,18 @@ WQTrackerDB = {
 						[51051] = 1,
 						[56074] = 1,
 						[59703] = 1,
+						[59643] = 1,
 						[60574] = 1,
 						[59585] = 1,
 						[57540] = 1,
 						[59680] = 1,
 						[60739] = 1,
+						[59718] = 1,
 						[58975] = 1,
 						[61631] = 1,
 						[61352] = 1,
 						[57443] = 1,
-						["total"] = 16,
+						["total"] = 18,
 					},
 					["character"] = {
 						["Player-3676-0AD945E6"] = {
@@ -378,17 +408,19 @@ WQTrackerDB = {
 							[51051] = 1,
 						},
 						["Player-9-0B608E72"] = {
-							["total"] = 12,
+							["total"] = 14,
+							[59643] = 1,
 							[57443] = 1,
+							[59703] = 1,
 							[60654] = 1,
 							[61352] = 1,
 							[59680] = 1,
-							[59703] = 1,
+							[59718] = 1,
 							[61631] = 1,
 							[60574] = 1,
-							[60739] = 1,
-							[59585] = 1,
 							[58084] = 1,
+							[59585] = 1,
+							[60739] = 1,
 							[62241] = 1,
 							[58975] = 1,
 						},
@@ -396,7 +428,7 @@ WQTrackerDB = {
 				},
 				["reward"] = {
 					["global"] = {
-						["artifact"] = 794,
+						["artifact"] = 899,
 						["resource"] = 164,
 						["gold"] = 2525000,
 					},
@@ -406,7 +438,7 @@ WQTrackerDB = {
 							["resource"] = 164,
 						},
 						["Player-9-0B608E72"] = {
-							["artifact"] = 630,
+							["artifact"] = 735,
 							["gold"] = 2525000,
 						},
 					},

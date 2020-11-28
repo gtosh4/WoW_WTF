@@ -1,6 +1,6 @@
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast Summon Steward
+/click ExtraActionButton1
 END
 VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
 /script for i=1, 120 do PickupAction(i); ClearCursor(); end
@@ -35,6 +35,7 @@ VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
 /use Healthstone
 /use Coastal Healing Potion
+/use Rejuvenating Siphoned Essence
 END
 VER 3 000000000000002C "racial" "INV_MISC_QUESTIONMARK"
 #showtooltip

@@ -25,3 +25,5 @@ BigWigs_BattleOfDazaralor: enabled
 Blizzard_CompactRaidFrames: disabled
 Blizzard_CUFProfiles: disabled
 BigWigs_Nyalotha: enabled
+miirGui: disabled
+AAP-Core: disabled

@@ -28,3 +28,5 @@ LittleWigs: enabled
 AdiBags: enabled
 BigWigs_Nyalotha: enabled
 InstanceAchievementTracker: disabled
+miirGui: disabled
+AAP-Core: disabled

@@ -62,6 +62,13 @@ X: 415
 Y: 195
 W: 27
 H: 26
+Frame: Quartz3CastBarPet
+FrameLevel: 1
+Anchor: TOP
+X: -7
+Y: -258
+W: 210
+H: 35
 Frame: TalkingHeadFrame
 FrameLevel: 3
 Anchor: BOTTOM

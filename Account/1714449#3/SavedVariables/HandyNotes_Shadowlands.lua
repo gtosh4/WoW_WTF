@@ -7,6 +7,7 @@ HandyNotes_ShadowlandsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["icon_display_riftstone"] = true,
 		},
 	},
 }

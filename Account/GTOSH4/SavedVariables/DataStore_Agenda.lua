@@ -9,16 +9,30 @@ DataStore_AgendaDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1606295265,
+				["lastUpdate"] = 1606543001,
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["lastUpdate"] = 1606295241,
+				["lastUpdate"] = 1606539511,
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["DungeonIDs"] = {
+					[410804207] = {
+						["name"] = "Sanguine Depths Mythic",
+						["resetTime"] = 1606834798,
+						["numEncounters"] = 4,
+						["bosses"] = {
+							["General Kaal"] = true,
+							["Grand Proctor Beryllia"] = true,
+							["Executor Tarvold"] = true,
+							["Kryxis the Voracious"] = true,
+						},
+						["progress"] = 4,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
 					[410779638] = {
 						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1606834798,
 						["numEncounters"] = 3,
 						["bosses"] = {
 							["Mistcaller"] = true,
@@ -29,23 +43,9 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[410797648] = {
-						["name"] = "Plaguefall Mythic",
-						["resetTime"] = 1606834799,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["Domina Venomblade"] = true,
-							["Stradama Margrave"] = true,
-							["Doctor Ickus"] = true,
-							["Globgrog"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
 					[410789772] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1606834798,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -59,7 +59,7 @@ DataStore_AgendaDB = {
 					},
 					[410802226] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1606834798,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -73,7 +73,7 @@ DataStore_AgendaDB = {
 					},
 					[410781621] = {
 						["name"] = "De Other Side Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1606834798,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Dealer Xy'exa"] = true,
@@ -87,7 +87,7 @@ DataStore_AgendaDB = {
 					},
 					[410787466] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1606834798,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Oryphrion"] = true,
@@ -101,7 +101,7 @@ DataStore_AgendaDB = {
 					},
 					[410794240] = {
 						["name"] = "Theater of Pain Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1606834798,
 						["numEncounters"] = 5,
 						["bosses"] = {
 							["Gorechop"] = true,
@@ -114,22 +114,22 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[410804207] = {
-						["name"] = "Sanguine Depths Mythic",
-						["resetTime"] = 1606834799,
+					[410797648] = {
+						["name"] = "Plaguefall Mythic",
+						["resetTime"] = 1606834798,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["General Kaal"] = true,
-							["Grand Proctor Beryllia"] = true,
-							["Executor Tarvold"] = true,
-							["Kryxis the Voracious"] = true,
+							["Domina Venomblade"] = true,
+							["Stradama Margrave"] = true,
+							["Doctor Ickus"] = true,
+							["Globgrog"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1606444056,
+				["lastUpdate"] = 1606550402,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

@@ -8,184 +8,185 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1606295226,
+				["lastUpdate"] = 1606538148,
 				["Specializations"] = {
-					[3] = 0,
+					10645, -- [1]
+					[3] = 5749,
 				},
 				["AzeriteEssences"] = {
 					["Breath of the Dying"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Breath of the Dying",
 						["ID"] = 35,
-						["icon"] = 3193844,
 						["unlocked"] = true,
+						["icon"] = 3193844,
 						["rank"] = 3,
 					},
 					["The Well of Existence"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Well of Existence",
 						["ID"] = 19,
-						["icon"] = 516796,
 						["unlocked"] = true,
+						["icon"] = 516796,
 						["rank"] = 2,
 					},
 					["Spark of Inspiration"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Spark of Inspiration",
 						["ID"] = 36,
-						["icon"] = 3193843,
 						["unlocked"] = true,
+						["icon"] = 3193843,
 						["rank"] = 4,
 					},
 					["Life-Binder's Invocation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Life-Binder's Invocation",
 						["ID"] = 20,
-						["icon"] = 2967106,
 						["unlocked"] = true,
+						["icon"] = 2967106,
 						["rank"] = 3,
 					},
 					["Conflict and Strife"] = {
 						["valid"] = true,
 						["name"] = "Conflict and Strife",
 						["ID"] = 32,
-						["icon"] = 3015742,
 						["unlocked"] = true,
+						["icon"] = 3015742,
 						["rank"] = 3,
 					},
 					["Vision of Perfection"] = {
 						["valid"] = true,
 						["name"] = "Vision of Perfection",
 						["ID"] = 22,
-						["icon"] = 3015743,
 						["unlocked"] = true,
+						["icon"] = 3015743,
 						["rank"] = 3,
 					},
 					["The Ever-Rising Tide"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Ever-Rising Tide",
 						["ID"] = 17,
-						["icon"] = 2967108,
 						["unlocked"] = true,
+						["icon"] = 2967108,
 						["rank"] = 3,
 					},
 					["Artifice of Time"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Artifice of Time",
 						["ID"] = 18,
-						["icon"] = 2967112,
 						["unlocked"] = false,
+						["icon"] = 2967112,
 						["rank"] = 0,
 					},
 					["Spirit of Preservation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Spirit of Preservation",
 						["ID"] = 24,
-						["icon"] = 2967101,
 						["unlocked"] = true,
+						["icon"] = 2967101,
 						["rank"] = 2,
 					},
 					["The Unbound Force"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "The Unbound Force",
 						["ID"] = 28,
-						["icon"] = 2967102,
 						["unlocked"] = true,
+						["icon"] = 2967102,
 						["rank"] = 1,
 					},
 					["Purification Protocol"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Purification Protocol",
 						["ID"] = 6,
-						["icon"] = 2967103,
 						["unlocked"] = true,
+						["icon"] = 2967103,
 						["rank"] = 1,
 					},
 					["The Crucible of Flame"] = {
 						["valid"] = true,
 						["name"] = "The Crucible of Flame",
 						["ID"] = 12,
-						["icon"] = 3015740,
 						["unlocked"] = true,
+						["icon"] = 3015740,
 						["rank"] = 3,
 					},
 					["Ripple in Space"] = {
 						["valid"] = true,
 						["name"] = "Ripple in Space",
 						["ID"] = 15,
-						["icon"] = 2967109,
 						["unlocked"] = false,
+						["icon"] = 2967109,
 						["rank"] = 0,
 					},
 					["Memory of Lucid Dreams"] = {
 						["valid"] = true,
 						["name"] = "Memory of Lucid Dreams",
 						["ID"] = 27,
-						["icon"] = 2967104,
 						["unlocked"] = true,
+						["icon"] = 2967104,
 						["rank"] = 3,
 					},
 					["Unwavering Ward"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Unwavering Ward",
 						["ID"] = 16,
-						["icon"] = 3193842,
 						["unlocked"] = true,
+						["icon"] = 3193842,
 						["rank"] = 4,
 					},
 					["Vitality Conduit"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Vitality Conduit",
 						["ID"] = 21,
-						["icon"] = 2967100,
 						["unlocked"] = true,
+						["icon"] = 2967100,
 						["rank"] = 3,
 					},
 					["Essence of the Focusing Iris"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Essence of the Focusing Iris",
 						["ID"] = 5,
-						["icon"] = 2967111,
 						["unlocked"] = true,
+						["icon"] = 2967111,
 						["rank"] = 3,
 					},
 					["Condensed Life-Force"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Condensed Life-Force",
 						["ID"] = 14,
-						["icon"] = 2967113,
 						["unlocked"] = true,
+						["icon"] = 2967113,
 						["rank"] = 3,
 					},
 					["Blood of the Enemy"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Blood of the Enemy",
 						["ID"] = 23,
-						["icon"] = 2032580,
 						["unlocked"] = false,
+						["icon"] = 2032580,
 						["rank"] = 0,
 					},
 					["Worldvein Resonance"] = {
 						["valid"] = true,
 						["name"] = "Worldvein Resonance",
 						["ID"] = 4,
-						["icon"] = 1830317,
 						["unlocked"] = true,
+						["icon"] = 1830317,
 						["rank"] = 3,
 					},
 					["The Formless Void"] = {
 						["valid"] = true,
 						["name"] = "The Formless Void",
 						["ID"] = 37,
-						["icon"] = 3193845,
 						["unlocked"] = true,
+						["icon"] = 3193845,
 						["rank"] = 3,
 					},
 				},
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1606462192,
+				["lastUpdate"] = 1606550404,
 				["Specializations"] = {
 					[2] = 11007,
 					[3] = 11687,
@@ -722,6 +723,32 @@ DataStore_TalentsRefDB = {
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
+				{
+					["id"] = 262,
+					["talents"] = {
+						22356, -- [1]
+						22357, -- [2]
+						22358, -- [3]
+						23108, -- [4]
+						23460, -- [5]
+						23190, -- [6]
+						23162, -- [7]
+						23163, -- [8]
+						23164, -- [9]
+						19271, -- [10]
+						19272, -- [11]
+						19273, -- [12]
+						22144, -- [13]
+						22172, -- [14]
+						21966, -- [15]
+						22145, -- [16]
+						19266, -- [17]
+						23111, -- [18]
+						21198, -- [19]
+						22153, -- [20]
+						21675, -- [21]
+					},
+				}, -- [1]
 				[3] = {
 					["id"] = 264,
 					["talents"] = {

@@ -12,24 +12,24 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/11/21 03:50",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1606348660,
-				["lastVisitDate"] = "2020/11/25 18:57",
+				["lastUpdate"] = 1606524710,
+				["lastVisitDate"] = "2020/11/27 19:51",
 			},
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1605948380,
+				["lastUpdate"] = 1606539635,
 				["Mails"] = {
 					{
-						["icon"] = 134327,
+						["lastCheck"] = 1606539635,
 						["sender"] = "The WoW Dev Team",
 						["subject"] = "WoW's 16th Anniversary!",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Wow, yet another year has gone by for WoW!\r\n\r\nWe wanted to thank you for continuing to play World of Warcraft with us, so here's an Anniversary Gift to go with your adventures!\r\n\r\nWe hope that you will join us for a celebration in the Caverns of Time!\r\n\r\nThe WoW Dev Team",
-						["lastCheck"] = 1605948380,
-						["daysLeft"] = 29.99681663513184,
+						["icon"] = 134327,
+						["daysLeft"] = 23.1537971496582,
 					}, -- [1]
 				},
-				["lastVisitDate"] = "2020/11/21 03:46",
+				["lastVisitDate"] = "2020/11/28 00:00",
 			},
 		},
 	},

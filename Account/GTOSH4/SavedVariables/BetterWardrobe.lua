@@ -25,25 +25,20 @@ BetterWardrobe_CharacterData = {
 	},
 }
 BetterWardrobe_SavedSetData = {
-	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-	},
 	["global"] = {
 		["sets"] = {
 			["Toshpriest - Area 52"] = {
 				{
-					["isClass"] = true,
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 2059677,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						96552, -- [1]
 						0, -- [2]
@@ -66,23 +61,23 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["name"] = "something",
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 2059677,
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1091093,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						73196, -- [1]
 						0, -- [2]
@@ -105,23 +100,22 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["name"] = "something2",
-					["setID"] = 5001,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5001,
+					["uiOrder"] = 200,
+					["icon"] = 1091093,
+					["isClass"] = true,
 				}, -- [2]
 			},
 			["Toshpal - Area 52"] = {
 				{
-					["name"] = "purp",
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 133077,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
 					["items"] = {
 					},
@@ -146,21 +140,21 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
-					["setID"] = 5000,
+					["name"] = "purp",
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 133077,
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["name"] = "tov",
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1360261,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
 					["items"] = {
 					},
@@ -185,21 +179,21 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
-					["setID"] = 5001,
+					["name"] = "tov",
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5001,
+					["uiOrder"] = 200,
+					["icon"] = 1360261,
+					["isClass"] = true,
 				}, -- [2]
 				{
-					["name"] = "roman",
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1360261,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 300,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
 					["items"] = {
 					},
@@ -224,15 +218,21 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
-					["setID"] = 5002,
+					["name"] = "roman",
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5002,
+					["uiOrder"] = 300,
+					["icon"] = 1360261,
+					["isClass"] = true,
 				}, -- [3]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
 		["Toshpal - Area 52"] = {
@@ -289,7 +289,6 @@ BetterWardrobe_ListData = {
 			},
 		},
 	},
-	["lastUpdte"] = 1,
 	["OutfitDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
@@ -305,6 +304,7 @@ BetterWardrobe_ListData = {
 			},
 		},
 	},
+	["lastUpdte"] = 1,
 	["HiddenAppearanceDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",

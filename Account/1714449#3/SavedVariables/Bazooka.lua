@@ -34,6 +34,7 @@ BazookaDB = {
 						["pos"] = 3,
 					},
 					["Leatrix_Plus"] = {
+						["enabled"] = false,
 						["pos"] = 2,
 					},
 					["Volume"] = {
@@ -115,6 +116,7 @@ BazookaDB = {
 					},
 					["Altoholic"] = {
 						["pos"] = 3,
+						["bar"] = 4,
 					},
 					["Bazooka"] = {
 						["enabled"] = false,

@@ -6,13 +6,6 @@ X: -6
 Y: 74
 W: 235
 H: 700
-Frame: AAPQOrderList
-FrameLevel: 1
-Anchor: RIGHT
-X: -398
-Y: 179
-W: 231
-H: 440
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT

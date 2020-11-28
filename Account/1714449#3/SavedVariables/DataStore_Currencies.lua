@@ -22,8 +22,6 @@ DataStore_CurrenciesDB = {
 					[1718] = "0-0-0-0",
 					[1721] = "3-0-0-0",
 				},
-				["lastUpdate"] = 1606295226,
-				["Conquest"] = 0,
 				["Currencies"] = {
 					{
 						["isHeader"] = true,
@@ -106,12 +104,37 @@ DataStore_CurrenciesDB = {
 						["count"] = 250,
 					}, -- [16]
 				},
+				["Conquest"] = 0,
+				["lastUpdate"] = 1606538148,
+				["Archeology"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					0, -- [12]
+					0, -- [13]
+					0, -- [14]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					0, -- [20]
+				},
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["CurrencyInfo"] = {
 					[1820] = "52-0-0-100",
+					[1885] = "2-0-0-0",
 					[1580] = "3-0-0-5",
-					[1767] = "1386-0-0-0",
+					[1767] = "944-0-0-0",
 					[1273] = "0-0-0-6",
 					[1275] = "26-0-0-0",
 					[1710] = "118-0-0-0",
@@ -121,10 +144,10 @@ DataStore_CurrenciesDB = {
 					[1220] = "14331-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "53-0-0-0",
-					[1813] = "659-0-0-35000",
+					[1813] = "188-0-0-35000",
 					[1721] = "317-0-0-0",
 					[1226] = "766-0-0-0",
-					[1828] = "505-0-0-8000",
+					[1828] = "810-0-0-8000",
 					[1166] = "2615-0-0-0",
 					[1508] = "575-0-0-2000",
 					[1602] = "0-0-0-0",
@@ -138,124 +161,129 @@ DataStore_CurrenciesDB = {
 					}, -- [1]
 					{
 						["isHeader"] = false,
-						["index"] = 25,
-						["count"] = 52,
+						["index"] = 29,
+						["count"] = 2,
 					}, -- [2]
 					{
 						["isHeader"] = false,
-						["index"] = 26,
-						["count"] = 659,
+						["index"] = 25,
+						["count"] = 52,
 					}, -- [3]
 					{
 						["isHeader"] = false,
-						["index"] = 28,
-						["count"] = 505,
+						["index"] = 26,
+						["count"] = 188,
 					}, -- [4]
 					{
 						["isHeader"] = false,
-						["index"] = 27,
-						["count"] = 1386,
+						["index"] = 28,
+						["count"] = 810,
 					}, -- [5]
+					{
+						["isHeader"] = false,
+						["index"] = 27,
+						["count"] = 944,
+					}, -- [6]
 					{
 						["isHeader"] = true,
 						["index"] = 3,
 						["count"] = 0,
-					}, -- [6]
+					}, -- [7]
 					{
 						["isHeader"] = false,
 						["index"] = 4,
 						["count"] = 2615,
-					}, -- [7]
+					}, -- [8]
 					{
 						["isHeader"] = true,
 						["index"] = 22,
 						["count"] = 0,
-					}, -- [8]
+					}, -- [9]
 					{
 						["isHeader"] = false,
 						["index"] = 23,
 						["count"] = 0,
-					}, -- [9]
+					}, -- [10]
 					{
 						["isHeader"] = true,
 						["index"] = 1,
 						["count"] = 0,
-					}, -- [10]
+					}, -- [11]
 					{
 						["isHeader"] = false,
 						["index"] = 8,
 						["count"] = 327,
-					}, -- [11]
+					}, -- [12]
 					{
 						["isHeader"] = false,
 						["index"] = 9,
 						["count"] = 317,
-					}, -- [12]
+					}, -- [13]
 					{
 						["isHeader"] = false,
 						["index"] = 10,
 						["count"] = 118,
-					}, -- [13]
+					}, -- [14]
 					{
 						["isHeader"] = false,
 						["index"] = 11,
 						["count"] = 3,
-					}, -- [14]
+					}, -- [15]
 					{
 						["isHeader"] = false,
 						["index"] = 12,
 						["count"] = 0,
-					}, -- [15]
+					}, -- [16]
 					{
 						["isHeader"] = false,
 						["index"] = 2,
 						["count"] = 1499,
-					}, -- [16]
+					}, -- [17]
 					{
 						["isHeader"] = true,
 						["index"] = 13,
 						["count"] = 0,
-					}, -- [17]
+					}, -- [18]
 					{
 						["isHeader"] = false,
 						["index"] = 14,
 						["count"] = 300,
-					}, -- [18]
+					}, -- [19]
 					{
 						["isHeader"] = false,
 						["index"] = 15,
 						["count"] = 26,
-					}, -- [19]
+					}, -- [20]
 					{
 						["isHeader"] = false,
 						["index"] = 16,
 						["count"] = 32,
-					}, -- [20]
+					}, -- [21]
 					{
 						["isHeader"] = false,
 						["index"] = 17,
 						["count"] = 766,
-					}, -- [21]
+					}, -- [22]
 					{
 						["isHeader"] = false,
 						["index"] = 18,
 						["count"] = 14331,
-					}, -- [22]
+					}, -- [23]
 					{
 						["isHeader"] = false,
 						["index"] = 19,
 						["count"] = 0,
-					}, -- [23]
+					}, -- [24]
 					{
 						["isHeader"] = false,
 						["index"] = 20,
 						["count"] = 575,
-					}, -- [24]
+					}, -- [25]
 					{
 						["isHeader"] = false,
 						["index"] = 21,
 						["count"] = 53,
-					}, -- [25]
+					}, -- [26]
 				},
 				["Conquest"] = 0,
 				["Archeology"] = {
@@ -280,7 +308,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1606463617,
+				["lastUpdate"] = 1606550404,
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["CurrencyInfo"] = {
@@ -365,6 +393,7 @@ DataStore_CurrenciesDB = {
 				"Reservoir Anima|3528288", -- [26]
 				"Stygia|3743739", -- [27]
 				"Soul Ash|3743738", -- [28]
+				"Grateful Offering|134344", -- [29]
 			},
 			["CurrencyTextRev"] = {
 				["Ancient Mana"] = 14,
@@ -375,25 +404,26 @@ DataStore_CurrenciesDB = {
 				["Titan Residuum"] = 12,
 				["Seal of Wartorn Fate"] = 11,
 				["Veiled Argunite"] = 20,
+				["Infused Ruby"] = 25,
 				["Honorbound Service Medal"] = 8,
-				["Soul Ash"] = 28,
-				["Player vs. Player"] = 22,
-				["Timewarped Badge"] = 4,
 				["Stygia"] = 27,
+				["Player vs. Player"] = 22,
+				["Soul Ash"] = 28,
 				["Order Resources"] = 18,
 				["Battle for Azeroth"] = 1,
 				["Conquest"] = 23,
 				["Curious Coin"] = 15,
+				["Grateful Offering"] = 29,
 				["Echoes of Ny'alotha"] = 7,
-				["Coalescing Visions"] = 5,
 				["Prismatic Manapearl"] = 9,
-				["Seafarer's Dubloon"] = 10,
-				["Legion"] = 13,
 				["Wakening Essence"] = 21,
+				["Coalescing Visions"] = 5,
+				["Legion"] = 13,
+				["Seafarer's Dubloon"] = 10,
 				["War Resources"] = 2,
 				["Reservoir Anima"] = 26,
 				["Shadowlands"] = 24,
-				["Infused Ruby"] = 25,
+				["Timewarped Badge"] = 4,
 				["Legionfall War Supplies"] = 16,
 			},
 		},

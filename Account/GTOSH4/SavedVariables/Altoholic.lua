@@ -9,13 +9,7 @@ AltoholicDB = {
 	["global"] = {
 		["Tasks5"] = {
 		},
-		["options"] = {
-			["UI.Sharing.Ongoing.NumTargets"] = 0,
-			["Tabs.Grids.Default.Area 52.Column1"] = "Default.Area 52.Toshpriest",
-			["Tabs.Grids.Default.Area 52.Column2"] = "Default.Area 52.Toshdruid",
-			["UI.Minimap.IconAngle"] = 349,
-			["Tabs.Achievements.Default.Area 52.Column2"] = "Default.Area 52.Toshdruid",
-			["Tabs.Achievements.Default.Area 52.Column1"] = "Default.Area 52.Toshpriest",
+		["Tasks2"] = {
 		},
 		["Tasks"] = {
 		},
@@ -23,7 +17,13 @@ AltoholicDB = {
 		},
 		["Tasks3"] = {
 		},
-		["Tasks2"] = {
+		["options"] = {
+			["UI.Sharing.Ongoing.NumTargets"] = 0,
+			["Tabs.Grids.Default.Area 52.Column1"] = "Default.Area 52.Toshpriest",
+			["Tabs.Grids.Default.Area 52.Column2"] = "Default.Area 52.Toshdruid",
+			["UI.Minimap.IconAngle"] = 349,
+			["Tabs.Achievements.Default.Area 52.Column2"] = "Default.Area 52.Toshdruid",
+			["Tabs.Achievements.Default.Area 52.Column1"] = "Default.Area 52.Toshpriest",
 		},
 	},
 }

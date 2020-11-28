@@ -8,7 +8,7 @@ DataStore_CraftsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1606295227,
+				["lastUpdate"] = 1606538148,
 				["Prof2"] = "Inscription",
 				["Professions"] = {
 					["Alchemy"] = {
@@ -33,7 +33,7 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Enchanting",
-				["lastUpdate"] = 1606462192,
+				["lastUpdate"] = 1606550404,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Area 52.Toshmonk"] = {

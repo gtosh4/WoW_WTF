@@ -802,7 +802,7 @@ VExRT = {
 			["Tootsmonk-Zul'jin"] = 270,
 			["Wrekkin-AlteracMountains"] = 251,
 			["Jjuno-Illidan"] = 267,
-			["Toshaman"] = 264,
+			["Toshaman"] = 262,
 			["Archbaroness-Daggerspine"] = 577,
 			["Evojai-Mal'Ganis"] = 267,
 			["Clothie"] = 258,
@@ -2625,22 +2625,7 @@ VExRT = {
 		["ReadyCheckLeft"] = 589.9999389648438,
 		["FlaskExp"] = 1,
 	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
-		},
-	},
 	["Profiles"] = {
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["RaidGroups"] = {
-		["profiles"] = {
-		},
 	},
 	["LootHistory"] = {
 		["list"] = {
@@ -3006,6 +2991,21 @@ VExRT = {
 			[2070] = "Battle of Dazar'alor",
 			[2162] = "Torghast, Tower of the Damned",
 			[2222] = "The Shadowlands",
+		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["RaidGroups"] = {
+		["profiles"] = {
+		},
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
 		},
 	},
 	["Logging"] = {

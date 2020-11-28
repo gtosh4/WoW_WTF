@@ -8,6 +8,28 @@ TellMeWhenDB = {
 	},
 	["global"] = {
 		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["TMW:textlayout:1V5RBRoAFw84"] = {
+				{
+					["Name"] = "Friz Quadrata TT",
+					["StringName"] = "Number",
+					["ConstrainWidth"] = false,
+					["Size"] = 14,
+				}, -- [1]
+				["GUID"] = "TMW:textlayout:1V5RBRoAFw84",
+				["Name"] = "Center Number 2",
+			},
 			["TMW:textlayout:1V5QQ40UvCe4"] = {
 				{
 					["DefaultText"] = "[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"\"]",
@@ -26,13 +48,13 @@ TellMeWhenDB = {
 					["Height"] = 1,
 				}, -- [1]
 				{
+					["SkinAs"] = "Count",
 					["Anchors"] = {
 						{
 							["point"] = "LEFT",
 							["relativePoint"] = "LEFT",
 						}, -- [1]
 					},
-					["SkinAs"] = "Count",
 					["Name"] = "Friz Quadrata TT",
 					["StringName"] = "Stacks",
 					["DefaultText"] = "[Stacks:Hide(0):Color(\"f2ec30\")]",
@@ -54,28 +76,6 @@ TellMeWhenDB = {
 				["Name"] = "Icon Layout 2",
 				["n"] = 3,
 			},
-			["bar2"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-			},
-			["TMW:textlayout:1V5RBRoAFw84"] = {
-				{
-					["Name"] = "Friz Quadrata TT",
-					["StringName"] = "Number",
-					["ConstrainWidth"] = false,
-					["Size"] = 14,
-				}, -- [1]
-				["GUID"] = "TMW:textlayout:1V5RBRoAFw84",
-				["Name"] = "Center Number 2",
-			},
-			["icon1"] = {
-				{
-				}, -- [1]
-				{
-				}, -- [2]
-			},
 		},
 		["CodeSnippets"] = {
 			{
@@ -85,78 +85,401 @@ TellMeWhenDB = {
 			["n"] = 1,
 		},
 		["AuraCache"] = {
-			[116768] = 2,
-			[123904] = 2,
-			[311054] = 2,
-			[243435] = 2,
-			[115078] = 2,
-			[299150] = 1,
-			[310454] = 2,
-			[289277] = 2,
-			[306772] = 2,
-			[331442] = 2,
-			[465] = 2,
-			[322743] = 1,
-			[124009] = 2,
-			[113746] = 2,
+			[320890] = 2,
+			[77764] = 2,
+			[73325] = 2,
+			[334562] = 1,
+			[320893] = 2,
 			[338906] = 2,
-			[231390] = 2,
-			[227723] = 2,
-			[122470] = 2,
-			[331511] = 2,
-			[324717] = 2,
-			[124280] = 2,
-			[152175] = 2,
-			[329608] = 1,
-			[329609] = 1,
-			[336372] = 2,
-			[101643] = 2,
-			[325800] = 2,
-			[166766] = 1,
-			[329326] = 1,
-			[331390] = 2,
-			[331295] = 1,
-			[296847] = 1,
-			[131493] = 2,
-			[2383] = 2,
-			[336219] = 2,
-			[325202] = 2,
-			[138130] = 2,
-			[331641] = 2,
-			[346813] = 1,
-			[345545] = 2,
-			[303678] = 1,
-			[137639] = 2,
-			[331321] = 1,
-			[305044] = 2,
-			[196742] = 2,
-			[1604] = 1,
-			[329319] = 1,
-			[313174] = 2,
-			[331620] = 2,
-			[304093] = 1,
-			[305395] = 2,
-			[331462] = 2,
-			[335685] = 1,
-			[314254] = 2,
-			[305047] = 2,
-			[228287] = 2,
-			[331622] = 2,
-			[295694] = 2,
-			[292910] = 1,
-			[3408] = 2,
-			[295929] = 1,
-			[2580] = 2,
-			[331446] = 2,
-			[305049] = 2,
-			[328908] = 2,
-			[113656] = 2,
-			[115804] = 2,
-			[117952] = 2,
-			[261769] = 2,
+			[257410] = 2,
+			[280398] = 2,
+			[254472] = 2,
+			[8122] = 2,
+			[270562] = 2,
+			[308504] = 2,
+			[320896] = 2,
+			[259455] = 2,
+			[54149] = 2,
+			[317065] = 2,
+			[1784] = 2,
+			[197625] = 2,
+			[264689] = 2,
+			[182104] = 2,
+			[347600] = 2,
+			[768] = 2,
 			[314258] = 2,
-			[329325] = 1,
+			[347601] = 2,
+			[334443] = 2,
+			[235313] = 2,
+			[193475] = 2,
+			[270058] = 2,
+			[80354] = 2,
+			[335467] = 2,
+			[186258] = 2,
+			[257415] = 2,
+			[138927] = 2,
+			[248473] = 2,
+			[6673] = 2,
+			[202164] = 2,
+			[334448] = 2,
+			[288075] = 2,
+			[2580] = 2,
+			[294719] = 2,
+			[294592] = 2,
+			[290121] = 2,
+			[232698] = 2,
+			[43308] = 2,
+			[194310] = 2,
+			[308520] = 2,
+			[307115] = 1,
+			[348251] = 2,
+			[294597] = 2,
+			[111400] = 2,
+			[336372] = 2,
+			[11426] = 2,
+			[213602] = 2,
+			[247456] = 2,
+			[290640] = 2,
+			[326027] = 1,
+			[194249] = 2,
+			[311464] = 2,
+			[311465] = 2,
+			[106898] = 2,
+			[338804] = 2,
+			[5761] = 2,
+			[330118] = 1,
+			[311467] = 2,
+			[196742] = 2,
+			[41425] = 2,
+			[243435] = 2,
+			[338041] = 2,
+			[314791] = 2,
+			[297034] = 2,
+			[2645] = 2,
+			[116768] = 2,
+			[227723] = 2,
+			[311471] = 2,
+			[331528] = 2,
+			[45242] = 2,
+			[261769] = 2,
+			[337661] = 2,
+			[297037] = 2,
+			[272126] = 2,
+			[17] = 2,
+			[311474] = 2,
+			[297039] = 2,
+			[311475] = 2,
+			[308026] = 1,
+			[34767] = 2,
+			[253595] = 2,
+			[136] = 2,
+			[19236] = 2,
+			[1850] = 2,
+			[330896] = 2,
+			[194384] = 2,
+			[197003] = 2,
+			[311479] = 2,
+			[336135] = 2,
+			[108211] = 2,
+			[329237] = 2,
+			[24450] = 2,
+			[465] = 2,
+			[68992] = 2,
+			[165961] = 2,
+			[115078] = 2,
+			[3714] = 2,
+			[1604] = 1,
+			[311483] = 2,
+			[298836] = 2,
+			[311484] = 2,
+			[298837] = 2,
+			[260881] = 2,
+			[311485] = 2,
+			[201350] = 2,
+			[281209] = 2,
+			[311486] = 2,
+			[243955] = 2,
+			[311231] = 2,
+			[77489] = 2,
+			[90328] = 2,
+			[311488] = 2,
+			[298841] = 2,
+			[139] = 2,
+			[242551] = 2,
+			[311489] = 2,
+			[334229] = 2,
+			[48438] = 2,
+			[321199] = 2,
+			[338446] = 2,
+			[343173] = 2,
+			[15487] = 2,
+			[52127] = 2,
+			[311492] = 2,
+			[347901] = 2,
+			[24858] = 2,
+			[311493] = 2,
+			[316220] = 2,
+			[331295] = 1,
+			[311494] = 2,
+			[45181] = 2,
+			[69826] = 2,
+			[333724] = 2,
+			[315584] = 2,
+			[311497] = 2,
+			[124280] = 2,
+			[273428] = 2,
+			[203975] = 2,
+			[311498] = 2,
+			[272790] = 2,
+			[306772] = 2,
+			[245686] = 2,
+			[308434] = 2,
+			[343439] = 2,
+			[126389] = 2,
+			[34914] = 2,
+			[202636] = 2,
+			[31821] = 2,
+			[152175] = 2,
+			[53390] = 2,
+			[192225] = 2,
+			[108281] = 2,
+			[124218] = 2,
+			[289277] = 2,
+			[48778] = 2,
+			[264667] = 2,
+			[291118] = 2,
+			[334776] = 2,
+			[45438] = 2,
+			[203277] = 2,
+			[154796] = 2,
+			[342423] = 2,
+			[334802] = 2,
+			[340202] = 2,
+			[311480] = 2,
+			[254474] = 2,
+			[343963] = 2,
+			[308506] = 2,
+			[154797] = 2,
+			[334249] = 2,
+			[203407] = 2,
+			[774] = 2,
+			[65081] = 2,
+			[33763] = 2,
+			[236502] = 2,
+			[48265] = 2,
+			[270248] = 1,
+			[343960] = 2,
+			[308525] = 2,
+			[77761] = 2,
+			[8680] = 2,
+			[10060] = 2,
+			[311476] = 2,
+			[156779] = 2,
+			[313174] = 2,
+			[334353] = 2,
+			[163073] = 2,
+			[268854] = 2,
+			[294133] = 2,
+			[2823] = 2,
+			[13819] = 2,
+			[337948] = 2,
+			[342814] = 2,
+			[334255] = 2,
+			[332947] = 2,
+			[334511] = 2,
+			[205146] = 2,
+			[546] = 2,
+			[119611] = 2,
+			[328891] = 2,
+			[257422] = 2,
+			[21562] = 2,
+			[333889] = 2,
+			[138130] = 2,
+			[73313] = 2,
+			[265273] = 2,
+			[113746] = 2,
+			[185311] = 2,
+			[311648] = 2,
+			[311490] = 2,
+			[292359] = 2,
+			[311469] = 2,
+			[156080] = 2,
+			[586] = 2,
+			[290819] = 2,
+			[257424] = 2,
+			[342309] = 2,
+			[143625] = 2,
+			[260708] = 2,
+			[156064] = 2,
+			[115804] = 2,
+			[167898] = 2,
+			[20707] = 2,
+			[231390] = 2,
+			[338036] = 2,
+			[292361] = 2,
+			[187464] = 2,
+			[53563] = 2,
+			[176151] = 2,
+			[292362] = 2,
+			[290468] = 2,
+			[324867] = 2,
+			[108446] = 2,
+			[292363] = 2,
+			[311481] = 2,
+			[64044] = 2,
+			[123904] = 2,
+			[292364] = 2,
+			[5225] = 2,
+			[305395] = 2,
+			[118922] = 2,
+			[108366] = 2,
+			[186257] = 2,
+			[212653] = 2,
+			[331537] = 1,
+			[307185] = 2,
+			[1953] = 2,
+			[196980] = 2,
+			[311496] = 2,
+			[8936] = 2,
+			[325101] = 1,
+			[131493] = 2,
+			[8679] = 2,
+			[6788] = 2,
+			[311499] = 2,
+			[116847] = 2,
+			[324717] = 2,
+			[317103] = 2,
+			[329289] = 2,
+			[328906] = 2,
+			[2383] = 2,
+			[317920] = 2,
+			[325202] = 2,
+			[331462] = 2,
+			[212552] = 2,
 			[119381] = 2,
+			[280746] = 2,
+			[333507] = 2,
+			[330976] = 2,
+			[328908] = 2,
+			[321197] = 2,
+			[295694] = 2,
+			[208628] = 2,
+			[331939] = 2,
+			[308430] = 2,
+			[276111] = 2,
+			[310454] = 2,
+			[311487] = 2,
+			[323673] = 2,
+			[251837] = 2,
+			[25771] = 2,
+			[304093] = 1,
+			[294720] = 2,
+			[251838] = 2,
+			[15407] = 2,
+			[292360] = 2,
+			[329425] = 1,
+			[122470] = 2,
+			[48045] = 2,
+			[605] = 2,
+			[1044] = 2,
+			[308474] = 2,
+			[335685] = 1,
+			[119085] = 2,
+			[331390] = 2,
+			[270661] = 2,
+			[327510] = 2,
+			[196741] = 2,
+			[310392] = 1,
+			[113656] = 2,
+			[341207] = 2,
+			[311468] = 2,
+			[299662] = 2,
+			[329428] = 2,
+			[330067] = 2,
+			[72968] = 2,
+			[221883] = 2,
+			[329429] = 2,
+			[1490] = 2,
+			[287280] = 2,
+			[257420] = 2,
+			[294165] = 1,
+			[311478] = 2,
+			[192106] = 2,
+			[321388] = 2,
+			[334343] = 2,
+			[320872] = 2,
+			[589] = 2,
+			[58729] = 1,
+			[57723] = 2,
+			[32223] = 2,
+			[340546] = 2,
+			[221885] = 2,
+			[121557] = 2,
+			[310143] = 2,
+			[331937] = 2,
+			[293025] = 2,
+			[58875] = 2,
+			[261616] = 2,
+			[15286] = 2,
+			[221886] = 2,
+			[203554] = 2,
+			[345219] = 2,
+			[329492] = 2,
+			[22812] = 2,
+			[308514] = 2,
+			[188033] = 2,
+			[23161] = 2,
+			[252216] = 2,
+			[258938] = 1,
+			[3408] = 2,
+			[329693] = 2,
+			[258935] = 1,
+			[61684] = 2,
+			[315356] = 1,
+			[47585] = 2,
+			[205025] = 2,
+			[308488] = 2,
+			[164273] = 2,
+			[2983] = 2,
+			[321153] = 2,
+			[57724] = 2,
+			[306573] = 2,
+			[334295] = 2,
+			[331868] = 2,
+			[338449] = 2,
+			[306574] = 2,
+			[311054] = 2,
+			[193538] = 2,
+			[1459] = 2,
+			[325800] = 2,
+			[236645] = 2,
+			[311470] = 2,
+			[137639] = 2,
+			[251836] = 2,
+			[198065] = 2,
+			[53365] = 2,
+			[290608] = 2,
+			[123981] = 2,
+			[5487] = 2,
+			[297035] = 2,
+			[311495] = 2,
+			[320886] = 2,
+			[338388] = 2,
+			[204262] = 2,
+			[5215] = 2,
+			[228287] = 2,
+			[235450] = 2,
+			[329319] = 1,
+			[101568] = 2,
+			[202602] = 2,
+			[16870] = 2,
+			[257413] = 2,
+			[32216] = 2,
+			[112042] = 2,
+			[345545] = 2,
+			[327104] = 2,
+			[329449] = 2,
+			[116841] = 2,
 		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
@@ -1291,8 +1614,6 @@ TellMeWhenDB = {
 	["Version"] = 90201,
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
-			["NumGroups"] = 10,
-			["Version"] = 87505,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5QOoilLgOy",
@@ -6671,9 +6992,12 @@ TellMeWhenDB = {
 					["Locked"] = true,
 				}, -- [10]
 			},
+			["NumGroups"] = 10,
+			["Version"] = 87505,
 			["TextureName"] = "Smooth v2",
 		},
 		["Empty2"] = {
+			["NumGroups"] = 16,
 			["Version"] = 90201,
 			["Groups"] = {
 				{
@@ -13786,11 +14110,11 @@ TellMeWhenDB = {
 					["LayoutDirection"] = 2,
 				}, -- [16]
 			},
-			["NumGroups"] = 16,
 			["TextureName"] = "Smooth v2",
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
+			["NumGroups"] = 5,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -17096,7 +17420,6 @@ TellMeWhenDB = {
 				}, -- [6]
 			},
 			["Version"] = 90201,
-			["NumGroups"] = 5,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["Version"] = 90201,
@@ -28588,7 +28911,6 @@ TellMeWhenDB = {
 			["TextureName"] = "Smooth v2",
 		},
 		["Empty"] = {
-			["NumGroups"] = 5,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -31570,6 +31892,7 @@ TellMeWhenDB = {
 				}, -- [6]
 			},
 			["Version"] = 90201,
+			["NumGroups"] = 5,
 		},
 		["Toshmonk - Area 52"] = {
 			["Version"] = 90201,
@@ -31577,12 +31900,6 @@ TellMeWhenDB = {
 			["TextureName"] = "Smooth v2",
 			["Groups"] = {
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -31944,12 +32261,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5QOoilLgOy",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [1]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -31963,29 +32282,26 @@ TellMeWhenDB = {
 					["Icons"] = {
 						{
 							["ShowTimer"] = true,
-							["OnlyEquipped"] = true,
 							["Type"] = "item",
-							["Name"] = "Forbidden Obsidian Claw",
-							["OnlyInBags"] = true,
-							["GUID"] = "TMW:icon:1V6yzOTPnMOU",
+							["Name"] = "Phial of Serenity",
+							["GUID"] = "TMW:icon:1VmPB_1yfSG7",
 							["Events"] = {
 								{
 									["Type"] = "Animations",
-									["OnlyShown"] = true,
 									["Animation"] = "ACTVTNGLOW",
 									["Event"] = "WCSP",
 									["OnConditionConditions"] = {
 										{
-											["Type"] = "MANA",
+											["Type"] = "HEALTH",
 											["Operator"] = "<=",
-											["Level"] = 85,
+											["Level"] = 30,
 										}, -- [1]
 										{
-											["Type"] = "COMBAT",
+											["Type"] = "ITEMCD",
+											["Name"] = "Phial of Serenity",
 										}, -- [2]
 										{
-											["Type"] = "ITEMCD",
-											["Name"] = "Forbidden Obsidian Claw",
+											["Type"] = "COMBAT",
 										}, -- [3]
 										["n"] = 3,
 									},
@@ -31996,7 +32312,7 @@ TellMeWhenDB = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"5\"]", -- [1]
 									},
 								},
 							},
@@ -32011,43 +32327,62 @@ TellMeWhenDB = {
 								}, -- [3]
 								{
 								}, -- [4]
+								[102] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
 							},
 							["FakeHidden"] = true,
 							["Enabled"] = true,
 						}, -- [1]
 						{
 							["ShowTimer"] = true,
-							["Type"] = "item",
-							["Name"] = "13",
-							["Conditions"] = {
+							["Type"] = "conditionicon",
+							["Name"] = "Phial of Serenity",
+							["GUID"] = "TMW:icon:1VmPCAr5Q6qI",
+							["Events"] = {
 								{
-									["Type"] = "ITEMSPELL",
-									["Name"] = "13",
+									["Type"] = "Animations",
+									["OnlyShown"] = true,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
 								}, -- [1]
 								["n"] = 1,
 							},
-							["GUID"] = "TMW:icon:1V6yzOTReSHN",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"5\"]", -- [1]
 									},
 								},
 							},
+							["CustomTex"] = "333372",
 							["States"] = {
 								{
+									["Color"] = "ffffffffd",
 								}, -- [1]
 								{
 									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
 								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
+								[102] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
 							},
 							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "ITEMINBAGS",
+									["Name"] = "Phial of Serenity",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["Enabled"] = true,
 						}, -- [2]
 						{
@@ -32425,8 +32760,12 @@ TellMeWhenDB = {
 							},
 						}, -- [36]
 					},
-					["Name"] = "MW  Helpers",
+					["Name"] = "MW Helpers",
 					["GUID"] = "TMW:group:1V5R9h2RhMi2",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [2]
 				{
 					["Point"] = {
@@ -32437,7 +32776,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
@@ -32505,8 +32844,8 @@ TellMeWhenDB = {
 								{
 									["Type"] = "BUFFDUR",
 									["Checked"] = true,
-									["Operator"] = ">",
 									["Unit"] = "target",
+									["Operator"] = ">",
 									["Name"] = "Soothing Mist",
 								}, -- [1]
 								["n"] = 1,
@@ -32643,7 +32982,7 @@ TellMeWhenDB = {
 					},
 					["Name"] = "MW Procs",
 					["GUID"] = "TMW:group:1V5RkqsuK0qG",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["Point"] = {
@@ -32759,6 +33098,11 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 						}, -- [3]
 						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1VmPCAr5Q6qI", -- [1]
+								"TMW:icon:1VmPB_1yfSG7", -- [2]
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -32768,6 +33112,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -33440,12 +33785,6 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1V5Rw74pj18v",
 				}, -- [4]
 				{
-					["Point"] = {
-						["y"] = -2,
-						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -33607,15 +33946,39 @@ TellMeWhenDB = {
 							},
 						}, -- [6]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "13",
+							["Conditions"] = {
+								{
+									["Type"] = "ITEMSPELL",
+									["Name"] = "13",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1V6yzOTReSHN",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["FakeHidden"] = true,
+							["Enabled"] = true,
 						}, -- [7]
 						{
 							["States"] = {
@@ -34288,14 +34651,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5S0C30ZNK5",
+					["Point"] = {
+						["y"] = -2,
+						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
 				}, -- [5]
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -34468,12 +34831,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SQWkWTAWD",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [6]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -34884,6 +35249,10 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Brm Helpers",
 					["GUID"] = "TMW:group:1V5SREYruzir",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [7]
 				{
 					["Point"] = {
@@ -34894,7 +35263,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[269] = false,
 						[258] = false,
@@ -35029,7 +35398,7 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Brm Procs",
 					["GUID"] = "TMW:group:1V5SSG6lLU0b",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [8]
 				{
 					["Point"] = {
@@ -35771,7 +36140,7 @@ TellMeWhenDB = {
 						["relativePoint"] = "BOTTOMLEFT",
 					},
 					["Scale"] = 1,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[269] = false,
 						[258] = false,
@@ -36492,15 +36861,9 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SSQP92pnS",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [10]
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -37087,12 +37450,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP3zphLZaf",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [11]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -37105,26 +37470,109 @@ TellMeWhenDB = {
 					["Columns"] = 6,
 					["Icons"] = {
 						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "Phial of Serenity",
+							["GUID"] = "TMW:icon:1VmKKQv0CgmE",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "HEALTH",
+											["Operator"] = "<=",
+											["Level"] = 30,
+										}, -- [1]
+										{
+											["Type"] = "ITEMCD",
+											["Name"] = "Phial of Serenity",
+										}, -- [2]
+										{
+											["Type"] = "COMBAT",
+										}, -- [3]
+										["n"] = 3,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"5\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
+								[102] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
 							},
+							["FakeHidden"] = true,
+							["Enabled"] = true,
 						}, -- [1]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "conditionicon",
+							["Name"] = "Phial of Serenity",
+							["GUID"] = "TMW:icon:1VmKKRYX5ESo",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["OnlyShown"] = true,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"5\"]", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "333372",
 							["States"] = {
 								{
+									["Color"] = "ffffffffd",
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
+								[102] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
 							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "ITEMINBAGS",
+									["Name"] = "Phial of Serenity",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
 						}, -- [2]
 						{
 							["States"] = {
@@ -37508,6 +37956,10 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP50dIOyeX",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [12]
 				{
 					["Point"] = {
@@ -37518,7 +37970,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[270] = false,
@@ -37739,7 +38191,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP5WIrphW5",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [13]
 				{
 					["Point"] = {
@@ -37829,7 +38281,7 @@ TellMeWhenDB = {
 							["SettingsPerView"] = {
 								["icon"] = {
 									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SG\"]", -- [1]
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"G\"]", -- [1]
 									},
 								},
 							},
@@ -37848,72 +38300,19 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 						}, -- [3]
 						{
-							["ShowTimer"] = true,
-							["Type"] = "item",
-							["Name"] = "Phial of Serenity",
-							["Conditions"] = {
-								{
-									["Type"] = "ITEMINBAGS",
-									["Operator"] = ">",
-									["Name"] = "Phial of Serenity",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "HEALTH",
-											["Operator"] = "<=",
-											["Level"] = 30,
-										}, -- [1]
-										{
-											["Type"] = "ITEMCD",
-											["Name"] = "Phial of Serenity",
-										}, -- [2]
-										["n"] = 2,
-									},
-								}, -- [1]
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "ITEMINBAGS",
-											["Name"] = "Phial of Serenity",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [2]
-								["n"] = 2,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"5\"]", -- [1]
-									},
-								},
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1VmKKRYX5ESo", -- [1]
+								"TMW:icon:1VmKKQv0CgmE", -- [2]
 							},
 							["States"] = {
 								{
 								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
-								[102] = {
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								},
 							},
 							["Enabled"] = true,
 						}, -- [4]
@@ -38588,12 +38987,6 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1VIP6OlTkv8g",
 				}, -- [14]
 				{
-					["Point"] = {
-						["y"] = -2.000030517578125,
-						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -39419,6 +39812,12 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP6n2Kcrmc",
+					["Point"] = {
+						["y"] = -2.000030517578125,
+						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
 				}, -- [15]
 				{
 					["Scale"] = 1.4,
@@ -39635,10 +40034,10 @@ TellMeWhenDB = {
 					["Name"] = "Util",
 					["GUID"] = "TMW:group:1VIP7xIq0t4D",
 					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
+						["x"] = -2.85712656679811,
 						["point"] = "BOTTOMRIGHT",
 						["relativePoint"] = "BOTTOMLEFT",
-						["x"] = -2.85712656679811,
+						["relativeTo"] = "SUFUnitplayer",
 					},
 				}, -- [16]
 			},

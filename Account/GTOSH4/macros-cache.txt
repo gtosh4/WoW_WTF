@@ -1,6 +1,6 @@
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Harvesting Hook
+/use Shattered Helm of Domination
 END
 VER 3 0000000000000010 "bounds" "132319"
 /click [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
@@ -10,12 +10,6 @@ VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
 END
 VER 3 000000000000001A "dance" "ClassIcon_Druid."
 /dance
-END
-VER 3 000000000000001D "eq" "ACHIEVEMENT_GUILDPERK_MOUNTUP"
-/script for i=INVSLOT_FIRST_EQUIPPED ,INVSLOT_LAST_EQUIPPED do EquipmentManagerIgnoreSlotForSave(i) end
-END
-VER 3 000000000000000E "FameInfo" "1499566"
-/run print('----');local f=GetMouseFocus();while f do print(f:GetName());f=f:GetParent();end;print('----')
 END
 VER 3 0000000000000007 "focus" "132885"
 /focus
@@ -28,18 +22,6 @@ VER 3 0000000000000021 "follow" "134140"
 END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
 /script local n=GetItemInfo(39354); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
-END
-VER 3 000000000000002C "mount" "INV_MISC_QUESTIONMARK"
-/click ORLOpen Mounts
-END
-VER 3 0000000000000011 "nameplates" "Spell_ChargePositive."
-/console nameplateShowEnemies 1
-/console nameplateShowFriends 1
-END
-VER 3 000000000000002B "noblust" "Ability_DemonHunter_Torment."
-/cancelaura Bloodlust
-/cancelaura Primal Rage
-/cancelaura Time Warp
 END
 VER 3 0000000000000029 "page1" "134153"
 /changeactionbar 1
@@ -62,12 +44,6 @@ END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
 /pull 10
 END
-VER 3 0000000000000017 "RL" "Ability_Hunter_BeastCall02."
-/reload ui
-END
-VER 3 000000000000000D "rlgfx" "TRADE_ENGINEERING"
-/console gxrestart
-END
 VER 3 0000000000000013 "sheathe" "Ability_Warrior_Challange."
 /run ToggleSheath()
 END
@@ -84,12 +60,6 @@ END
 VER 3 000000000000001F "t14" "INV_MISC_QUESTIONMARK"
 #showtooltip 14
 /use [@mouseover][@target] 14
-END
-VER 3 000000000000002F "tas test1" "Spell_ChargeNegative."
-/script local r=WeakAuras.GetRegion("ToshAssignSender TEST"); if r and r.test then r:test() end
-END
-VER 3 0000000000000030 "tas test2" "Spell_ChargePositive."
-/script local r=WeakAuras.GetRegion("ToshAssignSende TESTr"); if r and r.test2 then r:test2() end
 END
 VER 3 000000000000002E "TB" "Icon_PetFamily_Mechanical."
 /script local r=WeakAuras.GetRegion("Elv AB toggle"); if r and r.toggle then r:toggle() end
