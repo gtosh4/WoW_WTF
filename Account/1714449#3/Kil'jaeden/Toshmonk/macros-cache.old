@@ -12,7 +12,7 @@ VER 3 0100000000000001 "Detox" "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000D "em" "INV_Misc_QuestionMark"
 #showtooltip Enveloping Mist
-/cast [@mouseover]Enveloping Mist
+/cast [channeling,@target,help][@mouseover]Enveloping Mist
 END
 VER 3 0100000000000016 "expel" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -39,10 +39,6 @@ VER 3 010000000000000E "sm" "INV_Misc_QuestionMark"
 #showtooltip
 /use [@mouseover]Soothing Mist
 END
-VER 3 0100000000000014 "sm" "INV_Misc_QuestionMark"
-#showtooltip Surging Mist
-/cast [@mouseover,noharm] Surging Mist
-END
 VER 3 0100000000000012 "t5" "INV_Misc_QuestionMark"
 #showtooltip [talent:5/1]Healing Elixir; [talent:5/2]Diffuse Magic;[talent:5/3]Dampen Harm
 /cast [talent:5/1]Healing Elixir; [talent:5/2]Diffuse Magic;[talent:5/3]Dampen Harm
@@ -52,10 +48,6 @@ VER 3 010000000000000B "tauntstatue" "INV_Misc_QuestionMark"
 /target Black Ox Statue
 /cast [@target,exists] Provoke
 /targetlasttarget
-END
-VER 3 0100000000000017 "tier90" "INV_Misc_QuestionMark"
-#showtooltip
-/cast [talent:6/1] Summon Jade Serpent Statue; [talent:6/2] Refreshing Jade Wind; [talent:6/2] Invoke Chi-Ji, the Red Crane
 END
 VER 3 0100000000000002 "Tiger's Lust" "INV_MISC_QUESTIONMARK"
 #showtooltip Tiger's Lust

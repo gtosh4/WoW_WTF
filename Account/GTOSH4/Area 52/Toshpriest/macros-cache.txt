@@ -45,7 +45,7 @@ VER 3 010000000000000B "salv" "INV_Misc_QuestionMark"
 END
 VER 3 0100000000000007 "SC" "INV_Misc_QuestionMark"
 #showtooltip
-/cast [spec:3,@mouseover,noharm] Shadow Covenant; [spec:2,@mouseover,exists,help] Holy Ward;[spec:2,@player] Holy Ward
+/cast [spec:2,@mouseover,exists,help] Holy Ward;[spec:2,@player] Holy Ward; [spec:3,talent:5/3] Shadow Crash; [spec:3,talent:6/3] Void Torrent
 END
 VER 3 010000000000000D "seren" "INV_Misc_QuestionMark"
 #showtooltip Holy Word: Serenity

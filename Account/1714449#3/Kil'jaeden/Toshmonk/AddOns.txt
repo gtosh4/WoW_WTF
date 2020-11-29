@@ -22,3 +22,5 @@ RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_TW_A_R: disabled
 RaiderIO_DB_TW_H_R: disabled
 AAP-Core: disabled
+BigWigs_Voice: enabled
+LittleWigs: enabled

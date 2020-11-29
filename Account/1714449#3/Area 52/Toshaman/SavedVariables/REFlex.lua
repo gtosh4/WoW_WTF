@@ -1,7 +1,7 @@
 
 REFlexSettings = {
 	["MiniMapButtonSettings"] = {
-		["hide"] = false,
+		["hide"] = true,
 	},
 	["ShowServerName"] = false,
 	["CurrentTab"] = 1,
@@ -19,7 +19,7 @@ REFlexSettings = {
 		["DateMode"] = 1,
 	},
 	["ArenaStatsLimit"] = 3,
-	["FirstTime"] = true,
+	["FirstTime"] = false,
 	["ConfigVersion"] = 275,
 	["LDBSide"] = "A",
 }
