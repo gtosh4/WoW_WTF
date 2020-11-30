@@ -7,7 +7,7 @@ OneRing_Config = {
 	["ProfileStorage"] = {
 		["default"] = {
 			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPCTAt"] = "ABuejUSlLKe",
 			},
 			["Bindings"] = {
 				["RaidSymbols"] = false,
@@ -97,8 +97,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 		},
 	},

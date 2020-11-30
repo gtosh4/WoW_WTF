@@ -24,19 +24,19 @@ CliqueDB3 = {
 		["Toshmonk - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Toshmonk - Kil'jaeden",
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Toshmonk - Kil'jaeden",
+			["specswap"] = false,
 			["downclick"] = true,
+			["spec3_profileKey"] = "Toshmonk - Kil'jaeden",
 			["spec2_profileKey"] = "Toshmonk - Kil'jaeden",
 			["alerthidden"] = true,
-			["specswap"] = false,
 		},
 		["Toshaman - Area 52"] = {
 			["spec1_profileKey"] = "Toshaman - Area 52",
-			["spec3_profileKey"] = "Toshaman - Area 52",
+			["spec2_profileKey"] = "Toshaman - Area 52",
 			["downclick"] = true,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshaman - Area 52",
 			["specswap"] = false,
+			["spec3_profileKey"] = "Toshaman - Area 52",
 		},
 	},
 	["profileKeys"] = {
@@ -57,9 +57,8 @@ CliqueDB3 = {
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "CTRL-BUTTON2",
+					["type"] = "menu",
+					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -67,14 +66,15 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "BUTTON2",
+					["key"] = "CTRL-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
 				}, -- [3]
 				{
-					["type"] = "menu",
-					["key"] = "ALT-BUTTON3",
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -82,7 +82,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "ALT-BUTTON2",
+					["key"] = "CTRL-SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -90,7 +90,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "ALT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -98,7 +98,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "CTRL-SHIFT-BUTTON2",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},

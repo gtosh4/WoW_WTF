@@ -8,7 +8,7 @@ DataStore_AgendaDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1606599351,
+				["lastUpdate"] = 1606695527,
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["lastUpdate"] = 1606295252,
@@ -17,7 +17,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[406180945] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -31,7 +31,7 @@ DataStore_AgendaDB = {
 					},
 					[406189459] = {
 						["name"] = "De Other Side Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Dealer Xy'exa"] = true,
@@ -45,7 +45,7 @@ DataStore_AgendaDB = {
 					},
 					[406192029] = {
 						["name"] = "Plaguefall Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Domina Venomblade"] = true,
@@ -59,7 +59,7 @@ DataStore_AgendaDB = {
 					},
 					[406199512] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -73,7 +73,7 @@ DataStore_AgendaDB = {
 					},
 					[406195785] = {
 						["name"] = "Theater of Pain Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 5,
 						["bosses"] = {
 							["Gorechop"] = true,
@@ -88,7 +88,7 @@ DataStore_AgendaDB = {
 					},
 					[406187332] = {
 						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 3,
 						["bosses"] = {
 							["Mistcaller"] = true,
@@ -101,7 +101,7 @@ DataStore_AgendaDB = {
 					},
 					[406201683] = {
 						["name"] = "Sanguine Depths Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["General Kaal"] = true,
@@ -115,7 +115,7 @@ DataStore_AgendaDB = {
 					},
 					[406183758] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1606834798,
+						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Oryphrion"] = true,
@@ -128,7 +128,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1606630953,
+				["lastUpdate"] = 1606697743,
 			},
 		},
 	},

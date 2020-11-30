@@ -2,15 +2,6 @@
 ViragDevTool_Settings = {
 	["isSideBarOpen"] = false,
 	["fontSize"] = 10,
-	["collResizerPosition"] = 449.9998168945313,
-	["isWndOpen"] = false,
-	["history"] = {
-		"find LFR", -- [1]
-		"find SLASH", -- [2]
-		"find Data ViragDevTool", -- [3]
-		"startswith Virag", -- [4]
-		"ViragDevTool.settings.history", -- [5]
-	},
 	["events"] = {
 		{
 			["event"] = "ALL",
@@ -21,21 +12,23 @@ ViragDevTool_Settings = {
 			["active"] = false,
 		}, -- [2]
 		{
-			["unit"] = "player",
-			["event"] = "UNIT_AURA",
 			["active"] = false,
+			["event"] = "UNIT_AURA",
+			["unit"] = "player",
 		}, -- [3]
 		{
 			["event"] = "CHAT_MSG_CHANNEL",
 			["active"] = false,
 		}, -- [4]
 	},
-	["tArgs"] = {
+	["isWndOpen"] = false,
+	["history"] = {
+		"find LFR", -- [1]
+		"find SLASH", -- [2]
+		"find Data ViragDevTool", -- [3]
+		"startswith Virag", -- [4]
+		"ViragDevTool.settings.history", -- [5]
 	},
-	["logs"] = {
-	},
-	["MAX_HISTORY_SIZE"] = 50,
-	["sideBarTabSelected"] = "history",
 	["colors"] = {
 		["ok"] = "|cFF00FF00",
 		["string"] = {
@@ -44,7 +37,7 @@ ViragDevTool_Settings = {
 			0.45, -- [3]
 			1, -- [4]
 		},
-		["white"] = "|cFFFFFFFF",
+		["gray"] = "|cFFBEB9B5",
 		["parent"] = "|cFFBEB9B5",
 		["lightgreen"] = "|cFF98FB98",
 		["number"] = {
@@ -53,18 +46,16 @@ ViragDevTool_Settings = {
 			0.41, -- [3]
 			1, -- [4]
 		},
-		["red"] = "|cFFFF0000",
-		["function"] = {
-			1, -- [1]
-			0.49, -- [2]
-			0.04, -- [3]
-			1, -- [4]
-		},
-		["green"] = "|cFF00FF00",
 		["default"] = {
 			1, -- [1]
 			1, -- [2]
 			1, -- [3]
+			1, -- [4]
+		},
+		["function"] = {
+			1, -- [1]
+			0.49, -- [2]
+			0.04, -- [3]
 			1, -- [4]
 		},
 		["table"] = {
@@ -73,9 +64,18 @@ ViragDevTool_Settings = {
 			0.94, -- [3]
 			1, -- [4]
 		},
-		["darkred"] = "|cFFC25B56",
 		["lightblue"] = "|cFF96C0CE",
+		["green"] = "|cFF00FF00",
+		["darkred"] = "|cFFC25B56",
+		["red"] = "|cFFFF0000",
 		["error"] = "|cFFFF0000",
-		["gray"] = "|cFFBEB9B5",
+		["white"] = "|cFFFFFFFF",
 	},
+	["tArgs"] = {
+	},
+	["logs"] = {
+	},
+	["MAX_HISTORY_SIZE"] = 50,
+	["sideBarTabSelected"] = "history",
+	["collResizerPosition"] = 449.9998168945313,
 }

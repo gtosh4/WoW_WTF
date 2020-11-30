@@ -8,7 +8,7 @@ DataStore_PetsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1606599351,
+				["lastUpdate"] = 1606695015,
 				["CRITTER"] = {
 					301136, -- [1]
 					315290, -- [2]
@@ -34,7 +34,7 @@ DataStore_PetsDB = {
 				["lastUpdate"] = 1606295252,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1606630953,
+				["lastUpdate"] = 1606697743,
 				["CRITTER"] = {
 					279638, -- [1]
 					253916, -- [2]

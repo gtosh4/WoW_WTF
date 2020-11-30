@@ -42,10 +42,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["raid"] = "By Group",
-								["party"] = "By Role",
-								["solo"] = "By Role",
 								["arena"] = "By Group",
+								["raid"] = "By Group",
+								["solo"] = "By Role",
+								["party"] = "By Role",
 							},
 							["BackgroundB"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -56,8 +56,8 @@ Grid2DB = {
 							["anchor"] = "TOP",
 							["BackgroundG"] = 0.1019607843137255,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -309.2063212137,
-							["PosX"] = -250.6545500614966,
+							["PosY"] = -309.2061649637035,
+							["PosX"] = -250.6545613148533,
 							["BackgroundR"] = 0.1019607843137255,
 							["BackgroundA"] = 1,
 							["horizontal"] = false,
@@ -71,10 +71,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["party"] = "By Group",
-								["raid"] = "By Group",
-								["solo"] = "By Group",
 								["arena"] = "By Group",
+								["party"] = "By Group",
+								["solo"] = "By Group",
+								["raid"] = "By Group",
 							},
 							["BackgroundR"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -912,15 +912,15 @@ Grid2DB = {
 						["r"] = 0.6,
 					},
 				},
-				["buff-GlimmerofLight-mine"] = {
-					["spellName"] = "Glimmer of Light",
+				["buff-Riptide-mine"] = {
+					["spellName"] = 61295,
 					["type"] = "buff",
 					["mine"] = 1,
 					["color1"] = {
 						["a"] = 1,
-						["r"] = 0.3019607843137255,
-						["g"] = 0.3019607843137255,
-						["b"] = 0.3019607843137255,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
 					},
 				},
 				["debuff-WeakenedSoul"] = {
@@ -1061,6 +1061,31 @@ Grid2DB = {
 						["b"] = 0.2,
 					},
 				},
+				["buff-GlimmerofLight-mine"] = {
+					["spellName"] = "Glimmer of Light",
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.3019607843137255,
+						["g"] = 0.3019607843137255,
+						["b"] = 0.3019607843137255,
+					},
+				},
+				["buff-BeaconofLight-mine"] = {
+					["spellName"] = 53563,
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+				},
+				["leader"] = {
+					["hideInCombat"] = true,
+				},
 				["raid-debuffs"] = {
 					["debuffs"] = {
 						[968] = {
@@ -1185,31 +1210,6 @@ Grid2DB = {
 							257582, -- [2]
 							259853, -- [3]
 						},
-					},
-				},
-				["buff-BeaconofLight-mine"] = {
-					["spellName"] = 53563,
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
-				},
-				["leader"] = {
-					["hideInCombat"] = true,
-				},
-				["buff-Riptide-mine"] = {
-					["spellName"] = 61295,
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
 					},
 				},
 				["raid-debuffs2"] = {
@@ -1421,9 +1421,9 @@ Grid2DB = {
 				["bar-main"] = {
 					["heal-absorbs"] = 4,
 					["shields"] = 5,
+					["health-current"] = 1,
 					["my-heals-incoming"] = 3,
 					["heals-incoming"] = 2,
-					["health-current"] = 1,
 				},
 				["icons-bottomleft-large"] = {
 					["debuffs-Dispellable"] = 50,
@@ -1454,12 +1454,12 @@ Grid2DB = {
 					["raid@lfr"] = 0,
 					["solo"] = 1,
 					["15"] = 0,
-					["arena"] = 1,
+					["raid"] = 2,
 					["party"] = 1,
 					["default"] = 1,
-					["raid"] = 2,
-					["20"] = 0,
 					["raid@mythic"] = 0,
+					["20"] = 0,
+					["arena"] = 1,
 					["raid@flex"] = 0,
 					["10"] = 0,
 				},
