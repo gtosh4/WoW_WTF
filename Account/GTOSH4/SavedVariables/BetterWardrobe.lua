@@ -29,14 +29,13 @@ BetterWardrobe_SavedSetData = {
 		["sets"] = {
 			["Toshpriest - Area 52"] = {
 				{
-					["items"] = {
-					},
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["favorite"] = false,
+					["icon"] = 2059677,
 					["limitedTimeSet"] = false,
-					["collected"] = true,
+					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
 					["expansionID"] = 1,
 					["sources"] = {
@@ -60,22 +59,22 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
-					["patchID"] = "",
-					["setID"] = 5000,
-					["uiOrder"] = 100,
-					["icon"] = 2059677,
 					["name"] = "something",
-				}, -- [1]
-				{
+					["setID"] = 5000,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
 					["items"] = {
 					},
+				}, -- [1]
+				{
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["favorite"] = false,
+					["icon"] = 1091093,
 					["limitedTimeSet"] = false,
-					["collected"] = true,
+					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
 					["expansionID"] = 1,
 					["sources"] = {
@@ -99,17 +98,19 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
-					["patchID"] = "",
-					["setID"] = 5001,
-					["uiOrder"] = 200,
-					["icon"] = 1091093,
 					["name"] = "something2",
+					["setID"] = 5001,
+					["patchID"] = "",
+					["collected"] = true,
+					["favorite"] = false,
+					["items"] = {
+					},
 				}, -- [2]
 			},
 			["Toshpal - Area 52"] = {
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -117,8 +118,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						69101, -- [1]
 						0, -- [2]
@@ -140,15 +140,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "purp",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5000,
 					["uiOrder"] = 100,
 					["icon"] = 133077,
-					["isClass"] = true,
+					["name"] = "purp",
 				}, -- [1]
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -156,8 +157,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -179,15 +179,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "tov",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5001,
 					["uiOrder"] = 200,
 					["icon"] = 1360261,
-					["isClass"] = true,
+					["name"] = "tov",
 				}, -- [2]
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -195,8 +196,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -218,12 +218,12 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "roman",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5002,
 					["uiOrder"] = 300,
 					["icon"] = 1360261,
-					["isClass"] = true,
+					["name"] = "roman",
 				}, -- [3]
 			},
 		},

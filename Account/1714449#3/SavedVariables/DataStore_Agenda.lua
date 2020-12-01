@@ -2,16 +2,13 @@
 DataStore_AgendaDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
 				["lastUpdate"] = 1606695527,
-			},
-			["Default.Area 52.Toshmonk"] = {
-				["lastUpdate"] = 1606295252,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["DungeonIDs"] = {
@@ -43,15 +40,15 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406192029] = {
-						["name"] = "Plaguefall Mythic",
+					[406183758] = {
+						["name"] = "Spires of Ascension Mythic",
 						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["Domina Venomblade"] = true,
-							["Stradama Margrave"] = true,
-							["Doctor Ickus"] = true,
-							["Globgrog"] = true,
+							["Oryphrion"] = true,
+							["Kin-Tara"] = true,
+							["Ventunax"] = true,
+							["Devos, Paragon of Loyalty"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
@@ -113,22 +110,25 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406183758] = {
-						["name"] = "Spires of Ascension Mythic",
+					[406192029] = {
+						["name"] = "Plaguefall Mythic",
 						["resetTime"] = 1606834799,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["Oryphrion"] = true,
-							["Kin-Tara"] = true,
-							["Ventunax"] = true,
-							["Devos, Paragon of Loyalty"] = true,
+							["Domina Venomblade"] = true,
+							["Stradama Margrave"] = true,
+							["Doctor Ickus"] = true,
+							["Globgrog"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1606697743,
+				["lastUpdate"] = 1606796016,
+			},
+			["Default.Area 52.Toshmonk"] = {
+				["lastUpdate"] = 1606295252,
 			},
 		},
 	},
