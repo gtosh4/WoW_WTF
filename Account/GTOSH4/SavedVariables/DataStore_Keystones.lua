@@ -10,7 +10,7 @@ DataStore_KeystonesDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2020-12-01",
+			["NextWeeklyReset"] = "2020-12-08",
 		},
 	},
 }

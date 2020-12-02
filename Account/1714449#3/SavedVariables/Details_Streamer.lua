@@ -2,9 +2,9 @@
 Details_StreamerDB = {
 	["characters"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshaman - Area 52"] = "Toshpriest - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshpriest - Area 52",
 		["Toshmonk - Area 52"] = "Toshpriest - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshpriest - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
@@ -32,12 +32,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["row_height"] = 20,
-			["point"] = "CENTER",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["author"] = "Details! Team",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["author"] = "Details! Team",
+			["use_spark"] = true,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -60,17 +60,17 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 9.1552734375e-05,
 				["x"] = 6.103515625e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
 			["x"] = 6.103515625e-05,
 			["font_face"] = "Friz Quadrata TT",
-			["use_spark"] = true,
 			["font_size"] = 10,
 			["main_frame_strata"] = "LOW",
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
 }

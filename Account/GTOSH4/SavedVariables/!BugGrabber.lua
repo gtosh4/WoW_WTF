@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 340,
 	["lastSanitation"] = 3,
+	["session"] = 343,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ShadowedUnitFrames' tried to call the protected function 'SUFHeaderboss:Show()'.",

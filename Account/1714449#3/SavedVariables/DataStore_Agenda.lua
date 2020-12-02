@@ -2,33 +2,22 @@
 DataStore_AgendaDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
 				["lastUpdate"] = 1606695527,
 			},
+			["Default.Area 52.Toshmonk"] = {
+				["lastUpdate"] = 1606295252,
+			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["DungeonIDs"] = {
-					[406180945] = {
-						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1606834799,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["Blightbone"] = true,
-							["Amarth, The Harvester"] = true,
-							["Stichflesh"] = true,
-							["Nalthor the Rimebinder"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
-					[406189459] = {
+					[406385737] = {
 						["name"] = "De Other Side Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Dealer Xy'exa"] = true,
@@ -40,9 +29,9 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406183758] = {
+					[406391403] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Oryphrion"] = true,
@@ -54,9 +43,9 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406199512] = {
+					[406397399] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -68,9 +57,64 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406195785] = {
+					[406394425] = {
+						["name"] = "Sanguine Depths Mythic",
+						["resetTime"] = 1607439598,
+						["numEncounters"] = 4,
+						["bosses"] = {
+							["General Kaal"] = true,
+							["Grand Proctor Beryllia"] = true,
+							["Executor Tarvold"] = true,
+							["Kryxis the Voracious"] = true,
+						},
+						["progress"] = 4,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
+					[406383501] = {
+						["name"] = "Mists of Tirna Scithe Mythic",
+						["resetTime"] = 1607439598,
+						["numEncounters"] = 3,
+						["bosses"] = {
+							["Mistcaller"] = true,
+							["Tred'ova"] = true,
+							["Ingra Maloch"] = true,
+						},
+						["progress"] = 3,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
+					[406402275] = {
+						["name"] = "Plaguefall Mythic",
+						["resetTime"] = 1607439598,
+						["numEncounters"] = 4,
+						["bosses"] = {
+							["Domina Venomblade"] = true,
+							["Stradama Margrave"] = true,
+							["Doctor Ickus"] = true,
+							["Globgrog"] = true,
+						},
+						["progress"] = 4,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
+					[406387244] = {
+						["name"] = "The Necrotic Wake Mythic",
+						["resetTime"] = 1607439598,
+						["numEncounters"] = 4,
+						["bosses"] = {
+							["Blightbone"] = true,
+							["Amarth, The Harvester"] = true,
+							["Stichflesh"] = true,
+							["Nalthor the Rimebinder"] = true,
+						},
+						["progress"] = 4,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
+					[406398960] = {
 						["name"] = "Theater of Pain Mythic",
-						["resetTime"] = 1606834799,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 5,
 						["bosses"] = {
 							["Gorechop"] = true,
@@ -83,52 +127,8 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406187332] = {
-						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1606834799,
-						["numEncounters"] = 3,
-						["bosses"] = {
-							["Mistcaller"] = true,
-							["Tred'ova"] = true,
-							["Ingra Maloch"] = true,
-						},
-						["progress"] = 3,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
-					[406201683] = {
-						["name"] = "Sanguine Depths Mythic",
-						["resetTime"] = 1606834799,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["General Kaal"] = true,
-							["Grand Proctor Beryllia"] = true,
-							["Executor Tarvold"] = true,
-							["Kryxis the Voracious"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
-					[406192029] = {
-						["name"] = "Plaguefall Mythic",
-						["resetTime"] = 1606834799,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["Domina Venomblade"] = true,
-							["Stradama Margrave"] = true,
-							["Doctor Ickus"] = true,
-							["Globgrog"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
 				},
-				["lastUpdate"] = 1606796016,
-			},
-			["Default.Area 52.Toshmonk"] = {
-				["lastUpdate"] = 1606295252,
+				["lastUpdate"] = 1606888879,
 			},
 		},
 	},

@@ -6,17 +6,17 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "ABuejUSlLKe",
+			},
 			["Bindings"] = {
 				["RaidSymbols"] = false,
 				["TrinketSlots"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
-				["WorldMarkers"] = "ALT-R",
-				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-G",
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "ABuejUSlLKe",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-R",
 			},
 		},
 	},
@@ -97,8 +97,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 		},
 	},

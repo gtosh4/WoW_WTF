@@ -7,12 +7,12 @@ WQTrackerDB = {
 		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshaman - Area 52"] = "Default",
 		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshpriest - Azralon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -25,62 +25,208 @@ WQTrackerDB = {
 			["world_map_config"] = {
 				["summary_show"] = false,
 			},
-			["rarescan"] = {
-				["recently_killed"] = {
-					["Player-3676-0AD8DD4D"] = {
+			["history"] = {
+				["period"] = {
+					["global"] = {
+						["201201"] = {
+							["quest"] = 1,
+						},
+						["201128"] = {
+							["quest"] = 2,
+							["artifact"] = 105,
+						},
+						["200827"] = {
+							["quest"] = 6,
+							["resource"] = 50,
+						},
+						["201130"] = {
+							["quest"] = 3,
+							["artifact"] = 280,
+						},
+						["200808"] = {
+							["quest"] = 1,
+						},
+						["200816"] = {
+							["quest"] = 1,
+						},
+						["201125"] = {
+							["artifact"] = 700,
+							["quest"] = 14,
+							["gold"] = 5251800,
+						},
+						["201127"] = {
+							["artifact"] = 245,
+							["quest"] = 9,
+							["resource"] = 350,
+						},
+						["200817"] = {
+							["quest"] = 1,
+							["profession"] = {
+								[152668] = 1,
+							},
+						},
 					},
-					["Player-84-098A5875"] = {
-					},
-					["Player-9-0A76FA3F"] = {
-					},
-					["Player-3676-0D0FE5F5"] = {
-					},
-					["Player-84-0964B87F"] = {
-					},
-					["Player-3676-0B20F78C"] = {
-					},
-					["Player-3676-0AD945E6"] = {
+					["character"] = {
+						["Player-3676-0AD8DD4D"] = {
+							["200816"] = {
+								["quest"] = 1,
+							},
+							["200827"] = {
+								["quest"] = 1,
+								["resource"] = 50,
+							},
+							["200808"] = {
+								["quest"] = 1,
+							},
+						},
+						["Player-3676-0B20F78C"] = {
+							["200817"] = {
+								["quest"] = 1,
+								["profession"] = {
+									[152668] = 1,
+								},
+							},
+							["200827"] = {
+								["quest"] = 5,
+							},
+						},
+						["Player-3676-0D0FE5F5"] = {
+							["201130"] = {
+								["quest"] = 3,
+								["artifact"] = 280,
+							},
+							["201201"] = {
+								["quest"] = 1,
+							},
+							["201128"] = {
+								["quest"] = 2,
+								["artifact"] = 105,
+							},
+							["201127"] = {
+								["artifact"] = 245,
+								["quest"] = 9,
+								["resource"] = 350,
+							},
+							["201125"] = {
+								["artifact"] = 700,
+								["quest"] = 14,
+								["gold"] = 5251800,
+							},
+						},
 					},
 				},
-				["name_cache"] = {
-					[""] = 125820,
-					["Venomarus"] = 142438,
-					["Vrax'thul"] = 126199,
-					["Ramaseñor Aldrus"] = 142508,
-					["Echo of Myzrael"] = 141668,
-					["OOX-Avenger/MG"] = 151296,
-					["Chief Alchemist Munculus"] = 127376,
-					["Kaara the Pale"] = 126860,
-					["Cresting Goliath"] = 141618,
-					["Burning Goliath"] = 141615,
-					["Watcher Aival"] = 127291,
-					["Inquisitor Vethroz"] = 126946,
-					["Lieutenant Xakaar"] = 126254,
-					["Worldsplitter Skuul"] = 127118,
-					["Ven'orn"] = 126115,
-					["Ataxon"] = 126887,
-					["The Many-Faced Devourer"] = 127581,
-					["Gar'zoth"] = 122999,
-					["Umbra'jin"] = 122004,
-					["Malfunctioning Beastbot"] = 151933,
-					["Venenarus"] = 142438,
-					["Golrakahn"] = 124185,
-					["Void Warden Valsuran"] = 127300,
-					["Mistress Il'thendra"] = 122947,
-					["Wrath-Lord Yarez"] = 126338,
-					["Skullripper"] = 142437,
-					["Sorolis the Ill-Fated"] = 126889,
-					["Príncipe Tifonus"] = 152681,
-					["Arachnoid Harvester"] = 151934,
-					["Foul Manifestation"] = 151202,
-					["Admiral Rel'var"] = 127090,
-					["Venomtail Skyfin"] = 126867,
-					["Goldenvein"] = 140769,
-					["Zul'tan the Numerous"] = 126908,
-					["Blistermaw"] = 122958,
-					["Branchlord Aldrus"] = 142508,
-					["Elder Unu"] = 152414,
-					["Instructor Tarahna"] = 126900,
+				["quest"] = {
+					["global"] = {
+						[56090] = 1,
+						[59703] = 1,
+						[59705] = 1,
+						[60337] = 1,
+						[59585] = 1,
+						["total"] = 38,
+						[62241] = 2,
+						[59599] = 1,
+						[57146] = 1,
+						[60739] = 1,
+						[61434] = 1,
+						[51043] = 1,
+						[59804] = 1,
+						[59617] = 1,
+						[59808] = 1,
+						[60574] = 1,
+						[60899] = 1,
+						[60649] = 1,
+						[55359] = 1,
+						[56180] = 1,
+						[59680] = 2,
+						[61352] = 1,
+						[60659] = 1,
+						[59718] = 1,
+						[60476] = 1,
+						[58084] = 1,
+						[62235] = 1,
+						[59789] = 1,
+						[60653] = 1,
+						[57443] = 1,
+						[55358] = 1,
+						[60837] = 1,
+						[52421] = 1,
+						[57218] = 1,
+						[57540] = 1,
+						[62451] = 1,
+						[61631] = 1,
+					},
+					["character"] = {
+						["Player-3676-0AD8DD4D"] = {
+							[57146] = 1,
+							["total"] = 3,
+							[57540] = 1,
+							[51043] = 1,
+						},
+						["Player-3676-0B20F78C"] = {
+							[56090] = 1,
+							["total"] = 6,
+							[55359] = 1,
+							[52421] = 1,
+							[57218] = 1,
+							[55358] = 1,
+							[56180] = 1,
+						},
+						["Player-3676-0D0FE5F5"] = {
+							[60653] = 1,
+							[62235] = 1,
+							[58084] = 1,
+							[61434] = 1,
+							[62241] = 2,
+							[60476] = 1,
+							[62451] = 1,
+							[59703] = 1,
+							[60659] = 1,
+							[59705] = 1,
+							[60574] = 1,
+							[61352] = 1,
+							[60837] = 1,
+							[61631] = 1,
+							[59617] = 1,
+							[59680] = 2,
+							[59789] = 1,
+							[59585] = 1,
+							[57443] = 1,
+							[59808] = 1,
+							[60739] = 1,
+							[60337] = 1,
+							[59718] = 1,
+							[60649] = 1,
+							[59599] = 1,
+							[60899] = 1,
+							[59804] = 1,
+							["total"] = 29,
+						},
+					},
+				},
+				["reward"] = {
+					["global"] = {
+						["artifact"] = 1330,
+						["gold"] = 5251800,
+						["resource"] = 400,
+						["profession"] = {
+							[152668] = 1,
+						},
+					},
+					["character"] = {
+						["Player-3676-0AD8DD4D"] = {
+							["resource"] = 50,
+						},
+						["Player-3676-0B20F78C"] = {
+							["profession"] = {
+								[152668] = 1,
+							},
+						},
+						["Player-3676-0D0FE5F5"] = {
+							["artifact"] = 1330,
+							["resource"] = 350,
+							["gold"] = 5251800,
+						},
+					},
 				},
 			},
 			["TutorialPopupID"] = 5,
@@ -88,113 +234,89 @@ WQTrackerDB = {
 			["anchor_options"] = {
 				[863] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[895] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[942] = {
 					["Enabled"] = true,
+					["YOffset"] = 0,
+					["Alpha"] = 1,
+					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
 				},
 				[14] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[875] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[862] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[864] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 				[896] = {
-					["Enabled"] = true,
-					["TextColor"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0.2, -- [3]
-						0.854, -- [4]
-					},
-					["ScaleOffset"] = 0,
-					["Alpha"] = 1,
-					["YOffset"] = 0,
-				},
-				[1165] = {
-					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
-					["TextColor"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0.2, -- [3]
-						0.854, -- [4]
-					},
-				},
-				[876] = {
 					["Enabled"] = true,
 					["YOffset"] = 0,
 					["Alpha"] = 1,
@@ -208,15 +330,39 @@ WQTrackerDB = {
 				},
 				[1355] = {
 					["Enabled"] = true,
-					["YOffset"] = 0,
-					["Alpha"] = 1,
-					["ScaleOffset"] = 0,
 					["TextColor"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0.2, -- [3]
 						0.854, -- [4]
 					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[876] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
+				},
+				[1165] = {
+					["Enabled"] = true,
+					["TextColor"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0.2, -- [3]
+						0.854, -- [4]
+					},
+					["ScaleOffset"] = 0,
+					["Alpha"] = 1,
+					["YOffset"] = 0,
 				},
 			},
 			["quests_tracked"] = {
@@ -224,17 +370,17 @@ WQTrackerDB = {
 				},
 				["Player-123-08BD5BC9"] = {
 				},
-				["Player-84-0964B87F"] = {
-				},
 				["Player-127-090CC93F"] = {
+				},
+				["Player-84-0964B87F"] = {
 				},
 				["Player-3676-0B20F78C"] = {
 				},
 				["Player-3676-0AC0708D"] = {
 				},
-				["Player-3676-0AD945D6"] = {
+				["Player-9-0B9D6659"] = {
 				},
-				["Player-3723-0B8DAB0A"] = {
+				["Player-3676-0AD945E6"] = {
 				},
 				["Player-84-098A5875"] = {
 				},
@@ -242,9 +388,9 @@ WQTrackerDB = {
 				},
 				["Player-9-0A76FA3F"] = {
 				},
-				["Player-3676-0AD945E6"] = {
+				["Player-3723-0B8DAB0A"] = {
 				},
-				["Player-9-0B9D6659"] = {
+				["Player-3676-0AD945D6"] = {
 				},
 				["Player-3209-0B118D99"] = {
 				},
@@ -309,25 +455,30 @@ WQTrackerDB = {
 				["Player-3676-0B20F78C"] = {
 				},
 				["Player-3676-0D0FE5F5"] = {
-					[61879] = {
-						["expireAt"] = 1606834873,
-						["rewardAmount"] = "15",
-						["rewardTexture"] = 2004597,
+					[59789] = {
+						["expireAt"] = 1606921244,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[61948] = {
-						["expireAt"] = 1606834894,
+					[61883] = {
+						["expireAt"] = 1606921244,
+						["rewardAmount"] = "6",
+						["rewardTexture"] = 1045114,
+					},
+					[61337] = {
+						["expireAt"] = 1606938582,
+						["rewardAmount"] = "|cff2292FF158",
+						["rewardTexture"] = 135949,
+					},
+					[61787] = {
+						["expireAt"] = 1606921242,
 						["rewardAmount"] = "1",
 						["rewardTexture"] = 667492,
 					},
-					[60739] = {
-						["expireAt"] = 1606869454,
+					[61549] = {
+						["expireAt"] = 1606904022,
 						["rewardAmount"] = 0,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
-					},
-					[57328] = {
-						["expireAt"] = 1606800253,
-						["rewardAmount"] = 70,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
 				},
 			},
@@ -342,15 +493,15 @@ WQTrackerDB = {
 					["name"] = "Toshlongboy",
 					["realm"] = "Eldre'Thalas",
 				},
-				["Player-84-0964B87F"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshlongboy",
-					["realm"] = "Eldre'Thalas",
-				},
 				["Player-127-090CC93F"] = {
 					["class"] = "MONK",
 					["name"] = "Daggny",
 					["realm"] = "Frostwolf",
+				},
+				["Player-84-0964B87F"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshlongboy",
+					["realm"] = "Eldre'Thalas",
 				},
 				["Player-3676-0B20F78C"] = {
 					["class"] = "DRUID",
@@ -362,15 +513,15 @@ WQTrackerDB = {
 					["name"] = "Yelluwuy",
 					["realm"] = "Area 52",
 				},
-				["Player-3676-0AD945D6"] = {
-					["class"] = "SHAMAN",
-					["name"] = "Toshaman",
-					["realm"] = "Area 52",
+				["Player-9-0B9D6659"] = {
+					["class"] = "DEATHKNIGHT",
+					["name"] = "Toshdk",
+					["realm"] = "Kil'jaeden",
 				},
-				["Player-3723-0B8DAB0A"] = {
-					["class"] = "WARLOCK",
-					["name"] = "Toshtoon",
-					["realm"] = "Barthilas",
+				["Player-3676-0AD945E6"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
+					["realm"] = "Area 52",
 				},
 				["Player-84-098A5875"] = {
 					["class"] = "PRIEST",
@@ -387,15 +538,15 @@ WQTrackerDB = {
 					["name"] = "Yorman",
 					["realm"] = "Kil'jaeden",
 				},
-				["Player-3676-0AD945E6"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Area 52",
+				["Player-3723-0B8DAB0A"] = {
+					["class"] = "WARLOCK",
+					["name"] = "Toshtoon",
+					["realm"] = "Barthilas",
 				},
-				["Player-9-0B9D6659"] = {
-					["class"] = "DEATHKNIGHT",
-					["name"] = "Toshdk",
-					["realm"] = "Kil'jaeden",
+				["Player-3676-0AD945D6"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Toshaman",
+					["realm"] = "Area 52",
 				},
 				["Player-3209-0B118D99"] = {
 					["class"] = "PRIEST",
@@ -403,200 +554,62 @@ WQTrackerDB = {
 					["realm"] = "Azralon",
 				},
 			},
-			["history"] = {
-				["quest"] = {
-					["global"] = {
-						[56090] = 1,
-						[59703] = 1,
-						[59705] = 1,
-						[60337] = 1,
-						[59585] = 1,
-						["total"] = 37,
-						[62241] = 2,
-						[59599] = 1,
-						[57146] = 1,
-						[60739] = 1,
-						[61434] = 1,
-						[51043] = 1,
-						[59804] = 1,
-						[59617] = 1,
-						[59808] = 1,
-						[60574] = 1,
-						[60899] = 1,
-						[60649] = 1,
-						[55359] = 1,
-						[56180] = 1,
-						[61352] = 1,
-						[61631] = 1,
-						[59718] = 1,
-						[60476] = 1,
-						[58084] = 1,
-						[59680] = 2,
-						[59789] = 1,
-						[57540] = 1,
-						[57443] = 1,
-						[52421] = 1,
-						[60837] = 1,
-						[55358] = 1,
-						[57218] = 1,
-						[60653] = 1,
-						[62235] = 1,
-						[60659] = 1,
+			["rarescan"] = {
+				["recently_killed"] = {
+					["Player-3676-0AD8DD4D"] = {
 					},
-					["character"] = {
-						["Player-3676-0AD8DD4D"] = {
-							[57146] = 1,
-							["total"] = 3,
-							[57540] = 1,
-							[51043] = 1,
-						},
-						["Player-3676-0B20F78C"] = {
-							[56090] = 1,
-							["total"] = 6,
-							[55359] = 1,
-							[52421] = 1,
-							[57218] = 1,
-							[55358] = 1,
-							[56180] = 1,
-						},
-						["Player-3676-0D0FE5F5"] = {
-							[60653] = 1,
-							[62235] = 1,
-							[58084] = 1,
-							[61434] = 1,
-							[62241] = 2,
-							[60476] = 1,
-							[59703] = 1,
-							[59804] = 1,
-							[59705] = 1,
-							[60574] = 1,
-							[61352] = 1,
-							[60899] = 1,
-							[61631] = 1,
-							[59617] = 1,
-							[59680] = 2,
-							[59599] = 1,
-							[59585] = 1,
-							[57443] = 1,
-							[59808] = 1,
-							[60739] = 1,
-							[60337] = 1,
-							[59718] = 1,
-							[60649] = 1,
-							[59789] = 1,
-							[60837] = 1,
-							[60659] = 1,
-							["total"] = 28,
-						},
+					["Player-84-098A5875"] = {
+					},
+					["Player-9-0A76FA3F"] = {
+					},
+					["Player-84-0964B87F"] = {
+					},
+					["Player-3676-0AD945E6"] = {
+					},
+					["Player-3676-0B20F78C"] = {
+					},
+					["Player-3676-0D0FE5F5"] = {
 					},
 				},
-				["period"] = {
-					["global"] = {
-						["200808"] = {
-							["quest"] = 1,
-						},
-						["200816"] = {
-							["quest"] = 1,
-						},
-						["201125"] = {
-							["artifact"] = 700,
-							["quest"] = 14,
-							["gold"] = 5251800,
-						},
-						["201128"] = {
-							["quest"] = 2,
-							["artifact"] = 105,
-						},
-						["200817"] = {
-							["quest"] = 1,
-							["profession"] = {
-								[152668] = 1,
-							},
-						},
-						["201127"] = {
-							["artifact"] = 245,
-							["quest"] = 9,
-							["resource"] = 350,
-						},
-						["200827"] = {
-							["quest"] = 6,
-							["resource"] = 50,
-						},
-						["201130"] = {
-							["quest"] = 3,
-							["artifact"] = 280,
-						},
-					},
-					["character"] = {
-						["Player-3676-0AD8DD4D"] = {
-							["200816"] = {
-								["quest"] = 1,
-							},
-							["200827"] = {
-								["quest"] = 1,
-								["resource"] = 50,
-							},
-							["200808"] = {
-								["quest"] = 1,
-							},
-						},
-						["Player-3676-0B20F78C"] = {
-							["200817"] = {
-								["quest"] = 1,
-								["profession"] = {
-									[152668] = 1,
-								},
-							},
-							["200827"] = {
-								["quest"] = 5,
-							},
-						},
-						["Player-3676-0D0FE5F5"] = {
-							["201130"] = {
-								["quest"] = 3,
-								["artifact"] = 280,
-							},
-							["201125"] = {
-								["artifact"] = 700,
-								["quest"] = 14,
-								["gold"] = 5251800,
-							},
-							["201127"] = {
-								["artifact"] = 245,
-								["quest"] = 9,
-								["resource"] = 350,
-							},
-							["201128"] = {
-								["quest"] = 2,
-								["artifact"] = 105,
-							},
-						},
-					},
-				},
-				["reward"] = {
-					["global"] = {
-						["artifact"] = 1330,
-						["profession"] = {
-							[152668] = 1,
-						},
-						["resource"] = 400,
-						["gold"] = 5251800,
-					},
-					["character"] = {
-						["Player-3676-0AD8DD4D"] = {
-							["resource"] = 50,
-						},
-						["Player-3676-0B20F78C"] = {
-							["profession"] = {
-								[152668] = 1,
-							},
-						},
-						["Player-3676-0D0FE5F5"] = {
-							["artifact"] = 1330,
-							["resource"] = 350,
-							["gold"] = 5251800,
-						},
-					},
+				["name_cache"] = {
+					[""] = 125820,
+					["Venomarus"] = 142438,
+					["Vrax'thul"] = 126199,
+					["Ramaseñor Aldrus"] = 142508,
+					["Echo of Myzrael"] = 141668,
+					["OOX-Avenger/MG"] = 151296,
+					["Chief Alchemist Munculus"] = 127376,
+					["Kaara the Pale"] = 126860,
+					["Cresting Goliath"] = 141618,
+					["Burning Goliath"] = 141615,
+					["Watcher Aival"] = 127291,
+					["Inquisitor Vethroz"] = 126946,
+					["Lieutenant Xakaar"] = 126254,
+					["Worldsplitter Skuul"] = 127118,
+					["Ven'orn"] = 126115,
+					["Ataxon"] = 126887,
+					["The Many-Faced Devourer"] = 127581,
+					["Gar'zoth"] = 122999,
+					["Venenarus"] = 142438,
+					["Malfunctioning Beastbot"] = 151933,
+					["Umbra'jin"] = 122004,
+					["Golrakahn"] = 124185,
+					["Void Warden Valsuran"] = 127300,
+					["Mistress Il'thendra"] = 122947,
+					["Branchlord Aldrus"] = 142508,
+					["Skullripper"] = 142437,
+					["Sorolis the Ill-Fated"] = 126889,
+					["Príncipe Tifonus"] = 152681,
+					["Blistermaw"] = 122958,
+					["Zul'tan the Numerous"] = 126908,
+					["Goldenvein"] = 140769,
+					["Venomtail Skyfin"] = 126867,
+					["Admiral Rel'var"] = 127090,
+					["Foul Manifestation"] = 151202,
+					["Arachnoid Harvester"] = 151934,
+					["Wrath-Lord Yarez"] = 126338,
+					["Elder Unu"] = 152414,
+					["Instructor Tarahna"] = 126900,
 				},
 			},
 		},
