@@ -18,7 +18,7 @@ DataStore_AgendaDB = {
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},
-				["lastUpdate"] = 1606888201,
+				["lastUpdate"] = 1606968892,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["lastUpdate"] = 1606295309,

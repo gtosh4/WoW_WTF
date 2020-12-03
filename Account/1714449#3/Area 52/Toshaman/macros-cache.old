@@ -11,8 +11,8 @@ VER 3 010000000000000D "cleanse" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Cleanse Spirit
 END
 VER 3 0100000000000007 "es" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@mouseover] Earth Shield
+#showtooltip [talent:2/3] Earth Shield; [talent:6/2] Downpour; [talent:5/3] Wind Rush Totem
+/cast [talent:2/3,@mouseover,help][talent:2/3,@player] Earth Shield;[talent:6/2] Dowpour; [talent:5/3] Wind Rush Totem
 END
 VER 3 010000000000000A "Eye" "INV_MISC_QUESTIONMARK"
 #showtooltip Eye of the Storm

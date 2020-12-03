@@ -8,30 +8,16 @@ DataStore_AgendaDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1606695527,
+				["lastUpdate"] = 1606941419,
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["lastUpdate"] = 1606295252,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["DungeonIDs"] = {
-					[406385737] = {
-						["name"] = "De Other Side Mythic",
-						["resetTime"] = 1607439598,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["Dealer Xy'exa"] = true,
-							["The Manastorms"] = true,
-							["Mueh'zala"] = true,
-							["Hakkar, the Soulflayer"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
 					[406391403] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1607439598,
+						["resetTime"] = 1607439599,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Oryphrion"] = true,
@@ -43,9 +29,23 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
+					[406385737] = {
+						["name"] = "De Other Side Mythic",
+						["resetTime"] = 1607439599,
+						["numEncounters"] = 4,
+						["bosses"] = {
+							["Dealer Xy'exa"] = true,
+							["The Manastorms"] = true,
+							["Mueh'zala"] = true,
+							["Hakkar, the Soulflayer"] = true,
+						},
+						["progress"] = 4,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
 					[406397399] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1607439598,
+						["resetTime"] = 1607439599,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -59,7 +59,7 @@ DataStore_AgendaDB = {
 					},
 					[406394425] = {
 						["name"] = "Sanguine Depths Mythic",
-						["resetTime"] = 1607439598,
+						["resetTime"] = 1607439599,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["General Kaal"] = true,
@@ -73,7 +73,7 @@ DataStore_AgendaDB = {
 					},
 					[406383501] = {
 						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1607439598,
+						["resetTime"] = 1607439599,
 						["numEncounters"] = 3,
 						["bosses"] = {
 							["Mistcaller"] = true,
@@ -84,37 +84,9 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406402275] = {
-						["name"] = "Plaguefall Mythic",
-						["resetTime"] = 1607439598,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["Domina Venomblade"] = true,
-							["Stradama Margrave"] = true,
-							["Doctor Ickus"] = true,
-							["Globgrog"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
-					[406387244] = {
-						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1607439598,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["Blightbone"] = true,
-							["Amarth, The Harvester"] = true,
-							["Stichflesh"] = true,
-							["Nalthor the Rimebinder"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
 					[406398960] = {
 						["name"] = "Theater of Pain Mythic",
-						["resetTime"] = 1607439598,
+						["resetTime"] = 1607439599,
 						["numEncounters"] = 5,
 						["bosses"] = {
 							["Gorechop"] = true,
@@ -127,8 +99,36 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
+					[406387244] = {
+						["name"] = "The Necrotic Wake Mythic",
+						["resetTime"] = 1607439599,
+						["numEncounters"] = 4,
+						["bosses"] = {
+							["Blightbone"] = true,
+							["Amarth, The Harvester"] = true,
+							["Stichflesh"] = true,
+							["Nalthor the Rimebinder"] = true,
+						},
+						["progress"] = 4,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
+					[406402275] = {
+						["name"] = "Plaguefall Mythic",
+						["resetTime"] = 1607439599,
+						["numEncounters"] = 4,
+						["bosses"] = {
+							["Domina Venomblade"] = true,
+							["Stradama Margrave"] = true,
+							["Doctor Ickus"] = true,
+							["Globgrog"] = true,
+						},
+						["progress"] = 4,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
 				},
-				["lastUpdate"] = 1606888879,
+				["lastUpdate"] = 1606966927,
 			},
 		},
 	},
