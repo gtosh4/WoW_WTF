@@ -50,6 +50,10 @@ END
 VER 3 0000000000000012 "skull" "Ability_Iyyokuk_Drum_White."
 /run SetRaidTarget("target", 8)
 END
+VER 3 0000000000000034 "soothe" "INV_MISC_QUESTIONMARK"
+#showtooltip Mind Soothe
+/cast [@mouseover][@target] Mind Soothe
+END
 VER 3 0000000000000026 "stopcasting" "inv_knife_1h_artifactfangs_d_04."
 /stopcasting
 END

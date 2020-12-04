@@ -17,8 +17,20 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/11/28 00:01",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1606884068,
-				["lastVisitDate"] = "2020/12/01 23:41",
+				["lastUpdate"] = 1607041348,
+				["Mails"] = {
+					{
+						["lastCheck"] = 1607041349,
+						["sender"] = "Nvkyr",
+						["subject"] = "nyalotha gold payouts",
+						["returned"] = false,
+						["money"] = 6870000000,
+						["text"] = "nyalotha gold payouts\n11/13\n11/20",
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
+						["daysLeft"] = 30.77395820617676,
+					}, -- [1]
+				},
+				["lastVisitDate"] = "2020/12/03 19:22",
 			},
 		},
 	},

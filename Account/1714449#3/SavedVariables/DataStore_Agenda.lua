@@ -17,7 +17,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[406391403] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Oryphrion"] = true,
@@ -31,7 +31,7 @@ DataStore_AgendaDB = {
 					},
 					[406385737] = {
 						["name"] = "De Other Side Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Dealer Xy'exa"] = true,
@@ -45,7 +45,7 @@ DataStore_AgendaDB = {
 					},
 					[406397399] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -59,7 +59,7 @@ DataStore_AgendaDB = {
 					},
 					[406394425] = {
 						["name"] = "Sanguine Depths Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["General Kaal"] = true,
@@ -73,7 +73,7 @@ DataStore_AgendaDB = {
 					},
 					[406383501] = {
 						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 3,
 						["bosses"] = {
 							["Mistcaller"] = true,
@@ -86,7 +86,7 @@ DataStore_AgendaDB = {
 					},
 					[406398960] = {
 						["name"] = "Theater of Pain Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 5,
 						["bosses"] = {
 							["Gorechop"] = true,
@@ -101,7 +101,7 @@ DataStore_AgendaDB = {
 					},
 					[406387244] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -115,7 +115,7 @@ DataStore_AgendaDB = {
 					},
 					[406402275] = {
 						["name"] = "Plaguefall Mythic",
-						["resetTime"] = 1607439599,
+						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Domina Venomblade"] = true,
@@ -128,7 +128,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1606966927,
+				["lastUpdate"] = 1607047699,
 			},
 		},
 	},

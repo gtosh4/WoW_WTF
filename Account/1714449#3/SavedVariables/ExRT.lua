@@ -87,7 +87,7 @@ VExRT = {
 			[2289] = "Blackwater Behemoth",
 			[1105] = "Sindragosa",
 			[2099] = "Hadal Darkfathom",
-			[2258] = "K.U.-J.0.",
+			[2131] = "Tidesage Council",
 			[2290] = "King Gobbamak",
 			[2260] = "King Mechagon",
 			[2100] = "Viq'Goth",
@@ -112,11 +112,11 @@ VExRT = {
 			[2327] = "Maut",
 			[2105] = "Coin-Operated Crowd Pummeler",
 			[2391] = "An Affront of Challengers",
-			[2131] = "Tidesage Council",
+			[2385] = "Domina Venomblade",
 			[2328] = "Dark Inquisitor Xanesh",
 			[2106] = "Azerokk",
 			[2265] = "Champion of the Light",
-			[2385] = "Domina Venomblade",
+			[2258] = "K.U.-J.0.",
 			[2329] = "Wrathion",
 			[2107] = "Rixxa Fluxfume",
 			[2266] = "Jadefire Masters",
@@ -896,7 +896,7 @@ VExRT = {
 			["Meta-Kil'jaeden"] = 581,
 			["Schmuders-Kil'jaeden"] = 70,
 			["Whinks-Kil'jaeden"] = 63,
-			["Toshmonk"] = 270,
+			["Toshmonk"] = 269,
 			["Yellowy"] = 257,
 			["Forcepush-Sargeras"] = 267,
 			["Chonuk-Ragnaros"] = 262,
@@ -1070,8 +1070,8 @@ VExRT = {
 			["Kickfox-Kil'jaeden"] = 269,
 			["Diabloi-Goldrinn"] = 577,
 			["Wotlkgodx"] = 65,
-			["Moldyonion-Tichondrius"] = 267,
 			["App-Shadowmoon"] = 71,
+			["Moldyonion-Tichondrius"] = 267,
 			["Lutthein-Drakkari"] = 259,
 			["Hardend-Nemesis"] = 62,
 			["Cinzano-Ragnaros"] = 65,
@@ -2733,13 +2733,13 @@ VExRT = {
 	["WhoPulled"] = {
 	},
 	["Addon"] = {
-		["IconMiniMapHide"] = true,
-		["Version"] = 4390,
-		["Scale"] = 1,
 		["PreVersion"] = 4390,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["Timer"] = 0.1,
+		["Version"] = 4390,
 		["IconMiniMapLeft"] = -43.8422319805596,
+		["Timer"] = 0.1,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["Scale"] = 1,
+		["IconMiniMapHide"] = true,
 	},
 	["RaidCheck"] = {
 		["ReadyCheckFrameOnlyRL"] = true,
@@ -2750,7 +2750,22 @@ VExRT = {
 		["ReadyCheckLeft"] = 589.9999389648438,
 		["ReadyCheckTop"] = 1152.5,
 	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
 	["Profiles"] = {
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["RaidGroups"] = {
+		["profiles"] = {
+		},
 	},
 	["LootHistory"] = {
 		["instanceNames"] = {
@@ -3294,21 +3309,7 @@ VExRT = {
 			"1606938973#2389#2286#1#Huit-Kil'jaeden#3#1#item:178745::::::::53:264::17:3:7217:6771:6652:2:28:1709:9:51:::", -- [477]
 			"1606939018#2390#2286#1#Huit-Kil'jaeden#3#1#item:178778::::::::54:264::17:3:7217:6771:6652:2:28:1709:9:51:::", -- [478]
 			"1606939020#2390#2286#1#Evandh-Illidan#12#1#item:178781::::::::54:264::17:4:7217:6771:6652:7193:2:28:747:9:53:::", -- [479]
-		},
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["RaidGroups"] = {
-		["profiles"] = {
-		},
-	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
+			"1607025072#0#2222#0#Toshmonk#10#1#item:184395::::::::60:269::::1:28:2098:::", -- [480]
 		},
 	},
 	["Logging"] = {

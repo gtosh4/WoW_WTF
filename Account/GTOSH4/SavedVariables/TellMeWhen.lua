@@ -85,76 +85,6 @@ TellMeWhenDB = {
 				}, -- [2]
 			},
 		},
-		["AuraCache"] = {
-			[311465] = 2,
-			[191634] = 2,
-			[260881] = 2,
-			[281209] = 2,
-			[311467] = 2,
-			[1953] = 2,
-			[311468] = 2,
-			[347600] = 2,
-			[345219] = 2,
-			[311469] = 2,
-			[6673] = 2,
-			[311470] = 2,
-			[289277] = 2,
-			[311471] = 2,
-			[57724] = 2,
-			[345540] = 2,
-			[345541] = 2,
-			[298837] = 2,
-			[311474] = 2,
-			[227723] = 2,
-			[121557] = 2,
-			[311476] = 2,
-			[324748] = 2,
-			[345545] = 2,
-			[298841] = 2,
-			[80354] = 2,
-			[297034] = 2,
-			[323673] = 2,
-			[280398] = 2,
-			[311483] = 2,
-			[188389] = 2,
-			[2383] = 2,
-			[289577] = 2,
-			[196741] = 2,
-			[232698] = 2,
-			[194249] = 2,
-			[264689] = 2,
-			[589] = 2,
-			[341207] = 2,
-			[260734] = 2,
-			[10060] = 2,
-			[5761] = 2,
-			[331937] = 2,
-			[34914] = 2,
-			[343144] = 2,
-			[2580] = 2,
-			[43308] = 2,
-			[167898] = 2,
-			[253595] = 2,
-			[21562] = 2,
-			[331939] = 2,
-			[77762] = 2,
-			[192106] = 2,
-			[15407] = 2,
-			[315584] = 2,
-			[72968] = 2,
-			[210714] = 2,
-			[311490] = 2,
-			[331462] = 2,
-			[311492] = 2,
-			[52127] = 2,
-			[2645] = 2,
-			[320125] = 2,
-			[1459] = 2,
-			[263165] = 2,
-			[335467] = 2,
-			[311464] = 2,
-			[546] = 2,
-		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
 			["SUG_FIRSTHELP"] = true,
@@ -1290,6 +1220,7 @@ TellMeWhenDB = {
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
 			["Locked"] = true,
+			["Version"] = 90201,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -9496,7 +9427,6 @@ TellMeWhenDB = {
 				}, -- [15]
 			},
 			["NumGroups"] = 15,
-			["Version"] = 90201,
 		},
 		["Daggny - Frostwolf"] = {
 			["Locked"] = true,
@@ -9893,26 +9823,38 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1V6yzOTPnMOU", -- [1]
-								"TMW:icon:1V6yzOTReSHN", -- [2]
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "13",
+							["Conditions"] = {
+								{
+									["Type"] = "ITEMSPELL",
+									["Name"] = "13",
+								}, -- [1]
+								["n"] = 1,
 							},
-							["Enabled"] = true,
+							["GUID"] = "TMW:icon:1V6yzOTReSHN",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"6\"]", -- [1]
+									},
 								},
 							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [9]
 						{
 							["States"] = {
@@ -10019,93 +9961,26 @@ TellMeWhenDB = {
 					["Columns"] = 6,
 					["Icons"] = {
 						{
-							["ShowTimer"] = true,
-							["OnlyEquipped"] = true,
-							["Type"] = "item",
-							["Name"] = "Forbidden Obsidian Claw",
-							["Enabled"] = true,
-							["GUID"] = "TMW:icon:1V6yzOTPnMOU",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["OnlyShown"] = true,
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "MANA",
-											["Operator"] = "<=",
-											["Level"] = 85,
-										}, -- [1]
-										{
-											["Type"] = "COMBAT",
-										}, -- [2]
-										{
-											["Type"] = "ITEMCD",
-											["Name"] = "Forbidden Obsidian Claw",
-										}, -- [3]
-										["n"] = 3,
-									},
-								}, -- [1]
-								["n"] = 1,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
-							["OnlyInBags"] = true,
 						}, -- [1]
 						{
-							["ShowTimer"] = true,
-							["Type"] = "item",
-							["Name"] = "13",
-							["Conditions"] = {
-								{
-									["Type"] = "ITEMSPELL",
-									["Name"] = "13",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["GUID"] = "TMW:icon:1V6yzOTReSHN",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-									["Texts"] = {
-										"[if ((Stacks and Stacks > 0) or Duration(gcd=false) <= 0) then\n    \"4\"\nelse\n    \"\"\nend]", -- [1]
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
-							["FakeHidden"] = true,
-							["Enabled"] = true,
 						}, -- [2]
 						{
 							["States"] = {
@@ -13767,21 +13642,15 @@ TellMeWhenDB = {
 					["Locked"] = true,
 					["Icons"] = {
 						{
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Gladiator's Medallion",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
-								},
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1VK5882TvoKu", -- [1]
+								"TMW:icon:1VK5882SFnyt", -- [2]
 							},
 							["States"] = {
 								{
 								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
@@ -13858,23 +13727,6 @@ TellMeWhenDB = {
 							},
 						}, -- [4]
 						{
-							["Type"] = "meta",
-							["Icons"] = {
-								"TMW:icon:1VK5882TvoKu", -- [1]
-								"TMW:icon:1VK5882SFnyt", -- [2]
-							},
-							["States"] = {
-								{
-								}, -- [1]
-								nil, -- [2]
-								{
-								}, -- [3]
-								{
-								}, -- [4]
-							},
-							["Enabled"] = true,
-						}, -- [5]
-						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["Name"] = "Leap of Faith",
@@ -13905,6 +13757,29 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["RangeCheck"] = true,
+							["Enabled"] = true,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Gladiator's Medallion",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
 							["Enabled"] = true,
 						}, -- [6]
 						{
@@ -14007,8 +13882,6 @@ TellMeWhenDB = {
 		},
 		["Toshpal - Area 52"] = {
 			["Locked"] = true,
-			["Version"] = 90201,
-			["NumGroups"] = 15,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -22765,9 +22638,10 @@ TellMeWhenDB = {
 					},
 				}, -- [16]
 			},
+			["Version"] = 90201,
+			["NumGroups"] = 15,
 		},
 		["Toshpriest - Area 52"] = {
-			["NumGroups"] = 10,
 			["Version"] = 90201,
 			["Groups"] = {
 				{
@@ -25856,6 +25730,7 @@ TellMeWhenDB = {
 					["Columns"] = 12,
 				}, -- [10]
 			},
+			["NumGroups"] = 10,
 			["TextureName"] = "Smooth v2",
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -25975,6 +25850,7 @@ TellMeWhenDB = {
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
+			["Version"] = 87505,
 			["NumGroups"] = 5,
 			["Groups"] = {
 				{
@@ -29229,7 +29105,6 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
-			["Version"] = 87505,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["Locked"] = true,
@@ -29287,8 +29162,6 @@ TellMeWhenDB = {
 			},
 		},
 		["Empty"] = {
-			["Version"] = 87505,
-			["NumGroups"] = 15,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -37055,6 +36928,8 @@ TellMeWhenDB = {
 					["ShrinkGroup"] = true,
 				}, -- [15]
 			},
+			["Version"] = 87505,
+			["NumGroups"] = 15,
 		},
 		["Toshtoon - Barthilas"] = {
 			["Version"] = 87505,

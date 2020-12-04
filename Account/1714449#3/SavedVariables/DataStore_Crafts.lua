@@ -27,7 +27,7 @@ DataStore_CraftsDB = {
 				["lastUpdate"] = 1606295252,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1606966927,
+				["lastUpdate"] = 1607047697,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {
