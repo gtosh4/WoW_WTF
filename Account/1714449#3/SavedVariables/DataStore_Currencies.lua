@@ -13,13 +13,13 @@ DataStore_CurrenciesDB = {
 					[1580] = "2-0-0-5",
 					[1719] = "14756-0-0-0",
 					[1716] = "229-0-0-0",
-					[1710] = "355-0-0-0",
+					[1560] = "15197-0-0-0",
 					[1721] = "3-0-0-0",
 					[1803] = "5743-0-0-0",
-					[1560] = "15197-0-0-0",
-					[1166] = "765-0-0-0",
 					[1755] = "236-0-0-0",
+					[1166] = "765-0-0-0",
 					[1155] = "250-0-0-300",
+					[1710] = "355-0-0-0",
 					[1718] = "0-0-0-0",
 					[1820] = "44-0-0-100",
 				},
@@ -195,9 +195,9 @@ DataStore_CurrenciesDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["CurrencyInfo"] = {
 					[1820] = "100-0-0-100",
-					[1885] = "8-0-0-0",
+					[1885] = "10-0-0-0",
 					[1580] = "3-0-0-5",
-					[1767] = "2014-0-0-0",
+					[1767] = "2994-0-0-0",
 					[1273] = "0-0-0-6",
 					[1275] = "26-0-0-0",
 					[1710] = "118-0-0-0",
@@ -207,14 +207,14 @@ DataStore_CurrenciesDB = {
 					[1220] = "14331-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "53-0-0-0",
-					[1813] = "671-0-0-35000",
+					[1813] = "518-0-0-35000",
 					[1721] = "317-0-0-0",
 					[1226] = "766-0-0-0",
 					[1716] = "327-0-0-0",
 					[1166] = "2615-0-0-0",
 					[1508] = "575-0-0-2000",
 					[1602] = "0-0-0-0",
-					[1828] = "810-0-0-8000",
+					[1828] = "1520-0-0-8000",
 				},
 				["Currencies"] = {
 					{
@@ -225,7 +225,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 8,
+						["count"] = 10,
 					}, -- [2]
 					{
 						["isHeader"] = false,
@@ -235,17 +235,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 26,
-						["count"] = 671,
+						["count"] = 518,
 					}, -- [4]
 					{
 						["isHeader"] = false,
 						["index"] = 28,
-						["count"] = 810,
+						["count"] = 1520,
 					}, -- [5]
 					{
 						["isHeader"] = false,
 						["index"] = 27,
-						["count"] = 2014,
+						["count"] = 2994,
 					}, -- [6]
 					{
 						["isHeader"] = true,
@@ -349,7 +349,7 @@ DataStore_CurrenciesDB = {
 					}, -- [26]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1607047699,
+				["lastUpdate"] = 1607154100,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -417,18 +417,18 @@ DataStore_CurrenciesDB = {
 				["Veiled Argunite"] = 20,
 				["Infused Ruby"] = 25,
 				["Honorbound Service Medal"] = 8,
-				["Timewarped Badge"] = 4,
-				["Player vs. Player"] = 22,
 				["Soul Ash"] = 28,
+				["Player vs. Player"] = 22,
+				["Timewarped Badge"] = 4,
 				["Shadowlands"] = 24,
 				["Battle for Azeroth"] = 1,
 				["War Resources"] = 2,
 				["Seafarer's Dubloon"] = 10,
 				["Legion"] = 13,
 				["Echoes of Ny'alotha"] = 7,
-				["Coalescing Visions"] = 5,
 				["Prismatic Manapearl"] = 9,
 				["Wakening Essence"] = 21,
+				["Coalescing Visions"] = 5,
 				["Grateful Offering"] = 29,
 				["Curious Coin"] = 15,
 				["Conquest"] = 23,

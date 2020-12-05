@@ -20,13 +20,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1607041348,
 				["Mails"] = {
 					{
-						["lastCheck"] = 1607041349,
+						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
 						["sender"] = "Nvkyr",
 						["subject"] = "nyalotha gold payouts",
 						["returned"] = false,
 						["money"] = 6870000000,
 						["text"] = "nyalotha gold payouts\n11/13\n11/20",
-						["icon"] = "Interface\\Icons\\INV_Misc_Coin_01",
+						["lastCheck"] = 1607041349,
 						["daysLeft"] = 30.77395820617676,
 					}, -- [1]
 				},
