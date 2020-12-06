@@ -20,14 +20,14 @@ DataStore_CraftsDB = {
 					},
 				},
 				["Prof2"] = "Inscription",
-				["lastUpdate"] = 1606941419,
+				["lastUpdate"] = 1607219449,
 				["Prof1"] = "Alchemy",
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["lastUpdate"] = 1606295252,
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1607151943,
+				["lastUpdate"] = 1607200450,
 				["Prof2"] = "Enchanting",
 				["Professions"] = {
 					["Alchemy"] = {

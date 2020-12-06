@@ -13,13 +13,13 @@ DataStore_CurrenciesDB = {
 					[1580] = "2-0-0-5",
 					[1719] = "14756-0-0-0",
 					[1716] = "229-0-0-0",
-					[1560] = "15197-0-0-0",
+					[1755] = "236-0-0-0",
 					[1721] = "3-0-0-0",
 					[1803] = "5743-0-0-0",
-					[1755] = "236-0-0-0",
-					[1166] = "765-0-0-0",
 					[1155] = "250-0-0-300",
+					[1166] = "765-0-0-0",
 					[1710] = "355-0-0-0",
+					[1560] = "15197-0-0-0",
 					[1718] = "0-0-0-0",
 					[1820] = "44-0-0-100",
 				},
@@ -138,7 +138,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1606941419,
+				["lastUpdate"] = 1607219449,
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["CurrencyInfo"] = {
@@ -197,7 +197,7 @@ DataStore_CurrenciesDB = {
 					[1820] = "100-0-0-100",
 					[1885] = "10-0-0-0",
 					[1580] = "3-0-0-5",
-					[1767] = "2994-0-0-0",
+					[1767] = "3652-0-0-0",
 					[1273] = "0-0-0-6",
 					[1275] = "26-0-0-0",
 					[1710] = "118-0-0-0",
@@ -207,7 +207,7 @@ DataStore_CurrenciesDB = {
 					[1220] = "14331-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "53-0-0-0",
-					[1813] = "518-0-0-35000",
+					[1813] = "436-0-0-35000",
 					[1721] = "317-0-0-0",
 					[1226] = "766-0-0-0",
 					[1716] = "327-0-0-0",
@@ -235,7 +235,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 26,
-						["count"] = 518,
+						["count"] = 436,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -245,7 +245,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 27,
-						["count"] = 2994,
+						["count"] = 3652,
 					}, -- [6]
 					{
 						["isHeader"] = true,
@@ -349,7 +349,7 @@ DataStore_CurrenciesDB = {
 					}, -- [26]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1607154100,
+				["lastUpdate"] = 1607200450,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -417,18 +417,18 @@ DataStore_CurrenciesDB = {
 				["Veiled Argunite"] = 20,
 				["Infused Ruby"] = 25,
 				["Honorbound Service Medal"] = 8,
-				["Soul Ash"] = 28,
-				["Player vs. Player"] = 22,
 				["Timewarped Badge"] = 4,
+				["Player vs. Player"] = 22,
+				["Soul Ash"] = 28,
 				["Shadowlands"] = 24,
 				["Battle for Azeroth"] = 1,
 				["War Resources"] = 2,
 				["Seafarer's Dubloon"] = 10,
 				["Legion"] = 13,
 				["Echoes of Ny'alotha"] = 7,
-				["Prismatic Manapearl"] = 9,
 				["Wakening Essence"] = 21,
 				["Coalescing Visions"] = 5,
+				["Prismatic Manapearl"] = 9,
 				["Grateful Offering"] = 29,
 				["Curious Coin"] = 15,
 				["Conquest"] = 23,

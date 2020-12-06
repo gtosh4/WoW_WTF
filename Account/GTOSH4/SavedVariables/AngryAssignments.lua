@@ -14,12 +14,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2154190213,
 		["Contents"] = "Necks    \nAfter Psychus Dies    ||cshamanFarben||r ||cpaladinSci||r\nBefore 1st Harvest Thoughts    ||cdeathknightEvan||r    ||cpaladinBarb||r\nAfter 1st Harvest Thoughts    ||cdemonhunterDrew||r    ||cdeathknightRathux||r\nAfter Paranoia (~8:45)   GORDY\n\nDisarms    \n1    ||chunterPax||r    ||cwarriorThac||r\n2    ||cpaladinSci||r    ||cwarlockCJ||r    ||cpriestMord||r\n3    ||chunterSmytt||r    ||cpaladinMe||r    ||cmageArn||r\n4    ||cmageDelp||r    ||cshamanYuki||r    ||chunterThun||r\n\nSoaks\n1    ||cdeathknightEveryone||r\n2    evan sci me arn andrew\n3    delpi pax thun smytt barb\n4    ||cdeathknightEveryone||r",
 	},
-	[269012837] = {
-		["Updated"] = 1605322616,
-		["Name"] = "04 xanesh",
-		["Id"] = 269012837,
-		["UpdateId"] = 3970635375,
-		["Contents"] = "1 - barb > gordy > sci\n2 - evan > cj > thun",
+	[1436534751] = {
+		["Updated"] = 1605334817,
+		["Name"] = "10 Ra-den",
+		["Id"] = 1436534751,
+		["UpdateId"] = 3307466903,
+		["Contents"] = "Soaks\n||cFF97FFECVita||r\n||cmageArnr\n||cmageDelpi||r\n||cwarlockCJ||r\n||chunterPax||r\n||cshamanYukio||r\n\n||cFFC9A3FFVoid||r\n||chunterThunder||r\n||cdemonhunterAndrew||r\n||cdeathknightRathux||r\n||cwarriorPangu||r\n||cwarriorThac||r",
 	},
 	[4118338490] = {
 		["Updated"] = 1599365785,
@@ -49,27 +49,21 @@ AngryAssign_Pages = {
 		["UpdateId"] = 455960037,
 		["Contents"] = "Necks    \nAfter Psychus Dies    ||cmonkBarb||r ||cpaladinSlurp||r\nBefore 1st Harvest Thoughts    ||cpaladinEvan||r    ||cpaladinRathux||r\nAfter 1st Harvest Thoughts    ||cdemonhunterLuna||r    ||cdeathknightMoon||r\nAfter Paranoia (~8:45)    ||cpriestJess||r  \n\nDisarms    \n1    ||chunterAeth||r    ||cwarriorPangu||r\n2    ||cwarlockHax||r    ||cpaladinGordy||r    ||crogueJohnny||r\n3    ||cmageYuki||r    ||crogueMe||r    ||cmageArnr\n4    ||cwarlockDelpi||r    ||chunterFuzy||r    ||chunterThun||r\n\nSoaks\n1    ||cpriestEveryone||r\n2    luna evan gordy johnny rathux\n3    3 hunters 2 mages\n4    ||cpriestEveryone||r",
 	},
-	[1436534751] = {
-		["Updated"] = 1605334817,
-		["Name"] = "10 Ra-den",
-		["Id"] = 1436534751,
-		["UpdateId"] = 3307466903,
-		["Contents"] = "Soaks\n||cFF97FFECVita||r\n||cmageArnr\n||cmageDelpi||r\n||cwarlockCJ||r\n||chunterPax||r\n||cshamanYukio||r\n\n||cFFC9A3FFVoid||r\n||chunterThunder||r\n||cdemonhunterAndrew||r\n||cdeathknightRathux||r\n||cwarriorPangu||r\n||cwarriorThac||r",
+	[269012837] = {
+		["Updated"] = 1605322616,
+		["Name"] = "04 xanesh",
+		["Id"] = 269012837,
+		["UpdateId"] = 3970635375,
+		["Contents"] = "1 - barb > gordy > sci\n2 - evan > cj > thun",
 	},
 }
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
-	["directionUp"] = false,
-	["locked"] = true,
-	["tree"] = {
-		["groups"] = {
-		},
-		["scrollvalue"] = 0,
-		["treesizable"] = true,
-		["treewidth"] = 175,
-		["fullwidth"] = 666.0001220703125,
+	["window"] = {
 	},
+	["locked"] = true,
+	["directionUp"] = false,
 	["display"] = {
 		["y"] = 281.666748046875,
 		["x"] = 209.9993896484375,
@@ -77,7 +71,13 @@ AngryAssign_State = {
 		["scale"] = 1,
 		["hidden"] = false,
 	},
-	["window"] = {
+	["tree"] = {
+		["groups"] = {
+		},
+		["scrollvalue"] = 0,
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["fullwidth"] = 666.0001220703125,
 	},
 }
 AngryAssign_Config = {
