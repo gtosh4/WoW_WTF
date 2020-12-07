@@ -9,16 +9,12 @@ DataStore_AgendaDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["lastUpdate"] = 1606543001,
+				["lastUpdate"] = 1607288633,
 			},
 			["Default.Area 52.Toshdruid"] = {
 				["lastUpdate"] = 1606539511,
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["Contacts"] = {
-					--[[ skipped entry with table key ]]
-				},
-				["lastUpdate"] = 1607200193,
 				["DungeonIDs"] = {
 					[411676583] = {
 						["name"] = "Sanguine Depths Mythic",
@@ -34,29 +30,29 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[411692145] = {
-						["name"] = "Spires of Ascension Mythic",
+					[411684118] = {
+						["name"] = "De Other Side Mythic",
 						["resetTime"] = 1607439599,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["Oryphrion"] = true,
-							["Kin-Tara"] = true,
-							["Ventunax"] = true,
-							["Devos, Paragon of Loyalty"] = true,
+							["Dealer Xy'exa"] = true,
+							["The Manastorms"] = true,
+							["Mueh'zala"] = true,
+							["Hakkar, the Soulflayer"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[411700138] = {
-						["name"] = "Plaguefall Mythic",
+					[411687709] = {
+						["name"] = "The Necrotic Wake Mythic",
 						["resetTime"] = 1607439599,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["Domina Venomblade"] = true,
-							["Stradama Margrave"] = true,
-							["Doctor Ickus"] = true,
-							["Globgrog"] = true,
+							["Blightbone"] = true,
+							["Amarth, The Harvester"] = true,
+							["Stichflesh"] = true,
+							["Nalthor the Rimebinder"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
@@ -76,15 +72,15 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[411684118] = {
-						["name"] = "De Other Side Mythic",
+					[411700138] = {
+						["name"] = "Plaguefall Mythic",
 						["resetTime"] = 1607439599,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["Dealer Xy'exa"] = true,
-							["The Manastorms"] = true,
-							["Mueh'zala"] = true,
-							["Hakkar, the Soulflayer"] = true,
+							["Domina Venomblade"] = true,
+							["Stradama Margrave"] = true,
+							["Doctor Ickus"] = true,
+							["Globgrog"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
@@ -118,21 +114,25 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[411687709] = {
-						["name"] = "The Necrotic Wake Mythic",
+					[411692145] = {
+						["name"] = "Spires of Ascension Mythic",
 						["resetTime"] = 1607439599,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["Blightbone"] = true,
-							["Amarth, The Harvester"] = true,
-							["Stichflesh"] = true,
-							["Nalthor the Rimebinder"] = true,
+							["Oryphrion"] = true,
+							["Kin-Tara"] = true,
+							["Ventunax"] = true,
+							["Devos, Paragon of Loyalty"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
 				},
+				["Contacts"] = {
+					--[[ skipped entry with table key ]]
+				},
+				["lastUpdate"] = 1607295196,
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
 				["lastUpdate"] = 1606295309,

@@ -8,30 +8,30 @@ DataStoreDB = {
 	},
 	["global"] = {
 		["Guilds"] = {
-			["Default.Area 52.Aggravated"] = {
+			["Default.Kil'jaeden.Rivalry"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Kil'jaeden.Rivalry"] = {
+			["Default.Area 52.Aggravated"] = {
 				["faction"] = "Horde",
 			},
 		},
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Area 52.Toshpal"] = {
-				["guildName"] = "Aggravated",
 				["faction"] = "Horde",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["guildName"] = "Aggravated",
 				["faction"] = "Horde",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["guildName"] = "Aggravated",
 				["faction"] = "Horde",
+				["guildName"] = "Aggravated",
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
-				["faction"] = "Horde",
 				["guildName"] = "Rivalry",
+				["faction"] = "Horde",
 			},
 		},
 		["ShortToLongRealmNames"] = {

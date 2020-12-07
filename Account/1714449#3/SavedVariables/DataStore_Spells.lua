@@ -8,7 +8,7 @@ DataStore_SpellsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1607219451,
+				["lastUpdate"] = 1607287968,
 				["Spells"] = {
 					["Enhancement"] = {
 						85582848, -- [1]
@@ -261,7 +261,7 @@ DataStore_SpellsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1607200450,
+				["lastUpdate"] = 1607295198,
 				["Spells"] = {
 					["Mistweaver"] = {
 						29555200, -- [1]

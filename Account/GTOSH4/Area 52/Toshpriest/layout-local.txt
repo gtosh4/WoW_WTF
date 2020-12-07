@@ -76,6 +76,13 @@ X: 415
 Y: 195
 W: 27
 H: 26
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: RIGHT
+X: -366
+Y: 237
+W: 291
+H: 167
 Frame: TalkingHeadFrame
 FrameLevel: 3
 Anchor: BOTTOM
@@ -83,10 +90,3 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: RIGHT
-X: -366
-Y: 237
-W: 305
-H: 199

@@ -8,7 +8,7 @@ DataStore_StatsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
-				["lastUpdate"] = 1607219454,
+				["lastUpdate"] = 1607287972,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|12.253419876099",
 					["HealthMax"] = 18620,
@@ -16,8 +16,8 @@ DataStore_StatsDB = {
 					["MaxPower"] = "11|100",
 					["Defense"] = "0|0|6.2560706138611|0|10|0",
 					["PVP"] = "70|0",
-					["Base"] = "101|242|931|783|0",
-					["Spell"] = "783|812|0|12.253419876099|194|609",
+					["Base"] = "101|242|931|811|0",
+					["Spell"] = "811|841|0|12.253419876099|194|609",
 				},
 			},
 			["Default.Area 52.Toshmonk"] = {
@@ -34,7 +34,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1607200525,
+				["lastUpdate"] = 1607295427,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|24.8571434021",
 					["HealthMax"] = 24880,
