@@ -2,19 +2,31 @@
 DataStore_AgendaDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshaman"] = {
 				["lastUpdate"] = 1607287969,
 			},
-			["Default.Area 52.Toshmonk"] = {
-				["lastUpdate"] = 1606295252,
-			},
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["DungeonIDs"] = {
+					[406398960] = {
+						["name"] = "Theater of Pain Mythic",
+						["resetTime"] = 1607439598,
+						["numEncounters"] = 5,
+						["bosses"] = {
+							["Gorechop"] = true,
+							["An Affront of Challengers"] = true,
+							["Xav the Unfallen"] = true,
+							["Mordretha"] = true,
+							["Kul'tharok"] = true,
+						},
+						["progress"] = 5,
+						["extended"] = 0,
+						["isRaid"] = 0,
+					},
 					[406385737] = {
 						["name"] = "De Other Side Mythic",
 						["resetTime"] = 1607439598,
@@ -24,20 +36,6 @@ DataStore_AgendaDB = {
 							["The Manastorms"] = true,
 							["Mueh'zala"] = true,
 							["Hakkar, the Soulflayer"] = true,
-						},
-						["progress"] = 4,
-						["extended"] = 0,
-						["isRaid"] = 0,
-					},
-					[406391403] = {
-						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1607439598,
-						["numEncounters"] = 4,
-						["bosses"] = {
-							["Oryphrion"] = true,
-							["Kin-Tara"] = true,
-							["Ventunax"] = true,
-							["Devos, Paragon of Loyalty"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
@@ -57,15 +55,15 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406394425] = {
-						["name"] = "Sanguine Depths Mythic",
+					[406402275] = {
+						["name"] = "Plaguefall Mythic",
 						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["General Kaal"] = true,
-							["Grand Proctor Beryllia"] = true,
-							["Executor Tarvold"] = true,
-							["Kryxis the Voracious"] = true,
+							["Domina Venomblade"] = true,
+							["Stradama Margrave"] = true,
+							["Doctor Ickus"] = true,
+							["Globgrog"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
@@ -84,15 +82,15 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406402275] = {
-						["name"] = "Plaguefall Mythic",
+					[406394425] = {
+						["name"] = "Sanguine Depths Mythic",
 						["resetTime"] = 1607439598,
 						["numEncounters"] = 4,
 						["bosses"] = {
-							["Domina Venomblade"] = true,
-							["Stradama Margrave"] = true,
-							["Doctor Ickus"] = true,
-							["Globgrog"] = true,
+							["General Kaal"] = true,
+							["Grand Proctor Beryllia"] = true,
+							["Executor Tarvold"] = true,
+							["Kryxis the Voracious"] = true,
 						},
 						["progress"] = 4,
 						["extended"] = 0,
@@ -112,23 +110,25 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
-					[406398960] = {
-						["name"] = "Theater of Pain Mythic",
+					[406391403] = {
+						["name"] = "Spires of Ascension Mythic",
 						["resetTime"] = 1607439598,
-						["numEncounters"] = 5,
+						["numEncounters"] = 4,
 						["bosses"] = {
-							["Gorechop"] = true,
-							["An Affront of Challengers"] = true,
-							["Xav the Unfallen"] = true,
-							["Mordretha"] = true,
-							["Kul'tharok"] = true,
+							["Oryphrion"] = true,
+							["Kin-Tara"] = true,
+							["Ventunax"] = true,
+							["Devos, Paragon of Loyalty"] = true,
 						},
-						["progress"] = 5,
+						["progress"] = 4,
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1607295198,
+				["lastUpdate"] = 1607400492,
+			},
+			["Default.Area 52.Toshmonk"] = {
+				["lastUpdate"] = 1606295252,
 			},
 		},
 	},

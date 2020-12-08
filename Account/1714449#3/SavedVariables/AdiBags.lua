@@ -21,9 +21,9 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["MoneyFrame"] = {
+		["Covenant Items"] = {
 		},
-		["ItemSets"] = {
+		["Equipment"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -31,12 +31,12 @@ AdiBagsDB = {
 					["shown"] = {
 						["Ancient Mana"] = false,
 						["Seal of Wartorn Fate"] = false,
-						["War Resources"] = false,
-						["Titan Residuum"] = false,
+						["Prismatic Manapearl"] = false,
+						["Seafarer's Dubloon"] = false,
 						["Honorbound Service Medal"] = false,
 						["Timewarped Badge"] = false,
-						["Seafarer's Dubloon"] = false,
-						["Prismatic Manapearl"] = false,
+						["Titan Residuum"] = false,
+						["War Resources"] = false,
 					},
 					["text"] = {
 						["name"] = "Friz Quadrata TT",
@@ -46,16 +46,18 @@ AdiBagsDB = {
 		},
 		["DataSource"] = {
 		},
+		["ItemSets"] = {
+		},
 		["Junk"] = {
 		},
-		["Equipment"] = {
+		["MoneyFrame"] = {
 		},
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshmonk - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

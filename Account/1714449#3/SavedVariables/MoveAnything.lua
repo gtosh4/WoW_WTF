@@ -9,22 +9,6 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
-				["TooltipMover"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						0, -- [3]
-						0, -- [4]
-					},
-					["name"] = "TooltipMover",
-					["pos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						"TOP", -- [3]
-						1049.998779296875, -- [4]
-						-336.6665649414063, -- [5]
-					},
-				},
 				["UIWidgetBelowMinimapContainerFrame"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -136,8 +120,8 @@ MADB = {
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = true,
 	["frameListRows"] = 18,
+	["noBags"] = true,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

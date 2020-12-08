@@ -22,6 +22,8 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
+		["Mirror"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -33,8 +35,6 @@ Quartz3DB = {
 					["texture"] = "Smooth v2",
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -60,7 +60,7 @@ Quartz3DB = {
 		},
 		["Range"] = {
 		},
-		["Mirror"] = {
+		["EnemyCasts"] = {
 		},
 		["Latency"] = {
 			["profiles"] = {
@@ -77,12 +77,12 @@ Quartz3DB = {
 		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshaman - Area 52"] = "Default",
 		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshpriest - Azralon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
