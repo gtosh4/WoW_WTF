@@ -2,8 +2,8 @@
 DataStore_MailsDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -11,13 +11,13 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1605948625,
 				["lastVisitDate"] = "2020/11/21 03:50",
 			},
-			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1607374122,
-				["lastVisitDate"] = "2020/12/07 15:48",
-			},
 			["Default.Area 52.Toshaman"] = {
 				["lastUpdate"] = 1606694707,
 				["lastVisitDate"] = "2020/11/29 19:05",
+			},
+			["Default.Kil'jaeden.Toshmonk"] = {
+				["lastUpdate"] = 1607489984,
+				["lastVisitDate"] = "2020/12/08 23:59",
 			},
 		},
 	},
