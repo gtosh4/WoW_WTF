@@ -4,24 +4,24 @@ AstralKeys = {
 		["btag"] = "Rathux#11683",
 		["weekly_best"] = 0,
 		["class"] = "DEATHKNIGHT",
-		["key_level"] = 9,
+		["key_level"] = 10,
 		["unit"] = "Rathux-Area52",
-		["dungeon_id"] = 381,
+		["dungeon_id"] = 379,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 54752,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [1]
 	{
 		["btag"] = "Sci#11555",
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["key_level"] = 2,
+		["key_level"] = 10,
 		["unit"] = "Sci-Area52",
-		["dungeon_id"] = 382,
+		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 54756,
+		["time_stamp"] = 1,
 		["source"] = "friend",
 	}, -- [2]
 	{
@@ -33,7 +33,7 @@ AstralKeys = {
 		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 52519,
+		["time_stamp"] = 115898,
 	}, -- [3]
 	{
 		["source"] = "guild",
@@ -67,7 +67,7 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 52975,
+		["time_stamp"] = 115263,
 	}, -- [6]
 	{
 		["btag"] = "YukioX#1520",
@@ -90,7 +90,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 41960,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [8]
 	{
@@ -104,6 +104,54 @@ AstralKeys = {
 		["faction"] = 1,
 		["time_stamp"] = 53046,
 	}, -- [9]
+	{
+		["btag"] = "Thanerial#1172",
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["key_level"] = 2,
+		["unit"] = "Thanerial-Kil'jaeden",
+		["dungeon_id"] = 380,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [10]
+	{
+		["btag"] = "bum#1748",
+		["weekly_best"] = 0,
+		["class"] = "WARRIOR",
+		["key_level"] = 2,
+		["unit"] = "Orcbum-Kil'jaeden",
+		["dungeon_id"] = 382,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [11]
+	{
+		["btag"] = "Thanerial#1172",
+		["weekly_best"] = 0,
+		["class"] = "MAGE",
+		["key_level"] = 5,
+		["unit"] = "Authentic-Kil'jaeden",
+		["dungeon_id"] = 376,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 117516,
+		["source"] = "friend",
+	}, -- [12]
+	{
+		["btag"] = "Rathux#11683",
+		["weekly_best"] = 0,
+		["class"] = "DRUID",
+		["key_level"] = 2,
+		["unit"] = "Idc-Kil'jaeden",
+		["dungeon_id"] = 382,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 117639,
+		["source"] = "friend",
+	}, -- [13]
 }
 AstralCharacters = {
 	{
@@ -230,8 +278,8 @@ AstralLists = {
 			["Artsong-Area52"] = "Emosong#1897",
 			["Sci-Area52"] = "Sci#11555",
 			["Arnbjorn-Area52"] = true,
+			["Weedsong-Area52"] = "Emosong#1897",
 			["Race-Area52"] = true,
-			["Yukiox-Area52"] = "YukioX#1520",
 			["Woesong-Area52"] = "Emosong#1897",
 			["Toshpriest-Area52"] = true,
 			["Illsong-Area52"] = "Emosong#1897",
@@ -239,28 +287,31 @@ AstralLists = {
 			["Thunderrz-Area52"] = true,
 			["Rathux-Area52"] = "Rathux#11683",
 			["Scitron-Area52"] = "Sci#11555",
-			["Weedsong-Area52"] = "Emosong#1897",
+			["Yukiox-Area52"] = "YukioX#1520",
 		},
 	}, -- [1]
 	{
 		["name"] = "FRIENDS",
 		["units"] = {
-			["Sci-Area52"] = "Sci#11555",
 			["Sherbe-Kil'jaeden"] = "Evbrq#1749",
-			["Mattea-Kil'jaeden"] = "boochan#1194",
+			["Artsong-Area52"] = "Emosong#1897",
 			["Baesong-Kil'jaeden"] = "Emosong#1897",
 			["Yukiox-Area52"] = "YukioX#1520",
-			["Ngow-Kil'jaeden"] = "boochan#1194",
-			["Emosong-Kil'jaeden"] = "Emosong#1897",
-			["Weedsong-Area52"] = "Emosong#1897",
 			["Orcbum-Kil'jaeden"] = "bum#1748",
 			["Yukios-Kil'jaeden"] = "YukioX#1520",
 			["Illsong-Area52"] = "Emosong#1897",
+			["Idc-Kil'jaeden"] = "Rathux#11683",
+			["Mattea-Kil'jaeden"] = "boochan#1194",
+			["Authentic-Kil'jaeden"] = "Thanerial#1172",
 			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Emosong-Kil'jaeden"] = "Emosong#1897",
+			["Weedsong-Area52"] = "Emosong#1897",
 			["Scitron-Area52"] = "Sci#11555",
-			["Rathux-Area52"] = "Rathux#11683",
+			["Ngow-Kil'jaeden"] = "boochan#1194",
 			["Woesong-Area52"] = "Emosong#1897",
-			["Artsong-Area52"] = "Emosong#1897",
+			["Rathux-Area52"] = "Rathux#11683",
+			["Sci-Area52"] = "Sci#11555",
+			["Thanerial-Kil'jaeden"] = "Thanerial#1172",
 		},
 	}, -- [2]
 }

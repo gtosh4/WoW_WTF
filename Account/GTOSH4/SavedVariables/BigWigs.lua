@@ -190,17 +190,17 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
-			["profiles"] = {
-				["Default"] = {
-					["voice"] = "English: Overwatch: Roadhog",
-				},
-			},
-		},
 		["BigWigs_Bosses_Thrall"] = {
 			["profiles"] = {
 				["Default"] = {
 					[306828] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Plugins_Pull"] = {
+			["profiles"] = {
+				["Default"] = {
+					["voice"] = "English: Overwatch: Roadhog",
 				},
 			},
 		},
@@ -425,10 +425,11 @@ BigWigsIconDB = {
 }
 BigWigsStatsDB = {
 	[2164] = {
-		[2354] = {
+		[2361] = {
 			["mythic"] = {
-				["best"] = 67.5109999999404,
 				["kills"] = 1,
+				["wipes"] = 6,
+				["best"] = 388.6110000000335,
 			},
 		},
 		[2351] = {
@@ -453,13 +454,9 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2347] = {
+		[2354] = {
 			["mythic"] = {
-				["best"] = 70.24699999997392,
-				["kills"] = 1,
-			},
-			["normal"] = {
-				["best"] = 80.97400000000198,
+				["best"] = 67.5109999999404,
 				["kills"] = 1,
 			},
 		},
@@ -475,11 +472,14 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2361] = {
+		[2347] = {
 			["mythic"] = {
+				["best"] = 70.24699999997392,
 				["kills"] = 1,
-				["wipes"] = 6,
-				["best"] = 388.6110000000335,
+			},
+			["normal"] = {
+				["best"] = 80.97400000000198,
+				["kills"] = 1,
 			},
 		},
 	},

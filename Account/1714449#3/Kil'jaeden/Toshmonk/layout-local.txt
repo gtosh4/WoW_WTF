@@ -6,6 +6,13 @@ X: -6
 Y: 74
 W: 235
 H: 700
+Frame: TooltipMover
+FrameLevel: 2
+Anchor: RIGHT
+X: -376
+Y: 218
+W: 150
+H: 80
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -78,9 +85,9 @@ W: 320
 H: 550
 Frame: MAOptions
 FrameLevel: 1
-Anchor: TOPRIGHT
-X: -260
-Y: -97
+Anchor: CENTER
+X: 284
+Y: 167
 W: 497
 H: 513
 Frame: ViragDevToolFrame
@@ -104,3 +111,10 @@ X: 0
 Y: 96
 W: 570
 H: 155
+Frame: VideoOptionsFrame
+FrameLevel: 0
+Anchor: RIGHT
+X: -494
+Y: 57
+W: 858
+H: 660

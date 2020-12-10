@@ -2,8 +2,8 @@
 DataStore_KeystonesDB = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -20,7 +20,7 @@ DataStore_KeystonesDB = {
 					["level"] = 9,
 					["texture"] = 3759931,
 				},
-				["lastUpdate"] = 1607498951,
+				["lastUpdate"] = 1607583693,
 			},
 		},
 		["Options"] = {

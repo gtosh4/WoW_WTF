@@ -18,7 +18,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[412213419] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1608044398,
+						["resetTime"] = 1608044399,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -31,7 +31,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1607492557,
+				["lastUpdate"] = 1607557212,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

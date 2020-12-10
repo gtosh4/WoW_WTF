@@ -181,8 +181,7 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -219,13 +218,14 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
-			["Equipment"] = {
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},

@@ -261,20 +261,12 @@ CliqueDB3 = {
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-				{
 					["type"] = "menu",
 					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [3]
+				}, -- [2]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -282,15 +274,15 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [4]
+				}, -- [3]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [5]
+				}, -- [4]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -298,11 +290,19 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [6]
+				}, -- [5]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
 					["key"] = "ALT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [6]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},

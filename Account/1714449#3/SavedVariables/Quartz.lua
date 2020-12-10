@@ -19,8 +19,6 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["Range"] = {
-		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -32,6 +30,8 @@ Quartz3DB = {
 					["texture"] = "Smooth v2",
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -57,7 +57,7 @@ Quartz3DB = {
 		},
 		["Mirror"] = {
 		},
-		["EnemyCasts"] = {
+		["Range"] = {
 		},
 		["Latency"] = {
 			["profiles"] = {
@@ -69,9 +69,9 @@ Quartz3DB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshmonk - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

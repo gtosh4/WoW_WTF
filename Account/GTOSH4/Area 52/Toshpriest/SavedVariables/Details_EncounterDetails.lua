@@ -1041,15 +1041,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kowlzekeel",
 		},
-		[686] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Failed",
-		},
 		[320517] = {
 			["school"] = 8,
 			["token"] = {
@@ -1058,13 +1049,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Blighted Spinebreaker",
 		},
-		[316981] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Xav the Unfallen",
-		},
 		[333808] = {
 			["school"] = 8,
 			["token"] = {
@@ -1072,12 +1056,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Doctor Ickus",
 		},
+		[316981] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Xav the Unfallen",
+		},
 		[320519] = {
 			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Blighted Spinebreaker",
+		},
+		[319657] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Kryxis the Voracious",
 		},
 		[322475] = {
 			["school"] = 8,
@@ -1134,13 +1133,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ventunax",
 		},
-		[319657] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[686] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Kryxis the Voracious",
+			["source"] = "Failed",
 		},
 		[324010] = {
 			["school"] = 4,
@@ -1292,24 +1292,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fitemee-Kil'jaeden",
 		},
-		[325807] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Mueh'zala",
-		},
-		[325552] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Domina Venomblade",
-		},
 		[343558] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -1327,19 +1309,36 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Stitchflesh's Creation",
 		},
-		[324659] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Fleeting Manifestation",
-		},
 		[319639] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Kul'tharok",
+		},
+		[323992] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Millificent Manastorm",
+		},
+		[325257] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Grand Proctor Beryllia",
+		},
+		[325254] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Grand Proctor Beryllia",
 		},
 		[324527] = {
 			["school"] = 1,
@@ -1350,14 +1349,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Globgrog",
 		},
-		[331937] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Delpi",
-		},
 		[323250] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -1366,6 +1357,14 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Droman Oulfarran",
+		},
+		[331937] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Delpi",
 		},
 		[320823] = {
 			["school"] = 4,
@@ -1382,10 +1381,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Domina Venomblade",
 		},
-		[323992] = {
-			["school"] = 4,
+		[320144] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Millificent Manastorm",
 		},
@@ -1397,12 +1399,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "General Kaal",
 		},
-		[325257] = {
-			["school"] = 1,
+		[326574] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Grand Proctor Beryllia",
+			["source"] = "Surgeon Stitchflesh",
 		},
 		[325551] = {
 			["school"] = 8,
@@ -1437,13 +1440,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mechanical Bomb Squirrel",
 		},
-		[326574] = {
-			["school"] = 32,
+		[325552] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Surgeon Stitchflesh",
+			["source"] = "Domina Venomblade",
 		},
 		[322614] = {
 			["school"] = 32,
@@ -1452,47 +1458,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Tred'ova",
-		},
-		[325254] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Grand Proctor Beryllia",
-		},
-		[324459] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Globgrog",
-		},
-		[321725] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Illusionary Clone",
-		},
-		[329258] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sinstone Statue",
-		},
-		[322232] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Margrave Stradama",
 		},
 		[331997] = {
 			["school"] = 64,
@@ -1503,6 +1468,43 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Oryphrion",
+		},
+		[324459] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Globgrog",
+		},
+		[324148] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Ventunax",
+		},
+		[324659] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Fleeting Manifestation",
+		},
+		[322232] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Margrave Stradama",
+		},
+		[323221] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sinstone Statue",
 		},
 		[322999] = {
 			["school"] = 1,
@@ -1533,21 +1535,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Devos",
 		},
-		[323221] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sinstone Statue",
-		},
-		[322493] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Reanimated Mage",
-		},
 		[334488] = {
 			["school"] = 1,
 			["token"] = {
@@ -1556,6 +1543,24 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Surgeon Stitchflesh",
+		},
+		[212653] = {
+			["school"] = 64,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Delpi",
+		},
+		[321834] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Mistcaller",
 		},
 		[320114] = {
 			["school"] = 1,
@@ -1599,14 +1604,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mechanical Bomb Squirrel",
 		},
-		[212653] = {
-			["school"] = 64,
-			["type"] = "BUFF",
+		[322236] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Delpi",
+			["source"] = "Malignant Spawn",
 		},
 		[329262] = {
 			["school"] = 1,
@@ -1616,13 +1620,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Chamberlain",
 		},
-		[322236] = {
+		[321725] = {
 			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Malignant Spawn",
+			["source"] = "Illusionary Clone",
 		},
 		[191587] = {
 			["school"] = 32,
@@ -1631,24 +1635,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Fitemee-Kil'jaeden",
-		},
-		[321834] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Mistcaller",
-		},
-		[331818] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Domina Venomblade",
 		},
 		[334810] = {
 			["school"] = 32,
@@ -1659,6 +1645,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mueh'zala",
 		},
+		[331818] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Domina Venomblade",
+		},
 		[334058] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -1668,14 +1663,18 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Delpi",
 		},
-		[323515] = {
-			["school"] = 1,
+		[319938] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+		},
+		[322493] = {
+			["school"] = 16,
+			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gorechop",
+			["source"] = "Reanimated Mage",
 		},
 		[324154] = {
 			["school"] = 1,
@@ -1794,20 +1793,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mueh'zala",
 		},
-		[342814] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Failed",
-		},
 		[318102] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Xav the Unfallen",
+		},
+		[334970] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Mueh'zala",
 		},
 		[325691] = {
 			["school"] = 32,
@@ -1824,14 +1824,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ingra Maloch",
 		},
-		[334970] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[320180] = {
+			["school"] = 40,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Mueh'zala",
+			["source"] = "Paceran the Virulent",
 		},
 		[345495] = {
 			["school"] = 8,
@@ -1933,14 +1933,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Surgeon Stitchflesh",
 		},
-		[322759] = {
+		[322567] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Hakkar the Soulflayer",
+			["source"] = "Executor Tarvold",
 		},
 		[30153] = {
 			["school"] = 1,
@@ -1966,20 +1964,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Amarth",
 		},
-		[339237] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[342814] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Halkias",
+			["source"] = "Failed",
 		},
-		[322567] = {
-			["school"] = 32,
+		[28272] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Executor Tarvold",
+			["source"] = "Delpi",
 		},
 		[338471] = {
 			["school"] = 1,
@@ -1996,15 +1997,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Amarth",
 		},
-		[28272] = {
-			["school"] = 64,
+		[322410] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Delpi",
+			["source"] = "Congealed Slime",
 		},
 		[328124] = {
 			["school"] = 1,
@@ -2015,11 +2016,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Undying Stonefiend",
 		},
-		[209862] = {
-			["school"] = 4,
+		[322759] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Hakkar the Soulflayer",
 		},
 		[321226] = {
 			["school"] = 32,
@@ -2054,12 +2058,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Chamberlain",
 		},
-		[324424] = {
-			["school"] = 1,
+		[320272] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Mordretha, the Endless Empress",
+			["source"] = "Sathel the Accursed",
 		},
 		[339751] = {
 			["school"] = 32,
@@ -2075,14 +2081,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mistcaller",
 		},
-		[319567] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[209862] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Kul'tharok",
 		},
 		[333492] = {
 			["school"] = 32,
@@ -2102,14 +2105,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Erupting Ooze",
 		},
-		[320272] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[339415] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sathel the Accursed",
+			["source"] = "Xav the Unfallen",
 		},
 		[327233] = {
 			["school"] = 8,
@@ -2145,14 +2148,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Delpi",
 		},
-		[339415] = {
+		[324424] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Xav the Unfallen",
+			["source"] = "Mordretha, the Endless Empress",
 		},
 		[320208] = {
 			["school"] = 1,
@@ -2221,12 +2222,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fitemee-Kil'jaeden",
 		},
-		[324044] = {
-			["school"] = 32,
+		[320717] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Halkias",
+			["source"] = "Carrion Worm",
 		},
 		[322893] = {
 			["school"] = 1,
@@ -2237,14 +2239,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Devos",
 		},
-		[320717] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Carrion Worm",
-		},
 		[322563] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -2254,14 +2248,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tred'ova",
 		},
-		[319703] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[342048] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Echelon",
+			["source"] = "Xira the Underhanded",
+		},
+		[324044] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Halkias",
 		},
 		[190319] = {
 			["school"] = 4,
@@ -2303,14 +2304,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kowlzekeel",
 		},
-		[342048] = {
+		[320069] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Xira the Underhanded",
+			["source"] = "Dessia the Decapitator",
 		},
 		[320596] = {
 			["school"] = 8,
@@ -2348,16 +2351,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oryphrion",
 		},
-		[320069] = {
-			["school"] = 1,
+		[319703] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Dessia the Decapitator",
+			["source"] = "Echelon",
 		},
 		[330434] = {
 			["school"] = 1,
@@ -2383,12 +2384,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Millificent Manastorm",
 		},
-		[342189] = {
-			["school"] = 1,
+		[320120] = {
+			["school"] = 40,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Loyal Stoneborn",
+			["source"] = "Paceran the Virulent",
 		},
 		[323792] = {
 			["school"] = 64,
@@ -2407,6 +2410,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Reanimated Crossbowman",
 		},
+		[342189] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Loyal Stoneborn",
+		},
 		[323538] = {
 			["school"] = 32,
 			["token"] = {
@@ -2415,15 +2425,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "High Adjudicator Aleez",
-		},
-		[320120] = {
-			["school"] = 40,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Paceran the Virulent",
 		},
 		[320727] = {
 			["school"] = 64,
@@ -2502,14 +2503,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Echelon",
 		},
-		[5782] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Failed",
-		},
 		[322358] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -2522,6 +2515,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Doctor Ickus",
 		},
+		[323010] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Devos",
+		},
 		[324307] = {
 			["school"] = 64,
 			["token"] = {
@@ -2529,12 +2531,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Coalesced Anima",
 		},
-		[323414] = {
+		[5782] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Lord Chamberlain",
+			["source"] = "Failed",
 		},
 		[347047] = {
 			["school"] = 1,
@@ -2550,23 +2553,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Echelon",
 		},
-		[323010] = {
+		[119914] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Devos",
+			["source"] = "Failed",
 		},
-		[322903] = {
+		[323414] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "General Kaal",
+			["source"] = "Lord Chamberlain",
 		},
 		[331718] = {
 			["school"] = 1,
@@ -2618,12 +2617,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mueh'zala",
 		},
-		[119914] = {
-			["school"] = 1,
+		[321755] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Failed",
+			["source"] = "Nalthor the Rimebinder",
 		},
 		[322274] = {
 			["school"] = 32,
@@ -2666,13 +2667,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sinstone Statue",
 		},
-		[336449] = {
+		[320614] = {
 			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Carrion Worm",
+		},
+		[342961] = {
+			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Defender of Many Eyes",
+			["source"] = "Dealer Xy'exa",
 		},
 		[332617] = {
 			["school"] = 8,
@@ -2681,14 +2693,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Doctor Ickus",
-		},
-		[328146] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Carrion Worm",
 		},
 		[319713] = {
 			["school"] = 1,
@@ -2714,24 +2718,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Delpi",
 		},
-		[12654] = {
-			["school"] = 4,
+		[336449] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Delpi",
+			["source"] = "Defender of Many Eyes",
 		},
-		[342961] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[319715] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Dealer Xy'exa",
+			["source"] = "Kryxis the Voracious",
 		},
 		[322908] = {
 			["school"] = 1,
@@ -2742,13 +2742,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Devos",
 		},
-		[329168] = {
-			["school"] = 1,
+		[328146] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sinstone Statue",
+			["source"] = "Carrion Worm",
 		},
 		[323548] = {
 			["school"] = 32,
@@ -2758,12 +2758,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fleeting Manifestation",
 		},
-		[319715] = {
+		[89766] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Kryxis the Voracious",
+			["source"] = "Kowlzekeel",
 		},
 		[336451] = {
 			["school"] = 1,
@@ -2844,22 +2845,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sinstone Statue",
 		},
-		[89766] = {
+		[329168] = {
 			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Sinstone Statue",
+		},
+		[12654] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Kowlzekeel",
-		},
-		[320614] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Carrion Worm",
+			["source"] = "Delpi",
 		},
 		[328533] = {
 			["school"] = 1,
@@ -2928,14 +2929,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oozing Leftovers",
 		},
-		[321755] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
+		[322903] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Nalthor the Rimebinder",
+			["source"] = "General Kaal",
 		},
 		[335817] = {
 			["school"] = 1,
@@ -3025,6 +3026,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mordretha, the Endless Empress",
 		},
+		[324427] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Oryphrion",
+		},
 		[320012] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -3050,14 +3059,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Sathel the Accursed",
-		},
-		[324427] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Oryphrion",
 		},
 		[319724] = {
 			["school"] = 1,
@@ -3118,15 +3119,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mueh'zala",
 		},
-		[322410] = {
-			["school"] = 8,
+		[319567] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Congealed Slime",
+			["source"] = "Kul'tharok",
 		},
 		[333523] = {
 			["school"] = 1,
@@ -3163,14 +3163,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dealer Xy'exa",
 		},
-		[320180] = {
-			["school"] = 40,
+		[339237] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Paceran the Virulent",
+			["source"] = "Halkias",
 		},
 		[323943] = {
 			["school"] = 1,
@@ -3225,6 +3224,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ingra Maloch",
 		},
+		[320580] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Amarth",
+		},
 		[329324] = {
 			["school"] = 1,
 			["token"] = {
@@ -3232,13 +3238,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Vicious Gargon",
-		},
-		[320580] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Amarth",
 		},
 		[320784] = {
 			["school"] = 16,
@@ -3258,6 +3257,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oryphrion",
 		},
+		[323515] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Gorechop",
+		},
 		[322554] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -3267,12 +3275,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Executor Tarvold",
-		},
-		[319938] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
 		},
 		[311468] = {
 			["school"] = 1,
@@ -3330,15 +3332,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Failed",
 		},
-		[320144] = {
+		[227291] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Millificent Manastorm",
+			["source"] = "Niuzao",
 		},
 		[323437] = {
 			["school"] = 32,
@@ -3351,19 +3350,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Chamberlain",
 		},
-		[227291] = {
+		[329258] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sinstone Statue",
+		},
+		[325807] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Niuzao",
-		},
-		[324148] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Ventunax",
+			["source"] = "Mueh'zala",
 		},
 		[319733] = {
 			["school"] = 1,

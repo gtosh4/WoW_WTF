@@ -7,18 +7,18 @@ DataStore_CovenantsDB = {
 		["Characters"] = {
 			["Default.Area 52.Toshpriest"] = {
 				["CovenantID"] = 2,
-				["lastUpdate"] = 1607492555,
+				["lastUpdate"] = 1607557212,
 				["RenownLevel"] = 7,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1258,
 						["description"] = "Channel Anima to Pridefall Hamlet, unlocking new Daily Quests.",
+						["talentID"] = 1258,
 						["name"] = "Pridefall Hamlet",
 						["normalizedPosition"] = {
 							["y"] = 0.8116804361343384,
@@ -28,12 +28,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1259,
 						["description"] = "Channel Anima to Dominance Keep, allowing you and your allies to challenge an elite foe.",
+						["talentID"] = 1259,
 						["name"] = "Dominance Keep",
 						["normalizedPosition"] = {
 							["y"] = 0.1962138414382935,
@@ -43,12 +43,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1260,
 						["description"] = "Channel Anima to the Shrouded Asylum, allowing access to mighty Venthyr enhancements.",
+						["talentID"] = 1260,
 						["name"] = "The Shrouded Asylum",
 						["normalizedPosition"] = {
 							["y"] = 0.5564113855361938,
@@ -58,12 +58,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1257,
 						["description"] = "Channel Anima to the Court of the Harvesters, unlocking a new World Quest.",
+						["talentID"] = 1257,
 						["name"] = "Court of the Harvesters",
 						["normalizedPosition"] = {
 							["y"] = 0.3470848202705383,
@@ -73,8 +73,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -89,11 +89,11 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 1,
+						["state"] = 2,
 						["talentID"] = 1255,
 						["description"] = "Channel Anima to the Crypt of the Forgotten, allowing access to a special treasure.",
 						["normalizedPosition"] = {
@@ -103,16 +103,16 @@ DataStore_CovenantsDB = {
 						["name"] = "Crypt of the Forgotten",
 					}, -- [6]
 				},
-				["ConduitReinforceProgress"] = 7,
+				["ConduitReinforceProgress"] = 8,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.4300369024276733,
 					["x"] = 0.2887356877326965,
 				},
 				["AnimaCurrency"] = {
-					["count"] = 1621,
+					["count"] = 1469,
 					["maxDisplayable"] = 10000,
 				},
-				["ActiveSoulbindID"] = 8,
+				["ActiveSoulbindID"] = 9,
 			},
 		},
 	},

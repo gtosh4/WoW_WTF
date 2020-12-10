@@ -246,6 +246,21 @@ WQTrackerDB = {
 				["Player-84-098A5875"] = {
 				},
 				["Player-3676-0D0FE5F5"] = {
+					{
+						["mapID"] = 1565,
+						["index"] = 0,
+						["timeFraction"] = 95300.295,
+						["questID"] = 61411,
+						["questType"] = 8,
+						["mapIDSynthetic"] = 0,
+						["expireAt"] = 1607577896,
+						["numObjectives"] = 1,
+						["LastDistance"] = 0.2723025916953102,
+						["timeAdded"] = 1607546156,
+						["rewardAmount"] = 140,
+						["timeLeft"] = 529,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					}, -- [1]
 				},
 				["Player-9-0A76FA3F"] = {
 				},
@@ -316,45 +331,35 @@ WQTrackerDB = {
 				["Player-3676-0B20F78C"] = {
 				},
 				["Player-3676-0D0FE5F5"] = {
-					[61784] = {
-						["expireAt"] = 1607526075,
+					[61879] = {
+						["expireAt"] = 1607612463,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045107,
+					},
+					[60770] = {
+						["expireAt"] = 1607595208,
+						["rewardAmount"] = "|cff2292FF158",
+						["rewardTexture"] = 1322723,
+					},
+					[61948] = {
+						["expireAt"] = 1607612488,
 						["rewardAmount"] = "20",
 						["rewardTexture"] = 2004597,
+					},
+					[61411] = {
+						["expireAt"] = 1607577928,
+						["rewardAmount"] = 140,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
 					[62241] = {
 						["expireAt"] = 1607560635,
 						["rewardAmount"] = 70,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[62058] = {
-						["expireAt"] = 1607508795,
-						["rewardAmount"] = "|cff2292FF158",
-						["rewardTexture"] = 1022949,
-					},
 					[58993] = {
-						["expireAt"] = 1607560639,
+						["expireAt"] = 1607560648,
 						["rewardAmount"] = 105,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[58975] = {
-						["expireAt"] = 1607508799,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61868] = {
-						["expireAt"] = 1607526048,
-						["rewardAmount"] = "14",
-						["rewardTexture"] = 2004597,
-					},
-					[61947] = {
-						["expireAt"] = 1607526079,
-						["rewardAmount"] = "18",
-						["rewardTexture"] = 133675,
-					},
-					[60858] = {
-						["expireAt"] = 1607543355,
-						["rewardAmount"] = "|cff2292FF161",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
 					},
 				},
 			},
@@ -440,7 +445,7 @@ WQTrackerDB = {
 						[60337] = 1,
 						[59585] = 1,
 						[61540] = 1,
-						["total"] = 59,
+						["total"] = 60,
 						[59717] = 1,
 						[58144] = 1,
 						[62241] = 2,
@@ -452,7 +457,7 @@ WQTrackerDB = {
 						[51043] = 1,
 						[58605] = 1,
 						[59804] = 1,
-						[59617] = 1,
+						[59617] = 2,
 						[59808] = 2,
 						[61816] = 1,
 						[61631] = 1,
@@ -507,7 +512,7 @@ WQTrackerDB = {
 							[60337] = 1,
 							[57443] = 3,
 							[61540] = 1,
-							["total"] = 50,
+							["total"] = 51,
 							[59717] = 1,
 							[58144] = 1,
 							[62241] = 2,
@@ -536,7 +541,7 @@ WQTrackerDB = {
 							[61631] = 1,
 							[60837] = 1,
 							[60659] = 2,
-							[59617] = 1,
+							[59617] = 2,
 							[62235] = 2,
 							[57465] = 1,
 							[58221] = 1,
@@ -547,10 +552,6 @@ WQTrackerDB = {
 				},
 				["period"] = {
 					["global"] = {
-						["201208"] = {
-							["quest"] = 1,
-							["artifact"] = 250,
-						},
 						["201206"] = {
 							["quest"] = 3,
 							["artifact"] = 210,
@@ -562,19 +563,24 @@ WQTrackerDB = {
 							["quest"] = 2,
 							["artifact"] = 105,
 						},
-						["201204"] = {
-							["quest"] = 5,
-							["artifact"] = 595,
-						},
-						["200817"] = {
-							["quest"] = 1,
-							["profession"] = {
-								[152668] = 1,
-							},
-						},
 						["200827"] = {
 							["quest"] = 6,
 							["resource"] = 50,
+						},
+						["200808"] = {
+							["quest"] = 1,
+						},
+						["200816"] = {
+							["quest"] = 1,
+						},
+						["201127"] = {
+							["artifact"] = 245,
+							["quest"] = 9,
+							["resource"] = 350,
+						},
+						["201208"] = {
+							["quest"] = 1,
+							["artifact"] = 250,
 						},
 						["201202"] = {
 							["quest"] = 1,
@@ -593,25 +599,28 @@ WQTrackerDB = {
 							["quest"] = 5,
 							["gold"] = 2699900,
 						},
+						["201209"] = {
+							["quest"] = 1,
+							["artifact"] = 70,
+						},
+						["201204"] = {
+							["quest"] = 5,
+							["artifact"] = 595,
+						},
+						["200817"] = {
+							["quest"] = 1,
+							["profession"] = {
+								[152668] = 1,
+							},
+						},
 						["201125"] = {
 							["artifact"] = 700,
 							["quest"] = 14,
 							["gold"] = 5251800,
 						},
-						["200816"] = {
-							["quest"] = 1,
-						},
-						["201127"] = {
-							["artifact"] = 245,
-							["quest"] = 9,
-							["resource"] = 350,
-						},
 						["201207"] = {
 							["quest"] = 4,
 							["artifact"] = 140,
-						},
-						["200808"] = {
-							["quest"] = 1,
 						},
 					},
 					["character"] = {
@@ -671,6 +680,10 @@ WQTrackerDB = {
 								["quest"] = 5,
 								["gold"] = 2699900,
 							},
+							["201209"] = {
+								["quest"] = 1,
+								["artifact"] = 70,
+							},
 							["201204"] = {
 								["quest"] = 5,
 								["artifact"] = 595,
@@ -694,7 +707,7 @@ WQTrackerDB = {
 				},
 				["reward"] = {
 					["global"] = {
-						["artifact"] = 2945,
+						["artifact"] = 3015,
 						["profession"] = {
 							[152668] = 1,
 						},
@@ -711,7 +724,7 @@ WQTrackerDB = {
 							},
 						},
 						["Player-3676-0D0FE5F5"] = {
-							["artifact"] = 2945,
+							["artifact"] = 3015,
 							["resource"] = 525,
 							["gold"] = 7951700,
 						},

@@ -476,14 +476,15 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1607492557,
+				["lastUpdate"] = 1607557212,
 				["Specializations"] = {
 					5503, -- [1]
-					[3] = 15350,
+					0, -- [2]
+					15350, -- [3]
 				},
 				["AzeriteEssences"] = {
 					["Breath of the Dying"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Breath of the Dying",
 						["ID"] = 35,
 						["icon"] = 3193844,
@@ -491,7 +492,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["The Well of Existence"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Well of Existence",
 						["ID"] = 19,
 						["icon"] = 516796,
@@ -499,7 +500,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Spark of Inspiration"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Spark of Inspiration",
 						["ID"] = 36,
 						["icon"] = 3193843,
@@ -507,7 +508,7 @@ DataStore_TalentsDB = {
 						["rank"] = 4,
 					},
 					["Life-Binder's Invocation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Life-Binder's Invocation",
 						["ID"] = 20,
 						["icon"] = 2967106,
@@ -531,7 +532,7 @@ DataStore_TalentsDB = {
 						["rank"] = 4,
 					},
 					["The Ever-Rising Tide"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Ever-Rising Tide",
 						["ID"] = 17,
 						["icon"] = 2967108,
@@ -539,7 +540,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Artifice of Time"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Artifice of Time",
 						["ID"] = 18,
 						["icon"] = 2967112,
@@ -547,7 +548,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Spirit of Preservation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Spirit of Preservation",
 						["ID"] = 24,
 						["icon"] = 2967101,
@@ -555,7 +556,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["The Unbound Force"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "The Unbound Force",
 						["ID"] = 28,
 						["icon"] = 2967102,
@@ -563,7 +564,7 @@ DataStore_TalentsDB = {
 						["rank"] = 1,
 					},
 					["Purification Protocol"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Purification Protocol",
 						["ID"] = 6,
 						["icon"] = 2967103,
@@ -595,7 +596,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Unwavering Ward"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Unwavering Ward",
 						["ID"] = 16,
 						["icon"] = 3193842,
@@ -603,7 +604,7 @@ DataStore_TalentsDB = {
 						["rank"] = 4,
 					},
 					["Vitality Conduit"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Vitality Conduit",
 						["ID"] = 21,
 						["icon"] = 2967100,
@@ -627,7 +628,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Blood of the Enemy"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Blood of the Enemy",
 						["ID"] = 23,
 						["icon"] = 2032580,
@@ -635,7 +636,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Condensed Life-Force"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Condensed Life-Force",
 						["ID"] = 14,
 						["icon"] = 2967113,
@@ -643,7 +644,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Essence of the Focusing Iris"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Essence of the Focusing Iris",
 						["ID"] = 5,
 						["icon"] = 2967111,
@@ -934,7 +935,33 @@ DataStore_TalentsRefDB = {
 						22976, -- [21]
 					},
 				}, -- [1]
-				[3] = {
+				{
+					["id"] = 257,
+					["talents"] = {
+						22312, -- [1]
+						19753, -- [2]
+						19754, -- [3]
+						22325, -- [4]
+						22326, -- [5]
+						19758, -- [6]
+						22487, -- [7]
+						22095, -- [8]
+						22562, -- [9]
+						21750, -- [10]
+						21977, -- [11]
+						19761, -- [12]
+						19764, -- [13]
+						22327, -- [14]
+						21754, -- [15]
+						19767, -- [16]
+						19760, -- [17]
+						19763, -- [18]
+						21636, -- [19]
+						21644, -- [20]
+						23145, -- [21]
+					},
+				}, -- [2]
+				{
 					["id"] = 258,
 					["talents"] = {
 						22328, -- [1]
@@ -959,7 +986,7 @@ DataStore_TalentsRefDB = {
 						21978, -- [20]
 						21979, -- [21]
 					},
-				},
+				}, -- [3]
 			},
 			["Version"] = 36839,
 		},
