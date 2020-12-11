@@ -35,7 +35,7 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1607557326,
+				["lastUpdate"] = 1607679081,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|10.657141685486",
 					["HealthMax"] = 25680,

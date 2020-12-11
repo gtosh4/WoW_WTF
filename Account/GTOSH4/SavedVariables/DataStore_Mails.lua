@@ -17,8 +17,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/11/28 00:01",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1607406909,
-				["lastVisitDate"] = "2020/12/08 00:55",
+				["lastUpdate"] = 1607624641,
+				["lastVisitDate"] = "2020/12/10 13:24",
 			},
 		},
 	},

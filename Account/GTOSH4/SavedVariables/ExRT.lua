@@ -565,12 +565,12 @@ VExRT = {
 			[2384] = "Doctor Ickus",
 			[2289] = "Blackwater Behemoth",
 			[2131] = "Tidesage Council",
-			[2132] = "Lord Stormsong",
+			[2386] = "Stradama Margrave",
 			[2385] = "Domina Venomblade",
 			[2290] = "King Gobbamak",
 			[2140] = "The Council of Tribes",
-			[2386] = "Stradama Margrave",
 			[2259] = "Machinist's Garden",
+			[2132] = "Lord Stormsong",
 			[2291] = "HK-8 Aerial Oppression Unit",
 			[2356] = "Ventunax",
 			[2101] = "The Sand Queen",
@@ -665,7 +665,7 @@ VExRT = {
 			["Yuffa-Kil'jaeden"] = 258,
 			["Lotsohdots-Kil'jaeden"] = 267,
 			["Tianarrae-Kil'jaeden"] = 257,
-			["Toshmonk-Kil'jaeden"] = 269,
+			["Toshmonk-Kil'jaeden"] = 270,
 			["Wizzawizz-Illidan"] = 64,
 			["Haschwàlth-Ragnaros"] = 71,
 			["Durantye"] = 258,
@@ -1912,13 +1912,13 @@ VExRT = {
 	["WhoPulled"] = {
 	},
 	["Addon"] = {
-		["Scale"] = 1,
-		["Version"] = 4390,
-		["PreVersion"] = 4390,
 		["IconMiniMapLeft"] = -43.8422319805596,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["IconMiniMapHide"] = true,
+		["Version"] = 4390,
 		["Timer"] = 0.1,
+		["IconMiniMapHide"] = true,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["PreVersion"] = 4390,
+		["Scale"] = 1,
 	},
 	["RaidCheck"] = {
 		["ReadyCheckFrameOnlyRL"] = true,
@@ -1928,6 +1928,8 @@ VExRT = {
 		["FlaskExp"] = 1,
 		["ReadyCheckLeft"] = 2007.500122070313,
 		["ReadyCheckTop"] = 1047.500122070313,
+	},
+	["Profiles"] = {
 	},
 	["LootHistory"] = {
 		["list"] = {
@@ -2463,14 +2465,6 @@ VExRT = {
 			[2162] = "Torghast, Tower of the Damned",
 		},
 	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
-		},
-	},
 	["Profile"] = "default",
 	["LootLink"] = {
 	},
@@ -2478,7 +2472,13 @@ VExRT = {
 		["profiles"] = {
 		},
 	},
-	["Profiles"] = {
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
 	},
 	["Logging"] = {
 		["enabled"] = true,

@@ -7,8 +7,8 @@ DataStore_CovenantsDB = {
 		["Characters"] = {
 			["Default.Area 52.Toshpriest"] = {
 				["CovenantID"] = 2,
-				["lastUpdate"] = 1607557212,
-				["RenownLevel"] = 7,
+				["lastUpdate"] = 1607679024,
+				["RenownLevel"] = 9,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {

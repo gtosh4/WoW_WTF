@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrameMover
-FrameLevel: 1
-Anchor: RIGHT
-X: -6
-Y: 74
-W: 235
-H: 700
 Frame: TooltipMover
 FrameLevel: 2
 Anchor: RIGHT
@@ -13,6 +6,13 @@ X: -376
 Y: 218
 W: 150
 H: 80
+Frame: ObjectiveTrackerFrameMover
+FrameLevel: 1
+Anchor: RIGHT
+X: -6
+Y: 74
+W: 235
+H: 700
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -56,7 +56,7 @@ Y: -75
 W: 128
 H: 64
 Frame: ColorPickerFrame
-FrameLevel: 1
+FrameLevel: 23
 Anchor: CENTER
 X: 0
 Y: 0
@@ -111,10 +111,3 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: VideoOptionsFrame
-FrameLevel: 0
-Anchor: RIGHT
-X: -494
-Y: 57
-W: 858
-H: 660

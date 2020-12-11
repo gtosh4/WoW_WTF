@@ -45,7 +45,7 @@ VER 3 0100000000000012 "t5" "INV_Misc_QuestionMark"
 END
 VER 3 0100000000000017 "t6" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:2,talent:6/1] Summon Jade Serpent Statue
+/cast [spec:2,talent:6/1] Summon Jade Serpent Statue; [spec:2,talent:6/2] Refreshing Jade Wind
 END
 VER 3 010000000000000B "tauntstatue" "INV_Misc_QuestionMark"
 #showtooltip Provoke

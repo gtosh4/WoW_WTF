@@ -31,7 +31,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1607557212,
+				["lastUpdate"] = 1607679033,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},
