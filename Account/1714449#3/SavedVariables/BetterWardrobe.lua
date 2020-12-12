@@ -36,16 +36,16 @@ BetterWardrobe_SavedSetData = {
 		["sets"] = {
 			["Toshmonk - Kil'jaeden"] = {
 				{
-					["name"] = "chiji",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1360261,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -68,23 +68,23 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 1360261,
+					["name"] = "chiji",
 				}, -- [1]
 				{
-					["name"] = "pirate",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1941312,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						98476, -- [1]
 						0, -- [2]
@@ -107,11 +107,11 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5002,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5002,
+					["uiOrder"] = 200,
+					["icon"] = 1941312,
+					["name"] = "pirate",
 				}, -- [2]
 			},
 			["Toshpriest - Area 52"] = {

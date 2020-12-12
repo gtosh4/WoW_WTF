@@ -17,7 +17,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[407055161] = {
 						["name"] = "Castle Nathria Normal",
-						["resetTime"] = 1608044399,
+						["resetTime"] = 1608044398,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -34,7 +34,7 @@ DataStore_AgendaDB = {
 					},
 					[407206229] = {
 						["name"] = "Castle Nathria Heroic",
-						["resetTime"] = 1608044399,
+						["resetTime"] = 1608044398,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -45,7 +45,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 1,
 					},
 				},
-				["lastUpdate"] = 1607679228,
+				["lastUpdate"] = 1607768098,
 			},
 		},
 	},

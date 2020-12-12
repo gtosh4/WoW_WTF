@@ -182,7 +182,9 @@ TalentSetManager_CharacterSaves = {
 	},
 	["Toshmonk-Kil'jaeden"] = {
 		["talents"] = {
-			[2] = {
+			{
+			}, -- [1]
+			{
 				{
 					3, -- [1]
 					3, -- [2]
@@ -207,9 +209,33 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "m+ (rm)",
 					["texture"] = 620831,
 				}, -- [2]
-			},
-			[3] = {
-			},
+			}, -- [2]
+			{
+				{
+					2, -- [1]
+					3, -- [2]
+					2, -- [3]
+					3, -- [4]
+					1, -- [5]
+					3, -- [6]
+					2, -- [7]
+					["texture"] = 606541,
+					["name"] = "st",
+					["tt"] = "talents",
+				}, -- [1]
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					3, -- [6]
+					2, -- [7]
+					["texture"] = 135734,
+					["name"] = "mt",
+					["tt"] = "talents",
+				}, -- [2]
+			}, -- [3]
 		},
 		["talents_pvp"] = {
 		},

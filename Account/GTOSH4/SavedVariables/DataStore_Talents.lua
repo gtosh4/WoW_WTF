@@ -476,15 +476,15 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1607679024,
+				["lastUpdate"] = 1607762825,
 				["Specializations"] = {
 					5503, -- [1]
-					0, -- [2]
+					14301, -- [2]
 					15350, -- [3]
 				},
 				["AzeriteEssences"] = {
 					["Breath of the Dying"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Breath of the Dying",
 						["ID"] = 35,
 						["icon"] = 3193844,
@@ -492,7 +492,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["The Well of Existence"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "The Well of Existence",
 						["ID"] = 19,
 						["icon"] = 516796,
@@ -500,7 +500,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Spark of Inspiration"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Spark of Inspiration",
 						["ID"] = 36,
 						["icon"] = 3193843,
@@ -508,7 +508,7 @@ DataStore_TalentsDB = {
 						["rank"] = 4,
 					},
 					["Life-Binder's Invocation"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Life-Binder's Invocation",
 						["ID"] = 20,
 						["icon"] = 2967106,
@@ -532,7 +532,7 @@ DataStore_TalentsDB = {
 						["rank"] = 4,
 					},
 					["The Ever-Rising Tide"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "The Ever-Rising Tide",
 						["ID"] = 17,
 						["icon"] = 2967108,
@@ -540,7 +540,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Artifice of Time"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Artifice of Time",
 						["ID"] = 18,
 						["icon"] = 2967112,
@@ -548,7 +548,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Spirit of Preservation"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Spirit of Preservation",
 						["ID"] = 24,
 						["icon"] = 2967101,
@@ -556,7 +556,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["The Unbound Force"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Unbound Force",
 						["ID"] = 28,
 						["icon"] = 2967102,
@@ -564,7 +564,7 @@ DataStore_TalentsDB = {
 						["rank"] = 1,
 					},
 					["Purification Protocol"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Purification Protocol",
 						["ID"] = 6,
 						["icon"] = 2967103,
@@ -596,7 +596,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Unwavering Ward"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Unwavering Ward",
 						["ID"] = 16,
 						["icon"] = 3193842,
@@ -604,7 +604,7 @@ DataStore_TalentsDB = {
 						["rank"] = 4,
 					},
 					["Vitality Conduit"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Vitality Conduit",
 						["ID"] = 21,
 						["icon"] = 2967100,
@@ -628,7 +628,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Blood of the Enemy"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Blood of the Enemy",
 						["ID"] = 23,
 						["icon"] = 2032580,
@@ -636,7 +636,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Condensed Life-Force"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Condensed Life-Force",
 						["ID"] = 14,
 						["icon"] = 2967113,
@@ -644,7 +644,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Essence of the Focusing Iris"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Essence of the Focusing Iris",
 						["ID"] = 5,
 						["icon"] = 2967111,

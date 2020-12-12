@@ -419,234 +419,235 @@ DataStore_TalentsDB = {
 				["Class"] = "MONK",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1607679228,
+				["lastUpdate"] = 1607766294,
 				["Specializations"] = {
-					[2] = 11007,
-					[3] = 11687,
+					6621, -- [1]
+					11007, -- [2]
+					12031, -- [3]
 				},
 				["AzeriteEssences"] = {
 					["Breath of the Dying"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Breath of the Dying",
 						["ID"] = 35,
-						["icon"] = 3193844,
 						["unlocked"] = false,
+						["icon"] = 3193844,
 						["rank"] = 0,
 					},
 					["The Well of Existence"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Well of Existence",
 						["ID"] = 19,
-						["icon"] = 516796,
 						["unlocked"] = true,
+						["icon"] = 516796,
 						["rank"] = 2,
 					},
 					["Spark of Inspiration"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Spark of Inspiration",
 						["ID"] = 36,
-						["icon"] = 3193843,
 						["unlocked"] = false,
+						["icon"] = 3193843,
 						["rank"] = 0,
 					},
 					["Life-Binder's Invocation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Life-Binder's Invocation",
 						["ID"] = 20,
-						["icon"] = 2967106,
 						["unlocked"] = true,
+						["icon"] = 2967106,
 						["rank"] = 3,
 					},
 					["Conflict and Strife"] = {
 						["valid"] = true,
 						["name"] = "Conflict and Strife",
 						["ID"] = 32,
-						["icon"] = 3015742,
 						["unlocked"] = true,
+						["icon"] = 3015742,
 						["rank"] = 2,
 					},
 					["Nullification Dynamo"] = {
 						["valid"] = false,
 						["name"] = "Nullification Dynamo",
 						["ID"] = 13,
-						["icon"] = 3015741,
 						["unlocked"] = false,
+						["icon"] = 3015741,
 						["rank"] = 0,
 					},
 					["Vision of Perfection"] = {
 						["valid"] = true,
 						["name"] = "Vision of Perfection",
 						["ID"] = 22,
-						["icon"] = 3015743,
 						["unlocked"] = true,
+						["icon"] = 3015743,
 						["rank"] = 2,
 					},
 					["The Ever-Rising Tide"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Ever-Rising Tide",
 						["ID"] = 17,
-						["icon"] = 2967108,
 						["unlocked"] = true,
+						["icon"] = 2967108,
 						["rank"] = 2,
 					},
 					["Essence of the Focusing Iris"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Essence of the Focusing Iris",
 						["ID"] = 5,
-						["icon"] = 2967111,
 						["unlocked"] = true,
+						["icon"] = 2967111,
 						["rank"] = 3,
 					},
 					["Spirit of Preservation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Spirit of Preservation",
 						["ID"] = 24,
-						["icon"] = 2967101,
 						["unlocked"] = false,
+						["icon"] = 2967101,
 						["rank"] = 0,
 					},
 					["Sphere of Suppression"] = {
 						["valid"] = false,
 						["name"] = "Sphere of Suppression",
 						["ID"] = 3,
-						["icon"] = 2065602,
 						["unlocked"] = false,
+						["icon"] = 2065602,
 						["rank"] = 0,
 					},
 					["The Unbound Force"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "The Unbound Force",
 						["ID"] = 28,
-						["icon"] = 2967102,
 						["unlocked"] = true,
+						["icon"] = 2967102,
 						["rank"] = 1,
 					},
 					["Purification Protocol"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Purification Protocol",
 						["ID"] = 6,
-						["icon"] = 2967103,
 						["unlocked"] = false,
+						["icon"] = 2967103,
 						["rank"] = 0,
 					},
 					["Strength of the Warden"] = {
 						["valid"] = false,
 						["name"] = "Strength of the Warden",
 						["ID"] = 34,
-						["icon"] = 3193846,
 						["unlocked"] = false,
+						["icon"] = 3193846,
 						["rank"] = 0,
 					},
 					["The Crucible of Flame"] = {
 						["valid"] = true,
 						["name"] = "The Crucible of Flame",
 						["ID"] = 12,
-						["icon"] = 3015740,
 						["unlocked"] = true,
+						["icon"] = 3015740,
 						["rank"] = 3,
 					},
 					["Ripple in Space"] = {
 						["valid"] = true,
 						["name"] = "Ripple in Space",
 						["ID"] = 15,
-						["icon"] = 2967109,
 						["unlocked"] = false,
+						["icon"] = 2967109,
 						["rank"] = 0,
 					},
 					["The Formless Void"] = {
 						["valid"] = true,
 						["name"] = "The Formless Void",
 						["ID"] = 37,
-						["icon"] = 3193845,
 						["unlocked"] = false,
+						["icon"] = 3193845,
 						["rank"] = 0,
 					},
 					["Anima of Life and Death"] = {
 						["valid"] = false,
 						["name"] = "Anima of Life and Death",
 						["ID"] = 7,
-						["icon"] = 2967105,
 						["unlocked"] = true,
+						["icon"] = 2967105,
 						["rank"] = 3,
 					},
 					["Worldvein Resonance"] = {
 						["valid"] = true,
 						["name"] = "Worldvein Resonance",
 						["ID"] = 4,
-						["icon"] = 1830317,
 						["unlocked"] = true,
+						["icon"] = 1830317,
 						["rank"] = 2,
 					},
 					["Artifice of Time"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Artifice of Time",
 						["ID"] = 18,
-						["icon"] = 2967112,
 						["unlocked"] = false,
+						["icon"] = 2967112,
 						["rank"] = 0,
 					},
 					["Vitality Conduit"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Vitality Conduit",
 						["ID"] = 21,
-						["icon"] = 2967100,
 						["unlocked"] = true,
+						["icon"] = 2967100,
 						["rank"] = 3,
 					},
 					["Unwavering Ward"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Unwavering Ward",
 						["ID"] = 16,
-						["icon"] = 3193842,
 						["unlocked"] = false,
+						["icon"] = 3193842,
 						["rank"] = 0,
 					},
 					["Condensed Life-Force"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Condensed Life-Force",
 						["ID"] = 14,
-						["icon"] = 2967113,
 						["unlocked"] = true,
+						["icon"] = 2967113,
 						["rank"] = 3,
 					},
 					["Touch of the Everlasting"] = {
 						["valid"] = false,
 						["name"] = "Touch of the Everlasting",
 						["ID"] = 33,
-						["icon"] = 3193847,
 						["unlocked"] = false,
+						["icon"] = 3193847,
 						["rank"] = 0,
 					},
 					["Memory of Lucid Dreams"] = {
 						["valid"] = true,
 						["name"] = "Memory of Lucid Dreams",
 						["ID"] = 27,
-						["icon"] = 2967104,
 						["unlocked"] = true,
+						["icon"] = 2967104,
 						["rank"] = 2,
 					},
 					["Blood of the Enemy"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Blood of the Enemy",
 						["ID"] = 23,
-						["icon"] = 2032580,
 						["unlocked"] = false,
+						["icon"] = 2032580,
 						["rank"] = 0,
 					},
 					["Azeroth's Undying Gift"] = {
 						["valid"] = false,
 						["name"] = "Azeroth's Undying Gift",
 						["ID"] = 2,
-						["icon"] = 2967107,
 						["unlocked"] = true,
+						["icon"] = 2967107,
 						["rank"] = 3,
 					},
 					["Aegis of the Deep"] = {
 						["valid"] = false,
 						["name"] = "Aegis of the Deep",
 						["ID"] = 25,
-						["icon"] = 2967110,
 						["unlocked"] = true,
+						["icon"] = 2967110,
 						["rank"] = 2,
 					},
 				},
@@ -665,7 +666,33 @@ DataStore_TalentsRefDB = {
 		["MONK"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
-				[2] = {
+				{
+					["id"] = 268,
+					["talents"] = {
+						23106, -- [1]
+						19820, -- [2]
+						20185, -- [3]
+						19304, -- [4]
+						19818, -- [5]
+						19302, -- [6]
+						22099, -- [7]
+						22097, -- [8]
+						19992, -- [9]
+						19993, -- [10]
+						19994, -- [11]
+						19995, -- [12]
+						20174, -- [13]
+						23363, -- [14]
+						20175, -- [15]
+						19819, -- [16]
+						20184, -- [17]
+						22103, -- [18]
+						22106, -- [19]
+						22104, -- [20]
+						22108, -- [21]
+					},
+				}, -- [1]
+				{
 					["id"] = 270,
 					["talents"] = {
 						19823, -- [1]
@@ -690,8 +717,8 @@ DataStore_TalentsRefDB = {
 						22169, -- [20]
 						22170, -- [21]
 					},
-				},
-				[3] = {
+				}, -- [2]
+				{
 					["id"] = 269,
 					["talents"] = {
 						23106, -- [1]
@@ -716,7 +743,7 @@ DataStore_TalentsRefDB = {
 						22105, -- [20]
 						21191, -- [21]
 					},
-				},
+				}, -- [3]
 			},
 			["Version"] = 36839,
 		},

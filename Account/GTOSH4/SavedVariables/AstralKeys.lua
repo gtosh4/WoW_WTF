@@ -4,12 +4,12 @@ AstralKeys = {
 		["btag"] = "Rathux#11683",
 		["weekly_best"] = 0,
 		["class"] = "DEATHKNIGHT",
-		["key_level"] = 9,
+		["key_level"] = 11,
 		["unit"] = "Rathux-Area52",
 		["dungeon_id"] = 377,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 323124,
 		["source"] = "friend",
 	}, -- [1]
 	{
@@ -21,19 +21,19 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 3,
 		["source"] = "friend",
 	}, -- [2]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 8,
 		["class"] = "HUNTER",
 		["key_level"] = 10,
 		["unit"] = "Thunderrz-Area52",
 		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 115898,
+		["time_stamp"] = 323173,
 	}, -- [3]
 	{
 		["source"] = "guild",
@@ -55,19 +55,19 @@ AstralKeys = {
 		["dungeon_id"] = 376,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 321355,
 		["source"] = "friend",
 	}, -- [5]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 8,
 		["class"] = "PRIEST",
 		["key_level"] = 2,
 		["unit"] = "Toshpriest-Area52",
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 239433,
+		["time_stamp"] = 323142,
 	}, -- [6]
 	{
 		["btag"] = "YukioX#1520",
@@ -78,19 +78,19 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 2,
+		["time_stamp"] = 321359,
 		["source"] = "friend",
 	}, -- [7]
 	{
 		["btag"] = "Evbrq#1749",
 		["weekly_best"] = 0,
 		["class"] = "PALADIN",
-		["key_level"] = 2,
+		["key_level"] = 5,
 		["unit"] = "Sherbe-Kil'jaeden",
-		["dungeon_id"] = 381,
+		["dungeon_id"] = 379,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 189750,
+		["time_stamp"] = 309655,
 		["source"] = "friend",
 	}, -- [8]
 	{
@@ -102,7 +102,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 53046,
+		["time_stamp"] = 316826,
 	}, -- [9]
 	{
 		["btag"] = "Thanerial#1172",
@@ -118,26 +118,26 @@ AstralKeys = {
 	}, -- [10]
 	{
 		["btag"] = "bum#1748",
-		["weekly_best"] = 0,
+		["weekly_best"] = 7,
 		["class"] = "WARRIOR",
 		["key_level"] = 2,
 		["unit"] = "Orcbum-Kil'jaeden",
 		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 322596,
 		["source"] = "friend",
 	}, -- [11]
 	{
 		["btag"] = "Thanerial#1172",
 		["weekly_best"] = 0,
 		["class"] = "MAGE",
-		["key_level"] = 6,
+		["key_level"] = 7,
 		["unit"] = "Authentic-Kil'jaeden",
-		["dungeon_id"] = 380,
+		["dungeon_id"] = 375,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 322583,
 		["source"] = "friend",
 	}, -- [12]
 	{
@@ -164,10 +164,56 @@ AstralKeys = {
 		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [14]
+	{
+		["btag"] = "Emosong#1897",
+		["weekly_best"] = 0,
+		["class"] = "ROGUE",
+		["key_level"] = 2,
+		["unit"] = "Emosong-Kil'jaeden",
+		["dungeon_id"] = 379,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [15]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 10,
+		["class"] = "PRIEST",
+		["key_level"] = 2,
+		["unit"] = "Delpix-Area52",
+		["dungeon_id"] = 382,
+		["week"] = 177,
+		["faction"] = 1,
+		["time_stamp"] = 321348,
+	}, -- [16]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 4,
+		["class"] = "PRIEST",
+		["key_level"] = 6,
+		["unit"] = "Alyasta-Area52",
+		["dungeon_id"] = 378,
+		["week"] = 177,
+		["faction"] = 1,
+		["time_stamp"] = 311067,
+	}, -- [17]
+	{
+		["btag"] = "boochan#1194",
+		["weekly_best"] = 9,
+		["class"] = "DRUID",
+		["key_level"] = 6,
+		["unit"] = "Ngow-Kil'jaeden",
+		["dungeon_id"] = 375,
+		["week"] = 177,
+		["faction"] = "1",
+		["time_stamp"] = 322588,
+		["source"] = "friend",
+	}, -- [18]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 0,
+		["weekly_best"] = 8,
 		["class"] = "PRIEST",
 		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
@@ -287,19 +333,21 @@ AstralLists = {
 	{
 		["name"] = "GUILD",
 		["units"] = {
+			["Delpix-Area52"] = true,
 			["Artsong-Area52"] = "Emosong#1897",
 			["Sci-Area52"] = "Sci#11555",
 			["Arnbjorn-Area52"] = true,
+			["Race-Area52"] = true,
+			["Illsong-Area52"] = "Emosong#1897",
 			["Yukiox-Area52"] = "YukioX#1520",
-			["Weedsong-Area52"] = "Emosong#1897",
 			["Woesong-Area52"] = "Emosong#1897",
 			["Toshpriest-Area52"] = true,
-			["Illsong-Area52"] = "Emosong#1897",
+			["Alyasta-Area52"] = true,
 			["Delpi-Area52"] = true,
 			["Thunderrz-Area52"] = true,
 			["Rathux-Area52"] = "Rathux#11683",
 			["Scitron-Area52"] = "Sci#11555",
-			["Race-Area52"] = true,
+			["Weedsong-Area52"] = "Emosong#1897",
 		},
 	}, -- [1]
 	{

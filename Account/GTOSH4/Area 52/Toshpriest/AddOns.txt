@@ -26,3 +26,4 @@ Blizzard_CompactRaidFrames: disabled
 Blizzard_CUFProfiles: disabled
 BigWigs_Voice: enabled
 LittleWigs: enabled
+BigWigs_CastleNathria: enabled

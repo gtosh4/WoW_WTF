@@ -195,9 +195,9 @@ DataStore_CurrenciesDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["CurrencyInfo"] = {
 					[1820] = "100-0-0-100",
-					[1885] = "14-0-0-0",
+					[1885] = "16-0-0-0",
 					[1580] = "3-0-0-5",
-					[1767] = "7117-0-0-0",
+					[1767] = "7868-0-0-0",
 					[1273] = "0-0-0-6",
 					[1275] = "26-0-0-0",
 					[1710] = "118-0-0-0",
@@ -207,7 +207,7 @@ DataStore_CurrenciesDB = {
 					[1220] = "14331-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "53-0-0-0",
-					[1813] = "1204-0-0-35000",
+					[1813] = "2517-0-0-35000",
 					[1721] = "317-0-0-0",
 					[1226] = "766-0-0-0",
 					[1716] = "327-0-0-0",
@@ -225,7 +225,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 14,
+						["count"] = 16,
 					}, -- [2]
 					{
 						["isHeader"] = false,
@@ -235,7 +235,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 26,
-						["count"] = 1204,
+						["count"] = 2517,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -245,7 +245,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 27,
-						["count"] = 7117,
+						["count"] = 7868,
 					}, -- [6]
 					{
 						["isHeader"] = true,
@@ -349,7 +349,7 @@ DataStore_CurrenciesDB = {
 					}, -- [26]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1607679309,
+				["lastUpdate"] = 1607765979,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -426,9 +426,9 @@ DataStore_CurrenciesDB = {
 				["Seafarer's Dubloon"] = 10,
 				["Legion"] = 13,
 				["Echoes of Ny'alotha"] = 7,
-				["Wakening Essence"] = 21,
 				["Coalescing Visions"] = 5,
 				["Prismatic Manapearl"] = 9,
+				["Wakening Essence"] = 21,
 				["Grateful Offering"] = 29,
 				["Curious Coin"] = 15,
 				["Conquest"] = 23,

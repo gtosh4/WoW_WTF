@@ -85,122 +85,46 @@ TellMeWhenDB = {
 			["n"] = 1,
 		},
 		["AuraCache"] = {
-			[329435] = 1,
-			[311465] = 2,
-			[311466] = 2,
-			[202636] = 2,
-			[333724] = 2,
-			[340202] = 2,
-			[347600] = 2,
-			[195949] = 2,
-			[6673] = 2,
-			[320212] = 2,
-			[311470] = 2,
-			[53390] = 2,
-			[271896] = 2,
-			[185763] = 2,
-			[311471] = 2,
-			[57724] = 2,
-			[465] = 2,
-			[13877] = 2,
-			[193356] = 2,
-			[195627] = 2,
-			[292359] = 2,
-			[311484] = 2,
-			[345230] = 2,
-			[257424] = 2,
-			[298837] = 2,
-			[315508] = 2,
-			[311474] = 2,
-			[137619] = 2,
-			[768] = 2,
-			[196941] = 2,
-			[308434] = 2,
-			[317103] = 2,
-			[292362] = 2,
-			[5225] = 2,
-			[311476] = 2,
-			[2580] = 2,
-			[292363] = 2,
-			[5487] = 2,
-			[242551] = 2,
-			[345545] = 2,
-			[325101] = 1,
-			[65081] = 2,
-			[80354] = 2,
-			[248473] = 2,
-			[32223] = 2,
-			[17] = 2,
-			[6788] = 2,
-			[251839] = 2,
-			[196608] = 2,
-			[342309] = 2,
-			[311480] = 2,
-			[164273] = 2,
-			[101643] = 2,
-			[186403] = 2,
-			[269571] = 2,
-			[280398] = 2,
-			[310143] = 2,
-			[167898] = 2,
-			[321388] = 2,
-			[193357] = 2,
-			[292361] = 2,
-			[108446] = 2,
-			[311483] = 2,
-			[297037] = 2,
-			[154797] = 2,
-			[210053] = 2,
-			[307166] = 2,
-			[2383] = 2,
-			[52127] = 2,
-			[289277] = 2,
-			[169291] = 2,
-			[297039] = 2,
-			[221886] = 2,
-			[243955] = 2,
-			[325202] = 2,
-			[343960] = 2,
-			[56814] = 2,
-			[216251] = 2,
-			[330943] = 2,
-			[313424] = 2,
-			[308504] = 2,
-			[232698] = 2,
-			[311488] = 2,
-			[338825] = 2,
-			[192106] = 2,
-			[290121] = 2,
-			[53563] = 2,
-			[5760] = 2,
-			[347621] = 2,
-			[5761] = 2,
-			[308488] = 2,
-			[21562] = 2,
-			[308506] = 2,
-			[311459] = 2,
-			[143625] = 2,
-			[331462] = 2,
-			[43308] = 2,
-			[315584] = 2,
-			[311492] = 2,
-			[2645] = 2,
-			[251836] = 2,
-			[227723] = 2,
-			[245686] = 2,
-			[72968] = 2,
-			[8679] = 2,
-			[1490] = 2,
-			[165961] = 2,
-			[3408] = 2,
-			[24858] = 2,
-			[330767] = 2,
-			[193538] = 2,
+			[340546] = 2,
 			[1459] = 2,
-			[315496] = 2,
-			[311464] = 2,
-			[61295] = 2,
+			[1719] = 2,
+			[329492] = 2,
+			[227723] = 2,
+			[2383] = 2,
+			[2580] = 2,
+			[311492] = 2,
+			[6673] = 2,
+			[3408] = 2,
+			[325101] = 1,
+			[192106] = 2,
+			[48265] = 2,
+			[108366] = 2,
+			[72968] = 2,
+			[253595] = 2,
+			[212653] = 2,
+			[292361] = 2,
+			[311466] = 2,
+			[65081] = 2,
+			[17] = 2,
+			[260881] = 2,
+			[311483] = 2,
+			[320130] = 2,
+			[6788] = 2,
+			[330368] = 2,
+			[311471] = 2,
+			[298837] = 2,
+			[345545] = 2,
 			[307185] = 2,
+			[311485] = 2,
+			[347600] = 2,
+			[5761] = 2,
+			[297035] = 2,
+			[232698] = 2,
+			[310143] = 2,
+			[320212] = 2,
+			[57724] = 2,
+			[2645] = 2,
+			[186403] = 2,
 		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
@@ -1335,6 +1259,7 @@ TellMeWhenDB = {
 	["Version"] = 90201,
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
+			["NumGroups"] = 10,
 			["Version"] = 87505,
 			["Groups"] = {
 				{
@@ -6714,10 +6639,10 @@ TellMeWhenDB = {
 					["Columns"] = 3,
 				}, -- [10]
 			},
-			["NumGroups"] = 10,
 			["TextureName"] = "Smooth v2",
 		},
 		["Empty2"] = {
+			["Version"] = 90201,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5QOoilLgOy",
@@ -13830,12 +13755,10 @@ TellMeWhenDB = {
 				}, -- [16]
 			},
 			["NumGroups"] = 16,
-			["Version"] = 90201,
 			["TextureName"] = "Smooth v2",
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
-			["NumGroups"] = 6,
 			["Version"] = 90201,
 			["Groups"] = {
 				{
@@ -17196,6 +17119,7 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
+			["NumGroups"] = 6,
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["Version"] = 90201,
@@ -31545,48 +31469,104 @@ TellMeWhenDB = {
 					["Columns"] = 12,
 					["Icons"] = {
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Keg Smash",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SQ\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [1]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Blackout Kick",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"Q\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [2]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Breath of Fire",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SE\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [3]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Rushing Jade Wind",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"4\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -31600,15 +31580,30 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Celestial Brew",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"2\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [6]
 						{
 							["States"] = {
@@ -31655,26 +31650,54 @@ TellMeWhenDB = {
 							},
 						}, -- [10]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Leg Sweep",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"Z\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [11]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Paralysis",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SZ\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [12]
 						{
 							["States"] = {
@@ -31724,26 +31747,109 @@ TellMeWhenDB = {
 					["Columns"] = 6,
 					["Icons"] = {
 						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "Phial of Serenity",
+							["GUID"] = "TMW:icon:1Vr9MshLDEi1",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "HEALTH",
+											["Operator"] = "<=",
+											["Level"] = 30,
+										}, -- [1]
+										{
+											["Type"] = "ITEMCD",
+											["Name"] = "Phial of Serenity",
+										}, -- [2]
+										{
+											["Type"] = "COMBAT",
+										}, -- [3]
+										["n"] = 3,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SG\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
+								[102] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
 							},
+							["FakeHidden"] = true,
+							["Enabled"] = true,
 						}, -- [1]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "conditionicon",
+							["Name"] = "Phial of Serenity",
+							["GUID"] = "TMW:icon:1Vr9N26wUGme",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["OnlyShown"] = true,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnEventsRestored",
+									["Infinite"] = true,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SG\"]", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "333372",
 							["States"] = {
 								{
+									["Color"] = "ffffffffd",
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
+								[102] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
 							},
+							["FakeHidden"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "ITEMINBAGS",
+									["Name"] = "Phial of Serenity",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
 						}, -- [2]
 						{
 							["States"] = {
@@ -32142,26 +32248,56 @@ TellMeWhenDB = {
 					["Columns"] = 10,
 					["Icons"] = {
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Purifying Brew",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"1\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [1]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Provoke",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"T\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [2]
 						{
 							["States"] = {
@@ -32288,6 +32424,8 @@ TellMeWhenDB = {
 					["Columns"] = 6,
 					["Icons"] = {
 						{
+							["Type"] = "cooldown",
+							["Name"] = "Expel Harm",
 							["States"] = {
 								{
 								}, -- [1]
@@ -32297,8 +32435,14 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [1]
 						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1VmPCAr5Q6qI", -- [1]
+								"TMW:icon:1VmPB_1yfSG7", -- [2]
+							},
 							["States"] = {
 								{
 								}, -- [1]
@@ -32308,6 +32452,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [2]
 						{
 							["States"] = {
@@ -33019,48 +33164,106 @@ TellMeWhenDB = {
 					["Columns"] = 12,
 					["Icons"] = {
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Fortifying Brew",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S1\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [1]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Zen Meditation",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S2\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [2]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Invoke Niuzao, the Black Ox",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S3\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [3]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Weapons of Order",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"S4\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -33129,26 +33332,56 @@ TellMeWhenDB = {
 							},
 						}, -- [10]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Spear Hand Strike",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"R\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [11]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Detox",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SR\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [12]
 						{
 							["States"] = {
@@ -33816,7 +34049,7 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Fist of the White Tiger",
+							["Name"] = "Fist of the White Tiger; Energizing Elixir",
 							["ManaCheck"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -33843,13 +34076,6 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["RangeCheck"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "TALENTLEARNED",
-									["Name"] = "Fist of the White Tiger",
-								}, -- [1]
-								["n"] = 1,
-							},
 							["Enabled"] = true,
 						}, -- [3]
 						{
@@ -36927,7 +37153,6 @@ TellMeWhenDB = {
 			["Locked"] = true,
 		},
 		["Empty"] = {
-			["Version"] = 90201,
 			["NumGroups"] = 5,
 			["Groups"] = {
 				{
@@ -39909,6 +40134,7 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
+			["Version"] = 90201,
 		},
 	},
 }

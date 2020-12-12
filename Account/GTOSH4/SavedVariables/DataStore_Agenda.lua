@@ -30,8 +30,36 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
+					[412882152] = {
+						["name"] = "Castle Nathria Normal",
+						["resetTime"] = 1608044399,
+						["numEncounters"] = 10,
+						["bosses"] = {
+							["Sludgefist"] = true,
+							["Stone Legion Generals"] = true,
+							["Sire Denathrius"] = true,
+						},
+						["progress"] = 3,
+						["extended"] = 0,
+						["isRaid"] = 1,
+					},
+					[412895867] = {
+						["name"] = "Castle Nathria Heroic",
+						["resetTime"] = 1608044399,
+						["numEncounters"] = 10,
+						["bosses"] = {
+							["Huntsman Altimor"] = true,
+							["Lady Inerva Darkvein"] = true,
+							["Artificer Xy'mox"] = true,
+							["Shriekwing"] = true,
+							["Hungering Destroyer"] = true,
+						},
+						["progress"] = 5,
+						["extended"] = 0,
+						["isRaid"] = 1,
+					},
 				},
-				["lastUpdate"] = 1607679033,
+				["lastUpdate"] = 1607763059,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

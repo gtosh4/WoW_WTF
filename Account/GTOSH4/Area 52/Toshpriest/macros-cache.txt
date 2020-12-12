@@ -1,6 +1,6 @@
 VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
 #showtooltip 
-/cast [talent:5/2,@mouseover,noharm] Binding Heal; [talent:5/3,@mouseover,noharm] Circle of Healing; Greater Heal
+/cast [@mouseover,noharm] Circle of Healing
 END
 VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
 #showtooltip [spec:3,talent:2/1] Power Word: Shield; Angelic Feather

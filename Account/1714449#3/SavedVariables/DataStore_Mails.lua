@@ -16,8 +16,19 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/11/29 19:05",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1607679240,
-				["lastVisitDate"] = "2020/12/11 04:34",
+				["lastUpdate"] = 1607756450,
+				["MailCache"] = {
+					{
+						["sender"] = "Auctioneer",
+						["subject"] = "Auctions",
+						["lastCheck"] = 1607762874,
+						["money"] = 0,
+						["text"] = "",
+						["icon"] = "Interface\\Icons\\INV_Misc_Note_01",
+						["daysLeft"] = 30,
+					}, -- [1]
+				},
+				["lastVisitDate"] = "2020/12/12 02:00",
 			},
 		},
 	},

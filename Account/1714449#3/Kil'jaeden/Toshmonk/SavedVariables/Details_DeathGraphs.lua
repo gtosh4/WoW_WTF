@@ -400,12 +400,12 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Downloaded"] = {
-				["name"] = "Downloaded",
-				["class"] = "WARLOCK",
-				["overall"] = {
-				},
+			["Bit"] = {
 				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Bit",
+				["overall"] = {
 				},
 			},
 			["Orcbum"] = {
@@ -424,12 +424,12 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Bit"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Bit",
+			["Dragonite"] = {
+				["name"] = "Dragonite",
+				["class"] = "DEMONHUNTER",
 				["overall"] = {
+				},
+				["deaths"] = {
 				},
 			},
 			["Emosong"] = {
@@ -440,9 +440,9 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Dragonite"] = {
-				["name"] = "Dragonite",
-				["class"] = "DEMONHUNTER",
+			["Huskeryfloof"] = {
+				["name"] = "Huskeryfloof",
+				["class"] = "DRUID",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -456,9 +456,9 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Huskeryfloof"] = {
-				["name"] = "Huskeryfloof",
-				["class"] = "DRUID",
+			["Downloaded"] = {
+				["name"] = "Downloaded",
+				["class"] = "WARLOCK",
 				["overall"] = {
 				},
 				["deaths"] = {
@@ -1950,13 +1950,6 @@ DeathGraphsDBEndurance = {
 					}, -- [6]
 				},
 			},
-			["Huskeryfloof"] = {
-				["encounters"] = 12,
-				["points"] = 1200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
 			["Secxtanx"] = {
 				["encounters"] = 7,
 				["points"] = 700,
@@ -1973,6 +1966,18 @@ DeathGraphsDBEndurance = {
 						2, -- [1]
 						45.28599999999278, -- [2]
 						"Shattering Chain |cFFFF333391,993|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Idc"] = {
+				["encounters"] = 12,
+				["points"] = 1190,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						7, -- [1]
+						93.14199999999255, -- [2]
+						"Destructive Stomp |cFFFF333353,723|r", -- [3]
 					}, -- [1]
 				},
 			},
@@ -2207,6 +2212,13 @@ DeathGraphsDBEndurance = {
 					}, -- [3]
 				},
 			},
+			["Huskeryfloof"] = {
+				["encounters"] = 12,
+				["points"] = 1200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
 			["Drmango"] = {
 				["encounters"] = 12,
 				["points"] = 1190,
@@ -2216,18 +2228,6 @@ DeathGraphsDBEndurance = {
 						1, -- [1]
 						10.36699999999837, -- [2]
 						"Shattering Chain |cFFFF3333116,547|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Idc"] = {
-				["encounters"] = 12,
-				["points"] = 1190,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						7, -- [1]
-						93.14199999999255, -- [2]
-						"Destructive Stomp |cFFFF333353,723|r", -- [3]
 					}, -- [1]
 				},
 			},
@@ -2670,10 +2670,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Spoonerisms"] = {
+			["Dragonite"] = {
 				["encounters"] = 3,
 				["points"] = 300,
-				["class"] = "PALADIN",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
@@ -2725,7 +2725,26 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Dragonite"] = {
+			["Scitron"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Brutang"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						2, -- [1]
+						265.8869999999879, -- [2]
+						"Annihilate |cFFFF333375,283|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Aveon"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["class"] = "DEMONHUNTER",
@@ -2739,30 +2758,11 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Aveon"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
 			["Maserder"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["class"] = "MAGE",
 				["deaths"] = {
-				},
-			},
-			["Focalaire"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						2, -- [1]
-						101.528999999995, -- [2]
-						"Rift Blast |cFFFF333310,464|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Yukios"] = {
@@ -2779,18 +2779,6 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Brutang"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						2, -- [1]
-						265.8869999999879, -- [2]
-						"Annihilate |cFFFF333375,283|r", -- [3]
-					}, -- [1]
-				},
-			},
 			["Boomie"] = {
 				["encounters"] = 3,
 				["points"] = 300,
@@ -2798,10 +2786,22 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Scitron"] = {
+			["Focalaire"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						2, -- [1]
+						101.528999999995, -- [2]
+						"Rift Blast |cFFFF333310,464|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Spoonerisms"] = {
 				["encounters"] = 3,
 				["points"] = 300,
-				["class"] = "SHAMAN",
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 			},
@@ -3193,10 +3193,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Dragonite"] = {
+			["Scitron"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "DEMONHUNTER",
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
 			},
@@ -3238,10 +3238,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Scitron"] = {
+			["Spoonerisms"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "SHAMAN",
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 			},
@@ -3321,10 +3321,10 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Spoonerisms"] = {
+			["Dragonite"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "PALADIN",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
@@ -11322,18 +11322,18 @@ DeathGraphsDBGraph = {
 			[119] = {
 				1607667114, -- [1]
 			},
-			[127] = {
-				1607665724, -- [1]
-				1607665724, -- [2]
-				1607665724, -- [3]
+			[155] = {
+				1607666534, -- [1]
 			},
 			[92] = {
 				1607666534, -- [1]
 				1607667953, -- [2]
 				1607667953, -- [3]
 			},
-			[155] = {
-				1607666534, -- [1]
+			[127] = {
+				1607665724, -- [1]
+				1607665724, -- [2]
+				1607665724, -- [3]
 			},
 			[25] = {
 				1607666870, -- [1]
@@ -11437,9 +11437,9 @@ DeathGraphsDBGraph = {
 			[147] = {
 				1607658935, -- [1]
 			},
-			[137] = {
-				1607658598, -- [1]
-				1607658598, -- [2]
+			[97] = {
+				1607658285, -- [1]
+				1607659244, -- [2]
 			},
 			[166] = {
 				1607658935, -- [1]
@@ -11447,16 +11447,16 @@ DeathGraphsDBGraph = {
 			[135] = {
 				1607658598, -- [1]
 			},
-			[268] = {
-				1607660538, -- [1]
-			},
 			[136] = {
 				1607658598, -- [1]
 				1607658598, -- [2]
 			},
-			[97] = {
-				1607658285, -- [1]
-				1607659244, -- [2]
+			[268] = {
+				1607660538, -- [1]
+			},
+			[137] = {
+				1607658598, -- [1]
+				1607658598, -- [2]
 			},
 			[51] = {
 				1607658011, -- [1]
@@ -11583,6 +11583,59 @@ DeathGraphsDBGraph = {
 			[38] = {
 				1607665039, -- [1]
 			},
+			[114] = {
+				1607664249, -- [1]
+			},
+			[23] = {
+				1607656811, -- [1]
+				1607656811, -- [2]
+			},
+			[79] = {
+				1607663893, -- [1]
+			},
+			[22] = {
+				1607656811, -- [1]
+			},
+			[25] = {
+				1607663387, -- [1]
+			},
+			[45] = {
+				1607664664, -- [1]
+			},
+			[46] = {
+				1607664249, -- [1]
+			},
+			[24] = {
+				1607663093, -- [1]
+			},
+			[50] = {
+				1607664664, -- [1]
+				1607664664, -- [2]
+				1607665039, -- [3]
+			},
+			[65] = {
+				1607665039, -- [1]
+			},
+			[13] = {
+				1607663387, -- [1]
+				1607663650, -- [2]
+			},
+			[73] = {
+				1607663893, -- [1]
+				1607664249, -- [2]
+			},
+			[102] = {
+				1607656811, -- [1]
+			},
+			[53] = {
+				1607656240, -- [1]
+				1607656240, -- [2]
+				1607656240, -- [3]
+			},
+			[75] = {
+				1607663093, -- [1]
+				1607664249, -- [2]
+			},
 			[49] = {
 				1607663093, -- [1]
 				1607663093, -- [2]
@@ -11597,59 +11650,6 @@ DeathGraphsDBGraph = {
 				1607663893, -- [11]
 				1607663893, -- [12]
 				1607663893, -- [13]
-			},
-			[23] = {
-				1607656811, -- [1]
-				1607656811, -- [2]
-			},
-			[79] = {
-				1607663893, -- [1]
-			},
-			[22] = {
-				1607656811, -- [1]
-			},
-			[73] = {
-				1607663893, -- [1]
-				1607664249, -- [2]
-			},
-			[45] = {
-				1607664664, -- [1]
-			},
-			[46] = {
-				1607664249, -- [1]
-			},
-			[24] = {
-				1607663093, -- [1]
-			},
-			[13] = {
-				1607663387, -- [1]
-				1607663650, -- [2]
-			},
-			[65] = {
-				1607665039, -- [1]
-			},
-			[50] = {
-				1607664664, -- [1]
-				1607664664, -- [2]
-				1607665039, -- [3]
-			},
-			[114] = {
-				1607664249, -- [1]
-			},
-			[102] = {
-				1607656811, -- [1]
-			},
-			[53] = {
-				1607656240, -- [1]
-				1607656240, -- [2]
-				1607656240, -- [3]
-			},
-			[75] = {
-				1607663093, -- [1]
-				1607664249, -- [2]
-			},
-			[25] = {
-				1607663387, -- [1]
 			},
 			[110] = {
 				1607664249, -- [1]
@@ -11672,8 +11672,8 @@ DeathGraphsDBGraph = {
 				1607576236, -- [1]
 				1607577169, -- [2]
 			},
-			[808] = {
-				1607577169, -- [1]
+			[338] = {
+				1607576236, -- [1]
 			},
 			[315] = {
 				1607576236, -- [1]
@@ -11682,10 +11682,10 @@ DeathGraphsDBGraph = {
 			[344] = {
 				1607576236, -- [1]
 			},
-			[338] = {
-				1607576236, -- [1]
-			},
 			[787] = {
+				1607577169, -- [1]
+			},
+			[808] = {
 				1607577169, -- [1]
 			},
 		},

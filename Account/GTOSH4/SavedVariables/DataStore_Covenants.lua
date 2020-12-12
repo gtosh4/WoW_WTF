@@ -7,8 +7,228 @@ DataStore_CovenantsDB = {
 		["Characters"] = {
 			["Default.Area 52.Toshpriest"] = {
 				["CovenantID"] = 2,
-				["lastUpdate"] = 1607679024,
+				["ConduitCollection"] = {
+					[77] = {
+						["conduitSpecName"] = "Discipline",
+						["conduitItemID"] = 181845,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 31,
+						["conduitID"] = 77,
+						["conduitRank"] = 4,
+					},
+					[66] = {
+						["conduitID"] = 66,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 181826,
+						["conduitSpecSetID"] = 166,
+						["conduitType"] = 2,
+						["conduitRank"] = 3,
+					},
+					[85] = {
+						["conduitID"] = 85,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181962,
+						["conduitRank"] = 1,
+					},
+					[84] = {
+						["conduitSpecName"] = "Holy",
+						["conduitItemID"] = 181944,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 32,
+						["conduitID"] = 84,
+						["conduitRank"] = 4,
+					},
+					[78] = {
+						["conduitSpecName"] = "Holy",
+						["conduitItemID"] = 181847,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 32,
+						["conduitID"] = 78,
+						["conduitRank"] = 4,
+					},
+					[82] = {
+						["conduitSpecName"] = "Holy",
+						["conduitItemID"] = 181942,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 32,
+						["conduitID"] = 82,
+						["conduitRank"] = 4,
+					},
+					[116] = {
+						["conduitSpecName"] = "Holy",
+						["conduitItemID"] = 182141,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 32,
+						["conduitID"] = 116,
+						["conduitRank"] = 2,
+					},
+					[75] = {
+						["conduitSpecName"] = "Discipline",
+						["conduitItemID"] = 181843,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 31,
+						["conduitID"] = 75,
+						["conduitRank"] = 4,
+					},
+					[69] = {
+						["conduitID"] = 69,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181837,
+						["conduitRank"] = 1,
+					},
+					[113] = {
+						["conduitSpecName"] = "Shadow",
+						["conduitItemID"] = 182138,
+						["conduitItemLevel"] = 158,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 33,
+						["conduitID"] = 113,
+						["conduitRank"] = 2,
+					},
+					[72] = {
+						["conduitID"] = 72,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 181840,
+						["conduitSpecSetID"] = 166,
+						["conduitType"] = 2,
+						["conduitRank"] = 3,
+					},
+					[76] = {
+						["conduitSpecName"] = "Discipline",
+						["conduitItemID"] = 181844,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 31,
+						["conduitID"] = 76,
+						["conduitRank"] = 4,
+					},
+					[105] = {
+						["conduitID"] = 105,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 182130,
+						["conduitSpecSetID"] = 166,
+						["conduitType"] = 1,
+						["conduitRank"] = 4,
+						["covenantID"] = 2,
+					},
+					[114] = {
+						["conduitSpecName"] = "Shadow",
+						["conduitItemID"] = 182139,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 33,
+						["conduitID"] = 114,
+						["conduitRank"] = 4,
+					},
+					[107] = {
+						["conduitSpecName"] = "Shadow",
+						["conduitItemID"] = 182131,
+						["conduitItemLevel"] = 184,
+						["conduitType"] = 1,
+						["conduitSpecSetID"] = 33,
+						["conduitID"] = 107,
+						["conduitRank"] = 4,
+					},
+				},
+				["Torghast"] = {
+					["skoldushall"] = {
+						["nextReset"] = 1608044399,
+						["name"] = "Skoldus Hall",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+				},
+				["lastUpdate"] = 1607762824,
 				["RenownLevel"] = 9,
+				["ConduitOriginPosition"] = {
+					["y"] = 0.4300369024276733,
+					["x"] = 0.2887356877326965,
+				},
+				["ConduitReinforceProgress"] = 8,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
@@ -93,7 +313,7 @@ DataStore_CovenantsDB = {
 								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 2,
+						["state"] = 1,
 						["talentID"] = 1255,
 						["description"] = "Channel Anima to the Crypt of the Forgotten, allowing access to a special treasure.",
 						["normalizedPosition"] = {
@@ -103,16 +323,15 @@ DataStore_CovenantsDB = {
 						["name"] = "Crypt of the Forgotten",
 					}, -- [6]
 				},
-				["ConduitReinforceProgress"] = 8,
-				["ConduitOriginPosition"] = {
-					["y"] = 0.4300369024276733,
-					["x"] = 0.2887356877326965,
+				["InstalledConduits"] = {
+					[1396] = 66,
+					[1395] = 75,
 				},
 				["AnimaCurrency"] = {
-					["count"] = 1469,
+					["count"] = 2442,
 					["maxDisplayable"] = 10000,
 				},
-				["ActiveSoulbindID"] = 9,
+				["ActiveSoulbindID"] = 8,
 			},
 		},
 	},
