@@ -52,13 +52,13 @@ VER 3 010000000000000D "seren" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Holy Word: Serenity
 END
 VER 3 0100000000000016 "shdw" "INV_MISC_QUESTIONMARK"
-#showtooltip Shadowfiend
-/petattack
+#showtooltip
 /cast Shadowfiend
+/cast [spec:1,talent:7/2] Spirit Shell
 END
-VER 3 0100000000000013 "silence" "INV_MISC_QUESTIONMARK"
-#showtooltip [spec:2]Greater Heal; [spec:3]Silence
-/cast [spec:2,@mouseover,noharm]Greater Heal; [spec:3,@focus,exists,harm][@target]Silence
+VER 3 0100000000000013 "silence/heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:2,@mouseover,noharm] Heal; [spec:3,@focus,exists,harm][@target]Silence
 END
 VER 3 0100000000000002 "SMend" "INV_Misc_QuestionMark"
 #showtooltip

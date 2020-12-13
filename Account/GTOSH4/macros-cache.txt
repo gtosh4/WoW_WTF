@@ -31,7 +31,7 @@ VER 3 000000000000002A "page2" "134154"
 END
 VER 3 0000000000000033 "PI" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@target,help][@player] Power Infusion
+/cast [@target,help][@focus,help][@player] Power Infusion
 END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone

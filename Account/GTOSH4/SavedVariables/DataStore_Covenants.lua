@@ -8,73 +8,83 @@ DataStore_CovenantsDB = {
 			["Default.Area 52.Toshpriest"] = {
 				["CovenantID"] = 2,
 				["ConduitCollection"] = {
-					[77] = {
-						["conduitSpecName"] = "Discipline",
-						["conduitItemID"] = 181845,
-						["conduitItemLevel"] = 184,
+					[114] = {
+						["conduitID"] = 114,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 31,
-						["conduitID"] = 77,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 182139,
+						["conduitSpecSetID"] = 33,
+						["conduitSpecName"] = "Shadow",
 						["conduitRank"] = 4,
+					},
+					[116] = {
+						["conduitID"] = 116,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 158,
+						["conduitItemID"] = 182141,
+						["conduitSpecSetID"] = 32,
+						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 2,
 					},
 					[66] = {
 						["conduitID"] = 66,
 						["conduitItemLevel"] = 171,
-						["conduitItemID"] = 181826,
-						["conduitSpecSetID"] = 166,
 						["conduitType"] = 2,
+						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181826,
 						["conduitRank"] = 3,
 					},
-					[85] = {
-						["conduitID"] = 85,
-						["conduitItemLevel"] = 145,
+					[72] = {
+						["conduitID"] = 72,
+						["conduitItemLevel"] = 171,
+						["conduitType"] = 2,
 						["conduitSpecSetID"] = 166,
-						["conduitItemID"] = 181962,
-						["conduitRank"] = 1,
+						["conduitItemID"] = 181840,
+						["conduitRank"] = 3,
 					},
-					[84] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 181944,
+					[105] = {
+						["conduitID"] = 105,
 						["conduitItemLevel"] = 184,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
-						["conduitID"] = 84,
+						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 182130,
+						["conduitRank"] = 4,
+						["covenantID"] = 2,
+					},
+					[76] = {
+						["conduitID"] = 76,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181844,
+						["conduitSpecSetID"] = 31,
+						["conduitSpecName"] = "Discipline",
 						["conduitRank"] = 4,
 					},
 					[78] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 181847,
-						["conduitItemLevel"] = 184,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
 						["conduitID"] = 78,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181847,
+						["conduitSpecSetID"] = 32,
+						["conduitSpecName"] = "Holy",
 						["conduitRank"] = 4,
 					},
-					[82] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 181942,
-						["conduitItemLevel"] = 184,
+					[113] = {
+						["conduitID"] = 113,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
-						["conduitID"] = 82,
-						["conduitRank"] = 4,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182138,
+						["conduitSpecSetID"] = 33,
+						["conduitSpecName"] = "Shadow",
+						["conduitRank"] = 5,
 					},
-					[116] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 182141,
-						["conduitItemLevel"] = 158,
+					[84] = {
+						["conduitID"] = 84,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
-						["conduitID"] = 116,
-						["conduitRank"] = 2,
-					},
-					[75] = {
-						["conduitSpecName"] = "Discipline",
-						["conduitItemID"] = 181843,
 						["conduitItemLevel"] = 184,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 31,
-						["conduitID"] = 75,
+						["conduitItemID"] = 181944,
+						["conduitSpecSetID"] = 32,
+						["conduitSpecName"] = "Holy",
 						["conduitRank"] = 4,
 					},
 					[69] = {
@@ -84,57 +94,64 @@ DataStore_CovenantsDB = {
 						["conduitItemID"] = 181837,
 						["conduitRank"] = 1,
 					},
-					[113] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182138,
-						["conduitItemLevel"] = 158,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 33,
-						["conduitID"] = 113,
-						["conduitRank"] = 2,
-					},
-					[72] = {
-						["conduitID"] = 72,
+					[71] = {
+						["conduitID"] = 71,
 						["conduitItemLevel"] = 171,
-						["conduitItemID"] = 181840,
-						["conduitSpecSetID"] = 166,
 						["conduitType"] = 2,
+						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181838,
 						["conduitRank"] = 3,
 					},
-					[76] = {
-						["conduitSpecName"] = "Discipline",
-						["conduitItemID"] = 181844,
-						["conduitItemLevel"] = 184,
+					[115] = {
+						["conduitID"] = 115,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 31,
-						["conduitID"] = 76,
-						["conduitRank"] = 4,
-					},
-					[105] = {
-						["conduitID"] = 105,
-						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 182130,
-						["conduitSpecSetID"] = 166,
-						["conduitType"] = 1,
-						["conduitRank"] = 4,
-						["covenantID"] = 2,
-					},
-					[114] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182139,
-						["conduitItemLevel"] = 184,
-						["conduitType"] = 1,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 182140,
 						["conduitSpecSetID"] = 33,
-						["conduitID"] = 114,
+						["conduitSpecName"] = "Shadow",
+						["conduitRank"] = 3,
+					},
+					[75] = {
+						["conduitID"] = 75,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181843,
+						["conduitSpecSetID"] = 31,
+						["conduitSpecName"] = "Discipline",
 						["conduitRank"] = 4,
+					},
+					[77] = {
+						["conduitID"] = 77,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181845,
+						["conduitSpecSetID"] = 31,
+						["conduitSpecName"] = "Discipline",
+						["conduitRank"] = 4,
+					},
+					[85] = {
+						["conduitID"] = 85,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181962,
+						["conduitRank"] = 1,
 					},
 					[107] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182131,
-						["conduitItemLevel"] = 184,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 33,
 						["conduitID"] = 107,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 182131,
+						["conduitSpecSetID"] = 33,
+						["conduitSpecName"] = "Shadow",
+						["conduitRank"] = 4,
+					},
+					[82] = {
+						["conduitID"] = 82,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181942,
+						["conduitSpecSetID"] = 32,
+						["conduitSpecName"] = "Holy",
 						["conduitRank"] = 4,
 					},
 				},
@@ -222,23 +239,33 @@ DataStore_CovenantsDB = {
 						},
 					},
 				},
-				["lastUpdate"] = 1607762824,
+				["lastUpdate"] = 1607848126,
 				["RenownLevel"] = 9,
+				["AnimaCurrency"] = {
+					["count"] = 2277,
+					["maxDisplayable"] = 10000,
+				},
+				["ConduitReinforceProgress"] = 9,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.4300369024276733,
 					["x"] = 0.2887356877326965,
 				},
-				["ConduitReinforceProgress"] = 8,
+				["InstalledConduits"] = {
+					[1395] = 75,
+					[1396] = 66,
+					[1547] = 115,
+					[1556] = 66,
+				},
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
-						["description"] = "Channel Anima to Pridefall Hamlet, unlocking new Daily Quests.",
 						["talentID"] = 1258,
+						["description"] = "Channel Anima to Pridefall Hamlet, unlocking new Daily Quests.",
 						["name"] = "Pridefall Hamlet",
 						["normalizedPosition"] = {
 							["y"] = 0.8116804361343384,
@@ -248,12 +275,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
-						["description"] = "Channel Anima to Dominance Keep, allowing you and your allies to challenge an elite foe.",
 						["talentID"] = 1259,
+						["description"] = "Channel Anima to Dominance Keep, allowing you and your allies to challenge an elite foe.",
 						["name"] = "Dominance Keep",
 						["normalizedPosition"] = {
 							["y"] = 0.1962138414382935,
@@ -263,12 +290,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
-						["description"] = "Channel Anima to the Shrouded Asylum, allowing access to mighty Venthyr enhancements.",
 						["talentID"] = 1260,
+						["description"] = "Channel Anima to the Shrouded Asylum, allowing access to mighty Venthyr enhancements.",
 						["name"] = "The Shrouded Asylum",
 						["normalizedPosition"] = {
 							["y"] = 0.5564113855361938,
@@ -278,12 +305,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
-						["description"] = "Channel Anima to the Court of the Harvesters, unlocking a new World Quest.",
 						["talentID"] = 1257,
+						["description"] = "Channel Anima to the Court of the Harvesters, unlocking a new World Quest.",
 						["name"] = "Court of the Harvesters",
 						["normalizedPosition"] = {
 							["y"] = 0.3470848202705383,
@@ -293,8 +320,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -309,8 +336,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -322,14 +349,6 @@ DataStore_CovenantsDB = {
 						},
 						["name"] = "Crypt of the Forgotten",
 					}, -- [6]
-				},
-				["InstalledConduits"] = {
-					[1396] = 66,
-					[1395] = 75,
-				},
-				["AnimaCurrency"] = {
-					["count"] = 2442,
-					["maxDisplayable"] = 10000,
 				},
 				["ActiveSoulbindID"] = 8,
 			},
