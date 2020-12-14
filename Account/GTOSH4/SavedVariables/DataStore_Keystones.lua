@@ -15,13 +15,13 @@ DataStore_KeystonesDB = {
 					["texture"] = 3759932,
 				},
 				["highestKeystoneThisWeek"] = {
-					["completionMilliseconds"] = 1905000,
+					["completionMilliseconds"] = 2791000,
 					["backgroundTexture"] = 0,
-					["name"] = "Theater of Pain",
-					["level"] = 10,
-					["texture"] = 3759934,
+					["name"] = "Plaguefall",
+					["level"] = 13,
+					["texture"] = 3759931,
 				},
-				["lastUpdate"] = 1607848130,
+				["lastUpdate"] = 1607942117,
 			},
 		},
 		["Options"] = {

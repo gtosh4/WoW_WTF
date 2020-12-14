@@ -7,7 +7,7 @@ DataStore_CovenantsDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["AnimaCurrency"] = {
-					["count"] = 1204,
+					["count"] = 2354,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
@@ -59,13 +59,14 @@ DataStore_CovenantsDB = {
 						["conduitItemID"] = 181373,
 						["conduitRank"] = 4,
 					},
-					[25] = {
-						["conduitID"] = 25,
-						["conduitItemLevel"] = 200,
+					[56] = {
+						["conduitID"] = 56,
 						["conduitType"] = 2,
-						["conduitSpecSetID"] = 164,
-						["conduitItemID"] = 181466,
-						["conduitRank"] = 5,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181740,
+						["conduitSpecSetID"] = 24,
+						["conduitSpecName"] = "Brewmaster",
+						["conduitRank"] = 4,
 					},
 					[16] = {
 						["conduitID"] = 16,
@@ -85,14 +86,14 @@ DataStore_CovenantsDB = {
 						["conduitSpecName"] = "Brewmaster",
 						["conduitRank"] = 2,
 					},
-					[44] = {
-						["conduitID"] = 44,
+					[59] = {
+						["conduitID"] = 59,
+						["conduitItemLevel"] = 145,
 						["conduitType"] = 1,
-						["conduitItemLevel"] = 158,
-						["conduitItemID"] = 181641,
-						["conduitSpecSetID"] = 25,
-						["conduitSpecName"] = "Mistweaver",
-						["conduitRank"] = 2,
+						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181759,
+						["conduitRank"] = 1,
+						["covenantID"] = 1,
 					},
 					[19] = {
 						["conduitID"] = 19,
@@ -130,27 +131,80 @@ DataStore_CovenantsDB = {
 						["conduitSpecName"] = "Brewmaster",
 						["conduitRank"] = 4,
 					},
-					[59] = {
-						["conduitID"] = 59,
-						["conduitItemLevel"] = 145,
+					[44] = {
+						["conduitID"] = 44,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 164,
-						["conduitItemID"] = 181759,
-						["conduitRank"] = 1,
-						["covenantID"] = 1,
+						["conduitItemLevel"] = 158,
+						["conduitItemID"] = 181641,
+						["conduitSpecSetID"] = 25,
+						["conduitSpecName"] = "Mistweaver",
+						["conduitRank"] = 2,
 					},
-					[56] = {
-						["conduitID"] = 56,
+					[25] = {
+						["conduitID"] = 25,
+						["conduitItemLevel"] = 200,
 						["conduitType"] = 2,
-						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181740,
-						["conduitSpecSetID"] = 24,
-						["conduitSpecName"] = "Brewmaster",
-						["conduitRank"] = 4,
+						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181466,
+						["conduitRank"] = 5,
 					},
 				},
-				["lastUpdate"] = 1607847929,
+				["Torghast"] = {
+					["skoldushall"] = {
+						["nextReset"] = 1608044399,
+						["name"] = "Skoldus Hall",
+						["levels"] = {
+							{
+								["status"] = 3,
+							}, -- [1]
+							{
+								["status"] = 3,
+							}, -- [2]
+							{
+								["status"] = 3,
+							}, -- [3]
+							{
+								["status"] = 3,
+							}, -- [4]
+							{
+								["status"] = 3,
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 95,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 135,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+				},
+				["lastUpdate"] = 1607942124,
 				["RenownLevel"] = 7,
+				["CovenantID"] = 1,
+				["ConduitReinforceProgress"] = 9,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
@@ -245,17 +299,15 @@ DataStore_CovenantsDB = {
 						},
 					}, -- [6]
 				},
-				["ConduitReinforceProgress"] = 8,
-				["ConduitOriginPosition"] = {
-					["y"] = 0.2016096115112305,
-					["x"] = 0.6407538652420044,
-				},
 				["InstalledConduits"] = {
 					[1305] = 57,
 					[1366] = 28,
 					[1312] = 15,
 				},
-				["CovenantID"] = 1,
+				["ConduitOriginPosition"] = {
+					["y"] = 0.2016096115112305,
+					["x"] = 0.6407538652420044,
+				},
 				["ActiveSoulbindID"] = 13,
 			},
 		},

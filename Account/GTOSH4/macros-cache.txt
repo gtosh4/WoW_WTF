@@ -44,6 +44,9 @@ END
 VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
 /pull 10
 END
+VER 3 0000000000000035 "rewards" "134331"
+/run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
 VER 3 0000000000000013 "sheathe" "Ability_Warrior_Challange."
 /run ToggleSheath()
 END
