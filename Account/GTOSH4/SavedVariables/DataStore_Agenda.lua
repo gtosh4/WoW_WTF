@@ -18,7 +18,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[412213419] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1608044399,
+						["resetTime"] = 1608044398,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -32,7 +32,7 @@ DataStore_AgendaDB = {
 					},
 					[412882152] = {
 						["name"] = "Castle Nathria Normal",
-						["resetTime"] = 1608044399,
+						["resetTime"] = 1608044398,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Sludgefist"] = true,
@@ -45,7 +45,7 @@ DataStore_AgendaDB = {
 					},
 					[412895867] = {
 						["name"] = "Castle Nathria Heroic",
-						["resetTime"] = 1608044399,
+						["resetTime"] = 1608044398,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -63,7 +63,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 1,
 					},
 				},
-				["lastUpdate"] = 1607942114,
+				["lastUpdate"] = 1608017332,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

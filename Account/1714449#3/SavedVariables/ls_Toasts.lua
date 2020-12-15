@@ -2,9 +2,9 @@
 LS_TOASTS_GLOBAL_CONFIG = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshmonk - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -15,8 +15,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["point"] = {
 						["rP"] = "TOP",
 						["p"] = "TOP",
-						["y"] = -4,
 						["x"] = 0,
+						["y"] = -4,
 					},
 				}, -- [1]
 			},
@@ -36,26 +36,26 @@ LS_TOASTS_GLOBAL_CONFIG = {
 						[1580] = 0,
 						[1767] = 0,
 						[1273] = 0,
-						[1803] = 0,
+						[1885] = 0,
 						[1275] = 0,
-						[1710] = 0,
+						[1803] = 0,
 						[1828] = 0,
-						[1716] = 0,
+						[1220] = 0,
 						[1155] = 0,
 						[1342] = 0,
 						[1560] = 0,
-						[1220] = 0,
-						[1755] = 0,
+						[1716] = 0,
+						[1166] = 0,
 						[1718] = 0,
 						[1719] = 0,
 						[1813] = 0,
 						[1721] = 0,
 						[1226] = 0,
 						[1533] = 0,
-						[1166] = 0,
+						[1755] = 0,
 						[1508] = 0,
 						[1602] = 0,
-						[1885] = 0,
+						[1710] = 0,
 					},
 				},
 				["loot_special"] = {
@@ -63,8 +63,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
 					["threshold"] = 1,
+					["ilvl"] = true,
 				},
 				["recipe"] = {
 					["anchor"] = 1,
@@ -83,9 +83,9 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
-					["quest"] = false,
 					["threshold"] = 1,
+					["quest"] = false,
+					["ilvl"] = true,
 				},
 				["runecarving"] = {
 					["anchor"] = 1,
@@ -135,11 +135,12 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["garrison_7_0"] = {
-					["anchor"] = 1,
+				["store"] = {
 					["enabled"] = true,
-					["dnd"] = true,
+					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["left_click"] = false,
 				},
 				["loot_gold"] = {
 					["enabled"] = false,
@@ -149,12 +150,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["track_loss"] = false,
 					["threshold"] = 1,
 				},
-				["store"] = {
-					["enabled"] = true,
-					["dnd"] = false,
-					["sfx"] = true,
+				["garrison_7_0"] = {
 					["anchor"] = 1,
-					["left_click"] = false,
+					["enabled"] = true,
+					["dnd"] = true,
+					["sfx"] = true,
 				},
 				["transmog"] = {
 					["enabled"] = true,

@@ -4,12 +4,12 @@ AstralKeys = {
 		["btag"] = "Rathux#11683",
 		["weekly_best"] = 15,
 		["class"] = "DEATHKNIGHT",
-		["key_level"] = 13,
+		["key_level"] = 14,
 		["unit"] = "Rathux-Area52",
-		["dungeon_id"] = 378,
+		["dungeon_id"] = 377,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 4,
+		["time_stamp"] = 579204,
 		["source"] = "friend",
 	}, -- [1]
 	{
@@ -21,19 +21,19 @@ AstralKeys = {
 		["dungeon_id"] = 376,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 5,
 		["source"] = "friend",
 	}, -- [2]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 12,
+		["weekly_best"] = 15,
 		["class"] = "HUNTER",
 		["key_level"] = 10,
 		["unit"] = "Thunderrz-Area52",
 		["dungeon_id"] = 379,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 481573,
+		["time_stamp"] = 561902,
 	}, -- [3]
 	{
 		["source"] = "guild",
@@ -51,24 +51,24 @@ AstralKeys = {
 		["btag"] = "Emosong#1897",
 		["weekly_best"] = 15,
 		["class"] = "DRUID",
-		["key_level"] = 13,
+		["key_level"] = 11,
 		["unit"] = "Weedsong-Area52",
-		["dungeon_id"] = 380,
+		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 5,
 		["source"] = "friend",
 	}, -- [5]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 13,
+		["weekly_best"] = 14,
 		["class"] = "PRIEST",
 		["key_level"] = 2,
 		["unit"] = "Toshpriest-Area52",
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 502525,
+		["time_stamp"] = 577736,
 	}, -- [6]
 	{
 		["btag"] = "YukioX#1520",
@@ -79,16 +79,16 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 5,
 		["source"] = "friend",
 	}, -- [7]
 	{
 		["btag"] = "Evbrq#1749",
-		["weekly_best"] = 0,
+		["weekly_best"] = 7,
 		["class"] = "PALADIN",
-		["key_level"] = 7,
+		["key_level"] = 9,
 		["unit"] = "Sherbe-Kil'jaeden",
-		["dungeon_id"] = 375,
+		["dungeon_id"] = 377,
 		["week"] = 177,
 		["faction"] = "1",
 		["time_stamp"] = 0,
@@ -96,14 +96,14 @@ AstralKeys = {
 	}, -- [8]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 12,
+		["weekly_best"] = 14,
 		["class"] = "MAGE",
 		["key_level"] = 7,
 		["unit"] = "Arnbjorn-Area52",
 		["dungeon_id"] = 381,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 487067,
+		["time_stamp"] = 577014,
 	}, -- [9]
 	{
 		["btag"] = "Thanerial#1172",
@@ -126,19 +126,19 @@ AstralKeys = {
 		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 580115,
 		["source"] = "friend",
 	}, -- [11]
 	{
 		["btag"] = "Thanerial#1172",
 		["weekly_best"] = 9,
 		["class"] = "MAGE",
-		["key_level"] = 9,
+		["key_level"] = 8,
 		["unit"] = "Authentic-Kil'jaeden",
-		["dungeon_id"] = 379,
+		["dungeon_id"] = 381,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 580024,
 		["source"] = "friend",
 	}, -- [12]
 	{
@@ -155,7 +155,7 @@ AstralKeys = {
 	}, -- [13]
 	{
 		["btag"] = "Sci#11555",
-		["weekly_best"] = 9,
+		["weekly_best"] = 10,
 		["class"] = "SHAMAN",
 		["key_level"] = 2,
 		["unit"] = "Scitron-Kil'jaeden",
@@ -167,11 +167,11 @@ AstralKeys = {
 	}, -- [14]
 	{
 		["btag"] = "Emosong#1897",
-		["weekly_best"] = 10,
+		["weekly_best"] = 11,
 		["class"] = "ROGUE",
-		["key_level"] = 10,
+		["key_level"] = 12,
 		["unit"] = "Emosong-Kil'jaeden",
-		["dungeon_id"] = 380,
+		["dungeon_id"] = 375,
 		["week"] = 177,
 		["faction"] = "1",
 		["time_stamp"] = 0,
@@ -191,25 +191,25 @@ AstralKeys = {
 	}, -- [16]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 4,
+		["weekly_best"] = 5,
 		["class"] = "PRIEST",
 		["key_level"] = 6,
 		["unit"] = "Alyasta-Area52",
 		["dungeon_id"] = 378,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 486465,
+		["time_stamp"] = 568151,
 	}, -- [17]
 	{
 		["btag"] = "boochan#1194",
 		["weekly_best"] = 9,
 		["class"] = "DRUID",
-		["key_level"] = 6,
+		["key_level"] = 9,
 		["unit"] = "Ngow-Kil'jaeden",
-		["dungeon_id"] = 375,
+		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 580102,
 		["source"] = "friend",
 	}, -- [18]
 	{
@@ -233,18 +233,18 @@ AstralKeys = {
 		["dungeon_id"] = 382,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 462188,
+		["time_stamp"] = 570799,
 	}, -- [20]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 10,
+		["weekly_best"] = 11,
 		["class"] = "SHAMAN",
 		["key_level"] = 12,
 		["unit"] = "Cobber-Area52",
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = 1,
-		["time_stamp"] = 481403,
+		["time_stamp"] = 561339,
 	}, -- [21]
 	{
 		["btag"] = "Blueflame213#1513",
@@ -255,7 +255,7 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 4,
+		["time_stamp"] = 5,
 		["source"] = "friend",
 	}, -- [22]
 	{
@@ -272,7 +272,7 @@ AstralKeys = {
 	}, -- [23]
 	{
 		["btag"] = "Delpi#3784",
-		["weekly_best"] = 9,
+		["weekly_best"] = 10,
 		["class"] = "MAGE",
 		["key_level"] = 11,
 		["unit"] = "Delpi-Kil'jaeden",
@@ -303,7 +303,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 4,
+		["time_stamp"] = 549124,
 		["source"] = "friend",
 	}, -- [26]
 	{
@@ -315,13 +315,13 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 177,
 		["faction"] = "1",
-		["time_stamp"] = 488936,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [27]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 13,
+		["weekly_best"] = 14,
 		["class"] = "PRIEST",
 		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
@@ -338,10 +338,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["party"] = true,
 			["raid"] = false,
-			["guild"] = false,
-			["no_key"] = false,
+			["party"] = true,
+			["no_key"] = true,
+			["guild"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -449,9 +449,9 @@ AstralLists = {
 			["Illsong-Area52"] = "Emosong#1897",
 			["Delpi-Area52"] = true,
 			["Cobber-Area52"] = true,
-			["Woesong-Area52"] = "Emosong#1897",
-			["Race-Area52"] = true,
 			["Scitron-Area52"] = "Sci#11555",
+			["Race-Area52"] = true,
+			["Woesong-Area52"] = "Emosong#1897",
 			["Weedsong-Area52"] = "Emosong#1897",
 			["Annbjørn-Area52"] = true,
 			["Toshpriest-Area52"] = true,

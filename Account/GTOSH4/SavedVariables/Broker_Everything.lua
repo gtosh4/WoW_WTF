@@ -60,6 +60,12 @@ Broker_Everything_CharacterDB = {
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["level"] = 60,
+		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -84,12 +90,6 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
-		},
-		["level"] = 60,
-		["gold"] = 10753845943,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
 		},
 	},
 	["Toshtoon-Barthilas"] = {
@@ -181,8 +181,7 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -219,13 +218,14 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
-			["Equipment"] = {
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},

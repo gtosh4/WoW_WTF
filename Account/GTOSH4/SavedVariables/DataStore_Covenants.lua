@@ -213,14 +213,94 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
+					["coldheartinterstitia"] = {
+						["nextReset"] = 1608044399,
+						["name"] = "Coldheart Interstitia",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
 				},
-				["lastUpdate"] = 1607942112,
+				["lastUpdate"] = 1608017332,
 				["RenownLevel"] = 9,
-				["AnimaCurrency"] = {
-					["count"] = 3185,
-					["maxDisplayable"] = 10000,
+				["ConduitOriginPosition"] = {
+					["y"] = 0.4300369024276733,
+					["x"] = 0.2887356877326965,
 				},
-				["ConduitReinforceProgress"] = 10,
+				["ConduitReinforceProgress"] = 1,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
@@ -289,7 +369,7 @@ DataStore_CovenantsDB = {
 								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 1,
+						["state"] = 2,
 						["talentID"] = 1256,
 						["description"] = "Channel Anima to Wanecrypt Hill, allowing you to fight an enemy champion.",
 						["normalizedPosition"] = {
@@ -305,7 +385,7 @@ DataStore_CovenantsDB = {
 								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 1,
+						["state"] = 3,
 						["talentID"] = 1255,
 						["description"] = "Channel Anima to the Crypt of the Forgotten, allowing access to a special treasure.",
 						["normalizedPosition"] = {
@@ -321,12 +401,9 @@ DataStore_CovenantsDB = {
 					[1547] = 115,
 					[1556] = 66,
 				},
-				["ConduitOriginPosition"] = {
-					["y"] = 0.4300369024276733,
-					["x"] = 0.2887356877326965,
-				},
-				["TalentUnlockWorldQuest"] = {
-					[1257] = 60601,
+				["AnimaCurrency"] = {
+					["count"] = 3045,
+					["maxDisplayable"] = 10000,
 				},
 				["ActiveSoulbindID"] = 9,
 			},

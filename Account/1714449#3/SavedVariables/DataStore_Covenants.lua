@@ -7,7 +7,7 @@ DataStore_CovenantsDB = {
 		["Characters"] = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["AnimaCurrency"] = {
-					["count"] = 2354,
+					["count"] = 2191,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
@@ -59,14 +59,13 @@ DataStore_CovenantsDB = {
 						["conduitItemID"] = 181373,
 						["conduitRank"] = 4,
 					},
-					[56] = {
-						["conduitID"] = 56,
+					[25] = {
+						["conduitID"] = 25,
+						["conduitItemLevel"] = 200,
 						["conduitType"] = 2,
-						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181740,
-						["conduitSpecSetID"] = 24,
-						["conduitSpecName"] = "Brewmaster",
-						["conduitRank"] = 4,
+						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181466,
+						["conduitRank"] = 5,
 					},
 					[16] = {
 						["conduitID"] = 16,
@@ -80,20 +79,20 @@ DataStore_CovenantsDB = {
 					[47] = {
 						["conduitID"] = 47,
 						["conduitType"] = 2,
-						["conduitItemLevel"] = 158,
+						["conduitItemLevel"] = 171,
 						["conduitItemID"] = 181705,
 						["conduitSpecSetID"] = 24,
 						["conduitSpecName"] = "Brewmaster",
-						["conduitRank"] = 2,
+						["conduitRank"] = 3,
 					},
-					[59] = {
-						["conduitID"] = 59,
-						["conduitItemLevel"] = 145,
+					[44] = {
+						["conduitID"] = 44,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 164,
-						["conduitItemID"] = 181759,
-						["conduitRank"] = 1,
-						["covenantID"] = 1,
+						["conduitItemLevel"] = 158,
+						["conduitItemID"] = 181641,
+						["conduitSpecSetID"] = 25,
+						["conduitSpecName"] = "Mistweaver",
+						["conduitRank"] = 2,
 					},
 					[19] = {
 						["conduitID"] = 19,
@@ -131,22 +130,23 @@ DataStore_CovenantsDB = {
 						["conduitSpecName"] = "Brewmaster",
 						["conduitRank"] = 4,
 					},
-					[44] = {
-						["conduitID"] = 44,
+					[59] = {
+						["conduitID"] = 59,
+						["conduitItemLevel"] = 145,
 						["conduitType"] = 1,
-						["conduitItemLevel"] = 158,
-						["conduitItemID"] = 181641,
-						["conduitSpecSetID"] = 25,
-						["conduitSpecName"] = "Mistweaver",
-						["conduitRank"] = 2,
-					},
-					[25] = {
-						["conduitID"] = 25,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 2,
 						["conduitSpecSetID"] = 164,
-						["conduitItemID"] = 181466,
-						["conduitRank"] = 5,
+						["conduitItemID"] = 181759,
+						["conduitRank"] = 1,
+						["covenantID"] = 1,
+					},
+					[56] = {
+						["conduitID"] = 56,
+						["conduitType"] = 2,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181740,
+						["conduitSpecSetID"] = 24,
+						["conduitSpecName"] = "Brewmaster",
+						["conduitRank"] = 4,
 					},
 				},
 				["Torghast"] = {
@@ -201,10 +201,12 @@ DataStore_CovenantsDB = {
 						},
 					},
 				},
-				["lastUpdate"] = 1607942124,
-				["RenownLevel"] = 7,
-				["CovenantID"] = 1,
-				["ConduitReinforceProgress"] = 9,
+				["lastUpdate"] = 1608020616,
+				["RenownLevel"] = 8,
+				["ConduitOriginPosition"] = {
+					["y"] = 0.2016096115112305,
+					["x"] = 0.6407538652420044,
+				},
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
@@ -213,7 +215,7 @@ DataStore_CovenantsDB = {
 								["currencyID"] = 1813,
 							}, -- [1]
 						},
-						["state"] = 1,
+						["state"] = 3,
 						["talentID"] = 1237,
 						["description"] = "Channel Anima to Purity's Pinnacle, allowing access to a special treasure.",
 						["normalizedPosition"] = {
@@ -304,10 +306,7 @@ DataStore_CovenantsDB = {
 					[1366] = 28,
 					[1312] = 15,
 				},
-				["ConduitOriginPosition"] = {
-					["y"] = 0.2016096115112305,
-					["x"] = 0.6407538652420044,
-				},
+				["CovenantID"] = 1,
 				["ActiveSoulbindID"] = 13,
 			},
 		},
