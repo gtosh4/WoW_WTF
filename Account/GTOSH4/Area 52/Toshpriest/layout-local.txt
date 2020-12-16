@@ -118,10 +118,3 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: PlaterOptionsPanelFrame
-FrameLevel: 1
-Anchor: TOP
-X: 317
-Y: -108
-W: 1100
-H: 650

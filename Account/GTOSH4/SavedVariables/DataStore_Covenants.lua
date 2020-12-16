@@ -11,11 +11,11 @@ DataStore_CovenantsDB = {
 					[114] = {
 						["conduitSpecName"] = "Shadow",
 						["conduitItemID"] = 182139,
-						["conduitItemLevel"] = 184,
+						["conduitItemLevel"] = 200,
 						["conduitType"] = 1,
 						["conduitSpecSetID"] = 33,
 						["conduitID"] = 114,
-						["conduitRank"] = 4,
+						["conduitRank"] = 5,
 					},
 					[116] = {
 						["conduitSpecName"] = "Holy",
@@ -87,13 +87,13 @@ DataStore_CovenantsDB = {
 						["conduitID"] = 84,
 						["conduitRank"] = 4,
 					},
-					[82] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 181942,
+					[115] = {
+						["conduitSpecName"] = "Shadow",
+						["conduitItemID"] = 182140,
 						["conduitItemLevel"] = 200,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
-						["conduitID"] = 82,
+						["conduitSpecSetID"] = 33,
+						["conduitID"] = 115,
 						["conduitRank"] = 5,
 					},
 					[69] = {
@@ -121,11 +121,11 @@ DataStore_CovenantsDB = {
 					[75] = {
 						["conduitSpecName"] = "Discipline",
 						["conduitItemID"] = 181843,
-						["conduitItemLevel"] = 184,
+						["conduitItemLevel"] = 200,
 						["conduitType"] = 1,
 						["conduitSpecSetID"] = 31,
 						["conduitID"] = 75,
-						["conduitRank"] = 4,
+						["conduitRank"] = 5,
 					},
 					[77] = {
 						["conduitSpecName"] = "Discipline",
@@ -136,6 +136,13 @@ DataStore_CovenantsDB = {
 						["conduitID"] = 77,
 						["conduitRank"] = 4,
 					},
+					[85] = {
+						["conduitID"] = 85,
+						["conduitItemLevel"] = 145,
+						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181962,
+						["conduitRank"] = 1,
+					},
 					[107] = {
 						["conduitSpecName"] = "Shadow",
 						["conduitItemID"] = 182131,
@@ -145,74 +152,17 @@ DataStore_CovenantsDB = {
 						["conduitID"] = 107,
 						["conduitRank"] = 5,
 					},
-					[85] = {
-						["conduitID"] = 85,
-						["conduitItemLevel"] = 145,
-						["conduitSpecSetID"] = 166,
-						["conduitItemID"] = 181962,
-						["conduitRank"] = 1,
-					},
-					[115] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182140,
-						["conduitItemLevel"] = 171,
+					[82] = {
+						["conduitSpecName"] = "Holy",
+						["conduitItemID"] = 181942,
+						["conduitItemLevel"] = 200,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 33,
-						["conduitID"] = 115,
-						["conduitRank"] = 3,
+						["conduitSpecSetID"] = 32,
+						["conduitID"] = 82,
+						["conduitRank"] = 5,
 					},
 				},
 				["Torghast"] = {
-					["skoldushall"] = {
-						["nextReset"] = 1608044399,
-						["name"] = "Skoldus Hall",
-						["levels"] = {
-							{
-								["status"] = 3,
-							}, -- [1]
-							{
-								["status"] = 3,
-							}, -- [2]
-							{
-								["status"] = 3,
-							}, -- [3]
-							{
-								["status"] = 3,
-							}, -- [4]
-							{
-								["status"] = 3,
-							}, -- [5]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 50,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [6]
-							{
-								["status"] = 2,
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 95,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [7]
-							{
-								["status"] = 2,
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 135,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [8]
-						},
-					},
 					["coldheartinterstitia"] = {
 						["nextReset"] = 1608044399,
 						["name"] = "Coldheart Interstitia",
@@ -293,14 +243,153 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
+					["skoldushall"] = {
+						["nextReset"] = 1608044399,
+						["name"] = "Skoldus Hall",
+						["levels"] = {
+							{
+								["status"] = 3,
+							}, -- [1]
+							{
+								["status"] = 3,
+							}, -- [2]
+							{
+								["status"] = 3,
+							}, -- [3]
+							{
+								["status"] = 3,
+							}, -- [4]
+							{
+								["status"] = 3,
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 95,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 135,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+					["fracturechambers"] = {
+						["nextReset"] = 1608649199,
+						["name"] = "Fracture Chambers",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
 				},
-				["lastUpdate"] = 1608017332,
-				["RenownLevel"] = 9,
+				["lastUpdate"] = 1608108078,
+				["RenownLevel"] = 12,
+				["AnimaCurrency"] = {
+					["count"] = 6603,
+					["maxDisplayable"] = 10000,
+				},
+				["ConduitReinforceProgress"] = 1,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.4300369024276733,
 					["x"] = 0.2887356877326965,
 				},
-				["ConduitReinforceProgress"] = 1,
+				["InstalledConduits"] = {
+					[1395] = 75,
+					[1396] = 66,
+					[1547] = 115,
+					[1556] = 66,
+				},
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
@@ -369,7 +458,7 @@ DataStore_CovenantsDB = {
 								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 2,
+						["state"] = 1,
 						["talentID"] = 1256,
 						["description"] = "Channel Anima to Wanecrypt Hill, allowing you to fight an enemy champion.",
 						["normalizedPosition"] = {
@@ -394,16 +483,6 @@ DataStore_CovenantsDB = {
 						},
 						["name"] = "Crypt of the Forgotten",
 					}, -- [6]
-				},
-				["InstalledConduits"] = {
-					[1395] = 75,
-					[1396] = 66,
-					[1547] = 115,
-					[1556] = 66,
-				},
-				["AnimaCurrency"] = {
-					["count"] = 3045,
-					["maxDisplayable"] = 10000,
 				},
 				["ActiveSoulbindID"] = 9,
 			},
