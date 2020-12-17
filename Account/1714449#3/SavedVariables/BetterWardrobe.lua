@@ -2,9 +2,9 @@
 BetterWardrobe_Options = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshmonk - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -16,9 +16,9 @@ BetterWardrobe_Options = {
 BetterWardrobe_CharacterData = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
@@ -32,19 +32,26 @@ BetterWardrobe_CharacterData = {
 	},
 }
 BetterWardrobe_SavedSetData = {
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
+	},
 	["global"] = {
 		["sets"] = {
 			["Toshmonk - Kil'jaeden"] = {
 				{
-					["isClass"] = true,
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1360261,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -67,23 +74,23 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["name"] = "chiji",
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 1360261,
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1941312,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						98476, -- [1]
 						0, -- [2]
@@ -106,26 +113,25 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["name"] = "pirate",
-					["setID"] = 5002,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5002,
+					["uiOrder"] = 200,
+					["icon"] = 1941312,
+					["isClass"] = true,
 				}, -- [2]
 			},
 			["Toshpriest - Area 52"] = {
 				{
-					["name"] = "something",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 2059677,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						96552, -- [1]
 						0, -- [2]
@@ -148,23 +154,23 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 2059677,
+					["name"] = "something",
 				}, -- [1]
 				{
-					["name"] = "something2",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1091093,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						73196, -- [1]
 						0, -- [2]
@@ -187,25 +193,25 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5001,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5001,
+					["uiOrder"] = 200,
+					["icon"] = 1091093,
+					["name"] = "something2",
 				}, -- [2]
 			},
 			["Toshaman - Area 52"] = {
 				{
-					["name"] = "deathspeaker",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1690123,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						97062, -- [1]
 						0, -- [2]
@@ -228,23 +234,23 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 1690123,
+					["name"] = "deathspeaker",
 				}, -- [1]
 				{
-					["name"] = "cool i guess",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 133694,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						66666, -- [1]
 						0, -- [2]
@@ -267,23 +273,23 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5001,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5001,
+					["uiOrder"] = 200,
+					["icon"] = 133694,
+					["name"] = "cool i guess",
 				}, -- [2]
 				{
-					["name"] = "cool2",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 2324583,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 300,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						101894, -- [1]
 						0, -- [2]
@@ -306,20 +312,14 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5002,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5002,
+					["uiOrder"] = 300,
+					["icon"] = 2324583,
+					["name"] = "cool2",
 				}, -- [3]
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-		["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
 	},
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
@@ -329,9 +329,9 @@ BetterWardrobe_SavedSetData = {
 BetterWardrobe_SubstituteItemData = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshmonk - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -342,9 +342,9 @@ BetterWardrobe_ListData = {
 	["favoritesDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 		},
 		["profiles"] = {
 			["Toshmonk - Kil'jaeden"] = {
@@ -358,9 +358,9 @@ BetterWardrobe_ListData = {
 	["collectionListDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 		},
 		["profiles"] = {
 			["Toshpriest - Area 52"] = {
@@ -370,20 +370,21 @@ BetterWardrobe_ListData = {
 					}, -- [1]
 				},
 			},
-			["Toshmonk - Area 52"] = {
+			["Toshaman - Area 52"] = {
 			},
 			["Toshmonk - Kil'jaeden"] = {
 			},
-			["Toshaman - Area 52"] = {
+			["Toshmonk - Area 52"] = {
 			},
 		},
 	},
+	["lastUpdte"] = 1,
 	["OutfitDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 		},
 		["char"] = {
 			["Toshmonk - Kil'jaeden"] = {
@@ -408,13 +409,12 @@ BetterWardrobe_ListData = {
 			},
 		},
 	},
-	["lastUpdte"] = 1,
 	["HiddenAppearanceDB"] = {
 		["profileKeys"] = {
 			["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
-			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
 			["Toshaman - Area 52"] = "Toshaman - Area 52",
+			["Toshmonk - Kil'jaeden"] = "Toshmonk - Kil'jaeden",
+			["Toshmonk - Area 52"] = "Toshmonk - Area 52",
 		},
 		["profiles"] = {
 			["Toshmonk - Kil'jaeden"] = {

@@ -140,6 +140,18 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "shell",
 					["texture"] = 538565,
 				}, -- [3]
+				{
+					1, -- [1]
+					1, -- [2]
+					3, -- [3]
+					1, -- [4]
+					1, -- [5]
+					1, -- [6]
+					1, -- [7]
+					["texture"] = 135973,
+					["name"] = "pvp",
+					["tt"] = "talents",
+				}, -- [4]
 			}, -- [1]
 			{
 				{

@@ -1633,13 +1633,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Fûzylock",
 				["class"] = "WARLOCK",
 			},
-			["Steall"] = {
+			["Yellowy"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Steall",
-				["class"] = "ROGUE",
+				["name"] = "Yellowy",
+				["class"] = "PRIEST",
 			},
 			["Warlockmania"] = {
 				["overall"] = {
@@ -1657,12 +1657,12 @@ DeathGraphsDBDeaths = {
 				["name"] = "Moonrite",
 				["class"] = "SHAMAN",
 			},
-			["Decision"] = {
+			["Steall"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Decision",
+				["name"] = "Steall",
 				["class"] = "ROGUE",
 			},
 			["Slurpinho"] = {
@@ -1697,13 +1697,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Toshpriest",
 				["class"] = "PRIEST",
 			},
-			["Yellowy"] = {
+			["Decision"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Yellowy",
-				["class"] = "PRIEST",
+				["name"] = "Decision",
+				["class"] = "ROGUE",
 			},
 			["Jojo"] = {
 				["overall"] = {
@@ -13413,9 +13413,8 @@ DeathGraphsDBGraph = {
 				1607842131, -- [1]
 				1607844856, -- [2]
 			},
-			[102] = {
-				1607845218, -- [1]
-				1607845642, -- [2]
+			[277] = {
+				1607846980, -- [1]
 			},
 			[281] = {
 				1607743685, -- [1]
@@ -13452,11 +13451,12 @@ DeathGraphsDBGraph = {
 			[98] = {
 				1607844856, -- [1]
 			},
+			[102] = {
+				1607845218, -- [1]
+				1607845642, -- [2]
+			},
 			[203] = {
 				1607843072, -- [1]
-			},
-			[277] = {
-				1607846980, -- [1]
 			},
 			[229] = {
 				1607843072, -- [1]

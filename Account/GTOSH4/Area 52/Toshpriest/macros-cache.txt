@@ -3,8 +3,8 @@ VER 3 010000000000000F "binding" "INV_Misc_QuestionMark"
 /cast [@mouseover,noharm] Circle of Healing
 END
 VER 3 0100000000000004 "feather" "INV_Misc_QuestionMark"
-#showtooltip [spec:3,talent:2/1] Power Word: Shield; Angelic Feather
-/cast [@player,spec:3,talent:2/1] Power Word: Shield; [@player] Angelic Feather
+#showtooltip
+/cast [@player,talent:2/1] Power Word: Shield; [@player] Angelic Feather
 /stopspelltarget
 END
 VER 3 0100000000000015 "fort" "INV_MISC_QUESTIONMARK"
@@ -37,7 +37,7 @@ VER 3 0100000000000003 "pwr" "INV_Misc_QuestionMark"
 END
 VER 3 0100000000000001 "PWS" "INV_Misc_QuestionMark"
 #showtooltip
-/use [spec:1,@mouseover,noharm][spec:1,@targte,noharm][spec:3,@mouseover,noharm]Power Word: Shield;[spec:2,@mouseover,noharm]Renew
+/use [@mouseover,noharm]Power Word: Shield
 END
 VER 3 010000000000000B "salv" "INV_Misc_QuestionMark"
 #showtooltip
