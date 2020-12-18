@@ -21,18 +21,18 @@ DataStore_KeystonesDB = {
 					}, -- [1]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 378,
-						["level"] = 7,
+						["mapChallengeModeID"] = 353,
+						["level"] = 16,
 					}, -- [2]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 353,
+						["level"] = 14,
+					}, -- [3]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 375,
 						["level"] = 5,
-					}, -- [3]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 382,
-						["level"] = 2,
 					}, -- [4]
 					{
 						["completed"] = true,
@@ -46,56 +46,56 @@ DataStore_KeystonesDB = {
 					}, -- [6]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 381,
-						["level"] = 8,
+						["mapChallengeModeID"] = 382,
+						["level"] = 5,
 					}, -- [7]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 376,
-						["level"] = 10,
-					}, -- [8]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 375,
 						["level"] = 8,
+					}, -- [8]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 381,
+						["level"] = 8,
 					}, -- [9]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 248,
+						["mapChallengeModeID"] = 376,
 						["level"] = 10,
 					}, -- [10]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 353,
+						["mapChallengeModeID"] = 245,
 						["level"] = 14,
 					}, -- [11]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 251,
-						["level"] = 17,
+						["mapChallengeModeID"] = 248,
+						["level"] = 10,
 					}, -- [12]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 245,
-						["level"] = 16,
+						["mapChallengeModeID"] = 378,
+						["level"] = 7,
 					}, -- [13]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 353,
-						["level"] = 16,
+						["mapChallengeModeID"] = 382,
+						["level"] = 2,
 					}, -- [14]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 382,
-						["level"] = 5,
+						["mapChallengeModeID"] = 245,
+						["level"] = 16,
 					}, -- [15]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 245,
-						["level"] = 14,
+						["mapChallengeModeID"] = 251,
+						["level"] = 17,
 					}, -- [16]
 				},
-				["lastUpdate"] = 1608194947,
+				["lastUpdate"] = 1608272683,
 				["WeeklyActivities"] = {
 					[25] = {
 						["exampleRewards"] = {
@@ -116,23 +116,23 @@ DataStore_KeystonesDB = {
 						},
 					},
 					[29] = {
-						["progress"] = 7,
+						["progress"] = 8,
 						["level"] = 15,
 						["exampleRewards"] = {
-							"|cffffffff|Hitem:182976::::::::60:270::5:5:7188:6652:7193:1485:6646::::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:182976::::::::60:270::6:5:7187:6652:7193:1498:6646::::|h[]|h|r", -- [2]
+							"|cffa335ee|Hitem:182976::::::::60:270::5:5:7188:6652:7193:1485:6646::::|h[Double-Chained Utility Belt]|h|r", -- [1]
+							"|cffa335ee|Hitem:182976::::::::60:270::6:5:7187:6652:7193:1498:6646::::|h[Double-Chained Utility Belt]|h|r", -- [2]
 						},
 					},
 					[30] = {
-						["progress"] = 7,
+						["progress"] = 8,
 						["level"] = 14,
 						["exampleRewards"] = {
-							"|cffffffff|Hitem:182976::::::::60:270::3:5:7189:6652:7193:1472:6646::::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:182976::::::::60:270::5:5:7188:6652:7193:1485:6646::::|h[]|h|r", -- [2]
+							"|cffa335ee|Hitem:182976::::::::60:270::3:5:7189:6652:7193:1472:6646::::|h[Double-Chained Utility Belt]|h|r", -- [1]
+							"|cffa335ee|Hitem:182976::::::::60:270::5:5:7188:6652:7193:1485:6646::::|h[Double-Chained Utility Belt]|h|r", -- [2]
 						},
 					},
 					[31] = {
-						["progress"] = 7,
+						["progress"] = 8,
 						["exampleRewards"] = {
 							"", -- [1]
 							"", -- [2]

@@ -14,7 +14,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[408043260] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Oryphrion"] = true,
@@ -28,7 +28,7 @@ DataStore_AgendaDB = {
 					},
 					[408147379] = {
 						["name"] = "Castle Nathria Heroic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -36,14 +36,15 @@ DataStore_AgendaDB = {
 							["Artificer Xy'mox"] = true,
 							["Shriekwing"] = true,
 							["Hungering Destroyer"] = true,
+							["Sun King's Salvation"] = true,
 						},
-						["progress"] = 5,
+						["progress"] = 6,
 						["extended"] = 0,
 						["isRaid"] = 1,
 					},
 					[408046295] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -57,7 +58,7 @@ DataStore_AgendaDB = {
 					},
 					[408017618] = {
 						["name"] = "Castle Nathria Normal",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Stone Legion Generals"] = true,
@@ -69,7 +70,7 @@ DataStore_AgendaDB = {
 					},
 					[408051331] = {
 						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 3,
 						["bosses"] = {
 							["Mistcaller"] = true,
@@ -82,7 +83,7 @@ DataStore_AgendaDB = {
 					},
 					[408052093] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -95,7 +96,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1608194906,
+				["lastUpdate"] = 1608272655,
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["lastUpdate"] = 1606295252,

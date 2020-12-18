@@ -29,10 +29,10 @@ AstralKeys = {
 		["class"] = "PRIEST",
 		["key_level"] = 13,
 		["unit"] = "Yellowy-Area52",
-		["dungeon_id"] = 378,
+		["dungeon_id"] = 377,
 		["week"] = 178,
 		["faction"] = 1,
-		["time_stamp"] = 6,
+		["time_stamp"] = 213556,
 		["btag"] = "Yellowy#1796",
 	}, -- [3]
 	{
@@ -44,7 +44,7 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 232004,
 		["source"] = "friend",
 	}, -- [4]
 	{
@@ -56,18 +56,18 @@ AstralKeys = {
 		["dungeon_id"] = 379,
 		["week"] = 178,
 		["faction"] = 1,
-		["time_stamp"] = 152567,
+		["time_stamp"] = 228375,
 	}, -- [5]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 12,
 		["class"] = "HUNTER",
 		["key_level"] = 14,
 		["unit"] = "Thunderrz-Area52",
 		["dungeon_id"] = 382,
 		["week"] = 178,
 		["faction"] = 1,
-		["time_stamp"] = 126692,
+		["time_stamp"] = 213560,
 	}, -- [6]
 	{
 		["btag"] = "Thanerial#1172",
@@ -78,7 +78,7 @@ AstralKeys = {
 		["dungeon_id"] = 375,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 153116,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [7]
 	{
@@ -114,19 +114,19 @@ AstralKeys = {
 		["dungeon_id"] = 376,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [10]
 	{
 		["btag"] = "Sci#11555",
-		["weekly_best"] = 12,
+		["weekly_best"] = 15,
 		["class"] = "PALADIN",
 		["key_level"] = 14,
 		["unit"] = "Sci-Area52",
 		["dungeon_id"] = 382,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [11]
 	{
@@ -161,7 +161,7 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 6,
+		["time_stamp"] = 213154,
 		["source"] = "friend",
 	}, -- [14]
 	{
@@ -213,14 +213,14 @@ AstralKeys = {
 	}, -- [18]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 2,
+		["weekly_best"] = 8,
 		["class"] = "PRIEST",
-		["key_level"] = 3,
+		["key_level"] = 8,
 		["unit"] = "Alyasta-Area52",
-		["dungeon_id"] = 376,
+		["dungeon_id"] = 382,
 		["week"] = 178,
 		["faction"] = 1,
-		["time_stamp"] = 127747,
+		["time_stamp"] = 211385,
 	}, -- [19]
 	{
 		["btag"] = "YukioX#1520",
@@ -231,7 +231,7 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 0,
 		["source"] = "friend",
 	}, -- [20]
 	{
@@ -248,14 +248,14 @@ AstralKeys = {
 	}, -- [21]
 	{
 		["btag"] = "bum#1748",
-		["weekly_best"] = 10,
+		["weekly_best"] = 11,
 		["class"] = "WARRIOR",
 		["key_level"] = 12,
 		["unit"] = "Orcbum-Kil'jaeden",
 		["dungeon_id"] = 379,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 153124,
+		["time_stamp"] = 231913,
 		["source"] = "friend",
 	}, -- [22]
 	{
@@ -267,7 +267,7 @@ AstralKeys = {
 		["dungeon_id"] = 376,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 6,
+		["time_stamp"] = 214324,
 		["source"] = "friend",
 	}, -- [23]
 	{
@@ -291,7 +291,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 153114,
+		["time_stamp"] = 231915,
 		["source"] = "friend",
 	}, -- [25]
 	{
@@ -315,7 +315,7 @@ AstralKeys = {
 		["dungeon_id"] = 379,
 		["week"] = 178,
 		["faction"] = "1",
-		["time_stamp"] = 0,
+		["time_stamp"] = 233137,
 		["source"] = "friend",
 	}, -- [27]
 }
@@ -323,8 +323,8 @@ AstralCharacters = {
 	{
 		["weekly_best"] = 14,
 		["class"] = "PRIEST",
-		["faction"] = 1,
 		["unit"] = "Toshpriest-Area52",
+		["faction"] = 1,
 	}, -- [1]
 }
 AstralKeysSettings = {
@@ -338,10 +338,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["guild"] = true,
-			["raid"] = false,
-			["no_key"] = true,
 			["party"] = true,
+			["raid"] = false,
+			["guild"] = true,
+			["no_key"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,
@@ -366,9 +366,7 @@ AstralKeysSettings = {
 			true, -- [9]
 			true, -- [10]
 		},
-		["show_offline"] = {
-			["isEnabled"] = true,
-		},
+		["current_list"] = "FRIENDS",
 		["isCollapsed"] = {
 			["isEnabled"] = false,
 		},
@@ -377,9 +375,10 @@ AstralKeysSettings = {
 			["isEnabled"] = false,
 		},
 		["sorth_method"] = "character_name",
-		["current_list"] = "FRIENDS",
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
 	},
-	["new_settings_config"] = true,
 	["friendOptions"] = {
 		["friend_sync"] = {
 			["isEnabled"] = true,
@@ -388,6 +387,7 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 	},
+	["new_settings_config"] = true,
 }
 AstralMinimap = {
 	["profileKeys"] = {
@@ -397,12 +397,12 @@ AstralMinimap = {
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -417,17 +417,17 @@ AstralMinimap = {
 		},
 		["Yorman - Kil'jaeden"] = {
 		},
-		["Daggny - Frostwolf"] = {
+		["Toshpriest - Azralon"] = {
 		},
 		["Yelluwuy - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 		},
-		["Toshlongboyr - Eldre'Thalas"] = {
-		},
 		["Toshaman - Area 52"] = {
 		},
-		["Toshpriest - Azralon"] = {
+		["Toshlongboyr - Eldre'Thalas"] = {
+		},
+		["Daggny - Frostwolf"] = {
 		},
 	},
 }
@@ -448,20 +448,20 @@ AstralLists = {
 			["Yellowy-Area52"] = "Yellowy#1796",
 			["Illsong-Area52"] = "Emosong#1897",
 			["Andruw-Area52"] = "Drew#13709",
-			["Artsong-Area52"] = "Emosong#1897",
-			["Scitron-Area52"] = "Sci#11555",
-			["Cobber-Area52"] = true,
-			["Weedsong-Area52"] = "Emosong#1897",
-			["Morepheouss-Area52"] = "Blueflame213#1513",
-			["Woesong-Area52"] = "Emosong#1897",
-			["Race-Area52"] = true,
+			["Delpi-Area52"] = true,
 			["Annbjørn-Area52"] = true,
+			["Cobber-Area52"] = true,
+			["Race-Area52"] = true,
+			["Gummybuns-Area52"] = "Johnnymsw#1452",
+			["Scitron-Area52"] = "Sci#11555",
+			["Weedsong-Area52"] = "Emosong#1897",
+			["Woesong-Area52"] = "Emosong#1897",
 			["Toshpriest-Area52"] = true,
 			["Alyasta-Area52"] = true,
-			["Gummybuns-Area52"] = "Johnnymsw#1452",
+			["Morepheouss-Area52"] = "Blueflame213#1513",
 			["Thunderrz-Area52"] = true,
 			["Rathux-Area52"] = "Rathux#11683",
-			["Delpi-Area52"] = true,
+			["Artsong-Area52"] = "Emosong#1897",
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [1]
@@ -479,25 +479,25 @@ AstralLists = {
 			["Yukios-Kil'jaeden"] = "YukioX#1520",
 			["Illsong-Area52"] = "Emosong#1897",
 			["Downloaded-Kil'jaeden"] = "cHEWY#1826",
-			["Yellowy-Area52"] = "Yellowy#1796",
+			["Andruw-Area52"] = "Drew#13709",
 			["Delpi-Area52"] = "Delpi#3784",
 			["Idc-Kil'jaeden"] = "Rathux#11683",
-			["Sci-Area52"] = "Sci#11555",
-			["Morepheouss-Area52"] = "Blueflame213#1513",
+			["Delp-Kil'jaeden"] = "Delpi#3784",
+			["Gummybuns-Area52"] = "Johnnymsw#1452",
 			["Delpi-Kil'jaeden"] = "Delpi#3784",
 			["Mattea-Kil'jaeden"] = "boochan#1194",
-			["Ngow-Kil'jaeden"] = "boochan#1194",
+			["Thanerial-Kil'jaeden"] = "Thanerial#1172",
 			["Authentic-Kil'jaeden"] = "Thanerial#1172",
-			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Ngow-Kil'jaeden"] = "boochan#1194",
 			["Emosong-Kil'jaeden"] = "Emosong#1897",
 			["Weedsong-Area52"] = "Emosong#1897",
 			["Woesong-Area52"] = "Emosong#1897",
 			["Scitron-Area52"] = "Sci#11555",
-			["Thanerial-Kil'jaeden"] = "Thanerial#1172",
-			["Gummybuns-Area52"] = "Johnnymsw#1452",
-			["Delp-Kil'jaeden"] = "Delpi#3784",
+			["Ceesong-Kil'jaeden"] = "Emosong#1897",
+			["Morepheouss-Area52"] = "Blueflame213#1513",
+			["Sci-Area52"] = "Sci#11555",
 			["Rathux-Area52"] = "Rathux#11683",
-			["Andruw-Area52"] = "Drew#13709",
+			["Yellowy-Area52"] = "Yellowy#1796",
 			["Bluearruwu-Area52"] = "Blueflame213#1513",
 		},
 	}, -- [2]

@@ -5,240 +5,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Huntsman Altimor",
 		["id"] = 2418,
-		["player_db"] = {
-			["Tumtumm"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Tumtumm",
-				["class"] = "MONK",
-			},
-			["Hoofshots"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Hoofshots",
-				["overall"] = {
-				},
-			},
-			["Azian"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Azian",
-				["overall"] = {
-				},
-			},
-			["Slurry"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Slurry",
-				["overall"] = {
-				},
-			},
-			["Lyuna"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Lyuna",
-				["overall"] = {
-				},
-			},
-			["Diplomacy"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Diplomacy",
-				["overall"] = {
-				},
-			},
-			["Spoonerisms"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Spoonerisms",
-				["overall"] = {
-				},
-			},
-			["Boomie"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Boomie",
-				["overall"] = {
-				},
-			},
-			["Secxtanx"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Secxtanx",
-				["overall"] = {
-				},
-			},
-			["Drmango"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Drmango",
-				["overall"] = {
-				},
-			},
-			["Orcbum"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Orcbum",
-				["overall"] = {
-				},
-			},
-			["Lilkdog"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Lilkdog",
-				["overall"] = {
-				},
-			},
-			["Huskeryfloof"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Huskeryfloof",
-				["overall"] = {
-				},
-			},
-			["Downloaded"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Downloaded",
-				["overall"] = {
-				},
-			},
-			["Delpi"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Delpi",
-				["overall"] = {
-				},
-			},
-			["Bloodnofsky"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Bloodnofsky",
-				["overall"] = {
-				},
-			},
-			["Idc"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Idc",
-				["overall"] = {
-				},
-			},
-			["Brutang"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Brutang",
-				["overall"] = {
-				},
-			},
-			["Shunli"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Shunli",
-				["overall"] = {
-				},
-			},
-			["Scitron"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Scitron",
-				["overall"] = {
-				},
-			},
-			["Bit"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Bit",
-				["overall"] = {
-				},
-			},
-			["Aveon"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Aveon",
-				["overall"] = {
-				},
-			},
-			["Ngow"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Ngow",
-				["overall"] = {
-				},
-			},
-			["Maserder"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Maserder",
-				["overall"] = {
-				},
-			},
-			["Focalaire"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Focalaire",
-				["overall"] = {
-				},
-			},
-			["Toshmonk"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Toshmonk",
-				["overall"] = {
-				},
-			},
-			["Nerf"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Nerf",
-				["overall"] = {
-				},
-			},
-			["Papisalad"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Papisalad",
-				["overall"] = {
-				},
-			},
-			["Dragonite"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Dragonite",
-				["class"] = "DEMONHUNTER",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 4,
@@ -251,6 +17,240 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["encounter"] = "Huntsman Altimor",
 		},
+		["player_db"] = {
+			["Tumtumm"] = {
+				["name"] = "Tumtumm",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Hoofshots"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hoofshots",
+			},
+			["Azian"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Azian",
+			},
+			["Slurry"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Slurry",
+			},
+			["Lyuna"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lyuna",
+			},
+			["Diplomacy"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Diplomacy",
+			},
+			["Spoonerisms"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Spoonerisms",
+			},
+			["Boomie"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Boomie",
+			},
+			["Secxtanx"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Secxtanx",
+			},
+			["Drmango"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Drmango",
+			},
+			["Orcbum"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Orcbum",
+			},
+			["Lilkdog"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lilkdog",
+			},
+			["Huskeryfloof"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Huskeryfloof",
+			},
+			["Downloaded"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Downloaded",
+			},
+			["Delpi"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Delpi",
+			},
+			["Bloodnofsky"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bloodnofsky",
+			},
+			["Idc"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Idc",
+			},
+			["Brutang"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Brutang",
+			},
+			["Shunli"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Shunli",
+			},
+			["Scitron"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Scitron",
+			},
+			["Bit"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bit",
+			},
+			["Aveon"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Aveon",
+			},
+			["Ngow"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ngow",
+			},
+			["Maserder"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Maserder",
+			},
+			["Focalaire"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Focalaire",
+			},
+			["Toshmonk"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Toshmonk",
+			},
+			["Nerf"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Nerf",
+			},
+			["Papisalad"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Papisalad",
+			},
+			["Dragonite"] = {
+				["name"] = "Dragonite",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 		["diff"] = 15,
 	},
 	["242514"] = {
@@ -258,32 +258,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Stone Legion Generals",
 		["id"] = 2425,
-		["player_db"] = {
-			["Huskeryfloof"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Huskeryfloof",
-				["overall"] = {
-				},
-			},
-			["Azian"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Azian",
-				["class"] = "WARLOCK",
-			},
-			["Papisalad"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Papisalad",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 9,
@@ -297,7 +271,254 @@ DeathGraphsDBDeaths = {
 			["id"] = 2417,
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Azian"] = {
+				["name"] = "Azian",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Papisalad"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Papisalad",
+			},
+			["Huskeryfloof"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Huskeryfloof",
+			},
+		},
 		["diff"] = 14,
+	},
+	["242615"] = {
+		["hash"] = "242615",
+		["type"] = "deaths",
+		["name"] = "The Council of Blood",
+		["id"] = 2426,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 7,
+			["zone"] = "Castle Nathria",
+			["id"] = 2412,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "The Council of Blood",
+			["diff"] = 15,
+			["ej_instance_id"] = 1190,
+			["encounter"] = "The Council of Blood",
+		},
+		["player_db"] = {
+			["Tumtumm"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Tumtumm",
+			},
+			["Hoofshots"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hoofshots",
+			},
+			["Azian"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Azian",
+			},
+			["Bit"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bit",
+			},
+			["Dragonite"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Dragonite",
+			},
+			["Brutang"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Brutang",
+			},
+			["Orcbum"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Orcbum",
+			},
+			["Lilkdog"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lilkdog",
+			},
+			["Huskeryfloof"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Huskeryfloof",
+			},
+			["Emosong"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Emosong",
+			},
+			["Boomie"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Boomie",
+			},
+			["Bloodnofsky"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bloodnofsky",
+			},
+			["Papisalad"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Papisalad",
+			},
+			["Focalaire"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Focalaire",
+			},
+			["Toshmonk"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Toshmonk",
+			},
+			["Scitron"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Scitron",
+			},
+			["Diplomacy"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Diplomacy",
+			},
+			["Aveon"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Aveon",
+			},
+			["Ngow"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ngow",
+			},
+			["Maserder"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Maserder",
+			},
+			["Nerf"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Nerf",
+			},
+			["Downloaded"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Downloaded",
+			},
+			["Spoonerisms"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Spoonerisms",
+			},
+			["Delpi"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Delpi",
+			},
+			["Drmango"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Drmango",
+			},
+		},
+		["diff"] = 15,
 	},
 	["239314"] = {
 		["hash"] = "239314",
@@ -305,240 +526,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Shriekwing",
 		["id"] = 2393,
 		["diff"] = 14,
-		["player_db"] = {
-			["Hoofshots"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Hoofshots",
-				["overall"] = {
-				},
-			},
-			["Delpi-Area52"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Delpi-Area52",
-				["class"] = "MAGE",
-			},
-			["Secxtanx"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Secxtanx",
-				["class"] = "PRIEST",
-			},
-			["Lyuna"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lyuna",
-				["class"] = "PRIEST",
-			},
-			["Nerf"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Nerf",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Spoonerisms"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Spoonerisms",
-				["class"] = "PALADIN",
-			},
-			["Teldar"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Teldar",
-				["overall"] = {
-				},
-			},
-			["Boomie"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Boomie",
-				["class"] = "DRUID",
-			},
-			["Huskeryfloof"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Huskeryfloof",
-				["overall"] = {
-				},
-			},
-			["Bit"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Bit",
-				["overall"] = {
-				},
-			},
-			["Orcbum"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Orcbum",
-				["overall"] = {
-				},
-			},
-			["Lilkdog"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lilkdog",
-				["class"] = "PALADIN",
-			},
-			["Drmango"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Drmango",
-				["overall"] = {
-				},
-			},
-			["Yukios"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Yukios",
-				["class"] = "SHAMAN",
-			},
-			["Downloaded"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Downloaded",
-				["overall"] = {
-				},
-			},
-			["Shunli"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Shunli",
-				["overall"] = {
-				},
-			},
-			["Thunderzhunt-Area52"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Thunderzhunt-Area52",
-				["overall"] = {
-				},
-			},
-			["Illidab"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Illidab",
-				["overall"] = {
-				},
-			},
-			["Aveon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Aveon",
-				["class"] = "DEMONHUNTER",
-			},
-			["Scitron"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Scitron",
-				["class"] = "SHAMAN",
-			},
-			["Delpi"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Delpi",
-				["overall"] = {
-				},
-			},
-			["Amilgaoul"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Amilgaoul",
-				["class"] = "DRUID",
-			},
-			["Ngow"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Ngow",
-				["overall"] = {
-				},
-			},
-			["Maserder"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Maserder",
-				["class"] = "MAGE",
-			},
-			["Emosong"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Emosong",
-				["class"] = "ROGUE",
-			},
-			["Toshmonk"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Toshmonk",
-				["class"] = "MONK",
-			},
-			["Dragonite"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Dragonite",
-				["class"] = "DEMONHUNTER",
-			},
-			["Idc"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Idc",
-				["class"] = "DRUID",
-			},
-			["Brutang"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Brutang",
-				["class"] = "DEATHKNIGHT",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 1,
@@ -551,254 +538,246 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["diff"] = 14,
 		},
+		["player_db"] = {
+			["Hoofshots"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hoofshots",
+			},
+			["Delpi-Area52"] = {
+				["name"] = "Delpi-Area52",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Secxtanx"] = {
+				["name"] = "Secxtanx",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Lyuna"] = {
+				["name"] = "Lyuna",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Nerf"] = {
+				["name"] = "Nerf",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Spoonerisms"] = {
+				["name"] = "Spoonerisms",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Teldar"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Teldar",
+			},
+			["Boomie"] = {
+				["name"] = "Boomie",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Huskeryfloof"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Huskeryfloof",
+			},
+			["Bit"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bit",
+			},
+			["Orcbum"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Orcbum",
+			},
+			["Lilkdog"] = {
+				["name"] = "Lilkdog",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Drmango"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Drmango",
+			},
+			["Yukios"] = {
+				["name"] = "Yukios",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Downloaded"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Downloaded",
+			},
+			["Shunli"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Shunli",
+			},
+			["Thunderzhunt-Area52"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Thunderzhunt-Area52",
+			},
+			["Illidab"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Illidab",
+			},
+			["Aveon"] = {
+				["name"] = "Aveon",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Scitron"] = {
+				["name"] = "Scitron",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Delpi"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Delpi",
+			},
+			["Amilgaoul"] = {
+				["name"] = "Amilgaoul",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Ngow"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ngow",
+			},
+			["Maserder"] = {
+				["name"] = "Maserder",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Emosong"] = {
+				["name"] = "Emosong",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Toshmonk"] = {
+				["name"] = "Toshmonk",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Dragonite"] = {
+				["name"] = "Dragonite",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Idc"] = {
+				["name"] = "Idc",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Brutang"] = {
+				["name"] = "Brutang",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 	["239315"] = {
 		["hash"] = "239315",
 		["type"] = "deaths",
 		["name"] = "Shriekwing",
 		["id"] = 2393,
-		["player_db"] = {
-			["Tumtumm"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Tumtumm",
-				["class"] = "MONK",
-			},
-			["Hoofshots"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Hoofshots",
-				["overall"] = {
-				},
-			},
-			["Azian"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Azian",
-				["overall"] = {
-				},
-			},
-			["Slurry"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Slurry",
-				["overall"] = {
-				},
-			},
-			["Lyuna"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Lyuna",
-				["overall"] = {
-				},
-			},
-			["Shunli"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Shunli",
-				["overall"] = {
-				},
-			},
-			["Spoonerisms"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Spoonerisms",
-				["overall"] = {
-				},
-			},
-			["Idc"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Idc",
-				["overall"] = {
-				},
-			},
-			["Huskeryfloof"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Huskeryfloof",
-				["class"] = "DRUID",
-			},
-			["Dragonite"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Dragonite",
-				["overall"] = {
-				},
-			},
-			["Lilkdog"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Lilkdog",
-				["overall"] = {
-				},
-			},
-			["Orcbum"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Orcbum",
-				["overall"] = {
-				},
-			},
-			["Delpi"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Delpi",
-				["overall"] = {
-				},
-			},
-			["Toshmonk"] = {
-				["deaths"] = {
-				},
-				["class"] = "MONK",
-				["name"] = "Toshmonk",
-				["overall"] = {
-				},
-			},
-			["Emosong"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Emosong",
-				["overall"] = {
-				},
-			},
-			["Secxtanx"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Secxtanx",
-				["overall"] = {
-				},
-			},
-			["Bloodnofsky"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bloodnofsky",
-				["class"] = "ROGUE",
-			},
-			["Bit"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Bit",
-				["overall"] = {
-				},
-			},
-			["Boomie"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Boomie",
-				["overall"] = {
-				},
-			},
-			["Diplomacy"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Diplomacy",
-				["overall"] = {
-				},
-			},
-			["Scitron"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Scitron",
-				["overall"] = {
-				},
-			},
-			["Brutang"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Brutang",
-				["overall"] = {
-				},
-			},
-			["Aveon"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Aveon",
-				["overall"] = {
-				},
-			},
-			["Ngow"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Ngow",
-				["overall"] = {
-				},
-			},
-			["Maserder"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Maserder",
-				["overall"] = {
-				},
-			},
-			["Drmango"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Drmango",
-				["overall"] = {
-				},
-			},
-			["Downloaded"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Downloaded",
-				["overall"] = {
-				},
-			},
-			["Focalaire"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Focalaire",
-				["overall"] = {
-				},
-			},
-			["Nerf"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-				["name"] = "Nerf",
-				["overall"] = {
-				},
-			},
-			["Papisalad"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Papisalad",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -810,6 +789,248 @@ DeathGraphsDBDeaths = {
 			["diff"] = 15,
 			["ej_instance_id"] = 1190,
 			["encounter"] = "Shriekwing",
+		},
+		["player_db"] = {
+			["Tumtumm"] = {
+				["name"] = "Tumtumm",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Hoofshots"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hoofshots",
+			},
+			["Azian"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Azian",
+			},
+			["Slurry"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Slurry",
+			},
+			["Lyuna"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lyuna",
+			},
+			["Shunli"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Shunli",
+			},
+			["Spoonerisms"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Spoonerisms",
+			},
+			["Huskeryfloof"] = {
+				["name"] = "Huskeryfloof",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Papisalad"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Papisalad",
+			},
+			["Dragonite"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Dragonite",
+			},
+			["Delpi"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Delpi",
+			},
+			["Orcbum"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Orcbum",
+			},
+			["Lilkdog"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lilkdog",
+			},
+			["Toshmonk"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Toshmonk",
+			},
+			["Emosong"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Emosong",
+			},
+			["Secxtanx"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Secxtanx",
+			},
+			["Bloodnofsky"] = {
+				["name"] = "Bloodnofsky",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Bit"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bit",
+			},
+			["Boomie"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Boomie",
+			},
+			["Diplomacy"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Diplomacy",
+			},
+			["Scitron"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Scitron",
+			},
+			["Brutang"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Brutang",
+			},
+			["Aveon"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Aveon",
+			},
+			["Ngow"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ngow",
+			},
+			["Maserder"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Maserder",
+			},
+			["Drmango"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Drmango",
+			},
+			["Downloaded"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Downloaded",
+			},
+			["Focalaire"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Focalaire",
+			},
+			["Nerf"] = {
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Nerf",
+			},
+			["Idc"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Idc",
+			},
 		},
 		["diff"] = 15,
 	},
@@ -819,88 +1040,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Sun King's Salvation",
 		["id"] = 2422,
 		["diff"] = 14,
-		["player_db"] = {
-			["Yukios"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Yukios",
-				["class"] = "SHAMAN",
-			},
-			["Delpi-Area52"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Delpi-Area52",
-				["class"] = "MAGE",
-			},
-			["Secxtanx"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Secxtanx",
-				["class"] = "PRIEST",
-			},
-			["Nerf"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Nerf",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Scitron"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Scitron",
-				["class"] = "SHAMAN",
-			},
-			["Aveon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Aveon",
-				["class"] = "DEMONHUNTER",
-			},
-			["Focalaire"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Focalaire",
-				["class"] = "MAGE",
-			},
-			["Toshmonk"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Toshmonk",
-				["class"] = "MONK",
-			},
-			["Spoonerisms"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Spoonerisms",
-				["class"] = "PALADIN",
-			},
-			["Brutang"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Brutang",
-				["class"] = "DEATHKNIGHT",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 3,
@@ -913,6 +1052,88 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["diff"] = 14,
 		},
+		["player_db"] = {
+			["Yukios"] = {
+				["name"] = "Yukios",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Delpi-Area52"] = {
+				["name"] = "Delpi-Area52",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Secxtanx"] = {
+				["name"] = "Secxtanx",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Nerf"] = {
+				["name"] = "Nerf",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Scitron"] = {
+				["name"] = "Scitron",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Aveon"] = {
+				["name"] = "Aveon",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Focalaire"] = {
+				["name"] = "Focalaire",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Toshmonk"] = {
+				["name"] = "Toshmonk",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Spoonerisms"] = {
+				["name"] = "Spoonerisms",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Brutang"] = {
+				["name"] = "Brutang",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 	["242215"] = {
 		["hash"] = "242215",
@@ -920,176 +1141,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Sun King's Salvation",
 		["id"] = 2422,
 		["diff"] = 15,
-		["player_db"] = {
-			["Tumtumm"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Tumtumm",
-				["class"] = "MONK",
-			},
-			["Hoofshots"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Hoofshots",
-				["class"] = "HUNTER",
-			},
-			["Lyuna"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lyuna",
-				["class"] = "PRIEST",
-			},
-			["Diplomacy"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Diplomacy",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Spoonerisms"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Spoonerisms",
-				["class"] = "PALADIN",
-			},
-			["Brutang"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Brutang",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Orcbum"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Orcbum",
-				["class"] = "WARRIOR",
-			},
-			["Lilkdog"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lilkdog",
-				["class"] = "PALADIN",
-			},
-			["Dragonite"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Dragonite",
-				["class"] = "DEMONHUNTER",
-			},
-			["Bit"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bit",
-				["class"] = "ROGUE",
-			},
-			["Focalaire"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Focalaire",
-				["class"] = "MAGE",
-			},
-			["Scitron"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Scitron",
-				["class"] = "SHAMAN",
-			},
-			["Toshmonk"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Toshmonk",
-				["class"] = "MONK",
-			},
-			["Boomie"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Boomie",
-				["class"] = "DRUID",
-			},
-			["Papisalad"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Papisalad",
-				["class"] = "HUNTER",
-			},
-			["Maserder"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Maserder",
-				["class"] = "MAGE",
-			},
-			["Drmango"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Drmango",
-				["class"] = "MAGE",
-			},
-			["Downloaded"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Downloaded",
-				["class"] = "WARLOCK",
-			},
-			["Nerf"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Nerf",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Huskeryfloof"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Huskeryfloof",
-				["class"] = "DRUID",
-			},
-			["Delpi"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Delpi",
-				["class"] = "MAGE",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 3,
@@ -1102,6 +1153,192 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["diff"] = 15,
 		},
+		["player_db"] = {
+			["Tumtumm"] = {
+				["name"] = "Tumtumm",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Hoofshots"] = {
+				["name"] = "Hoofshots",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Azian"] = {
+				["name"] = "Azian",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Lyuna"] = {
+				["name"] = "Lyuna",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Diplomacy"] = {
+				["name"] = "Diplomacy",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Spoonerisms"] = {
+				["name"] = "Spoonerisms",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Brutang"] = {
+				["name"] = "Brutang",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Orcbum"] = {
+				["name"] = "Orcbum",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Lilkdog"] = {
+				["name"] = "Lilkdog",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Dragonite"] = {
+				["name"] = "Dragonite",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Bit"] = {
+				["name"] = "Bit",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Focalaire"] = {
+				["name"] = "Focalaire",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Toshmonk"] = {
+				["name"] = "Toshmonk",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Scitron"] = {
+				["name"] = "Scitron",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Boomie"] = {
+				["name"] = "Boomie",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Aveon"] = {
+				["name"] = "Aveon",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Papisalad"] = {
+				["name"] = "Papisalad",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Maserder"] = {
+				["name"] = "Maserder",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Nerf"] = {
+				["name"] = "Nerf",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Downloaded"] = {
+				["name"] = "Downloaded",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Huskeryfloof"] = {
+				["name"] = "Huskeryfloof",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Delpi"] = {
+				["name"] = "Delpi",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Drmango"] = {
+				["name"] = "Drmango",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 	["241814"] = {
 		["hash"] = "241814",
@@ -1109,112 +1346,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Huntsman Altimor",
 		["id"] = 2418,
 		["diff"] = 14,
-		["player_db"] = {
-			["Yukios"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Yukios",
-				["class"] = "SHAMAN",
-			},
-			["Delpi-Area52"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Delpi-Area52",
-				["class"] = "MAGE",
-			},
-			["Secxtanx"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Secxtanx",
-				["class"] = "PRIEST",
-			},
-			["Lyuna"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lyuna",
-				["class"] = "PRIEST",
-			},
-			["Nerf"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Nerf",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Spoonerisms"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Spoonerisms",
-				["class"] = "PALADIN",
-			},
-			["Aveon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Aveon",
-				["class"] = "DEMONHUNTER",
-			},
-			["Maserder"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Maserder",
-				["class"] = "MAGE",
-			},
-			["Scitron"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Scitron",
-				["class"] = "SHAMAN",
-			},
-			["Toshmonk"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Toshmonk",
-				["class"] = "MONK",
-			},
-			["Idc"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Idc",
-				["class"] = "DRUID",
-			},
-			["Focalaire"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Focalaire",
-				["class"] = "MAGE",
-			},
-			["Brutang"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Brutang",
-				["class"] = "DEATHKNIGHT",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 4,
@@ -1228,6 +1359,112 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Yukios"] = {
+				["name"] = "Yukios",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Delpi-Area52"] = {
+				["name"] = "Delpi-Area52",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Secxtanx"] = {
+				["name"] = "Secxtanx",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Lyuna"] = {
+				["name"] = "Lyuna",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Nerf"] = {
+				["name"] = "Nerf",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Spoonerisms"] = {
+				["name"] = "Spoonerisms",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Aveon"] = {
+				["name"] = "Aveon",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Maserder"] = {
+				["name"] = "Maserder",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Scitron"] = {
+				["name"] = "Scitron",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Toshmonk"] = {
+				["name"] = "Toshmonk",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Idc"] = {
+				["name"] = "Idc",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Focalaire"] = {
+				["name"] = "Focalaire",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Brutang"] = {
+				["name"] = "Brutang",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 	["239414"] = {
 		["hash"] = "239414",
@@ -1235,224 +1472,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "Sludgefist",
 		["id"] = 2394,
 		["diff"] = 14,
-		["player_db"] = {
-			["Azian"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Azian",
-				["overall"] = {
-				},
-			},
-			["Slurry"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Slurry",
-				["overall"] = {
-				},
-			},
-			["Lyuna"] = {
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-				["name"] = "Lyuna",
-				["overall"] = {
-				},
-			},
-			["Diplomacy"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Diplomacy",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Drmango"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Drmango",
-				["class"] = "MAGE",
-			},
-			["Brutang"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Brutang",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Illidab"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Illidab",
-				["overall"] = {
-				},
-			},
-			["Idc"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Idc",
-				["overall"] = {
-				},
-			},
-			["Orcbum"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-				["name"] = "Orcbum",
-				["overall"] = {
-				},
-			},
-			["Lilkdog"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lilkdog",
-				["class"] = "PALADIN",
-			},
-			["Papisalad"] = {
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-				["name"] = "Papisalad",
-				["overall"] = {
-				},
-			},
-			["Emosong"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Emosong",
-				["class"] = "ROGUE",
-			},
-			["Toshmonk"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Toshmonk",
-				["class"] = "MONK",
-			},
-			["Bloodnofsky"] = {
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-				["name"] = "Bloodnofsky",
-				["overall"] = {
-				},
-			},
-			["Delpi"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Delpi",
-				["overall"] = {
-				},
-			},
-			["Focalaire"] = {
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-				["name"] = "Focalaire",
-				["overall"] = {
-				},
-			},
-			["Boomie"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Boomie",
-				["overall"] = {
-				},
-			},
-			["Scitron"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Scitron",
-				["overall"] = {
-				},
-			},
-			["Spoonerisms"] = {
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-				["name"] = "Spoonerisms",
-				["overall"] = {
-				},
-			},
-			["Aveon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Aveon",
-				["class"] = "DEMONHUNTER",
-			},
-			["Ngow"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Ngow",
-				["overall"] = {
-				},
-			},
-			["Maserder"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Maserder",
-				["class"] = "MAGE",
-			},
-			["Shunli"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Shunli",
-				["class"] = "MONK",
-			},
-			["Downloaded"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Downloaded",
-				["overall"] = {
-				},
-			},
-			["Huskeryfloof"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Huskeryfloof",
-				["overall"] = {
-				},
-			},
-			["Dragonite"] = {
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
-				["name"] = "Dragonite",
-				["overall"] = {
-				},
-			},
-			["Bit"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bit",
-				["class"] = "ROGUE",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 8,
@@ -1465,6 +1484,224 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["diff"] = 14,
 		},
+		["player_db"] = {
+			["Azian"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Azian",
+			},
+			["Slurry"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Slurry",
+			},
+			["Lyuna"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lyuna",
+			},
+			["Diplomacy"] = {
+				["name"] = "Diplomacy",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Drmango"] = {
+				["name"] = "Drmango",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Brutang"] = {
+				["name"] = "Brutang",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Illidab"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Illidab",
+			},
+			["Idc"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Idc",
+			},
+			["Orcbum"] = {
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Orcbum",
+			},
+			["Lilkdog"] = {
+				["name"] = "Lilkdog",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Papisalad"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Papisalad",
+			},
+			["Emosong"] = {
+				["name"] = "Emosong",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Toshmonk"] = {
+				["name"] = "Toshmonk",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Bloodnofsky"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bloodnofsky",
+			},
+			["Delpi"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Delpi",
+			},
+			["Focalaire"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Focalaire",
+			},
+			["Boomie"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Boomie",
+			},
+			["Scitron"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Scitron",
+			},
+			["Spoonerisms"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Spoonerisms",
+			},
+			["Aveon"] = {
+				["name"] = "Aveon",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Ngow"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Ngow",
+			},
+			["Maserder"] = {
+				["name"] = "Maserder",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Shunli"] = {
+				["name"] = "Shunli",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Downloaded"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Downloaded",
+			},
+			["Huskeryfloof"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Huskeryfloof",
+			},
+			["Dragonite"] = {
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Dragonite",
+			},
+			["Bit"] = {
+				["name"] = "Bit",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 	["242614"] = {
 		["hash"] = "242614",
@@ -1472,184 +1709,6 @@ DeathGraphsDBDeaths = {
 		["name"] = "The Council of Blood",
 		["id"] = 2426,
 		["diff"] = 14,
-		["player_db"] = {
-			["Delpix-Area52"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Delpix-Area52",
-				["class"] = "PRIEST",
-			},
-			["Hoofshots"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Hoofshots",
-				["class"] = "HUNTER",
-			},
-			["Slurry"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Slurry",
-				["class"] = "DRUID",
-			},
-			["Bit"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bit",
-				["class"] = "ROGUE",
-			},
-			["Spoonerisms"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Spoonerisms",
-				["class"] = "PALADIN",
-			},
-			["Brutang"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Brutang",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Orcbum"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Orcbum",
-				["class"] = "WARRIOR",
-			},
-			["Lilkdog"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Lilkdog",
-				["class"] = "PALADIN",
-			},
-			["Yukios"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Yukios",
-				["class"] = "SHAMAN",
-			},
-			["Bloodnofsky"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Bloodnofsky",
-				["class"] = "ROGUE",
-			},
-			["Boomie"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Boomie",
-				["class"] = "DRUID",
-			},
-			["Dragonite"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Dragonite",
-				["class"] = "DEMONHUNTER",
-			},
-			["Shunli"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Shunli",
-				["class"] = "MONK",
-			},
-			["Diplomacy"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Diplomacy",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Aveon"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Aveon",
-				["class"] = "DEMONHUNTER",
-			},
-			["Secxtanx"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Secxtanx",
-				["class"] = "PRIEST",
-			},
-			["Maserder"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Maserder",
-				["class"] = "MAGE",
-			},
-			["Nerf"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Nerf",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Downloaded"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Downloaded",
-				["class"] = "WARLOCK",
-			},
-			["Focalaire"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Focalaire",
-				["class"] = "MAGE",
-			},
-			["Emosong"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Emosong",
-				["class"] = "ROGUE",
-			},
-			["Papisalad"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Papisalad",
-				["class"] = "HUNTER",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Normal",
 			["index"] = 7,
@@ -1662,6 +1721,184 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1190,
 			["diff"] = 14,
 		},
+		["player_db"] = {
+			["Delpix-Area52"] = {
+				["name"] = "Delpix-Area52",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Hoofshots"] = {
+				["name"] = "Hoofshots",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Slurry"] = {
+				["name"] = "Slurry",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Bit"] = {
+				["name"] = "Bit",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Spoonerisms"] = {
+				["name"] = "Spoonerisms",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Brutang"] = {
+				["name"] = "Brutang",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Orcbum"] = {
+				["name"] = "Orcbum",
+				["class"] = "WARRIOR",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Lilkdog"] = {
+				["name"] = "Lilkdog",
+				["class"] = "PALADIN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Yukios"] = {
+				["name"] = "Yukios",
+				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Bloodnofsky"] = {
+				["name"] = "Bloodnofsky",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Boomie"] = {
+				["name"] = "Boomie",
+				["class"] = "DRUID",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Dragonite"] = {
+				["name"] = "Dragonite",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Shunli"] = {
+				["name"] = "Shunli",
+				["class"] = "MONK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Diplomacy"] = {
+				["name"] = "Diplomacy",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Aveon"] = {
+				["name"] = "Aveon",
+				["class"] = "DEMONHUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Secxtanx"] = {
+				["name"] = "Secxtanx",
+				["class"] = "PRIEST",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Maserder"] = {
+				["name"] = "Maserder",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Nerf"] = {
+				["name"] = "Nerf",
+				["class"] = "DEATHKNIGHT",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Downloaded"] = {
+				["name"] = "Downloaded",
+				["class"] = "WARLOCK",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Focalaire"] = {
+				["name"] = "Focalaire",
+				["class"] = "MAGE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Emosong"] = {
+				["name"] = "Emosong",
+				["class"] = "ROGUE",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+			["Papisalad"] = {
+				["name"] = "Papisalad",
+				["class"] = "HUNTER",
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+			},
+		},
 	},
 }
 DeathGraphsDBEndurance = {
@@ -1670,6 +1907,18 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Huntsman Altimor",
 		["id"] = 2418,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 4,
+			["zone"] = "Castle Nathria",
+			["id"] = 2418,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Huntsman Altimor",
+			["diff"] = 15,
+			["ej_instance_id"] = 1190,
+			["encounter"] = "Huntsman Altimor",
+		},
 		["player_db"] = {
 			["Tumtumm"] = {
 				["encounters"] = 6,
@@ -1797,11 +2046,26 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Idc"] = {
-				["encounters"] = 12,
-				["points"] = 1200,
-				["class"] = "DRUID",
+			["Papisalad"] = {
+				["encounters"] = 18,
+				["points"] = 1770,
+				["class"] = "HUNTER",
 				["deaths"] = {
+					{
+						7, -- [1]
+						141.6079999999784, -- [2]
+						"Sinseeker (DoT) |cFFFF33334,953|r", -- [3]
+					}, -- [1]
+					{
+						12, -- [1]
+						237.6059999999998, -- [2]
+						"Unstable Soul |cFFFF33331,993|r", -- [3]
+					}, -- [2]
+					{
+						5, -- [1]
+						130.0410000000848, -- [2]
+						"Withering Touch (DoT) |cFFFF33337,887|r", -- [3]
+					}, -- [3]
 				},
 			},
 			["Huskeryfloof"] = {
@@ -2104,40 +2368,13 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Papisalad"] = {
-				["encounters"] = 18,
-				["points"] = 1770,
-				["class"] = "HUNTER",
+			["Idc"] = {
+				["encounters"] = 12,
+				["points"] = 1200,
+				["class"] = "DRUID",
 				["deaths"] = {
-					{
-						7, -- [1]
-						141.6079999999784, -- [2]
-						"Sinseeker (DoT) |cFFFF33334,953|r", -- [3]
-					}, -- [1]
-					{
-						12, -- [1]
-						237.6059999999998, -- [2]
-						"Unstable Soul |cFFFF33331,993|r", -- [3]
-					}, -- [2]
-					{
-						5, -- [1]
-						130.0410000000848, -- [2]
-						"Withering Touch (DoT) |cFFFF33337,887|r", -- [3]
-					}, -- [3]
 				},
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 4,
-			["zone"] = "Castle Nathria",
-			["id"] = 2418,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Huntsman Altimor",
-			["diff"] = 15,
-			["ej_instance_id"] = 1190,
-			["encounter"] = "Huntsman Altimor",
 		},
 		["diff"] = 15,
 	},
@@ -2146,6 +2383,19 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Stone Legion Generals",
 		["id"] = 2425,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 9,
+			["zone"] = "Castle Nathria",
+			["encounter"] = "Stone Legion Generals",
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Stone Legion Generals",
+			["diff"] = 14,
+			["ej_instance_id"] = 1190,
+			["id"] = 2417,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Authentic"] = {
 				["encounters"] = 1,
@@ -2415,20 +2665,503 @@ DeathGraphsDBEndurance = {
 				["class"] = "HUNTER",
 			},
 		},
+		["diff"] = 14,
+	},
+	["242615"] = {
+		["hash"] = "242615",
+		["type"] = "endurance",
+		["name"] = "The Council of Blood",
+		["id"] = 2426,
 		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 9,
+			["diff_string"] = "Heroic",
+			["index"] = 7,
 			["zone"] = "Castle Nathria",
-			["encounter"] = "Stone Legion Generals",
+			["id"] = 2412,
 			["mapid"] = 2296,
 			["try_number"] = 1,
-			["name"] = "Stone Legion Generals",
-			["diff"] = 14,
+			["name"] = "The Council of Blood",
+			["diff"] = 15,
 			["ej_instance_id"] = 1190,
-			["id"] = 2417,
-			["killed"] = true,
+			["encounter"] = "The Council of Blood",
 		},
-		["diff"] = 14,
+		["player_db"] = {
+			["Tumtumm"] = {
+				["encounters"] = 21,
+				["points"] = 2020,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						29.35200000007171, -- [2]
+						"Dark Recital |cFFFF333311,485|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						28.01799999992363, -- [2]
+						"Dark Recital |cFFFF33338,901|r", -- [3]
+					}, -- [2]
+					{
+						9, -- [1]
+						234.9549999999581, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33332,728|r", -- [3]
+					}, -- [3]
+					{
+						10, -- [1]
+						27.59700000006706, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF3333682|r", -- [3]
+					}, -- [4]
+					{
+						10, -- [1]
+						193.7399999999907, -- [2]
+						"Prideful Eruption |cFFFF333312,465|r", -- [3]
+					}, -- [5]
+					{
+						16, -- [1]
+						27.03300000005402, -- [2]
+						"Dark Recital |cFFFF333311,292|r", -- [3]
+					}, -- [6]
+					{
+						20, -- [1]
+						112.9100000000326, -- [2]
+						"Evasive Lunge |cFFFF333336,035|r", -- [3]
+					}, -- [7]
+				},
+			},
+			["Hoofshots"] = {
+				["encounters"] = 20,
+				["points"] = 1960,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						5, -- [1]
+						30.49199999996927, -- [2]
+						"Dark Recital |cFFFF333311,821|r", -- [3]
+					}, -- [1]
+					{
+						7, -- [1]
+						120.2269999999553, -- [2]
+						"Dark Recital |cFFFF3333708|r", -- [3]
+					}, -- [2]
+					{
+						15, -- [1]
+						118.7209999999031, -- [2]
+						"Dark Recital |cFFFF333311,593|r", -- [3]
+					}, -- [3]
+					{
+						19, -- [1]
+						233.5139999999665, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33333,077|r", -- [3]
+					}, -- [4]
+				},
+			},
+			["Azian"] = {
+				["encounters"] = 20,
+				["points"] = 1990,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						1, -- [1]
+						29.35200000007171, -- [2]
+						"Dark Recital |cFFFF333311,953|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Diplomacy"] = {
+				["encounters"] = 18,
+				["points"] = 1780,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						9, -- [1]
+						28.55299999995623, -- [2]
+						"Dark Recital |cFFFF333311,665|r", -- [3]
+					}, -- [1]
+					{
+						14, -- [1]
+						118.3609999999171, -- [2]
+						"Dark Recital |cFFFF333311,874|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Dragonite"] = {
+				["encounters"] = 20,
+				["points"] = 1940,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						3, -- [1]
+						118.4079999999376, -- [2]
+						"Dark Recital |cFFFF333310,133|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						87.14300000004005, -- [2]
+						"Wrong Moves (DoT) |cFFFF33337,205|r", -- [3]
+					}, -- [2]
+					{
+						8, -- [1]
+						135.4049999999115, -- [2]
+						"Drain Essence (DoT) |cFFFF33334,659|r", -- [3]
+					}, -- [3]
+					{
+						10, -- [1]
+						132.9729999999981, -- [2]
+						"Evasive Lunge |cFFFF333318,300|r", -- [3]
+					}, -- [4]
+					{
+						14, -- [1]
+						79.3969999999972, -- [2]
+						"Wrong Moves (DoT) |cFFFF33338,542|r", -- [3]
+					}, -- [5]
+					{
+						19, -- [1]
+						226.189000000013, -- [2]
+						"Drain Essence (DoT) |cFFFF33334,659|r", -- [3]
+					}, -- [6]
+				},
+			},
+			["Brutang"] = {
+				["encounters"] = 19,
+				["points"] = 1850,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						2, -- [1]
+						27.93700000003446, -- [2]
+						"Dark Recital |cFFFF333311,788|r", -- [3]
+					}, -- [1]
+					{
+						8, -- [1]
+						217.7149999999674, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33332,855|r", -- [3]
+					}, -- [2]
+					{
+						18, -- [1]
+						30.14000000001397, -- [2]
+						"Evasive Lunge |cFFFF333315,630|r", -- [3]
+					}, -- [3]
+					{
+						18, -- [1]
+						205.7609999999404, -- [2]
+						"Prideful Eruption |cFFFF333313,466|r", -- [3]
+					}, -- [4]
+				},
+			},
+			["Orcbum"] = {
+				["encounters"] = 20,
+				["points"] = 1970,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						7, -- [1]
+						230.9830000000075, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33332,803|r", -- [3]
+					}, -- [1]
+					{
+						13, -- [1]
+						206.390000000014, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,752|r", -- [3]
+					}, -- [2]
+					{
+						16, -- [1]
+						27.03300000005402, -- [2]
+						"Dark Recital |cFFFF333311,768|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Lilkdog"] = {
+				["encounters"] = 20,
+				["points"] = 1950,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						33.33499999996275, -- [2]
+						"Dark Recital |cFFFF333311,294|r", -- [3]
+					}, -- [1]
+					{
+						8, -- [1]
+						113.1999999999534, -- [2]
+						"Evasive Lunge |cFFFF333330,807|r", -- [3]
+					}, -- [2]
+					{
+						11, -- [1]
+						134.7380000000121, -- [2]
+						"Evasive Lunge |cFFFF333330,232|r", -- [3]
+					}, -- [3]
+					{
+						12, -- [1]
+						189.6399999998976, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,735|r", -- [3]
+					}, -- [4]
+					{
+						16, -- [1]
+						4.351000000024214, -- [2]
+						"Melee |cFFFF333319,756|r", -- [3]
+					}, -- [5]
+				},
+			},
+			["Drmango"] = {
+				["encounters"] = 20,
+				["points"] = 2000,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Emosong"] = {
+				["encounters"] = 20,
+				["points"] = 1990,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						17, -- [1]
+						235.344000000041, -- [2]
+						"Drain Essence (DoT) |cFFFF33334,125|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Huskeryfloof"] = {
+				["encounters"] = 20,
+				["points"] = 1990,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						12, -- [1]
+						201.9169999998994, -- [2]
+						"Drain Essence (DoT) |cFFFF33334,882|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Bloodnofsky"] = {
+				["encounters"] = 20,
+				["points"] = 1990,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						12, -- [1]
+						119.6439999999711, -- [2]
+						"Dark Recital |cFFFF3333106|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Boomie"] = {
+				["encounters"] = 20,
+				["points"] = 2000,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Papisalad"] = {
+				["encounters"] = 20,
+				["points"] = 1990,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						20, -- [1]
+						396.4009999999544, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33332,944|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Toshmonk"] = {
+				["encounters"] = 20,
+				["points"] = 1990,
+				["class"] = "MONK",
+				["deaths"] = {
+					{
+						19, -- [1]
+						235.9790000000503, -- [2]
+						"Throw Food |cFFFF33335,191|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Scitron"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						3, -- [1]
+						74.50099999993108, -- [2]
+						"Wrong Moves |cFFFF33339,505|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Delpi"] = {
+				["encounters"] = 15,
+				["points"] = 1500,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Aveon"] = {
+				["encounters"] = 18,
+				["points"] = 1770,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						5, -- [1]
+						31.21599999989849, -- [2]
+						"Evasive Lunge |cFFFF333335,456|r", -- [3]
+					}, -- [1]
+					{
+						15, -- [1]
+						30.99199999996927, -- [2]
+						"Evasive Lunge |cFFFF333335,120|r", -- [3]
+					}, -- [2]
+					{
+						17, -- [1]
+						234.3660000000382, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,991|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Ngow"] = {
+				["encounters"] = 20,
+				["points"] = 1990,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						14, -- [1]
+						118.3609999999171, -- [2]
+						"Dark Recital |cFFFF333311,931|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Maserder"] = {
+				["encounters"] = 20,
+				["points"] = 2000,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Focalaire"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Downloaded"] = {
+				["encounters"] = 20,
+				["points"] = 1980,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+					{
+						7, -- [1]
+						120.3149999999441, -- [2]
+						"Dark Recital |cFFFF333311,849|r", -- [3]
+					}, -- [1]
+					{
+						13, -- [1]
+						224.1560000000754, -- [2]
+						"Drain Essence (DoT) |cFFFF33335,209|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Nerf"] = {
+				["encounters"] = 20,
+				["points"] = 1970,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+					{
+						2, -- [1]
+						80.55400000000373, -- [2]
+						"Wrong Moves |cFFFF33339,292|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						124.4409999999916, -- [2]
+						"Melee |cFFFF33339,874|r", -- [3]
+					}, -- [2]
+					{
+						20, -- [1]
+						362.6609999999637, -- [2]
+						"Melee |cFFFF333390,520|r", -- [3]
+					}, -- [3]
+				},
+			},
+			["Spoonerisms"] = {
+				["encounters"] = 20,
+				["points"] = 1890,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						2, -- [1]
+						95.49200000008568, -- [2]
+						"Melee |cFFFF333310,022|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						119.0629999999655, -- [2]
+						"Melee |cFFFF333311,284|r", -- [3]
+					}, -- [2]
+					{
+						6, -- [1]
+						169.4089999999851, -- [2]
+						"Duelist's Riposte |cFFFF33338,744|r", -- [3]
+					}, -- [3]
+					{
+						9, -- [1]
+						373.0770000000484, -- [2]
+						"Melee |cFFFF333330,117|r", -- [3]
+					}, -- [4]
+					{
+						11, -- [1]
+						28.0690000000177, -- [2]
+						"Dark Recital |cFFFF333310,371|r", -- [3]
+					}, -- [5]
+					{
+						11, -- [1]
+						123.8209999999963, -- [2]
+						"Melee |cFFFF33337,476|r", -- [3]
+					}, -- [6]
+					{
+						13, -- [1]
+						218.435999999987, -- [2]
+						"Melee |cFFFF333311,482|r", -- [3]
+					}, -- [7]
+					{
+						15, -- [1]
+						28.30199999990873, -- [2]
+						"Dark Recital |cFFFF333311,606|r", -- [3]
+					}, -- [8]
+					{
+						17, -- [1]
+						232.2070000000531, -- [2]
+						"Melee |cFFFF333315,104|r", -- [3]
+					}, -- [9]
+					{
+						18, -- [1]
+						202.8059999999823, -- [2]
+						"Duelist's Riposte |cFFFF333322,280|r", -- [3]
+					}, -- [10]
+				},
+			},
+			["Bit"] = {
+				["encounters"] = 18,
+				["points"] = 1770,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						3, -- [1]
+						31.27500000002328, -- [2]
+						"Evasive Lunge |cFFFF333335,623|r", -- [3]
+					}, -- [1]
+					{
+						4, -- [1]
+						112.1689999999944, -- [2]
+						"Evasive Lunge |cFFFF333334,997|r", -- [3]
+					}, -- [2]
+					{
+						6, -- [1]
+						27.59400000004098, -- [2]
+						"Dark Recital |cFFFF33338,823|r", -- [3]
+					}, -- [3]
+				},
+			},
+		},
+		["diff"] = 15,
 	},
 	["239314"] = {
 		["hash"] = "239314",
@@ -2436,6 +3169,18 @@ DeathGraphsDBEndurance = {
 		["name"] = "Shriekwing",
 		["id"] = 2393,
 		["diff"] = 14,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 1,
+			["zone"] = "Castle Nathria",
+			["id"] = 2398,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Shriekwing",
+			["encounter"] = "Shriekwing",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
+		},
 		["player_db"] = {
 			["Hoofshots"] = {
 				["encounters"] = 5,
@@ -2670,24 +3415,24 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Delpi"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "MAGE",
-				["deaths"] = {
-					{
-						1, -- [1]
-						106.0729999999749, -- [2]
-						"Painful Memories |cFFFF3333523|r", -- [3]
-					}, -- [1]
-				},
-			},
 			["Jessific"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
+			},
+			["Lilkdog"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["deaths"] = {
+					{
+						2, -- [1]
+						235.0970000000089, -- [2]
+						"Anima Web (DoT) |cFFFF333320,671|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "PALADIN",
 			},
 			["Idc"] = {
 				["encounters"] = 7,
@@ -2782,17 +3527,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
-			["Lilkdog"] = {
-				["encounters"] = 6,
-				["points"] = 590,
+			["Delpi"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["class"] = "MAGE",
 				["deaths"] = {
 					{
-						2, -- [1]
-						235.0970000000089, -- [2]
-						"Anima Web (DoT) |cFFFF333320,671|r", -- [3]
+						1, -- [1]
+						106.0729999999749, -- [2]
+						"Painful Memories |cFFFF3333523|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "PALADIN",
 			},
 			["Ngow"] = {
 				["encounters"] = 6,
@@ -2864,24 +3609,24 @@ DeathGraphsDBEndurance = {
 				["class"] = "DRUID",
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 1,
-			["zone"] = "Castle Nathria",
-			["id"] = 2398,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Shriekwing",
-			["encounter"] = "Shriekwing",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
-		},
 	},
 	["239315"] = {
 		["hash"] = "239315",
 		["type"] = "endurance",
 		["name"] = "Shriekwing",
 		["id"] = 2393,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 1,
+			["zone"] = "Castle Nathria",
+			["id"] = 2398,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Shriekwing",
+			["diff"] = 15,
+			["ej_instance_id"] = 1190,
+			["encounter"] = "Shriekwing",
+		},
 		["player_db"] = {
 			["Tumtumm"] = {
 				["encounters"] = 10,
@@ -3379,18 +4124,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 1,
-			["zone"] = "Castle Nathria",
-			["id"] = 2398,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Shriekwing",
-			["diff"] = 15,
-			["ej_instance_id"] = 1190,
-			["encounter"] = "Shriekwing",
-		},
 		["diff"] = 15,
 	},
 	["242214"] = {
@@ -3399,6 +4132,18 @@ DeathGraphsDBEndurance = {
 		["name"] = "Sun King's Salvation",
 		["id"] = 2422,
 		["diff"] = 14,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 3,
+			["zone"] = "Castle Nathria",
+			["id"] = 2402,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Sun King's Salvation",
+			["encounter"] = "Sun King's Salvation",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
+		},
 		["player_db"] = {
 			["Emosong"] = {
 				["encounters"] = 2,
@@ -3407,12 +4152,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Scitron"] = {
+			["Spoonerisms"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
+				["class"] = "PALADIN",
 			},
 			["Delpi-Area52"] = {
 				["encounters"] = 2,
@@ -3452,24 +4197,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Spoonerisms"] = {
+			["Dragonite"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "PALADIN",
+				["class"] = "DEMONHUNTER",
 			},
-			["Focalaire"] = {
+			["Brutang"] = {
 				["encounters"] = 2,
-				["points"] = 190,
+				["points"] = 200,
 				["deaths"] = {
-					{
-						3, -- [1]
-						315.9729999999981, -- [2]
-						"Ember Blast |cFFFF333329,974|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "MAGE",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Aveon"] = {
 				["encounters"] = 2,
@@ -3483,14 +4223,14 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Brutang"] = {
+			["Idc"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+				["class"] = "DRUID",
 			},
-			["Idc"] = {
+			["Boomie"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
@@ -3516,12 +4256,17 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
-			["Boomie"] = {
+			["Focalaire"] = {
 				["encounters"] = 2,
-				["points"] = 200,
+				["points"] = 190,
 				["deaths"] = {
+					{
+						3, -- [1]
+						315.9729999999981, -- [2]
+						"Ember Blast |cFFFF333329,974|r", -- [3]
+					}, -- [1]
 				},
-				["class"] = "DRUID",
+				["class"] = "MAGE",
 			},
 			["Yukios"] = {
 				["encounters"] = 2,
@@ -3535,25 +4280,13 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "SHAMAN",
 			},
-			["Dragonite"] = {
+			["Scitron"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
+				["class"] = "SHAMAN",
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 3,
-			["zone"] = "Castle Nathria",
-			["id"] = 2402,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Sun King's Salvation",
-			["encounter"] = "Sun King's Salvation",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
 		},
 	},
 	["242215"] = {
@@ -3562,10 +4295,22 @@ DeathGraphsDBEndurance = {
 		["name"] = "Sun King's Salvation",
 		["id"] = 2422,
 		["diff"] = 15,
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 3,
+			["zone"] = "Castle Nathria",
+			["id"] = 2402,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Sun King's Salvation",
+			["encounter"] = "Sun King's Salvation",
+			["ej_instance_id"] = 1190,
+			["diff"] = 15,
+		},
 		["player_db"] = {
 			["Tumtumm"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -3576,15 +4321,20 @@ DeathGraphsDBEndurance = {
 				["class"] = "MONK",
 			},
 			["Hoofshots"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
+					{
+						1, -- [1]
+						173.8969999999972, -- [2]
+						"Smoldering Remnants (DoT) |cFFFF33339,119|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "HUNTER",
 			},
 			["Azian"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "WARLOCK",
@@ -3609,8 +4359,8 @@ DeathGraphsDBEndurance = {
 				["class"] = "PRIEST",
 			},
 			["Diplomacy"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
 					{
 						3, -- [1]
@@ -3621,15 +4371,15 @@ DeathGraphsDBEndurance = {
 				["class"] = "DEATHKNIGHT",
 			},
 			["Spoonerisms"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "PALADIN",
 			},
 			["Brutang"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -3640,8 +4390,8 @@ DeathGraphsDBEndurance = {
 				["class"] = "DEATHKNIGHT",
 			},
 			["Orcbum"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
 					{
 						2, -- [1]
@@ -3652,81 +4402,96 @@ DeathGraphsDBEndurance = {
 				["class"] = "WARRIOR",
 			},
 			["Lilkdog"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
+					{
+						1, -- [1]
+						163.1899999999441, -- [2]
+						"Blazing Surge |cFFFF333321,692|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "PALADIN",
 			},
 			["Bit"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "ROGUE",
 			},
 			["Emosong"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "ROGUE",
 			},
 			["Papisalad"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 480,
 				["deaths"] = {
 					{
 						4, -- [1]
 						165.9440000000177, -- [2]
 						"Burning Remnants (DoT) |cFFFF33331,410|r", -- [3]
 					}, -- [1]
+					{
+						2, -- [1]
+						372.9799999999814, -- [2]
+						"Crimson Flurry |cFFFF33331,013|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "HUNTER",
 			},
 			["Bloodnofsky"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
 				},
 				["class"] = "ROGUE",
 			},
 			["Boomie"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
 			["Downloaded"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 480,
 				["deaths"] = {
 					{
 						3, -- [1]
 						140.8040000000037, -- [2]
 						"Ember Blast |cFFFF333351,615|r", -- [3]
 					}, -- [1]
+					{
+						1, -- [1]
+						163.1899999999441, -- [2]
+						"Blazing Surge |cFFFF333321,287|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "WARLOCK",
 			},
 			["Nerf"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
 			["Scitron"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "SHAMAN",
 			},
 			["Drmango"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
 					{
 						4, -- [1]
@@ -3737,78 +4502,76 @@ DeathGraphsDBEndurance = {
 				["class"] = "MAGE",
 			},
 			["Aveon"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
+					{
+						2, -- [1]
+						375.4579999999842, -- [2]
+						"Crimson Flurry |cFFFF33335,015|r", -- [3]
+					}, -- [1]
 				},
 				["class"] = "DEMONHUNTER",
 			},
 			["Ngow"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
 			["Maserder"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
 			},
 			["Huskeryfloof"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
 			["Toshmonk"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 5,
+				["points"] = 480,
 				["deaths"] = {
 					{
 						2, -- [1]
 						173.4930000000168, -- [2]
 						"Ember Blast |cFFFF333326,817|r", -- [3]
 					}, -- [1]
+					{
+						2, -- [1]
+						373.9729999999981, -- [2]
+						"Crimson Flurry |cFFFF33335,252|r", -- [3]
+					}, -- [2]
 				},
 				["class"] = "MONK",
 			},
 			["Focalaire"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
 			},
 			["Delpi"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
 			},
 			["Dragonite"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 5,
+				["points"] = 500,
 				["deaths"] = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 3,
-			["zone"] = "Castle Nathria",
-			["id"] = 2402,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Sun King's Salvation",
-			["encounter"] = "Sun King's Salvation",
-			["ej_instance_id"] = 1190,
-			["diff"] = 15,
 		},
 	},
 	["241814"] = {
@@ -3817,6 +4580,19 @@ DeathGraphsDBEndurance = {
 		["name"] = "Huntsman Altimor",
 		["id"] = 2418,
 		["diff"] = 14,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 4,
+			["zone"] = "Castle Nathria",
+			["encounter"] = "Huntsman Altimor",
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Huntsman Altimor",
+			["diff"] = 14,
+			["id"] = 2418,
+			["ej_instance_id"] = 1190,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Emosong"] = {
 				["encounters"] = 3,
@@ -3825,12 +4601,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Dragonite"] = {
+			["Scitron"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["deaths"] = {
 				},
-				["class"] = "DEMONHUNTER",
+				["class"] = "SHAMAN",
 			},
 			["Delpi-Area52"] = {
 				["encounters"] = 3,
@@ -3880,26 +4656,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Scitron"] = {
+			["Spoonerisms"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
-			},
-			["Boomie"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Aveon"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "DEMONHUNTER",
+				["class"] = "PALADIN",
 			},
 			["Brutang"] = {
 				["encounters"] = 3,
@@ -3913,12 +4675,26 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
+			["Aveon"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+			},
 			["Idc"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
+			},
+			["Maserder"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
 			},
 			["Yukios"] = {
 				["encounters"] = 3,
@@ -3934,6 +4710,13 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MONK",
 			},
+			["Boomie"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
 			["Focalaire"] = {
 				["encounters"] = 1,
 				["points"] = 90,
@@ -3946,33 +4729,13 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
-			["Maserder"] = {
+			["Dragonite"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
+				["class"] = "DEMONHUNTER",
 			},
-			["Spoonerisms"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-		},
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 4,
-			["zone"] = "Castle Nathria",
-			["encounter"] = "Huntsman Altimor",
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Huntsman Altimor",
-			["diff"] = 14,
-			["id"] = 2418,
-			["ej_instance_id"] = 1190,
-			["killed"] = true,
 		},
 	},
 	["239414"] = {
@@ -3981,6 +4744,18 @@ DeathGraphsDBEndurance = {
 		["name"] = "Sludgefist",
 		["id"] = 2394,
 		["diff"] = 14,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 8,
+			["zone"] = "Castle Nathria",
+			["id"] = 2399,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "Sludgefist",
+			["encounter"] = "Sludgefist",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
+		},
 		["player_db"] = {
 			["Hoofshots"] = {
 				["encounters"] = 12,
@@ -4409,18 +5184,6 @@ DeathGraphsDBEndurance = {
 				["class"] = "DRUID",
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 8,
-			["zone"] = "Castle Nathria",
-			["id"] = 2399,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "Sludgefist",
-			["encounter"] = "Sludgefist",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
-		},
 	},
 	["242614"] = {
 		["hash"] = "242614",
@@ -4428,6 +5191,18 @@ DeathGraphsDBEndurance = {
 		["name"] = "The Council of Blood",
 		["id"] = 2426,
 		["diff"] = 14,
+		["boss_table"] = {
+			["diff_string"] = "Normal",
+			["index"] = 7,
+			["zone"] = "Castle Nathria",
+			["id"] = 2412,
+			["mapid"] = 2296,
+			["try_number"] = 1,
+			["name"] = "The Council of Blood",
+			["encounter"] = "The Council of Blood",
+			["ej_instance_id"] = 1190,
+			["diff"] = 14,
+		},
 		["player_db"] = {
 			["Delpix-Area52"] = {
 				["encounters"] = 5,
@@ -4715,109 +5490,92 @@ DeathGraphsDBEndurance = {
 				["class"] = "DRUID",
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Normal",
-			["index"] = 7,
-			["zone"] = "Castle Nathria",
-			["id"] = 2412,
-			["mapid"] = 2296,
-			["try_number"] = 1,
-			["name"] = "The Council of Blood",
-			["encounter"] = "The Council of Blood",
-			["ej_instance_id"] = 1190,
-			["diff"] = 14,
-		},
 	},
 }
 DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 31330,
-				["timeofdeath"] = 165.9440000000177,
-				["name"] = "Papisalad",
-				["time"] = 1608184655.927,
-				["class"] = "HUNTER",
-				["timestring"] = "2m 45s",
+				["maxhealth"] = 31560,
+				["timeofdeath"] = 112.9100000000326,
+				["name"] = "Tumtumm",
 				["events"] = {
 					{
-						false, -- [1]
-						48438, -- [2]
-						205, -- [3]
-						1608184651.693, -- [4]
-						19947, -- [5]
-						"Ngow", -- [6]
+						true, -- [1]
+						346651, -- [2]
+						5277, -- [3]
+						1608271579.21, -- [4]
+						23957, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						48438, -- [2]
-						325, -- [3]
-						1608184651.714, -- [4]
-						20272, -- [5]
-						"Boomie", -- [6]
+						81269, -- [2]
+						818, -- [3]
+						1608271579.954, -- [4]
+						24775, -- [5]
+						"Ngow", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						48438, -- [2]
-						257, -- [3]
-						1608184651.776, -- [4]
-						20529, -- [5]
-						"Huskeryfloof", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						703, -- [3]
+						1608271580.05, -- [4]
+						24072, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
-						true, -- [1]
-						326430, -- [2]
-						1175, -- [3]
-						1608184651.8, -- [4]
-						19354, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
 						false, -- [1]
 						48438, -- [2]
-						19, -- [3]
-						1608184651.839, -- [4]
-						19373, -- [5]
+						364, -- [3]
+						1608271580.182, -- [4]
+						24436, -- [5]
 						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [5]
+					}, -- [4]
 					{
 						true, -- [1]
-						326456, -- [2]
-						1409, -- [3]
-						1608184651.899, -- [4]
-						17964, -- [5]
-						"Shade of Kael'thas", -- [6]
+						346651, -- [2]
+						5278, -- [3]
+						1608271580.216, -- [4]
+						19158, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						774, -- [2]
+						601, -- [3]
+						1608271580.368, -- [4]
+						19759, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						774, -- [2]
-						585, -- [3]
-						1608184652.015, -- [4]
-						18549, -- [5]
+						207386, -- [2]
+						167, -- [3]
+						1608271580.459, -- [4]
+						19926, -- [5]
 						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -4826,83 +5584,81 @@ DeathGraphsDBCurrent = {
 					}, -- [7]
 					{
 						false, -- [1]
-						191840, -- [2]
-						71, -- [3]
-						1608184652.148, -- [4]
-						18620, -- [5]
-						"Toshmonk", -- [6]
+						81269, -- [2]
+						1082, -- [3]
+						1608271580.607, -- [4]
+						21008, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						61295, -- [2]
-						248, -- [3]
-						1608184652.379, -- [4]
-						18868, -- [5]
-						"Scitron", -- [6]
+						48438, -- [2]
+						720, -- [3]
+						1608271580.909, -- [4]
+						21728, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [9]
 					{
-						false, -- [1]
-						48438, -- [2]
-						326, -- [3]
-						1608184652.57, -- [4]
-						19194, -- [5]
-						"Boomie", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						703, -- [3]
+						1608271581.055, -- [4]
+						21025, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
+						true, -- [1]
+						346651, -- [2]
+						5277, -- [3]
+						1608271581.218, -- [4]
+						15748, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
 						false, -- [1]
-						8936, -- [2]
-						294, -- [3]
-						1608184652.71, -- [4]
-						19488, -- [5]
+						48438, -- [2]
+						342, -- [3]
+						1608271581.642, -- [4]
+						16090, -- [5]
 						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1175, -- [3]
-						1608184652.812, -- [4]
-						18313, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [12]
 					{
-						true, -- [1]
-						326456, -- [2]
-						1409, -- [3]
-						1608184652.913, -- [4]
-						16904, -- [5]
-						"Shade of Kael'thas", -- [6]
+						false, -- [1]
+						81269, -- [2]
+						601, -- [3]
+						1608271581.752, -- [4]
+						16691, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						119611, -- [2]
-						382, -- [3]
-						1608184653.194, -- [4]
-						17286, -- [5]
-						"Toshmonk", -- [6]
+						48438, -- [2]
+						402, -- [3]
+						1608271581.774, -- [4]
+						17093, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -4910,46 +5666,46 @@ DeathGraphsDBCurrent = {
 					}, -- [14]
 					{
 						false, -- [1]
-						48438, -- [2]
-						312, -- [3]
-						1608184653.433, -- [4]
-						17598, -- [5]
-						"Boomie", -- [6]
+						207386, -- [2]
+						138, -- [3]
+						1608271581.979, -- [4]
+						17231, -- [5]
+						"Ngow", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184653.58, -- [4]
-						17598, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						704, -- [3]
+						1608271582.056, -- [4]
+						16527, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						326430, -- [2]
-						1174, -- [3]
-						1608184653.81, -- [4]
-						16424, -- [5]
-						"Shade of Kael'thas", -- [6]
+						false, -- [1]
+						116670, -- [2]
+						2233, -- [3]
+						1608271582.101, -- [4]
+						18760, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						191840, -- [2]
-						71, -- [3]
-						1608184653.9, -- [4]
-						16495, -- [5]
+						191894, -- [2]
+						1226, -- [3]
+						1608271582.128, -- [4]
+						19986, -- [5]
 						"Toshmonk", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -4958,23 +5714,421 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						true, -- [1]
-						326456, -- [2]
-						1410, -- [3]
-						1608184653.9, -- [4]
-						15085, -- [5]
-						"Shade of Kael'thas", -- [6]
+						346651, -- [2]
+						5278, -- [3]
+						1608271582.218, -- [4]
+						14708, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
+						774, -- [2]
+						521, -- [3]
+						1608271582.273, -- [4]
+						15229, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
 						48438, -- [2]
-						297, -- [3]
-						1608184654.301, -- [4]
-						15382, -- [5]
+						299, -- [3]
+						1608271582.36, -- [4]
+						15528, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						207386, -- [2]
+						184, -- [3]
+						1608271582.456, -- [4]
+						15712, -- [5]
 						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						794, -- [3]
+						1608271582.499, -- [4]
+						16506, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						322101, -- [2]
+						2818, -- [3]
+						1608271582.69, -- [4]
+						19324, -- [5]
+						"Tumtumm", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						8936, -- [2]
+						4311, -- [3]
+						1608271582.728, -- [4]
+						23635, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						774, -- [2]
+						1118, -- [3]
+						1608271582.861, -- [4]
+						24753, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						774, -- [2]
+						1226, -- [3]
+						1608271582.931, -- [4]
+						25979, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						704, -- [3]
+						1608271583.052, -- [4]
+						25275, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						48438, -- [2]
+						319, -- [3]
+						1608271583.095, -- [4]
+						25594, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						409, -- [3]
+						1608271583.214, -- [4]
+						26003, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						81269, -- [2]
+						548, -- [3]
+						1608271583.531, -- [4]
+						26551, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						327610, -- [2]
+						36035, -- [3]
+						1608271583.678, -- [4]
+						1, -- [5]
+						"Lord Stavros", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						9484, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Tumtumm", -- [6]
+					}, -- [33]
+				},
+				["class"] = "MONK",
+				["timestring"] = "1m 52s",
+				["time"] = 1608271583.678,
+			}, -- [1]
+			{
+				["maxhealth"] = 48580,
+				["timeofdeath"] = 362.6609999999637,
+				["name"] = "Nerf",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1608271836.535, -- [4]
+						0, -- [5]
+						"Ngow", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						33763, -- [2]
+						422, -- [3]
+						1608271830.08, -- [4]
+						59422, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						124682, -- [2]
+						1242, -- [3]
+						1608271830.158, -- [4]
+						60664, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						157982, -- [2]
+						162, -- [3]
+						1608271830.317, -- [4]
+						60826, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						8936, -- [2]
+						476, -- [3]
+						1608271830.376, -- [4]
+						61302, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						143924, -- [2]
+						105, -- [3]
+						1608271830.584, -- [4]
+						61407, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						33763, -- [2]
+						422, -- [3]
+						1608271830.743, -- [4]
+						61829, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						55078, -- [2]
+						218, -- [3]
+						1608271830.786, -- [4]
+						62047, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						55078, -- [2]
+						218, -- [3]
+						1608271830.948, -- [4]
+						62265, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1410, -- [3]
+						1608271831.03, -- [4]
+						60855, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						157982, -- [2]
+						146, -- [3]
+						1608271831.19, -- [4]
+						61001, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						191840, -- [2]
+						190, -- [3]
+						1608271831.224, -- [4]
+						61191, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						1, -- [2]
+						14485, -- [3]
+						1608271831.389, -- [4]
+						61191, -- [5]
+						"Castellan Niklaus", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						33763, -- [2]
+						422, -- [3]
+						1608271831.389, -- [4]
+						61613, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						81269, -- [2]
+						537, -- [3]
+						1608271831.461, -- [4]
+						47665, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						8936, -- [2]
+						476, -- [3]
+						1608271831.73, -- [4]
+						48141, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						96, -- [3]
+						1608271831.798, -- [4]
+						48237, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						4, -- [1]
+						334909, -- [2]
+						5, -- [3]
+						1608271831.798, -- [4]
+						48237, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						191840, -- [2]
+						2113, -- [3]
+						1608271831.877, -- [4]
+						50350, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						55078, -- [2]
+						207, -- [3]
+						1608271831.904, -- [4]
+						50557, -- [5]
+						"Nerf", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -4982,83 +6136,83 @@ DeathGraphsDBCurrent = {
 					}, -- [20]
 					{
 						false, -- [1]
-						116670, -- [2]
-						2147, -- [3]
-						1608184654.301, -- [4]
-						17529, -- [5]
-						"Toshmonk", -- [6]
+						55078, -- [2]
+						218, -- [3]
+						1608271831.974, -- [4]
+						50775, -- [5]
+						"Nerf", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
+						true, -- [1]
+						334909, -- [2]
+						1763, -- [3]
+						1608271832.02, -- [4]
+						49012, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
 						false, -- [1]
-						8936, -- [2]
-						144, -- [3]
-						1608184654.447, -- [4]
-						17673, -- [5]
+						774, -- [2]
+						843, -- [3]
+						1608271832.042, -- [4]
+						49855, -- [5]
 						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						328579, -- [2]
-						7338, -- [3]
-						1608184654.602, -- [4]
-						10335, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						774, -- [2]
-						614, -- [3]
-						1608184654.602, -- [4]
-						10949, -- [5]
-						"Boomie", -- [6]
+						33763, -- [2]
+						422, -- [3]
+						1608271832.067, -- [4]
+						50277, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [24]
 					{
-						true, -- [1]
-						326430, -- [2]
-						1175, -- [3]
-						1608184654.802, -- [4]
-						9774, -- [5]
-						"Shade of Kael'thas", -- [6]
+						false, -- [1]
+						191840, -- [2]
+						95, -- [3]
+						1608271832.575, -- [4]
+						50372, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						326456, -- [2]
-						1410, -- [3]
-						1608184654.915, -- [4]
-						8364, -- [5]
-						"Shade of Kael'thas", -- [6]
+						false, -- [1]
+						55078, -- [2]
+						217, -- [3]
+						1608271832.681, -- [4]
+						50589, -- [5]
+						"Nerf", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
-						119611, -- [2]
-						382, -- [3]
-						1608184654.946, -- [4]
-						8746, -- [5]
-						"Toshmonk", -- [6]
+						33763, -- [2]
+						422, -- [3]
+						1608271832.722, -- [4]
+						51011, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5066,11 +6220,11 @@ DeathGraphsDBCurrent = {
 					}, -- [27]
 					{
 						false, -- [1]
-						48438, -- [2]
-						283, -- [3]
-						1608184655.15, -- [4]
-						9029, -- [5]
-						"Boomie", -- [6]
+						143924, -- [2]
+						63, -- [3]
+						1608271833.01, -- [4]
+						51074, -- [5]
+						"Nerf", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5078,23 +6232,23 @@ DeathGraphsDBCurrent = {
 					}, -- [28]
 					{
 						true, -- [1]
-						328579, -- [2]
-						7342, -- [3]
-						1608184655.59, -- [4]
-						1687, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						334909, -- [2]
+						1763, -- [3]
+						1608271833.032, -- [4]
+						49311, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						false, -- [1]
-						191840, -- [2]
-						72, -- [3]
-						1608184655.646, -- [4]
-						1759, -- [5]
-						"Toshmonk", -- [6]
+						8936, -- [2]
+						234, -- [3]
+						1608271833.054, -- [4]
+						49545, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5102,100 +6256,510 @@ DeathGraphsDBCurrent = {
 					}, -- [30]
 					{
 						true, -- [1]
-						326430, -- [2]
-						1175, -- [3]
-						1608184655.816, -- [4]
-						584, -- [5]
-						"Shade of Kael'thas", -- [6]
+						1, -- [2]
+						15179, -- [3]
+						1608271833.171, -- [4]
+						49544, -- [5]
+						"Castellan Niklaus", -- [6]
 						nil, -- [7]
-						4, -- [8]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						326456, -- [2]
-						1410, -- [3]
-						1608184655.906, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
+						1, -- [2]
+						90520, -- [3]
+						1608271833.407, -- [4]
+						34365, -- [5]
+						"Veteran Stoneguard", -- [6]
+						22530, -- [7]
+						1, -- [8]
 						false, -- [9]
-						826, -- [10]
+						33625, -- [10]
+					}, -- [32]
+					{
+						false, -- [1]
+						206967, -- [2]
+						22530, -- [3]
+						1608271833.429, -- [4]
+						34365, -- [5]
+						"Nerf", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						55233, -- [2]
+						1, -- [3]
+						1608271822.114, -- [4]
+						0, -- [5]
+						"Nerf", -- [6]
+					}, -- [34]
+				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "6m 2s",
+				["time"] = 1608271833.429,
+			}, -- [2]
+			{
+				["maxhealth"] = 31020,
+				["timeofdeath"] = 396.4009999999544,
+				["name"] = "Papisalad",
+				["events"] = {
+					{
+						true, -- [1]
+						334909, -- [2]
+						2578, -- [3]
+						1608271859.076, -- [4]
+						22456, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						576, -- [3]
+						1608271859.165, -- [4]
+						23032, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						8936, -- [2]
+						166, -- [3]
+						1608271859.594, -- [4]
+						23198, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						269, -- [3]
+						1608271860.033, -- [4]
+						23467, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2578, -- [3]
+						1608271860.086, -- [4]
+						20889, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						40, -- [3]
+						1608271860.165, -- [4]
+						20929, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271860.526, -- [4]
+						20996, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						774, -- [2]
+						600, -- [3]
+						1608271860.914, -- [4]
+						21596, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2579, -- [3]
+						1608271861.087, -- [4]
+						19017, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						8936, -- [2]
+						164, -- [3]
+						1608271861.286, -- [4]
+						19181, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						162530, -- [2]
+						183, -- [3]
+						1608271861.532, -- [4]
+						19364, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						4, -- [1]
+						334909, -- [2]
+						8, -- [3]
+						1608271861.842, -- [4]
+						19364, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2944, -- [3]
+						1608271862.091, -- [4]
+						16420, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271862.276, -- [4]
+						16487, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2945, -- [3]
+						1608271863.117, -- [4]
+						13542, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						545, -- [3]
+						1608271863.476, -- [4]
+						14087, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						162530, -- [2]
+						185, -- [3]
+						1608271863.498, -- [4]
+						14272, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271864.035, -- [4]
+						14339, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2944, -- [3]
+						1608271864.113, -- [4]
+						11395, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						162530, -- [2]
+						181, -- [3]
+						1608271864.153, -- [4]
+						11576, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						330968, -- [2]
+						5554, -- [3]
+						1608271864.616, -- [4]
+						6022, -- [5]
+						"Begrudging Waiter", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						162530, -- [2]
+						190, -- [3]
+						1608271864.805, -- [4]
+						6212, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						344, -- [3]
+						1608271865.093, -- [4]
+						6556, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2948, -- [3]
+						1608271865.116, -- [4]
+						3608, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						162530, -- [2]
+						189, -- [3]
+						1608271865.453, -- [4]
+						3797, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271865.77, -- [4]
+						3864, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						330, -- [3]
+						1608271865.983, -- [4]
+						4194, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						774, -- [2]
+						546, -- [3]
+						1608271866.062, -- [4]
+						4740, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2947, -- [3]
+						1608271866.117, -- [4]
+						1793, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						191840, -- [2]
+						768, -- [3]
+						1608271866.747, -- [4]
+						2561, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						48438, -- [2]
+						318, -- [3]
+						1608271866.875, -- [4]
+						2879, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2944, -- [3]
+						1608271867.144, -- [4]
+						1, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						65, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						281195, -- [2]
-						1, -- [3]
-						1608184650.552, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
 						"Papisalad", -- [6]
 					}, -- [33]
 				},
-			}, -- [1]
+				["class"] = "HUNTER",
+				["timestring"] = "6m 36s",
+				["time"] = 1608271867.169,
+			}, -- [3]
 			{
-				["maxhealth"] = 28846,
-				["timeofdeath"] = 339.8699999999953,
-				["name"] = "Drmango",
-				["time"] = 1608184829.853,
-				["class"] = "MAGE",
-				["timestring"] = "5m 39s",
+				["maxhealth"] = 49698,
+				["timeofdeath"] = 500.9469999999274,
+				["name"] = "Orcbum",
 				["events"] = {
 					{
-						false, -- [1]
-						325118, -- [2]
-						128, -- [3]
-						1608184815.196, -- [4]
-						10808, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1608271975.817, -- [4]
+						0, -- [5]
+						"Ngow", -- [6]
 					}, -- [1]
 					{
-						true, -- [1]
-						341475, -- [2]
-						1004, -- [3]
-						1608184815.573, -- [4]
-						9804, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						false, -- [1]
+						190456, -- [2]
+						427, -- [3]
+						1608271968.605, -- [4]
+						49698, -- [5]
+						"Orcbum", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						48438, -- [2]
-						252, -- [3]
-						1608184815.721, -- [4]
-						10056, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1075, -- [3]
+						1608271968.605, -- [4]
+						49270, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						647, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [3]
 					{
-						true, -- [1]
-						341475, -- [2]
-						1003, -- [3]
-						1608184816.574, -- [4]
-						9089, -- [5]
-						"Bleakwing Assassin", -- [6]
+						false, -- [1]
+						188550, -- [2]
+						299, -- [3]
+						1608271968.89, -- [4]
+						49569, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
 						48438, -- [2]
-						241, -- [3]
-						1608184816.574, -- [4]
-						9330, -- [5]
+						355, -- [3]
+						1608271968.93, -- [4]
+						49698, -- [5]
 						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5204,23 +6768,437 @@ DeathGraphsDBCurrent = {
 					}, -- [5]
 					{
 						false, -- [1]
-						325118, -- [2]
-						128, -- [3]
-						1608184817.23, -- [4]
-						9458, -- [5]
-						"Lyuna", -- [6]
+						48438, -- [2]
+						684, -- [3]
+						1608271968.99, -- [4]
+						49698, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						320009, -- [2]
+						22, -- [3]
+						1608271969.636, -- [4]
+						49698, -- [5]
+						"Huskeryfloof", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						320009, -- [2]
+						68, -- [3]
+						1608271969.636, -- [4]
+						49698, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						190456, -- [2]
+						492, -- [3]
+						1608271969.636, -- [4]
+						49698, -- [5]
+						"Orcbum", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1075, -- [3]
+						1608271969.636, -- [4]
+						49205, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						582, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						188550, -- [2]
+						298, -- [3]
+						1608271969.755, -- [4]
+						49503, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [6]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						340, -- [3]
+						1608271969.803, -- [4]
+						49698, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
 					{
 						false, -- [1]
 						774, -- [2]
-						569, -- [3]
-						1608184817.314, -- [4]
-						10027, -- [5]
+						1036, -- [3]
+						1608271969.803, -- [4]
+						49698, -- [5]
 						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						331, -- [3]
+						1608271969.851, -- [4]
+						49698, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						320009, -- [2]
+						33, -- [3]
+						1608271969.896, -- [4]
+						49698, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						320009, -- [2]
+						103, -- [3]
+						1608271969.896, -- [4]
+						49698, -- [5]
+						"Huskeryfloof", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						190456, -- [2]
+						5296, -- [3]
+						1608271969.896, -- [4]
+						49698, -- [5]
+						"Orcbum", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						346790, -- [2]
+						42580, -- [3]
+						1608271969.896, -- [4]
+						12550, -- [5]
+						"Veteran Stoneguard", -- [6]
+						5432, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						191840, -- [2]
+						68, -- [3]
+						1608271970.085, -- [4]
+						12618, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						207386, -- [2]
+						161, -- [3]
+						1608271970.305, -- [4]
+						12779, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						143924, -- [2]
+						884, -- [3]
+						1608271970.412, -- [4]
+						13663, -- [5]
+						"Orcbum", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						188550, -- [2]
+						299, -- [3]
+						1608271970.622, -- [4]
+						13962, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2150, -- [3]
+						1608271970.622, -- [4]
+						11812, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						324, -- [3]
+						1608271970.664, -- [4]
+						12136, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						326, -- [3]
+						1608271970.705, -- [4]
+						12462, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						774, -- [2]
+						581, -- [3]
+						1608271970.805, -- [4]
+						13043, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						188550, -- [2]
+						299, -- [3]
+						1608271971.48, -- [4]
+						13342, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						309, -- [3]
+						1608271971.515, -- [4]
+						13651, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						48438, -- [2]
+						321, -- [3]
+						1608271971.577, -- [4]
+						13972, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						143924, -- [2]
+						247, -- [3]
+						1608271971.639, -- [4]
+						14219, -- [5]
+						"Orcbum", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2150, -- [3]
+						1608271971.639, -- [4]
+						12069, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						48438, -- [2]
+						46, -- [3]
+						1608271971.664, -- [4]
+						12115, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						1, -- [2]
+						69144, -- [3]
+						1608271971.664, -- [4]
+						12115, -- [5]
+						"Veteran Stoneguard", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						57029, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						871, -- [2]
+						1, -- [3]
+						1608271961.661, -- [4]
+						0, -- [5]
+						"Orcbum", -- [6]
+					}, -- [34]
+				},
+				["class"] = "WARRIOR",
+				["timestring"] = "8m 20s",
+				["time"] = 1608271971.715,
+			}, -- [4]
+			{
+				["maxhealth"] = 48580,
+				["timeofdeath"] = 504.0450000000419,
+				["name"] = "Nerf",
+				["events"] = {
+					{
+						false, -- [1]
+						55078, -- [2]
+						145, -- [3]
+						1608271972.709, -- [4]
+						42265, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						33778, -- [2]
+						2415, -- [3]
+						1608271972.736, -- [4]
+						44680, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						1300, -- [3]
+						1608271972.837, -- [4]
+						45980, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						1, -- [2]
+						12048, -- [3]
+						1608271973.005, -- [4]
+						45980, -- [5]
+						"Castellan Niklaus", -- [6]
+						7136, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						77535, -- [2]
+						7136, -- [3]
+						1608271973.005, -- [4]
+						45980, -- [5]
+						"Nerf", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						77535, -- [2]
+						0, -- [3]
+						1608271973.005, -- [4]
+						41068, -- [5]
+						"Nerf", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						33763, -- [2]
+						269, -- [3]
+						1608271973.158, -- [4]
+						41337, -- [5]
+						"Ngow", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5228,22 +7206,826 @@ DeathGraphsDBCurrent = {
 					}, -- [7]
 					{
 						false, -- [1]
+						33763, -- [2]
+						345, -- [3]
+						1608271973.27, -- [4]
+						41682, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						55078, -- [2]
+						152, -- [3]
+						1608271973.288, -- [4]
+						41834, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						188550, -- [2]
+						390, -- [3]
+						1608271973.288, -- [4]
+						42224, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						45470, -- [2]
+						20569, -- [3]
+						1608271973.425, -- [4]
+						48580, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1699, -- [3]
+						1608271973.565, -- [4]
+						46881, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						191840, -- [2]
+						60, -- [3]
+						1608271973.596, -- [4]
+						46941, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						143924, -- [2]
+						90, -- [3]
+						1608271973.657, -- [4]
+						47031, -- [5]
+						"Nerf", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						116670, -- [2]
+						2338, -- [3]
+						1608271973.886, -- [4]
+						48580, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						191894, -- [2]
+						1253, -- [3]
+						1608271973.886, -- [4]
+						48580, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						33763, -- [2]
+						549, -- [3]
+						1608271974.044, -- [4]
+						48580, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						8936, -- [2]
+						182, -- [3]
+						1608271974.118, -- [4]
+						48580, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						33763, -- [2]
+						329, -- [3]
+						1608271974.118, -- [4]
+						48580, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						188550, -- [2]
+						390, -- [3]
+						1608271974.138, -- [4]
+						48580, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
 						774, -- [2]
-						856, -- [3]
-						1608184817.339, -- [4]
-						10883, -- [5]
+						1077, -- [3]
+						1608271974.166, -- [4]
+						48580, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						4, -- [1]
+						334909, -- [2]
+						7, -- [3]
+						1608271974.304, -- [4]
+						48580, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						207386, -- [2]
+						240, -- [3]
+						1608271974.364, -- [4]
+						48580, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						209426, -- [2]
+						1982, -- [3]
+						1608271974.574, -- [4]
+						48580, -- [5]
+						"Dragonite", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1982, -- [3]
+						1608271974.574, -- [4]
+						48580, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						206967, -- [2]
+						11172, -- [3]
+						1608271974.759, -- [4]
+						48580, -- [5]
+						"Nerf", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						77535, -- [2]
+						6770, -- [3]
+						1608271974.759, -- [4]
+						48580, -- [5]
+						"Nerf", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						320009, -- [2]
+						54, -- [3]
+						1608271974.759, -- [4]
+						48580, -- [5]
+						"Ngow", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						320009, -- [2]
+						63, -- [3]
+						1608271974.759, -- [4]
+						48580, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						320009, -- [2]
+						140, -- [3]
+						1608271974.759, -- [4]
+						48580, -- [5]
+						"Huskeryfloof", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						77535, -- [2]
+						0, -- [3]
+						1608271974.786, -- [4]
+						48580, -- [5]
+						"Nerf", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						346790, -- [2]
+						71249, -- [3]
+						1608271974.786, -- [4]
+						1, -- [5]
+						"Veteran Stoneguard", -- [6]
+						18199, -- [7]
+						1, -- [8]
+						false, -- [9]
+						4470, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						48707, -- [2]
+						1, -- [3]
+						1608271967.55, -- [4]
+						0, -- [5]
+						"Nerf", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DEATHKNIGHT",
+				["timestring"] = "8m 24s",
+				["time"] = 1608271974.813,
+			}, -- [5]
+			{
+				["maxhealth"] = 29720,
+				["timeofdeath"] = 504.969000000041,
+				["name"] = "Lilkdog",
+				["events"] = {
+					{
+						false, -- [1]
+						774, -- [2]
+						941, -- [3]
+						1608271969.522, -- [4]
+						28033, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						8936, -- [2]
+						407, -- [3]
+						1608271969.542, -- [4]
+						28440, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						207386, -- [2]
+						200, -- [3]
+						1608271969.589, -- [4]
+						28640, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						330968, -- [2]
+						4259, -- [3]
+						1608271970.116, -- [4]
+						24381, -- [5]
+						"Begrudging Waiter", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						191840, -- [2]
+						115, -- [3]
+						1608271970.232, -- [4]
+						24496, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						207386, -- [2]
+						161, -- [3]
+						1608271970.305, -- [4]
+						24657, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1715, -- [3]
+						1608271970.508, -- [4]
+						22942, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						774, -- [2]
+						1082, -- [3]
+						1608271970.6, -- [4]
+						24024, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						81269, -- [2]
+						1143, -- [3]
+						1608271971.07, -- [4]
+						25167, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						774, -- [2]
+						580, -- [3]
+						1608271971.124, -- [4]
+						25747, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						8936, -- [2]
+						407, -- [3]
+						1608271971.26, -- [4]
+						26154, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1717, -- [3]
+						1608271971.499, -- [4]
+						24437, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						207386, -- [2]
+						200, -- [3]
+						1608271971.599, -- [4]
+						24637, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						774, -- [2]
+						772, -- [3]
+						1608271971.639, -- [4]
+						25409, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						207386, -- [2]
+						328, -- [3]
+						1608271972.3, -- [4]
+						25737, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						209426, -- [2]
+						1718, -- [3]
+						1608271972.522, -- [4]
+						25737, -- [5]
+						"Dragonite", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1718, -- [3]
+						1608271972.522, -- [4]
+						25737, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						81269, -- [2]
+						507, -- [3]
+						1608271972.797, -- [4]
+						26244, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						8936, -- [2]
+						375, -- [3]
+						1608271972.988, -- [4]
+						26619, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						996, -- [3]
+						1608271973.177, -- [4]
+						27615, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1715, -- [3]
+						1608271973.51, -- [4]
+						25900, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						774, -- [2]
+						1243, -- [3]
+						1608271973.758, -- [4]
+						27143, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						90, -- [3]
+						1608271974.166, -- [4]
+						27233, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						330968, -- [2]
+						8443, -- [3]
+						1608271974.205, -- [4]
+						18790, -- [5]
+						"Begrudging Waiter", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						4, -- [1]
+						334909, -- [2]
+						7, -- [3]
+						1608271974.304, -- [4]
+						18790, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						207386, -- [2]
+						149, -- [3]
+						1608271974.304, -- [4]
+						18939, -- [5]
 						"Ngow", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [8]
+					}, -- [26]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2003, -- [3]
+						1608271974.532, -- [4]
+						16936, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						8936, -- [2]
+						375, -- [3]
+						1608271974.696, -- [4]
+						17311, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						81269, -- [2]
+						429, -- [3]
+						1608271975.372, -- [4]
+						17740, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						209426, -- [2]
+						2004, -- [3]
+						1608271975.551, -- [4]
+						17740, -- [5]
+						"Dragonite", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2004, -- [3]
+						1608271975.551, -- [4]
+						17740, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						1, -- [2]
+						18492, -- [3]
+						1608271975.707, -- [4]
+						17740, -- [5]
+						"Castellan Niklaus", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						752, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						184662, -- [2]
+						1, -- [3]
+						1608271957.177, -- [4]
+						0, -- [5]
+						"Lilkdog", -- [6]
+					}, -- [33]
+				},
+				["class"] = "PALADIN",
+				["timestring"] = "8m 24s",
+				["time"] = 1608271975.737,
+			}, -- [6]
+			{
+				["maxhealth"] = 34362,
+				["timeofdeath"] = 506.1670000000158,
+				["name"] = "Emosong",
+				["events"] = {
+					{
+						true, -- [1]
+						334909, -- [2]
+						1701, -- [3]
+						1608271972.539, -- [4]
+						17995, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						207386, -- [2]
+						161, -- [3]
+						1608271972.539, -- [4]
+						18156, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						996, -- [3]
+						1608271972.633, -- [4]
+						19152, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						185311, -- [2]
+						1718, -- [3]
+						1608271972.928, -- [4]
+						20870, -- [5]
+						"Emosong", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
 					{
 						false, -- [1]
 						48438, -- [2]
-						254, -- [3]
-						1608184817.448, -- [4]
-						11137, -- [5]
+						313, -- [3]
+						1608271973.288, -- [4]
+						21183, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1701, -- [3]
+						1608271973.544, -- [4]
+						19482, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						81269, -- [2]
+						541, -- [3]
+						1608271973.62, -- [4]
+						20023, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						8936, -- [2]
+						169, -- [3]
+						1608271974.069, -- [4]
+						20192, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						8936, -- [2]
+						166, -- [3]
+						1608271974.118, -- [4]
+						20358, -- [5]
 						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5253,58 +8035,460 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						48438, -- [2]
-						19, -- [3]
-						1608184817.506, -- [4]
-						11053, -- [5]
-						"Huskeryfloof", -- [6]
+						308, -- [3]
+						1608271974.138, -- [4]
+						20666, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
+						4, -- [1]
+						334909, -- [2]
+						7, -- [3]
+						1608271974.304, -- [4]
+						20666, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						81269, -- [2]
+						543, -- [3]
+						1608271974.51, -- [4]
+						21209, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						207386, -- [2]
+						344, -- [3]
+						1608271974.532, -- [4]
+						21553, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
 						true, -- [1]
-						341475, -- [2]
-						1003, -- [3]
-						1608184817.552, -- [4]
-						10050, -- [5]
-						"Bleakwing Assassin", -- [6]
+						334909, -- [2]
+						1985, -- [3]
+						1608271974.553, -- [4]
+						19568, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						303, -- [3]
+						1608271975.019, -- [4]
+						19871, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						774, -- [2]
+						993, -- [3]
+						1608271975.193, -- [4]
+						20864, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						143924, -- [2]
+						131, -- [3]
+						1608271975.272, -- [4]
+						20995, -- [5]
+						"Emosong", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						81269, -- [2]
+						557, -- [3]
+						1608271975.372, -- [4]
+						21552, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2480, -- [3]
+						1608271975.551, -- [4]
+						19072, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						191840, -- [2]
+						774, -- [3]
+						1608271975.684, -- [4]
+						19846, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						8936, -- [2]
+						8098, -- [3]
+						1608271975.707, -- [4]
+						27944, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						8936, -- [2]
+						165, -- [3]
+						1608271975.817, -- [4]
+						28109, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						8936, -- [2]
+						159, -- [3]
+						1608271975.844, -- [4]
+						28268, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						298, -- [3]
+						1608271975.862, -- [4]
+						28566, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						939, -- [3]
+						1608271976.511, -- [4]
+						29505, -- [5]
+						"Emosong", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						207386, -- [2]
+						159, -- [3]
+						1608271976.53, -- [4]
+						29664, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						209426, -- [2]
+						2481, -- [3]
+						1608271976.57, -- [4]
+						29664, -- [5]
+						"Dragonite", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2481, -- [3]
+						1608271976.57, -- [4]
+						29664, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						330968, -- [2]
+						10597, -- [3]
+						1608271976.674, -- [4]
+						19067, -- [5]
+						"Begrudging Waiter", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						48438, -- [2]
+						294, -- [3]
+						1608271976.736, -- [4]
+						19361, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						1, -- [2]
+						145373, -- [3]
+						1608271976.892, -- [4]
+						19361, -- [5]
+						"Veteran Stoneguard", -- [6]
 						nil, -- [7]
 						1, -- [8]
+						false, -- [9]
+						126012, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						31230, -- [2]
+						68724, -- [3]
+						1608271976.912, -- [4]
+						19361, -- [5]
+						"Emosong", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						1856, -- [2]
+						1, -- [3]
+						1608271836.211, -- [4]
+						0, -- [5]
+						"Emosong", -- [6]
+					}, -- [33]
+				},
+				["class"] = "ROGUE",
+				["timestring"] = "8m 26s",
+				["time"] = 1608271976.935,
+			}, -- [7]
+			{
+				["maxhealth"] = 28880,
+				["timeofdeath"] = 507.2909999999683,
+				["name"] = "Dragonite",
+				["events"] = {
+					{
+						false, -- [1]
+						774, -- [2]
+						1082, -- [3]
+						1608271973.196, -- [4]
+						16268, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						207386, -- [2]
+						199, -- [3]
+						1608271973.27, -- [4]
+						16467, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						143924, -- [2]
+						126, -- [3]
+						1608271973.27, -- [4]
+						16593, -- [5]
+						"Dragonite", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						340, -- [3]
+						1608271973.288, -- [4]
+						16933, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1922, -- [3]
+						1608271973.596, -- [4]
+						15011, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						81269, -- [2]
+						473, -- [3]
+						1608271973.62, -- [4]
+						15484, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						207386, -- [2]
+						149, -- [3]
+						1608271974.094, -- [4]
+						15633, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						48438, -- [2]
+						335, -- [3]
+						1608271974.138, -- [4]
+						15968, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						4, -- [1]
+						334909, -- [2]
+						7, -- [3]
+						1608271974.304, -- [4]
+						15968, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						8936, -- [2]
+						9587, -- [3]
+						1608271974.386, -- [4]
+						25555, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						143924, -- [2]
+						191, -- [3]
+						1608271974.463, -- [4]
+						25746, -- [5]
+						"Dragonite", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						true, -- [1]
-						341475, -- [2]
-						1003, -- [3]
-						1608184818.549, -- [4]
-						9083, -- [5]
-						"Bleakwing Assassin", -- [6]
+						334909, -- [2]
+						2241, -- [3]
+						1608271974.618, -- [4]
+						23505, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						true, -- [1]
-						335540, -- [2]
-						3032, -- [3]
-						1608184819.73, -- [4]
-						5485, -- [5]
-						"Pestering Fiend", -- [6]
+						false, -- [1]
+						191840, -- [2]
+						772, -- [3]
+						1608271974.813, -- [4]
+						24277, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						774, -- [2]
-						513, -- [3]
-						1608184819.919, -- [4]
-						5998, -- [5]
-						"Huskeryfloof", -- [6]
+						48438, -- [2]
+						356, -- [3]
+						1608271975.019, -- [4]
+						24633, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5312,35 +8496,35 @@ DeathGraphsDBCurrent = {
 					}, -- [14]
 					{
 						false, -- [1]
-						774, -- [2]
-						521, -- [3]
-						1608184820.002, -- [4]
-						6519, -- [5]
-						"Ngow", -- [6]
+						207386, -- [2]
+						216, -- [3]
+						1608271975.272, -- [4]
+						24849, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						4, -- [1]
-						341473, -- [2]
-						1, -- [3]
-						1608184820.336, -- [4]
-						6553, -- [5]
-						"Bleakwing Assassin", -- [6]
-						false, -- [7]
-						false, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						2242, -- [3]
+						1608271975.622, -- [4]
+						22607, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [16]
 					{
 						false, -- [1]
-						345550, -- [2]
-						3684, -- [3]
-						1608184820.668, -- [4]
-						10237, -- [5]
-						"Ngow", -- [6]
+						143924, -- [2]
+						258, -- [3]
+						1608271975.737, -- [4]
+						22865, -- [5]
+						"Dragonite", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5349,10 +8533,10 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						774, -- [2]
-						514, -- [3]
-						1608184822.522, -- [4]
-						11297, -- [5]
-						"Huskeryfloof", -- [6]
+						1082, -- [3]
+						1608271975.796, -- [4]
+						23947, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -5360,46 +8544,850 @@ DeathGraphsDBCurrent = {
 					}, -- [18]
 					{
 						false, -- [1]
-						774, -- [2]
-						521, -- [3]
-						1608184822.671, -- [4]
-						11818, -- [5]
-						"Ngow", -- [6]
+						48438, -- [2]
+						325, -- [3]
+						1608271975.862, -- [4]
+						24272, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184822.869, -- [4]
-						11818, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						191840, -- [2]
+						786, -- [3]
+						1608271975.969, -- [4]
+						25058, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [20]
 					{
 						false, -- [1]
-						774, -- [2]
-						514, -- [3]
-						1608184825.122, -- [4]
-						11803, -- [5]
-						"Huskeryfloof", -- [6]
+						207386, -- [2]
+						144, -- [3]
+						1608271976.087, -- [4]
+						25202, -- [5]
+						"Ngow", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
+						8936, -- [2]
+						408, -- [3]
+						1608271976.105, -- [4]
+						25610, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						191840, -- [2]
+						71, -- [3]
+						1608271976.57, -- [4]
+						25681, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2242, -- [3]
+						1608271976.618, -- [4]
+						23439, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						319, -- [3]
+						1608271976.736, -- [4]
+						23758, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						143924, -- [2]
+						154, -- [3]
+						1608271976.935, -- [4]
+						23912, -- [5]
+						"Dragonite", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						48438, -- [2]
+						133, -- [3]
+						1608271977.1, -- [4]
+						24045, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						191840, -- [2]
+						776, -- [3]
+						1608271977.143, -- [4]
+						24821, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						1, -- [2]
+						21488, -- [3]
+						1608271977.469, -- [4]
+						24821, -- [5]
+						"Castellan Niklaus", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2242, -- [3]
+						1608271977.621, -- [4]
+						1091, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						8936, -- [2]
+						375, -- [3]
+						1608271977.817, -- [4]
+						1466, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						330968, -- [2]
+						4725, -- [3]
+						1608271978.059, -- [4]
+						1, -- [5]
+						"Begrudging Waiter", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						3259, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Dragonite", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "8m 27s",
+				["time"] = 1608271978.059,
+			}, -- [8]
+			{
+				["maxhealth"] = 29900,
+				["timeofdeath"] = 508.9029999999329,
+				["name"] = "Bloodnofsky",
+				["events"] = {
+					{
+						false, -- [1]
+						81269, -- [2]
+						1086, -- [3]
+						1608271974.51, -- [4]
+						26487, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						207386, -- [2]
+						169, -- [3]
+						1608271974.532, -- [4]
+						26656, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1976, -- [3]
+						1608271974.669, -- [4]
+						24680, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						8936, -- [2]
+						168, -- [3]
+						1608271974.813, -- [4]
+						24848, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						18, -- [3]
+						1608271974.864, -- [4]
+						24866, -- [5]
+						"Bloodnofsky", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
 						774, -- [2]
-						521, -- [3]
-						1608184825.323, -- [4]
-						12324, -- [5]
+						609, -- [3]
+						1608271975.372, -- [4]
+						25475, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						8936, -- [2]
+						166, -- [3]
+						1608271975.412, -- [4]
+						25641, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						209426, -- [2]
+						1975, -- [3]
+						1608271975.661, -- [4]
+						25641, -- [5]
+						"Dragonite", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1975, -- [3]
+						1608271975.661, -- [4]
+						25641, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						143924, -- [2]
+						41, -- [3]
+						1608271976.105, -- [4]
+						25682, -- [5]
+						"Bloodnofsky", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						119611, -- [2]
+						377, -- [3]
+						1608271976.168, -- [4]
+						26059, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						81269, -- [2]
+						536, -- [3]
+						1608271976.222, -- [4]
+						26595, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						8936, -- [2]
+						168, -- [3]
+						1608271976.53, -- [4]
+						26763, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						207386, -- [2]
+						325, -- [3]
+						1608271976.53, -- [4]
+						27088, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2470, -- [3]
+						1608271976.674, -- [4]
+						24618, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						8936, -- [2]
+						165, -- [3]
+						1608271977.121, -- [4]
+						24783, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						81269, -- [2]
+						523, -- [3]
+						1608271977.165, -- [4]
+						25306, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						143924, -- [2]
+						67, -- [3]
+						1608271977.318, -- [4]
+						25373, -- [5]
+						"Bloodnofsky", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2469, -- [3]
+						1608271977.667, -- [4]
+						22904, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						609, -- [3]
+						1608271977.757, -- [4]
+						23513, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						119611, -- [2]
+						377, -- [3]
+						1608271977.931, -- [4]
+						23890, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						81269, -- [2]
+						535, -- [3]
+						1608271977.931, -- [4]
+						24425, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						774, -- [2]
+						609, -- [3]
+						1608271978.039, -- [4]
+						25034, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						8936, -- [2]
+						342, -- [3]
+						1608271978.251, -- [4]
+						25376, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						158, -- [3]
+						1608271978.544, -- [4]
+						25534, -- [5]
+						"Bloodnofsky", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						207386, -- [2]
+						344, -- [3]
+						1608271978.544, -- [4]
+						25878, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2470, -- [3]
+						1608271978.674, -- [4]
+						23408, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						8936, -- [2]
+						165, -- [3]
+						1608271978.834, -- [4]
+						23573, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						81269, -- [2]
+						538, -- [3]
+						1608271978.92, -- [4]
+						24111, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						345364, -- [2]
+						673, -- [3]
+						1608271979.034, -- [4]
+						24784, -- [5]
+						"Bloodnofsky", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						31230, -- [2]
+						59800, -- [3]
+						1608271979.633, -- [4]
+						24784, -- [5]
+						"Bloodnofsky", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						346790, -- [2]
+						136242, -- [3]
+						1608271979.633, -- [4]
+						1, -- [5]
+						"Veteran Stoneguard", -- [6]
+						59800, -- [7]
+						1, -- [8]
+						false, -- [9]
+						51658, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						31224, -- [2]
+						1, -- [3]
+						1608271853.634, -- [4]
+						0, -- [5]
+						"Bloodnofsky", -- [6]
+					}, -- [33]
+				},
+				["class"] = "ROGUE",
+				["timestring"] = "8m 28s",
+				["time"] = 1608271979.671,
+			}, -- [9]
+			{
+				["maxhealth"] = 29720,
+				["timeofdeath"] = 509.9449999999488,
+				["name"] = "Toshmonk",
+				["events"] = {
+					{
+						false, -- [1]
+						143924, -- [2]
+						105, -- [3]
+						1608271974.463, -- [4]
+						17019, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						334909, -- [2]
+						807, -- [3]
+						1608271974.669, -- [4]
+						16212, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						774, -- [2]
+						909, -- [3]
+						1608271974.887, -- [4]
+						17121, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2018, -- [3]
+						1608271975.661, -- [4]
+						15103, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						108, -- [3]
+						1608271975.737, -- [4]
+						15211, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						774, -- [2]
+						575, -- [3]
+						1608271975.796, -- [4]
+						15786, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						191840, -- [2]
+						798, -- [3]
+						1608271975.817, -- [4]
+						16584, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						207386, -- [2]
+						160, -- [3]
+						1608271975.844, -- [4]
+						16744, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						81269, -- [2]
+						492, -- [3]
+						1608271976.222, -- [4]
+						17236, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2523, -- [3]
+						1608271976.674, -- [4]
+						14713, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						143924, -- [2]
+						127, -- [3]
+						1608271976.935, -- [4]
+						14840, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						81269, -- [2]
+						527, -- [3]
+						1608271977.165, -- [4]
+						15367, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						774, -- [2]
+						909, -- [3]
+						1608271977.469, -- [4]
+						16276, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						774, -- [2]
+						389, -- [3]
+						1608271977.488, -- [4]
+						16665, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						191840, -- [2]
+						797, -- [3]
+						1608271977.562, -- [4]
+						17462, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						191840, -- [2]
+						70, -- [3]
+						1608271977.584, -- [4]
+						17532, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2523, -- [3]
+						1608271977.667, -- [4]
+						15009, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						207386, -- [2]
+						149, -- [3]
+						1608271977.865, -- [4]
+						15158, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						104, -- [3]
+						1608271978.151, -- [4]
+						15262, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						277, -- [3]
+						1608271978.251, -- [4]
+						15539, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2523, -- [3]
+						1608271978.674, -- [4]
+						13016, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						81269, -- [2]
+						482, -- [3]
+						1608271978.92, -- [4]
+						13498, -- [5]
 						"Ngow", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5407,71 +9395,71 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [22]
 					{
-						true, -- [1]
-						341475, -- [2]
-						4531, -- [3]
-						1608184825.595, -- [4]
-						7793, -- [5]
-						"Bleakwing Assassin", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						365, -- [3]
+						1608271979.136, -- [4]
+						13863, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						4, -- [1]
-						341475, -- [2]
-						1, -- [3]
-						1608184825.595, -- [4]
-						7793, -- [5]
-						"Bleakwing Assassin", -- [6]
-						false, -- [7]
-						false, -- [8]
+						false, -- [1]
+						191840, -- [2]
+						71, -- [3]
+						1608271979.325, -- [4]
+						13934, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [24]
 					{
-						true, -- [1]
-						341475, -- [2]
-						803, -- [3]
-						1608184826.599, -- [4]
-						7023, -- [5]
-						"Bleakwing Assassin", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						9, -- [3]
+						1608271979.345, -- [4]
+						13943, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						341475, -- [2]
-						803, -- [3]
-						1608184827.588, -- [4]
-						6220, -- [5]
-						"Bleakwing Assassin", -- [6]
+						false, -- [1]
+						81269, -- [2]
+						475, -- [3]
+						1608271979.671, -- [4]
+						14418, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						false, -- [1]
-						774, -- [2]
-						514, -- [3]
-						1608184827.694, -- [4]
-						6734, -- [5]
-						"Huskeryfloof", -- [6]
+						true, -- [1]
+						334909, -- [2]
+						2523, -- [3]
+						1608271979.694, -- [4]
+						11895, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
 						false, -- [1]
-						774, -- [2]
-						521, -- [3]
-						1608184827.998, -- [4]
-						7255, -- [5]
+						207386, -- [2]
+						149, -- [3]
+						1608271979.857, -- [4]
+						12044, -- [5]
 						"Ngow", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -5480,51 +9468,2903 @@ DeathGraphsDBCurrent = {
 					}, -- [28]
 					{
 						false, -- [1]
-						157503, -- [2]
-						627, -- [3]
-						1608184828.04, -- [4]
-						7882, -- [5]
-						"Scitron", -- [6]
+						48438, -- [2]
+						351, -- [3]
+						1608271979.991, -- [4]
+						12395, -- [5]
+						"Boomie", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
 						true, -- [1]
-						341475, -- [2]
-						803, -- [3]
-						1608184828.6, -- [4]
-						7113, -- [5]
-						"Bleakwing Assassin", -- [6]
+						330968, -- [2]
+						10886, -- [3]
+						1608271980.361, -- [4]
+						1509, -- [5]
+						"Begrudging Waiter", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						8, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						341475, -- [2]
-						803, -- [3]
-						1608184829.604, -- [4]
-						6310, -- [5]
-						"Bleakwing Assassin", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						7, -- [3]
+						1608271980.551, -- [4]
+						1516, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						325506, -- [2]
-						6797, -- [3]
-						1608184829.853, -- [4]
+						334909, -- [2]
+						2523, -- [3]
+						1608271980.687, -- [4]
 						1, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
-						487, -- [10]
+						1007, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						122783, -- [2]
+						1, -- [3]
+						1608271969.247, -- [4]
+						0, -- [5]
+						"Toshmonk", -- [6]
+					}, -- [33]
+				},
+				["class"] = "MONK",
+				["timestring"] = "8m 29s",
+				["time"] = 1608271980.713,
+			}, -- [10]
+		},
+		["bossname"] = "The Council of Blood",
+		["bossicon"] = {
+			0.5, -- [1]
+			0.75, -- [2]
+			0.25, -- [3]
+			0.5, -- [4]
+			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
+		},
+		["date"] = 821128.671,
+		["timeelapsed"] = 522.0109999999404,
+	}, -- [1]
+	{
+		["deaths"] = {
+			{
+				["maxhealth"] = 28880,
+				["timeofdeath"] = 226.189000000013,
+				["name"] = "Dragonite",
+				["events"] = {
+					{
+						false, -- [1]
+						207386, -- [2]
+						152, -- [3]
+						1608271018.85, -- [4]
+						23943, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						81269, -- [2]
+						853, -- [3]
+						1608271018.978, -- [4]
+						24796, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						4, -- [1]
+						346651, -- [2]
+						1, -- [3]
+						1608271019.029, -- [4]
+						24796, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						346651, -- [2]
+						4659, -- [3]
+						1608271019.029, -- [4]
+						20137, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						143924, -- [2]
+						50, -- [3]
+						1608271019.187, -- [4]
+						20187, -- [5]
+						"Dragonite", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2174, -- [3]
+						1608271019.242, -- [4]
+						18013, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271019.462, -- [4]
+						18080, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						774, -- [2]
+						350, -- [3]
+						1608271019.462, -- [4]
+						18430, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						207386, -- [2]
+						146, -- [3]
+						1608271019.462, -- [4]
+						18576, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						130654, -- [2]
+						773, -- [3]
+						1608271019.743, -- [4]
+						19349, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						4, -- [1]
+						334909, -- [2]
+						8, -- [3]
+						1608271019.98, -- [4]
+						19349, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						130654, -- [2]
+						772, -- [3]
+						1608271019.98, -- [4]
+						20121, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						130654, -- [2]
+						769, -- [3]
+						1608271020.018, -- [4]
+						20890, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						346651, -- [2]
+						4659, -- [3]
+						1608271020.046, -- [4]
+						16231, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2485, -- [3]
+						1608271020.243, -- [4]
+						13746, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						143924, -- [2]
+						311, -- [3]
+						1608271020.395, -- [4]
+						14057, -- [5]
+						"Dragonite", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						207386, -- [2]
+						137, -- [3]
+						1608271020.863, -- [4]
+						14194, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						346651, -- [2]
+						4659, -- [3]
+						1608271021.031, -- [4]
+						9535, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271021.206, -- [4]
+						9602, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						162530, -- [2]
+						185, -- [3]
+						1608271021.23, -- [4]
+						9787, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2485, -- [3]
+						1608271021.261, -- [4]
+						7302, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						207386, -- [2]
+						146, -- [3]
+						1608271021.466, -- [4]
+						7448, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						143924, -- [2]
+						113, -- [3]
+						1608271021.589, -- [4]
+						7561, -- [5]
+						"Dragonite", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						162530, -- [2]
+						374, -- [3]
+						1608271021.91, -- [4]
+						7935, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						346651, -- [2]
+						4659, -- [3]
+						1608271022.027, -- [4]
+						3276, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2485, -- [3]
+						1608271022.249, -- [4]
+						791, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						90361, -- [2]
+						2899, -- [3]
+						1608271022.41, -- [4]
+						3690, -- [5]
+						"Blue <Hoofshots>", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						162530, -- [2]
+						187, -- [3]
+						1608271022.552, -- [4]
+						3877, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						143924, -- [2]
+						100, -- [3]
+						1608271022.806, -- [4]
+						3977, -- [5]
+						"Dragonite", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						207386, -- [2]
+						138, -- [3]
+						1608271022.845, -- [4]
+						4115, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271022.944, -- [4]
+						4182, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						346651, -- [2]
+						4659, -- [3]
+						1608271023.062, -- [4]
+						1, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						477, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						"Dragonite", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DEMONHUNTER",
+				["timestring"] = "3m 46s",
+				["time"] = 1608271023.062,
+			}, -- [1]
+			{
+				["maxhealth"] = 32482,
+				["timeofdeath"] = 233.5139999999665,
+				["name"] = "Hoofshots",
+				["events"] = {
+					{
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1608271249.866, -- [4]
+						0, -- [5]
+						"Huskeryfloof", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						6262, -- [2]
+						9219, -- [3]
+						1608271022.826, -- [4]
+						19098, -- [5]
+						"Hoofshots", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						48438, -- [2]
+						233, -- [3]
+						1608271022.924, -- [4]
+						19331, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						31, -- [3]
+						1608271023.038, -- [4]
+						19362, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						320, -- [3]
+						1608271023.269, -- [4]
+						19682, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2738, -- [3]
+						1608271023.322, -- [4]
+						16944, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						774, -- [2]
+						600, -- [3]
+						1608271023.407, -- [4]
+						17544, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						774, -- [2]
+						545, -- [3]
+						1608271024.098, -- [4]
+						18071, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						207386, -- [2]
+						166, -- [3]
+						1608271024.165, -- [4]
+						18237, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						307, -- [3]
+						1608271024.165, -- [4]
+						18544, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2735, -- [3]
+						1608271024.328, -- [4]
+						15809, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						191840, -- [2]
+						134, -- [3]
+						1608271024.422, -- [4]
+						15943, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						48438, -- [2]
+						293, -- [3]
+						1608271025.034, -- [4]
+						16236, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2735, -- [3]
+						1608271025.356, -- [4]
+						13501, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						191840, -- [2]
+						57, -- [3]
+						1608271025.925, -- [4]
+						13550, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						48438, -- [2]
+						279, -- [3]
+						1608271025.925, -- [4]
+						13829, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						774, -- [2]
+						600, -- [3]
+						1608271026.066, -- [4]
+						14429, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						207386, -- [2]
+						166, -- [3]
+						1608271026.15, -- [4]
+						14595, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2735, -- [3]
+						1608271026.342, -- [4]
+						11860, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						774, -- [2]
+						546, -- [3]
+						1608271026.69, -- [4]
+						12406, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						48438, -- [2]
+						238, -- [3]
+						1608271026.711, -- [4]
+						12644, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2738, -- [3]
+						1608271027.364, -- [4]
+						9906, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						81269, -- [2]
+						1008, -- [3]
+						1608271027.46, -- [4]
+						10914, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						330968, -- [2]
+						5262, -- [3]
+						1608271027.808, -- [4]
+						5652, -- [5]
+						"Begrudging Waiter", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						207386, -- [2]
+						152, -- [3]
+						1608271028.146, -- [4]
+						5804, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2738, -- [3]
+						1608271028.348, -- [4]
+						3066, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						774, -- [2]
+						548, -- [3]
+						1608271028.721, -- [4]
+						3614, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						774, -- [2]
+						1059, -- [3]
+						1608271029.263, -- [4]
+						4673, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2735, -- [3]
+						1608271029.365, -- [4]
+						1938, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						191840, -- [2]
+						743, -- [3]
+						1608271029.499, -- [4]
+						2700, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						4, -- [1]
+						334909, -- [2]
+						9, -- [3]
+						1608271029.982, -- [4]
+						2691, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						207386, -- [2]
+						152, -- [3]
+						1608271030.162, -- [4]
+						2843, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						334909, -- [2]
+						3077, -- [3]
+						1608271030.387, -- [4]
+						1, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						234, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						109304, -- [2]
+						1, -- [3]
+						1608270991.958, -- [4]
+						0, -- [5]
+						"Hoofshots", -- [6]
+					}, -- [34]
+				},
+				["class"] = "HUNTER",
+				["timestring"] = "3m 53s",
+				["time"] = 1608271030.387,
+			}, -- [2]
+			{
+				["maxhealth"] = 29720,
+				["timeofdeath"] = 235.9790000000503,
+				["name"] = "Toshmonk",
+				["events"] = {
+					{
+						2, -- [1]
+						61999, -- [2]
+						1, -- [3]
+						1608271074.426, -- [4]
+						0, -- [5]
+						"Nerf", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						231, -- [3]
+						1608271025.925, -- [4]
+						12966, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						143924, -- [2]
+						45, -- [3]
+						1608271026.066, -- [4]
+						13011, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						322, -- [3]
+						1608271026.275, -- [4]
+						13333, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2797, -- [3]
+						1608271026.368, -- [4]
+						10536, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						197, -- [3]
+						1608271026.711, -- [4]
+						10733, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						48438, -- [2]
+						309, -- [3]
+						1608271027.148, -- [4]
+						11042, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						191840, -- [2]
+						58, -- [3]
+						1608271027.23, -- [4]
+						11100, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						143924, -- [2]
+						184, -- [3]
+						1608271027.275, -- [4]
+						11284, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2797, -- [3]
+						1608271027.364, -- [4]
+						8487, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						774, -- [2]
+						600, -- [3]
+						1608271027.986, -- [4]
+						9087, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						48438, -- [2]
+						603, -- [3]
+						1608271027.986, -- [4]
+						9690, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2796, -- [3]
+						1608271028.348, -- [4]
+						6894, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						321442, -- [2]
+						708, -- [3]
+						1608271028.409, -- [4]
+						7602, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						143924, -- [2]
+						129, -- [3]
+						1608271028.482, -- [4]
+						7731, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						48438, -- [2]
+						282, -- [3]
+						1608271028.859, -- [4]
+						8013, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						8936, -- [2]
+						3857, -- [3]
+						1608271029.317, -- [4]
+						11870, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2797, -- [3]
+						1608271029.391, -- [4]
+						9073, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						143924, -- [2]
+						178, -- [3]
+						1608271029.703, -- [4]
+						9251, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						280, -- [3]
+						1608271029.731, -- [4]
+						9531, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						48438, -- [2]
+						41, -- [3]
+						1608271029.846, -- [4]
+						9572, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						4, -- [1]
+						334909, -- [2]
+						9, -- [3]
+						1608271029.982, -- [4]
+						9572, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						334909, -- [2]
+						3146, -- [3]
+						1608271030.387, -- [4]
+						6426, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						774, -- [2]
+						572, -- [3]
+						1608271030.578, -- [4]
+						6998, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						143924, -- [2]
+						129, -- [3]
+						1608271030.897, -- [4]
+						7127, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						8936, -- [2]
+						158, -- [3]
+						1608271031.042, -- [4]
+						7285, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						334909, -- [2]
+						3146, -- [3]
+						1608271031.392, -- [4]
+						4139, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						48438, -- [2]
+						317, -- [3]
+						1608271031.573, -- [4]
+						4456, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						143924, -- [2]
+						124, -- [3]
+						1608271032.129, -- [4]
+						4580, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						334909, -- [2]
+						3146, -- [3]
+						1608271032.431, -- [4]
+						1434, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						48438, -- [2]
+						306, -- [3]
+						1608271032.431, -- [4]
+						1740, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						false, -- [1]
+						8936, -- [2]
+						158, -- [3]
+						1608271032.743, -- [4]
+						1898, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						330968, -- [2]
+						5191, -- [3]
+						1608271032.852, -- [4]
+						1, -- [5]
+						"Begrudging Waiter", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						3293, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						122783, -- [2]
+						1, -- [3]
+						1608270814.427, -- [4]
+						0, -- [5]
+						"Toshmonk", -- [6]
+					}, -- [34]
+				},
+				["class"] = "MONK",
+				["timestring"] = "3m 55s",
+				["time"] = 1608271032.852,
+			}, -- [3]
+			{
+				["maxhealth"] = 31560,
+				["timeofdeath"] = 387.265000000014,
+				["name"] = "Tumtumm",
+				["events"] = {
+					{
+						true, -- [1]
+						346945, -- [2]
+						853, -- [3]
+						1608271175.907, -- [4]
+						6286, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						true, -- [1]
+						334909, -- [2]
+						546, -- [3]
+						1608271176.046, -- [4]
+						5740, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						115310, -- [2]
+						5074, -- [3]
+						1608271176.146, -- [4]
+						10814, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						276, -- [3]
+						1608271176.282, -- [4]
+						11090, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						346685, -- [2]
+						2049, -- [3]
+						1608271176.832, -- [4]
+						9041, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						268, -- [3]
+						1608271176.951, -- [4]
+						9309, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						191840, -- [2]
+						66, -- [3]
+						1608271176.988, -- [4]
+						9375, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						334909, -- [2]
+						546, -- [3]
+						1608271177.055, -- [4]
+						8829, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271177.055, -- [4]
+						8829, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						157982, -- [2]
+						35, -- [3]
+						1608271177.43, -- [4]
+						8864, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						48438, -- [2]
+						196, -- [3]
+						1608271177.486, -- [4]
+						9060, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						346945, -- [2]
+						854, -- [3]
+						1608271177.552, -- [4]
+						8206, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						334909, -- [2]
+						546, -- [3]
+						1608271178.058, -- [4]
+						7660, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						346945, -- [2]
+						854, -- [3]
+						1608271178.079, -- [4]
+						6806, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						191840, -- [2]
+						66, -- [3]
+						1608271178.343, -- [4]
+						6872, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271179.035, -- [4]
+						6872, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						546, -- [3]
+						1608271179.055, -- [4]
+						6326, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						157982, -- [2]
+						36, -- [3]
+						1608271179.437, -- [4]
+						6362, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						346945, -- [2]
+						853, -- [3]
+						1608271179.557, -- [4]
+						5509, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						191840, -- [2]
+						46, -- [3]
+						1608271179.557, -- [4]
+						5555, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						191840, -- [2]
+						758, -- [3]
+						1608271179.775, -- [4]
+						6313, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						4, -- [1]
+						334909, -- [2]
+						5, -- [3]
+						1608271179.829, -- [4]
+						6313, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						346945, -- [2]
+						854, -- [3]
+						1608271180.065, -- [4]
+						5459, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						334909, -- [2]
+						682, -- [3]
+						1608271180.065, -- [4]
+						4777, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						true, -- [1]
+						334909, -- [2]
+						683, -- [3]
+						1608271181.085, -- [4]
+						4094, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						157982, -- [2]
+						36, -- [3]
+						1608271181.445, -- [4]
+						4130, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						191840, -- [2]
+						66, -- [3]
+						1608271181.521, -- [4]
+						4196, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1707, -- [3]
+						1608271182.088, -- [4]
+						2489, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1706, -- [3]
+						1608271183.075, -- [4]
+						783, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						191840, -- [2]
+						133, -- [3]
+						1608271183.287, -- [4]
+						916, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						157982, -- [2]
+						37, -- [3]
+						1608271183.442, -- [4]
+						953, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1707, -- [3]
+						1608271184.115, -- [4]
+						1, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						754, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						122783, -- [2]
+						1, -- [3]
+						1608271175.514, -- [4]
+						0, -- [5]
+						"Tumtumm", -- [6]
+					}, -- [33]
+				},
+				["class"] = "MONK",
+				["timestring"] = "6m 27s",
+				["time"] = 1608271184.138,
+			}, -- [4]
+			{
+				["maxhealth"] = 34231,
+				["timeofdeath"] = 394.4449999999488,
+				["name"] = "Downloaded",
+				["events"] = {
+					{
+						2, -- [1]
+						61999, -- [2]
+						1, -- [3]
+						1608271248.362, -- [4]
+						0, -- [5]
+						"Nerf", -- [6]
+					}, -- [1]
+					{
+						false, -- [1]
+						48438, -- [2]
+						351, -- [3]
+						1608271188.183, -- [4]
+						17765, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						346651, -- [2]
+						5209, -- [3]
+						1608271188.303, -- [4]
+						12556, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271188.358, -- [4]
+						12556, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						267, -- [3]
+						1608271188.89, -- [4]
+						19668, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						48438, -- [2]
+						337, -- [3]
+						1608271189.064, -- [4]
+						20005, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						108366, -- [2]
+						466, -- [3]
+						1608271189.086, -- [4]
+						20005, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						334909, -- [2]
+						1736, -- [3]
+						1608271189.086, -- [4]
+						18735, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						466, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1608271189.086, -- [4]
+						18735, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						205179, -- [2]
+						184, -- [3]
+						1608271189.235, -- [4]
+						18919, -- [5]
+						"Downloaded", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						63106, -- [2]
+						147, -- [3]
+						1608271189.26, -- [4]
+						19066, -- [5]
+						"Downloaded", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						346651, -- [2]
+						5209, -- [3]
+						1608271189.288, -- [4]
+						13857, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						8936, -- [2]
+						146, -- [3]
+						1608271189.288, -- [4]
+						14003, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271189.42, -- [4]
+						14003, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						48438, -- [2]
+						256, -- [3]
+						1608271189.743, -- [4]
+						14259, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						4, -- [1]
+						334909, -- [2]
+						6, -- [3]
+						1608271189.854, -- [4]
+						14259, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						108366, -- [2]
+						262, -- [3]
+						1608271189.902, -- [4]
+						14259, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2171, -- [3]
+						1608271189.902, -- [4]
+						12350, -- [5]
+						"Baroness Frieda", -- [6]
+						262, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1608271189.902, -- [4]
+						12350, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						48438, -- [2]
+						322, -- [3]
+						1608271189.947, -- [4]
+						12672, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2084, -- [3]
+						1608271190.08, -- [4]
+						10588, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						346651, -- [2]
+						5209, -- [3]
+						1608271190.292, -- [4]
+						5379, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2171, -- [3]
+						1608271190.406, -- [4]
+						3208, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						false, -- [1]
+						48438, -- [2]
+						244, -- [3]
+						1608271190.623, -- [4]
+						3452, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						774, -- [2]
+						946, -- [3]
+						1608271190.816, -- [4]
+						4398, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						48438, -- [2]
+						307, -- [3]
+						1608271190.835, -- [4]
+						4705, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						false, -- [1]
+						108366, -- [2]
+						343, -- [3]
+						1608271190.91, -- [4]
+						4705, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2171, -- [3]
+						1608271190.91, -- [4]
+						2877, -- [5]
+						"Baroness Frieda", -- [6]
+						343, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1608271190.91, -- [4]
+						2877, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						205179, -- [2]
+						184, -- [3]
+						1608271191.002, -- [4]
+						3061, -- [5]
+						"Downloaded", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						8936, -- [2]
+						146, -- [3]
+						1608271191.02, -- [4]
+						3207, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						334909, -- [2]
+						2083, -- [3]
+						1608271191.097, -- [4]
+						1124, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [32]
+					{
+						true, -- [1]
+						346651, -- [2]
+						5209, -- [3]
+						1608271191.318, -- [4]
+						1, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						4085, -- [10]
+					}, -- [33]
+					{
+						3, -- [1]
+						104773, -- [2]
+						1, -- [3]
+						1608271028.782, -- [4]
+						0, -- [5]
+						"Downloaded", -- [6]
+					}, -- [34]
+				},
+				["class"] = "WARLOCK",
+				["timestring"] = "6m 34s",
+				["time"] = 1608271191.318,
+			}, -- [5]
+			{
+				["maxhealth"] = 33520,
+				["timeofdeath"] = 433.2519999999786,
+				["name"] = "Boomie",
+				["events"] = {
+					{
+						false, -- [1]
+						22842, -- [2]
+						2983, -- [3]
+						1608271218.095, -- [4]
+						4595, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						143924, -- [2]
+						8, -- [3]
+						1608271218.414, -- [4]
+						4603, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [2]
+					{
+						4, -- [1]
+						330848, -- [2]
+						11, -- [3]
+						1608271219.088, -- [4]
+						4603, -- [5]
+						"[*] Wrong Moves", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						320221, -- [2]
+						4522, -- [3]
+						1608271219.104, -- [4]
+						4603, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271219.104, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						4522, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						143924, -- [2]
+						7, -- [3]
+						1608271219.647, -- [4]
+						8, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						320221, -- [2]
+						9117, -- [3]
+						1608271220.088, -- [4]
+						8, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271220.088, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						9117, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						320221, -- [2]
+						8006, -- [3]
+						1608271221.103, -- [4]
+						1119, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271221.103, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						8006, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						145109, -- [2]
+						1006, -- [3]
+						1608271221.899, -- [4]
+						2126, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						false, -- [1]
+						320221, -- [2]
+						6999, -- [3]
+						1608271222.092, -- [4]
+						2126, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271222.092, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						6999, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						320221, -- [2]
+						8005, -- [3]
+						1608271223.087, -- [4]
+						1120, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271223.087, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						8005, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						320221, -- [2]
+						8005, -- [3]
+						1608271224.094, -- [4]
+						1120, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271224.094, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						8005, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						320221, -- [2]
+						8005, -- [3]
+						1608271225.102, -- [4]
+						1120, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271225.102, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						8005, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						320221, -- [2]
+						8006, -- [3]
+						1608271226.093, -- [4]
+						1119, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271226.093, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						8006, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						145109, -- [2]
+						1006, -- [3]
+						1608271226.903, -- [4]
+						2126, -- [5]
+						"Boomie", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						320221, -- [2]
+						6999, -- [3]
+						1608271227.088, -- [4]
+						2126, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271227.088, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						6999, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						774, -- [2]
+						538, -- [3]
+						1608271227.837, -- [4]
+						1658, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						false, -- [1]
+						320221, -- [2]
+						7467, -- [3]
+						1608271228.1, -- [4]
+						1658, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271228.1, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						7467, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [27]
+					{
+						false, -- [1]
+						18562, -- [2]
+						7064, -- [3]
+						1608271228.984, -- [4]
+						8184, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						false, -- [1]
+						320221, -- [2]
+						941, -- [3]
+						1608271229.087, -- [4]
+						8184, -- [5]
+						"Boomie", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271229.087, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						941, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						345550, -- [2]
+						3684, -- [3]
+						1608271229.508, -- [4]
+						4804, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						330848, -- [2]
+						9124, -- [3]
+						1608271230.102, -- [4]
+						1, -- [5]
+						"[*] Wrong Moves", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						4320, -- [10]
+					}, -- [32]
+					{
+						3, -- [1]
+						33891, -- [2]
+						1, -- [3]
+						1608271139.076, -- [4]
+						0, -- [5]
+						"Boomie", -- [6]
+					}, -- [33]
+				},
+				["class"] = "DRUID",
+				["timestring"] = "7m 13s",
+				["time"] = 1608271230.125,
+			}, -- [6]
+			{
+				["maxhealth"] = 29479,
+				["timeofdeath"] = 458.091999999946,
+				["name"] = "Drmango",
+				["events"] = {
+					{
+						false, -- [1]
+						48438, -- [2]
+						261, -- [3]
+						1608271248.093, -- [4]
+						20343, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [1]
+					{
+						false, -- [1]
+						191840, -- [2]
+						69, -- [3]
+						1608271248.398, -- [4]
+						20412, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						345211, -- [2]
+						401, -- [3]
+						1608271248.398, -- [4]
+						20011, -- [5]
+						"Drmango", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						false, -- [1]
+						48438, -- [2]
+						319, -- [3]
+						1608271248.55, -- [4]
+						20330, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						191840, -- [2]
+						771, -- [3]
+						1608271248.771, -- [4]
+						21101, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						334909, -- [2]
+						345, -- [3]
+						1608271248.771, -- [4]
+						20756, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						false, -- [1]
+						774, -- [2]
+						1059, -- [3]
+						1608271249.11, -- [4]
+						21848, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						true, -- [1]
+						345211, -- [2]
+						401, -- [3]
+						1608271249.414, -- [4]
+						21447, -- [5]
+						"Drmango", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						191840, -- [2]
+						736, -- [3]
+						1608271249.638, -- [4]
+						22183, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						334909, -- [2]
+						346, -- [3]
+						1608271249.768, -- [4]
+						21837, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						false, -- [1]
+						191840, -- [2]
+						66, -- [3]
+						1608271249.885, -- [4]
+						21903, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						345211, -- [2]
+						401, -- [3]
+						1608271250.421, -- [4]
+						21502, -- [5]
+						"Drmango", -- [6]
+						nil, -- [7]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						191840, -- [2]
+						757, -- [3]
+						1608271250.627, -- [4]
+						22259, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [13]
+					{
+						true, -- [1]
+						334909, -- [2]
+						346, -- [3]
+						1608271250.794, -- [4]
+						21913, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						774, -- [2]
+						519, -- [3]
+						1608271251.29, -- [4]
+						22464, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						191840, -- [2]
+						67, -- [3]
+						1608271251.372, -- [4]
+						22531, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						true, -- [1]
+						334909, -- [2]
+						345, -- [3]
+						1608271251.791, -- [4]
+						22186, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						346685, -- [2]
+						4171, -- [3]
+						1608271251.909, -- [4]
+						18015, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271252.094, -- [4]
+						18015, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [19]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2159, -- [3]
+						1608271252.593, -- [4]
+						15856, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [20]
+					{
+						true, -- [1]
+						334909, -- [2]
+						345, -- [3]
+						1608271252.796, -- [4]
+						15511, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						191840, -- [2]
+						132, -- [3]
+						1608271252.842, -- [4]
+						15831, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2159, -- [3]
+						1608271253.087, -- [4]
+						13672, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
+					{
+						true, -- [1]
+						346685, -- [2]
+						5214, -- [3]
+						1608271253.409, -- [4]
+						8458, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						774, -- [2]
+						519, -- [3]
+						1608271253.458, -- [4]
+						8977, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [25]
+					{
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271253.503, -- [4]
+						8977, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [26]
+					{
+						4, -- [1]
+						334909, -- [2]
+						2, -- [3]
+						1608271253.764, -- [4]
+						8977, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [27]
+					{
+						true, -- [1]
+						334909, -- [2]
+						691, -- [3]
+						1608271253.799, -- [4]
+						8286, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [28]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2159, -- [3]
+						1608271254.009, -- [4]
+						6127, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [29]
+					{
+						false, -- [1]
+						191840, -- [2]
+						66, -- [3]
+						1608271254.331, -- [4]
+						6193, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						334909, -- [2]
+						691, -- [3]
+						1608271254.809, -- [4]
+						5502, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [31]
+					{
+						true, -- [1]
+						346685, -- [2]
+						6258, -- [3]
+						1608271254.965, -- [4]
+						1, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						723, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -5535,2176 +12375,146 @@ DeathGraphsDBCurrent = {
 						"Drmango", -- [6]
 					}, -- [33]
 				},
-			}, -- [2]
-			{
-				["maxhealth"] = 31340,
-				["timeofdeath"] = 373.2779999999329,
-				["name"] = "Tumtumm",
-				["time"] = 1608184863.261,
-				["class"] = "MONK",
-				["timestring"] = "6m 13s",
-				["events"] = {
-					{
-						false, -- [1]
-						115310, -- [2]
-						4973, -- [3]
-						1608184851.137, -- [4]
-						32920, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						157982, -- [2]
-						164, -- [3]
-						1608184852.804, -- [4]
-						32920, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						320009, -- [2]
-						16, -- [3]
-						1608184853.332, -- [4]
-						32920, -- [5]
-						"Ngow", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2783, -- [3]
-						1608184853.332, -- [4]
-						30153, -- [5]
-						"Pestering Fiend", -- [6]
-						16, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						157982, -- [2]
-						172, -- [3]
-						1608184854.796, -- [4]
-						30325, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						73921, -- [2]
-						398, -- [3]
-						1608184855.094, -- [4]
-						30723, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						1, -- [2]
-						2740, -- [3]
-						1608184855.484, -- [4]
-						30723, -- [5]
-						"Vile Occultist", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						81269, -- [2]
-						414, -- [3]
-						1608184855.636, -- [4]
-						28397, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						81269, -- [2]
-						437, -- [3]
-						1608184855.992, -- [4]
-						28834, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						336398, -- [2]
-						3058, -- [3]
-						1608184856.195, -- [4]
-						25776, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						61295, -- [2]
-						3357, -- [3]
-						1608184856.81, -- [4]
-						29133, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						157982, -- [2]
-						172, -- [3]
-						1608184856.81, -- [4]
-						29305, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2783, -- [3]
-						1608184856.996, -- [4]
-						26522, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						336398, -- [2]
-						3058, -- [3]
-						1608184857.441, -- [4]
-						23464, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						1, -- [2]
-						3854, -- [3]
-						1608184857.498, -- [4]
-						23464, -- [5]
-						"Vile Occultist", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						207386, -- [2]
-						139, -- [3]
-						1608184857.645, -- [4]
-						19749, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						336398, -- [2]
-						3058, -- [3]
-						1608184857.645, -- [4]
-						16691, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						157982, -- [2]
-						94, -- [3]
-						1608184857.884, -- [4]
-						16785, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						336398, -- [2]
-						3058, -- [3]
-						1608184858.781, -- [4]
-						13727, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						336398, -- [2]
-						3058, -- [3]
-						1608184859.22, -- [4]
-						10669, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						336398, -- [2]
-						3058, -- [3]
-						1608184859.342, -- [4]
-						7611, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						61295, -- [2]
-						559, -- [3]
-						1608184859.515, -- [4]
-						8170, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						207386, -- [2]
-						139, -- [3]
-						1608184859.649, -- [4]
-						8309, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						336398, -- [2]
-						3059, -- [3]
-						1608184860.261, -- [4]
-						5250, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						774, -- [2]
-						513, -- [3]
-						1608184861.583, -- [4]
-						5763, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						207386, -- [2]
-						152, -- [3]
-						1608184861.658, -- [4]
-						5915, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						323436, -- [2]
-						6584, -- [3]
-						1608184861.975, -- [4]
-						12499, -- [5]
-						"Tumtumm", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						61295, -- [2]
-						528, -- [3]
-						1608184862.231, -- [4]
-						13027, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						48438, -- [2]
-						301, -- [3]
-						1608184862.475, -- [4]
-						13328, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						157503, -- [2]
-						470, -- [3]
-						1608184862.851, -- [4]
-						13798, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						48438, -- [2]
-						314, -- [3]
-						1608184863.062, -- [4]
-						14112, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						1, -- [2]
-						16941, -- [3]
-						1608184863.229, -- [4]
-						14112, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2829, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						122783, -- [2]
-						1, -- [3]
-						1608184782.318, -- [4]
-						0, -- [5]
-						"Tumtumm", -- [6]
-					}, -- [33]
-				},
-			}, -- [3]
-			{
-				["maxhealth"] = 41520,
-				["timeofdeath"] = 385.3610000000335,
-				["name"] = "Spoonerisms",
-				["time"] = 1608184875.344,
-				["class"] = "PALADIN",
-				["timestring"] = "6m 25s",
-				["events"] = {
-					{
-						2, -- [1]
-						61999, -- [2]
-						1, -- [3]
-						1608184879.017, -- [4]
-						0, -- [5]
-						"Nerf", -- [6]
-					}, -- [1]
-					{
-						true, -- [1]
-						325442, -- [2]
-						2764, -- [3]
-						1608184870, -- [4]
-						22848, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						61295, -- [2]
-						496, -- [3]
-						1608184870.364, -- [4]
-						23344, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						157982, -- [2]
-						1163, -- [3]
-						1608184870.529, -- [4]
-						24507, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						81269, -- [2]
-						398, -- [3]
-						1608184870.649, -- [4]
-						24905, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						32, -- [3]
-						1608184870.929, -- [4]
-						24937, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						325442, -- [2]
-						2764, -- [3]
-						1608184870.986, -- [4]
-						22173, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						77489, -- [2]
-						1046, -- [3]
-						1608184871.329, -- [4]
-						23219, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						157982, -- [2]
-						136, -- [3]
-						1608184871.329, -- [4]
-						23355, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						325442, -- [2]
-						2765, -- [3]
-						1608184871.985, -- [4]
-						20590, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						110, -- [3]
-						1608184872.149, -- [4]
-						20700, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						157982, -- [2]
-						1166, -- [3]
-						1608184872.248, -- [4]
-						21866, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						1, -- [2]
-						5626, -- [3]
-						1608184872.34, -- [4]
-						21866, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						207386, -- [2]
-						149, -- [3]
-						1608184872.682, -- [4]
-						16389, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						325442, -- [2]
-						2764, -- [3]
-						1608184872.99, -- [4]
-						13625, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						61295, -- [2]
-						1084, -- [3]
-						1608184873.082, -- [4]
-						14709, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						157982, -- [2]
-						169, -- [3]
-						1608184873.333, -- [4]
-						14878, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						81269, -- [2]
-						470, -- [3]
-						1608184873.333, -- [4]
-						15348, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						143924, -- [2]
-						9, -- [3]
-						1608184873.366, -- [4]
-						15357, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						325442, -- [2]
-						2764, -- [3]
-						1608184873.996, -- [4]
-						12593, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						48438, -- [2]
-						353, -- [3]
-						1608184874.095, -- [4]
-						12946, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						77489, -- [2]
-						1046, -- [3]
-						1608184874.339, -- [4]
-						13992, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						157982, -- [2]
-						188, -- [3]
-						1608184874.339, -- [4]
-						14180, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						1, -- [2]
-						3777, -- [3]
-						1608184874.498, -- [4]
-						14180, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						48438, -- [2]
-						350, -- [3]
-						1608184874.498, -- [4]
-						14530, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						1, -- [2]
-						3920, -- [3]
-						1608184874.524, -- [4]
-						10753, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						143924, -- [2]
-						321, -- [3]
-						1608184874.579, -- [4]
-						7154, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						207386, -- [2]
-						149, -- [3]
-						1608184874.668, -- [4]
-						7303, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						61295, -- [2]
-						356, -- [3]
-						1608184874.76, -- [4]
-						7659, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						48438, -- [2]
-						347, -- [3]
-						1608184874.922, -- [4]
-						8006, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						325442, -- [2]
-						2765, -- [3]
-						1608184874.986, -- [4]
-						5241, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						1, -- [2]
-						6012, -- [3]
-						1608184875.317, -- [4]
-						5241, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						771, -- [10]
-					}, -- [32]
-					{
-						false, -- [1]
-						157982, -- [2]
-						191, -- [3]
-						1608184875.344, -- [4]
-						5432, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						642, -- [2]
-						1, -- [3]
-						1608184846.244, -- [4]
-						0, -- [5]
-						"Spoonerisms", -- [6]
-					}, -- [34]
-				},
-			}, -- [4]
-			{
-				["maxhealth"] = 32076,
-				["timeofdeath"] = 415.5409999999683,
-				["name"] = "Focalaire",
-				["time"] = 1608184905.524,
 				["class"] = "MAGE",
-				["timestring"] = "6m 55s",
-				["events"] = {
-					{
-						false, -- [1]
-						325118, -- [2]
-						129, -- [3]
-						1608184896.796, -- [4]
-						23077, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						325118, -- [2]
-						128, -- [3]
-						1608184896.796, -- [4]
-						23205, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184896.796, -- [4]
-						23269, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184896.796, -- [4]
-						23333, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184896.796, -- [4]
-						23397, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184896.796, -- [4]
-						23461, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						207386, -- [2]
-						145, -- [3]
-						1608184896.826, -- [4]
-						23606, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						98021, -- [2]
-						1414, -- [3]
-						1608184896.992, -- [4]
-						22192, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						40, -- [3]
-						1608184897.249, -- [4]
-						22232, -- [5]
-						"Focalaire", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						774, -- [2]
-						539, -- [3]
-						1608184897.711, -- [4]
-						22771, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184897.87, -- [4]
-						22835, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						636, -- [3]
-						1608184898.475, -- [4]
-						23471, -- [5]
-						"Focalaire", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						false, -- [1]
-						207386, -- [2]
-						144, -- [3]
-						1608184898.815, -- [4]
-						23615, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184898.936, -- [4]
-						23679, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						143924, -- [2]
-						244, -- [3]
-						1608184899.677, -- [4]
-						17186, -- [5]
-						"Focalaire", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						774, -- [2]
-						547, -- [3]
-						1608184899.729, -- [4]
-						17733, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184899.984, -- [4]
-						17797, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						207386, -- [2]
-						139, -- [3]
-						1608184900.82, -- [4]
-						17936, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						143924, -- [2]
-						347, -- [3]
-						1608184900.909, -- [4]
-						18283, -- [5]
-						"Focalaire", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						325118, -- [2]
-						128, -- [3]
-						1608184901.069, -- [4]
-						18411, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						774, -- [2]
-						546, -- [3]
-						1608184901.7, -- [4]
-						18957, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						143924, -- [2]
-						273, -- [3]
-						1608184902.108, -- [4]
-						19230, -- [5]
-						"Focalaire", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						325118, -- [2]
-						66, -- [3]
-						1608184902.367, -- [4]
-						19296, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [23]
-					{
-						false, -- [1]
-						207386, -- [2]
-						140, -- [3]
-						1608184902.811, -- [4]
-						19436, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						143924, -- [2]
-						390, -- [3]
-						1608184903.315, -- [4]
-						19826, -- [5]
-						"Focalaire", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						774, -- [2]
-						547, -- [3]
-						1608184903.711, -- [4]
-						20373, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						325118, -- [2]
-						77, -- [3]
-						1608184904.264, -- [4]
-						20450, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						143924, -- [2]
-						158, -- [3]
-						1608184904.529, -- [4]
-						20608, -- [5]
-						"Focalaire", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						325118, -- [2]
-						155, -- [3]
-						1608184905.3, -- [4]
-						20763, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608184905.524, -- [4]
-						20763, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184905.524, -- [4]
-						20763, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						325877, -- [2]
-						26907, -- [3]
-						1608184905.524, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						5662, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Focalaire", -- [6]
-					}, -- [33]
-				},
-			}, -- [5]
-			{
-				["maxhealth"] = 48580,
-				["timeofdeath"] = 416.4249999999302,
-				["name"] = "Nerf",
-				["time"] = 1608184906.408,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "6m 56s",
-				["events"] = {
-					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1608184909.757, -- [4]
-						0, -- [5]
-						"Ngow", -- [6]
-					}, -- [1]
-					{
-						false, -- [1]
-						55078, -- [2]
-						220, -- [3]
-						1608184903.483, -- [4]
-						55154, -- [5]
-						"Nerf", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						53365, -- [2]
-						4163, -- [3]
-						1608184903.662, -- [4]
-						59317, -- [5]
-						"Nerf", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						33763, -- [2]
-						340, -- [3]
-						1608184903.689, -- [4]
-						59657, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						325440, -- [2]
-						8470, -- [3]
-						1608184904.023, -- [4]
-						51187, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						4, -- [1]
-						325442, -- [2]
-						7, -- [3]
-						1608184904.023, -- [4]
-						51187, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						325442, -- [2]
-						9879, -- [3]
-						1608184904.091, -- [4]
-						41307, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						325118, -- [2]
-						105, -- [3]
-						1608184904.114, -- [4]
-						41412, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						77, -- [3]
-						1608184904.134, -- [4]
-						41489, -- [5]
-						"Nerf", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1717, -- [3]
-						1608184904.177, -- [4]
-						39772, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						33763, -- [2]
-						340, -- [3]
-						1608184904.386, -- [4]
-						40112, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						77489, -- [2]
-						390, -- [3]
-						1608184904.439, -- [4]
-						40502, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						55078, -- [2]
-						247, -- [3]
-						1608184904.718, -- [4]
-						40749, -- [5]
-						"Nerf", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						33763, -- [2]
-						340, -- [3]
-						1608184905.073, -- [4]
-						41089, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						325442, -- [2]
-						9879, -- [3]
-						1608184905.098, -- [4]
-						31210, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						55078, -- [2]
-						247, -- [3]
-						1608184905.122, -- [4]
-						31457, -- [5]
-						"Nerf", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						325118, -- [2]
-						105, -- [3]
-						1608184905.144, -- [4]
-						31562, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1717, -- [3]
-						1608184905.167, -- [4]
-						29845, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						55078, -- [2]
-						245, -- [3]
-						1608184905.196, -- [4]
-						30090, -- [5]
-						"Nerf", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						143924, -- [2]
-						42, -- [3]
-						1608184905.333, -- [4]
-						30132, -- [5]
-						"Nerf", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						33763, -- [2]
-						694, -- [3]
-						1608184905.733, -- [4]
-						30826, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						48438, -- [2]
-						324, -- [3]
-						1608184906.1, -- [4]
-						12783, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						206967, -- [2]
-						2963, -- [3]
-						1608184906.1, -- [4]
-						12783, -- [5]
-						"Nerf", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184906.1, -- [4]
-						12783, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						325442, -- [2]
-						9879, -- [3]
-						1608184906.1, -- [4]
-						6349, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						3445, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						206967, -- [2]
-						515, -- [3]
-						1608184906.207, -- [4]
-						6349, -- [5]
-						"Nerf", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184906.207, -- [4]
-						6349, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1717, -- [3]
-						1608184906.207, -- [4]
-						5629, -- [5]
-						"Shade of Kael'thas", -- [6]
-						997, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						774, -- [2]
-						1135, -- [3]
-						1608184906.269, -- [4]
-						6764, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						1, -- [2]
-						11933, -- [3]
-						1608184906.372, -- [4]
-						6764, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						4061, -- [7]
-						1, -- [8]
-						false, -- [9]
-						1108, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						325118, -- [2]
-						77, -- [3]
-						1608184906.372, -- [4]
-						6841, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						false, -- [1]
-						206967, -- [2]
-						3579, -- [3]
-						1608184906.372, -- [4]
-						6841, -- [5]
-						"Nerf", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184906.372, -- [4]
-						6841, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						55233, -- [2]
-						1, -- [3]
-						1608184893.843, -- [4]
-						0, -- [5]
-						"Nerf", -- [6]
-					}, -- [34]
-				},
-			}, -- [6]
-			{
-				["maxhealth"] = 32480,
-				["timeofdeath"] = 416.9290000000037,
-				["name"] = "Diplomacy",
-				["time"] = 1608184906.912,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "6m 56s",
-				["events"] = {
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184899.639, -- [4]
-						28100, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						48438, -- [2]
-						294, -- [3]
-						1608184899.949, -- [4]
-						21574, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						48438, -- [2]
-						289, -- [3]
-						1608184900.291, -- [4]
-						21863, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						774, -- [2]
-						547, -- [3]
-						1608184900.339, -- [4]
-						22410, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184900.639, -- [4]
-						22474, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						48438, -- [2]
-						270, -- [3]
-						1608184900.639, -- [4]
-						22744, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						48438, -- [2]
-						266, -- [3]
-						1608184900.967, -- [4]
-						23010, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						48438, -- [2]
-						261, -- [3]
-						1608184901.301, -- [4]
-						23271, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						48438, -- [2]
-						257, -- [3]
-						1608184901.657, -- [4]
-						23528, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						15290, -- [2]
-						1089, -- [3]
-						1608184901.933, -- [4]
-						24617, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						325118, -- [2]
-						67, -- [3]
-						1608184902.192, -- [4]
-						24684, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						48438, -- [2]
-						249, -- [3]
-						1608184902.339, -- [4]
-						24933, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						774, -- [2]
-						547, -- [3]
-						1608184902.367, -- [4]
-						25480, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						15290, -- [2]
-						856, -- [3]
-						1608184902.927, -- [4]
-						26336, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						48438, -- [2]
-						489, -- [3]
-						1608184903.035, -- [4]
-						26825, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						325118, -- [2]
-						77, -- [3]
-						1608184903.607, -- [4]
-						26902, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						48438, -- [2]
-						231, -- [3]
-						1608184903.689, -- [4]
-						27133, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						73921, -- [2]
-						426, -- [3]
-						1608184903.759, -- [4]
-						27559, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						48438, -- [2]
-						171, -- [3]
-						1608184904.207, -- [4]
-						27730, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						774, -- [2]
-						547, -- [3]
-						1608184904.36, -- [4]
-						28277, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						325118, -- [2]
-						78, -- [3]
-						1608184905.233, -- [4]
-						28355, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608184905.524, -- [4]
-						28355, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184905.524, -- [4]
-						28355, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						325877, -- [2]
-						26222, -- [3]
-						1608184905.524, -- [4]
-						2615, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184905.874, -- [4]
-						2615, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						774, -- [2]
-						547, -- [3]
-						1608184906.338, -- [4]
-						3162, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184906.504, -- [4]
-						3162, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1485, -- [3]
-						1608184906.504, -- [4]
-						2159, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						325118, -- [2]
-						78, -- [3]
-						1608184906.603, -- [4]
-						2237, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						325209, -- [2]
-						535, -- [3]
-						1608184906.753, -- [4]
-						2772, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184906.88, -- [4]
-						2772, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328579, -- [2]
-						9279, -- [3]
-						1608184906.912, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						6025, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						48792, -- [2]
-						1, -- [3]
-						1608184881.887, -- [4]
-						0, -- [5]
-						"Diplomacy", -- [6]
-					}, -- [33]
-				},
+				["timestring"] = "7m 38s",
+				["time"] = 1608271254.965,
 			}, -- [7]
 			{
-				["maxhealth"] = 33900,
-				["timeofdeath"] = 418.216999999946,
-				["name"] = "Huskeryfloof",
-				["time"] = 1608184908.2,
-				["class"] = "DRUID",
-				["timestring"] = "6m 58s",
+				["maxhealth"] = 33560,
+				["timeofdeath"] = 458.5729999999749,
+				["name"] = "Downloaded",
 				["events"] = {
 					{
-						false, -- [1]
-						774, -- [2]
-						534, -- [3]
-						1608184902.623, -- [4]
-						20952, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						346939, -- [2]
+						1, -- [3]
+						1608271251.104, -- [4]
+						20135, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						774, -- [2]
-						504, -- [3]
-						1608184902.652, -- [4]
-						21456, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						182, -- [3]
+						1608271251.909, -- [4]
+						20135, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [2]
 					{
-						false, -- [1]
-						143924, -- [2]
-						154, -- [3]
-						1608184903.315, -- [4]
-						21610, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						346685, -- [2]
+						4113, -- [3]
+						1608271251.909, -- [4]
+						16204, -- [5]
+						"Baroness Frieda", -- [6]
+						182, -- [7]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						15290, -- [2]
-						1202, -- [3]
-						1608184903.392, -- [4]
-						22812, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271251.909, -- [4]
+						16204, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						22842, -- [2]
-						3104, -- [3]
-						1608184903.547, -- [4]
-						25916, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271252.094, -- [4]
+						16204, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [5]
 					{
-						false, -- [1]
-						774, -- [2]
-						606, -- [3]
-						1608184904.41, -- [4]
-						26522, -- [5]
-						"Huskeryfloof", -- [6]
+						true, -- [1]
+						346945, -- [2]
+						2171, -- [3]
+						1608271252.593, -- [4]
+						14033, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						143924, -- [2]
-						197, -- [3]
-						1608184904.529, -- [4]
-						26719, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						182, -- [3]
+						1608271253.087, -- [4]
+						14033, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [7]
 					{
-						false, -- [1]
-						22842, -- [2]
-						3104, -- [3]
-						1608184904.558, -- [4]
-						29823, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						346945, -- [2]
+						2171, -- [3]
+						1608271253.087, -- [4]
+						12044, -- [5]
+						"Baroness Frieda", -- [6]
+						182, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						774, -- [2]
-						534, -- [3]
-						1608184904.605, -- [4]
-						30357, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271253.087, -- [4]
+						12044, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [9]
 					{
-						false, -- [1]
-						774, -- [2]
-						504, -- [3]
-						1608184904.695, -- [4]
-						30861, -- [5]
-						"Ngow", -- [6]
+						true, -- [1]
+						346685, -- [2]
+						4114, -- [3]
+						1608271253.409, -- [4]
+						7930, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
-						false, -- [1]
-						15290, -- [2]
-						1973, -- [3]
-						1608184905.414, -- [4]
-						32834, -- [5]
-						"Lyuna", -- [6]
+						true, -- [1]
+						346945, -- [2]
+						1737, -- [3]
+						1608271253.592, -- [4]
+						6193, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
-						false, -- [10]
+						-1, -- [10]
 					}, -- [11]
 					{
 						4, -- [1]
-						326430, -- [2]
+						334909, -- [2]
 						1, -- [3]
-						1608184905.524, -- [4]
-						32834, -- [5]
-						"Shade of Kael'thas", -- [6]
+						1608271253.764, -- [4]
+						6193, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
@@ -7712,1363 +12522,453 @@ DeathGraphsDBCurrent = {
 					}, -- [12]
 					{
 						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184905.524, -- [4]
-						32834, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
+						108366, -- [2]
+						182, -- [3]
+						1608271254.769, -- [4]
+						6193, -- [5]
+						"Downloaded", -- [6]
 						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [13]
 					{
 						true, -- [1]
-						325877, -- [2]
-						23920, -- [3]
-						1608184905.524, -- [4]
-						9396, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
+						334909, -- [2]
+						277, -- [3]
+						1608271254.769, -- [4]
+						6098, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						182, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
 						false, -- [1]
-						143924, -- [2]
-						112, -- [3]
-						1608184905.733, -- [4]
-						9508, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271254.769, -- [4]
+						6098, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [15]
 					{
 						4, -- [1]
-						328579, -- [2]
+						346945, -- [2]
 						1, -- [3]
-						1608184906.17, -- [4]
-						9508, -- [5]
-						"[*] Smoldering Remnants", -- [6]
+						1608271254.91, -- [4]
+						6098, -- [5]
+						"Baroness Frieda", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
 					}, -- [16]
 					{
-						false, -- [1]
-						774, -- [2]
-						547, -- [3]
-						1608184906.436, -- [4]
-						10055, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271254.91, -- [4]
+						6098, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [17]
 					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184906.504, -- [4]
-						10055, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271254.939, -- [4]
+						6098, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [18]
 					{
-						true, -- [1]
-						326430, -- [2]
-						1357, -- [3]
-						1608184906.504, -- [4]
-						9180, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271254.939, -- [4]
+						6098, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						774, -- [2]
-						1090, -- [3]
-						1608184906.603, -- [4]
-						10270, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						182, -- [3]
+						1608271254.965, -- [4]
+						6098, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [20]
 					{
-						false, -- [1]
-						145109, -- [2]
-						1068, -- [3]
-						1608184906.629, -- [4]
-						11338, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						346685, -- [2]
+						6170, -- [3]
+						1608271254.965, -- [4]
+						110, -- [5]
+						"Baroness Frieda", -- [6]
+						182, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						774, -- [2]
-						504, -- [3]
-						1608184906.753, -- [4]
-						11842, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271254.965, -- [4]
+						110, -- [5]
+						"Downloaded", -- [6]
+						true, -- [7]
 						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [22]
 					{
-						false, -- [1]
-						143924, -- [2]
-						53, -- [3]
-						1608184906.971, -- [4]
-						11895, -- [5]
-						"Huskeryfloof", -- [6]
+						true, -- [1]
+						346945, -- [2]
+						2171, -- [3]
+						1608271255.43, -- [4]
+						1, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						2061, -- [10]
 					}, -- [23]
 					{
-						1, -- [1]
-						33891, -- [2]
-						1, -- [3]
-						1608184906.971, -- [4]
-						11895, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184907.189, -- [4]
-						11895, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8477, -- [3]
-						1608184907.189, -- [4]
-						3900, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184907.513, -- [4]
-						3900, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1356, -- [3]
-						1608184907.513, -- [4]
-						3026, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						8936, -- [2]
-						3994, -- [3]
-						1608184907.97, -- [4]
-						7020, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						143924, -- [2]
-						56, -- [3]
-						1608184908.172, -- [4]
-						7076, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184908.2, -- [4]
-						7076, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8477, -- [3]
-						1608184908.2, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						919, -- [10]
-					}, -- [32]
-					{
 						3, -- [1]
-						33891, -- [2]
+						104773, -- [2]
 						1, -- [3]
-						1608184906.971, -- [4]
+						1608271028.782, -- [4]
 						0, -- [5]
-						"Huskeryfloof", -- [6]
-					}, -- [33]
+						"Downloaded", -- [6]
+					}, -- [24]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "7m 38s",
+				["time"] = 1608271255.446,
 			}, -- [8]
 			{
-				["maxhealth"] = 29169,
-				["timeofdeath"] = 418.7129999999888,
+				["maxhealth"] = 31185,
+				["timeofdeath"] = 460.2449999999953,
 				["name"] = "Maserder",
-				["time"] = 1608184908.696,
-				["class"] = "MAGE",
-				["timestring"] = "6m 58s",
 				["events"] = {
 					{
-						false, -- [1]
-						774, -- [2]
-						660, -- [3]
-						1608184903.579, -- [4]
-						25745, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271252.073, -- [4]
+						18534, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [1]
-					{
-						false, -- [1]
-						325118, -- [2]
-						78, -- [3]
-						1608184904.114, -- [4]
-						24379, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						48438, -- [2]
-						301, -- [3]
-						1608184904.232, -- [4]
-						24680, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						8936, -- [2]
-						183, -- [3]
-						1608184904.583, -- [4]
-						24863, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						48438, -- [2]
-						295, -- [3]
-						1608184904.927, -- [4]
-						25158, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						48438, -- [2]
-						52, -- [3]
-						1608184905.042, -- [4]
-						25210, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						207386, -- [2]
-						168, -- [3]
-						1608184905.042, -- [4]
-						25378, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						325118, -- [2]
-						78, -- [3]
-						1608184905.122, -- [4]
-						25456, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608184905.524, -- [4]
-						25456, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184905.524, -- [4]
-						25456, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						235313, -- [2]
-						6730, -- [3]
-						1608184905.524, -- [4]
-						25456, -- [5]
-						"Maserder", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						325877, -- [2]
-						25787, -- [3]
-						1608184905.524, -- [4]
-						6881, -- [5]
-						"Shade of Kael'thas", -- [6]
-						7212, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						774, -- [2]
-						608, -- [3]
-						1608184905.607, -- [4]
-						7489, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184905.642, -- [4]
-						7489, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						8936, -- [2]
-						169, -- [3]
-						1608184905.953, -- [4]
-						7658, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						325118, -- [2]
-						78, -- [3]
-						1608184906.436, -- [4]
-						7736, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184906.504, -- [4]
-						7736, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1483, -- [3]
-						1608184906.504, -- [4]
-						6735, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						325209, -- [2]
-						535, -- [3]
-						1608184906.753, -- [4]
-						7270, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						207386, -- [2]
-						168, -- [3]
-						1608184907.031, -- [4]
-						7438, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						8936, -- [2]
-						154, -- [3]
-						1608184907.324, -- [4]
-						7592, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						325209, -- [2]
-						534, -- [3]
-						1608184907.429, -- [4]
-						8126, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184907.513, -- [4]
-						8126, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1483, -- [3]
-						1608184907.513, -- [4]
-						7125, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						325118, -- [2]
-						78, -- [3]
-						1608184907.627, -- [4]
-						7203, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184907.646, -- [4]
-						7203, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						326455, -- [2]
-						6877, -- [3]
-						1608184907.646, -- [4]
-						808, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						774, -- [2]
-						556, -- [3]
-						1608184907.67, -- [4]
-						1364, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						4, -- [1]
-						326456, -- [2]
-						1, -- [3]
-						1608184907.67, -- [4]
-						1364, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						325209, -- [2]
-						534, -- [3]
-						1608184908.098, -- [4]
-						1898, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1483, -- [3]
-						1608184908.506, -- [4]
-						415, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1780, -- [3]
-						1608184908.671, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						1365, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						45438, -- [2]
-						1, -- [3]
-						1608184882.242, -- [4]
-						0, -- [5]
-						"Maserder", -- [6]
-					}, -- [33]
-				},
-			}, -- [9]
-			{
-				["maxhealth"] = 31200,
-				["timeofdeath"] = 421.5659999999916,
-				["name"] = "Delpi",
-				["time"] = 1608184911.549,
-				["class"] = "MAGE",
-				["timestring"] = "7m 1s",
-				["events"] = {
-					{
-						true, -- [1]
-						326430, -- [2]
-						1434, -- [3]
-						1608184907.513, -- [4]
-						8439, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						48438, -- [2]
-						295, -- [3]
-						1608184908.077, -- [4]
-						8734, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184908.2, -- [4]
-						8734, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1721, -- [3]
-						1608184908.2, -- [4]
-						7495, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1434, -- [3]
-						1608184908.506, -- [4]
-						6061, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						325118, -- [2]
-						77, -- [3]
-						1608184908.526, -- [4]
-						6138, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						87023, -- [2]
-						2110, -- [3]
-						1608184908.526, -- [4]
-						4028, -- [5]
-						"Delpi", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						48438, -- [2]
-						285, -- [3]
-						1608184908.729, -- [4]
-						4313, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						235313, -- [2]
-						1721, -- [3]
-						1608184909.181, -- [4]
-						4350, -- [5]
-						"Delpi", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1721, -- [3]
-						1608184909.181, -- [4]
-						4350, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						61295, -- [2]
-						3704, -- [3]
-						1608184909.391, -- [4]
-						8054, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						48438, -- [2]
-						276, -- [3]
-						1608184909.391, -- [4]
-						8330, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						235313, -- [2]
-						1434, -- [3]
-						1608184909.534, -- [4]
-						8330, -- [5]
-						"Delpi", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1434, -- [3]
-						1608184909.534, -- [4]
-						8330, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						325118, -- [2]
-						155, -- [3]
-						1608184909.534, -- [4]
-						8485, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						235313, -- [2]
-						4071, -- [3]
-						1608184909.565, -- [4]
-						8485, -- [5]
-						"Delpi", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						325506, -- [2]
-						8073, -- [3]
-						1608184909.565, -- [4]
-						4483, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						4071, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						191840, -- [2]
-						763, -- [3]
-						1608184909.703, -- [4]
-						5246, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						157503, -- [2]
-						639, -- [3]
-						1608184909.781, -- [4]
-						5885, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						87023, -- [2]
-						2110, -- [3]
-						1608184910.013, -- [4]
-						3775, -- [5]
-						"Delpi", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						48438, -- [2]
-						267, -- [3]
-						1608184910.062, -- [4]
-						4042, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1720, -- [3]
-						1608184910.18, -- [4]
-						2322, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1433, -- [3]
-						1608184910.533, -- [4]
-						889, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						48438, -- [2]
-						524, -- [3]
-						1608184910.715, -- [4]
-						1413, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						191840, -- [2]
-						68, -- [3]
-						1608184911.064, -- [4]
-						1517, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						774, -- [2]
-						585, -- [3]
-						1608184911.14, -- [4]
-						2102, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						326456, -- [2]
-						1721, -- [3]
-						1608184911.164, -- [4]
-						381, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						48438, -- [2]
-						271, -- [3]
-						1608184911.397, -- [4]
-						652, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						61295, -- [2]
-						494, -- [3]
-						1608184911.468, -- [4]
-						1146, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						311123, -- [2]
-						1274, -- [3]
-						1608184911.489, -- [4]
-						2420, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						326430, -- [2]
-						1434, -- [3]
-						1608184911.518, -- [4]
-						986, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						87023, -- [2]
-						2110, -- [3]
-						1608184911.549, -- [4]
-						1, -- [5]
-						"Delpi", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						true, -- [9]
-						1124, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						45438, -- [2]
-						1, -- [3]
-						1608184624.911, -- [4]
-						0, -- [5]
-						"Delpi", -- [6]
-					}, -- [33]
-				},
-			}, -- [10]
-		},
-		["bossname"] = "Sun King's Salvation",
-		["bossicon"] = {
-			0.5, -- [1]
-			0.75, -- [2]
-			0, -- [3]
-			0.25, -- [4]
-			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
-		},
-		["date"] = 734090.628,
-		["timeelapsed"] = 464.9150000000373,
-	}, -- [1]
-	{
-		["deaths"] = {
-			{
-				["maxhealth"] = 32480,
-				["timeofdeath"] = 9.476000000024214,
-				["name"] = "Diplomacy",
-				["time"] = 1608184168.318,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "0m 9s",
-				["events"] = {
-					{
-						false, -- [1]
-						347788, -- [2]
-						519, -- [3]
-						1608184163.505, -- [4]
-						35805, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [1]
-					{
-						false, -- [1]
-						114942, -- [2]
-						563, -- [3]
-						1608184165.057, -- [4]
-						34100, -- [5]
-						"Healing Tide Totem <Scitron>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [2]
-					{
-						false, -- [1]
-						48438, -- [2]
-						310, -- [3]
-						1608184165.08, -- [4]
-						34100, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [3]
-					{
-						false, -- [1]
-						48438, -- [2]
-						608, -- [3]
-						1608184165.952, -- [4]
-						34100, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						false, -- [1]
-						81269, -- [2]
-						861, -- [3]
-						1608184166.139, -- [4]
-						34100, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [5]
-					{
-						false, -- [1]
-						320009, -- [2]
-						86, -- [3]
-						1608184166.29, -- [4]
-						34100, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [6]
-					{
-						false, -- [1]
-						320009, -- [2]
-						91, -- [3]
-						1608184166.29, -- [4]
-						34100, -- [5]
-						"Huskeryfloof", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [7]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2477, -- [3]
-						1608184166.29, -- [4]
-						31800, -- [5]
-						"High Torturer Darithos", -- [6]
-						177, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184166.29, -- [4]
-						29324, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184166.29, -- [4]
-						26848, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184166.29, -- [4]
-						24372, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						114083, -- [2]
-						609, -- [3]
-						1608184166.408, -- [4]
-						24981, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184166.787, -- [4]
-						22505, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184166.787, -- [4]
-						20029, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184166.787, -- [4]
-						17553, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						48438, -- [2]
-						286, -- [3]
-						1608184166.827, -- [4]
-						17839, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [16]
-					{
-						false, -- [1]
-						114942, -- [2]
-						697, -- [3]
-						1608184166.889, -- [4]
-						18536, -- [5]
-						"Healing Tide Totem <Scitron>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						true, -- [1]
-						341475, -- [2]
-						4475, -- [3]
-						1608184167.03, -- [4]
-						14061, -- [5]
-						"Bleakwing Assassin", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						4, -- [1]
-						341475, -- [2]
-						1, -- [3]
-						1608184167.03, -- [4]
-						14061, -- [5]
-						"Bleakwing Assassin", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184167.293, -- [4]
-						11585, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184167.293, -- [4]
-						9109, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184167.293, -- [4]
-						6633, -- [5]
-						"High Torturer Darithos", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						317223, -- [2]
-						494, -- [3]
-						1608184167.393, -- [4]
-						7127, -- [5]
-						"Lilkdog", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [23]
 					{
 						false, -- [1]
 						48438, -- [2]
 						275, -- [3]
-						1608184167.668, -- [4]
-						7402, -- [5]
+						1608271252.22, -- [4]
+						18809, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [2]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2225, -- [3]
+						1608271252.572, -- [4]
+						16584, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [3]
+					{
+						true, -- [1]
+						334909, -- [2]
+						356, -- [3]
+						1608271252.82, -- [4]
+						16228, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [4]
+					{
+						false, -- [1]
+						48438, -- [2]
+						265, -- [3]
+						1608271252.967, -- [4]
+						16493, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [5]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2226, -- [3]
+						1608271253.087, -- [4]
+						14267, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [6]
+					{
+						true, -- [1]
+						346685, -- [2]
+						5191, -- [3]
+						1608271253.409, -- [4]
+						9076, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
+					{
+						false, -- [1]
+						191840, -- [2]
+						66, -- [3]
+						1608271253.458, -- [4]
+						9142, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2226, -- [3]
+						1608271253.592, -- [4]
+						6916, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						false, -- [1]
+						48438, -- [2]
+						255, -- [3]
+						1608271253.724, -- [4]
+						7171, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						4, -- [1]
+						334909, -- [2]
+						2, -- [3]
+						1608271253.764, -- [4]
+						7171, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [11]
+					{
+						true, -- [1]
+						334909, -- [2]
+						712, -- [3]
+						1608271253.831, -- [4]
+						6459, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						true, -- [1]
+						346945, -- [2]
+						2225, -- [3]
+						1608271254.082, -- [4]
+						4234, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						48438, -- [2]
+						245, -- [3]
+						1608271254.466, -- [4]
+						4479, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						true, -- [1]
+						334909, -- [2]
+						712, -- [3]
+						1608271254.834, -- [4]
+						3767, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						87023, -- [2]
+						7148, -- [3]
+						1608271254.965, -- [4]
+						10915, -- [5]
+						"Maserder", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						86949, -- [2]
+						6229, -- [3]
+						1608271254.965, -- [4]
+						10915, -- [5]
+						"Maserder", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [17]
+					{
+						true, -- [1]
+						346685, -- [2]
+						6229, -- [3]
+						1608271254.965, -- [4]
+						10915, -- [5]
+						"Baroness Frieda", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						191840, -- [2]
+						66, -- [3]
+						1608271254.965, -- [4]
+						10981, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271255.183, -- [4]
+						10981, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						48438, -- [2]
+						235, -- [3]
+						1608271255.226, -- [4]
+						11216, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						false, -- [1]
+						48438, -- [2]
+						74, -- [3]
+						1608271255.467, -- [4]
+						11290, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
+					{
+						false, -- [1]
+						48438, -- [2]
+						315, -- [3]
+						1608271255.636, -- [4]
+						11605, -- [5]
 						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
-					}, -- [24]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [23]
 					{
 						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184167.782, -- [4]
-						4926, -- [5]
-						"High Torturer Darithos", -- [6]
+						334909, -- [2]
+						712, -- [3]
+						1608271255.842, -- [4]
+						10893, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
 						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [24]
+					{
+						false, -- [1]
+						48438, -- [2]
+						304, -- [3]
+						1608271256.355, -- [4]
+						11197, -- [5]
+						"Huskeryfloof", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
 						true, -- [1]
-						328890, -- [2]
-						2476, -- [3]
-						1608184167.782, -- [4]
-						2450, -- [5]
-						"High Torturer Darithos", -- [6]
+						346685, -- [2]
+						7267, -- [3]
+						1608271256.432, -- [4]
+						3930, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
@@ -9076,67 +12976,75 @@ DeathGraphsDBCurrent = {
 					}, -- [26]
 					{
 						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184167.901, -- [4]
-						2514, -- [5]
-						"Lyuna", -- [6]
+						191840, -- [2]
+						66, -- [3]
+						1608271256.432, -- [4]
+						3996, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						325118, -- [2]
-						128, -- [3]
-						1608184167.901, -- [4]
-						2642, -- [5]
-						"Lyuna", -- [6]
+						true, -- [1]
+						87023, -- [2]
+						2078, -- [3]
+						1608271256.487, -- [4]
+						1918, -- [5]
+						"Maserder", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						4, -- [8]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [28]
 					{
-						false, -- [1]
-						325118, -- [2]
-						64, -- [3]
-						1608184167.901, -- [4]
-						2706, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271256.577, -- [4]
+						1918, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [29]
 					{
 						true, -- [1]
-						341475, -- [2]
-						1010, -- [3]
-						1608184168.049, -- [4]
-						1696, -- [5]
-						"Bleakwing Assassin", -- [6]
+						334909, -- [2]
+						712, -- [3]
+						1608271256.856, -- [4]
+						1206, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						207386, -- [2]
-						146, -- [3]
-						1608184168.153, -- [4]
-						1842, -- [5]
-						"Boomie", -- [6]
+						48438, -- [2]
+						602, -- [3]
+						1608271257.083, -- [4]
+						1808, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						328890, -- [2]
-						2477, -- [3]
-						1608184168.279, -- [4]
+						346945, -- [2]
+						2225, -- [3]
+						1608271257.101, -- [4]
 						1, -- [5]
-						"High Torturer Darithos", -- [6]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						635, -- [10]
+						417, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -9144,3225 +13052,61 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Diplomacy", -- [6]
+						"Maserder", -- [6]
 					}, -- [33]
 				},
-			}, -- [1]
-			{
-				["maxhealth"] = 33784,
-				["timeofdeath"] = 140.8040000000037,
-				["name"] = "Downloaded",
-				["time"] = 1608184299.646,
-				["class"] = "WARLOCK",
-				["timestring"] = "2m 20s",
-				["events"] = {
-					{
-						false, -- [1]
-						77489, -- [2]
-						93, -- [3]
-						1608184292.532, -- [4]
-						27818, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						774, -- [2]
-						578, -- [3]
-						1608184292.683, -- [4]
-						28396, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						157982, -- [2]
-						1287, -- [3]
-						1608184293.248, -- [4]
-						29683, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						191840, -- [2]
-						71, -- [3]
-						1608184293.293, -- [4]
-						29754, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						157982, -- [2]
-						76, -- [3]
-						1608184293.53, -- [4]
-						29830, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						139, -- [2]
-						581, -- [3]
-						1608184294.03, -- [4]
-						30411, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						157982, -- [2]
-						2649, -- [3]
-						1608184294.995, -- [4]
-						33355, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						191840, -- [2]
-						72, -- [3]
-						1608184295.033, -- [4]
-						33427, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [8]
-					{
-						false, -- [1]
-						774, -- [2]
-						577, -- [3]
-						1608184295.303, -- [4]
-						34004, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						157982, -- [2]
-						114, -- [3]
-						1608184295.535, -- [4]
-						34118, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						108366, -- [2]
-						1847, -- [3]
-						1608184295.873, -- [4]
-						33789, -- [5]
-						"Downloaded", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2943, -- [3]
-						1608184295.873, -- [4]
-						32693, -- [5]
-						"Pestering Fiend", -- [6]
-						1847, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						139, -- [2]
-						581, -- [3]
-						1608184296.548, -- [4]
-						33274, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						191840, -- [2]
-						72, -- [3]
-						1608184296.795, -- [4]
-						33346, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						108366, -- [2]
-						403, -- [3]
-						1608184296.841, -- [4]
-						33346, -- [5]
-						"Downloaded", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						341254, -- [2]
-						5376, -- [3]
-						1608184296.841, -- [4]
-						28373, -- [5]
-						"Reborn Phoenix", -- [6]
-						403, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1608184296.841, -- [4]
-						28373, -- [5]
-						"Downloaded", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2943, -- [3]
-						1608184296.918, -- [4]
-						25430, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						157982, -- [2]
-						114, -- [3]
-						1608184297.529, -- [4]
-						25544, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						774, -- [2]
-						577, -- [3]
-						1608184297.895, -- [4]
-						26121, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						108366, -- [2]
-						785, -- [3]
-						1608184298.3, -- [4]
-						26121, -- [5]
-						"Downloaded", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2943, -- [3]
-						1608184298.3, -- [4]
-						23963, -- [5]
-						"Pestering Fiend", -- [6]
-						785, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						33110, -- [2]
-						1088, -- [3]
-						1608184298.324, -- [4]
-						25051, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						191840, -- [2]
-						71, -- [3]
-						1608184298.528, -- [4]
-						25122, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						139, -- [2]
-						581, -- [3]
-						1608184299.072, -- [4]
-						25703, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						108366, -- [2]
-						408, -- [3]
-						1608184299.357, -- [4]
-						25703, -- [5]
-						"Downloaded", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						341254, -- [2]
-						5377, -- [3]
-						1608184299.357, -- [4]
-						20734, -- [5]
-						"Reborn Phoenix", -- [6]
-						408, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1608184299.357, -- [4]
-						20734, -- [5]
-						"Downloaded", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						157982, -- [2]
-						113, -- [3]
-						1608184299.535, -- [4]
-						20847, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						191840, -- [2]
-						38, -- [3]
-						1608184299.535, -- [4]
-						20885, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608184299.615, -- [4]
-						20885, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						325877, -- [2]
-						51615, -- [3]
-						1608184299.646, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						30730, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Downloaded", -- [6]
-					}, -- [33]
-				},
-			}, -- [2]
-			{
-				["maxhealth"] = 28740,
-				["timeofdeath"] = 140.8040000000037,
-				["name"] = "Lyuna",
-				["time"] = 1608184299.646,
-				["class"] = "PRIEST",
-				["timestring"] = "2m 20s",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						102, -- [3]
-						1608184294.193, -- [4]
-						26380, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						34914, -- [2]
-						223, -- [3]
-						1608184294.193, -- [4]
-						26603, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						8936, -- [2]
-						148, -- [3]
-						1608184294.233, -- [4]
-						26751, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						1, -- [2]
-						3149, -- [3]
-						1608184294.233, -- [4]
-						26751, -- [5]
-						"Reborn Phoenix", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2391, -- [3]
-						1608184294.68, -- [4]
-						21211, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						157982, -- [2]
-						1209, -- [3]
-						1608184294.995, -- [4]
-						22420, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						143924, -- [2]
-						128, -- [3]
-						1608184295.379, -- [4]
-						22548, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						8936, -- [2]
-						143, -- [3]
-						1608184295.441, -- [4]
-						22691, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						191840, -- [2]
-						71, -- [3]
-						1608184295.469, -- [4]
-						22762, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						157982, -- [2]
-						104, -- [3]
-						1608184295.535, -- [4]
-						22866, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						774, -- [2]
-						504, -- [3]
-						1608184296.033, -- [4]
-						23370, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [11]
-					{
-						false, -- [1]
-						34914, -- [2]
-						246, -- [3]
-						1608184296.202, -- [4]
-						23616, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						1, -- [2]
-						3258, -- [3]
-						1608184296.232, -- [4]
-						23616, -- [5]
-						"Reborn Phoenix", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						44, -- [3]
-						1608184296.614, -- [4]
-						20402, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						34914, -- [2]
-						447, -- [3]
-						1608184296.984, -- [4]
-						20849, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2392, -- [3]
-						1608184297.16, -- [4]
-						18457, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						191840, -- [2]
-						71, -- [3]
-						1608184297.218, -- [4]
-						18528, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [17]
-					{
-						false, -- [1]
-						157982, -- [2]
-						103, -- [3]
-						1608184297.529, -- [4]
-						18631, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						143924, -- [2]
-						240, -- [3]
-						1608184297.823, -- [4]
-						18871, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						774, -- [2]
-						577, -- [3]
-						1608184297.926, -- [4]
-						19448, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [20]
-					{
-						4, -- [1]
-						328479, -- [2]
-						1, -- [3]
-						1608184298.154, -- [4]
-						19448, -- [5]
-						"Reborn Phoenix", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						1, -- [2]
-						3637, -- [3]
-						1608184298.252, -- [4]
-						19448, -- [5]
-						"Reborn Phoenix", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						32409, -- [2]
-						5044, -- [3]
-						1608184298.274, -- [4]
-						10767, -- [5]
-						"[*] Shadow Word: Death", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						34914, -- [2]
-						111, -- [3]
-						1608184298.394, -- [4]
-						10878, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184298.585, -- [4]
-						10878, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						774, -- [2]
-						496, -- [3]
-						1608184298.696, -- [4]
-						11374, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						191840, -- [2]
-						67, -- [3]
-						1608184298.974, -- [4]
-						11441, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						143924, -- [2]
-						9, -- [3]
-						1608184299.072, -- [4]
-						11450, -- [5]
-						"Lyuna", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						341254, -- [2]
-						4504, -- [3]
-						1608184299.323, -- [4]
-						6946, -- [5]
-						"Reborn Phoenix", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						157982, -- [2]
-						113, -- [3]
-						1608184299.535, -- [4]
-						7059, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608184299.615, -- [4]
-						7059, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						325877, -- [2]
-						43235, -- [3]
-						1608184299.646, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						36176, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Lyuna", -- [6]
-					}, -- [33]
-				},
-			}, -- [3]
-			{
-				["maxhealth"] = 28500,
-				["timeofdeath"] = 152.3030000000726,
-				["name"] = "Scitron",
-				["time"] = 1608184311.145,
-				["class"] = "SHAMAN",
-				["timestring"] = "2m 32s",
-				["events"] = {
-					{
-						false, -- [1]
-						191840, -- [2]
-						142, -- [3]
-						1608184297.8, -- [4]
-						29940, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						774, -- [2]
-						578, -- [3]
-						1608184297.895, -- [4]
-						29940, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						207386, -- [2]
-						155, -- [3]
-						1608184297.957, -- [4]
-						29940, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [3]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184298.528, -- [4]
-						29940, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						320009, -- [2]
-						58, -- [3]
-						1608184299.323, -- [4]
-						29940, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						320009, -- [2]
-						69, -- [3]
-						1608184299.323, -- [4]
-						29940, -- [5]
-						"Huskeryfloof", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						341254, -- [2]
-						5429, -- [3]
-						1608184299.323, -- [4]
-						24638, -- [5]
-						"Reborn Phoenix", -- [6]
-						127, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						157982, -- [2]
-						113, -- [3]
-						1608184299.535, -- [4]
-						24751, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						191840, -- [2]
-						68, -- [3]
-						1608184299.568, -- [4]
-						24819, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [9]
-					{
-						false, -- [1]
-						207386, -- [2]
-						153, -- [3]
-						1608184299.96, -- [4]
-						24972, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184300.187, -- [4]
-						24972, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						774, -- [2]
-						1162, -- [3]
-						1608184300.482, -- [4]
-						26134, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [12]
-					{
-						false, -- [1]
-						191840, -- [2]
-						76, -- [3]
-						1608184300.583, -- [4]
-						26210, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						115310, -- [2]
-						4920, -- [3]
-						1608184301.247, -- [4]
-						29940, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						157982, -- [2]
-						113, -- [3]
-						1608184301.527, -- [4]
-						29940, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						207386, -- [2]
-						153, -- [3]
-						1608184301.964, -- [4]
-						29940, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						157982, -- [2]
-						84, -- [3]
-						1608184303.01, -- [4]
-						31437, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						774, -- [2]
-						513, -- [3]
-						1608184303.105, -- [4]
-						31437, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [18]
-					{
-						false, -- [1]
-						320009, -- [2]
-						15, -- [3]
-						1608184304.912, -- [4]
-						31437, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						320009, -- [2]
-						71, -- [3]
-						1608184304.912, -- [4]
-						31437, -- [5]
-						"Huskeryfloof", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						325506, -- [2]
-						6098, -- [3]
-						1608184304.912, -- [4]
-						25425, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						86, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						774, -- [2]
-						401, -- [3]
-						1608184305.071, -- [4]
-						25826, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [22]
-					{
-						false, -- [1]
-						73921, -- [2]
-						418, -- [3]
-						1608184306.441, -- [4]
-						25013, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						98021, -- [2]
-						5280, -- [3]
-						1608184308.311, -- [4]
-						19733, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						98021, -- [2]
-						843, -- [3]
-						1608184309.309, -- [4]
-						18890, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						73921, -- [2]
-						458, -- [3]
-						1608184310.072, -- [4]
-						19348, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [26]
-					{
-						true, -- [1]
-						98021, -- [2]
-						248, -- [3]
-						1608184310.319, -- [4]
-						19100, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184310.586, -- [4]
-						19100, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						329518, -- [2]
-						18803, -- [3]
-						1608184310.586, -- [4]
-						779, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184310.997, -- [4]
-						779, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184311.12, -- [4]
-						779, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [31]
-					{
-						true, -- [1]
-						335540, -- [2]
-						1958, -- [3]
-						1608184311.12, -- [4]
-						1, -- [5]
-						"Pestering Fiend", -- [6]
-						482, -- [7]
-						1, -- [8]
-						false, -- [9]
-						697, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						114052, -- [2]
-						1, -- [3]
-						1608184162.405, -- [4]
-						0, -- [5]
-						"Scitron", -- [6]
-					}, -- [33]
-				},
-			}, -- [4]
-			{
-				["maxhealth"] = 41520,
-				["timeofdeath"] = 154.7480000000214,
-				["name"] = "Spoonerisms",
-				["time"] = 1608184313.59,
-				["class"] = "PALADIN",
-				["timestring"] = "2m 34s",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						19, -- [3]
-						1608184309.592, -- [4]
-						28010, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						188550, -- [2]
-						277, -- [3]
-						1608184309.864, -- [4]
-						28287, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						345698, -- [2]
-						482, -- [3]
-						1608184309.864, -- [4]
-						28769, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184310.072, -- [4]
-						28769, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						325442, -- [2]
-						3706, -- [3]
-						1608184310.072, -- [4]
-						25545, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						482, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184310.251, -- [4]
-						25545, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						326456, -- [2]
-						3176, -- [3]
-						1608184310.251, -- [4]
-						22851, -- [5]
-						"Shade of Kael'thas", -- [6]
-						482, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						774, -- [2]
-						614, -- [3]
-						1608184310.319, -- [4]
-						23465, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						98021, -- [2]
-						4963, -- [3]
-						1608184310.319, -- [4]
-						28428, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						61295, -- [2]
-						2969, -- [3]
-						1608184310.622, -- [4]
-						31397, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						188550, -- [2]
-						277, -- [3]
-						1608184310.727, -- [4]
-						31674, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						77, -- [3]
-						1608184310.798, -- [4]
-						31751, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184311.09, -- [4]
-						31751, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						325442, -- [2]
-						3706, -- [3]
-						1608184311.09, -- [4]
-						28527, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						482, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						152261, -- [2]
-						996, -- [3]
-						1608184311.266, -- [4]
-						28527, -- [5]
-						"Spoonerisms", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184311.266, -- [4]
-						28527, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						326456, -- [2]
-						3176, -- [3]
-						1608184311.266, -- [4]
-						26829, -- [5]
-						"Shade of Kael'thas", -- [6]
-						1478, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						98021, -- [2]
-						2293, -- [3]
-						1608184311.302, -- [4]
-						24536, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						1, -- [2]
-						8064, -- [3]
-						1608184311.421, -- [4]
-						24536, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						482, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184311.421, -- [4]
-						24536, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						188550, -- [2]
-						564, -- [3]
-						1608184311.605, -- [4]
-						17518, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						143924, -- [2]
-						51, -- [3]
-						1608184312.013, -- [4]
-						17569, -- [5]
-						"Spoonerisms", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						325442, -- [2]
-						4118, -- [3]
-						1608184312.098, -- [4]
-						13451, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326456, -- [2]
-						3529, -- [3]
-						1608184312.257, -- [4]
-						9922, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						774, -- [2]
-						494, -- [3]
-						1608184312.378, -- [4]
-						10416, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						188550, -- [2]
-						253, -- [3]
-						1608184312.473, -- [4]
-						10669, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						325442, -- [2]
-						4118, -- [3]
-						1608184313.077, -- [4]
-						6551, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326456, -- [2]
-						3529, -- [3]
-						1608184313.271, -- [4]
-						3022, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						130654, -- [2]
-						1486, -- [3]
-						1608184313.322, -- [4]
-						4508, -- [5]
-						"Tumtumm", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						188550, -- [2]
-						248, -- [3]
-						1608184313.322, -- [4]
-						4756, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						61295, -- [2]
-						443, -- [3]
-						1608184313.322, -- [4]
-						5199, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						326455, -- [2]
-						7058, -- [3]
-						1608184313.59, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						1859, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						31850, -- [2]
-						1, -- [3]
-						1608184308.072, -- [4]
-						0, -- [5]
-						"Spoonerisms", -- [6]
-					}, -- [33]
-				},
-			}, -- [5]
-			{
-				["maxhealth"] = 28880,
-				["timeofdeath"] = 157.7320000000764,
-				["name"] = "Dragonite",
-				["time"] = 1608184316.574,
-				["class"] = "DEMONHUNTER",
-				["timestring"] = "2m 37s",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						4412, -- [3]
-						1608184308.366, -- [4]
-						24005, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						333120, -- [2]
-						698, -- [3]
-						1608184308.478, -- [4]
-						24703, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						333120, -- [2]
-						698, -- [3]
-						1608184308.684, -- [4]
-						25401, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						81269, -- [2]
-						460, -- [3]
-						1608184309.412, -- [4]
-						25861, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [4]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184309.443, -- [4]
-						25861, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						526, -- [3]
-						1608184309.592, -- [4]
-						26387, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						191840, -- [2]
-						763, -- [3]
-						1608184309.839, -- [4]
-						27150, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						329518, -- [2]
-						19658, -- [3]
-						1608184310.586, -- [4]
-						7492, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						207386, -- [2]
-						155, -- [3]
-						1608184311.421, -- [4]
-						7647, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						191840, -- [2]
-						68, -- [3]
-						1608184311.605, -- [4]
-						7715, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						311, -- [3]
-						1608184311.605, -- [4]
-						8026, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184311.971, -- [4]
-						8026, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						157982, -- [2]
-						1016, -- [3]
-						1608184312.29, -- [4]
-						9042, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						896, -- [3]
-						1608184313.228, -- [4]
-						9938, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						191840, -- [2]
-						67, -- [3]
-						1608184313.322, -- [4]
-						10005, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						207386, -- [2]
-						153, -- [3]
-						1608184313.43, -- [4]
-						10158, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184313.476, -- [4]
-						10158, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						157982, -- [2]
-						32, -- [3]
-						1608184314.294, -- [4]
-						10190, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						48438, -- [2]
-						365, -- [3]
-						1608184314.294, -- [4]
-						10555, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						143924, -- [2]
-						1118, -- [3]
-						1608184314.431, -- [4]
-						11673, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [20]
-					{
-						false, -- [1]
-						774, -- [2]
-						570, -- [3]
-						1608184315.068, -- [4]
-						12243, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2730, -- [3]
-						1608184315.068, -- [4]
-						9513, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						191840, -- [2]
-						67, -- [3]
-						1608184315.096, -- [4]
-						9580, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						48438, -- [2]
-						333, -- [3]
-						1608184315.188, -- [4]
-						9913, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						207386, -- [2]
-						160, -- [3]
-						1608184315.429, -- [4]
-						10073, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184315.547, -- [4]
-						10073, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						341254, -- [2]
-						4767, -- [3]
-						1608184315.664, -- [4]
-						5306, -- [5]
-						"Reborn Phoenix", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						143924, -- [2]
-						213, -- [3]
-						1608184315.664, -- [4]
-						5519, -- [5]
-						"Dragonite", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						48438, -- [2]
-						343, -- [3]
-						1608184315.913, -- [4]
-						5862, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						48438, -- [2]
-						292, -- [3]
-						1608184316.027, -- [4]
-						6154, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [30]
-					{
-						false, -- [1]
-						157982, -- [2]
-						34, -- [3]
-						1608184316.294, -- [4]
-						6188, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8085, -- [3]
-						1608184316.547, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						1897, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Dragonite", -- [6]
-					}, -- [33]
-				},
-			}, -- [6]
-			{
-				["maxhealth"] = 29460,
-				["timeofdeath"] = 161.4720000000671,
-				["name"] = "Lilkdog",
-				["time"] = 1608184320.314,
-				["class"] = "PALADIN",
-				["timestring"] = "2m 41s",
-				["events"] = {
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184308.815, -- [4]
-						20392, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-					}, -- [1]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2152, -- [3]
-						1608184308.815, -- [4]
-						18722, -- [5]
-						"Pestering Fiend", -- [6]
-						482, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184309.012, -- [4]
-						18722, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2152, -- [3]
-						1608184309.012, -- [4]
-						17052, -- [5]
-						"Pestering Fiend", -- [6]
-						482, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						98021, -- [2]
-						2469, -- [3]
-						1608184309.309, -- [4]
-						19521, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [5]
-					{
-						false, -- [1]
-						774, -- [2]
-						561, -- [3]
-						1608184309.529, -- [4]
-						20082, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						191840, -- [2]
-						774, -- [3]
-						1608184309.529, -- [4]
-						20856, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						73921, -- [2]
-						450, -- [3]
-						1608184310.072, -- [4]
-						21306, -- [5]
-						"Scitron", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [8]
-					{
-						false, -- [1]
-						77489, -- [2]
-						291, -- [3]
-						1608184310.156, -- [4]
-						21597, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						201633, -- [2]
-						482, -- [3]
-						1608184310.285, -- [4]
-						21597, -- [5]
-						"Earthen Wall Totem <Scitron>", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2152, -- [3]
-						1608184310.285, -- [4]
-						19927, -- [5]
-						"Pestering Fiend", -- [6]
-						482, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						98021, -- [2]
-						190, -- [3]
-						1608184310.319, -- [4]
-						19737, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						191840, -- [2]
-						68, -- [3]
-						1608184311.302, -- [4]
-						19805, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						98021, -- [2]
-						2393, -- [3]
-						1608184311.302, -- [4]
-						17412, -- [5]
-						"Spirit Link Totem <Scitron>", -- [6]
-						nil, -- [7]
-						8, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						774, -- [2]
-						560, -- [3]
-						1608184312.12, -- [4]
-						17972, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						34861, -- [2]
-						8281, -- [3]
-						1608184312.35, -- [4]
-						26253, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [16]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2391, -- [3]
-						1608184312.661, -- [4]
-						23862, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						130654, -- [2]
-						543, -- [3]
-						1608184312.899, -- [4]
-						24405, -- [5]
-						"Tumtumm", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						191840, -- [2]
-						68, -- [3]
-						1608184313.049, -- [4]
-						24473, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [19]
-					{
-						false, -- [1]
-						774, -- [2]
-						552, -- [3]
-						1608184314.723, -- [4]
-						25025, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						191840, -- [2]
-						67, -- [3]
-						1608184314.795, -- [4]
-						25092, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184314.979, -- [4]
-						25092, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						77489, -- [2]
-						687, -- [3]
-						1608184315.408, -- [4]
-						25779, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						328579, -- [2]
-						9033, -- [3]
-						1608184315.98, -- [4]
-						16746, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						191840, -- [2]
-						67, -- [3]
-						1608184316.547, -- [4]
-						16813, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [25]
-					{
-						false, -- [1]
-						774, -- [2]
-						527, -- [3]
-						1608184317.296, -- [4]
-						17340, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [26]
-					{
-						false, -- [1]
-						191840, -- [2]
-						38, -- [3]
-						1608184317.534, -- [4]
-						17378, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						77489, -- [2]
-						688, -- [3]
-						1608184318.393, -- [4]
-						18066, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [28]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184319.889, -- [4]
-						18066, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						774, -- [2]
-						552, -- [3]
-						1608184319.889, -- [4]
-						18618, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						326430, -- [2]
-						1, -- [3]
-						1608184320.314, -- [4]
-						18618, -- [5]
-						"Shade of Kael'thas", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						325877, -- [2]
-						156177, -- [3]
-						1608184320.314, -- [4]
-						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						137559, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						184662, -- [2]
-						1, -- [3]
-						1608184262.634, -- [4]
-						0, -- [5]
-						"Lilkdog", -- [6]
-					}, -- [33]
-				},
-			}, -- [7]
-			{
-				["maxhealth"] = 33520,
-				["timeofdeath"] = 166.3990000000922,
-				["name"] = "Boomie",
-				["time"] = 1608184325.241,
-				["class"] = "DRUID",
-				["timestring"] = "2m 46s",
-				["events"] = {
-					{
-						false, -- [1]
-						143924, -- [2]
-						28, -- [3]
-						1608184319.709, -- [4]
-						1869, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						320221, -- [2]
-						5334, -- [3]
-						1608184320.185, -- [4]
-						3044, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8377, -- [3]
-						1608184320.185, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						5334, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						48438, -- [2]
-						252, -- [3]
-						1608184320.262, -- [4]
-						253, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						48438, -- [2]
-						242, -- [3]
-						1608184320.346, -- [4]
-						495, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						48438, -- [2]
-						64, -- [3]
-						1608184320.454, -- [4]
-						559, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						145109, -- [2]
-						1056, -- [3]
-						1608184320.58, -- [4]
-						1615, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						157982, -- [2]
-						170, -- [3]
-						1608184320.686, -- [4]
-						1785, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						22, -- [3]
-						1608184320.934, -- [4]
-						1807, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						48438, -- [2]
-						241, -- [3]
-						1608184321.136, -- [4]
-						2048, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						320221, -- [2]
-						5156, -- [3]
-						1608184321.205, -- [4]
-						3222, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8377, -- [3]
-						1608184321.205, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						5156, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						157982, -- [2]
-						170, -- [3]
-						1608184321.717, -- [4]
-						171, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						48438, -- [2]
-						229, -- [3]
-						1608184321.98, -- [4]
-						400, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						48438, -- [2]
-						17, -- [3]
-						1608184322.074, -- [4]
-						417, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						143924, -- [2]
-						16, -- [3]
-						1608184322.154, -- [4]
-						433, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						320221, -- [2]
-						6770, -- [3]
-						1608184322.201, -- [4]
-						1608, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8377, -- [3]
-						1608184322.201, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						6770, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						191840, -- [2]
-						784, -- [3]
-						1608184322.284, -- [4]
-						785, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						157982, -- [2]
-						346, -- [3]
-						1608184322.703, -- [4]
-						1131, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						320221, -- [2]
-						6072, -- [3]
-						1608184323.221, -- [4]
-						2306, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8377, -- [3]
-						1608184323.221, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						6072, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						13, -- [3]
-						1608184323.375, -- [4]
-						14, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						157982, -- [2]
-						346, -- [3]
-						1608184323.71, -- [4]
-						360, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						774, -- [2]
-						580, -- [3]
-						1608184324.026, -- [4]
-						940, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						191840, -- [2]
-						70, -- [3]
-						1608184324.026, -- [4]
-						1010, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						320221, -- [2]
-						6193, -- [3]
-						1608184324.227, -- [4]
-						2185, -- [5]
-						"Boomie", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8377, -- [3]
-						1608184324.227, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						6193, -- [7]
-						4, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						345550, -- [2]
-						3684, -- [3]
-						1608184324.28, -- [4]
-						3685, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						143924, -- [2]
-						4, -- [3]
-						1608184324.554, -- [4]
-						3689, -- [5]
-						"Boomie", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						157982, -- [2]
-						192, -- [3]
-						1608184324.717, -- [4]
-						3881, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328579, -- [2]
-						8377, -- [3]
-						1608184325.241, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						3322, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						33891, -- [2]
-						1, -- [3]
-						1608184248.364, -- [4]
-						0, -- [5]
-						"Boomie", -- [6]
-					}, -- [33]
-				},
-			}, -- [8]
-			{
-				["maxhealth"] = 29720,
-				["timeofdeath"] = 167.7420000000857,
-				["name"] = "Toshmonk",
-				["time"] = 1608184326.584,
-				["class"] = "MONK",
-				["timestring"] = "2m 47s",
-				["events"] = {
-					{
-						false, -- [1]
-						130654, -- [2]
-						674, -- [3]
-						1608184313.271, -- [4]
-						19288, -- [5]
-						"Tumtumm", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						130654, -- [2]
-						673, -- [3]
-						1608184313.502, -- [4]
-						19961, -- [5]
-						"Tumtumm", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						77489, -- [2]
-						151, -- [3]
-						1608184313.687, -- [4]
-						20112, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						143924, -- [2]
-						18, -- [3]
-						1608184314.051, -- [4]
-						20130, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						157982, -- [2]
-						33, -- [3]
-						1608184314.294, -- [4]
-						20163, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						13, -- [3]
-						1608184315.266, -- [4]
-						20176, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						157982, -- [2]
-						34, -- [3]
-						1608184316.294, -- [4]
-						20210, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						774, -- [2]
-						514, -- [3]
-						1608184316.347, -- [4]
-						20724, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						73, -- [3]
-						1608184316.467, -- [4]
-						20797, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2811, -- [3]
-						1608184316.574, -- [4]
-						17986, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						77489, -- [2]
-						150, -- [3]
-						1608184316.662, -- [4]
-						18136, -- [5]
-						"Secxtanx", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						143924, -- [2]
-						37, -- [3]
-						1608184317.705, -- [4]
-						18173, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						157982, -- [2]
-						33, -- [3]
-						1608184318.282, -- [4]
-						18206, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [13]
-					{
-						false, -- [1]
-						143924, -- [2]
-						199, -- [3]
-						1608184318.909, -- [4]
-						18405, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						774, -- [2]
-						513, -- [3]
-						1608184318.939, -- [4]
-						18918, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						143924, -- [2]
-						18, -- [3]
-						1608184320.112, -- [4]
-						18936, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						157982, -- [2]
-						34, -- [3]
-						1608184320.285, -- [4]
-						18970, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						321442, -- [2]
-						354, -- [3]
-						1608184320.686, -- [4]
-						19324, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [18]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2811, -- [3]
-						1608184321.104, -- [4]
-						16513, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						321442, -- [2]
-						354, -- [3]
-						1608184321.205, -- [4]
-						16867, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-					}, -- [20]
-					{
-						false, -- [1]
-						143924, -- [2]
-						209, -- [3]
-						1608184321.324, -- [4]
-						17076, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						774, -- [2]
-						514, -- [3]
-						1608184321.55, -- [4]
-						17590, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						89, -- [3]
-						1608184322.534, -- [4]
-						17679, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						335540, -- [2]
-						2811, -- [3]
-						1608184323.657, -- [4]
-						14868, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						143924, -- [2]
-						133, -- [3]
-						1608184323.757, -- [4]
-						15001, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						321442, -- [2]
-						354, -- [3]
-						1608184323.888, -- [4]
-						15355, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						774, -- [2]
-						1100, -- [3]
-						1608184324.149, -- [4]
-						16455, -- [5]
-						"Huskeryfloof", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						325506, -- [2]
-						9191, -- [3]
-						1608184324.353, -- [4]
-						7264, -- [5]
-						"Rockbound Vanquisher", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						143924, -- [2]
-						96, -- [3]
-						1608184324.97, -- [4]
-						7360, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						4, -- [1]
-						328579, -- [2]
-						1, -- [3]
-						1608184325.534, -- [4]
-						7360, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						27, -- [3]
-						1608184326.183, -- [4]
-						7387, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328579, -- [2]
-						9101, -- [3]
-						1608184326.557, -- [4]
-						1, -- [5]
-						"[*] Smoldering Remnants", -- [6]
-						nil, -- [7]
-						4, -- [8]
-						false, -- [9]
-						1714, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						122783, -- [2]
-						1, -- [3]
-						1608184250.747, -- [4]
-						0, -- [5]
-						"Toshmonk", -- [6]
-					}, -- [33]
-				},
+				["class"] = "MAGE",
+				["timestring"] = "7m 40s",
+				["time"] = 1608271257.118,
 			}, -- [9]
 			{
-				["maxhealth"] = 31880,
-				["timeofdeath"] = 175.4070000000065,
-				["name"] = "Brutang",
-				["time"] = 1608184334.249,
-				["class"] = "DEATHKNIGHT",
-				["timestring"] = "2m 55s",
+				["maxhealth"] = 31977,
+				["timeofdeath"] = 498.0069999999832,
+				["name"] = "Azian",
 				["events"] = {
 					{
-						false, -- [1]
-						191840, -- [2]
-						786, -- [3]
-						1608184322.854, -- [4]
-						8988, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1768, -- [3]
+						1608271290.934, -- [4]
+						9195, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						293, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						143924, -- [2]
-						78, -- [3]
-						1608184323.757, -- [4]
-						9066, -- [5]
-						"Brutang", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271290.934, -- [4]
+						9195, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
 					{
-						true, -- [1]
-						325506, -- [2]
-						7940, -- [3]
-						1608184324.353, -- [4]
-						1126, -- [5]
-						"Rockbound Vanquisher", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						45, -- [3]
+						1608271290.934, -- [4]
+						9240, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						191840, -- [2]
-						71, -- [3]
-						1608184324.624, -- [4]
-						1197, -- [5]
-						"Toshmonk", -- [6]
+						774, -- [2]
+						896, -- [3]
+						1608271290.951, -- [4]
+						10136, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12370,35 +13114,35 @@ DeathGraphsDBCurrent = {
 					}, -- [4]
 					{
 						false, -- [1]
-						143924, -- [2]
-						52, -- [3]
-						1608184324.97, -- [4]
-						1249, -- [5]
-						"Brutang", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						19, -- [3]
-						1608184326.183, -- [4]
-						1268, -- [5]
-						"Brutang", -- [6]
+						191840, -- [2]
+						66, -- [3]
+						1608271290.996, -- [4]
+						10202, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
+					}, -- [5]
+					{
+						false, -- [1]
+						119611, -- [2]
+						146, -- [3]
+						1608271291.013, -- [4]
+						10348, -- [5]
+						"Toshmonk", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [6]
 					{
 						false, -- [1]
-						191840, -- [2]
-						141, -- [3]
-						1608184326.363, -- [4]
-						1409, -- [5]
-						"Toshmonk", -- [6]
+						63106, -- [2]
+						136, -- [3]
+						1608271291.765, -- [4]
+						10484, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12406,47 +13150,47 @@ DeathGraphsDBCurrent = {
 					}, -- [7]
 					{
 						false, -- [1]
-						143924, -- [2]
-						56, -- [3]
-						1608184327.397, -- [4]
-						1465, -- [5]
-						"Brutang", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						350, -- [3]
+						1608271291.949, -- [4]
+						10484, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
-						false, -- [1]
-						191840, -- [2]
-						63, -- [3]
-						1608184328.102, -- [4]
-						1528, -- [5]
-						"Toshmonk", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1768, -- [3]
+						1608271291.949, -- [4]
+						9066, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						350, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						774, -- [2]
-						521, -- [3]
-						1608184328.529, -- [4]
-						2049, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271291.949, -- [4]
+						9066, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [10]
 					{
 						false, -- [1]
 						143924, -- [2]
-						49, -- [3]
-						1608184328.601, -- [4]
-						2098, -- [5]
-						"Brutang", -- [6]
+						187, -- [3]
+						1608271292.15, -- [4]
+						9253, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12454,34 +13198,34 @@ DeathGraphsDBCurrent = {
 					}, -- [11]
 					{
 						false, -- [1]
-						143924, -- [2]
-						69, -- [3]
-						1608184329.82, -- [4]
-						2167, -- [5]
-						"Brutang", -- [6]
+						774, -- [2]
+						1045, -- [3]
+						1608271292.393, -- [4]
+						10298, -- [5]
+						"Ngow", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [12]
+					{
+						false, -- [1]
+						205179, -- [2]
+						171, -- [3]
+						1608271292.556, -- [4]
+						10469, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						8936, -- [2]
-						3749, -- [3]
-						1608184329.861, -- [4]
-						5916, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
 						191840, -- [2]
-						126, -- [3]
-						1608184329.886, -- [4]
-						6042, -- [5]
+						132, -- [3]
+						1608271292.731, -- [4]
+						10601, -- [5]
 						"Toshmonk", -- [6]
 						nil, -- [7]
 						0, -- [8]
@@ -12489,156 +13233,156 @@ DeathGraphsDBCurrent = {
 						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						335540, -- [2]
-						2429, -- [3]
-						1608184329.91, -- [4]
-						3613, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						false, -- [1]
+						108366, -- [2]
+						397, -- [3]
+						1608271292.937, -- [4]
+						10601, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						false, -- [1]
-						48438, -- [2]
-						379, -- [3]
-						1608184330.407, -- [4]
-						3992, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						334909, -- [2]
+						1768, -- [3]
+						1608271292.937, -- [4]
+						9230, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						397, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						335540, -- [2]
-						2428, -- [3]
-						1608184330.809, -- [4]
-						1564, -- [5]
-						"Pestering Fiend", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						false, -- [1]
+						108366, -- [2]
+						0, -- [3]
+						1608271292.937, -- [4]
+						9230, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
 						false, -- [1]
-						191840, -- [2]
-						36, -- [3]
-						1608184330.876, -- [4]
-						1600, -- [5]
-						"Toshmonk", -- [6]
+						774, -- [2]
+						735, -- [3]
+						1608271293.073, -- [4]
+						9965, -- [5]
+						"Huskeryfloof", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
-						false, -- [1]
-						143924, -- [2]
-						51, -- [3]
-						1608184331.057, -- [4]
-						1651, -- [5]
-						"Brutang", -- [6]
+						true, -- [1]
+						346685, -- [2]
+						5852, -- [3]
+						1608271293.345, -- [4]
+						4113, -- [5]
+						"Baroness Frieda", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						774, -- [2]
-						629, -- [3]
-						1608184331.205, -- [4]
-						2280, -- [5]
-						"Ngow", -- [6]
+						143924, -- [2]
+						50, -- [3]
+						1608271293.39, -- [4]
+						4163, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [20]
 					{
-						false, -- [1]
-						48438, -- [2]
-						365, -- [3]
-						1608184331.288, -- [4]
-						2645, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						346945, -- [2]
+						1, -- [3]
+						1608271293.521, -- [4]
+						4163, -- [5]
+						"Baroness Frieda", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [21]
 					{
-						false, -- [1]
-						8936, -- [2]
-						174, -- [3]
-						1608184331.631, -- [4]
-						2819, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
+						4, -- [1]
+						334909, -- [2]
+						6, -- [3]
+						1608271293.774, -- [4]
+						4163, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						48707, -- [2]
-						0, -- [3]
-						1608184331.904, -- [4]
-						2819, -- [5]
-						"Brutang", -- [6]
+						108366, -- [2]
+						213, -- [3]
+						1608271293.945, -- [4]
+						4163, -- [5]
+						"Azian", -- [6]
 						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						false, -- [1]
-						48438, -- [2]
-						350, -- [3]
-						1608184332.186, -- [4]
-						3169, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
+						true, -- [1]
+						334909, -- [2]
+						2122, -- [3]
+						1608271293.945, -- [4]
+						2254, -- [5]
+						"[*] Oppressive Atmosphere", -- [6]
+						213, -- [7]
+						32, -- [8]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						143924, -- [2]
-						23, -- [3]
-						1608184332.243, -- [4]
-						3192, -- [5]
-						"Brutang", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271293.945, -- [4]
+						2254, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						true, -- [1]
-						335540, -- [2]
-						2428, -- [3]
-						1608184332.474, -- [4]
-						764, -- [5]
-						"Pestering Fiend", -- [6]
+						false, -- [1]
+						205179, -- [2]
+						171, -- [3]
+						1608271294.302, -- [4]
+						2425, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						false, -- [1]
-						48438, -- [2]
-						336, -- [3]
-						1608184333.091, -- [4]
-						1100, -- [5]
-						"Ngow", -- [6]
+						63106, -- [2]
+						137, -- [3]
+						1608271294.386, -- [4]
+						2562, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12646,11 +13390,11 @@ DeathGraphsDBCurrent = {
 					}, -- [27]
 					{
 						false, -- [1]
-						8936, -- [2]
-						174, -- [3]
-						1608184333.396, -- [4]
-						1274, -- [5]
-						"Ngow", -- [6]
+						191840, -- [2]
+						66, -- [3]
+						1608271294.488, -- [4]
+						2628, -- [5]
+						"Toshmonk", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12659,10 +13403,10 @@ DeathGraphsDBCurrent = {
 					{
 						false, -- [1]
 						143924, -- [2]
-						44, -- [3]
-						1608184333.457, -- [4]
-						1318, -- [5]
-						"Brutang", -- [6]
+						65, -- [3]
+						1608271294.608, -- [4]
+						2693, -- [5]
+						"Azian", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12670,61 +13414,64 @@ DeathGraphsDBCurrent = {
 					}, -- [29]
 					{
 						false, -- [1]
-						774, -- [2]
-						630, -- [3]
-						1608184333.847, -- [4]
-						1948, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						318, -- [3]
+						1608271294.855, -- [4]
+						2693, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
 						false, -- [1]
-						48438, -- [2]
-						321, -- [3]
-						1608184333.949, -- [4]
-						2269, -- [5]
-						"Ngow", -- [6]
-						nil, -- [7]
+						108366, -- [2]
+						0, -- [3]
+						1608271294.855, -- [4]
+						2693, -- [5]
+						"Azian", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						326455, -- [2]
-						7136, -- [3]
-						1608184334.216, -- [4]
+						346685, -- [2]
+						6582, -- [3]
+						1608271294.855, -- [4]
 						1, -- [5]
-						"Shade of Kael'thas", -- [6]
-						nil, -- [7]
-						4, -- [8]
+						"Baroness Frieda", -- [6]
+						318, -- [7]
+						32, -- [8]
 						false, -- [9]
-						4867, -- [10]
+						3571, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						48707, -- [2]
+						104773, -- [2]
 						1, -- [3]
-						1608184321.898, -- [4]
+						1608271001.796, -- [4]
 						0, -- [5]
-						"Brutang", -- [6]
+						"Azian", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARLOCK",
+				["timestring"] = "8m 18s",
+				["time"] = 1608271294.88,
 			}, -- [10]
 		},
-		["bossname"] = "Sun King's Salvation",
+		["bossname"] = "The Council of Blood",
 		["bossicon"] = {
 			0.5, -- [1]
 			0.75, -- [2]
-			0, -- [3]
-			0.25, -- [4]
+			0.25, -- [3]
+			0.5, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
 		},
-		["date"] = 733485.885,
-		["timeelapsed"] = 191.6650000000373,
+		["date"] = 820475.671,
+		["timeelapsed"] = 543.7939999999944,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
@@ -12787,9 +13534,8 @@ DeathGraphsDBGraph = {
 				1608183308, -- [1]
 				1608183308, -- [2]
 			},
-			[97] = {
-				1607658285, -- [1]
-				1607659244, -- [2]
+			[129] = {
+				1608182748, -- [1]
 			},
 			[120] = {
 				1607657649, -- [1]
@@ -12820,14 +13566,15 @@ DeathGraphsDBGraph = {
 			[160] = {
 				1608183308, -- [1]
 			},
-			[129] = {
-				1608182748, -- [1]
+			[97] = {
+				1607658285, -- [1]
+				1607659244, -- [2]
 			},
 			[113] = {
 				1607658285, -- [1]
 			},
-			[256] = {
-				1608181611, -- [1]
+			[130] = {
+				1608182220, -- [1]
 			},
 			[162] = {
 				1607658935, -- [1]
@@ -12843,15 +13590,15 @@ DeathGraphsDBGraph = {
 				1607657343, -- [1]
 				1607657343, -- [2]
 			},
-			[278] = {
-				1608182748, -- [1]
-				1608182748, -- [2]
+			[141] = {
+				1607658935, -- [1]
 			},
 			[133] = {
 				1608182220, -- [1]
 			},
-			[204] = {
-				1607661665, -- [1]
+			[278] = {
+				1608182748, -- [1]
+				1608182748, -- [2]
 			},
 			[268] = {
 				1607660538, -- [1]
@@ -12898,8 +13645,8 @@ DeathGraphsDBGraph = {
 			[277] = {
 				1607661089, -- [1]
 			},
-			[141] = {
-				1607658935, -- [1]
+			[204] = {
+				1607661665, -- [1]
 			},
 			[119] = {
 				1607657649, -- [1]
@@ -12916,8 +13663,8 @@ DeathGraphsDBGraph = {
 			[175] = {
 				1608180994, -- [1]
 			},
-			[130] = {
-				1608182220, -- [1]
+			[256] = {
+				1608181611, -- [1]
 			},
 			[285] = {
 				1608181611, -- [1]
@@ -12962,6 +13709,240 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
+	["242615"] = {
+		["deaths"] = {
+			[27] = {
+				1608263311, -- [1]
+				1608264675, -- [2]
+				1608267108, -- [3]
+				1608269722, -- [4]
+				1608269722, -- [5]
+				1608269722, -- [6]
+				1608269722, -- [7]
+			},
+			[122] = {
+				1608263579, -- [1]
+			},
+			[504] = {
+				1608271993, -- [1]
+			},
+			[357] = {
+				1608268066, -- [1]
+			},
+			[358] = {
+				1608265837, -- [1]
+			},
+			[500] = {
+				1608271993, -- [1]
+			},
+			[396] = {
+				1608271993, -- [1]
+			},
+			[362] = {
+				1608271993, -- [1]
+			},
+			[124] = {
+				1608263924, -- [1]
+				1608264242, -- [2]
+			},
+			[236] = {
+				1608269568, -- [1]
+				1608270125, -- [2]
+			},
+			[364] = {
+				1608265837, -- [1]
+			},
+			[235] = {
+				1608270125, -- [1]
+				1608271340, -- [2]
+			},
+			[224] = {
+				1608268910, -- [1]
+			},
+			[217] = {
+				1608265837, -- [1]
+			},
+			[226] = {
+				1608271340, -- [1]
+			},
+			[28] = {
+				1608264242, -- [1]
+				1608266625, -- [2]
+				1608267580, -- [3]
+				1608269568, -- [4]
+			},
+			[126] = {
+				1608263924, -- [1]
+			},
+			[79] = {
+				1608269186, -- [1]
+			},
+			[95] = {
+				1608263311, -- [1]
+			},
+			[373] = {
+				1608266625, -- [1]
+			},
+			[127] = {
+				1608263924, -- [1]
+			},
+			[80] = {
+				1608263311, -- [1]
+			},
+			[206] = {
+				1608267108, -- [1]
+				1608268910, -- [2]
+			},
+			[112] = {
+				1608263924, -- [1]
+				1608271993, -- [2]
+			},
+			[33] = {
+				1608262989, -- [1]
+			},
+			[223] = {
+				1608267108, -- [1]
+			},
+			[218] = {
+				1608268910, -- [1]
+			},
+			[113] = {
+				1608265837, -- [1]
+			},
+			[445] = {
+				1608266625, -- [1]
+			},
+			[225] = {
+				1608268910, -- [1]
+				1608269568, -- [2]
+			},
+			[193] = {
+				1608267108, -- [1]
+			},
+			[29] = {
+				1608262989, -- [1]
+				1608262989, -- [2]
+			},
+			[132] = {
+				1608267108, -- [1]
+			},
+			[387] = {
+				1608271340, -- [1]
+			},
+			[133] = {
+				1608269186, -- [1]
+				1608269186, -- [2]
+			},
+			[232] = {
+				1608270125, -- [1]
+			},
+			[134] = {
+				1608267580, -- [1]
+				1608267580, -- [2]
+			},
+			[4] = {
+				1608269722, -- [1]
+			},
+			[135] = {
+				1608264242, -- [1]
+				1608265837, -- [2]
+			},
+			[230] = {
+				1608265252, -- [1]
+				1608265252, -- [2]
+				1608265252, -- [3]
+			},
+			[394] = {
+				1608271340, -- [1]
+			},
+			[374] = {
+				1608268910, -- [1]
+			},
+			[137] = {
+				1608267580, -- [1]
+			},
+			[169] = {
+				1608264675, -- [1]
+			},
+			[201] = {
+				1608268066, -- [1]
+			},
+			[233] = {
+				1608271340, -- [1]
+			},
+			[202] = {
+				1608270559, -- [1]
+			},
+			[234] = {
+				1608266625, -- [1]
+				1608270125, -- [2]
+			},
+			[354] = {
+				1608268066, -- [1]
+			},
+			[87] = {
+				1608264675, -- [1]
+			},
+			[123] = {
+				1608267580, -- [1]
+			},
+			[119] = {
+				1608262989, -- [1]
+				1608262989, -- [2]
+				1608263579, -- [3]
+				1608263924, -- [4]
+				1608268066, -- [5]
+			},
+			[205] = {
+				1608270559, -- [1]
+				1608270559, -- [2]
+			},
+			[237] = {
+				1608270125, -- [1]
+				1608270559, -- [2]
+			},
+			[104] = {
+				1608263311, -- [1]
+			},
+			[120] = {
+				1608265252, -- [1]
+				1608265252, -- [2]
+			},
+			[456] = {
+				1608266625, -- [1]
+			},
+			[30] = {
+				1608264242, -- [1]
+				1608269568, -- [2]
+				1608270559, -- [3]
+			},
+			[105] = {
+				1608263311, -- [1]
+			},
+			[118] = {
+				1608263579, -- [1]
+				1608269186, -- [2]
+				1608269186, -- [3]
+				1608269568, -- [4]
+			},
+			[74] = {
+				1608263579, -- [1]
+			},
+			[31] = {
+				1608263579, -- [1]
+				1608264242, -- [2]
+			},
+			[189] = {
+				1608264675, -- [1]
+				1608264675, -- [2]
+				1608268066, -- [3]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
 	["239314"] = {
 		["deaths"] = {
 			[347] = {
@@ -12973,8 +13954,9 @@ DeathGraphsDBGraph = {
 			[409] = {
 				1608005018, -- [1]
 			},
-			[235] = {
-				1607582391, -- [1]
+			[104] = {
+				1608003915, -- [1]
+				1608003915, -- [2]
 			},
 			[393] = {
 				1608003915, -- [1]
@@ -12989,7 +13971,7 @@ DeathGraphsDBGraph = {
 				1607572947, -- [1]
 				1607572947, -- [2]
 			},
-			[276] = {
+			[235] = {
 				1607582391, -- [1]
 			},
 			[140] = {
@@ -13005,8 +13987,8 @@ DeathGraphsDBGraph = {
 			[514] = {
 				1608097346, -- [1]
 			},
-			[180] = {
-				1608004349, -- [1]
+			[24] = {
+				1607570034, -- [1]
 			},
 			[498] = {
 				1608097346, -- [1]
@@ -13023,8 +14005,8 @@ DeathGraphsDBGraph = {
 			[12] = {
 				1607570034, -- [1]
 			},
-			[24] = {
-				1607570034, -- [1]
+			[180] = {
+				1608004349, -- [1]
 			},
 			[267] = {
 				1607582391, -- [1]
@@ -13044,9 +14026,8 @@ DeathGraphsDBGraph = {
 				1607572482, -- [2]
 				1607572947, -- [3]
 			},
-			[104] = {
-				1608003915, -- [1]
-				1608003915, -- [2]
+			[276] = {
+				1607582391, -- [1]
 			},
 			[106] = {
 				1608003915, -- [1]
@@ -13144,8 +14125,8 @@ DeathGraphsDBGraph = {
 			[65] = {
 				1607665039, -- [1]
 			},
-			[266] = {
-				1608178422, -- [1]
+			[25] = {
+				1607663387, -- [1]
 			},
 			[49] = {
 				1607663093, -- [1]
@@ -13162,17 +14143,17 @@ DeathGraphsDBGraph = {
 				1607663893, -- [12]
 				1607663893, -- [13]
 			},
-			[57] = {
-				1607656240, -- [1]
+			[161] = {
+				1608177983, -- [1]
 			},
 			[17] = {
 				1608174161, -- [1]
 			},
+			[266] = {
+				1608178422, -- [1]
+			},
 			[131] = {
 				1608178702, -- [1]
-			},
-			[25] = {
-				1607663387, -- [1]
 			},
 			[114] = {
 				1607664249, -- [1]
@@ -13270,8 +14251,8 @@ DeathGraphsDBGraph = {
 			[287] = {
 				1608174852, -- [1]
 			},
-			[161] = {
-				1608177983, -- [1]
+			[57] = {
+				1607656240, -- [1]
 			},
 			[23] = {
 				1607656811, -- [1]
@@ -13293,8 +14274,8 @@ DeathGraphsDBGraph = {
 				1607576236, -- [1]
 				1607577169, -- [2]
 			},
-			[338] = {
-				1607576236, -- [1]
+			[787] = {
+				1607577169, -- [1]
 			},
 			[315] = {
 				1607576236, -- [1]
@@ -13303,11 +14284,11 @@ DeathGraphsDBGraph = {
 			[344] = {
 				1607576236, -- [1]
 			},
-			[787] = {
-				1607577169, -- [1]
-			},
 			[808] = {
 				1607577169, -- [1]
+			},
+			[338] = {
+				1607576236, -- [1]
 			},
 		},
 		["spells"] = {
@@ -13317,44 +14298,66 @@ DeathGraphsDBGraph = {
 	},
 	["242215"] = {
 		["deaths"] = {
-			[154] = {
+			[174] = {
+				1608183962, -- [1]
+			},
+			[379] = {
+				1608262220, -- [1]
+			},
+			[9] = {
 				1608184350, -- [1]
 			},
-			[177] = {
-				1608183962, -- [1]
+			[163] = {
+				1608261663, -- [1]
+				1608261663, -- [2]
 			},
 			[140] = {
 				1608184350, -- [1]
 				1608184350, -- [2]
 			},
-			[385] = {
+			[373] = {
 				1608184954, -- [1]
+				1608262220, -- [2]
 			},
-			[9] = {
+			[152] = {
 				1608184350, -- [1]
+			},
+			[375] = {
+				1608262220, -- [1]
+			},
+			[180] = {
+				1608261663, -- [1]
+				1608261663, -- [2]
 			},
 			[165] = {
 				1608184954, -- [1]
+			},
+			[415] = {
+				1608184954, -- [1]
+			},
+			[372] = {
+				1608262220, -- [1]
 			},
 			[173] = {
 				1608183962, -- [1]
 				1608183962, -- [2]
 				1608183962, -- [3]
+				1608261663, -- [4]
+			},
+			[177] = {
+				1608183962, -- [1]
+			},
+			[385] = {
+				1608184954, -- [1]
+			},
+			[154] = {
+				1608184350, -- [1]
 			},
 			[339] = {
 				1608184954, -- [1]
 			},
-			[174] = {
-				1608183962, -- [1]
-			},
-			[152] = {
-				1608184350, -- [1]
-			},
-			[373] = {
-				1608184954, -- [1]
-			},
-			[415] = {
-				1608184954, -- [1]
+			[380] = {
+				1608262220, -- [1]
 			},
 		},
 		["spells"] = {

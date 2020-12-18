@@ -16,12 +16,12 @@ DataStore_CurrenciesDB = {
 					[1820] = "44-0-0-100",
 					[1166] = "765-0-0-0",
 					[1803] = "5743-0-0-0",
-					[1560] = "15197-0-0-0",
-					[1721] = "3-0-0-0",
 					[1755] = "236-0-0-0",
-					[1710] = "355-0-0-0",
-					[1718] = "0-0-0-0",
+					[1721] = "3-0-0-0",
 					[1155] = "250-0-0-300",
+					[1560] = "15197-0-0-0",
+					[1718] = "0-0-0-0",
+					[1710] = "355-0-0-0",
 				},
 				["Currencies"] = {
 					{
@@ -145,7 +145,7 @@ DataStore_CurrenciesDB = {
 					[1820] = "100-0-0-100",
 					[1885] = "20-0-0-0",
 					[1580] = "3-0-0-5",
-					[1767] = "11968-0-0-0",
+					[1767] = "12433-0-0-0",
 					[1273] = "0-0-0-6",
 					[1275] = "26-0-0-0",
 					[1710] = "118-0-0-0",
@@ -155,7 +155,7 @@ DataStore_CurrenciesDB = {
 					[1220] = "14331-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "53-0-0-0",
-					[1813] = "2233-0-0-35000",
+					[1813] = "2182-0-0-35000",
 					[1721] = "317-0-0-0",
 					[1226] = "766-0-0-0",
 					[1828] = "110-0-0-8000",
@@ -183,7 +183,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 26,
-						["count"] = 2233,
+						["count"] = 2182,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -193,7 +193,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 27,
-						["count"] = 11968,
+						["count"] = 12433,
 					}, -- [6]
 					{
 						["isHeader"] = true,
@@ -319,7 +319,7 @@ DataStore_CurrenciesDB = {
 					0, -- [19]
 					0, -- [20]
 				},
-				["lastUpdate"] = 1608194904,
+				["lastUpdate"] = 1608272704,
 			},
 			["Default.Area 52.Toshmonk"] = {
 				["CurrencyInfo"] = {
@@ -419,22 +419,22 @@ DataStore_CurrenciesDB = {
 				["Honorbound Service Medal"] = 8,
 				["Stygia"] = 27,
 				["Player vs. Player"] = 22,
-				["Timewarped Badge"] = 4,
+				["Soul Ash"] = 28,
 				["Order Resources"] = 18,
 				["Battle for Azeroth"] = 1,
 				["Conquest"] = 23,
 				["Curious Coin"] = 15,
 				["Grateful Offering"] = 29,
 				["Echoes of Ny'alotha"] = 7,
-				["Coalescing Visions"] = 5,
 				["Prismatic Manapearl"] = 9,
 				["Wakening Essence"] = 21,
+				["Coalescing Visions"] = 5,
 				["Legion"] = 13,
 				["Seafarer's Dubloon"] = 10,
 				["War Resources"] = 2,
 				["Reservoir Anima"] = 26,
 				["Shadowlands"] = 24,
-				["Soul Ash"] = 28,
+				["Timewarped Badge"] = 4,
 				["Legionfall War Supplies"] = 16,
 			},
 		},

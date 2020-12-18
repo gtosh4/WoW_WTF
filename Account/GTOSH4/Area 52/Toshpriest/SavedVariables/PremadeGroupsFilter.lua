@@ -1,6 +1,6 @@
 
 PremadeGroupsFilterState = {
-	["t1c6f0"] = {
+	["t1c1f0"] = {
 		["enabled"] = true,
 		["tanks"] = {
 			["max"] = "",
@@ -43,7 +43,7 @@ PremadeGroupsFilterState = {
 	},
 	["moveable"] = false,
 	["expert"] = false,
-	["t1c1f0"] = {
+	["t1c6f0"] = {
 		["enabled"] = true,
 		["tanks"] = {
 			["max"] = "",

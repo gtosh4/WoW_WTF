@@ -18,7 +18,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[413787048] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1608649198,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Kin-Tara"] = true,
@@ -31,7 +31,7 @@ DataStore_AgendaDB = {
 					},
 					[413798293] = {
 						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1608649198,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 3,
 						["bosses"] = {
 							["Mistcaller"] = true,
@@ -44,7 +44,7 @@ DataStore_AgendaDB = {
 					},
 					[413793455] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1608649198,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -58,7 +58,7 @@ DataStore_AgendaDB = {
 					},
 					[413800969] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1608649198,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -71,7 +71,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1608196962,
+				["lastUpdate"] = 1608277663,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

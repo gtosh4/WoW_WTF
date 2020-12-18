@@ -62,6 +62,13 @@ X: 0
 Y: 0
 W: 365
 H: 380
+Frame: AdiBagsAnchor1
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: 0
+Y: 0
+W: 80
+H: 80
 Frame: AstralKeyFrame
 FrameLevel: 1
 Anchor: TOP
