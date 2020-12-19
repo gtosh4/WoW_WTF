@@ -44,6 +44,25 @@ MADB = {
 						0, -- [5]
 					},
 				},
+				["UIWidgetBelowMinimapContainerFrame"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-41.00006484985352, -- [4]
+						0, -- [5]
+					},
+					["name"] = "UIWidgetBelowMinimapContainerFrame",
+					["scale"] = 0.9999999403953552,
+					["orgScale"] = 1,
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-361.0102767447787, -- [4]
+						14.16689652202727, -- [5]
+					},
+				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -57,16 +76,16 @@ MADB = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
 						"BOTTOMRIGHT", -- [3]
-						-5.8330078125, -- [4]
-						-3.33331298828125, -- [5]
+						-4.166015625, -- [4]
+						-12.5001220703125, -- [5]
 					},
 				},
 			},
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["frameListRows"] = 18,
-	["noBags"] = true,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = true,
+	["frameListRows"] = 18,
 }

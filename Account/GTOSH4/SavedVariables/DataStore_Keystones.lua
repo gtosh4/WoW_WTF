@@ -27,79 +27,79 @@ DataStore_KeystonesDB = {
 					}, -- [2]
 					{
 						["completed"] = true,
+						["mapChallengeModeID"] = 369,
+						["level"] = 19,
+					}, -- [3]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 244,
+						["level"] = 18,
+					}, -- [4]
+					{
+						["completed"] = true,
 						["mapChallengeModeID"] = 248,
 						["level"] = 20,
-					}, -- [3]
+					}, -- [5]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 353,
 						["level"] = 19,
-					}, -- [4]
+					}, -- [6]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 250,
 						["level"] = 22,
-					}, -- [5]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 376,
-						["level"] = 2,
-					}, -- [6]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 375,
-						["level"] = 6,
 					}, -- [7]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 377,
-						["level"] = 5,
+						["mapChallengeModeID"] = 251,
+						["level"] = 16,
 					}, -- [8]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 375,
-						["level"] = 7,
+						["level"] = 6,
 					}, -- [9]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 376,
+						["mapChallengeModeID"] = 377,
 						["level"] = 5,
 					}, -- [10]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 375,
-						["level"] = 8,
+						["level"] = 7,
 					}, -- [11]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 382,
-						["level"] = 10,
+						["mapChallengeModeID"] = 376,
+						["level"] = 5,
 					}, -- [12]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 375,
+						["level"] = 8,
+					}, -- [13]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 382,
 						["level"] = 10,
-					}, -- [13]
+					}, -- [14]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 381,
 						["level"] = 12,
-					}, -- [14]
+					}, -- [15]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 380,
 						["level"] = 9,
-					}, -- [15]
+					}, -- [16]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 378,
 						["level"] = 11,
 						["thisWeek"] = true,
-					}, -- [16]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 244,
-						["level"] = 18,
 					}, -- [17]
 					{
 						["completed"] = true,
@@ -113,16 +113,16 @@ DataStore_KeystonesDB = {
 					}, -- [19]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 251,
-						["level"] = 16,
+						["mapChallengeModeID"] = 376,
+						["level"] = 2,
 					}, -- [20]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 369,
-						["level"] = 19,
+						["mapChallengeModeID"] = 382,
+						["level"] = 10,
 					}, -- [21]
 				},
-				["lastUpdate"] = 1608277663,
+				["lastUpdate"] = 1608364867,
 				["WeeklyActivities"] = {
 					[25] = {
 						["progress"] = 1660,
@@ -146,18 +146,23 @@ DataStore_KeystonesDB = {
 						},
 					},
 					[29] = {
+						["progress"] = 9,
+						["level"] = 15,
 						["exampleRewards"] = {
-							"", -- [1]
-							"", -- [2]
+							"|cffa335ee|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[Double-Chained Utility Belt]|h|r", -- [1]
+							"|cffa335ee|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[Double-Chained Utility Belt]|h|r", -- [2]
 						},
 					},
 					[30] = {
+						["progress"] = 9,
+						["level"] = 15,
 						["exampleRewards"] = {
-							"", -- [1]
-							"", -- [2]
+							"|cffa335ee|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[Double-Chained Utility Belt]|h|r", -- [1]
+							"|cffa335ee|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[Double-Chained Utility Belt]|h|r", -- [2]
 						},
 					},
 					[31] = {
+						["progress"] = 9,
 						["exampleRewards"] = {
 							"", -- [1]
 							"", -- [2]

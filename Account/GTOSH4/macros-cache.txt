@@ -20,6 +20,10 @@ END
 VER 3 0000000000000021 "follow" "134140"
 /follow toshpal
 END
+VER 3 0000000000000037 "innervate me" "136048"
+#showtooltip Innervate
+/script WeakAuras.ScanEvents("TOSH_WA_INNRV_ASK")
+END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
 /script local n=GetItemInfo(39354); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
 END
@@ -32,6 +36,9 @@ END
 VER 3 0000000000000033 "PI" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@target,help][@focus,help][@player] Power Infusion
+END
+VER 3 0000000000000036 "pi test" "INV_MISC_QUESTIONMARK"
+/script WeakAuras.ScanEvents("TOSH_WA_PI_ASK")
 END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
