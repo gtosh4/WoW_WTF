@@ -19,6 +19,10 @@ END
 VER 3 0000000000000033 "follow" "413580"
 /follow Toshpriest
 END
+VER 3 0000000000000034 "innervate me" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/script WeakAuras.ScanEvents("TOSH_WA_INNRV_ASK")
+END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
 /script local n=GetItemInfo(3371); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
 END

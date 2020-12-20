@@ -747,65 +747,66 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["HistoryLastUpdate"] = 1606539511,
+				["HistoryLastUpdate"] = 1608412988,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:62159:807|h[Aiding the Shadowlands]|h|r", -- [1]
-					"|cff808080|Hquest:42420:347|h[Court of Farondis]|h|r", -- [2]
+					"|cff808080|Hquest:48641:347|h[Armies of Legionfall]|h|r", -- [2]
 					"|cff808080|Hquest:43179:347|h[The Kirin Tor of Dalaran]|h|r", -- [3]
-					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [4]
-					"|cffffff00|Hquest:60242:837|h[Trading Favors: Necrotic Wake]|h|r", -- [5]
-					"|cffffff00|Hquest:50562:464|h[Champions of Azeroth]|h|r", -- [6]
-					"|cffffff00|Hquest:57566:703|h[N'Zoth Assault Tracker (Uldum)]|h|r", -- [7]
-					"|cffffff00|Hquest:57564:703|h[Mantid Assault Tracker]|h|r", -- [8]
-					"|cffffff00|Hquest:50603:464|h[Voldunai]|h|r", -- [9]
-					"|cffffff00|Hquest:50606:464|h[Horde War Effort]|h|r", -- [10]
-					"|cffffff00|Hquest:53435:289|h[Azerite for the Horde]|h|r", -- [11]
-					"|cffffff00|Hquest:49930:700|h[The Call for Allies]|h|r", -- [12]
-					"|cffffff00|Hquest:54180:464|h[Quest]|h|r", -- [13]
-					"|cffffff00|Hquest:57743:802|h[Conquest's Reward]|h|r", -- [14]
+					"|cffffff00|Hquest:50602:464|h[Talanji's Expedition]|h|r", -- [4]
+					"|cff808080|Hquest:42421:347|h[The Nightfallen]|h|r", -- [5]
+					"|cffffff00|Hquest:57565:703|h[Aqir Assault Tracker]|h|r", -- [6]
+					"|cffffff00|Hquest:57567:703|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [7]
+					"|cffffff00|Hquest:50598:464|h[Zandalari Empire]|h|r", -- [8]
+					"|cffffff00|Hquest:50606:464|h[Horde War Effort]|h|r", -- [9]
+					"|cffffff00|Hquest:53435:289|h[Azerite for the Horde]|h|r", -- [10]
+					"|cffffff00|Hquest:49930:700|h[The Call for Allies]|h|r", -- [11]
+					"|cffffff00|Hquest:54180:464|h[Quest]|h|r", -- [12]
+					"|cffffff00|Hquest:57743:802|h[Conquest's Reward]|h|r", -- [13]
 				},
-				["HistoryBuild"] = "36753",
+				["Money"] = {
+					117000, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					23400, -- [11]
+					0, -- [12]
+					0, -- [13]
+				},
 				["QuestHeaders"] = {
 					"Threads of Fate", -- [1]
-					"Azsuna", -- [2]
+					"Broken Shore", -- [2]
 					"Dalaran", -- [3]
-					"Krokuun", -- [4]
-					"Oribos", -- [5]
-					"Silithus: The Wound", -- [6]
-					"Uldum", -- [7]
-					"Vale of Eternal Blossoms", -- [8]
-					"Vol'dun", -- [9]
-					"Zuldazar", -- [10]
-					"Allied Races", -- [11]
-					"Missing header! (quest designers)", -- [12]
-					"Rated PvP", -- [13]
+					"Nazmir", -- [4]
+					"Suramar", -- [5]
+					"Uldum", -- [6]
+					"Vale of Eternal Blossoms", -- [7]
+					"Zuldazar", -- [8]
+					"Allied Races", -- [9]
+					"Missing header! (quest designers)", -- [10]
+					"Rated PvP", -- [11]
 				},
-				["Rewards"] = {
-					nil, -- [1]
-					"r|157825|1|1", -- [2]
-					"c|147410|1|1,c|147411|1|1,c|147412|1|1,c|147413|1|1,c|147414|1|1,c|147415|1|1,c|147727|1|1,c|152956|1|1,c|152961|1|1,r|157828|1|1", -- [3]
-					"r|157829|1|1", -- [4]
-					"r|184374|5|1", -- [5]
-					[11] = "r|166883|1|1,r|168615|1|1",
-					[9] = "r|163857|1|1",
-					[14] = "c|173303|1|1,c|172772|1|1,c|172756|1|1,c|172774|1|1,c|172764|1|1,r|172519|2|1",
-				},
-				["lastUpdate"] = 1606539562,
 				["HistorySize"] = 3696,
+				["lastUpdate"] = 1608413003,
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
 					128, -- [3]
 					128, -- [4]
-					81, -- [5]
-					128, -- [6]
+					128, -- [5]
+					270, -- [6]
 					270, -- [7]
-					270, -- [8]
+					128, -- [8]
 					128, -- [9]
-					128, -- [10]
-					261, -- [11]
-					[13] = 256,
-					[14] = 256,
+					261, -- [10]
+					nil, -- [11]
+					256, -- [12]
+					256, -- [13]
 				},
 				["History"] = {
 					461373444, -- [1]
@@ -1417,7 +1418,7 @@ DataStore_QuestsDB = {
 					[1810] = 19922944,
 					[1811] = 4160749568,
 					[1812] = 3405774849,
-					[1813] = 671090191,
+					[1813] = 134219279,
 					[1814] = 537954304,
 					[1703] = 1073741824,
 					[1816] = 64,
@@ -1672,69 +1673,55 @@ DataStore_QuestsDB = {
 						["numFulfilled"] = 0,
 					},
 				},
-				["Money"] = {
-					117000, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0, -- [4]
-					0, -- [5]
-					0, -- [6]
-					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					0, -- [10]
-					0, -- [11]
-					23400, -- [12]
-					0, -- [13]
-					0, -- [14]
-				},
+				["HistoryBuild"] = "36949",
 				["Quests"] = {
 					3278848, -- [1]
 					3280936, -- [2]
 					3282984, -- [3]
 					3285032, -- [4]
-					3287040, -- [5]
-					3289128, -- [6]
+					3287080, -- [5]
+					3289120, -- [6]
 					3291168, -- [7]
-					3293216, -- [8]
-					3295272, -- [9]
-					3297320, -- [10]
-					3297312, -- [11]
-					3299328, -- [12]
-					3301408, -- [13]
-					3303456, -- [14]
+					3293224, -- [8]
+					3293224, -- [9]
+					3293216, -- [10]
+					3295232, -- [11]
+					3297312, -- [12]
+					3299360, -- [13]
 				},
 				["Emissaries"] = {
-					[50562] = "0|4|2042|0/4 Complete 4 Azerite World Quest for Magni|1606539562|Champions of Azeroth",
-					[43179] = "0|3|602|0/3 Complete 3 Kirin Tor World Quests|1606539562|The Kirin Tor of Dalaran",
-					[42420] = "0|4|3482|0/4 Complete 4 world quests in Azsuna|1606539562|Court of Farondis",
-					[50606] = "0|4|602|0/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones|1606539562|Horde War Effort",
-					[50603] = "0|4|3482|0/4 Complete 4 world quests in Vol'dun|1606539562|Voldunai",
-					[48639] = "0|4|2042|0/4 Complete 4 Army of the Light World Quests|1606539562|Army of the Light",
+					[50602] = "0|4|1058|0/4 Complete 4 world quests in Nazmir.|1608413003|Talanji's Expedition",
+					[42421] = "0|4|2498|0/4 Complete 4 world quests in Suramar|1608413003|The Nightfallen",
+					[43179] = "0|3|3938|0/3 Complete 3 Kirin Tor World Quests|1608413003|The Kirin Tor of Dalaran",
+					[48641] = "0|4|1058|0/4 Complete 4 world quests on the Broken Shore|1608413003|Armies of Legionfall",
+					[50598] = "0|4|2498|0/4 Complete 4 world quests in Zuldazar.|1608413003|Zandalari Empire",
+					[50606] = "0|4|3938|0/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones|1608413003|Horde War Effort",
 				},
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["HistoryLastUpdate"] = 1608350123,
+				["HistoryLastUpdate"] = 1608454581,
 				["QuestLinks"] = {
 					"|cff808080|Hquest:48641:347|h[Armies of Legionfall]|h|r", -- [1]
 					"|cffffff00|Hquest:62054:751|h[Castle Nathria: Getting a Head]|h|r", -- [2]
 					"|cffffff00|Hquest:62055:752|h[Castle Nathria: Getting a Head]|h|r", -- [3]
 					"|cffffff00|Hquest:62056:753|h[Castle Nathria: Getting a Head]|h|r", -- [4]
-					"|cff808080|Hquest:48642:347|h[Argussian Reach]|h|r", -- [5]
-					"|cff808080|Hquest:56120:464|h[The Unshackled]|h|r", -- [6]
-					"|cff808080|Hquest:50602:464|h[Talanji's Expedition]|h|r", -- [7]
-					"|cffffff00|Hquest:62288:837|h[Observing Teamwork]|h|r", -- [8]
-					"|cffffff00|Hquest:62285:837|h[Observing War]|h|r", -- [9]
-					"|cff808080|Hquest:42421:347|h[The Nightfallen]|h|r", -- [10]
-					"|cff808080|Hquest:57565:703|h[Aqir Assault Tracker]|h|r", -- [11]
-					"|cff808080|Hquest:57567:703|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [12]
-					"|cff808080|Hquest:50598:464|h[Zandalari Empire]|h|r", -- [13]
+					"|cff808080|Hquest:43179:347|h[The Kirin Tor of Dalaran]|h|r", -- [5]
+					"|cff808080|Hquest:50602:464|h[Talanji's Expedition]|h|r", -- [6]
+					"|cffffff00|Hquest:62288:837|h[Observing Teamwork]|h|r", -- [7]
+					"|cffffff00|Hquest:62285:837|h[Observing War]|h|r", -- [8]
+					"|cff808080|Hquest:42421:347|h[The Nightfallen]|h|r", -- [9]
+					"|cff808080|Hquest:57565:703|h[Aqir Assault Tracker]|h|r", -- [10]
+					"|cff808080|Hquest:57567:703|h[N'Zoth Assault Tracker (Vale)]|h|r", -- [11]
+					"|cff808080|Hquest:50598:464|h[Zandalari Empire]|h|r", -- [12]
+					"|cff808080|Hquest:50606:464|h[Horde War Effort]|h|r", -- [13]
 					"|cff808080|Hquest:53435:289|h[Azerite for the Horde]|h|r", -- [14]
 					"|cffffff00|Hquest:61616:2060|h[The Ember Court]|h|r", -- [15]
 					"|cff808080|Hquest:54180:464|h[Quest]|h|r", -- [16]
 					"|cff808080|Hquest:57751:802|h[Conquest's Reward]|h|r", -- [17]
 				},
+				["lastUpdate"] = 1608454576,
 				["HistoryBuild"] = "36949",
+				["HistorySize"] = 2148,
 				["Money"] = {
 					0, -- [1]
 					514800, -- [2]
@@ -1754,16 +1741,6 @@ DataStore_QuestsDB = {
 					0, -- [16]
 					0, -- [17]
 				},
-				["HistorySize"] = 2138,
-				["Rewards"] = {
-					"r|157830|1|1", -- [1]
-					[8] = "r|184315|3|1",
-					[10] = "r|157826|1|1",
-					[15] = "r|181536|1|1,r|176850|1|1",
-					[9] = "r|184315|1|1",
-					[5] = "r|157831|1|1",
-				},
-				["lastUpdate"] = 1608361151,
 				["QuestTags"] = {
 					128, -- [1]
 					62, -- [2]
@@ -1771,12 +1748,12 @@ DataStore_QuestsDB = {
 					62, -- [4]
 					128, -- [5]
 					128, -- [6]
-					128, -- [7]
+					41, -- [7]
 					41, -- [8]
-					41, -- [9]
-					128, -- [10]
+					128, -- [9]
+					270, -- [10]
 					270, -- [11]
-					270, -- [12]
+					128, -- [12]
 					128, -- [13]
 					261, -- [14]
 					"DAILY", -- [15]
@@ -1861,6 +1838,7 @@ DataStore_QuestsDB = {
 					[1170] = 134217728,
 					[1219] = 524288,
 					[1228] = 30,
+					[1241] = 32768,
 					[1250] = 917504,
 					[1251] = 768,
 					[1254] = 134217728,
@@ -2168,7 +2146,7 @@ DataStore_QuestsDB = {
 					[1826] = 287440896,
 					[1827] = 4354,
 					[1828] = 22610432,
-					[1829] = 2415920129,
+					[1829] = 2415920641,
 					[1830] = 2,
 					[1831] = 3771662337,
 					[1832] = 125845506,
@@ -2178,7 +2156,7 @@ DataStore_QuestsDB = {
 					[1837] = 524288,
 					[1838] = 98304,
 					[1839] = 201326624,
-					[1840] = 270532608,
+					[1840] = 274726912,
 					[1841] = 6144,
 					[1842] = 555253840,
 					[1843] = 1073217537,
@@ -2195,8 +2173,8 @@ DataStore_QuestsDB = {
 					[1857] = 393216,
 					[1858] = 131340,
 					[1860] = 917728,
-					[1863] = 65537,
-					[1864] = 268959968,
+					[1863] = 1,
+					[1864] = 336068832,
 					[1865] = 268448000,
 					[1866] = 3693084673,
 					[1867] = 20894,
@@ -2215,18 +2193,18 @@ DataStore_QuestsDB = {
 					[1882] = 4261412865,
 					[1883] = 301989926,
 					[1884] = 2988832976,
-					[1885] = 302059538,
+					[1885] = 302055442,
 					[1886] = 2359296,
 					[1887] = 536871424,
 					[1888] = 224,
-					[1889] = 62919112,
+					[1889] = 62976016,
 					[1890] = 8233,
 					[1891] = 208666752,
 					[1892] = 2099072,
 					[1893] = 2429036546,
 					[1894] = 17039366,
 					[1895] = 3992002560,
-					[1896] = 2149592016,
+					[1896] = 2149591504,
 					[1897] = 258,
 					[1898] = 2686320672,
 					[1899] = 402653190,
@@ -2245,12 +2223,13 @@ DataStore_QuestsDB = {
 					[1914] = 192,
 					[1916] = 33554432,
 					[1917] = 4194304,
-					[1918] = 2052,
+					[1918] = 2048,
 					[1919] = 2415919104,
 					[1920] = 1073741824,
 					[1922] = 1048576,
-					[1924] = 1024,
+					[1924] = 1040,
 					[1925] = 524289,
+					[1927] = 16384,
 					[1929] = 1574656,
 					[1930] = 2,
 					[1931] = 67108864,
@@ -2273,12 +2252,12 @@ DataStore_QuestsDB = {
 					[1962] = 8,
 					[1963] = 159383552,
 					[1964] = 2164736,
-					[1965] = 12583710,
+					[1965] = 4290773791,
 					[1966] = 465567780,
 					[1967] = 210768844,
 					[1968] = 12583008,
-					[1970] = 56639489,
-					[1971] = 3347123328,
+					[1970] = 56639488,
+					[1971] = 3883994120,
 					[1972] = 1572864,
 					[1973] = 2952790017,
 					[1974] = 270205520,
@@ -2288,7 +2267,7 @@ DataStore_QuestsDB = {
 					[1978] = 524288,
 					[1979] = 134217856,
 					[1980] = 1396736,
-					[1981] = 724036,
+					[1981] = 199748,
 					[1983] = 4194304,
 					[994] = 512,
 					[995] = 31449840,
@@ -2335,34 +2314,16 @@ DataStore_QuestsDB = {
 					"Venthyr Campaign", -- [1]
 					"Broken Shore", -- [2]
 					"Castle Nathria", -- [3]
-					"Mac'Aree", -- [4]
-					"Nazjatar", -- [5]
-					"Nazmir", -- [6]
-					"Oribos", -- [7]
-					"Suramar", -- [8]
-					"Uldum", -- [9]
-					"Vale of Eternal Blossoms", -- [10]
-					"Zuldazar", -- [11]
-					"Ember Court", -- [12]
-					"Missing header! (quest designers)", -- [13]
-					"Rated PvP", -- [14]
-				},
-				["Dailies"] = {
-					{
-						["id"] = 63050,
-						["timestamp"] = 1608331824,
-						["title"] = "Acquisition: Blazing Ingots",
-					}, -- [1]
-					{
-						["id"] = 63047,
-						["timestamp"] = 1608331824,
-						["title"] = "Acquisition: Runeforged Shackles",
-					}, -- [2]
-					{
-						["id"] = 63040,
-						["timestamp"] = 1608331825,
-						["title"] = "Guaranteed Delivery",
-					}, -- [3]
+					"Dalaran", -- [4]
+					"Nazmir", -- [5]
+					"Oribos", -- [6]
+					"Suramar", -- [7]
+					"Uldum", -- [8]
+					"Vale of Eternal Blossoms", -- [9]
+					"Zuldazar", -- [10]
+					"Ember Court", -- [11]
+					"Missing header! (quest designers)", -- [12]
+					"Rated PvP", -- [13]
 				},
 				["Quests"] = {
 					3936296, -- [1]
@@ -2371,26 +2332,26 @@ DataStore_QuestsDB = {
 					3938304, -- [4]
 					3940392, -- [5]
 					3287080, -- [6]
-					3289128, -- [7]
-					3946496, -- [8]
-					3946496, -- [9]
-					3948584, -- [10]
+					3944448, -- [7]
+					3944448, -- [8]
+					3946536, -- [9]
+					3948576, -- [10]
 					3950624, -- [11]
-					3952672, -- [12]
-					3299368, -- [13]
-					3954720, -- [14]
-					3956738, -- [15]
-					3303456, -- [16]
-					3305504, -- [17]
+					3297320, -- [12]
+					3297320, -- [13]
+					3952672, -- [14]
+					3954690, -- [15]
+					3301408, -- [16]
+					3303456, -- [17]
 				},
 				["Emissaries"] = {
-					[50602] = "0|4|1922|0/4 Complete 4 world quests in Nazmir.|1608361151|Talanji's Expedition",
-					[42421] = "0|4|3362|0/4 Complete 4 world quests in Suramar|1608361151|The Nightfallen",
-					[48641] = "0|4|1922|0/4 Complete 4 world quests on the Broken Shore|1608361151|Armies of Legionfall",
-					[48642] = "0|4|482|0/4 Complete 4 Argussian Reach World Quests|1608361151|Argussian Reach",
-					[50598] = "0|4|3362|0/4 Complete 4 world quests in Zuldazar.|1608361151|Zandalari Empire",
+					[50602] = "0|4|0|0/4 Complete 4 world quests in Nazmir.|1608454576|Talanji's Expedition",
+					[42421] = "0|4|0|0/4 Complete 4 world quests in Suramar|1608454576|The Nightfallen",
+					[43179] = "0|3|0|0/3 Complete 3 Kirin Tor World Quests|1608454576|The Kirin Tor of Dalaran",
+					[48641] = "0|4|0|0/4 Complete 4 world quests on the Broken Shore|1608454576|Armies of Legionfall",
 					[42170] = "0|4|0|0/4 Complete 4 world quests in Val'sharah|1607679024|The Dreamweavers",
-					[56120] = "0|4|482|0/4 Complete world quests in Nazjatar|1608361151|The Unshackled",
+					[50598] = "0|4|0|0/4 Complete 4 world quests in Zuldazar.|1608454576|Zandalari Empire",
+					[50606] = "0|4|0|0/4 Complete 4 world quests on Kul Tiras, Assaults or Warfront Zones|1608454576|Horde War Effort",
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {
@@ -2719,15 +2680,15 @@ DataStore_QuestsDB = {
 			},
 		},
 		["RegularZoneQuests"] = {
-			[57157] = "0|1|Drive back N'Zoth's Forces|1608361151|Assault: The Black Empire",
-			[55350] = "0|1|Drive back the Amathet|1608361151|Assault: Amathet Advance",
-			[57008] = "0|1|Push back the mogu forces|1608361151|Assault: The Warring Clans",
-			[56131] = "0|3|0/3 Rare Enemies slain in Mechagon|1606539562|Security First",
-			[56139] = "0|6|0/6 Mechanized Chests opened in Mechagon|1608361151|Junkyard Treasures",
-			[55901] = "0|1|Complete activities in Mechagon|1608361151|Rustbolt Rebellion",
-			[56308] = "4802|1|Drive back the Aqir|1608361151|Assault: Aqir Unearthed",
-			[56064] = "4801|1|Cleanse N'Zoth's corruption|1608361151|Assault: The Black Empire",
-			[57728] = "0|1|Cull the mantid swarm|1608361151|Assault: The Endless Swarm",
+			[57157] = "0|1|Drive back N'Zoth's Forces|1608454576|Assault: The Black Empire",
+			[55350] = "0|1|Drive back the Amathet|1608454576|Assault: Amathet Advance",
+			[57008] = "0|1|Push back the mogu forces|1608454576|Assault: The Warring Clans",
+			[56131] = "0|3|0/3 Rare Enemies slain in Mechagon|1608413003|Security First",
+			[56139] = "0|6|0/6 Mechanized Chests opened in Mechagon|1608454576|Junkyard Treasures",
+			[55901] = "0|1|Complete activities in Mechagon|1608454576|Rustbolt Rebellion",
+			[56308] = "0|1|Drive back the Aqir|1608454576|Assault: Aqir Unearthed",
+			[56064] = "0|1|Cleanse N'Zoth's corruption|1608454576|Assault: The Black Empire",
+			[57728] = "0|1|Cull the mantid swarm|1608454576|Assault: The Endless Swarm",
 		},
 	},
 }

@@ -2,84 +2,57 @@
 DataStore_CovenantsDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpriest"] = {
 				["CovenantID"] = 2,
 				["Torghast"] = {
-					["theupperreaches"] = {
-						["nextReset"] = 1608649199,
-						["name"] = "The Upper Reaches",
+					["skoldushall"] = {
+						["nextReset"] = 1608044399,
+						["name"] = "Skoldus Hall",
 						["levels"] = {
 							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 120,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
+								["status"] = 3,
 							}, -- [1]
 							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 220,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
+								["status"] = 3,
 							}, -- [2]
 							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 305,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
+								["status"] = 3,
 							}, -- [3]
 							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 375,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
+								["status"] = 3,
 							}, -- [4]
 							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 435,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
+								["status"] = 3,
 							}, -- [5]
 							{
 								["rewards"] = {
 									{
 										["id"] = 1828,
-										["quantity"] = 485,
+										["quantity"] = 50,
 										["rewardType"] = 1,
 									}, -- [1]
 								},
 							}, -- [6]
 							{
+								["status"] = 2,
 								["rewards"] = {
 									{
 										["id"] = 1828,
-										["quantity"] = 530,
+										["quantity"] = 95,
 										["rewardType"] = 1,
 									}, -- [1]
 								},
 							}, -- [7]
 							{
+								["status"] = 2,
 								["rewards"] = {
 									{
 										["id"] = 1828,
-										["quantity"] = 570,
+										["quantity"] = 135,
 										["rewardType"] = 1,
 									}, -- [1]
 								},
@@ -166,56 +139,6 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
-					["skoldushall"] = {
-						["nextReset"] = 1608044399,
-						["name"] = "Skoldus Hall",
-						["levels"] = {
-							{
-								["status"] = 3,
-							}, -- [1]
-							{
-								["status"] = 3,
-							}, -- [2]
-							{
-								["status"] = 3,
-							}, -- [3]
-							{
-								["status"] = 3,
-							}, -- [4]
-							{
-								["status"] = 3,
-							}, -- [5]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 50,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [6]
-							{
-								["status"] = 2,
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 95,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [7]
-							{
-								["status"] = 2,
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 135,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [8]
-						},
-					},
 					["fracturechambers"] = {
 						["nextReset"] = 1608649199,
 						["name"] = "Fracture Chambers",
@@ -295,26 +218,104 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
+					["theupperreaches"] = {
+						["nextReset"] = 1608649199,
+						["name"] = "The Upper Reaches",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
 				},
-				["lastUpdate"] = 1608361151,
+				["lastUpdate"] = 1608454576,
 				["ConduitReinforceProgress"] = 5,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.4300369024276733,
 					["x"] = 0.2887356877326965,
 				},
 				["InstalledConduits"] = {
-					[1396] = 66,
-					[1397] = 69,
 					[1556] = 72,
-					[1395] = 77,
+					[1396] = 66,
 					[1547] = 82,
+					[1397] = 69,
+					[1395] = 77,
 				},
 				["TalentUnlockWorldQuest"] = {
 					[1257] = 60601,
 				},
 				["ActiveSoulbindID"] = 8,
 				["AnimaCurrency"] = {
-					["count"] = 2637,
+					["count"] = 2498,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
@@ -324,8 +325,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 182139,
 						["conduitSpecSetID"] = 33,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Shadow",
+						["conduitRank"] = 5,
 					},
 					[116] = {
 						["conduitID"] = 116,
@@ -333,33 +334,33 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 182141,
 						["conduitSpecSetID"] = 32,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 5,
 					},
 					[66] = {
 						["conduitID"] = 66,
-						["conduitType"] = 2,
 						["conduitItemLevel"] = 171,
-						["conduitItemID"] = 181826,
+						["conduitType"] = 2,
 						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181826,
 						["conduitRank"] = 3,
 					},
 					[72] = {
 						["conduitID"] = 72,
-						["conduitType"] = 2,
 						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181840,
+						["conduitType"] = 2,
 						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181840,
 						["conduitRank"] = 4,
 					},
 					[105] = {
 						["conduitID"] = 105,
-						["conduitType"] = 1,
 						["conduitItemLevel"] = 200,
-						["conduitItemID"] = 182130,
+						["conduitType"] = 1,
 						["conduitSpecSetID"] = 166,
-						["covenantID"] = 2,
+						["conduitItemID"] = 182130,
 						["conduitRank"] = 5,
+						["covenantID"] = 2,
 					},
 					[76] = {
 						["conduitID"] = 76,
@@ -367,8 +368,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181844,
 						["conduitSpecSetID"] = 31,
-						["conduitRank"] = 4,
 						["conduitSpecName"] = "Discipline",
+						["conduitRank"] = 4,
 					},
 					[78] = {
 						["conduitID"] = 78,
@@ -376,8 +377,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181847,
 						["conduitSpecSetID"] = 32,
-						["conduitRank"] = 4,
 						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 4,
 					},
 					[113] = {
 						["conduitID"] = 113,
@@ -385,8 +386,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 182138,
 						["conduitSpecSetID"] = 33,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Shadow",
+						["conduitRank"] = 5,
 					},
 					[84] = {
 						["conduitID"] = 84,
@@ -394,8 +395,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181944,
 						["conduitSpecSetID"] = 32,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 5,
 					},
 					[115] = {
 						["conduitID"] = 115,
@@ -403,8 +404,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 182140,
 						["conduitSpecSetID"] = 33,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Shadow",
+						["conduitRank"] = 5,
 					},
 					[107] = {
 						["conduitID"] = 107,
@@ -412,36 +413,36 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 182131,
 						["conduitSpecSetID"] = 33,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Shadow",
+						["conduitRank"] = 5,
 					},
 					[67] = {
 						["conduitID"] = 67,
 						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181827,
 						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181827,
 						["conduitRank"] = 4,
 					},
 					[69] = {
 						["conduitID"] = 69,
 						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181837,
 						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181837,
 						["conduitRank"] = 4,
 					},
 					[71] = {
 						["conduitID"] = 71,
-						["conduitType"] = 2,
 						["conduitItemLevel"] = 200,
-						["conduitItemID"] = 181838,
+						["conduitType"] = 2,
 						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181838,
 						["conduitRank"] = 5,
 					},
 					[73] = {
 						["conduitID"] = 73,
 						["conduitItemLevel"] = 213,
-						["conduitItemID"] = 181842,
 						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181842,
 						["conduitRank"] = 6,
 					},
 					[75] = {
@@ -450,8 +451,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181843,
 						["conduitSpecSetID"] = 31,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Discipline",
+						["conduitRank"] = 5,
 					},
 					[77] = {
 						["conduitID"] = 77,
@@ -459,14 +460,14 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181845,
 						["conduitSpecSetID"] = 31,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Discipline",
+						["conduitRank"] = 5,
 					},
 					[85] = {
 						["conduitID"] = 85,
 						["conduitItemLevel"] = 171,
-						["conduitItemID"] = 181962,
 						["conduitSpecSetID"] = 166,
+						["conduitItemID"] = 181962,
 						["conduitRank"] = 3,
 					},
 					[81] = {
@@ -475,8 +476,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 171,
 						["conduitItemID"] = 181867,
 						["conduitSpecSetID"] = 31,
-						["conduitRank"] = 3,
 						["conduitSpecName"] = "Discipline",
+						["conduitRank"] = 3,
 					},
 					[82] = {
 						["conduitID"] = 82,
@@ -484,8 +485,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181942,
 						["conduitSpecSetID"] = 32,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Holy",
+						["conduitRank"] = 5,
 					},
 				},
 				["SoulCurrencies"] = {
@@ -1431,6 +1432,14 @@ DataStore_CovenantsDB = {
 						["featureType"] = 4,
 					}, -- [5]
 				},
+			},
+			["Default.Area 52.Toshdruid"] = {
+				["CovenantID"] = 3,
+				["lastUpdate"] = 1608412984,
+				["AnimaCurrency"] = {
+					["maxDisplayable"] = 10000,
+				},
+				["RenownLevel"] = 1,
 			},
 		},
 	},

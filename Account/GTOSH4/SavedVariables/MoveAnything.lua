@@ -49,11 +49,11 @@ MADB = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
 						"BOTTOMRIGHT", -- [3]
-						-41.00006484985352, -- [4]
+						0, -- [4]
 						0, -- [5]
 					},
 					["name"] = "UIWidgetBelowMinimapContainerFrame",
-					["scale"] = 0.9999999403953552,
+					["scale"] = 1,
 					["orgScale"] = 1,
 					["pos"] = {
 						"TOPRIGHT", -- [1]

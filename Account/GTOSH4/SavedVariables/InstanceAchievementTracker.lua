@@ -2,7 +2,7 @@
 AchievementTrackerOptions = {
 	["toggleSoundFailed"] = false,
 	["showMinimap"] = false,
-	["onlyTrackMissingAchievements"] = false,
+	["toggleSound"] = false,
 	["displayInfoFrame"] = true,
 	["enableAutomaticCombatLogging"] = false,
 	["greyOutCompletedAchievements"] = false,
@@ -10,11 +10,11 @@ AchievementTrackerOptions = {
 	["announceToRaidWarning"] = true,
 	["trackingFrameXPos"] = 1758.333374023438,
 	["trackingFrameYPos"] = 722.5,
-	["trackCharacterAchievements"] = false,
-	["hideCompletedAchievements"] = false,
 	["enableAddon"] = true,
+	["hideCompletedAchievements"] = false,
+	["trackCharacterAchievements"] = false,
 	["trackAchievementsInBlizzardUI"] = false,
-	["toggleSound"] = false,
+	["onlyTrackMissingAchievements"] = false,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -1186,4 +1186,11 @@ AchievementTrackerDebug = {
 	"6/12/2020 16:1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1167]
 	"6/12/2020 16:2 [DEBUG] Hiding Minimap Icon", -- [1168]
 	"6/12/2020 16:2 [DEBUG] NPC cache generated", -- [1169]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1170]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.11.0", -- [1171]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [1172]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [1173]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [1174]
+	"19/12/2020 16:22 [DEBUG] Hiding Minimap Icon", -- [1175]
+	"19/12/2020 16:22 [DEBUG] NPC cache generated", -- [1176]
 }

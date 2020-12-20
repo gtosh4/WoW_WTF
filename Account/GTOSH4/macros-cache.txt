@@ -21,7 +21,7 @@ VER 3 0000000000000021 "follow" "134140"
 /follow toshpal
 END
 VER 3 0000000000000037 "innervate me" "136048"
-#showtooltip Innervate
+#showtooltip
 /script WeakAuras.ScanEvents("TOSH_WA_INNRV_ASK")
 END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"

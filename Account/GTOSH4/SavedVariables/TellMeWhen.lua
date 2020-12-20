@@ -85,6 +85,372 @@ TellMeWhenDB = {
 				}, -- [2]
 			},
 		},
+		["AuraCache"] = {
+			[344907] = 2,
+			[345546] = 2,
+			[77764] = 2,
+			[10060] = 2,
+			[280398] = 2,
+			[330604] = 1,
+			[16591] = 2,
+			[308504] = 2,
+			[320130] = 2,
+			[311444] = 2,
+			[1784] = 2,
+			[197625] = 2,
+			[254474] = 2,
+			[182104] = 2,
+			[347600] = 2,
+			[768] = 2,
+			[197690] = 2,
+			[347601] = 2,
+			[334443] = 2,
+			[235313] = 2,
+			[193475] = 2,
+			[8679] = 2,
+			[207400] = 2,
+			[80354] = 2,
+			[344154] = 2,
+			[186258] = 2,
+			[48018] = 2,
+			[8212] = 2,
+			[248473] = 2,
+			[6673] = 2,
+			[262652] = 2,
+			[334320] = 2,
+			[774] = 2,
+			[324867] = 2,
+			[2580] = 2,
+			[164862] = 2,
+			[334067] = 2,
+			[69369] = 2,
+			[31850] = 2,
+			[134522] = 2,
+			[232698] = 2,
+			[334196] = 2,
+			[311457] = 2,
+			[43308] = 2,
+			[311459] = 2,
+			[311460] = 2,
+			[108366] = 2,
+			[11426] = 2,
+			[114051] = 2,
+			[324748] = 2,
+			[327942] = 2,
+			[12472] = 2,
+			[336885] = 2,
+			[328837] = 2,
+			[308525] = 2,
+			[311464] = 2,
+			[311465] = 2,
+			[338804] = 2,
+			[5761] = 2,
+			[209261] = 2,
+			[329352] = 2,
+			[311468] = 2,
+			[94028] = 2,
+			[311469] = 2,
+			[297034] = 2,
+			[2645] = 2,
+			[227723] = 2,
+			[311471] = 2,
+			[314793] = 2,
+			[324631] = 2,
+			[272126] = 2,
+			[17] = 2,
+			[330764] = 2,
+			[311474] = 2,
+			[330765] = 2,
+			[311475] = 2,
+			[332299] = 2,
+			[253595] = 2,
+			[124211] = 2,
+			[311477] = 2,
+			[1850] = 2,
+			[311478] = 2,
+			[194384] = 2,
+			[197003] = 2,
+			[311479] = 2,
+			[336135] = 2,
+			[108211] = 2,
+			[327704] = 2,
+			[311480] = 2,
+			[465] = 2,
+			[165961] = 2,
+			[53563] = 2,
+			[164812] = 2,
+			[311483] = 2,
+			[298836] = 2,
+			[327708] = 2,
+			[260242] = 2,
+			[298837] = 2,
+			[260881] = 2,
+			[327709] = 2,
+			[345211] = 2,
+			[281209] = 2,
+			[311486] = 2,
+			[107574] = 2,
+			[317491] = 2,
+			[311487] = 2,
+			[326434] = 2,
+			[311488] = 2,
+			[298841] = 2,
+			[164815] = 2,
+			[242551] = 2,
+			[311489] = 2,
+			[48438] = 2,
+			[311490] = 2,
+			[114250] = 2,
+			[114282] = 2,
+			[52127] = 2,
+			[311492] = 2,
+			[347901] = 2,
+			[24858] = 2,
+			[311493] = 2,
+			[311494] = 2,
+			[191837] = 2,
+			[315584] = 2,
+			[188389] = 2,
+			[8936] = 2,
+			[203975] = 2,
+			[311498] = 2,
+			[311499] = 2,
+			[333600] = 1,
+			[12042] = 2,
+			[308434] = 2,
+			[191840] = 2,
+			[305497] = 2,
+			[34914] = 2,
+			[156071] = 2,
+			[335903] = 2,
+			[162906] = 2,
+			[53390] = 2,
+			[263725] = 2,
+			[192225] = 2,
+			[345230] = 2,
+			[236299] = 2,
+			[289277] = 2,
+			[147833] = 2,
+			[20707] = 2,
+			[61295] = 2,
+			[324666] = 2,
+			[44544] = 2,
+			[154797] = 2,
+			[102342] = 2,
+			[53822] = 2,
+			[215479] = 2,
+			[48265] = 2,
+			[343960] = 2,
+			[341533] = 2,
+			[338340] = 2,
+			[236298] = 2,
+			[292360] = 2,
+			[190446] = 2,
+			[235450] = 2,
+			[33763] = 2,
+			[46924] = 2,
+			[210126] = 2,
+			[2823] = 2,
+			[203849] = 2,
+			[343386] = 2,
+			[342814] = 2,
+			[1160] = 2,
+			[69820] = 2,
+			[334511] = 2,
+			[116841] = 2,
+			[201846] = 2,
+			[132404] = 2,
+			[338036] = 2,
+			[197214] = 2,
+			[198300] = 2,
+			[344179] = 2,
+			[212653] = 2,
+			[65081] = 2,
+			[167385] = 1,
+			[5672] = 2,
+			[321527] = 2,
+			[254472] = 2,
+			[156910] = 2,
+			[308514] = 2,
+			[43681] = 2,
+			[311648] = 2,
+			[116014] = 2,
+			[341291] = 2,
+			[252216] = 2,
+			[342309] = 2,
+			[292359] = 2,
+			[191212] = 2,
+			[335533] = 2,
+			[205648] = 2,
+			[167898] = 2,
+			[258920] = 2,
+			[231390] = 2,
+			[7384] = 2,
+			[292361] = 2,
+			[307166] = 2,
+			[101643] = 2,
+			[166302] = 1,
+			[292362] = 2,
+			[6788] = 2,
+			[330943] = 2,
+			[262115] = 2,
+			[5215] = 2,
+			[281216] = 2,
+			[325101] = 1,
+			[5487] = 2,
+			[210824] = 2,
+			[5225] = 2,
+			[236502] = 2,
+			[118922] = 2,
+			[85739] = 2,
+			[127801] = 1,
+			[186257] = 2,
+			[210053] = 2,
+			[307185] = 2,
+			[1953] = 2,
+			[341678] = 2,
+			[227847] = 2,
+			[343173] = 2,
+			[202164] = 2,
+			[87024] = 2,
+			[292363] = 2,
+			[307187] = 2,
+			[267611] = 2,
+			[116847] = 2,
+			[294133] = 2,
+			[337848] = 2,
+			[329289] = 2,
+			[12051] = 2,
+			[2383] = 2,
+			[317920] = 2,
+			[333889] = 2,
+			[3408] = 2,
+			[212552] = 2,
+			[334448] = 2,
+			[311484] = 2,
+			[328908] = 2,
+			[96312] = 2,
+			[121557] = 2,
+			[260708] = 2,
+			[32752] = 2,
+			[123725] = 2,
+			[331939] = 2,
+			[196840] = 2,
+			[2983] = 2,
+			[113942] = 2,
+			[289308] = 2,
+			[334677] = 2,
+			[320592] = 1,
+			[1459] = 2,
+			[311481] = 2,
+			[308430] = 2,
+			[231142] = 2,
+			[264689] = 2,
+			[193456] = 2,
+			[328210] = 2,
+			[289184] = 2,
+			[308506] = 2,
+			[1719] = 2,
+			[320212] = 2,
+			[308474] = 2,
+			[327509] = 2,
+			[119085] = 2,
+			[290121] = 2,
+			[270661] = 2,
+			[324651] = 2,
+			[121253] = 2,
+			[311470] = 2,
+			[340546] = 2,
+			[209746] = 2,
+			[311485] = 2,
+			[190456] = 2,
+			[42648] = 1,
+			[330067] = 2,
+			[72968] = 2,
+			[342076] = 2,
+			[279154] = 2,
+			[52437] = 2,
+			[113746] = 2,
+			[297039] = 2,
+			[105809] = 2,
+			[345466] = 2,
+			[102351] = 2,
+			[328281] = 2,
+			[337096] = 2,
+			[199721] = 2,
+			[331937] = 2,
+			[58729] = 1,
+			[57723] = 2,
+			[32223] = 2,
+			[277181] = 2,
+			[143625] = 2,
+			[311496] = 2,
+			[310143] = 2,
+			[345019] = 2,
+			[8220] = 2,
+			[191034] = 2,
+			[192106] = 2,
+			[16870] = 2,
+			[221886] = 2,
+			[89344] = 2,
+			[48107] = 2,
+			[327851] = 2,
+			[195630] = 2,
+			[98444] = 2,
+			[321388] = 2,
+			[196099] = 2,
+			[119611] = 2,
+			[335904] = 2,
+			[138927] = 2,
+			[287280] = 2,
+			[329310] = 1,
+			[61684] = 2,
+			[1604] = 1,
+			[345535] = 2,
+			[311466] = 2,
+			[308488] = 2,
+			[164273] = 2,
+			[115767] = 2,
+			[210391] = 2,
+			[57724] = 2,
+			[115804] = 2,
+			[205473] = 2,
+			[331868] = 2,
+			[324819] = 1,
+			[105771] = 2,
+			[184362] = 2,
+			[340556] = 2,
+			[342217] = 2,
+			[191920] = 2,
+			[236645] = 2,
+			[58875] = 2,
+			[315356] = 1,
+			[330593] = 1,
+			[311467] = 2,
+			[245686] = 2,
+			[225787] = 2,
+			[23920] = 2,
+			[199854] = 2,
+			[278310] = 2,
+			[228358] = 2,
+			[334058] = 2,
+			[324260] = 2,
+			[204262] = 2,
+			[108446] = 1,
+			[119415] = 2,
+			[313350] = 1,
+			[339463] = 2,
+			[341207] = 2,
+			[202602] = 2,
+			[313351] = 1,
+			[333957] = 2,
+			[32216] = 2,
+			[20572] = 2,
+			[345545] = 2,
+			[280776] = 2,
+			[21562] = 2,
+			[345240] = 2,
+		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
 			["SUG_FIRSTHELP"] = true,
@@ -1220,7 +1586,6 @@ TellMeWhenDB = {
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
 			["Locked"] = true,
-			["Version"] = 90201,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -9427,6 +9792,7 @@ TellMeWhenDB = {
 				}, -- [15]
 			},
 			["NumGroups"] = 15,
+			["Version"] = 90201,
 		},
 		["Daggny - Frostwolf"] = {
 			["Locked"] = true,
@@ -9485,7 +9851,7 @@ TellMeWhenDB = {
 		},
 		["Toshdruid - Area 52"] = {
 			["Locked"] = true,
-			["Version"] = 90201,
+			["Version"] = 90301,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1VD9nJu6qUSM",
@@ -9547,12 +9913,6 @@ TellMeWhenDB = {
 		["Priest2"] = {
 			["Groups"] = {
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -9599,14 +9959,14 @@ TellMeWhenDB = {
 								{
 									["Type"] = "EXISTS",
 									["Unit"] = "target",
-									["Level"] = 1,
 									["AndOr"] = "OR",
+									["Level"] = 1,
 								}, -- [1]
 								{
 									["Type"] = "REACT",
 									["Unit"] = "target",
-									["Level"] = 2,
 									["AndOr"] = "OR",
+									["Level"] = 2,
 								}, -- [2]
 								{
 									["Type"] = "SPELLRANGE",
@@ -9949,12 +10309,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5QOoilLgOy",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [1]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -9970,7 +10332,7 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["Type"] = "buff",
 							["Name"] = "Schism",
-							["Enabled"] = true,
+							["GUID"] = "TMW:icon:1VtNchkiRD4F",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -9986,17 +10348,18 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["GUID"] = "TMW:icon:1VtNchkiRD4F",
+							["Enabled"] = true,
 						}, -- [1]
 						{
 							["ShowTimer"] = true,
 							["BuffOrDebuff"] = "HARMFUL",
-							["OnlyMine"] = true,
+							["CLEUEvents"] = {
+								["SPELL_CAST_SUCCESS"] = true,
+							},
 							["Type"] = "cleu",
 							["CLEUDur"] = 9,
 							["Name"] = "Schism",
-							["GUID"] = "TMW:icon:1VtNchkkPtKC",
-							["SourceUnit"] = "player",
+							["OnlyMine"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -10017,9 +10380,8 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["CLEUEvents"] = {
-								["SPELL_CAST_SUCCESS"] = true,
-							},
+							["GUID"] = "TMW:icon:1VtNchkkPtKC",
+							["SourceUnit"] = "player",
 							["Enabled"] = true,
 						}, -- [2]
 						{
@@ -10459,6 +10821,10 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Disc Helpers",
 					["GUID"] = "TMW:group:1V5R9h2RhMi2",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [2]
 				{
 					["Point"] = {
@@ -10469,7 +10835,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[258] = false,
@@ -10506,7 +10872,7 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "Rapture; Spirit Shell",
+							["Name"] = "Rapture; 109964",
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -10543,7 +10909,6 @@ TellMeWhenDB = {
 								"TMW:icon:1VtNchkiRD4F", -- [1]
 								"TMW:icon:1VtNchkkPtKC", -- [2]
 							},
-							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -10553,6 +10918,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [3]
 						{
 							["States"] = {
@@ -10647,7 +11013,7 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Disc Procs",
 					["GUID"] = "TMW:group:1V5RkqsuK0qG",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [3]
 				{
 					["Point"] = {
@@ -10732,7 +11098,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Type"] = "item",
 							["Name"] = "Abyssal Healing Potion",
-							["OnlyInBags"] = true,
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -10754,13 +11120,13 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Enabled"] = true,
+							["OnlyInBags"] = true,
 						}, -- [3]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "item",
 							["Name"] = "Healthstone",
-							["OnlyInBags"] = true,
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -10782,7 +11148,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Enabled"] = true,
+							["OnlyInBags"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -10817,12 +11183,6 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1V5Rw74pj18v",
 				}, -- [4]
 				{
-					["Point"] = {
-						["y"] = -2,
-						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -11086,8 +11446,8 @@ TellMeWhenDB = {
 									["OnConditionConditions"] = {
 										{
 											["Type"] = "HEALTH",
-											["Operator"] = "<=",
 											["Unit"] = "target",
+											["Operator"] = "<=",
 											["Level"] = 20,
 										}, -- [1]
 										["n"] = 1,
@@ -11204,14 +11564,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5S0C30ZNK5",
+					["Point"] = {
+						["y"] = -2,
+						["relativeTo"] = "TMW:group:1V5QOoilLgOy",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
 				}, -- [5]
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -11513,8 +11873,18 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SQWkWTAWD",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [6]
 				{
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -11983,10 +12353,6 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Holy Helpers",
 					["GUID"] = "TMW:group:1V5SREYruzir",
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 				}, -- [7]
 				{
 					["Point"] = {
@@ -11997,7 +12363,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[258] = false,
 						[256] = false,
@@ -12164,7 +12530,7 @@ TellMeWhenDB = {
 					},
 					["Name"] = "Holy Procs",
 					["GUID"] = "TMW:group:1V5SSG6lLU0b",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [8]
 				{
 					["Point"] = {
@@ -12244,7 +12610,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Type"] = "item",
 							["Name"] = "Abyssal Healing Potion",
-							["OnlyInBags"] = true,
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -12266,13 +12632,13 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Enabled"] = true,
+							["OnlyInBags"] = true,
 						}, -- [3]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "item",
 							["Name"] = "Healthstone",
-							["OnlyInBags"] = true,
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -12294,7 +12660,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Enabled"] = true,
+							["OnlyInBags"] = true,
 						}, -- [4]
 						{
 							["States"] = {
@@ -12336,7 +12702,7 @@ TellMeWhenDB = {
 						["relativePoint"] = "BOTTOMLEFT",
 					},
 					["Scale"] = 1,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[258] = false,
 						[256] = false,
@@ -12647,15 +13013,9 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1V5SSQP92pnS",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [10]
 				{
-					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
-						["point"] = "LEFT",
-						["relativePoint"] = "RIGHT",
-						["x"] = 10.0020751953125,
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -12760,8 +13120,8 @@ TellMeWhenDB = {
 									["OnConditionConditions"] = {
 										{
 											["Type"] = "HEALTH",
-											["Operator"] = "<=",
 											["Unit"] = "target",
+											["Operator"] = "<=",
 											["Level"] = 20,
 										}, -- [1]
 										["n"] = 1,
@@ -13023,12 +13383,14 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP3zphLZaf",
+					["Point"] = {
+						["x"] = 10.0020751953125,
+						["point"] = "LEFT",
+						["relativePoint"] = "RIGHT",
+						["relativeTo"] = "SUFUnitplayer",
+					},
 				}, -- [11]
 				{
-					["Point"] = {
-						["y"] = 245.833740234375,
-						["x"] = -663.3326416015625,
-					},
 					["Scale"] = 1,
 					["Rows"] = 6,
 					["Locked"] = true,
@@ -13442,6 +13804,10 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP50dIOyeX",
+					["Point"] = {
+						["y"] = 245.833740234375,
+						["x"] = -663.3326416015625,
+					},
 				}, -- [12]
 				{
 					["Point"] = {
@@ -13452,7 +13818,7 @@ TellMeWhenDB = {
 						["x"] = -2.048756665998734e-05,
 					},
 					["Scale"] = 1.4,
-					["ShrinkGroup"] = true,
+					["Locked"] = true,
 					["EnabledSpecs"] = {
 						[257] = false,
 						[256] = false,
@@ -13558,14 +13924,14 @@ TellMeWhenDB = {
 								{
 									["Type"] = "EXISTS",
 									["Unit"] = "target",
-									["Level"] = 1,
 									["AndOr"] = "OR",
+									["Level"] = 1,
 								}, -- [1]
 								{
 									["Type"] = "REACT",
 									["Unit"] = "target",
-									["Level"] = 2,
 									["AndOr"] = "OR",
+									["Level"] = 2,
 								}, -- [2]
 								{
 									["Type"] = "SPELLRANGE",
@@ -13622,14 +13988,14 @@ TellMeWhenDB = {
 								{
 									["Type"] = "EXISTS",
 									["Unit"] = "target",
-									["Level"] = 1,
 									["AndOr"] = "OR",
+									["Level"] = 1,
 								}, -- [1]
 								{
 									["Type"] = "REACT",
 									["Unit"] = "target",
-									["Level"] = 2,
 									["AndOr"] = "OR",
+									["Level"] = 2,
 								}, -- [2]
 								{
 									["Type"] = "SPELLRANGE",
@@ -13792,7 +14158,7 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP5WIrphW5",
-					["Locked"] = true,
+					["ShrinkGroup"] = true,
 				}, -- [13]
 				{
 					["Point"] = {
@@ -13903,7 +14269,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Type"] = "item",
 							["Name"] = "Abyssal Healing Potion",
-							["OnlyInBags"] = true,
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -13925,13 +14291,13 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Enabled"] = true,
+							["OnlyInBags"] = true,
 						}, -- [4]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "item",
 							["Name"] = "Healthstone",
-							["OnlyInBags"] = true,
+							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -13953,7 +14319,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["Enabled"] = true,
+							["OnlyInBags"] = true,
 						}, -- [5]
 						{
 							["States"] = {
@@ -13977,12 +14343,6 @@ TellMeWhenDB = {
 					["GUID"] = "TMW:group:1VIP6OlTkv8g",
 				}, -- [14]
 				{
-					["Point"] = {
-						["y"] = -2.000030517578125,
-						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
-						["point"] = "TOPLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-					},
 					["Scale"] = 1,
 					["Locked"] = true,
 					["EnabledSpecs"] = {
@@ -14249,6 +14609,12 @@ TellMeWhenDB = {
 						},
 					},
 					["GUID"] = "TMW:group:1VIP6n2Kcrmc",
+					["Point"] = {
+						["y"] = -2.000030517578125,
+						["relativeTo"] = "TMW:group:1V5SQWkWTAWD",
+						["point"] = "TOPLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+					},
 				}, -- [15]
 				{
 					["Scale"] = 1.4,
@@ -14423,10 +14789,10 @@ TellMeWhenDB = {
 					["Name"] = "Util",
 					["GUID"] = "TMW:group:1VIP7xIq0t4D",
 					["Point"] = {
-						["relativeTo"] = "SUFUnitplayer",
+						["x"] = -2.85712656679811,
 						["point"] = "BOTTOMRIGHT",
 						["relativePoint"] = "BOTTOMLEFT",
-						["x"] = -2.85712656679811,
+						["relativeTo"] = "SUFUnitplayer",
 					},
 				}, -- [16]
 			},
@@ -14496,6 +14862,8 @@ TellMeWhenDB = {
 		},
 		["Toshpal - Area 52"] = {
 			["Locked"] = true,
+			["NumGroups"] = 15,
+			["Version"] = 90201,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -23252,10 +23620,9 @@ TellMeWhenDB = {
 					},
 				}, -- [16]
 			},
-			["NumGroups"] = 15,
-			["Version"] = 90201,
 		},
 		["Toshpriest - Area 52"] = {
+			["NumGroups"] = 10,
 			["Version"] = 90201,
 			["Groups"] = {
 				{
@@ -26344,7 +26711,6 @@ TellMeWhenDB = {
 					["Columns"] = 12,
 				}, -- [10]
 			},
-			["NumGroups"] = 10,
 			["TextureName"] = "Smooth v2",
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -26464,7 +26830,6 @@ TellMeWhenDB = {
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
-			["Version"] = 87505,
 			["NumGroups"] = 5,
 			["Groups"] = {
 				{
@@ -29719,6 +30084,7 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
+			["Version"] = 87505,
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["Locked"] = true,
@@ -29776,6 +30142,8 @@ TellMeWhenDB = {
 			},
 		},
 		["Empty"] = {
+			["Version"] = 87505,
+			["NumGroups"] = 15,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -37542,8 +37910,6 @@ TellMeWhenDB = {
 					["ShrinkGroup"] = true,
 				}, -- [15]
 			},
-			["Version"] = 87505,
-			["NumGroups"] = 15,
 		},
 		["Toshtoon - Barthilas"] = {
 			["Version"] = 87505,

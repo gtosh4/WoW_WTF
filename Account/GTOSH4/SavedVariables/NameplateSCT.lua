@@ -2,6 +2,7 @@
 NameplateSCTDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
 	},
 	["global"] = {
 		["sizing"] = {

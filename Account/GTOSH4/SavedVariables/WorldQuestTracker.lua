@@ -61,17 +61,21 @@ WQTrackerDB = {
 							["quest"] = 9,
 							["resource"] = 350,
 						},
-						["201215"] = {
-							["quest"] = 5,
-							["artifact"] = 600,
+						["201214"] = {
+							["quest"] = 1,
+							["artifact"] = 250,
 						},
 						["201208"] = {
 							["quest"] = 1,
 							["artifact"] = 250,
 						},
-						["201214"] = {
-							["quest"] = 1,
-							["artifact"] = 250,
+						["201216"] = {
+							["quest"] = 3,
+							["artifact"] = 175,
+						},
+						["201219"] = {
+							["quest"] = 3,
+							["artifact"] = 70,
 						},
 						["201209"] = {
 							["quest"] = 1,
@@ -125,9 +129,9 @@ WQTrackerDB = {
 								[152668] = 1,
 							},
 						},
-						["201216"] = {
-							["quest"] = 3,
-							["artifact"] = 175,
+						["201215"] = {
+							["quest"] = 5,
+							["artifact"] = 600,
 						},
 						["201217"] = {
 							["quest"] = 2,
@@ -188,6 +192,10 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["artifact"] = 250,
 							},
+							["201219"] = {
+								["quest"] = 3,
+								["artifact"] = 70,
+							},
 							["201215"] = {
 								["quest"] = 5,
 								["artifact"] = 600,
@@ -196,9 +204,9 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["artifact"] = 250,
 							},
-							["201213"] = {
-								["quest"] = 2,
-								["artifact"] = 70,
+							["201210"] = {
+								["quest"] = 3,
+								["artifact"] = 350,
 							},
 							["201211"] = {
 								["quest"] = 3,
@@ -225,16 +233,16 @@ WQTrackerDB = {
 								["quest"] = 5,
 								["gold"] = 2699900,
 							},
-							["201210"] = {
-								["quest"] = 3,
-								["artifact"] = 350,
+							["201209"] = {
+								["quest"] = 1,
+								["artifact"] = 70,
 							},
 							["201204"] = {
 								["quest"] = 5,
 								["artifact"] = 595,
 							},
-							["201209"] = {
-								["quest"] = 1,
+							["201213"] = {
+								["quest"] = 2,
 								["artifact"] = 70,
 							},
 							["201125"] = {
@@ -251,6 +259,7 @@ WQTrackerDB = {
 				},
 				["quest"] = {
 					["global"] = {
+						[58505] = 1,
 						[61815] = 1,
 						[52421] = 1,
 						[58144] = 1,
@@ -279,7 +288,7 @@ WQTrackerDB = {
 						[57443] = 3,
 						[57328] = 1,
 						[58221] = 1,
-						[59642] = 1,
+						[59642] = 2,
 						[56090] = 1,
 						[59789] = 1,
 						[57146] = 1,
@@ -292,7 +301,7 @@ WQTrackerDB = {
 						[60623] = 1,
 						[60770] = 1,
 						[57218] = 1,
-						[61540] = 1,
+						[61540] = 2,
 						[60659] = 2,
 						[60929] = 1,
 						[51043] = 1,
@@ -316,7 +325,7 @@ WQTrackerDB = {
 						[61337] = 1,
 						[61689] = 1,
 						[61549] = 1,
-						["total"] = 83,
+						["total"] = 86,
 					},
 					["character"] = {
 						["Player-3676-0AD8DD4D"] = {
@@ -336,23 +345,24 @@ WQTrackerDB = {
 						},
 						["Player-3676-0D0FE5F5"] = {
 							[59705] = 1,
+							[61343] = 1,
 							[58437] = 2,
 							[60770] = 1,
-							[61343] = 1,
+							[59585] = 1,
 							[59703] = 1,
 							[61595] = 1,
 							[60337] = 1,
-							[58144] = 1,
-							[57443] = 3,
-							[61540] = 1,
-							["total"] = 74,
-							[59717] = 1,
 							[60475] = 1,
+							[57443] = 3,
+							[61540] = 2,
+							["total"] = 77,
+							[59717] = 1,
+							[58144] = 1,
 							[62241] = 2,
-							[59585] = 1,
+							[61815] = 1,
 							[59599] = 2,
 							[60609] = 1,
-							[61815] = 1,
+							[62235] = 2,
 							[60739] = 1,
 							[61434] = 1,
 							[58601] = 1,
@@ -361,34 +371,34 @@ WQTrackerDB = {
 							[59804] = 1,
 							[59680] = 3,
 							[59808] = 3,
-							[62235] = 2,
 							[61631] = 1,
 							[58221] = 1,
 							[59617] = 2,
-							[60574] = 2,
 							[59789] = 1,
+							[60574] = 2,
 							[57328] = 1,
 							[58084] = 1,
 							[57465] = 1,
 							[60899] = 2,
+							[58505] = 1,
 							[60649] = 2,
-							[60533] = 1,
+							[61352] = 1,
 							[60653] = 1,
 							[59836] = 1,
 							[60531] = 1,
 							[60659] = 2,
-							[61352] = 1,
+							[60533] = 1,
 							[59718] = 1,
 							[60476] = 2,
 							[61549] = 1,
 							[60837] = 1,
 							[59600] = 1,
-							[59642] = 1,
+							[59642] = 2,
 							[60534] = 1,
 							[60929] = 1,
-							[60532] = 1,
-							[61689] = 1,
 							[60623] = 1,
+							[61689] = 1,
+							[60532] = 1,
 							[61189] = 2,
 							[62451] = 1,
 							[61337] = 1,
@@ -397,7 +407,7 @@ WQTrackerDB = {
 				},
 				["reward"] = {
 					["global"] = {
-						["artifact"] = 5165,
+						["artifact"] = 5235,
 						["gold"] = 7951700,
 						["resource"] = 575,
 						["profession"] = {
@@ -414,7 +424,7 @@ WQTrackerDB = {
 							},
 						},
 						["Player-3676-0D0FE5F5"] = {
-							["artifact"] = 5165,
+							["artifact"] = 5235,
 							["resource"] = 525,
 							["gold"] = 7951700,
 						},
@@ -647,25 +657,30 @@ WQTrackerDB = {
 				["Player-3676-0B20F78C"] = {
 				},
 				["Player-3676-0D0FE5F5"] = {
-					[60602] = {
-						["expireAt"] = 1608390042,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[60739] = {
-						["expireAt"] = 1608390105,
-						["rewardAmount"] = 35,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61947] = {
-						["expireAt"] = 1608390045,
+					[61867] = {
+						["expireAt"] = 1608476466,
 						["rewardAmount"] = 0,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[61885] = {
-						["expireAt"] = 1608390042,
-						["rewardAmount"] = "16",
-						["rewardTexture"] = 2004597,
+					[59643] = {
+						["expireAt"] = 1608476423,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[59848] = {
+						["expireAt"] = 1608510983,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[60655] = {
+						["expireAt"] = 1608459143,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61883] = {
+						["expireAt"] = 1608476483,
+						["rewardAmount"] = "5",
+						["rewardTexture"] = 1045106,
 					},
 				},
 			},

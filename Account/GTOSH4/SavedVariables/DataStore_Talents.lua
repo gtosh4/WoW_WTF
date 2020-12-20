@@ -243,7 +243,7 @@ DataStore_TalentsDB = {
 				["Class"] = "PALADIN",
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["lastUpdate"] = 1606538150,
+				["lastUpdate"] = 1608413002,
 				["Specializations"] = {
 					[4] = 10941,
 				},
@@ -476,7 +476,7 @@ DataStore_TalentsDB = {
 				["Class"] = "DRUID",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1608364973,
+				["lastUpdate"] = 1608454578,
 				["Specializations"] = {
 					9711, -- [1]
 					14301, -- [2]
@@ -904,7 +904,7 @@ DataStore_TalentsRefDB = {
 					},
 				},
 			},
-			["Version"] = 36753,
+			["Version"] = 36949,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",

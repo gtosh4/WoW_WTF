@@ -9,7 +9,7 @@ DataStore_AuctionsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1608152611,
+				["lastUpdate"] = 1608429291,
 			},
 		},
 	},

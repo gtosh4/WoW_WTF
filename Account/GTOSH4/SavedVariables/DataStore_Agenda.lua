@@ -12,7 +12,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1607288633,
 			},
 			["Default.Area 52.Toshdruid"] = {
-				["lastUpdate"] = 1606539511,
+				["lastUpdate"] = 1608413139,
 			},
 			["Default.Area 52.Toshpriest"] = {
 				["DungeonIDs"] = {
@@ -30,14 +30,28 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 0,
 					},
+					[414591864] = {
+						["name"] = "Castle Nathria Normal",
+						["resetTime"] = 1608649198,
+						["numEncounters"] = 10,
+						["bosses"] = {
+							["Sludgefist"] = true,
+							["Stone Legion Generals"] = true,
+							["Sire Denathrius"] = true,
+						},
+						["progress"] = 3,
+						["extended"] = 0,
+						["isRaid"] = 1,
+					},
 					[414414209] = {
 						["name"] = "Castle Nathria Mythic",
 						["resetTime"] = 1608649198,
 						["numEncounters"] = 10,
 						["bosses"] = {
+							["Huntsman Altimor"] = true,
 							["Shriekwing"] = true,
 						},
-						["progress"] = 1,
+						["progress"] = 2,
 						["extended"] = 0,
 						["isRaid"] = 1,
 					},
@@ -69,8 +83,9 @@ DataStore_AgendaDB = {
 							["The Council of Blood"] = true,
 							["Stone Legion Generals"] = true,
 							["Sun King's Salvation"] = true,
+							["Sire Denathrius"] = true,
 						},
-						["progress"] = 9,
+						["progress"] = 10,
 						["extended"] = 0,
 						["isRaid"] = 1,
 					},
@@ -101,7 +116,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1608365017,
+				["lastUpdate"] = 1608454871,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},
