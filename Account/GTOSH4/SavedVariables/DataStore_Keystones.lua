@@ -32,160 +32,170 @@ DataStore_KeystonesDB = {
 					}, -- [3]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 244,
-						["level"] = 18,
-					}, -- [4]
-					{
-						["completed"] = true,
 						["mapChallengeModeID"] = 248,
 						["level"] = 20,
-					}, -- [5]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 353,
-						["level"] = 19,
-					}, -- [6]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 250,
-						["level"] = 22,
-					}, -- [7]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 376,
-						["level"] = 2,
-					}, -- [8]
+					}, -- [4]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 375,
 						["level"] = 6,
-					}, -- [9]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 377,
-						["level"] = 5,
-					}, -- [10]
+					}, -- [5]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 375,
 						["level"] = 7,
-					}, -- [11]
+					}, -- [6]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 376,
+						["level"] = 5,
+					}, -- [7]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 375,
 						["level"] = 8,
-					}, -- [12]
+					}, -- [8]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 382,
 						["level"] = 10,
-					}, -- [13]
+					}, -- [9]
 					{
 						["completed"] = true,
-						["mapChallengeModeID"] = 382,
-						["level"] = 10,
-					}, -- [14]
+						["mapChallengeModeID"] = 381,
+						["level"] = 12,
+					}, -- [10]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 380,
 						["level"] = 9,
-					}, -- [15]
+					}, -- [11]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 378,
 						["level"] = 11,
 						["thisWeek"] = true,
-					}, -- [16]
+					}, -- [12]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 244,
+						["level"] = 18,
+					}, -- [13]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 252,
 						["level"] = 18,
-					}, -- [17]
+					}, -- [14]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 353,
+						["level"] = 19,
+					}, -- [15]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 250,
+						["level"] = 22,
+					}, -- [16]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 370,
 						["level"] = 18,
-					}, -- [18]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 376,
-						["level"] = 5,
-					}, -- [19]
-					{
-						["completed"] = true,
-						["mapChallengeModeID"] = 381,
-						["level"] = 12,
-					}, -- [20]
+					}, -- [17]
 					{
 						["completed"] = true,
 						["mapChallengeModeID"] = 251,
 						["level"] = 16,
+					}, -- [18]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 376,
+						["level"] = 2,
+					}, -- [19]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 377,
+						["level"] = 5,
+					}, -- [20]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 382,
+						["level"] = 10,
 					}, -- [21]
+					{
+						["completed"] = true,
+						["mapChallengeModeID"] = 375,
+						["level"] = 12,
+						["thisWeek"] = true,
+					}, -- [22]
 				},
-				["lastUpdate"] = 1608454581,
+				["lastUpdate"] = 1608537751,
 				["WeeklyActivities"] = {
 					[25] = {
-						["progress"] = 1660,
+						["progress"] = 7250,
+						["level"] = 2,
 						["exampleRewards"] = {
-							"|cffffffff|Hitem:178414::::::::60:256::8:4:6617:40:1472:6646::::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:178414::::::::60:256::38:4:6618:40:1479:6646::::|h[]|h|r", -- [2]
+							"|cffa335ee|Hitem:178414::::::::60:256::39:4:6619:40:1485:6646::::|h[Sinful Gladiator's Shawl]|h|r", -- [1]
+							"|cffa335ee|Hitem:178414::::::::60:256::40:4:6620:40:1492:6646::::|h[Sinful Gladiator's Shawl]|h|r", -- [2]
 						},
 					},
 					[26] = {
-						["progress"] = 1660,
+						["progress"] = 7250,
+						["level"] = 2,
 						["exampleRewards"] = {
-							"", -- [1]
-							"", -- [2]
+							"|cffa335ee|Hitem:178414::::::::60:256::39:4:6619:40:1485:6646::::|h[Sinful Gladiator's Shawl]|h|r", -- [1]
+							"|cffa335ee|Hitem:178414::::::::60:256::40:4:6620:40:1492:6646::::|h[Sinful Gladiator's Shawl]|h|r", -- [2]
 						},
 					},
 					[27] = {
-						["progress"] = 1660,
+						["progress"] = 7250,
+						["level"] = 2,
 						["exampleRewards"] = {
-							"", -- [1]
-							"", -- [2]
+							"|cffa335ee|Hitem:178414::::::::60:256::39:4:6619:40:1485:6646::::|h[Sinful Gladiator's Shawl]|h|r", -- [1]
+							"|cffa335ee|Hitem:178414::::::::60:256::40:4:6620:40:1492:6646::::|h[Sinful Gladiator's Shawl]|h|r", -- [2]
 						},
 					},
 					[29] = {
 						["progress"] = 10,
 						["level"] = 15,
 						["exampleRewards"] = {
-							"|cffffffff|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[]|h|r", -- [2]
+							"|cffa335ee|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[Double-Chained Utility Belt]|h|r", -- [1]
+							"|cffa335ee|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[Double-Chained Utility Belt]|h|r", -- [2]
 						},
 					},
 					[30] = {
 						["progress"] = 10,
 						["level"] = 15,
 						["exampleRewards"] = {
-							"|cffffffff|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[]|h|r", -- [2]
+							"|cffa335ee|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[Double-Chained Utility Belt]|h|r", -- [1]
+							"|cffa335ee|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[Double-Chained Utility Belt]|h|r", -- [2]
 						},
 					},
 					[31] = {
 						["progress"] = 10,
 						["level"] = 15,
 						["exampleRewards"] = {
-							"|cffffffff|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[]|h|r", -- [2]
+							"|cffa335ee|Hitem:182976::::::::60:256::5:5:7188:6652:7193:1485:6646::::|h[Double-Chained Utility Belt]|h|r", -- [1]
+							"|cffa335ee|Hitem:182976::::::::60:256::6:5:7187:6652:7193:1498:6646::::|h[Double-Chained Utility Belt]|h|r", -- [2]
 						},
 					},
 					[21] = {
-						["progress"] = 2,
+						["progress"] = 4,
 						["level"] = 14,
 						["exampleRewards"] = {
-							"|cffffffff|Hitem:179349::::::::60:256::35:4:7213:1501:5884:6646::::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:179349::::::::60:256::35:4:7214:1501:5884:6646::::|h[]|h|r", -- [2]
+							"|cffa335ee|Hitem:179349::::::::60:256::35:4:7213:1501:5884:6646::::|h[Dealer Xy'exa's Cape]|h|r", -- [1]
+							"|cffa335ee|Hitem:179349::::::::60:256::35:4:7214:1501:5884:6646::::|h[Dealer Xy'exa's Cape]|h|r", -- [2]
 						},
 					},
 					[22] = {
-						["progress"] = 2,
+						["progress"] = 4,
+						["level"] = 11,
 						["exampleRewards"] = {
-							"", -- [1]
-							"", -- [2]
+							"|cffa335ee|Hitem:179349::::::::60:256::35:4:7210:1501:5878:6646::::|h[Dealer Xy'exa's Cape]|h|r", -- [1]
+							"|cffa335ee|Hitem:179349::::::::60:256::35:4:7211:1501:5881:6646::::|h[Dealer Xy'exa's Cape]|h|r", -- [2]
 						},
 					},
 					[23] = {
-						["progress"] = 2,
+						["progress"] = 4,
 						["exampleRewards"] = {
 							"", -- [1]
 							"", -- [2]
@@ -193,7 +203,7 @@ DataStore_KeystonesDB = {
 					},
 				},
 				["highestKeystoneThisWeek"] = {
-					["completionMilliseconds"] = 4511000,
+					["completionMilliseconds"] = 3578000,
 					["backgroundTexture"] = 0,
 					["name"] = "Theater of Pain",
 					["level"] = 14,

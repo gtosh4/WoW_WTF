@@ -176,7 +176,18 @@ Broker_Everything_AceDB = {
 			["Guild"] = {
 				["enabled"] = false,
 			},
-			["Volume"] = {
+			["Bags"] = {
+				["enabled"] = false,
+			},
+			["GPS"] = {
+				["enabled"] = false,
+			},
+			["System"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -184,7 +195,7 @@ Broker_Everything_AceDB = {
 			["Friends"] = {
 				["enabled"] = false,
 			},
-			["ClassSpecs"] = {
+			["Difficulty"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
@@ -195,33 +206,22 @@ Broker_Everything_AceDB = {
 			},
 			["Clock"] = {
 				["enabled"] = true,
-				["ClickOpt:hoursmode"] = "__NONE",
-				["minimap"] = {
-					["hide"] = true,
-				},
 				["ClickOpt:calendar"] = "_RIGHT",
+				["ClickOpt:hoursmode"] = "__NONE",
 				["ClickOpt:time"] = "__NONE",
-			},
-			["GPS"] = {
-				["enabled"] = false,
-			},
-			["System"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
-			},
-			["Bags"] = {
-				["enabled"] = false,
 			},
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Equipment"] = {
+			["Volume"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
 			},
-			["Difficulty"] = {
+			["ClassSpecs"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,

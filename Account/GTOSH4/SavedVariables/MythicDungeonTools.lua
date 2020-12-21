@@ -138,12 +138,19 @@ MythicDungeonToolsDB = {
 					[330810] = true,
 					[332550] = true,
 				},
-				[169893] = {
-					[333294] = true,
-					[333297] = true,
-					[330875] = true,
-					[333299] = true,
+				[162329] = {
+					[339415] = true,
+					[320789] = true,
+					[317231] = true,
+					[316995] = true,
+					[320644] = true,
 					[132951] = true,
+					[318102] = true,
+					[316981] = true,
+					[331618] = true,
+					[320114] = true,
+					[320729] = true,
+					[320050] = true,
 				},
 				[165946] = {
 					[339573] = true,
@@ -160,11 +167,12 @@ MythicDungeonToolsDB = {
 					[332708] = true,
 					[342135] = true,
 				},
-				[162763] = {
-					[331243] = true,
-					[331223] = true,
-					[331224] = true,
-					[331237] = true,
+				[169893] = {
+					[333294] = true,
+					[330875] = true,
+					[132951] = true,
+					[333299] = true,
+					[333297] = true,
 				},
 				[164464] = {
 					[333523] = true,
@@ -184,17 +192,17 @@ MythicDungeonToolsDB = {
 				},
 				[164451] = {
 					[320063] = true,
-					[326892] = true,
 					[324085] = true,
-					[320069] = true,
 					[132951] = true,
+					[320069] = true,
+					[326892] = true,
 				},
 				[164510] = {
 					[327029] = true,
-					[319997] = true,
 					[330532] = true,
-					[224729] = true,
 					[132951] = true,
+					[224729] = true,
+					[319997] = true,
 				},
 				[170690] = {
 					[330697] = true,
@@ -265,19 +273,11 @@ MythicDungeonToolsDB = {
 					[333861] = true,
 					[331275] = true,
 				},
-				[162329] = {
-					[339415] = true,
-					[320789] = true,
-					[317231] = true,
-					[316995] = true,
-					[320644] = true,
-					[132951] = true,
-					[318102] = true,
-					[316981] = true,
-					[331618] = true,
-					[320114] = true,
-					[320729] = true,
-					[320050] = true,
+				[162763] = {
+					[331243] = true,
+					[331223] = true,
+					[331224] = true,
+					[331237] = true,
 				},
 				[167998] = {
 					[330725] = true,
@@ -320,12 +320,12 @@ MythicDungeonToolsDB = {
 					},
 					[331718] = {
 					},
-					[132951] = true,
 					[240443] = {
 					},
-					[224729] = true,
 					[324736] = {
 					},
+					[224729] = true,
+					[132951] = true,
 				},
 				[164926] = {
 					[324922] = {
@@ -708,13 +708,13 @@ MythicDungeonToolsDB = {
 				[168992] = {
 					[328729] = {
 					},
-					[132951] = true,
 					[240443] = {
-					},
-					[328707] = {
 					},
 					[328740] = {
 					},
+					[328707] = {
+					},
+					[132951] = true,
 				},
 				[168934] = {
 					[333790] = {
@@ -816,12 +816,12 @@ MythicDungeonToolsDB = {
 					[132951] = true,
 				},
 				[167965] = {
-					[331379] = {
-					},
 					[132951] = true,
+					[332084] = {
+					},
 					[240443] = {
 					},
-					[332084] = {
+					[331379] = {
 					},
 				},
 				[167964] = {
@@ -837,15 +837,15 @@ MythicDungeonToolsDB = {
 				[167963] = {
 					[332157] = {
 					},
-					[132951] = true,
-					[332196] = {
-					},
 					[240443] = {
 					},
-					[332158] = {
+					[332196] = {
 					},
 					[332156] = {
 					},
+					[332158] = {
+					},
+					[132951] = true,
 				},
 				[168986] = {
 					[132951] = true,
@@ -856,11 +856,11 @@ MythicDungeonToolsDB = {
 				},
 				[171342] = {
 					[334530] = true,
-					[334529] = true,
 					[240443] = {
 					},
-					[224729] = true,
 					[132951] = true,
+					[224729] = true,
+					[334529] = true,
 				},
 				[167967] = {
 					[332232] = {
@@ -884,16 +884,16 @@ MythicDungeonToolsDB = {
 				[164873] = {
 					[323123] = {
 					},
-					[132951] = true,
+					[240443] = {
+					},
 					[323136] = {
 					},
 					[323576] = {
 					},
-					[240443] = {
-					},
-					[224729] = true,
 					[345498] = {
 					},
+					[224729] = true,
+					[132951] = true,
 				},
 				[170490] = {
 					[332706] = {
@@ -911,13 +911,13 @@ MythicDungeonToolsDB = {
 				[169905] = {
 					[333641] = {
 					},
-					[132951] = true,
 					[240443] = {
-					},
-					[333250] = {
 					},
 					[333227] = {
 					},
+					[333250] = {
+					},
+					[132951] = true,
 				},
 				[170480] = {
 					[1604] = true,
@@ -1021,10 +1021,10 @@ MythicDungeonToolsDB = {
 					[132951] = true,
 				},
 				[168396] = {
-					[327233] = true,
 					[132951] = true,
-					[327594] = true,
 					[327581] = true,
+					[327594] = true,
+					[327233] = true,
 				},
 				[169861] = {
 					[330786] = true,
@@ -1144,9 +1144,9 @@ MythicDungeonToolsDB = {
 					[321975] = true,
 					[340357] = true,
 					[340356] = true,
-					[321999] = true,
 					[346989] = true,
 					[132951] = true,
+					[321999] = true,
 					[326868] = true,
 				},
 				[163894] = {
@@ -1260,10 +1260,10 @@ MythicDungeonToolsDB = {
 					[288865] = true,
 				},
 				[162041] = {
-					[334470] = true,
-					[132951] = true,
 					[316068] = true,
+					[132951] = true,
 					[224729] = true,
+					[334470] = true,
 				},
 				[171376] = {
 					[334329] = true,
@@ -1293,18 +1293,12 @@ MythicDungeonToolsDB = {
 					[322433] = true,
 					[132951] = true,
 				},
-				[162100] = {
-					[319713] = true,
-					[319657] = true,
-					[338471] = true,
-					[319650] = true,
-					[319654] = true,
+				[165076] = {
+					[321401] = true,
+					[320843] = true,
+					[334653] = true,
 					[132951] = true,
-					[319655] = true,
-					[319715] = true,
-					[319685] = true,
-					[330468] = true,
-					[319687] = true,
+					[321402] = true,
 				},
 				[171799] = {
 					[335305] = true,
@@ -1312,12 +1306,11 @@ MythicDungeonToolsDB = {
 					[335308] = true,
 					[132951] = true,
 				},
-				[165076] = {
-					[321401] = true,
-					[320843] = true,
-					[334653] = true,
+				[162038] = {
+					[321019] = true,
+					[321020] = true,
+					[320991] = true,
 					[132951] = true,
-					[321402] = true,
 				},
 				[162103] = {
 					[322567] = true,
@@ -1340,11 +1333,18 @@ MythicDungeonToolsDB = {
 					[132951] = true,
 					[326718] = true,
 				},
-				[162038] = {
-					[321019] = true,
-					[321020] = true,
-					[320991] = true,
+				[162100] = {
+					[319713] = true,
+					[319657] = true,
+					[338471] = true,
+					[319650] = true,
+					[319654] = true,
 					[132951] = true,
+					[319655] = true,
+					[319715] = true,
+					[319685] = true,
+					[330468] = true,
+					[319687] = true,
 				},
 				[171455] = {
 					[132951] = true,
@@ -1435,13 +1435,13 @@ MythicDungeonToolsDB = {
 					[324427] = true,
 					[324046] = true,
 					[132951] = true,
-					[323372] = true,
+					[324392] = true,
 					[338731] = true,
 					[323195] = true,
 					[324444] = true,
 					[323878] = true,
-					[324392] = true,
 					[331997] = true,
+					[323372] = true,
 					[324608] = true,
 				},
 				[163459] = {
@@ -1587,10 +1587,10 @@ MythicDungeonToolsDB = {
 					[224729] = true,
 				},
 				[162729] = {
-					[317898] = true,
 					[338022] = {
 					},
 					[224729] = true,
+					[317898] = true,
 				},
 				[166302] = {
 					[334747] = {
@@ -1614,11 +1614,11 @@ MythicDungeonToolsDB = {
 					},
 				},
 				[164578] = {
-					[334322] = {
+					[322548] = {
 					},
 					[320376] = {
 					},
-					[322548] = {
+					[327952] = {
 					},
 					[348170] = {
 					},
@@ -1626,7 +1626,7 @@ MythicDungeonToolsDB = {
 					},
 					[322681] = {
 					},
-					[327952] = {
+					[334322] = {
 					},
 				},
 				[163121] = {
@@ -1686,20 +1686,34 @@ MythicDungeonToolsDB = {
 					},
 					[224729] = true,
 				},
-				[172981] = {
-					[338357] = {
+				[165138] = {
+					[335164] = {
 					},
-					[338456] = {
+					[321821] = {
 					},
+					[338022] = {
+					},
+					[224729] = true,
 				},
 				[163122] = {
 					[321576] = {
 					},
 				},
-				[163622] = {
-					[338022] = {
+				[163157] = {
+					[321247] = true,
+					[320171] = {
 					},
-					[201657] = true,
+					[320580] = {
+					},
+					[333634] = true,
+					[333488] = true,
+					[333492] = true,
+					[321226] = {
+					},
+					[333489] = true,
+					[320012] = {
+					},
+					[319902] = true,
 				},
 				[162693] = {
 					[321370] = true,
@@ -1727,24 +1741,21 @@ MythicDungeonToolsDB = {
 					[328687] = {
 					},
 				},
-				[165138] = {
-					[335164] = {
-					},
-					[321821] = {
-					},
-					[338022] = {
+				[163619] = {
+					[321807] = {
 					},
 					[224729] = true,
+					[317898] = true,
 				},
 				[163623] = {
 					[338022] = {
 					},
 				},
-				[163619] = {
-					[317898] = true,
-					[321807] = {
+				[172981] = {
+					[338357] = {
 					},
-					[224729] = true,
+					[338456] = {
+					},
 				},
 				[173016] = {
 					[334747] = {
@@ -1822,18 +1833,10 @@ MythicDungeonToolsDB = {
 					},
 					[201657] = true,
 				},
-				[163126] = {
-					[322493] = {
+				[163622] = {
+					[338022] = {
 					},
-					[328664] = {
-					},
-					[320336] = {
-					},
-					[328667] = {
-					},
-					[321576] = {
-					},
-					[333602] = true,
+					[201657] = true,
 				},
 				[167731] = {
 					[323489] = {
@@ -1849,30 +1852,27 @@ MythicDungeonToolsDB = {
 					[323496] = {
 					},
 				},
-				[163157] = {
-					[321247] = true,
-					[320171] = {
+				[163126] = {
+					[322493] = {
 					},
-					[320580] = {
+					[328664] = {
 					},
-					[333634] = true,
-					[333488] = true,
-					[333492] = true,
-					[321226] = {
+					[320336] = {
 					},
-					[333489] = true,
-					[320012] = {
+					[328667] = {
 					},
-					[319902] = true,
+					[321576] = {
+					},
+					[333602] = true,
 				},
 				[163620] = {
-					[333485] = {
-					},
 					[333482] = {
+					},
+					[333479] = {
 					},
 					[338456] = {
 					},
-					[333479] = {
+					[333485] = {
 					},
 				},
 			},
@@ -1983,10 +1983,10 @@ MythicDungeonToolsDB = {
 				},
 				[174175] = {
 					[346866] = true,
-					[342021] = true,
-					[132951] = true,
 					[201657] = true,
+					[132951] = true,
 					[342189] = true,
+					[342021] = true,
 				},
 				[167607] = {
 					[326771] = true,
@@ -2640,53 +2640,45 @@ MythicDungeonToolsDB = {
 							{
 							}, -- [5]
 							{
-								[161241] = {
-									["y"] = -173.3390333296969,
-									["x"] = 379.8028701555415,
-								},
 								[161244] = {
 									["y"] = -446.3130582857734,
 									["x"] = 479.4540734078425,
-								},
-								[161243] = {
-									["y"] = -394.7626761339055,
-									["x"] = 344.5032429966144,
 								},
 								[161124] = {
 									["y"] = -264.3645663715624,
 									["x"] = 257.135530072021,
 								},
+								[161243] = {
+									["y"] = -394.7626761339055,
+									["x"] = 344.5032429966144,
+								},
+								[161241] = {
+									["y"] = -173.3390333296969,
+									["x"] = 379.8028701555415,
+								},
 							}, -- [6]
 							{
-								[161241] = {
-									["y"] = -445.165292043765,
-									["x"] = 472.1506330106157,
-								},
 								[161244] = {
 									["y"] = -218.6735045588914,
 									["x"] = 395.4156550087087,
-								},
-								[161243] = {
-									["y"] = -384.0254395195312,
-									["x"] = 318.0613180540669,
 								},
 								[161124] = {
 									["y"] = -192.797761639278,
 									["x"] = 256.4185802769031,
 								},
+								[161243] = {
+									["y"] = -384.0254395195312,
+									["x"] = 318.0613180540669,
+								},
+								[161241] = {
+									["y"] = -445.165292043765,
+									["x"] = 472.1506330106157,
+								},
 							}, -- [7]
 							{
-								[161124] = {
-									["y"] = -227.5697705126087,
-									["x"] = 363.85259875102,
-								},
 								[161244] = {
 									["y"] = -177.8099220740163,
 									["x"] = 374.6657421478679,
-								},
-								[161243] = {
-									["y"] = -386.0828554905117,
-									["x"] = 332.0124375632777,
 								},
 								[161241] = {
 									["sublevel"] = 2,
@@ -2700,6 +2692,14 @@ MythicDungeonToolsDB = {
 									},
 									["y"] = -257.1568694154927,
 									["homeSublevel"] = 1,
+								},
+								[161243] = {
+									["y"] = -386.0828554905117,
+									["x"] = 332.0124375632777,
+								},
+								[161124] = {
+									["y"] = -227.5697705126087,
+									["x"] = 363.85259875102,
 								},
 							}, -- [8]
 						},
@@ -2756,14 +2756,14 @@ MythicDungeonToolsDB = {
 				[170882] = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
-					["Root"] = true,
-					["Control Undead"] = true,
 					["Stun"] = true,
-					["Slow"] = true,
+					["Control Undead"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Root"] = true,
 					["Disorient"] = true,
 				},
-				[162329] = {
+				[169893] = {
 					["Taunt"] = true,
 				},
 				[169875] = {
@@ -2785,7 +2785,7 @@ MythicDungeonToolsDB = {
 					["Root"] = true,
 					["Slow"] = true,
 				},
-				[162763] = {
+				[162329] = {
 					["Taunt"] = true,
 				},
 				[167533] = {
@@ -2851,10 +2851,10 @@ MythicDungeonToolsDB = {
 					["Polymorph"] = true,
 					["Disorient"] = true,
 					["Incapacitate"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Repentance"] = true,
 				},
 				[162309] = {
@@ -2877,16 +2877,16 @@ MythicDungeonToolsDB = {
 					["Polymorph"] = true,
 					["Disorient"] = true,
 					["Taunt"] = true,
-					["Root"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Stun"] = true,
+					["Slow"] = true,
+					["Root"] = true,
 					["Repentance"] = true,
 				},
 				[170850] = {
 					["Taunt"] = true,
 				},
-				[169893] = {
+				[162763] = {
 					["Taunt"] = true,
 				},
 				[167532] = {
@@ -2913,10 +2913,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Silence"] = true,
 					["Stun"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Silence"] = true,
 					["Fear"] = true,
 				},
 				[164926] = {
@@ -2926,10 +2926,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Disorient"] = true,
 					["Polymorph"] = true,
-					["Silence"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Stun"] = true,
+					["Slow"] = true,
+					["Silence"] = true,
 					["Fear"] = true,
 				},
 				[166275] = {
@@ -3002,10 +3002,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[164921] = {
@@ -3096,22 +3096,14 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Disorient"] = true,
 					["Polymorph"] = true,
-					["Stun"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Repentance"] = true,
 				},
-				[165911] = {
+				[164578] = {
 					["Taunt"] = true,
-					["Incapacitate"] = true,
-					["Shackle Undead"] = true,
-					["Root"] = true,
-					["Control Undead"] = true,
-					["Disorient"] = true,
-					["Silence"] = true,
-					["Slow"] = true,
-					["Stun"] = true,
 				},
 				[166302] = {
 					["Taunt"] = true,
@@ -3138,9 +3130,6 @@ MythicDungeonToolsDB = {
 					["Mind Control"] = true,
 					["Imprison"] = true,
 				},
-				[164578] = {
-					["Taunt"] = true,
-				},
 				[163121] = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
@@ -3153,6 +3142,17 @@ MythicDungeonToolsDB = {
 					["Silence"] = true,
 					["Repentance"] = true,
 				},
+				[165911] = {
+					["Taunt"] = true,
+					["Incapacitate"] = true,
+					["Shackle Undead"] = true,
+					["Root"] = true,
+					["Control Undead"] = true,
+					["Disorient"] = true,
+					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
+				},
 				[162691] = {
 					["Taunt"] = true,
 				},
@@ -3162,11 +3162,11 @@ MythicDungeonToolsDB = {
 				[166264] = {
 					["Taunt"] = true,
 					["Disorient"] = true,
-					["Root"] = true,
 					["Stun"] = true,
+					["Silence"] = true,
 					["Slow"] = true,
 					["Incapacitate"] = true,
-					["Silence"] = true,
+					["Root"] = true,
 				},
 				[163618] = {
 					["Taunt"] = true,
@@ -3179,13 +3179,15 @@ MythicDungeonToolsDB = {
 					["Silence"] = true,
 					["Fear"] = true,
 				},
-				[163622] = {
+				[163126] = {
 					["Taunt"] = true,
-					["Disorient"] = true,
+					["Incapacitate"] = true,
+					["Shackle Undead"] = true,
+					["Root"] = true,
 					["Control Undead"] = true,
+					["Disorient"] = true,
 					["Silence"] = true,
 					["Slow"] = true,
-					["Root"] = true,
 					["Stun"] = true,
 				},
 				[165222] = {
@@ -3200,8 +3202,12 @@ MythicDungeonToolsDB = {
 					["Stun"] = true,
 					["Repentance"] = true,
 				},
-				[172981] = {
+				[165138] = {
 					["Taunt"] = true,
+					["Disorient"] = true,
+					["Stun"] = true,
+					["Slow"] = true,
+					["Root"] = true,
 				},
 				[163122] = {
 					["Taunt"] = true,
@@ -3211,16 +3217,8 @@ MythicDungeonToolsDB = {
 					["Root"] = true,
 					["Silence"] = true,
 				},
-				[163126] = {
+				[163157] = {
 					["Taunt"] = true,
-					["Incapacitate"] = true,
-					["Shackle Undead"] = true,
-					["Root"] = true,
-					["Control Undead"] = true,
-					["Disorient"] = true,
-					["Silence"] = true,
-					["Slow"] = true,
-					["Stun"] = true,
 				},
 				[171500] = {
 					["Stun"] = true,
@@ -3231,21 +3229,6 @@ MythicDungeonToolsDB = {
 				[166079] = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
-					["Stun"] = true,
-					["Slow"] = true,
-					["Root"] = true,
-					["Silence"] = true,
-				},
-				[165138] = {
-					["Taunt"] = true,
-					["Disorient"] = true,
-					["Stun"] = true,
-					["Slow"] = true,
-					["Root"] = true,
-				},
-				[163623] = {
-					["Taunt"] = true,
-					["Disorient"] = true,
 					["Stun"] = true,
 					["Slow"] = true,
 					["Root"] = true,
@@ -3263,16 +3246,21 @@ MythicDungeonToolsDB = {
 					["Silence"] = true,
 					["Repentance"] = true,
 				},
+				[163623] = {
+					["Taunt"] = true,
+					["Disorient"] = true,
+					["Stun"] = true,
+					["Slow"] = true,
+					["Root"] = true,
+					["Silence"] = true,
+				},
+				[172981] = {
+					["Taunt"] = true,
+				},
 				[163621] = {
 					["Taunt"] = true,
 				},
 				[162689] = {
-					["Taunt"] = true,
-				},
-				[162693] = {
-					["Taunt"] = true,
-				},
-				[165824] = {
 					["Taunt"] = true,
 				},
 				[173016] = {
@@ -3289,8 +3277,20 @@ MythicDungeonToolsDB = {
 					["Imprison"] = true,
 					["Repentance"] = true,
 				},
-				[163157] = {
+				[162693] = {
 					["Taunt"] = true,
+				},
+				[165824] = {
+					["Taunt"] = true,
+				},
+				[163622] = {
+					["Taunt"] = true,
+					["Disorient"] = true,
+					["Control Undead"] = true,
+					["Silence"] = true,
+					["Slow"] = true,
+					["Root"] = true,
+					["Stun"] = true,
 				},
 				[167731] = {
 					["Taunt"] = true,
@@ -3386,10 +3386,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[164707] = {
@@ -3435,10 +3435,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Silence"] = true,
 					["Stun"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Silence"] = true,
 					["Fear"] = true,
 				},
 				[169861] = {
@@ -3465,10 +3465,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[163882] = {
@@ -3566,10 +3566,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Root"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Stun"] = true,
+					["Slow"] = true,
+					["Root"] = true,
 					["Fear"] = true,
 				},
 				[167965] = {
@@ -3596,10 +3596,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Root"] = true,
 					["Stun"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Root"] = true,
 					["Fear"] = true,
 				},
 				[170147] = {
@@ -3641,10 +3641,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[168949] = {
@@ -3661,6 +3661,16 @@ MythicDungeonToolsDB = {
 				[170572] = {
 					["Taunt"] = true,
 				},
+				[168986] = {
+					["Taunt"] = true,
+					["Disorient"] = true,
+					["Stun"] = true,
+					["Control Undead"] = true,
+					["Silence"] = true,
+					["Slow"] = true,
+					["Root"] = true,
+					["Incapacitate"] = true,
+				},
 				[171342] = {
 					["Taunt"] = true,
 					["Disorient"] = true,
@@ -3670,6 +3680,9 @@ MythicDungeonToolsDB = {
 					["Root"] = true,
 					["Fear"] = true,
 				},
+				[168934] = {
+					["Taunt"] = true,
+				},
 				[167963] = {
 					["Taunt"] = true,
 					["Stun"] = true,
@@ -3677,27 +3690,14 @@ MythicDungeonToolsDB = {
 					["Root"] = true,
 					["Silence"] = true,
 				},
-				[168934] = {
-					["Taunt"] = true,
-				},
-				[168986] = {
-					["Taunt"] = true,
-					["Disorient"] = true,
-					["Root"] = true,
-					["Control Undead"] = true,
-					["Stun"] = true,
-					["Slow"] = true,
-					["Silence"] = true,
-					["Incapacitate"] = true,
-				},
 				[167967] = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Root"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Stun"] = true,
+					["Slow"] = true,
+					["Root"] = true,
 					["Fear"] = true,
 				},
 				[164555] = {
@@ -3752,20 +3752,20 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[166411] = {
 					["Polymorph"] = true,
 					["Taunt"] = true,
 					["Sap"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[163501] = {
@@ -3831,20 +3831,20 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[168418] = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[163520] = {
@@ -3964,10 +3964,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Disorient"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[167610] = {
@@ -4043,10 +4043,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Disorient"] = true,
 					["Polymorph"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[162040] = {
@@ -4070,10 +4070,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Disorient"] = true,
 					["Fear"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Imprison"] = true,
 				},
 				[172265] = {
@@ -4113,10 +4113,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Incapacitate"] = true,
 					["Fear"] = true,
-					["Stun"] = true,
 					["Root"] = true,
-					["Slow"] = true,
 					["Silence"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Imprison"] = true,
 				},
 				[162057] = {
@@ -4164,10 +4164,10 @@ MythicDungeonToolsDB = {
 					["Taunt"] = true,
 					["Disorient"] = true,
 					["Incapacitate"] = true,
-					["Stun"] = true,
 					["Silence"] = true,
-					["Slow"] = true,
 					["Root"] = true,
+					["Slow"] = true,
+					["Stun"] = true,
 					["Fear"] = true,
 				},
 				[171455] = {

@@ -40,6 +40,9 @@ END
 VER 3 0000000000000036 "pi test" "INV_MISC_QUESTIONMARK"
 /script WeakAuras.ScanEvents("TOSH_WA_PI_ASK")
 END
+VER 3 0000000000000038 "pod" "INV_MISC_QUESTIONMARK"
+/tar wildseed
+END
 VER 3 0000000000000028 "POT" "132847"
 #showtooltip Healthstone
 /stopcasting

@@ -17,28 +17,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2020/11/28 00:01",
 			},
 			["Default.Area 52.Toshpriest"] = {
-				["lastUpdate"] = 1608440694,
-				["lastVisitDate"] = "2020/12/20 00:04",
-				["MailCache"] = {
-					{
-						["sender"] = "Auctioneer",
-						["subject"] = "Auctions",
-						["icon"] = "Interface\\Icons\\INV_Misc_Note_01",
-						["money"] = 0,
-						["text"] = "",
-						["lastCheck"] = 1608446014,
-						["daysLeft"] = 30,
-					}, -- [1]
-					{
-						["sender"] = "Auctioneer",
-						["subject"] = "Auctions",
-						["icon"] = "Interface\\Icons\\INV_Misc_Note_01",
-						["money"] = 0,
-						["text"] = "",
-						["lastCheck"] = 1608446014,
-						["daysLeft"] = 30,
-					}, -- [2]
-				},
+				["lastUpdate"] = 1608512364,
+				["lastVisitDate"] = "2020/12/20 19:59",
 			},
 		},
 	},

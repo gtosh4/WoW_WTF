@@ -55,6 +55,7 @@ VER 3 0100000000000016 "shdw" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Shadowfiend
 /cast [spec:1,talent:7/2] Spirit Shell
+/cast Sinful Gladiator's Badge of Ferocity
 END
 VER 3 0100000000000013 "silence/heal" "INV_MISC_QUESTIONMARK"
 #showtooltip

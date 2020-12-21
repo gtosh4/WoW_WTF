@@ -9,40 +9,69 @@ DataStore_CovenantsDB = {
 			["Default.Area 52.Toshpriest"] = {
 				["CovenantID"] = 2,
 				["Torghast"] = {
-					["skoldushall"] = {
-						["nextReset"] = 1608044399,
-						["name"] = "Skoldus Hall",
+					["fracturechambers"] = {
+						["nextReset"] = 1608649199,
+						["name"] = "Fracture Chambers",
 						["levels"] = {
 							{
-								["status"] = 3,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
 							}, -- [1]
 							{
-								["status"] = 3,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
 							}, -- [2]
 							{
-								["status"] = 3,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
 							}, -- [3]
 							{
-								["status"] = 3,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
 							}, -- [4]
 							{
-								["status"] = 3,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
 							}, -- [5]
 							{
 								["rewards"] = {
 									{
 										["id"] = 1828,
-										["quantity"] = 50,
+										["quantity"] = 485,
 										["rewardType"] = 1,
 									}, -- [1]
 								},
 							}, -- [6]
 							{
-								["status"] = 2,
 								["rewards"] = {
 									{
 										["id"] = 1828,
-										["quantity"] = 95,
+										["quantity"] = 530,
 										["rewardType"] = 1,
 									}, -- [1]
 								},
@@ -52,7 +81,7 @@ DataStore_CovenantsDB = {
 								["rewards"] = {
 									{
 										["id"] = 1828,
-										["quantity"] = 135,
+										["quantity"] = 570,
 										["rewardType"] = 1,
 									}, -- [1]
 								},
@@ -119,85 +148,6 @@ DataStore_CovenantsDB = {
 							}, -- [6]
 							{
 								["status"] = 2,
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 530,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [7]
-							{
-								["status"] = 2,
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 570,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [8]
-						},
-					},
-					["fracturechambers"] = {
-						["nextReset"] = 1608649199,
-						["name"] = "Fracture Chambers",
-						["levels"] = {
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 120,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [1]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 220,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [2]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 305,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [3]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 375,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [4]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 435,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [5]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 485,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [6]
-							{
 								["rewards"] = {
 									{
 										["id"] = 1828,
@@ -296,26 +246,73 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
+					["skoldushall"] = {
+						["nextReset"] = 1608044399,
+						["name"] = "Skoldus Hall",
+						["levels"] = {
+							{
+								["status"] = 3,
+							}, -- [1]
+							{
+								["status"] = 3,
+							}, -- [2]
+							{
+								["status"] = 3,
+							}, -- [3]
+							{
+								["status"] = 3,
+							}, -- [4]
+							{
+								["status"] = 3,
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 50,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 95,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 135,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
 				},
-				["lastUpdate"] = 1608454576,
+				["lastUpdate"] = 1608537727,
 				["ConduitReinforceProgress"] = 5,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.4300369024276733,
 					["x"] = 0.2887356877326965,
 				},
 				["InstalledConduits"] = {
-					[1556] = 72,
+					[1395] = 77,
 					[1396] = 66,
 					[1547] = 82,
 					[1397] = 69,
-					[1395] = 77,
+					[1556] = 72,
 				},
-				["TalentUnlockWorldQuest"] = {
-					[1257] = 60601,
-				},
-				["ActiveSoulbindID"] = 8,
+				["ActiveSoulbindID"] = 9,
 				["AnimaCurrency"] = {
-					["count"] = 2498,
+					["count"] = 3490,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
@@ -365,11 +362,11 @@ DataStore_CovenantsDB = {
 					[76] = {
 						["conduitID"] = 76,
 						["conduitType"] = 1,
-						["conduitItemLevel"] = 184,
+						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181844,
 						["conduitSpecSetID"] = 31,
 						["conduitSpecName"] = "Discipline",
-						["conduitRank"] = 4,
+						["conduitRank"] = 5,
 					},
 					[78] = {
 						["conduitID"] = 78,
@@ -432,11 +429,11 @@ DataStore_CovenantsDB = {
 					},
 					[71] = {
 						["conduitID"] = 71,
-						["conduitItemLevel"] = 200,
+						["conduitItemLevel"] = 213,
 						["conduitType"] = 2,
 						["conduitSpecSetID"] = 166,
 						["conduitItemID"] = 181838,
-						["conduitRank"] = 5,
+						["conduitRank"] = 6,
 					},
 					[73] = {
 						["conduitID"] = 73,
@@ -502,7 +499,7 @@ DataStore_CovenantsDB = {
 								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 4,
+						["state"] = 1,
 						["talentID"] = 1258,
 						["description"] = "Channel Anima to Pridefall Hamlet, unlocking new Daily Quests.",
 						["normalizedPosition"] = {
@@ -548,7 +545,7 @@ DataStore_CovenantsDB = {
 								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 2,
+						["state"] = 1,
 						["talentID"] = 1257,
 						["description"] = "Channel Anima to the Court of the Harvesters, unlocking a new World Quest.",
 						["normalizedPosition"] = {
@@ -564,7 +561,7 @@ DataStore_CovenantsDB = {
 								["quantity"] = 25,
 							}, -- [1]
 						},
-						["state"] = 2,
+						["state"] = 1,
 						["talentID"] = 1256,
 						["description"] = "Channel Anima to Wanecrypt Hill, allowing you to fight an enemy champion.",
 						["normalizedPosition"] = {
@@ -589,6 +586,28 @@ DataStore_CovenantsDB = {
 						},
 						["name"] = "Crypt of the Forgotten",
 					}, -- [6]
+				},
+				["CovenantFeatures"] = {
+					{
+						["garrTalentTreeID"] = 309,
+						["featureType"] = 2,
+					}, -- [1]
+					{
+						["garrTalentTreeID"] = 314,
+						["featureType"] = 1,
+					}, -- [2]
+					{
+						["garrTalentTreeID"] = 317,
+						["featureType"] = 3,
+					}, -- [3]
+					{
+						["garrTalentTreeID"] = 324,
+						["featureType"] = 5,
+					}, -- [4]
+					{
+						["garrTalentTreeID"] = 326,
+						["featureType"] = 4,
+					}, -- [5]
 				},
 				["TalentTreeTalents"] = {
 					[326] = {
@@ -1409,28 +1428,6 @@ DataStore_CovenantsDB = {
 				},
 				["SoulCurrenciesTotals"] = {
 					[1810] = 3,
-				},
-				["CovenantFeatures"] = {
-					{
-						["garrTalentTreeID"] = 309,
-						["featureType"] = 2,
-					}, -- [1]
-					{
-						["garrTalentTreeID"] = 314,
-						["featureType"] = 1,
-					}, -- [2]
-					{
-						["garrTalentTreeID"] = 317,
-						["featureType"] = 3,
-					}, -- [3]
-					{
-						["garrTalentTreeID"] = 324,
-						["featureType"] = 5,
-					}, -- [4]
-					{
-						["garrTalentTreeID"] = 326,
-						["featureType"] = 4,
-					}, -- [5]
 				},
 			},
 			["Default.Area 52.Toshdruid"] = {

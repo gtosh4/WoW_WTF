@@ -235,6 +235,8 @@ BetterWardrobe_SavedSetData = {
 		},
 	},
 	["profiles"] = {
+		["Toshpriest - Area 52"] = {
+		},
 		["Toshpal - Area 52"] = {
 		},
 	},
