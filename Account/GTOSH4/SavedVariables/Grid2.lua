@@ -1,7 +1,7 @@
 
 Grid2DB = {
 	["namespaces"] = {
-		["Grid2AoeHeals"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["ToshUnitFramesOptions"] = {
 		},
@@ -9,18 +9,18 @@ Grid2DB = {
 			["profiles"] = {
 				["Default"] = {
 					["BorderB"] = 0.5019607843137255,
-					["BackgroundR"] = 0.1019607843137255,
+					["BackgroundB"] = 0.1019607843137255,
 					["FrameLock"] = true,
 					["BorderA"] = 0,
 					["BorderR"] = 0.5019607843137255,
-					["Spacing"] = 2,
+					["PosX"] = 0.003066406181460479,
 					["anchor"] = "TOP",
 					["BackgroundG"] = 0.1019607843137255,
 					["minimapIcon"] = {
 						["hide"] = true,
 					},
 					["PosY"] = -570.8796552085951,
-					["BackgroundB"] = 0.1019607843137255,
+					["BackgroundR"] = 0.1019607843137255,
 					["BackgroundA"] = 1,
 					["BorderG"] = 0.5019607843137255,
 					["extraThemes"] = {
@@ -42,7 +42,7 @@ Grid2DB = {
 							["anchor"] = "TOP",
 							["BackgroundG"] = 0.1019607843137255,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -309.2721415247288,
+							["PosY"] = -309.270657149762,
 							["Spacing"] = 4,
 							["clamp"] = true,
 							["BackgroundA"] = 1,
@@ -51,7 +51,7 @@ Grid2DB = {
 							["FrameDisplay"] = "Always",
 							["horizontal"] = false,
 							["BackgroundR"] = 0.1019607843137255,
-							["PosX"] = -250.6570256473788,
+							["PosX"] = -250.6565813114512,
 						}, -- [1]
 						{
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
@@ -80,123 +80,16 @@ Grid2DB = {
 							["FrameDisplay"] = "Always",
 							["horizontal"] = true,
 							["BackgroundB"] = 0.1019607843137255,
-							["PosX"] = 0.005600585812317149,
+							["PosX"] = 0.00575683580882469,
 						}, -- [2]
 					},
-					["PosX"] = 0.003066406181460479,
+					["Spacing"] = 2,
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["Grid2AoeHeals"] = {
 		},
 		["Grid2Options"] = {
-		},
-		["Grid2Frame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["extraThemes"] = {
-						{
-							["frameColor"] = {
-								["a"] = 1,
-								["r"] = 0,
-								["g"] = 0,
-								["b"] = 0,
-							},
-							["fontSize"] = 11,
-							["frameBorder"] = 2,
-							["iconSize"] = 14,
-							["mouseoverTexture"] = "Blizzard Tooltip",
-							["fontFlags"] = "OUTLINE",
-							["frameHeight"] = 48,
-							["shadowDisabled"] = true,
-							["barTexture"] = "Smooth v2",
-							["frameBorderTexture"] = "Grid2 Flat",
-							["frameWidths"] = {
-							},
-							["frameBorderDistance"] = 1,
-							["mouseoverColor"] = {
-								["a"] = 0.800000011920929,
-								["r"] = 1,
-								["g"] = 1,
-								["b"] = 1,
-							},
-							["frameContentColor"] = {
-								["a"] = 1,
-								["r"] = 0.1019607843137255,
-								["g"] = 0.1019607843137255,
-								["b"] = 0.1019607843137255,
-							},
-							["mouseoverHighlight"] = false,
-							["frameHeights"] = {
-							},
-							["orientation"] = "HORIZONTAL",
-							["frameWidth"] = 160,
-							["frameTexture"] = "Smooth v2",
-						}, -- [1]
-						{
-							["frameColor"] = {
-								["a"] = 1,
-								["r"] = 0,
-								["g"] = 0,
-								["b"] = 0,
-							},
-							["fontSize"] = 11,
-							["frameBorder"] = 2,
-							["iconSize"] = 14,
-							["mouseoverTexture"] = "Blizzard Tooltip",
-							["fontFlags"] = "OUTLINE",
-							["mouseoverColor"] = {
-								["a"] = 0.800000011920929,
-								["r"] = 1,
-								["g"] = 1,
-								["b"] = 1,
-							},
-							["frameHeight"] = 38,
-							["frameBorderColor"] = {
-								["a"] = 0,
-								["r"] = 0,
-								["g"] = 0,
-								["b"] = 0,
-							},
-							["shadowDisabled"] = true,
-							["barTexture"] = "Smooth v2",
-							["frameTexture"] = "Smooth v2",
-							["frameWidths"] = {
-							},
-							["mouseoverHighlight"] = false,
-							["frameContentColor"] = {
-								["a"] = 1,
-								["r"] = 0.1019607843137255,
-								["g"] = 0.1019607843137255,
-								["b"] = 0.1019607843137255,
-							},
-							["menuDisabled"] = true,
-							["frameHeights"] = {
-							},
-							["orientation"] = "HORIZONTAL",
-							["frameBorderDistance"] = 1,
-							["frameWidth"] = 76,
-							["frameBorderTexture"] = "Grid2 Flat",
-						}, -- [2]
-					},
-					["mouseoverTexture"] = "Blizzard Tooltip",
-					["fontFlags"] = "OUTLINE",
-					["shadowDisabled"] = true,
-					["barTexture"] = "Smooth v2",
-					["frameTexture"] = "Smooth v2",
-					["menuDisabled"] = true,
-					["frameContentColor"] = {
-						["b"] = 0.1019607843137255,
-						["g"] = 0.1019607843137255,
-						["r"] = 0.1019607843137255,
-					},
-					["mouseoverColor"] = {
-						["a"] = 0.800000011920929,
-					},
-					["frameWidth"] = 76,
-					["orientation"] = "HORIZONTAL",
-				},
-			},
 		},
 		["Grid2RaidDebuffs"] = {
 			["profiles"] = {
@@ -237,6 +130,113 @@ Grid2DB = {
 						["Shadowlands"] = true,
 					},
 					["lastSelectedInstance"] = 1190,
+				},
+			},
+		},
+		["Grid2Frame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["extraThemes"] = {
+						{
+							["frameColor"] = {
+								["a"] = 1,
+								["r"] = 0,
+								["g"] = 0,
+								["b"] = 0,
+							},
+							["fontSize"] = 11,
+							["frameBorder"] = 2,
+							["iconSize"] = 14,
+							["mouseoverTexture"] = "Blizzard Tooltip",
+							["fontFlags"] = "OUTLINE",
+							["frameHeight"] = 48,
+							["shadowDisabled"] = true,
+							["barTexture"] = "Smooth v2",
+							["frameBorderTexture"] = "Grid2 Flat",
+							["frameWidths"] = {
+							},
+							["frameBorderDistance"] = 1,
+							["mouseoverColor"] = {
+								["a"] = 0.800000011920929,
+								["r"] = 1,
+								["g"] = 1,
+								["b"] = 1,
+							},
+							["mouseoverHighlight"] = false,
+							["frameContentColor"] = {
+								["a"] = 1,
+								["r"] = 0.1019607843137255,
+								["g"] = 0.1019607843137255,
+								["b"] = 0.1019607843137255,
+							},
+							["orientation"] = "HORIZONTAL",
+							["frameHeights"] = {
+							},
+							["frameWidth"] = 160,
+							["frameTexture"] = "Smooth v2",
+						}, -- [1]
+						{
+							["frameColor"] = {
+								["a"] = 1,
+								["r"] = 0,
+								["g"] = 0,
+								["b"] = 0,
+							},
+							["fontSize"] = 11,
+							["frameBorder"] = 2,
+							["iconSize"] = 14,
+							["mouseoverTexture"] = "Blizzard Tooltip",
+							["fontFlags"] = "OUTLINE",
+							["frameBorderColor"] = {
+								["a"] = 0,
+								["r"] = 0,
+								["g"] = 0,
+								["b"] = 0,
+							},
+							["frameHeight"] = 38,
+							["mouseoverColor"] = {
+								["a"] = 0.800000011920929,
+								["r"] = 1,
+								["g"] = 1,
+								["b"] = 1,
+							},
+							["shadowDisabled"] = true,
+							["barTexture"] = "Smooth v2",
+							["frameBorderTexture"] = "Grid2 Flat",
+							["frameWidths"] = {
+							},
+							["frameContentColor"] = {
+								["a"] = 1,
+								["r"] = 0.1019607843137255,
+								["g"] = 0.1019607843137255,
+								["b"] = 0.1019607843137255,
+							},
+							["mouseoverHighlight"] = false,
+							["menuDisabled"] = true,
+							["frameHeights"] = {
+							},
+							["orientation"] = "HORIZONTAL",
+							["frameBorderDistance"] = 1,
+							["frameWidth"] = 76,
+							["frameTexture"] = "Smooth v2",
+						}, -- [2]
+					},
+					["mouseoverTexture"] = "Blizzard Tooltip",
+					["fontFlags"] = "OUTLINE",
+					["shadowDisabled"] = true,
+					["barTexture"] = "Smooth v2",
+					["mouseoverColor"] = {
+						["a"] = 0.800000011920929,
+					},
+					["menuDisabled"] = true,
+					["frameContentColor"] = {
+						["b"] = 0.1019607843137255,
+						["g"] = 0.1019607843137255,
+						["r"] = 0.1019607843137255,
+					},
+					["frameTexture"] = "Smooth v2",
+					["frameWidth"] = 76,
+					["orientation"] = "HORIZONTAL",
 				},
 			},
 		},
@@ -414,18 +414,8 @@ Grid2DB = {
 					["opacity"] = 0.25,
 					["texture"] = "Empty",
 				},
-				["icons-topleft"] = {
-					["maxIcons"] = 4,
-					["type"] = "icons",
-					["location"] = {
-						["y"] = 0,
-						["relPoint"] = "TOPLEFT",
-						["point"] = "TOPLEFT",
-						["x"] = 0,
-					},
-					["level"] = 8,
-					["maxIconsPerRow"] = 5,
-					["iconSize"] = 13,
+				["shields-color"] = {
+					["type"] = "bar-color",
 				},
 				["health"] = {
 					["type"] = "bar",
@@ -444,8 +434,18 @@ Grid2DB = {
 					},
 					["texture"] = "Empty",
 				},
-				["shields-color"] = {
-					["type"] = "bar-color",
+				["icons-topleft"] = {
+					["maxIcons"] = 4,
+					["type"] = "icons",
+					["location"] = {
+						["y"] = 0,
+						["relPoint"] = "TOPLEFT",
+						["point"] = "TOPLEFT",
+						["x"] = 0,
+					},
+					["level"] = 8,
+					["maxIconsPerRow"] = 5,
+					["iconSize"] = 13,
 				},
 				["text-up-color"] = {
 					["type"] = "text-color",

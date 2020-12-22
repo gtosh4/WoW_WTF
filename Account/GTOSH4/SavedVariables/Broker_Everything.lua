@@ -56,13 +56,6 @@ Broker_Everything_CharacterDB = {
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -87,6 +80,13 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
 		},
 		["level"] = 60,
 		["gold"] = 10753845943,
@@ -176,13 +176,7 @@ Broker_Everything_AceDB = {
 			["Guild"] = {
 				["enabled"] = false,
 			},
-			["Bags"] = {
-				["enabled"] = false,
-			},
-			["GPS"] = {
-				["enabled"] = false,
-			},
-			["System"] = {
+			["Volume"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -192,10 +186,7 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
-			["Difficulty"] = {
+			["ClassSpecs"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
@@ -206,26 +197,35 @@ Broker_Everything_AceDB = {
 			},
 			["Clock"] = {
 				["enabled"] = true,
-				["ClickOpt:calendar"] = "_RIGHT",
 				["ClickOpt:hoursmode"] = "__NONE",
-				["ClickOpt:time"] = "__NONE",
 				["minimap"] = {
 					["hide"] = true,
 				},
+				["ClickOpt:calendar"] = "_RIGHT",
+				["ClickOpt:time"] = "__NONE",
+			},
+			["GPS"] = {
+				["enabled"] = false,
+			},
+			["System"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
+			["Bags"] = {
+				["enabled"] = false,
 			},
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Volume"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
-			},
-			["ClassSpecs"] = {
+			["Difficulty"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},

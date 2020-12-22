@@ -9,6 +9,42 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
+				["UIWidgetBelowMinimapContainerFrame"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "UIWidgetBelowMinimapContainerFrame",
+					["scale"] = 1,
+					["orgScale"] = 1,
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-361.0102767447787, -- [4]
+						14.16689652202727, -- [5]
+					},
+				},
+				["ObjectiveTrackerFrameMover"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-10, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ObjectiveTrackerFrameMover",
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-4.166015625, -- [4]
+						-12.5001220703125, -- [5]
+					},
+				},
 				["TalkingHeadFrame"] = {
 					["orgPos"] = {
 						"CENTER", -- [1]
@@ -44,40 +80,20 @@ MADB = {
 						0, -- [5]
 					},
 				},
-				["UIWidgetBelowMinimapContainerFrame"] = {
+				["TooltipMover"] = {
 					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						0, -- [3]
 						0, -- [4]
-						0, -- [5]
 					},
-					["name"] = "UIWidgetBelowMinimapContainerFrame",
-					["scale"] = 1,
-					["orgScale"] = 1,
+					["name"] = "TooltipMover",
 					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-361.0102767447787, -- [4]
-						14.16689652202727, -- [5]
-					},
-				},
-				["ObjectiveTrackerFrameMover"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-10, -- [4]
-						0, -- [5]
-					},
-					["name"] = "ObjectiveTrackerFrameMover",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-4.166015625, -- [4]
-						-12.5001220703125, -- [5]
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						443.3338623046875, -- [4]
+						-11.6663818359375, -- [5]
 					},
 				},
 			},

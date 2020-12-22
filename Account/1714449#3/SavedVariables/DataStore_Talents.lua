@@ -186,7 +186,7 @@ DataStore_TalentsDB = {
 				["Class"] = "SHAMAN",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1608537747,
+				["lastUpdate"] = 1608626486,
 				["Specializations"] = {
 					6621, -- [1]
 					16093, -- [2]
@@ -202,7 +202,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["The Well of Existence"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Well of Existence",
 						["ID"] = 19,
 						["icon"] = 516796,
@@ -218,7 +218,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Life-Binder's Invocation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Life-Binder's Invocation",
 						["ID"] = 20,
 						["icon"] = 2967106,
@@ -234,7 +234,7 @@ DataStore_TalentsDB = {
 						["rank"] = 2,
 					},
 					["Nullification Dynamo"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Nullification Dynamo",
 						["ID"] = 13,
 						["icon"] = 3015741,
@@ -250,7 +250,7 @@ DataStore_TalentsDB = {
 						["rank"] = 2,
 					},
 					["The Ever-Rising Tide"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "The Ever-Rising Tide",
 						["ID"] = 17,
 						["icon"] = 2967108,
@@ -266,7 +266,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Spirit of Preservation"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Spirit of Preservation",
 						["ID"] = 24,
 						["icon"] = 2967101,
@@ -274,7 +274,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Sphere of Suppression"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Sphere of Suppression",
 						["ID"] = 3,
 						["icon"] = 2065602,
@@ -298,7 +298,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Strength of the Warden"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Strength of the Warden",
 						["ID"] = 34,
 						["icon"] = 3193846,
@@ -330,7 +330,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Anima of Life and Death"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Anima of Life and Death",
 						["ID"] = 7,
 						["icon"] = 2967105,
@@ -362,7 +362,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Unwavering Ward"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Unwavering Ward",
 						["ID"] = 16,
 						["icon"] = 3193842,
@@ -370,7 +370,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Vitality Conduit"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Vitality Conduit",
 						["ID"] = 21,
 						["icon"] = 2967100,
@@ -378,7 +378,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Touch of the Everlasting"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Touch of the Everlasting",
 						["ID"] = 33,
 						["icon"] = 3193847,
@@ -386,7 +386,7 @@ DataStore_TalentsDB = {
 						["rank"] = 0,
 					},
 					["Artifice of Time"] = {
-						["valid"] = true,
+						["valid"] = false,
 						["name"] = "Artifice of Time",
 						["ID"] = 18,
 						["icon"] = 2967112,
@@ -402,7 +402,7 @@ DataStore_TalentsDB = {
 						["rank"] = 2,
 					},
 					["Azeroth's Undying Gift"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Azeroth's Undying Gift",
 						["ID"] = 2,
 						["icon"] = 2967107,
@@ -410,7 +410,7 @@ DataStore_TalentsDB = {
 						["rank"] = 3,
 					},
 					["Aegis of the Deep"] = {
-						["valid"] = false,
+						["valid"] = true,
 						["name"] = "Aegis of the Deep",
 						["ID"] = 25,
 						["icon"] = 2967110,

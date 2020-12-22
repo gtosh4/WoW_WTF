@@ -35,10 +35,10 @@ CliqueDB3 = {
 			["alerthidden"] = true,
 			["downclick"] = true,
 			["spec3_profileKey"] = "Toshdruid - Area 52",
-			["fastooc"] = false,
+			["spec4_profileKey"] = "Toshdruid - Area 52",
 			["specswap"] = false,
 			["spec2_profileKey"] = "Toshdruid - Area 52",
-			["spec4_profileKey"] = "Toshdruid - Area 52",
+			["fastooc"] = false,
 		},
 		["Toshtoon - Barthilas"] = {
 			["spec1_profileKey"] = "Toshtoon - Barthilas",

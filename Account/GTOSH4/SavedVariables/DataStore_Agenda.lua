@@ -18,7 +18,7 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[413800969] = {
 						["name"] = "Halls of Atonement Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Lord Chamberlain"] = true,
@@ -32,25 +32,27 @@ DataStore_AgendaDB = {
 					},
 					[414591864] = {
 						["name"] = "Castle Nathria Normal",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
 							["Lady Inerva Darkvein"] = true,
+							["Artificer Xy'mox"] = true,
 							["Sludgefist"] = true,
 							["Shriekwing"] = true,
 							["Hungering Destroyer"] = true,
+							["The Council of Blood"] = true,
 							["Stone Legion Generals"] = true,
 							["Sun King's Salvation"] = true,
 							["Sire Denathrius"] = true,
 						},
-						["progress"] = 8,
+						["progress"] = 10,
 						["extended"] = 0,
 						["isRaid"] = 1,
 					},
 					[414414209] = {
 						["name"] = "Castle Nathria Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -62,7 +64,7 @@ DataStore_AgendaDB = {
 					},
 					[413793455] = {
 						["name"] = "The Necrotic Wake Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Blightbone"] = true,
@@ -76,7 +78,7 @@ DataStore_AgendaDB = {
 					},
 					[414430924] = {
 						["name"] = "Castle Nathria Heroic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -96,7 +98,7 @@ DataStore_AgendaDB = {
 					},
 					[413787048] = {
 						["name"] = "Spires of Ascension Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 4,
 						["bosses"] = {
 							["Kin-Tara"] = true,
@@ -109,7 +111,7 @@ DataStore_AgendaDB = {
 					},
 					[413798293] = {
 						["name"] = "Mists of Tirna Scithe Mythic",
-						["resetTime"] = 1608649199,
+						["resetTime"] = 1608649197,
 						["numEncounters"] = 3,
 						["bosses"] = {
 							["Mistcaller"] = true,
@@ -121,7 +123,10 @@ DataStore_AgendaDB = {
 						["isRaid"] = 0,
 					},
 				},
-				["lastUpdate"] = 1608537714,
+				["Calendar"] = {
+					"2020-12-25|21:15|SET CONDUITS|4|4", -- [1]
+				},
+				["lastUpdate"] = 1608626353,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

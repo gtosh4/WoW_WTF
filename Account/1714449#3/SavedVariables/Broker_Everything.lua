@@ -49,6 +49,13 @@ Broker_Everything_CharacterDB = {
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -73,13 +80,6 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
 		},
 		["level"] = 50,
 		["gold"] = 10753845943,
@@ -106,31 +106,21 @@ Broker_Everything_AceDB = {
 			["Guild"] = {
 				["enabled"] = false,
 			},
-			["Bags"] = {
+			["Gold"] = {
 				["enabled"] = false,
-			},
-			["GPS"] = {
-				["enabled"] = false,
-			},
-			["System"] = {
-				["ClickOpt:options"] = "ALTCLICK",
-				["minimap"] = {
-					["hide"] = true,
-				},
 			},
 			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
-			["Difficulty"] = {
+			["ClassSpecs"] = {
 				["enabled"] = true,
+				["showPvPTalents"] = false,
 				["minimap"] = {
 					["hide"] = true,
 				},
+				["showTalents"] = false,
 			},
 			["Volume"] = {
 				["minimap"] = {
@@ -139,26 +129,36 @@ Broker_Everything_AceDB = {
 			},
 			["Clock"] = {
 				["enabled"] = true,
-				["ClickOpt:calendar"] = "_RIGHT",
 				["ClickOpt:hoursmode"] = "__NONE",
-				["ClickOpt:time"] = "__NONE",
 				["minimap"] = {
 					["hide"] = true,
 				},
+				["ClickOpt:calendar"] = "_RIGHT",
+				["ClickOpt:time"] = "__NONE",
+			},
+			["GPS"] = {
+				["enabled"] = false,
+			},
+			["System"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+				["ClickOpt:options"] = "ALTCLICK",
+			},
+			["Bags"] = {
+				["enabled"] = false,
 			},
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Gold"] = {
-				["enabled"] = false,
-			},
-			["ClassSpecs"] = {
+			["Difficulty"] = {
 				["enabled"] = true,
-				["showTalents"] = false,
 				["minimap"] = {
 					["hide"] = true,
 				},
-				["showPvPTalents"] = false,
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},
