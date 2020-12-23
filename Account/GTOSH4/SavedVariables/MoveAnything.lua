@@ -19,7 +19,6 @@ MADB = {
 					},
 					["name"] = "UIWidgetBelowMinimapContainerFrame",
 					["scale"] = 1,
-					["orgScale"] = 1,
 					["pos"] = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
@@ -27,6 +26,7 @@ MADB = {
 						-361.0102767447787, -- [4]
 						14.16689652202727, -- [5]
 					},
+					["orgScale"] = 1,
 				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
@@ -100,8 +100,8 @@ MADB = {
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = true,
 	["frameListRows"] = 18,
+	["noBags"] = true,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

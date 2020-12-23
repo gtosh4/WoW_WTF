@@ -9,85 +9,6 @@ DataStore_CovenantsDB = {
 			["Default.Area 52.Toshpriest"] = {
 				["CovenantID"] = 2,
 				["Torghast"] = {
-					["fracturechambers"] = {
-						["nextReset"] = 1608649199,
-						["name"] = "Fracture Chambers",
-						["levels"] = {
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 120,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [1]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 220,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [2]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 305,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [3]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 375,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [4]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 435,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [5]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 485,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [6]
-							{
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 530,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [7]
-							{
-								["status"] = 2,
-								["rewards"] = {
-									{
-										["id"] = 1828,
-										["quantity"] = 570,
-										["rewardType"] = 1,
-									}, -- [1]
-								},
-							}, -- [8]
-						},
-					},
 					["coldheartinterstitia"] = {
 						["nextReset"] = 1608044399,
 						["name"] = "Coldheart Interstitia",
@@ -168,9 +89,88 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
-					["theupperreaches"] = {
+					["fracturechambers"] = {
 						["nextReset"] = 1608649199,
-						["name"] = "The Upper Reaches",
+						["name"] = "Fracture Chambers",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["status"] = 2,
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
+					["mortregar"] = {
+						["nextReset"] = 1609253999,
+						["name"] = "Mort'regar",
 						["levels"] = {
 							{
 								["rewards"] = {
@@ -296,207 +296,285 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
+					["theupperreaches"] = {
+						["nextReset"] = 1608649199,
+						["name"] = "The Upper Reaches",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
 				},
-				["lastUpdate"] = 1608626353,
+				["lastUpdate"] = 1608713858,
 				["ConduitReinforceProgress"] = 7,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.4300369024276733,
 					["x"] = 0.2887356877326965,
 				},
 				["InstalledConduits"] = {
-					[1556] = 72,
 					[1396] = 66,
-					[1547] = 82,
 					[1397] = 69,
-					[1395] = 77,
+					[1556] = 72,
+					[1395] = 75,
+					[1547] = 82,
 				},
 				["ActiveSoulbindID"] = 8,
 				["AnimaCurrency"] = {
-					["count"] = 3266,
+					["count"] = 4054,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
 					[114] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182139,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 33,
 						["conduitID"] = 114,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182139,
+						["conduitSpecSetID"] = 33,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Shadow",
 					},
 					[116] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 182141,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
 						["conduitID"] = 116,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182141,
+						["conduitSpecSetID"] = 32,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Holy",
 					},
 					[66] = {
 						["conduitID"] = 66,
+						["conduitType"] = 2,
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181826,
 						["conduitSpecSetID"] = 166,
-						["conduitType"] = 2,
 						["conduitRank"] = 4,
 					},
 					[72] = {
 						["conduitID"] = 72,
+						["conduitType"] = 2,
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181840,
 						["conduitSpecSetID"] = 166,
-						["conduitType"] = 2,
 						["conduitRank"] = 4,
 					},
 					[105] = {
 						["conduitID"] = 105,
+						["conduitType"] = 1,
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 182130,
 						["conduitSpecSetID"] = 166,
-						["conduitType"] = 1,
-						["conduitRank"] = 5,
 						["covenantID"] = 2,
+						["conduitRank"] = 5,
 					},
 					[76] = {
-						["conduitSpecName"] = "Discipline",
-						["conduitItemID"] = 181844,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 31,
 						["conduitID"] = 76,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181844,
+						["conduitSpecSetID"] = 31,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Discipline",
 					},
 					[78] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 181847,
-						["conduitItemLevel"] = 184,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
 						["conduitID"] = 78,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181847,
+						["conduitSpecSetID"] = 32,
 						["conduitRank"] = 4,
+						["conduitSpecName"] = "Holy",
 					},
 					[113] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182138,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 33,
 						["conduitID"] = 113,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182138,
+						["conduitSpecSetID"] = 33,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Shadow",
 					},
 					[84] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 181944,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
 						["conduitID"] = 84,
-						["conduitRank"] = 5,
-					},
-					[115] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182140,
-						["conduitItemLevel"] = 200,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 33,
-						["conduitID"] = 115,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181944,
+						["conduitSpecSetID"] = 32,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Holy",
+					},
+					[82] = {
+						["conduitID"] = 82,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181942,
+						["conduitSpecSetID"] = 32,
+						["conduitRank"] = 5,
+						["conduitSpecName"] = "Holy",
 					},
 					[107] = {
-						["conduitSpecName"] = "Shadow",
-						["conduitItemID"] = 182131,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 33,
 						["conduitID"] = 107,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182131,
+						["conduitSpecSetID"] = 33,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Shadow",
 					},
 					[67] = {
 						["conduitID"] = 67,
 						["conduitItemLevel"] = 184,
-						["conduitSpecSetID"] = 166,
 						["conduitItemID"] = 181827,
+						["conduitSpecSetID"] = 166,
 						["conduitRank"] = 4,
 					},
 					[69] = {
 						["conduitID"] = 69,
 						["conduitItemLevel"] = 184,
-						["conduitSpecSetID"] = 166,
 						["conduitItemID"] = 181837,
+						["conduitSpecSetID"] = 166,
 						["conduitRank"] = 4,
 					},
 					[71] = {
 						["conduitID"] = 71,
+						["conduitType"] = 2,
 						["conduitItemLevel"] = 213,
 						["conduitItemID"] = 181838,
 						["conduitSpecSetID"] = 166,
-						["conduitType"] = 2,
 						["conduitRank"] = 6,
 					},
 					[73] = {
 						["conduitID"] = 73,
 						["conduitItemLevel"] = 213,
-						["conduitSpecSetID"] = 166,
 						["conduitItemID"] = 181842,
+						["conduitSpecSetID"] = 166,
 						["conduitRank"] = 6,
 					},
 					[75] = {
-						["conduitSpecName"] = "Discipline",
-						["conduitItemID"] = 181843,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 31,
 						["conduitID"] = 75,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181843,
+						["conduitSpecSetID"] = 31,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Discipline",
 					},
 					[77] = {
-						["conduitSpecName"] = "Discipline",
-						["conduitItemID"] = 181845,
-						["conduitItemLevel"] = 200,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 31,
 						["conduitID"] = 77,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 181845,
+						["conduitSpecSetID"] = 31,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Discipline",
 					},
 					[85] = {
 						["conduitID"] = 85,
 						["conduitItemLevel"] = 171,
-						["conduitSpecSetID"] = 166,
 						["conduitItemID"] = 181962,
+						["conduitSpecSetID"] = 166,
 						["conduitRank"] = 3,
 					},
 					[81] = {
-						["conduitSpecName"] = "Discipline",
-						["conduitItemID"] = 181867,
-						["conduitItemLevel"] = 171,
-						["conduitType"] = 1,
-						["conduitSpecSetID"] = 31,
 						["conduitID"] = 81,
-						["conduitRank"] = 3,
-					},
-					[82] = {
-						["conduitSpecName"] = "Holy",
-						["conduitItemID"] = 181942,
-						["conduitItemLevel"] = 200,
 						["conduitType"] = 1,
-						["conduitSpecSetID"] = 32,
-						["conduitID"] = 82,
+						["conduitItemLevel"] = 171,
+						["conduitItemID"] = 181867,
+						["conduitSpecSetID"] = 31,
+						["conduitRank"] = 3,
+						["conduitSpecName"] = "Discipline",
+					},
+					[115] = {
+						["conduitID"] = 115,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 200,
+						["conduitItemID"] = 182140,
+						["conduitSpecSetID"] = 33,
 						["conduitRank"] = 5,
+						["conduitSpecName"] = "Shadow",
 					},
 				},
 				["SoulCurrencies"] = {
 					1810, -- [1]
 				},
-				["RenownLevel"] = 12,
+				["RenownLevel"] = 14,
 				["CurrentTalentTreeID"] = 326,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
 						["state"] = 2,
@@ -511,12 +589,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
-						["description"] = "Channel Anima to Dominance Keep, allowing you and your allies to challenge an elite foe.",
 						["talentID"] = 1259,
+						["description"] = "Channel Anima to Dominance Keep, allowing you and your allies to challenge an elite foe.",
 						["name"] = "Dominance Keep",
 						["normalizedPosition"] = {
 							["y"] = 0.1962138414382935,
@@ -526,12 +604,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
-						["description"] = "Channel Anima to the Shrouded Asylum, allowing access to mighty Venthyr enhancements.",
 						["talentID"] = 1260,
+						["description"] = "Channel Anima to the Shrouded Asylum, allowing access to mighty Venthyr enhancements.",
 						["name"] = "The Shrouded Asylum",
 						["normalizedPosition"] = {
 							["y"] = 0.5564113855361938,
@@ -541,8 +619,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
 						["state"] = 4,
@@ -557,8 +635,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
 						["state"] = 4,
@@ -573,8 +651,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["currencyID"] = 1813,
 								["quantity"] = 25,
+								["currencyID"] = 1813,
 							}, -- [1]
 						},
 						["state"] = 3,
@@ -608,6 +686,9 @@ DataStore_CovenantsDB = {
 						["garrTalentTreeID"] = 326,
 						["featureType"] = 4,
 					}, -- [5]
+				},
+				["SoulCurrenciesTotals"] = {
+					[1810] = 8,
 				},
 				["TalentTreeTalents"] = {
 					[326] = {
@@ -1425,9 +1506,6 @@ DataStore_CovenantsDB = {
 							},
 						}, -- [5]
 					},
-				},
-				["SoulCurrenciesTotals"] = {
-					[1810] = 3,
 				},
 			},
 			["Default.Area 52.Toshdruid"] = {

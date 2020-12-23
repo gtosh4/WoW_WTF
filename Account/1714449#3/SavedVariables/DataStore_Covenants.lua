@@ -58,22 +58,100 @@ DataStore_CovenantsDB = {
 							}, -- [8]
 						},
 					},
+					["mortregar"] = {
+						["nextReset"] = 1609253999,
+						["name"] = "Mort'regar",
+						["levels"] = {
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 120,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [1]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 220,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [2]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 305,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [3]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 375,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [4]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 435,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [5]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 485,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [6]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 530,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [7]
+							{
+								["rewards"] = {
+									{
+										["id"] = 1828,
+										["quantity"] = 570,
+										["rewardType"] = 1,
+									}, -- [1]
+								},
+							}, -- [8]
+						},
+					},
 				},
-				["lastUpdate"] = 1608626486,
+				["lastUpdate"] = 1608713463,
 				["ConduitReinforceProgress"] = 4,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.2016096115112305,
 					["x"] = 0.6407538652420044,
 				},
 				["InstalledConduits"] = {
-					[1365] = 37,
+					[1305] = 57,
 					[1366] = 28,
 					[1312] = 15,
-					[1305] = 57,
+					[1365] = 37,
 				},
 				["ActiveSoulbindID"] = 7,
 				["AnimaCurrency"] = {
-					["count"] = 2686,
+					["count"] = 2529,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
@@ -194,14 +272,12 @@ DataStore_CovenantsDB = {
 						["conduitItemID"] = 181466,
 						["conduitRank"] = 5,
 					},
-					[24] = {
-						["conduitID"] = 24,
-						["conduitType"] = 1,
-						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181465,
-						["conduitSpecSetID"] = 26,
-						["conduitSpecName"] = "Windwalker",
-						["conduitRank"] = 4,
+					[37] = {
+						["conduitID"] = 37,
+						["conduitItemLevel"] = 200,
+						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181512,
+						["conduitRank"] = 5,
 					},
 					[54] = {
 						["conduitID"] = 54,
@@ -239,25 +315,27 @@ DataStore_CovenantsDB = {
 						["conduitSpecName"] = "Brewmaster",
 						["conduitRank"] = 5,
 					},
-					[37] = {
-						["conduitID"] = 37,
-						["conduitItemLevel"] = 200,
-						["conduitSpecSetID"] = 164,
-						["conduitItemID"] = 181512,
-						["conduitRank"] = 5,
+					[24] = {
+						["conduitID"] = 24,
+						["conduitType"] = 1,
+						["conduitItemLevel"] = 184,
+						["conduitItemID"] = 181465,
+						["conduitSpecSetID"] = 26,
+						["conduitSpecName"] = "Windwalker",
+						["conduitRank"] = 4,
 					},
 				},
 				["SoulCurrencies"] = {
 					1810, -- [1]
 				},
-				["RenownLevel"] = 12,
+				["RenownLevel"] = 14,
 				["CurrentTalentTreeID"] = 327,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 3,
@@ -272,8 +350,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -288,8 +366,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 2,
@@ -304,8 +382,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -320,12 +398,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1241,
 						["description"] = "Channel Anima to the Citadel of Loyalty, allowing you and your allies to challenge an elite foe.",
+						["talentID"] = 1241,
 						["name"] = "Citadel of Loyalty",
 						["normalizedPosition"] = {
 							["y"] = 0.2288322448730469,
@@ -335,12 +413,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1242,
 						["description"] = "Channel Anima to the Eonian Archives, allowing access to mighty Kyrian enhancements.",
+						["talentID"] = 1242,
 						["name"] = "Eonian Archives",
 						["normalizedPosition"] = {
 							["y"] = 0.2973120808601379,
@@ -348,8 +426,27 @@ DataStore_CovenantsDB = {
 						},
 					}, -- [6]
 				},
-				["SoulCurrenciesTotals"] = {
-					[1810] = 3,
+				["CovenantFeatures"] = {
+					{
+						["garrTalentTreeID"] = 308,
+						["featureType"] = 2,
+					}, -- [1]
+					{
+						["garrTalentTreeID"] = 312,
+						["featureType"] = 1,
+					}, -- [2]
+					{
+						["garrTalentTreeID"] = 316,
+						["featureType"] = 3,
+					}, -- [3]
+					{
+						["garrTalentTreeID"] = 320,
+						["featureType"] = 5,
+					}, -- [4]
+					{
+						["garrTalentTreeID"] = 327,
+						["featureType"] = 4,
+					}, -- [5]
 				},
 				["TalentTreeTalents"] = {
 					[312] = {
@@ -375,19 +472,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 1,
 							["id"] = 1062,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Allows you to channel anima to Purity's Pinnacle and the Temple of Courage, granting access to a special treasure and an enemy champion.",
-							["talentAvailability"] = 7,
-							["name"] = "Flowing Tendrils",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -399,6 +483,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Allows you to channel anima to Purity's Pinnacle and the Temple of Courage, granting access to a special treasure and an enemy champion.",
+							["talentAvailability"] = 7,
+							["name"] = "Flowing Tendrils",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [1]
 						{
@@ -424,19 +521,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 1,
 							["id"] = 1063,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Allows you to channel anima to the Temple of Humility and the Eternal Forge, granting access to a new World Quest and new Daily Quests.",
-							["talentAvailability"] = 7,
-							["name"] = "Streaming Threads",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -448,6 +532,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Allows you to channel anima to the Temple of Humility and the Eternal Forge, granting access to a new World Quest and new Daily Quests.",
+							["talentAvailability"] = 7,
+							["name"] = "Streaming Threads",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [2]
 						{
@@ -473,19 +570,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1064,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Allows you to channel anima to the Eonian Archives and the Citadel of Loyalty, granting access to Kyrian enhancements and an elite foe.",
-							["talentAvailability"] = 3,
-							["name"] = "Flowing Power",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -497,6 +581,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Allows you to channel anima to the Eonian Archives and the Citadel of Loyalty, granting access to Kyrian enhancements and an elite foe.",
+							["talentAvailability"] = 3,
+							["name"] = "Flowing Power",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [3]
 					},
@@ -524,19 +621,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1095,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Unlocks the final trial for all of your captured memories, the Trial of Humility. \r\n\r\nThe Brazier of Inward Reflection has been activated, increasing your soulbinds' health and damage in Ascension Coliseum.",
-							["talentAvailability"] = 8,
-							["name"] = "Trials of Humility",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -548,6 +632,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Unlocks the final trial for all of your captured memories, the Trial of Humility. \r\n\r\nThe Brazier of Inward Reflection has been activated, increasing your soulbinds' health and damage in Ascension Coliseum.",
+							["talentAvailability"] = 8,
+							["name"] = "Trials of Humility",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [1]
 						{
@@ -572,19 +669,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 1,
 							["id"] = 1091,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Unlocks the sacred trial of the Path of Ascension, facilitating the capture of six Shadowlands memories for your soulbinds to train against for unique rewards.",
-							["talentAvailability"] = 7,
-							["name"] = "First Steps",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -596,6 +680,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Unlocks the sacred trial of the Path of Ascension, facilitating the capture of six Shadowlands memories for your soulbinds to train against for unique rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "First Steps",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [2]
 						{
@@ -621,19 +718,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1092,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Allows the capture of four more Shadowlands memories for training in the Path of Ascension.\r\n\r\nEmpowers some of your memories with accumulated anima, granting you access to their second trial.\r\n\r\nUnlocks access to weekly quests.",
-							["talentAvailability"] = 3,
-							["name"] = "Sacred Trials",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -645,6 +729,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Allows the capture of four more Shadowlands memories for training in the Path of Ascension.\r\n\r\nEmpowers some of your memories with accumulated anima, granting you access to their second trial.\r\n\r\nUnlocks access to weekly quests.",
+							["talentAvailability"] = 3,
+							["name"] = "Sacred Trials",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [3]
 						{
@@ -670,19 +767,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1093,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Empowers more of your captured memories, unlocking the rest of the Trials of Loyalty as well as the first of the Trials of Wisdom.\r\n\r\nThe Brazier of Lessons Learned has been activated, increasing your soulbinds' health and damage in Ascension Coliseum.",
-							["talentAvailability"] = 8,
-							["name"] = "Continued Training",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -694,6 +778,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Empowers more of your captured memories, unlocking the rest of the Trials of Loyalty as well as the first of the Trials of Wisdom.\r\n\r\nThe Brazier of Lessons Learned has been activated, increasing your soulbinds' health and damage in Ascension Coliseum.",
+							["talentAvailability"] = 8,
+							["name"] = "Continued Training",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [4]
 						{
@@ -719,19 +816,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1094,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Your collected anima strengthens the remaining memories, granting access to the remaining Trials of Wisdom.\r\n\r\nUnlocks access to a second weekly quest.",
-							["talentAvailability"] = 8,
-							["name"] = "Teachings of Wisdom",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -743,6 +827,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Your collected anima strengthens the remaining memories, granting access to the remaining Trials of Wisdom.\r\n\r\nUnlocks access to a second weekly quest.",
+							["talentAvailability"] = 8,
+							["name"] = "Teachings of Wisdom",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [5]
 					},
@@ -770,19 +867,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1057,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Allows travel to Sagehaven, the Temple of Purity, and the Seat of Eternal Hymns.\r\n\r\nUnburden duration increased by 100%.\r\n\r\nYour Summon Steward ability can now create an Elysian Beacon, granting you access to the network in the field.",
-							["talentAvailability"] = 3,
-							["name"] = "Leap of Power",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -794,6 +878,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Allows travel to Sagehaven, the Temple of Purity, and the Seat of Eternal Hymns.\r\n\r\nUnburden duration increased by 100%.\r\n\r\nYour Summon Steward ability can now create an Elysian Beacon, granting you access to the network in the field.",
+							["talentAvailability"] = 3,
+							["name"] = "Leap of Power",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [1]
 						{
@@ -819,19 +916,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1058,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Allows travel to the Temple of Humility and the Terrace of the Collectors.\r\n\r\nUnburden additionally reduces the radius at which enemies will detect you while active.\r\n\r\nYour steward's Elysian Beacon can now be used by party members.\r\n\r\nEstablishes a portal to Oribos within Elysian Hold.",
-							["talentAvailability"] = 8,
-							["name"] = "Eternal Paths",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -843,6 +927,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Allows travel to the Temple of Humility and the Terrace of the Collectors.\r\n\r\nUnburden additionally reduces the radius at which enemies will detect you while active.\r\n\r\nYour steward's Elysian Beacon can now be used by party members.\r\n\r\nEstablishes a portal to Oribos within Elysian Hold.",
+							["talentAvailability"] = 8,
+							["name"] = "Eternal Paths",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [2]
 						{
@@ -867,19 +964,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 1,
 							["id"] = 1056,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Allows travel to Elysian Hold, Hero's Rest, Aspirant's Rest, and the Temple of Courage.\r\n\r\nAfter arriving at a location cast Unburden, greatly increasing movement speed, and propelling you forward.",
-							["talentAvailability"] = 7,
-							["name"] = "Step of Faith",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -891,6 +975,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Allows travel to Elysian Hold, Hero's Rest, Aspirant's Rest, and the Temple of Courage.\r\n\r\nAfter arriving at a location cast Unburden, greatly increasing movement speed, and propelling you forward.",
+							["talentAvailability"] = 7,
+							["name"] = "Step of Faith",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [3]
 					},
@@ -918,31 +1015,31 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1078,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Increases the rate at which companions naturally heal by 25%.",
-							["talentAvailability"] = 3,
-							["name"] = "Enhanced Purification",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "Increases the rate at which adventurers heal by 25%.",
 								["id"] = 1274,
-								["isEmptySlot"] = false,
-								["name"] = "Forward Planning",
 								["isSpecialization"] = false,
+								["name"] = "Forward Planning",
+								["isEmptySlot"] = false,
 								["counters"] = {
 								},
 								["category"] = "Increased Healing Rate",
 								["icon"] = 237451,
 								["isTrait"] = false,
+							},
+							["description"] = "Increases the rate at which companions naturally heal by 25%.",
+							["talentAvailability"] = 3,
+							["name"] = "Enhanced Purification",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [1]
 						{
@@ -968,31 +1065,31 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1079,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Decreases the time an adventure takes to complete by 25%.",
-							["talentAvailability"] = 8,
-							["name"] = "Wings of Light",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "Reduces the travel time on an adventure by 25%.",
 								["id"] = 1273,
-								["isEmptySlot"] = false,
-								["name"] = "Strategic Genius",
 								["isSpecialization"] = false,
+								["name"] = "Strategic Genius",
+								["isEmptySlot"] = false,
 								["counters"] = {
 								},
 								["category"] = "Reduced Travel Time",
 								["icon"] = 237451,
 								["isTrait"] = false,
+							},
+							["description"] = "Decreases the time an adventure takes to complete by 25%.",
+							["talentAvailability"] = 8,
+							["name"] = "Wings of Light",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [2]
 						{
@@ -1017,19 +1114,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 1,
 							["id"] = 1077,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "Grants access to Adventures and their rewards.",
-							["talentAvailability"] = 7,
-							["name"] = "Tactical Insight",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 0,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -1041,6 +1125,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "Grants access to Adventures and their rewards.",
+							["talentAvailability"] = 7,
+							["name"] = "Tactical Insight",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 0,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [3]
 					},
@@ -1059,20 +1156,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1142,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["playerConditionReason"] = "Requires Renown 19",
-							["description"] = "The possible power of the anima reservoir remains untapped for now.",
-							["talentAvailability"] = 6,
-							["name"] = "Final Capacity",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 2000,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -1084,6 +1167,20 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["playerConditionReason"] = "Requires Renown 19",
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["timeRemaining"] = 0,
+							["name"] = "Final Capacity",
+							["startTime"] = 0,
+							["talentAvailability"] = 6,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 2000,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [1]
 						{
@@ -1100,19 +1197,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1141,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "The possible power of the anima reservoir remains untapped for now.",
-							["talentAvailability"] = 5,
-							["name"] = "Growing Power",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 1000,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -1124,6 +1208,19 @@ DataStore_CovenantsDB = {
 								["isSpecialization"] = false,
 								["icon"] = 0,
 								["isTrait"] = false,
+							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 5,
+							["name"] = "Growing Power",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 1000,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
 							},
 						}, -- [2]
 						{
@@ -1140,19 +1237,6 @@ DataStore_CovenantsDB = {
 							},
 							["talentRank"] = 0,
 							["id"] = 1140,
-							["socketInfo"] = {
-								["misc1"] = 0,
-								["socketType"] = 0,
-								["socketSubtype"] = 0,
-								["misc0"] = 0,
-							},
-							["description"] = "The possible power of the anima reservoir remains untapped for now.",
-							["talentAvailability"] = 0,
-							["name"] = "Expanding Potential",
-							["startTime"] = 0,
-							["timeRemaining"] = 0,
-							["uiOrder"] = 0,
-							["researchGoldCost"] = 100,
 							["ability"] = {
 								["temporary"] = false,
 								["description"] = "",
@@ -1165,30 +1249,24 @@ DataStore_CovenantsDB = {
 								["icon"] = 0,
 								["isTrait"] = false,
 							},
+							["description"] = "The possible power of the anima reservoir remains untapped for now.",
+							["talentAvailability"] = 0,
+							["name"] = "Expanding Potential",
+							["timeRemaining"] = 0,
+							["startTime"] = 0,
+							["uiOrder"] = 0,
+							["researchGoldCost"] = 100,
+							["socketInfo"] = {
+								["misc1"] = 0,
+								["socketType"] = 0,
+								["socketSubtype"] = 0,
+								["misc0"] = 0,
+							},
 						}, -- [3]
 					},
 				},
-				["CovenantFeatures"] = {
-					{
-						["garrTalentTreeID"] = 308,
-						["featureType"] = 2,
-					}, -- [1]
-					{
-						["garrTalentTreeID"] = 312,
-						["featureType"] = 1,
-					}, -- [2]
-					{
-						["garrTalentTreeID"] = 316,
-						["featureType"] = 3,
-					}, -- [3]
-					{
-						["garrTalentTreeID"] = 320,
-						["featureType"] = 5,
-					}, -- [4]
-					{
-						["garrTalentTreeID"] = 327,
-						["featureType"] = 4,
-					}, -- [5]
+				["SoulCurrenciesTotals"] = {
+					[1810] = 3,
 				},
 			},
 		},

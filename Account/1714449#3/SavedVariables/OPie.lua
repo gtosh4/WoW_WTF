@@ -6,17 +6,17 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "ABuejUSlLKe",
+			},
 			["Bindings"] = {
 				["RaidSymbols"] = "ALT-E",
 				["TrinketSlots"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
-				["WorldMarkers"] = "ALT-Q",
-				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-G",
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "ABuejUSlLKe",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-Q",
 			},
 		},
 	},
@@ -97,8 +97,68 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
+			},
+			["SpecMenu"] = {
+				{
+					"specset", -- [1]
+					1, -- [2]
+					["sliceToken"] = "OPCTA1",
+				}, -- [1]
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "OPCTA2",
+				}, -- [2]
+				{
+					"specset", -- [1]
+					3, -- [2]
+					["sliceToken"] = "OPCTA3",
+				}, -- [3]
+				{
+					"specset", -- [1]
+					4, -- [2]
+					["sliceToken"] = "OPCTA4",
+				}, -- [4]
+				{
+					["sliceToken"] = "OPCTAc",
+					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+				}, -- [5]
+				{
+					"item", -- [1]
+					110560, -- [2]
+					["sliceToken"] = "OPCTAg",
+				}, -- [6]
+				{
+					"item", -- [1]
+					140192, -- [2]
+					["sliceToken"] = "OPCTAd",
+				}, -- [7]
+				{
+					"ring", -- [1]
+					"CommonHearth", -- [2]
+					["sliceToken"] = "OPCTAt",
+					["onlyNonEmpty"] = true,
+					["rotationMode"] = "shuffle",
+				}, -- [8]
+				{
+					["id"] = 556,
+					["sliceToken"] = "OPCTAa",
+				}, -- [9]
+				{
+					"item", -- [1]
+					141605, -- [2]
+					["sliceToken"] = "OPCTAw",
+				}, -- [10]
+				{
+					"toy", -- [1]
+					172924, -- [2]
+					["sliceToken"] = "ABuekJTSj/e",
+				}, -- [11]
+				["name"] = "Specializations and Travel",
+				["save"] = true,
+				["hotkey"] = "ALT-H",
 			},
 		},
 	},

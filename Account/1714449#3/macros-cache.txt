@@ -19,7 +19,7 @@ END
 VER 3 0000000000000033 "follow" "413580"
 /follow Toshpriest
 END
-VER 3 0000000000000034 "innervate me" "INV_MISC_QUESTIONMARK"
+VER 3 0000000000000034 "innervate me" "Spell_Nature_Lightning."
 #showtooltip
 /script WeakAuras.ScanEvents("TOSH_WA_INNRV_ASK")
 END

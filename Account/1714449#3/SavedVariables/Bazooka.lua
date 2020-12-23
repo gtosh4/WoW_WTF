@@ -6,19 +6,72 @@ BazookaDB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshmonk - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["numBars"] = 4,
+			["locked"] = true,
 			["plugins"] = {
+				["launcher"] = {
+					["BigWigs"] = {
+						["enabled"] = false,
+						["pos"] = 6,
+					},
+					["Grid2"] = {
+						["enabled"] = false,
+						["pos"] = 2,
+					},
+					["Altoholic"] = {
+						["bar"] = 4,
+						["pos"] = 3,
+					},
+					["WeakAuras"] = {
+						["enabled"] = false,
+						["pos"] = 8,
+					},
+					["ExRT"] = {
+						["enabled"] = false,
+						["pos"] = 3,
+					},
+					["Dominos"] = {
+						["enabled"] = false,
+						["pos"] = 7,
+					},
+					["Bazooka"] = {
+						["enabled"] = false,
+					},
+					["InstanceAchievementTracker"] = {
+						["pos"] = 2,
+					},
+					["Prat"] = {
+						["enabled"] = false,
+						["pos"] = 9,
+					},
+					["Leatrix_Plus"] = {
+						["enabled"] = false,
+						["pos"] = 10,
+					},
+					["PitBull4"] = {
+						["pos"] = 2,
+					},
+					["TellMeWhen"] = {
+						["enabled"] = false,
+						["pos"] = 4,
+					},
+					["SavedInstances"] = {
+						["showValue"] = false,
+						["pos"] = 2,
+						["bar"] = 4,
+					},
+				},
 				["data source"] = {
 					["BugSack"] = {
 						["area"] = "left",
-						["bar"] = 4,
 						["pos"] = 1,
+						["bar"] = 4,
 					},
 					["SimulationCraft"] = {
 						["enabled"] = false,
@@ -26,8 +79,8 @@ BazookaDB = {
 					},
 					["REFlex"] = {
 						["area"] = "left",
-						["bar"] = 3,
 						["pos"] = 1,
+						["bar"] = 3,
 					},
 					["AstralKeys"] = {
 						["enabled"] = false,
@@ -44,8 +97,8 @@ BazookaDB = {
 						["showValue"] = false,
 						["showIcon"] = false,
 						["stripColors"] = false,
-						["bar"] = 4,
 						["pos"] = 1,
+						["bar"] = 4,
 					},
 					["AdiBags"] = {
 						["enabled"] = false,
@@ -66,8 +119,8 @@ BazookaDB = {
 					},
 					["Difficulty"] = {
 						["showIcon"] = false,
-						["bar"] = 3,
 						["pos"] = 1,
+						["bar"] = 3,
 					},
 					["MythicDungeonTools"] = {
 						["enabled"] = false,
@@ -80,8 +133,8 @@ BazookaDB = {
 					["Equipment"] = {
 						["useLabelAsTitle"] = false,
 						["area"] = "left",
-						["bar"] = 2,
 						["pos"] = 1,
+						["bar"] = 2,
 					},
 					["Talent Set Manager"] = {
 						["enabled"] = false,
@@ -89,64 +142,11 @@ BazookaDB = {
 					},
 					["ClassSpecs"] = {
 						["area"] = "left",
+						["pos"] = 2,
 						["bar"] = 2,
-						["pos"] = 2,
-					},
-				},
-				["launcher"] = {
-					["BigWigs"] = {
-						["enabled"] = false,
-						["pos"] = 6,
-					},
-					["Grid2"] = {
-						["enabled"] = false,
-						["pos"] = 2,
-					},
-					["Dominos"] = {
-						["enabled"] = false,
-						["pos"] = 7,
-					},
-					["TellMeWhen"] = {
-						["enabled"] = false,
-						["pos"] = 4,
-					},
-					["ExRT"] = {
-						["enabled"] = false,
-						["pos"] = 3,
-					},
-					["Altoholic"] = {
-						["pos"] = 3,
-						["bar"] = 4,
-					},
-					["Bazooka"] = {
-						["enabled"] = false,
-					},
-					["PitBull4"] = {
-						["pos"] = 2,
-					},
-					["Prat"] = {
-						["enabled"] = false,
-						["pos"] = 9,
-					},
-					["Leatrix_Plus"] = {
-						["enabled"] = false,
-						["pos"] = 10,
-					},
-					["InstanceAchievementTracker"] = {
-						["pos"] = 2,
-					},
-					["WeakAuras"] = {
-						["enabled"] = false,
-						["pos"] = 8,
-					},
-					["SavedInstances"] = {
-						["showValue"] = false,
-						["bar"] = 4,
-						["pos"] = 2,
 					},
 				},
 			},
-			["locked"] = true,
 			["bars"] = {
 				{
 					["y"] = 0,
@@ -175,22 +175,22 @@ BazookaDB = {
 				{
 					["bgInset"] = 4,
 					["y"] = -36.66680908203125,
-					["relPoint"] = "TOPLEFT",
+					["x"] = -2.999885082244873,
 					["frameWidth"] = 280,
 					["pos"] = 0,
 					["point"] = "TOPLEFT",
 					["frameHeight"] = 19.99999237060547,
-					["x"] = -2.999885082244873,
+					["relPoint"] = "TOPLEFT",
 				}, -- [3]
 				{
 					["bgInset"] = 4,
 					["y"] = -161.6664886474609,
-					["relPoint"] = "TOPRIGHT",
+					["x"] = -4.497645854949951,
 					["frameWidth"] = 139.9999542236328,
 					["pos"] = 0,
 					["point"] = "TOPRIGHT",
 					["frameHeight"] = 19.99999237060547,
-					["x"] = -4.497645854949951,
+					["relPoint"] = "TOPRIGHT",
 				}, -- [4]
 			},
 		},
