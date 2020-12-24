@@ -1030,6 +1030,14 @@ DeathGraphsDBDeaths = {
 				["name"] = "Available-Kil'jaeden",
 				["class"] = "DEATHKNIGHT",
 			},
+			["Gettizzedon-Tichondrius"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Gettizzedon-Tichondrius",
+			},
 			["Néekô"] = {
 				["class"] = "DRUID",
 				["deaths"] = {
@@ -1045,6 +1053,14 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Gummybuns",
 				["class"] = "MONK",
+			},
+			["Nv"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Nv",
 			},
 			["Sci"] = {
 				["overall"] = {
@@ -1070,6 +1086,14 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Moonrite",
 			},
+			["Fäble-Tichondrius"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Fäble-Tichondrius",
+			},
 			["Fûzylock"] = {
 				["class"] = "WARLOCK",
 				["deaths"] = {
@@ -1077,14 +1101,6 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 				["name"] = "Fûzylock",
-			},
-			["Nv"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Nv",
 			},
 			["Rathux"] = {
 				["overall"] = {
@@ -1155,6 +1171,14 @@ DeathGraphsDBDeaths = {
 			["encounter"] = "Sire Denathrius",
 		},
 		["player_db"] = {
+			["Fishlips-Tichondrius"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Fishlips-Tichondrius",
+			},
 			["Horin-Stormreaver"] = {
 				["deaths"] = {
 				},
@@ -1322,6 +1346,14 @@ DeathGraphsDBDeaths = {
 				["name"] = "Cryptster-Tichondrius",
 				["overall"] = {
 				},
+			},
+			["Hootdin-Tichondrius"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hootdin-Tichondrius",
 			},
 			["Pumaa-Mug'thol"] = {
 				["name"] = "Pumaa-Mug'thol",
@@ -1491,6 +1523,14 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
+			["Shodyra-Illidan"] = {
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+				["name"] = "Shodyra-Illidan",
+				["overall"] = {
+				},
+			},
 			["Creepka-Illidan"] = {
 				["class"] = "ROGUE",
 				["deaths"] = {
@@ -1579,21 +1619,13 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Hyzenthlay-Stormscale"] = {
-				["class"] = "PRIEST",
+			["Phinq-Barthilas"] = {
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Hyzenthlay-Stormscale",
-			},
-			["Shodyra-Illidan"] = {
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-				["name"] = "Shodyra-Illidan",
-				["overall"] = {
-				},
+				["name"] = "Phinq-Barthilas",
 			},
 			["Hydrofoil-Tichondrius"] = {
 				["class"] = "PRIEST",
@@ -1602,6 +1634,14 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 				["name"] = "Hydrofoil-Tichondrius",
+			},
+			["Hyzenthlay-Stormscale"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hyzenthlay-Stormscale",
 			},
 			["Chenkobi-Tichondrius"] = {
 				["deaths"] = {
@@ -2058,13 +2098,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Nv",
 				["class"] = "DRUID",
 			},
-			["Yellowy"] = {
+			["Decision"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Yellowy",
-				["class"] = "PRIEST",
+				["name"] = "Decision",
+				["class"] = "ROGUE",
 			},
 			["Konstantino"] = {
 				["overall"] = {
@@ -2090,13 +2130,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Gummybuns",
 				["class"] = "MONK",
 			},
-			["Steall"] = {
+			["Yellowy"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Steall",
-				["class"] = "ROGUE",
+				["name"] = "Yellowy",
+				["class"] = "PRIEST",
 			},
 			["Adeno"] = {
 				["deaths"] = {
@@ -2162,12 +2202,12 @@ DeathGraphsDBDeaths = {
 				["name"] = "Toshpriest",
 				["class"] = "PRIEST",
 			},
-			["Decision"] = {
+			["Steall"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Decision",
+				["name"] = "Steall",
 				["class"] = "ROGUE",
 			},
 			["Jojo"] = {
@@ -2742,6 +2782,14 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
+			["Bonweewee-Tichondrius"] = {
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Bonweewee-Tichondrius",
+			},
 			["Kelvul-Thrall"] = {
 				["deaths"] = {
 				},
@@ -2766,6 +2814,14 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
+			["Phinq-Barthilas"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Phinq-Barthilas",
+			},
 			["Healblood-Azralon"] = {
 				["deaths"] = {
 				},
@@ -2773,6 +2829,14 @@ DeathGraphsDBDeaths = {
 				["name"] = "Healblood-Azralon",
 				["overall"] = {
 				},
+			},
+			["Hootdin-Tichondrius"] = {
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Hootdin-Tichondrius",
 			},
 			["Deebhead-BleedingHollow"] = {
 				["deaths"] = {
@@ -2829,6 +2893,22 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
+			["Kilshadyssx-Tichondrius"] = {
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Kilshadyssx-Tichondrius",
+			},
+			["Fäble-Tichondrius"] = {
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Fäble-Tichondrius",
+			},
 			["Algernon-LaughingSkull"] = {
 				["deaths"] = {
 				},
@@ -2852,6 +2932,14 @@ DeathGraphsDBDeaths = {
 				["name"] = "Chibihulk-Dalaran",
 				["overall"] = {
 				},
+			},
+			["Sumanator-Tichondrius"] = {
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Sumanator-Tichondrius",
 			},
 			["Halfmast-BleedingHollow"] = {
 				["deaths"] = {
@@ -2895,29 +2983,13 @@ DeathGraphsDBDeaths = {
 			["killed"] = true,
 		},
 		["player_db"] = {
-			["Available-Kil'jaeden"] = {
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-				["name"] = "Available-Kil'jaeden",
-				["class"] = "DEATHKNIGHT",
-			},
-			["Cobber"] = {
-				["class"] = "SHAMAN",
+			["Sci"] = {
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Cobber",
-			},
-			["Gummybuns"] = {
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Gummybuns",
+				["name"] = "Sci",
 			},
 			["Delpix"] = {
 				["class"] = "PRIEST",
@@ -2927,13 +2999,45 @@ DeathGraphsDBDeaths = {
 				},
 				["name"] = "Delpix",
 			},
-			["Sci"] = {
-				["class"] = "PALADIN",
+			["Andruw"] = {
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Sci",
+				["name"] = "Andruw",
+			},
+			["Available-Kil'jaeden"] = {
+				["overall"] = {
+				},
+				["deaths"] = {
+				},
+				["name"] = "Available-Kil'jaeden",
+				["class"] = "DEATHKNIGHT",
+			},
+			["Gummybuns"] = {
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Gummybuns",
+			},
+			["Cobber"] = {
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Cobber",
+			},
+			["Vissertin-Tichondrius"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Vissertin-Tichondrius",
 			},
 			["Warlockmania"] = {
 				["class"] = "WARLOCK",
@@ -2975,13 +3079,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Rathux",
 				["class"] = "DEATHKNIGHT",
 			},
-			["Andruw"] = {
-				["class"] = "DEMONHUNTER",
+			["Kilshadyssx-Tichondrius"] = {
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
 				["overall"] = {
 				},
-				["name"] = "Andruw",
+				["name"] = "Kilshadyssx-Tichondrius",
 			},
 			["Toshpriest"] = {
 				["overall"] = {
@@ -5122,6 +5226,13 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Bonweewee-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
 			["Diasepan-Ragnaros"] = {
 				["encounters"] = 3,
 				["points"] = 300,
@@ -5158,6 +5269,13 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PRIEST",
 			},
+			["Megohface-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
 			["Iseeyou-Deathwing"] = {
 				["encounters"] = 3,
 				["points"] = 290,
@@ -5189,12 +5307,26 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "HUNTER",
 			},
+			["Barepriest-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Kinthalan-Ragnaros"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
+			},
+			["Fäble-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
 			},
 			["Lw-Ragnaros"] = {
 				["encounters"] = 3,
@@ -5203,9 +5335,23 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "WARLOCK",
 			},
+			["Remonchikin-Deathwing"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Worthlessimp-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
 			["Toshpriest"] = {
-				["encounters"] = 7,
-				["points"] = 700,
+				["encounters"] = 8,
+				["points"] = 800,
 				["class"] = "PRIEST",
 				["deaths"] = {
 				},
@@ -5216,6 +5362,18 @@ DeathGraphsDBEndurance = {
 				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
+			},
+			["Hildasan-Caelestrasz"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						76.47700000018813, -- [2]
+						"Wrong Moves (DoT) |cFFFF33337,146|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "HUNTER",
 			},
 			["Wyldvyrus-Deathwing"] = {
 				["encounters"] = 3,
@@ -5234,20 +5392,6 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Crispysimp"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Bosathrar-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
 			["Nevy-Zul'jin"] = {
 				["encounters"] = 1,
 				["points"] = 90,
@@ -5259,6 +5403,13 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 				["class"] = "PRIEST",
+			},
+			["Crispysimp"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
 			},
 			["Pyromartyr-Caelestrasz"] = {
 				["encounters"] = 1,
@@ -5272,6 +5423,44 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PRIEST",
 			},
+			["Mäxine-Ragnaros"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Mahva-Dalaran"] = {
+				["encounters"] = 3,
+				["points"] = 280,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						206.8129999998491, -- [2]
+						"Oppressive Atmosphere (DoT) |cFFFF33331,303|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						335.5270000000019, -- [2]
+						"Violent Uproar |cFFFF3333107,375|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Vissertin-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Fishlips-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
 			["Amethÿst-Ragnaros"] = {
 				["encounters"] = 3,
 				["points"] = 300,
@@ -5279,10 +5468,41 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
+			["Björndan-Ragnaros"] = {
+				["encounters"] = 3,
+				["points"] = 280,
+				["deaths"] = {
+					{
+						1, -- [1]
+						166.688000000082, -- [2]
+						"Melee |cFFFF333310,554|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						113.0579999999609, -- [2]
+						"Dark Recital |cFFFF33338,435|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
 			["Dunkslam-Dalaran"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Phinq-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Gettizzedon-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -5300,12 +5520,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Mayuu-Kil'jaeden"] = {
+			["Hootdin-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
 			["Taurinol-Ragnaros"] = {
 				["encounters"] = 3,
@@ -5314,12 +5534,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DRUID",
 			},
-			["Budazrotí-Ragnaros"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Kilshadyssx-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
 			},
 			["Chanitory-Ragnaros"] = {
 				["encounters"] = 3,
@@ -5359,29 +5579,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
-			["Björndan-Ragnaros"] = {
-				["encounters"] = 3,
-				["points"] = 280,
+			["Mayuu-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
-					{
-						1, -- [1]
-						166.688000000082, -- [2]
-						"Melee |cFFFF333310,554|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						113.0579999999609, -- [2]
-						"Dark Recital |cFFFF33338,435|r", -- [3]
-					}, -- [2]
 				},
-				["class"] = "DEATHKNIGHT",
+				["class"] = "MAGE",
 			},
-			["Mäxine-Ragnaros"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Warlockmania"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Murphy-Deathwing"] = {
 				["encounters"] = 3,
@@ -5390,17 +5600,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Hildasan-Caelestrasz"] = {
-				["encounters"] = 1,
-				["points"] = 90,
+			["Zitp-Ragnaros"] = {
+				["encounters"] = 3,
+				["points"] = 300,
 				["deaths"] = {
-					{
-						1, -- [1]
-						76.47700000018813, -- [2]
-						"Wrong Moves (DoT) |cFFFF33337,146|r", -- [3]
-					}, -- [1]
 				},
-				["class"] = "HUNTER",
+				["class"] = "DEATHKNIGHT",
 			},
 			["Schnappss-Ragnaros"] = {
 				["encounters"] = 3,
@@ -5416,27 +5621,17 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Mahva-Dalaran"] = {
-				["encounters"] = 3,
-				["points"] = 280,
-				["class"] = "HUNTER",
+			["Bosathrar-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
-					{
-						1, -- [1]
-						206.8129999998491, -- [2]
-						"Oppressive Atmosphere (DoT) |cFFFF33331,303|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						335.5270000000019, -- [2]
-						"Violent Uproar |cFFFF3333107,375|r", -- [3]
-					}, -- [2]
 				},
+				["class"] = "WARLOCK",
 			},
-			["Remonchikin-Deathwing"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "WARRIOR",
+			["Sumanator-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -5457,12 +5652,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Zitp-Ragnaros"] = {
+			["Budazrotí-Ragnaros"] = {
 				["encounters"] = 3,
 				["points"] = 300,
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+				["class"] = "PRIEST",
 			},
 			["Felizard-LaughingSkull"] = {
 				["encounters"] = 1,
@@ -5493,6 +5688,20 @@ DeathGraphsDBEndurance = {
 			["killed"] = true,
 		},
 		["player_db"] = {
+			["Fishlips-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Bonweewee-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
 			["Fûzylock"] = {
 				["encounters"] = 1,
 				["points"] = 90,
@@ -5506,6 +5715,13 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Lyunara"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Megohface-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "HUNTER",
@@ -5566,6 +5782,18 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
+			["Fäble-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						255.1789999997709, -- [2]
+						"Echoing Annihilation |cFFFF333350,541|r", -- [3]
+					}, -- [1]
+				},
+			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -5581,8 +5809,8 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Toshpriest"] = {
-				["encounters"] = 3,
-				["points"] = 290,
+				["encounters"] = 4,
+				["points"] = 390,
 				["class"] = "PRIEST",
 				["deaths"] = {
 					{
@@ -5646,12 +5874,73 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Vissertin-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Sumanator-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hootdin-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Phinq-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Weedsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Bareförm-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Kilshadyssx-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Available-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
+			},
+			["Gettizzedon-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						190.8609999998007, -- [2]
+						"Wicked Laceration |cFFFF33331,717|r", -- [3]
+					}, -- [1]
+				},
 			},
 			["Yuffa-Kil'jaeden"] = {
 				["encounters"] = 2,
@@ -5682,8 +5971,8 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Warlockmania"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+				["encounters"] = 2,
+				["points"] = 200,
 				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
@@ -5748,10 +6037,10 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Weedsong"] = {
+			["Worthlessimp-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
@@ -5824,6 +6113,13 @@ DeathGraphsDBEndurance = {
 						271.6579999999376, -- [2]
 						"Anima Web (DoT) |cFFFF33334,493|r", -- [3]
 					}, -- [3]
+				},
+			},
+			["Bonweewee-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "ROGUE",
+				["deaths"] = {
 				},
 			},
 			["Marquisdesas-BleedingHollow"] = {
@@ -5963,6 +6259,13 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PALADIN",
 			},
+			["Barepriest-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
 			["Yellowy"] = {
 				["encounters"] = 5,
 				["points"] = 490,
@@ -5996,17 +6299,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Lilsinz-BleedingHollow"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						6, -- [1]
-						382.6950000000652, -- [2]
-						"Container Breach |cFFFF33338,370|r", -- [3]
-					}, -- [1]
-				},
+			["Fäble-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["class"] = "MAGE",
+				["deaths"] = {
+				},
 			},
 			["Jabing-BleedingHollow"] = {
 				["encounters"] = 5,
@@ -6042,6 +6340,46 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Lilsinz-BleedingHollow"] = {
+				["encounters"] = 5,
+				["points"] = 490,
+				["deaths"] = {
+					{
+						6, -- [1]
+						382.6950000000652, -- [2]
+						"Container Breach |cFFFF33338,370|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "MAGE",
+			},
+			["Vissertin-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Selnaesia-Arthas"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Megohface-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Gummybuns"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
 			["Cryptster-Tichondrius"] = {
 				["encounters"] = 4,
 				["points"] = 380,
@@ -6066,9 +6404,47 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Zachatesdota-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						4, -- [1]
+						232.6450000000186, -- [2]
+						"Anima Web (DoT) |cFFFF333317,157|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Wagyubeefz-Barthilas"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
 			["Vaypedh-Illidan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hootdin-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						357.8950000000186, -- [2]
+						"Scorn (DoT) |cFFFF33335,699|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Worthlessimp-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
@@ -6085,16 +6461,11 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
-			["Zachatesdota-Tichondrius"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "ROGUE",
+			["Gettizzedon-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "HUNTER",
 				["deaths"] = {
-					{
-						4, -- [1]
-						232.6450000000186, -- [2]
-						"Anima Web (DoT) |cFFFF333317,157|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Gazettereita-Illidan"] = {
@@ -6121,11 +6492,37 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Warlockmania"] = {
+			["Quiplash-WyrmrestAccord"] = {
 				["encounters"] = 4,
 				["points"] = 400,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Sumanator-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Warlockmania"] = {
+				["encounters"] = 8,
+				["points"] = 800,
 				["class"] = "WARLOCK",
 				["deaths"] = {
+				},
+			},
+			["Weedsong"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						64.26699999999255, -- [2]
+						"Desolation (DoT) |cFFFF33332,739|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Herbkek-Illidan"] = {
@@ -6147,35 +6544,35 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Amenop"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Hunterita"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "HUNTER",
+			["Couepie-Darkspear"] = {
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
 					{
-						2, -- [1]
-						173.6010000000242, -- [2]
-						"Fall of the Unworthy |cFFFF33332,285,480|r", -- [3]
+						6, -- [1]
+						292.8390000001527, -- [2]
+						"Anima Web (DoT) |cFFFF333317,216|r", -- [3]
 					}, -- [1]
 				},
+				["class"] = "DEATHKNIGHT",
 			},
-			["Weedsong"] = {
+			["Fûzylock"] = {
 				["encounters"] = 4,
 				["points"] = 390,
-				["class"] = "DRUID",
+				["class"] = "WARLOCK",
 				["deaths"] = {
 					{
-						1, -- [1]
-						64.26699999999255, -- [2]
-						"Desolation (DoT) |cFFFF33332,739|r", -- [3]
+						4, -- [1]
+						106.2089999999735, -- [2]
+						"Feeding Time |cFFFF333317,214|r", -- [3]
 					}, -- [1]
+				},
+			},
+			["Juuzz-Barthilas"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
 				},
 			},
 			["Myrellia-Tichondrius"] = {
@@ -6185,17 +6582,17 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Udderbutterr-Illidan"] = {
+			["Beankahn-Zul'jin"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "WARRIOR",
+				["class"] = "SHAMAN",
 				["deaths"] = {
 				},
 			},
-			["Juuzz-Barthilas"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEMONHUNTER",
+			["Kilshadyssx-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
 			},
@@ -6218,146 +6615,32 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Hyzenthlay-Stormscale"] = {
-				["encounters"] = 2,
-				["points"] = 200,
+			["Hydrofoil-Tichondrius"] = {
+				["encounters"] = 3,
+				["points"] = 260,
 				["class"] = "PRIEST",
 				["deaths"] = {
+					{
+						1, -- [1]
+						167.4820000000764, -- [2]
+						"Fall of the Unworthy |cFFFF33332,511,906|r", -- [3]
+					}, -- [1]
+					{
+						2, -- [1]
+						172.9599999999628, -- [2]
+						"Fall of the Unworthy |cFFFF33332,511,905|r", -- [3]
+					}, -- [2]
+					{
+						2, -- [1]
+						395.1899999999441, -- [2]
+						"Massacre |cFFFF333315,510|r", -- [3]
+					}, -- [3]
 				},
 			},
 			["Fishy-Mal'Ganis"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Havgor-Barthilas"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Bondjames-Illidan"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Asunachann-Barthilas"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Yunix-Illidan"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Fûzylock"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-					{
-						4, -- [1]
-						106.2089999999735, -- [2]
-						"Feeding Time |cFFFF333317,214|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Lyunara"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Wagyubeefz-Barthilas"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Quiplash-WyrmrestAccord"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Lashz-Illidan"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Yawman-Illidan"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-				},
-			},
-			["Bilchpump-BleedingHollow"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						10, -- [1]
-						153.5350000000326, -- [2]
-						"Volatile Ejection |cFFFF333333,031|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Yukiox"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Mèlynx-Mal'Ganis"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
-			["Flobrew-Illidan"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Evanpal"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Dahd-LaughingSkull"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "WARRIOR",
-				["deaths"] = {
-				},
-			},
-			["Plantdaddý-Illidan"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -6368,17 +6651,151 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Ereec-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+			["Bondjames-Illidan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
+			},
+			["Kaosreborn-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Yunix-Illidan"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Zakàth-Zul'jin"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Lyunara"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Fishlips-Tichondrius"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						180.7679999999236, -- [2]
+						"Anima Web |cFFFF333317,088|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Phinq-Barthilas"] = {
+				["encounters"] = 4,
+				["points"] = 390,
 				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						377.4189999999944, -- [2]
+						"Indignation (DoT) |cFFFF33335,744|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Lashz-Illidan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Nv"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						2, -- [1]
+						148.3069999999716, -- [2]
+						"Fall of the Unworthy |cFFFF33332,030,092|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Mèlynx-Mal'Ganis"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Yukiox"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Dahd-LaughingSkull"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Ciroy"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Evanpal"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Yawman-Illidan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Plantdaddý-Illidan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
 			},
 			["Creepka-Illidan"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Asunachann-Barthilas"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Thunderrz"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -6389,11 +6806,21 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Drogybear-Illidan"] = {
+			["Seveñends-BleedingHollow"] = {
 				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "ROGUE",
+				["points"] = 180,
+				["class"] = "WARRIOR",
 				["deaths"] = {
+					{
+						9, -- [1]
+						52.97800000000279, -- [2]
+						"Volatile Ejection |cFFFF333332,595|r", -- [3]
+					}, -- [1]
+					{
+						10, -- [1]
+						90.32200000004377, -- [2]
+						"Volatile Ejection |cFFFF333331,904|r", -- [3]
+					}, -- [2]
 				},
 			},
 			["Rathux"] = {
@@ -6403,16 +6830,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Selnaesia-Arthas"] = {
-				["encounters"] = 5,
-				["points"] = 500,
+			["Drogybear-Illidan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "ROGUE",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
 			},
 			["Toshpriest"] = {
-				["encounters"] = 18,
-				["points"] = 1750,
+				["encounters"] = 22,
+				["points"] = 2150,
 				["class"] = "PRIEST",
 				["deaths"] = {
 					{
@@ -6456,6 +6883,23 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Xknight-Malorne"] = {
+				["encounters"] = 2,
+				["points"] = 180,
+				["deaths"] = {
+					{
+						8, -- [1]
+						272.1929999999702, -- [2]
+						"Anima Web (DoT) |cFFFF33338,581|r", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						281.1399999998976, -- [2]
+						"Anima Web (DoT) |cFFFF333319,308|r", -- [3]
+					}, -- [2]
+				},
+				["class"] = "DEATHKNIGHT",
+			},
 			["Yuffa-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 90,
@@ -6467,28 +6911,6 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 				["class"] = "PRIEST",
-			},
-			["Hydrofoil-Tichondrius"] = {
-				["encounters"] = 3,
-				["points"] = 260,
-				["class"] = "PRIEST",
-				["deaths"] = {
-					{
-						1, -- [1]
-						167.4820000000764, -- [2]
-						"Fall of the Unworthy |cFFFF33332,511,906|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						172.9599999999628, -- [2]
-						"Fall of the Unworthy |cFFFF33332,511,905|r", -- [3]
-					}, -- [2]
-					{
-						2, -- [1]
-						395.1899999999441, -- [2]
-						"Massacre |cFFFF333315,510|r", -- [3]
-					}, -- [3]
-				},
 			},
 			["Wilwar"] = {
 				["encounters"] = 4,
@@ -6523,11 +6945,16 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Thunderrz"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "HUNTER",
+			["Sci"] = {
+				["encounters"] = 4,
+				["points"] = 390,
+				["class"] = "PALADIN",
 				["deaths"] = {
+					{
+						4, -- [1]
+						158.2280000000028, -- [2]
+						"Fall of the Unworthy |cFFFF33331,722,896|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Scitron-Kil'jaeden"] = {
@@ -6537,10 +6964,10 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "SHAMAN",
 			},
-			["Ciroy"] = {
+			["Hyzenthlay-Stormscale"] = {
 				["encounters"] = 2,
 				["points"] = 200,
-				["class"] = "MONK",
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
 			},
@@ -6563,17 +6990,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Sci"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "PALADIN",
+			["Ereec-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
 				["deaths"] = {
-					{
-						4, -- [1]
-						158.2280000000028, -- [2]
-						"Fall of the Unworthy |cFFFF33331,722,896|r", -- [3]
-					}, -- [1]
 				},
+				["class"] = "DRUID",
 			},
 			["Daelel-Ravencrest"] = {
 				["encounters"] = 1,
@@ -6594,22 +7016,22 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Adanas-Zul'jin"] = {
-				["encounters"] = 5,
-				["points"] = 490,
+			["Bilchpump-BleedingHollow"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
-						7, -- [1]
-						201.1849999998231, -- [2]
-						"Anima Web (DoT) |cFFFF333316,931|r", -- [3]
+						10, -- [1]
+						153.5350000000326, -- [2]
+						"Volatile Ejection |cFFFF333333,031|r", -- [3]
 					}, -- [1]
 				},
-				["class"] = "SHAMAN",
 			},
-			["Beankahn-Zul'jin"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "SHAMAN",
+			["Bareförm-Tichondrius"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -6651,24 +7073,24 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Gummybuns"] = {
-				["encounters"] = 5,
-				["points"] = 500,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Nv"] = {
-				["encounters"] = 4,
-				["points"] = 390,
-				["class"] = "DRUID",
+			["Hunterita"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "HUNTER",
 				["deaths"] = {
 					{
 						2, -- [1]
-						148.3069999999716, -- [2]
-						"Fall of the Unworthy |cFFFF33332,030,092|r", -- [3]
+						173.6010000000242, -- [2]
+						"Fall of the Unworthy |cFFFF33332,285,480|r", -- [3]
 					}, -- [1]
 				},
+			},
+			["Havgor-Barthilas"] = {
+				["encounters"] = 5,
+				["points"] = 500,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
 			},
 			["Adeno"] = {
 				["encounters"] = 4,
@@ -6677,22 +7099,17 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Seveñends-BleedingHollow"] = {
-				["encounters"] = 2,
-				["points"] = 180,
-				["class"] = "WARRIOR",
+			["Adanas-Zul'jin"] = {
+				["encounters"] = 5,
+				["points"] = 490,
 				["deaths"] = {
 					{
-						9, -- [1]
-						52.97800000000279, -- [2]
-						"Volatile Ejection |cFFFF333332,595|r", -- [3]
+						7, -- [1]
+						201.1849999998231, -- [2]
+						"Anima Web (DoT) |cFFFF333316,931|r", -- [3]
 					}, -- [1]
-					{
-						10, -- [1]
-						90.32200000004377, -- [2]
-						"Volatile Ejection |cFFFF333331,904|r", -- [3]
-					}, -- [2]
 				},
+				["class"] = "SHAMAN",
 			},
 			["Moonrite"] = {
 				["encounters"] = 4,
@@ -6708,12 +7125,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "HUNTER",
 			},
-			["Zakàth-Zul'jin"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+			["Amenop"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+			},
+			["Flobrew-Illidan"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
 			},
 			["Darkybm"] = {
 				["encounters"] = 5,
@@ -6721,18 +7145,6 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 				["class"] = "HUNTER",
-			},
-			["Couepie-Darkspear"] = {
-				["encounters"] = 5,
-				["points"] = 490,
-				["deaths"] = {
-					{
-						6, -- [1]
-						292.8390000001527, -- [2]
-						"Anima Web (DoT) |cFFFF333317,216|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Thedrunker-BurningBlade"] = {
 				["encounters"] = 5,
@@ -6755,22 +7167,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Xknight-Malorne"] = {
+			["Udderbutterr-Illidan"] = {
 				["encounters"] = 2,
-				["points"] = 180,
+				["points"] = 200,
+				["class"] = "WARRIOR",
 				["deaths"] = {
-					{
-						8, -- [1]
-						272.1929999999702, -- [2]
-						"Anima Web (DoT) |cFFFF33338,581|r", -- [3]
-					}, -- [1]
-					{
-						9, -- [1]
-						281.1399999998976, -- [2]
-						"Anima Web (DoT) |cFFFF333319,308|r", -- [3]
-					}, -- [2]
 				},
-				["class"] = "DEATHKNIGHT",
 			},
 		},
 		["diff"] = 14,
@@ -8403,24 +8805,12 @@ DeathGraphsDBEndurance = {
 			["killed"] = true,
 		},
 		["player_db"] = {
-			["Auk-Exodar"] = {
+			["Fishlips-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "SHAMAN",
-			},
-			["Shennks-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						201.4290000000037, -- [2]
-						"Burning Remnants (DoT) |cFFFF33335,497|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "DEMONHUNTER",
 			},
 			["Nevy-Zul'jin"] = {
 				["encounters"] = 1,
@@ -8434,13 +8824,6 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "PRIEST",
 			},
-			["Pyromartyr-Caelestrasz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
 			["Hildasan-Caelestrasz"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -8448,31 +8831,19 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "HUNTER",
 			},
-			["Andodruid-Alexstrasza"] = {
+			["Barepriest-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PRIEST",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
-			["Kaniki-Zul'jin"] = {
+			["Hootdin-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "PALADIN",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
-			},
-			["Camman-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						361.1340000000782, -- [2]
-						"Ember Blast |cFFFF333347,662|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARRIOR",
 			},
 			["Imcilantro-Bladefist"] = {
 				["encounters"] = 1,
@@ -8488,12 +8859,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Toshpriest"] = {
+			["Andodruid-Alexstrasza"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "PRIEST",
+				["class"] = "DRUID",
 			},
 			["Megaerah-Tichondrius"] = {
 				["encounters"] = 1,
@@ -8508,6 +8879,128 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 				["class"] = "MAGE",
+			},
+			["Shennks-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						201.4290000000037, -- [2]
+						"Burning Remnants (DoT) |cFFFF33335,497|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "DEMONHUNTER",
+			},
+			["Kilshadyssx-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Gettizzedon-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Megohface-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Phinq-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Worthlessimp-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Bonweewee-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Warlockmania"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Vissertin-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Fäble-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Sumanator-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Auk-Exodar"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Camman-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["deaths"] = {
+					{
+						1, -- [1]
+						361.1340000000782, -- [2]
+						"Ember Blast |cFFFF333347,662|r", -- [3]
+					}, -- [1]
+				},
+				["class"] = "WARRIOR",
+			},
+			["Toshpriest"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Pyromartyr-Caelestrasz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Kaniki-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
 			},
 			["Felizard-LaughingSkull"] = {
 				["encounters"] = 1,
@@ -8524,28 +9017,23 @@ DeathGraphsDBEndurance = {
 		["name"] = "Huntsman Altimor",
 		["id"] = 2418,
 		["player_db"] = {
-			["Oldwetsock-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Ntrinzic-Illidan"] = {
+			["Frostyßoy-WyrmrestAccord"] = {
 				["encounters"] = 6,
-				["points"] = 580,
-				["class"] = "PRIEST",
+				["points"] = 590,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 					{
 						1, -- [1]
-						266.8559999999125, -- [2]
-						"Annihilate |cFFFF333398,676|r", -- [3]
+						167.4199999999255, -- [2]
+						"Withering Touch (DoT) |cFFFF33334,506|r", -- [3]
 					}, -- [1]
-					{
-						5, -- [1]
-						243.9089999999851, -- [2]
-						"Annihilate |cFFFF333398,159|r", -- [3]
-					}, -- [2]
+				},
+			},
+			["Fishlips-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
 				},
 			},
 			["Logozoma-Ragnaros"] = {
@@ -8570,11 +9058,16 @@ DeathGraphsDBEndurance = {
 					}, -- [3]
 				},
 			},
-			["Coonty-Thrall"] = {
-				["encounters"] = 6,
-				["points"] = 600,
-				["class"] = "PRIEST",
+			["Bonweewee-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "ROGUE",
 				["deaths"] = {
+					{
+						1, -- [1]
+						88.59299999987707, -- [2]
+						"Extinction |cFFFF333331,584|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Kelvul-Thrall"] = {
@@ -8591,17 +9084,116 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Cryptster-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
 			["Digopally-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Healblood-Azralon"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Bilchpump-BleedingHollow"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Lickmyfeets-Zul'jin"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+					{
+						4, -- [1]
+						176.7109999998938, -- [2]
+						"Withering Touch (DoT) |cFFFF33334,407|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Zhandu-Barthilas"] = {
+				["encounters"] = 3,
+				["points"] = 270,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						6, -- [1]
+						162.8010000002105, -- [2]
+						"Extinction |cFFFF333331,615|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						242.8230000000913, -- [2]
+						"Annihilate |cFFFF3333105,505|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Toshpriest"] = {
+				["encounters"] = 9,
+				["points"] = 900,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Halfmast-BleedingHollow"] = {
+				["encounters"] = 4,
+				["points"] = 400,
+				["class"] = "MONK",
+				["deaths"] = {
+				},
+			},
+			["Barepriest-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Coonty-Thrall"] = {
+				["encounters"] = 6,
+				["points"] = 600,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Vissertin-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Shodyra-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Myrellia-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Worthlessimp-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Cryptster-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
 			},
@@ -8617,17 +9209,31 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Healblood-Azralon"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "PALADIN",
+			["Oldwetsock-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
-			["Bilchpump-BleedingHollow"] = {
+			["Phinq-Barthilas"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Kilshadyssx-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Bareförm-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -8667,11 +9273,106 @@ DeathGraphsDBEndurance = {
 					}, -- [3]
 				},
 			},
-			["Shodyra-Illidan"] = {
+			["Gettizzedon-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Ntrinzic-Illidan"] = {
+				["encounters"] = 6,
+				["points"] = 580,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						266.8559999999125, -- [2]
+						"Annihilate |cFFFF333398,676|r", -- [3]
+					}, -- [1]
+					{
+						5, -- [1]
+						243.9089999999851, -- [2]
+						"Annihilate |cFFFF333398,159|r", -- [3]
+					}, -- [2]
+				},
+			},
+			["Goopydruid-Thrall"] = {
+				["encounters"] = 6,
+				["points"] = 590,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						2, -- [1]
+						162.6450000000186, -- [2]
+						"Withering Touch (DoT) |cFFFF33334,587|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Thunderchad-Illidan"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "SHAMAN",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
+				},
+			},
+			["Warlockmania"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Lovecakes-Sargeras"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						5, -- [1]
+						243.9089999999851, -- [2]
+						"Annihilate |cFFFF3333105,284|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Megohface-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Arcticfox-Azralon"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Hootdin-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Algernon-LaughingSkull"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Sumanator-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						88.59299999987707, -- [2]
+						"Extinction |cFFFF333324,447|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Chibihulk-Dalaran"] = {
@@ -8691,113 +9392,6 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Goopydruid-Thrall"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						2, -- [1]
-						162.6450000000186, -- [2]
-						"Withering Touch (DoT) |cFFFF33334,587|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Lovecakes-Sargeras"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						5, -- [1]
-						243.9089999999851, -- [2]
-						"Annihilate |cFFFF3333105,284|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Lickmyfeets-Zul'jin"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["class"] = "SHAMAN",
-				["deaths"] = {
-					{
-						4, -- [1]
-						176.7109999998938, -- [2]
-						"Withering Touch (DoT) |cFFFF33334,407|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Thunderchad-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Zhandu-Barthilas"] = {
-				["encounters"] = 3,
-				["points"] = 270,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						6, -- [1]
-						162.8010000002105, -- [2]
-						"Extinction |cFFFF333331,615|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						242.8230000000913, -- [2]
-						"Annihilate |cFFFF3333105,505|r", -- [3]
-					}, -- [2]
-				},
-			},
-			["Arcticfox-Azralon"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Halfmast-BleedingHollow"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "MONK",
-				["deaths"] = {
-				},
-			},
-			["Algernon-LaughingSkull"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Toshpriest"] = {
-				["encounters"] = 7,
-				["points"] = 700,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Myrellia-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Frostyßoy-WyrmrestAccord"] = {
-				["encounters"] = 6,
-				["points"] = 590,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-					{
-						1, -- [1]
-						167.4199999999255, -- [2]
-						"Withering Touch (DoT) |cFFFF33334,506|r", -- [3]
-					}, -- [1]
-				},
-			},
 			["Priestith-Thrall"] = {
 				["encounters"] = 6,
 				["points"] = 590,
@@ -8807,6 +9401,18 @@ DeathGraphsDBEndurance = {
 						1, -- [1]
 						141.5400000000373, -- [2]
 						"Extinction |cFFFF333333,062|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Fäble-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						139.9469999999274, -- [2]
+						"Extinction |cFFFF333331,553|r", -- [3]
 					}, -- [1]
 				},
 			},
@@ -8844,6 +9450,20 @@ DeathGraphsDBEndurance = {
 			["killed"] = true,
 		},
 		["player_db"] = {
+			["Fishlips-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Bonweewee-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
 			["Fûzylock"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -8852,6 +9472,13 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Lyunara"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Megohface-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "HUNTER",
@@ -8912,6 +9539,13 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "ROGUE",
 			},
+			["Fäble-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
 			["Slurpinho"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -8927,10 +9561,15 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Toshpriest"] = {
-				["encounters"] = 3,
-				["points"] = 300,
+				["encounters"] = 4,
+				["points"] = 390,
 				["class"] = "PRIEST",
 				["deaths"] = {
+					{
+						1, -- [1]
+						38.75699999998324, -- [2]
+						"Shattering Chain |cFFFF3333113,044|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Yellowy"] = {
@@ -8987,12 +9626,78 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Bareförm-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Weedsong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Phinq-Barthilas"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Kilshadyssx-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "PRIEST",
+				["deaths"] = {
+					{
+						1, -- [1]
+						234.0879999999888, -- [2]
+						"Destructive Stomp |cFFFF333369,313|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Hootdin-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Worthlessimp-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
 			["Available-Kil'jaeden"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["deaths"] = {
 				},
 				["class"] = "DEATHKNIGHT",
+			},
+			["Gettizzedon-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Vissertin-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						38.7160000000149, -- [2]
+						"Shattering Chain |cFFFF333388,188|r", -- [3]
+					}, -- [1]
+				},
 			},
 			["Alyasta"] = {
 				["encounters"] = 1,
@@ -9016,8 +9721,8 @@ DeathGraphsDBEndurance = {
 				},
 			},
 			["Warlockmania"] = {
-				["encounters"] = 1,
-				["points"] = 100,
+				["encounters"] = 2,
+				["points"] = 200,
 				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
@@ -9072,10 +9777,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Weedsong"] = {
+			["Sumanator-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -9434,1541 +10139,61 @@ DeathGraphsDBCurrent = {
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 30880,
-				["timeofdeath"] = 172.9599999999628,
-				["name"] = "Hydrofoil-Tichondrius",
-				["events"] = {
-					{
-						2, -- [1]
-						95750, -- [2]
-						1, -- [3]
-						1608711794.918, -- [4]
-						0, -- [5]
-						"Gazettereita-Illidan", -- [6]
-					}, -- [1]
-					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1608711578.4, -- [4]
-						0, -- [5]
-						"Asunachann-Barthilas", -- [6]
-					}, -- [2]
-					{
-						false, -- [1]
-						114908, -- [2]
-						746, -- [3]
-						1608711519.657, -- [4]
-						32420, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711519.657, -- [4]
-						32420, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711519.873, -- [4]
-						32420, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						114908, -- [2]
-						856, -- [3]
-						1608711520.599, -- [4]
-						32420, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						326858, -- [2]
-						856, -- [3]
-						1608711520.599, -- [4]
-						32420, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						114908, -- [2]
-						856, -- [3]
-						1608711520.599, -- [4]
-						32420, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						326858, -- [2]
-						856, -- [3]
-						1608711520.599, -- [4]
-						32420, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						114908, -- [2]
-						855, -- [3]
-						1608711520.915, -- [4]
-						32420, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						326858, -- [2]
-						855, -- [3]
-						1608711520.915, -- [4]
-						32420, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						114908, -- [2]
-						746, -- [3]
-						1608711521.68, -- [4]
-						32420, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711521.68, -- [4]
-						32420, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711521.68, -- [4]
-						32420, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						3, -- [2]
-						898, -- [3]
-						1608711522.786, -- [4]
-						31522, -- [5]
-						"Environment (Falling)", -- [6]
-						nil, -- [7]
-						3, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						162530, -- [2]
-						178, -- [3]
-						1608711523.023, -- [4]
-						31700, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						143924, -- [2]
-						6, -- [3]
-						1608711523.464, -- [4]
-						31706, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711523.507, -- [4]
-						31770, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						114908, -- [2]
-						746, -- [3]
-						1608711523.66, -- [4]
-						31770, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711523.66, -- [4]
-						31770, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						143924, -- [2]
-						4, -- [3]
-						1608711524.624, -- [4]
-						31774, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711525.331, -- [4]
-						31838, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711525.647, -- [4]
-						31092, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						191840, -- [2]
-						37, -- [3]
-						1608711526.397, -- [4]
-						31129, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711526.429, -- [4]
-						31129, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711526.429, -- [4]
-						31129, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711527.658, -- [4]
-						30383, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711529.675, -- [4]
-						29637, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711531.652, -- [4]
-						28891, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711533.65, -- [4]
-						28145, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						326700, -- [2]
-						745, -- [3]
-						1608711535.649, -- [4]
-						27400, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711537.643, -- [4]
-						26654, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						4, -- [1]
-						334016, -- [2]
-						1, -- [3]
-						1608711539.443, -- [4]
-						26654, -- [5]
-						"[*] Unworthy", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [33]
-					{
-						true, -- [1]
-						328098, -- [2]
-						2511905, -- [3]
-						1608711546.195, -- [4]
-						1, -- [5]
-						"[*] Fall of the Unworthy", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2485251, -- [10]
-					}, -- [34]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-					}, -- [35]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "2m 52s",
-				["time"] = 1608711546.246,
-			}, -- [1]
-			{
-				["maxhealth"] = 28522,
-				["timeofdeath"] = 173.6010000000242,
-				["name"] = "Hunterita",
-				["events"] = {
-					{
-						false, -- [1]
-						114908, -- [2]
-						893, -- [3]
-						1608711520.743, -- [4]
-						35240, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.743, -- [4]
-						35240, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						114908, -- [2]
-						894, -- [3]
-						1608711520.743, -- [4]
-						35240, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						326858, -- [2]
-						894, -- [3]
-						1608711520.743, -- [4]
-						35240, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						114908, -- [2]
-						894, -- [3]
-						1608711520.743, -- [4]
-						35240, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						326858, -- [2]
-						894, -- [3]
-						1608711520.743, -- [4]
-						35240, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						114908, -- [2]
-						346, -- [3]
-						1608711520.915, -- [4]
-						35240, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						326858, -- [2]
-						894, -- [3]
-						1608711520.915, -- [4]
-						34692, -- [5]
-						"Sire Denathrius", -- [6]
-						346, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.915, -- [4]
-						33799, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						326858, -- [2]
-						894, -- [3]
-						1608711520.915, -- [4]
-						32905, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.915, -- [4]
-						32012, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.915, -- [4]
-						31119, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.915, -- [4]
-						30226, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.915, -- [4]
-						29333, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.915, -- [4]
-						28440, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.989, -- [4]
-						27547, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.989, -- [4]
-						26654, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						326858, -- [2]
-						893, -- [3]
-						1608711520.989, -- [4]
-						25761, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						324202, -- [2]
-						74, -- [3]
-						1608711521.07, -- [4]
-						25835, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						326700, -- [2]
-						389, -- [3]
-						1608711521.68, -- [4]
-						25446, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						326700, -- [2]
-						389, -- [3]
-						1608711523.66, -- [4]
-						25057, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						326700, -- [2]
-						389, -- [3]
-						1608711525.664, -- [4]
-						24668, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711526.429, -- [4]
-						24668, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326700, -- [2]
-						390, -- [3]
-						1608711527.658, -- [4]
-						24278, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						326700, -- [2]
-						389, -- [3]
-						1608711529.675, -- [4]
-						23889, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						326700, -- [2]
-						389, -- [3]
-						1608711531.652, -- [4]
-						23500, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						326700, -- [2]
-						390, -- [3]
-						1608711533.668, -- [4]
-						23311, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326700, -- [2]
-						401, -- [3]
-						1608711535.669, -- [4]
-						22910, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						326700, -- [2]
-						402, -- [3]
-						1608711537.643, -- [4]
-						19401, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						326700, -- [2]
-						335, -- [3]
-						1608711539.669, -- [4]
-						19066, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						334016, -- [2]
-						1, -- [3]
-						1608711540.074, -- [4]
-						19066, -- [5]
-						"[*] Unworthy", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328098, -- [2]
-						2285480, -- [3]
-						1608711546.887, -- [4]
-						1, -- [5]
-						"[*] Fall of the Unworthy", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2266601, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Hunterita", -- [6]
-					}, -- [33]
-				},
-				["class"] = "HUNTER",
-				["timestring"] = "2m 53s",
-				["time"] = 1608711546.887,
-			}, -- [2]
-			{
-				["maxhealth"] = 30880,
-				["timeofdeath"] = 395.1899999999441,
-				["name"] = "Hydrofoil-Tichondrius",
-				["events"] = {
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711760.178, -- [4]
-						32099, -- [5]
-						"Sire Denathrius", -- [6]
-						916, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						323706, -- [2]
-						917, -- [3]
-						1608711760.178, -- [4]
-						30880, -- [5]
-						"Amenop", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						81751, -- [2]
-						31, -- [3]
-						1608711760.358, -- [4]
-						30880, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						119611, -- [2]
-						686, -- [3]
-						1608711760.689, -- [4]
-						30880, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711761.049, -- [4]
-						30880, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						94472, -- [2]
-						2167, -- [3]
-						1608711761.132, -- [4]
-						30880, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						208771, -- [2]
-						1242, -- [3]
-						1608711761.173, -- [4]
-						30880, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1242, -- [3]
-						1608711761.173, -- [4]
-						30880, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						81751, -- [2]
-						554, -- [3]
-						1608711761.418, -- [4]
-						30880, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711762.157, -- [4]
-						29639, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						81751, -- [2]
-						544, -- [3]
-						1608711762.389, -- [4]
-						30183, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						119611, -- [2]
-						344, -- [3]
-						1608711762.536, -- [4]
-						30527, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						143924, -- [2]
-						160, -- [3]
-						1608711762.536, -- [4]
-						30687, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						191840, -- [2]
-						128, -- [3]
-						1608711762.858, -- [4]
-						30815, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711763.157, -- [4]
-						29574, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						145110, -- [2]
-						879, -- [3]
-						1608711763.254, -- [4]
-						30453, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						81751, -- [2]
-						559, -- [3]
-						1608711763.372, -- [4]
-						30880, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711764.151, -- [4]
-						29639, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						52042, -- [2]
-						767, -- [3]
-						1608711764.238, -- [4]
-						30406, -- [5]
-						"Healing Stream Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						119611, -- [2]
-						686, -- [3]
-						1608711764.359, -- [4]
-						30880, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711764.673, -- [4]
-						30880, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711765.161, -- [4]
-						29639, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711766.167, -- [4]
-						28398, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711766.492, -- [4]
-						28462, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						81751, -- [2]
-						734, -- [3]
-						1608711766.666, -- [4]
-						29196, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						143924, -- [2]
-						82, -- [3]
-						1608711767.008, -- [4]
-						29278, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711767.152, -- [4]
-						28037, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						330137, -- [2]
-						15509, -- [3]
-						1608711767.618, -- [4]
-						12528, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						4, -- [1]
-						329906, -- [2]
-						1, -- [3]
-						1608711767.618, -- [4]
-						12528, -- [5]
-						"Sinister Reflection", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						332797, -- [2]
-						1241, -- [3]
-						1608711768.164, -- [4]
-						11287, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711768.305, -- [4]
-						11351, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						330137, -- [2]
-						15510, -- [3]
-						1608711768.437, -- [4]
-						1, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						4159, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						33206, -- [2]
-						1, -- [3]
-						1608711632.999, -- [4]
-						0, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "6m 35s",
-				["time"] = 1608711768.476,
-			}, -- [3]
-			{
-				["maxhealth"] = 26119,
-				["timeofdeath"] = 426.310999999987,
-				["name"] = "Quadrifoglio-Illidan",
-				["events"] = {
-					{
-						true, -- [1]
-						332626, -- [2]
-						6239, -- [3]
-						1608711771.049, -- [4]
-						22564, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						115310, -- [2]
-						4867, -- [3]
-						1608711772.694, -- [4]
-						26356, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						157982, -- [2]
-						875, -- [3]
-						1608711774.285, -- [4]
-						26969, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						157982, -- [2]
-						1903, -- [3]
-						1608711776.172, -- [4]
-						27160, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						157982, -- [2]
-						56, -- [3]
-						1608711776.297, -- [4]
-						27160, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						157982, -- [2]
-						993, -- [3]
-						1608711778.039, -- [4]
-						27160, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						157982, -- [2]
-						85, -- [3]
-						1608711778.278, -- [4]
-						27160, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						157982, -- [2]
-						170, -- [3]
-						1608711780.298, -- [4]
-						28518, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						157982, -- [2]
-						170, -- [3]
-						1608711782.285, -- [4]
-						28518, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						157982, -- [2]
-						85, -- [3]
-						1608711784.284, -- [4]
-						27160, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						320009, -- [2]
-						327, -- [3]
-						1608711785.434, -- [4]
-						27160, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						330627, -- [2]
-						9780, -- [3]
-						1608711785.434, -- [4]
-						17707, -- [5]
-						"Sire Denathrius", -- [6]
-						327, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						157982, -- [2]
-						75, -- [3]
-						1608711786.05, -- [4]
-						17782, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						320751, -- [2]
-						12173, -- [3]
-						1608711790.201, -- [4]
-						27432, -- [5]
-						"Wagyubeefz-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						332626, -- [2]
-						6239, -- [3]
-						1608711795.353, -- [4]
-						21193, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						4, -- [1]
-						332734, -- [2]
-						1, -- [3]
-						1608711799.414, -- [4]
-						21193, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						114908, -- [2]
-						2828, -- [3]
-						1608711799.414, -- [4]
-						21193, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						332734, -- [2]
-						6679, -- [3]
-						1608711799.414, -- [4]
-						17342, -- [5]
-						"Sire Denathrius", -- [6]
-						2828, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						194509, -- [2]
-						1814, -- [3]
-						1608711799.444, -- [4]
-						19156, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						114908, -- [2]
-						0, -- [3]
-						1608711799.444, -- [4]
-						19156, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						3, -- [1]
-						109304, -- [2]
-						1, -- [3]
-						1608711677.432, -- [4]
-						0, -- [5]
-						"Quadrifoglio-Illidan", -- [6]
-					}, -- [21]
-				},
-				["class"] = "HUNTER",
-				["timestring"] = "7m 6s",
-				["time"] = 1608711799.597,
-			}, -- [4]
-			{
-				["maxhealth"] = 48280,
-				["timeofdeath"] = 472.9720000000671,
-				["name"] = "Asarius-Illidan",
+				["maxhealth"] = 44900,
+				["timeofdeath"] = 357.8950000000186,
+				["name"] = "Hootdin-Tichondrius",
 				["events"] = {
 					{
 						2, -- [1]
 						20484, -- [2]
 						1, -- [3]
-						1608711857.221, -- [4]
+						1608776902.062, -- [4]
 						0, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						"Bareförm-Tichondrius", -- [6]
 					}, -- [1]
 					{
-						4, -- [1]
-						332585, -- [2]
-						4, -- [3]
-						1608711840.402, -- [4]
-						35560, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
 						false, -- [1]
-						73921, -- [2]
-						523, -- [3]
-						1608711840.482, -- [4]
-						36083, -- [5]
-						"Herbkek-Illidan", -- [6]
+						183811, -- [2]
+						142, -- [3]
+						1608776893.456, -- [4]
+						36217, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
+					}, -- [2]
+					{
+						false, -- [1]
+						325983, -- [2]
+						760, -- [3]
+						1608776893.715, -- [4]
+						36977, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
 						81751, -- [2]
-						500, -- [3]
-						1608711840.482, -- [4]
-						36583, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
+						146, -- [3]
+						1608776893.735, -- [4]
+						37123, -- [5]
+						"Toshpriest", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [4]
 					{
 						false, -- [1]
-						81269, -- [2]
-						353, -- [3]
-						1608711840.709, -- [4]
-						36936, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						53652, -- [2]
+						153, -- [3]
+						1608776893.754, -- [4]
+						37276, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -10976,95 +10201,95 @@ DeathGraphsDBCurrent = {
 					}, -- [5]
 					{
 						false, -- [1]
-						152261, -- [2]
-						744, -- [3]
-						1608711840.731, -- [4]
-						36936, -- [5]
-						"Asarius-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						332585, -- [2]
-						2223, -- [3]
-						1608711840.731, -- [4]
-						35457, -- [5]
-						"Sire Denathrius", -- [6]
-						744, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						94472, -- [2]
-						985, -- [3]
-						1608711841.315, -- [4]
-						36442, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
+						53652, -- [2]
+						174, -- [3]
+						1608776893.754, -- [4]
+						37450, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [8]
+					}, -- [6]
+					{
+						false, -- [1]
+						337824, -- [2]
+						363, -- [3]
+						1608776893.88, -- [4]
+						37450, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [7]
 					{
 						true, -- [1]
-						332620, -- [2]
-						6841, -- [3]
-						1608711841.404, -- [4]
-						29601, -- [5]
+						186439, -- [2]
+						363, -- [3]
+						1608776893.88, -- [4]
+						37450, -- [5]
+						"Hootdin-Tichondrius", -- [6]
+						nil, -- [7]
+						32, -- [8]
+						true, -- [9]
+						-1, -- [10]
+					}, -- [8]
+					{
+						false, -- [1]
+						337824, -- [2]
+						833, -- [3]
+						1608776894.083, -- [4]
+						37450, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [9]
+					{
+						true, -- [1]
+						332585, -- [2]
+						4559, -- [3]
+						1608776894.083, -- [4]
+						33724, -- [5]
+						"Sire Denathrius", -- [6]
+						833, -- [7]
+						32, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						1, -- [2]
+						8215, -- [3]
+						1608776894.17, -- [4]
+						33724, -- [5]
 						"Sire Denathrius", -- [6]
 						nil, -- [7]
 						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [9]
+					}, -- [11]
 					{
 						4, -- [1]
 						332585, -- [2]
-						5, -- [3]
-						1608711841.404, -- [4]
-						29601, -- [5]
+						9, -- [3]
+						1608776894.204, -- [4]
+						25509, -- [5]
 						"Sire Denathrius", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						26, -- [3]
-						1608711841.578, -- [4]
-						29627, -- [5]
-						"Asarius-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						332585, -- [2]
-						2779, -- [3]
-						1608711841.738, -- [4]
-						26848, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [12]
 					{
 						false, -- [1]
-						145110, -- [2]
-						991, -- [3]
-						1608711842.019, -- [4]
-						27839, -- [5]
-						"Plantdaddý-Illidan", -- [6]
+						183811, -- [2]
+						282, -- [3]
+						1608776894.333, -- [4]
+						25791, -- [5]
+						"Hootdin-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -11072,11 +10297,11 @@ DeathGraphsDBCurrent = {
 					}, -- [13]
 					{
 						false, -- [1]
-						81751, -- [2]
-						498, -- [3]
-						1608711842.202, -- [4]
-						28337, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
+						183811, -- [2]
+						138, -- [3]
+						1608776894.357, -- [4]
+						25929, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -11084,167 +10309,167 @@ DeathGraphsDBCurrent = {
 					}, -- [14]
 					{
 						false, -- [1]
-						73921, -- [2]
-						545, -- [3]
-						1608711842.309, -- [4]
-						28882, -- [5]
-						"Herbkek-Illidan", -- [6]
+						183811, -- [2]
+						140, -- [3]
+						1608776895.009, -- [4]
+						26069, -- [5]
+						"Hootdin-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [15]
 					{
-						true, -- [1]
-						332620, -- [2]
-						7597, -- [3]
-						1608711842.388, -- [4]
-						21285, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						134, -- [3]
+						1608776895.033, -- [4]
+						26203, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						4, -- [1]
-						332585, -- [2]
-						6, -- [3]
-						1608711842.388, -- [4]
-						21285, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
+						0, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [17]
+					}, -- [16]
 					{
 						true, -- [1]
 						332585, -- [2]
-						3335, -- [3]
-						1608711842.743, -- [4]
-						17950, -- [5]
+						5129, -- [3]
+						1608776895.08, -- [4]
+						21074, -- [5]
 						"Sire Denathrius", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [18]
+					}, -- [17]
 					{
 						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711842.743, -- [4]
-						18068, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						81751, -- [2]
+						143, -- [3]
+						1608776895.107, -- [4]
+						21217, -- [5]
+						"Toshpriest", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						true, -- [1]
+						332585, -- [2]
+						5130, -- [3]
+						1608776896.072, -- [4]
+						16087, -- [5]
+						"Sire Denathrius", -- [6]
+						nil, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						143924, -- [2]
-						4, -- [3]
-						1608711842.82, -- [4]
-						18072, -- [5]
-						"Asarius-Illidan", -- [6]
+						183811, -- [2]
+						135, -- [3]
+						1608776896.477, -- [4]
+						16222, -- [5]
+						"Hootdin-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [20]
+					{
+						false, -- [1]
+						183811, -- [2]
+						136, -- [3]
+						1608776896.502, -- [4]
+						16358, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						332585, -- [2]
-						3335, -- [3]
-						1608711843.731, -- [4]
-						14737, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [21]
 					{
-						true, -- [1]
-						332626, -- [2]
-						5556, -- [3]
-						1608711844.001, -- [4]
-						9181, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						281, -- [3]
+						1608776896.521, -- [4]
+						16639, -- [5]
+						"Hootdin-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
 						false, -- [1]
-						143924, -- [2]
-						43, -- [3]
-						1608711844.038, -- [4]
-						9224, -- [5]
-						"Asarius-Illidan", -- [6]
+						183811, -- [2]
+						279, -- [3]
+						1608776896.521, -- [4]
+						16918, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						true, -- [9]
+						false, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
-						true, -- [1]
-						332585, -- [2]
-						3843, -- [3]
-						1608711844.732, -- [4]
-						4941, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						94472, -- [2]
+						282, -- [3]
+						1608776896.877, -- [4]
+						17200, -- [5]
+						"Toshpriest", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
 						false, -- [1]
-						85673, -- [2]
-						18291, -- [3]
-						1608711844.732, -- [4]
-						23232, -- [5]
-						"Asarius-Illidan", -- [6]
-						nil, -- [7]
+						229976, -- [2]
+						457, -- [3]
+						1608776897.068, -- [4]
+						17200, -- [5]
+						"Hootdin-Tichondrius", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [25]
 					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711844.732, -- [4]
-						23350, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						332585, -- [2]
+						5129, -- [3]
+						1608776897.068, -- [4]
+						12528, -- [5]
+						"Sire Denathrius", -- [6]
+						457, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						false, -- [1]
-						119611, -- [2]
-						344, -- [3]
-						1608711844.895, -- [4]
-						23694, -- [5]
-						"Dummyyummy", -- [6]
+						true, -- [1]
+						1, -- [2]
+						12234, -- [3]
+						1608776897.32, -- [4]
+						12528, -- [5]
+						"Sire Denathrius", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
 						false, -- [1]
-						143924, -- [2]
-						3, -- [3]
-						1608711845.269, -- [4]
-						23697, -- [5]
-						"Asarius-Illidan", -- [6]
+						183811, -- [2]
+						137, -- [3]
+						1608776897.344, -- [4]
+						12665, -- [5]
+						"Hootdin-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -11252,881 +10477,187 @@ DeathGraphsDBCurrent = {
 					}, -- [28]
 					{
 						false, -- [1]
-						152261, -- [2]
-						5359, -- [3]
-						1608711845.554, -- [4]
-						23697, -- [5]
-						"Asarius-Illidan", -- [6]
-						true, -- [7]
+						183811, -- [2]
+						140, -- [3]
+						1608776897.344, -- [4]
+						571, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						true, -- [1]
-						330137, -- [2]
-						16008, -- [3]
-						1608711845.554, -- [4]
-						13048, -- [5]
-						"Sinister Reflection", -- [6]
-						5359, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
 						4, -- [1]
-						329906, -- [2]
-						1, -- [3]
-						1608711845.554, -- [4]
-						13048, -- [5]
-						"Sinister Reflection", -- [6]
+						332585, -- [2]
+						10, -- [3]
+						1608776897.366, -- [4]
+						571, -- [5]
+						"Sire Denathrius", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
+					}, -- [30]
+					{
+						false, -- [1]
+						183811, -- [2]
+						141, -- [3]
+						1608776897.563, -- [4]
+						712, -- [5]
+						"Hootdin-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [31]
 					{
-						true, -- [1]
-						332585, -- [2]
-						3843, -- [3]
-						1608711845.734, -- [4]
-						9205, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						276, -- [3]
+						1608776897.563, -- [4]
+						988, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [32]
 					{
 						true, -- [1]
-						330137, -- [2]
-						16008, -- [3]
-						1608711846.229, -- [4]
+						332585, -- [2]
+						5699, -- [3]
+						1608776898.096, -- [4]
 						1, -- [5]
-						"Sinister Reflection", -- [6]
+						"Sire Denathrius", -- [6]
 						nil, -- [7]
 						32, -- [8]
 						false, -- [9]
-						6803, -- [10]
+						4711, -- [10]
 					}, -- [33]
 					{
 						3, -- [1]
 						31850, -- [2]
 						1, -- [3]
-						1608711819.402, -- [4]
+						1608776833.626, -- [4]
 						0, -- [5]
-						"Asarius-Illidan", -- [6]
+						"Hootdin-Tichondrius", -- [6]
 					}, -- [34]
 				},
 				["class"] = "PALADIN",
-				["timestring"] = "7m 52s",
-				["time"] = 1608711846.258,
-			}, -- [5]
+				["timestring"] = "5m 57s",
+				["time"] = 1608776898.096,
+			}, -- [1]
 			{
-				["maxhealth"] = 29000,
-				["timeofdeath"] = 473.9250000000466,
-				["name"] = "Herbkek-Illidan",
+				["maxhealth"] = 31360,
+				["timeofdeath"] = 377.4189999999944,
+				["name"] = "Phinq-Barthilas",
 				["events"] = {
 					{
-						false, -- [1]
-						1064, -- [2]
-						3752, -- [3]
-						1608711824.545, -- [4]
-						30440, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						2, -- [1]
+						20484, -- [2]
+						1, -- [3]
+						1608776927.806, -- [4]
+						0, -- [5]
+						"Vissertin-Tichondrius", -- [6]
 					}, -- [1]
 					{
 						false, -- [1]
-						48438, -- [2]
-						268, -- [3]
-						1608711824.978, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
+						114908, -- [2]
+						6500, -- [3]
+						1608776891.034, -- [4]
+						32940, -- [5]
+						"Toshpriest", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [2]
-					{
-						false, -- [1]
-						207386, -- [2]
-						130, -- [3]
-						1608711825.393, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						162530, -- [2]
-						346, -- [3]
-						1608711825.667, -- [4]
-						30440, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						48438, -- [2]
-						234, -- [3]
-						1608711825.909, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						325041, -- [2]
-						365, -- [3]
-						1608711826.189, -- [4]
-						30440, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						48438, -- [2]
-						447, -- [3]
-						1608711826.844, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						48438, -- [2]
-						213, -- [3]
-						1608711827.78, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						48438, -- [2]
-						403, -- [3]
-						1608711828.729, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						48438, -- [2]
-						381, -- [3]
-						1608711829.657, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						162530, -- [2]
-						180, -- [3]
-						1608711830.451, -- [4]
-						30440, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						48438, -- [2]
-						179, -- [3]
-						1608711830.606, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						162530, -- [2]
-						346, -- [3]
-						1608711831.141, -- [4]
-						30440, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						48438, -- [2]
-						337, -- [3]
-						1608711831.538, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						81751, -- [2]
-						411, -- [3]
-						1608711831.865, -- [4]
-						30440, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						48438, -- [2]
-						113, -- [3]
-						1608711832.236, -- [4]
-						30440, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						94472, -- [2]
-						886, -- [3]
-						1608711832.673, -- [4]
-						31962, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						162530, -- [2]
-						351, -- [3]
-						1608711833.17, -- [4]
-						31962, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1608711835.223, -- [4]
-						31962, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						73921, -- [2]
-						440, -- [3]
-						1608711838.618, -- [4]
-						31962, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						191894, -- [2]
-						2404, -- [3]
-						1608711839.876, -- [4]
-						31962, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						73921, -- [2]
-						851, -- [3]
-						1608711840.455, -- [4]
-						31962, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						119611, -- [2]
-						343, -- [3]
-						1608711841.696, -- [4]
-						31962, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						73921, -- [2]
-						429, -- [3]
-						1608711842.309, -- [4]
-						31962, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						81269, -- [2]
-						349, -- [3]
-						1608711842.602, -- [4]
-						31962, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						320009, -- [2]
-						34, -- [3]
-						1608711844.001, -- [4]
-						31962, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
 					{
 						true, -- [1]
 						332626, -- [2]
-						6248, -- [3]
-						1608711844.001, -- [4]
-						25748, -- [5]
+						6500, -- [3]
+						1608776891.034, -- [4]
+						32940, -- [5]
 						"Sire Denathrius", -- [6]
-						34, -- [7]
+						nil, -- [7]
 						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						321442, -- [2]
-						367, -- [3]
-						1608711844.145, -- [4]
-						26115, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						207386, -- [2]
-						119, -- [3]
-						1608711844.619, -- [4]
-						26269, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711846.615, -- [4]
-						25175, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						332734, -- [2]
-						1, -- [3]
-						1608711847.062, -- [4]
-						25175, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						332734, -- [2]
-						6456, -- [3]
-						1608711847.062, -- [4]
-						18719, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						108271, -- [2]
-						1, -- [3]
-						1608711789.254, -- [4]
-						0, -- [5]
-						"Herbkek-Illidan", -- [6]
-					}, -- [33]
-				},
-				["class"] = "SHAMAN",
-				["timestring"] = "7m 53s",
-				["time"] = 1608711847.211,
-			}, -- [6]
-			{
-				["maxhealth"] = 28886,
-				["timeofdeath"] = 489.8580000000075,
-				["name"] = "Creepka-Illidan",
-				["events"] = {
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711854.893, -- [4]
-						29515, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						329906, -- [2]
-						474, -- [3]
-						1608711855.242, -- [4]
-						29041, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						162530, -- [2]
-						176, -- [3]
-						1608711855.268, -- [4]
-						29217, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
 						false, -- [1]
-						48438, -- [2]
-						347, -- [3]
-						1608711855.332, -- [4]
-						29564, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
+						208771, -- [2]
+						2492, -- [3]
+						1608776914.149, -- [4]
+						32940, -- [5]
+						"Toshpriest", -- [6]
+						true, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						774, -- [2]
-						469, -- [3]
-						1608711855.928, -- [4]
-						30033, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						332626, -- [2]
+						6305, -- [3]
+						1608776914.149, -- [4]
+						29127, -- [5]
+						"Sire Denathrius", -- [6]
+						2492, -- [7]
+						32, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						162530, -- [2]
-						179, -- [3]
-						1608711855.973, -- [4]
-						30212, -- [5]
-						"Dummyyummy", -- [6]
+						183811, -- [2]
+						115, -- [3]
+						1608776915.873, -- [4]
+						29242, -- [5]
+						"Hootdin-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
-						true, -- [1]
-						329906, -- [2]
-						473, -- [3]
-						1608711856.255, -- [4]
-						29739, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						4, -- [1]
+						332734, -- [2]
+						1, -- [3]
+						1608776917.444, -- [4]
+						29242, -- [5]
+						"Sire Denathrius", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [7]
 					{
-						false, -- [1]
-						48438, -- [2]
-						639, -- [3]
-						1608711856.298, -- [4]
-						30378, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						true, -- [1]
+						332734, -- [2]
+						5744, -- [3]
+						1608776917.444, -- [4]
+						23498, -- [5]
+						"Sire Denathrius", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
-						false, -- [1]
-						81751, -- [2]
-						136, -- [3]
-						1608711856.601, -- [4]
-						30514, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						48438, -- [2]
-						137, -- [3]
-						1608711856.694, -- [4]
-						30651, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711856.721, -- [4]
-						30715, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						329906, -- [2]
-						473, -- [3]
-						1608711857.251, -- [4]
-						30242, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						162530, -- [2]
-						358, -- [3]
-						1608711857.316, -- [4]
-						30600, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						158188, -- [2]
-						1147, -- [3]
-						1608711857.828, -- [4]
-						31521, -- [5]
-						"Creepka-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						329906, -- [2]
-						473, -- [3]
-						1608711858.261, -- [4]
-						31363, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						191840, -- [2]
-						129, -- [3]
-						1608711858.55, -- [4]
-						31492, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						162530, -- [2]
-						175, -- [3]
-						1608711858.703, -- [4]
-						31667, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						774, -- [2]
-						428, -- [3]
-						1608711858.754, -- [4]
-						31836, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						320009, -- [2]
-						25, -- [3]
-						1608711859.245, -- [4]
-						30320, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						329906, -- [2]
-						474, -- [3]
-						1608711859.245, -- [4]
-						29871, -- [5]
-						"Sinister Reflection", -- [6]
-						25, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						81269, -- [2]
-						383, -- [3]
-						1608711859.524, -- [4]
-						30254, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						158188, -- [2]
-						1103, -- [3]
-						1608711859.819, -- [4]
-						30320, -- [5]
-						"Creepka-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						127802, -- [2]
-						463, -- [3]
-						1608711859.877, -- [4]
-						30320, -- [5]
-						"Creepka-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						329906, -- [2]
-						473, -- [3]
-						1608711860.277, -- [4]
-						29847, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						191840, -- [2]
-						65, -- [3]
-						1608711860.363, -- [4]
-						29912, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						4, -- [1]
-						327992, -- [2]
-						1, -- [3]
-						1608711860.687, -- [4]
-						29912, -- [5]
-						"Sinister Reflection", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						327992, -- [2]
-						3124, -- [3]
-						1608711861.688, -- [4]
-						26788, -- [5]
-						"Sinister Reflection", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						330627, -- [2]
-						13593, -- [3]
-						1608711862, -- [4]
-						13195, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						158188, -- [2]
-						1103, -- [3]
-						1608711862.808, -- [4]
-						14298, -- [5]
-						"Creepka-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						332797, -- [2]
-						8787, -- [3]
-						1608711863.111, -- [4]
-						5511, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						332797, -- [2]
-						1, -- [3]
-						1608711863.111, -- [4]
-						5511, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						332797, -- [2]
-						8787, -- [3]
-						1608711863.111, -- [4]
-						1, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						3276, -- [10]
-					}, -- [32]
-					{
 						3, -- [1]
-						1856, -- [2]
-						1, -- [3]
-						1608711790.294, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
-						"Creepka-Illidan", -- [6]
-					}, -- [33]
+						"Phinq-Barthilas", -- [6]
+					}, -- [9]
 				},
-				["class"] = "ROGUE",
-				["timestring"] = "8m 9s",
-				["time"] = 1608711863.144,
-			}, -- [7]
+				["class"] = "DRUID",
+				["timestring"] = "6m 17s",
+				["time"] = 1608776917.62,
+			}, -- [2]
 		},
 		["bossname"] = "Sire Denathrius",
 		["bossicon"] = {
@@ -12136,31 +10667,35 @@ DeathGraphsDBCurrent = {
 			0.25, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
 		},
-		["date"] = 1261000.307,
-		["timeelapsed"] = 498.7280000001192,
+		["date"] = 1326105.163,
+		["timeelapsed"] = 436.2700000000186,
 	}, -- [1]
 	{
 		["deaths"] = {
 			{
-				["maxhealth"] = 31320,
-				["timeofdeath"] = 167.1830000001937,
-				["name"] = "Toshpriest",
+				["maxhealth"] = 29896,
+				["timeofdeath"] = 190.8609999998007,
+				["name"] = "Gettizzedon-Tichondrius",
 				["events"] = {
 					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1608711196.381, -- [4]
-						0, -- [5]
-						"Plantdaddý-Illidan", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						137, -- [3]
+						1608776169.724, -- [4]
+						27531, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
 					}, -- [1]
 					{
 						false, -- [1]
-						143924, -- [2]
-						13, -- [3]
-						1608711143.96, -- [4]
-						29163, -- [5]
-						"Toshpriest", -- [6]
+						145110, -- [2]
+						954, -- [3]
+						1608776169.794, -- [4]
+						28485, -- [5]
+						"Vissertin-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12168,11 +10703,11 @@ DeathGraphsDBCurrent = {
 					}, -- [2]
 					{
 						false, -- [1]
-						52042, -- [2]
-						809, -- [3]
-						1608711144.152, -- [4]
-						29972, -- [5]
-						"Healing Stream Totem <Herbkek-Illidan>", -- [6]
+						183811, -- [2]
+						135, -- [3]
+						1608776169.874, -- [4]
+						28620, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12180,35 +10715,35 @@ DeathGraphsDBCurrent = {
 					}, -- [3]
 					{
 						false, -- [1]
-						162530, -- [2]
-						180, -- [3]
-						1608711144.452, -- [4]
-						30152, -- [5]
-						"Dummyyummy", -- [6]
+						48438, -- [2]
+						313, -- [3]
+						1608776169.935, -- [4]
+						28933, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						119611, -- [2]
-						343, -- [3]
-						1608711144.773, -- [4]
-						30495, -- [5]
-						"Dummyyummy", -- [6]
+						true, -- [1]
+						333913, -- [2]
+						1717, -- [3]
+						1608776169.992, -- [4]
+						27216, -- [5]
+						"General Kaal", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711144.931, -- [4]
-						30559, -- [5]
-						"Dummyyummy", -- [6]
+						183811, -- [2]
+						136, -- [3]
+						1608776170.048, -- [4]
+						27352, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12216,47 +10751,47 @@ DeathGraphsDBCurrent = {
 					}, -- [6]
 					{
 						false, -- [1]
-						143924, -- [2]
-						7, -- [3]
-						1608711145.163, -- [4]
-						30566, -- [5]
-						"Toshpriest", -- [6]
+						183811, -- [2]
+						269, -- [3]
+						1608776170.184, -- [4]
+						27621, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [7]
 					{
-						true, -- [1]
-						326700, -- [2]
-						583, -- [3]
-						1608711145.705, -- [4]
-						29983, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						131, -- [3]
+						1608776170.34, -- [4]
+						27484, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [8]
 					{
 						false, -- [1]
-						143924, -- [2]
-						4, -- [3]
-						1608711146.378, -- [4]
-						28559, -- [5]
-						"Toshpriest", -- [6]
+						183811, -- [2]
+						132, -- [3]
+						1608776170.503, -- [4]
+						27616, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [9]
 					{
 						false, -- [1]
-						119611, -- [2]
-						687, -- [3]
-						1608711146.598, -- [4]
-						29246, -- [5]
-						"Dummyyummy", -- [6]
+						183811, -- [2]
+						127, -- [3]
+						1608776170.656, -- [4]
+						27743, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -12264,2725 +10799,289 @@ DeathGraphsDBCurrent = {
 					}, -- [10]
 					{
 						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711146.741, -- [4]
-						29310, -- [5]
-						"Dummyyummy", -- [6]
+						48438, -- [2]
+						297, -- [3]
+						1608776170.786, -- [4]
+						28040, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
-						true, -- [1]
-						326700, -- [2]
-						583, -- [3]
-						1608711147.703, -- [4]
-						28727, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						183811, -- [2]
+						129, -- [3]
+						1608776170.811, -- [4]
+						28169, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
+					{
+						false, -- [1]
+						143924, -- [2]
+						87, -- [3]
+						1608776170.835, -- [4]
+						28256, -- [5]
+						"Gettizzedon-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [13]
+					{
+						false, -- [1]
+						183811, -- [2]
+						126, -- [3]
+						1608776170.944, -- [4]
+						28382, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [14]
+					{
+						false, -- [1]
+						207386, -- [2]
+						154, -- [3]
+						1608776170.986, -- [4]
+						28536, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [15]
+					{
+						false, -- [1]
+						325983, -- [2]
+						694, -- [3]
+						1608776171.009, -- [4]
+						29230, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [16]
+					{
+						false, -- [1]
+						183811, -- [2]
+						129, -- [3]
+						1608776171.119, -- [4]
+						29359, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [17]
+					{
+						false, -- [1]
+						81751, -- [2]
+						134, -- [3]
+						1608776171.244, -- [4]
+						29493, -- [5]
+						"Toshpriest", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [18]
+					{
+						false, -- [1]
+						48438, -- [2]
+						279, -- [3]
+						1608776171.62, -- [4]
+						29772, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [19]
+					{
+						false, -- [1]
+						81751, -- [2]
+						1617, -- [3]
+						1608776171.909, -- [4]
+						31389, -- [5]
+						"Toshpriest", -- [6]
+						nil, -- [7]
+						0, -- [8]
+					}, -- [20]
+					{
+						false, -- [1]
+						225311, -- [2]
+						2007, -- [3]
+						1608776171.991, -- [4]
+						31702, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [21]
+					{
+						true, -- [1]
+						333913, -- [2]
+						1717, -- [3]
+						1608776171.991, -- [4]
+						29985, -- [5]
+						"General Kaal", -- [6]
+						nil, -- [7]
+						1, -- [8]
+						false, -- [9]
+						-1, -- [10]
+					}, -- [22]
 					{
 						false, -- [1]
 						143924, -- [2]
 						22, -- [3]
-						1608711147.991, -- [4]
-						28749, -- [5]
-						"Toshpriest", -- [6]
+						1608776172.054, -- [4]
+						30007, -- [5]
+						"Gettizzedon-Tichondrius", -- [6]
 						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						119611, -- [2]
-						343, -- [3]
-						1608711148.388, -- [4]
-						29092, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						191840, -- [2]
-						128, -- [3]
-						1608711148.567, -- [4]
-						29220, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711148.947, -- [4]
-						29220, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711149.002, -- [4]
-						29220, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						143924, -- [2]
-						3, -- [3]
-						1608711149.62, -- [4]
-						29223, -- [5]
-						"Toshpriest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						326700, -- [2]
-						583, -- [3]
-						1608711149.724, -- [4]
-						28640, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						119611, -- [2]
-						686, -- [3]
-						1608711150.216, -- [4]
-						29326, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711150.395, -- [4]
-						29390, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						143924, -- [2]
-						2, -- [3]
-						1608711150.832, -- [4]
-						29392, -- [5]
-						"Toshpriest", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						326700, -- [2]
-						582, -- [3]
-						1608711151.716, -- [4]
-						28810, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						119611, -- [2]
-						330, -- [3]
-						1608711151.975, -- [4]
-						29140, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711152.221, -- [4]
-						29204, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						191840, -- [2]
-						37, -- [3]
-						1608711153.272, -- [4]
-						29241, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						326700, -- [2]
-						583, -- [3]
-						1608711153.716, -- [4]
-						28658, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326700, -- [2]
-						583, -- [3]
-						1608711155.714, -- [4]
-						28075, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						326700, -- [2]
-						583, -- [3]
-						1608711157.712, -- [4]
-						27492, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						326700, -- [2]
-						583, -- [3]
-						1608711159.694, -- [4]
-						26909, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						326700, -- [2]
-						486, -- [3]
-						1608711161.698, -- [4]
-						26423, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						4, -- [1]
-						334016, -- [2]
-						1, -- [3]
-						1608711161.878, -- [4]
-						26423, -- [5]
-						"[*] Unworthy", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						328098, -- [2]
-						2626227, -- [3]
-						1608711168.66, -- [4]
-						1, -- [5]
-						"[*] Fall of the Unworthy", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2599804, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Toshpriest", -- [6]
-					}, -- [34]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "2m 47s",
-				["time"] = 1608711168.687,
-			}, -- [1]
-			{
-				["maxhealth"] = 29000,
-				["timeofdeath"] = 167.2460000000428,
-				["name"] = "Herbkek-Illidan",
-				["events"] = {
-					{
-						false, -- [1]
-						162530, -- [2]
-						358, -- [3]
-						1608711142.404, -- [4]
-						28660, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						321442, -- [2]
-						367, -- [3]
-						1608711142.488, -- [4]
-						29027, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						162530, -- [2]
-						180, -- [3]
-						1608711143.081, -- [4]
-						29243, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						207386, -- [2]
-						119, -- [3]
-						1608711143.14, -- [4]
-						29362, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						326700, -- [2]
-						563, -- [3]
-						1608711143.699, -- [4]
-						28799, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						191840, -- [2]
-						128, -- [3]
-						1608711143.725, -- [4]
-						28927, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						162530, -- [2]
-						179, -- [3]
-						1608711143.769, -- [4]
-						29106, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						162530, -- [2]
-						360, -- [3]
-						1608711144.452, -- [4]
-						29466, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711145.112, -- [4]
-						29620, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711145.529, -- [4]
-						29684, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						true, -- [1]
-						326700, -- [2]
-						564, -- [3]
-						1608711145.705, -- [4]
-						29120, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711147.103, -- [4]
-						29274, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						191840, -- [2]
-						128, -- [3]
-						1608711147.374, -- [4]
-						29402, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						326700, -- [2]
-						563, -- [3]
-						1608711147.703, -- [4]
-						28839, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711148.947, -- [4]
-						28874, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711149.002, -- [4]
-						28874, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711149.176, -- [4]
-						28938, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						52042, -- [2]
-						805, -- [3]
-						1608711149.641, -- [4]
-						29743, -- [5]
-						"Healing Stream Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						326700, -- [2]
-						563, -- [3]
-						1608711149.694, -- [4]
-						29180, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						191840, -- [2]
-						37, -- [3]
-						1608711150.252, -- [4]
-						27800, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						326700, -- [2]
-						564, -- [3]
-						1608711151.716, -- [4]
-						27270, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						326700, -- [2]
-						563, -- [3]
-						1608711153.696, -- [4]
-						26741, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						81269, -- [2]
-						340, -- [3]
-						1608711154.156, -- [4]
-						27081, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326700, -- [2]
-						563, -- [3]
-						1608711155.714, -- [4]
-						26552, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						207386, -- [2]
-						119, -- [3]
-						1608711156.168, -- [4]
-						26671, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						326700, -- [2]
-						564, -- [3]
-						1608711157.712, -- [4]
-						26141, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711158.19, -- [4]
-						26259, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326700, -- [2]
-						563, -- [3]
-						1608711159.694, -- [4]
-						25730, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711160.182, -- [4]
-						25848, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						326700, -- [2]
-						469, -- [3]
-						1608711161.698, -- [4]
-						25413, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						334016, -- [2]
-						1, -- [3]
-						1608711161.966, -- [4]
-						25413, -- [5]
-						"[*] Unworthy", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328098, -- [2]
-						2210032, -- [3]
-						1608711168.732, -- [4]
-						1, -- [5]
-						"[*] Fall of the Unworthy", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2184517, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Herbkek-Illidan", -- [6]
-					}, -- [33]
-				},
-				["class"] = "SHAMAN",
-				["timestring"] = "2m 47s",
-				["time"] = 1608711168.75,
-			}, -- [2]
-			{
-				["maxhealth"] = 30880,
-				["timeofdeath"] = 167.4820000000764,
-				["name"] = "Hydrofoil-Tichondrius",
-				["events"] = {
-					{
-						true, -- [1]
-						326833, -- [2]
-						356, -- [3]
-						1608711139.247, -- [4]
-						30880, -- [5]
-						"Echo of Sin", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						114908, -- [2]
-						255, -- [3]
-						1608711139.247, -- [4]
-						30880, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						326833, -- [2]
-						356, -- [3]
-						1608711139.247, -- [4]
-						30779, -- [5]
-						"Echo of Sin", -- [6]
-						255, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711139.702, -- [4]
-						30033, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						81751, -- [2]
-						383, -- [3]
-						1608711139.824, -- [4]
-						30416, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						143924, -- [2]
-						10, -- [3]
-						1608711139.884, -- [4]
-						30426, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						81269, -- [2]
-						343, -- [3]
-						1608711141.123, -- [4]
-						30769, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						326833, -- [2]
-						356, -- [3]
-						1608711141.243, -- [4]
-						30413, -- [5]
-						"Echo of Sin", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						143924, -- [2]
-						15, -- [3]
-						1608711141.512, -- [4]
-						30428, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						326700, -- [2]
-						745, -- [3]
-						1608711141.699, -- [4]
-						29683, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						162530, -- [2]
-						361, -- [3]
-						1608711141.699, -- [4]
-						30044, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						52042, -- [2]
-						752, -- [3]
-						1608711142.319, -- [4]
-						30796, -- [5]
-						"Healing Stream Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						207386, -- [2]
-						119, -- [3]
-						1608711143.14, -- [4]
-						30880, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						320009, -- [2]
-						3, -- [3]
-						1608711143.699, -- [4]
-						30880, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711143.699, -- [4]
-						30137, -- [5]
-						"Sire Denathrius", -- [6]
-						3, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						162530, -- [2]
-						180, -- [3]
-						1608711144.452, -- [4]
-						30317, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711145.112, -- [4]
-						30435, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						162530, -- [2]
-						174, -- [3]
-						1608711145.14, -- [4]
-						30609, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						326700, -- [2]
-						745, -- [3]
-						1608711145.705, -- [4]
-						29864, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						207386, -- [2]
-						237, -- [3]
-						1608711147.103, -- [4]
-						30101, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711147.679, -- [4]
-						29355, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711148.947, -- [4]
-						29355, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [22]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711148.947, -- [4]
-						29355, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711149.694, -- [4]
-						28609, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						326700, -- [2]
-						746, -- [3]
-						1608711151.691, -- [4]
-						27863, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						326700, -- [2]
-						769, -- [3]
-						1608711153.696, -- [4]
-						27094, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						326700, -- [2]
-						769, -- [3]
-						1608711155.714, -- [4]
-						26325, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326700, -- [2]
-						769, -- [3]
-						1608711157.689, -- [4]
-						25556, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						326700, -- [2]
-						769, -- [3]
-						1608711159.694, -- [4]
-						24787, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						326700, -- [2]
-						641, -- [3]
-						1608711161.698, -- [4]
-						24146, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						4, -- [1]
-						334016, -- [2]
-						1, -- [3]
-						1608711162.206, -- [4]
-						24146, -- [5]
-						"[*] Unworthy", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328098, -- [2]
-						2511906, -- [3]
-						1608711168.971, -- [4]
-						1, -- [5]
-						"[*] Fall of the Unworthy", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2487760, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Hydrofoil-Tichondrius", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "2m 47s",
-				["time"] = 1608711168.986,
-			}, -- [3]
-			{
-				["maxhealth"] = 27880,
-				["timeofdeath"] = 167.5169999999926,
-				["name"] = "Hyzenthlay-Stormscale",
-				["events"] = {
-					{
-						2, -- [1]
-						20484, -- [2]
-						1, -- [3]
-						1608711177.583, -- [4]
-						0, -- [5]
-						"Plantdaddý-Illidan", -- [6]
-					}, -- [1]
-					{
-						false, -- [1]
-						114908, -- [2]
-						364, -- [3]
-						1608711141.189, -- [4]
-						30744, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						326833, -- [2]
-						364, -- [3]
-						1608711141.189, -- [4]
-						30744, -- [5]
-						"Echo of Sin", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						114908, -- [2]
-						780, -- [3]
-						1608711141.729, -- [4]
-						30744, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						326700, -- [2]
-						780, -- [3]
-						1608711141.729, -- [4]
-						30744, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						61295, -- [2]
-						193, -- [3]
-						1608711142, -- [4]
-						30744, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						114908, -- [2]
-						780, -- [3]
-						1608711143.699, -- [4]
-						30744, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						326700, -- [2]
-						780, -- [3]
-						1608711143.699, -- [4]
-						30744, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						114908, -- [2]
-						780, -- [3]
-						1608711145.705, -- [4]
-						30744, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						326700, -- [2]
-						780, -- [3]
-						1608711145.705, -- [4]
-						30744, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						114908, -- [2]
-						780, -- [3]
-						1608711147.735, -- [4]
-						29280, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						326700, -- [2]
-						780, -- [3]
-						1608711147.735, -- [4]
-						29280, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711148.947, -- [4]
-						29280, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [13]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711149.002, -- [4]
-						29280, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						114908, -- [2]
-						781, -- [3]
-						1608711149.694, -- [4]
-						30744, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						326700, -- [2]
-						781, -- [3]
-						1608711149.694, -- [4]
-						30744, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						114908, -- [2]
-						781, -- [3]
-						1608711151.716, -- [4]
-						30744, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						326700, -- [2]
-						781, -- [3]
-						1608711151.716, -- [4]
-						30744, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						326700, -- [2]
-						804, -- [3]
-						1608711153.716, -- [4]
-						29940, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						143924, -- [2]
-						57, -- [3]
-						1608711154.078, -- [4]
-						29997, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						326700, -- [2]
-						804, -- [3]
-						1608711155.714, -- [4]
-						29193, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						143924, -- [2]
-						12, -- [3]
-						1608711155.714, -- [4]
-						29205, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						143924, -- [2]
-						25, -- [3]
-						1608711157.325, -- [4]
-						29230, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						326700, -- [2]
-						805, -- [3]
-						1608711157.712, -- [4]
-						28425, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						143924, -- [2]
-						15, -- [3]
-						1608711158.954, -- [4]
-						28440, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						326700, -- [2]
-						805, -- [3]
-						1608711159.694, -- [4]
-						27635, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						143924, -- [2]
-						8, -- [3]
-						1608711160.972, -- [4]
-						27643, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						326700, -- [2]
-						670, -- [3]
-						1608711161.698, -- [4]
-						25656, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						4, -- [1]
-						334016, -- [2]
-						1, -- [3]
-						1608711162.229, -- [4]
-						25656, -- [5]
-						"[*] Unworthy", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						143924, -- [2]
-						8, -- [3]
-						1608711162.607, -- [4]
-						25664, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						143924, -- [2]
-						15, -- [3]
-						1608711164.244, -- [4]
-						25679, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						false, -- [1]
-						143924, -- [2]
-						6, -- [3]
-						1608711165.452, -- [4]
-						25685, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [32]
-					{
-						true, -- [1]
-						328098, -- [2]
-						2641691, -- [3]
-						1608711169.007, -- [4]
-						1, -- [5]
-						"[*] Fall of the Unworthy", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2616006, -- [10]
-					}, -- [33]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Hyzenthlay-Stormscale", -- [6]
-					}, -- [34]
-				},
-				["class"] = "PRIEST",
-				["timestring"] = "2m 47s",
-				["time"] = 1608711169.021,
-			}, -- [4]
-			{
-				["maxhealth"] = 28240,
-				["timeofdeath"] = 167.7170000001788,
-				["name"] = "Hunterita",
-				["events"] = {
-					{
-						false, -- [1]
-						114908, -- [2]
-						755, -- [3]
-						1608711141.729, -- [4]
-						35542, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						true, -- [1]
-						326700, -- [2]
-						778, -- [3]
-						1608711141.729, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711142.971, -- [4]
-						35542, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711143.292, -- [4]
-						35542, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						320009, -- [2]
-						11, -- [3]
-						1608711143.725, -- [4]
-						35542, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						114908, -- [2]
-						767, -- [3]
-						1608711143.725, -- [4]
-						35542, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						true, -- [1]
-						326700, -- [2]
-						778, -- [3]
-						1608711143.725, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711144.817, -- [4]
-						35542, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711145.276, -- [4]
-						35542, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						320009, -- [2]
-						11, -- [3]
-						1608711145.734, -- [4]
-						35542, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						114908, -- [2]
-						768, -- [3]
-						1608711145.734, -- [4]
-						35542, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
 						0, -- [8]
 						true, -- [9]
 						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						326700, -- [2]
-						779, -- [3]
-						1608711145.734, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711146.632, -- [4]
-						35542, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						114908, -- [2]
-						779, -- [3]
-						1608711147.735, -- [4]
-						35542, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						326700, -- [2]
-						779, -- [3]
-						1608711147.735, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711148.437, -- [4]
-						35542, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711148.947, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [17]
-					{
-						4, -- [1]
-						328276, -- [2]
-						1, -- [3]
-						1608711149.002, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						191840, -- [2]
-						37, -- [3]
-						1608711149.503, -- [4]
-						35542, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						114908, -- [2]
-						779, -- [3]
-						1608711149.694, -- [4]
-						35542, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						true, -- [1]
-						326700, -- [2]
-						779, -- [3]
-						1608711149.694, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						114908, -- [2]
-						779, -- [3]
-						1608711151.716, -- [4]
-						35542, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						326700, -- [2]
-						779, -- [3]
-						1608711151.716, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [23]
 					{
 						false, -- [1]
-						114908, -- [2]
-						779, -- [3]
-						1608711153.716, -- [4]
-						35542, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						262, -- [3]
+						1608776172.491, -- [4]
+						30269, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
-						true, -- [1]
-						326700, -- [2]
-						779, -- [3]
-						1608711153.716, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						207386, -- [2]
+						154, -- [3]
+						1608776173.005, -- [4]
+						30423, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [25]
 					{
 						false, -- [1]
-						114908, -- [2]
-						803, -- [3]
-						1608711155.714, -- [4]
-						35542, -- [5]
+						94472, -- [2]
+						337, -- [3]
+						1608776173.036, -- [4]
+						30760, -- [5]
 						"Toshpriest", -- [6]
-						true, -- [7]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
-						true, -- [1]
-						326700, -- [2]
-						803, -- [3]
-						1608711155.714, -- [4]
-						35542, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						143924, -- [2]
+						14, -- [3]
+						1608776173.235, -- [4]
+						30774, -- [5]
+						"Gettizzedon-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						true, -- [1]
-						326700, -- [2]
-						802, -- [3]
-						1608711157.712, -- [4]
-						34740, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						774, -- [2]
+						555, -- [3]
+						1608776173.327, -- [4]
+						31329, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
+						0, -- [8]
 					}, -- [28]
 					{
-						true, -- [1]
-						326700, -- [2]
-						802, -- [3]
-						1608711159.72, -- [4]
-						33347, -- [5]
-						"Sire Denathrius", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						245, -- [3]
+						1608776173.354, -- [4]
+						31574, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [29]
 					{
-						true, -- [1]
-						326700, -- [2]
-						669, -- [3]
-						1608711161.698, -- [4]
-						28078, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
 						4, -- [1]
-						334016, -- [2]
+						333377, -- [2]
 						1, -- [3]
-						1608711162.437, -- [4]
-						28078, -- [5]
-						"[*] Unworthy", -- [6]
+						1608776173.661, -- [4]
+						31574, -- [5]
+						"General Kaal", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
+					}, -- [30]
+					{
+						true, -- [1]
+						339728, -- [2]
+						30044, -- [3]
+						1608776173.727, -- [4]
+						1530, -- [5]
+						"General Grashaal", -- [6]
+						nil, -- [7]
+						8, -- [8]
+						false, -- [9]
+						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						328098, -- [2]
-						2285480, -- [3]
-						1608711169.204, -- [4]
+						333913, -- [2]
+						1717, -- [3]
+						1608776174.003, -- [4]
 						1, -- [5]
-						"[*] Fall of the Unworthy", -- [6]
+						"General Kaal", -- [6]
 						nil, -- [7]
 						1, -- [8]
 						false, -- [9]
-						2257402, -- [10]
+						497, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
-						109304, -- [2]
-						1, -- [3]
-						1608711108.957, -- [4]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
 						0, -- [5]
-						"Hunterita", -- [6]
+						"Gettizzedon-Tichondrius", -- [6]
 					}, -- [33]
 				},
 				["class"] = "HUNTER",
-				["timestring"] = "2m 47s",
-				["time"] = 1608711169.221,
-			}, -- [5]
+				["timestring"] = "3m 10s",
+				["time"] = 1608776174.021,
+			}, -- [1]
 			{
-				["maxhealth"] = 48280,
-				["timeofdeath"] = 209.7340000001714,
-				["name"] = "Asarius-Illidan",
+				["maxhealth"] = 29740,
+				["timeofdeath"] = 255.1789999997709,
+				["name"] = "Fäble-Tichondrius",
 				["events"] = {
 					{
 						false, -- [1]
-						191840, -- [2]
-						128, -- [3]
-						1608711205.462, -- [4]
-						31213, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						143924, -- [2]
-						41, -- [3]
-						1608711205.517, -- [4]
-						31254, -- [5]
-						"Asarius-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						329785, -- [2]
-						1109, -- [3]
-						1608711205.616, -- [4]
-						30145, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						152261, -- [2]
-						77, -- [3]
-						1608711205.64, -- [4]
-						30145, -- [5]
-						"Asarius-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						true, -- [1]
-						186439, -- [2]
-						234, -- [3]
-						1608711205.64, -- [4]
-						29988, -- [5]
-						"Asarius-Illidan", -- [6]
-						77, -- [7]
-						32, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						1, -- [2]
-						12232, -- [3]
-						1608711205.662, -- [4]
-						29988, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						4, -- [1]
-						329906, -- [2]
-						5, -- [3]
-						1608711205.71, -- [4]
-						17756, -- [5]
-						"Remornia", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						329906, -- [2]
-						3328, -- [3]
-						1608711205.978, -- [4]
-						14428, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						48438, -- [2]
-						210, -- [3]
-						1608711206.391, -- [4]
-						14638, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						191840, -- [2]
-						75, -- [3]
-						1608711206.533, -- [4]
-						14713, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						143924, -- [2]
-						21, -- [3]
-						1608711206.705, -- [4]
-						14734, -- [5]
-						"Asarius-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						329906, -- [2]
-						3328, -- [3]
-						1608711206.983, -- [4]
-						10704, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						48438, -- [2]
-						196, -- [3]
-						1608711207.329, -- [4]
-						10900, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						85673, -- [2]
-						16766, -- [3]
-						1608711207.402, -- [4]
-						27666, -- [5]
-						"Asarius-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						false, -- [1]
-						152261, -- [2]
-						371, -- [3]
-						1608711207.629, -- [4]
-						29049, -- [5]
-						"Asarius-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						17, -- [2]
-						738, -- [3]
-						1608711207.629, -- [4]
-						29049, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						true, -- [1]
-						329785, -- [2]
-						1109, -- [3]
-						1608711207.629, -- [4]
-						29049, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						143924, -- [2]
-						16, -- [3]
-						1608711207.944, -- [4]
-						29065, -- [5]
-						"Asarius-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						17, -- [2]
-						2422, -- [3]
-						1608711207.994, -- [4]
-						29065, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						true, -- [1]
-						329906, -- [2]
-						3328, -- [3]
-						1608711207.994, -- [4]
-						28159, -- [5]
-						"Remornia", -- [6]
-						2422, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1608711207.994, -- [4]
-						28159, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						48438, -- [2]
-						182, -- [3]
-						1608711208.269, -- [4]
-						28341, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						774, -- [2]
-						469, -- [3]
-						1608711208.575, -- [4]
-						28810, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						true, -- [1]
-						1, -- [2]
-						16842, -- [3]
-						1608711208.756, -- [4]
-						28810, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						true, -- [1]
-						329906, -- [2]
-						3328, -- [3]
-						1608711208.975, -- [4]
-						8640, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						48438, -- [2]
-						182, -- [3]
-						1608711209.22, -- [4]
-						8822, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						48438, -- [2]
-						78, -- [3]
-						1608711209.635, -- [4]
-						8479, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						329785, -- [2]
-						853, -- [3]
-						1608711209.635, -- [4]
-						7626, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						73921, -- [2]
-						581, -- [3]
-						1608711209.954, -- [4]
-						8207, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [29]
-					{
-						true, -- [1]
-						329906, -- [2]
-						2560, -- [3]
-						1608711209.994, -- [4]
-						5647, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						329906, -- [2]
-						2560, -- [3]
-						1608711210.975, -- [4]
-						3087, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						328936, -- [2]
-						6078, -- [3]
-						1608711211.207, -- [4]
-						1, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						2991, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						31850, -- [2]
-						1, -- [3]
-						1608711185.295, -- [4]
-						0, -- [5]
-						"Asarius-Illidan", -- [6]
-					}, -- [33]
-				},
-				["class"] = "PALADIN",
-				["timestring"] = "3m 29s",
-				["time"] = 1608711211.238,
-			}, -- [6]
-			{
-				["maxhealth"] = 32820,
-				["timeofdeath"] = 213.0700000000652,
-				["name"] = "Gazettereita-Illidan",
-				["events"] = {
-					{
-						false, -- [1]
-						73921, -- [2]
-						470, -- [3]
-						1608711206.266, -- [4]
-						25868, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						191840, -- [2]
-						1451, -- [3]
-						1608711206.321, -- [4]
-						27319, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						205179, -- [2]
-						383, -- [3]
-						1608711207.194, -- [4]
-						26401, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						false, -- [1]
-						205246, -- [2]
+						8936, -- [2]
 						160, -- [3]
-						1608711207.225, -- [4]
-						26561, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						191840, -- [2]
-						734, -- [3]
-						1608711207.26, -- [4]
-						27295, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						207386, -- [2]
-						237, -- [3]
-						1608711207.36, -- [4]
-						27532, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						108366, -- [2]
-						760, -- [3]
-						1608711207.78, -- [4]
-						27532, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						true, -- [1]
-						329785, -- [2]
-						1084, -- [3]
-						1608711207.78, -- [4]
-						27208, -- [5]
-						"Crimson Cabalist", -- [6]
-						760, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711208.149, -- [4]
-						27272, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						127802, -- [2]
-						393, -- [3]
-						1608711208.219, -- [4]
-						27665, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						205179, -- [2]
-						191, -- [3]
-						1608711208.575, -- [4]
-						29239, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						205246, -- [2]
-						159, -- [3]
-						1608711208.575, -- [4]
-						29398, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						207386, -- [2]
-						238, -- [3]
-						1608711209.362, -- [4]
-						29636, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						108366, -- [2]
-						548, -- [3]
-						1608711209.775, -- [4]
-						29636, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						329785, -- [2]
-						1084, -- [3]
-						1608711209.775, -- [4]
-						29100, -- [5]
-						"Crimson Cabalist", -- [6]
-						548, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						324202, -- [2]
-						66, -- [3]
-						1608711209.869, -- [4]
-						29166, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						73921, -- [2]
-						428, -- [3]
-						1608711209.954, -- [4]
-						28205, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						205179, -- [2]
-						191, -- [3]
-						1608711209.954, -- [4]
-						28396, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						false, -- [1]
-						205246, -- [2]
-						159, -- [3]
-						1608711209.954, -- [4]
-						28555, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711209.994, -- [4]
-						28619, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						205179, -- [2]
-						191, -- [3]
-						1608711211.327, -- [4]
-						28809, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						108366, -- [2]
-						703, -- [3]
-						1608711211.781, -- [4]
-						28809, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						329785, -- [2]
-						1084, -- [3]
-						1608711211.781, -- [4]
-						28428, -- [5]
-						"Crimson Cabalist", -- [6]
-						703, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711211.781, -- [4]
-						28492, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						205179, -- [2]
-						191, -- [3]
-						1608711212.69, -- [4]
-						28683, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						191840, -- [2]
-						128, -- [3]
-						1608711213.612, -- [4]
-						28811, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						108366, -- [2]
-						555, -- [3]
-						1608711213.78, -- [4]
-						28811, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [27]
-					{
-						true, -- [1]
-						329785, -- [2]
-						1084, -- [3]
-						1608711213.78, -- [4]
-						28282, -- [5]
-						"Crimson Cabalist", -- [6]
-						555, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						205179, -- [2]
-						174, -- [3]
-						1608711214.091, -- [4]
-						28456, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						108366, -- [2]
-						357, -- [3]
-						1608711214.574, -- [4]
-						28456, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						108366, -- [2]
-						0, -- [3]
-						1608711214.574, -- [4]
-						28456, -- [5]
-						"Gazettereita-Illidan", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						330627, -- [2]
-						29275, -- [3]
-						1608711214.574, -- [4]
-						1, -- [5]
-						"Sire Denathrius", -- [6]
-						357, -- [7]
-						32, -- [8]
-						false, -- [9]
-						462, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						0, -- [2]
-						0, -- [3]
-						0, -- [4]
-						0, -- [5]
-						"Gazettereita-Illidan", -- [6]
-					}, -- [33]
-				},
-				["class"] = "WARLOCK",
-				["timestring"] = "3m 33s",
-				["time"] = 1608711214.574,
-			}, -- [7]
-			{
-				["maxhealth"] = 52184,
-				["timeofdeath"] = 220.3960000001825,
-				["name"] = "Udderbutterr-Illidan",
-				["events"] = {
-					{
-						false, -- [1]
-						115175, -- [2]
-						839, -- [3]
-						1608711215.52, -- [4]
-						29137, -- [5]
-						"Dummyyummy", -- [6]
+						1608776228.747, -- [4]
+						22081, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -14990,11 +11089,11 @@ DeathGraphsDBCurrent = {
 					}, -- [1]
 					{
 						false, -- [1]
-						347214, -- [2]
-						57, -- [3]
-						1608711215.52, -- [4]
-						29194, -- [5]
-						"Udderbutterr-Illidan", -- [6]
+						25914, -- [2]
+						5156, -- [3]
+						1608776228.867, -- [4]
+						27237, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -15002,71 +11101,71 @@ DeathGraphsDBCurrent = {
 					}, -- [2]
 					{
 						false, -- [1]
-						774, -- [2]
-						428, -- [3]
-						1608711215.609, -- [4]
-						29622, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						48438, -- [2]
+						307, -- [3]
+						1608776229.031, -- [4]
+						27544, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [3]
 					{
-						true, -- [1]
-						329785, -- [2]
-						1042, -- [3]
-						1608711215.639, -- [4]
-						28580, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
+						false, -- [1]
+						337824, -- [2]
+						1031, -- [3]
+						1608776229.212, -- [4]
+						27544, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [4]
 					{
-						false, -- [1]
-						316643, -- [2]
-						2849, -- [3]
-						1608711215.711, -- [4]
-						31429, -- [5]
-						"Udderbutterr-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						true, -- [1]
+						333913, -- [2]
+						1476, -- [3]
+						1608776229.212, -- [4]
+						27099, -- [5]
+						"General Kaal", -- [6]
+						1031, -- [7]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [5]
 					{
 						false, -- [1]
-						190456, -- [2]
-						312, -- [3]
-						1608711215.711, -- [4]
-						31429, -- [5]
-						"Udderbutterr-Illidan", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						293, -- [3]
+						1608776229.689, -- [4]
+						27392, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [6]
 					{
-						true, -- [1]
-						329906, -- [2]
-						625, -- [3]
-						1608711215.711, -- [4]
-						31116, -- [5]
-						"Remornia", -- [6]
-						312, -- [7]
-						1, -- [8]
+						false, -- [1]
+						8936, -- [2]
+						160, -- [3]
+						1608776230.053, -- [4]
+						27552, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [7]
 					{
 						false, -- [1]
-						347214, -- [2]
-						57, -- [3]
-						1608711216.532, -- [4]
-						31173, -- [5]
-						"Udderbutterr-Illidan", -- [6]
+						774, -- [2]
+						577, -- [3]
+						1608776230.073, -- [4]
+						28129, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
@@ -15074,1095 +11173,291 @@ DeathGraphsDBCurrent = {
 					}, -- [8]
 					{
 						false, -- [1]
-						190456, -- [2]
-						312, -- [3]
-						1608711216.707, -- [4]
-						31173, -- [5]
-						"Udderbutterr-Illidan", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						280, -- [3]
+						1608776230.338, -- [4]
+						28409, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [9]
 					{
-						true, -- [1]
-						329906, -- [2]
-						625, -- [3]
-						1608711216.707, -- [4]
-						30860, -- [5]
-						"Remornia", -- [6]
-						312, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
 						false, -- [1]
-						119611, -- [2]
-						335, -- [3]
-						1608711216.794, -- [4]
-						31195, -- [5]
-						"Dummyyummy", -- [6]
+						48438, -- [2]
+						266, -- [3]
+						1608776230.987, -- [4]
+						28675, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
+						false, -- [9]
+						false, -- [10]
+					}, -- [10]
+					{
+						true, -- [1]
+						333913, -- [2]
+						1477, -- [3]
+						1608776231.214, -- [4]
+						27198, -- [5]
+						"General Kaal", -- [6]
+						nil, -- [7]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [11]
 					{
 						false, -- [1]
-						347214, -- [2]
-						58, -- [3]
-						1608711217.55, -- [4]
-						31253, -- [5]
-						"Udderbutterr-Illidan", -- [6]
+						8936, -- [2]
+						160, -- [3]
+						1608776231.374, -- [4]
+						27358, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [12]
 					{
-						true, -- [1]
-						1, -- [2]
-						11732, -- [3]
-						1608711217.625, -- [4]
-						31253, -- [5]
-						"Sire Denathrius", -- [6]
-						5525, -- [7]
-						1, -- [8]
-						false, -- [9]
+						false, -- [1]
+						48438, -- [2]
+						253, -- [3]
+						1608776231.639, -- [4]
+						27611, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [13]
 					{
 						false, -- [1]
-						190456, -- [2]
-						521, -- [3]
-						1608711217.625, -- [4]
-						31253, -- [5]
-						"Udderbutterr-Illidan", -- [6]
-						true, -- [7]
+						8936, -- [2]
+						81, -- [3]
+						1608776232.032, -- [4]
+						27692, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [14]
 					{
-						true, -- [1]
-						329785, -- [2]
-						1042, -- [3]
-						1608711217.625, -- [4]
-						30732, -- [5]
-						"Crimson Cabalist", -- [6]
-						521, -- [7]
-						32, -- [8]
+						false, -- [1]
+						774, -- [2]
+						528, -- [3]
+						1608776232.032, -- [4]
+						28220, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
+						0, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [15]
 					{
 						false, -- [1]
-						190456, -- [2]
-						5004, -- [3]
-						1608711217.625, -- [4]
-						30732, -- [5]
-						"Udderbutterr-Illidan", -- [6]
-						true, -- [7]
+						48438, -- [2]
+						219, -- [3]
+						1608776232.3, -- [4]
+						28439, -- [5]
+						"Bareförm-Tichondrius", -- [6]
+						nil, -- [7]
 						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [16]
 					{
-						true, -- [1]
-						329906, -- [2]
-						625, -- [3]
-						1608711217.721, -- [4]
-						23379, -- [5]
-						"Remornia", -- [6]
+						false, -- [1]
+						48438, -- [2]
+						207, -- [3]
+						1608776232.967, -- [4]
+						28646, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [17]
 					{
-						false, -- [1]
-						774, -- [2]
-						428, -- [3]
-						1608711217.933, -- [4]
-						23807, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						true, -- [1]
+						333913, -- [2]
+						1477, -- [3]
+						1608776233.22, -- [4]
+						27169, -- [5]
+						"General Kaal", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [18]
 					{
 						false, -- [1]
-						774, -- [2]
-						429, -- [3]
-						1608711218.426, -- [4]
-						24236, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						48438, -- [2]
+						137, -- [3]
+						1608776233.401, -- [4]
+						27306, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [19]
 					{
 						false, -- [1]
-						347214, -- [2]
-						57, -- [3]
-						1608711218.53, -- [4]
-						24293, -- [5]
-						"Udderbutterr-Illidan", -- [6]
+						774, -- [2]
+						981, -- [3]
+						1608776234, -- [4]
+						28287, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
-						false, -- [10]
+						true, -- [9]
+						-1, -- [10]
 					}, -- [20]
 					{
-						true, -- [1]
-						329906, -- [2]
-						625, -- [3]
-						1608711218.699, -- [4]
-						23668, -- [5]
-						"Remornia", -- [6]
+						false, -- [1]
+						325983, -- [2]
+						637, -- [3]
+						1608776234.053, -- [4]
+						28924, -- [5]
+						"Fishlips-Tichondrius", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						0, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [21]
 					{
 						false, -- [1]
-						162530, -- [2]
-						348, -- [3]
-						1608711218.995, -- [4]
-						24016, -- [5]
-						"Dummyyummy", -- [6]
+						774, -- [2]
+						255, -- [3]
+						1608776235.05, -- [4]
+						29179, -- [5]
+						"Bareförm-Tichondrius", -- [6]
 						nil, -- [7]
 						0, -- [8]
-						false, -- [9]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [22]
 					{
-						true, -- [1]
-						328936, -- [2]
-						9704, -- [3]
-						1608711219.058, -- [4]
-						14312, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
+						false, -- [1]
+						337824, -- [2]
+						1031, -- [3]
+						1608776235.208, -- [4]
+						29179, -- [5]
+						"Fishlips-Tichondrius", -- [6]
+						true, -- [7]
+						0, -- [8]
+						true, -- [9]
 						-1, -- [10]
 					}, -- [23]
 					{
 						true, -- [1]
-						329785, -- [2]
-						1041, -- [3]
-						1608711219.628, -- [4]
-						13271, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
+						333913, -- [2]
+						1476, -- [3]
+						1608776235.208, -- [4]
+						28734, -- [5]
+						"General Kaal", -- [6]
+						1031, -- [7]
+						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [24]
 					{
-						true, -- [1]
-						329906, -- [2]
-						625, -- [3]
-						1608711219.712, -- [4]
-						12646, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
+						4, -- [1]
+						344502, -- [2]
+						1, -- [3]
+						1608776235.382, -- [4]
+						28734, -- [5]
+						"[*] Unstable Footing", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [25]
 					{
-						false, -- [1]
-						347214, -- [2]
-						114, -- [3]
-						1608711220.517, -- [4]
-						12760, -- [5]
-						"Udderbutterr-Illidan", -- [6]
+						true, -- [1]
+						344502, -- [2]
+						1474, -- [3]
+						1608776236.41, -- [4]
+						27260, -- [5]
+						"[*] Unstable Footing", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						8, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [26]
 					{
 						true, -- [1]
-						329906, -- [2]
-						625, -- [3]
-						1608711220.701, -- [4]
-						12135, -- [5]
-						"Remornia", -- [6]
+						333913, -- [2]
+						1685, -- [3]
+						1608776237.207, -- [4]
+						25575, -- [5]
+						"General Kaal", -- [6]
 						nil, -- [7]
 						1, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [27]
 					{
-						false, -- [1]
-						52042, -- [2]
-						911, -- [3]
-						1608711220.934, -- [4]
-						13046, -- [5]
-						"Healing Stream Totem <Jonsham-Tichondrius>", -- [6]
+						true, -- [1]
+						344502, -- [2]
+						1474, -- [3]
+						1608776237.39, -- [4]
+						24101, -- [5]
+						"[*] Unstable Footing", -- [6]
 						nil, -- [7]
-						0, -- [8]
+						8, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [28]
 					{
-						false, -- [1]
-						774, -- [2]
-						429, -- [3]
-						1608711221.242, -- [4]
-						13475, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
+						4, -- [1]
+						344655, -- [2]
+						1, -- [3]
+						1608776238.226, -- [4]
+						24101, -- [5]
+						"General Grashaal", -- [6]
+						false, -- [7]
+						false, -- [8]
 						false, -- [9]
-						-1, -- [10]
+						false, -- [10]
 					}, -- [29]
 					{
 						true, -- [1]
-						329785, -- [2]
-						1042, -- [3]
-						1608711221.624, -- [4]
-						12433, -- [5]
-						"Crimson Cabalist", -- [6]
+						344500, -- [2]
+						8424, -- [3]
+						1608776238.226, -- [4]
+						15677, -- [5]
+						"General Grashaal", -- [6]
 						nil, -- [7]
-						32, -- [8]
+						8, -- [8]
 						false, -- [9]
 						-1, -- [10]
 					}, -- [30]
 					{
-						true, -- [1]
-						329906, -- [2]
-						606, -- [3]
-						1608711221.717, -- [4]
-						11827, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						true, -- [1]
-						1, -- [2]
-						16831, -- [3]
-						1608711221.88, -- [4]
-						11827, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						5004, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						12975, -- [2]
-						1, -- [3]
-						1608711207.598, -- [4]
-						0, -- [5]
-						"Udderbutterr-Illidan", -- [6]
-					}, -- [33]
-				},
-				["class"] = "WARRIOR",
-				["timestring"] = "3m 40s",
-				["time"] = 1608711221.9,
-			}, -- [8]
-			{
-				["maxhealth"] = 33240,
-				["timeofdeath"] = 225.2669999999926,
-				["name"] = "Jonsham-Tichondrius",
-				["events"] = {
-					{
-						false, -- [1]
-						191840, -- [2]
-						128, -- [3]
-						1608711214.865, -- [4]
-						20834, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
 						4, -- [1]
-						329951, -- [2]
-						1, -- [3]
-						1608711216.151, -- [4]
-						20834, -- [5]
-						"Remornia", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [2]
-					{
-						false, -- [1]
-						17, -- [2]
-						830, -- [3]
-						1608711216.532, -- [4]
-						20834, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						329785, -- [2]
-						830, -- [3]
-						1608711216.532, -- [4]
-						20834, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711216.668, -- [4]
-						20898, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [5]
-					{
-						false, -- [1]
-						162530, -- [2]
-						174, -- [3]
-						1608711217.363, -- [4]
-						21072, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711218.487, -- [4]
-						21136, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						17, -- [2]
-						354, -- [3]
-						1608711218.53, -- [4]
-						21136, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						true, -- [1]
-						329785, -- [2]
-						788, -- [3]
-						1608711218.53, -- [4]
-						20702, -- [5]
-						"Crimson Cabalist", -- [6]
-						354, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						false, -- [1]
-						17, -- [2]
-						0, -- [3]
-						1608711218.53, -- [4]
-						20702, -- [5]
-						"Toshpriest", -- [6]
-						true, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						191840, -- [2]
-						64, -- [3]
-						1608711220.302, -- [4]
-						20766, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						true, -- [1]
-						329785, -- [2]
-						706, -- [3]
-						1608711220.517, -- [4]
-						20060, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						191840, -- [2]
-						38, -- [3]
-						1608711221.373, -- [4]
-						20098, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						true, -- [1]
-						329974, -- [2]
-						5995, -- [3]
-						1608711221.741, -- [4]
-						14103, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						4, -- [1]
-						329906, -- [2]
-						1, -- [3]
-						1608711221.741, -- [4]
-						14103, -- [5]
-						"Remornia", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [15]
-					{
-						true, -- [1]
-						329785, -- [2]
-						830, -- [3]
-						1608711222.563, -- [4]
-						13273, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						52042, -- [2]
-						2208, -- [3]
-						1608711222.732, -- [4]
-						15481, -- [5]
-						"Healing Stream Totem <Jonsham-Tichondrius>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						true, -- [1]
-						329906, -- [2]
-						498, -- [3]
-						1608711222.77, -- [4]
-						14983, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						1, -- [2]
-						12661, -- [3]
-						1608711222.9, -- [4]
-						14983, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						4, -- [1]
-						329906, -- [2]
+						344655, -- [2]
 						2, -- [3]
-						1608711222.926, -- [4]
-						2322, -- [5]
-						"Remornia", -- [6]
+						1608776238.291, -- [4]
+						15677, -- [5]
+						"General Grashaal", -- [6]
 						false, -- [7]
 						false, -- [8]
 						false, -- [9]
 						false, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						311123, -- [2]
-						625, -- [3]
-						1608711223.423, -- [4]
-						2947, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						true, -- [1]
-						329906, -- [2]
-						996, -- [3]
-						1608711223.762, -- [4]
-						2098, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						false, -- [1]
-						162530, -- [2]
-						178, -- [3]
-						1608711223.783, -- [4]
-						2276, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						162530, -- [2]
-						360, -- [3]
-						1608711224.466, -- [4]
-						2527, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						true, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						324202, -- [2]
-						770, -- [3]
-						1608711224.488, -- [4]
-						3405, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						true, -- [1]
-						329785, -- [2]
-						830, -- [3]
-						1608711224.525, -- [4]
-						2575, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						true, -- [1]
-						329906, -- [2]
-						996, -- [3]
-						1608711224.765, -- [4]
-						1579, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						162530, -- [2]
-						177, -- [3]
-						1608711225.146, -- [4]
-						1756, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						true, -- [1]
-						329906, -- [2]
-						996, -- [3]
-						1608711225.758, -- [4]
-						676, -- [5]
-						"Remornia", -- [6]
-						nil, -- [7]
-						1, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						162530, -- [2]
-						177, -- [3]
-						1608711225.837, -- [4]
-						853, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						true, -- [1]
-						329785, -- [2]
-						830, -- [3]
-						1608711226.526, -- [4]
-						23, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
 					}, -- [31]
 					{
 						true, -- [1]
-						329906, -- [2]
-						996, -- [3]
-						1608711226.752, -- [4]
+						344721, -- [2]
+						50541, -- [3]
+						1608776238.314, -- [4]
 						1, -- [5]
-						"Remornia", -- [6]
+						"[*] Echoing Annihilation", -- [6]
 						nil, -- [7]
-						1, -- [8]
+						8, -- [8]
 						false, -- [9]
-						973, -- [10]
-					}, -- [32]
-					{
-						3, -- [1]
-						108271, -- [2]
-						1, -- [3]
-						1608711045.412, -- [4]
-						0, -- [5]
-						"Jonsham-Tichondrius", -- [6]
-					}, -- [33]
-				},
-				["class"] = "SHAMAN",
-				["timestring"] = "3m 45s",
-				["time"] = 1608711226.771,
-			}, -- [9]
-			{
-				["maxhealth"] = 27900,
-				["timeofdeath"] = 226.7000000001863,
-				["name"] = "Asunachann-Barthilas",
-				["events"] = {
-					{
-						false, -- [1]
-						207386, -- [2]
-						119, -- [3]
-						1608711212.877, -- [4]
-						21715, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [1]
-					{
-						false, -- [1]
-						145109, -- [2]
-						879, -- [3]
-						1608711213.229, -- [4]
-						22594, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [2]
-					{
-						true, -- [1]
-						329785, -- [2]
-						871, -- [3]
-						1608711214.544, -- [4]
-						22886, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [3]
-					{
-						true, -- [1]
-						330627, -- [2]
-						1417, -- [3]
-						1608711214.574, -- [4]
-						21469, -- [5]
-						"Sire Denathrius", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [4]
-					{
-						false, -- [1]
-						207386, -- [2]
-						118, -- [3]
-						1608711214.891, -- [4]
-						20564, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						false, -- [10]
-					}, -- [5]
-					{
-						true, -- [1]
-						329785, -- [2]
-						872, -- [3]
-						1608711216.532, -- [4]
-						19725, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [6]
-					{
-						false, -- [1]
-						207386, -- [2]
-						119, -- [3]
-						1608711216.887, -- [4]
-						20830, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [7]
-					{
-						false, -- [1]
-						191894, -- [2]
-						3590, -- [3]
-						1608711217.659, -- [4]
-						23460, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [8]
-					{
-						false, -- [1]
-						145109, -- [2]
-						879, -- [3]
-						1608711218.237, -- [4]
-						24339, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [9]
-					{
-						true, -- [1]
-						329785, -- [2]
-						871, -- [3]
-						1608711218.53, -- [4]
-						23468, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [10]
-					{
-						false, -- [1]
-						774, -- [2]
-						428, -- [3]
-						1608711219.337, -- [4]
-						23896, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [11]
-					{
-						false, -- [1]
-						119611, -- [2]
-						343, -- [3]
-						1608711219.444, -- [4]
-						24239, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [12]
-					{
-						false, -- [1]
-						73921, -- [2]
-						426, -- [3]
-						1608711220.231, -- [4]
-						25911, -- [5]
-						"Herbkek-Illidan", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [13]
-					{
-						false, -- [1]
-						114942, -- [2]
-						554, -- [3]
-						1608711220.395, -- [4]
-						26465, -- [5]
-						"Healing Tide Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [14]
-					{
-						true, -- [1]
-						329785, -- [2]
-						871, -- [3]
-						1608711220.517, -- [4]
-						25594, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [15]
-					{
-						false, -- [1]
-						119611, -- [2]
-						343, -- [3]
-						1608711221.259, -- [4]
-						25937, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [16]
-					{
-						false, -- [1]
-						774, -- [2]
-						429, -- [3]
-						1608711222.19, -- [4]
-						26400, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [17]
-					{
-						false, -- [1]
-						114942, -- [2]
-						571, -- [3]
-						1608711222.232, -- [4]
-						26971, -- [5]
-						"Healing Tide Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [18]
-					{
-						true, -- [1]
-						329785, -- [2]
-						871, -- [3]
-						1608711222.563, -- [4]
-						26100, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [19]
-					{
-						false, -- [1]
-						119611, -- [2]
-						687, -- [3]
-						1608711223.087, -- [4]
-						25544, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [20]
-					{
-						false, -- [1]
-						145109, -- [2]
-						879, -- [3]
-						1608711223.241, -- [4]
-						26423, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [21]
-					{
-						false, -- [1]
-						114942, -- [2]
-						1082, -- [3]
-						1608711224.05, -- [4]
-						28860, -- [5]
-						"Healing Tide Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [22]
-					{
-						true, -- [1]
-						329785, -- [2]
-						871, -- [3]
-						1608711224.525, -- [4]
-						27989, -- [5]
-						"Crimson Cabalist", -- [6]
-						nil, -- [7]
-						32, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [23]
-					{
-						false, -- [1]
-						119611, -- [2]
-						343, -- [3]
-						1608711224.91, -- [4]
-						28332, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [24]
-					{
-						false, -- [1]
-						774, -- [2]
-						428, -- [3]
-						1608711224.986, -- [4]
-						28760, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [25]
-					{
-						false, -- [1]
-						114942, -- [2]
-						544, -- [3]
-						1608711225.881, -- [4]
-						29338, -- [5]
-						"Healing Tide Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [26]
-					{
-						false, -- [1]
-						119611, -- [2]
-						686, -- [3]
-						1608711226.735, -- [4]
-						30024, -- [5]
-						"Dummyyummy", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [27]
-					{
-						false, -- [1]
-						48438, -- [2]
-						554, -- [3]
-						1608711227.037, -- [4]
-						30578, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [28]
-					{
-						false, -- [1]
-						114942, -- [2]
-						526, -- [3]
-						1608711227.711, -- [4]
-						30765, -- [5]
-						"Healing Tide Totem <Herbkek-Illidan>", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [29]
-					{
-						false, -- [1]
-						774, -- [2]
-						937, -- [3]
-						1608711227.795, -- [4]
-						30765, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [30]
-					{
-						false, -- [1]
-						48438, -- [2]
-						261, -- [3]
-						1608711227.975, -- [4]
-						30765, -- [5]
-						"Asunachann-Barthilas", -- [6]
-						nil, -- [7]
-						0, -- [8]
-						false, -- [9]
-						-1, -- [10]
-					}, -- [31]
-					{
-						4, -- [1]
-						329785, -- [2]
-						1, -- [3]
-						1608711228.111, -- [4]
-						30765, -- [5]
-						"Crimson Cabalist", -- [6]
-						false, -- [7]
-						false, -- [8]
-						false, -- [9]
-						false, -- [10]
+						34864, -- [10]
 					}, -- [32]
 					{
 						3, -- [1]
@@ -16170,24 +11465,24 @@ DeathGraphsDBCurrent = {
 						0, -- [3]
 						0, -- [4]
 						0, -- [5]
-						"Asunachann-Barthilas", -- [6]
+						"Fäble-Tichondrius", -- [6]
 					}, -- [33]
 				},
-				["class"] = "DRUID",
-				["timestring"] = "3m 46s",
-				["time"] = 1608711228.204,
-			}, -- [10]
+				["class"] = "MAGE",
+				["timestring"] = "4m 15s",
+				["time"] = 1608776238.339,
+			}, -- [2]
 		},
-		["bossname"] = "Sire Denathrius",
+		["bossname"] = "Stone Legion Generals",
 		["bossicon"] = {
 			0, -- [1]
 			0.25, -- [2]
-			0, -- [3]
-			0.25, -- [4]
+			0.5, -- [3]
+			0.75, -- [4]
 			"Interface\\AddOns\\Details\\images\\raid\\CastleNathriaRaid_BossFaces", -- [5]
 		},
-		["date"] = 1260393.037,
-		["timeelapsed"] = 263.4329999999609,
+		["date"] = 1325466.421,
+		["timeelapsed"] = 354.4490000000224,
 	}, -- [2]
 }
 DeathGraphsDBGraph = {
@@ -16307,21 +11602,27 @@ DeathGraphsDBGraph = {
 			[397] = {
 				1608423398, -- [1]
 			},
-			[82] = {
-				1608422781, -- [1]
-			},
 			[321] = {
 				1607741144, -- [1]
 				1607741144, -- [2]
 			},
+			[190] = {
+				1608776338, -- [1]
+			},
+			[82] = {
+				1608422781, -- [1]
+			},
 			[379] = {
 				1607741144, -- [1]
+			},
+			[315] = {
+				1608423398, -- [1]
 			},
 			[210] = {
 				1608423398, -- [1]
 			},
-			[315] = {
-				1608423398, -- [1]
+			[360] = {
+				1608422781, -- [1]
 			},
 			[346] = {
 				1608422781, -- [1]
@@ -16329,14 +11630,14 @@ DeathGraphsDBGraph = {
 			[317] = {
 				1608422781, -- [1]
 			},
-			[360] = {
-				1608422781, -- [1]
+			[240] = {
+				1608423398, -- [1]
 			},
 			[99] = {
 				1608423398, -- [1]
 			},
-			[240] = {
-				1608423398, -- [1]
+			[255] = {
+				1608776338, -- [1]
 			},
 		},
 		["spells"] = {
@@ -17861,6 +13162,9 @@ DeathGraphsDBGraph = {
 				1608593380, -- [1]
 				1608596067, -- [2]
 			},
+			[139] = {
+				1608773819, -- [1]
+			},
 			[174] = {
 				1608596067, -- [1]
 			},
@@ -17885,11 +13189,18 @@ DeathGraphsDBGraph = {
 			[327] = {
 				1608594745, -- [1]
 			},
+			[141] = {
+				1608592876, -- [1]
+			},
+			[238] = {
+				1608773819, -- [1]
+			},
 			[168] = {
 				1608593380, -- [1]
 			},
-			[141] = {
-				1608592876, -- [1]
+			[88] = {
+				1608773819, -- [1]
+				1608773819, -- [2]
 			},
 			[176] = {
 				1608594745, -- [1]
@@ -17900,6 +13211,10 @@ DeathGraphsDBGraph = {
 			[246] = {
 				1608594745, -- [1]
 			},
+			[272] = {
+				1608596067, -- [1]
+				1608596067, -- [2]
+			},
 			[161] = {
 				1608593897, -- [1]
 			},
@@ -17909,9 +13224,8 @@ DeathGraphsDBGraph = {
 			[138] = {
 				1608593380, -- [1]
 			},
-			[272] = {
-				1608596067, -- [1]
-				1608596067, -- [2]
+			[181] = {
+				1608773819, -- [1]
 			},
 			[177] = {
 				1608593897, -- [1]
@@ -17922,9 +13236,6 @@ DeathGraphsDBGraph = {
 				1608595474, -- [3]
 				1608595474, -- [4]
 			},
-			[244] = {
-				1608595474, -- [1]
-			},
 			[223] = {
 				1608593897, -- [1]
 			},
@@ -17932,6 +13243,9 @@ DeathGraphsDBGraph = {
 				1608592876, -- [1]
 				1608592876, -- [2]
 				1608592876, -- [3]
+			},
+			[244] = {
+				1608595474, -- [1]
 			},
 		},
 		["spells"] = {
@@ -17941,31 +13255,38 @@ DeathGraphsDBGraph = {
 	},
 	["239414"] = {
 		["deaths"] = {
+			[228] = {
+				1608421621, -- [1]
+			},
 			[50] = {
 				1607740373, -- [1]
 				1607740373, -- [2]
 			},
-			[17] = {
+			[223] = {
 				1608421621, -- [1]
 			},
 			[82] = {
 				1607740373, -- [1]
 				1607740373, -- [2]
 			},
-			[218] = {
-				1608421621, -- [1]
-			},
 			[116] = {
 				1607740373, -- [1]
 			},
-			[223] = {
+			[17] = {
 				1608421621, -- [1]
+			},
+			[218] = {
+				1608421621, -- [1]
+			},
+			[38] = {
+				1608775666, -- [1]
+				1608775666, -- [2]
 			},
 			[129] = {
 				1608421621, -- [1]
 			},
-			[228] = {
-				1608421621, -- [1]
+			[234] = {
+				1608775666, -- [1]
 			},
 		},
 		["spells"] = {
@@ -17985,6 +13306,9 @@ DeathGraphsDBGraph = {
 			[292] = {
 				1608500839, -- [1]
 			},
+			[180] = {
+				1608772823, -- [1]
+			},
 			[294] = {
 				1608501938, -- [1]
 				1608502574, -- [2]
@@ -18003,6 +13327,9 @@ DeathGraphsDBGraph = {
 			[187] = {
 				1608498108, -- [1]
 			},
+			[426] = {
+				1608711872, -- [1]
+			},
 			[310] = {
 				1608499392, -- [1]
 			},
@@ -18013,22 +13340,24 @@ DeathGraphsDBGraph = {
 			[158] = {
 				1607742571, -- [1]
 			},
-			[88] = {
-				1607742044, -- [1]
-				1607742044, -- [2]
-				1607742044, -- [3]
+			[90] = {
+				1608497647, -- [1]
+			},
+			[377] = {
+				1608776977, -- [1]
 			},
 			[315] = {
 				1608499392, -- [1]
 			},
-			[426] = {
-				1608711872, -- [1]
+			[357] = {
+				1608776977, -- [1]
 			},
-			[395] = {
-				1608711872, -- [1]
+			[153] = {
+				1608497647, -- [1]
 			},
-			[173] = {
-				1608711872, -- [1]
+			[208] = {
+				1608498108, -- [1]
+				1608498108, -- [2]
 			},
 			[382] = {
 				1608500839, -- [1]
@@ -18038,8 +13367,35 @@ DeathGraphsDBGraph = {
 			[383] = {
 				1608499392, -- [1]
 			},
-			[172] = {
+			[231] = {
+				1608501301, -- [1]
+			},
+			[116] = {
+				1608497270, -- [1]
+				1608497270, -- [2]
+			},
+			[272] = {
+				1608501938, -- [1]
+			},
+			[139] = {
+				1608500037, -- [1]
+			},
+			[88] = {
+				1607742044, -- [1]
+				1607742044, -- [2]
+				1607742044, -- [3]
+			},
+			[102] = {
+				1608498108, -- [1]
+			},
+			[173] = {
 				1608711872, -- [1]
+			},
+			[229] = {
+				1608501938, -- [1]
+			},
+			[266] = {
+				1608501938, -- [1]
 			},
 			[167] = {
 				1608711265, -- [1]
@@ -18048,52 +13404,25 @@ DeathGraphsDBGraph = {
 				1608711265, -- [4]
 				1608711265, -- [5]
 			},
-			[153] = {
-				1608497647, -- [1]
-			},
-			[90] = {
-				1608497647, -- [1]
-			},
-			[80] = {
-				1607742044, -- [1]
-				1607742044, -- [2]
-			},
-			[208] = {
-				1608498108, -- [1]
-				1608498108, -- [2]
-			},
-			[105] = {
-				1607742571, -- [1]
-			},
-			[229] = {
-				1608501938, -- [1]
-			},
-			[266] = {
-				1608501938, -- [1]
-			},
-			[116] = {
-				1608497270, -- [1]
-				1608497270, -- [2]
-			},
 			[199] = {
 				1608501301, -- [1]
 			},
-			[231] = {
-				1608501301, -- [1]
-			},
-			[139] = {
-				1608500037, -- [1]
-			},
-			[271] = {
-				1608499392, -- [1]
-			},
-			[272] = {
-				1608501938, -- [1]
+			[395] = {
+				1608711872, -- [1]
 			},
 			[141] = {
 				1608500037, -- [1]
 				1608500037, -- [2]
 				1608500037, -- [3]
+			},
+			[271] = {
+				1608499392, -- [1]
+			},
+			[201] = {
+				1608501301, -- [1]
+			},
+			[172] = {
+				1608711872, -- [1]
 			},
 			[274] = {
 				1608502574, -- [1]
@@ -18127,21 +13456,22 @@ DeathGraphsDBGraph = {
 			[472] = {
 				1608711872, -- [1]
 			},
-			[102] = {
-				1608498108, -- [1]
+			[232] = {
+				1608499392, -- [1]
+				1608502574, -- [2]
 			},
 			[285] = {
 				1608498811, -- [1]
 			},
+			[105] = {
+				1607742571, -- [1]
+			},
 			[286] = {
 				1608498811, -- [1]
 			},
-			[201] = {
-				1608501301, -- [1]
-			},
-			[232] = {
-				1608499392, -- [1]
-				1608502574, -- [2]
+			[80] = {
+				1607742044, -- [1]
+				1607742044, -- [2]
 			},
 			[289] = {
 				1608502574, -- [1]

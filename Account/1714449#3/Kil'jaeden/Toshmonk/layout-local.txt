@@ -71,9 +71,9 @@ W: 715
 H: 490
 Frame: BDLC
 FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
+Anchor: TOPLEFT
+X: 376
+Y: -34
 W: 600
 H: 400
 Frame: BDLC Roll Window
@@ -111,13 +111,6 @@ X: 404
 Y: 166
 W: 27
 H: 26
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: TOP
-X: -581
-Y: -75
-W: 375
-H: 335
 Frame: TalkingHeadFrame
 FrameLevel: 3
 Anchor: BOTTOM
@@ -125,3 +118,17 @@ X: 0
 Y: 96
 W: 570
 H: 155
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: TOP
+X: -581
+Y: -75
+W: 246
+H: 234
+Frame: DetailsPlayerDetailsWindow
+FrameLevel: 1
+Anchor: RIGHT
+X: -437
+Y: 88
+W: 890
+H: 574

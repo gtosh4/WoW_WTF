@@ -195,9 +195,9 @@ DataStore_CurrenciesDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["CurrencyInfo"] = {
 					[1820] = "100-0-0-100",
-					[1885] = "20-0-0-0",
+					[1885] = "22-0-0-0",
 					[1580] = "3-0-0-5",
-					[1767] = "16012-0-0-0",
+					[1767] = "17076-0-0-0",
 					[1273] = "0-0-0-6",
 					[1275] = "26-0-0-0",
 					[1710] = "118-0-0-0",
@@ -207,14 +207,14 @@ DataStore_CurrenciesDB = {
 					[1220] = "14331-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "53-0-0-0",
-					[1813] = "2529-0-0-35000",
+					[1813] = "4273-0-0-35000",
 					[1721] = "317-0-0-0",
 					[1226] = "766-0-0-0",
 					[1716] = "327-0-0-0",
 					[1166] = "2615-0-0-0",
 					[1508] = "575-0-0-2000",
 					[1602] = "0-0-0-1650",
-					[1828] = "1870-0-0-8000",
+					[1828] = "620-0-0-8000",
 				},
 				["Currencies"] = {
 					{
@@ -225,7 +225,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 20,
+						["count"] = 22,
 					}, -- [2]
 					{
 						["isHeader"] = false,
@@ -235,17 +235,17 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 26,
-						["count"] = 2529,
+						["count"] = 4273,
 					}, -- [4]
 					{
 						["isHeader"] = false,
 						["index"] = 28,
-						["count"] = 1870,
+						["count"] = 620,
 					}, -- [5]
 					{
 						["isHeader"] = false,
 						["index"] = 27,
-						["count"] = 16012,
+						["count"] = 17076,
 					}, -- [6]
 					{
 						["isHeader"] = true,
@@ -349,7 +349,7 @@ DataStore_CurrenciesDB = {
 					}, -- [26]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1608713599,
+				["lastUpdate"] = 1608806064,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -426,9 +426,9 @@ DataStore_CurrenciesDB = {
 				["Seafarer's Dubloon"] = 10,
 				["Legion"] = 13,
 				["Echoes of Ny'alotha"] = 7,
-				["Wakening Essence"] = 21,
 				["Coalescing Visions"] = 5,
 				["Prismatic Manapearl"] = 9,
+				["Wakening Essence"] = 21,
 				["Grateful Offering"] = 29,
 				["Curious Coin"] = 15,
 				["Conquest"] = 23,

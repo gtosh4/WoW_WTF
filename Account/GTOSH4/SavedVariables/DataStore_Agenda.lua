@@ -18,12 +18,21 @@ DataStore_AgendaDB = {
 				["DungeonIDs"] = {
 					[381002176] = {
 						["name"] = "Castle Nathria Normal",
-						["resetTime"] = 1609253998,
+						["resetTime"] = 1609253999,
 						["numEncounters"] = 10,
 						["bosses"] = {
+							["Huntsman Altimor"] = true,
+							["Lady Inerva Darkvein"] = true,
+							["Artificer Xy'mox"] = true,
+							["Sludgefist"] = true,
+							["Shriekwing"] = true,
+							["Hungering Destroyer"] = true,
+							["The Council of Blood"] = true,
+							["Stone Legion Generals"] = true,
+							["Sun King's Salvation"] = true,
 							["Sire Denathrius"] = true,
 						},
-						["progress"] = 1,
+						["progress"] = 10,
 						["extended"] = 0,
 						["isRaid"] = 1,
 					},
@@ -31,7 +40,7 @@ DataStore_AgendaDB = {
 				["Calendar"] = {
 					"2020-12-25|21:15|SET CONDUITS|4|4", -- [1]
 				},
-				["lastUpdate"] = 1608716327,
+				["lastUpdate"] = 1608806751,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

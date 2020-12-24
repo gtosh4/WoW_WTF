@@ -75,7 +75,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Aggravated",
 			},
 			["Default.Kil'jaeden.Toshmonk"] = {
-				["lastUpdate"] = 1608713463,
+				["lastUpdate"] = 1608802425,
 				["Factions"] = {
 					[106] = 2800,
 					[31] = -11875,
@@ -114,7 +114,7 @@ DataStore_ReputationsDB = {
 					[138] = 7075,
 					[170] = 22125,
 					[139] = 4950,
-					[171] = 23930,
+					[171] = 25190,
 					[140] = 12350,
 					[87] = 6000,
 					[141] = 15945,

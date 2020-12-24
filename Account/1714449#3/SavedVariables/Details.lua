@@ -2,7 +2,7 @@
 _detalhes_global = {
 	["npcid_pool"] = {
 		[0] = "Eye of Corruption",
-		[159729] = "Redelav Attendant",
+		[163824] = "Skeletal Guardian",
 		[156146] = "Voidbound Shieldbearer",
 		[37133] = "Ymirjar Warlord",
 		[157682] = "Fireforge Bonesmith",
@@ -21,16 +21,17 @@ _detalhes_global = {
 		[136186] = "Tidesage Spiritualist",
 		[165363] = "Unknown <Toxin Engineer Krax>",
 		[169970] = "Dazed",
-		[170994] = "Naeda Crane",
+		[134139] = "Shrine Templar",
 		[167923] = "Diseased Remnant",
 		[37134] = "Ymirjar Huntress",
 		[169971] = "Unknown",
 		[170483] = "Unknown",
 		[150520] = "Cubed Clutter",
+		[168436] = "Goldenpaw Vulpin",
 		[76556] = "Ironmarch Grunt",
 		[110340] = "Cosmos",
 		[47244] = "Flifaline-BurningLegion <Flifaline-BurningLegion>",
-		[168949] = "Risen Bonesoldier",
+		[173044] = "Stitching Assistant <Workshop Portal>",
 		[161271] = "Jovraal",
 		[159224] = "Gryth'ax the Executioner",
 		[88586] = "Mogamago",
@@ -64,7 +65,7 @@ _detalhes_global = {
 		[166908] = "Malifis",
 		[83982] = "Dread Raven",
 		[156159] = "Coldheart Javelineer",
-		[88589] = "Pridelands Goretusk",
+		[173051] = "Suppressor Xelors",
 		[169980] = "Dusksteel Phalynx",
 		[164862] = "Weald Shimmermoth",
 		[161279] = "Sparring Aspirant",
@@ -75,7 +76,7 @@ _detalhes_global = {
 		[139269] = "Gloom Horror",
 		[156161] = "Inquisitor Gnshal",
 		[148483] = "Ancestral Avenger",
-		[169470] = "Crimson Chorus",
+		[153090] = "Lady Venomtongue",
 		[170494] = "Grove Defender",
 		[146436] = "Unknown",
 		[159233] = "Sinstone Construct",
@@ -110,7 +111,7 @@ _detalhes_global = {
 		[161799] = "Weakness",
 		[162311] = "Death Knight",
 		[171525] = "Maw Roach Hatchling",
-		[155657] = "Huffer",
+		[167942] = "Mawsworn Willbreaker",
 		[161800] = "Corruption",
 		[162312] = "Druid",
 		[138254] = "Irontide Powdershot",
@@ -124,8 +125,8 @@ _detalhes_global = {
 		[164873] = "Runestag Elderhorn",
 		[150541] = "Zanj'ir Slaver",
 		[167433] = "Marrowmaw",
-		[172040] = "Dark Juggernaut",
-		[164362] = "Slimy Morsel <Living Slime Stalker>",
+		[159755] = "The Grand Malleare",
+		[168457] = "Stonewall Gargon",
 		[168969] = "Gushing Slime",
 		[172041] = "Fallen Disciple",
 		[164363] = "Undying Stonefiend",
@@ -137,7 +138,7 @@ _detalhes_global = {
 		[135699] = "Ashvane Jailer",
 		[165388] = "Mizik the Haughty",
 		[174090] = "Nathrian Hierarch",
-		[79127] = "Gorebound Legionnaire",
+		[162317] = "Gorechop",
 		[162829] = "Razkazzar",
 		[167948] = "Infectious Monstrosity",
 		[162318] = "Monk",
@@ -147,7 +148,7 @@ _detalhes_global = {
 		[168973] = "High Torturer Darithos",
 		[173580] = "Inquisitor Devaki",
 		[174092] = "Nathrian Gargon Rider",
-		[162319] = "Paladin",
+		[154129] = "Burning Emberguard",
 		[166926] = "Necrotic Summoner",
 		[136214] = "Windspeaker Heldis",
 		[174093] = "Nathrian Ranger",
@@ -190,7 +191,7 @@ _detalhes_global = {
 		[162327] = "Rogue",
 		[166934] = "Lor the Loyal",
 		[83739] = "Slithershock Moray",
-		[172053] = "Forsworn Clawguard",
+		[159768] = "Deresh of the Nothingness",
 		[60561] = "Earthgrab Totem <Bíxeira-Azralon>",
 		[129552] = "Monzumi",
 		[165911] = "Loyal Creation",
@@ -216,7 +217,7 @@ _detalhes_global = {
 		[157724] = "Vil'thik Amber-Mender",
 		[162331] = "Corrupted Neuron",
 		[167962] = "Defunct Dental Drill",
-		[84253] = "Voracious Stonemuncher",
+		[160284] = "Madame Irini",
 		[168986] = "Skeletal Raptor",
 		[169498] = "Plague Bomb",
 		[149535] = "Icebound Image",
@@ -226,18 +227,18 @@ _detalhes_global = {
 		[167963] = "Headless Client",
 		[168475] = "Nesting Valeshrieker",
 		[37144] = "Skybreaker Marksman",
-		[169499] = "Ravenous Destroyer",
+		[165404] = "Buzzkill",
 		[157726] = "Scorched Scavenger",
 		[162845] = "Orrholyn",
 		[83742] = "Slithershock Eel",
-		[167964] = "4.RF-4.RF",
+		[79903] = "Skog",
 		[160286] = "Lord Sorin",
 		[168988] = "Overgrowth",
 		[169500] = "Unknown",
 		[157727] = "Scorched Outcast",
 		[166941] = "War Wraith",
 		[167965] = "Lubricator",
-		[158752] = "Predatory Bloodtusk",
+		[166942] = "Eye of Zolramus",
 		[167966] = "Experimental Sludge",
 		[24207] = "Army of the Dead <Bubloh-Andorhal>",
 		[161312] = "Crushing Tendril",
@@ -247,7 +248,7 @@ _detalhes_global = {
 		[165408] = "Halkias",
 		[78881] = "Air Familiar",
 		[166432] = "Briarbane Sentinel",
-		[162849] = "Morguliax",
+		[87583] = "Savage Warwolf",
 		[159266] = "Portal Master",
 		[160290] = "Masked Sylvar",
 		[164897] = "Fog Dweller",
@@ -262,7 +263,7 @@ _detalhes_global = {
 		[147495] = "Rastari Enforcer",
 		[121624] = "Feathermane",
 		[157733] = "Crazed Ash Ghoul",
-		[172066] = "Rootfingers",
+		[155686] = "Azsh'ari Venomwatcher",
 		[160293] = "Masked Faerie",
 		[82722] = "Putrid Mandragora",
 		[162853] = "Unbreakable Urtz",
@@ -275,21 +276,21 @@ _detalhes_global = {
 		[63508] = "Xuen <Saucegodx-Blackhand>",
 		[160295] = "Wildtwister Lewor",
 		[148522] = "Unknown",
-		[165414] = "Depraved Obliterator",
+		[173604] = "Sinister Antiquarian",
 		[166438] = "Colossal Plasma",
 		[171557] = "Unknown <Bargast>",
 		[155689] = "Zanj'ir Gladiator",
 		[165415] = "Toiling Groundskeeper",
 		[125977] = "Reanimation Totem",
 		[93985] = "Corrupted Talonpriest",
-		[144941] = "Akunda's Aspect",
+		[82724] = "Tog the Earthrender",
 		[37531] = "Frostwarden Handler",
 		[172071] = "Fog-Frenzied Gladestalker",
 		[156203] = "Stygian Incinerator",
 		[164905] = "Captain Kaldrage",
 		[144942] = "Spark Bot",
 		[159275] = "Portal Keeper",
-		[163882] = "Decaying Flesh Giant",
+		[172072] = "Mist-Maddened Wader",
 		[160811] = "Encroaching Mite",
 		[157740] = "Marquis Pummeler",
 		[79142] = "Thunderlord Youngling",
@@ -309,7 +310,7 @@ _detalhes_global = {
 		[172076] = "Oakheart Drust-Taken",
 		[39452] = "CBT",
 		[167470] = "Destructor Guttersludge",
-		[172077] = "Vengeful Essence",
+		[159792] = "Congealed Loss",
 		[88358] = "Snarlpaw Razortooth",
 		[173613] = "Nathrian Registrar",
 		[149555] = "Abomination <Bubloh-Andorhal>",
@@ -330,22 +331,22 @@ _detalhes_global = {
 		[136249] = "Guardian Elemental",
 		[153141] = "Endless Hunger Totem <Voidbound Shaman>",
 		[170033] = "Vorkai Trainee",
-		[163891] = "Rotmarrow Slime",
+		[176176] = "Blighted Brute",
 		[156213] = "Coldheart Guardian",
 		[165427] = "Gorm Harrier",
 		[147000] = "Munitions Barrel <Kul Tiran Marine>",
 		[176177] = "Blighted Darkcaster",
-		[157238] = "Prophet Skitra",
-		[87337] = "Gorebound Insurgent",
+		[161333] = "Darkwall Betrayer",
+		[37534] = "Spinestalker",
 		[37662] = "Darkfallen Commander",
 		[151096] = "Maut",
 		[161334] = "Gnashing Terror",
-		[172084] = "Karon Ruz",
+		[163894] = "Blighted Spinebreaker",
 		[90409] = "Gorebound Felcaster",
 		[160823] = "Stoneborn Rebel",
-		[165430] = "Malignant Spawn",
+		[161335] = "Void Horror",
 		[146491] = "Phantom of Retribution",
-		[80172] = "Bladespire Raider",
+		[164407] = "Sludgefist",
 		[170550] = "Chosen Initiate",
 		[171062] = "Skittering Animite",
 		[159289] = "Juvenile Cloudfeather",
@@ -364,7 +365,7 @@ _detalhes_global = {
 		[166970] = "Lord Stavros",
 		[84013] = "Energized Swift Feather",
 		[80174] = "Pack Boar",
-		[157757] = "Vil'thik Amber-Shaper",
+		[170042] = "Stoneborn Recruit",
 		[154174] = "Unknown",
 		[158781] = "Shredded Psyche <[*] Shred Psyche>",
 		[87597] = "Bombardier Gu'gok",
@@ -386,7 +387,7 @@ _detalhes_global = {
 		[156226] = "Coldheart Binder",
 		[37665] = "Darkfallen Lieutenant",
 		[135240] = "Soul Essence",
-		[168512] = "Crystal of Phantasms",
+		[172607] = "Deathshade of Xantuth",
 		[164929] = "Tirnenn Villager",
 		[80689] = "Gronn Rockthrower",
 		[170048] = "Manifestation of Wrath",
@@ -430,26 +431,26 @@ _detalhes_global = {
 		[158796] = "Stonevigil Collector",
 		[159308] = "Zealous Adherent",
 		[163915] = "Hatchling Nest",
-		[131667] = "Soulbound Goliath",
+		[164427] = "Reanimated Warrior <Amarth>",
 		[173641] = "Nathrian Gargon",
 		[81206] = "Boneyard Gorger",
 		[166987] = "Deslan the Torturer",
 		[159309] = "Leeching Parasite",
 		[173642] = "Ruptured Organ <Gieger>",
 		[155215] = "Faeleaf Lasher",
-		[129323] = "Saintpooda",
+		[156239] = "Dark Ascended Corrus",
 		[152656] = "Deadsoul Stalker",
 		[170572] = "Atal'ai Hoodoo Hexxer",
 		[171596] = "Plaguebound Gargantuan",
-		[168525] = "Sabina",
+		[131670] = "Heartsbane Vinetwister",
 		[79416] = "Acidtooth Devourer",
-		[171597] = "Skeletal Vestige",
+		[159312] = "Living Blood",
 		[135254] = "Irontide Raider",
 		[156241] = "Monstrous Guardian",
 		[88630] = "Bonespike Ravager",
 		[80696] = "Botani Greensworn",
 		[156242] = "Animated Prowler",
-		[169551] = "Leerok the Scryer",
+		[86839] = "Savage Warwolf",
 		[166480] = "Living Slime Stalker",
 		[134232] = "Hired Assassin",
 		[155219] = "Gormling Spitter",
@@ -463,8 +464,8 @@ _detalhes_global = {
 		[75835] = "Stonemaul Slaver",
 		[156245] = "Grand Automaton",
 		[80698] = "Unknown",
-		[174161] = "Lady Sinsear",
-		[175697] = "Mawsworn Veteran",
+		[149591] = "Rastari Marksman",
+		[151127] = "Lord of Torment",
 		[173138] = "Mawsworn Outrider",
 		[165460] = "Unleashed Nightmare",
 		[174162] = "Countess Gloomveil",
@@ -473,11 +474,11 @@ _detalhes_global = {
 		[151640] = "Malfunctioning Scrapbot",
 		[131677] = "Heartsbane Runeweaver",
 		[148569] = "Breakwater Elemental",
-		[80699] = "Mandragora Lifedrinker",
+		[165461] = "Unleashed Nightmare",
 		[85050] = "Toom",
-		[170580] = "Siege Captain",
+		[154200] = "Depthsborn Binder",
 		[171092] = "Remnant of Glutharn",
-		[98103] = "Unknown",
+		[175699] = "Soul Feaster",
 		[165462] = "Unleashed Nightmare",
 		[165974] = "Crucible Seeker",
 		[175700] = "Mawsworn Eviscerator",
@@ -491,7 +492,7 @@ _detalhes_global = {
 		[172630] = "Gogan The Breacher",
 		[173142] = "Dread Feaster",
 		[153179] = "Drowned Adherent",
-		[161881] = "Injured Steelspine",
+		[83004] = "Sargerei Soul-Twister",
 		[170583] = "Chosen Warborn",
 		[175702] = "Mawsworn Neophyte",
 		[173655] = "Mistveil Matriarch",
@@ -511,12 +512,12 @@ _detalhes_global = {
 		[152159] = "Zoatroid",
 		[169051] = "Anima-Starved Patriarch",
 		[37544] = "Spire Gargoyle",
-		[80191] = "Blademaster Trainee",
+		[131685] = "Runic Disciple",
 		[169052] = "Anima-Starved Matriarch",
 		[165469] = "Nathrian Enforcer",
 		[175707] = "Mawsworn Instructor",
 		[151649] = "Defense Bot Mk I",
-		[160351] = "Redelav Steward",
+		[172636] = "Crystalline Stygia <Fused Stygia>",
 		[165470] = "Nathrian Executor",
 		[157792] = "Gushing Wound",
 		[175708] = "Mawsworn Valuator",
@@ -555,7 +556,7 @@ _detalhes_global = {
 		[50855] = "dubalacubaco",
 		[167525] = "Mortanis",
 		[151657] = "Bomb Tonk",
-		[160359] = "Forsworn Overseer",
+		[156264] = "Depraved Epicure",
 		[165478] = "Sharrex the Fleshcrafter",
 		[170085] = "Blighted Lurker",
 		[167526] = "Nurgash Muckformed",
@@ -659,9 +660,9 @@ _detalhes_global = {
 		[153728] = "Hatchery Gauntlet",
 		[154240] = "Unknown",
 		[163966] = "Dread Siphonist",
-		[160383] = "Door Controller",
+		[168573] = "Doom Shroom",
 		[157824] = "Protector of Flame",
-		[150146] = "Scrapbone Shaman",
+		[75089] = "Grom'kar Shieldbearer",
 		[176252] = "Crucible Overseer",
 		[84303] = "Skyreach Dreadtalon",
 		[164991] = "Alliance Peacekeeper",
@@ -692,7 +693,7 @@ _detalhes_global = {
 		[168580] = "Plagueborer",
 		[148617] = "Akunda the Devout",
 		[161414] = "Evolved Specimen",
-		[170628] = "Mawsworn Myrmidon",
+		[77140] = "Amaukwa",
 		[155272] = "Blackwater Oracle",
 		[176259] = "Mawsworn Sky Hunter",
 		[5913] = "Tremor Totem <Slimjjim-Frostmane>",
@@ -810,7 +811,7 @@ _detalhes_global = {
 		[159909] = "Nikolon's Distrust",
 		[89] = "Infernal <Odchlani-Dalaran>",
 		[170147] = "Volatile Memory",
-		[37562] = "Gas Cloud",
+		[158374] = "Mindgate",
 		[171171] = "Mawsworn Archer",
 		[167588] = "Madstitch Surgeon",
 		[159910] = "Nikolon's Doubt",
@@ -820,7 +821,7 @@ _detalhes_global = {
 		[171172] = "Mawsworn Shackler",
 		[159911] = "Nikolon's Despair",
 		[168613] = "Aurumane Larion",
-		[165030] = "Lady Inerva Darkvein",
+		[94816] = "Togdrov",
 		[95072] = "Greater Earth Elemental <Bíxeira-Azralon>",
 		[158376] = "Psychus",
 		[171173] = "Mawsworn Shadestalker",
@@ -1119,7 +1120,7 @@ _detalhes_global = {
 		[173798] = "Rat of Unusual Size",
 		[91522] = "Protector Bajunt",
 		[175846] = "Dathlane the Herald",
-		[156395] = "Starving Dredbat",
+		[168680] = "Mawsworn Overseer",
 		[133361] = "Wasting Servant",
 		[150253] = "Weaponized Crawler",
 		[81541] = "Sargerei Initiate",
@@ -1161,7 +1162,7 @@ _detalhes_global = {
 		[156406] = "Voidbound Honor Guard",
 		[173298] = "General Kaal",
 		[149240] = "Blingtron MK2",
-		[166644] = "Artificer Xy'mox",
+		[170739] = "Witherscorn Vanguard",
 		[152312] = "Azsh'ari Witch",
 		[170228] = "Bone Husk",
 		[170740] = "Master Shadeweaver",
@@ -1181,7 +1182,7 @@ _detalhes_global = {
 		[155899] = "Sak'ja",
 		[92554] = "Mek'barash",
 		[161530] = "Cloudtail",
-		[157947] = "Klaxxi Amber-Guard",
+		[170232] = "Etherwyrm Shadewing",
 		[166649] = "Champion Rin'mar",
 		[114565] = "Guardian of the Forgotten Queen <Holygimmik-Dalaran>",
 		[155900] = "Zsal'iss",
@@ -1192,11 +1193,11 @@ _detalhes_global = {
 		[166650] = "Champion Bloodrot",
 		[155901] = "Arcane Bomb",
 		[80782] = "Icespine Stinger",
-		[170234] = "Oppressive Banner <Xav the Unfallen>",
+		[162044] = "Scorched Sorcerer",
 		[73360] = "Blackrock Siegesmith",
 		[172282] = "Web Wrap <Morepheouss-Area52>",
 		[165116] = "Ossein Summon <Necrotic Summoner>",
-		[166652] = "Bladewing Guard",
+		[174842] = "Belligerent Waiter",
 		[163581] = "Avowed Usher",
 		[168700] = "Unknown",
 		[93068] = "Xhul'horac",
@@ -1225,9 +1226,9 @@ _detalhes_global = {
 		[151301] = "Malfunctioning Scraphound",
 		[155908] = "Deathspeaker",
 		[157444] = "Lodge Watcher",
-		[174336] = "Kennel Overseer",
+		[162051] = "Frenzied Ghoul",
 		[166658] = "Champion Gutrend",
-		[151814] = "Deadsoul Shade",
+		[88208] = "Pit Beast",
 		[88720] = "Void-Crazed Spirit",
 		[151815] = "Deadsoul Echo",
 		[94607] = "Gorebound Cauterizer",
@@ -1253,13 +1254,13 @@ _detalhes_global = {
 		[162057] = "Chamber Sentinel",
 		[128649] = "Sergeant Bainbridge",
 		[157451] = "Iron-Willed Enforcer",
-		[162058] = "Ventunax",
+		[157963] = "Animated Prowler",
 		[134417] = "Deepsea Ritualist",
 		[164618] = "The Fearstalker",
 		[157452] = "Unknown",
 		[162059] = "Kin-Tara",
 		[91539] = "Fel Raven",
-		[134418] = "Drowned Depthbringer",
+		[158988] = "Living Blade",
 		[155917] = "Azsh'ari Stormcaller",
 		[162060] = "Oryphrion",
 		[166667] = "Rotwing Construct",
@@ -1286,32 +1287,33 @@ _detalhes_global = {
 		[3527] = "Healing Stream Totem <Bíxeira-Azralon>",
 		[164623] = "Ravenous Blightwing",
 		[136470] = "Refreshment Vendor",
-		[153874] = "Mawsworn Sentry",
+		[166159] = "Rotbriar Manifestation",
 		[134423] = "Abyss Dweller",
 		[159505] = "Sparring Aspirant",
 		[131864] = "Gorak Tul",
+		[174134] = "Lord Evershade",
 		[133912] = "Bloodsworn Defiler",
 		[163089] = "Disgusting Refuse",
 		[168101] = "Empowered Deadsoul Shade",
 		[37973] = "Prince Taldaram",
-		[159503] = "Stonefist",
+		[156866] = "Ra-den",
 		[152852] = "Pashmar the Fanatical",
 		[84888] = "Sargerei Worker",
 		[58960] = "Xormotos",
 		[170768] = "Unknown",
 		[114321] = "Lord Crispin Ference",
-		[156866] = "Ra-den",
 		[169966] = "Vicebound Peltast",
 		[133835] = "Feral Bloodswarmer",
+		[164847] = "Requisitioner Packhound",
 		[152853] = "Silivaz the Zealous",
 		[173840] = "Unknown",
 		[128142] = "Unknown <Erzsébeth-Ragnaros>",
 		[91543] = "Corrupted Talonpriest",
-		[164847] = "Requisitioner Packhound",
 		[158894] = "Depraved Caregiver",
 		[160426] = "Converted Clawguard",
 		[153244] = "Oblivion Elemental",
-		[72348] = "Burning Slagmaw",
+		[160388] = "Lord Vasile",
+		[156949] = "Armsmaster Terenson",
 		[157461] = "Mycelial Cyst",
 		[153878] = "Mawsworn Archer",
 		[150295] = "Tank Buster MK1",
@@ -1322,256 +1324,256 @@ _detalhes_global = {
 		[165140] = "Dazed",
 		[78190] = "Darktide Rylakinator-3000",
 		[153879] = "Deadsoul Shadow",
-		[150160] = "Scrapbone Bully",
 		[94724] = "Bryanda",
+		[150160] = "Scrapbone Bully",
 		[159510] = "Eye of the Depths",
 		[176402] = "Mawsworn Sentry",
 		[80283] = "Bladespire Lookout",
 		[88729] = "Noxious Sproutling",
 		[157463] = "Loyalist Fearleacher",
-		[170728] = "Mawsworn Conqueror",
+		[165737] = "Sinstone Statue",
 		[150297] = "Mechagon Renormalizer",
 		[158999] = "Eternal Jailor",
 		[175891] = "Unknown",
 		[168213] = "Venerable Denizen",
 		[160535] = "Ashen Vagrant",
-		[155250] = "Decayspeaker",
-		[157464] = "Malevolent Stonekeeper",
 		[171500] = "Shuffling Corpse",
+		[157464] = "Malevolent Stonekeeper",
+		[155824] = "Lumbering Creation",
 		[95640] = "Sargerei Soul Cleaver",
-		[156015] = "Writhing Soulmass",
-		[165737] = "Sinstone Statue",
-		[168214] = "Ardent Loyalist",
+		[168098] = "Empowered Coldheart Agent",
 		[165869] = "Unleashed Major Hex",
-		[167607] = "Stoneborn Slasher",
+		[168214] = "Ardent Loyalist",
+		[171188] = "Plaguebound Devoted <Margrave Stradama>",
+		[148081] = "Reaping Portal",
 		[157465] = "Fiendish Stonestalker",
 		[153882] = "Deadsoul Spirit",
-		[85403] = "Crimsonwing Wasp",
-		[160905] = "Augmented Soldier",
+		[170774] = "Eketra",
+		[172523] = "Houndmaster Vasanok",
 		[167703] = "Mawsworn Guard",
 		[69791] = "Fire Spirit",
 		[94617] = "Glynevere",
 		[94873] = "Felfire Flamebelcher",
-		[172523] = "Houndmaster Vasanok",
+		[156331] = "Pontifex Tratus",
 		[170263] = "Blackthorn Ambusher",
-		[167111] = "Spinemaw Staghorn",
-		[153335] = "Potent Spark",
+		[175721] = "Rune Inscriber",
+		[134005] = "Shalebiter",
 		[167704] = "Tremaculum Sentinel",
 		[168216] = "Galescreamer Elder",
-		[122973] = "Dazar'ai Confessor",
-		[157810] = "Mawsworn Endbringer",
+		[153194] = "Unknown",
+		[37955] = "Blood-Queen Lana'thel",
 		[157467] = "Void Ascendant",
-		[165551] = "Suckling Corpselouse",
+		[168112] = "General Kaal",
 		[42710] = "Dracohalcón",
-		[170071] = "Mawsworn Shadestalker",
+		[160359] = "Forsworn Overseer",
 		[151325] = "Alarm-o-Bot",
 		[172312] = "Spinemaw Gorger",
 		[148254] = "Frost Shard",
-		[163431] = "Mor'Bitan",
+		[156142] = "Seeker of Souls",
 		[169753] = "Famished Tick",
 		[153885] = "Deadsoul Shambler",
 		[95642] = "Korvos",
-		[156142] = "Seeker of Souls",
-		[145261] = "Opulence",
-		[167509] = "Forsworn Researcher",
+		[159951] = "Fog Dweller",
+		[146409] = "Lady Jaina Proudmoore",
 		[122364] = "Marvin",
-		[37690] = "Unknown <Professor Putricide>",
-		[169050] = "Anima-Starved Shrieker",
+		[161635] = "Madame Lenuta",
+		[169157] = "Mudlump",
+		[75290] = "Adherent Squallbringer",
 		[122004] = "Roach",
 		[170778] = "Brute Von Deist",
-		[115006] = "Deranged Collector",
-		[163612] = "Event Horizon",
 		[160748] = "Possessed Defender",
+		[163612] = "Event Horizon",
+		[165471] = "Nathrian Duelist",
 		[168731] = "Copperfur Lurker",
 		[136483] = "Ashvane Deckhand",
 		[145185] = "Gnomercy 4.U.",
 		[153887] = "Lashing Tendril",
 		[138019] = "Kul Tiran Vanguard",
 		[159006] = "Gorged Gormling",
-		[175699] = "Soul Feaster",
-		[147745] = "The Indomitable",
 		[147439] = "Molten Hound",
+		[147745] = "The Indomitable",
+		[153196] = "Unknown",
 		[80543] = "Lernaean Scout",
 		[161369] = "Unknown",
 		[85150] = "Darktide Machinist",
 		[166685] = "Manifestation of Greed",
-		[157784] = "Scorched Bandit",
+		[145903] = "Darkforged Crusader",
 		[151329] = "Warden Skoldus",
 		[90269] = "Tyrant Velhari",
-		[145903] = "Darkforged Crusader",
-		[173189] = "Nathrian Hawkeye",
+		[160351] = "Redelav Steward",
+		[94808] = "Hellfire Guardian",
 		[153377] = "Goop",
-		[160356] = "Praetorian Artificer",
 		[160747] = "Shimmerbough Ritualist",
+		[150653] = "Blackwater Behemoth",
 		[67235] = "Shadowfiend <Tastytaco-Mal'Ganis>",
 		[171805] = "Research Scribe",
-		[157253] = "Ka'zir",
-		[130230] = "Sandfury Dunerider",
-		[168718] = "Forsworn Warden",
+		[172199] = "Maniacal Infuser",
+		[170071] = "Mawsworn Shadestalker",
+		[127479] = "The Sand Queen",
 		[165663] = "Genghis",
-		[100943] = "Earthen Wall Totem <Raizeus-Dalaran>",
-		[161113] = "Akhet",
-		[82724] = "Tog the Earthrender",
+		[170580] = "Siege Captain",
+		[157784] = "Scorched Bandit",
+		[76876] = "O'mogg Blackheart",
 		[151331] = "Cellblock Sentinel",
 		[164128] = "Mephiles the Loyal",
 		[127381] = "Silt Crab",
-		[165959] = "Unknown",
+		[170488] = "Son of Hakkar",
 		[169759] = "Withering Presence",
-		[162133] = "General Kaal",
-		[94802] = "Voidscribe Aathalos",
-		[78409] = "Assistant Fexfuse",
-		[157442] = "Gaze of Madness",
-		[161859] = "Mindless Animate",
-		[127485] = "Bilge Rat Looter",
-		[166071] = "Illusionary Saberfang",
+		[83017] = "Imp Charmer",
+		[92514] = "Shao'ghun",
+		[135263] = "Ashvane Spotter",
+		[157757] = "Vil'thik Amber-Shaper",
+		[129323] = "Saintpooda",
+		[176113] = "Carved Tracker",
+		[167246] = "Unleashed Trauma <Toshmonk>",
 		[157475] = "Synthesis Growth",
 		[58964] = "Hrogmek",
 		[81313] = "Embaari Peacekeeper",
-		[37027] = "Skybreaker Hierophant",
-		[163618] = "Zolramus Necromancer",
-		[155812] = "Mawsworn Ritualist",
+		[152661] = "Mawsworn Ward",
+		[151333] = "Sentinel Shard",
+		[173175] = "Aerial Bombardment Stalker",
 		[148262] = "Tidewater Elemental",
-		[162641] = "Unknown",
+		[78409] = "Assistant Fexfuse",
 		[161571] = "Anubisath Sentinel",
-		[149591] = "Rastari Marksman",
-		[136541] = "Unknown",
-		[153165] = "Custodian Thonar",
+		[154451] = "Squidtail Screamer",
+		[80447] = "Bloodmane Raider",
+		[161859] = "Mindless Animate",
 		[163619] = "Zolramus Bonecarver",
-		[168681] = "Forsworn Helion",
-		[134828] = "Aqualing",
+		[157253] = "Ka'zir",
+		[155216] = "Faeleaf Warden",
 		[144680] = "Light's Fury",
 		[153382] = "Maw of the Maw",
 		[166179] = "Darkwarren Ravager",
-		[165556] = "Fleeting Manifestation",
+		[83653] = "Shattered Hand Cutthroat",
 		[138538] = "Abyssal Reach",
 		[163620] = "Rotspew",
-		[170518] = "Mawsworn Demolisher",
-		[168112] = "General Kaal",
+		[164555] = "Millificent Manastorm",
 		[172005] = "Furrowed Colossus",
+		[152128] = "Orgozoa",
 		[161573] = "Disciple of the Prophet",
 		[170275] = "Bladesworn Enchanter",
-		[73555] = "Bladespire Chef",
-		[155216] = "Faeleaf Warden",
+		[153165] = "Custodian Thonar",
+		[170160] = "Unknown <Darksworn Mechanic>",
 		[175906] = "Fiendish Minion",
-		[155814] = "Eldritch Understudy",
+		[162880] = "Mistress Dyrax",
 		[160550] = "Faceless Dominator",
-		[81729] = "Enraged Gembiter",
+		[94018] = "Shadow Burster",
 		[149289] = "De Lurker Be'loa",
-		[137516] = "Ashvane Invader",
-		[164427] = "Reanimated Warrior <Amarth>",
-		[156794] = "SI:7 Light-Hunter",
+		[58965] = "Nixlikad",
+		[162886] = "Zara'thik Hive-Guard",
+		[172516] = "Ravenous Swarmer <The Pale Doom>",
 		[163622] = "Goregrind Bits",
 		[77988] = "Magma Elemental",
-		[172516] = "Ravenous Swarmer <The Pale Doom>",
+		[157721] = "Mushroom Mangler",
 		[152873] = "Arcane Bomb",
-		[170042] = "Stoneborn Recruit",
+		[157255] = "Unknown",
 		[137517] = "Ashvane Destroyer",
-		[157005] = "Flayed Soul",
+		[172077] = "Vengeful Essence",
 		[146731] = "Zombie Dust <King Rastakhan>",
 		[163623] = "Rotspew Leftovers",
-		[158343] = "Organ of Corruption",
+		[162278] = "Floki",
 		[156457] = "Oozing Corruption",
 		[173349] = "Slime Shaper",
 		[153386] = "Gooped",
-		[162278] = "Floki",
-		[37545] = "Spire Minion",
+		[160477] = "Manifestation of Rage",
 		[153064] = "Unknown",
+		[165978] = "Scavenging Mawrat",
 		[163624] = "The Pale Doom",
-		[80691] = "Sor the Eradicator",
-		[131670] = "Heartsbane Vinetwister",
+		[174336] = "Kennel Overseer",
+		[161388] = "Necromantic Scourer",
 		[152875] = "Massive Crusher",
-		[169154] = "Famished Fangling",
-		[77991] = "Bloodmaul Brute",
+		[83769] = "Energized Phoenix",
+		[170979] = "Wiry Venthyr",
 		[37595] = "Darkfallen Blood Knight",
-		[146409] = "Lady Jaina Proudmoore",
-		[168001] = "Empowered Flameforge Enforcer",
+		[156219] = "Coldheart Scout",
+		[169955] = "Prideful Hoplite",
 		[176422] = "Unknown",
 		[152364] = "Radiance of Azshara",
-		[169955] = "Prideful Hoplite",
-		[175721] = "Rune Inscriber",
-		[127479] = "The Sand Queen",
-		[120651] = "Explosives",
+		[89019] = "Everbloom Shaper",
+		[173026] = "Chosen Infantry",
+		[155951] = "Ruffer",
+		[170692] = "Krala",
 		[126618] = "Bloodraged Pterrordax",
 		[90019] = "Reinforced Hellfire Door",
-		[168233] = "Ghastly Willbreaker",
+		[176423] = "Blazing Stygia",
 		[131890] = "Rock Stalker",
-		[156239] = "Dark Ascended Corrus",
+		[160905] = "Augmented Soldier",
 		[161579] = "Invading Soulsplitter",
 		[137521] = "Irontide Powdershot",
-		[159792] = "Congealed Loss",
 		[126455] = "Fox",
-		[170979] = "Wiry Venthyr",
-		[168234] = "Unknown <Châmpion-Illidan>",
-		[85075] = "Shadowmoon Defiler",
-		[153906] = "Living Infestation",
-		[161580] = "Invading Fadeblade",
-		[77140] = "Amaukwa",
+		[168001] = "Empowered Flameforge Enforcer",
+		[160721] = "Fallen Acolyte Erisne",
+		[135474] = "Thistle Acolyte",
+		[163414] = "Morbid Disciple",
+		[165976] = "Unknown",
+		[157485] = "Growth-Covered Tentacle",
 		[168418] = "Forsworn Inquisitor",
+		[95282] = "Azgalor",
 		[175401] = "Warden of Souls",
-		[85562] = "Skittering Doomstinger",
+		[176179] = "Unknown",
 		[176425] = "Protector of Flame",
-		[135987] = "Tentacle",
-		[162880] = "Mistress Dyrax",
+		[168747] = "Venomfang <Venomous Sniper>",
+		[134284] = "Fallen Deathspeaker",
 		[169771] = "Soul Monitor",
 		[153903] = "Faceless Conqueror",
-		[87357] = "Valkor",
+		[172210] = "Madstitch Fleshcrafter",
 		[171307] = "Grathalax",
 		[167724] = "Rotbriar Boggart",
-		[155951] = "Ruffer",
-		[163894] = "Blighted Spinebreaker",
+		[176426] = "Magmic Flamebinder",
+		[120651] = "Explosives",
 		[144690] = "Mestrah",
 		[165677] = "Brittlebark Manifestation",
 		[76968] = "Sultry Desecrator",
-		[84278] = "Felfire Elemental",
 		[165346] = "Vicious Spriggan",
-		[93625] = "Phantasmal Resonance <Shadow-Lord Iskar>",
+		[162103] = "Executor Tarvold",
+		[173360] = "Plaguebelcher",
 		[77992] = "Bloodmaul Magma Shaper",
-		[166426] = "Stitchyard Apprentice",
-		[75290] = "Adherent Squallbringer",
+		[84278] = "Felfire Elemental",
+		[87337] = "Gorebound Insurgent",
 		[128547] = "Chiroptera",
 		[153905] = "Deephive Chosen",
-		[94008] = "Dark Devourer",
 		[162274] = "Animite Broodmother",
-		[165919] = "Skeletal Marauder",
+		[37663] = "Darkfallen Noble",
+		[165345] = "Giant Mawrat",
 		[160048] = "Plaguedoused Remnant",
 		[88486] = "Eye of Zamaya",
 		[80552] = "Grom'kar Siegesmith",
 		[64982] = "zawarudo <Genichiro-Ragnaros>",
-		[76969] = "Insidious Defiler",
-		[165345] = "Giant Mawrat",
-		[176251] = "Warden of Misery",
-		[152128] = "Orgozoa",
+		[153906] = "Living Infestation",
+		[85429] = "Varashian Vilefang",
+		[157493] = "Malicious Hopebreaker",
+		[159714] = "Marrowbore Creeper",
 		[77993] = "Bloodmaul Taskmaster",
 		[74154] = "Thunderlord Lasher",
 		[148788] = "Frozen Wave <Lady Jaina Proudmoore>",
-		[159714] = "Marrowbore Creeper",
+		[144941] = "Akunda's Aspect",
 		[153907] = "Putrid Ichor",
-		[146736] = "Ire of the Deep",
-		[163121] = "Stitched Vanguard",
 		[170975] = "Stone Messenger",
-		[58456] = "Wolf",
-		[83004] = "Sargerei Soul-Twister",
-		[171316] = "Malevolent Stygia",
+		[159026] = "Carved Tracker",
+		[135975] = "Off-Duty Laborer",
+		[168240] = "Gorgebeak",
+		[129367] = "Bilge Rat Tempest",
 		[153059] = "Aethanel",
+		[157229] = "Living Miasma",
 		[153908] = "Eye of the Empire",
 		[170800] = "Coldheart Ambusher",
-		[159027] = "Depraved Stalker",
-		[94816] = "Togdrov",
+		[163122] = "Brittlebone Warrior",
+		[83640] = "Dominating Drudge",
 		[1860] = "Mezzmon",
-		[156219] = "Coldheart Scout",
-		[173360] = "Plaguebelcher",
-		[87222] = "Highmaul Enforcer",
+		[159764] = "Jesh'ra",
+		[156980] = "Essence of Void",
+		[69946] = "Spirit Beast",
 		[162099] = "General Kaal",
-		[159303] = "Monstrous Behemoth",
+		[131824] = "Sister Solena",
 		[171313] = "Willbreaker Acolyte",
-		[162103] = "Executor Tarvold",
+		[159425] = "Occult Shadowmender",
 		[155957] = "Baruk Stoneshaper",
-		[149558] = "Jaina's Tide Elemental <Jaina's Tide Elemental>",
+		[141285] = "Kul Tiran Marksman",
 		[173361] = "Slimy Morsel <Slime Skeleton Stalker F>",
 		[161588] = "Unknown",
-		[133435] = "Drust Slaver Summoning Portal",
-		[141285] = "Kul Tiran Marksman",
-		[161335] = "Void Horror",
+		[162100] = "Kryxis the Voracious",
+		[58456] = "Wolf",
+		[131667] = "Soulbound Goliath",
 		[167731] = "Throw Cleaver <Workshop Portal>",
 		[77995] = "Bloodmaul Bonecrusher",
 		[37086] = "Pingo",
@@ -1579,484 +1581,484 @@ _detalhes_global = {
 		[165684] = "Anima Conduit",
 		[133436] = "Venture Co. Skyscorcher",
 		[170803] = "Spectral Hateweaver",
-		[159458] = "Carved Servant",
+		[131669] = "Jagged Hound",
 		[31216] = "Auz-Khadgar <Auz-Khadgar>",
-		[153910] = "Tidal Corruptor",
-		[163621] = "Goregrind",
-		[86839] = "Savage Warwolf",
+		[160289] = "Redelav Groundskeeper",
+		[144693] = "Manceroy Flamefist",
+		[168233] = "Ghastly Willbreaker",
 		[169780] = "Resonant Misery",
 		[162102] = "Grand Proctor Beryllia",
 		[42717] = "Lobo",
-		[163126] = "Brittlebone Mage",
+		[171316] = "Malevolent Stygia",
 		[151353] = "Mawrat",
-		[131669] = "Jagged Hound",
-		[156157] = "Coldheart Ascendant",
-		[176428] = "Stygian Runesmith",
+		[161580] = "Invading Fadeblade",
+		[165430] = "Malignant Spawn",
+		[151816] = "Deadsoul Scavenger",
 		[153401] = "K'thir Dominator",
 		[79020] = "Echidnian Hydra",
 		[166710] = "Executioner Aatron",
 		[171317] = "Conjured Death",
-		[172078] = "Oakheart Soul-Eater",
-		[168246] = "Reanimated Crossbowman <Amarth>",
 		[164830] = "Flayedwing Scout",
+		[168246] = "Reanimated Crossbowman <Amarth>",
+		[151034] = "Crushing Grasp",
 		[169270] = "Disturbed Nightmare",
 		[165687] = "Lightbound Scorcher",
-		[157493] = "Malicious Hopebreaker",
-		[163122] = "Brittlebone Warrior",
-		[171318] = "Morbid Ritualist",
-		[157229] = "Living Miasma",
-		[80313] = "Peon",
+		[79926] = "Glowing Draenite Crystal",
+		[85075] = "Shadowmoon Defiler",
+		[163128] = "Zolramus Sorcerer",
+		[133432] = "Venture Co. Alchemist",
+		[85775] = "Grom'kar Deadeye",
 		[160569] = "Swiftwing Larion",
 		[169271] = "Rift Blast Portal",
-		[89144] = "Infected Mechanic",
 		[141283] = "Kul Tiran Halberd",
-		[69946] = "Spirit Beast",
-		[159026] = "Carved Tracker",
-		[169265] = "Creepy Crawler",
+		[164406] = "Shriekwing",
+		[91830] = "Demon Portal",
+		[165919] = "Skeletal Marauder",
+		[64029] = "Elder Lin",
 		[92330] = "Soul of Socrethar",
-		[131383] = "Sporecaller Zancha",
+		[137516] = "Ashvane Invader",
 		[148797] = "Frostbolt <Moonßlight>",
 		[84908] = "Nightshade Consort",
-		[165094] = "Gladestalker",
-		[166679] = "Hopecrusher",
-		[81207] = "Drywind Bonepicker",
-		[161082] = "Mawsworn Interceptor",
-		[155686] = "Azsh'ari Venomwatcher",
-		[122971] = "Dazar'ai Juggernaut",
+		[152612] = "Subjugator Klontzas",
+		[165414] = "Depraved Obliterator",
+		[134828] = "Aqualing",
+		[158752] = "Predatory Bloodtusk",
+		[172066] = "Rootfingers",
+		[168673] = "Starving Shadehound",
 		[161083] = "Mawsworn Sentry",
 		[107431] = "Weaponized Rabbot",
-		[157485] = "Growth-Covered Tentacle",
+		[91305] = "Fel Iron Summoner",
 		[166714] = "Ruiner Maroth",
-		[168240] = "Gorgebeak",
-		[173604] = "Sinister Antiquarian",
-		[80057] = "Soulfang",
-		[164558] = "Hakkar the Soulflayer",
+		[87222] = "Highmaul Enforcer",
+		[163621] = "Goregrind",
+		[152874] = "Vez'okk the Lightless",
+		[31139] = "Pustulent Horror",
 		[161084] = "Mawsworn Soulweaver",
-		[83640] = "Dominating Drudge",
-		[148615] = "Div'yane",
-		[169196] = "Crimson Cabalist",
+		[78210] = "Grom'kar Pulverizer",
+		[69943] = "PuercoSpin",
+		[155952] = "Suffer",
 		[130722] = "Pipex",
-		[167431] = "Risen Magus",
+		[170690] = "Diseased Horror",
 		[90284] = "Iron Reaver",
 		[172858] = "Stone Legion Goliath",
 		[152895] = "Echo of Chi-Ji <Gildarin-GrizzlyHills>",
 		[161597] = "Scouring Slime",
 		[162109] = "Duke Vielle",
-		[125828] = "Soulrend Add",
+		[162849] = "Morguliax",
 		[146753] = "Kul Tiran Marine",
 		[175930] = "Mawsworn Necrobinder",
-		[161333] = "Darkwall Betrayer",
 		[170969] = "Ragerider Battlehorn",
+		[163126] = "Brittlebone Mage",
 		[169276] = "Unknown",
-		[165976] = "Unknown",
-		[152874] = "Vez'okk the Lightless",
+		[174186] = "Annealed Stygia <Tempered Stygia>",
+		[168525] = "Sabina",
 		[42719] = "Jabalí",
-		[69943] = "PuercoSpin",
 		[173016] = "Corpse Collector",
-		[169102] = "Agonix",
-		[172860] = "Ripened Laborer",
+		[165137] = "Zolramus Gatekeeper",
 		[155612] = "Azsh'ari Channeler",
-		[137029] = "Ordnance Specialist",
+		[172860] = "Ripened Laborer",
+		[165094] = "Gladestalker",
+		[161599] = "Bubbling Sclerosis",
 		[166206] = "Primordial Sludge",
 		[166718] = "Manifestation of Envy",
-		[162994] = "Possessed Keeper",
-		[77944] = "Grom'kar Shocktrooper",
+		[169267] = "Root of Extinction",
 		[126991] = "Shadowys",
+		[89083] = "Skyreach Dawnbreaker",
 		[148291] = "Soul Barrage",
 		[84655] = "Spiteleaf Squirt",
-		[89083] = "Skyreach Dawnbreaker",
+		[172084] = "Karon Ruz",
 		[170302] = "Talaporas, Herald of Pain",
-		[160289] = "Redelav Groundskeeper",
-		[146756] = "Unknown",
-		[151333] = "Sentinel Shard",
-		[156949] = "Armsmaster Terenson",
-		[153119] = "Lesser Void Elemental",
-		[133963] = "Test Subject",
-		[91305] = "Fel Iron Summoner",
-		[170303] = "Exos, Herald of Domination",
 		[161308] = "Endless Scourge",
-		[176131] = "Crucible Magus",
-		[174100] = "Nathrian Singuard",
+		[146756] = "Unknown",
+		[72348] = "Burning Slagmaw",
+		[92961] = "Gorebound Brute",
+		[94284] = "Fiery Enkindler",
+		[135987] = "Tentacle",
+		[81769] = "Primal Growth",
+		[170303] = "Exos, Herald of Domination",
+		[157947] = "Klaxxi Amber-Guard",
+		[80172] = "Bladespire Raider",
 		[164824] = "Chosen Protector",
+		[164312] = "Taloned Flayedwing",
 		[88495] = "Bloodtalon Raptor",
 		[84656] = "Spiteleaf Stabber",
-		[164312] = "Taloned Flayedwing",
+		[168591] = "Ravenous Dreadbat",
 		[85168] = "Sargerei Acolyte",
-		[155952] = "Suffer",
 		[155098] = "Rexxar",
-		[175881] = "Unknown",
+		[136975] = "Heavy Ordnance",
+		[127503] = "Overseer Korgus",
 		[131402] = "Underrot Tick",
-		[175089] = "Lichsworn Menial",
+		[168949] = "Risen Bonesoldier",
 		[94894] = "Keen-Eyed Gronnstalker",
-		[147532] = "Kul Tiran Cannon",
+		[155813] = "Court Attendant",
 		[162115] = "Koda Steelclaw",
-		[93616] = "Dreadstalker",
 		[148443] = "Defense-A-Bot",
-		[148488] = "Unliving Augur",
-		[78116] = "Water Elemental",
-		[165137] = "Zolramus Gatekeeper",
+		[93616] = "Dreadstalker",
+		[159458] = "Carved Servant",
+		[165138] = "Blight Bag",
+		[155250] = "Decayspeaker",
 		[84657] = "Spiteleaf Mender",
-		[173051] = "Suppressor Xelors",
+		[166652] = "Bladewing Guard",
 		[162116] = "Lyanis Moonfall",
-		[93615] = "Felborne Overfiend",
+		[133963] = "Test Subject",
 		[175425] = "Mawsworn Darkcaster",
-		[162100] = "Kryxis the Voracious",
-		[82209] = "Loup",
-		[157721] = "Mushroom Mangler",
+		[141303] = "B.O.O.M.B.A.",
+		[162303] = "Aqir Swarmkeeper",
 		[148442] = "Gnomish Commando",
-		[165640] = "Congealed Torment",
+		[153099] = "Baruk Protector",
+		[157793] = "Zara'thik Soldier",
 		[162117] = "Tyrande Whisperwind",
-		[167942] = "Mawsworn Willbreaker",
 		[77564] = "Viperlash",
-		[158991] = "Champion of the Alliance",
+		[153874] = "Mawsworn Sentry",
+		[78116] = "Water Elemental",
 		[160070] = "Gorm Matriarch",
-		[90432] = "Felfire Flamebelcher",
+		[156815] = "Imdomitable",
 		[165189] = "Caraoto",
 		[137036] = "Awoken Void",
-		[153099] = "Baruk Protector",
+		[168107] = "Empowered Mawsworn Interceptor",
 		[170820] = "Ossein Champion",
-		[166728] = "Colossal Feaster",
 		[148441] = "Gnomish Gyro-Engineer",
+		[120587] = "turdeater",
 		[151881] = "Abyssal Commander Sivara",
-		[162303] = "Aqir Swarmkeeper",
+		[85428] = "Shattered Hand Lookout",
 		[152905] = "Tower Sentinel",
-		[31139] = "Pustulent Horror",
+		[161113] = "Akhet",
 		[95408] = "Anetheron",
 		[170821] = "Cackling Stitchsurgeon",
-		[168457] = "Stonewall Gargon",
-		[59102] = "Unknown",
+		[173189] = "Nathrian Hawkeye",
+		[148488] = "Unliving Augur",
 		[147787] = "7th Legion Battlemage",
-		[159425] = "Occult Shadowmender",
+		[174729] = "Blighted Conqueror",
 		[169286] = "Soulsteel Colossus",
-		[79903] = "Skog",
+		[165706] = "Aggregate of Doom",
 		[158025] = "Darklord Taraxis",
-		[87583] = "Savage Warwolf",
+		[85542] = "Skyreach Labormaster",
 		[150859] = "Za'qul",
-		[158988] = "Living Blade",
-		[155483] = "Faeleaf Shimmerwing",
-		[170232] = "Etherwyrm Shadewing",
-		[161626] = "Lady Oana",
+		[159578] = "Exposed Synapse",
+		[153347] = "Eye of the Corruptor",
+		[128652] = "Viq'Goth",
+		[159495] = "Mire Dredger",
 		[161609] = "Madame Sorina",
-		[166942] = "Eye of Zolramus",
-		[146253] = "Brother Joseph",
 		[158165] = "Costel",
-		[159312] = "Living Blood",
+		[166728] = "Colossal Feaster",
+		[152910] = "Queen's Disgust",
+		[162636] = "Animated Prowler",
 		[160074] = "Gorm Slicer",
 		[152396] = "Guardian of Azeroth <Métalcóre-Ragnaros>",
-		[101398] = "Psyfiend <Abasy-Ragnaros>",
-		[153347] = "Eye of the Corruptor",
+		[84253] = "Voracious Stonemuncher",
 		[139737] = "Lord Stormsong",
-		[85428] = "Shattered Hand Lookout",
-		[169803] = "Turned Fae",
-		[153090] = "Lady Venomtongue",
-		[160075] = "Gorm Spewer",
+		[143622] = "Wild Imp <Impsimpp-Illidan>",
+		[59102] = "Unknown",
+		[165041] = "Guardian Mastrus",
 		[131858] = "Thornguard",
-		[172636] = "Crystalline Stygia <Fused Stygia>",
-		[165706] = "Aggregate of Doom",
-		[37955] = "Blood-Queen Lana'thel",
-		[134137] = "Temple Attendant",
-		[72347] = "Ravenous Ironchewer",
-		[94618] = "Cattwen",
+		[160075] = "Gorm Spewer",
+		[82209] = "Loup",
+		[165108] = "Illusionary Clone",
+		[161611] = "Madame Tassa",
+		[171745] = "Congealed Plague",
+		[175089] = "Lichsworn Menial",
+		[163892] = "Rotting Slimeclaw",
+		[170994] = "Naeda Crane",
 		[168266] = "Morbid Boneguard",
-		[173044] = "Stitching Assistant <Workshop Portal>",
-		[152910] = "Queen's Disgust",
+		[130435] = "Addled Thug",
+		[157005] = "Flayed Soul",
 		[161612] = "Lady Rodica",
 		[158029] = "Drifting Spirit",
-		[162636] = "Animated Prowler",
-		[37125] = "Captain Rupert",
+		[146256] = "Laminaria",
+		[167994] = "Ossified Conscript",
 		[163660] = "Rootstinger Warrior",
-		[172192] = "Masked Hunter",
 		[162258] = "Ravenous Galescreamer",
-		[135329] = "Matron Bryndle",
-		[161613] = "Korrim the Cunning",
+		[165556] = "Fleeting Manifestation",
+		[169458] = "Hecutis",
+		[169803] = "Turned Fae",
 		[87221] = "Highmaul Guard",
 		[154447] = "Brother Meller",
 		[154959] = "Titan Console",
-		[171341] = "Bladebeak Hatchling",
-		[85429] = "Varashian Vilefang",
-		[143622] = "Wild Imp <Impsimpp-Illidan>",
-		[165197] = "Skeletal Monstrosity",
-		[165992] = "Mawsworn Soulrender",
-		[152816] = "Stormling",
+		[157486] = "Horrific Hemorrhage",
 		[114318] = "Baron Rafe Dreuger",
-		[91830] = "Demon Portal",
-		[161510] = "Mindrend Tentacle",
-		[81309] = "Greyseer",
+		[159729] = "Redelav Attendant",
+		[165197] = "Skeletal Monstrosity",
+		[169196] = "Crimson Cabalist",
+		[129370] = "Irontide Waveshaper",
+		[166736] = "Bristlecone Terror",
+		[150276] = "Heavy Scrapbot",
+		[170070] = "Glimmerfur Denwatcher",
+		[37125] = "Captain Rupert",
 		[74169] = "Gloomshade Howler",
-		[160721] = "Fallen Acolyte Erisne",
+		[80699] = "Mandragora Lifedrinker",
 		[161615] = "Lady Andrada",
 		[166222] = "Barrier",
-		[85693] = "Lernaea Vilescale",
-		[167246] = "Unleashed Trauma <Toshmonk>",
-		[158374] = "Mindgate",
+		[160345] = "Blistering Inquisitor",
+		[171341] = "Bladebeak Hatchling",
+		[135329] = "Matron Bryndle",
 		[84151] = "Gorge Rylak",
-		[135474] = "Thistle Acolyte",
-		[92961] = "Gorebound Brute",
+		[166644] = "Artificer Xy'mox",
+		[157238] = "Prophet Skitra",
 		[161616] = "Duchess Silviana",
 		[133463] = "Venture Co. War Machine",
 		[166735] = "Deranged Guardian",
 		[171342] = "Juvenile Runestag",
-		[161947] = "Warden Eriken",
-		[158710] = "Restless Monitor",
-		[173717] = "Rune Extractor",
+		[83989] = "Apexis Sol-Mender",
+		[98103] = "Unknown",
+		[164815] = "Zolramus Siphoner",
 		[161105] = "Indomitable Schmitd",
 		[169807] = "Erupted Spine <Toshmonk>",
-		[164815] = "Zolramus Siphoner",
-		[166736] = "Bristlecone Terror",
+		[88589] = "Pridelands Goretusk",
+		[162641] = "Unknown",
 		[171343] = "Bladebeak Matriarch",
-		[130435] = "Addled Thug",
+		[72347] = "Ravenous Ironchewer",
 		[164177] = "Royal Nightcloak",
 		[156499] = "Honored Hopebreaker",
-		[165461] = "Unleashed Nightmare",
-		[170488] = "Son of Hakkar",
+		[170323] = "General Grashaal",
+		[155770] = "Dread Hatchling <Crawler Egg>",
 		[158035] = "Magister Umbric",
-		[168107] = "Empowered Mawsworn Interceptor",
-		[168170] = "Stone Legion Lookout",
 		[85177] = "Iron Wolf",
-		[78999] = "Darktide Engineer",
-		[160355] = "Converted Clawguard",
-		[141565] = "Kul Tiran Footman",
-		[170070] = "Glimmerfur Denwatcher",
-		[163824] = "Skeletal Guardian",
-		[165471] = "Nathrian Duelist",
+		[145397] = "Akunda's Wrath",
+		[168113] = "General Grashaal",
+		[163994] = "Dustwilt Gorger",
+		[73555] = "Bladespire Chef",
+		[127485] = "Bilge Rat Looter",
+		[174100] = "Nathrian Singuard",
+		[125828] = "Soulrend Add",
+		[161790] = "The Unknown",
 		[83641] = "Sledgebasher",
 		[135002] = "Demonic Tyrant <Djul-Zul'jin>",
-		[129367] = "Bilge Rat Tempest",
 		[153552] = "Weeping Wraith",
-		[83989] = "Apexis Sol-Mender",
+		[153335] = "Potent Spark",
+		[168718] = "Forsworn Warden",
 		[161620] = "Lord Darion",
 		[153942] = "Annihilator Lak'hal",
-		[150653] = "Blackwater Behemoth",
-		[152704] = "Crawling Corruption",
-		[158040] = "Unbound Deathwalker",
+		[168574] = "Pestilent Harvester",
+		[95630] = "Construct Peacekeeper",
+		[165992] = "Mawsworn Soulrender",
 		[90296] = "Soulbound Construct",
-		[155634] = "Bound Storm",
-		[94018] = "Shadow Burster",
-		[163892] = "Rotting Slimeclaw",
-		[170323] = "General Grashaal",
-		[164184] = "Ambitious Duelist",
-		[163157] = "Amarth",
+		[168170] = "Stone Legion Lookout",
+		[176428] = "Stygian Runesmith",
+		[173146] = "Winged Ravager",
+		[162133] = "General Kaal",
 		[161229] = "Aqir Venomweaver",
+		[163157] = "Amarth",
 		[168907] = "Slime Tentacle",
 		[86261] = "Botani Vine-Weaver",
 		[176073] = "Mawsworn Outrider",
+		[173633] = "Nathrian Archivist",
 		[169812] = "Turned Sentinel",
-		[83017] = "Imp Charmer",
 		[81398] = "Frostwall Goren Hatchling",
+		[78999] = "Darktide Engineer",
 		[171348] = "Necrotic Darkhound",
-		[134139] = "Shrine Templar",
-		[172217] = "Cankerous Hurler",
-		[176113] = "Carved Tracker",
+		[152816] = "Stormling",
+		[134137] = "Temple Attendant",
+		[172221] = "Wretched Assistant",
 		[165206] = "Unknown",
 		[169813] = "Hand of Destruction",
-		[170325] = "Argentwing Larion",
+		[158040] = "Unbound Deathwalker",
 		[162647] = "Willing Sacrifice",
 		[83643] = "Malroc Stonesunder",
-		[169574] = "Fastbind Stitcher",
-		[95638] = "Sargerei Bannerman",
-		[155824] = "Lumbering Creation",
+		[167263] = "Tariesh",
+		[166071] = "Illusionary Saberfang",
+		[156395] = "Starving Dredbat",
 		[161112] = "King Phaoris",
 		[161624] = "Duchess Minodora",
 		[158041] = "N'Zoth the Corruptor",
 		[170838] = "Unyielding Contender",
 		[93881] = "Contracted Engineer",
 		[159577] = "Malevolent Minion",
-		[61537] = "Enraged Cavalier",
-		[156264] = "Depraved Epicure",
+		[164184] = "Ambitious Duelist",
+		[170953] = "Head Pugilist",
 		[165208] = "Warstitched Guard",
 		[165720] = "Coalesced Fury",
 		[87227] = "Fungal Destroyer",
-		[170953] = "Head Pugilist",
-		[168158] = "Remornia",
-		[159578] = "Exposed Synapse",
+		[175243] = "Mawsworn Chorus",
+		[89144] = "Infected Mechanic",
+		[155483] = "Faeleaf Shimmerwing",
 		[164185] = "Echelon",
 		[160602] = "Rock Lord",
-		[173175] = "Aerial Bombardment Stalker",
-		[89019] = "Everbloom Shaper",
-		[168680] = "Mawsworn Overseer",
-		[165053] = "Mymaen",
+		[85051] = "Bort",
+		[161626] = "Lady Oana",
+		[158052] = "Zara'thik Skirmisher",
 		[168393] = "Plaguebelcher",
-		[160913] = "Vestigial Animate",
-		[130488] = "Mech Jockey",
+		[163891] = "Rotmarrow Slime",
+		[165551] = "Suckling Corpselouse",
+		[170628] = "Mawsworn Myrmidon",
 		[172888] = "Lurking Alpha",
-		[95630] = "Construct Peacekeeper",
+		[165030] = "Lady Inerva Darkvein",
 		[161627] = "Madame Relia",
-		[37532] = "Frostwing Whelp",
+		[173729] = "Manifestation of Pride",
 		[128434] = "Feasting Skyscreamer",
-		[160345] = "Blistering Inquisitor",
+		[137029] = "Ordnance Specialist",
 		[163675] = "Manifestation of Hubris",
-		[169267] = "Root of Extinction",
-		[162886] = "Zara'thik Hive-Guard",
-		[81769] = "Primal Growth",
-		[172221] = "Wretched Assistant",
-		[160076] = "Gorm Borer",
+		[162328] = "Warlock",
+		[163618] = "Zolramus Necromancer",
+		[167509] = "Forsworn Researcher",
+		[162058] = "Ventunax",
 		[170951] = "Dredger Muckfist",
+		[164836] = "Construct Laborer",
 		[130738] = "Corrupted Gold",
-		[173280] = "Stone Legion Skirmisher",
+		[150293] = "Mechagon Prowler",
 		[164188] = "Horrific Figment",
 		[78271] = "Nathrezim Helot",
-		[160284] = "Madame Irini",
+		[174405] = "Condensed Mucus",
 		[169819] = "Voracious Lasher",
-		[119990] = "Fenryr",
+		[29264] = "Spirit Wolf <Rahkal>",
 		[128435] = "Toxic Saurid",
-		[152809] = "Alx'kov the Infested",
-		[172199] = "Maniacal Infuser",
+		[131436] = "Chosen Blood Matron",
+		[83983] = "Skyreach Tempest-Keeper",
 		[164189] = "Horrific Figment",
-		[82960] = "Conniving Shadowblade",
-		[171745] = "Congealed Plague",
-		[165404] = "Buzzkill",
-		[168113] = "General Grashaal",
-		[161396] = "Tyrannizer Leprutis",
-		[173729] = "Manifestation of Pride",
+		[165959] = "Unknown",
+		[160613] = "Ravenous Swarm",
+		[131825] = "Sister Briar",
+		[122984] = "Dazar'ai Colossus",
+		[85264] = "Rolkor",
+		[37027] = "Skybreaker Hierophant",
 		[163678] = "Clotted Corruption",
 		[160095] = "General Alver",
 		[164702] = "Carrion Worm",
 		[136549] = "Ashvane Cannoneer",
-		[82370] = "Swamplighter Worker",
+		[176251] = "Warden of Misery",
 		[170333] = "Goldenpaw Prowler",
-		[92514] = "Shao'ghun",
-		[158052] = "Zara'thik Skirmisher",
-		[75283] = "Adherent Wing-Guard",
+		[170337] = "Animite Scavenger",
+		[122973] = "Dazar'ai Confessor",
+		[163121] = "Stitched Vanguard",
 		[164191] = "Noble Courtier",
-		[154129] = "Burning Emberguard",
+		[160355] = "Converted Clawguard",
 		[173405] = "Deathspeaker Yutla",
-		[170690] = "Diseased Horror",
 		[169925] = "Begrudging Waiter",
-		[29264] = "Spirit Wolf <Rahkal>",
+		[90432] = "Felfire Flamebelcher",
+		[164550] = "Slithering Ooze",
 		[171358] = "Vyraz Chosen",
 		[126901] = "Sidewinder",
 		[168287] = "Hopebreaker Marku",
-		[88078] = "Skyreach Dawnbreaker",
-		[152612] = "Subjugator Klontzas",
-		[169823] = "Gorm Behemoth",
-		[169825] = "Warstitched Hound",
-		[170847] = "Dustwilt  Needler",
-		[170337] = "Animite Scavenger",
+		[81729] = "Enraged Gembiter",
 		[170849] = "Lingering Impurity",
-		[122969] = "Zanchuli Witch-Doctor",
+		[169823] = "Gorm Behemoth",
+		[37098] = "Val'kyr Herald",
+		[170847] = "Dustwilt  Needler",
+		[141565] = "Kul Tiran Footman",
+		[160478] = "Stone Legion Protector",
+		[174712] = "Scavenging Mawrat",
 		[164705] = "Pestilence Slime",
 		[169312] = "Tabulator Hymeris",
-		[164555] = "Millificent Manastorm",
+		[159766] = "Redelav Merchant",
 		[130229] = "Unknown",
 		[130485] = "Mechanized Peacekeeper",
-		[81038] = "Gelgor of the Blue Flame",
-		[135975] = "Off-Duty Laborer",
-		[163414] = "Morbid Disciple",
+		[78864] = "Deathweb Hatchling",
+		[170093] = "Mawsworn Seeker",
 		[167876] = "Inquisitor Sigar",
-		[167078] = "Wingflayer the Cruel",
-		[161635] = "Madame Lenuta",
+		[158690] = "Cultist Tormenter",
+		[159503] = "Stonefist",
+		[169825] = "Warstitched Hound",
 		[133482] = "Crawler Mine",
 		[99773] = "Bloodworm",
-		[83983] = "Skyreach Tempest-Keeper",
-		[85051] = "Bort",
-		[19668] = "Shadowfiend <Nayane-Azralon>",
+		[175830] = "Concentrated Stygia",
+		[170102] = "Possessed Charger",
+		[157442] = "Gaze of Madness",
 		[164707] = "Congealed Slime",
 		[161124] = "Urg'roth, Breaker of Heroes",
-		[161790] = "The Unknown",
-		[158053] = "Corpselouse Mother",
-		[170850] = "Raging Bloodhorn",
 		[164804] = "Droman Oulfarran",
-		[162328] = "Warlock",
+		[170338] = "Unknown",
+		[170850] = "Raging Bloodhorn",
+		[121017] = "Sandfury Axe Thrower",
+		[167111] = "Spinemaw Staghorn",
 		[139626] = "Dredged Sailor",
-		[160613] = "Ravenous Swarm",
+		[82370] = "Swamplighter Worker",
 		[169315] = "Leacher Cvan",
-		[160477] = "Manifestation of Rage",
+		[165998] = "Captain Hawken",
 		[158054] = "Anima-Starved Wyrm",
-		[94857] = "Unknown",
-		[164568] = "Mechanical Bomb Squirrel",
-		[156434] = "Crippling Pride",
+		[167964] = "4.RF-4.RF",
+		[161411] = "Mindgrasp",
+		[156259] = "Stoneborn Abductor",
 		[164197] = "Justice",
-		[160478] = "Stone Legion Protector",
 		[165315] = "Darkvowed Hoplite",
+		[144747] = "Pa'ku's Aspect",
+		[37545] = "Spire Minion",
+		[152704] = "Crawling Corruption",
+		[80653] = "Shockscale Eel",
+		[81038] = "Gelgor of the Blue Flame",
+		[162664] = "Aqir Swarmer",
 		[172388] = "Chosen Warhound",
-		[151149] = "Hati <Servinfades-Dawnbringer>",
-		[168099] = "Empowered Coldheart Javelineer",
-		[175830] = "Concentrated Stygia",
-		[161455] = "Drust Dreadweaver",
-		[164198] = "Doom",
 		[82371] = "Swamplighter Drone",
 		[165222] = "Zolramus Bonemender",
-		[416] = "Pipbis",
+		[162492] = "Forsworn Memory Fragment",
 		[87234] = "Brutag Grimblade",
-		[58965] = "Nixlikad",
-		[157963] = "Animated Prowler",
-		[151816] = "Deadsoul Scavenger",
+		[174161] = "Lady Sinsear",
+		[145261] = "Opulence",
+		[166425] = "Empowered Warflesh",
 		[129208] = "Dread Captain Lockwood",
-		[83769] = "Energized Phoenix",
-		[152939] = "Boundless Corruption",
+		[167607] = "Stoneborn Slasher",
+		[158343] = "Organ of Corruption",
 		[161640] = "Lady Zina",
 		[61029] = "Primal Fire Elemental <Phymura-Stormrage>",
-		[162664] = "Aqir Swarmer",
-		[80653] = "Shockscale Eel",
+		[130488] = "Mech Jockey",
 		[175039] = "Anima-Starved Cloudfeather",
+		[163431] = "Mor'Bitan",
 		[172390] = "Flayedwing Fleshripper",
-		[174186] = "Annealed Stygia <Tempered Stygia>",
+		[416] = "Pipbis",
 		[173414] = "Necrotic Ritualist",
 		[153451] = "Kosarus the Fallen",
-		[159766] = "Redelav Merchant",
 		[165313] = "Forsworn Watcher",
-		[176423] = "Blazing Stygia",
-		[148613] = "Commander Broadside",
-		[156815] = "Imdomitable",
+		[77940] = "Grom'kar Enforcer",
+		[170325] = "Argentwing Larion",
+		[170728] = "Mawsworn Conqueror",
+		[86153] = "Juvenile Razorback",
 		[156523] = "Maut",
-		[164967] = "Doctor Ickus",
+		[167967] = "Unknown",
 		[169832] = "Eye of Damnation",
-		[81605] = "Sargerei Initiate",
+		[131445] = "Block Warden",
 		[130489] = "Dazarian Stalker",
 		[171368] = "Skeletal Servitor",
 		[163690] = "Shath'Yar Scribe",
-		[164836] = "Construct Laborer",
 		[157634] = "Flameforge Enforcer",
-		[173416] = "Blistered Hoarder",
 		[157122] = "Patrician Cromwell",
+		[173416] = "Blistered Hoarder",
+		[85403] = "Crimsonwing Wasp",
 		[91331] = "Archimonde",
 		[134002] = "Underlord Xerxiz",
 		[134514] = "Abyssal Cultist",
-		[156980] = "Essence of Void",
-		[157695] = "Lurking Bonemauler",
-		[129370] = "Irontide Waveshaper",
-		[150293] = "Mechagon Prowler",
+		[115009] = "Felfire Imp",
+		[172054] = "Forsworn Praetor",
+		[100943] = "Earthen Wall Totem <Raizeus-Dalaran>",
+		[155812] = "Mawsworn Ritualist",
 		[161644] = "Madame Viviana",
-		[168574] = "Pestilent Harvester",
-		[86213] = "Aqualir",
-		[167921] = "Putrid Shambler",
-		[162492] = "Forsworn Memory Fragment",
+		[172193] = "Unknown",
 		[168299] = "Lysonia",
-		[147825] = "7th Legion Medic",
+		[166426] = "Stitchyard Apprentice",
+		[156015] = "Writhing Soulmass",
+		[86213] = "Aqualir",
+		[167431] = "Risen Magus",
 		[37228] = "Frostwarden Warrior",
 		[161645] = "Sir Viorel",
-		[170102] = "Possessed Charger",
-		[162669] = "Devour'us",
-		[150276] = "Heavy Scrapbot",
-		[37868] = "Risen Archmage",
 		[172395] = "Master Runeshaper",
-		[154480] = "Queen Azshara",
+		[162669] = "Devour'us",
+		[150146] = "Scrapbone Shaman",
+		[37868] = "Risen Archmage",
+		[147825] = "7th Legion Medic",
+		[160112] = "Stone Legion Nightblade",
 		[161134] = "Acolyte of N'Zoth",
 		[169836] = "Invasive Terror",
 		[162158] = "Starving Prisoner",
-		[134005] = "Shalebiter",
+		[154480] = "Queen Azshara",
 		[83976] = "Dread Raven",
-		[166653] = "Briarbane Footman",
+		[159417] = "Demented Knife-Twister",
 		[164206] = "Forsworn Disciple",
-		[77940] = "Grom'kar Enforcer",
+		[160356] = "Praetorian Artificer",
 		[94916] = "Fel Touched Seer",
-		[167611] = "Stoneborn Eviscerator",
+		[91541] = "Shadowfel Warden",
 		[162159] = "Thrashing Tentacle",
 		[166766] = "Sins of the Past",
 		[85052] = "Wullim",
+		[77944] = "Grom'kar Shocktrooper",
 		[172397] = "Runebladed Reaper",
-		[160112] = "Stone Legion Nightblade",
 		[144244] = "Unknown",
 		[156820] = "Dod",
 		[72650] = "Trained Bonestripper",
-		[172398] = "Chosen Siegeworker",
 		[86215] = "Infected Plunderer",
-		[164208] = "Soul Monitor",
-		[159601] = "Stoneborn Skystalker",
 		[147828] = "7th Legion Cavalier",
+		[165821] = "Manor Leecher",
+		[159601] = "Stoneborn Skystalker",
+		[172398] = "Chosen Siegeworker",
 		[160625] = "Maddening Bile",
 		[165232] = "Soulless Construct",
-		[165821] = "Manor Leecher",
+		[164208] = "Soul Monitor",
 		[165111] = "Drust Spiteclaw",
 		[159320] = "Amahtet",
 		[144246] = "K.U.-J.0.",
@@ -2074,19 +2076,19 @@ _detalhes_global = {
 		[161139] = "Acolyte of N'Zoth",
 		[92781] = "Unknown <Archimonde>",
 		[162933] = "Thought Harvester",
-		[168306] = "Territorial Shimmermoth",
 		[88264] = "Fel Imp",
-		[157557] = "Forsworn Recruit",
+		[168306] = "Territorial Shimmermoth",
+		[165747] = "Champion Shenrak",
 		[129214] = "Coin-Operated Crowd Pummeler",
 		[144248] = "Head Machinist Sparkflux",
 		[80586] = "Magmire",
-		[165747] = "Champion Shenrak",
+		[157557] = "Forsworn Recruit",
 		[168943] = "Goldenpaw Stalker",
 		[142072] = "Cornered Operative",
-		[160629] = "Baedos",
+		[94663] = "Grand Corruptor U'rogg",
 		[114626] = "Forlorn Spirit",
 		[156022] = "Unknown",
-		[144249] = "Omega Buster",
+		[160629] = "Baedos",
 		[169331] = "\"Granny\"",
 		[157558] = "Rising Despair",
 		[95614] = "Binder Eloah",
@@ -2095,8 +2097,8 @@ _detalhes_global = {
 		[103822] = "Treant",
 		[156023] = "Miniature Soulmass",
 		[81584] = "Unknown",
-		[145274] = "Yalat's Bulwark",
 		[161654] = "Duchess Ileana",
+		[145274] = "Yalat's Bulwark",
 		[153976] = "Orb of Annihilation",
 		[170868] = "Possessed Fae",
 		[145273] = "The Hand of In'zashi",
@@ -2118,25 +2120,25 @@ _detalhes_global = {
 		[114628] = "Skeletal Waiter",
 		[163704] = "Deephive Voidsinger",
 		[119052] = "War Banner <Tyrannico-Ragnaros>",
-		[163705] = "Deephive Swarmborn",
-		[86731] = "Ironhide Bull",
 		[153532] = "Aqir Mindhunter",
+		[86731] = "Ironhide Bull",
+		[163705] = "Deephive Swarmborn",
 		[166264] = "Mindless Fixation",
 		[150396] = "Aerial Unit R-21/X",
 		[171383] = "Furious Alphahoof",
 		[159610] = "Agitated Etherwyrm",
 		[135552] = "Unknown",
-		[173943] = "Chosen Gatewatch",
-		[132481] = "Heavy Slash",
 		[169848] = "Blighted Lurker",
-		[150397] = "King Mechagon",
+		[132481] = "Heavy Slash",
+		[173943] = "Chosen Gatewatch",
 		[85452] = "Void Totem",
+		[150397] = "King Mechagon",
 		[171384] = "Research Scribe",
 		[131009] = "Unknown",
 		[164218] = "Lord Chamberlain",
-		[157052] = "The Accuser",
-		[55659] = "Wild Imp <Impsimpp-Illidan>",
 		[88043] = "Avatar of Socrethar",
+		[55659] = "Wild Imp <Impsimpp-Illidan>",
+		[157052] = "The Accuser",
 		[166266] = "Spare Parts",
 		[91241] = "Doom Lord Xorgok",
 		[162875] = "Devmorta",
@@ -2146,10 +2148,10 @@ _detalhes_global = {
 		[92527] = "Dag'gorath",
 		[161088] = "Balthrømaw-Tichondrius <Balthrømaw-Tichondrius>",
 		[170067] = "Savagewing Teroclaw",
-		[164220] = "Avowed Guarantor",
 		[94185] = "Vanguard Akkelion",
-		[163708] = "Umbral Gatekeeper",
 		[90316] = "Shadow-Lord Iskar",
+		[163708] = "Umbral Gatekeeper",
+		[164220] = "Avowed Guarantor",
 		[82382] = "Telaari Footman",
 		[157054] = "Fallacious Aspirant",
 		[89127] = "Highmaul Skullcrusher",
@@ -2157,17 +2159,17 @@ _detalhes_global = {
 		[75794] = "Burning Blademaster",
 		[37744] = "Frost Freeze Trap",
 		[156333] = "Darkturned Pupil",
-		[162534] = "Anubisath Sentinel",
 		[172981] = "Kyrian Stitchwerk",
 		[156089] = "Aqir Venomweaver",
+		[162534] = "Anubisath Sentinel",
 		[134701] = "Blood Effigy",
 		[148621] = "Jek'kwa",
 		[37016] = "Skybreaker Luminary",
 		[164861] = "Spriggan Barkbinder",
 		[37232] = "Nerub'ar Broodling",
 		[163331] = "Stone Legion Nightblade",
-		[169341] = "Soulspliced Veteran",
 		[94924] = "Iron Peon",
+		[169341] = "Soulspliced Veteran",
 		[173948] = "Chosen Initiate",
 		[127873] = "Scrounger Patriarch",
 		[170877] = "Hemot",
@@ -2178,24 +2180,24 @@ _detalhes_global = {
 		[80592] = "Gordawg",
 		[173949] = "Nathrian Soldier",
 		[152669] = "Void Globule",
-		[114632] = "Unknown",
-		[159105] = "Collector Kash",
 		[163712] = "Unknown",
+		[159105] = "Collector Kash",
+		[114632] = "Unknown",
 		[168319] = "Scavenging Bonemauler",
 		[163415] = "Enraged Glutton",
 		[122968] = "Yazma",
-		[81268] = "Elodor Peacekeeper",
 		[170879] = "Illusionary Mauler",
 		[134024] = "Devouring Maggot",
+		[162689] = "Surgeon Stitchflesh",
 		[159106] = "Dominance Soulbender",
 		[135048] = "Gorestained Piglet",
 		[37666] = "Darkfallen Tactician",
 		[164737] = "Brood Ambusher",
-		[176424] = "Stygic Ember",
+		[105419] = "Dire Basilisk <Servinfades-Dawnbringer>",
 		[157571] = "Mawsworn Flametender",
-		[87529] = "Acidspine Gnawers",
-		[85456] = "Grom'kar Blademaster",
 		[162741] = "Gieger",
+		[85456] = "Grom'kar Blademaster",
+		[170931] = "Chosen Outfitter",
 		[135049] = "Dreadwing Raven",
 		[168321] = "Scavenging Alpha",
 		[160643] = "Nightmare Portal",
@@ -2205,36 +2207,36 @@ _detalhes_global = {
 		[162691] = "Blightbone",
 		[160904] = "Unknown",
 		[82385] = "Telaari Peacekeeper",
-		[165763] = "Vile Occultist",
-		[158597] = "High Executor Yothrim",
-		[165251] = "Illusionary Vulpin <Mistcaller>",
 		[84945] = "Sargerei Darkblade",
+		[162692] = "Necrotic Bolt",
+		[165251] = "Illusionary Vulpin <Mistcaller>",
+		[165763] = "Vile Occultist",
 		[166275] = "Mistveil Shaper",
-		[170882] = "Bone Magus",
+		[158597] = "High Executor Yothrim",
+		[93095] = "Patate",
 		[78291] = "Deathweb Crawler",
-		[165764] = "Rockbound Vanquisher",
 		[82130] = "Shattered Hand Blade Dancer",
 		[152455] = "Tussle Tonks Arena",
 		[128455] = "T'lonja",
-		[169859] = "Observer Zelgar",
+		[165764] = "Rockbound Vanquisher",
 		[166276] = "Mistveil Guardian",
 		[162693] = "Nalthor the Rimebinder",
 		[50159] = "Sambas",
-		[135052] = "Blight Toad",
-		[165766] = "Shambling Guard",
-		[160646] = "Fallen Acolyte Erisne",
-		[168837] = "Stealthling",
-		[165765] = "Construct Surgeon",
-		[92391] = "Gorebound Bloodletter",
-		[85458] = "Grom'kar Punisher",
-		[88040] = "Shadowborne Felcaster",
-		[157576] = "Unknown",
-		[151945] = "Sebyerhot",
-		[172932] = "Solidified Stygia <Rune Scribed Husk>",
-		[173444] = "Caramain",
+		[128967] = "Ashvane Sniper",
 		[169861] = "Ickor Bileflesh",
+		[160646] = "Fallen Acolyte Erisne",
+		[92391] = "Gorebound Bloodletter",
+		[165765] = "Construct Surgeon",
+		[88040] = "Shadowborne Felcaster",
+		[85458] = "Grom'kar Punisher",
+		[172932] = "Solidified Stygia <Rune Scribed Husk>",
+		[82899] = "Ancient Blademaster",
+		[151945] = "Sebyerhot",
+		[168837] = "Stealthling",
+		[173444] = "Caramain",
+		[165766] = "Shambling Guard",
 		[164886] = "Ritual Runeweaver",
-		[133007] = "Unbound Abomination",
+		[157064] = "The Accuser",
 		[163207] = "Burrowing Mite",
 		[157577] = "Forbidden Dissector",
 		[168326] = "Unknown",
@@ -2246,12 +2248,12 @@ _detalhes_global = {
 		[172050] = "Tangled Mistcreeper",
 		[71261] = "Seesaw",
 		[164232] = "Manifestation of Hate",
-		[137103] = "Unknown",
-		[173446] = "Hargitas",
 		[169863] = "Unknown",
+		[173446] = "Hargitas",
+		[137103] = "Unknown",
 		[83990] = "Solar Magnifier",
-		[159114] = "Dutiful Laborer",
 		[167304] = "Toxin Engineer Krax",
+		[159114] = "Dutiful Laborer",
 		[128969] = "Ashvane Commander",
 		[131444] = "Block Warden",
 		[77348] = "Pale Tormentor",
@@ -2261,29 +2263,29 @@ _detalhes_global = {
 		[158452] = "Mindtwist Tendril",
 		[168584] = "Mawsworn Seeker",
 		[167817] = "Chosen Vanguard",
-		[173448] = "Dragost",
 		[88039] = "Shadow Pillager",
 		[78550] = "Controlled Darkwing",
-		[167306] = "Blight Artist Novikov",
+		[173448] = "Dragost",
+		[170927] = "Unknown",
 		[158092] = "Fallen Heartpiercer",
 		[170889] = "Mothbane the Mighty",
 		[146831] = "Kul Tiran Stormbringer",
-		[170927] = "Unknown",
+		[167306] = "Blight Artist Novikov",
 		[84181] = "Marauding Destroyer",
 		[160652] = "Unknown",
 		[176427] = "Stygic Ember <Blazing Stygia>",
 		[163506] = "Forsworn Stealthclaw",
-		[93162] = "Umbral Supplicant",
+		[114317] = "Lady Catriona Von'Indi",
 		[162700] = "Lukir",
-		[136083] = "Forgotten Denizen",
+		[168843] = "Klotos",
 		[85973] = "Grom'kar Deadeye",
 		[78039] = "Iron Crag-Leaper",
-		[168843] = "Klotos",
+		[136083] = "Forgotten Denizen",
 		[165260] = "Unknown",
 		[93830] = "Iron Dragoon",
 		[146121] = "Earth",
 		[155688] = "Azsh'ari Frostbinder",
-		[168844] = "Lakesis",
+		[156559] = "Ardent Warrior",
 		[176010] = "Stygian Abductor",
 		[129227] = "Azerokk",
 		[160654] = "Danysia's Burden",
@@ -2295,35 +2297,35 @@ _detalhes_global = {
 		[80583] = "Pale Gloomstalker",
 		[160143] = "Unknown",
 		[156560] = "Misguided Postulant",
-		[78973] = "Razz Ricketroz",
+		[168878] = "Rigged Plagueborer",
 		[157584] = "Flameforge Master",
 		[91349] = "Mannoroth",
 		[170893] = "Flayedwing Screamer",
-		[168878] = "Rigged Plagueborer",
+		[78973] = "Razz Ricketroz",
 		[159632] = "Cultist Shadowblade",
+		[168846] = "Sintouched Anima",
 		[156561] = "Automated Defender",
-		[164751] = "Unknown <Baron Vyraz>",
 		[146320] = "Prelate Za'lan",
 		[175821] = "Ratgusher",
 		[164048] = "Truulax",
-		[159633] = "Cultist Executioner",
 		[169901] = "Baron Vyraz",
+		[159633] = "Cultist Executioner",
 		[36853] = "Sindragosa",
 		[160145] = "Gorm Matriarch",
 		[156562] = "Dark Sentinel",
 		[131823] = "Sister Malady",
 		[168845] = "Astronos",
 		[153826] = "Lost Guardian",
-		[176014] = "Winged Devourer",
-		[120527] = "Darrida",
 		[171919] = "Ayeleth's Torturer",
-		[83848] = "Bloodbash Ogrechucker",
+		[120527] = "Darrida",
+		[176014] = "Winged Devourer",
+		[134069] = "Vol'zith the Whisperer",
 		[100820] = "Spirit Wolf <Pangniu-Mal'Ganis>",
 		[165265] = "Honored Duelist",
-		[134069] = "Vol'zith the Whisperer",
-		[155873] = "Darkcast Annihilator",
-		[134041] = "Infected Peasant",
+		[83848] = "Bloodbash Ogrechucker",
 		[169900] = "Blighted Monstrosity",
+		[134041] = "Infected Peasant",
+		[155873] = "Darkcast Annihilator",
 		[161895] = "Thing From Beyond",
 		[168337] = "Moldovaak",
 		[156564] = "Ravening Guardian",
@@ -2336,19 +2338,19 @@ _detalhes_global = {
 		[164243] = "Hate Siphoner",
 		[72156] = "Borrok the Devourer",
 		[154330] = "Eternas the Tormentor",
-		[127488] = "Ashvane Flamecaster",
+		[170923] = "Tantrum",
 		[170386] = "Silverwing Matron",
 		[3825] = "Lobo",
-		[170923] = "Tantrum",
+		[127488] = "Ashvane Flamecaster",
 		[159759] = "Warstitched Surgeon",
+		[94947] = "Fel-Starved Trainee",
 		[168851] = "Fearspinner Sack",
-		[156566] = "Burbling Fleshbeast",
 		[161173] = "Abyssal Watcher",
 		[169875] = "Shackled Soul",
 		[166292] = "Bog Beast",
-		[94947] = "Fel-Starved Trainee",
+		[156566] = "Burbling Fleshbeast",
 		[168724] = "Engorged Fearspinner",
-		[166933] = "Ventun the Ravenous",
+		[168852] = "Vulnerable Aspirant",
 		[129231] = "Rixxa Fluxflame",
 		[84442] = "Felfire Familiar",
 		[145644] = "Unknown",
@@ -2356,10 +2358,10 @@ _detalhes_global = {
 		[131847] = "Waycrest Reveler",
 		[148627] = "Cannons",
 		[148624] = "Echo of Pa'ku <Kal'ia Pa'kuaya>",
+		[160663] = "Unknown",
+		[173460] = "Mawsworn Ritualist",
 		[156568] = "Faceless Despoiler",
 		[165270] = "Royal Arcanist",
-		[168853] = "Vulnerable Aspirant",
-		[173460] = "Mawsworn Ritualist",
 		[157349] = "Void Boar",
 		[175347] = "Calcification",
 		[162711] = "Deadly Dapperling",
@@ -2369,18 +2371,18 @@ _detalhes_global = {
 		[164759] = "Blossoming Dreadshade",
 		[144796] = "High Tinker Mekkatorque",
 		[173973] = "Nathrian Tracker",
-		[165007] = "Architect Xeeli",
+		[157612] = "Eye of Drest'agath",
 		[158617] = "Shrouded Marauder",
 		[93913] = "Fel Scorcher",
 		[85979] = "Gorgrond Water Snake",
-		[157612] = "Eye of Drest'agath",
+		[161195] = "Chalice Resident",
 		[160665] = "Deathwing",
 		[152987] = "Faceless Willbreaker",
 		[157594] = "Lesser Void Elemental",
 		[154011] = "Armed Prisoner",
-		[161195] = "Chalice Resident",
-		[135258] = "Irontide Marauder",
+		[165007] = "Architect Xeeli",
 		[164266] = "Domina Venomblade",
+		[135258] = "Irontide Marauder",
 		[168855] = "Rotting Deathwalker",
 		[161780] = "Worldbreaker",
 		[152988] = "Faceless Shadowcaller",
@@ -2388,14 +2390,14 @@ _detalhes_global = {
 		[155860] = "Shirakess Voidreaper",
 		[154524] = "K'thir Mindcarver",
 		[175511] = "Creepy Crawler",
-		[75487] = "Razorfang Hunter",
+		[167322] = "Mawsworn Shackler",
 		[168345] = "Parched Gorger",
 		[156572] = "K'thir Doomsayer",
 		[173464] = "Deplina",
 		[115669] = "Keltok",
 		[94427] = "Blademaster Jubei'thos",
 		[162715] = "Fanatical Cultist",
-		[167322] = "Mawsworn Shackler",
+		[75487] = "Razorfang Hunter",
 		[167834] = "Phael the Afflictor",
 		[156061] = "Devourer Mite",
 		[84445] = "Shadowflame Familiar",
@@ -2414,11 +2416,11 @@ _detalhes_global = {
 		[171419] = "Eye of Vyraz",
 		[176026] = "Dancing Fools",
 		[38008] = "Blood Orb Controller",
-		[84446] = "Burning Familiar",
+		[156575] = "Dark Inquisitor Xanesh",
 		[148890] = "Wall of Ice",
 		[157599] = "Forsworn Acolyte",
 		[166301] = "Mistveil Stalker",
-		[158623] = "Shrouded Marauder",
+		[166813] = "Shadowclone Stalker",
 		[76685] = "Sharpfang Stalker",
 		[176027] = "Hopeless Vessel",
 		[82143] = "Haunted Hound",
@@ -2432,14 +2434,14 @@ _detalhes_global = {
 		[164255] = "Globgrog",
 		[156577] = "Therum Deepforge",
 		[173469] = "Kullan",
-		[168153] = "Plagueroc",
-		[154018] = "Prisonbreak Mauler",
 		[86499] = "Iron Warden",
+		[154018] = "Prisonbreak Mauler",
+		[168153] = "Plagueroc",
 		[171422] = "Arch-Suppressor Laguas",
 		[160791] = "Wandering Shade",
 		[172958] = "Roiling Stygia",
 		[144293] = "Waste Processing Unit",
-		[153130] = "Greater Void Elemental",
+		[158114] = "Swarm Caller",
 		[157602] = "Unknown",
 		[166304] = "Mistveil Stinger",
 		[134056] = "Aqu'sirr",
@@ -2450,56 +2452,56 @@ _detalhes_global = {
 		[169376] = "Masked Infiltrator",
 		[157603] = "Void Globule",
 		[154020] = "Prisonbreak Cursewalker",
-		[157604] = "Crawling Corruption",
+		[172960] = "Congealed Stygia",
 		[89823] = "Amethon",
 		[163746] = "Walkie Shockie X1",
 		[91103] = "Felfire Demolisher",
-		[172960] = "Congealed Stygia",
+		[144295] = "Mechagon Mechanic",
 		[59764] = "Healing Tide Totem <Bíxeira-Azralon>",
-		[169889] = "Blighted Overseer",
+		[157604] = "Crawling Corruption",
 		[168862] = "Hulking Doomfang",
 		[134058] = "Galecaller Faye",
 		[84337] = "Sargerei Destructor",
-		[159514] = "Blood of Ny'alotha",
 		[162727] = "Bubbleblood",
+		[144296] = "Spider Tank",
 		[172961] = "Fused Stygia",
 		[101085] = "Bear Trap",
 		[169890] = "Lorkron the Hunter",
 		[154022] = "Prisonbreak Packleader",
 		[158629] = "Bitter Memory",
 		[167331] = "Nascent Shade",
-		[144294] = "Mechagon Tinkerer",
 		[157608] = "Faceless Willbreaker",
+		[144294] = "Mechagon Tinkerer",
 		[172962] = "Tempered Stygia",
 		[166819] = "Smug Francise",
 		[137905] = "Azerite-Infused Elemental",
 		[157964] = "Adjutant Dekaris",
 		[158630] = "Excruciating Memory",
 		[157605] = "Burrowing Appendage",
-		[94859] = "Armored Skullsmasher",
+		[5858] = "Aragog",
 		[164261] = "Hungering Destroyer",
 		[144298] = "Defense Bot Mk III",
-		[5858] = "Aragog",
+		[94859] = "Armored Skullsmasher",
 		[157607] = "Unknown",
 		[157748] = "Vil'thik Warrior",
 		[158631] = "Stone Legion Enforcer",
 		[150250] = "Pistonhead Blaster",
-		[124287] = "Hyena",
 		[134060] = "Lord Stormsong",
+		[124287] = "Hyena",
 		[144299] = "Workshop Defender",
 		[161191] = "Chalice Resident",
 		[169893] = "Nefarious Darkspeaker",
 		[145835] = "Bleeding Wounds",
 		[150442] = "Flying Claw",
-		[144296] = "Spider Tank",
 		[175012] = "Ikras the Devourer",
-		[144295] = "Mechagon Mechanic",
+		[159514] = "Blood of Ny'alotha",
+		[169889] = "Blighted Overseer",
 		[168870] = "Dance Controller",
 		[148907] = "Prismatic Image",
 		[157609] = "K'thir Mindcarver",
 		[170385] = "Writhing Misery",
 		[134063] = "Brother Ironhull",
-		[158114] = "Swarm Caller",
+		[153130] = "Greater Void Elemental",
 		[136100] = "Sunken Denizen",
 		[160169] = "Honored Duelist",
 		[144301] = "Living Waste",
@@ -2507,11 +2509,11 @@ _detalhes_global = {
 		[157610] = "K'thir Dominator",
 		[158122] = "Mind's Eye",
 		[162729] = "Patchwerk Soldier",
-		[166813] = "Shadowclone Stalker",
-		[156575] = "Dark Inquisitor Xanesh",
-		[147827] = "7th Legion Marine",
+		[158623] = "Shrouded Marauder",
+		[84446] = "Burning Familiar",
 		[166299] = "Mistveil Tender",
 		[145312] = "Buzz Saw",
+		[147827] = "7th Legion Marine",
 		[93154] = "Gorebound Crone",
 		[162218] = "Fleshscarred Scavenger",
 		[171016] = "Contagious Droplet",
@@ -2526,14 +2528,14 @@ _detalhes_global = {
 		[150958] = "Mawsworn Guard",
 		[80788] = "Shadowmoon Necrolyte",
 		[164267] = "Margrave Stradama",
-		[160663] = "Unknown",
+		[168853] = "Vulnerable Aspirant",
 		[93233] = "Lord Aram'el",
 		[157613] = "Maw of Drest'agath",
 		[154030] = "Oddly Large Mawrat",
 		[93858] = "Hulking Berserker",
 		[150959] = "Mawsworn Interceptor",
 		[147376] = "Barrier",
-		[168852] = "Vulnerable Aspirant",
+		[166933] = "Ventun the Ravenous",
 		[172970] = "Ravenous Shadehound",
 		[132532] = "Kul Tiran Marksman",
 		[157614] = "Void Miasma",
@@ -2556,18 +2558,18 @@ _detalhes_global = {
 		[166318] = "Violent Muckmare",
 		[75241] = "Bladespire Goresnout",
 		[152718] = "Alleria Windrunner",
+		[164751] = "Unknown <Baron Vyraz>",
 		[146322] = "Siegebreaker Roka",
-		[168846] = "Sintouched Anima",
 		[164783] = "Battlesewn Flesh",
 		[90378] = "Kilrogg Deadeye",
 		[165807] = "Anima Field",
 		[170414] = "Howling Spectre",
-		[156559] = "Ardent Warrior",
+		[168844] = "Lakesis",
 		[82701] = "Lava Plume",
 		[159665] = "Anguished Memory",
-		[114317] = "Lady Catriona Von'Indi",
-		[94693] = "Siegeworks Technician",
 		[168331] = "Bonescarred Veteran",
+		[94693] = "Siegeworks Technician",
+		[93162] = "Umbral Supplicant",
 		[83984] = "Dread Raven",
 		[37501] = "Nerub'ar Champion",
 		[158642] = "Soul-Rotted Flesh",
@@ -2583,31 +2585,31 @@ _detalhes_global = {
 		[75280] = "Darkwing Matron",
 		[156084] = "Stoneborn Rebel",
 		[156596] = "Horrific Bonemauler",
-		[157064] = "The Accuser",
+		[133007] = "Unbound Abomination",
 		[169905] = "Risen Warlord",
 		[155919] = "Stormling <Azsh'ari Stormcaller>",
 		[170929] = "Chosen Vindicator",
-		[82899] = "Ancient Blademaster",
+		[157576] = "Unknown",
 		[159668] = "Toshmonk's Malignant Reflection",
 		[129246] = "Azerite Footbomb",
 		[168882] = "Fleeting Manifestation",
-		[93095] = "Patate",
+		[135052] = "Blight Toad",
 		[153526] = "Aqir Swarmer",
+		[169859] = "Observer Zelgar",
 		[154128] = "Blazing Elemental",
-		[128967] = "Ashvane Sniper",
+		[170882] = "Bone Magus",
 		[171799] = "Depths Warden",
-		[162692] = "Necrotic Bolt",
 		[160181] = "Royal Arcanist",
 		[138281] = "Faceless Corruptor",
 		[86024] = "Sargerei Demonspeaker",
 		[153527] = "Aqir Swarmleader",
 		[37502] = "Nerub'ar Webweaver",
-		[170931] = "Chosen Outfitter",
+		[87529] = "Acidspine Gnawers",
 		[75500] = "Bladespire Mauler",
-		[105419] = "Dire Basilisk <Servinfades-Dawnbringer>",
+		[176424] = "Stygic Ember",
 		[160182] = "Void Initiate",
 		[113123] = "Lildude",
-		[162689] = "Surgeon Stitchflesh",
+		[81268] = "Elodor Peacekeeper",
 		[159707] = "Doctor Hivvil",
 		[153956] = "Drowned Zealot",
 		[170932] = "Cloudfeather Guardian",
@@ -2657,8 +2659,8 @@ _detalhes_global = {
 		[94777] = "Morkronn",
 		[153022] = "Snang",
 		[82311] = "Char the Burning",
+		[144249] = "Omega Buster",
 		[168992] = "Risen Cultist",
-		[94663] = "Grand Corruptor U'rogg",
 		[93931] = "Gorebound Felcaster",
 		[85997] = "Grom'kar Footsoldier",
 		[169330] = "Mucky Grunt",
@@ -2668,8 +2670,8 @@ _detalhes_global = {
 		[150249] = "Pistonhead Scrapper",
 		[148611] = "Yoru'cha",
 		[163086] = "Rancid Gasbag",
-		[166971] = "Castellan Niklaus",
 		[139127] = "Volatile Pod",
+		[166971] = "Castellan Niklaus",
 		[152512] = "Stormwraith",
 		[165542] = "Infectious Zombie",
 		[149441] = "Frozen Ballista",
@@ -2677,24 +2679,24 @@ _detalhes_global = {
 		[146370] = "Dark Iron Vanguard",
 		[114624] = "Unknown",
 		[159679] = "Stitchyard Surgeon",
-		[91541] = "Shadowfel Warden",
-		[93298] = "Shadowheart Fiend",
+		[156434] = "Crippling Pride",
+		[155226] = "Verdant Keeper",
 		[66291] = "Thunder Hold Soldier",
 		[174012] = "Executrix Ophelia",
-		[166425] = "Empowered Warflesh",
+		[167611] = "Stoneborn Eviscerator",
 		[146371] = "Dark Iron Primalist",
-		[165998] = "Captain Hawken",
-		[166427] = "Stitchyard Surgeon",
+		[95638] = "Sargerei Bannerman",
+		[81309] = "Greyseer",
 		[131527] = "Lord Waycrest",
-		[131445] = "Block Warden",
-		[165311] = "Forsworn Darkblade",
-		[162051] = "Frenzied Ghoul",
-		[131824] = "Sister Solena",
-		[171218] = "Coalesced Agony",
-		[167994] = "Ossified Conscript",
 		[88261] = "Everbloom Waterspeaker",
-		[86153] = "Juvenile Razorback",
-		[155770] = "Dread Hatchling <Crawler Egg>",
+		[165311] = "Forsworn Darkblade",
+		[93298] = "Shadowheart Fiend",
+		[155657] = "Huffer",
+		[73325] = "Fel Wolf",
+		[166653] = "Briarbane Footman",
+		[150547] = "Scrapbone Grunter",
+		[80691] = "Sor the Eradicator",
+		[171218] = "Coalesced Agony",
 		[165312] = "Forsworn Phalynx",
 		[165824] = "Nar'zudah",
 		[158146] = "Fallen Riftwalker",
@@ -2705,69 +2707,69 @@ _detalhes_global = {
 		[172991] = "Drust Soulcleaver",
 		[161218] = "Aqir Crusher",
 		[105451] = "Counterstrike Totem <Bigtotem-Stormrage>",
-		[170692] = "Krala",
+		[81605] = "Sargerei Initiate",
 		[158659] = "Herculon",
-		[155871] = "Voidbound Terror",
+		[164568] = "Mechanical Bomb Squirrel",
 		[29698] = "Raptor",
-		[172072] = "Mist-Maddened Wader",
-		[37571] = "Darkfallen Advisor",
+		[165970] = "Requisitioner Kem",
+		[148613] = "Commander Broadside",
 		[78578] = "Bloodmaul Geomancer",
 		[153541] = "Slavemaster Ul'rok",
-		[165008] = "Architect Halen",
-		[154565] = "Unknown",
-		[161502] = "Ravenous Fleshfiend",
-		[78864] = "Deathweb Hatchling",
-		[168386] = "Slime Skeleton Stalker D",
-		[155953] = "C'Thuffer",
-		[92911] = "Hulking Berserker",
 		[60849] = "Jade Serpent Statue <Hyogwan-Azralon>",
-		[168156] = "Desolation",
-		[144747] = "Pa'ku's Aspect",
+		[154565] = "Unknown",
+		[174802] = "Venomous Sniper",
+		[151814] = "Deadsoul Shade",
+		[168386] = "Slime Skeleton Stalker D",
+		[19668] = "Shadowfiend <Nayane-Azralon>",
+		[92911] = "Hulking Berserker",
+		[161502] = "Ravenous Fleshfiend",
+		[164558] = "Hakkar the Soulflayer",
+		[160913] = "Vestigial Animate",
 		[159173] = "Unknown <Ka'zir>",
 		[159685] = "Stitchyard Apprentice",
-		[94779] = "Sovokk",
+		[168156] = "Desolation",
 		[136139] = "Mechanized Peacekeeper",
-		[158690] = "Cultist Tormenter",
-		[159755] = "The Grand Malleare",
-		[78210] = "Grom'kar Pulverizer",
+		[162994] = "Possessed Keeper",
+		[94857] = "Unknown",
+		[133435] = "Drust Slaver Summoning Portal",
 		[138187] = "Grotesque Horror",
 		[159174] = "Towering Tombcarver",
 		[92144] = "Dia Darkwhisper",
 		[172483] = "Ravenous Devourer",
-		[155226] = "Verdant Keeper",
-		[162018] = "Temple Guard",
+		[167921] = "Putrid Shambler",
+		[155871] = "Voidbound Terror",
 		[169924] = "Veteran Stoneguard",
-		[131825] = "Sister Briar",
-		[131863] = "Raal the Gluttonous",
-		[121017] = "Sandfury Axe Thrower",
-		[153196] = "Unknown",
+		[157810] = "Mawsworn Endbringer",
+		[78148] = "Darktide Pilferer",
+		[82960] = "Conniving Shadowblade",
+		[162018] = "Temple Guard",
 		[152009] = "Malfunctioning Scrapbot",
 		[78324] = "Iron Peon",
 		[82675] = "Lesser Magma Elemental",
 		[165830] = "Callous Peacekeeper",
 		[87282] = "Clearwater Tempest",
-		[168573] = "Doom Shroom",
-		[85264] = "Rolkor",
-		[168591] = "Ravenous Dreadbat",
+		[88078] = "Skyreach Dawnbreaker",
+		[166427] = "Stitchyard Surgeon",
+		[160061] = "Crawling Corruption",
 		[168390] = "Hopebreaker Vilstav",
 		[84467] = "Skyreach Tempest-Keeper",
 		[92913] = "Gorebound Berserker",
 		[165831] = "Cruel Collector",
-		[174802] = "Venomous Sniper",
+		[152809] = "Alx'kov the Infested",
 		[158665] = "Unknown",
 		[159177] = "Loyal Granitefur",
-		[157255] = "Unknown",
+		[173280] = "Stone Legion Skirmisher",
 		[168391] = "Slime Skeleton Stalker C",
-		[146256] = "Laminaria",
-		[175243] = "Mawsworn Chorus",
+		[161510] = "Mindrend Tentacle",
+		[93625] = "Phantasmal Resonance <Shadow-Lord Iskar>",
 		[169927] = "Putrid Butcher",
-		[94808] = "Hellfire Guardian",
+		[94618] = "Cattwen",
 		[3122] = "Nazgrim",
 		[159178] = "Dire Evedweller",
 		[92146] = "Gurtogg Bloodboil",
 		[168392] = "Hopebreaker Mursa",
-		[170338] = "Unknown",
-		[174712] = "Scavenging Mawrat",
+		[172053] = "Forsworn Clawguard",
+		[169154] = "Famished Fangling",
 		[130025] = "Irontide Thug",
 		[158155] = "Gorduk",
 		[170952] = "Dripping Dredger",
@@ -2779,129 +2781,129 @@ _detalhes_global = {
 		[165834] = "Taskmaster Matyas",
 		[145871] = "Volatile Charge <Righteousox-Kil'jaeden>",
 		[6499] = "Demosaurio",
-		[165978] = "Scavenging Mawrat",
-		[164550] = "Slithering Ooze",
+		[37532] = "Frostwing Whelp",
+		[75283] = "Adherent Wing-Guard",
 		[168394] = "Slimy Morsel <Slime Skeleton Stalker C>",
 		[132051] = "Blood Tick",
-		[145397] = "Akunda's Wrath",
+		[158053] = "Corpselouse Mother",
 		[130026] = "Bilge Rat Seaspeaker",
 		[158157] = "Overlord Mathias Shaw",
 		[162764] = "Twisted Appendage <Shinydanny>",
-		[37534] = "Spinestalker",
+		[79127] = "Gorebound Legionnaire",
 		[159693] = "Unknown",
 		[168395] = "Pain",
 		[78327] = "Crystal Rager",
 		[157134] = "Ishak of the Four Winds",
-		[78148] = "Darktide Pilferer",
+		[147621] = "Dark Iron Vanguard",
 		[158158] = "Forge-Guard Hurrul",
 		[170955] = "Battleforged Tauralus",
 		[134612] = "Unknown",
-		[163994] = "Dustwilt Gorger",
+		[161881] = "Injured Steelspine",
 		[168396] = "Plaguebelcher",
-		[155831] = "Mawsworn Soulbinder",
-		[156331] = "Pontifex Tratus",
+		[167078] = "Wingflayer the Cruel",
+		[155634] = "Bound Storm",
 		[130027] = "Ashvane Marine",
 		[162254] = "Corrupted Observer",
 		[170956] = "Flame Keeper",
 		[98035] = "Dreadstalker <Impsimpp-Illidan>",
-		[131436] = "Chosen Blood Matron",
+		[164524] = "Ashen Ravager",
 		[86262] = "Lumbering Ancient",
 		[78328] = "Darktide Rylakinator-3000",
-		[85775] = "Grom'kar Deadeye",
-		[165108] = "Illusionary Clone",
-		[169458] = "Hecutis",
-		[76876] = "O'mogg Blackheart",
-		[162038] = "Regal Mistdancer",
-		[157486] = "Horrific Hemorrhage",
+		[156157] = "Coldheart Ascendant",
+		[167919] = "Skeletal Vanguard",
+		[161455] = "Drust Dreadweaver",
+		[158710] = "Restless Monitor",
+		[94779] = "Sovokk",
+		[156794] = "SI:7 Light-Hunter",
 		[168398] = "Slimy Morsel <Slime Skeleton Stalker D>",
 		[160720] = "Burbling Fleshbeast",
-		[37663] = "Darkfallen Noble",
-		[37664] = "Darkfallen Archmage",
-		[170739] = "Witherscorn Vanguard",
+		[119990] = "Fenryr",
+		[162038] = "Regal Mistdancer",
+		[169102] = "Agonix",
 		[166863] = "Forsworn Investigator",
 		[155090] = "Anodized Coilbearer",
-		[167967] = "Unknown",
+		[170518] = "Mawsworn Demolisher",
 		[86263] = "Venomous Ravager",
 		[132056] = "Venture Co. Skyscorcher",
 		[144853] = "Flying Ape Wranglers",
 		[161745] = "Hepthys",
-		[162044] = "Scorched Sorcerer",
+		[85693] = "Lernaea Vilescale",
 		[75258] = "Deathweb Hatchling",
-		[120587] = "turdeater",
-		[157439] = "Fury of N'Zoth",
+		[159303] = "Monstrous Behemoth",
+		[77991] = "Bloodmaul Brute",
 		[131545] = "Lady Waycrest",
 		[129517] = "Reanimated Raptor",
-		[175863] = "Inquisitor Moorlac",
+		[157439] = "Fury of N'Zoth",
 		[161746] = "Ossirat",
 		[133593] = "Expert Technician",
 		[150485] = "Plasma Orb",
-		[174842] = "Belligerent Waiter",
-		[170160] = "Unknown <Darksworn Mechanic>",
+		[175863] = "Inquisitor Moorlac",
+		[173717] = "Rune Extractor",
 		[86264] = "Everbloom Wasp",
-		[151034] = "Crushing Grasp",
-		[164524] = "Ashen Ravager",
-		[136975] = "Heavy Ordnance",
+		[164362] = "Slimy Morsel <Living Slime Stalker>",
+		[169470] = "Crimson Chorus",
+		[160076] = "Gorm Borer",
 		[170449] = "Lurking Lasher",
 		[166866] = "Misled Steward",
+		[175881] = "Unknown",
 		[175102] = "Reverberating Eruption Stalker",
-		[155656] = "Misha",
 		[80122] = "Gaz'orda",
-		[159495] = "Mire Dredger",
-		[164407] = "Sludgefist",
-		[128652] = "Viq'Goth",
+		[134418] = "Drowned Depthbringer",
+		[155656] = "Misha",
+		[168681] = "Forsworn Helion",
 		[61056] = "Unknown",
 		[166867] = "Converted Praetor",
 		[155094] = "Mechagon Trooper",
-		[172193] = "Unknown",
+		[146492] = "Phantom of Rage",
 		[36998] = "Skybreaker Protector",
 		[37126] = "Sister Svalna",
+		[165640] = "Congealed Torment",
+		[176131] = "Crucible Magus",
 		[94239] = "Omnus <Portal Stalker>",
 		[84260] = "Highmaul Miner",
-		[127503] = "Overseer Korgus",
-		[173026] = "Chosen Infantry",
 		[159190] = "Synod",
 		[158478] = "Corruption Tumor",
-		[64029] = "Elder Lin",
-		[80379] = "Tumultuous Water Spirit",
 		[89890] = "Fel Lord Zakuun",
-		[162317] = "Gorechop",
-		[150547] = "Scrapbone Grunter",
+		[80379] = "Tumultuous Water Spirit",
+		[61537] = "Enraged Cavalier",
+		[172040] = "Dark Juggernaut",
+		[158991] = "Champion of the Alliance",
 		[166869] = "Dark Goliath",
 		[73469] = "Bladespire Brute",
+		[162319] = "Paladin",
 		[164622] = "Ravenous Scourgeling",
-		[79529] = "Frostfire Gronnling",
 		[82427] = "Riot Blossom",
-		[167919] = "Skeletal Vanguard",
+		[79529] = "Frostfire Gronnling",
+		[160383] = "Door Controller",
 		[75819] = "Stonemaul Guard",
-		[166159] = "Rotbriar Manifestation",
-		[172054] = "Forsworn Praetor",
+		[165905] = "Zealous",
 		[159192] = "Cloudfeather Greatwing",
-		[85542] = "Skyreach Labormaster",
-		[165138] = "Blight Bag",
-		[80380] = "Unknown",
+		[101398] = "Psyfiend <Abasy-Ragnaros>",
 		[80810] = "Anguished Skeleton",
-		[172210] = "Madstitch Fleshcrafter",
-		[88208] = "Pit Beast",
+		[80380] = "Unknown",
+		[157695] = "Lurking Bonemauler",
+		[131863] = "Raal the Gluttonous",
 		[163861] = "Miniscule Ash Crawler",
+		[136541] = "Unknown",
 		[73470] = "Bladespire Mauler",
-		[165175] = "Prideful Hulk",
+		[122969] = "Zanchuli Witch-Doctor",
 		[86267] = "Brine Lasher",
 		[37127] = "Ymirjar Frostbinder",
 		[161241] = "Unknown",
-		[170774] = "Eketra",
+		[172192] = "Masked Hunter",
 		[174550] = "Myskia",
 		[166872] = "Umbral Phalynx",
-		[84653] = "Spiteleaf Sprout",
-		[171188] = "Plaguebound Devoted <Margrave Stradama>",
-		[122984] = "Dazar'ai Colossus",
+		[155953] = "C'Thuffer",
+		[166679] = "Hopecrusher",
+		[153119] = "Lesser Void Elemental",
 		[80381] = "Corrupted Wind Spirit",
 		[165337] = "Hulking Fleshwarden",
 		[12677] = "Shadumbra",
-		[37098] = "Val'kyr Herald",
+		[84653] = "Spiteleaf Sprout",
 		[166873] = "Forsworn Researcher",
 		[167385] = "Bristlecone Bone-Breaker",
 		[102392] = "Resonance Totem",
-		[131685] = "Runic Disciple",
+		[169499] = "Ravenous Destroyer",
 		[156636] = "Lurking Fearspinner",
 		[161243] = "Samh'rek, Beckoner of Chaos",
 		[157660] = "Forsworn Ascended",
@@ -2909,29 +2911,29 @@ _detalhes_global = {
 		[158684] = "Deranged Fleshbeast",
 		[167386] = "Bristlecone Henchfiend",
 		[167898] = "Manifestation of Envy <Inquisitor Sigar>",
-		[79926] = "Glowing Draenite Crystal",
+		[165175] = "Prideful Hulk",
 		[80382] = "Unstable Earth Spirit",
 		[161244] = "Blood of the Corruptor",
 		[89084] = "Skyreach Tempest-Keeper",
 		[162268] = "Skittering Animite",
 		[166875] = "Dark Vault-Seeker",
 		[73472] = "Bladespire Stonecaster",
-		[133432] = "Venture Co. Alchemist",
+		[94802] = "Voidscribe Aathalos",
 		[86269] = "Obedient Felhound",
 		[173018] = "Chosen Bowman",
-		[144693] = "Manceroy Flamefist",
+		[169574] = "Fastbind Stitcher",
 		[141282] = "Kul Tiran Footman",
 		[103673] = "Darkglare <Lengrisa-Quel'Thalas>",
-		[168747] = "Venomfang <Venomous Sniper>",
-		[154200] = "Depthsborn Binder",
-		[134284] = "Fallen Deathspeaker",
-		[73325] = "Fel Wolf",
+		[161082] = "Mawsworn Interceptor",
+		[131383] = "Sporecaller Zancha",
+		[80057] = "Soulfang",
+		[146736] = "Ire of the Deep",
 		[164829] = "Chosen Flayedwing",
-		[169157] = "Mudlump",
+		[168158] = "Remornia",
 		[89085] = "Flighted Storm-Spinner",
-		[176426] = "Magmic Flamebinder",
+		[147532] = "Kul Tiran Cannon",
 		[158687] = "Shrouded Shardstabber",
-		[161388] = "Necromantic Scourer",
+		[93615] = "Felborne Overfiend",
 		[155616] = "Zanj'ir Brute",
 		[152033] = "Inconspicuous Plant",
 		[148450] = "Explosive Sheep",
@@ -2940,132 +2942,132 @@ _detalhes_global = {
 		[162271] = "Towering Worldeater",
 		[158688] = "Shrouded Shardsetter",
 		[171485] = "Blighted Invader",
-		[146492] = "Phantom of Rage",
-		[141303] = "B.O.O.M.B.A.",
+		[163882] = "Decaying Flesh Giant",
+		[168234] = "Unknown <Châmpion-Illidan>",
 		[156641] = "Enthralled Weaponsmith",
 		[165343] = "Scurrying Mawrat",
 		[32517] = "Chori",
-		[176176] = "Blighted Brute",
+		[81207] = "Drywind Bonepicker",
 		[158689] = "Blistering Ash Ghoul",
-		[164406] = "Shriekwing",
+		[149558] = "Jaina's Tide Elemental <Jaina's Tide Elemental>",
 		[155618] = "Zanj'ir Huntress",
 		[156130] = "Lesser Zoatroid",
-		[163128] = "Zolramus Sorcerer",
+		[80313] = "Peon",
 		[165344] = "Malignant Spriggan",
-		[151127] = "Lord of Torment",
+		[159027] = "Depraved Stalker",
 		[162273] = "Anima Gorger",
 		[91646] = "Grim Collaborator",
-		[87226] = "Unknown",
+		[153910] = "Tidal Corruptor",
 		[155619] = "Zanj'ir Honor Guard",
 		[156131] = "Zanj'ir Myrmidon",
-		[81721] = "Dionor Seedpriest",
+		[172078] = "Oakheart Soul-Eater",
 		[153060] = "Cyranus",
-		[160061] = "Crawling Corruption",
+		[168099] = "Empowered Coldheart Javelineer",
 		[158179] = "Vyrm the Ravenous",
 		[81409] = "Enslaved Earth Spirit",
-		[94284] = "Fiery Enkindler",
-		[80447] = "Bloodmane Raider",
+		[169265] = "Creepy Crawler",
+		[161613] = "Korrim the Cunning",
 		[156132] = "Azsh'ari Witch",
 		[164834] = "Veteran Boneshield",
 		[161251] = "Cultist Sycophant",
-		[161599] = "Bubbling Sclerosis",
-		[86205] = "Befuddled Relic-Seeker",
+		[85562] = "Skittering Doomstinger",
+		[122971] = "Dazar'ai Juggernaut",
 		[158692] = "Marquis Shattereye",
 		[95998] = "Portal Guardian",
-		[168098] = "Empowered Coldheart Agent",
+		[87226] = "Unknown",
 		[156133] = "Dreadcoil Hulk",
 		[152550] = "Great Worm From Beyond",
-		[172047] = "Illusionary Mauler",
+		[171318] = "Morbid Ritualist",
 		[157669] = "Steelskin Vanguard",
 		[162276] = "Maximus",
 		[158693] = "Crazed Ash Ghoul",
-		[174405] = "Condensed Mucus",
-		[146251] = "Sister Katherine",
-		[172607] = "Deathshade of Xantuth",
+		[37664] = "Darkfallen Archmage",
+		[94008] = "Dark Devourer",
+		[11859] = "Doomguard",
 		[78339] = "Darktide Engineer",
 		[157158] = "Cultist Slavedriver",
 		[165860] = "Mawsworn Guard",
-		[165041] = "Guardian Mastrus",
+		[86205] = "Befuddled Relic-Seeker",
 		[91648] = "Somber Guardian",
-		[173633] = "Nathrian Archivist",
+		[87357] = "Valkor",
 		[167908] = "Stone Legion Warden",
 		[168420] = "Forsworn Champion",
 		[38154] = "Warhawk",
 		[165349] = "Animated Corpsehound",
-		[173146] = "Winged Ravager",
+		[168512] = "Crystal of Phantasms",
 		[145898] = "Anointed Disciple",
-		[159768] = "Deresh of the Nothingness",
+		[146251] = "Sister Katherine",
 		[93952] = "Fel Raven",
-		[161611] = "Madame Tassa",
+		[146253] = "Brother Joseph",
 		[168421] = "Lurking Spriggan",
 		[127480] = "Stinging Parasite",
 		[153065] = "Voidbound Ravager",
-		[170093] = "Mawsworn Seeker",
-		[83653] = "Shattered Hand Cutthroat",
+		[81721] = "Dionor Seedpriest",
+		[165053] = "Mymaen",
 		[170981] = "Haughty Rival",
-		[176179] = "Unknown",
+		[76969] = "Insidious Defiler",
 		[159720] = "Cursed Blood",
-		[168673] = "Starving Shadehound",
+		[148615] = "Div'yane",
 		[168934] = "Enraged Spirit",
 		[144876] = "Apetagonizer 3000 <Grong>",
-		[159951] = "Fog Dweller",
-		[154451] = "Squidtail Screamer",
-		[152661] = "Mawsworn Ward",
+		[172047] = "Illusionary Mauler",
+		[165008] = "Architect Halen",
+		[170234] = "Oppressive Banner <Xav the Unfallen>",
 		[171494] = "Skittering Animite",
 		[90114] = "Iron Dragoon",
 		[37003] = "Skybreaker Vindicator",
 		[156650] = "Dark Manifestation <[*] Dark Manifestation>",
 		[169447] = "Dread Orb <Dominance Soulbender>",
-		[135263] = "Ashvane Spotter",
-		[153943] = "Decimator Shiq'voth",
-		[161411] = "Mindgrasp",
+		[163520] = "Forsworn Squad-Leader",
+		[175697] = "Mawsworn Veteran",
+		[171597] = "Skeletal Vestige",
 		[171495] = "Animite Swarmer",
-		[165970] = "Requisitioner Kem",
-		[147621] = "Dark Iron Vanguard",
+		[169551] = "Leerok the Scryer",
+		[153943] = "Decimator Shiq'voth",
 		[88579] = "Pridelands Stalker",
 		[136688] = "Fanatical Driller",
-		[163520] = "Forsworn Squad-Leader",
+		[164967] = "Doctor Ickus",
 		[170472] = "Blighted Evoker",
 		[175079] = "Malicious Shade <Shadeweaver Zeris>",
 		[77574] = "Gorebound Beast-Tamer",
 		[155628] = "Azsh'ari Oracle",
-		[75089] = "Grom'kar Shieldbearer",
+		[130230] = "Sandfury Dunerider",
 		[127482] = "Sewer Vicejaw",
-		[95282] = "Azgalor",
-		[159764] = "Jesh'ra",
+		[115006] = "Deranged Collector",
+		[169050] = "Anima-Starved Shrieker",
 		[79110] = "Ravenous Mongrel",
-		[115009] = "Felfire Imp",
-		[157793] = "Zara'thik Soldier",
+		[80191] = "Blademaster Trainee",
+		[155831] = "Mawsworn Soulbinder",
 		[155629] = "Azsh'ari Stormbinder",
-		[156259] = "Stoneborn Abductor",
+		[161947] = "Warden Eriken",
 		[156653] = "Coagulated Horror",
-		[11859] = "Doomguard",
-		[167263] = "Tariesh",
+		[37571] = "Darkfallen Advisor",
+		[37690] = "Unknown <Professor Putricide>",
 		[170474] = "Brood Assassin <Assassin Stalker>",
 		[158701] = "Grand Monitor Rorok",
 		[93955] = "Delusional Zealot",
 		[147440] = "Blazing Fireguard",
 		[37004] = "Skybreaker Dreadblade",
 		[37132] = "Ymirjar Battle-Maiden",
-		[165905] = "Zealous",
-		[153194] = "Unknown",
-		[155813] = "Court Attendant",
+		[151149] = "Hati <Servinfades-Dawnbringer>",
+		[152939] = "Boundless Corruption",
+		[164198] = "Doom",
 		[158702] = "Lurking Monitor",
 		[167404] = "Dauntless Champion <Eye of Zolramus>",
-		[174729] = "Blighted Conqueror",
+		[37562] = "Gas Cloud",
 		[156143] = "Voidcrazed Hulk",
 		[164845] = "Chosen Requisitioner",
-		[148081] = "Reaping Portal",
+		[172217] = "Cankerous Hurler",
 		[62982] = "Unknown <Abasy-Ragnaros>",
 		[170476] = "Possessed Hunter",
 		[158703] = "Oozing Putrefaction",
 		[59271] = "Demonic Gateway",
 		[159727] = "Redelav Steward",
-		[159417] = "Demented Knife-Twister",
+		[155814] = "Eldritch Understudy",
 		[127484] = "Jes Howlis",
+		[161396] = "Tyrannizer Leprutis",
 		[78173] = "Bladespire Ogron",
 		[94806] = "Fel Hellweaver",
-		[160388] = "Lord Vasile",
 		[162799] = "Possessed Spy",
 		[167406] = "Sire Denathrius",
 		[83975] = "Skyreach Dawnbreaker",
@@ -3101,13 +3103,13 @@ _detalhes_global = {
 		[298458] = "Amniotic Eruption <Zoatroid>",
 		[176890] = 2,
 		[298459] = "Amniotic Eruption <Lesser Zoatroid>",
-		[32612] = 8,
+		[114050] = 7,
 		[302555] = "Guardian of Azeroth <Jebait>",
-		[337367] = 5,
+		[263648] = 12,
 		[339415] = "Xav the Unfallen",
 		[192249] = 7,
 		[314843] = "N'Zoth the Corruptor",
-		[275936] = 12,
+		[333273] = 6,
 		[327130] = "Flesh Crafter",
 		[345561] = "Kin-Tara",
 		[306654] = "Ra-den",
@@ -3118,22 +3120,22 @@ _detalhes_global = {
 		[298465] = "Zoatroid",
 		[320991] = "Regal Mistdancer",
 		[300514] = "Scrapbone Shaman",
-		[114052] = 7,
+		[260852] = "Sister Malady",
 		[314850] = "[*] Expanding Darkness",
 		[215802] = 7,
 		[296421] = "[*] Arcanado",
 		[314851] = "Gryth'ax the Executioner",
-		[343520] = "[*] Storming",
+		[302565] = 2,
 		[51399] = 6,
 		[323043] = "Drust Spiteclaw",
-		[341473] = "Bleakwing Assassin",
+		[300518] = "Queen Azshara",
 		[327139] = 4,
 		[345569] = 4,
 		[314853] = "Gryth'ax the Executioner",
-		[325092] = 10,
+		[300519] = "Queen Azshara",
 		[318949] = "Blighted Spinebreaker",
 		[341475] = "Bleakwing Assassin",
-		[298473] = "Unknown",
+		[314855] = "Gryth'ax the Executioner",
 		[236282] = 1,
 		[320999] = "Regal Mistdancer",
 		[316904] = 5,
@@ -3141,7 +3143,7 @@ _detalhes_global = {
 		[339430] = "Stone Legion Commando",
 		[115078] = 10,
 		[257785] = "Jes Howlis",
-		[300525] = "Scrapbone Trashtosser",
+		[252666] = "Shadowblade Stalker",
 		[310764] = "Demented Knife-Twister",
 		[60103] = 7,
 		[286192] = 12,
@@ -3150,12 +3152,12 @@ _detalhes_global = {
 		[310766] = "Eye of the Depths",
 		[321005] = "Ingra Maloch",
 		[282098] = "Pa'ku's Aspect",
-		[333292] = "Sathel the Accursed",
+		[284146] = "[*] Ring of Hostility",
 		[54216] = 3,
 		[333293] = "Bone Magus",
 		[102793] = 11,
 		[339437] = "Stone Legion Commando",
-		[300530] = "K'thir Mindcarver",
+		[199427] = 2,
 		[323056] = 1,
 		[316913] = "Night Terror <Ra-den>",
 		[321009] = "Kin-Tara",
@@ -3166,7 +3168,7 @@ _detalhes_global = {
 		[321011] = "Millificent Manastorm",
 		[323059] = "Droman Oulfarran",
 		[327155] = "Loyal Creation",
-		[331251] = "Azules",
+		[194310] = 6,
 		[333299] = "Nefarious Darkspeaker",
 		[339443] = 7,
 		[193287] = 6,
@@ -3175,18 +3177,18 @@ _detalhes_global = {
 		[302585] = 1,
 		[323064] = "Hakkar the Soulflayer",
 		[91021] = 4,
-		[302588] = "[*] Frost Mark",
+		[318970] = "Corruptor Tentacle",
 		[292350] = "Overlord Mathias Shaw",
-		[327162] = 7,
+		[310780] = "Eye of the Depths",
 		[197385] = 7,
 		[327163] = 7,
 		[185099] = 10,
 		[282113] = "Frida Ironbellows",
 		[327164] = 7,
 		[325117] = 2,
-		[318974] = "Voidspawn Annihilator",
-		[296449] = "Radiance of Azshara",
-		[300545] = "[*] Mighty Rupture",
+		[294401] = "Deadsoul Echo",
+		[345595] = 10,
+		[325118] = 5,
 		[188172] = 5,
 		[271877] = 4,
 		[199435] = 2,
@@ -3232,7 +3234,8 @@ _detalhes_global = {
 		[321038] = "Wicked Oppressor",
 		[203538] = 2,
 		[288275] = 5,
-		[316944] = 12,
+		[199443] = 2,
+		[48333] = 6,
 		[273942] = 9,
 		[203539] = 2,
 		[321041] = "Disgusting Refuse",
@@ -3245,7 +3248,7 @@ _detalhes_global = {
 		[294423] = 5,
 		[263707] = 12,
 		[290328] = 5,
-		[341522] = "Nathrian Tracker",
+		[252687] = "Shadowblade Stalker",
 		[106898] = 11,
 		[273947] = 6,
 		[1943] = 4,
@@ -3264,7 +3267,7 @@ _detalhes_global = {
 		[260881] = 7,
 		[327194] = 5,
 		[329242] = 5,
-		[214807] = 4,
+		[298526] = "Hatchery Gauntlet",
 		[207640] = 11,
 		[52174] = 1,
 		[345625] = "Nar'zudah",
@@ -3272,9 +3275,9 @@ _detalhes_global = {
 		[341530] = 4,
 		[319005] = "Il'gynoth",
 		[298528] = "Aqir Swarmleader",
-		[199450] = 2,
-		[184092] = 2,
-		[252692] = "Shadowblade Stalker",
+		[316958] = 2,
+		[167710] = "Rukhmar <Bluearruwu>",
+		[316959] = "Corrosive Digester",
 		[19434] = 3,
 		[298531] = "Overzealous Hulk",
 		[188189] = "Gorebound Assassin",
@@ -3284,7 +3287,7 @@ _detalhes_global = {
 		[257814] = "Jes Howlis",
 		[282153] = "High Tinker Mekkatorque",
 		[319013] = "Unknown",
-		[321061] = "Millificent Manastorm",
+		[288297] = "[*] Arctic Ground",
 		[263725] = 8,
 		[323110] = "Oozing Leftovers",
 		[189216] = "[*] Rebounding Blades",
@@ -3315,117 +3318,138 @@ _detalhes_global = {
 		[273974] = 8,
 		[228128] = 5,
 		[310834] = "Demented Knife-Twister",
+		[332686] = 10,
 		[298548] = "Orgozoa",
 		[284214] = 2,
+		[327408] = 8,
 		[258845] = 5,
+		[347553] = 10,
 		[236320] = 1,
 		[310836] = "Demented Knife-Twister",
 		[205604] = 12,
 		[331314] = "[*] Destructive Impact",
 		[276025] = 10,
+		[343553] = "Spiteful Shade",
 		[280121] = 6,
-		[236321] = 1,
+		[20589] = 5,
+		[316981] = "Xav the Unfallen",
 		[310838] = "Sightless Watcher",
 		[61648] = 3,
 		[331316] = "Dokigg the Brutalizer",
+		[236502] = 7,
 		[310839] = "Occult Shadowmender",
+		[345553] = "Stoneborn Maitre D'",
 		[323126] = "Sinstone Statue",
 		[325174] = 7,
+		[208628] = 12,
 		[31850] = 2,
+		[256864] = "Dinomancer Kish'o",
 		[267838] = "[*] Blowback",
 		[216869] = 2,
+		[307071] = "Synthesis Growth",
 		[331319] = "Dokigg the Brutalizer",
+		[329170] = "Sinstone Statue",
 		[98204] = 7,
 		[115098] = 10,
 		[331320] = "Dokigg the Brutalizer",
+		[207744] = 12,
 		[327225] = 2,
 		[296509] = "Radiance of Azshara",
-		[331321] = "[*] Spike Trap",
+		[323130] = "[*] Coagulating Ooze",
 		[300605] = "Cyranus",
 		[17] = 5,
 		[329274] = "Toshpriest-Area52 <Toshpriest-Area52>",
-		[327227] = "Sire Denathrius",
+		[282181] = "Grong",
+		[94632] = 8,
+		[310845] = "Occult Shadowmender",
+		[325217] = 10,
 		[88990] = 1,
+		[339552] = "Deplina",
+		[329321] = "Vicious Gargon",
+		[274283] = 11,
 		[306751] = "Wrathion",
+		[115072] = 10,
 		[257827] = "Jes Howlis",
 		[27243] = 9,
-		[306752] = "Vez'okk the Lightless",
-		[343553] = "Spiteful Shade",
-		[311192] = 2,
-		[292419] = 5,
-		[270241] = "Burning Emberguard",
-		[345553] = "Stoneborn Maitre D'",
-		[323136] = "Runestag Elderhorn",
-		[260900] = "Sister Solena",
-		[319041] = 10,
+		[282179] = "Grong",
+		[292463] = 5,
+		[266087] = 9,
+		[212801] = 8,
+		[345549] = 7,
+		[308801] = "Zardeth of the Black Claw",
+		[329326] = "Mawsworn Soulbinder",
+		[302588] = "[*] Frost Mark",
+		[290372] = 1,
+		[325184] = "Lady Inerva Darkvein",
+		[5116] = 3,
 		[288325] = "[*] Glacial Shards",
 		[323137] = "Droman Oulfarran",
 		[300612] = 11,
-		[327233] = "Plaguebelcher",
+		[208683] = 8,
 		[329281] = "Unknown <Toshpriest-Area52>",
 		[323138] = "Ingra Maloch",
 		[316995] = "Xav the Unfallen",
-		[208628] = 12,
+		[257793] = "Jes Howlis",
 		[304709] = "Horrific Summoner",
 		[339521] = "Conjured Manifestation",
-		[288653] = 1,
+		[345548] = 6,
 		[208684] = 3,
-		[329425] = "Flameforge Enforcer",
-		[329170] = "Sinstone Statue",
-		[300699] = "Abyssal Commander Sivara",
-		[187174] = 9,
+		[286163] = "Manceroy Flamefist",
+		[325223] = "Mistveil Stinger",
+		[207685] = 12,
+		[288210] = "Arena Challenger",
 		[131894] = 3,
 		[45524] = 6,
-		[325189] = 10,
+		[308807] = "Zardeth of the Black Claw",
 		[108446] = 9,
-		[265889] = "Blacktooth Arsonist",
+		[335308] = "Depths Warden",
 		[145205] = 11,
-		[94632] = 8,
-		[255836] = "Priestess Alun'za",
+		[166646] = 10,
+		[126436] = 3,
 		[296522] = "[*] Self-Destruct",
 		[339525] = "Kullan",
-		[193345] = 4,
-		[296688] = "Lady Ashvane",
+		[263636] = "Addled Thug",
+		[315197] = "Thing From Beyond",
 		[296523] = "Mawsworn Seeker",
 		[298571] = "Mechacycle",
-		[317001] = "[*] Umbral Aversion",
+		[228140] = 6,
 		[327240] = "Loyal Creation",
-		[115072] = 10,
+		[278134] = 1,
 		[339527] = "Kullan",
 		[300620] = "Venna Seastorm",
 		[278095] = 7,
 		[329289] = 5,
 		[339528] = "Dragost",
-		[212800] = 12,
-		[321226] = "Amarth",
-		[286226] = 12,
+		[296510] = "Crawling Corruption",
+		[329163] = "Stealthling",
+		[335306] = "Depths Warden",
 		[306765] = "Thrall",
-		[345549] = 7,
-		[171849] = 9,
-		[258860] = 12,
-		[147362] = 3,
+		[308685] = 8,
+		[257883] = "Hadal Darkfathom",
+		[282247] = "Grong",
+		[116706] = 10,
 		[308814] = 4,
-		[345548] = 6,
-		[286163] = "Manceroy Flamefist",
-		[278145] = 2,
+		[323373] = "[*] Anima Surge",
+		[243435] = 10,
+		[345805] = 8,
 		[325197] = 10,
 		[310863] = 5,
-		[306942] = "Shad'har the Insatiable",
+		[335304] = "Huntsman Altimor",
 		[323150] = "Sinstone Statue",
 		[260907] = "Sister Solena",
-		[288210] = "Arena Challenger",
+		[1680] = 1,
 		[6940] = 2,
-		[335308] = "Depths Warden",
+		[272090] = 5,
 		[300626] = "Queen Azshara",
-		[166646] = 10,
-		[280149] = 6,
-		[306770] = "Lilliam Sparkspindle",
+		[284377] = "Unknown",
+		[304722] = 5,
+		[210738] = 6,
 		[317009] = 12,
 		[122783] = 10,
-		[20589] = 5,
-		[176065] = "Dusky Tremorbeast",
+		[131900] = 3,
+		[205636] = 11,
 		[248622] = 1,
-		[312782] = "N'Zoth the Corruptor",
+		[300491] = "Venna Seastorm",
 		[312915] = 5,
 		[306772] = "[*] Massive Scythe",
 		[325202] = 10,
@@ -3433,143 +3457,143 @@ _detalhes_global = {
 		[296534] = "Lady Ashvane",
 		[274009] = 6,
 		[325203] = 5,
-		[329325] = "Mawsworn Disciple",
+		[284453] = "Living Bomb",
 		[52437] = 1,
 		[339538] = 2,
-		[298630] = "Voidbound Shieldbearer",
-		[284377] = "Unknown",
-		[288345] = "Lady Jaina Proudmoore",
+		[278310] = 8,
+		[148392] = 9,
+		[329300] = 5,
 		[298584] = "Enthralled Footman",
 		[341587] = "Court Assassin",
-		[329163] = "Stealthling",
+		[325399] = "Artificer Xy'mox",
 		[296537] = "Cultist Tormenter",
 		[298585] = "Enthralled Footman",
 		[170810] = 5,
 		[204598] = 12,
-		[335306] = "Depths Warden",
+		[321247] = "Amarth",
 		[86949] = 8,
-		[308685] = 8,
+		[306973] = "Fury of N'Zoth",
 		[302682] = "Trixie Tazer",
 		[258864] = "Ashvane Marine",
 		[282205] = "High Tinker Mekkatorque",
-		[276297] = "Deepsea Ritualist",
-		[343648] = 11,
+		[63956] = 3,
+		[315035] = "Promising Specimen",
 		[312922] = 2,
-		[206647] = 1,
+		[298588] = "Mechacycle",
 		[325209] = 10,
-		[260894] = "Elder Leaxa",
-		[189364] = 7,
-		[243435] = 10,
-		[212743] = 4,
+		[229206] = 4,
+		[320966] = "Kin-Tara",
+		[313107] = 12,
+		[341443] = "Unknown",
 		[171836] = 8,
 		[312924] = 8,
-		[335304] = "Huntsman Altimor",
+		[205691] = 3,
 		[317020] = 1,
-		[333616] = "Winged Ravager",
+		[209749] = 11,
 		[345689] = 10,
 		[282209] = "Ravenous Stalker",
 		[114083] = 7,
 		[212792] = 8,
-		[284146] = "[*] Ring of Hostility",
-		[157503] = 7,
-		[306828] = "Thrall",
+		[288534] = "[*] Blistering Tornado",
+		[206649] = 12,
+		[341442] = "Erupting Ooze",
 		[319070] = "Rotmarrow Slime",
-		[316971] = "Titanic Countermeasure",
+		[288426] = 6,
 		[323166] = "Hakkar the Soulflayer",
 		[276068] = "Hadal Darkfathom",
-		[300491] = "Venna Seastorm",
+		[311054] = 10,
 		[296546] = "Radiance of Azshara",
 		[206650] = 12,
 		[300642] = "Power Coil",
 		[225080] = 7,
-		[280165] = 11,
+		[345693] = 2,
 		[339550] = "[*] Echo of Battle",
 		[325216] = 10,
 		[327264] = 10,
-		[306735] = "Wrathion",
-		[205636] = 11,
-		[325217] = 10,
+		[335298] = "Sludgefist",
+		[316868] = 5,
+		[284262] = "Sister Katherine",
 		[216890] = 1,
 		[258869] = "Ashvane Flamecaster",
 		[93095] = 10,
 		[325218] = 10,
-		[196413] = 7,
+		[343648] = 11,
 		[329314] = 11,
-		[339553] = "Deplina",
-		[272183] = "Fallen Deathspeaker",
-		[70116] = "Unknown",
+		[314980] = 5,
+		[284468] = "Darkforged Crusader",
+		[267799] = 2,
 		[296551] = "Abyssal Commander Sivara",
 		[243512] = 5,
 		[317029] = 1,
-		[196414] = 9,
+		[188223] = "Iron Peon",
 		[98727] = 9,
 		[339555] = "Deplina",
 		[199486] = 5,
-		[265888] = 3,
+		[335297] = "Sludgefist",
 		[337508] = 1,
-		[314903] = "Hepthys",
-		[274062] = 10,
+		[321258] = "[*] Final Harvest",
+		[331523] = 4,
 		[278124] = 1,
 		[288363] = "Lady Jaina Proudmoore",
 		[298602] = "[*] Smoke Cloud",
-		[325223] = "Mistveil Stinger",
+		[300650] = "Toxic Lurker",
 		[327271] = 5,
-		[329319] = "Mawsworn Sentry",
+		[121253] = 10,
 		[306794] = "Wrathion",
 		[325224] = "Mistveil Stinger",
 		[188225] = "Fel Touched Seer",
-		[212799] = 8,
+		[248744] = 4,
 		[323177] = "Droman Oulfarran",
-		[240443] = "Tidesage Initiate",
-		[331422] = "Unknown",
-		[329321] = "Vicious Gargon",
-		[320966] = "Kin-Tara",
+		[325225] = "Lady Inerva Darkvein",
+		[319237] = 1,
+		[193345] = 4,
+		[306865] = "Ra-den",
 		[325226] = "Mistveil Stinger",
-		[269937] = 2,
-		[345704] = 10,
-		[329376] = "Fog Dweller",
-		[267890] = "[*] Swiftness Ward",
-		[341443] = "Unknown",
+		[212799] = 8,
+		[329322] = "Arch-Suppressor Laguas",
+		[331439] = 10,
+		[35546] = 4,
+		[170855] = 11,
 		[345705] = 10,
-		[203650] = 12,
+		[335295] = "[*] Shattering Chain",
 		[267891] = "Galecaller Faye",
-		[335467] = 5,
-		[329324] = "Vicious Gargon",
-		[52212] = 6,
-		[268077] = "Sister Solena",
+		[171845] = 1,
+		[296560] = "[*] Clinging Static",
+		[50401] = 6,
+		[339632] = 5,
 		[53] = 4,
 		[108968] = 5,
-		[341442] = "Erupting Ooze",
-		[23922] = 1,
+		[263943] = "Heartsbane Runeweaver",
+		[85948] = 6,
 		[188228] = 8,
 		[337517] = 5,
-		[298787] = "Queen Azshara",
-		[240446] = "[*] Explosion",
-		[335298] = "Sludgefist",
-		[316868] = 5,
-		[300832] = 1,
-		[300659] = "Toxic Monstrosity",
+		[308673] = "Eye of Chaos",
+		[284276] = "King Rastakhan",
+		[296688] = "Lady Ashvane",
+		[278198] = "Ironroot Strider",
+		[209693] = 12,
+		[260924] = "Sergeant Bainbridge",
 		[171847] = 2,
 		[345710] = 8,
 		[314994] = "Maut",
-		[298782] = "Queen Azshara",
+		[292290] = "Omega Buster",
 		[294517] = "Deadsoul Scavenger",
 		[288374] = "Lady Jaina Proudmoore",
 		[314995] = "Maut",
-		[335297] = "Sludgefist",
-		[66021] = "Knight of the Ebon Blade",
+		[298630] = "Voidbound Shieldbearer",
+		[335473] = "Sludgefist",
 		[280184] = 10,
-		[286558] = "Brother Joseph",
+		[325361] = "Artificer Xy'mox",
 		[207684] = 12,
-		[300893] = 12,
-		[311054] = 10,
+		[188182] = "Gorebound Assassin",
+		[341435] = "Vicious Gargon",
 		[331379] = "Lubricator",
 		[114089] = 7,
-		[53209] = 3,
-		[339629] = "Gorging Mite",
+		[171849] = 9,
+		[321264] = "Rockbound Sprite",
 		[314998] = "Aqir Shadowcrafter",
 		[292473] = 2,
-		[254813] = 9,
+		[341623] = "Lady Inerva Darkvein",
 		[280187] = 10,
 		[323190] = "Stitched Vanguard",
 		[292474] = 11,
@@ -3577,387 +3601,387 @@ _detalhes_global = {
 		[263806] = 7,
 		[339573] = "Mordretha, the Endless Empress",
 		[341621] = "Lady Inerva Darkvein",
-		[261981] = 12,
+		[333612] = "Winged Ravager",
 		[288380] = "Cannons",
-		[335295] = "[*] Shattering Chain",
+		[61391] = 11,
 		[122281] = 10,
 		[171851] = 7,
-		[329395] = "Honored Duelist",
-		[286393] = 2,
-		[341623] = "Lady Inerva Darkvein",
+		[333540] = "Xira the Underhanded",
+		[288455] = 1,
+		[267904] = 5,
 		[66] = 8,
 		[100780] = 10,
-		[331523] = 4,
+		[71552] = "Captain Grondel",
 		[267905] = "Brother Ironhull",
 		[294526] = "Arch-Suppressor Laguas",
-		[280192] = 2,
+		[337529] = 9,
 		[323195] = "Oryphrion",
 		[341625] = "Lady Inerva Darkvein",
 		[167757] = "Energized Phoenix",
-		[206649] = 12,
-		[308673] = "Eye of Chaos",
+		[333242] = "Raging Bloodhorn",
+		[265931] = 9,
 		[267907] = "[*] Soul Thorns",
-		[311045] = "Void Initiate",
+		[276128] = 9,
 		[329340] = "High Adjudicator Aleez",
-		[313088] = 12,
+		[300802] = 1,
 		[325245] = "Domina Venomblade",
 		[278147] = 2,
 		[258883] = 12,
-		[282243] = "Apetagonizer 3000 <Grong>",
+		[75] = 3,
 		[69041] = 5,
 		[126890] = 10,
 		[222024] = 6,
 		[331390] = 10,
 		[308865] = "Zardeth of the Black Claw",
-		[296560] = "[*] Clinging Static",
+		[316859] = "Stoneborn Maitre D'",
 		[193356] = 4,
 		[282245] = "High Tinker Mekkatorque",
 		[300675] = "[*] Toxic Fog",
-		[292290] = "Omega Buster",
-		[321153] = 5,
+		[32379] = 5,
+		[280198] = 5,
 		[306819] = "Ra-den",
-		[345698] = 2,
-		[294533] = "Deadsoul Devil",
-		[193357] = 4,
-		[282247] = "Grong",
-		[288515] = 8,
-		[284527] = 10,
-		[5405] = 8,
+		[310984] = 10,
+		[33757] = 7,
+		[125355] = 10,
+		[315011] = "Aqir Shadowcrafter",
+		[208772] = 5,
+		[202644] = 12,
+		[222026] = 6,
 		[255814] = "Reanimated Honor Guard",
-		[341435] = "Vicious Gargon",
+		[308962] = "Mindtwist Tendril",
 		[294535] = "Za'qul",
-		[193358] = 4,
+		[280201] = 4,
 		[315013] = "Aqir Shadowcrafter",
 		[114093] = 7,
-		[305007] = 10,
+		[196448] = 9,
 		[30831] = "Forsworn Stealthclaw",
 		[315014] = 12,
-		[317062] = 5,
-		[262019] = "Mech Jockey",
+		[207693] = 12,
+		[170869] = 8,
 		[193359] = 4,
 		[339588] = 6,
-		[325254] = "Grand Proctor Beryllia",
-		[296701] = "Stormwraith",
+		[308872] = "Dark Manifestation <[*] Dark Manifestation>",
+		[30455] = 8,
 		[280204] = 5,
 		[132951] = 4,
 		[23920] = 1,
-		[343721] = 2,
+		[337612] = 1,
 		[280205] = 7,
 		[331399] = "Margrave Stradama",
 		[317065] = 1,
-		[209693] = 12,
+		[288188] = "Spark Bot",
 		[329352] = 2,
 		[323209] = "Sinstone Statue",
 		[325257] = "Grand Proctor Beryllia",
-		[240448] = 7,
+		[286232] = 2,
 		[272016] = "Imprisoned Cabalist",
 		[331401] = "General Kaal",
 		[325258] = "Mueh'zala",
 		[100] = 1,
-		[280208] = 9,
-		[71552] = "Captain Grondel",
-		[333242] = "Raging Bloodhorn",
-		[325382] = "Lady Inerva Darkvein",
-		[294597] = 10,
+		[205648] = 7,
+		[195452] = 4,
+		[347572] = 10,
+		[343520] = "[*] Storming",
+		[308956] = "Eye of Drest'agath",
 		[306830] = 12,
-		[300687] = "Toxic Monstrosity",
-		[266106] = "Feral Bloodswarmer",
+		[308878] = "Zardeth of the Black Claw",
+		[347918] = 3,
 		[280210] = 1,
-		[316859] = "Stoneborn Maitre D'",
+		[194509] = 5,
 		[325261] = "Grand Proctor Beryllia",
-		[186257] = 3,
+		[311041] = "Umbral Seer",
 		[345739] = 12,
-		[227151] = 4,
-		[211793] = 6,
+		[117679] = 11,
+		[325262] = "Grand Proctor Beryllia",
 		[188244] = 5,
 		[280212] = 1,
 		[347788] = 5,
-		[210738] = 6,
+		[290448] = "[*] Seal of Purification",
 		[319120] = "[*] Putrid Bile",
 		[209746] = 11,
-		[57841] = 4,
+		[124280] = 10,
 		[300691] = 1,
 		[188245] = 5,
-		[341732] = "Lady Sinsear",
+		[173958] = 3,
 		[57820] = 6,
-		[157644] = 8,
-		[72132] = 1,
-		[300751] = 9,
-		[282181] = "Grong",
-		[300693] = 5,
+		[333523] = "Xira the Underhanded",
+		[267997] = "Vilefiend <Warlockmania-Area52>",
+		[56814] = 4,
+		[282041] = "Manceroy Flamefist",
+		[341648] = "Lord Evershade",
 		[116] = 8,
 		[329362] = "Shriekwing",
-		[313040] = "Fury of N'Zoth",
+		[300762] = 7,
 		[256846] = "Dinomancer Kish'o",
 		[118] = 8,
-		[288188] = "Spark Bot",
-		[980] = 9,
-		[32379] = 5,
+		[138130] = 10,
+		[292565] = "Crushing Grasp",
+		[203650] = 12,
 		[188247] = 5,
-		[347572] = 10,
+		[313052] = 7,
 		[182104] = 2,
-		[83381] = "Spirit Beast <Watergun-Kil'jaeden>",
+		[341651] = "Lord Evershade",
 		[122] = 8,
-		[209749] = 11,
-		[296492] = "Void Globule",
+		[108978] = 8,
+		[207736] = 4,
 		[276124] = 9,
-		[288654] = 1,
-		[286439] = "Mestrah",
+		[296673] = "Stormling <Azsh'ari Stormcaller>",
+		[339376] = 2,
 		[255824] = "Dazar'ai Juggernaut",
 		[284316] = "Brother Joseph",
 		[126] = 9,
-		[77761] = 11,
+		[313056] = 5,
 		[331415] = "General Kaal",
-		[252753] = 11,
-		[224127] = 7,
-		[276026] = 11,
-		[290461] = 10,
+		[300699] = "Abyssal Commander Sivara",
+		[327089] = "Sire Denathrius",
+		[275895] = 8,
+		[339607] = 12,
 		[276127] = 9,
 		[278175] = "Verdant Keeper",
 		[321178] = "Insatiable Brute",
-		[315035] = "Promising Specimen",
+		[265889] = "Blacktooth Arsonist",
 		[300701] = "Abyssal Commander Sivara",
 		[286367] = "Living Bomb",
-		[321179] = 5,
-		[315036] = "Promising Specimen",
+		[288415] = "Bwonsamdi",
+		[339609] = "Sins of the Past",
 		[276129] = 9,
 		[286368] = "Unknown",
-		[124280] = 10,
+		[306611] = 2,
 		[290464] = 1,
 		[276130] = 9,
 		[286369] = "Living Bomb",
-		[208770] = 12,
-		[238452] = 9,
+		[189363] = 9,
+		[343470] = "Skeletal Marauder",
 		[276131] = 9,
 		[286370] = "Unknown",
 		[209753] = 11,
-		[276128] = 9,
+		[341422] = "Court Executor",
 		[93622] = 11,
-		[321253] = "[*] Final Harvest",
-		[282041] = "Manceroy Flamefist",
-		[290467] = 3,
-		[308897] = 12,
-		[596] = 5,
-		[313056] = 5,
-		[341714] = "Countess Gloomveil",
-		[284383] = "Brother Joseph",
-		[167710] = "Rukhmar <Bluearruwu>",
-		[337567] = 12,
-		[57822] = 8,
-		[256884] = "Monzumi",
+		[282037] = "Manceroy Flamefist",
 		[48103] = 1,
+		[331422] = "Unknown",
+		[308897] = 12,
+		[300751] = 9,
+		[290467] = 3,
+		[306609] = 2,
+		[341662] = "Lord Evershade",
+		[304867] = "Shirakess Voidreaper",
+		[337567] = 12,
+		[274087] = "Zekhan",
+		[267899] = "Brother Ironhull",
+		[286439] = "Mestrah",
 		[329377] = "Fog Dweller",
-		[339376] = 2,
-		[341726] = 5,
-		[327089] = "Sire Denathrius",
+		[196447] = 9,
+		[247677] = 2,
+		[329376] = "Fog Dweller",
 		[312996] = "Ra-den",
 		[331426] = 10,
 		[325283] = 5,
 		[327331] = "Forsworn Mender",
 		[80313] = 11,
-		[30449] = 8,
-		[275895] = 8,
+		[323236] = "Lord Chamberlain",
+		[288449] = "King Rastakhan",
 		[327332] = "Forsworn Mender",
 		[263852] = "Rukhmar <Bluearruwu>",
-		[306611] = 2,
+		[327397] = "Zolramus Necromancer",
 		[308903] = "Maut",
-		[272090] = 5,
-		[288426] = 6,
-		[343470] = "Skeletal Marauder",
-		[211805] = 6,
+		[123254] = 5,
+		[263853] = 1,
+		[204513] = 12,
+		[333477] = "Goregrind",
 		[253784] = 2,
 		[263854] = "Raptor <Aethael>",
-		[341422] = "Court Executor",
+		[288345] = "Lady Jaina Proudmoore",
 		[300714] = 7,
-		[282037] = "Manceroy Flamefist",
-		[329383] = "Deadsoul Spirit",
-		[290450] = "Prelate Za'lan",
+		[306606] = 7,
+		[321192] = 5,
+		[199547] = 12,
 		[333479] = "Rotspew",
 		[302763] = 9,
 		[263856] = 1,
-		[329417] = 5,
+		[29166] = 11,
 		[325289] = 9,
 		[335528] = "The Grand Malleare",
-		[298703] = 6,
+		[278145] = 2,
 		[298669] = "Trixie Tazer",
-		[126389] = 5,
+		[300717] = 7,
 		[278192] = "Ironroot Strider",
 		[263858] = 1,
-		[306609] = 2,
-		[217979] = 9,
+		[196414] = 9,
+		[341735] = "Kennel Overseer",
 		[257882] = "Hadal Darkfathom",
-		[294726] = "Abyssal Commander Sivara",
-		[304733] = "Za'qul",
+		[34026] = 3,
+		[341416] = "Court Executor",
 		[260954] = "Sergeant Bainbridge",
-		[33778] = 11,
-		[254811] = 4,
-		[210824] = 8,
+		[5215] = 11,
+		[321197] = 5,
+		[296365] = "Subjugator Klontzas",
 		[317102] = "N'Zoth the Corruptor",
-		[257883] = "Hadal Darkfathom",
+		[225119] = 8,
 		[288434] = 2,
 		[76732] = "Kelsey Steelspark",
-		[317103] = 5,
+		[333485] = "Rotspew",
 		[294578] = 10,
-		[224125] = 7,
-		[306865] = "Ra-den",
-		[272260] = 5,
-		[317164] = "Mycelial Cyst",
+		[286393] = 2,
+		[339629] = "Gorging Mite",
+		[313010] = 8,
+		[282030] = "Mestrah",
 		[263863] = 1,
-		[331439] = 10,
-		[170855] = 11,
-		[278198] = "Ironroot Strider",
-		[213858] = 1,
-		[123254] = 5,
+		[306866] = "Ra-den",
+		[81340] = 6,
+		[286389] = "Rastari Royal Guard",
+		[181094] = "Felfire Demolisher",
+		[267964] = "Skurikgoril <Judaasx>",
 		[333488] = "Amarth",
 		[343727] = "Unknown <Toshpriest>",
-		[50401] = 6,
-		[339632] = 5,
+		[288438] = 7,
+		[323250] = "Droman Oulfarran",
 		[333489] = "Amarth",
-		[85948] = 6,
-		[204513] = 12,
+		[261981] = 12,
+		[317103] = 5,
 		[331442] = 10,
-		[210803] = 10,
-		[335538] = "The Grand Malleare",
+		[339693] = "[*] Crystalline Burst",
+		[257886] = "[*] Brine Pool",
 		[263867] = "Flameflame <Wonderwise-Zul'jin>",
-		[306606] = 7,
+		[238454] = 9,
 		[276154] = 11,
 		[302775] = 9,
-		[288441] = "Lady Jaina Proudmoore",
-		[304831] = "Seeker of Souls",
-		[300728] = 5,
+		[115129] = 10,
+		[329127] = 5,
+		[333492] = "Amarth",
 		[335540] = "Pestering Fiend",
 		[304824] = 1,
 		[54753] = 9,
-		[337529] = 9,
+		[59628] = 4,
 		[77758] = 11,
 		[329398] = 5,
 		[331446] = 10,
 		[317112] = "N'Zoth the Corruptor",
 		[286396] = "Mestrah",
-		[300785] = "Queen Azshara",
+		[286386] = "Rastari Royal Guard",
 		[347829] = 1,
-		[339693] = "[*] Crystalline Burst",
-		[258922] = 12,
-		[341742] = "Kennel Overseer",
+		[329383] = "Deadsoul Spirit",
+		[256893] = 2,
+		[197509] = "Bloodworm <Evangelos>",
 		[339639] = "Ripped Soul",
-		[341416] = "Court Executor",
-		[183263] = "Gormling Spitter",
+		[298743] = 9,
+		[314791] = 8,
 		[345783] = "Dragost",
 		[306876] = "Dark Inquisitor Xanesh",
 		[267969] = "Temple Attendant",
-		[296365] = "Subjugator Klontzas",
-		[310845] = "Occult Shadowmender",
-		[274346] = 12,
-		[282030] = "Mestrah",
-		[343737] = 10,
-		[282215] = "Flying Ape Wranglers",
-		[308916] = "Dark Manifestation <[*] Dark Manifestation>",
+		[185313] = 4,
+		[284277] = 1,
+		[272126] = 3,
+		[235313] = 8,
+		[327355] = 8,
+		[317221] = 2,
+		[337656] = 5,
 		[267971] = "Demonic Tyrant <Judaasx>",
 		[294592] = 10,
 		[329404] = "Dread Siphonist",
-		[272126] = 3,
+		[308646] = 12,
 		[166766] = "Mawsworn Shackler",
-		[308945] = "Mindtwist Tendril",
-		[329127] = 5,
+		[227034] = 11,
+		[279977] = 12,
 		[202602] = 1,
 		[267973] = "Temple Attendant",
-		[306866] = "Ra-den",
+		[192222] = 7,
 		[345788] = "Deplina",
 		[306881] = "Void Hunter <Ra-den>",
-		[257886] = "[*] Brine Pool",
-		[288438] = 7,
-		[61391] = 11,
+		[316836] = "Stoneborn Maitre D'",
+		[345698] = 2,
+		[337313] = 12,
 		[298691] = "Slavemaster Ul'rok",
 		[114108] = 11,
-		[33757] = 7,
+		[253654] = "Dazar'ai Juggernaut",
 		[49379] = 3,
-		[267798] = 2,
-		[314791] = 8,
+		[333217] = 5,
+		[280177] = 8,
 		[5246] = 1,
 		[345791] = "Fara",
-		[286386] = "Rastari Royal Guard",
+		[242391] = "Coldheart Agent",
 		[267977] = "Shrine Templar",
-		[5374] = 4,
+		[77761] = 11,
 		[329410] = "Dread Siphonist",
 		[339649] = "Gorging Mite",
 		[325315] = 5,
-		[337516] = 5,
+		[210824] = 8,
 		[321220] = "Frenzied Ghoul",
-		[265931] = 9,
+		[30451] = 8,
 		[300743] = "Queen Azshara",
-		[300802] = 1,
+		[298651] = "Mechacycle",
 		[45284] = 7,
 		[190319] = 8,
 		[284362] = "Brother Joseph",
-		[48107] = 8,
+		[267890] = "[*] Swiftness Ward",
 		[345795] = "Kullan",
-		[105421] = 2,
+		[327227] = "Sire Denathrius",
 		[267981] = "Shrine Templar",
-		[310984] = 10,
+		[319175] = 4,
 		[370] = 7,
 		[331462] = 10,
-		[205691] = 3,
-		[308646] = 12,
+		[276126] = 9,
+		[195292] = 6,
 		[258920] = 12,
-		[227034] = 11,
+		[337661] = 5,
 		[284365] = "Brother Joseph",
-		[279977] = 12,
+		[296355] = "Subjugator Klontzas",
 		[329416] = 5,
 		[298700] = 1,
-		[192222] = 7,
+		[284420] = "Manceroy Flamefist",
 		[116670] = 10,
-		[258921] = 12,
+		[321226] = "Amarth",
 		[298701] = "Alleria Windrunner",
-		[316836] = "Stoneborn Maitre D'",
+		[20473] = 2,
 		[302797] = 5,
 		[213871] = 1,
-		[276234] = "B.O.O.M.B.A.",
+		[280170] = 3,
 		[308941] = "Drest'agath",
 		[408] = 4,
-		[345801] = 8,
-		[290512] = 10,
-		[325324] = "Artificer Xy'mox",
-		[337313] = 12,
-		[253654] = "Dazar'ai Juggernaut",
-		[333217] = 5,
-		[319237] = 1,
+		[263891] = "Heartsbane Vinetwister",
+		[298703] = 6,
+		[284369] = "[*] Sea Storm",
+		[258922] = 12,
+		[282215] = "Flying Ape Wranglers",
+		[341404] = "Anima Orb",
+		[286565] = "Mestrah",
 		[294609] = 10,
-		[337612] = 1,
+		[313039] = "Fury of N'Zoth",
 		[210801] = 7,
 		[325326] = 5,
 		[77764] = 11,
 		[345804] = 8,
-		[242391] = "Coldheart Agent",
+		[261947] = 10,
 		[341709] = "Mistcaller",
 		[71621] = "Professor Putricide",
-		[345805] = 8,
-		[284277] = 1,
+		[337614] = 5,
+		[240443] = "Tidesage Initiate",
 		[252781] = "Zanchuli Witch-Doctor",
-		[341903] = "Court Hierarch",
-		[152280] = 6,
-		[1464] = 1,
+		[325021] = "Mistveil Stalker",
+		[64977] = 1,
+		[345498] = "Runestag Elderhorn",
 		[308947] = "Drest'agath",
 		[278231] = 2,
 		[258925] = 12,
-		[339664] = 2,
-		[284388] = "Manceroy Flamefist",
+		[210803] = 10,
+		[300809] = 1,
 		[188278] = "Grim Ambusher",
 		[329426] = "Flameforge Enforcer",
-		[325024] = "Vicious Gargon",
+		[305060] = 5,
 		[325331] = "[*] Glyph of Destruction",
-		[256864] = "Dinomancer Kish'o",
+		[302589] = "[*] Toxic Brand",
 		[258926] = 12,
-		[296355] = "Subjugator Klontzas",
-		[333523] = "Xira the Underhanded",
+		[320924] = 8,
+		[341714] = "Countess Gloomveil",
 		[310998] = 5,
 		[329428] = 5,
-		[306726] = "Vez'okk the Lightless",
+		[276026] = 11,
 		[341715] = "Countess Gloomveil",
 		[319190] = 4,
 		[329429] = 5,
-		[266018] = 10,
-		[267997] = "Vilefiend <Warlockmania-Area52>",
-		[319243] = 6,
+		[280208] = 9,
+		[300761] = 5,
+		[345864] = 4,
 		[181113] = "Vile Occultist",
 		[339669] = 2,
 		[308953] = "Eye of Drest'agath",
@@ -3965,125 +3989,125 @@ _detalhes_global = {
 		[337622] = 10,
 		[315097] = "Il'gynoth",
 		[267999] = "Vilefiend <Warlockmania-Area52>",
-		[236502] = 7,
+		[77762] = 7,
 		[280286] = 2,
-		[268050] = "Tidesage Spiritualist",
+		[294302] = "Deadsoul Devil",
 		[300764] = "Slime Elemental",
 		[528] = 5,
-		[296669] = "Alx'kov the Infested",
+		[263905] = "Heartsbane Runeweaver",
 		[265953] = 12,
 		[300765] = 6,
-		[341404] = "Anima Orb",
-		[313052] = 7,
+		[300814] = 10,
+		[238452] = 9,
 		[265954] = 12,
 		[256882] = "Monzumi",
-		[276126] = 9,
+		[258921] = 12,
 		[313053] = 5,
-		[276125] = 9,
+		[288158] = 4,
 		[317149] = "[*] Gastric Fluids",
-		[265761] = "Matron Bryndle",
+		[300816] = "Slime Elemental",
 		[205689] = "Zanj'ir Huntress",
-		[325021] = "Mistveil Stalker",
+		[316826] = "Unknown <Skarsnik-Kil'jaeden>",
 		[300768] = "Queen Azshara",
+		[290578] = 6,
+		[596] = 5,
+		[197336] = 5,
+		[81782] = 5,
 		[343820] = 10,
-		[296673] = "Stormling <Azsh'ari Stormcaller>",
-		[345498] = "Runestag Elderhorn",
-		[284436] = "Frida Ironbellows",
-		[300705] = "Abyssal Commander Sivara",
-		[321247] = "Amarth",
-		[343822] = 10,
-		[341725] = 6,
+		[296674] = "Alx'kov the Infested",
+		[322968] = "Drust Spiteclaw",
+		[256884] = "Monzumi",
 		[286436] = "Mestrah",
-		[320924] = 8,
+		[300818] = "Gnome-Eating Slime",
 		[28405] = "Pustulent Horror",
-		[195452] = 4,
-		[190357] = 8,
+		[341726] = 5,
+		[302490] = "First Arcanist Thalyssra",
 		[321249] = "Frenzied Ghoul",
-		[270248] = "Burning Emberguard",
-		[280170] = 3,
+		[294533] = "Deadsoul Devil",
+		[303041] = 10,
 		[327393] = "Zolramus Necromancer",
 		[242551] = 1,
-		[296540] = "Cultist Tormenter",
+		[320919] = 8,
 		[341728] = "Lady Sinsear",
 		[102342] = 11,
 		[313060] = 2,
-		[294302] = "Deadsoul Devil",
-		[185239] = "[*] Radiance of Anzu",
+		[343822] = 10,
+		[286342] = 11,
 		[270058] = 8,
-		[209788] = 12,
-		[282408] = "Spark Bot",
+		[217979] = 9,
+		[266144] = "Decayspeaker",
 		[341730] = "Lady Sinsear",
-		[288158] = 4,
-		[181120] = "Iron Dragoon",
-		[292463] = 5,
-		[333540] = "Xira the Underhanded",
-		[327397] = "Zolramus Necromancer",
+		[313253] = "Wrathion",
+		[321253] = "[*] Final Harvest",
+		[308862] = "Unstable Servant <Zardeth of the Black Claw>",
+		[308967] = "Fallen Taskmaster",
+		[319206] = 2,
 		[258935] = "Empowered Mawsworn Flametender",
-		[316826] = "Unknown <Skarsnik-Kil'jaeden>",
-		[300777] = "Slime Elemental",
-		[333629] = "Reanimated Crossbowman <Amarth>",
+		[341395] = "Executrix Ophelia",
+		[341732] = "Lady Sinsear",
+		[271924] = 7,
 		[740] = 11,
 		[190336] = 8,
-		[197336] = 5,
-		[81782] = 5,
-		[268062] = 2,
-		[322968] = "Drust Spiteclaw",
-		[286232] = 2,
+		[320917] = 8,
+		[280206] = 9,
+		[325012] = 2,
+		[300687] = "Toxic Monstrosity",
+		[329107] = "Seed of Extinction",
 		[319209] = 2,
-		[772] = 1,
-		[302490] = "First Arcanist Thalyssra",
-		[199552] = 12,
+		[106951] = 11,
+		[327059] = 9,
+		[224125] = 7,
 		[311019] = "Monstrous Behemoth",
 		[329449] = 12,
-		[313010] = 8,
+		[190446] = 8,
 		[195457] = 4,
 		[188290] = 6,
-		[34026] = 3,
+		[321061] = "Millificent Manastorm",
 		[247675] = 2,
-		[207744] = 12,
-		[320919] = 8,
-		[47585] = 5,
+		[317164] = "Mycelial Cyst",
+		[254811] = 4,
+		[199483] = 3,
 		[339690] = "General Grashaal",
 		[317165] = "Mycelial Cyst",
-		[315011] = "Aqir Shadowcrafter",
-		[213888] = 3,
-		[288297] = "[*] Arctic Ground",
+		[228049] = 2,
+		[53480] = 3,
+		[7353] = 1,
 		[317166] = "Thought Harvester",
 		[311023] = "Monstrous Behemoth",
-		[280201] = 4,
+		[339825] = 1,
 		[306928] = "Shad'har the Insatiable",
 		[276212] = "Mogul Razdunk",
 		[27638] = "Forsworn Stealthclaw",
 		[280308] = 12,
 		[306929] = "Shad'har the Insatiable",
-		[266144] = "Decayspeaker",
+		[329325] = "Mawsworn Disciple",
 		[343789] = 10,
 		[329455] = "Hungering Destroyer",
 		[306930] = "Shad'har the Insatiable",
-		[203651] = 11,
+		[341742] = "Kennel Overseer",
 		[343790] = 10,
-		[341395] = "Executrix Ophelia",
+		[335467] = 5,
 		[173959] = 10,
-		[325361] = "Artificer Xy'mox",
+		[284406] = "Tempting Siren",
 		[116680] = 10,
-		[329457] = 5,
+		[296693] = "Lady Ashvane",
 		[306932] = "[*] Noxious Mantle",
-		[69070] = 5,
+		[308980] = "Corruption Tumor",
 		[34795] = 8,
 		[288503] = 4,
 		[198533] = "Jade Serpent Statue <Scitama-Kil'jaeden>",
-		[288546] = "Magus of the Dead <Moonßlight>",
+		[53209] = 3,
 		[343793] = 10,
 		[313077] = 12,
 		[306934] = "Shad'har the Insatiable",
-		[320917] = 8,
+		[312722] = "Nightmare Portal",
 		[343794] = 10,
 		[288505] = 3,
-		[280198] = 5,
-		[325012] = 2,
+		[298782] = "Queen Azshara",
+		[268077] = "Sister Solena",
 		[327413] = "Forsworn Goliath",
 		[288506] = 5,
-		[309026] = 5,
+		[284168] = 3,
 		[93644] = 1,
 		[327414] = "[*] Possession",
 		[288507] = "Frozen Wave <Lady Jaina Proudmoore>",
@@ -4092,377 +4116,377 @@ _detalhes_global = {
 		[32246] = 10,
 		[337654] = 5,
 		[331511] = 10,
-		[329107] = "Seed of Extinction",
+		[320912] = 8,
 		[327416] = "Forsworn Goliath",
 		[288509] = 5,
 		[331512] = 10,
-		[327059] = 9,
-		[30451] = 8,
-		[337656] = 5,
-		[304722] = 5,
-		[323250] = "Droman Oulfarran",
+		[302976] = "Queen Azshara",
+		[284388] = "Manceroy Flamefist",
+		[296701] = "Stormwraith",
+		[16191] = 7,
+		[279956] = 3,
 		[188298] = "Keen-Eyed Gronnstalker",
 		[337657] = 2,
 		[51690] = 4,
-		[131900] = 3,
-		[228049] = 2,
-		[7353] = 1,
+		[325492] = 3,
+		[176065] = "Dusky Tremorbeast",
+		[31224] = 4,
 		[339706] = "Echo Bullrider",
-		[121253] = 10,
+		[152280] = 6,
 		[302847] = 2,
 		[337659] = 2,
-		[263961] = "Heartsbane Soulcharmer",
-		[341735] = "Kennel Overseer",
-		[325077] = 9,
-		[312722] = "Nightmare Portal",
-		[257946] = 3,
-		[138130] = 10,
-		[94158] = 5,
-		[337661] = 5,
-		[199547] = 12,
-		[284420] = "Manceroy Flamefist",
+		[329241] = 5,
+		[240448] = 7,
+		[306575] = 5,
+		[296518] = "Walkie Shockie X1",
+		[282408] = "Spark Bot",
+		[300801] = 1,
+		[262019] = "Mech Jockey",
+		[313088] = 12,
+		[316813] = "[*] Cursed Pulse",
+		[276229] = "B.O.O.M.B.A.",
 		[200587] = 9,
 		[313089] = 12,
-		[347901] = 11,
-		[148392] = 9,
+		[105421] = 2,
+		[306574] = 10,
 		[319233] = 6,
-		[320912] = 8,
+		[222031] = 12,
 		[298756] = "Cyranus",
 		[308995] = "Tentacle of Drest'agath",
-		[245686] = 12,
-		[329322] = "Arch-Suppressor Laguas",
+		[341796] = "The Accuser",
+		[305043] = 10,
 		[202636] = 11,
 		[308996] = "N'Zoth the Corruptor",
 		[327426] = "Unknown",
 		[205708] = 8,
-		[278134] = 1,
-		[300806] = 11,
-		[327427] = "Unknown",
-		[279956] = 3,
-		[30455] = 8,
-		[195470] = 12,
+		[236321] = 1,
+		[284424] = "[*] Scorching Ground",
+		[319236] = 6,
+		[184092] = 2,
+		[290568] = "Dazari Worshipper",
+		[308998] = "Fallen Taskmaster",
 		[311046] = "Umbral Seer",
-		[183023] = "Soulbound Construct",
-		[337510] = 5,
-		[265760] = "Matron Bryndle",
+		[19574] = 3,
+		[327467] = "Custodian Thonar",
+		[3408] = 4,
 		[319238] = 6,
-		[185044] = "Hellfire Cannon",
+		[333294] = "Nefarious Darkspeaker",
 		[259975] = "The Sand Queen",
-		[300809] = 1,
+		[1464] = 1,
 		[102351] = 11,
 		[55531] = 9,
 		[306953] = "Shad'har the Insatiable",
-		[286219] = 12,
+		[339759] = "Mordretha, the Endless Empress",
 		[48108] = 8,
 		[32375] = 5,
-		[331527] = "Lady Inerva Darkvein",
+		[186257] = 3,
 		[325384] = "Lady Inerva Darkvein",
 		[319241] = 7,
 		[321289] = 10,
 		[331528] = 10,
-		[196448] = 9,
-		[306575] = 5,
-		[345595] = 10,
+		[341550] = 4,
+		[306571] = 2,
+		[304733] = "Za'qul",
 		[186258] = 3,
-		[276286] = "[*] Slicing Hurricane",
+		[304949] = "Coldheart Ascendant",
 		[311052] = "Maddened Conscript",
-		[345864] = 4,
-		[316813] = "[*] Cursed Pulse",
-		[300814] = 10,
-		[306574] = 10,
+		[296718] = "Faceless Willbreaker",
+		[227151] = 4,
+		[268050] = "Tidesage Spiritualist",
+		[83381] = "Spirit Beast <Watergun-Kil'jaeden>",
 		[304910] = 11,
-		[341860] = "Court Assassin",
+		[152277] = 1,
 		[341770] = 11,
 		[319245] = 6,
 		[115151] = 10,
 		[315150] = 10,
 		[341771] = "Bone Magus",
 		[343819] = 10,
-		[316981] = "Xav the Unfallen",
-		[290578] = 6,
+		[296540] = "Cultist Tormenter",
+		[210833] = 8,
 		[300817] = "Abyssal Commander Sivara",
 		[262027] = 2,
 		[19577] = 3,
-		[298770] = "Alleria Windrunner",
-		[300818] = "Gnome-Eating Slime",
-		[314980] = 5,
+		[190356] = 8,
+		[284436] = "Frida Ironbellows",
+		[302681] = "Trixie Tazer",
 		[263959] = "Heartsbane Soulcharmer",
 		[331535] = 10,
 		[1784] = 4,
 		[311058] = 5,
 		[313106] = 10,
-		[331536] = 10,
-		[207685] = 12,
-		[117679] = 11,
-		[288534] = "[*] Blistering Tornado",
+		[190357] = 8,
+		[15290] = 5,
+		[180945] = "Felfire Demolisher",
+		[263961] = "Heartsbane Soulcharmer",
 		[339728] = "General Grashaal",
-		[261977] = 10,
+		[339553] = "Deplina",
 		[1856] = 4,
 		[313108] = 10,
 		[323347] = "Zolramus Gatekeeper",
 		[325395] = "Shadowclone Stalker",
 		[343825] = 10,
-		[313109] = "[*] Unstable Nightmare",
+		[185239] = "[*] Radiance of Anzu",
 		[186263] = 5,
 		[268059] = "Tidesage Spiritualist",
-		[257793] = "Jes Howlis",
-		[307057] = "Vexiona",
-		[19574] = 3,
-		[314855] = "Gryth'ax the Executioner",
-		[31224] = 4,
+		[290621] = "Lady Jaina Proudmoore",
+		[142073] = 6,
+		[282449] = 4,
+		[316850] = 5,
+		[270108] = "[*] Rotting Spore",
 		[23161] = 9,
-		[273977] = 6,
-		[306571] = 2,
+		[339529] = "Dragost",
+		[339603] = "Fara",
 		[319255] = 6,
-		[199443] = 2,
-		[57842] = 4,
-		[325399] = "Artificer Xy'mox",
+		[307075] = "Vexiona",
+		[264058] = 4,
+		[2008] = 7,
 		[208790] = 12,
 		[313113] = 10,
-		[315161] = "Eye of Corruption",
-		[125355] = 10,
+		[186265] = 3,
+		[271881] = 4,
 		[319257] = 4,
 		[313114] = "[*] Unleashed Nightmare",
 		[182170] = "Gorefiend",
 		[284446] = "Bwonsamdi",
-		[255941] = 2,
+		[129935] = 5,
 		[296733] = "Faceless Willbreaker",
 		[298781] = "Queen Azshara",
-		[152277] = 1,
-		[329300] = 5,
-		[323394] = 3,
-		[306973] = "Fury of N'Zoth",
-		[286565] = "Mestrah",
-		[180945] = "Felfire Demolisher",
-		[11327] = 4,
+		[320900] = 8,
+		[72132] = 1,
+		[42223] = 9,
+		[266018] = 10,
+		[347520] = 12,
+		[317001] = "[*] Umbral Aversion",
+		[284488] = "Frida Ironbellows",
 		[339738] = 3,
 		[284449] = "Frida Ironbellows",
-		[280052] = 5,
-		[118699] = 9,
+		[280192] = 2,
+		[260900] = "Sister Solena",
 		[331548] = "4.RF-4.RF",
 		[268068] = 2,
-		[307017] = "Crackling Shard",
+		[325189] = 10,
 		[296737] = "Radiance of Azshara",
 		[274212] = "Abyssal Cultist",
 		[284451] = "Unknown",
 		[270117] = 2,
-		[5116] = 3,
+		[329518] = "Shade of Kael'thas",
 		[274213] = "Sporecaller Zancha",
 		[183197] = "Faeleaf Tender",
-		[339529] = "Dragost",
+		[327509] = 8,
 		[288548] = "Magus of the Dead <Moonßlight>",
 		[306978] = "Fury of N'Zoth",
-		[284453] = "Living Bomb",
+		[309026] = 5,
 		[286501] = "[*] Creeping Blaze",
-		[313227] = "Ra-den",
+		[306563] = 5,
 		[282406] = "Spark Bot",
 		[207771] = 12,
-		[31230] = 4,
-		[195292] = 6,
+		[320897] = 5,
+		[278350] = 9,
 		[186270] = 3,
-		[199600] = 4,
+		[341374] = 5,
 		[286503] = "Living Bomb",
-		[325171] = 10,
+		[280398] = 5,
 		[306981] = "[*] Gift of the Void",
 		[333602] = "Brittlebone Mage",
 		[208796] = 12,
-		[320900] = 8,
+		[329087] = 5,
 		[306982] = 10,
-		[317221] = 2,
-		[194481] = 2,
-		[327509] = 8,
+		[276266] = "Tidesage Spiritualist",
+		[199600] = 4,
+		[282447] = "Kimbul",
 		[255895] = "Toxic Saurid",
 		[317222] = 10,
-		[347520] = 12,
-		[235313] = 8,
+		[339325] = "General Kaal",
+		[288630] = 3,
 		[282411] = "Akunda's Aspect",
-		[341796] = "The Accuser",
+		[276268] = "Shrine Templar",
 		[102359] = 11,
 		[296746] = "Arcane Bomb",
 		[347940] = 7,
-		[300761] = 5,
+		[118635] = 10,
 		[311081] = "Maddened Conscript",
 		[313129] = "Aqir Drone",
 		[306986] = "Fury of N'Zoth",
-		[106951] = 11,
+		[327498] = 8,
 		[327464] = "Remornia",
 		[296748] = "Massive Crusher",
 		[339751] = "Echo Bullrider",
 		[268080] = "[*] Aura of Apathy",
 		[108503] = 9,
-		[325118] = 5,
-		[306988] = "Fury of N'Zoth",
-		[325418] = "Spinemaw Acidgullet",
+		[339324] = 2,
+		[315179] = 12,
+		[110039] = 1,
 		[311084] = "Maddened Conscript",
-		[5215] = 11,
-		[296566] = "Radiance of Azshara",
-		[313174] = 10,
-		[327467] = "Custodian Thonar",
+		[343881] = "General Kaal",
+		[157504] = 7,
+		[298831] = "Mawsworn Sentry",
+		[257946] = 3,
 		[201633] = "Earthen Wall Totem <Penguinpal>",
 		[266035] = "Thistle Acolyte",
-		[306563] = 5,
+		[280052] = 5,
 		[311086] = "Maddened Conscript",
 		[45297] = 7,
 		[266036] = "Thistle Acolyte",
 		[207777] = 4,
-		[320897] = 5,
-		[3408] = 4,
-		[335694] = "Suppressor Xelors",
+		[320893] = 5,
+		[272180] = "Grotesque Horror",
+		[292419] = 5,
 		[317231] = "Xav the Unfallen",
-		[341374] = 5,
-		[329518] = "Shade of Kael'thas",
-		[318971] = "Voidspawn Annihilator",
+		[265760] = "Matron Bryndle",
+		[337709] = 6,
+		[298367] = 5,
 		[268086] = "[*] Aura of Dread",
 		[327471] = "Custodian Thonar",
 		[304946] = "Coldheart Ascendant",
-		[329087] = 5,
+		[193333] = 5,
 		[284469] = "Frida Ironbellows",
 		[278326] = 12,
 		[3600] = "Unknown <Penguinpal>",
-		[339759] = "Mordretha, the Endless Empress",
+		[306995] = "Wrathion",
 		[268088] = "Sister Malady",
 		[311091] = "Zealous Adherent",
 		[304948] = "Coldheart Ascendant",
 		[306996] = "Void Ascendant",
-		[302932] = 3,
-		[188182] = "Gorebound Assassin",
+		[296788] = 9,
+		[324987] = "Mistveil Stalker",
 		[313140] = 10,
-		[339325] = "General Kaal",
-		[264038] = "Coven Thornshaper",
-		[118635] = 10,
-		[304949] = "Coldheart Ascendant",
-		[339324] = 2,
+		[322939] = "Drust Harvester",
+		[129934] = 10,
+		[252692] = "Shadowblade Stalker",
+		[325092] = 10,
+		[322938] = "Drust Harvester",
 		[276282] = "Galecaller Apprentice",
 		[319285] = 2,
 		[148396] = 9,
-		[280409] = 3,
+		[290648] = 5,
 		[284474] = "Frida Ironbellows",
-		[260046] = "Zanj'ir Honor Guard",
+		[325171] = 10,
 		[337716] = 5,
 		[331573] = "Unknown",
-		[7744] = 9,
 		[280412] = 11,
-		[320893] = 5,
-		[273988] = 1,
-		[333294] = "Nefarious Darkspeaker",
+		[7744] = 9,
+		[296316] = 10,
+		[284219] = "Mechagon Renormalizer",
+		[162530] = 10,
 		[311097] = "[*] Condensing Void",
-		[298367] = 5,
+		[327427] = "Unknown",
 		[266047] = 2,
-		[228260] = 5,
+		[276286] = "[*] Slicing Hurricane",
 		[311098] = "Zealous Adherent",
 		[288573] = 3,
-		[323385] = 5,
-		[310842] = "Occult Shadowmender",
+		[57841] = 4,
+		[8512] = 7,
 		[327481] = "Kin-Tara",
-		[335338] = "Lord Chamberlain",
-		[324987] = "Mistveil Stalker",
-		[322939] = "Drust Harvester",
-		[107428] = 10,
+		[267798] = 2,
+		[324983] = 11,
+		[323394] = 3,
+		[296752] = "[*] Cutting Coral",
 		[313148] = 5,
 		[206760] = 4,
-		[28271] = 8,
+		[262066] = "Mechanized Peacekeeper",
 		[294719] = 5,
 		[280385] = 4,
 		[339770] = "Anima Crazed Worker",
-		[201657] = 6,
+		[324982] = 12,
 		[294720] = 10,
-		[322938] = "Drust Harvester",
+		[296725] = "Lady Ashvane",
 		[223143] = 1,
-		[116095] = 10,
+		[320886] = 5,
 		[311103] = 5,
-		[321345] = 5,
+		[306828] = "Thrall",
 		[307008] = "Gaze of Madness",
-		[276292] = "Ironhull Apprentice",
-		[339552] = "Deplina",
-		[339825] = 1,
-		[296316] = 10,
-		[208683] = 8,
+		[333629] = "Reanimated Crossbowman <Amarth>",
+		[171827] = 3,
+		[292686] = 12,
+		[329319] = "Mawsworn Sentry",
+		[245686] = 12,
 		[302914] = 11,
 		[280389] = "Dread Captain Lockwood",
-		[252666] = "Shadowblade Stalker",
+		[264027] = "Bewitched Captain",
 		[325440] = "Rockbound Vanquisher",
-		[311107] = 5,
+		[286219] = 12,
 		[197548] = 5,
-		[255909] = 4,
-		[2479] = 3,
-		[335680] = "Mawsworn Soulweaver",
-		[100784] = 10,
+		[57842] = 4,
+		[310788] = "Organ of Corruption",
+		[311107] = 5,
+		[190313] = "Archimonde",
 		[339776] = "Anima Crazed Worker",
 		[325442] = "Rockbound Vanquisher",
-		[302917] = 3,
-		[324983] = 11,
+		[294726] = "Abyssal Commander Sivara",
+		[198589] = 12,
 		[266058] = 8,
-		[284488] = "Frida Ironbellows",
-		[264024] = "Heartsbane Soulcharmer",
+		[276297] = "Deepsea Ritualist",
+		[16870] = 11,
 		[80353] = 8,
 		[298823] = 1,
 		[341826] = 10,
-		[321401] = "Gluttonous Tick",
-		[66019] = "Knight of the Ebon Blade",
-		[316935] = "Darkwing Gargoyle",
+		[271737] = "Gnomish Gyro-Engineer",
+		[11327] = 4,
+		[32747] = 12,
 		[116189] = 10,
 		[5760] = 4,
 		[193455] = 3,
-		[324982] = 12,
-		[302565] = 2,
+		[69070] = 5,
+		[267824] = "Soul Essence",
 		[335685] = "Mawsworn Darkcaster",
-		[320886] = 5,
-		[282444] = "Kimbul's Aspect",
-		[319288] = 10,
-		[323107] = "Oozing Leftovers",
+		[1776] = 4,
+		[307017] = "Crackling Shard",
+		[307048] = "Fury of N'Zoth",
+		[333250] = "Risen Warlord",
 		[80354] = 12,
 		[186289] = 3,
 		[284493] = "[*] Pulse-quickening Toxin",
-		[286541] = "Yalat's Bulwark",
-		[313162] = 5,
-		[102383] = 11,
+		[196528] = 6,
+		[304971] = 2,
+		[296449] = "Radiance of Azshara",
 		[183218] = 2,
 		[327497] = "Lord Stavros",
-		[267824] = "Soul Essence",
-		[282447] = "Kimbul",
-		[292686] = 12,
+		[331623] = 9,
+		[194481] = 2,
+		[300877] = "Titan Console",
 		[311116] = "Spiked Tentacle",
 		[280400] = 4,
-		[313107] = 12,
+		[305004] = 2,
 		[317260] = 12,
-		[343881] = "General Kaal",
-		[307048] = "Fury of N'Zoth",
-		[282449] = 4,
-		[296454] = "Deadsoul Stalker",
-		[298859] = 10,
-		[304975] = "Inquisitor Gnshal",
-		[307023] = "[*] Soul Burst",
-		[294602] = 10,
+		[52212] = 6,
 		[317291] = 7,
+		[290640] = 11,
+		[264050] = "Coven Thornshaper",
+		[320880] = 5,
+		[66021] = "Knight of the Ebon Blade",
+		[307023] = "[*] Soul Burst",
+		[321329] = 8,
+		[341865] = "Court Executor",
 		[304976] = "Thrall",
 		[84963] = 2,
-		[264050] = "Coven Thornshaper",
+		[314736] = "[*] Bubbling Overflow",
 		[335693] = 5,
 		[280404] = 2,
-		[271737] = "Gnomish Gyro-Engineer",
+		[280433] = 12,
 		[199603] = 4,
-		[327503] = "Lord Stavros",
+		[335694] = "Suppressor Xelors",
 		[113120] = 5,
-		[307053] = "[*] Lava Pools",
+		[314903] = "Hepthys",
 		[317265] = 12,
 		[311122] = "Spiked Tentacle",
-		[296788] = 9,
+		[264024] = "Heartsbane Soulcharmer",
 		[298836] = 4,
 		[240559] = "[*] Grievous Wound",
 		[311123] = 10,
 		[7328] = 2,
 		[298837] = 5,
-		[280433] = 12,
-		[321329] = 8,
+		[313215] = "[*] Surging Images",
+		[115175] = 10,
 		[345936] = "Shriekwing",
-		[329241] = 5,
-		[268122] = "Sister Briar",
-		[313198] = 6,
-		[264027] = "Bewitched Captain",
-		[298839] = 1,
 		[256955] = "Knight Captain Valyri",
-		[294401] = "Deadsoul Echo",
-		[61684] = "Spirit Beast <Watergun-Kil'jaeden>",
+		[268122] = "Sister Briar",
+		[206647] = 1,
+		[280409] = 3,
+		[298839] = 1,
+		[265759] = "Matron Bryndle",
+		[306770] = "Lilliam Sparkspindle",
+		[313174] = 10,
 		[15487] = 5,
 		[325461] = 6,
 		[116705] = 10,
@@ -4477,527 +4501,527 @@ _detalhes_global = {
 		[321368] = "Nalthor the Rimebinder",
 		[260016] = "Buzzing Drone",
 		[325464] = 6,
-		[305008] = 6,
-		[275918] = 6,
+		[28271] = 8,
+		[210854] = 7,
 		[298844] = "Deadsoul Shambler",
-		[305009] = 10,
-		[116706] = 10,
-		[8512] = 7,
-		[236298] = 8,
+		[49376] = 11,
+		[286558] = "Brother Joseph",
+		[329561] = "Essence Font <Vile Occultist>",
+		[266106] = "Feral Bloodswarmer",
 		[203704] = 12,
-		[320880] = 5,
+		[266107] = "Feral Bloodswarmer",
 		[197561] = 2,
-		[331550] = "Conjured Manifestation",
+		[339463] = 6,
 		[317276] = "Ra-den",
-		[233397] = 6,
+		[327515] = "Fen Hornet",
 		[329563] = "Dusky Tremorbeast",
 		[44535] = 10,
-		[264058] = 4,
-		[262066] = "Mechanized Peacekeeper",
+		[329588] = 5,
+		[343898] = "Stone Legion Goliath",
 		[329564] = "Dusky Tremorbeast",
 		[214968] = 6,
-		[314736] = "[*] Bubbling Overflow",
+		[323365] = "[*] Clinging Darkness",
 		[311135] = 10,
 		[329565] = "Vile Occultist",
-		[298849] = "Trixie Tazer",
+		[227255] = 12,
 		[228279] = "Unknown",
 		[286563] = "Brother Joseph",
 		[148417] = 5,
 		[307041] = "Wrathion",
-		[307061] = "Fury of N'Zoth",
-		[292565] = "Crushing Grasp",
-		[266107] = "Feral Bloodswarmer",
+		[286226] = 12,
+		[343400] = 12,
+		[324970] = 7,
 		[307042] = "Amalgamation of Flesh",
-		[300919] = 8,
+		[311160] = 8,
 		[49143] = 6,
 		[264040] = "[*] Uprooted Thorns",
-		[329588] = 5,
-		[323365] = "[*] Clinging Darkness",
-		[29166] = 11,
-		[266109] = "Feral Bloodswarmer",
+		[316935] = "Darkwing Gargoyle",
+		[214807] = 4,
+		[341441] = "Hulking Gargon",
+		[331550] = "Conjured Manifestation",
 		[307044] = "Amalgamation of Flesh",
-		[63956] = 3,
-		[209862] = "[*] Volcanic Plume",
-		[288615] = 5,
-		[198589] = 12,
-		[339463] = 6,
+		[131784] = 8,
+		[290461] = 10,
+		[321379] = 5,
+		[331618] = "Xav the Unfallen",
+		[294597] = 10,
 		[96231] = 2,
-		[115178] = 10,
+		[243651] = 5,
 		[307046] = 12,
 		[284521] = "Bwonsamdi",
-		[306636] = 7,
-		[210873] = 7,
-		[274283] = 11,
+		[320872] = 5,
+		[498] = 2,
+		[331620] = 10,
 		[341859] = "Court Assassin",
-		[311143] = "Blood of Ny'alotha",
+		[302952] = 3,
 		[305000] = 10,
 		[235450] = 8,
-		[126436] = 3,
-		[8092] = 1,
+		[341860] = "Court Assassin",
+		[327162] = 7,
 		[288619] = "Lady Jaina Proudmoore",
 		[331622] = 10,
-		[298510] = "Aqir Venomweaver",
-		[228140] = 6,
+		[339301] = 2,
+		[312680] = "Faceless Dominator",
 		[305002] = 5,
-		[331623] = 9,
+		[298859] = 10,
 		[300907] = 10,
-		[343400] = 12,
+		[343396] = 11,
 		[305003] = 5,
 		[331624] = 6,
 		[341863] = "Court Assassin",
 		[335720] = "Mawsworn Acolyte",
-		[305004] = 2,
+		[201664] = 11,
 		[307052] = "Fury of N'Zoth",
-		[341864] = "Nathrian Gargon Rider",
+		[284527] = 10,
 		[196545] = 6,
 		[305005] = 10,
-		[274289] = 12,
+		[307053] = "[*] Lava Pools",
 		[317292] = "N'Zoth the Corruptor",
-		[324970] = 7,
+		[236298] = 8,
 		[321388] = 8,
 		[323436] = 11,
-		[194310] = 6,
-		[310788] = "Organ of Corruption",
-		[115175] = 10,
+		[317915] = "Horrific Hemorrhage",
+		[306942] = "Shad'har the Insatiable",
+		[313198] = 6,
 		[323437] = "Lord Chamberlain",
 		[341867] = "Nathrian Enforcer",
-		[248744] = 4,
+		[1064] = 7,
 		[321390] = 8,
 		[46585] = 6,
 		[228287] = 10,
-		[190411] = 1,
-		[329582] = 11,
+		[288653] = 1,
+		[305009] = 10,
 		[298866] = "Lashing Tendril",
-		[284168] = 3,
-		[131784] = 8,
+		[272260] = 5,
+		[329060] = 10,
 		[209858] = "Off-Duty Laborer",
 		[251837] = 11,
-		[302976] = "Queen Azshara",
+		[333292] = "Sathel the Accursed",
 		[286581] = 4,
 		[115176] = 10,
-		[1160] = 1,
-		[288221] = "Unexploded Ordnance",
+		[35028] = 4,
+		[339298] = 9,
 		[319346] = "[*] Infinity's Toll",
-		[288630] = 3,
+		[264057] = 9,
 		[251838] = 2,
 		[300917] = 5,
 		[319347] = 10,
 		[345968] = "Veteran Stoneguard",
-		[315252] = "Night Terror <Ra-den>",
-		[320872] = 5,
+		[331634] = "Lord Stavros",
+		[329059] = 5,
 		[319348] = "N'Zoth the Corruptor",
-		[207736] = 4,
+		[343393] = 11,
 		[251839] = 2,
-		[325492] = 3,
+		[300919] = 8,
 		[319349] = "Titanic Countermeasure",
 		[148428] = 9,
-		[61447] = 1,
+		[288221] = "Unexploded Ordnance",
 		[256959] = "Reanimated Honor Guard",
 		[319350] = "Titanic Countermeasure",
 		[329589] = 11,
-		[307064] = "Fury of N'Zoth",
-		[339301] = 2,
-		[311160] = 8,
-		[313208] = "Image of Absolution",
-		[331638] = "Lord Stavros",
-		[312680] = "Faceless Dominator",
-		[343396] = 11,
+		[266109] = "Feral Bloodswarmer",
+		[317066] = "Thought Harvester",
+		[286587] = 10,
+		[205766] = 8,
+		[157644] = 8,
+		[164545] = 11,
+		[268769] = 4,
 		[288636] = 10,
 		[331639] = "[*] Danse Macabre",
-		[129935] = 5,
 		[345550] = 11,
-		[164812] = 11,
+		[341473] = "Bleakwing Assassin",
+		[321401] = "Gluttonous Tick",
 		[255937] = 2,
-		[331649] = 10,
-		[306670] = "[*] Soul Emanation",
-		[257777] = "Jes Howlis",
+		[980] = 9,
+		[298473] = "Unknown",
+		[300388] = "Decimator Shiq'voth",
 		[331641] = 10,
 		[203720] = 12,
-		[296674] = "Alx'kov the Infested",
-		[329060] = 10,
+		[264689] = 4,
+		[87024] = 8,
 		[331642] = 10,
-		[194311] = 6,
-		[81340] = 6,
+		[292359] = 11,
+		[306656] = "Vez'okk the Lightless",
 		[313213] = "Ra-den",
-		[339298] = 9,
-		[329059] = 5,
-		[343393] = 11,
-		[228597] = 8,
+		[147193] = 5,
+		[337367] = 5,
+		[314801] = "Agustus Moulaine",
+		[329608] = "Runecarved Colossus",
 		[331644] = 10,
-		[267964] = "Skurikgoril <Judaasx>",
+		[67481] = 3,
 		[100333] = 6,
-		[313215] = "[*] Surging Images",
-		[164545] = 11,
-		[190356] = 8,
+		[321406] = "Unknown",
+		[285152] = "Gnomercy 4.U.",
+		[275936] = 12,
 		[196555] = 12,
 		[345980] = 12,
 		[87023] = 8,
-		[688] = 9,
-		[285152] = "Gnomercy 4.U.",
+		[288654] = 1,
+		[228601] = 8,
 		[288644] = 1,
 		[315265] = "Unknown",
-		[35028] = 4,
+		[12472] = 8,
 		[327552] = "Doom Shroom",
-		[321379] = 5,
-		[307075] = "Vexiona",
+		[315252] = "Night Terror <Ra-den>",
+		[255941] = 2,
 		[5217] = 11,
-		[300388] = "Decimator Shiq'voth",
-		[329171] = "Sinstone Statue",
-		[194509] = 5,
+		[257777] = "Jes Howlis",
+		[173757] = "Faeleaf Warden",
+		[331649] = 10,
 		[325506] = "Rockbound Vanquisher",
-		[325514] = "[*] Flame Jet",
+		[304479] = "Writhing Soulmass",
 		[288647] = "Orb of Frost <Lady Jaina Proudmoore>",
 		[331650] = 10,
 		[341889] = "Nathrian Soldier",
-		[327104] = 10,
-		[295384] = 12,
+		[258860] = 12,
+		[206803] = 12,
 		[315269] = "Unknown",
-		[331663] = 10,
-		[266095] = "Zanj'ir Brute",
+		[322908] = "Devos",
+		[329618] = "Lady Inerva Darkvein",
 		[115181] = 10,
 		[5697] = 9,
-		[305043] = 10,
+		[198590] = 9,
 		[5761] = 4,
-		[329326] = "Mawsworn Soulbinder",
+		[145152] = 11,
 		[331653] = 10,
-		[290621] = "Lady Jaina Proudmoore",
+		[345504] = "Unknown",
 		[311176] = "N'Zoth the Corruptor",
 		[288651] = "[*] Orb of Frost",
 		[331654] = 10,
-		[266087] = 9,
-		[304971] = 2,
-		[321105] = "Ravenous Dreadbat",
+		[286541] = "Yalat's Bulwark",
+		[270241] = "Burning Emberguard",
+		[334275] = 9,
 		[331655] = 10,
 		[114158] = 2,
-		[295373] = 1,
-		[329608] = "Runecarved Colossus",
-		[189363] = 9,
-		[145152] = 11,
+		[5405] = 8,
+		[321417] = 8,
+		[256739] = 1,
+		[343963] = 1,
 		[5277] = 4,
 		[329609] = "Runecarved Colossus",
 		[58875] = 7,
 		[268177] = "Windspeaker Heldis",
 		[188370] = 2,
 		[313228] = "[*] Void-Touched",
-		[173757] = "Faeleaf Warden",
+		[331096] = 5,
 		[256970] = "Knight Captain Valyri",
-		[304479] = "Writhing Soulmass",
+		[279902] = 1,
 		[296847] = "[*] Oppressive Aura",
 		[121838] = 2,
-		[115080] = 10,
-		[102352] = 11,
-		[322908] = "Devos",
+		[295368] = 12,
+		[327104] = 10,
+		[331536] = 10,
 		[331660] = 10,
 		[333708] = "Maniacal Soulbinder",
 		[302992] = "Bound Storm",
 		[272276] = 5,
 		[298897] = "Trixie Tazer",
 		[341900] = "Nathrian Hierarch",
-		[322999] = "Devos",
+		[319243] = 6,
 		[296850] = "Pashmar the Fanatical",
 		[298898] = "Naeno Megacrash",
-		[202644] = 12,
-		[337819] = 12,
-		[147193] = 5,
+		[268202] = "Deathtouched Slaver",
+		[329457] = 5,
+		[322903] = "General Kaal",
 		[153561] = 8,
-		[268183] = 2,
+		[333711] = "Skeletal Raptor",
 		[262092] = "Addled Thug",
 		[296852] = "Pashmar the Fanatical",
 		[266136] = 9,
-		[268184] = "Windspeaker Heldis",
+		[341903] = "Court Hierarch",
 		[270232] = 8,
-		[326075] = "Soul Infuser",
+		[189112] = 12,
 		[307092] = "Fury of N'Zoth",
 		[317331] = "[*] Anguish",
-		[343963] = 1,
-		[329618] = "Lady Inerva Darkvein",
-		[256742] = 3,
+		[268203] = "Deathtouched Slaver",
+		[305045] = 10,
+		[194311] = 6,
 		[325523] = "Depraved Darkblade",
-		[1064] = 7,
+		[331093] = 5,
 		[264091] = 5,
 		[331667] = 10,
 		[268187] = "Windspeaker Heldis",
 		[302999] = "Queen Azshara",
 		[305047] = 10,
-		[210659] = 7,
+		[329171] = "Sinstone Statue",
 		[268188] = "Windspeaker Heldis",
 		[167898] = 5,
 		[313239] = "Prophet Skitra",
 		[153564] = 8,
 		[31616] = 7,
-		[327574] = 6,
+		[311192] = 2,
 		[305049] = 10,
-		[2641] = 3,
-		[236777] = 3,
-		[331096] = 5,
+		[185590] = "Archimonde",
+		[322999] = "Devos",
+		[15286] = 5,
 		[305050] = 10,
 		[315289] = 5,
-		[279902] = 1,
+		[256740] = 1,
 		[303003] = 3,
 		[305051] = 10,
 		[331672] = 10,
-		[148429] = 12,
+		[196278] = 9,
 		[83958] = 12,
 		[305052] = 2,
-		[331673] = 10,
+		[315291] = "[*] Devoured Abyss",
 		[138208] = 4,
 		[343960] = 1,
 		[305053] = 5,
 		[331674] = 5,
 		[268194] = 6,
 		[184283] = "Gorebound Berserker",
-		[305054] = 10,
-		[307639] = "Vexiona",
-		[68054] = "Jeeves <Artsong>",
-		[308967] = "Fallen Taskmaster",
-		[18562] = 11,
-		[70542] = "Ronald-Kil'jaeden <Ronald-Kil'jaeden>",
-		[314803] = "Ossirat",
+		[296863] = 2,
+		[198898] = 10,
+		[343721] = 2,
+		[345425] = "Shriekwing",
+		[337819] = 12,
+		["DEBUFF"] = 7,
+		[274436] = 11,
 		[327581] = "Plaguebelcher",
 		[264101] = "Aqu'sirr",
-		[322903] = "General Kaal",
+		[181943] = 5,
 		[300961] = "[*] Frozen Ground",
-		[189112] = 12,
+		[33778] = 11,
 		[288675] = 7,
-		[300801] = 1,
+		[326994] = "Sire Denathrius",
 		[300962] = "[*] Septic Ground",
 		[311201] = 3,
 		[40192] = 8,
-		[264111] = "Marked Sister",
-		[331093] = 5,
+		[224126] = 7,
+		[290134] = 6,
 		[311202] = 12,
 		[264104] = "[*] Runic Mark",
 		[323489] = "Flesh Crafter",
 		[333728] = "Risen Bonesoldier",
 		[311203] = 1,
-		[264105] = "Marked Sister",
-		[59628] = 4,
+		[2641] = 3,
+		[314803] = "Ossirat",
 		[187358] = 11,
-		[46924] = 1,
+		[114052] = 7,
 		[264106] = 9,
 		[323491] = 5,
-		[268202] = "Deathtouched Slaver",
-		[225119] = 8,
+		[183263] = "Gormling Spitter",
+		[197871] = 5,
 		[185311] = 4,
 		[44544] = 8,
-		[268203] = "Deathtouched Slaver",
+		[138213] = 4,
 		[335779] = "[*] Chain Link",
-		[306874] = "Crackling Stalker <Ra-den>",
-		[280398] = 5,
-		[333732] = 11,
-		[196278] = 9,
+		[290133] = 1,
+		[315036] = "Promising Specimen",
+		[300968] = 7,
+		[292264] = "Omega Buster",
 		[209885] = 5,
 		[227291] = "Niuzao <Gummybuns>",
-		[284369] = "[*] Sea Storm",
+		[288477] = 2,
 		[327590] = "Plaguebelcher",
 		[264110] = "Marked Sister",
-		[321152] = 5,
+		[259756] = 1,
 		[333734] = 11,
-		[345425] = "Shriekwing",
-		[185313] = 4,
+		[312750] = "Unknown",
+		[264111] = "Marked Sister",
 		[202719] = 12,
 		[300971] = 7,
 		[335783] = "Mawsworn Ritualist",
 		[313258] = "Dark Inquisitor Xanesh",
-		[315306] = "[*] Forbidden Mana",
+		[307115] = "[*] Flame Vent",
 		[232412] = 9,
-		[327355] = 8,
-		[210152] = 12,
+		[325514] = "[*] Flame Jet",
+		[2096] = 5,
 		[323498] = 5,
 		[333737] = "Unknown",
 		[327594] = "Plaguebelcher",
-		[43265] = 6,
-		[181943] = 5,
-		[56814] = 4,
-		[326994] = "Sire Denathrius",
-		[345504] = "Unknown",
+		[213983] = 4,
+		[183023] = "Soulbound Construct",
+		[306874] = "Crackling Stalker <Ra-den>",
+		[308876] = "Unknown <Zardeth of the Black Claw>",
+		[337516] = 5,
 		[307118] = 6,
 		[317357] = 5,
-		[290134] = 6,
+		[343737] = 10,
 		[115191] = 4,
 		[231390] = 3,
 		[268212] = 2,
-		[54729] = 6,
+		[308916] = "Dark Manifestation <[*] Dark Manifestation>",
 		[3409] = 4,
 		[315311] = "Aqir Ravager",
 		[325550] = "Domina Venomblade",
 		[245725] = 1,
-		[325225] = "Lady Inerva Darkvein",
+		[294602] = 10,
 		[274357] = 3,
 		[95738] = 1,
-		[92155] = 6,
+		[300706] = "Toxic Monstrosity",
 		[264119] = 9,
 		[113656] = 10,
 		[317361] = 10,
 		[155625] = 11,
 		[115192] = 4,
 		[274359] = "Lord Stormsong",
-		[290133] = 1,
-		[286646] = "High Tinker Mekkatorque",
-		[212704] = 3,
-		[308872] = "Dark Manifestation <[*] Dark Manifestation>",
-		[196840] = 7,
+		[322893] = "Devos",
+		[92155] = 6,
+		[199552] = 12,
+		[323515] = "Gorechop",
+		[325324] = "Artificer Xy'mox",
 		[278456] = "Devouring Maggot",
 		[14914] = 5,
-		[259756] = 1,
-		[273836] = 1,
+		[325024] = "Vicious Gargon",
+		[345417] = 8,
 		[184295] = "Gorebound Berserker",
-		[86392] = 4,
-		[296348] = "Blastatron X-80",
+		[163558] = 1,
+		[210659] = 7,
 		[162794] = 12,
-		[210658] = 7,
+		[197862] = 5,
 		[66047] = "Knight of the Ebon Blade",
-		[325262] = "Grand Proctor Beryllia",
-		[51714] = 6,
-		[345727] = 10,
-		[77220] = 9,
+		[179057] = 12,
+		[310604] = 1,
+		[210658] = 7,
+		[331081] = 10,
 		[307128] = 10,
 		[317367] = "Kul'tharok",
-		[321417] = 8,
-		[325004] = "Lady Inerva Darkvein",
-		[205648] = 7,
-		[322893] = "Devos",
-		[339609] = "Sins of the Past",
-		[193333] = 5,
+		[39897] = 5,
+		[327503] = "Lord Stavros",
+		[323136] = "Runestag Elderhorn",
+		[212704] = 3,
+		[294855] = "Inconspicuous Plant",
+		[268709] = "Venture Co. Earthshaper",
 		[339894] = 12,
-		[255974] = 2,
-		[149229] = 8,
-		[345417] = 8,
+		[114014] = 4,
+		[309658] = 4,
+		[346038] = 6,
 		[298940] = "Naeno Megacrash",
-		[296510] = "Crawling Corruption",
-		[263899] = "Heartsbane Vinetwister",
+		[348] = 9,
+		[118699] = 9,
 		[337848] = 2,
 		[315323] = 10,
 		[300989] = 11,
 		[327610] = "Lord Stavros",
 		[296894] = "Radiance of Azshara",
-		[323515] = "Gorechop",
-		[313748] = "Abyssal Watcher",
+		[51714] = 6,
+		[296348] = "Blastatron X-80",
 		[327611] = 6,
-		[207693] = 12,
-		[310604] = 1,
+		[47540] = 5,
+		[149229] = 8,
 		[317373] = 5,
-		[268214] = "Runecarver Sorn",
-		[331081] = 10,
-		[284406] = "Tempting Siren",
+		[212653] = 8,
+		[331433] = 10,
+		[300705] = "Abyssal Commander Sivara",
 		[199658] = 1,
 		[343995] = "Shriekwing",
-		[205021] = 8,
+		[181120] = "Iron Dragoon",
 		[260067] = "Bobby Howlis <Jes Howlis>",
-		[298829] = "Witch Doctor Umbu",
+		[311466] = 11,
 		[118779] = 1,
 		[296898] = "Boundless Corruption",
 		[298946] = "Naeno Megacrash",
 		[341949] = "[*] Withering Blight",
-		[163558] = 1,
+		[184025] = "Synod",
 		[288708] = "High Tinker Mekkatorque",
-		[68992] = 9,
-		[232405] = 7,
+		[104318] = "Wild Imp <Judaasx>",
+		[298841] = 1,
 		[20484] = 11,
 		[115196] = 4,
 		[298948] = 5,
-		[114014] = 4,
+		[343527] = 2,
 		[303044] = 10,
 		[313283] = "Vexiona",
-		[279958] = 3,
+		[307020] = "Vexiona",
 		[268233] = "Guardian Elemental",
-		[310988] = 5,
+		[279958] = 3,
 		[346048] = 5,
-		[190446] = 8,
+		[255974] = 2,
 		[268234] = "Bile Oozeling",
-		[294855] = "Inconspicuous Plant",
-		[333641] = "Risen Warlord",
-		[77762] = 7,
+		[200685] = 12,
+		[312645] = 5,
+		[232405] = 7,
 		[244712] = 1,
 		[278474] = "Coven Thornshaper",
 		[264140] = "Jagged Hound",
-		[47540] = 5,
-		[118905] = "Capacitor Totem <Yukios-Kil'jaeden>",
+		[91776] = "Plagueravager <Moonßlight>",
+		[331074] = 5,
 		[344003] = "Plagueborer",
 		[288714] = 1,
-		[212653] = 8,
-		[184025] = "Synod",
-		[303267] = "Zanj'ir Brute",
-		[343791] = 10,
+		[321153] = 5,
+		[288146] = 4,
+		[94158] = 5,
+		[68992] = 9,
 		[331718] = "Mistveil Defender",
-		[298588] = "Mechacycle",
+		[47585] = 5,
 		[344005] = "[*] Larva Bomb",
-		[298831] = "Mawsworn Sentry",
+		[212182] = 4,
 		[260072] = "Pa'kura Priest",
 		[268239] = "Guardian Elemental",
 		[344006] = 10,
 		[264144] = "Aqu'sirr",
-		[311041] = "Umbral Seer",
-		[2008] = 7,
-		[162530] = 10,
-		[267904] = 5,
+		[268183] = 2,
+		[5308] = 1,
+		[296260] = 4,
+		[335167] = 5,
 		[331721] = "Mistveil Defender",
 		[228333] = "[*] Volatile Charge",
 		[286671] = "Phantom of Retribution",
 		[51460] = 6,
-		[292910] = "Mawsworn Shackler",
+		[193753] = 11,
 		[268242] = "Guardian Elemental",
 		[294863] = "Inconspicuous Plant",
 		[296911] = "Boundless Corruption",
 		[315341] = 4,
-		[312645] = 5,
+		[342132] = 5,
 		[286673] = "Ravenous Stalker",
 		[288721] = 10,
-		[185562] = 3,
+		[235314] = 8,
 		[224239] = 2,
-		[266091] = 9,
-		[331074] = 5,
-		[308801] = "Zardeth of the Black Claw",
-		[260924] = "Sergeant Bainbridge",
+		[314754] = "Umbral Seer",
+		[312810] = "[*] Interconnectedness",
+		[265542] = "Fetid Maggot",
+		[347901] = 11,
 		[102401] = 11,
 		[264150] = "Thornguard",
 		[266198] = 5,
 		[199667] = 1,
-		[260852] = "Sister Malady",
-		[341352] = "Nathrian Gargon Rider",
-		[16870] = 11,
-		[327498] = 8,
-		[205523] = 10,
-		[307020] = "Vexiona",
-		[296260] = 4,
-		[335167] = 5,
-		[268129] = "Refreshment Vendor",
+		[319041] = 10,
+		[321345] = 5,
+		[345638] = 5,
+		[296257] = "Za'qul",
+		[335164] = "Blight Bag",
+		[319685] = "Kryxis the Voracious",
+		[305007] = 10,
+		[311045] = "Void Initiate",
+		[102352] = 11,
 		[125439] = 11,
 		[266201] = "Reanimated Guardian",
 		[301013] = 2,
 		[245743] = 8,
 		[35079] = 3,
-		[17767] = "Makdok <Downloaded-Kil'jaeden>",
+		[296566] = "Radiance of Azshara",
 		[341969] = "Blighted Sludge-Spewer",
 		[129023] = 8,
 		[264155] = "Aqualing",
 		[153595] = 8,
-		[304867] = "Shirakess Voidreaper",
-		[334196] = 7,
+		[275776] = "Ironroot Strider",
+		[180441] = 6,
 		[148476] = 5,
 		[123904] = 10,
-		["DEBUFF"] = 7,
-		[265542] = "Fetid Maggot",
+		[2094] = 4,
+		[292159] = "Blackwater Behemoth",
 		[313303] = "[*] Burned Bridge",
 		[153596] = 8,
 		[325590] = "Vile Occultist",
 		[319447] = "Empowered Imperial Consular",
 		[329686] = 5,
 		[190456] = 1,
-		[214222] = 2,
-		[164815] = 11,
-		[315766] = "Tentacle of Drest'agath",
+		[335817] = "Devos",
+		[230401] = 1,
+		[313162] = 5,
 		[307162] = 8,
-		[1079] = 11,
-		[296257] = "Za'qul",
-		[335164] = "Blight Bag",
-		[321192] = 5,
-		[275837] = 12,
-		[256739] = 1,
+		[324922] = "Drust Boughbreaker",
+		[2383] = 5,
+		[300659] = "Toxic Monstrosity",
+		[195592] = 7,
+		[255654] = 11,
+		[326002] = 5,
 		[337880] = 5,
-		[307164] = 6,
-		[327584] = "Plaguebelcher",
-		[214975] = 6,
+		[323546] = 11,
+		[290718] = 6,
+		[301431] = "Queen Azshara",
 		[288735] = 5,
 		[282592] = "Kimbul",
 		[341977] = "Diseased Horror",
@@ -5005,11 +5029,11 @@ _detalhes_global = {
 		[305118] = 7,
 		[307166] = 1,
 		[333787] = "Enraged Spirit",
-		[286391] = "Rastari Royal Guard",
+		[2782] = 11,
 		[313310] = 7,
 		[307167] = "Orgozoa",
 		[268260] = "Ashvane Cannoneer",
-		[336231] = "Stone Legion Commando",
+		[266091] = 9,
 		[329693] = 5,
 		[178173] = 10,
 		[333789] = "Enraged Spirit",
@@ -5018,37 +5042,37 @@ _detalhes_global = {
 		[323551] = "Fleeting Manifestation",
 		[95750] = 9,
 		[327647] = "Forsworn Inquisitor",
-		[6552] = 1,
+		[316951] = "Corrosive Digester",
 		[323552] = "High Adjudicator Aleez",
-		[292159] = "Blackwater Behemoth",
+		[284165] = "[*] Voltaic Flash",
 		[327648] = "Forsworn Inquisitor",
 		[197628] = 11,
 		[315362] = 2,
-		[188223] = "Iron Peon",
+		[339664] = 2,
 		[311267] = "Cultist Shadowblade",
 		[329697] = "Sire Denathrius",
 		[202748] = 3,
-		[272382] = "Decayspeaker",
-		[278504] = "Runic Disciple",
+		[294607] = "[*] Death Pool",
+		[286695] = "Phantom of Retribution",
 		[321507] = 8,
-		[320871] = 5,
-		[324922] = "Drust Boughbreaker",
+		[271677] = 8,
+		[188072] = "Orb of Destruction",
 		[30213] = "Skurikgoril <Judaasx>",
 		[250871] = 5,
 		[290792] = 5,
-		[39897] = 5,
-		[333492] = "Amarth",
+		[204490] = 12,
+		[319849] = 5,
 		[197630] = 11,
-		[331748] = "Mistveil Guardian",
+		[290793] = 5,
 		[325605] = "Blightsmasher",
 		[327653] = "Forsworn Champion",
 		[264173] = 9,
 		[323558] = 4,
-		[136] = 3,
+		[201657] = 6,
 		[294890] = "Malfunctioning Scrapbot",
 		[288747] = "Lady Jaina Proudmoore",
-		[323559] = 4,
-		[346111] = 5,
+		[307177] = "Spellbound Ritualist",
+		[302392] = "Naeno Megacrash",
 		[327655] = "Forsworn Champion",
 		[250873] = 5,
 		[323560] = 4,
@@ -5056,246 +5080,246 @@ _detalhes_global = {
 		[196608] = 10,
 		[90633] = 1,
 		[339943] = 11,
-		[193473] = "Void Tendril <Lyuna>",
-		[284219] = "Mechagon Renormalizer",
-		[259830] = "Sporecaller Zancha",
+		[320830] = "Mechanical Bomb Squirrel",
+		[247456] = 12,
+		[323810] = "General Kaal",
 		[274416] = 7,
 		[268273] = "Tidesage Enforcer",
 		[294894] = "Malfunctioning Scrapbot",
 		[264178] = 9,
 		[348136] = 5,
 		[317420] = 1,
-		[321406] = "Unknown",
+		[173751] = "Faeleaf Warden",
 		[193538] = 4,
 		[339946] = 11,
 		[252923] = "Zanchuli Witch-Doctor",
 		[270323] = 3,
 		[296944] = "[*] Arcing Azerite",
-		[203533] = 6,
-		[110960] = 8,
+		[260793] = "Cragmaw the Infested",
+		[275918] = 6,
 		[327661] = 5,
 		[305136] = "Coldheart Binder",
 		[274420] = 9,
-		[325564] = 5,
-		[272745] = 3,
-		[296910] = "Boundless Corruption",
+		[345393] = 11,
+		[115080] = 10,
+		[127315] = 8,
 		[255996] = 5,
 		[268278] = "Lady Waycrest",
 		[79884] = "Zor Lonetree",
 		[288756] = 11,
 		[348141] = 11,
-		[279868] = 7,
+		[247455] = 12,
 		[327664] = "Surgeon Stitchflesh",
-		[188072] = "Orb of Destruction",
+		[208771] = 5,
 		[323569] = "Son of Hakkar",
 		[268280] = "Tidesage Enforcer",
-		[303453] = "Zanj'ir Gladiator",
+		[318771] = "Psychophage",
 		[250878] = 1,
-		[316850] = 5,
-		[271881] = 4,
+		[324914] = "Mistveil Tender",
+		[148429] = 12,
 		[229377] = 5,
 		[181255] = "[*] Fel Imp-losion",
-		[302392] = "Naeno Megacrash",
-		[263853] = 1,
-		[247456] = 12,
+		[177354] = "Energized Phoenix",
+		[335152] = 5,
+		[199337] = "Bear Trap",
 		[36107] = 12,
 		[274426] = 11,
 		[228354] = 8,
-		[272737] = 7,
-		[8122] = 5,
+		[247454] = 12,
+		[345390] = 4,
 		[323573] = "[*] Residue",
-		[313041] = "Fury of N'Zoth",
+		[253597] = 6,
 		[270332] = 3,
-		[325535] = "Depraved Houndmaster",
+		[303453] = "Zanj'ir Gladiator",
 		[307192] = 6,
 		[203782] = 12,
-		[345393] = 11,
+		[325382] = "Lady Inerva Darkvein",
 		[321527] = 9,
 		[307193] = 5,
-		[184990] = "[*] Aura of Oppression",
+		[274703] = "Drowned Depthbringer",
 		[79886] = "Zor Lonetree",
 		[32390] = 9,
 		[323576] = "Runestag Elderhorn",
-		[195592] = 7,
-		[335863] = "Creepy Crawler",
+		[325624] = 5,
+		[270335] = 3,
 		[321529] = 8,
 		[274431] = 2,
-		[307161] = 11,
+		[318768] = "Psychophage",
 		[294909] = 2,
 		[321530] = 3,
 		[307196] = 2,
-		[247455] = 12,
-		[276132] = 9,
-		[318771] = "Psychophage",
+		[196776] = 9,
+		[2637] = 11,
+		[305287] = 5,
 		[70672] = "Gas Cloud",
-		[324914] = "Mistveil Tender",
+		[81269] = 11,
 		[270338] = 3,
 		[346105] = 7,
 		[274434] = "Galecaller Apprentice",
 		[228358] = 8,
 		[270339] = 3,
 		[1161] = 1,
-		[7268] = 8,
-		[187074] = "Hulking Berserker",
-		[335152] = 5,
-		[213709] = 11,
+		[295354] = 12,
+		[339244] = "[*] Soul Infusion",
+		[319531] = "Kul'tharok",
+		[295258] = 7,
 		[186380] = "Soulstalker V'lara",
 		[301057] = 12,
-		[247454] = 12,
+		[333100] = 8,
 		[296962] = 8,
 		[274437] = "Galecaller Apprentice",
 		[257028] = "Knight Captain Valyri",
-		[345390] = 4,
-		[253597] = 6,
-		[339966] = "Spriggan Barkbinder",
-		[325632] = "Blightsmasher",
+		[339243] = "[*] Soul Infusion",
+		[298770] = "Alleria Windrunner",
+		[274438] = "[*] Tempest",
+		[228360] = 5,
 		[270343] = 3,
 		[305155] = "Burrowing Appendage",
-		[339607] = 12,
-		[292264] = "Omega Buster",
-		[80240] = 9,
+		[253595] = 6,
+		[201764] = 7,
+		[306478] = 1,
 		[288774] = "Spark Bot",
 		[1329] = 4,
 		[228361] = 5,
 		[229385] = 10,
-		[294195] = "Defense Bot Mk III",
+		[273992] = 6,
 		[51723] = 4,
 		[224266] = 2,
-		[118297] = "Primal Fire Elemental <Yukios-Kil'jaeden>",
-		[337824] = 2,
-		[183962] = "Exarch Yrel",
+		[35395] = 2,
+		[300334] = "Queen Azshara",
+		[70492] = "Volatile Ooze",
 		[333827] = "Advent Nevermore",
 		[335875] = "Crimson Cabalist",
-		[172] = 9,
+		[148135] = 10,
 		[274443] = 3,
-		[124007] = "Xuen <Choplo>",
-		[339244] = "[*] Soul Infusion",
+		[61684] = "Spirit Beast <Watergun-Kil'jaeden>",
+		[72295] = "Professor Putricide",
 		[1449] = 8,
 		[260103] = "[*] Propellant Blast",
-		[296752] = "[*] Cutting Coral",
+		[688] = 9,
 		[335877] = "Unstable Larva",
 		[313352] = 4,
 		[231435] = 2,
-		[302589] = "[*] Toxic Brand",
+		[147362] = 3,
 		[79890] = "Zor Lonetree",
 		[296971] = 8,
-		[324909] = "Drust Boughbreaker",
-		[333831] = 1,
+		[345704] = 10,
+		[325640] = 9,
 		[229388] = 1,
 		[337927] = 2,
-		[274447] = 3,
+		[339975] = "Nathrian Conservator",
 		[333832] = 1,
-		[262161] = 1,
+		[278543] = 6,
 		[329737] = 10,
-		[339243] = "[*] Soul Infusion",
-		[276304] = "Rowdy Reveler",
+		[316690] = "Scrapbone Trashtosser",
+		[198304] = 1,
 		[294926] = 12,
-		[253595] = 6,
+		[272721] = 6,
 		[266258] = "Drust Slaver Summoning Portal",
 		[268306] = "Lady Waycrest",
-		[335882] = "Fen Hatchling",
+		[88082] = 8,
 		[296975] = "Portal Master",
-		[339978] = 4,
-		[289050] = "Heavy Barrel",
-		[306478] = 1,
-		[4987] = 2,
-		[320830] = "Mechanical Bomb Squirrel",
+		[186387] = 1,
+		[212638] = 7,
+		[121820] = 12,
+		[307472] = "Shad'har the Insatiable",
+		[338012] = "Anima Fountain",
 		[124430] = 5,
 		[294929] = "K.U.-J.0.",
-		[300334] = "Queen Azshara",
+		[335142] = "Nar'zudah",
 		[202770] = 11,
 		[268309] = "Deepsea Ritualist",
-		[102417] = 11,
+		[327694] = 5,
 		[329742] = "Hungering Destroyer",
 		[307217] = "Aqir Darter",
-		[70492] = "Volatile Ooze",
-		[148135] = 10,
-		[1766] = 4,
+		[286915] = "The Indomitable",
+		[157348] = "Primal Storm Elemental <Yukios-Kil'jaeden>",
+		[120] = 8,
 		[307218] = "Shadow of Vexiona",
 		[333839] = "Rek the Hardened",
-		[200758] = 4,
+		[335141] = "Nar'zudah",
 		[313362] = "Fury of N'Zoth",
-		[313039] = "Fury of N'Zoth",
-		[321444] = 11,
-		[33807] = 4,
+		[236186] = 2,
+		[186016] = "[*] Felfire Munitions",
+		[278551] = "Coven Thornshaper",
 		[1833] = 4,
 		[266265] = "Fallen Deathspeaker",
-		[203796] = 12,
+		[333841] = "Rek the Hardened",
 		[180247] = 5,
 		[313364] = "Fury of N'Zoth",
 		[266266] = "Gorak Tul",
 		[268314] = 12,
 		[241680] = "Lord Stormsong",
-		[340057] = "Kennel Overseer",
-		[268308] = "Lady Waycrest",
+		[7268] = 8,
+		[201363] = 1,
 		[268315] = "Abyss Dweller",
-		[198304] = 1,
+		[297152] = "Voidbound Berserker",
 		[329748] = 10,
-		[2782] = 11,
-		[212638] = 7,
-		[1953] = 8,
-		[323821] = "General Kaal",
+		[276132] = 9,
+		[262554] = "Expert Technician",
+		[233490] = 9,
+		[122708] = 10,
 		[307224] = "Orgozoa",
 		[333845] = "Rek the Hardened",
-		[329014] = 7,
+		[341282] = 5,
 		[280604] = "Refreshment Vendor",
-		[139] = 5,
-		[335142] = "Nar'zudah",
+		[193635] = "Unknown <Lyuna>",
+		[130] = 8,
 		[327703] = 5,
 		[280605] = "Refreshment Vendor",
 		[323608] = "Mordretha, the Endless Empress",
-		[84342] = 3,
+		[110960] = 8,
 		[327704] = 9,
-		[157348] = "Primal Storm Elemental <Yukios-Kil'jaeden>",
-		[288981] = 11,
+		[291057] = 6,
+		[265514] = 1,
 		[2098] = 4,
 		[327705] = 4,
-		[335141] = "Nar'zudah",
+		[296230] = 5,
 		[339992] = "Nathrian Conservator",
-		[283947] = "Flame Jet",
-		[186016] = "[*] Felfire Munitions",
+		[311401] = "Il'gynoth",
+		[327706] = 1,
 		[181275] = "Demon Portal",
-		[329834] = "Root of Extinction",
+		[331748] = "Mistveil Guardian",
 		[268322] = "Drowned Depthbringer",
-		[290568] = "Dazari Worshipper",
-		[288800] = 8,
-		[203406] = 11,
-		[123981] = 6,
-		[188443] = 7,
+		[117588] = "Primal Fire Elemental <Naete>",
+		[272418] = "Ashvane Spotter",
+		[184990] = "[*] Aura of Oppression",
+		[324909] = "Drust Boughbreaker",
+		[327708] = 8,
 		[181276] = "[*] Curse of the Legion",
-		[271677] = 8,
+		[320771] = "Nalthor the Rimebinder",
 		[301088] = "Bomb Tonk",
-		[122708] = 10,
-		[201754] = "Spirit Beast <Watergun-Kil'jaeden>",
+		[327709] = 12,
+		[337948] = 5,
 		[307232] = "Tek'ris",
-		[341282] = 5,
+		[198300] = 7,
 		[278564] = 10,
-		[51490] = 7,
-		[307195] = 5,
+		[212619] = 9,
+		[188061] = "Unknown",
 		[257044] = 3,
 		[278565] = 3,
 		[272422] = "Ashvane Spotter",
-		[196782] = 6,
-		[317066] = "Thought Harvester",
+		[278637] = "Underrot Tick",
+		[265511] = "Spirit Drain Totem <Bloodsworn Defiler>",
 		[335903] = 7,
-		[265514] = 1,
-		[127315] = 8,
+		[307358] = "Shad'har the Insatiable",
+		[187174] = 9,
 		[325665] = "Soul Infuser",
 		[335904] = 7,
 		[288806] = "[*] Gigavolt Blast",
-		[274472] = 1,
+		[315427] = 7,
 		[342048] = "Xira the Underhanded",
 		[86040] = 9,
 		[246807] = 2,
-		[290942] = 8,
+		[273714] = 12,
 		[342049] = 3,
 		[233497] = 9,
 		[272426] = "[*] Sighted Artillery",
-		[199753] = 4,
-		[117588] = "Primal Fire Elemental <Naete>",
+		[172] = 9,
+		[307421] = "Void Ascendant",
 		[2818] = 4,
-		[271656] = 2,
-		[325184] = "Lady Inerva Darkvein",
+		[121411] = 4,
+		[290942] = 8,
 		[342051] = 5,
 		[233498] = 9,
 		[272428] = 5,
@@ -5304,336 +5328,336 @@ _detalhes_global = {
 		[286763] = "Grong",
 		[321575] = "Zolramus Necromancer",
 		[47632] = 6,
-		[246854] = 3,
-		[167971] = "Blingtron 5000 <Artsong>",
-		[198300] = 7,
+		[173184] = 7,
+		[233499] = 9,
+		[61721] = 8,
 		[186401] = 5,
-		[197721] = 11,
-		[188449] = "Fel Scorcher",
+		[198819] = 1,
+		[12294] = 1,
 		[222237] = 10,
-		[188061] = "Unknown",
-		[313643] = 11,
-		[265511] = "Spirit Drain Totem <Bloodsworn Defiler>",
-		[133] = 8,
-		[300518] = "Queen Azshara",
+		[280658] = 11,
+		[307195] = 5,
+		[69968] = "Skybreaker Hierophant",
+		[343322] = "Moldovaak",
+		[336137] = "Prince Renathal",
 		[195617] = 6,
-		[319531] = "Kul'tharok",
+		[335913] = 10,
 		[329770] = "Artificer Xy'mox",
 		[331818] = "Domina Venomblade",
 		[183331] = "Soul of Socrethar",
 		[184355] = "Gurtogg Bloodboil",
-		[289065] = "Unknown",
-		[299055] = "Annihilator Lak'hal",
+		[84342] = 3,
+		[194594] = 3,
 		[317485] = 1,
-		[334131] = 5,
-		[307343] = "Vexiona",
-		[323629] = "[*] Refreshing Mist",
-		[2096] = 5,
-		[294961] = "[*] Blazing Chomp",
+		[119905] = 9,
+		[1719] = 1,
+		[340011] = "Nathrian Registrar",
+		[264490] = 5,
+		[225311] = 2,
 		[313391] = 4,
 		[153640] = 8,
-		[342189] = 6,
-		[315585] = 4,
+		[333889] = 9,
+		[199844] = 8,
 		[329774] = "Hungering Destroyer",
 		[157736] = 9,
 		[317488] = 1,
 		[184357] = "Gurtogg Bloodboil",
 		[72221] = 7,
-		[331823] = 10,
+		[307250] = "Shadow of Vexiona",
 		[317489] = 1,
-		[284468] = "Darkforged Crusader",
-		[199337] = "Bear Trap",
-		[233582] = 9,
+		[335129] = "Huntsman Altimor",
+		[123996] = "Xuen <Choplo>",
+		[335680] = "Mawsworn Soulweaver",
 		[268344] = 1,
-		[280729] = 12,
+		[297108] = 4,
 		[288822] = "Rastari Marksman",
 		[186406] = 5,
-		[268271] = "Lady Waycrest",
+		[294173] = "Warden Arkoban",
 		[3714] = 6,
 		[280632] = 12,
-		[343322] = "Moldovaak",
-		[260175] = 2,
-		[198819] = 1,
-		[51505] = 7,
-		[259220] = "Coldheart Javelineer",
-		[333875] = "Death Speaker",
-		[291116] = 2,
+		[272528] = "Ashvane Sniper",
+		[308470] = "[*] Entropic Explosion",
+		[282083] = "Grong",
+		[196771] = 6,
+		[283933] = "Frida Ironbellows",
+		[268347] = "Lord Stormsong",
+		[264390] = "Runic Disciple",
 		[313398] = "Essence of Void <Ra-den>",
 		[340019] = "Sinister Antiquarian",
-		[109128] = 1,
+		[70750] = "Darkfallen Commander",
 		[258079] = "Sewer Vicejaw",
 		[297017] = "Warden of Souls",
 		[307256] = 4,
-		[203814] = 5,
-		[318768] = "Psychophage",
+		[118297] = "Primal Fire Elemental <Yukios-Kil'jaeden>",
+		[343317] = "[*] Curse of Hargitas",
 		[313400] = "Corruptor Tentacle",
 		[323639] = 12,
-		[335129] = "Huntsman Altimor",
+		[205472] = 8,
 		[319544] = 5,
 		[329783] = "Coldheart Binder",
-		[99] = 11,
+		[319765] = "Kul'tharok",
 		[317497] = 1,
 		[344118] = 4,
-		[201764] = 7,
-		[2643] = 3,
+		[345364] = 11,
+		[343316] = "Hargitas",
 		[309307] = 12,
 		[184362] = 1,
 		[329785] = "Crimson Cabalist",
-		[294173] = "Warden Arkoban",
+		[311574] = "Jesh'ra",
 		[292926] = "Lord of Torment",
 		[344120] = 3,
-		[338081] = "Stealthling",
-		[319654] = "Kryxis the Voracious",
+		[347411] = 5,
+		[297118] = 1,
 		[325691] = "Mueh'zala",
 		[344121] = 3,
 		[329787] = "Coldheart Binder",
-		[311570] = "Overlord Mathias Shaw",
-		[179244] = 9,
-		[124506] = 10,
-		[283933] = "Frida Ironbellows",
-		[323645] = "Etherdiver",
-		[185394] = 2,
-		[184364] = 1,
-		[317483] = 1,
-		[343317] = "[*] Curse of Hargitas",
-		[342076] = 3,
-		[303583] = 12,
-		[148529] = 8,
-		[270661] = 5,
-		[199723] = 6,
-		[345364] = 11,
-		[343316] = "Hargitas",
-		[303369] = "Azsh'ari Venomwatcher",
-		[203819] = 12,
-		[311362] = "[*] Rising Heat",
-		[264264] = "Ooga <Artsong>",
-		[347411] = 5,
-		[193635] = "Unknown <Lyuna>",
 		[277787] = 8,
+		[179244] = 9,
+		[267548] = "Sunken Denizen",
+		[314646] = 11,
+		[323645] = "Etherdiver",
+		[320789] = "Xav the Unfallen",
+		[270404] = "Faeleaf Lasher",
+		[318741] = 2,
+		[290976] = 7,
+		[342076] = 3,
+		[59913] = 5,
+		[148529] = 8,
+		[345361] = 10,
+		[199723] = 6,
+		[73326] = 1,
+		[198839] = "Unknown <Penguinpal>",
+		[185039] = "Hellfire Cannon",
+		[203819] = 12,
+		[204843] = 12,
+		[264264] = "Ooga <Artsong>",
+		[320787] = "Millhouse Manastorm",
+		[343312] = 12,
+		[172193] = "Keen-Eyed Gronnstalker",
 		[264265] = "Shake <Artsong>",
 		[290886] = 12,
-		[333889] = 9,
+		[203820] = 4,
 		[229417] = 12,
-		[337985] = 5,
+		[272457] = "Sporecaller Zancha",
 		[256038] = "Overseer Korgus",
 		[268362] = "Wanton Sapper",
 		[184367] = 1,
-		[267548] = "Sunken Denizen",
+		[96312] = 6,
 		[202797] = 3,
 		[317509] = 10,
 		[344130] = 2,
-		[314646] = 11,
+		[201364] = 1,
 		[256039] = "Overseer Korgus",
-		[325701] = "Depraved Collector",
+		[257063] = "Kul Tiran Wavetender",
 		[311367] = "Il'gynoth",
-		[320789] = "Xav the Unfallen",
+		[294165] = "Mawsworn Guard",
 		[323654] = 4,
-		[318741] = 2,
-		[274703] = "Drowned Depthbringer",
+		[300308] = "Hatchery Egg",
+		[339215] = "Plaguebelcher",
 		[297034] = 7,
 		[331846] = "4.RF-4.RF",
 		[71203] = "Professor Putricide",
 		[311369] = "[*] Torment",
 		[297035] = 2,
 		[331847] = "4.RF-4.RF",
-		[216161] = 10,
-		[345361] = 10,
+		[197268] = 5,
+		[335119] = "Huntsman Altimor",
 		[280654] = 4,
-		[329977] = "Empowered Imperial Duelist",
-		[295169] = "Blastatron X-80",
+		[308498] = 3,
+		[32612] = 8,
 		[176179] = 12,
-		[209967] = "Dire Basilisk <Servinfades-Dawnbringer>",
-		[51637] = 4,
+		[297037] = 1,
+		[296211] = 10,
 		[292942] = "Lord of Locks",
-		[320787] = "Millhouse Manastorm",
+		[342282] = "Lady Inerva Darkvein",
 		[313420] = "Acidic Aqir",
 		[331850] = 4,
 		[183347] = "Soulstalker V'lara",
-		[311373] = "SI:7 Light-Hunter",
+		[176180] = 8,
 		[297039] = 2,
-		[343312] = 12,
+		[124506] = 10,
 		[309326] = 5,
-		[319565] = 5,
+		[6660] = "Arena Challenger",
 		[288849] = 6,
-		[307453] = "Vexiona",
-		[338012] = "Anima Fountain",
+		[347404] = "Forge Keeper",
+		[55090] = 6,
 		[6788] = 5,
-		[201364] = 1,
-		[294165] = "Mawsworn Guard",
-		[316690] = "Scrapbone Trashtosser",
+		[189593] = "Construct Peacekeeper",
+		[340057] = "Kennel Overseer",
+		[334076] = "Death Speaker",
 		[319567] = "Kul'tharok",
 		[272469] = "Abyssal Reach",
 		[256044] = "Overseer Korgus",
 		[216113] = 10,
-		[339215] = "Plaguebelcher",
+		[329977] = "Empowered Imperial Duelist",
 		[280661] = 11,
 		[340046] = 2,
 		[268375] = "Abyssal Cultist",
-		[262232] = 1,
+		[311378] = "Deresh of the Nothingness",
 		[329808] = "General Grashaal",
-		[197268] = 5,
+		[51637] = 4,
 		[325713] = "Lady Inerva Darkvein",
 		[116768] = 10,
 		[305236] = "Aqir Venomweaver",
-		[307284] = "Vexiona",
+		[299093] = "[*] Radiant Fury",
 		[301141] = "Za'qul",
 		[303189] = "Azsh'ari Oracle",
 		[132157] = 5,
 		[299094] = "Queen Azshara",
-		[335119] = "Huntsman Altimor",
-		[308498] = 3,
+		[50613] = 6,
+		[276743] = 8,
 		[305238] = "Aqir Venomweaver",
 		[299095] = "Orgozoa",
 		[317525] = 5,
 		[295000] = "Lord of Locks",
-		[45334] = 11,
-		[329919] = "Bwonsamdi's Fury",
-		[296211] = 10,
-		[311383] = "[*] Torment",
+		[132158] = 11,
+		[296208] = 5,
+		[277778] = 7,
+		[200758] = 4,
 		[338004] = "Toiling Groundskeeper",
-		[191634] = 7,
-		[287995] = "Sister Katherine",
+		[303267] = "Zanj'ir Brute",
+		[119381] = 10,
 		[344148] = 7,
-		[31884] = 2,
+		[338005] = "Toiling Groundskeeper",
 		[8004] = 7,
-		[347404] = "Forge Keeper",
+		[216161] = 10,
 		[344149] = 7,
-		[303351] = "Guardian of Azeroth <Jebait>",
+		[309498] = "[*] Devour Magic",
 		[290908] = 9,
-		[236186] = 2,
+		[313395] = "Essence of Vita <Ra-den>",
 		[344150] = 7,
-		[204843] = 12,
+		[78675] = 11,
 		[323673] = 5,
 		[342103] = "[*] Rancid Bile",
-		[307443] = 8,
-		[342250] = "Loyal Gargon",
-		[178963] = 12,
+		[212061] = "Mawsworn Shadestalker",
+		[340208] = "Mistveil Matriarch",
+		[281854] = 12,
 		[333913] = "General Kaal",
-		[301299] = "[*] Furnace Flames",
-		[1714] = 9,
-		[331866] = 6,
-		[296208] = 5,
+		[315585] = 4,
+		[297157] = 1,
+		[290911] = 10,
+		[307359] = "Vexiona",
 		[344153] = 1,
 		[305246] = "Lesser Zoatroid",
-		[277778] = 7,
-		[256101] = "Overseer Korgus",
-		[311390] = "[*] Madness: Entomophobia",
-		[321629] = 8,
+		[303351] = "Guardian of Azeroth <Jebait>",
+		[331016] = 12,
+		[344154] = 1,
+		[197690] = 1,
 		[331868] = 5,
-		[309343] = 5,
+		[325725] = "Mueh'zala",
 		[344155] = 1,
 		[305248] = "Amniotic Eruption <Lesser Zoatroid>",
-		[334058] = 9,
-		[291015] = 8,
-		[295248] = 7,
-		[305249] = 12,
-		[348252] = 2,
+		[307284] = "Vexiona",
+		[343302] = "Moldovaak",
+		[203533] = 6,
+		[338013] = "Anima Fountain",
+		[282724] = 4,
 		[292963] = "Za'qul",
 		[184381] = "Synod",
 		[201787] = 10,
-		[319685] = "Kryxis the Voracious",
+		[342250] = "Loyal Gargon",
 		[268391] = "Abyssal Cultist",
-		[286821] = "[*] Akunda's Wrath",
+		[344158] = 1,
 		[321633] = "Bone Husk",
 		[323681] = "Mordretha, the Endless Empress",
-		[78675] = 11,
-		[291018] = 12,
+		[311470] = 11,
+		[61447] = 1,
 		[305252] = 12,
-		[290918] = 12,
+		[323682] = "Forsworn Skirmisher",
 		[42776] = 11,
 		[303205] = "Azsh'ari Oracle",
-		[291057] = 6,
-		[299110] = "Annihilator Lak'hal",
-		[281843] = 1,
-		[264360] = "Koom <Drewqt-Area52>",
-		[311478] = 5,
+		[273657] = "Gloom Horror",
+		[323683] = "Mordretha, the Endless Empress",
+		[303369] = "Azsh'ari Venomwatcher",
+		[309484] = 5,
+		[329014] = 7,
 		[299111] = "Annihilator Lak'hal",
-		[11196] = 6,
+		[219788] = 6,
 		[53271] = "Rukhmar <Bluearruwu>",
 		[329828] = "Root of Extinction",
 		[290921] = 3,
 		[325733] = 11,
 		[311399] = "Armsmaster Terenson",
-		[317672] = "Blood of Ny'alotha",
-		[331016] = 12,
-		[195627] = 4,
+		[272678] = 3,
+		[320823] = "Millificent Manastorm",
+		[256123] = 8,
 		[311400] = "Armsmaster Terenson",
-		[343302] = "Moldovaak",
-		[323687] = "Dealer Xy'exa",
+		[316678] = "Aqir Swarmkeeper",
+		[315496] = 4,
 		[292971] = "[*] Hysteria",
-		[278637] = "Underrot Tick",
-		[338022] = "Patchwerk Soldier",
-		[290924] = 6,
-		[327995] = "Pestilent Harvester",
+		[319592] = "Echelon",
+		[329831] = 1,
+		[307306] = "Fury of N'Zoth",
+		[68188] = 9,
 		[303211] = 12,
 		[132168] = 1,
 		[115750] = 2,
-		[338142] = 11,
-		[191587] = 6,
-		[319713] = "Kryxis the Voracious",
-		[288999] = 12,
+		[213644] = 2,
+		[246867] = 2,
+		[341250] = "Sludgefist",
+		[253087] = 12,
 		[42777] = 9,
 		[327786] = 11,
 		[132169] = 1,
 		[290927] = 10,
-		[119914] = 9,
-		[327515] = "Fen Hornet",
+		[319715] = "Kryxis the Voracious",
+		[327891] = "Bwonsamdi's Fury",
 		[329835] = "Hungering Destroyer",
 		[323692] = 4,
-		[303312] = "Azsh'ari Channeler",
+		[319713] = "Kryxis the Voracious",
 		[278642] = 2,
-		[219788] = 6,
-		[196742] = 10,
+		[97341] = 4,
+		[69970] = "Skybreaker Luminary",
 		[333932] = "Hand of Destruction",
-		[44744] = 3,
+		[285959] = 10,
 		[288882] = 12,
 		[290930] = 3,
-		[114255] = 5,
+		[260741] = "Sister Briar",
 		[286835] = 6,
 		[70189] = "Spire Gargoyle",
-		[316678] = "Aqir Swarmkeeper",
+		[323825] = "Grasping Rift <Mordretha, the Endless Empress>",
 		[342125] = "Dokigg the Brutalizer",
 		[286836] = 6,
-		[68188] = 9,
-		[213644] = 2,
-		[206945] = 6,
-		[341250] = "Sludgefist",
+		[194679] = 6,
+		[343295] = 6,
+		[329943] = "Remornia",
+		[331008] = "Experimental Sludge",
 		[329840] = 2,
 		[290933] = 3,
-		[248439] = 1,
+		[4987] = 2,
 		[208963] = 7,
-		[115276] = "Wikpik <Jjuno-Illidan>",
-		[323798] = 6,
-		[319702] = "Echelon",
+		[343294] = 6,
+		[300504] = "Queen Azshara",
+		[344001] = "[*] Slime Trail",
 		[319603] = "Echelon",
 		[313460] = "Tek'ris",
-		[165961] = 11,
+		[315508] = 4,
 		[120360] = 3,
 		[71726] = "Blood-Queen Lana'thel",
 		[313461] = "Ka'zir",
-		[290936] = 12,
+		[186439] = 1,
 		[212036] = 5,
 		[262268] = "Venture Co. Alchemist",
 		[338035] = 11,
 		[323701] = 5,
-		[297037] = 1,
+		[272609] = "Faceless Corruptor",
 		[344179] = 7,
 		[346227] = 5,
-		[320771] = "Nalthor the Rimebinder",
-		[301177] = "HK-8 Aerial Oppression Unit",
+		[215159] = 5,
+		[187464] = 5,
 		[262270] = "Venture Co. Alchemist",
 		[70191] = "Frenzied Abomination",
 		[290939] = 6,
 		[120361] = 3,
-		[212619] = 9,
-		[260741] = "Sister Briar",
-		[276743] = 8,
+		[308481] = "Fallen Riftwalker",
+		[280165] = 11,
+		[292910] = "Mawsworn Shackler",
 		[268415] = "Azerite Extractor",
 		[303227] = "Queen Azshara",
-		[69179] = 1,
-		[343295] = 6,
+		[195707] = 1,
+		[327893] = 4,
 		[342135] = "Heavin the Breaker",
-		[321755] = "Nalthor the Rimebinder",
+		[99] = 11,
 		[329849] = 2,
 		[323706] = 5,
 		[268417] = "Azerite Extractor",
@@ -5641,162 +5665,162 @@ _detalhes_global = {
 		[338041] = 11,
 		[323707] = 5,
 		[309373] = "Magister Umbric",
-		[331008] = "Experimental Sludge",
-		[303318] = "Azsh'ari Channeler",
-		[343294] = 6,
-		[201846] = 7,
-		[291042] = 4,
-		[61721] = 8,
+		[338142] = 11,
+		[313554] = 3,
+		[340191] = "[*] Rejuvenating Radiance",
+		[231046] = 4,
+		[297172] = "Voidbound Ravager",
+		[246852] = 3,
 		[290945] = 12,
 		[199754] = 4,
 		[335996] = 3,
-		[605] = 5,
+		[199786] = 8,
 		[323710] = 6,
 		[203850] = 9,
-		[210042] = 12,
+		[305381] = 5,
 		[246853] = 3,
-		[308481] = "Fallen Riftwalker",
+		[288981] = 11,
 		[257092] = "The Sand Queen",
-		[7992] = "Faeleaf Tender",
-		[308432] = "Forge-Guard Hurrul",
-		[290948] = 12,
+		[697] = 9,
+		[335098] = 1,
+		[340094] = 4,
 		[236615] = 9,
-		[213115] = 12,
+		[325570] = 5,
 		[321665] = 8,
-		[173184] = 7,
+		[207028] = 2,
 		[5221] = 11,
-		[297168] = 4,
+		[205448] = 5,
 		[185422] = 4,
-		[297098] = 5,
+		[303312] = "Azsh'ari Channeler",
 		[203852] = 1,
 		[295046] = 2,
-		[203961] = 11,
-		[290951] = 12,
-		[327909] = 10,
+		[265433] = "Bloodsworn Defiler",
+		[223306] = 2,
+		[334058] = 9,
 		[327811] = "General Kaal",
 		[280713] = 7,
 		[315525] = 5,
-		[231046] = 4,
+		[267551] = "Coin-Operated Crowd Pummeler",
 		[295048] = 2,
 		[321669] = "Illusionary Clone",
-		[250036] = "[*] Shadowy Remains",
-		[237680] = 6,
-		[262383] = "Venture Co. War Machine",
+		[343287] = "Nathrian Archivist",
+		[297168] = 4,
+		[306427] = 5,
 		[280715] = 1,
 		[290954] = 2,
 		[333957] = 7,
 		[336005] = "[*] Earsplitting Shriek",
-		[329862] = "Deadsoul Shambler",
-		[260202] = "Mogul Razdunk",
-		[228477] = 12,
-		[262287] = "Mech Jockey",
+		[297098] = 5,
+		[340203] = 2,
+		[297166] = "Massive Crusher",
+		[249929] = "Soulrend Add",
 		[329863] = "Weeping Wraith",
 		[130092] = 3,
-		[335098] = 1,
-		[59913] = 5,
-		[274430] = 2,
+		[291021] = 2,
+		[189551] = "Sargerei Soul Cleaver",
+		[320786] = "[*] Power Overwhelming",
 		[274575] = 3,
 		[325769] = "Lady Inerva Darkvein",
 		[319626] = "Kul'tharok",
 		[280719] = 4,
 		[290958] = 4,
-		[205448] = 5,
+		[49966] = "Unknown <Thunderrz>",
 		[270481] = "Demonic Tyrant <Judaasx>",
 		[70196] = "Sister Svalna",
-		[280780] = 11,
-		[315258] = "[*] Dread Inferno",
+		[301299] = "[*] Furnace Flames",
+		[307443] = 8,
 		[176212] = 4,
-		[278769] = 12,
-		[297157] = 1,
+		[312568] = "[*] Concentrated Venom",
+		[114113] = 11,
 		[212048] = 7,
 		[188499] = 12,
-		[318714] = "Unknown",
+		[316663] = "Aqir Swarmkeeper",
 		[290961] = 3,
 		[333964] = 7,
 		[6789] = 9,
 		[259147] = "[*] Soulfeast",
-		[264396] = "Runic Disciple",
+		[258150] = "Bilge Rat Seaspeaker",
 		[244813] = 8,
-		[281854] = 12,
-		[340203] = 2,
-		[87091] = 1,
-		[188024] = 5,
-		[262347] = "Coin-Operated Crowd Pummeler",
-		[340273] = 2,
+		[294946] = 12,
+		[329917] = "Fungalmancer",
+		[206930] = 6,
+		[126389] = 5,
+		[339187] = 7,
+		[287993] = "[*] Chilling Touch",
 		[290964] = 9,
 		[268439] = 12,
-		[188501] = 12,
+		[204883] = 5,
 		[329872] = 4,
 		[206931] = 6,
-		[342322] = "Lady Inerva Darkvein",
-		[278785] = 2,
-		[325700] = "Depraved Collector",
-		[280746] = 1,
+		[325876] = "Depraved Obliterator",
+		[260734] = 7,
+		[196725] = 10,
+		[321652] = "Bone Husk",
 		[212051] = 10,
 		[311444] = 2,
 		[51485] = 1,
 		[290967] = 7,
-		[312568] = "[*] Concentrated Venom",
-		[334067] = 10,
-		[329875] = "Remornia",
+		[272581] = "Bilge Rat Tempest",
+		[114282] = 11,
+		[280729] = 12,
 		[299159] = 3,
 		[317589] = 8,
 		[319637] = "[*] Reclaimed Soul",
-		[316663] = "Aqir Swarmkeeper",
+		[306421] = 1,
 		[107570] = 1,
-		[206930] = 6,
-		[326952] = "Infused Quill-feather",
-		[117828] = 9,
+		[29722] = 9,
+		[307453] = "Vexiona",
+		[278785] = 2,
 		[290970] = 10,
 		[325782] = "Gorm Behemoth",
 		[319639] = "Kul'tharok",
-		[323831] = "[*] Death Grasp",
-		[339187] = 7,
+		[339184] = "Domina Venomblade",
+		[225921] = 12,
 		[317592] = 2,
 		[258128] = "Irontide Thug",
 		[272542] = "Ashvane Sniper",
-		[307354] = 5,
-		[287993] = "[*] Chilling Touch",
-		[114250] = 2,
-		[264352] = 8,
+		[331927] = "Defunct Dental Drill",
+		[335088] = 2,
+		[274472] = 1,
+		[297116] = 12,
 		[299164] = "Mechacycle",
-		[308470] = "[*] Entropic Explosion",
-		[315573] = 7,
-		[280735] = 1,
-		[344229] = 5,
+		[311550] = "Jesh'ra",
+		[213634] = 5,
+		[264353] = 8,
+		[290936] = 12,
 		[284831] = "King Rastakhan",
 		[319643] = "Thrall",
-		[297118] = 1,
+		[288927] = "Unliving Augur",
 		[323739] = "Forsworn Helion",
-		[55095] = 6,
+		[325885] = "Z'rali",
 		[71736] = "Darkfallen Blood Knight",
 		[272546] = "Bilge Rat Buccaneer",
 		[323740] = "Forsworn Squad-Leader",
 		[212056] = 2,
-		[268347] = "Lord Stormsong",
-		[346266] = 10,
+		[311551] = "Dark Inquisitor Xanesh",
+		[189531] = "Mystic Aaran",
 		[256083] = "Overseer Korgus",
 		[342171] = 6,
 		[336028] = 6,
 		[346267] = 10,
 		[331933] = "Defunct Dental Drill",
-		[306421] = 1,
+		[320752] = 7,
 		[311456] = "Armsmaster Terenson",
-		[338077] = "Brood Ambusher",
+		[189532] = "Binder Hallaani",
 		[290979] = 6,
-		[188550] = 11,
-		[327839] = 12,
-		[307396] = "Sinister Soulcarver",
-		[274598] = 8,
-		[325885] = "Z'rali",
-		[295076] = "Za'qul",
-		[338079] = "Brood Ambusher",
-		[339184] = "Domina Venomblade",
+		[325886] = 1,
+		[303266] = 12,
+		[286979] = 6,
+		[323744] = "Forsworn Stealthclaw",
+		[871] = 1,
+		[311458] = 8,
+		[264360] = "Koom <Drewqt-Area52>",
+		[320751] = 7,
 		[325793] = "Depraved Houndmaster",
 		[319650] = "Kryxis the Voracious",
 		[185438] = 4,
 		[331937] = 5,
-		[225921] = 12,
+		[291000] = 8,
 		[270505] = "Fallen Heartpiercer",
 		[297126] = 4,
 		[206940] = 6,
@@ -5806,88 +5830,88 @@ _detalhes_global = {
 		[331939] = 5,
 		[293032] = 10,
 		[344226] = "General Kaal",
-		[297128] = "Defense Bot Mk III",
+		[280746] = 1,
 		[107574] = 1,
 		[325797] = "Depraved Houndmaster",
 		[344227] = 5,
-		[335088] = 2,
+		[311467] = 11,
 		[323750] = "[*] Vile Gas",
-		[212061] = "Mawsworn Shadestalker",
+		[69179] = 1,
 		[311464] = 11,
 		[346276] = 5,
 		[299178] = "Queen Azshara",
 		[342181] = 5,
 		[311465] = 11,
-		[313395] = "Essence of Vita <Ra-den>",
+		[298225] = 12,
 		[290988] = 4,
 		[325800] = 10,
 		[49184] = 6,
-		[286979] = 6,
+		[32216] = 1,
 		[307371] = "Vexiona",
 		[284846] = "King Rastakhan",
 		[336040] = 6,
 		[297133] = "Defense Bot Mk III",
-		[213634] = 5,
-		[333612] = "Winged Ravager",
-		[344232] = 6,
-		[315176] = 1,
+		[115276] = "Wikpik <Jjuno-Illidan>",
+		[196718] = 12,
+		[311468] = 11,
+		[297117] = 11,
 		[290991] = 6,
-		[268552] = 3,
-		[327851] = 1,
-		[320752] = 7,
+		[27285] = 9,
+		[311469] = 11,
+		[326892] = "Dessia the Decapitator",
 		[282801] = "Unknown",
 		[212064] = "Mawsworn Shadestalker",
 		[336043] = 3,
 		[189539] = "Sargerei Bannerman",
-		[115767] = 1,
+		[206945] = 6,
 		[317614] = 6,
 		[336044] = 6,
-		[3411] = 1,
+		[288946] = 5,
 		[290994] = 12,
-		[329831] = 1,
+		[249919] = "Yazma",
 		[278708] = 2,
 		[189540] = "Soulbound Construct",
-		[274696] = 4,
-		[325807] = "Mueh'zala",
-		[871] = 1,
+		[97097] = 3,
+		[342189] = 6,
+		[344229] = 5,
 		[321712] = 8,
 		[20243] = 1,
-		[320751] = 7,
+		[326891] = "Inquisitor Sigar",
 		[311474] = 5,
-		[258058] = "Silt Crab",
+		[340227] = 2,
 		[290997] = 1,
-		[221322] = 6,
-		[311475] = 5,
+		[215111] = "Dreadstalker <Judaasx>",
+		[303284] = "Bound Storm",
 		[329905] = "Patrician Cromwell",
-		[323762] = 12,
-		[298225] = 12,
+		[260189] = "Mogul Razdunk",
+		[325799] = "Depraved Houndmaster",
 		[311476] = 5,
 		[329906] = "Remornia",
 		[111673] = 6,
-		[271538] = 2,
+		[328869] = "Patrician Cromwell",
 		[311477] = 5,
 		[305334] = 4,
 		[260190] = "Mogul Razdunk",
-		[323845] = "General Kaal",
+		[299276] = "Queen Azshara",
 		[319669] = "Kul'tharok",
-		[317605] = "Nekthara the Mangler",
+		[295182] = "Blastatron X-80",
 		[340147] = 2,
 		[257119] = "[*] Sand Trap",
 		[311479] = 5,
 		[272572] = 5,
-		[311469] = 11,
-		[309514] = "Dark Manifestation <[*] Dark Manifestation>",
+		[263345] = "Heavy Cannon",
+		[25046] = 4,
 		[311480] = 5,
 		[297146] = "Voidbound Berserker",
 		[291003] = 9,
-		[326892] = "Dessia the Decapitator",
+		[297318] = "Stolen Scrapbot",
 		[311481] = 5,
-		[41517] = 9,
+		[280855] = 9,
 		[97340] = 9,
-		[97097] = 3,
-		[290982] = 8,
+		[295079] = "Za'qul",
+		[255577] = "Priestess Alun'za",
 		[264384] = "Coven Diviner",
-		[326891] = "Inquisitor Sigar",
+		[311487] = 12,
 		[317626] = 10,
 		[311483] = 12,
 		[329913] = "Mawsworn Shadestalker",
@@ -5895,26 +5919,26 @@ _detalhes_global = {
 		[317627] = "Fury of N'Zoth",
 		[311484] = 12,
 		[189546] = "Sargerei Soul Cleaver",
-		[303373] = "Azsh'ari Venomwatcher",
-		[323764] = 11,
+		[290982] = 8,
+		[272183] = "Fallen Deathspeaker",
 		[311485] = 12,
-		[305369] = "Voidbound Honor Guard",
+		[290924] = 6,
 		[331963] = 10,
 		[236645] = 8,
 		[311486] = 12,
-		[297152] = "Voidbound Berserker",
+		[329916] = "Mawsworn Shadestalker",
 		[291009] = 3,
-		[199786] = 8,
+		[309439] = "Crackling Stalker <Ra-den>",
 		[303296] = "Zanj'ir Huntress",
-		[329917] = "Fungalmancer",
-		[289963] = "Ice Blocked Nathanos",
-		[317223] = 2,
-		[286915] = "The Indomitable",
-		[264390] = "Runic Disciple",
+		[297153] = "Voidbound Ravager",
+		[327952] = "Stitchflesh's Creation",
+		[317672] = "Blood of Ny'alotha",
+		[311488] = 12,
+		[280772] = 1,
 		[315584] = 4,
-		[325725] = "Mueh'zala",
+		[295248] = 7,
 		[303298] = "Zanj'ir Huntress",
-		[280773] = 1,
+		[329919] = "Bwonsamdi's Fury",
 		[340158] = 12,
 		[195692] = 12,
 		[311490] = 12,
@@ -5923,45 +5947,45 @@ _detalhes_global = {
 		[342207] = "Seeker of Souls",
 		[311491] = 12,
 		[346303] = "Dancing Fools",
-		[340160] = "Mistveil Matriarch",
+		[307396] = "Sinister Soulcarver",
 		[334017] = "Harnessed Specter",
-		[229980] = 10,
+		[307297] = "Vexiona",
 		[280776] = 1,
 		[274633] = "Ironhull Apprentice",
 		[293063] = "Cellblock Sentinel",
-		[258150] = "Bilge Rat Seaspeaker",
+		[262347] = "Coin-Operated Crowd Pummeler",
 		[346305] = "Sour Suckle",
 		[340162] = 4,
-		[783] = 11,
+		[341220] = 8,
 		[262348] = "Crawler Mine",
-		[189551] = "Sargerei Soul Cleaver",
-		[331927] = "Defunct Dental Drill",
-		[270501] = 5,
+		[264396] = "Runic Disciple",
+		[331866] = 6,
+		[307478] = "Shad'har the Insatiable",
 		[135286] = 11,
 		[297161] = "Voidbound Ravager",
-		[46628] = 8,
+		[291018] = 12,
 		[317639] = "N'Zoth the Corruptor",
-		[319849] = 5,
-		[297162] = 4,
-		[217694] = 8,
-		[1850] = 11,
-		[297116] = 12,
-		[192611] = 12,
-		[307478] = "Shad'har the Insatiable",
+		[259191] = "Yazma",
+		[264398] = "Dod",
+		[270501] = 5,
+		[289050] = "Heavy Barrel",
+		[226510] = "[*] Sanguine Ichor",
+		[302311] = 10,
+		[189592] = "Construct Peacekeeper",
 		[334023] = "Harugia the Bloodthirsty",
-		[327956] = 5,
-		[264353] = 8,
-		[291021] = 2,
+		[257168] = "Irontide Marauder",
+		[280735] = 1,
+		[307403] = "Void Ascendant",
 		[309451] = "Magister Umbric",
 		[258153] = "Bilge Rat Seaspeaker",
 		[272592] = "Faceless Corruptor",
 		[323786] = "Kyrian Dark-Praetor",
 		[342216] = 7,
-		[327882] = "Plagueroc",
-		[297166] = "Massive Crusher",
+		[278736] = 12,
+		[189554] = "Sargerei Adjutant",
 		[182387] = 7,
-		[202335] = 10,
-		[297241] = 7,
+		[211094] = 7,
+		[248439] = 1,
 		[264403] = "[*] Hoppy Finish",
 		[291024] = 1,
 		[334027] = 5,
@@ -5971,183 +5995,183 @@ _detalhes_global = {
 		[342219] = "Nathrian Gargon",
 		[217200] = 3,
 		[280787] = 11,
-		[341220] = 8,
-		[176180] = 8,
-		[71255] = "Professor Putricide",
+		[289963] = "Ice Blocked Nathanos",
+		[342158] = 5,
+		[323406] = "[*] Jagged Gash",
 		[280788] = 11,
-		[291027] = 5,
+		[331982] = "General Draven",
 		[232559] = 11,
 		[327887] = "Artificer Xy'mox",
-		[333980] = "Sire Denathrius",
+		[113724] = 8,
 		[323792] = "Coalesced Anima",
-		[246867] = 2,
-		[189593] = "Construct Peacekeeper",
-		[313554] = 3,
-		[309531] = 11,
-		[302311] = 10,
+		[129597] = 10,
+		[87091] = 1,
+		[264408] = 7,
+		[335072] = "Millhouse Manastorm",
+		[320655] = "Blightbone",
 		[303316] = "Azsh'ari Channeler",
 		[346319] = 5,
 		[291030] = 6,
-		[278736] = 12,
-		[196725] = 10,
+		[330976] = 10,
+		[237680] = 6,
 		[313556] = 5,
-		[311378] = "Deresh of the Nothingness",
-		[327814] = "General Kaal",
-		[327891] = "Bwonsamdi's Fury",
-		[33702] = 9,
-		[43688] = 3,
+		[328928] = 7,
+		[260175] = 2,
+		[303318] = "Azsh'ari Channeler",
+		[128594] = 3,
+		[339166] = "Theotar",
 		[212084] = 12,
-		[265364] = "Blight Toad",
+		[104773] = 9,
 		[297176] = 9,
 		[291033] = 8,
-		[5384] = 3,
-		[327893] = 4,
+		[326879] = "Stonefiend Anklebiter",
+		[319702] = "Echelon",
 		[117313] = 1,
-		[194679] = 6,
+		[323798] = 6,
 		[118337] = 7,
 		[319703] = "Echelon",
 		[70215] = "Gas Cloud",
 		[206966] = 12,
-		[128594] = 3,
-		[272528] = "Ashvane Sniper",
-		[346325] = 5,
+		[200285] = 2,
+		[339165] = "General Grashaal",
+		[288988] = 4,
 		[291036] = 11,
-		[307545] = "Maut",
+		[255591] = "Priestess Alun'za",
 		[196728] = "Niuzao <Gummybuns>",
 		[288989] = 11,
 		[206967] = 6,
-		[305498] = 5,
-		[335072] = "Millhouse Manastorm",
+		[307343] = "Vexiona",
+		[233496] = 9,
 		[321754] = "Nalthor the Rimebinder",
 		[323802] = 12,
 		[342232] = 8,
-		[340094] = 4,
-		[313564] = "Growth-Covered Tentacle",
-		[307421] = "Void Ascendant",
-		[330976] = 10,
-		[328928] = 7,
+		[330973] = "Rancid Gasbag",
+		[321755] = "Nalthor the Rimebinder",
+		[291039] = 12,
+		[290951] = 12,
+		[343259] = "Hecutis",
 		[72264] = "Blood-Queen Lana'thel",
 		[323804] = "Kyrian Dark-Praetor",
 		[317661] = "Etherdiver",
-		[308357] = "Fallen Heartpiercer",
-		[264490] = 5,
+		[308447] = 10,
+		[331743] = "Mistveil Guardian",
 		[585] = 5,
 		[589] = 5,
-		[9484] = 5,
+		[295137] = 7,
 		[259187] = "Yazma",
-		[331997] = "Oryphrion",
-		[55078] = 6,
-		[339166] = "Theotar",
+		[291042] = 4,
+		[605] = 5,
+		[327814] = "General Kaal",
 		[338141] = 10,
 		[340189] = "Mistveil Matriarch",
-		[104773] = 9,
+		[272682] = 3,
 		[135299] = 3,
 		[305378] = "Voidbound Honor Guard",
 		[633] = 2,
-		[326879] = "Stonefiend Anklebiter",
+		[5384] = 3,
 		[155777] = 11,
 		[173183] = 7,
 		[291045] = 5,
-		[199804] = 4,
+		[10444] = 7,
 		[262377] = "Crawler Mine",
 		[313571] = 5,
-		[323810] = "General Kaal",
+		[117828] = 9,
 		[228473] = 2,
-		[319715] = "Kryxis the Voracious",
-		[305381] = 5,
-		[3716] = "Kal'tast <Snoopdougie-Zul'jin>",
+		[213115] = 12,
+		[288999] = 12,
+		[339162] = "General Kaal",
 		[325859] = "Lady Inerva Darkvein",
 		[327907] = 10,
 		[321764] = "Spriggan Barkbinder",
-		[697] = 9,
+		[291048] = 8,
 		[334051] = "Death Speaker",
-		[339165] = "General Grashaal",
-		[61230] = 12,
-		[249929] = "Soulrend Add",
+		[328923] = 7,
+		[88625] = 5,
+		[2948] = 8,
 		[272685] = 6,
-		[286954] = 6,
+		[327909] = 10,
 		[272620] = "Cutwater Striker",
-		[330973] = "Rancid Gasbag",
+		[342310] = "Artificer Xy'mox",
 		[334053] = "Oryphrion",
 		[229499] = 10,
 		[305385] = 5,
 		[291051] = 3,
 		[342245] = 8,
-		[184449] = "Dia Darkwhisper",
+		[262383] = "Venture Co. War Machine",
 		[321768] = 4,
-		[335021] = 5,
+		[326874] = "Stonefiend Anklebiter",
 		[342246] = 8,
 		[188545] = "Gorebound Felcaster",
 		[107079] = 10,
-		[343259] = "Hecutis",
-		[268528] = 2,
+		[338081] = "Stealthling",
+		[342247] = 8,
 		[270576] = 4,
 		[305388] = 9,
 		[291054] = 10,
-		[309484] = 5,
-		[264398] = "Dod",
-		[338036] = 7,
-		[114050] = 7,
+		[342248] = "Stinky Feedhauler",
+		[297261] = "King Gobbamak",
+		[327839] = 12,
+		[290948] = 12,
 		[325867] = 10,
 		[241788] = "Spectral Attendant",
 		[280817] = 4,
-		[280653] = 4,
+		[324825] = 7,
 		[228478] = 12,
-		[294171] = "Mawsworn Interceptor",
-		[339162] = "General Kaal",
-		[256123] = 8,
+		[330968] = "Belligerent Waiter",
+		[304256] = "Huffer",
+		[323821] = "General Kaal",
 		[342251] = "Loyal Gargon",
 		[303344] = 2,
-		[305392] = 6,
-		[328923] = 7,
-		[325870] = 10,
-		[327649] = "Mueh'zala",
+		[109128] = 1,
 		[61999] = 6,
+		[325870] = 10,
+		[324824] = 7,
+		[272745] = 3,
 		[299250] = "Queen Azshara",
-		[327701] = 6,
-		[272418] = "Ashvane Spotter",
-		[204408] = 1,
-		[274740] = 6,
+		[338036] = 7,
+		[188501] = 12,
+		[274598] = 8,
+		[329666] = 3,
 		[325872] = "Depraved Obliterator",
-		[290985] = 2,
+		[246854] = 3,
 		[305395] = 2,
-		[323825] = "Grasping Rift <Mordretha, the Endless Empress>",
-		[196771] = 6,
-		[246851] = 3,
-		[324825] = 7,
-		[340208] = "Mistveil Matriarch",
-		[330968] = "Belligerent Waiter",
+		[41514] = 5,
+		[188024] = 5,
+		[313652] = "Ka'zir",
+		[330965] = "Castellan Niklaus",
+		[921] = 4,
+		[340273] = 2,
 		[196741] = 10,
 		[297206] = "Lady Ashvane",
-		[108853] = 8,
-		[285894] = "Gonk's Aspect",
+		[342321] = "Lady Inerva Darkvein",
+		[342322] = "Lady Inerva Darkvein",
 		[327923] = 5,
 		[321780] = "Zolramus Necromancer",
 		[340210] = 5,
-		[325876] = "Depraved Obliterator",
+		[334067] = 10,
 		[319733] = "Echelon",
-		[324824] = 7,
+		[123992] = 9,
 		[340211] = 5,
 		[325877] = "Shade of Kael'thas",
 		[295161] = "Lesser Zoatroid",
 		[210053] = 11,
-		[291012] = 12,
+		[307317] = "Vexiona",
 		[118345] = "Primal Earth Elemental <Yukios-Kil'jaeden>",
-		[317865] = 5,
+		[9484] = 5,
 		[329974] = "Remornia",
-		[256128] = "Overseer Korgus",
+		[323831] = "[*] Death Grasp",
 		[325879] = "Depraved Obliterator",
 		[270590] = "Demolishing Terror",
 		[329975] = "Empowered Imperial Consular",
 		[340214] = 2,
-		[309498] = "[*] Devour Magic",
-		[27285] = 9,
+		[114250] = 2,
+		[222256] = 3,
 		[329976] = "Empowered Imperial Consular",
 		[41515] = 9,
 		[301308] = 2,
-		[348464] = 5,
+		[300728] = 5,
 		[289022] = 11,
-		[195750] = 6,
+		[336183] = 5,
 		[253058] = 5,
 		[344312] = 4,
 		[329978] = "Seeker of Souls",
@@ -6156,558 +6180,558 @@ _detalhes_global = {
 		[1122] = 9,
 		[289024] = "Heavy Barrel",
 		[219271] = 7,
-		[212552] = 6,
+		[346097] = 1,
 		[295168] = "Blastatron X-80",
-		[204406] = 1,
+		[329834] = "Root of Extinction",
 		[340219] = 10,
 		[183436] = 2,
-		[311551] = "Dark Inquisitor Xanesh",
+		[295169] = "Blastatron X-80",
 		[109132] = 10,
-		[332084] = "Lubricator",
-		[325886] = 1,
+		[45470] = 6,
+		[212105] = 12,
 		[311552] = "Jesh'ra",
-		[330965] = "Castellan Niklaus",
-		[337881] = 10,
+		[320723] = "[*] Displaced Blastwave",
+		[338022] = "Patchwerk Soldier",
 		[325887] = 10,
 		[278789] = "[*] Wave of Decay",
-		[50613] = 6,
-		[307359] = "Vexiona",
+		[341200] = "Nathrian Singuard",
+		[101186] = 12,
 		[212106] = 12,
-		[336183] = 5,
+		[194153] = 11,
 		[297220] = "Voidbound Shaman",
 		[41516] = 9,
 		[284934] = 3,
 		[295173] = 12,
-		[115310] = 10,
-		[1330] = 4,
-		[346307] = "Corpselouse Spawnling",
-		[34861] = 5,
+		[333875] = "Death Speaker",
+		[274696] = 4,
+		[51490] = 7,
+		[221322] = 6,
 		[43308] = 1,
 		[340225] = 5,
-		[322729] = 10,
-		[303421] = "Azsh'ari Frostbinder",
+		[331825] = 10,
+		[199753] = 4,
 		[280841] = 5,
-		[294966] = 2,
-		[323683] = "Mordretha, the Endless Empress",
+		[139442] = 12,
+		[308434] = 3,
 		[262412] = "Mechanized Peacekeeper",
 		[280842] = 4,
-		[340227] = 2,
+		[323845] = "General Kaal",
 		[54049] = "Zhaadrom <Weîhung-Mal'Ganis>",
-		[7814] = "Bronanda",
+		[288719] = "Lady Jaina Proudmoore",
 		[329989] = "Hulking Gargon",
 		[260231] = 3,
 		[309512] = "Dark Manifestation <[*] Dark Manifestation>",
 		[344324] = "Doomguard",
-		[320723] = "[*] Displaced Blastwave",
+		[335054] = 2,
 		[1490] = 12,
-		[255577] = "Priestess Alun'za",
+		[341197] = "Nathrian Hawkeye",
 		[286988] = "Manceroy Flamefist",
 		[313609] = 12,
-		[341200] = "Nathrian Singuard",
-		[284941] = "Opulence",
+		[148564] = 2,
+		[309514] = "Dark Manifestation <[*] Dark Manifestation>",
 		[286989] = "Manceroy Flamefist",
 		[313610] = "N'Zoth the Corruptor",
-		[299276] = "Queen Azshara",
+		[123981] = 6,
 		[284942] = "Opulence",
-		[101186] = 12,
+		[346111] = 5,
 		[313611] = 11,
 		[6343] = 1,
 		[342280] = "Lady Inerva Darkvein",
-		[336137] = "Prince Renathal",
-		[266181] = "Gorak Tul",
+		[303373] = "Azsh'ari Venomwatcher",
+		[115310] = 10,
 		[256138] = "Dazar'ai Honor Guard",
 		[342281] = "Lady Inerva Darkvein",
-		[199852] = 1,
+		[341196] = "Nathrian Enforcer",
 		[280849] = 1,
 		[323852] = "Ghastly Parishioner <Gummybuns-Area52>",
 		[276754] = "Grand Automaton",
-		[189545] = "Sargerei Soul Cleaver",
-		[323744] = "Forsworn Stealthclaw",
+		[101185] = 6,
+		[315176] = 1,
 		[307471] = "Shad'har the Insatiable",
-		[307297] = "Vexiona",
-		[202841] = 11,
+		[299061] = "Annihilator Lak'hal",
+		[196782] = 6,
 		[1706] = 5,
-		[307472] = "Shad'har the Insatiable",
-		[308434] = 3,
+		[1714] = 9,
+		[290001] = "Lady Jaina Proudmoore",
 		[295186] = 7,
 		[321807] = "Zolramus Bonecarver",
-		[309648] = "Alleria Windrunner",
-		[289982] = 12,
-		[335054] = 2,
-		[341197] = "Nathrian Hawkeye",
-		[181832] = "Shadowfel Warden",
-		[22812] = 11,
-		[327952] = "Stitchflesh's Creation",
+		[252057] = "Patrician Cromwell",
+		[274447] = 3,
+		[323629] = "[*] Refreshing Mist",
+		[1543] = 3,
+		[346106] = 10,
+		[303501] = "Garval the Vanquisher",
+		[311570] = "Overlord Mathias Shaw",
 		[289045] = 11,
-		[288865] = 6,
-		[341196] = "Nathrian Enforcer",
+		[333002] = "Vile Occultist",
+		[339145] = 11,
 		[303380] = 7,
 		[297237] = "Voidbound Shaman",
 		[307476] = "Shad'har the Insatiable",
-		[293142] = 1,
-		[101185] = 6,
-		[325570] = 5,
-		[313672] = "[*] Acid Pool",
-		[258075] = "Stinging Parasite",
+		[1850] = 11,
+		[311475] = 5,
+		[171636] = 9,
+		[270674] = 2,
+		[323764] = 11,
 		[303382] = "Azsh'ari Venomwatcher",
-		[290001] = "Lady Jaina Proudmoore",
+		[203953] = 11,
 		[274714] = "[*] Twisting Void",
 		[325908] = "Lady Inerva Darkvein",
-		[319765] = "Kul'tharok",
-		[90708] = 1,
+		[327956] = 5,
+		[297240] = "Lady Ashvane",
 		[307479] = 10,
+		[33702] = 9,
+		[338003] = "Depraved Obliterator",
+		[264477] = "Aqu'sirr",
 		[282720] = 9,
-		[334076] = "Death Speaker",
-		[272668] = "Burning Soul",
-		[280206] = 9,
-		[305483] = 7,
+		[278767] = 10,
 		[311576] = "Jesh'ra",
 		[272669] = "Burning Soul",
 		[64044] = 5,
-		[257168] = "Irontide Marauder",
-		[197509] = "Bloodworm <Evangelos>",
-		[311382] = "Deresh of the Nothingness",
-		[211094] = 7,
+		[71255] = "Professor Putricide",
+		[199721] = 6,
+		[316617] = 11,
+		[113746] = 10,
 		[261264] = "Sister Solena",
-		[333002] = "Vile Occultist",
+		[179202] = 5,
 		[280862] = 5,
-		[339145] = 11,
-		[276767] = "Abyssal Cultist",
-		[203975] = 11,
-		[171636] = 9,
+		[184554] = "Umbral Supplicant",
+		[309531] = 11,
+		[271543] = 2,
+		[323762] = 12,
 		[274720] = "Abyssal Eel",
 		[261265] = "Sister Briar",
 		[303389] = 12,
 		[189594] = "Construct Peacekeeper",
-		[270674] = 2,
+		[322759] = "Hakkar the Soulflayer",
 		[309533] = "Prince Renathal",
 		[303390] = 12,
-		[260189] = "Mogul Razdunk",
+		[311382] = "Deresh of the Nothingness",
 		[260242] = 3,
 		[261266] = "Sister Malady",
-		[138425] = 2,
+		[311478] = 5,
 		[321821] = "Blight Bag",
 		[123986] = 10,
-		[6262] = 9,
-		[321197] = 5,
+		[335021] = 5,
+		[339140] = 11,
 		[264485] = 5,
 		[260243] = 3,
-		[322709] = "Tred'ova",
+		[311471] = 11,
 		[55342] = 8,
-		[299093] = "[*] Radiant Fury",
+		[290985] = 2,
 		[256148] = 4,
 		[2484] = 7,
-		[203794] = 12,
-		[272678] = 3,
-		[316617] = 11,
-		[309532] = 12,
-		[302263] = 2,
-		[272679] = 3,
-		[320786] = "[*] Power Overwhelming",
-		[250735] = 5,
-		[322759] = "Hakkar the Soulflayer",
-		[272472] = 12,
-		[132158] = 11,
-		[342466] = "Manifestation of Pride",
-		[339140] = 11,
+		[272733] = 3,
+		[259220] = "Coldheart Javelineer",
+		[322757] = "Zolramus Gatekeeper",
+		[116267] = 8,
+		[302279] = "Tank Buster MK1",
+		[2580] = 1,
+		[341186] = "Anima Glimmer",
+		[322756] = "Zolramus Gatekeeper",
+		[3411] = 1,
+		[288853] = 6,
+		[228532] = 12,
+		[311390] = "[*] Madness: Entomophobia",
+		[110909] = 8,
 		[297254] = "King Gobbamak",
 		[198813] = 12,
-		[311458] = 8,
+		[342419] = 11,
 		[319780] = "Globgrog",
 		[321828] = "Mistcaller",
 		[307494] = 6,
 		[301351] = "HK-8 Aerial Oppression Unit",
-		[172193] = "Keen-Eyed Gronnstalker",
-		[297256] = "King Gobbamak",
+		[278826] = 1,
+		[289065] = "Unknown",
 		[307495] = 5,
 		[317734] = 5,
 		[303400] = "Azsh'ari Frostbinder",
 		[297257] = "King Gobbamak",
 		[260247] = 3,
-		[323547] = 4,
+		[311373] = "SI:7 Light-Hunter",
 		[303401] = "Azsh'ari Frostbinder",
 		[297258] = "Unknown <Downloaded-Kil'jaeden>",
 		[307497] = 8,
 		[342309] = 4,
-		[264539] = 2,
+		[330945] = 10,
 		[32409] = "[*] Shadow Word: Death",
-		[252057] = "Patrician Cromwell",
-		[342310] = "Artificer Xy'mox",
-		[255591] = "Priestess Alun'za",
+		[291116] = 2,
+		[309546] = "Animated Weapon",
+		[264378] = "Coven Diviner",
 		[255129] = 8,
 		[24858] = 11,
 		[309547] = "Animated Weapon",
-		[270108] = "[*] Rotting Spore",
+		[285894] = "Gonk's Aspect",
 		[321834] = "Mistcaller",
 		[260249] = 3,
-		[302279] = "Tank Buster MK1",
-		[262228] = 1,
+		[348541] = 10,
+		[271538] = 2,
 		[330026] = "Doctor Ickus",
 		[198817] = 1,
-		[322756] = "Zolramus Gatekeeper",
+		[271559] = 11,
 		[344361] = 10,
-		[272733] = 3,
+		[325701] = "Depraved Collector",
 		[274738] = 6,
 		[342314] = 9,
 		[196770] = 6,
-		[105771] = 1,
+		[262228] = 1,
 		[274739] = 6,
-		[72295] = "Professor Putricide",
-		[146622] = 1,
-		[110909] = 8,
-		[202914] = 3,
-		[289184] = 2,
+		[330943] = 10,
+		[295076] = "Za'qul",
+		[326847] = "Inquisitor Sigar",
+		[274740] = 6,
+		[311366] = "[*] Void Beam",
 		[19483] = "Infernal <Forcepush-Sargeras>",
 		[222368] = 9,
 		[274741] = 6,
-		[167105] = 1,
-		[330945] = 10,
-		[10060] = 5,
+		[119611] = 10,
+		[278769] = 12,
+		[300155] = "Tirnenn Villager",
 		[274742] = 6,
-		[192109] = 7,
-		[323546] = 11,
+		[265392] = "Banquet Steward",
+		[263344] = "Empowered Imperial Curator",
 		[115288] = 10,
 		[340271] = 5,
 		[124503] = 10,
-		[287072] = "Opulence",
-		[271559] = 11,
+		[330919] = "Enraged Mask",
+		[290881] = "[*] Broadside",
 		[307508] = 5,
 		[342320] = "Lady Inerva Darkvein",
-		[29722] = 9,
-		[313652] = "Ka'zir",
-		[70750] = "Darkfallen Commander",
-		[342321] = "Lady Inerva Darkvein",
+		[3716] = "Kal'tast <Snoopdougie-Zul'jin>",
+		[51505] = 7,
+		[348464] = 5,
+		[199845] = "Psyfiend <Toshpriest>",
 		[278841] = 1,
 		[72286] = 12,
 		[252063] = "Patrician Cromwell",
-		[253087] = 12,
+		[334131] = 5,
 		[73822] = 1,
-		[222256] = 3,
-		[123992] = 9,
+		[167105] = 1,
+		[332084] = "Lubricator",
 		[334132] = 6,
-		[155722] = 11,
+		[2565] = 1,
 		[330037] = "Fen Hornet",
 		[282939] = "Yalat's Bulwark",
 		[253088] = 7,
-		[330943] = 10,
+		[321893] = "Illusionary Vulpin <Mistcaller>",
 		[289083] = 12,
 		[47666] = 5,
-		[62618] = 5,
+		[210042] = 12,
 		[336182] = 5,
-		[326847] = "Inquisitor Sigar",
-		[290881] = "[*] Broadside",
-		[119611] = 10,
-		[196776] = 9,
+		[305369] = "Voidbound Honor Guard",
+		[260279] = "[*] Gatling Gun",
+		[46628] = 8,
+		[327992] = "Sinister Reflection",
 		[33076] = 5,
-		[329711] = "Crimson Cabalist",
-		[2645] = 7,
-		[313698] = 5,
-		[210128] = 6,
+		[342432] = 2,
+		[308413] = 6,
+		[281000] = 1,
+		[325700] = "Depraved Collector",
 		[282943] = "Piston Smasher",
-		[153626] = 8,
+		[319539] = "Kul'tharok",
 		[270657] = 8,
 		[330042] = "Sire Denathrius",
-		[303284] = "Bound Storm",
-		[232633] = 5,
-		[278849] = "Coven Thornshaper",
-		[72840] = "Professor Putricide",
+		[186403] = 5,
+		[289982] = 12,
+		[303422] = "[*] Blizzard",
+		[291012] = 12,
 		[282945] = "Buzz Saw",
-		[260279] = "[*] Gatling Gun",
-		[311721] = 5,
-		[307250] = "Shadow of Vexiona",
+		[336234] = 2,
+		[287147] = "[*] Dread Reaping",
+		[297241] = 7,
 		[256163] = "Azerite Footbomb",
 		[199850] = 1,
-		[260280] = "Mogul Razdunk",
+		[336231] = "Stone Legion Commando",
 		[313663] = 11,
 		[340284] = 10,
-		[55090] = 6,
-		[139442] = 12,
-		[335105] = 12,
+		[342332] = "Manifestation of Pride",
+		[270661] = 5,
+		[278176] = "Verdant Keeper",
 		[315712] = "Tentacle of Drest'agath",
 		[199851] = 1,
 		[336190] = 4,
 		[297283] = "[*] Cave In",
 		[130138] = 9,
 		[284997] = "Laminaria",
-		[334229] = 11,
+		[339978] = 4,
 		[255141] = 12,
 		[115804] = 10,
-		[124507] = 10,
+		[199852] = 1,
 		[250022] = "Yazma",
-		[308413] = 6,
+		[265407] = "Banquet Steward",
 		[315715] = "[*] Contempt",
 		[195757] = 6,
 		[328002] = "Pestilent Harvester",
-		[297117] = 11,
-		[332939] = 2,
+		[328887] = "Shriekwing",
+		[108853] = 8,
 		[285000] = "Laminaria",
-		[49966] = "Unknown <Thunderrz>",
-		[178207] = 6,
+		[287887] = "Sister Katherine",
+		[317483] = 1,
 		[252071] = 11,
-		[194153] = 11,
+		[191685] = 6,
 		[303431] = 2,
 		[5672] = "Healing Stream Totem <Healingem-BleedingHollow>",
-		[123996] = "Xuen <Choplo>",
+		[22812] = 11,
 		[199854] = 1,
-		[295343] = 2,
-		[203820] = 4,
-		[129597] = 10,
+		[336026] = 3,
+		[308408] = "Forge-Guard Hurrul",
+		[323542] = "Oozing Leftovers",
 		[285003] = "King Rastakhan",
 		[188592] = 7,
-		[264526] = "Unknown",
+		[313672] = "[*] Acid Pool",
 		[315720] = 1,
-		[59544] = 5,
-		[270670] = 8,
-		[286680] = "[*] Roiling Tides",
-		[299061] = "Annihilator Lak'hal",
-		[258709] = "[*] Corrupted Gold",
-		[265407] = "Banquet Steward",
-		[297292] = "Custodian Thonar",
-		[198832] = "Risen Skulker <Rathux>",
-		[328887] = "Shriekwing",
-		[309619] = 4,
-		[329561] = "Essence Font <Vile Occultist>",
-		[307586] = "[*] Devoured Abyss",
-		[328050] = 10,
-		[139448] = 3,
-		[305485] = 7,
-		[303513] = "Gorjesh the Smasher",
-		[308408] = "Forge-Guard Hurrul",
-		[303438] = 12,
-		[80483] = 3,
-		[208086] = 1,
-		[203953] = 11,
-		[328012] = 4,
-		[272723] = 6,
 		[328885] = "High Torturer Darithos",
+		[270670] = 8,
 		[294073] = "Strider Tonk",
-		[295249] = 5,
-		[327710] = 5,
-		[286801] = "The Indomitable",
-		[342158] = 5,
-		[319823] = 5,
+		[133] = 8,
+		[195630] = 10,
+		[305392] = 6,
+		[305483] = 7,
+		[198832] = "Risen Skulker <Rathux>",
 		[310454] = 10,
 		[260702] = "[*] Unstable Runic Mark",
-		[272721] = 6,
+		[334196] = 7,
+		[115203] = 10,
+		[326835] = "Ossified Conscript",
+		[139448] = 3,
+		[305485] = 7,
+		[1330] = 4,
+		[326059] = 7,
+		[303438] = 12,
+		[80483] = 3,
+		[188443] = 7,
+		[138425] = 2,
+		[328012] = 4,
+		[272723] = 6,
+		[203814] = 5,
+		[319521] = "Kul'tharok",
+		[295249] = 5,
+		[325632] = "Blightsmasher",
+		[1766] = 4,
+		[326833] = "Echo of Sin",
+		[319823] = 5,
+		[294884] = "Malfunctioning Scrapbot",
+		[339119] = 2,
+		[287925] = "Lady Jaina Proudmoore",
 		[48181] = 9,
-		[282736] = "Gonk's Aspect",
+		[305603] = "[*] Electro Shock",
 		[274774] = 10,
 		[130654] = 10,
 		[328016] = "Fungalmancer",
-		[326835] = "Ossified Conscript",
-		[10444] = 7,
-		[315496] = 4,
+		[260700] = "Sister Malady",
+		[330927] = 10,
+		[340160] = "Mistveil Matriarch",
 		[287062] = 10,
-		[114282] = 11,
-		[343287] = "Nathrian Archivist",
-		[329916] = "Mawsworn Shadestalker",
+		[335096] = 1,
+		[280583] = 4,
+		[119607] = 10,
 		[287063] = 10,
 		[297302] = "Endless Hunger Totem <Voidbound Shaman>",
 		[198837] = "Risen Skulker <Rathux>",
 		[30108] = 9,
-		[274438] = "[*] Tempest",
-		[330067] = 12,
-		[295047] = 2,
+		[195645] = 3,
+		[264539] = 2,
+		[269493] = "Coin-Operated Crowd Pummeler",
 		[285017] = "Laminaria",
 		[303447] = "Zanj'ir Gladiator",
 		[297304] = "Custodian Thonar",
 		[198838] = 7,
-		[326833] = "Echo of Sin",
+		[178207] = 6,
 		[336212] = "General Kaal",
 		[330069] = "[*] Concentrated Plague",
-		[323682] = "Forsworn Skirmisher",
+		[236777] = 3,
 		[203958] = 11,
 		[303449] = "Zanj'ir Gladiator",
 		[305497] = 11,
-		[198839] = "Unknown <Penguinpal>",
+		[307545] = "Maut",
 		[285020] = "The Platinum Pummeler",
-		[339119] = 2,
-		[48438] = 11,
+		[315385] = 5,
+		[305498] = 5,
 		[72807] = 3,
-		[228532] = 12,
-		[213602] = 5,
-		[272457] = "Sporecaller Zancha",
-		[260700] = "Sister Malady",
-		[330927] = 10,
+		[146622] = 1,
+		[326829] = "Inquisitor Sigar",
+		[260292] = "Cragmaw the Infested",
+		[298160] = "Kosarus the Fallen",
+		[311321] = "Cultist Executioner",
 		[295261] = 7,
-		[42223] = 9,
-		[330135] = "[*] Fount of Pestilence",
-		[198590] = 9,
+		[262287] = "Mech Jockey",
+		[260698] = "Sister Solena",
+		[185394] = 2,
 		[336217] = 7,
 		[313692] = "Tek'ris",
-		[119607] = 10,
-		[296956] = "Warden of Souls",
+		[279729] = 11,
+		[326827] = "Grand Overseer",
 		[319836] = 8,
-		[269493] = "Coin-Operated Crowd Pummeler",
-		[338357] = "Kyrian Stitchwerk",
+		[115308] = 10,
+		[70460] = "Frost Freeze Trap",
 		[73320] = 5,
 		[319837] = "[*] Spike",
-		[333808] = "Doctor Ickus",
-		[322945] = "Halkias",
-		[326829] = "Inquisitor Sigar",
+		[340355] = "[*] Rapid Infection",
+		[326826] = "Grand Overseer",
+		[332969] = "[*] Destructive Impact",
 		[287074] = "[*] Molten Gold",
-		[348541] = 10,
-		[298160] = "Kosarus the Fallen",
+		[330921] = 10,
+		[16979] = 11,
 		[317791] = "Magus of the Dead <Rathux>",
 		[311648] = 6,
-		[186403] = 5,
+		[335016] = "Huntsman Altimor",
 		[119907] = 9,
 		[325983] = 2,
 		[336222] = 10,
 		[297315] = "Greater Void Elemental",
-		[345219] = 5,
+		[295305] = 12,
 		[325984] = 2,
-		[260698] = "Sister Solena",
+		[298156] = "Orgozoa",
 		[214202] = 2,
-		[313732] = "Tek'ris",
-		[328875] = "Patrician Cromwell",
-		[326827] = "Grand Overseer",
-		[323544] = "Son of Hakkar",
+		[229980] = 10,
+		[307159] = 10,
+		[324776] = "Mistveil Shaper",
+		[202335] = 10,
 		[348511] = 8,
 		[228537] = 12,
-		[17619] = 7,
+		[332165] = "Howling Spectre",
 		[321891] = "Illusionary Vulpin <Mistcaller>",
 		[348512] = 2,
 		[216251] = 7,
 		[71786] = "Captain Rupert",
-		[295305] = 12,
-		[326826] = "Grand Overseer",
+		[193473] = "Void Tendril <Lyuna>",
+		[346502] = 12,
 		[342370] = 8,
 		[287081] = 6,
 		[264556] = "Thornguard",
-		[332969] = "[*] Destructive Impact",
-		[330921] = 10,
-		[16979] = 11,
+		[298154] = 6,
+		[320679] = "Unyielding Contender",
+		[272827] = "Bilge Rat Pillager",
 		[321894] = "Nalthor the Rimebinder",
 		[340324] = "[*] Sanguine Ichor",
 		[309608] = 5,
-		[335016] = "Huntsman Altimor",
-		[307185] = 8,
+		[264153] = "Unknown",
+		[346503] = 12,
 		[323943] = "Devos",
 		[342373] = 8,
 		[344421] = 10,
-		[265392] = "Banquet Steward",
+		[337060] = 9,
 		[40505] = "Snang",
-		[312490] = "Wrathion",
+		[335012] = 5,
 		[344422] = 10,
 		[264560] = "Aqu'sirr",
 		[348518] = 2,
-		[290976] = 7,
+		[251836] = 12,
 		[262513] = "Venture Co. Skyscorcher",
 		[297325] = "Pashmar the Fanatical",
-		[324776] = "Mistveil Shaper",
-		[330919] = "Enraged Mask",
-		[270329] = 3,
-		[272783] = 5,
-		[119910] = 9,
-		[285040] = "Ire of the Deep",
-		[336234] = 2,
-		[338005] = "Toiling Groundskeeper",
-		[227518] = 12,
-		[122470] = 10,
-		[214621] = 5,
-		[320679] = "Unyielding Contender",
-		[278551] = "Coven Thornshaper",
-		[309615] = 12,
-		[13584] = "Mawsworn Ward",
-		[303501] = "Garval the Vanquisher",
-		[226510] = "[*] Sanguine Ichor",
-		[301425] = "Titan Console",
-		[337060] = 9,
-		[335012] = 5,
-		[132036] = 2,
-		[309617] = 11,
 		[298152] = 7,
 		[312486] = "Blood of Ny'alotha",
+		[118905] = "Capacitor Totem <Yukios-Kil'jaeden>",
+		[165961] = 11,
+		[119910] = 9,
+		[285040] = "Ire of the Deep",
+		[262515] = "Venture Co. Skyscorcher",
+		[296978] = "Soul Fragment",
+		[227518] = 12,
+		[122470] = 10,
+		[309648] = "Alleria Windrunner",
+		[52127] = 7,
+		[272790] = 3,
+		[309615] = 12,
+		[13584] = "Mawsworn Ward",
+		[295001] = "Lord of Locks",
+		[341725] = 6,
+		[301425] = "Titan Console",
+		[307213] = "Tek'ris",
+		[317882] = "[*] Hindering Soot",
+		[188070] = 7,
+		[309617] = 11,
+		[296101] = 5,
+		[201754] = "Spirit Beast <Watergun-Kil'jaeden>",
 		[170183] = 5,
 		[73325] = 5,
-		[130] = 8,
-		[307213] = "Tek'ris",
+		[12042] = 8,
+		[330132] = 6,
 		[315762] = "Vexiona",
-		[191685] = 6,
-		[325640] = 9,
-		[226512] = "[*] Sanguine Ichor",
+		[309619] = 4,
+		[121471] = 4,
+		[342420] = 11,
 		[315763] = 12,
 		[342384] = 5,
-		[188614] = "[*] Desecration",
-		[200285] = 2,
-		[266209] = "Fallen Deathspeaker",
-		[284656] = "Mestrah",
-		[328082] = 4,
-		[193641] = 4,
+		[328050] = 10,
+		[303513] = "Gorjesh the Smasher",
+		[268702] = "Stonefury",
+		[213243] = 12,
+		[56222] = 6,
+		[348139] = 8,
 		[260286] = 3,
-		[301431] = "Queen Azshara",
-		[289221] = "[*] Heart of Frost",
-		[307306] = "Fury of N'Zoth",
+		[342386] = 5,
+		[184364] = 1,
+		[339966] = "Spriggan Barkbinder",
 		[323957] = "Zolramus Necromancer",
 		[342387] = 5,
 		[116841] = 10,
-		[296101] = 5,
-		[335805] = "[*] Archon's Bastion",
-		[297018] = "Warden of Souls",
-		[272827] = "Bilge Rat Pillager",
-		[280200] = 4,
-		[336277] = "Remnant of Fury",
-		[326069] = 5,
-		[268702] = "Stonefury",
-		[177354] = "Energized Phoenix",
+		[62618] = 5,
+		[197721] = 11,
+		[340378] = 5,
+		[2379] = 8,
+		[311269] = "Cultist Shadowblade",
+		[204011] = 2,
+		[307201] = "Ka'zir",
+		[203796] = 12,
+		[242882] = 12,
 		[274814] = 11,
 		[342390] = 5,
-		[182512] = 12,
-		[56222] = 6,
+		[272668] = "Burning Soul",
+		[329862] = "Deadsoul Shambler",
 		[124009] = "Xuen <Choplo>",
-		[189547] = "Sargerei Soul Cleaver",
+		[286742] = "Phantom of Rage",
 		[250050] = "Yazma",
 		[264577] = 3,
-		[290819] = 3,
+		[309343] = 5,
 		[203795] = 12,
 		[311676] = 5,
 		[51514] = 7,
 		[315772] = "N'Zoth the Corruptor",
-		[340378] = 5,
-		[319592] = "Echelon",
-		[274369] = 5,
+		[335863] = "Creepy Crawler",
+		[265364] = "Blight Toad",
+		[303545] = "Tideshaper Korvess",
 		[307582] = "Volatile Drone",
 		[317821] = 7,
-		[2379] = 8,
+		[298950] = 1,
 		[197834] = 4,
 		[332156] = "Headless Client",
-		[326046] = "Spinemaw Staghorn",
-		[188070] = 7,
-		[315385] = 5,
+		[308366] = "Inquisitor Darkspeak",
+		[265377] = "Fanatical Headhunter",
+		[328857] = "Shriekwing",
 		[332157] = "Headless Client",
-		[295137] = 7,
-		[327992] = "Sinister Reflection",
+		[131318] = 6,
+		[223829] = 6,
 		[197835] = 4,
-		[280772] = 1,
-		[297382] = "Stolen Scrapbot",
-		[88625] = 5,
-		[344158] = 1,
-		[260292] = "Cragmaw the Infested",
+		[296956] = "Warden of Souls",
+		[182512] = 12,
+		[193641] = 4,
+		[324760] = "Shard of Halkias",
+		[65081] = 5,
 		[163024] = 1,
-		[1066] = 11,
+		[317865] = 5,
 		[305539] = 5,
-		[320655] = "Blightbone",
+		[304282] = "Rexxar",
 		[5225] = 11,
 		[116844] = 10,
 		[272776] = 5,
 		[348543] = 5,
 		[163025] = 10,
-		[284669] = "Manceroy Flamefist",
-		[321923] = 11,
+		[323547] = 4,
+		[313732] = "Tek'ris",
 		[256198] = "Overseer Korgus",
 		[285064] = "Ire of the Deep",
-		[204011] = 2,
-		[305603] = "[*] Electro Shock",
-		[265377] = "Fanatical Headhunter",
+		[293142] = 1,
+		[327882] = "Plagueroc",
+		[3355] = 3,
 		[203981] = 12,
-		[328857] = "Shriekwing",
+		[309671] = "Therum Deepforge",
 		[53563] = 2,
 		[348546] = 6,
 		[326021] = "Spinemaw Gorger",
 		[233674] = 11,
-		[311471] = 11,
-		[332165] = "Howling Spectre",
+		[278961] = "Diseased Lasher",
+		[340356] = "Pestilence Slime",
 		[326022] = "Spinemaw Gorger",
 		[63546] = "Pustulent Horror",
 		[330118] = "Howling Spectre",
@@ -6715,298 +6739,298 @@ _detalhes_global = {
 		[134359] = 10,
 		[287116] = "Reaping Portal",
 		[313737] = "Abyssal Watcher",
-		[223829] = 6,
+		[218164] = 10,
 		[326024] = "Ipa <Toshmonk>",
-		[303185] = "Azsh'ari Stormbinder",
-		[346502] = 12,
+		[280283] = 1,
+		[272783] = 5,
 		[256201] = "Overseer Korgus",
-		[228360] = 5,
-		[198898] = 10,
+		[342443] = "Plagueroc",
+		[332948] = 2,
 		[17057] = 11,
 		[315787] = 1,
 		[25504] = 7,
 		[295310] = 1,
 		[346504] = 12,
-		[324760] = "Shard of Halkias",
+		[255567] = "T'lonja",
 		[326027] = 10,
 		[303502] = "Garval the Vanquisher",
 		[346505] = 12,
-		[222202] = 5,
+		[197626] = 11,
 		[61243] = 5,
 		[336267] = 5,
-		[304282] = "Rexxar",
-		[199721] = 6,
+		[326039] = "Grand Proctor Beryllia",
+		[336301] = 11,
 		[199890] = 9,
 		[116847] = 10,
 		[313743] = "Abyssal Watcher",
-		[316711] = "Psychus",
+		[265371] = "Bewitched Captain",
 		[285075] = "[*] Freezing Tidepool",
 		[196819] = 4,
 		[321935] = "Congealed Slime",
 		[274837] = 11,
-		[346106] = 10,
+		[107428] = 10,
 		[303506] = "Zanj'ir Gladiator",
-		[272790] = 3,
+		[226512] = "[*] Sanguine Ichor",
 		[274838] = 11,
 		[342414] = 5,
-		[2050] = 5,
+		[326090] = "Spinemaw Reaver",
 		[321937] = 5,
-		[1543] = 3,
+		[270329] = 3,
 		[199892] = 9,
-		[323496] = "Flesh Crafter",
+		[328837] = 3,
 		[259277] = 1,
-		[335817] = "Devos",
+		[292903] = "Empowered Mawsworn Guard",
 		[309652] = "[*] Illusionary Bolt",
-		[262554] = "Expert Technician",
-		[338321] = 10,
-		[310784] = "Eye of the Depths",
-		[338353] = "Corpse Collector",
+		[328082] = 4,
+		[313748] = "Abyssal Watcher",
+		[306311] = "Flayed Soul",
+		[325551] = "Domina Venomblade",
 		[319892] = 5,
-		[264603] = "Elder Leaxa",
-		[332948] = 2,
-		[309654] = "Dark Inquisitor Xanesh",
-		[45470] = 6,
-		[330132] = 6,
-		[35395] = 2,
-		[342419] = 11,
-		[116849] = 10,
-		[2565] = 1,
-		[145629] = 6,
-		[342420] = 11,
-		[180441] = 6,
+		[330131] = 11,
 		[344497] = 2,
-		[265371] = "Bewitched Captain",
-		[326039] = "Grand Proctor Beryllia",
+		[309654] = "Dark Inquisitor Xanesh",
+		[345231] = 7,
+		[115313] = 10,
+		[284656] = "Mestrah",
+		[334228] = "Hungering Destroyer",
+		[116849] = 10,
+		[341135] = "Anima Glimmer",
+		[145629] = 6,
+		[334229] = 11,
+		[336277] = "Remnant of Fury",
+		[265368] = "Bewitched Captain",
+		[319952] = 5,
+		[208086] = 1,
 		[278941] = 5,
 		[297371] = "Queen Azshara",
 		[323992] = "Millificent Manastorm",
-		[212182] = 4,
+		[326040] = "Sins of the Past",
 		[336279] = "Remnant of Fury",
 		[297372] = "Queen Azshara",
 		[315802] = "Mawsworn Interceptor",
 		[342423] = 2,
 		[319898] = "Slime Tentacle",
 		[330137] = "Remornia",
-		[257608] = "The Sand Queen",
-		[311269] = "Cultist Shadowblade",
-		[284276] = "King Rastakhan",
-		[184552] = "Umbral Supplicant",
+		[327649] = "Mueh'zala",
+		[315830] = "Anubisath Sentinel",
+		[268271] = "Lady Waycrest",
+		[783] = 11,
 		[223446] = 9,
 		[342425] = "General Grashaal",
-		[309316] = "Maut",
+		[781] = 3,
 		[297375] = 5,
 		[323996] = 12,
 		[195802] = 5,
-		[303545] = "Tideshaper Korvess",
+		[337985] = 5,
 		[115315] = 10,
 		[340379] = 5,
-		[286742] = "Phantom of Rage",
+		[278999] = 1,
 		[303520] = 6,
 		[313759] = "[*] Cursed Blood",
-		[254958] = "Dazar'ai Colossus",
+		[337037] = "Nekthara the Mangler",
 		[342428] = 12,
 		[328094] = "Plaguebinder",
-		[311487] = 12,
-		[286695] = "Phantom of Retribution",
+		[299450] = "Pistonhead Scrapper",
+		[341132] = 5,
 		[309665] = "Therum Deepforge",
 		[71801] = "Nerub'ar Champion",
 		[185565] = 4,
 		[113780] = 4,
-		[341135] = "Anima Glimmer",
+		[196840] = 7,
 		[295332] = "Abyssal Commander Sivara",
-		[265368] = "Bewitched Captain",
-		[294884] = "Malfunctioning Scrapbot",
-		[201363] = 1,
-		[306311] = "Flayed Soul",
+		[222202] = 5,
+		[337881] = 10,
+		[332940] = 2,
+		[289937] = "Rastari Punisher",
 		[259285] = 3,
-		[197690] = 1,
-		[342432] = 2,
+		[296080] = "HK-8 Aerial Oppression Unit",
+		[317859] = 5,
 		[328098] = "[*] Fall of the Unworthy",
-		[281000] = 1,
+		[297382] = "Stolen Scrapbot",
 		[324003] = 2,
-		[328124] = "Undying Stonefiend",
-		[331836] = "Lady Inerva Darkvein",
+		[344503] = "Reverberating Eruption Stalker",
+		[332939] = 2,
 		[321956] = "Nalthor the Rimebinder",
 		[324004] = 5,
-		[342435] = 2,
+		[286646] = "High Tinker Mekkatorque",
 		[278954] = 2,
 		[305575] = "[*] Ritual Field",
 		[332196] = "Headless Client",
-		[309671] = "Therum Deepforge",
+		[342435] = 2,
 		[295337] = 12,
 		[338340] = 7,
-		[845] = 1,
-		[287891] = "[*] Sheep Shrapnel",
+		[284669] = "Manceroy Flamefist",
+		[209967] = "Dire Basilisk <Servinfades-Dawnbringer>",
 		[295338] = 12,
-		[288719] = "Lady Jaina Proudmoore",
-		[341132] = 5,
-		[313793] = "Deathwing",
-		[295339] = 2,
-		[309698] = "Basher Tentacle",
+		[300174] = 5,
+		[272834] = "Bilge Rat Pillager",
+		[296078] = "Za'qul",
+		[311721] = 5,
+		[307164] = 6,
 		[260312] = "Cragmaw the Infested",
 		[326056] = "[*] Anima Missile",
-		[268709] = "Venture Co. Earthshaper",
-		[332940] = 2,
-		[289937] = "Rastari Punisher",
-		[296080] = "HK-8 Aerial Oppression Unit",
+		[306752] = "Vez'okk the Lightless",
+		[189547] = "Sargerei Soul Cleaver",
+		[19236] = 5,
+		[192081] = 11,
 		[303532] = "Tideshaper Korvess",
-		[299460] = "Pistonhead Blaster",
+		[268317] = "Drowned Depthbringer",
 		[324010] = "Millificent Manastorm",
 		[334249] = 5,
-		[324748] = 1,
-		[167152] = 5,
+		[57755] = 1,
+		[285125] = "Laminaria",
 		[299438] = "Pistonhead Scrapper",
-		[326059] = 7,
-		[278961] = "Diseased Lasher",
+		[268722] = "Venture Co. Earthshaper",
+		[295343] = 2,
 		[289200] = "Unliving Augur",
-		[344231] = 6,
+		[297412] = 5,
 		[309678] = 10,
 		[205025] = 8,
-		[311489] = 12,
-		[300174] = 5,
+		[306971] = "Fury of N'Zoth",
+		[164862] = 11,
 		[232670] = 9,
 		[303536] = "Tideshaper Korvess",
-		[186439] = 1,
-		[59547] = 7,
+		[266209] = "Fallen Deathspeaker",
+		[257608] = "The Sand Queen",
 		[326062] = 1,
-		[336301] = 11,
-		[300504] = "Queen Azshara",
-		[307159] = 10,
-		[343527] = 2,
-		[334275] = 9,
-		[321968] = "Tirnenn Villager",
-		[192081] = 11,
+		[319919] = 10,
+		[305054] = 10,
+		[230987] = 3,
 		[323538] = "High Adjudicator Aleez",
+		[326790] = "[*] Radiant Recharge",
+		[321968] = "Tirnenn Villager",
+		[310988] = 5,
+		[268211] = "Runecarver Sorn",
 		[311730] = 6,
-		[57755] = 1,
+		[345219] = 5,
 		[307635] = "Tek'ris",
-		[317894] = "Stone Legion Nightblade",
-		[12294] = 1,
-		[228600] = 8,
+		[296910] = "Boundless Corruption",
+		[223819] = 2,
+		[198222] = 4,
 		[283063] = "Yalat's Bulwark",
-		[329666] = 3,
+		[221771] = 10,
 		[344496] = "General Grashaal",
-		[297398] = "Lady Ashvane",
+		[338353] = "Corpse Collector",
 		[307637] = "Aqir Drone",
-		[274395] = 2,
+		[266181] = "Gorak Tul",
 		[336306] = "Domina Venomblade",
-		[294027] = 2,
+		[80240] = 9,
 		[260318] = "Mogul Razdunk",
 		[317877] = "Darkwing Gargoyle",
-		[116858] = 9,
+		[72840] = "Professor Putricide",
 		[321973] = 5,
-		[315830] = "Anubisath Sentinel",
-		[309687] = "Shredded Psyche <[*] Shred Psyche>",
+		[307639] = "Vexiona",
+		[326069] = 5,
 		[328117] = "Sire Denathrius",
-		[230987] = 3,
-		[273525] = 9,
+		[315443] = 6,
+		[346307] = "Corpselouse Spawnling",
 		[228579] = 6,
 		[344500] = "General Grashaal",
-		[321975] = "Pestilence Slime",
+		[338357] = "Kyrian Stitchwerk",
 		[332214] = 2,
 		[317880] = "Stoneborn Maitre D'",
-		[326790] = "[*] Radiant Recharge",
+		[267402] = 12,
 		[56641] = 3,
 		[283069] = "[*] Megatomic Fire",
-		[280602] = "Mech Jockey",
+		[326952] = "Infused Quill-feather",
 		[344502] = "[*] Unstable Footing",
-		[325551] = "Domina Venomblade",
-		[320646] = "[*] Fetid Gas",
-		[317882] = "[*] Hindering Soot",
-		[344503] = "Reverberating Eruption Stalker",
-		[294856] = "[*] Unstable Mixture",
-		[223819] = 2,
-		[228581] = 6,
-		[205032] = 8,
-		[298120] = "Aethanel",
-		[307645] = "Vexiona",
-		[334266] = "Hungering Destroyer",
-		[303550] = "Tideshaper Korvess",
-		[272834] = "Bilge Rat Pillager",
-		[221771] = 10,
-		[326076] = 1,
-		[287169] = "Sister Katherine",
 		[193534] = 3,
 		[326092] = "Spinemaw Reaver",
-		[264153] = "Unknown",
+		[285118] = "Laminaria",
+		[116858] = 9,
+		[315392] = 2,
+		[257260] = "Thornguard",
+		[228581] = 6,
+		[205032] = 8,
+		[335882] = "Fen Hatchling",
+		[307645] = "Vexiona",
+		[334266] = "Hungering Destroyer",
+		[120954] = 10,
+		[210152] = 12,
+		[310403] = "[*] Devouring Frenzy",
+		[326076] = 1,
+		[328124] = "Undying Stonefiend",
+		[188449] = "Fel Scorcher",
+		[342494] = "Manifestation of Pride",
+		[2050] = 5,
 		[328125] = "Undying Stonefiend <Echelon>",
 		[210153] = 12,
-		[19236] = 5,
+		[260323] = "Mogul Razdunk",
 		[228583] = 6,
 		[328126] = 10,
 		[289219] = "Jaina's Tide Elemental",
-		[227578] = "Lady Catriona Von'Indi",
-		[309713] = "Basher Tentacle",
+		[310402] = "[*] Devouring Frenzy",
+		[327619] = "Waltzing Venthyr",
 		[278981] = 4,
 		[289220] = "Jaina's Tide Elemental",
 		[48707] = 6,
-		[285125] = "Laminaria",
+		[309698] = "Basher Tentacle",
 		[328128] = 7,
-		[297412] = 5,
+		[289221] = "[*] Heart of Frost",
 		[283078] = "Grong",
 		[317890] = "Crimson Assassin",
 		[319938] = "[*] Disease Cloud",
 		[210155] = 12,
 		[324034] = 5,
 		[236776] = 3,
-		[267402] = 12,
-		[342386] = 5,
-		[306656] = "Vez'okk the Lightless",
-		[278999] = 1,
+		[272679] = 3,
+		[176718] = "Rastari Marksman",
+		[294860] = "Inconspicuous Plant",
+		[311767] = "Darkwing Gargoyle",
 		[295367] = 7,
-		[230401] = 1,
-		[274373] = 6,
-		[309702] = "Basher Tentacle",
+		[273541] = 2,
+		[279684] = 8,
+		[342466] = "Manifestation of Pride",
 		[319941] = "Echelon",
 		[313798] = "Abyssal Watcher",
 		[256231] = 8,
-		[91776] = "Plagueravager <Moonßlight>",
-		[294860] = "Inconspicuous Plant",
-		[310403] = "[*] Devouring Frenzy",
+		[317894] = "Stone Legion Nightblade",
+		[193530] = 3,
+		[163073] = 12,
 		[315847] = 1,
 		[309704] = "[*] Caustic Coating",
-		[327619] = "Waltzing Venthyr",
+		[294856] = "[*] Unstable Mixture",
 		[281036] = 3,
-		[208097] = 8,
-		[193530] = 3,
+		[296065] = 5,
+		[286680] = "[*] Roiling Tides",
 		[12051] = 8,
 		[264655] = "Infected Peasant",
-		[310402] = "[*] Devouring Frenzy",
-		[246852] = 3,
+		[300160] = "Heavy Scrapbot",
+		[227578] = "Lady Catriona Von'Indi",
 		[328136] = 7,
 		[289229] = "Ancestral Avenger",
 		[332232] = "Sentient Oil",
-		[268230] = "Ashvane Deckhand",
+		[320637] = "Blightbone",
 		[303564] = 12,
 		[289230] = "Ancestral Avenger",
-		[176718] = "Rastari Marksman",
-		[326090] = "Spinemaw Reaver",
-		[295374] = 12,
+		[212552] = 6,
+		[93825] = 3,
+		[287183] = "[*] Voltaic Flash",
 		[321995] = 6,
 		[332234] = "Sentient Oil",
-		[340356] = "Pestilence Slime",
+		[300159] = "Heavy Scrapbot",
 		[295375] = 12,
-		[333100] = 8,
+		[330875] = "Nefarious Darkspeaker",
 		[324044] = "Halkias",
 		[171253] = 8,
 		[295376] = 7,
-		[273541] = 2,
+		[303185] = "Azsh'ari Stormbinder",
 		[332236] = "Sentient Oil",
 		[268756] = 4,
 		[303568] = 12,
-		[279684] = 8,
+		[334970] = "Mueh'zala",
 		[324046] = "Oryphrion",
 		[204018] = 2,
 		[295378] = 1,
 		[321999] = "Pestilence Slime",
 		[324047] = "Millificent Manastorm",
-		[257260] = "Thornguard",
+		[309713] = "Basher Tentacle",
 		[303570] = 12,
 		[289236] = "Echo of Akunda <Akunda the Devout>",
 		[299475] = "Scraphound",
 		[204019] = 2,
-		[77451] = 7,
-		[292903] = "Empowered Mawsworn Guard",
+		[274430] = 2,
+		[315878] = "Fury of N'Zoth",
 		[315858] = 12,
 		[58180] = 11,
 		[303572] = 12,
@@ -7014,40 +7038,40 @@ _detalhes_global = {
 		[332241] = "[*] Collapsing Foundation",
 		[93827] = 6,
 		[328146] = "Carrion Worm",
-		[213981] = 4,
-		[258627] = "Earthrager",
-		[317923] = "General Kaal",
-		[300160] = "Heavy Scrapbot",
+		[317376] = 5,
+		[310396] = "Drest'agath",
+		[291015] = 8,
+		[311323] = "Cultist Executioner",
 		[264667] = 3,
 		[260334] = "Cragmaw the Infested",
 		[204021] = 12,
 		[344530] = 5,
 		[289241] = 2,
 		[315862] = "Thrashing Tentacle",
-		[315305] = "[*] Forbidden Mana",
+		[296061] = 12,
 		[279003] = "Dark Iron Vanguard",
 		[338388] = 5,
-		[320637] = "Blightbone",
+		[91778] = "Plagueravager <Moonßlight>",
 		[93828] = 12,
-		[204361] = 7,
-		[300159] = "Heavy Scrapbot",
-		[330875] = "Nefarious Darkspeaker",
+		[288800] = 8,
+		[303028] = 10,
+		[268230] = "Ashvane Deckhand",
 		[8042] = 7,
 		[295387] = 1,
-		[272581] = "Bilge Rat Tempest",
+		[264211] = 10,
 		[274910] = 5,
 		[228596] = 8,
-		[334970] = "Mueh'zala",
-		[258133] = "Bilge Rat Looter",
-		[311323] = "Cultist Executioner",
-		[186387] = 1,
+		[105771] = 1,
+		[262115] = 1,
+		[77451] = 7,
+		[306295] = "[*] Forbidden Mana",
 		[303580] = 12,
 		[305628] = 10,
-		[274912] = 10,
+		[243955] = 1,
 		[326106] = 5,
-		[310396] = "Drest'agath",
-		[278931] = 9,
-		[170869] = 8,
+		[337824] = 2,
+		[70447] = "Volatile Ooze",
+		[255909] = 4,
 		[334298] = 9,
 		[184571] = "Felfire Demolisher",
 		[193786] = 7,
@@ -7055,1070 +7079,1070 @@ _detalhes_global = {
 		[228598] = 8,
 		[311774] = "Darkwing Gargoyle",
 		[322013] = 10,
-		[296061] = 12,
-		[333729] = "Risen Bonesoldier",
-		[339886] = "[*] Feast on Anima",
-		[282559] = 5,
-		[313253] = "Wrathion",
+		[274369] = 5,
+		[298103] = "Orgozoa",
+		[289914] = "Vessel of Bwonsamdi",
+		[268311] = 12,
+		[337510] = 5,
 		[93830] = 8,
 		[213241] = 12,
 		[322015] = 6,
 		[19750] = 2,
 		[268774] = 2,
-		[323236] = "Lord Chamberlain",
-		[300155] = "Tirnenn Villager",
+		[268552] = 3,
+		[181832] = "Shadowfel Warden",
 		[340446] = "Manifestation of Envy <Inquisitor Sigar>",
-		[342494] = "Manifestation of Pride",
-		[268317] = "Drowned Depthbringer",
-		[270335] = 3,
-		[185358] = 3,
-		[299496] = "Pistonhead Blaster",
-		[70447] = "Volatile Ooze",
-		[6660] = "Arena Challenger",
-		[321927] = 5,
-		[228601] = 8,
+		[228600] = 8,
+		[282559] = 5,
+		[321923] = 11,
+		[33807] = 4,
+		[161354] = 8,
+		[279673] = 9,
+		[333729] = "Risen Bonesoldier",
+		[300530] = "K'thir Mindcarver",
+		[317923] = "General Kaal",
 		[303589] = "Coagulated Horror",
 		[272873] = 11,
 		[198909] = 10,
-		[115203] = 10,
+		[339886] = "[*] Feast on Anima",
 		[184575] = 2,
 		[272874] = "Ashvane Commander",
 		[324068] = 9,
-		[289914] = "Vessel of Bwonsamdi",
+		[69934] = "Unknown",
 		[270827] = 11,
-		[222031] = 12,
-		[315878] = "Fury of N'Zoth",
+		[136] = 3,
+		[299496] = "Pistonhead Blaster",
 		[232698] = 5,
-		[268311] = 12,
-		[213995] = 4,
+		[267385] = "Tentacle",
+		[314483] = "Samh'rek, Beckoner of Chaos",
 		[299497] = "Pistonhead Blaster",
-		[306295] = "[*] Forbidden Mana",
+		[187074] = "Hulking Berserker",
 		[344548] = 7,
-		[264689] = 4,
+		[334960] = "Margore",
 		[299498] = "Mechagon Trooper",
-		[264211] = 10,
-		[222026] = 6,
+		[325552] = "Domina Venomblade",
+		[258058] = "Silt Crab",
 		[338406] = "Suppressor Xelors",
-		[298103] = "Orgozoa",
-		[279673] = 9,
+		[185358] = 3,
+		[335150] = 5,
 		[98440] = 4,
 		[66188] = 6,
 		[324073] = 4,
-		[65917] = 5,
-		[22568] = 11,
+		[260668] = "Gilded Priestess",
+		[327701] = 6,
 		[330217] = "Remornia",
-		[341095] = 6,
+		[284596] = "Anointed Disciple",
 		[187650] = 3,
 		[328170] = "Chamber Sentinel",
-		[69934] = "Unknown",
+		[310385] = "[*] Acid Spray",
 		[299502] = "Mechagon Trooper",
-		[284596] = "Anointed Disciple",
-		[267385] = "Tentacle",
-		[314483] = "Samh'rek, Beckoner of Chaos",
-		[121820] = 12,
-		[334960] = "Margore",
-		[327694] = 5,
+		[203794] = 12,
+		[273525] = 9,
+		[265888] = 3,
+		[315305] = "[*] Forbidden Mana",
+		[300145] = 12,
+		[54680] = "Tinyarms <Imdoomed-Azgalor>",
 		[338411] = 11,
+		[306289] = "Wrathion",
 		[264694] = "Raal the Gluttonous",
-		[303276] = "Bound Storm",
 		[143625] = 7,
 		[264693] = "Raal the Gluttonous",
-		[303028] = 10,
-		[260668] = "Gilded Priestess",
+		[324717] = 10,
+		[280602] = "Mech Jockey",
 		[279028] = 7,
 		[111240] = 4,
 		[324079] = "Mordretha, the Endless Empress",
 		[317936] = "Forsworn Mender",
 		[279029] = 7,
 		[193796] = 7,
-		[88082] = 8,
-		[278444] = "Devouring Maggot",
+		[315306] = "[*] Forbidden Mana",
+		[335805] = "[*] Archon's Bastion",
 		[328176] = "Fungi Stormer",
-		[310385] = "[*] Acid Spray",
-		[44614] = 8,
+		[257692] = "[*] Tiki Blaze",
+		[333732] = 11,
 		[317938] = 12,
 		[328177] = "Fungi Stormer",
 		[272888] = "Ashvane Destroyer",
-		[306289] = "Wrathion",
-		[336372] = 5,
+		[278444] = "Devouring Maggot",
 		[317349] = 1,
+		[305496] = 11,
 		[264698] = "Raal the Gluttonous",
-		[300145] = 12,
+		[255546] = 4,
 		[334322] = "Stitchflesh's Creation",
 		[295415] = "Abyssal Commander Sivara",
-		[54680] = "Tinyarms <Imdoomed-Azgalor>",
-		[295417] = "Abyssal Commander Sivara",
+		[201846] = 7,
+		[321442] = 3,
 		[285177] = "Lady Jaina Proudmoore",
 		[328180] = "Plaguebinder",
-		[42650] = 6,
+		[341095] = 6,
 		[324085] = "Dessia the Decapitator",
 		[334324] = "Head Custodian Javlin",
-		[184584] = "Gorebound Crone",
-		[324717] = 10,
+		[336372] = 5,
+		[1459] = 8,
 		[324086] = 4,
 		[317943] = "Forsworn Vanguard",
 		[63560] = 6,
 		[272893] = 9,
 		[274941] = "Bilge Rat Buccaneer",
 		[334326] = "Head Custodian Javlin",
-		[312810] = "[*] Interconnectedness",
-		[262652] = 7,
-		[342132] = 5,
-		[334341] = 8,
+		[264712] = "[*] Rotten Expulsion",
+		[344572] = "Clefthoof <Aethael>",
+		[300140] = 2,
+		[216331] = 2,
 		[98444] = 11,
 		[289277] = 12,
 		[324089] = 4,
-		[316522] = 5,
-		[300140] = 2,
-		[272903] = 2,
+		[313890] = 5,
+		[22568] = 11,
+		[223498] = 1,
 		[324090] = "Dealer Xy'exa",
 		[334329] = "Head Custodian Javlin",
 		[118922] = 3,
 		[255234] = 2,
-		[216331] = 2,
+		[147732] = 7,
 		[52042] = "Healing Stream Totem <Healingem-BleedingHollow>",
-		[255546] = 4,
-		[303623] = "Darkweaver Kar'dress",
-		[324092] = 6,
 		[313863] = 10,
+		[223500] = 11,
+		[324092] = 6,
+		[313865] = 10,
 		[319997] = "Shambling Arbalest",
 		[305663] = "Maut",
-		[300144] = 1,
+		[64844] = 5,
 		[216328] = 2,
 		[279043] = 4,
-		[285195] = "[*] Deathly Withering",
+		[31821] = 2,
 		[93326] = 9,
-		[1459] = 8,
+		[320009] = 11,
 		[131347] = 12,
-		[320614] = "Carrion Worm",
+		[66196] = 6,
 		[340477] = "Lady Inerva Darkvein",
 		[257284] = 3,
-		[291949] = "K.U.-J.0.",
+		[303630] = "Darkweaver Kar'dress",
 		[201995] = 6,
-		[223500] = 11,
-		[313865] = 10,
+		[271468] = 12,
+		[289297] = "Spark Bot",
 		[303619] = "Horrific Shrieker",
-		[264712] = "[*] Rotten Expulsion",
+		[272903] = 2,
 		[223497] = 11,
 		[285190] = "Bwonsamdi",
-		[320009] = 11,
-		[64844] = 5,
+		[315932] = "Iron-Willed Enforcer",
+		[328205] = "Forsworn Helion",
 		[299525] = "Pistonhead Blaster",
-		[303630] = "Darkweaver Kar'dress",
+		[338446] = 2,
 		[303621] = 12,
 		[313860] = 10,
 		[324099] = 7,
 		[268810] = "Test Subject",
-		[313870] = 8,
-		[313861] = 10,
-		[6795] = 11,
-		[303633] = "Darkweaver Kar'dress",
-		[147732] = 7,
-		[328217] = "Forsworn Helion",
-		[31821] = 2,
 		[196884] = 7,
-		[51533] = 7,
+		[313861] = 10,
+		[66198] = 6,
+		[295445] = "Tank Buster MK1",
+		[303623] = "Darkweaver Kar'dress",
+		[263275] = "Taskmaster Askari",
+		[287255] = 11,
+		[336417] = "Unstable Larva",
+		[102547] = 11,
 		[305672] = "Alleria Windrunner",
 		[291338] = 5,
-		[317959] = "Forsworn Castigator",
+		[334341] = 8,
 		[102543] = 11,
-		[197908] = 10,
+		[271465] = 12,
 		[324103] = "General Kaal",
-		[271468] = 12,
+		[315947] = "Fury of N'Zoth",
 		[320008] = "Millhouse Manastorm",
 		[338438] = 6,
-		[295445] = "Tank Buster MK1",
-		[328210] = 5,
+		[91797] = "Stonebender <Moonßlight>",
+		[322658] = "Tred'ova",
 		[303627] = "Darkweaver Kar'dress",
-		[66196] = 6,
+		[313866] = 10,
 		[332296] = "Hungering Destroyer",
-		[264735] = 3,
+		[303644] = 5,
 		[258313] = "Ashvane Officer",
-		[210191] = 2,
-		[34897] = 9,
+		[313867] = 8,
+		[332313] = "Domina Venomblade",
 		[317963] = "Forsworn Castigator",
 		[196881] = 7,
 		[313868] = 8,
 		[111759] = 5,
-		[91797] = "Stonebender <Moonßlight>",
+		[317999] = "[*] Gaze from Beyond",
 		[320012] = "Amarth",
-		[303644] = 5,
+		[157982] = 11,
 		[299535] = "Pistonhead Blaster",
 		[309774] = 3,
 		[328204] = 2,
-		[289297] = "Spark Bot",
-		[260369] = 5,
-		[263275] = "Taskmaster Askari",
-		[328205] = "Forsworn Helion",
+		[313870] = 8,
+		[260372] = "Venture Co. Skyscorcher",
+		[334364] = 5,
+		[6795] = 11,
 		[289298] = 5,
 		[1715] = 1,
-		[283167] = 6,
+		[197916] = 10,
 		[328206] = "Echelon",
-		[332314] = "Assassin Stalker",
-		[332329] = "Atal'ai Devoted",
+		[322648] = "[*] Mind Link",
+		[89751] = "Skurikgoril <Judaasx>",
 		[257292] = "Kul Tiran Vanguard",
 		[336398] = "Pestering Fiend",
-		[338446] = 2,
+		[64843] = 5,
 		[260364] = 5,
-		[271465] = 12,
+		[334942] = "Margore",
 		[295444] = "Za'qul",
-		[66198] = 6,
-		[313889] = 5,
+		[197908] = 10,
+		[291939] = "[*] Giga-Zap",
 		[309779] = 5,
 		[258317] = "Ashvane Jailer",
-		[194844] = 6,
+		[306273] = 7,
 		[274968] = "Howling Spectre",
 		[342544] = "General Grashaal",
-		[287255] = 11,
+		[328210] = 5,
 		[338449] = 10,
 		[119952] = 2,
-		[322658] = "Tred'ova",
-		[324128] = 6,
-		[197916] = 10,
+		[346654] = "Baroness Frieda",
+		[310361] = "Drest'agath",
+		[320035] = 8,
 		[266779] = 3,
 		[228626] = 11,
 		[328212] = "[*] Razorshard Ice",
-		[116888] = 6,
-		[91800] = "Marrowthief <Angronn-Kil'jaeden>",
-		[320035] = 8,
+		[322654] = "Tred'ova",
 		[32297] = 1,
-		[303657] = "Queen Azshara",
-		[54861] = 7,
+		[289324] = 10,
+		[324701] = 12,
+		[254232] = 5,
+		[315927] = "N'Zoth the Corruptor",
 		[197919] = 10,
 		[254224] = 5,
 		[264734] = "Raal the Gluttonous",
 		[157980] = 8,
-		[3110] = "Kepnuk <Forcepush-Sargeras>",
-		[334942] = "Margore",
-		[289308] = 8,
-		[291939] = "[*] Giga-Zap",
-		[306273] = 7,
+		[334939] = "Margore",
+		[334377] = "Research Scribe",
+		[264735] = 3,
+		[328231] = 3,
+		[334378] = "Research Scribe",
 		[328216] = 4,
-		[315947] = "Fury of N'Zoth",
+		[8936] = 11,
 		[157981] = 8,
 		[49998] = 6,
-		[160029] = 11,
+		[328217] = "Forsworn Helion",
 		[338456] = "Kyrian Stitchwerk",
-		[332313] = "Domina Venomblade",
-		[277041] = "Prisonbreak Cursewalker",
-		[289349] = 6,
-		[322654] = "Tred'ova",
-		[315932] = "Iron-Willed Enforcer",
+		[260369] = 5,
+		[320596] = "Blightbone",
+		[195125] = 3,
+		[257582] = "Earthrager",
+		[332314] = "Assassin Stalker",
 		[326171] = "Mueh'zala",
 		[17962] = 9,
-		[334377] = "Research Scribe",
+		[342618] = "Abomination",
 		[332315] = 1,
-		[263262] = "Shalebiter",
-		[324701] = 12,
+		[313923] = 1,
+		[320050] = "Xav the Unfallen",
 		[330268] = 5,
 		[324125] = 5,
-		[334364] = 5,
-		[289350] = "Akunda the Devout",
+		[268836] = 2,
+		[271456] = "Mogul Razdunk",
 		[346651] = "Baroness Frieda",
 		[324126] = 5,
 		[261395] = 5,
-		[227616] = "Lady Keira Berrybuck",
-		[334939] = "Margore",
-		[332318] = "Sludgefist",
-		[204066] = 12,
-		[270886] = "Sentinel Shard",
-		[272934] = 8,
-		[260372] = "Venture Co. Skyscorcher",
-		[317985] = "Forsworn Squad-Leader",
-		[264761] = 10,
-		[346654] = "Baroness Frieda",
-		[57934] = 4,
-		[272979] = 2,
-		[8936] = 11,
-		[193078] = "SI:7 Light-Hunter",
-		[50769] = 11,
-		[264764] = 12,
-		[336417] = "Unstable Larva",
-		[313892] = 5,
-		[270925] = 11,
-		[348722] = 10,
-		[308308] = "Fallen Heartpiercer",
-		[346657] = "Baroness Frieda",
-		[271456] = "Mogul Razdunk",
-		[332344] = 5,
-		[22570] = 11,
+		[322098] = 5,
 		[316506] = "Aqir Heartpiercer",
-		[301629] = "Mechagon Renormalizer",
+		[332318] = "Sludgefist",
+		[50769] = 11,
+		[270886] = "Sentinel Shard",
+		[313889] = 5,
+		[194844] = 6,
+		[317985] = "Forsworn Squad-Leader",
+		[287286] = 2,
+		[10326] = 2,
+		[57934] = 4,
+		[324146] = "Ventunax",
+		[275540] = 1,
+		[314457] = "Leeching Parasite",
+		[287836] = 10,
+		[334934] = 1,
+		[34897] = 9,
+		[313892] = 5,
+		[315961] = 1,
+		[324149] = 3,
+		[287835] = 10,
+		[346657] = "Baroness Frieda",
+		[334926] = "Rigged Plagueborer",
+		[267357] = "Hired Assassin",
+		[22570] = 11,
+		[196911] = 4,
+		[328789] = "Edge of Annihilation",
 		[277035] = "Prisonbreak Mauler",
 		[336420] = "Lakesis",
 		[272940] = 4,
-		[334926] = "Rigged Plagueborer",
-		[277060] = "Prisonbreak Cursewalker",
-		[254232] = 5,
+		[332344] = 5,
+		[228645] = 6,
+		[303657] = "Queen Azshara",
 		[70299] = "Darkfallen Archmage",
-		[204336] = 7,
-		[322648] = "[*] Mind Link",
+		[316493] = 3,
+		[303678] = "Lumbering Creation",
 		[311849] = "Living Miasma",
 		[322088] = "Kul'tharok",
-		[287836] = 10,
+		[268899] = 2,
 		[89753] = "Skurikgoril <Judaasx>",
-		[310361] = "Drest'agath",
-		[338471] = "Kryxis the Voracious",
-		[274991] = "Viq'Goth",
-		[277039] = "Prisonbreak Packleader",
 		[346683] = 5,
-		[178741] = 12,
-		[93337] = 2,
+		[338471] = "Kryxis the Voracious",
+		[3110] = "Kepnuk <Forcepush-Sargeras>",
+		[277039] = "Prisonbreak Packleader",
+		[322125] = 10,
+		[296023] = "Lord of Locks",
+		[332329] = "Atal'ai Devoted",
 		[277040] = "Escaped Ritualist",
-		[287835] = 10,
-		[346686] = 5,
-		[267357] = "Hired Assassin",
-		[334378] = "Research Scribe",
+		[302166] = "HK-8 Aerial Oppression Unit",
+		[77472] = 7,
+		[320063] = "Dessia the Decapitator",
+		[277041] = "Prisonbreak Cursewalker",
 		[287280] = 2,
 		[346665] = 12,
-		[299588] = "Pistonhead Mechanic",
+		[296022] = "[*] Manic Dread",
 		[204065] = 5,
-		[328789] = "Edge of Annihilation",
-		[202028] = 11,
+		[334929] = "General Kaal",
+		[308308] = "Fallen Heartpiercer",
 		[324141] = "[*] Dark Bolt",
-		[268852] = 12,
+		[277043] = "Prisonbreak Mauler",
 		[328237] = "Crystal of Phantasms",
 		[264757] = "Elder Leaxa",
-		[187694] = "Eye of Anzu",
+		[132403] = 2,
 		[334381] = "Research Scribe",
 		[110744] = 5,
-		[228649] = 10,
-		[338507] = 7,
+		[346698] = "Castellan Niklaus",
+		[346686] = 5,
 		[268854] = 1,
 		[233759] = 10,
-		[268899] = 2,
-		[332335] = "Son of Hakkar",
-		[295495] = 2,
+		[146739] = 9,
+		[227616] = "Lady Keira Berrybuck",
+		[347214] = 1,
 		[287285] = 2,
 		[264760] = 11,
 		[315954] = "Fury of N'Zoth",
 		[268856] = 1,
-		[287286] = 2,
-		[322098] = 5,
-		[324146] = "Ventunax",
-		[336451] = "Defender of Many Eyes",
+		[116888] = 6,
+		[264761] = 10,
+		[186662] = "Felborne Overfiend",
+		[289350] = "Akunda the Devout",
 		[110745] = 5,
 		[289335] = 11,
-		[296023] = "Lord of Locks",
+		[269399] = "Vol'zith the Whisperer",
 		[71326] = "Nerub'ar Webweaver",
-		[257582] = "Earthrager",
-		[346690] = "Castellan Niklaus",
+		[295495] = 2,
+		[314449] = "Living Blood",
 		[324148] = "Ventunax",
 		[204069] = 12,
 		[295480] = 10,
 		[322101] = 10,
-		[324149] = 3,
-		[334404] = "Huntsman Altimor",
+		[348722] = 10,
+		[296019] = "Lord of Locks",
 		[303672] = "Queen Azshara",
-		[296022] = "[*] Manic Dread",
-		[334929] = "General Kaal",
-		[195125] = 3,
-		[117405] = 3,
-		[316493] = 3,
+		[257580] = "The Sand Queen",
+		[316496] = "Aqir Heartpiercer",
+		[93985] = 11,
+		[296018] = "Za'qul",
+		[336451] = "Defender of Many Eyes",
 		[340533] = "[*] Arcane Vulnerability",
-		[196911] = 4,
-		[281178] = 2,
+		[291922] = "K.U.-J.0.",
+		[117405] = 3,
 		[305722] = "Maut",
-		[315961] = 1,
-		[347214] = 1,
+		[260384] = 1,
+		[334404] = "Huntsman Altimor",
 		[328248] = "Vile Occultist",
 		[222501] = "7th Legion Marine",
 		[157997] = 8,
 		[309819] = "Alleria Windrunner",
-		[346694] = "Dutiful Attendant",
-		[269399] = "Vol'zith the Whisperer",
+		[270925] = 11,
+		[33110] = 5,
 		[324154] = "Ventunax",
 		[268865] = "Weapons Tester",
 		[287295] = "[*] Chilled",
 		[25771] = 2,
-		[111771] = 9,
-		[197937] = 5,
+		[307773] = "Maut",
+		[297560] = 1,
 		[287296] = "[*] Blizzard",
-		[314449] = "Living Blood",
-		[296019] = "Lord of Locks",
-		[326735] = 2,
-		[316496] = "Aqir Heartpiercer",
+		[281178] = 2,
+		[313945] = "Aqir Crusher",
+		[236077] = 1,
+		[197937] = 5,
 		[322109] = 10,
-		[310348] = "Tentacle of Drest'agath",
+		[6572] = 1,
 		[285250] = "Kul Tiran Strongarm",
 		[336444] = "Forsworn Helion",
 		[264773] = "[*] Choking Brine",
-		[296018] = "Za'qul",
-		[77472] = 7,
-		[320063] = "Dessia the Decapitator",
+		[340554] = 5,
+		[277060] = "Prisonbreak Cursewalker",
+		[328254] = "Pestering Fiend",
 		[264774] = 8,
-		[289360] = "Div'yane",
+		[289362] = 5,
 		[277061] = "Prisonbreak Cursewalker",
-		[275540] = 1,
+		[338507] = 7,
 		[289348] = 6,
 		[275014] = "Viq'Goth",
-		[309853] = "Dark Manifestation <[*] Dark Manifestation>",
+		[316019] = 11,
 		[336447] = "Forsworn Squad-Leader",
-		[115356] = 7,
-		[324161] = 5,
+		[289349] = 6,
+		[299588] = "Pistonhead Mechanic",
 		[91807] = "Plagueravager <Moonßlight>",
 		[50259] = 11,
-		[313923] = 1,
+		[202028] = 11,
 		[340544] = "Spinemaw Staghorn",
-		[146739] = 9,
+		[187694] = "Eye of Anzu",
 		[102558] = 12,
-		[289372] = "Echo of Kimbul <Div'yane>",
-		[322125] = 10,
-		[313935] = "Unknown <Aqir Swarmkeeper>",
+		[334921] = "Insatiable Brute",
+		[189999] = 5,
+		[5484] = 9,
 		[303686] = "Rak'sha the Swift",
 		[272970] = 8,
 		[340546] = 11,
-		[195901] = 7,
+		[313938] = "Aqir Crusher",
 		[320069] = "Dessia the Decapitator",
 		[115357] = 7,
-		[336463] = 6,
+		[298054] = "Lady Ashvane",
 		[5740] = 9,
-		[115360] = 7,
+		[328275] = 3,
 		[322118] = 10,
-		[178740] = 12,
+		[272986] = 12,
 		[268877] = 3,
 		[336453] = "Blightsmasher",
 		[313928] = "Acolyte of N'Zoth",
 		[207150] = 6,
-		[212283] = 4,
-		[320072] = "Decaying Flesh Giant",
-		[315987] = 3,
-		[289367] = 9,
+		[244015] = 10,
+		[303690] = "Rak'sha the Swift",
+		[132413] = 9,
+		[334919] = "[*] Petrifying Howl",
 		[204079] = 2,
-		[287320] = 6,
-		[33110] = 5,
-		[189999] = 5,
-		[123040] = 5,
-		[334921] = "Insatiable Brute",
-		[272987] = 12,
-		[346706] = "Castellan Niklaus",
+		[328276] = "Sire Denathrius",
+		[346694] = "Dutiful Attendant",
+		[330325] = 1,
+		[108194] = 6,
+		[334918] = "Insatiable Brute",
+		[268893] = 7,
+		[88741] = 2,
 		[187698] = 3,
 		[102560] = 11,
 		[132409] = 9,
-		[108194] = 6,
-		[305752] = 5,
-		[30283] = 9,
-		[6572] = 1,
-		[170293] = 9,
-		[307805] = "Maut",
+		[158014] = "Guardian of the Leaf",
 		[268898] = 2,
-		[346698] = "Castellan Niklaus",
-		[334919] = "[*] Petrifying Howl",
+		[291914] = "[*] Cutting Beam",
+		[289360] = "Div'yane",
+		[170293] = 9,
+		[332401] = 2,
+		[318046] = 5,
+		[272979] = 2,
+		[318534] = "Umbral Gatekeeper",
 		[326221] = "Mueh'zala",
-		[309854] = "Ra-den",
-		[289362] = 5,
+		[313951] = "Abyssal Watcher",
+		[313935] = "Unknown <Aqir Swarmkeeper>",
 		[340556] = 11,
-		[187707] = 3,
-		[251188] = "Toxic Saurid",
-		[334918] = "Insatiable Brute",
-		[268901] = 8,
-		[338525] = 11,
-		[176438] = 12,
-		[340592] = 5,
-		[114852] = 2,
+		[298056] = "Lady Ashvane",
+		[187708] = 3,
+		[328288] = "Forsworn Warden",
+		[195901] = 7,
+		[268905] = 4,
+		[303698] = 10,
+		[320580] = "Amarth",
+		[289384] = "Div'yane",
 		[268887] = 7,
 		[303699] = 10,
-		[313938] = "Aqir Crusher",
-		[291914] = "[*] Cutting Beam",
-		[326242] = "Globgrog",
+		[115360] = 7,
+		[212520] = 1,
+		[273481] = 2,
 		[344655] = "General Grashaal",
-		[165185] = 2,
-		[244015] = 10,
-		[318534] = "Umbral Gatekeeper",
+		[328757] = 3,
+		[315987] = 3,
+		[310340] = "Ka'zir",
 		[336465] = 10,
-		[132413] = 9,
+		[289367] = 9,
 		[87204] = 5,
 		[216371] = 2,
-		[328275] = 3,
+		[287320] = 6,
 		[330323] = 4,
-		[88744] = 3,
-		[298056] = "Lady Ashvane",
-		[328276] = "Sire Denathrius",
-		[297560] = 1,
-		[253239] = "Dazar'ai Juggernaut",
+		[303777] = "Eldritch Understudy",
+		[316007] = 11,
+		[123040] = 5,
+		[346706] = "Castellan Niklaus",
+		[31661] = 8,
 		[318038] = 7,
 		[344659] = 12,
-		[330325] = 1,
-		[320102] = 4,
+		[305752] = 5,
+		[320103] = "Unknown",
 		[77478] = 7,
-		[316007] = 11,
+		[69920] = "Unknown",
 		[305753] = 5,
-		[127140] = 8,
+		[320571] = "Zolramus Sorcerer",
 		[268894] = 9,
-		[143924] = 5,
-		[88741] = 2,
+		[330347] = "Forge Keeper",
+		[289372] = "Echo of Kimbul <Div'yane>",
 		[324184] = 10,
 		[285277] = "Kul Tiran Strongarm",
 		[344662] = 12,
 		[289373] = "Echo of Kimbul <Div'yane>",
-		[257337] = "Coin-Operated Crowd Pummeler",
+		[322154] = 5,
 		[268896] = "Lord Stormsong",
-		[305772] = 5,
+		[285311] = "Kul Tiran Stormbringer",
 		[185658] = "Felfire Artillery",
-		[273481] = 2,
-		[330347] = "Forge Keeper",
+		[259387] = 3,
+		[296003] = 7,
 		[344664] = 12,
 		[313948] = 7,
-		[158014] = "Guardian of the Leaf",
-		[285280] = "Kul Tiran Tideweaver",
-		[310340] = "Ka'zir",
+		[307805] = "Maut",
+		[309853] = "Dark Manifestation <[*] Dark Manifestation>",
+		[297586] = "[*] --unknown spell--",
 		[251187] = "Toxic Saurid",
 		[260402] = 3,
-		[342618] = "Abomination",
-		[346732] = 5,
-		[101033] = 7,
-		[332397] = 11,
+		[309854] = "Ra-den",
+		[320114] = "Xav the Unfallen",
+		[267325] = 4,
+		[304193] = "Azsh'ari Stormcaller",
 		[334428] = 5,
 		[328285] = "Honored Duelist",
-		[313951] = "Abyssal Watcher",
+		[251188] = "Toxic Saurid",
 		[307808] = "Fury of N'Zoth",
-		[187708] = 3,
-		[302143] = 12,
-		[330334] = 1,
+		[268901] = 8,
+		[204330] = 7,
+		[338525] = 11,
 		[307809] = "Fury of N'Zoth",
-		[212295] = 9,
+		[46739] = 10,
 		[328287] = "Honored Duelist",
-		[307828] = "Vexiona",
-		[101546] = 10,
+		[243237] = "[*] Burst",
+		[287810] = 11,
 		[261428] = "Sergeant Bainbridge",
-		[328288] = "Forsworn Warden",
-		[285305] = "Kul Tiran Tideweaver",
+		[114852] = 2,
+		[261437] = 6,
 		[281209] = 6,
 		[268904] = 4,
 		[328289] = "Forsworn Warden",
 		[313955] = "Sylvanas Windrunner",
 		[101542] = 1,
-		[268905] = 4,
-		[169291] = 5,
-		[297574] = "Oblivion Elemental",
-		[296003] = 7,
+		[212283] = 4,
 		[307832] = "Fury of N'Zoth",
-		[301689] = "Anodized Coilbearer",
-		[289384] = "Div'yane",
-		[117418] = 10,
+		[297574] = "Oblivion Elemental",
+		[261439] = "Lord Waycrest",
+		[302143] = 12,
+		[169291] = 5,
+		[88744] = 3,
+		[287802] = 7,
 		[268907] = 12,
-		[304193] = "Azsh'ari Stormcaller",
-		[204330] = 7,
+		[313977] = "Abyssal Watcher",
+		[206151] = 7,
 		[299624] = 5,
-		[46739] = 10,
-		[287338] = 6,
-		[313959] = "[*] Scorching Blister",
+		[324667] = "Globgrog",
+		[320102] = 4,
+		[281195] = 3,
 		[252216] = 11,
 		[85673] = 2,
-		[320103] = "Unknown",
+		[127140] = 8,
 		[289387] = "[*] Freezing Blood",
 		[190784] = 2,
 		[285292] = "[*] Frozen Tides",
-		[328295] = "Forsworn Warden",
+		[287340] = 5,
 		[313961] = 5,
 		[316009] = "Spellbound Ritualist",
-		[243237] = "[*] Burst",
-		[287810] = 11,
-		[309882] = "Cultist Slavedriver",
+		[117418] = 10,
+		[295998] = 10,
+		[302141] = "Queen Azshara",
 		[207167] = 6,
 		[108199] = 6,
 		[279151] = 9,
-		[322154] = 5,
+		[305772] = 5,
 		[324202] = 2,
 		[342632] = 5,
 		[279152] = 12,
 		[273009] = 4,
 		[307821] = "Maut",
-		[289421] = "Echo of Pa'ku <Kal'ia Pa'kuaya>",
+		[340600] = 4,
 		[279153] = 1,
 		[88746] = 3,
 		[227646] = "Baron Rafe Dreuger",
-		[324662] = "Kin-Tara",
-		[295536] = "HK-8 Aerial Oppression Unit",
+		[187722] = "Siegeworks Technician",
+		[320109] = 10,
 		[313966] = "Writhing Horror",
 		[324205] = "Ventunax",
 		[334444] = 12,
-		[320125] = 7,
-		[259387] = 3,
+		[295997] = 10,
+		[101033] = 7,
 		[101545] = 10,
-		[212520] = 1,
+		[316030] = "Shad'har the Insatiable",
 		[303729] = "Rak'sha the Swift",
-		[297586] = "[*] --unknown spell--",
-		[289409] = "Blingtron MK2",
-		[340603] = 4,
-		[301712] = "Mechagon Prowler",
+		[346732] = 5,
+		[207399] = 7,
+		[330364] = 8,
+		[330367] = 4,
 		[259388] = 3,
 		[20271] = 2,
 		[154953] = 4,
-		[305794] = "Queen Azshara",
-		[324667] = "Globgrog",
-		[299653] = 2,
-		[295998] = 10,
-		[320114] = "Xav the Unfallen",
-		[302141] = "Queen Azshara",
-		[316019] = 11,
+		[324226] = 10,
+		[77489] = 5,
+		[268956] = 5,
+		[196941] = 2,
+		[328305] = 4,
+		[48018] = 9,
+		[101546] = 10,
 		[301685] = 5,
 		[328306] = 4,
-		[285319] = "Kul Tiran Stormbringer",
-		[328322] = "Undying Stonefiend <Echelon>",
-		[295997] = 10,
-		[261446] = "Lady Waycrest",
+		[111898] = 9,
+		[285322] = "Kul Tiran Stormbringer",
+		[53595] = 2,
+		[330373] = 3,
 		[88748] = 9,
-		[207399] = 7,
+		[324662] = "Kin-Tara",
 		[261438] = "Lord Waycrest",
 		[336499] = "Mistcaller",
 		[281210] = 6,
 		[182600] = "[*] Fel Fire",
-		[289417] = "Yoru'cha",
-		[328325] = 11,
+		[313994] = "Cultist Sycophant",
+		[279611] = 3,
 		[193863] = 5,
 		[227651] = "Baron Rafe Dreuger",
-		[261439] = "Lord Waycrest",
-		[289418] = "Echo of Gonk <Yoru'cha>",
+		[301689] = "Anodized Coilbearer",
+		[108211] = 4,
 		[322167] = 9,
-		[334488] = "Surgeon Stitchflesh",
+		[318108] = 12,
 		[326263] = "Tred'ova",
 		[320120] = "Paceran the Virulent",
 		[88749] = 9,
-		[285344] = "The Platinum Pummeler",
-		[261440] = "Lord Waycrest",
-		[184658] = "Demon Portal",
-		[206151] = 7,
-		[48018] = 9,
+		[330376] = 11,
+		[309882] = "Cultist Slavedriver",
+		[334496] = 10,
+		[322169] = "Vestige of Doubt",
+		[328331] = "Forsworn Justicar",
 		[301692] = "Anodized Coilbearer",
-		[111898] = 9,
+		[308278] = "Alleria Windrunner",
 		[322170] = 9,
-		[340600] = 4,
-		[187722] = "Siegeworks Technician",
-		[205146] = 9,
-		[191837] = 10,
+		[332409] = 2,
+		[212295] = 9,
+		[330404] = "Plagueroc",
+		[346762] = "Baroness Frieda",
 		[340601] = 4,
 		[8921] = 11,
-		[328331] = "Forsworn Justicar",
+		[326707] = "Sire Denathrius",
 		[330363] = 4,
 		[324220] = 8,
-		[46738] = 10,
-		[295552] = "HK-8 Aerial Oppression Unit",
-		[330364] = 8,
-		[316030] = "Shad'har the Insatiable",
+		[301712] = "Mechagon Prowler",
+		[320125] = 7,
+		[289409] = "Blingtron MK2",
+		[340603] = 4,
 		[318078] = "Living Miasma",
-		[330380] = 8,
-		[259395] = 4,
+		[334476] = "Surgeon Stitchflesh",
+		[305792] = "Queen Azshara",
 		[316031] = "Shad'har the Insatiable",
-		[287802] = 7,
+		[191840] = 10,
 		[336509] = 5,
 		[330366] = 8,
-		[320142] = "Millhouse Manastorm",
-		[326271] = "Artificer Xy'mox",
 		[287379] = 1,
-		[330367] = 4,
-		[216413] = 2,
-		[285335] = "Coldheart Scout",
+		[326271] = "Artificer Xy'mox",
+		[314411] = "Voidweaver Mal'thir",
+		[305794] = "Queen Azshara",
+		[265273] = 9,
+		[71861] = "Blood-Queen Lana'thel",
 		[287365] = "[*] Searing Pitch",
 		[330368] = 11,
-		[320147] = "Millificent Manastorm",
-		[308278] = "Alleria Windrunner",
+		[59996] = 2,
+		[320145] = "Millificent Manastorm",
 		[320130] = 11,
-		[196980] = 4,
-		[324226] = 10,
-		[77489] = 5,
-		[196941] = 2,
-		[70838] = 1,
-		[326707] = "Sire Denathrius",
-		[318102] = "Xav the Unfallen",
-		[340627] = "Rat of Unusual Size",
-		[289416] = "Yoru'cha",
-		[247121] = 12,
-		[187727] = 12,
-		[314411] = "Voidweaver Mal'thir",
-		[53595] = 2,
-		[108211] = 4,
-		[318086] = 2,
-		[303752] = "Squallbinder Mal'ur",
-		[330373] = 3,
-		[265273] = 9,
-		[261447] = "Lord Waycrest",
-		[158045] = "Guardian of the Leaf",
-		[289419] = "Yoru'cha",
-		[308265] = "Alx'kov the Infested",
-		[32175] = 7,
-		[475] = 8,
-		[289420] = "Kal'ia Pa'kuaya",
-		[314040] = 7,
-		[342662] = 5,
-		[303777] = "Eldritch Understudy",
-		[313994] = "Cultist Sycophant",
+		[285335] = "Coldheart Scout",
+		[299653] = 2,
+		[285319] = "Kul Tiran Stormbringer",
+		[328322] = "Undying Stonefiend <Echelon>",
+		[342675] = "Bone Magus",
 		[343086] = "General Kaal",
-		[326281] = "Tred'ova",
-		[303756] = "Frozen Sentry <Squallbinder Mal'ur>",
+		[314040] = 7,
+		[314008] = 2,
+		[289416] = "Yoru'cha",
+		[67767] = "Knight of the Ebon Blade",
+		[261446] = "Lady Waycrest",
+		[340631] = "Sewer Rat",
+		[289417] = "Yoru'cha",
+		[332836] = "Putrid Butcher",
+		[318086] = 2,
+		[328325] = 11,
+		[289418] = "Echo of Gonk <Yoru'cha>",
+		[334488] = "Surgeon Stitchflesh",
+		[261447] = "Lord Waycrest",
+		[328740] = "Risen Cultist",
+		[289419] = "Yoru'cha",
+		[307871] = 1,
+		[32175] = 7,
+		[326302] = "Artificer Xy'mox",
+		[289420] = "Kal'ia Pa'kuaya",
+		[279204] = 2,
+		[342662] = 5,
 		[322239] = "Malignant Spawn",
-		[316065] = "Ra-den",
-		[132467] = 10,
-		[334496] = 10,
-		[309961] = "Il'gynoth",
+		[289421] = "Echo of Pa'ku <Kal'ia Pa'kuaya>",
+		[344732] = 9,
+		[326281] = "Tred'ova",
+		[184658] = "Demon Portal",
+		[322240] = "Malignant Spawn",
+		[285350] = "Laminaria",
+		[339] = 11,
+		[216411] = 2,
+		[308270] = 10,
 		[299662] = 3,
-		[115989] = 6,
+		[322212] = "Vestige of Doubt",
 		[320140] = 10,
 		[210256] = 2,
-		[322212] = "Vestige of Doubt",
+		[334534] = "Research Scribe",
 		[36702] = 1,
 		[320141] = "Millhouse Manastorm",
-		[346762] = "Baroness Frieda",
+		[330380] = 8,
 		[299664] = 2,
-		[334476] = "Surgeon Stitchflesh",
-		[279187] = 7,
-		[97463] = 1,
-		[330404] = "Plagueroc",
-		[346788] = "Veteran Stoneguard",
-		[19505] = "Bheegrom <Delpix>",
-		[191840] = 10,
-		[314022] = 4,
+		[318094] = 4,
+		[320142] = "Millhouse Manastorm",
+		[19658] = "Bheegrom <Delpix>",
 		[334500] = "[*] Seismic Upheaval",
+		[320168] = "Millificent Manastorm",
+		[19505] = "Bheegrom <Delpix>",
+		[34914] = 5,
+		[340646] = "Carved Assistant",
+		[118038] = 1,
 		[320144] = "Millificent Manastorm",
-		[320171] = "Amarth",
+		[117526] = 3,
 		[340622] = "Rat of Unusual Size",
-		[109248] = 3,
-		[320145] = "Millificent Manastorm",
-		[289493] = "Blazing Fireguard",
+		[117014] = 7,
+		[344718] = "Reverberating Eruption Stalker",
+		[328365] = "Venomous Sniper",
 		[340623] = "Rat of Unusual Size",
-		[308270] = 10,
+		[328400] = "Brood Ambusher",
 		[184662] = 2,
 		[21169] = 7,
-		[34914] = 5,
+		[289493] = "Blazing Fireguard",
 		[268953] = 5,
 		[328338] = "Venomous Sniper",
-		[328365] = "Venomous Sniper",
-		[59996] = 2,
+		[326319] = "Drust Harvester",
+		[70838] = 1,
 		[268954] = 5,
 		[344721] = "[*] Echoing Annihilation",
-		[285362] = 5,
-		[344751] = "Unknown <Lyuna>",
+		[289496] = "Dark Iron Primalist",
+		[113942] = 4,
 		[268955] = 2,
-		[184693] = 5,
-		[71357] = "Frostwarden Handler",
+		[285362] = 5,
+		[344752] = "Void Lasher <Lyuna>",
 		[307863] = "Inquisitor Gnshal",
-		[342675] = "Bone Magus",
-		[67767] = "Knight of the Ebon Blade",
+		[318102] = "Xav the Unfallen",
+		[287386] = "Manceroy Flamefist",
 		[243025] = 1,
-		[345111] = 11,
+		[303799] = "Queen Azshara",
 		[334485] = "Ventunax",
 		[328342] = "Venomfang <Venomous Sniper>",
-		[314008] = 2,
+		[247121] = 12,
 		[307865] = 1,
 		[32176] = 7,
 		[328343] = "Venomfang <Venomous Sniper>",
-		[118038] = 1,
+		[267310] = "Manifestation of the Deep",
 		[340630] = "[*] Rotting",
 		[130736] = 6,
-		[117526] = 3,
-		[117014] = 7,
-		[340631] = "Sewer Rat",
+		[345111] = 11,
+		[312360] = "Alleria Windrunner",
+		[158045] = "Guardian of the Leaf",
 		[285342] = "Unknown",
 		[303772] = "Court Attendant",
-		[320178] = 5,
-		[303797] = "Queen Azshara",
-		[320180] = "Paceran the Virulent",
-		[344754] = "Unknown <Lyuna>",
-		[289467] = 4,
-		[113942] = 4,
-		[200025] = 2,
-		[277187] = 11,
-		[8219] = 9,
-		[307870] = 9,
-		[287460] = "Tidewater Elemental",
-		[221527] = 4,
-		[300074] = "Queen Azshara",
-		[307871] = 1,
-		[204157] = 12,
-		[279203] = 1,
-		[312360] = "Alleria Windrunner",
 		[171554] = 8,
+		[295607] = "Abyssal Commander Sivara",
+		[642] = 2,
+		[322232] = "Margrave Stradama",
+		[334884] = "Ripped Soul",
+		[275499] = "Cloudburst Totem <Troghast>",
+		[200025] = 2,
+		[11366] = 8,
+		[345122] = 5,
+		[307870] = 9,
+		[213350] = 7,
+		[221527] = 4,
+		[163201] = 1,
+		[332444] = "[*] Crumbling Foundation",
+		[275483] = 2,
+		[279203] = 1,
+		[113860] = 9,
+		[289471] = "Molten Hound",
 		[334493] = "Weald Shimmermoth",
 		[156000] = 6,
-		[268998] = 8,
-		[322240] = "Malignant Spawn",
-		[264903] = "Aqu'sirr",
-		[328351] = 11,
-		[334884] = "Ripped Soul",
-		[97462] = 1,
-		[332836] = "Putrid Butcher",
-		[11366] = 8,
-		[314018] = 5,
-		[345122] = 5,
-		[285350] = "Laminaria",
-		[195949] = 5,
-		[289479] = "De Lurker Be'loa",
-		[355] = 1,
-		[190831] = 9,
-		[275148] = 12,
-		[285388] = "Gnomercy 4.U.",
-		[316068] = "Grubby Dirtcruncher",
-		[216411] = 2,
+		[334522] = "Hungering Destroyer",
 		[330786] = "Ickor Bileflesh",
-		[330403] = "Plagueroc",
-		[324260] = 12,
-		[320200] = "Surgeon Stitchflesh",
-		[2823] = 4,
-		[66235] = 2,
+		[334562] = "Arch-Suppressor Laguas",
+		[328351] = 11,
+		[268998] = 8,
+		[316065] = "Ra-den",
+		[277187] = 11,
+		[710] = 9,
+		[314018] = 5,
+		[263209] = "Mine Rat",
+		[191837] = 10,
+		[27827] = 5,
 		[61031] = 12,
+		[195949] = 5,
+		[197997] = 7,
+		[261498] = "[*] Creeping Rot",
+		[297672] = "[*] Stand Alone",
+		[316068] = "Grubby Dirtcruncher",
+		[334498] = "General Grashaal",
+		[287766] = "Zandalari Deckhand",
+		[330403] = "Plagueroc",
+		[97463] = 1,
+		[275148] = 12,
+		[2823] = 4,
+		[314022] = 4,
+		[184689] = 2,
 		[326309] = "[*] Decomposing Acid",
 		[344739] = "Unknown",
-		[293670] = "Workshop Defender",
-		[287437] = "Frost Shard",
-		[263209] = "Mine Rat",
+		[309961] = "Il'gynoth",
+		[230935] = 2,
+		[334625] = "Devos",
 		[344740] = "[*] Echoing Blast",
-		[264878] = 3,
+		[346788] = "Veteran Stoneguard",
 		[2983] = 4,
-		[334502] = 6,
+		[216413] = 2,
 		[12058] = "Zekhan",
 		[24242] = 12,
 		[219485] = 8,
 		[342694] = "Stone Legion Goliath",
-		[334579] = "Slithering Ooze",
+		[287437] = "Frost Shard",
 		[346790] = "Veteran Stoneguard",
 		[340647] = "Carved Assistant",
-		[289487] = "De Lurker Be'loa",
+		[334579] = "Slithering Ooze",
 		[320170] = "Amarth",
-		[263193] = 8,
-		[120588] = 7,
+		[57994] = 7,
+		[295969] = 2,
 		[334505] = 12,
-		[311980] = "Wrathion",
-		[281298] = 12,
-		[421] = 7,
-		[330485] = 5,
+		[320171] = "Amarth",
+		[312336] = "Dark Inquisitor Xanesh",
+		[322253] = 8,
+		[332492] = 5,
 		[184675] = "Dia Darkwhisper",
 		[281265] = 5,
-		[303825] = "[*] Crushing Depths",
+		[147833] = 1,
 		[342733] = "Stone Legion Goliath",
 		[114871] = 2,
 		[53600] = 2,
-		[328400] = "Brood Ambusher",
+		[328399] = 11,
 		[257371] = "[*] Tear Gas",
 		[336556] = "Fog Dweller",
-		[230935] = 2,
-		[344782] = 5,
+		[196980] = 4,
+		[328731] = "Reborn Phoenix",
 		[118455] = 3,
+		[281302] = 12,
 		[190837] = 9,
-		[281303] = 4,
-		[332497] = "Prince Renathal",
-		[326319] = "Drust Harvester",
+		[314396] = "Cursed Blood",
+		[71357] = "Frostwarden Handler",
 		[242014] = 11,
 		[338606] = "Separation Assistant <Workshop Portal>",
-		[295969] = 2,
+		[263202] = "Venture Co. Earthshaper",
 		[334511] = 2,
 		[264923] = "Raal the Gluttonous",
-		[285440] = "Head Machinist Sparkflux",
+		[332497] = "Prince Renathal",
 		[207203] = 6,
-		[328404] = 11,
-		[33891] = 11,
+		[475] = 8,
+		[344751] = "Unknown <Lyuna>",
 		[330417] = "Mire Soldier",
-		[345100] = 1,
-		[289498] = "Dark Iron Primalist",
-		[344752] = "Void Lasher <Lyuna>",
+		[295965] = 10,
+		[346835] = 5,
+		[303797] = "Queen Azshara",
 		[346800] = "Lord Stavros",
 		[299702] = "Za'qul",
-		[210294] = 2,
-		[295607] = "Abyssal Commander Sivara",
-		[113858] = 9,
-		[328731] = "Reborn Phoenix",
+		[330455] = "Myskia",
+		[320180] = "Paceran the Virulent",
+		[271071] = 11,
+		[254481] = 9,
 		[253279] = "Dazar'ai Juggernaut",
-		[303799] = "Queen Azshara",
-		[127169] = 3,
-		[328411] = "Venthyr Duelist",
+		[344754] = "Unknown <Lyuna>",
+		[310298] = "Sinister Soulcarver",
+		[345096] = 5,
 		[277179] = 10,
-		[314396] = "Cursed Blood",
-		[263202] = "Venture Co. Earthshaper",
+		[546] = 7,
+		[287757] = "High Tinker Mekkatorque",
 		[299705] = "Za'qul",
-		[269097] = "Lord Stormsong",
+		[289545] = "Ominous Pool",
 		[118969] = "Mawsworn Shadestalker",
-		[132463] = 10,
-		[127170] = 8,
+		[289467] = 4,
+		[283676] = "Valeera Sanguinar",
 		[301754] = 3,
-		[309985] = "Ra-den",
+		[334558] = "Dreadful Huntmaster",
 		[330423] = "Fungi Stormer",
 		[170347] = 5,
-		[295965] = 10,
-		[213350] = 7,
-		[320224] = 3,
+		[287771] = 10,
+		[8219] = 9,
+		[88263] = 2,
 		[299708] = "Unknown",
 		[48743] = 6,
-		[269031] = 4,
-		[254481] = 9,
-		[310298] = "Sinister Soulcarver",
-		[212327] = 9,
-		[287461] = "[*] Heart of Frost",
-		[273089] = 6,
 		[289510] = "Dark Iron Vanguard",
-		[277185] = 9,
-		[198013] = 12,
-		[273090] = 6,
+		[287461] = "[*] Heart of Frost",
 		[221562] = 6,
+		[212327] = 9,
+		[291865] = "Aerial Unit R-21/X",
+		[273089] = 6,
+		[314390] = "[*] Ancient Curse",
+		[277185] = 9,
+		[70346] = "Growing Ooze Puddle <Professor Putricide>",
+		[273090] = 6,
+		[334563] = "Dreadful Huntmaster",
 		[334523] = "Hungering Destroyer",
 		[73920] = 7,
 		[132466] = 10,
-		[23881] = 1,
+		[122128] = 5,
 		[62305] = "Rukhmar <Bluearruwu>",
-		[316133] = "Anubisath Sentinel",
+		[698] = 9,
 		[202090] = 10,
-		[287771] = 10,
+		[320230] = "Dealer Xy'exa",
 		[118459] = "Spirit Beast <Watergun-Kil'jaeden>",
 		[271045] = 3,
 		[197995] = 7,
-		[334563] = "Dreadful Huntmaster",
+		[320519] = "Blighted Spinebreaker",
 		[342717] = 5,
 		[209258] = 12,
-		[346813] = "Tower Sentinel",
+		[264903] = "Aqu'sirr",
 		[316097] = "Anubisath Sentinel",
 		[285381] = 11,
 		[73921] = 7,
-		[710] = 9,
-		[299790] = 7,
-		[307945] = "[*] Umbral Eruption",
+		[289516] = "Char'golm",
+		[289517] = "Char'golm",
+		[246287] = 5,
 		[271048] = 3,
 		[185710] = 5,
 		[316099] = 9,
-		[334529] = "Juvenile Runestag",
+		[77505] = 7,
 		[271049] = 3,
-		[339] = 11,
+		[289479] = "De Lurker Be'loa",
 		[119996] = 10,
 		[334530] = "Juvenile Runestag",
-		[289517] = "Char'golm",
-		[291865] = "Aerial Unit R-21/X",
-		[314390] = "[*] Ancient Curse",
+		[307945] = "[*] Umbral Eruption",
+		[307950] = "Prophet Skitra",
+		[283408] = "Overlord Geya'rah",
 		[89792] = "Niptoc <Scibolt>",
 		[320197] = "Bone Husk",
-		[297672] = "[*] Stand Alone",
-		[324293] = "Skeletal Marauder",
-		[287757] = "High Tinker Mekkatorque",
+		[355] = 1,
+		[190831] = 9,
+		[345103] = 5,
 		[209261] = 12,
 		[289482] = "De Lurker Be'loa",
 		[260455] = "Blood Tick",
 		[269005] = "Primal Storm Elemental <Yukios-Kil'jaeden>",
-		[184725] = "Shadowheart Fiend",
-		[122128] = 5,
-		[220543] = 5,
-		[334534] = "Research Scribe",
-		[184689] = 2,
+		[320517] = "Blighted Spinebreaker",
+		[285428] = "Manceroy Flamefist",
+		[330479] = "Maw of the Maw",
+		[285388] = "Gnomercy 4.U.",
+		[320200] = "Surgeon Stitchflesh",
 		[289484] = "Molten Hound",
-		[301807] = "Silivaz the Zealous",
+		[345102] = 1,
 		[334535] = "Territorial Bladebeak",
 		[303819] = "[*] Nightmare Pool",
-		[203155] = 3,
-		[227851] = "Moroes",
-		[285428] = "Manceroy Flamefist",
-		[246287] = 5,
-		[204165] = 6,
-		[101568] = 6,
+		[120588] = 7,
+		[318196] = "Voidspawn Annihilator",
+		[289524] = 11,
 		[219521] = 5,
-		[257542] = 8,
-		[403] = 7,
-		[287766] = "Zandalari Deckhand",
+		[326389] = "Echelon",
+		[101568] = 6,
+		[303890] = "Shirakess Voidreaper",
+		[283413] = "Overlord Geya'rah",
+		[289487] = "De Lurker Be'loa",
+		[345100] = 1,
 		[334538] = "Arch-Suppressor Laguas",
 		[328395] = "Venomous Sniper",
 		[289488] = "Lady Jaina Proudmoore",
-		[257407] = "Rezan",
-		[326389] = "Echelon",
+		[310288] = "Drest'agath",
+		[332800] = 2,
 		[336587] = 5,
-		[322253] = 8,
-		[332492] = 5,
+		[281298] = 12,
+		[421] = 7,
 		[134522] = 12,
 		[336588] = 4,
 		[322254] = 5,
-		[185736] = 5,
+		[205191] = 2,
 		[342732] = "Stone Legion Goliath",
-		[147833] = 1,
+		[303825] = "[*] Crushing Depths",
 		[70341] = "Professor Putricide",
 		[70853] = "Professor Putricide",
 		[334542] = "Arch-Suppressor Laguas",
-		[320208] = "Stitchflesh's Creation",
+		[184693] = 5,
 		[322256] = 8,
 		[203123] = 11,
-		[345102] = 1,
+		[332536] = 2,
 		[41062] = "Blademaster Jubei'thos",
 		[305875] = "Coagulated Horror",
 		[453] = 5,
-		[70351] = "Professor Putricide",
+		[320512] = "Rotting Slimeclaw",
 		[75973] = 1,
-		[210291] = 2,
+		[281303] = 4,
 		[117952] = 10,
-		[332534] = 2,
+		[47755] = 5,
 		[465] = 2,
 		[148859] = 5,
 		[332498] = "[*] Consume Anima",
-		[163212] = 10,
-		[271103] = 1,
-		[289496] = "Dark Iron Primalist",
-		[289534] = 11,
+		[297722] = 10,
 		[8143] = 7,
-		[336595] = 1,
+		[121536] = 5,
+		[227847] = 1,
+		[1022] = 2,
+		[328404] = 11,
 		[289497] = "Dark Iron Primalist",
-		[340758] = "Artificer Xy'mox",
+		[289534] = 11,
 		[342739] = "Plaguebound Gargantuan",
-		[279572] = 5,
-		[346835] = 5,
-		[310288] = "Drest'agath",
+		[279569] = 10,
+		[289498] = "Dark Iron Primalist",
+		[303875] = "Abyssal Commander Sivara",
 		[342740] = "Stone Legion Goliath",
 		[328406] = 11,
 		[70343] = "Unknown <Professor Putricide>",
-		[342777] = "Sinister Antiquarian",
+		[303876] = "Abyssal Commander Sivara",
 		[342741] = "Stone Legion Goliath",
 		[160124] = "Flameflame <Wonderwise-Zul'jin>",
-		[330455] = "Myskia",
-		[324312] = 10,
+		[210294] = 2,
+		[113858] = 9,
 		[309978] = "[*] Paranoia",
-		[271071] = 11,
-		[314074] = 10,
-		[332541] = 2,
-		[342780] = 10,
-		[303875] = "Abyssal Commander Sivara",
-		[310019] = "[*] Charged Bonds",
+		[8220] = 12,
+		[107203] = 5,
+		[250258] = "Vol'kaal",
+		[312332] = "Shad'har the Insatiable",
+		[155158] = 8,
+		[310022] = "[*] Charged Bonds",
 		[307932] = 3,
-		[303876] = "Abyssal Commander Sivara",
-		[546] = 7,
+		[340758] = "Artificer Xy'mox",
+		[127169] = 3,
 		[330458] = "Cellblock Sentinel",
-		[47755] = 5,
-		[184730] = "Slavering Hound",
-		[287456] = "Lady Jaina Proudmoore",
+		[271376] = 1,
+		[198030] = 12,
+		[328411] = "Venthyr Duelist",
 		[264931] = "Raal the Gluttonous",
-		[89808] = "Jubnam <Judaasx>",
-		[246152] = 3,
+		[310019] = "[*] Charged Bonds",
+		[328452] = "Klotos",
 		[320221] = 12,
 		[123586] = 10,
 		[586] = 5,
-		[279569] = 10,
-		[283651] = "Darkforged Crusader",
-		[62061] = 10,
+		[254473] = 2,
+		[285454] = "Head Machinist Sparkflux",
+		[332807] = 2,
 		[332509] = "Millificent Manastorm",
 		[269029] = "Dread Captain Lockwood",
 		[328414] = "Dread Siphonist",
 		[338653] = "Stitching Assistant <Workshop Portal>",
 		[307937] = "Prophet Skitra",
-		[334558] = "Dreadful Huntmaster",
-		[88263] = 2,
-		[307977] = "Prophet Skitra",
+		[309985] = "Ra-den",
+		[287460] = "Tidewater Elemental",
+		[283407] = "Overlord Geya'rah",
 		[340702] = "Plaguebound Devoted",
-		[179582] = "Fel Lord Zakuun",
-		[642] = 2,
+		[269031] = 4,
+		[205179] = 9,
 		[289509] = "Dark Iron Vanguard",
-		[345096] = 5,
+		[271374] = 1,
 		[342751] = "Plaguebound Gargantuan",
 		[336608] = 10,
 		[322274] = "Zolramus Siphoner",
-		[155158] = 8,
-		[163201] = 1,
+		[318216] = 2,
+		[342752] = "Nathrian Archivist",
 		[205180] = 9,
-		[70346] = "Growing Ooze Puddle <Professor Putricide>",
+		[198013] = 12,
 		[324323] = "Skeletal Marauder",
 		[686] = 9,
-		[285454] = "Head Machinist Sparkflux",
+		[283660] = "Valeera Sanguinar",
 		[289512] = "Char'golm",
-		[698] = 9,
-		[702] = 9,
+		[316133] = "Anubisath Sentinel",
+		[204157] = 12,
 		[53351] = 3,
-		[330468] = "Kryxis the Voracious",
+		[338659] = 5,
 		[11420] = 8,
 		[309991] = "Psychus",
 		[344803] = 9,
 		[289514] = "Char'golm",
-		[318219] = 7,
-		[271376] = 1,
-		[295694] = 2,
-		[25912] = 2,
+		[207267] = 6,
+		[279564] = 8,
+		[69395] = 8,
+		[332805] = 2,
 		[207230] = 6,
 		[120517] = 5,
 		[320232] = "Dealer Xy'exa",
@@ -8127,538 +8151,538 @@ _detalhes_global = {
 		[334567] = "Dreadful Huntmaster",
 		[328424] = "Sintouched Anima",
 		[774] = 11,
-		[253324] = 4,
+		[330529] = 5,
 		[326377] = 11,
-		[254473] = 2,
-		[205201] = 10,
-		[332807] = 2,
+		[345091] = 10,
+		[51052] = 6,
+		[332804] = 2,
 		[318187] = 4,
-		[301861] = 5,
-		[271374] = 1,
-		[303890] = "Shirakess Voidreaper",
-		[283660] = "Valeera Sanguinar",
+		[198158] = 8,
+		[336899] = 3,
+		[328458] = "Lakesis",
+		[332803] = 2,
 		[184707] = 1,
 		[234877] = 9,
 		[316141] = "Anubisath Sentinel",
-		[261498] = "[*] Creeping Rot",
+		[301807] = "Silivaz the Zealous",
 		[180612] = 6,
-		[283413] = "Overlord Geya'rah",
+		[330755] = "Observer Zelgar",
 		[199042] = 1,
 		[301808] = "Silivaz the Zealous",
 		[328429] = "Slime Tentacle",
-		[320519] = "Blighted Spinebreaker",
+		[184847] = "Gurtogg Bloodboil",
 		[316143] = "Anubisath Sentinel",
-		[69395] = 8,
+		[310277] = "Drest'agath",
 		[295666] = 7,
 		[289523] = 11,
-		[332805] = 2,
+		[25912] = 2,
 		[47977] = 2,
 		[184709] = 1,
-		[330479] = "Maw of the Maw",
+		[338670] = 4,
 		[235903] = 12,
-		[334625] = "Devos",
+		[312078] = "Spike Tentacle",
 		[328432] = "Slime Tentacle",
-		[345091] = 10,
-		[265002] = "Raal the Gluttonous",
+		[287751] = "High Tinker Mekkatorque",
+		[205202] = 2,
 		[310003] = "Ra-den",
-		[332804] = 2,
-		[198158] = 8,
+		[332801] = 2,
+		[255372] = "Rezan",
 		[58984] = 4,
-		[336899] = 3,
+		[320272] = "Sathel the Accursed",
 		[328434] = "Klotos",
 		[59752] = 2,
-		[330513] = "[*] Doom Shroom",
-		[318196] = "Voidspawn Annihilator",
-		[332803] = 2,
+		[324368] = "Azules",
+		[310005] = "Ra-den",
+		[324609] = "Noble Skirmisher",
 		[259454] = 3,
-		[330755] = "Observer Zelgar",
-		[342770] = "Sinister Antiquarian",
-		[184847] = "Gurtogg Bloodboil",
+		[273415] = 1,
+		[204165] = 6,
+		[196100] = 9,
 		[346866] = "Loyal Stoneborn",
-		[30151] = "Skurikgoril <Judaasx>",
+		[324371] = 10,
 		[974] = 1,
 		[328437] = "Artificer Xy'mox",
-		[982] = 3,
-		[324371] = 10,
-		[326390] = 12,
+		[185736] = 5,
+		[332799] = 2,
+		[126664] = 1,
 		[127176] = 9,
-		[297722] = 10,
+		[70351] = "Professor Putricide",
 		[316152] = "Anubisath Sentinel",
 		[210324] = 2,
-		[250241] = "Vol'kaal",
+		[320248] = "Paceran the Virulent",
 		[259456] = 1,
 		[170379] = 7,
 		[204167] = 6,
-		[205191] = 2,
-		[287751] = "High Tinker Mekkatorque",
-		[332536] = 2,
-		[285466] = 7,
-		[332801] = 2,
+		[271103] = 1,
+		[295939] = "HK-8 Aerial Oppression Unit",
+		[1044] = 2,
+		[324372] = "Skeletal Monstrosity",
+		[267270] = 6,
 		[314107] = "Faceless Dominator",
 		[117962] = 10,
-		[320278] = "Sathel the Accursed",
+		[289795] = "Unknown",
 		[271105] = 1,
 		[70352] = 1,
-		[332567] = "Bone Husk",
+		[285466] = 7,
 		[257410] = 3,
-		[334615] = "Head Custodian Javlin",
-		[324609] = "Noble Skirmisher",
+		[295929] = "Warden Arkoban",
+		[332797] = "Sire Denathrius",
 		[332539] = 2,
 		[326396] = 1,
 		[271107] = 10,
-		[273415] = 1,
-		[332540] = 2,
+		[297985] = "Gunker",
+		[283394] = "High Tinker Mekkatorque",
 		[310015] = "Ra-den",
 		[287490] = "Ice Block",
-		[8222] = 10,
+		[322302] = 10,
 		[307968] = "Tek'ris",
-		[285443] = "[*] \"Hidden\" Flame Cannon",
+		[342780] = 10,
 		[197003] = 4,
 		[70353] = 5,
-		[61551] = 3,
-		[332799] = 2,
-		[283422] = "Gnomercy 4.U.",
+		[332567] = "Bone Husk",
+		[318462] = "[*] Annihilate",
+		[334615] = "Head Custodian Javlin",
 		[322304] = "Margrave Stradama",
 		[137619] = 4,
 		[326400] = "Guardian of the Leaf",
-		[279302] = 6,
+		[131476] = 12,
 		[330496] = "Decayspeaker",
-		[320512] = "Rotting Slimeclaw",
+		[90325] = "Gorjesh the Smasher",
 		[342783] = 8,
 		[279303] = 6,
-		[2120] = 8,
+		[336891] = 10,
 		[332545] = 2,
 		[318211] = 1,
 		[205196] = "Dreadstalker <Judaasx>",
-		[291843] = 3,
-		[289795] = "Unknown",
+		[291613] = "Aerial Unit R-21/X",
+		[184730] = "Slavering Hound",
 		[5487] = 11,
 		[336642] = 1,
-		[273185] = "Pistonhead Mechanic",
+		[70360] = 1,
 		[307974] = "Wrathion",
-		[310022] = "[*] Charged Bonds",
-		[328452] = "Klotos",
-		[289545] = "Ominous Pool",
-		[332572] = "[*] Falling Rubble",
+		[89808] = "Jubnam <Judaasx>",
+		[246152] = 3,
+		[330500] = "Decayspeaker",
+		[26297] = 7,
 		[108238] = 11,
 		[184720] = "Darkcaster Adept",
-		[227847] = 1,
+		[257538] = 8,
 		[227723] = 12,
-		[297985] = "Gunker",
-		[269092] = "Ordnance Specialist",
+		[332572] = "[*] Falling Rubble",
+		[257427] = 10,
 		[289547] = 5,
-		[332550] = "Shackled Soul",
-		[318216] = 2,
+		[307977] = "Prophet Skitra",
+		[285452] = 7,
 		[184721] = "Lord Aram'el",
 		[202127] = 10,
-		[318462] = "[*] Annihilate",
-		[295929] = "Warden Arkoban",
-		[291637] = 12,
-		[336891] = 10,
+		[332592] = 2,
+		[285475] = 3,
+		[318451] = "N'Zoth the Corruptor",
+		[265001] = "Aqualing",
 		[299788] = 1,
 		[326409] = "Shard of Halkias",
 		[16953] = 11,
-		[260508] = "Soulbound Goliath",
-		[283407] = "Overlord Geya'rah",
-		[51052] = 6,
-		[1604] = 11,
-		[326430] = "Shade of Kael'thas",
-		[283408] = "Overlord Geya'rah",
+		[293670] = "Workshop Defender",
+		[299789] = 10,
+		[318219] = 7,
+		[295694] = 2,
+		[200200] = 5,
+		[299790] = 7,
 		[257418] = 11,
 		[287504] = 10,
 		[210320] = 2,
-		[33395] = "Water Elemental <Arnbjorn>",
+		[158221] = 10,
 		[342794] = "Kennel Overseer",
-		[312078] = "Spike Tentacle",
+		[205201] = 10,
 		[255371] = "Rezan",
 		[283410] = "Overlord Geya'rah",
-		[265001] = "Aqualing",
+		[326434] = 11,
 		[184724] = "Shadowheart Fiend",
-		[257538] = 8,
-		[324386] = 7,
+		[295932] = "Warden Arkoban",
+		[293671] = 1,
 		[27576] = 4,
-		[205202] = 2,
+		[328462] = "Astronos",
 		[289555] = 7,
 		[283412] = "Overlord Geya'rah",
 		[257420] = 2,
-		[320272] = "Sathel the Accursed",
+		[184725] = "Shadowheart Fiend",
 		[20153] = "Infernal <Forcepush-Sargeras>",
-		[324368] = "Azules",
-		[314149] = "Dark Ritualist",
-		[291642] = 3,
-		[98007] = 7,
+		[203155] = 3,
+		[330530] = 5,
 		[320293] = "Sathel the Accursed",
-		[330532] = "Shambling Arbalest",
+		[289577] = 5,
+		[269099] = "Venture Co. War Machine",
+		[285482] = 8,
 		[213405] = 12,
 		[210323] = 2,
 		[324370] = "Azules",
 		[318227] = 12,
 		[328466] = "Astronos",
-		[200200] = 5,
+		[279541] = 11,
 		[267034] = "Vol'zith the Whisperer",
 		[191894] = 10,
-		[158221] = 10,
+		[88331] = 7,
 		[289560] = "Kimbul's Aspect",
-		[324372] = "Skeletal Monstrosity",
+		[316181] = "Anubisath Sentinel",
 		[269083] = 7,
 		[320277] = "Sathel the Accursed",
-		[326642] = "Stoneborn Eviscerator",
-		[295932] = "Warden Arkoban",
+		[312106] = 10,
+		[322550] = "Tred'ova",
 		[175513] = 10,
 		[295705] = "[*] Toxic Bolt",
-		[312106] = 10,
+		[250368] = "Vol'kaal",
 		[283419] = "Overlord Geya'rah",
 		[269085] = 11,
-		[16827] = "Spirit Beast <Watergun-Kil'jaeden>",
+		[324394] = "Skeletal Monstrosity",
 		[330518] = 5,
-		[338728] = 10,
+		[25914] = 2,
 		[285468] = "Gnomercy 4.U.",
-		[332585] = "Sire Denathrius",
-		[338730] = 10,
+		[334829] = 5,
+		[53385] = 2,
 		[283421] = "Gnomercy 4.U.",
 		[310042] = "Basher Tentacle",
-		[90325] = "Gorjesh the Smasher",
-		[61295] = 7,
-		[291613] = "Aerial Unit R-21/X",
+		[8222] = 10,
+		[326644] = "Stoneborn Eviscerator",
+		[283422] = "Gnomercy 4.U.",
 		[285470] = 12,
-		[250258] = "Vol'kaal",
-		[227742] = "Moroes",
-		[289585] = "Stormbound Guardian",
+		[2120] = 8,
+		[185763] = 4,
+		[285489] = 1,
 		[326426] = "Shard of Halkias",
-		[344874] = "Echelon",
-		[70360] = 1,
+		[61551] = 3,
+		[273185] = "Pistonhead Mechanic",
 		[283424] = "Overlord Geya'rah",
 		[285472] = 6,
 		[250259] = "Vol'kaal",
-		[26297] = 7,
+		[202137] = 12,
 		[97493] = 1,
 		[293664] = 1,
-		[332592] = 2,
-		[322550] = "Tred'ova",
-		[283426] = "Overlord Geya'rah",
-		[257427] = 10,
-		[263165] = 5,
-		[202138] = 12,
-		[318449] = "N'Zoth the Corruptor",
-		[285475] = 3,
+		[93402] = 11,
 		[308018] = "Aqir Scarab",
+		[324381] = "Skeletal Monstrosity",
+		[269092] = "Ordnance Specialist",
+		[28730] = 8,
+		[202138] = 12,
+		[291637] = 12,
+		[326430] = "Shade of Kael'thas",
+		[343024] = "Shriekwing",
 		[70361] = "Unknown",
-		[295732] = 8,
-		[53385] = 2,
+		[328497] = "[*] Danse Macabre",
+		[338928] = 10,
 		[328479] = "Reborn Phoenix",
 		[289572] = "7th Legion Cavalier",
 		[227736] = "Moroes",
 		[342814] = 4,
-		[326644] = "Stoneborn Eviscerator",
+		[316211] = "Awakened Terror",
 		[2584] = 12,
-		[204197] = 5,
-		[328497] = "[*] Danse Macabre",
+		[262983] = "Azsh'ari Stormbinder",
+		[291639] = 3,
 		[184734] = "Portal Guardian",
 		[202140] = 12,
-		[227737] = "Moroes",
-		[285479] = "[*] Flame Jet",
-		[21562] = 5,
-		[330530] = 5,
+		[324386] = 7,
+		[269097] = "Lord Stormsong",
+		[303909] = "Shirakess Voidreaper",
+		[70362] = "Unknown",
 		[324387] = "Skeletal Monstrosity",
-		[293671] = 1,
-		[326450] = "Depraved Houndmaster",
-		[105174] = 9,
-		[308029] = "Prophet Skitra",
-		[269099] = "Venture Co. War Machine",
+		[342817] = 12,
+		[306163] = "Wrathion",
+		[314149] = "Dark Ritualist",
+		[342833] = 6,
+		[98007] = 7,
 		[90328] = "Spirit Beast <Watergun-Kil'jaeden>",
-		[289577] = 5,
+		[330532] = "Shambling Arbalest",
 		[22842] = 11,
 		[269100] = "Venture Co. War Machine",
-		[332594] = 10,
-		[231843] = 2,
+		[318449] = "N'Zoth the Corruptor",
+		[203174] = 6,
 		[291626] = "Aerial Unit R-21/X",
 		[326438] = "Shard of Halkias",
 		[303913] = "Shirakess Voidreaper",
 		[281388] = "Ashvane Cannoneer",
 		[324391] = "Skeletal Monstrosity",
-		[305978] = "Wrathion",
-		[318451] = "N'Zoth the Corruptor",
+		[340788] = "Artificer Xy'mox",
+		[48265] = 6,
 		[121557] = 5,
 		[137639] = 10,
 		[326440] = "Shard of Halkias",
 		[320297] = 4,
-		[308026] = "Flameforge Enforcer",
-		[338928] = 10,
+		[281404] = 8,
+		[231843] = 2,
 		[269104] = "Awoken Void",
 		[312107] = 1,
-		[330537] = "[*] Gluttonous Miasma",
-		[324394] = "Skeletal Monstrosity",
+		[338728] = 10,
+		[332585] = "Sire Denathrius",
 		[326455] = "Shade of Kael'thas",
-		[285503] = 5,
-		[260512] = "Soulbound Goliath",
+		[289596] = "7th Legion Cavalier",
+		[196099] = 9,
 		[291631] = 6,
-		[306163] = "Wrathion",
+		[260512] = "Soulbound Goliath",
 		[320300] = "Sathel the Accursed",
-		[185763] = 4,
+		[338730] = 10,
 		[291632] = 2,
-		[285489] = 1,
-		[328492] = 5,
-		[338731] = "Oryphrion",
+		[61295] = 7,
+		[312110] = "Queen Azshara",
+		[289585] = "Stormbound Guardian",
 		[291633] = 8,
 		[269108] = 7,
 		[312111] = "Forbidden Manifestation <[*] Dark Manifestation>",
 		[289586] = "Stormbound Guardian",
-		[93402] = 11,
+		[291634] = 8,
 		[326446] = 11,
 		[328494] = "[*] Sintouched Anima",
 		[289587] = "Kul Tiran Cannoneer",
 		[291635] = 12,
-		[301884] = 3,
-		[343022] = "Shriekwing",
+		[308030] = "Flameforge Enforcer",
+		[310078] = "Maw of Drest'agath",
 		[202147] = 1,
 		[291636] = 3,
-		[332607] = "Atal'ai Hoodoo Hexxer",
-		[28730] = 8,
+		[75532] = 8,
+		[295732] = 8,
 		[265016] = "Chosen Blood Matron",
-		[207267] = 6,
-		[316220] = 4,
+		[33395] = "Water Elemental <Arnbjorn>",
+		[269301] = "Unbound Abomination",
 		[303924] = "Grease Bot",
-		[88331] = 7,
+		[291652] = 9,
 		[291638] = 11,
 		[318259] = 5,
 		[188838] = 7,
-		[312125] = "[*] Dark Manifestation",
-		[291639] = 3,
+		[271175] = "Pallid Gorger",
+		[332594] = 10,
 		[285496] = 8,
 		[295735] = 12,
 		[265019] = "Chosen Blood Matron",
-		[291640] = 6,
-		[285497] = 5,
-		[97501] = 4,
+		[203173] = 6,
+		[204197] = 5,
+		[332608] = "Atal'ai Hoodoo Hexxer",
 		[289593] = "Stormbound Guardian",
-		[301887] = 8,
-		[291653] = 8,
+		[324417] = "General Kaal",
+		[336716] = 11,
 		[328501] = "Rigged Plagueborer",
 		[322358] = "Doctor Ickus",
-		[340788] = "Artificer Xy'mox",
-		[196099] = 9,
-		[332605] = "Atal'ai Hoodoo Hexxer",
-		[281404] = 8,
+		[291642] = 3,
+		[303941] = "Anodized Coilbearer",
+		[273226] = "[*] Decaying Spores",
+		[289595] = "Stormbound Guardian",
 		[291643] = 5,
 		[285500] = 3,
-		[262983] = "Azsh'ari Stormbinder",
-		[289596] = "7th Legion Cavalier",
-		[291644] = 5,
+		[340969] = 6,
+		[305978] = "Wrathion",
+		[308026] = "Flameforge Enforcer",
 		[326456] = "Shade of Kael'thas",
-		[182705] = "Bleeding Darkcaster",
+		[297966] = "Maw of the Maw",
 		[346934] = "Dance Controller",
 		[291645] = 6,
-		[269120] = 12,
-		[75532] = 8,
+		[301884] = 3,
+		[182705] = "Bleeding Darkcaster",
 		[259489] = 3,
 		[291646] = 6,
 		[77535] = 6,
 		[328506] = 2,
 		[322363] = 10,
-		[291647] = 2,
+		[316220] = 4,
 		[301886] = 2,
-		[135601] = 11,
+		[312125] = "[*] Dark Manifestation",
 		[289600] = "Breakwater Elemental",
 		[291648] = 5,
-		[310078] = "Maw of Drest'agath",
-		[336711] = 6,
-		[36213] = "Greater Earth Elemental <Yukios-Kil'jaeden>",
-		[291649] = 11,
-		[48265] = 6,
+		[301887] = 8,
 		[205231] = "Darkglare <Judaasx>",
+		[340807] = "Artificer Xy'mox",
+		[291649] = 11,
+		[330729] = 11,
+		[332617] = "Doctor Ickus",
 		[259491] = 3,
-		[291650] = 2,
+		[332605] = "Atal'ai Hoodoo Hexxer",
 		[334653] = "Gluttonous Tick",
-		[198065] = 8,
+		[314188] = "Void Horror",
 		[291663] = 8,
 		[291651] = 10,
 		[285508] = "Munitions Barrel <Kul Tiran Marine>",
-		[287556] = "Vengeful Shrieker",
-		[310105] = 5,
-		[291652] = 9,
+		[271174] = "Pallid Gorger",
+		[332620] = "Sire Denathrius",
+		[332607] = "Atal'ai Hoodoo Hexxer",
 		[310082] = "Maw of Drest'agath",
 		[303939] = "Voidbound Terror",
-		[336716] = 11,
-		[332608] = "Atal'ai Hoodoo Hexxer",
+		[295916] = "Radiance of Azshara",
+		[291653] = 8,
 		[310083] = "Maw of Drest'agath",
-		[340969] = 6,
-		[297966] = "Maw of the Maw",
+		[303952] = "Welding Bot",
+		[303953] = 2,
 		[291654] = 9,
-		[332619] = "Sire Denathrius",
-		[303941] = "Anodized Coilbearer",
+		[289772] = "Eternal Enforcer",
+		[164273] = 3,
 		[330562] = "Ancient Captain <Rathux-Area52>",
 		[291655] = 8,
-		[291665] = 5,
+		[225788] = 5,
 		[271178] = "Pallid Gorger",
-		[273226] = "[*] Decaying Spores",
+		[36213] = "Greater Earth Elemental <Yukios-Kil'jaeden>",
 		[291656] = 8,
 		[269131] = "Lord Stormsong",
-		[303952] = "Welding Bot",
-		[330729] = 11,
+		[306001] = "Voidcrazed Hulk",
+		[71909] = 6,
 		[291657] = 8,
 		[285514] = 7,
-		[205234] = 10,
+		[289621] = "Breakwater Elemental",
 		[259495] = 3,
 		[291658] = 6,
 		[285515] = 7,
 		[303945] = "[*] Coalesced Nightmares",
-		[198067] = 7,
+		[202164] = 1,
 		[291659] = 8,
-		[320336] = "Brittlebone Mage",
-		[289621] = "Breakwater Elemental",
+		[291679] = 6,
+		[314196] = "Gnashing Terror",
 		[24252] = 4,
 		[324424] = "Mordretha, the Endless Empress",
 		[310090] = "Maw of Drest'agath",
-		[287565] = "Lady Jaina Proudmoore",
-		[295916] = "Radiance of Azshara",
-		[340807] = "Artificer Xy'mox",
+		[336711] = 6,
+		[291671] = 4,
+		[291661] = 6,
 		[334664] = "Bladebeak Hatchling",
-		[342866] = "Shriekwing",
+		[287722] = 5,
 		[273232] = 12,
 		[308044] = "Maut",
-		[289625] = "Echo of Pa'ku <Kal'ia Pa'kuaya>",
-		[289772] = "Eternal Enforcer",
-		[314188] = "Void Horror",
+		[326629] = "Surgeon Stitchflesh",
+		[204213] = 5,
+		[198065] = 8,
 		[324427] = "Oryphrion",
 		[342857] = 12,
 		[336714] = 12,
-		[225788] = 5,
+		[330580] = "Remornia",
 		[291664] = 8,
 		[187827] = 12,
 		[328524] = 5,
-		[326629] = "Surgeon Stitchflesh",
-		[332620] = "Sire Denathrius",
-		[326487] = 5,
+		[310105] = 5,
+		[291665] = 5,
+		[204215] = 5,
 		[320334] = 12,
 		[54644] = "BeanFlicker <Bloodzug-Illidan>",
 		[291666] = 5,
 		[293714] = 1,
-		[303953] = 2,
-		[306001] = "Voidcrazed Hulk",
+		[205234] = 10,
+		[198067] = 7,
 		[291667] = 6,
-		[293724] = "Shield Generator",
-		[71909] = 6,
+		[85222] = 2,
+		[320336] = "Brittlebone Mage",
 		[273238] = 12,
 		[291668] = 8,
+		[259574] = "Vol'kaal",
 		[314203] = 5,
-		[291678] = 8,
 		[273239] = 12,
 		[291669] = 8,
 		[342863] = "Shriekwing",
-		[330586] = "Putrid Butcher",
-		[202164] = 1,
+		[297822] = "Thrall",
+		[314195] = "Gnashing Terror",
 		[291670] = 6,
-		[342874] = "Artificer Xy'mox",
-		[295766] = "Zanj'ir Myrmidon",
-		[198069] = 5,
+		[98021] = "Unknown <Penguinpal>",
+		[336721] = 11,
+		[289623] = "7th Legion Medic",
 		[316244] = "Rockbound Sprite",
 		[293719] = "Secret Fish",
 		[271194] = 12,
 		[289624] = 12,
 		[291672] = 3,
-		[204213] = 5,
+		[342866] = "Shriekwing",
 		[53365] = 6,
-		[330580] = "Remornia",
+		[289625] = "Echo of Pa'ku <Kal'ia Pa'kuaya>",
 		[291673] = 2,
-		[287722] = 5,
+		[297958] = "Voidcrazed Hulk",
 		[328533] = "Defender of Many Eyes",
 		[202166] = 1,
 		[291674] = 9,
-		[343011] = 12,
+		[328539] = "Brood Ambusher",
 		[271197] = 12,
-		[334684] = "[*] Spear of Duty",
+		[326494] = 4,
 		[291675] = 10,
-		[342869] = "Enraged Spirit",
+		[326487] = 5,
 		[112866] = 9,
 		[306010] = "Voidcrazed Hulk",
 		[291676] = 3,
-		[204215] = 5,
+		[293724] = "Shield Generator",
 		[303963] = "Horrific Shrieker",
 		[330584] = 8,
 		[291677] = 2,
-		[171454] = 3,
-		[330590] = "[*] Gluttonous Miasma",
+		[346972] = "Mawsworn Collector",
+		[279397] = 2,
 		[202168] = 1,
-		[85222] = 2,
+		[291678] = 8,
 		[342872] = 7,
-		[129250] = 5,
-		[297822] = "Thrall",
-		[60021] = 9,
+		[328673] = "Z'rali",
+		[330586] = "Putrid Butcher",
+		[215479] = 10,
 		[342873] = 7,
-		[328539] = "Brood Ambusher",
-		[346975] = 4,
+		[112867] = 9,
+		[108293] = 11,
 		[324444] = "Oryphrion",
-		[98021] = "Unknown <Penguinpal>",
+		[342874] = "Artificer Xy'mox",
 		[287585] = "Lady Jaina Proudmoore",
 		[306015] = "Wrathion",
 		[207289] = 6,
 		[293729] = "Mechagon Mechanic",
-		[259574] = "Vol'kaal",
+		[314337] = "Maut",
 		[251316] = 1,
-		[346977] = 8,
-		[326494] = 4,
+		[157122] = 2,
+		[171454] = 3,
 		[197051] = 4,
-		[289635] = "7th Legion Medic",
-		[295791] = "Abyssal Commander Sivara",
-		[297833] = 5,
-		[279397] = 2,
-		[297958] = "Voidcrazed Hulk",
+		[330590] = "[*] Gluttonous Miasma",
+		[328547] = 4,
+		[289640] = "7th Legion Medic",
+		[129250] = 5,
+		[330600] = 10,
 		[64901] = 5,
 		[187837] = 7,
-		[205246] = 9,
+		[320480] = "Empowered Mawsworn Interceptor",
 		[330592] = "Rancid Gasbag",
 		[324449] = "Mordretha, the Endless Empress",
 		[326497] = 2,
 		[328545] = "[*] Dimensional Tear",
 		[338784] = 5,
-		[330600] = 10,
-		[259572] = "Vol'kaal",
-		[328673] = "Z'rali",
+		[326623] = "Stoneborn Reaver",
+		[316384] = "Anubisath Sentinel",
+		[338788] = 2,
 		[289639] = 1,
 		[70890] = 6,
 		[342881] = 7,
 		[112869] = 9,
-		[289640] = "7th Legion Medic",
-		[108293] = 11,
+		[346977] = 8,
+		[46968] = 1,
 		[171457] = 3,
-		[84714] = 8,
-		[340842] = "Crystal of Phantasms",
-		[320365] = "Surgeon Stitchflesh",
-		[312174] = "Forbidden Manifestation <[*] Dark Manifestation>",
+		[129253] = 5,
+		[316383] = "Anubisath Sentinel",
+		[289645] = "7th Legion Battlemage",
+		[322410] = "Congealed Slime",
 		[320358] = "Surgeon Stitchflesh",
-		[338788] = 2,
+		[297833] = 5,
 		[162243] = 12,
 		[110310] = 5,
-		[320359] = "Surgeon Stitchflesh",
+		[205246] = 9,
 		[297834] = "Gunker",
-		[316287] = "Abyssal Watcher",
-		[314337] = "Maut",
+		[330602] = 5,
+		[295791] = "Abyssal Commander Sivara",
 		[112870] = 9,
 		[297835] = "Gunker",
-		[320480] = "Empowered Mawsworn Interceptor",
+		[330716] = "Portal Guardian",
 		[293740] = "Secret Fish",
-		[326623] = "Stoneborn Reaver",
+		[114919] = 2,
 		[230844] = 1,
-		[316384] = "Anubisath Sentinel",
-		[320366] = "Surgeon Stitchflesh",
-		[299905] = 12,
+		[340842] = "Crystal of Phantasms",
+		[72968] = 6,
+		[338906] = 5,
 		[273264] = 3,
-		[127207] = 11,
-		[316383] = "Anubisath Sentinel",
+		[287712] = 1,
+		[269282] = 9,
 		[303981] = "Queen Azshara",
 		[289647] = "Breakwater Elemental",
 		[324459] = "Globgrog",
 		[232893] = 12,
-		[129253] = 5,
+		[336746] = 3,
 		[293854] = "Mechagon Tinkerer",
 		[308078] = 1,
-		[289657] = 5,
-		[114919] = 2,
-		[289649] = "Echo of Krag'wa",
-		[183752] = 12,
-		[234946] = 5,
 		[344939] = 10,
-		[330716] = "Portal Guardian",
+		[312174] = "Forbidden Manifestation <[*] Dark Manifestation>",
+		[289649] = "Echo of Krag'wa",
+		[304093] = "Deathspeaker",
+		[8676] = 4,
+		[320366] = "Surgeon Stitchflesh",
+		[265081] = "Chosen Blood Matron",
 		[283507] = "The Hand of In'zashi",
 		[85739] = 1,
 		[69869] = "Kor'kron Invoker",
@@ -8666,481 +8690,481 @@ _detalhes_global = {
 		[299890] = "Azshara's Devoted",
 		[310129] = "Maut",
 		[303986] = "Queen Azshara",
-		[226757] = 8,
-		[269301] = "Unbound Abomination",
-		[283617] = "Frida Ironbellows",
-		[338906] = 5,
+		[255421] = "Rezan",
+		[279416] = 1,
+		[269279] = 7,
+		[261616] = "Katy Stampwhistle <Illsong>",
 		[330608] = "Rancid Gasbag",
 		[316274] = "Dark Inquisitor Xanesh",
 		[334704] = 5,
-		[287712] = 1,
+		[265084] = "Devout Blood Priest",
 		[322418] = "Chamber Sentinel",
 		[316275] = 1,
-		[269282] = 9,
-		[279416] = 1,
-		[303994] = 8,
+		[334708] = "Shade of Bargast <Bargast>",
+		[127207] = 11,
+		[342998] = 5,
 		[199109] = 3,
-		[297851] = "Potent Spark",
+		[338804] = 12,
 		[287608] = 2,
-		[304093] = "Deathspeaker",
-		[77575] = 6,
+		[48518] = 11,
+		[297850] = 10,
 		[310134] = "Psychus",
 		[197062] = 4,
-		[265084] = "Devout Blood Priest",
-		[312186] = "Forbidden Manifestation <[*] Dark Manifestation>",
-		[334708] = "Shade of Bargast <Bargast>",
+		[289657] = 5,
+		[281469] = 5,
+		[183752] = 12,
 		[312183] = "Dark Manifestation <[*] Dark Manifestation>",
-		[338804] = 12,
-		[289645] = "7th Legion Battlemage",
-		[289662] = "7th Legion Battlemage",
-		[334713] = "Dreadstalker <Warlockmania-Area52>",
-		[297850] = 10,
-		[332672] = "Atal'ai Deathwalker",
-		[332668] = "Kullan",
+		[234946] = 5,
+		[256496] = 10,
+		[299905] = 12,
+		[297851] = "Potent Spark",
+		[330614] = "Rancid Gasbag",
+		[336759] = "Mistcaller",
+		[265089] = "Devout Blood Priest",
 		[320376] = "Stitchflesh's Creation",
 		[330615] = 12,
 		[219589] = 8,
 		[301947] = "Pashmar the Fanatical",
-		[336759] = "Mistcaller",
-		[260547] = "Soulbound Goliath",
-		[332664] = "Lady Inerva Darkvein",
-		[261616] = "Katy Stampwhistle <Illsong>",
-		[285572] = "Phantom of Retribution",
-		[265089] = "Devout Blood Priest",
-		[34428] = 1,
+		[312186] = "Forbidden Manifestation <[*] Dark Manifestation>",
 		[212423] = "Risen Skulker <Moonßlight>",
-		[48518] = 11,
-		[113900] = "Demonic Gateway <Forcepush-Sargeras>",
-		[67826] = 3,
-		[256496] = 10,
-		[190925] = 3,
+		[332664] = "Lady Inerva Darkvein",
+		[340860] = "Root of Extinction",
+		[54149] = 2,
+		[226757] = 8,
+		[34428] = 1,
+		[334713] = "Dreadstalker <Warlockmania-Area52>",
+		[256453] = 1,
+		[216521] = 10,
+		[332671] = "Atal'ai Deathwalker",
+		[308098] = "[*] Crashing Inferno",
+		[332672] = "Atal'ai Deathwalker",
 		[265091] = "Devout Blood Priest",
 		[113899] = "Demonic Gateway <Forcepush-Sargeras>",
 		[61305] = 8,
 		[114923] = 8,
 		[322429] = "Chamber Sentinel",
-		[316286] = "Abyssal Watcher",
+		[332668] = "Kullan",
 		[310143] = 3,
 		[344955] = 6,
 		[289666] = 5,
-		[340860] = "Root of Extinction",
-		[330627] = "Sire Denathrius",
-		[328687] = "Brittlebone Crossbowman",
+		[260547] = "Soulbound Goliath",
+		[347008] = "Klekzeras <Warlockmania-Area52>",
+		[289672] = "Echo of Krag'wa",
 		[273285] = "Volatile Pod",
 		[120043] = 5,
-		[216521] = 10,
-		[72968] = 6,
+		[285572] = "Phantom of Retribution",
+		[31935] = 2,
 		[273286] = 3,
-		[308098] = "[*] Crashing Inferno",
-		[190927] = 3,
-		[257483] = "[*] Pile of Bones",
+		[113900] = "Demonic Gateway <Forcepush-Sargeras>",
+		[332678] = "Atal'ai Deathwalker",
+		[299915] = "Silivaz the Zealous",
 		[322433] = "Chamber Sentinel",
-		[256453] = 1,
-		[54149] = 2,
-		[33917] = 11,
+		[190925] = 3,
+		[57723] = 10,
+		[67826] = 3,
 		[202188] = 7,
-		[273293] = 5,
-		[132568] = 6,
 		[283534] = "Magneto-Arm",
+		[326538] = "Sins of the Past",
+		[198097] = 4,
 		[273289] = 3,
 		[316292] = "Abyssal Watcher",
-		[324490] = "Globgrog",
+		[340880] = "[*] Prideful",
 		[328579] = "[*] Smoldering Remnants",
-		[289672] = "Echo of Krag'wa",
-		[198097] = 4,
-		[255434] = "Rezan",
-		[297871] = 5,
+		[330627] = "Sire Denathrius",
+		[45181] = 4,
+		[273299] = 10,
+		[316368] = "Anubisath Sentinel",
 		[239049] = 5,
 		[256455] = 2,
 		[22721] = 4,
 		[287626] = "Lady Jaina Proudmoore",
 		[84721] = 8,
 		[260551] = "Soulbound Goliath",
-		[6673] = 1,
+		[332687] = "Sludgefist",
 		[295818] = "Azsh'ari Witch",
-		[330630] = 8,
+		[273293] = 5,
 		[256456] = 3,
 		[318344] = "Honored Duelist",
-		[216528] = 7,
+		[281554] = 8,
 		[273294] = "[*] Wildfire",
-		[299915] = "Silivaz the Zealous",
+		[340870] = "Edge of Annihilation",
 		[49020] = 6,
 		[312202] = 6,
-		[57723] = 10,
+		[132568] = 6,
 		[207311] = 6,
 		[108271] = 7,
-		[314258] = 10,
+		[48517] = 11,
 		[202192] = 7,
 		[340872] = "Edge of Annihilation",
 		[212431] = 3,
-		[265116] = 4,
+		[275351] = 12,
 		[338825] = 11,
 		[340873] = "Manifestation of Pride",
 		[334730] = 2,
-		[316307] = "Gaze of Madness",
+		[322450] = "Tred'ova",
 		[273298] = 10,
 		[332683] = "Prince Renathal",
-		[162264] = 12,
-		[45181] = 4,
-		[273299] = 10,
+		[308177] = "[*] Entropic Buildup",
+		[6673] = 1,
+		[314254] = 10,
 		[256459] = 5,
 		[342923] = "Shriekwing",
 		[295825] = "Orgozoa",
-		[330640] = "Gorm Behemoth",
-		[118000] = 1,
+		[70405] = "Mutated Abomination <Ronald-Kil'jaeden>",
+		[314260] = 2,
 		[204242] = 2,
-		[316368] = "Anubisath Sentinel",
+		[310224] = 10,
 		[314256] = 10,
 		[256460] = 1,
-		[314262] = 2,
+		[118000] = 1,
 		[289690] = "Ominous Pool",
-		[188888] = "Felfire Flamebelcher",
-		[332687] = "Sludgefist",
-		[338837] = "Nadjia the Mistblade",
-		[48517] = 11,
-		[57724] = 1,
-		[275351] = 12,
-		[184793] = "Morkronn",
+		[312218] = 5,
+		[162264] = 12,
+		[127216] = 9,
+		[304025] = "Vizja'ra",
+		[181718] = "Tyrant Velhari",
+		[332688] = 6,
+		[82691] = 8,
 		[287638] = 12,
-		[322450] = "Tred'ova",
-		[340880] = "[*] Prideful",
+		[259533] = "[*] Azerite Catalyst",
+		[316307] = "Gaze of Madness",
+		[198103] = 7,
+		[295835] = 12,
+		[330642] = "Gorm Behemoth",
 		[273310] = 5,
-		[308177] = "[*] Entropic Buildup",
-		[314260] = 2,
-		[70405] = "Mutated Abomination <Ronald-Kil'jaeden>",
 		[285592] = "Phantom of Retribution",
 		[96499] = 4,
 		[306070] = "Maut",
 		[81141] = 6,
-		[312218] = 5,
+		[297935] = 11,
 		[45182] = 4,
-		[45438] = 8,
+		[314262] = 2,
 		[207317] = 6,
 		[285594] = 10,
 		[312215] = 8,
 		[338836] = "Nadjia the Mistblade",
-		[310224] = 10,
-		[283551] = "Omega Buster",
-		[127216] = 9,
-		[330646] = "Gorm Behemoth",
-		[342938] = 9,
+		[328651] = "Venomous Sniper",
+		[210391] = 2,
+		[188888] = "Felfire Flamebelcher",
+		[338837] = "Nadjia the Mistblade",
+		[304075] = "Mawsworn Ritualist",
 		[269214] = 11,
-		[295835] = 12,
-		[338838] = "Nadjia the Mistblade",
+		[184793] = "Morkronn",
+		[281501] = 10,
 		[322507] = 10,
 		[334743] = "[*] Dark Recital",
 		[304027] = "Arcane Bomb",
-		[334757] = "Bargast",
+		[334747] = "Corpse Harvester",
+		[157153] = 7,
 		[69369] = 11,
-		[281554] = 8,
 		[231895] = 2,
-		[210391] = 2,
-		[186842] = 4,
+		[273312] = 5,
+		[283551] = "Omega Buster",
 		[204248] = 7,
 		[295838] = 12,
-		[157153] = 7,
+		[330694] = "Disgusting Refuse",
 		[332698] = "Sludgefist",
-		[34433] = 5,
-		[297935] = 11,
-		[328651] = "Venomous Sniper",
+		[322465] = "Tred'ova",
+		[11426] = 8,
+		[124659] = 8,
 		[267171] = 9,
-		[334747] = "Corpse Harvester",
+		[342938] = 9,
 		[295840] = 12,
 		[132578] = 10,
-		[304075] = "Mawsworn Ritualist",
+		[312266] = "Ashwalker Assassin",
 		[334748] = "Corpse Harvester",
-		[332707] = "Atal'ai High Priest",
+		[318409] = "Shath'Yar Scribe",
 		[185820] = "Fel Scorcher",
-		[306125] = "Valeera Sanguinar",
+		[324514] = "[*] Manifest Death",
 		[334749] = "Corpse Harvester",
 		[295842] = 12,
-		[318383] = "Clotted Corruption",
+		[179681] = "Fel Lord Zakuun",
 		[158176] = "Dusky Tremorbeast",
-		[332708] = "Heavin the Breaker",
-		[289705] = "High Tinker Mekkatorque",
+		[96503] = 2,
+		[2825] = 7,
 		[347037] = 4,
-		[75002] = "Animated Prowler",
-		[273324] = 7,
+		[273323] = 7,
+		[5938] = 4,
 		[287653] = 4,
 		[255445] = "Rezan",
-		[310184] = "Psychus",
+		[332708] = "Heavin the Breaker",
 		[224729] = 2,
-		[281517] = 7,
-		[2649] = "Flameflame <Wonderwise-Zul'jin>",
-		[324514] = "[*] Manifest Death",
-		[347047] = 11,
-		[312266] = "Ashwalker Assassin",
-		[318409] = "Shath'Yar Scribe",
-		[332706] = "Atal'ai High Priest",
-		[336810] = "Lor the Loyal",
-		[96503] = 2,
-		[304047] = "Potent Spark",
-		[267179] = 12,
-		[18499] = 1,
-		[2825] = 7,
-		[347042] = 5,
-		[11426] = 8,
-		[257495] = "The Sand Queen",
-		[304048] = "Sak'ja",
 		[185824] = "Fel Scorcher",
+		[2649] = "Flameflame <Wonderwise-Zul'jin>",
+		[34433] = 5,
+		[63106] = 9,
+		[330693] = "Disgusting Refuse",
+		[281517] = 7,
+		[332706] = "Atal'ai High Priest",
+		[318406] = "Gorechop",
+		[344993] = "Vicious Gargon",
+		[187876] = "Voidscribe Aathalos",
+		[332707] = "Atal'ai High Priest",
+		[347047] = 11,
+		[336803] = "Ventun the Ravenous",
+		[289705] = "High Tinker Mekkatorque",
+		[75002] = "Animated Prowler",
+		[257495] = "The Sand Queen",
 		[334765] = "General Kaal",
-		[179681] = "Fel Lord Zakuun",
+		[273324] = 7,
+		[295855] = 12,
+		[334757] = "Bargast",
 		[156132] = 3,
 		[198111] = 8,
-		[5938] = 4,
-		[304049] = "Sak'ja",
+		[304048] = "Sak'ja",
+		[273354] = 10,
 		[287660] = 9,
 		[306090] = "Unknown",
-		[185829] = "Fel Scorcher",
+		[287688] = 5,
 		[204255] = 12,
 		[90361] = "Bestia espíritu <Máchó-Quel'Thalas>",
 		[330664] = 7,
-		[267213] = 9,
+		[18499] = 1,
 		[318378] = 7,
 		[279471] = 11,
 		[297901] = "Squirt Bot",
 		[260569] = "[*] Wildfire",
 		[187874] = 7,
-		[330693] = "Disgusting Refuse",
+		[277432] = "[*] Iron Volley",
 		[322475] = "[*] Plague Crash",
 		[324523] = 5,
-		[297907] = "Queen Azshara",
-		[295855] = 12,
-		[318406] = "Gorechop",
-		[275378] = 9,
-		[283574] = "Volatile Charge <Felfanatic>",
+		[283573] = "Frida Ironbellows",
+		[336810] = "Lor the Loyal",
+		[5394] = 7,
+		[260570] = "[*] Wildfire",
+		[336813] = "Mistcaller",
 		[295856] = "Guardian of Azeroth <Jebait>",
+		[283574] = "Volatile Charge <Felfanatic>",
 		[269239] = 1,
-		[302005] = "[*] Collect Sample",
 		[108280] = 7,
 		[125174] = 10,
 		[109304] = 3,
 		[330674] = 8,
 		[326574] = "Surgeon Stitchflesh",
-		[336813] = "Mistcaller",
-		[277432] = "[*] Iron Volley",
+		[304049] = "Sak'ja",
+		[304056] = 5,
 		[324527] = "Globgrog",
 		[269238] = 1,
-		[273354] = 10,
-		[330671] = 8,
-		[283573] = "Frida Ironbellows",
+		[302005] = "[*] Collect Sample",
+		[185829] = "Fel Scorcher",
+		[316337] = 9,
 		[318385] = "Valeera Sanguinar",
-		[287688] = 5,
+		[306115] = "Ra-den",
 		[198116] = 8,
 		[57984] = "Greater Fire Elemental <Skarsnik-Kil'jaeden>",
-		[330700] = "Blighted Sludge-Spewer",
-		[187879] = "Voidscribe Aathalos",
-		[283579] = "Darkforged Crusader",
+		[334771] = "[*] Heart Hemorrhage",
+		[287674] = 8,
+		[52610] = 11,
 		[316339] = 1,
 		[187878] = 7,
 		[156138] = "Fel Lord Zakuun",
 		[338865] = "Soulstalker V'lara",
 		[316340] = 12,
 		[342961] = "Dealer Xy'exa",
-		[5394] = 7,
+		[94462] = 9,
 		[330675] = 8,
-		[304056] = 5,
-		[334771] = "[*] Heart Hemorrhage",
-		[158188] = 4,
-		[314298] = 6,
+		[70911] = "Professor Putricide",
+		[187879] = "Voidscribe Aathalos",
+		[338871] = "Soulstalker V'lara",
+		[222695] = 3,
 		[115450] = 10,
 		[200166] = 12,
 		[192999] = 2,
 		[322486] = "Tirnenn Villager",
 		[316343] = 12,
 		[204262] = 7,
-		[338871] = "Soulstalker V'lara",
-		[222695] = 3,
-		[70911] = "Professor Putricide",
-		[306115] = "Ra-den",
+		[345020] = 10,
+		[310205] = "Wrathion",
+		[158188] = 4,
+		[275394] = 7,
 		[263103] = "Feckless Assistant",
-		[257506] = 4,
+		[314303] = "Promising Specimen",
 		[324536] = 9,
 		[204263] = 5,
-		[275394] = 7,
+		[345019] = 10,
 		[289725] = "Commander Broadside",
 		[283582] = "[*] Consecration",
 		[334776] = 10,
 		[263105] = "Feckless Assistant",
-		[308158] = "Maut",
 		[306111] = "Wrathion",
+		[330683] = 4,
 		[118522] = 7,
-		[273348] = 10,
-		[322491] = "Margrave Stradama",
+		[322493] = "Brittlebone Mage",
+		[289727] = "Gnomish Commando",
 		[299966] = "[*] Dread",
-		[310205] = "Wrathion",
-		[345019] = 10,
-		[185835] = "Mek'barash",
+		[257506] = 4,
+		[261602] = 12,
+		[322492] = "Margrave Stradama",
 		[324540] = 9,
 		[310206] = "[*] Drain Essence",
 		[304063] = "Shock Bot",
 		[314302] = 2,
-		[265157] = 3,
-		[304065] = "Sak'ja",
+		[308158] = "Maut",
+		[185835] = "Mek'barash",
 		[304064] = 1,
-		[314303] = "Promising Specimen",
+		[273348] = 10,
 		[267205] = 12,
 		[204266] = 7,
-		[94462] = 9,
-		[345020] = 10,
+		[304065] = "Sak'ja",
+		[198121] = 8,
 		[332734] = "Sire Denathrius",
 		[293827] = "Mechagon Tinkerer",
-		[322493] = "Brittlebone Mage",
-		[261602] = 12,
+		[265157] = 3,
+		[322491] = "Margrave Stradama",
 		[275398] = 9,
-		[52610] = 11,
+		[283579] = "Darkforged Crusader",
 		[304067] = "Sak'ja",
 		[289733] = "Jek'kwa",
-		[198121] = 8,
-		[330683] = 4,
+		[314298] = 6,
+		[269242] = 9,
 		[336832] = 8,
-		[322492] = "Margrave Stradama",
+		[30146] = 9,
 		[340928] = 6,
-		[289727] = "Gnomish Commando",
+		[265144] = 5,
 		[94463] = 12,
 		[314308] = "Urg'roth, Breaker of Heroes",
-		[287674] = 8,
-		[30146] = 9,
+		[297907] = "Queen Azshara",
+		[318383] = "Clotted Corruption",
 		[304070] = "[*] Arcanado",
 		[314309] = "Urg'roth, Breaker of Heroes",
 		[267211] = 9,
-		[273323] = 7,
-		[265144] = 5,
+		[304047] = "Potent Spark",
+		[275378] = 9,
 		[289737] = "Defense-A-Bot",
-		[316337] = 9,
+		[330671] = 8,
 		[200174] = 1,
 		[193007] = 7,
 		[185840] = "Mek'barash",
-		[63106] = 9,
-		[269242] = 9,
+		[308168] = "Maut",
+		[310184] = "Psychus",
 		[287691] = "High Tinker Mekkatorque",
 		[198127] = 8,
-		[187876] = "Voidscribe Aathalos",
+		[347042] = 5,
 		[200175] = 12,
-		[330694] = "Disgusting Refuse",
+		[267179] = 12,
 		[185841] = "Mek'barash",
-		[260570] = "[*] Wildfire",
+		[267213] = 9,
 		[49028] = 6,
-		[114942] = "Healing Tide Totem <Penguinpal>",
-		[308168] = "Maut",
+		[12323] = 1,
+		[332705] = "Atal'ai High Priest",
 		[283598] = "Frida Ironbellows",
 		[334792] = "Huntsman Altimor",
 		[279503] = 6,
 		[330697] = "Diseased Horror",
 		[308172] = "Fallen Voidspeaker",
-		[336803] = "Ventun the Ravenous",
+		[114942] = "Healing Tide Totem <Penguinpal>",
 		[336841] = 4,
-		[289743] = "Eternal Enforcer",
-		[344993] = "Vicious Gargon",
+		[306125] = "Valeera Sanguinar",
+		[186842] = 4,
 		[269266] = "Demolishing Terror",
 		[279505] = 7,
 		[202225] = 1,
-		[12323] = 1,
-		[332705] = "Atal'ai High Priest",
-		[124659] = 8,
-		[82691] = 8,
-		[322465] = "Tred'ova",
+		[336791] = 1,
+		[289743] = "Eternal Enforcer",
+		[338838] = "Nadjia the Mistblade",
+		[330700] = "Blighted Sludge-Spewer",
+		[330646] = "Gorm Behemoth",
 		[6770] = 4,
 		[320462] = "Zolramus Gatekeeper",
 		[297937] = "Cyranus",
-		[273312] = 5,
+		[45438] = 8,
 		[334797] = "Bargast",
 		[63619] = "Shadowfiend <Kuyar-Ragnaros>",
 		[132603] = 5,
 		[256492] = 10,
 		[326607] = "Stoneborn Reaver",
-		[336791] = 1,
+		[328593] = "Grand Proctor Beryllia",
 		[330703] = "Blighted Sludge-Spewer",
 		[308178] = "Ka'zir",
-		[304025] = "Vizja'ra",
+		[314258] = 10,
 		[20549] = 11,
-		[330642] = "Gorm Behemoth",
+		[257483] = "[*] Pile of Bones",
 		[283606] = "The Hand of In'zashi",
 		[285654] = "Apetagonizer 3000 <Grong>",
-		[259533] = "[*] Azerite Catalyst",
-		[328593] = "Grand Proctor Beryllia",
-		[281501] = 10,
-		[332688] = 6,
-		[181718] = "Tyrant Velhari",
-		[198103] = 7,
-		[330602] = 5,
-		[314254] = 10,
+		[297871] = 5,
+		[255434] = "Rezan",
+		[324490] = "Globgrog",
+		[330630] = 8,
+		[57724] = 1,
+		[265116] = 4,
+		[190927] = 3,
+		[216528] = 7,
 		[336850] = 10,
-		[342998] = 5,
+		[33917] = 11,
 		[283609] = "Yalat's Bulwark",
-		[326538] = "Sins of the Past",
+		[330640] = "Gorm Behemoth",
 		[328660] = "Gushing Slime",
 		[314326] = "Crushing Tendril",
-		[340870] = "Edge of Annihilation",
+		[308096] = "Flameforge Master",
 		[342995] = 5,
-		[332678] = "Atal'ai Deathwalker",
-		[31935] = 2,
-		[285661] = "Apetagonizer 3000 <Grong>",
+		[316286] = "Abyssal Watcher",
+		[316287] = "Abyssal Watcher",
+		[289662] = "7th Legion Battlemage",
 		[187896] = "Voidscribe Aathalos",
 		[102659] = 10,
-		[347008] = "Klekzeras <Warlockmania-Area52>",
+		[303994] = 8,
 		[47750] = 5,
 		[200183] = 5,
 		[258544] = "Jes Howlis",
 		[330711] = "Shriekwing",
 		[299995] = "Overlord Geya'rah",
-		[269279] = 7,
+		[285661] = "Apetagonizer 3000 <Grong>",
 		[328664] = "Reanimated Mage <Amarth>",
 		[330712] = "Shriekwing",
-		[332671] = "Atal'ai Deathwalker",
+		[96491] = 8,
 		[108291] = 11,
 		[58501] = 9,
-		[308096] = "Flameforge Master",
+		[310135] = "Psychus",
 		[308188] = 1,
-		[8676] = 4,
+		[77575] = 6,
 		[345048] = 11,
 		[189946] = "Binder Hallaani",
 		[308189] = 1,
 		[334810] = "Mueh'zala",
 		[328667] = "Brittlebone Mage",
 		[265187] = 9,
-		[236021] = 11,
-		[330614] = "Rancid Gasbag",
+		[283617] = "Frida Ironbellows",
+		[320365] = "Surgeon Stitchflesh",
 		[263140] = 3,
 		[338907] = 10,
 		[324573] = 7,
 		[108292] = 11,
 		[320478] = "Empowered Mawsworn Interceptor",
-		[96491] = 8,
+		[236021] = 11,
 		[300001] = "Queen Azshara",
 		[302049] = "Amniotic Eruption <Lesser Zoatroid>",
-		[265081] = "Chosen Blood Matron",
-		[255421] = "Rezan",
+		[303978] = "Darkcast Annihilator",
+		[84714] = 8,
 		[275429] = 9,
 		[343005] = "Shriekwing",
 		[304098] = "Zsal'iss",
 		[218617] = 1,
-		[281469] = 5,
-		[310135] = "Psychus",
+		[320359] = "Surgeon Stitchflesh",
+		[44153] = 6,
 		[279526] = 11,
 		[330720] = "Portal Guardian",
-		[44153] = 6,
+		[346975] = 4,
 		[293861] = "Anti-Personnel Squirrel <Mechagon Tinkerer>",
 		[336864] = 3,
-		[322410] = "Congealed Slime",
+		[259572] = "Vol'kaal",
 		[85256] = 2,
-		[303978] = "Darkcast Annihilator",
+		[342875] = 7,
 		[304101] = "Misha",
 		[29893] = 9,
-		[46968] = 1,
+		[60021] = 9,
 		[277481] = "Armed Prisoner",
 		[71946] = "Nightmare Cloud",
 		[289768] = "Defense-A-Bot",
-		[328547] = 4,
-		[157122] = 2,
-		[336746] = 3,
+		[289635] = "7th Legion Medic",
+		[342869] = "Enraged Spirit",
+		[334684] = "[*] Spear of Duty",
 		[107270] = 10,
 		[283626] = "Anointed Disciple",
 		[108294] = 11,
 		[225787] = 5,
 		[330725] = "Portal Guardian",
-		[112867] = 9,
-		[291679] = 6,
+		[198069] = 5,
+		[295766] = "Zanj'ir Myrmidon",
 		[94472] = 5,
 		[289771] = "Defense-A-Bot",
 		[283628] = "Anointed Disciple",
@@ -9150,303 +9174,303 @@ _detalhes_global = {
 		[195072] = 12,
 		[326632] = "Stoneborn Reaver",
 		[336871] = 3,
-		[291671] = 4,
-		[314196] = "Gnashing Terror",
-		[336721] = 11,
-		[215479] = 10,
-		[314347] = "Ashwalker Assassin",
-		[314195] = "Gnashing Terror",
-		[342875] = 7,
+		[332619] = "Sire Denathrius",
+		[343011] = 12,
 		[291662] = 2,
+		[332626] = "Sire Denathrius",
+		[314347] = "Ashwalker Assassin",
+		[287565] = "Lady Jaina Proudmoore",
+		[330565] = "Ancient Captain",
+		[334660] = "Animated Weapon <Noble Skirmisher>",
 		[265202] = 5,
 		[17735] = "Grak'rath <Woesong>",
 		[183811] = 2,
 		[279537] = 12,
 		[44425] = 8,
 		[186883] = "Felfire Flamebelcher",
-		[155145] = 2,
-		[332617] = "Doctor Ickus",
-		[291661] = 6,
+		[279366] = 5,
+		[287556] = "Vengeful Shrieker",
+		[291650] = 2,
 		[324589] = "Deathwalker <[*] Manifest Death>",
 		[326637] = "Stoneborn Eviscerator",
 		[295921] = "Radiance of Azshara",
-		[330565] = "Ancient Captain",
-		[332626] = "Sire Denathrius",
-		[334829] = 5,
+		[97501] = 4,
+		[135601] = 11,
+		[326638] = "Stoneborn Eviscerator",
+		[308029] = "Prophet Skitra",
+		[285503] = 5,
 		[326469] = "[*] Torment: Soulforge Heat",
-		[289623] = "7th Legion Medic",
-		[164273] = 3,
-		[324417] = "General Kaal",
-		[279541] = 11,
-		[271175] = "Pallid Gorger",
+		[269120] = 12,
+		[328687] = "Brittlebone Crossbowman",
+		[291644] = 5,
 		[283637] = "Darkforged Crusader",
-		[196100] = 9,
-		[271174] = "Pallid Gorger",
-		[297972] = "Aethanel",
-		[308030] = "Flameforge Enforcer",
+		[155145] = 2,
+		[285497] = 5,
+		[115464] = 10,
+		[291640] = 6,
 		[200196] = 5,
-		[279366] = 5,
+		[326450] = "Depraved Houndmaster",
 		[202244] = 12,
 		[162313] = 12,
-		[343024] = "Shriekwing",
+		[326642] = "Stoneborn Eviscerator",
 		[69902] = "Kor'kron Defender",
 		[198149] = 8,
-		[289595] = "Stormbound Guardian",
-		[326638] = "Stoneborn Eviscerator",
-		[203174] = 6,
-		[334660] = "Animated Weapon <Noble Skirmisher>",
+		[260508] = "Soulbound Goliath",
+		[338731] = "Oryphrion",
+		[328492] = 5,
+		[227742] = "Moroes",
 		[97547] = 11,
 		[204293] = 7,
 		[221699] = 6,
-		[203173] = 6,
-		[342833] = 6,
-		[316211] = "Awakened Terror",
-		[250368] = "Vol'kaal",
-		[202246] = 12,
+		[291647] = 2,
+		[330537] = "[*] Gluttonous Miasma",
+		[16827] = "Spirit Beast <Watergun-Kil'jaeden>",
+		[263165] = 5,
+		[306168] = "Unknown",
 		[101643] = 10,
-		[291634] = 8,
+		[98008] = 7,
 		[336885] = 1,
-		[312110] = "Queen Azshara",
+		[343022] = "Shriekwing",
 		[190984] = 11,
 		[269310] = "Titan Keeper Hezrel",
-		[115464] = 10,
-		[25914] = 2,
+		[105174] = 9,
+		[297972] = "Aethanel",
 		[48778] = 6,
-		[98008] = 7,
+		[21562] = 5,
 		[114954] = 8,
 		[322553] = 12,
 		[215558] = 10,
 		[257537] = 8,
-		[285482] = 8,
+		[227737] = "Moroes",
 		[322554] = "Executor Tarvold",
 		[8613] = 3,
 		[269313] = "Wanton Sapper",
 		[336889] = 8,
 		[297982] = "Maw of the Maw",
-		[342817] = 12,
+		[283426] = "Overlord Geya'rah",
 		[318460] = "Voidspawn Annihilator",
-		[70362] = "Unknown",
-		[303909] = "Shirakess Voidreaper",
-		[326434] = 11,
-		[330529] = 5,
+		[259474] = "Rixxa Fluxflame",
+		[328475] = "Brood Ambusher",
+		[269090] = "Ordnance Specialist",
+		[344874] = "Echelon",
 		[221703] = 9,
 		[322557] = "Drust Soulcleaver",
 		[283650] = "Darkforged Crusader",
 		[124682] = 10,
 		[279555] = 11,
 		[84751] = 8,
-		[332797] = "Sire Denathrius",
+		[283651] = "Darkforged Crusader",
 		[326654] = "Indri the Treesinger",
-		[306168] = "Unknown",
+		[320278] = "Sathel the Accursed",
 		[132627] = 8,
-		[267270] = 6,
-		[202137] = 12,
-		[295939] = "HK-8 Aerial Oppression Unit",
-		[328475] = "Brood Ambusher",
+		[291843] = 3,
+		[202246] = 12,
+		[312321] = 9,
+		[326441] = "Shard of Halkias",
 		[324608] = "Oryphrion",
-		[269090] = "Ordnance Specialist",
+		[330513] = "[*] Doom Shroom",
 		[221705] = 9,
 		[330752] = 2,
 		[308227] = "Tek'ris",
 		[257541] = 8,
 		[135700] = 11,
-		[326441] = "Shard of Halkias",
+		[253324] = 4,
 		[283655] = "Valeera Sanguinar",
-		[316181] = "Anubisath Sentinel",
-		[271369] = "Zanj'ir Honor Guard",
+		[265002] = "Raal the Gluttonous",
+		[295942] = "Warden Arkoban",
 		[322563] = "Tred'ova",
 		[267274] = 1,
-		[310277] = "Drest'agath",
-		[328707] = "Risen Cultist",
+		[257542] = 8,
+		[345089] = 10,
 		[314373] = "Ashwalker Assassin",
 		[203277] = 8,
 		[204301] = 2,
-		[320517] = "Blighted Spinebreaker",
+		[345090] = 10,
 		[338947] = "The Accuser",
 		[283658] = "Valeera Sanguinar",
 		[334852] = "Hecutis",
 		[295945] = "[*] Rat Traps",
 		[306184] = "Ra-den",
-		[283659] = "Valeera Sanguinar",
+		[227851] = "Moroes",
 		[31687] = 8,
-		[279564] = 8,
+		[254472] = 2,
 		[322567] = "Executor Tarvold",
 		[275469] = 2,
 		[257544] = "Earthrager",
 		[279565] = 8,
-		[255372] = "Rezan",
+		[332550] = "Shackled Soul",
 		[283661] = "Valeera Sanguinar",
-		[328462] = "Astronos",
+		[62061] = 10,
 		[345094] = 5,
 		[322569] = "Drust Soulcleaver",
 		[283662] = "Frida Ironbellows",
-		[328458] = "Lakesis",
+		[279302] = 6,
 		[279567] = 8,
 		[273424] = 4,
-		[299789] = 10,
+		[285443] = "[*] \"Hidden\" Flame Cannon",
 		[343048] = 5,
 		[254474] = 2,
-		[285452] = 7,
-		[324381] = "Skeletal Monstrosity",
-		[198030] = 12,
+		[332541] = 2,
+		[332540] = 2,
+		[285440] = "Head Machinist Sparkflux",
 		[345097] = 5,
 		[338954] = 5,
 		[291856] = "Plasma Orb",
-		[295942] = "Warden Arkoban",
-		[259474] = "Rixxa Fluxflame",
+		[250241] = "Vol'kaal",
+		[332534] = 2,
 		[330764] = 11,
-		[312321] = 9,
-		[131476] = 12,
-		[283394] = "High Tinker Mekkatorque",
-		[57994] = 7,
+		[326390] = 12,
+		[982] = 3,
+		[257407] = "Rezan",
+		[342770] = "Sinister Antiquarian",
 		[283667] = "Valeera Sanguinar",
 		[1725] = 4,
-		[312336] = "Dark Inquisitor Xanesh",
+		[279572] = 5,
 		[330766] = 8,
 		[324623] = "Animated Weapon <Noble Skirmisher>",
-		[1044] = 2,
+		[271369] = "Zanj'ir Honor Guard",
 		[209426] = 12,
 		[281621] = "Mech Jockey",
-		[320248] = "Paceran the Virulent",
+		[301861] = 5,
 		[334863] = 5,
 		[320529] = "Virulax Blightweaver",
-		[126664] = 1,
-		[259455] = 5,
+		[328707] = "Risen Cultist",
+		[220543] = 5,
 		[334864] = 2,
-		[345103] = 5,
+		[263193] = 8,
 		[314387] = "Malicious Growth",
-		[345089] = 10,
+		[285479] = "[*] Flame Jet",
 		[334865] = 5,
 		[188950] = "Desecration <Archimonde>",
-		[310005] = "Ra-den",
-		[345090] = 10,
-		[338670] = 4,
-		[254472] = 2,
+		[283659] = "Valeera Sanguinar",
+		[1604] = 11,
+		[330468] = "Kryxis the Voracious",
+		[702] = 9,
 		[88852] = 2,
 		[203285] = 8,
-		[307950] = "Prophet Skitra",
+		[200061] = 3,
 		[287769] = "[*] N'Zoth's Awareness",
 		[306199] = "Voidcrazed Hulk",
-		[275483] = 2,
-		[289516] = "Char'golm",
+		[215572] = 1,
+		[179583] = "Fel Lord Zakuun",
 		[263197] = "Heavy Cannon <Sci>",
-		[320230] = "Dealer Xy'exa",
+		[179582] = "Fel Lord Zakuun",
 		[203286] = 8,
 		[343060] = "General Grashaal",
 		[69911] = "Unknown",
 		[314392] = "Malicious Growth",
 		[324631] = 5,
-		[334562] = "Arch-Suppressor Laguas",
+		[127170] = 8,
 		[295963] = 10,
-		[342752] = "Nathrian Archivist",
-		[312332] = "Shad'har the Insatiable",
+		[287456] = "Lady Jaina Proudmoore",
+		[271115] = 7,
 		[285725] = "Kul Tiran Marine",
 		[345110] = 8,
-		[205179] = 9,
-		[113860] = 9,
+		[314074] = 10,
+		[324312] = 10,
 		[343063] = "General Grashaal",
 		[328729] = "Risen Cultist",
-		[330500] = "Decayspeaker",
-		[271115] = 7,
+		[336595] = 1,
+		[342777] = "Sinister Antiquarian",
 		[155166] = 6,
 		[279584] = 12,
 		[298014] = "Aethanel",
-		[107203] = 5,
-		[8220] = 12,
+		[163212] = 10,
+		[210291] = 2,
 		[295967] = 10,
 		[314397] = "Samh'rek, Beckoner of Chaos",
 		[267299] = "Vol'zith the Whisperer",
 		[302111] = 12,
 		[53390] = 7,
-		[332800] = 2,
-		[121536] = 5,
-		[1022] = 2,
+		[338636] = "Separation Assistant <Workshop Portal>",
+		[403] = 7,
+		[259455] = 5,
 		[320542] = "Virulax Blightweaver",
 		[306208] = "Dark Inquisitor Xanesh",
 		[291874] = "Flying Claw",
 		[204314] = 7,
-		[281302] = 12,
-		[19658] = "Bheegrom <Delpix>",
+		[379] = 7,
+		[314400] = "Living Blood",
 		[207386] = 11,
-		[312017] = "Eye of Chaos",
+		[30151] = "Skurikgoril <Judaasx>",
 		[295971] = 10,
-		[338636] = "Separation Assistant <Workshop Portal>",
+		[324293] = "Skeletal Marauder",
 		[341022] = "Plaguebound Devoted",
 		[49039] = 6,
 		[254485] = 11,
 		[330784] = "Maniacal Soulbinder",
-		[289524] = 11,
+		[346813] = "Tower Sentinel",
 		[269352] = 7,
 		[328737] = 4,
 		[298021] = "Aethanel",
 		[291878] = "Aerial Unit R-21/X",
-		[379] = 7,
+		[322236] = "Malignant Spawn",
 		[304165] = "Misha",
 		[265258] = 5,
 		[128275] = 8,
 		[30153] = "Skurikgoril <Judaasx>",
 		[345121] = 4,
-		[215572] = 1,
-		[197997] = 7,
-		[77505] = 7,
+		[320224] = 3,
+		[277181] = 10,
+		[23881] = 1,
 		[304167] = "Azsh'ari Galeblade",
 		[314406] = "Unknown",
-		[275499] = "Cloudburst Totem <Troghast>",
+		[115989] = 6,
 		[310311] = "Sinister Soulcarver",
-		[338659] = 5,
+		[132463] = 10,
 		[298025] = "SI:7 Informant",
 		[46736] = 10,
 		[293930] = "Mechagon Mechanic",
 		[304169] = "Aqir Mindhunter",
 		[273453] = 7,
-		[267310] = "Manifestation of the Deep",
-		[27827] = 5,
-		[200061] = 3,
+		[300074] = "Queen Azshara",
+		[320178] = 5,
+		[344782] = 5,
 		[347173] = 3,
 		[24394] = "Spirit Beast <Watergun-Kil'jaeden>",
-		[283676] = "Valeera Sanguinar",
-		[322236] = "Malignant Spawn",
-		[179583] = "Fel Lord Zakuun",
-		[334522] = "Hungering Destroyer",
-		[289471] = "Molten Hound",
+		[312017] = "Eye of Chaos",
+		[109248] = 3,
+		[330485] = 5,
+		[320208] = "Stitchflesh's Creation",
+		[311980] = "Wrathion",
 		[287790] = 11,
 		[330793] = "Observer Zelgar",
 		[236060] = 8,
 		[334889] = "[*] Petrifying Howl",
-		[322232] = "Margrave Stradama",
-		[277181] = 10,
+		[334502] = 6,
+		[264878] = 3,
 		[324651] = 7,
-		[314400] = "Living Blood",
+		[66235] = 2,
 		[225822] = 6,
-		[328399] = 11,
+		[324260] = 12,
 		[324652] = "Globgrog",
 		[326700] = "Sire Denathrius",
 		[205345] = 8,
 		[314414] = "[*] Creeping Madness",
-		[340646] = "Carved Assistant",
-		[320168] = "Millificent Manastorm",
+		[334529] = "Juvenile Runestag",
+		[227672] = "Lord Crispin Ference",
 		[295985] = "The Grand Malleare",
 		[298033] = "SI:7 Informant",
 		[316463] = "Mindgate",
 		[334893] = "[*] Stone Shards",
 		[69917] = "Skybreaker Dreadblade",
-		[334498] = "General Grashaal",
+		[285344] = "The Platinum Pummeler",
 		[199203] = 1,
 		[269366] = "Kul Tiran Engineer",
-		[328740] = "Risen Cultist",
+		[308265] = "Alx'kov the Infested",
 		[194084] = 7,
 		[227872] = "Moroes",
 		[310322] = "[*] Morass of Corruption",
 		[287797] = "High Tinker Mekkatorque",
-		[326302] = "Artificer Xy'mox",
-		[332444] = "[*] Crumbling Foundation",
+		[340627] = "Rat of Unusual Size",
+		[33891] = 11,
 		[310323] = "Vexiona",
-		[318108] = 12,
+		[320147] = "Millificent Manastorm",
 		[306228] = "Flayed Soul",
 		[332849] = "Sire Denathrius",
 		[310324] = "Vexiona",
 		[279608] = 6,
-		[287386] = "Manceroy Flamefist",
+		[279187] = 7,
 		[324659] = "Fleeting Manifestation",
 		[310325] = "Vexiona",
 		[295991] = "Cellblock Sentinel",
@@ -9454,120 +9478,120 @@ _detalhes_global = {
 		[300087] = "Pistonhead Mechanic",
 		[334899] = "Venomous Sniper",
 		[328756] = "Ingra Maloch",
-		[344718] = "Reverberating Eruption Stalker",
-		[71861] = "Blood-Queen Lana'thel",
-		[318094] = 4,
-		[328757] = 3,
+		[132467] = 10,
+		[303756] = "Frozen Sentry <Squallbinder Mal'ur>",
+		[97462] = 1,
+		[152108] = 9,
 		[322614] = "Tred'ova",
-		[267325] = 4,
+		[46738] = 10,
 		[293946] = 1,
-		[227672] = "Lord Crispin Ference",
+		[303752] = "Squallbinder Mal'ur",
 		[157228] = 11,
 		[267326] = 4,
 		[310329] = "Drest'agath",
-		[330376] = 11,
+		[187727] = 12,
 		[273470] = "Dread Captain Lockwood",
 		[267327] = 4,
 		[326712] = "Dark Acolyte",
 		[205351] = 5,
-		[285322] = "Kul Tiran Stormbringer",
+		[259395] = 4,
 		[115994] = 6,
 		[310331] = "Mind's Eye",
 		[193065] = 5,
-		[268956] = 5,
+		[295552] = "HK-8 Aerial Oppression Unit",
 		[267329] = 4,
 		[8679] = 4,
-		[320571] = "Zolramus Sorcerer",
+		[304189] = "Azsh'ari Stormcaller",
 		[330810] = "Shackled Soul",
 		[207400] = 7,
 		[310333] = "Mind's Eye",
-		[152108] = 9,
-		[305792] = "Queen Azshara",
+		[205146] = 9,
+		[261440] = "Lord Waycrest",
 		[267331] = 4,
 		[318525] = "Shath'Yar Scribe",
 		[320573] = "Zolramus Sorcerer",
 		[314430] = "[*] Lingering Blood",
-		[285311] = "Kul Tiran Stormbringer",
-		[332409] = 2,
+		[22703] = 9,
+		[285305] = "Kul Tiran Tideweaver",
 		[320574] = "[*] Shadow Well",
 		[330813] = "Observer Zelgar",
 		[260643] = 1,
 		[326718] = "Sanguine Cadet",
 		[287811] = 11,
 		[289859] = "Gnomish Commando",
-		[322169] = "Vestige of Doubt",
-		[279204] = 2,
+		[340592] = 5,
+		[332397] = 11,
 		[320576] = "Virulax Blightweaver",
 		[314433] = "Living Blood",
-		[22703] = 9,
+		[295536] = "HK-8 Aerial Oppression Unit",
 		[204331] = 7,
-		[261437] = 6,
+		[257337] = "Coin-Operated Crowd Pummeler",
 		[330816] = "Ickor Bileflesh",
-		[328305] = 4,
-		[69920] = "Unknown",
+		[328295] = "Forsworn Warden",
+		[313959] = "[*] Scorching Blister",
+		[287338] = 6,
 		[267330] = 4,
-		[279611] = 3,
 		[332865] = "Globgrog",
 		[334913] = "Mueh'zala",
-		[320109] = 10,
+		[253239] = "Dazar'ai Juggernaut",
 		[189998] = 2,
 		[300102] = "Malfunctioning Scrapbot",
-		[287340] = 5,
-		[320580] = "Amarth",
+		[165185] = 2,
+		[30283] = 9,
 		[289864] = "Blingtron MK2",
-		[31661] = 8,
-		[281195] = 3,
 		[308288] = "Alleria Windrunner",
-		[306247] = "[*] Incineration",
+		[330334] = 1,
 		[334909] = 11,
+		[306247] = "[*] Incineration",
+		[307828] = "Vexiona",
 		[310343] = "Acidic Aqir <Ka'zir>",
-		[313977] = "Abyssal Watcher",
+		[89766] = "Skurikgoril <Judaasx>",
 		[243241] = 5,
 		[46740] = 10,
-		[344732] = 9,
-		[304189] = "Azsh'ari Stormcaller",
+		[285280] = "Kul Tiran Tideweaver",
+		[328282] = 2,
 		[330822] = "Observer Zelgar",
 		[291915] = "[*] Plasma Orb",
 		[48020] = 9,
 		[64658] = 7,
-		[318046] = 5,
+		[272987] = 12,
 		[332871] = "High Torturer Darithos",
 		[318537] = "Unknown",
 		[148022] = 8,
 		[16589] = 12,
-		[328282] = 2,
-		[298054] = "Lady Ashvane",
-		[313945] = "Aqir Crusher",
-		[268893] = 7,
+		[336463] = 6,
+		[326242] = "Globgrog",
+		[143924] = 5,
+		[176438] = 12,
 		[291918] = "Flying Claw",
-		[93985] = 11,
+		[204336] = 7,
 		[127261] = 1,
 		[119582] = 10,
-		[272986] = 12,
+		[187707] = 3,
 		[326731] = 2,
 		[296015] = "[*] Caustic Delirium",
 		[289872] = "Rastari Royal Guard",
-		[236077] = 1,
+		[178740] = 12,
 		[44949] = 1,
 		[287825] = 4,
 		[53652] = 2,
-		[303698] = 10,
+		[320072] = "Decaying Flesh Giant",
 		[326733] = 2,
 		[336972] = 10,
-		[340554] = 5,
-		[291922] = "K.U.-J.0.",
+		[346690] = "Castellan Niklaus",
+		[178741] = 12,
 		[310352] = "Maw of Drest'agath",
 		[287827] = 4,
 		[306257] = "[*] Unstable Vita",
 		[79140] = 4,
-		[257580] = "The Sand Queen",
+		[326735] = 2,
 		[287828] = 9,
 		[330831] = 5,
-		[332401] = 2,
+		[228649] = 10,
 		[326736] = 5,
 		[106785] = 11,
 		[281686] = 12,
-		[303690] = "Rak'sha the Swift",
+		[324161] = 5,
 		[326737] = 9,
 		[296021] = "[*] Manic Dread",
 		[314451] = "Leeching Parasite",
@@ -9576,13 +9600,13 @@ _detalhes_global = {
 		[287831] = 10,
 		[314452] = "Leeching Parasite",
 		[267354] = "Hired Assassin",
-		[302166] = "HK-8 Aerial Oppression Unit",
-		[320596] = "Blightbone",
+		[326739] = 2,
+		[193078] = "SI:7 Light-Hunter",
 		[339026] = 5,
 		[291928] = "Aerial Unit R-21/X",
 		[326740] = 5,
 		[296024] = 2,
-		[89766] = "Skurikgoril <Judaasx>",
+		[111771] = 9,
 		[332884] = 5,
 		[334932] = "Hecutis",
 		[296025] = "HK-8 Aerial Oppression Unit",
@@ -9591,33 +9615,33 @@ _detalhes_global = {
 		[77606] = 6,
 		[69927] = "Unknown",
 		[39319] = 5,
-		[132403] = 2,
+		[264764] = 12,
 		[269406] = "Titan Keeper Hezrel",
 		[328791] = "Lord Chamberlain",
-		[314457] = "Leeching Parasite",
-		[328254] = "Pestering Fiend",
+		[347221] = "Abomination",
+		[310348] = "Tentacle of Drest'agath",
 		[343126] = "General Kaal",
 		[287837] = 10,
-		[303678] = "Lumbering Creation",
+		[332335] = "Son of Hakkar",
 		[267360] = "Vol'zith the Whisperer",
-		[307773] = "Maut",
+		[204066] = 12,
 		[312411] = 7,
-		[228645] = 6,
-		[260384] = 1,
+		[132404] = 1,
+		[268852] = 12,
 		[8680] = 4,
 		[279648] = 11,
-		[326739] = 2,
+		[93337] = 2,
 		[191034] = 11,
 		[192058] = 7,
-		[186662] = "Felborne Overfiend",
+		[274991] = "Viq'Goth",
 		[330843] = "Observer Zelgar",
-		[320050] = "Xav the Unfallen",
+		[301629] = "Mechagon Renormalizer",
 		[26573] = 2,
 		[205369] = 5,
 		[347226] = 5,
 		[291937] = 1,
-		[317999] = "[*] Gaze from Beyond",
-		[277043] = "Prisonbreak Mauler",
+		[91800] = "Marrowthief <Angronn-Kil'jaeden>",
+		[263262] = "Shalebiter",
 		[289890] = "King Rastakhan",
 		[300129] = "Malfunctioning Scrapbot",
 		[293986] = "Blastatron X-80",
@@ -9626,78 +9650,78 @@ _detalhes_global = {
 		[70953] = 5,
 		[71465] = "Sister Svalna",
 		[271462] = 12,
-		[334934] = 1,
-		[289324] = 10,
+		[324128] = 6,
+		[272934] = 8,
 		[228920] = 1,
-		[347221] = "Abomination",
+		[115356] = 7,
 		[330848] = "[*] Wrong Moves",
 		[191037] = 11,
 		[343135] = "General Grashaal",
-		[89751] = "Skurikgoril <Judaasx>",
+		[160029] = 11,
 		[314467] = "Explosive Scarab",
 		[85288] = 1,
 		[334945] = "Margore",
 		[69930] = "Skybreaker Vindicator",
-		[132404] = 1,
-		[268836] = 2,
-		[157982] = 11,
+		[289308] = 8,
+		[54861] = 7,
+		[51533] = 7,
 		[271466] = 5,
 		[298087] = "Orgozoa",
 		[291944] = 11,
 		[269419] = "[*] Yawning Gate",
-		[328231] = 3,
+		[303633] = "Darkweaver Kar'dress",
 		[306279] = 4,
-		[102547] = 11,
-		[315927] = "N'Zoth the Corruptor",
+		[307725] = "Prophet Skitra",
+		[283167] = 6,
 		[336996] = "Nekthara the Mangler",
-		[10326] = 2,
+		[210191] = 2,
 		[291946] = "K.U.-J.0.",
 		[204350] = 7,
 		[263278] = "[*] Cover",
 		[59542] = 2,
-		[64843] = 5,
-		[139546] = 4,
+		[285195] = "[*] Deathly Withering",
+		[46668] = 9,
 		[296043] = 10,
 		[314473] = 10,
 		[48792] = 6,
-		[307725] = "Prophet Skitra",
-		[313867] = 8,
-		[313866] = 10,
-		[83242] = 3,
+		[139546] = 4,
+		[283143] = "Magneto-Arm",
+		[320614] = "Carrion Worm",
+		[316522] = 5,
 		[257593] = "Azerokk",
-		[313890] = 5,
+		[317959] = "Forsworn Castigator",
 		[281711] = 1,
-		[46668] = 9,
+		[46924] = 1,
 		[343144] = 5,
 		[59543] = 3,
 		[181827] = "Shadowfel Warden",
 		[300142] = 8,
-		[223498] = 1,
-		[283143] = "Magneto-Arm",
+		[267901] = "Brother Ironhull",
+		[321444] = 11,
 		[281713] = 1,
 		[260666] = "Gilded Priestess",
-		[344572] = "Clefthoof <Aethael>",
-		[321442] = 3,
-		[204883] = 5,
+		[323496] = "Flesh Crafter",
+		[325418] = "Spinemaw Acidgullet",
+		[284595] = "Anointed Disciple",
 		[83243] = 3,
-		[331743] = "Mistveil Guardian",
-		[300968] = 7,
+		[262161] = 1,
+		[184584] = "Gorebound Crone",
 		[289906] = "Yalat's Bulwark",
 		[260667] = "Gilded Priestess",
 		[269429] = "Venture Co. War Machine",
-		[315391] = 2,
+		[1953] = 8,
 		[111400] = 9,
 		[300146] = 5,
 		[48025] = 4,
-		[294912] = 2,
+		[86659] = 2,
 		[306290] = "Maut",
 		[211522] = 5,
-		[251836] = 12,
-		[307115] = "[*] Flame Vent",
-		[298314] = "[*] Incubation Fluid",
+		[210873] = 7,
+		[213995] = 4,
+		[316711] = "Psychus",
 		[83244] = 3,
 		[257597] = "Azerokk",
-		[284595] = "Anointed Disciple",
+		[300144] = 1,
 		[265337] = "Gorestained Piglet",
 		[316531] = 1,
 		[334961] = "Mueh'zala",
@@ -9709,25 +9733,25 @@ _detalhes_global = {
 		[281721] = 12,
 		[324724] = 5,
 		[61336] = 11,
-		[294607] = "[*] Death Pool",
+		[264130] = 9,
 		[330868] = "Maniacal Soulbinder",
 		[83245] = 3,
 		[343155] = "Sindrel",
 		[160331] = 6,
 		[23247] = 6,
-		[325552] = "Domina Venomblade",
+		[114255] = 5,
 		[310392] = "Synod",
 		[320631] = "Carrion Worm",
 		[281724] = 9,
-		[121471] = 4,
-		[264130] = 9,
+		[228597] = 8,
+		[319655] = "Kryxis the Voracious",
 		[296059] = 5,
 		[330871] = "Sire Denathrius",
 		[324728] = 5,
 		[334967] = "Bladebeak Matriarch",
 		[304251] = "Huffer",
 		[322681] = "Stitchflesh's Creation",
-		[311488] = 12,
+		[287072] = "Opulence",
 		[343159] = "Sindrel",
 		[108843] = 8,
 		[289918] = "[*] Bwonsamdi's Bargain",
@@ -9744,113 +9768,113 @@ _detalhes_global = {
 		[205385] = 5,
 		[339067] = "Sludgefist",
 		[116011] = 8,
-		[317376] = 5,
+		[66019] = "Knight of the Ebon Blade",
 		[345211] = 9,
-		[294954] = "[*] Self-Trimming Hedge",
+		[51271] = 6,
 		[38556] = "Darkspear Headhunter",
 		[204362] = 7,
 		[205386] = 5,
 		[70449] = "Darkfallen Commander",
-		[278176] = "Verdant Keeper",
+		[325596] = "Lady Inerva Darkvein",
 		[285828] = "Kul Tiran Cannon",
 		[258628] = "[*] Resonant Quake",
-		[295001] = "Lord of Locks",
-		[296230] = 5,
+		[276125] = 9,
+		[294954] = "[*] Self-Trimming Hedge",
 		[294020] = 7,
 		[287877] = "Explosive Sheep",
 		[265352] = "Blight Toad",
 		[291973] = "K.U.-J.0.",
 		[192077] = 7,
 		[345215] = 9,
-		[197626] = 11,
+		[232633] = 5,
 		[291974] = "King Mechagon",
-		[274436] = 11,
+		[195627] = 4,
 		[304261] = "Blackwater Oracle",
 		[255558] = "[*] Tainted Blood",
 		[324739] = 3,
-		[309546] = "Animated Weapon",
+		[327584] = "Plaguebelcher",
 		[320644] = "Xav the Unfallen",
 		[251463] = 8,
-		[303422] = "[*] Blizzard",
+		[274395] = 2,
 		[310406] = "[*] Void Glare",
 		[296072] = 5,
-		[198222] = 4,
+		[314502] = "Cursed Blood",
 		[291977] = 12,
-		[163073] = 12,
-		[328837] = 3,
+		[274912] = 10,
+		[320646] = "[*] Fetid Gas",
 		[298121] = "Aethanel",
 		[308360] = "Unknown",
 		[204366] = 7,
 		[119085] = 10,
 		[298122] = "Abyssal Commander Sivara",
-		[194594] = 3,
+		[2643] = 3,
 		[343173] = 4,
 		[184913] = 5,
-		[51271] = 6,
+		[254958] = "Dazar'ai Colossus",
 		[300171] = "Heavy Scrapbot",
-		[296662] = "Lady Ashvane",
-		[205472] = 8,
+		[289184] = 2,
+		[307161] = 11,
 		[298124] = "Gunker",
 		[116014] = 8,
 		[269456] = "Viq'Goth",
-		[781] = 3,
+		[48153] = 5,
 		[101168] = 1,
 		[332937] = "Sinister Reflection",
 		[326794] = "Inquisitor Sigar",
-		[296078] = "Za'qul",
-		[129934] = 10,
+		[59547] = 7,
+		[102417] = 11,
 		[267410] = 12,
 		[192082] = 7,
 		[258634] = "Ashvane Flamecaster",
-		[323541] = 10,
-		[308366] = "Inquisitor Darkspeak",
-		[323542] = "Oozing Leftovers",
+		[845] = 1,
+		[324748] = 1,
+		[294966] = 2,
 		[287889] = "Soul of the Tidepriestess",
 		[306319] = "Dark Inquisitor Xanesh",
 		[341131] = "Nathrian Siphoner",
 		[334988] = "Plaguebound Gargantuan",
-		[331433] = 10,
-		[243955] = 1,
+		[260333] = "Cragmaw the Infested",
+		[278504] = "Runic Disciple",
 		[300177] = "Heavy Scrapbot",
-		[3355] = 3,
+		[167152] = 5,
 		[345228] = 12,
 		[265366] = "Aqualing",
 		[341133] = "Nathrian Hierarch",
-		[341263] = 5,
-		[303266] = 12,
+		[307382] = 11,
+		[341522] = "Nathrian Tracker",
 		[289940] = "Lady Jaina Proudmoore",
-		[325596] = "Lady Inerva Darkvein",
+		[276767] = "Abyssal Cultist",
 		[253517] = "Dazar'ai Confessor",
 		[345230] = 8,
 		[28880] = 1,
 		[49821] = 5,
 		[334992] = 2,
 		[296085] = "Za'qul",
-		[271543] = 2,
+		[323559] = 4,
 		[260685] = "Elder Leaxa",
-		[290793] = 5,
+		[231428] = 9,
 		[296086] = 2,
-		[311767] = "Darkwing Gargoyle",
+		[295374] = 12,
 		[308373] = "Unknown",
 		[294039] = 8,
-		[333790] = "Enraged Spirit",
+		[307185] = 8,
 		[314517] = 11,
-		[307177] = "Spellbound Ritualist",
-		[348139] = 8,
-		[311470] = 11,
-		[265372] = "Enthralled Guard",
+		[31884] = 2,
+		[295373] = 1,
+		[262232] = 1,
+		[322709] = "Tred'ova",
 		[308375] = "Portal Keeper",
-		[203791] = 2,
-		[260333] = "Cragmaw the Infested",
-		[295182] = "Blastatron X-80",
-		[231428] = 9,
+		[323732] = "Dealer Xy'exa",
+		[338321] = 10,
+		[153626] = 8,
+		[297256] = "King Gobbamak",
 		[326806] = "Inquisitor Sigar",
-		[329706] = "Mawsworn Archer",
+		[272382] = "Decayspeaker",
 		[322711] = "Halkias",
-		[319952] = 5,
-		[86659] = 2,
+		[305249] = 12,
+		[100784] = 10,
 		[279709] = 11,
-		[91778] = "Plagueravager <Moonßlight>",
+		[1066] = 11,
 		[32592] = 5,
 		[326808] = 6,
 		[328856] = "Sour Suckle",
@@ -9859,45 +9883,45 @@ _detalhes_global = {
 		[257617] = "The Sand Queen",
 		[50334] = 11,
 		[2139] = 8,
-		[218164] = 10,
-		[287183] = "[*] Voltaic Flash",
+		[299110] = "Annihilator Lak'hal",
+		[294912] = 2,
 		[296094] = 5,
-		[93825] = 3,
+		[188004] = "Shambling Hulk",
 		[341145] = "Nathrian Hierarch",
 		[192090] = 11,
 		[328859] = "Sour Suckle",
-		[290814] = 6,
+		[290819] = 3,
 		[341146] = "Court Executor",
-		[346097] = 1,
+		[299460] = "Pistonhead Blaster",
 		[328860] = "Sour Suckle",
 		[190043] = "Weaponlord Mehlkhior",
 		[283810] = 1,
-		[325624] = 5,
+		[313793] = "Deathwing",
 		[279715] = 8,
-		[187464] = 5,
+		[122278] = 10,
 		[211545] = 11,
-		[195645] = 3,
+		[282736] = "Gonk's Aspect",
 		[197211] = 7,
 		[298146] = 12,
 		[191068] = "Unknown <Archimonde>",
 		[257620] = 3,
 		[271526] = "Earthrager",
-		[280583] = 4,
-		[307201] = "Ka'zir",
-		[315443] = 6,
+		[197625] = 11,
+		[203791] = 2,
+		[303550] = "Tideshaper Korvess",
 		[229976] = 2,
-		[326017] = "[*] Decomposing Acid",
+		[268308] = "Lady Waycrest",
 		[341151] = "Nathrian Assassin",
 		[33697] = 10,
 		[320674] = 7,
 		[314531] = "Ravenous Fleshfiend",
 		[267433] = "Mech Jockey",
 		[187998] = "Shadowfel Warden",
-		[278543] = 6,
-		[179202] = 5,
-		[289235] = "Akunda the Devout",
+		[327942] = 7,
+		[333831] = 1,
+		[45334] = 11,
 		[257622] = 3,
-		[260323] = "Mogul Razdunk",
+		[41517] = 9,
 		[322724] = "Coldheart Ambusher",
 		[162402] = 2,
 		[22482] = 4,
@@ -9906,63 +9930,63 @@ _detalhes_global = {
 		[341155] = 5,
 		[269484] = "Viq'Goth",
 		[345251] = 9,
-		[339975] = "Nathrian Conservator",
-		[296978] = "Soul Fragment",
+		[184552] = "Umbral Supplicant",
+		[309687] = "Shredded Psyche <[*] Shred Psyche>",
 		[335013] = "Artificer Xy'mox",
 		[304297] = "Bursting Cragfish",
-		[298154] = 6,
-		[120954] = 10,
-		[209584] = 10,
-		[314502] = "Cursed Blood",
+		[214621] = 5,
+		[301078] = "Cyranus",
+		[297018] = "Warden of Souls",
+		[333808] = "Doctor Ickus",
 		[265391] = "Banquet Steward",
 		[260696] = "Sister Malady",
 		[326824] = "Echo of Sin",
-		[263344] = "Empowered Imperial Curator",
-		[298156] = "Orgozoa",
-		[12042] = 8,
+		[312490] = "Wrathion",
+		[322729] = 10,
+		[6262] = 9,
 		[294061] = "Strider Tonk",
-		[263345] = "Heavy Cannon",
+		[217694] = 8,
 		[265393] = "Banquet Steward",
 		[260697] = "Sister Briar",
 		[171620] = 3,
-		[184554] = "Umbral Supplicant",
+		[338077] = "Brood Ambusher",
 		[127797] = 11,
-		[285118] = "Laminaria",
+		[297398] = "Lady Ashvane",
 		[52128] = 7,
-		[279729] = 11,
-		[301078] = "Cyranus",
+		[328875] = "Patrician Cromwell",
+		[42650] = 6,
 		[300207] = "Weaponized Crawler",
 		[294064] = "Strider Tonk",
 		[271539] = 2,
 		[255579] = "Priestess Alun'za",
-		[233496] = 9,
+		[298120] = "Aethanel",
 		[285874] = "Grong",
-		[333841] = "Rek the Hardened",
-		[299450] = "Pistonhead Scrapper",
+		[202841] = 11,
+		[257045] = 3,
 		[260699] = "Sister Solena",
 		[285875] = "Grong",
-		[295354] = 12,
+		[326017] = "[*] Decomposing Acid",
 		[322735] = "Hakkar the Soulflayer",
-		[311321] = "Cultist Executioner",
+		[280615] = 7,
 		[326831] = "Grand Overseer",
 		[328879] = "Patrician Cromwell",
 		[322736] = "Hakkar the Soulflayer",
 		[300211] = "Weaponized Crawler",
-		[317878] = 5,
+		[208097] = 8,
 		[328880] = "Artificer Xy'mox",
 		[255581] = "Priestess Alun'za",
-		[257045] = 3,
+		[327710] = 5,
 		[285878] = "Akunda's Aspect",
 		[271544] = 2,
-		[223306] = 2,
+		[323544] = "Son of Hakkar",
 		[260701] = "Sister Briar",
 		[285879] = "Akunda's Aspect",
-		[294946] = 12,
+		[327995] = "Pestilent Harvester",
 		[255582] = "[*] Molten Gold",
-		[280615] = 7,
+		[258075] = "Stinging Parasite",
 		[302262] = 2,
-		[225311] = 2,
-		[288946] = 5,
+		[59544] = 5,
+		[17619] = 7,
 		[308406] = "Forge-Guard Hurrul",
 		[326836] = "Wicked Oppressor",
 		[287929] = "High Tinker Mekkatorque",
@@ -9970,42 +9994,42 @@ _detalhes_global = {
 		[215652] = 2,
 		[326837] = "Grand Overseer",
 		[201318] = 10,
-		[337948] = 5,
+		[333634] = "Amarth",
 		[260703] = "Sister Malady",
-		[319521] = "Kul'tharok",
-		[315427] = 7,
+		[331836] = "Lady Inerva Darkvein",
+		[295339] = 2,
 		[322743] = "Lumbering Creation",
 		[341173] = 12,
-		[282724] = 4,
+		[294961] = "[*] Blazing Chomp",
 		[271550] = 1,
 		[24275] = 2,
-		[280855] = 9,
-		[287887] = "Sister Katherine",
+		[83242] = 3,
+		[7814] = "Bronanda",
 		[337079] = 10,
 		[298172] = "Kosarus the Fallen",
 		[41635] = 5,
-		[344001] = "[*] Slime Trail",
+		[326075] = "Soul Infuser",
 		[328889] = "High Torturer Darithos",
 		[322746] = "[*] Corrupted Blood",
-		[268722] = "Venture Co. Earthshaper",
+		[331823] = 10,
 		[17364] = 7,
 		[328890] = "High Torturer Darithos",
 		[265410] = "Waycrest Reveler",
 		[103740] = 6,
 		[192106] = 7,
 		[152175] = 10,
-		[335913] = 10,
+		[2645] = 7,
 		[267459] = "Forgotten Denizen",
 		[285889] = "Gonk's Aspect",
-		[340011] = "Nathrian Registrar",
+		[155722] = 11,
 		[289985] = "Cannons",
-		[287147] = "[*] Dread Reaping",
+		[330067] = 12,
 		[302272] = "HK-8 Aerial Oppression Unit",
-		[319539] = "Kul'tharok",
-		[331825] = 10,
-		[189532] = "Binder Hallaani",
+		[326046] = "Spinemaw Staghorn",
+		[311362] = "[*] Rising Heat",
+		[10060] = 5,
 		[326846] = "Inquisitor Sigar",
-		[189531] = "Mystic Aaran",
+		[280653] = 4,
 		[127802] = 8,
 		[292035] = "K.U.-J.0.",
 		[302274] = "Tank Buster MK1",
@@ -10014,277 +10038,277 @@ _detalhes_global = {
 		[260708] = 1,
 		[285893] = "Gonk's Aspect",
 		[213610] = 5,
-		[262115] = 1,
-		[319655] = "Kryxis the Voracious",
+		[258133] = "Bilge Rat Looter",
+		[330135] = "[*] Fount of Pestilence",
 		[277703] = 8,
 		[328897] = "Shriekwing",
 		[5302] = 1,
 		[195181] = 6,
 		[269513] = 4,
 		[320707] = 10,
-		[199845] = "Psyfiend <Toshpriest>",
-		[311366] = "[*] Void Beam",
+		[272472] = 12,
+		[193358] = 4,
 		[326851] = "Sire Denathrius",
-		[257063] = "Kul Tiran Wavetender",
+		[264603] = "Elder Leaxa",
 		[314565] = "Blood of the Corruptor",
 		[195182] = 6,
 		[277706] = 9,
 		[279754] = 4,
 		[330948] = 10,
-		[280658] = 11,
-		[96312] = 6,
+		[344232] = 6,
+		[323541] = 10,
 		[5782] = 9,
 		[23252] = 1,
-		[309658] = 4,
+		[327851] = 1,
 		[253544] = "Dazar'ai Confessor",
 		[296138] = 5,
 		[181873] = "Shadow-Lord Iskar",
 		[256616] = "Scrimshaw Gutter",
-		[288853] = 6,
-		[2948] = 8,
-		[116267] = 8,
+		[311383] = "[*] Torment",
+		[303505] = 6,
+		[189545] = "Sargerei Soul Cleaver",
 		[186993] = "Blademaster Jubei'thos",
-		[52127] = 7,
+		[297292] = "Custodian Thonar",
 		[296140] = 10,
 		[247402] = 3,
 		[316618] = "Aqir Swarmkeeper",
 		[257641] = "Kul Tiran Marksman",
-		[330131] = 11,
+		[329711] = "Crimson Cabalist",
 		[101184] = 5,
-		[311159] = "Cursed Blood",
+		[210128] = 6,
 		[326858] = "Sire Denathrius",
 		[328906] = 8,
 		[314572] = 8,
 		[316620] = "Anubisath Sentinel",
 		[17877] = 9,
-		[161354] = 8,
-		[97341] = 4,
-		[295079] = "Za'qul",
-		[41514] = 5,
+		[200806] = 4,
+		[286821] = "[*] Akunda's Wrath",
+		[321629] = 8,
+		[23509] = 1,
 		[328908] = 10,
 		[298192] = "[*] Dark Beyond",
-		[311466] = 11,
-		[338003] = "Depraved Obliterator",
-		[290911] = 10,
+		[290918] = 12,
+		[256101] = "Overseer Korgus",
+		[203845] = 1,
 		[161399] = 5,
 		[316623] = "Disciple of the Prophet",
 		[253548] = "Dazar'ai Honor Guard",
-		[342248] = "Stinky Feedhauler",
+		[281843] = 1,
 		[322767] = "Drust Harvester",
 		[308433] = 10,
 		[326863] = 12,
-		[303505] = 6,
+		[348252] = 2,
 		[330959] = "Baroness Frieda",
 		[341198] = 4,
-		[23509] = 1,
+		[90708] = 1,
 		[115008] = 10,
-		[288410] = "High Tinker Mekkatorque",
+		[291949] = "K.U.-J.0.",
 		[341199] = "Nathrian Ranger",
-		[203845] = 1,
-		[344154] = 1,
+		[204361] = 7,
+		[323687] = "Dealer Xy'exa",
 		[298197] = 1,
 		[275672] = 1,
 		[277720] = 4,
 		[296150] = "[*] Vent Blast",
-		[338013] = "Anima Fountain",
+		[260669] = "Rixxa Fluxflame",
 		[275673] = 10,
 		[294103] = "Rocket Tonk",
-		[346503] = 12,
-		[265523] = "Bloodsworn Defiler",
-		[264408] = 7,
+		[307586] = "[*] Devoured Abyss",
+		[329875] = "Remornia",
+		[246851] = 3,
 		[188023] = 7,
 		[271579] = "Venture Co. Earthshaper",
-		[290372] = 1,
-		[70460] = "Frost Freeze Trap",
-		[311401] = "Il'gynoth",
-		[195707] = 1,
+		[301177] = "HK-8 Aerial Oppression Unit",
+		[264352] = 8,
+		[191587] = 6,
+		[325748] = 11,
 		[339156] = 10,
-		[215111] = "Dreadstalker <Judaasx>",
+		[258627] = "Earthrager",
 		[277724] = 4,
 		[271581] = 2,
-		[249919] = "Yazma",
-		[260669] = "Rixxa Fluxflame",
+		[308346] = "Dod",
+		[268214] = "Runecarver Sorn",
 		[294107] = "Scraphound",
 		[337110] = "Baroness Frieda",
 		[314585] = 1,
 		[227956] = 5,
-		[340355] = "[*] Rapid Infection",
+		[203975] = 11,
 		[320729] = "Xav the Unfallen",
 		[298204] = 10,
 		[341207] = 5,
 		[527] = 5,
-		[307317] = "Vexiona",
-		[315508] = 4,
-		[25046] = 4,
-		[326874] = "Stonefiend Anklebiter",
-		[321652] = "Bone Husk",
-		[197625] = 11,
-		[315392] = 2,
-		[325748] = 11,
+		[346325] = 5,
+		[115767] = 1,
+		[268429] = 7,
+		[204408] = 1,
+		[295047] = 2,
+		[308357] = "Fallen Heartpiercer",
+		[294027] = 2,
+		[319654] = "Kryxis the Voracious",
 		[258674] = "Off-Duty Laborer",
 		[259698] = 6,
 		[316637] = 9,
-		[308346] = "Dod",
+		[43688] = 3,
 		[156287] = 1,
 		[339163] = "General Kaal",
 		[256627] = "Kul Tiran Halberd",
 		[277731] = 4,
-		[296065] = 5,
+		[287891] = "[*] Sheep Shrapnel",
 		[339164] = "General Grashaal",
-		[304256] = "Huffer",
+		[303276] = "Bound Storm",
 		[335069] = 2,
-		[189554] = "Sargerei Adjutant",
+		[55078] = 6,
 		[314592] = "Mindrend Tentacle",
 		[70985] = "Blood-Queen Lana'thel",
 		[318688] = "Basher Tentacle",
 		[271590] = "Lady Waycrest",
 		[314593] = "Ka'zir",
-		[268429] = 7,
+		[265372] = "Enthralled Guard",
 		[302307] = 10,
 		[312546] = 6,
 		[339167] = "Theotar",
 		[341215] = "[*] Volatile Anima",
 		[310499] = "Tentacle of Drest'agath",
-		[326040] = "Sins of the Past",
-		[305287] = 5,
+		[317878] = 5,
+		[853] = 2,
 		[316643] = 1,
-		[321772] = "Droman Oulfarran",
+		[278931] = 9,
 		[328930] = 7,
 		[330978] = "Castellan Niklaus",
 		[275689] = 1,
-		[347918] = 3,
+		[344423] = "[*] Boneshatter Shield",
 		[691] = 9,
-		[268211] = "Runecarver Sorn",
-		[327942] = 7,
+		[192611] = 12,
+		[307354] = 5,
 		[703] = 4,
-		[255567] = "T'lonja",
-		[297108] = 4,
+		[6552] = 1,
+		[260280] = "Mogul Razdunk",
 		[182912] = 9,
 		[302312] = 10,
-		[113724] = 8,
-		[337037] = "Nekthara the Mangler",
+		[293025] = 10,
+		[119909] = 9,
 		[77130] = 7,
-		[48153] = 5,
+		[55095] = 6,
 		[345316] = 4,
 		[47528] = 6,
-		[323732] = "Dealer Xy'exa",
-		[188004] = "Shambling Hulk",
+		[34861] = 5,
+		[213602] = 5,
 		[755] = 9,
 		[759] = 8,
-		[288927] = "Unliving Augur",
+		[333980] = "Sire Denathrius",
 		[285933] = 9,
 		[328936] = "Sire Denathrius",
 		[49576] = 6,
 		[308459] = "Zardeth of the Black Claw",
 		[343271] = "Stone Legion Goliath",
 		[345319] = 8,
-		[293025] = 10,
-		[307358] = "Shad'har the Insatiable",
+		[338079] = "Brood Ambusher",
+		[317605] = "Nekthara the Mangler",
 		[253562] = "Dazar'ai Augur",
 		[345320] = 8,
-		[336026] = 3,
-		[272609] = "Faceless Corruptor",
+		[192109] = 7,
+		[321772] = "Droman Oulfarran",
 		[335082] = 1,
 		[279793] = 11,
 		[44457] = 8,
-		[200806] = 4,
+		[344230] = "General Kaal",
 		[294128] = "Rocket Tonk",
-		[340191] = "[*] Rejuvenating Radiance",
-		[344423] = "[*] Boneshatter Shield",
+		[344231] = 6,
+		[118594] = 5,
 		[275699] = 6,
-		[342282] = "Lady Inerva Darkvein",
+		[7992] = "Faeleaf Tender",
 		[225919] = 12,
 		[226943] = 5,
-		[328869] = "Patrician Cromwell",
+		[325807] = "Mueh'zala",
 		[343276] = "Stone Legion Goliath",
 		[69965] = "Skybreaker Protector",
 		[273653] = "Gloom Horror",
-		[325799] = "Depraved Houndmaster",
-		[311468] = 11,
+		[2061] = 5,
+		[302263] = 2,
 		[883] = 3,
-		[344230] = "General Kaal",
-		[291048] = 8,
-		[264378] = "Coven Diviner",
+		[315573] = 7,
+		[250036] = "[*] Shadowy Remains",
+		[310455] = "Hepthys",
 		[312562] = 5,
-		[287925] = "Lady Jaina Proudmoore",
-		[118594] = 5,
+		[291027] = 5,
+		[203961] = 11,
 		[294133] = 2,
 		[304372] = 5,
 		[298229] = "Gunker",
-		[196718] = 12,
-		[326002] = 5,
+		[346266] = 10,
+		[320696] = "Loyal Creation",
 		[337137] = 8,
 		[347376] = "Dance Controller",
-		[291000] = 8,
+		[288865] = 6,
 		[335090] = 4,
-		[2061] = 5,
+		[280773] = 1,
 		[273658] = "Gloom Horror",
 		[316661] = 1,
-		[121411] = 4,
+		[325564] = 5,
 		[296184] = 5,
 		[306423] = 10,
-		[310455] = "Hepthys",
+		[48438] = 11,
 		[335092] = 1,
-		[321893] = "Illusionary Vulpin <Mistcaller>",
+		[233582] = 9,
 		[259711] = "Block Warden",
 		[118089] = 2,
-		[69968] = "Skybreaker Hierophant",
+		[204406] = 1,
 		[320759] = "Decimator Shiq'voth",
-		[320696] = "Loyal Creation",
-		[297318] = "Stolen Scrapbot",
+		[296330] = 2,
+		[280780] = 11,
 		[71503] = 1,
-		[297153] = "Voidbound Ravager",
-		[309439] = "Crackling Stalker <Ra-den>",
+		[297162] = 4,
+		[260202] = "Mogul Razdunk",
 		[308474] = 12,
 		[335095] = 2,
-		[69970] = "Skybreaker Luminary",
+		[288977] = 6,
 		[290045] = "Eternal Enforcer",
 		[207495] = "Unknown <Troghast>",
-		[335096] = 1,
+		[318714] = "Unknown",
 		[345335] = 12,
-		[853] = 2,
+		[199804] = 4,
 		[333049] = 8,
 		[335097] = 1,
 		[320763] = 7,
 		[290047] = "Rastari Enforcer",
 		[324859] = "Mistveil Guardian",
 		[294143] = 5,
-		[2637] = 11,
+		[308432] = "Forge-Guard Hurrul",
 		[259714] = "[*] Decaying Spores",
-		[322757] = "Zolramus Gatekeeper",
+		[184449] = "Dia Darkwhisper",
 		[269571] = 2,
 		[279810] = 3,
 		[306431] = 5,
-		[307403] = "Void Ascendant",
+		[264526] = "Unknown",
 		[335100] = 1,
-		[288977] = 6,
+		[315391] = 2,
 		[322814] = "Devos",
-		[189592] = "Construct Peacekeeper",
-		[265433] = "Bloodsworn Defiler",
+		[178963] = 12,
+		[119914] = 9,
 		[69969] = "Kor'kron Necrolyte",
 		[298242] = "Orgozoa",
 		[207498] = 7,
-		[119381] = 10,
-		[297172] = "Voidbound Ravager",
-		[275776] = "Ironroot Strider",
-		[331982] = "General Draven",
+		[61230] = 12,
+		[188550] = 11,
+		[313564] = "Growth-Covered Tentacle",
+		[228477] = 12,
 		[310530] = 10,
 		[5143] = 8,
 		[322817] = "Devos",
-		[331618] = "Xav the Unfallen",
+		[315258] = "[*] Dread Inferno",
 		[269576] = 3,
-		[288988] = 4,
+		[196742] = 10,
 		[322818] = "Devos",
 		[34477] = 3,
-		[285959] = 10,
+		[335105] = 12,
 		[271625] = 3,
-		[119905] = 9,
+		[331997] = "Oryphrion",
 		[324867] = 5,
-		[291039] = 12,
+		[286954] = 6,
 		[320772] = "Nalthor the Rimebinder",
 		[259718] = "Sporecaller Zancha",
 		[316677] = "Aqir Swarmkeeper",
-		[329943] = "Remornia",
+		[268528] = 2,
 		[106830] = 11,
 		[157331] = "Primal Storm Elemental <Yukios-Kil'jaeden>",
 		[300296] = "Scrapbone Grinder",
@@ -10292,30 +10316,30 @@ _detalhes_global = {
 		[176785] = 5,
 		[314631] = 11,
 		[308488] = 11,
-		[259191] = "Yazma",
+		[309532] = 12,
 		[312584] = "Aqir Venomweaver",
 		[78674] = 11,
 		[47788] = 5,
 		[104271] = 2,
-		[207028] = 2,
+		[256128] = "Overseer Korgus",
 		[259720] = "Sporecaller Zancha",
 		[341254] = "Reborn Phoenix",
 		[32727] = 12,
-		[278767] = 10,
+		[203406] = 11,
 		[123725] = 10,
 		[308491] = 3,
-		[326005] = "Sire Denathrius",
-		[921] = 4,
-		[113746] = 10,
+		[287995] = "Sister Katherine",
+		[191634] = 7,
+		[329062] = 5,
 		[267537] = 11,
 		[261769] = 10,
-		[303041] = 10,
+		[1079] = 11,
 		[273681] = "Sergeant Bainbridge",
-		[212105] = 12,
+		[284383] = "Brother Joseph",
 		[335114] = "Huntsman Altimor",
-		[260734] = 7,
+		[284941] = "Opulence",
 		[44461] = 8,
-		[273657] = "Gloom Horror",
+		[309316] = "Maut",
 		[245388] = 4,
 		[312590] = "Shad'har the Insatiable",
 		[306447] = "Shad'har the Insatiable",
@@ -10323,7 +10347,7 @@ _detalhes_global = {
 		[335116] = "Huntsman Altimor",
 		[6807] = 11,
 		[306448] = "Shad'har the Insatiable",
-		[51124] = 6,
+		[183962] = "Exarch Yrel",
 		[245389] = 4,
 		[189076] = "Iron Peon",
 		[273685] = 12,
@@ -10335,10 +10359,10 @@ _detalhes_global = {
 		[188053] = "Fel Hellweaver",
 		[296212] = 10,
 		[132764] = 3,
-		[300308] = "Hatchery Egg",
+		[341263] = 5,
 		[1822] = 11,
 		[312595] = "Drest'agath",
-		[342443] = "Plagueroc",
+		[303421] = "Azsh'ari Frostbinder",
 		[59052] = 6,
 		[277784] = 7,
 		[69974] = "Skybreaker Marksman",
@@ -10346,192 +10370,192 @@ _detalhes_global = {
 		[267546] = "Rowdy Reveler",
 		[343313] = "Sindrel",
 		[320788] = "Nalthor the Rimebinder",
-		[311550] = "Jesh'ra",
-		[75] = 3,
+		[86392] = 4,
+		[319565] = 5,
 		[253583] = "Dazar'ai Augur",
 		[213652] = 2,
 		[181912] = "Shadow-Lord Iskar",
 		[62124] = 2,
 		[285978] = 8,
-		[264477] = "Aqu'sirr",
+		[195750] = 6,
 		[1966] = 4,
 		[308504] = 5,
 		[310552] = "Eye of Drest'agath",
 		[69975] = "Skybreaker Marksman",
 		[181913] = "Shadow-Lord Iskar",
 		[2006] = 5,
-		[32216] = 1,
+		[294171] = "Mawsworn Interceptor",
 		[304410] = 12,
-		[122278] = 10,
+		[124507] = 10,
 		[308506] = 8,
 		[188057] = "Fel Hellweaver",
 		[2060] = 5,
-		[342247] = 8,
-		[267551] = "Coin-Operated Crowd Pummeler",
+		[202914] = 3,
+		[8092] = 1,
 		[343319] = "Sindrel",
-		[297240] = "Lady Ashvane",
-		[311574] = "Jesh'ra",
+		[223929] = 6,
+		[258709] = "[*] Corrupted Gold",
 		[308508] = "Fallen Riftwalker",
 		[343320] = "Caramain",
 		[328986] = "Unstable Canister",
-		[2580] = 1,
+		[271656] = 2,
 		[51886] = 7,
 		[335130] = 5,
 		[337178] = "Unyielding Contender",
 		[281889] = 6,
-		[298950] = 1,
+		[311489] = 12,
 		[81751] = 5,
-		[166592] = 1,
-		[199844] = 8,
-		[1719] = 1,
+		[335338] = "Lord Chamberlain",
+		[288410] = "High Tinker Mekkatorque",
+		[313698] = 5,
 		[343323] = "Moldovaak",
+		[283947] = "Flame Jet",
+		[290469] = 1,
+		[213981] = 4,
 		[297262] = "King Gobbamak",
-		[272682] = 3,
-		[256740] = 1,
-		[278826] = 1,
-		[305055] = 5,
+		[300777] = "Slime Elemental",
 		[339229] = 12,
 		[316704] = 6,
 		[343325] = "Sindrel",
-		[2094] = 4,
+		[313643] = 11,
 		[259732] = "Sporecaller Zancha",
 		[308514] = 6,
 		[294180] = "Junkyard D.0.G.",
-		[204490] = 12,
+		[318971] = "Voidspawn Annihilator",
 		[206491] = 12,
-		[297261] = "King Gobbamak",
+		[297128] = "Defense Bot Mk III",
 		[310563] = "Maw of Drest'agath",
 		[288038] = "Kul Tiran Marine",
 		[339232] = 4,
-		[233490] = 9,
-		[306427] = 5,
+		[8122] = 5,
+		[278849] = "Coven Thornshaper",
 		[197277] = 2,
 		[290087] = "Jaina's Tide Elemental",
-		[233499] = 9,
+		[323889] = 4,
 		[310565] = 12,
 		[271658] = 1,
 		[347425] = "Lord Stavros",
 		[333091] = "Coldheart Ambusher",
 		[179872] = 8,
 		[288041] = "High Tinker Mekkatorque",
-		[73326] = 1,
-		[335150] = 5,
-		[323889] = 4,
-		[115308] = 10,
+		[139] = 5,
+		[209584] = 10,
+		[299055] = "Annihilator Lak'hal",
+		[229376] = 8,
 		[2908] = 11,
 		[292138] = "Blackwater Behemoth",
 		[285995] = "Opulence",
-		[173751] = "Faeleaf Warden",
+		[331638] = "Lord Stavros",
 		[47536] = 5,
 		[248473] = 10,
 		[183969] = "Unknown <Archimonde>",
 		[271662] = 5,
 		[306474] = 5,
-		[65081] = 5,
+		[298314] = "[*] Incubation Fluid",
 		[335143] = "Zolramus Bonemender",
 		[106839] = 11,
 		[306475] = 1,
-		[306985] = "Fury of N'Zoth",
-		[255654] = 11,
-		[119909] = 9,
+		[265761] = "Matron Bryndle",
+		[211881] = 12,
+		[124007] = "Xuen <Choplo>",
 		[12654] = 8,
-		[288455] = 1,
-		[120] = 8,
+		[280200] = 4,
+		[196834] = 7,
 		[279856] = 8,
 		[306477] = 5,
 		[215711] = 6,
 		[71516] = 1,
 		[288048] = "Death Rift <King Rastakhan>",
-		[273714] = 12,
-		[342332] = "Manifestation of Pride",
+		[265523] = "Bloodsworn Defiler",
+		[306670] = "[*] Soul Emanation",
 		[212640] = 3,
 		[205473] = 8,
 		[306479] = 5,
 		[341291] = 5,
 		[302384] = "Walkie Shockie X1",
-		[276268] = "Shrine Templar",
+		[347625] = 5,
 		[306480] = 3,
 		[283955] = "Frida Ironbellows",
 		[212641] = 2,
-		[164547] = 11,
-		[213983] = 4,
-		[195630] = 10,
-		[257692] = "[*] Tiki Blaze",
-		[298488] = "Aqir Bonecrusher",
+		[272737] = 7,
+		[309702] = "Basher Tentacle",
+		[304475] = "Queen Azshara",
+		[294195] = "Defense Bot Mk III",
+		[306985] = "Fury of N'Zoth",
 		[259740] = 1,
 		[219809] = 6,
 		[335151] = 5,
 		[271671] = 5,
 		[74589] = 9,
-		[333485] = "Rotspew",
+		[188614] = "[*] Desecration",
 		[294197] = 3,
 		[271672] = 3,
 		[273720] = "Heavy Ordnance",
 		[316723] = 1,
 		[310580] = "Maw of Drest'agath",
-		[197871] = 5,
+		[317792] = "Magus of the Dead <Rathux>",
 		[306485] = 11,
-		[498] = 2,
-		[295258] = 7,
+		[326005] = "Sire Denathrius",
+		[262652] = 7,
 		[320820] = 10,
-		[305496] = 11,
+		[310784] = "Eye of the Depths",
 		[333107] = "Mawsworn Endbringer",
-		[81269] = 11,
+		[1160] = 1,
 		[329012] = 7,
 		[255647] = 2,
-		[304475] = "Queen Azshara",
+		[17767] = "Makdok <Downloaded-Kil'jaeden>",
 		[75614] = 2,
 		[320822] = "Zolramus Bonemender",
 		[265533] = "Underrot Tick",
 		[341300] = "Nathrian Gargon Rider",
 		[310584] = "Maw of Drest'agath",
-		[320823] = "Millificent Manastorm",
-		[270404] = "Faeleaf Lasher",
+		[279868] = 7,
+		[298510] = "Aqir Venomweaver",
 		[275773] = 2,
-		[263648] = 12,
+		[311143] = "Blood of Ny'alotha",
 		[345397] = "Shriekwing",
-		[333273] = 6,
-		[317792] = "Magus of the Dead <Rathux>",
+		[260894] = "Elder Leaxa",
+		[275837] = 12,
 		[138927] = 11,
 		[320825] = "Mechanical Bomb Squirrel",
 		[115546] = 10,
-		[279033] = 7,
-		[262515] = "Venture Co. Skyscorcher",
-		[168657] = 11,
-		[115313] = 10,
+		[317223] = 2,
+		[315766] = "Tentacle of Drest'agath",
+		[214222] = 2,
+		[333641] = "Risen Warlord",
 		[341304] = "Nathrian Gargon Rider",
 		[335161] = 10,
-		[347625] = 5,
-		[296462] = "Radiance of Azshara",
+		[44614] = 8,
+		[273988] = 1,
 		[324923] = "Drust Boughbreaker",
-		[235314] = 8,
+		[310842] = "Occult Shadowmender",
 		[271682] = 5,
-		[323130] = "[*] Coagulating Ooze",
+		[205523] = 10,
 		[300351] = "Decimator Shiq'voth",
-		[280283] = 1,
-		[215159] = 5,
+		[256199] = "Overseer Korgus",
+		[31589] = 8,
 		[265540] = "Fetid Maggot",
 		[275779] = 2,
 		[343355] = 5,
 		[258723] = "[*] Grotesque Pool",
-		[333406] = "[*] Assassinate",
+		[13877] = 4,
 		[187052] = "Contracted Engineer",
 		[310592] = 6,
 		[271685] = 4,
 		[298306] = "[*] Incubation Fluid",
-		[305045] = 10,
+		[185562] = 3,
 		[175790] = 8,
 		[271686] = 4,
-		[28272] = 8,
+		[288615] = 5,
 		[162480] = 3,
 		[318785] = "Amalgamation of Flesh",
 		[20572] = 1,
 		[5176] = 11,
 		[333120] = 12,
 		[310595] = 6,
-		[256199] = "Overseer Korgus",
-		[31589] = 8,
-		[13877] = 4,
+		[321927] = 5,
+		[311015] = "Monstrous Behemoth",
+		[44744] = 3,
 		[163505] = 11,
 		[127323] = 4,
 		[290119] = 8,
@@ -10539,57 +10563,57 @@ _detalhes_global = {
 		[318788] = "Amalgamation of Flesh",
 		[234153] = 9,
 		[331075] = 5,
-		[112042] = "Grak'rath <Woesong>",
-		[264057] = 9,
-		[193753] = 11,
+		[345701] = 10,
+		[227542] = "Lady Catriona Von'Indi",
+		[325004] = "Lady Inerva Darkvein",
 		[290121] = 6,
-		[5308] = 1,
+		[205021] = 8,
 		[286026] = "Spirit of Gold",
 		[5784] = 9,
 		[194223] = 11,
-		[348] = 9,
+		[329324] = "Vicious Gargon",
 		[31707] = "Water Elemental <Arnbjorn>",
 		[320839] = "Zolramus Siphoner",
 		[331078] = 10,
 		[316744] = 7,
-		[319236] = 6,
-		[308962] = "Mindtwist Tendril",
+		[33763] = 11,
+		[282243] = "Apetagonizer 3000 <Grong>",
 		[331079] = 10,
 		[316745] = "Vexiona",
 		[6136] = "Azsh'ari Frostbinder",
-		[227542] = "Lady Catriona Von'Indi",
+		[274062] = 10,
 		[33206] = 5,
-		[104318] = "Wild Imp <Judaasx>",
+		[167971] = "Blingtron 5000 <Artsong>",
 		[175795] = 5,
-		[114113] = 11,
+		[329113] = "Lord Chamberlain",
 		[298317] = 2,
 		[6360] = "Bronanda",
 		[286031] = 5,
 		[320843] = "Famished Tick",
 		[298318] = 5,
 		[12975] = 1,
-		[311467] = 11,
+		[273836] = 1,
 		[271698] = "Azerokk",
 		[339274] = "General Kaal",
-		[196834] = 7,
-		[200685] = 12,
+		[321179] = 5,
+		[772] = 1,
 		[213680] = 11,
 		[298320] = "Loyal Myrmidon",
 		[341323] = "Nathrian Tracker",
-		[334228] = "Hungering Destroyer",
+		[54729] = 6,
 		[345419] = "Unknown",
 		[298321] = 1,
 		[162487] = 3,
-		[329113] = "Lord Chamberlain",
+		[325360] = "Grand Proctor Beryllia",
 		[69989] = "Skybreaker Marksman",
 		[47541] = 6,
-		[131318] = 6,
-		[197862] = 5,
+		[280384] = 1,
+		[329706] = "Mawsworn Archer",
 		[121183] = 2,
 		[290132] = 9,
 		[162488] = 3,
-		[300706] = "Toxic Monstrosity",
-		[317859] = 5,
+		[34767] = 2,
+		[70542] = "Ronald-Kil'jaeden <Ronald-Kil'jaeden>",
 		[298324] = 5,
 		[124255] = 10,
 		[310611] = 6,
@@ -10602,21 +10626,21 @@ _detalhes_global = {
 		[316756] = "Acidic Aqir",
 		[286040] = "Spirit of Gold",
 		[296279] = "[*] Anti-Trespassing Teleport",
-		[15286] = 5,
+		[43265] = 6,
 		[267611] = 2,
 		[310614] = "Tentacle of Drest'agath",
 		[15407] = 5,
-		[304853] = 5,
+		[321975] = "Pestilence Slime",
 		[267612] = 3,
 		[326997] = "Stoneborn Slasher",
-		[34767] = 2,
+		[287169] = "Sister Katherine",
 		[298329] = 5,
-		[319919] = 10,
-		[314801] = "Agustus Moulaine",
+		[331527] = "Lady Inerva Darkvein",
+		[345801] = 8,
 		[288091] = 1,
 		[331094] = 5,
 		[79206] = 7,
-		[73685] = 7,
+		[2479] = 3,
 		[345429] = "Slime Tentacle",
 		[259760] = 9,
 		[114018] = 4,
@@ -10624,217 +10648,217 @@ _detalhes_global = {
 		[271711] = 1,
 		[290141] = 3,
 		[341335] = "Unknown <Rathux-Area52>",
-		[263943] = "Heartsbane Runeweaver",
-		[185590] = "Archimonde",
+		[81297] = 2,
+		[333790] = "Enraged Spirit",
 		[306524] = "[*] Burning Soles",
 		[333145] = "Bleakwing Assassin",
-		[2383] = 5,
+		[306988] = "Fury of N'Zoth",
 		[345432] = 11,
-		[290640] = 11,
-		[59638] = 8,
+		[306636] = 7,
+		[189364] = 7,
 		[343385] = 8,
-		[215969] = 6,
+		[289235] = "Akunda the Devout",
 		[202425] = 11,
-		[295368] = 12,
+		[286801] = "The Indomitable",
 		[343386] = 8,
 		[320861] = "Famished Tick",
 		[157375] = "Primal Storm Elemental <Yukios-Kil'jaeden>",
 		[308575] = "Fallen Riftwalker",
-		[333250] = "Risen Warlord",
+		[295384] = 12,
 		[125282] = 1,
 		[54710] = 12,
 		[341340] = 6,
 		[286051] = "High Tinker Mekkatorque",
 		[288099] = "Lady Jaina Proudmoore",
 		[181949] = "Somber Guardian",
-		[333260] = 6,
-		[213243] = 12,
+		[82326] = 2,
+		[303583] = 12,
 		[88423] = 11,
-		[768] = 11,
+		[114165] = 2,
 		[81256] = 6,
-		[12472] = 8,
-		[268769] = 4,
+		[314847] = "Gryth'ax the Executioner",
+		[3567] = 8,
 		[273767] = "Empowered Imperial Duelist",
-		[223929] = 6,
+		[166592] = 1,
 		[183998] = 2,
 		[345439] = 11,
 		[298341] = "Current Stalker",
-		[67481] = 3,
-		[199427] = 2,
+		[212743] = 4,
+		[300525] = "Scrapbone Trashtosser",
 		[213691] = 3,
-		[82326] = 2,
-		[317915] = "Horrific Hemorrhage",
+		[300529] = "K'thir Mindcarver",
+		[274373] = 6,
 		[96103] = 1,
 		[279913] = 9,
 		[298343] = 5,
-		[314847] = "Gryth'ax the Executioner",
+		[279033] = 7,
 		[294248] = 9,
 		[221883] = 2,
-		[32747] = 12,
-		[300519] = "Queen Azshara",
+		[298488] = "Aqir Bonecrusher",
+		[295417] = "Abyssal Commander Sivara",
 		[294249] = 6,
-		[315179] = 12,
-		[300529] = "K'thir Mindcarver",
+		[325077] = 9,
+		[331251] = "Azules",
 		[324966] = 5,
 		[294250] = 3,
-		[329062] = 5,
+		[320871] = 5,
 		[173762] = "Faeleaf Warden",
 		[341349] = "Nathrian Tracker",
-		[81297] = 2,
+		[300545] = "[*] Mighty Rupture",
 		[152261] = 2,
-		[310780] = "Eye of the Depths",
+		[164547] = 11,
 		[300395] = "Pashmar the Fanatical",
-		[284165] = "[*] Voltaic Flash",
+		[290814] = 6,
 		[221885] = 2,
 		[322921] = "[*] Archon's Spear",
-		[292359] = 11,
+		[5374] = 4,
 		[343399] = 12,
 		[152262] = 2,
-		[286377] = "Rastari Royal Guard",
-		[260793] = "Cragmaw the Infested",
+		[296462] = "Radiance of Azshara",
+		[341352] = "Nathrian Gargon Rider",
 		[302445] = 6,
 		[221886] = 2,
 		[247483] = 10,
-		[267901] = "Brother Ironhull",
+		[269937] = 2,
 		[327019] = "Portal",
-		[267799] = 2,
-		[252687] = "Shadowblade Stalker",
-		[275826] = "Ashvane Commander",
+		[59638] = 8,
 		[210714] = 7,
+		[275826] = "Ashvane Commander",
+		[290500] = 10,
 		[271731] = "Gnomish Gyro-Engineer",
-		[315000] = "Aqir Shadowcrafter",
+		[306726] = "Vez'okk the Lightless",
 		[207553] = 7,
-		[201664] = 11,
-		[343724] = 2,
-		[265759] = "Matron Bryndle",
-		[345546] = 3,
-		[327022] = 4,
+		[211793] = 6,
 		[267809] = "Forgotten Denizen",
+		[290512] = 10,
+		[23922] = 1,
+		[327022] = 4,
+		[132036] = 2,
 		[306545] = 5,
-		[280384] = 1,
+		[108447] = 9,
 		[120679] = 3,
 		[64695] = 1,
-		[316951] = "Corrosive Digester",
-		[323372] = "Oryphrion",
-		[108447] = 9,
-		[115129] = 10,
-		[298526] = "Hatchery Gauntlet",
-		[229376] = 8,
-		[227255] = 12,
+		[190411] = 1,
+		[296454] = "Deadsoul Stalker",
+		[313146] = 10,
+		[345546] = 3,
+		[329582] = 11,
+		[282444] = "Kimbul's Aspect",
+		[319288] = 10,
 		[320882] = 5,
 		[298357] = 5,
-		[316958] = 2,
-		[284399] = "Living Bomb",
+		[323385] = 5,
+		[323107] = "Oozing Leftovers",
 		[279928] = 12,
-		[300650] = "Toxic Lurker",
-		[138213] = 4,
+		[302917] = 3,
+		[296492] = "Void Globule",
 		[200389] = 11,
-		[1776] = 4,
-		[337709] = 6,
+		[318974] = "Voidspawn Annihilator",
+		[307012] = "Gaze of Madness",
 		[260798] = 1,
-		[313146] = 10,
+		[316971] = "Titanic Countermeasure",
 		[45242] = 5,
 		[314742] = "Warpweaver Dushar",
 		[275835] = "Ashvane Invader",
 		[327029] = "Shambling Arbalest",
 		[304504] = 12,
-		[110039] = 1,
+		[116095] = 10,
 		[275836] = "Ashvane Invader",
-		[271924] = 7,
-		[15290] = 5,
+		[298829] = "Witch Doctor Umbu",
+		[273977] = 6,
 		[331126] = "Stalker",
 		[284028] = "Storm",
-		[307012] = "Gaze of Madness",
-		[35546] = 4,
+		[333406] = "[*] Assassinate",
+		[345695] = 10,
 		[322936] = "Halkias",
 		[81262] = "Efflorescence <Leafyo>",
 		[188105] = "Hellfire Guardian",
 		[312698] = "Wrathion",
-		[186265] = 3,
+		[329539] = "Unknown <Vile Occultist>",
 		[300412] = "[*] Decimator",
 		[302460] = "[*] Evacuation Protocol",
 		[288126] = 8,
 		[194249] = 5,
-		[300877] = "Titan Console",
-		[341550] = 4,
+		[264038] = "Coven Thornshaper",
+		[302932] = 3,
 		[345464] = 6,
 		[314748] = "Warpweaver Dushar",
 		[300414] = "Scrapbone Grinder",
-		[333634] = "Amarth",
+		[333616] = "Winged Ravager",
 		[304510] = 4,
 		[273794] = 9,
-		[345693] = 2,
+		[331321] = "[*] Spike Trap",
 		[212680] = 3,
 		[345466] = 1,
-		[290648] = 5,
-		[282179] = "Grong",
+		[157503] = 7,
+		[329548] = 9,
 		[108396] = 9,
-		[321258] = "[*] Final Harvest",
+		[268129] = "Refreshment Vendor",
 		[331133] = "Plaguedoused Remnant",
-		[273992] = 6,
+		[300893] = 12,
 		[302465] = "Radiance of Azshara",
 		[320895] = 5,
 		[322943] = "Halkias",
-		[298841] = 1,
-		[157504] = 7,
-		[320896] = 5,
-		[323406] = "[*] Jagged Gash",
-		[316801] = 5,
-		[296518] = "Walkie Shockie X1",
-		[329088] = 5,
-		[314754] = "Umbral Seer",
-		[316802] = 3,
-		[206803] = 12,
-		[320898] = 8,
-		[308807] = "Zardeth of the Black Claw",
-		[260805] = "Sister Malady",
 		[288613] = 3,
+		[259830] = "Sporecaller Zancha",
+		[320896] = 5,
+		[298849] = "Trixie Tazer",
+		[316801] = 5,
+		[327233] = "Plaguebelcher",
+		[329088] = 5,
+		[322945] = "Halkias",
+		[316802] = 3,
+		[48107] = 8,
+		[320898] = 8,
+		[112042] = "Grak'rath <Woesong>",
+		[260805] = "Sister Malady",
+		[28272] = 8,
 		[320899] = 8,
 		[306565] = 5,
 		[199373] = "Army of the Dead <Moonßlight>",
-		[290500] = 10,
-		[185039] = "Hellfire Cannon",
-		[261947] = 10,
-		[199483] = 3,
+		[11196] = 6,
+		[168657] = 11,
+		[290450] = "Prelate Za'lan",
+		[196413] = 7,
 		[253639] = 5,
 		[213708] = 11,
 		[61882] = 7,
 		[300424] = "Scrapbone Bully",
-		[319175] = 4,
-		[286587] = 10,
+		[325254] = "Grand Proctor Beryllia",
+		[164815] = 11,
 		[145109] = 11,
-		[64977] = 1,
-		[49376] = 11,
-		[296330] = 2,
-		[302681] = "Trixie Tazer",
+		[308945] = "Mindtwist Tendril",
+		[30449] = 8,
+		[213709] = 11,
+		[250735] = 5,
 		[300426] = "Decimator Shiq'voth",
 		[32223] = 2,
 		[296331] = "[*] Cutting Beam",
 		[145110] = 11,
 		[300427] = "Scrapbone Bully",
-		[343898] = "Stone Legion Goliath",
+		[270246] = "Forge Keeper",
 		[320905] = 8,
 		[6201] = 9,
-		[284262] = "Sister Katherine",
-		[331620] = 10,
+		[305008] = 6,
+		[323372] = "Oryphrion",
 		[185042] = "Hellfire Cannon",
 		[306572] = 10,
-		[308878] = "Zardeth of the Black Claw",
+		[307057] = "Vexiona",
 		[277904] = 8,
 		[110959] = 8,
 		[306573] = 5,
 		[341385] = 5,
-		[171827] = 3,
+		[211805] = 6,
 		[152279] = 6,
 		[314765] = 2,
 		[292240] = 9,
-		[108978] = 8,
-		[282083] = "Grong",
+		[307064] = "Fury of N'Zoth",
+		[341864] = "Nathrian Gargon Rider",
 		[314766] = 2,
 		[316814] = 11,
-		[280177] = 8,
-		[288146] = 4,
-		[256893] = 2,
+		[313208] = "Image of Absolution",
+		[185044] = "Hellfire Cannon",
+		[193357] = 4,
 		[260811] = "Mogul Razdunk",
 		[294290] = "Waste Processing Unit",
 		[312720] = "Faceless Dominator",
@@ -10842,104 +10866,104 @@ _detalhes_global = {
 		[300434] = "Scrapbone Bully",
 		[294291] = "Waste Processing Unit",
 		[201427] = 12,
-		[307071] = "Synthesis Growth",
+		[315000] = "Aqir Shadowcrafter",
 		[341390] = "Executrix Ophelia",
-		[329548] = 9,
+		[313040] = "Fury of N'Zoth",
 		[329104] = "Lord Chamberlain",
-		[331634] = "Lord Stavros",
+		[288441] = "Lady Jaina Proudmoore",
 		[300436] = "Scrapbone Shaman",
 		[310675] = 5,
 		[201428] = 12,
 		[210643] = 7,
 		[260813] = "Mogul Razdunk",
-		[33763] = 11,
+		[194384] = 5,
 		[148187] = 10,
-		[164862] = 11,
+		[268184] = "Windspeaker Heldis",
 		[292247] = "Blackwater Behemoth",
 		[343441] = 5,
 		[312725] = 5,
-		[308862] = "Unstable Servant <Zardeth of the Black Claw>",
+		[260046] = "Zanj'ir Honor Guard",
 		[228050] = 7,
 		[286105] = 12,
 		[337299] = 8,
-		[286342] = 11,
+		[307061] = "Fury of N'Zoth",
 		[325013] = 5,
 		[175833] = 7,
 		[279963] = 11,
 		[186072] = "Dark Devourer",
 		[316823] = 11,
-		[323373] = "[*] Anima Surge",
+		[313227] = "Ra-den",
 		[329110] = "Doctor Ickus",
 		[255696] = 3,
 		[341397] = "Anima Orb",
 		[343445] = 5,
-		[345638] = 5,
+		[321152] = 5,
 		[235219] = 8,
-		[305060] = 5,
+		[51124] = 6,
 		[302491] = 2,
 		[320921] = 8,
-		[145255] = 12,
+		[331673] = 10,
 		[124273] = 10,
-		[290448] = "[*] Seal of Purification",
+		[77220] = 9,
 		[345495] = "Frothing Pustule",
 		[50622] = 1,
-		[308876] = "Unknown <Zardeth of the Black Claw>",
+		[317062] = 5,
 		[8690] = 3,
 		[180955] = "Felfire Demolisher",
-		[181089] = "Unknown",
+		[252753] = 11,
 		[308637] = 12,
-		[325260] = "Grand Proctor Beryllia",
+		[145255] = 12,
 		[345497] = 2,
-		[229206] = 4,
-		[325020] = 5,
 		[331398] = "Volatile Memory",
+		[325020] = 5,
+		[264105] = "Marked Sister",
 		[312734] = 5,
-		[196447] = 9,
+		[181089] = "Unknown",
 		[124274] = 10,
-		[20473] = 2,
+		[325260] = "Grand Proctor Beryllia",
 		[345499] = 11,
 		[314783] = 5,
 		[267685] = 8,
-		[333711] = "Skeletal Raptor",
+		[300693] = 5,
 		[320927] = 8,
-		[298651] = "Mechacycle",
+		[345727] = 10,
 		[215769] = 5,
-		[288415] = "Bwonsamdi",
+		[18562] = 11,
 		[20066] = 2,
-		[339603] = "Fara",
+		[274346] = 12,
 		[341406] = "Executrix Ophelia",
 		[310690] = 4,
-		[315291] = "[*] Devoured Abyss",
-		[296725] = "Lady Ashvane",
+		[331663] = 10,
+		[316944] = 12,
 		[124275] = 10,
-		[274087] = "Zekhan",
+		[305055] = 5,
 		[271784] = "Footbomb Hooligan",
-		[194384] = 5,
+		[327574] = 6,
 		[316835] = "Twisted Appendage <Skarsnik-Kil'jaeden>",
 		[220890] = 6,
 		[312740] = 5,
-		[190313] = "Archimonde",
+		[188389] = 7,
 		[325027] = "Drust Boughbreaker",
 		[120692] = 5,
 		[312741] = "Shredded Psyche <[*] Shred Psyche>",
 		[210652] = 7,
 		[325028] = 3,
-		[341865] = "Court Executor",
-		[296863] = 2,
-		[188389] = 7,
-		[333477] = "Goregrind",
-		[16191] = 7,
+		[286377] = "Rastari Royal Guard",
+		[337315] = 2,
+		[325535] = "Depraved Houndmaster",
+		[261977] = 10,
+		[768] = 11,
 		[271788] = 3,
 		[290218] = 9,
-		[179057] = 12,
-		[212801] = 8,
-		[286389] = "Rastari Royal Guard",
+		[255836] = "Priestess Alun'za",
+		[296662] = "Lady Ashvane",
+		[254813] = 9,
 		[322983] = 10,
 		[292267] = "Omega Buster",
 		[343461] = 10,
 		[250585] = "[*] Toxic Pool",
 		[314793] = 8,
-		[288477] = 2,
+		[263899] = "Heartsbane Vinetwister",
 		[49088] = 6,
 		[213726] = 6,
 		[306603] = "Ra-den",
@@ -10948,28 +10972,28 @@ _detalhes_global = {
 		[279983] = 12,
 		[282031] = "Mestrah",
 		[292270] = "Blackwater Behemoth",
-		[278310] = 8,
-		[316959] = "Corrosive Digester",
-		[288449] = "King Rastakhan",
-		[267899] = "Brother Ironhull",
-		[306971] = "Fury of N'Zoth",
+		[300785] = "Queen Azshara",
+		[213858] = 1,
+		[212800] = 12,
+		[329395] = "Honored Duelist",
+		[335538] = "The Grand Malleare",
 		[329131] = 5,
 		[290224] = 12,
 		[333227] = "Risen Warlord",
 		[269747] = 3,
-		[312750] = "Unknown",
-		[290718] = 6,
+		[65917] = 5,
+		[57822] = 8,
 		[325037] = 3,
-		[296693] = "Lady Ashvane",
+		[304831] = "Seeker of Souls",
 		[312751] = 3,
 		[210657] = 7,
-		[247677] = 2,
+		[276304] = "Rowdy Reveler",
 		[286131] = 4,
-		[210833] = 8,
+		[286391] = "Rastari Royal Guard",
 		[282036] = "Manceroy Flamefist",
 		[316848] = "Fury of N'Zoth",
 		[71549] = "Captain Brandon",
-		[345695] = 10,
+		[311159] = "Cursed Blood",
 		[347565] = 5,
 		[333231] = "Sathel the Accursed",
 		[294324] = "Waste Processing Unit",
@@ -10977,137 +11001,137 @@ _detalhes_global = {
 		[20707] = 9,
 		[325041] = 5,
 		[277943] = 7,
-		[238454] = 9,
+		[280149] = 6,
 		[227041] = 11,
-		[173958] = 3,
-		[263905] = "Heartsbane Runeweaver",
-		[300762] = 7,
+		[329417] = 5,
+		[68054] = "Jeeves <Artsong>",
+		[73685] = 7,
 		[282040] = "Manceroy Flamefist",
 		[292279] = "Blackwater Behemoth",
 		[120696] = 5,
-		[308956] = "Eye of Drest'agath",
+		[209788] = 12,
 		[210660] = 7,
 		[284089] = "Storm",
-		[278350] = 9,
-		[224126] = 7,
+		[304853] = 5,
+		[185245] = 12,
 		[306615] = 8,
 		[256735] = 4,
-		[300717] = 7,
+		[331537] = "Shadowgrasp Totem <Emosong>",
 		[312759] = 4,
 		[298425] = "Cyranus",
 		[316855] = "Crimson Protector",
 		[55233] = 6,
-		[208772] = 5,
+		[213888] = 3,
 		[306617] = "Vez'okk the Lightless",
 		[316856] = "General Grashaal",
 		[71551] = "Captain Brandon",
 		[279997] = 11,
-		[311015] = "Monstrous Behemoth",
-		[196528] = 6,
-		[319206] = 2,
-		[317159] = 4,
+		[208770] = 12,
+		[313041] = "Fury of N'Zoth",
+		[224127] = 7,
+		[343724] = 2,
 		[323001] = "Halkias",
 		[333240] = 10,
 		[294333] = "Deadsoul Shadow",
-		[337614] = 5,
+		[102383] = 11,
 		[265665] = "Living Rot",
 		[333241] = "Raging Bloodhorn",
 		[253666] = "Dazar'ai Juggernaut",
-		[321264] = "Rockbound Sprite",
-		[298743] = 9,
+		[199450] = 2,
+		[296669] = "Alx'kov the Infested",
 		[308669] = "Eye of Chaos",
 		[104316] = 9,
-		[318970] = "Corruptor Tentacle",
+		[317159] = 4,
 		[298431] = 5,
-		[308980] = "Corruption Tumor",
+		[195470] = 12,
 		[327100] = "[*] Noxious Fog",
 		[345530] = 3,
 		[265668] = "Living Rot",
 		[275907] = "Azerokk",
 		[277955] = 12,
 		[217832] = 12,
-		[33786] = 11,
+		[274289] = 12,
 		[316863] = 6,
 		[335293] = 11,
-		[53480] = 3,
+		[343791] = 10,
 		[306625] = 10,
 		[275909] = 11,
-		[308998] = "Fallen Taskmaster",
+		[284399] = "Living Bomb",
 		[337342] = 10,
-		[185245] = 12,
-		[171845] = 1,
+		[288515] = 8,
+		[58867] = "Spirit Wolf <Yukios-Kil'jaeden>",
 		[237287] = 7,
-		[345701] = 10,
-		[296718] = "Faceless Willbreaker",
-		[300816] = "Slime Elemental",
+		[276234] = "B.O.O.M.B.A.",
+		[300806] = 11,
+		[300832] = 1,
 		[277959] = 3,
 		[345535] = 1,
 		[323010] = "Devos",
-		[331537] = "Shadowgrasp Totem <Emosong>",
+		[70116] = "Unknown",
 		[277960] = 7,
 		[288199] = "Lady Jaina Proudmoore",
 		[323011] = "Devos",
-		[341441] = "Hulking Gargon",
+		[256742] = 3,
 		[286152] = 12,
 		[320964] = 5,
-		[276266] = "Tidesage Spiritualist",
+		[306735] = "Wrathion",
 		[260838] = "[*] Homing Missile",
 		[171761] = 1,
 		[263628] = "Mechanized Peacekeeper",
-		[266030] = 9,
+		[268062] = 2,
 		[284106] = "Sister Katherine",
-		[58867] = "Spirit Wolf <Yukios-Kil'jaeden>",
+		[313109] = "[*] Unstable Nightmare",
 		[345539] = 5,
-		[210854] = 7,
-		[3567] = 8,
-		[272180] = "Grotesque Horror",
+		[304975] = "Inquisitor Gnshal",
+		[315161] = "Eye of Corruption",
+		[33786] = 11,
 		[345540] = 5,
-		[290469] = 1,
+		[288546] = "Magus of the Dead <Moonßlight>",
 		[300490] = "Serena Scarscale",
 		[277965] = "Heavy Ordnance",
 		[345541] = 5,
 		[306634] = "[*] Unstable Void",
 		[308682] = "Wrathion",
-		[306995] = "Wrathion",
-		[211881] = 12,
-		[329539] = "Unknown <Vile Occultist>",
+		[215969] = 6,
+		[298787] = "Queen Azshara",
+		[266030] = 9,
 		[300492] = "Venna Seastorm",
 		[294349] = "Living Waste",
-		[263891] = "Heartsbane Vinetwister",
+		[228260] = 5,
 		[339400] = 3,
 		[17253] = "Rockruff <Hanai-EmeraldDream>",
 		[335305] = "Depths Warden",
-		[315197] = "Thing From Beyond",
+		[31230] = 4,
 		[306637] = "[*] Unstable Void Burst",
 		[300494] = "Venna Seastorm",
 		[277969] = 3,
 		[345545] = 4,
 		[323020] = "Drust Spiteclaw",
-		[87024] = 8,
+		[276292] = "Ironhull Apprentice",
 		[302543] = "Faeleaf Shimmerwing",
-		[263636] = "Addled Thug",
+		[312782] = "N'Zoth the Corruptor",
 		[255723] = 11,
-		[142073] = 6,
+		[333260] = 6,
 		[108416] = 9,
 		[263637] = "Addled Thug",
-		[1680] = 1,
-		[304731] = "Za'qul",
+		[115178] = 10,
+		[233397] = 6,
 		[188148] = "Gorebound Assassin",
 		[288211] = "Lady Jaina Proudmoore",
-		[284424] = "[*] Scorching Ground",
-		[181094] = "Felfire Demolisher",
-		[276229] = "B.O.O.M.B.A.",
+		[240446] = "[*] Explosion",
+		[321105] = "Ravenous Dreadbat",
+		[304731] = "Za'qul",
 		[320976] = 3,
-		[205766] = 8,
+		[214975] = 6,
 		[284117] = "Sister Katherine",
-		[302952] = 3,
+		[164812] = 11,
 		[329168] = "Sinstone Statue",
 		[339407] = "Stone Legion Skirmisher",
-		[243651] = 5,
-		[208771] = 5,
-		[325360] = "Grand Proctor Beryllia",
+		[266095] = "Zanj'ir Brute",
+		[209862] = "[*] Volcanic Plume",
+		[203651] = 11,
 		[331217] = "[*] Shared Pain",
-		[114165] = 2,
+		[329425] = "Flameforge Enforcer",
 		[327122] = "Remornia",
 		[263642] = 12,
 		[347600] = 11,
@@ -11116,7 +11140,7 @@ _detalhes_global = {
 		[176888] = 6,
 		[339410] = "Stone Legion Skirmisher",
 		[284121] = "Sister Katherine",
-		[270246] = "Forge Keeper",
+		[270248] = "Burning Emberguard",
 	},
 	["encounter_spell_pool"] = {
 		{
@@ -11215,21 +11239,21 @@ _detalhes_global = {
 			2391, -- [1]
 			"Sathel the Accursed", -- [2]
 		},
-		[306995] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[240559] = {
+			2111, -- [1]
+			"[*] Grievous Wound", -- [2]
 		},
 		[282943] = {
 			2257, -- [1]
 			"Piston Smasher", -- [2]
 		},
-		[306996] = {
-			2336, -- [1]
-			"Void Ascendant", -- [2]
+		[323372] = {
+			2358, -- [1]
+			"Oryphrion", -- [2]
 		},
-		[330537] = {
-			2383, -- [1]
-			"[*] Gluttonous Miasma", -- [2]
+		[271174] = {
+			2115, -- [1]
+			"Pallid Gorger", -- [2]
 		},
 		[347425] = {
 			2412, -- [1]
@@ -11239,9 +11263,9 @@ _detalhes_global = {
 			2358, -- [1]
 			"[*] Anima Surge", -- [2]
 		},
-		[330026] = {
-			2384, -- [1]
-			"Doctor Ickus", -- [2]
+		[282945] = {
+			2257, -- [1]
+			"Buzz Saw", -- [2]
 		},
 		[332585] = {
 			2407, -- [1]
@@ -11255,9 +11279,9 @@ _detalhes_global = {
 			2404, -- [1]
 			"Echo Bullrider", -- [2]
 		},
-		[313652] = {
-			2333, -- [1]
-			"Ka'zir", -- [2]
+		[342310] = {
+			2405, -- [1]
+			"Artificer Xy'mox", -- [2]
 		},
 		[316211] = {
 			2328, -- [1]
@@ -11271,25 +11295,25 @@ _detalhes_global = {
 			2109, -- [1]
 			"Dread Captain Lockwood", -- [2]
 		},
-		[328494] = {
-			2361, -- [1]
-			"[*] Sintouched Anima", -- [2]
+		[269131] = {
+			2132, -- [1]
+			"Lord Stormsong", -- [2]
 		},
 		[318771] = {
 			2344, -- [1]
 			"Psychophage", -- [2]
 		},
-		[333612] = {
-			2383, -- [1]
-			"Winged Ravager", -- [2]
+		[329518] = {
+			2402, -- [1]
+			"Shade of Kael'thas", -- [2]
 		},
 		[264526] = {
 			2130, -- [1]
 			"Unknown", -- [2]
 		},
-		[285508] = {
-			2281, -- [1]
-			"Munitions Barrel <Kul Tiran Marine>", -- [2]
+		[305978] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[310584] = {
 			2343, -- [1]
@@ -11343,9 +11367,9 @@ _detalhes_global = {
 			2384, -- [1]
 			"Doctor Ickus", -- [2]
 		},
-		[320823] = {
-			2394, -- [1]
-			"Millificent Manastorm", -- [2]
+		[298306] = {
+			2303, -- [1]
+			"[*] Incubation Fluid", -- [2]
 		},
 		[297283] = {
 			2290, -- [1]
@@ -11355,17 +11379,17 @@ _detalhes_global = {
 			2404, -- [1]
 			"Mordretha, the Endless Empress", -- [2]
 		},
-		[312125] = {
-			2327, -- [1]
-			"[*] Dark Manifestation", -- [2]
+		[310078] = {
+			2343, -- [1]
+			"Maw of Drest'agath", -- [2]
 		},
-		[292167] = {
-			2289, -- [1]
-			"Blackwater Behemoth", -- [2]
+		[320825] = {
+			2394, -- [1]
+			"Mechanical Bomb Squirrel", -- [2]
 		},
-		[307008] = {
-			2337, -- [1]
-			"Gaze of Madness", -- [2]
+		[294726] = {
+			2298, -- [1]
+			"Abyssal Commander Sivara", -- [2]
 		},
 		[285003] = {
 			2272, -- [1]
@@ -11379,9 +11403,9 @@ _detalhes_global = {
 			2106, -- [1]
 			"Azerokk", -- [2]
 		},
-		[315197] = {
-			2290, -- [1]
-			"Thing From Beyond", -- [2]
+		[331573] = {
+			2406, -- [1]
+			"Harnessed Specter", -- [2]
 		},
 		[342320] = {
 			2406, -- [1]
@@ -11395,17 +11419,17 @@ _detalhes_global = {
 			2271, -- [1]
 			"[*] Pulse-quickening Toxin", -- [2]
 		},
-		[327992] = {
-			2407, -- [1]
-			"Sinister Reflection", -- [2]
+		[342321] = {
+			2406, -- [1]
+			"Lady Inerva Darkvein", -- [2]
 		},
 		[114942] = {
 			2327, -- [1]
 			"Healing Tide Totem <Penguinpal>", -- [2]
 		},
-		[286541] = {
-			2271, -- [1]
-			"Yalat's Bulwark", -- [2]
+		[327481] = {
+			2357, -- [1]
+			"Kin-Tara", -- [2]
 		},
 		[342322] = {
 			2406, -- [1]
@@ -11507,9 +11531,9 @@ _detalhes_global = {
 			2344, -- [1]
 			2, -- [2]
 		},
-		[286040] = {
-			2271, -- [1]
-			"Spirit of Gold", -- [2]
+		[320839] = {
+			2390, -- [1]
+			"Zolramus Siphoner", -- [2]
 		},
 		[304975] = {
 			2371, -- [1]
@@ -11519,9 +11543,9 @@ _detalhes_global = {
 			2280, -- [1]
 			"Laminaria", -- [2]
 		},
-		[333634] = {
-			2388, -- [1]
-			"Amarth", -- [2]
+		[304976] = {
+			2332, -- [1]
+			"Thrall", -- [2]
 		},
 		[324424] = {
 			2404, -- [1]
@@ -11535,9 +11559,9 @@ _detalhes_global = {
 			2257, -- [1]
 			"The Platinum Pummeler", -- [2]
 		},
-		[296279] = {
-			2291, -- [1]
-			"[*] Anti-Trespassing Teleport", -- [2]
+		[320843] = {
+			2360, -- [1]
+			"Famished Tick", -- [2]
 		},
 		[188888] = {
 			1778, -- [1]
@@ -11571,9 +11595,9 @@ _detalhes_global = {
 			2365, -- [1]
 			"[*] Jagged Gash", -- [2]
 		},
-		[260279] = {
-			2108, -- [1]
-			"[*] Gatling Gun", -- [2]
+		[287072] = {
+			2271, -- [1]
+			"Opulence", -- [2]
 		},
 		[320336] = {
 			2388, -- [1]
@@ -11655,9 +11679,9 @@ _detalhes_global = {
 			2381, -- [1]
 			"Lord Chamberlain", -- [2]
 		},
-		[306015] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[332626] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[322903] = {
 			2363, -- [1]
@@ -11683,13 +11707,13 @@ _detalhes_global = {
 			2398, -- [1]
 			"Shriekwing", -- [2]
 		},
-		[307041] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[317276] = {
+			2331, -- [1]
+			"Ra-den", -- [2]
 		},
-		[331606] = {
-			2366, -- [1]
-			"Oppressive Banner <Xav the Unfallen>", -- [2]
+		[307042] = {
+			2337, -- [1]
+			"Nightmare Antigen", -- [2]
 		},
 		[336212] = {
 			2417, -- [1]
@@ -11743,6 +11767,10 @@ _detalhes_global = {
 			2113, -- [1]
 			"[*] Aura of Thorns", -- [2]
 		},
+		[300494] = {
+			2299, -- [1]
+			"Venna Seastorm", -- [2]
+		},
 		[283507] = {
 			2271, -- [1]
 			"The Hand of In'zashi", -- [2]
@@ -11751,69 +11779,69 @@ _detalhes_global = {
 			2311, -- [1]
 			"Pashmar the Fanatical", -- [2]
 		},
-		[307048] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[329565] = {
+			2402, -- [1]
+			"Vile Occultist", -- [2]
 		},
 		[297325] = {
 			2311, -- [1]
 			"Pashmar the Fanatical", -- [2]
 		},
-		[324527] = {
-			2382, -- [1]
-			"Globgrog", -- [2]
-		},
 		[332572] = {
 			2399, -- [1]
 			"[*] Falling Rubble", -- [2]
+		},
+		[286163] = {
+			2266, -- [1]
+			"Manceroy Flamefist", -- [2]
 		},
 		[311143] = {
 			2345, -- [1]
 			"Blood of Ny'alotha", -- [2]
 		},
-		[296894] = {
-			2305, -- [1]
-			"Radiance of Azshara", -- [2]
+		[282444] = {
+			2268, -- [1]
+			"Kimbul's Aspect", -- [2]
 		},
 		[295791] = {
 			2298, -- [1]
 			"Abyssal Commander Sivara", -- [2]
 		},
-		[330590] = {
-			2383, -- [1]
-			"[*] Gluttonous Miasma", -- [2]
-		},
 		[283955] = {
 			2265, -- [1]
 			"Frida Ironbellows", -- [2]
-		},
-		[321891] = {
-			2392, -- [1]
-			"Illusionary Vulpin <Mistcaller>", -- [2]
 		},
 		[342923] = {
 			2398, -- [1]
 			"Shriekwing", -- [2]
 		},
-		[303513] = {
-			2298, -- [1]
-			"Gorjesh the Smasher", -- [2]
+		[321891] = {
+			2392, -- [1]
+			"Illusionary Vulpin <Mistcaller>", -- [2]
 		},
-		[307057] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
+		[296279] = {
+			2291, -- [1]
+			"[*] Anti-Trespassing Teleport", -- [2]
+		},
+		[331606] = {
+			2366, -- [1]
+			"Oppressive Banner <Xav the Unfallen>", -- [2]
 		},
 		[335129] = {
 			2418, -- [1]
 			"Huntsman Altimor", -- [2]
 		},
-		[342874] = {
-			2405, -- [1]
-			"Artificer Xy'mox", -- [2]
+		[303532] = {
+			2298, -- [1]
+			"Tideshaper Korvess", -- [2]
 		},
-		[313253] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[328545] = {
+			2405, -- [1]
+			"[*] Dimensional Tear", -- [2]
+		},
+		[304475] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
 		},
 		[343898] = {
 			2417, -- [1]
@@ -11827,9 +11855,9 @@ _detalhes_global = {
 			2389, -- [1]
 			"Surgeon Stitchflesh", -- [2]
 		},
-		[307042] = {
+		[307064] = {
 			2337, -- [1]
-			"Nightmare Antigen", -- [2]
+			"Fury of N'Zoth", -- [2]
 		},
 		[307053] = {
 			2329, -- [1]
@@ -11843,37 +11871,33 @@ _detalhes_global = {
 			2389, -- [1]
 			"Surgeon Stitchflesh", -- [2]
 		},
-		[224729] = {
-			2337, -- [1]
-			"Nightmare Antigen", -- [2]
+		[330590] = {
+			2383, -- [1]
+			"[*] Gluttonous Miasma", -- [2]
 		},
-		[331618] = {
-			2366, -- [1]
-			"Xav the Unfallen", -- [2]
+		[298866] = {
+			2375, -- [1]
+			"Lashing Tendril", -- [2]
 		},
 		[301425] = {
 			2299, -- [1]
 			"Titan Console", -- [2]
 		},
-		[260547] = {
-			2114, -- [1]
-			"Soulbound Goliath", -- [2]
+		[299890] = {
+			2299, -- [1]
+			"Azshara's Devoted", -- [2]
 		},
-		[307064] = {
+		[224729] = {
 			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+			"Nightmare Antigen", -- [2]
 		},
-		[310135] = {
-			2344, -- [1]
-			"Psychus", -- [2]
+		[324449] = {
+			2404, -- [1]
+			"Mordretha, the Endless Empress", -- [2]
 		},
 		[323943] = {
 			2359, -- [1]
 			"Devos", -- [2]
-		},
-		[331639] = {
-			2412, -- [1]
-			"[*] Danse Macabre", -- [2]
 		},
 		[296746] = {
 			2305, -- [1]
@@ -11883,9 +11907,13 @@ _detalhes_global = {
 			1778, -- [1]
 			"Hulking Berserker", -- [2]
 		},
-		[260292] = {
-			2118, -- [1]
-			"Cragmaw the Infested", -- [2]
+		[315252] = {
+			2331, -- [1]
+			"Night Terror <Ra-den>", -- [2]
+		},
+		[256198] = {
+			2104, -- [1]
+			"Overseer Korgus", -- [2]
 		},
 		[312174] = {
 			2327, -- [1]
@@ -11899,21 +11927,21 @@ _detalhes_global = {
 			2344, -- [1]
 			"N'Zoth the Corruptor", -- [2]
 		},
-		[256970] = {
-			2103, -- [1]
-			"Knight Captain Valyri", -- [2]
+		[297257] = {
+			2290, -- [1]
+			"King Gobbamak", -- [2]
 		},
 		[322410] = {
 			2384, -- [1]
 			"Unknown", -- [2]
 		},
-		[297257] = {
-			2290, -- [1]
-			"King Gobbamak", -- [2]
+		[310135] = {
+			2344, -- [1]
+			"Psychus", -- [2]
 		},
-		[323372] = {
-			2358, -- [1]
-			"Oryphrion", -- [2]
+		[256970] = {
+			2103, -- [1]
+			"Knight Captain Valyri", -- [2]
 		},
 		[256199] = {
 			2104, -- [1]
@@ -11927,13 +11955,13 @@ _detalhes_global = {
 			2113, -- [1]
 			"Sister Malady", -- [2]
 		},
-		[323437] = {
-			2381, -- [1]
-			"Lord Chamberlain", -- [2]
+		[264155] = {
+			2130, -- [1]
+			"Aqualing", -- [2]
 		},
-		[273226] = {
-			2112, -- [1]
-			"[*] Decaying Spores", -- [2]
+		[317331] = {
+			2344, -- [1]
+			"[*] Anguish", -- [2]
 		},
 		[324459] = {
 			2382, -- [1]
@@ -11943,21 +11971,21 @@ _detalhes_global = {
 			2335, -- [1]
 			"[*] Bubbling Overflow", -- [2]
 		},
-		[268230] = {
-			2109, -- [1]
-			"Ashvane Deckhand", -- [2]
+		[292267] = {
+			2260, -- [1]
+			"Omega Buster", -- [2]
 		},
-		[340324] = {
+		[301431] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
+		},
+		[320366] = {
+			2389, -- [1]
+			"Surgeon Stitchflesh", -- [2]
+		},
+		[343313] = {
 			2398, -- [1]
-			"[*] Sanguine Ichor", -- [2]
-		},
-		[273285] = {
-			2112, -- [1]
-			"Volatile Pod", -- [2]
-		},
-		[283574] = {
-			2271, -- [1]
-			"Volatile Charge <Felfanatic>", -- [2]
+			"Sindrel", -- [2]
 		},
 		[307061] = {
 			2337, -- [1]
@@ -11967,17 +11995,17 @@ _detalhes_global = {
 			2417, -- [1]
 			"Stone Legion Commando", -- [2]
 		},
-		[343313] = {
-			2398, -- [1]
-			"Sindrel", -- [2]
+		[312125] = {
+			2327, -- [1]
+			"[*] Dark Manifestation", -- [2]
 		},
-		[282036] = {
-			2266, -- [1]
-			"Manceroy Flamefist", -- [2]
+		[307582] = {
+			2333, -- [1]
+			"Volatile Drone", -- [2]
 		},
-		[286503] = {
-			2266, -- [1]
-			"Living Bomb", -- [2]
+		[89753] = {
+			2360, -- [1]
+			"Felguard <Warlockmania-Area52>", -- [2]
 		},
 		[256201] = {
 			2104, -- [1]
@@ -11987,57 +12015,57 @@ _detalhes_global = {
 			2328, -- [1]
 			"Dark Inquisitor Xanesh", -- [2]
 		},
-		[287147] = {
-			2272, -- [1]
-			"[*] Dread Reaping", -- [2]
+		[307052] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
-		[320366] = {
-			2389, -- [1]
-			"Surgeon Stitchflesh", -- [2]
+		[317231] = {
+			2366, -- [1]
+			"Xav the Unfallen", -- [2]
 		},
-		[332664] = {
-			2406, -- [1]
-			"Lady Inerva Darkvein", -- [2]
+		[306090] = {
+			2331, -- [1]
+			"Unknown", -- [2]
 		},
-		[255434] = {
-			2086, -- [1]
-			"Rezan", -- [2]
-		},
-		[317331] = {
+		[310134] = {
 			2344, -- [1]
-			"[*] Anguish", -- [2]
+			"Psychus", -- [2]
+		},
+		[313208] = {
+			2334, -- [1]
+			"Image of Absolution", -- [2]
 		},
 		[319346] = {
 			2344, -- [1]
 			"[*] Infinity's Toll", -- [2]
 		},
-		[320365] = {
-			2389, -- [1]
-			"Surgeon Stitchflesh", -- [2]
+		[287169] = {
+			2280, -- [1]
+			"Sister Katherine", -- [2]
 		},
 		[301947] = {
 			2311, -- [1]
 			"Pashmar the Fanatical", -- [2]
 		},
-		[287169] = {
-			2280, -- [1]
-			"Sister Katherine", -- [2]
+		[332664] = {
+			2406, -- [1]
+			"Lady Inerva Darkvein", -- [2]
 		},
 		[311159] = {
 			2345, -- [1]
 			"Cursed Blood", -- [2]
 		},
-		[297371] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
+		[268702] = {
+			2105, -- [1]
+			"Stonefury", -- [2]
 		},
-		[285572] = {
-			2272, -- [1]
-			"Phantom of Retribution", -- [2]
+		[312183] = {
+			2327, -- [1]
+			"Dark Manifestation <[*] Dark Manifestation>", -- [2]
 		},
-		[302992] = {
-			2304, -- [1]
-			"Lady Ashvane", -- [2]
+		[339728] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
 		},
 		[319348] = {
 			2344, -- [1]
@@ -12055,29 +12083,29 @@ _detalhes_global = {
 			1794, -- [1]
 			"Soulbound Construct", -- [2]
 		},
-		[313208] = {
-			2334, -- [1]
-			"Image of Absolution", -- [2]
-		},
-		[339728] = {
-			2417, -- [1]
-			"General Grashaal", -- [2]
-		},
-		[257483] = {
-			2086, -- [1]
-			"[*] Pile of Bones", -- [2]
+		[319349] = {
+			2344, -- [1]
+			"Titanic Countermeasure", -- [2]
 		},
 		[288041] = {
 			2276, -- [1]
 			"High Tinker Mekkatorque", -- [2]
 		},
+		[257483] = {
+			2086, -- [1]
+			"[*] Pile of Bones", -- [2]
+		},
+		[286541] = {
+			2271, -- [1]
+			"Yalat's Bulwark", -- [2]
+		},
 		[319350] = {
 			2344, -- [1]
 			"Titanic Countermeasure", -- [2]
 		},
-		[299966] = {
-			2293, -- [1]
-			"[*] Dread", -- [2]
+		[345425] = {
+			2398, -- [1]
+			"Shriekwing", -- [2]
 		},
 		[312186] = {
 			2327, -- [1]
@@ -12087,9 +12115,9 @@ _detalhes_global = {
 			2329, -- [1]
 			"Wrathion", -- [2]
 		},
-		[310134] = {
-			2344, -- [1]
-			"Psychus", -- [2]
+		[282411] = {
+			2268, -- [1]
+			"Akunda's Aspect", -- [2]
 		},
 		[91800] = {
 			2383, -- [1]
@@ -12099,17 +12127,17 @@ _detalhes_global = {
 			2115, -- [1]
 			"[*] Wildfire", -- [2]
 		},
-		[282411] = {
-			2268, -- [1]
-			"Akunda's Aspect", -- [2]
+		[331634] = {
+			2412, -- [1]
+			"Lord Stavros", -- [2]
 		},
 		[315258] = {
 			2331, -- [1]
 			"[*] Dread Inferno", -- [2]
 		},
-		[307582] = {
-			2333, -- [1]
-			"Volatile Drone", -- [2]
+		[326005] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[320376] = {
 			2389, -- [1]
@@ -12123,13 +12151,13 @@ _detalhes_global = {
 			2337, -- [1]
 			"Synthesis Growth", -- [2]
 		},
-		[315265] = {
-			2331, -- [1]
-			"Unknown", -- [2]
+		[283078] = {
+			2263, -- [1]
+			"Grong", -- [2]
 		},
-		[69929] = {
-			1103, -- [1]
-			"Ymirjar Deathbringer", -- [2]
+		[316756] = {
+			2333, -- [1]
+			"Acidic Aqir", -- [2]
 		},
 		[322936] = {
 			2401, -- [1]
@@ -12147,9 +12175,9 @@ _detalhes_global = {
 			2281, -- [1]
 			"Lady Jaina Proudmoore", -- [2]
 		},
-		[317792] = {
-			2412, -- [1]
-			"[*] Oppressive Atmosphere", -- [2]
+		[255434] = {
+			2086, -- [1]
+			"Rezan", -- [2]
 		},
 		[71203] = {
 			1102, -- [1]
@@ -12163,13 +12191,13 @@ _detalhes_global = {
 			2418, -- [1]
 			"Shade of Bargast <Bargast>", -- [2]
 		},
-		[326538] = {
-			2406, -- [1]
-			"Sins of the Past", -- [2]
+		[255445] = {
+			2086, -- [1]
+			"Rezan", -- [2]
 		},
-		[313215] = {
-			2334, -- [1]
-			"[*] Surging Images", -- [2]
+		[288651] = {
+			2281, -- [1]
+			"[*] Orb of Frost", -- [2]
 		},
 		[307586] = {
 			2327, -- [1]
@@ -12183,45 +12211,45 @@ _detalhes_global = {
 			2108, -- [1]
 			"Mogul Razdunk", -- [2]
 		},
-		[345968] = {
+		[331639] = {
 			2412, -- [1]
-			"Veteran Stoneguard", -- [2]
+			"[*] Danse Macabre", -- [2]
 		},
-		[259533] = {
-			2107, -- [1]
-			"[*] Azerite Catalyst", -- [2]
-		},
-		[309654] = {
-			2328, -- [1]
-			"Dark Inquisitor Xanesh", -- [2]
+		[289221] = {
+			2281, -- [1]
+			"[*] Heart of Frost", -- [2]
 		},
 		[325908] = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[306973] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[286503] = {
+			2266, -- [1]
+			"Living Bomb", -- [2]
 		},
 		[335119] = {
 			2418, -- [1]
 			"Huntsman Altimor", -- [2]
 		},
+		[320278] = {
+			2391, -- [1]
+			"Sathel the Accursed", -- [2]
+		},
 		[295818] = {
 			2303, -- [1]
 			"Azsh'ari Witch", -- [2]
 		},
-		[320278] = {
-			2391, -- [1]
-			"Sathel the Accursed", -- [2]
+		[326040] = {
+			2406, -- [1]
+			"Sins of the Past", -- [2]
 		},
 		[321406] = {
 			2384, -- [1]
 			"Unknown", -- [2]
 		},
-		[256200] = {
-			2104, -- [1]
-			"Overseer Korgus", -- [2]
+		[296737] = {
+			2305, -- [1]
+			"Radiance of Azshara", -- [2]
 		},
 		[336759] = {
 			2392, -- [1]
@@ -12231,25 +12259,25 @@ _detalhes_global = {
 			2260, -- [1]
 			"[*] Cutting Beam", -- [2]
 		},
-		[296737] = {
-			2305, -- [1]
-			"Radiance of Azshara", -- [2]
+		[309654] = {
+			2328, -- [1]
+			"Dark Inquisitor Xanesh", -- [2]
 		},
 		[264603] = {
 			2111, -- [1]
 			"Elder Leaxa", -- [2]
 		},
-		[315252] = {
-			2331, -- [1]
-			"Night Terror <Ra-den>", -- [2]
+		[320277] = {
+			2391, -- [1]
+			"Sathel the Accursed", -- [2]
 		},
 		[322943] = {
 			2401, -- [1]
 			"Halkias", -- [2]
 		},
-		[320277] = {
-			2391, -- [1]
-			"Sathel the Accursed", -- [2]
+		[342282] = {
+			2406, -- [1]
+			"Lady Inerva Darkvein", -- [2]
 		},
 		[313732] = {
 			2333, -- [1]
@@ -12259,13 +12287,13 @@ _detalhes_global = {
 			2311, -- [1]
 			"Silivaz the Zealous", -- [2]
 		},
-		[342282] = {
-			2406, -- [1]
-			"Lady Inerva Darkvein", -- [2]
-		},
 		[286501] = {
 			2271, -- [1]
 			"[*] Creeping Blaze", -- [2]
+		},
+		[284595] = {
+			2265, -- [1]
+			"Anointed Disciple", -- [2]
 		},
 		[285075] = {
 			2280, -- [1]
@@ -12283,25 +12311,21 @@ _detalhes_global = {
 			2331, -- [1]
 			"Unknown", -- [2]
 		},
-		[329518] = {
-			2402, -- [1]
-			"Shade of Kael'thas", -- [2]
-		},
-		[301431] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
+		[323437] = {
+			2381, -- [1]
+			"Lord Chamberlain", -- [2]
 		},
 		[342281] = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[311176] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
-		},
 		[284453] = {
 			2266, -- [1]
 			"Living Bomb", -- [2]
+		},
+		[311176] = {
+			2344, -- [1]
+			"N'Zoth the Corruptor", -- [2]
 		},
 		[335116] = {
 			2418, -- [1]
@@ -12311,25 +12335,29 @@ _detalhes_global = {
 			2388, -- [1]
 			"Reanimated Crossbowman <Amarth>", -- [2]
 		},
+		[296850] = {
+			2311, -- [1]
+			"Pashmar the Fanatical", -- [2]
+		},
 		[325506] = {
 			2402, -- [1]
 			"Rockbound Vanquisher", -- [2]
 		},
-		[268702] = {
-			2105, -- [1]
-			"Stonefury", -- [2]
+		[303501] = {
+			2298, -- [1]
+			"Garval the Vanquisher", -- [2]
 		},
 		[295825] = {
 			2303, -- [1]
 			"Orgozoa", -- [2]
 		},
-		[327610] = {
-			2412, -- [1]
-			"Lord Stavros", -- [2]
+		[287116] = {
+			2272, -- [1]
+			"Reaping Portal", -- [2]
 		},
-		[345425] = {
-			2398, -- [1]
-			"Shriekwing", -- [2]
+		[256200] = {
+			2104, -- [1]
+			"Overseer Korgus", -- [2]
 		},
 		[303502] = {
 			2298, -- [1]
@@ -12347,45 +12375,45 @@ _detalhes_global = {
 			2312, -- [1]
 			"Trixie Tazer", -- [2]
 		},
-		[260334] = {
-			2118, -- [1]
-			"Cragmaw the Infested", -- [2]
+		[288647] = {
+			2281, -- [1]
+			"Orb of Frost <Lady Jaina Proudmoore>", -- [2]
 		},
 		[328579] = {
 			2402, -- [1]
 			"[*] Smoldering Remnants", -- [2]
 		},
-		[328545] = {
-			2405, -- [1]
-			"[*] Dimensional Tear", -- [2]
+		[286671] = {
+			2272, -- [1]
+			"Phantom of Retribution", -- [2]
 		},
-		[313227] = {
-			2331, -- [1]
-			"Ra-den", -- [2]
-		},
-		[310205] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
-		},
-		[330627] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[302992] = {
+			2304, -- [1]
+			"Lady Ashvane", -- [2]
 		},
 		[284451] = {
 			2266, -- [1]
 			"Unknown", -- [2]
 		},
+		[330627] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
+		},
+		[288719] = {
+			2281, -- [1]
+			"Lady Jaina Proudmoore", -- [2]
+		},
 		[296852] = {
 			2311, -- [1]
 			"Pashmar the Fanatical", -- [2]
 		},
-		[307075] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
+		[329110] = {
+			2384, -- [1]
+			"Doctor Ickus", -- [2]
 		},
-		[326039] = {
-			2362, -- [1]
-			"Grand Proctor Beryllia", -- [2]
+		[334228] = {
+			2383, -- [1]
+			"Hungering Destroyer", -- [2]
 		},
 		[292247] = {
 			2289, -- [1]
@@ -12399,61 +12427,61 @@ _detalhes_global = {
 			2298, -- [1]
 			"Azsh'ari Venomwatcher", -- [2]
 		},
-		[340880] = {
-			2360, -- [1]
-			"[*] Prideful", -- [2]
+		[260547] = {
+			2114, -- [1]
+			"Soulbound Goliath", -- [2]
 		},
 		[250585] = {
 			2085, -- [1]
 			"[*] Toxic Pool", -- [2]
 		},
-		[292264] = {
-			2260, -- [1]
-			"Omega Buster", -- [2]
+		[341254] = {
+			2402, -- [1]
+			"Reborn Phoenix", -- [2]
 		},
 		[309648] = {
 			2338, -- [1]
 			"Alleria Windrunner", -- [2]
 		},
-		[341254] = {
-			2402, -- [1]
-			"Reborn Phoenix", -- [2]
+		[320272] = {
+			2391, -- [1]
+			"Sathel the Accursed", -- [2]
 		},
 		[316813] = {
 			2345, -- [1]
 			"[*] Cursed Pulse", -- [2]
 		},
-		[320272] = {
-			2391, -- [1]
-			"Sathel the Accursed", -- [2]
+		[313215] = {
+			2334, -- [1]
+			"[*] Surging Images", -- [2]
 		},
-		[320843] = {
-			2360, -- [1]
-			"Famished Tick", -- [2]
+		[315762] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
 		[324490] = {
 			2382, -- [1]
 			"Globgrog", -- [2]
 		},
-		[280384] = {
-			2337, -- [1]
-			4, -- [2]
-		},
-		[284117] = {
-			2280, -- [1]
-			"Sister Katherine", -- [2]
+		[317792] = {
+			2412, -- [1]
+			"[*] Oppressive Atmosphere", -- [2]
 		},
 		[265002] = {
 			2115, -- [1]
 			"Raal the Gluttonous", -- [2]
 		},
-		[283551] = {
-			2260, -- [1]
-			"Omega Buster", -- [2]
+		[313228] = {
+			2328, -- [1]
+			"[*] Void-Touched", -- [2]
 		},
-		[320839] = {
-			2390, -- [1]
-			"Zolramus Siphoner", -- [2]
+		[257495] = {
+			2101, -- [1]
+			"The Sand Queen", -- [2]
+		},
+		[259533] = {
+			2107, -- [1]
+			"[*] Azerite Catalyst", -- [2]
 		},
 		[307092] = {
 			2337, -- [1]
@@ -12463,9 +12491,9 @@ _detalhes_global = {
 			1778, -- [1]
 			"Felfire Demolisher", -- [2]
 		},
-		[307052] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[269239] = {
+			2344, -- [1]
+			9, -- [2]
 		},
 		[325004] = {
 			2406, -- [1]
@@ -12483,13 +12511,13 @@ _detalhes_global = {
 			2327, -- [1]
 			"Maut", -- [2]
 		},
-		[292267] = {
-			2260, -- [1]
-			"Omega Buster", -- [2]
+		[260811] = {
+			2108, -- [1]
+			"Mogul Razdunk", -- [2]
 		},
-		[298866] = {
-			2375, -- [1]
-			"Lashing Tendril", -- [2]
+		[303382] = {
+			2298, -- [1]
+			"Azsh'ari Venomwatcher", -- [2]
 		},
 		[321935] = {
 			2384, -- [1]
@@ -12523,25 +12551,25 @@ _detalhes_global = {
 			2117, -- [1]
 			"Deathtouched Slaver", -- [2]
 		},
-		[303382] = {
-			2298, -- [1]
-			"Azsh'ari Venomwatcher", -- [2]
+		[286565] = {
+			2266, -- [1]
+			"Mestrah", -- [2]
 		},
 		[340872] = {
 			2405, -- [1]
 			"Edge of Annihilation", -- [2]
 		},
-		[316848] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[264560] = {
+			2130, -- [1]
+			"Aqu'sirr", -- [2]
 		},
-		[287585] = {
+		[285508] = {
 			2281, -- [1]
-			"Lady Jaina Proudmoore", -- [2]
+			"Munitions Barrel <Kul Tiran Marine>", -- [2]
 		},
-		[332619] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[296894] = {
+			2305, -- [1]
+			"Radiance of Azshara", -- [2]
 		},
 		[71465] = {
 			1103, -- [1]
@@ -12555,9 +12583,9 @@ _detalhes_global = {
 			2334, -- [1]
 			"Prophet Skitra", -- [2]
 		},
-		[282592] = {
-			2268, -- [1]
-			"Kimbul", -- [2]
+		[331527] = {
+			2406, -- [1]
+			"Lady Inerva Darkvein", -- [2]
 		},
 		[260569] = {
 			2114, -- [1]
@@ -12567,53 +12595,53 @@ _detalhes_global = {
 			2381, -- [1]
 			"Lord Chamberlain", -- [2]
 		},
-		[331527] = {
-			2406, -- [1]
-			"Lady Inerva Darkvein", -- [2]
+		[332619] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
-		[312782] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
+		[268260] = {
+			2109, -- [1]
+			"Ashvane Cannoneer", -- [2]
 		},
 		[328593] = {
 			2362, -- [1]
 			"Grand Proctor Beryllia", -- [2]
 		},
-		[282444] = {
-			2268, -- [1]
-			"Kimbul's Aspect", -- [2]
+		[324514] = {
+			2404, -- [1]
+			"[*] Manifest Death", -- [2]
 		},
 		[333711] = {
 			2396, -- [1]
 			"Skeletal Raptor", -- [2]
 		},
-		[342425] = {
-			2417, -- [1]
-			"General Grashaal", -- [2]
+		[285125] = {
+			2280, -- [1]
+			"Laminaria", -- [2]
 		},
 		[260570] = {
 			2113, -- [1]
 			"[*] Wildfire", -- [2]
 		},
-		[186883] = {
-			1778, -- [1]
-			"Felfire Flamebelcher", -- [2]
+		[307041] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[329618] = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[260551] = {
-			2114, -- [1]
-			"Soulbound Goliath", -- [2]
-		},
 		[285468] = {
 			2257, -- [1]
 			"Gnomercy 4.U.", -- [2]
 		},
-		[298898] = {
-			2312, -- [1]
-			"Naeno Megacrash", -- [2]
+		[306996] = {
+			2336, -- [1]
+			"Void Ascendant", -- [2]
+		},
+		[260551] = {
+			2114, -- [1]
+			"Soulbound Goliath", -- [2]
 		},
 		[300961] = {
 			2298, -- [1]
@@ -12627,17 +12655,13 @@ _detalhes_global = {
 			2412, -- [1]
 			"[*] Oppressive Atmosphere", -- [2]
 		},
-		[316756] = {
-			2333, -- [1]
-			"Acidic Aqir", -- [2]
+		[300308] = {
+			2303, -- [1]
+			"Hatchery Egg", -- [2]
 		},
 		[315291] = {
 			2327, -- [1]
 			"[*] Devoured Abyss", -- [2]
-		},
-		[300308] = {
-			2303, -- [1]
-			"Hatchery Egg", -- [2]
 		},
 		[205231] = {
 			2412, -- [1]
@@ -12647,73 +12671,77 @@ _detalhes_global = {
 			2133, -- [1]
 			"Abyssal Eel", -- [2]
 		},
-		[304475] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
-		},
-		[323992] = {
-			2394, -- [1]
-			"Millificent Manastorm", -- [2]
-		},
-		[289705] = {
-			2276, -- [1]
-			"High Tinker Mekkatorque", -- [2]
-		},
-		[329110] = {
-			2384, -- [1]
-			"Doctor Ickus", -- [2]
+		[320365] = {
+			2389, -- [1]
+			"Surgeon Stitchflesh", -- [2]
 		},
 		[259732] = {
 			2112, -- [1]
 			"Sporecaller Zancha", -- [2]
 		},
-		[334228] = {
-			2383, -- [1]
-			"Hungering Destroyer", -- [2]
+		[326039] = {
+			2362, -- [1]
+			"Grand Proctor Beryllia", -- [2]
 		},
-		[266181] = {
-			2117, -- [1]
-			"Gorak Tul", -- [2]
+		[340880] = {
+			2360, -- [1]
+			"[*] Prideful", -- [2]
+		},
+		[292264] = {
+			2260, -- [1]
+			"Omega Buster", -- [2]
+		},
+		[333612] = {
+			2383, -- [1]
+			"Winged Ravager", -- [2]
+		},
+		[287147] = {
+			2272, -- [1]
+			"[*] Dread Reaping", -- [2]
+		},
+		[323992] = {
+			2394, -- [1]
+			"Millificent Manastorm", -- [2]
 		},
 		[282030] = {
 			2266, -- [1]
 			"Mestrah", -- [2]
 		},
-		[340788] = {
-			2405, -- [1]
-			"Artificer Xy'mox", -- [2]
+		[260292] = {
+			2118, -- [1]
+			"Cragmaw the Infested", -- [2]
 		},
 		[330135] = {
 			2386, -- [1]
 			"[*] Fount of Pestilence", -- [2]
 		},
-		[321828] = {
-			2392, -- [1]
-			"Mistcaller", -- [2]
+		[283626] = {
+			2265, -- [1]
+			"Anointed Disciple", -- [2]
 		},
 		[282031] = {
 			2266, -- [1]
 			"Mestrah", -- [2]
 		},
-		[256198] = {
-			2104, -- [1]
-			"Overseer Korgus", -- [2]
+		[285118] = {
+			2280, -- [1]
+			"Laminaria", -- [2]
 		},
-		[308669] = {
-			2376, -- [1]
-			"Eye of Chaos", -- [2]
+		[3110] = {
+			2337, -- [1]
+			"Zilqua", -- [2]
 		},
-		[312183] = {
-			2327, -- [1]
-			"Dark Manifestation <[*] Dark Manifestation>", -- [2]
+		[300817] = {
+			2298, -- [1]
+			"Abyssal Commander Sivara", -- [2]
 		},
 		[329113] = {
 			2381, -- [1]
 			"Lord Chamberlain", -- [2]
 		},
-		[300817] = {
-			2298, -- [1]
-			"Abyssal Commander Sivara", -- [2]
+		[256955] = {
+			2103, -- [1]
+			"Knight Captain Valyri", -- [2]
 		},
 		[330137] = {
 			2407, -- [1]
@@ -12723,13 +12751,9 @@ _detalhes_global = {
 			2412, -- [1]
 			"[*] Dark Recital", -- [2]
 		},
-		[322999] = {
-			2359, -- [1]
-			"Devos", -- [2]
-		},
-		[303545] = {
-			2298, -- [1]
-			"Tideshaper Korvess", -- [2]
+		[326075] = {
+			2402, -- [1]
+			"Soul Infuser", -- [2]
 		},
 		[323845] = {
 			2363, -- [1]
@@ -12739,13 +12763,17 @@ _detalhes_global = {
 			2396, -- [1]
 			"Unknown", -- [2]
 		},
-		[325551] = {
-			2385, -- [1]
-			"Domina Venomblade", -- [2]
+		[303545] = {
+			2298, -- [1]
+			"Tideshaper Korvess", -- [2]
 		},
-		[181255] = {
-			1795, -- [1]
-			"[*] Fel Imp-losion", -- [2]
+		[324527] = {
+			2382, -- [1]
+			"Globgrog", -- [2]
+		},
+		[288619] = {
+			2281, -- [1]
+			"Lady Jaina Proudmoore", -- [2]
 		},
 		[305575] = {
 			2328, -- [1]
@@ -12763,21 +12791,21 @@ _detalhes_global = {
 			2382, -- [1]
 			"Plaguebelcher", -- [2]
 		},
-		[327481] = {
-			2357, -- [1]
-			"Kin-Tara", -- [2]
+		[313227] = {
+			2331, -- [1]
+			"Ra-den", -- [2]
 		},
-		[287072] = {
-			2271, -- [1]
-			"Opulence", -- [2]
+		[91776] = {
+			2412, -- [1]
+			"Castellan Niklaus", -- [2]
 		},
 		[312741] = {
 			2334, -- [1]
 			"Shredded Psyche <[*] Shred Psyche>", -- [2]
 		},
-		[284595] = {
-			2265, -- [1]
-			"Anointed Disciple", -- [2]
+		[313253] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[309671] = {
 			2374, -- [1]
@@ -12791,33 +12819,33 @@ _detalhes_global = {
 			2266, -- [1]
 			"Manceroy Flamefist", -- [2]
 		},
-		[284596] = {
-			2265, -- [1]
-			"Anointed Disciple", -- [2]
+		[181255] = {
+			1795, -- [1]
+			"[*] Fel Imp-losion", -- [2]
 		},
-		[283078] = {
-			2263, -- [1]
-			"Grong", -- [2]
+		[299966] = {
+			2293, -- [1]
+			"[*] Dread", -- [2]
 		},
-		[283573] = {
-			2265, -- [1]
-			"Frida Ironbellows", -- [2]
+		[310184] = {
+			2344, -- [1]
+			"Psychus", -- [2]
 		},
 		[345495] = {
 			2398, -- [1]
 			"Frothing Pustule", -- [2]
 		},
-		[307017] = {
-			2329, -- [1]
-			"Crackling Shard", -- [2]
-		},
-		[303532] = {
+		[303373] = {
 			2298, -- [1]
-			"Tideshaper Korvess", -- [2]
+			"Azsh'ari Venomwatcher", -- [2]
 		},
-		[324514] = {
-			2404, -- [1]
-			"[*] Manifest Death", -- [2]
+		[342425] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
+		},
+		[283574] = {
+			2271, -- [1]
+			"Volatile Charge <Felfanatic>", -- [2]
 		},
 		[306603] = {
 			2331, -- [1]
@@ -12831,9 +12859,9 @@ _detalhes_global = {
 			2390, -- [1]
 			"Nalthor the Rimebinder", -- [2]
 		},
-		[303373] = {
-			2298, -- [1]
-			"Azsh'ari Venomwatcher", -- [2]
+		[268126] = {
+			2113, -- [1]
+			"Sister Briar", -- [2]
 		},
 		[282040] = {
 			2266, -- [1]
@@ -12847,21 +12875,21 @@ _detalhes_global = {
 			2407, -- [1]
 			"[*] Fall of the Unworthy", -- [2]
 		},
-		[306986] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[306995] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[282041] = {
 			2266, -- [1]
 			"Manceroy Flamefist", -- [2]
 		},
-		[315305] = {
-			2327, -- [1]
-			"[*] Forbidden Mana", -- [2]
+		[313258] = {
+			2328, -- [1]
+			"Dark Inquisitor Xanesh", -- [2]
 		},
-		[264560] = {
-			2130, -- [1]
-			"Aqu'sirr", -- [2]
+		[288211] = {
+			2281, -- [1]
+			"Lady Jaina Proudmoore", -- [2]
 		},
 		[304047] = {
 			2311, -- [1]
@@ -12875,25 +12903,25 @@ _detalhes_global = {
 			2327, -- [1]
 			"[*] Forbidden Mana", -- [2]
 		},
-		[260323] = {
-			2108, -- [1]
-			"Mogul Razdunk", -- [2]
+		[303536] = {
+			2298, -- [1]
+			"Tideshaper Korvess", -- [2]
 		},
 		[297907] = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[288199] = {
-			2281, -- [1]
-			"Lady Jaina Proudmoore", -- [2]
-		},
-		[308158] = {
-			2327, -- [1]
-			"Maut", -- [2]
+		[227578] = {
+			1961, -- [1]
+			"Lady Catriona Von'Indi", -- [2]
 		},
 		[339706] = {
 			2404, -- [1]
 			"Echo Bullrider", -- [2]
+		},
+		[322818] = {
+			2359, -- [1]
+			"Devos", -- [2]
 		},
 		[283579] = {
 			2265, -- [1]
@@ -12903,17 +12931,17 @@ _detalhes_global = {
 			2289, -- [1]
 			"Blackwater Behemoth", -- [2]
 		},
-		[322818] = {
-			2359, -- [1]
-			"Devos", -- [2]
-		},
-		[310331] = {
-			2344, -- [1]
-			"Mind's Eye", -- [2]
+		[323126] = {
+			2381, -- [1]
+			"Sinstone Statue", -- [2]
 		},
 		[261264] = {
 			2113, -- [1]
 			"Sister Solena", -- [2]
+		},
+		[284436] = {
+			2265, -- [1]
+			"Frida Ironbellows", -- [2]
 		},
 		[312750] = {
 			2331, -- [1]
@@ -12927,25 +12955,25 @@ _detalhes_global = {
 			2263, -- [1]
 			"[*] Megatomic Fire", -- [2]
 		},
-		[284436] = {
-			2265, -- [1]
-			"Frida Ironbellows", -- [2]
-		},
 		[322817] = {
 			2359, -- [1]
 			"Devos", -- [2]
 		},
-		[50842] = {
-			2344, -- [1]
-			6, -- [2]
+		[286026] = {
+			2271, -- [1]
+			"Spirit of Gold", -- [2]
+		},
+		[264477] = {
+			2130, -- [1]
+			"Aqu'sirr", -- [2]
 		},
 		[324010] = {
 			2394, -- [1]
 			"Millificent Manastorm", -- [2]
 		},
-		[322475] = {
-			2386, -- [1]
-			"[*] Plague Crash", -- [2]
+		[334757] = {
+			2418, -- [1]
+			"Bargast", -- [2]
 		},
 		[288188] = {
 			2276, -- [1]
@@ -12959,9 +12987,9 @@ _detalhes_global = {
 			2333, -- [1]
 			"Tek'ris", -- [2]
 		},
-		[264477] = {
-			2130, -- [1]
-			"Aqu'sirr", -- [2]
+		[308669] = {
+			2376, -- [1]
+			"Eye of Chaos", -- [2]
 		},
 		[275907] = {
 			2106, -- [1]
@@ -12971,17 +12999,17 @@ _detalhes_global = {
 			2382, -- [1]
 			"Plaguebelcher", -- [2]
 		},
-		[290621] = {
-			2281, -- [1]
-			"Lady Jaina Proudmoore", -- [2]
+		[306111] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[318383] = {
 			2345, -- [1]
 			"Clotted Corruption", -- [2]
 		},
-		[298425] = {
-			2299, -- [1]
-			"Cyranus", -- [2]
+		[316848] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[118297] = {
 			2398, -- [1]
@@ -12991,33 +13019,33 @@ _detalhes_global = {
 			2333, -- [1]
 			"Aqir Drone", -- [2]
 		},
-		[306115] = {
-			2331, -- [1]
-			"Ra-den", -- [2]
-		},
 		[322304] = {
 			2386, -- [1]
 			"Margrave Stradama", -- [2]
+		},
+		[310333] = {
+			2344, -- [1]
+			"Mind's Eye", -- [2]
 		},
 		[333737] = {
 			2384, -- [1]
 			"Unknown", -- [2]
 		},
-		[268126] = {
-			2113, -- [1]
-			"Sister Briar", -- [2]
+		[305603] = {
+			2303, -- [1]
+			"[*] Electro Shock", -- [2]
 		},
-		[326075] = {
-			2402, -- [1]
-			"Soul Infuser", -- [2]
+		[306115] = {
+			2331, -- [1]
+			"Ra-den", -- [2]
 		},
-		[286671] = {
-			2272, -- [1]
-			"Phantom of Retribution", -- [2]
+		[307974] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
-		[268234] = {
-			2115, -- [1]
-			"Bile Oozeling", -- [2]
+		[325550] = {
+			2385, -- [1]
+			"Domina Venomblade", -- [2]
 		},
 		[307639] = {
 			2336, -- [1]
@@ -13027,21 +13055,21 @@ _detalhes_global = {
 			2389, -- [1]
 			"Surgeon Stitchflesh", -- [2]
 		},
-		[307974] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[264153] = {
+			2115, -- [1]
+			"Devouring Maggot", -- [2]
 		},
-		[298940] = {
-			2312, -- [1]
-			"Naeno Megacrash", -- [2]
+		[325551] = {
+			2385, -- [1]
+			"Domina Venomblade", -- [2]
 		},
 		[309687] = {
 			2334, -- [1]
 			"Shredded Psyche <[*] Shred Psyche>", -- [2]
 		},
-		[271174] = {
-			2115, -- [1]
-			"Pallid Gorger", -- [2]
+		[260334] = {
+			2118, -- [1]
+			"Cragmaw the Infested", -- [2]
 		},
 		[306617] = {
 			2373, -- [1]
@@ -13051,21 +13079,21 @@ _detalhes_global = {
 			2385, -- [1]
 			"Domina Venomblade", -- [2]
 		},
-		[313283] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
+		[287565] = {
+			2281, -- [1]
+			"Lady Jaina Proudmoore", -- [2]
 		},
-		[286026] = {
-			2271, -- [1]
-			"Spirit of Gold", -- [2]
+		[310580] = {
+			2343, -- [1]
+			"Maw of Drest'agath", -- [2]
 		},
-		[329774] = {
-			2383, -- [1]
-			"Hungering Destroyer", -- [2]
+		[319531] = {
+			2364, -- [1]
+			"Kul'tharok", -- [2]
 		},
-		[299890] = {
-			2299, -- [1]
-			"Azshara's Devoted", -- [2]
+		[296257] = {
+			2293, -- [1]
+			"Za'qul", -- [2]
 		},
 		[289219] = {
 			2281, -- [1]
@@ -13079,9 +13107,9 @@ _detalhes_global = {
 			2407, -- [1]
 			"Sire Denathrius", -- [2]
 		},
-		[288708] = {
-			2276, -- [1]
-			"High Tinker Mekkatorque", -- [2]
+		[264144] = {
+			2130, -- [1]
+			"Aqu'sirr", -- [2]
 		},
 		[289220] = {
 			2281, -- [1]
@@ -13095,9 +13123,9 @@ _detalhes_global = {
 			2391, -- [1]
 			"Sathel the Accursed", -- [2]
 		},
-		[306988] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[284596] = {
+			2265, -- [1]
+			"Anointed Disciple", -- [2]
 		},
 		[303550] = {
 			2298, -- [1]
@@ -13107,45 +13135,45 @@ _detalhes_global = {
 			1798, -- [1]
 			"Gurtogg Bloodboil", -- [2]
 		},
-		[308029] = {
-			2334, -- [1]
-			"Prophet Skitra", -- [2]
-		},
 		[310019] = {
 			2331, -- [1]
 			"[*] Charged Bonds", -- [2]
+		},
+		[284117] = {
+			2280, -- [1]
+			"Sister Katherine", -- [2]
 		},
 		[307645] = {
 			2336, -- [1]
 			"Vexiona", -- [2]
 		},
-		[288211] = {
+		[321828] = {
+			2392, -- [1]
+			"Mistcaller", -- [2]
+		},
+		[288199] = {
 			2281, -- [1]
 			"Lady Jaina Proudmoore", -- [2]
-		},
-		[179986] = {
-			1784, -- [1]
-			"Tyrant Velhari", -- [2]
 		},
 		[298946] = {
 			2312, -- [1]
 			"Naeno Megacrash", -- [2]
 		},
-		[185590] = {
-			1799, -- [1]
-			"Archimonde", -- [2]
+		[290621] = {
+			2281, -- [1]
+			"Lady Jaina Proudmoore", -- [2]
 		},
-		[306111] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[308158] = {
+			2327, -- [1]
+			"Maut", -- [2]
 		},
-		[284106] = {
-			2280, -- [1]
-			"Sister Katherine", -- [2]
+		[322999] = {
+			2359, -- [1]
+			"Devos", -- [2]
 		},
-		[282945] = {
-			2257, -- [1]
-			"Buzz Saw", -- [2]
+		[306988] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[328117] = {
 			2407, -- [1]
@@ -13155,13 +13183,13 @@ _detalhes_global = {
 			2100, -- [1]
 			"Demolishing Terror", -- [2]
 		},
-		[331638] = {
-			2412, -- [1]
-			"Lord Stavros", -- [2]
-		},
 		[284942] = {
 			2271, -- [1]
 			"Opulence", -- [2]
+		},
+		[280384] = {
+			2337, -- [1]
+			4, -- [2]
 		},
 		[336306] = {
 			2385, -- [1]
@@ -13195,17 +13223,17 @@ _detalhes_global = {
 			2298, -- [1]
 			"[*] Unstable Mixture", -- [2]
 		},
-		[305603] = {
-			2303, -- [1]
-			"[*] Electro Shock", -- [2]
+		[260333] = {
+			2118, -- [1]
+			"Cragmaw the Infested", -- [2]
 		},
 		[283598] = {
 			2265, -- [1]
 			"Frida Ironbellows", -- [2]
 		},
-		[326005] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[276282] = {
+			2130, -- [1]
+			"Galecaller Apprentice", -- [2]
 		},
 		[323515] = {
 			2365, -- [1]
@@ -13215,17 +13243,17 @@ _detalhes_global = {
 			2344, -- [1]
 			"Basher Tentacle", -- [2]
 		},
-		[313398] = {
-			2331, -- [1]
-			"Essence of Void <Ra-den>", -- [2]
-		},
 		[303876] = {
 			2298, -- [1]
 			"Abyssal Commander Sivara", -- [2]
 		},
-		[264153] = {
-			2115, -- [1]
-			"Devouring Maggot", -- [2]
+		[284941] = {
+			2271, -- [1]
+			"Opulence", -- [2]
+		},
+		[327610] = {
+			2412, -- [1]
+			"Lord Stavros", -- [2]
 		},
 		[313793] = {
 			2344, -- [1]
@@ -13235,9 +13263,9 @@ _detalhes_global = {
 			2388, -- [1]
 			"Reanimated Mage <Amarth>", -- [2]
 		},
-		[284941] = {
-			2271, -- [1]
-			"Opulence", -- [2]
+		[345968] = {
+			2412, -- [1]
+			"Veteran Stoneguard", -- [2]
 		},
 		[54049] = {
 			2337, -- [1]
@@ -13247,25 +13275,25 @@ _detalhes_global = {
 			2280, -- [1]
 			"[*] Voltaic Flash", -- [2]
 		},
-		[283063] = {
-			2271, -- [1]
-			"Yalat's Bulwark", -- [2]
+		[90361] = {
+			2327, -- [1]
+			"Gara", -- [2]
 		},
 		[327100] = {
 			2389, -- [1]
 			"[*] Noxious Fog", -- [2]
 		},
-		[294860] = {
-			2259, -- [1]
-			"Inconspicuous Plant", -- [2]
+		[313283] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
-		[328124] = {
-			2380, -- [1]
-			"Undying Stonefiend", -- [2]
+		[344500] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
 		},
-		[300832] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
+		[340324] = {
+			2398, -- [1]
+			"[*] Sanguine Ichor", -- [2]
 		},
 		[300490] = {
 			2299, -- [1]
@@ -13279,17 +13307,17 @@ _detalhes_global = {
 			2344, -- [1]
 			"Basher Tentacle", -- [2]
 		},
-		[298465] = {
-			2303, -- [1]
-			"Zoatroid", -- [2]
+		[329974] = {
+			2407, -- [1]
+			"Remornia", -- [2]
 		},
 		[300491] = {
 			2299, -- [1]
 			"Venna Seastorm", -- [2]
 		},
-		[329974] = {
-			2407, -- [1]
-			"Remornia", -- [2]
+		[264166] = {
+			2130, -- [1]
+			"Aqualing", -- [2]
 		},
 		[344502] = {
 			2417, -- [1]
@@ -13311,17 +13339,17 @@ _detalhes_global = {
 			2335, -- [1]
 			"[*] Caustic Coating", -- [2]
 		},
-		[288218] = {
-			2281, -- [1]
-			"Cannons", -- [2]
+		[322450] = {
+			2393, -- [1]
+			"Tred'ova", -- [2]
 		},
 		[306634] = {
 			2331, -- [1]
 			"[*] Unstable Void", -- [2]
 		},
-		[309665] = {
-			2374, -- [1]
-			"Therum Deepforge", -- [2]
+		[307968] = {
+			2333, -- [1]
+			"Tek'ris", -- [2]
 		},
 		[71861] = {
 			1103, -- [1]
@@ -13347,17 +13375,17 @@ _detalhes_global = {
 			2263, -- [1]
 			"Apetagonizer 3000 <Grong>", -- [2]
 		},
-		[307968] = {
-			2333, -- [1]
-			"Tek'ris", -- [2]
-		},
-		[313114] = {
-			2331, -- [1]
-			"[*] Unleashed Nightmare", -- [2]
+		[298782] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
 		},
 		[327414] = {
 			2405, -- [1]
 			"[*] Possession", -- [2]
+		},
+		[271175] = {
+			2115, -- [1]
+			"Pallid Gorger", -- [2]
 		},
 		[312266] = {
 			2329, -- [1]
@@ -13387,9 +13415,9 @@ _detalhes_global = {
 			2280, -- [1]
 			"[*] Roiling Tides", -- [2]
 		},
-		[320787] = {
-			2394, -- [1]
-			"Millhouse Manastorm", -- [2]
+		[283063] = {
+			2271, -- [1]
+			"Yalat's Bulwark", -- [2]
 		},
 		[188950] = {
 			1799, -- [1]
@@ -13399,13 +13427,13 @@ _detalhes_global = {
 			2399, -- [1]
 			"Sludgefist", -- [2]
 		},
-		[276286] = {
-			2130, -- [1]
-			"[*] Slicing Hurricane", -- [2]
+		[315161] = {
+			2292, -- [1]
+			"Eye of Corruption", -- [2]
 		},
-		[315927] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
+		[330537] = {
+			2383, -- [1]
+			"[*] Gluttonous Miasma", -- [2]
 		},
 		[259572] = {
 			2085, -- [1]
@@ -13415,29 +13443,29 @@ _detalhes_global = {
 			2399, -- [1]
 			"Sludgefist", -- [2]
 		},
-		[285118] = {
-			2280, -- [1]
-			"Laminaria", -- [2]
-		},
-		[209862] = {
-			2086, -- [1]
-			"[*] Volcanic Plume", -- [2]
+		[284468] = {
+			2265, -- [1]
+			"Darkforged Crusader", -- [2]
 		},
 		[320248] = {
 			2391, -- [1]
 			"Paceran the Virulent", -- [2]
 		},
+		[313114] = {
+			2331, -- [1]
+			"[*] Unleashed Nightmare", -- [2]
+		},
 		[260852] = {
 			2113, -- [1]
 			"Sister Malady", -- [2]
 		},
-		[268260] = {
-			2109, -- [1]
-			"Ashvane Cannoneer", -- [2]
+		[181275] = {
+			1795, -- [1]
+			"Demon Portal", -- [2]
 		},
-		[284468] = {
-			2265, -- [1]
-			"Darkforged Crusader", -- [2]
+		[315927] = {
+			2344, -- [1]
+			"N'Zoth the Corruptor", -- [2]
 		},
 		[308177] = {
 			2335, -- [1]
@@ -13447,9 +13475,9 @@ _detalhes_global = {
 			2281, -- [1]
 			"Unknown", -- [2]
 		},
-		[326040] = {
-			2406, -- [1]
-			"Sins of the Past", -- [2]
+		[185099] = {
+			2412, -- [1]
+			"[*] Oppressive Atmosphere", -- [2]
 		},
 		[309713] = {
 			2344, -- [1]
@@ -13467,9 +13495,9 @@ _detalhes_global = {
 			1795, -- [1]
 			"[*] Curse of the Legion", -- [2]
 		},
-		[314390] = {
-			2327, -- [1]
-			"[*] Ancient Curse", -- [2]
+		[250022] = {
+			2087, -- [1]
+			"Yazma", -- [2]
 		},
 		[259574] = {
 			2085, -- [1]
@@ -13487,17 +13515,17 @@ _detalhes_global = {
 			2401, -- [1]
 			"Halkias", -- [2]
 		},
-		[250368] = {
-			2085, -- [1]
-			"Vol'kaal", -- [2]
+		[284469] = {
+			2265, -- [1]
+			"Frida Ironbellows", -- [2]
 		},
 		[300504] = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[323852] = {
-			2403, -- [1]
-			"Ghastly Parishioner <Gummybuns-Area52>", -- [2]
+		[339693] = {
+			2417, -- [1]
+			"[*] Crystalline Burst", -- [2]
 		},
 		[285152] = {
 			2257, -- [1]
@@ -13507,21 +13535,21 @@ _detalhes_global = {
 			2265, -- [1]
 			"Frida Ironbellows", -- [2]
 		},
-		[298458] = {
-			2303, -- [1]
-			"Amniotic Eruption <Zoatroid>", -- [2]
+		[282082] = {
+			2263, -- [1]
+			"Grong", -- [2]
 		},
-		[339693] = {
-			2417, -- [1]
-			"[*] Crystalline Burst", -- [2]
+		[300832] = {
+			2344, -- [1]
+			"N'Zoth the Corruptor", -- [2]
 		},
 		[324046] = {
 			2358, -- [1]
 			"Oryphrion", -- [2]
 		},
-		[306524] = {
-			2372, -- [1]
-			"[*] Burning Soles", -- [2]
+		[322475] = {
+			2386, -- [1]
+			"[*] Plague Crash", -- [2]
 		},
 		[282083] = {
 			2263, -- [1]
@@ -13535,45 +13563,45 @@ _detalhes_global = {
 			2394, -- [1]
 			"Millificent Manastorm", -- [2]
 		},
-		[288719] = {
+		[143924] = {
+			2293, -- [1]
+			"Niptoc <Scibolt>", -- [2]
+		},
+		[314843] = {
+			2344, -- [1]
+			"N'Zoth the Corruptor", -- [2]
+		},
+		[287490] = {
 			2281, -- [1]
-			"Lady Jaina Proudmoore", -- [2]
+			"Ice Block", -- [2]
 		},
-		[306654] = {
-			2331, -- [1]
-			"Ra-den", -- [2]
+		[294894] = {
+			2291, -- [1]
+			"HK-8 Aerial Oppression Unit", -- [2]
 		},
-		[227851] = {
-			1961, -- [1]
-			"Moroes", -- [2]
+		[282036] = {
+			2266, -- [1]
+			"Manceroy Flamefist", -- [2]
 		},
-		[294726] = {
-			2298, -- [1]
-			"Abyssal Commander Sivara", -- [2]
+		[260318] = {
+			2108, -- [1]
+			"Mogul Razdunk", -- [2]
 		},
-		[268865] = {
-			2105, -- [1]
-			"Weapons Tester", -- [2]
+		[100780] = {
+			2412, -- [1]
+			"[*] Oppressive Atmosphere", -- [2]
 		},
-		[90361] = {
-			2327, -- [1]
-			"Gara", -- [2]
+		[267838] = {
+			2131, -- [1]
+			"[*] Blowback", -- [2]
 		},
-		[287074] = {
-			2271, -- [1]
-			"[*] Molten Gold", -- [2]
+		[310288] = {
+			2343, -- [1]
+			"Drest'agath", -- [2]
 		},
-		[288651] = {
-			2281, -- [1]
-			"[*] Orb of Frost", -- [2]
-		},
-		[298782] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
-		},
-		[3110] = {
-			2337, -- [1]
-			"Zilqua", -- [2]
+		[325361] = {
+			2405, -- [1]
+			"Artificer Xy'mox", -- [2]
 		},
 		[323538] = {
 			2403, -- [1]
@@ -13591,17 +13619,17 @@ _detalhes_global = {
 			2381, -- [1]
 			"Sinstone Statue", -- [2]
 		},
-		[329455] = {
-			2383, -- [1]
-			"Hungering Destroyer", -- [2]
-		},
-		[331573] = {
-			2406, -- [1]
-			"Harnessed Specter", -- [2]
+		[184357] = {
+			1798, -- [1]
+			"Gurtogg Bloodboil", -- [2]
 		},
 		[255371] = {
 			2086, -- [1]
 			"Rezan", -- [2]
+		},
+		[308227] = {
+			2333, -- [1]
+			"Tek'ris", -- [2]
 		},
 		[327122] = {
 			2407, -- [1]
@@ -13615,9 +13643,9 @@ _detalhes_global = {
 			2387, -- [1]
 			"Carrion Worm", -- [2]
 		},
-		[285064] = {
-			2280, -- [1]
-			"Ire of the Deep", -- [2]
+		[325360] = {
+			2362, -- [1]
+			"Grand Proctor Beryllia", -- [2]
 		},
 		[327123] = {
 			2407, -- [1]
@@ -13635,41 +13663,41 @@ _detalhes_global = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[329171] = {
-			2381, -- [1]
-			"Sinstone Statue", -- [2]
+		[306654] = {
+			2331, -- [1]
+			"Ra-den", -- [2]
 		},
 		[323542] = {
 			2365, -- [1]
 			"Oozing Leftovers", -- [2]
 		},
-		[325360] = {
-			2362, -- [1]
-			"Grand Proctor Beryllia", -- [2]
-		},
-		[283626] = {
-			2265, -- [1]
-			"Anointed Disciple", -- [2]
-		},
-		[100780] = {
+		[331638] = {
 			2412, -- [1]
-			"[*] Oppressive Atmosphere", -- [2]
+			"Lord Stavros", -- [2]
+		},
+		[250368] = {
+			2085, -- [1]
+			"Vol'kaal", -- [2]
+		},
+		[329172] = {
+			2381, -- [1]
+			"Sinstone Statue", -- [2]
 		},
 		[325590] = {
 			2402, -- [1]
 			"Vile Occultist", -- [2]
 		},
-		[310288] = {
-			2343, -- [1]
-			"Drest'agath", -- [2]
+		[285443] = {
+			2259, -- [1]
+			"[*] \"Hidden\" Flame Cannon", -- [2]
 		},
-		[287490] = {
-			2281, -- [1]
-			"Ice Block", -- [2]
+		[268865] = {
+			2105, -- [1]
+			"Weapons Tester", -- [2]
 		},
-		[296421] = {
-			2305, -- [1]
-			"[*] Arcanado", -- [2]
+		[306656] = {
+			2373, -- [1]
+			"Vez'okk the Lightless", -- [2]
 		},
 		[323544] = {
 			2395, -- [1]
@@ -13687,29 +13715,29 @@ _detalhes_global = {
 			2337, -- [1]
 			"Gumi", -- [2]
 		},
-		[143924] = {
-			2293, -- [1]
-			"Niptoc <Scibolt>", -- [2]
+		[312722] = {
+			2331, -- [1]
+			"Nightmare Portal", -- [2]
 		},
 		[264694] = {
 			2115, -- [1]
 			"Raal the Gluttonous", -- [2]
 		},
-		[297937] = {
-			2299, -- [1]
-			"Cyranus", -- [2]
+		[285064] = {
+			2280, -- [1]
+			"Ire of the Deep", -- [2]
 		},
-		[284521] = {
-			2272, -- [1]
-			"Bwonsamdi", -- [2]
+		[310205] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[288747] = {
 			2281, -- [1]
 			"Lady Jaina Proudmoore", -- [2]
 		},
-		[306656] = {
-			2373, -- [1]
-			"Vez'okk the Lightless", -- [2]
+		[268077] = {
+			2113, -- [1]
+			"Sister Solena", -- [2]
 		},
 		[330711] = {
 			2398, -- [1]
@@ -13723,13 +13751,13 @@ _detalhes_global = {
 			2337, -- [1]
 			"Gumi", -- [2]
 		},
-		[313759] = {
-			2345, -- [1]
-			"[*] Cursed Blood", -- [2]
+		[277965] = {
+			2097, -- [1]
+			"Heavy Ordnance", -- [2]
 		},
-		[330712] = {
-			2398, -- [1]
-			"Shriekwing", -- [2]
+		[70460] = {
+			1098, -- [1]
+			"Frost Freeze Trap", -- [2]
 		},
 		[300519] = {
 			2299, -- [1]
@@ -13739,9 +13767,9 @@ _detalhes_global = {
 			1798, -- [1]
 			"Gurtogg Bloodboil", -- [2]
 		},
-		[324427] = {
-			2358, -- [1]
-			"Oryphrion", -- [2]
+		[256039] = {
+			2104, -- [1]
+			"Overseer Korgus", -- [2]
 		},
 		[314337] = {
 			2327, -- [1]
@@ -13767,29 +13795,29 @@ _detalhes_global = {
 			2268, -- [1]
 			"Pa'ku's Aspect", -- [2]
 		},
-		[267310] = {
-			2133, -- [1]
-			"Manifestation of the Deep", -- [2]
-		},
 		[283394] = {
 			2276, -- [1]
 			"High Tinker Mekkatorque", -- [2]
+		},
+		[321009] = {
+			2357, -- [1]
+			"Kin-Tara", -- [2]
 		},
 		[295916] = {
 			2305, -- [1]
 			"Radiance of Azshara", -- [2]
 		},
-		[339415] = {
-			2366, -- [1]
-			"Xav the Unfallen", -- [2]
+		[284146] = {
+			2266, -- [1]
+			"[*] Ring of Hostility", -- [2]
 		},
 		[323551] = {
 			2361, -- [1]
 			"Fleeting Manifestation", -- [2]
 		},
-		[295417] = {
-			2298, -- [1]
-			"Abyssal Commander Sivara", -- [2]
+		[276229] = {
+			2108, -- [1]
+			"B.O.O.M.B.A.", -- [2]
 		},
 		[334810] = {
 			2396, -- [1]
@@ -13799,37 +13827,37 @@ _detalhes_global = {
 			2407, -- [1]
 			"Sire Denathrius", -- [2]
 		},
-		[184357] = {
-			1798, -- [1]
-			"Gurtogg Bloodboil", -- [2]
-		},
-		[276229] = {
-			2108, -- [1]
-			"B.O.O.M.B.A.", -- [2]
-		},
-		[207386] = {
-			2344, -- [1]
-			11, -- [2]
+		[323552] = {
+			2403, -- [1]
+			"High Adjudicator Aleez", -- [2]
 		},
 		[326892] = {
 			2391, -- [1]
 			"Dessia the Decapitator", -- [2]
 		},
+		[207386] = {
+			2344, -- [1]
+			11, -- [2]
+		},
+		[282408] = {
+			2276, -- [1]
+			"Spark Bot", -- [2]
+		},
 		[307177] = {
 			2336, -- [1]
 			"Spellbound Ritualist", -- [2]
 		},
-		[307725] = {
-			2334, -- [1]
-			"Prophet Skitra", -- [2]
+		[333634] = {
+			2388, -- [1]
+			"Amarth", -- [2]
 		},
 		[283637] = {
 			2265, -- [1]
 			"Darkforged Crusader", -- [2]
 		},
-		[260838] = {
-			2108, -- [1]
-			"[*] Homing Missile", -- [2]
+		[341473] = {
+			2402, -- [1]
+			"Bleakwing Assassin", -- [2]
 		},
 		[329711] = {
 			2407, -- [1]
@@ -13839,21 +13867,21 @@ _detalhes_global = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[325596] = {
-			2406, -- [1]
-			"Lady Inerva Darkvein", -- [2]
+		[318460] = {
+			2344, -- [1]
+			"Voidspawn Annihilator", -- [2]
 		},
-		[265761] = {
-			2114, -- [1]
-			"Matron Bryndle", -- [2]
+		[212423] = {
+			2412, -- [1]
+			"Frothing Pustule", -- [2]
 		},
 		[327649] = {
 			2396, -- [1]
 			"Mueh'zala", -- [2]
 		},
-		[317164] = {
-			2337, -- [1]
-			"Mycelial Cyst", -- [2]
+		[307725] = {
+			2334, -- [1]
+			"Prophet Skitra", -- [2]
 		},
 		[295921] = {
 			2305, -- [1]
@@ -13871,9 +13899,9 @@ _detalhes_global = {
 			1799, -- [1]
 			"Felborne Overfiend", -- [2]
 		},
-		[333808] = {
-			2384, -- [1]
-			"Doctor Ickus", -- [2]
+		[303986] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
 		},
 		[312810] = {
 			2337, -- [1]
@@ -13883,49 +13911,45 @@ _detalhes_global = {
 			2103, -- [1]
 			"Knight Captain Valyri", -- [2]
 		},
-		[268080] = {
-			2113, -- [1]
-			"[*] Aura of Apathy", -- [2]
-		},
-		[318970] = {
-			2344, -- [1]
-			"Corruptor Tentacle", -- [2]
+		[287751] = {
+			2276, -- [1]
+			"High Tinker Mekkatorque", -- [2]
 		},
 		[321772] = {
 			2397, -- [1]
 			"Droman Oulfarran", -- [2]
 		},
-		[250022] = {
-			2087, -- [1]
-			"Yazma", -- [2]
-		},
-		[285177] = {
-			2281, -- [1]
-			"Lady Jaina Proudmoore", -- [2]
-		},
-		[343005] = {
-			2398, -- [1]
-			"Shriekwing", -- [2]
-		},
-		[100784] = {
-			2412, -- [1]
-			"[*] Oppressive Atmosphere", -- [2]
+		[307217] = {
+			2333, -- [1]
+			"Aqir Darter", -- [2]
 		},
 		[328936] = {
 			2407, -- [1]
 			"Sire Denathrius", -- [2]
 		},
-		[318460] = {
-			2344, -- [1]
-			"Voidspawn Annihilator", -- [2]
+		[285177] = {
+			2281, -- [1]
+			"Lady Jaina Proudmoore", -- [2]
+		},
+		[326629] = {
+			2389, -- [1]
+			"Surgeon Stitchflesh", -- [2]
+		},
+		[100784] = {
+			2412, -- [1]
+			"[*] Oppressive Atmosphere", -- [2]
+		},
+		[335295] = {
+			2399, -- [1]
+			"[*] Shattering Chain", -- [2]
+		},
+		[307240] = {
+			2335, -- [1]
+			"Living Miasma", -- [2]
 		},
 		[297972] = {
 			2299, -- [1]
 			"Aethanel", -- [2]
-		},
-		[268077] = {
-			2113, -- [1]
-			"Sister Solena", -- [2]
 		},
 		[306930] = {
 			2335, -- [1]
@@ -13935,13 +13959,17 @@ _detalhes_global = {
 			2280, -- [1]
 			"Sister Katherine", -- [2]
 		},
-		[181275] = {
-			1795, -- [1]
-			"Demon Portal", -- [2]
+		[321258] = {
+			2388, -- [1]
+			"[*] Final Harvest", -- [2]
 		},
-		[341475] = {
-			2402, -- [1]
-			"Bleakwing Assassin", -- [2]
+		[323064] = {
+			2395, -- [1]
+			"Hakkar the Soulflayer", -- [2]
+		},
+		[333540] = {
+			2391, -- [1]
+			"Xira the Underhanded", -- [2]
 		},
 		[55078] = {
 			2344, -- [1]
@@ -13951,9 +13979,9 @@ _detalhes_global = {
 			2298, -- [1]
 			"Abyssal Commander Sivara", -- [2]
 		},
-		[321258] = {
-			2388, -- [1]
-			"[*] Final Harvest", -- [2]
+		[314347] = {
+			2329, -- [1]
+			"Ashwalker Assassin", -- [2]
 		},
 		[343520] = {
 			2391, -- [1]
@@ -13963,45 +13991,45 @@ _detalhes_global = {
 			2266, -- [1]
 			"Manceroy Flamefist", -- [2]
 		},
-		[91776] = {
-			2412, -- [1]
-			"Castellan Niklaus", -- [2]
+		[282592] = {
+			2268, -- [1]
+			"Kimbul", -- [2]
 		},
 		[306163] = {
 			2329, -- [1]
 			"Wrathion", -- [2]
 		},
-		[255445] = {
-			2086, -- [1]
-			"Rezan", -- [2]
-		},
-		[318976] = {
+		[50842] = {
 			2344, -- [1]
-			"[*] Stupefying Glare", -- [2]
-		},
-		[264712] = {
-			2115, -- [1]
-			"[*] Rotten Expulsion", -- [2]
+			6, -- [2]
 		},
 		[306928] = {
 			2335, -- [1]
 			"Shad'har the Insatiable", -- [2]
 		},
-		[321005] = {
-			2397, -- [1]
-			"Ingra Maloch", -- [2]
+		[264712] = {
+			2115, -- [1]
+			"[*] Rotten Expulsion", -- [2]
 		},
-		[312336] = {
-			2328, -- [1]
-			"Dark Inquisitor Xanesh", -- [2]
+		[296421] = {
+			2305, -- [1]
+			"[*] Arcanado", -- [2]
+		},
+		[341475] = {
+			2402, -- [1]
+			"Bleakwing Assassin", -- [2]
+		},
+		[285572] = {
+			2272, -- [1]
+			"Phantom of Retribution", -- [2]
 		},
 		[330217] = {
 			2407, -- [1]
 			"Remornia", -- [2]
 		},
-		[310015] = {
-			2331, -- [1]
-			"Ra-den", -- [2]
+		[284165] = {
+			2280, -- [1]
+			"[*] Voltaic Flash", -- [2]
 		},
 		[282113] = {
 			2265, -- [1]
@@ -14011,9 +14039,9 @@ _detalhes_global = {
 			2130, -- [1]
 			"Galecaller Apprentice", -- [2]
 		},
-		[281621] = {
-			2108, -- [1]
-			"Venture Co. Skyscorcher", -- [2]
+		[291856] = {
+			2260, -- [1]
+			"Plasma Orb", -- [2]
 		},
 		[324589] = {
 			2404, -- [1]
@@ -14027,121 +14055,121 @@ _detalhes_global = {
 			2130, -- [1]
 			"Lord Stormsong", -- [2]
 		},
-		[31707] = {
-			2329, -- [1]
-			"Water Elemental", -- [2]
+		[334792] = {
+			2418, -- [1]
+			"Huntsman Altimor", -- [2]
 		},
-		[318449] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
-		},
-		[258709] = {
-			2084, -- [1]
-			"[*] Corrupted Gold", -- [2]
-		},
-		[32409] = {
-			2329, -- [1]
-			"[*] Shadow Word: Death", -- [2]
-		},
-		[324079] = {
-			2404, -- [1]
-			"Mordretha, the Endless Empress", -- [2]
-		},
-		[306168] = {
-			2331, -- [1]
-			"Unknown", -- [2]
-		},
-		[335338] = {
-			2381, -- [1]
-			"Lord Chamberlain", -- [2]
+		[283650] = {
+			2265, -- [1]
+			"Darkforged Crusader", -- [2]
 		},
 		[320232] = {
 			2400, -- [1]
 			"Dealer Xy'exa", -- [2]
 		},
-		[285125] = {
-			2280, -- [1]
-			"Laminaria", -- [2]
+		[32409] = {
+			2329, -- [1]
+			"[*] Shadow Word: Death", -- [2]
 		},
-		[318451] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
+		[117418] = {
+			2412, -- [1]
+			"[*] Oppressive Atmosphere", -- [2]
+		},
+		[283651] = {
+			2265, -- [1]
+			"Darkforged Crusader", -- [2]
+		},
+		[335338] = {
+			2381, -- [1]
+			"Lord Chamberlain", -- [2]
+		},
+		[328125] = {
+			2380, -- [1]
+			"Undying Stonefiend <Echelon>", -- [2]
 		},
 		[323057] = {
 			2397, -- [1]
 			"Ingra Maloch", -- [2]
 		},
-		[323569] = {
-			2395, -- [1]
-			"Son of Hakkar", -- [2]
-		},
-		[333540] = {
-			2391, -- [1]
-			"Xira the Underhanded", -- [2]
-		},
-		[330978] = {
-			2412, -- [1]
-			"Castellan Niklaus", -- [2]
-		},
-		[284165] = {
-			2280, -- [1]
-			"[*] Voltaic Flash", -- [2]
-		},
-		[327664] = {
-			2389, -- [1]
-			"Surgeon Stitchflesh", -- [2]
-		},
-		[70853] = {
-			1102, -- [1]
-			"Professor Putricide", -- [2]
-		},
-		[289795] = {
-			2280, -- [1]
-			"Unknown", -- [2]
-		},
-		[323059] = {
-			2397, -- [1]
-			"Droman Oulfarran", -- [2]
-		},
-		[319349] = {
+		[318451] = {
 			2344, -- [1]
-			"Titanic Countermeasure", -- [2]
-		},
-		[283143] = {
-			2260, -- [1]
-			"Magneto-Arm", -- [2]
-		},
-		[284146] = {
-			2266, -- [1]
-			"[*] Ring of Hostility", -- [2]
-		},
-		[296449] = {
-			2305, -- [1]
-			"Radiance of Azshara", -- [2]
+			"N'Zoth the Corruptor", -- [2]
 		},
 		[333292] = {
 			2391, -- [1]
 			"Sathel the Accursed", -- [2]
 		},
+		[323569] = {
+			2395, -- [1]
+			"Son of Hakkar", -- [2]
+		},
+		[330978] = {
+			2412, -- [1]
+			"Castellan Niklaus", -- [2]
+		},
+		[289297] = {
+			2276, -- [1]
+			"Spark Bot", -- [2]
+		},
+		[302588] = {
+			2298, -- [1]
+			"[*] Frost Mark", -- [2]
+		},
+		[327664] = {
+			2389, -- [1]
+			"Surgeon Stitchflesh", -- [2]
+		},
+		[311570] = {
+			2376, -- [1]
+			"Overlord Mathias Shaw", -- [2]
+		},
+		[289795] = {
+			2280, -- [1]
+			"Unknown", -- [2]
+		},
+		[302589] = {
+			2298, -- [1]
+			"[*] Toxic Brand", -- [2]
+		},
+		[33763] = {
+			2344, -- [1]
+			11, -- [2]
+		},
+		[283143] = {
+			2260, -- [1]
+			"Magneto-Arm", -- [2]
+		},
+		[70853] = {
+			1102, -- [1]
+			"Professor Putricide", -- [2]
+		},
+		[296449] = {
+			2305, -- [1]
+			"Radiance of Azshara", -- [2]
+		},
 		[320230] = {
 			2400, -- [1]
 			"Dealer Xy'exa", -- [2]
-		},
-		[297985] = {
-			2292, -- [1]
-			"Gunker", -- [2]
 		},
 		[325859] = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[323573] = {
-			2361, -- [1]
-			"[*] Residue", -- [2]
+		[297985] = {
+			2292, -- [1]
+			"Gunker", -- [2]
 		},
-		[257292] = {
-			2097, -- [1]
-			"Kul Tiran Vanguard", -- [2]
+		[343005] = {
+			2398, -- [1]
+			"Shriekwing", -- [2]
+		},
+		[333808] = {
+			2384, -- [1]
+			"Doctor Ickus", -- [2]
+		},
+		[324085] = {
+			2391, -- [1]
+			"Dessia the Decapitator", -- [2]
 		},
 		[295939] = {
 			2291, -- [1]
@@ -14159,9 +14187,9 @@ _detalhes_global = {
 			2327, -- [1]
 			"Maut", -- [2]
 		},
-		[343024] = {
-			2398, -- [1]
-			"Shriekwing", -- [2]
+		[259714] = {
+			2112, -- [1]
+			"[*] Decaying Spores", -- [2]
 		},
 		[331251] = {
 			2357, -- [1]
@@ -14179,45 +14207,45 @@ _detalhes_global = {
 			2398, -- [1]
 			"Shriekwing", -- [2]
 		},
-		[323064] = {
-			2395, -- [1]
-			"Hakkar the Soulflayer", -- [2]
+		[318970] = {
+			2344, -- [1]
+			"Corruptor Tentacle", -- [2]
 		},
-		[259714] = {
-			2112, -- [1]
-			"[*] Decaying Spores", -- [2]
+		[295417] = {
+			2298, -- [1]
+			"Abyssal Commander Sivara", -- [2]
 		},
 		[285195] = {
 			2272, -- [1]
 			"[*] Deathly Withering", -- [2]
 		},
-		[322567] = {
-			2361, -- [1]
-			"Executor Tarvold", -- [2]
+		[312332] = {
+			2335, -- [1]
+			"Shad'har the Insatiable", -- [2]
 		},
-		[269843] = {
-			2123, -- [1]
-			"Unbound Abomination", -- [2]
+		[318971] = {
+			2344, -- [1]
+			"Voidspawn Annihilator", -- [2]
 		},
-		[268308] = {
-			2116, -- [1]
-			"Lady Waycrest", -- [2]
+		[307201] = {
+			2333, -- [1]
+			"Ka'zir", -- [2]
 		},
-		[295445] = {
-			2291, -- [1]
-			"Tank Buster MK1", -- [2]
+		[296688] = {
+			2304, -- [1]
+			"Lady Ashvane", -- [2]
 		},
-		[322554] = {
-			2361, -- [1]
-			"Executor Tarvold", -- [2]
+		[343024] = {
+			2398, -- [1]
+			"Shriekwing", -- [2]
 		},
 		[259853] = {
 			2107, -- [1]
 			"Rixxa Fluxflame", -- [2]
 		},
-		[296688] = {
-			2304, -- [1]
-			"Lady Ashvane", -- [2]
+		[295445] = {
+			2291, -- [1]
+			"Tank Buster MK1", -- [2]
 		},
 		[324090] = {
 			2400, -- [1]
@@ -14231,13 +14259,13 @@ _detalhes_global = {
 			2311, -- [1]
 			"Silivaz the Zealous", -- [2]
 		},
-		[282082] = {
-			2263, -- [1]
-			"Grong", -- [2]
+		[322088] = {
+			2364, -- [1]
+			"Kul'tharok", -- [2]
 		},
-		[310333] = {
-			2344, -- [1]
-			"Mind's Eye", -- [2]
+		[306986] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[318462] = {
 			2344, -- [1]
@@ -14247,13 +14275,9 @@ _detalhes_global = {
 			2344, -- [1]
 			"Voidspawn Annihilator", -- [2]
 		},
-		[265760] = {
-			2114, -- [1]
-			"Matron Bryndle", -- [2]
-		},
-		[335875] = {
-			2407, -- [1]
-			"Crimson Cabalist", -- [2]
+		[298465] = {
+			2303, -- [1]
+			"Zoatroid", -- [2]
 		},
 		[273658] = {
 			2117, -- [1]
@@ -14267,25 +14291,29 @@ _detalhes_global = {
 			2360, -- [1]
 			"Kryxis the Voracious", -- [2]
 		},
-		[334852] = {
-			2418, -- [1]
-			"Hecutis", -- [2]
+		[31707] = {
+			2329, -- [1]
+			"Water Elemental", -- [2]
 		},
-		[261265] = {
-			2113, -- [1]
-			"Sister Briar", -- [2]
+		[322554] = {
+			2361, -- [1]
+			"Executor Tarvold", -- [2]
 		},
-		[296459] = {
-			2305, -- [1]
-			"Radiance of Azshara", -- [2]
+		[339415] = {
+			2366, -- [1]
+			"Xav the Unfallen", -- [2]
+		},
+		[318976] = {
+			2344, -- [1]
+			"[*] Stupefying Glare", -- [2]
 		},
 		[266266] = {
 			2117, -- [1]
 			"Gorak Tul", -- [2]
 		},
-		[288774] = {
-			2276, -- [1]
-			"Spark Bot", -- [2]
+		[330712] = {
+			2398, -- [1]
+			"Shriekwing", -- [2]
 		},
 		[310277] = {
 			2343, -- [1]
@@ -14295,9 +14323,9 @@ _detalhes_global = {
 			2111, -- [1]
 			"Elder Leaxa", -- [2]
 		},
-		[320966] = {
-			2357, -- [1]
-			"Kin-Tara", -- [2]
+		[209862] = {
+			2086, -- [1]
+			"[*] Volcanic Plume", -- [2]
 		},
 		[305672] = {
 			2338, -- [1]
@@ -14311,29 +14339,29 @@ _detalhes_global = {
 			2107, -- [1]
 			"Rixxa Fluxflame", -- [2]
 		},
-		[323552] = {
-			2403, -- [1]
-			"High Adjudicator Aleez", -- [2]
+		[323059] = {
+			2397, -- [1]
+			"Droman Oulfarran", -- [2]
 		},
-		[227616] = {
-			1961, -- [1]
-			"Lady Keira Berrybuck", -- [2]
+		[196911] = {
+			2337, -- [1]
+			4, -- [2]
 		},
-		[314373] = {
-			2329, -- [1]
-			"Ashwalker Assassin", -- [2]
+		[324608] = {
+			2358, -- [1]
+			"Oryphrion", -- [2]
 		},
 		[296462] = {
 			2305, -- [1]
 			"Radiance of Azshara", -- [2]
 		},
-		[341473] = {
-			2402, -- [1]
-			"Bleakwing Assassin", -- [2]
-		},
-		[341442] = {
+		[341443] = {
 			2384, -- [1]
-			"Erupting Ooze", -- [2]
+			"Unknown", -- [2]
+		},
+		[227616] = {
+			1961, -- [1]
+			"Lady Keira Berrybuck", -- [2]
 		},
 		[332797] = {
 			2407, -- [1]
@@ -14343,13 +14371,13 @@ _detalhes_global = {
 			1102, -- [1]
 			"Professor Putricide", -- [2]
 		},
-		[332734] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[331275] = {
+			2391, -- [1]
+			"Advent Nevermore", -- [2]
 		},
-		[283651] = {
-			2265, -- [1]
-			"Darkforged Crusader", -- [2]
+		[72264] = {
+			1103, -- [1]
+			"Blood-Queen Lana'thel", -- [2]
 		},
 		[322563] = {
 			2393, -- [1]
@@ -14363,29 +14391,29 @@ _detalhes_global = {
 			2258, -- [1]
 			"K.U.-J.0.", -- [2]
 		},
-		[314843] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
-		},
-		[320825] = {
+		[321011] = {
 			2394, -- [1]
-			"Mechanical Bomb Squirrel", -- [2]
+			"Millificent Manastorm", -- [2]
 		},
-		[329217] = {
-			2384, -- [1]
-			"Doctor Ickus", -- [2]
+		[284474] = {
+			2265, -- [1]
+			"Frida Ironbellows", -- [2]
+		},
+		[265760] = {
+			2114, -- [1]
+			"Matron Bryndle", -- [2]
 		},
 		[286742] = {
 			2272, -- [1]
 			"Phantom of Rage", -- [2]
 		},
-		[288507] = {
-			2281, -- [1]
-			"Frozen Wave <Lady Jaina Proudmoore>", -- [2]
+		[313759] = {
+			2345, -- [1]
+			"[*] Cursed Blood", -- [2]
 		},
-		[306929] = {
-			2335, -- [1]
-			"Shad'har the Insatiable", -- [2]
+		[259711] = {
+			2101, -- [1]
+			"Block Warden", -- [2]
 		},
 		[314889] = {
 			2344, -- [1]
@@ -14399,25 +14427,25 @@ _detalhes_global = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[259711] = {
-			2101, -- [1]
-			"Block Warden", -- [2]
+		[342740] = {
+			2417, -- [1]
+			"Stone Legion Goliath", -- [2]
 		},
 		[271903] = {
 			2105, -- [1]
 			"Coin-Operated Crowd Pummeler", -- [2]
 		},
-		[342740] = {
-			2417, -- [1]
-			"Stone Legion Goliath", -- [2]
+		[328664] = {
+			2388, -- [1]
+			"Reanimated Mage <Amarth>", -- [2]
 		},
 		[295444] = {
 			2293, -- [1]
 			"Za'qul", -- [2]
 		},
-		[312332] = {
-			2335, -- [1]
-			"Shad'har the Insatiable", -- [2]
+		[322567] = {
+			2361, -- [1]
+			"Executor Tarvold", -- [2]
 		},
 		[335361] = {
 			2399, -- [1]
@@ -14435,33 +14463,33 @@ _detalhes_global = {
 			2133, -- [1]
 			"Vol'zith the Whisperer", -- [2]
 		},
-		[132951] = {
-			2412, -- [1]
-			"Go Away!", -- [2]
+		[312336] = {
+			2328, -- [1]
+			"Dark Inquisitor Xanesh", -- [2]
 		},
-		[329172] = {
-			2381, -- [1]
-			"Sinstone Statue", -- [2]
+		[310499] = {
+			2343, -- [1]
+			"Tentacle of Drest'agath", -- [2]
 		},
 		[260372] = {
 			2108, -- [1]
 			"Venture Co. Skyscorcher", -- [2]
 		},
-		[314593] = {
-			2333, -- [1]
-			"Ka'zir", -- [2]
+		[298526] = {
+			2303, -- [1]
+			"Hatchery Gauntlet", -- [2]
 		},
 		[321034] = {
 			2357, -- [1]
 			"Kin-Tara", -- [2]
 		},
-		[307217] = {
-			2333, -- [1]
-			"Aqir Darter", -- [2]
+		[335875] = {
+			2407, -- [1]
+			"Crimson Cabalist", -- [2]
 		},
-		[329565] = {
-			2402, -- [1]
-			"Vile Occultist", -- [2]
+		[285190] = {
+			2272, -- [1]
+			"Bwonsamdi", -- [2]
 		},
 		[291865] = {
 			2260, -- [1]
@@ -14483,9 +14511,9 @@ _detalhes_global = {
 			2281, -- [1]
 			"Kul Tiran Marine", -- [2]
 		},
-		[296944] = {
-			2304, -- [1]
-			"[*] Arcing Azerite", -- [2]
+		[335372] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[301078] = {
 			2299, -- [1]
@@ -14495,25 +14523,25 @@ _detalhes_global = {
 			2344, -- [1]
 			6, -- [2]
 		},
-		[306228] = {
-			2328, -- [1]
-			"Flayed Soul", -- [2]
+		[307250] = {
+			2336, -- [1]
+			"Shadow of Vexiona", -- [2]
 		},
-		[277965] = {
-			2097, -- [1]
-			"Heavy Ordnance", -- [2]
+		[319539] = {
+			2364, -- [1]
+			"Kul'tharok", -- [2]
 		},
-		[328664] = {
-			2388, -- [1]
-			"Reanimated Mage <Amarth>", -- [2]
+		[329170] = {
+			2381, -- [1]
+			"Sinstone Statue", -- [2]
 		},
 		[332296] = {
 			2383, -- [1]
 			"Hungering Destroyer", -- [2]
 		},
-		[335304] = {
-			2418, -- [1]
-			"Huntsman Altimor", -- [2]
+		[334266] = {
+			2383, -- [1]
+			"Hungering Destroyer", -- [2]
 		},
 		[321038] = {
 			2362, -- [1]
@@ -14523,29 +14551,29 @@ _detalhes_global = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[334792] = {
+		[335304] = {
 			2418, -- [1]
 			"Huntsman Altimor", -- [2]
 		},
-		[323107] = {
-			2365, -- [1]
-			"Oozing Leftovers", -- [2]
+		[313041] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[343556] = {
 			2389, -- [1]
 			"Surgeon Stitchflesh", -- [2]
 		},
-		[317231] = {
-			2366, -- [1]
-			"Xav the Unfallen", -- [2]
-		},
 		[329943] = {
 			2407, -- [1]
 			"Remornia", -- [2]
 		},
-		[188223] = {
-			1785, -- [1]
-			"Iron Peon", -- [2]
+		[257544] = {
+			2106, -- [1]
+			"Earthrager", -- [2]
+		},
+		[342732] = {
+			2417, -- [1]
+			"Stone Legion Goliath", -- [2]
 		},
 		[267818] = {
 			2131, -- [1]
@@ -14555,17 +14583,17 @@ _detalhes_global = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[323608] = {
-			2404, -- [1]
-			"Mordretha, the Endless Empress", -- [2]
+		[325596] = {
+			2406, -- [1]
+			"Lady Inerva Darkvein", -- [2]
 		},
-		[257495] = {
-			2101, -- [1]
-			"The Sand Queen", -- [2]
+		[307075] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
-		[331217] = {
-			2393, -- [1]
-			"[*] Shared Pain", -- [2]
+		[327619] = {
+			2412, -- [1]
+			"Waltzing Venthyr", -- [2]
 		},
 		[307224] = {
 			2303, -- [1]
@@ -14579,45 +14607,45 @@ _detalhes_global = {
 			1103, -- [1]
 			"Blood-Queen Lana'thel", -- [2]
 		},
-		[324608] = {
-			2358, -- [1]
-			"Oryphrion", -- [2]
+		[321005] = {
+			2397, -- [1]
+			"Ingra Maloch", -- [2]
 		},
 		[329742] = {
 			2383, -- [1]
 			"Hungering Destroyer", -- [2]
 		},
-		[117418] = {
-			2412, -- [1]
-			"[*] Oppressive Atmosphere", -- [2]
+		[281621] = {
+			2108, -- [1]
+			"Venture Co. Skyscorcher", -- [2]
 		},
 		[298014] = {
 			2299, -- [1]
 			"Aethanel", -- [2]
 		},
-		[335372] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[132951] = {
+			2412, -- [1]
+			"Go Away!", -- [2]
 		},
-		[300494] = {
-			2299, -- [1]
-			"Venna Seastorm", -- [2]
+		[267830] = {
+			2131, -- [1]
+			"Galecaller Faye", -- [2]
 		},
-		[312866] = {
+		[288507] = {
+			2281, -- [1]
+			"Frozen Wave <Lady Jaina Proudmoore>", -- [2]
+		},
+		[267310] = {
+			2133, -- [1]
+			"Manifestation of the Deep", -- [2]
+		},
+		[183969] = {
+			1799, -- [1]
+			"Unknown <Archimonde>", -- [2]
+		},
+		[312782] = {
 			2344, -- [1]
-			"Deathwing", -- [2]
-		},
-		[291874] = {
-			2258, -- [1]
-			"Flying Claw", -- [2]
-		},
-		[310499] = {
-			2343, -- [1]
-			"Tentacle of Drest'agath", -- [2]
-		},
-		[320729] = {
-			2366, -- [1]
-			"Xav the Unfallen", -- [2]
+			"N'Zoth the Corruptor", -- [2]
 		},
 		[70346] = {
 			1102, -- [1]
@@ -14627,21 +14655,21 @@ _detalhes_global = {
 			2336, -- [1]
 			"Sinister Soulcarver", -- [2]
 		},
-		[315947] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[314593] = {
+			2333, -- [1]
+			"Ka'zir", -- [2]
 		},
-		[289297] = {
-			2276, -- [1]
-			"Spark Bot", -- [2]
+		[343060] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
 		},
 		[336398] = {
 			2402, -- [1]
 			"Pestering Fiend", -- [2]
 		},
-		[268347] = {
-			2132, -- [1]
-			"Lord Stormsong", -- [2]
+		[314373] = {
+			2329, -- [1]
+			"Ashwalker Assassin", -- [2]
 		},
 		[282153] = {
 			2276, -- [1]
@@ -14651,21 +14679,21 @@ _detalhes_global = {
 			2276, -- [1]
 			"[*] Gigavolt Blast", -- [2]
 		},
-		[343063] = {
-			2417, -- [1]
-			"General Grashaal", -- [2]
-		},
-		[300605] = {
+		[303672] = {
 			2299, -- [1]
-			"Cyranus", -- [2]
+			"Queen Azshara", -- [2]
 		},
-		[313258] = {
-			2328, -- [1]
-			"Dark Inquisitor Xanesh", -- [2]
+		[334889] = {
+			2418, -- [1]
+			"[*] Petrifying Howl", -- [2]
 		},
-		[289864] = {
-			2276, -- [1]
-			"Blingtron MK2", -- [2]
+		[341442] = {
+			2384, -- [1]
+			"Erupting Ooze", -- [2]
+		},
+		[323573] = {
+			2361, -- [1]
+			"[*] Residue", -- [2]
 		},
 		[328212] = {
 			2390, -- [1]
@@ -14679,9 +14707,9 @@ _detalhes_global = {
 			2299, -- [1]
 			"Overzealous Hulk", -- [2]
 		},
-		[319013] = {
-			2344, -- [1]
-			"Unknown", -- [2]
+		[289510] = {
+			2265, -- [1]
+			"Dark Iron Vanguard", -- [2]
 		},
 		[274991] = {
 			2100, -- [1]
@@ -14691,29 +14719,29 @@ _detalhes_global = {
 			2345, -- [1]
 			"Cursed Blood", -- [2]
 		},
-		[288297] = {
-			2281, -- [1]
-			"[*] Arctic Ground", -- [2]
+		[188223] = {
+			1785, -- [1]
+			"Iron Peon", -- [2]
 		},
-		[307232] = {
-			2333, -- [1]
-			"Tek'ris", -- [2]
+		[323608] = {
+			2404, -- [1]
+			"Mordretha, the Endless Empress", -- [2]
 		},
-		[315932] = {
-			2336, -- [1]
-			"Iron-Willed Enforcer", -- [2]
+		[264757] = {
+			2111, -- [1]
+			"Elder Leaxa", -- [2]
 		},
 		[298021] = {
 			2299, -- [1]
 			"Aethanel", -- [2]
 		},
-		[342732] = {
-			2417, -- [1]
-			"Stone Legion Goliath", -- [2]
-		},
 		[319703] = {
 			2380, -- [1]
 			"Echelon", -- [2]
+		},
+		[308956] = {
+			2343, -- [1]
+			"Eye of Drest'agath", -- [2]
 		},
 		[342544] = {
 			2417, -- [1]
@@ -14727,37 +14755,37 @@ _detalhes_global = {
 			2299, -- [1]
 			"Overzealous Hulk", -- [2]
 		},
-		[308956] = {
-			2343, -- [1]
-			"Eye of Drest'agath", -- [2]
-		},
 		[181832] = {
 			1788, -- [1]
 			"Shadowfel Warden", -- [2]
 		},
-		[261266] = {
-			2113, -- [1]
-			"Sister Malady", -- [2]
+		[296459] = {
+			2305, -- [1]
+			"Radiance of Azshara", -- [2]
+		},
+		[310311] = {
+			2336, -- [1]
+			"Sinister Soulcarver", -- [2]
 		},
 		[319005] = {
 			2345, -- [1]
 			"Il'gynoth", -- [2]
 		},
-		[294894] = {
-			2291, -- [1]
-			"HK-8 Aerial Oppression Unit", -- [2]
-		},
 		[325331] = {
 			2405, -- [1]
 			"[*] Glyph of Destruction", -- [2]
 		},
-		[323011] = {
-			2359, -- [1]
-			"Devos", -- [2]
+		[286439] = {
+			2266, -- [1]
+			"Mestrah", -- [2]
 		},
-		[269131] = {
-			2132, -- [1]
-			"Lord Stormsong", -- [2]
+		[268308] = {
+			2116, -- [1]
+			"Lady Waycrest", -- [2]
+		},
+		[316970] = {
+			2344, -- [1]
+			"Titanic Countermeasure", -- [2]
 		},
 		[294954] = {
 			2259, -- [1]
@@ -14767,17 +14795,17 @@ _detalhes_global = {
 			2396, -- [1]
 			"Mueh'zala", -- [2]
 		},
-		[306735] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
-		},
-		[260894] = {
-			2111, -- [1]
-			"Elder Leaxa", -- [2]
-		},
 		[70351] = {
 			1102, -- [1]
 			"Professor Putricide", -- [2]
+		},
+		[312866] = {
+			2344, -- [1]
+			"Deathwing", -- [2]
+		},
+		[330959] = {
+			2412, -- [1]
+			"Baroness Frieda", -- [2]
 		},
 		[332313] = {
 			2385, -- [1]
@@ -14791,9 +14819,9 @@ _detalhes_global = {
 			2373, -- [1]
 			"Vez'okk the Lightless", -- [2]
 		},
-		[330959] = {
-			2412, -- [1]
-			"Baroness Frieda", -- [2]
+		[298548] = {
+			2303, -- [1]
+			"Orgozoa", -- [2]
 		},
 		[332314] = {
 			2385, -- [1]
@@ -14803,9 +14831,9 @@ _detalhes_global = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[298548] = {
-			2303, -- [1]
-			"Orgozoa", -- [2]
+		[338471] = {
+			2360, -- [1]
+			"Kryxis the Voracious", -- [2]
 		},
 		[319521] = {
 			2364, -- [1]
@@ -14815,45 +14843,45 @@ _detalhes_global = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[303672] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
+		[286436] = {
+			2266, -- [1]
+			"Mestrah", -- [2]
 		},
 		[167757] = {
 			2337, -- [1]
 			"Energized Phoenix", -- [2]
 		},
-		[307240] = {
-			2335, -- [1]
-			"Living Miasma", -- [2]
+		[268347] = {
+			2132, -- [1]
+			"Lord Stormsong", -- [2]
 		},
-		[286436] = {
-			2266, -- [1]
-			"Mestrah", -- [2]
+		[257292] = {
+			2097, -- [1]
+			"Kul Tiran Vanguard", -- [2]
 		},
-		[310311] = {
-			2336, -- [1]
-			"Sinister Soulcarver", -- [2]
+		[343063] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
 		},
-		[257544] = {
-			2106, -- [1]
-			"Earthrager", -- [2]
+		[344496] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
 		},
-		[307250] = {
-			2336, -- [1]
-			"Shadow of Vexiona", -- [2]
+		[306168] = {
+			2331, -- [1]
+			"Unknown", -- [2]
 		},
-		[287757] = {
-			2276, -- [1]
-			"High Tinker Mekkatorque", -- [2]
+		[302141] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
 		},
 		[314406] = {
 			2291, -- [1]
 			"Unknown", -- [2]
 		},
-		[300768] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
+		[306228] = {
+			2328, -- [1]
+			"Flayed Soul", -- [2]
 		},
 		[325665] = {
 			2402, -- [1]
@@ -14867,9 +14895,9 @@ _detalhes_global = {
 			2338, -- [1]
 			"Alleria Windrunner", -- [2]
 		},
-		[267838] = {
-			2131, -- [1]
-			"[*] Blowback", -- [2]
+		[319013] = {
+			2344, -- [1]
+			"Unknown", -- [2]
 		},
 		[294961] = {
 			2258, -- [1]
@@ -14887,29 +14915,29 @@ _detalhes_global = {
 			2344, -- [1]
 			"Deathwing", -- [2]
 		},
-		[310322] = {
-			2345, -- [1]
-			"[*] Morass of Corruption", -- [2]
+		[322550] = {
+			2393, -- [1]
+			"Tred'ova", -- [2]
 		},
 		[182600] = {
 			1788, -- [1]
 			"[*] Fel Fire", -- [2]
 		},
-		[289510] = {
-			2265, -- [1]
-			"Dark Iron Vanguard", -- [2]
+		[262513] = {
+			2108, -- [1]
+			"Venture Co. Skyscorcher", -- [2]
 		},
 		[306733] = {
 			2331, -- [1]
 			"Ra-den", -- [2]
 		},
-		[324148] = {
-			2356, -- [1]
-			"Ventunax", -- [2]
+		[310224] = {
+			2336, -- [1]
+			"Void Ascendant", -- [2]
 		},
-		[342961] = {
-			2400, -- [1]
-			"Dealer Xy'exa", -- [2]
+		[310324] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
 		[273470] = {
 			2109, -- [1]
@@ -14931,21 +14959,21 @@ _detalhes_global = {
 			2117, -- [1]
 			"Voidweaver Mal'thir", -- [2]
 		},
-		[316970] = {
-			2344, -- [1]
-			"Titanic Countermeasure", -- [2]
-		},
-		[326700] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
-		},
-		[322088] = {
-			2364, -- [1]
-			"Kul'tharok", -- [2]
+		[306735] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[313395] = {
 			2331, -- [1]
 			"Essence of Vita <Ra-den>", -- [2]
+		},
+		[315947] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
+		},
+		[315954] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[316971] = {
 			2344, -- [1]
@@ -14959,9 +14987,9 @@ _detalhes_global = {
 			2130, -- [1]
 			"[*] Choking Brine", -- [2]
 		},
-		[275014] = {
-			2100, -- [1]
-			"Viq'Goth", -- [2]
+		[308278] = {
+			2338, -- [1]
+			"Alleria Windrunner", -- [2]
 		},
 		[260900] = {
 			2113, -- [1]
@@ -14979,45 +15007,45 @@ _detalhes_global = {
 			2329, -- [1]
 			"[*] Creeping Madness", -- [2]
 		},
-		[310325] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
+		[332734] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[333861] = {
 			2365, -- [1]
 			"Harugia the Bloodthirsty", -- [2]
 		},
-		[196911] = {
-			2337, -- [1]
-			4, -- [2]
+		[318406] = {
+			2365, -- [1]
+			"Gorechop", -- [2]
 		},
-		[72264] = {
-			1103, -- [1]
-			"Blood-Queen Lana'thel", -- [2]
+		[257580] = {
+			2101, -- [1]
+			"The Sand Queen", -- [2]
 		},
 		[329256] = {
 			2405, -- [1]
 			"Rift Blast Portal", -- [2]
 		},
-		[319539] = {
-			2364, -- [1]
-			"Kul'tharok", -- [2]
+		[300605] = {
+			2299, -- [1]
+			"Cyranus", -- [2]
 		},
-		[332849] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[342961] = {
+			2400, -- [1]
+			"Dealer Xy'exa", -- [2]
 		},
-		[316463] = {
-			2344, -- [1]
-			"Mindgate", -- [2]
-		},
-		[342321] = {
-			2406, -- [1]
-			"Lady Inerva Darkvein", -- [2]
+		[310322] = {
+			2345, -- [1]
+			"[*] Morass of Corruption", -- [2]
 		},
 		[334893] = {
 			2418, -- [1]
 			"[*] Stone Shards", -- [2]
+		},
+		[308178] = {
+			2333, -- [1]
+			"Ka'zir", -- [2]
 		},
 		[346657] = {
 			2412, -- [1]
@@ -15027,9 +15055,9 @@ _detalhes_global = {
 			2382, -- [1]
 			"Globgrog", -- [2]
 		},
-		[286439] = {
-			2266, -- [1]
-			"Mestrah", -- [2]
+		[323011] = {
+			2359, -- [1]
+			"Devos", -- [2]
 		},
 		[329770] = {
 			2405, -- [1]
@@ -15039,9 +15067,9 @@ _detalhes_global = {
 			2356, -- [1]
 			"[*] Dark Bolt", -- [2]
 		},
-		[310324] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
+		[326700] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[323118] = {
 			2395, -- [1]
@@ -15051,13 +15079,13 @@ _detalhes_global = {
 			2385, -- [1]
 			"Domina Venomblade", -- [2]
 		},
-		[338471] = {
-			2360, -- [1]
-			"Kryxis the Voracious", -- [2]
+		[275014] = {
+			2100, -- [1]
+			"Viq'Goth", -- [2]
 		},
-		[308278] = {
-			2338, -- [1]
-			"Alleria Windrunner", -- [2]
+		[310325] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
 		[282179] = {
 			2263, -- [1]
@@ -15071,9 +15099,9 @@ _detalhes_global = {
 			2405, -- [1]
 			"Crystal of Phantasms", -- [2]
 		},
-		[317276] = {
-			2331, -- [1]
-			"Ra-den", -- [2]
+		[269838] = {
+			2123, -- [1]
+			"[*] Vile Expulsion", -- [2]
 		},
 		[296509] = {
 			2305, -- [1]
@@ -15087,9 +15115,9 @@ _detalhes_global = {
 			2366, -- [1]
 			"Xav the Unfallen", -- [2]
 		},
-		[324085] = {
-			2391, -- [1]
-			"Dessia the Decapitator", -- [2]
+		[118459] = {
+			2337, -- [1]
+			"Gumi", -- [2]
 		},
 		[282181] = {
 			2263, -- [1]
@@ -15103,17 +15131,17 @@ _detalhes_global = {
 			2327, -- [1]
 			"Maut", -- [2]
 		},
-		[307773] = {
-			2327, -- [1]
-			"Maut", -- [2]
+		[332849] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[316981] = {
 			2366, -- [1]
 			"Xav the Unfallen", -- [2]
 		},
-		[257580] = {
-			2101, -- [1]
-			"The Sand Queen", -- [2]
+		[308947] = {
+			2343, -- [1]
+			"Drest'agath", -- [2]
 		},
 		[324146] = {
 			2356, -- [1]
@@ -15123,17 +15151,17 @@ _detalhes_global = {
 			2343, -- [1]
 			"Drest'agath", -- [2]
 		},
-		[313041] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[326858] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[313400] = {
 			2344, -- [1]
 			"Corruptor Tentacle", -- [2]
 		},
-		[326858] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[294860] = {
+			2259, -- [1]
+			"Inconspicuous Plant", -- [2]
 		},
 		[324659] = {
 			2361, -- [1]
@@ -15147,25 +15175,25 @@ _detalhes_global = {
 			2104, -- [1]
 			"Overseer Korgus", -- [2]
 		},
-		[309819] = {
-			2338, -- [1]
-			"Alleria Windrunner", -- [2]
+		[324148] = {
+			2356, -- [1]
+			"Ventunax", -- [2]
 		},
 		[326707] = {
 			2407, -- [1]
 			"Sire Denathrius", -- [2]
 		},
-		[327646] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
+		[324662] = {
+			2357, -- [1]
+			"Kin-Tara", -- [2]
 		},
 		[268278] = {
 			2116, -- [1]
 			"Lady Waycrest", -- [2]
 		},
-		[118459] = {
-			2337, -- [1]
-			"Gumi", -- [2]
+		[307773] = {
+			2327, -- [1]
+			"Maut", -- [2]
 		},
 		[322614] = {
 			2393, -- [1]
@@ -15175,25 +15203,25 @@ _detalhes_global = {
 			2399, -- [1]
 			"[*] Destructive Impact", -- [2]
 		},
-		[307945] = {
-			2335, -- [1]
-			"[*] Umbral Eruption", -- [2]
+		[289864] = {
+			2276, -- [1]
+			"Blingtron MK2", -- [2]
 		},
-		[260907] = {
-			2113, -- [1]
-			"Sister Solena", -- [2]
+		[321226] = {
+			2388, -- [1]
+			"Amarth", -- [2]
 		},
 		[328756] = {
 			2397, -- [1]
 			"Ingra Maloch", -- [2]
 		},
-		[306751] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[260907] = {
+			2113, -- [1]
+			"Sister Solena", -- [2]
 		},
-		[339649] = {
-			2383, -- [1]
-			"Gorging Mite", -- [2]
+		[257582] = {
+			2106, -- [1]
+			"Earthrager", -- [2]
 		},
 		[324154] = {
 			2356, -- [1]
@@ -15207,13 +15235,13 @@ _detalhes_global = {
 			2373, -- [1]
 			"Vez'okk the Lightless", -- [2]
 		},
-		[298056] = {
-			2304, -- [1]
-			"Lady Ashvane", -- [2]
-		},
 		[324667] = {
 			2382, -- [1]
 			"Globgrog", -- [2]
+		},
+		[325691] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
 		},
 		[308288] = {
 			2338, -- [1]
@@ -15223,13 +15251,13 @@ _detalhes_global = {
 			2291, -- [1]
 			"Walkie Shockie X1", -- [2]
 		},
-		[329785] = {
+		[327227] = {
 			2407, -- [1]
-			"Crimson Cabalist", -- [2]
+			"Sire Denathrius", -- [2]
 		},
-		[320063] = {
-			2391, -- [1]
-			"Dessia the Decapitator", -- [2]
+		[296662] = {
+			2304, -- [1]
+			"Lady Ashvane", -- [2]
 		},
 		[298054] = {
 			2304, -- [1]
@@ -15239,41 +15267,41 @@ _detalhes_global = {
 			2365, -- [1]
 			"[*] Coagulating Ooze", -- [2]
 		},
-		[321226] = {
-			2388, -- [1]
-			"Amarth", -- [2]
+		[340533] = {
+			2405, -- [1]
+			"[*] Arcane Vulnerability", -- [2]
 		},
 		[328248] = {
 			2402, -- [1]
 			"Vile Occultist", -- [2]
 		},
-		[306247] = {
-			2329, -- [1]
-			"[*] Incineration", -- [2]
-		},
 		[310343] = {
 			2333, -- [1]
 			"Acidic Aqir <Ka'zir>", -- [2]
 		},
-		[325184] = {
-			2406, -- [1]
-			"Lady Inerva Darkvein", -- [2]
+		[323137] = {
+			2397, -- [1]
+			"Droman Oulfarran", -- [2]
 		},
-		[308941] = {
-			2343, -- [1]
-			"Drest'agath", -- [2]
+		[284377] = {
+			2272, -- [1]
+			"Unknown", -- [2]
 		},
-		[291915] = {
-			2260, -- [1]
-			"[*] Plasma Orb", -- [2]
+		[188053] = {
+			1785, -- [1]
+			"Fel Hellweaver", -- [2]
+		},
+		[298056] = {
+			2304, -- [1]
+			"Lady Ashvane", -- [2]
 		},
 		[304709] = {
 			2293, -- [1]
 			"Horrific Summoner", -- [2]
 		},
-		[311362] = {
-			2329, -- [1]
-			"[*] Rising Heat", -- [2]
+		[329785] = {
+			2407, -- [1]
+			"Crimson Cabalist", -- [2]
 		},
 		[227646] = {
 			1961, -- [1]
@@ -15291,37 +15319,33 @@ _detalhes_global = {
 			2327, -- [1]
 			"Maut", -- [2]
 		},
-		[340533] = {
-			2405, -- [1]
-			"[*] Arcane Vulnerability", -- [2]
+		[320063] = {
+			2391, -- [1]
+			"Dessia the Decapitator", -- [2]
 		},
 		[310340] = {
 			2333, -- [1]
 			"Ka'zir", -- [2]
 		},
-		[188053] = {
-			1785, -- [1]
-			"Fel Hellweaver", -- [2]
-		},
 		[289496] = {
 			2265, -- [1]
 			"Dark Iron Primalist", -- [2]
 		},
-		[291922] = {
-			2258, -- [1]
-			"K.U.-J.0.", -- [2]
-		},
-		[291918] = {
-			2258, -- [1]
-			"Flying Claw", -- [2]
-		},
-		[298571] = {
-			2312, -- [1]
-			"Mechacycle", -- [2]
+		[334909] = {
+			2412, -- [1]
+			"[*] Oppressive Atmosphere", -- [2]
 		},
 		[296534] = {
 			2304, -- [1]
 			"Lady Ashvane", -- [2]
+		},
+		[306247] = {
+			2329, -- [1]
+			"[*] Incineration", -- [2]
+		},
+		[298571] = {
+			2312, -- [1]
+			"Mechacycle", -- [2]
 		},
 		[332865] = {
 			2382, -- [1]
@@ -15330,6 +15354,10 @@ _detalhes_global = {
 		[320200] = {
 			2389, -- [1]
 			"Surgeon Stitchflesh", -- [2]
+		},
+		[271456] = {
+			2108, -- [1]
+			"Mogul Razdunk", -- [2]
 		},
 		[316995] = {
 			2366, -- [1]
@@ -15347,17 +15375,17 @@ _detalhes_global = {
 			2105, -- [1]
 			"Shalebiter", -- [2]
 		},
-		[300620] = {
-			2299, -- [1]
-			"Venna Seastorm", -- [2]
+		[325184] = {
+			2406, -- [1]
+			"Lady Inerva Darkvein", -- [2]
 		},
 		[311367] = {
 			2345, -- [1]
 			"Il'gynoth", -- [2]
 		},
-		[271456] = {
-			2108, -- [1]
-			"Mogul Razdunk", -- [2]
+		[292565] = {
+			2293, -- [1]
+			"Crushing Grasp", -- [2]
 		},
 		[296015] = {
 			2293, -- [1]
@@ -15367,17 +15395,17 @@ _detalhes_global = {
 			2397, -- [1]
 			"Ingra Maloch", -- [2]
 		},
-		[284377] = {
-			2272, -- [1]
-			"Unknown", -- [2]
-		},
 		[328897] = {
 			2398, -- [1]
 			"Shriekwing", -- [2]
 		},
-		[320580] = {
-			2388, -- [1]
-			"Amarth", -- [2]
+		[306257] = {
+			2331, -- [1]
+			"[*] Unstable Vita", -- [2]
+		},
+		[291922] = {
+			2258, -- [1]
+			"K.U.-J.0.", -- [2]
 		},
 		[327233] = {
 			2385, -- [1]
@@ -15391,10 +15419,6 @@ _detalhes_global = {
 			2391, -- [1]
 			"Dessia the Decapitator", -- [2]
 		},
-		[296022] = {
-			2293, -- [1]
-			"[*] Manic Dread", -- [2]
-		},
 		[282205] = {
 			2276, -- [1]
 			"High Tinker Mekkatorque", -- [2]
@@ -15407,6 +15431,10 @@ _detalhes_global = {
 			2097, -- [1]
 			"Sergeant Bainbridge", -- [2]
 		},
+		[339528] = {
+			2406, -- [1]
+			"Dragost", -- [2]
+		},
 		[296018] = {
 			2293, -- [1]
 			"Za'qul", -- [2]
@@ -15415,9 +15443,9 @@ _detalhes_global = {
 			2332, -- [1]
 			"Thrall", -- [2]
 		},
-		[339528] = {
-			2406, -- [1]
-			"Dragost", -- [2]
+		[309451] = {
+			2377, -- [1]
+			"Magister Umbric", -- [2]
 		},
 		[268896] = {
 			2132, -- [1]
@@ -15431,9 +15459,9 @@ _detalhes_global = {
 			2343, -- [1]
 			"[*] Umbral Aversion", -- [2]
 		},
-		[309451] = {
-			2377, -- [1]
-			"Magister Umbric", -- [2]
+		[314449] = {
+			2335, -- [1]
+			"Living Blood", -- [2]
 		},
 		[227651] = {
 			1961, -- [1]
@@ -15463,17 +15491,17 @@ _detalhes_global = {
 			2281, -- [1]
 			"Lady Jaina Proudmoore", -- [2]
 		},
-		[314449] = {
-			2335, -- [1]
-			"Living Blood", -- [2]
-		},
 		[298192] = {
 			2293, -- [1]
 			"[*] Dark Beyond", -- [2]
 		},
-		[291928] = {
-			2260, -- [1]
-			"Aerial Unit R-21/X", -- [2]
+		[276068] = {
+			2099, -- [1]
+			"Hadal Darkfathom", -- [2]
+		},
+		[296022] = {
+			2293, -- [1]
+			"[*] Manic Dread", -- [2]
 		},
 		[240446] = {
 			2112, -- [1]
@@ -15491,41 +15519,41 @@ _detalhes_global = {
 			2343, -- [1]
 			"Maw of Drest'agath", -- [2]
 		},
-		[282209] = {
-			2268, -- [1]
-			"Ravenous Stalker", -- [2]
+		[307403] = {
+			2336, -- [1]
+			"Void Ascendant", -- [2]
 		},
 		[299094] = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[307403] = {
-			2336, -- [1]
-			"Void Ascendant", -- [2]
+		[302681] = {
+			2312, -- [1]
+			"Trixie Tazer", -- [2]
 		},
 		[291930] = {
 			2258, -- [1]
 			"Cubed Clutter", -- [2]
 		},
-		[302681] = {
-			2312, -- [1]
-			"Trixie Tazer", -- [2]
+		[281711] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[299095] = {
 			2303, -- [1]
 			"Orgozoa", -- [2]
 		},
-		[298588] = {
-			2312, -- [1]
-			"Mechacycle", -- [2]
+		[269419] = {
+			2133, -- [1]
+			"[*] Yawning Gate", -- [2]
 		},
 		[296025] = {
 			2291, -- [1]
 			"HK-8 Aerial Oppression Unit", -- [2]
 		},
-		[269419] = {
-			2133, -- [1]
-			"[*] Yawning Gate", -- [2]
+		[282215] = {
+			2263, -- [1]
+			"Flying Ape Wranglers", -- [2]
 		},
 		[307284] = {
 			2336, -- [1]
@@ -15539,9 +15567,9 @@ _detalhes_global = {
 			2418, -- [1]
 			"[*] Petrifying Howl", -- [2]
 		},
-		[339525] = {
-			2406, -- [1]
-			"Kullan", -- [2]
+		[282209] = {
+			2268, -- [1]
+			"Ravenous Stalker", -- [2]
 		},
 		[319567] = {
 			2364, -- [1]
@@ -15567,17 +15595,17 @@ _detalhes_global = {
 			2396, -- [1]
 			"Mueh'zala", -- [2]
 		},
-		[328789] = {
-			2405, -- [1]
-			"Edge of Annihilation", -- [2]
+		[181089] = {
+			2299, -- [1]
+			"Unknown", -- [2]
 		},
 		[339527] = {
 			2406, -- [1]
 			"Kullan", -- [2]
 		},
-		[181089] = {
-			2299, -- [1]
-			"Unknown", -- [2]
+		[260669] = {
+			2107, -- [1]
+			"Rixxa Fluxflame", -- [2]
 		},
 		[257337] = {
 			2105, -- [1]
@@ -15591,21 +15619,21 @@ _detalhes_global = {
 			2312, -- [1]
 			"Trixie Tazer", -- [2]
 		},
-		[307805] = {
-			2327, -- [1]
-			"Maut", -- [2]
+		[258622] = {
+			2106, -- [1]
+			"Azerokk", -- [2]
 		},
-		[281711] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[314565] = {
+			2087, -- [1]
+			"Blood of the Corruptor", -- [2]
 		},
 		[263278] = {
 			2105, -- [1]
 			"[*] Cover", -- [2]
 		},
-		[314565] = {
-			2087, -- [1]
-			"Blood of the Corruptor", -- [2]
+		[191587] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[311383] = {
 			2328, -- [1]
@@ -15627,9 +15655,9 @@ _detalhes_global = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[328276] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[297574] = {
+			2372, -- [1]
+			"Oblivion Elemental", -- [2]
 		},
 		[310361] = {
 			2343, -- [1]
@@ -15671,29 +15699,29 @@ _detalhes_global = {
 			2305, -- [1]
 			"Radiance of Azshara", -- [2]
 		},
-		[298087] = {
-			2303, -- [1]
-			"Orgozoa", -- [2]
-		},
-		[346698] = {
-			2412, -- [1]
-			"Castellan Niklaus", -- [2]
-		},
 		[334522] = {
 			2383, -- [1]
 			"Hungering Destroyer", -- [2]
 		},
-		[338012] = {
-			2403, -- [1]
-			"Anima Fountain", -- [2]
+		[307805] = {
+			2327, -- [1]
+			"Maut", -- [2]
+		},
+		[322654] = {
+			2393, -- [1]
+			"Tred'ova", -- [2]
+		},
+		[291946] = {
+			2258, -- [1]
+			"K.U.-J.0.", -- [2]
 		},
 		[282736] = {
 			2268, -- [1]
 			"Gonk's Aspect", -- [2]
 		},
-		[309853] = {
-			2327, -- [1]
-			"Dark Manifestation <[*] Dark Manifestation>", -- [2]
+		[328276] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
 		[334929] = {
 			2417, -- [1]
@@ -15711,25 +15739,25 @@ _detalhes_global = {
 			2331, -- [1]
 			"Ra-den", -- [2]
 		},
-		[257597] = {
-			2106, -- [1]
-			"Azerokk", -- [2]
+		[322648] = {
+			2393, -- [1]
+			"[*] Mind Link", -- [2]
 		},
 		[267891] = {
 			2131, -- [1]
 			"Galecaller Faye", -- [2]
 		},
-		[322654] = {
-			2393, -- [1]
-			"Tred'ova", -- [2]
+		[264923] = {
+			2115, -- [1]
+			"Raal the Gluttonous", -- [2]
 		},
 		[307808] = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[264923] = {
-			2115, -- [1]
-			"Raal the Gluttonous", -- [2]
+		[338012] = {
+			2403, -- [1]
+			"Anima Fountain", -- [2]
 		},
 		[260924] = {
 			2097, -- [1]
@@ -15739,9 +15767,9 @@ _detalhes_global = {
 			2336, -- [1]
 			"Vexiona", -- [2]
 		},
-		[297574] = {
-			2372, -- [1]
-			"Oblivion Elemental", -- [2]
+		[344655] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
 		},
 		[328791] = {
 			2381, -- [1]
@@ -15751,37 +15779,37 @@ _detalhes_global = {
 			2281, -- [1]
 			"Lady Jaina Proudmoore", -- [2]
 		},
-		[323166] = {
-			2395, -- [1]
-			"Hakkar the Soulflayer", -- [2]
+		[267385] = {
+			2133, -- [1]
+			"Tentacle", -- [2]
 		},
 		[289387] = {
 			2281, -- [1]
 			"[*] Freezing Blood", -- [2]
 		},
-		[260669] = {
-			2107, -- [1]
-			"Rixxa Fluxflame", -- [2]
+		[298087] = {
+			2303, -- [1]
+			"Orgozoa", -- [2]
 		},
-		[325725] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
-		},
-		[323683] = {
-			2404, -- [1]
-			"Mordretha, the Endless Empress", -- [2]
+		[323166] = {
+			2395, -- [1]
+			"Hakkar the Soulflayer", -- [2]
 		},
 		[289906] = {
 			2271, -- [1]
 			"Yalat's Bulwark", -- [2]
 		},
+		[306794] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
+		},
 		[70492] = {
 			1102, -- [1]
 			"Volatile Ooze", -- [2]
 		},
-		[306794] = {
+		[313959] = {
 			2329, -- [1]
-			"Wrathion", -- [2]
+			"[*] Scorching Blister", -- [2]
 		},
 		[292971] = {
 			2293, -- [1]
@@ -15791,10 +15819,6 @@ _detalhes_global = {
 			1798, -- [1]
 			"Dia Darkwhisper", -- [2]
 		},
-		[313959] = {
-			2329, -- [1]
-			"[*] Scorching Blister", -- [2]
-		},
 		[328890] = {
 			2402, -- [1]
 			"High Torturer Darithos", -- [2]
@@ -15802,6 +15826,10 @@ _detalhes_global = {
 		[333406] = {
 			2385, -- [1]
 			"[*] Assassinate", -- [2]
+		},
+		[311401] = {
+			2345, -- [1]
+			"Il'gynoth", -- [2]
 		},
 		[261438] = {
 			2116, -- [1]
@@ -15831,9 +15859,9 @@ _detalhes_global = {
 			1778, -- [1]
 			"Felfire Demolisher", -- [2]
 		},
-		[189540] = {
-			1794, -- [1]
-			"Soulbound Construct", -- [2]
+		[330848] = {
+			2412, -- [1]
+			"[*] Wrong Moves", -- [2]
 		},
 		[261439] = {
 			2116, -- [1]
@@ -15847,13 +15875,13 @@ _detalhes_global = {
 			2131, -- [1]
 			"Brother Ironhull", -- [2]
 		},
-		[330848] = {
-			2412, -- [1]
-			"[*] Wrong Moves", -- [2]
-		},
 		[320614] = {
 			2387, -- [1]
 			"Carrion Worm", -- [2]
+		},
+		[346800] = {
+			2412, -- [1]
+			"Lord Stavros", -- [2]
 		},
 		[334939] = {
 			2418, -- [1]
@@ -15887,17 +15915,17 @@ _detalhes_global = {
 			2291, -- [1]
 			"HK-8 Aerial Oppression Unit", -- [2]
 		},
-		[346800] = {
-			2412, -- [1]
-			"Lord Stavros", -- [2]
+		[323687] = {
+			2400, -- [1]
+			"Dealer Xy'exa", -- [2]
 		},
 		[296560] = {
 			2291, -- [1]
 			"[*] Clinging Static", -- [2]
 		},
-		[191587] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[189540] = {
+			1794, -- [1]
+			"Soulbound Construct", -- [2]
 		},
 		[326242] = {
 			2382, -- [1]
@@ -15907,17 +15935,17 @@ _detalhes_global = {
 			2418, -- [1]
 			"Margore", -- [2]
 		},
-		[323687] = {
-			2400, -- [1]
-			"Dealer Xy'exa", -- [2]
+		[343135] = {
+			2417, -- [1]
+			"General Grashaal", -- [2]
 		},
 		[338013] = {
 			2403, -- [1]
 			"Anima Fountain", -- [2]
 		},
-		[343135] = {
-			2417, -- [1]
-			"General Grashaal", -- [2]
+		[323177] = {
+			2397, -- [1]
+			"Droman Oulfarran", -- [2]
 		},
 		[258627] = {
 			2106, -- [1]
@@ -15935,9 +15963,9 @@ _detalhes_global = {
 			2327, -- [1]
 			"Maut", -- [2]
 		},
-		[339553] = {
-			2406, -- [1]
-			"Deplina", -- [2]
+		[338022] = {
+			2387, -- [1]
+			"Patchwerk Soldier", -- [2]
 		},
 		[339550] = {
 			2404, -- [1]
@@ -15955,17 +15983,17 @@ _detalhes_global = {
 			2418, -- [1]
 			"Margore", -- [2]
 		},
-		[298103] = {
-			2303, -- [1]
-			"Orgozoa", -- [2]
+		[310385] = {
+			2333, -- [1]
+			"[*] Acid Spray", -- [2]
 		},
 		[329828] = {
 			2405, -- [1]
 			"Root of Extinction", -- [2]
 		},
-		[338022] = {
-			2387, -- [1]
-			"Patchwerk Soldier", -- [2]
+		[335540] = {
+			2402, -- [1]
+			"Pestering Fiend", -- [2]
 		},
 		[255558] = {
 			2084, -- [1]
@@ -15979,25 +16007,25 @@ _detalhes_global = {
 			2087, -- [1]
 			"Soulrend Add", -- [2]
 		},
-		[335540] = {
-			2402, -- [1]
-			"Pestering Fiend", -- [2]
+		[328887] = {
+			2398, -- [1]
+			"Shriekwing", -- [2]
 		},
 		[306289] = {
 			2329, -- [1]
 			"Wrathion", -- [2]
 		},
-		[296566] = {
-			2305, -- [1]
-			"Radiance of Azshara", -- [2]
-		},
-		[328887] = {
-			2398, -- [1]
-			"Shriekwing", -- [2]
+		[339553] = {
+			2406, -- [1]
+			"Deplina", -- [2]
 		},
 		[289482] = {
 			2280, -- [1]
 			"De Lurker Be'loa", -- [2]
+		},
+		[307317] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
 		[306290] = {
 			2327, -- [1]
@@ -16007,77 +16035,77 @@ _detalhes_global = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[320114] = {
-			2366, -- [1]
-			"Xav the Unfallen", -- [2]
-		},
 		[333492] = {
 			2388, -- [1]
 			"Amarth", -- [2]
 		},
-		[336996] = {
-			2364, -- [1]
-			"Nekthara the Mangler", -- [2]
+		[8936] = {
+			2344, -- [1]
+			11, -- [2]
+		},
+		[298103] = {
+			2303, -- [1]
+			"Orgozoa", -- [2]
 		},
 		[339555] = {
 			2406, -- [1]
 			"Deplina", -- [2]
 		},
-		[329834] = {
-			2405, -- [1]
-			"Root of Extinction", -- [2]
-		},
-		[314994] = {
-			2327, -- [1]
-			"Maut", -- [2]
+		[301177] = {
+			2291, -- [1]
+			"HK-8 Aerial Oppression Unit", -- [2]
 		},
 		[317627] = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[301177] = {
-			2291, -- [1]
-			"HK-8 Aerial Oppression Unit", -- [2]
+		[320114] = {
+			2366, -- [1]
+			"Xav the Unfallen", -- [2]
 		},
 		[328885] = {
 			2402, -- [1]
 			"High Torturer Darithos", -- [2]
 		},
-		[307828] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
-		},
 		[314995] = {
 			2327, -- [1]
 			"Maut", -- [2]
 		},
-		[227672] = {
-			1961, -- [1]
-			"Lord Crispin Ference", -- [2]
-		},
-		[307317] = {
+		[307828] = {
 			2336, -- [1]
 			"Vexiona", -- [2]
 		},
-		[324205] = {
-			2356, -- [1]
-			"Ventunax", -- [2]
+		[262287] = {
+			2108, -- [1]
+			"Venture Co. Skyscorcher", -- [2]
+		},
+		[284362] = {
+			2280, -- [1]
+			"Brother Joseph", -- [2]
+		},
+		[329834] = {
+			2405, -- [1]
+			"Root of Extinction", -- [2]
+		},
+		[261446] = {
+			2116, -- [1]
+			"Lady Waycrest", -- [2]
 		},
 		[257608] = {
 			2101, -- [1]
 			"The Sand Queen", -- [2]
 		},
-		[190313] = {
-			1799, -- [1]
-			"Archimonde", -- [2]
+		[314994] = {
+			2327, -- [1]
+			"Maut", -- [2]
 		},
 		[329835] = {
 			2383, -- [1]
 			"Hungering Destroyer", -- [2]
 		},
-		[284362] = {
-			2280, -- [1]
-			"Brother Joseph", -- [2]
+		[227672] = {
+			1961, -- [1]
+			"Lord Crispin Ference", -- [2]
 		},
 		[306295] = {
 			2327, -- [1]
@@ -16099,9 +16127,9 @@ _detalhes_global = {
 			2331, -- [1]
 			"Ra-den", -- [2]
 		},
-		[262287] = {
-			2108, -- [1]
-			"Venture Co. Skyscorcher", -- [2]
+		[303227] = {
+			2311, -- [1]
+			"Queen Azshara", -- [2]
 		},
 		[313461] = {
 			2333, -- [1]
@@ -16111,9 +16139,9 @@ _detalhes_global = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[303227] = {
-			2311, -- [1]
-			"Queen Azshara", -- [2]
+		[285828] = {
+			2281, -- [1]
+			"Kul Tiran Cannon", -- [2]
 		},
 		[282245] = {
 			2276, -- [1]
@@ -16123,37 +16151,37 @@ _detalhes_global = {
 			2380, -- [1]
 			"Echelon", -- [2]
 		},
-		[285828] = {
-			2281, -- [1]
-			"Kul Tiran Cannon", -- [2]
+		[320631] = {
+			2387, -- [1]
+			"Carrion Worm", -- [2]
 		},
 		[304251] = {
 			2370, -- [1]
 			"Huffer", -- [2]
 		},
-		[291973] = {
-			2258, -- [1]
-			"K.U.-J.0.", -- [2]
+		[310396] = {
+			2343, -- [1]
+			"Drest'agath", -- [2]
 		},
-		[269456] = {
-			2100, -- [1]
-			"Viq'Goth", -- [2]
+		[317112] = {
+			2344, -- [1]
+			"N'Zoth the Corruptor", -- [2]
 		},
 		[295552] = {
 			2291, -- [1]
 			"HK-8 Aerial Oppression Unit", -- [2]
 		},
-		[339629] = {
-			2383, -- [1]
-			"Gorging Mite", -- [2]
+		[291973] = {
+			2258, -- [1]
+			"K.U.-J.0.", -- [2]
 		},
 		[282247] = {
 			2263, -- [1]
 			"Grong", -- [2]
 		},
-		[334960] = {
-			2418, -- [1]
-			"Margore", -- [2]
+		[333488] = {
+			2388, -- [1]
+			"Amarth", -- [2]
 		},
 		[287365] = {
 			2281, -- [1]
@@ -16163,65 +16191,13 @@ _detalhes_global = {
 			2276, -- [1]
 			"Explosive Sheep", -- [2]
 		},
-		[317112] = {
-			2344, -- [1]
-			"N'Zoth the Corruptor", -- [2]
+		[269456] = {
+			2100, -- [1]
+			"Viq'Goth", -- [2]
 		},
-		[181873] = {
-			1788, -- [1]
-			"Shadow-Lord Iskar", -- [2]
-		},
-		[334961] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
-		},
-		[328880] = {
-			2405, -- [1]
-			"Artificer Xy'mox", -- [2]
-		},
-		[330871] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
-		},
-		[259147] = {
-			2087, -- [1]
-			"[*] Soulfeast", -- [2]
-		},
-		[285894] = {
-			2268, -- [1]
-			"Gonk's Aspect", -- [2]
-		},
-		[310396] = {
-			2343, -- [1]
-			"Drest'agath", -- [2]
-		},
-		[318587] = {
-			2257, -- [1]
-			"Gnomercy 4.U.", -- [2]
-		},
-		[309373] = {
-			2377, -- [1]
-			"Magister Umbric", -- [2]
-		},
-		[320120] = {
-			2391, -- [1]
-			"Paceran the Virulent", -- [2]
-		},
-		[304256] = {
-			2370, -- [1]
-			"Huffer", -- [2]
-		},
-		[336499] = {
-			2392, -- [1]
-			"Mistcaller", -- [2]
-		},
-		[298121] = {
-			2299, -- [1]
-			"Aethanel", -- [2]
-		},
-		[305792] = {
-			2328, -- [1]
-			"Queen Azshara", -- [2]
+		[291974] = {
+			2260, -- [1]
+			"King Mechagon", -- [2]
 		},
 		[326833] = {
 			2407, -- [1]
@@ -16231,9 +16207,61 @@ _detalhes_global = {
 			1798, -- [1]
 			"Blademaster Jubei'thos", -- [2]
 		},
-		[323195] = {
-			2358, -- [1]
-			"Oryphrion", -- [2]
+		[285894] = {
+			2268, -- [1]
+			"Gonk's Aspect", -- [2]
+		},
+		[259147] = {
+			2087, -- [1]
+			"[*] Soulfeast", -- [2]
+		},
+		[318587] = {
+			2257, -- [1]
+			"Gnomercy 4.U.", -- [2]
+		},
+		[181873] = {
+			1788, -- [1]
+			"Shadow-Lord Iskar", -- [2]
+		},
+		[336499] = {
+			2392, -- [1]
+			"Mistcaller", -- [2]
+		},
+		[309373] = {
+			2377, -- [1]
+			"Magister Umbric", -- [2]
+		},
+		[320120] = {
+			2391, -- [1]
+			"Paceran the Virulent", -- [2]
+		},
+		[334961] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
+		},
+		[335473] = {
+			2399, -- [1]
+			"Sludgefist", -- [2]
+		},
+		[298121] = {
+			2299, -- [1]
+			"Aethanel", -- [2]
+		},
+		[305792] = {
+			2328, -- [1]
+			"Queen Azshara", -- [2]
+		},
+		[285893] = {
+			2268, -- [1]
+			"Gonk's Aspect", -- [2]
+		},
+		[260685] = {
+			2111, -- [1]
+			"Elder Leaxa", -- [2]
+		},
+		[306819] = {
+			2331, -- [1]
+			"Ra-den", -- [2]
 		},
 		[326263] = {
 			2393, -- [1]
@@ -16271,13 +16299,13 @@ _detalhes_global = {
 			2335, -- [1]
 			"Shad'har the Insatiable", -- [2]
 		},
-		[260685] = {
-			2111, -- [1]
-			"Elder Leaxa", -- [2]
+		[330871] = {
+			2407, -- [1]
+			"Sire Denathrius", -- [2]
 		},
-		[59638] = {
-			2412, -- [1]
-			"Unknown", -- [2]
+		[323195] = {
+			2358, -- [1]
+			"Oryphrion", -- [2]
 		},
 		[195182] = {
 			2344, -- [1]
@@ -16291,9 +16319,9 @@ _detalhes_global = {
 			2299, -- [1]
 			"Aethanel", -- [2]
 		},
-		[310406] = {
-			2343, -- [1]
-			"[*] Void Glare", -- [2]
+		[298124] = {
+			2292, -- [1]
+			"Gunker", -- [2]
 		},
 		[310455] = {
 			2327, -- [1]
@@ -16315,9 +16343,9 @@ _detalhes_global = {
 			2417, -- [1]
 			"General Kaal", -- [2]
 		},
-		[334970] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
+		[310406] = {
+			2343, -- [1]
+			"[*] Void Glare", -- [2]
 		},
 		[298122] = {
 			2298, -- [1]
@@ -16347,9 +16375,9 @@ _detalhes_global = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[296078] = {
-			2293, -- [1]
-			"Za'qul", -- [2]
+		[334971] = {
+			2418, -- [1]
+			"Margore", -- [2]
 		},
 		[257617] = {
 			2101, -- [1]
@@ -16367,9 +16395,9 @@ _detalhes_global = {
 			2405, -- [1]
 			"Artificer Xy'mox", -- [2]
 		},
-		[343159] = {
-			2398, -- [1]
-			"Sindrel", -- [2]
+		[296078] = {
+			2293, -- [1]
+			"Za'qul", -- [2]
 		},
 		[308872] = {
 			2327, -- [1]
@@ -16399,9 +16427,9 @@ _detalhes_global = {
 			2333, -- [1]
 			"Aqir Drone", -- [2]
 		},
-		[339067] = {
-			2399, -- [1]
-			"Sludgefist", -- [2]
+		[320644] = {
+			2366, -- [1]
+			"Xav the Unfallen", -- [2]
 		},
 		[332969] = {
 			2399, -- [1]
@@ -16499,9 +16527,9 @@ _detalhes_global = {
 			1777, -- [1]
 			"Fel Lord Zakuun", -- [2]
 		},
-		[323209] = {
-			2381, -- [1]
-			"Sinstone Statue", -- [2]
+		[288410] = {
+			2276, -- [1]
+			"High Tinker Mekkatorque", -- [2]
 		},
 		[255577] = {
 			2084, -- [1]
@@ -16579,13 +16607,13 @@ _detalhes_global = {
 			2407, -- [1]
 			"Sinister Reflection", -- [2]
 		},
-		[325261] = {
-			2362, -- [1]
-			"Grand Proctor Beryllia", -- [2]
+		[288415] = {
+			2272, -- [1]
+			"Bwonsamdi", -- [2]
 		},
-		[325262] = {
-			2362, -- [1]
-			"Grand Proctor Beryllia", -- [2]
+		[286369] = {
+			2266, -- [1]
+			"Living Bomb", -- [2]
 		},
 		[320144] = {
 			2394, -- [1]
@@ -16595,9 +16623,9 @@ _detalhes_global = {
 			2371, -- [1]
 			"Inquisitor Gnshal", -- [2]
 		},
-		[298651] = {
-			2312, -- [1]
-			"Mechacycle", -- [2]
+		[325262] = {
+			2362, -- [1]
+			"Grand Proctor Beryllia", -- [2]
 		},
 		[260696] = {
 			2113, -- [1]
@@ -16683,9 +16711,9 @@ _detalhes_global = {
 			2400, -- [1]
 			"Dealer Xy'exa", -- [2]
 		},
-		[307358] = {
-			2335, -- [1]
-			"Shad'har the Insatiable", -- [2]
+		[71786] = {
+			1098, -- [1]
+			"Captain Rupert", -- [2]
 		},
 		[322709] = {
 			2393, -- [1]
@@ -16711,9 +16739,9 @@ _detalhes_global = {
 			2298, -- [1]
 			"Abyssal Commander Sivara", -- [2]
 		},
-		[329875] = {
-			2407, -- [1]
-			"Remornia", -- [2]
+		[307358] = {
+			2335, -- [1]
+			"Shad'har the Insatiable", -- [2]
 		},
 		[326309] = {
 			2393, -- [1]
@@ -16979,9 +17007,9 @@ _detalhes_global = {
 			2337, -- [1]
 			"Wrathion", -- [2]
 		},
-		[71786] = {
-			1098, -- [1]
-			"Captain Rupert", -- [2]
+		[329875] = {
+			2407, -- [1]
+			"Remornia", -- [2]
 		},
 		[263345] = {
 			2104, -- [1]
@@ -17015,9 +17043,9 @@ _detalhes_global = {
 			2331, -- [1]
 			"Ra-den", -- [2]
 		},
-		[286369] = {
-			2266, -- [1]
-			"Living Bomb", -- [2]
+		[298651] = {
+			2312, -- [1]
+			"Mechacycle", -- [2]
 		},
 		[334500] = {
 			2417, -- [1]
@@ -17031,9 +17059,9 @@ _detalhes_global = {
 			2331, -- [1]
 			"Ra-den", -- [2]
 		},
-		[288415] = {
-			2272, -- [1]
-			"Bwonsamdi", -- [2]
+		[286368] = {
+			2266, -- [1]
+			"Unknown", -- [2]
 		},
 		[299702] = {
 			2293, -- [1]
@@ -17055,21 +17083,21 @@ _detalhes_global = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[286368] = {
-			2266, -- [1]
-			"Unknown", -- [2]
+		[325261] = {
+			2362, -- [1]
+			"Grand Proctor Beryllia", -- [2]
 		},
-		[288410] = {
-			2276, -- [1]
-			"High Tinker Mekkatorque", -- [2]
+		[284316] = {
+			2280, -- [1]
+			"Brother Joseph", -- [2]
 		},
 		[344226] = {
 			2417, -- [1]
 			"General Kaal", -- [2]
 		},
-		[284316] = {
-			2280, -- [1]
-			"Brother Joseph", -- [2]
+		[323209] = {
+			2381, -- [1]
+			"Sinstone Statue", -- [2]
 		},
 		[320008] = {
 			2394, -- [1]
@@ -17091,13 +17119,13 @@ _detalhes_global = {
 			2418, -- [1]
 			"Huntsman Altimor", -- [2]
 		},
-		[320644] = {
-			2366, -- [1]
-			"Xav the Unfallen", -- [2]
-		},
 		[296080] = {
 			2291, -- [1]
 			"HK-8 Aerial Oppression Unit", -- [2]
+		},
+		[339067] = {
+			2399, -- [1]
+			"Sludgefist", -- [2]
 		},
 		[260455] = {
 			2118, -- [1]
@@ -17107,13 +17135,13 @@ _detalhes_global = {
 			2268, -- [1]
 			"Gonk's Aspect", -- [2]
 		},
-		[334971] = {
-			2418, -- [1]
-			"Margore", -- [2]
+		[343159] = {
+			2398, -- [1]
+			"Sindrel", -- [2]
 		},
-		[298124] = {
-			2292, -- [1]
-			"Gunker", -- [2]
+		[334970] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
 		},
 		[346788] = {
 			2412, -- [1]
@@ -17159,17 +17187,17 @@ _detalhes_global = {
 			2397, -- [1]
 			"Droman Oulfarran", -- [2]
 		},
-		[306819] = {
-			2331, -- [1]
-			"Ra-den", -- [2]
+		[59638] = {
+			2412, -- [1]
+			"Unknown", -- [2]
 		},
 		[320180] = {
 			2391, -- [1]
 			"Paceran the Virulent", -- [2]
 		},
-		[285893] = {
-			2268, -- [1]
-			"Gonk's Aspect", -- [2]
+		[328880] = {
+			2405, -- [1]
+			"Artificer Xy'mox", -- [2]
 		},
 		[320637] = {
 			2387, -- [1]
@@ -17195,17 +17223,17 @@ _detalhes_global = {
 			2108, -- [1]
 			"Mogul Razdunk", -- [2]
 		},
-		[291974] = {
-			2260, -- [1]
-			"King Mechagon", -- [2]
+		[304256] = {
+			2370, -- [1]
+			"Huffer", -- [2]
 		},
-		[320631] = {
-			2387, -- [1]
-			"Carrion Worm", -- [2]
+		[334960] = {
+			2418, -- [1]
+			"Margore", -- [2]
 		},
-		[333488] = {
-			2388, -- [1]
-			"Amarth", -- [2]
+		[339629] = {
+			2383, -- [1]
+			"Gorging Mite", -- [2]
 		},
 		[329906] = {
 			2407, -- [1]
@@ -17231,17 +17259,17 @@ _detalhes_global = {
 			2280, -- [1]
 			"De Lurker Be'loa", -- [2]
 		},
-		[333932] = {
-			2407, -- [1]
-			"Hand of Destruction", -- [2]
+		[289409] = {
+			2276, -- [1]
+			"Blingtron MK2", -- [2]
 		},
 		[298691] = {
 			2375, -- [1]
 			"Slavemaster Ul'rok", -- [2]
 		},
-		[289409] = {
-			2276, -- [1]
-			"Blingtron MK2", -- [2]
+		[333932] = {
+			2407, -- [1]
+			"Hand of Destruction", -- [2]
 		},
 		[322232] = {
 			2386, -- [1]
@@ -17259,9 +17287,9 @@ _detalhes_global = {
 			2331, -- [1]
 			"Crackling Stalker <Ra-den>", -- [2]
 		},
-		[261446] = {
-			2116, -- [1]
-			"Lady Waycrest", -- [2]
+		[190313] = {
+			1799, -- [1]
+			"Archimonde", -- [2]
 		},
 		[114014] = {
 			2344, -- [1]
@@ -17271,9 +17299,9 @@ _detalhes_global = {
 			2331, -- [1]
 			"Void Hunter <Ra-den>", -- [2]
 		},
-		[8936] = {
-			2344, -- [1]
-			11, -- [2]
+		[324205] = {
+			2356, -- [1]
+			"Ventunax", -- [2]
 		},
 		[285388] = {
 			2257, -- [1]
@@ -17291,13 +17319,13 @@ _detalhes_global = {
 			2281, -- [1]
 			"Cannons", -- [2]
 		},
-		[310385] = {
-			2333, -- [1]
-			"[*] Acid Spray", -- [2]
+		[336996] = {
+			2364, -- [1]
+			"Nekthara the Mangler", -- [2]
 		},
-		[323177] = {
-			2397, -- [1]
-			"Droman Oulfarran", -- [2]
+		[296566] = {
+			2305, -- [1]
+			"Radiance of Azshara", -- [2]
 		},
 		[258628] = {
 			2106, -- [1]
@@ -17323,69 +17351,69 @@ _detalhes_global = {
 			2336, -- [1]
 			"Sinister Soulcarver", -- [2]
 		},
-		[322236] = {
-			2386, -- [1]
-			"Malignant Spawn", -- [2]
+		[307306] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[302279] = {
 			2291, -- [1]
 			"Tank Buster MK1", -- [2]
 		},
-		[307306] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[322236] = {
+			2386, -- [1]
+			"Malignant Spawn", -- [2]
 		},
 		[281721] = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[311401] = {
-			2345, -- [1]
-			"Il'gynoth", -- [2]
-		},
 		[322655] = {
 			2393, -- [1]
 			"Tred'ova", -- [2]
+		},
+		[325725] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
 		},
 		[284369] = {
 			2280, -- [1]
 			"[*] Sea Storm", -- [2]
 		},
-		[267385] = {
-			2133, -- [1]
-			"Tentacle", -- [2]
+		[346706] = {
+			2412, -- [1]
+			"Castellan Niklaus", -- [2]
 		},
 		[322239] = {
 			2386, -- [1]
 			"Malignant Spawn", -- [2]
 		},
-		[346706] = {
-			2412, -- [1]
-			"Castellan Niklaus", -- [2]
+		[323683] = {
+			2404, -- [1]
+			"Mordretha, the Endless Empress", -- [2]
 		},
 		[339639] = {
 			2418, -- [1]
 			"Ripped Soul", -- [2]
 		},
-		[291946] = {
-			2258, -- [1]
-			"K.U.-J.0.", -- [2]
+		[307809] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[289488] = {
 			2281, -- [1]
 			"Lady Jaina Proudmoore", -- [2]
 		},
-		[307809] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
-		},
 		[289487] = {
 			2280, -- [1]
 			"De Lurker Be'loa", -- [2]
 		},
-		[322648] = {
-			2393, -- [1]
-			"[*] Mind Link", -- [2]
+		[328789] = {
+			2405, -- [1]
+			"Edge of Annihilation", -- [2]
+		},
+		[309853] = {
+			2327, -- [1]
+			"Dark Manifestation <[*] Dark Manifestation>", -- [2]
 		},
 		[334523] = {
 			2383, -- [1]
@@ -17399,9 +17427,9 @@ _detalhes_global = {
 			2338, -- [1]
 			"Alleria Windrunner", -- [2]
 		},
-		[344655] = {
-			2417, -- [1]
-			"General Grashaal", -- [2]
+		[346698] = {
+			2412, -- [1]
+			"Castellan Niklaus", -- [2]
 		},
 		[303819] = {
 			2293, -- [1]
@@ -17411,9 +17439,9 @@ _detalhes_global = {
 			2105, -- [1]
 			"Venture Co. Earthshaper", -- [2]
 		},
-		[282215] = {
-			2263, -- [1]
-			"Flying Ape Wranglers", -- [2]
+		[257597] = {
+			2106, -- [1]
+			"Azerokk", -- [2]
 		},
 		[320596] = {
 			2387, -- [1]
@@ -17427,17 +17455,17 @@ _detalhes_global = {
 			2345, -- [1]
 			"Earthbind Totem <Jojo>", -- [2]
 		},
-		[258622] = {
-			2106, -- [1]
-			"Azerokk", -- [2]
+		[298588] = {
+			2312, -- [1]
+			"Mechacycle", -- [2]
 		},
 		[319685] = {
 			2360, -- [1]
 			"Kryxis the Voracious", -- [2]
 		},
-		[276068] = {
-			2099, -- [1]
-			"Hadal Darkfathom", -- [2]
+		[339525] = {
+			2406, -- [1]
+			"Kullan", -- [2]
 		},
 		[181912] = {
 			1788, -- [1]
@@ -17467,17 +17495,17 @@ _detalhes_global = {
 			2087, -- [1]
 			"Yazma", -- [2]
 		},
-		[306257] = {
-			2331, -- [1]
-			"[*] Unstable Vita", -- [2]
+		[291928] = {
+			2260, -- [1]
+			"Aerial Unit R-21/X", -- [2]
 		},
 		[181913] = {
 			1788, -- [1]
 			"Shadow-Lord Iskar", -- [2]
 		},
-		[292565] = {
-			2293, -- [1]
-			"Crushing Grasp", -- [2]
+		[308941] = {
+			2343, -- [1]
+			"Drest'agath", -- [2]
 		},
 		[334017] = {
 			2406, -- [1]
@@ -17503,41 +17531,41 @@ _detalhes_global = {
 			2299, -- [1]
 			"[*] Crushing Depths", -- [2]
 		},
-		[334909] = {
-			2412, -- [1]
-			"[*] Oppressive Atmosphere", -- [2]
+		[320580] = {
+			2388, -- [1]
+			"Amarth", -- [2]
 		},
 		[182170] = {
 			1783, -- [1]
 			"Gorefiend", -- [2]
 		},
-		[323137] = {
-			2397, -- [1]
-			"Droman Oulfarran", -- [2]
+		[300620] = {
+			2299, -- [1]
+			"Venna Seastorm", -- [2]
 		},
-		[287751] = {
-			2276, -- [1]
-			"High Tinker Mekkatorque", -- [2]
+		[291918] = {
+			2258, -- [1]
+			"Flying Claw", -- [2]
 		},
 		[296150] = {
 			2291, -- [1]
 			"[*] Vent Blast", -- [2]
 		},
-		[296662] = {
-			2304, -- [1]
-			"Lady Ashvane", -- [2]
-		},
-		[327227] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[339649] = {
+			2383, -- [1]
+			"Gorging Mite", -- [2]
 		},
 		[269399] = {
 			2133, -- [1]
 			"Vol'zith the Whisperer", -- [2]
 		},
-		[325691] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
+		[311362] = {
+			2329, -- [1]
+			"[*] Rising Heat", -- [2]
+		},
+		[291915] = {
+			2260, -- [1]
+			"[*] Plasma Orb", -- [2]
 		},
 		[313039] = {
 			2337, -- [1]
@@ -17551,17 +17579,17 @@ _detalhes_global = {
 			2109, -- [1]
 			"Dread Captain Lockwood", -- [2]
 		},
-		[257582] = {
-			2106, -- [1]
-			"Earthrager", -- [2]
+		[306524] = {
+			2372, -- [1]
+			"[*] Burning Soles", -- [2]
 		},
 		[313040] = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[269301] = {
-			2123, -- [1]
-			"Unbound Abomination", -- [2]
+		[328124] = {
+			2380, -- [1]
+			"Undying Stonefiend", -- [2]
 		},
 		[312017] = {
 			2376, -- [1]
@@ -17575,13 +17603,13 @@ _detalhes_global = {
 			2280, -- [1]
 			"Brother Joseph", -- [2]
 		},
-		[318406] = {
-			2365, -- [1]
-			"Gorechop", -- [2]
+		[227872] = {
+			1961, -- [1]
+			"Moroes", -- [2]
 		},
-		[323010] = {
-			2359, -- [1]
-			"Devos", -- [2]
+		[298458] = {
+			2303, -- [1]
+			"Amniotic Eruption <Zoatroid>", -- [2]
 		},
 		[271590] = {
 			2116, -- [1]
@@ -17595,21 +17623,21 @@ _detalhes_global = {
 			2087, -- [1]
 			"Yazma", -- [2]
 		},
-		[310224] = {
-			2336, -- [1]
-			"Void Ascendant", -- [2]
+		[306751] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
 		[253562] = {
 			2265, -- [1]
 			"Blazing Fireguard", -- [2]
 		},
-		[334266] = {
-			2383, -- [1]
-			"Hungering Destroyer", -- [2]
+		[269301] = {
+			2123, -- [1]
+			"Unbound Abomination", -- [2]
 		},
-		[308947] = {
-			2343, -- [1]
-			"Drest'agath", -- [2]
+		[266181] = {
+			2117, -- [1]
+			"Gorak Tul", -- [2]
 		},
 		[320208] = {
 			2389, -- [1]
@@ -17619,37 +17647,37 @@ _detalhes_global = {
 			2402, -- [1]
 			"Vile Occultist", -- [2]
 		},
-		[227872] = {
-			1961, -- [1]
-			"Moroes", -- [2]
+		[309819] = {
+			2338, -- [1]
+			"Alleria Windrunner", -- [2]
 		},
-		[70460] = {
-			1098, -- [1]
-			"Frost Freeze Trap", -- [2]
+		[156138] = {
+			1777, -- [1]
+			"Fel Lord Zakuun", -- [2]
 		},
-		[327619] = {
-			2412, -- [1]
-			"Waltzing Venthyr", -- [2]
+		[300768] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
 		},
-		[323126] = {
-			2381, -- [1]
-			"Sinstone Statue", -- [2]
+		[315932] = {
+			2336, -- [1]
+			"Iron-Willed Enforcer", -- [2]
 		},
-		[339690] = {
-			2417, -- [1]
-			"General Grashaal", -- [2]
+		[259975] = {
+			2101, -- [1]
+			"The Sand Queen", -- [2]
 		},
 		[323792] = {
 			2358, -- [1]
 			"Coalesced Anima", -- [2]
 		},
-		[344500] = {
+		[344503] = {
 			2417, -- [1]
-			"General Grashaal", -- [2]
+			"Reverberating Eruption Stalker", -- [2]
 		},
-		[156138] = {
-			1777, -- [1]
-			"Fel Lord Zakuun", -- [2]
+		[302049] = {
+			2303, -- [1]
+			"Amniotic Eruption <Zoatroid>", -- [2]
 		},
 		[284388] = {
 			2266, -- [1]
@@ -17659,9 +17687,9 @@ _detalhes_global = {
 			2405, -- [1]
 			"Artificer Xy'mox", -- [2]
 		},
-		[335295] = {
-			2399, -- [1]
-			"[*] Shattering Chain", -- [2]
+		[313303] = {
+			2376, -- [1]
+			"[*] Burned Bridge", -- [2]
 		},
 		[320723] = {
 			2400, -- [1]
@@ -17671,33 +17699,33 @@ _detalhes_global = {
 			2343, -- [1]
 			"Eye of Drest'agath", -- [2]
 		},
-		[327503] = {
-			2412, -- [1]
-			"Lord Stavros", -- [2]
+		[330026] = {
+			2384, -- [1]
+			"Doctor Ickus", -- [2]
 		},
-		[344503] = {
-			2417, -- [1]
-			"Reverberating Eruption Stalker", -- [2]
+		[285428] = {
+			2266, -- [1]
+			"Manceroy Flamefist", -- [2]
 		},
 		[184990] = {
 			1784, -- [1]
 			"[*] Aura of Oppression", -- [2]
 		},
-		[302049] = {
+		[307167] = {
 			2303, -- [1]
-			"Amniotic Eruption <Zoatroid>", -- [2]
+			"Orgozoa", -- [2]
 		},
-		[313303] = {
-			2376, -- [1]
-			"[*] Burned Bridge", -- [2]
+		[306732] = {
+			2331, -- [1]
+			"Ra-den", -- [2]
 		},
 		[309978] = {
 			2344, -- [1]
 			"[*] Paranoia", -- [2]
 		},
-		[259975] = {
-			2101, -- [1]
-			"The Sand Queen", -- [2]
+		[284177] = {
+			2276, -- [1]
+			"High Tinker Mekkatorque", -- [2]
 		},
 		[296673] = {
 			2305, -- [1]
@@ -17711,9 +17739,9 @@ _detalhes_global = {
 			2265, -- [1]
 			"Dark Iron Vanguard", -- [2]
 		},
-		[302588] = {
-			2298, -- [1]
-			"[*] Frost Mark", -- [2]
+		[306208] = {
+			2328, -- [1]
+			"Dark Inquisitor Xanesh", -- [2]
 		},
 		[315097] = {
 			2345, -- [1]
@@ -17727,9 +17755,9 @@ _detalhes_global = {
 			2111, -- [1]
 			"[*] Creeping Rot", -- [2]
 		},
-		[321011] = {
-			2394, -- [1]
-			"Millificent Manastorm", -- [2]
+		[273285] = {
+			2112, -- [1]
+			"Volatile Pod", -- [2]
 		},
 		[341709] = {
 			2392, -- [1]
@@ -17743,21 +17771,21 @@ _detalhes_global = {
 			2417, -- [1]
 			"Stone Legion Goliath", -- [2]
 		},
-		[250050] = {
-			2087, -- [1]
-			"Yazma", -- [2]
+		[320729] = {
+			2366, -- [1]
+			"Xav the Unfallen", -- [2]
 		},
-		[250259] = {
-			2085, -- [1]
-			"Vol'kaal", -- [2]
+		[315197] = {
+			2290, -- [1]
+			"Thing From Beyond", -- [2]
 		},
 		[313564] = {
 			2337, -- [1]
 			"Growth-Covered Tentacle", -- [2]
 		},
-		[341443] = {
-			2384, -- [1]
-			"Unknown", -- [2]
+		[329171] = {
+			2381, -- [1]
+			"Sinstone Statue", -- [2]
 		},
 		[186016] = {
 			1778, -- [1]
@@ -17767,9 +17795,9 @@ _detalhes_global = {
 			2391, -- [1]
 			"Xira the Underhanded", -- [2]
 		},
-		[334889] = {
-			2418, -- [1]
-			"[*] Petrifying Howl", -- [2]
+		[316463] = {
+			2344, -- [1]
+			"Mindgate", -- [2]
 		},
 		[250241] = {
 			2085, -- [1]
@@ -17779,9 +17807,9 @@ _detalhes_global = {
 			2412, -- [1]
 			"Castellan Niklaus", -- [2]
 		},
-		[329170] = {
-			2381, -- [1]
-			"Sinstone Statue", -- [2]
+		[329455] = {
+			2383, -- [1]
+			"Hungering Destroyer", -- [2]
 		},
 		[321754] = {
 			2390, -- [1]
@@ -17795,9 +17823,9 @@ _detalhes_global = {
 			2114, -- [1]
 			"Burning Soul", -- [2]
 		},
-		[321061] = {
-			2394, -- [1]
-			"Millificent Manastorm", -- [2]
+		[320966] = {
+			2357, -- [1]
+			"Kin-Tara", -- [2]
 		},
 		[321755] = {
 			2390, -- [1]
@@ -17807,17 +17835,17 @@ _detalhes_global = {
 			2331, -- [1]
 			"Ra-den", -- [2]
 		},
-		[70672] = {
-			1102, -- [1]
-			"Gas Cloud", -- [2]
+		[329774] = {
+			2383, -- [1]
+			"Hungering Destroyer", -- [2]
 		},
-		[283650] = {
-			2265, -- [1]
-			"Darkforged Crusader", -- [2]
+		[265761] = {
+			2114, -- [1]
+			"Matron Bryndle", -- [2]
 		},
-		[344496] = {
-			2417, -- [1]
-			"General Grashaal", -- [2]
+		[323107] = {
+			2365, -- [1]
+			"Oozing Leftovers", -- [2]
 		},
 		[257407] = {
 			2086, -- [1]
@@ -17835,9 +17863,9 @@ _detalhes_global = {
 			2104, -- [1]
 			"Overseer Korgus", -- [2]
 		},
-		[307167] = {
-			2303, -- [1]
-			"Orgozoa", -- [2]
+		[306929] = {
+			2335, -- [1]
+			"Shad'har the Insatiable", -- [2]
 		},
 		[337110] = {
 			2412, -- [1]
@@ -17847,9 +17875,9 @@ _detalhes_global = {
 			2108, -- [1]
 			"Mogul Razdunk", -- [2]
 		},
-		[285190] = {
-			2272, -- [1]
-			"Bwonsamdi", -- [2]
+		[327646] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
 		},
 		[30153] = {
 			2360, -- [1]
@@ -17863,41 +17891,41 @@ _detalhes_global = {
 			2388, -- [1]
 			"Amarth", -- [2]
 		},
-		[308178] = {
-			2333, -- [1]
-			"Ka'zir", -- [2]
+		[310331] = {
+			2344, -- [1]
+			"Mind's Eye", -- [2]
 		},
 		[342741] = {
 			2417, -- [1]
 			"Stone Legion Goliath", -- [2]
 		},
-		[256039] = {
-			2104, -- [1]
-			"Overseer Korgus", -- [2]
+		[288774] = {
+			2276, -- [1]
+			"Spark Bot", -- [2]
 		},
-		[314347] = {
-			2329, -- [1]
-			"Ashwalker Assassin", -- [2]
+		[261265] = {
+			2113, -- [1]
+			"Sister Briar", -- [2]
 		},
 		[319713] = {
 			2360, -- [1]
 			"Kryxis the Voracious", -- [2]
 		},
-		[282447] = {
-			2268, -- [1]
-			"Kimbul", -- [2]
+		[320823] = {
+			2394, -- [1]
+			"Millificent Manastorm", -- [2]
 		},
-		[33763] = {
-			2344, -- [1]
-			11, -- [2]
+		[306015] = {
+			2329, -- [1]
+			"Wrathion", -- [2]
 		},
-		[291856] = {
-			2260, -- [1]
-			"Plasma Orb", -- [2]
+		[269843] = {
+			2123, -- [1]
+			"Unbound Abomination", -- [2]
 		},
-		[321009] = {
-			2357, -- [1]
-			"Kin-Tara", -- [2]
+		[261266] = {
+			2113, -- [1]
+			"Sister Malady", -- [2]
 		},
 		[309991] = {
 			2344, -- [1]
@@ -17907,25 +17935,25 @@ _detalhes_global = {
 			2117, -- [1]
 			"Deathtouched Slaver", -- [2]
 		},
-		[297851] = {
-			2311, -- [1]
-			"Potent Spark", -- [2]
+		[258709] = {
+			2084, -- [1]
+			"[*] Corrupted Gold", -- [2]
 		},
 		[331997] = {
 			2358, -- [1]
 			"Oryphrion", -- [2]
 		},
-		[285428] = {
-			2266, -- [1]
-			"Manceroy Flamefist", -- [2]
+		[307945] = {
+			2335, -- [1]
+			"[*] Umbral Eruption", -- [2]
 		},
 		[71549] = {
 			1098, -- [1]
 			"Captain Brandon", -- [2]
 		},
-		[318971] = {
-			2344, -- [1]
-			"Voidspawn Annihilator", -- [2]
+		[323010] = {
+			2359, -- [1]
+			"Devos", -- [2]
 		},
 		[323810] = {
 			2363, -- [1]
@@ -17935,21 +17963,21 @@ _detalhes_global = {
 			2344, -- [1]
 			9, -- [2]
 		},
-		[326629] = {
-			2389, -- [1]
-			"Surgeon Stitchflesh", -- [2]
+		[243237] = {
+			2130, -- [1]
+			"[*] Burst", -- [2]
 		},
 		[284406] = {
 			2280, -- [1]
 			"Tempting Siren", -- [2]
 		},
-		[302589] = {
-			2298, -- [1]
-			"[*] Toxic Brand", -- [2]
+		[318449] = {
+			2344, -- [1]
+			"N'Zoth the Corruptor", -- [2]
 		},
-		[243237] = {
-			2130, -- [1]
-			"[*] Burst", -- [2]
+		[287757] = {
+			2276, -- [1]
+			"High Tinker Mekkatorque", -- [2]
 		},
 		[308459] = {
 			2334, -- [1]
@@ -17971,9 +17999,9 @@ _detalhes_global = {
 			2418, -- [1]
 			"Hecutis", -- [2]
 		},
-		[269838] = {
-			2123, -- [1]
-			"[*] Vile Expulsion", -- [2]
+		[331217] = {
+			2393, -- [1]
+			"[*] Shared Pain", -- [2]
 		},
 		[317672] = {
 			2345, -- [1]
@@ -17999,17 +18027,17 @@ _detalhes_global = {
 			2334, -- [1]
 			"Prophet Skitra", -- [2]
 		},
-		[212423] = {
-			2412, -- [1]
-			"Frothing Pustule", -- [2]
+		[310015] = {
+			2331, -- [1]
+			"Ra-den", -- [2]
 		},
-		[307201] = {
-			2333, -- [1]
-			"Ka'zir", -- [2]
+		[317164] = {
+			2337, -- [1]
+			"Mycelial Cyst", -- [2]
 		},
-		[285443] = {
-			2259, -- [1]
-			"[*] \"Hidden\" Flame Cannon", -- [2]
+		[70672] = {
+			1102, -- [1]
+			"Gas Cloud", -- [2]
 		},
 		[330468] = {
 			2360, -- [1]
@@ -18023,9 +18051,9 @@ _detalhes_global = {
 			2304, -- [1]
 			"Lady Ashvane", -- [2]
 		},
-		[331275] = {
-			2391, -- [1]
-			"Advent Nevermore", -- [2]
+		[313398] = {
+			2331, -- [1]
+			"Essence of Void <Ra-den>", -- [2]
 		},
 		[70911] = {
 			1102, -- [1]
@@ -18043,9 +18071,9 @@ _detalhes_global = {
 			2304, -- [1]
 			"Lady Ashvane", -- [2]
 		},
-		[322550] = {
-			2393, -- [1]
-			"Tred'ova", -- [2]
+		[288218] = {
+			2281, -- [1]
+			"Cannons", -- [2]
 		},
 		[71551] = {
 			1098, -- [1]
@@ -18075,9 +18103,9 @@ _detalhes_global = {
 			2303, -- [1]
 			"Zoatroid", -- [2]
 		},
-		[227542] = {
-			1961, -- [1]
-			"Lady Catriona Von'Indi", -- [2]
+		[287585] = {
+			2281, -- [1]
+			"Lady Jaina Proudmoore", -- [2]
 		},
 		[259718] = {
 			2112, -- [1]
@@ -18087,21 +18115,21 @@ _detalhes_global = {
 			2335, -- [1]
 			"[*] Noxious Mantle", -- [2]
 		},
-		[308227] = {
-			2333, -- [1]
-			"Tek'ris", -- [2]
+		[324427] = {
+			2358, -- [1]
+			"Oryphrion", -- [2]
 		},
 		[310003] = {
 			2331, -- [1]
 			"Ra-den", -- [2]
 		},
-		[264757] = {
-			2111, -- [1]
-			"Elder Leaxa", -- [2]
+		[256163] = {
+			2105, -- [1]
+			"Azerite Footbomb", -- [2]
 		},
-		[256955] = {
-			2103, -- [1]
-			"Knight Captain Valyri", -- [2]
+		[306973] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[323821] = {
 			2363, -- [1]
@@ -18119,9 +18147,9 @@ _detalhes_global = {
 			2335, -- [1]
 			"Shad'har the Insatiable", -- [2]
 		},
-		[256163] = {
-			2105, -- [1]
-			"Azerite Footbomb", -- [2]
+		[260894] = {
+			2111, -- [1]
+			"Elder Leaxa", -- [2]
 		},
 		[310005] = {
 			2331, -- [1]
@@ -18131,21 +18159,21 @@ _detalhes_global = {
 			2335, -- [1]
 			"[*] Entropic Explosion", -- [2]
 		},
-		[183331] = {
-			1794, -- [1]
-			"Soul of Socrethar", -- [2]
+		[70447] = {
+			1102, -- [1]
+			"Volatile Ooze", -- [2]
 		},
-		[282408] = {
-			2276, -- [1]
-			"Spark Bot", -- [2]
+		[324079] = {
+			2404, -- [1]
+			"Mordretha, the Endless Empress", -- [2]
 		},
-		[288619] = {
-			2281, -- [1]
-			"Lady Jaina Proudmoore", -- [2]
+		[276286] = {
+			2130, -- [1]
+			"[*] Slicing Hurricane", -- [2]
 		},
-		[286163] = {
-			2266, -- [1]
-			"Manceroy Flamefist", -- [2]
+		[291874] = {
+			2258, -- [1]
+			"Flying Claw", -- [2]
 		},
 		[296701] = {
 			2305, -- [1]
@@ -18175,25 +18203,25 @@ _detalhes_global = {
 			2344, -- [1]
 			"Voidspawn Annihilator", -- [2]
 		},
-		[343060] = {
+		[329217] = {
+			2384, -- [1]
+			"Doctor Ickus", -- [2]
+		},
+		[339690] = {
 			2417, -- [1]
 			"General Grashaal", -- [2]
 		},
-		[325361] = {
-			2405, -- [1]
-			"Artificer Xy'mox", -- [2]
-		},
-		[298526] = {
-			2303, -- [1]
-			"Hatchery Gauntlet", -- [2]
+		[298425] = {
+			2299, -- [1]
+			"Cyranus", -- [2]
 		},
 		[227737] = {
 			1961, -- [1]
 			"Moroes", -- [2]
 		},
-		[311570] = {
-			2376, -- [1]
-			"Overlord Mathias Shaw", -- [2]
+		[321061] = {
+			2394, -- [1]
+			"Millificent Manastorm", -- [2]
 		},
 		[276234] = {
 			2108, -- [1]
@@ -18207,25 +18235,25 @@ _detalhes_global = {
 			2086, -- [1]
 			"Rezan", -- [2]
 		},
-		[302141] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
+		[323852] = {
+			2403, -- [1]
+			"Ghastly Parishioner <Gummybuns-Area52>", -- [2]
 		},
-		[267830] = {
-			2131, -- [1]
-			"Galecaller Faye", -- [2]
+		[327992] = {
+			2407, -- [1]
+			"Sinister Reflection", -- [2]
 		},
-		[303501] = {
-			2298, -- [1]
-			"Garval the Vanquisher", -- [2]
+		[314390] = {
+			2327, -- [1]
+			"[*] Ancient Curse", -- [2]
 		},
-		[334757] = {
-			2418, -- [1]
-			"Bargast", -- [2]
+		[298898] = {
+			2312, -- [1]
+			"Naeno Megacrash", -- [2]
 		},
-		[276282] = {
-			2130, -- [1]
-			"Galecaller Apprentice", -- [2]
+		[296944] = {
+			2304, -- [1]
+			"[*] Arcing Azerite", -- [2]
 		},
 		[284424] = {
 			2271, -- [1]
@@ -18235,9 +18263,9 @@ _detalhes_global = {
 			2336, -- [1]
 			"Vexiona", -- [2]
 		},
-		[315762] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
+		[334852] = {
+			2418, -- [1]
+			"Hecutis", -- [2]
 		},
 		[298242] = {
 			2303, -- [1]
@@ -18255,13 +18283,13 @@ _detalhes_global = {
 			2380, -- [1]
 			"Echelon", -- [2]
 		},
-		[284469] = {
-			2265, -- [1]
-			"Frida Ironbellows", -- [2]
+		[307232] = {
+			2333, -- [1]
+			"Tek'ris", -- [2]
 		},
-		[306208] = {
-			2328, -- [1]
-			"Dark Inquisitor Xanesh", -- [2]
+		[320787] = {
+			2394, -- [1]
+			"Millhouse Manastorm", -- [2]
 		},
 		[323831] = {
 			2404, -- [1]
@@ -18279,9 +18307,9 @@ _detalhes_global = {
 			2299, -- [1]
 			"Cyranus", -- [2]
 		},
-		[342310] = {
-			2405, -- [1]
-			"Artificer Xy'mox", -- [2]
+		[282447] = {
+			2268, -- [1]
+			"Kimbul", -- [2]
 		},
 		[334579] = {
 			2384, -- [1]
@@ -18291,9 +18319,9 @@ _detalhes_global = {
 			2097, -- [1]
 			"Sergeant Bainbridge", -- [2]
 		},
-		[284177] = {
-			2276, -- [1]
-			"High Tinker Mekkatorque", -- [2]
+		[271178] = {
+			2115, -- [1]
+			"Pallid Gorger", -- [2]
 		},
 		[311551] = {
 			2328, -- [1]
@@ -18303,13 +18331,13 @@ _detalhes_global = {
 			2298, -- [1]
 			"Abyssal Commander Sivara", -- [2]
 		},
-		[271175] = {
-			2115, -- [1]
-			"Pallid Gorger", -- [2]
+		[250259] = {
+			2085, -- [1]
+			"Vol'kaal", -- [2]
 		},
-		[183969] = {
-			1799, -- [1]
-			"Unknown <Archimonde>", -- [2]
+		[288297] = {
+			2281, -- [1]
+			"[*] Arctic Ground", -- [2]
 		},
 		[286988] = {
 			2266, -- [1]
@@ -18319,13 +18347,13 @@ _detalhes_global = {
 			2085, -- [1]
 			"Vol'kaal", -- [2]
 		},
-		[317915] = {
-			2337, -- [1]
-			"Horrific Hemorrhage", -- [2]
+		[185590] = {
+			1799, -- [1]
+			"Archimonde", -- [2]
 		},
-		[271178] = {
+		[268234] = {
 			2115, -- [1]
-			"Pallid Gorger", -- [2]
+			"Bile Oozeling", -- [2]
 		},
 		[286989] = {
 			2266, -- [1]
@@ -18343,17 +18371,17 @@ _detalhes_global = {
 			2343, -- [1]
 			"Tentacle of Drest'agath", -- [2]
 		},
-		[284474] = {
-			2265, -- [1]
-			"Frida Ironbellows", -- [2]
+		[186883] = {
+			1778, -- [1]
+			"Felfire Flamebelcher", -- [2]
 		},
 		[227742] = {
 			1961, -- [1]
 			"Moroes", -- [2]
 		},
-		[306732] = {
-			2331, -- [1]
-			"Ra-den", -- [2]
+		[310323] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
 		[308996] = {
 			2344, -- [1]
@@ -18371,25 +18399,25 @@ _detalhes_global = {
 			2359, -- [1]
 			"Devos", -- [2]
 		},
-		[310323] = {
-			2336, -- [1]
-			"Vexiona", -- [2]
+		[227542] = {
+			1961, -- [1]
+			"Lady Catriona Von'Indi", -- [2]
 		},
-		[296257] = {
-			2293, -- [1]
-			"Za'qul", -- [2]
+		[308029] = {
+			2334, -- [1]
+			"Prophet Skitra", -- [2]
 		},
 		[267034] = {
 			2133, -- [1]
 			"Vol'zith the Whisperer", -- [2]
 		},
-		[319531] = {
-			2364, -- [1]
-			"Kul'tharok", -- [2]
+		[260279] = {
+			2108, -- [1]
+			"[*] Gatling Gun", -- [2]
 		},
-		[310580] = {
-			2343, -- [1]
-			"Maw of Drest'agath", -- [2]
+		[307008] = {
+			2337, -- [1]
+			"Gaze of Madness", -- [2]
 		},
 		[303369] = {
 			2298, -- [1]
@@ -18399,21 +18427,21 @@ _detalhes_global = {
 			2331, -- [1]
 			"[*] Charged Bonds", -- [2]
 		},
-		[298306] = {
-			2303, -- [1]
-			"[*] Incubation Fluid", -- [2]
+		[250050] = {
+			2087, -- [1]
+			"Yazma", -- [2]
 		},
-		[287565] = {
-			2281, -- [1]
-			"Lady Jaina Proudmoore", -- [2]
+		[328494] = {
+			2361, -- [1]
+			"[*] Sintouched Anima", -- [2]
 		},
 		[299276] = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[315954] = {
-			2337, -- [1]
-			"Fury of N'Zoth", -- [2]
+		[41062] = {
+			1798, -- [1]
+			"Blademaster Jubei'thos", -- [2]
 		},
 		[267548] = {
 			2133, -- [1]
@@ -18439,21 +18467,21 @@ _detalhes_global = {
 			2123, -- [1]
 			"[*] Rotting Spore", -- [2]
 		},
-		[41062] = {
-			1798, -- [1]
-			"Blademaster Jubei'thos", -- [2]
+		[315265] = {
+			2331, -- [1]
+			"Unknown", -- [2]
 		},
-		[262513] = {
-			2108, -- [1]
-			"Venture Co. Skyscorcher", -- [2]
+		[307017] = {
+			2329, -- [1]
+			"Crackling Shard", -- [2]
 		},
 		[320772] = {
 			2390, -- [1]
 			"Nalthor the Rimebinder", -- [2]
 		},
-		[324662] = {
-			2357, -- [1]
-			"Kin-Tara", -- [2]
+		[317915] = {
+			2337, -- [1]
+			"Horrific Hemorrhage", -- [2]
 		},
 		[309514] = {
 			2327, -- [1]
@@ -18463,9 +18491,9 @@ _detalhes_global = {
 			2107, -- [1]
 			"Rixxa Fluxflame", -- [2]
 		},
-		[289221] = {
-			2281, -- [1]
-			"[*] Heart of Frost", -- [2]
+		[287074] = {
+			2271, -- [1]
+			"[*] Molten Gold", -- [2]
 		},
 		[327426] = {
 			2396, -- [1]
@@ -18475,13 +18503,13 @@ _detalhes_global = {
 			2114, -- [1]
 			"Burning Soul", -- [2]
 		},
-		[264155] = {
-			2130, -- [1]
-			"Aqualing", -- [2]
+		[284521] = {
+			2272, -- [1]
+			"Bwonsamdi", -- [2]
 		},
-		[304976] = {
-			2332, -- [1]
-			"Thrall", -- [2]
+		[183331] = {
+			1794, -- [1]
+			"Soul of Socrethar", -- [2]
 		},
 		[288534] = {
 			2281, -- [1]
@@ -18491,13 +18519,13 @@ _detalhes_global = {
 			2344, -- [1]
 			"N'Zoth the Corruptor", -- [2]
 		},
-		[303981] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
+		[292167] = {
+			2289, -- [1]
+			"Blackwater Behemoth", -- [2]
 		},
-		[286565] = {
-			2266, -- [1]
-			"Mestrah", -- [2]
+		[340788] = {
+			2405, -- [1]
+			"Artificer Xy'mox", -- [2]
 		},
 		[298770] = {
 			2338, -- [1]
@@ -18507,9 +18535,9 @@ _detalhes_global = {
 			2344, -- [1]
 			9, -- [2]
 		},
-		[185099] = {
-			2412, -- [1]
-			"[*] Oppressive Atmosphere", -- [2]
+		[179986] = {
+			1784, -- [1]
+			"Tyrant Velhari", -- [2]
 		},
 		[298259] = {
 			2292, -- [1]
@@ -18567,7 +18595,7 @@ _detalhes_global = {
 			2112, -- [1]
 			"Sporecaller Zancha", -- [2]
 		},
-		[331634] = {
+		[327503] = {
 			2412, -- [1]
 			"Lord Stavros", -- [2]
 		},
@@ -18591,13 +18619,13 @@ _detalhes_global = {
 			2298, -- [1]
 			"[*] Toxic Bolt", -- [2]
 		},
-		[260811] = {
-			2108, -- [1]
-			"Mogul Razdunk", -- [2]
+		[227851] = {
+			1961, -- [1]
+			"Moroes", -- [2]
 		},
-		[264166] = {
-			2130, -- [1]
-			"Aqualing", -- [2]
+		[297398] = {
+			2304, -- [1]
+			"Lady Ashvane", -- [2]
 		},
 		[307476] = {
 			2335, -- [1]
@@ -18607,17 +18635,17 @@ _detalhes_global = {
 			2130, -- [1]
 			"Aqualing", -- [2]
 		},
-		[332626] = {
-			2407, -- [1]
-			"Sire Denathrius", -- [2]
+		[307048] = {
+			2337, -- [1]
+			"Fury of N'Zoth", -- [2]
 		},
 		[274213] = {
 			2112, -- [1]
 			"Sporecaller Zancha", -- [2]
 		},
-		[287116] = {
-			2272, -- [1]
-			"Reaping Portal", -- [2]
+		[303981] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
 		},
 		[291613] = {
 			2260, -- [1]
@@ -18643,17 +18671,17 @@ _detalhes_global = {
 			2390, -- [1]
 			"Nalthor the Rimebinder", -- [2]
 		},
-		[303986] = {
-			2299, -- [1]
-			"Queen Azshara", -- [2]
+		[273226] = {
+			2112, -- [1]
+			"[*] Decaying Spores", -- [2]
 		},
-		[324449] = {
-			2404, -- [1]
-			"Mordretha, the Endless Empress", -- [2]
+		[307057] = {
+			2336, -- [1]
+			"Vexiona", -- [2]
 		},
-		[328125] = {
-			2380, -- [1]
-			"Undying Stonefiend <Echelon>", -- [2]
+		[297851] = {
+			2311, -- [1]
+			"Potent Spark", -- [2]
 		},
 		[335114] = {
 			2418, -- [1]
@@ -18683,9 +18711,9 @@ _detalhes_global = {
 			2406, -- [1]
 			"Lady Inerva Darkvein", -- [2]
 		},
-		[313228] = {
-			2328, -- [1]
-			"[*] Void-Touched", -- [2]
+		[331618] = {
+			2366, -- [1]
+			"Xav the Unfallen", -- [2]
 		},
 		[310552] = {
 			2343, -- [1]
@@ -18727,9 +18755,9 @@ _detalhes_global = {
 			2385, -- [1]
 			"Shadowclone Stalker", -- [2]
 		},
-		[312722] = {
-			2331, -- [1]
-			"Nightmare Portal", -- [2]
+		[286040] = {
+			2271, -- [1]
+			"Spirit of Gold", -- [2]
 		},
 		[285479] = {
 			2271, -- [1]
@@ -18739,9 +18767,9 @@ _detalhes_global = {
 			2281, -- [1]
 			"Kul Tiran Marine", -- [2]
 		},
-		[315161] = {
-			2292, -- [1]
-			"Eye of Corruption", -- [2]
+		[268080] = {
+			2113, -- [1]
+			"[*] Aura of Apathy", -- [2]
 		},
 		[49998] = {
 			2344, -- [1]
@@ -18751,17 +18779,17 @@ _detalhes_global = {
 			2132, -- [1]
 			"Awoken Void", -- [2]
 		},
-		[269239] = {
-			2344, -- [1]
-			9, -- [2]
+		[288708] = {
+			2276, -- [1]
+			"High Tinker Mekkatorque", -- [2]
 		},
-		[227578] = {
-			1961, -- [1]
-			"Lady Catriona Von'Indi", -- [2]
+		[283551] = {
+			2260, -- [1]
+			"Omega Buster", -- [2]
 		},
-		[296850] = {
-			2311, -- [1]
-			"Pashmar the Fanatical", -- [2]
+		[69929] = {
+			1103, -- [1]
+			"Ymirjar Deathbringer", -- [2]
 		},
 		[71946] = {
 			1098, -- [1]
@@ -18775,9 +18803,9 @@ _detalhes_global = {
 			2299, -- [1]
 			"Queen Azshara", -- [2]
 		},
-		[260318] = {
-			2108, -- [1]
-			"Mogul Razdunk", -- [2]
+		[313652] = {
+			2333, -- [1]
+			"Ka'zir", -- [2]
 		},
 		[281388] = {
 			2109, -- [1]
@@ -18791,9 +18819,9 @@ _detalhes_global = {
 			2405, -- [1]
 			"Artificer Xy'mox", -- [2]
 		},
-		[297398] = {
-			2304, -- [1]
-			"Lady Ashvane", -- [2]
+		[303513] = {
+			2298, -- [1]
+			"Gorjesh the Smasher", -- [2]
 		},
 		[260508] = {
 			2114, -- [1]
@@ -18803,29 +18831,29 @@ _detalhes_global = {
 			2271, -- [1]
 			"Opulence", -- [2]
 		},
-		[325550] = {
-			2385, -- [1]
-			"Domina Venomblade", -- [2]
+		[297371] = {
+			2299, -- [1]
+			"Queen Azshara", -- [2]
 		},
 		[297254] = {
 			2290, -- [1]
 			"King Gobbamak", -- [2]
 		},
-		[89753] = {
-			2360, -- [1]
-			"Felguard <Warlockmania-Area52>", -- [2]
+		[326538] = {
+			2406, -- [1]
+			"Sins of the Past", -- [2]
 		},
-		[306090] = {
-			2331, -- [1]
-			"Unknown", -- [2]
+		[284106] = {
+			2280, -- [1]
+			"Sister Katherine", -- [2]
 		},
 		[306978] = {
 			2337, -- [1]
 			"Fury of N'Zoth", -- [2]
 		},
-		[310184] = {
-			2344, -- [1]
-			"Psychus", -- [2]
+		[289705] = {
+			2276, -- [1]
+			"High Tinker Mekkatorque", -- [2]
 		},
 		[291626] = {
 			2260, -- [1]
@@ -18843,25 +18871,25 @@ _detalhes_global = {
 			2290, -- [1]
 			"King Gobbamak", -- [2]
 		},
-		[240559] = {
-			2111, -- [1]
-			"[*] Grievous Wound", -- [2]
+		[260838] = {
+			2108, -- [1]
+			"[*] Homing Missile", -- [2]
 		},
-		[322450] = {
-			2393, -- [1]
-			"Tred'ova", -- [2]
+		[283573] = {
+			2265, -- [1]
+			"Frida Ironbellows", -- [2]
 		},
-		[70447] = {
-			1102, -- [1]
-			"Volatile Ooze", -- [2]
+		[283582] = {
+			2265, -- [1]
+			"[*] Consecration", -- [2]
 		},
 		[301351] = {
 			2291, -- [1]
 			"HK-8 Aerial Oppression Unit", -- [2]
 		},
-		[71726] = {
-			1103, -- [1]
-			"Blood-Queen Lana'thel", -- [2]
+		[268230] = {
+			2109, -- [1]
+			"Ashvane Deckhand", -- [2]
 		},
 		[310563] = {
 			2343, -- [1]
@@ -18871,25 +18899,25 @@ _detalhes_global = {
 			2113, -- [1]
 			"Sister Malady", -- [2]
 		},
-		[264144] = {
-			2130, -- [1]
-			"Aqu'sirr", -- [2]
+		[260323] = {
+			2108, -- [1]
+			"Mogul Razdunk", -- [2]
 		},
-		[305978] = {
-			2329, -- [1]
-			"Wrathion", -- [2]
+		[309665] = {
+			2374, -- [1]
+			"Therum Deepforge", -- [2]
 		},
-		[283582] = {
-			2265, -- [1]
-			"[*] Consecration", -- [2]
+		[71726] = {
+			1103, -- [1]
+			"Blood-Queen Lana'thel", -- [2]
+		},
+		[315305] = {
+			2327, -- [1]
+			"[*] Forbidden Mana", -- [2]
 		},
 		[332687] = {
 			2399, -- [1]
 			"Sludgefist", -- [2]
-		},
-		[260333] = {
-			2118, -- [1]
-			"Cragmaw the Infested", -- [2]
 		},
 		[340758] = {
 			2405, -- [1]
@@ -18899,9 +18927,9 @@ _detalhes_global = {
 			2272, -- [1]
 			"Death Rift <King Rastakhan>", -- [2]
 		},
-		[303536] = {
-			2298, -- [1]
-			"Tideshaper Korvess", -- [2]
+		[297937] = {
+			2299, -- [1]
+			"Cyranus", -- [2]
 		},
 		[303401] = {
 			2298, -- [1]
@@ -18915,9 +18943,9 @@ _detalhes_global = {
 			2097, -- [1]
 			"Heavy Ordnance", -- [2]
 		},
-		[310078] = {
-			2343, -- [1]
-			"Maw of Drest'agath", -- [2]
+		[298940] = {
+			2312, -- [1]
+			"Naeno Megacrash", -- [2]
 		},
 		[297261] = {
 			2290, -- [1]
@@ -18931,9 +18959,9 @@ _detalhes_global = {
 			2398, -- [1]
 			"Sindrel", -- [2]
 		},
-		[288647] = {
-			2281, -- [1]
-			"Orb of Frost <Lady Jaina Proudmoore>", -- [2]
+		[342874] = {
+			2405, -- [1]
+			"Artificer Xy'mox", -- [2]
 		},
 	},
 	["immersion_pets_on_solo_play"] = false,
@@ -19298,10 +19326,10 @@ _detalhes_global = {
 					0, -- [1]
 					0, -- [2]
 				},
-				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
-				["maximize_method"] = 1,
-				["border_size"] = 14,
 				["fontshadow"] = false,
+				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
+				["border_size"] = 14,
+				["maximize_method"] = 1,
 				["anchor_screen_pos"] = {
 					507.7, -- [1]
 					-350.5, -- [2]
@@ -19547,6 +19575,9 @@ _detalhes_global = {
 					["switch_healer"] = false,
 					["fontstrings_text2_anchor"] = 70,
 					["StatusBarSaved"] = {
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 						["options"] = {
 							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
 								["textColor"] = {
@@ -19594,9 +19625,6 @@ _detalhes_global = {
 								["maxSectionIds"] = 17,
 							},
 						},
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 					},
 					["__was_opened"] = true,
 					["bg_alpha"] = 0.183960914611816,
@@ -19746,10 +19774,10 @@ _detalhes_global = {
 						["texture"] = "BantoBar",
 						["start_after_icon"] = true,
 						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["textL_class_colors"] = false,
-						["alpha"] = 1,
-						["texture_background"] = "Details D'ictum (reverse)",
 						["textR_class_colors"] = false,
+						["alpha"] = 1,
+						["textL_class_colors"] = false,
+						["texture_background"] = "Details D'ictum (reverse)",
 						["textR_outline_small_color"] = {
 							0, -- [1]
 							0, -- [2]
@@ -20489,10 +20517,10 @@ _detalhes_global = {
 					0, -- [1]
 					0, -- [2]
 				},
-				["fontshadow"] = false,
-				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
-				["border_size"] = 14,
 				["maximize_method"] = 1,
+				["fontshadow"] = false,
+				["border_size"] = 14,
+				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
 				["anchor_screen_pos"] = {
 					507.7, -- [1]
 					-350.5, -- [2]
@@ -20692,10 +20720,10 @@ _detalhes_global = {
 						["texture"] = "Smooth v2",
 						["start_after_icon"] = true,
 						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["textR_class_colors"] = false,
-						["alpha"] = 1,
-						["textL_class_colors"] = true,
 						["texture_background"] = "Details D'ictum (reverse)",
+						["alpha"] = 1,
+						["textR_class_colors"] = false,
+						["textL_class_colors"] = true,
 						["textR_outline_small_color"] = {
 							0, -- [1]
 							0, -- [2]
@@ -20843,6 +20871,9 @@ _detalhes_global = {
 					["menu_icons_size"] = 0.850000023841858,
 					["fontstrings_text3_anchor"] = 35,
 					["StatusBarSaved"] = {
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 						["options"] = {
 							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
 								["textColor"] = {
@@ -20889,9 +20920,6 @@ _detalhes_global = {
 								},
 							},
 						},
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 					},
 					["show_sidebars"] = false,
 					["menu_alpha"] = {
@@ -20943,15 +20971,11 @@ _detalhes_global = {
 							0.333333333333333, -- [3]
 						},
 					},
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
 					["menu_anchor_down"] = {
 						16, -- [1]
 						-3, -- [2]
 					},
+					["__snapV"] = false,
 					["auto_hide_menu"] = {
 						["left"] = false,
 						["right"] = false,
@@ -20983,7 +21007,11 @@ _detalhes_global = {
 					["auto_current"] = true,
 					["bars_grow_direction"] = 1,
 					["switch_tank_in_combat"] = false,
-					["__snapV"] = false,
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
 					["hide_in_combat"] = false,
 					["posicao"] = {
 						["normal"] = {
@@ -21142,15 +21170,15 @@ _detalhes_global = {
 							0.150228589773178, -- [4]
 						},
 						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["textL_class_colors"] = true,
+						["textR_class_colors"] = false,
 						["textR_outline_small_color"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
+						["textL_class_colors"] = true,
 						["texture_background"] = "Details D'ictum (reverse)",
-						["textR_class_colors"] = false,
 						["alpha"] = 1,
 						["no_icon"] = false,
 						["icon_offset"] = {
@@ -21288,6 +21316,9 @@ _detalhes_global = {
 					["menu_icons_size"] = 0.850000023841858,
 					["fontstrings_text3_anchor"] = 35,
 					["StatusBarSaved"] = {
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 						["options"] = {
 							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
 								["textColor"] = {
@@ -21334,9 +21365,6 @@ _detalhes_global = {
 								},
 							},
 						},
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 					},
 					["show_sidebars"] = false,
 					["menu_alpha"] = {
@@ -21388,15 +21416,11 @@ _detalhes_global = {
 							0.333333333333333, -- [3]
 						},
 					},
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
 					["menu_anchor_down"] = {
 						16, -- [1]
 						-3, -- [2]
 					},
+					["__snapV"] = false,
 					["auto_hide_menu"] = {
 						["left"] = false,
 						["right"] = false,
@@ -21428,7 +21452,11 @@ _detalhes_global = {
 					["auto_current"] = true,
 					["bars_grow_direction"] = 1,
 					["switch_tank_in_combat"] = false,
-					["__snapV"] = false,
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
 					["hide_in_combat"] = false,
 					["posicao"] = {
 						["normal"] = {
@@ -23318,10 +23346,10 @@ _detalhes_global = {
 					0.61, -- [2]
 					0.43, -- [3]
 				},
-				["SHAMAN"] = {
-					0, -- [1]
-					0.44, -- [2]
-					0.87, -- [3]
+				["ROGUE"] = {
+					1, -- [1]
+					0.96, -- [2]
+					0.41, -- [3]
 				},
 				["MAGE"] = {
 					0.41, -- [1]
@@ -23353,11 +23381,10 @@ _detalhes_global = {
 					0.12, -- [2]
 					0.23, -- [3]
 				},
-				["ENEMY"] = {
-					0.94117, -- [1]
-					0, -- [2]
-					0.0196, -- [3]
-					1, -- [4]
+				["PET"] = {
+					0.3, -- [1]
+					0.4, -- [2]
+					0.5, -- [3]
 				},
 				["UNKNOW"] = {
 					0.2, -- [1]
@@ -23369,15 +23396,16 @@ _detalhes_global = {
 					1, -- [2]
 					1, -- [3]
 				},
-				["ROGUE"] = {
-					1, -- [1]
-					0.96, -- [2]
-					0.41, -- [3]
+				["ENEMY"] = {
+					0.94117, -- [1]
+					0, -- [2]
+					0.0196, -- [3]
+					1, -- [4]
 				},
-				["PET"] = {
-					0.3, -- [1]
-					0.4, -- [2]
-					0.5, -- [3]
+				["SHAMAN"] = {
+					0, -- [1]
+					0.44, -- [2]
+					0.87, -- [3]
 				},
 				["WARLOCK"] = {
 					0.58, -- [1]
@@ -23778,10 +23806,10 @@ _detalhes_global = {
 					0, -- [1]
 					0, -- [2]
 				},
-				["maximize_method"] = 1,
-				["fontshadow"] = false,
-				["border_size"] = 14,
 				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
+				["maximize_method"] = 1,
+				["border_size"] = 14,
+				["fontshadow"] = false,
 				["anchor_screen_pos"] = {
 					507.7, -- [1]
 					-350.5, -- [2]
@@ -24043,9 +24071,8 @@ _detalhes_global = {
 					["switch_healer"] = false,
 					["fontstrings_text2_anchor"] = 70,
 					["StatusBarSaved"] = {
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
 						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
 						["options"] = {
 							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
 								["textColor"] = {
@@ -24078,11 +24105,11 @@ _detalhes_global = {
 							},
 							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
 								["textYMod"] = 1,
-								["textAlign"] = 2,
-								["textXMod"] = 6,
-								["timeType"] = 1,
-								["textFace"] = "Accidental Presidency",
 								["textStyle"] = 2,
+								["textXMod"] = 6,
+								["textAlign"] = 2,
+								["textFace"] = "Accidental Presidency",
+								["timeType"] = 1,
 								["textSize"] = 10,
 								["textColor"] = {
 									1, -- [1]
@@ -24092,6 +24119,7 @@ _detalhes_global = {
 								},
 							},
 						},
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
 					},
 					["bars_inverted"] = false,
 					["version"] = 3,
@@ -24195,10 +24223,10 @@ _detalhes_global = {
 						["texture"] = "BantoBar",
 						["start_after_icon"] = true,
 						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["texture_background"] = "Details D'ictum (reverse)",
-						["alpha"] = 1,
-						["textR_class_colors"] = false,
 						["textL_class_colors"] = false,
+						["alpha"] = 1,
+						["texture_background"] = "Details D'ictum (reverse)",
+						["textR_class_colors"] = false,
 						["textR_outline_small_color"] = {
 							0, -- [1]
 							0, -- [2]
@@ -24883,13 +24911,13 @@ _detalhes_global = {
 				3684825, -- [5]
 				["id"] = 2406,
 			},
-			["284686"] = {
-				"King Rastakhan", -- [1]
-				"284686", -- [2]
-				"Meteor Leap", -- [3]
-				15.5, -- [4]
-				236171, -- [5]
-				["id"] = 2272,
+			["310340"] = {
+				"The Hivemind", -- [1]
+				"310340", -- [2]
+				"Spawn Acidic Aqir (1)", -- [3]
+				56.3, -- [4]
+				656595, -- [5]
+				["id"] = 2333,
 			},
 			["307472"] = {
 				"Shad'har the Insatiable", -- [1]
@@ -24899,13 +24927,13 @@ _detalhes_global = {
 				136007, -- [5]
 				["id"] = 2335,
 			},
-			["282247"] = {
-				"Grong Horde", -- [1]
-				"282247", -- [2]
-				"Add (1)", -- [3]
-				16.8, -- [4]
-				1141394, -- [5]
-				["id"] = 2263,
+			["327497"] = {
+				"The Council of Blood", -- [1]
+				"327497", -- [2]
+				"Evasive Lunge", -- [3]
+				8.5, -- [4]
+				132303, -- [5]
+				["id"] = 2412,
 			},
 			["333488"] = {
 				"Amarth, The Reanimator", -- [1]
@@ -25139,13 +25167,13 @@ _detalhes_global = {
 				451165, -- [5]
 				["id"] = 2112,
 			},
-			["308044"] = {
-				"Maut", -- [1]
-				"308044", -- [2]
-				"Stygian Annihilation", -- [3]
-				41, -- [4]
-				463286, -- [5]
-				["id"] = 2327,
+			["267830"] = {
+				"Tidesage Coucil", -- [1]
+				"267830", -- [2]
+				"Blessing of the Tempest", -- [3]
+				26.7, -- [4]
+				135863, -- [5]
+				["id"] = 2131,
 			},
 			["321894"] = {
 				"Nalthor the Rimebinder", -- [1]
@@ -25155,13 +25183,13 @@ _detalhes_global = {
 				2576087, -- [5]
 				["id"] = 2390,
 			},
-			["332683"] = {
-				"Stone Legion Generals", -- [1]
-				"332683", -- [2]
-				"<Cast: Shattering Blast>", -- [3]
-				5, -- [4]
-				1519262, -- [5]
-				["id"] = 2417,
+			["307201"] = {
+				"The Hivemind", -- [1]
+				"307201", -- [2]
+				"Ka'zir's Hivemind Control", -- [3]
+				93.5, -- [4]
+				2914898, -- [5]
+				["id"] = 2333,
 			},
 			["334266"] = {
 				"Hungering Destroyer", -- [1]
@@ -25299,13 +25327,13 @@ _detalhes_global = {
 				1033907, -- [5]
 				["id"] = 2390,
 			},
-			["268306"] = {
-				"Lord and Lady Waycrest", -- [1]
-				"268306", -- [2]
-				"Discordant Cadenza", -- [3]
-				18, -- [4]
-				463569, -- [5]
-				["id"] = 2116,
+			["282082"] = {
+				"Grong Horde", -- [1]
+				"282082", -- [2]
+				"Bestial Combo", -- [3]
+				22, -- [4]
+				2065583, -- [5]
+				["id"] = 2263,
 			},
 			["297325"] = {
 				"The Queen's Court", -- [1]
@@ -25371,29 +25399,29 @@ _detalhes_global = {
 				237567, -- [5]
 				["id"] = 2311,
 			},
-			["303657"] = {
-				"Queen Azshara", -- [1]
-				"303657", -- [2]
-				"Arcane Burst", -- [3]
-				43, -- [4]
-				1391780, -- [5]
-				["id"] = 2299,
+			["322746"] = {
+				"Hakkar the Soulflayer", -- [1]
+				"322746", -- [2]
+				"Corrupted Blood", -- [3]
+				8, -- [4]
+				136133, -- [5]
+				["id"] = 2395,
 			},
-			["324205"] = {
-				"Ventunax", -- [1]
-				"324205", -- [2]
-				"Blinding Flash", -- [3]
-				15.5, -- [4]
-				1029583, -- [5]
-				["id"] = 2356,
+			["277965"] = {
+				"Sergeant Bainbridge", -- [1]
+				"277965", -- [2]
+				"Heavy Ordnance (3)", -- [3]
+				42, -- [4]
+				1141394, -- [5]
+				["id"] = 2097,
 			},
-			["322651"] = {
-				"Tred'ova", -- [1]
-				"322651", -- [2]
-				"Acid Expulsion", -- [3]
-				14.5, -- [4]
-				132104, -- [5]
-				["id"] = 2393,
+			["185510"] = {
+				"Shadow-Lord Iskar", -- [1]
+				"185510", -- [2]
+				"Dark Bindings", -- [3]
+				21, -- [4]
+				463560, -- [5]
+				["id"] = 1788,
 			},
 			["323683"] = {
 				"Mordretha, the Endless Empress", -- [1]
@@ -25419,13 +25447,13 @@ _detalhes_global = {
 				3528313, -- [5]
 				["id"] = 2402,
 			},
-			["269097"] = {
-				"Lord Stormsong", -- [1]
-				"269097", -- [2]
-				"Waken the Void", -- [3]
-				13.5, -- [4]
-				136221, -- [5]
-				["id"] = 2132,
+			["320788"] = {
+				"Nalthor the Rimebinder", -- [1]
+				"320788", -- [2]
+				"Frozen Binds", -- [3]
+				8, -- [4]
+				135834, -- [5]
+				["id"] = 2390,
 			},
 			["264526"] = {
 				"Aqu'sirr", -- [1]
@@ -25451,29 +25479,29 @@ _detalhes_global = {
 				"Interface\\Icons\\inv_misc_nagamale", -- [5]
 				["id"] = 2299,
 			},
-			["322475"] = {
-				"Margrave Stradama", -- [1]
-				"322475", -- [2]
-				"Plague Crash", -- [3]
-				11.5, -- [4]
-				2576087, -- [5]
-				["id"] = 2386,
+			["291613"] = {
+				"King Mechagon", -- [1]
+				"291613", -- [2]
+				"Take Off!", -- [3]
+				30, -- [4]
+				133029, -- [5]
+				["id"] = 2260,
 			},
-			["286988"] = {
-				"Jadefire Masters Horde", -- [1]
-				"286988", -- [2]
-				"Searing Embers", -- [3]
-				40, -- [4]
-				236220, -- [5]
-				["id"] = 2266,
+			["305722"] = {
+				"Maut", -- [1]
+				"305722", -- [2]
+				"<Cast: Obsidian Shatter>", -- [3]
+				60, -- [4]
+				399041, -- [5]
+				["id"] = 2327,
 			},
-			["323149"] = {
-				"Ingra Maloch", -- [1]
-				"323149", -- [2]
-				"Embrace Darkness", -- [3]
-				36, -- [4]
-				252272, -- [5]
-				["id"] = 2397,
+			["263345"] = {
+				"Overseer Korgus", -- [1]
+				"263345", -- [2]
+				"Massive Blast", -- [3]
+				27.5, -- [4]
+				1373903, -- [5]
+				["id"] = 2104,
 			},
 			["307863"] = {
 				"Inquisitor Gnshal", -- [1]
@@ -25491,13 +25519,13 @@ _detalhes_global = {
 				136243, -- [5]
 				["id"] = 2259,
 			},
-			["341193"] = {
-				"Sludgefist", -- [1]
-				"341193", -- [2]
-				"Falling Rubble (1)", -- [3]
-				70.5, -- [4]
-				1385913, -- [5]
-				["id"] = 2399,
+			["286436"] = {
+				"Jadefire Masters Horde", -- [1]
+				"286436", -- [2]
+				"Whirling Jade Storm", -- [3]
+				21.5, -- [4]
+				606543, -- [5]
+				["id"] = 2266,
 			},
 			["332794"] = {
 				"Sire Denathrius", -- [1]
@@ -25531,13 +25559,13 @@ _detalhes_global = {
 				413591, -- [5]
 				["id"] = 2298,
 			},
-			["260741"] = {
-				"Heartsbane Triad", -- [1]
-				"260741", -- [2]
-				"Jagged Nettles", -- [3]
-				8.5, -- [4]
-				959837, -- [5]
-				["id"] = 2113,
+			["336258"] = {
+				"Domina Venomblade", -- [1]
+				"336258", -- [2]
+				"Solitary Prey on YOU", -- [3]
+				6, -- [4]
+				892448, -- [5]
+				["id"] = 2385,
 			},
 			["326851"] = {
 				"Sire Denathrius", -- [1]
@@ -25571,13 +25599,13 @@ _detalhes_global = {
 				237521, -- [5]
 				["id"] = 2333,
 			},
-			["329951"] = {
-				"Sire Denathrius", -- [1]
-				"329951", -- [2]
-				"Impale (1)", -- [3]
-				23, -- [4]
-				1357795, -- [5]
-				["id"] = 2407,
+			["182001"] = {
+				"Iron Reaver", -- [1]
+				"182001", -- [2]
+				"Unstable Orb", -- [3]
+				8.5, -- [4]
+				135799, -- [5]
+				["id"] = 1785,
 			},
 			["264101"] = {
 				"Aqu'sirr", -- [1]
@@ -25635,13 +25663,13 @@ _detalhes_global = {
 				2576090, -- [5]
 				["id"] = 2272,
 			},
-			["341621"] = {
-				"Lady Inerva Darkvein", -- [1]
-				"341621", -- [2]
-				"Desires", -- [3]
-				12, -- [4]
-				3684826, -- [5]
-				["id"] = 2406,
+			["297985"] = {
+				"Gunker", -- [1]
+				"297985", -- [2]
+				"Splatter", -- [3]
+				8.3, -- [4]
+				136016, -- [5]
+				["id"] = 2292,
 			},
 			["267037"] = {
 				"Vol'zith the Whisperer", -- [1]
@@ -25667,13 +25695,13 @@ _detalhes_global = {
 				136133, -- [5]
 				["id"] = 2407,
 			},
-			["-21069"] = {
-				"Carapace of N'Zoth", -- [1]
-				"-21069", -- [2]
-				"Thrashing Tentacle (1)", -- [3]
-				32, -- [4]
-				132154, -- [5]
-				["id"] = 2337,
+			["332313"] = {
+				"Domina Venomblade", -- [1]
+				"332313", -- [2]
+				"Brood Assassins", -- [3]
+				11.2, -- [4]
+				1370997, -- [5]
+				["id"] = 2385,
 			},
 			["323821"] = {
 				"General Kaal", -- [1]
@@ -25803,13 +25831,13 @@ _detalhes_global = {
 				3459797, -- [5]
 				["id"] = 2384,
 			},
-			["289772"] = {
-				"Battle of Dazar'alor Trash", -- [1]
-				"289772", -- [2]
-				"Impale: Aardappelen*", -- [3]
-				15, -- [4]
-				608940, -- [5]
-				["id"] = 2271,
+			["325360"] = {
+				"Grand Proctor Beryllia", -- [1]
+				"325360", -- [2]
+				"Rite of Supremacy", -- [3]
+				38.8, -- [4]
+				3528311, -- [5]
+				["id"] = 2362,
 			},
 			["303971"] = {
 				"Za'qul, Herald of Ny'alotha", -- [1]
@@ -25931,13 +25959,13 @@ _detalhes_global = {
 				461806, -- [5]
 				["id"] = 2412,
 			},
-			["288696"] = {
-				"Stormwall Blockade", -- [1]
-				"288696", -- [2]
-				"<Cast: Catastrophic Tides>", -- [3]
-				15, -- [4]
-				971078, -- [5]
-				["id"] = 2280,
+			["332617"] = {
+				"Doctor Ickus", -- [1]
+				"332617", -- [2]
+				"Pestilence Surge", -- [3]
+				10.5, -- [4]
+				3459800, -- [5]
+				["id"] = 2384,
 			},
 			["287929"] = {
 				"High Tinker Mekkatorque", -- [1]
@@ -25971,13 +25999,13 @@ _detalhes_global = {
 				1778228, -- [5]
 				["id"] = 2383,
 			},
-			["285459"] = {
-				"Lady Jaina Proudmoore", -- [1]
-				"285459", -- [2]
-				"Ring of Ice (1)", -- [3]
-				60, -- [4]
-				464484, -- [5]
-				["id"] = 2281,
+			["347350"] = {
+				"The Council of Blood", -- [1]
+				"347350", -- [2]
+				"Dancing Fever", -- [3]
+				32, -- [4]
+				460687, -- [5]
+				["id"] = 2412,
 			},
 			["324983"] = {
 				"Lady Inerva Darkvein", -- [1]
@@ -25987,13 +26015,13 @@ _detalhes_global = {
 				237585, -- [5]
 				["id"] = 2406,
 			},
-			["283933"] = {
-				"Champion of the Light Horde", -- [1]
-				"283933", -- [2]
-				"Judgment: Righteousness", -- [3]
-				51, -- [4]
-				135921, -- [5]
-				["id"] = 2265,
+			["337110"] = {
+				"The Council of Blood", -- [1]
+				"337110", -- [2]
+				"Dreadbolt Volley", -- [3]
+				6, -- [4]
+				3528310, -- [5]
+				["id"] = 2412,
 			},
 			["288169"] = {
 				"Lady Jaina Proudmoore", -- [1]
@@ -26883,13 +26911,13 @@ _detalhes_global = {
 				631519, -- [5]
 				["id"] = 2334,
 			},
-			["warmup"] = {
-				"Lord Stormsong", -- [1]
-				"warmup", -- [2]
-				"Active", -- [3]
-				19, -- [4]
-				"Interface\\Icons\\achievement_dungeon_shrineofthestorm", -- [5]
-				["id"] = 2132,
+			["297835"] = {
+				"Gunker", -- [1]
+				"297835", -- [2]
+				"Coalesce", -- [3]
+				20.5, -- [4]
+				840190, -- [5]
+				["id"] = 2292,
 			},
 			["184394"] = {
 				"Hellfire Assault", -- [1]
@@ -26947,13 +26975,13 @@ _detalhes_global = {
 				538039, -- [5]
 				["id"] = 2381,
 			},
-			["342425"] = {
-				"Stone Legion Generals", -- [1]
-				"342425", -- [2]
-				"Stone Fist", -- [3]
-				34.9, -- [4]
-				136225, -- [5]
-				["id"] = 2417,
+			["307403"] = {
+				"Vexiona", -- [1]
+				"307403", -- [2]
+				"Annihilation", -- [3]
+				13, -- [4]
+				1386551, -- [5]
+				["id"] = 2336,
 			},
 			["288374"] = {
 				"Lady Jaina Proudmoore", -- [1]
@@ -27235,13 +27263,13 @@ _detalhes_global = {
 				2065615, -- [5]
 				["id"] = 2293,
 			},
-			["286558"] = {
-				"Stormwall Blockade", -- [1]
-				"286558", -- [2]
-				"Tidal Shroud", -- [3]
-				32, -- [4]
-				132315, -- [5]
-				["id"] = 2280,
+			["186407"] = {
+				"Xhul'horac", -- [1]
+				"186407", -- [2]
+				"Fel Surge", -- [3]
+				19, -- [4]
+				841221, -- [5]
+				["id"] = 1800,
 			},
 			["285017"] = {
 				"Stormwall Blockade", -- [1]
@@ -27475,13 +27503,13 @@ _detalhes_global = {
 				460695, -- [5]
 				["id"] = 2293,
 			},
-			["180300"] = {
-				"Tyrant Velhari", -- [1]
-				"180300", -- [2]
-				"Infernal Tempest", -- [3]
-				40, -- [4]
-				796638, -- [5]
-				["id"] = 1784,
+			["299250"] = {
+				"Queen Azshara", -- [1]
+				"299250", -- [2]
+				"Queen's Decree", -- [3]
+				4, -- [4]
+				1500892, -- [5]
+				["id"] = 2299,
 			},
 			["250258"] = {
 				"Vol'kaal", -- [1]
@@ -27515,13 +27543,13 @@ _detalhes_global = {
 				3004126, -- [5]
 				["id"] = 2376,
 			},
-			["333387"] = {
-				"Stone Legion Generals", -- [1]
-				"333387", -- [2]
-				"Wicked Blade (1)", -- [3]
-				18.5, -- [4]
-				589068, -- [5]
-				["id"] = 2417,
+			["307950"] = {
+				"The Prophet Skitra", -- [1]
+				"307950", -- [2]
+				"Shred Psyche (1)", -- [3]
+				12.5, -- [4]
+				462324, -- [5]
+				["id"] = 2334,
 			},
 			["demolishing"] = {
 				"Viq'Goth", -- [1]
@@ -27531,13 +27559,13 @@ _detalhes_global = {
 				"Interface\\Icons\\achievement_boss_yoggsaron_01", -- [5]
 				["id"] = 2100,
 			},
-			["316711"] = {
-				"N'Zoth, the Corruptor", -- [1]
-				"316711", -- [2]
-				"Mindwrack (1)", -- [3]
-				7.3, -- [4]
-				132102, -- [5]
-				["id"] = 2344,
+			["182200"] = {
+				"Shadow-Lord Iskar", -- [1]
+				"182200", -- [2]
+				"Fel Chakram", -- [3]
+				5.5, -- [4]
+				1016243, -- [5]
+				["id"] = 1788,
 			},
 			["292083"] = {
 				"Blackwater Behemoth", -- [1]
@@ -27691,21 +27719,21 @@ _detalhes_global = {
 				463570, -- [5]
 				["id"] = 2100,
 			},
-			["282030"] = {
-				"Jadefire Masters Horde", -- [1]
-				"282030", -- [2]
-				"Multi-Sided Strike", -- [3]
-				30, -- [4]
-				574573, -- [5]
-				["id"] = 2266,
+			["181735"] = {
+				"Mannoroth", -- [1]
+				"181735", -- [2]
+				"Felseeker", -- [3]
+				57, -- [4]
+				841219, -- [5]
+				["id"] = 1795,
 			},
-			["332617"] = {
-				"Doctor Ickus", -- [1]
-				"332617", -- [2]
-				"Pestilence Surge", -- [3]
-				10.5, -- [4]
-				3459800, -- [5]
-				["id"] = 2384,
+			["286742"] = {
+				"King Rastakhan", -- [1]
+				"286742", -- [2]
+				"Necrotic Smash", -- [3]
+				28.5, -- [4]
+				2576095, -- [5]
+				["id"] = 2272,
 			},
 			["294929"] = {
 				"K.U.-J.0.", -- [1]
@@ -27715,21 +27743,21 @@ _detalhes_global = {
 				1530249, -- [5]
 				["id"] = 2258,
 			},
-			["180533"] = {
-				"Tyrant Velhari", -- [1]
-				"180533", -- [2]
-				"Tainted Shadows (1)", -- [3]
-				5, -- [4]
-				425950, -- [5]
-				["id"] = 1784,
+			["257882"] = {
+				"Hadal Darkfathom", -- [1]
+				"257882", -- [2]
+				"Break Water", -- [3]
+				7, -- [4]
+				135861, -- [5]
+				["id"] = 2099,
 			},
-			["321368"] = {
-				"Nalthor the Rimebinder", -- [1]
-				"321368", -- [2]
-				"Icebound Aegis", -- [3]
-				13, -- [4]
-				236224, -- [5]
-				["id"] = 2390,
+			["183329"] = {
+				"Socrethar the Eternal", -- [1]
+				"183329", -- [2]
+				"Apocalypse (1)", -- [3]
+				51.5, -- [4]
+				136204, -- [5]
+				["id"] = 1794,
 			},
 			["259853"] = {
 				"Rixxa Fluxflame", -- [1]
@@ -27747,6 +27775,30 @@ _detalhes_global = {
 				132317, -- [5]
 				["id"] = 2405,
 			},
+			["270028"] = {
+				"Rixxa Fluxflame", -- [1]
+				"270028", -- [2]
+				"Azerite Catalyst", -- [3]
+				4, -- [4]
+				135789, -- [5]
+				["id"] = 2107,
+			},
+			["322475"] = {
+				"Margrave Stradama", -- [1]
+				"322475", -- [2]
+				"Plague Crash", -- [3]
+				11.5, -- [4]
+				2576087, -- [5]
+				["id"] = 2386,
+			},
+			["316711"] = {
+				"N'Zoth, the Corruptor", -- [1]
+				"316711", -- [2]
+				"Mindwrack (1)", -- [3]
+				7.3, -- [4]
+				132102, -- [5]
+				["id"] = 2344,
+			},
 			["186490"] = {
 				"Xhul'horac", -- [1]
 				"186490", -- [2]
@@ -27755,69 +27807,45 @@ _detalhes_global = {
 				463560, -- [5]
 				["id"] = 1800,
 			},
-			["268278"] = {
-				"Lord and Lady Waycrest", -- [1]
-				"268278", -- [2]
-				"Wracking Chord", -- [3]
-				8, -- [4]
-				136181, -- [5]
-				["id"] = 2116,
+			["182459"] = {
+				"Tyrant Velhari", -- [1]
+				"182459", -- [2]
+				"Edict of Condemnation", -- [3]
+				57, -- [4]
+				801000, -- [5]
+				["id"] = 1784,
 			},
-			["320788"] = {
-				"Nalthor the Rimebinder", -- [1]
-				"320788", -- [2]
-				"Frozen Binds", -- [3]
-				8, -- [4]
-				135834, -- [5]
-				["id"] = 2390,
+			["322651"] = {
+				"Tred'ova", -- [1]
+				"322651", -- [2]
+				"Acid Expulsion", -- [3]
+				14.5, -- [4]
+				132104, -- [5]
+				["id"] = 2393,
 			},
-			["299250"] = {
-				"Queen Azshara", -- [1]
-				"299250", -- [2]
-				"Queen's Decree", -- [3]
-				4, -- [4]
-				1500892, -- [5]
-				["id"] = 2299,
+			["182051"] = {
+				"Socrethar the Eternal", -- [1]
+				"182051", -- [2]
+				"Felblaze Charge", -- [3]
+				29, -- [4]
+				840405, -- [5]
+				["id"] = 1794,
 			},
-			["185510"] = {
-				"Shadow-Lord Iskar", -- [1]
-				"185510", -- [2]
-				"Dark Bindings", -- [3]
-				21, -- [4]
-				463560, -- [5]
-				["id"] = 1788,
+			["310019"] = {
+				"Ra-den the Despoiled", -- [1]
+				"310019", -- [2]
+				"Charged Bonds", -- [3]
+				4.8, -- [4]
+				1370984, -- [5]
+				["id"] = 2331,
 			},
-			["307950"] = {
-				"The Prophet Skitra", -- [1]
-				"307950", -- [2]
-				"Shred Psyche (1)", -- [3]
-				12.5, -- [4]
-				462324, -- [5]
-				["id"] = 2334,
-			},
-			["267360"] = {
-				"Vol'zith the Whisperer", -- [1]
-				"267360", -- [2]
-				"Grasp of the Sunken City", -- [3]
-				20.5, -- [4]
-				136194, -- [5]
-				["id"] = 2133,
-			},
-			["277965"] = {
-				"Sergeant Bainbridge", -- [1]
-				"277965", -- [2]
-				"Heavy Ordnance (3)", -- [3]
-				42, -- [4]
-				1141394, -- [5]
-				["id"] = 2097,
-			},
-			["329107"] = {
-				"Artificer Xy'mox", -- [1]
-				"329107", -- [2]
-				"<Cast: Extinction (1)>", -- [3]
-				12, -- [4]
-				3636841, -- [5]
-				["id"] = 2405,
+			["328921"] = {
+				"Shriekwing", -- [1]
+				"328921", -- [2]
+				"Blood Shroud", -- [3]
+				101, -- [4]
+				538040, -- [5]
+				["id"] = 2398,
 			},
 			["298548"] = {
 				"Orgozoa", -- [1]
@@ -27835,6 +27863,46 @@ _detalhes_global = {
 				134446, -- [5]
 				["id"] = 2327,
 			},
+			["295099"] = {
+				"Za'qul, Herald of Ny'alotha", -- [1]
+				"295099", -- [2]
+				"Punctured Darkness", -- [3]
+				25, -- [4]
+				607852, -- [5]
+				["id"] = 2293,
+			},
+			["disorient"] = {
+				"Champion of the Light Horde", -- [1]
+				"disorient", -- [2]
+				"<Cast: Disorient>", -- [3]
+				4, -- [4]
+				135860, -- [5]
+				["id"] = 2265,
+			},
+			["306828"] = {
+				"Thrall", -- [1]
+				"306828", -- [2]
+				"Defiled Ground", -- [3]
+				12.1, -- [4]
+				136201, -- [5]
+				["id"] = 2332,
+			},
+			["325258"] = {
+				"Mueh'zala", -- [1]
+				"325258", -- [2]
+				"Master of Death", -- [3]
+				9, -- [4]
+				3163624, -- [5]
+				["id"] = 2396,
+			},
+			["imps"] = {
+				"Xhul'horac", -- [1]
+				"imps", -- [2]
+				"Wild Pyromaniac (1)", -- [3]
+				12, -- [4]
+				"Interface\\Icons\\spell_shadow_summonimp", -- [5]
+				["id"] = 1800,
+			},
 			["334476"] = {
 				"Surgeon Stitchflesh", -- [1]
 				"334476", -- [2]
@@ -27851,46 +27919,6 @@ _detalhes_global = {
 				1450139, -- [5]
 				["id"] = 2272,
 			},
-			["disorient"] = {
-				"Champion of the Light Horde", -- [1]
-				"disorient", -- [2]
-				"<Cast: Disorient>", -- [3]
-				4, -- [4]
-				135860, -- [5]
-				["id"] = 2265,
-			},
-			["325258"] = {
-				"Mueh'zala", -- [1]
-				"325258", -- [2]
-				"Master of Death", -- [3]
-				9, -- [4]
-				3163624, -- [5]
-				["id"] = 2396,
-			},
-			["301244"] = {
-				"The Queen's Court", -- [1]
-				"301244", -- [2]
-				"Repeat Performance", -- [3]
-				40, -- [4]
-				1500884, -- [5]
-				["id"] = 2311,
-			},
-			["imps"] = {
-				"Xhul'horac", -- [1]
-				"imps", -- [2]
-				"Wild Pyromaniac (1)", -- [3]
-				12, -- [4]
-				"Interface\\Icons\\spell_shadow_summonimp", -- [5]
-				["id"] = 1800,
-			},
-			["182051"] = {
-				"Socrethar the Eternal", -- [1]
-				"182051", -- [2]
-				"Felblaze Charge", -- [3]
-				29, -- [4]
-				840405, -- [5]
-				["id"] = 1794,
-			},
 			["321948"] = {
 				"Dealer Xy'exa", -- [1]
 				"321948", -- [2]
@@ -27899,13 +27927,13 @@ _detalhes_global = {
 				236214, -- [5]
 				["id"] = 2400,
 			},
-			["327497"] = {
-				"The Council of Blood", -- [1]
-				"327497", -- [2]
-				"Evasive Lunge", -- [3]
-				8.5, -- [4]
-				132303, -- [5]
-				["id"] = 2412,
+			["310433"] = {
+				"Il'gynoth, Corruption Reborn", -- [1]
+				"310433", -- [2]
+				"Corruptor's Gaze (1)", -- [3]
+				12.5, -- [4]
+				236407, -- [5]
+				["id"] = 2345,
 			},
 			["181824"] = {
 				"Shadow-Lord Iskar", -- [1]
@@ -27923,21 +27951,13 @@ _detalhes_global = {
 				135838, -- [5]
 				["id"] = 2281,
 			},
-			["310433"] = {
-				"Il'gynoth, Corruption Reborn", -- [1]
-				"310433", -- [2]
-				"Corruptor's Gaze (1)", -- [3]
-				12.5, -- [4]
-				236407, -- [5]
-				["id"] = 2345,
-			},
-			["305048"] = {
-				"Orgozoa", -- [1]
-				"305048", -- [2]
-				"Arcing Current (1)", -- [3]
-				36, -- [4]
-				839977, -- [5]
-				["id"] = 2303,
+			["259187"] = {
+				"Yazma", -- [1]
+				"259187", -- [2]
+				"Soulrend", -- [3]
+				9.7, -- [4]
+				1354410, -- [5]
+				["id"] = 2087,
 			},
 			["-20408"] = {
 				"Queen Azshara", -- [1]
@@ -27946,6 +27966,14 @@ _detalhes_global = {
 				23, -- [4]
 				"Interface\\Icons\\inv_misc_nagamale", -- [5]
 				["id"] = 2299,
+			},
+			["325506"] = {
+				"Sun King's Salvation", -- [1]
+				"325506", -- [2]
+				"Concussive Smash (1)", -- [3]
+				21, -- [4]
+				1016245, -- [5]
+				["id"] = 2402,
 			},
 			["282179"] = {
 				"Grong Horde", -- [1]
@@ -27971,13 +27999,13 @@ _detalhes_global = {
 				413591, -- [5]
 				["id"] = 2299,
 			},
-			["347350"] = {
-				"The Council of Blood", -- [1]
-				"347350", -- [2]
-				"Dancing Fever", -- [3]
-				32, -- [4]
-				460687, -- [5]
-				["id"] = 2412,
+			["268306"] = {
+				"Lord and Lady Waycrest", -- [1]
+				"268306", -- [2]
+				"Discordant Cadenza", -- [3]
+				18, -- [4]
+				463569, -- [5]
+				["id"] = 2116,
 			},
 			["-21993"] = {
 				"Sun King's Salvation", -- [1]
@@ -28011,13 +28039,13 @@ _detalhes_global = {
 				135744, -- [5]
 				["id"] = 1794,
 			},
-			["297835"] = {
-				"Gunker", -- [1]
-				"297835", -- [2]
-				"Coalesce", -- [3]
-				20.5, -- [4]
-				840190, -- [5]
-				["id"] = 2292,
+			["286558"] = {
+				"Stormwall Blockade", -- [1]
+				"286558", -- [2]
+				"Tidal Shroud", -- [3]
+				32, -- [4]
+				132315, -- [5]
+				["id"] = 2280,
 			},
 			["285645"] = {
 				"Jadefire Masters Horde", -- [1]
@@ -28027,45 +28055,45 @@ _detalhes_global = {
 				606548, -- [5]
 				["id"] = 2266,
 			},
-			["263345"] = {
-				"Overseer Korgus", -- [1]
-				"263345", -- [2]
-				"Massive Blast", -- [3]
-				27.5, -- [4]
-				1373903, -- [5]
-				["id"] = 2104,
+			["332683"] = {
+				"Stone Legion Generals", -- [1]
+				"332683", -- [2]
+				"<Cast: Shattering Blast>", -- [3]
+				5, -- [4]
+				1519262, -- [5]
+				["id"] = 2417,
 			},
-			["310019"] = {
-				"Ra-den the Despoiled", -- [1]
-				"310019", -- [2]
-				"Charged Bonds", -- [3]
-				4.8, -- [4]
-				1370984, -- [5]
-				["id"] = 2331,
+			["260741"] = {
+				"Heartsbane Triad", -- [1]
+				"260741", -- [2]
+				"Jagged Nettles", -- [3]
+				8.5, -- [4]
+				959837, -- [5]
+				["id"] = 2113,
 			},
-			["286436"] = {
-				"Jadefire Masters Horde", -- [1]
-				"286436", -- [2]
-				"Whirling Jade Storm", -- [3]
-				21.5, -- [4]
-				606543, -- [5]
-				["id"] = 2266,
+			["250096"] = {
+				"Yazma", -- [1]
+				"250096", -- [2]
+				"Wracking Pain", -- [3]
+				3.7, -- [4]
+				236300, -- [5]
+				["id"] = 2087,
 			},
-			["307201"] = {
-				"The Hivemind", -- [1]
-				"307201", -- [2]
-				"Ka'zir's Hivemind Control", -- [3]
-				93.5, -- [4]
-				2914898, -- [5]
-				["id"] = 2333,
+			["324205"] = {
+				"Ventunax", -- [1]
+				"324205", -- [2]
+				"Blinding Flash", -- [3]
+				15.5, -- [4]
+				1029583, -- [5]
+				["id"] = 2356,
 			},
-			["328921"] = {
-				"Shriekwing", -- [1]
-				"328921", -- [2]
-				"Blood Shroud", -- [3]
-				101, -- [4]
-				538040, -- [5]
-				["id"] = 2398,
+			["312155"] = {
+				"N'Zoth, the Corruptor", -- [1]
+				"312155", -- [2]
+				"<Cast: Shattered Ego (1)>", -- [3]
+				30, -- [4]
+				132094, -- [5]
+				["id"] = 2344,
 			},
 			["257337"] = {
 				"Coin-Operated Crowd Pummeler", -- [1]
@@ -28075,13 +28103,13 @@ _detalhes_global = {
 				136050, -- [5]
 				["id"] = 2105,
 			},
-			["322746"] = {
-				"Hakkar the Soulflayer", -- [1]
-				"322746", -- [2]
-				"Corrupted Blood", -- [3]
-				8, -- [4]
-				136133, -- [5]
-				["id"] = 2395,
+			["322818"] = {
+				"Devos, Paragon of Doubt", -- [1]
+				"322818", -- [2]
+				"Lost Confidence", -- [3]
+				16.3, -- [4]
+				237555, -- [5]
+				["id"] = 2359,
 			},
 			["321828"] = {
 				"Mistcaller", -- [1]
@@ -28107,13 +28135,13 @@ _detalhes_global = {
 				1778226, -- [5]
 				["id"] = 2383,
 			},
-			["322818"] = {
-				"Devos, Paragon of Doubt", -- [1]
-				"322818", -- [2]
-				"Lost Confidence", -- [3]
-				16.3, -- [4]
-				237555, -- [5]
-				["id"] = 2359,
+			["181557"] = {
+				"Mannoroth", -- [1]
+				"181557", -- [2]
+				"Fel Hellstorm", -- [3]
+				30, -- [4]
+				135804, -- [5]
+				["id"] = 1795,
 			},
 			["315927"] = {
 				"N'Zoth, the Corruptor", -- [1]
@@ -28139,13 +28167,13 @@ _detalhes_global = {
 				1698698, -- [5]
 				["id"] = 2392,
 			},
-			["312155"] = {
-				"N'Zoth, the Corruptor", -- [1]
-				"312155", -- [2]
-				"<Cast: Shattered Ego (1)>", -- [3]
-				30, -- [4]
-				132094, -- [5]
-				["id"] = 2344,
+			["286988"] = {
+				"Jadefire Masters Horde", -- [1]
+				"286988", -- [2]
+				"Searing Embers", -- [3]
+				40, -- [4]
+				236220, -- [5]
+				["id"] = 2266,
 			},
 			["179864"] = {
 				"Gorefiend", -- [1]
@@ -28155,13 +28183,13 @@ _detalhes_global = {
 				135752, -- [5]
 				["id"] = 1783,
 			},
-			["325936"] = {
-				"Lady Inerva Darkvein", -- [1]
-				"325936", -- [2]
-				"Shared Cognition", -- [3]
-				10, -- [4]
-				135767, -- [5]
-				["id"] = 2406,
+			["269097"] = {
+				"Lord Stormsong", -- [1]
+				"269097", -- [2]
+				"Waken the Void", -- [3]
+				13.5, -- [4]
+				136221, -- [5]
+				["id"] = 2132,
 			},
 			["306273"] = {
 				"Ra-den the Despoiled", -- [1]
@@ -28179,29 +28207,29 @@ _detalhes_global = {
 				135735, -- [5]
 				["id"] = 2305,
 			},
-			["325360"] = {
-				"Grand Proctor Beryllia", -- [1]
-				"325360", -- [2]
-				"Rite of Supremacy", -- [3]
-				38.8, -- [4]
-				3528311, -- [5]
-				["id"] = 2362,
+			["333387"] = {
+				"Stone Legion Generals", -- [1]
+				"333387", -- [2]
+				"Wicked Blade (1)", -- [3]
+				18.5, -- [4]
+				589068, -- [5]
+				["id"] = 2417,
 			},
-			["325506"] = {
-				"Sun King's Salvation", -- [1]
-				"325506", -- [2]
-				"Concussive Smash (1)", -- [3]
-				21, -- [4]
-				1016245, -- [5]
-				["id"] = 2402,
+			["341193"] = {
+				"Sludgefist", -- [1]
+				"341193", -- [2]
+				"Falling Rubble (1)", -- [3]
+				70.5, -- [4]
+				1385913, -- [5]
+				["id"] = 2399,
 			},
-			["182001"] = {
-				"Iron Reaver", -- [1]
-				"182001", -- [2]
-				"Unstable Orb", -- [3]
-				8.5, -- [4]
-				135799, -- [5]
-				["id"] = 1785,
+			["181255"] = {
+				"Mannoroth", -- [1]
+				"181255", -- [2]
+				"Fel Imp-losion", -- [3]
+				46.5, -- [4]
+				236294, -- [5]
+				["id"] = 1795,
 			},
 			["285428"] = {
 				"Jadefire Masters Horde", -- [1]
@@ -28211,13 +28239,13 @@ _detalhes_global = {
 				236215, -- [5]
 				["id"] = 2266,
 			},
-			["329455"] = {
-				"Hungering Destroyer", -- [1]
-				"329455", -- [2]
-				"Desolate (1)", -- [3]
-				22, -- [4]
-				1778230, -- [5]
-				["id"] = 2383,
+			["307359"] = {
+				"Vexiona", -- [1]
+				"307359", -- [2]
+				"Despair", -- [3]
+				10, -- [4]
+				237552, -- [5]
+				["id"] = 2336,
 			},
 			["316065"] = {
 				"Ra-den the Despoiled", -- [1]
@@ -28275,13 +28303,13 @@ _detalhes_global = {
 				134273, -- [5]
 				["id"] = 1778,
 			},
-			["326039"] = {
-				"Grand Proctor Beryllia", -- [1]
-				"326039", -- [2]
-				"Endless Torment", -- [3]
-				38.8, -- [4]
-				1394887, -- [5]
-				["id"] = 2362,
+			["301244"] = {
+				"The Queen's Court", -- [1]
+				"301244", -- [2]
+				"Repeat Performance", -- [3]
+				40, -- [4]
+				1500884, -- [5]
+				["id"] = 2311,
 			},
 			["-19690"] = {
 				"Lady Jaina Proudmoore", -- [1]
@@ -28307,13 +28335,13 @@ _detalhes_global = {
 				3616005, -- [5]
 				["id"] = 2389,
 			},
-			["181735"] = {
-				"Mannoroth", -- [1]
-				"181735", -- [2]
-				"Felseeker", -- [3]
-				57, -- [4]
-				841219, -- [5]
-				["id"] = 1795,
+			["329951"] = {
+				"Sire Denathrius", -- [1]
+				"329951", -- [2]
+				"Impale (1)", -- [3]
+				23, -- [4]
+				1357795, -- [5]
+				["id"] = 2407,
 			},
 			["322711"] = {
 				"Halkias, the Sin-Stained Goliath", -- [1]
@@ -28355,13 +28383,13 @@ _detalhes_global = {
 				1500942, -- [5]
 				["id"] = 2345,
 			},
-			["332313"] = {
-				"Domina Venomblade", -- [1]
-				"332313", -- [2]
-				"Brood Assassins", -- [3]
-				11.2, -- [4]
-				1370997, -- [5]
-				["id"] = 2385,
+			["282247"] = {
+				"Grong Horde", -- [1]
+				"282247", -- [2]
+				"Add (1)", -- [3]
+				16.8, -- [4]
+				1141394, -- [5]
+				["id"] = 2263,
 			},
 			["343005"] = {
 				"Shriekwing", -- [1]
@@ -28395,13 +28423,13 @@ _detalhes_global = {
 				135800, -- [5]
 				["id"] = 1799,
 			},
-			["186123"] = {
-				"Archimonde", -- [1]
-				"186123", -- [2]
-				"Wrought Chaos", -- [3]
-				7, -- [4]
-				828455, -- [5]
-				["id"] = 1799,
+			["271698"] = {
+				"Tik'ali", -- [1]
+				"271698", -- [2]
+				"Azerite Infusion", -- [3]
+				20, -- [4]
+				612968, -- [5]
+				["id"] = 2106,
 			},
 			["322936"] = {
 				"Halkias, the Sin-Stained Goliath", -- [1]
@@ -28411,13 +28439,13 @@ _detalhes_global = {
 				134459, -- [5]
 				["id"] = 2401,
 			},
-			["313960"] = {
-				"N'Zoth, the Corruptor", -- [1]
-				"313960", -- [2]
-				"Black Volley", -- [3]
-				34, -- [4]
-				132323, -- [5]
-				["id"] = 2344,
+			["227736"] = {
+				"Moroes", -- [1]
+				"227736", -- [2]
+				"Vanish", -- [3]
+				7, -- [4]
+				132331, -- [5]
+				["id"] = 1961,
 			},
 			["323608"] = {
 				"Mordretha, the Endless Empress", -- [1]
@@ -28427,13 +28455,29 @@ _detalhes_global = {
 				2576088, -- [5]
 				["id"] = 2404,
 			},
-			["310340"] = {
-				"The Hivemind", -- [1]
-				"310340", -- [2]
-				"Spawn Acidic Aqir (1)", -- [3]
-				56.3, -- [4]
-				656595, -- [5]
-				["id"] = 2333,
+			["345936"] = {
+				"Shriekwing", -- [1]
+				"345936", -- [2]
+				"<Cast: Earsplitting Shriek (3)>", -- [3]
+				4, -- [4]
+				136147, -- [5]
+				["id"] = 2398,
+			},
+			["282030"] = {
+				"Jadefire Masters Horde", -- [1]
+				"282030", -- [2]
+				"Multi-Sided Strike", -- [3]
+				30, -- [4]
+				574573, -- [5]
+				["id"] = 2266,
+			},
+			["318406"] = {
+				"Gorechop", -- [1]
+				"318406", -- [2]
+				"Tenderizing Smash", -- [3]
+				13.1, -- [4]
+				623773, -- [5]
+				["id"] = 2365,
 			},
 			["322903"] = {
 				"General Kaal", -- [1]
@@ -28443,29 +28487,13 @@ _detalhes_global = {
 				1035055, -- [5]
 				["id"] = 2363,
 			},
-			["345936"] = {
-				"Shriekwing", -- [1]
-				"345936", -- [2]
-				"<Cast: Earsplitting Shriek (3)>", -- [3]
-				4, -- [4]
-				136147, -- [5]
-				["id"] = 2398,
-			},
-			["330711"] = {
-				"Shriekwing", -- [1]
-				"330711", -- [2]
-				"Earsplitting Shriek (1)", -- [3]
-				13, -- [4]
-				136147, -- [5]
-				["id"] = 2398,
-			},
-			["307403"] = {
-				"Vexiona", -- [1]
-				"307403", -- [2]
-				"Annihilation", -- [3]
-				13, -- [4]
-				1386551, -- [5]
-				["id"] = 2336,
+			["-21069"] = {
+				"Carapace of N'Zoth", -- [1]
+				"-21069", -- [2]
+				"Thrashing Tentacle (1)", -- [3]
+				32, -- [4]
+				132154, -- [5]
+				["id"] = 2337,
 			},
 			["322943"] = {
 				"Halkias, the Sin-Stained Goliath", -- [1]
@@ -28475,29 +28503,29 @@ _detalhes_global = {
 				1500971, -- [5]
 				["id"] = 2401,
 			},
-			["328789"] = {
-				"Artificer Xy'mox", -- [1]
-				"328789", -- [2]
-				"Annihilate (1)", -- [3]
-				28, -- [4]
-				2101973, -- [5]
-				["id"] = 2405,
+			["180533"] = {
+				"Tyrant Velhari", -- [1]
+				"180533", -- [2]
+				"Tainted Shadows (1)", -- [3]
+				5, -- [4]
+				425950, -- [5]
+				["id"] = 1784,
 			},
-			["297985"] = {
-				"Gunker", -- [1]
-				"297985", -- [2]
-				"Splatter", -- [3]
-				8.3, -- [4]
-				136016, -- [5]
-				["id"] = 2292,
+			["289772"] = {
+				"Battle of Dazar'alor Trash", -- [1]
+				"289772", -- [2]
+				"Impale: Aardappelen*", -- [3]
+				15, -- [4]
+				608940, -- [5]
+				["id"] = 2271,
 			},
-			["185345"] = {
-				"Shadow-Lord Iskar", -- [1]
-				"185345", -- [2]
-				"Shadow Riposte", -- [3]
-				9.5, -- [4]
-				132354, -- [5]
-				["id"] = 1788,
+			["269131"] = {
+				"Lord Stormsong", -- [1]
+				"269131", -- [2]
+				"Ancient Mindbender", -- [3]
+				22, -- [4]
+				462324, -- [5]
+				["id"] = 2132,
 			},
 			["322977"] = {
 				"Halkias, the Sin-Stained Goliath", -- [1]
@@ -28547,13 +28575,13 @@ _detalhes_global = {
 				134521, -- [5]
 				["id"] = 2100,
 			},
-			["181255"] = {
-				"Mannoroth", -- [1]
-				"181255", -- [2]
-				"Fel Imp-losion", -- [3]
-				46.5, -- [4]
-				236294, -- [5]
-				["id"] = 1795,
+			["179909"] = {
+				"Gorefiend", -- [1]
+				"179909", -- [2]
+				"Shared Fate", -- [3]
+				18, -- [4]
+				607854, -- [5]
+				["id"] = 1783,
 			},
 			["-22082"] = {
 				"Sun King's Salvation", -- [1]
@@ -28587,13 +28615,13 @@ _detalhes_global = {
 				841383, -- [5]
 				["id"] = 2335,
 			},
-			["323878"] = {
-				"Oryphrion", -- [1]
-				"323878", -- [2]
-				"Drained", -- [3]
-				89, -- [4]
-				237587, -- [5]
-				["id"] = 2358,
+			["283933"] = {
+				"Champion of the Light Horde", -- [1]
+				"283933", -- [2]
+				"Judgment: Righteousness", -- [3]
+				51, -- [4]
+				135921, -- [5]
+				["id"] = 2265,
 			},
 			["346698"] = {
 				"The Council of Blood", -- [1]
@@ -28619,13 +28647,13 @@ _detalhes_global = {
 				460959, -- [5]
 				["id"] = 1777,
 			},
-			["319713"] = {
-				"Kryxis the Voracious", -- [1]
-				"319713", -- [2]
-				"Juggernaut Rush", -- [3]
-				22.8, -- [4]
-				132335, -- [5]
-				["id"] = 2360,
+			["305048"] = {
+				"Orgozoa", -- [1]
+				"305048", -- [2]
+				"Arcing Current (1)", -- [3]
+				36, -- [4]
+				839977, -- [5]
+				["id"] = 2303,
 			},
 			["296080"] = {
 				"HK-8 Aerial Oppression Unit", -- [1]
@@ -29179,13 +29207,13 @@ _detalhes_global = {
 				136050, -- [5]
 				["id"] = 2105,
 			},
-			["179909"] = {
-				"Gorefiend", -- [1]
-				"179909", -- [2]
-				"Shared Fate", -- [3]
-				18, -- [4]
-				607854, -- [5]
-				["id"] = 1783,
+			["325936"] = {
+				"Lady Inerva Darkvein", -- [1]
+				"325936", -- [2]
+				"Shared Cognition", -- [3]
+				10, -- [4]
+				135767, -- [5]
+				["id"] = 2406,
 			},
 			["269029"] = {
 				"Dread Captain Lockwood", -- [1]
@@ -29195,13 +29223,13 @@ _detalhes_global = {
 				132306, -- [5]
 				["id"] = 2109,
 			},
-			["306930"] = {
-				"Shad'har the Insatiable", -- [1]
-				"306930", -- [2]
-				"Entropic Breath", -- [3]
-				20, -- [4]
-				236302, -- [5]
-				["id"] = 2335,
+			["186123"] = {
+				"Archimonde", -- [1]
+				"186123", -- [2]
+				"Wrought Chaos", -- [3]
+				7, -- [4]
+				828455, -- [5]
+				["id"] = 1799,
 			},
 			["327646"] = {
 				"Mueh'zala", -- [1]
@@ -29211,13 +29239,13 @@ _detalhes_global = {
 				1354410, -- [5]
 				["id"] = 2396,
 			},
-			["318406"] = {
-				"Gorechop", -- [1]
-				"318406", -- [2]
-				"Tenderizing Smash", -- [3]
-				13.1, -- [4]
-				623773, -- [5]
-				["id"] = 2365,
+			["285459"] = {
+				"Lady Jaina Proudmoore", -- [1]
+				"285459", -- [2]
+				"Ring of Ice (1)", -- [3]
+				60, -- [4]
+				464484, -- [5]
+				["id"] = 2281,
 			},
 			["291865"] = {
 				"King Mechagon", -- [1]
@@ -29235,21 +29263,21 @@ _detalhes_global = {
 				1726347, -- [5]
 				["id"] = 2111,
 			},
-			["315762"] = {
-				"Vexiona", -- [1]
-				"315762", -- [2]
-				"Twilight Decimator (1)", -- [3]
-				10.7, -- [4]
-				132291, -- [5]
-				["id"] = 2336,
+			["288696"] = {
+				"Stormwall Blockade", -- [1]
+				"288696", -- [2]
+				"<Cast: Catastrophic Tides>", -- [3]
+				15, -- [4]
+				971078, -- [5]
+				["id"] = 2280,
 			},
-			["297566"] = {
-				"The Queen's Court", -- [1]
-				"297566", -- [2]
-				"Deferred Sentence", -- [3]
-				40, -- [4]
-				237587, -- [5]
-				["id"] = 2311,
+			["257777"] = {
+				"Jes Howlis", -- [1]
+				"257777", -- [2]
+				"Crippling Shiv", -- [3]
+				7, -- [4]
+				132290, -- [5]
+				["id"] = 2102,
 			},
 			["321009"] = {
 				"Kin-Tara", -- [1]
@@ -29267,13 +29295,13 @@ _detalhes_global = {
 				132291, -- [5]
 				["id"] = 1798,
 			},
-			["-22131"] = {
-				"Sire Denathrius", -- [1]
-				"-22131", -- [2]
-				"Adds (1)", -- [3]
-				4, -- [4]
-				3528307, -- [5]
-				["id"] = 2407,
+			["313184"] = {
+				"N'Zoth, the Corruptor", -- [1]
+				"313184", -- [2]
+				"Synaptic Shock (1): Psychus", -- [3]
+				20, -- [4]
+				237552, -- [5]
+				["id"] = 2344,
 			},
 			["282205"] = {
 				"High Tinker Mekkatorque", -- [1]
@@ -29299,13 +29327,13 @@ _detalhes_global = {
 				524795, -- [5]
 				["id"] = 2402,
 			},
-			["259187"] = {
-				"Yazma", -- [1]
-				"259187", -- [2]
-				"Soulrend", -- [3]
-				9.7, -- [4]
-				1354410, -- [5]
-				["id"] = 2087,
+			["306930"] = {
+				"Shad'har the Insatiable", -- [1]
+				"306930", -- [2]
+				"Entropic Breath", -- [3]
+				20, -- [4]
+				236302, -- [5]
+				["id"] = 2335,
 			},
 			["324527"] = {
 				"Globgrog", -- [1]
@@ -29315,21 +29343,21 @@ _detalhes_global = {
 				1044089, -- [5]
 				["id"] = 2382,
 			},
-			["336258"] = {
-				"Domina Venomblade", -- [1]
-				"336258", -- [2]
-				"Solitary Prey on YOU", -- [3]
-				6, -- [4]
-				892448, -- [5]
-				["id"] = 2385,
+			["319713"] = {
+				"Kryxis the Voracious", -- [1]
+				"319713", -- [2]
+				"Juggernaut Rush", -- [3]
+				22.8, -- [4]
+				132335, -- [5]
+				["id"] = 2360,
 			},
-			["342256"] = {
-				"Stone Legion Generals", -- [1]
-				"342256", -- [2]
-				"Call Shadow Forces", -- [3]
-				60, -- [4]
-				3160258, -- [5]
-				["id"] = 2417,
+			["341621"] = {
+				"Lady Inerva Darkvein", -- [1]
+				"341621", -- [2]
+				"Desires", -- [3]
+				12, -- [4]
+				3684826, -- [5]
+				["id"] = 2406,
 			},
 			["298103"] = {
 				"Orgozoa", -- [1]
@@ -29339,13 +29367,13 @@ _detalhes_global = {
 				576309, -- [5]
 				["id"] = 2303,
 			},
-			["269131"] = {
-				"Lord Stormsong", -- [1]
-				"269131", -- [2]
-				"Ancient Mindbender", -- [3]
-				22, -- [4]
-				462324, -- [5]
-				["id"] = 2132,
+			["185345"] = {
+				"Shadow-Lord Iskar", -- [1]
+				"185345", -- [2]
+				"Shadow Riposte", -- [3]
+				9.5, -- [4]
+				132354, -- [5]
+				["id"] = 1788,
 			},
 			["67382"] = {
 				"Doctor Ickus", -- [1]
@@ -29363,13 +29391,13 @@ _detalhes_global = {
 				2101174, -- [5]
 				["id"] = 2417,
 			},
-			["271698"] = {
-				"Tik'ali", -- [1]
-				"271698", -- [2]
-				"Azerite Infusion", -- [3]
-				20, -- [4]
-				612968, -- [5]
-				["id"] = 2106,
+			["313960"] = {
+				"N'Zoth, the Corruptor", -- [1]
+				"313960", -- [2]
+				"Black Volley", -- [3]
+				34, -- [4]
+				132323, -- [5]
+				["id"] = 2344,
 			},
 			["261440"] = {
 				"Lord and Lady Waycrest", -- [1]
@@ -29411,21 +29439,21 @@ _detalhes_global = {
 				524795, -- [5]
 				["id"] = 2259,
 			},
-			["291613"] = {
-				"King Mechagon", -- [1]
-				"291613", -- [2]
-				"Take Off!", -- [3]
-				30, -- [4]
-				133029, -- [5]
-				["id"] = 2260,
+			["330711"] = {
+				"Shriekwing", -- [1]
+				"330711", -- [2]
+				"Earsplitting Shriek (1)", -- [3]
+				13, -- [4]
+				136147, -- [5]
+				["id"] = 2398,
 			},
-			["306828"] = {
-				"Thrall", -- [1]
-				"306828", -- [2]
-				"Defiled Ground", -- [3]
-				12.1, -- [4]
-				136201, -- [5]
-				["id"] = 2332,
+			["328789"] = {
+				"Artificer Xy'mox", -- [1]
+				"328789", -- [2]
+				"Annihilate (1)", -- [3]
+				28, -- [4]
+				2101973, -- [5]
+				["id"] = 2405,
 			},
 			["nil"] = {
 				"Pull", -- [1]
@@ -29435,21 +29463,29 @@ _detalhes_global = {
 				132337, -- [5]
 				["id"] = 2329,
 			},
-			["227736"] = {
-				"Moroes", -- [1]
-				"227736", -- [2]
-				"Vanish", -- [3]
-				7, -- [4]
-				132331, -- [5]
-				["id"] = 1961,
+			["284686"] = {
+				"King Rastakhan", -- [1]
+				"284686", -- [2]
+				"Meteor Leap", -- [3]
+				15.5, -- [4]
+				236171, -- [5]
+				["id"] = 2272,
 			},
-			["182200"] = {
-				"Shadow-Lord Iskar", -- [1]
-				"182200", -- [2]
-				"Fel Chakram", -- [3]
-				5.5, -- [4]
-				1016243, -- [5]
-				["id"] = 1788,
+			["321368"] = {
+				"Nalthor the Rimebinder", -- [1]
+				"321368", -- [2]
+				"Icebound Aegis", -- [3]
+				13, -- [4]
+				236224, -- [5]
+				["id"] = 2390,
+			},
+			["342425"] = {
+				"Stone Legion Generals", -- [1]
+				"342425", -- [2]
+				"Stone Fist", -- [3]
+				34.9, -- [4]
+				136225, -- [5]
+				["id"] = 2417,
 			},
 			["346651"] = {
 				"The Council of Blood", -- [1]
@@ -29475,21 +29511,13 @@ _detalhes_global = {
 				458969, -- [5]
 				["id"] = 2337,
 			},
-			["270028"] = {
-				"Rixxa Fluxflame", -- [1]
-				"270028", -- [2]
-				"Azerite Catalyst", -- [3]
-				4, -- [4]
-				135789, -- [5]
-				["id"] = 2107,
-			},
-			["181557"] = {
-				"Mannoroth", -- [1]
-				"181557", -- [2]
-				"Fel Hellstorm", -- [3]
-				30, -- [4]
-				135804, -- [5]
-				["id"] = 1795,
+			["warmup"] = {
+				"Lord Stormsong", -- [1]
+				"warmup", -- [2]
+				"Active", -- [3]
+				19, -- [4]
+				"Interface\\Icons\\achievement_dungeon_shrineofthestorm", -- [5]
+				["id"] = 2132,
 			},
 			["181912"] = {
 				"Shadow-Lord Iskar", -- [1]
@@ -29523,13 +29551,13 @@ _detalhes_global = {
 				236189, -- [5]
 				["id"] = 2268,
 			},
-			["267830"] = {
-				"Tidesage Coucil", -- [1]
-				"267830", -- [2]
-				"Blessing of the Tempest", -- [3]
-				26.7, -- [4]
-				135863, -- [5]
-				["id"] = 2131,
+			["308044"] = {
+				"Maut", -- [1]
+				"308044", -- [2]
+				"Stygian Annihilation", -- [3]
+				41, -- [4]
+				463286, -- [5]
+				["id"] = 2327,
 			},
 			["306726"] = {
 				"Vez'okk the Lightless", -- [1]
@@ -29547,13 +29575,13 @@ _detalhes_global = {
 				136025, -- [5]
 				["id"] = 2106,
 			},
-			["182459"] = {
-				"Tyrant Velhari", -- [1]
-				"182459", -- [2]
-				"Edict of Condemnation", -- [3]
-				57, -- [4]
-				801000, -- [5]
-				["id"] = 1784,
+			["315762"] = {
+				"Vexiona", -- [1]
+				"315762", -- [2]
+				"Twilight Decimator (1)", -- [3]
+				10.7, -- [4]
+				132291, -- [5]
+				["id"] = 2336,
 			},
 			["264757"] = {
 				"Elder Leaxa", -- [1]
@@ -29562,22 +29590,6 @@ _detalhes_global = {
 				9, -- [4]
 				1394887, -- [5]
 				["id"] = 2111,
-			},
-			["305722"] = {
-				"Maut", -- [1]
-				"305722", -- [2]
-				"<Cast: Obsidian Shatter>", -- [3]
-				60, -- [4]
-				399041, -- [5]
-				["id"] = 2327,
-			},
-			["186407"] = {
-				"Xhul'horac", -- [1]
-				"186407", -- [2]
-				"Fel Surge", -- [3]
-				19, -- [4]
-				841221, -- [5]
-				["id"] = 1800,
 			},
 			["181827"] = {
 				"Shadow-Lord Iskar", -- [1]
@@ -29619,6 +29631,22 @@ _detalhes_global = {
 				537022, -- [5]
 				["id"] = 2333,
 			},
+			["342256"] = {
+				"Stone Legion Generals", -- [1]
+				"342256", -- [2]
+				"Call Shadow Forces", -- [3]
+				60, -- [4]
+				3160258, -- [5]
+				["id"] = 2417,
+			},
+			["329107"] = {
+				"Artificer Xy'mox", -- [1]
+				"329107", -- [2]
+				"<Cast: Extinction (1)>", -- [3]
+				12, -- [4]
+				3636841, -- [5]
+				["id"] = 2405,
+			},
 			["296551"] = {
 				"Abyssal Commander Sivara", -- [1]
 				"296551", -- [2]
@@ -29626,22 +29654,6 @@ _detalhes_global = {
 				40, -- [4]
 				1412208, -- [5]
 				["id"] = 2298,
-			},
-			["295099"] = {
-				"Za'qul, Herald of Ny'alotha", -- [1]
-				"295099", -- [2]
-				"Punctured Darkness", -- [3]
-				25, -- [4]
-				607852, -- [5]
-				["id"] = 2293,
-			},
-			["282082"] = {
-				"Grong Horde", -- [1]
-				"282082", -- [2]
-				"Bestial Combo", -- [3]
-				22, -- [4]
-				2065583, -- [5]
-				["id"] = 2263,
 			},
 			["260292"] = {
 				"Infested Crawg", -- [1]
@@ -29651,13 +29663,13 @@ _detalhes_global = {
 				2011119, -- [5]
 				["id"] = 2118,
 			},
-			["298898"] = {
-				"Trixie & Naeno", -- [1]
-				"298898", -- [2]
-				"Roll Out!", -- [3]
-				53.5, -- [4]
-				2902999, -- [5]
-				["id"] = 2312,
+			["303657"] = {
+				"Queen Azshara", -- [1]
+				"303657", -- [2]
+				"Arcane Burst", -- [3]
+				43, -- [4]
+				1391780, -- [5]
+				["id"] = 2299,
 			},
 			["183963"] = {
 				"Archimonde", -- [1]
@@ -29667,29 +29679,45 @@ _detalhes_global = {
 				135981, -- [5]
 				["id"] = 1799,
 			},
-			["286742"] = {
-				"King Rastakhan", -- [1]
-				"286742", -- [2]
-				"Necrotic Smash", -- [3]
-				28.5, -- [4]
-				2576095, -- [5]
-				["id"] = 2272,
+			["298898"] = {
+				"Trixie & Naeno", -- [1]
+				"298898", -- [2]
+				"Roll Out!", -- [3]
+				53.5, -- [4]
+				2902999, -- [5]
+				["id"] = 2312,
 			},
-			["250096"] = {
-				"Yazma", -- [1]
-				"250096", -- [2]
-				"Wracking Pain", -- [3]
-				3.7, -- [4]
-				236300, -- [5]
-				["id"] = 2087,
+			["326039"] = {
+				"Grand Proctor Beryllia", -- [1]
+				"326039", -- [2]
+				"Endless Torment", -- [3]
+				38.8, -- [4]
+				1394887, -- [5]
+				["id"] = 2362,
 			},
-			["257882"] = {
-				"Hadal Darkfathom", -- [1]
-				"257882", -- [2]
-				"Break Water", -- [3]
-				7, -- [4]
-				135861, -- [5]
-				["id"] = 2099,
+			["323149"] = {
+				"Ingra Maloch", -- [1]
+				"323149", -- [2]
+				"Embrace Darkness", -- [3]
+				36, -- [4]
+				252272, -- [5]
+				["id"] = 2397,
+			},
+			["180300"] = {
+				"Tyrant Velhari", -- [1]
+				"180300", -- [2]
+				"Infernal Tempest", -- [3]
+				40, -- [4]
+				796638, -- [5]
+				["id"] = 1784,
+			},
+			["268278"] = {
+				"Lord and Lady Waycrest", -- [1]
+				"268278", -- [2]
+				"Wracking Chord", -- [3]
+				8, -- [4]
+				136181, -- [5]
+				["id"] = 2116,
 			},
 			["181597"] = {
 				"Mannoroth", -- [1]
@@ -29739,21 +29767,21 @@ _detalhes_global = {
 				1060569, -- [5]
 				["id"] = 2404,
 			},
-			["307359"] = {
-				"Vexiona", -- [1]
-				"307359", -- [2]
-				"Despair", -- [3]
-				10, -- [4]
-				237552, -- [5]
-				["id"] = 2336,
+			["329455"] = {
+				"Hungering Destroyer", -- [1]
+				"329455", -- [2]
+				"Desolate (1)", -- [3]
+				22, -- [4]
+				1778230, -- [5]
+				["id"] = 2383,
 			},
-			["183329"] = {
-				"Socrethar the Eternal", -- [1]
-				"183329", -- [2]
-				"Apocalypse (1)", -- [3]
-				51.5, -- [4]
-				136204, -- [5]
-				["id"] = 1794,
+			["297566"] = {
+				"The Queen's Court", -- [1]
+				"297566", -- [2]
+				"Deferred Sentence", -- [3]
+				40, -- [4]
+				237587, -- [5]
+				["id"] = 2311,
 			},
 			["319685"] = {
 				"Kryxis the Voracious", -- [1]
@@ -29771,6 +29799,14 @@ _detalhes_global = {
 				620828, -- [5]
 				["id"] = 2112,
 			},
+			["267360"] = {
+				"Vol'zith the Whisperer", -- [1]
+				"267360", -- [2]
+				"Grasp of the Sunken City", -- [3]
+				20.5, -- [4]
+				136194, -- [5]
+				["id"] = 2133,
+			},
 			["295916"] = {
 				"Radiance of Azshara", -- [1]
 				"295916", -- [2]
@@ -29779,29 +29815,21 @@ _detalhes_global = {
 				1029585, -- [5]
 				["id"] = 2305,
 			},
-			["257777"] = {
-				"Jes Howlis", -- [1]
-				"257777", -- [2]
-				"Crippling Shiv", -- [3]
-				7, -- [4]
-				132290, -- [5]
-				["id"] = 2102,
+			["323878"] = {
+				"Oryphrion", -- [1]
+				"323878", -- [2]
+				"Drained", -- [3]
+				89, -- [4]
+				237587, -- [5]
+				["id"] = 2358,
 			},
-			["337110"] = {
-				"The Council of Blood", -- [1]
-				"337110", -- [2]
-				"Dreadbolt Volley", -- [3]
-				6, -- [4]
-				3528310, -- [5]
-				["id"] = 2412,
-			},
-			["313184"] = {
-				"N'Zoth, the Corruptor", -- [1]
-				"313184", -- [2]
-				"Synaptic Shock (1): Psychus", -- [3]
-				20, -- [4]
-				237552, -- [5]
-				["id"] = 2344,
+			["-22131"] = {
+				"Sire Denathrius", -- [1]
+				"-22131", -- [2]
+				"Adds (1)", -- [3]
+				4, -- [4]
+				3528307, -- [5]
+				["id"] = 2407,
 			},
 			["325877"] = {
 				"Sun King's Salvation", -- [1]
@@ -29883,14 +29911,14 @@ _detalhes_global = {
 		["Echo Finger Laser X-treme"] = 4,
 		["Faeline Stomp"] = 8,
 		["Void Rend"] = 32,
-		["Incendiary Rounds"] = 4,
+		["Aerial Rocket Chicken Barrage"] = 4,
 		["Stygian Annihilation"] = 32,
 		["Spine Eruption"] = 1,
 		["Curse of Stone"] = 8,
 		["Heart Hemorrhage"] = 32,
 		["Acid Splash"] = 8,
 		["Caress of Death"] = 32,
-		["Firebolt"] = 4,
+		["Erupting Stone"] = 1,
 		["Hack Tendon"] = 1,
 		["Frost Strike Off-Hand"] = 16,
 		["Container Breach"] = 32,
@@ -29901,7 +29929,7 @@ _detalhes_global = {
 		["Putrid Waters"] = 16,
 		["Incineration"] = 4,
 		["Multi-Sided Strike"] = 1,
-		["Carnage"] = 1,
+		["Execution Sentence"] = 2,
 		["Cascading Terror"] = 32,
 		["Dark Devastation"] = 32,
 		["Volcanic Pressure"] = 4,
@@ -29916,13 +29944,13 @@ _detalhes_global = {
 		["Serrated Tear"] = 1,
 		["Death Bolt"] = 32,
 		["Indemnification"] = 32,
-		["Cave In"] = 1,
+		["Rotten Strike"] = 8,
 		["Roaring Tides"] = 16,
-		["Great Worm's Foul Stench"] = 1,
+		["Grievous Wound"] = 1,
 		["Comet Storm"] = 16,
 		["Dark Passage"] = 32,
 		["Dark Bolt"] = 32,
-		["Thorned Barrage"] = 1,
+		["Avalanche"] = 16,
 		["Plague Rot"] = 8,
 		["Umbral Mantle"] = 32,
 		["Sea Swell"] = 16,
@@ -29930,11 +29958,11 @@ _detalhes_global = {
 		["Volatile Corruption"] = 32,
 		["Void Miasma"] = 1,
 		["Bombard"] = 4,
-		["Spilled Essence"] = 32,
+		["Pulverizing Meteor"] = 8,
 		["Slicing Hurricane"] = 8,
 		["Cursed Heart"] = 32,
 		["Necrotic Breath"] = 32,
-		["Grab"] = 1,
+		["Eye of the Tiger"] = 8,
 		["Replicated Anima"] = 32,
 		["Venomblades"] = 8,
 		["Stygian Corruption"] = 32,
@@ -29942,7 +29970,7 @@ _detalhes_global = {
 		["Hyperdrive Discharge"] = 8,
 		["Remorseless Winter"] = 16,
 		["Deathchill"] = 16,
-		["Cutting Coral"] = 8,
+		["Shadow Claws"] = 1,
 		["Void Glare"] = 32,
 		["Extra Sharp Claws"] = 1,
 		["Twisting Void"] = 32,
@@ -29951,14 +29979,14 @@ _detalhes_global = {
 		["Piston Smasher"] = 1,
 		["Anguish"] = 32,
 		["Unstable Void Burst"] = 32,
-		["Acid Spray"] = 8,
+		["Sins of the Past"] = 32,
 		["Gastric Fluids"] = 32,
 		["Growth-Covered Tentacle"] = 8,
 		["Beam"] = 4,
 		["Dark Heartbeat"] = 96,
-		["Ire of the Deep"] = 16,
+		["Power Overwhelming"] = 64,
 		["Withering Touch"] = 8,
-		["Sheep Shrapnel"] = 4,
+		["Azerite Spike"] = 4,
 		["Entropic Explosion"] = 32,
 		["Cursed Blood"] = 32,
 		["Sea Storm"] = 16,
@@ -29975,40 +30003,40 @@ _detalhes_global = {
 		["Cataclysmic Flames"] = 4,
 		["Aura of Thorns"] = 1,
 		["Lava Pools"] = 4,
-		["Anima Fountain"] = 32,
+		["Eye of Corruption"] = 32,
 		["Atonement"] = 1,
-		["Decomposing Acid"] = 8,
+		["Overwhelming Power!"] = 64,
 		["Harvest Thoughts"] = 32,
-		["Blossom Blast"] = 8,
+		["Psychic Reverberations"] = 32,
 		["Whirlwind"] = 1,
-		["Necrotic Ichor"] = 32,
+		["Aerial Bombardment"] = 32,
 		["Metallic Jaws"] = 1,
 		["Health Funnel"] = 32,
 		["Rimefrost"] = 16,
 		["Clinging Static"] = 8,
-		["Toxic Fumes"] = 40,
+		["Stonequake"] = 1,
 		["Crystalline Burst"] = 8,
 		["Eruption"] = 4,
 		["Purification Protocol"] = 4,
-		["Shattering Chain"] = 1,
-		["Mycelial Growth"] = 8,
+		["Magneto-Arm"] = 8,
+		["Scorching Ground"] = 4,
 		["Tiro-Autom�tico"] = 1,
 		["Wracking Pain"] = 32,
 		["Shadow Bite"] = 32,
 		["Earsplitting Shriek"] = 1,
 		["Blood Barrage"] = 32,
-		["Unstable Vita"] = 8,
+		["Illusionary Bolt"] = 32,
 		["Nightmare Antibody"] = 32,
-		["Liquefying Ooze"] = 8,
-		["Cobra Shot"] = 1,
-		["Iron Whirlwind"] = 1,
+		["Shadow Wounds"] = 32,
+		["Manifest Death"] = 32,
+		["Crumbling Foundation"] = 1,
 		["Ghostly Charge"] = 32,
-		["Bite"] = 1,
+		["Shoot"] = 1,
 		["Ancient Curse"] = 1,
 		["Curse of Moldovaak"] = 32,
 		["Juggernaut Rush"] = 1,
 		["Howling Blast"] = 16,
-		["Gash"] = 1,
+		["Breath of Sindragosa"] = 16,
 		["Murder Prey"] = 1,
 		["Pyroclastic Flow"] = 4,
 		["Gore"] = 1,
@@ -30018,8 +30046,8 @@ _detalhes_global = {
 		["Dribbling Ichor"] = 8,
 		["Hand of Destruction"] = 32,
 		["Crimson Flurry"] = 1,
-		["Putrid Blood"] = 32,
-		["Massacre"] = 32,
+		["Plague Annihilation"] = 40,
+		["Black Scar"] = 32,
 		["Shared Suffering"] = 32,
 		["Manic Dread"] = 32,
 		["Piercing Barb"] = 32,
@@ -30030,18 +30058,18 @@ _detalhes_global = {
 		["Micro Missiles"] = 4,
 		["Null Barrier"] = 32,
 		["Annihilation Pulse"] = 8,
-		["Lightning Shield"] = 8,
+		["Crushing Reverberation"] = 1,
 		["Curse of the Legion"] = 32,
 		["Storming"] = 8,
 		["Gigavolt Charge"] = 8,
-		["Massive Siege Nova"] = 4,
+		["Retribution Wave"] = 2,
 		["Master of Death"] = 32,
 		["Grasping Tendrils"] = 32,
-		["Malleable Goo"] = 40,
+		["Destructive Impact"] = 1,
 		["Overwhelming Frost"] = 16,
 		["Soul Spikes"] = 32,
 		["Consecration"] = 2,
-		["Alpha Cannon"] = 4,
+		["Death Blow"] = 32,
 		["Recurring Nightmare"] = 32,
 		["Fear"] = 32,
 		["Toxic Bolt Volley"] = 8,
@@ -30049,40 +30077,41 @@ _detalhes_global = {
 		["Toxic Pool"] = 8,
 		["Seal of Bwonsamdi"] = 32,
 		["Chilled"] = 16,
-		["Ancient Tempest"] = 8,
+		["Wrack Soul"] = 32,
 		["Paranoia"] = 32,
 		["Dusk Elegy"] = 32,
 		["Throw Flesh"] = 40,
-		["Stone Shards"] = 8,
+		["Break Water"] = 16,
 		["Flash"] = 4,
 		["Propellant Blast"] = 8,
 		["Hammer of the Righteous"] = 2,
 		["Shroud of Sorrow"] = 32,
 		["Unstable Void"] = 32,
-		["Unstable Affliction"] = 32,
+		["Grasping Hands"] = 32,
 		["Morass of Corruption"] = 32,
 		["Briny Bubble"] = 8,
-		["Toxic Brand"] = 8,
+		["Void Corruption"] = 32,
 		["Light's Decree"] = 2,
 		["Twisting Thorns"] = 8,
 		["Telekinetic Collision"] = 1,
-		["Concentrated Anima"] = 32,
+		["Intimidating Shout"] = 1,
 		["Slime Puddle"] = 40,
 		["Freezing Tidepool"] = 16,
 		["Debilitating Spit"] = 8,
 		["Encroaching Shadows"] = 32,
 		["Reality Tear"] = 32,
-		["Unleashed Nightmare"] = 32,
+		["Shredding Claws"] = 1,
 		["Rising Heat"] = 4,
-		["Gilded Claws"] = 1,
-		["Shattered"] = 8,
 		["Voracious Charge"] = 1,
-		["Shadow Word: Death"] = 32,
-		["Soul Brand"] = 32,
-		["Slurry Outburst"] = 32,
-		["Self-Trimming Hedge"] = 1,
-		["Stone Claws"] = 1,
+		["Whirling Jade Storm"] = 8,
 		["Arcane Vulnerability"] = 64,
+		["Self-Trimming Hedge"] = 1,
+		["Chi-Ji's Song"] = 8,
+		["Judgment"] = 2,
+		["Umbral Aversion"] = 32,
+		["Shadow Bolt"] = 32,
+		["Stone Claws"] = 1,
+		["Surging Darkness"] = 32,
 		["Crushing Depths"] = 1,
 		["Heavy Hitter"] = 1,
 		["Akunda's Wrath"] = 8,
@@ -30091,81 +30120,81 @@ _detalhes_global = {
 		["Burned Bridge"] = 32,
 		["Fists of Fury"] = 1,
 		["Slashing Rend"] = 1,
-		["Intimidating Shout"] = 1,
+		["Shattered"] = 8,
 		["Mental Decay"] = 32,
 		["Noxious Spores"] = 40,
 		["Crushing Embrace"] = 1,
 		["Death Grasp"] = 32,
-		["Radiant Biomass"] = 8,
+		["Painful Memories"] = 32,
 		["Lightning Orbs"] = 8,
-		["Wrack Soul"] = 32,
-		["Umbral Aversion"] = 32,
-		["Void Prison"] = 32,
+		["Searing Pitch"] = 4,
+		["Darkened Heart"] = 96,
+		["Radiant Biomass"] = 8,
 		["Arcane Orb"] = 64,
 		["Heed My Call"] = 8,
-		["Immolation Aura"] = 4,
-		["Searing Pitch"] = 4,
+		["Bore Flesh"] = 1,
+		["Mind Blast"] = 32,
 		["Nightmare Pool"] = 32,
 		["Bleeding Wounds"] = 1,
 		["Unstable Footing"] = 8,
 		["Revile"] = 32,
-		["Unleashed Ember"] = 4,
+		["Death Sweep"] = 1,
 		["Drain Soul"] = 32,
 		["Searing Death"] = 32,
-		["Arcane Missiles"] = 64,
-		["Grasping Hands"] = 32,
+		["Munitions Barrel"] = 4,
+		["Expunge"] = 32,
 		["Wake of Ashes"] = 6,
 		["Frost Fever"] = 16,
 		["Shuriken Toss"] = 1,
 		["Corrosion"] = 8,
 		["Fel Armament"] = 4,
 		["Kelp-Wrapped"] = 8,
-		["Expunge"] = 32,
+		["Immolation Aura"] = 4,
 		["Molten Eruption"] = 4,
-		["Soulless"] = 32,
-		["Munitions Barrel"] = 4,
-		["Shadow Bolt"] = 32,
-		["Painful Memories"] = 32,
+		["Toxic Brand"] = 8,
+		["Shadow Word: Death"] = 32,
+		["Soul Brand"] = 32,
+		["Oozing Outbreak"] = 8,
 		["Cluster Bombardment"] = 32,
 		["Razorice"] = 16,
-		["Seismic Leap"] = 1,
+		["Unleashed Ember"] = 4,
 		["Change of Heart"] = 32,
-		["Bore Flesh"] = 1,
+		["Fatal Finesse"] = 32,
 		["Demon's Bite"] = 1,
-		["Arcane Bomb"] = 64,
-		["Lifebloom"] = 8,
-		["Entropic Echo"] = 32,
-		["Break Water"] = 16,
-		["Venting Flames"] = 4,
+		["Void Prison"] = 32,
+		["Slurry Outburst"] = 32,
+		["Pyroblast"] = 4,
+		["Seismic Leap"] = 1,
+		["Ruin"] = 40,
 		["Hungering Drain"] = 32,
 		["Ring of Hostility"] = 1,
-		["Ruin"] = 40,
+		["Concentrated Anima"] = 32,
 		["Bitten Hand"] = 1,
-		["Shredding Claws"] = 1,
-		["Vile Expulsion"] = 32,
+		["Unstable Affliction"] = 32,
+		["Infinite Darkness"] = 32,
 		["Festering Rot"] = 40,
-		["Void Corruption"] = 32,
-		["Gooped"] = 40,
+		["Rippling Wave"] = 16,
+		["Void Gaze"] = 32,
 		["Insanity Bomb"] = 32,
 		["Sintouched Anima"] = 32,
 		["Crushed Soul"] = 32,
-		["Necrotic Bolt"] = 32,
+		["Consume"] = 32,
 		["Rejuvenation"] = 8,
 		["Lingering Embers"] = 4,
-		["Frozen Ground"] = 16,
 		["Greater Castigation"] = 32,
 		["Explosive Ordnance"] = 4,
+		["Explosive Burst"] = 4,
 		["Mind Link"] = 32,
-		["Jaws of Stone"] = 1,
+		["Massive Siege Nova"] = 4,
 		["Obliterate Off-Hand"] = 1,
 		["Echos of Carnage"] = 32,
-		["Death Sweep"] = 1,
+		["Delirious Slash"] = 1,
 		["Event Horizon"] = 32,
 		["Decaying Spores"] = 40,
-		["System Shock"] = 65,
-		["Consume"] = 32,
+		["Explosive Void"] = 32,
+		["Frozen Ground"] = 16,
 		["Blistering Tornado"] = 16,
-		["Plasma Orb"] = 8,
+		["Lingering Anima"] = 32,
 		["Meaty Rampage"] = 1,
 		["Incubation Fluid"] = 8,
 		["Venom-Laced Web"] = 8,
@@ -30176,72 +30205,72 @@ _detalhes_global = {
 		["Gold Burst"] = 1,
 		["Fragments of Shadow"] = 32,
 		["Chomp"] = 1,
-		["Lingering Anima"] = 32,
+		["Anima Fountain"] = 32,
 		["Empowered Forge Breath"] = 4,
-		["Concentrated Plague"] = 8,
-		["Crushing Reverberation"] = 1,
-		["Glacial Shards"] = 16,
+		["Blade Dance"] = 1,
 		["Wrong Moves"] = 32,
+		["Glacial Shards"] = 16,
+		["Aura of Apathy"] = 1,
 		["Rotten Expulsion"] = 8,
 		["Felfire Munitions"] = 4,
-		["Twilight Breath"] = 32,
+		["Blossom Blast"] = 8,
 		["Gigavolt Blast"] = 8,
 		["Creeping Blaze"] = 4,
-		["Retribution Wave"] = 2,
-		["Explosive Void"] = 32,
-		["Unstable Mixture"] = 8,
-		["Chi-Ji's Song"] = 8,
-		["Garrote"] = 1,
+		["Stone Shards"] = 8,
+		["Unbound Cosmos"] = 32,
+		["Plasma Orb"] = 8,
+		["Lightning Shield"] = 8,
+		["Malleable Goo"] = 40,
 		["Contempt"] = 16,
-		["Explosive Burst"] = 4,
-		["Umbral Eruption"] = 32,
+		["Gooped"] = 40,
 		["Eye Beam"] = 124,
+		["Crash"] = 1,
 		["Amniotic Splatter"] = 8,
 		["Bloodbound"] = 1,
 		["Anima Field"] = 64,
-		["Psychic Reverberations"] = 32,
+		["Broadside"] = 64,
 		["Meat Hook"] = 1,
-		["Crash"] = 1,
+		["Piercing Gaze"] = 32,
 		["Servant of N'Zoth"] = 32,
 		["Waltz of Blood"] = 32,
 		["Necrotic Blast"] = 32,
 		["Corrupted Blood"] = 32,
-		["Dissolve"] = 8,
-		["Gutripper"] = 1,
+		["Arcane Missiles"] = 64,
+		["Chains of Servitude"] = 32,
+		["Massacre"] = 32,
 		["Phoenix Strike"] = 4,
-		["Reaping Scythe"] = 1,
 		["Blowback"] = 8,
 		["Brine Pool"] = 16,
 		["Ignite"] = 4,
-		["Black Scar"] = 32,
-		["Anima Shedding"] = 1,
+		["Rising Sun Kick"] = 1,
 		["Lash of the Void"] = 32,
-		["Piercing Gaze"] = 32,
+		["Rising Flames"] = 4,
 		["Residue"] = 32,
-		["Tainted Blood"] = 32,
-		["Crumbling Foundation"] = 1,
+		["Bursting Ooze"] = 1,
+		["Gash"] = 1,
+		["Acid Spray"] = 8,
 		["Twisted Pain"] = 1,
-		["Soulrend"] = 32,
 		["Searing Armor"] = 4,
+		["Belch Flame"] = 4,
 		["Soul Manipulation"] = 32,
 		["Tiki Blaze"] = 4,
 		["Crash Down"] = 1,
-		["Cannon Blast"] = 8,
+		["Bite"] = 1,
 		["Vanquished"] = 1,
 		["Dark Stride"] = 1,
-		["Shoot"] = 8,
-		["Breath of Sindragosa"] = 16,
-		["Judgment"] = 2,
+		["Cannon Blast"] = 8,
 		["Penance"] = 2,
-		["Nullification"] = 32,
+		["Iron Whirlwind"] = 1,
+		["Localized Explosive Contrivance"] = 64,
+		["Liquefying Ooze"] = 8,
 		["Charged Spear"] = 64,
 		["Loose Anima"] = 32,
 		["Vent Blast"] = 8,
-		["Drain Essence"] = 32,
-		["Aura of Apathy"] = 1,
-		["Explosive Leap"] = 4,
+		["Unstable Vita"] = 8,
 		["Noxious Stench"] = 8,
-		["Maddening Eruption"] = 32,
+		["Explosive Leap"] = 4,
+		["Arcing Azerite"] = 64,
+		["Fall of the Unworthy"] = 1,
 		["Life Link"] = 1,
 		["Immediate Extermination"] = 32,
 		["Cataclysm"] = 36,
@@ -30251,143 +30280,143 @@ _detalhes_global = {
 		["Barrage"] = 4,
 		["Shattered Dominion"] = 32,
 		["Delirium's Descent"] = 32,
-		["Scorching Ground"] = 4,
+		["Toxic Bolt"] = 8,
 		["Smoldering Remnants"] = 4,
-		["Upheaval"] = 1,
+		["Eyes on Target"] = 1,
 		["Shadowy Residue"] = 32,
 		["Sanction"] = 64,
-		["Arcing Azerite"] = 64,
+		["Obliterating Rift"] = 32,
 		["Vile Gas"] = 40,
-		["Devoured Abyss"] = 32,
-		["Stonequake"] = 1,
-		["Slime Wave"] = 8,
-		["Oppressive Atmosphere"] = 32,
-		["Cursebreak"] = 32,
-		["Archon's Bastion"] = 1,
-		["Scorn"] = 32,
-		["Harrow"] = 1,
-		["Magneto-Arm"] = 8,
 		["Melee"] = 1,
+		["Archon's Bastion"] = 1,
+		["Slime Wave"] = 8,
+		["Twilight Breath"] = 32,
+		["Cursebreak"] = 32,
+		["Volcanic Plume"] = 4,
+		["Blood Torrent"] = 32,
+		["Harrow"] = 1,
+		["Unleashed Shadow"] = 32,
+		["Umbral Eruption"] = 32,
 		["Spring Blossoms"] = 8,
 		["Orb of Frost"] = 16,
-		["Unleashed Shadow"] = 32,
-		["Overwhelming Power!"] = 64,
-		["Molten Gold"] = 4,
+		["Shattering Chain"] = 1,
 		["Deadly Poison"] = 8,
-		["Eye of Corruption"] = 32,
-		["Ultimate Sacrifice"] = 2,
-		["Scorching Blister"] = 4,
+		["Molten Gold"] = 4,
+		["Decomposing Acid"] = 8,
+		["Garrote"] = 1,
+		["Fel Fire"] = 4,
+		["Annihilation"] = 32,
 		["Throes of Agony"] = 8,
 		["Crusader Strike"] = 1,
 		["Spectral Transference"] = 32,
-		["Soul Surge"] = 32,
 		["Deathbolt Rift"] = 32,
-		["Rising Sun Kick"] = 1,
-		["Stand Alone"] = 16,
-		["Sins of the Past"] = 32,
-		["Azerite Spike"] = 4,
+		["Tainted Blood"] = 32,
+		["Scorn"] = 32,
+		["Soulrend"] = 32,
+		["Scorching Blister"] = 4,
+		["Ire of the Deep"] = 16,
 		["Shattered Shield"] = 1,
 		["Entropic Mantle"] = 32,
 		["Descent"] = 1,
 		["Static Pulse"] = 8,
 		["Rain of Felfire"] = 4,
-		["Lethal Strikes"] = 4,
+		["Concussive Shot"] = 1,
 		["Wildfire"] = 8,
 		["Overwhelming Power"] = 4,
-		["Power Overwhelming"] = 64,
-		["Sanguine Fountain"] = 1,
+		["Ultimate Sacrifice"] = 2,
+		["Stand Alone"] = 16,
 		["Deathshade Volley"] = 32,
-		["Seismic Upheaval"] = 8,
-		["Jagged Claws"] = 1,
 		["Backstab"] = 1,
-		["Shadow Claws"] = 1,
-		["Wild Maul"] = 1,
-		["Volcanic Plume"] = 4,
-		["Obliterate"] = 1,
+		["Jagged Claws"] = 1,
+		["Eggsplosion"] = 8,
+		["Consuming Shadows"] = 32,
+		["Thorned Barrage"] = 1,
 		["Cannon Fire"] = 4,
-		["Tortured Echoes"] = 32,
+		["Obliterate"] = 1,
+		["Corrupting Growth"] = 32,
+		["Lethal Strikes"] = 4,
 		["Deathly Withering"] = 32,
 		["Eject!"] = 1,
-		["Grievous Wound"] = 1,
 		["Septic Ground"] = 8,
-		["Scales of Wrathion"] = 4,
+		["Cave In"] = 1,
+		["Tortured Echoes"] = 32,
 		["Gatling Gun"] = 1,
-		["Dread"] = 32,
+		["Assassinate"] = 8,
 		["Soulfeast"] = 32,
 		["Heart of Frost"] = 16,
 		["Shattered Resolve"] = 32,
-		["Assassinate"] = 8,
+		["Cutting Coral"] = 8,
 		["Chain Link"] = 1,
-		["Crackling Lightning"] = 8,
-		["Toxic Spine"] = 8,
+		["Wild Maul"] = 1,
+		["Zeal"] = 2,
 		["Falling Rubble"] = 1,
 		["Arcane Detonation"] = 64,
-		["Rotten Strike"] = 8,
-		["Wicked Strike"] = 4,
-		["Annihilation"] = 32,
-		["Consuming Shadows"] = 32,
-		["Execution Sentence"] = 2,
-		["Horrific Hemorrhage"] = 32,
+		["Echoing Sonar"] = 1,
+		["Scales of Wrathion"] = 4,
+		["Mind Flay"] = 32,
+		["Grab"] = 1,
+		["Toxic Spine"] = 8,
 		["Coagulating Ooze"] = 40,
+		["Spilled Essence"] = 32,
 		["Finishing Blow"] = 1,
 		["Crackling Tiger Lightning"] = 8,
-		["Exsanguinating Bite"] = 1,
-		["Zeal"] = 2,
-		["Dread Inferno"] = 4,
-		["Echoing Sonar"] = 1,
+		["Darkened Sky"] = 32,
+		["Manifest Pain"] = 32,
+		["Lingering Doubt"] = 64,
 		["Unstable Nightmare"] = 32,
 		["Ancient Flame"] = 4,
+		["Dread Inferno"] = 4,
 		["Growing Pride"] = 32,
 		["Heavy Slash"] = 1,
 		["Resonant Quake"] = 1,
 		["Shared Pain"] = 32,
-		["Rising Flames"] = 4,
-		["Oppressive Banner"] = 1,
+		["Phantasmal Parasite"] = 32,
+		["Dead of Winter"] = 16,
 		["Echoing Annihilation"] = 8,
-		["Corrupting Growth"] = 32,
-		["Azerite Heartseeker"] = 1,
+		["Twilight Decimator"] = 32,
+		["Wicked Slice"] = 32,
 		["Blinding Faith"] = 2,
-		["Decrepit Bite"] = 8,
-		["Shadow Ambush"] = 32,
+		["Horrific Hemorrhage"] = 32,
+		["Seismic Upheaval"] = 8,
 		["Blizzard"] = 16,
 		["Jagged Gash"] = 1,
-		["Frosty Shard"] = 17,
+		["Acid Pool"] = 8,
 		["Disease Cloud"] = 8,
 		["Leg Sweep"] = 1,
 		["Devouring Plague"] = 32,
 		["Bubbling Overflow"] = 8,
-		["Acid Pool"] = 8,
-		["Dead of Winter"] = 16,
-		["Devour Magic"] = 32,
-		["Sinseeker"] = 32,
+		["Electro Shock"] = 8,
+		["Devouring Acid"] = 8,
+		["Sanguine Fountain"] = 1,
+		["Arcanado"] = 16,
 		["Breed Madness"] = 32,
 		["Swiftness Ward"] = 8,
-		["Eternal Torment"] = 32,
+		["Carnage"] = 1,
 		["Stone Spike"] = 1,
 		["Kimbul's Wrath"] = 1,
-		["Arcanado"] = 16,
-		["Mind Flay"] = 32,
+		["Sinseeker"] = 32,
+		["Eternal Torment"] = 32,
 		["Septic Taint"] = 8,
 		["Desolation"] = 32,
-		["Manifest Pain"] = 32,
+		["Psychic Scream"] = 32,
 		["Anima Puddle"] = 8,
 		["Colossal Roar"] = 1,
-		["Focused Blast"] = 4,
-		["Razorshard Ice"] = 16,
+		["Fire Blast"] = 4,
+		["Feeding Time"] = 1,
 		["Creeping Madness"] = 32,
-		["Erupting Stone"] = 1,
 		["Blazing Chomp"] = 4,
-		["Electro Shock"] = 8,
-		["Aerial Rocket Chicken Barrage"] = 4,
-		["Corrupted Viscera"] = 32,
-		["Caustic Delirium"] = 32,
-		["Epidemic"] = 32,
+		["Firebolt"] = 4,
+		["Touch of Pain"] = 1,
+		["Incendiary Rounds"] = 4,
 		["Attenuated Barrage"] = 64,
+		["Caustic Delirium"] = 32,
+		["Corrupted Viscera"] = 32,
+		["Epidemic"] = 32,
 		["Hammer of Wrath"] = 2,
 		["Thrashing Tentacle"] = 8,
 		["Smoke Cloud"] = 8,
 		["Heedless Charge"] = 1,
-		["Swift Slash"] = 1,
+		["Falling Gore"] = 32,
 		["Numbing Poison"] = 8,
 		["Hysterical Outburst"] = 1,
 		["Gluttonous Miasma"] = 32,
@@ -30402,9 +30431,9 @@ _detalhes_global = {
 		["Colossus Smash"] = 1,
 		["Infinite Void"] = 32,
 		["Tantrum"] = 1,
-		["Nether Portal"] = 32,
-		["Soul Singe"] = 32,
 		["Occipital Blast"] = 32,
+		["Soul Singe"] = 32,
+		["Nether Portal"] = 32,
 		["Rotting Spore"] = 32,
 		["Brutal Strike"] = 1,
 		["Burning Soles"] = 4,
@@ -30416,41 +30445,41 @@ _detalhes_global = {
 		["Templar's Verdict"] = 2,
 		["Roiling Tides"] = 16,
 		["Stinging Venom"] = 8,
-		["Slimy Residue"] = 8,
+		["Prideful Eruption"] = 32,
 		["Cut of Death"] = 1,
 		["Controlled Burst"] = 65,
-		["Prideful Eruption"] = 32,
+		["Slimy Residue"] = 8,
 		["Fount of Pestilence"] = 8,
 		["Shadow Shock"] = 32,
 		["Wicked Laceration"] = 1,
 		["Dark Matter"] = 32,
 		["Whirling Dragon Punch"] = 1,
-		["Dark Recital"] = 32,
 		["Entropic Embrace"] = 48,
+		["Dark Recital"] = 32,
 		["Shattering Stone"] = 8,
 		["Hydro Blast"] = 16,
 		["Anima Web"] = 32,
 		["Hysteria"] = 32,
-		["Fetid Gas"] = 8,
+		["Collapsing Foundation"] = 1,
 		["Smash"] = 1,
 		["Concussion Charge"] = 4,
 		["Soul Thorns"] = 1,
-		["Iron Spikes"] = 1,
-		["Creeping Rot"] = 8,
-		["Fel Fireball"] = 4,
 		["Eternal Darkness"] = 32,
+		["Creeping Rot"] = 8,
+		["Iron Spikes"] = 1,
+		["Fel Fireball"] = 4,
 		["Shooting Stars"] = 72,
 		["Ritual of Woe"] = 32,
-		["Peck"] = 1,
+		["Void Lash"] = 32,
 		["Forbidden Mana"] = 64,
 		["Concentrate Anima"] = 32,
-		["Void Lash"] = 32,
-		["Lawbringer"] = 2,
-		["Flames of Insanity"] = 4,
+		["Peck"] = 1,
 		["Warped Desires"] = 32,
+		["Flames of Insanity"] = 4,
+		["Lawbringer"] = 2,
 		["Unleashed Anima"] = 64,
 		["Icefall"] = 16,
-		["Soulbreak"] = 32,
+		["Bioelectric Feelers"] = 8,
 		["Dark Gaze"] = 32,
 		["Dread Reaping"] = 32,
 		["Mega Taze"] = 8,
@@ -30458,32 +30487,32 @@ _detalhes_global = {
 		["Siegebreaker Blast"] = 64,
 		["Mind-Numbing Toxin"] = 8,
 		["Aura of Dread"] = 32,
-		["Bioelectric Feelers"] = 8,
+		["Soulbreak"] = 32,
 		["Soul Flay"] = 32,
 		["Barbed Shot"] = 1,
 		["Sacred Blade"] = 2,
-		["Stone Shattering Leap"] = 8,
-		["Hemorrhagic Burst"] = 32,
 		["Vicious Wound"] = 1,
+		["Hemorrhagic Burst"] = 32,
+		["Stone Shattering Leap"] = 8,
 		["Unholy Blight"] = 32,
-		["Shared Cognition"] = 32,
 		["Throw Glaive"] = 1,
+		["Shared Cognition"] = 32,
 		["Homing Missile"] = 4,
 		["Squall Trap"] = 8,
 		["Sandstorm"] = 8,
 		["Dark Collapse"] = 32,
-		["Trail of Ruin"] = 124,
 		["Stomp"] = 1,
+		["Trail of Ruin"] = 124,
 		["Void Ritual"] = 32,
 		["Megatomic Fire"] = 4,
-		["Starsurge"] = 72,
+		["Frostvenom Tipped"] = 1,
 		["Mandible Strike"] = 8,
 		["Bottled Anima"] = 32,
 		["Radiance of Anzu"] = 4,
 		["Dragon's Breath"] = 4,
-		["Embalming Ichor"] = 40,
-		["Frost Mark"] = 16,
 		["Obsidian Skin"] = 64,
+		["Frost Mark"] = 16,
+		["Embalming Ichor"] = 40,
 		["Burning Cataclysm"] = 4,
 		["Blind"] = 1,
 		["Arcanado Burst"] = 16,
@@ -30496,29 +30525,29 @@ _detalhes_global = {
 		["Cutting Beam"] = 8,
 		["Jagged Cut"] = 1,
 		["Erupt"] = 8,
-		["Discordant Cadenza"] = 32,
+		["Void Bolt"] = 32,
 		["Ritual Field"] = 32,
 		["Sanguine Ichor"] = 32,
 		["Blood Price"] = 32,
 		["Stupefying Glare"] = 32,
 		["Frost Nova"] = 16,
-		["Void Bolt"] = 32,
-		["Heave Debris"] = 1,
-		["Exposed Azerite"] = 64,
+		["Discordant Cadenza"] = 32,
 		["Reverberating Vulnerability"] = 1,
+		["Exposed Azerite"] = 64,
+		["Heave Debris"] = 1,
 		["Noxious Mantle"] = 8,
 		["Soul Infusion"] = 32,
-		["Drain Life"] = 32,
 		["Frostbolt Volley"] = 16,
+		["Drain Life"] = 32,
 		["Shock Pulse"] = 8,
 		["Deathly Roar"] = 32,
 		["Marrowrend"] = 1,
 		["Unstable Runic Mark"] = 32,
 		["Arcane Barrage"] = 64,
-		["Burning Brush"] = 4,
+		["Mighty Rupture"] = 16,
 		["Seal of Purification"] = 6,
 		["Interrupting Roar"] = 1,
-		["Mighty Rupture"] = 16,
+		["Burning Brush"] = 4,
 		["Corrupted Gold"] = 4,
 		["Smoldering Plumage"] = 4,
 		["Deadeye Charge"] = 1,
@@ -30553,7 +30582,7 @@ _detalhes_global = {
 		["Savage Flurry"] = 1,
 		["Overwhelming Toxin"] = 8,
 		["Azerite Barrage"] = 2,
-		["Frostvenom Tipped"] = 1,
+		["Starsurge"] = 72,
 		["Necrotic Wound"] = 1,
 		["Giga-Zap"] = 8,
 		["Entropic Buildup"] = 32,
@@ -30574,7 +30603,7 @@ _detalhes_global = {
 		["Transfusion"] = 32,
 		["Refracted Sinlight"] = 32,
 		["Auto Shot"] = 1,
-		["Collapsing Foundation"] = 1,
+		["Fetid Gas"] = 8,
 		["Spark Volley"] = 8,
 		["Heavy Ordnance"] = 64,
 		["Madness Bomb"] = 32,
@@ -30594,88 +30623,88 @@ _detalhes_global = {
 		["Moonfire"] = 64,
 		["Megatomic Seeker Missile"] = 4,
 		["Pinning Shot"] = 1,
-		["Falling Gore"] = 32,
+		["Swift Slash"] = 1,
 		["Heaving Blow"] = 1,
 		["Regrowth"] = 8,
-		["Devouring Acid"] = 8,
+		["Heart of Darkness"] = 32,
 		["Empyreal Ordnance"] = 64,
 		["Shadow Word: Pain"] = 32,
 		["Final Reckoning"] = 2,
 		["Corruption"] = 32,
 		["Throw Food"] = 8,
-		["Feeding Time"] = 1,
+		["Focused Blast"] = 4,
 		["Hot!"] = 4,
 		["Spiteful Assault"] = 32,
-		["Fire Blast"] = 4,
-		["Blood Torrent"] = 32,
+		["Soul Surge"] = 32,
+		["Razorshard Ice"] = 16,
 		["Deep Connection"] = 64,
 		["Blaze"] = 4,
-		["Avalanche"] = 16,
-		["Touch of Pain"] = 1,
+		["Azerite Heartseeker"] = 1,
 		["Arcane Lightning"] = 64,
+		["Great Worm's Foul Stench"] = 1,
 		["Surging Rush"] = 16,
 		["Unleashed Void"] = 32,
 		["Acid Expulsion"] = 8,
 		["Rumble"] = 1,
 		["Massive Crush"] = 1,
 		["Shadowy Apparition"] = 32,
-		["Lingering Doubt"] = 64,
-		["Pulverizing Meteor"] = 8,
+		["Decrepit Bite"] = 8,
+		["Crackling Lightning"] = 8,
 		["Dark Beyond"] = 32,
-		["Psychic Scream"] = 32,
-		["Eye of the Tiger"] = 8,
-		["Wicked Slice"] = 32,
+		["Shadow Ambush"] = 32,
+		["Dread"] = 32,
+		["Hamstring"] = 1,
 		["Buzz-Saw"] = 1,
 		["Evoke Anguish"] = 32,
 		["Unleashed Insanity"] = 32,
-		["Hamstring"] = 1,
+		["Blackout Kick"] = 1,
 		["Twilight Devastation"] = 32,
-		["Eyes on Target"] = 1,
+		["Frosty Shard"] = 17,
 		["Virulent Eruption"] = 32,
 		["Hatchery Moulting"] = 8,
-		["Eggsplosion"] = 8,
-		["Twilight Decimator"] = 32,
 		["Charge"] = 1,
+		["Devour Magic"] = 32,
+		["Oppressive Banner"] = 1,
 		["Chilling Touch"] = 16,
 		["Burnout"] = 4,
 		["Spore Blast"] = 8,
 		["Ravenous Swipe"] = 1,
-		["Concussive Shot"] = 1,
+		["Sheep Shrapnel"] = 4,
 		["Volatile Ejection"] = 32,
-		["Phantasmal Parasite"] = 32,
 		["Horrified"] = 32,
+		["Wicked Strike"] = 4,
 		["Soul Fissure"] = 4,
 		["Shattering Ruby"] = 1,
-		["Obliterating Rift"] = 32,
-		["Darkened Sky"] = 32,
+		["Exsanguinating Bite"] = 1,
+		["Nullification"] = 32,
 		["Sanctified Wrath"] = 2,
 		["Scorching Detonation"] = 4,
-		["Aerial Bombardment"] = 32,
+		["Necrotic Ichor"] = 32,
 		["Kidney Shot"] = 1,
 		["Sand Trap"] = 8,
 		["Vampiric Bite"] = 1,
-		["Toxic Bolt"] = 8,
+		["Toxic Fumes"] = 40,
 		["Stasis Trap"] = 64,
 		["Reverberating Echo"] = 8,
-		["Illusionary Bolt"] = 32,
+		["Mycelial Growth"] = 8,
 		["Fel Imp-losion"] = 4,
-		["Shadow Wounds"] = 32,
-		["Manifest Death"] = 32,
+		["Drain Essence"] = 32,
+		["Upheaval"] = 1,
 		["Heroic Leap"] = 1,
 		["Vampiric Touch"] = 32,
 		["Cheap Shot"] = 1,
 		["Void-Touched"] = 32,
-		["Bursting Ooze"] = 1,
-		["Belch Flame"] = 4,
+		["Vile Expulsion"] = 32,
+		["Reaping Scythe"] = 1,
 		["Lingering Nausea"] = 8,
 		["Burden of Sin"] = 32,
-		["Plague Annihilation"] = 40,
+		["Anima Shedding"] = 1,
 		["Touch of Slime"] = 8,
 		["Glass Shards"] = 1,
 		["Overflowing Chill"] = 16,
 		["Freezing Blood"] = 16,
-		["Fel Fire"] = 4,
-		["Broadside"] = 64,
+		["Reverberating Eruption"] = 8,
+		["Putrid Blood"] = 32,
 		["Quills"] = 1,
 		["Vile Taint"] = 32,
 		["Heart Strike"] = 1,
@@ -30683,48 +30712,48 @@ _detalhes_global = {
 		["Throw Axe"] = 1,
 		["Malfunction Sparks"] = 4,
 		["Waterlogged"] = 16,
-		["Destructive Impact"] = 1,
 		["Explosive Contrivance"] = 64,
-		["Death Blow"] = 32,
+		["Alpha Cannon"] = 4,
+		["Oppressive Atmosphere"] = 32,
 		["Invocation of Blood"] = 1,
 		["Psychic Detonation"] = 32,
-		["Heart of Darkness"] = 32,
+		["Devoured Abyss"] = 32,
 		["Frozen Solid"] = 16,
-		["Delirious Slash"] = 1,
+		["Ancient Tempest"] = 8,
 		["Noxious Fog"] = 40,
-		["Pyroblast"] = 4,
+		["System Shock"] = 65,
 		["Devour"] = 1,
-		["Fall of the Unworthy"] = 1,
-		["Infinite Darkness"] = 32,
-		["Localized Explosive Contrivance"] = 64,
-		["Rippling Wave"] = 16,
+		["Jaws of Stone"] = 1,
+		["Cobra Shot"] = 1,
+		["Maddening Eruption"] = 32,
+		["Necrotic Bolt"] = 32,
 		["Consume Slime"] = 1,
 		["Divine Storm"] = 2,
 		["Eradication"] = 16,
 		["Black Volley"] = 32,
 		["Anima Rejection"] = 8,
-		["Reverberating Eruption"] = 8,
-		["Lacerating Claws"] = 1,
-		["Mind Blast"] = 32,
-		["Whirling Jade Storm"] = 8,
-		["Blackout Kick"] = 1,
+		["Venting Flames"] = 4,
+		["Gilded Claws"] = 1,
+		["Lifebloom"] = 8,
+		["Entropic Echo"] = 32,
+		["Unleashed Nightmare"] = 32,
 		["Horrifying Bolt"] = 32,
-		["Fatal Finesse"] = 32,
 		["Torment"] = 32,
+		["Gutripper"] = 1,
 		["Deadeye"] = 1,
-		["Chains of Servitude"] = 32,
+		["Dissolve"] = 8,
 		["Chaos Strike"] = 127,
-		["Darkened Heart"] = 96,
-		["Unleashed Volatility"] = 32,
 		["\"Hidden\" Flame Cannon"] = 4,
+		["Unleashed Volatility"] = 32,
+		["Pain Spike"] = 32,
 		["Gushing Wound"] = 1,
-		["Surging Darkness"] = 32,
-		["Void Gaze"] = 32,
-		["Unbound Cosmos"] = 32,
+		["Arcane Bomb"] = 64,
+		["Unstable Mixture"] = 8,
+		["Soulless"] = 32,
 		["Defiled Ground"] = 32,
+		["Lacerating Claws"] = 1,
 		["Charged Anima"] = 64,
-		["Oozing Outbreak"] = 8,
-		["Blade Dance"] = 1,
+		["Concentrated Plague"] = 8,
 		["Glyph of Destruction"] = 64,
 		["Gut Shot"] = 1,
 		["Mind Wipe"] = 8,
@@ -30942,175 +30971,150 @@ _detalhes_global = {
 	["createauraframe"] = {
 	},
 	["item_level_pool"] = {
-		["Player-9-0B026A30"] = {
-			["time"] = 1608699657,
-			["name"] = "Melborn",
-			["ilvl"] = 201.5625,
-		},
-		["Player-9-0A6B573B"] = {
-			["time"] = 1608699657,
-			["name"] = "Dragonite",
-			["ilvl"] = 200,
-		},
-		["Player-9-0257BA4A"] = {
-			["time"] = 1608698405,
-			["name"] = "Xulah",
-			["ilvl"] = 192.6875,
-		},
 		["Player-9-0361ED90"] = {
-			["time"] = 1608703238,
+			["time"] = 1608803117,
 			["name"] = "Emosong",
-			["ilvl"] = 200.25,
+			["ilvl"] = 204.25,
+		},
+		["Player-9-08F46D77"] = {
+			["name"] = "Maserder",
+			["time"] = 1608789867,
+			["ilvl"] = 198.875,
+		},
+		["Player-9-0B608E72"] = {
+			["time"] = 1608803142,
+			["name"] = "Toshmonk",
+			["ilvl"] = 199.875,
+		},
+		["Player-9-0DB8044A"] = {
+			["name"] = "Tumtumm",
+			["time"] = 1608789971,
+			["ilvl"] = 206.125,
+		},
+		["Player-9-0AAD1CC5"] = {
+			["name"] = "Boomie",
+			["time"] = 1608789974,
+			["ilvl"] = 209.3125,
+		},
+		["Player-9-073B44E6"] = {
+			["time"] = 1608778452,
+			["name"] = "Krahs",
+			["ilvl"] = 200.1875,
+		},
+		["Player-9-0B9098B4"] = {
+			["name"] = "Spoonerisms",
+			["time"] = 1608789890,
+			["ilvl"] = 200.3125,
+		},
+		["Player-9-0A6BD5EA"] = {
+			["name"] = "Aveon",
+			["time"] = 1608789980,
+			["ilvl"] = 205.5625,
 		},
 		["Player-9-0BAF05B1"] = {
 			["name"] = "Yukios",
-			["time"] = 1608693799,
-			["ilvl"] = 193.625,
-		},
-		["Player-9-0769ABFF"] = {
-			["time"] = 1608699667,
-			["name"] = "Azian",
-			["ilvl"] = 197.3125,
-		},
-		["Player-9-0ADBDF2C"] = {
-			["time"] = 1608698911,
-			["name"] = "Drkarma",
-			["ilvl"] = 185.1875,
-		},
-		["Player-11-0DD5D2FE"] = {
-			["time"] = 1608699657,
-			["name"] = "Ereec-Tichondrius",
-			["ilvl"] = 195.75,
-		},
-		["Player-9-0711449D"] = {
-			["time"] = 1608699107,
-			["name"] = "Brutang",
-			["ilvl"] = 203.9375,
-		},
-		["Player-9-0BBA7095"] = {
-			["time"] = 1608703028,
-			["name"] = "Meta",
-			["ilvl"] = 194.1875,
-		},
-		["Player-9-0DD68F59"] = {
-			["time"] = 1608698403,
-			["name"] = "Blazenut",
-			["ilvl"] = 197.3125,
-		},
-		["Player-9-080954CA"] = {
-			["time"] = 1608699657,
-			["name"] = "Cacrinolass",
-			["ilvl"] = 192.0625,
-		},
-		["Player-3676-0AD96CC7"] = {
-			["time"] = 1608699657,
-			["name"] = "Yukiox-Area52",
-			["ilvl"] = 209.9375,
-		},
-		["Player-9-00051AAE"] = {
-			["time"] = 1608699657,
-			["name"] = "Orcbum",
-			["ilvl"] = 201.625,
-		},
-		["Player-9-0C0AEF93"] = {
-			["time"] = 1608699657,
-			["name"] = "Naete",
-			["ilvl"] = 173.625,
-		},
-		["Player-9-0527E3C3"] = {
-			["time"] = 1608700818,
-			["name"] = "Downloaded",
-			["ilvl"] = 202.875,
-		},
-		["Player-9-098BFEA2"] = {
-			["time"] = 1608699657,
-			["name"] = "Drmango",
-			["ilvl"] = 198.1875,
-		},
-		["Player-9-0A6BEEEF"] = {
-			["time"] = 1608699657,
-			["name"] = "Illidab",
-			["ilvl"] = 199.25,
-		},
-		["Player-9-0B608E72"] = {
-			["time"] = 1608713474,
-			["name"] = "Toshmonk",
-			["ilvl"] = 193.0625,
-		},
-		["Player-9-0DDC45D3"] = {
-			["time"] = 1608703425,
-			["name"] = "Unhealable",
-			["ilvl"] = 193,
-		},
-		["Player-9-07F2A48D"] = {
-			["time"] = 1608698424,
-			["name"] = "Amilgaoul",
-			["ilvl"] = 196.8666666666667,
-		},
-		["Player-9-08F46D77"] = {
-			["time"] = 1608699657,
-			["name"] = "Maserder",
-			["ilvl"] = 195.625,
-		},
-		["Player-3676-0ADA0DE5"] = {
-			["time"] = 1608699657,
-			["name"] = "Yellowy-Area52",
-			["ilvl"] = 210.8125,
+			["time"] = 1608789923,
+			["ilvl"] = 196.4375,
 		},
 		["Player-9-0DB7FBB6"] = {
-			["time"] = 1608699657,
 			["name"] = "Senpaibacon",
-			["ilvl"] = 194.4375,
+			["time"] = 1608789947,
+			["ilvl"] = 198.1875,
 		},
-		["Player-9-07CF75C8"] = {
-			["time"] = 1608699657,
-			["name"] = "Bloodnofsky",
-			["ilvl"] = 204.0625,
+		["Player-9-0769ABFF"] = {
+			["name"] = "Azian",
+			["time"] = 1608789929,
+			["ilvl"] = 199.3125,
+		},
+		["Player-9-0DDA6FC0"] = {
+			["time"] = 1608799909,
+			["name"] = "Delpi",
+			["ilvl"] = 206.375,
+		},
+		["Player-3676-0ADA0DE5"] = {
+			["name"] = "Yellowy-Area52",
+			["time"] = 1608753759,
+			["ilvl"] = 208.125,
+		},
+		["Player-9-0A740E4F"] = {
+			["name"] = "Huskeryfloof",
+			["time"] = 1608789971,
+			["ilvl"] = 209.125,
+		},
+		["Player-9-08274B23"] = {
+			["name"] = "Diplomacy",
+			["time"] = 1608789971,
+			["ilvl"] = 201.9375,
 		},
 		["Player-9-06066AA5"] = {
 			["name"] = "Papisalad",
-			["time"] = 1608698330,
+			["time"] = 1608789947,
 			["ilvl"] = 206,
 		},
-		["Player-1171-086BEA3B"] = {
-			["time"] = 1608699657,
-			["name"] = "Heavens-WyrmrestAccord",
-			["ilvl"] = 182.875,
+		["Player-9-0711449D"] = {
+			["name"] = "Brutang",
+			["time"] = 1608789878,
+			["ilvl"] = 203.9375,
 		},
-		["Player-9-02FF92F5"] = {
-			["time"] = 1608699657,
-			["name"] = "Bullkake",
-			["ilvl"] = 194.875,
+		["Player-9-0BBA7095"] = {
+			["time"] = 1608801890,
+			["name"] = "Meta",
+			["ilvl"] = 197.625,
 		},
-		["Player-9-026CC87F"] = {
-			["time"] = 1608699657,
-			["name"] = "Khelikloth",
-			["ilvl"] = 186.375,
+		["Player-9-07CF75C8"] = {
+			["name"] = "Bloodnofsky",
+			["time"] = 1608789947,
+			["ilvl"] = 202.8125,
+		},
+		["Player-9-080954CA"] = {
+			["name"] = "Cacrinolass",
+			["time"] = 1608789947,
+			["ilvl"] = 197.125,
+		},
+		["Player-9-00051AAE"] = {
+			["name"] = "Orcbum",
+			["time"] = 1608789973,
+			["ilvl"] = 204.3125,
+		},
+		["Player-9-0DD6CA19"] = {
+			["name"] = "Scitron",
+			["time"] = 1608789972,
+			["ilvl"] = 200.8125,
+		},
+		["Player-9-0B03A536"] = {
+			["name"] = "Bit",
+			["time"] = 1608789971,
+			["ilvl"] = 204.75,
+		},
+		["Player-9-0527E3C3"] = {
+			["name"] = "Downloaded",
+			["time"] = 1608780755,
+			["ilvl"] = 204.2666666666667,
 		},
 		["Player-3676-0D0FE5F5"] = {
-			["time"] = 1608713474,
+			["time"] = 1608762250,
 			["name"] = "Toshpriest-Area52",
 			["ilvl"] = 205.4375,
 		},
-		["Player-9-0DB6C7B1"] = {
-			["time"] = 1608699657,
-			["name"] = "Tekdar",
-			["ilvl"] = 185.3125,
+		["Player-9-07A5A646"] = {
+			["name"] = "Lilkdog",
+			["time"] = 1608789879,
+			["ilvl"] = 202.8125,
 		},
 		["Player-9-07D05E4B"] = {
-			["time"] = 1608699657,
 			["name"] = "Ngow",
-			["ilvl"] = 202.625,
+			["time"] = 1608789971,
+			["ilvl"] = 203.625,
 		},
-		["Player-9-0646F0B8"] = {
-			["name"] = "Slurry",
-			["time"] = 1608694398,
-			["ilvl"] = 200.125,
+		["Player-9-0DBB07D8"] = {
+			["name"] = "Hoofshots",
+			["time"] = 1608789901,
+			["ilvl"] = 208.875,
 		},
-		["Player-9-07A5A646"] = {
-			["time"] = 1608699588,
-			["name"] = "Lilkdog",
-			["ilvl"] = 202,
+		["Player-9-0DDC45D3"] = {
+			["time"] = 1608802011,
+			["name"] = "Unhealable",
+			["ilvl"] = 199.1875,
 		},
 	},
 	["update_warning_timeout"] = 10,
@@ -31348,9 +31352,9 @@ _detalhes_global = {
 	},
 	["tutorial"] = {
 		["bookmark_tutorial"] = false,
-		["main_help_button"] = 789,
+		["main_help_button"] = 797,
 		["ATTRIBUTE_SELECT_TUTORIAL1"] = true,
-		["logons"] = 789,
+		["logons"] = 797,
 		["ctrl_click_close_tutorial"] = false,
 		["DISABLE_ONDEATH_PANEL"] = true,
 		["STREAMER_PLUGIN_FIRSTRUN"] = true,
@@ -32194,7 +32198,11 @@ _detalhes_global = {
 	["lastUpdateWarning"] = 1608582259,
 	["plater"] = {
 		["realtime_dps_enabled"] = false,
-		["damage_taken_shadow"] = true,
+		["damage_taken_anchor"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["side"] = 7,
+		},
 		["realtime_dps_player_shadow"] = true,
 		["damage_taken_enabled"] = false,
 		["realtime_dps_player_size"] = 12,
@@ -32210,12 +32218,8 @@ _detalhes_global = {
 			["x"] = 0,
 			["side"] = 7,
 		},
-		["damage_taken_anchor"] = {
-			["y"] = 0,
-			["x"] = 0,
-			["side"] = 7,
-		},
 		["realtime_dps_size"] = 12,
+		["damage_taken_shadow"] = true,
 		["damage_taken_color"] = {
 			1, -- [1]
 			1, -- [2]
