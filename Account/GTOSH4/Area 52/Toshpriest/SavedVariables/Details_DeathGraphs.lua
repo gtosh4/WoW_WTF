@@ -2098,12 +2098,12 @@ DeathGraphsDBDeaths = {
 				["name"] = "Nv",
 				["class"] = "DRUID",
 			},
-			["Decision"] = {
+			["Steall"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Decision",
+				["name"] = "Steall",
 				["class"] = "ROGUE",
 			},
 			["Konstantino"] = {
@@ -2130,13 +2130,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Gummybuns",
 				["class"] = "MONK",
 			},
-			["Yellowy"] = {
+			["Decision"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Yellowy",
-				["class"] = "PRIEST",
+				["name"] = "Decision",
+				["class"] = "ROGUE",
 			},
 			["Adeno"] = {
 				["deaths"] = {
@@ -2202,13 +2202,13 @@ DeathGraphsDBDeaths = {
 				["name"] = "Toshpriest",
 				["class"] = "PRIEST",
 			},
-			["Steall"] = {
+			["Yellowy"] = {
 				["overall"] = {
 				},
 				["deaths"] = {
 				},
-				["name"] = "Steall",
-				["class"] = "ROGUE",
+				["name"] = "Yellowy",
+				["class"] = "PRIEST",
 			},
 			["Jojo"] = {
 				["overall"] = {
@@ -5881,10 +5881,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Sumanator-Tichondrius"] = {
+			["Worthlessimp-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "HUNTER",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
@@ -5902,10 +5902,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Weedsong"] = {
+			["Sumanator-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -6037,10 +6037,10 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Worthlessimp-Tichondrius"] = {
+			["Weedsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -6404,17 +6404,12 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Zachatesdota-Tichondrius"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["class"] = "ROGUE",
+			["Quiplash-WyrmrestAccord"] = {
+				["encounters"] = 4,
+				["points"] = 400,
 				["deaths"] = {
-					{
-						4, -- [1]
-						232.6450000000186, -- [2]
-						"Anima Web (DoT) |cFFFF333317,157|r", -- [3]
-					}, -- [1]
 				},
+				["class"] = "DRUID",
 			},
 			["Wagyubeefz-Barthilas"] = {
 				["encounters"] = 2,
@@ -6442,10 +6437,10 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Worthlessimp-Tichondrius"] = {
+			["Gettizzedon-Tichondrius"] = {
 				["encounters"] = 4,
 				["points"] = 400,
-				["class"] = "DEMONHUNTER",
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -6461,11 +6456,16 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
-			["Gettizzedon-Tichondrius"] = {
-				["encounters"] = 4,
-				["points"] = 400,
-				["class"] = "HUNTER",
+			["Zachatesdota-Tichondrius"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "ROGUE",
 				["deaths"] = {
+					{
+						4, -- [1]
+						232.6450000000186, -- [2]
+						"Anima Web (DoT) |cFFFF333317,157|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Gazettereita-Illidan"] = {
@@ -6492,12 +6492,12 @@ DeathGraphsDBEndurance = {
 					}, -- [2]
 				},
 			},
-			["Quiplash-WyrmrestAccord"] = {
+			["Worthlessimp-Tichondrius"] = {
 				["encounters"] = 4,
 				["points"] = 400,
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
 			["Sumanator-Tichondrius"] = {
 				["encounters"] = 4,
@@ -9633,10 +9633,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Weedsong"] = {
+			["Sumanator-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DRUID",
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -9666,10 +9666,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Worthlessimp-Tichondrius"] = {
+			["Weedsong"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "DEMONHUNTER",
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -9777,10 +9777,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Sumanator-Tichondrius"] = {
+			["Worthlessimp-Tichondrius"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "HUNTER",
+				["class"] = "DEMONHUNTER",
 				["deaths"] = {
 				},
 			},
@@ -11618,8 +11618,8 @@ DeathGraphsDBGraph = {
 			[315] = {
 				1608423398, -- [1]
 			},
-			[210] = {
-				1608423398, -- [1]
+			[255] = {
+				1608776338, -- [1]
 			},
 			[360] = {
 				1608422781, -- [1]
@@ -11630,14 +11630,14 @@ DeathGraphsDBGraph = {
 			[317] = {
 				1608422781, -- [1]
 			},
-			[240] = {
+			[210] = {
 				1608423398, -- [1]
 			},
 			[99] = {
 				1608423398, -- [1]
 			},
-			[255] = {
-				1608776338, -- [1]
+			[240] = {
+				1608423398, -- [1]
 			},
 		},
 		["spells"] = {

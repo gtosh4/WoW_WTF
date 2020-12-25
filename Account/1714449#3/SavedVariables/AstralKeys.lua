@@ -42,7 +42,7 @@ AstralKeys = {
 		["dungeon_id"] = 378,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 140911,
+		["time_stamp"] = 206924,
 	}, -- [4]
 	{
 		["source"] = "guild",
@@ -80,26 +80,26 @@ AstralKeys = {
 	}, -- [7]
 	{
 		["btag"] = "Yellowy#1796",
-		["weekly_best"] = 14,
+		["weekly_best"] = 15,
 		["class"] = "PRIEST",
 		["key_level"] = 15,
 		["unit"] = "Yellowy-Area52",
 		["dungeon_id"] = 376,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 146745,
+		["time_stamp"] = 205209,
 		["source"] = "friend",
 	}, -- [8]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 10,
+		["weekly_best"] = 11,
 		["class"] = "MONK",
 		["key_level"] = 13,
 		["unit"] = "Toshmonk-Kil'jaeden",
 		["dungeon_id"] = 379,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 149366,
+		["time_stamp"] = 235864,
 	}, -- [9]
 	{
 		["btag"] = "Thanerial#1172",
@@ -110,7 +110,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [10]
 	{
@@ -144,18 +144,18 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 43300,
+		["time_stamp"] = 217973,
 	}, -- [13]
 	{
 		["btag"] = "Thanerial#1172",
-		["weekly_best"] = 0,
+		["weekly_best"] = 9,
 		["class"] = "DRUID",
-		["key_level"] = 6,
+		["key_level"] = 9,
 		["unit"] = "Thanerial-Kil'jaeden",
-		["dungeon_id"] = 375,
+		["dungeon_id"] = 381,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [14]
 	{
@@ -172,14 +172,14 @@ AstralKeys = {
 	}, -- [15]
 	{
 		["btag"] = "Rathux#11683",
-		["weekly_best"] = 11,
+		["weekly_best"] = 16,
 		["class"] = "MONK",
 		["key_level"] = 9,
 		["unit"] = "Unhealable-Kil'jaeden",
 		["dungeon_id"] = 376,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 150237,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [16]
 	{
@@ -191,7 +191,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 236373,
 		["source"] = "friend",
 	}, -- [17]
 	{
@@ -214,7 +214,7 @@ AstralKeys = {
 		["dungeon_id"] = 375,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 129567,
+		["time_stamp"] = 236385,
 	}, -- [19]
 	{
 		["source"] = "guild",
@@ -225,12 +225,12 @@ AstralKeys = {
 		["dungeon_id"] = 376,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 5,
+		["time_stamp"] = 2,
 		["btag"] = "Laminator#1606",
 	}, -- [20]
 	{
 		["btag"] = "YukioX#1520",
-		["weekly_best"] = 0,
+		["weekly_best"] = 14,
 		["class"] = "MAGE",
 		["key_level"] = 15,
 		["unit"] = "Yukiox-Area52",
@@ -244,12 +244,12 @@ AstralKeys = {
 		["btag"] = "YukioX#1520",
 		["weekly_best"] = 11,
 		["class"] = "SHAMAN",
-		["key_level"] = 10,
+		["key_level"] = 9,
 		["unit"] = "Yukios-Kil'jaeden",
-		["dungeon_id"] = 381,
+		["dungeon_id"] = 377,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 4,
 		["source"] = "friend",
 	}, -- [22]
 	{
@@ -273,7 +273,7 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 141230,
+		["time_stamp"] = 220108,
 	}, -- [24]
 	{
 		["source"] = "guild",
@@ -290,24 +290,24 @@ AstralKeys = {
 		["btag"] = "cHEWY#1826",
 		["weekly_best"] = 12,
 		["class"] = "WARLOCK",
-		["key_level"] = 9,
+		["key_level"] = 10,
 		["unit"] = "Downloaded-Kil'jaeden",
-		["dungeon_id"] = 381,
+		["dungeon_id"] = 382,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 236808,
 		["source"] = "friend",
 	}, -- [26]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 0,
+		["weekly_best"] = 10,
 		["class"] = "HUNTER",
 		["key_level"] = 11,
 		["unit"] = "Hoofshots-Kil'jaeden",
 		["dungeon_id"] = 381,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 146686,
+		["time_stamp"] = 220961,
 	}, -- [27]
 	{
 		["source"] = "guild",
@@ -326,7 +326,7 @@ AstralKeys = {
 		["class"] = "DRUID",
 		["key_level"] = 14,
 		["unit"] = "Weedsong-Area52",
-		["dungeon_id"] = 381,
+		["dungeon_id"] = 376,
 		["week"] = 179,
 		["faction"] = "1",
 		["time_stamp"] = 0,
@@ -353,7 +353,7 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 138447,
+		["time_stamp"] = 223309,
 	}, -- [31]
 	{
 		["btag"] = "WinkyFace#11178",
@@ -405,14 +405,14 @@ AstralKeys = {
 	}, -- [35]
 	{
 		["btag"] = "Emosong#1897",
-		["weekly_best"] = 11,
+		["weekly_best"] = 14,
 		["class"] = "ROGUE",
-		["key_level"] = 13,
+		["key_level"] = 14,
 		["unit"] = "Emosong-Kil'jaeden",
-		["dungeon_id"] = 379,
+		["dungeon_id"] = 381,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 1,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [36]
 	{
@@ -435,7 +435,7 @@ AstralKeys = {
 		["dungeon_id"] = 379,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 5,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [38]
 	{
@@ -451,11 +451,11 @@ AstralKeys = {
 	}, -- [39]
 	{
 		["btag"] = "Johnnymsw#1452",
-		["weekly_best"] = 0,
+		["weekly_best"] = 13,
 		["class"] = "MONK",
-		["key_level"] = 13,
+		["key_level"] = 12,
 		["unit"] = "Gummybuns-Area52",
-		["dungeon_id"] = 377,
+		["dungeon_id"] = 375,
 		["week"] = 179,
 		["faction"] = "1",
 		["time_stamp"] = 0,
@@ -470,28 +470,28 @@ AstralKeys = {
 		["dungeon_id"] = 381,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 5,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [41]
 	{
 		["btag"] = "bum#1748",
-		["weekly_best"] = 10,
+		["weekly_best"] = 12,
 		["class"] = "WARRIOR",
 		["key_level"] = 11,
 		["unit"] = "Orcbum-Kil'jaeden",
 		["dungeon_id"] = 375,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 157060,
+		["time_stamp"] = 236242,
 		["source"] = "friend",
 	}, -- [42]
 	{
 		["btag"] = "CspaceJ#1920",
 		["weekly_best"] = 16,
 		["class"] = "WARLOCK",
-		["key_level"] = 16,
+		["key_level"] = 17,
 		["unit"] = "Warlockmania-Area52",
-		["dungeon_id"] = 378,
+		["dungeon_id"] = 376,
 		["week"] = 179,
 		["faction"] = "1",
 		["time_stamp"] = 0,
@@ -510,7 +510,7 @@ AstralKeys = {
 	}, -- [44]
 	{
 		["btag"] = "Delpi#3784",
-		["weekly_best"] = 0,
+		["weekly_best"] = 14,
 		["class"] = "PRIEST",
 		["key_level"] = 13,
 		["unit"] = "Delpix-Area52",
@@ -522,7 +522,7 @@ AstralKeys = {
 	}, -- [45]
 	{
 		["btag"] = "Laminator#1606",
-		["weekly_best"] = 0,
+		["weekly_best"] = 2,
 		["class"] = "DEATHKNIGHT",
 		["key_level"] = 2,
 		["unit"] = "Jamitin-Kil'jaeden",
@@ -541,25 +541,25 @@ AstralKeys = {
 		["dungeon_id"] = 380,
 		["week"] = 179,
 		["faction"] = "1",
-		["time_stamp"] = 151964,
+		["time_stamp"] = 2,
 		["source"] = "friend",
 	}, -- [47]
 	{
 		["source"] = "guild",
-		["weekly_best"] = 10,
+		["weekly_best"] = 14,
 		["class"] = "MAGE",
 		["key_level"] = 13,
 		["unit"] = "Delpi-Kil'jaeden",
 		["dungeon_id"] = 378,
 		["week"] = 179,
 		["faction"] = 1,
-		["time_stamp"] = 149382,
+		["time_stamp"] = 235231,
 		["btag"] = "Delpi#3784",
 	}, -- [48]
 }
 AstralCharacters = {
 	{
-		["weekly_best"] = 10,
+		["weekly_best"] = 11,
 		["class"] = "MONK",
 		["faction"] = 1,
 		["unit"] = "Toshmonk-Kil'jaeden",
@@ -576,10 +576,10 @@ AstralKeysSettings = {
 			["isEnabled"] = true,
 		},
 		["report_on_message"] = {
-			["no_key"] = true,
-			["party"] = true,
 			["guild"] = true,
 			["raid"] = false,
+			["no_key"] = true,
+			["party"] = true,
 		},
 		["show_tooltip_key"] = {
 			["isEnabled"] = true,

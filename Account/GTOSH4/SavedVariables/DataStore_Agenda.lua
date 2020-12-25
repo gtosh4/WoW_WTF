@@ -40,7 +40,7 @@ DataStore_AgendaDB = {
 				["Calendar"] = {
 					"2020-12-25|21:15|SET CONDUITS|4|4", -- [1]
 				},
-				["lastUpdate"] = 1608806751,
+				["lastUpdate"] = 1608891363,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 				},

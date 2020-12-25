@@ -77,6 +77,10 @@ BazookaDB = {
 						["bar"] = 2,
 						["pos"] = 1,
 					},
+					["Talent Set Manager"] = {
+						["enabled"] = false,
+						["pos"] = 7,
+					},
 					["MythicDungeonTools"] = {
 						["enabled"] = false,
 						["pos"] = 8,
@@ -85,9 +89,8 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 14,
 					},
-					["Talent Set Manager"] = {
-						["enabled"] = false,
-						["pos"] = 7,
+					["Death Note"] = {
+						["pos"] = 2,
 					},
 					["Difficulty"] = {
 						["showIcon"] = false,

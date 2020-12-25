@@ -122,6 +122,12 @@ BazookaDB = {
 						["pos"] = 1,
 						["bar"] = 3,
 					},
+					["Equipment"] = {
+						["useLabelAsTitle"] = false,
+						["area"] = "left",
+						["pos"] = 1,
+						["bar"] = 2,
+					},
 					["MythicDungeonTools"] = {
 						["enabled"] = false,
 						["pos"] = 8,
@@ -130,11 +136,8 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 14,
 					},
-					["Equipment"] = {
-						["useLabelAsTitle"] = false,
-						["area"] = "left",
-						["pos"] = 1,
-						["bar"] = 2,
+					["Death Note"] = {
+						["pos"] = 2,
 					},
 					["Talent Set Manager"] = {
 						["enabled"] = false,

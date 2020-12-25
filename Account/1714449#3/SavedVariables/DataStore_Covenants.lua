@@ -137,7 +137,7 @@ DataStore_CovenantsDB = {
 						},
 					},
 				},
-				["lastUpdate"] = 1608802207,
+				["lastUpdate"] = 1608885758,
 				["ConduitReinforceProgress"] = 5,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.2016096115112305,
@@ -151,26 +151,26 @@ DataStore_CovenantsDB = {
 				},
 				["ActiveSoulbindID"] = 13,
 				["AnimaCurrency"] = {
-					["count"] = 4273,
+					["count"] = 4341,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
 					[15] = {
 						["conduitID"] = 15,
-						["conduitType"] = 2,
 						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181373,
+						["conduitType"] = 2,
 						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181373,
 						["conduitRank"] = 4,
 					},
 					[59] = {
 						["conduitID"] = 59,
-						["conduitType"] = 1,
 						["conduitItemLevel"] = 200,
-						["conduitItemID"] = 181759,
+						["conduitType"] = 1,
 						["conduitSpecSetID"] = 164,
-						["covenantID"] = 1,
+						["conduitItemID"] = 181759,
 						["conduitRank"] = 5,
+						["covenantID"] = 1,
 					},
 					[31] = {
 						["conduitID"] = 31,
@@ -178,8 +178,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181505,
 						["conduitSpecSetID"] = 25,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Mistweaver",
+						["conduitRank"] = 5,
 					},
 					[16] = {
 						["conduitID"] = 16,
@@ -187,22 +187,22 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181376,
 						["conduitSpecSetID"] = 26,
-						["conduitRank"] = 4,
 						["conduitSpecName"] = "Windwalker",
+						["conduitRank"] = 4,
 					},
 					[33] = {
 						["conduitID"] = 33,
-						["conduitType"] = 2,
 						["conduitItemLevel"] = 200,
-						["conduitItemID"] = 181508,
+						["conduitType"] = 2,
 						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181508,
 						["conduitRank"] = 5,
 					},
 					[35] = {
 						["conduitID"] = 35,
 						["conduitItemLevel"] = 200,
-						["conduitItemID"] = 181510,
 						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181510,
 						["conduitRank"] = 5,
 					},
 					[19] = {
@@ -211,21 +211,21 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181435,
 						["conduitSpecSetID"] = 26,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Windwalker",
+						["conduitRank"] = 5,
 					},
 					[41] = {
 						["conduitID"] = 41,
 						["conduitItemLevel"] = 184,
-						["conduitItemID"] = 181624,
 						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181624,
 						["conduitRank"] = 4,
 					},
 					[42] = {
 						["conduitID"] = 42,
 						["conduitItemLevel"] = 213,
-						["conduitItemID"] = 181640,
 						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181640,
 						["conduitRank"] = 6,
 					},
 					[22] = {
@@ -234,8 +234,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181462,
 						["conduitSpecSetID"] = 26,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Windwalker",
+						["conduitRank"] = 5,
 					},
 					[44] = {
 						["conduitID"] = 44,
@@ -243,8 +243,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181641,
 						["conduitSpecSetID"] = 25,
-						["conduitRank"] = 4,
 						["conduitSpecName"] = "Mistweaver",
+						["conduitRank"] = 4,
 					},
 					[46] = {
 						["conduitID"] = 46,
@@ -252,8 +252,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181700,
 						["conduitSpecSetID"] = 24,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Brewmaster",
+						["conduitRank"] = 5,
 					},
 					[47] = {
 						["conduitID"] = 47,
@@ -261,22 +261,22 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181705,
 						["conduitSpecSetID"] = 24,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Brewmaster",
+						["conduitRank"] = 5,
 					},
 					[25] = {
 						["conduitID"] = 25,
-						["conduitType"] = 2,
 						["conduitItemLevel"] = 200,
-						["conduitItemID"] = 181466,
+						["conduitType"] = 2,
 						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181466,
 						["conduitRank"] = 5,
 					},
 					[37] = {
 						["conduitID"] = 37,
 						["conduitItemLevel"] = 200,
-						["conduitItemID"] = 181512,
 						["conduitSpecSetID"] = 164,
+						["conduitItemID"] = 181512,
 						["conduitRank"] = 5,
 					},
 					[54] = {
@@ -285,8 +285,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181737,
 						["conduitSpecSetID"] = 25,
-						["conduitRank"] = 4,
 						["conduitSpecName"] = "Mistweaver",
+						["conduitRank"] = 4,
 					},
 					[28] = {
 						["conduitID"] = 28,
@@ -294,8 +294,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181495,
 						["conduitSpecSetID"] = 25,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Mistweaver",
+						["conduitRank"] = 5,
 					},
 					[56] = {
 						["conduitID"] = 56,
@@ -303,8 +303,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181740,
 						["conduitSpecSetID"] = 24,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Brewmaster",
+						["conduitRank"] = 5,
 					},
 					[57] = {
 						["conduitID"] = 57,
@@ -312,8 +312,8 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 200,
 						["conduitItemID"] = 181742,
 						["conduitSpecSetID"] = 24,
-						["conduitRank"] = 5,
 						["conduitSpecName"] = "Brewmaster",
+						["conduitRank"] = 5,
 					},
 					[24] = {
 						["conduitID"] = 24,
@@ -321,11 +321,15 @@ DataStore_CovenantsDB = {
 						["conduitItemLevel"] = 184,
 						["conduitItemID"] = 181465,
 						["conduitSpecSetID"] = 26,
-						["conduitRank"] = 4,
 						["conduitSpecName"] = "Windwalker",
+						["conduitRank"] = 4,
 					},
 				},
-				["RenownLevel"] = 14,
+				["SoulCurrencies"] = {
+					1810, -- [1]
+				},
+				["RenownLevel"] = 15,
+				["CurrentTalentTreeID"] = 327,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
@@ -400,11 +404,11 @@ DataStore_CovenantsDB = {
 						},
 						["talentID"] = 1241,
 						["description"] = "Channel Anima to the Citadel of Loyalty, allowing you and your allies to challenge an elite foe.",
+						["name"] = "Citadel of Loyalty",
 						["normalizedPosition"] = {
 							["y"] = 0.2288322448730469,
 							["x"] = 0.2033868432044983,
 						},
-						["name"] = "Citadel of Loyalty",
 					}, -- [5]
 					{
 						["costs"] = {
@@ -415,12 +419,34 @@ DataStore_CovenantsDB = {
 						},
 						["talentID"] = 1242,
 						["description"] = "Channel Anima to the Eonian Archives, allowing access to mighty Kyrian enhancements.",
+						["name"] = "Eonian Archives",
 						["normalizedPosition"] = {
 							["y"] = 0.2973120808601379,
 							["x"] = 0.3884140253067017,
 						},
-						["name"] = "Eonian Archives",
 					}, -- [6]
+				},
+				["CovenantFeatures"] = {
+					{
+						["garrTalentTreeID"] = 308,
+						["featureType"] = 2,
+					}, -- [1]
+					{
+						["garrTalentTreeID"] = 312,
+						["featureType"] = 1,
+					}, -- [2]
+					{
+						["garrTalentTreeID"] = 316,
+						["featureType"] = 3,
+					}, -- [3]
+					{
+						["garrTalentTreeID"] = 320,
+						["featureType"] = 5,
+					}, -- [4]
+					{
+						["garrTalentTreeID"] = 327,
+						["featureType"] = 4,
+					}, -- [5]
 				},
 				["TalentTreeTalents"] = {
 					[312] = {
