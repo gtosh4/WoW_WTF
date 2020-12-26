@@ -36,13 +36,45 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 1,
 					},
+					[415855589] = {
+						["name"] = "Castle Nathria Heroic",
+						["resetTime"] = 1609253999,
+						["numEncounters"] = 10,
+						["bosses"] = {
+							["Huntsman Altimor"] = true,
+							["Lady Inerva Darkvein"] = true,
+							["Artificer Xy'mox"] = true,
+							["Sludgefist"] = true,
+							["Shriekwing"] = true,
+							["Hungering Destroyer"] = true,
+							["The Council of Blood"] = true,
+							["Stone Legion Generals"] = true,
+							["Sun King's Salvation"] = true,
+							["Sire Denathrius"] = true,
+						},
+						["progress"] = 10,
+						["extended"] = 0,
+						["isRaid"] = 1,
+					},
+					[415837469] = {
+						["name"] = "Castle Nathria Mythic",
+						["resetTime"] = 1609253999,
+						["numEncounters"] = 10,
+						["bosses"] = {
+							["Huntsman Altimor"] = true,
+							["Shriekwing"] = true,
+						},
+						["progress"] = 2,
+						["extended"] = 0,
+						["isRaid"] = 1,
+					},
 				},
-				["Calendar"] = {
-					"2020-12-25|21:15|SET CONDUITS|4|4", -- [1]
-				},
-				["lastUpdate"] = 1608891363,
+				["lastUpdate"] = 1608970450,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
+				},
+				["expiredCalendar"] = {
+					"2020-12-25|21:15|SET CONDUITS|4|4", -- [1]
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {

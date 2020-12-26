@@ -19,6 +19,7 @@ MADB = {
 					},
 					["name"] = "UIWidgetBelowMinimapContainerFrame",
 					["scale"] = 1,
+					["orgScale"] = 1,
 					["pos"] = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
@@ -26,7 +27,6 @@ MADB = {
 						-361.0102767447787, -- [4]
 						14.16689652202727, -- [5]
 					},
-					["orgScale"] = 1,
 				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
@@ -80,6 +80,27 @@ MADB = {
 						0, -- [5]
 					},
 				},
+				["ChallengesKeystoneFrame"] = {
+					["UIPanelWindows"] = {
+						["pushable"] = 0,
+						["area"] = "center",
+					},
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"UIParent", -- [2]
+						"CENTER", -- [3]
+						0, -- [4]
+						40.00000381469727, -- [5]
+					},
+					["name"] = "ChallengesKeystoneFrame",
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						2123.49951171875, -- [4]
+						461.0001220703125, -- [5]
+					},
+				},
 				["TooltipMover"] = {
 					["orgPos"] = {
 						"TOP", -- [1]
@@ -100,8 +121,8 @@ MADB = {
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["frameListRows"] = 18,
-	["noBags"] = true,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = true,
+	["frameListRows"] = 18,
 }

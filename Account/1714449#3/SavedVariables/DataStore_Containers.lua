@@ -444,7 +444,7 @@ DataStore_ContainersDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["numFreeBankSlots"] = 92,
 				["numBankSlots"] = 116,
-				["lastUpdate"] = 1608885998,
+				["lastUpdate"] = 1608970463,
 				["Containers"] = {
 					["Bag-3"] = {
 						["freeslots"] = 10,
@@ -830,58 +830,6 @@ DataStore_ContainersDB = {
 						},
 						["size"] = 30,
 					},
-					["Bag0"] = {
-						["freeslots"] = 6,
-						["size"] = 20,
-						["ids"] = {
-							178040, -- [1]
-							nil, -- [2]
-							173049, -- [3]
-							168676, -- [4]
-							177055, -- [5]
-							178805, -- [6]
-							nil, -- [7]
-							171267, -- [8]
-							171276, -- [9]
-							178995, -- [10]
-							172316, -- [11]
-							177057, -- [12]
-							nil, -- [13]
-							171268, -- [14]
-							nil, -- [15]
-							158923, -- [16]
-							[18] = 171268,
-							[20] = 183036,
-						},
-						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
-						["counts"] = {
-							[8] = 18,
-							[3] = 20,
-							[14] = 7,
-							[9] = 9,
-							[18] = 20,
-						},
-						["links"] = {
-							"|cff0070dd|Hitem:178040::::::::60:270:::::::|h[Condensed Stygia]|h|r", -- [1]
-							nil, -- [2]
-							"|cff1eff00|Hitem:173049::::::::60:270:::::::|h[Tome of the Still Mind]|h|r", -- [3]
-							"|cffa335ee|Hitem:168676::153715::::::60:270::13:::::|h[Ascended Alchemist Stone]|h|r", -- [4]
-							"|cff0070dd|Hitem:177055::::::::60:270::11:3:7197:1493:6616:1:28:2060:::|h[Selfless Bearer's Shoulders]|h|r", -- [5]
-							"|cffa335ee|Hitem:178805::::::::60:270::16:6:7205:6652:7193:1501:5855:6646:1:28:1279:::|h[Girdle of Shattered Dreams]|h|r", -- [6]
-							nil, -- [7]
-							"|cffffffff|Hitem:171267::::::::60:270:::::::|h[Spiritual Healing Potion]|h|r", -- [8]
-							"|cffffffff|Hitem:171276::::::::60:270:::::::|h[Spectral Flask of Power]|h|r", -- [9]
-							"|cffffffff|Hitem:178995::::::::60:270:::::::|h[Soul Mirror Shard]|h|r", -- [10]
-							"|cffff8000|Hitem:172316::::::::60:270::63:5:7077:6716:6650:6647:1487::::|h[Stormstout's Last Keg]|h|r", -- [11]
-							"|cff0070dd|Hitem:177057::::::::60:270::11:3:7196:1486:6616:1:28:2060:::|h[Selfless Bearer's Wrists]|h|r", -- [12]
-							nil, -- [13]
-							"|cffffffff|Hitem:171268::::::::60:270:::::::|h[Spiritual Mana Potion]|h|r", -- [14]
-							nil, -- [15]
-							"|cffa335ee|Hkeystone:180653:379:13:10:123:12:121|h[Keystone: Plaguefall (13)]|h|r", -- [16]
-							[18] = "|cffffffff|Hitem:171268::::::::60:270:::::::|h[Spiritual Mana Potion]|h|r",
-							[20] = "|cffa335ee|Hitem:183036:6170:::::::60:270::82:5:7189:6652:7193:1472:6646:1:28:751:::|h[Most Regal Signet of Sire Denathrius]|h|r",
-						},
-					},
 					["Bag5"] = {
 						["rarity"] = 2,
 						["ids"] = {
@@ -1038,6 +986,58 @@ DataStore_ContainersDB = {
 						["link"] = "|cffa335ee|Hitem:114821::::::::60:270:::::::|h[Hexweave Bag]|h|r",
 						["size"] = 30,
 					},
+					["Bag0"] = {
+						["freeslots"] = 6,
+						["size"] = 20,
+						["ids"] = {
+							178040, -- [1]
+							nil, -- [2]
+							173049, -- [3]
+							168676, -- [4]
+							177055, -- [5]
+							178805, -- [6]
+							nil, -- [7]
+							171267, -- [8]
+							171276, -- [9]
+							178995, -- [10]
+							172316, -- [11]
+							177057, -- [12]
+							nil, -- [13]
+							171268, -- [14]
+							nil, -- [15]
+							158923, -- [16]
+							[18] = 171268,
+							[20] = 183036,
+						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["counts"] = {
+							[8] = 18,
+							[3] = 20,
+							[14] = 7,
+							[9] = 9,
+							[18] = 20,
+						},
+						["links"] = {
+							"|cff0070dd|Hitem:178040::::::::60:270:::::::|h[Condensed Stygia]|h|r", -- [1]
+							nil, -- [2]
+							"|cff1eff00|Hitem:173049::::::::60:270:::::::|h[Tome of the Still Mind]|h|r", -- [3]
+							"|cffa335ee|Hitem:168676::153715::::::60:270::13:::::|h[Ascended Alchemist Stone]|h|r", -- [4]
+							"|cff0070dd|Hitem:177055::::::::60:270::11:3:7197:1493:6616:1:28:2060:::|h[Selfless Bearer's Shoulders]|h|r", -- [5]
+							"|cffa335ee|Hitem:178805::::::::60:270::16:6:7205:6652:7193:1501:5855:6646:1:28:1279:::|h[Girdle of Shattered Dreams]|h|r", -- [6]
+							nil, -- [7]
+							"|cffffffff|Hitem:171267::::::::60:270:::::::|h[Spiritual Healing Potion]|h|r", -- [8]
+							"|cffffffff|Hitem:171276::::::::60:270:::::::|h[Spectral Flask of Power]|h|r", -- [9]
+							"|cffffffff|Hitem:178995::::::::60:270:::::::|h[Soul Mirror Shard]|h|r", -- [10]
+							"|cffff8000|Hitem:172316::::::::60:270::63:5:7077:6716:6650:6647:1487::::|h[Stormstout's Last Keg]|h|r", -- [11]
+							"|cff0070dd|Hitem:177057::::::::60:270::11:3:7196:1486:6616:1:28:2060:::|h[Selfless Bearer's Wrists]|h|r", -- [12]
+							nil, -- [13]
+							"|cffffffff|Hitem:171268::::::::60:270:::::::|h[Spiritual Mana Potion]|h|r", -- [14]
+							nil, -- [15]
+							"|cffa335ee|Hkeystone:180653:379:13:10:123:12:121|h[Keystone: Plaguefall (13)]|h|r", -- [16]
+							[18] = "|cffffffff|Hitem:171268::::::::60:270:::::::|h[Spiritual Mana Potion]|h|r",
+							[20] = "|cffa335ee|Hitem:183036:6170:::::::60:270::82:5:7189:6652:7193:1472:6646:1:28:751:::|h[Most Regal Signet of Sire Denathrius]|h|r",
+						},
+					},
 					["Bag1"] = {
 						["rarity"] = 4,
 						["ids"] = {
@@ -1099,7 +1099,7 @@ DataStore_ContainersDB = {
 							4, -- [1]
 							[21] = 9,
 							[22] = 20,
-							[15] = 9,
+							[15] = 11,
 							[4] = 19,
 						},
 						["size"] = 30,

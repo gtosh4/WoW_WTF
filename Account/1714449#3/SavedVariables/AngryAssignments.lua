@@ -59,6 +59,8 @@ AngryAssign_State = {
 		["left"] = 421.6665344238281,
 		["width"] = 700,
 	},
+	["locked"] = true,
+	["directionUp"] = false,
 	["display"] = {
 		["y"] = -135.3328857421875,
 		["x"] = 0,
@@ -75,8 +77,6 @@ AngryAssign_State = {
 		["treewidth"] = 175,
 		["fullwidth"] = 666.0001220703125,
 	},
-	["locked"] = true,
-	["directionUp"] = false,
 }
 AngryAssign_Config = {
 }
