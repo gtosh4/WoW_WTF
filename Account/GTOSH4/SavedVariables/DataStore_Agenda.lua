@@ -15,10 +15,17 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1608413139,
 			},
 			["Default.Area 52.Toshpriest"] = {
+				["expiredCalendar"] = {
+					"2020-12-25|21:15|SET CONDUITS|4|4", -- [1]
+				},
+				["lastUpdate"] = 1609063572,
+				["Contacts"] = {
+					--[[ skipped entry with table key ]]
+				},
 				["DungeonIDs"] = {
 					[381002176] = {
 						["name"] = "Castle Nathria Normal",
-						["resetTime"] = 1609253999,
+						["resetTime"] = 1609253998,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -38,7 +45,7 @@ DataStore_AgendaDB = {
 					},
 					[415855589] = {
 						["name"] = "Castle Nathria Heroic",
-						["resetTime"] = 1609253999,
+						["resetTime"] = 1609253998,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -58,7 +65,7 @@ DataStore_AgendaDB = {
 					},
 					[415837469] = {
 						["name"] = "Castle Nathria Mythic",
-						["resetTime"] = 1609253999,
+						["resetTime"] = 1609253998,
 						["numEncounters"] = 10,
 						["bosses"] = {
 							["Huntsman Altimor"] = true,
@@ -68,13 +75,6 @@ DataStore_AgendaDB = {
 						["extended"] = 0,
 						["isRaid"] = 1,
 					},
-				},
-				["lastUpdate"] = 1608970450,
-				["Contacts"] = {
-					--[[ skipped entry with table key ]]
-				},
-				["expiredCalendar"] = {
-					"2020-12-25|21:15|SET CONDUITS|4|4", -- [1]
 				},
 			},
 			["Default.Kil'jaeden.Toshdk"] = {

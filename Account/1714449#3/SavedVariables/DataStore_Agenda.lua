@@ -54,7 +54,7 @@ DataStore_AgendaDB = {
 						["isRaid"] = 1,
 					},
 				},
-				["lastUpdate"] = 1608970460,
+				["lastUpdate"] = 1609062282,
 			},
 		},
 	},

@@ -272,12 +272,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Council o' Captains"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
 				["Default"] = {
-					[258381] = 3129591,
-					[256979] = 3129591,
-					[258338] = 3129591,
+					["posx"] = 513.6001447701419,
+					["posy"] = 154.133307101727,
 				},
 			},
 		},
@@ -408,11 +407,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Bosses_Council o' Captains"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 513.6001447701419,
-					["posy"] = 154.133307101727,
+					[258381] = 3129591,
+					[256979] = 3129591,
+					[258338] = 3129591,
 				},
 			},
 		},

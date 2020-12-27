@@ -13,13 +13,13 @@ DataStore_CurrenciesDB = {
 					[1580] = "2-0-0-5",
 					[1719] = "14756-0-0-0",
 					[1716] = "229-0-0-0",
-					[1710] = "355-0-0-0",
+					[1155] = "250-0-0-300",
 					[1721] = "3-0-0-0",
 					[1803] = "5743-0-0-0",
-					[1560] = "15197-0-0-0",
+					[1710] = "355-0-0-0",
 					[1166] = "765-0-0-0",
+					[1560] = "15197-0-0-0",
 					[1755] = "236-0-0-0",
-					[1155] = "250-0-0-300",
 					[1718] = "0-0-0-0",
 					[1820] = "44-0-0-100",
 				},
@@ -195,9 +195,9 @@ DataStore_CurrenciesDB = {
 			["Default.Kil'jaeden.Toshmonk"] = {
 				["CurrencyInfo"] = {
 					[1820] = "100-0-0-100",
-					[1885] = "22-0-0-0",
+					[1885] = "24-0-0-0",
 					[1580] = "3-0-0-5",
-					[1767] = "18097-0-0-0",
+					[1767] = "18517-0-0-0",
 					[1273] = "0-0-0-6",
 					[1275] = "26-0-0-0",
 					[1710] = "118-0-0-0",
@@ -207,7 +207,7 @@ DataStore_CurrenciesDB = {
 					[1220] = "14331-0-0-0",
 					[1718] = "0-0-0-0",
 					[1533] = "53-0-0-0",
-					[1813] = "4258-0-0-35000",
+					[1813] = "4067-0-0-35000",
 					[1721] = "317-0-0-0",
 					[1226] = "766-0-0-0",
 					[1716] = "327-0-0-0",
@@ -225,7 +225,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 29,
-						["count"] = 22,
+						["count"] = 24,
 					}, -- [2]
 					{
 						["isHeader"] = false,
@@ -235,7 +235,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 26,
-						["count"] = 4258,
+						["count"] = 4067,
 					}, -- [4]
 					{
 						["isHeader"] = false,
@@ -245,7 +245,7 @@ DataStore_CurrenciesDB = {
 					{
 						["isHeader"] = false,
 						["index"] = 27,
-						["count"] = 18097,
+						["count"] = 18517,
 					}, -- [6]
 					{
 						["isHeader"] = true,
@@ -349,7 +349,7 @@ DataStore_CurrenciesDB = {
 					}, -- [26]
 				},
 				["Conquest"] = 0,
-				["lastUpdate"] = 1608970457,
+				["lastUpdate"] = 1609062282,
 				["Archeology"] = {
 					0, -- [1]
 					0, -- [2]
@@ -417,9 +417,9 @@ DataStore_CurrenciesDB = {
 				["Veiled Argunite"] = 20,
 				["Infused Ruby"] = 25,
 				["Honorbound Service Medal"] = 8,
-				["Timewarped Badge"] = 4,
-				["Player vs. Player"] = 22,
 				["Soul Ash"] = 28,
+				["Player vs. Player"] = 22,
+				["Timewarped Badge"] = 4,
 				["Shadowlands"] = 24,
 				["Battle for Azeroth"] = 1,
 				["War Resources"] = 2,

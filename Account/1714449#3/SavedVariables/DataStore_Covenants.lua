@@ -137,21 +137,21 @@ DataStore_CovenantsDB = {
 						},
 					},
 				},
-				["lastUpdate"] = 1608970457,
-				["ConduitReinforceProgress"] = 5,
+				["lastUpdate"] = 1609062280,
+				["ConduitReinforceProgress"] = 6,
 				["ConduitOriginPosition"] = {
 					["y"] = 0.2016096115112305,
 					["x"] = 0.6407538652420044,
 				},
 				["InstalledConduits"] = {
 					[1365] = 37,
-					[1366] = 31,
+					[1366] = 28,
 					[1305] = 57,
 					[1312] = 15,
 				},
 				["ActiveSoulbindID"] = 13,
 				["AnimaCurrency"] = {
-					["count"] = 4258,
+					["count"] = 4067,
 					["maxDisplayable"] = 10000,
 				},
 				["ConduitCollection"] = {
@@ -325,17 +325,13 @@ DataStore_CovenantsDB = {
 						["conduitRank"] = 4,
 					},
 				},
-				["SoulCurrencies"] = {
-					1810, -- [1]
-				},
 				["RenownLevel"] = 15,
-				["CurrentTalentTreeID"] = 327,
 				["ConduitNodes"] = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 3,
@@ -350,8 +346,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -366,8 +362,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -382,8 +378,8 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
 						["state"] = 1,
@@ -398,12 +394,12 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1241,
 						["description"] = "Channel Anima to the Citadel of Loyalty, allowing you and your allies to challenge an elite foe.",
+						["talentID"] = 1241,
 						["name"] = "Citadel of Loyalty",
 						["normalizedPosition"] = {
 							["y"] = 0.2288322448730469,
@@ -413,40 +409,18 @@ DataStore_CovenantsDB = {
 					{
 						["costs"] = {
 							{
-								["quantity"] = 25,
 								["currencyID"] = 1813,
+								["quantity"] = 25,
 							}, -- [1]
 						},
-						["talentID"] = 1242,
 						["description"] = "Channel Anima to the Eonian Archives, allowing access to mighty Kyrian enhancements.",
+						["talentID"] = 1242,
 						["name"] = "Eonian Archives",
 						["normalizedPosition"] = {
 							["y"] = 0.2973120808601379,
 							["x"] = 0.3884140253067017,
 						},
 					}, -- [6]
-				},
-				["CovenantFeatures"] = {
-					{
-						["garrTalentTreeID"] = 308,
-						["featureType"] = 2,
-					}, -- [1]
-					{
-						["garrTalentTreeID"] = 312,
-						["featureType"] = 1,
-					}, -- [2]
-					{
-						["garrTalentTreeID"] = 316,
-						["featureType"] = 3,
-					}, -- [3]
-					{
-						["garrTalentTreeID"] = 320,
-						["featureType"] = 5,
-					}, -- [4]
-					{
-						["garrTalentTreeID"] = 327,
-						["featureType"] = 4,
-					}, -- [5]
 				},
 				["TalentTreeTalents"] = {
 					[312] = {

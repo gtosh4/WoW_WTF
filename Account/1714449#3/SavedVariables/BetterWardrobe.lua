@@ -36,8 +36,7 @@ BetterWardrobe_SavedSetData = {
 		["sets"] = {
 			["Toshmonk - Kil'jaeden"] = {
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -45,7 +44,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -67,16 +67,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "chiji",
 					["patchID"] = "",
 					["setID"] = 5000,
 					["uiOrder"] = 100,
 					["icon"] = 1360261,
-					["name"] = "chiji",
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -84,7 +83,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						98476, -- [1]
 						0, -- [2]
@@ -106,17 +106,56 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "pirate",
 					["patchID"] = "",
 					["setID"] = 5002,
 					["uiOrder"] = 200,
 					["icon"] = 1941312,
-					["name"] = "pirate",
+					["isClass"] = true,
 				}, -- [2]
+				{
+					["expansionID"] = 1,
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["favorite"] = false,
+					["limitedTimeSet"] = false,
+					["collected"] = true,
+					["hiddenUtilCollected"] = false,
+					["items"] = {
+					},
+					["sources"] = {
+						0, -- [1]
+						0, -- [2]
+						111661, -- [3]
+						0, -- [4]
+						114502, -- [5]
+						109085, -- [6]
+						109141, -- [7]
+						115676, -- [8]
+						104604, -- [9]
+						63601, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						114547, -- [15]
+						111454, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "slands",
+					["patchID"] = "",
+					["setID"] = 5001,
+					["uiOrder"] = 300,
+					["icon"] = 3564693,
+					["isClass"] = true,
+				}, -- [3]
 			},
 			["Toshpriest - Area 52"] = {
 				{
-					["isClass"] = true,
+					["name"] = "something",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -124,7 +163,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						96552, -- [1]
 						0, -- [2]
@@ -146,16 +186,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "something",
+					["isClass"] = true,
 					["setID"] = 5000,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["name"] = "something2",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -163,7 +202,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						73196, -- [1]
 						0, -- [2]
@@ -185,18 +225,17 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "something2",
+					["isClass"] = true,
 					["setID"] = 5001,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [2]
 			},
 			["Toshaman - Area 52"] = {
 				{
-					["isClass"] = true,
+					["name"] = "deathspeaker",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -204,7 +243,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						97062, -- [1]
 						0, -- [2]
@@ -226,16 +266,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "deathspeaker",
+					["isClass"] = true,
 					["setID"] = 5000,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["name"] = "cool i guess",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -243,7 +282,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						66666, -- [1]
 						0, -- [2]
@@ -265,16 +305,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "cool i guess",
+					["isClass"] = true,
 					["setID"] = 5001,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [2]
 				{
-					["isClass"] = true,
+					["name"] = "cool2",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -282,7 +321,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 300,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						101894, -- [1]
 						0, -- [2]
@@ -304,13 +344,12 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "cool2",
+					["isClass"] = true,
 					["setID"] = 5002,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [3]
 			},
 		},
