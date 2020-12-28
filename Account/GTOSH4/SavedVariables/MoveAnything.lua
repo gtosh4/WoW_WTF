@@ -9,24 +9,56 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
-				["UIWidgetBelowMinimapContainerFrame"] = {
+				["VehicleSeatIndicator"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
 						"BOTTOMRIGHT", -- [3]
-						0, -- [4]
-						0, -- [5]
+						40.00000381469727, -- [4]
+						15, -- [5]
 					},
-					["name"] = "UIWidgetBelowMinimapContainerFrame",
-					["scale"] = 1,
+					["name"] = "VehicleSeatIndicator",
 					["pos"] = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
 						"BOTTOMRIGHT", -- [3]
-						-361.0102767447787, -- [4]
-						14.16689652202727, -- [5]
+						-621.16748046875, -- [4]
+						-899.1663818359375, -- [5]
 					},
-					["orgScale"] = 1,
+				},
+				["DurabilityFrame"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-41.00006484985352, -- [4]
+						0, -- [5]
+					},
+					["name"] = "DurabilityFrame",
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-2530.166931152344, -- [4]
+						172.4993896484375, -- [5]
+					},
+				},
+				["PlayerBuffsMover"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
+						-205, -- [4]
+						-13, -- [5]
+					},
+					["name"] = "PlayerBuffsMover",
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
+						-530, -- [4]
+						-5, -- [5]
+					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
@@ -39,28 +71,10 @@ MADB = {
 					["name"] = "ObjectiveTrackerFrameMover",
 					["pos"] = {
 						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-4.166015625, -- [4]
-						-12.5001220703125, -- [5]
-					},
-				},
-				["TalkingHeadFrame"] = {
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"DominosFrametalk", -- [2]
-						"CENTER", -- [3]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
 						0, -- [4]
 						0, -- [5]
-					},
-					["name"] = "TalkingHeadFrame",
-					["hidden"] = true,
-					["pos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						6.103515625e-05, -- [4]
-						96, -- [5]
 					},
 				},
 				["ChatFrameChannelButton"] = {
@@ -101,6 +115,25 @@ MADB = {
 						461.0001220703125, -- [5]
 					},
 				},
+				["UIWidgetBelowMinimapContainerFrame"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "UIWidgetBelowMinimapContainerFrame",
+					["scale"] = 1,
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-361.0102767447787, -- [4]
+						14.16689652202727, -- [5]
+					},
+					["orgScale"] = 1,
+				},
 				["TooltipMover"] = {
 					["orgPos"] = {
 						"TOP", -- [1]
@@ -113,8 +146,8 @@ MADB = {
 						"TOP", -- [1]
 						"UIParent", -- [2]
 						"TOP", -- [3]
-						443.3338623046875, -- [4]
-						-11.6663818359375, -- [5]
+						1105.833618164063, -- [4]
+						-9.9991455078125, -- [5]
 					},
 				},
 			},

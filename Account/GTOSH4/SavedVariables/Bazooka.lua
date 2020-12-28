@@ -156,7 +156,6 @@ BazookaDB = {
 					},
 				},
 			},
-			["locked"] = true,
 			["bars"] = {
 				{
 					["y"] = 0,
@@ -194,13 +193,14 @@ BazookaDB = {
 				}, -- [3]
 				{
 					["bgInset"] = 4,
-					["y"] = -161.6664886474609,
-					["relPoint"] = "TOPRIGHT",
-					["frameWidth"] = 139.9999542236328,
+					["y"] = 193.3335876464844,
+					["relPoint"] = "BOTTOMLEFT",
+					["frameWidth"] = 166,
 					["pos"] = 0,
-					["point"] = "TOPRIGHT",
+					["x"] = 0.5025116205215454,
+					["point"] = "BOTTOMLEFT",
+					["marked"] = true,
 					["frameHeight"] = 19.99999237060547,
-					["x"] = -4.497645854949951,
 				}, -- [4]
 			},
 		},

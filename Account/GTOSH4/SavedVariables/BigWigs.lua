@@ -152,6 +152,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["LibDualSpec-1.0"] = {
+		},
 		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -159,24 +161,16 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Bosses_An Affront of Challengers"] = {
+		["BigWigs_Bosses_Hungering Destroyer"] = {
 			["profiles"] = {
 				["Default"] = {
-					[320069] = 3129591,
-					[333540] = 3129591,
+					[329455] = 3129591,
 				},
 			},
 		},
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Bosses_Sludgefist"] = {
-			["profiles"] = {
-				["Default"] = {
-					[332687] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
 			["profiles"] = {
@@ -192,10 +186,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Knight Captain Valyri"] = {
+		["BigWigs_Bosses_Huntsman Altimor"] = {
 			["profiles"] = {
 				["Default"] = {
-					[256955] = 3129591,
+					[334797] = 3133687,
 				},
 			},
 		},
@@ -214,7 +208,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Bosses_Knight Captain Valyri"] = {
+			["profiles"] = {
+				["Default"] = {
+					[256955] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -278,22 +277,20 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Carapace of N'Zoth"] = {
+		["BigWigs_Bosses_Sludgefist"] = {
 			["profiles"] = {
 				["Default"] = {
-					[313039] = 3129591,
-					[307809] = 3129591,
+					[332687] = 3129591,
 				},
 			},
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Bosses_Council o' Captains"] = {
+		["BigWigs_Bosses_Carapace of N'Zoth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[258381] = 3129591,
-					[256979] = 3129591,
-					[258338] = 3129591,
+					[313039] = 3129591,
+					[307809] = 3129591,
 				},
 			},
 		},
@@ -304,10 +301,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Bosses_An Affront of Challengers"] = {
 			["profiles"] = {
 				["Default"] = {
-					[255371] = 3129591,
+					[320069] = 3129591,
+					[333540] = 3129591,
 				},
 			},
 		},
@@ -318,6 +316,17 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Council o' Captains"] = {
+			["profiles"] = {
+				["Default"] = {
+					[258381] = 3129591,
+					[256979] = 3129591,
+					[258338] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -326,15 +335,6 @@ BigWigs3DB = {
 					["lock"] = true,
 					["fontName"] = "Friz Quadrata TT",
 					["posy"] = 191.999976177216,
-				},
-			},
-		},
-		["BigWigs_Plugins_Colors"] = {
-		},
-		["BigWigs_Bosses_Hungering Destroyer"] = {
-			["profiles"] = {
-				["Default"] = {
-					[329455] = 3129591,
 				},
 			},
 		},
@@ -364,10 +364,10 @@ BigWigs3DB = {
 					["fontSizeEmph"] = 12,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 24.99999046325684,
-					["texture"] = "Smooth v2",
-					["BigWigsEmphasizeAnchor_x"] = 302.4004229283237,
 					["emphasizeTime"] = 15,
+					["BigWigsEmphasizeAnchor_x"] = 302.4004229283237,
 					["BigWigsEmphasizeAnchor_width"] = 181.6665802001953,
+					["texture"] = "Smooth v2",
 				},
 			},
 		},
@@ -482,14 +482,14 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Huntsman Altimor"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[334797] = 3133687,
+					[255371] = 3129591,
 				},
 			},
-		},
-		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Bosses_Sire Denathrius"] = {
 			["profiles"] = {
@@ -514,11 +514,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Vexiona"] = {
+		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
 				["Default"] = {
-					[315762] = 3130111,
-					[307639] = 3129591,
+					[259732] = 3129591,
 				},
 			},
 		},
@@ -529,10 +528,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Sporecaller Zancha"] = {
+		["BigWigs_Bosses_Vexiona"] = {
 			["profiles"] = {
 				["Default"] = {
-					[259732] = 3129591,
+					[315762] = 3130111,
+					[307639] = 3129591,
 				},
 			},
 		},

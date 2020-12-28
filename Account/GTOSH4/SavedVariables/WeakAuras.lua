@@ -575,12 +575,7 @@ WeakAurasSaved = {
 				["timeLeft"] = 300,
 				["always"] = false,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["authorOptions"] = {
 				{
 					["softMin"] = 60,
@@ -606,7 +601,12 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -671,7 +671,7 @@ WeakAurasSaved = {
 					},
 				}, -- [3]
 			},
-			["parent"] = "Weapon temp enchants",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.7",
 			["width"] = 35,
 			["zoom"] = 0,
@@ -684,9 +684,6 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = true,
 			["uid"] = "(vTlg3gm2hz",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "463544",
-			["cooldown"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -697,6 +694,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "463544",
+			["cooldown"] = true,
+			["parent"] = "Weapon temp enchants",
 		},
 		["07 Dark Recital Partner - Yellow "] = {
 			["outline"] = "OUTLINE",
@@ -766,8 +766,8 @@ WeakAurasSaved = {
 			["keepAspectRatio"] = false,
 			["wordWrap"] = "WordWrap",
 			["justify"] = "LEFT",
-			["desaturate"] = false,
 			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["font"] = "Friz Quadrata TT",
 			["version"] = 24,
 			["subRegions"] = {
@@ -807,8 +807,7 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldown"] = true,
-			["conditions"] = {
-			},
+			["displayIcon"] = 135740,
 			["fontSize"] = 12,
 			["actions"] = {
 				["start"] = {
@@ -829,11 +828,12 @@ WeakAurasSaved = {
 			["shadowXOffset"] = 1,
 			["shadowYOffset"] = -1,
 			["uid"] = "uQmnWy8mpUe",
-			["displayIcon"] = 135740,
+			["preferToUpdate"] = false,
 			["regionType"] = "text",
 			["width"] = 75,
 			["alpha"] = 1,
-			["preferToUpdate"] = false,
+			["conditions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -1305,7 +1305,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -1383,7 +1383,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -1476,7 +1476,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "8JXwVGqveZp",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -1512,27 +1512,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\circle_leaf_fill.tga",
-			["actions"] = {
-				["start"] = {
-					["custom"] = "",
-					["do_custom"] = false,
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 1, 0, 0}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 0, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "circle_leaf_fill",
 			["frameStrata"] = 1,
@@ -1546,11 +1535,22 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+					["custom"] = "",
+					["do_custom"] = false,
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 1, 0, 0}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 0, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
 		},
 		["06 Shared Suffering - Yellow"] = {
 			["text2Point"] = "CENTER",
@@ -2198,11 +2198,6 @@ WeakAurasSaved = {
 				},
 			},
 			["zoom"] = 0,
-			["url"] = "https://wago.io/XNg03PyZj/1",
-			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["cooldown"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -2210,6 +2205,16 @@ WeakAurasSaved = {
 				},
 				["init"] = {
 				},
+			},
+			["regionType"] = "icon",
+			["selfPoint"] = "CENTER",
+			["url"] = "https://wago.io/XNg03PyZj/1",
+			["cooldown"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["uid"] = "KQEcXCBrkmH",
 			["alpha"] = 1,
@@ -2224,18 +2229,13 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["authorOptions"] = {
 			},
 		},
 		["05 Volatile Ejection targeted - White"] = {
@@ -2498,7 +2498,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -2576,7 +2576,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -2667,7 +2667,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "elTvsfc0hBJ",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -2703,25 +2703,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\nocircle_lotus_nofill.tga",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 0, 1, 7}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 7, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "nocircle_noleaf_nofill",
 			["frameStrata"] = 1,
@@ -2735,11 +2726,20 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 0, 1, 7}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 7, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
 		},
 		["Quaking Bar"] = {
 			["sparkWidth"] = 3,
@@ -3286,15 +3286,15 @@ WeakAurasSaved = {
 			},
 			["config"] = {
 			},
+			["xOffset"] = 0,
+			["parent"] = "Heavy Desolate Armor Kit check",
+			["regionType"] = "icon",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Heavy Desolate Armor Kit check",
-			["regionType"] = "icon",
-			["url"] = "https://wago.io/DesolateArmorKit/14",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -3372,7 +3372,7 @@ WeakAurasSaved = {
 					},
 				}, -- [3]
 			},
-			["selfPoint"] = "CENTER",
+			["url"] = "https://wago.io/DesolateArmorKit/14",
 			["cooldownTextDisabled"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["zoom"] = 0,
@@ -3385,9 +3385,6 @@ WeakAurasSaved = {
 			["semver"] = "1.0.13",
 			["uid"] = "CQzpF1pDDWu",
 			["inverse"] = false,
-			["xOffset"] = 0,
-			["displayIcon"] = "132638",
-			["cooldown"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -3398,6 +3395,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "132638",
+			["cooldown"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["circle_lotus_fill"] = {
 			["iconSource"] = 0,
@@ -3412,7 +3412,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -3490,7 +3490,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -3581,7 +3581,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "r7WpfSk1XOA",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -3617,25 +3617,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\circle_lotus_fill.tga",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 0, 0, 2}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 2, b)\nend\nif aura_env.noCommunication then \n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "circle_lotus_fill",
 			["frameStrata"] = 1,
@@ -3649,11 +3640,20 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 0, 0, 2}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 2, b)\nend\nif aura_env.noCommunication then \n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
 		},
 		["ZenTracker (ZT) Main"] = {
 			["outline"] = "OUTLINE",
@@ -4141,7 +4141,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -4219,7 +4219,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -4310,7 +4310,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "9fxaRMOhArX",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -4346,25 +4346,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\circle_lotus_nofill.tga",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 0, 1, 3}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 3, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "circle_lotus_nofill",
 			["frameStrata"] = 1,
@@ -4378,11 +4369,20 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 0, 1, 3}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 3, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
 		},
 		["Bone Shield"] = {
 			["iconSource"] = -1,
@@ -4632,14 +4632,14 @@ WeakAurasSaved = {
 			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["wordWrap"] = "WordWrap",
-			["xOffset"] = 0,
+			["automaticWidth"] = "Auto",
 			["desaturate"] = false,
 			["font"] = "Oswald",
 			["version"] = 11,
 			["subRegions"] = {
 			},
 			["height"] = 1,
-			["anchorPoint"] = "TOP",
+			["selfPoint"] = "TOP",
 			["load"] = {
 				["use_never"] = false,
 				["use_ingroup"] = true,
@@ -4665,6 +4665,45 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["fontSize"] = 36,
+			["anchorPoint"] = "TOP",
+			["displayText_format_n_format"] = "none",
+			["shadowXOffset"] = 1,
+			["authorOptions"] = {
+				{
+					["type"] = "input",
+					["useDesc"] = true,
+					["width"] = 1,
+					["key"] = "leader",
+					["default"] = "",
+					["desc"] = "If configured, your characters will only receive commands from this character.",
+					["multiline"] = false,
+					["length"] = 10,
+					["name"] = "Leader",
+					["useLength"] = false,
+				}, -- [1]
+			},
+			["icon"] = true,
+			["uid"] = "EAGXePwu6IA",
+			["regionType"] = "text",
+			["yOffset"] = 40,
+			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 9,
+			["parent"] = "Autofollow",
+			["displayText_format_p_time_precision"] = 1,
+			["zoom"] = 0,
+			["semver"] = "1.0.10",
+			["cooldownTextDisabled"] = false,
+			["justify"] = "LEFT",
+			["tocversion"] = 90002,
+			["id"] = "Autofollow Follower",
+			["displayText"] = "%c",
+			["alpha"] = 1,
+			["width"] = 1,
+			["cooldownEdge"] = false,
+			["config"] = {
+				["leader"] = "",
+			},
+			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -4685,45 +4724,6 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["displayText_format_n_format"] = "none",
-			["shadowXOffset"] = 1,
-			["icon"] = true,
-			["cooldownEdge"] = false,
-			["uid"] = "EAGXePwu6IA",
-			["regionType"] = "text",
-			["displayText"] = "%c",
-			["anchorFrameType"] = "SCREEN",
-			["frameStrata"] = 9,
-			["automaticWidth"] = "Auto",
-			["displayText_format_p_time_precision"] = 1,
-			["zoom"] = 0,
-			["semver"] = "1.0.10",
-			["cooldownTextDisabled"] = false,
-			["justify"] = "LEFT",
-			["tocversion"] = 90002,
-			["id"] = "Autofollow Follower",
-			["parent"] = "Autofollow",
-			["alpha"] = 1,
-			["width"] = 1,
-			["yOffset"] = 40,
-			["config"] = {
-				["leader"] = "",
-			},
-			["inverse"] = false,
-			["authorOptions"] = {
-				{
-					["type"] = "input",
-					["useDesc"] = true,
-					["width"] = 1,
-					["key"] = "leader",
-					["default"] = "",
-					["desc"] = "If configured, your characters will only receive commands from this character.",
-					["multiline"] = false,
-					["length"] = 10,
-					["name"] = "Leader",
-					["useLength"] = false,
-				}, -- [1]
-			},
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -4733,7 +4733,7 @@ WeakAurasSaved = {
 			["fixedWidth"] = 200,
 			["information"] = {
 			},
-			["selfPoint"] = "TOP",
+			["xOffset"] = 0,
 		},
 		["Main-hand weapon temp enchant"] = {
 			["iconSource"] = -1,
@@ -5182,7 +5182,7 @@ WeakAurasSaved = {
 					["custom"] = "local region = aura_env.region\n\nlocal unit = region.state and region.state.unit\nif not unit then return end\n\nlocal frame = WeakAuras.GetUnitFrame(unit)\nif not frame then return end\n\nregion:SetParent(frame)\nregion:ClearAllPoints()\nregion:SetAllPoints(frame)",
 					["do_sound"] = true,
 					["sound_repeat"] = 2,
-					["do_custom"] = true,
+					["do_custom"] = false,
 					["sound"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\ESPARK1.ogg",
 				},
 				["init"] = {
@@ -5190,7 +5190,7 @@ WeakAurasSaved = {
 					["custom"] = "aura_env.spellId = 29166 -- Innervate\n\nlocal AceComm = LibStub(\"AceComm-3.0\")\n\nlocal function OnCommReceived(prefix, message, _, sender)\n    if prefix ~= \"TOSH_WA\" then return end\n    local subtype, msg = message:match(\"^(.+):(.+)$\")\n    if subtype ~= \"INNRV\" then return end\n    WeakAuras.ScanEvents(\"TOSH_WA_INNRV_GIVE\", sender)\nend\n\nAceComm:RegisterComm(\"TOSH_WA\", OnCommReceived)",
 				},
 				["finish"] = {
-					["do_custom"] = true,
+					["do_custom"] = false,
 					["custom"] = "local region = aura_env.region\nregion:ClearAllPoints()",
 				},
 			},
@@ -5301,19 +5301,20 @@ WeakAurasSaved = {
 				},
 			},
 			["fontSize"] = 12,
-			["cooldownEdge"] = false,
+			["anchorPoint"] = "CENTER",
 			["shadowXOffset"] = 1,
+			["cooldownEdge"] = false,
+			["information"] = {
+			},
+			["conditions"] = {
+			},
+			["regionType"] = "text",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["information"] = {
-			},
-			["conditions"] = {
-			},
-			["regionType"] = "text",
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -5335,7 +5336,6 @@ WeakAurasSaved = {
 				},
 			},
 			["url"] = "https://wago.io/XW-90NqWv",
-			["anchorPoint"] = "CENTER",
 			["uid"] = "i5LvrJDtwzE",
 			["displayText_format_p_time_precision"] = 1,
 			["width"] = 64,
@@ -6082,12 +6082,7 @@ WeakAurasSaved = {
 				["timeLeft"] = 300,
 				["always"] = false,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["authorOptions"] = {
 				{
 					["softMin"] = 60,
@@ -6113,7 +6108,12 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -6165,7 +6165,7 @@ WeakAurasSaved = {
 					},
 				}, -- [2]
 			},
-			["parent"] = "Weapon temp enchants",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.7",
 			["width"] = 35,
 			["zoom"] = 0,
@@ -6178,9 +6178,6 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["uid"] = "lr11WiTXkJy",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "3528423",
-			["cooldown"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -6191,6 +6188,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "3528423",
+			["cooldown"] = false,
+			["parent"] = "Weapon temp enchants",
 		},
 		["Autofollow Leader"] = {
 			["outline"] = "OUTLINE",
@@ -6385,9 +6385,9 @@ WeakAurasSaved = {
 				"Solution Display", -- [10]
 			},
 			["borderBackdrop"] = "Blizzard Tooltip",
-			["xOffset"] = -1148.039714051102,
+			["xOffset"] = -501.9617032289067,
 			["preferToUpdate"] = true,
-			["yOffset"] = -574.7056228564564,
+			["yOffset"] = -60.97957367781961,
 			["gridType"] = "RD",
 			["borderColor"] = {
 				0, -- [1]
@@ -6396,7 +6396,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["space"] = 2,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["actions"] = {
 				["start"] = {
 				},
@@ -6448,11 +6448,12 @@ WeakAurasSaved = {
 			["align"] = "CENTER",
 			["desc"] = "Created by Saxayone#2791 EU Sylvanas",
 			["stagger"] = 0,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 			},
 			["uid"] = "sVVqHxXcZHH",
-			["rotation"] = 0,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["class"] = {
 					["multi"] = {
@@ -6474,8 +6475,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["authorOptions"] = {
-			},
+			["arcLength"] = 360,
 			["animate"] = false,
 			["customGrow"] = "function(newPositions, activeRegions)\n    local newheight = 2\n    local offset = 0\n    for i = 1, 4 do\n        newPositions[i] = {\n            activeRegions[i][\"dimensions\"].width*(2.5-i),\n            0\n        }\n    end\n    for i = 5, 8 do\n        newPositions[i] = {\n            activeRegions[i][\"dimensions\"].width*(2.5-i+4),\n            activeRegions[i][\"dimensions\"].height*-1\n        }\n    end\n    \n    newPositions[9] = {\n        0,\n        (activeRegions[1][\"dimensions\"].height*-1.5)-(activeRegions[9][\"dimensions\"].height*0.5)\n    }\n    newPositions[10] = {\n        0,\n        (activeRegions[1][\"dimensions\"].height*-1.5)-(activeRegions[9][\"dimensions\"].height*1.5)\n    }\n    newPositions[11] = {\n        0,\n        (activeRegions[1][\"dimensions\"].height*-1.5)-(activeRegions[9][\"dimensions\"].height*1.5)-(activeRegions[10][\"dimensions\"].height*1.5)\n    }\n    \nend",
 			["scale"] = 0.85,
@@ -6485,12 +6485,12 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["limit"] = 5,
-			["fullCircle"] = true,
 			["anchorPoint"] = "TOP",
+			["rotation"] = 0,
 			["constantFactor"] = "RADIUS",
 			["sort"] = "none",
 			["borderOffset"] = 4,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "Mists of Tirna Scithe guessing game",
 			["frameStrata"] = 1,
@@ -6499,13 +6499,13 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["borderInset"] = 1,
+			["internalVersion"] = 40,
 			["useLimit"] = false,
-			["arcLength"] = 360,
 			["conditions"] = {
 			},
 			["information"] = {
 			},
-			["internalVersion"] = 40,
+			["fullCircle"] = true,
 		},
 		["07 Dark Recital Left"] = {
 			["iconSource"] = -1,
@@ -6852,7 +6852,7 @@ WeakAurasSaved = {
 				}, -- [3]
 			},
 			["url"] = "https://wago.io/BFADungeonTargetedSpells/67",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
 			["text1Containment"] = "OUTSIDE",
 			["text2Font"] = "Friz Quadrata TT",
 			["text1Point"] = "BOTTOM",
@@ -7571,9 +7571,9 @@ WeakAurasSaved = {
 			["tocversion"] = 90002,
 			["id"] = "Targeted Spells",
 			["width"] = 20,
-			["frameStrata"] = 6,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Enabled"] = false,
+			["frameStrata"] = 6,
 			["uid"] = "pWfZPrRiJzV",
 			["inverse"] = false,
 			["glowParticules"] = 4,
@@ -7699,7 +7699,7 @@ WeakAurasSaved = {
 			["version"] = 14,
 			["subRegions"] = {
 			},
-			["selfPoint"] = "LEFT",
+			["gridType"] = "RD",
 			["config"] = {
 			},
 			["load"] = {
@@ -7715,6 +7715,43 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+			},
+			["rowSpace"] = 1,
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["stagger"] = 0,
+			["animate"] = false,
+			["groupIcon"] = "3528447",
+			["scale"] = 1,
+			["internalVersion"] = 40,
+			["border"] = false,
+			["borderEdge"] = "Square Full White",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["limit"] = 5,
+			["arcLength"] = 360,
+			["sort"] = "none",
+			["constantFactor"] = "RADIUS",
+			["borderInset"] = 1,
+			["borderOffset"] = 4,
+			["semver"] = "1.0.13",
+			["tocversion"] = 90002,
+			["id"] = "Heavy Desolate Armor Kit check",
+			["gridWidth"] = 5,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["fullCircle"] = true,
+			["uid"] = "T940ZV4J3L)",
+			["xOffset"] = 2,
+			["selfPoint"] = "LEFT",
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
 			["animation"] = {
 				["start"] = {
@@ -7736,43 +7773,6 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["arcLength"] = 360,
-			["animate"] = false,
-			["internalVersion"] = 40,
-			["scale"] = 1,
-			["rowSpace"] = 1,
-			["border"] = false,
-			["borderEdge"] = "Square Full White",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["limit"] = 5,
-			["fullCircle"] = true,
-			["sort"] = "none",
-			["constantFactor"] = "RADIUS",
-			["borderInset"] = 1,
-			["borderOffset"] = 4,
-			["semver"] = "1.0.13",
-			["tocversion"] = 90002,
-			["id"] = "Heavy Desolate Armor Kit check",
-			["gridWidth"] = 5,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["stagger"] = 0,
-			["uid"] = "T940ZV4J3L)",
-			["gridType"] = "RD",
-			["groupIcon"] = "3528447",
-			["conditions"] = {
-			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["xOffset"] = 2,
 		},
 		["06 Concentrate Anima - Green"] = {
 			["text2Point"] = "CENTER",
@@ -8023,6 +8023,451 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 		},
+		["Solution Display"] = {
+			["outline"] = "OUTLINE",
+			["xOffset"] = -290,
+			["displayText"] = "%c",
+			["customText"] = "function()\n    return aura_env.solution .. \"\\n\" .. aura_env.lastSolve\nend",
+			["yOffset"] = -31,
+			["anchorPoint"] = "CENTER",
+			["customTextUpdate"] = "event",
+			["url"] = "https://wago.io/hVLym_eLv/60",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\naura_env.version = WeakAuras.GetData(aura_env.id).version\naura_env.versionCheck = 0\naura_env.maxVersion = 0\naura_env.versionPersonal = aura_env.config['versionPersonal']\naura_env.showEncounter = aura_env.config['encounter']\naura_env.selectionColour = aura_env.config['selection']\naura_env.answerColour = aura_env.config['answer']\naura_env.potColour = aura_env.config['potentialSol']\naura_env.announceClicked = aura_env.config['announceClicked']\naura_env.announceSolution = aura_env.config['announceSolution']\naura_env.lotusFlower = aura_env.config['lotusFlower']\naura_env.announceStyle = aura_env.config['announceStyle']\naura_env.announce = aura_env.config['announcer']\naura_env.experimentalMatch = true\naura_env.experimentalMatchFound = false\naura_env.noCommunication = aura_env.config['noCommunication']\naura_env.useEng = aura_env.config['useEng']\naura_env.eLang = aura_env.config['eLang']\naura_env.communicationOld = aura_env.config['communicationOld']\naura_env.lastSolvePH = \"\"\naura_env.announcer = false\naura_env.encounter = false\naura_env.specializationName = {\n    [250] = \"TANK\",\n    [581] = \"TANK\",\n    [104] = \"TANK\",\n    [268] = \"TANK\",\n    [66] = \"TANK\",\n    [73] = \"TANK\",\n    [105] = \"HEALER\", \n    [270] = \"HEALER\", \n    [65] = \"HEALER\", \n    [256] = \"HEALER\", \n    [257] = \"HEALER\", \n    [264] = \"HEALER\", \n}\n\nfunction aura_env.announcement(which,i,count,mark,experiment,cout,sout,fout)\n    aura_env.announcer = false\n    local lead = UnitIsGroupLeader(\"player\")\n    aura_env.playerInfo = aura_env.specializationName[GetSpecializationInfo(GetSpecialization())]\n    if lead and aura_env.announce[1] == true then\n        aura_env.announcer = true\n    elseif aura_env.playerInfo == \"TANK\" and aura_env.announce[2] == true then\n        aura_env.announcer = true\n    elseif aura_env.playerInfo == \"HEALER\" and aura_env.announce[3] == true then\n        aura_env.announcer = true\n    elseif not IsPartyLFG() and not UnitInParty(\"player\") then\n        aura_env.announcer = true\n    elseif aura_env.announce[4] == true then\n        aura_env.announcer = true\n    end\n    if which ~= 1 and aura_env.announcer == true then\n        local cirSay, shapeSay, fillSay, msg\n        if (tonumber(aura_env.logged_images[i][1]) == 0) then\n        cirSay = aura_env.circleText else cirSay = aura_env.nocircleText end\n        if (tonumber(aura_env.logged_images[i][2]) == 0) then\n        shapeSay = aura_env.lotusText else shapeSay = aura_env.leafText end\n        if (tonumber(aura_env.logged_images[i][3]) == 0) then\n        fillSay = aura_env.filledText else fillSay = aura_env.emptyText end\n        if experiment then\n            if cout == 0 then\n                cirSay = aura_env.circleText\n            else \n                cirSay = aura_env.nocircleText\n            end\n            if sout == 0 then\n                shapeSay = aura_env.lotusText            \n            else \n                shapeSay = aura_env.leafText\n            end\n            if fout == 0 then\n                fillSay = aura_env.filledText\n            else \n                fillSay = aura_env.emptyText\n            end\n        end\n        local channel = aura_env.announceChannel(which)\n        if count == true then \n            msg = i ..\": \" .. cirSay .. \" + \" .. shapeSay .. \" + \" .. fillSay \n        else\n            msg = aura_env.solutionText .. \": \"\n            if aura_env.announceStyle == 2 then\n                msg = msg .. cirSay .. \" + \" .. shapeSay .. \" + \" .. fillSay  .. \" > \"\n            end\n            if mark ==1 then\n                msg = msg .. cirSay\n                aura_env.solution = aura_env.solutionText ..\": \" .. cirSay\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" .. cirSay\n            elseif mark == 2 then \n                msg = msg .. shapeSay\n                aura_env.solution = aura_env.solutionText ..\": \" .. shapeSay\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" .. shapeSay\n            else \n                msg = msg .. fillSay\n                aura_env.solution = aura_env.solutionText ..\": \" .. fillSay\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" .. fillSay\n            end\n        end\n        SendChatMessage(msg,channel);\n    end\nend\nfunction aura_env.announceChannel(out)\n    if out == 2 then\n        return \"SAY\"\n    elseif out == 3 then\n        return \"YELL\"\n    elseif out == 4 then\n        if IsPartyLFG() then\n            return \"INSTANCE_CHAT\"\n        elseif UnitInParty(\"player\") then\n            return \"PARTY\"\n        else\n            return \"SAY\"\n        end\n    end\nend\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.solution = \"No submissions yet\"\naura_env.solutionText = \"Solution\"\naura_env.nocircleText =\"NO CIRCLE\"\naura_env.circleText = \"CIRCLE\"\naura_env.leafText = \"LEAF\"\naura_env.lotusText = \"LOTUS\"\nif aura_env.lotusFlower == 2 then aura_env.lotusText = \"FLOWER\" end\naura_env.emptyText = \"EMPTY\"\naura_env.filledText = \"FILLED\"\naura_env.noSolveText = \"No solution found\"\naura_env.sigSentText = \"Sigil sent by\"\naura_env.totalText = \"Total provided\"\naura_env.dupeText = \"Duplicated input\"\naura_env.noSubText = \"No submissions yet\"\naura_env.lastSolve = \"\"\naura_env.lastSolveText = \"Previous Solution\"\naura_env.resetText = \"Reset\"\n\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\n    aura_env.solution = \"입력 없음\"\n    aura_env.solutionText = \"정답\"\n    aura_env.nocircleText =\"테두리 없음\"\n    aura_env.circleText = \"테두리 있음\"\n    aura_env.leafText = \"나뭇잎\"\n    aura_env.lotusText = \"꽃\"\n    aura_env.emptyText = \"색칠 안 됨\"\n    aura_env.filledText = \"색칠됨\"\n    aura_env.noSolveText = \"답을 찾을 수 없음\"\n    aura_env.sigSentText = \"정보 받음 \"\n    aura_env.totalText = \"받은 정보\"\n    aura_env.dupeText = \"중복 입력\"\n    aura_env.noSubText = \"입력 없음\"\n    aura_env.lastSolveText = \"이전 정답\"\n    aura_env.resetText = \"초기화\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\n    aura_env.solution = \"Pas d'entrée actuelle\"\n    aura_env.solutionText = \"Solution\"\n    aura_env.nocircleText =\"NO CERCLE\"\n    aura_env.circleText = \"CERCLE\"\n    aura_env.leafText = \"FEUILLE\"\n    aura_env.lotusText = \"LOTUS\"\n    aura_env.emptyText = \"VIDE\"\n    aura_env.filledText = \"REMPLI\"\n    aura_env.noSolveText = \"Pas de solution trouvée\"\n    aura_env.sigSentText = \"Sigil envoyé par\"\n    aura_env.totalText = \"Total Fourni\"\n    aura_env.dupeText = \"Saise dupliquée\"\n    aura_env.noSubText = \"Pas d'entrée actuelle\"\n    aura_env.lastSolveText = \"Solution précédente\"\n    aura_env.resetText = \"Reset\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\n    aura_env.solution = \"Noch keine Eingaben\"\n    aura_env.solutionText = \"Lösung\"\n    aura_env.nocircleText = \"KEIN KREIS\"\n    aura_env.circleText = \"KREIS\"\n    aura_env.leafText = \"BLATT\"\n    aura_env.lotusText = \"LOTUS\"\n    aura_env.emptyText = \"NICHT AUSGEFÜLLT\"\n    aura_env.filledText = \"AUSGEFÜLLT\"\n    aura_env.noSolveText = \"Keine Lösung gefunden\"\n    aura_env.sigSentText = \"Siegel gesendet von\"\n    aura_env.totalText = \"Insgesamt bereitgestellt\"\n    aura_env.dupeText = \"Doppelt eingegeben\"\n    aura_env.noSubText = \"Noch keine Eingaben\"\n    aura_env.lastSolveText = \"Vorherige Lösung\"\n    aura_env.resetText = \"Zurücksetzen\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\n    aura_env.solution = \"尚未标记\"\n    aura_env.solutionText = \"答案\"\n    aura_env.nocircleText = \"无圈\"\n    aura_env.circleText = \"有圈\"\n    aura_env.leafText = \"叶\"\n    aura_env.lotusText = \"花\"\n    aura_env.emptyText = \"空心\"\n    aura_env.filledText = \"实心\"\n    aura_env.noSolveText = \"未找到答案\"\n    aura_env.sigSentText = \"标记来自于\"\n    aura_env.totalText = \"已标记数\"\n    aura_env.dupeText = \"标记重复\"\n    aura_env.noSubText = \"尚未标记\"\n    aura_env.lastSolveText = \"最终答案\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\n    aura_env.solution = \"Aún no hay entradas\"\n    aura_env.solutionText = \"Solución\"\n    aura_env.nocircleText =\"SIN CIRCULO\"\n    aura_env.circleText = \"CIRCULO\"\n    aura_env.leafText = \"HOJA\"\n    aura_env.lotusText = \"LOTO\"\n    aura_env.emptyText = \"VACIO\"\n    aura_env.filledText = \"RELLENO\"\n    aura_env.noSolveText = \"Solución no encontrada\"\n    aura_env.sigSentText = \"Marca enviada por\"\n    aura_env.totalText = \"Total proporcionado\"\n    aura_env.dupeText = \"Entrada Duplicada\"\n    aura_env.noSubText = \"Aún no hay entradas\"\n    aura_env.lastSolveText = \"Solución anterior\"\n    aura_env.resetText = \"Resetear\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\n    aura_env.solution = \"尚未標記\"\n    aura_env.solutionText = \"答案\"\n    aura_env.nocircleText =\"沒圈\"\n    aura_env.circleText = \"有圈\"\n    aura_env.leafText = \"葉子\"\n    aura_env.lotusText = \"花\"\n    aura_env.emptyText = \"空心\"\n    aura_env.filledText = \"實心\"\n    aura_env.noSolveText = \"沒有答案\"\n    aura_env.sigSentText = \"圖標製作為\"\n    aura_env.totalText = \"已標記圖標\"\n    aura_env.dupeText = \"標記重複了\"\n    aura_env.noSubText = \"尚未標記\"\n    aura_env.lastSolveText = \"上一個答案\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\n    aura_env.solution = \"Aun no hay entradas\"\n    aura_env.solutionText = \"Solucion\"\n    aura_env.nocircleText =\"Sin circulo\"\n    aura_env.circleText = \"Circulo\"\n    aura_env.leafText = \"Hoja\"\n    aura_env.lotusText = \"Loto\"\n    aura_env.emptyText = \"Vacio\"\n    aura_env.filledText = \"Lleno\"\n    aura_env.noSolveText = \"No se encuentra solucion\"\n    aura_env.sigSentText = \"Sigilo enviado por\"\n    aura_env.totalText = \"Total provisto\"\n    aura_env.dupeText = \"Entrada duplicada\"\n    aura_env.noSubText = \"Aun no hay entradas\"\n    aura_env.lastSolveText = \"Solucion anterior\"\n    aura_env.resetText = \"Reiniciar\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\n    aura_env.solution = \"Ничего не введено\"\n    aura_env.solutionText = \"Решение\"\n    aura_env.nocircleText = \"БЕЗ КРУГА\"\n    aura_env.circleText = \"КРУГ\"\n    aura_env.leafText = \"ЛИСТ\"\n    aura_env.lotusText = \"ЛОТОС\"\n    aura_env.emptyText = \"ПУСТОЙ\"\n    aura_env.filledText = \"ЦВЕТНОЙ\"\n    aura_env.noSolveText = \"Нет решения\"\n    aura_env.sigSentText = \"Отправлено\"\n    aura_env.totalText = \"Всего выбрано\"\n    aura_env.dupeText = \"Дублирующиеся данные\"\n    aura_env.noSubText = \"Ничего не введено\"\n    aura_env.lastSolveText = \"Предыдущее решение\"\n    aura_env.resetText = \"Сброс\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\n    aura_env.solution = \"Sem submições\"\n    aura_env.solutionText = \"Solução\"\n    aura_env.nocircleText = \"Sem Circulo\"\n    aura_env.circleText = \"Circulo\"\n    aura_env.leafText = \"Folha\"\n    aura_env.lotusText = \"Flor\"\n    aura_env.emptyText = \"Vazio\"\n    aura_env.filledText = \"Cheio\"\n    aura_env.noSolveText = \"Solução não encontrada\"\n    aura_env.sigSentText = \"Marca enviada por\"\n    aura_env.totalText = \"Total provido\"\n    aura_env.dupeText = \"Entrada Duplicada\"\n    aura_env.noSubText = \"Sem submições\"\n    aura_env.lastSolveText = \"Solução anterior\"\n    aura_env.resetText = \"Resetar\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\n    aura_env.solution = \"Nessuna immissione\"\n    aura_env.solutionText = \"Soluzione\"\n    aura_env.nocircleText =\"NON CERCHIATO\"\n    aura_env.circleText = \"CERCHIATO\"\n    aura_env.leafText = \"FOGLIA\"\n    aura_env.lotusText = \"FIORE\"\n    aura_env.emptyText = \"VUOTO\"\n    aura_env.filledText = \"PIENO\"\n    aura_env.noSolveText = \"Nessuna soluzione trovata\"\n    aura_env.sigSentText = \"Sigillo inviato da\"\n    aura_env.totalText = \"Totale provveduto\"\n    aura_env.dupeText = \"Doppia immissione\"\n    aura_env.noSubText = \"Nessuna immissione\"\n    aura_env.lastSolveText = \"Soluzione precedente\"\n    aura_env.resetText = \"Reset\" \nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\" \nelseif aura_env.eLang == 2 and not aura_env.useEng then\n    aura_env.solution = \"Nog geen antwoorden\"\n    aura_env.solutionText = \"Antwoord\"\n    aura_env.nocircleText =\"Geen cirkel\"\n    aura_env.circleText = \"Cirkel\"\n    aura_env.leafText = \"Blad\"\n    aura_env.lotusText = \"Lotus\"\n    aura_env.emptyText = \"Leeg\"\n    aura_env.filledText = \"Gekleurd\"\n    aura_env.noSolveText = \"Geen antwoord gevonden\"\n    aura_env.sigSentText = \"Sigil verstuurd door\"\n    aura_env.totalText = \"Totaal ingevoerd\"\n    aura_env.dupeText = \"Invoer gedupliceerd\"\n    aura_env.noSubText = \"Nog geen antwoorden\"\n    aura_env.lastSolveText = \"Vorig Antwoord\" \n    aura_env.resetText = \"Reset\"\nelseif aura_env.useEng then\n    aura_env.solution = \"No submissions yet\"\n    aura_env.solutionText = \"Solution\"\n    aura_env.nocircleText =\"NO CIRCLE\"\n    aura_env.circleText = \"CIRCLE\"\n    aura_env.leafText = \"LEAF\"\n    aura_env.lotusText = \"LOTUS\"\n    if aura_env.lotusFlower == 2 then aura_env.lotusText = \"FLOWER\" end\n    aura_env.emptyText = \"EMPTY\"\n    aura_env.filledText = \"FILLED\"\n    aura_env.noSolveText = \"No solution found\"\n    aura_env.sigSentText = \"Sigil sent by\"\n    aura_env.totalText = \"Total provided\"\n    aura_env.dupeText = \"Duplicated input\"\n    aura_env.noSubText = \"No submissions yet\"\n    aura_env.lastSolveText = \"Previous Solution\"\n    aura_env.resetText = \"Reset\"\nend\n\nC_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\naura_env.logged_images = {}\naura_env.testArray = {}\naura_env.dupe = false\naura_env.button = 9\n\naura_env.noc = {4,5,6,7}\naura_env.cir = {0,1,2,3}\naura_env.leaf = {0,1,4,5}\naura_env.lotus = {2,3,6,7}\naura_env.nofi = {1,3,5,7}\naura_env.fill = {0,2,4,6}\n\naura_env.LCG = LibStub(\"LibCustomGlow-1.0\")",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["custom_hide"] = "custom",
+						["event"] = "Health",
+						["names"] = {
+						},
+						["subeventPrefix"] = "SPELL",
+						["custom"] = "function(event, eid,...)\n    if aura_env.debugmode then \n        return true \n    end\n    local text = GetMinimapZoneText()\n    if text == aura_env.mistZone then\n        return true\n    else\n        return false\n    end\nend",
+						["spellIds"] = {
+						},
+						["custom_type"] = "status",
+						["check"] = "event",
+						["events"] = "ZONE_CHANGED, PLAYER_LOGIN, PLAYER_ENTERING_WORLD, ENCOUNTER_START",
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["unit"] = "player",
+						["customName"] = "function()\n    return \nend",
+						["custom"] = "function(event,eid,...)\n    if event == \"ENCOUNTER_END\" then \n        if IsPartyLFG() then\n            C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9nv\"..aura_env.version..\"new\", \"INSTANCE_CHAT\")\n        elseif UnitInParty(\"player\") then\n            C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9nv\"..aura_env.version..\"new\", \"PARTY\")\n        end\n        if eid == 2392 and aura_env.showEncounter == false then \n            return false \n        end\n        return true \n    elseif event == \"ENCOUNTER_START\" then \n        if aura_env.showEncounter == false then \n            return false\n        else\n            return true\n        end\n    end\n    return true\nend",
+						["custom_type"] = "status",
+						["check"] = "event",
+						["events"] = "ENCOUNTER_START, ENCOUNTER_END, PLAYER_ENTERING_WORLD",
+						["type"] = "custom",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				{
+					["trigger"] = {
+						["use_alwaystrue"] = true,
+						["use_genericShowOn"] = true,
+						["genericShowOn"] = "showOnCooldown",
+						["unit"] = "player",
+						["names"] = {
+						},
+						["duration"] = "60",
+						["spellName"] = 0,
+						["debuffType"] = "HELPFUL",
+						["subeventPrefix"] = "SPELL",
+						["type"] = "custom",
+						["custom_type"] = "event",
+						["unevent"] = "timed",
+						["custom"] = "function(event, prefix, msg, dist, sender)\n    -- Ignore non-WA messages\n    if prefix ~= \"TIRNASCYTHE\" then return false end\n    if aura_env.versionCheck < 8 then\n        if string.match(msg, \"v\") then\n            local version = string.match(msg, \"v%d%d%d\") or string.match(msg, \"v%d%d\")\n            version = string.match(version, \"%d%d%d\") or string.match(version, \"%d%d\")\n            if tonumber(version) >= tonumber(aura_env.version + aura_env.versionPersonal) then \n                if aura_env.maxVersion < tonumber(version) then\n                    aura_env.maxVersion = tonumber(version)\n                    print(\"|cFFFF0000Mists of Tirna Scithe maze guessing game is \" .. (tonumber(version) - tonumber(aura_env.version)).. \" versions old, please update.|r\")\n                end            \n                aura_env.versionCheck = aura_env.versionCheck + 1\n            end \n        end\n    end\n    \n    if aura_env.debugmode then\n        print(\"Received:\",prefix, msg, dist, sender)\n    end\n    if dist ~= \"WHISPER\" and aura_env.noCommunication or (not string.match(msg, \"new\") and not aura_env.communicationOld) then \n        if aura_env.debugmode then print(\"Ignored ^\") end\n        return false \n    end\n    if aura_env.experimentalMatchFound == true or (not string.match(msg, \"new\") and not aura_env.communicationOld) then\n        local circleE, shapeE, fillE, dupE = string.match(msg, \"(%d) (%d) (%d) (%d)\")\n        if (circleE == \"9\" and shapeE == \"9\" and fillE == \"9\" and dupE == \"9\") then\n            if string.match(msg, \"m\") then\n                aura_env.solution = aura_env.resetText .. \": \" .. sender .. \"\\n\" .. aura_env.noSubText\n            elseif not string.match(msg, \"n\") then\n                aura_env.solution = aura_env.resetText ..\": \" .. sender .. \"(outdated)\\n\" .. aura_env.noSubText\n            end\n            aura_env.logged_images = {}\n            aura_env.experimentalMatchFound = false\n            WeakAuras.ScanEvents(\"GlowReset\")\n            return true\n        elseif not aura_env.noCommunication then\n            if aura_env.announcer then\n                if IsPartyLFG() then\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9n\", \"INSTANCE_CHAT\")\n                    C_Timer.After(0.1, function() C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", msg, \"INSTANCE_CHAT\") end)                    \n                    aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" ..\"1/4\"\n                    aura_env.experimentalMatchFound = false\n                    return true \n                elseif UnitInParty(\"player\") then\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9n\", \"PARTY\")\n                    C_Timer.After(0.1, function() C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", msg, \"PARTY\") end)\n                    aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" ..\"1/4\" \n                    aura_env.experimentalMatchFound = false\n                    return true \n                end\n            end\n        end\n    end\n    if not string.match(msg, \"new\") and not aura_env.communicationOld then\n        print(\"ignored old version\")\n        return false\n    end\n    \n    local length = table.getn(aura_env.logged_images)\n    -- Ignore additional signs when at 4\n    if length > 3 then return false end\n    if length == 0 then WeakAuras.ScanEvents(\"GlowReset\") end\n    -- If we're resetting\n    local circle, shape, fill, dup = string.match(msg, \"(%d) (%d) (%d) (%d)\")\n    if (circle == \"9\" and shape == \"9\" and fill == \"9\" and dup == \"9\") then\n        if string.match(msg, \"m\") then\n            aura_env.solution = aura_env.resetText .. \": \" .. sender .. \"\\n\" .. aura_env.noSubText\n        elseif not string.match(msg, \"n\") then\n            aura_env.solution = aura_env.resetText ..\": \" .. sender .. \"(outdated)\\n\" .. aura_env.noSubText\n        end\n        aura_env.logged_images = {}\n        WeakAuras.ScanEvents(\"GlowReset\")\n        return true \n    end\n    \n    -- Main logic\n    local array = {circle, shape, fill, dup}\n    aura_env.dupe = false\n    if length > 0 then\n        for i=1, table.getn(aura_env.logged_images) do \n            if aura_env.logged_images[i][4] == array[4] then \n                aura_env.dupe = true\n            end\n        end\n    end\n    if not aura_env.dupe then\n        aura_env.logged_images[length + 1] = array\n        local new_length = table.getn(aura_env.logged_images)\n        if new_length == 1 then \n            aura_env.lastSolve = aura_env.lastSolvePH\n        end\n        aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" .. new_length .. \"/4\"\n        for i=1, new_length do \n            aura_env.button = tonumber(aura_env.logged_images[i][4])\n            aura_env.LCG.PixelGlow_Start(aura_env.testArray[aura_env.button], aura_env.selectionColour,8,0,1000,3,0,0,true,2)\n            if i == new_length then\n                aura_env.announcement(aura_env.announceClicked,i,true,0)\n            end\n        end\n        WeakAuras.ScanEvents(\"TirnaScitheButtonOrder\", aura_env.button, new_length)\n        if new_length == 3 and aura_env.experimentalMatch then \n            local checkOpp12 = {}\n            local checkOpp13 = {}\n            local checkOpp23 = {}\n            local checkAttTotal = {}\n            local countCout = 0\n            local countSout = 0\n            local countFout = 0\n            local count12match = 0\n            local count13match = 0\n            local count23match = 0\n            local annOut = 0\n            for i=1,3 do\n                checkOpp12[i] = (tonumber(aura_env.logged_images[1][i]) + tonumber(aura_env.logged_images[2][i]))\n                checkOpp13[i] = (tonumber(aura_env.logged_images[1][i]) + tonumber(aura_env.logged_images[3][i]))\n                checkOpp23[i] = (tonumber(aura_env.logged_images[2][i]) + tonumber(aura_env.logged_images[3][i]))\n            end\n            if aura_env.debugmode then \n                print(tonumber(aura_env.logged_images[1][1]), tonumber(aura_env.logged_images[1][2]), tonumber(aura_env.logged_images[1][3]))\n                print(tonumber(aura_env.logged_images[2][1]), tonumber(aura_env.logged_images[2][2]), tonumber(aura_env.logged_images[2][3]))\n                print(tonumber(aura_env.logged_images[3][1]), tonumber(aura_env.logged_images[3][2]), tonumber(aura_env.logged_images[3][3]))\n                print(\"-----\")\n                print(checkOpp12[1],checkOpp12[2],checkOpp12[3])\n                print(checkOpp13[1],checkOpp13[2],checkOpp13[3])\n                print(checkOpp23[1],checkOpp23[2],checkOpp23[3])\n            end\n            if (checkOpp12[1] == 1 and checkOpp12[2] == 1 and checkOpp12[3] == 1) or \n            (checkOpp13[1] == 1 and checkOpp13[2] == 1 and checkOpp13[3] == 1) or \n            (checkOpp23[1] == 1 and checkOpp23[2] == 1 and checkOpp23[3] == 1) then\n                if checkOpp12[1] == 0 or checkOpp12[1] == 2 then count12match = count12match + 1 end\n                if checkOpp12[2] == 0 or checkOpp12[2] == 2 then count12match = count12match + 1 end\n                if checkOpp12[3] == 0 or checkOpp12[3] == 2 then count12match = count12match + 1 end\n                if checkOpp13[1] == 0 or checkOpp13[1] == 2 then count13match = count13match + 1 end\n                if checkOpp13[2] == 0 or checkOpp13[2] == 2 then count13match = count13match + 1 end\n                if checkOpp13[3] == 0 or checkOpp13[3] == 2 then count13match = count13match + 1 end\n                if checkOpp23[1] == 0 or checkOpp23[1] == 2 then count23match = count23match + 1 end\n                if checkOpp23[2] == 0 or checkOpp23[2] == 2 then count23match = count23match + 1 end\n                if checkOpp23[3] == 0 or checkOpp23[3] == 2 then count23match = count23match + 1 end\n                if count12match ~= 2 and count13match ~= 2 then \n                    if checkOpp23[1] == 2 then annOut = 1 elseif checkOpp23[2] == 2 then annOut = 2 else annOut = 3 end\n                    aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[1][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                    aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,tonumber(aura_env.logged_images[1][1]),tonumber(aura_env.logged_images[1][2]),tonumber(aura_env.logged_images[1][3]))\n                    aura_env.logged_images = {}\n                    aura_env.experimentalMatchFound = true\n                    return true\n                end\n                if count12match ~= 2 and count23match ~= 2 then \n                    if checkOpp13[1] == 2 then annOut = 1 elseif checkOpp13[2] == 2 then annOut = 2 else annOut = 3 end                    \n                    aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[2][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                    aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,tonumber(aura_env.logged_images[2][1]),tonumber(aura_env.logged_images[2][2]),tonumber(aura_env.logged_images[2][3]))\n                    aura_env.logged_images = {}\n                    aura_env.experimentalMatchFound = true\n                    return true\n                end\n                if count23match ~= 2 and count13match ~= 2 then\n                    if checkOpp12[1] == 2 then annOut = 1 elseif checkOpp12[2] == 2 then annOut = 2 else annOut = 3 end\n                    aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[3][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                    aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,tonumber(aura_env.logged_images[3][1]),tonumber(aura_env.logged_images[3][2]),tonumber(aura_env.logged_images[3][3]))\n                    aura_env.logged_images = {}\n                    aura_env.experimentalMatchFound = true\n                    return true\n                end\n            end\n            checkAttTotal[1] = checkOpp12[1] + checkOpp13[1] + checkOpp23[1]\n            checkAttTotal[2] = checkOpp12[2] + checkOpp13[2] + checkOpp23[2]\n            checkAttTotal[3] = checkOpp12[3] + checkOpp13[3] + checkOpp23[3]\n            if checkAttTotal[1] == 6 or checkAttTotal[1] == 0 or checkAttTotal[2] == 6 or checkAttTotal[2] == 0 or checkAttTotal[3] == 6 or checkAttTotal[3] == 0 then\n                if checkOpp12[1] == 0 or checkOpp13[1] == 0 or checkOpp23[1] == 0 then countCout = 1 end\n                if checkOpp12[2] == 0 or checkOpp13[2] == 0 or checkOpp23[2] == 0 then countSout = 1 end\n                if checkOpp12[3] == 0 or checkOpp13[3] == 0 or checkOpp23[3] == 0 then countFout = 1 end                \n                if checkAttTotal[1] == 0 then countCout = 1 annOut = 1 elseif checkAttTotal[1] == 6 then countCout = 0 annOut = 1 end\n                if checkAttTotal[2] == 0 then countSout = 1 annOut = 2 elseif checkAttTotal[2] == 6 then countSout = 0 annOut = 2 end                \n                if checkAttTotal[3] == 0 then countFout = 1 annOut = 3 elseif checkAttTotal[3] == 6 then countFout = 0 annOut = 3 end\n                local outframetest = (4*countCout) + ((countSout-1)*-2) + countFout\n                WeakAuras.ScanEvents(\"TirnaScitheButtonOrder\", outframetest, \"4?\")\n                aura_env.LCG.PixelGlow_Start(aura_env.testArray[outframetest], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,countCout,countSout,countFout)\n                aura_env.logged_images = {}\n                aura_env.experimentalMatchFound = true\n                return true\n            end\n        end\n        if (new_length > 3) then\n            local circleSum = 0\n            local shapeSum = 0\n            local fillSum = 0\n            for i=1,4 do\n                circleSum = circleSum + tonumber(aura_env.logged_images[i][1])\n                shapeSum = shapeSum + tonumber(aura_env.logged_images[i][2])\n                fillSum = fillSum + tonumber(aura_env.logged_images[i][3])\n            end\n            \n            if circleSum == 1 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.noc[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,1)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.nocircleText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.nocircleText\n            elseif circleSum == 3 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.cir[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,1)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.circleText                \n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.circleText\n            elseif shapeSum == 1 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.leaf[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,2)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.leafText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.leafText\n            elseif shapeSum == 3 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.lotus[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,2)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.lotusText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.lotusText\n            elseif fillSum == 1 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.nofi[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,3)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.emptyText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.emptyText\n            elseif fillSum == 3 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.fill[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,3)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.filledText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.filledText\n            else\n                aura_env.solution = aura_env.noSolveText\n            end\n            aura_env.logged_images = {}\n        else\n            aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" .. new_length .. \"/4\"         \n        end\n    else\n        aura_env.solution = aura_env.dupeText\n    end\n    return true\nend",
+						["customName"] = "",
+						["event"] = "Combat Log",
+						["events"] = "CHAT_MSG_ADDON_LOGGED",
+						["realSpellName"] = 0,
+						["use_spellName"] = true,
+						["spellIds"] = {
+						},
+						["subeventSuffix"] = "_CAST_START",
+						["check"] = "event",
+						["custom_hide"] = "timed",
+						["use_track"] = true,
+						["dynamicDuration"] = false,
+					},
+					["untrigger"] = {
+					},
+				}, -- [3]
+				{
+					["trigger"] = {
+						["use_genericShowOn"] = true,
+						["genericShowOn"] = "showOnCooldown",
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+						["type"] = "custom",
+						["custom_hide"] = "custom",
+						["unevent"] = "auto",
+						["subeventSuffix"] = "",
+						["duration"] = "0.5",
+						["event"] = "Cooldown Progress (Spell)",
+						["custom"] = "function(event, frameNumber, frameData)\n    -- Add button data to array\n    if not aura_env.testArray[frameNumber] or aura_env.testArray[frameNumber] ~= frameData then\n        if aura_env.debugmode then\n            print(\"ButtonData:\",frameNumber, frameData, aura_env.testArray[frameNumber])\n        end\n        aura_env.testArray[frameNumber] = frameData\n    end\n    return true\nend",
+						["realSpellName"] = 0,
+						["use_spellName"] = true,
+						["events"] = "TirnaScitheButtonData",
+						["custom_type"] = "event",
+						["check"] = "event",
+						["subeventPrefix"] = "",
+						["use_track"] = true,
+						["spellName"] = 0,
+					},
+					["untrigger"] = {
+					},
+				}, -- [4]
+				{
+					["trigger"] = {
+						["use_genericShowOn"] = true,
+						["genericShowOn"] = "showOnCooldown",
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+						["type"] = "custom",
+						["custom_hide"] = "timed",
+						["unevent"] = "auto",
+						["subeventSuffix"] = "",
+						["duration"] = "0.5",
+						["event"] = "Cooldown Progress (Spell)",
+						["custom"] = "function()\n    for i=0, 7 do \n        aura_env.LCG.PixelGlow_Stop(aura_env.testArray[i], 2)\n    end\n    WeakAuras.ScanEvents(\"TirnaScitheButtonOrder\", 9, 9)\n    return true\nend",
+						["realSpellName"] = 0,
+						["use_spellName"] = true,
+						["events"] = "GlowReset",
+						["custom_type"] = "status",
+						["check"] = "event",
+						["subeventPrefix"] = "",
+						["use_track"] = true,
+						["spellName"] = 0,
+					},
+					["untrigger"] = {
+					},
+				}, -- [5]
+				["activeTriggerMode"] = -10,
+			},
+			["displayText_format_p_format"] = "timed",
+			["internalVersion"] = 40,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["font"] = "Arial Narrow",
+			["version"] = 60,
+			["subRegions"] = {
+			},
+			["load"] = {
+				["ingroup"] = {
+					["single"] = "group",
+					["multi"] = {
+						["group"] = true,
+					},
+				},
+				["zoneId"] = "1669",
+				["zone"] = "",
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+						["mythic"] = true,
+						["challenge"] = true,
+					},
+				},
+				["use_zoneId"] = true,
+				["use_zone"] = false,
+				["use_zonegroupId"] = false,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["use_never"] = false,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["fontSize"] = 21,
+			["displayText_format_n_format"] = "none",
+			["shadowXOffset"] = 1,
+			["displayText_format_3.n_format"] = "none",
+			["preferToUpdate"] = true,
+			["regionType"] = "text",
+			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "TOP",
+			["fixedWidth"] = 300,
+			["displayText_format_p_time_precision"] = 1,
+			["authorOptions"] = {
+				{
+					["type"] = "toggle",
+					["key"] = "encounter",
+					["default"] = false,
+					["useDesc"] = false,
+					["name"] = "Show during Boss",
+					["width"] = 1,
+				}, -- [1]
+				{
+					["type"] = "color",
+					["key"] = "selection",
+					["default"] = {
+						0, -- [1]
+						0, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["useDesc"] = false,
+					["name"] = "Selection Border",
+					["width"] = 1,
+				}, -- [2]
+				{
+					["type"] = "color",
+					["key"] = "answer",
+					["default"] = {
+						1, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["name"] = "Solution Border",
+					["useDesc"] = false,
+					["width"] = 1,
+				}, -- [3]
+				{
+					["type"] = "select",
+					["key"] = "announceClicked",
+					["values"] = {
+						"Disabled", -- [1]
+						"SAY", -- [2]
+						"YELL", -- [3]
+						"PARTY > INSTANCE > SAY", -- [4]
+					},
+					["name"] = "Announce Selection",
+					["useDesc"] = false,
+					["default"] = 1,
+					["width"] = 1,
+				}, -- [4]
+				{
+					["type"] = "select",
+					["values"] = {
+						"Disabled", -- [1]
+						"SAY", -- [2]
+						"YELL", -- [3]
+						"PARTY > INSTANCE > SAY", -- [4]
+					},
+					["default"] = 4,
+					["key"] = "announceSolution",
+					["useDesc"] = false,
+					["name"] = "Announce Solution",
+					["width"] = 1,
+				}, -- [5]
+				{
+					["type"] = "select",
+					["values"] = {
+						"Trait", -- [1]
+						"X + Y + Z > Trait", -- [2]
+					},
+					["default"] = 1,
+					["key"] = "announceStyle",
+					["useDesc"] = false,
+					["name"] = "Announcement style",
+					["width"] = 1,
+				}, -- [6]
+				{
+					["type"] = "select",
+					["values"] = {
+						"LOTUS", -- [1]
+						"FLOWER", -- [2]
+					},
+					["default"] = 2,
+					["key"] = "lotusFlower",
+					["useDesc"] = false,
+					["name"] = "Lotus or Flower",
+					["width"] = 1,
+				}, -- [7]
+				{
+					["type"] = "multiselect",
+					["name"] = "Announce as:",
+					["default"] = {
+						true, -- [1]
+						false, -- [2]
+						false, -- [3]
+						false, -- [4]
+					},
+					["useDesc"] = false,
+					["key"] = "announcer",
+					["values"] = {
+						"Party Leader", -- [1]
+						"Tank", -- [2]
+						"Healer", -- [3]
+						"Always", -- [4]
+					},
+					["width"] = 1,
+				}, -- [8]
+				{
+					["useName"] = false,
+					["type"] = "header",
+					["text"] = "",
+					["noMerge"] = false,
+					["width"] = 1,
+				}, -- [9]
+				{
+					["type"] = "toggle",
+					["default"] = false,
+					["key"] = "noCommunication",
+					["name"] = "Disable Cross-Communication with others running the WA",
+					["useDesc"] = false,
+					["width"] = 2,
+				}, -- [10]
+				{
+					["type"] = "toggle",
+					["key"] = "useEng",
+					["desc"] = "(Overwrites selection below)",
+					["default"] = false,
+					["name"] = "Use English instead of Client Regional Language",
+					["useDesc"] = true,
+					["width"] = 2,
+				}, -- [11]
+				{
+					["type"] = "select",
+					["key"] = "eLang",
+					["values"] = {
+						"Use Client Region Language", -- [1]
+						"Dutch", -- [2]
+					},
+					["default"] = 1,
+					["name"] = "Language (non-client region Language)",
+					["useDesc"] = false,
+					["width"] = 1,
+				}, -- [12]
+				{
+					["type"] = "range",
+					["useDesc"] = false,
+					["max"] = 10,
+					["step"] = 1,
+					["width"] = 1,
+					["min"] = 1,
+					["key"] = "versionPersonal",
+					["default"] = 1,
+					["name"] = "Notify when version outdated:",
+				}, -- [13]
+				{
+					["type"] = "toggle",
+					["key"] = "communicationOld",
+					["desc"] = "Enable communicate with older versions, disabling this should fully fix the glitchy issues that previous versions had. (at the cost of less people to auto-communicate until people update)",
+					["name"] = "Communicate with older versions (may cause glitchiness)",
+					["default"] = false,
+					["useDesc"] = true,
+					["width"] = 2,
+				}, -- [14]
+				{
+					["noMerge"] = false,
+					["useName"] = false,
+					["text"] = "",
+					["type"] = "header",
+					["width"] = 1,
+				}, -- [15]
+				{
+					["type"] = "toggle",
+					["key"] = "debug",
+					["default"] = false,
+					["name"] = "|cffff0000Debug testing|r (requires reload for full debug)",
+					["useDesc"] = false,
+					["width"] = 2,
+				}, -- [16]
+			},
+			["displayText_format_p_time_dynamic"] = false,
+			["uid"] = "iNljGjbglO(",
+			["semver"] = "1.6.4",
+			["tocversion"] = 90002,
+			["id"] = "Solution Display",
+			["shadowYOffset"] = -1,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["automaticWidth"] = "Auto",
+			["config"] = {
+				["lotusFlower"] = 2,
+				["debug"] = false,
+				["announceStyle"] = 1,
+				["announceClicked"] = 1,
+				["communicationOld"] = false,
+				["useEng"] = false,
+				["answer"] = {
+					1, -- [1]
+					0, -- [2]
+					0, -- [3]
+					1, -- [4]
+				},
+				["selection"] = {
+					0, -- [1]
+					0, -- [2]
+					1, -- [3]
+					1, -- [4]
+				},
+				["announceSolution"] = 4,
+				["versionPersonal"] = 1,
+				["announcer"] = {
+					false, -- [1]
+					false, -- [2]
+					false, -- [3]
+					true, -- [4]
+				},
+				["noCommunication"] = false,
+				["eLang"] = 1,
+				["encounter"] = true,
+			},
+			["justify"] = "LEFT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["shadowColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["wordWrap"] = "Elide",
+		},
 		["Embalmer's Oil [OH]"] = {
 			["iconSource"] = -1,
 			["xOffset"] = 0,
@@ -8224,12 +8669,7 @@ WeakAurasSaved = {
 				["timeLeft"] = 300,
 				["always"] = false,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["authorOptions"] = {
 				{
 					["softMin"] = 60,
@@ -8255,7 +8695,12 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -8320,7 +8765,7 @@ WeakAurasSaved = {
 					},
 				}, -- [3]
 			},
-			["parent"] = "Weapon temp enchants",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.7",
 			["width"] = 35,
 			["zoom"] = 0,
@@ -8333,9 +8778,6 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = true,
 			["uid"] = "a3ADMiQL6oB",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "463544",
-			["cooldown"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -8346,6 +8788,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "463544",
+			["cooldown"] = true,
+			["parent"] = "Weapon temp enchants",
 		},
 		["Quaking Current Cast Warning"] = {
 			["outline"] = "OUTLINE",
@@ -8524,7 +8969,7 @@ WeakAurasSaved = {
 			},
 			["url"] = "https://wago.io/ByQSAbqBm/5",
 		},
-		["01 Echolocation - White"] = {
+		["08 Hateful Gaze - Pink"] = {
 			["text2Point"] = "CENTER",
 			["text1FontSize"] = 12,
 			["authorOptions"] = {
@@ -8570,7 +9015,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["encounterid"] = "2398",
+				["encounterid"] = "2399",
 				["role"] = {
 					["multi"] = {
 					},
@@ -8594,7 +9039,7 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["tocversion"] = 90002,
 			["text2Enabled"] = false,
-			["uid"] = "gp3bwZU8WfR",
+			["uid"] = "DHWe74mdyAI",
 			["fixedWidth"] = 200,
 			["outline"] = "OUTLINE",
 			["color"] = {
@@ -8636,7 +9081,7 @@ WeakAurasSaved = {
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
 						["auraspellids"] = {
-							"342077", -- [1]
+							"331209", -- [1]
 						},
 						["auranames"] = {
 						},
@@ -8713,9 +9158,9 @@ WeakAurasSaved = {
 			["actions"] = {
 				["start"] = {
 					["glow_color"] = {
-						0.98039215686275, -- [1]
-						1, -- [2]
-						0.91764705882353, -- [3]
+						1, -- [1]
+						0, -- [2]
+						0.8156862745098, -- [3]
 						1, -- [4]
 					},
 					["glow_action"] = "show",
@@ -8750,7 +9195,7 @@ WeakAurasSaved = {
 			["justify"] = "LEFT",
 			["semver"] = "1.0.23",
 			["text1Font"] = "Friz Quadrata TT",
-			["id"] = "01 Echolocation - White",
+			["id"] = "08 Hateful Gaze - Pink",
 			["font"] = "Friz Quadrata TT",
 			["frameStrata"] = 9,
 			["width"] = 6.9999866485596,
@@ -8950,427 +9395,166 @@ WeakAurasSaved = {
 			},
 			["stickyDuration"] = false,
 		},
-		["Solution Display"] = {
+		["Power Infusion Receive"] = {
 			["outline"] = "OUTLINE",
-			["xOffset"] = -290,
-			["displayText"] = "%c",
-			["customText"] = "function()\n    return aura_env.solution .. \"\\n\"  ..aura_env.lastSolve\nend",
-			["yOffset"] = -31,
-			["anchorPoint"] = "CENTER",
-			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/hVLym_eLv/59",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\naura_env.version = WeakAuras.GetData(aura_env.id).version\naura_env.versionCheck = 0\naura_env.maxVersion = 0\naura_env.versionPersonal = aura_env.config['versionPersonal']\naura_env.showEncounter = aura_env.config['encounter']\naura_env.selectionColour = aura_env.config['selection']\naura_env.answerColour = aura_env.config['answer']\naura_env.potColour = aura_env.config['potentialSol']\naura_env.announceClicked = aura_env.config['announceClicked']\naura_env.announceSolution = aura_env.config['announceSolution']\naura_env.lotusFlower = aura_env.config['lotusFlower']\naura_env.announceStyle = aura_env.config['announceStyle']\naura_env.announce = aura_env.config['announcer']\naura_env.experimentalMatch = true\naura_env.experimentalMatchFound = false\naura_env.noCommunication = aura_env.config['noCommunication']\naura_env.useEng = aura_env.config['useEng']\naura_env.eLang = aura_env.config['eLang']\naura_env.lastSolvePH = \"\"\naura_env.announcer = false\naura_env.encounter = false\naura_env.specializationName = {\n    [250] = \"TANK\",\n    [581] = \"TANK\",\n    [104] = \"TANK\",\n    [268] = \"TANK\",\n    [66] = \"TANK\",\n    [73] = \"TANK\",\n    [105] = \"HEALER\", \n    [270] = \"HEALER\", \n    [65] = \"HEALER\", \n    [256] = \"HEALER\", \n    [257] = \"HEALER\", \n    [264] = \"HEALER\", \n}\n\nfunction aura_env.announcement(which,i,count,mark,experiment,cout,sout,fout)\n    aura_env.announcer = false\n    local lead = UnitIsGroupLeader(\"player\")\n    aura_env.playerInfo = aura_env.specializationName[GetSpecializationInfo(GetSpecialization())]\n    if lead and aura_env.announce[1] == true then\n        aura_env.announcer = true\n    elseif aura_env.playerInfo == \"TANK\" and aura_env.announce[2] == true then\n        aura_env.announcer = true\n    elseif aura_env.playerInfo == \"HEALER\" and aura_env.announce[3] == true then\n        aura_env.announcer = true\n    elseif not IsPartyLFG() and not UnitInParty(\"player\") then\n        aura_env.announcer = true\n    elseif aura_env.announce[4] == true then\n        aura_env.announcer = true\n    end\n    if which ~= 1 and aura_env.announcer == true then\n        local cirSay, shapeSay, fillSay, msg\n        if (tonumber(aura_env.logged_images[i][1]) == 0) then\n        cirSay = aura_env.circleText else cirSay = aura_env.nocircleText end\n        if (tonumber(aura_env.logged_images[i][2]) == 0) then\n        shapeSay = aura_env.lotusText else shapeSay = aura_env.leafText end\n        if (tonumber(aura_env.logged_images[i][3]) == 0) then\n        fillSay = aura_env.filledText else fillSay = aura_env.emptyText end\n        if experiment then\n            if cout == 0 then\n                cirSay = aura_env.circleText\n            else \n                cirSay = aura_env.nocircleText\n            end\n            if sout == 0 then\n                shapeSay = aura_env.lotusText            \n            else \n                shapeSay = aura_env.leafText\n            end\n            if fout == 0 then\n                fillSay = aura_env.filledText\n            else \n                fillSay = aura_env.emptyText\n            end\n        end\n        local channel = aura_env.announceChannel(which)\n        if count == true then \n            msg = i ..\": \" .. cirSay .. \" + \" .. shapeSay .. \" + \" .. fillSay \n        else\n            msg = aura_env.solutionText .. \": \"\n            if aura_env.announceStyle == 2 then\n                msg = msg .. cirSay .. \" + \" .. shapeSay .. \" + \" .. fillSay  .. \" > \"\n            end\n            if mark ==1 then\n                msg = msg .. cirSay\n                aura_env.solution = aura_env.solutionText ..\": \" .. cirSay\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" .. cirSay\n            elseif mark == 2 then \n                msg = msg .. shapeSay\n                aura_env.solution = aura_env.solutionText ..\": \" .. shapeSay\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" .. shapeSay\n            else \n                msg = msg .. fillSay\n                aura_env.solution = aura_env.solutionText ..\": \" .. fillSay\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" .. fillSay\n            end\n        end\n        SendChatMessage(msg,channel);\n    end\nend\nfunction aura_env.announceChannel(out)\n    if out == 2 then\n        return \"SAY\"\n    elseif out == 3 then\n        return \"YELL\"\n    elseif out == 4 then\n        if IsPartyLFG() then\n            return \"INSTANCE_CHAT\"\n        elseif UnitInParty(\"player\") then\n            return \"PARTY\"\n        else\n            return \"SAY\"\n        end\n    end\nend\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.solution = \"No submissions yet\"\naura_env.solutionText = \"Solution\"\naura_env.nocircleText =\"NO CIRCLE\"\naura_env.circleText = \"CIRCLE\"\naura_env.leafText = \"LEAF\"\naura_env.lotusText = \"LOTUS\"\nif aura_env.lotusFlower == 2 then aura_env.lotusText = \"FLOWER\" end\naura_env.emptyText = \"EMPTY\"\naura_env.filledText = \"FILLED\"\naura_env.noSolveText = \"No solution found\"\naura_env.sigSentText = \"Sigil sent by\"\naura_env.totalText = \"Total provided\"\naura_env.dupeText = \"Duplicated input\"\naura_env.noSubText = \"No submissions yet\"\naura_env.lastSolve = \"\"\naura_env.lastSolveText = \"Previous Solution\"\naura_env.resetText = \"Reset\"\n\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\n    aura_env.solution = \"입력 없음\"\n    aura_env.solutionText = \"정답\"\n    aura_env.nocircleText =\"테두리 없음\"\n    aura_env.circleText = \"테두리 있음\"\n    aura_env.leafText = \"나뭇잎\"\n    aura_env.lotusText = \"꽃\"\n    aura_env.emptyText = \"색칠 안 됨\"\n    aura_env.filledText = \"색칠됨\"\n    aura_env.noSolveText = \"답을 찾을 수 없음\"\n    aura_env.sigSentText = \"정보 받음 \"\n    aura_env.totalText = \"받은 정보\"\n    aura_env.dupeText = \"중복 입력\"\n    aura_env.noSubText = \"입력 없음\"\n    aura_env.lastSolveText = \"이전 정답\"\n    aura_env.resetText = \"초기화\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\n    aura_env.solution = \"Pas d'entrée actuelle\"\n    aura_env.solutionText = \"Solution\"\n    aura_env.nocircleText =\"NO CERCLE\"\n    aura_env.circleText = \"CERCLE\"\n    aura_env.leafText = \"FEUILLE\"\n    aura_env.lotusText = \"LOTUS\"\n    aura_env.emptyText = \"VIDE\"\n    aura_env.filledText = \"REMPLI\"\n    aura_env.noSolveText = \"Pas de solution trouvée\"\n    aura_env.sigSentText = \"Sigil envoyé par\"\n    aura_env.totalText = \"Total Fourni\"\n    aura_env.dupeText = \"Saise dupliquée\"\n    aura_env.noSubText = \"Pas d'entrée actuelle\"\n    aura_env.lastSolveText = \"Solution précédente\"\n    aura_env.resetText = \"Reset\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\n    aura_env.solution = \"Noch keine Eingaben\"\n    aura_env.solutionText = \"Lösung\"\n    aura_env.nocircleText = \"KEIN KREIS\"\n    aura_env.circleText = \"KREIS\"\n    aura_env.leafText = \"BLATT\"\n    aura_env.lotusText = \"LOTUS\"\n    aura_env.emptyText = \"NICHT AUSGEFÜLLT\"\n    aura_env.filledText = \"AUSGEFÜLLT\"\n    aura_env.noSolveText = \"Keine Lösung gefunden\"\n    aura_env.sigSentText = \"Siegel gesendet von\"\n    aura_env.totalText = \"Insgesamt bereitgestellt\"\n    aura_env.dupeText = \"Doppelt eingegeben\"\n    aura_env.noSubText = \"Noch keine Eingaben\"\n    aura_env.lastSolveText = \"Vorherige Lösung\"\n    aura_env.resetText = \"Zurücksetzen\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\n    aura_env.solution = \"尚未标记\"\n    aura_env.solutionText = \"答案\"\n    aura_env.nocircleText = \"无圈\"\n    aura_env.circleText = \"有圈\"\n    aura_env.leafText = \"叶\"\n    aura_env.lotusText = \"花\"\n    aura_env.emptyText = \"空心\"\n    aura_env.filledText = \"实心\"\n    aura_env.noSolveText = \"未找到答案\"\n    aura_env.sigSentText = \"标记来自于\"\n    aura_env.totalText = \"已标记数\"\n    aura_env.dupeText = \"标记重复\"\n    aura_env.noSubText = \"尚未标记\"\n    aura_env.lastSolveText = \"最终答案\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\n    aura_env.solution = \"Aún no hay entradas\"\n    aura_env.solutionText = \"Solución\"\n    aura_env.nocircleText =\"SIN CIRCULO\"\n    aura_env.circleText = \"CIRCULO\"\n    aura_env.leafText = \"HOJA\"\n    aura_env.lotusText = \"LOTO\"\n    aura_env.emptyText = \"VACIO\"\n    aura_env.filledText = \"RELLENO\"\n    aura_env.noSolveText = \"Solución no encontrada\"\n    aura_env.sigSentText = \"Marca enviada por\"\n    aura_env.totalText = \"Total proporcionado\"\n    aura_env.dupeText = \"Entrada Duplicada\"\n    aura_env.noSubText = \"Aún no hay entradas\"\n    aura_env.lastSolveText = \"Solución anterior\"\n    aura_env.resetText = \"Resetear\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\n    aura_env.solution = \"尚未標記\"\n    aura_env.solutionText = \"答案\"\n    aura_env.nocircleText =\"沒圈\"\n    aura_env.circleText = \"有圈\"\n    aura_env.leafText = \"葉子\"\n    aura_env.lotusText = \"花\"\n    aura_env.emptyText = \"空心\"\n    aura_env.filledText = \"實心\"\n    aura_env.noSolveText = \"沒有答案\"\n    aura_env.sigSentText = \"圖標製作為\"\n    aura_env.totalText = \"已標記圖標\"\n    aura_env.dupeText = \"標記重複了\"\n    aura_env.noSubText = \"尚未標記\"\n    aura_env.lastSolveText = \"上一個答案\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\n    aura_env.solution = \"Aun no hay entradas\"\n    aura_env.solutionText = \"Solucion\"\n    aura_env.nocircleText =\"Sin circulo\"\n    aura_env.circleText = \"Circulo\"\n    aura_env.leafText = \"Hoja\"\n    aura_env.lotusText = \"Loto\"\n    aura_env.emptyText = \"Vacio\"\n    aura_env.filledText = \"Lleno\"\n    aura_env.noSolveText = \"No se encuentra solucion\"\n    aura_env.sigSentText = \"Sigilo enviado por\"\n    aura_env.totalText = \"Total provisto\"\n    aura_env.dupeText = \"Entrada duplicada\"\n    aura_env.noSubText = \"Aun no hay entradas\"\n    aura_env.lastSolveText = \"Solucion anterior\"\n    aura_env.resetText = \"Reiniciar\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\n    aura_env.solution = \"Ничего не введено\"\n    aura_env.solutionText = \"Решение\"\n    aura_env.nocircleText = \"БЕЗ КРУГА\"\n    aura_env.circleText = \"КРУГ\"\n    aura_env.leafText = \"ЛИСТ\"\n    aura_env.lotusText = \"ЛОТОС\"\n    aura_env.emptyText = \"ПУСТОЙ\"\n    aura_env.filledText = \"ЦВЕТНОЙ\"\n    aura_env.noSolveText = \"Нет решения\"\n    aura_env.sigSentText = \"Отправлено\"\n    aura_env.totalText = \"Всего выбрано\"\n    aura_env.dupeText = \"Дублирующиеся данные\"\n    aura_env.noSubText = \"Ничего не введено\"\n    aura_env.lastSolveText = \"Предыдущее решение\"\n    aura_env.resetText = \"Сброс\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\n    aura_env.solution = \"Sem submições\"\n    aura_env.solutionText = \"Solução\"\n    aura_env.nocircleText = \"Sem Circulo\"\n    aura_env.circleText = \"Circulo\"\n    aura_env.leafText = \"Folha\"\n    aura_env.lotusText = \"Flor\"\n    aura_env.emptyText = \"Vazio\"\n    aura_env.filledText = \"Cheio\"\n    aura_env.noSolveText = \"Solução não encontrada\"\n    aura_env.sigSentText = \"Marca enviada por\"\n    aura_env.totalText = \"Total provido\"\n    aura_env.dupeText = \"Entrada Duplicada\"\n    aura_env.noSubText = \"Sem submições\"\n    aura_env.lastSolveText = \"Solução anterior\"\n    aura_env.resetText = \"Resetar\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\n    aura_env.solution = \"Nessuna immissione\"\n    aura_env.solutionText = \"Soluzione\"\n    aura_env.nocircleText =\"NON CERCHIATO\"\n    aura_env.circleText = \"CERCHIATO\"\n    aura_env.leafText = \"FOGLIA\"\n    aura_env.lotusText = \"FIORE\"\n    aura_env.emptyText = \"VUOTO\"\n    aura_env.filledText = \"PIENO\"\n    aura_env.noSolveText = \"Nessuna soluzione trovata\"\n    aura_env.sigSentText = \"Sigillo inviato da\"\n    aura_env.totalText = \"Totale provveduto\"\n    aura_env.dupeText = \"Doppia immissione\"\n    aura_env.noSubText = \"Nessuna immissione\"\n    aura_env.lastSolveText = \"Soluzione precedente\"\n    aura_env.resetText = \"Reset\" \nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\" \nelseif aura_env.eLang == 2 and not aura_env.useEng then\n    aura_env.solution = \"Nog geen antwoorden\"\n    aura_env.solutionText = \"Antwoord\"\n    aura_env.nocircleText =\"Geen cirkel\"\n    aura_env.circleText = \"Cirkel\"\n    aura_env.leafText = \"Blad\"\n    aura_env.lotusText = \"Lotus\"\n    aura_env.emptyText = \"Leeg\"\n    aura_env.filledText = \"Gekleurd\"\n    aura_env.noSolveText = \"Geen antwoord gevonden\"\n    aura_env.sigSentText = \"Sigil verstuurd door\"\n    aura_env.totalText = \"Totaal ingevoerd\"\n    aura_env.dupeText = \"Invoer gedupliceerd\"\n    aura_env.noSubText = \"Nog geen antwoorden\"\n    aura_env.lastSolveText = \"Vorig Antwoord\" \n    aura_env.resetText = \"Reset\"\nelseif aura_env.useEng then\n    aura_env.solution = \"No submissions yet\"\n    aura_env.solutionText = \"Solution\"\n    aura_env.nocircleText =\"NO CIRCLE\"\n    aura_env.circleText = \"CIRCLE\"\n    aura_env.leafText = \"LEAF\"\n    aura_env.lotusText = \"LOTUS\"\n    if aura_env.lotusFlower == 2 then aura_env.lotusText = \"FLOWER\" end\n    aura_env.emptyText = \"EMPTY\"\n    aura_env.filledText = \"FILLED\"\n    aura_env.noSolveText = \"No solution found\"\n    aura_env.sigSentText = \"Sigil sent by\"\n    aura_env.totalText = \"Total provided\"\n    aura_env.dupeText = \"Duplicated input\"\n    aura_env.noSubText = \"No submissions yet\"\n    aura_env.lastSolveText = \"Previous Solution\"\n    aura_env.resetText = \"Reset\"\nend\n\nC_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\naura_env.logged_images = {}\naura_env.testArray = {}\naura_env.dupe = false\naura_env.button = 9\n\naura_env.noc = {4,5,6,7}\naura_env.cir = {0,1,2,3}\naura_env.leaf = {0,1,4,5}\naura_env.lotus = {2,3,6,7}\naura_env.nofi = {1,3,5,7}\naura_env.fill = {0,2,4,6}\n\naura_env.LCG = LibStub(\"LibCustomGlow-1.0\")",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
+			["iconSource"] = 0,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
 			},
+			["displayText"] = "",
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "event",
+			["cooldownEdge"] = false,
+			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
+						["custom_type"] = "stateupdate",
 						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
-						["custom_hide"] = "custom",
+						["duration"] = "1",
+						["unevent"] = "auto",
+						["subeventPrefix"] = "SPELL",
+						["use_absorbMode"] = true,
 						["event"] = "Health",
 						["names"] = {
 						},
-						["subeventPrefix"] = "SPELL",
-						["custom"] = "function(event, eid,...)\n    if aura_env.debugmode then \n        return true \n    end\n    local text = GetMinimapZoneText()\n    if text == aura_env.mistZone then\n        return true\n    else\n        return false\n    end\nend",
+						["use_unit"] = true,
+						["custom"] = "function(allstates, event, ...) -- TOSH_WA_PI_GIVE,CLEU:SPELL_AURA_APPLIED\n    local state = allstates[aura_env.spellId]\n    if not state then\n        state = {\n            changed = true,\n            show = false,\n            progressType = \"timed\",\n            autoHide = true,\n            spellId = aura_env.spellId,\n        }\n        allstates[aura_env.spellId] = state\n    end\n\n    if event == \"TOSH_WA_PI_GIVE\" then\n        if state.show then return end -- already being shown\n\n        local sender = ...\n\n        if (\n            aura_env.config.assignment ~= \"\" and\n            sender ~= aura_env.config.assignment\n        ) then return end\n\n        local cdStart, cdDuration = GetSpellCooldown(aura_env.spellId)\n        local cdEnd = cdStart + cdDuration\n        local now = GetTime()\n        -- if spell is within a second, allow it\n        if cdEnd - now > 1 then return end\n\n\n        for unit in WA_IterateGroupMembers() do\n            if UnitName(unit) == sender then\n                state.unit = unit\n                state.changed = true\n                state.show = true\n                state.duration = 5\n                state.expirationTime = now + state.duration\n                break\n            end\n        end\n\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        if not state.show then return end\n\n        local args = {...}\n        if args[2] ~= \"SPELL_AURA_APPLIED\" or args[12] ~= aura_env.spellId then return end\n        if UnitGUID(state.unit) == args[8] then\n            state.show = false\n            state.changed = true\n        elseif args[4] == myGUID then\n            state.show = false\n            state.changed = true\n        end\n    end\n\n    return true\nend\n",
 						["spellIds"] = {
 						},
-						["custom_type"] = "status",
+						["events"] = "TOSH_WA_PI_GIVE,CLEU:SPELL_AURA_APPLIED",
 						["check"] = "event",
-						["events"] = "ZONE_CHANGED, PLAYER_LOGIN, PLAYER_ENTERING_WORLD, ENCOUNTER_START",
 						["unit"] = "player",
+						["subeventSuffix"] = "_CAST_START",
 						["debuffType"] = "HELPFUL",
 					},
 					["untrigger"] = {
 					},
 				}, -- [1]
-				{
-					["trigger"] = {
-						["unit"] = "player",
-						["customName"] = "function()\n    return \nend",
-						["custom"] = "function(event,eid,...)\n    if event == \"ENCOUNTER_END\" then \n        if IsPartyLFG() then\n            C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9nv\"..aura_env.version, \"INSTANCE_CHAT\")\n        elseif UnitInParty(\"player\") then\n            C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9nv\"..aura_env.version, \"PARTY\")\n        end\n        if eid == 2392 and aura_env.showEncounter == false then \n            return false \n        end\n        return true \n    elseif event == \"ENCOUNTER_START\" then \n        if aura_env.showEncounter == false then \n            return false\n        else\n            return true\n        end\n    end\n    return true\nend",
-						["custom_type"] = "status",
-						["check"] = "event",
-						["events"] = "ENCOUNTER_START, ENCOUNTER_END, PLAYER_ENTERING_WORLD",
-						["type"] = "custom",
-						["debuffType"] = "HELPFUL",
-					},
-					["untrigger"] = {
-					},
-				}, -- [2]
-				{
-					["trigger"] = {
-						["use_alwaystrue"] = true,
-						["use_genericShowOn"] = true,
-						["genericShowOn"] = "showOnCooldown",
-						["unit"] = "player",
-						["names"] = {
-						},
-						["duration"] = "60",
-						["spellName"] = 0,
-						["debuffType"] = "HELPFUL",
-						["subeventPrefix"] = "SPELL",
-						["type"] = "custom",
-						["custom_type"] = "event",
-						["unevent"] = "timed",
-						["custom"] = "function(event, prefix, msg, dist, sender)\n    -- Ignore non-WA messages\n    if prefix ~= \"TIRNASCYTHE\" then return false end\n    if aura_env.versionCheck < 8 then\n        if string.match(msg, \"v\") then\n            local version = string.match(msg, \"v%d%d%d\") or string.match(msg, \"v%d%d\")\n            version = string.match(version, \"%d%d%d\") or string.match(version, \"%d%d\")\n            if tonumber(version) >= tonumber(aura_env.version + aura_env.versionPersonal) then \n                if aura_env.maxVersion < tonumber(version) then\n                    aura_env.maxVersion = tonumber(version)\n                    print(\"|cFFFF0000Mists of Tirna Scithe maze guessing game is \" .. (tonumber(version) - tonumber(aura_env.version)).. \" versions old, please update.|r\")\n                end            \n                aura_env.versionCheck = aura_env.versionCheck + 1\n            end \n        end\n    end\n    \n    if aura_env.debugmode then\n        print(\"Received:\",prefix, msg, dist, sender)\n    end\n    if dist ~= \"WHISPER\" and aura_env.noCommunication then \n        if aura_env.debugmode then print(\"Ignored ^\") end\n        return false \n    end\n    if aura_env.experimentalMatchFound == true then\n        local circleE, shapeE, fillE, dupE = string.match(msg, \"(%d) (%d) (%d) (%d)\")\n        if (circleE == \"9\" and shapeE == \"9\" and fillE == \"9\" and dupE == \"9\") then\n            if string.match(msg, \"m\") then\n                aura_env.solution = aura_env.resetText .. \": \" .. sender .. \"\\n\" .. aura_env.noSubText\n            elseif not string.match(msg, \"n\") then\n                aura_env.solution = aura_env.resetText ..\": \" .. sender .. \"(outdated)\\n\" .. aura_env.noSubText\n            end\n            aura_env.logged_images = {}\n            aura_env.experimentalMatchFound = false\n            WeakAuras.ScanEvents(\"GlowReset\")\n            return true\n        elseif not aura_env.noCommunication then\n            if aura_env.announcer then\n                if IsPartyLFG() then\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9n\", \"INSTANCE_CHAT\")\n                    C_Timer.After(0.1, function() C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", msg, \"INSTANCE_CHAT\") end)                    \n                    aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" ..\"1/4\"\n                    aura_env.experimentalMatchFound = false\n                    return true \n                elseif UnitInParty(\"player\") then\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", \"9 9 9 9n\", \"PARTY\")\n                    C_Timer.After(0.1, function() C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", msg, \"PARTY\") end)\n                    aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" ..\"1/4\" \n                    aura_env.experimentalMatchFound = false\n                    return true \n                end\n            end\n        end\n    end\n    \n    local length = table.getn(aura_env.logged_images)\n    -- Ignore additional signs when at 4\n    if length > 3 then return false end\n    if length == 0 then WeakAuras.ScanEvents(\"GlowReset\") end\n    -- If we're resetting\n    local circle, shape, fill, dup = string.match(msg, \"(%d) (%d) (%d) (%d)\")\n    if (circle == \"9\" and shape == \"9\" and fill == \"9\" and dup == \"9\") then\n        if string.match(msg, \"m\") then\n            aura_env.solution = aura_env.resetText .. \": \" .. sender .. \"\\n\" .. aura_env.noSubText\n        elseif not string.match(msg, \"n\") then\n            aura_env.solution = aura_env.resetText ..\": \" .. sender .. \"(outdated)\\n\" .. aura_env.noSubText\n        end\n        aura_env.logged_images = {}\n        WeakAuras.ScanEvents(\"GlowReset\")\n        return true \n    end\n    \n    -- Main logic\n    local array = {circle, shape, fill, dup}\n    aura_env.dupe = false\n    if length > 0 then\n        for i=1, table.getn(aura_env.logged_images) do \n            if aura_env.logged_images[i][4] == array[4] then \n                aura_env.dupe = true\n            end\n        end\n    end\n    if not aura_env.dupe then\n        aura_env.logged_images[length + 1] = array\n        local new_length = table.getn(aura_env.logged_images)\n        if new_length == 1 then \n            aura_env.lastSolve = aura_env.lastSolvePH\n        end\n        aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" .. new_length .. \"/4\"\n        for i=1, new_length do \n            aura_env.button = tonumber(aura_env.logged_images[i][4])\n            aura_env.LCG.PixelGlow_Start(aura_env.testArray[aura_env.button], aura_env.selectionColour,8,0,1000,3,0,0,true,2)\n            if i == new_length then\n                aura_env.announcement(aura_env.announceClicked,i,true,0)\n            end\n        end\n        WeakAuras.ScanEvents(\"TirnaScitheButtonOrder\", aura_env.button, new_length)\n        if new_length == 3 and aura_env.experimentalMatch then \n            local checkOpp12 = {}\n            local checkOpp13 = {}\n            local checkOpp23 = {}\n            local checkAttTotal = {}\n            local countCout = 0\n            local countSout = 0\n            local countFout = 0\n            local count12match = 0\n            local count13match = 0\n            local count23match = 0\n            local annOut = 0\n            for i=1,3 do\n                checkOpp12[i] = (tonumber(aura_env.logged_images[1][i]) + tonumber(aura_env.logged_images[2][i]))\n                checkOpp13[i] = (tonumber(aura_env.logged_images[1][i]) + tonumber(aura_env.logged_images[3][i]))\n                checkOpp23[i] = (tonumber(aura_env.logged_images[2][i]) + tonumber(aura_env.logged_images[3][i]))\n            end\n            if aura_env.debugmode then \n                print(tonumber(aura_env.logged_images[1][1]), tonumber(aura_env.logged_images[1][2]), tonumber(aura_env.logged_images[1][3]))\n                print(tonumber(aura_env.logged_images[2][1]), tonumber(aura_env.logged_images[2][2]), tonumber(aura_env.logged_images[2][3]))\n                print(tonumber(aura_env.logged_images[3][1]), tonumber(aura_env.logged_images[3][2]), tonumber(aura_env.logged_images[3][3]))\n                print(\"-----\")\n                print(checkOpp12[1],checkOpp12[2],checkOpp12[3])\n                print(checkOpp13[1],checkOpp13[2],checkOpp13[3])\n                print(checkOpp23[1],checkOpp23[2],checkOpp23[3])\n            end\n            if (checkOpp12[1] == 1 and checkOpp12[2] == 1 and checkOpp12[3] == 1) or \n            (checkOpp13[1] == 1 and checkOpp13[2] == 1 and checkOpp13[3] == 1) or \n            (checkOpp23[1] == 1 and checkOpp23[2] == 1 and checkOpp23[3] == 1) then\n                if checkOpp12[1] == 0 or checkOpp12[1] == 2 then count12match = count12match + 1 end\n                if checkOpp12[2] == 0 or checkOpp12[2] == 2 then count12match = count12match + 1 end\n                if checkOpp12[3] == 0 or checkOpp12[3] == 2 then count12match = count12match + 1 end\n                if checkOpp13[1] == 0 or checkOpp13[1] == 2 then count13match = count13match + 1 end\n                if checkOpp13[2] == 0 or checkOpp13[2] == 2 then count13match = count13match + 1 end\n                if checkOpp13[3] == 0 or checkOpp13[3] == 2 then count13match = count13match + 1 end\n                if checkOpp23[1] == 0 or checkOpp23[1] == 2 then count23match = count23match + 1 end\n                if checkOpp23[2] == 0 or checkOpp23[2] == 2 then count23match = count23match + 1 end\n                if checkOpp23[3] == 0 or checkOpp23[3] == 2 then count23match = count23match + 1 end\n                if count12match ~= 2 and count13match ~= 2 then \n                    if checkOpp23[1] == 2 then annOut = 1 elseif checkOpp23[2] == 2 then annOut = 2 else annOut = 3 end\n                    aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[1][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                    aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,tonumber(aura_env.logged_images[1][1]),tonumber(aura_env.logged_images[1][2]),tonumber(aura_env.logged_images[1][3]))\n                    aura_env.logged_images = {}\n                    aura_env.experimentalMatchFound = true\n                    return true\n                end\n                if count12match ~= 2 and count23match ~= 2 then \n                    if checkOpp13[1] == 2 then annOut = 1 elseif checkOpp13[2] == 2 then annOut = 2 else annOut = 3 end                    \n                    aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[2][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                    aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,tonumber(aura_env.logged_images[2][1]),tonumber(aura_env.logged_images[2][2]),tonumber(aura_env.logged_images[2][3]))\n                    aura_env.logged_images = {}\n                    aura_env.experimentalMatchFound = true                    \n                    return true\n                end\n                if count23match ~= 2 and count13match ~= 2 then\n                    if checkOpp12[1] == 2 then annOut = 1 elseif checkOpp12[2] == 2 then annOut = 2 else annOut = 3 end\n                    aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[3][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                    aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,tonumber(aura_env.logged_images[3][1]),tonumber(aura_env.logged_images[3][2]),tonumber(aura_env.logged_images[3][3]))\n                    aura_env.logged_images = {}\n                    aura_env.experimentalMatchFound = true\n                    return true\n                end\n            end\n            checkAttTotal[1] = checkOpp12[1] + checkOpp13[1] + checkOpp23[1]\n            checkAttTotal[2] = checkOpp12[2] + checkOpp13[2] + checkOpp23[2]\n            checkAttTotal[3] = checkOpp12[3] + checkOpp13[3] + checkOpp23[3]\n            if checkAttTotal[1] == 6 or checkAttTotal[1] == 0 or checkAttTotal[2] == 6 or checkAttTotal[2] == 0 or checkAttTotal[3] == 6 or checkAttTotal[3] == 0 then\n                if checkOpp12[1] == 0 or checkOpp13[1] == 0 or checkOpp23[1] == 0 then countCout = 1 end\n                if checkOpp12[2] == 0 or checkOpp13[2] == 0 or checkOpp23[2] == 0 then countSout = 1 end\n                if checkOpp12[3] == 0 or checkOpp13[3] == 0 or checkOpp23[3] == 0 then countFout = 1 end                \n                if checkAttTotal[1] == 0 then countCout = 1 annOut = 1 elseif checkAttTotal[1] == 6 then countCout = 0 annOut = 1 end\n                if checkAttTotal[2] == 0 then countSout = 1 annOut = 2 elseif checkAttTotal[2] == 6 then countSout = 0 annOut = 2 end                \n                if checkAttTotal[3] == 0 then countFout = 1 annOut = 3 elseif checkAttTotal[3] == 6 then countFout = 0 annOut = 3 end\n                local outframetest = (4*countCout) + ((countSout-1)*-2) + countFout\n                WeakAuras.ScanEvents(\"TirnaScitheButtonOrder\", outframetest, \"4?\")\n                aura_env.LCG.PixelGlow_Start(aura_env.testArray[outframetest], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                aura_env.announcement(aura_env.announceSolution,1,false,annOut,aura_env.experimentalMatch,countCout,countSout,countFout)\n                aura_env.logged_images = {}\n                aura_env.experimentalMatchFound = true\n                return true\n            end\n        end\n        if (new_length > 3) then\n            local circleSum = 0\n            local shapeSum = 0\n            local fillSum = 0\n            for i=1,4 do\n                circleSum = circleSum + tonumber(aura_env.logged_images[i][1])\n                shapeSum = shapeSum + tonumber(aura_env.logged_images[i][2])\n                fillSum = fillSum + tonumber(aura_env.logged_images[i][3])\n            end\n            \n            if circleSum == 1 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.noc[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,1)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.nocircleText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.nocircleText\n            elseif circleSum == 3 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.cir[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,1)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.circleText                \n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.circleText\n            elseif shapeSum == 1 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.leaf[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,2)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.leafText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.leafText\n            elseif shapeSum == 3 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.lotus[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,2)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.lotusText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.lotusText\n            elseif fillSum == 1 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.nofi[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,3)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.emptyText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.emptyText\n            elseif fillSum == 3 then\n                for i=1, new_length do \n                    for j=1, 4 do \n                        if aura_env.fill[j] == tonumber(aura_env.logged_images[i][4]) then \n                            aura_env.LCG.PixelGlow_Start(aura_env.testArray[tonumber(aura_env.logged_images[i][4])], aura_env.answerColour,8,0,1000,3,0,0,true,2)\n                            aura_env.announcement(aura_env.announceSolution,i,false,3)\n                        end\n                    end\n                end\n                aura_env.solution = aura_env.solutionText ..\": \" .. aura_env.filledText\n                aura_env.lastSolvePH  = aura_env.lastSolveText .. \": \" ..aura_env.filledText\n            else\n                aura_env.solution = aura_env.noSolveText\n            end\n            aura_env.logged_images = {}\n        else\n            aura_env.solution = aura_env.sigSentText .. \" \" .. sender .. \"\\n\" .. aura_env.totalText .. \": \" .. new_length .. \"/4\"         \n        end\n    else\n        aura_env.solution = aura_env.dupeText\n    end\n    return true\nend",
-						["customName"] = "",
-						["event"] = "Combat Log",
-						["events"] = "CHAT_MSG_ADDON_LOGGED",
-						["realSpellName"] = 0,
-						["use_spellName"] = true,
-						["spellIds"] = {
-						},
-						["subeventSuffix"] = "_CAST_START",
-						["check"] = "event",
-						["custom_hide"] = "timed",
-						["use_track"] = true,
-						["dynamicDuration"] = false,
-					},
-					["untrigger"] = {
-					},
-				}, -- [3]
-				{
-					["trigger"] = {
-						["use_genericShowOn"] = true,
-						["genericShowOn"] = "showOnCooldown",
-						["unit"] = "player",
-						["debuffType"] = "HELPFUL",
-						["type"] = "custom",
-						["custom_hide"] = "custom",
-						["unevent"] = "auto",
-						["subeventSuffix"] = "",
-						["duration"] = "0.5",
-						["event"] = "Cooldown Progress (Spell)",
-						["custom"] = "function(event, frameNumber, frameData)\n    -- Add button data to array\n    if not aura_env.testArray[frameNumber] or aura_env.testArray[frameNumber] ~= frameData then\n        if aura_env.debugmode then\n            print(\"ButtonData:\",frameNumber, frameData, aura_env.testArray[frameNumber])\n        end\n        aura_env.testArray[frameNumber] = frameData\n    end\n    return true\nend",
-						["realSpellName"] = 0,
-						["use_spellName"] = true,
-						["events"] = "TirnaScitheButtonData",
-						["custom_type"] = "event",
-						["check"] = "event",
-						["subeventPrefix"] = "",
-						["use_track"] = true,
-						["spellName"] = 0,
-					},
-					["untrigger"] = {
-					},
-				}, -- [4]
-				{
-					["trigger"] = {
-						["use_genericShowOn"] = true,
-						["genericShowOn"] = "showOnCooldown",
-						["unit"] = "player",
-						["debuffType"] = "HELPFUL",
-						["type"] = "custom",
-						["custom_hide"] = "timed",
-						["unevent"] = "auto",
-						["subeventSuffix"] = "",
-						["duration"] = "0.5",
-						["event"] = "Cooldown Progress (Spell)",
-						["custom"] = "function()\n    for i=0, 7 do \n        aura_env.LCG.PixelGlow_Stop(aura_env.testArray[i], 2)\n    end\n    WeakAuras.ScanEvents(\"TirnaScitheButtonOrder\", 9, 9)\n    return true\nend",
-						["realSpellName"] = 0,
-						["use_spellName"] = true,
-						["events"] = "GlowReset",
-						["custom_type"] = "status",
-						["check"] = "event",
-						["subeventPrefix"] = "",
-						["use_track"] = true,
-						["spellName"] = 0,
-					},
-					["untrigger"] = {
-					},
-				}, -- [5]
 				["activeTriggerMode"] = -10,
 			},
 			["displayText_format_p_format"] = "timed",
 			["internalVersion"] = 40,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
-			["font"] = "Arial Narrow",
-			["version"] = 59,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
+			["font"] = "Friz Quadrata TT",
 			["subRegions"] = {
 			},
+			["height"] = 48,
 			["load"] = {
-				["ingroup"] = {
-					["single"] = "group",
+				["class_and_spec"] = {
 					["multi"] = {
-						["group"] = true,
+						[257] = true,
+						[256] = true,
 					},
 				},
-				["zoneId"] = "1669",
-				["zone"] = "",
+				["use_class_and_spec"] = false,
+				["class"] = {
+					["single"] = "PRIEST",
+					["multi"] = {
+						["PRIEST"] = true,
+					},
+				},
 				["spec"] = {
 					["multi"] = {
 					},
 				},
-				["difficulty"] = {
-					["multi"] = {
-						["mythic"] = true,
-						["challenge"] = true,
-					},
-				},
-				["use_zoneId"] = true,
-				["use_zone"] = false,
-				["use_zonegroupId"] = false,
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["use_never"] = false,
 				["size"] = {
 					["multi"] = {
 					},
 				},
 			},
-			["fontSize"] = 21,
-			["displayText_format_n_format"] = "none",
+			["width"] = 76,
+			["fontSize"] = 12,
+			["animation"] = {
+				["start"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
 			["shadowXOffset"] = 1,
-			["displayText_format_3.n_format"] = "none",
-			["preferToUpdate"] = true,
+			["information"] = {
+			},
+			["displayIcon"] = "135939",
+			["url"] = "https://wago.io/RMmv94O4t",
 			["regionType"] = "text",
-			["parent"] = "Mists of Tirna Scithe guessing game",
-			["selfPoint"] = "TOP",
-			["fixedWidth"] = 300,
+			["shadowYOffset"] = -1,
+			["automaticWidth"] = "Auto",
+			["uid"] = "XadeyfV7BCu",
+			["conditions"] = {
+			},
 			["displayText_format_p_time_precision"] = 1,
+			["alpha"] = 1,
+			["zoom"] = 0,
+			["cooldownTextDisabled"] = false,
+			["justify"] = "LEFT",
+			["wordWrap"] = "WordWrap",
+			["id"] = "Power Infusion Receive",
+			["xOffset"] = 0,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "UNITFRAME",
 			["authorOptions"] = {
 				{
-					["type"] = "toggle",
-					["key"] = "encounter",
-					["default"] = false,
-					["useDesc"] = false,
-					["name"] = "Show during Boss",
-					["width"] = 1,
-				}, -- [1]
-				{
-					["type"] = "color",
-					["key"] = "selection",
-					["default"] = {
-						0, -- [1]
-						0, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["useDesc"] = false,
-					["name"] = "Selection Border",
-					["width"] = 1,
-				}, -- [2]
-				{
-					["type"] = "color",
-					["key"] = "answer",
-					["default"] = {
-						1, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["name"] = "Solution Border",
-					["useDesc"] = false,
-					["width"] = 1,
-				}, -- [3]
-				{
-					["type"] = "select",
-					["key"] = "announceClicked",
-					["values"] = {
-						"Disabled", -- [1]
-						"SAY", -- [2]
-						"YELL", -- [3]
-						"PARTY > INSTANCE > SAY", -- [4]
-					},
-					["name"] = "Announce Selection",
-					["useDesc"] = false,
-					["default"] = 1,
-					["width"] = 1,
-				}, -- [4]
-				{
-					["type"] = "select",
-					["values"] = {
-						"Disabled", -- [1]
-						"SAY", -- [2]
-						"YELL", -- [3]
-						"PARTY > INSTANCE > SAY", -- [4]
-					},
-					["default"] = 4,
-					["key"] = "announceSolution",
-					["useDesc"] = false,
-					["name"] = "Announce Solution",
-					["width"] = 1,
-				}, -- [5]
-				{
-					["type"] = "select",
-					["values"] = {
-						"Trait", -- [1]
-						"X + Y + Z > Trait", -- [2]
-					},
-					["default"] = 1,
-					["key"] = "announceStyle",
-					["useDesc"] = false,
-					["name"] = "Announcement style",
-					["width"] = 1,
-				}, -- [6]
-				{
-					["type"] = "select",
-					["values"] = {
-						"LOTUS", -- [1]
-						"FLOWER", -- [2]
-					},
-					["default"] = 2,
-					["key"] = "lotusFlower",
-					["useDesc"] = false,
-					["name"] = "Lotus or Flower",
-					["width"] = 1,
-				}, -- [7]
-				{
-					["type"] = "multiselect",
-					["name"] = "Announce as:",
-					["default"] = {
-						true, -- [1]
-						false, -- [2]
-						false, -- [3]
-						false, -- [4]
-					},
-					["useDesc"] = false,
-					["key"] = "announcer",
-					["values"] = {
-						"Party Leader", -- [1]
-						"Tank", -- [2]
-						"Healer", -- [3]
-						"Always", -- [4]
-					},
-					["width"] = 1,
-				}, -- [8]
-				{
-					["useName"] = false,
-					["type"] = "header",
-					["text"] = "",
-					["noMerge"] = false,
-					["width"] = 1,
-				}, -- [9]
-				{
-					["type"] = "toggle",
-					["default"] = false,
-					["key"] = "noCommunication",
-					["name"] = "Disable Cross-Communication with others running the WA",
-					["useDesc"] = false,
-					["width"] = 2,
-				}, -- [10]
-				{
-					["type"] = "toggle",
-					["key"] = "useEng",
-					["desc"] = "(Overwrites selection below)",
-					["default"] = false,
-					["name"] = "Use English instead of Client Regional Language",
+					["type"] = "input",
 					["useDesc"] = true,
 					["width"] = 2,
-				}, -- [11]
-				{
-					["type"] = "select",
-					["key"] = "eLang",
-					["values"] = {
-						"Use Client Region Language", -- [1]
-						"Dutch", -- [2]
-					},
-					["default"] = 1,
-					["name"] = "Language (non-client region Language)",
-					["useDesc"] = false,
-					["width"] = 1,
-				}, -- [12]
-				{
-					["type"] = "range",
-					["useDesc"] = false,
-					["max"] = 10,
-					["step"] = 1,
-					["width"] = 1,
-					["min"] = 1,
-					["key"] = "versionPersonal",
-					["default"] = 1,
-					["name"] = "Notify when version outdated:",
-				}, -- [13]
-				{
-					["noMerge"] = false,
-					["useName"] = false,
-					["text"] = "",
-					["type"] = "header",
-					["width"] = 1,
-				}, -- [14]
-				{
-					["type"] = "toggle",
-					["key"] = "debug",
-					["default"] = false,
-					["name"] = "|cffff0000Debug testing|r (requires reload for full debug)",
-					["useDesc"] = false,
-					["width"] = 2,
-				}, -- [15]
+					["desc"] = "Put the name of your assigned PI target. If set, will ignore other requestors. If empty, will show any requests.",
+					["default"] = "",
+					["multiline"] = false,
+					["key"] = "assignment",
+					["length"] = 10,
+					["name"] = "Assignment",
+					["useLength"] = false,
+				}, -- [1]
 			},
-			["displayText_format_p_time_dynamic"] = false,
-			["uid"] = "iNljGjbglO(",
-			["semver"] = "1.6.3",
-			["tocversion"] = 90002,
-			["id"] = "Solution Display",
-			["shadowYOffset"] = -1,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["automaticWidth"] = "Fixed",
 			["config"] = {
-				["lotusFlower"] = 2,
-				["debug"] = false,
-				["announceStyle"] = 1,
-				["announceClicked"] = 1,
-				["useEng"] = false,
-				["answer"] = {
-					1, -- [1]
-					0, -- [2]
-					0, -- [3]
-					1, -- [4]
-				},
-				["selection"] = {
-					0, -- [1]
-					0, -- [2]
-					1, -- [3]
-					1, -- [4]
-				},
-				["announceSolution"] = 4,
-				["versionPersonal"] = 1,
-				["announcer"] = {
-					false, -- [1]
-					false, -- [2]
-					false, -- [3]
-					true, -- [4]
-				},
-				["noCommunication"] = false,
-				["eLang"] = 1,
-				["encounter"] = true,
+				["assignment"] = "",
 			},
-			["justify"] = "LEFT",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["inverse"] = false,
+			["actions"] = {
+				["start"] = {
+					["do_loop"] = true,
+					["glow_action"] = "show",
+					["sound_repeat"] = 2,
+					["do_glow"] = true,
+					["glow_type"] = "ACShine",
+					["custom"] = "local region = aura_env.region\n\nlocal unit = region.state and region.state.unit\nif not unit then return end\n\nlocal frame = WeakAuras.GetUnitFrame(unit)\nif not frame then return end\n\nregion:SetParent(frame)\nregion:ClearAllPoints()\nregion:SetAllPoints(frame)",
+					["do_sound"] = true,
+					["do_custom"] = false,
+					["use_glow_color"] = true,
+					["sound"] = "Interface\\AddOns\\Prat-3.0\\Sounds\\Link.ogg",
+					["glow_frame_type"] = "UNITFRAME",
+				},
+				["finish"] = {
+					["do_glow"] = false,
+					["hide_all_glows"] = true,
+					["custom"] = "local region = aura_env.region\nregion:ClearAllPoints()\n\n",
+					["do_custom"] = false,
+				},
+				["init"] = {
+					["do_custom"] = true,
+					["custom"] = "aura_env.spellId = 10060 -- Power Infusion\n\nlocal AceComm = LibStub(\"AceComm-3.0\")\n\nlocal function OnCommReceived(prefix, message, _, sender)\n    if prefix ~= \"TOSH_WA\" then return end\n    local subtype, msg = message:match(\"^(.+):(.+)$\")\n    if subtype ~= \"PI\" then return end\n    WeakAuras.ScanEvents(\"TOSH_WA_PI_GIVE\", sender)\nend\n\nAceComm:RegisterComm(\"TOSH_WA\", OnCommReceived)",
+				},
 			},
 			["shadowColor"] = {
 				0, -- [1]
@@ -9378,12 +9562,9 @@ WeakAurasSaved = {
 				0, -- [3]
 				1, -- [4]
 			},
-			["conditions"] = {
-			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["wordWrap"] = "WordWrap",
+			["fixedWidth"] = 200,
+			["cooldown"] = false,
+			["displayText_format_p_time_dynamic"] = false,
 		},
 		["02 Jagged Claws High Stacks - Orange"] = {
 			["text2Point"] = "CENTER",
@@ -9983,7 +10164,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useAnchorPerUnit"] = true,
+			["rotation"] = 0,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9992,16 +10173,16 @@ WeakAurasSaved = {
 			},
 			["limit"] = 3,
 			["animate"] = false,
-			["anchorPoint"] = "RIGHT",
+			["arcLength"] = 360,
 			["scale"] = 1,
-			["fullCircle"] = true,
+			["space"] = 2,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["anchorPerUnit"] = "UNITFRAME",
-			["rotation"] = 0,
-			["arcLength"] = 360,
+			["useAnchorPerUnit"] = true,
+			["anchorPoint"] = "RIGHT",
 			["constantFactor"] = "RADIUS",
 			["uid"] = "S)1hgAq(aZR",
 			["borderOffset"] = 4,
@@ -10014,14 +10195,14 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["sort"] = "none",
 			["borderInset"] = 1,
-			["space"] = 2,
-			["useLimit"] = true,
+			["fullCircle"] = true,
+			["radius"] = 200,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["radius"] = 200,
+			["useLimit"] = true,
 		},
 		["Tosh HealerMana bar"] = {
 			["sparkWidth"] = 10,
@@ -10847,70 +11028,55 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 		},
-		["Power Infusion Receive"] = {
-			["outline"] = "OUTLINE",
-			["iconSource"] = 0,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
+		["01 Echolocation - White"] = {
+			["text2Point"] = "CENTER",
+			["text1FontSize"] = 12,
+			["authorOptions"] = {
 			},
-			["displayText"] = "",
-			["yOffset"] = 0,
+			["displayText"] = " ",
+			["yOffset"] = -36.000030517578,
 			["anchorPoint"] = "CENTER",
-			["cooldownSwipe"] = true,
-			["customTextUpdate"] = "event",
-			["cooldownEdge"] = false,
+			["url"] = "https://wago.io/NathriaGlows/24",
 			["icon"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["custom_type"] = "stateupdate",
-						["type"] = "custom",
-						["duration"] = "1",
-						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
-						["use_absorbMode"] = true,
-						["event"] = "Health",
-						["names"] = {
-						},
-						["use_unit"] = true,
-						["custom"] = "function(allstates, event, ...) -- TOSH_WA_PI_GIVE,CLEU:SPELL_AURA_APPLIED\n    local state = allstates[aura_env.spellId]\n    if not state then\n        state = {\n            changed = true,\n            show = false,\n            progressType = \"timed\",\n            autoHide = true,\n            spellId = aura_env.spellId,\n        }\n        allstates[aura_env.spellId] = state\n    end\n\n    if event == \"TOSH_WA_PI_GIVE\" then\n        if state.show then return end -- already being shown\n\n        local sender = ...\n\n        if (\n            aura_env.config.assignment ~= \"\" and\n            sender ~= aura_env.config.assignment\n        ) then return end\n\n        local cdStart, cdDuration = GetSpellCooldown(aura_env.spellId)\n        local cdEnd = cdStart + cdDuration\n        local now = GetTime()\n        -- if spell is within a second, allow it\n        if cdEnd - now > 1 then return end\n\n\n        for unit in WA_IterateGroupMembers() do\n            if UnitName(unit) == sender then\n                state.unit = unit\n                state.changed = true\n                state.show = true\n                state.duration = 5\n                state.expirationTime = now + state.duration\n                break\n            end\n        end\n\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        if not state.show then return end\n\n        local args = {...}\n        if args[2] ~= \"SPELL_AURA_APPLIED\" or args[12] ~= aura_env.spellId then return end\n        if UnitGUID(state.unit) == args[8] then\n            state.show = false\n            state.changed = true\n        elseif args[4] == myGUID then\n            state.show = false\n            state.changed = true\n        end\n    end\n\n    return true\nend\n",
-						["spellIds"] = {
-						},
-						["events"] = "TOSH_WA_PI_GIVE,CLEU:SPELL_AURA_APPLIED",
-						["check"] = "event",
-						["unit"] = "player",
-						["subeventSuffix"] = "_CAST_START",
-						["debuffType"] = "HELPFUL",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
-			["displayText_format_p_format"] = "timed",
-			["internalVersion"] = 40,
-			["keepAspectRatio"] = false,
+			["text1Enabled"] = true,
 			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["font"] = "Friz Quadrata TT",
-			["subRegions"] = {
-			},
-			["height"] = 48,
+			["text1Containment"] = "INSIDE",
+			["text1Point"] = "CENTER",
+			["text2FontFlags"] = "OUTLINE",
 			["load"] = {
-				["class_and_spec"] = {
+				["talent2"] = {
 					["multi"] = {
-						[257] = true,
-						[256] = true,
 					},
 				},
-				["use_class_and_spec"] = false,
-				["class"] = {
-					["single"] = "PRIEST",
+				["use_never"] = false,
+				["talent"] = {
 					["multi"] = {
-						["PRIEST"] = true,
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["use_encounterid"] = true,
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["encounterid"] = "2398",
+				["role"] = {
+					["multi"] = {
 					},
 				},
 				["spec"] = {
@@ -10919,11 +11085,94 @@ WeakAurasSaved = {
 				},
 				["size"] = {
 					["multi"] = {
+						["twenty"] = true,
+						["flexible"] = true,
 					},
 				},
 			},
-			["width"] = 76,
-			["fontSize"] = 12,
+			["shadowXOffset"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "text",
+			["text2FontSize"] = 24,
+			["cooldownTextDisabled"] = false,
+			["auto"] = false,
+			["tocversion"] = 90002,
+			["text2Enabled"] = false,
+			["uid"] = "gp3bwZU8WfR",
+			["fixedWidth"] = 200,
+			["outline"] = "OUTLINE",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["customText"] = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			["shadowYOffset"] = -1,
+			["customTextUpdate"] = "event",
+			["automaticWidth"] = "Auto",
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["useMatch_count"] = true,
+						["useGroup_count"] = false,
+						["groupclone"] = true,
+						["duration"] = "1",
+						["name_info"] = "aura",
+						["names"] = {
+							"Putrid Paroxysm", -- [1]
+							"Absorbed in Darkness", -- [2]
+							"Gestate", -- [3]
+							"Roiling Deceit", -- [4]
+							"Imminent Ruin", -- [5]
+							"Unleashed Shadow", -- [6]
+							"Deathwish", -- [7]
+							"Torment", -- [8]
+						},
+						["use_tooltip"] = false,
+						["use_specific_unit"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["match_count"] = "1",
+						["debuffType"] = "HARMFUL",
+						["match_countOperator"] = ">=",
+						["custom_hide"] = "timed",
+						["showClones"] = true,
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["auraspellids"] = {
+							"342077", -- [1]
+						},
+						["auranames"] = {
+						},
+						["unit"] = "group",
+						["event"] = "Health",
+						["unevent"] = "timed",
+						["buffShowOn"] = "showOnActive",
+						["useExactSpellId"] = true,
+						["spellIds"] = {
+							262314, -- [1]
+							274387, -- [2]
+							265212, -- [3]
+							265360, -- [4]
+							272536, -- [5]
+							276672, -- [6]
+							274271, -- [7]
+							267427, -- [8]
+						},
+						["matchesShowOn"] = "showOnActive",
+						["check"] = "update",
+						["combineMatches"] = "showLowest",
+						["custom_type"] = "stateupdate",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "any",
+				["customTriggerLogic"] = "",
+				["activeTriggerMode"] = 1,
+			},
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -10944,79 +11193,88 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["shadowXOffset"] = 1,
-			["information"] = {
+			["stickyDuration"] = false,
+			["version"] = 24,
+			["height"] = 11.99995803833,
+			["fontSize"] = 12,
+			["text2Containment"] = "INSIDE",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["displayIcon"] = "135939",
-			["url"] = "https://wago.io/RMmv94O4t",
-			["regionType"] = "text",
-			["shadowYOffset"] = -1,
-			["automaticWidth"] = "Auto",
-			["uid"] = "XadeyfV7BCu",
-			["conditions"] = {
+			["preferToUpdate"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["displayText_format_p_time_precision"] = 1,
-			["alpha"] = 1,
-			["zoom"] = 0,
-			["cooldownTextDisabled"] = false,
-			["justify"] = "LEFT",
-			["wordWrap"] = "WordWrap",
-			["id"] = "Power Infusion Receive",
-			["xOffset"] = 0,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "UNITFRAME",
-			["authorOptions"] = {
-				{
-					["type"] = "input",
-					["useDesc"] = true,
-					["width"] = 2,
-					["desc"] = "Put the name of your assigned PI target. If set, will ignore other requestors. If empty, will show any requests.",
-					["default"] = "",
-					["multiline"] = false,
-					["key"] = "assignment",
-					["length"] = 10,
-					["name"] = "Assignment",
-					["useLength"] = false,
-				}, -- [1]
-			},
-			["config"] = {
-				["assignment"] = "",
-			},
-			["inverse"] = false,
+			["glow"] = false,
+			["parent"] = "Castle Nathria Glows",
+			["xOffset"] = -542.00009155273,
 			["actions"] = {
 				["start"] = {
-					["do_loop"] = true,
+					["glow_color"] = {
+						0.98039215686275, -- [1]
+						1, -- [2]
+						0.91764705882353, -- [3]
+						1, -- [4]
+					},
 					["glow_action"] = "show",
-					["sound_repeat"] = 2,
+					["glow_scale"] = 2,
 					["do_glow"] = true,
-					["glow_type"] = "ACShine",
-					["custom"] = "local region = aura_env.region\n\nlocal unit = region.state and region.state.unit\nif not unit then return end\n\nlocal frame = WeakAuras.GetUnitFrame(unit)\nif not frame then return end\n\nregion:SetParent(frame)\nregion:ClearAllPoints()\nregion:SetAllPoints(frame)",
-					["do_sound"] = true,
-					["do_custom"] = true,
+					["glow_lines"] = 10,
+					["custom"] = "",
+					["glow_frequency"] = 0.2,
 					["use_glow_color"] = true,
-					["sound"] = "Interface\\AddOns\\Prat-3.0\\Sounds\\Link.ogg",
+					["glow_type"] = "ACShine",
+					["do_custom"] = false,
 					["glow_frame_type"] = "UNITFRAME",
 				},
 				["finish"] = {
-					["do_glow"] = false,
+					["glow_frame_type"] = "UNITFRAME",
 					["hide_all_glows"] = true,
-					["custom"] = "local region = aura_env.region\nregion:ClearAllPoints()\n\n",
-					["do_custom"] = true,
+					["custom"] = "",
+					["glow_action"] = "hide",
+					["do_custom"] = false,
+					["do_glow"] = true,
 				},
 				["init"] = {
-					["do_custom"] = true,
-					["custom"] = "aura_env.spellId = 10060 -- Power Infusion\n\nlocal AceComm = LibStub(\"AceComm-3.0\")\n\nlocal function OnCommReceived(prefix, message, _, sender)\n    if prefix ~= \"TOSH_WA\" then return end\n    local subtype, msg = message:match(\"^(.+):(.+)$\")\n    if subtype ~= \"PI\" then return end\n    WeakAuras.ScanEvents(\"TOSH_WA_PI_GIVE\", sender)\nend\n\nAceComm:RegisterComm(\"TOSH_WA\", OnCommReceived)",
+					["custom"] = "",
+					["do_custom"] = false,
 				},
 			},
+			["text2Font"] = "Friz Quadrata TT",
+			["wordWrap"] = "WordWrap",
+			["text1"] = "%n",
+			["desaturate"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["justify"] = "LEFT",
+			["semver"] = "1.0.23",
+			["text1Font"] = "Friz Quadrata TT",
+			["id"] = "01 Echolocation - White",
+			["font"] = "Friz Quadrata TT",
+			["frameStrata"] = 9,
+			["width"] = 6.9999866485596,
+			["text2"] = "%p",
+			["displayIcon"] = 841384,
+			["inverse"] = false,
+			["zoom"] = 0,
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
 				0, -- [3]
 				1, -- [4]
 			},
-			["fixedWidth"] = 200,
-			["cooldown"] = false,
-			["displayText_format_p_time_dynamic"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["config"] = {
+			},
 		},
 		["02 Vicious Lunge - Green"] = {
 			["text2Point"] = "CENTER",
@@ -11595,29 +11853,8 @@ WeakAurasSaved = {
 			["cooldown"] = false,
 			["fixedWidth"] = 200,
 			["regionType"] = "text",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["xOffset"] = 0,
 			["cooldownEdge"] = false,
-			["icon"] = true,
-			["config"] = {
-			},
-			["displayText_format_p_time_precision"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["cooldownTextDisabled"] = false,
-			["justify"] = "LEFT",
-			["selfPoint"] = "CENTER",
-			["id"] = "Innervate Send",
-			["yOffset"] = 0,
-			["frameStrata"] = 1,
-			["width"] = 64,
-			["anchorPoint"] = "CENTER",
-			["uid"] = "QOZljllHaQn",
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -11638,6 +11875,27 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["config"] = {
+			},
+			["displayText_format_p_time_precision"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
+			["cooldownTextDisabled"] = false,
+			["justify"] = "LEFT",
+			["selfPoint"] = "CENTER",
+			["id"] = "Innervate Send",
+			["yOffset"] = 0,
+			["frameStrata"] = 1,
+			["width"] = 64,
+			["icon"] = true,
+			["uid"] = "QOZljllHaQn",
+			["inverse"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -11648,7 +11906,7 @@ WeakAurasSaved = {
 			},
 			["information"] = {
 			},
-			["xOffset"] = 0,
+			["anchorPoint"] = "CENTER",
 		},
 		["05 Gluttonous Miasma - Black"] = {
 			["text2Point"] = "CENTER",
@@ -12274,21 +12532,21 @@ WeakAurasSaved = {
 			["semver"] = "1.0.23",
 			["tocversion"] = 90002,
 			["id"] = "Castle Nathria Glows",
-			["groupIcon"] = 3614361,
+			["selfPoint"] = "BOTTOMLEFT",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "BOTTOMLEFT",
-			["uid"] = "EazKeH6nUbn",
+			["xOffset"] = 0,
 			["config"] = {
 			},
 			["borderInset"] = 1,
+			["uid"] = "EazKeH6nUbn",
 			["conditions"] = {
 			},
 			["information"] = {
 				["groupOffset"] = true,
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["xOffset"] = 0,
+			["groupIcon"] = 3614361,
 		},
 		["Tosh ZT Party Defensives"] = {
 			["arcLength"] = 360,
@@ -12374,7 +12632,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["rotation"] = 0,
+			["radius"] = 200,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -12383,16 +12641,16 @@ WeakAurasSaved = {
 			},
 			["limit"] = 3,
 			["animate"] = false,
-			["grow"] = "LEFT",
+			["gridType"] = "RD",
 			["scale"] = 1,
-			["useLimit"] = true,
+			["rowSpace"] = 1,
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["anchorPerUnit"] = "UNITFRAME",
-			["radius"] = 200,
-			["gridType"] = "RD",
+			["rotation"] = 0,
+			["grow"] = "LEFT",
 			["constantFactor"] = "RADIUS",
 			["borderInset"] = 1,
 			["borderOffset"] = 4,
@@ -12406,14 +12664,14 @@ WeakAurasSaved = {
 			["sort"] = "ascending",
 			["config"] = {
 			},
-			["rowSpace"] = 1,
-			["useAnchorPerUnit"] = true,
+			["useLimit"] = true,
+			["fullCircle"] = true,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["fullCircle"] = true,
+			["useAnchorPerUnit"] = true,
 		},
 		["10 Searing Censure - Teal"] = {
 			["text2Point"] = "CENTER",
@@ -13735,7 +13993,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -13813,7 +14071,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -13904,7 +14162,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "zr1axMzgv7j",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -13940,25 +14198,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\nocircle_leaf_nofill.tga",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 1, 1, 5}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 5, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "nocircle_leaf_nofil",
 			["frameStrata"] = 1,
@@ -13972,11 +14221,284 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 1, 1, 5}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 5, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
+		},
+		["Prideful"] = {
+			["sparkWidth"] = 10,
+			["sparkOffsetX"] = 0,
+			["xOffset"] = -13.33349609375,
+			["yOffset"] = 406.6666870117188,
+			["anchorPoint"] = "CENTER",
+			["sparkRotation"] = 0,
+			["sparkRotationMode"] = "AUTO",
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.5, -- [4]
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["customVariables"] = "{\n    expirationTime = true,\n    duration = true,\n    stacks = true,\n    additionalProgress = 1,\n}\n",
+						["subeventSuffix"] = "_CAST_START",
+						["subeventPrefix"] = "SPELL",
+						["duration"] = "1",
+						["event"] = "Combat Log",
+						["names"] = {
+						},
+						["unevent"] = "timed",
+						["spellIds"] = {
+						},
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED,TOSH_PRIDEFUL_UPDATE",
+						["custom_type"] = "stateupdate",
+						["check"] = "event",
+						["custom"] = "function(allstates, event, ...) -- COMBAT_LOG_EVENT_UNFILTERED,TOSH_PRIDEFUL_UPDATE\n    local state = allstates[\"prideful\"] or {\n        show=false,\n        changed=false,\n        progressType=\"timed\",\n        spellId=aura_env.pridefulBurst,\n        samples={},\n    }\n    allstates[\"prideful\"] = state\n\n    if event == \"TOSH_PRIDEFUL_UPDATE\" then\n        if not state.show then return end\n\n        aura_env:ttd_update(state)\n        state.changed = true\n\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local args = {...}\n        \n        if (\n            args[2] == \"SPELL_DAMAGE\" and\n            args[8] == UnitGUID(\"player\") and\n            args[12] == aura_env.pridefulBurst\n        ) then\n            state.show = true\n            state.changed = true\n            state.stacks = (state.stacks or 0) + 1\n            if state.stacks == 1 then\n                state.guid, state.unit = aura_env.find_np()\n                state.firstTick = GetTime()\n                wipe(state.samples)\n                print( (\"prideful start on %s (%s)\"):format(state.guid, state.unit))\n            end\n            aura_env:ttd_update(state)\n            aura_env:make_ticks(state)\n            if aura_env.ticker then\n                aura_env.ticker:Cancel()\n            end\n            aura_env.ticker = C_Timer.NewTicker(\n                1 / aura_env.config.refreshRate,\n                function() WeakAuras.ScanEvents(\"TOSH_PRIDEFUL_UPDATE\") end\n            )\n\n        elseif state.show and args[8] == state.guid and UnitIsDead(state.unit) then\n            state.stacks = 0\n            state.show = false\n            state.changed = true\n            if aura_env.ticker then\n                aura_env.ticker:Cancel()\n            end\n        end\n    end\n    return true\nend\n",
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["icon_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["internalVersion"] = 40,
+			["selfPoint"] = "CENTER",
+			["barColor"] = {
+				0.6941176470588235, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["desaturate"] = false,
+			["sparkOffsetY"] = 0,
+			["subRegions"] = {
+				{
+					["type"] = "aurabar_bar",
+				}, -- [1]
+				{
+					["text_shadowXOffset"] = 1,
+					["text_text_format_s_format"] = "none",
+					["text_text"] = "%s",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = -1,
+					["text_fontType"] = "None",
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "LEFT",
+					["text_text_format_p_time_precision"] = 1,
+					["text_text_format_p_format"] = "timed",
+					["text_fontSize"] = 30,
+					["anchorXOffset"] = 0,
+					["text_text_format_p_time_dynamic"] = false,
+				}, -- [2]
+				{
+					["text_shadowXOffset"] = 1,
+					["text_text_format_s_format"] = "none",
+					["text_text"] = "%p",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_text_format_p_time_precision"] = 1,
+					["text_shadowYOffset"] = -1,
+					["text_fontType"] = "None",
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "INNER_RIGHT",
+					["text_text_format_p_format"] = "timed",
+					["text_text_format_n_format"] = "none",
+					["text_fontSize"] = 18,
+					["anchorXOffset"] = 0,
+					["text_text_format_p_time_dynamic"] = false,
+				}, -- [3]
+			},
+			["height"] = 32,
+			["load"] = {
+				["affixes"] = {
+					["single"] = 121,
+				},
+				["use_affixes"] = true,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["sparkBlendMode"] = "ADD",
+			["useAdjustededMax"] = false,
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["overlays"] = {
+				{
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					1, -- [4]
+				}, -- [1]
+			},
+			["iconSource"] = -1,
+			["useAdjustededMin"] = false,
+			["regionType"] = "aurabar",
+			["icon"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["do_custom"] = true,
+					["custom"] = "aura_env.pridefulBurst = 342332 -- Bursting With Pride\n\nfunction aura_env.find_np()\n    for i=1,40 do\n        local unit = \"nameplate\"..i\n        if UnitExists(unit) then\n            local guid = UnitGUID(unit)\n            local type, zero, server_id, instance_id, zone_uid, npc_id, spawn_uid = strsplit(\"-\", guid)\n\n            if npc_id == \"173729\" then -- Manifestation of Pride\n                return guid, unit\n            end\n        end\n    end\nend\n\nfunction aura_env:startTime()\n    return self.firstTick and self.firstTick - 2\nend\n\n-- Mostly copied from https://wago.io/TimeToDie\nfunction aura_env:ttd_update(state)\n    if state.unit and UnitExists(state.unit) then\n        local time = GetTime()\n        local cur, max = UnitHealth(state.unit), UnitHealthMax(state.unit)\n        if max > 0 then\n            table.insert(state.samples, 1, {\n                time = time - self:startTime(), -- time of the sample, from the start of combat\n                pct = cur/max,\n            })\n        end\n        local n = #state.samples\n        -- Delete values that are no longer valid\n        while (time - state.samples[n].time > (self.config.historyTime or 10)) do\n            state.samples[n] = nil\n            n = n - 1\n        end\n    end\n\n    -- Simple linear regression\n    -- ( E(x^2)  E(x) )  ( a )  ( E(xy) )\n    -- ( E(x)     n  )  ( b ) = ( E(y)  )\n    -- Format of the above: ( 2x2 Matrix ) * ( 2x1 Vector ) = ( 2x1 Vector )\n    -- Solve to find a and b, satisfying y = a + bx\n    -- Matrix arithmetic has been expanded and solved to make the following operation as fast as possible\n    local n = #state.samples\n    if n > (self.config.minSamples or 10) then\n        local Ex2, Ex, Exy, Ey = 0, 0, 0, 0\n        \n        local value, x, y\n        for i = 1, n do\n            value = state.samples[i]\n            x, y = value.time, value.pct\n            \n            Ex2 = Ex2 + x * x\n            Ex = Ex + x\n            Exy = Exy + x * y\n            Ey = Ey + y\n        end\n        -- invariant to find matrix inverse\n        local invariant = 1 / (Ex2 * n - Ex * Ex)\n        -- Solve for a and b\n        local a = (-Ex * Exy * invariant) + (Ex2 * Ey * invariant)\n        local b = (n * Exy * invariant) - (Ex * Ey * invariant)\n        if b ~= 0 then\n            -- Use best fit line to calculate estimated time to reach target health\n            state.duration = (0 - a) / b\n            state.duration = math.ceil(state.duration / 2) * 2 -- round up to fit the ticks\n            state.expirationTime = self:startTime() + state.duration\n            return\n        end\n    end\n    state.duration = 60\n    state.expirationTime = self:startTime() + state.duration\nend\n\nViragDevTool_AddData({r = aura_env.region, b = aura_env.region.bar}, \"wa\")\nlocal tickFrame = CreateFrame(\"FRAME\", nil, aura_env.region.bar)\ntickFrame:SetClipsChildren(true)\nlocal tickPool = CreateTexturePool(tickFrame, \"ARTWORK\", 7, nil)\n\naura_env.ticks = {}\nfunction aura_env:GetTick(i)\n    local tick = self.ticks[i] or tickPool:Acquire()\n    self.ticks[i] = tick\n    tick:SetDrawLayer(\"ARTWORK\", 3)\n    tick:SetColorTexture(1, 1, 1, 1)\n    tick:SetWidth(2)\n    tick:SetHeight(self.region.height)\nend\n\nfunction aura_env:make_ticks(state)\n    if not state.duration or state.duration <= 0 then return end\n    local ticks = math.floor(state.duration / 2)\n\n    for i=1,ticks do\n        local tick = self:GetTick(i)\n        state.additionalProgress[i] = {\n            min = state.firstTick + (i * 2),\n            max = state.firstTick + (i * 2) + 0.2,\n        }\n    end\nend\n",
+				},
+				["finish"] = {
+				},
+			},
+			["icon_side"] = "RIGHT",
+			["authorOptions"] = {
+				{
+					["type"] = "number",
+					["useDesc"] = true,
+					["max"] = 180,
+					["step"] = 1,
+					["width"] = 1,
+					["min"] = 0,
+					["name"] = "History Seconds",
+					["desc"] = "Sample max age for time-to-death calculations",
+					["key"] = "historyTime",
+					["default"] = 10,
+				}, -- [1]
+				{
+					["type"] = "number",
+					["useDesc"] = true,
+					["max"] = 100,
+					["step"] = 1,
+					["width"] = 1,
+					["min"] = 0,
+					["default"] = 10,
+					["key"] = "minSamples",
+					["desc"] = "Min number of samples before time-to-death calc is valid",
+					["name"] = "Min Samples",
+				}, -- [2]
+				{
+					["type"] = "number",
+					["useDesc"] = true,
+					["max"] = 1000,
+					["step"] = 1,
+					["width"] = 1,
+					["min"] = 0,
+					["name"] = "Refresh Rate",
+					["desc"] = "Number of samples per second to calculate time-to-death",
+					["key"] = "refreshRate",
+					["default"] = 100,
+				}, -- [3]
+			},
+			["sparkHeight"] = 30,
+			["texture"] = "Smooth v2",
+			["sparkColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["zoom"] = 0,
+			["spark"] = false,
+			["id"] = "Prideful",
+			["sparkHidden"] = "NEVER",
+			["width"] = 400,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
+			["uid"] = "wTpHq2nWWhd",
+			["inverse"] = false,
+			["config"] = {
+				["historyTime"] = 10,
+				["refreshRate"] = 100,
+				["minSamples"] = 10,
+			},
+			["orientation"] = "HORIZONTAL",
+			["conditions"] = {
+			},
+			["information"] = {
+			},
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
 		},
 		["Shaded Weightstone [OH]"] = {
 			["iconSource"] = -1,
@@ -14114,12 +14636,7 @@ WeakAurasSaved = {
 				["timeLeft"] = 300,
 				["always"] = false,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["authorOptions"] = {
 				{
 					["softMin"] = 60,
@@ -14145,7 +14662,12 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -14197,7 +14719,7 @@ WeakAurasSaved = {
 					},
 				}, -- [2]
 			},
-			["parent"] = "Weapon temp enchants",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.7",
 			["width"] = 35,
 			["zoom"] = 0,
@@ -14210,9 +14732,6 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["uid"] = "O130lcOBHsV",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "3528423",
-			["cooldown"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -14223,6 +14742,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "3528423",
+			["cooldown"] = false,
+			["parent"] = "Weapon temp enchants",
 		},
 		["07 Dark Recital Group"] = {
 			["controlledChildren"] = {
@@ -14334,6 +14856,253 @@ WeakAurasSaved = {
 			["information"] = {
 			},
 			["xOffset"] = 0,
+		},
+		["Shaded Sharpening Stone [OH]"] = {
+			["iconSource"] = -1,
+			["xOffset"] = 0,
+			["preferToUpdate"] = false,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["url"] = "https://wago.io/OilsAndStones/8",
+			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["debuffType"] = "HELPFUL",
+						["event"] = "Health",
+						["unit"] = "player",
+						["events"] = "UNIT_INVENTORY_CHANGED:player PLAYER_EQUIPMENT_CHANGED BAG_UPDATE PLAYER_REGEN_ENABLED SL_SHADEDSHARP_OH_ENCH",
+						["custom"] = "function(states, event, ...)\n    if event == \"OPTIONS\" then\n        states[\"\"] = {\n            icon = GetItemIcon(aura_env.itemID),\n            index = 6,\n            count = 10,\n            autoHide = true,\n            changed = true,\n            show = true,\n        } \n        return true\n    end\n    \n    if (event == \"BAG_UPDATE\" or event == \"PLAYER_REGEN_ENABLED\")\n    and not InCombatLockdown()\n    then\n        local count = GetItemCount(aura_env.itemID)\n        if count and count > 0 then\n            aura_env.buttonstuff(true)\n        else\n            aura_env.buttonstuff(false)\n        end\n        local state = states[\"\"]\n        if state then\n            state.count = count or 0\n            state.changed = true\n        end\n        return true\n    elseif event == \"UNIT_INVENTORY_CHANGED\" or event == \"PLAYER_EQUIPMENT_CHANGED\" and not InCombatLockdown() then\n        C_Timer.After(0.5, function()\n                WeakAuras.ScanEvents(\"SL_SHADEDSHARP_OH_ENCH\", true)\n            end\n        )\n    elseif event == \"SL_SHADEDSHARP_OH_ENCH\" and ... then\n        for k, v in pairs(states) do\n            v.show = false\n            v.changed = true\n        end\n        \n        local item = Item:CreateFromEquipmentSlot(17)\n        if not item:IsItemEmpty() then\n            local location = item:GetItemLocation()\n            local itemLink = C_Item.GetItemLink(location)\n            if itemLink then\n                local _, _, _, _, _, _, _, _, itemType, _, _, _, itemSubType = GetItemInfo(itemLink)\n                local isWeapon = itemType and (\n                    itemType == \"INVTYPE_WEAPON\"\n                    or itemType == \"INVTYPE_WEAPONOFFHAND\"\n                    or itemType == \"INVTYPE_2HWEAPON\"\n                )\n                local isSharp = itemSubType == LE_ITEM_WEAPON_AXE1H\n                or itemSubType == LE_ITEM_WEAPON_AXE2H\n                or itemSubType == LE_ITEM_WEAPON_POLEARM\n                or itemSubType == LE_ITEM_WEAPON_SWORD1H\n                or itemSubType == LE_ITEM_WEAPON_SWORD2H\n                or itemSubType == LE_ITEM_WEAPON_WARGLAIVE\n                or itemSubType == LE_ITEM_WEAPON_DAGGER\n                \n                if isWeapon and isSharp then\n                    local exists, duration, charges, enchantID = select(5, GetWeaponEnchantInfo())\n                    if (exists and \n                        (duration and duration/1000 < aura_env.config.timeLeft)\n                        or aura_env.config.always\n                    )\n                    or not exists\n                    then\n                        local count = GetItemCount(aura_env.itemID)\n                        states[\"\"] = {\n                            icon = GetItemIcon(aura_env.itemID),\n                            index = 6,\n                            count = count or 0,\n                            autoHide = true,\n                            changed = true,\n                            show = true,\n                        } \n                        return true\n                    end\n                end\n            end\n        end\n        return true\n    end\nend",
+						["spellIds"] = {
+						},
+						["names"] = {
+						},
+						["check"] = "event",
+						["subeventPrefix"] = "SPELL",
+						["custom_type"] = "stateupdate",
+						["customVariables"] = "{\n    expirationTime = true,\n    missing = \"bool\",\n    count = \"number\",\n}",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 40,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["easeStrength"] = 3,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["desaturate"] = false,
+			["version"] = 8,
+			["subRegions"] = {
+				{
+					["text_text_format_p_time_precision"] = 1,
+					["text_text_format_s_format"] = "none",
+					["text_text"] = "%count",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "CENTER",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Fira Mono",
+					["text_shadowXOffset"] = 0,
+					["text_shadowYOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "CENTER",
+					["text_text_format_p_format"] = "timed",
+					["text_text_format_count_format"] = "none",
+					["text_fontSize"] = 18,
+					["anchorXOffset"] = 0,
+					["text_text_format_p_time_dynamic"] = false,
+				}, -- [1]
+				{
+					["glowFrequency"] = 0.25,
+					["type"] = "subglow",
+					["useGlowColor"] = false,
+					["glowType"] = "buttonOverlay",
+					["glowLength"] = 10,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowXOffset"] = 0,
+					["glowScale"] = 1,
+					["glowThickness"] = 1,
+					["glow"] = false,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [2]
+			},
+			["height"] = 35,
+			["load"] = {
+				["use_never"] = false,
+				["use_encounter"] = false,
+				["use_combat"] = false,
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["config"] = {
+				["timeLeft"] = 300,
+				["always"] = false,
+			},
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+				{
+					["softMin"] = 60,
+					["type"] = "range",
+					["bigStep"] = 1,
+					["max"] = 1200,
+					["step"] = 1,
+					["width"] = 2,
+					["min"] = 60,
+					["key"] = "timeLeft",
+					["softMax"] = 1200,
+					["default"] = 300,
+					["name"] = "Time left on enchant to show (seconds)",
+					["useDesc"] = false,
+				}, -- [1]
+				{
+					["type"] = "toggle",
+					["key"] = "always",
+					["default"] = false,
+					["name"] = "Always show (outside a combat)",
+					["useDesc"] = false,
+					["width"] = 1,
+				}, -- [2]
+			},
+			["regionType"] = "icon",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = "<=",
+						["value"] = "3",
+						["variable"] = "count",
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0.49803921568627, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.1.text_color",
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["op"] = "==",
+						["value"] = "0",
+						["variable"] = "count",
+					},
+					["changes"] = {
+						{
+							["value"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["property"] = "sub.1.text_color",
+						}, -- [1]
+						{
+							["value"] = true,
+							["property"] = "desaturate",
+						}, -- [2]
+						{
+							["value"] = 0.3,
+							["property"] = "alpha",
+						}, -- [3]
+					},
+				}, -- [2]
+			},
+			["selfPoint"] = "CENTER",
+			["semver"] = "1.0.7",
+			["width"] = 35,
+			["zoom"] = 0,
+			["auto"] = true,
+			["tocversion"] = 90002,
+			["id"] = "Shaded Sharpening Stone [OH]",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["uid"] = "CdH4fcGDb0D",
+			["inverse"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.itemID = 171437\n\nlocal r = aura_env.region\naura_env.buttonstuff = function(set)\n    if not InCombatLockdown() then\n        if not r._button then\n            r._button = CreateFrame(\"Button\", \"DONTDOTHIS5\", aura_env.region, \"SecureActionButtonTemplate\")\n            r._button:SetAllPoints()\n            r._button:RegisterForClicks(\"AnyUp\")\n            \n            r._button:SetAttribute(\"shift-type*\", \"macro\")\n            local text = \"/click TempEnchant1\\n/click ElvUIPlayerBuffsTempEnchant1\"\n            r._button:SetAttribute(\"macrotext\", text)\n            \n            r._button:SetAttribute(\"type*\", \"item\")\n            r._button:SetAttribute(\"item\", \"item:\"..aura_env.itemID)\n            r._button:SetAttribute(\"target-slot\", INVSLOT_OFFHAND)\n            r._button:Show()\n        elseif set and not r._button:IsShown() then\n            r._button:SetAttribute(\"shift-type*\", \"macro\")\n            local text = \"/click TempEnchant2\\n/click ElvUIPlayerBuffsTempEnchant2\"\n            r._button:SetAttribute(\"macrotext\", text)\n            \n            r._button:SetAttribute(\"type*\", \"item\")\n            r._button:SetAttribute(\"item\", \"item:\"..aura_env.itemID)\n            r._button:SetAttribute(\"target-slot\", INVSLOT_OFFHAND)\n            \n            r._button:Show()\n        elseif not set and r._button:IsShown() then\n            r._button:SetAttribute(\"shift-type*\", nil)\n            r._button:SetAttribute(\"macrotext\", nil)\n            r._button:SetAttribute(\"type*\", nil)\n            r._button:SetAttribute(\"item\", nil)\n            r._button:SetAttribute(\"target-slot\", nil)\n            r._button:Hide()\n        end\n    end\nend\n\naura_env.buttonstuff(true)",
+					["do_custom"] = true,
+				},
+			},
+			["displayIcon"] = "3528422",
+			["cooldown"] = false,
+			["parent"] = "Weapon temp enchants",
 		},
 		["09 Rended Heart - Red"] = {
 			["text2Point"] = "CENTER",
@@ -14562,501 +15331,6 @@ WeakAurasSaved = {
 			["semver"] = "1.0.23",
 			["text1Font"] = "Friz Quadrata TT",
 			["id"] = "09 Rended Heart - Red",
-			["font"] = "Friz Quadrata TT",
-			["frameStrata"] = 9,
-			["width"] = 6.9999866485596,
-			["text2"] = "%p",
-			["displayIcon"] = 841384,
-			["inverse"] = false,
-			["zoom"] = 0,
-			["shadowColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				1, -- [4]
-			},
-			["conditions"] = {
-			},
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["config"] = {
-			},
-		},
-		["Shaded Sharpening Stone [OH]"] = {
-			["iconSource"] = -1,
-			["xOffset"] = 0,
-			["preferToUpdate"] = false,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/OilsAndStones/8",
-			["icon"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
-						["debuffType"] = "HELPFUL",
-						["event"] = "Health",
-						["unit"] = "player",
-						["events"] = "UNIT_INVENTORY_CHANGED:player PLAYER_EQUIPMENT_CHANGED BAG_UPDATE PLAYER_REGEN_ENABLED SL_SHADEDSHARP_OH_ENCH",
-						["custom"] = "function(states, event, ...)\n    if event == \"OPTIONS\" then\n        states[\"\"] = {\n            icon = GetItemIcon(aura_env.itemID),\n            index = 6,\n            count = 10,\n            autoHide = true,\n            changed = true,\n            show = true,\n        } \n        return true\n    end\n    \n    if (event == \"BAG_UPDATE\" or event == \"PLAYER_REGEN_ENABLED\")\n    and not InCombatLockdown()\n    then\n        local count = GetItemCount(aura_env.itemID)\n        if count and count > 0 then\n            aura_env.buttonstuff(true)\n        else\n            aura_env.buttonstuff(false)\n        end\n        local state = states[\"\"]\n        if state then\n            state.count = count or 0\n            state.changed = true\n        end\n        return true\n    elseif event == \"UNIT_INVENTORY_CHANGED\" or event == \"PLAYER_EQUIPMENT_CHANGED\" and not InCombatLockdown() then\n        C_Timer.After(0.5, function()\n                WeakAuras.ScanEvents(\"SL_SHADEDSHARP_OH_ENCH\", true)\n            end\n        )\n    elseif event == \"SL_SHADEDSHARP_OH_ENCH\" and ... then\n        for k, v in pairs(states) do\n            v.show = false\n            v.changed = true\n        end\n        \n        local item = Item:CreateFromEquipmentSlot(17)\n        if not item:IsItemEmpty() then\n            local location = item:GetItemLocation()\n            local itemLink = C_Item.GetItemLink(location)\n            if itemLink then\n                local _, _, _, _, _, _, _, _, itemType, _, _, _, itemSubType = GetItemInfo(itemLink)\n                local isWeapon = itemType and (\n                    itemType == \"INVTYPE_WEAPON\"\n                    or itemType == \"INVTYPE_WEAPONOFFHAND\"\n                    or itemType == \"INVTYPE_2HWEAPON\"\n                )\n                local isSharp = itemSubType == LE_ITEM_WEAPON_AXE1H\n                or itemSubType == LE_ITEM_WEAPON_AXE2H\n                or itemSubType == LE_ITEM_WEAPON_POLEARM\n                or itemSubType == LE_ITEM_WEAPON_SWORD1H\n                or itemSubType == LE_ITEM_WEAPON_SWORD2H\n                or itemSubType == LE_ITEM_WEAPON_WARGLAIVE\n                or itemSubType == LE_ITEM_WEAPON_DAGGER\n                \n                if isWeapon and isSharp then\n                    local exists, duration, charges, enchantID = select(5, GetWeaponEnchantInfo())\n                    if (exists and \n                        (duration and duration/1000 < aura_env.config.timeLeft)\n                        or aura_env.config.always\n                    )\n                    or not exists\n                    then\n                        local count = GetItemCount(aura_env.itemID)\n                        states[\"\"] = {\n                            icon = GetItemIcon(aura_env.itemID),\n                            index = 6,\n                            count = count or 0,\n                            autoHide = true,\n                            changed = true,\n                            show = true,\n                        } \n                        return true\n                    end\n                end\n            end\n        end\n        return true\n    end\nend",
-						["spellIds"] = {
-						},
-						["names"] = {
-						},
-						["check"] = "event",
-						["subeventPrefix"] = "SPELL",
-						["custom_type"] = "stateupdate",
-						["customVariables"] = "{\n    expirationTime = true,\n    missing = \"bool\",\n    count = \"number\",\n}",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["activeTriggerMode"] = -10,
-			},
-			["internalVersion"] = 40,
-			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
-			["desaturate"] = false,
-			["version"] = 8,
-			["subRegions"] = {
-				{
-					["text_text_format_p_time_precision"] = 1,
-					["text_text_format_s_format"] = "none",
-					["text_text"] = "%count",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "CENTER",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Fira Mono",
-					["text_shadowXOffset"] = 0,
-					["text_shadowYOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "CENTER",
-					["text_text_format_p_format"] = "timed",
-					["text_text_format_count_format"] = "none",
-					["text_fontSize"] = 18,
-					["anchorXOffset"] = 0,
-					["text_text_format_p_time_dynamic"] = false,
-				}, -- [1]
-				{
-					["glowFrequency"] = 0.25,
-					["type"] = "subglow",
-					["useGlowColor"] = false,
-					["glowType"] = "buttonOverlay",
-					["glowLength"] = 10,
-					["glowYOffset"] = 0,
-					["glowColor"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["glowXOffset"] = 0,
-					["glowScale"] = 1,
-					["glowThickness"] = 1,
-					["glow"] = false,
-					["glowLines"] = 8,
-					["glowBorder"] = false,
-				}, -- [2]
-			},
-			["height"] = 35,
-			["load"] = {
-				["use_never"] = false,
-				["use_encounter"] = false,
-				["use_combat"] = false,
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["config"] = {
-				["timeLeft"] = 300,
-				["always"] = false,
-			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorOptions"] = {
-				{
-					["softMin"] = 60,
-					["type"] = "range",
-					["bigStep"] = 1,
-					["max"] = 1200,
-					["step"] = 1,
-					["width"] = 2,
-					["min"] = 60,
-					["key"] = "timeLeft",
-					["softMax"] = 1200,
-					["default"] = 300,
-					["name"] = "Time left on enchant to show (seconds)",
-					["useDesc"] = false,
-				}, -- [1]
-				{
-					["type"] = "toggle",
-					["key"] = "always",
-					["default"] = false,
-					["name"] = "Always show (outside a combat)",
-					["useDesc"] = false,
-					["width"] = 1,
-				}, -- [2]
-			},
-			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
-			["information"] = {
-				["ignoreOptionsEventErrors"] = true,
-			},
-			["conditions"] = {
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["op"] = "<=",
-						["value"] = "3",
-						["variable"] = "count",
-					},
-					["changes"] = {
-						{
-							["value"] = {
-								1, -- [1]
-								0.49803921568627, -- [2]
-								0, -- [3]
-								1, -- [4]
-							},
-							["property"] = "sub.1.text_color",
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["op"] = "==",
-						["value"] = "0",
-						["variable"] = "count",
-					},
-					["changes"] = {
-						{
-							["value"] = {
-								1, -- [1]
-								0, -- [2]
-								0, -- [3]
-								1, -- [4]
-							},
-							["property"] = "sub.1.text_color",
-						}, -- [1]
-						{
-							["value"] = true,
-							["property"] = "desaturate",
-						}, -- [2]
-						{
-							["value"] = 0.3,
-							["property"] = "alpha",
-						}, -- [3]
-					},
-				}, -- [2]
-			},
-			["parent"] = "Weapon temp enchants",
-			["semver"] = "1.0.7",
-			["width"] = 35,
-			["zoom"] = 0,
-			["auto"] = true,
-			["tocversion"] = 90002,
-			["id"] = "Shaded Sharpening Stone [OH]",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["cooldownTextDisabled"] = false,
-			["uid"] = "CdH4fcGDb0D",
-			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "3528422",
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.itemID = 171437\n\nlocal r = aura_env.region\naura_env.buttonstuff = function(set)\n    if not InCombatLockdown() then\n        if not r._button then\n            r._button = CreateFrame(\"Button\", \"DONTDOTHIS5\", aura_env.region, \"SecureActionButtonTemplate\")\n            r._button:SetAllPoints()\n            r._button:RegisterForClicks(\"AnyUp\")\n            \n            r._button:SetAttribute(\"shift-type*\", \"macro\")\n            local text = \"/click TempEnchant1\\n/click ElvUIPlayerBuffsTempEnchant1\"\n            r._button:SetAttribute(\"macrotext\", text)\n            \n            r._button:SetAttribute(\"type*\", \"item\")\n            r._button:SetAttribute(\"item\", \"item:\"..aura_env.itemID)\n            r._button:SetAttribute(\"target-slot\", INVSLOT_OFFHAND)\n            r._button:Show()\n        elseif set and not r._button:IsShown() then\n            r._button:SetAttribute(\"shift-type*\", \"macro\")\n            local text = \"/click TempEnchant2\\n/click ElvUIPlayerBuffsTempEnchant2\"\n            r._button:SetAttribute(\"macrotext\", text)\n            \n            r._button:SetAttribute(\"type*\", \"item\")\n            r._button:SetAttribute(\"item\", \"item:\"..aura_env.itemID)\n            r._button:SetAttribute(\"target-slot\", INVSLOT_OFFHAND)\n            \n            r._button:Show()\n        elseif not set and r._button:IsShown() then\n            r._button:SetAttribute(\"shift-type*\", nil)\n            r._button:SetAttribute(\"macrotext\", nil)\n            r._button:SetAttribute(\"type*\", nil)\n            r._button:SetAttribute(\"item\", nil)\n            r._button:SetAttribute(\"target-slot\", nil)\n            r._button:Hide()\n        end\n    end\nend\n\naura_env.buttonstuff(true)",
-					["do_custom"] = true,
-				},
-			},
-		},
-		["08 Hateful Gaze - Pink"] = {
-			["text2Point"] = "CENTER",
-			["text1FontSize"] = 12,
-			["authorOptions"] = {
-			},
-			["displayText"] = " ",
-			["yOffset"] = -36.000030517578,
-			["anchorPoint"] = "CENTER",
-			["url"] = "https://wago.io/NathriaGlows/24",
-			["icon"] = true,
-			["text1Enabled"] = true,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["text1Point"] = "CENTER",
-			["text2FontFlags"] = "OUTLINE",
-			["load"] = {
-				["talent2"] = {
-					["multi"] = {
-					},
-				},
-				["use_never"] = false,
-				["talent"] = {
-					["multi"] = {
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["use_encounterid"] = true,
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["encounterid"] = "2399",
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-						["twenty"] = true,
-						["flexible"] = true,
-					},
-				},
-			},
-			["shadowXOffset"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "text",
-			["text2FontSize"] = 24,
-			["cooldownTextDisabled"] = false,
-			["auto"] = false,
-			["tocversion"] = 90002,
-			["text2Enabled"] = false,
-			["uid"] = "DHWe74mdyAI",
-			["fixedWidth"] = 200,
-			["outline"] = "OUTLINE",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["customText"] = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-			["shadowYOffset"] = -1,
-			["customTextUpdate"] = "event",
-			["automaticWidth"] = "Auto",
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["useMatch_count"] = true,
-						["useGroup_count"] = false,
-						["groupclone"] = true,
-						["duration"] = "1",
-						["name_info"] = "aura",
-						["names"] = {
-							"Putrid Paroxysm", -- [1]
-							"Absorbed in Darkness", -- [2]
-							"Gestate", -- [3]
-							"Roiling Deceit", -- [4]
-							"Imminent Ruin", -- [5]
-							"Unleashed Shadow", -- [6]
-							"Deathwish", -- [7]
-							"Torment", -- [8]
-						},
-						["use_tooltip"] = false,
-						["use_specific_unit"] = false,
-						["subeventSuffix"] = "_CAST_START",
-						["match_count"] = "1",
-						["debuffType"] = "HARMFUL",
-						["match_countOperator"] = ">=",
-						["custom_hide"] = "timed",
-						["showClones"] = true,
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["auraspellids"] = {
-							"331209", -- [1]
-						},
-						["auranames"] = {
-						},
-						["unit"] = "group",
-						["event"] = "Health",
-						["unevent"] = "timed",
-						["buffShowOn"] = "showOnActive",
-						["useExactSpellId"] = true,
-						["spellIds"] = {
-							262314, -- [1]
-							274387, -- [2]
-							265212, -- [3]
-							265360, -- [4]
-							272536, -- [5]
-							276672, -- [6]
-							274271, -- [7]
-							267427, -- [8]
-						},
-						["matchesShowOn"] = "showOnActive",
-						["check"] = "update",
-						["combineMatches"] = "showLowest",
-						["custom_type"] = "stateupdate",
-						["subeventPrefix"] = "SPELL",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["disjunctive"] = "any",
-				["customTriggerLogic"] = "",
-				["activeTriggerMode"] = 1,
-			},
-			["internalVersion"] = 40,
-			["animation"] = {
-				["start"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["easeStrength"] = 3,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
-			["stickyDuration"] = false,
-			["version"] = 24,
-			["height"] = 11.99995803833,
-			["fontSize"] = 12,
-			["text2Containment"] = "INSIDE",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["preferToUpdate"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["glow"] = false,
-			["parent"] = "Castle Nathria Glows",
-			["xOffset"] = -542.00009155273,
-			["actions"] = {
-				["start"] = {
-					["glow_color"] = {
-						1, -- [1]
-						0, -- [2]
-						0.8156862745098, -- [3]
-						1, -- [4]
-					},
-					["glow_action"] = "show",
-					["glow_scale"] = 2,
-					["do_glow"] = true,
-					["glow_lines"] = 10,
-					["custom"] = "",
-					["glow_frequency"] = 0.2,
-					["use_glow_color"] = true,
-					["glow_type"] = "ACShine",
-					["do_custom"] = false,
-					["glow_frame_type"] = "UNITFRAME",
-				},
-				["finish"] = {
-					["glow_frame_type"] = "UNITFRAME",
-					["hide_all_glows"] = true,
-					["custom"] = "",
-					["glow_action"] = "hide",
-					["do_custom"] = false,
-					["do_glow"] = true,
-				},
-				["init"] = {
-					["custom"] = "",
-					["do_custom"] = false,
-				},
-			},
-			["text2Font"] = "Friz Quadrata TT",
-			["wordWrap"] = "WordWrap",
-			["text1"] = "%n",
-			["desaturate"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["justify"] = "LEFT",
-			["semver"] = "1.0.23",
-			["text1Font"] = "Friz Quadrata TT",
-			["id"] = "08 Hateful Gaze - Pink",
 			["font"] = "Friz Quadrata TT",
 			["frameStrata"] = 9,
 			["width"] = 6.9999866485596,
@@ -19680,23 +19954,18 @@ WeakAurasSaved = {
 		},
 		["ZT - Interrupt Tracker Bar"] = {
 			["sparkWidth"] = 10,
-			["sparkOffsetX"] = 0,
+			["borderBackdrop"] = "None",
 			["parent"] = "ZT - Interrupt Tracker",
 			["preferToUpdate"] = false,
 			["customText"] = "",
 			["yOffset"] = -2.083320617675781,
 			["anchorPoint"] = "CENTER",
-			["desaturate"] = false,
+			["sparkOffsetX"] = 0,
 			["iconSource"] = -1,
 			["sparkRotation"] = 0,
 			["sparkRotationMode"] = "AUTO",
 			["url"] = "https://wago.io/InterruptTracker/29",
-			["backgroundColor"] = {
-				0.062745098039216, -- [1]
-				0.062745098039216, -- [2]
-				0.062745098039216, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -20418,7 +20687,7 @@ WeakAurasSaved = {
 			},
 			["selfPoint"] = "CENTER",
 			["backdropInFront"] = false,
-			["borderBackdrop"] = "None",
+			["semver"] = "1.0.11",
 			["barColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -20426,18 +20695,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["stickyDuration"] = false,
-			["actions"] = {
-				["start"] = {
-					["custom"] = "",
-					["do_custom"] = false,
-				},
-				["init"] = {
-					["custom"] = "local config = aura_env.config\nlocal cDisplay = config[\"display\"]\nlocal cSort = config[\"sorting\"]\nlocal cRegType = config[\"reg\"][\"type\"]\nlocal cRegSpell = config[\"reg\"][\"spell\"]\n\n-- Handling the spell registration configuration\nlocal sharedConfigSpellIDs = {\n    [\"ArcaneTorrent\"] = {202719, 50613, 80483, 28730, 129597, 155145, 232633, 25046, 69179},\n    [\"Asphyxiate\"] = {221562, 108194},\n    [\"Evasion/Riposte\"] = {5277, 199754},\n    [\"Ascendance\"] = {114050, 114051},\n    [\"Bladestorm\"] = {227847, 46924},\n}\n\naura_env.types = {}\naura_env.regTypes = {}\naura_env.spells = {}\naura_env.regSpells = {}\naura_env.typeToWatching = {}\n\nfor key,value in pairs(cRegType) do\n    if value and key:find(\"enabled\") == 1 then\n        local type = key:sub(8)\n        aura_env.types[type] = true\n    end\nend\n\nfor type,group in pairs(cRegSpell) do\n    for key,value in pairs(group) do\n        if value then\n            local spellID = tonumber(key)\n            if spellID then\n                aura_env.spells[spellID] = true\n            else\n                for _,spellID in ipairs(sharedConfigSpellIDs[key]) do\n                    aura_env.spells[spellID] = true\n                end\n            end\n        end\n    end\nend\n\nfor type,_ in pairs(aura_env.types) do tinsert(aura_env.regTypes, type) end\nfor spellID,_ in pairs(aura_env.spells) do tinsert(aura_env.regSpells, spellID) end\n\n-- Modified from https://eu.battle.net/forums/en/wow/topic/9337744534\naura_env.fixName = function(name)\n    local length = cDisplay[\"nameLength\"]\n    if length <= 0 then\n        return \"\"\n    end\n    \n    local nameChars = {}\n    name:gsub(\"([^\\128-\\191][\\128-\\191]*)\", function(char) \n            local leadbyte = strbyte(char, 1)\n            local charLength = -1\n            \n            if leadbyte < 248 then\n                if leadbyte >= 240 then charLength = 4\n                elseif leadbyte >= 224 then charLength = 3\n                elseif leadbyte >= 192 then charLength = 2\n                elseif leadbyte < 128 then charLength = 1\n                end\n            end\n            \n            if length > #nameChars then\n                tinsert(nameChars, (charLength == #char) and char)\n            end\n    end)\n    \n    return table.concat(nameChars, \"\")\nend\n\nlocal prioritizedSpellIDs = {\n    [183752] = true, -- Disrupt\n}\n\nlocal sortVars = {}\nlocal sortVarsIndex = {}\nfor v = 1,5 do\n    local var = cSort[\"sortVar\"..v]\n    if var and var ~= 1 then\n        if not sortVarsIndex[var] then\n            local index = #sortVars + 1\n            sortVars[index] = var\n            sortVarsIndex[var] = index\n        end\n    end\nend\n\nlocal isAvail = (cSort[\"sortOrder\"] == 1) and 0 or 1\nlocal isUnavail = (cSort[\"sortOrder\"] == 1) and 1 or 0\n\naura_env.initSortIndex = function(state)\n    state.sortValues = {}\n    \n    for index,var in ipairs(sortVars) do\n        if var == 2 then     -- Type Priority\n            local priority = cRegType[\"priority\"..state.type]\n            if cSort[\"sortOrder\"] == 2 then\n                priority = 99 - priority\n            end\n            state.sortValues[index] = (\"%02d\"):format(priority)\n        elseif var == 3 then -- Spell ID\n            state.sortValues[index] = (\"%06d\"):format(aura_env.spellPriorityMap[state.spellId] or state.spellId)\n        elseif var == 4 then -- Member Class\n            state.sortValues[index] = (\"%02d\"):format(state.member.classID)\n        elseif var == 5 then -- Member Name\n            state.sortValues[index] = (\"%-12s\"):format(state.member.name)\n        elseif var == 6 then -- Availability\n            local availValue = isAvail\n            local timeValue = math.max(state.expirationTime - GetTime(),0)\n            if cSort[\"sortOrder\"] == 2 then\n                timeValue = 9999999999.999 - timeValue\n            end\n            \n            state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        end\n    end\n    \n    state.index = table.concat(state.sortValues)\nend\n\naura_env.updateSortIndex = function(state,shouldReIndex)\n    local index = sortVarsIndex[6]\n    if index then\n        \n        if state.isDead then\n            state.index = \"9999999999.9999999\"\n            return true\n        end\n        \n        if state.outOfRange then\n            state.index = \"9999999999.0000000\"\n            return true\n        end        \n        \n        local prevSortValue = state.sortValues[index]\n        \n        local availValue\n        local timeValue\n        \n        if state.stacks then\n            if state.stacks > 0 then\n                availValue = isAvail\n                timeValue = math.max(state.expirationTime - GetTime(),0)\n            else\n                availValue = isUnavail\n                timeValue = state.expirationTime\n            end\n        elseif state.expirationTime > GetTime() then\n            availValue = isUnavail\n            timeValue = state.expirationTime\n        else\n            availValue = isAvail\n            timeValue = 0\n        end\n        \n        if cSort[\"sortOrder\"] == 2 then\n            timeValue = 9999999999.999 - timeValue\n        end\n        state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        \n        if state.sortValues[index] ~= prevSortValue or shouldReIndex then\n            state.index = table.concat(state.sortValues)\n            return true\n        end\n    end\n    \n    return false\nend\n\nif WeakAuras.IsAuraLoaded then\n    -- Since there is no unload event, hooking into region:Collapse() which\n    -- is called from WeakAuras.UnloadDisplays(...)\n    if not aura_env.region.ZTHooked then\n        aura_env.region.ZTHooked = true\n        hooksecurefunc(aura_env.region, \"Collapse\", function(self, ...)\n                if self.ZTRegTypes and (not WeakAuras.IsAuraLoaded(self.id)) then\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegTypes, self.id)\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegSpells, self.id)\n                    self.ZTRegTypes = nil\n                    self.ZTRegSpells = nil\n                end\n        end)\n    end\nend\n\naura_env.silenceMap = { --interupt:cast\n    [220543] = 15487,  --silence\n    [97547]  = 78675,  --solar beam\n    [93985]  = 106839, --skullbash  \n    [347008] = 89766,  --axe toss Check Zen\n    [132409] = 19647,  --Spell Lock (Sacrifice)\n}\naura_env.spellPriorityMap = {\n    [23920]  = 1,  --Spell Reflect\n    [31935]  = 1,  --Avenger's Shield\n    [183752] = 2,  --Disrupt\n    [47528]  = 3,  --Mind Freeze\n    [57994]  = 4,  --Wind Shear    \n    \n    [1766]   = 5,  --Kick\n    [6552]   = 6,  --Pummel\n    [116705] = 7,  --Spear Hand Strike\n    [106839] = 8,  --Skull Bash\n    [96231]  = 9,  --Rebuke\n    [187707] = 10, --Muzzle\n    \n    [202137] = 11, --Sigil of Silence\n    \n    [2139]   = 12, --Counter Spell\n    [147362] = 13, --Counter Shot\n    [119910] = 14, --Spell Lock Command Demon\n    [19647]  = 15, --Spell Lock if used from pet bar\n    [132409] = 16, --Spell Lock Command Demon Sacrifice\n    [89766]  = 17, --Axe Toss\n    --TODO: DK Leap\n    [15487]  = 18, --Silence\n    [78675]  = 20, --Solar Beam\n}\naura_env.petSpells = {\n    [119910] = true, --Spell Lock Command Demon\n    [19647]  = true, --Spell Lock if used from pet bar\n    [132409] = true, --Spell Lock Command Demon Sacrifice\n    --TODO: DK Leap\n}\n\n\n",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["customTextUpdate"] = "event",
 			["version"] = 29,
 			["subRegions"] = {
@@ -20528,7 +20786,12 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["height"] = 24,
-			["icon"] = true,
+			["backgroundColor"] = {
+				0.062745098039216, -- [1]
+				0.062745098039216, -- [2]
+				0.062745098039216, -- [3]
+				1, -- [4]
+			},
 			["load"] = {
 				["use_size"] = false,
 				["use_never"] = false,
@@ -20612,12 +20875,19 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["xOffset"] = 0,
-			["semver"] = "1.0.11",
-			["sparkOffsetY"] = 0,
-			["useAdjustededMin"] = false,
-			["regionType"] = "aurabar",
-			["borderInFront"] = true,
+			["actions"] = {
+				["start"] = {
+					["custom"] = "",
+					["do_custom"] = false,
+				},
+				["init"] = {
+					["custom"] = "local config = aura_env.config\nlocal cDisplay = config[\"display\"]\nlocal cSort = config[\"sorting\"]\nlocal cRegType = config[\"reg\"][\"type\"]\nlocal cRegSpell = config[\"reg\"][\"spell\"]\n\n-- Handling the spell registration configuration\nlocal sharedConfigSpellIDs = {\n    [\"ArcaneTorrent\"] = {202719, 50613, 80483, 28730, 129597, 155145, 232633, 25046, 69179},\n    [\"Asphyxiate\"] = {221562, 108194},\n    [\"Evasion/Riposte\"] = {5277, 199754},\n    [\"Ascendance\"] = {114050, 114051},\n    [\"Bladestorm\"] = {227847, 46924},\n}\n\naura_env.types = {}\naura_env.regTypes = {}\naura_env.spells = {}\naura_env.regSpells = {}\naura_env.typeToWatching = {}\n\nfor key,value in pairs(cRegType) do\n    if value and key:find(\"enabled\") == 1 then\n        local type = key:sub(8)\n        aura_env.types[type] = true\n    end\nend\n\nfor type,group in pairs(cRegSpell) do\n    for key,value in pairs(group) do\n        if value then\n            local spellID = tonumber(key)\n            if spellID then\n                aura_env.spells[spellID] = true\n            else\n                for _,spellID in ipairs(sharedConfigSpellIDs[key]) do\n                    aura_env.spells[spellID] = true\n                end\n            end\n        end\n    end\nend\n\nfor type,_ in pairs(aura_env.types) do tinsert(aura_env.regTypes, type) end\nfor spellID,_ in pairs(aura_env.spells) do tinsert(aura_env.regSpells, spellID) end\n\n-- Modified from https://eu.battle.net/forums/en/wow/topic/9337744534\naura_env.fixName = function(name)\n    local length = cDisplay[\"nameLength\"]\n    if length <= 0 then\n        return \"\"\n    end\n    \n    local nameChars = {}\n    name:gsub(\"([^\\128-\\191][\\128-\\191]*)\", function(char) \n            local leadbyte = strbyte(char, 1)\n            local charLength = -1\n            \n            if leadbyte < 248 then\n                if leadbyte >= 240 then charLength = 4\n                elseif leadbyte >= 224 then charLength = 3\n                elseif leadbyte >= 192 then charLength = 2\n                elseif leadbyte < 128 then charLength = 1\n                end\n            end\n            \n            if length > #nameChars then\n                tinsert(nameChars, (charLength == #char) and char)\n            end\n    end)\n    \n    return table.concat(nameChars, \"\")\nend\n\nlocal prioritizedSpellIDs = {\n    [183752] = true, -- Disrupt\n}\n\nlocal sortVars = {}\nlocal sortVarsIndex = {}\nfor v = 1,5 do\n    local var = cSort[\"sortVar\"..v]\n    if var and var ~= 1 then\n        if not sortVarsIndex[var] then\n            local index = #sortVars + 1\n            sortVars[index] = var\n            sortVarsIndex[var] = index\n        end\n    end\nend\n\nlocal isAvail = (cSort[\"sortOrder\"] == 1) and 0 or 1\nlocal isUnavail = (cSort[\"sortOrder\"] == 1) and 1 or 0\n\naura_env.initSortIndex = function(state)\n    state.sortValues = {}\n    \n    for index,var in ipairs(sortVars) do\n        if var == 2 then     -- Type Priority\n            local priority = cRegType[\"priority\"..state.type]\n            if cSort[\"sortOrder\"] == 2 then\n                priority = 99 - priority\n            end\n            state.sortValues[index] = (\"%02d\"):format(priority)\n        elseif var == 3 then -- Spell ID\n            state.sortValues[index] = (\"%06d\"):format(aura_env.spellPriorityMap[state.spellId] or state.spellId)\n        elseif var == 4 then -- Member Class\n            state.sortValues[index] = (\"%02d\"):format(state.member.classID)\n        elseif var == 5 then -- Member Name\n            state.sortValues[index] = (\"%-12s\"):format(state.member.name)\n        elseif var == 6 then -- Availability\n            local availValue = isAvail\n            local timeValue = math.max(state.expirationTime - GetTime(),0)\n            if cSort[\"sortOrder\"] == 2 then\n                timeValue = 9999999999.999 - timeValue\n            end\n            \n            state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        end\n    end\n    \n    state.index = table.concat(state.sortValues)\nend\n\naura_env.updateSortIndex = function(state,shouldReIndex)\n    local index = sortVarsIndex[6]\n    if index then\n        \n        if state.isDead then\n            state.index = \"9999999999.9999999\"\n            return true\n        end\n        \n        if state.outOfRange then\n            state.index = \"9999999999.0000000\"\n            return true\n        end        \n        \n        local prevSortValue = state.sortValues[index]\n        \n        local availValue\n        local timeValue\n        \n        if state.stacks then\n            if state.stacks > 0 then\n                availValue = isAvail\n                timeValue = math.max(state.expirationTime - GetTime(),0)\n            else\n                availValue = isUnavail\n                timeValue = state.expirationTime\n            end\n        elseif state.expirationTime > GetTime() then\n            availValue = isUnavail\n            timeValue = state.expirationTime\n        else\n            availValue = isAvail\n            timeValue = 0\n        end\n        \n        if cSort[\"sortOrder\"] == 2 then\n            timeValue = 9999999999.999 - timeValue\n        end\n        state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        \n        if state.sortValues[index] ~= prevSortValue or shouldReIndex then\n            state.index = table.concat(state.sortValues)\n            return true\n        end\n    end\n    \n    return false\nend\n\nif WeakAuras.IsAuraLoaded then\n    -- Since there is no unload event, hooking into region:Collapse() which\n    -- is called from WeakAuras.UnloadDisplays(...)\n    if not aura_env.region.ZTHooked then\n        aura_env.region.ZTHooked = true\n        hooksecurefunc(aura_env.region, \"Collapse\", function(self, ...)\n                if self.ZTRegTypes and (not WeakAuras.IsAuraLoaded(self.id)) then\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegTypes, self.id)\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegSpells, self.id)\n                    self.ZTRegTypes = nil\n                    self.ZTRegSpells = nil\n                end\n        end)\n    end\nend\n\naura_env.silenceMap = { --interupt:cast\n    [220543] = 15487,  --silence\n    [97547]  = 78675,  --solar beam\n    [93985]  = 106839, --skullbash  \n    [347008] = 89766,  --axe toss Check Zen\n    [132409] = 19647,  --Spell Lock (Sacrifice)\n}\naura_env.spellPriorityMap = {\n    [23920]  = 1,  --Spell Reflect\n    [31935]  = 1,  --Avenger's Shield\n    [183752] = 2,  --Disrupt\n    [47528]  = 3,  --Mind Freeze\n    [57994]  = 4,  --Wind Shear    \n    \n    [1766]   = 5,  --Kick\n    [6552]   = 6,  --Pummel\n    [116705] = 7,  --Spear Hand Strike\n    [106839] = 8,  --Skull Bash\n    [96231]  = 9,  --Rebuke\n    [187707] = 10, --Muzzle\n    \n    [202137] = 11, --Sigil of Silence\n    \n    [2139]   = 12, --Counter Spell\n    [147362] = 13, --Counter Shot\n    [119910] = 14, --Spell Lock Command Demon\n    [19647]  = 15, --Spell Lock if used from pet bar\n    [132409] = 16, --Spell Lock Command Demon Sacrifice\n    [89766]  = 17, --Axe Toss\n    --TODO: DK Leap\n    [15487]  = 18, --Silence\n    [78675]  = 20, --Solar Beam\n}\naura_env.petSpells = {\n    [119910] = true, --Spell Lock Command Demon\n    [19647]  = true, --Spell Lock if used from pet bar\n    [132409] = true, --Spell Lock Command Demon Sacrifice\n    --TODO: DK Leap\n}\n\n\n",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
+			["desaturate"] = false,
 			["config"] = {
 				["reg"] = {
 					["type"] = {
@@ -20688,25 +20958,29 @@ WeakAurasSaved = {
 					["showMissed"] = true,
 				},
 			},
+			["useAdjustededMin"] = false,
+			["regionType"] = "aurabar",
+			["borderInFront"] = true,
+			["sparkOffsetY"] = 0,
 			["icon_side"] = "LEFT",
+			["uid"] = "8wu)nqGXJwU",
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
 			},
-			["uid"] = "8wu)nqGXJwU",
 			["sparkHeight"] = 30,
 			["texture"] = "Blizzard Raid Bar",
-			["width"] = 200.0001373291016,
+			["id"] = "ZT - Interrupt Tracker Bar",
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["auto"] = true,
 			["tocversion"] = 90001,
-			["id"] = "ZT - Interrupt Tracker Bar",
-			["frameStrata"] = 1,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
 			["sparkHidden"] = "NEVER",
+			["width"] = 200.0001373291016,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -21944,29 +22218,8 @@ WeakAurasSaved = {
 			},
 			["fontSize"] = 12,
 			["anchorPerUnit"] = "UNITFRAME",
-			["gridType"] = "RD",
-			["outline"] = "OUTLINE",
-			["borderInset"] = 1,
-			["border"] = false,
-			["borderEdge"] = "1 Pixel",
-			["radius"] = 200,
-			["borderSize"] = 2,
-			["sort"] = "none",
 			["background"] = "None",
-			["limit"] = 3,
-			["authorOptions"] = {
-			},
-			["displayText"] = "%p",
-			["frameStrata"] = 6,
-			["justify"] = "LEFT",
-			["semver"] = "3.0.5",
-			["selfPoint"] = "TOP",
-			["id"] = "Dungeon - Targeted Spells",
-			["space"] = 1,
-			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
-			["uid"] = "zSrl30KxJ6i",
-			["customTextUpdate"] = "update",
+			["rotation"] = 0,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -21987,13 +22240,34 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["border"] = false,
+			["borderEdge"] = "1 Pixel",
+			["borderInset"] = 1,
+			["borderSize"] = 2,
+			["sort"] = "none",
 			["yOffset"] = 0,
+			["limit"] = 3,
+			["customTextUpdate"] = "update",
+			["displayText"] = "%p",
+			["frameStrata"] = 6,
+			["justify"] = "LEFT",
+			["semver"] = "3.0.5",
+			["selfPoint"] = "TOP",
+			["id"] = "Dungeon - Targeted Spells",
+			["space"] = 1,
+			["gridWidth"] = 5,
+			["anchorFrameType"] = "SCREEN",
+			["radius"] = 200,
+			["outline"] = "OUTLINE",
+			["uid"] = "zSrl30KxJ6i",
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["rotation"] = 0,
+			["gridType"] = "RD",
 		},
 		["Tosh ZT Party Offensives Icons"] = {
 			["sparkWidth"] = 10,
@@ -25447,7 +25721,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["rotation"] = 0,
+			["xOffset"] = -407.44482421875,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -25456,7 +25730,7 @@ WeakAurasSaved = {
 			},
 			["useLimit"] = false,
 			["animate"] = false,
-			["xOffset"] = -407.44482421875,
+			["grow"] = "DOWN",
 			["scale"] = 1,
 			["gridType"] = "RD",
 			["border"] = false,
@@ -25464,13 +25738,13 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["internalVersion"] = 40,
 			["borderColor"] = {
 				0, -- [1]
 				0, -- [2]
 				0, -- [3]
 				1, -- [4]
 			},
+			["rotation"] = 0,
 			["constantFactor"] = "RADIUS",
 			["rowSpace"] = 1,
 			["borderOffset"] = 4,
@@ -25482,12 +25756,6 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["limit"] = 5,
 			["borderInset"] = 1,
-			["uid"] = "nroCpIYbZQu",
-			["grow"] = "DOWN",
-			["conditions"] = {
-			},
-			["information"] = {
-			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -25508,6 +25776,12 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["uid"] = "nroCpIYbZQu",
+			["conditions"] = {
+			},
+			["information"] = {
+			},
+			["internalVersion"] = 40,
 		},
 		["02 Vicious Wound - Red"] = {
 			["text2Point"] = "CENTER",
@@ -25844,7 +26118,7 @@ WeakAurasSaved = {
 						["use_npcId"] = true,
 						["subeventPrefix"] = "SPELL",
 						["events"] = "WA_NAMEPLATE_CLOSED,NAME_PLATE_UNIT_ADDED,NAME_PLATE_UNIT_REMOVED,NAME_PLATE_AURA_NAMES,FRAME_UPDATE",
-						["custom"] = "function(allstates, event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) and UnitCanAttack(\"player\", unit) then\n                C_Timer.After(0.1, function() WeakAuras.ScanEvents(\"NAME_PLATE_AURA_NAMES\", unit) end)\n            end\n        end\n    end\n    \n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit and UnitCanAttack(\"player\", unit)\n    or event == \"NAME_PLATE_AURA_NAMES\" and unit then\n        local npcID = select(6,strsplit(\"-\",UnitGUID(unit)))\n        if UnitGUID(unit) and npcID == \"174773\" then\n            aura_env.stored[UnitGUID(unit)] = unit\n            local target = unit..\"-target\"\n            if UnitExists(target) and UnitIsUnit(\"player\", target) then\n                allstates[UnitGUID(unit)] = {\n                    GUID = UnitGUID(unit),\n                    unit = unit,\n                    changed = true,\n                    show = true,\n                }\n                print(allstates[UnitGUID(unit)].GUID)\n                return true \n            end\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        if allstates[UnitGUID(unit)] then\n            allstates[UnitGUID(unit)].show = false\n            allstates[UnitGUID(unit)].changed = true\n        end\n        if aura_env.stored[UnitGUID(unit)] then\n            aura_env.stored[UnitGUID(unit)] = nil\n        end\n    end\n    if event == \"FRAME_UPDATE\" then\n        if not aura_env.last or aura_env.last < GetTime() then\n            for GUID, unit in pairs(aura_env.stored) do\n                if GUID then\n                    local target = unit..\"-target\"\n                    if UnitExists(target) and UnitIsUnit(\"player\", target) then\n                        if allstates[GUID] then\n                            allstates[GUID].changed = true\n                        else\n                            allstates[GUID] = {\n                                GUID = GUID,\n                                unit = unit,\n                                progressType = \"timed\",\n                                duration = 12.5,\n                                expirationTime = GetTime() + 12.5,\n                                autoHide = true,\n                                changed = true,\n                                show = true,\n                            }\n                        end\n                    elseif allstates[GUID] then\n                        allstates[GUID].show = false\n                        allstates[GUID].changed = true\n                    end\n                end\n            end\n        end\n    end\n    return true\nend",
+						["custom"] = "function(allstates, event, unit, ...)\n    if event == \"WA_NAMEPLATE_CLOSED\" then\n        for i = 1, 40 do\n            local unit = \"nameplate\" .. i\n            if UnitExists(unit) and UnitCanAttack(\"player\", unit) then\n                C_Timer.After(0.1, function() WeakAuras.ScanEvents(\"NAME_PLATE_AURA_NAMES\", unit) end)\n            end\n        end\n    end\n    \n    if event == \"NAME_PLATE_UNIT_ADDED\" and unit and UnitCanAttack(\"player\", unit)\n    or event == \"NAME_PLATE_AURA_NAMES\" and unit then\n        local npcID = select(6,strsplit(\"-\",UnitGUID(unit)))\n        if UnitGUID(unit) and npcID == \"174773\" then\n            aura_env.stored[UnitGUID(unit)] = unit\n            local target = unit..\"-target\"\n            if UnitExists(target) and UnitIsUnit(\"player\", target) then\n                allstates[UnitGUID(unit)] = {\n                    GUID = UnitGUID(unit),\n                    unit = unit,\n                    changed = true,\n                    show = true,\n                }\n                return true \n            end\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and unit then\n        if allstates[UnitGUID(unit)] then\n            allstates[UnitGUID(unit)].show = false\n            allstates[UnitGUID(unit)].changed = true\n        end\n        if aura_env.stored[UnitGUID(unit)] then\n            aura_env.stored[UnitGUID(unit)] = nil\n        end\n    end\n    if event == \"FRAME_UPDATE\" then\n        if not aura_env.last or aura_env.last < GetTime() then\n            for GUID, unit in pairs(aura_env.stored) do\n                if GUID then\n                    local target = unit..\"-target\"\n                    if UnitExists(target) and UnitIsUnit(\"player\", target) then\n                        if allstates[GUID] then\n                            allstates[GUID].changed = true\n                        else\n                            allstates[GUID] = {\n                                GUID = GUID,\n                                unit = unit,\n                                progressType = \"timed\",\n                                duration = 12.5,\n                                expirationTime = GetTime() + 12.5,\n                                autoHide = true,\n                                changed = true,\n                                show = true,\n                            }\n                        end\n                    elseif allstates[GUID] then\n                        allstates[GUID].show = false\n                        allstates[GUID].changed = true\n                    end\n                end\n            end\n        end\n    end\n    return true\nend",
 						["check"] = "event",
 						["use_destUnit"] = true,
 						["custom_type"] = "stateupdate",
@@ -26928,7 +27202,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -27006,7 +27280,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -27097,7 +27371,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "yHm4qQxAb7Z",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -27133,25 +27407,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\circle_leaf_nofill.tga",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 1, 1, 1}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 1, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "circle_leaf_nofill",
 			["frameStrata"] = 1,
@@ -27165,11 +27430,20 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {0, 1, 1, 1}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 1, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
 		},
 		["04 Displacement Cypher - Green"] = {
 			["text2Point"] = "CENTER",
@@ -27559,12 +27833,7 @@ WeakAurasSaved = {
 				["timeLeft"] = 300,
 				["always"] = false,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["authorOptions"] = {
 				{
 					["softMin"] = 60,
@@ -27590,7 +27859,12 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -27642,7 +27916,7 @@ WeakAurasSaved = {
 					},
 				}, -- [2]
 			},
-			["parent"] = "Weapon temp enchants",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.7",
 			["width"] = 35,
 			["zoom"] = 0,
@@ -27655,9 +27929,6 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = false,
 			["uid"] = "SGjDgQV8MAi",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "3528422",
-			["cooldown"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -27668,6 +27939,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "3528422",
+			["cooldown"] = false,
+			["parent"] = "Weapon temp enchants",
 		},
 		["Shadowcore Oil [MH]"] = {
 			["iconSource"] = -1,
@@ -27872,12 +28146,7 @@ WeakAurasSaved = {
 				["timeLeft"] = 300,
 				["always"] = false,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["authorOptions"] = {
 				{
 					["softMin"] = 60,
@@ -27903,7 +28172,12 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -27968,7 +28242,7 @@ WeakAurasSaved = {
 					},
 				}, -- [3]
 			},
-			["parent"] = "Weapon temp enchants",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.7",
 			["width"] = 35,
 			["zoom"] = 0,
@@ -27981,9 +28255,6 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = true,
 			["uid"] = "K9ZQ8fuxkys",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "463543",
-			["cooldown"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -27994,6 +28265,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "463543",
+			["cooldown"] = true,
+			["parent"] = "Weapon temp enchants",
 		},
 		["03 Greater Castigation - White"] = {
 			["text2Point"] = "CENTER",
@@ -29210,7 +29484,7 @@ WeakAurasSaved = {
 			["version"] = 5,
 			["subRegions"] = {
 			},
-			["useLimit"] = false,
+			["borderInset"] = 1,
 			["config"] = {
 			},
 			["load"] = {
@@ -29226,43 +29500,6 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-			},
-			["borderInset"] = 1,
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["space"] = 2,
-			["animate"] = false,
-			["arcLength"] = 360,
-			["scale"] = 1,
-			["rotation"] = 0,
-			["border"] = false,
-			["borderEdge"] = "Square Full White",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["sort"] = "none",
-			["authorOptions"] = {
-			},
-			["fullCircle"] = true,
-			["constantFactor"] = "RADIUS",
-			["internalVersion"] = 40,
-			["borderOffset"] = 4,
-			["semver"] = "2.0.3",
-			["tocversion"] = 90002,
-			["id"] = "KILL THE POD",
-			["frameStrata"] = 1,
-			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
-			["useAnchorPerUnit"] = false,
-			["uid"] = "P(J4GH5G)6u",
-			["anchorPoint"] = "CENTER",
-			["limit"] = 5,
-			["conditions"] = {
-			},
-			["information"] = {
 			},
 			["animation"] = {
 				["start"] = {
@@ -29284,6 +29521,43 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["useAnchorPerUnit"] = false,
+			["animate"] = false,
+			["useLimit"] = false,
+			["scale"] = 1,
+			["fullCircle"] = true,
+			["border"] = false,
+			["borderEdge"] = "Square Full White",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "none",
+			["space"] = 2,
+			["arcLength"] = 360,
+			["constantFactor"] = "RADIUS",
+			["internalVersion"] = 40,
+			["borderOffset"] = 4,
+			["semver"] = "2.0.3",
+			["tocversion"] = 90002,
+			["id"] = "KILL THE POD",
+			["frameStrata"] = 1,
+			["gridWidth"] = 5,
+			["anchorFrameType"] = "SCREEN",
+			["authorOptions"] = {
+			},
+			["uid"] = "P(J4GH5G)6u",
+			["rotation"] = 0,
+			["limit"] = 5,
+			["conditions"] = {
+			},
+			["information"] = {
+			},
+			["anchorPoint"] = "CENTER",
 		},
 		["Sound when targeted by a boss"] = {
 			["text2Point"] = "CENTER",
@@ -29590,11 +29864,11 @@ WeakAurasSaved = {
 			["align"] = "CENTER",
 			["anchorFrameFrame"] = "WeakAuras:Heavy Desolate Armor Kit check",
 			["rotation"] = 0,
-			["stagger"] = 0,
+			["anchorPoint"] = "BOTTOMLEFT",
 			["version"] = 8,
 			["subRegions"] = {
 			},
-			["groupIcon"] = "136244",
+			["xOffset"] = 0,
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -29629,26 +29903,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["fullCircle"] = true,
+			["radius"] = 200,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["rowSpace"] = 1,
+			["stagger"] = 0,
 			["animate"] = false,
 			["customGrow"] = "function(newPositions, activeRegions)\n    --[[\n    directions:\n    1 - LEFT TO RIGHT (AND TO BOTTOM)\n    2 - LEFT TO RIGHT (AND TO TOP)\n\n    3 - RIGHT TO LEFT (AND TO BOTTOM)\n    4 - TOP TO BOTTOM (AND TO TOP)\n\n    5 - TOP TO BOTTOM (AND TO LEFT)\n    6 - TOP TO BOTTOM (AND TO RIGHT)\n\n    7 - BOTTOM TO TOP (AND TO LEFT)\n    8 - BOTTOM TO TOP (AND TO RIGHT)\n    ]]--\n    local direction = 1\n    \n    local spacing = 1 --between icons\n    \n    local countX = 0\n    local countY = 0\n    for i, regionData in ipairs(activeRegions) do\n        local region = regionData.region\n        local index = region.state and region.state.index or -1\n        if direction == 1 or direction == 2 then --LEFT TO RIGHT\n            if index <= 5 then\n                newPositions[i] = {(region.width + spacing) * countX, 0}\n                countX = countX + 1\n            else\n                if direction == 1 then --AND BOTTOM\n                    newPositions[i] = {(region.width + spacing) * countY, -(region.height + spacing)}\n                    countY = countY + 1\n                else --AND TOP\n                    newPositions[i] = {(region.width + spacing) * countY, region.height + spacing}\n                    countY = countY + 1\n                end\n            end\n        elseif direction == 3 or direction == 4 then --RIGHT TO LEFT\n            if index <= 5 then\n                newPositions[i] = {-(region.width + spacing) * countX, 0}\n                countX = countX + 1\n            else\n                if direction == 3 then --AND BOTTOM\n                    newPositions[i] = {-(region.width + spacing) * countY, -(region.height + spacing)}\n                    countY = countY + 1\n                else --AND TOP\n                    newPositions[i] = {-(region.width + spacing) * countY, region.height + spacing}\n                    countY = countY + 1\n                end\n            end\n        elseif direction == 5 or direction == 6 then --TOP TO BOTTOM\n            if index <= 5 then\n                newPositions[i] = {0, -(region.height + spacing) * countX}\n                countX = countX + 1\n            else\n                if direction == 5 then --AND LEFT\n                    newPositions[i] = {-(region.width + spacing), -(region.height + spacing) * countY}\n                    countY = countY + 1\n                else --AND RIGHT\n                    newPositions[i] = {region.width + spacing, -(region.height + spacing) * countY}\n                    countY = countY + 1\n                end\n            end\n        elseif direction == 7 or direction == 8 then --BOTTOM TO TOP\n            if index <= 5 then\n                newPositions[i] = {0, (region.height + spacing) * countX}\n                countX = countX + 1\n            else\n                if direction == 7 then --AND LEFT\n                    newPositions[i] = {-(region.width + spacing), (region.height + spacing) * countY}\n                    countY = countY + 1\n                else --AND RIGHT\n                    newPositions[i] = {region.width + spacing, (region.height + spacing) * countY}\n                    countY = countY + 1\n                end\n            end\n        end\n    end\nend",
 			["scale"] = 1,
-			["radius"] = 200,
+			["groupIcon"] = "136244",
 			["border"] = false,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["limit"] = 5,
-			["uid"] = "QOSgeoDoKVT",
 			["config"] = {
 			},
+			["borderInset"] = 1,
 			["anchorFrameParent"] = false,
 			["constantFactor"] = "RADIUS",
 			["frameStrata"] = 1,
@@ -29659,16 +29933,16 @@ WeakAurasSaved = {
 			["sort"] = "none",
 			["gridWidth"] = 5,
 			["anchorFrameType"] = "SELECTFRAME",
-			["xOffset"] = 0,
-			["borderInset"] = 1,
-			["anchorPoint"] = "BOTTOMLEFT",
 			["useLimit"] = false,
+			["uid"] = "QOSgeoDoKVT",
+			["fullCircle"] = true,
+			["arcLength"] = 360,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["arcLength"] = 360,
+			["rowSpace"] = 1,
 		},
 		["05 Essence Sap High Stacks - Orange"] = {
 			["text2Point"] = "CENTER",
@@ -30443,8 +30717,8 @@ WeakAurasSaved = {
 			["desc"] = "Requires: LibGroupInspecT 1.1\nRequires: ZenTracker Backend: https://wago.io/r14U746B7\n",
 			["stagger"] = 0,
 			["version"] = 29,
-			["anchorPoint"] = "CENTER",
-			["borderInset"] = 0,
+			["rotation"] = 0,
+			["uid"] = "cXyfgTRvuuZ",
 			["load"] = {
 				["use_class"] = false,
 				["class"] = {
@@ -30460,38 +30734,15 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["uid"] = "cXyfgTRvuuZ",
+			["groupIcon"] = 132938,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["radius"] = 200,
-			["animate"] = false,
 			["fullCircle"] = true,
-			["scale"] = 1,
-			["useLimit"] = false,
-			["border"] = false,
-			["borderEdge"] = "Square Full White",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["sort"] = "ascending",
-			["groupIcon"] = 132938,
-			["grow"] = "UP",
-			["constantFactor"] = "RADIUS",
-			["rowSpace"] = 1,
-			["borderOffset"] = 16,
-			["semver"] = "1.0.11",
-			["tocversion"] = 90001,
-			["id"] = "ZT - Interrupt Tracker",
-			["gridWidth"] = 5,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["limit"] = 5,
-			["config"] = {
-			},
-			["rotation"] = 0,
+			["animate"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -30512,13 +30763,36 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["scale"] = 1,
+			["anchorPoint"] = "CENTER",
+			["border"] = false,
+			["borderEdge"] = "Square Full White",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "ascending",
+			["authorOptions"] = {
+			},
+			["radius"] = 200,
+			["constantFactor"] = "RADIUS",
+			["rowSpace"] = 1,
+			["borderOffset"] = 16,
+			["semver"] = "1.0.11",
+			["tocversion"] = 90001,
+			["id"] = "ZT - Interrupt Tracker",
+			["gridWidth"] = 5,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["limit"] = 5,
+			["config"] = {
+			},
+			["useLimit"] = false,
+			["borderInset"] = 0,
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["authorOptions"] = {
-			},
+			["grow"] = "UP",
 		},
 		["Shadowcore Oil [OH]"] = {
 			["iconSource"] = -1,
@@ -30721,12 +30995,7 @@ WeakAurasSaved = {
 				["timeLeft"] = 300,
 				["always"] = false,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 			["authorOptions"] = {
 				{
 					["softMin"] = 60,
@@ -30752,7 +31021,12 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
@@ -30817,7 +31091,7 @@ WeakAurasSaved = {
 					},
 				}, -- [3]
 			},
-			["parent"] = "Weapon temp enchants",
+			["selfPoint"] = "CENTER",
 			["semver"] = "1.0.7",
 			["width"] = 35,
 			["zoom"] = 0,
@@ -30830,9 +31104,6 @@ WeakAurasSaved = {
 			["cooldownTextDisabled"] = true,
 			["uid"] = "6tzSH31H3MG",
 			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = "463543",
-			["cooldown"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -30843,6 +31114,9 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["displayIcon"] = "463543",
+			["cooldown"] = true,
+			["parent"] = "Weapon temp enchants",
 		},
 		["07 Dark Recital Right"] = {
 			["iconSource"] = -1,
@@ -31080,19 +31354,18 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["fullCircle"] = true,
+			["gridType"] = "RD",
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["internalVersion"] = 40,
+			["fullCircle"] = true,
 			["animate"] = false,
-			["gridType"] = "RD",
+			["selfPoint"] = "TOPLEFT",
 			["scale"] = 1,
-			["authorOptions"] = {
-			},
+			["internalVersion"] = 40,
 			["border"] = false,
 			["anchorFrameFrame"] = "WeakAuras:Tosh ExternalCDs",
 			["regionType"] = "dynamicgroup",
@@ -31119,7 +31392,8 @@ WeakAurasSaved = {
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["selfPoint"] = "TOPLEFT",
+			["authorOptions"] = {
+			},
 		},
 		["07 Seismic Upheaval Right"] = {
 			["iconSource"] = -1,
@@ -31317,7 +31591,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["uid"] = "(TVy)skwDOZ",
+			["xOffset"] = 294.1666259765625,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -31326,7 +31600,7 @@ WeakAurasSaved = {
 			},
 			["internalVersion"] = 40,
 			["animate"] = false,
-			["xOffset"] = 294.1666259765625,
+			["stagger"] = 0,
 			["scale"] = 1,
 			["rowSpace"] = 1,
 			["border"] = false,
@@ -31334,8 +31608,8 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["limit"] = 5,
-			["anchorPoint"] = "CENTER",
 			["fullCircle"] = true,
+			["uid"] = "(TVy)skwDOZ",
 			["constantFactor"] = "RADIUS",
 			["animation"] = {
 				["start"] = {
@@ -31367,13 +31641,13 @@ WeakAurasSaved = {
 			["sort"] = "none",
 			["config"] = {
 			},
+			["grow"] = "DOWN",
 			["selfPoint"] = "TOP",
-			["stagger"] = 0,
 			["conditions"] = {
 			},
 			["information"] = {
 			},
-			["grow"] = "DOWN",
+			["anchorPoint"] = "CENTER",
 		},
 		["nocircle_leaf_fill"] = {
 			["iconSource"] = 0,
@@ -31388,7 +31662,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -31466,7 +31740,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -31557,7 +31831,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "xILWxkAJQiT",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -31593,25 +31867,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\nocircle_leaf_fill.tga",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 1, 0, 4}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 4, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "nocircle_leaf_fill",
 			["frameStrata"] = 1,
@@ -31625,11 +31890,20 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 1, 0, 4}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 4, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
 		},
 		["03 Lingering Embers >1stack - Orange"] = {
 			["text2Point"] = "CENTER",
@@ -31895,7 +32169,7 @@ WeakAurasSaved = {
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -31973,7 +32247,7 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["glowFrequency"] = 0.25,
@@ -32064,7 +32338,7 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "jUqQ2Rm(nH6",
-			["parent"] = "Mists of Tirna Scithe guessing game",
+			["selfPoint"] = "CENTER",
 			["authorOptions"] = {
 				{
 					["type"] = "toggle",
@@ -32100,25 +32374,16 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
 			["displayIcon"] = "Interface\\Addons\\guess\\nocircle_lotus_fill.tga",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 0, 0, 6}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 6, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
+			["xOffset"] = 0,
 			["auto"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextDisabled"] = false,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "nocircle_noleaf_fill",
 			["frameStrata"] = 1,
@@ -32132,26 +32397,43 @@ WeakAurasSaved = {
 				["orderText"] = true,
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.order = \"\"\naura_env.showText = aura_env.config['orderText']\naura_env.noCommunication = aura_env.config['noCommunication']\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nend\nlocal values = {1, 0, 0, 6}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\n\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\n    WeakAuras.ScanEvents(\"TirnaScitheButtonData\", 6, b)\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\") \n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            WeakAuras.ScanEvents(\"GlowUpdate\")\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else         \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n    end)\nend",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
 		},
 		["Innervate"] = {
+			["outline"] = "OUTLINE",
 			["iconSource"] = -1,
 			["xOffset"] = -242.4989013671875,
 			["preferToUpdate"] = false,
 			["yOffset"] = -107.4995727539063,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "event",
 			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
+					["glow_frame_type"] = "UNITFRAME",
+					["glow_action"] = "show",
+					["glow_type"] = "Pixel",
+					["use_glow_color"] = true,
+					["do_glow"] = true,
 				},
 				["init"] = {
 				},
 				["finish"] = {
+					["hide_all_glows"] = true,
 				},
 			},
 			["triggers"] = {
@@ -32177,6 +32459,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
+			["displayText_format_p_format"] = "timed",
 			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -32200,62 +32483,8 @@ WeakAurasSaved = {
 				},
 			},
 			["desaturate"] = false,
+			["font"] = "Friz Quadrata TT",
 			["subRegions"] = {
-				{
-					["text_shadowXOffset"] = 0,
-					["text_text_format_s_format"] = "none",
-					["text_text"] = "%p",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Friz Quadrata TT",
-					["text_shadowYOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
-					["text_text_format_p_time_precision"] = 1,
-					["text_text_format_p_format"] = "timed",
-					["text_fontSize"] = 20,
-					["anchorXOffset"] = 0,
-					["text_text_format_p_time_dynamic"] = false,
-				}, -- [1]
-				{
-					["glowFrequency"] = 0.25,
-					["type"] = "subglow",
-					["useGlowColor"] = false,
-					["glowType"] = "ACShine",
-					["glowLength"] = 10,
-					["glowYOffset"] = 0,
-					["glowColor"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["glowXOffset"] = 0,
-					["glow"] = true,
-					["glowScale"] = 1.5,
-					["glowThickness"] = 1,
-					["glowLines"] = 8,
-					["glowBorder"] = false,
-				}, -- [2]
 			},
 			["height"] = 64,
 			["load"] = {
@@ -32272,27 +32501,43 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
-			["cooldownTextDisabled"] = false,
-			["cooldown"] = false,
-			["authorOptions"] = {
-			},
-			["zoom"] = 0,
-			["frameStrata"] = 1,
-			["tocversion"] = 90002,
-			["id"] = "Innervate",
 			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 0.5,
-			["width"] = 64,
+			["fontSize"] = 12,
+			["displayText_format_p_time_dynamic"] = false,
+			["shadowXOffset"] = 1,
+			["cooldown"] = false,
+			["fixedWidth"] = 200,
+			["shadowYOffset"] = -1,
+			["regionType"] = "text",
+			["automaticWidth"] = "Auto",
+			["displayText"] = "",
 			["config"] = {
 			},
+			["wordWrap"] = "WordWrap",
+			["displayText_format_p_time_precision"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
+			["justify"] = "LEFT",
+			["tocversion"] = 90002,
+			["id"] = "Innervate",
+			["authorOptions"] = {
+			},
+			["alpha"] = 0.5,
+			["width"] = 64,
+			["selfPoint"] = "CENTER",
 			["uid"] = "Ggw(qsGorOV",
 			["inverse"] = false,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
+				1, -- [4]
+			},
+			["shadowColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
 				1, -- [4]
 			},
 			["conditions"] = {
@@ -32534,7 +32779,7 @@ WeakAurasSaved = {
 			},
 			["desaturate"] = false,
 			["discrete_rotation"] = 0,
-			["version"] = 59,
+			["version"] = 60,
 			["subRegions"] = {
 				{
 					["text_shadowXOffset"] = -1,
@@ -32619,12 +32864,12 @@ WeakAurasSaved = {
 			["width"] = 300,
 			["textureWrapMode"] = "CLAMPTOBLACKADDITIVE",
 			["auto"] = false,
-			["url"] = "https://wago.io/hVLym_eLv/59",
+			["url"] = "https://wago.io/hVLym_eLv/60",
 			["actions"] = {
 				["start"] = {
 				},
 				["init"] = {
-					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.noCommunication = aura_env.config['noCommunication']\naura_env.useEng = aura_env.config['useEng']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.resetText = \"Reset\"\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\n    aura_env.resetText = \"초기화\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\n    aura_env.resetText = \"Reset\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\n    aura_env.resetText = \"Zurücksetzen\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\n    aura_env.resetText = \"Resetear\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\n    aura_env.resetText = \"Reiniciar\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\n    aura_env.resetText = \"Сброс\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\n    aura_env.resetText = \"Resetar\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\n    aura_env.resetText = \"Reset\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nelseif aura_env.useEng then \n    aura_env.resetText = \"Reset\" \nend\n\nlocal values = {9, 9, 9, 9}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message .. \"m\"\nlocal name, _ = UnitName(\"player\")\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            WeakAuras.ScanEvents(\"GlowReset\")            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else               \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n            WeakAuras.ScanEvents(\"GlowReset\")\n    end)\nend\naura_env.LCG = LibStub(\"LibCustomGlow-1.0\")",
+					["custom"] = "aura_env.debugmode = aura_env.config['debug']\nlocal debug = aura_env.debugmode\naura_env.showEncounter = aura_env.config['encounter']\naura_env.noCommunication = aura_env.config['noCommunication']\naura_env.useEng = aura_env.config['useEng']\naura_env.locale=GetLocale()\naura_env.mistZone = \"Mistveil Tangle\"\naura_env.resetText = \"Reset\"\nif aura_env.locale == \"koKR\" then\n    aura_env.mistZone = \"안개장막 덩굴숲\"\n    aura_env.resetText = \"초기화\"\nelseif aura_env.locale == \"frFR\" then\n    aura_env.mistZone = \"Maquis Voile-de-Brume\"\n    aura_env.resetText = \"Reset\"\nelseif aura_env.locale == \"deDE\" then\n    aura_env.mistZone = \"Nebelschleierdickicht\"\n    aura_env.resetText = \"Zurücksetzen\"\nelseif aura_env.locale == \"zhCN\" then\n    aura_env.mistZone = \"纱雾迷结\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esES\" then\n    aura_env.mistZone = \"Espesura Velo de Niebla\"\n    aura_env.resetText = \"Resetear\"\nelseif aura_env.locale == \"zhTW\" then\n    aura_env.mistZone = \"霧紗密林\"\n    aura_env.resetText = \"重置\"\nelseif aura_env.locale == \"esMX\" then\n    aura_env.mistZone = \"Espesura Veloniebla\"\n    aura_env.resetText = \"Reiniciar\"\nelseif aura_env.locale == \"ruRU\" then\n    aura_env.mistZone = \"Туманная чащоба\"\n    aura_env.resetText = \"Сброс\"\nelseif aura_env.locale == \"ptBR\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"\n    aura_env.resetText = \"Resetar\"\nelseif aura_env.locale == \"itIT\" then\n    aura_env.mistZone = \"Intrico Velofosco\"\n    aura_env.resetText = \"Reset\"\nelseif aura_env.locale == \"ptPT\" then\n    aura_env.mistZone = \"Enleio do Véu da Névoa\"        \nelseif aura_env.useEng then \n    aura_env.resetText = \"Reset\" \nend\n\nlocal values = {9, 9, 9, 9}\nlocal message = string.format(\"%d %d %d %d\", values[1], values[2], values[3], values[4])\nmessage = message .. \"m\"\nmessage = message.. \"new\"\nlocal name, _ = UnitName(\"player\")\nif not aura_env.frameData then\n    local b = CreateFrame(\"Button\", nil, WeakAuras.regions[aura_env.id].region)\n    b:SetAllPoints(WeakAuras.regions[aura_env.id].region)\n    b:RegisterForClicks(\"LeftButtonDown\")\n    aura_env.frameData = b\nend\nif aura_env.noCommunication then\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if debug then \n                print(\"noCommunication sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n            else\n                C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n            end\n            WeakAuras.ScanEvents(\"GlowReset\")            \n    end)\nelse\n    aura_env.frameData:SetScript(\"OnClick\", function()\n            if debug then print(\"Click Registered - true\") end\n            C_ChatInfo.RegisterAddonMessagePrefix(\"TIRNASCYTHE\")\n            if IsPartyLFG() then            \n                if debug then \n                    print(\"LFG sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"INSTANCE_CHAT\")\n                end\n            elseif UnitInParty(\"player\") then            \n                if debug then \n                    print(\"party sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"PARTY\")\n                end\n            else               \n                if debug then \n                    print(\"solo sent - \", C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)) \n                else\n                    C_ChatInfo.SendAddonMessageLogged(\"TIRNASCYTHE\", message, \"WHISPER\", name)\n                end\n            end\n            WeakAuras.ScanEvents(\"GlowReset\")\n    end)\nend\naura_env.LCG = LibStub(\"LibCustomGlow-1.0\")",
 					["do_custom"] = true,
 				},
 				["finish"] = {
@@ -32638,7 +32883,7 @@ WeakAurasSaved = {
 			["regionType"] = "icon",
 			["selfPoint"] = "CENTER",
 			["blendMode"] = "BLEND",
-			["xOffset"] = 10,
+			["rotation"] = 0,
 			["config"] = {
 				["encounter"] = true,
 				["noCommunication"] = false,
@@ -32648,34 +32893,34 @@ WeakAurasSaved = {
 			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura3",
 			["alpha"] = 1,
 			["zoom"] = 1,
-			["semver"] = "1.6.3",
+			["semver"] = "1.6.4",
 			["tocversion"] = 90002,
 			["id"] = "Reset",
 			["cooldownTextDisabled"] = false,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "Mists of Tirna Scithe guessing game",
-			["uid"] = "FNnrOJUWpi)",
-			["inverse"] = false,
 			["color"] = {
 				1, -- [1]
 				0.57647058823529, -- [2]
 				0.71372549019608, -- [3]
 				0.80000001192093, -- [4]
 			},
+			["uid"] = "FNnrOJUWpi)",
+			["inverse"] = false,
+			["parent"] = "Mists of Tirna Scithe guessing game",
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["rotation"] = 0,
+			["xOffset"] = 10,
 		},
 	},
 	["registered"] = {
 	},
 	["frame"] = {
-		["xOffset"] = -689.99462890625,
+		["xOffset"] = -429.1611328125,
 		["width"] = 884.999755859375,
 		["height"] = 759.1666259765625,
-		["yOffset"] = -126.4986572265625,
+		["yOffset"] = -243.1646728515625,
 	},
 	["editor_theme"] = "Monokai",
 }

@@ -1,3 +1,78 @@
+VER 3 0000000000000039 "_M6+s01" "1074161825"
+#showtooltip
+#m6
+/click M6Prime s01
+END
+VER 3 000000000000003A "_M6+s02" "1074161826"
+#showtooltip
+#m6
+/click M6Prime s02
+END
+VER 3 000000000000003B "_M6+s03" "1074161827"
+#showtooltip
+#m6
+/click M6Prime s03
+END
+VER 3 000000000000003C "_M6+s04" "1074161828"
+#showtooltip
+#m6
+/click M6Prime s04
+END
+VER 3 000000000000003D "_M6+s05" "1074161829"
+#showtooltip
+#m6
+/click M6Prime s05
+END
+VER 3 000000000000003E "_M6+s06" "1074161830"
+#showtooltip
+#m6
+/click M6Prime s06
+END
+VER 3 000000000000003F "_M6+s07" "1074161831"
+#showtooltip
+#m6
+/click M6Prime s07
+END
+VER 3 0000000000000040 "_M6+s08" "1074161832"
+#showtooltip
+#m6
+/click M6Prime s08
+END
+VER 3 0000000000000041 "_M6+s09" "1074161833"
+#showtooltip
+#m6
+/click M6Prime s09
+END
+VER 3 0000000000000042 "_M6+s0a" "1074161834"
+#showtooltip
+#m6
+/click M6Prime s0a
+END
+VER 3 0000000000000043 "_M6+s0b" "1074161835"
+#showtooltip
+#m6
+/click M6Prime s0b
+END
+VER 3 0000000000000044 "_M6+s0c" "1074161836"
+#showtooltip
+#m6
+/click M6Prime s0c
+END
+VER 3 0000000000000045 "_M6+s0d" "1074161837"
+#showtooltip
+#m6
+/click M6Prime s0d
+END
+VER 3 0000000000000046 "_M6+s0e" "1074161838"
+#showtooltip
+#m6
+/click M6Prime s0e
+END
+VER 3 0000000000000047 "_M6+s0f" "1074161839"
+#showtooltip
+#m6
+/click M6Prime s0f
+END
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use Shattered Helm of Domination
@@ -8,37 +83,21 @@ END
 VER 3 0000000000000002 "ClearIDs" "Ability_Creature_Cursed_03"
 /script for i=1, 120 do PickupAction(i); ClearCursor(); end
 END
-VER 3 000000000000001A "dance" "ClassIcon_Druid."
-/dance
-END
 VER 3 0000000000000007 "focus" "132885"
 /focus
 END
 VER 3 0000000000000031 "focus2" "INV_MISC_QUESTIONMARK"
 /focus [@mouseover]
 END
-VER 3 0000000000000021 "follow" "134140"
-/follow toshpal
-END
 VER 3 0000000000000037 "innervate me" "136048"
-#showtooltip
 /script WeakAuras.ScanEvents("TOSH_WA_INNRV_ASK")
 END
 VER 3 0000000000000020 "massbuy" "INV_MISC_QUESTIONMARK"
 /script local n=GetItemInfo(39354); for i=1, GetMerchantNumItems() do local m=GetMerchantItemInfo(i); if n == m then BuyMerchantItem(i, GetMerchantItemMaxStack(i)); end; end
 END
-VER 3 0000000000000029 "page1" "134153"
-/changeactionbar 1
-END
-VER 3 000000000000002A "page2" "134154"
-/changeactionbar 3
-END
 VER 3 0000000000000033 "PI" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@target,help][@focus,help][@player] Power Infusion
-END
-VER 3 0000000000000036 "pi test" "INV_MISC_QUESTIONMARK"
-/script WeakAuras.ScanEvents("TOSH_WA_PI_ASK")
 END
 VER 3 0000000000000038 "pod" "INV_MISC_QUESTIONMARK"
 /tar wildseed
@@ -51,17 +110,8 @@ VER 3 0000000000000028 "POT" "132847"
 /use Silas' Vial of Continuous Curing
 /use Coastal Healing Potion
 END
-VER 3 0000000000000016 "pull" "Sha_Spell_Fire_FelFire."
-/pull 10
-END
 VER 3 0000000000000035 "rewards" "134331"
 /run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
-END
-VER 3 0000000000000013 "sheathe" "Ability_Warrior_Challange."
-/run ToggleSheath()
-END
-VER 3 0000000000000012 "skull" "Ability_Iyyokuk_Drum_White."
-/run SetRaidTarget("target", 8)
 END
 VER 3 0000000000000034 "soothe" "INV_MISC_QUESTIONMARK"
 #showtooltip Mind Soothe

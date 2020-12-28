@@ -5,6 +5,7 @@ DeathNoteDB = {
 	},
 	["profiles"] = {
 		["Toshmonk - Kil'jaeden"] = {
+			["searchbox_text"] = "",
 		},
 	},
 }

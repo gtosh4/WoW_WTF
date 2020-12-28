@@ -80,13 +80,10 @@ MythicDungeonToolsDB = {
 					[330810] = true,
 					[332550] = true,
 				},
-				[167998] = {
-					[330725] = true,
-					[330720] = true,
-					[326494] = true,
-					[132951] = true,
-					[330716] = true,
-					[326497] = true,
+				[164464] = {
+					[333523] = true,
+					[342048] = true,
+					[333540] = true,
 				},
 				[165946] = {
 					[339573] = true,
@@ -98,10 +95,13 @@ MythicDungeonToolsDB = {
 					[339759] = true,
 					[323683] = true,
 				},
-				[164464] = {
-					[333523] = true,
-					[342048] = true,
-					[333540] = true,
+				[167998] = {
+					[330725] = true,
+					[330720] = true,
+					[326494] = true,
+					[132951] = true,
+					[330716] = true,
+					[326497] = true,
 				},
 				[162763] = {
 					[331243] = true,
@@ -109,21 +109,20 @@ MythicDungeonToolsDB = {
 					[331224] = true,
 					[331237] = true,
 				},
-				[170850] = {
-					[333241] = true,
-					[333242] = true,
-					[132951] = true,
+				[167533] = {
+					[333827] = true,
+					[333861] = true,
+					[331275] = true,
 				},
-				[164463] = {
-					[320248] = true,
-					[320180] = true,
+				[174197] = {
+					[341902] = true,
 					[132951] = true,
-					[320120] = true,
+					[330784] = true,
 				},
-				[167532] = {
-					[331288] = true,
-					[332708] = true,
-					[342135] = true,
+				[160495] = {
+					[330784] = true,
+					[333708] = true,
+					[330868] = true,
 				},
 				[164451] = {
 					[320063] = true,
@@ -157,10 +156,10 @@ MythicDungeonToolsDB = {
 					[224729] = true,
 					[341977] = true,
 				},
-				[160495] = {
-					[330784] = true,
-					[333708] = true,
-					[330868] = true,
+				[167532] = {
+					[331288] = true,
+					[332708] = true,
+					[342135] = true,
 				},
 				[167536] = {
 					[342139] = true,
@@ -203,10 +202,10 @@ MythicDungeonToolsDB = {
 					[326835] = true,
 					[132951] = true,
 				},
-				[167533] = {
-					[333827] = true,
-					[333861] = true,
-					[331275] = true,
+				[170850] = {
+					[333241] = true,
+					[333242] = true,
+					[132951] = true,
 				},
 				[162329] = {
 					[339415] = true,
@@ -222,10 +221,11 @@ MythicDungeonToolsDB = {
 					[320729] = true,
 					[320114] = true,
 				},
-				[174197] = {
-					[341902] = true,
+				[164463] = {
+					[320248] = true,
+					[320180] = true,
 					[132951] = true,
-					[330784] = true,
+					[320120] = true,
 				},
 				[174210] = {
 					[341969] = true,
@@ -3170,8 +3170,9 @@ MythicDungeonToolsDB = {
 				[163086] = {
 					["Taunt"] = true,
 				},
-				[167998] = {
-					["Taunt"] = true,
+				[164464] = {
+					["Root"] = true,
+					["Slow"] = true,
 				},
 				[169875] = {
 					["Taunt"] = true,
@@ -3188,14 +3189,22 @@ MythicDungeonToolsDB = {
 				[165946] = {
 					["Taunt"] = true,
 				},
-				[164463] = {
+				[167532] = {
 					["Taunt"] = true,
 				},
 				[162763] = {
 					["Taunt"] = true,
 				},
-				[167533] = {
+				[170850] = {
 					["Taunt"] = true,
+				},
+				[174197] = {
+					["Taunt"] = true,
+					["Incapacitate"] = true,
+					["Silence"] = true,
+					["Slow"] = true,
+					["Root"] = true,
+					["Stun"] = true,
 				},
 				[160495] = {
 					["Taunt"] = true,
@@ -3208,14 +3217,6 @@ MythicDungeonToolsDB = {
 					["Slow"] = true,
 					["Silence"] = true,
 					["Fear"] = true,
-				},
-				[174197] = {
-					["Taunt"] = true,
-					["Incapacitate"] = true,
-					["Silence"] = true,
-					["Slow"] = true,
-					["Root"] = true,
-					["Stun"] = true,
 				},
 				[164451] = {
 					["Taunt"] = true,
@@ -3234,7 +3235,7 @@ MythicDungeonToolsDB = {
 					["Silence"] = true,
 					["Repentance"] = true,
 				},
-				[167532] = {
+				[164463] = {
 					["Taunt"] = true,
 				},
 				[167536] = {
@@ -3289,14 +3290,13 @@ MythicDungeonToolsDB = {
 					["Stun"] = true,
 					["Repentance"] = true,
 				},
-				[164464] = {
-					["Root"] = true,
-					["Slow"] = true,
+				[167998] = {
+					["Taunt"] = true,
 				},
 				[169893] = {
 					["Taunt"] = true,
 				},
-				[170850] = {
+				[167533] = {
 					["Taunt"] = true,
 				},
 				[174210] = {

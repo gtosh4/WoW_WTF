@@ -12,8 +12,11 @@ favsDB = {
 			["classColorOtherProject"] = 2,
 			["favTypes"] = {
 				["Favorites"] = {
-					["Ceesong#1985"] = true,
+					["Haxpaxington#1572"] = true,
 					["YukioX#1520"] = true,
+					["CspaceJ#1920"] = true,
+					["Rathux#11683"] = true,
+					["Ceesong#1985"] = true,
 					["Sci#11555"] = true,
 				},
 			},

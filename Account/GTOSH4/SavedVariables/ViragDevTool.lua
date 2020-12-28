@@ -77,5 +77,5 @@ ViragDevTool_Settings = {
 	},
 	["MAX_HISTORY_SIZE"] = 50,
 	["sideBarTabSelected"] = "history",
-	["collResizerPosition"] = 449.9998168945313,
+	["collResizerPosition"] = 449.9998016357422,
 }
