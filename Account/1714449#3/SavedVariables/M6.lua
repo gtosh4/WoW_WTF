@@ -3,9 +3,6 @@ M6DB = {
 	["icRangeColor"] = "ffffff",
 	["groups"] = {
 	},
-	["icManaColor"] = "8080ff",
-	["actions"] = {
-	},
 	["profiles"] = {
 		["Kil'jaeden"] = {
 			["Toshmonk"] = {
@@ -30,4 +27,7 @@ M6DB = {
 			},
 		},
 	},
+	["actions"] = {
+	},
+	["icManaColor"] = "8080ff",
 }

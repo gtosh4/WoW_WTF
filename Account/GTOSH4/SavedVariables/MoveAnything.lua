@@ -56,8 +56,8 @@ MADB = {
 						"TOPRIGHT", -- [1]
 						"UIParent", -- [2]
 						"TOPRIGHT", -- [3]
-						-530, -- [4]
-						-5, -- [5]
+						-7.497802734375, -- [4]
+						-4.9993896484375, -- [5]
 					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
@@ -73,8 +73,8 @@ MADB = {
 						"TOPRIGHT", -- [1]
 						"UIParent", -- [2]
 						"TOPRIGHT", -- [3]
-						0, -- [4]
-						0, -- [5]
+						-3.33251953125, -- [4]
+						-241.6663208007813, -- [5]
 					},
 				},
 				["ChatFrameChannelButton"] = {

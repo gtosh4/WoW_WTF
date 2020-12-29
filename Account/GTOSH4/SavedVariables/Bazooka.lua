@@ -90,7 +90,10 @@ BazookaDB = {
 						["pos"] = 14,
 					},
 					["Death Note"] = {
-						["pos"] = 2,
+						["area"] = "left",
+						["showText"] = false,
+						["pos"] = 3,
+						["bar"] = 4,
 					},
 					["Difficulty"] = {
 						["showIcon"] = false,
