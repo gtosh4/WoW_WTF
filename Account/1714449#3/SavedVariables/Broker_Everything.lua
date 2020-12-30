@@ -109,8 +109,11 @@ Broker_Everything_AceDB = {
 			["Gold"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
+			["Difficulty"] = {
+				["enabled"] = true,
+				["minimap"] = {
+					["hide"] = true,
+				},
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -149,13 +152,10 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Equipment"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["Friends"] = {
+				["enabled"] = false,
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},

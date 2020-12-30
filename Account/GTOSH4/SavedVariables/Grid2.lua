@@ -1,6 +1,201 @@
 
 Grid2DB = {
 	["namespaces"] = {
+		["Grid2Frame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["extraThemes"] = {
+						{
+							["frameColor"] = {
+								["a"] = 1,
+								["b"] = 0,
+								["g"] = 0,
+								["r"] = 0,
+							},
+							["fontSize"] = 11,
+							["frameBorder"] = 2,
+							["iconSize"] = 14,
+							["mouseoverTexture"] = "Blizzard Tooltip",
+							["fontFlags"] = "OUTLINE",
+							["frameHeight"] = 48,
+							["shadowDisabled"] = true,
+							["barTexture"] = "Smooth v2",
+							["frameBorderTexture"] = "Grid2 Flat",
+							["frameWidths"] = {
+							},
+							["frameTexture"] = "Smooth v2",
+							["mouseoverColor"] = {
+								["a"] = 0.800000011920929,
+								["b"] = 1,
+								["g"] = 1,
+								["r"] = 1,
+							},
+							["frameHeights"] = {
+							},
+							["orientation"] = "HORIZONTAL",
+							["mouseoverHighlight"] = false,
+							["frameContentColor"] = {
+								["a"] = 1,
+								["b"] = 0.1019607843137255,
+								["g"] = 0.1019607843137255,
+								["r"] = 0.1019607843137255,
+							},
+							["frameWidth"] = 160,
+							["frameBorderDistance"] = 1,
+						}, -- [1]
+						{
+							["frameColor"] = {
+								["a"] = 1,
+								["b"] = 0,
+								["g"] = 0,
+								["r"] = 0,
+							},
+							["fontSize"] = 11,
+							["frameBorder"] = 2,
+							["iconSize"] = 14,
+							["mouseoverTexture"] = "Blizzard Tooltip",
+							["fontFlags"] = "OUTLINE",
+							["frameTexture"] = "Smooth v2",
+							["frameHeight"] = 38,
+							["frameBorderTexture"] = "Grid2 Flat",
+							["shadowDisabled"] = true,
+							["barTexture"] = "Smooth v2",
+							["frameBorderColor"] = {
+								["a"] = 0,
+								["b"] = 0,
+								["g"] = 0,
+								["r"] = 0,
+							},
+							["frameWidths"] = {
+							},
+							["frameBorderDistance"] = 1,
+							["orientation"] = "HORIZONTAL",
+							["menuDisabled"] = true,
+							["frameHeights"] = {
+							},
+							["frameContentColor"] = {
+								["a"] = 1,
+								["b"] = 0.1019607843137255,
+								["g"] = 0.1019607843137255,
+								["r"] = 0.1019607843137255,
+							},
+							["mouseoverHighlight"] = false,
+							["frameWidth"] = 76,
+							["mouseoverColor"] = {
+								["a"] = 0.800000011920929,
+								["b"] = 1,
+								["g"] = 1,
+								["r"] = 1,
+							},
+						}, -- [2]
+					},
+					["mouseoverTexture"] = "Blizzard Tooltip",
+					["fontFlags"] = "OUTLINE",
+					["shadowDisabled"] = true,
+					["barTexture"] = "Smooth v2",
+					["frameTexture"] = "Smooth v2",
+					["menuDisabled"] = true,
+					["frameContentColor"] = {
+						["r"] = 0.1019607843137255,
+						["g"] = 0.1019607843137255,
+						["b"] = 0.1019607843137255,
+					},
+					["orientation"] = "HORIZONTAL",
+					["frameWidth"] = 76,
+					["mouseoverColor"] = {
+						["a"] = 0.800000011920929,
+					},
+				},
+			},
+		},
+		["ToshUnitFramesOptions"] = {
+		},
+		["Grid2Layout"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BorderB"] = 0.5019607843137255,
+					["BackgroundR"] = 0.1019607843137255,
+					["FrameLock"] = true,
+					["BorderA"] = 0,
+					["BorderR"] = 0.5019607843137255,
+					["PosX"] = 0.003066406181460479,
+					["anchor"] = "TOP",
+					["BackgroundG"] = 0.1019607843137255,
+					["minimapIcon"] = {
+						["hide"] = true,
+					},
+					["PosY"] = -570.8796552085951,
+					["Spacing"] = 2,
+					["BackgroundA"] = 1,
+					["BorderG"] = 0.5019607843137255,
+					["extraThemes"] = {
+						{
+							["BackgroundTexture"] = "Blizzard ChatFrame Background",
+							["BorderB"] = 0.5019607843137255,
+							["layouts"] = {
+								["party"] = "By Role",
+								["arena"] = "By Group",
+								["solo"] = "By Role",
+								["raid"] = "By Group",
+							},
+							["BackgroundB"] = 0.1019607843137255,
+							["ScaleSize"] = 1,
+							["FrameLock"] = true,
+							["BorderA"] = 0,
+							["BorderR"] = 0.5019607843137255,
+							["BorderTexture"] = "Blizzard Tooltip",
+							["anchor"] = "TOP",
+							["BackgroundG"] = 0.1019607843137255,
+							["groupAnchor"] = "TOPLEFT",
+							["PosY"] = -309.2316337131342,
+							["PosX"] = -250.655941663028,
+							["BackgroundR"] = 0.1019607843137255,
+							["BackgroundA"] = 1,
+							["horizontal"] = false,
+							["BorderG"] = 0.5019607843137255,
+							["FrameDisplay"] = "Always",
+							["Padding"] = 0,
+							["clamp"] = true,
+							["Spacing"] = 4,
+						}, -- [1]
+						{
+							["BackgroundTexture"] = "Blizzard ChatFrame Background",
+							["BorderB"] = 0.5019607843137255,
+							["layouts"] = {
+								["raid"] = "By Group",
+								["arena"] = "By Group",
+								["solo"] = "By Group",
+								["party"] = "By Group",
+							},
+							["BackgroundR"] = 0.1019607843137255,
+							["ScaleSize"] = 1,
+							["FrameLock"] = true,
+							["BorderA"] = 0,
+							["BorderR"] = 0.5019607843137255,
+							["BorderTexture"] = "Blizzard Tooltip",
+							["anchor"] = "TOP",
+							["BackgroundG"] = 0.1019607843137255,
+							["groupAnchor"] = "TOPLEFT",
+							["PosY"] = -575.9946550942659,
+							["PosX"] = 0.005996093615976861,
+							["BackgroundB"] = 0.1019607843137255,
+							["BackgroundA"] = 1,
+							["horizontal"] = true,
+							["BorderG"] = 0.5019607843137255,
+							["FrameDisplay"] = "Always",
+							["Padding"] = 0,
+							["clamp"] = true,
+							["Spacing"] = 2,
+						}, -- [2]
+					},
+					["BackgroundB"] = 0.1019607843137255,
+				},
+			},
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["Grid2Options"] = {
+		},
 		["Grid2RaidDebuffs"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -43,202 +238,7 @@ Grid2DB = {
 				},
 			},
 		},
-		["ToshUnitFramesOptions"] = {
-		},
-		["Grid2Layout"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BorderB"] = 0.5019607843137255,
-					["BackgroundB"] = 0.1019607843137255,
-					["FrameLock"] = true,
-					["BorderA"] = 0,
-					["BorderR"] = 0.5019607843137255,
-					["Spacing"] = 2,
-					["anchor"] = "TOP",
-					["BackgroundG"] = 0.1019607843137255,
-					["minimapIcon"] = {
-						["hide"] = true,
-					},
-					["PosY"] = -570.8796552085951,
-					["PosX"] = 0.003105468680587364,
-					["BackgroundA"] = 1,
-					["BorderG"] = 0.5019607843137255,
-					["extraThemes"] = {
-						{
-							["BackgroundTexture"] = "Blizzard ChatFrame Background",
-							["BorderB"] = 0.5019607843137255,
-							["layouts"] = {
-								["party"] = "By Role",
-								["arena"] = "By Group",
-								["solo"] = "By Role",
-								["raid"] = "By Group",
-							},
-							["BackgroundB"] = 0.1019607843137255,
-							["ScaleSize"] = 1,
-							["FrameLock"] = true,
-							["BorderA"] = 0,
-							["BorderR"] = 0.5019607843137255,
-							["BorderTexture"] = "Blizzard Tooltip",
-							["anchor"] = "TOP",
-							["BackgroundG"] = 0.1019607843137255,
-							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -309.2328837131063,
-							["PosX"] = -250.6559904911519,
-							["BackgroundR"] = 0.1019607843137255,
-							["BackgroundA"] = 1,
-							["horizontal"] = false,
-							["BorderG"] = 0.5019607843137255,
-							["FrameDisplay"] = "Always",
-							["Padding"] = 0,
-							["clamp"] = true,
-							["Spacing"] = 4,
-						}, -- [1]
-						{
-							["BackgroundTexture"] = "Blizzard ChatFrame Background",
-							["BorderB"] = 0.5019607843137255,
-							["layouts"] = {
-								["raid"] = "By Group",
-								["arena"] = "By Group",
-								["solo"] = "By Group",
-								["party"] = "By Group",
-							},
-							["BackgroundR"] = 0.1019607843137255,
-							["ScaleSize"] = 1,
-							["FrameLock"] = true,
-							["BorderA"] = 0,
-							["BorderR"] = 0.5019607843137255,
-							["BorderTexture"] = "Blizzard Tooltip",
-							["anchor"] = "TOP",
-							["BackgroundG"] = 0.1019607843137255,
-							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -575.9946550942659,
-							["PosX"] = 0.005957031116849976,
-							["BackgroundB"] = 0.1019607843137255,
-							["BackgroundA"] = 1,
-							["horizontal"] = true,
-							["BorderG"] = 0.5019607843137255,
-							["FrameDisplay"] = "Always",
-							["Padding"] = 0,
-							["clamp"] = true,
-							["Spacing"] = 2,
-						}, -- [2]
-					},
-					["BackgroundR"] = 0.1019607843137255,
-				},
-			},
-		},
 		["Grid2AoeHeals"] = {
-		},
-		["Grid2Options"] = {
-		},
-		["Grid2Frame"] = {
-			["profiles"] = {
-				["Default"] = {
-					["extraThemes"] = {
-						{
-							["frameColor"] = {
-								["a"] = 1,
-								["b"] = 0,
-								["g"] = 0,
-								["r"] = 0,
-							},
-							["fontSize"] = 11,
-							["frameBorder"] = 2,
-							["iconSize"] = 14,
-							["mouseoverTexture"] = "Blizzard Tooltip",
-							["fontFlags"] = "OUTLINE",
-							["frameHeight"] = 48,
-							["shadowDisabled"] = true,
-							["barTexture"] = "Smooth v2",
-							["frameBorderTexture"] = "Grid2 Flat",
-							["frameWidths"] = {
-							},
-							["frameTexture"] = "Smooth v2",
-							["mouseoverColor"] = {
-								["a"] = 0.800000011920929,
-								["b"] = 1,
-								["g"] = 1,
-								["r"] = 1,
-							},
-							["orientation"] = "HORIZONTAL",
-							["frameHeights"] = {
-							},
-							["frameContentColor"] = {
-								["a"] = 1,
-								["b"] = 0.1019607843137255,
-								["g"] = 0.1019607843137255,
-								["r"] = 0.1019607843137255,
-							},
-							["mouseoverHighlight"] = false,
-							["frameWidth"] = 160,
-							["frameBorderDistance"] = 1,
-						}, -- [1]
-						{
-							["frameColor"] = {
-								["a"] = 1,
-								["b"] = 0,
-								["g"] = 0,
-								["r"] = 0,
-							},
-							["fontSize"] = 11,
-							["frameBorder"] = 2,
-							["iconSize"] = 14,
-							["mouseoverTexture"] = "Blizzard Tooltip",
-							["fontFlags"] = "OUTLINE",
-							["frameBorderTexture"] = "Grid2 Flat",
-							["frameHeight"] = 38,
-							["frameTexture"] = "Smooth v2",
-							["shadowDisabled"] = true,
-							["barTexture"] = "Smooth v2",
-							["mouseoverColor"] = {
-								["a"] = 0.800000011920929,
-								["b"] = 1,
-								["g"] = 1,
-								["r"] = 1,
-							},
-							["frameWidths"] = {
-							},
-							["frameBorderDistance"] = 1,
-							["orientation"] = "HORIZONTAL",
-							["menuDisabled"] = true,
-							["frameHeights"] = {
-							},
-							["mouseoverHighlight"] = false,
-							["frameContentColor"] = {
-								["a"] = 1,
-								["b"] = 0.1019607843137255,
-								["g"] = 0.1019607843137255,
-								["r"] = 0.1019607843137255,
-							},
-							["frameWidth"] = 76,
-							["frameBorderColor"] = {
-								["a"] = 0,
-								["b"] = 0,
-								["g"] = 0,
-								["r"] = 0,
-							},
-						}, -- [2]
-					},
-					["mouseoverTexture"] = "Blizzard Tooltip",
-					["fontFlags"] = "OUTLINE",
-					["shadowDisabled"] = true,
-					["barTexture"] = "Smooth v2",
-					["mouseoverColor"] = {
-						["a"] = 0.800000011920929,
-					},
-					["menuDisabled"] = true,
-					["frameContentColor"] = {
-						["r"] = 0.1019607843137255,
-						["g"] = 0.1019607843137255,
-						["b"] = 0.1019607843137255,
-					},
-					["orientation"] = "HORIZONTAL",
-					["frameWidth"] = 76,
-					["frameTexture"] = "Smooth v2",
-				},
-			},
-		},
-		["LibDualSpec-1.0"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -389,15 +389,15 @@ Grid2DB = {
 						["g"] = 0,
 						["r"] = 0,
 					},
+					["height"] = 5,
+					["level"] = 2,
+					["orientation"] = "HORIZONTAL",
 					["location"] = {
 						["y"] = 0,
 						["relPoint"] = "BOTTOM",
 						["point"] = "BOTTOM",
 						["x"] = 0,
 					},
-					["level"] = 2,
-					["orientation"] = "HORIZONTAL",
-					["height"] = 5,
 				},
 				["text-down-color"] = {
 					["type"] = "text-color",
@@ -751,9 +751,9 @@ Grid2DB = {
 						["b"] = 1,
 					},
 				},
-				["debuff-MYTHIC+>NecroticWound"] = {
+				["debuff-MYTHIC+>Burst"] = {
 					["type"] = "debuff",
-					["spellName"] = 209858,
+					["spellName"] = 243237,
 					["color1"] = {
 						["a"] = 1,
 						["r"] = 1,
@@ -772,6 +772,20 @@ Grid2DB = {
 						["b"] = 0.2,
 					},
 				},
+				["buff-EarthShield-mine"] = {
+					["spellName"] = 974,
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+				},
+				["leader"] = {
+					["hideInCombat"] = true,
+				},
 				["debuffs-Dispellable"] = {
 					["aurasBak"] = {
 					},
@@ -784,20 +798,6 @@ Grid2DB = {
 						["g"] = 0.2,
 						["r"] = 1,
 					},
-				},
-				["buff-BeaconofLight-mine"] = {
-					["spellName"] = 53563,
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
-				},
-				["leader"] = {
-					["hideInCombat"] = true,
 				},
 				["raid-debuffs2"] = {
 					["type"] = "raid-debuffs",
@@ -830,50 +830,8 @@ Grid2DB = {
 					["useSpellId"] = true,
 					["enableStacks"] = 9,
 				},
-				["debuff-MYTHIC+>Burst"] = {
-					["type"] = "debuff",
-					["spellName"] = 243237,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 0.2,
-						["b"] = 0.2,
-					},
-				},
 				["raid-assistant"] = {
 					["hideInCombat"] = true,
-				},
-				["dungeon-role"] = {
-					["color2"] = {
-						["a"] = 1,
-						["r"] = 0.4509803921568628,
-						["g"] = 0.6,
-						["b"] = 0.4784313725490196,
-					},
-					["color3"] = {
-						["a"] = 1,
-						["r"] = 0.4509803921568628,
-						["g"] = 0.4509803921568628,
-						["b"] = 0.6,
-					},
-					["hideDamagers"] = true,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 0.6,
-						["g"] = 0.4509803921568628,
-						["b"] = 0.4509803921568628,
-					},
-				},
-				["buff-SoothingMist-mine"] = {
-					["spellName"] = 115175,
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
 				},
 				["raid-debuffs"] = {
 					["debuffs"] = {
@@ -1074,22 +1032,53 @@ Grid2DB = {
 						},
 					},
 				},
+				["buff-SoothingMist-mine"] = {
+					["spellName"] = 115175,
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+				},
+				["dungeon-role"] = {
+					["color2"] = {
+						["a"] = 1,
+						["r"] = 0.4509803921568628,
+						["g"] = 0.6,
+						["b"] = 0.4784313725490196,
+					},
+					["color3"] = {
+						["a"] = 1,
+						["r"] = 0.4509803921568628,
+						["g"] = 0.4509803921568628,
+						["b"] = 0.6,
+					},
+					["hideDamagers"] = true,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.6,
+						["g"] = 0.4509803921568628,
+						["b"] = 0.4509803921568628,
+					},
+				},
+				["debuff-MYTHIC+>NecroticWound"] = {
+					["type"] = "debuff",
+					["spellName"] = 209858,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 0.2,
+						["b"] = 0.2,
+					},
+				},
 				["health-low"] = {
 					["color1"] = {
 						["r"] = 0.5333333333333333,
 						["g"] = 0.2,
 						["b"] = 0.2,
-					},
-				},
-				["buff-GlimmerofLight-mine"] = {
-					["spellName"] = "Glimmer of Light",
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 0.3019607843137255,
-						["g"] = 0.3019607843137255,
-						["b"] = 0.3019607843137255,
 					},
 				},
 				["buff-PrayerofMending-mine"] = {
@@ -1103,8 +1092,8 @@ Grid2DB = {
 						["b"] = 1,
 					},
 				},
-				["buff-EarthShield-mine"] = {
-					["spellName"] = 974,
+				["buff-BeaconofLight-mine"] = {
+					["spellName"] = 53563,
 					["type"] = "buff",
 					["mine"] = 1,
 					["color1"] = {
@@ -1112,6 +1101,17 @@ Grid2DB = {
 						["r"] = 1,
 						["g"] = 1,
 						["b"] = 1,
+					},
+				},
+				["buff-GlimmerofLight-mine"] = {
+					["spellName"] = "Glimmer of Light",
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 0.3019607843137255,
+						["g"] = 0.3019607843137255,
+						["b"] = 0.3019607843137255,
 					},
 				},
 			},
@@ -1145,10 +1145,10 @@ Grid2DB = {
 				["icon-right1"] = {
 					["buff-PrayerofMending-mine"] = 51,
 					["buff-Rejuvenation-mine"] = 54,
-					["buff-RenewingMist-mine"] = 55,
+					["buff-Atonement-mine"] = 50,
 					["buff-Riptide-mine"] = 53,
 					["buff-GlimmerofLight-mine"] = 52,
-					["buff-Atonement-mine"] = 50,
+					["buff-RenewingMist-mine"] = 55,
 				},
 				["icons-bottomleft"] = {
 					["debuffs-Dispellable"] = 50,
@@ -1206,11 +1206,11 @@ Grid2DB = {
 				},
 				["icons-topleft-large"] = {
 					["buffs-DefensiveCooldowns"] = 53,
-					["raid-assistant"] = 55,
 					["buff-BeaconofLight-mine"] = 51,
-					["buff-EnvelopingMist-mine"] = 52,
-					["leader"] = 54,
+					["raid-assistant"] = 55,
 					["buff-BeaconofFaith-mine"] = 50,
+					["leader"] = 54,
+					["buff-EnvelopingMist-mine"] = 52,
 				},
 				["icon-top"] = {
 				},
@@ -1222,11 +1222,11 @@ Grid2DB = {
 				},
 				["icons-topleft"] = {
 					["buffs-DefensiveCooldowns"] = 53,
-					["raid-assistant"] = 55,
 					["buff-BeaconofLight-mine"] = 51,
-					["buff-EnvelopingMist-mine"] = 52,
-					["leader"] = 54,
+					["raid-assistant"] = 55,
 					["buff-BeaconofFaith-mine"] = 50,
+					["leader"] = 54,
+					["buff-EnvelopingMist-mine"] = 52,
 				},
 				["heals"] = {
 				},

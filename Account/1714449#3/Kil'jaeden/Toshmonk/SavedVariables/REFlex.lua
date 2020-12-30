@@ -25,12 +25,6 @@ REFlexSettings = {
 REFlexDatabase = {
 	{
 		["Map"] = 1505,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 50,
-		["Season"] = 30,
-		["PlayerNum"] = 5,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -147,12 +141,18 @@ REFlexDatabase = {
 				9, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 50,
+		["PlayerNum"] = 5,
 		["isArena"] = true,
-		["Time"] = 1609223741,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609223741,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -172,12 +172,6 @@ REFlexDatabase = {
 	}, -- [1]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 29,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -294,12 +288,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 29,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609223859,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609223859,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -319,12 +319,6 @@ REFlexDatabase = {
 	}, -- [2]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 20,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -441,12 +435,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 20,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609223973,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609223973,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -466,12 +466,6 @@ REFlexDatabase = {
 	}, -- [3]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 55,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -588,12 +582,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 55,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609224129,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609224129,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -613,12 +613,6 @@ REFlexDatabase = {
 	}, -- [4]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 31,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -735,12 +729,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 31,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609224267,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609224267,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -760,12 +760,6 @@ REFlexDatabase = {
 	}, -- [5]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 72,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Angelblade-BleedingHollow", -- [1]
@@ -882,12 +876,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 72,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609224420,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609224420,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -907,12 +907,6 @@ REFlexDatabase = {
 	}, -- [6]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 33,
-		["Season"] = 30,
-		["PlayerNum"] = 4,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -1029,12 +1023,18 @@ REFlexDatabase = {
 				2, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 33,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1609224535,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609224535,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1054,12 +1054,6 @@ REFlexDatabase = {
 	}, -- [7]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 65,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -1176,12 +1170,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 65,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609224681,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609224681,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1201,12 +1201,6 @@ REFlexDatabase = {
 	}, -- [8]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 31,
-		["Season"] = 30,
-		["PlayerNum"] = 5,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -1323,12 +1317,18 @@ REFlexDatabase = {
 				10, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 31,
+		["PlayerNum"] = 5,
 		["isArena"] = true,
-		["Time"] = 1609224811,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609224811,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1348,12 +1348,6 @@ REFlexDatabase = {
 	}, -- [9]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 64,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Imascreamer-Vashj", -- [1]
@@ -1470,12 +1464,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 64,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609224971,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609224971,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1495,12 +1495,6 @@ REFlexDatabase = {
 	}, -- [10]
 	{
 		["Map"] = 1505,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 86,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Hybras-Proudmoore", -- [1]
@@ -1617,12 +1611,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 86,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609225140,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609225140,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1642,12 +1642,6 @@ REFlexDatabase = {
 	}, -- [11]
 	{
 		["Map"] = 1505,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 51,
-		["Season"] = 30,
-		["PlayerNum"] = 2,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -1764,12 +1758,18 @@ REFlexDatabase = {
 				18, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 51,
+		["PlayerNum"] = 2,
 		["isArena"] = true,
-		["Time"] = 1609225284,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609225284,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1789,12 +1789,6 @@ REFlexDatabase = {
 	}, -- [12]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 73,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -1911,12 +1905,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 73,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609225439,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609225439,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1936,12 +1936,6 @@ REFlexDatabase = {
 	}, -- [13]
 	{
 		["Map"] = 2373,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 114,
-		["Season"] = 30,
-		["PlayerNum"] = 5,
 		["Players"] = {
 			{
 				"Donson-Ysera", -- [1]
@@ -2058,12 +2052,18 @@ REFlexDatabase = {
 				69, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 114,
+		["PlayerNum"] = 5,
 		["isArena"] = true,
-		["Time"] = 1609225640,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609225640,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2083,12 +2083,6 @@ REFlexDatabase = {
 	}, -- [14]
 	{
 		["Map"] = 617,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 146,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Critmypánts-BleedingHollow", -- [1]
@@ -2205,12 +2199,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 146,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609225935,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609225935,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2230,12 +2230,6 @@ REFlexDatabase = {
 	}, -- [15]
 	{
 		["Map"] = 617,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 40,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Ozg-Illidan", -- [1]
@@ -2352,12 +2346,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 40,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609226087,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609226087,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2377,12 +2377,6 @@ REFlexDatabase = {
 	}, -- [16]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 36,
-		["Season"] = 30,
-		["PlayerNum"] = 5,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -2499,12 +2493,18 @@ REFlexDatabase = {
 				38, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 36,
+		["PlayerNum"] = 5,
 		["isArena"] = true,
-		["Time"] = 1609226209,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609226209,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2524,12 +2524,6 @@ REFlexDatabase = {
 	}, -- [17]
 	{
 		["Map"] = 1552,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 38,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Imyourdotter-Tichondrius", -- [1]
@@ -2646,12 +2640,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 38,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609226343,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609226343,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2671,12 +2671,6 @@ REFlexDatabase = {
 	}, -- [18]
 	{
 		["Map"] = 2373,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 46,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -2793,12 +2787,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 46,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609226483,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609226483,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2818,12 +2818,6 @@ REFlexDatabase = {
 	}, -- [19]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
-		["PlayerSide"] = 1,
-		["PlayersNum"] = 6,
-		["Duration"] = 60,
-		["Season"] = 30,
-		["PlayerNum"] = 6,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -2940,12 +2934,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 60,
+		["PlayerNum"] = 6,
 		["isArena"] = true,
-		["Time"] = 1609226625,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 1,
 		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Time"] = 1609226625,
+		["Winner"] = 1,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2965,12 +2965,6 @@ REFlexDatabase = {
 	}, -- [20]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
-		["PlayerSide"] = 0,
-		["PlayersNum"] = 6,
-		["Duration"] = 31,
-		["Season"] = 30,
-		["PlayerNum"] = 5,
 		["Players"] = {
 			{
 				"Aethael-Area52", -- [1]
@@ -3087,12 +3081,18 @@ REFlexDatabase = {
 				56, -- [17]
 			}, -- [6]
 		},
+		["Season"] = 30,
+		["PlayersNum"] = 6,
+		["Duration"] = 31,
+		["PlayerNum"] = 5,
 		["isArena"] = true,
-		["Time"] = 1609226757,
-		["isRated"] = true,
 		["Version"] = 302,
-		["Winner"] = 0,
 		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Time"] = 1609226757,
+		["Winner"] = 0,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]

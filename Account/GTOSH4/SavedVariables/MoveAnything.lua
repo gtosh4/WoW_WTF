@@ -9,23 +9,6 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
-				["VehicleSeatIndicator"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						40.00000381469727, -- [4]
-						15, -- [5]
-					},
-					["name"] = "VehicleSeatIndicator",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-621.16748046875, -- [4]
-						-899.1663818359375, -- [5]
-					},
-				},
 				["DurabilityFrame"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -41,6 +24,41 @@ MADB = {
 						"BOTTOMRIGHT", -- [3]
 						-2530.166931152344, -- [4]
 						172.4993896484375, -- [5]
+					},
+				},
+				["UIWidgetBelowMinimapContainerFrame"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "UIWidgetBelowMinimapContainerFrame",
+					["scale"] = 1,
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-361.0102767447787, -- [4]
+						14.16689652202727, -- [5]
+					},
+					["orgScale"] = 1,
+				},
+				["TooltipMover"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						0, -- [3]
+						0, -- [4]
+					},
+					["name"] = "TooltipMover",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						1105.833618164063, -- [4]
+						-9.9991455078125, -- [5]
 					},
 				},
 				["PlayerBuffsMover"] = {
@@ -115,39 +133,38 @@ MADB = {
 						461.0001220703125, -- [5]
 					},
 				},
-				["UIWidgetBelowMinimapContainerFrame"] = {
+				["VehicleSeatIndicator"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
 						"BOTTOMRIGHT", -- [3]
-						0, -- [4]
-						0, -- [5]
+						40.00000381469727, -- [4]
+						15, -- [5]
 					},
-					["name"] = "UIWidgetBelowMinimapContainerFrame",
-					["scale"] = 1,
+					["name"] = "VehicleSeatIndicator",
 					["pos"] = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
 						"BOTTOMRIGHT", -- [3]
-						-361.0102767447787, -- [4]
-						14.16689652202727, -- [5]
+						-621.16748046875, -- [4]
+						-899.1663818359375, -- [5]
 					},
-					["orgScale"] = 1,
 				},
-				["TooltipMover"] = {
+				["BattlefieldMapFrame"] = {
 					["orgPos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						0, -- [3]
+						"TOPLEFT", -- [1]
+						"BattlefieldMapTab", -- [2]
+						"BOTTOMLEFT", -- [3]
 						0, -- [4]
+						-5.000000476837158, -- [5]
 					},
-					["name"] = "TooltipMover",
+					["name"] = "BattlefieldMapFrame",
 					["pos"] = {
-						"TOP", -- [1]
-						"UIParent", -- [2]
-						"TOP", -- [3]
-						1105.833618164063, -- [4]
-						-9.9991455078125, -- [5]
+						"TOPLEFT", -- [1]
+						"BattlefieldMapTab", -- [2]
+						"BOTTOMLEFT", -- [3]
+						-36.66552734375, -- [4]
+						107.4998779296875, -- [5]
 					},
 				},
 			},

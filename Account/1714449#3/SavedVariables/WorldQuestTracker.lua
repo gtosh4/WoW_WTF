@@ -60,10 +60,10 @@ WQTrackerDB = {
 					["All-Seer Xanarian"] = 127096,
 					["Worldsplitter Skuul"] = 127118,
 					["愤怒领主亚雷兹"] = 126338,
-					["Skreeg the Devourer"] = 126912,
-					["Ven'orn"] = 126115,
-					["Foul Manifestation"] = 151202,
 					["The Many-Faced Devourer"] = 127581,
+					["Ven'orn"] = 126115,
+					["Skreeg the Devourer"] = 126912,
+					["Foul Manifestation"] = 151202,
 					["Rumbling Goliath"] = 141620,
 					["Overseer Y'Beda"] = 124440,
 					["Earthliving Giant"] = 140760,
@@ -228,13 +228,13 @@ WQTrackerDB = {
 				},
 			},
 			["quests_tracked"] = {
-				["Player-9-0B608E72"] = {
+				["Player-3676-0AD945D6"] = {
 				},
-				["Player-3676-0AD945E6"] = {
+				["Player-9-0B608E72"] = {
 				},
 				["Player-3676-0AD143A0"] = {
 				},
-				["Player-3676-0AD945D6"] = {
+				["Player-3676-0AD945E6"] = {
 				},
 			},
 			["quests_all_characters"] = {
@@ -243,61 +243,137 @@ WQTrackerDB = {
 				["Player-3676-0AD945E6"] = {
 				},
 				["Player-9-0B608E72"] = {
-					[59578] = {
-						["expireAt"] = 1609271386,
-						["rewardAmount"] = 35,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[60858] = {
-						["expireAt"] = 1609254106,
-						["rewardAmount"] = 70,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61784] = {
-						["expireAt"] = 1609254046,
-						["rewardAmount"] = "15",
-						["rewardTexture"] = 133675,
-					},
-					[59585] = {
-						["expireAt"] = 1609236826,
+					[62451] = {
+						["expireAt"] = 1609323193,
 						["rewardAmount"] = 105,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[62280] = {
-						["expireAt"] = 1609254106,
+					[61948] = {
+						["expireAt"] = 1609340458,
+						["rewardAmount"] = "14",
+						["rewardTexture"] = 2004597,
+					},
+					[61967] = {
+						["expireAt"] = 1609392313,
+						["rewardAmount"] = "|cff2292FF158",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[59718] = {
+						["expireAt"] = 1609323145,
+						["rewardAmount"] = 0,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[60844] = {
+						["expireAt"] = 1609375033,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61879] = {
+						["expireAt"] = 1609340485,
+						["rewardAmount"] = 0,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[60574] = {
+						["expireAt"] = 1609323178,
+						["rewardAmount"] = 70,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[59585] = {
+						["expireAt"] = 1609357753,
+						["rewardAmount"] = 140,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61813] = {
+						["expireAt"] = 1609858873,
+						["rewardAmount"] = 250,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[61791] = {
+						["expireAt"] = 1609340473,
+						["rewardAmount"] = "19",
+						["rewardTexture"] = 2004597,
+					},
+					[59599] = {
+						["expireAt"] = 1609357705,
 						["rewardAmount"] = 70,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
 				},
 			},
 			["player_names"] = {
+				["Player-3676-0AD945D6"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Toshaman",
+					["realm"] = "Area 52",
+				},
 				["Player-9-0B608E72"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Kil'jaeden",
-				},
-				["Player-3676-0AD945E6"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Area 52",
 				},
 				["Player-3676-0AD143A0"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Area 52",
 				},
-				["Player-3676-0AD945D6"] = {
-					["class"] = "SHAMAN",
-					["name"] = "Toshaman",
+				["Player-3676-0AD945E6"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
 					["realm"] = "Area 52",
 				},
 			},
 			["history"] = {
 				["period"] = {
 					["global"] = {
-						["201217"] = {
+						["201128"] = {
 							["quest"] = 2,
-							["artifact"] = 500,
+							["artifact"] = 105,
+						},
+						["200808"] = {
+							["quest"] = 1,
+						},
+						["201212"] = {
+							["quest"] = 1,
+							["artifact"] = 140,
+						},
+						["201127"] = {
+							["quest"] = 2,
+							["artifact"] = 105,
+						},
+						["201216"] = {
+							["quest"] = 3,
+							["artifact"] = 35,
+						},
+						["201219"] = {
+							["quest"] = 3,
+							["artifact"] = 70,
+						},
+						["201211"] = {
+							["quest"] = 3,
+							["artifact"] = 320,
+						},
+						["201202"] = {
+							["quest"] = 3,
+							["resource"] = 177,
+						},
+						["201222"] = {
+							["quest"] = 1,
+							["artifact"] = 250,
+						},
+						["201213"] = {
+							["quest"] = 2,
+							["artifact"] = 70,
+						},
+						["201204"] = {
+							["quest"] = 5,
+							["artifact"] = 595,
+						},
+						["201225"] = {
+							["quest"] = 1,
+							["artifact"] = 105,
+						},
+						["201230"] = {
+							["quest"] = 3,
 						},
 						["201206"] = {
 							["quest"] = 3,
@@ -308,26 +384,8 @@ WQTrackerDB = {
 							["quest"] = 3,
 							["resource"] = 175,
 						},
-						["201128"] = {
-							["quest"] = 2,
-							["artifact"] = 105,
-						},
-						["201213"] = {
-							["quest"] = 2,
-							["artifact"] = 70,
-						},
-						["201219"] = {
-							["quest"] = 3,
-							["artifact"] = 70,
-						},
-						["201207"] = {
-							["quest"] = 3,
-						},
 						["200811"] = {
 							["quest"] = 2,
-						},
-						["200808"] = {
-							["quest"] = 1,
 						},
 						["201218"] = {
 							["quest"] = 3,
@@ -336,14 +394,6 @@ WQTrackerDB = {
 						["201214"] = {
 							["quest"] = 1,
 							["artifact"] = 250,
-						},
-						["201209"] = {
-							["quest"] = 1,
-							["artifact"] = 70,
-						},
-						["201203"] = {
-							["quest"] = 3,
-							["gold"] = 2699900,
 						},
 						["201125"] = {
 							["artifact"] = 490,
@@ -356,42 +406,26 @@ WQTrackerDB = {
 							["quest"] = 12,
 							["gold"] = 2576000,
 						},
-						["201205"] = {
-							["quest"] = 1,
-							["artifact"] = 140,
-						},
-						["201208"] = {
-							["quest"] = 1,
-							["artifact"] = 250,
+						["201215"] = {
+							["quest"] = 5,
+							["artifact"] = 350,
 						},
 						["200727"] = {
 							["artifact"] = 164,
 							["quest"] = 1,
 							["resource"] = 164,
 						},
-						["201216"] = {
-							["quest"] = 3,
-							["artifact"] = 35,
-						},
-						["201127"] = {
-							["quest"] = 2,
-							["artifact"] = 105,
-						},
 						["201223"] = {
 							["quest"] = 1,
 							["artifact"] = 140,
 						},
-						["201211"] = {
-							["quest"] = 3,
-							["artifact"] = 320,
+						["201217"] = {
+							["quest"] = 2,
+							["artifact"] = 500,
 						},
-						["201126"] = {
+						["201209"] = {
 							["quest"] = 1,
-							["artifact"] = 140,
-						},
-						["201202"] = {
-							["quest"] = 3,
-							["resource"] = 177,
+							["artifact"] = 70,
 						},
 						["201130"] = {
 							["quest"] = 3,
@@ -401,27 +435,26 @@ WQTrackerDB = {
 							["quest"] = 4,
 							["artifact"] = 390,
 						},
-						["201222"] = {
-							["quest"] = 1,
-							["artifact"] = 250,
+						["201207"] = {
+							["quest"] = 3,
 						},
 						["201210"] = {
 							["quest"] = 3,
 							["artifact"] = 350,
 						},
-						["201204"] = {
-							["quest"] = 5,
-							["artifact"] = 595,
+						["201203"] = {
+							["quest"] = 3,
+							["gold"] = 2699900,
 						},
-						["201215"] = {
-							["quest"] = 5,
-							["artifact"] = 350,
-						},
-						["201225"] = {
+						["201205"] = {
 							["quest"] = 1,
-							["artifact"] = 105,
+							["artifact"] = 140,
 						},
-						["201212"] = {
+						["201208"] = {
+							["quest"] = 1,
+							["artifact"] = 250,
+						},
+						["201126"] = {
 							["quest"] = 1,
 							["artifact"] = 140,
 						},
@@ -440,6 +473,10 @@ WQTrackerDB = {
 							["201128"] = {
 								["quest"] = 2,
 								["artifact"] = 105,
+							},
+							["201216"] = {
+								["quest"] = 3,
+								["artifact"] = 35,
 							},
 							["201214"] = {
 								["quest"] = 1,
@@ -481,9 +518,9 @@ WQTrackerDB = {
 								["quest"] = 2,
 								["artifact"] = 70,
 							},
-							["201216"] = {
-								["quest"] = 3,
-								["artifact"] = 35,
+							["201208"] = {
+								["quest"] = 1,
+								["artifact"] = 250,
 							},
 							["201219"] = {
 								["quest"] = 3,
@@ -533,17 +570,16 @@ WQTrackerDB = {
 								["quest"] = 5,
 								["artifact"] = 595,
 							},
-							["201208"] = {
-								["quest"] = 1,
-								["artifact"] = 250,
+							["201215"] = {
+								["quest"] = 5,
+								["artifact"] = 350,
 							},
 							["201225"] = {
 								["quest"] = 1,
 								["artifact"] = 105,
 							},
-							["201215"] = {
-								["quest"] = 5,
-								["artifact"] = 350,
+							["201230"] = {
+								["quest"] = 3,
 							},
 						},
 						["Player-3676-0AD945D6"] = {
@@ -599,7 +635,7 @@ WQTrackerDB = {
 						[59717] = 2,
 						[59848] = 1,
 						[57443] = 2,
-						[58975] = 1,
+						[58975] = 2,
 						[57328] = 1,
 						[58221] = 1,
 						[56074] = 1,
@@ -620,6 +656,7 @@ WQTrackerDB = {
 						[61814] = 1,
 						[60929] = 2,
 						[61060] = 1,
+						[60872] = 1,
 						[61689] = 1,
 						[61549] = 2,
 						[51051] = 1,
@@ -639,15 +676,16 @@ WQTrackerDB = {
 						[59599] = 1,
 						[59680] = 4,
 						[61148] = 1,
-						["total"] = 91,
+						["total"] = 94,
 						[59642] = 2,
 						[61520] = 1,
 						[61540] = 3,
-						[60533] = 1,
+						[60533] = 2,
 						[58601] = 1,
 					},
 					["character"] = {
 						["Player-9-0B608E72"] = {
+							[60534] = 1,
 							[60532] = 1,
 							[61520] = 1,
 							[62235] = 2,
@@ -660,7 +698,7 @@ WQTrackerDB = {
 							[60654] = 1,
 							[59585] = 1,
 							[61540] = 2,
-							["total"] = 74,
+							["total"] = 77,
 							[59717] = 2,
 							[58144] = 1,
 							[62241] = 1,
@@ -679,7 +717,7 @@ WQTrackerDB = {
 							[59617] = 1,
 							[60770] = 1,
 							[58505] = 1,
-							[60533] = 1,
+							[60533] = 2,
 							[60574] = 1,
 							[59789] = 1,
 							[59836] = 1,
@@ -698,12 +736,12 @@ WQTrackerDB = {
 							[58084] = 1,
 							[57443] = 2,
 							[59600] = 1,
-							[58975] = 1,
+							[58975] = 2,
 							[61343] = 1,
 							[60929] = 2,
 							[61631] = 1,
 							[61815] = 1,
-							[60534] = 1,
+							[60872] = 1,
 							[61189] = 2,
 							[62451] = 1,
 							[61337] = 1,

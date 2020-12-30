@@ -54,6 +54,16 @@ AngryAssign_Categories = {
 }
 AngryAssign_State = {
 	["directionUp"] = false,
+	["locked"] = true,
+	["tree"] = {
+		["groups"] = {
+		},
+		["scrollvalue"] = 0,
+		["fullwidth"] = 666.0001220703125,
+		["selected"] = 4118338490,
+		["treewidth"] = 175,
+		["treesizable"] = true,
+	},
 	["display"] = {
 		["y"] = -135.3328857421875,
 		["x"] = 0,
@@ -66,16 +76,6 @@ AngryAssign_State = {
 		["top"] = 887.5000610351562,
 		["left"] = 421.6665344238281,
 		["width"] = 700,
-	},
-	["locked"] = true,
-	["tree"] = {
-		["groups"] = {
-		},
-		["scrollvalue"] = 0,
-		["fullwidth"] = 666.0001220703125,
-		["selected"] = 4118338490,
-		["treewidth"] = 175,
-		["treesizable"] = true,
 	},
 }
 AngryAssign_Config = {

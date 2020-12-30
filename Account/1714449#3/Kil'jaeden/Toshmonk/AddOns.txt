@@ -28,3 +28,4 @@ Blizzard_CompactRaidFrames: disabled
 Blizzard_CUFProfiles: disabled
 BigWigs_CastleNathria: enabled
 BigWigs_Shadowlands: enabled
+LittleWigs_WrathOfTheLichKing: enabled
