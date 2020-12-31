@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrameMover
-FrameLevel: 1
-Anchor: RIGHT
-X: -6
-Y: 74
-W: 235
-H: 700
 Frame: TooltipMover
 FrameLevel: 2
 Anchor: RIGHT
@@ -13,6 +6,13 @@ X: -376
 Y: 218
 W: 150
 H: 80
+Frame: ObjectiveTrackerFrameMover
+FrameLevel: 1
+Anchor: RIGHT
+X: -6
+Y: 74
+W: 235
+H: 700
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -48,6 +48,13 @@ X: 31
 Y: 219
 W: 286
 H: 76
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: TOP
+X: -581
+Y: -75
+W: 128
+H: 64
 Frame: ColorPickerFrame
 FrameLevel: 23
 Anchor: CENTER
@@ -71,9 +78,9 @@ W: 715
 H: 490
 Frame: BDLC
 FrameLevel: 1
-Anchor: TOPLEFT
-X: 376
-Y: -34
+Anchor: TOP
+X: 561
+Y: -35
 W: 600
 H: 400
 Frame: BDLC Roll Window
@@ -118,13 +125,6 @@ X: 404
 Y: 166
 W: 27
 H: 26
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: TOP
-X: -581
-Y: -75
-W: 244
-H: 226
 Frame: TalkingHeadFrame
 FrameLevel: 3
 Anchor: BOTTOM

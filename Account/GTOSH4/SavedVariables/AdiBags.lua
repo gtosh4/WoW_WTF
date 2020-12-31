@@ -24,13 +24,9 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["Equipment"] = {
+		["Covenant Items"] = {
 		},
 		["MoneyFrame"] = {
-		},
-		["ItemSets"] = {
-		},
-		["DataSource"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -47,12 +43,12 @@ AdiBagsDB = {
 						["Echoes of Ny'alotha"] = false,
 						["Coalescing Visions"] = false,
 						["Apexis Crystal"] = false,
-						["Garrison Resources"] = false,
-						["Order Resources"] = false,
+						["Timewarped Badge"] = false,
+						["Titan Residuum"] = false,
 						["Reservoir Anima"] = false,
 						["Prismatic Manapearl"] = false,
-						["Titan Residuum"] = false,
-						["Timewarped Badge"] = false,
+						["Order Resources"] = false,
+						["Garrison Resources"] = false,
 					},
 					["text"] = {
 						["name"] = "Friz Quadrata TT",
@@ -60,9 +56,13 @@ AdiBagsDB = {
 				},
 			},
 		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
+		},
 		["Junk"] = {
 		},
-		["Covenant Items"] = {
+		["Equipment"] = {
 		},
 	},
 	["char"] = {
@@ -79,12 +79,12 @@ AdiBagsDB = {
 		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshaman - Area 52"] = "Default",
 		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshpriest - Azralon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
