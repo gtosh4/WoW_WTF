@@ -36,7 +36,6 @@ MADB = {
 					},
 					["name"] = "UIWidgetBelowMinimapContainerFrame",
 					["scale"] = 1,
-					["orgScale"] = 1,
 					["pos"] = {
 						"TOPRIGHT", -- [1]
 						"MinimapCluster", -- [2]
@@ -44,6 +43,7 @@ MADB = {
 						-361.0102767447787, -- [4]
 						14.16689652202727, -- [5]
 					},
+					["orgScale"] = 1,
 				},
 				["TooltipMover"] = {
 					["orgPos"] = {
@@ -74,8 +74,8 @@ MADB = {
 						"TOPRIGHT", -- [1]
 						"UIParent", -- [2]
 						"TOPRIGHT", -- [3]
-						-7.497802734375, -- [4]
-						-4.9993896484375, -- [5]
+						-57.498046875, -- [4]
+						-2.4991455078125, -- [5]
 					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
@@ -93,16 +93,6 @@ MADB = {
 						"TOPRIGHT", -- [3]
 						-3.33251953125, -- [4]
 						-241.6663208007813, -- [5]
-					},
-				},
-				["BattlefieldMapFrame"] = {
-					["name"] = "BattlefieldMapFrame",
-					["pos"] = {
-						"TOPLEFT", -- [1]
-						"BattlefieldMapTab", -- [2]
-						"BOTTOMLEFT", -- [3]
-						-36.66552734375, -- [4]
-						107.4998779296875, -- [5]
 					},
 				},
 				["ChallengesKeystoneFrame"] = {
@@ -126,23 +116,6 @@ MADB = {
 						461.0001220703125, -- [5]
 					},
 				},
-				["VehicleSeatIndicator"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						40.00000381469727, -- [4]
-						15, -- [5]
-					},
-					["name"] = "VehicleSeatIndicator",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-621.16748046875, -- [4]
-						-899.1663818359375, -- [5]
-					},
-				},
 				["ChatFrameChannelButton"] = {
 					["orgPos"] = {
 						"TOP", -- [1]
@@ -160,12 +133,39 @@ MADB = {
 						0, -- [5]
 					},
 				},
+				["VehicleSeatIndicator"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						40.00000381469727, -- [4]
+						15, -- [5]
+					},
+					["name"] = "VehicleSeatIndicator",
+					["pos"] = {
+						"TOPRIGHT", -- [1]
+						"MinimapCluster", -- [2]
+						"BOTTOMRIGHT", -- [3]
+						-621.16748046875, -- [4]
+						-899.1663818359375, -- [5]
+					},
+				},
+				["BattlefieldMapFrame"] = {
+					["name"] = "BattlefieldMapFrame",
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"BattlefieldMapTab", -- [2]
+						"BOTTOMLEFT", -- [3]
+						-36.66552734375, -- [4]
+						107.4998779296875, -- [5]
+					},
+				},
 			},
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = true,
 	["frameListRows"] = 18,
+	["noBags"] = true,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

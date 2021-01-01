@@ -28,12 +28,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3307466903,
 		["Contents"] = "Soaks\n||cFF97FFECVita||r\n||cmageArnr\n||cmageDelpi||r\n||cwarlockCJ||r\n||chunterPax||r\n||cshamanYukio||r\n\n||cFFC9A3FFVoid||r\n||chunterThunder||r\n||cdemonhunterAndrew||r\n||cdeathknightRathux||r\n||cwarriorPangu||r\n||cwarriorThac||r",
 	},
-	[491590631] = {
-		["Updated"] = 1608444755,
-		["Name"] = "huntsman",
-		["Id"] = 491590631,
-		["UpdateId"] = 103325954,
-		["Contents"] = "g1 {circle}\n\ng2 {diamond}\n\ng3 {star}\n\ng4 {triangle}",
+	[1527653321] = {
+		["Updated"] = 1601083696,
+		["Name"] = "CARA main g1",
+		["Id"] = 1527653321,
+		["UpdateId"] = 3218032560,
+		["Contents"] = "Far Gaze\n||cmonkPeace||r\n||chunterAeth||r\n||cdemonhunterLuna||r\n||cdruidOX||r\n||cdemonhunterJohnny||r\n||cpaladinSci||r\n\n\nG1+2 Left\nG3+4 Right",
 	},
 	[1607221071] = {
 		["Updated"] = 1605324589,
@@ -56,12 +56,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 1661163393,
 		["Contents"] = "Far Gaze\n||cpaladinBarbados||r\n||chunterThunderrz||r\n||chunterMoreph||r\n||chunterPangur\n||cwarriorThac||r\n||cpaladinGordy||r\n||cpriestJess||r\n\n\nG1+2 Left\nG3+4 Right",
 	},
-	[1527653321] = {
-		["Updated"] = 1601083696,
-		["Name"] = "CARA main g1",
-		["Id"] = 1527653321,
-		["UpdateId"] = 3218032560,
-		["Contents"] = "Far Gaze\n||cmonkPeace||r\n||chunterAeth||r\n||cdemonhunterLuna||r\n||cdruidOX||r\n||cdemonhunterJohnny||r\n||cpaladinSci||r\n\n\nG1+2 Left\nG3+4 Right",
+	[491590631] = {
+		["Updated"] = 1608444755,
+		["Name"] = "huntsman",
+		["Id"] = 491590631,
+		["UpdateId"] = 103325954,
+		["Contents"] = "g1 {circle}\n\ng2 {diamond}\n\ng3 {star}\n\ng4 {triangle}",
 	},
 }
 AngryAssign_Categories = {
@@ -84,10 +84,10 @@ AngryAssign_State = {
 		["groups"] = {
 		},
 		["scrollvalue"] = 0,
-		["treesizable"] = true,
+		["fullwidth"] = 666.0001220703125,
 		["selected"] = 4118338490,
 		["treewidth"] = 175,
-		["fullwidth"] = 666.0001220703125,
+		["treesizable"] = true,
 	},
 	["locked"] = true,
 	["directionUp"] = false,

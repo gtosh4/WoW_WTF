@@ -10,7 +10,8 @@ VWQL = {
 	},
 	["ReverseSort"] = true,
 	["Toshpriest-Area52"] = {
-		["VERSION"] = 96,
+		["FilterType"] = {
+		},
 		["Filter"] = 63,
 		["Quests"] = {
 			[52884] = true,
@@ -19,16 +20,39 @@ VWQL = {
 			[50853] = true,
 			[55342] = true,
 			[52383] = true,
-			[51316] = true,
 			[52937] = true,
+			[51316] = true,
 		},
-		["FilterType"] = {
-		},
+		["VERSION"] = 96,
 	},
 	["Sort"] = 5,
 	["VERSION"] = 97,
-	["Toshmonk-Area52"] = {
+	["Toshmonk-Kil'jaeden"] = {
+		["FilterType"] = {
+		},
+		["Filter"] = 63,
+		["Quests"] = {
+			[57328] = true,
+			[60655] = true,
+			[62258] = true,
+			[61886] = true,
+			[61813] = true,
+			[60602] = true,
+		},
+		["VERSION"] = 97,
+	},
+	["Toshaman-Area52"] = {
+		["FilterType"] = {
+		},
 		["VERSION"] = 96,
+		["Quests"] = {
+			[57465] = true,
+			[59642] = true,
+		},
+		["Filter"] = 63,
+	},
+	["Toshmonk-Area52"] = {
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -40,53 +64,24 @@ VWQL = {
 			[51239] = true,
 			[51179] = true,
 			[55303] = true,
-			[49444] = true,
+			[52884] = true,
 			[51122] = true,
 			[51185] = true,
-			[51108] = true,
-			[52937] = true,
+			[50503] = true,
+			[51157] = true,
 			[55342] = true,
-			[50689] = true,
-			[50853] = true,
+			[54060] = true,
+			[50574] = true,
 			[52803] = true,
 			[51316] = true,
 			[50511] = true,
-			[50574] = true,
-			[54060] = true,
-			[51157] = true,
-			[50503] = true,
-			[52884] = true,
+			[50853] = true,
+			[50689] = true,
+			[52937] = true,
+			[51108] = true,
+			[49444] = true,
 		},
-		["Filter"] = 63,
-	},
-	["Toshaman-Area52"] = {
-		["Filter"] = 63,
 		["VERSION"] = 96,
-		["Quests"] = {
-			[57465] = true,
-			[59642] = true,
-		},
-		["FilterType"] = {
-		},
-	},
-	["Toshmonk-Kil'jaeden"] = {
-		["VERSION"] = 97,
-		["Filter"] = 63,
-		["Quests"] = {
-			[57443] = true,
-			[61883] = true,
-			[59717] = true,
-			[60602] = true,
-			[62258] = true,
-			[59789] = true,
-			[60911] = true,
-			[61549] = true,
-			[60657] = true,
-			[61787] = true,
-			[61813] = true,
-		},
-		["FilterType"] = {
-		},
 	},
 	["HideLegion"] = true,
 }
