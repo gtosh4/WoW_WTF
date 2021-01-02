@@ -61,7 +61,7 @@ M6DB = {
 		}, -- [8]
 		{
 			"macrotext", -- [1]
-			"#showtooltip Leap of Faith\n/cast [@mouseover,noharm] Leap of Faith", -- [2]
+			"#showtooltip Leap of Faith\n/cast [@mouseover,noharm][@target] Leap of Faith", -- [2]
 			["group"] = 1,
 			["name"] = "grip",
 		}, -- [9]

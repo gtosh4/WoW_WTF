@@ -151,6 +151,13 @@ MADB = {
 					},
 				},
 				["BattlefieldMapFrame"] = {
+					["orgPos"] = {
+						"TOPLEFT", -- [1]
+						"BattlefieldMapTab", -- [2]
+						"BOTTOMLEFT", -- [3]
+						0, -- [4]
+						-5.000000476837158, -- [5]
+					},
 					["name"] = "BattlefieldMapFrame",
 					["pos"] = {
 						"TOPLEFT", -- [1]

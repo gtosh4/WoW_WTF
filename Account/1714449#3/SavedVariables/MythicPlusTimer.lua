@@ -724,8 +724,8 @@ MythicPlusTimerDB = {
 			["is_prideful"] = true,
 			["quantity_number"] = 273,
 			["cm_level"] = 14,
+			["time_left_2"] = 0,
 			["deathcount"] = 4,
-			["time_left_3"] = 0,
 			["quantity_completed"] = true,
 			["final_quantity_number"] = 273,
 			["zone_name"] = "Halls of Atonement",
@@ -739,9 +739,9 @@ MythicPlusTimerDB = {
 				["Andruw-Area52"] = 1,
 				["Weedsong-Area52"] = 1,
 			},
-			["affixes_key"] = "affixes-9-122-4-121",
-			["is_reaping"] = false,
 			["max_time"] = 1860,
+			["is_reaping"] = false,
+			["current_map_id"] = 378,
 			["current_zone_id"] = 2287,
 			["affixes"] = {
 				9, -- [1]
@@ -749,10 +749,6 @@ MythicPlusTimerDB = {
 				4, -- [3]
 				121, -- [4]
 			},
-			["current_map_id"] = 378,
-			["pull"] = {
-			},
-			["time_left_2"] = 0,
 			["times"] = {
 				790, -- [1]
 				1049, -- [2]
@@ -765,6 +761,10 @@ MythicPlusTimerDB = {
 				["2last_best_time_zone"] = 913,
 				["1last_best_time_zone"] = 680,
 			},
+			["pull"] = {
+			},
+			["affixes_key"] = "affixes-9-122-4-121",
+			["time_left_3"] = 0,
 			["elapsed_time"] = 1585,
 		},
 		["color_current_pull"] = "FF00FF00",
@@ -2109,9 +2109,9 @@ MythicPlusTimerDB = {
 				[6] = 1,
 			},
 			[161124] = {
+				[9] = 0.2646907813888001,
 				[4] = 11.864,
 				[7] = 0.06871947673600008,
-				[9] = 0.2646907813888001,
 			},
 			[131585] = {
 				[4] = 11,
@@ -3800,9 +3800,9 @@ MythicPlusTimerDB = {
 				[5] = 1,
 			},
 			[161243] = {
+				[9] = 1.024,
 				[7] = 0.2621440000000001,
 				[4] = 5.688000000000001,
-				[9] = 1.024,
 			},
 			[135474] = {
 				[4] = 3,
@@ -3827,9 +3827,9 @@ MythicPlusTimerDB = {
 				[6] = 5,
 			},
 			[161244] = {
+				[9] = 0.6316621824000002,
 				[4] = 8.329600000000001,
 				[7] = 0.08589934592000009,
-				[9] = 0.6316621824000002,
 			},
 			[160495] = {
 				[4] = 8,

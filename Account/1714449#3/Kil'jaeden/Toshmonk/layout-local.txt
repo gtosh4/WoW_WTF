@@ -69,6 +69,13 @@ X: 0
 Y: 0
 W: 80
 H: 80
+Frame: AstralKeyFrame
+FrameLevel: 1
+Anchor: TOP
+X: 89
+Y: -91
+W: 715
+H: 490
 Frame: BDLC
 FrameLevel: 1
 Anchor: TOP
@@ -118,13 +125,6 @@ X: 404
 Y: 166
 W: 27
 H: 26
-Frame: AstralKeyFrame
-FrameLevel: 1
-Anchor: TOP
-X: 89
-Y: -91
-W: 715
-H: 490
 Frame: TalkingHeadFrame
 FrameLevel: 3
 Anchor: BOTTOM

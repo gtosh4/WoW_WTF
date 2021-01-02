@@ -156,7 +156,7 @@ ShadowedUFDB = {
 				},
 			},
 			["auras"] = {
-				["borderType"] = "light",
+				["borderType"] = "dark",
 			},
 			["healthColors"] = {
 				["neutral"] = {
@@ -369,20 +369,20 @@ ShadowedUFDB = {
 					["anchorPoint"] = "C",
 				},
 				["boss"] = {
-					["y"] = 402.1332331991216,
-					["x"] = 1233.069034938759,
-					["point"] = "TOPLEFT",
-					["bottom"] = 190.9332769823086,
-					["top"] = 402.1332331991216,
+					["top"] = 427.1999513888368,
+					["x"] = 1245.869190902653,
+					["point"] = "BOTTOMLEFT",
 					["relativePoint"] = "BOTTOMLEFT",
+					["y"] = 236.4799751830105,
+					["bottom"] = 236.4799751830105,
 				},
 				["battleground"] = {
-					["top"] = 510.399988591671,
-					["x"] = 1486.40090427635,
+					["top"] = 522.6667070674885,
+					["x"] = 1567.466527464392,
 					["point"] = "TOPLEFT",
 					["relativePoint"] = "BOTTOMLEFT",
-					["bottom"] = 420.8000296568862,
-					["y"] = 510.399988591671,
+					["y"] = 522.6667070674885,
+					["bottom"] = 433.0667090702045,
 				},
 			},
 			["filters"] = {
@@ -2025,9 +2025,10 @@ ShadowedUFDB = {
 							["enabled"] = true,
 							["y"] = 0,
 							["show"] = {
+								["relevant"] = true,
 								["misc"] = false,
 							},
-							["size"] = 16,
+							["size"] = 22,
 						},
 						["buffs"] = {
 							["perRow"] = 8,
@@ -2038,12 +2039,13 @@ ShadowedUFDB = {
 							["x"] = 0,
 							["y"] = 0,
 							["show"] = {
-								["raid"] = false,
 								["misc"] = false,
+								["relevant"] = true,
+								["raid"] = false,
 							},
 							["maxRows"] = 2,
 							["enabled"] = true,
-							["size"] = 16,
+							["size"] = 22,
 						},
 					},
 					["castBar"] = {
@@ -2277,12 +2279,16 @@ ShadowedUFDB = {
 						["debuffs"] = {
 							["perRow"] = 2,
 							["anchorOn"] = false,
-							["y"] = 0,
+							["y"] = 2,
 							["x"] = 0,
+							["show"] = {
+								["relevant"] = true,
+								["misc"] = false,
+							},
 							["enabled"] = true,
-							["maxRows"] = 5,
+							["maxRows"] = 8,
 							["anchorPoint"] = "RT",
-							["size"] = 16,
+							["size"] = 22,
 						},
 						["buffs"] = {
 							["perRow"] = 8,
@@ -2292,6 +2298,9 @@ ShadowedUFDB = {
 							},
 							["y"] = 0,
 							["x"] = 0,
+							["show"] = {
+								["relevant"] = true,
+							},
 							["enabled"] = true,
 							["anchorPoint"] = "BL",
 							["size"] = 16,
@@ -2346,6 +2355,7 @@ ShadowedUFDB = {
 							["text"] = "[name]",
 						},
 					},
+					["width"] = 160,
 					["indicators"] = {
 						["raidTarget"] = {
 							["y"] = 0,
@@ -2363,7 +2373,6 @@ ShadowedUFDB = {
 						},
 						["height"] = 0.5,
 					},
-					["width"] = 160,
 					["enabled"] = true,
 					["altPowerBar"] = {
 						["height"] = 0.4,
@@ -2390,6 +2399,7 @@ ShadowedUFDB = {
 						["height"] = 1,
 						["reactionType"] = "none",
 					},
+					["attribPoint"] = "BOTTOM",
 				},
 				["maintank"] = {
 					["attribAnchorPoint"] = "LEFT",
@@ -3720,9 +3730,8 @@ ShadowedUFDB = {
 						["height"] = 0.4,
 						["order"] = 70,
 					},
-					["incAbsorb"] = {
+					["auraIndicators"] = {
 						["height"] = 0.5,
-						["cap"] = 1,
 					},
 					["comboPoints"] = {
 						["anchorTo"] = "$parent",
@@ -3747,8 +3756,9 @@ ShadowedUFDB = {
 						["y"] = 6,
 						["size"] = 14,
 					},
-					["auraIndicators"] = {
+					["incAbsorb"] = {
 						["height"] = 0.5,
+						["cap"] = 1,
 					},
 					["highlight"] = {
 						["height"] = 0.5,
@@ -3785,31 +3795,36 @@ ShadowedUFDB = {
 					["auras"] = {
 						["height"] = 0.5,
 						["debuffs"] = {
-							["perRow"] = 5,
-							["anchorOn"] = false,
-							["y"] = 0,
-							["x"] = 0,
 							["enabled"] = true,
-							["maxRows"] = 2,
+							["selfScale"] = 1.5,
+							["anchorOn"] = true,
+							["enlarge"] = {
+								["SELF"] = false,
+								["BOSS"] = true,
+								["REMOVABLE"] = true,
+							},
 							["anchorPoint"] = "BL",
-							["size"] = 16,
+							["x"] = 0,
+							["perRow"] = 8,
+							["y"] = 0,
+							["size"] = 20,
 						},
 						["buffs"] = {
 							["enabled"] = true,
-							["temporary"] = false,
-							["anchorOn"] = true,
-							["y"] = 0,
-							["show"] = {
-								["player"] = false,
-								["relevant"] = false,
-								["raid"] = false,
-								["misc"] = false,
+							["temporary"] = true,
+							["anchorOn"] = false,
+							["enlarge"] = {
+								["SELF"] = false,
 							},
-							["maxRows"] = 1,
-							["anchorPoint"] = "TL",
+							["show"] = {
+								["relevant"] = false,
+							},
+							["anchorPoint"] = "BL",
+							["maxRows"] = 2,
+							["y"] = 0,
 							["x"] = 0,
 							["perRow"] = 8,
-							["size"] = 16,
+							["size"] = 20,
 						},
 					},
 					["width"] = 190,
@@ -4162,14 +4177,9 @@ ShadowedUFDB = {
 					},
 				},
 				["focustarget"] = {
-					["portrait"] = {
-						["type"] = "3D",
-						["alignment"] = "RIGHT",
-						["fullAfter"] = 100,
+					["highlight"] = {
 						["height"] = 0.5,
-						["fullBefore"] = 0,
-						["order"] = 15,
-						["width"] = 0.22,
+						["size"] = 10,
 					},
 					["range"] = {
 						["height"] = 0.5,
@@ -4249,16 +4259,6 @@ ShadowedUFDB = {
 					["fader"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
-						["height"] = 0.5,
-						["size"] = 10,
-					},
-					["height"] = 25,
-					["altPowerBar"] = {
-						["height"] = 0.4,
-						["background"] = true,
-						["order"] = 100,
-					},
 					["indicators"] = {
 						["raidTarget"] = {
 							["y"] = 0,
@@ -4275,6 +4275,21 @@ ShadowedUFDB = {
 							["size"] = 16,
 						},
 						["height"] = 0.5,
+					},
+					["height"] = 25,
+					["altPowerBar"] = {
+						["height"] = 0.4,
+						["background"] = true,
+						["order"] = 100,
+					},
+					["portrait"] = {
+						["type"] = "3D",
+						["alignment"] = "RIGHT",
+						["fullAfter"] = 100,
+						["height"] = 0.5,
+						["fullBefore"] = 0,
+						["order"] = 15,
+						["width"] = 0.22,
 					},
 					["emptyBar"] = {
 						["order"] = 0,
@@ -4744,7 +4759,7 @@ ShadowedUFDB = {
 			},
 			["advanced"] = true,
 			["bars"] = {
-				["spacing"] = -1.25,
+				["spacing"] = 0,
 				["backgroundAlpha"] = 0.2,
 				["alpha"] = 1,
 				["texture"] = "Smooth v2",

@@ -57,16 +57,26 @@ AngryAssign_Pages = {
 		["Contents"] = "Far Gaze\n||cpaladinBarbados||r\n||chunterThunderrz||r\n||chunterMoreph||r\n||chunterPangur\n||cwarriorThac||r\n||cpaladinGordy||r\n||cpriestJess||r\n\n\nG1+2 Left\nG3+4 Right",
 	},
 	[491590631] = {
-		["Updated"] = 1608444755,
+		["Updated"] = 1609556681,
 		["Name"] = "huntsman",
 		["Id"] = 491590631,
-		["UpdateId"] = 103325954,
-		["Contents"] = "g1 {circle}\n\ng2 {diamond}\n\ng3 {star}\n\ng4 {triangle}",
+		["UpdateId"] = 1109524666,
+		["Contents"] = "g1 {circle}\n\ng2 {diamond}\n\ng3 {triangle}\n\ng4 {star}",
 	},
 }
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
+	["tree"] = {
+		["groups"] = {
+		},
+		["scrollvalue"] = 0,
+		["fullwidth"] = 666.0001220703125,
+		["selected"] = 4118338490,
+		["treewidth"] = 175,
+		["treesizable"] = true,
+	},
+	["locked"] = true,
 	["window"] = {
 		["height"] = 500.0000610351563,
 		["top"] = 904.9998779296875,
@@ -80,16 +90,6 @@ AngryAssign_State = {
 		["scale"] = 1,
 		["hidden"] = false,
 	},
-	["tree"] = {
-		["groups"] = {
-		},
-		["scrollvalue"] = 0,
-		["fullwidth"] = 666.0001220703125,
-		["selected"] = 4118338490,
-		["treewidth"] = 175,
-		["treesizable"] = true,
-	},
-	["locked"] = true,
 	["directionUp"] = false,
 }
 AngryAssign_Config = {
