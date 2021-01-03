@@ -20,6 +20,7 @@ favsDB = {
 				["Favorites"] = {
 					["Haxpaxington#1572"] = true,
 					["Drew#13709"] = true,
+					["Delpi#3784"] = true,
 					["Evangelos#1200"] = true,
 					["CspaceJ#1920"] = true,
 					["Rathux#11683"] = true,

@@ -11,8 +11,8 @@ BattleGroundEnemiesDB = {
 				["RangeIndicator_Frames"] = {
 					["Racial"] = false,
 					["Power"] = false,
-					["Spec"] = false,
 					["Trinket"] = false,
+					["Spec"] = false,
 					["ObjectiveAndRespawn"] = false,
 					["BuffContainer"] = false,
 				},
@@ -36,10 +36,10 @@ BattleGroundEnemiesDB = {
 					["HealthBar_Texture"] = "Smooth v2",
 					["Auras_Buffs_Size"] = 24,
 					["Auras_Buffs_SpellIDFiltering_Filterlist"] = {
-						[113860] = true,
 						[31884] = true,
-						[113858] = true,
+						[113860] = true,
 						[190319] = true,
+						[113858] = true,
 					},
 					["Auras_Buffs_Container_RelativePoint"] = "LEFT",
 					["Auras_Buffs_Container_OffsetX"] = -6,

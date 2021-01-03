@@ -95,6 +95,23 @@ MADB = {
 						-241.6663208007813, -- [5]
 					},
 				},
+				["ChatFrameChannelButton"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"ChatFrame1ButtonFrame", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "ChatFrameChannelButton",
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"ChatFrame1", -- [2]
+						"TOPRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
 				["ChallengesKeystoneFrame"] = {
 					["UIPanelWindows"] = {
 						["pushable"] = 0,
@@ -116,23 +133,6 @@ MADB = {
 						461.0001220703125, -- [5]
 					},
 				},
-				["ChatFrameChannelButton"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"ChatFrame1ButtonFrame", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-					["name"] = "ChatFrameChannelButton",
-					["pos"] = {
-						"BOTTOMLEFT", -- [1]
-						"ChatFrame1", -- [2]
-						"TOPRIGHT", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-				},
 				["VehicleSeatIndicator"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -151,13 +151,6 @@ MADB = {
 					},
 				},
 				["BattlefieldMapFrame"] = {
-					["orgPos"] = {
-						"TOPLEFT", -- [1]
-						"BattlefieldMapTab", -- [2]
-						"BOTTOMLEFT", -- [3]
-						0, -- [4]
-						-5.000000476837158, -- [5]
-					},
 					["name"] = "BattlefieldMapFrame",
 					["pos"] = {
 						"TOPLEFT", -- [1]

@@ -101,6 +101,11 @@ M6DB = {
 			["group"] = 3,
 			["name"] = "door",
 		}, -- [15]
+		{
+			"macrotext", -- [1]
+			"#showtooltip Divine Hymn\n/cast Sinful Gladiator's Badge of Ferocity\n/cast Divine Hymn", -- [2]
+			["name"] = "hymn",
+		}, -- [16]
 	},
 	["profiles"] = {
 		["Area 52"] = {
@@ -113,13 +118,13 @@ M6DB = {
 						["s0f"] = 15,
 						["s0d"] = 13,
 						["s0b"] = 11,
-						["s0c"] = 12,
 						["s0e"] = 14,
-						["s0a"] = 10,
+						["s0c"] = 12,
+						["s02"] = 2,
 						["s09"] = 9,
 						["s06"] = 6,
+						["s0a"] = 10,
 						["s04"] = 4,
-						["s02"] = 2,
 						["s03"] = 3,
 						["s01"] = 1,
 					},
@@ -128,6 +133,8 @@ M6DB = {
 				}, -- [1]
 				{
 					["slots"] = {
+						["s01"] = 10,
+						["s02"] = 16,
 					},
 					["bind"] = {
 					},
