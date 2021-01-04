@@ -21,40 +21,52 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 29946.003433,
+							["damage_taken"] = 0.003433,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606538124,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1032.407206545761,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
-									[77478] = {
-										["c_amt"] = 12,
+									[45297] = {
+										["c_amt"] = 3,
 										["b_amt"] = 0,
-										["c_dmg"] = 4739,
+										["c_dmg"] = 1790,
 										["g_amt"] = 0,
-										["n_max"] = 190,
+										["n_max"] = 344,
 										["targets"] = {
-											["Mawsworn Guard"] = 5357,
-											["Mawsworn Harbinger"] = 4417,
+											["Mawsworn Harbinger"] = 2099,
+											["Mawsworn Guard"] = 1938,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 5035,
-										["n_min"] = 118,
+										["n_dmg"] = 2247,
+										["n_min"] = 210,
 										["g_dmg"] = 0,
-										["counter"] = 44,
-										["total"] = 9774,
-										["c_max"] = 488,
-										["spellschool"] = 1,
-										["id"] = 77478,
+										["counter"] = 11,
+										["total"] = 4037,
+										["c_max"] = 755,
+										["r_amt"] = 0,
+										["id"] = 45297,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 296,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 32,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 511,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 8,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188443] = {
 										["c_amt"] = 4,
@@ -73,20 +85,20 @@ _detalhes_database = {
 										["counter"] = 29,
 										["total"] = 11381,
 										["c_max"] = 863,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188443,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 626,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 25,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[313663] = {
 										["c_amt"] = 0,
@@ -105,20 +117,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 1248,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[188389] = {
 										["c_amt"] = 0,
@@ -136,20 +148,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 147,
 										["c_max"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 2,
@@ -168,51 +180,52 @@ _detalhes_database = {
 										["counter"] = 10,
 										["total"] = 1185,
 										["c_max"] = 295,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 178,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 8,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[285452] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2030,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Mawsworn Guard"] = 2030,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2030,
-										["c_max"] = 2030,
-										["spellschool"] = 4,
-										["id"] = 285452,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 8,
+									},
+									[77478] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 4739,
+										["g_amt"] = 0,
+										["n_max"] = 190,
+										["targets"] = {
+											["Mawsworn Guard"] = 5357,
+											["Mawsworn Harbinger"] = 4417,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5035,
+										["n_min"] = 118,
+										["g_dmg"] = 0,
+										["counter"] = 44,
+										["total"] = 9774,
+										["c_max"] = 488,
+										["r_amt"] = 0,
+										["id"] = 77478,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 2030,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 296,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 32,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									},
 									[316019] = {
 										["c_amt"] = 1,
@@ -231,103 +244,91 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 144,
 										["c_max"] = 67,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 316019,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 67,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[45297] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 1790,
-										["g_amt"] = 0,
-										["n_max"] = 344,
-										["targets"] = {
-											["Mawsworn Harbinger"] = 2099,
-											["Mawsworn Guard"] = 1938,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2247,
-										["n_min"] = 210,
-										["g_dmg"] = 0,
-										["counter"] = 11,
-										["total"] = 4037,
-										["c_max"] = 755,
-										["spellschool"] = 8,
-										["id"] = 45297,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 32,
+									},
+									[285452] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2030,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Mawsworn Guard"] = 2030,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2030,
+										["c_max"] = 2030,
+										["r_amt"] = 0,
+										["id"] = 285452,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 511,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 8,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 2030,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 29946.003433,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 29946.003433,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606538123,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606538095,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606538124,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606538123,
-							["last_dps"] = 1032.407206545761,
-							["start_time"] = 1606538095,
-							["delay"] = 0,
-							["damage_taken"] = 0.003433,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.006883,
 							["damage_from"] = {
 								["Mawsworn Harbinger"] = true,
+								["Environment (Falling)"] = true,
 							},
 							["targets"] = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["damage_taken"] = 1393.006883,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006883,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Player-3676-0B20F78C",
+							["spec"] = 105,
+							["delay"] = 0,
 							["dps_started"] = false,
-							["end_time"] = 1606538124,
-							["aID"] = "3676-0B20F78C",
-							["on_hold"] = false,
+							["total"] = 0.006883,
+							["classe"] = "DRUID",
+							["last_dps"] = 0.0002472430762596005,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -335,15 +336,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["total"] = 0.006883,
-							["last_event"] = 0,
-							["colocacao"] = 2,
-							["custom"] = 0,
+							["end_time"] = 1606538124,
 							["tipo"] = 1,
-							["last_dps"] = 0.0002472430762596005,
+							["custom"] = 0,
+							["colocacao"] = 2,
+							["last_event"] = 0,
+							["damage_taken"] = 1729.006883,
 							["start_time"] = 1606538124,
-							["delay"] = 0,
-							["spec"] = 105,
+							["serial"] = "Player-3676-0B20F78C",
+							["aID"] = "3676-0B20F78C",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -356,21 +357,20 @@ _detalhes_database = {
 								["Thrall"] = 3919,
 								["Toshdruid"] = 1393,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168585-000041D366",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire_total"] = 0,
+							["total"] = 5312.006316,
 							["aID"] = "168585",
-							["monster"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5312.006316,
-							["damage_taken"] = 26122.006316,
 							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1606538124,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 1606538120,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Harbinger",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -388,23 +388,23 @@ _detalhes_database = {
 										["n_min"] = 368,
 										["g_dmg"] = 0,
 										["counter"] = 3,
-										["a_amt"] = 0,
+										["r_amt"] = 0,
 										["total"] = 803,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["extra"] = {
+										},
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["a_dmg"] = 0,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 1,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["a_amt"] = 0,
 									}, -- [1]
 									[325423] = {
 										["c_amt"] = 0,
@@ -422,20 +422,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1393,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 325423,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[345554] = {
 										["c_amt"] = 0,
@@ -454,17 +454,17 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 345554,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 4,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 									[345552] = {
 										["c_amt"] = 0,
@@ -482,33 +482,34 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 3116,
 										["c_max"] = 0,
-										["MISS"] = 2,
+										["r_amt"] = 0,
 										["id"] = 345552,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 6,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 2,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606538120,
+							["damage_taken"] = 26122.006316,
 							["start_time"] = 1606538097,
-							["delay"] = 0,
-							["total"] = 5312.006316,
+							["serial"] = "Creature-0-4230-2364-1845-168585-000041D366",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -518,21 +519,20 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168588-000041D369",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["total"] = 0.001545,
-							["monster"] = true,
+							["aID"] = "168588",
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.001545,
-							["damage_taken"] = 16073.001545,
-							["fight_component"] = true,
 							["end_time"] = 1606538124,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 0,
+							["monster"] = true,
+							["total"] = 0.001545,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Guard",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -553,30 +553,31 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 294165,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
-							["aID"] = "168588",
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 16073.001545,
 							["start_time"] = 1606538124,
-							["delay"] = 0,
-							["on_hold"] = false,
+							["serial"] = "Creature-0-4230-2364-1845-168588-000041D369",
+							["fight_component"] = true,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -586,18 +587,17 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Toshdruid"] = 555,
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 555.006114,
 							["total_without_pet"] = 2026.006114,
 							["total"] = 2026.006114,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -611,10 +611,10 @@ _detalhes_database = {
 							["healing_taken"] = 2026.006114,
 							["fight_component"] = true,
 							["end_time"] = 1606538124,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
+								["Toshdruid"] = 555,
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -638,26 +638,27 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 2026,
-										["n_amt"] = 6,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 6,
+										["n_curado"] = 2026,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606538096,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.006114,
 							["custom"] = 0,
 							["last_event"] = 1606538121,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.006114,
+							["start_time"] = 1606538096,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -676,7 +677,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.003912,
 							["total"] = 0.003912,
-							["resource_type"] = 11,
+							["totalover"] = 0.003912,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -685,13 +686,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1300,
-							["alternatepower"] = 231.003912,
-							["tipo"] = 3,
-							["last_event"] = 1606538122,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606538122,
+							["tipo"] = 3,
+							["alternatepower"] = 231.003912,
+							["flag_original"] = 1300,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.003912,
+							["resource_type"] = 11,
 						}, -- [1]
 						{
 							["received"] = 0.002723,
@@ -712,14 +713,14 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["spec"] = 105,
+							["totalover"] = 0.002723,
 							["flag_original"] = 1300,
-							["alternatepower"] = 233.002723,
+							["last_event"] = 0,
 							["tipo"] = 3,
 							["aID"] = "3676-0B20F78C",
-							["last_event"] = 0,
+							["alternatepower"] = 233.002723,
 							["serial"] = "Player-3676-0B20F78C",
-							["totalover"] = 0.002723,
+							["spec"] = 105,
 						}, -- [2]
 					},
 				}, -- [3]
@@ -732,37 +733,37 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[77505] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
-										["uptime"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 77505,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[188389] = {
-										["appliedamt"] = 1,
+										["uptime"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 1,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[313663] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 313663,
+										["uptime"] = 11,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 11,
-										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 2,
+									},
+									[188389] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -773,13 +774,13 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[345554] = 1,
-										},
+										["counter"] = 1,
 										["targets"] = {
 											["Mawsworn Harbinger"] = 1,
 										},
-										["counter"] = 1,
+										["interrompeu_oque"] = {
+											[345554] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -787,48 +788,48 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 29,
+										["refreshamt"] = 0,
 										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268854] = {
-										["appliedamt"] = 2,
+										["uptime"] = 29,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 26,
-										["id"] = 268854,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[317859] = {
 										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 317859,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 29,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 29,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[268854] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 268854,
+										["uptime"] = 26,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -837,9 +838,11 @@ _detalhes_database = {
 								[345554] = 1,
 							},
 							["debuff_uptime"] = 13,
-							["classe"] = "SHAMAN",
-							["nome"] = "Toshaman",
 							["interrupt"] = 1.008581,
+							["interrupt_targets"] = {
+								["Mawsworn Harbinger"] = 1,
+							},
+							["nome"] = "Toshaman",
 							["spec"] = 262,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -849,95 +852,93 @@ _detalhes_database = {
 								[61882] = 3,
 								[51505] = 1,
 							},
+							["pets"] = {
+							},
+							["last_event"] = 1606538124,
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
-							["tipo"] = 4,
-							["last_event"] = 1606538124,
-							["pets"] = {
-							},
 							["serial"] = "Player-3676-0AD945D6",
-							["interrupt_targets"] = {
-								["Mawsworn Harbinger"] = 1,
-							},
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 58,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 58,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606538124,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 29,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 29,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 29,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 29,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Harbinger",
-							["flag_original"] = 2632,
+							["aID"] = "168585",
 							["spell_cast"] = {
 								[345554] = 4,
 								[345552] = 6,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-168585-0000C1D368",
-							["aID"] = "168585",
+							["flag_original"] = 2632,
 						}, -- [3]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Guard",
-							["flag_original"] = 2632,
+							["aID"] = "168588",
 							["spell_cast"] = {
 								[294165] = 2,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-168588-000041D369",
-							["aID"] = "168588",
+							["flag_original"] = 2632,
 						}, -- [4]
 					},
 				}, -- [4]
@@ -948,66 +949,126 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
-				["tempo_start"] = 1606538095,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
-					["Toshdruid"] = {
-						["total"] = 233,
-						["last"] = 120,
-					},
 					["Toshaman"] = {
-						["total"] = 231,
 						["last"] = 0,
+						["total"] = 231,
+					},
+					["Toshdruid"] = {
+						["last"] = 120,
+						["total"] = 233,
 					},
 				},
-				["combat_counter"] = 179,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
-					35257.93833199999, -- [1]
-					2025.827009, -- [2]
+					35257.89338099999, -- [1]
+					2025.736394000002, -- [2]
 					{
 						-0.008193999999998366, -- [1]
-						[0] = 0,
+						[0] = -0.007898999999886962,
 						["alternatepower"] = 0,
+						[6] = 0,
 						[3] = -0.013185,
-						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 1,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
-				["totals_grupo"] = {
-					29946, -- [1]
-					2026, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 1,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
+					["Toshdruid"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							336, -- [3]
+							1609745427.345, -- [4]
+							14284, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
 				},
 				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
@@ -1025,30 +1086,23 @@ _detalhes_database = {
 				["data_inicio"] = "23:34:56",
 				["end_time"] = 1010295.906,
 				["combat_id"] = 138,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
 				["frags"] = {
 					["Mawsworn Harbinger"] = 4,
 					["Mawsworn Guard"] = 2,
 				},
-				["TimeData"] = {
+				["tempo_start"] = 1606538095,
+				["spells_cast_timeline"] = {
 				},
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 1010266.9,
-				["contra"] = "Mawsworn Guard",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Toshaman"] = 29946.003433,
+							["Toshdruid"] = 0.006883,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -1057,12 +1111,36 @@ _detalhes_database = {
 							["Toshdruid"] = 2026.006114,
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Toshdruid"] = 0.006883,
-							["Toshaman"] = 29946.003433,
-						}, -- [1]
+					["damage_section"] = {
 					},
+				},
+				["combat_counter"] = 179,
+				["CombatSkillCache"] = {
+				},
+				["contra"] = "Mawsworn Guard",
+				["start_time"] = 1010266.9,
+				["TimeData"] = {
+				},
+				["totals_grupo"] = {
+					29946, -- [1]
+					2026, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 			}, -- [1]
 			{
@@ -1077,13 +1155,25 @@ _detalhes_database = {
 							},
 							["targets"] = {
 								["Mawsworn Harbinger"] = 2145,
-								["Mawsworn Seeker"] = 5345,
 								["Mawsworn Guard"] = 19041,
+								["Mawsworn Seeker"] = 5345,
 								["Mawsworn Sorcerer"] = 13664,
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 40195.003749,
+							["damage_taken"] = 0.003749,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606538088,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1084.914673783395,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[170379] = {
@@ -1094,8 +1184,8 @@ _detalhes_database = {
 										["n_max"] = 126,
 										["targets"] = {
 											["Mawsworn Harbinger"] = 149,
-											["Mawsworn Seeker"] = 440,
 											["Mawsworn Guard"] = 774,
+											["Mawsworn Seeker"] = 440,
 											["Mawsworn Sorcerer"] = 643,
 										},
 										["m_dmg"] = 0,
@@ -1105,20 +1195,20 @@ _detalhes_database = {
 										["counter"] = 11,
 										["total"] = 2006,
 										["c_max"] = 326,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 314,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 7,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188443] = {
 										["c_amt"] = 2,
@@ -1138,20 +1228,20 @@ _detalhes_database = {
 										["counter"] = 12,
 										["total"] = 5987,
 										["c_max"] = 1064,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188443,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1063,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 10,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 1,
@@ -1169,20 +1259,20 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 754,
 										["c_max"] = 267,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 267,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -1201,20 +1291,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 1572,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 2,
@@ -1232,52 +1322,51 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 3438,
 										["c_max"] = 1736,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1702,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[77478] = {
-										["c_amt"] = 7,
-										["b_amt"] = 0,
-										["c_dmg"] = 3770,
-										["g_amt"] = 0,
-										["n_max"] = 226,
-										["targets"] = {
-											["Mawsworn Guard"] = 8937,
-											["Mawsworn Seeker"] = 4905,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 10072,
-										["n_min"] = 212,
-										["g_dmg"] = 0,
-										["counter"] = 54,
-										["total"] = 13842,
-										["c_max"] = 566,
-										["spellschool"] = 1,
-										["id"] = 77478,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 4,
+									},
+									[316019] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 44,
+										["targets"] = {
+											["Mawsworn Sorcerer"] = 88,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 88,
+										["n_min"] = 44,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 88,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 316019,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 534,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 47,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[45297] = {
 										["c_amt"] = 3,
@@ -1297,20 +1386,20 @@ _detalhes_database = {
 										["counter"] = 13,
 										["total"] = 6207,
 										["c_max"] = 937,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 45297,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 749,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 10,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[313663] = {
 										["c_amt"] = 0,
@@ -1328,20 +1417,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 725,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[285452] = {
 										["c_amt"] = 2,
@@ -1359,20 +1448,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 4003,
 										["c_max"] = 2019,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1984,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[8042] = {
 										["c_amt"] = 0,
@@ -1390,78 +1479,67 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1573,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 8042,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
-									[316019] = {
-										["c_amt"] = 0,
+									[77478] = {
+										["c_amt"] = 7,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 3770,
 										["g_amt"] = 0,
-										["n_max"] = 44,
+										["n_max"] = 226,
 										["targets"] = {
-											["Mawsworn Sorcerer"] = 88,
+											["Mawsworn Guard"] = 8937,
+											["Mawsworn Seeker"] = 4905,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 88,
-										["n_min"] = 44,
+										["n_dmg"] = 10072,
+										["n_min"] = 212,
 										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 88,
-										["c_max"] = 0,
-										["spellschool"] = 32,
-										["id"] = 316019,
+										["counter"] = 54,
+										["total"] = 13842,
+										["c_max"] = 566,
+										["r_amt"] = 0,
+										["id"] = 77478,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 534,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 47,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 40195.003749,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 40195.003749,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606538084,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606538050,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606538088,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606538084,
-							["last_dps"] = 1084.914673783395,
-							["start_time"] = 1606538050,
-							["delay"] = 0,
-							["damage_taken"] = 0.003749,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -1473,20 +1551,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Thrall"] = 1863,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168586-000041D33A",
+							["delay"] = 1606538058,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 1863.006759,
 							["aID"] = "168586",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1863.006759,
-							["damage_taken"] = 19676.006759,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606538088,
-							["on_hold"] = false,
-							["last_event"] = 1606538058,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Sorcerer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1508,17 +1587,17 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 3,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 									[335685] = {
 										["c_amt"] = 0,
@@ -1538,31 +1617,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335685,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606538058,
+							["damage_taken"] = 19676.006759,
 							["start_time"] = 1606538081,
-							["delay"] = 1606538058,
-							["total"] = 1863.006759,
+							["serial"] = "Creature-0-4230-2364-1845-168586-000041D33A",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -1575,20 +1653,21 @@ _detalhes_database = {
 								["Thrall"] = 2495,
 								["Toshdruid"] = 4182,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168585-000041D33D",
+							["delay"] = 1606538063,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 6677.00786,
 							["aID"] = "168585",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6677.00786,
-							["damage_taken"] = 13429.00786,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606538088,
-							["on_hold"] = false,
-							["last_event"] = 1606538063,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Harbinger",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1606,23 +1685,23 @@ _detalhes_database = {
 										["n_min"] = 0,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["MISS"] = 1,
+										["r_amt"] = 0,
 										["total"] = 0,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["extra"] = {
+										},
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 0,
-										["extra"] = {
-										},
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
 									}, -- [1]
 									[325423] = {
 										["c_amt"] = 0,
@@ -1640,20 +1719,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 4182,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 325423,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[345554] = {
 										["c_amt"] = 0,
@@ -1672,17 +1751,17 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 345554,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 									[345552] = {
 										["c_amt"] = 0,
@@ -1702,31 +1781,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 345552,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 3,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606538063,
+							["damage_taken"] = 13429.00786,
 							["start_time"] = 1606538078,
-							["delay"] = 1606538063,
-							["total"] = 6677.00786,
+							["serial"] = "Creature-0-4230-2364-1845-168585-000041D33D",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 						{
 							["flag_original"] = 1297,
@@ -1738,35 +1816,35 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["spec"] = 105,
-							["aID"] = "3676-0B20F78C",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005451,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Player-3676-0B20F78C",
-							["dps_started"] = false,
-							["total"] = 0.005451,
 							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["end_time"] = 1606538088,
-							["last_event"] = 0,
-							["colocacao"] = 2,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0.0001471294771788749,
-							["start_time"] = 1606538088,
-							["delay"] = 0,
+							["aID"] = "3676-0B20F78C",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005451,
 							["damage_taken"] = 4182.005451,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606538088,
+							["classe"] = "DRUID",
+							["last_dps"] = 0.0001471294771788749,
+							["nome"] = "Toshdruid",
+							["spec"] = 105,
+							["grupo"] = true,
+							["total"] = 0.005451,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["colocacao"] = 2,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606538088,
+							["serial"] = "Player-3676-0B20F78C",
+							["on_hold"] = false,
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -1778,20 +1856,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Thrall"] = 5252,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168588-0000C1D33F",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 5252.001608000001,
 							["aID"] = "168588",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5252.001608000001,
-							["damage_taken"] = 80452.00160799999,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606538088,
-							["on_hold"] = false,
-							["last_event"] = 1606538081,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Guard",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1811,20 +1890,20 @@ _detalhes_database = {
 										["counter"] = 11,
 										["total"] = 5252,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 11,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[294165] = {
 										["c_amt"] = 0,
@@ -1843,31 +1922,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 294165,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 8,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606538081,
+							["damage_taken"] = 80452.00160799999,
 							["start_time"] = 1606538057,
-							["delay"] = 0,
-							["total"] = 5252.001608000001,
+							["serial"] = "Creature-0-4230-2364-1845-168588-0000C1D33F",
+							["classe"] = "UNKNOW",
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -1879,20 +1957,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Thrall"] = 999,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168584-000041D359",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 999.004293,
 							["aID"] = "168584",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 999.004293,
-							["damage_taken"] = 23576.004293,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606538088,
-							["on_hold"] = false,
-							["last_event"] = 1606538085,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Seeker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1912,34 +1991,33 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 999,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606538085,
+							["damage_taken"] = 23576.004293,
 							["start_time"] = 1606538081,
-							["delay"] = 0,
-							["total"] = 999.004293,
+							["serial"] = "Creature-0-4230-2364-1845-168584-000041D359",
+							["classe"] = "UNKNOW",
 						}, -- [6]
 					},
 				}, -- [1]
@@ -1949,17 +2027,17 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.007285,
 							["total_without_pet"] = 3441.007285,
 							["total"] = 3441.007285,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -1973,10 +2051,9 @@ _detalhes_database = {
 							["healing_taken"] = 3441.007285,
 							["fight_component"] = true,
 							["end_time"] = 1606538088,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1999,26 +2076,27 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 3441,
-										["n_amt"] = 8,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 8,
+										["n_curado"] = 3441,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606538051,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.007285,
 							["custom"] = 0,
 							["last_event"] = 1606538086,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.007285,
+							["start_time"] = 1606538051,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -2037,7 +2115,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.006255,
 							["total"] = 0.006255,
-							["resource_type"] = 11,
+							["totalover"] = 0.006255,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2046,13 +2124,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1300,
-							["alternatepower"] = 158.006255,
-							["tipo"] = 3,
-							["last_event"] = 1606538095,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606538095,
+							["tipo"] = 3,
+							["alternatepower"] = 158.006255,
+							["flag_original"] = 1300,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.006255,
+							["resource_type"] = 11,
 						}, -- [1]
 						{
 							["received"] = 0.006625,
@@ -2073,14 +2151,14 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["spec"] = 105,
+							["totalover"] = 0.006625,
 							["flag_original"] = 1300,
-							["alternatepower"] = 160.006625,
+							["last_event"] = 0,
 							["tipo"] = 3,
 							["aID"] = "3676-0B20F78C",
-							["last_event"] = 0,
+							["alternatepower"] = 160.006625,
 							["serial"] = "Player-3676-0B20F78C",
-							["totalover"] = 0.006625,
+							["spec"] = 105,
 						}, -- [2]
 					},
 				}, -- [3]
@@ -2093,37 +2171,37 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[313663] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
-										["uptime"] = 3,
+										["refreshamt"] = 0,
 										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[77505] = {
-										["appliedamt"] = 1,
+										["uptime"] = 3,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 1,
-										["id"] = 77505,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[188389] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 7,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 7,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 2,
+									},
+									[77505] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 77505,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -2134,13 +2212,13 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[335685] = 1,
-										},
+										["counter"] = 1,
 										["targets"] = {
 											["Mawsworn Sorcerer"] = 1,
 										},
-										["counter"] = 1,
+										["interrompeu_oque"] = {
+											[335685] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -2148,48 +2226,48 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 38,
-										["id"] = 298837,
 										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268854] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
+										["id"] = 298837,
 										["uptime"] = 38,
-										["id"] = 268854,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[317859] = {
-										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 20,
-										["id"] = 317859,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 38,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 38,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[268854] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 268854,
+										["uptime"] = 38,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 317859,
+										["uptime"] = 20,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -2198,9 +2276,11 @@ _detalhes_database = {
 								[335685] = 1,
 							},
 							["debuff_uptime"] = 11,
-							["classe"] = "SHAMAN",
-							["nome"] = "Toshaman",
 							["interrupt"] = 1.00271,
+							["interrupt_targets"] = {
+								["Mawsworn Sorcerer"] = 1,
+							},
+							["nome"] = "Toshaman",
 							["spec"] = 262,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -2212,112 +2292,110 @@ _detalhes_database = {
 								[188196] = 1,
 								[51505] = 2,
 							},
+							["pets"] = {
+							},
+							["last_event"] = 1606538088,
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
-							["tipo"] = 4,
-							["last_event"] = 1606538088,
-							["pets"] = {
-							},
 							["serial"] = "Player-3676-0AD945D6",
-							["interrupt_targets"] = {
-								["Mawsworn Sorcerer"] = 1,
-							},
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 76,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 76,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606538088,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 38,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 38,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 38,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 38,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Sorcerer",
-							["flag_original"] = 2632,
+							["aID"] = "168586",
 							["spell_cast"] = {
 								[335680] = 3,
 								[335685] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-168586-000041D33A",
-							["aID"] = "168586",
+							["flag_original"] = 2632,
 						}, -- [3]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Harbinger",
-							["flag_original"] = 2632,
+							["aID"] = "168585",
 							["spell_cast"] = {
 								[345554] = 2,
 								[345552] = 3,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-168585-0000C1D33D",
-							["aID"] = "168585",
+							["flag_original"] = 2632,
 						}, -- [4]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Guard",
-							["flag_original"] = 2632,
+							["aID"] = "168588",
 							["spell_cast"] = {
 								[294165] = 8,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-168588-000041D33F",
-							["aID"] = "168588",
+							["flag_original"] = 2632,
 						}, -- [5]
 					},
 				}, -- [4]
@@ -2328,26 +2406,24 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["CombatStartedAt"] = 1010262.927,
-				["overall_added"] = true,
+				["tempo_start"] = 1606538050,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
-					["Toshdruid"] = {
-						["total"] = 160,
-						["last"] = 84,
-					},
 					["Toshaman"] = {
-						["total"] = 158,
 						["last"] = 83,
+						["total"] = 158,
+					},
+					["Toshdruid"] = {
+						["last"] = 84,
+						["total"] = 160,
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 178,
 				["totals"] = {
 					54985.993458, -- [1]
 					3441, -- [2]
@@ -2355,23 +2431,42 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 1,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					40195, -- [1]
+					3441, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
@@ -2391,7 +2486,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Toshaman"] = 40195.003749,
+							["Toshdruid"] = 0.005451,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -2400,53 +2499,32 @@ _detalhes_database = {
 							["Toshdruid"] = 3441.007285,
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Toshdruid"] = 0.005451,
-							["Toshaman"] = 40195.003749,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1010259.483,
 				["combat_id"] = 137,
-				["combat_counter"] = 178,
-				["tempo_start"] = 1606538050,
-				["frags"] = {
-					["Mawsworn Harbinger"] = 2,
-					["Mawsworn Seeker"] = 3,
-					["Mawsworn Guard"] = 7,
-					["Mawsworn Sorcerer"] = 2,
-				},
 				["spells_cast_timeline"] = {
 				},
-				["contra"] = "Mawsworn Sorcerer",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					40195, -- [1]
-					3441, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 1,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 1010221.467,
-				["TimeData"] = {
+				["overall_added"] = true,
+				["frags"] = {
+					["Mawsworn Harbinger"] = 2,
+					["Mawsworn Guard"] = 7,
+					["Mawsworn Seeker"] = 3,
+					["Mawsworn Sorcerer"] = 2,
 				},
 				["data_inicio"] = "23:34:11",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["TimeData"] = {
+				},
+				["start_time"] = 1010221.467,
+				["contra"] = "Mawsworn Sorcerer",
+				["player_last_events"] = {
+				},
 			}, -- [2]
 			{
 				{
@@ -2465,19 +2543,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["aID"] = "3676-0AD945D6",
-							["damage_taken"] = 0.007561,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 15968.007561,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
+							["spec"] = 262,
+							["delay"] = 0,
 							["dps_started"] = false,
-							["total"] = 15968.007561,
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606538050,
+							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1140.571968642857,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2497,20 +2575,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 88,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 316019,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[188443] = {
 										["c_amt"] = 1,
@@ -2529,20 +2607,20 @@ _detalhes_database = {
 										["counter"] = 11,
 										["total"] = 4339,
 										["c_max"] = 867,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188443,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 867,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 10,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 0,
@@ -2560,20 +2638,20 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 403,
 										["c_max"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 1,
@@ -2591,20 +2669,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1724,
 										["c_max"] = 1724,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1724,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -2622,20 +2700,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1701,
 										["c_max"] = 1701,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1701,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[45297] = {
 										["c_amt"] = 2,
@@ -2654,20 +2732,20 @@ _detalhes_database = {
 										["counter"] = 11,
 										["total"] = 4123,
 										["c_max"] = 729,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 45297,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 720,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 9,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[313663] = {
 										["c_amt"] = 0,
@@ -2685,20 +2763,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 719,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -2716,51 +2794,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2001,
 										["c_max"] = 2001,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 2001,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[77478] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 169,
-										["targets"] = {
-											["Mawsworn Harbinger"] = 169,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 169,
-										["n_min"] = 169,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 169,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 77478,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["b_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["m_amt"] = 0,
-										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 2,
@@ -2779,34 +2826,65 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 701,
 										["c_max"] = 252,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 247,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[77478] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 169,
+										["targets"] = {
+											["Mawsworn Harbinger"] = 169,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 169,
+										["n_min"] = 169,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 169,
+										["c_max"] = 0,
 										["r_amt"] = 0,
+										["id"] = 77478,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606538050,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
+							["total"] = 15968.007561,
 							["last_event"] = 1606538048,
-							["last_dps"] = 1140.571968642857,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007561,
 							["start_time"] = 1606538032,
-							["delay"] = 0,
-							["spec"] = 262,
+							["serial"] = "Player-3676-0AD945D6",
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -2818,35 +2896,35 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["spec"] = 105,
-							["aID"] = "3676-0B20F78C",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.00847,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Player-3676-0B20F78C",
-							["dps_started"] = false,
-							["total"] = 0.00847,
 							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["end_time"] = 1606538046,
-							["last_event"] = 0,
-							["colocacao"] = 2,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0.0006368421052665025,
-							["start_time"] = 1606538046,
-							["delay"] = 0,
+							["aID"] = "3676-0B20F78C",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00847,
 							["damage_taken"] = 2742.00847,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606538046,
+							["classe"] = "DRUID",
+							["last_dps"] = 0.0006368421052665025,
+							["nome"] = "Toshdruid",
+							["spec"] = 105,
+							["grupo"] = true,
+							["total"] = 0.00847,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["colocacao"] = 2,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606538046,
+							["serial"] = "Player-3676-0B20F78C",
+							["on_hold"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -2857,20 +2935,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Toshdruid"] = 2742,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169873-000041D333",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 2742.001007,
 							["aID"] = "169873",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2742.001007,
-							["damage_taken"] = 169.001007,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606538046,
-							["on_hold"] = false,
-							["last_event"] = 1606538046,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Harbinger",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2890,34 +2969,33 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 2742,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 325423,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606538046,
+							["damage_taken"] = 169.001007,
 							["start_time"] = 1606538037,
-							["delay"] = 0,
-							["total"] = 2742.001007,
+							["serial"] = "Creature-0-4230-2364-1845-169873-000041D333",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -2928,21 +3006,20 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168588-000141D326",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire_total"] = 0,
+							["total"] = 0.003752,
 							["aID"] = "168588",
-							["monster"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003752,
-							["damage_taken"] = 26997.003752,
 							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1606538046,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 0,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Guard",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2963,30 +3040,31 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 294165,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 26997.003752,
 							["start_time"] = 1606538046,
-							["delay"] = 0,
-							["total"] = 0.003752,
+							["serial"] = "Creature-0-4230-2364-1845-168588-000141D326",
+							["classe"] = "UNKNOW",
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -2997,36 +3075,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Creature-0-4230-2364-1845-168586-000041D326",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire_total"] = 0,
+							["total"] = 0.002536,
 							["aID"] = "168586",
-							["monster"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002536,
-							["damage_taken"] = 13122.002536,
 							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1606538046,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 0,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Sorcerer",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 13122.002536,
 							["start_time"] = 1606538046,
-							["delay"] = 0,
-							["total"] = 0.002536,
+							["serial"] = "Creature-0-4230-2364-1845-168586-000041D326",
+							["classe"] = "UNKNOW",
 						}, -- [5]
 					},
 				}, -- [1]
@@ -3036,17 +3114,17 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.007548,
 							["total_without_pet"] = 1290.007548,
 							["total"] = 1290.007548,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -3060,10 +3138,9 @@ _detalhes_database = {
 							["healing_taken"] = 1290.007548,
 							["fight_component"] = true,
 							["end_time"] = 1606538046,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3086,26 +3163,27 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 1290,
-										["n_amt"] = 3,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 1290,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606538036,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.007548,
 							["custom"] = 0,
 							["last_event"] = 1606538046,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.007548,
+							["start_time"] = 1606538036,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -3124,22 +3202,22 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.003019,
 							["total"] = 0.003019,
+							["totalover"] = 0.003019,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
 							["grupo"] = true,
 							["resource_type"] = 11,
-							["flag_original"] = 1298,
-							["alternatepower"] = 71.003019,
-							["tipo"] = 3,
-							["last_event"] = 1606538050,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606538050,
+							["tipo"] = 3,
+							["alternatepower"] = 71.003019,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.003019,
+							["spec"] = 262,
 						}, -- [1]
 						{
 							["received"] = 0.002644,
@@ -3160,14 +3238,14 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["spec"] = 105,
+							["totalover"] = 0.002644,
 							["flag_original"] = 1300,
-							["alternatepower"] = 73.002644,
+							["last_event"] = 0,
 							["tipo"] = 3,
 							["aID"] = "3676-0B20F78C",
-							["last_event"] = 0,
+							["alternatepower"] = 73.002644,
 							["serial"] = "Player-3676-0B20F78C",
-							["totalover"] = 0.002644,
+							["spec"] = 105,
 						}, -- [2]
 					},
 				}, -- [3]
@@ -3180,26 +3258,26 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[313663] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 313663,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 8,
-										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 7,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 7,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -3210,13 +3288,13 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[335680] = 1,
-										},
+										["counter"] = 1,
 										["targets"] = {
 											["Mawsworn Sorcerer"] = 1,
 										},
-										["counter"] = 1,
+										["interrompeu_oque"] = {
+											[335680] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -3224,37 +3302,37 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 14,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 14,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268854,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 268854,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 14,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 14,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -3263,10 +3341,10 @@ _detalhes_database = {
 								[335680] = 1,
 							},
 							["debuff_uptime"] = 15,
-							["classe"] = "SHAMAN",
+							["interrupt"] = 1.007432,
+							["spec"] = 262,
 							["buff_uptime_targets"] = {
 							},
-							["interrupt"] = 1.007432,
 							["interrupt_targets"] = {
 								["Mawsworn Sorcerer"] = 1,
 							},
@@ -3279,75 +3357,75 @@ _detalhes_database = {
 								[188196] = 1,
 								[57994] = 1,
 							},
+							["pets"] = {
+							},
+							["last_event"] = 1606538046,
+							["tipo"] = 4,
+							["nome"] = "Toshaman",
 							["debuff_uptime_targets"] = {
 							},
-							["nome"] = "Toshaman",
-							["tipo"] = 4,
-							["last_event"] = 1606538046,
-							["pets"] = {
-							},
 							["serial"] = "Player-3676-0AD945D6",
-							["spec"] = 262,
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 28,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 28,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606538046,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 14,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 14,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 14,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 14,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Guard",
-							["flag_original"] = 2632,
+							["aID"] = "168588",
 							["spell_cast"] = {
 								[294165] = 3,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-168588-0000C1D326",
-							["aID"] = "168588",
+							["flag_original"] = 2632,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -3358,27 +3436,25 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606538032,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
-					["Toshdruid"] = {
-						["total"] = 73,
-						["last"] = 38,
-					},
 					["Toshaman"] = {
-						["total"] = 71,
 						["last"] = 37,
+						["total"] = 71,
+					},
+					["Toshdruid"] = {
+						["last"] = 38,
+						["total"] = 73,
 					},
 				},
 				["enemy"] = "Mawsworn Harbinger",
 				["combat_counter"] = 177,
-				["frags"] = {
-					["Mawsworn Guard"] = 3,
-					["Mawsworn Sorcerer"] = 2,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					18709.997238, -- [1]
@@ -3387,25 +3463,25 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 1,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:33:53",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -3416,7 +3492,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Toshaman"] = 15799.007561,
+							["Toshdruid"] = 0.00847,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -3425,40 +3505,20 @@ _detalhes_database = {
 							["Toshdruid"] = 1290.007548,
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Toshdruid"] = 0.00847,
-							["Toshaman"] = 15799.007561,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1010217.8,
-				["contra"] = "Mawsworn Sorcerer",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 136,
-				["totals_grupo"] = {
-					15968, -- [1]
-					1290, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 1,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Mawsworn Guard"] = 3,
+					["Mawsworn Sorcerer"] = 2,
 				},
 				["data_fim"] = "23:34:07",
 				["cleu_events"] = {
@@ -3466,12 +3526,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					15968, -- [1]
+					1290, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1010203.8,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:33:53",
+				["contra"] = "Mawsworn Sorcerer",
+				["overall_added"] = true,
 			}, -- [3]
 			{
 				{
@@ -3489,7 +3567,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 16456.008031,
+							["damage_taken"] = 1285.008031,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537770,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 866.1056858421053,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[8042] = {
@@ -3508,20 +3598,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1524,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 8042,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 1,
@@ -3539,20 +3629,20 @@ _detalhes_database = {
 										["counter"] = 11,
 										["total"] = 1054,
 										["c_max"] = 214,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 214,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 10,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 0,
@@ -3570,20 +3660,20 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 707,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 7,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 3,
@@ -3601,20 +3691,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 5987,
 										["c_max"] = 2025,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1967,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 1,
@@ -3632,20 +3722,20 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 5498,
 										["c_max"] = 1498,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1498,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 6,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -3663,47 +3753,35 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1686,
 										["c_max"] = 1686,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1686,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 16456.008031,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 16456.008031,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537769,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537751,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537770,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537769,
-							["last_dps"] = 866.1056858421053,
-							["start_time"] = 1606537751,
-							["delay"] = 0,
-							["damage_taken"] = 1285.008031,
 						}, -- [1]
 						{
 							["flag_original"] = 8472,
@@ -3714,21 +3792,20 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Guard"] = 765,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D1B6",
+							["delay"] = 1606537775,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
-							["aID"] = "167827",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 765.004579,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["dps_started"] = false,
 							["end_time"] = 1606538032,
-							["on_hold"] = false,
-							["last_event"] = 1606537775,
+							["damage_taken"] = 1588.004579,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3748,33 +3825,34 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 765,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["total"] = 765.004579,
 							["last_dps"] = 40.26339889473685,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 1588.004579,
+							["total"] = 765.004579,
+							["colocacao"] = 2,
+							["last_event"] = 1606537775,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606538025,
-							["delay"] = 1606537775,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D1B6",
+							["aID"] = "167827",
 						}, -- [2]
 						{
 							["flag_original"] = 1297,
@@ -3784,36 +3862,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Player-3676-0B20F78C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["spec"] = 105,
-							["on_hold"] = false,
-							["classe"] = "DRUID",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004007,
-							["end_time"] = 1606538032,
-							["dps_started"] = false,
-							["total"] = 0.004007,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 0,
-							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 2782.004007,
-							["start_time"] = 1606538032,
-							["delay"] = 0,
 							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004007,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1606538032,
+							["damage_taken"] = 2782.004007,
+							["tipo"] = 1,
+							["nome"] = "Toshdruid",
+							["spec"] = 105,
+							["grupo"] = true,
+							["last_dps"] = 0,
+							["friendlyfire_total"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["on_hold"] = false,
+							["start_time"] = 1606538032,
+							["serial"] = "Player-3676-0B20F78C",
+							["total"] = 0.004007,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -3826,21 +3904,20 @@ _detalhes_database = {
 								["Dandroid"] = 351,
 								["Frostwolf Warrior"] = 1588,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167703-000041D188",
+							["delay"] = 1606537776,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["classe"] = "UNKNOW",
-							["aID"] = "167703",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1939.006372,
 							["damage_taken"] = 9120.006372,
 							["dps_started"] = false,
 							["end_time"] = 1606538032,
-							["on_hold"] = false,
-							["last_event"] = 1606537776,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Guard",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3859,23 +3936,23 @@ _detalhes_database = {
 										["n_min"] = 351,
 										["g_dmg"] = 0,
 										["counter"] = 5,
-										["MISS"] = 1,
+										["r_amt"] = 0,
 										["total"] = 1939,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["extra"] = {
+										},
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 4,
-										["extra"] = {
-										},
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 1,
 									}, -- [1]
 									[294165] = {
 										["c_amt"] = 0,
@@ -3894,30 +3971,31 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 294165,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["total"] = 1939.006372,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire_total"] = 0,
+							["total"] = 1939.006372,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537776,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606538018,
-							["delay"] = 1606537776,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-4230-2364-1845-167703-000041D188",
+							["aID"] = "167703",
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -3928,20 +4006,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Toshaman"] = 1285,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169759-000041D212",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 1285.008019,
 							["aID"] = "169759",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1285.008019,
-							["damage_taken"] = 16456.008019,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537770,
-							["on_hold"] = false,
-							["last_event"] = 1606537765,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Withering Presence",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3961,20 +4040,20 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 943,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 7,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[339046] = {
 										["c_amt"] = 0,
@@ -3994,31 +4073,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 339046,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537765,
+							["damage_taken"] = 16456.008019,
 							["start_time"] = 1606537751,
-							["delay"] = 0,
-							["total"] = 1285.008019,
+							["serial"] = "Creature-0-4230-2364-1845-169759-000041D212",
+							["classe"] = "UNKNOW",
 						}, -- [5]
 					},
 				}, -- [1]
@@ -4028,18 +4106,16 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Toshaman"] = 302,
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 302.002592,
 							["total_without_pet"] = 988.002592,
 							["total"] = 988.002592,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -4053,9 +4129,10 @@ _detalhes_database = {
 							["healing_taken"] = 0.002592,
 							["fight_component"] = true,
 							["end_time"] = 1606537770,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Toshaman"] = 302,
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4079,40 +4156,41 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 988,
-										["n_amt"] = 3,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 988,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537756,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.002592,
 							["custom"] = 0,
 							["last_event"] = 1606537766,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.002592,
+							["start_time"] = 1606537756,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "SHAMAN",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.003957,
 							["total_without_pet"] = 0.003957,
 							["total"] = 0.003957,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 262,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -4125,10 +4203,9 @@ _detalhes_database = {
 							["healing_taken"] = 988.003957,
 							["fight_component"] = true,
 							["end_time"] = 1606537770,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
-							["spec"] = 262,
+							["tipo"] = 2,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4136,14 +4213,15 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537770,
+							["classe"] = "SHAMAN",
+							["totaldenied"] = 0.003957,
 							["custom"] = 0,
 							["last_event"] = 0,
 							["aID"] = "3676-0AD945D6",
-							["totaldenied"] = 0.003957,
+							["start_time"] = 1606537770,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [2]
@@ -4163,7 +4241,7 @@ _detalhes_database = {
 							["passiveover"] = 0.007439,
 							["fight_component"] = true,
 							["total"] = 0.007439,
-							["resource_type"] = 11,
+							["totalover"] = 0.007439,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4172,13 +4250,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 21.007439,
-							["tipo"] = 3,
-							["last_event"] = 1606538032,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606538032,
+							["tipo"] = 3,
+							["alternatepower"] = 21.007439,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.007439,
+							["resource_type"] = 11,
 						}, -- [1]
 						{
 							["received"] = 0.008657,
@@ -4198,14 +4276,14 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["need_refresh"] = true,
-							["spec"] = 105,
+							["totalover"] = 0.008657,
 							["flag_original"] = 1300,
-							["alternatepower"] = 21.008657,
+							["last_event"] = 0,
 							["tipo"] = 3,
 							["aID"] = "3676-0B20F78C",
-							["last_event"] = 0,
+							["alternatepower"] = 21.008657,
 							["serial"] = "Player-3676-0B20F78C",
-							["totalover"] = 0.008657,
+							["spec"] = 105,
 						}, -- [2]
 					},
 				}, -- [3]
@@ -4224,22 +4302,18 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1606537769,
 										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
-							["nome"] = "Toshaman",
+							["aID"] = "3676-0AD945D6",
 							["buff_uptime"] = 56,
-							["spell_cast"] = {
-								[57994] = 1,
-								[8042] = 1,
-								[192058] = 1,
-								[188196] = 4,
-								[51505] = 2,
+							["pets"] = {
+								"Capacitor Totem <Toshaman>", -- [1]
 							},
 							["cc_done_spells"] = {
 								["_ActorTable"] = {
@@ -4258,13 +4332,13 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[336383] = 1,
-										},
+										["counter"] = 1,
 										["targets"] = {
 											["Withering Presence"] = 1,
 										},
-										["counter"] = 1,
+										["interrompeu_oque"] = {
+											[336383] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -4272,48 +4346,48 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 19,
+										["refreshamt"] = 0,
 										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[77762] = {
-										["appliedamt"] = 2,
+										["uptime"] = 19,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 5,
-										["id"] = 77762,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268854] = {
 										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 13,
-										["id"] = 268854,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 19,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 19,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[77762] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 77762,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[268854] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 268854,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -4323,116 +4397,119 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 0,
+							["spec"] = 262,
+							["cc_done"] = 1.003697,
+							["nome"] = "Toshaman",
 							["interrupt_targets"] = {
 								["Withering Presence"] = 1,
 							},
-							["cc_done"] = 1.003697,
-							["debuff_uptime_targets"] = {
-							},
-							["spec"] = 262,
 							["grupo"] = true,
+							["spell_cast"] = {
+								[57994] = 1,
+								[8042] = 1,
+								[192058] = 1,
+								[188196] = 4,
+								[51505] = 2,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["last_event"] = 1606537770,
+							["interrupt"] = 1.004858,
 							["cc_done_targets"] = {
 								["Withering Presence"] = 1,
 							},
-							["interrupt"] = 1.004858,
-							["last_event"] = 1606537770,
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["pets"] = {
-								"Capacitor Totem <Toshaman>", -- [1]
-							},
 							["serial"] = "Player-3676-0AD945D6",
-							["aID"] = "3676-0AD945D6",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 38,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 38,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606537770,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 19,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 19,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 19,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 19,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Withering Presence",
-							["flag_original"] = 2632,
+							["aID"] = "169759",
 							["spell_cast"] = {
 								[339046] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-169759-000041D212",
-							["aID"] = "169759",
+							["flag_original"] = 2632,
 						}, -- [3]
 						{
 							["flag_original"] = 8472,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D1B6",
 							["spell_cast"] = {
 								[330664] = 1,
 								[342875] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D1B6",
-							["last_event"] = 0,
 						}, -- [4]
 						{
 							["flag_original"] = 8466,
 							["classe"] = "PET",
-							["ownerName"] = "Toshaman",
-							["nome"] = "Capacitor Totem <Toshaman>",
 							["cc_done"] = 1.007026,
+							["nome"] = "Capacitor Totem <Toshaman>",
 							["last_event"] = 1606537766,
-							["cc_done_targets"] = {
-								["Withering Presence"] = 1,
+							["ownerName"] = "Toshaman",
+							["spell_cast"] = {
+								[118905] = 1,
 							},
-							["pets"] = {
-							},
+							["tipo"] = 4,
 							["cc_done_spells"] = {
 								["_ActorTable"] = {
 									[118905] = {
@@ -4446,27 +4523,28 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["aID"] = "61245",
-							["tipo"] = 4,
+							["cc_done_targets"] = {
+								["Withering Presence"] = 1,
+							},
 							["serial"] = "Creature-0-4230-2364-1845-61245-000041D225",
-							["spell_cast"] = {
-								[118905] = 1,
+							["pets"] = {
 							},
 						}, -- [5]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Guard",
-							["flag_original"] = 2632,
+							["aID"] = "167703",
 							["spell_cast"] = {
 								[294165] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-167703-000041D188",
-							["aID"] = "167703",
+							["flag_original"] = 2632,
 						}, -- [6]
 					},
 				}, -- [4]
@@ -4477,26 +4555,25 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537751,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
-					["Toshdruid"] = {
-						["total"] = 21,
-						["last"] = 21,
-					},
 					["Toshaman"] = {
-						["total"] = 21,
 						["last"] = 20,
+						["total"] = 21,
+					},
+					["Toshdruid"] = {
+						["last"] = 21,
+						["total"] = 21,
 					},
 				},
 				["enemy"] = "Withering Presence",
 				["combat_counter"] = 176,
-				["frags"] = {
-					["Withering Presence"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					20444.988582, -- [1]
@@ -4505,21 +4582,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = -0.006782,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 1,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 					["Frostwolf Warrior"] = {
@@ -4697,7 +4774,7 @@ _detalhes_database = {
 						["n"] = 3,
 					},
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:29:12",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -4708,50 +4785,33 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Toshaman"] = 0.003957,
-							["Toshdruid"] = 988.002592,
-						}, -- [1]
-					},
 					["damage"] = {
 						{
 							["Frostwolf Warrior"] = 185.004579,
 							["Toshaman"] = 16456.008031,
 						}, -- [1]
 					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Toshdruid"] = 988.002592,
+							["Toshaman"] = 0.003957,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
 				},
 				["end_time"] = 1009941.287,
-				["contra"] = "Withering Presence",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 135,
-				["totals_grupo"] = {
-					17221, -- [1]
-					988, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 1,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Withering Presence"] = 1,
 				},
 				["data_fim"] = "23:29:31",
 				["cleu_events"] = {
@@ -4759,12 +4819,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					17221, -- [1]
+					988, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009922.287,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:29:12",
+				["contra"] = "Withering Presence",
+				["overall_added"] = true,
 			}, -- [4]
 			{
 				{
@@ -4778,12 +4856,24 @@ _detalhes_database = {
 								["Mawsworn Soulrender"] = true,
 							},
 							["targets"] = {
-								["Withering Presence"] = 145,
 								["Mawsworn Soulrender"] = 8316,
+								["Withering Presence"] = 145,
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 8461.008373,
+							["damage_taken"] = 1242.008373,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537751,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1057.626046625,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[8042] = {
@@ -4802,20 +4892,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1593,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 8042,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 1,
@@ -4824,8 +4914,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 146,
 										["targets"] = {
-											["Withering Presence"] = 145,
 											["Mawsworn Soulrender"] = 620,
+											["Withering Presence"] = 145,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 550,
@@ -4834,20 +4924,20 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 765,
 										["c_max"] = 215,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 215,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 0,
@@ -4865,20 +4955,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 309,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -4896,20 +4986,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1720,
 										["c_max"] = 1720,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1720,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -4927,20 +5017,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 2032,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -4958,47 +5048,35 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2042,
 										["c_max"] = 2042,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 2042,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 8461.008373,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 8461.008373,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537751,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537707,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537751,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537751,
-							["last_dps"] = 1057.626046625,
-							["start_time"] = 1606537707,
-							["delay"] = 0,
-							["damage_taken"] = 1242.008373,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -5009,20 +5087,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Toshaman"] = 1242,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169687-000041D148",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 1242.006106,
 							["aID"] = "169687",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1242.006106,
-							["damage_taken"] = 8316.006106,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537715,
-							["on_hold"] = false,
-							["last_event"] = 1606537714,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Soulrender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5044,17 +5123,17 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 347404,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 									[335680] = {
 										["c_amt"] = 0,
@@ -5074,31 +5153,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537714,
+							["damage_taken"] = 8316.006106,
 							["start_time"] = 1606537708,
-							["delay"] = 0,
-							["total"] = 1242.006106,
+							["serial"] = "Creature-0-4230-2364-1845-169687-000041D148",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
@@ -5108,18 +5186,16 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Toshaman"] = 287,
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 287.002679,
 							["total_without_pet"] = 143.002679,
 							["total"] = 143.002679,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -5133,9 +5209,10 @@ _detalhes_database = {
 							["healing_taken"] = 0.002679,
 							["fight_component"] = true,
 							["end_time"] = 1606537715,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Toshaman"] = 287,
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5159,40 +5236,41 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 143,
-										["n_amt"] = 1,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 143,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537711,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.002679,
 							["custom"] = 0,
 							["last_event"] = 1606537711,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.002679,
+							["start_time"] = 1606537711,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "SHAMAN",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.004368,
 							["total_without_pet"] = 0.004368,
 							["total"] = 0.004368,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 262,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -5205,10 +5283,9 @@ _detalhes_database = {
 							["healing_taken"] = 143.004368,
 							["fight_component"] = true,
 							["end_time"] = 1606537715,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
-							["spec"] = 262,
+							["tipo"] = 2,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5216,14 +5293,15 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537715,
+							["classe"] = "SHAMAN",
+							["totaldenied"] = 0.004368,
 							["custom"] = 0,
 							["last_event"] = 0,
 							["aID"] = "3676-0AD945D6",
-							["totaldenied"] = 0.004368,
+							["start_time"] = 1606537715,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [2]
@@ -5243,7 +5321,7 @@ _detalhes_database = {
 							["passiveover"] = 0.002743,
 							["fight_component"] = true,
 							["total"] = 0.002743,
-							["resource_type"] = 11,
+							["totalover"] = 0.002743,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5252,13 +5330,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.002743,
-							["tipo"] = 3,
-							["last_event"] = 1606537751,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537751,
+							["tipo"] = 3,
+							["alternatepower"] = 0.002743,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.002743,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -5271,15 +5349,15 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 8,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -5289,37 +5367,37 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 268854,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 268854,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -5333,77 +5411,77 @@ _detalhes_database = {
 								[8042] = 1,
 								[188196] = 2,
 							},
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
-							["last_event"] = 1606537715,
 							["tipo"] = 4,
+							["last_event"] = 1606537715,
+							["classe"] = "SHAMAN",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
 							["serial"] = "Player-3676-0AD945D6",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 16,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 16,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606537715,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Soulrender",
-							["flag_original"] = 68168,
+							["aID"] = "169687",
 							["spell_cast"] = {
 								[347404] = 1,
 								[335680] = 2,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-169687-000041D148",
-							["aID"] = "169687",
+							["flag_original"] = 68168,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -5414,15 +5492,17 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
-				["tempo_start"] = 1606537707,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["combat_counter"] = 175,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					9702.993431, -- [1]
 					143, -- [2]
@@ -5430,42 +5510,23 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
-				["totals_grupo"] = {
-					8461, -- [1]
-					143, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
@@ -5483,43 +5544,60 @@ _detalhes_database = {
 				["data_inicio"] = "23:28:28",
 				["end_time"] = 1009886.919,
 				["combat_id"] = 134,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
 				["frags"] = {
 					["Mawsworn Soulrender"] = 1,
 				},
-				["TimeData"] = {
+				["tempo_start"] = 1606537707,
+				["spells_cast_timeline"] = {
 				},
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 1009878.919,
-				["contra"] = "Mawsworn Soulrender",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Toshaman"] = 0.004368,
-							["Toshdruid"] = 143.002679,
-						}, -- [1]
-					},
 					["damage"] = {
 						{
 							["Toshaman"] = 8316.008373,
 						}, -- [1]
 					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Toshdruid"] = 143.002679,
+							["Toshaman"] = 0.004368,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["combat_counter"] = 175,
+				["CombatSkillCache"] = {
+				},
+				["contra"] = "Mawsworn Soulrender",
+				["start_time"] = 1009878.919,
+				["TimeData"] = {
+				},
+				["totals_grupo"] = {
+					8461, -- [1]
+					143, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 			}, -- [5]
 			{
@@ -5538,9 +5616,53 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 17649.008231,
+							["damage_taken"] = 0.008231,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537686,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 865.1474623029342,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
+									[170379] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 102,
+										["targets"] = {
+											["Mawsworn Guard"] = 299,
+											["Mawsworn Soulrender"] = 403,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 702,
+										["n_min"] = 99,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 702,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 170379,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
 									[313663] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
@@ -5557,51 +5679,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 1444,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[8042] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 3821,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Mawsworn Soulrender"] = 3821,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 3821,
-										["c_max"] = 3821,
-										["spellschool"] = 8,
-										["id"] = 8042,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["b_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 3821,
-										["successful_casted"] = 0,
-										["m_amt"] = 0,
-										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
 									},
 									[188389] = {
 										["c_amt"] = 3,
@@ -5620,20 +5711,20 @@ _detalhes_database = {
 										["counter"] = 13,
 										["total"] = 1617,
 										["c_max"] = 214,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 213,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 10,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[316019] = {
 										["c_amt"] = 1,
@@ -5651,20 +5742,20 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 350,
 										["c_max"] = 88,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 316019,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 88,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 6,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[285452] = {
 										["c_amt"] = 2,
@@ -5683,20 +5774,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 3893,
 										["c_max"] = 1956,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1937,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 1,
@@ -5715,79 +5806,66 @@ _detalhes_database = {
 										["counter"] = 7,
 										["total"] = 5822,
 										["c_max"] = 1726,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1726,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 6,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[170379] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 102,
-										["targets"] = {
-											["Mawsworn Guard"] = 299,
-											["Mawsworn Soulrender"] = 403,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 702,
-										["n_min"] = 99,
-										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 702,
-										["c_max"] = 0,
-										["spellschool"] = 8,
-										["id"] = 170379,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 8,
+									},
+									[8042] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 3821,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Mawsworn Soulrender"] = 3821,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 3821,
+										["c_max"] = 3821,
+										["r_amt"] = 0,
+										["id"] = 8042,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 7,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 3821,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 17649.008231,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 17649.008231,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537685,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537664,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537686,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537685,
-							["last_dps"] = 865.1474623029342,
-							["start_time"] = 1606537664,
-							["delay"] = 0,
-							["damage_taken"] = 0.008231,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -5799,20 +5877,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Frostwolf Warrior"] = 589,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167703-000041D037",
+							["delay"] = 1606537675,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 589.007161,
 							["aID"] = "167703",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 589.007161,
-							["damage_taken"] = 9168.007161,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537686,
-							["on_hold"] = false,
-							["last_event"] = 1606537675,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Guard",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5830,37 +5909,36 @@ _detalhes_database = {
 										["n_min"] = 291,
 										["g_dmg"] = 0,
 										["counter"] = 3,
-										["DODGE"] = 1,
+										["r_amt"] = 0,
 										["total"] = 589,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["extra"] = {
+										},
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 2,
-										["extra"] = {
-										},
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["DODGE"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537675,
+							["damage_taken"] = 9168.007161,
 							["start_time"] = 1606537683,
-							["delay"] = 1606537675,
-							["total"] = 589.007161,
+							["serial"] = "Creature-0-4230-2364-1845-167703-000041D037",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
@@ -5873,21 +5951,21 @@ _detalhes_database = {
 								["Mawsworn Guard"] = 722,
 								["Mawsworn Soulrender"] = 527,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1249.007744,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 1249.007744,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537683,
+							["dps_started"] = false,
+							["total"] = 1249.007744,
+							["damage_taken"] = 3492.007744,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5908,33 +5986,33 @@ _detalhes_database = {
 										["counter"] = 8,
 										["total"] = 1249,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 8,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537686,
 							["last_dps"] = 61.22586980385169,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 3492.007744,
+							["end_time"] = 1606537686,
+							["colocacao"] = 2,
+							["last_event"] = 1606537683,
+							["on_hold"] = false,
 							["start_time"] = 1606537667,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["aID"] = "167827",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -5946,20 +6024,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Frostwolf Warrior"] = 2903,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169687-000041D160",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 2903.003666,
 							["aID"] = "169687",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2903.003666,
-							["damage_taken"] = 9730.003666,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537686,
-							["on_hold"] = false,
-							["last_event"] = 1606537685,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Soulrender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5979,34 +6058,33 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 2903,
 										["c_max"] = 0,
-										["MISS"] = 1,
+										["r_amt"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 6,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537685,
+							["damage_taken"] = 9730.003666,
 							["start_time"] = 1606537673,
-							["delay"] = 0,
-							["total"] = 2903.003666,
+							["serial"] = "Creature-0-4230-2364-1845-169687-000041D160",
+							["classe"] = "UNKNOW",
 						}, -- [4]
 					},
 				}, -- [1]
@@ -6031,7 +6109,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.004574,
 							["total"] = 0.004574,
-							["resource_type"] = 11,
+							["totalover"] = 0.004574,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6040,13 +6118,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.004574,
-							["tipo"] = 3,
-							["last_event"] = 1606537707,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537707,
+							["tipo"] = 3,
+							["alternatepower"] = 0.004574,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.004574,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -6059,26 +6137,26 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 20,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 20,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 2,
 									},
 									[313663] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 313663,
+										["uptime"] = 10,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 10,
-										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -6089,15 +6167,15 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[294165] = 1,
-											[335680] = 1,
-										},
+										["counter"] = 2,
 										["targets"] = {
 											["Mawsworn Guard"] = 1,
 											["Mawsworn Soulrender"] = 1,
 										},
-										["counter"] = 2,
+										["interrompeu_oque"] = {
+											[294165] = 1,
+											[335680] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -6105,48 +6183,48 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 22,
+										["refreshamt"] = 0,
 										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268854] = {
-										["appliedamt"] = 2,
+										["uptime"] = 22,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 16,
-										["id"] = 268854,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[77762] = {
 										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 4,
-										["id"] = 77762,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 22,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 22,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[268854] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 1,
+										["id"] = 268854,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[77762] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 77762,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -6156,9 +6234,12 @@ _detalhes_database = {
 								[335680] = 1,
 							},
 							["debuff_uptime"] = 30,
-							["classe"] = "SHAMAN",
-							["nome"] = "Toshaman",
 							["interrupt"] = 2.001697,
+							["interrupt_targets"] = {
+								["Mawsworn Guard"] = 1,
+								["Mawsworn Soulrender"] = 1,
+							},
+							["nome"] = "Toshaman",
 							["spec"] = 262,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -6168,93 +6249,90 @@ _detalhes_database = {
 								[188196] = 6,
 								[57994] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
-							["buff_uptime_targets"] = {
-							},
-							["tipo"] = 4,
-							["last_event"] = 1606537705,
 							["pets"] = {
 							},
-							["serial"] = "Player-3676-0AD945D6",
-							["interrupt_targets"] = {
-								["Mawsworn Guard"] = 1,
-								["Mawsworn Soulrender"] = 1,
+							["last_event"] = 1606537705,
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
 							},
+							["debuff_uptime_targets"] = {
+							},
+							["serial"] = "Player-3676-0AD945D6",
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 44,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537686,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 44,
 							["tipo"] = 4,
+							["last_event"] = 1606537686,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 22,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 22,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 22,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 22,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
 							["spell_cast"] = {
 								[330664] = 2,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
-							["last_event"] = 0,
 						}, -- [3]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Soulrender",
-							["flag_original"] = 2632,
+							["aID"] = "169687",
 							["spell_cast"] = {
 								[335680] = 6,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-169687-000041D160",
-							["aID"] = "169687",
+							["flag_original"] = 2632,
 						}, -- [4]
 					},
 				}, -- [4]
@@ -6265,18 +6343,20 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["CombatStartedAt"] = 1009870.677,
-				["tempo_start"] = 1606537664,
-				["last_events_tables"] = {
+				["overall_added"] = true,
+				["cleu_timeline"] = {
 				},
 				["alternate_power"] = {
 				},
 				["enemy"] = "Mawsworn Guard",
-				["combat_counter"] = 174,
-				["overall_added"] = true,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1606537664,
 				["totals"] = {
 					22390, -- [1]
 					0, -- [2]
@@ -6284,59 +6364,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 2,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 1249.007744,
-							["Toshaman"] = 17649.008231,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 1009857.887,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 133,
-				["frags"] = {
-					["Mawsworn Guard"] = 1,
-					["Mawsworn Soulrender"] = 1,
+					["frags_total"] = 0,
 				},
 				["totals_grupo"] = {
 					18898, -- [1]
@@ -6345,32 +6387,68 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 2,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["last_events_tables"] = {
 				},
-				["data_fim"] = "23:28:07",
-				["instance_type"] = "none",
-				["CombatSkillCache"] = {
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
 				},
 				["data_inicio"] = "23:27:45",
+				["end_time"] = 1009857.887,
+				["combat_counter"] = 174,
+				["instance_type"] = "none",
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+					["Mawsworn Guard"] = 1,
+					["Mawsworn Soulrender"] = 1,
+				},
+				["data_fim"] = "23:28:07",
+				["contra"] = "Mawsworn Guard",
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 1249.007744,
+							["Toshaman"] = 17649.008231,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["start_time"] = 1009835.887,
 				["TimeData"] = {
 				},
-				["contra"] = "Mawsworn Guard",
+				["combat_id"] = 133,
 			}, -- [6]
 			{
 				{
@@ -6387,7 +6465,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 8600.00343,
+							["damage_taken"] = 0.00343,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537651,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1720.000686,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[8042] = {
@@ -6406,20 +6496,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 4834,
 										["c_max"] = 4834,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 8042,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 4834,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 0,
@@ -6437,20 +6527,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 213,
 										["c_max"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 0,
@@ -6468,20 +6558,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 130,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -6499,20 +6589,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2536,
 										["c_max"] = 2536,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 2536,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -6530,47 +6620,35 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 887,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 8600.00343,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 8600.00343,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537649,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537646,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537651,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537649,
-							["last_dps"] = 1720.000686,
-							["start_time"] = 1606537646,
-							["delay"] = 0,
-							["damage_taken"] = 0.00343,
 						}, -- [1]
 						{
 							["flag_original"] = 8466,
@@ -6581,21 +6659,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Soulrender"] = 157,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 157.007961,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 157.007961,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537648,
+							["dps_started"] = false,
+							["total"] = 157.007961,
+							["damage_taken"] = 481.007961,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6615,33 +6693,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 157,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537651,
 							["last_dps"] = 31.4015922,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 481.007961,
+							["end_time"] = 1606537651,
+							["colocacao"] = 2,
+							["last_event"] = 1606537648,
+							["on_hold"] = false,
 							["start_time"] = 1606537648,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["aID"] = "167827",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -6653,20 +6731,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Frostwolf Warrior"] = 481,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169687-000041D010",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 481.001029,
 							["aID"] = "169687",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 481.001029,
-							["damage_taken"] = 8757.001029,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537651,
-							["on_hold"] = false,
-							["last_event"] = 1606537649,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Soulrender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6688,31 +6767,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537649,
+							["damage_taken"] = 8757.001029,
 							["start_time"] = 1606537649,
-							["delay"] = 0,
-							["total"] = 481.001029,
+							["serial"] = "Creature-0-4230-2364-1845-169687-000041D010",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -6737,7 +6815,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.004477,
 							["total"] = 0.004477,
-							["resource_type"] = 11,
+							["totalover"] = 0.004477,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6746,13 +6824,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.004477,
-							["tipo"] = 3,
-							["last_event"] = 1606537664,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537664,
+							["tipo"] = 3,
+							["alternatepower"] = 0.004477,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.004477,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -6771,10 +6849,10 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1606537649,
 										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 									},
 								},
 								["tipo"] = 9,
@@ -6784,48 +6862,48 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 5,
+										["refreshamt"] = 0,
 										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[317859] = {
-										["appliedamt"] = 1,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 317859,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268854] = {
 										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 268854,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[317859] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268854] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 268854,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -6838,75 +6916,75 @@ _detalhes_database = {
 								[188196] = 1,
 								[8042] = 1,
 							},
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
-							["last_event"] = 1606537651,
 							["tipo"] = 4,
+							["last_event"] = 1606537651,
+							["classe"] = "SHAMAN",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
 							["serial"] = "Player-3676-0AD945D6",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 10,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537651,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 10,
 							["tipo"] = 4,
+							["last_event"] = 1606537651,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Soulrender",
-							["flag_original"] = 2632,
+							["aID"] = "169687",
 							["spell_cast"] = {
 								[335680] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-169687-000041D010",
-							["aID"] = "169687",
+							["flag_original"] = 2632,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -6917,8 +6995,8 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537646,
 				["last_events_tables"] = {
@@ -6927,8 +7005,7 @@ _detalhes_database = {
 				},
 				["enemy"] = "Mawsworn Soulrender",
 				["combat_counter"] = 173,
-				["frags"] = {
-					["Mawsworn Soulrender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					9238, -- [1]
@@ -6937,25 +7014,25 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:27:27",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -6966,7 +7043,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 157.007961,
+							["Toshaman"] = 8600.00343,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -6974,40 +7055,19 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 157.007961,
-							["Toshaman"] = 8600.00343,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1009822.491,
-				["contra"] = "Mawsworn Soulrender",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 132,
-				["totals_grupo"] = {
-					8757, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Mawsworn Soulrender"] = 1,
 				},
 				["data_fim"] = "23:27:32",
 				["cleu_events"] = {
@@ -7015,12 +7075,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					8757, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009817.491,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:27:27",
+				["contra"] = "Mawsworn Soulrender",
+				["overall_added"] = true,
 			}, -- [7]
 			{
 				{
@@ -7037,7 +7115,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 8294.003886999999,
+							["damage_taken"] = 0.003887,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537646,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1654.829187354357,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[313663] = {
@@ -7056,20 +7146,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1450,
 										["c_max"] = 1450,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1450,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[188389] = {
 										["c_amt"] = 1,
@@ -7087,20 +7177,20 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 683,
 										["c_max"] = 366,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 366,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[316019] = {
 										["c_amt"] = 1,
@@ -7118,20 +7208,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 132,
 										["c_max"] = 88,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 316019,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 88,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -7149,20 +7239,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1711,
 										["c_max"] = 1711,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1711,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 1,
@@ -7180,20 +7270,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 2356,
 										["c_max"] = 1766,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1766,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -7211,47 +7301,35 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1962,
 										["c_max"] = 1962,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1962,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 8294.003886999999,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 8294.003886999999,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537646,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537627,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537646,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537646,
-							["last_dps"] = 1654.829187354357,
-							["start_time"] = 1606537627,
-							["delay"] = 0,
-							["damage_taken"] = 0.003887,
 						}, -- [1]
 						{
 							["flag_original"] = 8466,
@@ -7262,21 +7340,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Soulrender"] = 151,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 151.001691,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 151.001691,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537629,
+							["dps_started"] = false,
+							["total"] = 151.001691,
+							["damage_taken"] = 647.001691,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7296,33 +7374,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 151,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537632,
 							["last_dps"] = 30.12803092585091,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 647.001691,
+							["end_time"] = 1606537632,
+							["colocacao"] = 2,
+							["last_event"] = 1606537629,
+							["on_hold"] = false,
 							["start_time"] = 1606537629,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["aID"] = "167827",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -7334,20 +7412,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Frostwolf Warrior"] = 647,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169687-000041D14B",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 647.005762,
 							["aID"] = "169687",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 647.005762,
-							["damage_taken"] = 8445.005762,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537632,
-							["on_hold"] = false,
-							["last_event"] = 1606537630,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Soulrender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7369,31 +7448,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537630,
+							["damage_taken"] = 8445.005762,
 							["start_time"] = 1606537630,
-							["delay"] = 0,
-							["total"] = 647.005762,
+							["serial"] = "Creature-0-4230-2364-1845-169687-000041D14B",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -7418,7 +7496,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.001247,
 							["total"] = 0.001247,
-							["resource_type"] = 11,
+							["totalover"] = 0.001247,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7427,13 +7505,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.001247,
-							["tipo"] = 3,
-							["last_event"] = 1606537646,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537646,
+							["tipo"] = 3,
+							["alternatepower"] = 0.001247,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.001247,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -7446,26 +7524,26 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 4,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 4,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[313663] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 313663,
+										["uptime"] = 4,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 4,
-										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -7475,37 +7553,37 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268854,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 268854,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -7517,90 +7595,90 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[188196] = 1,
 							},
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
-							["last_event"] = 1606537632,
 							["tipo"] = 4,
+							["last_event"] = 1606537632,
+							["classe"] = "SHAMAN",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
 							["serial"] = "Player-3676-0AD945D6",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 10,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537632,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 10,
 							["tipo"] = 4,
+							["last_event"] = 1606537632,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
 							["spell_cast"] = {
 								[330664] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
-							["last_event"] = 0,
 						}, -- [3]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Soulrender",
-							["flag_original"] = 2632,
+							["aID"] = "169687",
 							["spell_cast"] = {
 								[335680] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-169687-000041D14B",
-							["aID"] = "169687",
+							["flag_original"] = 2632,
 						}, -- [4]
 					},
 				}, -- [4]
@@ -7611,8 +7689,8 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537627,
 				["last_events_tables"] = {
@@ -7621,8 +7699,7 @@ _detalhes_database = {
 				},
 				["enemy"] = "Mawsworn Soulrender",
 				["combat_counter"] = 172,
-				["frags"] = {
-					["Mawsworn Soulrender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					9092, -- [1]
@@ -7631,25 +7708,25 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:27:08",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -7660,7 +7737,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 151.001691,
+							["Toshaman"] = 8148.003887,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -7668,40 +7749,19 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 151.001691,
-							["Toshaman"] = 8148.003887,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1009803.475,
-				["contra"] = "Mawsworn Soulrender",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 131,
-				["totals_grupo"] = {
-					8445, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Mawsworn Soulrender"] = 1,
 				},
 				["data_fim"] = "23:27:13",
 				["cleu_events"] = {
@@ -7709,12 +7769,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					8445, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009798.463,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:27:08",
+				["contra"] = "Mawsworn Soulrender",
+				["overall_added"] = true,
 			}, -- [8]
 			{
 				{
@@ -7734,39 +7812,52 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 19717.007769,
+							["damage_taken"] = 2147.007769,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537614,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 761.2744312348369,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
-									[313663] = {
-										["c_amt"] = 1,
+									[285452] = {
+										["c_amt"] = 3,
 										["b_amt"] = 0,
-										["c_dmg"] = 1451,
+										["c_dmg"] = 6015,
 										["g_amt"] = 0,
-										["n_max"] = 756,
+										["n_max"] = 0,
 										["targets"] = {
-											["Mawsworn Guard"] = 2207,
+											["Mawsworn Guard"] = 1980,
+											["Mawsworn Soulrender"] = 4035,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 756,
-										["n_min"] = 756,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 2207,
-										["c_max"] = 1451,
-										["spellschool"] = 32,
-										["id"] = 313663,
+										["counter"] = 3,
+										["total"] = 6015,
+										["c_max"] = 2052,
+										["r_amt"] = 0,
+										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1451,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 1980,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188443] = {
 										["c_amt"] = 0,
@@ -7785,51 +7876,51 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 2100,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188443,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 6,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
-									[8042] = {
-										["c_amt"] = 0,
+									[313663] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 1451,
 										["g_amt"] = 0,
-										["n_max"] = 1632,
+										["n_max"] = 756,
 										["targets"] = {
-											["Mawsworn Guard"] = 1632,
+											["Mawsworn Guard"] = 2207,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 1632,
-										["n_min"] = 1632,
+										["n_dmg"] = 756,
+										["n_min"] = 756,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1632,
-										["c_max"] = 0,
-										["spellschool"] = 8,
-										["id"] = 8042,
+										["counter"] = 2,
+										["total"] = 2207,
+										["c_max"] = 1451,
+										["r_amt"] = 0,
+										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1451,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[188389] = {
 										["c_amt"] = 2,
@@ -7848,20 +7939,20 @@ _detalhes_database = {
 										["counter"] = 13,
 										["total"] = 1650,
 										["c_max"] = 363,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 214,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 11,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 1,
@@ -7880,20 +7971,20 @@ _detalhes_database = {
 										["counter"] = 8,
 										["total"] = 983,
 										["c_max"] = 266,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 266,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 7,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -7911,20 +8002,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1730,
 										["c_max"] = 1730,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1730,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -7942,79 +8033,66 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 3400,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[285452] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 6015,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Mawsworn Guard"] = 1980,
-											["Mawsworn Soulrender"] = 4035,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 6015,
-										["c_max"] = 2052,
-										["spellschool"] = 4,
-										["id"] = 285452,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 8,
+									},
+									[8042] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1632,
+										["targets"] = {
+											["Mawsworn Guard"] = 1632,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1632,
+										["n_min"] = 1632,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1632,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 8042,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1980,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 19717.007769,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 19717.007769,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537612,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537586,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537614,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537612,
-							["last_dps"] = 761.2744312348369,
-							["start_time"] = 1606537586,
-							["delay"] = 0,
-							["damage_taken"] = 2147.007769,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -8027,20 +8105,21 @@ _detalhes_database = {
 								["Frostwolf Warrior"] = 5364,
 								["Toshaman"] = 1155,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167703-000041D0A5",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 6519.006096,
 							["aID"] = "167703",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6519.006096,
-							["damage_taken"] = 18110.006096,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537614,
-							["on_hold"] = false,
-							["last_event"] = 1606537610,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Guard",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8059,23 +8138,23 @@ _detalhes_database = {
 										["n_min"] = 247,
 										["g_dmg"] = 0,
 										["counter"] = 15,
-										["DODGE"] = 2,
+										["r_amt"] = 0,
 										["total"] = 6519,
 										["c_max"] = 815,
-										["spellschool"] = 1,
+										["extra"] = {
+										},
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 815,
-										["successful_casted"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 815,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 12,
-										["extra"] = {
-										},
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["DODGE"] = 2,
 									}, -- [1]
 									[294165] = {
 										["c_amt"] = 0,
@@ -8094,31 +8173,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 294165,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537610,
+							["damage_taken"] = 18110.006096,
 							["start_time"] = 1606537588,
-							["delay"] = 0,
-							["total"] = 6519.006096,
+							["serial"] = "Creature-0-4230-2364-1845-167703-000041D0A5",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -8130,20 +8208,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Toshaman"] = 992,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169687-000041D04B",
+							["delay"] = 1606537591,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 992.007662,
 							["aID"] = "169687",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 992.007662,
-							["damage_taken"] = 7969.007662,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537614,
-							["on_hold"] = false,
-							["last_event"] = 1606537591,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Soulrender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8165,31 +8244,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537591,
+							["damage_taken"] = 7969.007662,
 							["start_time"] = 1606537611,
-							["delay"] = 1606537591,
-							["total"] = 992.007662,
+							["serial"] = "Creature-0-4230-2364-1845-169687-000041D04B",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 						{
 							["flag_original"] = 8466,
@@ -8201,21 +8279,21 @@ _detalhes_database = {
 								["Mawsworn Guard"] = 5679,
 								["Mawsworn Soulrender"] = 683,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6362.003116,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 6362.003116,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537611,
+							["dps_started"] = false,
+							["total"] = 6362.003116,
+							["damage_taken"] = 5364.003116,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8236,20 +8314,20 @@ _detalhes_database = {
 										["counter"] = 8,
 										["total"] = 1366,
 										["c_max"] = 280,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 280,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 7,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[342872] = {
 										["c_amt"] = 0,
@@ -8268,33 +8346,33 @@ _detalhes_database = {
 										["counter"] = 21,
 										["total"] = 4996,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 342872,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 21,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537614,
 							["last_dps"] = 245.6371859457251,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 5364.003116,
+							["end_time"] = 1606537614,
+							["colocacao"] = 2,
+							["last_event"] = 1606537611,
+							["on_hold"] = false,
 							["start_time"] = 1606537588,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["aID"] = "167827",
 						}, -- [4]
 					},
 				}, -- [1]
@@ -8304,18 +8382,16 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Toshaman"] = 4,
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 4.004798,
 							["total_without_pet"] = 2147.004798,
 							["total"] = 2147.004798,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -8329,9 +8405,10 @@ _detalhes_database = {
 							["healing_taken"] = 0.004798,
 							["fight_component"] = true,
 							["end_time"] = 1606537614,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Toshaman"] = 4,
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8355,36 +8432,36 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 2147,
-										["n_amt"] = 5,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 5,
+										["n_curado"] = 2147,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537590,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.004798,
 							["custom"] = 0,
 							["last_event"] = 1606537610,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.004798,
+							["start_time"] = 1606537590,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["aID"] = "3676-0AD945D6",
+							["classe"] = "SHAMAN",
 							["totalover"] = 0.001117,
 							["total_without_pet"] = 0.001117,
 							["total"] = 0.001117,
@@ -8402,9 +8479,10 @@ _detalhes_database = {
 							["healing_taken"] = 2147.001117,
 							["fight_component"] = true,
 							["end_time"] = 1606537614,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
-							["classe"] = "SHAMAN",
+							["last_event"] = 0,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8412,14 +8490,14 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537614,
+							["aID"] = "3676-0AD945D6",
+							["totaldenied"] = 0.001117,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["spec"] = 262,
-							["totaldenied"] = 0.001117,
+							["start_time"] = 1606537614,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["heal_enemy_amt"] = 0,
 						}, -- [2]
 					},
 				}, -- [2]
@@ -8439,7 +8517,7 @@ _detalhes_database = {
 							["passiveover"] = 0.004362,
 							["fight_component"] = true,
 							["total"] = 0.004362,
-							["resource_type"] = 11,
+							["totalover"] = 0.004362,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8448,13 +8526,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.004362,
-							["tipo"] = 3,
-							["last_event"] = 1606537627,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537627,
+							["tipo"] = 3,
+							["alternatepower"] = 0.004362,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.004362,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -8467,26 +8545,26 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[313663] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 313663,
+										["uptime"] = 10,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 10,
-										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[188389] = {
-										["appliedamt"] = 3,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 19,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 19,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 3,
 									},
 								},
 								["tipo"] = 9,
@@ -8509,65 +8587,71 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 28,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 28,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 3,
+										["id"] = 268854,
+										["uptime"] = 17,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 17,
-										["id"] = 268854,
-										["refreshamt"] = 3,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 2,
 									},
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 28,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 28,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[77762] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 77762,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 6,
-										["id"] = 77762,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 2,
 									},
 									[268856] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268856,
+										["uptime"] = 10,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 10,
-										["id"] = 268856,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 29,
+							["debuff_uptime_targets"] = {
+							},
+							["cc_done"] = 3.003018,
+							["nome"] = "Toshaman",
+							["spec"] = 262,
+							["grupo"] = true,
 							["spell_cast"] = {
 								[51505] = 3,
 								[188443] = 1,
@@ -8576,131 +8660,123 @@ _detalhes_database = {
 								[192058] = 1,
 								[188196] = 3,
 							},
-							["cc_done"] = 3.003018,
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["cc_done_targets"] = {
-								["Mawsworn Guard"] = 2,
-								["Mawsworn Soulrender"] = 1,
-							},
 							["classe"] = "SHAMAN",
-							["buff_uptime_targets"] = {
-							},
+							["last_event"] = 1606537614,
 							["tipo"] = 4,
 							["pets"] = {
 								"Capacitor Totem <Toshaman>", -- [1]
 							},
-							["last_event"] = 1606537614,
+							["buff_uptime_targets"] = {
+							},
 							["serial"] = "Player-3676-0AD945D6",
-							["debuff_uptime_targets"] = {
+							["cc_done_targets"] = {
+								["Mawsworn Guard"] = 2,
+								["Mawsworn Soulrender"] = 1,
 							},
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 56,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 56,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606537614,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 28,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 28,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 28,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 28,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Soulrender",
-							["flag_original"] = 2632,
+							["aID"] = "169687",
 							["spell_cast"] = {
 								[335680] = 2,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-169687-000041D04B",
-							["aID"] = "169687",
+							["flag_original"] = 2632,
 						}, -- [3]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Guard",
-							["flag_original"] = 2632,
+							["aID"] = "167703",
 							["spell_cast"] = {
 								[294165] = 2,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-167703-000041D0A5",
-							["aID"] = "167703",
+							["flag_original"] = 2632,
 						}, -- [4]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
 							["spell_cast"] = {
 								[342873] = 2,
 								[330664] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
-							["last_event"] = 0,
 						}, -- [5]
 						{
 							["flag_original"] = 8466,
 							["classe"] = "PET",
-							["ownerName"] = "Toshaman",
-							["nome"] = "Capacitor Totem <Toshaman>",
 							["cc_done"] = 3.004119,
+							["nome"] = "Capacitor Totem <Toshaman>",
 							["last_event"] = 1606537593,
-							["cc_done_targets"] = {
-								["Mawsworn Guard"] = 2,
-								["Mawsworn Soulrender"] = 1,
+							["ownerName"] = "Toshaman",
+							["spell_cast"] = {
+								[118905] = 1,
 							},
-							["pets"] = {
-							},
+							["tipo"] = 4,
 							["cc_done_spells"] = {
 								["_ActorTable"] = {
 									[118905] = {
@@ -8715,10 +8791,12 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["aID"] = "61245",
-							["tipo"] = 4,
+							["cc_done_targets"] = {
+								["Mawsworn Guard"] = 2,
+								["Mawsworn Soulrender"] = 1,
+							},
 							["serial"] = "Creature-0-4230-2364-1845-61245-000041D178",
-							["spell_cast"] = {
-								[118905] = 1,
+							["pets"] = {
 							},
 						}, -- [6]
 					},
@@ -8730,8 +8808,8 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537586,
 				["last_events_tables"] = {
@@ -8740,9 +8818,7 @@ _detalhes_database = {
 				},
 				["enemy"] = "Mawsworn Guard",
 				["combat_counter"] = 171,
-				["frags"] = {
-					["Mawsworn Guard"] = 2,
-					["Mawsworn Soulrender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					33590, -- [1]
@@ -8751,25 +8827,25 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:26:27",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -8780,50 +8856,34 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Toshaman"] = 0.001117,
-							["Toshdruid"] = 2147.004798,
-						}, -- [1]
-					},
 					["damage"] = {
 						{
 							["Frostwolf Warrior"] = 6362.003116,
 							["Toshaman"] = 19717.007769,
 						}, -- [1]
 					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Toshdruid"] = 2147.004798,
+							["Toshaman"] = 0.001117,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
 				},
 				["end_time"] = 1009785.554,
-				["contra"] = "Mawsworn Guard",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 130,
-				["totals_grupo"] = {
-					26079, -- [1]
-					2147, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Mawsworn Guard"] = 2,
+					["Mawsworn Soulrender"] = 1,
 				},
 				["data_fim"] = "23:26:55",
 				["cleu_events"] = {
@@ -8831,12 +8891,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					26079, -- [1]
+					2147, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009757.554,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:26:27",
+				["contra"] = "Mawsworn Guard",
+				["overall_added"] = true,
 			}, -- [9]
 			{
 				{
@@ -8854,19 +8932,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["aID"] = "3676-0AD945D6",
-							["damage_taken"] = 0.002087,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9817.002087,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
+							["spec"] = 262,
+							["delay"] = 0,
 							["dps_started"] = false,
-							["total"] = 9817.002087,
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606537586,
+							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 892.1303241583261,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8887,20 +8965,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 1033,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188443,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[8042] = {
 										["c_amt"] = 0,
@@ -8918,20 +8996,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 3958,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 8042,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 0,
@@ -8949,20 +9027,20 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 497,
 										["c_max"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 0,
@@ -8980,20 +9058,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 255,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -9011,20 +9089,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2167,
 										["c_max"] = 2167,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 2167,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -9042,20 +9120,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 893,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 0,
@@ -9073,34 +9151,34 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1014,
 										["c_max"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537586,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
+							["total"] = 9817.002087,
 							["last_event"] = 1606537584,
-							["last_dps"] = 892.1303241583261,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["damage_taken"] = 0.002087,
 							["start_time"] = 1606537567,
-							["delay"] = 0,
-							["spec"] = 262,
+							["serial"] = "Player-3676-0AD945D6",
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 						{
 							["flag_original"] = 8466,
@@ -9111,21 +9189,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Guard"] = 657,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 657.005294,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 657.005294,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537586,
+							["dps_started"] = false,
+							["total"] = 657.005294,
+							["damage_taken"] = 659.005294,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9145,33 +9223,33 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 657,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537586,
 							["last_dps"] = 59.70604271197364,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 659.005294,
+							["end_time"] = 1606537586,
+							["colocacao"] = 2,
+							["last_event"] = 1606537586,
+							["on_hold"] = false,
 							["start_time"] = 1606537568,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["aID"] = "167827",
 						}, -- [2]
 						{
 							["flag_original"] = 1297,
@@ -9183,35 +9261,35 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["spec"] = 105,
-							["aID"] = "3676-0B20F78C",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.00405,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Player-3676-0B20F78C",
-							["dps_started"] = false,
-							["total"] = 0.00405,
 							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["end_time"] = 1606537574,
-							["last_event"] = 0,
-							["colocacao"] = 3,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0.0004233744511816379,
-							["start_time"] = 1606537574,
-							["delay"] = 0,
+							["aID"] = "3676-0B20F78C",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00405,
 							["damage_taken"] = 722.00405,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537574,
+							["classe"] = "DRUID",
+							["last_dps"] = 0.0004233744511816379,
+							["nome"] = "Toshdruid",
+							["spec"] = 105,
+							["grupo"] = true,
+							["total"] = 0.00405,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["colocacao"] = 3,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606537574,
+							["serial"] = "Player-3676-0B20F78C",
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -9224,20 +9302,21 @@ _detalhes_database = {
 								["Frostwolf Warrior"] = 659,
 								["Toshdruid"] = 722,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167703-000041D154",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 1381.008967,
 							["aID"] = "167703",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1381.008967,
-							["damage_taken"] = 10135.008967,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537574,
-							["on_hold"] = false,
-							["last_event"] = 1606537572,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Guard",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9258,34 +9337,33 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 1381,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537572,
+							["damage_taken"] = 10135.008967,
 							["start_time"] = 1606537563,
-							["delay"] = 0,
-							["total"] = 1381.008967,
+							["serial"] = "Creature-0-4230-2364-1845-167703-000041D154",
+							["classe"] = "UNKNOW",
 						}, -- [4]
 					},
 				}, -- [1]
@@ -9295,18 +9373,17 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Toshdruid"] = 138,
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 138.003762,
 							["total_without_pet"] = 722.003762,
 							["total"] = 722.003762,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -9320,10 +9397,10 @@ _detalhes_database = {
 							["healing_taken"] = 722.003762,
 							["fight_component"] = true,
 							["end_time"] = 1606537574,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
+								["Toshdruid"] = 138,
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9347,26 +9424,27 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 722,
-										["n_amt"] = 2,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 722,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537565,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.003762,
 							["custom"] = 0,
 							["last_event"] = 1606537570,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.003762,
+							["start_time"] = 1606537565,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -9385,22 +9463,22 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.003146,
 							["total"] = 0.003146,
+							["totalover"] = 0.003146,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
 							["grupo"] = true,
 							["resource_type"] = 11,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.003146,
-							["tipo"] = 3,
-							["last_event"] = 1606537586,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537586,
+							["tipo"] = 3,
+							["alternatepower"] = 0.003146,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.003146,
+							["spec"] = 262,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -9413,15 +9491,15 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 5,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -9432,13 +9510,13 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[294165] = 1,
-										},
+										["counter"] = 1,
 										["targets"] = {
 											["Mawsworn Guard"] = 1,
 										},
-										["counter"] = 1,
+										["interrompeu_oque"] = {
+											[294165] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -9446,48 +9524,48 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 11,
+										["refreshamt"] = 0,
 										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268854] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
 										["uptime"] = 11,
-										["id"] = 268854,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[317859] = {
-										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 7,
-										["id"] = 317859,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 11,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 11,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[268854] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268854,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 7,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -9496,10 +9574,10 @@ _detalhes_database = {
 								[294165] = 1,
 							},
 							["debuff_uptime"] = 5,
-							["classe"] = "SHAMAN",
+							["interrupt"] = 1.003678,
+							["spec"] = 262,
 							["buff_uptime_targets"] = {
 							},
-							["interrupt"] = 1.003678,
 							["interrupt_targets"] = {
 								["Mawsworn Guard"] = 1,
 							},
@@ -9511,74 +9589,74 @@ _detalhes_database = {
 								[188196] = 1,
 								[51505] = 1,
 							},
+							["pets"] = {
+							},
+							["last_event"] = 1606537574,
+							["tipo"] = 4,
+							["nome"] = "Toshaman",
 							["debuff_uptime_targets"] = {
 							},
-							["nome"] = "Toshaman",
-							["tipo"] = 4,
-							["last_event"] = 1606537574,
-							["pets"] = {
-							},
 							["serial"] = "Player-3676-0AD945D6",
-							["spec"] = 262,
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 22,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 22,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606537574,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 11,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 11,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 11,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 11,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
 							["spell_cast"] = {
 								[330664] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
-							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -9589,15 +9667,17 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
-				["tempo_start"] = 1606537563,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["combat_counter"] = 170,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					11854.992156, -- [1]
 					722, -- [2]
@@ -9605,42 +9685,23 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 1,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
-				["totals_grupo"] = {
-					10474, -- [1]
-					722, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 1,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
@@ -9658,29 +9719,23 @@ _detalhes_database = {
 				["data_inicio"] = "23:26:04",
 				["end_time"] = 1009745.829,
 				["combat_id"] = 129,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
 				["frags"] = {
 					["Mawsworn Guard"] = 1,
 				},
-				["TimeData"] = {
+				["tempo_start"] = 1606537563,
+				["spells_cast_timeline"] = {
 				},
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 1009734.825,
-				["contra"] = "Mawsworn Guard",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 485.005294,
+							["Toshaman"] = 8784.002087,
+							["Toshdruid"] = 0.00405,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -9689,13 +9744,36 @@ _detalhes_database = {
 							["Toshdruid"] = 722.003762,
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 485.005294,
-							["Toshdruid"] = 0.00405,
-							["Toshaman"] = 8784.002087,
-						}, -- [1]
+					["damage_section"] = {
 					},
+				},
+				["combat_counter"] = 170,
+				["CombatSkillCache"] = {
+				},
+				["contra"] = "Mawsworn Guard",
+				["start_time"] = 1009734.825,
+				["TimeData"] = {
+				},
+				["totals_grupo"] = {
+					10474, -- [1]
+					722, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 			}, -- [10]
 			{
@@ -9714,19 +9792,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["aID"] = "3676-0AD945D6",
-							["damage_taken"] = 564.001491,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 8244.001490999999,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
+							["spec"] = 262,
+							["delay"] = 0,
 							["dps_started"] = false,
-							["total"] = 8244.001490999999,
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["end_time"] = 1606537561,
+							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1017.777961854777,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9746,20 +9824,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 725,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[188389] = {
 										["c_amt"] = 3,
@@ -9777,20 +9855,20 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 872,
 										["c_max"] = 214,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 213,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 1,
@@ -9808,20 +9886,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 352,
 										["c_max"] = 251,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 251,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -9839,20 +9917,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1679,
 										["c_max"] = 1679,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1679,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -9870,20 +9948,20 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 2673,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -9901,34 +9979,34 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1943,
 										["c_max"] = 1943,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1943,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537561,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
+							["total"] = 8244.001490999999,
 							["last_event"] = 1606537560,
-							["last_dps"] = 1017.777961854777,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["damage_taken"] = 564.001491,
 							["start_time"] = 1606537552,
-							["delay"] = 0,
-							["spec"] = 262,
+							["serial"] = "Player-3676-0AD945D6",
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -9941,20 +10019,21 @@ _detalhes_database = {
 								["Frostwolf Warrior"] = 637,
 								["Toshaman"] = 564,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169687-000041D14A",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 1201.004959,
 							["aID"] = "169687",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1201.004959,
-							["damage_taken"] = 8548.004959,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537561,
-							["on_hold"] = false,
-							["last_event"] = 1606537560,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Soulrender",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9975,34 +10054,33 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 1201,
 										["c_max"] = 0,
-										["MISS"] = 1,
+										["r_amt"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 3,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537560,
+							["damage_taken"] = 8548.004959,
 							["start_time"] = 1606537556,
-							["delay"] = 0,
-							["total"] = 1201.004959,
+							["serial"] = "Creature-0-4230-2364-1845-169687-000041D14A",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
@@ -10013,21 +10091,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Soulrender"] = 304,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 304.003104,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 304.003104,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537559,
+							["dps_started"] = false,
+							["total"] = 304.003104,
+							["damage_taken"] = 637.003104,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10047,33 +10125,33 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 304,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537561,
 							["last_dps"] = 37.53124740751529,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 637.003104,
+							["end_time"] = 1606537561,
+							["colocacao"] = 2,
+							["last_event"] = 1606537559,
+							["on_hold"] = false,
 							["start_time"] = 1606537557,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["aID"] = "167827",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -10083,17 +10161,16 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.00746,
 							["total_without_pet"] = 431.00746,
 							["total"] = 431.00746,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -10107,9 +10184,9 @@ _detalhes_database = {
 							["healing_taken"] = 0.00746,
 							["fight_component"] = true,
 							["end_time"] = 1606537561,
-							["healing_from"] = {
+							["targets_overheal"] = {
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10132,40 +10209,41 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 431,
-										["n_amt"] = 1,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 431,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537560,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.00746,
 							["custom"] = 0,
 							["last_event"] = 1606537560,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.00746,
+							["start_time"] = 1606537560,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "SHAMAN",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.004191,
 							["total_without_pet"] = 0.004191,
 							["total"] = 0.004191,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 262,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -10178,10 +10256,9 @@ _detalhes_database = {
 							["healing_taken"] = 431.004191,
 							["fight_component"] = true,
 							["end_time"] = 1606537561,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
-							["spec"] = 262,
+							["tipo"] = 2,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10189,14 +10266,15 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537561,
+							["classe"] = "SHAMAN",
+							["totaldenied"] = 0.004191,
 							["custom"] = 0,
 							["last_event"] = 0,
 							["aID"] = "3676-0AD945D6",
-							["totaldenied"] = 0.004191,
+							["start_time"] = 1606537561,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [2]
@@ -10216,22 +10294,22 @@ _detalhes_database = {
 							["passiveover"] = 0.005598,
 							["fight_component"] = true,
 							["total"] = 0.005598,
+							["totalover"] = 0.005598,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
 							["grupo"] = true,
 							["resource_type"] = 11,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.005598,
-							["tipo"] = 3,
-							["last_event"] = 1606537560,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537560,
+							["tipo"] = 3,
+							["alternatepower"] = 0.005598,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.005598,
+							["spec"] = 262,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -10244,15 +10322,15 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 8,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -10262,37 +10340,37 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 9,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 268854,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 268854,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 9,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -10306,90 +10384,90 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[188196] = 3,
 							},
+							["nome"] = "Toshaman",
+							["tipo"] = 4,
+							["last_event"] = 1606537561,
+							["classe"] = "SHAMAN",
+							["pets"] = {
+							},
+							["serial"] = "Player-3676-0AD945D6",
 							["debuff_uptime_targets"] = {
 							},
-							["last_event"] = 1606537561,
-							["tipo"] = 4,
-							["pets"] = {
-							},
-							["classe"] = "SHAMAN",
-							["serial"] = "Player-3676-0AD945D6",
-							["nome"] = "Toshaman",
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 18,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 18,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606537561,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 9,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 9,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Soulrender",
-							["flag_original"] = 2632,
+							["aID"] = "169687",
 							["spell_cast"] = {
 								[335680] = 3,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-169687-000041D14A",
-							["aID"] = "169687",
+							["flag_original"] = 2632,
 						}, -- [3]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
 							["spell_cast"] = {
 								[330664] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
-							["last_event"] = 0,
 						}, -- [4]
 					},
 				}, -- [4]
@@ -10400,18 +10478,20 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["CombatStartedAt"] = 1009733.079,
-				["tempo_start"] = 1606537552,
-				["last_events_tables"] = {
+				["overall_added"] = true,
+				["cleu_timeline"] = {
 				},
 				["alternate_power"] = {
 				},
 				["enemy"] = "Mawsworn Soulrender",
-				["combat_counter"] = 169,
-				["overall_added"] = true,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1606537552,
 				["totals"] = {
 					9749, -- [1]
 					431, -- [2]
@@ -10419,60 +10499,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Toshaman"] = 0.004191,
-							["Toshdruid"] = 431.00746,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 304.003104,
-							["Toshaman"] = 8244.001490999999,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 1009732.679,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 128,
-				["frags"] = {
-					["Mawsworn Soulrender"] = 1,
+					["frags_total"] = 0,
 				},
 				["totals_grupo"] = {
 					8548, -- [1]
@@ -10481,32 +10522,69 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["last_events_tables"] = {
 				},
-				["data_fim"] = "23:26:02",
-				["instance_type"] = "none",
-				["CombatSkillCache"] = {
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
 				},
 				["data_inicio"] = "23:25:53",
+				["end_time"] = 1009732.679,
+				["combat_counter"] = 169,
+				["instance_type"] = "none",
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+					["Mawsworn Soulrender"] = 1,
+				},
+				["data_fim"] = "23:26:02",
+				["contra"] = "Mawsworn Soulrender",
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 304.003104,
+							["Toshaman"] = 8244.001490999999,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Toshdruid"] = 431.00746,
+							["Toshaman"] = 0.004191,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["start_time"] = 1009723.679,
 				["TimeData"] = {
 				},
-				["contra"] = "Mawsworn Soulrender",
+				["combat_id"] = 128,
 			}, -- [11]
 			{
 				{
@@ -10521,21 +10599,20 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Soulrender"] = 8813,
 							},
-							["serial"] = "Player-3676-0AD945D6",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 8813.00665,
-							["aID"] = "3676-0AD945D6",
+							["on_hold"] = false,
 							["dps_started"] = false,
 							["total"] = 8813.00665,
-							["on_hold"] = false,
-							["last_event"] = 1606537533,
+							["damage_taken"] = 0.00665,
+							["tipo"] = 1,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10555,20 +10632,20 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 597,
 										["c_max"] = 213,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 213,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 0,
@@ -10586,20 +10663,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 201,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -10617,20 +10694,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1957,
 										["c_max"] = 1957,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1957,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 1,
@@ -10648,20 +10725,20 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 4336,
 										["c_max"] = 1762,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1762,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285466] = {
 										["c_amt"] = 1,
@@ -10679,33 +10756,34 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1722,
 										["c_max"] = 1722,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1722,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537534,
 							["last_dps"] = 1190.946844590847,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.00665,
+							["end_time"] = 1606537534,
+							["colocacao"] = 1,
+							["last_event"] = 1606537533,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537526,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Player-3676-0AD945D6",
+							["aID"] = "3676-0AD945D6",
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -10716,36 +10794,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Creature-0-4230-2364-1845-169687-000041CFEF",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire_total"] = 0,
+							["total"] = 0.007707,
 							["aID"] = "169687",
-							["monster"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007707,
-							["damage_taken"] = 9002.007707,
 							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1606537534,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 0,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Soulrender",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 9002.007707,
 							["start_time"] = 1606537534,
-							["delay"] = 0,
-							["total"] = 0.007707,
+							["serial"] = "Creature-0-4230-2364-1845-169687-000041CFEF",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
@@ -10755,21 +10833,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Soulrender"] = 189,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 189.007027,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 189.007027,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537532,
+							["dps_started"] = false,
+							["total"] = 189.007027,
+							["damage_taken"] = 0.007027,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10789,33 +10867,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 189,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537534,
 							["last_dps"] = 25.54149013505477,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.007027,
+							["end_time"] = 1606537534,
+							["colocacao"] = 2,
+							["last_event"] = 1606537532,
+							["on_hold"] = false,
 							["start_time"] = 1606537532,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
+							["aID"] = "167827",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -10847,14 +10925,14 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["resource_type"] = 11,
+							["totalover"] = 0.003167,
 							["flag_original"] = 1298,
-							["alternatepower"] = 0.003167,
+							["last_event"] = 1606537552,
 							["tipo"] = 3,
 							["aID"] = "3676-0AD945D6",
-							["last_event"] = 1606537552,
+							["alternatepower"] = 0.003167,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.003167,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -10873,10 +10951,10 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1606537533,
 										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 									},
 								},
 								["tipo"] = 9,
@@ -10887,13 +10965,13 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[335680] = 1,
-										},
+										["counter"] = 1,
 										["targets"] = {
 											["Mawsworn Soulrender"] = 1,
 										},
-										["counter"] = 1,
+										["interrompeu_oque"] = {
+											[335680] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -10901,26 +10979,26 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -10929,9 +11007,9 @@ _detalhes_database = {
 								[335680] = 1,
 							},
 							["debuff_uptime"] = 0,
-							["nome"] = "Toshaman",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Toshaman",
 							["interrupt_targets"] = {
 								["Mawsworn Soulrender"] = 1,
 							},
@@ -10941,72 +11019,72 @@ _detalhes_database = {
 								[57994] = 1,
 							},
 							["classe"] = "SHAMAN",
-							["interrupt"] = 1.004197,
+							["last_event"] = 1606537534,
 							["tipo"] = 4,
 							["pets"] = {
 							},
-							["last_event"] = 1606537534,
+							["interrupt"] = 1.004197,
 							["serial"] = "Player-3676-0AD945D6",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 16,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537534,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 16,
 							["tipo"] = 4,
+							["last_event"] = 1606537534,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
 							["spell_cast"] = {
 								[330664] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D10C",
-							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -11017,8 +11095,8 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537526,
 				["last_events_tables"] = {
@@ -11027,8 +11105,7 @@ _detalhes_database = {
 				},
 				["enemy"] = "Mawsworn Soulrender",
 				["combat_counter"] = 168,
-				["frags"] = {
-					["Mawsworn Soulrender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					9002, -- [1]
@@ -11037,25 +11114,25 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 1,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:25:27",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -11066,7 +11143,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 189.007027,
+							["Toshaman"] = 8813.00665,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -11074,40 +11155,19 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 189.007027,
-							["Toshaman"] = 8813.00665,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1009705.458,
-				["contra"] = "Mawsworn Soulrender",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 127,
-				["totals_grupo"] = {
-					9002, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 1,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Mawsworn Soulrender"] = 1,
 				},
 				["data_fim"] = "23:25:35",
 				["cleu_events"] = {
@@ -11115,12 +11175,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					9002, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009697.458,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:25:27",
+				["contra"] = "Mawsworn Soulrender",
+				["overall_added"] = true,
 			}, -- [12]
 			{
 				{
@@ -11134,24 +11212,23 @@ _detalhes_database = {
 								["Scavenging Mawrat"] = true,
 							},
 							["targets"] = {
-								["Mawsworn Soulrender"] = 360,
 								["Scavenging Mawrat"] = 5988,
+								["Mawsworn Soulrender"] = 360,
 							},
-							["serial"] = "Player-3676-0AD945D6",
+							["delay"] = 1606537435,
 							["pets"] = {
 							},
-							["colocacao"] = 1,
+							["custom"] = 0,
+							["damage_taken"] = 598.0016889999999,
 							["friendlyfire_total"] = 0,
-							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6348.001689000001,
 							["aID"] = "3676-0AD945D6",
 							["dps_started"] = false,
 							["total"] = 6348.001689000001,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 1606537525,
+							["on_hold"] = false,
+							["tipo"] = 1,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11171,20 +11248,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 728,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[188196] = {
 										["c_amt"] = 1,
@@ -11202,20 +11279,20 @@ _detalhes_database = {
 										["counter"] = 6,
 										["total"] = 5260,
 										["c_max"] = 1738,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1738,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 1,
@@ -11233,33 +11310,34 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 360,
 										["c_max"] = 360,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 360,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537526,
 							["last_dps"] = 117.5142392307039,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
+							["end_time"] = 1606537526,
+							["colocacao"] = 1,
+							["last_event"] = 1606537525,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537438,
-							["delay"] = 1606537435,
-							["damage_taken"] = 598.0016889999999,
+							["serial"] = "Player-3676-0AD945D6",
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
 							["flag_original"] = 8466,
@@ -11270,21 +11348,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Scavenging Mawrat"] = 4032,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D084",
+							["delay"] = 1606537408,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4032.004163,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 4032.004163,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537408,
+							["dps_started"] = false,
+							["total"] = 4032.004163,
+							["damage_taken"] = 1632.004163,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11304,20 +11382,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 863,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 342875,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									},
 									[342872] = {
 										["c_amt"] = 0,
@@ -11335,33 +11413,33 @@ _detalhes_database = {
 										["counter"] = 14,
 										["total"] = 3169,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 342872,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 14,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537450,
 							["last_dps"] = 74.64048136770683,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 1632.004163,
+							["end_time"] = 1606537450,
+							["colocacao"] = 2,
+							["last_event"] = 1606537408,
+							["on_hold"] = false,
 							["start_time"] = 1606537443,
-							["delay"] = 1606537408,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D084",
+							["aID"] = "167827",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -11373,24 +11451,25 @@ _detalhes_database = {
 							},
 							["targets"] = {
 								["Frostwolf Warrior"] = 1632,
-								["Muramune"] = 1680,
-								["Knight of the Ebon Blade"] = 108,
 								["Toshaman"] = 598,
+								["Knight of the Ebon Blade"] = 108,
+								["Muramune"] = 1680,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-165978-000041D0AB",
+							["delay"] = 1606537435,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 4018.003137,
 							["aID"] = "165978",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4018.003137,
-							["damage_taken"] = 13722.003137,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537450,
-							["on_hold"] = false,
-							["last_event"] = 1606537435,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Scavenging Mawrat",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11402,33 +11481,33 @@ _detalhes_database = {
 										["n_max"] = 80,
 										["targets"] = {
 											["Frostwolf Warrior"] = 1353,
-											["Muramune"] = 1204,
-											["Knight of the Ebon Blade"] = 72,
 											["Toshaman"] = 348,
+											["Knight of the Ebon Blade"] = 72,
+											["Muramune"] = 1204,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 2137,
-										["DODGE"] = 4,
+										["total"] = 2977,
 										["n_min"] = 31,
 										["g_dmg"] = 0,
 										["counter"] = 45,
-										["MISS"] = 2,
+										["spellschool"] = 1,
 										["r_amt"] = 0,
 										["c_max"] = 153,
 										["b_dmg"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 113,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["a_dmg"] = 0,
+										["extra"] = {
+										},
 										["n_amt"] = 33,
-										["spellschool"] = 1,
-										["total"] = 2977,
+										["MISS"] = 2,
+										["DODGE"] = 4,
 									}, -- [1]
 									[332656] = {
 										["c_amt"] = 0,
@@ -11438,46 +11517,45 @@ _detalhes_database = {
 										["n_max"] = 42,
 										["targets"] = {
 											["Frostwolf Warrior"] = 279,
-											["Muramune"] = 476,
-											["Knight of the Ebon Blade"] = 36,
 											["Toshaman"] = 250,
+											["Knight of the Ebon Blade"] = 36,
+											["Muramune"] = 476,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 1041,
 										["n_min"] = 16,
 										["g_dmg"] = 0,
 										["counter"] = 34,
-										["MISS"] = 2,
+										["r_amt"] = 0,
 										["total"] = 1041,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["extra"] = {
+										},
 										["id"] = 332656,
 										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 33,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 33,
+										["a_dmg"] = 0,
 										["n_amt"] = 32,
-										["extra"] = {
-										},
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["MISS"] = 2,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537435,
+							["damage_taken"] = 13722.003137,
 							["start_time"] = 1606537410,
-							["delay"] = 1606537435,
-							["total"] = 4018.003137,
+							["serial"] = "Creature-0-4230-2364-1845-165978-000041D0AB",
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -11487,18 +11565,16 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Toshaman"] = 1983,
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 1983.005994,
 							["total_without_pet"] = 598.005994,
 							["total"] = 598.005994,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -11512,9 +11588,10 @@ _detalhes_database = {
 							["healing_taken"] = 0.005994,
 							["fight_component"] = true,
 							["end_time"] = 1606537450,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["Toshaman"] = 1983,
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11538,36 +11615,36 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 598,
-										["n_amt"] = 6,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 6,
+										["n_curado"] = 598,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537429,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.005994,
 							["custom"] = 0,
 							["last_event"] = 1606537435,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.005994,
+							["start_time"] = 1606537429,
 							["delay"] = 1606537435,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "3676-0AD945D6",
 							["totalover"] = 0.004078,
 							["total_without_pet"] = 0.004078,
 							["total"] = 0.004078,
@@ -11585,8 +11662,7 @@ _detalhes_database = {
 							["healing_taken"] = 598.0040779999999,
 							["fight_component"] = true,
 							["end_time"] = 1606537450,
-							["targets_overheal"] = {
-							},
+							["classe"] = "SHAMAN",
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11594,14 +11670,16 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "SHAMAN",
-							["aID"] = "3676-0AD945D6",
+							["healing_from"] = {
+								["Toshdruid"] = true,
+							},
+							["tipo"] = 2,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["start_time"] = 1606537450,
 							["totaldenied"] = 0.004078,
+							["start_time"] = 1606537450,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["heal_enemy_amt"] = 0,
 						}, -- [2]
 					},
 				}, -- [2]
@@ -11628,14 +11706,14 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["resource_type"] = 11,
+							["totalover"] = 0.007188,
 							["flag_original"] = 1298,
-							["alternatepower"] = 0.007188,
+							["last_event"] = 1606537525,
 							["tipo"] = 3,
 							["aID"] = "3676-0AD945D6",
-							["last_event"] = 1606537525,
+							["alternatepower"] = 0.007188,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.007188,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -11644,95 +11722,95 @@ _detalhes_database = {
 					["combatId"] = 126,
 					["_ActorTable"] = {
 						{
-							["fight_component"] = true,
-							["pets"] = {
-							},
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["grupo"] = true,
-							["nome"] = "Toshaman",
 							["spell_cast"] = {
 								[2645] = 1,
 								[188196] = 4,
 							},
+							["fight_component"] = true,
+							["nome"] = "Toshaman",
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
 							["buff_uptime"] = 225,
-							["classe"] = "SHAMAN",
-							["tipo"] = 4,
+							["pets"] = {
+							},
+							["last_event"] = 1606537450,
 							["aID"] = "3676-0AD945D6",
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 54,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 54,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[2645] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2645,
+										["uptime"] = 22,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 22,
-										["id"] = 2645,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 54,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 54,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[260881] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 21,
-										["id"] = 260881,
 										["refreshamt"] = 3,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[317859] = {
-										["appliedamt"] = 1,
+										["id"] = 260881,
+										["uptime"] = 21,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 24,
-										["id"] = 317859,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 3,
+										["id"] = 268854,
+										["uptime"] = 50,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 50,
-										["id"] = 268854,
-										["refreshamt"] = 3,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[317859] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 317859,
+										["uptime"] = 24,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0AD945D6",
-							["last_event"] = 1606537450,
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
@@ -11742,74 +11820,74 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 54,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 54,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 54,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 54,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["fight_component"] = true,
-							["nome"] = "Toshdruid",
+							["buff_uptime_targets"] = {
+							},
 							["spec"] = 105,
 							["grupo"] = true,
 							["need_refresh"] = true,
-							["aID"] = "3676-0B20F78C",
-							["tipo"] = 4,
-							["last_event"] = 1606537450,
-							["buff_uptime_targets"] = {
-							},
-							["serial"] = "Player-3676-0B20F78C",
 							["buff_uptime"] = 108,
+							["tipo"] = 4,
+							["aID"] = "3676-0B20F78C",
+							["nome"] = "Toshdruid",
+							["serial"] = "Player-3676-0B20F78C",
+							["last_event"] = 1606537450,
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Scavenging Mawrat",
-							["flag_original"] = 2632,
+							["aID"] = "165978",
 							["spell_cast"] = {
 								[332656] = 33,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-165978-000041D068",
-							["aID"] = "165978",
+							["flag_original"] = 2632,
 						}, -- [3]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041D084",
 							["spell_cast"] = {
 								[342875] = 1,
 								[342873] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041D084",
-							["last_event"] = 0,
 						}, -- [4]
 					},
 				}, -- [4]
@@ -11820,8 +11898,8 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537396,
 				["last_events_tables"] = {
@@ -11830,9 +11908,7 @@ _detalhes_database = {
 				},
 				["enemy"] = "Scavenging Mawrat",
 				["combat_counter"] = 167,
-				["frags"] = {
-					["Malice Shadow"] = 1,
-					["Scavenging Mawrat"] = 6,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					14397.983437, -- [1]
@@ -11841,25 +11917,25 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = -0.001750000000001251,
 						[6] = 0,
+						[3] = -0.001750000000001251,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:23:17",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -11870,50 +11946,34 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Toshaman"] = 0.004078,
-							["Toshdruid"] = 598.005994,
-						}, -- [1]
-					},
 					["damage"] = {
 						{
 							["Frostwolf Warrior"] = 4032.004163,
 							["Toshaman"] = 5988.001689000001,
 						}, -- [1]
 					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Toshdruid"] = 598.005994,
+							["Toshaman"] = 0.004078,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
 				},
 				["end_time"] = 1009621.622,
-				["contra"] = "Scavenging Mawrat",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 126,
-				["totals_grupo"] = {
-					10380, -- [1]
-					598, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Malice Shadow"] = 1,
+					["Scavenging Mawrat"] = 6,
 				},
 				["data_fim"] = "23:24:11",
 				["cleu_events"] = {
@@ -11921,12 +11981,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					10380, -- [1]
+					598, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009567.603,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:23:17",
+				["contra"] = "Scavenging Mawrat",
+				["overall_added"] = true,
 			}, -- [13]
 			{
 				{
@@ -11945,22 +12023,53 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 8654.001643,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["aID"] = "3676-0AD945D6",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 27877.001643,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
+							["spec"] = 262,
+							["delay"] = 1606537148,
 							["dps_started"] = false,
-							["end_time"] = 1606537187,
-							["classe"] = "SHAMAN",
-							["friendlyfire"] = {
-							},
+							["total"] = 27877.001643,
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 361.9684690384333,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
+									[316019] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 87,
+										["g_amt"] = 0,
+										["n_max"] = 45,
+										["targets"] = {
+											["Tremaculum Sentinel"] = 221,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 134,
+										["n_min"] = 44,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 221,
+										["c_max"] = 87,
+										["r_amt"] = 0,
+										["id"] = 316019,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 87,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
 									[313663] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
@@ -11977,51 +12086,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 719,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[8042] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 3947,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Tremaculum Sentinel"] = 3947,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 3947,
-										["c_max"] = 3947,
-										["spellschool"] = 8,
-										["id"] = 8042,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["b_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 3947,
-										["successful_casted"] = 0,
-										["m_amt"] = 0,
-										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
 									},
 									[188389] = {
 										["c_amt"] = 1,
@@ -12040,20 +12118,20 @@ _detalhes_database = {
 										["counter"] = 10,
 										["total"] = 1216,
 										["c_max"] = 283,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 283,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 9,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 1,
@@ -12072,20 +12150,20 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 593,
 										["c_max"] = 261,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 261,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 3,
@@ -12104,20 +12182,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 6552,
 										["c_max"] = 2579,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1961,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 3,
@@ -12136,65 +12214,65 @@ _detalhes_database = {
 										["counter"] = 9,
 										["total"] = 14629,
 										["c_max"] = 2321,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1546,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 6,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[316019] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 87,
-										["g_amt"] = 0,
-										["n_max"] = 45,
-										["targets"] = {
-											["Tremaculum Sentinel"] = 221,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 134,
-										["n_min"] = 44,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 221,
-										["c_max"] = 87,
-										["spellschool"] = 32,
-										["id"] = 316019,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 8,
+									},
+									[8042] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 3947,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Tremaculum Sentinel"] = 3947,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 3947,
+										["c_max"] = 3947,
+										["r_amt"] = 0,
+										["id"] = 8042,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 87,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 3947,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["total"] = 27877.001643,
-							["last_event"] = 1606537148,
-							["colocacao"] = 1,
-							["custom"] = 0,
+							["end_time"] = 1606537187,
 							["tipo"] = 1,
-							["last_dps"] = 361.9684690384333,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["last_event"] = 1606537148,
+							["damage_taken"] = 8654.001643,
 							["start_time"] = 1606537170,
-							["delay"] = 1606537148,
-							["spec"] = 262,
+							["serial"] = "Player-3676-0AD945D6",
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
 							["flag_original"] = 8466,
@@ -12207,21 +12285,20 @@ _detalhes_database = {
 								["Phael the Afflictor"] = 1964,
 								["Tremaculum Warden"] = 5689,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
+							["delay"] = 1606537251,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "MAGE",
-							["aID"] = "167826",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 22417.007045,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["dps_started"] = false,
 							["end_time"] = 1606537396,
-							["on_hold"] = false,
-							["last_event"] = 1606537251,
+							["damage_taken"] = 0.007045,
+							["tipo"] = 1,
 							["nome"] = "Kirin Tor Mage",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12243,20 +12320,20 @@ _detalhes_database = {
 										["counter"] = 4,
 										["total"] = 851,
 										["c_max"] = 312,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 312,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[279565] = {
 										["c_amt"] = 0,
@@ -12275,20 +12352,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 3566,
 										["c_max"] = 0,
-										["spellschool"] = 16,
+										["r_amt"] = 0,
 										["id"] = 279565,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
 									},
 									[279564] = {
 										["c_amt"] = 0,
@@ -12309,20 +12386,20 @@ _detalhes_database = {
 										["counter"] = 28,
 										["total"] = 16264,
 										["c_max"] = 0,
-										["spellschool"] = 16,
+										["r_amt"] = 0,
 										["id"] = 279564,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 28,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
 									},
 									[279567] = {
 										["c_amt"] = 0,
@@ -12341,33 +12418,34 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 1736,
 										["c_max"] = 0,
-										["spellschool"] = 16,
+										["r_amt"] = 0,
 										["id"] = 279567,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["total"] = 22417.007045,
 							["last_dps"] = 291.0732590403939,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.007045,
+							["total"] = 22417.007045,
+							["colocacao"] = 2,
+							["last_event"] = 1606537251,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537320,
-							["delay"] = 1606537251,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
+							["aID"] = "167826",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
@@ -12384,21 +12462,20 @@ _detalhes_database = {
 								["Phael the Afflictor"] = 728,
 								["Tremaculum Warden"] = 4024,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["delay"] = 1606537251,
 							["pets"] = {
 							},
-							["colocacao"] = 3,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
-							["aID"] = "167827",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 12920.003804,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["dps_started"] = false,
 							["end_time"] = 1606537396,
-							["on_hold"] = false,
-							["last_event"] = 1606537251,
+							["damage_taken"] = 9915.003804,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12421,20 +12498,20 @@ _detalhes_database = {
 										["counter"] = 31,
 										["total"] = 7252,
 										["c_max"] = 476,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 292,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 25,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[342872] = {
 										["c_amt"] = 2,
@@ -12454,33 +12531,34 @@ _detalhes_database = {
 										["counter"] = 18,
 										["total"] = 5668,
 										["c_max"] = 629,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 342872,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 622,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 16,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["total"] = 12920.003804,
 							["last_dps"] = 167.759576757744,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 9915.003804,
+							["total"] = 12920.003804,
+							["colocacao"] = 3,
+							["last_event"] = 1606537251,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537318,
-							["delay"] = 1606537251,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["aID"] = "167827",
 						}, -- [3]
 						{
 							["flag_original"] = 1297,
@@ -12492,35 +12570,35 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["spec"] = 105,
-							["aID"] = "3676-0B20F78C",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.008326,
-							["friendlyfire"] = {
-							},
-							["serial"] = "Player-3676-0B20F78C",
-							["dps_started"] = false,
-							["total"] = 0.008326,
 							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
-							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["end_time"] = 1606537187,
-							["last_event"] = 0,
-							["colocacao"] = 4,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0.0001118349474136322,
-							["start_time"] = 1606537187,
-							["delay"] = 0,
+							["aID"] = "3676-0B20F78C",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008326,
 							["damage_taken"] = 7492.008326,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537187,
+							["classe"] = "DRUID",
+							["last_dps"] = 0.0001118349474136322,
+							["nome"] = "Toshdruid",
+							["spec"] = 105,
+							["grupo"] = true,
+							["total"] = 0.008326,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["colocacao"] = 4,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1606537187,
+							["serial"] = "Player-3676-0B20F78C",
+							["on_hold"] = false,
 						}, -- [4]
 						{
 							["flag_original"] = -2147483648,
@@ -12528,23 +12606,23 @@ _detalhes_database = {
 							["damage_from"] = {
 							},
 							["targets"] = {
-								["Psymist"] = 1151,
-								["Toshdruid"] = 7492,
 								["Toshaman"] = 8654,
+								["Toshdruid"] = 7492,
+								["Psymist"] = 1151,
 							},
 							["pets"] = {
 							},
-							["dps_started"] = false,
+							["end_time"] = 1606537396,
+							["friendlyfire_total"] = 0,
 							["aID"] = "",
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 17297.004864,
-							["serial"] = "",
-							["fight_component"] = true,
+							["delay"] = 1606537355,
+							["dps_started"] = false,
 							["total"] = 17297.004864,
-							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
+							["fight_component"] = true,
+							["damage_taken"] = 0.004864,
 							["nome"] = "Environment (Falling)",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12555,9 +12633,9 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 8654,
 										["targets"] = {
-											["Psymist"] = 1151,
-											["Toshdruid"] = 7492,
 											["Toshaman"] = 8654,
+											["Toshdruid"] = 7492,
+											["Psymist"] = 1151,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 17297,
@@ -12566,34 +12644,34 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 17297,
 										["c_max"] = 0,
-										["spellschool"] = 3,
+										["r_amt"] = 0,
 										["id"] = 3,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 3,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["last_event"] = 1606537355,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["friendlyfire"] = {
 							},
-							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.004864,
+							["last_event"] = 1606537355,
+							["on_hold"] = false,
 							["start_time"] = 1606537225,
-							["delay"] = 1606537355,
-							["end_time"] = 1606537396,
+							["serial"] = "",
+							["classe"] = "UNKNOW",
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -12611,21 +12689,20 @@ _detalhes_database = {
 								["Dandroid"] = 432,
 								["Pawnofcode"] = 1530,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167704-000041CF5E",
+							["delay"] = 1606537216,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["classe"] = "UNKNOW",
-							["aID"] = "167704",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4892.006536,
 							["damage_taken"] = 30249.006536,
 							["dps_started"] = false,
 							["end_time"] = 1606537396,
-							["on_hold"] = false,
-							["last_event"] = 1606537216,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Tremaculum Sentinel",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12648,41 +12725,42 @@ _detalhes_database = {
 										["counter"] = 14,
 										["total"] = 4892,
 										["c_max"] = 0,
-										["MISS"] = 1,
+										["r_amt"] = 0,
 										["id"] = 329706,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 10,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 13,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["MISS"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["total"] = 4892.006536,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire_total"] = 0,
+							["total"] = 4892.006536,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537216,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537347,
-							["delay"] = 1606537216,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-4230-2364-1845-167704-000041CF5E",
+							["aID"] = "167704",
 						}, -- [6]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.006256,
 							["damage_from"] = {
 								["Frostwolf Warrior"] = true,
-								["Pawnofcode"] = true,
 								["Dandroid"] = true,
+								["Pawnofcode"] = true,
 								["Kirin Tor Mage"] = true,
 							},
 							["targets"] = {
@@ -12690,21 +12768,20 @@ _detalhes_database = {
 								["Dandroid"] = 613,
 								["Pawnofcode"] = 1555,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167942-000041CEEC",
+							["delay"] = 1606537216,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["classe"] = "UNKNOW",
-							["aID"] = "167942",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3993.006256,
 							["damage_taken"] = 22088.006256,
 							["dps_started"] = false,
 							["end_time"] = 1606537396,
-							["on_hold"] = false,
-							["last_event"] = 1606537216,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Willbreaker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12728,17 +12805,17 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 4,
 										["b_dmg"] = 0,
 										["n_amt"] = 7,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 									[335685] = {
 										["c_amt"] = 0,
@@ -12758,57 +12835,57 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335685,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["total"] = 3993.006256,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire_total"] = 0,
+							["total"] = 3993.006256,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537216,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537352,
-							["delay"] = 1606537216,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-4230-2364-1845-167942-000041CEEC",
+							["aID"] = "167942",
 						}, -- [7]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.003348,
 							["damage_from"] = {
 								["Frostwolf Warrior"] = true,
-								["Kirin Tor Mage"] = true,
 								["Toshaman"] = true,
+								["Kirin Tor Mage"] = true,
 							},
 							["targets"] = {
 								["Frostwolf Warrior"] = 191,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167834-000041CE77",
+							["delay"] = 1606537144,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["classe"] = "UNKNOW",
-							["aID"] = "167834",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 191.003348,
 							["damage_taken"] = 20003.003348,
 							["dps_started"] = false,
 							["end_time"] = 1606537187,
-							["on_hold"] = false,
-							["last_event"] = 1606537144,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Phael the Afflictor",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12828,20 +12905,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 191,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[328362] = {
 										["c_amt"] = 0,
@@ -12860,30 +12937,31 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 328362,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["total"] = 191.003348,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire_total"] = 0,
+							["total"] = 191.003348,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537144,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537186,
-							["delay"] = 1606537144,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-4230-2364-1845-167834-000041CE77",
+							["aID"] = "167834",
 						}, -- [8]
 					},
 				}, -- [1]
@@ -12893,17 +12971,17 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Toshdruid"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.008285,
 							["total_without_pet"] = 1290.008285,
 							["total"] = 1290.008285,
-							["targets_absorbs"] = {
-							},
+							["spec"] = 105,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -12917,10 +12995,9 @@ _detalhes_database = {
 							["healing_taken"] = 1290.008285,
 							["fight_component"] = true,
 							["end_time"] = 1606537187,
-							["healing_from"] = {
-								["Toshdruid"] = true,
+							["targets_overheal"] = {
 							},
-							["spec"] = 105,
+							["tipo"] = 2,
 							["nome"] = "Toshdruid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12943,26 +13020,27 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 1290,
-										["n_amt"] = 3,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 1290,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1606537175,
+							["classe"] = "DRUID",
+							["totaldenied"] = 0.008285,
 							["custom"] = 0,
 							["last_event"] = 1606537185,
 							["aID"] = "3676-0B20F78C",
-							["totaldenied"] = 0.008285,
+							["start_time"] = 1606537175,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["targets_absorbs"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [2]
@@ -12981,7 +13059,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.004377,
 							["total"] = 0.004377,
-							["resource_type"] = 11,
+							["totalover"] = 0.004377,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12990,13 +13068,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.004377,
-							["tipo"] = 3,
-							["last_event"] = 1606537148,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537148,
+							["tipo"] = 3,
+							["alternatepower"] = 0.004377,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.004377,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -13009,15 +13087,15 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[313663] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 313663,
+										["uptime"] = 7,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 7,
-										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[51514] = {
 										["activedamt"] = -1,
@@ -13026,21 +13104,21 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1606537167,
 										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 									},
 									[188389] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 16,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 16,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 2,
 									},
 								},
 								["tipo"] = 9,
@@ -13051,13 +13129,13 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[57994] = {
 										["id"] = 57994,
-										["interrompeu_oque"] = {
-											[318773] = 1,
-										},
+										["counter"] = 1,
 										["targets"] = {
 											["Phael the Afflictor"] = 1,
 										},
-										["counter"] = 1,
+										["interrompeu_oque"] = {
+											[318773] = 1,
+										},
 									},
 								},
 								["tipo"] = 9,
@@ -13065,70 +13143,70 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 77,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 77,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268854,
+										["uptime"] = 30,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 30,
-										["id"] = 268854,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[298837] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 77,
+										["refreshamt"] = 0,
 										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[317859] = {
-										["appliedamt"] = 1,
+										["uptime"] = 77,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 18,
-										["id"] = 317859,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[77762] = {
 										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 77762,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[191634] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 191634,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 191634,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+									},
+									[77762] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 77762,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 317859,
+										["uptime"] = 18,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -13137,157 +13215,157 @@ _detalhes_database = {
 								[318773] = 1,
 							},
 							["debuff_uptime"] = 23,
-							["classe"] = "SHAMAN",
-							["nome"] = "Toshaman",
 							["interrupt"] = 1.004428,
+							["interrupt_targets"] = {
+								["Phael the Afflictor"] = 1,
+							},
+							["nome"] = "Toshaman",
 							["spec"] = 262,
 							["grupo"] = true,
 							["spell_cast"] = {
 								[51505] = 2,
 								[8042] = 1,
 								[188389] = 1,
-								[57994] = 1,
-								[188196] = 5,
 								[191634] = 1,
+								[188196] = 5,
+								[57994] = 1,
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1606537187,
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
-							["tipo"] = 4,
-							["last_event"] = 1606537187,
-							["pets"] = {
-							},
 							["serial"] = "Player-3676-0AD945D6",
-							["interrupt_targets"] = {
-								["Phael the Afflictor"] = 1,
-							},
+							["classe"] = "SHAMAN",
 						}, -- [1]
 						{
-							["fight_component"] = true,
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["fight_component"] = true,
+							["nome"] = "Toshdruid",
 							["spec"] = 105,
 							["grupo"] = true,
-							["nome"] = "Toshdruid",
-							["buff_uptime"] = 154,
+							["buff_uptime_targets"] = {
+							},
 							["pets"] = {
 							},
-							["tipo"] = 4,
-							["classe"] = "DRUID",
+							["buff_uptime"] = 154,
+							["aID"] = "3676-0B20F78C",
 							["last_event"] = 1606537187,
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 77,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 77,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 77,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 77,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
 							["spell_cast"] = {
 								[330664] = 5,
 								[342881] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
-							["last_event"] = 0,
 						}, -- [3]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Tremaculum Sentinel",
-							["flag_original"] = 2632,
+							["aID"] = "167704",
 							["spell_cast"] = {
 								[329706] = 10,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-167704-000041CF5E",
-							["aID"] = "167704",
+							["flag_original"] = 2632,
 						}, -- [4]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "MAGE",
 							["nome"] = "Kirin Tor Mage",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167826",
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
 							["spell_cast"] = {
 								[279565] = 1,
 								[279567] = 1,
 								[279564] = 19,
 							},
-							["aID"] = "167826",
-							["classe"] = "MAGE",
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
-							["last_event"] = 0,
 						}, -- [5]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Phael the Afflictor",
-							["flag_original"] = 2632,
+							["aID"] = "167834",
 							["spell_cast"] = {
 								[328362] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-167834-000041CE77",
-							["aID"] = "167834",
+							["flag_original"] = 2632,
 						}, -- [6]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Willbreaker",
-							["flag_original"] = 2632,
+							["aID"] = "167942",
 							["spell_cast"] = {
 								[335680] = 4,
 								[335685] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-167942-000041CEEC",
-							["aID"] = "167942",
+							["flag_original"] = 2632,
 						}, -- [7]
 					},
 				}, -- [4]
@@ -13298,8 +13376,8 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537110,
 				["last_events_tables"] = {
@@ -13308,10 +13386,7 @@ _detalhes_database = {
 				},
 				["enemy"] = "Tremaculum Sentinel",
 				["combat_counter"] = 166,
-				["frags"] = {
-					["Tremaculum Sentinel"] = 3,
-					["Mawsworn Willbreaker"] = 1,
-					["Phael the Afflictor"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					89586.93079900002, -- [1]
@@ -13320,21 +13395,21 @@ _detalhes_database = {
 						-0.003169, -- [1]
 						[0] = -0.005469,
 						["alternatepower"] = 0,
-						[3] = -0.001118999999999204,
 						[6] = 0,
+						[3] = -0.001118999999999204,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 1,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 					["Frostwolf Warrior"] = {
@@ -13525,7 +13600,7 @@ _detalhes_database = {
 						["n"] = 13,
 					},
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:18:31",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -13536,7 +13611,13 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 4975.003804,
+							["Toshaman"] = 27877.001643,
+							["Kirin Tor Mage"] = 13578.007045,
+							["Toshdruid"] = 0.008326,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -13545,42 +13626,21 @@ _detalhes_database = {
 							["Toshdruid"] = 1290.008285,
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 4975.003804,
-							["Toshdruid"] = 0.008326,
-							["Kirin Tor Mage"] = 13578.007045,
-							["Toshaman"] = 27877.001643,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1009358.638,
-				["contra"] = "Tremaculum Sentinel",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 125,
-				["totals_grupo"] = {
-					63214, -- [1]
-					1290, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 1,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Tremaculum Sentinel"] = 3,
+					["Mawsworn Willbreaker"] = 1,
+					["Phael the Afflictor"] = 1,
 				},
 				["data_fim"] = "23:19:48",
 				["cleu_events"] = {
@@ -13588,12 +13648,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					63214, -- [1]
+					1290, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009281.623,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:18:31",
+				["contra"] = "Tremaculum Sentinel",
+				["overall_added"] = true,
 			}, -- [14]
 			{
 				{
@@ -13610,7 +13688,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 8939.007867,
+							["damage_taken"] = 0.007867,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537079,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 595.9338578,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[8042] = {
@@ -13629,20 +13719,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 4141,
 										["c_max"] = 4141,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 8042,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 4141,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 0,
@@ -13660,20 +13750,20 @@ _detalhes_database = {
 										["counter"] = 5,
 										["total"] = 494,
 										["c_max"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[170379] = {
 										["c_amt"] = 0,
@@ -13691,20 +13781,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 208,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -13722,20 +13812,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 2025,
 										["c_max"] = 2025,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 2025,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -13753,47 +13843,35 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 2071,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 8939.007867,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 8939.007867,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537071,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537064,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537079,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537071,
-							["last_dps"] = 595.9338578,
-							["start_time"] = 1606537064,
-							["delay"] = 0,
-							["damage_taken"] = 0.007867,
 						}, -- [1]
 						{
 							["flag_original"] = 8466,
@@ -13805,21 +13883,20 @@ _detalhes_database = {
 								["Tremaculum Warden"] = 4381,
 								["Mawsworn Willbreaker"] = 2284,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "MAGE",
-							["aID"] = "167826",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6665.003511,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["dps_started"] = false,
 							["end_time"] = 1606537110,
-							["on_hold"] = false,
-							["last_event"] = 1606537103,
+							["damage_taken"] = 336.003511,
+							["tipo"] = 1,
 							["nome"] = "Kirin Tor Mage",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -13839,20 +13916,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 179,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[279564] = {
 										["c_amt"] = 0,
@@ -13871,33 +13948,34 @@ _detalhes_database = {
 										["counter"] = 11,
 										["total"] = 6486,
 										["c_max"] = 0,
-										["spellschool"] = 16,
+										["r_amt"] = 0,
 										["id"] = 279564,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 11,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["total"] = 6665.003511,
 							["last_dps"] = 444.3335674,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 336.003511,
+							["total"] = 6665.003511,
+							["colocacao"] = 2,
+							["last_event"] = 1606537103,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537067,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
+							["aID"] = "167826",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
@@ -13911,21 +13989,20 @@ _detalhes_database = {
 								["Tremaculum Warden"] = 1446,
 								["Mawsworn Interceptor"] = 208,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 3,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
-							["aID"] = "167827",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2696.005778,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["dps_started"] = false,
 							["end_time"] = 1606537110,
-							["on_hold"] = false,
-							["last_event"] = 1606537108,
+							["damage_taken"] = 2415.005778,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -13947,33 +14024,34 @@ _detalhes_database = {
 										["counter"] = 13,
 										["total"] = 2696,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 13,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["total"] = 2696.005778,
 							["last_dps"] = 179.7337185333333,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 2415.005778,
+							["total"] = 2696.005778,
+							["colocacao"] = 3,
+							["last_event"] = 1606537108,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537067,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["aID"] = "167827",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -13987,21 +14065,20 @@ _detalhes_database = {
 								["Dandroid"] = 436,
 								["Frostwolf Warrior"] = 1399,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-175269-000041CF61",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["classe"] = "UNKNOW",
-							["aID"] = "175269",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1835.001019,
 							["damage_taken"] = 21518.001019,
 							["dps_started"] = false,
 							["end_time"] = 1606537110,
-							["on_hold"] = false,
-							["last_event"] = 1606537105,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Tremaculum Warden",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14020,23 +14097,23 @@ _detalhes_database = {
 										["n_min"] = 281,
 										["g_dmg"] = 0,
 										["counter"] = 5,
-										["DODGE"] = 1,
+										["r_amt"] = 0,
 										["total"] = 1835,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["extra"] = {
+										},
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["b_dmg"] = 0,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
 										["n_amt"] = 4,
-										["extra"] = {
-										},
-										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["DODGE"] = 1,
 									}, -- [1]
 									[294165] = {
 										["c_amt"] = 0,
@@ -14055,57 +14132,59 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 294165,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["total"] = 1835.001019,
+							["on_hold"] = false,
 							["monster"] = true,
-							["friendlyfire_total"] = 0,
+							["total"] = 1835.001019,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537105,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1606537071,
-							["delay"] = 0,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-4230-2364-1845-175269-000041CF61",
+							["aID"] = "175269",
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.007205,
 							["damage_from"] = {
 								["Frostwolf Warrior"] = true,
-								["Kirin Tor Mage"] = true,
-								["Dandroid"] = true,
 								["Toshaman"] = true,
+								["Dandroid"] = true,
+								["Kirin Tor Mage"] = true,
 							},
 							["targets"] = {
 								["Frostwolf Warrior"] = 1016,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167942-000041CD28",
+							["delay"] = 1606537069,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 1016.007205,
 							["aID"] = "167942",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1016.007205,
-							["damage_taken"] = 13252.007205,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537079,
-							["on_hold"] = false,
-							["last_event"] = 1606537069,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Willbreaker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14127,31 +14206,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 335680,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537069,
+							["damage_taken"] = 13252.007205,
 							["start_time"] = 1606537076,
-							["delay"] = 1606537069,
-							["total"] = 1016.007205,
+							["serial"] = "Creature-0-4230-2364-1845-167942-000041CD28",
+							["classe"] = "UNKNOW",
 						}, -- [5]
 					},
 				}, -- [1]
@@ -14176,7 +14254,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.00893,
 							["total"] = 0.00893,
-							["resource_type"] = 11,
+							["totalover"] = 0.00893,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14185,13 +14263,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.00893,
-							["tipo"] = 3,
-							["last_event"] = 1606537110,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537110,
+							["tipo"] = 3,
+							["alternatepower"] = 0.00893,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.00893,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -14204,15 +14282,15 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 7,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 7,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -14222,59 +14300,59 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 15,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 15,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268854,
+										["uptime"] = 15,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 15,
-										["id"] = 268854,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 15,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 15,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[260881] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 260881,
+										["uptime"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 260881,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[2645] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2645,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 2645,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -14288,121 +14366,121 @@ _detalhes_database = {
 								[2645] = 1,
 								[188196] = 2,
 							},
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
-							["last_event"] = 1606537079,
 							["tipo"] = 4,
+							["last_event"] = 1606537079,
+							["classe"] = "SHAMAN",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
 							["serial"] = "Player-3676-0AD945D6",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 30,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537079,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 30,
 							["tipo"] = 4,
+							["last_event"] = 1606537079,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 15,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 15,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 15,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 15,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
 							["spell_cast"] = {
 								[330664] = 3,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
-							["last_event"] = 0,
 						}, -- [3]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Mawsworn Willbreaker",
-							["flag_original"] = 2632,
+							["aID"] = "167942",
 							["spell_cast"] = {
 								[335680] = 2,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-167942-000041CD28",
-							["aID"] = "167942",
+							["flag_original"] = 2632,
 						}, -- [4]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "MAGE",
 							["nome"] = "Kirin Tor Mage",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167826",
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
 							["spell_cast"] = {
 								[279564] = 7,
 							},
-							["aID"] = "167826",
-							["classe"] = "MAGE",
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
-							["last_event"] = 0,
 						}, -- [5]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Tremaculum Warden",
-							["flag_original"] = 2632,
+							["aID"] = "175269",
 							["spell_cast"] = {
 								[294165] = 1,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-175269-000041CF61",
-							["aID"] = "175269",
+							["flag_original"] = 2632,
 						}, -- [6]
 					},
 				}, -- [4]
@@ -14413,8 +14491,8 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["tempo_start"] = 1606537064,
 				["last_events_tables"] = {
@@ -14423,9 +14501,7 @@ _detalhes_database = {
 				},
 				["enemy"] = "Mawsworn Willbreaker",
 				["combat_counter"] = 165,
-				["frags"] = {
-					["Tremaculum Warden"] = 1,
-					["Mawsworn Willbreaker"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["totals"] = {
 					21150.99195, -- [1]
@@ -14434,21 +14510,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = -0.006512,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 					["Frostwolf Warrior"] = {
@@ -14626,7 +14702,7 @@ _detalhes_database = {
 						["n"] = 2,
 					},
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:17:45",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -14637,7 +14713,12 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 1644.005778,
+							["Toshaman"] = 8939.007867,
+							["Kirin Tor Mage"] = 4226.003511,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -14645,41 +14726,20 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 1644.005778,
-							["Kirin Tor Mage"] = 4226.003511,
-							["Toshaman"] = 8939.007867,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1009250.078,
-				["contra"] = "Mawsworn Willbreaker",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 124,
-				["totals_grupo"] = {
-					18300, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Tremaculum Warden"] = 1,
+					["Mawsworn Willbreaker"] = 1,
 				},
 				["data_fim"] = "23:18:00",
 				["cleu_events"] = {
@@ -14687,12 +14747,30 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					18300, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009235.078,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:17:45",
+				["contra"] = "Mawsworn Willbreaker",
+				["overall_added"] = true,
 			}, -- [15]
 			{
 				{
@@ -14709,39 +14787,51 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 6269.006666,
+							["damage_taken"] = 0.006666,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537053,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1341.250891313917,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
-									[170379] = {
-										["c_amt"] = 0,
+									[285466] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 1709,
 										["g_amt"] = 0,
-										["n_max"] = 100,
+										["n_max"] = 0,
 										["targets"] = {
-											["Tremaculum Sentinel"] = 100,
+											["Tremaculum Sentinel"] = 1709,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 100,
-										["n_min"] = 100,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 100,
-										["c_max"] = 0,
-										["spellschool"] = 8,
-										["id"] = 170379,
+										["total"] = 1709,
+										["c_max"] = 1709,
+										["r_amt"] = 0,
+										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 1709,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[313663] = {
 										["c_amt"] = 0,
@@ -14759,20 +14849,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 719,
 										["c_max"] = 0,
-										["spellschool"] = 32,
+										["r_amt"] = 0,
 										["id"] = 313663,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 									[188389] = {
 										["c_amt"] = 0,
@@ -14790,51 +14880,51 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 311,
 										["c_max"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[316019] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 87,
-										["g_amt"] = 0,
-										["n_max"] = 43,
-										["targets"] = {
-											["Tremaculum Sentinel"] = 130,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 43,
-										["n_min"] = 43,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 130,
-										["c_max"] = 87,
-										["spellschool"] = 32,
-										["id"] = 316019,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 4,
+									},
+									[170379] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 100,
+										["targets"] = {
+											["Tremaculum Sentinel"] = 100,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 100,
+										["n_min"] = 100,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 100,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 170379,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 87,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[285452] = {
 										["c_amt"] = 1,
@@ -14852,20 +14942,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 1986,
 										["c_max"] = 1986,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1986,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[188196] = {
 										["c_amt"] = 0,
@@ -14883,106 +14973,95 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 1314,
 										["c_max"] = 0,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 188196,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[285466] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 1709,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Tremaculum Sentinel"] = 1709,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1709,
-										["c_max"] = 1709,
-										["spellschool"] = 4,
-										["id"] = 285466,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["spellschool"] = 8,
+									},
+									[316019] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 87,
+										["g_amt"] = 0,
+										["n_max"] = 43,
+										["targets"] = {
+											["Tremaculum Sentinel"] = 130,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 43,
+										["n_min"] = 43,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 130,
+										["c_max"] = 87,
+										["r_amt"] = 0,
+										["id"] = 316019,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1709,
-										["successful_casted"] = 0,
 										["m_amt"] = 0,
-										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["c_min"] = 87,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 6269.006666,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 6269.006666,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537050,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537047,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537053,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537050,
-							["last_dps"] = 1341.250891313917,
-							["start_time"] = 1606537047,
-							["delay"] = 0,
-							["damage_taken"] = 0.006666,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.008754,
 							["damage_from"] = {
 								["Frostwolf Warrior"] = true,
-								["Kirin Tor Mage"] = true,
-								["Dandroid"] = true,
 								["Toshaman"] = true,
+								["Dandroid"] = true,
+								["Kirin Tor Mage"] = true,
 							},
 							["targets"] = {
 								["Thrall"] = 317,
 								["Frostwolf Warrior"] = 662,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167704-000041CF1F",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 979.008754,
 							["aID"] = "167704",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 979.008754,
-							["damage_taken"] = 8307.008754,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537053,
-							["on_hold"] = false,
-							["last_event"] = 1606537051,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Tremaculum Sentinel",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15005,31 +15084,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 329706,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 3,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537051,
+							["damage_taken"] = 8307.008754,
 							["start_time"] = 1606537048,
-							["delay"] = 0,
-							["total"] = 979.008754,
+							["serial"] = "Creature-0-4230-2364-1845-167704-000041CF1F",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 8465,
@@ -15039,21 +15117,21 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF07",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 4,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["aID"] = "167827",
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003556,
-							["total"] = 0.003556,
-							["dps_started"] = false,
-							["end_time"] = 1606537053,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 0,
+							["dps_started"] = false,
+							["total"] = 0.003556,
+							["damage_taken"] = 317.003556,
+							["tipo"] = 1,
 							["nome"] = "Thrall",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15061,14 +15139,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["friendlyfire_total"] = 0,
 							["last_dps"] = 0.0007608044501499163,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 317.003556,
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 4,
+							["last_event"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1606537053,
-							["delay"] = 0,
-							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF07",
+							["end_time"] = 1606537053,
 						}, -- [3]
 						{
 							["flag_original"] = 8466,
@@ -15078,21 +15156,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Tremaculum Sentinel"] = 613,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "MAGE",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 613.007889,
-							["aID"] = "167826",
-							["dps_started"] = false,
-							["total"] = 613.007889,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537051,
+							["dps_started"] = false,
+							["total"] = 613.007889,
+							["damage_taken"] = 0.007889,
+							["tipo"] = 1,
 							["nome"] = "Kirin Tor Mage",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15112,20 +15190,20 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 156,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 									[279564] = {
 										["c_amt"] = 0,
@@ -15143,33 +15221,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 457,
 										["c_max"] = 0,
-										["spellschool"] = 16,
+										["r_amt"] = 0,
 										["id"] = 279564,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537053,
 							["last_dps"] = 131.1527362002829,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.007889,
+							["end_time"] = 1606537053,
+							["colocacao"] = 2,
+							["last_event"] = 1606537051,
+							["on_hold"] = false,
 							["start_time"] = 1606537049,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
+							["aID"] = "167826",
 						}, -- [4]
 						{
 							["flag_original"] = 8466,
@@ -15180,21 +15258,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Tremaculum Sentinel"] = 501,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 3,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 501.006068,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 501.006068,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537051,
+							["dps_started"] = false,
+							["total"] = 501.006068,
+							["damage_taken"] = 662.006068,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15214,33 +15292,33 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 501,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537053,
 							["last_dps"] = 107.1900017116174,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 662.006068,
+							["end_time"] = 1606537053,
+							["colocacao"] = 3,
+							["last_event"] = 1606537051,
+							["on_hold"] = false,
 							["start_time"] = 1606537049,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["aID"] = "167827",
 						}, -- [5]
 					},
 				}, -- [1]
@@ -15265,7 +15343,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.001436,
 							["total"] = 0.001436,
-							["resource_type"] = 11,
+							["totalover"] = 0.001436,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15274,13 +15352,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.001436,
-							["tipo"] = 3,
-							["last_event"] = 1606537063,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537063,
+							["tipo"] = 3,
+							["alternatepower"] = 0.001436,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.001436,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -15293,26 +15371,26 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 4,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 4,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[313663] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 313663,
+										["uptime"] = 4,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 4,
-										["id"] = 313663,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -15322,26 +15400,26 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 6,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 6,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -15353,105 +15431,105 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[188196] = 1,
 							},
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
-							["last_event"] = 1606537053,
 							["tipo"] = 4,
+							["last_event"] = 1606537053,
+							["classe"] = "SHAMAN",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
 							["serial"] = "Player-3676-0AD945D6",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 12,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537053,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 12,
 							["tipo"] = 4,
+							["last_event"] = 1606537053,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 6,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 6,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["monster"] = true,
-							["tipo"] = 4,
+							["pets"] = {
+							},
 							["nome"] = "Tremaculum Sentinel",
-							["flag_original"] = 2632,
+							["aID"] = "167704",
 							["spell_cast"] = {
 								[329706] = 3,
 							},
 							["fight_component"] = true,
-							["pets"] = {
-							},
-							["last_event"] = 0,
 							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Creature-0-4230-2364-1845-167704-000041CF1F",
-							["aID"] = "167704",
+							["flag_original"] = 2632,
 						}, -- [3]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
 							["spell_cast"] = {
 								[330664] = 2,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
-							["last_event"] = 0,
 						}, -- [4]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "MAGE",
 							["nome"] = "Kirin Tor Mage",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167826",
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
 							["spell_cast"] = {
 								[279564] = 1,
 							},
-							["aID"] = "167826",
-							["classe"] = "MAGE",
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
-							["last_event"] = 0,
 						}, -- [5]
 					},
 				}, -- [4]
@@ -15462,15 +15540,17 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
-				["tempo_start"] = 1606537047,
+				["overall_added"] = true,
 				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["combat_counter"] = 164,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					8361.993222, -- [1]
 					0, -- [2]
@@ -15478,42 +15558,23 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = -0.003903,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
-				["totals_grupo"] = {
-					7383, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
@@ -15531,29 +15592,24 @@ _detalhes_database = {
 				["data_inicio"] = "23:17:28",
 				["end_time"] = 1009224.459,
 				["combat_id"] = 123,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
 				["frags"] = {
 					["Tremaculum Sentinel"] = 1,
 				},
-				["TimeData"] = {
+				["tempo_start"] = 1606537047,
+				["spells_cast_timeline"] = {
 				},
-				["CombatSkillCache"] = {
-				},
-				["player_last_events"] = {
-				},
-				["start_time"] = 1009218.452,
-				["contra"] = "Tremaculum Sentinel",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 501.006068,
+							["Toshaman"] = 6269.006666,
+							["Thrall"] = 0.003556,
+							["Kirin Tor Mage"] = 613.007889,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -15561,14 +15617,36 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 501.006068,
-							["Kirin Tor Mage"] = 613.007889,
-							["Thrall"] = 0.003556,
-							["Toshaman"] = 6269.006666,
-						}, -- [1]
+					["damage_section"] = {
 					},
+				},
+				["combat_counter"] = 164,
+				["CombatSkillCache"] = {
+				},
+				["contra"] = "Tremaculum Sentinel",
+				["start_time"] = 1009218.452,
+				["TimeData"] = {
+				},
+				["totals_grupo"] = {
+					7383, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 			}, -- [16]
 			{
@@ -15586,7 +15664,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 8606.001171,
+							["damage_taken"] = 0.001171,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537039,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 1756.326769583491,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
@@ -15605,20 +15695,20 @@ _detalhes_database = {
 										["counter"] = 3,
 										["total"] = 446,
 										["c_max"] = 213,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 213,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 									[285452] = {
 										["c_amt"] = 2,
@@ -15636,51 +15726,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 4010,
 										["c_max"] = 2040,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285452,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1970,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[188196] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 702,
-										["targets"] = {
-											["Tremaculum Warden"] = 702,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 702,
-										["n_min"] = 702,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 702,
-										["c_max"] = 0,
-										["spellschool"] = 8,
-										["id"] = 188196,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["b_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["m_amt"] = 0,
-										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
 									},
 									[285466] = {
 										["c_amt"] = 2,
@@ -15698,47 +15757,66 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 3448,
 										["c_max"] = 1787,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 285466,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 1661,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[188196] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 702,
+										["targets"] = {
+											["Tremaculum Warden"] = 702,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 702,
+										["n_min"] = 702,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 702,
+										["c_max"] = 0,
 										["r_amt"] = 0,
+										["id"] = 188196,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 8606.001171,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 8606.001171,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537037,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537034,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537039,
-							["tipo"] = 1,
-							["colocacao"] = 1,
-							["custom"] = 0,
-							["last_event"] = 1606537037,
-							["last_dps"] = 1756.326769583491,
-							["start_time"] = 1606537034,
-							["delay"] = 0,
-							["damage_taken"] = 0.001171,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -15751,20 +15829,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Frostwolf Warrior"] = 396,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-175269-000041CDDF",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire"] = {
+							},
+							["total"] = 396.008054,
 							["aID"] = "175269",
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 396.008054,
-							["damage_taken"] = 9382.008054,
 							["monster"] = true,
+							["fight_component"] = true,
 							["end_time"] = 1606537039,
-							["on_hold"] = false,
-							["last_event"] = 1606537037,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Tremaculum Warden",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15784,34 +15863,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 396,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["dps_started"] = false,
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 1606537037,
+							["damage_taken"] = 9382.008054,
 							["start_time"] = 1606537037,
-							["delay"] = 0,
-							["total"] = 396.008054,
+							["serial"] = "Creature-0-4230-2364-1845-175269-000041CDDF",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
@@ -15822,21 +15900,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Tremaculum Warden"] = 250,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 2,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 250.004411,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 250.004411,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537036,
+							["dps_started"] = false,
+							["total"] = 250.004411,
+							["damage_taken"] = 396.004411,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15856,33 +15934,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 250,
 										["c_max"] = 250,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 250,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537039,
 							["last_dps"] = 51.0213083671045,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 396.004411,
+							["end_time"] = 1606537039,
+							["colocacao"] = 2,
+							["last_event"] = 1606537036,
+							["on_hold"] = false,
 							["start_time"] = 1606537036,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
+							["aID"] = "167827",
 						}, -- [3]
 					},
 				}, -- [1]
@@ -15907,7 +15985,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.005681,
 							["total"] = 0.005681,
-							["resource_type"] = 11,
+							["totalover"] = 0.005681,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15916,13 +15994,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.005681,
-							["tipo"] = 3,
-							["last_event"] = 1606537047,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537047,
+							["tipo"] = 3,
+							["alternatepower"] = 0.005681,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.005681,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -15935,15 +16013,15 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[188389] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 188389,
+										["uptime"] = 3,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 3,
-										["id"] = 188389,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -15953,48 +16031,48 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268856] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268856,
+										["uptime"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 268856,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[77762] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 77762,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 77762,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -16007,89 +16085,89 @@ _detalhes_database = {
 								[188196] = 1,
 								[51505] = 1,
 							},
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
-							["last_event"] = 1606537039,
 							["tipo"] = 4,
+							["last_event"] = 1606537039,
+							["classe"] = "SHAMAN",
 							["pets"] = {
 							},
-							["classe"] = "SHAMAN",
 							["serial"] = "Player-3676-0AD945D6",
-							["buff_uptime_targets"] = {
+							["debuff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 10,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537039,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 10,
 							["tipo"] = 4,
+							["last_event"] = 1606537039,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 5,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "SHAMAN",
 							["nome"] = "Frostwolf Warrior",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167827",
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
 							["spell_cast"] = {
 								[330664] = 1,
 							},
-							["aID"] = "167827",
-							["classe"] = "SHAMAN",
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF08",
-							["last_event"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 8466,
-							["tipo"] = 4,
+							["classe"] = "MAGE",
 							["nome"] = "Kirin Tor Mage",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167826",
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
 							["spell_cast"] = {
 								[279564] = 1,
 							},
-							["aID"] = "167826",
-							["classe"] = "MAGE",
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF08",
-							["last_event"] = 0,
 						}, -- [4]
 					},
 				}, -- [4]
@@ -16100,18 +16178,20 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
 				["CombatStartedAt"] = 1009217.552,
-				["tempo_start"] = 1606537034,
-				["last_events_tables"] = {
+				["overall_added"] = true,
+				["cleu_timeline"] = {
 				},
 				["alternate_power"] = {
 				},
 				["enemy"] = "Tremaculum Warden",
-				["combat_counter"] = 163,
-				["overall_added"] = true,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1606537034,
 				["totals"] = {
 					9251.997049, -- [1]
 					-0.006398, -- [2]
@@ -16119,58 +16199,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = -0.007862,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 250.004411,
-							["Toshaman"] = 8606.001171,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 1009210.018,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 122,
-				["frags"] = {
-					["Tremaculum Warden"] = 1,
+					["frags_total"] = 0,
 				},
 				["totals_grupo"] = {
 					8856, -- [1]
@@ -16179,32 +16222,67 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
-				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["last_events_tables"] = {
 				},
-				["data_fim"] = "23:17:20",
-				["instance_type"] = "none",
-				["CombatSkillCache"] = {
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
 				},
 				["data_inicio"] = "23:17:15",
+				["end_time"] = 1009210.018,
+				["combat_counter"] = 163,
+				["instance_type"] = "none",
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+					["Tremaculum Warden"] = 1,
+				},
+				["data_fim"] = "23:17:20",
+				["contra"] = "Tremaculum Warden",
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 250.004411,
+							["Toshaman"] = 8606.001171,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["start_time"] = 1009205.018,
 				["TimeData"] = {
 				},
-				["contra"] = "Tremaculum Warden",
+				["combat_id"] = 122,
 			}, -- [17]
 			{
 				{
@@ -16221,7 +16299,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["classe"] = "SHAMAN",
+							["spec"] = 262,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 650.001541,
+							["damage_taken"] = 0.001541,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1606537026,
 							["aID"] = "3676-0AD945D6",
+							["last_dps"] = 406.2509631309117,
+							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
 									[170379] = {
@@ -16240,20 +16330,20 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 407,
 										["c_max"] = 291,
-										["spellschool"] = 8,
+										["r_amt"] = 0,
 										["id"] = 170379,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 291,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
 									},
 									[188389] = {
 										["c_amt"] = 1,
@@ -16271,89 +16361,77 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 243,
 										["c_max"] = 243,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["id"] = 188389,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 243,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 650.001541,
-							["on_hold"] = false,
-							["serial"] = "Player-3676-0AD945D6",
-							["dps_started"] = false,
+							["grupo"] = true,
 							["total"] = 650.001541,
-							["classe"] = "SHAMAN",
+							["last_event"] = 1606537025,
+							["custom"] = 0,
+							["colocacao"] = 2,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1606537024,
+							["serial"] = "Player-3676-0AD945D6",
 							["friendlyfire"] = {
 							},
-							["nome"] = "Toshaman",
-							["spec"] = 262,
-							["grupo"] = true,
-							["end_time"] = 1606537026,
-							["tipo"] = 1,
-							["colocacao"] = 2,
-							["custom"] = 0,
-							["last_event"] = 1606537025,
-							["last_dps"] = 406.2509631309117,
-							["start_time"] = 1606537024,
-							["delay"] = 0,
-							["damage_taken"] = 0.001541,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.007825,
 							["damage_from"] = {
 								["Frostwolf Warrior"] = true,
-								["Kirin Tor Mage"] = true,
-								["Dandroid"] = true,
 								["Toshaman"] = true,
+								["Dandroid"] = true,
+								["Kirin Tor Mage"] = true,
 							},
 							["targets"] = {
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167942-000041CF17",
+							["delay"] = 0,
 							["pets"] = {
 							},
+							["friendlyfire_total"] = 0,
+							["total"] = 0.007825,
 							["aID"] = "167942",
-							["monster"] = true,
-							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007825,
-							["damage_taken"] = 1680.007825,
 							["fight_component"] = true,
+							["monster"] = true,
 							["end_time"] = 1606537026,
-							["friendlyfire"] = {
-							},
-							["last_event"] = 0,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["nome"] = "Mawsworn Willbreaker",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["last_dps"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 1680.007825,
 							["start_time"] = 1606537026,
-							["delay"] = 0,
-							["total"] = 0.007825,
+							["serial"] = "Creature-0-4230-2364-1845-167942-000041CF17",
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 8472,
@@ -16363,21 +16441,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Willbreaker"] = 654,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF0F",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 1,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "MAGE",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 654.003141,
-							["aID"] = "167826",
-							["dps_started"] = false,
-							["total"] = 654.003141,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537024,
+							["dps_started"] = false,
+							["total"] = 654.003141,
+							["damage_taken"] = 0.003141,
+							["tipo"] = 1,
 							["nome"] = "Kirin Tor Mage",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16397,33 +16475,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 654,
 										["c_max"] = 0,
-										["spellschool"] = 16,
+										["r_amt"] = 0,
 										["id"] = 279564,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 16,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537026,
 							["last_dps"] = 408.7519631309481,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.003141,
+							["end_time"] = 1606537026,
+							["colocacao"] = 1,
+							["last_event"] = 1606537024,
+							["on_hold"] = false,
 							["start_time"] = 1606537024,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF0F",
+							["aID"] = "167826",
 						}, -- [3]
 						{
 							["flag_original"] = 8472,
@@ -16433,21 +16511,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Mawsworn Willbreaker"] = 280,
 							},
-							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF0F",
+							["delay"] = 0,
 							["pets"] = {
 							},
-							["colocacao"] = 3,
-							["on_hold"] = false,
+							["custom"] = 0,
+							["friendlyfire_total"] = 0,
 							["classe"] = "SHAMAN",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 280.005112,
-							["aID"] = "167827",
-							["dps_started"] = false,
-							["total"] = 280.005112,
 							["friendlyfire"] = {
 							},
-							["last_event"] = 1606537025,
+							["dps_started"] = false,
+							["total"] = 280.005112,
+							["damage_taken"] = 0.005112,
+							["tipo"] = 1,
 							["nome"] = "Frostwolf Warrior",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16467,33 +16545,33 @@ _detalhes_database = {
 										["counter"] = 1,
 										["total"] = 280,
 										["c_max"] = 0,
-										["spellschool"] = 1,
+										["r_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["a_dmg"] = 0,
 										["b_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["m_amt"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["r_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["end_time"] = 1606537026,
 							["last_dps"] = 175.0031950025466,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.005112,
+							["end_time"] = 1606537026,
+							["colocacao"] = 3,
+							["last_event"] = 1606537025,
+							["on_hold"] = false,
 							["start_time"] = 1606537025,
-							["delay"] = 0,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-4230-2364-1845-167827-000041CF0F",
+							["aID"] = "167827",
 						}, -- [4]
 					},
 				}, -- [1]
@@ -16518,7 +16596,7 @@ _detalhes_database = {
 							["classe"] = "SHAMAN",
 							["passiveover"] = 0.00878,
 							["total"] = 0.00878,
-							["resource_type"] = 11,
+							["totalover"] = 0.00878,
 							["nome"] = "Toshaman",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16527,13 +16605,13 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["spec"] = 262,
-							["flag_original"] = 1298,
-							["alternatepower"] = 0.00878,
-							["tipo"] = 3,
-							["last_event"] = 1606537033,
 							["aID"] = "3676-0AD945D6",
+							["last_event"] = 1606537033,
+							["tipo"] = 3,
+							["alternatepower"] = 0.00878,
+							["flag_original"] = 1298,
 							["serial"] = "Player-3676-0AD945D6",
-							["totalover"] = 0.00878,
+							["resource_type"] = 11,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -16552,137 +16630,137 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1606537025,
 										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 6,
-							["aID"] = "3676-0AD945D6",
+							["pets"] = {
+							},
+							["classe"] = "SHAMAN",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[298837] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 298837,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 298837,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268856] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268856,
+										["uptime"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 268856,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[268854] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 268854,
+										["uptime"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 268854,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Toshaman",
 							["spec"] = 262,
 							["grupo"] = true,
-							["classe"] = "SHAMAN",
-							["debuff_uptime_targets"] = {
+							["last_event"] = 1606537026,
+							["buff_uptime_targets"] = {
 							},
 							["tipo"] = 4,
-							["nome"] = "Toshaman",
-							["pets"] = {
+							["debuff_uptime_targets"] = {
 							},
+							["buff_uptime"] = 6,
 							["serial"] = "Player-3676-0AD945D6",
-							["last_event"] = 1606537026,
+							["aID"] = "3676-0AD945D6",
 						}, -- [1]
 						{
 							["flag_original"] = 1047,
-							["nome"] = "Toshdruid",
-							["spec"] = 105,
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["buff_uptime"] = 4,
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 105,
+							["grupo"] = true,
+							["aID"] = "3676-0B20F78C",
 							["pets"] = {
 							},
-							["last_event"] = 1606537026,
+							["nome"] = "Toshdruid",
+							["buff_uptime"] = 4,
 							["tipo"] = 4,
+							["last_event"] = 1606537026,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[269083] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 269083,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[227723] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 227723,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-3676-0B20F78C",
-							["aID"] = "3676-0B20F78C",
+							["classe"] = "DRUID",
 						}, -- [2]
 						{
 							["flag_original"] = 8472,
-							["tipo"] = 4,
+							["classe"] = "MAGE",
 							["nome"] = "Kirin Tor Mage",
 							["grupo"] = true,
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["tipo"] = 4,
+							["aID"] = "167826",
+							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF0F",
 							["spell_cast"] = {
 								[279564] = 1,
 							},
-							["aID"] = "167826",
-							["classe"] = "MAGE",
-							["serial"] = "Creature-0-4230-2364-1845-167826-000041CF0F",
-							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -16693,11 +16771,10 @@ _detalhes_database = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Toshdruid"] = true,
 					["Toshaman"] = true,
+					["Toshdruid"] = true,
 				},
-				["frags"] = {
-					["Mawsworn Willbreaker"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["tempo_start"] = 1606537024,
 				["last_events_tables"] = {
@@ -16713,25 +16790,25 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["overall_added"] = true,
+				["data_inicio"] = "23:17:05",
 				["frags_need_refresh"] = true,
 				["aura_timeline"] = {
 				},
@@ -16742,7 +16819,12 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["Frostwolf Warrior"] = 280.005112,
+							["Kirin Tor Mage"] = 654.003141,
+							["Toshaman"] = 650.001541,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -16750,41 +16832,19 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["Frostwolf Warrior"] = 280.005112,
-							["Toshaman"] = 650.001541,
-							["Kirin Tor Mage"] = 654.003141,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 1009197.087,
-				["contra"] = "Mawsworn Willbreaker",
+				["TimeData"] = {
+				},
 				["instance_type"] = "none",
 				["combat_id"] = 121,
-				["totals_grupo"] = {
-					1584, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_timeline"] = {
 				},
 				["hasSaved"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Mawsworn Willbreaker"] = 1,
 				},
 				["data_fim"] = "23:17:07",
 				["cleu_events"] = {
@@ -16792,16 +16852,34 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["cleu_timeline"] = {
+				["totals_grupo"] = {
+					1584, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
 				},
 				["start_time"] = 1009195.087,
-				["TimeData"] = {
-				},
-				["data_inicio"] = "23:17:05",
+				["contra"] = "Mawsworn Willbreaker",
+				["overall_added"] = true,
 			}, -- [18]
 		},
 	},
-	["last_version"] = "v9.0.1.8002",
+	["last_version"] = "v9.0.2.8102",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -16809,80 +16887,106 @@ _detalhes_database = {
 	},
 	["coach"] = {
 		["enabled"] = false,
+		["welcome_panel_pos"] = {
+		},
+		["last_coach_name"] = false,
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
+		["Fûzylock"] = {
+			"Fuzy", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			6, -- [7]
+		},
+		["Lyunara"] = {
+			"Lyunara", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			6, -- [7]
+		},
+		["Gummybuns"] = {
+			"à La Mode // This French Expression Means “According To The Fashion” And Can Be Applied To Clothing, Furniture, Dances, Or Anything That Goes In And Out Of Style. In Us Usage, The Term Is Applied As A Post-Modifier To Desserts. It Usually Means “With Ice Cream,” As In “Pie à La Mode.”", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			7, -- [7]
+		},
+		["Sci"] = {
+			"Jojo", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["nextreset"] = 1611040360,
 		["last_version"] = 12,
-		["Yukiox"] = {
-			"Nv", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Yellowy"] = {
-			"Toshpriest", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["nextreset"] = 1609708971,
-		["Nv"] = {
-			"Nv", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			8, -- [7]
-		},
 	},
 	["last_instance_id"] = 2217,
 	["announce_interrupts"] = {
@@ -16909,17 +17013,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["enabled"] = true,
+			["animate"] = false,
 			["showamount"] = false,
 			["useplayercolor"] = false,
-			["author"] = "Details! Team",
 			["useclasscolors"] = false,
+			["author"] = "Details! Team",
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["animate"] = false,
+			["enabled"] = true,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -16949,15 +17053,15 @@ _detalhes_database = {
 			["max_segments_for_current"] = 2,
 			["max_deaths_for_current"] = 20,
 			["last_player"] = false,
-			["author"] = "Details! Team",
+			["InstalledAt"] = 1597283408,
 			["last_encounter_hash"] = false,
-			["enabled"] = true,
+			["showing_type"] = 4,
 			["timeline_cutoff_time"] = 3,
 			["last_segment"] = false,
 			["last_combat_id"] = 93,
 			["timeline_cutoff_delete_time"] = 3,
-			["showing_type"] = 4,
-			["InstalledAt"] = 1597283408,
+			["enabled"] = true,
+			["author"] = "Details! Team",
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -16967,11 +17071,11 @@ _detalhes_database = {
 			["last_section_selected"] = "main",
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
+			["hide_on_combat"] = false,
 			["show_icon"] = 5,
 			["opened"] = 0,
-			["hide_on_combat"] = false,
+			["encounter_timers_dbm"] = {
+			},
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
@@ -17014,27 +17118,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = false,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["per_second"] = {
-				["enabled"] = false,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 9.1552734375e-05,
-				["x"] = 6.103515625e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
+			["author"] = "Details! Team",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -17042,33 +17131,50 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
+			["y"] = 6.103515625e-05,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 9.1552734375e-05,
+				["x"] = 6.103515625e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
 			["x"] = 6.103515625e-05,
 			["font_face"] = "Friz Quadrata TT",
-			["y"] = 6.103515625e-05,
-			["author"] = "Details! Team",
-			["point"] = "CENTER",
-			["row_height"] = 20,
-			["scale"] = 1,
+			["use_spark"] = true,
+			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["cd_tracker"] = {
+		["enabled"] = false,
+		["cds_enabled"] = {
+		},
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["pos"] = {
 		},
 	},
 	["last_encounter"] = "N'Zoth the Corruptor",
 	["cached_talents"] = {
-		["Player-9-0B608E72"] = {
-			20185, -- [1]
-			19302, -- [2]
-			22166, -- [3]
-			19995, -- [4]
-			20173, -- [5]
-			22214, -- [6]
-			22170, -- [7]
-		},
 	},
 	["announce_prepots"] = {
-		["enabled"] = true,
+		["enabled"] = false,
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
@@ -17076,85 +17182,16 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["last_day"] = "19",
-	["character_data"] = {
-		["logons"] = 16,
-	},
-	["local_instances_config"] = {
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["is_open"] = true,
-			["isLocked"] = true,
-			["snap"] = {
-				2, -- [1]
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -520.9999389648438,
-					["x"] = 1278.33349609375,
-					["w"] = 309.9999389648438,
-					["h"] = 158,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [1]
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["is_open"] = true,
-			["isLocked"] = true,
-			["snap"] = {
-				[3] = 1,
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -520.9999389648438,
-					["x"] = 968.33349609375,
-					["w"] = 309.9999389648438,
-					["h"] = 158,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [2]
+	["last_realversion"] = 144,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["combat_id"] = 138,
 	["savedStyles"] = {
 	},
 	["force_font_outline"] = "",
-	["combat_counter"] = 181,
+	["combat_counter"] = 182,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -17174,12 +17211,12 @@ _detalhes_database = {
 						["Ruiner Maroth"] = true,
 						["Scavenging Mawrat"] = true,
 						["Environment (Falling)"] = true,
-						["Tormented Amalgamation"] = true,
+						["Mawsworn Guard"] = true,
 						["Crucible Seeker"] = true,
 						["Tremaculum Sentinel"] = true,
-						["Withering Presence"] = true,
+						["Tormented Amalgamation"] = true,
 						["Mawsworn Harbinger"] = true,
-						["Mawsworn Guard"] = true,
+						["Withering Presence"] = true,
 					},
 					["targets"] = {
 						["Tremaculum Warden"] = 17569,
@@ -17203,19 +17240,19 @@ _detalhes_database = {
 					["pets"] = {
 						"Primal Storm Elemental <Toshaman>", -- [1]
 					},
+					["total"] = 536424.2043629999,
+					["tipo"] = 1,
 					["friendlyfire_total"] = 0,
-					["last_event"] = 0,
-					["aID"] = "3676-0AD945D6",
 					["raid_targets"] = {
 						[128] = 65207,
 					},
 					["total_without_pet"] = 523270.2043630001,
-					["serial"] = "Player-3676-0AD945D6",
+					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1606535768,
-					["damage_taken"] = 34386.204363,
 					["friendlyfire"] = {
 					},
+					["last_dps"] = 0,
 					["nome"] = "Toshaman",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -17231,10 +17268,10 @@ _detalhes_database = {
 									["Ruiner Maroth"] = 133,
 									["Mawsworn Harbinger"] = 233,
 									["Tremaculum Warden"] = 45,
-									["Tariesh"] = 396,
+									["Malice Shadow"] = 87,
 									["Tremaculum Sentinel"] = 351,
 									["Tormented Amalgamation"] = 525,
-									["Malice Shadow"] = 87,
+									["Tariesh"] = 396,
 									["Mawsworn Sorcerer"] = 176,
 								},
 								["m_dmg"] = 0,
@@ -17246,17 +17283,17 @@ _detalhes_database = {
 								["c_max"] = 101,
 								["id"] = 316019,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 44,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[188443] = {
 								["c_amt"] = 7,
@@ -17266,9 +17303,9 @@ _detalhes_database = {
 								["n_max"] = 454,
 								["targets"] = {
 									["Mawsworn Harbinger"] = 12158,
-									["Mawsworn Sorcerer"] = 1464,
-									["Mawsworn Guard"] = 15043,
 									["Mawsworn Soulrender"] = 697,
+									["Mawsworn Guard"] = 15043,
+									["Mawsworn Sorcerer"] = 1464,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 23343,
@@ -17279,397 +17316,17 @@ _detalhes_database = {
 								["c_max"] = 1064,
 								["id"] = 188443,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 67,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[188389] = {
-								["c_amt"] = 39,
-								["b_amt"] = 0,
-								["c_dmg"] = 9678,
-								["g_amt"] = 0,
-								["n_max"] = 182,
-								["targets"] = {
-									["Mawsworn Guard"] = 6103,
-									["Tremaculum Warden"] = 887,
-									["Mawsworn Soulrender"] = 4455,
-									["Malice Shadow"] = 1561,
-									["Ruiner Maroth"] = 1504,
-									["Phael the Afflictor"] = 818,
-									["Withering Presence"] = 1054,
-									["Mawsworn Harbinger"] = 1805,
-									["Mawsworn Willbreaker"] = 1317,
-									["Mawsworn Interceptor"] = 450,
-									["Crucible Seeker"] = 661,
-									["Tremaculum Sentinel"] = 2660,
-									["Tormented Amalgamation"] = 1430,
-									["Tariesh"] = 2110,
-									["Mawsworn Sorcerer"] = 1157,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 18294,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 218,
-								["total"] = 27972,
-								["c_max"] = 367,
-								["id"] = 188389,
-								["r_dmg"] = 0,
+								["a_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 179,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[77478] = {
-								["c_amt"] = 24,
-								["b_amt"] = 0,
-								["c_dmg"] = 10650,
-								["g_amt"] = 0,
-								["n_max"] = 226,
-								["targets"] = {
-									["Mawsworn Harbinger"] = 8597,
-									["Mawsworn Seeker"] = 4905,
-									["Mawsworn Guard"] = 14294,
-									["Scavenging Mawrat"] = 1368,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 18514,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 123,
-								["total"] = 29164,
-								["c_max"] = 566,
-								["id"] = 77478,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 99,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[188196] = {
-								["c_amt"] = 18,
-								["b_amt"] = 0,
-								["c_dmg"] = 33468,
-								["g_amt"] = 0,
-								["n_max"] = 2288,
-								["targets"] = {
-									["Mawsworn Guard"] = 15019,
-									["Malice Shadow"] = 3361,
-									["Tremaculum Warden"] = 4104,
-									["Mawsworn Soulrender"] = 19363,
-									["Withering Presence"] = 5498,
-									["Ruiner Maroth"] = 11643,
-									["Phael the Afflictor"] = 11671,
-									["Scavenging Mawrat"] = 5260,
-									["Mawsworn Harbinger"] = 11924,
-									["Mawsworn Willbreaker"] = 6536,
-									["Mawsworn Interceptor"] = 3356,
-									["Crucible Seeker"] = 1322,
-									["Tremaculum Sentinel"] = 8395,
-									["Tormented Amalgamation"] = 13379,
-									["Tariesh"] = 17857,
-									["Mawsworn Sorcerer"] = 2423,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 107643,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 140,
-								["total"] = 141111,
-								["c_max"] = 3672,
-								["id"] = 188196,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 122,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[313148] = {
-								["c_amt"] = 1,
-								["b_amt"] = 0,
-								["c_dmg"] = 173,
-								["g_amt"] = 0,
-								["n_max"] = 87,
-								["targets"] = {
-									["Ruiner Maroth"] = 606,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 433,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 6,
-								["total"] = 606,
-								["c_max"] = 173,
-								["id"] = 313148,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 5,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[285466] = {
-								["c_amt"] = 33,
-								["b_amt"] = 0,
-								["c_dmg"] = 57776,
-								["g_amt"] = 0,
-								["n_max"] = 686,
-								["targets"] = {
-									["Mawsworn Interceptor"] = 1720,
-									["Mawsworn Soulrender"] = 10297,
-									["Ruiner Maroth"] = 5509,
-									["Mawsworn Guard"] = 6759,
-									["Tremaculum Warden"] = 5138,
-									["Mawsworn Harbinger"] = 6823,
-									["Mawsworn Willbreaker"] = 1806,
-									["Withering Presence"] = 1686,
-									["Crucible Seeker"] = 1748,
-									["Tremaculum Sentinel"] = 3431,
-									["Tormented Amalgamation"] = 3373,
-									["Malice Shadow"] = 5033,
-									["Mawsworn Sorcerer"] = 5139,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 686,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 34,
-								["total"] = 58462,
-								["c_max"] = 2186,
-								["id"] = 285466,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 1,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[196840] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 339,
-								["targets"] = {
-									["Mawsworn Harbinger"] = 1001,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 1001,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 3,
-								["total"] = 1001,
-								["c_max"] = 0,
-								["id"] = 196840,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 3,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[45297] = {
-								["c_amt"] = 9,
-								["b_amt"] = 0,
-								["c_dmg"] = 6586,
-								["g_amt"] = 0,
-								["n_max"] = 374,
-								["targets"] = {
-									["Mawsworn Harbinger"] = 5620,
-									["Mawsworn Guard"] = 9046,
-									["Mawsworn Sorcerer"] = 2182,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 10262,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 42,
-								["total"] = 16848,
-								["c_max"] = 937,
-								["id"] = 45297,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 33,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[313663] = {
-								["c_amt"] = 4,
-								["b_amt"] = 0,
-								["c_dmg"] = 5806,
-								["g_amt"] = 0,
-								["n_max"] = 792,
-								["targets"] = {
-									["Mawsworn Guard"] = 5092,
-									["Mawsworn Soulrender"] = 4337,
-									["Ruiner Maroth"] = 728,
-									["Scavenging Mawrat"] = 728,
-									["Mawsworn Harbinger"] = 2708,
-									["Tremaculum Warden"] = 747,
-									["Tariesh"] = 792,
-									["Tremaculum Sentinel"] = 2178,
-									["Tormented Amalgamation"] = 2163,
-									["Malice Shadow"] = 2163,
-									["Mawsworn Sorcerer"] = 1444,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 17274,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 28,
-								["total"] = 23080,
-								["c_max"] = 1461,
-								["id"] = 313663,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 24,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[285452] = {
-								["c_amt"] = 58,
-								["b_amt"] = 0,
-								["c_dmg"] = 119870,
-								["g_amt"] = 0,
-								["n_max"] = 1014,
-								["targets"] = {
-									["Mawsworn Guard"] = 22694,
-									["Tremaculum Warden"] = 6012,
-									["Mawsworn Soulrender"] = 20208,
-									["Malice Shadow"] = 10991,
-									["Ruiner Maroth"] = 5025,
-									["Phael the Afflictor"] = 4591,
-									["Withering Presence"] = 5987,
-									["Mawsworn Harbinger"] = 9951,
-									["Mawsworn Willbreaker"] = 6141,
-									["Mawsworn Interceptor"] = 780,
-									["Crucible Seeker"] = 4433,
-									["Tremaculum Sentinel"] = 11967,
-									["Tormented Amalgamation"] = 4762,
-									["Tariesh"] = 6518,
-									["Mawsworn Sorcerer"] = 6004,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 6194,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 65,
-								["total"] = 126064,
-								["c_max"] = 2579,
-								["id"] = 285452,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 7,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[8042] = {
-								["c_amt"] = 5,
-								["b_amt"] = 0,
-								["c_dmg"] = 20639,
-								["g_amt"] = 0,
-								["n_max"] = 1983,
-								["targets"] = {
-									["Mawsworn Guard"] = 11141,
-									["Mawsworn Soulrender"] = 10248,
-									["Ruiner Maroth"] = 1578,
-									["Mawsworn Harbinger"] = 3896,
-									["Mawsworn Willbreaker"] = 4141,
-									["Withering Presence"] = 1524,
-									["Tariesh"] = 3607,
-									["Tremaculum Sentinel"] = 5491,
-									["Tormented Amalgamation"] = 1547,
-									["Malice Shadow"] = 1516,
-									["Mawsworn Sorcerer"] = 1573,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 25623,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 20,
-								["total"] = 46262,
-								["c_max"] = 4834,
-								["id"] = 8042,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 15,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
 							},
 							[170379] = {
 								["c_amt"] = 28,
@@ -17705,17 +17362,397 @@ _detalhes_database = {
 								["c_max"] = 326,
 								["id"] = 170379,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 126,
-								["a_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[188389] = {
+								["c_amt"] = 39,
+								["b_amt"] = 0,
+								["c_dmg"] = 9678,
+								["g_amt"] = 0,
+								["n_max"] = 182,
+								["targets"] = {
+									["Tremaculum Warden"] = 887,
+									["Mawsworn Guard"] = 6103,
+									["Mawsworn Soulrender"] = 4455,
+									["Tariesh"] = 2110,
+									["Ruiner Maroth"] = 1504,
+									["Phael the Afflictor"] = 818,
+									["Tormented Amalgamation"] = 1430,
+									["Mawsworn Harbinger"] = 1805,
+									["Mawsworn Willbreaker"] = 1317,
+									["Mawsworn Interceptor"] = 450,
+									["Crucible Seeker"] = 661,
+									["Tremaculum Sentinel"] = 2660,
+									["Withering Presence"] = 1054,
+									["Malice Shadow"] = 1561,
+									["Mawsworn Sorcerer"] = 1157,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 18294,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 218,
+								["total"] = 27972,
+								["c_max"] = 367,
+								["id"] = 188389,
+								["r_dmg"] = 0,
 								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 179,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[188196] = {
+								["c_amt"] = 18,
+								["b_amt"] = 0,
+								["c_dmg"] = 33468,
+								["g_amt"] = 0,
+								["n_max"] = 2288,
+								["targets"] = {
+									["Tremaculum Warden"] = 4104,
+									["Tariesh"] = 17857,
+									["Mawsworn Guard"] = 15019,
+									["Mawsworn Soulrender"] = 19363,
+									["Tormented Amalgamation"] = 13379,
+									["Ruiner Maroth"] = 11643,
+									["Phael the Afflictor"] = 11671,
+									["Scavenging Mawrat"] = 5260,
+									["Mawsworn Harbinger"] = 11924,
+									["Mawsworn Willbreaker"] = 6536,
+									["Mawsworn Interceptor"] = 3356,
+									["Crucible Seeker"] = 1322,
+									["Tremaculum Sentinel"] = 8395,
+									["Withering Presence"] = 5498,
+									["Malice Shadow"] = 3361,
+									["Mawsworn Sorcerer"] = 2423,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 107643,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 140,
+								["total"] = 141111,
+								["c_max"] = 3672,
+								["id"] = 188196,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 122,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[8042] = {
+								["c_amt"] = 5,
+								["b_amt"] = 0,
+								["c_dmg"] = 20639,
+								["g_amt"] = 0,
+								["n_max"] = 1983,
+								["targets"] = {
+									["Mawsworn Guard"] = 11141,
+									["Mawsworn Soulrender"] = 10248,
+									["Ruiner Maroth"] = 1578,
+									["Mawsworn Harbinger"] = 3896,
+									["Mawsworn Willbreaker"] = 4141,
+									["Tormented Amalgamation"] = 1547,
+									["Malice Shadow"] = 1516,
+									["Tremaculum Sentinel"] = 5491,
+									["Withering Presence"] = 1524,
+									["Tariesh"] = 3607,
+									["Mawsworn Sorcerer"] = 1573,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 25623,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 20,
+								["total"] = 46262,
+								["c_max"] = 4834,
+								["id"] = 8042,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 15,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[285466] = {
+								["c_amt"] = 33,
+								["b_amt"] = 0,
+								["c_dmg"] = 57776,
+								["g_amt"] = 0,
+								["n_max"] = 686,
+								["targets"] = {
+									["Mawsworn Interceptor"] = 1720,
+									["Mawsworn Soulrender"] = 10297,
+									["Ruiner Maroth"] = 5509,
+									["Mawsworn Guard"] = 6759,
+									["Tremaculum Warden"] = 5138,
+									["Mawsworn Harbinger"] = 6823,
+									["Mawsworn Willbreaker"] = 1806,
+									["Tormented Amalgamation"] = 3373,
+									["Crucible Seeker"] = 1748,
+									["Tremaculum Sentinel"] = 3431,
+									["Withering Presence"] = 1686,
+									["Malice Shadow"] = 5033,
+									["Mawsworn Sorcerer"] = 5139,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 686,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 34,
+								["total"] = 58462,
+								["c_max"] = 2186,
+								["id"] = 285466,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[196840] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 339,
+								["targets"] = {
+									["Mawsworn Harbinger"] = 1001,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1001,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 1001,
+								["c_max"] = 0,
+								["id"] = 196840,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[45297] = {
+								["c_amt"] = 9,
+								["b_amt"] = 0,
+								["c_dmg"] = 6586,
+								["g_amt"] = 0,
+								["n_max"] = 374,
+								["targets"] = {
+									["Mawsworn Harbinger"] = 5620,
+									["Mawsworn Guard"] = 9046,
+									["Mawsworn Sorcerer"] = 2182,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10262,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 42,
+								["total"] = 16848,
+								["c_max"] = 937,
+								["id"] = 45297,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 33,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[313663] = {
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 5806,
+								["g_amt"] = 0,
+								["n_max"] = 792,
+								["targets"] = {
+									["Mawsworn Guard"] = 5092,
+									["Mawsworn Soulrender"] = 4337,
+									["Ruiner Maroth"] = 728,
+									["Scavenging Mawrat"] = 728,
+									["Mawsworn Harbinger"] = 2708,
+									["Tremaculum Warden"] = 747,
+									["Malice Shadow"] = 2163,
+									["Tremaculum Sentinel"] = 2178,
+									["Tormented Amalgamation"] = 2163,
+									["Tariesh"] = 792,
+									["Mawsworn Sorcerer"] = 1444,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 17274,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 28,
+								["total"] = 23080,
+								["c_max"] = 1461,
+								["id"] = 313663,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 24,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[285452] = {
+								["c_amt"] = 58,
+								["b_amt"] = 0,
+								["c_dmg"] = 119870,
+								["g_amt"] = 0,
+								["n_max"] = 1014,
+								["targets"] = {
+									["Tremaculum Warden"] = 6012,
+									["Mawsworn Guard"] = 22694,
+									["Mawsworn Soulrender"] = 20208,
+									["Tariesh"] = 6518,
+									["Ruiner Maroth"] = 5025,
+									["Phael the Afflictor"] = 4591,
+									["Tormented Amalgamation"] = 4762,
+									["Mawsworn Harbinger"] = 9951,
+									["Mawsworn Willbreaker"] = 6141,
+									["Mawsworn Interceptor"] = 780,
+									["Crucible Seeker"] = 4433,
+									["Tremaculum Sentinel"] = 11967,
+									["Withering Presence"] = 5987,
+									["Malice Shadow"] = 10991,
+									["Mawsworn Sorcerer"] = 6004,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6194,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 65,
+								["total"] = 126064,
+								["c_max"] = 2579,
+								["id"] = 285452,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[313148] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 173,
+								["g_amt"] = 0,
+								["n_max"] = 87,
+								["targets"] = {
+									["Ruiner Maroth"] = 606,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 433,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 606,
+								["c_max"] = 173,
+								["id"] = 313148,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[77478] = {
+								["c_amt"] = 24,
+								["b_amt"] = 0,
+								["c_dmg"] = 10650,
+								["g_amt"] = 0,
+								["n_max"] = 226,
+								["targets"] = {
+									["Mawsworn Harbinger"] = 8597,
+									["Mawsworn Guard"] = 14294,
+									["Mawsworn Seeker"] = 4905,
+									["Scavenging Mawrat"] = 1368,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 18514,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 123,
+								["total"] = 29164,
+								["c_max"] = 566,
+								["id"] = 77478,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 99,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
@@ -17724,11 +17761,11 @@ _detalhes_database = {
 					["on_hold"] = false,
 					["classe"] = "SHAMAN",
 					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 34386.204363,
 					["start_time"] = 1606535233,
-					["delay"] = 0,
-					["total"] = 536424.2043629999,
+					["serial"] = "Player-3676-0AD945D6",
+					["aID"] = "3676-0AD945D6",
 				}, -- [1]
 				{
 					["flag_original"] = 2632,
@@ -17736,10 +17773,10 @@ _detalhes_database = {
 					["damage_from"] = {
 						["Thrall"] = true,
 						["Knight of the Ebon Blade"] = true,
-						["Doomed Soul"] = true,
 						["Frostwolf Warrior"] = true,
-						["Dandroid"] = true,
+						["Doomed Soul"] = true,
 						["Gromlic"] = true,
+						["Dandroid"] = true,
 						["Toshaman"] = true,
 					},
 					["targets"] = {
@@ -17747,25 +17784,24 @@ _detalhes_database = {
 						["Knight of the Ebon Blade"] = 2496,
 						["Toshdruid"] = 722,
 						["Frostwolf Warrior"] = 7135,
-						["Dandroid"] = 351,
 						["Gromlic"] = 1086,
+						["Dandroid"] = 351,
 						["Toshaman"] = 2226,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-165860-000041CA34",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["fight_component"] = true,
+					["dps_started"] = false,
 					["classe"] = "UNKNOW",
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 19268.071814,
-					["end_time"] = 1606535768,
-					["monster"] = true,
 					["total"] = 19268.071814,
-					["friendlyfire"] = {
-					},
-					["last_event"] = 0,
+					["monster"] = true,
+					["end_time"] = 1606535768,
+					["last_dps"] = 0,
+					["tipo"] = 1,
 					["nome"] = "Mawsworn Guard",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -17780,8 +17816,8 @@ _detalhes_database = {
 									["Knight of the Ebon Blade"] = 2496,
 									["Toshdruid"] = 722,
 									["Frostwolf Warrior"] = 7135,
-									["Dandroid"] = 351,
 									["Gromlic"] = 1086,
+									["Dandroid"] = 351,
 									["Toshaman"] = 2226,
 								},
 								["m_dmg"] = 0,
@@ -17789,23 +17825,23 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 51,
-								["DODGE"] = 3,
+								["r_amt"] = 0,
 								["total"] = 19268,
 								["c_max"] = 815,
-								["a_amt"] = 0,
+								["extra"] = {
+								},
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["b_dmg"] = 0,
-								["a_dmg"] = 0,
+								["m_amt"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
-								["m_amt"] = 0,
+								["a_dmg"] = 0,
 								["n_amt"] = 46,
-								["extra"] = {
-								},
-								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["DODGE"] = 3,
 							}, -- [1]
 							[294165] = {
 								["c_amt"] = 0,
@@ -17824,30 +17860,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 294165,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 19,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["damage_taken"] = 235163.071814,
+					["friendlyfire"] = {
+					},
 					["aID"] = "165860",
-					["fight_component"] = true,
+					["damage_taken"] = 235163.071814,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1606535654,
-					["delay"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-4230-2364-1845-165860-000041CA34",
+					["friendlyfire_total"] = 0,
 				}, -- [2]
 				{
 					["flag_original"] = 2632,
@@ -17856,30 +17893,31 @@ _detalhes_database = {
 						["Knight of the Ebon Blade"] = true,
 						["Kirin Tor Mage"] = true,
 						["Frostwolf Warrior"] = true,
-						["Dandroid"] = true,
 						["Gromlic"] = true,
+						["Dandroid"] = true,
 						["Toshaman"] = true,
 					},
 					["targets"] = {
 						["Frostwolf Warrior"] = 4668,
-						["Gromlic"] = 1590,
 						["Knight of the Ebon Blade"] = 1747,
+						["Gromlic"] = 1590,
 						["Toshaman"] = 2798,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-165992-000041C8B6",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["end_time"] = 1606535768,
+					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 10803.06048,
 					["dps_started"] = false,
-					["monster"] = true,
+					["fight_component"] = true,
 					["total"] = 10803.06048,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["tipo"] = 1,
 					["nome"] = "Mawsworn Soulrender",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -17891,8 +17929,8 @@ _detalhes_database = {
 								["n_max"] = 647,
 								["targets"] = {
 									["Frostwolf Warrior"] = 4668,
-									["Gromlic"] = 1590,
 									["Knight of the Ebon Blade"] = 1747,
+									["Gromlic"] = 1590,
 									["Toshaman"] = 2655,
 								},
 								["m_dmg"] = 0,
@@ -17902,20 +17940,20 @@ _detalhes_database = {
 								["counter"] = 21,
 								["total"] = 10660,
 								["c_max"] = 0,
-								["MISS"] = 2,
+								["r_amt"] = 0,
 								["id"] = 335680,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
+								["a_dmg"] = 0,
 								["b_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 20,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
 								["n_amt"] = 19,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["MISS"] = 2,
 							},
 							[347404] = {
 								["c_amt"] = 0,
@@ -17935,31 +17973,30 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 347404,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["damage_taken"] = 88298.06048,
+					["monster"] = true,
 					["aID"] = "165992",
-					["end_time"] = 1606535768,
+					["damage_taken"] = 88298.06048,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1606535719,
-					["delay"] = 0,
-					["last_dps"] = 0,
+					["serial"] = "Creature-0-4230-2364-1845-165992-000041C8B6",
+					["friendlyfire_total"] = 0,
 				}, -- [3]
 				{
 					["flag_original"] = 2632,
@@ -17969,25 +18006,24 @@ _detalhes_database = {
 						["Toshaman"] = true,
 					},
 					["targets"] = {
-						["Toshaman"] = 2327,
-						["Knight of the Ebon Blade"] = 395,
 						["Toshdruid"] = 2871,
+						["Knight of the Ebon Blade"] = 395,
+						["Toshaman"] = 2327,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-166714-000041CAD3",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "166714",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 5593.006395,
-					["end_time"] = 1606535956,
-					["dps_started"] = false,
 					["total"] = 5593.006395,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606535956,
+					["damage_taken"] = 41462.006395,
+					["tipo"] = 1,
 					["nome"] = "Ruiner Maroth",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18009,17 +18045,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 							[292903] = {
 								["c_amt"] = 0,
@@ -18038,17 +18074,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 292903,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[292942] = {
 								["c_amt"] = 0,
@@ -18057,8 +18093,8 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 723,
 								["targets"] = {
-									["Toshaman"] = 2327,
 									["Toshdruid"] = 2871,
+									["Toshaman"] = 2327,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 5198,
@@ -18069,30 +18105,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 292942,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 8,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 41462.006395,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606535944,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-166714-000041CAD3",
+					["dps_started"] = false,
 				}, -- [4]
 				{
 					["flag_original"] = 1297,
@@ -18101,26 +18138,25 @@ _detalhes_database = {
 						["Environment (Falling)"] = true,
 						["Mawsworn Guard"] = true,
 						["Tormented Amalgamation"] = true,
-						["Mawsworn Harbinger"] = true,
 						["Ruiner Maroth"] = true,
+						["Mawsworn Harbinger"] = true,
 					},
 					["targets"] = {
 					},
-					["serial"] = "Player-3676-0B20F78C",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
+					["classe"] = "DRUID",
 					["aID"] = "3676-0B20F78C",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.05657399999999999,
-					["end_time"] = 1606535956,
-					["dps_started"] = false,
 					["total"] = 0.05657399999999999,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1606535956,
+					["damage_taken"] = 25040.056574,
+					["tipo"] = 1,
 					["nome"] = "Toshdruid",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18128,14 +18164,15 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["grupo"] = true,
-					["spec"] = 105,
 					["friendlyfire_total"] = 0,
+					["spec"] = 105,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 25040.056574,
+					["last_event"] = 0,
+					["last_dps"] = 0,
 					["start_time"] = 1606535953,
-					["delay"] = 0,
-					["classe"] = "DRUID",
+					["serial"] = "Player-3676-0B20F78C",
+					["friendlyfire"] = {
+					},
 				}, -- [5]
 				{
 					["flag_original"] = 2632,
@@ -18146,21 +18183,20 @@ _detalhes_database = {
 					["targets"] = {
 						["Toshaman"] = 1006,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-165974-0000C1CAD4",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "165974",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1006.017086,
-					["end_time"] = 1606535974,
-					["dps_started"] = false,
 					["total"] = 1006.017086,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606535974,
+					["damage_taken"] = 8370.017086,
+					["tipo"] = 1,
 					["nome"] = "Crucible Seeker",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18182,30 +18218,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 8370.017086,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606535965,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-165974-0000C1CAD4",
+					["dps_started"] = false,
 				}, -- [6]
 				{
 					["flag_original"] = 2632,
@@ -18213,36 +18250,35 @@ _detalhes_database = {
 					["damage_from"] = {
 						["Thrall"] = true,
 						["Knight of the Ebon Blade"] = true,
-						["Quartermaster Rahm"] = true,
+						["Toshaman"] = true,
 						["Mirror Image"] = true,
 						["Lady Jaina Proudmoore"] = true,
 						["Highlord Darion Mograine"] = true,
-						["Toshaman"] = true,
+						["Quartermaster Rahm"] = true,
 					},
 					["targets"] = {
 						["Thrall"] = 13207,
 						["Knight of the Ebon Blade"] = 10153,
 						["Toshdruid"] = 12189,
-						["Toshaman"] = 12448,
+						["Quartermaster Rahm"] = 1079,
 						["Lady Jaina Proudmoore"] = 830,
 						["Highlord Darion Mograine"] = 2206,
-						["Quartermaster Rahm"] = 1079,
+						["Toshaman"] = 12448,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-165983-0000C1CB7F",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
-					["aID"] = "165983",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 52112.032117,
-					["end_time"] = 1606536103,
-					["dps_started"] = false,
 					["total"] = 52112.032117,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1606536103,
+					["damage_taken"] = 222908.032117,
+					["tipo"] = 1,
 					["nome"] = "Mawsworn Harbinger",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18262,28 +18298,28 @@ _detalhes_database = {
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 11085,
-								["DODGE"] = 2,
-								["g_dmg"] = 0,
+								["IMMUNE"] = 5,
+								["total"] = 12482,
 								["n_min"] = 0,
-								["a_amt"] = 0,
+								["g_dmg"] = 0,
 								["counter"] = 48,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 								["c_max"] = 776,
-								["MISS"] = 5,
+								["extra"] = {
+								},
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["a_dmg"] = 0,
-								["m_amt"] = 0,
+								["c_min"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
-								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["extra"] = {
-								},
+								["MISS"] = 5,
 								["n_amt"] = 33,
-								["total"] = 12482,
-								["IMMUNE"] = 5,
+								["a_amt"] = 0,
+								["DODGE"] = 2,
 							}, -- [1]
 							[304946] = {
 								["c_amt"] = 0,
@@ -18305,17 +18341,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 304946,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 14,
 								["b_dmg"] = 0,
 								["n_amt"] = 29,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[304948] = {
 								["c_amt"] = 0,
@@ -18334,17 +18370,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 304948,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 9,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[345552] = {
 								["c_amt"] = 0,
@@ -18362,20 +18398,20 @@ _detalhes_database = {
 								["counter"] = 9,
 								["total"] = 5611,
 								["c_max"] = 0,
-								["MISS"] = 2,
+								["r_amt"] = 0,
 								["id"] = 345552,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
+								["a_dmg"] = 0,
 								["b_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 9,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
 								["n_amt"] = 7,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["MISS"] = 2,
 							},
 							[345554] = {
 								["c_amt"] = 0,
@@ -18394,17 +18430,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 345554,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 6,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[304949] = {
 								["c_amt"] = 0,
@@ -18416,10 +18452,10 @@ _detalhes_database = {
 									["Thrall"] = 1083,
 									["Knight of the Ebon Blade"] = 3943,
 									["Toshdruid"] = 2030,
-									["Toshaman"] = 2700,
+									["Quartermaster Rahm"] = 1079,
 									["Lady Jaina Proudmoore"] = 438,
 									["Highlord Darion Mograine"] = 1561,
-									["Quartermaster Rahm"] = 1079,
+									["Toshaman"] = 2700,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 12834,
@@ -18428,20 +18464,20 @@ _detalhes_database = {
 								["counter"] = 28,
 								["total"] = 12834,
 								["c_max"] = 0,
-								["IMMUNE"] = 1,
+								["r_amt"] = 0,
 								["id"] = 304949,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
+								["a_dmg"] = 0,
 								["b_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 11,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
 								["n_amt"] = 27,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["IMMUNE"] = 1,
 							},
 							[325423] = {
 								["c_amt"] = 0,
@@ -18450,8 +18486,8 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 1419,
 								["targets"] = {
-									["Highlord Darion Mograine"] = 0,
 									["Knight of the Ebon Blade"] = 6210,
+									["Highlord Darion Mograine"] = 0,
 									["Toshdruid"] = 9735,
 								},
 								["m_dmg"] = 0,
@@ -18461,33 +18497,34 @@ _detalhes_database = {
 								["counter"] = 13,
 								["total"] = 15945,
 								["c_max"] = 0,
-								["IMMUNE"] = 1,
+								["r_amt"] = 0,
 								["id"] = 325423,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
+								["a_dmg"] = 0,
 								["b_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 6,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
 								["n_amt"] = 12,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["IMMUNE"] = 1,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["monster"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 222908.032117,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536006,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-165983-0000C1CB7F",
+					["aID"] = "165983",
 				}, -- [7]
 				{
 					["flag_original"] = 2632,
@@ -18504,21 +18541,20 @@ _detalhes_database = {
 						["Thrall"] = 8307,
 						["Primal Storm Elemental <Toshaman>"] = 53,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-167263-000041CC42",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "167263",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 8360.011562,
-					["end_time"] = 1606536303,
-					["dps_started"] = false,
 					["total"] = 8360.011562,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606536303,
+					["damage_taken"] = 120086.011562,
+					["tipo"] = 1,
 					["nome"] = "Tariesh",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18538,20 +18574,20 @@ _detalhes_database = {
 								["counter"] = 15,
 								["total"] = 6939,
 								["c_max"] = 973,
-								["DODGE"] = 1,
+								["r_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
+								["a_dmg"] = 0,
 								["b_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
 								["n_amt"] = 12,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["DODGE"] = 1,
 							}, -- [1]
 							[316227] = {
 								["c_amt"] = 0,
@@ -18570,33 +18606,34 @@ _detalhes_database = {
 								["counter"] = 8,
 								["total"] = 1421,
 								["c_max"] = 0,
-								["MISS"] = 1,
+								["r_amt"] = 0,
 								["id"] = 316227,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
+								["a_dmg"] = 0,
 								["b_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 4,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
 								["n_amt"] = 7,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["MISS"] = 1,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 120086.011562,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536272,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-167263-000041CC42",
+					["dps_started"] = false,
 				}, -- [8]
 				{
 					["flag_original"] = 4370,
@@ -18609,16 +18646,16 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["total"] = 13154.00691,
+					["tipo"] = 1,
 					["aID"] = "77942",
-					["last_event"] = 0,
-					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 13154.00691,
-					["serial"] = "Creature-0-4230-2364-1845-77942-000041CC58",
+					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1606536303,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["ownerName"] = "Toshaman",
 					["nome"] = "Primal Storm Elemental <Toshaman>",
 					["spells"] = {
@@ -18641,17 +18678,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 157348,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[157331] = {
 								["c_amt"] = 2,
@@ -18671,43 +18708,43 @@ _detalhes_database = {
 								["c_max"] = 1870,
 								["id"] = 157331,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 8,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["on_hold"] = false,
+					["damage_taken"] = 53.00691,
 					["classe"] = "PET",
 					["friendlyfire"] = {
 					},
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 53.00691,
+					["last_event"] = 0,
+					["last_dps"] = 0,
 					["start_time"] = 1606536279,
-					["delay"] = 0,
-					["total"] = 13154.00691,
+					["serial"] = "Creature-0-4230-2364-1845-77942-000041CC58",
+					["friendlyfire_total"] = 0,
 				}, -- [9]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 347.023461,
 					["damage_from"] = {
 						["Mindbender <Dandroid>"] = true,
-						["Muramune"] = true,
-						["Knight of the Ebon Blade"] = true,
 						["Kirin Tor Mage"] = true,
+						["Knight of the Ebon Blade"] = true,
+						["Muramune"] = true,
 						["Frostwolf Warrior"] = true,
-						["Dandroid"] = true,
 						["Pawnofcode"] = true,
+						["Dandroid"] = true,
 						["Toshaman"] = true,
 					},
 					["targets"] = {
@@ -18715,20 +18752,21 @@ _detalhes_database = {
 						["Dandroid"] = 347,
 						["Knight of the Ebon Blade"] = 3409,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-165909-000041CC0F",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["aID"] = "165909",
+					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 4115.023461,
 					["dps_started"] = false,
-					["monster"] = true,
+					["fight_component"] = true,
 					["total"] = 4115.023461,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["tipo"] = 1,
 					["nome"] = "Malice Shadow",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18747,23 +18785,23 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 14,
-								["DODGE"] = 1,
+								["r_amt"] = 0,
 								["total"] = 2716,
 								["c_max"] = 381,
-								["MISS"] = 1,
+								["extra"] = {
+								},
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["b_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["a_dmg"] = 0,
 								["n_amt"] = 11,
-								["extra"] = {
-								},
-								["r_amt"] = 0,
+								["MISS"] = 1,
+								["DODGE"] = 1,
 							}, -- [1]
 							[320610] = {
 								["c_amt"] = 0,
@@ -18784,64 +18822,62 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 320610,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 5,
 								["b_dmg"] = 0,
 								["n_amt"] = 5,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["damage_taken"] = 82234.023461,
+					["monster"] = true,
 					["end_time"] = 1606536602,
-					["aID"] = "165909",
+					["damage_taken"] = 82234.023461,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1606536567,
-					["delay"] = 0,
-					["last_dps"] = 0,
+					["serial"] = "Creature-0-4230-2364-1845-165909-000041CC0F",
+					["friendlyfire_total"] = 0,
 				}, -- [10]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 356.011219,
 					["damage_from"] = {
 						["Frostwolf Warrior"] = true,
-						["Knight of the Ebon Blade"] = true,
 						["Pawnofcode"] = true,
+						["Knight of the Ebon Blade"] = true,
 						["Toshaman"] = true,
 					},
 					["targets"] = {
 						["Knight of the Ebon Blade"] = 353,
 						["Muramune"] = 1680,
 						["Frostwolf Warrior"] = 1632,
-						["Dandroid"] = 2080,
 						["Pawnofcode"] = 482,
+						["Dandroid"] = 2080,
 						["Toshaman"] = 598,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-165978-000041CBBA",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
-					["aID"] = "165978",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 6825.011219,
-					["end_time"] = 1606536602,
-					["dps_started"] = false,
 					["total"] = 6825.011219,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1606536602,
+					["damage_taken"] = 22459.011219,
+					["tipo"] = 1,
 					["nome"] = "Scavenging Mawrat",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18855,33 +18891,33 @@ _detalhes_database = {
 									["Knight of the Ebon Blade"] = 223,
 									["Muramune"] = 1204,
 									["Frostwolf Warrior"] = 1353,
-									["Dandroid"] = 1545,
 									["Pawnofcode"] = 373,
+									["Dandroid"] = 1545,
 									["Toshaman"] = 348,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 3691,
-								["g_dmg"] = 0,
+								["total"] = 5046,
 								["n_min"] = 0,
-								["MISS"] = 2,
+								["g_dmg"] = 0,
 								["counter"] = 74,
-								["a_amt"] = 0,
+								["DODGE"] = 5,
 								["r_amt"] = 0,
 								["c_max"] = 153,
 								["b_dmg"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["m_amt"] = 0,
+								["a_dmg"] = 0,
+								["c_min"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
-								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["a_dmg"] = 0,
+								["extra"] = {
+								},
 								["n_amt"] = 56,
-								["DODGE"] = 5,
-								["total"] = 5046,
+								["a_amt"] = 0,
+								["MISS"] = 2,
 							}, -- [1]
 							[332656] = {
 								["c_amt"] = 0,
@@ -18893,77 +18929,77 @@ _detalhes_database = {
 									["Knight of the Ebon Blade"] = 130,
 									["Muramune"] = 476,
 									["Frostwolf Warrior"] = 279,
-									["Dandroid"] = 535,
 									["Pawnofcode"] = 109,
+									["Dandroid"] = 535,
 									["Toshaman"] = 250,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 1779,
-								["g_dmg"] = 0,
+								["total"] = 1779,
 								["n_min"] = 0,
-								["a_amt"] = 0,
+								["g_dmg"] = 0,
 								["counter"] = 60,
-								["MISS"] = 4,
+								["DODGE"] = 1,
 								["r_amt"] = 0,
 								["c_max"] = 0,
 								["b_dmg"] = 0,
 								["id"] = 332656,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["m_amt"] = 0,
+								["a_dmg"] = 0,
+								["c_min"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
-								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 59,
-								["a_dmg"] = 0,
+								["extra"] = {
+								},
 								["n_amt"] = 54,
-								["DODGE"] = 1,
-								["total"] = 1779,
+								["MISS"] = 4,
+								["a_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["monster"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 22459.011219,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536517,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-165978-000041CBBA",
+					["aID"] = "165978",
 				}, -- [11]
 				{
 					["flag_original"] = 68168,
 					["totalabsorbed"] = 0.004382000000000001,
 					["damage_from"] = {
-						["Highlord Darion Mograine"] = true,
 						["Dandroid"] = true,
 						["Knight of the Ebon Blade"] = true,
+						["Highlord Darion Mograine"] = true,
 						["Toshaman"] = true,
 					},
 					["targets"] = {
-						["Toshdruid"] = 1766,
-						["Knight of the Ebon Blade"] = 23536,
-						["Highlord Darion Mograine"] = 2705,
 						["Toshaman"] = 1862,
+						["Highlord Darion Mograine"] = 2705,
+						["Knight of the Ebon Blade"] = 23536,
+						["Toshdruid"] = 1766,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-165976-000041CD8E",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "165976",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 29869.004382,
-					["end_time"] = 1606536670,
-					["dps_started"] = false,
 					["total"] = 29869.004382,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606536670,
+					["damage_taken"] = 149079.004382,
+					["tipo"] = 1,
 					["nome"] = "Tormented Amalgamation",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -18984,20 +19020,20 @@ _detalhes_database = {
 								["counter"] = 5,
 								["total"] = 728,
 								["c_max"] = 0,
-								["a_amt"] = 0,
+								["r_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["m_amt"] = 0,
+								["a_dmg"] = 0,
+								["c_min"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
-								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 4,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["a_amt"] = 0,
 							}, -- [1]
 							[336601] = {
 								["c_amt"] = 0,
@@ -19006,10 +19042,10 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 1087,
 								["targets"] = {
-									["Toshdruid"] = 1394,
-									["Knight of the Ebon Blade"] = 17996,
-									["Highlord Darion Mograine"] = 1712,
 									["Toshaman"] = 1472,
+									["Highlord Darion Mograine"] = 1712,
+									["Knight of the Ebon Blade"] = 17996,
+									["Toshdruid"] = 1394,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 22574,
@@ -19020,17 +19056,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 336601,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 2,
 								["b_dmg"] = 0,
 								["n_amt"] = 27,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[336567] = {
 								["c_amt"] = 0,
@@ -19039,10 +19075,10 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 587,
 								["targets"] = {
-									["Toshdruid"] = 372,
-									["Knight of the Ebon Blade"] = 5344,
-									["Highlord Darion Mograine"] = 461,
 									["Toshaman"] = 390,
+									["Highlord Darion Mograine"] = 461,
+									["Knight of the Ebon Blade"] = 5344,
+									["Toshdruid"] = 372,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 6567,
@@ -19053,30 +19089,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 336567,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 15,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 149079.004382,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536640,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-165976-000041CD8E",
+					["dps_started"] = false,
 				}, -- [12]
 				{
 					["flag_original"] = 8472,
@@ -19088,9 +19125,9 @@ _detalhes_database = {
 						["Scavenging Mawrat"] = true,
 						["Mawsworn Willbreaker"] = true,
 						["Tremaculum Sentinel"] = true,
-						["Mawsworn Guard"] = true,
-						["Malice Shadow"] = true,
 						["Tremaculum Warden"] = true,
+						["Malice Shadow"] = true,
+						["Mawsworn Guard"] = true,
 					},
 					["targets"] = {
 						["Mawsworn Interceptor"] = 501,
@@ -19099,23 +19136,23 @@ _detalhes_database = {
 						["Scavenging Mawrat"] = 4032,
 						["Mawsworn Willbreaker"] = 3767,
 						["Tremaculum Sentinel"] = 4372,
-						["Mawsworn Guard"] = 7071,
-						["Malice Shadow"] = 239,
 						["Tremaculum Warden"] = 2073,
+						["Malice Shadow"] = 239,
+						["Mawsworn Guard"] = 7071,
 					},
 					["pets"] = {
 					},
+					["total"] = 25113.102596,
+					["tipo"] = 1,
 					["classe"] = "SHAMAN",
-					["last_event"] = 0,
-					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 25113.102596,
-					["serial"] = "Creature-0-4230-2364-1845-167827-000041CE18",
+					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1606536816,
-					["damage_taken"] = 24684.102596,
 					["on_hold"] = false,
+					["last_dps"] = 0,
 					["nome"] = "Frostwolf Warrior",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19126,14 +19163,14 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 280,
 								["targets"] = {
-									["Mawsworn Interceptor"] = 501,
+									["Mawsworn Guard"] = 2581,
 									["Mawsworn Willbreaker"] = 3767,
-									["Tremaculum Warden"] = 2073,
+									["Mawsworn Interceptor"] = 501,
 									["Mawsworn Soulrender"] = 1824,
 									["Tremaculum Sentinel"] = 4372,
-									["Phael the Afflictor"] = 728,
 									["Malice Shadow"] = 239,
-									["Mawsworn Guard"] = 2581,
+									["Phael the Afflictor"] = 728,
+									["Tremaculum Warden"] = 2073,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 13110,
@@ -19144,17 +19181,17 @@ _detalhes_database = {
 								["c_max"] = 476,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 74,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 							[342875] = {
 								["c_amt"] = 0,
@@ -19174,17 +19211,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 342875,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[342872] = {
 								["c_amt"] = 0,
@@ -19209,17 +19246,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 342872,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 35,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
@@ -19229,11 +19266,11 @@ _detalhes_database = {
 					},
 					["aID"] = "167827",
 					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 24684.102596,
 					["start_time"] = 1606536658,
-					["delay"] = 0,
-					["total"] = 25113.102596,
+					["serial"] = "Creature-0-4230-2364-1845-167827-000041CE18",
+					["friendlyfire_total"] = 0,
 				}, -- [13]
 				{
 					["flag_original"] = 8472,
@@ -19245,23 +19282,23 @@ _detalhes_database = {
 						["Mawsworn Interceptor"] = 1131,
 						["Mawsworn Soulrender"] = 983,
 						["Tremaculum Sentinel"] = 11295,
+						["Tremaculum Warden"] = 5236,
 						["Malice Shadow"] = 695,
 						["Phael the Afflictor"] = 1964,
-						["Tremaculum Warden"] = 5236,
 					},
 					["pets"] = {
 					},
+					["friendlyfire_total"] = 0,
+					["tipo"] = 1,
 					["classe"] = "MAGE",
-					["last_event"] = 0,
-					["aID"] = "167826",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 31071.04428,
-					["serial"] = "Creature-0-4230-2364-1845-167826-000041CE18",
+					["delay"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1606536816,
-					["last_dps"] = 0,
 					["on_hold"] = false,
+					["damage_taken"] = 0.04428000000000001,
 					["nome"] = "Kirin Tor Mage",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19286,17 +19323,17 @@ _detalhes_database = {
 								["c_max"] = 312,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 5,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 							[279565] = {
 								["c_amt"] = 0,
@@ -19317,17 +19354,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 279565,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[279564] = {
 								["c_amt"] = 0,
@@ -19340,9 +19377,9 @@ _detalhes_database = {
 									["Mawsworn Interceptor"] = 1005,
 									["Mawsworn Soulrender"] = 983,
 									["Tremaculum Sentinel"] = 9842,
+									["Tremaculum Warden"] = 5236,
 									["Malice Shadow"] = 695,
 									["Phael the Afflictor"] = 1964,
-									["Tremaculum Warden"] = 5236,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 27710,
@@ -19353,17 +19390,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 279564,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 50,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[279567] = {
 								["c_amt"] = 0,
@@ -19384,17 +19421,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 279567,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
@@ -19404,39 +19441,38 @@ _detalhes_database = {
 					},
 					["total"] = 31071.04428,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 0.04428000000000001,
+					["last_event"] = 0,
+					["last_dps"] = 0,
 					["start_time"] = 1606536738,
-					["delay"] = 0,
-					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-4230-2364-1845-167826-000041CE18",
+					["aID"] = "167826",
 				}, -- [14]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.008638,
 					["damage_from"] = {
 						["Frostwolf Warrior"] = true,
-						["Toshaman"] = true,
 						["Kirin Tor Mage"] = true,
+						["Toshaman"] = true,
 					},
 					["targets"] = {
 						["Frostwolf Warrior"] = 307,
 						["Toshaman"] = 555,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-167941-000041CCDF",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "167941",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 862.008638,
-					["end_time"] = 1606536816,
-					["dps_started"] = false,
 					["total"] = 862.008638,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606536816,
+					["damage_taken"] = 8304.008638,
+					["tipo"] = 1,
 					["nome"] = "Mawsworn Interceptor",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19459,30 +19495,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 329706,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 3,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 8304.008638,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536805,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-167941-000041CCDF",
+					["dps_started"] = false,
 				}, -- [15]
 				{
 					["flag_original"] = 2632,
@@ -19496,27 +19533,26 @@ _detalhes_database = {
 					},
 					["targets"] = {
 						["Thrall"] = 317,
-						["Dandroid"] = 807,
+						["Pawnofcode"] = 0,
 						["Frostwolf Warrior"] = 4885,
 						["Mukoro"] = 375,
-						["Pawnofcode"] = 0,
+						["Dandroid"] = 807,
 						["Toshaman"] = 627,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-167704-000041CE4B",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
-					["aID"] = "167704",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 7011.038307999999,
-					["end_time"] = 1606536843,
-					["dps_started"] = false,
 					["total"] = 7011.038307999999,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1606536843,
+					["damage_taken"] = 67932.038308,
+					["tipo"] = 1,
 					["nome"] = "Tremaculum Sentinel",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19528,10 +19564,10 @@ _detalhes_database = {
 								["n_max"] = 432,
 								["targets"] = {
 									["Thrall"] = 317,
-									["Dandroid"] = 807,
+									["Pawnofcode"] = 0,
 									["Frostwolf Warrior"] = 4885,
 									["Mukoro"] = 375,
-									["Pawnofcode"] = 0,
+									["Dandroid"] = 807,
 									["Toshaman"] = 627,
 								},
 								["m_dmg"] = 0,
@@ -19541,63 +19577,63 @@ _detalhes_database = {
 								["counter"] = 21,
 								["total"] = 7011,
 								["c_max"] = 0,
-								["MISS"] = 1,
+								["r_amt"] = 0,
 								["id"] = 329706,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
+								["a_dmg"] = 0,
 								["b_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 19,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
 								["n_amt"] = 20,
-								["a_dmg"] = 0,
-								["r_amt"] = 0,
+								["extra"] = {
+								},
+								["MISS"] = 1,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["monster"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 67932.038308,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536794,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-167704-000041CE4B",
+					["aID"] = "167704",
 				}, -- [16]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.031243,
 					["damage_from"] = {
 						["Frostwolf Warrior"] = true,
-						["Toshaman"] = true,
-						["Dandroid"] = true,
 						["Kirin Tor Mage"] = true,
+						["Dandroid"] = true,
+						["Toshaman"] = true,
 					},
 					["targets"] = {
 						["Frostwolf Warrior"] = 4698,
 						["Dandroid"] = 613,
 						["Pawnofcode"] = 0,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-167942-000041CE85",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
-					["aID"] = "167942",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 5311.031242999999,
-					["end_time"] = 1606536905,
-					["dps_started"] = false,
 					["total"] = 5311.031242999999,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1606536905,
+					["damage_taken"] = 43282.03124300001,
+					["tipo"] = 1,
 					["nome"] = "Mawsworn Willbreaker",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19621,17 +19657,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 335680,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 9,
 								["b_dmg"] = 0,
 								["n_amt"] = 9,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[335685] = {
 								["c_amt"] = 0,
@@ -19651,59 +19687,59 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 335685,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 2,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["monster"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 43282.03124300001,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536878,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-167942-000041CE85",
+					["aID"] = "167942",
 				}, -- [17]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 436.040161,
 					["damage_from"] = {
 						["Frostwolf Warrior"] = true,
-						["Toshaman"] = true,
-						["Dandroid"] = true,
 						["Kirin Tor Mage"] = true,
+						["Dandroid"] = true,
+						["Toshaman"] = true,
 					},
 					["targets"] = {
 						["Frostwolf Warrior"] = 809,
 						["Dandroid"] = 436,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-175269-0001C1CDDF",
+					["delay"] = 0,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["fight_component"] = true,
 					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
-					["aID"] = "175269",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1245.040161,
-					["end_time"] = 1606536937,
-					["dps_started"] = false,
 					["total"] = 1245.040161,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1606536937,
+					["damage_taken"] = 37145.040161,
+					["tipo"] = 1,
 					["nome"] = "Tremaculum Warden",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19722,23 +19758,23 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 5,
-								["DODGE"] = 1,
+								["r_amt"] = 0,
 								["total"] = 1245,
 								["c_max"] = 0,
-								["a_amt"] = 0,
+								["extra"] = {
+								},
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["b_dmg"] = 0,
-								["a_dmg"] = 0,
+								["m_amt"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
-								["m_amt"] = 0,
+								["a_dmg"] = 0,
 								["n_amt"] = 3,
-								["extra"] = {
-								},
-								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["DODGE"] = 1,
 							}, -- [1]
 							[294165] = {
 								["c_amt"] = 0,
@@ -19757,30 +19793,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 294165,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 2,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["monster"] = true,
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 37145.040161,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606536920,
-					["delay"] = 0,
-					["fight_component"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-175269-0001C1CDDF",
+					["aID"] = "175269",
 				}, -- [18]
 				{
 					["flag_original"] = 8465,
@@ -19794,23 +19831,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 						["Mawsworn Harbinger"] = 23533,
-						["Mawsworn Seeker"] = 18231,
 						["Mawsworn Guard"] = 81499,
+						["Mawsworn Seeker"] = 18231,
 						["Mawsworn Sorcerer"] = 10244,
 					},
 					["pets"] = {
 					},
+					["end_time"] = 1606537054,
+					["tipo"] = 1,
 					["classe"] = "SHAMAN",
-					["last_event"] = 0,
-					["aID"] = "167827",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 133507.024842,
-					["serial"] = "Creature-0-4230-2364-1845-167827-000041CF07",
+					["delay"] = 0,
 					["dps_started"] = false,
 					["total"] = 133507.024842,
-					["last_dps"] = 0,
 					["on_hold"] = false,
+					["damage_taken"] = 14845.024842,
 					["nome"] = "Thrall",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19834,17 +19871,17 @@ _detalhes_database = {
 								["c_max"] = 2649,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 26,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 							[342872] = {
 								["c_amt"] = 0,
@@ -19854,8 +19891,8 @@ _detalhes_database = {
 								["n_max"] = 2231,
 								["targets"] = {
 									["Mawsworn Harbinger"] = 8701,
-									["Mawsworn Seeker"] = 18231,
 									["Mawsworn Guard"] = 68076,
+									["Mawsworn Seeker"] = 18231,
 									["Mawsworn Sorcerer"] = 8122,
 								},
 								["m_dmg"] = 0,
@@ -19867,17 +19904,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 342872,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 61,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
@@ -19887,38 +19924,37 @@ _detalhes_database = {
 					},
 					["friendlyfire_total"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 14845.024842,
+					["last_event"] = 0,
+					["last_dps"] = 0,
 					["start_time"] = 1606536973,
-					["delay"] = 0,
-					["end_time"] = 1606537054,
+					["serial"] = "Creature-0-4230-2364-1845-167827-000041CF07",
+					["aID"] = "167827",
 				}, -- [19]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.007032,
 					["damage_from"] = {
 						["Frostwolf Warrior"] = true,
-						["Toshaman"] = true,
 						["Kirin Tor Mage"] = true,
+						["Toshaman"] = true,
 					},
 					["targets"] = {
 						["Frostwolf Warrior"] = 191,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-167834-000041CE77",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "167834",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 191.007032,
-					["end_time"] = 1606537188,
-					["dps_started"] = false,
 					["total"] = 191.007032,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606537188,
+					["damage_taken"] = 20003.007032,
+					["tipo"] = 1,
 					["nome"] = "Phael the Afflictor",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -19940,17 +19976,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 							[328362] = {
 								["c_amt"] = 0,
@@ -19969,30 +20005,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 328362,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 20003.007032,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606537184,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-167834-000041CE77",
+					["dps_started"] = false,
 				}, -- [20]
 				{
 					["flag_original"] = -2147483648,
@@ -20000,24 +20037,24 @@ _detalhes_database = {
 					["damage_from"] = {
 					},
 					["targets"] = {
-						["Toshaman"] = 8654,
-						["Toshdruid"] = 7492,
 						["Psymist"] = 0,
+						["Toshdruid"] = 7492,
+						["Toshaman"] = 8654,
 					},
 					["pets"] = {
 					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["classe"] = "UNKNOW",
-					["damage_taken"] = 0.008238,
-					["aID"] = "",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 16146.008238,
-					["serial"] = "",
+					["delay"] = 0,
 					["fight_component"] = true,
 					["end_time"] = 1606537188,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["nome"] = "Environment (Falling)",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -20028,9 +20065,9 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 8654,
 								["targets"] = {
-									["Toshaman"] = 8654,
-									["Toshdruid"] = 7492,
 									["Psymist"] = 0,
+									["Toshdruid"] = 7492,
+									["Toshaman"] = 8654,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 16146,
@@ -20041,30 +20078,30 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 3,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_event"] = 0,
-					["total"] = 16146.008238,
-					["dps_started"] = false,
-					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["dps_started"] = false,
+					["total"] = 16146.008238,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 0.008238,
 					["start_time"] = 1606537183,
-					["delay"] = 0,
-					["on_hold"] = false,
+					["serial"] = "",
+					["aID"] = "",
 				}, -- [21]
 				{
 					["flag_original"] = 2632,
@@ -20075,21 +20112,20 @@ _detalhes_database = {
 					["targets"] = {
 						["Toshaman"] = 1285,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-169759-000041D212",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "169759",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1285.011099,
-					["end_time"] = 1606537771,
-					["dps_started"] = false,
 					["total"] = 1285.011099,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606537771,
+					["damage_taken"] = 16456.011099,
+					["tipo"] = 1,
 					["nome"] = "Withering Presence",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -20111,17 +20147,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 7,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 							[339046] = {
 								["c_amt"] = 0,
@@ -20141,30 +20177,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 339046,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 16456.011099,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606537749,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-169759-000041D212",
+					["dps_started"] = false,
 				}, -- [22]
 				{
 					["flag_original"] = 2632,
@@ -20176,21 +20213,20 @@ _detalhes_database = {
 					["targets"] = {
 						["Thrall"] = 1863,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-168586-000041D326",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "168586",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1863.01342,
-					["end_time"] = 1606538047,
-					["dps_started"] = false,
 					["total"] = 1863.01342,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606538047,
+					["damage_taken"] = 32798.01342,
+					["tipo"] = 1,
 					["nome"] = "Mawsworn Sorcerer",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -20212,17 +20248,17 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 335680,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 3,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 							[335685] = {
 								["c_amt"] = 0,
@@ -20242,30 +20278,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 335685,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							},
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 32798.01342,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606538037,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-168586-000041D326",
+					["dps_started"] = false,
 				}, -- [23]
 				{
 					["flag_original"] = 2632,
@@ -20277,21 +20314,20 @@ _detalhes_database = {
 					["targets"] = {
 						["Thrall"] = 999,
 					},
-					["serial"] = "Creature-0-4230-2364-1845-168584-000041D359",
+					["delay"] = 0,
 					["pets"] = {
 					},
-					["fight_component"] = true,
-					["friendlyfire"] = {
-					},
+					["classe"] = "UNKNOW",
+					["monster"] = true,
 					["aID"] = "168584",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 999.012126,
-					["end_time"] = 1606538089,
-					["dps_started"] = false,
 					["total"] = 999.012126,
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1606538089,
+					["damage_taken"] = 23576.012126,
+					["tipo"] = 1,
 					["nome"] = "Mawsworn Seeker",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -20313,30 +20349,31 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
 								["c_min"] = 0,
+								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
-								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 23576.012126,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1606538079,
-					["delay"] = 0,
-					["monster"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-168584-000041D359",
+					["dps_started"] = false,
 				}, -- [24]
 			},
 		}, -- [1]
@@ -20345,14 +20382,13 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["targets_overheal"] = {
-						["Toshdruid"] = 0,
-						["Toshaman"] = 0,
+					["healing_from"] = {
+						["Toshdruid"] = true,
 					},
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
-					["aID"] = "3676-0B20F78C",
+					["classe"] = "DRUID",
 					["totalover"] = 4708.113695999999,
 					["total_without_pet"] = 22394.113696,
 					["total"] = 22394.113696,
@@ -20365,17 +20401,18 @@ _detalhes_database = {
 					["totalabsorb"] = 0.113696,
 					["last_hps"] = 0,
 					["targets"] = {
-						["Toshdruid"] = 0,
 						["Toshaman"] = 0,
+						["Toshdruid"] = 0,
 					},
 					["totalover_without_pet"] = 0.113696,
 					["healing_taken"] = 12920.113696,
 					["fight_component"] = true,
 					["end_time"] = 1606535823,
-					["healing_from"] = {
-						["Toshdruid"] = true,
+					["targets_overheal"] = {
+						["Toshaman"] = 0,
+						["Toshdruid"] = 0,
 					},
-					["classe"] = "DRUID",
+					["tipo"] = 2,
 					["nome"] = "Toshdruid",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -20399,12 +20436,12 @@ _detalhes_database = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["n_curado"] = 9474,
-								["n_amt"] = 30,
-								["m_healed"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 30,
+								["n_curado"] = 9474,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 							[145109] = {
@@ -20427,35 +20464,37 @@ _detalhes_database = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["n_curado"] = 12920,
-								["n_amt"] = 33,
-								["m_healed"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 33,
+								["n_curado"] = 12920,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 						},
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["heal_enemy_amt"] = 0,
-					["start_time"] = 1606535554,
+					["aID"] = "3676-0B20F78C",
+					["totaldenied"] = 0.113696,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["spec"] = 105,
-					["totaldenied"] = 0.113696,
+					["start_time"] = 1606535554,
 					["delay"] = 0,
-					["tipo"] = 2,
+					["heal_enemy_amt"] = 0,
 				}, -- [1]
 				{
 					["flag_original"] = 1298,
-					["targets_overheal"] = {
+					["healing_from"] = {
+						["Toshdruid"] = true,
+						["Toshaman"] = true,
 					},
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
-					["aID"] = "3676-0AD945D6",
+					["classe"] = "SHAMAN",
 					["totalover"] = 0.062273,
 					["total_without_pet"] = 1729.062273,
 					["total"] = 1729.062273,
@@ -20474,11 +20513,9 @@ _detalhes_database = {
 					["healing_taken"] = 11203.062273,
 					["fight_component"] = true,
 					["end_time"] = 1606535823,
-					["healing_from"] = {
-						["Toshaman"] = true,
-						["Toshdruid"] = true,
+					["targets_overheal"] = {
 					},
-					["classe"] = "SHAMAN",
+					["tipo"] = 2,
 					["nome"] = "Toshaman",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -20501,26 +20538,26 @@ _detalhes_database = {
 								},
 								["c_curado"] = 1152,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["n_curado"] = 577,
-								["n_amt"] = 3,
-								["m_healed"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 3,
+								["n_curado"] = 577,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 						},
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["heal_enemy_amt"] = 0,
-					["start_time"] = 1606535811,
+					["aID"] = "3676-0AD945D6",
+					["totaldenied"] = 0.062273,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["spec"] = 262,
-					["totaldenied"] = 0.062273,
+					["start_time"] = 1606535811,
 					["delay"] = 0,
-					["tipo"] = 2,
+					["heal_enemy_amt"] = 0,
 				}, -- [2]
 			},
 		}, -- [2]
@@ -20529,7 +20566,7 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1298,
-					["resource"] = 4601.378629,
+					["resource"] = 5869.464959999998,
 					["targets"] = {
 						["Toshaman"] = 0,
 					},
@@ -20556,18 +20593,18 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["received"] = 0.205967,
+					["classe"] = "SHAMAN",
 					["total"] = 0.205967,
-					["passiveover"] = 0.003194,
+					["last_event"] = 0,
 					["tipo"] = 3,
 					["resource_type"] = 11,
-					["last_event"] = 0,
+					["passiveover"] = 0.003194,
 					["serial"] = "Player-3676-0AD945D6",
-					["classe"] = "SHAMAN",
+					["received"] = 0.205967,
 				}, -- [1]
 				{
 					["received"] = 0.020242,
-					["resource"] = 0.06154,
+					["resource"] = 0.082189,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -20583,14 +20620,14 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["totalover"] = 0.00825,
+					["spec"] = 105,
 					["aID"] = "3676-0B20F78C",
-					["flag_original"] = 1300,
+					["tipo"] = 3,
 					["last_event"] = 0,
 					["alternatepower"] = 224.020242,
-					["tipo"] = 3,
+					["flag_original"] = 1300,
 					["serial"] = "Player-3676-0B20F78C",
-					["spec"] = 105,
+					["totalover"] = 0.00825,
 				}, -- [2]
 			},
 		}, -- [3]
@@ -20602,66 +20639,66 @@ _detalhes_database = {
 					["debuff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[313148] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 0,
 								["appliedamt"] = 1,
 								["id"] = 313148,
 								["uptime"] = 5,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[51514] = {
-								["actived_at"] = 1606537167,
+								["counter"] = 0,
 								["refreshamt"] = 0,
 								["activedamt"] = 0,
-								["appliedamt"] = 1,
-								["id"] = 51514,
 								["uptime"] = 22,
+								["id"] = 51514,
+								["appliedamt"] = 1,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["actived_at"] = 1606537167,
 							},
 							[313663] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 0,
 								["appliedamt"] = 24,
 								["id"] = 313663,
 								["uptime"] = 127,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[188389] = {
-								["actived_at"] = 9639223594,
+								["counter"] = 0,
 								["refreshamt"] = 1,
 								["activedamt"] = -5,
-								["appliedamt"] = 46,
-								["id"] = 188389,
 								["uptime"] = 323,
+								["id"] = 188389,
+								["appliedamt"] = 46,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["actived_at"] = 9639223594,
 							},
 							[196840] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 0,
 								["appliedamt"] = 3,
 								["id"] = 196840,
 								["uptime"] = 9,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[77505] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 0,
 								["appliedamt"] = 5,
 								["id"] = 77505,
 								["uptime"] = 5,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 						},
 						["tipo"] = 9,
@@ -20670,8 +20707,7 @@ _detalhes_database = {
 						"Capacitor Totem <Toshaman>", -- [1]
 						"Primal Storm Elemental <Toshaman>", -- [2]
 					},
-					["debuff_uptime_targets"] = {
-					},
+					["nome"] = "Toshaman",
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
 							[118905] = {
@@ -20700,16 +20736,7 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[57994] = {
 								["id"] = 57994,
-								["interrompeu_oque"] = {
-									[320610] = 1,
-									[336383] = 1,
-									[318773] = 1,
-									[335680] = 3,
-									[294165] = 6,
-									[345554] = 1,
-									[335685] = 1,
-									[330438] = 1,
-								},
+								["counter"] = 15,
 								["targets"] = {
 									["Tremaculum Warden"] = 1,
 									["Mawsworn Soulrender"] = 2,
@@ -20717,12 +20744,21 @@ _detalhes_database = {
 									["Phael the Afflictor"] = 1,
 									["Mawsworn Harbinger"] = 1,
 									["Mawsworn Guard"] = 4,
-									["Withering Presence"] = 1,
 									["Tormented Amalgamation"] = 1,
+									["Withering Presence"] = 1,
 									["Malice Shadow"] = 1,
 									["Mawsworn Sorcerer"] = 2,
 								},
-								["counter"] = 15,
+								["interrompeu_oque"] = {
+									[320610] = 1,
+									[336383] = 1,
+									[318773] = 1,
+									[335680] = 3,
+									[294165] = 6,
+									[345554] = 1,
+									[330438] = 1,
+									[335685] = 1,
+								},
 							},
 						},
 						["tipo"] = 9,
@@ -20730,104 +20766,104 @@ _detalhes_database = {
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[191634] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 6,
 								["appliedamt"] = 6,
 								["id"] = 191634,
 								["uptime"] = 14,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[298837] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 45,
 								["appliedamt"] = 45,
 								["id"] = 298837,
 								["uptime"] = 706,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[268856] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 4,
 								["appliedamt"] = 4,
 								["id"] = 268856,
 								["uptime"] = 19,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[77762] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 14,
 								["appliedamt"] = 14,
 								["id"] = 77762,
 								["uptime"] = 25,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[2645] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 3,
 								["appliedamt"] = 3,
 								["id"] = 2645,
 								["uptime"] = 24,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[263806] = {
-								["refreshamt"] = 7,
+								["counter"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 263806,
 								["uptime"] = 20,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 7,
 							},
 							[317859] = {
-								["refreshamt"] = 5,
+								["counter"] = 0,
 								["activedamt"] = 13,
 								["appliedamt"] = 13,
 								["id"] = 317859,
 								["uptime"] = 113,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 5,
 							},
 							[269083] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 45,
 								["appliedamt"] = 45,
 								["id"] = 269083,
 								["uptime"] = 706,
 								["targets"] = {
 								},
-								["counter"] = 0,
-							},
-							[260881] = {
-								["refreshamt"] = 3,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 260881,
-								["uptime"] = 22,
-								["targets"] = {
-								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[268854] = {
-								["refreshamt"] = 31,
+								["counter"] = 0,
 								["activedamt"] = 42,
 								["appliedamt"] = 42,
 								["id"] = 268854,
 								["uptime"] = 478,
 								["targets"] = {
 								},
+								["refreshamt"] = 31,
+							},
+							[260881] = {
 								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 260881,
+								["uptime"] = 22,
+								["targets"] = {
+								},
+								["refreshamt"] = 3,
 							},
 						},
 						["tipo"] = 9,
@@ -20839,14 +20875,15 @@ _detalhes_database = {
 						[335680] = 3,
 						[294165] = 6,
 						[345554] = 1,
-						[335685] = 1,
 						[330438] = 1,
+						[335685] = 1,
 					},
 					["fight_component"] = true,
 					["debuff_uptime"] = 491,
-					["aID"] = "3676-0AD945D6",
+					["buff_uptime"] = 2127,
 					["cc_done"] = 9.024231000000002,
-					["nome"] = "Toshaman",
+					["debuff_uptime_targets"] = {
+					},
 					["interrupt_targets"] = {
 						["Tremaculum Warden"] = 1,
 						["Mawsworn Soulrender"] = 2,
@@ -20854,8 +20891,8 @@ _detalhes_database = {
 						["Phael the Afflictor"] = 1,
 						["Mawsworn Harbinger"] = 1,
 						["Mawsworn Guard"] = 4,
-						["Withering Presence"] = 1,
 						["Tormented Amalgamation"] = 1,
+						["Withering Presence"] = 1,
 						["Malice Shadow"] = 1,
 						["Mawsworn Sorcerer"] = 2,
 					},
@@ -20863,19 +20900,24 @@ _detalhes_database = {
 					["spell_cast"] = {
 						[8042] = 20,
 						[192058] = 4,
-						[192249] = 1,
-						[57994] = 15,
+						[313148] = 1,
+						[51505] = 35,
 						[188389] = 24,
 						[188196] = 89,
 						[2645] = 3,
 						[196840] = 3,
-						[51514] = 1,
-						[61882] = 8,
-						[188443] = 17,
+						[57994] = 15,
 						[191634] = 6,
-						[51505] = 35,
-						[313148] = 1,
+						[188443] = 17,
+						[61882] = 8,
+						[51514] = 1,
+						[192249] = 1,
 					},
+					["buff_uptime_targets"] = {
+					},
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["interrupt"] = 15.062743,
 					["cc_done_targets"] = {
 						["Mawsworn Harbinger"] = 3,
 						["Mawsworn Guard"] = 3,
@@ -20883,106 +20925,94 @@ _detalhes_database = {
 						["Ruiner Maroth"] = 1,
 						["Withering Presence"] = 1,
 					},
-					["interrupt"] = 15.062743,
-					["last_event"] = 0,
-					["tipo"] = 4,
-					["buff_uptime_targets"] = {
-					},
 					["serial"] = "Player-3676-0AD945D6",
-					["buff_uptime"] = 2127,
+					["aID"] = "3676-0AD945D6",
 				}, -- [1]
 				{
-					["fight_component"] = true,
 					["flag_original"] = 1047,
-					["buff_uptime_targets"] = {
-					},
+					["fight_component"] = true,
+					["nome"] = "Toshdruid",
 					["spec"] = 105,
 					["grupo"] = true,
-					["nome"] = "Toshdruid",
-					["pets"] = {
+					["buff_uptime_targets"] = {
 					},
 					["buff_uptime"] = 1412,
-					["tipo"] = 4,
-					["last_event"] = 0,
+					["pets"] = {
+					},
+					["aID"] = "3676-0B20F78C",
 					["classe"] = "DRUID",
+					["tipo"] = 4,
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[269083] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 45,
 								["appliedamt"] = 45,
 								["id"] = 269083,
 								["uptime"] = 706,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[227723] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 45,
 								["appliedamt"] = 45,
 								["id"] = 227723,
 								["uptime"] = 706,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 						},
 						["tipo"] = 9,
 					},
 					["serial"] = "Player-3676-0B20F78C",
-					["aID"] = "3676-0B20F78C",
+					["last_event"] = 0,
 				}, -- [2]
 				{
 					["flag_original"] = 2632,
-					["aID"] = "165992",
+					["tipo"] = 4,
 					["nome"] = "Mawsworn Soulrender",
-					["monster"] = true,
+					["pets"] = {
+					},
 					["spell_cast"] = {
 						[335680] = 20,
 						[347404] = 1,
 					},
 					["fight_component"] = true,
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
 					["last_event"] = 0,
+					["aID"] = "165992",
+					["classe"] = "UNKNOW",
 					["serial"] = "Creature-0-4230-2364-1845-165992-000041C8B6",
-					["pets"] = {
-					},
+					["monster"] = true,
 				}, -- [3]
 				{
 					["flag_original"] = 2632,
-					["aID"] = "165860",
+					["tipo"] = 4,
 					["nome"] = "Mawsworn Guard",
-					["monster"] = true,
+					["fight_component"] = true,
 					["pets"] = {
 					},
 					["spell_cast"] = {
 						[294165] = 19,
 					},
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
 					["last_event"] = 0,
+					["aID"] = "165860",
+					["classe"] = "UNKNOW",
 					["serial"] = "Creature-0-4230-2364-1845-165860-000041CA34",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [4]
 				{
 					["flag_original"] = 8466,
 					["classe"] = "PET",
-					["cc_done"] = 8.025047,
-					["nome"] = "Capacitor Totem <Toshaman>",
 					["ownerName"] = "Toshaman",
+					["nome"] = "Capacitor Totem <Toshaman>",
 					["tipo"] = 4,
-					["cc_done_targets"] = {
-						["Mawsworn Harbinger"] = 3,
-						["Mawsworn Guard"] = 2,
-						["Mawsworn Soulrender"] = 1,
-						["Ruiner Maroth"] = 1,
-						["Withering Presence"] = 1,
+					["cc_done"] = 8.025047,
+					["pets"] = {
 					},
-					["spell_cast"] = {
-						[118905] = 4,
-					},
+					["aID"] = "61245",
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
 							[118905] = {
@@ -21000,33 +21030,40 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["last_event"] = 0,
-					["aID"] = "61245",
+					["cc_done_targets"] = {
+						["Mawsworn Harbinger"] = 3,
+						["Mawsworn Guard"] = 2,
+						["Mawsworn Soulrender"] = 1,
+						["Ruiner Maroth"] = 1,
+						["Withering Presence"] = 1,
+					},
 					["serial"] = "Creature-0-4230-2364-1845-61245-000041CAFD",
-					["pets"] = {
+					["spell_cast"] = {
+						[118905] = 4,
 					},
 				}, -- [5]
 				{
 					["monster"] = true,
-					["last_event"] = 0,
+					["aID"] = "166714",
 					["nome"] = "Ruiner Maroth",
+					["flag_original"] = 2632,
 					["pets"] = {
 					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4230-2364-1845-166714-000041CAD3",
 					["spell_cast"] = {
 						[292903] = 1,
 						[292942] = 1,
 					},
-					["fight_component"] = true,
-					["aID"] = "166714",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4230-2364-1845-166714-000041CAD3",
-					["flag_original"] = 2632,
 				}, -- [6]
 				{
 					["flag_original"] = 2632,
-					["aID"] = "165983",
+					["tipo"] = 4,
 					["nome"] = "Mawsworn Harbinger",
-					["monster"] = true,
+					["fight_component"] = true,
 					["pets"] = {
 					},
 					["spell_cast"] = {
@@ -21037,75 +21074,75 @@ _detalhes_database = {
 						[304949] = 11,
 						[325423] = 6,
 					},
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
 					["last_event"] = 0,
+					["aID"] = "165983",
+					["classe"] = "UNKNOW",
 					["serial"] = "Creature-0-4230-2364-1845-165983-000041CB9E",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [7]
 				{
 					["monster"] = true,
-					["last_event"] = 0,
+					["aID"] = "167263",
 					["nome"] = "Tariesh",
+					["flag_original"] = 2632,
 					["pets"] = {
 					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4230-2364-1845-167263-000041CC42",
 					["spell_cast"] = {
 						[316227] = 4,
 					},
-					["fight_component"] = true,
-					["aID"] = "167263",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4230-2364-1845-167263-000041CC42",
-					["flag_original"] = 2632,
 				}, -- [8]
 				{
 					["flag_original"] = 4370,
 					["ownerName"] = "Toshaman",
 					["nome"] = "Primal Storm Elemental <Toshaman>",
-					["tipo"] = 4,
+					["aID"] = "77942",
 					["spell_cast"] = {
 						[157348] = 2,
 						[157331] = 10,
 					},
-					["classe"] = "PET",
-					["last_event"] = 0,
-					["aID"] = "77942",
-					["serial"] = "Creature-0-4230-2364-1845-77942-000041CC58",
 					["pets"] = {
 					},
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4230-2364-1845-77942-000041CC58",
+					["classe"] = "PET",
 				}, -- [9]
 				{
 					["flag_original"] = 2632,
-					["fight_component"] = true,
+					["tipo"] = 4,
 					["nome"] = "Scavenging Mawrat",
-					["monster"] = true,
+					["pets"] = {
+					},
 					["spell_cast"] = {
 						[332656] = 59,
 					},
-					["classe"] = "UNKNOW",
-					["tipo"] = 4,
-					["last_event"] = 0,
+					["monster"] = true,
 					["aID"] = "165978",
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-4230-2364-1845-165978-000041CC61",
-					["pets"] = {
-					},
+					["fight_component"] = true,
 				}, -- [10]
 				{
 					["flag_original"] = 2632,
-					["aID"] = "165909",
+					["tipo"] = 4,
 					["nome"] = "Malice Shadow",
-					["monster"] = true,
+					["fight_component"] = true,
 					["pets"] = {
 					},
 					["spell_cast"] = {
 						[320610] = 5,
 					},
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
 					["last_event"] = 0,
+					["aID"] = "165909",
+					["classe"] = "UNKNOW",
 					["serial"] = "Creature-0-4230-2364-1845-165909-000041CCD2",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [11]
 				{
 					["flag_original"] = 68168,
@@ -21116,13 +21153,13 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[336601] = {
 								["id"] = 336601,
-								["interrompeu_oque"] = {
-									[188196] = 1,
-								},
+								["counter"] = 1,
 								["targets"] = {
 									["Toshaman"] = 1,
 								},
-								["counter"] = 1,
+								["interrompeu_oque"] = {
+									[188196] = 1,
+								},
 							},
 						},
 						["tipo"] = 9,
@@ -21130,7 +21167,7 @@ _detalhes_database = {
 					["interrompeu_oque"] = {
 						[188196] = 1,
 					},
-					["fight_component"] = true,
+					["monster"] = true,
 					["interrupt"] = 1.006828,
 					["interrupt_targets"] = {
 						["Toshaman"] = 1,
@@ -21139,16 +21176,16 @@ _detalhes_database = {
 						[336601] = 2,
 						[336567] = 1,
 					},
-					["aID"] = "165976",
-					["tipo"] = 4,
 					["nome"] = "Tormented Amalgamation",
-					["monster"] = true,
-					["serial"] = "Creature-0-4230-2364-1845-165976-000041CD8E",
+					["tipo"] = 4,
 					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-4230-2364-1845-165976-000041CD8E",
+					["aID"] = "165976",
 				}, -- [12]
 				{
 					["flag_original"] = 8472,
-					["tipo"] = 4,
+					["classe"] = "MAGE",
 					["nome"] = "Kirin Tor Mage",
 					["grupo"] = true,
 					["spell_cast"] = {
@@ -21156,32 +21193,32 @@ _detalhes_database = {
 						[279564] = 53,
 						[279567] = 1,
 					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["aID"] = "167826",
+					["serial"] = "Creature-0-4230-2364-1845-167826-000041CE18",
 					["pets"] = {
 					},
-					["aID"] = "167826",
-					["classe"] = "MAGE",
-					["serial"] = "Creature-0-4230-2364-1845-167826-000041CE18",
-					["last_event"] = 0,
 				}, -- [13]
 				{
 					["monster"] = true,
-					["last_event"] = 0,
+					["aID"] = "167941",
 					["nome"] = "Mawsworn Interceptor",
+					["flag_original"] = 2632,
 					["pets"] = {
 					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4230-2364-1845-167941-000041CCDF",
 					["spell_cast"] = {
 						[329706] = 3,
 					},
-					["fight_component"] = true,
-					["aID"] = "167941",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4230-2364-1845-167941-000041CCDF",
-					["flag_original"] = 2632,
 				}, -- [14]
 				{
 					["flag_original"] = 8466,
-					["last_event"] = 0,
+					["tipo"] = 4,
 					["nome"] = "Frostwolf Warrior",
 					["grupo"] = true,
 					["spell_cast"] = {
@@ -21190,110 +21227,110 @@ _detalhes_database = {
 						[342873] = 3,
 						[342875] = 2,
 					},
-					["classe"] = "SHAMAN",
-					["aID"] = "167827",
-					["tipo"] = 4,
-					["serial"] = "Creature-0-4230-2364-1845-167827-000041CE15",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["aID"] = "167827",
+					["serial"] = "Creature-0-4230-2364-1845-167827-000041CE15",
+					["classe"] = "SHAMAN",
 				}, -- [15]
 				{
 					["flag_original"] = 2632,
-					["aID"] = "167704",
+					["tipo"] = 4,
 					["nome"] = "Tremaculum Sentinel",
-					["monster"] = true,
+					["fight_component"] = true,
 					["pets"] = {
 					},
 					["spell_cast"] = {
 						[329706] = 19,
 					},
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
 					["last_event"] = 0,
+					["aID"] = "167704",
+					["classe"] = "UNKNOW",
 					["serial"] = "Creature-0-4230-2364-1845-167704-000041CE4B",
-					["fight_component"] = true,
+					["monster"] = true,
 				}, -- [16]
 				{
 					["flag_original"] = 2632,
-					["fight_component"] = true,
+					["tipo"] = 4,
 					["nome"] = "Mawsworn Willbreaker",
-					["monster"] = true,
+					["pets"] = {
+					},
 					["spell_cast"] = {
 						[335680] = 9,
 						[335685] = 2,
 					},
-					["classe"] = "UNKNOW",
-					["tipo"] = 4,
-					["last_event"] = 0,
+					["monster"] = true,
 					["aID"] = "167942",
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-4230-2364-1845-167942-000041CE85",
-					["pets"] = {
-					},
+					["fight_component"] = true,
 				}, -- [17]
 				{
 					["flag_original"] = 2632,
-					["fight_component"] = true,
+					["tipo"] = 4,
 					["nome"] = "Tremaculum Warden",
-					["monster"] = true,
+					["pets"] = {
+					},
 					["spell_cast"] = {
 						[294165] = 2,
 					},
-					["classe"] = "UNKNOW",
-					["tipo"] = 4,
-					["last_event"] = 0,
+					["monster"] = true,
 					["aID"] = "175269",
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["serial"] = "Creature-0-4230-2364-1845-175269-000041CF61",
-					["pets"] = {
-					},
+					["fight_component"] = true,
 				}, -- [18]
 				{
 					["monster"] = true,
-					["last_event"] = 0,
+					["aID"] = "167834",
 					["nome"] = "Phael the Afflictor",
+					["flag_original"] = 2632,
 					["pets"] = {
 					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4230-2364-1845-167834-000041CE77",
 					["spell_cast"] = {
 						[328362] = 1,
 					},
-					["fight_component"] = true,
-					["aID"] = "167834",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4230-2364-1845-167834-000041CE77",
-					["flag_original"] = 2632,
 				}, -- [19]
 				{
 					["monster"] = true,
-					["last_event"] = 0,
+					["aID"] = "169759",
 					["nome"] = "Withering Presence",
+					["flag_original"] = 2632,
 					["pets"] = {
 					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4230-2364-1845-169759-000041D212",
 					["spell_cast"] = {
 						[339046] = 1,
 					},
-					["fight_component"] = true,
-					["aID"] = "169759",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4230-2364-1845-169759-000041D212",
-					["flag_original"] = 2632,
 				}, -- [20]
 				{
 					["monster"] = true,
-					["last_event"] = 0,
+					["aID"] = "168586",
 					["nome"] = "Mawsworn Sorcerer",
+					["flag_original"] = 2632,
 					["pets"] = {
 					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4230-2364-1845-168586-000041D33A",
 					["spell_cast"] = {
 						[335680] = 3,
 						[335685] = 1,
 					},
-					["fight_component"] = true,
-					["aID"] = "168586",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4230-2364-1845-168586-000041D33A",
-					["flag_original"] = 2632,
 				}, -- [21]
 			},
 		}, -- [4]
@@ -21308,78 +21345,15 @@ _detalhes_database = {
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
-			["Toshaman"] = {
-				["total"] = 221,
-				["last"] = 0,
-			},
 			["Toshdruid"] = {
-				["total"] = 224,
 				["last"] = 0,
+				["total"] = 224,
+			},
+			["Toshaman"] = {
+				["last"] = 0,
+				["total"] = 221,
 			},
 		},
-		["spells_cast_timeline"] = {
-		},
-		["combat_counter"] = 134,
-		["totals"] = {
-			913906.6712449992, -- [1]
-			24123.155463, -- [2]
-			{
-				0.007381, -- [1]
-				[0] = 0.199531,
-				["alternatepower"] = 0,
-				[3] = -0.008074999999998056,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
-				["interrupt"] = 16.069571,
-				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-			["frags_total"] = 0,
-			["voidzone_damage"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["data_inicio"] = "22:55:59",
-		["end_time"] = 1010295.906,
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["totals_grupo"] = {
-			592608.3977789998, -- [1]
-			24123.165351, -- [2]
-			{
-				0.011992, -- [1]
-				[0] = 0.202773,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
-				["interrupt"] = 15.062743,
-				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["overall_refreshed"] = true,
-		["frags"] = {
-		},
-		["hasSaved"] = true,
 		["segments_added"] = {
 			{
 				["elapsed"] = 29.00600000005215,
@@ -21562,52 +21536,173 @@ _detalhes_database = {
 				["clock"] = "23:04:34",
 			}, -- [30]
 		},
-		["data_fim"] = "23:35:25",
-		["overall_enemy_name"] = "-- x -- x --",
-		["CombatSkillCache"] = {
+		["combat_counter"] = 134,
+		["totals"] = {
+			913906.6712449992, -- [1]
+			24123.155463, -- [2]
+			{
+				0.007381, -- [1]
+				[0] = 0.199531,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = -0.008074999999998056,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 16.069571,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "22:55:59",
+		["end_time"] = 1010295.906,
+		["cleu_timeline"] = {
+		},
+		["totals_grupo"] = {
+			592608.3977789998, -- [1]
+			24123.165351, -- [2]
+			{
+				0.011992, -- [1]
+				[0] = 0.202773,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 15.062743,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage_section"] = {
+			["damage"] = {
 			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage"] = {
+			["damage_section"] = {
 			},
+		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = "23:35:25",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["frags"] = {
 		},
 		["start_time"] = 1009590.678,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["cleu_timeline"] = {
+		["cleu_events"] = {
+			["n"] = 1,
 		},
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = true,
+			["snap"] = {
+				2, -- [1]
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -520.9999389648438,
+					["x"] = 1278.33349609375,
+					["w"] = 309.9999389648438,
+					["h"] = 158,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = true,
+			["snap"] = {
+				[3] = 1,
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -520.9999389648438,
+					["x"] = 968.33349609375,
+					["w"] = 309.9999389648438,
+					["h"] = 158,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
 	},
-	["last_realversion"] = 144,
-	["cd_tracker"] = {
-		["enabled"] = false,
-		["cds_enabled"] = {
-		},
-		["show_conditions"] = {
-			["only_inside_instance"] = true,
-			["only_in_group"] = true,
-		},
-		["pos"] = {
-		},
+	["character_data"] = {
+		["logons"] = 17,
 	},
+	["last_day"] = "04",
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -21620,7 +21715,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-11-0DC47051"] = 258,
-		["Player-3676-0B20F78C"] = 105,
+		["Player-3676-0B20F78C"] = 102,
 	},
 }

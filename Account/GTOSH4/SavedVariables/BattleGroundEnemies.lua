@@ -2,6 +2,7 @@
 BattleGroundEnemiesDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -11,10 +12,10 @@ BattleGroundEnemiesDB = {
 				["RangeIndicator_Frames"] = {
 					["Racial"] = false,
 					["Power"] = false,
-					["Trinket"] = false,
+					["BuffContainer"] = false,
 					["Spec"] = false,
 					["ObjectiveAndRespawn"] = false,
-					["BuffContainer"] = false,
+					["Trinket"] = false,
 				},
 				["15"] = {
 					["Auras_Debuffs_Container_RelativeTo"] = "BuffContainer",
@@ -34,15 +35,16 @@ BattleGroundEnemiesDB = {
 					["RoleIcon_Size"] = 20,
 					["BarVerticalGrowdirection"] = "upwards",
 					["HealthBar_Texture"] = "Smooth v2",
-					["Auras_Buffs_Size"] = 24,
+					["Auras_Buffs_Container_OffsetX"] = -6,
 					["Auras_Buffs_SpellIDFiltering_Filterlist"] = {
-						[31884] = true,
-						[113860] = true,
-						[190319] = true,
 						[113858] = true,
+						[190319] = true,
+						[33206] = true,
+						[113860] = true,
+						[31884] = true,
 					},
 					["Auras_Buffs_Container_RelativePoint"] = "LEFT",
-					["Auras_Buffs_Container_OffsetX"] = -6,
+					["Auras_Buffs_Size"] = 24,
 					["Position_X"] = 1235.200441141118,
 					["DrTracking_Container_RelativePoint"] = "RIGHT",
 					["Racial_Enabled"] = false,

@@ -9,9 +9,9 @@ NameplateSCTDB = {
 			["smallHitsScale"] = 0.5,
 		},
 		["personal"] = false,
-		["modOffTargetStrata"] = true,
 		["animations"] = {
 			["autoattack"] = "disabled",
 		},
+		["modOffTargetStrata"] = true,
 	},
 }

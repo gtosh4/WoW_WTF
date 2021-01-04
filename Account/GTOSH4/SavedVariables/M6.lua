@@ -5,11 +5,71 @@ M6DB = {
 		"disc", -- [1]
 		"priest", -- [2]
 		"venthyr", -- [3]
-		["disc"] = 1,
+		"druid", -- [4]
 		["priest"] = 2,
+		["druid"] = 4,
+		["disc"] = 1,
 		["venthyr"] = 3,
 	},
-	["icManaColor"] = "8080ff",
+	["profiles"] = {
+		["Area 52"] = {
+			["Toshpriest"] = {
+				{
+					["slots"] = {
+						["s05"] = 5,
+						["s07"] = 7,
+						["s08"] = 8,
+						["s01"] = 1,
+						["s03"] = 3,
+						["s04"] = 4,
+						["s0a"] = 10,
+						["s06"] = 6,
+						["s02"] = 2,
+						["s09"] = 9,
+						["s0c"] = 12,
+						["s0e"] = 14,
+						["s0b"] = 11,
+						["s0d"] = 13,
+						["s0f"] = 15,
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+						["s01"] = 10,
+						["s02"] = 16,
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+				{
+					["slots"] = {
+						["s01"] = 17,
+					},
+					["bind"] = {
+					},
+				}, -- [3]
+			},
+			["Toshdruid"] = {
+				{
+					["slots"] = {
+						["s01"] = 19,
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[4] = {
+					["slots"] = {
+						["s01"] = 18,
+						["s02"] = 19,
+					},
+					["bind"] = {
+					},
+				},
+			},
+		},
+	},
 	["actions"] = {
 		{
 			"macrotext", -- [1]
@@ -106,46 +166,23 @@ M6DB = {
 			"#showtooltip Divine Hymn\n/cast Sinful Gladiator's Badge of Ferocity\n/cast Divine Hymn", -- [2]
 			["name"] = "hymn",
 		}, -- [16]
+		{
+			"macrotext", -- [1]
+			"#showtooltip\n/cast [talent:6/1] Damnation; [talent:6/3] Void Torrent; [talent:3/3] Searing Nightmare", -- [2]
+			["name"] = "damnation",
+		}, -- [17]
+		{
+			"macrotext", -- [1]
+			"#showtooltip\n/cast [@target,help] Rejuvenation; [@target,harm] Moonfire", -- [2]
+			["group"] = 4,
+			["name"] = "rejuv",
+		}, -- [18]
+		{
+			"macrotext", -- [1]
+			"#showtooltip\n/cast [@target,help] Regrowth; [@target,harm] Sunfire", -- [2]
+			["group"] = 4,
+			["name"] = "regrowth",
+		}, -- [19]
 	},
-	["profiles"] = {
-		["Area 52"] = {
-			["Toshpriest"] = {
-				{
-					["slots"] = {
-						["s05"] = 5,
-						["s07"] = 7,
-						["s08"] = 8,
-						["s0f"] = 15,
-						["s0d"] = 13,
-						["s0b"] = 11,
-						["s0e"] = 14,
-						["s0c"] = 12,
-						["s02"] = 2,
-						["s09"] = 9,
-						["s06"] = 6,
-						["s0a"] = 10,
-						["s04"] = 4,
-						["s03"] = 3,
-						["s01"] = 1,
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-						["s01"] = 10,
-						["s02"] = 16,
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [3]
-			},
-		},
-	},
+	["icManaColor"] = "8080ff",
 }
