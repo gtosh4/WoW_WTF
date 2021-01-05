@@ -6,17 +6,17 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RotationTokens"] = {
-				["OPCTAt"] = "ABuejUSlLKe",
-			},
 			["Bindings"] = {
 				["RaidSymbols"] = "ALT-E",
 				["TrinketSlots"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
-				["OPieAutoQuest"] = "ALT-G",
-				["OPieTracking"] = false,
 				["WorldMarkers"] = "ALT-Q",
+				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-G",
+			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},
@@ -97,8 +97,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["SpecMenu"] = {
 				{
@@ -122,8 +122,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [4]
 				{
-					["sliceToken"] = "OPCTAc",
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
 				}, -- [5]
 				{
 					"item", -- [1]
@@ -143,8 +143,8 @@ OneRing_Config = {
 					["rotationMode"] = "shuffle",
 				}, -- [8]
 				{
-					["id"] = 556,
 					["sliceToken"] = "OPCTAa",
+					["id"] = 556,
 				}, -- [9]
 				{
 					"item", -- [1]

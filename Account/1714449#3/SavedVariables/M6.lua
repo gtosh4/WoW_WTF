@@ -3,9 +3,6 @@ M6DB = {
 	["icRangeColor"] = "ffffff",
 	["groups"] = {
 	},
-	["icManaColor"] = "8080ff",
-	["actions"] = {
-	},
 	["profiles"] = {
 		["Kil'jaeden"] = {
 			["Toshmonk"] = {
@@ -29,5 +26,24 @@ M6DB = {
 				}, -- [3]
 			},
 		},
+		["Area 52"] = {
+			["Toshaman"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[3] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+		},
 	},
+	["actions"] = {
+	},
+	["icManaColor"] = "8080ff",
 }

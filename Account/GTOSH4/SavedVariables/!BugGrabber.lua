@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 527,
+	["session"] = 533,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[==[ Error in 'Prideful' ]==] return func...\"]:79: attempt to call field 'unpack' (a nil value)",

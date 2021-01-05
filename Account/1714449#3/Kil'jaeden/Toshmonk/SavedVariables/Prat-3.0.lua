@@ -14,13 +14,13 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
+			["ChatFrame1EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 	},
@@ -51,7 +51,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 11,
+			["headIndex"] = 3,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -64,148 +64,50 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[17:32:20]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: we doign rbgs soon?",
+					["message"] = "|cff979797|Hpratcopy|h[19:45:28]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq12|k:51:145:BN_WHISPER:|Kq12|k:Yellowy#1796|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffefefe|Kq12|k|r|h|cffd8d8d8]|r: luna",
+					["serverTime"] = 1609807529,
+					["r"] = 0,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						32, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713140,
-					["timestamp"] = 2273978.315,
+					["timestamp"] = 2356641.658,
 					["g"] = 1,
-					["r"] = 0,
+					["b"] = 0.9647059440612793,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[17:32:41]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: uhm, not sure",
+					["message"] = "|cff979797|Hpratcopy|h[19:45:29]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq12|k:51:146:BN_WHISPER:|Kq12|k:Yellowy#1796|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffefefe|Kq12|k|r|h|cffd8d8d8]|r: so dumb",
+					["serverTime"] = 1609807530,
+					["r"] = 0,
 					["extraData"] = {
-						53, -- [1]
+						52, -- [1]
 						false, -- [2]
-						19, -- [3]
-						21, -- [4]
+						32, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713161,
-					["timestamp"] = 2273978.315,
+					["timestamp"] = 2356642.758,
 					["g"] = 1,
-					["r"] = 0,
+					["b"] = 0.9647059440612793,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[17:32:44]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: if we have 10",
+					["message"] = "|cff979797|Hpratcopy|h[19:45:30]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq12|k:51:147:BN_WHISPER:|Kq12|k:Yellowy#1796|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffefefe|Kq12|k|r|h|cffd8d8d8]|r: can't take it",
+					["serverTime"] = 1609807531,
+					["r"] = 0,
 					["extraData"] = {
-						53, -- [1]
+						52, -- [1]
 						false, -- [2]
-						19, -- [3]
-						21, -- [4]
+						32, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713164,
-					["timestamp"] = 2273978.315,
+					["timestamp"] = 2356644.358,
 					["g"] = 1,
-					["r"] = 0,
+					["b"] = 0.9647059440612793,
 				}, -- [3]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:32:51]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: : 0",
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						19, -- [3]
-						20, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713171,
-					["timestamp"] = 2273978.315,
-					["g"] = 1,
-					["r"] = 0,
-				}, -- [4]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:32:57]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: jamie said she'd come",
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						19, -- [3]
-						20, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713177,
-					["timestamp"] = 2273978.315,
-					["g"] = 1,
-					["r"] = 0,
-				}, -- [5]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:33:29]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: barbados wants to |cfffef367finish|r out his m+ for weekly",
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						19, -- [3]
-						21, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713209,
-					["timestamp"] = 2273978.315,
-					["g"] = 1,
-					["r"] = 0,
-				}, -- [6]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:33:34]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: o",
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						19, -- [3]
-						20, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713214,
-					["timestamp"] = 2273978.315,
-					["g"] = 1,
-					["r"] = 0,
-				}, -- [7]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:33:38]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: aeth said he's got to get a new phone",
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						19, -- [3]
-						21, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713218,
-					["timestamp"] = 2273978.315,
-					["g"] = 1,
-					["r"] = 0,
-				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:33:41]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq30|k:48:0:BN_WHISPER:|Kq30|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq30|k|r|h|cffd8d8d8]|r: but the rest are good",
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						19, -- [3]
-						21, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9647059440612793,
-					["serverTime"] = 1609713221,
-					["timestamp"] = 2273978.315,
-					["g"] = 1,
-					["r"] = 0,
-				}, -- [9]
-				{
-					["message"] = "0 |4day:days;, 3 |4hour:hours;, 14 |4minute:minutes;, 3 |4second:seconds;",
-					["timestamp"] = 2273978.315,
-				}, -- [10]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 2273978.315,
-				}, -- [11]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -216,7 +118,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 77,
+			["headIndex"] = 19,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -229,272 +131,296 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[05:40:26]|h|r You sold your junk for 5|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 70|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 49|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["r"] = 1,
-					["b"] = 0,
-					["g"] = 1,
-					["timestamp"] = 2273978.315,
+					["message"] = "|cff979797|Hpratcopy|h[19:17:32]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805853,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						1, -- [4]
+						6, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1609670427,
+					["timestamp"] = 2354965.634,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[05:40:43]|h|r You receive item: |cff1eff00|Hitem:184387::::::::60:269:::::::|h[Misty Shimmerleaf]|h|rx8.",
+					["message"] = "|cff979797|Hpratcopy|h[19:17:46]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805867,
 					["r"] = 0,
-					["b"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 2273978.315,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						2, -- [3]
-						3, -- [4]
+						6, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1609670444,
+					["timestamp"] = 2354979.634,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[05:40:51]|h|r You receive item: |cffffffff|Hitem:163036::::::::60:269:::::::|h[Polished Pet Charm]|h|rx13.",
+					["message"] = "|cff979797|Hpratcopy|h[19:17:56]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805877,
 					["r"] = 0,
-					["b"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 2273978.315,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						2, -- [3]
-						3, -- [4]
+						6, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["serverTime"] = 1609670452,
+					["timestamp"] = 2354990.538,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[17:23:48]|h|r You receive item: |cff1eff00|Hitem:180807::::::::60:269::::1:28:742:::|h[Venthyr Concordat]|h|r.",
+					["message"] = "|cff979797|Hpratcopy|h[19:18:00]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805881,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						14, -- [3]
-						15, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1609712628,
-					["timestamp"] = 2273978.315,
+					["timestamp"] = 2354993.671,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[17:23:49]|h|r You receive item: |cffffffff|Hitem:171266::::::::60:269:::::::|h[Potion of the Hidden Spirit]|h|rx5.",
+					["message"] = "|cff979797|Hpratcopy|h[19:18:02]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805883,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						14, -- [3]
-						15, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1609712629,
-					["timestamp"] = 2273978.315,
+					["timestamp"] = 2354996.038,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[17:23:49]|h|r You receive item: |cff1eff00|Hitem:172233::::::::60:269:::::::|h[Drums of Deathly Ferocity]|h|rx20.",
+					["message"] = "|cff979797|Hpratcopy|h[19:18:04]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805885,
+					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						14, -- [3]
-						15, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1609712629,
-					["timestamp"] = 2273978.315,
+					["timestamp"] = 2354998.395,
 					["g"] = 0.6666666865348816,
-					["r"] = 0,
+					["b"] = 0,
 				}, -- [6]
 				{
-					["message"] = "0 |4day:days;, 3 |4hour:hours;, 23 |4minute:minutes;, 55 |4second:seconds;",
-					["timestamp"] = 2273978.315,
-				}, -- [7]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 2273978.315,
-				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:48:04]|h|r You receive item: |cffffffff|Hitem:163036::::::::60:269:::::::|h[Polished Pet Charm]|h|rx15.",
-					["serverTime"] = 1609724883,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:06]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805887,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2273997.659,
+					["timestamp"] = 2355000.091,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:18:22]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805903,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355016.474,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:18:26]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805907,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355020.003,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:51:10]|h|r Ve'nari judges you more worthy. [75 reputation gained.]",
-					["serverTime"] = 1609725070,
-					["r"] = 0.501960813999176,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2274183.877,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[20:51:11]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x140.",
-					["serverTime"] = 1609725071,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:35]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805916,
 					["r"] = 0,
 					["extraData"] = {
-						59, -- [1]
+						28, -- [1]
 						false, -- [2]
-						7, -- [3]
+						6, -- [3]
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274184.91,
+					["timestamp"] = 2355029.253,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:18:37]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805918,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355030.92,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:51:59]|h|r Yellowy-Area52 receives loot: |cff1eff00|Hitem:171315::::::::60:269:::::::|h[Nightshade]|h|r.",
-					["serverTime"] = 1609725119,
+					["message"] = "|cff979797|Hpratcopy|h[19:21:39]|h|r You receive item: |cff1eff00|Hitem:183105::::::::60:269::11::1:28:742:::|h[Tormentor's Rod]|h|r.",
+					["serverTime"] = 1609806100,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274232.676,
+					["timestamp"] = 2355213.225,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:52:53]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725173,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[19:27:50]|h|r Ve'nari judges you more worthy. [75 reputation gained.]",
+					["serverTime"] = 1609806471,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						28, -- [1]
+						36, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						10, -- [3]
+						11, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274287.475,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["timestamp"] = 2355583.609,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:52:58]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725178,
+					["message"] = "|cff979797|Hpratcopy|h[19:27:51]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x140.",
+					["serverTime"] = 1609806472,
 					["r"] = 0,
 					["extraData"] = {
-						28, -- [1]
+						59, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						12, -- [3]
+						13, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274292.475,
+					["timestamp"] = 2355584.613,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:53:06]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725186,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[19:27:51]|h|r Ve'nari judges you more worthy. [75 reputation gained.]",
+					["serverTime"] = 1609806472,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						28, -- [1]
+						36, -- [1]
 						false, -- [2]
-						1, -- [3]
-						12, -- [4]
+						10, -- [3]
+						11, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274300.242,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["timestamp"] = 2355584.946,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:53:10]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725190,
+					["message"] = "|cff979797|Hpratcopy|h[19:27:52]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x140.",
+					["serverTime"] = 1609806473,
 					["r"] = 0,
 					["extraData"] = {
-						28, -- [1]
+						59, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						12, -- [3]
+						13, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274304.483,
+					["timestamp"] = 2355585.97,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [16]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:53:19]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725199,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[19:27:52]|h|r Ve'nari judges you more worthy. [75 reputation gained.]",
+					["serverTime"] = 1609806473,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						28, -- [1]
+						36, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						10, -- [3]
+						11, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274312.85,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["timestamp"] = 2355586.037,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [17]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:53:37]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725217,
+					["message"] = "|cff979797|Hpratcopy|h[19:27:53]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x140.",
+					["serverTime"] = 1609806474,
 					["r"] = 0,
 					["extraData"] = {
-						28, -- [1]
+						59, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						12, -- [3]
+						13, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274330.61,
+					["timestamp"] = 2355587.069,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [18]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:54:15]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725255,
+					["message"] = "|cff979797|Hpratcopy|h[19:30:19]|h|r You receive item: |cffffffff|Hitem:180817::::::::60:269::14::1:28:2098:::|h[Cypher of Relocation]|h|r.",
+					["serverTime"] = 1609806620,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						12, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274368.769,
+					["timestamp"] = 2355732.783,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [19]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:54:24]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725264,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:47]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -502,59 +428,59 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274378.102,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725647,
 				}, -- [20]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:55:26]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|rx7.",
-					["serverTime"] = 1609725326,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:47]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274439.865,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725647,
 				}, -- [21]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:55:52]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|rx2.",
-					["serverTime"] = 1609725352,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:49]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274466.532,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725649,
 				}, -- [22]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:55:59]|h|r Ve'nari judges you more worthy. [75 reputation gained.]",
-					["serverTime"] = 1609725359,
-					["r"] = 0.501960813999176,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:51]|h|r You receive loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|rx2.",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
-						36, -- [1]
+						28, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274473.002,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
+					["serverTime"] = 1609725651,
 				}, -- [23]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:56:00]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x140.",
-					["serverTime"] = 1609725360,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:52]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x1.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -562,104 +488,104 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274474.014,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725652,
 				}, -- [24]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:57:06]|h|r Ve'nari judges you more worthy. [40 reputation gained.]",
-					["serverTime"] = 1609725426,
-					["r"] = 0.501960813999176,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:52]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|rx2.",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
-						36, -- [1]
+						28, -- [1]
 						false, -- [2]
-						5, -- [3]
-						6, -- [4]
+						1, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274540.117,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
+					["serverTime"] = 1609725652,
 				}, -- [25]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:57:15]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x45.",
-					["serverTime"] = 1609725435,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:55]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
-						59, -- [1]
+						28, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						1, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274548.749,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725655,
 				}, -- [26]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[20:57:15]|h|r You loot 87 Silver, 9 Copper",
-					["serverTime"] = 1609725435,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:04]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
+					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						15, -- [3]
-						16, -- [4]
+						1, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274548.883,
-					["g"] = 1,
-					["b"] = 0,
+					["serverTime"] = 1609725664,
 				}, -- [27]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:00:47]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725647,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:05]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274760.708,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725665,
 				}, -- [28]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:00:47]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725647,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:06]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274761.356,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725666,
 				}, -- [29]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:00:49]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725649,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:15]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						2, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274763.144,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725675,
 				}, -- [30]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:00:51]|h|r You receive loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|rx2.",
-					["serverTime"] = 1609725651,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:17]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -667,89 +593,89 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274765.54,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725677,
 				}, -- [31]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:00:52]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x1.",
-					["serverTime"] = 1609725652,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:18]|h|r Yellowy-Area52 receives loot: |cff1eff00|Hitem:171315::::::::60:269:::::::|h[Nightshade]|h|rx4.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
-						59, -- [1]
+						28, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						1, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274766.14,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725678,
 				}, -- [32]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:00:52]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|rx2.",
-					["serverTime"] = 1609725652,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:23]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274766.44,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725683,
 				}, -- [33]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:00:55]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725655,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:28]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274768.64,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725688,
 				}, -- [34]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:04]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725664,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:29]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274777.616,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725689,
 				}, -- [35]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:05]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725665,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:32]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274778.591,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725692,
 				}, -- [36]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:06]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725666,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:33]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -757,164 +683,164 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274780.314,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725693,
 				}, -- [37]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:15]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725675,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:36]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274788.693,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725696,
 				}, -- [38]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:17]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725677,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:41]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						2, -- [4]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274790.896,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725701,
 				}, -- [39]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:18]|h|r Yellowy-Area52 receives loot: |cff1eff00|Hitem:171315::::::::60:269:::::::|h[Nightshade]|h|rx4.",
-					["serverTime"] = 1609725678,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:44]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274791.729,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725704,
 				}, -- [40]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:23]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725683,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:46]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274797.229,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725706,
 				}, -- [41]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:28]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725688,
+					["message"] = "|cff979797|Hpratcopy|h[21:01:55]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274801.663,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725715,
 				}, -- [42]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:29]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725689,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:14]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274803.038,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725734,
 				}, -- [43]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:32]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725692,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:20]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						2, -- [4]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274806.063,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725740,
 				}, -- [44]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:33]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725693,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:25]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						2, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274807.551,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725745,
 				}, -- [45]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:36]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725696,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:26]|h|r You receive loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274810.184,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725746,
 				}, -- [46]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:41]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725701,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:27]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x1.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
-						28, -- [1]
+						59, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274815.451,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725747,
 				}, -- [47]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:44]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725704,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:34]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -922,14 +848,14 @@ Prat3HighCPUPerCharDB = {
 						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274817.847,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725754,
 				}, -- [48]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:46]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725706,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:38]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -937,14 +863,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274820.569,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725758,
 				}, -- [49]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:01:55]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725715,
+					["message"] = "|cff979797|Hpratcopy|h[21:02:50]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:176862::::::::60:269:::::::|h[Marred Skin]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -952,14 +878,14 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274829.236,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725770,
 				}, -- [50]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:14]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725734,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:01]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -967,104 +893,104 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274848.036,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725781,
 				}, -- [51]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:20]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725740,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:04]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274854.36,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725784,
 				}, -- [52]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:25]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725745,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:07]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274859.312,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725787,
 				}, -- [53]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:26]|h|r You receive loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725746,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:07]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						2, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274859.903,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725787,
 				}, -- [54]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:27]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x1.",
-					["serverTime"] = 1609725747,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:11]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
-						59, -- [1]
+						28, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						1, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274860.689,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725791,
 				}, -- [55]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:34]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725754,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:14]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274868.516,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725794,
 				}, -- [56]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:38]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725758,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:30]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						2, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274871.949,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725810,
 				}, -- [57]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:50]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:176862::::::::60:269:::::::|h[Marred Skin]|h|r.",
-					["serverTime"] = 1609725770,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:30]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
@@ -1072,194 +998,74 @@ Prat3HighCPUPerCharDB = {
 						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274884.015,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725810,
 				}, -- [58]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:01]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725781,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:34]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						9, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274895.315,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725814,
 				}, -- [59]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:04]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725784,
+					["message"] = "|cff979797|Hpratcopy|h[21:03:37]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274898.353,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725817,
 				}, -- [60]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:07]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725787,
+					["message"] = "|cff979797|Hpratcopy|h[21:05:26]|h|r Toshpriest-Area52 receives loot: |cff1eff00|Hitem:173204::::::::60:269:::::::|h[Lightless Silk]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						2, -- [4]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274900.716,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725926,
 				}, -- [61]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:07]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725787,
+					["message"] = "|cff979797|Hpratcopy|h[21:05:29]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:269:::::::|h[Shrouded Cloth]|h|r.",
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
 						1, -- [3]
-						12, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274901.516,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["serverTime"] = 1609725929,
 				}, -- [62]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:11]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725791,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2274905.416,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:14]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725794,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2274908.382,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:30]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725810,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2274924.416,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:30]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725810,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2274924.549,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:34]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725814,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2274928.082,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:37]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725817,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2274931.367,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:05:26]|h|r Toshpriest-Area52 receives loot: |cff1eff00|Hitem:173204::::::::60:269:::::::|h[Lightless Silk]|h|r.",
-					["serverTime"] = 1609725926,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275040.399,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:05:29]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:269:::::::|h[Shrouded Cloth]|h|r.",
-					["serverTime"] = 1609725929,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275042.807,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [70]
-				{
 					["message"] = "|cff979797|Hpratcopy|h[21:05:29]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x1.",
-					["serverTime"] = 1609725929,
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -1267,14 +1073,14 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275043.502,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [71]
+					["serverTime"] = 1609725929,
+				}, -- [63]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[21:05:30]|h|r You loot 2 Gold, 18 Silver, 72 Copper",
-					["serverTime"] = 1609725930,
 					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
@@ -1282,14 +1088,14 @@ Prat3HighCPUPerCharDB = {
 						16, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275043.817,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [72]
+					["serverTime"] = 1609725930,
+				}, -- [64]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[21:06:05]|h|r Ve'nari judges you more worthy. [100 reputation gained.]",
-					["serverTime"] = 1609725965,
 					["r"] = 0.501960813999176,
+					["b"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1297,14 +1103,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275078.964,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [73]
+					["serverTime"] = 1609725965,
+				}, -- [65]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[21:06:06]|h|r Ve'nari judges you more worthy. [75 reputation gained.]",
-					["serverTime"] = 1609725966,
 					["r"] = 0.501960813999176,
+					["b"] = 1,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
@@ -1312,14 +1118,14 @@ Prat3HighCPUPerCharDB = {
 						6, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275080.351,
-					["g"] = 0.501960813999176,
-					["b"] = 1,
-				}, -- [74]
+					["serverTime"] = 1609725966,
+				}, -- [66]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[21:06:07]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x140.",
-					["serverTime"] = 1609725967,
 					["r"] = 0,
+					["b"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
 					["extraData"] = {
 						59, -- [1]
 						false, -- [2]
@@ -1327,40 +1133,901 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275081.374,
+					["serverTime"] = 1609725967,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[21:08:16]|h|r You sold your junk for 1|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 28|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 70|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 2354459.137,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						15, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1609726096,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[21:08:16]|h|r You repaired your armor for 55|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 8|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 2354459.137,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						15, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1609726096,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:38:31]|h|r You receive item: |cff1eff00|Hitem:181643::::::::60:269:::::::|h[Weeping Corpseshroom]|h|rx6.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
+					["serverTime"] = 1609803512,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:38:36]|h|r You receive item: |cff1eff00|Hitem:181544::::::::60:269:::::::|h[Confessions of Misdeed]|h|rx6.",
+					["b"] = 0,
+					["r"] = 0,
+					["g"] = 0.6666666865348816,
+					["timestamp"] = 2354459.137,
+					["serverTime"] = 1609803517,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:38:44]|h|r Reputation with The Wild Hunt increased by 250.",
+					["b"] = 1,
+					["r"] = 0.501960813999176,
+					["g"] = 0.501960813999176,
+					["timestamp"] = 2354459.137,
+					["serverTime"] = 1609803525,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [72]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 30 |4minute:minutes;, 22 |4second:seconds;",
+					["timestamp"] = 2354459.137,
+				}, -- [73]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 2354459.137,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:18]|h|r You receive item: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805539,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354652.12,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [75]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:08:16]|h|r You sold your junk for 1|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 28|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 70|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["serverTime"] = 1609726096,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:12:24]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805545,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						15, -- [3]
-						15, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275209.646,
-					["g"] = 1,
+					["timestamp"] = 2354658.23,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [76]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:08:16]|h|r You repaired your armor for 55|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 8|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["serverTime"] = 1609726096,
+					["message"] = "|cff979797|Hpratcopy|h[19:12:27]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805548,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354661.28,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:30]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805551,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354663.88,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:37]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805558,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354670.686,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:39]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805560,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354672.62,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:41]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805562,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354674.854,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:46]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805567,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354680.511,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:49]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805570,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354682.851,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:57]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805578,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354691.295,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:08]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805589,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354702.53,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:11]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805592,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354705.217,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:26]|h|r Ve'nari judges you more worthy. [40 reputation gained.]",
+					["serverTime"] = 1609805607,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354719.808,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:27]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:184390::::::::60:269:::::::|h[Foul Ectoplasm]|h|r.",
+					["serverTime"] = 1609805608,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354720.975,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:29]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:269:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1609805610,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354722.818,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:30]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x46.",
+					["serverTime"] = 1609805611,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354723.59,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:30]|h|r You loot 69 Silver, 85 Copper",
+					["serverTime"] = 1609805611,
 					["r"] = 1,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
-						15, -- [3]
+						14, -- [3]
 						15, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275209.646,
+					["timestamp"] = 2354723.856,
 					["g"] = 1,
 					["b"] = 0,
-				}, -- [77]
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:35]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805616,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354728.732,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:36]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805617,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354729.996,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:39]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805620,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354733.319,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:42]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805623,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354735.928,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:43]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805624,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354737.105,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:50]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805631,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354744.276,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:51]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805632,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354745.176,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:51]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805632,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354745.442,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:53]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805634,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354746.813,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:14:01]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805642,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354754.769,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:14:03]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805644,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354756.796,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:14:07]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805648,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354761.253,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:14:09]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805650,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354763.245,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:14:54]|h|r Yellowy-Area52 receives loot: |cff1eff00|Hitem:171315::::::::60:269:::::::|h[Nightshade]|h|r.",
+					["serverTime"] = 1609805695,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354808.216,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:15:33]|h|r Ve'nari judges you more worthy. [40 reputation gained.]",
+					["serverTime"] = 1609805734,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354847.317,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:15:37]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:269:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1609805738,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354850.619,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:15:37]|h|r You receive currency: |cffffffff|Hcurrency:1767:0|h[Stygia]|h|r x47.",
+					["serverTime"] = 1609805738,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354851.393,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:15:38]|h|r You loot 2 Gold, 17 Silver, 20 Copper",
+					["serverTime"] = 1609805739,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354851.626,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:16]|h|r You receive item: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805777,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354890.404,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:33]|h|r Yellowy-Area52 receives loot: |cff1eff00|Hitem:173204::::::::60:269:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1609805794,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354906.93,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:33]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805794,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354907.327,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:35]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805796,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354908.781,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:35]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805796,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354909.381,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:37]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805798,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354911.301,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:39]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805800,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354912.751,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:40]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805801,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354914.418,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:48]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805809,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354922.318,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:57]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805818,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354931.487,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:00]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805821,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354933.679,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:01]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805822,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354935.179,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:11]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805832,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354945.379,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:21]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805842,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354955.367,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:23]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805844,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354957.01,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:24]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805845,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354958.478,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:26]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805847,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354960.568,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:27]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:176853::::::::60:269:::::::|h[Spindly Flesh]|h|r.",
+					["serverTime"] = 1609805848,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354961.501,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:29]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805850,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354963.234,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [128]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -1481,7 +2148,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 59,
+			["headIndex"] = 17,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -1494,1904 +2161,1921 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:56]|h|r |cffd8d8d8[|r|Hplayer:Drholy:202|h|cffd8bc3f60|r:|cfffefefeDrholy|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609728356,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:51:27]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Legitimate-Kil'jaeden:152:GUILD|h|cffd8bc3f60|r:|cff006fdcLegitimate|r|h|cffd8d8d8]|r: I need that",
+					["serverTime"] = 1609807888,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						1, -- [1]
+						5, -- [1]
 						false, -- [2]
 						3, -- [3]
-						4, -- [4]
+						34, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277469.954,
+					["timestamp"] = 2357000.833,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:31]|h|r |cffc31d39Krahs|r has gone offline.",
-					["serverTime"] = 1609728391,
+					["message"] = "|cff979797|Hpratcopy|h[19:51:38]|h|r |cffd8d8d8[|r|Hplayer:Hoofshots:153|h|cffd8bc3f60|r:|cffa9d271Hoofshots|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609807899,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277505.224,
+					["timestamp"] = 2357012.5,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:42]|h|r |cffd8d8d8[|r|Hplayer:Drauren:204|h|cffd8bc3f60|r:|cfffe7b09Drauren|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609728402,
+					["message"] = "|cff979797|Hpratcopy|h[19:51:53]|h|r You are no longer Away.",
+					["serverTime"] = 1609807914,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277516.496,
+					["timestamp"] = 2357027.27,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:48:25]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq25|k:34:205:BN_INLINE_TOAST_ALERT:0|h[|Kq25|k]|h has gone offline.",
-					["serverTime"] = 1609728505,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						22, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2277618.629,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [4]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:49:14]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq25|k:34:206:BN_INLINE_TOAST_ALERT:0|h[|Kq25|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tEvangelos)|h has come online.",
-					["serverTime"] = 1609728554,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						22, -- [3]
-						29, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2277668.394,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [5]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:52:55]|h|r |cffd8d8d8[|r|Hplayer:Buttonpusher-Kil'jaeden:207:ACHIEVEMENT|h|cfffef367Buttonpusher|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11213:Player-9-0DC8B56E:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Lead a Legion]|h|r!",
-					["serverTime"] = 1609728775,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						30, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2277888.744,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [6]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:54:37]|h|r You are no longer Away.",
-					["serverTime"] = 1609728877,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2277991.262,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [7]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:55:57]|h|r |cffd8d8d8[|r|Hplayer:Alaethia-Kil'jaeden:209:GUILD|h|cffd8bc3f60|r:|cff3ec6eaAlaethia|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14799:Player-9-06B64952:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Sojourner of Maldraxxus]|h|r!",
-					["serverTime"] = 1609728957,
+					["message"] = "|cff979797|Hpratcopy|h[19:53:25]|h|r |cffd8d8d8[|r|Hplayer:Warbloodd-Kil'jaeden:155:GUILD|h|cffd8bc3f60|r:|cff8687edWarbloodd|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12733:Player-9-0AC67A85:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Professional Zandalari Master]|h|r!",
+					["serverTime"] = 1609808006,
 					["r"] = 0.250980406999588,
 					["extraData"] = {
 						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278070.907,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:56:20]|h|r |cffd8d8d8[|r|Hplayer:Orcbama:210|h|cffd8bc3f60|r:|cffc59a6cOrcbama|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609728980,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278094.241,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [9]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:56:53]|h|r |cffd8d8d8[|r|Hplayer:Odynsglory-Kil'jaeden:211:GUILD|h|cffd8bc3f60|r:|cfffe7b09Odynsglory|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14478:Player-9-0AAC982F:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[The Soulforges]|h|r!",
-					["serverTime"] = 1609729013,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						19, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278126.857,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:59:01]|h|r |cfffe7b09Odynsglory|r has gone offline.",
-					["serverTime"] = 1609729141,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278254.8,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:00:18]|h|r |cffd8d8d8[|r|Hplayer:Teldar:213|h|cffd8bc3f60|r:|cffa22fc8Teldar|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729218,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278332.441,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:00:21]|h|r You are now Away: AFK",
-					["serverTime"] = 1609729221,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278335.08,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:01:30]|h|r |cffa22fc8Aveon|r has gone offline.",
-					["serverTime"] = 1609729290,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278404.135,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:02:34]|h|r |cffa22fc8Teldar|r has gone offline.",
-					["serverTime"] = 1609729354,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278468.497,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:05:55]|h|r |cffd8d8d8[|r|Hplayer:Tandrynne:217|h|cffd8bc3f60|r:|cfff38bb9Tandrynne|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729555,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278668.817,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:06:39]|h|r |cffd8d8d8[|r|Hplayer:Teldar:218|h|cffd8bc3f60|r:|cffa22fc8Teldar|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729599,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278713.322,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:06:45]|h|r |cfffef367Bloodnofsky|r has gone offline.",
-					["serverTime"] = 1609729605,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278718.796,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:06:47]|h|r |cff8687edTorutithalio|r has gone offline.",
-					["serverTime"] = 1609729607,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278721.105,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:07:05]|h|r |cffd8d8d8[|r|Hplayer:Hetril:221|h|cffd8bc3f60|r:|cfff38bb9Hetril|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729625,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278738.88,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:07:14]|h|r |cffd8d8d8[|r|Hplayer:Cacrinolass:222|h|cffd8bc3f60|r:|cfffefefeCacrinolass|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729634,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278748.147,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:07:28]|h|r |cffd8d8d8[|r|Hplayer:Torutithalio:223|h|cffd8bc3f60|r:|cff8687edTorutithalio|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729648,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278761.88,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:07:52]|h|r |cff3ec6eaAlaethia|r has gone offline.",
-					["serverTime"] = 1609729672,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278785.952,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:08:03]|h|r |cffd8d8d8[|r|Hplayer:Melborn:225|h|cffd8bc3f60|r:|cfffef367Melborn|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729683,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278796.659,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:08:36]|h|r |cffd8d8d8[|r|Hplayer:Aveon:226|h|cffd8bc3f60|r:|cffa22fc8Aveon|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729716,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278830.264,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:09:00]|h|r |cfff38bb9Hetril|r has gone offline.",
-					["serverTime"] = 1609729740,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278853.998,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:09:19]|h|r |cffd8d8d8[|r|Hplayer:Bloodnofsky:228|h|cffd8bc3f60|r:|cfffef367Bloodnofsky|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609729759,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2278872.744,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:12:51]|h|r |cffd8d8d8[|r|Hplayer:Speg-Kil'jaeden:229:ACHIEVEMENT|h|cff00fe97Speg|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14845:Player-9-0DE26AF7:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Adventures: A Step in the Right Direction]|h|r!",
-					["serverTime"] = 1609729971,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						32, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2279085.449,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:12:56]|h|r |cffd8d8d8[|r|Hplayer:Necessary-Kil'jaeden:230:ACHIEVEMENT|h|cff00fe97Necessary|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11213:Player-9-0DDE299C:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Lead a Legion]|h|r!",
-					["serverTime"] = 1609729976,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2279089.749,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:13:02]|h|r |cffd8d8d8[|r|Hplayer:Speg-Kil'jaeden:231:ACHIEVEMENT|h|cff00fe97Speg|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:10706:Player-9-0DE26AF7:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Training the Troops]|h|r!",
-					["serverTime"] = 1609729982,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						32, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2279096.316,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:17:03]|h|r |cffd8d8d8[|r|Hplayer:Durpman-Kil'jaeden:232:GUILD|h|cffd8bc3f60|r:|cffc31d39Durpman|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14500:Player-9-0DD5C13F:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Phantastic]|h|r!",
-					["serverTime"] = 1609730223,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2279337.346,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:17:35]|h|r You are no longer Away.",
-					["serverTime"] = 1609730255,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2279368.921,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:17:47]|h|r |cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:234:SYSTEM|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r|h|cffd8d8d8]|r40 Anima infused into the Reservoir.",
-					["serverTime"] = 1609730267,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
 						false, -- [2]
 						3, -- [3]
 						35, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2279381.265,
+					["timestamp"] = 2357118.968,
 					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:55:32]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè-Kil'jaeden:156:GUILD|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:478:Player-9-0A70CB18:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[The Nexus]|h|r!",
+					["serverTime"] = 1609808133,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357246.316,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:55:32]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè-Kil'jaeden:157:GUILD|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:490:Player-9-0A70CB18:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Nexus]|h|r!",
+					["serverTime"] = 1609808133,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357246.316,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:55:32]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè-Kil'jaeden:158:GUILD|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4476:Player-9-0A70CB18:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Looking For More]|h|r!",
+					["serverTime"] = 1609808133,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357246.316,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:56:35]|h|r |cffa22fc8Operator|r has gone offline.",
+					["serverTime"] = 1609808196,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357309.316,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:57:09]|h|r |cffd8d8d8[|r|Hplayer:Tandrynne:160|h|cffd8bc3f60|r:|cfff38bb9Tandrynne|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609808230,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357343.294,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:57:19]|h|r [S] |cffd8d8d8[|r|Hplayer:Vindrick-Kil'jaeden:161:SAY|h|cff00fe97Vindrick|r|h|cffd8d8d8]|r: hi",
+					["serverTime"] = 1609808240,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357353.002,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:57:46]|h|r [S] |cffd8d8d8[|r|Hplayer:Vindrick-Kil'jaeden:162:SAY|h|cff00fe97Vindrick|r|h|cffd8d8d8]|r: hi",
+					["serverTime"] = 1609808267,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357380.069,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:00:24]|h|r You are now Away: AFK",
+					["serverTime"] = 1609808425,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357538.197,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:01:35]|h|r |cfff38bb9Tandrynne|r has gone offline.",
+					["serverTime"] = 1609808496,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357609.122,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:06:23]|h|r |cff3ec6eaDrmango|r has gone offline.",
+					["serverTime"] = 1609808784,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2357897.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:08:15]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè-Kil'jaeden:166:GUILD|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:1873:Player-9-0A70CB18:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Lodi Dodi We Loves the Skadi]|h|r!",
+					["serverTime"] = 1609808896,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2358009.315,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:08:15]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè-Kil'jaeden:167:GUILD|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:2156:Player-9-0A70CB18:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[My Girl Loves to Skadi All the Time]|h|r!",
+					["serverTime"] = 1609808896,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2358009.315,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:44]|h|r You are no longer Away.",
+					["serverTime"] = 1609809045,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2358157.845,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:46]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805567,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354680.511,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:49]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805570,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354682.851,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:12:57]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805578,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354691.295,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:08]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805589,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354702.53,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:11]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805592,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354705.217,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:27]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:184390::::::::60:269:::::::|h[Foul Ectoplasm]|h|r.",
+					["serverTime"] = 1609805608,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354720.975,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:29]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:269:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1609805610,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354722.818,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:35]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805616,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354728.732,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:36]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805617,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354729.996,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:39]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805620,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354733.319,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:42]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805623,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354735.928,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:43]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805624,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354737.105,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:50]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805631,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354744.276,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:51]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805632,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354745.176,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:51]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805632,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354745.442,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:13:53]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805634,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354746.813,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [33]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:18:11]|h|r |cfffef367Melborn|r has gone offline.",
-					["serverTime"] = 1609730291,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:14:01]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805642,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2279405.056,
-					["g"] = 1,
+					["timestamp"] = 2354754.769,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [34]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:18:31]|h|r |cffd8d8d8[|r|Hplayer:Iskender:236|h|cff8b8b8b45|r:|cfff38bb9Iskender|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609730311,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:14:03]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805644,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2279424.971,
-					["g"] = 1,
+					["timestamp"] = 2354756.796,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [35]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:27:54]|h|r You are now Away: AFK",
-					["serverTime"] = 1609730874,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:14:07]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805648,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2279988.192,
-					["g"] = 1,
+					["timestamp"] = 2354761.253,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [36]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:30:01]|h|r |cfffefefeCacrinolass|r has gone offline.",
-					["serverTime"] = 1609731001,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:14:09]|h|r You receive loot: |cffffffff|Hitem:184552::::::::60:269:::::::|h[Runeforged Shackles]|h|r.",
+					["serverTime"] = 1609805650,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2280115.091,
-					["g"] = 1,
+					["timestamp"] = 2354763.245,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [37]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:32:58]|h|r |cfff38bb9Iskender|r has gone offline.",
-					["serverTime"] = 1609731178,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:14:54]|h|r Yellowy-Area52 receives loot: |cff1eff00|Hitem:171315::::::::60:269:::::::|h[Nightshade]|h|r.",
+					["serverTime"] = 1609805695,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2280291.767,
-					["g"] = 1,
+					["timestamp"] = 2354808.216,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [38]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:33:11]|h|r |cfffefefeIllibad|r has gone offline.",
-					["serverTime"] = 1609731191,
+					["message"] = "|cff979797|Hpratcopy|h[19:14:56]|h|r |cffa22fc8Sèlènè|r has gone offline.",
+					["serverTime"] = 1609805697,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2280305.336,
+					["timestamp"] = 2354810.383,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [39]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:33:13]|h|r |cffd8d8d8[|r|Hplayer:Melborn:245|h|cffd8bc3f60|r:|cfffef367Melborn|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609731193,
+					["message"] = "|cff979797|Hpratcopy|h[19:15:08]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè:45|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609805709,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2280307.281,
+					["timestamp"] = 2354821.65,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [40]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:33:28]|h|r |cffd8d8d8[|r|Hplayer:Illidab:246|h|cffd8bc3f60|r:|cffa22fc8Illidab|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609731208,
+					["message"] = "|cff979797|Hpratcopy|h[19:15:33]|h|r |TInterface\\ICONS\\INV_MawEye_Grey.blp:20|t |cFFFF0000|Hspell:335417|h[Soulseekers]|h|r within the Maw will now attack you on sight.",
+					["serverTime"] = 1609805734,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						17, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						16, -- [3]
+						17, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2280321.65,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 2354847.388,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [41]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:34:55]|h|r |cffd8d8d8[|r|Hplayer:Emosong:247|h|cffd8bc3f60|r:|cfffef367Emosong|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609731295,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:15:37]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:269:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1609805738,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2280408.897,
-					["g"] = 1,
+					["timestamp"] = 2354850.619,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [42]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:35:14]|h|r |cffd8d8d8[|r|Hplayer:Hozru-Kil'jaeden:248:ACHIEVEMENT|h|cfff38bb9Hozru|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11212:Player-9-0B6410E0:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Raise an Army]|h|r!",
-					["serverTime"] = 1609731314,
+					["message"] = "|cff979797|Hpratcopy|h[19:16:16]|h|r Quest accepted: Acquisition: Crystallized Stygia",
+					["serverTime"] = 1609805777,
 					["r"] = 1,
 					["extraData"] = {
-						47, -- [1]
+						1, -- [1]
 						false, -- [2]
-						26, -- [3]
-						36, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2280428.3,
+					["timestamp"] = 2354890.367,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [43]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[22:36:26]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Illidab-Kil'jaeden:249:GUILD|h|cffd8bc3f60|r:|cffa22fc8Illidab|r|h|cffd8d8d8]|r: |cffa335ee|Hkeystone:180653:377:11:9:122:4:121|h[Keystone: De Other Side (11)]|h|r",
-					["serverTime"] = 1609731386,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						17, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280500.569,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:37:58]|h|r |cffa22fc8Illidab|r has gone offline.",
-					["serverTime"] = 1609731478,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280592.052,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:38:11]|h|r |cffd8d8d8[|r|Hplayer:Illibad:251|h|cffd8bc3f60|r:|cfffefefeIllibad|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609731491,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280605.563,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:39:11]|h|r |cffd8d8d8[|r|Hplayer:Tandrynne-Kil'jaeden:252:GUILD|h|cffd8bc3f60|r:|cfff38bb9Tandrynne|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:909:Player-9-0AD4E5BC:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Call to Arms!]|h|r!",
-					["serverTime"] = 1609731551,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						38, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280665.003,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:42:53]|h|r |cffd8d8d8[|r|Hplayer:Daddi-Kil'jaeden:253:ACHIEVEMENT|h|cfff38bb9Daddi|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:10706:Player-9-0DCFB87A:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Training the Troops]|h|r!",
-					["serverTime"] = 1609731773,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						39, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280887.11,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:43:55]|h|r |cffd8d8d8[|r|Hplayer:Sourbox-Kil'jaeden:254:ACHIEVEMENT|h|cfff38bb9Sourbox|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:11213:Player-9-05972611:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Lead a Legion]|h|r!",
-					["serverTime"] = 1609731835,
-					["r"] = 1,
-					["extraData"] = {
-						47, -- [1]
-						false, -- [2]
-						26, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280948.918,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:44:06]|h|r |cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:255:GUILD|h|cffd8bc3f60|r:|cff00fe97Unhealable|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:1005:Player-9-0DDC45D3:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Know Thy Enemy]|h|r!",
-					["serverTime"] = 1609731846,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						41, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280960.351,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:44:08]|h|r |cffc31d39Heomap|r has gone offline.",
-					["serverTime"] = 1609731848,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2280961.951,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:49:14]|h|r |cffd8d8d8[|r|Hplayer:Washroom:257|h|cffd8bc3f60|r:|cff3ec6eaWashroom|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609732154,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281267.904,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:50:25]|h|r |cffd8d8d8[|r|Hplayer:Drtoaster:258|h|cffd8bc3f60|r:|cff006fdcDrtoaster|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609732225,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281338.71,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:50:40]|h|r |cffd8d8d8[|r|Hplayer:Papisalad:259|h|cffd8bc3f60|r:|cffa9d271Papisalad|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609732240,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281354.115,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:51:40]|h|r |cff006fdcDrtoaster|r has gone offline.",
-					["serverTime"] = 1609732300,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281414.22,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:51:42]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq42|k:25:261:BN_INLINE_TOAST_ALERT:0|h[|Kq42|k]|h has gone offline.",
-					["serverTime"] = 1609732302,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						22, -- [3]
-						42, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281415.864,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:52:02]|h|r |cffd8d8d8[|r|Hplayer:Drmango:262|h|cffd8bc3f60|r:|cff3ec6eaDrmango|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609732322,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281435.797,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:52:28]|h|r |cffd8d8d8[|r|Hplayer:Washroom-Kil'jaeden:263:GUILD|h|cffd8bc3f60|r:|cff3ec6eaWashroom|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14845:Player-9-0DE16D31:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Adventures: A Step in the Right Direction]|h|r!",
-					["serverTime"] = 1609732348,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						43, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281461.811,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:52:54]|h|r You have been inactive for some time and will be logged out of the game. If you wish to remain logged in, hit the cancel button.",
-					["serverTime"] = 1609732374,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2281488.211,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:26]|h|r You receive loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725746,
+					["message"] = "|cff979797|Hpratcopy|h[19:16:16]|h|r You receive item: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805777,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274859.903,
+					["timestamp"] = 2354890.404,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:33]|h|r Yellowy-Area52 receives loot: |cff1eff00|Hitem:173204::::::::60:269:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1609805794,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354906.93,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:33]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805794,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354907.327,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:35]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805796,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354908.781,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:35]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805796,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354909.381,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:37]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805798,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354911.301,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:39]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805800,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354912.751,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:40]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805801,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354914.418,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:48]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805809,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354922.318,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:16:57]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805818,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354931.487,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:00]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805821,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354933.679,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:01]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805822,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354935.179,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:11]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805832,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						9, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354945.379,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:21]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805842,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354955.367,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:23]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805844,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354957.01,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:24]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805845,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354958.478,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:17:26]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805847,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2354960.568,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [60]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:34]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725754,
+					["message"] = "|cff979797|Hpratcopy|h[19:17:27]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:176853::::::::60:269:::::::|h[Spindly Flesh]|h|r.",
+					["serverTime"] = 1609805848,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						12, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274868.516,
+					["timestamp"] = 2354961.501,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [61]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:38]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725758,
+					["message"] = "|cff979797|Hpratcopy|h[19:17:29]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805850,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						6, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274871.949,
+					["timestamp"] = 2354963.234,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [62]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:02:50]|h|r Yellowy-Area52 receives loot: |cff9d9d9d|Hitem:176862::::::::60:269:::::::|h[Marred Skin]|h|r.",
-					["serverTime"] = 1609725770,
+					["message"] = "|cff979797|Hpratcopy|h[19:17:32]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805853,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
+						6, -- [3]
 						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274884.015,
+					["timestamp"] = 2354965.634,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [63]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:01]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725781,
+					["message"] = "|cff979797|Hpratcopy|h[19:17:46]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805867,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
+						6, -- [3]
 						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274895.315,
+					["timestamp"] = 2354979.634,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [64]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:04]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725784,
+					["message"] = "|cff979797|Hpratcopy|h[19:17:56]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805877,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						12, -- [4]
+						6, -- [3]
+						9, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274898.353,
+					["timestamp"] = 2354990.538,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [65]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:07]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725787,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:00]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805881,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274900.716,
+					["timestamp"] = 2354993.671,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [66]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:07]|h|r Toshpriest-Area52 receives loot: |cff9d9d9d|Hitem:178133::::::::60:269:::::::|h[Tendrils of Ectoplasm]|h|r.",
-					["serverTime"] = 1609725787,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:02]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805883,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						12, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274901.516,
+					["timestamp"] = 2354996.038,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [67]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:11]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725791,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:04]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805885,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274905.416,
+					["timestamp"] = 2354998.395,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [68]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:14]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725794,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:06]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805887,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274908.382,
+					["timestamp"] = 2355000.091,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [69]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:30]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725810,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:22]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805903,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						12, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274924.416,
+					["timestamp"] = 2355016.474,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [70]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:30]|h|r Yellowy-Area52 receives loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|rx3.",
-					["serverTime"] = 1609725810,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:26]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805907,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						9, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274924.549,
+					["timestamp"] = 2355020.003,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [71]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:34]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725814,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:35]|h|r Toshpriest-Area52 receives loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805916,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						6, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274928.082,
+					["timestamp"] = 2355029.253,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [72]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:03:37]|h|r You receive loot: |cffffffff|Hitem:184579::::::::60:269:::::::|h[Torn Journal Page]|h|r.",
-					["serverTime"] = 1609725817,
+					["message"] = "|cff979797|Hpratcopy|h[19:18:37]|h|r You receive loot: |cffffffff|Hitem:184510::::::::60:269:::::::|h[Crystallized Stygia]|h|r.",
+					["serverTime"] = 1609805918,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2274931.367,
+					["timestamp"] = 2355030.92,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [73]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:05:26]|h|r Toshpriest-Area52 receives loot: |cff1eff00|Hitem:173204::::::::60:269:::::::|h[Lightless Silk]|h|r.",
-					["serverTime"] = 1609725926,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[19:19:54]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq48|k:15:84:BN_INLINE_TOAST_ALERT:0|h[|Kq48|k]|h has gone offline.",
+					["serverTime"] = 1609805995,
+					["r"] = 0.5098039507865906,
 					["extraData"] = {
-						28, -- [1]
+						54, -- [1]
 						false, -- [2]
-						1, -- [3]
-						12, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275040.399,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["timestamp"] = 2355108.054,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
 				}, -- [74]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:05:29]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:269:::::::|h[Shrouded Cloth]|h|r.",
-					["serverTime"] = 1609725929,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[19:19:54]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq48|k:15:85:BN_INLINE_TOAST_ALERT:0|h[|Kq48|k]|h has gone offline.",
+					["serverTime"] = 1609805995,
+					["r"] = 0.5098039507865906,
 					["extraData"] = {
-						28, -- [1]
+						54, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355108.354,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:21:14]|h|r |cffd8d8d8[|r|Hplayer:Lezül-Area52:86:ACHIEVEMENT|h|cfffe7b09Lezül|r-|cff64968eAre|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14895:Player-3676-0D566BB3:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h['Ghast Five]|h|r!",
+					["serverTime"] = 1609806075,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						21, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355188.169,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:21:39]|h|r Quest accepted: Rodent Removal",
+					["serverTime"] = 1609806100,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275042.807,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:06:05]|h|r Venthyr Concordat completed.",
-					["serverTime"] = 1609725965,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275079.036,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:06:05]|h|r Received 25 Gold, 74 Silver.",
-					["serverTime"] = 1609725965,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275079.036,
+					["timestamp"] = 2355213.186,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [77]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:06:06]|h|r What They Know completed.",
-					["serverTime"] = 1609725966,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:21:39]|h|r You receive item: |cff1eff00|Hitem:183105::::::::60:269::11::1:28:742:::|h[Tormentor's Rod]|h|r.",
+					["serverTime"] = 1609806100,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275080.384,
-					["g"] = 1,
+					["timestamp"] = 2355213.225,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
 				}, -- [78]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:06:06]|h|r Received 25 Gold, 74 Silver.",
-					["serverTime"] = 1609725966,
+					["message"] = "|cff979797|Hpratcopy|h[19:21:51]|h|r Sanngror the Torturer says: Another failure!",
+					["serverTime"] = 1609806112,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						13, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						22, -- [3]
+						23, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275080.384,
+					["timestamp"] = 2355225.481,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.6235294342041016,
 				}, -- [79]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:06:37]|h|r Loot Specialization set to: Windwalker",
-					["serverTime"] = 1609725997,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:22:39]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè-Kil'jaeden:90:GUILD|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:2058:Player-9-0A70CB18:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Snakes. Why'd It Have To Be Snakes?]|h|r!",
+					["serverTime"] = 1609806160,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
 					},
-					["timestamp"] = 2275110.195,
+					["timestamp"] = 2355273.195,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [80]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:07:20]|h|r |cffd8d8d8[|r|Hplayer:Lilkdog:115|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609726040,
+					["message"] = "|cff979797|Hpratcopy|h[19:23:35]|h|r |cff00fe97Drkarma|r has gone offline.",
+					["serverTime"] = 1609806216,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275153.719,
+					["timestamp"] = 2355329.533,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [81]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:07:27]|h|r |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:116:GUILD|h|cffd8bc3f60|r:|cffc31d39Brutang|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14285:Player-9-0711449D:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Ready for Raiding VII]|h|r!",
-					["serverTime"] = 1609726047,
+					["message"] = "|cff979797|Hpratcopy|h[19:23:47]|h|r |cffd8d8d8[|r|Hplayer:Drmango:92|h|cffd8bc3f60|r:|cff3ec6eaDrmango|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609806228,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355340.867,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:05]|h|r |cffd8d8d8[|r|Hplayer:Operator-Kil'jaeden:93:GUILD|h|cffd8bc3f60|r:|cffa22fc8Operator|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14797:Player-9-0AACFF7F:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Epic]|h|r!",
+					["serverTime"] = 1609806246,
 					["r"] = 0.250980406999588,
 					["extraData"] = {
 						65, -- [1]
 						false, -- [2]
-						17, -- [3]
-						20, -- [4]
+						3, -- [3]
+						25, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275160.871,
+					["timestamp"] = 2355358.867,
 					["g"] = 1,
 					["b"] = 0.250980406999588,
-				}, -- [82]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:08:16]|h|r Repaired for 55 Silver, 8 Copper.",
-					["r"] = 1,
-					["serverTime"] = 1609726096,
-					["timestamp"] = 2275209.646,
-					["g"] = 0.85,
-					["b"] = 0,
 				}, -- [83]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:08:16]|h|r Sold junk for 1 Gold, 28 Silver, 70 Copper.",
-					["r"] = 1,
-					["serverTime"] = 1609726096,
-					["timestamp"] = 2275210.495,
-					["g"] = 0.85,
-					["b"] = 0,
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:08:41]|h|r You leave the group.",
-					["serverTime"] = 1609726121,
+					["message"] = "|cff979797|Hpratcopy|h[19:24:06]|h|r |cffc31d39Heomap|r has gone offline.",
+					["serverTime"] = 1609806247,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355360.434,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:06]|h|r |cff8687edTorutithalio|r has gone offline.",
+					["serverTime"] = 1609806247,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355360.434,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:19]|h|r |TInterface\\ICONS\\Spell_AnimaMaw_Missile.BLP:20|t Towers will periodically |cFFFF0000|Hspell:314932|h [Bombard]|h|r your location.",
+					["serverTime"] = 1609806260,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						16, -- [3]
+						17, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355373.339,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:33]|h|r |cffd8d8d8[|r|Hplayer:Torutithalio:98|h|cffd8bc3f60|r:|cff8687edTorutithalio|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609806274,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355386.94,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:34]|h|r |cffd8d8d8[|r|Hplayer:Heomap:99|h|cffd8bc3f60|r:|cffc31d39Heomap|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609806275,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355387.94,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:35]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq41|k:52:100:BN_INLINE_TOAST_ALERT:0|h[|Kq41|k]|h has gone offline.",
+					["serverTime"] = 1609806276,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						18, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355389.277,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:46]|h|r |cffc31d39Heomap|r has gone offline.",
+					["serverTime"] = 1609806287,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355400.421,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:24:46]|h|r |cff8687edTorutithalio|r has gone offline.",
+					["serverTime"] = 1609806287,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355400.421,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:25:24]|h|r |cffd8d8d8[|r|Hplayer:Heomap:103|h|cffd8bc3f60|r:|cffc31d39Heomap|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609806325,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355438.33,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:25:28]|h|r |cffd8d8d8[|r|Hplayer:Torutithalio:104|h|cffd8bc3f60|r:|cff8687edTorutithalio|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609806329,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355441.934,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:25:50]|h|r |cffa5a5a5Yellowy|r-Area52 leaves the party.",
+					["serverTime"] = 1609806351,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355464.175,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:19]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq13|k:45:106:BN_INLINE_TOAST_ALERT:0|h[|Kq13|k]|h has gone offline.",
+					["serverTime"] = 1609806440,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						18, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355552.671,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:19]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq13|k:45:107:BN_INLINE_TOAST_ALERT:0|h[|Kq13|k]|h has gone offline.",
+					["serverTime"] = 1609806440,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						18, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355552.904,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:45]|h|r |cffd8d8d8[|r|Hplayer:Bowsandstuff-Kil'jaeden:109:GUILD|h|cffd8bc3f60|r:|cffa9d271Bowsandstuff|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:974:Player-9-07CF0F6E:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[50 Daily Quests Completed]|h|r!",
+					["serverTime"] = 1609806466,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
 						false, -- [2]
 						3, -- [3]
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2275235.02,
+					["timestamp"] = 2355579.371,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:50]|h|r Acquisition: Runeforged Shackles completed.",
+					["serverTime"] = 1609806471,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355583.679,
 					["g"] = 1,
 					["b"] = 0,
-				}, -- [85]
+				}, -- [98]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:08:56]|h|r Loot Specialization set to: Windwalker",
-					["serverTime"] = 1609726136,
+					["message"] = "|cff979797|Hpratcopy|h[19:27:50]|h|r Received 25 Gold, 74 Silver.",
+					["serverTime"] = 1609806471,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355583.679,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:51]|h|r Acquisition: Crystallized Stygia completed.",
+					["serverTime"] = 1609806472,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355585.102,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:51]|h|r Received 25 Gold, 74 Silver.",
+					["serverTime"] = 1609806472,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355585.102,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:52]|h|r Rodent Removal completed.",
+					["serverTime"] = 1609806473,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355586.103,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:27:52]|h|r Received 25 Gold, 74 Silver.",
+					["serverTime"] = 1609806473,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355586.103,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:28:46]|h|r |cffd8d8d8[|r|Hplayer:Thearia-Area52:122:ACHIEVEMENT|h|cffa9d271Thearia|r-|cff64968eAre|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14746:Player-3676-084E8159:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Prepare for Trouble!]|h|r!",
+					["serverTime"] = 1609806527,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355640.523,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:29:51]|h|r |cffc31d39Heomap|r has gone offline.",
+					["serverTime"] = 1609806592,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355705.164,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:30:15]|h|r |cffd8d8d8[|r|Hplayer:Heomap:124|h|cffd8bc3f60|r:|cffc31d39Heomap|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609806616,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355728.748,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:30:19]|h|r You receive item: |cffffffff|Hitem:180817::::::::60:269::14::1:28:2098:::|h[Cypher of Relocation]|h|r.",
+					["serverTime"] = 1609806620,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355732.783,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:31:13]|h|r |cffd8d8d8[|r|Hplayer:Shímmer-Area52:126:ACHIEVEMENT|h|cffa22fc8Shímmer|r-|cff64968eAre|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14656:Player-3676-097EAC75:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Trading Partners]|h|r!",
+					["serverTime"] = 1609806674,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						20, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355786.993,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:32:22]|h|r |cffd8d8d8[|r|Hplayer:Sèlènè-Kil'jaeden:127:GUILD|h|cffd8bc3f60|r:|cffa22fc8Sèlènè|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:484:Player-9-0A70CB18:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Gundrak]|h|r!",
+					["serverTime"] = 1609806743,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355855.726,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:32:57]|h|r |cffd8d8d8[|r|Hplayer:Illibad-Kil'jaeden:128:GUILD|h|cffd8bc3f60|r:|cfffefefeIllibad|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12346:Player-9-0B383929:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[Staying Buffed All Winter]|h|r!",
+					["serverTime"] = 1609806778,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355891.326,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:33:45]|h|r |cffd8d8d8[|r|Hplayer:Drholy-Kil'jaeden:129:GUILD|h|cffd8bc3f60|r:|cfffefefeDrholy|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12344:Player-9-0DD8C227:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[I Have the Coolest Friends]|h|r!",
+					["serverTime"] = 1609806826,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355939.231,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:33:45]|h|r |cffd8d8d8[|r|Hplayer:Drholy-Kil'jaeden:130:GUILD|h|cffd8bc3f60|r:|cfffefefeDrholy|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12347:Player-9-0DD8C227:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[I Could Say That This Cache Was Rare]|h|r!",
+					["serverTime"] = 1609806826,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355939.231,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:34:43]|h|r |cffd8d8d8[|r|Hplayer:Illibad-Kil'jaeden:135:GUILD|h|cffd8bc3f60|r:|cfffefefeIllibad|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12344:Player-9-0B383929:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[I Have the Coolest Friends]|h|r!",
+					["serverTime"] = 1609806884,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						3, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2355996.748,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[19:35:19]|h|r Loot Specialization set to: Windwalker",
+					["serverTime"] = 1609806920,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
-					["timestamp"] = 2275249.367,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:09:15]|h|r |cffd8d8d8[|r|Hplayer:Kasvin:119|h|cffd8bc3f60|r:|cff006fdcKasvin|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609726155,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275268.887,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:09:38]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:120:GUILD|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r|h|cffd8d8d8]|r: me",
-					["serverTime"] = 1609726178,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						17, -- [3]
-						21, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275292.07,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:10:30]|h|r |cfffe7b09Senpaibacon|r has gone offline.",
-					["serverTime"] = 1609726230,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275344.208,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:11:30]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq38|k:30:122:BN_INLINE_TOAST_ALERT:0|h[|Kq38|k]|h has gone offline.",
-					["serverTime"] = 1609726290,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						22, -- [3]
-						23, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275403.922,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:11:57]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq38|k:30:123:BN_INLINE_TOAST_ALERT:0|h[|Kq38|k] (|TInterface\\ChatFrame\\UI-ChatIcon-WOW:14:14:0:0|tPopsicles)|h has come online.",
-					["serverTime"] = 1609726317,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						22, -- [3]
-						23, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275431.023,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:15:04]|h|r |cff3ec6eaAbcdp|r has gone offline.",
-					["serverTime"] = 1609726504,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275618.335,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:17:17]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:125:GUILD|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r|h|cffd8d8d8]|r: |Hgarrmission:weakauras|h|cFF8800FF[Orcbum-Kil'jaeden |r|cFF8800FF- Great Vault on Weekly Reward frame]|h|r",
-					["serverTime"] = 1609726637,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						17, -- [3]
-						24, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275750.772,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:17:27]|h|r |cffd8d8d8[|r|Hplayer:Aveon:126|h|cffd8bc3f60|r:|cffa22fc8Aveon|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609726647,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275761.306,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:17:46]|h|r |cffd8d8d8[|r|Hplayer:Unhealable:127|h|cffd8bc3f60|r:|cff00fe97Unhealable|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609726666,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275780.246,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:18:09]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq38|k:30:128:BN_INLINE_TOAST_ALERT:0|h[|Kq38|k]|h has gone offline.",
-					["serverTime"] = 1609726689,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						22, -- [3]
-						23, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275803.387,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:18:30]|h|r |cffd8d8d8[|r|Hplayer:Skarsnik:129|h|cffd8bc3f60|r:|cff006fdcSkarsnik|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609726710,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275824.154,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:18:37]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq38|k:30:130:BN_INLINE_TOAST_ALERT:0|h[|Kq38|k] (|TInterface\\ChatFrame\\UI-ChatIcon-WOW:14:14:0:0|tGummybuns)|h has come online.",
-					["serverTime"] = 1609726717,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						22, -- [3]
-						23, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275831.126,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:19:21]|h|r You are now Away: AFK",
-					["serverTime"] = 1609726761,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275874.983,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:21:12]|h|r You are no longer Away.",
-					["serverTime"] = 1609726872,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2275986.525,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:22:23]|h|r |cffd8d8d8[|r|Hplayer:Alaethia:133|h|cffd8bc3f60|r:|cff3ec6eaAlaethia|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609726943,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276056.777,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:24:40]|h|r |cff3ec6eaAlaethia|r has gone offline.",
-					["serverTime"] = 1609727080,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276194.311,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:24:52]|h|r |cffd8d8d8[|r|Hplayer:Alaethia:135|h|cffd8bc3f60|r:|cff3ec6eaAlaethia|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609727092,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276206.543,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:25:02]|h|r |cff3ec6eaAlaethia|r has gone offline.",
-					["serverTime"] = 1609727102,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276216.247,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:25:08]|h|r |cffd8d8d8[|r|Hplayer:Heomap:137|h|cffd8bc3f60|r:|cffc31d39Heomap|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609727108,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276222.415,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:25:25]|h|r |cffd8d8d8[|r|Hplayer:Alaethia:138|h|cffd8bc3f60|r:|cff3ec6eaAlaethia|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609727125,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276239.02,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:26:00]|h|r |cffd8d8d8[|r|Hplayer:Kasvin-Kil'jaeden:139:GUILD|h|cffd8bc3f60|r:|cff006fdcKasvin|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:1873:Player-9-0B62E797:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Lodi Dodi We Loves the Skadi]|h|r!",
-					["serverTime"] = 1609727160,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276274.291,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [107]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:26:00]|h|r |cffd8d8d8[|r|Hplayer:Kasvin-Kil'jaeden:140:GUILD|h|cffd8bc3f60|r:|cff006fdcKasvin|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:2156:Player-9-0B62E797:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[My Girl Loves to Skadi All the Time]|h|r!",
-					["serverTime"] = 1609727160,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276274.291,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [108]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:30:00]|h|r |cffd8d8d8[|r|Hplayer:Boomie:141|h|cffd8bc3f60|r:|cfffe7b09Boomie|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609727400,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276514.299,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [109]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:30:09]|h|r You are now Away: AFK",
-					["serverTime"] = 1609727409,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276523.368,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [110]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:30:49]|h|r |cffd8d8d8[|r|Hplayer:Kasvin-Kil'jaeden:143:GUILD|h|cffd8bc3f60|r:|cff006fdcKasvin|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:488:Player-9-0B62E797:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Utgarde Pinnacle]|h|r!",
-					["serverTime"] = 1609727449,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276563.485,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [111]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:30:49]|h|r |cffd8d8d8[|r|Hplayer:Kasvin-Kil'jaeden:144:GUILD|h|cffd8bc3f60|r:|cff006fdcKasvin|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:499:Player-9-0B62E797:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Utgarde Pinnacle]|h|r!",
-					["serverTime"] = 1609727449,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276563.485,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [112]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:30:49]|h|r |cffd8d8d8[|r|Hplayer:Kasvin-Kil'jaeden:145:GUILD|h|cffd8bc3f60|r:|cff006fdcKasvin|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:2157:Player-9-0B62E797:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[King's Bane]|h|r!",
-					["serverTime"] = 1609727449,
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						65, -- [1]
-						false, -- [2]
-						17, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276563.485,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [113]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:32:33]|h|r |cffd8d8d8[|r|Hplayer:Maserder:148|h|cffd8bc3f60|r:|cff3ec6eaMaserder|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609727553,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 2276666.752,
+					["timestamp"] = 2356032.836,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [114]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:33:54]|h|r You are no longer Away.",
-					["serverTime"] = 1609727634,
+					["message"] = "|cff979797|Hpratcopy|h[19:36:27]|h|r You are now the group leader.",
+					["serverTime"] = 1609806988,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276748.28,
+					["timestamp"] = 2356100.591,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [115]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:35:28]|h|r |cffd8d8d8[|r|Hplayer:Lolmonk-Kil'jaeden:150:ACHIEVEMENT|h|cff00fe97Lolmonk|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14845:Player-9-098824DE:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Adventures: A Step in the Right Direction]|h|r!",
-					["serverTime"] = 1609727728,
+					["message"] = "|cff979797|Hpratcopy|h[19:36:27]|h|r Your group has been disbanded.",
+					["serverTime"] = 1609806988,
 					["r"] = 1,
 					["extraData"] = {
-						47, -- [1]
+						1, -- [1]
 						false, -- [2]
-						26, -- [3]
-						27, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276842.21,
+					["timestamp"] = 2356100.591,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [116]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:35:46]|h|r |cff3ec6eaMaserder|r has gone offline.",
-					["serverTime"] = 1609727746,
+					["message"] = "|cff979797|Hpratcopy|h[19:38:06]|h|r |cffd8d8d8[|r|Hplayer:Unhealable:140|h|cffd8bc3f60|r:|cff00fe97Unhealable|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609807087,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276860.477,
+					["timestamp"] = 2356200.057,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [117]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:35:48]|h|r |cffd8d8d8[|r|Hplayer:Lolmonk-Kil'jaeden:152:ACHIEVEMENT|h|cff00fe97Lolmonk|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:10706:Player-9-098824DE:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Training the Troops]|h|r!",
-					["serverTime"] = 1609727748,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:40:58]|h|r |cffd8d8d8[|r|Hplayer:Illibad-Kil'jaeden:141:GUILD|h|cffd8bc3f60|r:|cfffefefeIllibad|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12302:Player-9-0B383929:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[The Antechamber of Ulduar]|h|r!",
+					["serverTime"] = 1609807259,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						47, -- [1]
+						65, -- [1]
 						false, -- [2]
-						26, -- [3]
-						27, -- [4]
+						3, -- [3]
+						30, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276861.725,
+					["timestamp"] = 2356372.523,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [118]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:36:58]|h|r |cffd8d8d8[|r|Hplayer:Aznbabygirl:153|h|cffd8bc3f60|r:|cff00fe97Aznbabygirl|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609727818,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:41:02]|h|r |cffd8d8d8[|r|Hplayer:Drholy-Kil'jaeden:142:GUILD|h|cffd8bc3f60|r:|cfffefefeDrholy|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12302:Player-9-0DD8C227:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[The Antechamber of Ulduar]|h|r!",
+					["serverTime"] = 1609807263,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						1, -- [1]
+						65, -- [1]
 						false, -- [2]
 						3, -- [3]
-						4, -- [4]
+						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276932.5,
+					["timestamp"] = 2356375.723,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [119]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:37:10]|h|r |cff00fe97Aznbabygirl|r has gone offline.",
-					["serverTime"] = 1609727830,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:41:09]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Illibad-Kil'jaeden:143:GUILD|h|cffd8bc3f60|r:|cfffefefeIllibad|r|h|cffd8d8d8]|r: |cffa335ee|Hitem:156288::::::::60:256::22:2:1637:6646:1:28:1020:::|h[Elemental Focus Stone]|h|r",
+					["serverTime"] = 1609807270,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						1, -- [1]
+						5, -- [1]
 						false, -- [2]
 						3, -- [3]
-						4, -- [4]
+						31, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276944.572,
+					["timestamp"] = 2356383.456,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [120]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:37:24]|h|r |cffd8d8d8[|r|Hplayer:Electabuzzed:155|h|cffd8bc3f60|r:|cff006fdcElectabuzzed|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609727844,
+					["message"] = "|cff979797|Hpratcopy|h[19:42:26]|h|r You are now Away: AFK",
+					["serverTime"] = 1609807347,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276957.808,
+					["timestamp"] = 2356459.691,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [121]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:37:30]|h|r |cffd8d8d8[|r|Hplayer:Corimastus-Kil'jaeden:156:ACHIEVEMENT|h|cffd8bc3f60|r:|cff8687edCorimastus|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:10706:Player-9-0DD68450:1:1:3:21:4294967295:4294967295:4294967295:4294967295|h[Training the Troops]|h|r!",
-					["serverTime"] = 1609727850,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:45:28]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq12|k:51:145:BN_WHISPER:|Kq12|k:Yellowy#1796|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffefefe|Kq12|k|r|h|cffd8d8d8]|r: luna",
+					["serverTime"] = 1609807529,
+					["r"] = 0,
 					["extraData"] = {
-						47, -- [1]
+						52, -- [1]
 						false, -- [2]
-						26, -- [3]
-						28, -- [4]
+						32, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2276963.747,
+					["timestamp"] = 2356641.658,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.9647059440612793,
 				}, -- [122]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:38:25]|h|r |cffa22fc8Blazenut|r has gone offline.",
-					["serverTime"] = 1609727905,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:45:29]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq12|k:51:146:BN_WHISPER:|Kq12|k:Yellowy#1796|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffefefe|Kq12|k|r|h|cffd8d8d8]|r: so dumb",
+					["serverTime"] = 1609807530,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						52, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						32, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277018.986,
+					["timestamp"] = 2356642.758,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.9647059440612793,
 				}, -- [123]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:39:32]|h|r You are now Away: AFK",
-					["serverTime"] = 1609727972,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:45:30]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq12|k:51:147:BN_WHISPER:|Kq12|k:Yellowy#1796|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffefefe|Kq12|k|r|h|cffd8d8d8]|r: can't take it",
+					["serverTime"] = 1609807531,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						52, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						32, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277085.84,
+					["timestamp"] = 2356644.358,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.9647059440612793,
 				}, -- [124]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:40:07]|h|r |cffc31d39Brutang|r has gone offline.",
-					["serverTime"] = 1609728007,
+					["message"] = "|cff979797|Hpratcopy|h[19:45:33]|h|r |cffd8d8d8[|r|Hplayer:Warbloodd:148|h|cffd8bc3f60|r:|cff8687edWarbloodd|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609807534,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277121.404,
+					["timestamp"] = 2356647.224,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [125]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:40:53]|h|r |cffd8d8d8[|r|Hplayer:Secxtanx:160|h|cffd8bc3f60|r:|cfffefefeSecxtanx|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1609728053,
+					["message"] = "|cff979797|Hpratcopy|h[19:46:26]|h|r |cfff38bb9Lollyink|r has gone offline.",
+					["serverTime"] = 1609807587,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277167.082,
+					["timestamp"] = 2356700.436,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [126]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:42]|h|r |cffa22fc8Illifaded|r has gone offline.",
-					["serverTime"] = 1609728342,
+					["message"] = "|cff979797|Hpratcopy|h[19:48:49]|h|r |cffd8d8d8[|r|Hplayer:Lollyink:150|h|cffd8bc3f60|r:|cfff38bb9Lollyink|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1609807730,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277456.209,
+					["timestamp"] = 2356843.445,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [127]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:47]|h|r |cfffefefeDucttape|r has gone offline.",
-					["serverTime"] = 1609728347,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[19:50:30]|h|r |cffd8d8d8[|r|Hplayer:Drholy-Kil'jaeden:151:GUILD|h|cffd8bc3f60|r:|cfffefefeDrholy|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:12349:Player-9-0DD8C227:1:1:4:21:4294967295:4294967295:4294967295:4294967295|h[I'll Take You All On]|h|r!",
+					["serverTime"] = 1609807831,
+					["r"] = 0.250980406999588,
 					["extraData"] = {
-						1, -- [1]
+						65, -- [1]
 						false, -- [2]
 						3, -- [3]
-						4, -- [4]
+						5, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 2277461.351,
+					["timestamp"] = 2356944.428,
 					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.250980406999588,
 				}, -- [128]
 			},
 			["maxElements"] = 128,

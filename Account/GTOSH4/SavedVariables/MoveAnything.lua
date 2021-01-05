@@ -105,25 +105,21 @@ MADB = {
 						107.4998779296875, -- [5]
 					},
 				},
-				["ChallengesKeystoneFrame"] = {
-					["UIPanelWindows"] = {
-						["pushable"] = 0,
-						["area"] = "center",
-					},
+				["ChatFrameChannelButton"] = {
 					["orgPos"] = {
-						"CENTER", -- [1]
-						"UIParent", -- [2]
-						"CENTER", -- [3]
+						"TOP", -- [1]
+						"ChatFrame1ButtonFrame", -- [2]
+						"TOP", -- [3]
 						0, -- [4]
-						40.00000381469727, -- [5]
+						0, -- [5]
 					},
-					["name"] = "ChallengesKeystoneFrame",
+					["name"] = "ChatFrameChannelButton",
 					["pos"] = {
 						"BOTTOMLEFT", -- [1]
-						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						2123.49951171875, -- [4]
-						461.0001220703125, -- [5]
+						"ChatFrame1", -- [2]
+						"TOPRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
 					},
 				},
 				["VehicleSeatIndicator"] = {
@@ -143,21 +139,25 @@ MADB = {
 						-899.1663818359375, -- [5]
 					},
 				},
-				["ChatFrameChannelButton"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"ChatFrame1ButtonFrame", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						0, -- [5]
+				["ChallengesKeystoneFrame"] = {
+					["UIPanelWindows"] = {
+						["pushable"] = 0,
+						["area"] = "center",
 					},
-					["name"] = "ChatFrameChannelButton",
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"UIParent", -- [2]
+						"CENTER", -- [3]
+						0, -- [4]
+						40.00000381469727, -- [5]
+					},
+					["name"] = "ChallengesKeystoneFrame",
 					["pos"] = {
 						"BOTTOMLEFT", -- [1]
-						"ChatFrame1", -- [2]
-						"TOPRIGHT", -- [3]
-						0, -- [4]
-						0, -- [5]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						2123.49951171875, -- [4]
+						461.0001220703125, -- [5]
 					},
 				},
 			},

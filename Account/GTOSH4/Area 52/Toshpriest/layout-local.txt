@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -3
-Y: 8
-W: 235
-H: 700
 Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
 Anchor: RIGHT
@@ -27,6 +20,13 @@ X: -57
 Y: -2
 W: 30
 H: 30
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -3
+Y: 8
+W: 235
+H: 700
 Frame: UIWidgetBelowMinimapContainerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -165,5 +165,5 @@ FrameLevel: 1
 Anchor: TOP
 X: -565
 Y: -114
-W: 201
-H: 185
+W: 293
+H: 128

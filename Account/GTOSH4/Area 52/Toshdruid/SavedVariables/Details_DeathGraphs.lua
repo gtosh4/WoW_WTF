@@ -5,6 +5,72 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Vexiona",
 		["id"] = 2370,
+		["player_db"] = {
+			["Hakkem"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Hakkem",
+				["overall"] = {
+				},
+			},
+			["Scibolt"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Scibolt",
+				["overall"] = {
+				},
+			},
+			["Sachomatic-Tichondrius"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Sachomatic-Tichondrius",
+				["overall"] = {
+				},
+			},
+			["Datavi"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Datavi",
+				["overall"] = {
+				},
+			},
+			["Slimonade-Tichondrius"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Slimonade-Tichondrius",
+				["overall"] = {
+				},
+			},
+			["Bluearruwu"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Bluearruwu",
+				["overall"] = {
+				},
+			},
+			["Woesong"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Woesong",
+				["overall"] = {
+				},
+			},
+			["Toshdruid"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Toshdruid",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 9,
@@ -17,72 +83,6 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["encounter"] = "Vexiona",
 		},
-		["player_db"] = {
-			["Scibolt"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Scibolt",
-			},
-			["Hakkem"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Hakkem",
-			},
-			["Sachomatic-Tichondrius"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Sachomatic-Tichondrius",
-			},
-			["Toshdruid"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Toshdruid",
-			},
-			["Slimonade-Tichondrius"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Slimonade-Tichondrius",
-			},
-			["Bluearruwu"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Bluearruwu",
-			},
-			["Woesong"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Woesong",
-			},
-			["Datavi"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Datavi",
-			},
-		},
 		["diff"] = 15,
 	},
 	["234316"] = {
@@ -90,24 +90,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Lady Jaina Proudmoore",
 		["id"] = 2343,
-		["player_db"] = {
-			["Lotsohdots-Kil'jaeden"] = {
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-				["name"] = "Lotsohdots-Kil'jaeden",
-				["overall"] = {
-				},
-			},
-			["Toshdruid"] = {
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-				["name"] = "Toshdruid",
-				["overall"] = {
-				},
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "Mythic",
 			["index"] = 9,
@@ -121,6 +103,24 @@ DeathGraphsDBDeaths = {
 			["id"] = 2281,
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Lotsohdots-Kil'jaeden"] = {
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Lotsohdots-Kil'jaeden",
+			},
+			["Toshdruid"] = {
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+				["overall"] = {
+				},
+				["name"] = "Toshdruid",
+			},
+		},
 		["diff"] = 16,
 	},
 	["237515"] = {
@@ -128,6 +128,64 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
+		["player_db"] = {
+			["Pier"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Pier",
+				["overall"] = {
+				},
+			},
+			["Durantye"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Durantye",
+				["overall"] = {
+				},
+			},
+			["Toshdruid"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Toshdruid",
+				["overall"] = {
+				},
+			},
+			["Agg"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Agg",
+				["overall"] = {
+				},
+			},
+			["Hakkem"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Hakkem",
+				["overall"] = {
+				},
+			},
+			["Woesong"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Woesong",
+				["overall"] = {
+				},
+			},
+			["Brutang-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Brutang-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 12,
@@ -141,64 +199,6 @@ DeathGraphsDBDeaths = {
 			["id"] = 2344,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Pier"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Pier",
-			},
-			["Durantye"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Durantye",
-			},
-			["Toshdruid"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Toshdruid",
-			},
-			["Agg"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Agg",
-			},
-			["Hakkem"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Hakkem",
-			},
-			["Woesong"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Woesong",
-			},
-			["Brutang-Kil'jaeden"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Brutang-Kil'jaeden",
-			},
-		},
 		["diff"] = 15,
 	},
 	["237715"] = {
@@ -206,6 +206,64 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Dark Inquisitor Xanesh",
 		["id"] = 2377,
+		["player_db"] = {
+			["Hakkem"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Hakkem",
+				["overall"] = {
+				},
+			},
+			["Sachomatic-Tichondrius"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Sachomatic-Tichondrius",
+				["overall"] = {
+				},
+			},
+			["Toshdruid"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Toshdruid",
+				["overall"] = {
+				},
+			},
+			["Toshpriest"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Toshpriest",
+				["overall"] = {
+				},
+			},
+			["Woesong"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Woesong",
+				["overall"] = {
+				},
+			},
+			["Yuffio-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Yuffio-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Pier"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Pier",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 4,
@@ -218,64 +276,6 @@ DeathGraphsDBDeaths = {
 			["ej_instance_id"] = 1180,
 			["encounter"] = "Dark Inquisitor Xanesh",
 		},
-		["player_db"] = {
-			["Woesong"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Woesong",
-			},
-			["Sachomatic-Tichondrius"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Sachomatic-Tichondrius",
-			},
-			["Toshdruid"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Toshdruid",
-			},
-			["Toshpriest"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Toshpriest",
-			},
-			["Yuffio-Kil'jaeden"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Yuffio-Kil'jaeden",
-			},
-			["Hakkem"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Hakkem",
-			},
-			["Pier"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Pier",
-			},
-		},
 		["diff"] = 15,
 	},
 	["236815"] = {
@@ -283,6 +283,40 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Wrathion",
 		["id"] = 2368,
+		["player_db"] = {
+			["Zéphýr-Illidan"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Zéphýr-Illidan",
+				["overall"] = {
+				},
+			},
+			["Hakkem"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Hakkem",
+				["overall"] = {
+				},
+			},
+			["Woesong"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Woesong",
+				["overall"] = {
+				},
+			},
+			["Toshdruid"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Toshdruid",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 1,
@@ -296,101 +330,33 @@ DeathGraphsDBDeaths = {
 			["id"] = 2329,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Zéphýr-Illidan"] = {
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Zéphýr-Illidan",
-			},
-			["Hakkem"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Hakkem",
-			},
-			["Woesong"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Woesong",
-			},
-			["Toshdruid"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Toshdruid",
-			},
-		},
 		["diff"] = 15,
 	},
-	["236915"] = {
-		["hash"] = "236915",
+	["237215"] = {
+		["hash"] = "237215",
 		["type"] = "deaths",
-		["name"] = "Prophet Skitra",
-		["id"] = 2369,
+		["name"] = "The Hivemind",
+		["id"] = 2372,
+		["player_db"] = {
+			["Hakkem"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Hakkem",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
-			["index"] = 3,
+			["index"] = 5,
 			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Prophet Skitra",
+			["id"] = 2333,
 			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Prophet Skitra",
+			["name"] = "The Hivemind",
 			["diff"] = 15,
+			["encounter"] = "The Hivemind",
 			["ej_instance_id"] = 1180,
-			["id"] = 2334,
-			["killed"] = true,
-		},
-		["player_db"] = {
-			["Daedalis-Kil'jaeden"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Daedalis-Kil'jaeden",
-			},
-			["Pier"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Pier",
-			},
-			["Krueltyok-Zul'jin"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Krueltyok-Zul'jin",
-			},
-			["Hakkem"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Hakkem",
-			},
-			["Zéphýr-Illidan"] = {
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Zéphýr-Illidan",
-			},
 		},
 		["diff"] = 15,
 	},
@@ -399,6 +365,48 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
+		["player_db"] = {
+			["Dëvotion-Barthilas"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Dëvotion-Barthilas",
+				["overall"] = {
+				},
+			},
+			["Toshdruid"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Toshdruid",
+				["overall"] = {
+				},
+			},
+			["Krueltyok-Zul'jin"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Krueltyok-Zul'jin",
+				["overall"] = {
+				},
+			},
+			["Woesong"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Woesong",
+				["overall"] = {
+				},
+			},
+			["Pier"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Pier",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 11,
@@ -412,76 +420,6 @@ DeathGraphsDBDeaths = {
 			["id"] = 2337,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Dëvotion-Barthilas"] = {
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Dëvotion-Barthilas",
-			},
-			["Toshdruid"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Toshdruid",
-			},
-			["Krueltyok-Zul'jin"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Krueltyok-Zul'jin",
-			},
-			["Woesong"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Woesong",
-			},
-			["Pier"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Pier",
-			},
-		},
-		["diff"] = 15,
-	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "deaths",
-		["name"] = "The Hivemind",
-		["id"] = 2372,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 5,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
-			["mapid"] = 2217,
-			["name"] = "The Hivemind",
-			["diff"] = 15,
-			["encounter"] = "The Hivemind",
-			["ej_instance_id"] = 1180,
-		},
-		["player_db"] = {
-			["Hakkem"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Hakkem",
-			},
-		},
 		["diff"] = 15,
 	},
 	["236415"] = {
@@ -489,6 +427,48 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
+		["player_db"] = {
+			["Royalty"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Royalty",
+				["overall"] = {
+				},
+			},
+			["Daedalis-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Daedalis-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Toshdruid"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Toshdruid",
+				["overall"] = {
+				},
+			},
+			["Hakkem"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Hakkem",
+				["overall"] = {
+				},
+			},
+			["Minipewpew-Illidan"] = {
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+				["name"] = "Minipewpew-Illidan",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 10,
@@ -502,47 +482,67 @@ DeathGraphsDBDeaths = {
 			["id"] = 2331,
 			["killed"] = true,
 		},
+		["diff"] = 15,
+	},
+	["236915"] = {
+		["hash"] = "236915",
+		["type"] = "deaths",
+		["name"] = "Prophet Skitra",
+		["id"] = 2369,
 		["player_db"] = {
-			["Royalty"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Royalty",
-			},
 			["Daedalis-Kil'jaeden"] = {
+				["deaths"] = {
+				},
 				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
 				["name"] = "Daedalis-Kil'jaeden",
-			},
-			["Toshdruid"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
 				["overall"] = {
 				},
-				["name"] = "Toshdruid",
+			},
+			["Pier"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Pier",
+				["overall"] = {
+				},
+			},
+			["Krueltyok-Zul'jin"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Krueltyok-Zul'jin",
+				["overall"] = {
+				},
 			},
 			["Hakkem"] = {
+				["deaths"] = {
+				},
 				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
 				["name"] = "Hakkem",
-			},
-			["Minipewpew-Illidan"] = {
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
 				["overall"] = {
 				},
-				["name"] = "Minipewpew-Illidan",
 			},
+			["Zéphýr-Illidan"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEMONHUNTER",
+				["name"] = "Zéphýr-Illidan",
+				["overall"] = {
+				},
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 3,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Prophet Skitra",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Prophet Skitra",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2334,
+			["killed"] = true,
 		},
 		["diff"] = 15,
 	},
@@ -551,6 +551,72 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Maut",
 		["id"] = 2365,
+		["player_db"] = {
+			["Royalty"] = {
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Royalty",
+				["overall"] = {
+				},
+			},
+			["Sageside-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Sageside-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+			["Pier"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Pier",
+				["overall"] = {
+				},
+			},
+			["Toshdruid"] = {
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Toshdruid",
+				["overall"] = {
+				},
+			},
+			["Scibolt"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Scibolt",
+				["overall"] = {
+				},
+			},
+			["Krueltyok-Zul'jin"] = {
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Krueltyok-Zul'jin",
+				["overall"] = {
+				},
+			},
+			["Woesong"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+				["name"] = "Woesong",
+				["overall"] = {
+				},
+			},
+			["Brutang-Kil'jaeden"] = {
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+				["name"] = "Brutang-Kil'jaeden",
+				["overall"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
 			["index"] = 2,
@@ -564,72 +630,6 @@ DeathGraphsDBDeaths = {
 			["id"] = 2327,
 			["killed"] = true,
 		},
-		["player_db"] = {
-			["Royalty"] = {
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Royalty",
-			},
-			["Sageside-Kil'jaeden"] = {
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Sageside-Kil'jaeden",
-			},
-			["Pier"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Pier",
-			},
-			["Toshdruid"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Toshdruid",
-			},
-			["Scibolt"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Scibolt",
-			},
-			["Krueltyok-Zul'jin"] = {
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Krueltyok-Zul'jin",
-			},
-			["Woesong"] = {
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Woesong",
-			},
-			["Brutang-Kil'jaeden"] = {
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-				["overall"] = {
-				},
-				["name"] = "Brutang-Kil'jaeden",
-			},
-		},
 		["diff"] = 15,
 	},
 }
@@ -639,18 +639,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Vexiona",
 		["id"] = 2370,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 9,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2336,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Vexiona",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["encounter"] = "Vexiona",
-		},
 		["player_db"] = {
 			["Sageside-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -815,6 +803,18 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 9,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2336,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Vexiona",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Vexiona",
+		},
 		["diff"] = 15,
 	},
 	["234316"] = {
@@ -822,6 +822,19 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Lady Jaina Proudmoore",
 		["id"] = 2343,
+		["boss_table"] = {
+			["diff_string"] = "Mythic",
+			["index"] = 9,
+			["zone"] = "Battle of Dazar'alor",
+			["encounter"] = "Lady Jaina Proudmoore",
+			["mapid"] = 2070,
+			["try_number"] = 1,
+			["name"] = "Lady Jaina Proudmoore",
+			["diff"] = 16,
+			["ej_instance_id"] = 1176,
+			["id"] = 2281,
+			["killed"] = true,
+		},
 		["player_db"] = {
 			["Lotsohdots-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -974,19 +987,6 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["boss_table"] = {
-			["diff_string"] = "Mythic",
-			["index"] = 9,
-			["zone"] = "Battle of Dazar'alor",
-			["encounter"] = "Lady Jaina Proudmoore",
-			["mapid"] = 2070,
-			["try_number"] = 1,
-			["name"] = "Lady Jaina Proudmoore",
-			["diff"] = 16,
-			["ej_instance_id"] = 1176,
-			["id"] = 2281,
-			["killed"] = true,
-		},
 		["diff"] = 16,
 	},
 	["237515"] = {
@@ -994,19 +994,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "N'Zoth the Corruptor",
 		["id"] = 2375,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 12,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "N'Zoth the Corruptor",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "N'Zoth the Corruptor",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2344,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Dëvotion-Barthilas"] = {
 				["encounters"] = 1,
@@ -1171,6 +1158,19 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 12,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "N'Zoth the Corruptor",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "N'Zoth the Corruptor",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2344,
+			["killed"] = true,
+		},
 		["diff"] = 15,
 	},
 	["237715"] = {
@@ -1178,18 +1178,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Dark Inquisitor Xanesh",
 		["id"] = 2377,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 4,
-			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2328,
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Dark Inquisitor Xanesh",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["encounter"] = "Dark Inquisitor Xanesh",
-		},
 		["player_db"] = {
 			["Sageside-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -1306,13 +1294,6 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Muffaasa"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
 			["Toshpriest"] = {
 				["encounters"] = 1,
 				["points"] = 90,
@@ -1323,6 +1304,13 @@ DeathGraphsDBEndurance = {
 						193.9950000001118, -- [2]
 						"Torment |cFFFF3333272,463|r", -- [3]
 					}, -- [1]
+				},
+			},
+			["Muffaasa"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
 				},
 			},
 			["Yuffio-Kil'jaeden"] = {
@@ -1347,6 +1335,18 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 4,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2328,
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Dark Inquisitor Xanesh",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["encounter"] = "Dark Inquisitor Xanesh",
+		},
 		["diff"] = 15,
 	},
 	["236815"] = {
@@ -1354,19 +1354,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Wrathion",
 		["id"] = 2368,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 1,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Wrathion",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Wrathion",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2329,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Sageside-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -1510,26 +1497,26 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["diff"] = 15,
-	},
-	["236915"] = {
-		["hash"] = "236915",
-		["type"] = "endurance",
-		["name"] = "Prophet Skitra",
-		["id"] = 2369,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
-			["index"] = 3,
+			["index"] = 1,
 			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Prophet Skitra",
+			["encounter"] = "Wrathion",
 			["mapid"] = 2217,
 			["try_number"] = 1,
-			["name"] = "Prophet Skitra",
+			["name"] = "Wrathion",
 			["diff"] = 15,
 			["ej_instance_id"] = 1180,
-			["id"] = 2334,
+			["id"] = 2329,
 			["killed"] = true,
 		},
+		["diff"] = 15,
+	},
+	["237215"] = {
+		["hash"] = "237215",
+		["type"] = "endurance",
+		["name"] = "The Hivemind",
+		["id"] = 2372,
 		["player_db"] = {
 			["Sageside-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -1587,18 +1574,6 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Zéphýr-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-					{
-						1, -- [1]
-						87.57099999999627, -- [2]
-						"Eye of Corruption |cFFFF333372,962|r", -- [3]
-					}, -- [1]
-				},
-			},
 			["Toshdruid"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -1606,16 +1581,18 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
+			["Bluearruwu"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
 			["Krueltyok-Zul'jin"] = {
 				["encounters"] = 1,
-				["points"] = 90,
+				["points"] = 100,
 				["class"] = "ROGUE",
 				["deaths"] = {
-					{
-						1, -- [1]
-						92.30400000000373, -- [2]
-						"Psychic Outburst |cFFFF3333544,471|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Emosong-Kil'jaeden"] = {
@@ -1625,10 +1602,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Daedalis-Kil'jaeden"] = {
+			["Scibolt"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "HUNTER",
+				["class"] = "WARLOCK",
 				["deaths"] = {
 				},
 			},
@@ -1639,10 +1616,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Scibolt"] = {
+			["Daedalis-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "WARLOCK",
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
 			},
@@ -1681,8 +1658,8 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 					{
 						1, -- [1]
-						92.30400000000373, -- [2]
-						"Psychic Outburst |cFFFF3333290,906|r", -- [3]
+						130.464999999851, -- [2]
+						"Volatile Eruption |cFFFF3333339,481|r", -- [3]
 					}, -- [1]
 				},
 			},
@@ -1694,6 +1671,17 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 5,
+			["zone"] = "Ny'alotha, the Waking City",
+			["id"] = 2333,
+			["mapid"] = 2217,
+			["name"] = "The Hivemind",
+			["diff"] = 15,
+			["encounter"] = "The Hivemind",
+			["ej_instance_id"] = 1180,
+		},
 		["diff"] = 15,
 	},
 	["236615"] = {
@@ -1701,19 +1689,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Carapace of N'Zoth",
 		["id"] = 2366,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 11,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Carapace of N'Zoth",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Carapace of N'Zoth",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2337,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Dëvotion-Barthilas"] = {
 				["encounters"] = 1,
@@ -1885,177 +1860,18 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
-		["diff"] = 15,
-	},
-	["237215"] = {
-		["hash"] = "237215",
-		["type"] = "endurance",
-		["name"] = "The Hivemind",
-		["id"] = 2372,
 		["boss_table"] = {
 			["diff_string"] = "Heroic",
-			["index"] = 5,
+			["index"] = 11,
 			["zone"] = "Ny'alotha, the Waking City",
-			["id"] = 2333,
+			["encounter"] = "Carapace of N'Zoth",
 			["mapid"] = 2217,
-			["name"] = "The Hivemind",
+			["try_number"] = 1,
+			["name"] = "Carapace of N'Zoth",
 			["diff"] = 15,
-			["encounter"] = "The Hivemind",
 			["ej_instance_id"] = 1180,
-		},
-		["player_db"] = {
-			["Sageside-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Slimonade-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Agg"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "MAGE",
-				["deaths"] = {
-				},
-			},
-			["Pier"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Royalty"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PALADIN",
-				["deaths"] = {
-				},
-			},
-			["Race"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Evandh-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-				},
-			},
-			["Woesong"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Toshdruid"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Bluearruwu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Krueltyok-Zul'jin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Emosong-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "ROGUE",
-				["deaths"] = {
-				},
-			},
-			["Scibolt"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Minipewpew-Illidan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Daedalis-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Sachomatic-Tichondrius"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Muffaasa"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
-			["Toshpriest"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Yuffio-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "PRIEST",
-				["deaths"] = {
-				},
-			},
-			["Hakkem"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "DRUID",
-				["deaths"] = {
-					{
-						1, -- [1]
-						130.464999999851, -- [2]
-						"Volatile Eruption |cFFFF3333339,481|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Brutang-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DEATHKNIGHT",
-				["deaths"] = {
-				},
-			},
+			["id"] = 2337,
+			["killed"] = true,
 		},
 		["diff"] = 15,
 	},
@@ -2064,19 +1880,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Ra-den the Despoiled",
 		["id"] = 2364,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 10,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Ra-den the Despoiled",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Ra-den the Despoiled",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2331,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Sageside-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -2241,6 +2044,203 @@ DeathGraphsDBEndurance = {
 				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 10,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Ra-den the Despoiled",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Ra-den the Despoiled",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2331,
+			["killed"] = true,
+		},
+		["diff"] = 15,
+	},
+	["236915"] = {
+		["hash"] = "236915",
+		["type"] = "endurance",
+		["name"] = "Prophet Skitra",
+		["id"] = 2369,
+		["player_db"] = {
+			["Sageside-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Slimonade-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Agg"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Pier"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Royalty"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Race"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Evandh-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+				},
+			},
+			["Woesong"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Zéphýr-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						1, -- [1]
+						87.57099999999627, -- [2]
+						"Eye of Corruption |cFFFF333372,962|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Toshdruid"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Krueltyok-Zul'jin"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						92.30400000000373, -- [2]
+						"Psychic Outburst |cFFFF3333544,471|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Emosong-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Daedalis-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Minipewpew-Illidan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Scibolt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Sachomatic-Tichondrius"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Toshpriest"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Muffaasa"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Yuffio-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Hakkem"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						92.30400000000373, -- [2]
+						"Psychic Outburst |cFFFF3333290,906|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Brutang-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 3,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Prophet Skitra",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Prophet Skitra",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2334,
+			["killed"] = true,
+		},
 		["diff"] = 15,
 	},
 	["236515"] = {
@@ -2248,19 +2248,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Maut",
 		["id"] = 2365,
-		["boss_table"] = {
-			["diff_string"] = "Heroic",
-			["index"] = 2,
-			["zone"] = "Ny'alotha, the Waking City",
-			["encounter"] = "Maut",
-			["mapid"] = 2217,
-			["try_number"] = 1,
-			["name"] = "Maut",
-			["diff"] = 15,
-			["ej_instance_id"] = 1180,
-			["id"] = 2327,
-			["killed"] = true,
-		},
 		["player_db"] = {
 			["Sageside-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -2377,17 +2364,17 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Muffaasa"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
-			},
 			["Toshpriest"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Muffaasa"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
 			},
@@ -2417,6 +2404,19 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
+		},
+		["boss_table"] = {
+			["diff_string"] = "Heroic",
+			["index"] = 2,
+			["zone"] = "Ny'alotha, the Waking City",
+			["encounter"] = "Maut",
+			["mapid"] = 2217,
+			["try_number"] = 1,
+			["name"] = "Maut",
+			["diff"] = 15,
+			["ej_instance_id"] = 1180,
+			["id"] = 2327,
+			["killed"] = true,
 		},
 		["diff"] = 15,
 	},
@@ -6594,12 +6594,12 @@ DeathGraphsDBGraph = {
 			[204] = {
 				1598585593, -- [1]
 			},
-			[154] = {
-				1598585593, -- [1]
-			},
 			[193] = {
 				1598585593, -- [1]
 				1598585593, -- [2]
+			},
+			[154] = {
+				1598585593, -- [1]
 			},
 		},
 		["spells"] = {
@@ -6627,20 +6627,10 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
-	["236915"] = {
+	["237215"] = {
 		["deaths"] = {
-			[135] = {
-				1598584181, -- [1]
-			},
-			[92] = {
-				1598584181, -- [1]
-				1598584181, -- [2]
-			},
-			[87] = {
-				1598584181, -- [1]
-			},
-			[126] = {
-				1598584181, -- [1]
+			[130] = {
+				1598586725, -- [1]
 			},
 		},
 		["spells"] = {
@@ -6671,17 +6661,6 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
-	["237215"] = {
-		["deaths"] = {
-			[130] = {
-				1598586725, -- [1]
-			},
-		},
-		["spells"] = {
-		},
-		["ids"] = {
-		},
-	},
 	["236415"] = {
 		["deaths"] = {
 			[154] = {
@@ -6705,20 +6684,41 @@ DeathGraphsDBGraph = {
 		["ids"] = {
 		},
 	},
+	["236915"] = {
+		["deaths"] = {
+			[135] = {
+				1598584181, -- [1]
+			},
+			[92] = {
+				1598584181, -- [1]
+				1598584181, -- [2]
+			},
+			[87] = {
+				1598584181, -- [1]
+			},
+			[126] = {
+				1598584181, -- [1]
+			},
+		},
+		["spells"] = {
+		},
+		["ids"] = {
+		},
+	},
 	["236515"] = {
 		["deaths"] = {
-			[96] = {
-				1598584758, -- [1]
-			},
-			[48] = {
-				1598584758, -- [1]
-			},
 			[59] = {
 				1598584758, -- [1]
 			},
 			[45] = {
 				1598584758, -- [1]
 				1598584758, -- [2]
+			},
+			[96] = {
+				1598584758, -- [1]
+			},
+			[48] = {
+				1598584758, -- [1]
 			},
 		},
 		["spells"] = {

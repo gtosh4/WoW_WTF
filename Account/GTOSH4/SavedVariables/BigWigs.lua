@@ -28,9 +28,9 @@ BigWigs3DB = {
 				["Default"] = {
 					["posx"] = 470.3993254232555,
 					["fontSize"] = 14,
+					["lock"] = true,
 					["fontName"] = "Friz Quadrata TT",
 					["posy"] = 718.3999839425087,
-					["lock"] = true,
 				},
 			},
 		},
@@ -40,8 +40,6 @@ BigWigs3DB = {
 					[275014] = 3129591,
 				},
 			},
-		},
-		["BigWigs_Bosses_Margrave Stradama"] = {
 		},
 		["BigWigs_Bosses_Vexiona"] = {
 			["profiles"] = {
@@ -74,8 +72,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Domina Venomblade"] = {
-		},
 		["BigWigs_Bosses_Ring of Booty"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -98,16 +94,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Globgrog"] = {
-		},
 		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
 				["Default"] = {
 					[259732] = 3129591,
 				},
 			},
-		},
-		["BigWigs_Bosses_Plaguefall Trash"] = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
@@ -118,10 +110,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Rezan"] = {
+		["BigWigs_Bosses_Thrall"] = {
 			["profiles"] = {
 				["Default"] = {
-					[255371] = 3129591,
+					[306828] = 3129591,
 				},
 			},
 		},
@@ -162,12 +154,17 @@ BigWigs3DB = {
 						24.16709136962891, -- [3]
 						129.1666412353516, -- [4]
 					},
-					["align"] = "LEFT",
 					["fontName"] = "Friz Quadrata TT",
+					["align"] = "LEFT",
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Bosses_Unbound Abomination"] = {
+			["profiles"] = {
+				["Default"] = {
+					[269843] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
@@ -190,10 +187,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
+		["BigWigs_Bosses_Sun King's Salvation"] = {
 			["profiles"] = {
 				["Default"] = {
-					[311401] = 3129591,
+					[337859] = 3129591,
 				},
 			},
 		},
@@ -253,6 +250,17 @@ BigWigs3DB = {
 							[315762] = "|cFFFF0000Move|r",
 						},
 					},
+					["Alert"] = {
+						["BigWigs_Bosses_Lord Stormsong"] = {
+							[268896] = "|cFFFF0000Dispell|r",
+						},
+						["BigWigs_Bosses_Vexiona"] = {
+							[307639] = "BigWigs: [DBM] Run Away Little Girl (Big Bad Wolf)",
+						},
+						["BigWigs_Bosses_K.U.-J.0."] = {
+							[294929] = "|cFFFF0000Dispell|r",
+						},
+					},
 					["Alarm"] = {
 						["BigWigs_Bosses_Vexiona"] = {
 							[315932] = "|cFFFF0000Range|r",
@@ -265,17 +273,6 @@ BigWigs3DB = {
 						},
 						["BigWigs_Bosses_Machinist's Garden"] = {
 							[285440] = "|cFFFF0000Move|r",
-						},
-					},
-					["Alert"] = {
-						["BigWigs_Bosses_Lord Stormsong"] = {
-							[268896] = "|cFFFF0000Dispell|r",
-						},
-						["BigWigs_Bosses_Vexiona"] = {
-							[307639] = "BigWigs: [DBM] Run Away Little Girl (Big Bad Wolf)",
-						},
-						["BigWigs_Bosses_K.U.-J.0."] = {
-							[294929] = "|cFFFF0000Dispell|r",
 						},
 					},
 				},
@@ -369,8 +366,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Heartsbane Triad"] = {
 							[260741] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Skycap'n Kragg"] = {
-							[256106] = "English: Overwatch: Reaper",
+						["BigWigs_Bosses_Kul'tharok"] = {
+							[319626] = "English: Overwatch: Orisa",
 						},
 						["BigWigs_Bosses_HK-8 Aerial Oppression Unit"] = {
 							[295445] = "English: Overwatch: Reaper",
@@ -378,8 +375,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Ring of Booty"] = {
 							[256489] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Kul'tharok"] = {
-							[319626] = "English: Overwatch: Orisa",
+						["BigWigs_Bosses_Skycap'n Kragg"] = {
+							[256106] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Doctor Ickus"] = {
 							[329110] = "English: Overwatch: Orisa",
@@ -469,22 +466,22 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
+					["BigWigsEmphasizeAnchor_y"] = 674.4533442997927,
 					["emphasize"] = false,
-					["BigWigsAnchor_width"] = 260.8340148925781,
-					["BigWigsEmphasizeAnchor_height"] = 37.00004196166992,
-					["growup"] = true,
-					["fontName"] = "Friz Quadrata TT",
-					["BigWigsAnchor_height"] = 26.66658020019531,
 					["visibleBarLimit"] = 10,
+					["BigWigsAnchor_width"] = 260.8340148925781,
 					["BigWigsAnchor_y"] = 314.4535671901649,
+					["BigWigsAnchor_x"] = 1063.466929354661,
 					["spacing"] = 4,
 					["texture"] = "Smooth v2",
 					["barStyle"] = "ElvUI",
+					["BigWigsEmphasizeAnchor_height"] = 37.00004196166992,
+					["growup"] = true,
 					["fontSizeEmph"] = 12,
-					["BigWigsAnchor_x"] = 1063.466929354661,
+					["fontName"] = "Friz Quadrata TT",
+					["BigWigsAnchor_height"] = 26.66658020019531,
 					["BigWigsEmphasizeAnchor_width"] = 181.6665802001953,
 					["BigWigsEmphasizeAnchor_x"] = 302.4004229283237,
-					["BigWigsEmphasizeAnchor_y"] = 674.4533442997927,
 					["emphasizeTime"] = 15,
 				},
 			},
@@ -498,20 +495,14 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
+		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
 			["profiles"] = {
 				["Default"] = {
-					[310184] = 3129591,
-					[318971] = 3129591,
+					[311401] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
-			["profiles"] = {
-				["Default"] = {
-					[269843] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Bosses_Sludgefist"] = {
 			["profiles"] = {
@@ -520,29 +511,30 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Sun King's Salvation"] = {
+		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 			["profiles"] = {
 				["Default"] = {
-					[337859] = 3129591,
+					[310184] = 3129591,
+					[318971] = 3129591,
 				},
 			},
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 139.9999542236328,
+					["posx"] = 759.999592387685,
 					["posy"] = 396.8001473808254,
 					["lock"] = true,
 					["height"] = 120.0000534057617,
-					["posx"] = 759.999592387685,
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 139.9999542236328,
 				},
 			},
 		},
-		["BigWigs_Bosses_Thrall"] = {
+		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[306828] = 3129591,
+					[255371] = 3129591,
 				},
 			},
 		},

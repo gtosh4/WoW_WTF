@@ -34,11 +34,11 @@ CliqueDB3 = {
 			["spec1_profileKey"] = "Toshdruid - Area 52",
 			["spec3_profileKey"] = "Toshdruid - Area 52",
 			["downclick"] = true,
-			["specswap"] = false,
+			["spec4_profileKey"] = "Toshdruid - Area 52",
 			["fastooc"] = false,
+			["specswap"] = false,
 			["spec2_profileKey"] = "Toshdruid - Area 52",
 			["alerthidden"] = true,
-			["spec4_profileKey"] = "Toshdruid - Area 52",
 		},
 		["Toshtoon - Barthilas"] = {
 			["spec1_profileKey"] = "Toshtoon - Barthilas",
@@ -261,9 +261,8 @@ CliqueDB3 = {
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "CTRL-BUTTON2",
+					["type"] = "menu",
+					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -271,14 +270,15 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "BUTTON2",
+					["key"] = "CTRL-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
 				}, -- [3]
 				{
-					["type"] = "menu",
-					["key"] = "ALT-BUTTON3",
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -286,7 +286,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "ALT-BUTTON2",
+					["key"] = "CTRL-SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -294,7 +294,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "ALT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -302,7 +302,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "CTRL-SHIFT-BUTTON2",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
