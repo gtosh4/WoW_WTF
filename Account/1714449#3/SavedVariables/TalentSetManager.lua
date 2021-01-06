@@ -110,6 +110,18 @@ TalentSetManager_CharacterSaves = {
 					["name"] = "mt",
 					["texture"] = 135734,
 				}, -- [2]
+				{
+					1, -- [1]
+					3, -- [2]
+					1, -- [3]
+					3, -- [4]
+					2, -- [5]
+					3, -- [6]
+					2, -- [7]
+					["texture"] = 236165,
+					["name"] = "pvp",
+					["tt"] = "talents",
+				}, -- [3]
 			}, -- [3]
 		},
 		["version"] = 0,

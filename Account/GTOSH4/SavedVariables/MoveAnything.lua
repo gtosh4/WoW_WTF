@@ -9,40 +9,21 @@ MADB = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
-				["DurabilityFrame"] = {
+				["ChatFrameChannelButton"] = {
 					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-41.00006484985352, -- [4]
-						0, -- [5]
-					},
-					["name"] = "DurabilityFrame",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-2530.166931152344, -- [4]
-						172.4993896484375, -- [5]
-					},
-				},
-				["UIWidgetBelowMinimapContainerFrame"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
+						"TOP", -- [1]
+						"ChatFrame1ButtonFrame", -- [2]
+						"TOP", -- [3]
 						0, -- [4]
 						0, -- [5]
 					},
-					["name"] = "UIWidgetBelowMinimapContainerFrame",
-					["scale"] = 1,
-					["orgScale"] = 1,
+					["name"] = "ChatFrameChannelButton",
 					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-361.0102767447787, -- [4]
-						14.16689652202727, -- [5]
+						"BOTTOMLEFT", -- [1]
+						"ChatFrame1", -- [2]
+						"TOPRIGHT", -- [3]
+						0, -- [4]
+						0, -- [5]
 					},
 				},
 				["TooltipMover"] = {
@@ -59,23 +40,6 @@ MADB = {
 						"TOP", -- [3]
 						1105.833618164063, -- [4]
 						-9.9991455078125, -- [5]
-					},
-				},
-				["PlayerBuffsMover"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"UIParent", -- [2]
-						"TOPRIGHT", -- [3]
-						-205, -- [4]
-						-13, -- [5]
-					},
-					["name"] = "PlayerBuffsMover",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"UIParent", -- [2]
-						"TOPRIGHT", -- [3]
-						-57.498046875, -- [4]
-						-2.4991455078125, -- [5]
 					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
@@ -95,77 +59,12 @@ MADB = {
 						-241.6663208007813, -- [5]
 					},
 				},
-				["BattlefieldMapFrame"] = {
-					["name"] = "BattlefieldMapFrame",
-					["pos"] = {
-						"TOPLEFT", -- [1]
-						"BattlefieldMapTab", -- [2]
-						"BOTTOMLEFT", -- [3]
-						-36.66552734375, -- [4]
-						107.4998779296875, -- [5]
-					},
-				},
-				["ChatFrameChannelButton"] = {
-					["orgPos"] = {
-						"TOP", -- [1]
-						"ChatFrame1ButtonFrame", -- [2]
-						"TOP", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-					["name"] = "ChatFrameChannelButton",
-					["pos"] = {
-						"BOTTOMLEFT", -- [1]
-						"ChatFrame1", -- [2]
-						"TOPRIGHT", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-				},
-				["VehicleSeatIndicator"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						40.00000381469727, -- [4]
-						15, -- [5]
-					},
-					["name"] = "VehicleSeatIndicator",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
-						-621.16748046875, -- [4]
-						-899.1663818359375, -- [5]
-					},
-				},
-				["ChallengesKeystoneFrame"] = {
-					["UIPanelWindows"] = {
-						["pushable"] = 0,
-						["area"] = "center",
-					},
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"UIParent", -- [2]
-						"CENTER", -- [3]
-						0, -- [4]
-						40.00000381469727, -- [5]
-					},
-					["name"] = "ChallengesKeystoneFrame",
-					["pos"] = {
-						"BOTTOMLEFT", -- [1]
-						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						2123.49951171875, -- [4]
-						461.0001220703125, -- [5]
-					},
-				},
 			},
 		},
 	},
 	["modifiedFramesOnly"] = true,
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = true,
 	["frameListRows"] = 18,
+	["noBags"] = true,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

@@ -3,7 +3,7 @@ Postal3DB = {
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Toshaman|Area 52|Horde|58|SHAMAN", -- [1]
+				"Toshaman|Area 52|Horde|60|SHAMAN", -- [1]
 				"Toshmonk|Area 52|Horde|50|MONK", -- [2]
 				"Toshmonk|Kil'jaeden|Horde|60|MONK", -- [3]
 				"Toshpriest|Area 52|Horde|50|PRIEST", -- [4]

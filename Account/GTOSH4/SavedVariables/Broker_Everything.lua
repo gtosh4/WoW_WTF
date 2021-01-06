@@ -1,5 +1,6 @@
 
 Broker_Everything_DataDB = {
+	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -22,16 +23,21 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
-	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
 	["Toshpriest-Azralon"] = {
 		["race"] = "Scourge",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
 		["orderId"] = 11,
-		["class"] = "PRIEST",
 		["level"] = 110,
+		["class"] = "PRIEST",
 	},
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
@@ -50,19 +56,21 @@ Broker_Everything_CharacterDB = {
 		["race"] = "Tauren",
 		["name"] = "Toshdruid",
 		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
 		["orderId"] = 6,
-		["level"] = 51,
 		["class"] = "DRUID",
+		["level"] = 51,
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
+		["orderId"] = 1,
+		["Dungeons"] = {
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -88,73 +96,135 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 		["level"] = 60,
+		["mail"] = {
+			["stored"] = {
+			},
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
 		["gold"] = 10753845943,
-		["orderId"] = 1,
 	},
 	["Toshtoon-Barthilas"] = {
 		["race"] = "Vulpera",
 		["name"] = "Toshtoon",
 		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
 		["orderId"] = 9,
+		["level"] = 20,
 		["class"] = "WARLOCK",
-		["level"] = 20,
-	},
-	["Toshpal-Area 52"] = {
-		["race"] = "ZandalariTroll",
-		["name"] = "Toshpal",
-		["faction"] = "Horde",
-		["orderId"] = 2,
-		["class"] = "PALADIN",
-		["level"] = 51,
-	},
-	["Toshlongboy-Eldre'Thalas"] = {
-		["race"] = "Vulpera",
-		["name"] = "Toshlongboy",
-		["faction"] = "Horde",
-		["orderId"] = 7,
-		["class"] = "PRIEST",
-		["level"] = 20,
-	},
-	["Toshlongboyr-Eldre'Thalas"] = {
-		["race"] = "BloodElf",
-		["name"] = "Toshlongboyr",
-		["faction"] = "Horde",
-		["orderId"] = 8,
-		["level"] = 110,
-		["class"] = "PRIEST",
-	},
-	["Daggny-Frostwolf"] = {
-		["race"] = "BloodElf",
-		["name"] = "Daggny",
-		["faction"] = "Horde",
-		["orderId"] = 10,
-		["level"] = 100,
-		["class"] = "MONK",
-	},
-	["Toshdk-Kil'jaeden"] = {
-		["race"] = "Orc",
-		["name"] = "Toshdk",
-		["faction"] = "Horde",
-		["orderId"] = 4,
-		["level"] = 50,
-		["class"] = "DEATHKNIGHT",
-	},
-	["Yorman-Kil'jaeden"] = {
-		["race"] = "Tauren",
-		["name"] = "Yorman",
-		["faction"] = "Horde",
-		["orderId"] = 3,
-		["class"] = "DRUID",
-		["level"] = 120,
 	},
 	["Yelluwuy-Area 52"] = {
 		["race"] = "BloodElf",
 		["name"] = "Yelluwuy",
 		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
 		["orderId"] = 5,
-		["class"] = "PRIEST",
 		["level"] = 1,
+		["class"] = "PRIEST",
+	},
+	["Toshlongboy-Eldre'Thalas"] = {
+		["race"] = "Vulpera",
+		["name"] = "Toshlongboy",
+		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["orderId"] = 7,
+		["level"] = 20,
+		["class"] = "PRIEST",
+	},
+	["Yorman-Kil'jaeden"] = {
+		["race"] = "Tauren",
+		["name"] = "Yorman",
+		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["orderId"] = 3,
+		["level"] = 120,
+		["class"] = "DRUID",
+	},
+	["Daggny-Frostwolf"] = {
+		["race"] = "BloodElf",
+		["name"] = "Daggny",
+		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["orderId"] = 10,
+		["class"] = "MONK",
+		["level"] = 100,
+	},
+	["Toshdk-Kil'jaeden"] = {
+		["race"] = "Orc",
+		["name"] = "Toshdk",
+		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["orderId"] = 4,
+		["class"] = "DEATHKNIGHT",
+		["level"] = 50,
+	},
+	["Toshlongboyr-Eldre'Thalas"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshlongboyr",
+		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["orderId"] = 8,
+		["class"] = "PRIEST",
+		["level"] = 110,
+	},
+	["Toshpal-Area 52"] = {
+		["race"] = "ZandalariTroll",
+		["name"] = "Toshpal",
+		["faction"] = "Horde",
+		["mail"] = {
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["orderId"] = 2,
+		["level"] = 51,
+		["class"] = "PALADIN",
 	},
 }
 Broker_Everything_AceDB = {
@@ -167,9 +237,9 @@ Broker_Everything_AceDB = {
 		["Yorman - Kil'jaeden"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
-		["Toshpriest - Area 52"] = "Default",
 		["Toshpriest - Azralon"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -177,17 +247,35 @@ Broker_Everything_AceDB = {
 				["enabled"] = false,
 			},
 			["Volume"] = {
+				["listHardware"] = false,
 				["minimap"] = {
 					["hide"] = true,
 				},
 			},
-			["Equipment"] = {
+			["Friends"] = {
+				["enabled"] = false,
+			},
+			["Mail"] = {
+				["enabled"] = true,
+				["playsound"] = true,
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
+			["Tracking"] = {
+				["enabled"] = true,
+				["displaySelection"] = false,
 				["minimap"] = {
 					["hide"] = true,
 				},
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -204,10 +292,33 @@ Broker_Everything_AceDB = {
 				["ClickOpt:calendar"] = "_RIGHT",
 				["ClickOpt:time"] = "__NONE",
 			},
+			["Traffic"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
 			["GPS"] = {
 				["enabled"] = false,
 			},
+			["Dungeons"] = {
+				["showExpansion9"] = true,
+				["showExpansion4"] = true,
+				["showExpansion6"] = true,
+				["showExpansion7"] = true,
+				["showExpansion8"] = true,
+				["showExpansion1"] = true,
+				["showExpansion3"] = true,
+				["showExpansion5"] = true,
+				["showExpansion2"] = true,
+			},
 			["System"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+				["showOutboundOnBroker"] = true,
+				["showInboundOnBroker"] = true,
+			},
+			["Memory"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -218,14 +329,17 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Difficulty"] = {
+			["ZoneText"] = {
 				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
 			},
-			["Friends"] = {
-				["enabled"] = false,
+			["Difficulty"] = {
+				["enabled"] = true,
+				["minimap"] = {
+					["hide"] = true,
+				},
 			},
 		},
 	},

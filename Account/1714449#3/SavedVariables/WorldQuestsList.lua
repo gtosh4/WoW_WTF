@@ -1,16 +1,23 @@
 
 VWQL = {
-	["AnchorQCBLeft"] = 1879.166625976563,
+	["Scale"] = 0.8,
 	["AnchorQCBTop"] = 879.166748046875,
 	["DisableArrow"] = true,
 	["AzeriteFormat"] = 20,
-	["Scale"] = 0.8,
+	["ReverseSort"] = true,
 	["DisableIconsGeneralMap947"] = true,
 	["SortPrio"] = {
 	},
 	["Ignore"] = {
 	},
-	["ReverseSort"] = true,
+	["Toshmonk-Kil'jaeden"] = {
+		["FilterType"] = {
+		},
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["VERSION"] = 98,
+	},
 	["Toshpriest-Area52"] = {
 		["FilterType"] = {
 		},
@@ -29,34 +36,11 @@ VWQL = {
 	},
 	["Sort"] = 5,
 	["VERSION"] = 98,
-	["Toshmonk-Kil'jaeden"] = {
-		["FilterType"] = {
-		},
-		["Filter"] = 63,
-		["Quests"] = {
-			[61813] = true,
-		},
-		["VERSION"] = 98,
-	},
+	["AnchorQCBLeft"] = 1879.166625976563,
 	["Toshaman-Area52"] = {
 		["Filter"] = 63,
 		["VERSION"] = 98,
 		["Quests"] = {
-			[59600] = true,
-			[60656] = true,
-			[60844] = true,
-			[61868] = true,
-			[61342] = true,
-			[61189] = true,
-			[61967] = true,
-			[61784] = true,
-			[61667] = true,
-			[61885] = true,
-			[58975] = true,
-			[60929] = true,
-			[60842] = true,
-			[61303] = true,
-			[61947] = true,
 		},
 		["FilterType"] = {
 		},
@@ -78,8 +62,8 @@ VWQL = {
 			[51122] = true,
 			[51185] = true,
 			[50503] = true,
-			[51157] = true,
 			[55342] = true,
+			[51157] = true,
 			[54060] = true,
 			[50574] = true,
 			[52803] = true,

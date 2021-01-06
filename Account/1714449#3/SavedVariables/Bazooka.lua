@@ -85,8 +85,8 @@ BazookaDB = {
 					},
 					["Death Note"] = {
 						["area"] = "left",
-						["bar"] = 4,
 						["showText"] = false,
+						["bar"] = 4,
 						["pos"] = 2,
 					},
 					["Talent Set Manager"] = {
