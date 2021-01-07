@@ -77,18 +77,24 @@ BazookaDB = {
 					["Dungeons"] = {
 						["pos"] = 5,
 					},
+					["Death Note"] = {
+						["area"] = "left",
+						["showText"] = false,
+						["pos"] = 3,
+						["bar"] = 2,
+					},
 					["Details"] = {
 						["enabled"] = false,
 						["pos"] = 13,
-					},
-					["Difficulty"] = {
-						["showIcon"] = false,
-						["pos"] = 8,
 					},
 					["Mail"] = {
 						["area"] = "left",
 						["showText"] = false,
 						["pos"] = 11,
+					},
+					["Difficulty"] = {
+						["showIcon"] = false,
+						["pos"] = 8,
 					},
 					["System"] = {
 						["showIcon"] = false,
@@ -117,11 +123,11 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 14,
 					},
-					["Death Note"] = {
+					["Order hall"] = {
 						["area"] = "left",
 						["showText"] = false,
-						["pos"] = 3,
 						["bar"] = 2,
+						["pos"] = 9,
 					},
 					["Tracking"] = {
 						["area"] = "left",

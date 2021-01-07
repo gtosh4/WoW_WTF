@@ -44,6 +44,7 @@ TalentSetManager_CharacterSaves = {
 					2, -- [5]
 					3, -- [6]
 					3, -- [7]
+					["equipment"] = "m+ mw",
 					["texture"] = 620831,
 					["name"] = "m+ (rm)",
 					["tt"] = "talents",
@@ -68,6 +69,7 @@ TalentSetManager_CharacterSaves = {
 					2, -- [5]
 					2, -- [6]
 					3, -- [7]
+					["equipment"] = "mw",
 					["texture"] = 332402,
 					["name"] = "raid (rm)",
 					["tt"] = "talents",

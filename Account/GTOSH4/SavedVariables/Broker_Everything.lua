@@ -71,6 +71,19 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 1,
 		["Dungeons"] = {
 		},
+		["mail"] = {
+			["total"] = 0,
+			["stored"] = {
+			},
+			["num"] = 0,
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -96,23 +109,12 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
+		["level"] = 60,
 		["Professions"] = {
 			["learnedRecipes"] = {
 			},
 		},
-		["level"] = 60,
-		["mail"] = {
-			["stored"] = {
-			},
-			["store"] = {
-			},
-			["new"] = {
-			},
-		},
-		["gold"] = 10753845943,
+		["faction"] = "Horde",
 	},
 	["Toshtoon-Barthilas"] = {
 		["race"] = "Vulpera",
@@ -252,8 +254,11 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Friends"] = {
-				["enabled"] = false,
+			["Difficulty"] = {
+				["enabled"] = true,
+				["minimap"] = {
+					["hide"] = true,
+				},
 			},
 			["Mail"] = {
 				["enabled"] = true,
@@ -275,13 +280,18 @@ Broker_Everything_AceDB = {
 					["hide"] = true,
 				},
 			},
-			["Equipment"] = {
+			["ZoneText"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
 			},
-			["Gold"] = {
-				["enabled"] = false,
+			["System"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+				["showOutboundOnBroker"] = true,
+				["showInboundOnBroker"] = true,
 			},
 			["Clock"] = {
 				["enabled"] = true,
@@ -311,12 +321,8 @@ Broker_Everything_AceDB = {
 				["showExpansion5"] = true,
 				["showExpansion2"] = true,
 			},
-			["System"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
-				["showOutboundOnBroker"] = true,
-				["showInboundOnBroker"] = true,
+			["Gold"] = {
+				["enabled"] = false,
 			},
 			["Memory"] = {
 				["minimap"] = {
@@ -329,17 +335,16 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["ZoneText"] = {
+			["Order hall"] = {
 				["enabled"] = true,
+			},
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},
