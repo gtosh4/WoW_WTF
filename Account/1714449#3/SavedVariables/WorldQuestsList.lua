@@ -15,12 +15,6 @@ VWQL = {
 		},
 		["Filter"] = 63,
 		["Quests"] = {
-			[60656] = true,
-			[60532] = true,
-			[57328] = true,
-			[58144] = true,
-			[60657] = true,
-			[61885] = true,
 		},
 		["VERSION"] = 98,
 	},

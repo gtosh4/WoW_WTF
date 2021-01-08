@@ -13,13 +13,6 @@ X: -6
 Y: 74
 W: 235
 H: 700
-Frame: ExRTNote
-FrameLevel: 1
-Anchor: BOTTOM
-X: 374
-Y: 39
-W: 308
-H: 259
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -27,6 +20,13 @@ X: -6
 Y: 74
 W: 235
 H: 700
+Frame: ExRTNote
+FrameLevel: 1
+Anchor: BOTTOM
+X: 374
+Y: 39
+W: 308
+H: 259
 Frame: UIWidgetBelowMinimapContainerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -64,9 +64,9 @@ W: 365
 H: 380
 Frame: BDLC
 FrameLevel: 1
-Anchor: TOP
-X: 154
-Y: -47
+Anchor: TOPRIGHT
+X: -469
+Y: -54
 W: 600
 H: 400
 Frame: BDLC Roll Window

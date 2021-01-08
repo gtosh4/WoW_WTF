@@ -68,10 +68,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["party"] = "By Role",
 								["arena"] = "By Group",
-								["solo"] = "By Role",
 								["raid"] = "By Group",
+								["solo"] = "By Role",
+								["party"] = "By Role",
 							},
 							["BackgroundB"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -82,7 +82,7 @@ Grid2DB = {
 							["anchor"] = "TOP",
 							["BackgroundG"] = 0.1019607843137255,
 							["groupAnchor"] = "TOPLEFT",
-							["PosY"] = -309.2011259013161,
+							["PosY"] = -309.2005399638292,
 							["PosX"] = -250.6537297490149,
 							["BackgroundR"] = 0.1019607843137255,
 							["BackgroundA"] = 1,
@@ -97,10 +97,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["raid"] = "By Group",
 								["arena"] = "By Group",
-								["solo"] = "By Group",
 								["party"] = "By Group",
+								["solo"] = "By Group",
+								["raid"] = "By Group",
 							},
 							["BackgroundR"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -491,9 +491,6 @@ Grid2DB = {
 					["iconSize"] = 18,
 					["level"] = 8,
 				},
-				["shields-color"] = {
-					["type"] = "bar-color",
-				},
 				["health"] = {
 					["type"] = "bar",
 					["location"] = {
@@ -523,6 +520,9 @@ Grid2DB = {
 					["level"] = 8,
 					["iconSize"] = 13,
 					["maxIconsPerRow"] = 5,
+				},
+				["shields-color"] = {
+					["type"] = "bar-color",
 				},
 				["heals"] = {
 					["type"] = "bar",
@@ -791,6 +791,7 @@ Grid2DB = {
 							341489, -- [4]
 							345397, -- [5]
 							334909, -- [6]
+							332585, -- [7]
 						},
 					},
 					["color1"] = {
@@ -1214,9 +1215,9 @@ Grid2DB = {
 				["bar-main"] = {
 					["heal-absorbs"] = 4,
 					["shields"] = 5,
-					["heals-incoming"] = 2,
 					["health-current"] = 1,
 					["my-heals-incoming"] = 3,
+					["heals-incoming"] = 2,
 				},
 				["alpha"] = {
 					["offline"] = 97,
@@ -1264,12 +1265,12 @@ Grid2DB = {
 					["raid@lfr"] = 0,
 					["solo"] = 1,
 					["15"] = 0,
-					["raid@mythic"] = 0,
+					["raid"] = 2,
 					["party"] = 1,
 					["default"] = 1,
-					["arena"] = 1,
+					["raid@mythic"] = 0,
 					["20"] = 0,
-					["raid"] = 2,
+					["arena"] = 1,
 					["raid@flex"] = 0,
 					["10"] = 0,
 				},
