@@ -13,13 +13,6 @@ X: -6
 Y: 74
 W: 235
 H: 700
-Frame: ObjectiveTrackerFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -6
-Y: 74
-W: 235
-H: 700
 Frame: ExRTNote
 FrameLevel: 1
 Anchor: BOTTOM
@@ -27,6 +20,13 @@ X: 374
 Y: 39
 W: 308
 H: 259
+Frame: ObjectiveTrackerFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -6
+Y: 74
+W: 235
+H: 700
 Frame: UIWidgetBelowMinimapContainerFrame
 FrameLevel: 1
 Anchor: TOPRIGHT

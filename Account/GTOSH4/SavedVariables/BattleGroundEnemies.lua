@@ -6,6 +6,15 @@ BattleGroundEnemiesDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["Allies"] = {
+				["Enabled"] = false,
+				["15"] = {
+					["Position_Y"] = 585.6000650358183,
+					["Position_X"] = 1227.200285069936,
+				},
+			},
+			["Font"] = "Friz Quadrata TT",
+			["Locked"] = true,
 			["Enemies"] = {
 				["RangeIndicator_Everything"] = true,
 				["ShowRealmnames"] = false,
@@ -55,15 +64,6 @@ BattleGroundEnemiesDB = {
 					["Auras_Buffs_OnlyShowMine"] = false,
 					["BarHeight"] = 32,
 					["ObjectiveAndRespawn_EnableTextshadow"] = true,
-				},
-			},
-			["Font"] = "Friz Quadrata TT",
-			["Locked"] = true,
-			["Allies"] = {
-				["Enabled"] = false,
-				["15"] = {
-					["Position_Y"] = 585.6000650358183,
-					["Position_X"] = 1227.200285069936,
 				},
 			},
 		},

@@ -763,45 +763,30 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0D0FE5F5"] = {
+					[57443] = {
+						["expireAt"] = 1610187164,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
+					[57328] = {
+						["expireAt"] = 1610204444,
+						["rewardAmount"] = 105,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
+					},
 					[61816] = {
 						["expireAt"] = 1610463643,
 						["rewardAmount"] = 250,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[60950] = {
-						["expireAt"] = 1610169950,
+					[60601] = {
+						["expireAt"] = 1610204504,
 						["rewardAmount"] = 70,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
-					[60770] = {
-						["expireAt"] = 1610152670,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61948] = {
-						["expireAt"] = 1610118050,
-						["rewardAmount"] = "1",
-						["rewardTexture"] = 667492,
-					},
-					[59703] = {
-						["expireAt"] = 1610135323,
-						["rewardAmount"] = "|cff2292FF181",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
-					},
-					[59234] = {
-						["expireAt"] = 1610118043,
-						["rewardAmount"] = 70,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61870] = {
-						["expireAt"] = 1610118043,
-						["rewardAmount"] = "18",
+					[61886] = {
+						["expireAt"] = 1610204444,
+						["rewardAmount"] = "13",
 						["rewardTexture"] = 2004597,
-					},
-					[60564] = {
-						["expireAt"] = 1610135390,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
 					},
 				},
 			},

@@ -6,10 +6,12 @@ M6DB = {
 		"priest", -- [2]
 		"venthyr", -- [3]
 		"druid", -- [4]
-		["priest"] = 2,
-		["druid"] = 4,
+		"holy", -- [5]
 		["disc"] = 1,
+		["druid"] = 4,
 		["venthyr"] = 3,
+		["priest"] = 2,
+		["holy"] = 5,
 	},
 	["profiles"] = {
 		["Area 52"] = {
@@ -21,10 +23,10 @@ M6DB = {
 						["s08"] = 8,
 						["s01"] = 1,
 						["s03"] = 3,
-						["s0a"] = 10,
 						["s02"] = 2,
-						["s06"] = 6,
 						["s04"] = 4,
+						["s06"] = 6,
+						["s0a"] = 10,
 						["s09"] = 9,
 						["s0c"] = 12,
 						["s0e"] = 14,
@@ -37,8 +39,9 @@ M6DB = {
 				}, -- [1]
 				{
 					["slots"] = {
-						["s01"] = 10,
+						["s03"] = 20,
 						["s02"] = 16,
+						["s01"] = 10,
 					},
 					["bind"] = {
 					},
@@ -184,6 +187,12 @@ M6DB = {
 			["group"] = 4,
 			["name"] = "regrowth",
 		}, -- [19]
+		{
+			"macrotext", -- [1]
+			"#showtooltip\n/cast [@mouseover] Renew", -- [2]
+			["group"] = 5,
+			["name"] = "renew",
+		}, -- [20]
 	},
 	["icManaColor"] = "8080ff",
 }

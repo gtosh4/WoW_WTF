@@ -1,3 +1,13 @@
+VER 3 0000000000000036 "_M6+s01" "1074161825"
+#showtooltip
+#m6
+/click M6Prime s01
+END
+VER 3 0000000000000037 "_M6+s02" "1074161826"
+#showtooltip
+#m6
+/click M6Prime s02
+END
 VER 3 0000000000000027 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use Shattered Helm of Domination

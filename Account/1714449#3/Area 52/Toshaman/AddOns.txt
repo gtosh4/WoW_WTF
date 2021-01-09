@@ -30,3 +30,5 @@ BigWigs_Nyalotha: enabled
 InstanceAchievementTracker: disabled
 miirGui: disabled
 AAP-Core: disabled
+Blizzard_CompactRaidFrames: disabled
+Blizzard_CUFProfiles: disabled

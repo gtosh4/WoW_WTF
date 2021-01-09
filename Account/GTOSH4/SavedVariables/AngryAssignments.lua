@@ -7,6 +7,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3536802075,
 		["Contents"] = "Soaks:\n||cFF97FFECVITA||r    \n||cmageDelpi||r    \n||cwarlockJohnny||r    \n||cwarlockCJ||r\n||cpriestMord||r\n||chunterSalad||r\n\n||cFFC9A3FFVOID||r    \n||chunterThunderrz||r    \n||cdemonhunterLuna||r   \n||cpaladinSci||r    \n||cwarriorThac||r\n||cdeathknightRathux||r",
 	},
+	[2224783927] = {
+		["Updated"] = 1610162553,
+		["Name"] = "FETID",
+		["Id"] = 2224783927,
+		["UpdateId"] = 537764924,
+		["Contents"] = "BIG add - soda/moon\n\nG1FAR - yuki,  alec, fridaa,  knoss, andrew. akwi\n\nG2CLOSE - arn,  daiyzed, barb, cj, thun",
+	},
 	[269012837] = {
 		["Updated"] = 1605322616,
 		["Name"] = "04 xanesh",
@@ -14,12 +21,34 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3970635375,
 		["Contents"] = "1 - barb > gordy > sci\n2 - evan > cj > thun",
 	},
+	[134906466] = {
+		["Updated"] = 1610162576,
+		["Name"] = "Test",
+		["Id"] = 134906466,
+		["UpdateId"] = 2591192581,
+		["Contents"] = "~1:00    Tantrum 1    ||cpriestTehkz ramp||r    ||cpaladinLoh AC||r    ||cmonkBailey rev||r    ||cpaladinLoh AM||r\n~2:00    Tantrum 2    ||cdruidPluie tranq||r    ||cpriestYellowy hymn||r    ||cmonkYuumi rev||r    \n~3:00    Tantrum 3    ||cpriestTehkz ramp||r    ||cpaladinLoh AC||r    Tehkz (barrier)    \n~4:00    Tantrum 4    ||cdruidPluie tranq||r    ||cmonkBailey rev||r    ||cpriestYellowy salv||r    ||cpaladinLoh AM||r\n~5:00    Tantrum 5    ||cpriestTehkz ramp||r    ||cpaladinLoh AC||r    ||cpriestYellowy hymn||r    ||cmonkYuumi rev||r",
+	},
 	[1903778637] = {
-		["Updated"] = 1609640589,
+		["Updated"] = 1610162709,
 		["Name"] = "sunking",
 		["Id"] = 1903778637,
-		["UpdateId"] = 2895474219,
-		["Contents"] = "P1\n{square} delpi/me\n{moon}  aeth/johnny\n{triangle} yuki/thun\n{diamond} cj/luna\n\n\nP2\n{square} rathux/pangu/delpi\n{moon} adeno/andrew/aeth\n{triangle} evan/yuki/thun\n{diamond} barb/cj/luna",
+		["UpdateId"] = 388656089,
+		["Backup"] = "P1\n{square} delpi/neeko\n{moon}  aeth/johnny\n{triangle} yuki/thun\n{diamond} cj/luna\n\n\nP2\n{square} rathux/arn/delpi\n{moon} adeno/andrew/aeth\n{triangle} evan/yuki/thun\n{diamond} barb/cj/luna",
+		["Contents"] = "P1\n{square} delpi/neeko\n{moon}  aeth/johnny\n{triangle} yuki/thun\n{diamond} cj/luna\n\n\nP2\n{square} rathux/arn/delpi\n{moon} adeno/andrew/aeth\n{triangle} evan/yuki/thun\n{diamond} barb/cj/luna",
+	},
+	[4119814552] = {
+		["Updated"] = 1610162570,
+		["Name"] = "rasta",
+		["Id"] = 4119814552,
+		["UpdateId"] = 2472605572,
+		["Contents"] = "Det 1    ||cshamanIlya.SLT||r    ||cdemonhunterZach.dark||r    ||cpriestGord.ramp||r    \nDet 2    ||cshamanIlya.HT||r    \nDet 3    ||cdruidBoo.tranq||r               \nDet 4    ||cmonkAlex.rev||r     \nDet 5    ||cdruidBarb.tranq||r               \nDet 6    ||cpriestGord.ramp||r            \nPHASE 2                \nDet 7    ||cdruidBoo.tranq||r            \nDet 8    ||cmonkAlex.rev||r        \nPHASE 3                \nDet 9    ||cpriestGord.ramp||r            \nDet 10    ||cdruidBarb.tranq||r               \nDet 11    none            \nDet 12    ||cpriestGord.ramp||r    ||cmonkAlex.rev||r    ||cdruidBoo.tranq||r    \nDet 13    ||cshamanIlya.SLT||r    ||cdemonhunterZach.dark||r    ||cshamanIlya.HT||r",
+	},
+	[3619189419] = {
+		["Updated"] = 1610169551,
+		["Name"] = "zEKVoz",
+		["Id"] = 3619189419,
+		["UpdateId"] = 1026164381,
+		["Contents"] = "",
 	},
 	[1859327480] = {
 		["Updated"] = 1608953941,
@@ -27,6 +56,20 @@ AngryAssign_Pages = {
 		["Id"] = 1859327480,
 		["UpdateId"] = 402518331,
 		["Contents"] = "g2 + rathux {diamond}\n\ng3 + adeno {circle}\n\ng4 + andrew {star}",
+	},
+	[1911305112] = {
+		["Updated"] = 1610162558,
+		["Name"] = "07 drest'agath",
+		["Id"] = 1911305112,
+		["UpdateId"] = 4180431134,
+		["Contents"] = "||cFF52692AThroes 1||r    \n||cFF422A69Entropic Crash 2||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 2||r    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n||cFF422A69Entropic Crash 4||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 3||r    ||cpaladinSci||r{icon 31821}    ||cwarriorProud||r{icon 97462}\n||cFF52692AThroes 4||r    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n||cFF422A69Entropic Crash 6||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 5||r    \n||cFF422A69Entropic Crash 8||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 6||r    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n||cFF422A69Entropic Crash 9||r    ||cpriestTehkz||r{icon 62618}    ||cdemonhunterLuna||r{icon 196718}    ||cdemonhunterAndrew||r{icon 196718}\n||cFF422A69Entropic Crash 10||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 7||r    ||cpaladinSci||r{icon 31821}    ||cwarriorProud||r{icon 97462}\n||cFF52692AThroes 8||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n\n\n{x} - quad mages\n{square} - boomies+locks\nmelee - tentacle\neveryone else - eye",
+	},
+	[3293760588] = {
+		["Updated"] = 1610169539,
+		["Name"] = "01 Cabal",
+		["Id"] = 3293760588,
+		["UpdateId"] = 1522067136,
+		["Contents"] = "Crushing 1    ||cpurpleVoid Stones||r    ||cpriestJess.salv||r        \nCrushing 2    ||cpriestTehkz.rapt||r    ||cpaladinSci.AM||r    ||cpriestTehkz.lumin||r    \nWitness {moon}    ||cpriestFrida.VE||r    ||cdruidJamie.tranq||r    ||cshamanGordy.HT||r    \nWitness {diamond}    ||cpriestJohnny.VE||r    ||cshamanGordy.SLT||r    ||cdemonhunterAndr.dark||r    ||cpaladinSci.wings||r\nWitness {triangle}    ||cpriestSin.VE||r    ||cwarriorBarba.rally||r    ||cpriestJess.hymn||r    \nCrushing 4    ||cpurpleVoid Stones||r    ||cpriestTehkz.rapt||r        \nCrushing 5    ||credPersonals||r            \nWitness {moon}    ||cpriestFrida.VE||r    ||cdruidJamie.tranq||r        \nWitness {diamond}    ||cpriestJohnny.VE||r    ||cpriestTehkz.lumin||r    ||cpaladinSci.wings||r    \nWitness {triangle}    ||cpriestSin.VE||r            \nCrushing 7    ||cpurpleVoid Stones||r    ||cpriestTehkz.rapt||r        \nStorm 1    ||cshamanGordy.HT||r    ||cdemonhunterAndr.dark||r        \nCrushing 8    ||cpaladinSci.AM||r            \nStorm 2    ||cpriestJess.salv||r    ||cpriestJess.hymn||r        \nWitness {moon}    ||cpriestFrida.VE||r    ||cshamanGordy.SLT||r    ||cdruidJamie.tranq||r    \nWitness {diamond}    ||cpriestJohnny.VE||r    ||cwarriorBarba.rally||r    ||cpaladinSci.wings||r    \nCrushing 9    ||cpriestTehkz.rapt||r            \nWitness {triangle}    ||cpriestSin.VE||r            \nCrushing 10    ||cpurpleVoid Stones||r            \nCrushing 11    ||credPersonals||r    ||cpriestTehkz.rapt||r    ||cpriestTehkz.lumin||r    \nCrushing 12    ||cshamanGordy.HT||r    ||cpaladinSci.AM||r    ||cdruidJamie.tranq||r",
 	},
 	[1436534751] = {
 		["Updated"] = 1605334817,
@@ -74,30 +117,32 @@ AngryAssign_Pages = {
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
+	["window"] = {
+		["height"] = 500.0001220703125,
+		["top"] = 989.1666259765625,
+		["left"] = 1263.332885742188,
+		["width"] = 700,
+	},
+	["locked"] = true,
 	["directionUp"] = false,
 	["display"] = {
-		["y"] = -158.6666259765625,
-		["x"] = 294.9993896484375,
+		["y"] = -17.8331298828125,
+		["x"] = 336.6660461425781,
 		["point"] = "TOPLEFT",
 		["scale"] = 1,
 		["hidden"] = false,
 	},
-	["window"] = {
-		["height"] = 500.0000610351563,
-		["top"] = 904.9998779296875,
-		["left"] = 1767.499877929688,
-		["width"] = 700,
-	},
-	["locked"] = true,
 	["tree"] = {
 		["groups"] = {
 		},
 		["scrollvalue"] = 0,
 		["treesizable"] = true,
-		["selected"] = 4118338490,
+		["selected"] = 1903778637,
 		["treewidth"] = 175,
 		["fullwidth"] = 666.0001220703125,
 	},
 }
 AngryAssign_Config = {
+	["fontHeight"] = 16,
+	["fontFlags"] = "OUTLINE",
 }
