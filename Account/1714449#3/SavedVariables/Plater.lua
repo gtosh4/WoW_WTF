@@ -6909,21 +6909,21 @@ PlaterDB = {
 					"Voidspawn Annihilator", -- [1]
 					"Ny'alotha, the Waking City", -- [2]
 				},
-				[150712] = {
-					"Trixie Tazer", -- [1]
-					"Operation: Mechagon", -- [2]
+				[148665] = {
+					"Rastari Royal Guard", -- [1]
+					"Battle of Dazar'alor", -- [2]
 				},
 				[95602] = {
 					"Mystic Velruun", -- [1]
 					"Hellfire Citadel", -- [2]
 				},
-				[148665] = {
-					"Rastari Royal Guard", -- [1]
-					"Battle of Dazar'alor", -- [2]
-				},
 				["134417"] = {
 					"Deepsea Ritualist", -- [1]
 					"Shrine of the Storm", -- [2]
+				},
+				[150712] = {
+					"Trixie Tazer", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[89] = {
 					"Infernal", -- [1]
@@ -12749,12 +12749,11 @@ PlaterDB = {
 					["source"] = "Akizarose",
 					["npcID"] = 0,
 				},
-				[246152] = {
-					["type"] = "BUFF",
-					["source"] = "Paxington-Illidan",
-					["encounterID"] = 2344,
+				[342745] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+					["type"] = "BUFF",
+					["source"] = "Infectious Zombie",
+					["npcID"] = 171447,
 				},
 				[51271] = {
 					["source"] = "Whaliens",
@@ -12762,9 +12761,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[289523] = {
-					["source"] = "Ghüldan",
+				[246152] = {
 					["type"] = "BUFF",
+					["source"] = "Paxington-Illidan",
+					["encounterID"] = 2344,
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -13853,11 +13853,11 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 53006,
 				},
-				[342745] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[289523] = {
+					["source"] = "Ghüldan",
 					["type"] = "BUFF",
-					["source"] = "Infectious Zombie",
-					["npcID"] = 171447,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[348] = {
 					["source"] = "Yubbie",
@@ -14301,8 +14301,654 @@ PlaterDB = {
 				},
 			},
 			["health_animation_time_dilatation"] = 2.8699998855591,
+			["npc_colors"] = {
+				["125977"] = {
+					true, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["128967"] = {
+					true, -- [1]
+					false, -- [2]
+					"palegreen", -- [3]
+				},
+				["132491"] = {
+					true, -- [1]
+					false, -- [2]
+					"palegreen", -- [3]
+				},
+				["122969"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["122984"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["131677"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["134417"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["137516"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightsalmon", -- [3]
+				},
+				["133432"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["134174"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["131666"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["136549"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightcoral", -- [3]
+				},
+				["128435"] = {
+					false, -- [1]
+					false, -- [2]
+					"aqua", -- [3]
+				},
+				["129559"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["134418"] = {
+					true, -- [1]
+					false, -- [2]
+					"dodgerblue", -- [3]
+				},
+				["136006"] = {
+					false, -- [1]
+					false, -- [2]
+					"blue", -- [3]
+				},
+				["129227"] = {
+					false, -- [1]
+					false, -- [2]
+					"maroon", -- [3]
+				},
+				["135365"] = {
+					true, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["134157"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["136249"] = {
+					true, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["135204"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["131670"] = {
+					true, -- [1]
+					false, -- [2]
+					"palegreen", -- [3]
+				},
+				["137486"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["137484"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["127106"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["129600"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["135329"] = {
+					true, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["139425"] = {
+					false, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["136934"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["134599"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["127315"] = {
+					true, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["136005"] = {
+					false, -- [1]
+					false, -- [2]
+					"blue", -- [3]
+				},
+				["139422"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["129369"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightsalmon", -- [3]
+				},
+				["134012"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightsalmon", -- [3]
+				},
+				["134137"] = {
+					true, -- [1]
+					false, -- [2]
+					"dodgerblue", -- [3]
+				},
+				["122971"] = {
+					false, -- [1]
+					false, -- [2]
+					"magenta", -- [3]
+				},
+				["137103"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightsalmon", -- [3]
+				},
+				["135263"] = {
+					true, -- [1]
+					false, -- [2]
+					"maroon", -- [3]
+				},
+				["126918"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["133685"] = {
+					true, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["134150"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["131817"] = {
+					false, -- [1]
+					false, -- [2]
+					"magenta", -- [3]
+				},
+				["134990"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["128969"] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
+				["136214"] = {
+					true, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["132532"] = {
+					true, -- [1]
+					false, -- [2]
+					"palegreen", -- [3]
+				},
+				["134144"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightgreen", -- [3]
+				},
+				["134331"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["136295"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["132126"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["134232"] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
+				["137713"] = {
+					true, -- [1]
+					false, -- [2]
+					"paleturquoise", -- [3]
+				},
+				["127111"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["135239"] = {
+					true, -- [1]
+					false, -- [2]
+					"paleturquoise", -- [3]
+				},
+				["130488"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightsalmon", -- [3]
+				},
+				["134364"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["130435"] = {
+					false, -- [1]
+					false, -- [2]
+					"magenta", -- [3]
+				},
+				["138187"] = {
+					true, -- [1]
+					false, -- [2]
+					"paleturquoise", -- [3]
+				},
+				["137511"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["133835"] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
+				["135258"] = {
+					false, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["144071"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["134514"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightgreen", -- [3]
+				},
+				["137521"] = {
+					true, -- [1]
+					false, -- [2]
+					"cornflowerblue", -- [3]
+				},
+				["138061"] = {
+					false, -- [1]
+					false, -- [2]
+					"magenta", -- [3]
+				},
+				["134629"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["135167"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["134139"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["126919"] = {
+					true, -- [1]
+					false, -- [2]
+					"dodgerblue", -- [3]
+				},
+				["131858"] = {
+					true, -- [1]
+					false, -- [2]
+					"dodgerblue", -- [3]
+				},
+				["131685"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["138255"] = {
+					true, -- [1]
+					false, -- [2]
+					"maroon", -- [3]
+				},
+				["136076"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightcoral", -- [3]
+				},
+				["133593"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["137517"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["138063"] = {
+					false, -- [1]
+					false, -- [2]
+					"blue", -- [3]
+				},
+				["141284"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["141285"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightgreen", -- [3]
+				},
+				["134251"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["137478"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["129367"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["135235"] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
+				["133870"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightcoral", -- [3]
+				},
+				["133852"] = {
+					true, -- [1]
+					false, -- [2]
+					"olivedrab", -- [3]
+				},
+				["129602"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["130436"] = {
+					false, -- [1]
+					false, -- [2]
+					"aqua", -- [3]
+				},
+				["133436"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["133912"] = {
+					true, -- [1]
+					false, -- [2]
+					"dodgerblue", -- [3]
+				},
+				["131586"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["131585"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["137716"] = {
+					false, -- [1]
+					false, -- [2]
+					"blue", -- [3]
+				},
+				["136353"] = {
+					true, -- [1]
+					false, -- [2]
+					"royalblue", -- [3]
+				},
+				["129366"] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
+				["129529"] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
+				["135474"] = {
+					true, -- [1]
+					false, -- [2]
+					"dodgerblue", -- [3]
+				},
+				["131587"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["129370"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["135007"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["138064"] = {
+					false, -- [1]
+					false, -- [2]
+					"blue", -- [3]
+				},
+				["131436"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["136139"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["134701"] = {
+					true, -- [1]
+					false, -- [2]
+					"maroon", -- [3]
+				},
+				["126928"] = {
+					false, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["136470"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["122973"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["137830"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["127757"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightcoral", -- [3]
+				},
+				["134338"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["128434"] = {
+					true, -- [1]
+					false, -- [2]
+					"palegreen", -- [3]
+				},
+				["129788"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["122972"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightsalmon", -- [3]
+				},
+				["134600"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["130404"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["129547"] = {
+					true, -- [1]
+					false, -- [2]
+					"olivedrab", -- [3]
+				},
+				["138465"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightcoral", -- [3]
+				},
+				["131818"] = {
+					false, -- [1]
+					false, -- [2]
+					"plum", -- [3]
+				},
+				["135241"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["130485"] = {
+					true, -- [1]
+					false, -- [2]
+					"peru", -- [3]
+				},
+				["139949"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["133430"] = {
+					true, -- [1]
+					false, -- [2]
+					"cornflowerblue", -- [3]
+				},
+				["131492"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["141283"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+				["136186"] = {
+					true, -- [1]
+					false, -- [2]
+					"honeydew", -- [3]
+				},
+				["133345"] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
+				["134284"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightskyblue", -- [3]
+				},
+				["133482"] = {
+					true, -- [1]
+					false, -- [2]
+					"maroon", -- [3]
+				},
+				["130661"] = {
+					true, -- [1]
+					false, -- [2]
+					"lightgreen", -- [3]
+				},
+				["134158"] = {
+					true, -- [1]
+					false, -- [2]
+					"navajowhite", -- [3]
+				},
+			},
 			["aura_timer_text_font"] = "Friz Quadrata TT",
-			["indicator_rare"] = false,
 			["pet_height_scale"] = 0.99999994039536,
 			["minor_height_scale"] = 0.99999994039536,
 			["cast_statusbar_texture"] = "Smooth v2",
@@ -16208,20 +16854,13 @@ PlaterDB = {
 			["aura2_grow_direction"] = 1,
 			["aura_width"] = 22,
 			["aura_height2"] = 14,
-			["version"] = 5,
+			["extra_icon_caster_name"] = false,
 			["health_statusbar_bgcolor"] = {
 				0.0431372, -- [1]
 				0.0431372, -- [2]
 				0.0431372, -- [3]
 				1, -- [4]
 			},
-			["extra_icon_caster_name"] = false,
-			["resources"] = {
-				["scale"] = 0.79999995231628,
-				["y_offset"] = 1,
-				["y_offset_target"] = 9,
-			},
-			["login_counter"] = 1763,
 			["script_data_trash"] = {
 				{
 					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable)\n    \n    --settings (you may need /reload if some configs isn't applied immediately)    \n    --change the nameplate color to this if allowed\n    envTable.CanChangeNameplateColor = false --change to true to change the color\n    envTable.NameplateColor = \"pink\"\n    envTable.NameplateSizeOffset = 6 --increase the nameplate height by this value\n    envTable.GlowAlpha = 0.5 --amount of alpha in the outside glow effect\n    \n    --create a glow effect around the nameplate\n    envTable.glowEffect = envTable.glowEffect or Plater.CreateNameplateGlow (unitFrame.healthBar, envTable.NameplateColor)\n    envTable.glowEffect:SetOffset (-27, 25, 9, -11)\n    --envTable.glowEffect:Show() --envTable.glowEffect:Hide() --\n    \n    --set the glow effect alpha\n    envTable.glowEffect:SetAlpha (envTable.GlowAlpha)\n    \nend\n\n--[=[\nUsing spellIDs for multi-language support\n\n135029 - A Knot of Snakes (Temple of Sethraliss)\n135388 - A Knot of Snakes (Temple of Sethraliss)\n134612 - Grasping Tentacles (Shrine of the Storm)\n133361 - Wasting Servant (Waycrest Manor)\n136330 - Soul Thorns (Waycrest Manor)\n130896 - Blackout Barrel (Freehold)\n129758 - Irontide Grenadier (Freehold)\n131009 - Spirit of Gold (Atal`Dazar)\n--]=]",
@@ -18923,6 +19562,13 @@ PlaterDB = {
 					["__TrashAt"] = 1605329886,
 				}, -- [29]
 			},
+			["resources"] = {
+				["scale"] = 0.79999995231628,
+				["y_offset"] = 1,
+				["y_offset_target"] = 9,
+			},
+			["login_counter"] = 1763,
+			["version"] = 5,
 			["aura_cooldown_show_swipe"] = false,
 			["pet_width_scale"] = 0.99999994039536,
 			["cast_statusbar_color"] = {
@@ -19025,653 +19671,7 @@ PlaterDB = {
 			["cast_statusbar_spark_offset"] = -13,
 			["aura_alpha"] = 0.84999996423721,
 			["aura_consolidate"] = true,
-			["npc_colors"] = {
-				["125977"] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["128967"] = {
-					true, -- [1]
-					false, -- [2]
-					"palegreen", -- [3]
-				},
-				["132491"] = {
-					true, -- [1]
-					false, -- [2]
-					"palegreen", -- [3]
-				},
-				["122969"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["122984"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["131677"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["134417"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["137516"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightsalmon", -- [3]
-				},
-				["133432"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["134174"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["131666"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["136549"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightcoral", -- [3]
-				},
-				["128435"] = {
-					false, -- [1]
-					false, -- [2]
-					"aqua", -- [3]
-				},
-				["129559"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["134418"] = {
-					true, -- [1]
-					false, -- [2]
-					"dodgerblue", -- [3]
-				},
-				["136006"] = {
-					false, -- [1]
-					false, -- [2]
-					"blue", -- [3]
-				},
-				["129227"] = {
-					false, -- [1]
-					false, -- [2]
-					"maroon", -- [3]
-				},
-				["135365"] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["134157"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["136249"] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["135204"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["131670"] = {
-					true, -- [1]
-					false, -- [2]
-					"palegreen", -- [3]
-				},
-				["137486"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["137484"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["127106"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["129600"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["135329"] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["139425"] = {
-					false, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["136934"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["134599"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["127315"] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["136005"] = {
-					false, -- [1]
-					false, -- [2]
-					"blue", -- [3]
-				},
-				["139422"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["129369"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightsalmon", -- [3]
-				},
-				["134012"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightsalmon", -- [3]
-				},
-				["134137"] = {
-					true, -- [1]
-					false, -- [2]
-					"dodgerblue", -- [3]
-				},
-				["122971"] = {
-					false, -- [1]
-					false, -- [2]
-					"magenta", -- [3]
-				},
-				["137103"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightsalmon", -- [3]
-				},
-				["135263"] = {
-					true, -- [1]
-					false, -- [2]
-					"maroon", -- [3]
-				},
-				["126918"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["133685"] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["134150"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["131817"] = {
-					false, -- [1]
-					false, -- [2]
-					"magenta", -- [3]
-				},
-				["134990"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["128969"] = {
-					true, -- [1]
-					false, -- [2]
-					"goldenrod", -- [3]
-				},
-				["136214"] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["132532"] = {
-					true, -- [1]
-					false, -- [2]
-					"palegreen", -- [3]
-				},
-				["134144"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightgreen", -- [3]
-				},
-				["134331"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["136295"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["132126"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["134232"] = {
-					true, -- [1]
-					false, -- [2]
-					"goldenrod", -- [3]
-				},
-				["137713"] = {
-					true, -- [1]
-					false, -- [2]
-					"paleturquoise", -- [3]
-				},
-				["127111"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["135239"] = {
-					true, -- [1]
-					false, -- [2]
-					"paleturquoise", -- [3]
-				},
-				["130488"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightsalmon", -- [3]
-				},
-				["134364"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["130435"] = {
-					false, -- [1]
-					false, -- [2]
-					"magenta", -- [3]
-				},
-				["138187"] = {
-					true, -- [1]
-					false, -- [2]
-					"paleturquoise", -- [3]
-				},
-				["137511"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["133835"] = {
-					true, -- [1]
-					false, -- [2]
-					"goldenrod", -- [3]
-				},
-				["135258"] = {
-					false, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["144071"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["134514"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightgreen", -- [3]
-				},
-				["137521"] = {
-					true, -- [1]
-					false, -- [2]
-					"cornflowerblue", -- [3]
-				},
-				["138061"] = {
-					false, -- [1]
-					false, -- [2]
-					"magenta", -- [3]
-				},
-				["134629"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["135167"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["134139"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["126919"] = {
-					true, -- [1]
-					false, -- [2]
-					"dodgerblue", -- [3]
-				},
-				["131858"] = {
-					true, -- [1]
-					false, -- [2]
-					"dodgerblue", -- [3]
-				},
-				["131685"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["138255"] = {
-					true, -- [1]
-					false, -- [2]
-					"maroon", -- [3]
-				},
-				["136076"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightcoral", -- [3]
-				},
-				["133593"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["137517"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["138063"] = {
-					false, -- [1]
-					false, -- [2]
-					"blue", -- [3]
-				},
-				["141284"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["141285"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightgreen", -- [3]
-				},
-				["134251"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["137478"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["129367"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["135235"] = {
-					true, -- [1]
-					false, -- [2]
-					"goldenrod", -- [3]
-				},
-				["133870"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightcoral", -- [3]
-				},
-				["133852"] = {
-					true, -- [1]
-					false, -- [2]
-					"olivedrab", -- [3]
-				},
-				["129602"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["130436"] = {
-					false, -- [1]
-					false, -- [2]
-					"aqua", -- [3]
-				},
-				["133436"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["133912"] = {
-					true, -- [1]
-					false, -- [2]
-					"dodgerblue", -- [3]
-				},
-				["131586"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["131585"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["137716"] = {
-					false, -- [1]
-					false, -- [2]
-					"blue", -- [3]
-				},
-				["129529"] = {
-					true, -- [1]
-					false, -- [2]
-					"goldenrod", -- [3]
-				},
-				["129366"] = {
-					true, -- [1]
-					false, -- [2]
-					"goldenrod", -- [3]
-				},
-				["131492"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["135474"] = {
-					true, -- [1]
-					false, -- [2]
-					"dodgerblue", -- [3]
-				},
-				["131587"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["129370"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["135007"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["138064"] = {
-					false, -- [1]
-					false, -- [2]
-					"blue", -- [3]
-				},
-				["131436"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["136139"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["134701"] = {
-					true, -- [1]
-					false, -- [2]
-					"maroon", -- [3]
-				},
-				["126928"] = {
-					false, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["136470"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["122973"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["137830"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["127757"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightcoral", -- [3]
-				},
-				["134338"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["128434"] = {
-					true, -- [1]
-					false, -- [2]
-					"palegreen", -- [3]
-				},
-				["129788"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["122972"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightsalmon", -- [3]
-				},
-				["134600"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["130404"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["129547"] = {
-					true, -- [1]
-					false, -- [2]
-					"olivedrab", -- [3]
-				},
-				["138465"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightcoral", -- [3]
-				},
-				["131818"] = {
-					false, -- [1]
-					false, -- [2]
-					"plum", -- [3]
-				},
-				["135241"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["130485"] = {
-					true, -- [1]
-					false, -- [2]
-					"peru", -- [3]
-				},
-				["139949"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["133430"] = {
-					true, -- [1]
-					false, -- [2]
-					"cornflowerblue", -- [3]
-				},
-				["136353"] = {
-					true, -- [1]
-					false, -- [2]
-					"royalblue", -- [3]
-				},
-				["141283"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-				["136186"] = {
-					true, -- [1]
-					false, -- [2]
-					"honeydew", -- [3]
-				},
-				["133345"] = {
-					true, -- [1]
-					false, -- [2]
-					"goldenrod", -- [3]
-				},
-				["134284"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightskyblue", -- [3]
-				},
-				["133482"] = {
-					true, -- [1]
-					false, -- [2]
-					"maroon", -- [3]
-				},
-				["130661"] = {
-					true, -- [1]
-					false, -- [2]
-					"lightgreen", -- [3]
-				},
-				["134158"] = {
-					true, -- [1]
-					false, -- [2]
-					"navajowhite", -- [3]
-				},
-			},
+			["indicator_rare"] = false,
 			["ui_parent_scale_tune"] = 1.562500034924597,
 			["cast_statusbar_spark_width"] = 25,
 			["cast_statusbar_spark_color"] = {
@@ -22461,8 +22461,8 @@ PlaterDB = {
 					["big_actortitle_text_font"] = "Accidental Presidency",
 					["click_through"] = true,
 					["power_percent_text_font"] = "Friz Quadrata TT",
-					["percent_text_size"] = 8,
 					["percent_show_health"] = false,
+					["percent_text_size"] = 8,
 					["big_actorname_text_font"] = "Accidental Presidency",
 					["spellname_text_font"] = "Friz Quadrata TT",
 					["level_text_font"] = "Accidental Presidency",
@@ -22534,21 +22534,21 @@ PlaterDB = {
 						0, -- [3]
 					},
 					["all_names"] = true,
-					["quest_enabled"] = true,
-					["spellname_text_size"] = 9,
-					["percent_show_health"] = true,
-					["level_text_alpha"] = 0.29999998211861,
 					["actorname_text_anchor"] = {
 						["y"] = -3,
 						["x"] = -1,
 						["side"] = 1,
 					},
 					["actorname_text_size"] = 11,
-					["big_actortitle_text_outline"] = "OUTLINE",
 					["percent_text_enabled"] = true,
+					["percent_show_health"] = true,
+					["level_text_alpha"] = 0.29999998211861,
+					["power_percent_text_font"] = "Accidental Presidency",
+					["big_actortitle_text_outline"] = "OUTLINE",
+					["spellname_text_size"] = 9,
 					["percent_text_font"] = "Accidental Presidency",
 					["buff_frame_y_offset"] = 0,
-					["power_percent_text_font"] = "Accidental Presidency",
+					["quest_enabled"] = true,
 					["percent_text_outline"] = "NONE",
 					["spellpercent_text_enabled"] = true,
 					["percent_text_size"] = 8,
@@ -22621,21 +22621,21 @@ PlaterDB = {
 						0, -- [3]
 					},
 					["spellpercent_text_enabled"] = true,
-					["health_incombat"] = {
-						nil, -- [1]
-						12, -- [2]
-					},
-					["percent_text_font"] = "Accidental Presidency",
 					["actorname_text_anchor"] = {
 						["y"] = -3,
 						["x"] = -1,
 						["side"] = 1,
 					},
+					["percent_text_font"] = "Accidental Presidency",
 					["percent_text_size"] = 8,
-					["percent_text_outline"] = "NONE",
 					["level_text_alpha"] = 0.29999998211861,
+					["percent_text_outline"] = "NONE",
 					["actorname_text_font"] = "Accidental Presidency",
 					["percent_text_enabled"] = true,
+					["health_incombat"] = {
+						nil, -- [1]
+						12, -- [2]
+					},
 					["spellname_text_size"] = 9,
 					["health"] = {
 						120, -- [1]
@@ -22700,8 +22700,8 @@ PlaterDB = {
 					["percent_text_size"] = 8,
 					["actorname_text_spacing"] = 10,
 					["percent_text_font"] = "Accidental Presidency",
-					["quest_enabled"] = true,
 					["actorname_text_size"] = 11,
+					["quest_enabled"] = true,
 					["percent_text_outline"] = "NONE",
 					["actorname_text_anchor"] = {
 						["y"] = -3,
@@ -22742,13 +22742,13 @@ PlaterDB = {
 						0.95294117647059, -- [1]
 						[3] = 0.9921568627451,
 					},
-					["level_text_alpha"] = 0.29999998211861,
-					["actorname_text_outline"] = "OUTLINE",
 					["actorname_text_anchor"] = {
 						["y"] = -3,
 						["x"] = -1,
 						["side"] = 1,
 					},
+					["actorname_text_outline"] = "OUTLINE",
+					["level_text_alpha"] = 0.29999998211861,
 					["spellpercent_text_anchor"] = {
 						["side"] = 5,
 						["x"] = 1,
@@ -22759,34 +22759,34 @@ PlaterDB = {
 						["x"] = 1,
 					},
 					["percent_text_font"] = "Accidental Presidency",
-					["power_percent_text_font"] = "Accidental Presidency",
-					["health_incombat"] = {
-						nil, -- [1]
-						14, -- [2]
-					},
+					["spellname_text_font"] = "Accidental Presidency",
 					["cast_incombat"] = {
 						nil, -- [1]
 						8, -- [2]
 					},
-					["spellname_text_outline"] = "NONE",
 					["percent_text_outline"] = "NONE",
-					["big_actorname_text_font"] = "Accidental Presidency",
+					["spellname_text_outline"] = "NONE",
+					["spellpercent_text_outline"] = "NONE",
+					["health_incombat"] = {
+						nil, -- [1]
+						14, -- [2]
+					},
 					["spellname_text_size"] = 9,
 					["health"] = {
 						120, -- [1]
 						14, -- [2]
 					},
-					["spellpercent_text_outline"] = "NONE",
-					["spellname_text_font"] = "Accidental Presidency",
+					["spellname_text_anchor"] = {
+						["y"] = 1,
+						["side"] = 3,
+					},
+					["big_actorname_text_font"] = "Accidental Presidency",
 					["percent_text_anchor"] = {
 						["y"] = 1,
 						["side"] = 3,
 					},
 					["level_text_font"] = "Accidental Presidency",
-					["spellname_text_anchor"] = {
-						["y"] = 1,
-						["side"] = 3,
-					},
+					["power_percent_text_font"] = "Accidental Presidency",
 				},
 			},
 			["indicator_raidmark_anchor"] = {
@@ -30677,10 +30677,10 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[311466] = {
-					["source"] = "Rizir",
-					["type"] = "BUFF",
+				[87204] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Neverholy-Mal'Ganis",
 					["npcID"] = 0,
 				},
 				[115151] = {
@@ -30688,15 +30688,15 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[87204] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Neverholy-Mal'Ganis",
-					["npcID"] = 0,
-				},
 				[307122] = {
 					["source"] = "Eagleone",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[203814] = {
+					["source"] = "Frogrider",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[54861] = {
@@ -30710,8 +30710,8 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[203814] = {
-					["source"] = "Frogrider",
+				[345696] = {
+					["source"] = "Zertan",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -30719,12 +30719,6 @@ PlaterDB = {
 				[93402] = {
 					["source"] = "Djcowled-Mal'Ganis",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[345696] = {
-					["source"] = "Zertan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[5225] = {
@@ -30739,12 +30733,18 @@ PlaterDB = {
 					["source"] = "Rahkun-BleedingHollow",
 					["npcID"] = 0,
 				},
+				[215598] = {
+					["source"] = "Deathnix",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
 				[98008] = {
 					["source"] = "Toshaman",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[215598] = {
+				[215607] = {
 					["source"] = "Deathnix",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
@@ -30768,10 +30768,10 @@ PlaterDB = {
 					["source"] = "Nightlørd-Drakkari",
 					["npcID"] = 0,
 				},
-				[215607] = {
-					["source"] = "Deathnix",
-					["type"] = "BUFF",
+				[324226] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Rahkun-BleedingHollow",
 					["npcID"] = 0,
 				},
 				[2580] = {
@@ -30780,10 +30780,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[324226] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Rahkun-BleedingHollow",
+				[117952] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Xaida-Mal'Ganis",
 					["npcID"] = 0,
 				},
 				[45438] = {
@@ -30797,9 +30796,10 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[117952] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Xaida-Mal'Ganis",
+				[205025] = {
+					["source"] = "Leotos",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[35395] = {
@@ -30809,12 +30809,6 @@ PlaterDB = {
 				},
 				[334463] = {
 					["source"] = "Sacrad",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[205025] = {
-					["source"] = "Leotos",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -30836,6 +30830,12 @@ PlaterDB = {
 					["source"] = "Nightlørd-Drakkari",
 					["npcID"] = 0,
 				},
+				[348139] = {
+					["source"] = "Wuhanundead",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
 				[5246] = {
 					["source"] = "Ismashbuton-Kel'Thuzad",
 					["event"] = "SPELL_CAST_SUCCESS",
@@ -30852,40 +30852,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[105686] = {
-					["source"] = "Zîllâ",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[348139] = {
-					["source"] = "Wuhanundead",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[80354] = {
-					["source"] = "Voxris",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311484] = {
-					["source"] = "Koniex",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
 				[345541] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Eppiccqt",
-					["npcID"] = 0,
-				},
-				[328837] = {
-					["source"] = "Witikho-Ragnaros",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[339848] = {
@@ -30893,6 +30863,35 @@ PlaterDB = {
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 17252,
+				},
+				[80354] = {
+					["source"] = "Voxris",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[321390] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Crippledhuby",
+					["npcID"] = 0,
+				},
+				[118297] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Primal Fire Elemental",
+					["npcID"] = 61029,
+				},
+				[328837] = {
+					["source"] = "Witikho-Ragnaros",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[105686] = {
+					["source"] = "Zîllâ",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[113746] = {
 					["source"] = "Skywalkerx-Stormrage",
@@ -30906,10 +30905,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[308430] = {
-					["source"] = "Taarzan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[30455] = {
+					["source"] = "Adsol-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[343679] = {
@@ -30923,10 +30921,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[321390] = {
+				[12975] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Crippledhuby",
+					["source"] = "Taurache-Turalyon",
 					["npcID"] = 0,
 				},
 				[257622] = {
@@ -30935,10 +30933,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[236645] = {
-					["source"] = "Abrogation",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[202028] = {
+					["source"] = "Veryhigh",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[333957] = {
@@ -30953,14 +30950,15 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[118297] = {
+				[281404] = {
+					["source"] = "Ponamic",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Primal Fire Elemental",
-					["npcID"] = 61029,
+					["npcID"] = 0,
 				},
-				[30455] = {
-					["source"] = "Adsol-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[206572] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Taurache-Turalyon",
 					["npcID"] = 0,
 				},
 				[53563] = {
@@ -30975,15 +30973,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[12975] = {
+				[152173] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Taurache-Turalyon",
+					["source"] = "Peepopunch-Mal'Ganis",
 					["npcID"] = 0,
 				},
-				[202028] = {
-					["source"] = "Veryhigh",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[312372] = {
+					["source"] = "Klennthyl",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[196725] = {
@@ -30992,9 +30991,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[281404] = {
-					["source"] = "Ponamic",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[297037] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Zorrez",
 					["npcID"] = 0,
 				},
 				[324748] = {
@@ -31024,9 +31024,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[206572] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
+				[6572] = {
+					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Taurache-Turalyon",
 					["npcID"] = 0,
 				},
@@ -31046,10 +31045,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[152173] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Peepopunch-Mal'Ganis",
+				[45524] = {
+					["source"] = "Mosuso-Quel'Thalas",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[336009] = {
@@ -31064,11 +31062,11 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[312372] = {
-					["source"] = "Klennthyl",
-					["type"] = "BUFF",
+				[61858] = {
+					["source"] = "Wintergrasp Catapult",
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+					["npcID"] = 27881,
 				},
 				[44544] = {
 					["source"] = "Adsol-Ragnaros",
@@ -31076,15 +31074,15 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[2948] = {
-					["source"] = "Abrogation",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[297037] = {
+				[274837] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Zorrez",
+					["source"] = "Hierbatero-Drakkari",
+					["npcID"] = 0,
+				},
+				[1822] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hierbatero-Drakkari",
 					["npcID"] = 0,
 				},
 				[15286] = {
@@ -31093,15 +31091,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[347601] = {
-					["source"] = "Dezza",
-					["type"] = "BUFF",
+				[75532] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Mudsack",
 					["npcID"] = 0,
 				},
-				[325275] = {
-					["source"] = "Trumporc",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[317589] = {
+					["source"] = "Adsol-Ragnaros",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[307865] = {
@@ -31119,10 +31118,9 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[317589] = {
-					["source"] = "Adsol-Ragnaros",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[22568] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hierbatero-Drakkari",
 					["npcID"] = 0,
 				},
 				[116947] = {
@@ -31131,8 +31129,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 60561,
 				},
-				[325787] = {
-					["source"] = "Mictlante-Quel'Thalas",
+				[236645] = {
+					["source"] = "Abrogation",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -31149,11 +31147,11 @@ PlaterDB = {
 					["source"] = "Ftyue",
 					["npcID"] = 0,
 				},
-				[61858] = {
-					["source"] = "Wintergrasp Catapult",
-					["type"] = "DEBUFF",
+				[155722] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 27881,
+					["type"] = "DEBUFF",
+					["source"] = "Hierbatero-Drakkari",
+					["npcID"] = 0,
 				},
 				[330896] = {
 					["source"] = "Holaay-Mal'Ganis",
@@ -31167,10 +31165,9 @@ PlaterDB = {
 					["source"] = "Freëzer-Zul'jin",
 					["npcID"] = 0,
 				},
-				[311477] = {
-					["source"] = "Incywincy-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[339283] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kayteland",
 					["npcID"] = 0,
 				},
 				[308509] = {
@@ -31190,9 +31187,10 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[22568] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Hierbatero-Drakkari",
+				[118699] = {
+					["source"] = "Ashleyashley-AeriePeak",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[144787] = {
@@ -31207,9 +31205,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[45524] = {
-					["source"] = "Mosuso-Quel'Thalas",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[209746] = {
+					["source"] = "Djcowled-Mal'Ganis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[217200] = {
@@ -31228,16 +31227,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[26297] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[53390] = {
+					["source"] = "Mahashamji-Quel'Thalas",
 					["type"] = "BUFF",
-					["source"] = "Irtluzbek-Mal'Ganis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[274837] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[188031] = {
+					["source"] = "Sakurazuka-Shu'halo",
 					["type"] = "BUFF",
-					["source"] = "Hierbatero-Drakkari",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[307871] = {
@@ -31251,9 +31250,10 @@ PlaterDB = {
 					["source"] = "Primal Fire Elemental",
 					["npcID"] = 61029,
 				},
-				[1822] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Hierbatero-Drakkari",
+				[193538] = {
+					["source"] = "Ouchawall",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[206966] = {
@@ -31261,10 +31261,10 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[155722] = {
+				[177931] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Hierbatero-Drakkari",
+					["type"] = "BUFF",
+					["source"] = "Adalwolf",
 					["npcID"] = 0,
 				},
 				[345230] = {
@@ -31285,9 +31285,9 @@ PlaterDB = {
 					["source"] = "Mazorlaon-EarthenRing",
 					["npcID"] = 0,
 				},
-				[339283] = {
+				[2948] = {
+					["source"] = "Abrogation",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kayteland",
 					["npcID"] = 0,
 				},
 				[345231] = {
@@ -31301,22 +31301,20 @@ PlaterDB = {
 					["source"] = "Tahosad",
 					["npcID"] = 0,
 				},
-				[311465] = {
-					["source"] = "Snaachan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[306830] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hubbax-Mal'Ganis",
 					["npcID"] = 0,
 				},
-				[209746] = {
-					["source"] = "Djcowled-Mal'Ganis",
-					["type"] = "BUFF",
+				[102351] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Dromnin-Kel'Thuzad",
 					["npcID"] = 0,
 				},
-				[118699] = {
-					["source"] = "Ashleyashley-AeriePeak",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[308899] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Tahosad",
 					["npcID"] = 0,
 				},
 				[198839] = {
@@ -31343,26 +31341,27 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[308899] = {
+				[325275] = {
+					["source"] = "Trumporc",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Tahosad",
 					["npcID"] = 0,
 				},
-				[311458] = {
+				[325787] = {
+					["source"] = "Mictlante-Quel'Thalas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[218164] = {
+					["source"] = "Sekhar-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[202770] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Andymal",
+					["source"] = "Liasi-Ragnaros",
 					["npcID"] = 0,
-				},
-				[201764] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Asuro-Mal'Ganis",
-					["npcID"] = 0,
-				},
-				[6358] = {
-					["source"] = "Aelriel",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 1863,
 				},
 				[207736] = {
 					["source"] = "Unperceived-Mal'Ganis",
@@ -31382,15 +31381,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[204157] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Mazorlaon-EarthenRing",
+				[113942] = {
+					["source"] = "Looneytudez",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[53390] = {
-					["source"] = "Mahashamji-Quel'Thalas",
-					["type"] = "BUFF",
+				[102560] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Liasi-Ragnaros",
 					["npcID"] = 0,
 				},
 				[311460] = {
@@ -31399,22 +31399,20 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[193538] = {
-					["source"] = "Ouchawall",
+				[323547] = {
+					["source"] = "Jenkembreath-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[48018] = {
+					["source"] = "Fizie-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[177931] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Adalwolf",
-					["npcID"] = 0,
-				},
-				[102351] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Dromnin-Kel'Thuzad",
+				[106839] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hierbatero-Drakkari",
 					["npcID"] = 0,
 				},
 				[119381] = {
@@ -31422,9 +31420,9 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[218164] = {
-					["source"] = "Sekhar-Mal'Ganis",
+				[5211] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dromnin-Kel'Thuzad",
 					["npcID"] = 0,
 				},
 				[253595] = {
@@ -31445,10 +31443,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[202770] = {
+				[148564] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Liasi-Ragnaros",
+					["source"] = "Spheré",
 					["npcID"] = 0,
 				},
 				[320674] = {
@@ -31456,21 +31454,21 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[113942] = {
-					["source"] = "Looneytudez",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[102560] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Liasi-Ragnaros",
-					["npcID"] = 0,
-				},
-				[323547] = {
-					["source"] = "Jenkembreath-Mal'Ganis",
+				[47541] = {
+					["source"] = "Solthenis",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[329666] = {
+					["source"] = "Witikho-Ragnaros",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307187] = {
+					["source"] = "Sìnìstêr",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[198837] = {
@@ -31478,10 +31476,9 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 99541,
 				},
-				[197277] = {
-					["source"] = "Snoopdogsty-Drakkari",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[204157] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mazorlaon-EarthenRing",
 					["npcID"] = 0,
 				},
 				[311464] = {
@@ -31496,10 +31493,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[48018] = {
-					["source"] = "Fizie-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[209693] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sayohshun-Mal'Ganis",
 					["npcID"] = 0,
 				},
 				[195457] = {
@@ -31507,10 +31503,10 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[232559] = {
+				[311465] = {
+					["source"] = "Snaachan",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Hierbatero-Drakkari",
 					["npcID"] = 0,
 				},
 				[57724] = {
@@ -31519,18 +31515,20 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[278244] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Fingbm",
-					["npcID"] = 0,
-				},
-				[212423] = {
-					["source"] = "Risen Skulker",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 99541,
+				[264735] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Venado",
+					["npcID"] = 165189,
 				},
 				[53822] = {
 					["source"] = "Apöcälyptïk",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311466] = {
+					["source"] = "Rizir",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -31540,15 +31538,15 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[19574] = {
-					["source"] = "Witikho-Ragnaros",
-					["type"] = "BUFF",
+				[270339] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Gough-Stormscale",
 					["npcID"] = 0,
 				},
-				[47541] = {
-					["source"] = "Solthenis",
+				[83243] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Gough-Stormscale",
 					["npcID"] = 0,
 				},
 				[73325] = {
@@ -31567,16 +31565,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[210053] = {
-					["source"] = "Weedsong",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
 				[188550] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Lishlash",
+					["npcID"] = 0,
+				},
+				[311468] = {
+					["source"] = "Chitogefan",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[344732] = {
@@ -31584,15 +31582,16 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[115175] = {
-					["source"] = "Laylä-Quel'Thalas",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[329666] = {
-					["source"] = "Witikho-Ragnaros",
+				[32612] = {
+					["source"] = "Amelthi-Kel'Thuzad",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[343960] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Ohmylord",
 					["npcID"] = 0,
 				},
 				[331939] = {
@@ -31607,15 +31606,15 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[186254] = {
-					["source"] = "Witikho-Ragnaros",
+				[1719] = {
+					["source"] = "Deuzz-Quel'Thalas",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[307187] = {
-					["source"] = "Sìnìstêr",
-					["type"] = "BUFF",
+				[115994] = {
+					["source"] = "Dietz-Quel'Thalas",
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -31625,11 +31624,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[199042] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Taurache-Turalyon",
-					["npcID"] = 0,
+				[6358] = {
+					["source"] = "Aelriel",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 1863,
 				},
 				[260708] = {
 					["source"] = "Viejospada-Ragnaros",
@@ -31649,15 +31647,15 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[49966] = {
+				[3411] = {
+					["source"] = "Ismashbuton-Kel'Thuzad",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Venado",
-					["npcID"] = 165189,
+					["npcID"] = 0,
 				},
-				[270339] = {
+				[31821] = {
+					["source"] = "Holaay-Mal'Ganis",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Gough-Stormscale",
 					["npcID"] = 0,
 				},
 				[337571] = {
@@ -31666,15 +31664,14 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[311468] = {
-					["source"] = "Chitogefan",
+				[24378] = {
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[83243] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Gough-Stormscale",
+				[24379] = {
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[88423] = {
@@ -31682,10 +31679,9 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[32612] = {
-					["source"] = "Amelthi-Kel'Thuzad",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[341374] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Neverholy-Mal'Ganis",
 					["npcID"] = 0,
 				},
 				[323755] = {
@@ -31693,14 +31689,14 @@ PlaterDB = {
 					["source"] = "Ñezukó",
 					["npcID"] = 0,
 				},
-				[343960] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[160331] = {
+					["source"] = "Tß",
 					["type"] = "BUFF",
-					["source"] = "Ohmylord",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[292361] = {
-					["source"] = "Bowsamdi-Quel'Thalas",
+				[273428] = {
+					["source"] = "Ghrommash",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -31722,10 +31718,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[115994] = {
-					["source"] = "Dietz-Quel'Thalas",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[1715] = {
+					["source"] = "Keedros-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[300728] = {
@@ -31739,14 +31734,14 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[6673] = {
-					["source"] = "Koíchi-Ragnaros",
+				[258920] = {
+					["source"] = "Démi-Kel'Thuzad",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[1719] = {
-					["source"] = "Deuzz-Quel'Thalas",
+				[266030] = {
+					["source"] = "Fizie-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -31762,9 +31757,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[96231] = {
-					["source"] = "Tqt",
+				[2641] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Gough-Stormscale",
 					["npcID"] = 0,
 				},
 				[343294] = {
@@ -31783,9 +31778,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[3411] = {
-					["source"] = "Ismashbuton-Kel'Thuzad",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[283167] = {
+					["source"] = "Bowsamdi-Quel'Thalas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[310454] = {
@@ -31817,10 +31813,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[48333] = {
-					["source"] = "Nhimz",
-					["type"] = "BUFF",
+				[288024] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Hats",
 					["npcID"] = 0,
 				},
 				[323761] = {
@@ -31828,15 +31824,15 @@ PlaterDB = {
 					["source"] = "Ñezukó",
 					["npcID"] = 0,
 				},
-				[341374] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Neverholy-Mal'Ganis",
+				[226757] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Krhazed-Mal'Ganis",
 					["npcID"] = 0,
 				},
-				[311489] = {
-					["source"] = "Orpheusshade",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[136] = {
+					["source"] = "Kirbit",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[313015] = {
@@ -31851,14 +31847,14 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[31821] = {
-					["source"] = "Holaay-Mal'Ganis",
+				[320130] = {
+					["source"] = "Frostdh",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[273428] = {
-					["source"] = "Ghrommash",
+				[44212] = {
+					["source"] = "Igotem-Illidan",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -31874,14 +31870,13 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[186258] = {
-					["source"] = "Bowsamdi-Quel'Thalas",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[34026] = {
+					["source"] = "Witikho-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[122470] = {
-					["source"] = "Sekhar-Mal'Ganis",
+				[186254] = {
+					["source"] = "Witikho-Ragnaros",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -31898,18 +31893,19 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[116] = {
+				[153595] = {
 					["source"] = "Adsol-Ragnaros",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[1715] = {
-					["source"] = "Keedros-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[289308] = {
+					["source"] = "Adsol-Ragnaros",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[191837] = {
-					["source"] = "Laylä-Quel'Thalas",
+				[167898] = {
+					["source"] = "Arbör",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -31926,10 +31922,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[266030] = {
+				[116858] = {
 					["source"] = "Fizie-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[208772] = {
@@ -31938,9 +31933,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[198793] = {
-					["source"] = "Depressedirl",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[311484] = {
+					["source"] = "Koniex",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[137639] = {
@@ -31967,21 +31963,20 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[283167] = {
-					["source"] = "Bowsamdi-Quel'Thalas",
+				[101643] = {
+					["source"] = "Laylä-Quel'Thalas",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[136] = {
-					["source"] = "Kirbit",
+				[212431] = {
+					["source"] = "Bowsamdi-Quel'Thalas",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[320130] = {
-					["source"] = "Frostdh",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[197214] = {
+					["source"] = "Trundar-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[311486] = {
@@ -32002,11 +31997,11 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 47649,
 				},
-				[24394] = {
-					["source"] = "Raptor",
-					["type"] = "DEBUFF",
+				[210053] = {
+					["source"] = "Weedsong",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165189,
+					["npcID"] = 0,
 				},
 				[311487] = {
 					["source"] = "Chòps",
@@ -32014,14 +32009,15 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[34026] = {
-					["source"] = "Witikho-Ragnaros",
+				[96231] = {
+					["source"] = "Tqt",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[153595] = {
-					["source"] = "Adsol-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[337757] = {
+					["source"] = "Uselust",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[186257] = {
@@ -32036,9 +32032,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[289308] = {
-					["source"] = "Adsol-Ragnaros",
-					["type"] = "DEBUFF",
+				[311489] = {
+					["source"] = "Orpheusshade",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -32058,21 +32054,20 @@ PlaterDB = {
 					["source"] = "Mazorlaon-EarthenRing",
 					["npcID"] = 0,
 				},
-				[167898] = {
-					["source"] = "Arbör",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[298700] = {
-					["source"] = "Mauldri",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[82326] = {
+					["source"] = "Holaay-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[51714] = {
 					["source"] = "Velkennar-Kel'Thuzad",
 					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[186258] = {
+					["source"] = "Bowsamdi-Quel'Thalas",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -32082,10 +32077,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[264878] = {
-					["source"] = "Bowsamdi-Quel'Thalas",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[5116] = {
+					["source"] = "Witikho-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[225919] = {
@@ -32105,8 +32099,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[116858] = {
-					["source"] = "Fizie-Mal'Ganis",
+				[257284] = {
+					["source"] = "Witikho-Ragnaros",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
@@ -32116,9 +32110,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[212431] = {
-					["source"] = "Bowsamdi-Quel'Thalas",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[155158] = {
+					["source"] = "Wagz-Mal'Ganis",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311492] = {
@@ -32127,19 +32122,19 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[197214] = {
-					["source"] = "Trundar-Mal'Ganis",
+				[163201] = {
+					["source"] = "Koíchi-Ragnaros",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[48778] = {
-					["source"] = "Throld",
+				[11426] = {
+					["source"] = "Abrogation",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[337757] = {
-					["source"] = "Uselust",
+				[210294] = {
+					["source"] = "Ibizaqt-Drakkari",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32150,20 +32145,21 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[337291] = {
+				[36554] = {
+					["source"] = "Jenkembreath-Mal'Ganis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[191634] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Mogomonk",
+					["source"] = "Prémium-Llane",
 					["npcID"] = 0,
 				},
-				[318038] = {
-					["source"] = "Rengetsu",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[290512] = {
-					["source"] = "Skywalkerx-Stormrage",
-					["type"] = "DEBUFF",
+				[298700] = {
+					["source"] = "Mauldri",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -32172,10 +32168,11 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[338617] = {
-					["source"] = "Tootsnpoots",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
+				[24394] = {
+					["source"] = "Raptor",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165189,
 				},
 				[225921] = {
 					["event"] = "SPELL_CAST_SUCCESS",
@@ -32188,14 +32185,14 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[191634] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[311495] = {
+					["source"] = "Maxpen-Mal'Ganis",
 					["type"] = "BUFF",
-					["source"] = "Prémium-Llane",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[108271] = {
-					["source"] = "Mahashamji-Quel'Thalas",
+				[202636] = {
+					["source"] = "Yeetmeat",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32206,10 +32203,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[155158] = {
-					["source"] = "Wagz-Mal'Ganis",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[311405] = {
+					["source"] = "Adwën",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[311496] = {
@@ -32218,8 +32214,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[163201] = {
-					["source"] = "Koíchi-Ragnaros",
+				[47528] = {
+					["source"] = "Velkennar-Kel'Thuzad",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
@@ -32246,8 +32242,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[11426] = {
-					["source"] = "Abrogation",
+				[347037] = {
+					["source"] = "Unperceived-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32274,8 +32270,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[210294] = {
-					["source"] = "Ibizaqt-Drakkari",
+				[340541] = {
+					["source"] = "Veryhigh",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32286,14 +32282,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[257284] = {
-					["source"] = "Witikho-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
+				[61684] = {
+					["source"] = "Lobo",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165189,
 				},
-				[73920] = {
-					["source"] = "Toshaman",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[308430] = {
+					["source"] = "Taarzan",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[186263] = {
@@ -32301,11 +32299,11 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[202636] = {
-					["source"] = "Yeetmeat",
+				[337060] = {
+					["source"] = "Aelriel",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+					["npcID"] = 1863,
 				},
 				[156070] = {
 					["source"] = "Ashleyashley-AeriePeak",
@@ -32319,9 +32317,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[311405] = {
-					["source"] = "Adwën",
+				[56641] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Josso-Ragnaros",
 					["npcID"] = 0,
 				},
 				[336065] = {
@@ -32336,8 +32334,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[47528] = {
-					["source"] = "Velkennar-Kel'Thuzad",
+				[196718] = {
+					["source"] = "Maxpen-Mal'Ganis",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
@@ -32347,10 +32345,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[347037] = {
-					["source"] = "Unperceived-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[194153] = {
+					["source"] = "Djcowled-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[256374] = {
@@ -32359,34 +32356,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[331624] = {
-					["source"] = "Pboy-Mal'Ganis",
+				[328275] = {
+					["source"] = "Witikho-Ragnaros",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[61684] = {
-					["source"] = "Lobo",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165189,
-				},
-				[48707] = {
-					["source"] = "Velkennar-Kel'Thuzad",
+				[104773] = {
+					["source"] = "Daddytaxes",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-				},
-				[247676] = {
-					["source"] = "Tqt",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[337060] = {
-					["source"] = "Aelriel",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 1863,
 				},
 				[186265] = {
 					["source"] = "Witikho-Ragnaros",
@@ -32394,14 +32373,32 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
+				[308798] = {
+					["source"] = "Flytrap",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 158259,
+				},
 				[116705] = {
 					["source"] = "Supercutie",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[196718] = {
-					["source"] = "Maxpen-Mal'Ganis",
+				[3716] = {
+					["source"] = "Jhazmoth",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 1860,
+				},
+				[279709] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Loldruid-Mal'Ganis",
+					["npcID"] = 0,
+				},
+				[247676] = {
+					["source"] = "Tqt",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[308434] = {
@@ -32416,19 +32413,21 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[194153] = {
-					["source"] = "Djcowled-Mal'Ganis",
+				[278244] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Fingbm",
 					["npcID"] = 0,
 				},
-				[112868] = {
-					["source"] = "Manamilea",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[254474] = {
+					["source"] = "Wannatussle",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[328281] = {
-					["source"] = "Ibizaqt-Drakkari",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[311467] = {
+					["source"] = "Acteur-Mal'Ganis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[87024] = {
@@ -32437,10 +32436,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[116014] = {
-					["source"] = "Abrogation",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[64382] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Arcøiris-Quel'Thalas",
 					["npcID"] = 0,
 				},
 				[156073] = {
@@ -32455,10 +32453,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[104773] = {
-					["source"] = "Daddytaxes",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[51514] = {
+					["source"] = "Toshaman",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[5487] = {
@@ -32467,9 +32464,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[64382] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Arcøiris-Quel'Thalas",
+				[69369] = {
+					["source"] = "Mindkitty-Mal'Ganis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[339142] = {
@@ -32478,16 +32476,15 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[247677] = {
+				[116706] = {
+					["source"] = "Supercutie",
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Darileth-Ragnaros",
 					["npcID"] = 0,
 				},
-				[334067] = {
-					["source"] = "Tothlol",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[112868] = {
+					["source"] = "Manamilea",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[203155] = {
@@ -32502,58 +32499,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[308798] = {
-					["source"] = "Flytrap",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 158259,
-				},
-				[213243] = {
-					["source"] = "Démi-Kel'Thuzad",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[48518] = {
-					["source"] = "Djcowled-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[22842] = {
-					["source"] = "Djcowled-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[270058] = {
-					["source"] = "Frostdh",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[113900] = {
-					["source"] = "Demonic Gateway",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 59271,
-				},
-				[254474] = {
-					["source"] = "Wannatussle",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[51514] = {
-					["source"] = "Toshaman",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[185245] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Mazorlaon-EarthenRing",
-					["npcID"] = 0,
-				},
-				[154796] = {
-					["source"] = "Simplehunter-Quel'Thalas",
+				[334067] = {
+					["source"] = "Tothlol",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32564,8 +32511,19 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[339463] = {
-					["source"] = "Tqt",
+				[48518] = {
+					["source"] = "Djcowled-Mal'Ganis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[23881] = {
+					["source"] = "Deuzz-Quel'Thalas",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[270058] = {
+					["source"] = "Frostdh",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32582,19 +32540,56 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
+				[190336] = {
+					["source"] = "Wagz-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[185245] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mazorlaon-EarthenRing",
+					["npcID"] = 0,
+				},
+				[154796] = {
+					["source"] = "Simplehunter-Quel'Thalas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[133] = {
+					["source"] = "Abrogation",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[329911] = {
+					["source"] = "Shadowlands Wormhole",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 169501,
+				},
+				[52127] = {
+					["source"] = "Toshaman",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[33786] = {
+					["source"] = "Scruggles-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
 				[320212] = {
 					["source"] = "Frostdh",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[190336] = {
-					["source"] = "Wagz-Mal'Ganis",
+				[204255] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mazorlaon-EarthenRing",
 					["npcID"] = 0,
 				},
-				[330943] = {
-					["source"] = "Tothlol",
+				[281209] = {
+					["source"] = "Daddychiill-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32611,68 +32606,19 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[198819] = {
-					["source"] = "Viejospada-Ragnaros",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[329911] = {
-					["source"] = "Shadowlands Wormhole",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 169501,
-				},
-				[61295] = {
-					["source"] = "Mahashamji-Quel'Thalas",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[33786] = {
-					["source"] = "Scruggles-Mal'Ganis",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[2823] = {
-					["source"] = "Flëa",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[281209] = {
-					["source"] = "Daddychiill-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
 				[339654] = {
 					["source"] = "Witikho-Ragnaros",
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[310873] = {
-					["source"] = "Magicbuzz",
+				[64044] = {
+					["source"] = "Morebrainz-Skullcrusher",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[327701] = {
 					["source"] = "Comodus",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[7814] = {
-					["source"] = "Aelriel",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 1863,
-				},
-				[323798] = {
-					["source"] = "Velkennar-Kel'Thuzad",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[227723] = {
-					["source"] = "Witikho-Ragnaros",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32692,10 +32638,57 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[327706] = {
-					["source"] = "Scrunchyface",
+				[324196] = {
+					["source"] = "Adwën",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[23978] = {
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[781] = {
+					["source"] = "Witikho-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[7814] = {
+					["source"] = "Aelriel",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 1863,
+				},
+				[323798] = {
+					["source"] = "Velkennar-Kel'Thuzad",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[227723] = {
+					["source"] = "Witikho-Ragnaros",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[51505] = {
+					["source"] = "Toshaman",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[252216] = {
+					["source"] = "Wubyub",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[6360] = {
+					["source"] = "Aelriel",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 1863,
+				},
+				[30283] = {
+					["source"] = "Daddytaxes",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[7870] = {
@@ -32710,9 +32703,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[324196] = {
-					["source"] = "Adwën",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[188501] = {
+					["source"] = "Aesin-Quel'Thalas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[156079] = {
@@ -32721,19 +32715,21 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[781] = {
-					["source"] = "Witikho-Ragnaros",
+				[324088] = {
+					["source"] = "Rawshoota",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[51505] = {
-					["source"] = "Toshaman",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[108271] = {
+					["source"] = "Mahashamji-Quel'Thalas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[1680] = {
-					["source"] = "Viejospada-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[211793] = {
+					["source"] = "Mosuso-Quel'Thalas",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[202137] = {
@@ -32746,10 +32742,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[252216] = {
-					["source"] = "Wubyub",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[212653] = {
+					["source"] = "Abrogation",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[323802] = {
@@ -32757,15 +32752,16 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[30283] = {
-					["source"] = "Daddytaxes",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
 				[124007] = {
 					["source"] = "Xuen",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 63508,
+				},
+				[48778] = {
+					["source"] = "Throld",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[20271] = {
 					["source"] = "Snoopdogsty-Drakkari",
@@ -32778,41 +32774,14 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[49020] = {
-					["source"] = "Mosuso-Quel'Thalas",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[5761] = {
+					["source"] = "Kosakichan",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[198300] = {
 					["source"] = "Trundar-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[324088] = {
-					["source"] = "Rawshoota",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[211793] = {
-					["source"] = "Mosuso-Quel'Thalas",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[212653] = {
-					["source"] = "Abrogation",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[260734] = {
-					["source"] = "Remissions",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[5761] = {
-					["source"] = "Kosakichan",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32823,15 +32792,21 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[259455] = {
-					["source"] = "Aesirmoridin",
+				[196742] = {
+					["source"] = "Skywalkerx-Stormrage",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[280398] = {
-					["source"] = "Toshpriest",
+				[260734] = {
+					["source"] = "Remissions",
 					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[197277] = {
+					["source"] = "Snoopdogsty-Drakkari",
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -32843,6 +32818,12 @@ PlaterDB = {
 				},
 				[48020] = {
 					["source"] = "Fizie-Mal'Ganis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[259455] = {
+					["source"] = "Aesirmoridin",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -32859,12 +32840,6 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[280308] = {
-					["source"] = "Deadered",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
 				[327164] = {
 					["source"] = "Mahashamji-Quel'Thalas",
 					["type"] = "BUFF",
@@ -32874,6 +32849,17 @@ PlaterDB = {
 				[198121] = {
 					["source"] = "Adsol-Ragnaros",
 					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[115175] = {
+					["source"] = "Laylä-Quel'Thalas",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[280308] = {
+					["source"] = "Deadered",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -32888,11 +32874,6 @@ PlaterDB = {
 					["source"] = "Shalormi",
 					["npcID"] = 0,
 				},
-				[119909] = {
-					["source"] = "Fizie-Mal'Ganis",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
 				[64695] = {
 					["source"] = "Earthgrab Totem",
 					["type"] = "DEBUFF",
@@ -32905,6 +32886,11 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
+				[119909] = {
+					["source"] = "Fizie-Mal'Ganis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
 				[187878] = {
 					["source"] = "Trundar-Mal'Ganis",
 					["type"] = "BUFF",
@@ -32913,6 +32899,17 @@ PlaterDB = {
 				},
 				[113724] = {
 					["source"] = "Amelthi-Kel'Thuzad",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[196941] = {
+					["source"] = "Karonalambnt-Aggramar",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[29722] = {
+					["source"] = "Fizie-Mal'Ganis",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
@@ -32928,10 +32925,9 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[196941] = {
-					["source"] = "Karonalambnt-Aggramar",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[147362] = {
+					["source"] = "Witikho-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[51271] = {
@@ -32946,19 +32942,21 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[29722] = {
-					["source"] = "Fizie-Mal'Ganis",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[147362] = {
-					["source"] = "Witikho-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
 				[311469] = {
 					["source"] = "Lillystone",
 					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[20572] = {
+					["source"] = "Ismashbuton-Kel'Thuzad",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[198819] = {
+					["source"] = "Viejospada-Ragnaros",
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -32974,16 +32972,15 @@ PlaterDB = {
 					["source"] = "Hierbatero-Drakkari",
 					["npcID"] = 0,
 				},
-				[20572] = {
-					["source"] = "Ismashbuton-Kel'Thuzad",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
 				[115804] = {
 					["source"] = "Skywalkerx-Stormrage",
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[328231] = {
+					["source"] = "Witikho-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[164273] = {
@@ -32992,9 +32989,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[328231] = {
-					["source"] = "Witikho-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[48265] = {
+					["source"] = "Velkennar-Kel'Thuzad",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[272126] = {
@@ -33015,8 +33013,8 @@ PlaterDB = {
 					["source"] = "Hazzerlek",
 					["npcID"] = 0,
 				},
-				[48265] = {
-					["source"] = "Velkennar-Kel'Thuzad",
+				[122470] = {
+					["source"] = "Sekhar-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33219,14 +33217,14 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[342181] = {
-					["source"] = "Mictlante-Quel'Thalas",
+				[54149] = {
+					["source"] = "Holaay-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[196742] = {
-					["source"] = "Skywalkerx-Stormrage",
+				[342181] = {
+					["source"] = "Mictlante-Quel'Thalas",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33237,8 +33235,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 101398,
 				},
-				[54149] = {
-					["source"] = "Holaay-Mal'Ganis",
+				[280398] = {
+					["source"] = "Toshpriest",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33249,8 +33247,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[49184] = {
-					["source"] = "Velkennar-Kel'Thuzad",
+				[275699] = {
+					["source"] = "Solthenis",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
@@ -33265,19 +33263,18 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[311494] = {
-					["source"] = "Tastywagyu",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+				[113900] = {
+					["source"] = "Demonic Gateway",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 59271,
 				},
-				[275699] = {
-					["source"] = "Solthenis",
+				[49184] = {
+					["source"] = "Velkennar-Kel'Thuzad",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[188501] = {
-					["source"] = "Aesin-Quel'Thalas",
+				[311494] = {
+					["source"] = "Tastywagyu",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33293,17 +33290,16 @@ PlaterDB = {
 					["source"] = "Liasi-Ragnaros",
 					["npcID"] = 0,
 				},
+				[49020] = {
+					["source"] = "Mosuso-Quel'Thalas",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
 				[247121] = {
 					["source"] = "Démi-Kel'Thuzad",
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-				},
-				[6360] = {
-					["source"] = "Aelriel",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 1863,
 				},
 				[63619] = {
 					["event"] = "SPELL_CAST_SUCCESS",
@@ -33316,14 +33312,14 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
+				[1680] = {
+					["source"] = "Viejospada-Ragnaros",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
 				[193315] = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Nightlørd-Drakkari",
-					["npcID"] = 0,
-				},
-				[23978] = {
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[204197] = {
@@ -33333,6 +33329,12 @@ PlaterDB = {
 				},
 				[261769] = {
 					["source"] = "Gummybuns",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[327706] = {
+					["source"] = "Scrunchyface",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33354,15 +33356,15 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[64044] = {
-					["source"] = "Morebrainz-Skullcrusher",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
 				[201639] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Gevo",
+					["npcID"] = 0,
+				},
+				[310873] = {
+					["source"] = "Magicbuzz",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[204361] = {
@@ -33371,18 +33373,13 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[204255] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Mazorlaon-EarthenRing",
-					["npcID"] = 0,
-				},
 				[310524] = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zorrez",
 					["npcID"] = 0,
 				},
-				[52127] = {
-					["source"] = "Toshaman",
+				[2823] = {
+					["source"] = "Flëa",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33392,14 +33389,20 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[133] = {
-					["source"] = "Abrogation",
+				[61295] = {
+					["source"] = "Mahashamji-Quel'Thalas",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[310525] = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zorrez",
+					["npcID"] = 0,
+				},
+				[330943] = {
+					["source"] = "Tothlol",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[233759] = {
@@ -33412,19 +33415,14 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[23881] = {
-					["source"] = "Deuzz-Quel'Thalas",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
 				[310526] = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Linthid",
 					["npcID"] = 0,
 				},
-				[292473] = {
-					["source"] = "Ñañaranga-Quel'Thalas",
-					["type"] = "DEBUFF",
+				[339463] = {
+					["source"] = "Tqt",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
@@ -33434,16 +33432,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 63508,
 				},
-				[311467] = {
-					["source"] = "Acteur-Mal'Ganis",
-					["type"] = "BUFF",
+				[292473] = {
+					["source"] = "Ñañaranga-Quel'Thalas",
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[279709] = {
+				[247677] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Loldruid-Mal'Ganis",
+					["source"] = "Darileth-Ragnaros",
 					["npcID"] = 0,
 				},
 				[183218] = {
@@ -33464,20 +33462,19 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[113656] = {
-					["source"] = "Sideswiipe-Mal'Ganis",
+				[22842] = {
+					["source"] = "Djcowled-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[116706] = {
-					["source"] = "Supercutie",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[213243] = {
+					["source"] = "Démi-Kel'Thuzad",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[69369] = {
-					["source"] = "Mindkitty-Mal'Ganis",
+				[113656] = {
+					["source"] = "Sideswiipe-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33493,13 +33490,19 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[328275] = {
-					["source"] = "Witikho-Ragnaros",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[116014] = {
+					["source"] = "Abrogation",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[115310] = {
 					["source"] = "Mûnk-Quel'Thalas",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[328281] = {
+					["source"] = "Ibizaqt-Drakkari",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
@@ -33520,18 +33523,13 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[3716] = {
-					["source"] = "Jhazmoth",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 1860,
-				},
 				[322301] = {
 					["source"] = "Eagleone",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[340541] = {
-					["source"] = "Veryhigh",
+				[48707] = {
+					["source"] = "Velkennar-Kel'Thuzad",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33541,15 +33539,14 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[213634] = {
-					["source"] = "Morebrainz-Skullcrusher",
+				[331624] = {
+					["source"] = "Pboy-Mal'Ganis",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[251838] = {
-					["source"] = "Caldoraè",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[213634] = {
+					["source"] = "Morebrainz-Skullcrusher",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[194223] = {
@@ -33558,15 +33555,16 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[132168] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[315079] = {
+					["source"] = "Necromantic Scourer",
 					["type"] = "DEBUFF",
-					["source"] = "Taurache-Turalyon",
-					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 161388,
 				},
-				[56641] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Josso-Ragnaros",
+				[251838] = {
+					["source"] = "Caldoraè",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[199085] = {
@@ -33574,10 +33572,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[327851] = {
-					["source"] = "Secksbagle",
-					["type"] = "BUFF",
+				[132168] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Taurache-Turalyon",
 					["npcID"] = 0,
 				},
 				[10060] = {
@@ -33597,26 +33595,27 @@ PlaterDB = {
 					["source"] = "Mazorlaon-EarthenRing",
 					["npcID"] = 0,
 				},
-				[5116] = {
-					["source"] = "Witikho-Ragnaros",
+				[338617] = {
+					["source"] = "Tootsnpoots",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[82326] = {
-					["source"] = "Holaay-Mal'Ganis",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[185123] = {
-					["source"] = "Depressedirl",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[315079] = {
-					["source"] = "Necromantic Scourer",
+				[290512] = {
+					["source"] = "Skywalkerx-Stormrage",
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 161388,
+					["npcID"] = 0,
+				},
+				[327851] = {
+					["source"] = "Secksbagle",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[73920] = {
+					["source"] = "Toshaman",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[308488] = {
 					["source"] = "Dredness",
@@ -33646,22 +33645,20 @@ PlaterDB = {
 					["source"] = "Zorrez",
 					["npcID"] = 0,
 				},
-				[311495] = {
-					["source"] = "Maxpen-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[185123] = {
+					["source"] = "Depressedirl",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[101643] = {
-					["source"] = "Laylä-Quel'Thalas",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[318038] = {
+					["source"] = "Rengetsu",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[36554] = {
-					["source"] = "Jenkembreath-Mal'Ganis",
-					["type"] = "BUFF",
+				[337291] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Mogomonk",
 					["npcID"] = 0,
 				},
 				[152262] = {
@@ -33681,9 +33678,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[203720] = {
-					["source"] = "Dhlessin",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[264878] = {
+					["source"] = "Bowsamdi-Quel'Thalas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[308491] = {
@@ -33691,14 +33689,24 @@ PlaterDB = {
 					["source"] = "Shahirah",
 					["npcID"] = 0,
 				},
-				[331937] = {
-					["source"] = "Toshaman",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[198793] = {
+					["source"] = "Depressedirl",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[336126] = {
 					["source"] = "Djcowled-Mal'Ganis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[203720] = {
+					["source"] = "Dhlessin",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[331937] = {
+					["source"] = "Toshaman",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33714,8 +33722,8 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 61245,
 				},
-				[44212] = {
-					["source"] = "Igotem-Illidan",
+				[189877] = {
+					["source"] = "Diviciácus-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33726,22 +33734,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[189877] = {
-					["source"] = "Diviciácus-Mal'Ganis",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
 				[202933] = {
 					["source"] = "Witikho-Ragnaros",
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[226757] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Krhazed-Mal'Ganis",
 					["npcID"] = 0,
 				},
 				[260243] = {
@@ -33755,10 +33751,10 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[288024] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[48333] = {
+					["source"] = "Nhimz",
 					["type"] = "BUFF",
-					["source"] = "Hats",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[331523] = {
@@ -33771,9 +33767,10 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[19434] = {
-					["source"] = "Simplehunter-Quel'Thalas",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[311479] = {
+					["source"] = "Draco",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[308495] = {
@@ -33788,8 +33785,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[160331] = {
-					["source"] = "Tß",
+				[311477] = {
+					["source"] = "Incywincy-Mal'Ganis",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33799,9 +33796,9 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 103673,
 				},
-				[24379] = {
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[19434] = {
+					["source"] = "Simplehunter-Quel'Thalas",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[347901] = {
@@ -33810,7 +33807,8 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[24378] = {
+				[191837] = {
+					["source"] = "Laylä-Quel'Thalas",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33820,9 +33818,9 @@ PlaterDB = {
 					["source"] = "Prémium-Llane",
 					["npcID"] = 0,
 				},
-				[2641] = {
+				[116] = {
+					["source"] = "Adsol-Ragnaros",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Gough-Stormscale",
 					["npcID"] = 0,
 				},
 				[223143] = {
@@ -33853,10 +33851,10 @@ PlaterDB = {
 					["source"] = "Nightlørd-Drakkari",
 					["npcID"] = 0,
 				},
-				[346502] = {
+				[199042] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Sayohshun-Mal'Ganis",
+					["type"] = "DEBUFF",
+					["source"] = "Taurache-Turalyon",
 					["npcID"] = 0,
 				},
 				[157128] = {
@@ -33871,6 +33869,24 @@ PlaterDB = {
 					["source"] = "Sayohshun-Mal'Ganis",
 					["npcID"] = 0,
 				},
+				[6673] = {
+					["source"] = "Koíchi-Ragnaros",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[346502] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sayohshun-Mal'Ganis",
+					["npcID"] = 0,
+				},
+				[292361] = {
+					["source"] = "Bowsamdi-Quel'Thalas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
 				[330368] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
@@ -33880,23 +33896,6 @@ PlaterDB = {
 				[330323] = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Sayohshun-Mal'Ganis",
-					["npcID"] = 0,
-				},
-				[264735] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Venado",
-					["npcID"] = 165189,
-				},
-				[209693] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sayohshun-Mal'Ganis",
-					["npcID"] = 0,
-				},
-				[311479] = {
-					["source"] = "Draco",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[336135] = {
@@ -33911,25 +33910,24 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[216251] = {
-					["source"] = "Bwunsamdi",
-					["type"] = "BUFF",
+				[232559] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Hierbatero-Drakkari",
 					["npcID"] = 0,
 				},
-				[148564] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Spheré",
-					["npcID"] = 0,
+				[49966] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Venado",
+					["npcID"] = 165189,
 				},
 				[272679] = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Gough-Stormscale",
 					["npcID"] = 0,
 				},
-				[258920] = {
-					["source"] = "Démi-Kel'Thuzad",
+				[216251] = {
+					["source"] = "Bwunsamdi",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
@@ -33940,9 +33938,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[5211] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Dromnin-Kel'Thuzad",
+				[19574] = {
+					["source"] = "Witikho-Ragnaros",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[309526] = {
@@ -33961,10 +33960,10 @@ PlaterDB = {
 					["source"] = "Mazorlaon-EarthenRing",
 					["npcID"] = 0,
 				},
-				[106839] = {
+				[212423] = {
+					["source"] = "Risen Skulker",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Hierbatero-Drakkari",
-					["npcID"] = 0,
+					["npcID"] = 99541,
 				},
 				[198838] = {
 					["source"] = "Toshaman",
@@ -34017,9 +34016,10 @@ PlaterDB = {
 					["source"] = "Gough-Stormscale",
 					["npcID"] = 0,
 				},
-				[306830] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Hubbax-Mal'Ganis",
+				[311458] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Andymal",
 					["npcID"] = 0,
 				},
 				[308506] = {
@@ -34067,10 +34067,9 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[5217] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Hierbatero-Drakkari",
+				[201764] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Asuro-Mal'Ganis",
 					["npcID"] = 0,
 				},
 				[87554] = {
@@ -34096,15 +34095,15 @@ PlaterDB = {
 					["source"] = "Nightlørd-Drakkari",
 					["npcID"] = 0,
 				},
+				[5217] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Hierbatero-Drakkari",
+					["npcID"] = 0,
+				},
 				[107428] = {
 					["source"] = "Skywalkerx-Stormrage",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[75532] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Mudsack",
 					["npcID"] = 0,
 				},
 				[16979] = {
@@ -34144,9 +34143,10 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[6572] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Taurache-Turalyon",
+				[26297] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Irtluzbek-Mal'Ganis",
 					["npcID"] = 0,
 				},
 				[289577] = {
@@ -34160,15 +34160,15 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
+				[347601] = {
+					["source"] = "Dezza",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
 				[317349] = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Taurache-Turalyon",
-					["npcID"] = 0,
-				},
-				[188031] = {
-					["source"] = "Sakurazuka-Shu'halo",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[49039] = {
@@ -34348,49 +34348,6 @@ PlaterDB = {
 					["npcID"] = 0,
 				},
 			},
-			["indicator_rare"] = false,
-			["aura2_x_offset"] = 0,
-			["castbar_target_outline"] = "NONE",
-			["health_selection_overlay_alpha"] = 0.2999999821186066,
-			["cast_statusbar_texture"] = "Smooth v2",
-			["minor_height_scale"] = 0.9999999403953552,
-			["health_statusbar_bgcolor"] = {
-				0.0431372, -- [1]
-				0.0431372, -- [2]
-				0.0431372, -- [3]
-				1, -- [4]
-			},
-			["not_affecting_combat_alpha"] = 0.799999,
-			["castbar_target_font"] = "Accidental Presidency",
-			["script_auto_imported"] = {
-				["Unit - Important"] = 11,
-				["Aura - Buff Alert"] = 13,
-				["Cast - Very Important"] = 11,
-				["Explosion Affix M+"] = 11,
-				["Aura - Debuff Alert"] = 11,
-				["Blink by Time Left"] = 1,
-				["Cast - Big Alert"] = 11,
-				["Unit - Show Energy"] = 11,
-				["Cast - Small Alert"] = 11,
-				["Spiteful Affix"] = 1,
-				["Aura - Invalidate Unit"] = 1,
-				["Color Change"] = 1,
-				["Unit - Health Markers"] = 12,
-				["Unit - Main Target"] = 11,
-				["Aura - Blink Time Left"] = 11,
-				["Aura Border Color"] = 1,
-				["Countdown"] = 11,
-				["Unit Power"] = 1,
-				["Cast - Frontal Cone"] = 11,
-				["Fixate"] = 11,
-				["Cast - Tank Interrupt"] = 11,
-				["Auto Set Skull"] = 11,
-				["Cast - Ultra Important"] = 11,
-				["Fixate On You"] = 11,
-			},
-			["castbar_target_anchor"] = {
-				["side"] = 11,
-			},
 			["color_override_colors"] = {
 				[3] = {
 					nil, -- [1]
@@ -34408,15 +34365,38 @@ PlaterDB = {
 					0.19607843137255, -- [3]
 				},
 			},
-			["aura_height"] = 14,
-			["cast_statusbar_spark_half"] = true,
-			["aura_padding"] = 2,
-			["cast_statusbar_bgtexture"] = "PlaterBackground",
-			["news_frame"] = {
-				["PlaterNewsFrame"] = {
-					["scale"] = 1,
+			["aura_timer_text_font"] = "Friz Quadrata TT",
+			["aura_tracker"] = {
+				["buff_tracked"] = {
+					["280001"] = true,
+				},
+				["debuff"] = {
+					224991, -- [1]
+					277950, -- [2]
+				},
+				["buff_banned"] = {
+					["206150"] = true,
+					["61574"] = true,
+					["61573"] = true,
+				},
+				["debuff_banned"] = {
+					[6788] = true,
 				},
 			},
+			["indicator_rare"] = false,
+			["cast_statusbar_texture"] = "Smooth v2",
+			["minor_height_scale"] = 0.9999999403953552,
+			["indicator_raidmark_scale"] = 0.699999988079071,
+			["not_affecting_combat_alpha"] = 0.799999,
+			["aura_consolidate"] = true,
+			["pet_height_scale"] = 0.9999999403953552,
+			["aura_padding"] = 2,
+			["aura_width2"] = 22,
+			["aura_height"] = 14,
+			["cast_statusbar_spark_half"] = true,
+			["use_health_animation"] = true,
+			["cast_statusbar_bgtexture"] = "PlaterBackground",
+			["aura2_x_offset"] = 0,
 			["target_indicator"] = "NONE",
 			["hook_data"] = {
 				{
@@ -36122,24 +36102,231 @@ PlaterDB = {
 				}, -- [35]
 			},
 			["last_news_time"] = 1551553489,
-			["aura_tracker"] = {
-				["buff_tracked"] = {
-					["280001"] = true,
-				},
-				["debuff"] = {
-					224991, -- [1]
-					277950, -- [2]
-				},
-				["buff_banned"] = {
-					["206150"] = true,
-					["61574"] = true,
-					["61573"] = true,
-				},
-				["debuff_banned"] = {
-					[6788] = true,
+			["health_animation_time_dilatation"] = 2.869999885559082,
+			["cast_statusbar_fadeout_time"] = 0.4899999797344208,
+			["target_highlight_height"] = 18,
+			["castbar_target_outline"] = "NONE",
+			["extra_icon_caster_name"] = false,
+			["target_shady_alpha"] = 0.59999996423721,
+			["castbar_target_font"] = "Accidental Presidency",
+			["saved_cvars"] = {
+				["ShowClassColorInNameplate"] = "1",
+				["nameplateOverlapV"] = "1.1000000238419",
+				["ShowNamePlateLoseAggroFlash"] = "1",
+				["nameplateShowEnemyMinus"] = "1",
+				["NamePlateClassificationScale"] = "1",
+				["nameplateShowFriendlyTotems"] = "0",
+				["nameplatePersonalHideDelaySeconds"] = "0.2",
+				["nameplateShowFriendlyPets"] = "0",
+				["nameplatePersonalShowInCombat"] = "1",
+				["nameplatePersonalShowWithTarget"] = "0",
+				["nameplateResourceOnTarget"] = "0",
+				["nameplateShowAll"] = "1",
+				["nameplateMaxDistance"] = "100",
+				["nameplateShowFriendlyMinions"] = "0",
+				["nameplateSelfScale"] = "1.0",
+				["NamePlateVerticalScale"] = "1",
+				["nameplateShowSelf"] = "0",
+				["nameplateSelfTopInset"] = "0.5",
+				["nameplateMotionSpeed"] = "0.05",
+				["nameplateGlobalScale"] = "1.0",
+				["nameplateShowEnemyMinions"] = "1",
+				["nameplateShowFriendlyNPCs"] = "0",
+				["nameplateSelectedScale"] = "1.15",
+				["nameplateShowFriends"] = "1",
+				["nameplateMotion"] = "1",
+				["nameplateMinScale"] = "1",
+				["nameplateOtherTopInset"] = "0.085",
+				["nameplateSelfBottomInset"] = "0.2",
+				["nameplateShowFriendlyGuardians"] = "0",
+				["NamePlateHorizontalScale"] = "1",
+				["nameplateSelfAlpha"] = "0.75",
+				["nameplateOccludedAlphaMult"] = "1",
+				["nameplatePersonalShowAlways"] = "0",
+			},
+			["aura_width"] = 22,
+			["aura_height2"] = 14,
+			["tank"] = {
+				["colors"] = {
+					["pulling"] = {
+						nil, -- [1]
+						0.91372549019608, -- [2]
+						0.99607843137255, -- [3]
+					},
 				},
 			},
-			["cast_statusbar_fadeout_time"] = 0.4899999797344208,
+			["health_statusbar_bgcolor"] = {
+				0.0431372, -- [1]
+				0.0431372, -- [2]
+				0.0431372, -- [3]
+				1, -- [4]
+			},
+			["range_check_alpha"] = 0.5,
+			["cast_statusbar_color"] = {
+				nil, -- [1]
+				0.85882352941176, -- [2]
+				nil, -- [3]
+				0.96000000089407, -- [4]
+			},
+			["login_counter"] = 683,
+			["version"] = 5,
+			["aura_cooldown_show_swipe"] = false,
+			["pet_width_scale"] = 0.9999999403953552,
+			["castbar_target_anchor"] = {
+				["side"] = 11,
+			},
+			["first_run2"] = true,
+			["aura_stack_font"] = "Friz Quadrata TT",
+			["ui_parent_cast_strata"] = "DIALOG",
+			["extra_icon_auras_mine"] = {
+				["224991"] = true,
+			},
+			["patch_version"] = 13,
+			["hook_data_trash"] = {
+				{
+					["Enabled"] = false,
+					["Revision"] = 190,
+					["OptionsValues"] = {
+					},
+					["HooksTemp"] = {
+						["Nameplate Created"] = "function (self, unitId, unitFrame, envTable)\n    \n    --run constructor!\n    --constructor is executed only once when any script of the hook runs.\n    \nend\n\n\n",
+						["Nameplate Added"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if need update the amount of combo points shown\n    if (envTable.LastPlayerTalentUpdate > envTable.LastUpdate) then\n        envTable.UpdateComboPointAmount()\n    end    \n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        envTable.UpdateComboPoints()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end    \n    \nend\n\n\n",
+						["Target Changed"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if this nameplate is the current target\n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+						["Player Power Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.UpdateComboPoints()\n    end\n    \n    \nend\n\n\n\n\n\n\n",
+						["Nameplate Removed"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n",
+						["Destructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n\n\n",
+						["Player Talent Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    --update the amount of comboo points shown when the player changes talents or specialization\n    envTable.UpdateComboPointAmount()\n    \n    --save the time of the last talent change\n    envTable.LastPlayerTalentUpdate = GetTime()\n    \n    \nend\n\n\n",
+						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --settings\n    local anchors = {\n        {\"bottom\", unitFrame.healthBar, \"top\", 0, 24},\n    }\n    \n    local sizes = {\n        width = 12,\n        height = 12,\n        scale = 1,\n    }\n    \n    local textures = {\n        backgroundTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        backgroundTexCoords = {78/128, 98/128, 21/64, 41/64},\n        \n        comboPointTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        comboPointTexCoords = {100/128, 120/128, 21/64, 41/64},\n    }\n    \n    local frameLevel = 1000\n    local frameStrata = \"high\"    \n    \n    --private\n    do\n        --store combo points frames on this table\n        envTable.ComboPoints = {}\n        --save when the player changed talents or spec\n        envTable.LastPlayerTalentUpdate = GetTime()\n        --save when this nameplate got a combo point amount and alignment update        \n        \n        --build combo points frame anchor (combo point are anchored to this)\n        if (not unitFrame.PlaterComboPointFrame) then\n            local hostFrame = CreateFrame (\"frame\", nil, unitFrame)\n            hostFrame.ComboPointFramesPool = {}\n            unitFrame.PlaterComboPointFrame = hostFrame\n            envTable.ComboPointFrame = hostFrame\n            \n            --DetailsFramework:ApplyStandardBackdrop (envTable.ComboPointFrame) --debug anchor size\n            \n            --animations\n            local onPlayShowAnimation = function (animation)\n                --stop the hide animation if it's playing\n                if (animation:GetParent():GetParent().HideAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().HideAnimation:Stop()\n                end\n                \n                animation:GetParent():Show()\n            end\n            \n            local onPlayHideAnimation = function (animation)\n                --stop the show animation if it's playing\n                if (animation:GetParent():GetParent().ShowAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().ShowAnimation:Stop()\n                end\n            end        \n            local onStopHideAnimation = function (animation)\n                animation:GetParent():Hide()       \n            end\n            \n            local createAnimations = function (comboPoint)\n                --on show\n                comboPoint.ShowAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayShowAnimation, nil)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 1, 0.1, 0, 0, 1, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"alpha\", 1, 0.1, .5, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 2, 0.1, 1.2, 1.2, 1, 1)\n                \n                --on hide\n                comboPoint.HideAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayHideAnimation, onStopHideAnimation)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"scale\", 1, 0.1, 1, 1, 0, 0)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"alpha\", 1, 0.1, 1, 0)\n            end\n            \n            --build combo point frame        \n            for i =1, 10 do \n                local f = CreateFrame (\"frame\", nil, envTable.ComboPointFrame)\n                f:SetSize (sizes.width, sizes.height)\n                tinsert (envTable.ComboPoints, f)\n                tinsert (unitFrame.PlaterComboPointFrame.ComboPointFramesPool, f)\n                \n                local backgroundTexture = f:CreateTexture (nil, \"background\")\n                backgroundTexture:SetTexture (textures.backgroundTexture)\n                backgroundTexture:SetTexCoord (unpack (textures.backgroundTexCoords))\n                backgroundTexture:SetSize (sizes.width, sizes.height)\n                backgroundTexture:SetPoint (\"center\")\n                \n                local comboPointTexture = f:CreateTexture (nil, \"artwork\")\n                comboPointTexture:SetTexture (textures.comboPointTexture)\n                comboPointTexture:SetTexCoord (unpack (textures.comboPointTexCoords))\n                \n                comboPointTexture:SetSize (sizes.width, sizes.height)\n                comboPointTexture:SetPoint (\"center\")\n                comboPointTexture:Hide()            \n                \n                f.IsActive = false\n                \n                f.backgroundTexture = backgroundTexture\n                f.comboPointTexture = comboPointTexture\n                \n                createAnimations (f)\n            end\n            \n        else\n            envTable.ComboPointFrame = unitFrame.PlaterComboPointFrame\n            envTable.ComboPointFrame:SetScale (sizes.scale)\n            envTable.ComboPoints = unitFrame.PlaterComboPointFrame.ComboPointFramesPool\n            \n        end            \n        \n        envTable.ComboPointFrame:SetFrameLevel (frameLevel)\n        envTable.ComboPointFrame:SetFrameStrata (frameStrata)\n        \n        function envTable.UpdateComboPoints()\n            local comboPoints = UnitPower (\"player\", Enum.PowerType.ComboPoints)\n            \n            for i = 1, envTable.TotalComboPoints do\n                local thisComboPoint = envTable.ComboPoints [i]\n                \n                if (i <= comboPoints ) then\n                    --combo point enabled\n                    if (not thisComboPoint.IsActive) then\n                        thisComboPoint.ShowAnimation:Play()\n                        thisComboPoint.IsActive = true\n                        \n                    end\n                    \n                else\n                    --combo point disabled\n                    if (thisComboPoint.IsActive) then\n                        thisComboPoint.HideAnimation:Play()\n                        thisComboPoint.IsActive = false\n                        \n                    end\n                end\n            end\n            \n            \n        end\n        \n        function envTable.UpdateComboPointAmount()\n            local namePlateWidth = Plater.db.profile.plate_config.enemynpc.health_incombat[1]\n            local comboPoints = UnitPowerMax (\"player\", Enum.PowerType.ComboPoints)\n            local reservedSpace = namePlateWidth / comboPoints\n            \n            --store the total amount of combo points\n            envTable.TotalComboPoints = comboPoints\n            \n            --update anchor frame\n            envTable.ComboPointFrame:SetWidth (namePlateWidth)\n            envTable.ComboPointFrame:SetHeight (20)\n            envTable.ComboPointFrame:ClearAllPoints()\n            for i = 1, #anchors do\n                local anchor = anchors[i]\n                envTable.ComboPointFrame:SetPoint (unpack (anchor))\n            end        \n            \n            --\n            for i = 1, #envTable.ComboPoints do\n                envTable.ComboPoints[i]:Hide()\n                envTable.ComboPoints[i]:ClearAllPoints()\n            end\n            \n            for i = 1, comboPoints do\n                local comboPoint = envTable.ComboPoints[i]\n                comboPoint:SetPoint (\"left\", envTable.ComboPointFrame, \"left\", reservedSpace * (i-1), 0)\n                comboPoint:Show()\n            end\n            \n            envTable.LastUpdate = GetTime()\n            \n            envTable.UpdateComboPoints()\n        end\n        \n        --initialize\n        envTable.UpdateComboPointAmount()\n        envTable.ComboPointFrame:Hide()\n    end\n    \n    \nend",
+					},
+					["Author"] = "Izimode-Azralon",
+					["Desc"] = "Show combo points above the nameplate for Druid Feral and Rogues.",
+					["Hooks"] = {
+						["Nameplate Created"] = "function (self, unitId, unitFrame, envTable)\n    \n    --run constructor!\n    --constructor is executed only once when any script of the hook runs.\n    \nend\n\n\n",
+						["Nameplate Added"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if need update the amount of combo points shown\n    if (envTable.LastPlayerTalentUpdate > envTable.LastUpdate) then\n        envTable.UpdateComboPointAmount()\n    end    \n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        envTable.UpdateComboPoints()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end    \n    \nend\n\n\n",
+						["Target Changed"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if this nameplate is the current target\n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+						["Player Power Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.UpdateComboPoints()\n    end\n    \n    \nend\n\n\n\n\n\n\n",
+						["Nameplate Removed"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n",
+						["Destructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n\n\n",
+						["Player Talent Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    --update the amount of comboo points shown when the player changes talents or specialization\n    envTable.UpdateComboPointAmount()\n    \n    --save the time of the last talent change\n    envTable.LastPlayerTalentUpdate = GetTime()\n    \n    \nend\n\n\n",
+						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --settings\n    local anchors = {\n        {\"bottom\", unitFrame.healthBar, \"top\", 0, 24},\n    }\n    \n    local sizes = {\n        width = 12,\n        height = 12,\n        scale = 1,\n    }\n    \n    local textures = {\n        backgroundTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        backgroundTexCoords = {78/128, 98/128, 21/64, 41/64},\n        \n        comboPointTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        comboPointTexCoords = {100/128, 120/128, 21/64, 41/64},\n    }\n    \n    local frameLevel = 1000\n    local frameStrata = \"high\"    \n    \n    --private\n    do\n        --store combo points frames on this table\n        envTable.ComboPoints = {}\n        --save when the player changed talents or spec\n        envTable.LastPlayerTalentUpdate = GetTime()\n        --save when this nameplate got a combo point amount and alignment update        \n        \n        --build combo points frame anchor (combo point are anchored to this)\n        if (not unitFrame.PlaterComboPointFrame) then\n            local hostFrame = CreateFrame (\"frame\", nil, unitFrame)\n            hostFrame.ComboPointFramesPool = {}\n            unitFrame.PlaterComboPointFrame = hostFrame\n            envTable.ComboPointFrame = hostFrame\n            \n            --DetailsFramework:ApplyStandardBackdrop (envTable.ComboPointFrame) --debug anchor size\n            \n            --animations\n            local onPlayShowAnimation = function (animation)\n                --stop the hide animation if it's playing\n                if (animation:GetParent():GetParent().HideAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().HideAnimation:Stop()\n                end\n                \n                animation:GetParent():Show()\n            end\n            \n            local onPlayHideAnimation = function (animation)\n                --stop the show animation if it's playing\n                if (animation:GetParent():GetParent().ShowAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().ShowAnimation:Stop()\n                end\n            end        \n            local onStopHideAnimation = function (animation)\n                animation:GetParent():Hide()       \n            end\n            \n            local createAnimations = function (comboPoint)\n                --on show\n                comboPoint.ShowAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayShowAnimation, nil)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 1, 0.1, 0, 0, 1, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"alpha\", 1, 0.1, .5, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 2, 0.1, 1.2, 1.2, 1, 1)\n                \n                --on hide\n                comboPoint.HideAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayHideAnimation, onStopHideAnimation)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"scale\", 1, 0.1, 1, 1, 0, 0)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"alpha\", 1, 0.1, 1, 0)\n            end\n            \n            --build combo point frame        \n            for i =1, 10 do \n                local f = CreateFrame (\"frame\", nil, envTable.ComboPointFrame)\n                f:SetSize (sizes.width, sizes.height)\n                tinsert (envTable.ComboPoints, f)\n                tinsert (unitFrame.PlaterComboPointFrame.ComboPointFramesPool, f)\n                \n                local backgroundTexture = f:CreateTexture (nil, \"background\")\n                backgroundTexture:SetTexture (textures.backgroundTexture)\n                backgroundTexture:SetTexCoord (unpack (textures.backgroundTexCoords))\n                backgroundTexture:SetSize (sizes.width, sizes.height)\n                backgroundTexture:SetPoint (\"center\")\n                \n                local comboPointTexture = f:CreateTexture (nil, \"artwork\")\n                comboPointTexture:SetTexture (textures.comboPointTexture)\n                comboPointTexture:SetTexCoord (unpack (textures.comboPointTexCoords))\n                \n                comboPointTexture:SetSize (sizes.width, sizes.height)\n                comboPointTexture:SetPoint (\"center\")\n                comboPointTexture:Hide()            \n                \n                f.IsActive = false\n                \n                f.backgroundTexture = backgroundTexture\n                f.comboPointTexture = comboPointTexture\n                \n                createAnimations (f)\n            end\n            \n        else\n            envTable.ComboPointFrame = unitFrame.PlaterComboPointFrame\n            envTable.ComboPointFrame:SetScale (sizes.scale)\n            envTable.ComboPoints = unitFrame.PlaterComboPointFrame.ComboPointFramesPool\n            \n        end            \n        \n        envTable.ComboPointFrame:SetFrameLevel (frameLevel)\n        envTable.ComboPointFrame:SetFrameStrata (frameStrata)\n        \n        function envTable.UpdateComboPoints()\n            local comboPoints = UnitPower (\"player\", Enum.PowerType.ComboPoints)\n            \n            for i = 1, envTable.TotalComboPoints do\n                local thisComboPoint = envTable.ComboPoints [i]\n                \n                if (i <= comboPoints ) then\n                    --combo point enabled\n                    if (not thisComboPoint.IsActive) then\n                        thisComboPoint.ShowAnimation:Play()\n                        thisComboPoint.IsActive = true\n                        \n                    end\n                    \n                else\n                    --combo point disabled\n                    if (thisComboPoint.IsActive) then\n                        thisComboPoint.HideAnimation:Play()\n                        thisComboPoint.IsActive = false\n                        \n                    end\n                end\n            end\n            \n            \n        end\n        \n        function envTable.UpdateComboPointAmount()\n            local namePlateWidth = Plater.db.profile.plate_config.enemynpc.health_incombat[1]\n            local comboPoints = UnitPowerMax (\"player\", Enum.PowerType.ComboPoints)\n            local reservedSpace = namePlateWidth / comboPoints\n            \n            --store the total amount of combo points\n            envTable.TotalComboPoints = comboPoints\n            \n            --update anchor frame\n            envTable.ComboPointFrame:SetWidth (namePlateWidth)\n            envTable.ComboPointFrame:SetHeight (20)\n            envTable.ComboPointFrame:ClearAllPoints()\n            for i = 1, #anchors do\n                local anchor = anchors[i]\n                envTable.ComboPointFrame:SetPoint (unpack (anchor))\n            end        \n            \n            --\n            for i = 1, #envTable.ComboPoints do\n                envTable.ComboPoints[i]:Hide()\n                envTable.ComboPoints[i]:ClearAllPoints()\n            end\n            \n            for i = 1, comboPoints do\n                local comboPoint = envTable.ComboPoints[i]\n                comboPoint:SetPoint (\"left\", envTable.ComboPointFrame, \"left\", reservedSpace * (i-1), 0)\n                comboPoint:Show()\n            end\n            \n            envTable.LastUpdate = GetTime()\n            \n            envTable.UpdateComboPoints()\n        end\n        \n        --initialize\n        envTable.UpdateComboPointAmount()\n        envTable.ComboPointFrame:Hide()\n    end\n    \n    \nend",
+					},
+					["__TrashAt"] = 1605934090,
+					["Name"] = "Combo Points [Plater]",
+					["LoadConditions"] = {
+						["talent"] = {
+						},
+						["group"] = {
+						},
+						["class"] = {
+							["Enabled"] = true,
+							["DRUID"] = true,
+							["ROGUE"] = true,
+						},
+						["map_ids"] = {
+						},
+						["race"] = {
+						},
+						["pvptalent"] = {
+						},
+						["spec"] = {
+							["103"] = true,
+							["Enabled"] = true,
+						},
+						["affix"] = {
+						},
+						["encounter_ids"] = {
+						},
+						["role"] = {
+						},
+					},
+					["PlaterCore"] = 1,
+					["Time"] = 1551825317,
+					["Icon"] = 135426,
+					["LastHookEdited"] = "Constructor",
+				}, -- [1]
+				{
+					["OptionsValues"] = {
+					},
+					["LastHookEdited"] = "",
+					["Hooks"] = {
+						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    local auraContainers = {unitFrame.BuffFrame.PlaterBuffList}\n    \n    if (Plater.db.profile.buffs_on_aura2) then\n        auraContainers [2] = unitFrame.BuffFrame2.PlaterBuffList\n    end\n    \n    for containerID = 1, #auraContainers do\n        \n        local auraContainer = auraContainers [containerID]\n        local aurasShown = {}\n        local aurasDuplicated = {}\n        \n        --build the list of auras shown in the buff frame and check for each aura priority\n        --also check if the consolidate (stack) auras with the same name is enabled\n        for index, auraIcon in ipairs (auraContainer) do\n            if (auraIcon:IsShown()) then\n                if (envTable.consolidadeRepeatedAuras) then\n                    --is this aura already shown?\n                    local iconShownIndex = aurasDuplicated [auraIcon.SpellName]\n                    if (iconShownIndex) then\n                        --get the table with information about the shown icon\n                        local auraShownTable = aurasShown [iconShownIndex]\n                        --get the icon already in the table\n                        local icon = auraShownTable[1]\n                        --increase the amount of stacks\n                        auraShownTable[3] = auraShownTable[3] + 1\n                        \n                        --check if the remaining time of the icon already added in the table is lower than the current\n                        if (auraIcon.RemainingTime > icon.RemainingTime) then\n                            --replace the icon for the icon with bigger duration\n                            auraShownTable[1] = auraIcon\n                            icon:Hide()\n                        else\n                            auraIcon:Hide()\n                        end\n                    else    \n                        local priority = envTable.priority[auraIcon.SpellName] or envTable.priority[auraIcon.spellId] or 1\n                        tinsert (aurasShown, {auraIcon, priority, 1}) --icon frame, priority, stack amount\n                        aurasDuplicated [auraIcon.SpellName] = #aurasShown\n                    end\n                else\n                    --not stacking similar auras\n                    local priority = envTable.priority[auraIcon.SpellName] or envTable.priority[auraIcon.spellId] or 1\n                    tinsert (aurasShown, {auraIcon, priority})\n                    \n                end           \n            end\n        end\n        \n        --sort auras by priority\n        table.sort (aurasShown, DetailsFramework.SortOrder2)\n        \n        local growDirection\n        if (containerID == 1) then --debuff container\n            growDirection = Plater.db.profile.aura_grow_direction\n            --force to grow to right if it is anchored to center\n            if (growDirection == 2) then\n                growDirection = 3\n            end\n            -- \"Left\", \"Center\", \"Right\" - 1  2  3\n            \n        elseif (containerID == 2) then --buff container\n            growDirection = Plater.db.profile.aura2_grow_direction\n            --force to grow to left if it is anchored to center\n            if (growDirection == 2) then\n                growDirection = 1\n            end\n            \n        end\n        \n        local padding = envTable.padding\n        local framersPerRow = envTable.maxAurasPerRow + 1\n        local horizontalLength = (-padding or 0)\n        \n        --first icon is where the row starts\n        local firstIcon = aurasShown[1] and aurasShown[1][1]\n        \n        if (firstIcon) then\n            local anchorPoint = firstIcon:GetParent() --anchor point is the BuffFrame\n            anchorPoint:SetSize (1, 1)\n            \n            --> left to right\n            if (growDirection == 3) then\n                --> iterate among all aura icons\n                for i = 1, #aurasShown do\n                    local auraIcon = aurasShown [i][1]\n                    auraIcon:ClearAllPoints()\n                    \n                    if (i == 1) then\n                        auraIcon:SetPoint (\"bottomleft\", anchorPoint, \"bottomleft\", 0, 0)\n                    elseif (i % framersPerRow == 0) then\n                        auraIcon:SetPoint (\"bottomleft\", firstIcon, \"topleft\", 0, envTable.rowPadding or 0)\n                        framersPerRow = framersPerRow + framersPerRow\n                    else\n                        auraIcon:SetPoint (\"topleft\", aurasShown [i-1][1], \"topright\", padding, 0)\n                    end\n                    \n                    local stacks = aurasShown[i][3]\n                    if (stacks and stacks > 1) then\n                        auraIcon.StackText:SetText (stacks)\n                        auraIcon.StackText:Show()\n                    end\n                    \n                    horizontalLength = horizontalLength + auraIcon:GetWidth() + padding\n                end\n                \n                --right to left\n            elseif (growDirection == 1) then\n                --> iterate among all aura icons\n                for i = 1, #aurasShown do\n                    local auraIcon = aurasShown [i][1]\n                    auraIcon:ClearAllPoints()\n                    \n                    if (i == 1) then\n                        auraIcon:SetPoint (\"bottomright\", anchorPoint, \"bottomright\", 0, 0)\n                    elseif (i % framersPerRow == 0) then\n                        auraIcon:SetPoint (\"bottomright\", firstIcon, \"topright\", 0, envTable.rowPadding or 0)\n                        framersPerRow = framersPerRow + framersPerRow\n                    else\n                        auraIcon:SetPoint (\"topright\", aurasShown [i-1][1], \"topleft\", -padding, 0)\n                    end\n                    \n                    local stacks = aurasShown[i][3]\n                    if (stacks and stacks > 1) then\n                        auraIcon.StackText:SetText (stacks)\n                        auraIcon.StackText:Show()\n                    end\n                    \n                    horizontalLength = horizontalLength + auraIcon:GetWidth() + padding\n                end                    \n            end\n            \n            --set the size of the buff frame\n            anchorPoint:SetWidth (horizontalLength)\n            anchorPoint:SetHeight (firstIcon:GetHeight())\n            \n        end\n    end\nend\n\n\n",
+						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --ATTENTION: after enabling this script, you may have to adjust the anchor point at the Buff Settings tab\n    \n    --space between each aura icon\n    envTable.padding = 2\n    \n    --space between each row of icons\n    envTable.rowPadding = 12\n    \n    --amount of icons in the row, it'll breakline and start a new row after reach the threshold\n    envTable.maxAurasPerRow = 5\n    \n    --stack auras of the same name that arent stacked by default from the game\n    envTable.consolidadeRepeatedAuras = true    \n    \n    --which auras goes first, assign a value (any number), bigger value goes first\n    envTable.priority = {\n        [\"Vampiric Touch\"] = 50,\n        [\"Shadow Word: Pain\"] = 22,\n        [\"Mind Flay\"] = 5,\n    }\n    \nend \n\n\n\n\n",
+					},
+					["__TrashAt"] = 1609811656,
+					["Time"] = 1596741775,
+					["LoadConditions"] = {
+						["talent"] = {
+						},
+						["group"] = {
+						},
+						["class"] = {
+						},
+						["map_ids"] = {
+						},
+						["race"] = {
+						},
+						["pvptalent"] = {
+						},
+						["role"] = {
+						},
+						["affix"] = {
+						},
+						["encounter_ids"] = {
+						},
+						["spec"] = {
+						},
+					},
+					["url"] = "",
+					["Icon"] = "Interface\\AddOns\\Plater\\images\\icon_aura_reorder",
+					["Enabled"] = false,
+					["Revision"] = 295,
+					["semver"] = "",
+					["Author"] = "Ditador-Azralon",
+					["Desc"] = "Reorder buffs and debuffs following the settings set in the constructor.",
+					["Name"] = "Aura Reorder [Plater]",
+					["PlaterCore"] = 1,
+					["version"] = -1,
+					["HooksTemp"] = {
+					},
+					["Options"] = {
+					},
+				}, -- [2]
+			},
+			["script_auto_imported"] = {
+				["Unit - Important"] = 11,
+				["Aura - Buff Alert"] = 13,
+				["Cast - Very Important"] = 11,
+				["Explosion Affix M+"] = 11,
+				["Aura - Debuff Alert"] = 11,
+				["Blink by Time Left"] = 1,
+				["Cast - Big Alert"] = 11,
+				["Unit - Show Energy"] = 11,
+				["Cast - Small Alert"] = 11,
+				["Spiteful Affix"] = 1,
+				["Aura - Invalidate Unit"] = 1,
+				["Color Change"] = 1,
+				["Unit - Health Markers"] = 12,
+				["Unit - Main Target"] = 11,
+				["Aura - Blink Time Left"] = 11,
+				["Aura Border Color"] = 1,
+				["Countdown"] = 11,
+				["Unit Power"] = 1,
+				["Cast - Frontal Cone"] = 11,
+				["Fixate"] = 11,
+				["Cast - Tank Interrupt"] = 11,
+				["Auto Set Skull"] = 11,
+				["Cast - Ultra Important"] = 11,
+				["Fixate On You"] = 11,
+			},
+			["no_spellname_length_limit"] = true,
+			["aura_timer_text_size"] = 10,
+			["extra_icon_anchor"] = {
+				["x"] = 4,
+			},
+			["extra_icon_show_timer"] = false,
+			["quick_hide"] = true,
+			["number_region_first_run"] = true,
+			["target_highlight_alpha"] = 1,
 			["script_data_trash"] = {
 				{
 					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable)\n    \n    --settings (you may need /reload if some configs isn't applied immediately)    \n    --change the nameplate color to this if allowed\n    envTable.CanChangeNameplateColor = false --change to true to change the color\n    envTable.NameplateColor = \"pink\"\n    envTable.NameplateSizeOffset = 6 --increase the nameplate height by this value\n    envTable.GlowAlpha = 0.5 --amount of alpha in the outside glow effect\n    \n    --create a glow effect around the nameplate\n    envTable.glowEffect = envTable.glowEffect or Plater.CreateNameplateGlow (unitFrame.healthBar, envTable.NameplateColor)\n    envTable.glowEffect:SetOffset (-27, 25, 9, -11)\n    --envTable.glowEffect:Show() --envTable.glowEffect:Hide() --\n    \n    --set the glow effect alpha\n    envTable.glowEffect:SetAlpha (envTable.GlowAlpha)\n    \nend\n\n--[=[\nUsing spellIDs for multi-language support\n\n135029 - A Knot of Snakes (Temple of Sethraliss)\n135388 - A Knot of Snakes (Temple of Sethraliss)\n134612 - Grasping Tentacles (Shrine of the Storm)\n133361 - Wasting Servant (Waycrest Manor)\n136330 - Soul Thorns (Waycrest Manor)\n130896 - Blackout Barrel (Freehold)\n129758 - Irontide Grenadier (Freehold)\n131009 - Spirit of Gold (Atal`Dazar)\n--]=]",
@@ -36669,203 +36856,11 @@ PlaterDB = {
 					["__TrashAt"] = 1607360310,
 				}, -- [12]
 			},
-			["aura_cooldown_reverse"] = false,
-			["aura_timer_text_size"] = 10,
-			["target_shady_alpha"] = 0.59999996423721,
-			["indicator_raidmark_scale"] = 0.699999988079071,
-			["use_health_animation"] = true,
-			["aura_width"] = 22,
-			["aura_height2"] = 14,
-			["aura_width2"] = 22,
-			["saved_cvars"] = {
-				["ShowClassColorInNameplate"] = "1",
-				["nameplateOverlapV"] = "1.1000000238419",
-				["ShowNamePlateLoseAggroFlash"] = "1",
-				["nameplateShowEnemyMinus"] = "1",
-				["NamePlateClassificationScale"] = "1",
-				["nameplateShowFriendlyTotems"] = "0",
-				["nameplatePersonalHideDelaySeconds"] = "0.2",
-				["nameplateShowFriendlyPets"] = "0",
-				["nameplatePersonalShowInCombat"] = "1",
-				["nameplatePersonalShowWithTarget"] = "0",
-				["nameplateResourceOnTarget"] = "0",
-				["nameplateShowAll"] = "1",
-				["nameplateMaxDistance"] = "100",
-				["nameplateShowFriendlyMinions"] = "0",
-				["nameplateSelfScale"] = "1.0",
-				["NamePlateVerticalScale"] = "1",
-				["nameplateShowSelf"] = "0",
-				["nameplateSelfTopInset"] = "0.5",
-				["nameplateMotionSpeed"] = "0.05",
-				["nameplateGlobalScale"] = "1.0",
-				["nameplateShowEnemyMinions"] = "1",
-				["nameplateShowFriendlyNPCs"] = "0",
-				["nameplateSelectedScale"] = "1.15",
-				["nameplateShowFriends"] = "1",
-				["nameplateMotion"] = "1",
-				["nameplateMinScale"] = "1",
-				["nameplateOtherTopInset"] = "0.085",
-				["nameplateSelfBottomInset"] = "0.2",
-				["nameplateShowFriendlyGuardians"] = "0",
-				["NamePlateHorizontalScale"] = "1",
-				["nameplateSelfAlpha"] = "0.75",
-				["nameplateOccludedAlphaMult"] = "1",
-				["nameplatePersonalShowAlways"] = "0",
+			["resources"] = {
+				["scale"] = 0.79999995231628,
+				["y_offset"] = 1,
+				["y_offset_target"] = 9,
 			},
-			["extra_icon_auras_mine"] = {
-				["224991"] = true,
-			},
-			["health_animation_time_dilatation"] = 2.869999885559082,
-			["login_counter"] = 683,
-			["extra_icon_caster_name"] = false,
-			["aura_cooldown_show_swipe"] = false,
-			["pet_width_scale"] = 0.9999999403953552,
-			["version"] = 5,
-			["cast_statusbar_bgcolor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.79781, -- [4]
-			},
-			["target_highlight_height"] = 18,
-			["ui_parent_cast_strata"] = "DIALOG",
-			["quick_hide"] = true,
-			["target_highlight_alpha"] = 1,
-			["hook_data_trash"] = {
-				{
-					["Enabled"] = false,
-					["Revision"] = 190,
-					["OptionsValues"] = {
-					},
-					["HooksTemp"] = {
-						["Nameplate Created"] = "function (self, unitId, unitFrame, envTable)\n    \n    --run constructor!\n    --constructor is executed only once when any script of the hook runs.\n    \nend\n\n\n",
-						["Nameplate Added"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if need update the amount of combo points shown\n    if (envTable.LastPlayerTalentUpdate > envTable.LastUpdate) then\n        envTable.UpdateComboPointAmount()\n    end    \n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        envTable.UpdateComboPoints()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end    \n    \nend\n\n\n",
-						["Target Changed"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if this nameplate is the current target\n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-						["Player Power Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.UpdateComboPoints()\n    end\n    \n    \nend\n\n\n\n\n\n\n",
-						["Nameplate Removed"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n",
-						["Destructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n\n\n",
-						["Player Talent Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    --update the amount of comboo points shown when the player changes talents or specialization\n    envTable.UpdateComboPointAmount()\n    \n    --save the time of the last talent change\n    envTable.LastPlayerTalentUpdate = GetTime()\n    \n    \nend\n\n\n",
-						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --settings\n    local anchors = {\n        {\"bottom\", unitFrame.healthBar, \"top\", 0, 24},\n    }\n    \n    local sizes = {\n        width = 12,\n        height = 12,\n        scale = 1,\n    }\n    \n    local textures = {\n        backgroundTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        backgroundTexCoords = {78/128, 98/128, 21/64, 41/64},\n        \n        comboPointTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        comboPointTexCoords = {100/128, 120/128, 21/64, 41/64},\n    }\n    \n    local frameLevel = 1000\n    local frameStrata = \"high\"    \n    \n    --private\n    do\n        --store combo points frames on this table\n        envTable.ComboPoints = {}\n        --save when the player changed talents or spec\n        envTable.LastPlayerTalentUpdate = GetTime()\n        --save when this nameplate got a combo point amount and alignment update        \n        \n        --build combo points frame anchor (combo point are anchored to this)\n        if (not unitFrame.PlaterComboPointFrame) then\n            local hostFrame = CreateFrame (\"frame\", nil, unitFrame)\n            hostFrame.ComboPointFramesPool = {}\n            unitFrame.PlaterComboPointFrame = hostFrame\n            envTable.ComboPointFrame = hostFrame\n            \n            --DetailsFramework:ApplyStandardBackdrop (envTable.ComboPointFrame) --debug anchor size\n            \n            --animations\n            local onPlayShowAnimation = function (animation)\n                --stop the hide animation if it's playing\n                if (animation:GetParent():GetParent().HideAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().HideAnimation:Stop()\n                end\n                \n                animation:GetParent():Show()\n            end\n            \n            local onPlayHideAnimation = function (animation)\n                --stop the show animation if it's playing\n                if (animation:GetParent():GetParent().ShowAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().ShowAnimation:Stop()\n                end\n            end        \n            local onStopHideAnimation = function (animation)\n                animation:GetParent():Hide()       \n            end\n            \n            local createAnimations = function (comboPoint)\n                --on show\n                comboPoint.ShowAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayShowAnimation, nil)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 1, 0.1, 0, 0, 1, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"alpha\", 1, 0.1, .5, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 2, 0.1, 1.2, 1.2, 1, 1)\n                \n                --on hide\n                comboPoint.HideAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayHideAnimation, onStopHideAnimation)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"scale\", 1, 0.1, 1, 1, 0, 0)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"alpha\", 1, 0.1, 1, 0)\n            end\n            \n            --build combo point frame        \n            for i =1, 10 do \n                local f = CreateFrame (\"frame\", nil, envTable.ComboPointFrame)\n                f:SetSize (sizes.width, sizes.height)\n                tinsert (envTable.ComboPoints, f)\n                tinsert (unitFrame.PlaterComboPointFrame.ComboPointFramesPool, f)\n                \n                local backgroundTexture = f:CreateTexture (nil, \"background\")\n                backgroundTexture:SetTexture (textures.backgroundTexture)\n                backgroundTexture:SetTexCoord (unpack (textures.backgroundTexCoords))\n                backgroundTexture:SetSize (sizes.width, sizes.height)\n                backgroundTexture:SetPoint (\"center\")\n                \n                local comboPointTexture = f:CreateTexture (nil, \"artwork\")\n                comboPointTexture:SetTexture (textures.comboPointTexture)\n                comboPointTexture:SetTexCoord (unpack (textures.comboPointTexCoords))\n                \n                comboPointTexture:SetSize (sizes.width, sizes.height)\n                comboPointTexture:SetPoint (\"center\")\n                comboPointTexture:Hide()            \n                \n                f.IsActive = false\n                \n                f.backgroundTexture = backgroundTexture\n                f.comboPointTexture = comboPointTexture\n                \n                createAnimations (f)\n            end\n            \n        else\n            envTable.ComboPointFrame = unitFrame.PlaterComboPointFrame\n            envTable.ComboPointFrame:SetScale (sizes.scale)\n            envTable.ComboPoints = unitFrame.PlaterComboPointFrame.ComboPointFramesPool\n            \n        end            \n        \n        envTable.ComboPointFrame:SetFrameLevel (frameLevel)\n        envTable.ComboPointFrame:SetFrameStrata (frameStrata)\n        \n        function envTable.UpdateComboPoints()\n            local comboPoints = UnitPower (\"player\", Enum.PowerType.ComboPoints)\n            \n            for i = 1, envTable.TotalComboPoints do\n                local thisComboPoint = envTable.ComboPoints [i]\n                \n                if (i <= comboPoints ) then\n                    --combo point enabled\n                    if (not thisComboPoint.IsActive) then\n                        thisComboPoint.ShowAnimation:Play()\n                        thisComboPoint.IsActive = true\n                        \n                    end\n                    \n                else\n                    --combo point disabled\n                    if (thisComboPoint.IsActive) then\n                        thisComboPoint.HideAnimation:Play()\n                        thisComboPoint.IsActive = false\n                        \n                    end\n                end\n            end\n            \n            \n        end\n        \n        function envTable.UpdateComboPointAmount()\n            local namePlateWidth = Plater.db.profile.plate_config.enemynpc.health_incombat[1]\n            local comboPoints = UnitPowerMax (\"player\", Enum.PowerType.ComboPoints)\n            local reservedSpace = namePlateWidth / comboPoints\n            \n            --store the total amount of combo points\n            envTable.TotalComboPoints = comboPoints\n            \n            --update anchor frame\n            envTable.ComboPointFrame:SetWidth (namePlateWidth)\n            envTable.ComboPointFrame:SetHeight (20)\n            envTable.ComboPointFrame:ClearAllPoints()\n            for i = 1, #anchors do\n                local anchor = anchors[i]\n                envTable.ComboPointFrame:SetPoint (unpack (anchor))\n            end        \n            \n            --\n            for i = 1, #envTable.ComboPoints do\n                envTable.ComboPoints[i]:Hide()\n                envTable.ComboPoints[i]:ClearAllPoints()\n            end\n            \n            for i = 1, comboPoints do\n                local comboPoint = envTable.ComboPoints[i]\n                comboPoint:SetPoint (\"left\", envTable.ComboPointFrame, \"left\", reservedSpace * (i-1), 0)\n                comboPoint:Show()\n            end\n            \n            envTable.LastUpdate = GetTime()\n            \n            envTable.UpdateComboPoints()\n        end\n        \n        --initialize\n        envTable.UpdateComboPointAmount()\n        envTable.ComboPointFrame:Hide()\n    end\n    \n    \nend",
-					},
-					["Author"] = "Izimode-Azralon",
-					["Desc"] = "Show combo points above the nameplate for Druid Feral and Rogues.",
-					["Hooks"] = {
-						["Nameplate Created"] = "function (self, unitId, unitFrame, envTable)\n    \n    --run constructor!\n    --constructor is executed only once when any script of the hook runs.\n    \nend\n\n\n",
-						["Nameplate Added"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if need update the amount of combo points shown\n    if (envTable.LastPlayerTalentUpdate > envTable.LastUpdate) then\n        envTable.UpdateComboPointAmount()\n    end    \n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        envTable.UpdateComboPoints()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end    \n    \nend\n\n\n",
-						["Target Changed"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if this nameplate is the current target\n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-						["Player Power Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.UpdateComboPoints()\n    end\n    \n    \nend\n\n\n\n\n\n\n",
-						["Nameplate Removed"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n",
-						["Destructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.ComboPointFrame:Hide()\n    \nend\n\n\n\n\n",
-						["Player Talent Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    --update the amount of comboo points shown when the player changes talents or specialization\n    envTable.UpdateComboPointAmount()\n    \n    --save the time of the last talent change\n    envTable.LastPlayerTalentUpdate = GetTime()\n    \n    \nend\n\n\n",
-						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --settings\n    local anchors = {\n        {\"bottom\", unitFrame.healthBar, \"top\", 0, 24},\n    }\n    \n    local sizes = {\n        width = 12,\n        height = 12,\n        scale = 1,\n    }\n    \n    local textures = {\n        backgroundTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        backgroundTexCoords = {78/128, 98/128, 21/64, 41/64},\n        \n        comboPointTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        comboPointTexCoords = {100/128, 120/128, 21/64, 41/64},\n    }\n    \n    local frameLevel = 1000\n    local frameStrata = \"high\"    \n    \n    --private\n    do\n        --store combo points frames on this table\n        envTable.ComboPoints = {}\n        --save when the player changed talents or spec\n        envTable.LastPlayerTalentUpdate = GetTime()\n        --save when this nameplate got a combo point amount and alignment update        \n        \n        --build combo points frame anchor (combo point are anchored to this)\n        if (not unitFrame.PlaterComboPointFrame) then\n            local hostFrame = CreateFrame (\"frame\", nil, unitFrame)\n            hostFrame.ComboPointFramesPool = {}\n            unitFrame.PlaterComboPointFrame = hostFrame\n            envTable.ComboPointFrame = hostFrame\n            \n            --DetailsFramework:ApplyStandardBackdrop (envTable.ComboPointFrame) --debug anchor size\n            \n            --animations\n            local onPlayShowAnimation = function (animation)\n                --stop the hide animation if it's playing\n                if (animation:GetParent():GetParent().HideAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().HideAnimation:Stop()\n                end\n                \n                animation:GetParent():Show()\n            end\n            \n            local onPlayHideAnimation = function (animation)\n                --stop the show animation if it's playing\n                if (animation:GetParent():GetParent().ShowAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().ShowAnimation:Stop()\n                end\n            end        \n            local onStopHideAnimation = function (animation)\n                animation:GetParent():Hide()       \n            end\n            \n            local createAnimations = function (comboPoint)\n                --on show\n                comboPoint.ShowAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayShowAnimation, nil)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 1, 0.1, 0, 0, 1, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"alpha\", 1, 0.1, .5, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 2, 0.1, 1.2, 1.2, 1, 1)\n                \n                --on hide\n                comboPoint.HideAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayHideAnimation, onStopHideAnimation)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"scale\", 1, 0.1, 1, 1, 0, 0)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"alpha\", 1, 0.1, 1, 0)\n            end\n            \n            --build combo point frame        \n            for i =1, 10 do \n                local f = CreateFrame (\"frame\", nil, envTable.ComboPointFrame)\n                f:SetSize (sizes.width, sizes.height)\n                tinsert (envTable.ComboPoints, f)\n                tinsert (unitFrame.PlaterComboPointFrame.ComboPointFramesPool, f)\n                \n                local backgroundTexture = f:CreateTexture (nil, \"background\")\n                backgroundTexture:SetTexture (textures.backgroundTexture)\n                backgroundTexture:SetTexCoord (unpack (textures.backgroundTexCoords))\n                backgroundTexture:SetSize (sizes.width, sizes.height)\n                backgroundTexture:SetPoint (\"center\")\n                \n                local comboPointTexture = f:CreateTexture (nil, \"artwork\")\n                comboPointTexture:SetTexture (textures.comboPointTexture)\n                comboPointTexture:SetTexCoord (unpack (textures.comboPointTexCoords))\n                \n                comboPointTexture:SetSize (sizes.width, sizes.height)\n                comboPointTexture:SetPoint (\"center\")\n                comboPointTexture:Hide()            \n                \n                f.IsActive = false\n                \n                f.backgroundTexture = backgroundTexture\n                f.comboPointTexture = comboPointTexture\n                \n                createAnimations (f)\n            end\n            \n        else\n            envTable.ComboPointFrame = unitFrame.PlaterComboPointFrame\n            envTable.ComboPointFrame:SetScale (sizes.scale)\n            envTable.ComboPoints = unitFrame.PlaterComboPointFrame.ComboPointFramesPool\n            \n        end            \n        \n        envTable.ComboPointFrame:SetFrameLevel (frameLevel)\n        envTable.ComboPointFrame:SetFrameStrata (frameStrata)\n        \n        function envTable.UpdateComboPoints()\n            local comboPoints = UnitPower (\"player\", Enum.PowerType.ComboPoints)\n            \n            for i = 1, envTable.TotalComboPoints do\n                local thisComboPoint = envTable.ComboPoints [i]\n                \n                if (i <= comboPoints ) then\n                    --combo point enabled\n                    if (not thisComboPoint.IsActive) then\n                        thisComboPoint.ShowAnimation:Play()\n                        thisComboPoint.IsActive = true\n                        \n                    end\n                    \n                else\n                    --combo point disabled\n                    if (thisComboPoint.IsActive) then\n                        thisComboPoint.HideAnimation:Play()\n                        thisComboPoint.IsActive = false\n                        \n                    end\n                end\n            end\n            \n            \n        end\n        \n        function envTable.UpdateComboPointAmount()\n            local namePlateWidth = Plater.db.profile.plate_config.enemynpc.health_incombat[1]\n            local comboPoints = UnitPowerMax (\"player\", Enum.PowerType.ComboPoints)\n            local reservedSpace = namePlateWidth / comboPoints\n            \n            --store the total amount of combo points\n            envTable.TotalComboPoints = comboPoints\n            \n            --update anchor frame\n            envTable.ComboPointFrame:SetWidth (namePlateWidth)\n            envTable.ComboPointFrame:SetHeight (20)\n            envTable.ComboPointFrame:ClearAllPoints()\n            for i = 1, #anchors do\n                local anchor = anchors[i]\n                envTable.ComboPointFrame:SetPoint (unpack (anchor))\n            end        \n            \n            --\n            for i = 1, #envTable.ComboPoints do\n                envTable.ComboPoints[i]:Hide()\n                envTable.ComboPoints[i]:ClearAllPoints()\n            end\n            \n            for i = 1, comboPoints do\n                local comboPoint = envTable.ComboPoints[i]\n                comboPoint:SetPoint (\"left\", envTable.ComboPointFrame, \"left\", reservedSpace * (i-1), 0)\n                comboPoint:Show()\n            end\n            \n            envTable.LastUpdate = GetTime()\n            \n            envTable.UpdateComboPoints()\n        end\n        \n        --initialize\n        envTable.UpdateComboPointAmount()\n        envTable.ComboPointFrame:Hide()\n    end\n    \n    \nend",
-					},
-					["__TrashAt"] = 1605934090,
-					["Name"] = "Combo Points [Plater]",
-					["LoadConditions"] = {
-						["talent"] = {
-						},
-						["group"] = {
-						},
-						["class"] = {
-							["Enabled"] = true,
-							["DRUID"] = true,
-							["ROGUE"] = true,
-						},
-						["map_ids"] = {
-						},
-						["race"] = {
-						},
-						["pvptalent"] = {
-						},
-						["spec"] = {
-							["103"] = true,
-							["Enabled"] = true,
-						},
-						["affix"] = {
-						},
-						["encounter_ids"] = {
-						},
-						["role"] = {
-						},
-					},
-					["PlaterCore"] = 1,
-					["Time"] = 1551825317,
-					["Icon"] = 135426,
-					["LastHookEdited"] = "Constructor",
-				}, -- [1]
-				{
-					["OptionsValues"] = {
-					},
-					["LastHookEdited"] = "",
-					["Hooks"] = {
-						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    local auraContainers = {unitFrame.BuffFrame.PlaterBuffList}\n    \n    if (Plater.db.profile.buffs_on_aura2) then\n        auraContainers [2] = unitFrame.BuffFrame2.PlaterBuffList\n    end\n    \n    for containerID = 1, #auraContainers do\n        \n        local auraContainer = auraContainers [containerID]\n        local aurasShown = {}\n        local aurasDuplicated = {}\n        \n        --build the list of auras shown in the buff frame and check for each aura priority\n        --also check if the consolidate (stack) auras with the same name is enabled\n        for index, auraIcon in ipairs (auraContainer) do\n            if (auraIcon:IsShown()) then\n                if (envTable.consolidadeRepeatedAuras) then\n                    --is this aura already shown?\n                    local iconShownIndex = aurasDuplicated [auraIcon.SpellName]\n                    if (iconShownIndex) then\n                        --get the table with information about the shown icon\n                        local auraShownTable = aurasShown [iconShownIndex]\n                        --get the icon already in the table\n                        local icon = auraShownTable[1]\n                        --increase the amount of stacks\n                        auraShownTable[3] = auraShownTable[3] + 1\n                        \n                        --check if the remaining time of the icon already added in the table is lower than the current\n                        if (auraIcon.RemainingTime > icon.RemainingTime) then\n                            --replace the icon for the icon with bigger duration\n                            auraShownTable[1] = auraIcon\n                            icon:Hide()\n                        else\n                            auraIcon:Hide()\n                        end\n                    else    \n                        local priority = envTable.priority[auraIcon.SpellName] or envTable.priority[auraIcon.spellId] or 1\n                        tinsert (aurasShown, {auraIcon, priority, 1}) --icon frame, priority, stack amount\n                        aurasDuplicated [auraIcon.SpellName] = #aurasShown\n                    end\n                else\n                    --not stacking similar auras\n                    local priority = envTable.priority[auraIcon.SpellName] or envTable.priority[auraIcon.spellId] or 1\n                    tinsert (aurasShown, {auraIcon, priority})\n                    \n                end           \n            end\n        end\n        \n        --sort auras by priority\n        table.sort (aurasShown, DetailsFramework.SortOrder2)\n        \n        local growDirection\n        if (containerID == 1) then --debuff container\n            growDirection = Plater.db.profile.aura_grow_direction\n            --force to grow to right if it is anchored to center\n            if (growDirection == 2) then\n                growDirection = 3\n            end\n            -- \"Left\", \"Center\", \"Right\" - 1  2  3\n            \n        elseif (containerID == 2) then --buff container\n            growDirection = Plater.db.profile.aura2_grow_direction\n            --force to grow to left if it is anchored to center\n            if (growDirection == 2) then\n                growDirection = 1\n            end\n            \n        end\n        \n        local padding = envTable.padding\n        local framersPerRow = envTable.maxAurasPerRow + 1\n        local horizontalLength = (-padding or 0)\n        \n        --first icon is where the row starts\n        local firstIcon = aurasShown[1] and aurasShown[1][1]\n        \n        if (firstIcon) then\n            local anchorPoint = firstIcon:GetParent() --anchor point is the BuffFrame\n            anchorPoint:SetSize (1, 1)\n            \n            --> left to right\n            if (growDirection == 3) then\n                --> iterate among all aura icons\n                for i = 1, #aurasShown do\n                    local auraIcon = aurasShown [i][1]\n                    auraIcon:ClearAllPoints()\n                    \n                    if (i == 1) then\n                        auraIcon:SetPoint (\"bottomleft\", anchorPoint, \"bottomleft\", 0, 0)\n                    elseif (i % framersPerRow == 0) then\n                        auraIcon:SetPoint (\"bottomleft\", firstIcon, \"topleft\", 0, envTable.rowPadding or 0)\n                        framersPerRow = framersPerRow + framersPerRow\n                    else\n                        auraIcon:SetPoint (\"topleft\", aurasShown [i-1][1], \"topright\", padding, 0)\n                    end\n                    \n                    local stacks = aurasShown[i][3]\n                    if (stacks and stacks > 1) then\n                        auraIcon.StackText:SetText (stacks)\n                        auraIcon.StackText:Show()\n                    end\n                    \n                    horizontalLength = horizontalLength + auraIcon:GetWidth() + padding\n                end\n                \n                --right to left\n            elseif (growDirection == 1) then\n                --> iterate among all aura icons\n                for i = 1, #aurasShown do\n                    local auraIcon = aurasShown [i][1]\n                    auraIcon:ClearAllPoints()\n                    \n                    if (i == 1) then\n                        auraIcon:SetPoint (\"bottomright\", anchorPoint, \"bottomright\", 0, 0)\n                    elseif (i % framersPerRow == 0) then\n                        auraIcon:SetPoint (\"bottomright\", firstIcon, \"topright\", 0, envTable.rowPadding or 0)\n                        framersPerRow = framersPerRow + framersPerRow\n                    else\n                        auraIcon:SetPoint (\"topright\", aurasShown [i-1][1], \"topleft\", -padding, 0)\n                    end\n                    \n                    local stacks = aurasShown[i][3]\n                    if (stacks and stacks > 1) then\n                        auraIcon.StackText:SetText (stacks)\n                        auraIcon.StackText:Show()\n                    end\n                    \n                    horizontalLength = horizontalLength + auraIcon:GetWidth() + padding\n                end                    \n            end\n            \n            --set the size of the buff frame\n            anchorPoint:SetWidth (horizontalLength)\n            anchorPoint:SetHeight (firstIcon:GetHeight())\n            \n        end\n    end\nend\n\n\n",
-						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --ATTENTION: after enabling this script, you may have to adjust the anchor point at the Buff Settings tab\n    \n    --space between each aura icon\n    envTable.padding = 2\n    \n    --space between each row of icons\n    envTable.rowPadding = 12\n    \n    --amount of icons in the row, it'll breakline and start a new row after reach the threshold\n    envTable.maxAurasPerRow = 5\n    \n    --stack auras of the same name that arent stacked by default from the game\n    envTable.consolidadeRepeatedAuras = true    \n    \n    --which auras goes first, assign a value (any number), bigger value goes first\n    envTable.priority = {\n        [\"Vampiric Touch\"] = 50,\n        [\"Shadow Word: Pain\"] = 22,\n        [\"Mind Flay\"] = 5,\n    }\n    \nend \n\n\n\n\n",
-					},
-					["__TrashAt"] = 1609811656,
-					["Time"] = 1596741775,
-					["LoadConditions"] = {
-						["talent"] = {
-						},
-						["group"] = {
-						},
-						["class"] = {
-						},
-						["map_ids"] = {
-						},
-						["race"] = {
-						},
-						["pvptalent"] = {
-						},
-						["role"] = {
-						},
-						["affix"] = {
-						},
-						["encounter_ids"] = {
-						},
-						["spec"] = {
-						},
-					},
-					["url"] = "",
-					["Icon"] = "Interface\\AddOns\\Plater\\images\\icon_aura_reorder",
-					["Enabled"] = false,
-					["Revision"] = 295,
-					["semver"] = "",
-					["Author"] = "Ditador-Azralon",
-					["Desc"] = "Reorder buffs and debuffs following the settings set in the constructor.",
-					["Name"] = "Aura Reorder [Plater]",
-					["PlaterCore"] = 1,
-					["version"] = -1,
-					["HooksTemp"] = {
-					},
-					["Options"] = {
-					},
-				}, -- [2]
-			},
-			["patch_version"] = 13,
-			["no_spellname_length_limit"] = true,
-			["first_run2"] = true,
-			["extra_icon_anchor"] = {
-				["x"] = 4,
-			},
-			["extra_icon_show_timer"] = false,
-			["cast_statusbar_color"] = {
-				nil, -- [1]
-				0.85882352941176, -- [2]
-				nil, -- [3]
-				0.96000000089407, -- [4]
-			},
-			["number_region_first_run"] = true,
-			["tank"] = {
-				["colors"] = {
-					["pulling"] = {
-						nil, -- [1]
-						0.91372549019608, -- [2]
-						0.99607843137255, -- [3]
-					},
-				},
-			},
-			["ui_parent_scale_tune"] = 1.562500034924597,
-			["range_check_alpha"] = 0.5,
 			["click_space"] = {
 				115, -- [1]
 			},
@@ -36879,8 +36874,13 @@ PlaterDB = {
 				},
 			},
 			["semver"] = "1.0.4",
-			["pet_height_scale"] = 0.9999999403953552,
-			["aura_consolidate"] = true,
+			["ui_parent_scale_tune"] = 1.562500034924597,
+			["cast_statusbar_bgcolor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.79781, -- [4]
+			},
 			["dps"] = {
 				["colors"] = {
 					["aggro"] = {
@@ -36894,16 +36894,19 @@ PlaterDB = {
 					},
 				},
 			},
-			["resources"] = {
-				["scale"] = 0.79999995231628,
-				["y_offset"] = 1,
-				["y_offset_target"] = 9,
+			["news_frame"] = {
+				["PlaterNewsFrame"] = {
+					["scale"] = 1,
+				},
 			},
 			["aura_frame2_anchor"] = {
 				["y"] = 15.9,
 				["side"] = 7,
 			},
 			["extra_icon_show_enrage"] = true,
+			["aura_cooldown_reverse"] = false,
+			["aura_alpha"] = 0.84999996423721,
+			["health_selection_overlay_alpha"] = 0.2999999821186066,
 			["npc_colors"] = {
 				["125977"] = {
 					true, -- [1]
@@ -37365,20 +37368,20 @@ PlaterDB = {
 					false, -- [2]
 					"cornflowerblue", -- [3]
 				},
-				["136353"] = {
+				["129529"] = {
 					true, -- [1]
 					false, -- [2]
-					"royalblue", -- [3]
+					"goldenrod", -- [3]
 				},
 				["129366"] = {
 					true, -- [1]
 					false, -- [2]
 					"goldenrod", -- [3]
 				},
-				["131492"] = {
+				["136353"] = {
 					true, -- [1]
 					false, -- [2]
-					"lightskyblue", -- [3]
+					"royalblue", -- [3]
 				},
 				["133436"] = {
 					true, -- [1]
@@ -37510,10 +37513,10 @@ PlaterDB = {
 					false, -- [2]
 					"peru", -- [3]
 				},
-				["129529"] = {
+				["131492"] = {
 					true, -- [1]
 					false, -- [2]
-					"goldenrod", -- [3]
+					"lightskyblue", -- [3]
 				},
 				["138064"] = {
 					false, -- [1]
@@ -37551,10 +37554,7 @@ PlaterDB = {
 					"navajowhite", -- [3]
 				},
 			},
-			["aura_alpha"] = 0.84999996423721,
 			["cast_statusbar_spark_offset"] = -13,
-			["aura_stack_font"] = "Friz Quadrata TT",
-			["aura_timer_text_font"] = "Friz Quadrata TT",
 			["cast_statusbar_spark_width"] = 25,
 			["cast_statusbar_spark_color"] = {
 				0.98823529411765, -- [1]
@@ -37821,11 +37821,10 @@ PlaterDB = {
 					["UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \nend\n\n\n",
 					["Time"] = 1607232468,
 					["Temp_Initialization"] = "function (scriptTable)\n    --insert code here\n    \nend\n\n\n",
-					["Temp_ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --create a texture to use for a flash behind the cast bar\n    local backGroundFlashTexture = Plater:CreateImage (self, [[Interface\\ACHIEVEMENTFRAME\\UI-Achievement-Alert-Glow]], self:GetWidth()+40, self:GetHeight()+20, \"background\", {0, 400/512, 0, 170/256})\n    backGroundFlashTexture:SetBlendMode (\"ADD\")\n    backGroundFlashTexture:SetPoint (\"center\", self, \"center\")\n    backGroundFlashTexture:SetVertexColor(Plater:ParseColors(scriptTable.config.flashColor))\n    backGroundFlashTexture:Hide()\n    \n    --create the animation hub to hold the flash animation sequence\n    envTable.BackgroundFlash = envTable.BackgroundFlash or Plater:CreateAnimationHub (backGroundFlashTexture, \n        function()\n            backGroundFlashTexture:Show()\n        end,\n        function()\n            backGroundFlashTexture:Hide()\n        end\n    )\n    \n    --create the flash animation sequence\n    local fadeIn = Plater:CreateAnimation (envTable.BackgroundFlash, \"ALPHA\", 1, scriptTable.config.flashDuration/2, 0, 1)\n    local fadeOut = Plater:CreateAnimation (envTable.BackgroundFlash, \"ALPHA\", 2, scriptTable.config.flashDuration/2, 1, 0)\n    \n    --create a camera shake for the nameplate\n    envTable.FrameShake = Plater:CreateFrameShake (unitFrame, scriptTable.config.shakeDuration, scriptTable.config.shakeAmplitude, scriptTable.config.shakeFrequency, false, false, 0, 1, 0.05, 0.1, Plater.GetPoints (unitFrame))\n    \n    --update the config for the flash here so it wont need a /reload\n    fadeIn:SetDuration (scriptTable.config.flashDuration/2)\n    fadeOut:SetDuration (scriptTable.config.flashDuration/2)\n    \n    --update the config for the skake here so it wont need a /reload\n    envTable.FrameShake.OriginalAmplitude = scriptTable.config.shakeAmplitude\n    envTable.FrameShake.OriginalDuration = scriptTable.config.shakeDuration\n    envTable.FrameShake.OriginalFrequency = scriptTable.config.shakeFrequency\nend",
 					["url"] = "",
 					["NpcNames"] = {
 					},
-					["Temp_OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \n    Plater.StopDotAnimation(unitFrame.castBar, envTable.dotAnimation)    \n    \n    envTable.BackgroundFlash:Stop()\n    \n    unitFrame:StopFrameShake (envTable.FrameShake)    \n    \nend\n\n\n",
+					["Temp_ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --create a texture to use for a flash behind the cast bar\n    local backGroundFlashTexture = Plater:CreateImage (self, [[Interface\\ACHIEVEMENTFRAME\\UI-Achievement-Alert-Glow]], self:GetWidth()+40, self:GetHeight()+20, \"background\", {0, 400/512, 0, 170/256})\n    backGroundFlashTexture:SetBlendMode (\"ADD\")\n    backGroundFlashTexture:SetPoint (\"center\", self, \"center\")\n    backGroundFlashTexture:SetVertexColor(Plater:ParseColors(scriptTable.config.flashColor))\n    backGroundFlashTexture:Hide()\n    \n    --create the animation hub to hold the flash animation sequence\n    envTable.BackgroundFlash = envTable.BackgroundFlash or Plater:CreateAnimationHub (backGroundFlashTexture, \n        function()\n            backGroundFlashTexture:Show()\n        end,\n        function()\n            backGroundFlashTexture:Hide()\n        end\n    )\n    \n    --create the flash animation sequence\n    local fadeIn = Plater:CreateAnimation (envTable.BackgroundFlash, \"ALPHA\", 1, scriptTable.config.flashDuration/2, 0, 1)\n    local fadeOut = Plater:CreateAnimation (envTable.BackgroundFlash, \"ALPHA\", 2, scriptTable.config.flashDuration/2, 1, 0)\n    \n    --create a camera shake for the nameplate\n    envTable.FrameShake = Plater:CreateFrameShake (unitFrame, scriptTable.config.shakeDuration, scriptTable.config.shakeAmplitude, scriptTable.config.shakeFrequency, false, false, 0, 1, 0.05, 0.1, Plater.GetPoints (unitFrame))\n    \n    --update the config for the flash here so it wont need a /reload\n    fadeIn:SetDuration (scriptTable.config.flashDuration/2)\n    fadeOut:SetDuration (scriptTable.config.flashDuration/2)\n    \n    --update the config for the skake here so it wont need a /reload\n    envTable.FrameShake.OriginalAmplitude = scriptTable.config.shakeAmplitude\n    envTable.FrameShake.OriginalDuration = scriptTable.config.shakeDuration\n    envTable.FrameShake.OriginalFrequency = scriptTable.config.shakeFrequency\nend",
 					["Enabled"] = true,
 					["Revision"] = 751,
 					["Options"] = {
@@ -38071,8 +38070,8 @@ PlaterDB = {
 							["Desc"] = "Cast bar color.",
 						}, -- [26]
 					},
+					["Temp_OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \n    Plater.StopDotAnimation(unitFrame.castBar, envTable.dotAnimation)    \n    \n    envTable.BackgroundFlash:Stop()\n    \n    unitFrame:StopFrameShake (envTable.FrameShake)    \n    \nend\n\n\n",
 					["Name"] = "Cast - Very Important [Plater]",
-					["Prio"] = 99,
 					["Author"] = "Bombad�o-Azralon",
 					["Initialization"] = "function (scriptTable)\n    --insert code here\n    \nend\n\n\n",
 					["OnShowCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \n    envTable.dotAnimation = Plater.PlayDotAnimation(unitFrame.castBar, 5, scriptTable.config.dotColor, scriptTable.config.xOffset, scriptTable.config.yOffset)\n    \n    \n    envTable.BackgroundFlash:Play()\n    \n    Plater.FlashNameplateBorder (unitFrame, 0.05)   \n    Plater.FlashNameplateBody (unitFrame, \"\", 0.075)\n    \n    unitFrame:PlayFrameShake (envTable.FrameShake)\n    \n    if (envTable._CanInterrupt) then\n        if (scriptTable.config.useCastbarColor) then\n            self:SetStatusBarColor (Plater:ParseColors (scriptTable.config.castBarColor))\n        end\n    end\n    \nend\n\n\n",
@@ -38144,10 +38143,10 @@ PlaterDB = {
 					["Temp_UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \nend\n\n\n",
 					["version"] = -1,
 					["PlaterCore"] = 1,
+					["Prio"] = 99,
 					["Desc"] = "Highlight a very important cast applying several effects into the Cast Bar. Add spell in the Add Trigger field.",
 					["semver"] = "",
 					["Icon"] = "Interface\\AddOns\\Plater\\images\\cast_bar_darkorange",
-					["scriptId"] = "table: 000001D11B6E3060",
 				}, -- [4]
 				{
 					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \n    --creates a glow around the icon\n    envTable.buffIconGlow = envTable.buffIconGlow or Plater.CreateIconGlow (self, scriptTable.config.glowColor)\n    \nend\n\n\n",
@@ -38262,11 +38261,10 @@ PlaterDB = {
 					["UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \nend",
 					["Time"] = 1607232364,
 					["Temp_Initialization"] = "function (scriptTable)\n    --insert code here\n    \nend\n\n\n",
-					["Temp_ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \n    envTable.movingArrow = envTable.movingArrow or Plater:CreateImage (self, [[Interface\\PETBATTLES\\PetBattle-StatIcons]], 16, self:GetHeight(), \"background\", {0, 15/32, 18/32, 30/32})\n    \n    --envTable.movingArrow.color = scriptTable.config.arrowColor\n    envTable.movingArrow:SetAlpha (scriptTable.config.arrowAlpha)\n    envTable.movingArrow:SetDesaturated (scriptTable.config.desaturateArrow)\n    \n    envTable.movingAnimation = envTable.movingAnimation or Plater:CreateAnimationHub (envTable.movingArrow, \n        function() \n            envTable.movingArrow:Show() \n            envTable.movingArrow:SetPoint(\"left\", 0, 0)\n        end, \n        function() envTable.movingArrow:Hide() end)\n    \n    envTable.movingAnimation:SetLooping (\"REPEAT\")\n    \n    envTable.arrowAnimation = envTable.arrowAnimation or Plater:CreateAnimation (envTable.movingAnimation, \"translation\", 1, 0.20, self:GetWidth()-16, 0)\n    \n    envTable.arrowAnimation:SetDuration(scriptTable.config.animSpeed)\nend\n\n\n\n\n",
 					["url"] = "",
 					["NpcNames"] = {
 					},
-					["Temp_OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    envTable.movingAnimation:Stop()\nend\n\n\n",
+					["Temp_ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \n    envTable.movingArrow = envTable.movingArrow or Plater:CreateImage (self, [[Interface\\PETBATTLES\\PetBattle-StatIcons]], 16, self:GetHeight(), \"background\", {0, 15/32, 18/32, 30/32})\n    \n    --envTable.movingArrow.color = scriptTable.config.arrowColor\n    envTable.movingArrow:SetAlpha (scriptTable.config.arrowAlpha)\n    envTable.movingArrow:SetDesaturated (scriptTable.config.desaturateArrow)\n    \n    envTable.movingAnimation = envTable.movingAnimation or Plater:CreateAnimationHub (envTable.movingArrow, \n        function() \n            envTable.movingArrow:Show() \n            envTable.movingArrow:SetPoint(\"left\", 0, 0)\n        end, \n        function() envTable.movingArrow:Hide() end)\n    \n    envTable.movingAnimation:SetLooping (\"REPEAT\")\n    \n    envTable.arrowAnimation = envTable.arrowAnimation or Plater:CreateAnimation (envTable.movingAnimation, \"translation\", 1, 0.20, self:GetWidth()-16, 0)\n    \n    envTable.arrowAnimation:SetDuration(scriptTable.config.animSpeed)\nend\n\n\n\n\n",
 					["Enabled"] = true,
 					["Revision"] = 503,
 					["Options"] = {
@@ -38333,8 +38331,8 @@ PlaterDB = {
 							["Desc"] = "If enabled, the arrow color will be desaturated.",
 						}, -- [7]
 					},
+					["Temp_OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    envTable.movingAnimation:Stop()\nend\n\n\n",
 					["Name"] = "Cast - Frontal Cone [Plater]",
-					["Prio"] = 99,
 					["Author"] = "Izimode-Azralon",
 					["Initialization"] = "function (scriptTable)\n    --insert code here\n    \nend\n\n\n",
 					["OnShowCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    envTable.movingAnimation:Play()\nend\n\n\n",
@@ -38375,10 +38373,10 @@ PlaterDB = {
 					["Temp_UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \nend",
 					["version"] = -1,
 					["PlaterCore"] = 1,
+					["Prio"] = 99,
 					["Desc"] = "Does an animation for casts that affect the frontal area of the enemy. Add spell in the Add Trigger field.",
 					["semver"] = "",
 					["Icon"] = "Interface\\AddOns\\Plater\\images\\cast_bar_frontal",
-					["scriptId"] = "table: 0000019FB4FCC390",
 				}, -- [6]
 				{
 					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.FixateTarget = Plater:CreateLabel (unitFrame);\n    envTable.FixateTarget:SetPoint (\"bottom\", unitFrame.BuffFrame, \"top\", 0, 10);    \n    \n    envTable.FixateIcon = Plater:CreateImage (unitFrame, 236188, 16, 16, \"overlay\");\n    envTable.FixateIcon:SetPoint (\"bottom\", envTable.FixateTarget, \"top\", 0, 4);    \n    \n    envTable.FixateTarget:Hide()\n    envTable.FixateIcon:Hide()\nend\n\n--165560 = Gormling Larva - MTS\n\n\n\n\n\n\n",
@@ -39396,14 +39394,13 @@ PlaterDB = {
 					["UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.CheckMark (unitId, unitFrame)\nend\n\n\n",
 					["Time"] = 1605782842,
 					["Temp_Initialization"] = "function (scriptTable)\n    --insert code here\n    \nend\n\n\n",
-					["Temp_ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    \n    --check for marks\n    function  envTable.CheckMark (unitId, unitFrame)\n        if (not GetRaidTargetIndex(unitId)) then\n            if (scriptTable.config.onlyInCombat) then\n                if (not UnitAffectingCombat(unitId)) then\n                    return\n                end                \n            end\n            \n            SetRaidTarget(unitId, 8)\n        end       \n    end\nend\n\n\n--163520 - forsworn squad-leader\n--163618 - zolramus necromancer - The Necrotic Wake\n--164506 - anciet captain - theater of pain\n\n\n",
 					["url"] = "",
 					["NpcNames"] = {
 						"163520", -- [1]
 						"163618", -- [2]
 						"164506", -- [3]
 					},
-					["Temp_OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    \nend\n\n\n",
+					["Temp_ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    \n    --check for marks\n    function  envTable.CheckMark (unitId, unitFrame)\n        if (not GetRaidTargetIndex(unitId)) then\n            if (scriptTable.config.onlyInCombat) then\n                if (not UnitAffectingCombat(unitId)) then\n                    return\n                end                \n            end\n            \n            SetRaidTarget(unitId, 8)\n        end       \n    end\nend\n\n\n--163520 - forsworn squad-leader\n--163618 - zolramus necromancer - The Necrotic Wake\n--164506 - anciet captain - theater of pain\n\n\n",
 					["Enabled"] = true,
 					["Revision"] = 68,
 					["Options"] = {
@@ -39432,8 +39429,8 @@ PlaterDB = {
 							["Desc"] = "Set the mark only if the unit is in combat.",
 						}, -- [3]
 					},
+					["Temp_OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    \nend\n\n\n",
 					["Name"] = "Auto Set Skull",
-					["Prio"] = 99,
 					["Author"] = "Aelerolor-Torghast",
 					["Initialization"] = "function (scriptTable)\n    --insert code here\n    \nend\n\n\n",
 					["OnShowCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.CheckMark (unitId, unitFrame)\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
@@ -39442,10 +39439,10 @@ PlaterDB = {
 					["Temp_UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.CheckMark (unitId, unitFrame)\nend\n\n\n",
 					["version"] = -1,
 					["PlaterCore"] = 1,
+					["Prio"] = 99,
 					["Desc"] = "Auto set skull marker",
 					["semver"] = "",
 					["Icon"] = "Interface\\Worldmap\\GlowSkull_64Grey",
-					["scriptId"] = "table: 000001A02A8822F0",
 				}, -- [16]
 				{
 					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    \nend\n\n--[=[\n\n154564 - debug\n\n168098 - empowered coldheart agent\n156212 - coldheart agent\n\n\n\n--]=]",
@@ -39962,53 +39959,59 @@ PlaterDB = {
 					},
 				}, -- [21]
 				{
-					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    \n    if (not unitFrame.spitefulTexture) then\n        unitFrame.spitefulTexture = unitFrame.healthBar:CreateTexture(nil, \"overlay\", nil, 6)\n        unitFrame.spitefulTexture:SetPoint('right', 0, 0)\n        unitFrame.spitefulTexture:SetSize(27, 14)\n        unitFrame.spitefulTexture:SetColorTexture(.3, .3, 1, .7)\n        \n        unitFrame.spitefulText = unitFrame.healthBar:CreateFontString(nil, \"overlay\", \"GameFontNormal\", 6)\n        unitFrame.spitefulText:SetPoint(\"right\", unitFrame.spitefulTexture, \"right\", -2, 0)\n        unitFrame.spitefulText:SetJustifyH(\"right\")\n        \n        unitFrame.spitefulTexture:Hide()\n        unitFrame.spitefulText:Hide()\n    end\n    \n    function envTable.UpdateSpitefulWidget(unitFrame)\n        \n        local r, g, b, a = Plater:ParseColors(scriptTable.config.bgColor)\n        unitFrame.spitefulTexture:SetSize(scriptTable.config.bgWidth, unitFrame.healthBar:GetHeight())   \n        Plater:SetFontSize(unitFrame.spitefulText, scriptTable.config.textSize)\n        Plater:SetFontColor(unitFrame.spitefulText, scriptTable.config.textColor)\n        \n        local currentHealth = unitFrame.healthBar.CurrentHealth\n        local maxHealth = unitFrame.healthBar.CurrentHealthMax\n        \n        local healthPercent = currentHealth / maxHealth * 100\n        local timeToDie = format(\"%.1fs\", healthPercent / 8)\n        unitFrame.spitefulText:SetText(timeToDie)\n        \n        unitFrame.spitefulText:Show()\n        unitFrame.spitefulTexture:Show()\n    end\nend\n\n\n\n\n\n\n",
+					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    \n    if (not unitFrame.spitefulTexture) then\n        unitFrame.spitefulTexture = unitFrame.healthBar:CreateTexture(nil, \"overlay\", nil, 6)\n        unitFrame.spitefulTexture:SetPoint('right', 0, 0)\n        unitFrame.spitefulTexture:SetSize(27, 14)\n        unitFrame.spitefulTexture:SetColorTexture(.3, .3, 1, .7)\n        \n        unitFrame.spitefulText = unitFrame.healthBar:CreateFontString(nil, \"overlay\", \"GameFontNormal\", 6)\n        DetailsFramework:SetFontFace (unitFrame.spitefulText, \"2002\")\n        unitFrame.spitefulText:SetPoint(\"right\", unitFrame.spitefulTexture, \"right\", -2, 0)\n        unitFrame.spitefulText:SetJustifyH(\"right\")\n        \n        unitFrame.spitefulTexture:Hide()\n        unitFrame.spitefulText:Hide()\n    end\n    \n    function envTable.UpdateSpitefulWidget(unitFrame)\n        \n        local r, g, b, a = Plater:ParseColors(scriptTable.config.bgColor)\n        unitFrame.spitefulTexture:SetColorTexture(r, g, b, a)\n        unitFrame.spitefulTexture:SetSize(scriptTable.config.bgWidth, unitFrame.healthBar:GetHeight())   \n        Plater:SetFontSize(unitFrame.spitefulText, scriptTable.config.textSize)\n        Plater:SetFontColor(unitFrame.spitefulText, scriptTable.config.textColor)\n        \n        local currentHealth = unitFrame.healthBar.CurrentHealth\n        local maxHealth = unitFrame.healthBar.CurrentHealthMax\n        \n        local healthPercent = currentHealth / maxHealth * 100\n        local timeToDie = format(\"%.1fs\", healthPercent / 8)\n        unitFrame.spitefulText:SetText(timeToDie)\n        \n        unitFrame.spitefulText:Show()\n        unitFrame.spitefulTexture:Show()\n        \n        if scriptTable.config.switchTargetName then\n            local plateFrame = unitFrame.PlateFrame\n            local target = UnitName(unitFrame.namePlateUnitToken .. \"target\") or UnitName(unitFrame.namePlateUnitToken)\n            if target and target ~= \"\" then\n                plateFrame.namePlateUnitName = target\n                Plater.UpdateUnitName (plateFrame)\n            end\n        end\n        \n        if scriptTable.config.useTargetingColor then\n            local targeted = UnitIsUnit(unitFrame.namePlateUnitToken .. \"target\", \"player\")\n            if targeted then\n                Plater.SetNameplateColor (unitFrame, scriptTable.config.targetingColor)\n            end\n        end\n    end\nend",
 					["OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    if (unitFrame.spitefulTexture) then\n        unitFrame.spitefulText:Hide()\n        unitFrame.spitefulTexture:Hide()    \n    end\nend\n\n\n\n\n\n",
+					["OptionsValues"] = {
+					},
 					["ScriptType"] = 3,
 					["UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.UpdateSpitefulWidget(unitFrame)\nend\n\n\n",
-					["Time"] = 1608852889,
+					["Time"] = 1609281290,
 					["url"] = "",
 					["Icon"] = 135945,
 					["Enabled"] = true,
-					["Revision"] = 59,
+					["Revision"] = 132,
 					["semver"] = "",
 					["Author"] = "Symantec-Azralon",
-					["Initialization"] = "		function (scriptTable)\n			--insert code here\n			\n		end\n	",
+					["Initialization"] = "function (scriptTable)\n    --insert code here\n    \nend\n\n\n",
 					["Desc"] = "Time to die Spiteful affix",
-					["OnShowCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.UpdateSpitefulWidget(unitFrame)\nend\n\n\n",
+					["NpcNames"] = {
+						"174773", -- [1]
+					},
 					["SpellIds"] = {
 					},
 					["PlaterCore"] = 1,
+					["Name"] = "M+ Spiteful",
+					["version"] = -1,
 					["Options"] = {
 						{
 							["Type"] = 2,
 							["Max"] = 50,
 							["Desc"] = "",
 							["Min"] = 10,
-							["Name"] = "Width",
-							["Value"] = 27,
 							["Fraction"] = false,
+							["Value"] = 27,
+							["Name"] = "Width",
 							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
 							["Key"] = "bgWidth",
 						}, -- [1]
 						{
 							["Type"] = 1,
-							["Key"] = "bgColor",
+							["Name"] = "Background Color",
 							["Value"] = {
 								0.5058823529411764, -- [1]
 								0.07058823529411765, -- [2]
 								1, -- [3]
 								1, -- [4]
 							},
-							["Name"] = "Background Color",
+							["Key"] = "bgColor",
 							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_color",
 							["Desc"] = "",
 						}, -- [2]
 						{
 							["Type"] = 6,
-							["Key"] = "option5",
-							["Value"] = 0,
 							["Name"] = "Option 5",
+							["Value"] = 0,
+							["Key"] = "option5",
 							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_blank",
 							["Desc"] = "",
 						}, -- [3]
@@ -40017,36 +40020,76 @@ PlaterDB = {
 							["Max"] = 24,
 							["Desc"] = "",
 							["Min"] = 7,
-							["Name"] = "Text Size",
-							["Value"] = 8,
 							["Fraction"] = false,
+							["Value"] = 8,
+							["Name"] = "Text Size",
 							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
 							["Key"] = "textSize",
 						}, -- [4]
 						{
 							["Type"] = 1,
-							["Key"] = "textColor",
+							["Name"] = "Text Color",
 							["Value"] = {
 								1, -- [1]
 								0.5843137254901961, -- [2]
 								0, -- [3]
 								1, -- [4]
 							},
-							["Name"] = "Text Color",
+							["Key"] = "textColor",
 							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_color",
 							["Desc"] = "",
 						}, -- [5]
+						{
+							["Type"] = 6,
+							["Key"] = "option7",
+							["Value"] = 0,
+							["Name"] = "Option 7",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_blank",
+							["Desc"] = "",
+						}, -- [6]
+						{
+							["Type"] = 4,
+							["Key"] = "switchTargetName",
+							["Value"] = false,
+							["Name"] = "Show Target instead of Name",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
+							["Desc"] = "",
+						}, -- [7]
+						{
+							["Type"] = 6,
+							["Key"] = "option8",
+							["Value"] = 0,
+							["Name"] = "Option 8",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_blank",
+							["Desc"] = "",
+						}, -- [8]
+						{
+							["Type"] = 4,
+							["Key"] = "useTargetingColor",
+							["Value"] = false,
+							["Name"] = "Change Color if targeting You",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
+							["Desc"] = "",
+						}, -- [9]
+						{
+							["Type"] = 1,
+							["Key"] = "targetingColor",
+							["Value"] = {
+								0.5058823529411764, -- [1]
+								0.07058823529411765, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["Name"] = "Color if targeting You",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_color",
+							["Desc"] = "",
+						}, -- [10]
 					},
-					["version"] = -1,
-					["Name"] = "M+ Spiteful",
-					["NpcNames"] = {
-						"174773", -- [1]
-					},
+					["OnShowCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.UpdateSpitefulWidget(unitFrame)\nend\n\n\n",
 				}, -- [22]
 			},
 			["url"] = "https://wago.io/1ZozQnKxj/22",
 			["cast_statusbar_fadein_time"] = 0.02081192471087,
-			["indicator_raidmark_scale"] = 0.69999998807907,
 			["aura2_y_offset"] = 8,
 			["aura_timer_text_anchor"] = {
 				["y"] = -7,
@@ -40974,9 +41017,9 @@ PlaterDB = {
 					"Flesh Crafter", -- [1]
 					"The Necrotic Wake", -- [2]
 				},
-				[170480] = {
-					"Atal'ai Deathwalker", -- [1]
-					"De Other Side", -- [2]
+				[131587] = {
+					"Bewitched Captain", -- [1]
+					"Waycrest Manor", -- [2]
 				},
 				[131585] = {
 					"Enthralled Guard", -- [1]
@@ -41018,9 +41061,9 @@ PlaterDB = {
 					"Voidbound Honor Guard", -- [1]
 					"Horrific Vision of Orgrimmar", -- [2]
 				},
-				[36948] = {
-					"Muradin Bronzebeard", -- [1]
-					"Icecrown Citadel", -- [2]
+				[26670] = {
+					"Ymirjar Flesh Hunter", -- [1]
+					"Utgarde Pinnacle", -- [2]
 				},
 				[72350] = {
 					"Dragonmaw Elite Grunt", -- [1]
@@ -41042,9 +41085,9 @@ PlaterDB = {
 					"Gordus", -- [1]
 					"Eye of the Storm", -- [2]
 				},
-				[14765] = {
-					"Stonehearth Marshal", -- [1]
-					"Alterac Valley", -- [2]
+				[170480] = {
+					"Atal'ai Deathwalker", -- [1]
+					"De Other Side", -- [2]
 				},
 				[26734] = {
 					"Azure Enforcer", -- [1]
@@ -41054,21 +41097,21 @@ PlaterDB = {
 					"Unruck", -- [1]
 					"Eye of the Storm", -- [2]
 				},
-				[26670] = {
-					"Ymirjar Flesh Hunter", -- [1]
-					"Utgarde Pinnacle", -- [2]
+				[114804] = {
+					"Spectral Charger", -- [1]
+					"Return to Karazhan", -- [2]
 				},
 				[169457] = {
 					"Bargast", -- [1]
 					"Castle Nathria", -- [2]
 				},
-				[137474] = {
-					"King Timalji", -- [1]
-					"Kings' Rest", -- [2]
+				[162038] = {
+					"Regal Mistdancer", -- [1]
+					"Sanguine Depths", -- [2]
 				},
-				[29874] = {
-					"Drakkari Inciter", -- [1]
-					"Gundrak", -- [2]
+				[72351] = {
+					"Dragonmaw Flagbearer", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[137473] = {
 					"Guard Captain Atu", -- [1]
@@ -41078,17 +41121,17 @@ PlaterDB = {
 					"Plague Scientist", -- [1]
 					"Icecrown Citadel", -- [2]
 				},
-				[162038] = {
-					"Regal Mistdancer", -- [1]
-					"Sanguine Depths", -- [2]
+				[130179] = {
+					"Apocalypsis Module", -- [1]
+					"Antorus, the Burning Throne", -- [2]
 				},
 				[123398] = {
 					"Garothi Annihilator", -- [1]
 					"Antorus, the Burning Throne", -- [2]
 				},
-				[165108] = {
-					"Illusionary Clone", -- [1]
-					"Mists of Tirna Scithe", -- [2]
+				[29874] = {
+					"Drakkari Inciter", -- [1]
+					"Gundrak", -- [2]
 				},
 				[169458] = {
 					"Hecutis", -- [1]
@@ -41102,9 +41145,9 @@ PlaterDB = {
 					"Felborne Spellbreaker", -- [1]
 					"Tomb of Sargeras", -- [2]
 				},
-				[130179] = {
-					"Apocalypsis Module", -- [1]
-					"Antorus, the Burning Throne", -- [2]
+				[137474] = {
+					"King Timalji", -- [1]
+					"Kings' Rest", -- [2]
 				},
 				[124166] = {
 					"Torment of Khaz'goroth", -- [1]
@@ -41810,9 +41853,9 @@ PlaterDB = {
 					"Oryphrion", -- [1]
 					"Spires of Ascension", -- [2]
 				},
-				[164363] = {
-					"Undying Stonefiend", -- [1]
-					"Halls of Atonement", -- [2]
+				[168457] = {
+					"Stonewall Gargon", -- [1]
+					"Sanguine Depths", -- [2]
 				},
 				[158478] = {
 					"Corruption Tumor", -- [1]
@@ -42186,9 +42229,9 @@ PlaterDB = {
 					"Alarm-o-Bot", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[149535] = {
-					"Icebound Image", -- [1]
-					"Battle of Dazar'alor", -- [2]
+				[131112] = {
+					"Cutwater Striker", -- [1]
+					"Tol Dagor", -- [2]
 				},
 				[13216] = {
 					"Gaelden Hammersmith", -- [1]
@@ -42218,9 +42261,9 @@ PlaterDB = {
 					"Gnomercy 4.U.", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[165911] = {
-					"Loyal Creation", -- [1]
-					"The Necrotic Wake", -- [2]
+				[149535] = {
+					"Icebound Image", -- [1]
+					"Battle of Dazar'alor", -- [2]
 				},
 				[153885] = {
 					"Deadsoul Shambler", -- [1]
@@ -42326,9 +42369,9 @@ PlaterDB = {
 					"Detect-o-Bot", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[169753] = {
-					"Famished Tick", -- [1]
-					"Sanguine Depths", -- [2]
+				[36841] = {
+					"Fallen Warrior", -- [1]
+					"Pit of Saron", -- [2]
 				},
 				[130582] = {
 					"Despondent Scallywag", -- [1]
@@ -42342,9 +42385,9 @@ PlaterDB = {
 					"Rook Stonetoe", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[153377] = {
-					"Goop", -- [1]
-					"Operation: Mechagon", -- [2]
+				[169753] = {
+					"Famished Tick", -- [1]
+					"Sanguine Depths", -- [2]
 				},
 				[155680] = {
 					"Deephive Summoner", -- [1]
@@ -42358,9 +42401,9 @@ PlaterDB = {
 					"Trapped Saurok", -- [1]
 					"Mogu'shan Scenario", -- [2]
 				},
-				[167963] = {
-					"Headless Client", -- [1]
-					"De Other Side", -- [2]
+				[53793] = {
+					"Harbinger of Flame", -- [1]
+					"Firelands", -- [2]
 				},
 				[129559] = {
 					"Cutwater Duelist", -- [1]
@@ -42378,9 +42421,9 @@ PlaterDB = {
 					"Cellblock Sentinel", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[125977] = {
-					"Reanimation Totem", -- [1]
-					"Atal'Dazar", -- [2]
+				[167963] = {
+					"Headless Client", -- [1]
+					"De Other Side", -- [2]
 				},
 				[163520] = {
 					"Forsworn Squad-Leader", -- [1]
@@ -42534,9 +42577,9 @@ PlaterDB = {
 					"Embodied Anguish", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[124828] = {
-					"Argus the Unmaker", -- [1]
-					"Antorus, the Burning Throne", -- [2]
+				[163618] = {
+					"Zolramus Necromancer", -- [1]
+					"The Necrotic Wake", -- [2]
 				},
 				[129050] = {
 					"Antoran Felguard", -- [1]
@@ -42670,9 +42713,9 @@ PlaterDB = {
 					"The Tarragrue", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[171557] = {
-					"Shade of Bargast", -- [1]
-					"Castle Nathria", -- [2]
+				[159275] = {
+					"Portal Keeper", -- [1]
+					"Horrific Vision of Stormwind", -- [2]
 				},
 				[133685] = {
 					"Befouled Spirit", -- [1]
@@ -42686,9 +42729,9 @@ PlaterDB = {
 					"Storm Drake", -- [1]
 					"Halls of Valor", -- [2]
 				},
-				[123680] = {
-					"Dark Keeper Aedis", -- [1]
-					"Antorus, the Burning Throne", -- [2]
+				[171557] = {
+					"Shade of Bargast", -- [1]
+					"Castle Nathria", -- [2]
 				},
 				[165414] = {
 					"Depraved Obliterator", -- [1]
@@ -42706,9 +42749,9 @@ PlaterDB = {
 					"Sporecaller Zancha", -- [1]
 					"The Underrot", -- [2]
 				},
-				[173604] = {
-					"Sinister Antiquarian", -- [1]
-					"Castle Nathria", -- [2]
+				[123680] = {
+					"Dark Keeper Aedis", -- [1]
+					"Antorus, the Burning Throne", -- [2]
 				},
 				[135989] = {
 					"Shieldbearer of Zul", -- [1]
@@ -42754,9 +42797,9 @@ PlaterDB = {
 					"Frostwarden Warrior", -- [1]
 					"Icecrown Citadel", -- [2]
 				},
-				[159275] = {
-					"Portal Keeper", -- [1]
-					"Horrific Vision of Stormwind", -- [2]
+				[101163] = {
+					"Cursed Guardian", -- [1]
+					"Karazhan Catacombs", -- [2]
 				},
 				[53732] = {
 					"Unbound Smoldering Elemental", -- [1]
@@ -43162,17 +43205,17 @@ PlaterDB = {
 					"Brittlebone Mage", -- [1]
 					"The Necrotic Wake", -- [2]
 				},
-				[37134] = {
-					"Ymirjar Huntress", -- [1]
-					"Icecrown Citadel", -- [2]
+				[26763] = {
+					"Anomalus", -- [1]
+					"The Nexus", -- [2]
 				},
 				[148797] = {
 					"Magus of the Dead", -- [1]
 					"Waycrest Manor", -- [2]
 				},
-				[26763] = {
-					"Anomalus", -- [1]
-					"The Nexus", -- [2]
+				[168878] = {
+					"Rigged Plagueborer", -- [1]
+					"Plaguefall", -- [2]
 				},
 				[163894] = {
 					"Blighted Spinebreaker", -- [1]
@@ -43314,9 +43357,9 @@ PlaterDB = {
 					"Underrot Tick", -- [1]
 					"The Underrot", -- [2]
 				},
-				[165946] = {
-					"Mordretha, the Endless Empress", -- [1]
-					"Theater of Pain", -- [2]
+				[135241] = {
+					"Bilge Rat Pillager", -- [1]
+					"Siege of Boralus", -- [2]
 				},
 				[68036] = {
 					"Durumu the Forgotten", -- [1]
@@ -43326,21 +43369,21 @@ PlaterDB = {
 					"Baroness Frieda", -- [1]
 					"Castle Nathria", -- [2]
 				},
-				[11667] = {
-					"Flameguard", -- [1]
-					"Molten Core", -- [2]
-				},
 				[174134] = {
 					"Lord Evershade", -- [1]
 					"Castle Nathria", -- [2]
+				},
+				[11667] = {
+					"Flameguard", -- [1]
+					"Molten Core", -- [2]
 				},
 				[61029] = {
 					"Primal Fire Elemental", -- [1]
 					"The Battle for Gilneas", -- [2]
 				},
-				[135241] = {
-					"Bilge Rat Pillager", -- [1]
-					"Siege of Boralus", -- [2]
+				[165946] = {
+					"Mordretha, the Endless Empress", -- [1]
+					"Theater of Pain", -- [2]
 				},
 				[160061] = {
 					"Crawling Corruption", -- [1]
@@ -43366,9 +43409,9 @@ PlaterDB = {
 					"Kor'kron War Wolf", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[53545] = {
-					"Molten Spewer", -- [1]
-					"Firelands", -- [2]
+				[70212] = {
+					"Flaming Head", -- [1]
+					"Throne of Thunder", -- [2]
 				},
 				[167994] = {
 					"Ossified Conscript", -- [1]
@@ -43386,9 +43429,9 @@ PlaterDB = {
 					"Drakkari Lancer", -- [1]
 					"Gundrak", -- [2]
 				},
-				[11859] = {
-					"Doomguard", -- [1]
-					"Sanguine Depths", -- [2]
+				[166971] = {
+					"Castellan Niklaus", -- [1]
+					"Castle Nathria", -- [2]
 				},
 				[152898] = {
 					"Deadsoul Chorus", -- [1]
@@ -43798,17 +43841,17 @@ PlaterDB = {
 					"Craggle Wobbletop", -- [1]
 					"Horrific Vision of Stormwind", -- [2]
 				},
-				[171173] = {
-					"Mawsworn Shadestalker", -- [1]
-					"Torghast, Tower of the Damned", -- [2]
+				[26794] = {
+					"Ormorok the Tree-Shaper", -- [1]
+					"The Nexus", -- [2]
 				},
 				[45872] = {
 					"Rohash", -- [1]
 					"Throne of the Four Winds", -- [2]
 				},
-				[26794] = {
-					"Ormorok the Tree-Shaper", -- [1]
-					"The Nexus", -- [2]
+				[125535] = {
+					"Riftworld Assistant", -- [1]
+					"Antorus, the Burning Throne", -- [2]
 				},
 				[159308] = {
 					"Zealous Adherent", -- [1]
@@ -43990,9 +44033,9 @@ PlaterDB = {
 					"Atal'ai Hoodoo Hexxer", -- [1]
 					"De Other Side", -- [2]
 				},
-				[164177] = {
-					"Royal Nightcloak", -- [1]
-					"Revendreth Scenario", -- [2]
+				[119990] = {
+					"Wolf", -- [1]
+					"Waycrest Manor", -- [2]
 				},
 				[152661] = {
 					"Mawsworn Ward", -- [1]
@@ -44006,9 +44049,9 @@ PlaterDB = {
 					"Faeleaf Tender", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[119990] = {
-					"Wolf", -- [1]
-					"Waycrest Manor", -- [2]
+				[153942] = {
+					"Annihilator Lak'hal", -- [1]
+					"Horrific Vision of Orgrimmar", -- [2]
 				},
 				[151638] = {
 					"Crazed Earth Rager", -- [1]
@@ -44046,9 +44089,9 @@ PlaterDB = {
 					"Crazed Gyreworm", -- [1]
 					"Neltharion's Lair - HoA Scenario", -- [2]
 				},
-				[153942] = {
-					"Annihilator Lak'hal", -- [1]
-					"Horrific Vision of Orgrimmar", -- [2]
+				[164177] = {
+					"Royal Nightcloak", -- [1]
+					"Revendreth Scenario", -- [2]
 				},
 				[156245] = {
 					"Grand Automaton", -- [1]
@@ -44290,9 +44333,9 @@ PlaterDB = {
 					"Kar the Everburning", -- [1]
 					"Firelands", -- [2]
 				},
-				[144299] = {
-					"Workshop Defender", -- [1]
-					"Operation: Mechagon", -- [2]
+				[130521] = {
+					"Freehold Deckhand", -- [1]
+					"Freehold", -- [2]
 				},
 				[157605] = {
 					"Burrowing Appendage", -- [1]
@@ -44374,9 +44417,9 @@ PlaterDB = {
 					"Mistveil Matriarch", -- [1]
 					"Mists of Tirna Scithe", -- [2]
 				},
-				[130521] = {
-					"Freehold Deckhand", -- [1]
-					"Freehold", -- [2]
+				[71158] = {
+					"Rik'kal the Dissector", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[136297] = {
 					"Forgotten Denizen", -- [1]
@@ -44434,9 +44477,9 @@ PlaterDB = {
 					"Horrific Figment", -- [1]
 					"Horrific Vision of Orgrimmar", -- [2]
 				},
-				[144232] = {
-					"Rowdy Reveler", -- [1]
-					"The MOTHERLODE!!", -- [2]
+				[164702] = {
+					"Carrion Worm", -- [1]
+					"The Necrotic Wake", -- [2]
 				},
 				[144231] = {
 					"Rowdy Reveler", -- [1]
@@ -44454,9 +44497,9 @@ PlaterDB = {
 					"Nathrian Enforcer", -- [1]
 					"Castle Nathria", -- [2]
 				},
-				[72276] = {
-					"Amalgam of Corruption", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[52530] = {
+					"Alysrazor", -- [1]
+					"Firelands", -- [2]
 				},
 				[3527] = {
 					"Healing Stream Totem", -- [1]
@@ -44466,17 +44509,17 @@ PlaterDB = {
 					"Dread Captain Lockwood", -- [1]
 					"Siege of Boralus", -- [2]
 				},
-				[158371] = {
-					"Zardeth of the Black Claw", -- [1]
-					"Horrific Vision of Stormwind", -- [2]
+				[129369] = {
+					"Irontide Raider", -- [1]
+					"Siege of Boralus", -- [2]
 				},
-				[12101] = {
-					"Lava Surger", -- [1]
-					"Molten Core", -- [2]
+				[144232] = {
+					"Rowdy Reveler", -- [1]
+					"The MOTHERLODE!!", -- [2]
 				},
-				[173146] = {
-					"Winged Ravager", -- [1]
-					"Castle Nathria", -- [2]
+				[72276] = {
+					"Amalgam of Corruption", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[144298] = {
 					"Defense Bot Mk III", -- [1]
@@ -44486,9 +44529,9 @@ PlaterDB = {
 					"Nathrian Executor", -- [1]
 					"Castle Nathria", -- [2]
 				},
-				[129369] = {
-					"Irontide Raider", -- [1]
-					"Siege of Boralus", -- [2]
+				[26729] = {
+					"Steward", -- [1]
+					"The Nexus", -- [2]
 				},
 				[69078] = {
 					"Sul the Sandcrawler", -- [1]
@@ -44586,9 +44629,9 @@ PlaterDB = {
 					"Gorm Behemoth", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[151658] = {
-					"Strider Tonk", -- [1]
-					"Operation: Mechagon", -- [2]
+				[1860] = {
+					"Graz'krast", -- [1]
+					"Shrine of the Storm", -- [2]
 				},
 				[100937] = {
 					"Dark Rider", -- [1]
@@ -44650,9 +44693,9 @@ PlaterDB = {
 					"Forlorn Spirit", -- [1]
 					"Return to Karazhan", -- [2]
 				},
-				[174175] = {
-					"Loyal Stoneborn", -- [1]
-					"Halls of Atonement", -- [2]
+				[172128] = {
+					"Hero", -- [1]
+					"Vision of Ysera Scenario", -- [2]
 				},
 				[166301] = {
 					"Mistveil Stalker", -- [1]
@@ -44682,17 +44725,17 @@ PlaterDB = {
 					"Lord Stormsong", -- [1]
 					"Shrine of the Storm", -- [2]
 				},
-				[128060] = {
-					"Priestess of Delirium", -- [1]
-					"Antorus, the Burning Throne", -- [2]
+				[151659] = {
+					"Rocket Tonk", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[158056] = {
 					"Rat", -- [1]
 					"Horrific Vision of Stormwind", -- [2]
 				},
-				[156523] = {
-					"Maut", -- [1]
-					"Ny'alotha, the Waking City", -- [2]
+				[172899] = {
+					"Nathrian Enforcer", -- [1]
+					"Castle Nathria", -- [2]
 				},
 				[170850] = {
 					"Raging Bloodhorn", -- [1]
@@ -44742,9 +44785,9 @@ PlaterDB = {
 					"Scrapbone Grunter", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[26722] = {
-					"Azure Magus", -- [1]
-					"The Nexus", -- [2]
+				[158315] = {
+					"Eye of Chaos", -- [1]
+					"Horrific Vision of Stormwind", -- [2]
 				},
 				[154018] = {
 					"Prisonbreak Mauler", -- [1]
@@ -44758,8 +44801,8 @@ PlaterDB = {
 					"Ashvane Sniper", -- [1]
 					"Siege of Boralus", -- [2]
 				},
-				[162664] = {
-					"Aqir Swarmer", -- [1]
+				[156523] = {
+					"Maut", -- [1]
 					"Ny'alotha, the Waking City", -- [2]
 				},
 				[164967] = {
@@ -44778,17 +44821,17 @@ PlaterDB = {
 					"Skeletal Waiter", -- [1]
 					"Return to Karazhan", -- [2]
 				},
-				[141939] = {
-					"Ashvane Spotter", -- [1]
-					"Siege of Boralus", -- [2]
+				[26722] = {
+					"Azure Magus", -- [1]
+					"The Nexus", -- [2]
 				},
 				[26690] = {
 					"Ymirjar Warrior", -- [1]
 					"Utgarde Pinnacle", -- [2]
 				},
-				[158315] = {
-					"Eye of Chaos", -- [1]
-					"Horrific Vision of Stormwind", -- [2]
+				[141939] = {
+					"Ashvane Spotter", -- [1]
+					"Siege of Boralus", -- [2]
 				},
 				[37116] = {
 					"Skybreaker Sorcerer", -- [1]
@@ -44798,13 +44841,13 @@ PlaterDB = {
 					"Amalgamation of Flesh", -- [1]
 					"Ny'alotha, the Waking City", -- [2]
 				},
-				[53185] = {
-					"Flamewaker Overseer", -- [1]
-					"Firelands", -- [2]
+				[114526] = {
+					"Ghostly Understudy", -- [1]
+					"Return to Karazhan", -- [2]
 				},
-				[144293] = {
-					"Waste Processing Unit", -- [1]
-					"Operation: Mechagon", -- [2]
+				[71155] = {
+					"Korven the Prime", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[129598] = {
 					"Freehold Pack Mule", -- [1]
@@ -44826,9 +44869,9 @@ PlaterDB = {
 					"Ahn'kahar Watcher", -- [1]
 					"Ahn'kahet: The Old Kingdom", -- [2]
 				},
-				[129599] = {
-					"Cutwater Knife Juggler", -- [1]
-					"Freehold", -- [2]
+				[70236] = {
+					"Zandalari Storm-Caller", -- [1]
+					"Throne of Thunder", -- [2]
 				},
 				[5925] = {
 					"Grounding Totem", -- [1]
@@ -44850,9 +44893,9 @@ PlaterDB = {
 					"Coin-Operated Crowd Pummeler", -- [1]
 					"The MOTHERLODE!!", -- [2]
 				},
-				[114526] = {
-					"Ghostly Understudy", -- [1]
-					"Return to Karazhan", -- [2]
+				[161437] = {
+					"Explosive Scarab", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[144244] = {
 					"The Platinum Pummeler", -- [1]
@@ -44862,9 +44905,9 @@ PlaterDB = {
 					"Frozen Head", -- [1]
 					"Throne of Thunder", -- [2]
 				},
-				[120516] = {
-					"Razorjaw Swiftfin", -- [1]
-					"Tomb of Sargeras", -- [2]
+				[71388] = {
+					"Amber-Encased Kunchong", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[60849] = {
 					"Jade Serpent Statue", -- [1]
@@ -44874,9 +44917,9 @@ PlaterDB = {
 					"Spectral Patron", -- [1]
 					"Return to Karazhan", -- [2]
 				},
-				[71155] = {
-					"Korven the Prime", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[134058] = {
+					"Galecaller Faye", -- [1]
+					"Shrine of the Storm", -- [2]
 				},
 				[156015] = {
 					"Writhing Soulmass", -- [1]
@@ -44898,9 +44941,9 @@ PlaterDB = {
 					"Mountaineer Boombellow", -- [1]
 					"Alterac Valley", -- [2]
 				},
-				[71515] = {
-					"General Nazgrim", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[116549] = {
+					"Backup Singer", -- [1]
+					"Return to Karazhan", -- [2]
 				},
 				[71772] = {
 					"Kor'kron Assassin", -- [1]
@@ -44914,17 +44957,17 @@ PlaterDB = {
 					"Enthralled Footman", -- [1]
 					"Horrific Vision of Stormwind", -- [2]
 				},
-				[129600] = {
-					"Bilge Rat Brinescale", -- [1]
-					"Freehold", -- [2]
+				[12118] = {
+					"Lucifron", -- [1]
+					"Molten Core", -- [2]
 				},
 				[144246] = {
 					"K.U.-J.0.", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[70236] = {
-					"Zandalari Storm-Caller", -- [1]
-					"Throne of Thunder", -- [2]
+				[129599] = {
+					"Cutwater Knife Juggler", -- [1]
+					"Freehold", -- [2]
 				},
 				[72411] = {
 					"Kor'kron Provisioner", -- [1]
@@ -44958,9 +45001,9 @@ PlaterDB = {
 					"Spirit of Gold", -- [1]
 					"Atal'Dazar", -- [2]
 				},
-				[71388] = {
-					"Amber-Encased Kunchong", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[120516] = {
+					"Razorjaw Swiftfin", -- [1]
+					"Tomb of Sargeras", -- [2]
 				},
 				[155250] = {
 					"Decayspeaker", -- [1]
@@ -44986,17 +45029,17 @@ PlaterDB = {
 					"Head Machinist Sparkflux", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[12118] = {
-					"Lucifron", -- [1]
-					"Molten Core", -- [2]
+				[129600] = {
+					"Bilge Rat Brinescale", -- [1]
+					"Freehold", -- [2]
 				},
 				[72412] = {
 					"Kor'kron Grunt", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[95832] = {
-					"Valarjar Shieldmaiden", -- [1]
-					"Halls of Valor", -- [2]
+				[134284] = {
+					"Fallen Deathspeaker", -- [1]
+					"The Underrot", -- [2]
 				},
 				[154744] = {
 					"Toxic Monstrosity", -- [1]
@@ -45022,9 +45065,9 @@ PlaterDB = {
 					"Battlesewn Render", -- [1]
 					"The Necrotic Wake", -- [2]
 				},
-				[114637] = {
-					"Spectral Sentry", -- [1]
-					"Return to Karazhan", -- [2]
+				[73185] = {
+					"Enraged Mushan Beast", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[167534] = {
 					"Rek the Hardened", -- [1]
@@ -45054,9 +45097,9 @@ PlaterDB = {
 					"Cutwater Harpooner", -- [1]
 					"Freehold", -- [2]
 				},
-				[133007] = {
-					"Unbound Abomination", -- [1]
-					"The Underrot", -- [2]
+				[152699] = {
+					"Voidbound Berserker", -- [1]
+					"Horrific Vision of Orgrimmar", -- [2]
 				},
 				[127810] = {
 					"Slobbering Fiend", -- [1]
@@ -45074,17 +45117,17 @@ PlaterDB = {
 					"Nerub'ar Webweaver", -- [1]
 					"Icecrown Citadel", -- [2]
 				},
-				[28067] = {
-					"Dark Iron Brewer", -- [1]
-					"Blackrock Depths", -- [2]
+				[30178] = {
+					"Ahn'kahar Swarmer", -- [1]
+					"Ahn'kahet: The Old Kingdom", -- [2]
 				},
 				[72945] = {
 					"Dragonmaw Bonecrusher", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[30178] = {
-					"Ahn'kahar Swarmer", -- [1]
-					"Ahn'kahet: The Old Kingdom", -- [2]
+				[128969] = {
+					"Ashvane Commander", -- [1]
+					"Siege of Boralus", -- [2]
 				},
 				[132481] = {
 					"Kul Tiran Vanguard", -- [1]
@@ -45106,13 +45149,13 @@ PlaterDB = {
 					"Commander Na'kaz", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[71395] = {
-					"Modified Anima Golem", -- [1]
-					"Siege of Orgrimmar", -- [2]
-				},
 				[120777] = {
 					"Guardian Sentry", -- [1]
 					"Tomb of Sargeras", -- [2]
+				},
+				[95832] = {
+					"Valarjar Shieldmaiden", -- [1]
+					"Halls of Valor", -- [2]
 				},
 				[129602] = {
 					"Irontide Enforcer", -- [1]
@@ -45122,9 +45165,9 @@ PlaterDB = {
 					"Bwemba", -- [1]
 					"Horrific Vision of Orgrimmar", -- [2]
 				},
-				[53115] = {
-					"Molten Lord", -- [1]
-					"Firelands", -- [2]
+				[26692] = {
+					"Ymirjar Harpooner", -- [1]
+					"Utgarde Pinnacle", -- [2]
 				},
 				[171887] = {
 					"Slimy Smorgasbord", -- [1]
@@ -45138,9 +45181,9 @@ PlaterDB = {
 					"Miniature Soulmass", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[12119] = {
-					"Flamewaker Protector", -- [1]
-					"Molten Core", -- [2]
+				[173178] = {
+					"Stone Legion Goliath", -- [1]
+					"Castle Nathria", -- [2]
 				},
 				[135846] = {
 					"Sand-Crusted Striker", -- [1]
@@ -45166,9 +45209,9 @@ PlaterDB = {
 					"Darkfang", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[166264] = {
-					"Spare Parts", -- [1]
-					"The Necrotic Wake", -- [2]
+				[54143] = {
+					"Molten Flamefather", -- [1]
+					"Firelands", -- [2]
 				},
 				[158327] = {
 					"Crackling Shard", -- [1]
@@ -45178,21 +45221,21 @@ PlaterDB = {
 					"Drakkari Medicine Man", -- [1]
 					"Gundrak", -- [2]
 				},
-				[138369] = {
-					"Footbomb Hooligan", -- [1]
-					"The MOTHERLODE!!", -- [2]
+				[70240] = {
+					"Shan'ze Celestial Shaper", -- [1]
+					"Throne of Thunder", -- [2]
 				},
 				[169330] = {
 					"Mucky Grunt", -- [1]
 					"Revendreth Scenario", -- [2]
 				},
-				[73185] = {
-					"Enraged Mushan Beast", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[114637] = {
+					"Spectral Sentry", -- [1]
+					"Return to Karazhan", -- [2]
 				},
-				[152987] = {
-					"Faceless Willbreaker", -- [1]
-					"Horrific Vision of Stormwind", -- [2]
+				[157571] = {
+					"Mawsworn Flametender", -- [1]
+					"Torghast, Tower of the Damned", -- [2]
 				},
 				[53120] = {
 					"Flamewaker Pathfinder", -- [1]
@@ -45202,17 +45245,17 @@ PlaterDB = {
 					"Kovok", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[126919] = {
-					"Irontide Stormcaller", -- [1]
-					"Freehold", -- [2]
+				[152704] = {
+					"Crawling Corruption", -- [1]
+					"Horrific Vision of Stormwind", -- [2]
 				},
 				[150396] = {
 					"Aerial Unit R-21/X", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[37695] = {
-					"Drudge Ghoul", -- [1]
-					"Icecrown Citadel", -- [2]
+				[28067] = {
+					"Dark Iron Brewer", -- [1]
+					"Blackrock Depths", -- [2]
 				},
 				[71392] = {
 					"Shadow Ritualist Phylactery", -- [1]
@@ -45234,9 +45277,9 @@ PlaterDB = {
 					"Commander Tik", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[167806] = {
-					"Animated Sin", -- [1]
-					"Halls of Atonement", -- [2]
+				[99541] = {
+					"Risen Skulker", -- [1]
+					"Theater of Pain", -- [2]
 				},
 				[30338] = {
 					"Ahn'kahar Swarmer", -- [1]
@@ -45246,17 +45289,17 @@ PlaterDB = {
 					"SI:7 Light-Hunter", -- [1]
 					"Horrific Vision of Stormwind", -- [2]
 				},
-				[167033] = {
-					"Putrid Shambler", -- [1]
-					"The Necrotic Wake", -- [2]
+				[132491] = {
+					"Kul Tiran Marksman", -- [1]
+					"Siege of Boralus", -- [2]
 				},
 				[95061] = {
 					"Greater Fire Elemental", -- [1]
 					"Deepwind Gorge", -- [2]
 				},
-				[165251] = {
-					"Illusionary Vulpin", -- [1]
-					"Mists of Tirna Scithe", -- [2]
+				[53115] = {
+					"Molten Lord", -- [1]
+					"Firelands", -- [2]
 				},
 				[174194] = {
 					"Court Executor", -- [1]
@@ -45302,9 +45345,9 @@ PlaterDB = {
 					"Scrapbone Grinder", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[29830] = {
-					"Living Mojo", -- [1]
-					"Gundrak", -- [2]
+				[37127] = {
+					"Ymirjar Frostbinder", -- [1]
+					"Icecrown Citadel", -- [2]
 				},
 				[175992] = {
 					"Dutiful Attendant", -- [1]
@@ -45326,29 +45369,29 @@ PlaterDB = {
 					"Harbor Saurid", -- [1]
 					"The Underrot", -- [2]
 				},
-				[72929] = {
-					"Sra'thik Amber-Master", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[166264] = {
+					"Spare Parts", -- [1]
+					"The Necrotic Wake", -- [2]
 				},
 				[153755] = {
 					"Naeno Megacrash", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[134024] = {
-					"Devouring Maggot", -- [1]
-					"Waycrest Manor", -- [2]
+				[158588] = {
+					"Gamon", -- [1]
+					"Horrific Vision of Orgrimmar", -- [2]
 				},
-				[170882] = {
-					"Bone Magus", -- [1]
-					"Theater of Pain", -- [2]
+				[136083] = {
+					"Forgotten Denizen", -- [1]
+					"Shrine of the Storm", -- [2]
 				},
-				[114266] = {
-					"Shoreline Tidespeaker", -- [1]
-					"Return to Karazhan", -- [2]
+				[136353] = {
+					"Colossal Tentacle", -- [1]
+					"Shrine of the Storm", -- [2]
 				},
-				[54143] = {
-					"Molten Flamefather", -- [1]
-					"Firelands", -- [2]
+				[71408] = {
+					"Kun-Da", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[135048] = {
 					"Gorestained Piglet", -- [1]
@@ -45366,13 +45409,13 @@ PlaterDB = {
 					"Ragnaros", -- [1]
 					"Firelands", -- [2]
 				},
-				[157571] = {
-					"Mawsworn Flametender", -- [1]
-					"Torghast, Tower of the Damned", -- [2]
+				[167806] = {
+					"Animated Sin", -- [1]
+					"Halls of Atonement", -- [2]
 				},
-				[152704] = {
-					"Crawling Corruption", -- [1]
-					"Horrific Vision of Stormwind", -- [2]
+				[167033] = {
+					"Putrid Shambler", -- [1]
+					"The Necrotic Wake", -- [2]
 				},
 				[54015] = {
 					"Majordomo Staghelm", -- [1]
@@ -45406,9 +45449,9 @@ PlaterDB = {
 					"Captain Arnath", -- [1]
 					"Icecrown Citadel", -- [2]
 				},
-				[132491] = {
-					"Kul Tiran Marksman", -- [1]
-					"Siege of Boralus", -- [2]
+				[171384] = {
+					"Research Scribe", -- [1]
+					"Sanguine Depths", -- [2]
 				},
 				[120651] = {
 					"Explosives", -- [1]
@@ -45438,9 +45481,9 @@ PlaterDB = {
 					"Soul Thorns", -- [1]
 					"Waycrest Manor", -- [2]
 				},
-				[69352] = {
-					"Vampiric Cave Bat", -- [1]
-					"Throne of Thunder", -- [2]
+				[165251] = {
+					"Illusionary Vulpin", -- [1]
+					"Mists of Tirna Scithe", -- [2]
 				},
 				[116689] = {
 					"Atrigan", -- [1]
@@ -45450,9 +45493,9 @@ PlaterDB = {
 					"Skyfury Totem", -- [1]
 					"The Battle for Gilneas", -- [2]
 				},
-				[4255] = {
-					"Brogus Thunderbrew", -- [1]
-					"Alterac Valley", -- [2]
+				[127315] = {
+					"Reanimation Totem", -- [1]
+					"Atal'Dazar", -- [2]
 				},
 				[144286] = {
 					"Asset Manager", -- [1]
@@ -45498,9 +45541,9 @@ PlaterDB = {
 					"Agitated Nimbus", -- [1]
 					"Temple of Sethraliss", -- [2]
 				},
-				[173178] = {
-					"Stone Legion Goliath", -- [1]
-					"Castle Nathria", -- [2]
+				[12119] = {
+					"Flamewaker Protector", -- [1]
+					"Molten Core", -- [2]
 				},
 				[37571] = {
 					"Darkfallen Advisor", -- [1]
@@ -45514,17 +45557,17 @@ PlaterDB = {
 					"Deathspeaker Disciple", -- [1]
 					"Icecrown Citadel", -- [2]
 				},
-				[114265] = {
-					"Gang Ruffian", -- [1]
-					"Return to Karazhan", -- [2]
+				[95842] = {
+					"Valarjar Thundercaller", -- [1]
+					"Halls of Valor", -- [2]
 				},
 				[120013] = {
 					"The Dread Stalker", -- [1]
 					"Tomb of Sargeras", -- [2]
 				},
-				[136353] = {
-					"Colossal Tentacle", -- [1]
-					"Shrine of the Storm", -- [2]
+				[140447] = {
+					"Demolishing Terror", -- [1]
+					"Siege of Boralus", -- [2]
 				},
 				[73188] = {
 					"Captive Cave Bat", -- [1]
@@ -45542,9 +45585,9 @@ PlaterDB = {
 					"Ahn'kahar Web Winder", -- [1]
 					"Ahn'kahet: The Old Kingdom", -- [2]
 				},
-				[128969] = {
-					"Ashvane Commander", -- [1]
-					"Siege of Boralus", -- [2]
+				[133007] = {
+					"Unbound Abomination", -- [1]
+					"The Underrot", -- [2]
 				},
 				[5134] = {
 					"Jonivera Farmountain", -- [1]
@@ -45578,9 +45621,9 @@ PlaterDB = {
 					"Mawsworn Firecaller", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[114262] = {
-					"Attumen the Huntsman", -- [1]
-					"Return to Karazhan", -- [2]
+				[173191] = {
+					"Soulstalker V'lara", -- [1]
+					"Torghast, Tower of the Damned", -- [2]
 				},
 				[137614] = {
 					"Demolishing Terror", -- [1]
@@ -45662,9 +45705,9 @@ PlaterDB = {
 					"Core Hound", -- [1]
 					"Waycrest Manor", -- [2]
 				},
-				[120527] = {
-					"Jhorneth", -- [1]
-					"Warsong Gulch", -- [2]
+				[69352] = {
+					"Vampiric Cave Bat", -- [1]
+					"Throne of Thunder", -- [2]
 				},
 				[169601] = {
 					"Stone Legion Commando", -- [1]
@@ -45674,9 +45717,9 @@ PlaterDB = {
 					"Vile Occultist", -- [1]
 					"Castle Nathria", -- [2]
 				},
-				[127315] = {
-					"Reanimation Totem", -- [1]
-					"Atal'Dazar", -- [2]
+				[150169] = {
+					"Toxic Lurker", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[166275] = {
 					"Mistveil Shaper", -- [1]
@@ -45718,9 +45761,9 @@ PlaterDB = {
 					"Fen Hatchling", -- [1]
 					"Plaguefall", -- [2]
 				},
-				[73191] = {
-					"Aqueous Defender", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[170882] = {
+					"Bone Magus", -- [1]
+					"Theater of Pain", -- [2]
 				},
 				[130635] = {
 					"Stonefury", -- [1]
@@ -45730,9 +45773,9 @@ PlaterDB = {
 					"Vol'kaal", -- [1]
 					"Atal'Dazar", -- [2]
 				},
-				[168073] = {
-					"Fallen Monk", -- [1]
-					"The Battle for Gilneas", -- [2]
+				[72810] = {
+					"Staff of Resonating Water", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[173953] = {
 					"Loyal Gargon", -- [1]
@@ -45754,13 +45797,13 @@ PlaterDB = {
 					"Lady Inerva Darkvein", -- [1]
 					"Castle Nathria", -- [2]
 				},
-				[175238] = {
-					"Arch-Tyrant Zerios", -- [1]
-					"Torghast, Tower of the Damned", -- [2]
+				[122450] = {
+					"Garothi Worldbreaker", -- [1]
+					"Antorus, the Burning Throne", -- [2]
 				},
-				[95842] = {
-					"Valarjar Thundercaller", -- [1]
-					"Halls of Valor", -- [2]
+				[156821] = {
+					"Darkmaul Shadowcaller", -- [1]
+					"Darkmaul Citadel", -- [2]
 				},
 				[161416] = {
 					"Aqir Shadowcrafter", -- [1]
@@ -45826,9 +45869,9 @@ PlaterDB = {
 					"Ursula Direbrew", -- [1]
 					"Blackrock Depths", -- [2]
 				},
-				[34886] = {
-					"Bird of Prey", -- [1]
-					"Waycrest Manor", -- [2]
+				[168074] = {
+					"Fallen Monk", -- [1]
+					"The Battle for Gilneas", -- [2]
 				},
 				[13447] = {
 					"Corporal Noreg Stormpike", -- [1]
@@ -45898,9 +45941,9 @@ PlaterDB = {
 					"Darkmaul Channeler", -- [1]
 					"Darkmaul Citadel", -- [2]
 				},
-				[11672] = {
-					"Core Rager", -- [1]
-					"Molten Core", -- [2]
+				[168073] = {
+					"Fallen Monk", -- [1]
+					"The Battle for Gilneas", -- [2]
 				},
 				[73195] = {
 					"Kor'kron Jailer", -- [1]
@@ -45914,9 +45957,9 @@ PlaterDB = {
 					"Drakkari Elemental", -- [1]
 					"Gundrak", -- [2]
 				},
-				[173191] = {
-					"Soulstalker V'lara", -- [1]
-					"Torghast, Tower of the Damned", -- [2]
+				[114262] = {
+					"Attumen the Huntsman", -- [1]
+					"Return to Karazhan", -- [2]
 				},
 				[122578] = {
 					"Kin'garoth", -- [1]
@@ -45930,9 +45973,9 @@ PlaterDB = {
 					"Forge Keeper", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[135322] = {
-					"The Golden Serpent", -- [1]
-					"Kings' Rest", -- [2]
+				[34886] = {
+					"Bird of Prey", -- [1]
+					"Waycrest Manor", -- [2]
 				},
 				[137625] = {
 					"Demolishing Terror", -- [1]
@@ -46086,9 +46129,9 @@ PlaterDB = {
 					"Riplimb", -- [1]
 					"Firelands", -- [2]
 				},
-				[168074] = {
-					"Fallen Monk", -- [1]
-					"The Battle for Gilneas", -- [2]
+				[135322] = {
+					"The Golden Serpent", -- [1]
+					"Kings' Rest", -- [2]
 				},
 				[155797] = {
 					"Animated Guardian", -- [1]
@@ -46106,13 +46149,13 @@ PlaterDB = {
 					"Lesser Sha Puddle", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[156821] = {
-					"Darkmaul Shadowcaller", -- [1]
-					"Darkmaul Citadel", -- [2]
+				[114265] = {
+					"Gang Ruffian", -- [1]
+					"Return to Karazhan", -- [2]
 				},
-				[122450] = {
-					"Garothi Worldbreaker", -- [1]
-					"Antorus, the Burning Throne", -- [2]
+				[175238] = {
+					"Arch-Tyrant Zerios", -- [1]
+					"Torghast, Tower of the Damned", -- [2]
 				},
 				[157333] = {
 					"Darkwhisper Cultist", -- [1]
@@ -46126,13 +46169,13 @@ PlaterDB = {
 					"Scaled Krolusk Tamer", -- [1]
 					"Temple of Sethraliss", -- [2]
 				},
-				[72810] = {
-					"Staff of Resonating Water", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[11672] = {
+					"Core Rager", -- [1]
+					"Molten Core", -- [2]
 				},
-				[150169] = {
-					"Toxic Lurker", -- [1]
-					"Operation: Mechagon", -- [2]
+				[4255] = {
+					"Brogus Thunderbrew", -- [1]
+					"Alterac Valley", -- [2]
 				},
 				[26727] = {
 					"Mage Hunter Ascendant", -- [1]
@@ -46170,9 +46213,9 @@ PlaterDB = {
 					"Venomous Sniper Captain", -- [1]
 					"Plaguefall", -- [2]
 				},
-				[140447] = {
-					"Demolishing Terror", -- [1]
-					"Siege of Boralus", -- [2]
+				[114266] = {
+					"Shoreline Tidespeaker", -- [1]
+					"Return to Karazhan", -- [2]
 				},
 				[53119] = {
 					"Flamewaker Forward Guard", -- [1]
@@ -46186,9 +46229,9 @@ PlaterDB = {
 					"Observer Zelgar", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[136083] = {
-					"Forgotten Denizen", -- [1]
-					"Shrine of the Storm", -- [2]
+				[73191] = {
+					"Aqueous Defender", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[131492] = {
 					"Devout Blood Priest", -- [1]
@@ -46198,9 +46241,9 @@ PlaterDB = {
 					"Chamber Sentinel", -- [1]
 					"Sanguine Depths", -- [2]
 				},
-				[37127] = {
-					"Ymirjar Frostbinder", -- [1]
-					"Icecrown Citadel", -- [2]
+				[29830] = {
+					"Living Mojo", -- [1]
+					"Gundrak", -- [2]
 				},
 				[123478] = {
 					"Antoran Felguard", -- [1]
@@ -46238,9 +46281,9 @@ PlaterDB = {
 					"Darkmaul Centurion", -- [1]
 					"Darkmaul Citadel", -- [2]
 				},
-				[71408] = {
-					"Kun-Da", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[152987] = {
+					"Faceless Willbreaker", -- [1]
+					"Horrific Vision of Stormwind", -- [2]
 				},
 				[157337] = {
 					"Spawn of Shad'har", -- [1]
@@ -46266,9 +46309,9 @@ PlaterDB = {
 					"Sunken Denizen", -- [1]
 					"Shrine of the Storm", -- [2]
 				},
-				[134284] = {
-					"Fallen Deathspeaker", -- [1]
-					"The Underrot", -- [2]
+				[37697] = {
+					"Volatile Ooze", -- [1]
+					"Icecrown Citadel", -- [2]
 				},
 				[152988] = {
 					"Faceless Shadowcaller", -- [1]
@@ -46282,13 +46325,13 @@ PlaterDB = {
 					"Lesser Void Elemental", -- [1]
 					"Horrific Vision of Orgrimmar", -- [2]
 				},
-				[171384] = {
-					"Research Scribe", -- [1]
-					"Sanguine Depths", -- [2]
+				[120527] = {
+					"Jhorneth", -- [1]
+					"Warsong Gulch", -- [2]
 				},
-				[99541] = {
-					"Risen Skulker", -- [1]
-					"Theater of Pain", -- [2]
+				[71395] = {
+					"Modified Anima Golem", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[120153] = {
 					"Eonic Defender", -- [1]
@@ -46326,17 +46369,17 @@ PlaterDB = {
 					"Mage Hunter Initiate", -- [1]
 					"The Nexus", -- [2]
 				},
-				[37697] = {
-					"Volatile Ooze", -- [1]
-					"Icecrown Citadel", -- [2]
+				[134024] = {
+					"Devouring Maggot", -- [1]
+					"Waycrest Manor", -- [2]
 				},
 				[26792] = {
 					"Crystalline Protector", -- [1]
 					"The Nexus", -- [2]
 				},
-				[26692] = {
-					"Ymirjar Harpooner", -- [1]
-					"Utgarde Pinnacle", -- [2]
+				[72929] = {
+					"Sra'thik Amber-Master", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[157340] = {
 					"Skeletal Remains", -- [1]
@@ -46354,21 +46397,21 @@ PlaterDB = {
 					"Imprisoned Cabalist", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[152699] = {
-					"Voidbound Berserker", -- [1]
-					"Horrific Vision of Orgrimmar", -- [2]
+				[37695] = {
+					"Drudge Ghoul", -- [1]
+					"Icecrown Citadel", -- [2]
 				},
 				[134056] = {
 					"Aqu'sirr", -- [1]
 					"Shrine of the Storm", -- [2]
 				},
-				[158588] = {
-					"Gamon", -- [1]
-					"Horrific Vision of Orgrimmar", -- [2]
+				[126919] = {
+					"Irontide Stormcaller", -- [1]
+					"Freehold", -- [2]
 				},
-				[70240] = {
-					"Shan'ze Celestial Shaper", -- [1]
-					"Throne of Thunder", -- [2]
+				[138369] = {
+					"Footbomb Hooligan", -- [1]
+					"The MOTHERLODE!!", -- [2]
 				},
 				[165529] = {
 					"Depraved Collector", -- [1]
@@ -46422,9 +46465,9 @@ PlaterDB = {
 					"Kor'kron Warshaman", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[134058] = {
-					"Galecaller Faye", -- [1]
-					"Shrine of the Storm", -- [2]
+				[144293] = {
+					"Waste Processing Unit", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[61245] = {
 					"Capacitor Totem", -- [1]
@@ -46434,9 +46477,9 @@ PlaterDB = {
 					"Flamewaker Cauterizer", -- [1]
 					"Firelands", -- [2]
 				},
-				[161437] = {
-					"Explosive Scarab", -- [1]
-					"Operation: Mechagon", -- [2]
+				[53185] = {
+					"Flamewaker Overseer", -- [1]
+					"Firelands", -- [2]
 				},
 				[162417] = {
 					"Anubisath Sentinel", -- [1]
@@ -46458,9 +46501,9 @@ PlaterDB = {
 					"Mechagon Tinkerer", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[116549] = {
-					"Backup Singer", -- [1]
-					"Return to Karazhan", -- [2]
+				[165483] = {
+					"Court Hierarch", -- [1]
+					"Castle Nathria", -- [2]
 				},
 				[173464] = {
 					"Deplina", -- [1]
@@ -46482,17 +46525,17 @@ PlaterDB = {
 					"Kor'kron Demolisher", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[165483] = {
-					"Court Hierarch", -- [1]
-					"Castle Nathria", -- [2]
+				[71515] = {
+					"General Nazgrim", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[156577] = {
 					"Therum Deepforge", -- [1]
 					"Horrific Vision of Stormwind", -- [2]
 				},
-				[172899] = {
-					"Nathrian Enforcer", -- [1]
-					"Castle Nathria", -- [2]
+				[162664] = {
+					"Aqir Swarmer", -- [1]
+					"Ny'alotha, the Waking City", -- [2]
 				},
 				[72408] = {
 					"Anti-Air Turret", -- [1]
@@ -46502,9 +46545,9 @@ PlaterDB = {
 					"Aqualing", -- [1]
 					"Shrine of the Storm", -- [2]
 				},
-				[151659] = {
-					"Rocket Tonk", -- [1]
-					"Operation: Mechagon", -- [2]
+				[72791] = {
+					"Lingering Corruption", -- [1]
+					"Siege of Orgrimmar", -- [2]
 				},
 				[12057] = {
 					"Garr", -- [1]
@@ -46522,9 +46565,9 @@ PlaterDB = {
 					"Spider Tank", -- [1]
 					"Operation: Mechagon", -- [2]
 				},
-				[72791] = {
-					"Lingering Corruption", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[128060] = {
+					"Priestess of Delirium", -- [1]
+					"Antorus, the Burning Throne", -- [2]
 				},
 				[173466] = {
 					"Fara", -- [1]
@@ -46534,9 +46577,9 @@ PlaterDB = {
 					"Reformed Maiden", -- [1]
 					"Return to Karazhan", -- [2]
 				},
-				[172128] = {
-					"Hero", -- [1]
-					"Vision of Ysera Scenario", -- [2]
+				[174175] = {
+					"Loyal Stoneborn", -- [1]
+					"Halls of Atonement", -- [2]
 				},
 				[71383] = {
 					"Kor'thik Warcaller", -- [1]
@@ -46554,9 +46597,9 @@ PlaterDB = {
 					"Xaril the Poisoned Mind", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[1860] = {
-					"Graz'krast", -- [1]
-					"Shrine of the Storm", -- [2]
+				[151658] = {
+					"Strider Tonk", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[173405] = {
 					"Deathspeaker Yutla", -- [1]
@@ -46578,9 +46621,9 @@ PlaterDB = {
 					"Svalbrad Farmountain", -- [1]
 					"Alterac Valley", -- [2]
 				},
-				[26729] = {
-					"Steward", -- [1]
-					"The Nexus", -- [2]
+				[158371] = {
+					"Zardeth of the Black Claw", -- [1]
+					"Horrific Vision of Stormwind", -- [2]
 				},
 				[134063] = {
 					"Brother Ironhull", -- [1]
@@ -46590,13 +46633,13 @@ PlaterDB = {
 					"Crystalline Frayer", -- [1]
 					"The Nexus", -- [2]
 				},
-				[52530] = {
-					"Alysrazor", -- [1]
-					"Firelands", -- [2]
+				[173146] = {
+					"Winged Ravager", -- [1]
+					"Castle Nathria", -- [2]
 				},
-				[164702] = {
-					"Carrion Worm", -- [1]
-					"The Necrotic Wake", -- [2]
+				[12101] = {
+					"Lava Surger", -- [1]
+					"Molten Core", -- [2]
 				},
 				[157604] = {
 					"Crawling Corruption", -- [1]
@@ -46614,9 +46657,9 @@ PlaterDB = {
 					"Plague Doctor", -- [1]
 					"Temple of Sethraliss", -- [2]
 				},
-				[71158] = {
-					"Rik'kal the Dissector", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[144299] = {
+					"Workshop Defender", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[171166] = {
 					"Unraveling Soul Remnant", -- [1]
@@ -46842,9 +46885,9 @@ PlaterDB = {
 					"Ymirjar Battle-Maiden", -- [1]
 					"Icecrown Citadel", -- [2]
 				},
-				[125535] = {
-					"Riftworld Assistant", -- [1]
-					"Antorus, the Burning Throne", -- [2]
+				[171173] = {
+					"Mawsworn Shadestalker", -- [1]
+					"Torghast, Tower of the Damned", -- [2]
 				},
 				[150959] = {
 					"Mawsworn Interceptor", -- [1]
@@ -47010,9 +47053,9 @@ PlaterDB = {
 					"Binder Baritas", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[166971] = {
-					"Castellan Niklaus", -- [1]
-					"Castle Nathria", -- [2]
+				[11859] = {
+					"Doomguard", -- [1]
+					"Sanguine Depths", -- [2]
 				},
 				[151476] = {
 					"Blastatron X-80", -- [1]
@@ -47022,9 +47065,9 @@ PlaterDB = {
 					"Scion of Eternity", -- [1]
 					"The Eye of Eternity", -- [2]
 				},
-				[70212] = {
-					"Flaming Head", -- [1]
-					"Throne of Thunder", -- [2]
+				[53545] = {
+					"Molten Spewer", -- [1]
+					"Firelands", -- [2]
 				},
 				[73723] = {
 					"Jun-Wei", -- [1]
@@ -47094,9 +47137,9 @@ PlaterDB = {
 					"Grand Magus Telestra", -- [1]
 					"The Nexus", -- [2]
 				},
-				[168878] = {
-					"Rigged Plagueborer", -- [1]
-					"Plaguefall", -- [2]
+				[37134] = {
+					"Ymirjar Huntress", -- [1]
+					"Icecrown Citadel", -- [2]
 				},
 				[171181] = {
 					"Territorial Bladebeak", -- [1]
@@ -47290,9 +47333,9 @@ PlaterDB = {
 					"Dusky Tremorbeast", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
 				},
-				[101163] = {
-					"Cursed Guardian", -- [1]
-					"Karazhan Catacombs", -- [2]
+				[173604] = {
+					"Sinister Antiquarian", -- [1]
+					"Castle Nathria", -- [2]
 				},
 				[26746] = {
 					"Crazed Mana-Wraith", -- [1]
@@ -47370,13 +47413,13 @@ PlaterDB = {
 					"Irontide Powdershot", -- [1]
 					"Siege of Boralus", -- [2]
 				},
-				[163618] = {
-					"Zolramus Necromancer", -- [1]
-					"The Necrotic Wake", -- [2]
-				},
 				[161571] = {
 					"Anubisath Sentinel", -- [1]
 					"Ny'alotha, the Waking City", -- [2]
+				},
+				[124828] = {
+					"Argus the Unmaker", -- [1]
+					"Antorus, the Burning Throne", -- [2]
 				},
 				[131785] = {
 					"Buzzing Drone", -- [1]
@@ -47434,9 +47477,9 @@ PlaterDB = {
 					"Molten Destroyer", -- [1]
 					"Molten Core", -- [2]
 				},
-				[53793] = {
-					"Harbinger of Flame", -- [1]
-					"Firelands", -- [2]
+				[125977] = {
+					"Reanimation Totem", -- [1]
+					"Atal'Dazar", -- [2]
 				},
 				[138281] = {
 					"Faceless Corruptor", -- [1]
@@ -47446,9 +47489,9 @@ PlaterDB = {
 					"Defunct Dental Drill", -- [1]
 					"De Other Side", -- [2]
 				},
-				[36841] = {
-					"Fallen Warrior", -- [1]
-					"Pit of Saron", -- [2]
+				[153377] = {
+					"Goop", -- [1]
+					"Operation: Mechagon", -- [2]
 				},
 				[151816] = {
 					"Deadsoul Scavenger", -- [1]
@@ -47494,9 +47537,9 @@ PlaterDB = {
 					"Drakkari Rhino", -- [1]
 					"Gundrak", -- [2]
 				},
-				[131112] = {
-					"Cutwater Striker", -- [1]
-					"Tol Dagor", -- [2]
+				[165911] = {
+					"Loyal Creation", -- [1]
+					"The Necrotic Wake", -- [2]
 				},
 				[170474] = {
 					"Brood Assassin", -- [1]
@@ -47626,13 +47669,13 @@ PlaterDB = {
 					"Nar'zudah", -- [1]
 					"The Necrotic Wake", -- [2]
 				},
-				[168457] = {
-					"Stonewall Gargon", -- [1]
-					"Sanguine Depths", -- [2]
-				},
 				[154128] = {
 					"Blazing Elemental", -- [1]
 					"Torghast, Tower of the Damned", -- [2]
+				},
+				[164363] = {
+					"Undying Stonefiend", -- [1]
+					"Halls of Atonement", -- [2]
 				},
 				[157709] = {
 					"Dreliana", -- [1]
@@ -47842,17 +47885,17 @@ PlaterDB = {
 					"Spark of Life", -- [1]
 					"Siege of Orgrimmar", -- [2]
 				},
-				[72351] = {
-					"Dragonmaw Flagbearer", -- [1]
-					"Siege of Orgrimmar", -- [2]
+				[165108] = {
+					"Illusionary Clone", -- [1]
+					"Mists of Tirna Scithe", -- [2]
 				},
 				[169925] = {
 					"Begrudging Waiter", -- [1]
 					"Castle Nathria", -- [2]
 				},
-				[114804] = {
-					"Spectral Charger", -- [1]
-					"Return to Karazhan", -- [2]
+				[36948] = {
+					"Muradin Bronzebeard", -- [1]
+					"Icecrown Citadel", -- [2]
 				},
 				[37012] = {
 					"Ancient Skeletal Soldier", -- [1]
@@ -47870,9 +47913,9 @@ PlaterDB = {
 					"Spinemaw Staghorn", -- [1]
 					"Mists of Tirna Scithe", -- [2]
 				},
-				[131587] = {
-					"Bewitched Captain", -- [1]
-					"Waycrest Manor", -- [2]
+				[14765] = {
+					"Stonehearth Marshal", -- [1]
+					"Alterac Valley", -- [2]
 				},
 				[131586] = {
 					"Banquet Steward", -- [1]
@@ -48239,277 +48282,195 @@ PlaterDB = {
 			["minor_width_scale"] = 0.99999994039536,
 			["castbar_target_text_size"] = 8,
 			["captured_spells"] = {
-				[324031] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[167898] = {
-					["source"] = "Zulchinchin-Area52",
-					["type"] = "BUFF",
+				[199483] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[342957] = {
-					["source"] = "Kyrian Protector",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 170375,
-				},
-				[345004] = {
-					["source"] = "Calcification",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175347,
-				},
-				[263165] = {
-					["source"] = "Urgelgrue-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
-				[2050] = {
-					["source"] = "Yellowy-Area52",
+				[343724] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[345772] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Fae Guardian",
+					["npcID"] = 175579,
+				},
+				[187464] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[345773] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
 				[308434] = {
-					["source"] = "Hotsidedawg",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Fuzzyfur",
 					["npcID"] = 0,
 				},
-				[198590] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[341427] = {
-					["source"] = "Virulentous",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[254472] = {
-					["source"] = "Rotox-Area52",
+				[327104] = {
 					["type"] = "BUFF",
+					["source"] = "Carmelitafox",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[345520] = {
-					["source"] = "Borr-Geth",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 157833,
-				},
-				[333756] = {
-					["source"] = "Actaeðn",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[330943] = {
-					["source"] = "Celebrok",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345521] = {
-					["source"] = "Stygian Incinerator",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 156203,
-				},
-				[307159] = {
-					["type"] = "BUFF",
-					["source"] = "Lyunara-Area52",
-					["encounterID"] = 2397,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[113746] = {
-					["source"] = "Toshmonk",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[5215] = {
-					["source"] = "Raining-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[254474] = {
-					["source"] = "Pyjamas-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[527] = {
+				[2060] = {
 					["source"] = "Yellowy-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[528] = {
-					["source"] = "Toshpriest-Area52",
+				[20572] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[330943] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[1044] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[22842] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[5215] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[527] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
-				[307162] = {
-					["type"] = "BUFF",
-					["source"] = "Haxpax-Illidan",
-					["encounterID"] = 2393,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[48018] = {
-					["source"] = "Lodra-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[330436] = {
-					["source"] = "Mawsworn Collector",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 169605,
-				},
-				[152175] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[133] = {
-					["source"] = "Dudeuronfire-Area52",
+				[228260] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[323020] = {
-					["source"] = "Drust Spiteclaw",
+				[6262] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165111,
-				},
-				[272126] = {
-					["source"] = "Metaraidheal-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[326090] = {
-					["source"] = "Spinemaw Reaver",
+				[52174] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167116,
-				},
-				[336832] = {
-					["source"] = "Dudeuronfire-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
+				},
+				[343224] = {
+					["type"] = "BUFF",
+					["source"] = "Stalking Dusksavage",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 175792,
+				},
+				[63619] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Shadowfiend",
+					["npcID"] = 19668,
 				},
 				[334275] = {
-					["source"] = "Candiru-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[346807] = {
-					["source"] = "Mawsworn Eviscerator",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175700,
-				},
-				[331718] = {
-					["source"] = "Mistveil Defender",
-					["type"] = "BUFF",
+				[307166] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 171772,
-				},
-				[340158] = {
-					["source"] = "Toshmonk",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Kelterpriest",
 					["npcID"] = 0,
 				},
-				[326092] = {
-					["source"] = "Spinemaw Reaver",
-					["type"] = "DEBUFF",
+				[269571] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167116,
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
 				},
 				[231843] = {
-					["source"] = "Pyjamas-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345530] = {
-					["source"] = "Lyunara-Area52",
 					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[58984] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
-				},
-				[1079] = {
-					["source"] = "Raining-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[340160] = {
-					["source"] = "Mistveil Matriarch",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 173655,
 				},
 				[17] = {
-					["source"] = "Skuk-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
 				[320212] = {
-					["source"] = "Nedrana-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
-				},
-				[331721] = {
-					["source"] = "Mistveil Defender",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 171772,
 				},
 				[328908] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[346811] = {
-					["source"] = "Mawsworn Veteran",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175697,
-				},
-				[135299] = {
-					["source"] = "Lyunara-Area52",
+				[8680] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[340162] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
+				[546] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Hozzårt",
 					["npcID"] = 0,
+				},
+				[336838] = {
+					["type"] = "DEBUFF",
+					["source"] = "Anima Devourer",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 175849,
 				},
 				[269576] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[346813] = {
-					["source"] = "Mawsworn Neophyte",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175702,
-				},
-				[342466] = {
-					["source"] = "Manifestation of Pride",
-					["type"] = "DEBUFF",
+				[246807] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 173729,
+					["type"] = "DEBUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[53390] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Toshaman",
+					["npcID"] = 0,
 				},
 				[14914] = {
 					["source"] = "Yellowy-Area52",
@@ -48517,2323 +48478,1305 @@ PlaterDB = {
 					["npcID"] = 0,
 				},
 				[147193] = {
-					["source"] = "Toshpriest-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[346048] = {
-					["source"] = "Wäfflez-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[329425] = {
-					["source"] = "Protector of Flame",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 157824,
-				},
-				[139] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[87024] = {
-					["source"] = "Snap-Mal'Ganis",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[556] = {
-					["source"] = "Sksksk",
+				[162794] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[47540] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[44535] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bacongawd-Tichondrius",
+					["npcID"] = 0,
+				},
+				[339400] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
 				[54861] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[212283] = {
-					["source"] = "Foxmeuwu-Area52",
+				[34433] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[184662] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[113942] = {
+					["type"] = "DEBUFF",
+					["source"] = "Crayz-Mal'Ganis",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[5487] = {
-					["source"] = "Bohdie-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[23978] = {
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[336845] = {
-					["source"] = "Huntson-Area52",
-					["type"] = "BUFF",
+				[8936] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
-				[317920] = {
-					["source"] = "Sowsawan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[320478] = {
-					["source"] = "Raining-Area52's Assassin",
+				[323802] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 161849,
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
 				},
-				[248473] = {
-					["source"] = "Sxualhealen-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[1122] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[279302] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[323547] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[213691] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Brutoll-Uther",
 					["npcID"] = 0,
 				},
 				[289277] = {
-					["source"] = "Virulentous",
 					["type"] = "BUFF",
+					["source"] = "Admani",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[192081] = {
-					["source"] = "Bohdie-Area52",
-					["type"] = "BUFF",
+				[279303] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[329432] = {
-					["source"] = "Mawsworn Instructor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175707,
-				},
-				[322527] = {
 					["type"] = "DEBUFF",
-					["source"] = "Tred'ova",
-					["encounterID"] = 2393,
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[197835] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[188501] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164517,
+					["type"] = "BUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
 				},
 				[345545] = {
-					["source"] = "Evandh-Illidan",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[341709] = {
-					["encounterID"] = 2392,
-					["source"] = "Mistcaller",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164501,
-				},
-				[346057] = {
-					["source"] = "Lnwolf-Area52",
+				[194384] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
-				[234153] = {
-					["source"] = "Gamørá-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[345546] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "DEBUFF",
+				[203975] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wickybizzy",
 					["npcID"] = 0,
-				},
-				[277517] = {
-					["source"] = "Mawsworn Myrmidon",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 176170,
-				},
-				[337107] = {
-					["source"] = "Cyrixia",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 168693,
-				},
-				[275983] = {
-					["source"] = "Magmic Flamebinder",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 157820,
 				},
 				[307185] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Tonyisdatony",
 					["npcID"] = 0,
 				},
-				[207684] = {
-					["encounterID"] = 2393,
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[203720] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[305395] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[257044] = {
-					["source"] = "Lyunara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[323043] = {
-					["source"] = "Drust Spiteclaw",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165111,
-				},
-				[345805] = {
-					["source"] = "Durracell-Area52",
+				[273428] = {
 					["type"] = "BUFF",
+					["source"] = "Welub",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[307187] = {
-					["source"] = "Glacialfrost",
+				[260881] = {
 					["type"] = "BUFF",
+					["source"] = "Rutitotem",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[207685] = {
-					["type"] = "DEBUFF",
-					["source"] = "Evandh-Illidan",
-					["encounterID"] = 2393,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[48181] = {
-					["source"] = "Haxpax-Illidan",
+				[1160] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[34914] = {
-					["source"] = "Skuk-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
 				[260242] = {
-					["source"] = "Lyunara-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
-				[206151] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345552] = {
-					["source"] = "Mawsworn Darkcaster",
+				[211522] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175425,
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
 				},
 				[3355] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Lyunara-Area52",
-					["encounterID"] = 2392,
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Brutoll-Uther",
 					["npcID"] = 0,
 				},
-				[11366] = {
-					["source"] = "Dudeuronfire-Area52",
+				[29893] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Nicklos-Rexxar",
 					["npcID"] = 0,
 				},
-				[585] = {
-					["encounterID"] = 2397,
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[64901] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
+				[117526] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[586] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[331743] = {
-					["source"] = "Mistveil Guardian",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 166276,
-				},
-				[204490] = {
-					["source"] = "Evandh-Illidan",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[347600] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[307192] = {
-					["source"] = "Evandh-Illidan",
+				[205385] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[22812] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
 				[589] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[292359] = {
-					["source"] = "Slatanica-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
 				[253595] = {
 					["type"] = "BUFF",
-					["source"] = "Yoteejay",
+					["source"] = "Stallia-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[292360] = {
-					["source"] = "Hedleylamarr-Area52",
 					["type"] = "BUFF",
+					["source"] = "Calipygian-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[119381] = {
-					["source"] = "Toshmonk",
+				[6770] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[185438] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[321772] = {
-					["type"] = "BUFF",
-					["source"] = "Droman Oulfarran",
-					["encounterID"] = 2397,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164804,
-				},
-				[321005] = {
-					["source"] = "Ingra Maloch",
+				[196819] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164567,
-				},
-				[307195] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[77758] = {
-					["source"] = "Bohdie-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[292361] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Tonyisdatony",
 					["npcID"] = 0,
 				},
-				[321006] = {
-					["source"] = "Ingra Maloch",
-					["type"] = "BUFF",
+				[221883] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164567,
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[225080] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Toshaman",
+					["npcID"] = 0,
 				},
 				[185311] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
-				[203981] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "BUFF",
+				[3409] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
-				},
-				[292363] = {
-					["source"] = "Raining-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[340189] = {
-					["source"] = "Mistveil Matriarch",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 173655,
 				},
 				[292364] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Heathclîff",
-					["npcID"] = 0,
-				},
-				[320241] = {
-					["source"] = "Fuzzybum",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[143625] = {
-					["source"] = "Badlilvibe-Area52",
-					["type"] = "BUFF",
+					["source"] = "Gentjack-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[325101] = {
-					["source"] = "Steward",
 					["type"] = "BUFF",
+					["source"] = "Steward",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 166663,
 				},
-				[329449] = {
-					["source"] = "Huntson-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
 				[192090] = {
-					["source"] = "Bohdie-Area52",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
-				[340191] = {
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[344795] = {
-					["source"] = "Clickmage-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[35395] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[329706] = {
-					["source"] = "Raining-Area52's Assassin",
+					["source"] = "Mawsworn Outrider",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 161849,
+					["npcID"] = 175882,
 				},
-				[323057] = {
-					["encounterID"] = 2397,
-					["source"] = "Ingra Maloch",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164567,
-				},
-				[212423] = {
-					["source"] = "Risen Skulker",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 99541,
-				},
-				[327661] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
+				[212295] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Nicklos-Rexxar",
 					["npcID"] = 0,
 				},
-				[81340] = {
-					["source"] = "Boktar-Area52",
+				[59052] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[221886] = {
+					["type"] = "BUFF",
+					["source"] = "Paladanus",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[235313] = {
-					["source"] = "Snap-Mal'Ganis",
 					["type"] = "BUFF",
+					["source"] = "Evilgenius-Mal'Ganis",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[332777] = {
-					["type"] = "BUFF",
-					["source"] = "Beardscream",
+				[233395] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[108194] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[287254] = {
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[323059] = {
-					["encounterID"] = 2397,
-					["source"] = "Droman Oulfarran",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164804,
+				[51124] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
 				},
-				[101545] = {
-					["source"] = "Toshmonk",
+				[201427] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[196440] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[228537] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[45242] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
 				[321527] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[138130] = {
-					["source"] = "Earth Spirit",
 					["type"] = "BUFF",
+					["source"] = "Unknown",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 69792,
 				},
-				[343011] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "DEBUFF",
+				[266030] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[137619] = {
-					["source"] = "Cerby",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[107428] = {
-					["source"] = "Toshmonk",
+				[299790] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[339943] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[46585] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
 				[308742] = {
-					["source"] = "Toshmonk",
+					["source"] = "Toshpriest-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[344803] = {
+					["type"] = "BUFF",
 					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[343013] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "BUFF",
+				[115804] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[101546] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["type"] = "DEBUFF",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[114014] = {
-					["source"] = "Foxmeuwu-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
 				[308488] = {
-					["source"] = "Popesham-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Moshy",
 					["npcID"] = 0,
 				},
 				[8921] = {
-					["source"] = "Bohdie-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
-				[278310] = {
-					["source"] = "Myndera-Area52",
+				[339946] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
-				[204883] = {
-					["source"] = "Yellowy-Area52",
+				[49143] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
-				[33702] = {
-					["source"] = "Orcalots-Area52",
+				[192225] = {
 					["type"] = "BUFF",
+					["source"] = "Dreamguard-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[338157] = {
-					["source"] = "Soulsmith Yol-Mattar",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165047,
-				},
-				[322557] = {
-					["source"] = "Drust Soulcleaver",
+				[206803] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172991,
-				},
-				[324859] = {
-					["source"] = "Mistveil Defender",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 163058,
-				},
-				[338670] = {
-					["source"] = "Toshpriest-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
-				},
-				[100780] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[228287] = {
-					["source"] = "Toshmonk",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[191587] = {
-					["source"] = "Boktar-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[340208] = {
-					["source"] = "Mistveil Matriarch",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 173655,
 				},
 				[72968] = {
-					["source"] = "Bluelink-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Aggardukage",
 					["npcID"] = 0,
 				},
 				[212431] = {
-					["source"] = "Lyunara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
-				[196447] = {
-					["source"] = "Nogalyurt-Area52",
-					["type"] = "BUFF",
+				[209746] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
-				[55090] = {
-					["source"] = "Boktar-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[255909] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
-				},
-				[322563] = {
-					["encounterID"] = 2393,
-					["source"] = "Tred'ova",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164517,
 				},
 				[117405] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[85948] = {
-					["source"] = "Boktar-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[346604] = {
+					["type"] = "DEBUFF",
+					["source"] = "Stalking Dusksavage",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 175792,
+				},
+				[642] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[7178] = {
+					["type"] = "BUFF",
+					["source"] = "Acej",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[211793] = {
-					["source"] = "Ysx-Thrall",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
 				[235450] = {
-					["source"] = "Magesucks-Area52",
 					["type"] = "BUFF",
+					["source"] = "Evilgenius-Mal'Ganis",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[330749] = {
-					["source"] = "Dyress-Area52",
-					["type"] = "BUFF",
+				[11327] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
-				[324867] = {
-					["source"] = "Stabbyrip-Area52",
-					["type"] = "BUFF",
+				[25771] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
-				[2580] = {
-					["source"] = "Felreg-Area52",
-					["type"] = "BUFF",
+				[330752] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
 				[289577] = {
-					["source"] = "Urgelgrue-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[322569] = {
-					["source"] = "Drust Soulcleaver",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164920,
-				},
-				[90361] = {
-					["source"] = "Myonix",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165189,
-				},
-				[292903] = {
-					["source"] = "Mawsworn Veteran",
+				[278326] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175697,
-				},
-				[93622] = {
-					["source"] = "Bohdie-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[325640] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[336126] = {
-					["source"] = "Dyress-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[337661] = {
-					["source"] = "Rolfcopter-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[221771] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
 				[308506] = {
-					["source"] = "Akëldama-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[116768] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
+					["source"] = "Squatman",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[53365] = {
-					["source"] = "Boktar-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
-				[287280] = {
-					["source"] = "Rotox-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[35079] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[202719] = {
-					["source"] = "Evandh-Illidan",
+				[212182] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
-				[280632] = {
-					["source"] = "Bluelink-Area52",
+				[131493] = {
 					["type"] = "BUFF",
+					["source"] = "Octagossamex-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[12654] = {
-					["source"] = "Megumìn-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[77575] = {
-					["source"] = "Boktar-Area52",
+				[6343] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
-				[192106] = {
-					["source"] = "Popesham-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[331016] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[116705] = {
-					["source"] = "Toshmonk",
+				[102383] = {
+					["source"] = "Bearlyzoren-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[245686] = {
-					["source"] = "Mojobear",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Revofevi",
 					["npcID"] = 0,
 				},
-				[346106] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[204255] = {
-					["source"] = "Evandh-Illidan",
+				[194153] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[343294] = {
-					["source"] = "Kirikae-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346875] = {
-					["source"] = "Subfrozen-Area52's Assassin",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 161856,
-				},
-				[327694] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[8690] = {
-					["source"] = "Fehyshar",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
 				[336135] = {
-					["source"] = "Drachen",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[190446] = {
-					["source"] = "Myndera-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Vedar",
 					["npcID"] = 0,
 				},
 				[330765] = {
 					["type"] = "BUFF",
-					["source"] = "Beardscream",
+					["source"] = "Shibazz",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[339] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
 				[347901] = {
-					["source"] = "Foxmeuwu-Area52",
 					["type"] = "BUFF",
+					["source"] = "Stallia-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[190319] = {
-					["source"] = "Dudeuronfire-Area52",
+				[346623] = {
 					["type"] = "BUFF",
+					["source"] = "Alpha Anima Devourer",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+					["npcID"] = 175851,
 				},
-				[64843] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
+				[22703] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[45438] = {
-					["source"] = "Subfrozen-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[111400] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[307495] = {
-					["type"] = "BUFF",
-					["source"] = "Evandh-Illidan",
-					["encounterID"] = 2397,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[240447] = {
 					["type"] = "DEBUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[205025] = {
+					["type"] = "BUFF",
+					["source"] = "Tayèt",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[339463] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[200166] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[64044] = {
-					["source"] = "Toshpriest-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[686] = {
-					["source"] = "Orcalots-Area52",
+				[77130] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Toshaman",
 					["npcID"] = 0,
 				},
-				[172] = {
-					["source"] = "Haxpax-Illidan",
+				[61295] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Toshaman",
+					["npcID"] = 0,
+				},
+				[61391] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
-				[226510] = {
-					["type"] = "BUFF",
+				[211805] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[195181] = {
-					["source"] = "Izgule-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
-				[691] = {
-					["source"] = "Haxpax-Illidan",
+				[346630] = {
+					["source"] = "Alpha Anima Devourer",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[96312] = {
-					["source"] = "Billywalsh-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[327704] = {
-					["type"] = "BUFF",
-					["source"] = "Dagwynde",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[97463] = {
-					["type"] = "BUFF",
-					["source"] = "Richbrian",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[27243] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
+					["npcID"] = 175851,
 				},
 				[34026] = {
-					["source"] = "Huntson-Area52",
+					["source"] = "Sillanara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[32390] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[227151] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[64844] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[226512] = {
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[137639] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346121] = {
-					["source"] = "Unknown",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 171581,
-				},
-				[122783] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[344587] = {
-					["source"] = "Megumìn-Area52",
+				[348] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[207203] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[204262] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Orduk",
+					["npcID"] = 0,
+				},
+				[337170] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Nicklos-Rexxar",
+					["npcID"] = 0,
+				},
+				[115750] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[341263] = {
-					["source"] = "Toshpriest-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
 				[41635] = {
+					["type"] = "BUFF",
 					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[204263] = {
-					["encounterID"] = 2392,
-					["source"] = "Yellowy-Area52",
+				[49020] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
-				[112042] = {
-					["source"] = "Unknown",
+				[343312] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 1860,
-				},
-				[278350] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[327710] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345613] = {
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[347404] = {
-					["source"] = "Mawsworn Thaumaturge",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 168977,
-				},
-				[202602] = {
-					["source"] = "Abathorn-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[280398] = {
-					["source"] = "Yuhri",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Szabogfx-Illidan",
 					["npcID"] = 0,
 				},
 				[267611] = {
-					["source"] = "Paladinozaur-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
 				[260402] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
-				},
-				[345616] = {
-					["source"] = "Odalrik",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172207,
-				},
-				[344850] = {
-					["source"] = "Unknown",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 175243,
 				},
 				[147362] = {
-					["source"] = "Lyunara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
-				[348176] = {
-					["source"] = "Unknown",
-					["type"] = "BUFF",
+				[190456] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 173149,
-				},
-				[290121] = {
-					["source"] = "Jfunk",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
-				[217694] = {
-					["source"] = "Dudeuronfire-Area52",
+				[213602] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[55095] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[337948] = {
+					["type"] = "BUFF",
+					["source"] = "Yellowy-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[184575] = {
-					["source"] = "Paladinozaur-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
-				[308026] = {
-					["source"] = "Protector of Flame",
+				[31224] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 157824,
-				},
-				[328231] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
-				[325418] = {
-					["source"] = "Spinemaw Acidgullet",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167113,
-				},
-				[246851] = {
-					["source"] = "Huntson-Area52",
+				[341530] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[132403] = {
-					["source"] = "Rotox-Area52",
+				[196980] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[325163] = {
-					["source"] = "Mistveil Defender",
+				[210152] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 171772,
-				},
-				[224729] = {
-					["source"] = "Drust Spiteclaw",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165111,
-				},
-				[323629] = {
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[324909] = {
-					["source"] = "Drust Boughbreaker",
+				[199027] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164926,
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
 				},
 				[1459] = {
-					["source"] = "Firebut-Area52",
 					["type"] = "BUFF",
+					["source"] = "Woowop",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[19236] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
 				[119910] = {
-					["source"] = "Haxpax-Illidan",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Nicklos-Rexxar",
 					["npcID"] = 0,
 				},
 				[281178] = {
-					["source"] = "Pyjamas-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[342814] = {
-					["source"] = "Lyunara-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[138927] = {
+					["type"] = "BUFF",
+					["source"] = "Aesöp-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[342815] = {
-					["source"] = "Deathiras-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[337956] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[2948] = {
-					["source"] = "Megumìn-Area52",
+				[26573] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[85673] = {
-					["source"] = "Pyjamas-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
 				[341282] = {
-					["source"] = "Skuk-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322101] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[337299] = {
 					["type"] = "BUFF",
-					["source"] = "Beardscream",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[167061] = {
-					["source"] = "Subfrozen-Area52's Assassin",
+				[370] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 161856,
+					["source"] = "Toshaman",
+					["npcID"] = 0,
 				},
-				[330030] = {
+				[316220] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[323559] = {
-					["type"] = "BUFF",
-					["source"] = "Cônspiracy",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[116011] = {
-					["source"] = "Subfrozen-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[322614] = {
-					["encounterID"] = 2393,
-					["source"] = "Tred'ova",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164517,
-				},
-				[235219] = {
-					["source"] = "Subfrozen-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[106898] = {
-					["type"] = "BUFF",
-					["source"] = "Rawrxdlmao",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[198103] = {
-					["source"] = "Maxshaman",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[337984] = {
-					["type"] = "BUFF",
-					["source"] = "Maxshaman",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[187650] = {
-					["encounterID"] = 2392,
-					["source"] = "Lyunara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
 				[1490] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[298831] = {
-					["source"] = "Mawsworn Sentry",
+				[323639] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 161083,
-				},
-				[210294] = {
-					["type"] = "BUFF",
-					["source"] = "Eván",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[342309] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[188290] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+				[325174] = {
+					["source"] = "Spirit Link Totem",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 53006,
 				},
 				[89158] = {
-					["source"] = "Fóxfire",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[321388] = {
-					["type"] = "BUFF",
-					["source"] = "Frostmorts",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311459] = {
-					["type"] = "BUFF",
-					["source"] = "Vranis",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[34477] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[200183] = {
 					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[342242] = {
-					["type"] = "BUFF",
-					["source"] = "Pullmyhaír",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[122278] = {
-					["source"] = "Dyress-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345179] = {
-					["source"] = "Zorrez",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[308514] = {
-					["source"] = "Trashxd",
-					["type"] = "BUFF",
+				[12975] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
-				[122470] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
+				[23920] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
-				[308430] = {
-					["source"] = "Frosticle-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[32216] = {
-					["source"] = "Olala",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[339400] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[298068] = {
-					["source"] = "Pyjamas-Area52",
+				[255937] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
-				[343724] = {
-					["source"] = "Orayadin-TheVentureCo",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322109] = {
-					["source"] = "Toshmonk",
+				[755] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kasilla-Alexstrasza",
 					["npcID"] = 0,
 				},
 				[298836] = {
-					["source"] = "Dïnk-Quel'Thalas",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[116844] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[324923] = {
-					["source"] = "Drust Boughbreaker",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164926,
-				},
-				[136] = {
-					["source"] = "Lioen",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[223819] = {
-					["source"] = "Pyjamas-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Wickybizzy",
 					["npcID"] = 0,
 				},
-				[100784] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[341291] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[298837] = {
+					["type"] = "BUFF",
+					["source"] = "Flôwers-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[217832] = {
-					["source"] = "Evandh-Illidan",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[191840] = {
-					["source"] = "Teeji",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[331574] = {
-					["source"] = "Mistcaller",
+				[51485] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 170217,
-				},
-				[61295] = {
-					["source"] = "Garite-Cho'gall",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Toshaman",
 					["npcID"] = 0,
 				},
-				[212653] = {
-					["source"] = "Megumìn-Area52",
-					["type"] = "BUFF",
+				[236502] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Toshaman",
 					["npcID"] = 0,
 				},
-				[33763] = {
-					["source"] = "Tokkichan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[53563] = {
-					["source"] = "Ronfaure",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[333757] = {
-					["source"] = "Jfunk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311496] = {
-					["source"] = "Jezrian",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[301312] = {
-					["source"] = "Fyttov",
+				[8122] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
-				[6343] = {
-					["source"] = "Pikka",
+				[78674] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
-				[325624] = {
-					["source"] = "Toshpriest-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[311495] = {
-					["source"] = "Beercann-Area52",
-					["type"] = "BUFF",
+				[118699] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[323137] = {
-					["encounterID"] = 2397,
-					["source"] = "Droman Oulfarran",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164804,
-				},
-				[108853] = {
-					["source"] = "Megumìn-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[341449] = {
-					["source"] = "Shadowbloos-Area52",
-					["type"] = "BUFF",
+				[341550] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322767] = {
-					["source"] = "Drust Harvester",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164921,
-				},
-				[323138] = {
-					["encounterID"] = 2397,
-					["source"] = "Ingra Maloch",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164567,
-				},
-				[768] = {
-					["source"] = "Kojinus-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
-				[321834] = {
-					["encounterID"] = 2392,
-					["source"] = "Mistcaller",
+				[107574] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[198013] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[195072] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164501,
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
 				},
-				[311494] = {
-					["source"] = "Alexnios-Area52",
-					["type"] = "BUFF",
+				[255941] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[49998] = {
-					["source"] = "Kirikae-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[288613] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
+				[208628] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[1044] = {
-					["source"] = "Goodpal-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[337170] = {
-					["source"] = "Nogalyurt-Area52",
-					["type"] = "BUFF",
+				[258883] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[69070] = {
-					["source"] = "Rolfcopter-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["type"] = "DEBUFF",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[231390] = {
-					["source"] = "Scràtchy-Area52",
 					["type"] = "BUFF",
+					["source"] = "Acej",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[124007] = {
-					["source"] = "Xuen",
+				[206966] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 63508,
-				},
-				[348] = {
-					["source"] = "Nogalyurt-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[209261] = {
-					["source"] = "Alexnios-Area52",
-					["type"] = "DEBUFF",
+				[129250] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[152108] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Nicklos-Rexxar",
+					["npcID"] = 0,
+				},
+				[49376] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[323654] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[222695] = {
-					["source"] = "Rooge",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[311497] = {
-					["source"] = "Ryazer",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[59638] = {
-					["source"] = "Dudeuronfire-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 31216,
-				},
-				[311492] = {
-					["source"] = "Polydektus",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[273977] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[257541] = {
-					["source"] = "Dudeuronfire-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[345393] = {
-					["source"] = "Draret",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[2983] = {
-					["source"] = "Crítzkrieg-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311491] = {
-					["source"] = "Huntson-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[217200] = {
-					["source"] = "Huntson-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[93985] = {
-					["source"] = "Raining-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[69369] = {
-					["source"] = "Raining-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
 				[157736] = {
-					["source"] = "Gamørá-Area52",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
-				},
-				[17735] = {
-					["source"] = "Thokgarth",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 1860,
 				},
 				[781] = {
-					["source"] = "Lyunara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[5217] = {
-					["source"] = "Raining-Area52",
-					["type"] = "BUFF",
+				[247121] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[119085] = {
-					["source"] = "Virulentous",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[5225] = {
-					["type"] = "BUFF",
-					["source"] = "Evielorimm",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[783] = {
-					["source"] = "Virem-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[323146] = {
 					["type"] = "DEBUFF",
-					["source"] = "Ingra Maloch",
-					["encounterID"] = 2397,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164567,
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[190984] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
 				},
 				[176151] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Aember",
-					["npcID"] = 0,
-				},
-				[212084] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "BUFF",
+					["source"] = "Erikafaye-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[323149] = {
-					["type"] = "BUFF",
-					["source"] = "Ingra Maloch",
-					["encounterID"] = 2397,
+				[154797] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164567,
-				},
-				[205179] = {
-					["source"] = "Orcalots-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[34767] = {
-					["source"] = "Mielliana",
-					["type"] = "BUFF",
+				[5277] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
-				[333889] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
+				[199042] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[194310] = {
-					["source"] = "Boktar-Area52",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
-				[186254] = {
-					["source"] = "Huntson-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[335680] = {
-					["source"] = "Mawsworn Thaumaturge",
+				[99] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 168977,
-				},
-				[124009] = {
-					["source"] = "Xuen",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 63508,
-				},
-				[30283] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[205180] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[333049] = {
-					["source"] = "Megumìn-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[196608] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[24858] = {
-					["source"] = "Brutalburst-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[2139] = {
-					["source"] = "Dudeuronfire-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[50842] = {
-					["source"] = "Izgule-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
 				[342076] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[343355] = {
-					["source"] = "Durracell-Area52",
+				[339519] = {
+					["source"] = "Mawsworn Ritualist",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 173460,
+				},
+				[157228] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
-				[109304] = {
-					["source"] = "Lyunara-Area52",
+				[281209] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[318038] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[83243] = {
-					["source"] = "Xainje-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[305378] = {
-					["source"] = "Mawsworn Myrmidon",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 176170,
-				},
-				[311488] = {
-					["source"] = "Mastuhwang-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345554] = {
-					["source"] = "Mawsworn Myrmidon",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 176170,
-				},
-				[44614] = {
-					["source"] = "Myndera-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[196742] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[101568] = {
-					["source"] = "Boktar-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[340544] = {
-					["source"] = "Spinemaw Staghorn",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167111,
-				},
-				[335685] = {
-					["source"] = "Odalrik",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 172207,
-				},
-				[273947] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[298841] = {
-					["source"] = "Sowsawan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Bacongawd-Tichondrius",
 					["npcID"] = 0,
 				},
 				[186257] = {
-					["source"] = "Lyunara-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
-				[341824] = {
-					["source"] = "Slatanica-Area52",
+				[52127] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[81141] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[337989] = {
-					["source"] = "Ysx-Thrall",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[340546] = {
-					["source"] = "Vyktor-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[200196] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Liaks",
 					["npcID"] = 0,
 				},
 				[1604] = {
-					["source"] = "Scavenging Mawrat",
 					["type"] = "DEBUFF",
+					["source"] = "Stalking Dusksavage",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 174712,
+					["npcID"] = 175792,
 				},
-				[196819] = {
-					["source"] = "Foxmeuwu-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[325202] = {
-					["source"] = "Toshmonk",
+				[186258] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
-				[341826] = {
-					["source"] = "Bohdie-Area52",
+				[20549] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
-				},
-				[343105] = {
-					["source"] = "Blazing Stygia",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 170208,
 				},
 				[311648] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
-				[325203] = {
-					["source"] = "Yellowy-Area52",
+				[132168] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
-				[19574] = {
-					["source"] = "Huntson-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[307166] = {
-					["source"] = "Codeki-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[308504] = {
-					["source"] = "Mastuhwang-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[30455] = {
-					["source"] = "Myndera-Area52",
+				[213241] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[186387] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[323250] = {
-					["type"] = "DEBUFF",
-					["source"] = "Droman Oulfarran",
-					["encounterID"] = 2397,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164804,
-				},
-				[221885] = {
-					["source"] = "Paladinozaur-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311485] = {
-					["source"] = "Welabear",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[185422] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345154] = {
-					["source"] = "Durracell-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[328275] = {
-					["source"] = "Lyunara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[19750] = {
-					["source"] = "Ronfaure",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[52174] = {
-					["source"] = "Armedorc",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[48707] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
 				[345155] = {
-					["source"] = "Imprisoned Soul",
 					["type"] = "BUFF",
+					["source"] = "Imprisoned Soul",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 176149,
 				},
-				[346266] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346105] = {
-					["source"] = "Kirikae-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[257946] = {
-					["source"] = "Huntson-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[23922] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
 				[323673] = {
-					["source"] = "Urgelgrue-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[330067] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[330323] = {
-					["source"] = "Uncontested-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[327510] = {
-					["source"] = "Yariella",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[85256] = {
-					["source"] = "Paladinozaur-Area52",
+				[408] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Krykee-Illidan",
 					["npcID"] = 0,
 				},
-				[317792] = {
-					["source"] = "Magus of the Dead",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 163366,
-				},
-				[281954] = {
-					["source"] = "Plasnaked-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[185313] = {
-					["source"] = "Foxmeuwu-Area52",
+				[213243] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[196980] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[20271] = {
-					["source"] = "Paladinozaur-Area52",
+				[6552] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[106839] = {
-					["source"] = "Raining-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[8936] = {
-					["source"] = "Raining-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[292361] = {
-					["source"] = "Yuhri",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[156910] = {
-					["source"] = "Tintagel-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
 				[340556] = {
-					["source"] = "Kenshimoo-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322654] = {
-					["encounterID"] = 2393,
-					["source"] = "Tred'ova",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164517,
-				},
-				[82326] = {
-					["source"] = "Ronfaure",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[135700] = {
-					["source"] = "Raining-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
 				[186263] = {
-					["source"] = "Toshpriest-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[5221] = {
-					["source"] = "Raining-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
 				[324701] = {
-					["source"] = "Haxpax-Illidan",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
 				[57723] = {
 					["type"] = "DEBUFF",
-					["source"] = "Yellowy-Area52",
-					["encounterID"] = 2392,
+					["source"] = "Effwurdz",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[329127] = {
-					["source"] = "Subfrozen-Area52",
+				[344907] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[337113] = {
-					["source"] = "Orcalots-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[324523] = {
-					["source"] = "Kirikae-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[204598] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[113656] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[331172] = {
-					["encounterID"] = 2393,
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
 				[315496] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[115098] = {
-					["source"] = "Dyress-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[15286] = {
-					["source"] = "Urgelgrue-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[6789] = {
-					["encounterID"] = 2392,
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[197690] = {
-					["source"] = "Tøxicmidget",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[321891] = {
-					["encounterID"] = 2392,
-					["source"] = "Illusionary Vulpin",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165251,
-				},
-				[186265] = {
-					["source"] = "Lyunara-Area52",
+				[340049] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
-				[321538] = {
-					["source"] = "Spirit Beast",
+				[200587] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165189,
-				},
-				[324776] = {
-					["source"] = "Mistveil Shaper",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 166275,
-				},
-				[49028] = {
-					["source"] = "Izgule-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Nicklos-Rexxar",
 					["npcID"] = 0,
 				},
-				[58180] = {
-					["source"] = "Raining-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[236776] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
 				[337749] = {
+					["type"] = "BUFF",
 					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[257620] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[321893] = {
+				[115767] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Illusionary Vulpin",
-					["encounterID"] = 2392,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165251,
-				},
-				[8221] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Promaar-Tichondrius",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
-				},
-				[186258] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[300155] = {
-					["source"] = "Tirnenn Villager",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164929,
 				},
 				[272790] = {
-					["source"] = "Huntson-Area52",
 					["type"] = "BUFF",
+					["source"] = "Sillanara-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[121557] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[310454] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[205448] = {
-					["source"] = "Urgelgrue-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[6262] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[33076] = {
@@ -50841,248 +49784,680 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[345801] = {
-					["source"] = "Durracell-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[24394] = {
-					["source"] = "Spirit Beast",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165189,
-				},
 				[57724] = {
-					["source"] = "Mielliana",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Narcoberry",
 					["npcID"] = 0,
 				},
 				[164273] = {
-					["source"] = "Rattlehead-Bloodhoof",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[323177] = {
 					["type"] = "BUFF",
-					["source"] = "Droman Oulfarran",
-					["encounterID"] = 2397,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164804,
-				},
-				[257622] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[1943] = {
-					["source"] = "Foxmeuwu-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[185245] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
 				[11426] = {
-					["source"] = "Snap-Mal'Ganis",
 					["type"] = "BUFF",
+					["source"] = "Evilgenius-Mal'Ganis",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[210053] = {
-					["source"] = "Endchant-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
-				},
-				[326309] = {
-					["encounterID"] = 2393,
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[325223] = {
-					["source"] = "Mistveil Stinger",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 166304,
 				},
 				[53] = {
-					["source"] = "Foxmeuwu-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[131347] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[196099] = {
-					["source"] = "Orcalots-Area52",
+				[321388] = {
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[325224] = {
-					["source"] = "Mistveil Stinger",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 166304,
-				},
-				[335710] = {
-					["source"] = "Odalrik",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172207,
-				},
-				[6807] = {
-					["source"] = "Bohdie-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[341530] = {
-					["source"] = "Backstâbbath-Area52",
-					["type"] = "BUFF",
+					["source"] = "Tayèt",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[5761] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Fraashaa",
+					["source"] = "Mikari",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[6788] = {
-					["source"] = "Toshpriest-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
-				},
-				[213708] = {
-					["source"] = "Bohdie-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311474] = {
-					["source"] = "Legman",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[344663] = {
-					["source"] = "Stygian Incinerator",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 156203,
 				},
 				[323436] = {
-					["source"] = "Evandh-Illidan",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
 				[2383] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Fuzzyfur",
 					["npcID"] = 0,
 				},
 				[3408] = {
-					["source"] = "Averse",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[329319] = {
-					["source"] = "Soulsmith Yol-Mattar",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165047,
-				},
-				[205385] = {
-					["source"] = "Toshpriest-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[32379] = {
-					["source"] = "Skuk-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[345432] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[205708] = {
-					["source"] = "Myndera-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[66] = {
-					["source"] = "Subfrozen-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
 				[344154] = {
-					["source"] = "Izgule-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[109248] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[1719] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[104773] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[212743] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[54049] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Morcor",
+					["npcID"] = 58964,
+				},
+				[310143] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[279709] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[338788] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[241260] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[185123] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[343648] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[202770] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[116858] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[339301] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[64695] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Earthgrab Totem",
+					["npcID"] = 60561,
+				},
+				[871] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[43308] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Gotsluiced",
+					["npcID"] = 0,
+				},
+				[47528] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[118905] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Capacitor Totem",
+					["npcID"] = 61245,
+				},
+				[271788] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[16827] = {
+					["source"] = "Cat",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165189,
+				},
+				[334448] = {
+					["type"] = "BUFF",
+					["source"] = "Chabikdu-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[24275] = {
-					["source"] = "Paladinozaur-Area52",
+				[1766] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[10060] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[232698] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[320130] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[197277] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[1784] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[2565] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[194594] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Lunathorn-Frostmourne",
+					["npcID"] = 0,
+				},
+				[324739] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[15407] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[80354] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Wickybizzy",
+					["npcID"] = 0,
+				},
+				[56641] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Lunathorn-Frostmourne",
+					["npcID"] = 0,
+				},
+				[289959] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[49576] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[344179] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bacongawd-Tichondrius",
+					["npcID"] = 0,
+				},
+				[198688] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[196770] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[308498] = {
+					["type"] = "DEBUFF",
+					["source"] = "Critsfila-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[347495] = {
+					["source"] = "Sevatarr",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[338784] = {
-					["source"] = "Yellowy-Area52",
+				[198837] = {
+					["source"] = "Risen Skulker",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 99541,
+				},
+				[346227] = {
 					["type"] = "BUFF",
+					["source"] = "Frejya-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[331623] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[116014] = {
-					["source"] = "Subfrozen-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[44544] = {
-					["source"] = "Subfrozen-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346914] = {
-					["source"] = "Unknown",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 176027,
-				},
-				[331624] = {
-					["source"] = "Foxmeuwu-Area52",
+				[336767] = {
+					["source"] = "Capristun",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[347225] = {
-					["source"] = "Subfrozen-Area52's Assassin",
+				[307865] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 161856,
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
 				},
-				[341207] = {
+				[465] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[91800] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Risen Ghoul",
+					["npcID"] = 26125,
+				},
+				[236645] = {
+					["type"] = "BUFF",
+					["source"] = "Senow-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[217200] = {
+					["source"] = "Sillanara-Area52",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[341678] = {
+					["type"] = "BUFF",
+					["source"] = "Joeactually",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[101545] = {
+					["source"] = "Toshmonk",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[36554] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[325624] = {
 					["source"] = "Toshpriest-Area52",
-					["type"] = "BUFF",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[51271] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[116841] = {
+					["type"] = "BUFF",
+					["source"] = "Toshmonk",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[1833] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[157131] = {
+					["type"] = "DEBUFF",
+					["source"] = "Flyingten",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[2645] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Orduk",
+					["npcID"] = 0,
+				},
+				[324748] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[2649] = {
+					["type"] = "DEBUFF",
+					["source"] = "Cat",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165189,
+				},
+				[258920] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[337754] = {
+					["source"] = "Stalking Dusksavage",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 175792,
+				},
+				[340094] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[223499] = {
+					["type"] = "BUFF",
+					["source"] = "Reignclaw-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[109304] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[193065] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[323559] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[345466] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[307871] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[345546] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[77764] = {
+					["type"] = "BUFF",
+					["source"] = "Cursedmummy-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[341747] = {
+					["source"] = "Wailing Soul",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 174158,
+				},
+				[1850] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[266087] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[185358] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[185422] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[338563] = {
+					["type"] = "BUFF",
+					["source"] = "Unknown",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 166694,
+				},
+				[343613] = {
+					["type"] = "BUFF",
+					["source"] = "Unknown",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 175851,
+				},
+				[1856] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[115196] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[265931] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Nicklos-Rexxar",
+					["npcID"] = 0,
+				},
+				[334693] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[308514] = {
+					["type"] = "BUFF",
+					["source"] = "Yokotoe-Tichondrius",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[105421] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[155722] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[263165] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[199845] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Psyfiend",
+					["npcID"] = 101398,
+				},
+				[30283] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[33757] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bacongawd-Tichondrius",
+					["npcID"] = 0,
+				},
+				[124219] = {
+					["type"] = "BUFF",
+					["source"] = "Erikafaye-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[77489] = {
+					["type"] = "BUFF",
+					["source"] = "Yellowy-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[346495] = {
+					["type"] = "BUFF",
+					["source"] = "Unknown",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 175851,
+				},
+				[264689] = {
+					["type"] = "DEBUFF",
+					["source"] = "Galdhxyz-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[17962] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[347600] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Fuzzyfur",
+					["npcID"] = 0,
+				},
+				[768] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[227723] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[188389] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Toshaman",
+					["npcID"] = 0,
+				},
+				[334443] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Aggardukage",
+					["npcID"] = 0,
+				},
+				[209693] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[102417] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[336779] = {
+					["type"] = "BUFF",
+					["source"] = "Unknown",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 166694,
+				},
+				[343173] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[93402] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[213405] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[19434] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
 				[2061] = {
@@ -51090,1026 +50465,107 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[104773] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[310143] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[22568] = {
-					["source"] = "Raining-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[54049] = {
-					["source"] = "Khiizhum",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 417,
-				},
-				[186401] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[347227] = {
-					["source"] = "Subfrozen-Area52's Assassin",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 161854,
-				},
-				[32612] = {
-					["source"] = "Subfrozen-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345230] = {
-					["source"] = "Orcalots-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336891] = {
-					["source"] = "Dyress-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[20707] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[277907] = {
-					["source"] = "Mawforged Weapons",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175671,
-				},
-				[187464] = {
-					["source"] = "Toshpriest-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[31884] = {
-					["source"] = "Rotox-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[116858] = {
-					["source"] = "Nogalyurt-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[345439] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[203975] = {
-					["source"] = "Mojobear",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[115804] = {
-					["source"] = "Toshmonk",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[324724] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[51460] = {
-					["source"] = "Kirikae-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[43308] = {
-					["source"] = "Rattlehead-Bloodhoof",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[88625] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[81256] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[204157] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[335467] = {
-					["source"] = "Skuk-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346506] = {
-					["source"] = "Charred Behemoth",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 171581,
-				},
-				[266087] = {
-					["source"] = "Gamørá-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[34861] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[55342] = {
-					["source"] = "Dudeuronfire-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[203795] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[338321] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[194844] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346722] = {
-					["source"] = "Maw Roach",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172947,
-				},
-				[332656] = {
-					["source"] = "Scavenging Mawrat",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 174712,
-				},
-				[260881] = {
-					["source"] = "Bowserprime-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[271788] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[225919] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[16827] = {
-					["source"] = "Myonix",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165189,
-				},
-				[232633] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[322939] = {
-					["source"] = "Drust Harvester",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164921,
-				},
-				[321952] = {
-					["source"] = "Tirnenn Villager",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164929,
-				},
-				[55233] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[343144] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[883] = {
-					["source"] = "Mystycalfire-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[17962] = {
-					["source"] = "Gamørá-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[29893] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[228477] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[324987] = {
-					["source"] = "Mistveil Stalker",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 166301,
-				},
-				[260243] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336752] = {
-					["type"] = "DEBUFF",
-					["source"] = "Mistcaller",
-					["encounterID"] = 2392,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164501,
-				},
-				[10060] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[336372] = {
-					["source"] = "Gamørá-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[306830] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[197277] = {
-					["source"] = "Paladinozaur-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[115078] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[232698] = {
+				[248473] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Toffl",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
-				[320130] = {
-					["source"] = "Nedrana-Area52",
+				[6673] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[48265] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[225921] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[330368] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336499] = {
-					["type"] = "BUFF",
-					["source"] = "Mistcaller",
-					["encounterID"] = 2392,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164501,
-				},
-				[126389] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[210065] = {
-					["source"] = "Raining-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311464] = {
-					["source"] = "Mintadek-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[202137] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[198688] = {
-					["source"] = "Backstâbbath-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[324736] = {
-					["source"] = "Mistveil Defender",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 163058,
-				},
-				[194594] = {
-					["source"] = "Uncontested-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345457] = {
-					["source"] = "Borr-Geth",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 157833,
-				},
-				[201754] = {
-					["source"] = "Myonix",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165189,
-				},
-				[324737] = {
-					["source"] = "Mistveil Defender",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 163058,
-				},
-				[228354] = {
-					["source"] = "Myndera-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[202138] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[304093] = {
-					["source"] = "Odalrik",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 172207,
-				},
-				[321669] = {
-					["encounterID"] = 2392,
-					["source"] = "Illusionary Clone",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 165108,
-				},
-				[326017] = {
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[65081] = {
-					["source"] = "Toshpriest-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336759] = {
-					["encounterID"] = 2392,
-					["source"] = "Mistcaller",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164501,
-				},
-				[324739] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[326018] = {
-					["source"] = "Unknown",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167117,
-				},
-				[330366] = {
-					["source"] = "Uncontested-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[115008] = {
-					["source"] = "Virulentous",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[116095] = {
-					["source"] = "Kardiak-Stormreaver",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[80354] = {
-					["source"] = "Kinhana-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[340600] = {
-					["source"] = "Yeuro",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[56641] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[342132] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[243955] = {
-					["source"] = "Ôedômsa-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[49576] = {
-					["source"] = "Izgule-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[15487] = {
-					["source"] = "Urgelgrue-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[338041] = {
-					["source"] = "Sleiqht",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[326021] = {
-					["source"] = "Spinemaw Gorger",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 172312,
-				},
-				[336885] = {
-					["source"] = "Toshpriest-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[155722] = {
-					["source"] = "Raining-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hazanko",
 					["npcID"] = 0,
 				},
 				[165961] = {
-					["source"] = "Mojobear",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Virta",
+					["npcID"] = 0,
+				},
+				[121471] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[19801] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[335485] = {
-					["source"] = "Mawsworn Demolisher",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 170518,
-				},
-				[346227] = {
-					["source"] = "Alexnios-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[260708] = {
-					["source"] = "Olala",
+				[24450] = {
 					["type"] = "BUFF",
+					["source"] = "Cat",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[52127] = {
-					["source"] = "Dassaace-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[1822] = {
-					["source"] = "Raining-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[80483] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[328837] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[343173] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[53385] = {
-					["source"] = "Pyjamas-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[47788] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[2645] = {
-					["source"] = "Cynfee-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345219] = {
-					["source"] = "Urgelgrue-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[242551] = {
-					["source"] = "Polydektus",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336767] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Heathclîff",
-					["npcID"] = 0,
-				},
-				[345209] = {
-					["source"] = "Bohdie-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[309658] = {
-					["type"] = "BUFF",
-					["source"] = "Yellowy-Area52",
-					["encounterID"] = 2392,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[326293] = {
-					["source"] = "Unknown",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165062,
-				},
-				[51399] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[324748] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[2649] = {
-					["source"] = "Myonix",
-					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 165189,
 				},
-				[258920] = {
-					["source"] = "Evandh-Illidan",
+				[212283] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[228358] = {
-					["source"] = "Myndera-Area52",
-					["type"] = "DEBUFF",
+				[213981] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[340094] = {
-					["source"] = "Backstâbbath-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Starzy-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[336267] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[330896] = {
-					["source"] = "Alexnios-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[41425] = {
-					["source"] = "Snap-Mal'Ganis",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[341374] = {
-					["source"] = "Skuk-Area52",
+				[131347] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[345466] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[207771] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[331497] = {
-					["source"] = "Whitedh",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[7384] = {
-					["source"] = "Giotto-Arthas",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[113860] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[1850] = {
-					["source"] = "Virem-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322450] = {
-					["encounterID"] = 2393,
-					["source"] = "Tred'ova",
+				[49184] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164517,
-				},
-				[116] = {
-					["source"] = "Myndera-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
-				},
-				[187698] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[465] = {
-					["source"] = "Mielliana",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[185394] = {
-					["source"] = "Nineasians",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[3716] = {
-					["source"] = "Thokgarth",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 1860,
-				},
-				[54149] = {
-					["source"] = "Heybye",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[19434] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[20473] = {
-					["source"] = "Ronfaure",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[48107] = {
-					["source"] = "Megumìn-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346489] = {
-					["source"] = "Unknown",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 175897,
-				},
-				[310944] = {
-					["source"] = "Calvért-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[194249] = {
-					["source"] = "Urgelgrue-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322709] = {
-					["encounterID"] = 2393,
-					["source"] = "Tred'ova",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164517,
-				},
-				[228260] = {
-					["source"] = "Urgelgrue-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[322550] = {
-					["encounterID"] = 2393,
-					["source"] = "Tred'ova",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164517,
-				},
-				[117526] = {
-					["type"] = "DEBUFF",
-					["source"] = "Lyunara-Area52",
-					["encounterID"] = 2392,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[15407] = {
-					["source"] = "Urgelgrue-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[157644] = {
-					["source"] = "Dudeuronfire-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[185358] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[265931] = {
-					["source"] = "Nogalyurt-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311458] = {
-					["source"] = "Lyel",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322967] = {
-					["source"] = "Drust Spiteclaw",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165111,
-				},
-				[227723] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336763] = {
-					["source"] = "Resonant Misery",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 169780,
-				},
-				[205473] = {
-					["source"] = "Myndera-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[209693] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[102417] = {
-					["source"] = "Raining-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[114250] = {
-					["source"] = "Pyjamas-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311460] = {
-					["source"] = "Nedrana-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[326281] = {
-					["encounterID"] = 2393,
-					["source"] = "Tred'ova",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164517,
-				},
-				[187827] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322938] = {
-					["source"] = "Drust Harvester",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164921,
-				},
-				[228645] = {
-					["source"] = "Rune Weapon",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 27893,
-				},
-				[200174] = {
-					["source"] = "Toshpriest-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[124280] = {
-					["source"] = "Toshmonk",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[340873] = {
-					["source"] = "Manifestation of Pride",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 173729,
-				},
-				[219788] = {
-					["source"] = "Izgule-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[330132] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[152108] = {
-					["source"] = "Gamørá-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[453] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[48108] = {
-					["source"] = "Megumìn-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[90328] = {
-					["source"] = "Myonix",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165189,
 				},
 				[193455] = {
-					["source"] = "Huntson-Area52",
+					["source"] = "Sillanara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[31661] = {
-					["source"] = "Dudeuronfire-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[2580] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
 				[53351] = {
-					["source"] = "Lyunara-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[345454] = {
-					["source"] = "Borr-Geth",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 157833,
-				},
-				[335505] = {
-					["source"] = "Mawsworn Demolisher",
+				[323996] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 170518,
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
 				},
-				[106830] = {
-					["source"] = "Raining-Area52",
+				[204197] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
-				[311465] = {
-					["source"] = "Celebrok",
-					["type"] = "BUFF",
+				[311464] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
-				[339342] = {
-					["source"] = "Candiru-Area52",
-					["type"] = "BUFF",
+				[194223] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[334067] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
 				[164812] = {
-					["source"] = "Bohdie-Area52",
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
 				[109132] = {
@@ -52118,20 +50574,9 @@ PlaterDB = {
 					["npcID"] = 0,
 				},
 				[311466] = {
-					["source"] = "Deleetd-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[325021] = {
-					["source"] = "Mistveil Stalker",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 166301,
-				},
-				[213771] = {
-					["source"] = "Bohdie-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
 				[121536] = {
@@ -52139,223 +50584,237 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[311467] = {
-					["source"] = "Virem-Area52",
+				[273104] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[223819] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[311467] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[166906] = {
+					["source"] = "Mawsworn Outrider",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 175882,
+				},
+				[247676] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[117828] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[311468] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[337299] = {
+					["type"] = "BUFF",
+					["source"] = "Verdigris-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[263642] = {
-					["source"] = "Evandh-Illidan",
+				[345739] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[196099] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Kombu-Barthilas",
+					["npcID"] = 0,
+				},
+				[345228] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[347163] = {
+					["type"] = "DEBUFF",
+					["source"] = "Stygian Runesmith",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 170157,
+				},
+				[247677] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[345569] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[311470] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Moshy",
+					["npcID"] = 0,
+				},
+				[98008] = {
+					["source"] = "Rutitotem",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[346871] = {
-					["source"] = "Subfrozen-Area52's Assassin",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 161856,
-				},
-				[117828] = {
-					["source"] = "Gamørá-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[294165] = {
-					["source"] = "Soulsmith Yol-Mattar",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165047,
-				},
-				[326046] = {
-					["source"] = "Spinemaw Staghorn",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167111,
-				},
-				[11196] = {
-					["source"] = "Calvért-Area52",
+				[199085] = {
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[340880] = {
+				[108366] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Kasilla-Alexstrasza",
+					["npcID"] = 0,
+				},
+				[311471] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[19483] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Infernal",
+					["npcID"] = 89,
+				},
+				[164815] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[2094] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[188499] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[328837] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[256374] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[774] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[204213] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[232893] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[186401] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
+					["npcID"] = 0,
+				},
+				[194249] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Sancti-Sargeras",
+					["npcID"] = 0,
+				},
+				[311474] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Oliverskye",
+					["npcID"] = 0,
+				},
+				[121557] = {
+					["type"] = "BUFF",
+					["source"] = "Yellowy-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[186265] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Lunathorn-Frostmourne",
+					["npcID"] = 0,
+				},
+				[317361] = {
+					["type"] = "BUFF",
+					["source"] = "Darthbanee-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311496] = {
+					["type"] = "BUFF",
+					["source"] = "Carmelitafox",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[185313] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[307187] = {
+					["type"] = "BUFF",
+					["source"] = "Calede-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311469] = {
-					["source"] = "Dudeuronfire-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
-				[243435] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
+				[87204] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[55078] = {
-					["source"] = "Izgule-Area52",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[321444] = {
-					["source"] = "Yellowy-Area52",
+				[202748] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311470] = {
-					["source"] = "Dudeuronfire-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[342416] = {
-					["source"] = "Durracell-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[48045] = {
-					["source"] = "Toshpriest-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[108366] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311471] = {
-					["source"] = "Dudeuronfire-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[19483] = {
-					["source"] = "Infernal",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 89,
-				},
-				[6673] = {
-					["source"] = "Demoras",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[12323] = {
-					["source"] = "Olala",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[2060] = {
-					["source"] = "Yellowy-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[325027] = {
-					["source"] = "Drust Boughbreaker",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164926,
-				},
-				[324260] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[192225] = {
-					["source"] = "Dokarn-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345232] = {
-					["source"] = "Cyrixia",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 168693,
-				},
-				[334320] = {
-					["source"] = "Orcalots-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[109248] = {
-					["source"] = "Lyunara-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[333724] = {
-					["source"] = "Paka",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345233] = {
-					["source"] = "Cyrixia",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 168693,
-				},
-				[311054] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[308525] = {
-					["source"] = "Ryazer",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[22842] = {
-					["source"] = "Bohdie-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311475] = {
-					["source"] = "Draret",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346513] = {
-					["source"] = "Unknown",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 171581,
-				},
-				[123904] = {
-					["source"] = "Toshmonk",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[203819] = {
-					["source"] = "Evandh-Illidan",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[311476] = {
-					["source"] = "Pharax",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[44457] = {
-					["source"] = "Dudeuronfire-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
 				[317103] = {
@@ -52363,519 +50822,524 @@ PlaterDB = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[343104] = {
-					["source"] = "Blazing Stygia",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 170208,
+				[974] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Toshaman",
+					["npcID"] = 0,
 				},
 				[331937] = {
-					["source"] = "Rolfcopter-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[122] = {
-					["source"] = "Dudeuronfire-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[20572] = {
-					["source"] = "Uncontested-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
-				[204843] = {
-					["source"] = "Evandh-Illidan",
+				[116947] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
+					["source"] = "Earthgrab Totem",
+					["npcID"] = 60561,
+				},
+				[16591] = {
+					["type"] = "BUFF",
+					["source"] = "Flôwers-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[114250] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
 				[311478] = {
-					["source"] = "Yuhri",
 					["type"] = "BUFF",
+					["source"] = "Paragon",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[1953] = {
-					["source"] = "Dudeuronfire-Area52",
+				[311476] = {
 					["type"] = "BUFF",
+					["source"] = "Jenyu-Frostwolf",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[32223] = {
-					["source"] = "Legman",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Brendyi",
 					["npcID"] = 0,
 				},
-				[317361] = {
-					["source"] = "Hollyshamz-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[6789] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[331939] = {
-					["source"] = "Hellsoulx-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[327851] = {
+					["type"] = "BUFF",
+					["source"] = "Vteckk",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[327080] = {
-					["source"] = "Mawsworn Shackler",
+				[311479] = {
 					["type"] = "BUFF",
+					["source"] = "Missexploit-Boulderfist",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167322,
+					["npcID"] = 0,
 				},
-				[320480] = {
-					["source"] = "Raining-Area52's Assassin",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 161849,
-				},
-				[980] = {
-					["source"] = "Haxpax-Illidan",
+				[5782] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
 				[311480] = {
-					["source"] = "Delowmana-Area52",
 					["type"] = "BUFF",
+					["source"] = "Garebabre-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[345495] = {
-					["source"] = "Frothing Pustule",
+				[53385] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 175519,
-				},
-				[127230] = {
-					["source"] = "Frosticle-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
-				[342938] = {
-					["source"] = "Purplegirafe-Tichondrius",
-					["type"] = "DEBUFF",
+				[345335] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[191034] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
 				[311481] = {
-					["source"] = "Zula-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Chechita",
 					["npcID"] = 0,
 				},
-				[185152] = {
-					["source"] = "Magmic Flamebinder",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 157820,
-				},
-				[145152] = {
-					["source"] = "Raining-Area52",
+				[53563] = {
 					["type"] = "BUFF",
+					["source"] = "Giraffeneck-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[337824] = {
-					["source"] = "Heybye",
+				[46968] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[48517] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[336267] = {
+					["type"] = "BUFF",
+					["source"] = "Yellowy-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[321712] = {
-					["source"] = "Dudeuronfire-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[179057] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[321968] = {
-					["source"] = "Tirnenn Villager",
+				[324260] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164929,
-				},
-				[35395] = {
-					["source"] = "Paladinozaur-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[30449] = {
-					["source"] = "Dudeuronfire-Area52",
+				[192058] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Toshaman",
 					["npcID"] = 0,
 				},
 				[311483] = {
-					["source"] = "Arctorius",
 					["type"] = "BUFF",
+					["source"] = "Épsilon",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[26064] = {
-					["source"] = "Unknown",
+				[102359] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[311492] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165189,
-				},
-				[342820] = {
-					["source"] = "Subfrozen-Area52's Assassin",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 161854,
-				},
-				[316220] = {
-					["source"] = "Foxmeuwu-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Umtumbo-Illidan",
 					["npcID"] = 0,
 				},
-				[311484] = {
-					["source"] = "Jubbyxd-Area52",
+				[304971] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[585] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
+					["npcID"] = 0,
+				},
+				[311488] = {
 					["type"] = "BUFF",
+					["source"] = "Vejjboy",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[204021] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[344732] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[322648] = {
-					["encounterID"] = 2393,
-					["type"] = "DEBUFF",
+				[162264] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[337060] = {
-					["source"] = "Haxpax-Illidan",
 					["type"] = "BUFF",
+					["source"] = "Skillidari-Cairne",
+					["npcID"] = 0,
+				},
+				[31884] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Balanx-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[292362] = {
+					["type"] = "BUFF",
+					["source"] = "Liqüor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[342494] = {
-					["source"] = "Manifestation of Pride",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 173729,
-				},
-				[326319] = {
-					["source"] = "Drust Harvester",
+				[24275] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164921,
+					["source"] = "Wagyl-Frostmourne",
+					["npcID"] = 0,
+				},
+				[111759] = {
+					["type"] = "BUFF",
+					["source"] = "Gorghors-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[8679] = {
-					["source"] = "Rooge",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[311486] = {
+					["type"] = "BUFF",
+					["source"] = "Yalamber-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[185438] = {
-					["source"] = "Foxmeuwu-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[77489] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
+				[24858] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
 					["npcID"] = 0,
 				},
-				[205231] = {
-					["source"] = "Darkglare",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 103673,
+				[203155] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Lunathorn-Frostmourne",
+					["npcID"] = 0,
 				},
-				[33757] = {
-					["source"] = "Qwerdshock-Area52",
+				[204336] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Toshaman",
 					["npcID"] = 0,
 				},
 				[311487] = {
-					["source"] = "Boktar-Area52",
 					["type"] = "BUFF",
+					["source"] = "Frejya-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[321973] = {
-					["source"] = "Rolfcopter-Area52",
-					["type"] = "BUFF",
+				[50259] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
 					["npcID"] = 0,
 				},
-				[195072] = {
-					["source"] = "Quikkser",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[192106] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bacongawd-Tichondrius",
 					["npcID"] = 0,
 				},
 				[21562] = {
-					["source"] = "Yellowy-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[33917] = {
-					["source"] = "Bohdie-Area52",
+				[323764] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Igotbigears-Khaz'goroth",
+					["npcID"] = 0,
+				},
+				[328231] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[146739] = {
-					["source"] = "Haxpax-Illidan",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
 				[246152] = {
-					["source"] = "Huntson-Area52",
 					["type"] = "BUFF",
+					["source"] = "Sillanara-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[322486] = {
-					["source"] = "Tirnenn Villager",
+				[308474] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Mishã",
+					["npcID"] = 0,
+				},
+				[227151] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Starzy-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[34914] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164929,
-				},
-				[311489] = {
-					["source"] = "Boktar-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
 				},
-				[206930] = {
-					["source"] = "Izgule-Area52",
+				[270058] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Mystically",
+					["npcID"] = 0,
+				},
+				[183218] = {
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
-				[43265] = {
-					["source"] = "Izgule-Area52",
+				[85673] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[322487] = {
-					["source"] = "Tirnenn Villager",
-					["type"] = "DEBUFF",
+				[345230] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164929,
-				},
-				[311490] = {
-					["source"] = "Kojinus-Area52",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[84714] = {
-					["source"] = "Subfrozen-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
 				[202164] = {
-					["source"] = "Supashout-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
+					["source"] = "Cevapi-Frostmourne",
+					["npcID"] = 0,
+				},
+				[47568] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
+					["npcID"] = 0,
+				},
+				[2983] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[335276] = {
+					["type"] = "BUFF",
+					["source"] = "Joeactually",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[12472] = {
-					["source"] = "Subfrozen-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[194509] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Irrumate-Sargeras",
 					["npcID"] = 0,
 				},
-				[342181] = {
-					["source"] = "Yellowy-Area52",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[264689] = {
-					["source"] = "Sìlk",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[331440] = {
-					["type"] = "BUFF",
-					["source"] = "Ingra Maloch",
-					["encounterID"] = 2397,
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 164567,
-				},
-				[322098] = {
-					["source"] = "Rolfcopter-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[310869] = {
+					["source"] = "Zalisto",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[315584] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Fraashaa",
+					["source"] = "Eraces-Sargeras",
 					["npcID"] = 0,
 				},
 				[190784] = {
-					["source"] = "Legman",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[195182] = {
-					["source"] = "Izgule-Area52",
+				[85256] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
-				[324536] = {
-					["source"] = "Haxpax-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[311493] = {
-					["source"] = "Alexnios-Area52",
-					["type"] = "BUFF",
+				[347042] = {
+					["type"] = "DEBUFF",
+					["source"] = "Toshmonk",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[112867] = {
-					["source"] = "Deathiras-Area52",
+				[20271] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[334511] = {
-					["source"] = "Kenshimoo-Area52",
-					["type"] = "BUFF",
+				[330038] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336813] = {
-					["encounterID"] = 2392,
-					["source"] = "Mistcaller",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 164501,
-				},
-				[346276] = {
-					["source"] = "Nogalyurt-Area52",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["type"] = "BUFF",
+					["source"] = "Lunathorn-Frostmourne",
 					["npcID"] = 0,
 				},
 				[29722] = {
-					["source"] = "Nogalyurt-Area52",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Getsmoked-Mok'Nathal",
+					["npcID"] = 0,
+				},
+				[197690] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Dragonsbane",
+					["npcID"] = 0,
+				},
+				[311494] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wickybizzy",
+					["npcID"] = 0,
+				},
+				[49039] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Bigdiesel",
 					["npcID"] = 0,
 				},
 				[183752] = {
-					["source"] = "Evandh-Illidan",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Skillidari-Cairne",
 					["npcID"] = 0,
 				},
-				[116841] = {
-					["source"] = "Tobee",
-					["type"] = "BUFF",
+				[204242] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
-				[321725] = {
-					["type"] = "BUFF",
-					["source"] = "Illusionary Clone",
-					["encounterID"] = 2392,
+				[311495] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 165108,
-				},
-				[204596] = {
-					["source"] = "Evandh-Illidan",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["type"] = "BUFF",
+					["source"] = "Bazengadin",
 					["npcID"] = 0,
 				},
-				[316099] = {
-					["source"] = "Haxpax-Illidan",
+				[853] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[218164] = {
-					["source"] = "Toshmonk",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[48518] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Talasmira-Sargeras",
+					["npcID"] = 0,
+				},
+				[167898] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Fuzzyfur",
 					["npcID"] = 0,
 				},
 				[118922] = {
-					["source"] = "Lyunara-Area52",
-					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Merquee-Proudmoore",
 					["npcID"] = 0,
 				},
-				[8092] = {
-					["source"] = "Toshpriest-Area52",
+				[19750] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Balanx-Mok'Nathal",
 					["npcID"] = 0,
 				},
-				[348836] = {
-					["source"] = "Quikkser",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[343721] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wagyl-Frostmourne",
 					["npcID"] = 0,
 				},
 				[23161] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Bleeque",
-					["npcID"] = 0,
-				},
-				[329911] = {
-					["source"] = "Shadowlands Wormhole",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 169501,
-				},
-				[345863] = {
-					["source"] = "Mezia",
-					["type"] = "BUFF",
+					["source"] = "Besmirch-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[221886] = {
-					["source"] = "Legman",
+				[212653] = {
 					["type"] = "BUFF",
+					["source"] = "Verdigris-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[269513] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Krykee-Illidan",
+					["npcID"] = 0,
+				},
+				[317920] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Vuduguru-BloodFurnace",
 					["npcID"] = 0,
 				},
 				[114255] = {
-					["source"] = "Yellowy-Area52",
 					["type"] = "BUFF",
+					["source"] = "Yellowy-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311498] = {
+					["type"] = "BUFF",
+					["source"] = "Fingfongfoo-Area52",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[119085] = {
+					["type"] = "BUFF",
+					["source"] = "Carmelitafox",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[65081] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Oraknofal",
+					["source"] = "Szabogfx-Illidan",
 					["npcID"] = 0,
 				},
-				[1464] = {
-					["source"] = "Giotto-Arthas",
+				[335467] = {
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Sancti-Sargeras",
 					["npcID"] = 0,
-				},
-				[341291] = {
-					["source"] = "Skuk-Area52",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[345002] = {
-					["source"] = "Mawsworn Thaumaturge",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 168977,
 				},
 				[311499] = {
-					["source"] = "Mojobear",
 					["type"] = "BUFF",
+					["source"] = "Gentjack-Area52",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[290608] = {
+				[132404] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Heathclîff",
+					["source"] = "Cevapi-Frostmourne",
 					["npcID"] = 0,
 				},
 			},
@@ -52925,9 +51389,12 @@ PlaterDB = {
 				["nameplateSelfAlpha"] = "0.75",
 				["nameplateOccludedAlphaMult"] = "1",
 			},
-			["login_counter"] = 2546,
+			["login_counter"] = 2599,
 			["extra_icon_caster_name"] = false,
-			["aura_cooldown_show_swipe"] = false,
+			["click_space_friendly"] = {
+				120, -- [1]
+				20, -- [2]
+			},
 			["aura_stack_font"] = "Accidental Presidency",
 			["OptionsPanelDB"] = {
 				["PlaterOptionsPanelFrame"] = {
@@ -53857,25 +52324,25 @@ PlaterDB = {
 					false, -- [2]
 					"paleturquoise", -- [3]
 				},
+				[133835] = {
+					true, -- [1]
+					false, -- [2]
+					"goldenrod", -- [3]
+				},
 				[134600] = {
 					true, -- [1]
 					false, -- [2]
 					"peru", -- [3]
-				},
-				[135365] = {
-					true, -- [1]
-					false, -- [2]
-					"plum", -- [3]
 				},
 				[136353] = {
 					true, -- [1]
 					false, -- [2]
 					"royalblue", -- [3]
 				},
-				[133835] = {
+				[135365] = {
 					true, -- [1]
 					false, -- [2]
-					"goldenrod", -- [3]
+					"plum", -- [3]
 				},
 				[126918] = {
 					true, -- [1]
@@ -53963,11 +52430,12 @@ PlaterDB = {
 				{
 					["Enabled"] = false,
 					["Revision"] = 141,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "",
-					["Author"] = "Ahwa-Azralon",
 					["HooksTemp"] = {
+					},
+					["Author"] = "Ahwa-Azralon",
+					["Options"] = {
 					},
 					["Desc"] = "Adds extra effects to execute range and allow to setup two execute ranges for classes with execute when the unit has almost full healh. See the constructor script for options.",
 					["Hooks"] = {
@@ -53975,7 +52443,7 @@ PlaterDB = {
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --execute detection, if true the script will handle the execute percent\n    --while false Plater will automatically trigger the execute range\n    --you only want to set this to true in case of Plater not detecting the execute range correctly\n    envTable.UseCustomExecutePercent = true\n    --execute percent, if not detecting automatic, this is the percent to active the execute range\n    --use from zero to one, 0.20 is equal to 20% of the unit life\n    envTable.ExecutePercent = 0.20\n    \n    --second execute range (UseCustomExecutePercent must be enabled)\n    envTable.SecondRangeStart = 0.999\n    envTable.SecondRangeEnd = 0.8\n    \n    --allow this script to change the nameplate color when the unit is in execute range\n    envTable.CanChangeColor = true\n    --change the health bar color to this color when the unit is in execute range\n    --color can be set as:\n    --color names: \"red\", \"yellow\"\n    --color hex: \"#FF0000\", \"#FFFF00\"\n    --color table: {1, 0, 0}, {1, 1, 0}\n    envTable.ExecuteColor = \"green\"\n    \n    --border color\n    envTable.CanChangeBorderColor = false\n    envTable.BorderColor = \"red\"\n    \n    --hide the default health divisor and the health execute indicator\n    envTable.HideHealthDivisor = false\n    --if not hidden, adjust the health divisor settings and the health execute indicator\n    envTable.HealthDivisorAlpha = 0.5\n    envTable.HealthDivisorColor = \"white\"\n    envTable.HealthExecuteIndicatorAlpha = 0.15\n    envTable.HealthExecuteIndicatorColor = \"darkred\"\n    \n    \n    --private (internal functions)\n    do\n        function envTable.UnitInExecuteRange (unitFrame, divisorPercent)\n            --check if can change the execute color\n            if (envTable.CanChangeColor) then\n                Plater.SetNameplateColor (unitFrame, envTable.ExecuteColor)\n            end\n            \n            if (envTable.CanChangeBorderColor) then\n                Plater.SetBorderColor (unitFrame, envTable.BorderColor)\n            end\n            \n            if (envTable.HideHealthDivisor) then\n                unitFrame.healthBar.healthCutOff:Hide() \n                unitFrame.healthBar.executeRange:Hide()\n                \n            else\n                envTable.UpdateHealthDivisor (unitFrame, divisorPercent)\n                \n            end\n        end\n        \n        function envTable.UpdateHealthDivisor (unitFrame, divisorPercent)\n            local healthBar = unitFrame.healthBar\n            \n            healthBar.healthCutOff:Show()\n            healthBar.healthCutOff:SetVertexColor (DetailsFramework:ParseColors (envTable.HealthDivisorColor))\n            healthBar.healthCutOff:SetAlpha (envTable.HealthDivisorAlpha)\n            \n            healthBar.executeRange:Show()\n            healthBar.executeRange:SetVertexColor (DetailsFramework:ParseColors (envTable.HealthExecuteIndicatorColor))\n            healthBar.executeRange:SetAlpha (envTable.HealthExecuteIndicatorAlpha)\n            \n            if (envTable.UseCustomExecutePercent) then\n                healthBar.healthCutOff:ClearAllPoints()\n                healthBar.executeRange:ClearAllPoints()\n                \n                healthBar.healthCutOff:SetSize (healthBar:GetHeight(), healthBar:GetHeight())\n                healthBar.healthCutOff:SetPoint (\"center\", healthBar, \"left\", healthBar:GetWidth() * divisorPercent, 0)\n                \n                healthBar.executeRange:SetTexCoord (0, envTable.ExecutePercent, 0, 1)\n                healthBar.executeRange:SetHeight (healthBar:GetHeight())\n                healthBar.executeRange:SetPoint (\"left\", healthBar, \"left\", 0, 0)\n                healthBar.executeRange:SetPoint (\"right\", healthBar.healthCutOff, \"center\")\n            end\n            \n        end\n    end\n    \nend",
 					},
 					["Prio"] = 99,
-					["Time"] = 1596903792,
+					["Name"] = "Advanced Execute Range",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -53998,20 +52466,20 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Advanced Execute Range",
+					["LastHookEdited"] = "",
+					["Time"] = 1596903792,
 					["Icon"] = 135358,
 					["PlaterCore"] = 1,
 				}, -- [1]
 				{
 					["Enabled"] = true,
 					["Revision"] = 45,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "Constructor",
-					["Author"] = "Ditador-Azralon",
 					["HooksTemp"] = {
+					},
+					["Author"] = "Ditador-Azralon",
+					["Options"] = {
 					},
 					["Desc"] = "Change the color of the aura timer by it's time left",
 					["Hooks"] = {
@@ -54019,7 +52487,7 @@ PlaterDB = {
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --colors for each time bracket\n    envTable.Colors = {\n        critical = \"red\",\n        warning = \"yellow\",\n        okay = \"white\",\n    }\n    \n    --time amount to enter in warning or critical state\n    envTable.Timers = {\n        critical = 4.9,\n        warning = 8,\n    }\n    \nend\n\n\n",
 					},
 					["Prio"] = 99,
-					["Time"] = 1600015324,
+					["Name"] = "Paint Aura Timers",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54042,27 +52510,27 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Paint Aura Timers",
+					["LastHookEdited"] = "Constructor",
+					["Time"] = 1600015324,
 					["Icon"] = "Interface\\Timer\\Challenges-Logo",
 					["PlaterCore"] = 1,
 				}, -- [2]
 				{
 					["Enabled"] = true,
 					["Revision"] = 130,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "",
-					["Author"] = "????????-Illidan",
 					["HooksTemp"] = {
+					},
+					["Author"] = "????????-Illidan",
+					["Options"] = {
 					},
 					["Desc"] = "Config aura borders",
 					["Hooks"] = {
 						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    --border thickness\n    local size = 1 \n    \n    for index, auraIcon in ipairs (unitFrame.BuffFrame.PlaterBuffList) do\n        if (auraIcon:IsShown()) then\n            \n            if (not auraIcon.PixelPerfectBorder) then\n                auraIcon.PixelPerfectBorder = CreateFrame (\"frame\", nil, auraIcon, \"NamePlateFullBorderTemplate\")\n            end\n            \n            local r, g, b = auraIcon:GetBackdropBorderColor()\n            auraIcon:SetBackdropBorderColor (0, 0, 0, 0)\n            \n            auraIcon.PixelPerfectBorder:SetVertexColor (r, g, b)\n            auraIcon.PixelPerfectBorder:SetBorderSizes (size, size, size, size)\n            auraIcon.PixelPerfectBorder:UpdateSizes()\n            \n            auraIcon.Icon:ClearAllPoints()\n            auraIcon.Icon:SetAllPoints()\n            \n            auraIcon.Border:Hide() --hide plater default border\n        end\n    end\n    \n    for index, auraIcon in ipairs (unitFrame.BuffFrame2.PlaterBuffList) do\n        if (auraIcon:IsShown()) then\n            \n            if (not auraIcon.PixelPerfectBorder) then\n                auraIcon.PixelPerfectBorder = CreateFrame (\"frame\", nil, auraIcon, \"NamePlateFullBorderTemplate\")\n            end\n            \n            local r, g, b = auraIcon:GetBackdropBorderColor()\n            auraIcon:SetBackdropBorderColor (0, 0, 0, 0)\n            \n            auraIcon.PixelPerfectBorder:SetVertexColor (r, g, b)\n            auraIcon.PixelPerfectBorder:SetBorderSizes (size, size, size, size)\n            auraIcon.PixelPerfectBorder:UpdateSizes()            \n            \n            auraIcon.Icon:ClearAllPoints()\n            auraIcon.Icon:SetAllPoints()\n            \n            auraIcon.Border:Hide() --hide plater default border\n        end\n    end    \nend",
 					},
 					["Prio"] = 99,
-					["Time"] = 1605782247,
+					["Name"] = "Advanced Debuff Border",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54085,20 +52553,20 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Advanced Debuff Border",
+					["LastHookEdited"] = "",
+					["Time"] = 1605782247,
 					["Icon"] = 133006,
 					["PlaterCore"] = 1,
 				}, -- [3]
 				{
 					["Enabled"] = true,
 					["Revision"] = 46,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "",
-					["Author"] = "????????-Illidan",
 					["HooksTemp"] = {
+					},
+					["Author"] = "????????-Illidan",
+					["Options"] = {
 					},
 					["Desc"] = "Debuff timer show decimal values",
 					["Hooks"] = {
@@ -54106,7 +52574,7 @@ PlaterDB = {
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --minimum time left to take effect\n    envTable.MinTime = 9.999\n    \nend",
 					},
 					["Prio"] = 99,
-					["Time"] = 1600571224,
+					["Name"] = "Decimal Debuff Timer",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54129,27 +52597,27 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Decimal Debuff Timer",
+					["LastHookEdited"] = "",
+					["Time"] = 1600571224,
 					["Icon"] = 609811,
 					["PlaterCore"] = 1,
 				}, -- [4]
 				{
 					["Enabled"] = true,
 					["Revision"] = 85,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "Nameplate Updated",
-					["Author"] = "?????-Illidan",
 					["HooksTemp"] = {
+					},
+					["Author"] = "?????-Illidan",
+					["Options"] = {
 					},
 					["Desc"] = "Format Buff Special icons like the regular aura icons.",
 					["Hooks"] = {
 						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    --    if false then return end\n    \n    for _, iconFrame in ipairs (unitFrame.ExtraIconFrame.IconPool) do\n        \n        unitFrame.ExtraIconFrame.options.show_text = true\n        \n        local profile = Plater.db.profile\n        \n        Plater.SetAnchor (iconFrame.CountdownText, profile.aura_timer_text_anchor)\n        Plater:SetFontSize (iconFrame.CountdownText, profile.aura_timer_text_size)\n        Plater:SetFontFace (iconFrame.CountdownText, profile.aura_timer_text_font)\n        \n        Plater.SetFontOutlineAndShadow (iconFrame.CountdownText, profile.aura_timer_text_outline, profile.aura_timer_text_shadow_color, profile.aura_timer_text_shadow_color_offset[1], profile.aura_timer_text_shadow_color_offset[2])\n        \n        iconFrame.Cooldown:SetEdgeTexture (profile.aura_cooldown_edge_texture)\n        iconFrame.Cooldown:SetReverse (profile.aura_cooldown_reverse)\n        iconFrame.Cooldown:SetDrawSwipe (profile.aura_cooldown_show_swipe)        \n        \n    end\n    \nend",
 					},
 					["Prio"] = 99,
-					["Time"] = 1605783246,
+					["Name"] = "Buff Special Mod",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54172,27 +52640,27 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Buff Special Mod",
+					["LastHookEdited"] = "Nameplate Updated",
+					["Time"] = 1605783246,
 					["Icon"] = 136139,
 					["PlaterCore"] = 1,
 				}, -- [5]
 				{
 					["Enabled"] = true,
 					["Revision"] = 17,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "",
-					["Author"] = "Ditador-Azralon",
 					["HooksTemp"] = {
+					},
+					["Author"] = "Ditador-Azralon",
+					["Options"] = {
 					},
 					["Desc"] = "Set the unit name to be above the target shading texture.",
 					["Hooks"] = {
 						["Target Changed"] = "function (self, unitId, unitFrame, envTable)\n    unitFrame.unitName:SetDrawLayer (\"overlay\", 7)\nend\n\n\n\n\n\n\n\n\n",
 					},
 					["Prio"] = 99,
-					["Time"] = 1600015358,
+					["Name"] = "Unit Name Over Target Shading",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54215,20 +52683,20 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Unit Name Over Target Shading",
+					["LastHookEdited"] = "",
+					["Time"] = 1600015358,
 					["Icon"] = 237377,
 					["PlaterCore"] = 1,
 				}, -- [6]
 				{
 					["Enabled"] = true,
 					["Revision"] = 24,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "",
-					["Author"] = "Ditador-Azralon",
 					["HooksTemp"] = {
+					},
+					["Author"] = "Ditador-Azralon",
+					["Options"] = {
 					},
 					["Desc"] = "Set the spark height to the same size of the cast bar.",
 					["Hooks"] = {
@@ -54236,7 +52704,7 @@ PlaterDB = {
 						["Cast Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    self.Spark:SetHeight (self:GetHeight())\n    \nend\n\n\n",
 					},
 					["Prio"] = 99,
-					["Time"] = 1605782244,
+					["Name"] = "Adjust Spark Size",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54259,20 +52727,20 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Adjust Spark Size",
+					["LastHookEdited"] = "",
+					["Time"] = 1605782244,
 					["Icon"] = "Interface\\AddOns\\Plater\\images\\spark6",
 					["PlaterCore"] = 1,
 				}, -- [7]
 				{
 					["Enabled"] = true,
 					["Revision"] = 78,
-					["Options"] = {
+					["OptionsValues"] = {
 					},
-					["LastHookEdited"] = "Constructor",
-					["Author"] = "Izimode-Azralon",
 					["HooksTemp"] = {
+					},
+					["Author"] = "Izimode-Azralon",
+					["Options"] = {
 					},
 					["Desc"] = "Show power bar for some units.",
 					["Hooks"] = {
@@ -54280,7 +52748,7 @@ PlaterDB = {
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --power bar options:\n    \n    --for which units it should\n    envTable.ShowForEnemyPlayers = true\n    envTable.ShowForEnemyNpcs = false\n    \n    --specific npcs, can be the npc name or npcId\n    --this list work even if the ShowForEnemyNpcs is false\n    envTable.SpecificNpcs = {\n        [\"the rock\"] = true, --npc name\n        [225] = true, --npcId\n    }\n    \n    --anchor the power bar to\n    envTable.Anchor = {\n        side = 13, --inside the healthbar, bottom side\n        x = 0, \n        y = 0,\n    }\n    \n    --power bar height\n    envTable.Height = 1\n    \n    --power bar percent text\n    envTable.PercentTextEnabled = false\n    envTable.PercentTextAnchor = {\n        side = 7, --top right\n        x = 2, \n        y = 0,\n    }\n    \n    \n    --private\n    function envTable.ShowPowerbar (unitFrame)\n        unitFrame.powerBar:SetUnit (unitFrame.unit)\n        envTable.UpdatePowerbar (unitFrame)\n    end\n    \n    function envTable.UpdatePowerbar (unitFrame)\n        local powerBar = unitFrame.powerBar\n        Plater.SetAnchor (powerBar, envTable.Anchor, unitFrame.healthBar)\n        powerBar:SetSize (unitFrame.healthBar:GetWidth(), envTable.Height)\n        \n        envTable.SavePowerBarSize (unitFrame, envTable.Height)\n        \n        if (envTable.PercentTextEnabled) then\n            powerBar.percentText:Show()\n            --copy the font from the health percent\n            Plater:SetFontFace (powerBar.percentText, Plater.GetConfig (unitFrame).percent_text_font)\n            Plater:SetFontSize (powerBar.percentText, Plater.GetConfig (unitFrame).percent_text_size)\n            Plater.SetAnchor (powerBar.percentText, envTable.PercentTextAnchor)\n        else\n            powerBar.percentText:Hide()\n        end\n    end\n    \n    function envTable.CanShowPowerBarForUnit (unitFrame)\n        --check if the is in the special list to force show\n        local forceShowPowerBar = envTable.SpecificNpcs [unitFrame.namePlateNpcId] or envTable.SpecificNpcs [unitFrame.namePlateUnitName] or envTable.SpecificNpcs [unitFrame.namePlateUnitNameLower]\n        if (forceShowPowerBar) then\n            envTable.ShowPowerbar (unitFrame)\n            \n            --check if the unit is a enemy player\n        elseif (unitFrame.ActorType == \"enemyplayer\") then\n            if (envTable.ShowForEnemyPlayers) then\n                envTable.ShowPowerbar (unitFrame)\n            end\n            \n            --check if the unit is a enemy npc\n        elseif (unitFrame.ActorType == \"enemynpc\") then\n            if (envTable.ShowForEnemyNpcs) then\n                envTable.ShowPowerbar (unitFrame)\n            end\n        end\n    end\n    \n    function envTable.SavePowerBarSize (unitFrame, height)\n        local plateConfigs = Plater.db.profile.plate_config [unitFrame.ActorType]\n        plateConfigs.mana[1] = plateConfigs.health[1]\n        plateConfigs.mana[2] = height\n        plateConfigs.mana_incombat[1] = plateConfigs.health_incombat[1]\n        plateConfigs.mana_incombat[2] = height\n    end\nend\n\n\n\n\n\n",
 					},
 					["Prio"] = 99,
-					["Time"] = 1605782842,
+					["Name"] = "Power Bar",
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54303,9 +52771,8 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["OptionsValues"] = {
-					},
-					["Name"] = "Power Bar",
+					["LastHookEdited"] = "Constructor",
+					["Time"] = 1605782842,
 					["Icon"] = "Interface/Addons/Plater/Media/fire_64",
 					["PlaterCore"] = 1,
 				}, -- [8]
@@ -54702,15 +53169,7 @@ PlaterDB = {
 					["Name"] = "Interrupt not ready Cast Color",
 				}, -- [16]
 				{
-					["Enabled"] = false,
-					["Revision"] = 254,
-					["semver"] = "",
 					["LastHookEdited"] = "",
-					["HooksTemp"] = {
-					},
-					["Author"] = "Izimode-Azralon",
-					["version"] = -1,
-					["Desc"] = "Show combo points above the nameplate for Druid Feral and Rogues.",
 					["Hooks"] = {
 						["Nameplate Created"] = "function (self, unitId, unitFrame, envTable)\n    \n    --run constructor!\n    --constructor is executed only once when any script of the hook runs.\n    \nend\n\n\n",
 						["Nameplate Added"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if need update the amount of combo points shown\n    if (envTable.LastPlayerTalentUpdate > envTable.LastUpdate) then\n        envTable.UpdateComboPointAmount()\n    end    \n    \n    if (unitFrame.namePlateIsTarget and not unitFrame.IsSelf) then\n        envTable.ComboPointFrame:Show()\n        envTable.UpdateComboPoints()\n        \n    else\n        envTable.ComboPointFrame:Hide()\n    end    \n    \nend\n\n\n",
@@ -54721,6 +53180,7 @@ PlaterDB = {
 						["Player Talent Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    --update the amount of comboo points shown when the player changes talents or specialization\n    envTable.UpdateComboPointAmount()\n    \n    --save the time of the last talent change\n    envTable.LastPlayerTalentUpdate = GetTime()\n    \n    \nend\n\n\n",
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    --settings\n    local anchors = {\n        {\"bottom\", unitFrame.healthBar, \"top\", 0, 24},\n    }\n    \n    local sizes = {\n        width = 12,\n        height = 12,\n        scale = 1,\n    }\n    \n    local textures = {\n        backgroundTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        backgroundTexCoords = {0/128, 21/128, 101/128, 122/128},\n        \n        comboPointTexture = [[Interface\\PLAYERFRAME\\ClassOverlayComboPoints]],\n        comboPointTexCoords = {3/128, 18/128, 81/128, 96/128},\n    }\n    \n    local frameLevel = 1000\n    local frameStrata = \"high\"    \n    \n    --private\n    do\n        --store combo points frames on this table\n        envTable.ComboPoints = {}\n        --save when the player changed talents or spec\n        envTable.LastPlayerTalentUpdate = GetTime()\n        --save when this nameplate got a combo point amount and alignment update        \n        \n        --build combo points frame anchor (combo point are anchored to this)\n        if (not unitFrame.PlaterComboPointFrame) then\n            local hostFrame = CreateFrame (\"frame\", nil, unitFrame)\n            hostFrame.ComboPointFramesPool = {}\n            unitFrame.PlaterComboPointFrame = hostFrame\n            envTable.ComboPointFrame = hostFrame\n            envTable.ComboPointFrame:SetScale (sizes.scale)\n            \n            --DetailsFramework:ApplyStandardBackdrop (envTable.ComboPointFrame) --debug anchor size\n            \n            --animations\n            local onPlayShowAnimation = function (animation)\n                --stop the hide animation if it's playing\n                if (animation:GetParent():GetParent().HideAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().HideAnimation:Stop()\n                end\n                \n                animation:GetParent():Show()\n            end\n            \n            local onPlayHideAnimation = function (animation)\n                --stop the show animation if it's playing\n                if (animation:GetParent():GetParent().ShowAnimation:IsPlaying()) then\n                    animation:GetParent():GetParent().ShowAnimation:Stop()\n                end\n            end        \n            local onStopHideAnimation = function (animation)\n                animation:GetParent():Hide()       \n            end\n            \n            local createAnimations = function (comboPoint)\n                --on show\n                comboPoint.ShowAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayShowAnimation, nil)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 1, 0.1, 0, 0, 1, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"alpha\", 1, 0.1, .5, 1)\n                Plater:CreateAnimation (comboPoint.ShowAnimation, \"scale\", 2, 0.1, 1.2, 1.2, 1, 1)\n                \n                --on hide\n                comboPoint.HideAnimation = Plater:CreateAnimationHub (comboPoint.comboPointTexture, onPlayHideAnimation, onStopHideAnimation)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"scale\", 1, 0.1, 1, 1, 0, 0)\n                Plater:CreateAnimation (comboPoint.HideAnimation, \"alpha\", 1, 0.1, 1, 0)\n            end\n            \n            --build combo point frame        \n            for i =1, 10 do \n                local f = CreateFrame (\"frame\", nil, envTable.ComboPointFrame)\n                f:SetSize (sizes.width, sizes.height)\n                tinsert (envTable.ComboPoints, f)\n                tinsert (unitFrame.PlaterComboPointFrame.ComboPointFramesPool, f)\n                \n                local backgroundTexture = f:CreateTexture (nil, \"background\")\n                backgroundTexture:SetTexture (textures.backgroundTexture)\n                backgroundTexture:SetTexCoord (unpack (textures.backgroundTexCoords))\n                backgroundTexture:SetSize (sizes.width, sizes.height)\n                backgroundTexture:SetPoint (\"center\")\n                \n                local comboPointTexture = f:CreateTexture (nil, \"artwork\")\n                comboPointTexture:SetTexture (textures.comboPointTexture)\n                comboPointTexture:SetTexCoord (unpack (textures.comboPointTexCoords))\n                \n                comboPointTexture:SetSize (sizes.width, sizes.height)\n                comboPointTexture:SetPoint (\"center\")\n                comboPointTexture:Hide()            \n                \n                f.IsActive = false\n                \n                f.backgroundTexture = backgroundTexture\n                f.comboPointTexture = comboPointTexture\n                \n                createAnimations (f)\n            end\n            \n        else\n            envTable.ComboPointFrame = unitFrame.PlaterComboPointFrame\n            envTable.ComboPointFrame:SetScale (sizes.scale)\n            envTable.ComboPoints = unitFrame.PlaterComboPointFrame.ComboPointFramesPool\n            \n        end            \n        \n        envTable.ComboPointFrame:SetFrameLevel (frameLevel)\n        envTable.ComboPointFrame:SetFrameStrata (frameStrata)\n        \n        function envTable.UpdateComboPoints()\n            local comboPoints = UnitPower (\"player\", Enum.PowerType.ComboPoints)\n            \n            for i = 1, envTable.TotalComboPoints do\n                local thisComboPoint = envTable.ComboPoints [i]\n                \n                if (i <= comboPoints ) then\n                    --combo point enabled\n                    if (not thisComboPoint.IsActive) then\n                        thisComboPoint.ShowAnimation:Play()\n                        thisComboPoint.IsActive = true\n                        \n                    end\n                    \n                else\n                    --combo point disabled\n                    if (thisComboPoint.IsActive) then\n                        thisComboPoint.HideAnimation:Play()\n                        thisComboPoint.IsActive = false\n                        \n                    end\n                end\n            end\n            \n            \n        end\n        \n        function envTable.UpdateComboPointAmount()\n            local namePlateWidth = Plater.db.profile.plate_config.enemynpc.health_incombat[1]\n            local comboPoints = UnitPowerMax (\"player\", Enum.PowerType.ComboPoints)\n            local reservedSpace = (namePlateWidth - sizes.width * comboPoints)  / comboPoints \n            \n            --store the total amount of combo points\n            envTable.TotalComboPoints = comboPoints\n            \n            --update anchor frame\n            envTable.ComboPointFrame:SetWidth (namePlateWidth)\n            envTable.ComboPointFrame:SetHeight (20)\n            envTable.ComboPointFrame:ClearAllPoints()\n            for i = 1, #anchors do\n                local anchor = anchors[i]\n                envTable.ComboPointFrame:SetPoint (unpack (anchor))\n            end        \n            \n            --\n            for i = 1, #envTable.ComboPoints do\n                envTable.ComboPoints[i]:Hide()\n                envTable.ComboPoints[i]:ClearAllPoints()\n            end\n            \n            for i = 1, comboPoints do\n                local comboPoint = envTable.ComboPoints[i]\n                if i == 1 then\n                    comboPoint:SetPoint (\"left\", envTable.ComboPointFrame, \"left\", reservedSpace/2, 0)\n                else\n                    comboPoint:SetPoint (\"left\", envTable.ComboPoints[i-1], \"right\", reservedSpace, 0)\n                end\n                \n                comboPoint:Show()\n            end\n            \n            envTable.LastUpdate = GetTime()\n            \n            envTable.UpdateComboPoints()\n        end\n        \n        --initialize\n        envTable.UpdateComboPointAmount()\n        envTable.ComboPointFrame:Hide()\n    end\n    \n    \nend",
 					},
+					["Time"] = 1603567332,
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -54748,13 +53208,20 @@ PlaterDB = {
 						["affix"] = {
 						},
 					},
-					["Time"] = 1603567332,
-					["PlaterCore"] = 1,
-					["Name"] = "Combo Points [Plater]",
 					["url"] = "",
 					["Icon"] = 135426,
+					["Enabled"] = false,
+					["Revision"] = 254,
+					["semver"] = "",
+					["Author"] = "Izimode-Azralon",
+					["Desc"] = "Show combo points above the nameplate for Druid Feral and Rogues.",
+					["Name"] = "Combo Points [Plater]",
+					["PlaterCore"] = 1,
 					["Options"] = {
 					},
+					["HooksTemp"] = {
+					},
+					["version"] = -1,
 				}, -- [17]
 				{
 					["OptionsValues"] = {
@@ -54936,10 +53403,20 @@ PlaterDB = {
 				0.96000000089407, -- [4]
 			},
 			["update_throttle"] = 0.099999994039536,
-			["cast_statusbar_spark_offset"] = -13,
+			["health_animation_time_dilatation"] = 2.8699998855591,
+			["cast_statusbar_bgcolor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.79781, -- [4]
+			},
+			["health_selection_overlay"] = "Melli Dark",
 			["indicator_extra_raidmark"] = false,
+			["aura_stack_anchor"] = {
+				["y"] = -4.5,
+				["side"] = 7,
+			},
 			["not_affecting_combat_alpha"] = 0.5,
-			["cast_statusbar_spark_alpha"] = 0.71999996900558,
 			["use_health_animation"] = true,
 			["target_highlight_alpha"] = 0.6299999952316284,
 			["news_frame"] = {
@@ -54947,21 +53424,14 @@ PlaterDB = {
 					["scale"] = 1,
 				},
 			},
-			["aura_stack_anchor"] = {
-				["y"] = -4.5,
-				["side"] = 7,
-			},
-			["castbar_framelevel"] = 0,
+			["patch_version"] = 13,
+			["indicator_raidmark_scale"] = 0.69999998807907,
+			["cast_statusbar_spark_alpha"] = 0.71999996900558,
 			["target_shady_alpha"] = 0.59999996423721,
-			["health_selection_overlay"] = "Melli Dark",
-			["cast_statusbar_bgcolor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.79781, -- [4]
-			},
+			["castbar_framelevel"] = 0,
 			["target_highlight_height"] = 18,
 			["show_interrupt_author"] = false,
+			["version"] = 22,
 			["color_override_colors"] = {
 				[3] = {
 					nil, -- [1]
@@ -54979,12 +53449,10 @@ PlaterDB = {
 					0.19607843137255, -- [3]
 				},
 			},
-			["version"] = 22,
-			["health_animation_time_dilatation"] = 2.8699998855591,
+			["cast_statusbar_spark_offset"] = -13,
 			["extra_icon_auras_mine"] = {
 				["224991"] = true,
 			},
-			["aura_width2"] = 22,
 			["cast_statusbar_color_interrupted"] = {
 				nil, -- [1]
 				0.10196078431373, -- [2]
@@ -54994,8 +53462,96 @@ PlaterDB = {
 			["range_check_in_range_or_target_alpha"] = 1,
 			["aura_timer_text_size"] = 10,
 			["extra_icon_show_timer"] = false,
-			["aura_height2"] = 12,
+			["aura_width2"] = 22,
 			["number_region_first_run"] = true,
+			["aura_height2"] = 12,
+			["script_data_trash"] = {
+				{
+					["ConstructorCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    \n    if (not unitFrame.spitefulTexture) then\n        unitFrame.spitefulTexture = unitFrame.healthBar:CreateTexture(nil, \"overlay\", nil, 6)\n        unitFrame.spitefulTexture:SetPoint('right', 0, 0)\n        unitFrame.spitefulTexture:SetSize(27, 14)\n        unitFrame.spitefulTexture:SetColorTexture(.3, .3, 1, .7)\n        \n        unitFrame.spitefulText = unitFrame.healthBar:CreateFontString(nil, \"overlay\", \"GameFontNormal\", 6)\n        unitFrame.spitefulText:SetPoint(\"right\", unitFrame.spitefulTexture, \"right\", -2, 0)\n        unitFrame.spitefulText:SetJustifyH(\"right\")\n        \n        unitFrame.spitefulTexture:Hide()\n        unitFrame.spitefulText:Hide()\n    end\n    \n    function envTable.UpdateSpitefulWidget(unitFrame)\n        \n        local r, g, b, a = Plater:ParseColors(scriptTable.config.bgColor)\n        unitFrame.spitefulTexture:SetSize(scriptTable.config.bgWidth, unitFrame.healthBar:GetHeight())   \n        Plater:SetFontSize(unitFrame.spitefulText, scriptTable.config.textSize)\n        Plater:SetFontColor(unitFrame.spitefulText, scriptTable.config.textColor)\n        \n        local currentHealth = unitFrame.healthBar.CurrentHealth\n        local maxHealth = unitFrame.healthBar.CurrentHealthMax\n        \n        local healthPercent = currentHealth / maxHealth * 100\n        local timeToDie = format(\"%.1fs\", healthPercent / 8)\n        unitFrame.spitefulText:SetText(timeToDie)\n        \n        unitFrame.spitefulText:Show()\n        unitFrame.spitefulTexture:Show()\n    end\nend\n\n\n\n\n\n\n",
+					["OnHideCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    if (unitFrame.spitefulTexture) then\n        unitFrame.spitefulText:Hide()\n        unitFrame.spitefulTexture:Hide()    \n    end\nend\n\n\n\n\n\n",
+					["OptionsValues"] = {
+					},
+					["ScriptType"] = 3,
+					["UpdateCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.UpdateSpitefulWidget(unitFrame)\nend\n\n\n",
+					["Time"] = 1608852889,
+					["url"] = "",
+					["Icon"] = 135945,
+					["Enabled"] = true,
+					["Revision"] = 59,
+					["semver"] = "",
+					["Author"] = "Symantec-Azralon",
+					["Initialization"] = "		function (scriptTable)\n			--insert code here\n			\n		end\n	",
+					["Desc"] = "Time to die Spiteful affix",
+					["OnShowCode"] = "function (self, unitId, unitFrame, envTable, scriptTable)\n    --insert code here\n    envTable.UpdateSpitefulWidget(unitFrame)\nend\n\n\n",
+					["Options"] = {
+						{
+							["Type"] = 2,
+							["Max"] = 50,
+							["Desc"] = "",
+							["Min"] = 10,
+							["Name"] = "Width",
+							["Value"] = 27,
+							["Fraction"] = false,
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Key"] = "bgWidth",
+						}, -- [1]
+						{
+							["Type"] = 1,
+							["Key"] = "bgColor",
+							["Value"] = {
+								0.5058823529411764, -- [1]
+								0.07058823529411765, -- [2]
+								1, -- [3]
+								1, -- [4]
+							},
+							["Name"] = "Background Color",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_color",
+							["Desc"] = "",
+						}, -- [2]
+						{
+							["Type"] = 6,
+							["Key"] = "option5",
+							["Value"] = 0,
+							["Name"] = "Option 5",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_blank",
+							["Desc"] = "",
+						}, -- [3]
+						{
+							["Type"] = 2,
+							["Max"] = 24,
+							["Desc"] = "",
+							["Min"] = 7,
+							["Name"] = "Text Size",
+							["Value"] = 8,
+							["Fraction"] = false,
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Key"] = "textSize",
+						}, -- [4]
+						{
+							["Type"] = 1,
+							["Key"] = "textColor",
+							["Value"] = {
+								1, -- [1]
+								0.5843137254901961, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+							["Name"] = "Text Color",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_color",
+							["Desc"] = "",
+						}, -- [5]
+					},
+					["SpellIds"] = {
+					},
+					["PlaterCore"] = 1,
+					["version"] = -1,
+					["Name"] = "M+ Spiteful",
+					["NpcNames"] = {
+						"174773", -- [1]
+					},
+					["__TrashAt"] = 1610261796,
+				}, -- [1]
+			},
 			["pet_width_scale"] = 0.99999994039536,
 			["castbar_target_anchor"] = {
 				["y"] = 9.5,
@@ -55013,7 +53569,7 @@ PlaterDB = {
 				["Cast - Small Alert"] = 11,
 				["Color Change"] = 1,
 				["Aura - Invalidate Unit"] = 1,
-				["Spiteful Affix"] = 1,
+				["Spiteful Affix"] = 2,
 				["Auto Set Skull"] = 11,
 				["Unit - Main Target"] = 11,
 				["Aura - Blink Time Left"] = 11,
@@ -55028,7 +53584,6 @@ PlaterDB = {
 				["Unit - Show Energy"] = 11,
 			},
 			["castbar_target_font"] = "Expressway",
-			["extra_icon_show_enrage"] = true,
 			["dps"] = {
 				["colors"] = {
 					["aggro"] = {
@@ -55042,13 +53597,10 @@ PlaterDB = {
 					},
 				},
 			},
+			["extra_icon_show_enrage"] = true,
 			["cast_statusbar_texture"] = "Melli Dark",
+			["aura_cooldown_show_swipe"] = false,
 			["range_check_alpha_friendlies"] = 0.64999997615814,
-			["patch_version"] = 13,
-			["click_space_friendly"] = {
-				120, -- [1]
-				20, -- [2]
-			},
 			["cast_statusbar_spark_width"] = 25,
 			["aura_grow_direction"] = 3,
 		},

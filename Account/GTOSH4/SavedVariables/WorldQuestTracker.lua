@@ -217,12 +217,12 @@ WQTrackerDB = {
 							["201212"] = {
 								["quest"] = 1,
 							},
+							["210101"] = {
+								["quest"] = 1,
+							},
 							["201209"] = {
 								["quest"] = 1,
 								["artifact"] = 70,
-							},
-							["210101"] = {
-								["quest"] = 1,
 							},
 							["201207"] = {
 								["quest"] = 4,
@@ -239,9 +239,9 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["artifact"] = 250,
 							},
-							["201210"] = {
-								["quest"] = 3,
-								["artifact"] = 350,
+							["201213"] = {
+								["quest"] = 2,
+								["artifact"] = 70,
 							},
 							["201203"] = {
 								["artifact"] = 280,
@@ -305,9 +305,9 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["artifact"] = 250,
 							},
-							["201213"] = {
-								["quest"] = 2,
-								["artifact"] = 70,
+							["201210"] = {
+								["quest"] = 3,
+								["artifact"] = 350,
 							},
 							["201204"] = {
 								["quest"] = 5,
@@ -763,30 +763,10 @@ WQTrackerDB = {
 					},
 				},
 				["Player-3676-0D0FE5F5"] = {
-					[57443] = {
-						["expireAt"] = 1610187164,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[57328] = {
-						["expireAt"] = 1610204444,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
 					[61816] = {
 						["expireAt"] = 1610463643,
 						["rewardAmount"] = 250,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[60601] = {
-						["expireAt"] = 1610204504,
-						["rewardAmount"] = 70,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61886] = {
-						["expireAt"] = 1610204444,
-						["rewardAmount"] = "13",
-						["rewardTexture"] = 2004597,
 					},
 				},
 			},

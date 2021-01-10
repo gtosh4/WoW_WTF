@@ -2044,12 +2044,12 @@ MythicPlusTimerDB = {
 			["is_completed"] = true,
 			["is_teeming"] = false,
 			["is_prideful"] = true,
-			["quantity_number"] = 260,
+			["quantity_number"] = 500,
 			["cm_level"] = 15,
 			["time_left_2"] = 0,
 			["deathcount"] = 10,
 			["quantity_completed"] = true,
-			["final_quantity_number"] = 260,
+			["final_quantity_number"] = 500,
 			["zone_name"] = "Mists of Tirna Scithe",
 			["level_key"] = "l15",
 			["time_left"] = 30,
@@ -2130,9 +2130,9 @@ MythicPlusTimerDB = {
 				[6] = 1,
 			},
 			[161124] = {
+				[7] = 0.06871947673600008,
 				[9] = 0.2646907813888001,
 				[4] = 11.864,
-				[7] = 0.06871947673600008,
 			},
 			[131585] = {
 				[4] = 11,
@@ -3822,9 +3822,9 @@ MythicPlusTimerDB = {
 				[12] = 2,
 			},
 			[161243] = {
+				[4] = 5.688000000000001,
 				[9] = 1.024,
 				[7] = 0.2621440000000001,
-				[4] = 5.688000000000001,
 			},
 			[114334] = {
 				[4] = 1,
@@ -3848,9 +3848,9 @@ MythicPlusTimerDB = {
 				[6] = 4,
 			},
 			[161244] = {
+				[7] = 0.08589934592000009,
 				[9] = 0.6316621824000002,
 				[4] = 8.329600000000001,
-				[7] = 0.08589934592000009,
 			},
 			[98677] = {
 				1, -- [1]

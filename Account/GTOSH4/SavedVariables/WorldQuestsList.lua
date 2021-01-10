@@ -85,11 +85,7 @@ VWQL = {
 		["faction2465Highlight"] = true,
 		["VERSION"] = 98,
 		["Quests"] = {
-			[57443] = true,
 			[60601] = true,
-			[61886] = true,
-			[59599] = true,
-			[57328] = true,
 			[61816] = true,
 		},
 		["FilterType"] = {

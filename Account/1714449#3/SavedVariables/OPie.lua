@@ -97,8 +97,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["SpecMenu"] = {
 				{
@@ -122,8 +122,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [4]
 				{
-					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 					["sliceToken"] = "OPCTAc",
+					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 				}, -- [5]
 				{
 					"item", -- [1]
@@ -143,8 +143,8 @@ OneRing_Config = {
 					["rotationMode"] = "shuffle",
 				}, -- [8]
 				{
-					["sliceToken"] = "OPCTAa",
 					["id"] = 556,
+					["sliceToken"] = "OPCTAa",
 				}, -- [9]
 				{
 					"item", -- [1]

@@ -139,17 +139,17 @@ WQTrackerDB = {
 							[60899] = 1,
 							[60649] = 2,
 							[59643] = 1,
-							[60659] = 2,
+							[61352] = 1,
 							[59836] = 1,
 							[60531] = 2,
+							[60659] = 2,
 							[60533] = 2,
-							[61352] = 1,
 							[59718] = 1,
 							[60476] = 2,
-							[61549] = 1,
 							[59848] = 1,
-							[59789] = 1,
 							[57328] = 1,
+							[59789] = 1,
+							[61549] = 1,
 							[60770] = 1,
 							[60929] = 2,
 							[58601] = 1,
@@ -666,42 +666,17 @@ WQTrackerDB = {
 				},
 			},
 			["quests_tracked"] = {
-				["Player-9-0B608E72"] = {
+				["Player-3676-0AD945D6"] = {
 				},
-				["Player-3676-0AD945E6"] = {
+				["Player-9-0B608E72"] = {
 				},
 				["Player-3676-0AD143A0"] = {
 				},
-				["Player-3676-0AD945D6"] = {
+				["Player-3676-0AD945E6"] = {
 				},
 			},
 			["quests_all_characters"] = {
 				["Player-3676-0AD945D6"] = {
-					[61886] = {
-						["expireAt"] = 1610204484,
-						["rewardAmount"] = "13",
-						["rewardTexture"] = 2004597,
-					},
-					[57443] = {
-						["expireAt"] = 1610187144,
-						["rewardAmount"] = "145",
-						["rewardTexture"] = 136111,
-					},
-					[57328] = {
-						["expireAt"] = 1610204424,
-						["rewardAmount"] = 105,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61866] = {
-						["expireAt"] = 1610204481,
-						["rewardAmount"] = "1",
-						["rewardTexture"] = 667492,
-					},
-					[61189] = {
-						["expireAt"] = 1610221701,
-						["rewardAmount"] = "145",
-						["rewardTexture"] = 237573,
-					},
 					[61816] = {
 						["expireAt"] = 1610463681,
 						["rewardAmount"] = 250,
@@ -714,24 +689,24 @@ WQTrackerDB = {
 				},
 			},
 			["player_names"] = {
+				["Player-3676-0AD945D6"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Toshaman",
+					["realm"] = "Area 52",
+				},
 				["Player-9-0B608E72"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Kil'jaeden",
-				},
-				["Player-3676-0AD945E6"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Area 52",
 				},
 				["Player-3676-0AD143A0"] = {
 					["class"] = "MONK",
 					["name"] = "Toshmonk",
 					["realm"] = "Area 52",
 				},
-				["Player-3676-0AD945D6"] = {
-					["class"] = "SHAMAN",
-					["name"] = "Toshaman",
+				["Player-3676-0AD945E6"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
 					["realm"] = "Area 52",
 				},
 			},
@@ -781,7 +756,7 @@ WQTrackerDB = {
 					["Plaguefeather"] = 142435,
 					["Ven'orn"] = 126115,
 					["Naroua"] = 126419,
-					["Foul Manifestation"] = 151202,
+					["Skreeg the Devourer"] = 126912,
 					["Rumbling Goliath"] = 141620,
 					["Overseer Y'Beda"] = 124440,
 					["Earthliving Giant"] = 140760,
@@ -795,8 +770,8 @@ WQTrackerDB = {
 					["Mistress Il'thendra"] = 122947,
 					["Overseer Y'Sorna"] = 125497,
 					["Goldenvein"] = 140769,
-					["Skreeg the Devourer"] = 126912,
 					["The Many-Faced Devourer"] = 127581,
+					["Foul Manifestation"] = 151202,
 					["Worldsplitter Skuul"] = 127118,
 					["Armored Vaultbot"] = 154968,
 					["Lieutenant Xakaar"] = 126254,
