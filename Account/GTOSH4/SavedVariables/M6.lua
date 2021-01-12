@@ -23,13 +23,13 @@ M6DB = {
 						["s08"] = 8,
 						["s01"] = 1,
 						["s03"] = 3,
-						["s02"] = 2,
 						["s04"] = 4,
-						["s06"] = 6,
 						["s0a"] = 10,
+						["s06"] = 6,
+						["s02"] = 2,
 						["s09"] = 9,
-						["s0e"] = 14,
 						["s0c"] = 12,
+						["s0e"] = 14,
 						["s0b"] = 11,
 						["s0d"] = 13,
 						["s0f"] = 15,
@@ -155,7 +155,7 @@ M6DB = {
 		}, -- [13]
 		{
 			"macrotext", -- [1]
-			"#showtooltip Angelic Feather\n/cast [@player] Angelic Feather", -- [2]
+			"#showtooltip\n/cast [spec:1,talent:2/3,@player] Angelic Feather; [@player] Power Word: Shield", -- [2]
 			["group"] = 2,
 			["name"] = "feather",
 		}, -- [14]

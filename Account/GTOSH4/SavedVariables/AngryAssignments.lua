@@ -64,12 +64,12 @@ AngryAssign_Pages = {
 		["UpdateId"] = 4180431134,
 		["Contents"] = "||cFF52692AThroes 1||r    \n||cFF422A69Entropic Crash 2||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 2||r    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n||cFF422A69Entropic Crash 4||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 3||r    ||cpaladinSci||r{icon 31821}    ||cwarriorProud||r{icon 97462}\n||cFF52692AThroes 4||r    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n||cFF422A69Entropic Crash 6||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 5||r    \n||cFF422A69Entropic Crash 8||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 6||r    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n||cFF422A69Entropic Crash 9||r    ||cpriestTehkz||r{icon 62618}    ||cdemonhunterLuna||r{icon 196718}    ||cdemonhunterAndrew||r{icon 196718}\n||cFF422A69Entropic Crash 10||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}\n||cFF52692AThroes 7||r    ||cpaladinSci||r{icon 31821}    ||cwarriorProud||r{icon 97462}\n||cFF52692AThroes 8||r    ||cpaladinSci||r{icon 31884}    ||cpaladinGordy||r{icon 31884}    ||cpriestTehkz||r{icon 47536}+{icon 246287}\n\n\n{x} - quad mages\n{square} - boomies+locks\nmelee - tentacle\neveryone else - eye",
 	},
-	[1607221071] = {
-		["Updated"] = 1605324589,
-		["Name"] = "NZOTH main g1",
-		["Id"] = 1607221071,
-		["UpdateId"] = 2154190213,
-		["Contents"] = "Necks    \nAfter Psychus Dies    ||cshamanFarben||r ||cpaladinSci||r\nBefore 1st Harvest Thoughts    ||cdeathknightEvan||r    ||cpaladinBarb||r\nAfter 1st Harvest Thoughts    ||cdemonhunterDrew||r    ||cdeathknightRathux||r\nAfter Paranoia (~8:45)   GORDY\n\nDisarms    \n1    ||chunterPax||r    ||cwarriorThac||r\n2    ||cpaladinSci||r    ||cwarlockCJ||r    ||cpriestMord||r\n3    ||chunterSmytt||r    ||cpaladinMe||r    ||cmageArn||r\n4    ||cmageDelp||r    ||cshamanYuki||r    ||chunterThun||r\n\nSoaks\n1    ||cdeathknightEveryone||r\n2    evan sci me arn andrew\n3    delpi pax thun smytt barb\n4    ||cdeathknightEveryone||r",
+	[310540209] = {
+		["Updated"] = 1610258705,
+		["Name"] = "Artsy fartsy",
+		["Id"] = 310540209,
+		["UpdateId"] = 980467457,
+		["Contents"] = "First overlap, seeds explode then port\n\nSecond overlap, port, seeds begin exploding, then port back\n\n80.2% 1st push 45-48\n60.4% 2nd push 2:35",
 	},
 	[3293760588] = {
 		["Updated"] = 1610169539,
@@ -113,17 +113,27 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3218032560,
 		["Contents"] = "Far Gaze\n||cmonkPeace||r\n||chunterAeth||r\n||cdemonhunterLuna||r\n||cdruidOX||r\n||cdemonhunterJohnny||r\n||cpaladinSci||r\n\n\nG1+2 Left\nG3+4 Right",
 	},
-	[310540209] = {
-		["Updated"] = 1610258705,
-		["Name"] = "Artsy fartsy",
-		["Id"] = 310540209,
-		["UpdateId"] = 980467457,
-		["Contents"] = "First overlap, seeds explode then port\n\nSecond overlap, port, seeds begin exploding, then port back\n\n80.2% 1st push 45-48\n60.4% 2nd push 2:35",
+	[1607221071] = {
+		["Updated"] = 1605324589,
+		["Name"] = "NZOTH main g1",
+		["Id"] = 1607221071,
+		["UpdateId"] = 2154190213,
+		["Contents"] = "Necks    \nAfter Psychus Dies    ||cshamanFarben||r ||cpaladinSci||r\nBefore 1st Harvest Thoughts    ||cdeathknightEvan||r    ||cpaladinBarb||r\nAfter 1st Harvest Thoughts    ||cdemonhunterDrew||r    ||cdeathknightRathux||r\nAfter Paranoia (~8:45)   GORDY\n\nDisarms    \n1    ||chunterPax||r    ||cwarriorThac||r\n2    ||cpaladinSci||r    ||cwarlockCJ||r    ||cpriestMord||r\n3    ||chunterSmytt||r    ||cpaladinMe||r    ||cmageArn||r\n4    ||cmageDelp||r    ||cshamanYuki||r    ||chunterThun||r\n\nSoaks\n1    ||cdeathknightEveryone||r\n2    evan sci me arn andrew\n3    delpi pax thun smytt barb\n4    ||cdeathknightEveryone||r",
 	},
 }
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
+	["tree"] = {
+		["groups"] = {
+		},
+		["scrollvalue"] = 0,
+		["treesizable"] = true,
+		["selected"] = 310540209,
+		["treewidth"] = 175,
+		["fullwidth"] = 666,
+	},
+	["locked"] = true,
 	["window"] = {
 		["height"] = 500.0001220703125,
 		["top"] = 989.1666259765625,
@@ -137,16 +147,6 @@ AngryAssign_State = {
 		["scale"] = 1,
 		["hidden"] = false,
 	},
-	["tree"] = {
-		["groups"] = {
-		},
-		["scrollvalue"] = 0,
-		["selected"] = 310540209,
-		["treesizable"] = true,
-		["treewidth"] = 175,
-		["fullwidth"] = 666,
-	},
-	["locked"] = true,
 	["directionUp"] = false,
 }
 AngryAssign_Config = {
