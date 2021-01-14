@@ -1,12 +1,12 @@
 
 OmniCCDB = {
-	["global"] = {
-		["addonVersion"] = "9.0.5",
-		["dbVersion"] = 5,
-	},
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+	},
+	["global"] = {
+		["addonVersion"] = "9.0.5",
+		["dbVersion"] = 5,
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -51,9 +51,9 @@ OmniCCDB = {
 			["themes"] = {
 				["Default"] = {
 					["textStyles"] = {
-						["seconds"] = {
-						},
 						["soon"] = {
+						},
+						["seconds"] = {
 						},
 						["minutes"] = {
 						},
@@ -61,9 +61,9 @@ OmniCCDB = {
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["seconds"] = {
-						},
 						["soon"] = {
+						},
+						["seconds"] = {
 						},
 						["minutes"] = {
 						},

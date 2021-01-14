@@ -6,17 +6,17 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 			["Bindings"] = {
 				["RaidSymbols"] = "ALT-E",
 				["TrinketSlots"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
-				["WorldMarkers"] = "ALT-Q",
-				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-G",
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-Q",
 			},
 		},
 	},
@@ -122,8 +122,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [4]
 				{
-					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 					["sliceToken"] = "OPCTAc",
+					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 				}, -- [5]
 				{
 					"item", -- [1]
@@ -143,8 +143,8 @@ OneRing_Config = {
 					["rotationMode"] = "shuffle",
 				}, -- [8]
 				{
-					["sliceToken"] = "OPCTAa",
 					["id"] = 556,
+					["sliceToken"] = "OPCTAa",
 				}, -- [9]
 				{
 					"item", -- [1]
