@@ -1,6 +1,5 @@
 
 Broker_Everything_DataDB = {
-	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -23,6 +22,7 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
+	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
 	["Toshaman-Area 52"] = {
@@ -30,8 +30,8 @@ Broker_Everything_CharacterDB = {
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
 		["orderId"] = 2,
-		["level"] = 60,
 		["class"] = "SHAMAN",
+		["level"] = 60,
 	},
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
@@ -39,17 +39,20 @@ Broker_Everything_CharacterDB = {
 		"Toshmonk-Kil'jaeden", -- [3]
 		"Toshmonk-Area 52", -- [4]
 	},
-	["Toshmonk-Area 52"] = {
-		["race"] = "Troll",
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
-		["orderId"] = 4,
-		["level"] = 50,
+		["orderId"] = 3,
 		["class"] = "MONK",
+		["level"] = 60,
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["orderId"] = 1,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
@@ -80,26 +83,23 @@ Broker_Everything_CharacterDB = {
 		},
 		["level"] = 50,
 		["gold"] = 10753845943,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
+		["orderId"] = 1,
 	},
-	["Toshmonk-Kil'jaeden"] = {
-		["race"] = "BloodElf",
+	["Toshmonk-Area 52"] = {
+		["race"] = "Troll",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
-		["orderId"] = 3,
-		["level"] = 60,
+		["orderId"] = 4,
 		["class"] = "MONK",
+		["level"] = 50,
 	},
 }
 Broker_Everything_AceDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshmonk - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshmonk - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -109,8 +109,7 @@ Broker_Everything_AceDB = {
 			["Gold"] = {
 				["enabled"] = false,
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
+			["Equipment"] = {
 				["minimap"] = {
 					["hide"] = true,
 				},
@@ -152,13 +151,14 @@ Broker_Everything_AceDB = {
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
-			},
-			["Equipment"] = {
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},
+			},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 		},
 	},
