@@ -71,6 +71,13 @@ Broker_Everything_CharacterDB = {
 		["faction"] = "Horde",
 		["Dungeons"] = {
 		},
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["gold"] = 10753845943,
 		["mail"] = {
 			["total"] = 0,
 			["stored"] = {
@@ -79,12 +86,9 @@ Broker_Everything_CharacterDB = {
 			["store"] = {
 			},
 			["new"] = {
-				"Auction House-Area52", -- [1]
 			},
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["gold"] = 10753845943,
+		["level"] = 60,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -109,11 +113,6 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
-		},
-		["level"] = 60,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
 		},
 		["orderId"] = 1,
 	},

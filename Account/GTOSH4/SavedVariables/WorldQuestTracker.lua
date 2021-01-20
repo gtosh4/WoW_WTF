@@ -17,6 +17,9 @@ WQTrackerDB = {
 	["profiles"] = {
 		["Default"] = {
 			["map_frame_anchor"] = "left",
+			["talking_heads"] = {
+				[166655] = true,
+			},
 			["TutorialTaxyMap"] = true,
 			["TutorialTracker"] = 2,
 			["groupfinder"] = {
@@ -217,12 +220,12 @@ WQTrackerDB = {
 							["201212"] = {
 								["quest"] = 1,
 							},
-							["210101"] = {
-								["quest"] = 1,
-							},
 							["201209"] = {
 								["quest"] = 1,
 								["artifact"] = 70,
+							},
+							["210101"] = {
+								["quest"] = 1,
 							},
 							["201207"] = {
 								["quest"] = 4,
@@ -239,9 +242,9 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["artifact"] = 250,
 							},
-							["201213"] = {
-								["quest"] = 2,
-								["artifact"] = 70,
+							["201210"] = {
+								["quest"] = 3,
+								["artifact"] = 350,
 							},
 							["201203"] = {
 								["artifact"] = 280,
@@ -305,9 +308,9 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["artifact"] = 250,
 							},
-							["201210"] = {
-								["quest"] = 3,
-								["artifact"] = 350,
+							["201213"] = {
+								["quest"] = 2,
+								["artifact"] = 70,
 							},
 							["201204"] = {
 								["quest"] = 5,
