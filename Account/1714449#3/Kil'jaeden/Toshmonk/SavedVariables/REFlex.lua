@@ -6,10 +6,6 @@ REFlexSettings = {
 	["ShowServerName"] = false,
 	["CurrentTab"] = 6,
 	["LDBMode"] = 3,
-	["LDBSide"] = "A",
-	["ArenaStatsLimit"] = 3,
-	["ConfigVersion"] = 301,
-	["FirstTime"] = false,
 	["Filters"] = {
 		["Map"] = 1,
 		["Bracket"] = 1,
@@ -21,6 +17,10 @@ REFlexSettings = {
 		["Season"] = 0,
 		["DateMode"] = 1,
 	},
+	["ArenaStatsLimit"] = 3,
+	["FirstTime"] = false,
+	["ConfigVersion"] = 301,
+	["LDBSide"] = "A",
 }
 REFlexDatabase = {
 	{
@@ -141,18 +141,18 @@ REFlexDatabase = {
 				9, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 50,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609223741,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -288,18 +288,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 29,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609223859,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -435,18 +435,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 20,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609223973,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -582,18 +582,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 55,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609224129,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -729,18 +729,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 31,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609224267,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -876,18 +876,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 72,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609224420,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1023,18 +1023,18 @@ REFlexDatabase = {
 				2, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["PlayersNum"] = 6,
 		["Duration"] = 33,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609224535,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 4,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1170,18 +1170,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 65,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609224681,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1317,18 +1317,18 @@ REFlexDatabase = {
 				10, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 31,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609224811,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1464,18 +1464,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 64,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609224971,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1611,18 +1611,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 86,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609225140,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1758,18 +1758,18 @@ REFlexDatabase = {
 				18, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["PlayersNum"] = 6,
 		["Duration"] = 51,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609225284,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 2,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1905,18 +1905,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 73,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609225439,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2052,18 +2052,18 @@ REFlexDatabase = {
 				69, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 114,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609225640,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2199,18 +2199,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 146,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609225935,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2346,18 +2346,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 40,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609226087,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2493,18 +2493,18 @@ REFlexDatabase = {
 				38, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 36,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609226209,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2640,18 +2640,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 38,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609226343,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2787,18 +2787,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 46,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609226483,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2934,18 +2934,18 @@ REFlexDatabase = {
 				28, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["PlayersNum"] = 6,
 		["Duration"] = 60,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
 		["isBrawl"] = false,
 		["Time"] = 1609226625,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 1,
+		["Version"] = 302,
 		["Winner"] = 1,
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3081,18 +3081,18 @@ REFlexDatabase = {
 				56, -- [17]
 			}, -- [6]
 		},
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["PlayersNum"] = 6,
 		["Duration"] = 31,
-		["Season"] = 30,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
 		["isBrawl"] = false,
 		["Time"] = 1609226757,
-		["isArena"] = true,
-		["Version"] = 302,
 		["isRated"] = true,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["Winner"] = 0,
-		["PlayerNum"] = 5,
+		["Season"] = 30,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3228,18 +3228,18 @@ REFlexDatabase = {
 				20, -- [17]
 			}, -- [6]
 		},
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 157,
-		["PlayerNum"] = 3,
+		["Season"] = 30,
+		["isBrawl"] = false,
+		["Time"] = 1609932343,
 		["isArena"] = true,
 		["Version"] = 302,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
 		["isRated"] = true,
-		["Time"] = 1609932343,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3375,18 +3375,18 @@ REFlexDatabase = {
 				76, -- [17]
 			}, -- [6]
 		},
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayersNum"] = 6,
 		["Duration"] = 114,
-		["PlayerNum"] = 1,
+		["Season"] = 30,
+		["isBrawl"] = false,
+		["Time"] = 1609932557,
 		["isArena"] = true,
 		["Version"] = 302,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
 		["isRated"] = true,
-		["Time"] = 1609932557,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3522,18 +3522,18 @@ REFlexDatabase = {
 				9, -- [17]
 			}, -- [6]
 		},
-		["PlayerNum"] = 2,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 87,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
+		["isArena"] = true,
+		["Version"] = 302,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Time"] = 1609932770,
 		["isRated"] = true,
-		["Version"] = 302,
+		["Time"] = 1609932770,
 		["Winner"] = 0,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3669,18 +3669,18 @@ REFlexDatabase = {
 				33, -- [17]
 			}, -- [6]
 		},
-		["PlayerNum"] = 6,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 45,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
+		["isArena"] = true,
+		["Version"] = 302,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Time"] = 1609932927,
 		["isRated"] = true,
-		["Version"] = 302,
+		["Time"] = 1609932927,
 		["Winner"] = 1,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3816,18 +3816,18 @@ REFlexDatabase = {
 				196, -- [17]
 			}, -- [6]
 		},
-		["PlayerNum"] = 5,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 106,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 302,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Time"] = 1609933125,
 		["isRated"] = true,
-		["Version"] = 302,
+		["Time"] = 1609933125,
 		["Winner"] = 1,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3963,18 +3963,18 @@ REFlexDatabase = {
 				12, -- [17]
 			}, -- [6]
 		},
-		["PlayerNum"] = 3,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 66,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
+		["isArena"] = true,
+		["Version"] = 302,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Time"] = 1609933282,
 		["isRated"] = true,
-		["Version"] = 302,
+		["Time"] = 1609933282,
 		["Winner"] = 1,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4110,18 +4110,18 @@ REFlexDatabase = {
 				6, -- [17]
 			}, -- [6]
 		},
-		["PlayerNum"] = 2,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 56,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
+		["isArena"] = true,
+		["Version"] = 302,
 		["isBrawl"] = false,
 		["PlayerSide"] = 1,
-		["isArena"] = true,
-		["Time"] = 1609933431,
 		["isRated"] = true,
-		["Version"] = 302,
+		["Time"] = 1609933431,
 		["Winner"] = 0,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4257,18 +4257,18 @@ REFlexDatabase = {
 				36, -- [17]
 			}, -- [6]
 		},
-		["PlayerNum"] = 5,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 122,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
+		["isArena"] = true,
+		["Version"] = 302,
 		["isBrawl"] = false,
 		["PlayerSide"] = 0,
-		["isArena"] = true,
-		["Time"] = 1609933651,
 		["isRated"] = true,
-		["Version"] = 302,
+		["Time"] = 1609933651,
 		["Winner"] = 1,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4286,8 +4286,2234 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 	}, -- [29]
+	{
+		["PlayerStats"] = {
+			1, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 822,
+		["PlayerNum"] = 13,
+		["isBrawl"] = false,
+		["Time"] = 1611208162,
+		["Players"] = {
+			{
+				"Frðz-Dalaran", -- [1]
+				9, -- [2]
+				31, -- [3]
+				1, -- [4]
+				211, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Priest", -- [8]
+				"PRIEST", -- [9]
+				409578, -- [10]
+				804848, -- [11]
+				1528, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Discipline", -- [16]
+				42, -- [17]
+			}, -- [1]
+			{
+				"Bizaroturk-Dalaran", -- [1]
+				8, -- [2]
+				31, -- [3]
+				0, -- [4]
+				211, -- [5]
+				1, -- [6]
+				"Kul Tiran", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				1524610, -- [10]
+				50768, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				16, -- [17]
+			}, -- [2]
+			{
+				"Littlevili-Dalaran", -- [1]
+				6, -- [2]
+				31, -- [3]
+				0, -- [4]
+				211, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				1107442, -- [10]
+				5101, -- [11]
+				956, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marksmanship", -- [16]
+				19, -- [17]
+			}, -- [3]
+			{
+				"Puredk-Barthilas", -- [1]
+				4, -- [2]
+				11, -- [3]
+				4, -- [4]
+				271, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				688675, -- [10]
+				131487, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				28, -- [17]
+			}, -- [4]
+			{
+				"Baesong", -- [1]
+				3, -- [2]
+				8, -- [3]
+				4, -- [4]
+				258, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				852575, -- [10]
+				99298, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				81, -- [17]
+			}, -- [5]
+			{
+				"Zorkitha-Sargeras", -- [1]
+				3, -- [2]
+				25, -- [3]
+				3, -- [4]
+				203, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				190726, -- [10]
+				399288, -- [11]
+				1509, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				8, -- [17]
+			}, -- [6]
+			{
+				"Homegrown-Sargeras", -- [1]
+				3, -- [2]
+				28, -- [3]
+				1, -- [4]
+				209, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				549348, -- [10]
+				74989, -- [11]
+				1599, -- [12]
+				-1, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Beast Mastery", -- [16]
+				35, -- [17]
+			}, -- [7]
+			{
+				"Yukiox-Area52", -- [1]
+				2, -- [2]
+				10, -- [3]
+				4, -- [4]
+				264, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				654423, -- [10]
+				159967, -- [11]
+				1620, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				18, -- [17]
+			}, -- [8]
+			{
+				"Aethael-Area52", -- [1]
+				2, -- [2]
+				7, -- [3]
+				3, -- [4]
+				265, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				526210, -- [10]
+				116173, -- [11]
+				1812, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marksmanship", -- [16]
+				93, -- [17]
+			}, -- [9]
+			{
+				"Yalethia-Proudmoore", -- [1]
+				2, -- [2]
+				21, -- [3]
+				3, -- [4]
+				199, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				594391, -- [10]
+				81514, -- [11]
+				1583, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				22, -- [17]
+			}, -- [10]
+			{
+				"Lukepoobar-Dalaran", -- [1]
+				2, -- [2]
+				22, -- [3]
+				1, -- [4]
+				197, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				721744, -- [10]
+				78916, -- [11]
+				1498, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				17, -- [17]
+			}, -- [11]
+			{
+				"Aricus-KirinTor", -- [1]
+				1, -- [2]
+				8, -- [3]
+				4, -- [4]
+				169, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				257971, -- [10]
+				348346, -- [11]
+				1571, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				32, -- [17]
+			}, -- [12]
+			{
+				"Toshmonk", -- [1]
+				1, -- [2]
+				11, -- [3]
+				3, -- [4]
+				270, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				19664, -- [10]
+				1091498, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Mistweaver", -- [16]
+				37, -- [17]
+			}, -- [13]
+			{
+				"Choofa-Area52", -- [1]
+				1, -- [2]
+				6, -- [3]
+				1, -- [4]
+				253, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				202390, -- [10]
+				47611, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Windwalker", -- [16]
+				117, -- [17]
+			}, -- [14]
+			{
+				"Scitron", -- [1]
+				0, -- [2]
+				5, -- [3]
+				6, -- [4]
+				251, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				109895, -- [10]
+				1169423, -- [11]
+				1457, -- [12]
+				154, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				293, -- [17]
+			}, -- [15]
+			{
+				"Orcbum", -- [1]
+				0, -- [2]
+				6, -- [3]
+				5, -- [4]
+				254, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				661487, -- [10]
+				532014, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				129, -- [17]
+			}, -- [16]
+			{
+				"Cluttch-Area52", -- [1]
+				0, -- [2]
+				3, -- [3]
+				5, -- [4]
+				245, -- [5]
+				0, -- [6]
+				"Vulpera", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				69211, -- [10]
+				1178195, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				47, -- [17]
+			}, -- [17]
+			{
+				"Millay-Dalaran", -- [1]
+				0, -- [2]
+				24, -- [3]
+				1, -- [4]
+				197, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				571312, -- [10]
+				21628, -- [11]
+				767, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Outlaw", -- [16]
+				10, -- [17]
+			}, -- [18]
+			{
+				"Failed-Area52", -- [1]
+				0, -- [2]
+				2, -- [3]
+				0, -- [4]
+				243, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				121650, -- [10]
+				31807, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				27, -- [17]
+			}, -- [19]
+			{
+				"Relaxcorgi-Sargeras", -- [1]
+				0, -- [2]
+				28, -- [3]
+				0, -- [4]
+				205, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				90582, -- [10]
+				1337640, -- [11]
+				1593, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				12, -- [17]
+			}, -- [20]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 761,
+		["Season"] = 30,
+		["PlayerSide"] = 0,
+		["Version"] = 302,
+		["isRated"] = true,
+		["BGPlace"] = {
+			{
+				5, -- [1]
+				1, -- [2]
+				2, -- [3]
+				10, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				12, -- [1]
+				10, -- [2]
+				2, -- [3]
+				20, -- [4]
+				4, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 0,
+		["isArena"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1677, -- [4]
+				10, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1701, -- [4]
+				10, -- [5]
+			}, -- [2]
+		},
+	}, -- [30]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 1169,
+		["PlayerNum"] = 19,
+		["isBrawl"] = false,
+		["Time"] = 1611209509,
+		["Players"] = {
+			{
+				"Izuál-Ragnaros", -- [1]
+				15, -- [2]
+				58, -- [3]
+				2, -- [4]
+				417, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				1373049, -- [10]
+				183653, -- [11]
+				1728, -- [12]
+				17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Retribution", -- [16]
+				162, -- [17]
+			}, -- [1]
+			{
+				"Däbalo-Ragnaros", -- [1]
+				11, -- [2]
+				63, -- [3]
+				3, -- [4]
+				430, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				2188986, -- [10]
+				271449, -- [11]
+				1734, -- [12]
+				17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				72, -- [17]
+			}, -- [2]
+			{
+				"Ryûsei-Ragnaros", -- [1]
+				10, -- [2]
+				57, -- [3]
+				4, -- [4]
+				417, -- [5]
+				0, -- [6]
+				"Pandaren", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				1256628, -- [10]
+				299852, -- [11]
+				959, -- [12]
+				191, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Windwalker", -- [16]
+				16, -- [17]
+			}, -- [3]
+			{
+				"Werachica-Ragnaros", -- [1]
+				10, -- [2]
+				57, -- [3]
+				2, -- [4]
+				418, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				922315, -- [10]
+				229645, -- [11]
+				1517, -- [12]
+				22, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Havoc", -- [16]
+				108, -- [17]
+			}, -- [4]
+			{
+				"Djînn-Ragnaros", -- [1]
+				7, -- [2]
+				40, -- [3]
+				7, -- [4]
+				389, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				691582, -- [10]
+				115451, -- [11]
+				1517, -- [12]
+				22, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Subtlety", -- [16]
+				47, -- [17]
+			}, -- [5]
+			{
+				"Gschism-Ragnaros", -- [1]
+				7, -- [2]
+				58, -- [3]
+				2, -- [4]
+				421, -- [5]
+				0, -- [6]
+				"Undead", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				1160854, -- [10]
+				188824, -- [11]
+				1517, -- [12]
+				22, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				193, -- [17]
+			}, -- [6]
+			{
+				"Yukiox-Area52", -- [1]
+				4, -- [2]
+				23, -- [3]
+				8, -- [4]
+				220, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				821480, -- [10]
+				204112, -- [11]
+				1635, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				19, -- [17]
+			}, -- [7]
+			{
+				"Choofa-Area52", -- [1]
+				4, -- [2]
+				18, -- [3]
+				8, -- [4]
+				206, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				504789, -- [10]
+				166344, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Windwalker", -- [16]
+				117, -- [17]
+			}, -- [8]
+			{
+				"Baesong", -- [1]
+				4, -- [2]
+				19, -- [3]
+				7, -- [4]
+				209, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				785966, -- [10]
+				118455, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				81, -- [17]
+			}, -- [9]
+			{
+				"Puredk-Barthilas", -- [1]
+				4, -- [2]
+				25, -- [3]
+				5, -- [4]
+				224, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				1338770, -- [10]
+				432160, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				28, -- [17]
+			}, -- [10]
+			{
+				"Aethael-Area52", -- [1]
+				4, -- [2]
+				16, -- [3]
+				5, -- [4]
+				203, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				1031634, -- [10]
+				119224, -- [11]
+				1820, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marksmanship", -- [16]
+				93, -- [17]
+			}, -- [11]
+			{
+				"Failed-Area52", -- [1]
+				3, -- [2]
+				20, -- [3]
+				9, -- [4]
+				212, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				1034933, -- [10]
+				301992, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				28, -- [17]
+			}, -- [12]
+			{
+				"Daampper-Ragnaros", -- [1]
+				3, -- [2]
+				54, -- [3]
+				3, -- [4]
+				410, -- [5]
+				0, -- [6]
+				"Tauren", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				233109, -- [10]
+				906098, -- [11]
+				1580, -- [12]
+				21, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				38, -- [17]
+			}, -- [13]
+			{
+				"Hunds-Ragnaros", -- [1]
+				3, -- [2]
+				36, -- [3]
+				2, -- [4]
+				380, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				361758, -- [10]
+				307476, -- [11]
+				958, -- [12]
+				191, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Vengeance", -- [16]
+				91, -- [17]
+			}, -- [14]
+			{
+				"Scitron", -- [1]
+				2, -- [2]
+				24, -- [3]
+				5, -- [4]
+				220, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				120103, -- [10]
+				1405167, -- [11]
+				1611, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				293, -- [17]
+			}, -- [15]
+			{
+				"Dassel-Ragnaros", -- [1]
+				2, -- [2]
+				53, -- [3]
+				0, -- [4]
+				405, -- [5]
+				0, -- [6]
+				"Vulpera", -- [7]
+				"Priest", -- [8]
+				"PRIEST", -- [9]
+				370995, -- [10]
+				1365340, -- [11]
+				1337, -- [12]
+				184, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				21, -- [17]
+			}, -- [16]
+			{
+				"Orcbum", -- [1]
+				1, -- [2]
+				10, -- [3]
+				6, -- [4]
+				191, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				245922, -- [10]
+				362196, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				130, -- [17]
+			}, -- [17]
+			{
+				"Cluttch-Area52", -- [1]
+				0, -- [2]
+				21, -- [3]
+				8, -- [4]
+				213, -- [5]
+				1, -- [6]
+				"Vulpera", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				51571, -- [10]
+				1772481, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				47, -- [17]
+			}, -- [18]
+			{
+				"Toshmonk", -- [1]
+				0, -- [2]
+				14, -- [3]
+				8, -- [4]
+				199, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				28352, -- [10]
+				788577, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Mistweaver", -- [16]
+				37, -- [17]
+			}, -- [19]
+			{
+				"Zentrees-Mal'Ganis", -- [1]
+				0, -- [2]
+				56, -- [3]
+				2, -- [4]
+				418, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				80036, -- [10]
+				1108048, -- [11]
+				1646, -- [12]
+				19, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				10, -- [17]
+			}, -- [20]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 726,
+		["Season"] = 30,
+		["PlayerSide"] = 1,
+		["Version"] = 302,
+		["isRated"] = true,
+		["BGPlace"] = {
+			{
+				9, -- [1]
+				9, -- [2]
+				9, -- [3]
+				10, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				18, -- [1]
+				19, -- [2]
+				19, -- [3]
+				20, -- [4]
+				6, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 0,
+		["isArena"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1886, -- [4]
+				10, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1893, -- [4]
+				10, -- [5]
+			}, -- [2]
+		},
+	}, -- [31]
+	{
+		["PlayerStats"] = {
+			1, -- [1]
+			0, -- [2]
+			2, -- [3]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 916,
+		["PlayerNum"] = 14,
+		["isBrawl"] = false,
+		["Time"] = 1611210905,
+		["Players"] = {
+			{
+				"Aethael-Area52", -- [1]
+				10, -- [2]
+				31, -- [3]
+				2, -- [4]
+				326, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				580343, -- [10]
+				130279, -- [11]
+				1810, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marksmanship", -- [16]
+				93, -- [17]
+			}, -- [1]
+			{
+				"Baesong", -- [1]
+				8, -- [2]
+				35, -- [3]
+				5, -- [4]
+				329, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				955562, -- [10]
+				187710, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				82, -- [17]
+			}, -- [2]
+			{
+				"Puredk-Barthilas", -- [1]
+				7, -- [2]
+				28, -- [3]
+				6, -- [4]
+				311, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				1201694, -- [10]
+				261768, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				28, -- [17]
+			}, -- [3]
+			{
+				"Choofa-Area52", -- [1]
+				7, -- [2]
+				33, -- [3]
+				3, -- [4]
+				329, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				955790, -- [10]
+				209891, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Windwalker", -- [16]
+				117, -- [17]
+			}, -- [4]
+			{
+				"Meemes-Proudmoore", -- [1]
+				7, -- [2]
+				22, -- [3]
+				1, -- [4]
+				191, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				2603096, -- [10]
+				322540, -- [11]
+				958, -- [12]
+				188, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				34, -- [17]
+			}, -- [5]
+			{
+				"Neinhart-Proudmoore", -- [1]
+				5, -- [2]
+				19, -- [3]
+				3, -- [4]
+				184, -- [5]
+				1, -- [6]
+				"Void Elf", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				876200, -- [10]
+				228759, -- [11]
+				1523, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				18, -- [17]
+			}, -- [6]
+			{
+				"Emeraldcobra-Ragnaros", -- [1]
+				3, -- [2]
+				21, -- [3]
+				4, -- [4]
+				189, -- [5]
+				1, -- [6]
+				"Dwarf", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				186582, -- [10]
+				655624, -- [11]
+				1596, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				9, -- [17]
+			}, -- [7]
+			{
+				"Icanheal-Alleria", -- [1]
+				3, -- [2]
+				18, -- [3]
+				4, -- [4]
+				182, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				815862, -- [10]
+				181537, -- [11]
+				1507, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				48, -- [17]
+			}, -- [8]
+			{
+				"Maybesci-Area52", -- [1]
+				3, -- [2]
+				29, -- [3]
+				2, -- [4]
+				321, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				199364, -- [10]
+				69172, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Subtlety", -- [16]
+				293, -- [17]
+			}, -- [9]
+			{
+				"Jakë-Stormrage", -- [1]
+				2, -- [2]
+				20, -- [3]
+				4, -- [4]
+				184, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				730870, -- [10]
+				1982046, -- [11]
+				1600, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				328, -- [17]
+			}, -- [10]
+			{
+				"Rurouni-Alleria", -- [1]
+				2, -- [2]
+				17, -- [3]
+				3, -- [4]
+				180, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				306125, -- [10]
+				57489, -- [11]
+				1553, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Subtlety", -- [16]
+				100, -- [17]
+			}, -- [11]
+			{
+				"Orcbum", -- [1]
+				2, -- [2]
+				35, -- [3]
+				2, -- [4]
+				329, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				523223, -- [10]
+				317272, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				130, -- [17]
+			}, -- [12]
+			{
+				"Failed-Area52", -- [1]
+				2, -- [2]
+				40, -- [3]
+				1, -- [4]
+				342, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				1866344, -- [10]
+				333493, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				28, -- [17]
+			}, -- [13]
+			{
+				"Toshmonk", -- [1]
+				2, -- [2]
+				33, -- [3]
+				1, -- [4]
+				326, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				37414, -- [10]
+				1230304, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Mistweaver", -- [16]
+				37, -- [17]
+			}, -- [14]
+			{
+				"Chad-Haomarush", -- [1]
+				1, -- [2]
+				16, -- [3]
+				6, -- [4]
+				176, -- [5]
+				1, -- [6]
+				"Gnome", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				296157, -- [10]
+				55397, -- [11]
+				1516, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				26, -- [17]
+			}, -- [15]
+			{
+				"Furgan-Hellscream", -- [1]
+				0, -- [2]
+				20, -- [3]
+				8, -- [4]
+				186, -- [5]
+				1, -- [6]
+				"Dwarf", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				136927, -- [10]
+				686007, -- [11]
+				1519, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				59, -- [17]
+			}, -- [16]
+			{
+				"Ravena-Khadgar", -- [1]
+				0, -- [2]
+				19, -- [3]
+				6, -- [4]
+				183, -- [5]
+				1, -- [6]
+				"Human", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				981726, -- [10]
+				355584, -- [11]
+				1409, -- [12]
+				52, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Retribution", -- [16]
+				37, -- [17]
+			}, -- [17]
+			{
+				"Infernex-Frostmourne", -- [1]
+				0, -- [2]
+				11, -- [3]
+				6, -- [4]
+				167, -- [5]
+				1, -- [6]
+				"Night Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				383844, -- [10]
+				118605, -- [11]
+				1585, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Vengeance", -- [16]
+				55, -- [17]
+			}, -- [18]
+			{
+				"Cluttch-Area52", -- [1]
+				0, -- [2]
+				40, -- [3]
+				1, -- [4]
+				342, -- [5]
+				0, -- [6]
+				"Vulpera", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				135040, -- [10]
+				2102081, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				47, -- [17]
+			}, -- [19]
+			{
+				"Yukios", -- [1]
+				0, -- [2]
+				41, -- [3]
+				0, -- [4]
+				345, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				7369, -- [10]
+				1537880, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				19, -- [17]
+			}, -- [20]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 566,
+		["Season"] = 30,
+		["PlayerSide"] = 0,
+		["Version"] = 302,
+		["isRated"] = true,
+		["BGPlace"] = {
+			{
+				6, -- [1]
+				6, -- [2]
+				7, -- [3]
+				9, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				10, -- [1]
+				6, -- [2]
+				7, -- [3]
+				19, -- [4]
+				4, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["isArena"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1642, -- [4]
+				10, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1657, -- [4]
+				10, -- [5]
+			}, -- [2]
+		},
+	}, -- [32]
+	{
+		["PlayerStats"] = {
+			100, -- [1]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 544,
+		["PlayerNum"] = 15,
+		["isBrawl"] = false,
+		["Time"] = 1611211702,
+		["Players"] = {
+			{
+				"Baesong", -- [1]
+				6, -- [2]
+				28, -- [3]
+				0, -- [4]
+				209, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				452395, -- [10]
+				8512, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				82, -- [17]
+			}, -- [1]
+			{
+				"Failed-Area52", -- [1]
+				5, -- [2]
+				27, -- [3]
+				0, -- [4]
+				206, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				479749, -- [10]
+				97841, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				28, -- [17]
+			}, -- [2]
+			{
+				"Orcbum", -- [1]
+				4, -- [2]
+				25, -- [3]
+				1, -- [4]
+				204, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				337503, -- [10]
+				216018, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				130, -- [17]
+			}, -- [3]
+			{
+				"Puredk-Barthilas", -- [1]
+				4, -- [2]
+				28, -- [3]
+				0, -- [4]
+				209, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				557540, -- [10]
+				84927, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				28, -- [17]
+			}, -- [4]
+			{
+				"Choofa-Area52", -- [1]
+				4, -- [2]
+				27, -- [3]
+				0, -- [4]
+				206, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				404580, -- [10]
+				12518, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Windwalker", -- [16]
+				117, -- [17]
+			}, -- [5]
+			{
+				"Aethael-Area52", -- [1]
+				3, -- [2]
+				22, -- [3]
+				1, -- [4]
+				198, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				385244, -- [10]
+				70314, -- [11]
+				1793, -- [12]
+				3, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marksmanship", -- [16]
+				93, -- [17]
+			}, -- [6]
+			{
+				"Furíosa-Darrowmere", -- [1]
+				2, -- [2]
+				5, -- [3]
+				2, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				482142, -- [10]
+				462010, -- [11]
+				1274, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				9, -- [17]
+			}, -- [7]
+			{
+				"Maybesci-Area52", -- [1]
+				2, -- [2]
+				23, -- [3]
+				1, -- [4]
+				200, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				183023, -- [10]
+				41313, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Subtlety", -- [16]
+				293, -- [17]
+			}, -- [8]
+			{
+				"Cronickilla-Akama", -- [1]
+				1, -- [2]
+				5, -- [3]
+				4, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Tauren", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				160460, -- [10]
+				82245, -- [11]
+				1263, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Windwalker", -- [16]
+				14, -- [17]
+			}, -- [9]
+			{
+				"Sylast-Stormscale", -- [1]
+				1, -- [2]
+				5, -- [3]
+				3, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Tauren", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				76116, -- [10]
+				404881, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				4, -- [17]
+			}, -- [10]
+			{
+				"Tummyfangs-Area52", -- [1]
+				1, -- [2]
+				5, -- [3]
+				2, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				573771, -- [10]
+				157768, -- [11]
+				575, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				37, -- [17]
+			}, -- [11]
+			{
+				"Draxious-Area52", -- [1]
+				0, -- [2]
+				5, -- [3]
+				5, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Tauren", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				237562, -- [10]
+				61439, -- [11]
+				1372, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				9, -- [17]
+			}, -- [12]
+			{
+				"Gwendilan-Barthilas", -- [1]
+				0, -- [2]
+				5, -- [3]
+				4, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Priest", -- [8]
+				"PRIEST", -- [9]
+				66027, -- [10]
+				365855, -- [11]
+				384, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Discipline", -- [16]
+				28, -- [17]
+			}, -- [13]
+			{
+				"Goondocker-Azshara", -- [1]
+				0, -- [2]
+				5, -- [3]
+				3, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				425692, -- [10]
+				26815, -- [11]
+				1262, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marksmanship", -- [16]
+				9, -- [17]
+			}, -- [14]
+			{
+				"Toshmonk", -- [1]
+				0, -- [2]
+				28, -- [3]
+				2, -- [4]
+				209, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				44286, -- [10]
+				602345, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Mistweaver", -- [16]
+				37, -- [17]
+			}, -- [15]
+			{
+				"Därkthrone-Tichondrius", -- [1]
+				0, -- [2]
+				5, -- [3]
+				2, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				157767, -- [10]
+				8784, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Subtlety", -- [16]
+				32, -- [17]
+			}, -- [16]
+			{
+				"Firefoxes-Tichondrius", -- [1]
+				0, -- [2]
+				5, -- [3]
+				2, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Vulpera", -- [7]
+				"Mage", -- [8]
+				"MAGE", -- [9]
+				144189, -- [10]
+				33882, -- [11]
+				384, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Fire", -- [16]
+				22, -- [17]
+			}, -- [17]
+			{
+				"Salvatiøn-Thrall", -- [1]
+				0, -- [2]
+				5, -- [3]
+				2, -- [4]
+				55, -- [5]
+				0, -- [6]
+				"Zandalari Troll", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				137810, -- [10]
+				202129, -- [11]
+				192, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				11, -- [17]
+			}, -- [18]
+			{
+				"Yukios", -- [1]
+				0, -- [2]
+				27, -- [3]
+				0, -- [4]
+				206, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				31188, -- [10]
+				513096, -- [11]
+				0, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				19, -- [17]
+			}, -- [19]
+			{
+				"Cluttch-Area52", -- [1]
+				0, -- [2]
+				26, -- [3]
+				0, -- [4]
+				204, -- [5]
+				1, -- [6]
+				"Vulpera", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				56649, -- [10]
+				562736, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				47, -- [17]
+			}, -- [20]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 1803,
+		["Season"] = 30,
+		["PlayerSide"] = 1,
+		["Version"] = 302,
+		["isRated"] = true,
+		["BGPlace"] = {
+			{
+				8, -- [1]
+				1, -- [2]
+				1, -- [3]
+				9, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				12, -- [1]
+				1, -- [2]
+				1, -- [3]
+				19, -- [4]
+				1, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["isArena"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1458, -- [4]
+				10, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1460, -- [4]
+				10, -- [5]
+			}, -- [2]
+		},
+	}, -- [33]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			1, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 748,
+		["PlayerNum"] = 15,
+		["isBrawl"] = false,
+		["Time"] = 1611212732,
+		["Players"] = {
+			{
+				"Aethael-Area52", -- [1]
+				9, -- [2]
+				13, -- [3]
+				1, -- [4]
+				210, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				874916, -- [10]
+				99422, -- [11]
+				1796, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marksmanship", -- [16]
+				93, -- [17]
+			}, -- [1]
+			{
+				"Choofa-Area52", -- [1]
+				6, -- [2]
+				18, -- [3]
+				3, -- [4]
+				211, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				442602, -- [10]
+				181545, -- [11]
+				384, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Windwalker", -- [16]
+				117, -- [17]
+			}, -- [2]
+			{
+				"Puredk-Barthilas", -- [1]
+				5, -- [2]
+				17, -- [3]
+				3, -- [4]
+				211, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				599956, -- [10]
+				114213, -- [11]
+				384, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				28, -- [17]
+			}, -- [3]
+			{
+				"Blixem-Tichondrius", -- [1]
+				4, -- [2]
+				12, -- [3]
+				5, -- [4]
+				117, -- [5]
+				0, -- [6]
+				"Tauren", -- [7]
+				"Druid", -- [8]
+				"DRUID", -- [9]
+				693901, -- [10]
+				182304, -- [11]
+				1619, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Balance", -- [16]
+				279, -- [17]
+			}, -- [4]
+			{
+				"Toomanytatts-Nagrand", -- [1]
+				3, -- [2]
+				6, -- [3]
+				4, -- [4]
+				119, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Demon Hunter", -- [8]
+				"DEMONHUNTER", -- [9]
+				633990, -- [10]
+				153818, -- [11]
+				1639, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Havoc", -- [16]
+				57, -- [17]
+			}, -- [5]
+			{
+				"Chirpz-Illidan", -- [1]
+				3, -- [2]
+				13, -- [3]
+				1, -- [4]
+				120, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				1022153, -- [10]
+				90663, -- [11]
+				1588, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				15, -- [17]
+			}, -- [6]
+			{
+				"Baesong", -- [1]
+				3, -- [2]
+				21, -- [3]
+				0, -- [4]
+				218, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				984949, -- [10]
+				94973, -- [11]
+				384, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Arms", -- [16]
+				82, -- [17]
+			}, -- [7]
+			{
+				"Muertë-Tichondrius", -- [1]
+				2, -- [2]
+				12, -- [3]
+				2, -- [4]
+				114, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Death Knight", -- [8]
+				"DEATHKNIGHT", -- [9]
+				1121262, -- [10]
+				168815, -- [11]
+				1507, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Frost", -- [16]
+				60, -- [17]
+			}, -- [8]
+			{
+				"Saeraphim-Thrall", -- [1]
+				2, -- [2]
+				9, -- [3]
+				2, -- [4]
+				113, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Hunter", -- [8]
+				"HUNTER", -- [9]
+				610959, -- [10]
+				50819, -- [11]
+				1615, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Beast Mastery", -- [16]
+				8, -- [17]
+			}, -- [9]
+			{
+				"Jubalis-Ragnaros", -- [1]
+				2, -- [2]
+				6, -- [3]
+				1, -- [4]
+				121, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				73197, -- [10]
+				43204, -- [11]
+				1468, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Assassination", -- [16]
+				89, -- [17]
+			}, -- [10]
+			{
+				"Failed-Area52", -- [1]
+				2, -- [2]
+				12, -- [3]
+				0, -- [4]
+				198, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				181085, -- [10]
+				51533, -- [11]
+				384, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				28, -- [17]
+			}, -- [11]
+			{
+				"Maybesci-Area52", -- [1]
+				1, -- [2]
+				9, -- [3]
+				2, -- [4]
+				192, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Rogue", -- [8]
+				"ROGUE", -- [9]
+				140211, -- [10]
+				65536, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Subtlety", -- [16]
+				293, -- [17]
+			}, -- [12]
+			{
+				"Îycè-Tichondrius", -- [1]
+				1, -- [2]
+				11, -- [3]
+				2, -- [4]
+				114, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				57544, -- [10]
+				949638, -- [11]
+				1595, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				53, -- [17]
+			}, -- [13]
+			{
+				"Telaryù-Tichondrius", -- [1]
+				0, -- [2]
+				11, -- [3]
+				5, -- [4]
+				115, -- [5]
+				0, -- [6]
+				"Undead", -- [7]
+				"Warlock", -- [8]
+				"WARLOCK", -- [9]
+				536828, -- [10]
+				168532, -- [11]
+				1319, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				266, -- [17]
+			}, -- [14]
+			{
+				"Toshmonk", -- [1]
+				0, -- [2]
+				24, -- [3]
+				4, -- [4]
+				237, -- [5]
+				1, -- [6]
+				"Blood Elf", -- [7]
+				"Monk", -- [8]
+				"MONK", -- [9]
+				19248, -- [10]
+				916423, -- [11]
+				384, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Mistweaver", -- [16]
+				38, -- [17]
+			}, -- [15]
+			{
+				"Gramfather-Illidan", -- [1]
+				0, -- [2]
+				10, -- [3]
+				3, -- [4]
+				112, -- [5]
+				0, -- [6]
+				"Undead", -- [7]
+				"Priest", -- [8]
+				"PRIEST", -- [9]
+				276016, -- [10]
+				744091, -- [11]
+				1704, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Discipline", -- [16]
+				23, -- [17]
+			}, -- [16]
+			{
+				"Cluttch-Area52", -- [1]
+				0, -- [2]
+				21, -- [3]
+				2, -- [4]
+				217, -- [5]
+				1, -- [6]
+				"Vulpera", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				83044, -- [10]
+				1500362, -- [11]
+				384, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				47, -- [17]
+			}, -- [17]
+			{
+				"Yukios", -- [1]
+				0, -- [2]
+				19, -- [3]
+				2, -- [4]
+				210, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Shaman", -- [8]
+				"SHAMAN", -- [9]
+				5205, -- [10]
+				1112471, -- [11]
+				192, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restoration", -- [16]
+				19, -- [17]
+			}, -- [18]
+			{
+				"Kaeltthos-Tichondrius", -- [1]
+				0, -- [2]
+				12, -- [3]
+				1, -- [4]
+				118, -- [5]
+				0, -- [6]
+				"Blood Elf", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				272108, -- [10]
+				630700, -- [11]
+				1560, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Holy", -- [16]
+				110, -- [17]
+			}, -- [19]
+			{
+				"Orcbum", -- [1]
+				0, -- [2]
+				22, -- [3]
+				0, -- [4]
+				227, -- [5]
+				1, -- [6]
+				"Orc", -- [7]
+				"Warrior", -- [8]
+				"WARRIOR", -- [9]
+				752235, -- [10]
+				494391, -- [11]
+				384, -- [12]
+				192, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				130, -- [17]
+			}, -- [20]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				3, -- [2]
+				6, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				3, -- [2]
+				7, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 2107,
+		["Season"] = 30,
+		["PlayerSide"] = 1,
+		["Version"] = 302,
+		["isRated"] = true,
+		["BGPlace"] = {
+			{
+				7, -- [1]
+				1, -- [2]
+				1, -- [3]
+				9, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				14, -- [1]
+				1, -- [2]
+				1, -- [3]
+				19, -- [4]
+				4, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["isArena"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1633, -- [4]
+				10, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1629, -- [4]
+				10, -- [5]
+			}, -- [2]
+		},
+	}, -- [34]
 }
 REFlexHonorDatabase = {
-	[1609218000] = 80,
 	[1609909200] = 60,
+	[1611205200] = 1241,
+	[1609218000] = 80,
 }
