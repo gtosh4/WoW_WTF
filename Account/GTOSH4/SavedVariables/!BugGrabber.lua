@@ -1,13 +1,14 @@
 
 BugGrabberDB = {
+	["session"] = 594,
 	["lastSanitation"] = 3,
-	["session"] = 591,
 	["errors"] = {
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'ActionButton1:Show()'.",
-			["time"] = "2021/01/20 00:48:13",
-			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:348: in function <Interface\\FrameXML\\ActionButton.lua:332>\n[string \"=[C]\"]: in function `Update'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:854: in function `OnEvent'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:265: in function <Interface\\FrameXML\\ActionButton.lua:257>",
-			["session"] = 590,
+			["message"] = "Interface\\AddOns\\AstralKeys\\Communications.lua:82: attempt to call field 'method' (a nil value)",
+			["time"] = "2021/01/23 02:54:51",
+			["locals"] = "self = AstralComs {\n 0 = <userdata>\n loadDelay = 0\n Init = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:175\n IsPrefixRegistered = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:59\n UnregisterPrefix = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:48\n OnEvent = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:70\n RegisterPrefix = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:34\n versionPrint = false\n delay = 0\n NewMessage = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:104\n queue = <table> {\n }\n SendMessage = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:134\n OnUpdate = <function> defined @Interface\\AddOns\\AstralKeys\\Communications.lua:150\n dtbl = <table> {\n }\n}\nevent = \"CHAT_MSG_ADDON\"\nprefix = \"AstralKeys\"\nmsg = \"request\"\nchannel = \"GUILD\"\nsender = \"Sci-Area52\"\nobjs = <table> {\n 1 = <table> {\n }\n 2 = <table> {\n }\n 3 = <table> {\n }\n 4 = <table> {\n }\n 5 = <table> {\n }\n 6 = <table> {\n }\n}\narg = \"request\"\ncontent = \"\"\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 1 = <table> {\n }\n 2 = <table> {\n }\n 3 = <table> {\n }\n 4 = <table> {\n }\n 5 = <table> {\n }\n 6 = <table> {\n }\n}\n(for control) = 6\n_ = 6\nobj = <table> {\n prefix = \"request\"\n}\n(*temporary) = nil\n(*temporary) = \"\"\n(*temporary) = \"Sci-Area52\"\n(*temporary) = \"request\"\n(*temporary) = \"attempt to call field 'method' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\AstralKeys\\Communications.lua\"]:82: in function <Interface\\AddOns\\AstralKeys\\Communications.lua:70>",
+			["session"] = 593,
 			["counter"] = 1,
 		}, -- [1]
 	},
