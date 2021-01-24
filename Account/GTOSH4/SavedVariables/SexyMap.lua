@@ -22,6 +22,12 @@ SexyMap2DB = {
 			},
 			["yOffset"] = 10,
 		},
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
+		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -42,12 +48,6 @@ SexyMap2DB = {
 				["LibDBIcon10_REFlex"] = 239.8998851432848,
 			},
 			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -162,40 +162,6 @@ SexyMap2DB = {
 			["backgroundColor"] = {
 			},
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "never",
-				["MiniMapChallengeMode"] = "never",
-				["SexyMapZoneTextButton"] = "never",
-				["GameTimeFrame"] = "never",
-				["LibDBIcon10_Dominos"] = "never",
-				["MiniMapWorldMapButton"] = "never",
-				["MinimapZoomOut"] = "never",
-				["LibDBIcon10_SavedInstances"] = "never",
-				["MiniMapInstanceDifficulty"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["MiniMapTracking"] = "never",
-				["GarrisonLandingPageMinimapButton"] = "never",
-				["GuildInstanceDifficulty"] = "never",
-				["TimeManagerClockButton"] = "never",
-			},
-			["dragPositions"] = {
-				["GameTimeFrame"] = 43.8597518352463,
-				["QueueStatusMinimapButton"] = 12.93495570483401,
-				["GuildInstanceDifficulty"] = -27.76190129645581,
-				["LibDBIcon10_SimulationCraft"] = 198.4673776858481,
-				["LibDBIcon10_REFlex"] = 197.0691461092269,
-				["GarrisonLandingPageMinimapButton"] = -4.853091590334242,
-				["LibDBIcon10_BugSack"] = 187.8530548582654,
-				["LibDBIcon10_SavedInstances"] = 180.4162643872903,
-				["MiniMapTracking"] = 29.75885204016652,
-			},
-			["controlVisibility"] = true,
-		},
 		["movers"] = {
 			["lockDurability"] = true,
 			["lockObjectives"] = true,
@@ -239,6 +205,40 @@ SexyMap2DB = {
 			["lockBuffs"] = true,
 			["moveCaptureBar"] = true,
 			["moveObjectives"] = true,
+		},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "never",
+				["MiniMapChallengeMode"] = "never",
+				["MinimapZoomOut"] = "never",
+				["GameTimeFrame"] = "never",
+				["LibDBIcon10_Dominos"] = "never",
+				["TimeManagerClockButton"] = "never",
+				["SexyMapZoneTextButton"] = "never",
+				["LibDBIcon10_SavedInstances"] = "never",
+				["MiniMapInstanceDifficulty"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "never",
+				["MiniMapTracking"] = "never",
+				["GuildInstanceDifficulty"] = "never",
+				["MiniMapWorldMapButton"] = "never",
+			},
+			["dragPositions"] = {
+				["GameTimeFrame"] = 43.8597518352463,
+				["LibDBIcon10_REFlex"] = 197.0691461092269,
+				["GuildInstanceDifficulty"] = -27.76190129645581,
+				["LibDBIcon10_SimulationCraft"] = 198.4673776858481,
+				["QueueStatusMinimapButton"] = 12.93495570483401,
+				["MiniMapTracking"] = 29.75885204016652,
+				["LibDBIcon10_BugSack"] = 187.8530548582654,
+				["LibDBIcon10_SavedInstances"] = 180.4162643872903,
+				["GarrisonLandingPageMinimapButton"] = -4.853091590334242,
+			},
+			["controlVisibility"] = true,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -342,6 +342,12 @@ SexyMap2DB = {
 			},
 			["yOffset"] = 10,
 		},
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
+		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -359,12 +365,6 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -484,6 +484,12 @@ SexyMap2DB = {
 			},
 			["yOffset"] = 10,
 		},
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
+		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -501,12 +507,6 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -627,12 +627,6 @@ SexyMap2DB = {
 			},
 			["yOffset"] = 10,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
-		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -650,6 +644,12 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
+		},
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -771,23 +771,11 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -878,11 +866,23 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 	},
 	["Toshdk-Kil'jaeden"] = "global",
@@ -912,23 +912,11 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -1019,11 +1007,23 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 	},
 	["Toshdruid-Area 52"] = "global",

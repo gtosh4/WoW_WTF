@@ -76,7 +76,8 @@ VWQL = {
 	},
 	["SortPrio"] = {
 	},
-	["EnableRibbonGeneralMaps"] = false,
+	["Ignore"] = {
+	},
 	["Toshtoon-Barthilas"] = {
 		["VERSION"] = 92,
 		["Filter"] = 63,
@@ -91,12 +92,8 @@ VWQL = {
 		["faction2465Highlight"] = true,
 		["VERSION"] = 98,
 		["Quests"] = {
-			[61879] = true,
-			[59643] = true,
-			[59850] = true,
 			[60601] = true,
 			[61814] = true,
-			[59581] = true,
 		},
 		["FilterType"] = {
 		},
@@ -106,19 +103,18 @@ VWQL = {
 		},
 		["VERSION"] = 98,
 		["Quests"] = {
-			[62241] = true,
-			[59585] = true,
-			[59601] = true,
 			[61667] = true,
+			[57443] = true,
+			[59601] = true,
+			[62241] = true,
 			[59234] = true,
 			[61784] = true,
 			[59658] = true,
-			[57443] = true,
+			[59585] = true,
 		},
 		["Filter"] = 63,
 	},
-	["Ignore"] = {
-	},
+	["EnableRibbonGeneralMaps"] = false,
 	["DisableRibbon"] = false,
 	["Toshaman-Area52"] = {
 		["Filter"] = 63,
