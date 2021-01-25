@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 596,
 	["lastSanitation"] = 3,
+	["session"] = 597,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\AstralKeys\\Communications.lua:82: attempt to call field 'method' (a nil value)",
