@@ -6,17 +6,17 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 			["Bindings"] = {
 				["RaidSymbols"] = "ALT-E",
 				["TrinketSlots"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
-				["WorldMarkers"] = "ALT-Q",
-				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-G",
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-Q",
 			},
 		},
 	},
