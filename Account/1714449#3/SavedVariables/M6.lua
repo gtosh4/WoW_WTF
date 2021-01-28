@@ -19,6 +19,11 @@ M6DB = {
 			["group"] = 1,
 			["name"] = "t4",
 		}, -- [2]
+		{
+			"macrotext", -- [1]
+			"#showtooltip Weapons of Order\n/cast Weapons of Order\n/cast Soulletting Ruby", -- [2]
+			["name"] = "weps",
+		}, -- [3]
 	},
 	["profiles"] = {
 		["Area 52"] = {
@@ -51,6 +56,7 @@ M6DB = {
 				}, -- [1]
 				{
 					["slots"] = {
+						["s01"] = 3,
 					},
 					["bind"] = {
 					},
