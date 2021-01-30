@@ -21,8 +21,8 @@ BattleGroundEnemiesDB = {
 				["RangeIndicator_Frames"] = {
 					["Racial"] = false,
 					["Power"] = false,
-					["Spec"] = false,
 					["Trinket"] = false,
+					["Spec"] = false,
 					["ObjectiveAndRespawn"] = false,
 					["BuffContainer"] = false,
 				},
