@@ -3,10 +3,8 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshmonk-kiljaeden"
 RaiderIO_MissingCharacters = {
-	["us-Turïs-kiljaeden"] = true,
-	["us-Shrump-kiljaeden"] = true,
-	["us-Ardrissa-kiljaeden"] = true,
-	["us-Flexacute-kiljaeden"] = true,
-	["us-Pepino-kiljaeden"] = true,
+	["us-Merich-area-52"] = true,
+	["us-Captncrusade-kiljaeden"] = true,
+	["us-Redfoot-area-52"] = true,
 }
 RaiderIO_CachedRuns = nil
