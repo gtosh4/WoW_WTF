@@ -7,12 +7,12 @@ LS_TOASTS_GLOBAL_CONFIG = {
 		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
+		["Toshpriest - Azralon"] = "Default",
 		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
 		["Toshaman - Area 52"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -23,8 +23,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["point"] = {
 						["rP"] = "TOP",
 						["p"] = "TOP",
-						["y"] = -4,
 						["x"] = 0,
+						["y"] = -4,
 					},
 				}, -- [1]
 			},
@@ -65,13 +65,13 @@ LS_TOASTS_GLOBAL_CONFIG = {
 						[1718] = 0,
 						[1533] = 0,
 						[1226] = 0,
-						[1342] = 0,
+						[1275] = 0,
 						[1299] = 0,
 						[1155] = 0,
 						[61] = 0,
 						[1813] = 0,
 						[241] = 0,
-						[1275] = 0,
+						[1342] = 0,
 					},
 				},
 				["loot_special"] = {
@@ -79,8 +79,8 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
 					["threshold"] = 1,
+					["ilvl"] = true,
 				},
 				["recipe"] = {
 					["anchor"] = 1,
@@ -99,9 +99,9 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = false,
 					["sfx"] = true,
 					["anchor"] = 1,
-					["ilvl"] = true,
-					["quest"] = false,
 					["threshold"] = 1,
+					["quest"] = false,
+					["ilvl"] = true,
 				},
 				["runecarving"] = {
 					["anchor"] = 1,
@@ -151,11 +151,12 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["dnd"] = true,
 					["sfx"] = true,
 				},
-				["garrison_7_0"] = {
-					["anchor"] = 1,
+				["store"] = {
 					["enabled"] = true,
-					["dnd"] = true,
+					["dnd"] = false,
 					["sfx"] = true,
+					["anchor"] = 1,
+					["left_click"] = false,
 				},
 				["loot_gold"] = {
 					["enabled"] = false,
@@ -165,12 +166,11 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["track_loss"] = false,
 					["threshold"] = 1,
 				},
-				["store"] = {
-					["enabled"] = true,
-					["dnd"] = false,
-					["sfx"] = true,
+				["garrison_7_0"] = {
 					["anchor"] = 1,
-					["left_click"] = false,
+					["enabled"] = true,
+					["dnd"] = true,
+					["sfx"] = true,
 				},
 				["transmog"] = {
 					["enabled"] = true,
