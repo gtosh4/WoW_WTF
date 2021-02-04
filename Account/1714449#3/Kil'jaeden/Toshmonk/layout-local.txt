@@ -13,6 +13,13 @@ X: -6
 Y: 74
 W: 235
 H: 700
+Frame: ExRTNote
+FrameLevel: 1
+Anchor: BOTTOM
+X: 370
+Y: 66
+W: 300
+H: 232
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -48,6 +55,13 @@ X: 31
 Y: 219
 W: 286
 H: 76
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: RIGHT
+X: -496
+Y: -126
+W: 128
+H: 64
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -62,6 +76,13 @@ X: -442
 Y: -133
 W: 600
 H: 400
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -69,13 +90,6 @@ X: 0
 Y: 0
 W: 320
 H: 550
-Frame: ExRTNote
-FrameLevel: 1
-Anchor: BOTTOM
-X: 370
-Y: 66
-W: 300
-H: 232
 Frame: M6UI
 FrameLevel: 1
 Anchor: CENTER
@@ -111,17 +125,3 @@ X: 0
 Y: 96
 W: 570
 H: 155
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: RIGHT
-X: -496
-Y: -126
-W: 243
-H: 234
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1

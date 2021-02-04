@@ -12,7 +12,7 @@ OmniCDDB = {
 	},
 	["cooldowns"] = {
 	},
-	["version"] = 2.5,
+	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
@@ -28,12 +28,8 @@ OmniCDDB = {
 						},
 					},
 				},
-				["scenario"] = {
-				},
 				["visibility"] = {
 					["party"] = false,
-				},
-				["none"] = {
 				},
 			},
 		},
